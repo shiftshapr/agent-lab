@@ -13,8 +13,8 @@
 
 - **Episode Ledger Summary**:
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-606, N-607, N-608, N-609, N-612, N-10913, N-10915, N-10918
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-30, N-69, N-159, N-193, N-212, N-220, N-222, N-224, N-266, N-370, N-579, N-589, N-602, N-10000, N-10026, N-10070, N-10081, N-10083, N-10194, N-10341, N-10447, N-10583, N-10637, N-10638, N-10651, N-10662, N-10664, N-298, N-10862, N-613, N-10916, N-10917, N-10914, N-610, N-611, N-10919
+  - Tip-minted Nodes (skeleton): N-606, N-607, N-608, N-609, N-612, N-10834, N-10836, N-10839
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-30, N-69, N-159, N-193, N-212, N-220, N-222, N-224, N-266, N-370, N-579, N-589, N-602, N-10000, N-10026, N-10067, N-10078, N-10070, N-10186, N-10319, N-10416, N-10606, N-10582, N-10583, N-10593, N-10604, N-298, N-10783, N-613, N-10837, N-10838, N-10835, N-610, N-611, N-10840
   - Claim Range: C-8986–C-9041
   - (see registers)
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:00:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8988, N-2, N-3, N-10913*
+*Related: C-8988, N-2, N-3, N-10834*
 
 **A-2556.2** Host verbal restatement of the $10,000 bounty for information on the video of Erika Kirk leaving the dinner (not shown)
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:05:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8993, N-2, N-3, N-10913*
+*Related: C-8993, N-2, N-3, N-10834*
 
 **A-2556.3** Host verbal reference to the direct tips received in response to the 10K bounty (not shown)
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:11:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9001, C-9002, N-3, N-10913*
+*Related: C-9001, C-9002, N-3, N-10834*
 
 **A-2556.4** Host verbal renewal of the 10K "no questions asked" offer to members of the digital teams that received the video, with the tip line (20:38–21:21; not shown)
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:20:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9011, N-3, N-10913*
+*Related: C-9011, N-3, N-10834*
 
 **A-2556.5** Host verbal closing request for White House Correspondents' Dinner tips, with the tip line (47:36–48:17; not shown)
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:47:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9041, N-3, N-10913*
+*Related: C-9041, N-3, N-10834*
 
 ---
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:03:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8989, C-8990, C-8992, N-10914, N-10662*
+*Related: C-8989, C-8990, C-8992, N-10835, N-10604*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:06:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8995, C-9004, C-9005, C-9006, C-9007, N-2, N-370, N-10913, N-10637, N-10638*
+*Related: C-8995, C-9004, C-9005, C-9006, C-9007, N-2, N-370, N-10834, N-10582, N-10583*
 
 **A-2558.3** Clip of Erika Kirk's speech describing the dinner seating and wine bottles (played)
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:11:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9002, C-9003, C-9004, C-9005, N-10913, N-10000*
+*Related: C-9002, C-9003, C-9004, C-9005, N-10834, N-10000*
 
 **A-2560.2** Still image from a second tipster's previously unseen angle of the exit video (described; host says it was checked and is not AI)
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:12:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9006, N-10913*
+*Related: C-9006, N-10834*
 
 ---
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:16:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9008, N-222, N-10915*
+*Related: C-9008, N-222, N-10836*
 
 **A-2561.2** Andrew Kolvet post on the ballroom (read aloud)
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:16:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9009, N-14, N-10915*
+*Related: C-9009, N-14, N-10836*
 
 **A-2561.3** Meghan McCain post on the ballroom (read aloud)
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:16:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9010, N-589, N-10915*
+*Related: C-9010, N-589, N-10836*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:22:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9013, C-9014, C-9015, C-9016, C-9017, N-579, N-22, N-298, N-608, N-609, N-10083, N-10916, N-10917, N-10918*
+*Related: C-9013, C-9014, C-9015, C-9016, C-9017, N-579, N-22, N-298, N-608, N-609, N-10070, N-10837, N-10838, N-10839*
 
 ---
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:29:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9025, C-9026, C-9027, C-9028, C-9029, C-9030, N-10070, N-610, N-612*
+*Related: C-9025, C-9026, C-9027, C-9028, C-9029, C-9030, N-10067, N-610, N-612*
 
 ---
 
@@ -496,129 +496,123 @@ The country the host says is behind the Show Faith by Works propaganda effort an
 
 *Related: C-8989, C-8991, C-9015*
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Published the article on Jessica Reed Kraus's marriage and the escort-review allegation.
 
 *Related: C-9025, C-9028, C-9029, C-9030, A-2564.1*
 
-**N-10081** Israel Influence on US Politics
+**N-10078** Israel Influence on US Politics
 
 The FARA propaganda spending and the Israeli-lobby money in Thomas Massie's primary.
 
 *Related: C-8991, C-9012, C-9015*
 
-**N-10083** AIPAC
+**N-10070** AIPAC
 
 Named by the host as teaming up with Trump against Massie, and by Massie as a source of the outside money.
 
 *Related: C-9012, C-9015, A-2562.1*
 
-**N-10194** TPUSA Succession Plan Disclosure Timeline
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 The 35-day-old request to see footage of Charlie Kirk naming Erika Kirk as chairman and CEO.
 
 *Related: C-8986, C-9037*
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 The host calls the "steel neck" surgeon quote the biggest lie.
 
 *Related: C-9035*
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 The host contrasts Erika Kirk's "Andrew went rogue" account with Erika initiating a three-way call.
 
 *Related: C-9035, C-9036*
 
-**N-10583** Aspen Donor Audio Integrity Question
-
-Donors are said to say the CEO-succession video is AI.
-
-*Related: C-9037*
-
-**N-10637** WHCD Incident Reconstruction
+**N-10582** WHCD Incident Reconstruction
 
 The White House Correspondents' Dinner shooting and Erika Kirk's exit.
 
 *Related: C-8995, C-8999, A-2558.2*
 
-**N-10638** Sara Sidner Original Video Source Verification
+**N-10583** Sara Sidner Original Video Source Verification
 
 The host doubts that Sidner recorded the exit video and suspects it was sent to her.
 
 *Related: C-9007, A-2558.2*
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 The host cites evidence of possible contact between Kolvet and Harpole through military-bro YouTubers.
 
 *Related: C-9033*
 
-**N-10662** 2025 FARA Propaganda Timeline Convergence
+**N-10604** 2025 FARA Propaganda Timeline Convergence
 
 The Show Faith by Works filing and the increased Israeli propaganda spend.
 
 *Related: C-8989, C-8990, C-8991, C-8992, A-2557.1*
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 The CEO-appointment footage that the host says has not been produced.
 
 *Related: C-8986, C-9037, C-9038*
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Erika Kirk told the host Harpole's Shawn Ryan appearance was unauthorized.
 
 *Related: C-9034*
 
-**N-10913** Erika Kirk WHCD Exit Video Staging Question
+**N-10834** Erika Kirk WHCD Exit Video Staging Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: whether the viral video of Erika Kirk saying "I just want to go home" as she left the 2026 White House Correspondents' Dinner after shots were fired was staged. The host's $10,000 bounty produced a tip from a person in politics who offered a sworn affidavit and named the alleged recorder. That person is described as a freelancing political operative who had done work with Turning Point USA and was positioned in advance. The tipster says the clip was shared among digital media teams to make it go viral. A second tipster holds an unseen 30-second angle. The host says she will withhold the operative's name until it is confirmed.
 
-*Related: C-8988, C-8993, C-9001, C-9002, C-9003, C-9004, C-9005, C-9006, C-9011, C-9041, A-2556.1, A-2556.2, A-2556.3, A-2556.4, A-2556.5, A-2558.2, A-2560.1, A-2560.2, N-2, N-10638*
+*Related: C-8988, C-8993, C-9001, C-9002, C-9003, C-9004, C-9005, C-9006, C-9011, C-9041, A-2556.1, A-2556.2, A-2556.3, A-2556.4, A-2556.5, A-2558.2, A-2560.1, A-2560.2, N-2, N-10583*
 
-**N-10914** Show Faith by Works LLC
+**N-10835** Show Faith by Works LLC
 
 Node Type: Organization
 FARA-registered entity that the host describes as a propaganda arm of the Israeli Foreign Ministry. Its filing includes a detailed plan aimed at evangelical Christians. Part of that plan is a mobile VR "October 7th experience" trailer to be set up in church parking lots, built with Hollywood set designers and paired with biblical calls to action.
 
-*Related: C-8989, C-8990, C-8992, A-2557.1, N-10662*
+*Related: C-8989, C-8990, C-8992, A-2557.1, N-10604*
 
-**N-10915** White House Ballroom Talking-Point Convergence
+**N-10836** White House Ballroom Talking-Point Convergence
 
 Node Type: Topic
 Investigation target: the near-simultaneous posts by Randy Fine, Andrew Kolvet, Meghan McCain and others after the White House Correspondents' Dinner shooting, each saying the shooting showed why President Trump needs a White House ballroom. The host argues the uniform messaging suggests coordination.
 
 *Related: C-9008, C-9009, C-9010, A-2561.1, A-2561.2, A-2561.3, N-222, N-14, N-589*
 
-**N-10916** Thomas Massie Kentucky Primary Outside Spending
+**N-10837** Thomas Massie Kentucky Primary Outside Spending
 
 Node Type: Topic
 Investigation target: the roughly $10 million spent against Representative Thomas Massie in his Republican primary in Kentucky. Massie says at least 95% of it came from the Israeli lobby, including the RJC, AIPAC and a PAC called MAGA Kentucky funded by Miriam Adelson, Paul Singer and John Paulson. He says the race has narrowed to a single-point lead.
 
 *Related: C-9012, C-9013, C-9014, C-9015, C-9016, A-2562.1, N-579*
 
-**N-10917** Republican Jewish Coalition
+**N-10838** Republican Jewish Coalition
 
 Node Type: Organization
 Named by Thomas Massie as one of the Israeli-lobby proxies funding opposition to him.
 
 *Related: C-9015, A-2562.1*
 
-**N-10918** MAGA Kentucky
+**N-10839** MAGA Kentucky
 
 Node Type: Organization
 PAC that Thomas Massie says was funded jointly by Miriam Adelson, Paul Singer and John Paulson to oppose him, and that he calls "neither MAGA nor Kentucky."
 
 *Related: C-9016, A-2562.1, N-298, N-608, N-609*
 
-**N-10919** Andrew Kolvet / House Inhabit PR Collaboration Question
+**N-10840** Andrew Kolvet / House Inhabit PR Collaboration Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the host's allegation that Andrew Kolvet works with Jessica Reed Kraus (House Inhabit) and other YouTubers, using them as part of TPUSA's PR effort. She says Kraus is one of the people attacking her husband.
 
 *Related: C-9018, C-9023, N-14, N-610*
@@ -635,7 +629,7 @@ Transcript Snippet: it has been 35 days, 35 long days, since we have publicly, a
 
 Anchored Artifacts:
 Mentions: N-1, N-2
-Related Nodes: N-10000, N-10194, N-10664
+Related Nodes: N-10000, N-10186, N-10606
 Investigative Direction: Request the full, unedited source video of the Aspen remarks from Turning Point USA and check whether any video (as opposed to audio) has ever been published.
 
 ---
@@ -664,7 +658,7 @@ Transcript Snippet: about a week ago, little over a week ago, we put up a bounty
 
 Anchored Artifacts: A-2556.1
 Mentions: N-2, N-3
-Related Nodes: N-10913
+Related Nodes: N-10834
 Supports: C-8578
 Investigative Direction: Archive the original bounty announcement (episode and posts) and its stated terms.
 
@@ -679,7 +673,7 @@ Claim: The host says Show Faith by Works LLC is a FARA-registered propaganda arm
 Transcript Snippet: Show Faith by Works LLC. That's that FARA registered propaganda arm of the Israeli Foreign Ministry.
 
 Anchored Artifacts: A-2557.1
-Related Nodes: N-10914, N-10662, N-10026
+Related Nodes: N-10835, N-10604, N-10026
 Investigative Direction: Pull the Show Faith by Works LLC registration statement and foreign-principal exhibit from the DOJ FARA database.
 
 ---
@@ -693,7 +687,7 @@ Claim: The host says the Show Faith by Works filing states a goal to provide "th
 Transcript Snippet: their stated goal to provide the October 7th experience. The October 7th experience coming to a church parking lot near you.
 
 Anchored Artifacts: A-2557.1
-Related Nodes: N-10914, N-10662
+Related Nodes: N-10835, N-10604
 Supports: C-8837
 Investigative Direction: Locate the exact wording of the "October 7th experience" in the filing's attached plan and its intended venues.
 
@@ -708,7 +702,7 @@ Claim: The host says recent news indicates the Israeli effort targeting evangeli
 Transcript Snippet: with the recent news that they will be upping the spend to what is like $750 million, almost a billion dollars.
 
 Anchored Artifacts:
-Related Nodes: N-10026, N-10081, N-10662
+Related Nodes: N-10026, N-10078, N-10604
 Investigative Direction: Identify the news report and underlying Israeli budget documents stating the $750 million figure.
 
 ---
@@ -722,7 +716,7 @@ Claim: The host says the filing's slide describes a mobile, reservable trailer b
 Transcript Snippet: They're going to build this trailer. They're going to use Hollywood set designers. Uh you're going to be able to reserve it.
 
 Anchored Artifacts: A-2557.1
-Related Nodes: N-10914, N-10662
+Related Nodes: N-10835, N-10604
 Supports: C-8837
 Investigative Direction: Obtain the full slide deck attached to the FARA filing and any vendor contracts for the trailer build.
 
@@ -738,7 +732,7 @@ Transcript Snippet: Last week we put out a bounty. I was not playing around. I s
 
 Anchored Artifacts: A-2556.2
 Mentions: N-2, N-3
-Related Nodes: N-10913
+Related Nodes: N-10834
 Supports: C-8578
 Investigative Direction: Archive the bounty announcement and record any payouts made under it.
 
@@ -768,7 +762,7 @@ Transcript Snippet: there's another video of Erika that comes out, and it's goin
 
 Anchored Artifacts: A-2558.2
 Mentions: N-2
-Related Nodes: N-10913, N-10637
+Related Nodes: N-10834, N-10582
 Investigative Direction: Establish the earliest upload of the clip, its metadata and the device that recorded it.
 
 ---
@@ -825,7 +819,7 @@ Transcript Snippet: This is what happens when propaganda and lies are spread onl
 
 Anchored Artifacts: A-2559.4
 Mentions: N-3, N-22
-Related Nodes: N-10637
+Related Nodes: N-10582
 Investigative Direction: Archive the "Bible in Context" post and identify the account's operator.
 
 ---
@@ -854,7 +848,7 @@ Transcript Snippet: So, we put out that 10K bounty. We just wanted proof of who 
 
 Anchored Artifacts: A-2556.3
 Mentions: N-3
-Related Nodes: N-10913
+Related Nodes: N-10834
 Investigative Direction: Document the tip intake (dates, channels) and any vetting records for the submitted tips.
 
 ---
@@ -869,7 +863,7 @@ Transcript Snippet: this person reached out almost instantly following our show 
 
 Anchored Artifacts: A-2560.1, A-2556.3
 Mentions: N-3
-Related Nodes: N-10913
+Related Nodes: N-10834
 Investigative Direction: Obtain the signed affidavit, if executed, and independently verify the tipster's employment and access.
 
 ---
@@ -883,7 +877,7 @@ Claim: According to the host's tipster, the person who recorded the video appear
 Transcript Snippet: it is a person who appears to have done some work with Turning Point USA in the past.
 
 Anchored Artifacts: A-2560.1
-Related Nodes: N-10913, N-10000
+Related Nodes: N-10834, N-10000
 Investigative Direction: Once the name is released, check TPUSA vendor, contractor and event-staff records for the person.
 
 ---
@@ -898,7 +892,7 @@ Transcript Snippet: Apparently, this freelancing operative was positioned in adv
 
 Anchored Artifacts: A-2560.1, A-2558.2
 Mentions: 
-Related Nodes: N-10913
+Related Nodes: N-10834
 Investigative Direction: Obtain venue credential lists and hotel security footage for the exit corridor, and the recorder's device metadata.
 
 ---
@@ -913,7 +907,7 @@ Transcript Snippet: The operative was allegedly in communication with digital me
 
 Anchored Artifacts: A-2560.1, A-2558.2
 Mentions: 
-Related Nodes: N-10913
+Related Nodes: N-10834
 Investigative Direction: Trace the earliest shares of the clip across accounts and identify coordinated posting times among digital media teams.
 
 ---
@@ -927,7 +921,7 @@ Claim: The host says a second person sent a still from a video taken at an angle
 Transcript Snippet: We checked that. That is not AI. It is definitively an angle that other people have not seen.
 
 Anchored Artifacts: A-2560.2, A-2558.2
-Related Nodes: N-10913
+Related Nodes: N-10834
 Investigative Direction: Obtain the full 30-second video with original metadata and compare it with the viral clip.
 
 ---
@@ -942,7 +936,7 @@ Transcript Snippet: I I didn't buy that Sara Sidner of uh of CNN, who initially 
 
 Anchored Artifacts: A-2558.2
 Mentions: N-370, N-2
-Related Nodes: N-10638, N-10913
+Related Nodes: N-10583, N-10834
 Supports: C-8577
 Investigative Direction: Ask CNN and Sidner for the clip's provenance and the original file's metadata.
 
@@ -958,7 +952,7 @@ Transcript Snippet: We'd better never again hear a peep from anyone complaining 
 
 Anchored Artifacts: A-2561.1
 Mentions: N-222
-Related Nodes: N-10915
+Related Nodes: N-10836
 Investigative Direction: Archive Fine's post with its timestamp relative to the shooting.
 
 ---
@@ -973,7 +967,7 @@ Transcript Snippet: The shooting made you think about a ballroom, Randy Fine, An
 
 Anchored Artifacts: A-2561.2
 Mentions: N-14
-Related Nodes: N-10915
+Related Nodes: N-10836
 Investigative Direction: Archive Kolvet's post with its exact wording and timestamp.
 
 ---
@@ -988,7 +982,7 @@ Transcript Snippet: I don't want to hear one more thing about Trump's new ballro
 
 Anchored Artifacts: A-2561.3
 Mentions: N-589, N-5
-Related Nodes: N-10915
+Related Nodes: N-10836
 Investigative Direction: Archive McCain's post and compare its timing with the other ballroom posts.
 
 ---
@@ -1003,7 +997,7 @@ Transcript Snippet: if you were a part of the digital team that received uh that
 
 Anchored Artifacts: A-2556.4
 Mentions: N-3
-Related Nodes: N-10913
+Related Nodes: N-10834
 Investigative Direction: Track responses to the renewed offer and the identities of digital teams that received the clip before it went viral.
 
 ---
@@ -1018,7 +1012,7 @@ Transcript Snippet: Trump has made he's very vocal. He's teaming up with AIPAC t
 
 Anchored Artifacts:
 Mentions: N-5, N-579
-Related Nodes: N-10083, N-10916, N-10081
+Related Nodes: N-10070, N-10837, N-10078
 Investigative Direction: Review Trump's public statements and endorsements in the Kentucky primary and AIPAC-affiliated expenditures in the race.
 
 ---
@@ -1033,7 +1027,7 @@ Transcript Snippet: It's a single point lead for me. Um it's not very fluid. The
 
 Anchored Artifacts: A-2562.1
 Mentions: N-579, N-22
-Related Nodes: N-10916
+Related Nodes: N-10837
 Investigative Direction: Check FEC independent-expenditure reports for the race and public polling at the time.
 
 ---
@@ -1048,7 +1042,7 @@ Transcript Snippet: So it was 81% margin, 76, 75, like full-on blowouts in the R
 
 Anchored Artifacts: A-2562.1
 Mentions: N-22, N-579
-Related Nodes: N-10916
+Related Nodes: N-10837
 Investigative Direction: Compare with certified Kentucky primary results for Massie's prior races.
 
 ---
@@ -1063,7 +1057,7 @@ Transcript Snippet: it 95% of it, at least 95% has come from the Israeli lobby.
 
 Anchored Artifacts: A-2562.1
 Mentions: N-579, N-298, N-608, N-609
-Related Nodes: N-10916, N-10917, N-10083, N-10081, N-10026
+Related Nodes: N-10837, N-10838, N-10070, N-10078, N-10026
 Investigative Direction: Total FEC-reported independent expenditures in the race by source.
 
 ---
@@ -1078,7 +1072,7 @@ Transcript Snippet: Miriam Adelson, Paul Singer, and John Paulson went together.
 
 Anchored Artifacts: A-2562.1
 Mentions: N-298, N-608, N-609, N-579
-Related Nodes: N-10918, N-10916
+Related Nodes: N-10839, N-10837
 Investigative Direction: Pull MAGA Kentucky's FEC filings for its donor list and expenditures.
 
 ---
@@ -1093,7 +1087,7 @@ Transcript Snippet: she's given over 200 million dollars to the president. He pu
 
 Anchored Artifacts: A-2562.1
 Mentions: N-298, N-5, N-579
-Related Nodes: N-10916
+Related Nodes: N-10837
 Investigative Direction: Total Adelson's FEC-reported contributions to Trump-aligned committees.
 
 ---
@@ -1108,7 +1102,7 @@ Transcript Snippet: One of these people being House Inhabit, Jessica Reed Kraus,
 
 Anchored Artifacts:
 Mentions: N-14, N-610
-Related Nodes: N-10919, N-10000
+Related Nodes: N-10840, N-10000
 Investigative Direction: Identify the earlier revelation the host refers to and any messages or payments between Kolvet/TPUSA and Kraus.
 
 ---
@@ -1179,7 +1173,7 @@ Transcript Snippet: She is the one that posted that totally freakish, obviously 
 
 Anchored Artifacts: A-2563.1
 Mentions: N-610, N-30, N-220
-Related Nodes: N-10919
+Related Nodes: N-10840
 Investigative Direction: Archive the post and run AI-image provenance analysis on the photo.
 
 ---
@@ -1208,7 +1202,7 @@ Transcript Snippet: they wrote MAGA influencer house and habits marriage secrets
 
 Anchored Artifacts: A-2564.1
 Mentions: N-610
-Related Nodes: N-10070
+Related Nodes: N-10067
 Investigative Direction: Archive the Daily Mail article with its publication date and exact headline.
 
 ---
@@ -1251,7 +1245,7 @@ Transcript Snippet: So, the Daily Hit Mail did their due diligence. They went ah
 
 Anchored Artifacts: A-2564.1
 Mentions: N-610
-Related Nodes: N-10070
+Related Nodes: N-10067
 Investigative Direction: Review the Daily Mail's stated verification method and the archived review.
 
 ---
@@ -1266,7 +1260,7 @@ Transcript Snippet: Jessica Reed Kraus did not deny the incident, but she disput
 
 Anchored Artifacts: A-2564.1
 Mentions: N-610
-Related Nodes: N-10070
+Related Nodes: N-10067
 Investigative Direction: Obtain Kraus's full statement to the Daily Mail and the wedding evidence she cites.
 
 ---
@@ -1281,7 +1275,7 @@ Transcript Snippet: He said the number was his, but he wasn't really certain how
 
 Anchored Artifacts: A-2564.1
 Mentions: N-610
-Related Nodes: N-10070
+Related Nodes: N-10067
 Investigative Direction: Confirm the husband's quoted statement in the Daily Mail article.
 
 ---
@@ -1325,7 +1319,7 @@ Transcript Snippet: there seems to be evidence that actually Andrew Kolvet that 
 
 Anchored Artifacts:
 Mentions: N-14, N-266
-Related Nodes: N-10651
+Related Nodes: N-10593
 Investigative Direction: Review the evidence shown in the prior episode and any messages between Kolvet, the YouTubers and Harpole.
 
 ---
@@ -1340,7 +1334,7 @@ Transcript Snippet: I do believe the story, by the way, that he went on Shawn Ry
 
 Anchored Artifacts:
 Mentions: N-266, N-224, N-2, N-3
-Related Nodes: N-10862, N-10000
+Related Nodes: N-10783, N-10000
 Investigative Direction: Ask TPUSA and Harpole whether the appearance was cleared, and review any related contract terms.
 
 ---
@@ -1355,7 +1349,7 @@ Transcript Snippet: the biggest lie being that uh the surgeon said that he had a
 
 Anchored Artifacts:
 Mentions: N-1, N-2, N-14
-Related Nodes: N-10341, N-10447
+Related Nodes: N-10319, N-10416
 Investigative Direction: Obtain a statement from the treating surgeon on what, if anything, was said about the wound.
 
 ---
@@ -1370,7 +1364,7 @@ Transcript Snippet: why she would say that Andrew went rogue when she actually i
 
 Anchored Artifacts:
 Mentions: N-2, N-14
-Related Nodes: N-10447
+Related Nodes: N-10416
 Investigative Direction: Obtain call logs showing who initiated the call with the surgeon and who participated.
 
 ---
@@ -1385,7 +1379,7 @@ Transcript Snippet: They said they had a video. They're not presenting the video
 
 Anchored Artifacts:
 Mentions: N-1, N-2
-Related Nodes: N-10664, N-10583, N-10194
+Related Nodes: N-10606, N-10186
 Investigative Direction: Identify and interview the donors present at the Aspen event, and obtain the original recording for forensic audio analysis.
 
 ---
@@ -1400,7 +1394,7 @@ Transcript Snippet: Very good at um mimicking voices. Like, he could just do any
 
 Anchored Artifacts:
 Mentions: N-1, N-3
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Collect recordings of Charlie Kirk doing impressions and statements from friends about the skill.
 
 ---
@@ -1443,7 +1437,7 @@ Transcript Snippet: if you have any tips pertaining to the White House Correspon
 
 Anchored Artifacts: A-2556.5
 Mentions: N-3
-Related Nodes: N-10913
+Related Nodes: N-10834
 Investigative Direction: Track tips received through the candaceowens.com tip line after the episode.
 
 ---

@@ -15,14 +15,15 @@
 - **Transcript SHA-256**: e1b15b2a8fcf52fde2e90b2f4cb476301947917bf0f6bb881e03dc384f5ccc53
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-11366
-  - Hole-minted Nodes (reintro-ep003): N-10047, N-10077, N-10134, N-10138, N-10456
-  - Tip-minted Nodes (reintro-ep003): N-11227
+  - Tip-minted Nodes (wave4-events): N-11360
+  - Tip-minted Nodes (supplement_2026-10g): N-11282
+  - Hole-minted Nodes (reintro-ep003): N-10044, N-10074, N-10129, N-10133, N-10425
+  - Tip-minted Nodes (reintro-ep003): N-11143
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-154–C-299
   - Artifact Families Introduced: A-1095, A-1096, A-1097, A-1098, A-1099, A-1100, A-1101, A-1102, A-1103, A-2516
-  - New Nodes Introduced: N-54, N-55, N-56, N-57, N-58, N-59, N-60, N-61, N-62, N-63, N-64, N-65, N-66, N-67, N-68, N-10029, N-10030, N-10031, N-10032, N-10033, N-10034, N-10035, N-10036
-  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-32, N-36, N-37, N-38, N-39, N-40, N-42, N-46, N-10000, N-10012, N-3, N-30, N-41, N-10037, N-10011, N-10016, N-10018, N-10019, N-10020, N-10022, N-10023, N-10026, N-10268, N-10342, N-10345
+  - New Nodes Introduced: N-54, N-55, N-56, N-57, N-58, N-59, N-60, N-61, N-62, N-63, N-64, N-65, N-66, N-67, N-68, N-10029, N-10030, N-10031, N-10032, N-10033, N-10034, N-10035
+  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-32, N-36, N-37, N-38, N-39, N-40, N-42, N-46, N-10000, N-10012, N-3, N-30, N-41, N-10036, N-10011, N-10016, N-10018, N-10019, N-10020, N-10022, N-10023, N-10026, N-10252, N-10320, N-10323
 
 ## 2. Executive Summary
 
@@ -125,7 +126,7 @@ Confidence: high
 **A-1098.1** Bill Ackman's 955-word tweet response to Candace's Hamptons episode, includes meeting origin story, itinerary, denial of intervention framing
 Event Timestamp: 2025-09
 Video Timestamp: 00:45:41–00:51:31
-*Related: C-243, C-253, C-283, N-37, N-10033, N-10037*
+*Related: C-243, C-253, C-283, N-37, N-10016, N-10036*
 Transcript Snippet: Amman's 955word response...this was not an intervention to blackmail Charlie into adopting certain views
 Confidence: high
 
@@ -136,7 +137,7 @@ Confidence: high
 **A-1099.1** Charlie Kirk on Megyn Kelly August 6, 2025 venting about being called antisemitic, pro-Israel camp losing propaganda war, Epstein-as-Mossad speculation, receiving texts calling him antisemite
 Event Timestamp: 2025-08-06
 Video Timestamp: 00:51:10–00:56:03
-*Related: C-254, C-261, N-1, N-46, N-10033*
+*Related: C-254, C-261, N-1, N-46, N-10016*
 Transcript Snippet: some in the pro-Israel camp are so kneejerk about calling you anti-semitic
 Confidence: high
 
@@ -159,7 +160,7 @@ Uncertainty: Letter content not shown; only referenced.
 **A-1101.1** Village Crazy Lady X thread breaking down Bill Ackman's itinerary; confirms August 4-5 Hamptons meeting
 Event Timestamp: 2025-09
 Video Timestamp: 00:50:24–00:51:07
-*Related: C-253, N-37, N-66, N-10033*
+*Related: C-253, N-37, N-66, N-10016*
 Transcript Snippet: Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Confidence: high
 
@@ -170,7 +171,7 @@ Confidence: high
 **A-1102.1** Arynne Wexler-sent Hamptons weekend retreat invitations; multi-day retreat with smaller meetings plus main event
 Event Timestamp: 2025-08-04
 Video Timestamp: 00:41:59–00:42:29
-*Related: C-253, N-56, N-37, N-10033*
+*Related: C-253, N-56, N-37, N-10016*
 Transcript Snippet: Arynne Wexler sent out some of the invitations...first day of the retreat of which there were smaller meetings
 Confidence: medium
 
@@ -324,6 +325,16 @@ Node Type: Person
 Deceased; subject of investigation.
 
 *Related: A-1099.1, A-1100.1, C-254, C-261, C-251, C-280, C-269*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-162, C-187*
 
 ---
 
@@ -646,7 +657,7 @@ Charlie's organization; subject of donor pressure allegations.
 
 **N-10030** Text Message Timestamp Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Indictment omits timestamps on Robinson-to-Lance texts; host flags as investigative gap.
 
@@ -656,7 +667,7 @@ Indictment omits timestamps on Robinson-to-Lance texts; host flags as investigat
 
 **N-10031** 33-Hour Surrender Timeline Signal
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Repeated 33-hour figure in indictment; host flags as suspicious signaling.
 
@@ -674,17 +685,7 @@ George Zinn decoy arrest analysis; potential distraction mechanism.
 
 ---
 
-**N-10033** Hamptons Donor Pressure Investigation
-
-Node Type: Topic
-Topic Kind: verification_thread
-Pressure on Charlie regarding Israel and conference guests at August 4-5 Hamptons retreat.
-
-*Related: A-1098.1, A-1099.1, A-1101.1, A-1102.1, C-253, C-254, C-261, C-283, C-239*
-
----
-
-**N-10034** Lance Twiggs Family Allegations
+**N-10033** Lance Twiggs Family Allegations
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -694,9 +695,9 @@ Family-sourced allegations re: Lance Twiggs behavioral history, drug use, deep-w
 
 ---
 
-**N-10035** Unusual Traffic at Residence Investigation
+**N-10034** Unusual Traffic at Residence Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Neighbor reports of unusual vehicles at Robinson/Twigs residence before shooting.
 
@@ -704,9 +705,9 @@ Neighbor reports of unusual vehicles at Robinson/Twigs residence before shooting
 
 ---
 
-**N-10036** Building Donor Withdrawal Investigation
+**N-10035** Building Donor Withdrawal Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Top Jewish donors demanded name removed from TPUSA building 48 hours before Charlie's death; reversed after death.
 
@@ -714,7 +715,7 @@ Top Jewish donors demanded name removed from TPUSA building 48 hours before Char
 
 ---
 
-**N-10037** Bill Ackman Response Analysis
+**N-10036** Bill Ackman Response Analysis
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -788,7 +789,7 @@ Existing place reused for claims about Israel.
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Existing topic reused for donor pressure and financial threats.
 
@@ -796,7 +797,7 @@ Existing topic reused for donor pressure and financial threats.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Existing topic reused for the text chain and the host's authenticity doubts.
 
@@ -804,7 +805,7 @@ Existing topic reused for the text chain and the host's authenticity doubts.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 Existing topic reused for the weekend retreat claims.
 
@@ -812,7 +813,7 @@ Existing topic reused for the weekend retreat claims.
 
 ---
 
-**N-10138** Bullet Casing Engraving Pattern
+**N-10133** Bullet Casing Engraving Pattern
 
 Existing topic reused for the engraved-bullet texts and viewer doubts.
 
@@ -820,7 +821,7 @@ Existing topic reused for the engraved-bullet texts and viewer doubts.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic reused for pressure over AmericaFest speakers.
 
@@ -828,7 +829,7 @@ Existing topic reused for pressure over AmericaFest speakers.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for the unaddressed funding question.
 
@@ -836,7 +837,7 @@ Existing topic reused for the unaddressed funding question.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Existing topic reused for the Dillon exchange at the retreat.
 
@@ -844,7 +845,7 @@ Existing topic reused for the Dillon exchange at the retreat.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Existing topic reused for Netanyahu skipping the Charlie Kirk Show.
 
@@ -852,7 +853,7 @@ Existing topic reused for Netanyahu skipping the Charlie Kirk Show.
 
 ---
 
-**N-11227** AIPAC Hostile Takeover of TPUSA Claim
+**N-11143** AIPAC Hostile Takeover of TPUSA Claim
 
 Existing topic reused for the host's hostile takeover framing.
 
@@ -860,9 +861,9 @@ Existing topic reused for the host's hostile takeover framing.
 
 ---
 
-**N-11366** Bill Ackman Million Dollar Reward Offer
+**N-11282** Bill Ackman Million Dollar Reward Offer
 
-Node Type: Topic
+Node Type: Event
 Bill Ackman's reported offer of a million dollars for information about the person who assassinated Charlie Kirk, as cited against the host by Laura Loomer in the host's account.
 
 *Related: C-285, C-286*
@@ -878,7 +879,7 @@ Claim: Per the probable cause statement the host reads, Tyler James Robinson sur
 Transcript Snippet: after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office
 Anchored Artifacts: A-1095.1
 Mentions: N-3, N-40
-Related Nodes: N-10029, N-10031
+Related Nodes: N-10029, N-10031, N-11360
 Confidence: high
 Investigative Direction: Verify surrender timestamp via sheriff's office records and forensic timeline.
 
@@ -976,6 +977,7 @@ Claim Timestamp: 00:16:00
 Claim: Per the probable cause statement the host reads, Robinson's parents convinced him not to harm himself, and a family friend who is a retired deputy sheriff facilitated Robinson's surrender with his parents.
 Transcript Snippet: a family friend who happens to be a retired deputy sheriff
 Anchored Artifacts: A-1095.7
+Related Nodes: N-11360
 Mentions: N-40
 Confidence: high
 Investigative Direction: Confirm retired deputy's identity and role in surrender via sheriff records.
@@ -1066,7 +1068,7 @@ Claim: The host says Bill Ackman published a 955-word tweet response which, as s
 Transcript Snippet: Amman's 955word response
 Anchored Artifacts: A-1098.1
 Mentions: N-37
-Related Nodes: N-10037
+Related Nodes: N-10036
 Confidence: high
 Investigative Direction: Verify tweet length, content, and any deletions or follow-up tweets.
 
@@ -1079,7 +1081,7 @@ Claim: The host says, crediting Village Crazy Lady on X, that Bill Ackman's twee
 Transcript Snippet: Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Anchored Artifacts: A-1098.1, A-1101.1, A-1102.1
 Mentions: N-37, N-1, N-66
-Related Nodes: N-10033
+Related Nodes: N-10016
 Confidence: high
 Investigative Direction: Cross-reference attendee statements with published itinerary.
 
@@ -1093,7 +1095,7 @@ Claim: The host says that, per other people who were at the Hamptons and are tal
 Transcript Snippet: Bill Ackman got up and gave a presentation and told them that they shouldn't own property
 Anchored Artifacts: 
 Mentions: N-37
-Related Nodes: N-10033
+Related Nodes: N-10016
 Confidence: medium
 Uncertainty: Single-source attendee statement relayed by host.
 Investigative Direction: Identify and corroborate attendees; request presentation materials.
@@ -1107,7 +1109,7 @@ Claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day a
 Transcript Snippet: some in the pro-Israel camp are so kneejerk about calling you anti-semitic
 Anchored Artifacts: A-1099.1
 Mentions: N-1, N-9, N-46, N-37
-Related Nodes: N-10033
+Related Nodes: N-10016
 Confidence: high
 Investigative Direction: Verify full clip and dates against Megyn Kelly show archives.
 
@@ -1120,7 +1122,7 @@ Claim: Charlie Kirk stated on the August 6 Megyn Kelly show that he had received
 Transcript Snippet: I have text messages, Megan, calling me an anti-semite
 Anchored Artifacts: A-1099.1
 Mentions: N-1, N-46
-Related Nodes: N-10033
+Related Nodes: N-10016
 Confidence: high
 Investigative Direction: Obtain the cited text messages and verify attribution.
 
@@ -1158,7 +1160,7 @@ Claim: The host says Lance Twiggs's family members told her, and she stresses it
 Transcript Snippet: his parents kicked him out junior year of high school because he was problematic
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10034
+Related Nodes: N-10033
 Confidence: medium
 Uncertainty: Family statement relayed by host, not on the record.
 Investigative Direction: Corroborate with other family members or contemporaneous records.
@@ -1172,7 +1174,7 @@ Claim: The host says Lance Twiggs's family members told her, as allegations, tha
 Transcript Snippet: He almost overdosed. He drank a bottle of vodka
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10034
+Related Nodes: N-10033
 Confidence: medium
 Investigative Direction: Request medical/ER records and corroborating family testimony.
 
@@ -1185,7 +1187,7 @@ Claim: The host says Lance Twiggs's family members told her that Lance showed up
 Transcript Snippet: he showed up on drugs and he was spouting out of his mouth about political stuff
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10034
+Related Nodes: N-10033
 Confidence: medium
 Investigative Direction: Corroborate with multiple family members.
 
@@ -1222,7 +1224,7 @@ Claim: The host says people who live in the neighborhood have been writing to he
 Transcript Snippet: there were unusual uh unusual traffic in the driveway where Tyler Robinson and Lance lived
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10035
+Related Nodes: N-10034
 Confidence: medium
 Investigative Direction: Pull traffic camera footage and license plate reader data; interview more neighbors.
 
@@ -1247,7 +1249,7 @@ Claim: Per attendees the host cites, Charlie faced pressure at the Hamptons retr
 Transcript Snippet: Seth Dillon...Josh Hammer was upset. Josh Hammer...was a part of the beehive that was swarming him
 Anchored Artifacts: 
 Mentions: N-1, N-38, N-55
-Related Nodes: N-10033
+Related Nodes: N-10016
 Confidence: medium
 Uncertainty: Multiple-source attendee statements, none on the record.
 Investigative Direction: Interview multiple attendees; obtain any recorded retreat discussions.
@@ -1261,7 +1263,7 @@ Claim: The host says people contacting her report that, within 48 hours before C
 Transcript Snippet: his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10036
+Related Nodes: N-10000, N-10035
 Confidence: medium
 Uncertainty: Single-source tip relayed by host.
 Investigative Direction: Identify donors; obtain internal TPUSA communications; verify building-donor naming history.
@@ -1354,7 +1356,7 @@ Transcript Snippet: Turning Point employees are contacting me, a lot of them, ok
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10134
+Related Nodes: N-10000, N-10129
 Tags: relevance:core
 Investigative Direction: Identify the employees through the host's sources and compare their accounts with TPUSA personnel records and event planning documents for the Hamptons weekend.
 
@@ -1723,7 +1725,7 @@ Transcript Snippet: but rather that there's no way he could have acted alone. th
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: Ask the sources for the specific facts behind the wider-plot claim and test them against the indictment and the charging decisions.
 
@@ -1755,7 +1757,7 @@ Transcript Snippet: The structure of that is weird. I had the opportunity to tak
 
 Anchored Artifacts: A-1095.8
 Mentions: N-1, N-3
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the photograph of the note that the indictment says police found and compare the wording with the quoted text.
 
@@ -1771,7 +1773,7 @@ Transcript Snippet: Police found a photograph of this note and the following tex
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Request the photograph, its metadata and the device it was found on in discovery.
 
@@ -1787,7 +1789,7 @@ Transcript Snippet: Shouldn't be long until I can come home, but I got to grab m
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
-Related Nodes: N-10077, N-10030
+Related Nodes: N-10074, N-10030
 Tags: relevance:core
 Investigative Direction: Obtain the timestamped message log to place this text relative to the lockdown and the rifle recovery.
 
@@ -1803,7 +1805,7 @@ Transcript Snippet: The roommate replies, "You weren't the one who did it, right
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the unredacted message log with timestamps to verify the exchange and that no messages between these were omitted.
 
@@ -1819,7 +1821,7 @@ Transcript Snippet: they grabbed some crazy old dude that interrogated someone i
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
-Related Nodes: N-10077, N-10030
+Related Nodes: N-10074, N-10030
 Tags: relevance:core
 Investigative Direction: Match the wording to the first police detention (George Zinn or the other detained person) and to the lockdown times to date this message.
 
@@ -1835,7 +1837,7 @@ Transcript Snippet: Robinson says, "I had enough of his hatred. Some hate can't 
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-1
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Compare this message with the motive Robinson reportedly gave his parents and obtain the message log.
 
@@ -1851,7 +1853,7 @@ Transcript Snippet: How long have you been planning this?" Robinson says, "A bit
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Cross-check the one-week planning claim with purchase, travel and device records from the preceding two weeks.
 
@@ -1867,7 +1869,7 @@ Transcript Snippet: Referring to the rifle, "But there is a squad car parked rig
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Establish where the rifle was recovered and where patrol cars were positioned, and when the area was swept.
 
@@ -1883,7 +1885,7 @@ Transcript Snippet: I don't know if it had a serial number, but it wouldn't trac
 
 Anchored Artifacts: A-1095.8, A-1095.6
 Mentions: N-40
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Trace the rifle's make, serial number and ownership history against the father's statement that it was a gift.
 
@@ -1899,7 +1901,7 @@ Transcript Snippet: I had to leave it in a bush where I changed outfits.
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40
-Related Nodes: N-10019, N-10077
+Related Nodes: N-10019, N-10074
 Tags: relevance:core
 Investigative Direction: Identify what Prince refers to and where the outfit change occurred, and obtain the original message text.
 
@@ -1915,7 +1917,7 @@ Transcript Snippet: Monitoring the situation cuz this is going to give us a time
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-3
-Related Nodes: N-10030, N-10077
+Related Nodes: N-10030, N-10074
 Supports: C-193
 Tags: relevance:core
 Investigative Direction: Plot the first public reports of the old man's detention and the similar-clothing interview against the lockdown timeline to bracket the message times.
@@ -1932,7 +1934,7 @@ Transcript Snippet: Remember how I was engraving bullets? The effing messages ar
 
 Anchored Artifacts: A-1095.8, A-1095.4
 Mentions: N-40
-Related Nodes: N-10138, N-10077
+Related Nodes: N-10133, N-10074
 Tags: relevance:core
 Investigative Direction: Compare the quoted text with the casing inscriptions and obtain the message log.
 
@@ -1948,7 +1950,7 @@ Transcript Snippet: And then he does a winky face. And then he tells him, "Delet
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain Lance's device extraction to confirm what was deleted and what was recovered.
 
@@ -1964,7 +1966,7 @@ Transcript Snippet: The feds released a photo of the rifle and it is very unique
 
 Anchored Artifacts: A-1095.8, A-1095.6
 Mentions: N-40
-Related Nodes: N-10077, N-10022
+Related Nodes: N-10074, N-10022
 Tags: relevance:core
 Investigative Direction: Establish when the FBI released the rifle photo and compare with the father's call timing to date this message.
 
@@ -2012,7 +2014,7 @@ Transcript Snippet: If any police ask you questions, ask for a lawyer and stay s
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain Lance's police interview and any attorney contact records.
 
@@ -2028,7 +2030,7 @@ Transcript Snippet: Yeah. And it looks like they're cherrypicking certain exchan
 
 Anchored Artifacts: A-1095.8
 Mentions: N-67, N-40
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Compare the indictment's excerpts to the full message log in discovery for omitted sections.
 
@@ -2044,7 +2046,7 @@ Transcript Snippet: Yeah, these messages are clearly doctorred is what I would s
 
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-3
-Related Nodes: N-10077, N-10030
+Related Nodes: N-10074, N-10030
 Supports: C-193
 Tags: relevance:core
 Investigative Direction: Demand the complete, timestamped message log and compare it with the excerpts in the probable cause statement.
@@ -2061,7 +2063,7 @@ Transcript Snippet: we're not hearing too much about this Lance guy other than l
 
 Anchored Artifacts: A-1095.9
 Mentions: N-54, N-3
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: Obtain Lance's police interview, the date of his device handover and any formal statements about his role.
 
@@ -2077,7 +2079,7 @@ Transcript Snippet: it turns out that actually Lance Twiggs's family has tried t
 
 Anchored Artifacts: A-3270.1
 Mentions: N-54, N-3
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: This depends on the host's private tip box; the identity of the relatives would need to be confirmed with them directly.
 
@@ -2093,7 +2095,7 @@ Transcript Snippet: Okay. He graduates high school and then essentially the exte
 
 Anchored Artifacts: A-3270.1
 Mentions: N-54
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:tangential
 Investigative Direction: Corroborate with other relatives; this is personal history of a private individual and has no direct link to the shooting.
 
@@ -2109,7 +2111,7 @@ Transcript Snippet: increasingly more dangerous, and just sort of off the rails.
 
 Anchored Artifacts: A-3270.1
 Mentions: N-54
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:context
 Investigative Direction: Seek corroboration from multiple relatives and any documented incidents involving Lance.
 
@@ -2125,7 +2127,7 @@ Transcript Snippet: Lance's family is telling me that they are not buying the cu
 
 Anchored Artifacts: A-3270.1
 Mentions: N-54, N-3
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: Ask the family for the specific facts behind the belief that more people were involved.
 
@@ -2141,7 +2143,7 @@ Transcript Snippet: First and foremost, they say that a lot of information shoul
 
 Anchored Artifacts: A-3270.1
 Mentions: N-54
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:context
 Investigative Direction: Obtain the forensic report on Lance's devices and any browser or network records the family refers to.
 
@@ -2173,7 +2175,7 @@ Transcript Snippet: They told us that Tyler and him had been living together for
 
 Anchored Artifacts: A-3270.1
 Mentions: N-40, N-54
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:context
 Investigative Direction: Check lease and utility records for the townhome and ask other relatives whether they ever met Robinson.
 
@@ -2189,7 +2191,7 @@ Transcript Snippet: you know, kerfuffle because other people were not able to pa
 
 Anchored Artifacts: A-3270.1
 Mentions: N-40, N-54
-Related Nodes: N-10035
+Related Nodes: N-10034
 Tags: relevance:context
 Investigative Direction: Interview neighbors on the record and obtain any camera footage or parking complaints for the weeks before September 10.
 
@@ -2205,7 +2207,7 @@ Transcript Snippet: That's what I'm going to say to you guys. There is very clea
 
 Anchored Artifacts: 
 Mentions: N-42, N-54, N-3
-Related Nodes: N-10032, N-10034, N-10035
+Related Nodes: N-10032, N-10033, N-10034
 Tags: relevance:core
 Investigative Direction: This is the host's conclusion; test it by identifying any additional participants through charging documents, device extractions and witness lists.
 
@@ -2237,7 +2239,7 @@ Transcript Snippet: Okay, that's what I just said is meant to be a dig to the do
 
 Anchored Artifacts: 
 Mentions: N-2, N-3, N-30
-Related Nodes: N-10033, N-10047
+Related Nodes: N-10016, N-10044
 Tags: relevance:core
 Investigative Direction: Identify the donors and callers named by the host's sources and request any call logs or messages they are willing to share.
 
@@ -2253,7 +2255,7 @@ Transcript Snippet: Okay. Frantic calls from Seth Dillon. Oh my god. The truth i
 
 Anchored Artifacts: 
 Mentions: N-38, N-3
-Related Nodes: N-10033, N-10345
+Related Nodes: N-10016, N-10323
 Tags: relevance:core
 Investigative Direction: Ask Seth Dillon and the recipients of any such calls to confirm or deny; the host cites no document.
 
@@ -2269,7 +2271,7 @@ Transcript Snippet: The truth is that Charlie was under immense pressure and he 
 
 Anchored Artifacts: 
 Mentions: N-1, N-39, N-22, N-3
-Related Nodes: N-10047, N-10268, N-10033
+Related Nodes: N-10044, N-10252, N-10016
 Tags: relevance:core
 Investigative Direction: Identify the donors and amounts at issue and obtain correspondence showing any withdrawal or threat tied to AmericaFest speakers.
 
@@ -2285,7 +2287,7 @@ Transcript Snippet: I know what I did wrong. I looked you in your face and I sai
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10047
+Related Nodes: N-10044
 Tags: relevance:context
 Investigative Direction: Identify when and to whom the host declined funding; the host names no donor here.
 
@@ -2301,7 +2303,7 @@ Transcript Snippet: in which Arynne Wexler sent out some of the invitations to t
 
 Anchored Artifacts: A-1102.1
 Mentions: N-56, N-1
-Related Nodes: N-10134, N-10033
+Related Nodes: N-10129, N-10016
 Tags: relevance:core
 Investigative Direction: Identify the attendees and obtain the invitation list, schedule and any messages sent by Arynne Wexler.
 
@@ -2317,7 +2319,7 @@ Transcript Snippet: Charlie presented and he explained uh that he felt that it w
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10134, N-10033
+Related Nodes: N-10129, N-10016
 Tags: relevance:core
 Investigative Direction: Interview other attendees to corroborate the content of Kirk's presentation, and check Ackman's itinerary for the session.
 
@@ -2333,7 +2335,7 @@ Transcript Snippet: and Seth Dillon then allegedly he pipes up and goes back and
 
 Anchored Artifacts: 
 Mentions: N-38, N-36, N-1
-Related Nodes: N-10345, N-10033
+Related Nodes: N-10323, N-10016
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Ask Seth Dillon and other attendees about the exchange; the host calls the example a paraphrase.
@@ -2350,7 +2352,7 @@ Transcript Snippet: I heard that after Charlie left Josh Hammer was upset.
 
 Anchored Artifacts: 
 Mentions: N-55, N-1
-Related Nodes: N-10033
+Related Nodes: N-10016
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Ask Josh Hammer and attendees to confirm his reaction; the host says she heard it.
@@ -2367,7 +2369,7 @@ Transcript Snippet: I welcome you on this platform. Okay? You are allowed to lit
 
 Anchored Artifacts: 
 Mentions: N-55, N-3
-Related Nodes: N-10033
+Related Nodes: N-10016
 Tags: relevance:context
 Investigative Direction: Check whether Hammer or Dillon accept or decline the invitation.
 
@@ -2383,7 +2385,7 @@ Transcript Snippet: I am in no way attacking that narrative and associating it w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10033, N-10012
+Related Nodes: N-10016, N-10012
 Tags: relevance:core
 Investigative Direction: Track whether the host later ties the Hamptons pressure to the shooting and compare with this disclaimer.
 
@@ -2416,7 +2418,7 @@ Transcript Snippet: Everybody watched my episode yesterday. Okay. I never said t
 
 Anchored Artifacts: A-1098.1
 Mentions: N-37, N-1, N-3
-Related Nodes: N-10037
+Related Nodes: N-10036
 Qualifies: C-100
 Tags: relevance:core
 Investigative Direction: Check the prior episode transcript for exact words used about the Hamptons meeting and blackmail.
@@ -2433,7 +2435,7 @@ Transcript Snippet: but he then says Candace also intimated that I quote unquote
 
 Anchored Artifacts: A-1098.1
 Mentions: N-37, N-1, N-3
-Related Nodes: N-10037
+Related Nodes: N-10036
 Tags: relevance:core
 Investigative Direction: Retrieve Ackman's tweet and verify the wording and any quoted material.
 
@@ -2449,7 +2451,7 @@ Transcript Snippet: There was a file presented. Do this or else. Okay. And I wou
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10033, N-10016
+Related Nodes: N-10016
 Supports: C-100
 Tags: relevance:core
 Investigative Direction: Ask the host what file was presented, to whom and by whom; the sentence is ambiguous on air.
@@ -2466,7 +2468,7 @@ Transcript Snippet: which is not something that was ever in contention. Okay. I 
 
 Anchored Artifacts: A-1098.1
 Mentions: N-37, N-1
-Related Nodes: N-10037
+Related Nodes: N-10036
 Tags: relevance:context
 Investigative Direction: Retrieve the tweet and check Ackman's and Kirk's public posts from May 2025 for the first contact.
 
@@ -2482,7 +2484,7 @@ Transcript Snippet: He then takes us through how the weekend event came together
 
 Anchored Artifacts: A-1098.1
 Mentions: N-37
-Related Nodes: N-10037, N-10134
+Related Nodes: N-10036, N-10129
 Tags: relevance:context
 Investigative Direction: Retrieve the tweet and compare its itinerary with attendee accounts of who spoke and when.
 
@@ -2498,7 +2500,7 @@ Transcript Snippet: Is you not addressing whether or not Charlie was offered mor
 
 Anchored Artifacts: A-1098.1
 Mentions: N-37, N-36, N-1
-Related Nodes: N-10037, N-10342, N-10018
+Related Nodes: N-10036, N-10320, N-10018
 Tags: relevance:core
 Investigative Direction: Search the 955-word tweet for any reference to Netanyahu, Israel invitations or funding offers.
 
@@ -2514,7 +2516,7 @@ Transcript Snippet: as I asserted and as I maintain, Charlie was being pressured
 
 Anchored Artifacts: A-1098.1
 Mentions: N-1, N-37, N-3
-Related Nodes: N-10016, N-10134
+Related Nodes: N-10016, N-10129
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Find the recipients of Kirk's reflections about the intervention feeling and obtain any dated messages.
@@ -2628,7 +2630,7 @@ Transcript Snippet: the behavior by a lot, both privately and publicly are pushi
 
 Anchored Artifacts: A-1099.1
 Mentions: N-1, N-46
-Related Nodes: N-10026, N-10033
+Related Nodes: N-10026, N-10016
 Tags: relevance:core
 Investigative Direction: Pull the full episode and Kirk's phone messages from the same period to see what private behavior he meant.
 
@@ -2740,7 +2742,7 @@ Transcript Snippet: Charlie himself had alluded to a tremendous loss of money co
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10036, N-10047
+Related Nodes: N-10035, N-10044
 Supports: C-269
 Tags: relevance:core
 Investigative Direction: Find where Kirk alluded to lost funding, such as show remarks or messages to staff.
@@ -2757,7 +2759,7 @@ Transcript Snippet: Homie very quickly told us that Charlie was implied that Cha
 
 Anchored Artifacts: A-2516.2
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10456, N-10018
+Related Nodes: N-10425, N-10018
 Tags: relevance:core
 Investigative Direction: Review Netanyahu's podcast appearances for how he described his contact with Kirk, and any invitation to appear on the Charlie Kirk Show.
 
@@ -2773,7 +2775,7 @@ Transcript Snippet: Like that's the vibe that BB was rushing to present to the m
 
 Anchored Artifacts: A-2516.2
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10018, N-10456
+Related Nodes: N-10018, N-10425
 Tags: relevance:core
 Investigative Direction: Match Netanyahu's own words in the podcast interviews with the host's characterization.
 
@@ -2789,7 +2791,7 @@ Transcript Snippet: a bit like a hostile takeover. Okay? Charlie builds the comp
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-11227
+Related Nodes: N-10000, N-11143
 Tags: relevance:core
 Investigative Direction: Establish the changes in TPUSA's donor base, board and positions from 2024 to September 2025 that the host is describing.
 
@@ -2805,7 +2807,7 @@ Transcript Snippet: He's being called names. He increasingly uh he's being told 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10047, N-10033
+Related Nodes: N-10044, N-10016
 Supports: C-74
 Tags: relevance:core
 Investigative Direction: Identify the people who told Kirk whom to host and obtain related messages.
@@ -2822,7 +2824,7 @@ Transcript Snippet: and then it doesn't matter anymore because Charlie's dead an
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10033, N-10026
+Related Nodes: N-10016, N-10026
 Tags: relevance:core
 Investigative Direction: Collect post-assassination statements by Hamptons attendees and Israel-aligned commentators that frame Kirk as dying for Israel.
 
@@ -2838,7 +2840,7 @@ Transcript Snippet: Have you ever heard of Turning Point doing a a weekend summi
 
 Anchored Artifacts: 
 Mentions: N-37, N-3
-Related Nodes: N-10000, N-10134
+Related Nodes: N-10000, N-10129
 Tags: relevance:core
 Investigative Direction: Review TPUSA's event announcements for 2024 and 2025 for comparable closed weekend events, and identify the employee source.
 
@@ -2854,7 +2856,7 @@ Transcript Snippet: Bill Ackman, sue her. Take her money. Take just take her mon
 
 Anchored Artifacts: A-3269.1
 Mentions: N-37, N-3
-Related Nodes: N-10037
+Related Nodes: N-10036
 Tags: relevance:tangential
 Investigative Direction: Look for any legal notice or statement from Ackman about suing the host.
 
@@ -2870,7 +2872,7 @@ Transcript Snippet: I've offered him my platform. If there is more you'd like to
 
 Anchored Artifacts: 
 Mentions: N-37, N-3
-Related Nodes: N-10037
+Related Nodes: N-10036
 Tags: relevance:context
 Investigative Direction: Check whether Ackman responds to or accepts the offer.
 
@@ -2886,7 +2888,7 @@ Transcript Snippet: it they just don't care about you billionaires. He's like, a
 
 Anchored Artifacts: A-1098.1
 Mentions: N-37, N-3
-Related Nodes: N-10037
+Related Nodes: N-10036
 Tags: relevance:context
 Investigative Direction: Retrieve Ackman's tweet and check for any reference to monetization or ads; the host herself hedges the paraphrase.
 
@@ -2902,7 +2904,7 @@ Transcript Snippet: which wasn't publicized until I publicized it? I don't know.
 
 Anchored Artifacts: 
 Mentions: N-37, N-3
-Related Nodes: N-10134
+Related Nodes: N-10129
 Tags: relevance:context
 Investigative Direction: Find the earliest public mention of the Hamptons weekend before the host's prior episode.
 
@@ -2918,7 +2920,7 @@ Transcript Snippet: Bill Ackman says he's offering a million dollars to whoever 
 
 Anchored Artifacts: A-3268.1
 Mentions: N-37, N-1, N-60
-Related Nodes: N-11366
+Related Nodes: N-11282
 Tags: relevance:core
 Investigative Direction: Retrieve Ackman's post announcing the reward and confirm its terms, date and recipient.
 
@@ -2934,7 +2936,7 @@ Transcript Snippet: Bill Ackman gave a million dollars, Candace. What did you gi
 
 Anchored Artifacts: A-3268.1
 Mentions: N-60, N-37, N-3
-Related Nodes: N-11366
+Related Nodes: N-11282
 Tags: relevance:context
 Investigative Direction: Retrieve Laura Loomer's post and confirm its date and wording.
 
@@ -2998,7 +3000,7 @@ Transcript Snippet: most people that I spoke to in that family were saying that 
 
 Anchored Artifacts: A-3270.1
 Mentions: N-54, N-3
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:tangential
 Investigative Direction: Not a record that can be independently tested; the family would have to confirm.
 
@@ -3014,7 +3016,7 @@ Transcript Snippet: Chips writes the text chain from Tyler to his boyfriend. No 
 
 Anchored Artifacts: A-3267.1
 Mentions: N-40, N-54, N-3
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Compare the quoted messages' grammar and punctuation with Robinson's verified earlier messages.
 
@@ -3030,7 +3032,7 @@ Transcript Snippet: Bible with Bell writes, "Don't believe these texts for a sec
 
 Anchored Artifacts: A-3267.2
 Mentions: N-40, N-3
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the complete text log and device extractions and have an independent examiner test their authenticity.
 
@@ -3046,7 +3048,7 @@ Transcript Snippet: It feels a little fake and gay. Got to tell you guys, it fee
 
 Anchored Artifacts: A-1095.8
 Mentions: N-3
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the native message database for forensic authentication of timestamps and sender metadata.
 
@@ -3062,7 +3064,7 @@ Transcript Snippet: Um, mind tricks writes, "Casings BS." Casings are BS.
 
 Anchored Artifacts: A-3267.3
 Mentions: N-40, N-3
-Related Nodes: N-10138, N-10077
+Related Nodes: N-10133, N-10074
 Tags: relevance:core
 Investigative Direction: Compare the casing inscriptions and the text messages with Robinson's known writing and the recovered rifle's ammunition.
 
@@ -3078,7 +3080,7 @@ Transcript Snippet: Like, are you trying to get away with it or are you not tryi
 
 Anchored Artifacts: A-1095.4, A-1095.8
 Mentions: N-40, N-3
-Related Nodes: N-10138, N-10077
+Related Nodes: N-10133, N-10074
 Supports: C-193
 Tags: relevance:core
 Investigative Direction: Obtain the timestamped message log and forensic report on the casings.

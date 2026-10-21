@@ -57,7 +57,8 @@ VALID_HMS_RE = re.compile(
 BARE_MS_RE = re.compile(r"^\s*\d{1,2}:\d{2}(?:\s*[–\-\u2014]\s*\d{1,2}:\d{2})?\s*$")
 
 PERSON_TYPES = frozenset({"person", "investigationtarget"})
-TOPIC_BAND_TYPES = frozenset({"topic", "organization", "organisation", "place", "org"})
+TOPIC_BAND_TYPES = frozenset({"topic", "organization", "organisation", "place", "org", "event", "thing",
+                              "investigation_question", "investigation question", "investigationquestion"})
 @dataclass(frozen=True)
 class NodeBands:
     """Id bands for Person vs Topic/Org/Place nodes.

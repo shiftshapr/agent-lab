@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10768"
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -49,7 +49,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10768"
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -75,7 +75,7 @@
             "C-9988"
           ],
           "related_nodes": [
-            "N-10107",
+            "N-10103",
             "N-10014"
           ],
           "tags": [],
@@ -93,7 +93,7 @@
             "C-9989"
           ],
           "related_nodes": [
-            "N-10107",
+            "N-10103",
             "N-10012"
           ],
           "tags": [],
@@ -120,8 +120,8 @@
             "C-9995"
           ],
           "related_nodes": [
-            "N-10768",
-            "N-10319"
+            "N-10697",
+            "N-10300"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -148,7 +148,7 @@
           ],
           "related_nodes": [
             "N-681",
-            "N-10678"
+            "N-10616"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -221,7 +221,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10986"
+            "N-10906"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -248,7 +248,7 @@
           "related_nodes": [
             "N-3",
             "N-69",
-            "N-10700"
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -336,7 +336,7 @@
             "C-10027"
           ],
           "related_nodes": [
-            "N-10984",
+            "N-10904",
             "N-9"
           ],
           "tags": [],
@@ -364,7 +364,7 @@
             "C-10030"
           ],
           "related_nodes": [
-            "N-10950"
+            "N-10871"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -404,7 +404,7 @@
             "C-10033"
           ],
           "related_nodes": [
-            "N-10768"
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -423,7 +423,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10537"
+            "N-10492"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -980,11 +980,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose microphone setup, responses to leaks, live-stream account and post-memorial behavior the host questions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1000,14 +1000,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the courtyard where the grass was replaced with pavers.",
       "related_artifacts": [
         "A-2669.2"
@@ -1019,14 +1021,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Its X account sparred with the host over her FOIA post; the host also faults its handling of the bomb dogs, the car and hospital footage.",
       "related_artifacts": [
         "A-2669.1",
@@ -1049,14 +1053,16 @@
       "evidence_count": 4,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@type": "Place",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "One of the paving supervisors was a maintenance groundskeeper at a facility in Provo.",
       "related_artifacts": [],
       "related_claims": [
@@ -1066,14 +1072,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10092",
-      "ref": "N-10092",
+      "@type": "Organization",
+      "@id": "N-10088",
+      "ref": "N-10088",
       "name": "Brigham Young University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Host says Connor Henderson and Zachariah Qureshi attended BYU at the same time.",
       "related_artifacts": [],
       "related_claims": [
@@ -1083,14 +1092,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10107",
-      "ref": "N-10107",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10103",
+      "ref": "N-10103",
       "name": "Crime Scene Pavers",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The Sunday paver installation at the spot where Charlie Kirk was killed.",
       "related_artifacts": [
         "A-2669.1",
@@ -1105,33 +1116,36 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Untested rifle firing, five other sets of prints and no GSR test.",
       "related_artifacts": [],
       "related_claims": [
         "C-9986",
         "C-10006",
-        "C-10007"
+        "C-10007",
+        "C-10005"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says Kash Patel had the feds take the hospital footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1141,14 +1155,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10319",
-      "ref": "N-10319",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host argues a .30-06 would have nearly decapitated Charlie Kirk and compares it to a PETN charge.",
       "related_artifacts": [
         "A-2670.1"
@@ -1163,14 +1179,15 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Invoked through the empty Epstein binders event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1180,14 +1197,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10334",
-      "ref": "N-10334",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10313",
+      "ref": "N-10313",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Erika Kirk's answer to Bari Weiss on Tyler Robinson acting alone.",
       "related_artifacts": [],
       "related_claims": [
@@ -1197,14 +1215,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mikey McCoy calling his wife rather than Erika Kirk or 911.",
       "related_artifacts": [],
       "related_claims": [
@@ -1214,14 +1233,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The SD card removal from the camera behind Charlie Kirk's head and the zoomed footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1232,14 +1252,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10362",
-      "ref": "N-10362",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10338",
+      "ref": "N-10338",
       "name": "Vehicle Disposition Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The towing, cleaning and resale of the transport SUV.",
       "related_artifacts": [],
       "related_claims": [
@@ -1249,14 +1271,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10381",
-      "ref": "N-10381",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host refers to Robinson buying a steak in Panguitch.",
       "related_artifacts": [],
       "related_claims": [
@@ -1266,14 +1289,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The \"lie about the Hampton Summit\" and TPUSA's response to the leaked messages.",
       "related_artifacts": [],
       "related_claims": [
@@ -1284,31 +1308,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10508",
-      "ref": "N-10508",
-      "name": "Tyler Robinson Evidence Sufficiency Question",
-      "type": "investigation_target",
-      "description": "Erika Kirk's lawyer told the host he had no more evidence than the public.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10005"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10537",
-      "ref": "N-10537",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10492",
+      "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The magnetic mic clip and the necklace that the host says broke first.",
       "related_artifacts": [
         "A-2676.2"
@@ -1322,14 +1331,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10551",
-      "ref": "N-10551",
+      "@type": "Topic",
+      "@id": "N-10505",
+      "ref": "N-10505",
       "name": "Joe Kent Leak Accusation Chain",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA's suggestion that Joe Kent passed the messages to the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1339,14 +1349,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10501"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10566",
-      "ref": "N-10566",
-      "name": "Tyler Robinson Confession Narrative Discrepancy",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10021",
+      "ref": "N-10021",
+      "name": "Robinson Confession and Arrest Discrepancy",
+      "type": "investigation_question",
       "description": "The alleged text confession, keyboard note and shifting Discord confession.",
       "related_artifacts": [],
       "related_claims": [
@@ -1356,14 +1368,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10577",
-      "ref": "N-10577",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10528",
+      "ref": "N-10528",
       "name": "Built Inc. Federal Contracting Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The Built organization co-founded by Zachariah Qureshi's father and a Henderson.",
       "related_artifacts": [],
       "related_claims": [
@@ -1373,14 +1386,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10529"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10578",
-      "ref": "N-10578",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10529",
+      "ref": "N-10529",
       "name": "Decoy Subject Investigation (Qureshi)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The Qureshi–Henderson connection is restated.",
       "related_artifacts": [],
       "related_claims": [
@@ -1391,14 +1406,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10581",
-      "ref": "N-10581",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10532",
+      "ref": "N-10532",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the FBI has held documents the defense requested since September.",
       "related_artifacts": [],
       "related_claims": [
@@ -1408,14 +1424,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10660",
-      "ref": "N-10660",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10602",
+      "ref": "N-10602",
       "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says outside the front wound Charlie Kirk was in very good condition.",
       "related_artifacts": [],
       "related_claims": [
@@ -1425,14 +1443,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10678",
-      "ref": "N-10678",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10616",
+      "ref": "N-10616",
       "name": "SUV Floorboard Shard Mic Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The SUV shards Jon Bray says are ABS plastic from the Rode mic.",
       "related_artifacts": [
         "A-2671.1"
@@ -1445,14 +1464,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10641"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10685",
-      "ref": "N-10685",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10623",
+      "ref": "N-10623",
       "name": "Car Interior Shards and Blood Evidence Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Location of the shards in the captain chairs and seat crevices.",
       "related_artifacts": [],
       "related_claims": [
@@ -1462,14 +1483,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10672"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10700",
-      "ref": "N-10700",
+      "@type": "Topic",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The Kash Patel itinerary and Erika Kirk email requests, and the reduced-scope refiling.",
       "related_artifacts": [
         "A-2674.1"
@@ -1485,14 +1508,15 @@
       "evidence_count": 1,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10705",
-      "ref": "N-10705",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10641",
+      "ref": "N-10641",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Jon Bray's theory that the SUV shards are the shattered mic housing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1503,14 +1527,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10697"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Blake Neff calling his mother rather than 911.",
       "related_artifacts": [],
       "related_claims": [
@@ -1520,14 +1546,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10724",
-      "ref": "N-10724",
+      "@type": "Topic",
+      "@id": "N-10659",
+      "ref": "N-10659",
       "name": "Butler Shooting Insider Involvement Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The Butler leads supplied by Don Porter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1537,14 +1564,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10730",
-      "ref": "N-10730",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10664",
+      "ref": "N-10664",
       "name": "Frank Turek FaceTime Story Inconsistency",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Turek's open-FaceTime account set against the Jack Hibbs interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1556,14 +1584,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10756",
-      "ref": "N-10756",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10686",
+      "ref": "N-10686",
       "name": "K9 Scent Tracking Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Bomb dogs on scene not brought to where Charlie Kirk sat.",
       "related_artifacts": [],
       "related_claims": [
@@ -1575,14 +1604,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10972"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Central theory of the episode.",
       "related_artifacts": [
         "A-2668.1",
@@ -1604,14 +1635,15 @@
       "evidence_count": 4,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10808",
-      "ref": "N-10808",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10732",
+      "ref": "N-10732",
       "name": "Terryl SD Card-to-Laptop Transfer Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says Terryl Farnsworth was instructed to take the SD card.",
       "related_artifacts": [],
       "related_claims": [
@@ -1621,14 +1653,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10734"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10812",
-      "ref": "N-10812",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10736",
+      "ref": "N-10736",
       "name": "Terryl Farnsworth Evidence-Handling Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Terryl Farnsworth's early conversation with Erika Kirk about the back footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1638,14 +1672,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10734"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10818",
-      "ref": "N-10818",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10741",
+      "ref": "N-10741",
       "name": "Jack Hibbs Sequence-of-Events Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Turek's account in the Jack Hibbs interview of first calls at the hospital.",
       "related_artifacts": [],
       "related_claims": [
@@ -1655,14 +1691,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@type": "Organization",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Host says the \"emotional asset\" email should not have been its concern.",
       "related_artifacts": [],
       "related_claims": [
@@ -1672,12 +1709,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-10984",
-      "ref": "N-10984",
+      "@id": "N-10904",
+      "ref": "N-10904",
       "name": "U.S. Department of Justice",
       "type": "organization",
       "description": "Federal department the host says accused her of clickbait through the FBI's rapid response account, and which she says staged the Epstein binders event; the host's FOIA requests are pending with it.",
@@ -1692,14 +1731,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10985",
-      "ref": "N-10985",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10905",
+      "ref": "N-10905",
       "name": "September 10 UVU Event Live Stream to TPUSA Office Verification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: whether the September 10 UVU event was actually being live streamed back to the Turning Point USA office, as Terryl Farnsworth told the host. The host says no one at TPUSA has confirmed watching that live stream.",
       "related_artifacts": [],
       "related_claims": [
@@ -1713,14 +1754,15 @@
       "related_nodes": [
         "N-261",
         "N-10000"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10986",
-      "ref": "N-10986",
+      "@type": "Event",
+      "@id": "N-10906",
+      "ref": "N-10906",
       "name": "Accurate Energetic Systems Explosion (Hickman County, Tennessee)",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: the October 10 explosion at Accurate Energetic Systems, a maker of military and demolition explosives about 60 miles west of Nashville, which the host says killed 16 employees. The host says some believe it could be where a rigged device was assembled, or a way to hide evidence, and asks for tips.",
       "related_artifacts": [
         "A-2673.1"
@@ -1734,14 +1776,17 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-10-10"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@type": "Thing",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting, which sought to boost Erika Kirk's video and called her an \"emotional asset,\" and the host's FOIA request for emails naming Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1755,13 +1800,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-10888"
-      ]
+        "N-10809"
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
       "@type": "Organization",
-      "@id": "N-10950",
-      "ref": "N-10950",
+      "@id": "N-10871",
+      "ref": "N-10871",
       "name": "US Department of Veterans Affairs (VA)",
       "type": "organization",
       "description": "Agency the host says repeatedly declined an appointment for a 12-year veteran who later had a seizure in Russia, and which she says hands veterans drugs such as Xanax instead of addressing physical brain injuries.",
@@ -1777,7 +1824,28 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10009"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1809,7 +1877,7 @@
       "claim": "The host credits Don Porter, a friend of Corey Comperatore, with reaching out to her and assembling the leads behind her previous Butler episode, and says he agreed to be named.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10724"
+        "N-10659"
       ],
       "tags": [],
       "claim_timestamp": "00:02:16",
@@ -1829,8 +1897,8 @@
       "claim": "The host says the theory that Charlie Kirk was killed by an explosive in his Rode microphone was first posited by an X user, Jon Bray, who has worked on it since September. She says he contacted her when she published the photos from inside the SUV.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10768",
-        "N-10705"
+        "N-10697",
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:03:00",
@@ -1871,7 +1939,7 @@
         "A-2668.1"
       ],
       "related_nodes": [
-        "N-10768",
+        "N-10697",
         "N-10000"
       ],
       "tags": [],
@@ -1893,8 +1961,8 @@
         "A-2668.2"
       ],
       "related_nodes": [
-        "N-10768",
-        "N-10537"
+        "N-10697",
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:07:29",
@@ -1912,7 +1980,7 @@
       "claim": "The host says the theorized explosive would be a shaped charge, typically in a copper or lead capsule, which directs the blast so that it functions like a bullet without a bullet's power; she credits Jon Bray with explaining the idea.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:08:07",
@@ -1931,7 +1999,7 @@
       "claim": "The host says bomb dogs were available on scene but were not brought to where Charlie Kirk was seated, and were instead taken to the field where Tyler Robinson's gun was later recovered.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10756",
+        "N-10686",
         "N-10014"
       ],
       "tags": [],
@@ -1951,7 +2019,7 @@
       "claim": "The host says bomb dogs can smell trace amounts of explosives, fired-weapon or bomb residue for up to 10 days, even after rain.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10756"
+        "N-10686"
       ],
       "tags": [],
       "claim_timestamp": "00:13:08",
@@ -1966,8 +2034,8 @@
       "claim": "The host says there is no evidence that the recovered rifle was fired on September 10 and that this, in her belief, is why the bomb dogs did not locate it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10756",
-        "N-10110"
+        "N-10686",
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:14:05",
@@ -1990,7 +2058,7 @@
         "A-2669.1"
       ],
       "related_nodes": [
-        "N-10107"
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:15:38",
@@ -2013,9 +2081,9 @@
         "A-2669.1"
       ],
       "related_nodes": [
-        "N-10107",
+        "N-10103",
         "N-10014",
-        "N-10074"
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21",
@@ -2035,7 +2103,7 @@
         "A-2669.2"
       ],
       "related_nodes": [
-        "N-10107",
+        "N-10103",
         "N-10012"
       ],
       "tags": [],
@@ -2054,7 +2122,7 @@
       "claim": "The host asserts that a .30-06 bullet would have nearly decapitated Charlie Kirk, citing people who emailed her about ricochet injuries.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [],
       "claim_timestamp": "00:20:26",
@@ -2072,7 +2140,7 @@
       "claim": "The host says Terryl Farnsworth says he spoke to Erika Kirk about the footage from behind Charlie Kirk's head in the early days after the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10812"
+        "N-10736"
       ],
       "tags": [],
       "claim_timestamp": "00:21:11",
@@ -2115,8 +2183,8 @@
       "claim": "The host says the back footage shows the projectile did not cause blood to spatter backwards, and that she has confirmed that, apart from the front-facing wound and the artery it hit, Charlie Kirk was in very good condition.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10319",
-        "N-10660"
+        "N-10300",
+        "N-10602"
       ],
       "tags": [],
       "claim_timestamp": "00:21:49",
@@ -2137,8 +2205,8 @@
         "A-2670.1"
       ],
       "related_nodes": [
-        "N-10768",
-        "N-10319"
+        "N-10697",
+        "N-10300"
       ],
       "tags": [],
       "claim_timestamp": "00:23:18",
@@ -2155,8 +2223,8 @@
         "A-2670.1"
       ],
       "related_nodes": [
-        "N-10768",
-        "N-10319"
+        "N-10697",
+        "N-10300"
       ],
       "tags": [],
       "claim_timestamp": "00:23:18",
@@ -2174,8 +2242,8 @@
       "claim": "The host says Terryl Farnsworth was specifically instructed to take the SD card from the camera behind Charlie Kirk's head, which she says was the only angle that would have shown he did not die from a .30-06 wound.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10808",
-        "N-10346"
+        "N-10732",
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:24:11",
@@ -2194,7 +2262,7 @@
       "claim": "The host agrees with viewers that Terryl Farnsworth zoomed in on the footage he showed her, which she says would otherwise have shown more.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:24:11",
@@ -2215,8 +2283,8 @@
         "A-2671.1"
       ],
       "related_nodes": [
-        "N-10705",
-        "N-10678"
+        "N-10641",
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:25:01",
@@ -2236,7 +2304,7 @@
       "claim": "The host says the feds had the SUV that carried Charlie Kirk towed, cleaned, towed again and resold or put up for resale. She says that, according to Frank Turek, they got everything they needed at the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10362",
+        "N-10338",
         "N-10014"
       ],
       "tags": [],
@@ -2258,8 +2326,8 @@
         "A-2671.1"
       ],
       "related_nodes": [
-        "N-10678",
-        "N-10685"
+        "N-10616",
+        "N-10623"
       ],
       "tags": [],
       "claim_timestamp": "00:26:45",
@@ -2277,7 +2345,7 @@
       "claim": "The host says that when no one was looking at Israel, Benjamin Netanyahu came out and said Israel did not do it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10446"
+        "N-10415"
       ],
       "tags": [],
       "claim_timestamp": "00:28:06",
@@ -2295,9 +2363,9 @@
       "claim": "The host says that after she published the messages contradicting TPUSA's Hamptons account, Turning Point's response was anger and the suggestion that Joe Kent had sent her the messages.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10551",
+        "N-10505",
         "N-10000",
-        "N-10446"
+        "N-10415"
       ],
       "tags": [],
       "claim_timestamp": "00:28:51",
@@ -2335,7 +2403,7 @@
       "claim": "The host says that when Bari Weiss asked Erika Kirk whether she believes Tyler Robinson acted alone, Erika answered yes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10334"
+        "N-10313"
       ],
       "tags": [],
       "claim_timestamp": "00:30:19",
@@ -2355,7 +2423,7 @@
       "claim": "The host says that when she asked Erika Kirk why she believed it, Erika put her lawyer on the phone, and the lawyer said he did not have more evidence than the public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10508"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:30:41",
@@ -2374,7 +2442,7 @@
       "claim": "The host says that besides Tyler Robinson's prints, five other sets of prints are on the rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:31:18",
@@ -2395,7 +2463,7 @@
       "claim": "The host says the police did not perform a basic gunshot residue test on Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:32:07",
@@ -2413,8 +2481,8 @@
       "claim": "The host says the case against Tyler Robinson rests on an alleged text-message confession sent after he bought a steak in Panguitch, a note left under his keyboard, and a shifting Discord confession.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10566",
-        "N-10381"
+        "N-10021",
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:32:07",
@@ -2432,7 +2500,8 @@
       "claim": "The host says the TPUSA team looked refreshed at the memorial, where Alex Clark wore a hat as if going to polo, and went to Charlie Kirk's favorite restaurant afterward, giggling.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10000"
+        "N-10000",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:33:34",
@@ -2451,7 +2520,7 @@
       "claim": "The host says Mikey McCoy walked away and called his wife, not Erika Kirk as first claimed, and did not call 911.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:34:58",
@@ -2473,7 +2542,7 @@
       "claim": "The host says Blake Neff called his mother and not 911, and that neither he nor Mikey McCoy called 911 afterward.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:34:58",
@@ -2494,7 +2563,7 @@
         "A-2672.2"
       ],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:35:43",
@@ -2516,8 +2585,8 @@
         "A-2672.1"
       ],
       "related_nodes": [
-        "N-10818",
-        "N-10730"
+        "N-10741",
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:37:19",
@@ -2540,7 +2609,7 @@
         "A-2672.2"
       ],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:37:19",
@@ -2561,7 +2630,7 @@
       "claim": "The host says that when Kash Patel arrived on the scene he instructed federal agents to take the hospital footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239",
+        "N-10226",
         "N-10014"
       ],
       "tags": [],
@@ -2580,7 +2649,7 @@
       "claim": "The host says Terryl Farnsworth told her TPUSA was live streaming the event back to the office, but no one she has asked at TPUSA has confirmed watching it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10985",
+        "N-10905",
         "N-10000"
       ],
       "tags": [],
@@ -2600,7 +2669,7 @@
       "claim": "The host says some people believe the explosion in Hickman County, Tennessee, could be where the rigged device was assembled, and that she will look into it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10986"
+        "N-10906"
       ],
       "tags": [],
       "claim_timestamp": "00:44:10",
@@ -2618,7 +2687,7 @@
       "claim": "The host says that on October 10 an explosion at Accurate Energetic Systems, which makes military and demolition explosives about 60 miles west of Nashville, killed 16 employees.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10986"
+        "N-10906"
       ],
       "tags": [],
       "claim_timestamp": "00:44:47",
@@ -2638,7 +2707,7 @@
         "A-2673.1"
       ],
       "related_nodes": [
-        "N-10986"
+        "N-10906"
       ],
       "tags": [],
       "claim_timestamp": "00:44:47",
@@ -2656,7 +2725,7 @@
       "claim": "The host says agencies must respond to a FOIA request within 20 working days, with a carve-out allowing more time for unusually complex requests.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10700"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:45:46",
@@ -2674,8 +2743,8 @@
       "claim": "The host says an email went out about an hour after the White House Correspondents' Dinner shooting to artificially boost Erika Kirk's video and referred to her as an \"emotional asset.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923",
-        "N-10888"
+        "N-10844",
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:47:12",
@@ -2693,8 +2762,8 @@
       "claim": "The host says her FOIA request to one department for emails containing Erika Kirk's name around the White House Correspondents' Dinner shooting was answered as too burdensome to meet the 20-day deadline.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923",
-        "N-10700"
+        "N-10844",
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:47:12",
@@ -2715,7 +2784,7 @@
         "A-2674.1"
       ],
       "related_nodes": [
-        "N-10700",
+        "N-10637",
         "N-10014"
       ],
       "tags": [],
@@ -2739,7 +2808,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10700"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:49:03",
@@ -2760,7 +2829,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10581"
+        "N-10532"
       ],
       "tags": [],
       "claim_timestamp": "00:50:52",
@@ -2803,8 +2872,8 @@
         "A-2674.6"
       ],
       "related_nodes": [
-        "N-10984",
-        "N-10324"
+        "N-10904",
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:52:57",
@@ -2824,7 +2893,7 @@
         "A-2675.1"
       ],
       "related_nodes": [
-        "N-10950"
+        "N-10871"
       ],
       "tags": [],
       "claim_timestamp": "00:53:52",
@@ -2845,7 +2914,7 @@
         "A-2675.2"
       ],
       "related_nodes": [
-        "N-10950"
+        "N-10871"
       ],
       "tags": [],
       "claim_timestamp": "00:53:52",
@@ -2881,7 +2950,7 @@
       "claim": "The host says the VA tells veterans with treatable brain clots that they have PTSD and gives them Xanax and drugs she says are illegal in Russia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10950"
+        "N-10871"
       ],
       "tags": [],
       "claim_timestamp": "00:58:29",
@@ -2899,8 +2968,8 @@
       "claim": "The host says Ashley has already reduced the burden of the FOIA request and they hope for a response from the Department of Justice.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10700",
-        "N-10984"
+        "N-10637",
+        "N-10904"
       ],
       "tags": [],
       "claim_timestamp": "01:03:02",
@@ -2920,7 +2989,7 @@
         "A-2676.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "01:05:23",
@@ -2940,7 +3009,7 @@
         "A-2676.2"
       ],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "01:07:33",
@@ -2964,8 +3033,8 @@
         "A-2676.2"
       ],
       "related_nodes": [
-        "N-10537",
-        "N-10768"
+        "N-10492",
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "01:09:28",
@@ -2985,8 +3054,8 @@
         "A-2676.3"
       ],
       "related_nodes": [
-        "N-10578",
-        "N-10092"
+        "N-10529",
+        "N-10088"
       ],
       "tags": [],
       "claim_timestamp": "01:09:55",
@@ -3010,8 +3079,8 @@
         "A-2676.3"
       ],
       "related_nodes": [
-        "N-10577",
-        "N-10578"
+        "N-10528",
+        "N-10529"
       ],
       "tags": [],
       "claim_timestamp": "01:09:28",

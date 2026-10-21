@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: f014080d358c9ccfe42ed712aeffc49e3166ec2829366ab1f4e0556561329eb5
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep089): N-10741
+  - Hole-minted Nodes (reintro-ep089): N-10673
   - Tip-minted Nodes (reintro-ep089): N-678
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7953–C-8019
-  - New Nodes Introduced: N-10590, N-10591, N-10592
+  - New Nodes Introduced: N-10538, N-10539, N-10540
   - Hole-minted Nodes (wave3): N-419
-  - Reused Nodes Appearing: N-5, N-10587, N-9, N-97, N-145, N-178, N-244, N-298, N-10006, N-10026, N-10063, N-10282, N-10324, N-10541, N-10628, N-10962, N-11128, N-11133, N-165, N-704, N-10630, N-11191, N-11192, N-11145, N-10589, N-10588
+  - Reused Nodes Appearing: N-5, N-10535, N-9, N-97, N-145, N-178, N-244, N-298, N-10006, N-10026, N-10060, N-10265, N-10303, N-10496, N-10574, N-10883, N-11046, N-11051, N-165, N-704, N-10576, N-11107, N-11108, N-11062, N-10537, N-10536
   - (see registers)
 
 ## 2. Executive Summary
@@ -42,7 +42,7 @@ Video Timestamp: 00:04:12–00:12:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-7955, C-7964, C-7965, C-7960, N-3, N-10587*
+*Related: C-7955, C-7964, C-7965, C-7960, N-3, N-10535*
 
 ---
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:25:38–00:26:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-7984, N-10592*
+*Related: C-7984, N-10540*
 
 ---
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:33:58–00:35:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-8004, N-10590*
+*Related: C-8004, N-10538*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:29:16–00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-witness recounting; second-hand via Charlie Kirk; Kolb named as corroborator)
 
-*Related: C-7990, C-7993, N-10588, N-10589*
+*Related: C-7990, C-7993, N-10536, N-10537*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:41:36–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (commenter identities partially self-attested)
 
-*Related: C-7979, N-10591*
+*Related: C-7979, N-10539*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:19:06–00:21:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (responses paraphrased and partially quoted on air)
 
-*Related: C-7979, C-7980, N-10587, N-10591*
+*Related: C-7979, C-7980, N-10535, N-10539*
 
 ---
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:31:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but not displayed)
 
-*Related: C-7996, N-10588*
+*Related: C-7996, N-10536*
 
 ---
 
@@ -217,7 +217,7 @@ First named by the host at 00:26:31 in episode 89.
 *Related: C-7984, C-7985*
 
 
-**N-10587** Trump Truth Social Post Pattern Question
+**N-10535** Trump Truth Social Post Pattern Question
 
 Persistent discrepancy between Trump's stated posture toward named public figures and his posture in A-1939.1; includes implication that Charlie Kirk would also have been targeted.
 
@@ -230,7 +230,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10588** Butler PA Investigation Closure Verification
+**N-10536** Butler PA Investigation Closure Verification
 
 Question about whether and why Trump moved to close the Butler investigation; relevant to A-1944.1 timeline and A-1947.1.
 
@@ -243,7 +243,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10589** Adelson–West Bank Annexation Meeting Verification
+**N-10537** Adelson–West Bank Annexation Meeting Verification
 
 Question about whether a meeting occurred in which Miriam Adelson conditioned $100M on West Bank annexation, and what Trump stated therein.
 
@@ -256,7 +256,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10590** Laura Loomer Influence on Trump Policy Question
+**N-10538** Laura Loomer Influence on Trump Policy Question
 
 Question about the operative influence Laura Loomer exerts over Trump's Truth Social posts and policy posture, per her own claim in A-1943.1.
 
@@ -269,7 +269,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10591** MAGA Base Sentiment Shift Question
+**N-10539** MAGA Base Sentiment Shift Question
 
 Question about measurable shift in core-MAGA supporter sentiment toward Trump, evidenced by responses in A-1945.1 and A-1946.1.
 
@@ -282,7 +282,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10592** Situation-Room Table Seating Verification
+**N-10540** Situation-Room Table Seating Verification
 
 Question about whether Trump was seated at the side of the situation-room table during the Netanyahu meeting, per A-1941.1.
 
@@ -463,7 +463,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -471,7 +471,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-10282** CBS News
+**N-10265** CBS News
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -479,7 +479,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -487,7 +487,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-10541** Strait of Hormuz / US-Iran War Context
+**N-10496** Strait of Hormuz / US-Iran War Context
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -495,7 +495,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+**N-10574** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -503,7 +503,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-10630** Laura Loomer Identity Claims (Jewish Heritage)
+**N-10576** Laura Loomer Identity Claims (Jewish Heritage)
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -511,7 +511,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-10741** Sandy Hook Comparison Rhetoric
+**N-10673** Sandy Hook Comparison Rhetoric
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -519,7 +519,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-10962** Venezuela
+**N-10883** Venezuela
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -527,7 +527,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-11128** US and Israel Iran War Betrayal Thesis
+**N-11046** US and Israel Iran War Betrayal Thesis
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -535,7 +535,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-11133** Glyphosate and White Phosphorus Defense Production Act Order
+**N-11051** Glyphosate and White Phosphorus Defense Production Act Order
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -543,7 +543,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-11145** Minab Iran School Strike
+**N-11062** Minab Iran School Strike
 
 Topic or entity referenced by the new claims in this supplement.
 
@@ -551,7 +551,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 ---
 
-**N-11191** Pre-Born
+**N-11107** Pre-Born
 
 Node Type: Organization
 Anti-abortion ultrasound network promoted by the host in a sponsor read at 00:21:03 in episode 89.
@@ -560,7 +560,7 @@ Anti-abortion ultrasound network promoted by the host in a sponsor read at 00:21
 
 ---
 
-**N-11192** Sabbatian-Frankist Cult Allegation
+**N-11108** Sabbatian-Frankist Cult Allegation
 
 Node Type: Topic
 The host's repeated assertion at 00:36:11-00:37:09 that a cult claiming to be Jewish, tied to Sabbatianism and Frankism, is emerging; recorded as said.
@@ -579,7 +579,7 @@ Claim: Trump's Truth Social post, read in full on air, named Tucker Carlson, Meg
 
 Anchored Artifacts: A-1939.1
 Mentions: N-3, N-5, N-22, N-46, N-93
-Related Nodes: N-10587
+Related Nodes: N-10535
 Investigative Direction: Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.
 
 ---
@@ -617,7 +617,7 @@ Claim: In an on-air audio clip from her Piers Morgan interview, Megyn Kelly stat
 
 Anchored Artifacts: A-1941.1
 Mentions: N-5, N-36, N-46, N-204
-Related Nodes: N-10592
+Related Nodes: N-10540
 Investigative Direction: Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.
 
 ---
@@ -643,7 +643,7 @@ Claim: In an audio clip played on air, Laura Loomer stated that she sent Tucker 
 
 Anchored Artifacts: A-1943.1
 Mentions: N-5, N-22, N-60
-Related Nodes: N-10590
+Related Nodes: N-10538
 Investigative Direction: Obtain the original Loomer audio/video (e.g., X post, Rumble clip) and confirm the exact wording; assess whether other corroboration exists for her influence claim.
 
 ---
@@ -656,7 +656,7 @@ Claim: Candace Owens recounted on air that Charlie Kirk told her (with Andrew Ko
 
 Anchored Artifacts: A-1944.1
 Mentions: N-1, N-3, N-5, N-14, N-298
-Related Nodes: N-10589
+Related Nodes: N-10537
 Investigative Direction: Identify and interview Andrew Kolvet directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.
 
 ---
@@ -669,7 +669,7 @@ Claim: Per Candace Owens's recounting of Charlie Kirk's account, Donald Trump st
 
 Anchored Artifacts: A-1944.1
 Mentions: N-3, N-1, N-5, N-298
-Related Nodes: N-10588, N-10589
+Related Nodes: N-10536, N-10537
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.
 
 ---
@@ -682,7 +682,7 @@ Claim: The host says she remembers Donald Trump Jr. on stage, when asked whether
 
 Anchored Artifacts: A-1947.1
 Mentions: N-5, N-33
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Locate the original on-stage footage or transcript; cross-reference with any subsequent Trump Jr. statements on the same topic.
 
 ---
@@ -695,7 +695,7 @@ Claim: Per Truth Social and other social-media responses the host reads on air, 
 
 Anchored Artifacts: A-1945.1, A-1946.1
 Mentions: N-5
-Related Nodes: N-10591
+Related Nodes: N-10539
 Investigative Direction: Quantify sentiment shift using archived social-media datasets and date-range filters; separate organic supporter sentiment from bot/inauthenticator activity.
 
 ---
@@ -708,7 +708,7 @@ Claim: Candace Owens said that in her view the most brutal and recurring respons
 
 Anchored Artifacts: A-1946.1
 Mentions: N-1, N-3, N-5
-Related Nodes: N-10587
+Related Nodes: N-10535
 Investigative Direction: Locate the originating posts and timestamps; assess spread velocity and authorship clustering.
 
 ---
@@ -721,7 +721,7 @@ Claim: Trump's Truth Social post cited CNN polling data ("100% approval rating")
 
 Anchored Artifacts: A-1939.1
 Mentions: N-5
-Related Nodes: N-10587
+Related Nodes: N-10535
 Investigative Direction: Verify exact wording in the archived post and identify the specific CNN poll Trump cited.
 
 ---
@@ -779,7 +779,7 @@ Transcript Snippet: they think it is wonderful for Iran, the number one state sp
 
 Anchored Artifacts: A-1939.1
 Mentions: N-22, N-46, N-3, N-93, N-5
-Related Nodes: N-10541
+Related Nodes: N-10496
 Tags: relevance:tangential
 Investigative Direction: Obtain the archived Truth Social post and compare the wording with the on-air reading.
 
@@ -857,7 +857,7 @@ Transcript Snippet: Or bankrupt Alex Jones, who says some of the dumbest things 
 
 Anchored Artifacts: A-1939.1
 Mentions: N-93, N-5
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:context
 Investigative Direction: Obtain the archived Truth Social post and compare the wording with the on-air reading.
 
@@ -873,7 +873,7 @@ Transcript Snippet: Did you connect that dot when we revolted against you saying
 
 Anchored Artifacts: 
 Mentions: N-3, N-5
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Compare dated polling and social-media sentiment on the Epstein files release with the host's description of a base revolt.
 
@@ -904,7 +904,7 @@ Transcript Snippet: Because we just killed 150 schoolgirls for no reason?
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11145, N-10541
+Related Nodes: N-11062, N-10496
 Tags: relevance:context
 Investigative Direction: Compare the host's figure with official and independent casualty counts for the Minab school strike.
 
@@ -920,7 +920,7 @@ Transcript Snippet: Because you guys just lied about six of our servicemen who d
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10282, N-10541
+Related Nodes: N-10265, N-10496
 Tags: relevance:context
 Investigative Direction: Find the CBS News report and the official statements on the deaths to test the host's account of a lie and a leak.
 
@@ -951,7 +951,7 @@ Transcript Snippet: whatever was agreed upon in those boardrooms with Jared Kush
 
 Anchored Artifacts: 
 Mentions: N-178, N-5, N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:context
 Investigative Direction: Identify any public reporting on a Kushner-linked Gaza development plan and compare it with the host's allusion.
 
@@ -967,7 +967,7 @@ Transcript Snippet: suddenly reduced to sitting on the side in the situation roo
 
 Anchored Artifacts: 
 Mentions: N-36, N-5, N-3
-Related Nodes: N-10592, N-10541
+Related Nodes: N-10540, N-10496
 Supports: C-7984
 Tags: relevance:context
 Investigative Direction: Find the official situation-room photographs and attendee records for the Iran briefing.
@@ -984,7 +984,7 @@ Transcript Snippet: Bibi is your master. Maybe it's Miriam Adelson that lights t
 
 Anchored Artifacts: 
 Mentions: N-36, N-298, N-5, N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: This is the host's characterization; look for documented policy requests by either figure to Trump.
 
@@ -1061,7 +1061,7 @@ Transcript Snippet: you are just going against everyone that fought for him to w
 
 Anchored Artifacts: A-1946.1
 Mentions: N-5, N-3
-Related Nodes: N-10324, N-10541
+Related Nodes: N-10303, N-10496
 Tags: relevance:context
 Investigative Direction: Locate the original replies on Truth Social.
 
@@ -1092,7 +1092,7 @@ Transcript Snippet: last year Pre-Born helped to rescue over 80,000 babies
 
 Anchored Artifacts: A-2954.1
 Mentions: N-3
-Related Nodes: N-11191
+Related Nodes: N-11107
 Tags: relevance:tangential
 Investigative Direction: Check Pre-Born's published annual figures against the sponsor-read number.
 
@@ -1108,7 +1108,7 @@ Transcript Snippet: promising no new wars, right? No new wars in the Middle East
 
 Anchored Artifacts: A-1940.1
 Mentions: N-5, N-3
-Related Nodes: N-10541, N-10962
+Related Nodes: N-10496, N-10883
 Tags: relevance:context
 Investigative Direction: Compile Trump's 2024 campaign statements on new wars and gas prices for comparison.
 
@@ -1140,7 +1140,7 @@ Transcript Snippet: Israel's current top priority is making sure Operation Epic 
 
 Anchored Artifacts: A-1942.1
 Mentions: N-22, N-3
-Related Nodes: N-10026, N-10541
+Related Nodes: N-10026, N-10496
 Tags: relevance:context
 Investigative Direction: Retrieve the original letter; identify what Operation Epic Fury names.
 
@@ -1204,7 +1204,7 @@ Transcript Snippet: before where was announced that Miriam Adelson gave Trump $1
 
 Anchored Artifacts: A-1944.1
 Mentions: N-298, N-5, N-3
-Related Nodes: N-10589
+Related Nodes: N-10537
 Supports: C-6768
 Tags: relevance:context
 Investigative Direction: Check FEC filings and press reports for the date and amount of Adelson-linked contributions in 2024.
@@ -1221,7 +1221,7 @@ Transcript Snippet: And the reason that Charlie told me the story and again I co
 
 Anchored Artifacts: A-1944.1
 Mentions: N-1, N-3
-Related Nodes: N-10589
+Related Nodes: N-10537
 Supports: C-7990
 Tags: relevance:core
 Investigative Direction: Check the host's own messages or notes from spring 2024 for the date of the discussion.
@@ -1238,7 +1238,7 @@ Transcript Snippet: That nobody else was there but Andrew and Charlie when Trump
 
 Anchored Artifacts: A-1944.1
 Mentions: N-1, N-14, N-5, N-3
-Related Nodes: N-10589
+Related Nodes: N-10537
 Supports: C-7993
 Tags: relevance:core
 Investigative Direction: Only the two named witnesses are asserted present; ask Kolvet directly.
@@ -1255,7 +1255,7 @@ Transcript Snippet: A few weeks later um there was the Butler attempted assassin
 
 Anchored Artifacts: A-1944.1
 Mentions: N-3, N-5
-Related Nodes: N-10588
+Related Nodes: N-10536
 Tags: relevance:context
 Investigative Direction: Reconcile the host's date of May with the public July 13, 2024 rally date.
 
@@ -1271,7 +1271,7 @@ Transcript Snippet: I find it very strange that Donald Trump is not interested o
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10588
+Related Nodes: N-10536
 Tags: relevance:context
 Investigative Direction: Collect Trump's public statements and executive actions on the Butler investigation.
 
@@ -1287,7 +1287,7 @@ Transcript Snippet: If it maybe got back to the Adelsons that Trump said that. Y
 
 Anchored Artifacts: A-1944.1
 Mentions: N-704, N-298, N-5, N-3
-Related Nodes: N-10588
+Related Nodes: N-10536
 Tags: relevance:context
 Investigative Direction: This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.
 
@@ -1303,7 +1303,7 @@ Transcript Snippet: I do think that we have all noted this shift in him since Bu
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10588
+Related Nodes: N-10536
 Tags: relevance:context
 Investigative Direction: Define the shift and compare Trump's positions before and after July 2024.
 
@@ -1319,7 +1319,7 @@ Transcript Snippet: she has been committed multiple times uh by her own family.
 
 Anchored Artifacts: 
 Mentions: N-60, N-3
-Related Nodes: N-10628
+Related Nodes: N-10574
 Tags: relevance:tangential
 Investigative Direction: Look for court or medical records; none was shown.
 
@@ -1351,7 +1351,7 @@ Transcript Snippet: If you ask her to produce a photo of her bat mitzvah she can
 
 Anchored Artifacts: 
 Mentions: N-60, N-3
-Related Nodes: N-10630
+Related Nodes: N-10576
 Tags: relevance:tangential
 Investigative Direction: Ask Loomer about her religion; the host offers no record.
 
@@ -1397,7 +1397,7 @@ Transcript Snippet: Oh, Trump went back on phosphorus and Monsanto. Well, that w
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-11133, N-10026
+Related Nodes: N-11051, N-10026
 Tags: relevance:tangential
 Investigative Direction: Check the executive order on glyphosate and white phosphorus and any reporting linking it to Israel or Lebanon.
 
@@ -1413,7 +1413,7 @@ Transcript Snippet: rabbis even who write me and say you are right about Sabbati
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11192
+Related Nodes: N-11108
 Tags: relevance:tangential
 Investigative Direction: Ask the host for the messages or senders; none was shown.
 
@@ -1429,7 +1429,7 @@ Transcript Snippet: there is a cult that is claiming to be Jewish and they are n
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11192
+Related Nodes: N-11108
 Tags: relevance:tangential
 Investigative Direction: This is a sweeping group assertion; ask the host who is meant and what she relies on.
 
@@ -1445,7 +1445,7 @@ Transcript Snippet: I will forever maintain that the first casualty of the Irani
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10541, N-11128
+Related Nodes: N-10496, N-11046
 Tags: relevance:core
 Investigative Direction: The host labels this her opinion; ask what record ties the killing to the Iran conflict, which began after his death.
 
@@ -1506,7 +1506,7 @@ Transcript Snippet: I don't know what is in those files that has him so scared. 
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: The host marks this as speculation; the release status of the files is the relevant record.
 

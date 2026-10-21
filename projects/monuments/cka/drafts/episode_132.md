@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-819, N-820, N-11205, N-11206
+  - Tip-minted Nodes (supplement_2026-10c): N-819, N-820, N-11121, N-11122
   - Claim Range: C-11354–C-11445
-  - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-176, N-190, N-266, N-452, N-493, N-494, N-635, N-709, N-737, N-798, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202, N-11203, N-11204
- - New Nodes Introduced: N-10749, N-10750, N-10751, N-10752, N-10753
+  - Reused Nodes Appearing: N-10681, N-5, N-7, N-27, N-36, N-40, N-82, N-176, N-190, N-266, N-452, N-493, N-494, N-635, N-709, N-737, N-798, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10067, N-10072, N-10090, N-10134, N-10344, N-10358, N-10371, N-10449, N-10492, N-10586, N-10630, N-10641, N-10663, N-10672, N-10675, N-10865, N-10971, N-11065, N-11118, N-11119, N-11120
+ - New Nodes Introduced: N-10679, N-10680, N-10681, N-10682, N-10683
  - Hole-minted Nodes (wave3): N-526
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-487, N-492
  - (see registers)
@@ -33,7 +33,7 @@
 - **Episode Ledger Summary:**
  - Artifact Families Introduced: A-2189, A-2190, A-2191, A-2192, A-2193, A-2194, A-2195, A-2196, A-2197
  - New People Nodes: none (Wave 2: local ids removed)
- - New Investigation Target Nodes: N-10749, N-10750, N-10751, N-10752
+ - New Investigation Target Nodes: N-10679, N-10680, N-10681, N-10682
  - Existing Nodes Reused: Charlie Kirk, Candace Owens, Erika Kirk, Andrew Kolvet, Brian Harpole, Rick Cutler, Justin Davis, Harris Faulkner, Tyler Robinson, Benjamin Netanyahu, Donald Trump, Lindsey Graham
 
 ---
@@ -83,7 +83,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Again, this is none of your business, you vile witch."
 
-*Related: C-11378, N-10751*
+*Related: C-11378, N-10681*
 
 ---
 
@@ -98,7 +98,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Can my children have one thing? Everything was public. We will be building the most beautiful memorial for my husband at Turning Point USA, and it will be for the world to see, and it will be spectacular… But can I have one thing? Can my babies have one thing where we hold it sacred, where my husband is laid to rest…"
 
-*Related: C-11386, Erika Kirk (existing node), Harris Faulkner (existing node), N-10751*
+*Related: C-11386, Erika Kirk (existing node), Harris Faulkner (existing node), N-10681*
 
 ---
 
@@ -165,7 +165,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "LOL. No, can confirm I'm not in D.C. Same is true for our in-house lawyer and CMO. While we're at it, Candace claimed I was in D.C. on January 29th meeting with top brass and that I staged some elaborate pre-record with Kash Patel. Also false. I would check your source, Candace. Oh, that's right, you don't check your sources."
 
-*Related: C-11418, Andrew Kolvet (existing node), N-10752, Donald Trump (existing node)*
+*Related: C-11418, Andrew Kolvet (existing node), N-10682, Donald Trump (existing node)*
 
 ---
 
@@ -206,7 +206,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Forcing someone to sign an NDA to attend their own son's funeral is the most diabolical thing that I've ever heard."
 
-*Related: N-10749 (cross-reference for investigation cluster regarding Twitch family)*
+*Related: N-10679 (cross-reference for investigation cluster regarding Twitch family)*
 
 **A-2196.3** Comment from Robin Phillips
 
@@ -239,7 +239,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "His wedding ring isn't on his finger in the casket."
 
-*Related: C-11439, Charlie Kirk (existing node), N-10753 (wedding ring recovery status – to be inscribed if introduced as investigation target)*
+*Related: C-11439, Charlie Kirk (existing node), N-10683 (wedding ring recovery status – to be inscribed if introduced as investigation target)*
 
 **A-2196.6** Comment from Alaska Dog Lady
 
@@ -299,7 +299,7 @@ Confidence Level: Low
 
 Excerpt: "The call did in fact take place… it lasted anywhere from 3 to 5 minutes… someone phones 911 and then did not engage with the 911 operator… The phone sounds as though it's dropped… what was captured rather on this call is quote, 'We got him. Uh we are taking him to the hospital.'… 'Get that off of him.'… 'Get out of the way.'…"
 
-*Related: C-11395, N-10750, Brian Harpole (existing node), Charlie Kirk (existing node), N-487, N-492*
+*Related: C-11395, N-10680, Brian Harpole (existing node), Charlie Kirk (existing node), N-487, N-492*
 
 ---
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:02:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11358, N-3, N-176, N-10749*
+*Related: C-11358, N-3, N-176, N-10679*
 
 ---
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:02:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11359, C-11360, C-11361, N-2, N-3, N-10070, N-10743, N-14*
+*Related: C-11359, C-11360, C-11361, N-2, N-3, N-10067, N-10675, N-14*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:05:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11367, C-11368, N-1, N-3, N-10003, N-10385*
+*Related: C-11367, C-11368, N-1, N-3, N-10003, N-10358*
 
 ---
 
@@ -383,7 +383,7 @@ Video Timestamp: 00:10:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11379, C-11380, N-1, N-3, N-11202, N-2*
+*Related: C-11379, C-11380, N-1, N-3, N-11118, N-2*
 
 ---
 
@@ -396,7 +396,7 @@ Video Timestamp: 00:11:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11381, C-11382, N-2, N-1, N-11053, N-11202, N-3*
+*Related: C-11381, C-11382, N-2, N-1, N-10971, N-11118, N-3*
 
 ---
 
@@ -409,7 +409,7 @@ Video Timestamp: 00:12:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11384, N-2, N-1, N-10483*
+*Related: C-11384, N-2, N-1, N-10449*
 
 ---
 
@@ -424,7 +424,7 @@ Video Timestamp: 00:32:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11416, C-11417, C-11421, C-11422, C-11424, C-11425, N-14, N-493, N-3, N-10752, N-10075, N-36*
+*Related: C-11416, C-11417, C-11421, C-11422, C-11424, C-11425, N-14, N-493, N-3, N-10682, N-10072, N-36*
 
 ---
 
@@ -437,13 +437,13 @@ First named by the host at 00:23:26 in episode 132. Aliases: Pastor Russ.
 *Related: C-11405*
 
 
-**N-10753** Andrew Kolvet X Post and Community Note Bundle
+**N-10683** Andrew Kolvet X Post and Community Note Bundle
 
-Node Type: topic
+Node Type: Thing
 
 *Related:*
 
-**N-10749** Amaro Resignation Cause
+**N-10679** Amaro Resignation Cause
 
 Persistent investigation target. Utah Chief Medical Examiner Dr. Deirdre Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a "general sense of corruption."
 
@@ -454,7 +454,7 @@ Investigative Pressure: Medium
 
 *Related: C-11354 (verbal-only host assertion)*
 
-**N-10750** 911 Call Content Discrepancy
+**N-10680** 911 Call Content Discrepancy
 
 Persistent investigation target. Host reports a "solid tip" alleging that a 911 call from Charlie's security team during transport to the hospital lasted 3–5 minutes, included phrases "We got him. We are taking him to the hospital" and "Get that off of him," and was purged from released call records. No primary audio, transcript, or record request response displayed.
 
@@ -465,7 +465,7 @@ Investigative Pressure: High
 
 *Related: A-2197.1, C-11395, Charlie Kirk (existing node), Brian Harpole (existing node), N-487, N-492*
 
-**N-10751** Charlie Kirk Cremation/Burial Status Verification
+**N-10681** Charlie Kirk Cremation/Burial Status Verification
 
 Persistent investigation target. Host publicly raised whether Charlie Kirk was cremated; both Blake Neff and Erika Kirk publicly refused to confirm. Host cites Charlie's prior stated preference against cremation. No primary documentation of burial/cremation status displayed.
 
@@ -476,7 +476,7 @@ Investigative Pressure: Medium
 
 *Related: A-2190.1, A-2191.1, C-11378, C-11386, Charlie Kirk (existing node), Erika Kirk (existing node)*
 
-**N-10752** TPUSA White House Meeting Coordination with Netanyahu Trip
+**N-10682** TPUSA White House Meeting Coordination with Netanyahu Trip
 
 Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Minas were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.
 
@@ -721,7 +721,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Existing topic reused for new claims in this episode.
 
@@ -729,7 +729,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10075** White House
+**N-10072** White House
 
 Existing topic reused for new claims in this episode.
 
@@ -737,7 +737,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10094** LDS Church
+**N-10090** LDS Church
 
 Existing topic reused for new claims in this episode.
 
@@ -745,7 +745,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Existing topic reused for new claims in this episode.
 
@@ -753,7 +753,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10369** Charlie Kirk SUV Interior Black Plastic Fragmentation
+**N-10344** Charlie Kirk SUV Interior Black Plastic Fragmentation
 
 Existing topic reused for new claims in this episode.
 
@@ -761,7 +761,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Existing topic reused for new claims in this episode.
 
@@ -769,7 +769,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Existing topic reused for new claims in this episode.
 
@@ -777,7 +777,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10483** Erika's Mother Medical Narrative
+**N-10449** Erika's Mother Medical Narrative
 
 Existing topic reused for new claims in this episode.
 
@@ -785,7 +785,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
+**N-10492** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Existing topic reused for new claims in this episode.
 
@@ -793,7 +793,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10641** Andrew Kolvet Text Message Full Context Verification
+**N-10586** Andrew Kolvet Text Message Full Context Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -801,7 +801,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10692** 911 Call Origin in Hospital Transport Vehicle
+**N-10630** 911 Call Origin in Hospital Transport Vehicle
 
 Existing topic reused for new claims in this episode.
 
@@ -809,7 +809,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10705** Charlie's Road Microphone Glass Origin Investigation Target
+**N-10641** Charlie's Road Microphone Glass Origin Investigation Target
 
 Existing topic reused for new claims in this episode.
 
@@ -817,7 +817,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10729** 911 Call Identification Gap
+**N-10663** 911 Call Identification Gap
 
 Existing topic reused for new claims in this episode.
 
@@ -825,7 +825,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10740** SUV Interior Anomaly
+**N-10672** SUV Interior Anomaly
 
 Existing topic reused for new claims in this episode.
 
@@ -833,7 +833,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10743** Daily Mail Article Source Identity
+**N-10675** Daily Mail Article Source Identity
 
 Existing topic reused for new claims in this episode.
 
@@ -841,7 +841,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10944** Kouri Richins Murder Case
+**N-10865** Kouri Richins Murder Case
 
 Existing topic reused for new claims in this episode.
 
@@ -849,7 +849,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11053** Charlie Kirk Handheld Microphone Custody
+**N-10971** Charlie Kirk Handheld Microphone Custody
 
 Existing topic reused for new claims in this episode.
 
@@ -857,7 +857,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss
+**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
 Existing topic reused for new claims in this episode.
 
@@ -889,7 +889,7 @@ Instagram account holder whose clip mocking Christian speak the host plays; firs
 
 ---
 
-**N-11202** Public Casket Footage and Memorial Spectacle
+**N-11118** Public Casket Footage and Memorial Spectacle
 
 Node Type: Topic
 The host's catalogue of Charlie Kirk's death being made public: casket footage within 24 hours, the bloody microphone used for fundraising, a recreated tent opened for selfies, set against refusal to say whether he was cremated.
@@ -898,16 +898,16 @@ The host's catalogue of Charlie Kirk's death being made public: casket footage w
 
 ---
 
-**N-11203** Make Heaven Crowded Tour
+**N-11119** Make Heaven Crowded Tour
 
-Node Type: Topic
+Node Type: Event
 The Turning Point Faith speaking tour on which Erika Kirk appeared at Pursuit Church in Washington state; the transcript sometimes renders it "Make Kevin Crowded".
 
 *Related: C-11403, C-11409, C-11410, C-11412*
 
 ---
 
-**N-11204** Twitch Memorial NDA Claim
+**N-11120** Twitch Memorial NDA Claim
 
 Node Type: Topic
 The claim, relayed by a commenter and a family, that relatives of Stephen "Twitch" Boss were asked to sign non-disclosure agreements to attend his memorial, which the host links to parallels with the Kirk case.
@@ -916,7 +916,7 @@ The claim, relayed by a commenter and a family, that relatives of Stephen "Twitc
 
 ---
 
-**N-11205** Christians United for Israel
+**N-11121** Christians United for Israel
 
 Node Type: Organization
 Pro-Israel Christian advocacy organization the host says Pastor Russell works with.
@@ -925,9 +925,9 @@ Pro-Israel Christian advocacy organization the host says Pastor Russell works wi
 
 ---
 
-**N-11206** Charlie Kirk Wedding Ring Whereabouts
+**N-11122** Charlie Kirk Wedding Ring Whereabouts
 
-Node Type: Topic
+Node Type: Investigation Question
 Question of whether Charlie Kirk's wedding ring fell from his finger at the scene and was never recovered, raised through a viewer comment.
 
 *Related: C-11442, C-11443*
@@ -966,7 +966,7 @@ Claim: Blake Neff, in a post the host reads, used the phrase "vile witch" direct
 
 Anchored Artifacts: A-2190.1
 Mentions: N-3, N-1, N-159
-Related Nodes: N-10751
+Related Nodes: N-10681
 Investigative Direction: Confirm the original post remains accessible and document its publication time and any subsequent edits or deletions.
 
 **C-11386** Erika Kirk publicly requested "one thing" remain sacred about Charlie's burial
@@ -977,7 +977,7 @@ Claim: Erika Kirk, in a Fox News interview with Harris Faulkner, publicly reques
 
 Anchored Artifacts: A-2191.1
 Mentions: N-1, N-2, N-798
-Related Nodes: N-10751
+Related Nodes: N-10681
 Investigative Direction: Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.
 
 **C-11405** Pastor Russell denounced named political opponents in sermon
@@ -1021,7 +1021,7 @@ Claim: Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, o
 
 Anchored Artifacts: A-2194.1
 Mentions: N-14, N-69, N-493, N-494, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Investigative Direction: Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.
 
 **C-11415** Devonte West Instagram Account Mocked Contemporary Christianese
@@ -1043,7 +1043,7 @@ Claim: Candace Owens claims an exclusive report that Dr. Deirdre Amaro resigned 
 
 Anchored Artifacts: None displayed in this episode (host verbal assertion only)
 Mentions: N-3, N-176
-Related Nodes: N-10749
+Related Nodes: N-10679
 Investigative Direction: Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
 **C-11439** Host Says Charlie Kirk's Wedding Ring Had an Open Clasp and Was Never Recovered
@@ -1065,7 +1065,7 @@ Claim: Candace Owens reports receiving a "solid tip" that a 911 call placed by C
 
 Anchored Artifacts: A-2197.1
 Mentions: N-3, N-1
-Related Nodes: N-10750
+Related Nodes: N-10680
 Investigative Direction: File records requests for the underlying 911 audio and CAD records; cross-reference against any released call logs; verify the identity of the caller and whether the call was logged as abandoned. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
 ---
@@ -1080,7 +1080,7 @@ Transcript Snippet: a woman by the name of Dr. Deirdre Amaro. Uh her tenure bega
 
 Anchored Artifacts: 
 Mentions: N-176, N-1
-Related Nodes: N-10749
+Related Nodes: N-10679
 Supports: C-1638
 Tags: relevance:context
 Investigative Direction: Check the Utah Department of Health or governor's appointment record for Amaro's start date and the autopsy report's signatory.
@@ -1128,7 +1128,7 @@ Transcript Snippet: If you perhaps know more, please do send us an email to tips
 
 Anchored Artifacts: A-2978.1
 Mentions: N-3, N-176
-Related Nodes: N-10749
+Related Nodes: N-10679
 Tags: relevance:context
 Investigative Direction: Track whether tips about the Amaro resignation are later cited by the host; a tip line is not itself evidence.
 
@@ -1144,7 +1144,7 @@ Transcript Snippet: wherein direct quotations were used to assert a family frien
 
 Anchored Artifacts: A-2979.1
 Mentions: N-2, N-3
-Related Nodes: N-10070, N-10743
+Related Nodes: N-10067, N-10675
 Supports: C-11104
 Tags: relevance:core
 Investigative Direction: Obtain the live Daily Mail article and its edit history to confirm the quotations remain and who is attributed.
@@ -1161,7 +1161,7 @@ Transcript Snippet: Remember, Andrew Kolvet lied, explicitly lied, and attempted
 
 Anchored Artifacts: A-2979.1
 Mentions: N-14, N-3
-Related Nodes: N-10070, N-10743
+Related Nodes: N-10067, N-10675
 Contradicts: C-11224
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public statements on the article with the Daily Mail's own account and any comment request it sent TPUSA.
@@ -1178,7 +1178,7 @@ Transcript Snippet: Erika and her close family friend planted that article and t
 
 Anchored Artifacts: A-2979.1
 Mentions: N-2, N-14, N-3
-Related Nodes: N-10070, N-10743
+Related Nodes: N-10067, N-10675
 Tags: relevance:core
 Investigative Direction: Identify the family friend and the Daily Mail reporter's sourcing; the host presents this as her inference, not a documented fact.
 
@@ -1293,7 +1293,7 @@ Transcript Snippet: the targeting was inorganic, that he knew that The Daily Wir
 
 Anchored Artifacts: A-2981.1
 Mentions: N-1, N-3
-Related Nodes: N-10385, N-10003
+Related Nodes: N-10358, N-10003
 Tags: relevance:core
 Investigative Direction: Locate the specific messages in the shared thread where Charlie names The Daily Wire and compare with Daily Wire's account.
 
@@ -1341,7 +1341,7 @@ Transcript Snippet: Erika has his phone. Scroll up, type in the phrase that I sh
 
 Anchored Artifacts: A-2189.1
 Mentions: N-2, N-14, N-1
-Related Nodes: N-10641
+Related Nodes: N-10586
 Tags: relevance:core
 Investigative Direction: Establish the custody of Charlie Kirk's phone and whether TPUSA or Erika has verified or denied the messages.
 
@@ -1403,7 +1403,7 @@ Transcript Snippet: a simple yes or no question which I I or may not know the an
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10751
+Related Nodes: N-10681
 Supports: C-8542
 Tags: relevance:core
 Investigative Direction: Obtain the burial or cremation record, death certificate disposition field or funeral home confirmation.
@@ -1420,7 +1420,7 @@ Transcript Snippet: I actually remember when Charlie's dead body in a casket les
 
 Anchored Artifacts: A-2983.1
 Mentions: N-1, N-3
-Related Nodes: N-11202
+Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Identify who filmed and released the casket footage, when, and with whose permission.
 
@@ -1436,7 +1436,7 @@ Transcript Snippet: I want you to think about the distance of the camera to Erik
 
 Anchored Artifacts: A-2983.1
 Mentions: N-2, N-1
-Related Nodes: N-11202
+Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Identify the videographer and the venue of the farewell footage.
 
@@ -1452,7 +1452,7 @@ Transcript Snippet: I'm also old enough to remember when the blood on Charlie's 
 
 Anchored Artifacts: A-2984.1
 Mentions: N-2, N-1
-Related Nodes: N-11053, N-11202
+Related Nodes: N-10971, N-11118
 Supports: C-9750
 Tags: relevance:core
 Investigative Direction: Match the displayed photos to the Mar-a-Lago event and trace custody of the microphone; see C-9750.
@@ -1469,7 +1469,7 @@ Transcript Snippet: And I I think they may have even auctioned that painting. I'
 
 Anchored Artifacts: A-2984.1
 Mentions: N-3
-Related Nodes: N-11202
+Related Nodes: N-11118
 Tags: relevance:context
 Investigative Direction: Identify the painting and any auction listing or results.
 
@@ -1485,7 +1485,7 @@ Transcript Snippet: I remember, old enough to remember, when the tent under whic
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11202
+Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Identify the event where a replica tent was shown and who organized it.
 
@@ -1501,7 +1501,7 @@ Transcript Snippet: a day before Charlie died, when Erika posted her mother look
 
 Anchored Artifacts: A-2985.1
 Mentions: N-2, N-1
-Related Nodes: N-10483
+Related Nodes: N-10449
 Tags: relevance:context
 Investigative Direction: Retrieve the Instagram post, its timestamp and caption.
 
@@ -1517,7 +1517,7 @@ Transcript Snippet: a book tour where Harris Faulkner on Fox News set her up wit
 
 Anchored Artifacts: A-2191.1
 Mentions: N-798, N-2, N-1
-Related Nodes: N-10006, N-10751
+Related Nodes: N-10006, N-10681
 Tags: relevance:core
 Investigative Direction: Obtain the full Fox News segment and any pre-interview arrangements.
 
@@ -1533,7 +1533,7 @@ Transcript Snippet: We will be building the most beautiful memorial for my husba
 
 Anchored Artifacts: A-2191.1
 Mentions: N-2, N-1
-Related Nodes: N-10000, N-10751
+Related Nodes: N-10000, N-10681
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's memorial plans, budget and timeline.
 
@@ -1549,7 +1549,7 @@ Transcript Snippet: where I don't have to be worried about some secular revoluti
 
 Anchored Artifacts: A-2191.1
 Mentions: N-2, N-1
-Related Nodes: N-10751
+Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Check whether any threat or vandalism report involves the grave or burial site.
 
@@ -1565,7 +1565,7 @@ Transcript Snippet: Charlie specifically told me that he never wanted to be crem
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10751
+Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Find any corroboration of Charlie's stated burial wishes, such as family statements or estate documents.
 
@@ -1581,7 +1581,7 @@ Transcript Snippet: And Brian Harpole was very clear in my lawsuit, he he lies i
 
 Anchored Artifacts: 
 Mentions: N-266, N-3
-Related Nodes: N-10692
+Related Nodes: N-10630
 Supports: C-10102
 Tags: relevance:core
 Investigative Direction: Pull Harpole's court filing and compare its 911 statement with Utah dispatch and carrier records.
@@ -1598,7 +1598,7 @@ Transcript Snippet: It seems everyone's making all of these uh gamma requests, i
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10729
+Related Nodes: N-10663
 Supports: C-10902
 Tags: relevance:core
 Investigative Direction: Repeat a GRAMA request for all 911 and CAD records for the 12:20-12:45 window and identify the independent reviewers.
@@ -1615,7 +1615,7 @@ Transcript Snippet: No one wants to take credit for dialing out to emergency ser
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10729
+Related Nodes: N-10663
 Supports: C-10897
 Tags: relevance:core
 Investigative Direction: Obtain phone records of the vehicle occupants for the transport window.
@@ -1632,7 +1632,7 @@ Transcript Snippet: Frank maybe is or is not doing CPR while no one's looking. U
 
 Anchored Artifacts: 
 Mentions: N-7, N-190, N-3
-Related Nodes: N-10692
+Related Nodes: N-10630
 Tags: relevance:core
 Investigative Direction: Compare each occupant's account with call detail records and the vice president's office log.
 
@@ -1648,7 +1648,7 @@ Transcript Snippet: I don't know what's happened since the preliminary hearing, 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:context
 Investigative Direction: Track which new sources appear in later episodes.
 
@@ -1664,7 +1664,7 @@ Transcript Snippet: It's running for approximately 5 minutes without the caller 
 
 Anchored Artifacts: A-2197.1
 Mentions: N-3
-Related Nodes: N-10750
+Related Nodes: N-10680
 Supports: C-11395
 Tags: relevance:core
 Investigative Direction: Obtain the 911 audio and carrier call-detail record for call duration and number of the calling handset.
@@ -1681,7 +1681,7 @@ Transcript Snippet: followed by chaos followed by a voice saying, "Get out of th
 
 Anchored Artifacts: A-2197.1
 Mentions: N-3
-Related Nodes: N-10750
+Related Nodes: N-10680
 Supports: C-11395
 Tags: relevance:core
 Investigative Direction: Review the audio for road noise and compare with the SUV's reported speed on the route to Timpanogos Regional Hospital.
@@ -1698,7 +1698,7 @@ Transcript Snippet: Charlie didn't have much on him. He had a necklace which had
 
 Anchored Artifacts: A-2197.1
 Mentions: N-1, N-3
-Related Nodes: N-10537, N-10705, N-10750
+Related Nodes: N-10492, N-10641, N-10680
 Tags: relevance:context
 Investigative Direction: Reconcile with hospital property inventory and clothing chain-of-custody records.
 
@@ -1714,7 +1714,7 @@ Transcript Snippet: That doesn't really make sense because Brian's pretty clear 
 
 Anchored Artifacts: A-2197.1
 Mentions: N-266, N-1
-Related Nodes: N-10750
+Related Nodes: N-10680
 Tags: relevance:context
 Investigative Direction: Clarify which packaging the host means (the transcript says "36 ft of packaging") and compare with Harpole's statements.
 
@@ -1730,7 +1730,7 @@ Transcript Snippet: it might go some way in terms of explaining why this 911 cal
 
 Anchored Artifacts: A-2197.1
 Mentions: N-3
-Related Nodes: N-10729, N-10750
+Related Nodes: N-10663, N-10680
 Supports: C-10233
 Tags: relevance:core
 Investigative Direction: Ask Utah County dispatch for the retention log of all calls in the time window, including any deletions or non-released audio.
@@ -1747,7 +1747,7 @@ Transcript Snippet: yet they're reluctant to share who specifically dialed 911. 
 
 Anchored Artifacts: 
 Mentions: N-266, N-487, N-492, N-3
-Related Nodes: N-10729
+Related Nodes: N-10663
 Supports: C-10102
 Tags: relevance:core
 Investigative Direction: Compare each occupant's phone call logs and sworn statements about who dialed.
@@ -1764,7 +1764,7 @@ Transcript Snippet: I think we are going to be able to firmly confirm who we is,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10729
+Related Nodes: N-10663
 Tags: relevance:core
 Investigative Direction: Check subsequent episodes for the identification and its sourcing.
 
@@ -1780,7 +1780,7 @@ Transcript Snippet: We are about to go to Pursuit Church in Washington state. I'
 
 Anchored Artifacts: A-2192.1
 Mentions: N-526, N-2, N-3
-Related Nodes: N-11203
+Related Nodes: N-11119
 Tags: relevance:context
 Investigative Direction: Confirm the church, sermon date and pastor's full name and denomination.
 
@@ -1796,7 +1796,7 @@ Transcript Snippet: Beware of talking head personalities who pedal conspiracy th
 
 Anchored Artifacts: A-2192.1
 Mentions: N-526
-Related Nodes: N-10139
+Related Nodes: N-10134
 Tags: relevance:context
 Investigative Direction: Obtain the full sermon recording to see whether any person is named.
 
@@ -1812,7 +1812,7 @@ Transcript Snippet: Beware of modern-day Ahabs and Jezebels who sit behind micro
 
 Anchored Artifacts: A-2192.2
 Mentions: N-526
-Related Nodes: N-10139
+Related Nodes: N-10134
 Tags: relevance:context
 Investigative Direction: Obtain the full sermon recording and any coordinated messaging with other TPUSA Faith pastors.
 
@@ -1843,7 +1843,7 @@ Transcript Snippet: Of course, it's a Turning Point Faith event. I'm sorry, guys
 
 Anchored Artifacts: A-2192.1
 Mentions: N-526
-Related Nodes: N-10398
+Related Nodes: N-10371
 Tags: relevance:context
 Investigative Direction: Check the event listing and organizer for the Make Heaven Crowded tour stop.
 
@@ -1859,7 +1859,7 @@ Transcript Snippet: Anyway, Erika spoke at this event because this is the Make K
 
 Anchored Artifacts: A-2193.1
 Mentions: N-2
-Related Nodes: N-11203
+Related Nodes: N-11119
 Tags: relevance:context
 Investigative Direction: Obtain the tour schedule and the event recording.
 
@@ -1875,7 +1875,7 @@ Transcript Snippet: I was very happy to see Stanley Kubrick's daughter Vivian Ku
 
 Anchored Artifacts: 
 Mentions: N-819, N-3
-Related Nodes: N-11203
+Related Nodes: N-11119
 Tags: relevance:tangential
 Investigative Direction: Retrieve Vivian Kubrick's X post.
 
@@ -1891,7 +1891,7 @@ Transcript Snippet: And she's reading off of an iPad. She's not just riffing.
 
 Anchored Artifacts: A-2193.1
 Mentions: N-2
-Related Nodes: N-11203
+Related Nodes: N-11119
 Tags: relevance:context
 Investigative Direction: Review the full video of the speech for a visible device or teleprompter.
 
@@ -1922,7 +1922,7 @@ Transcript Snippet: I said I received a tip from someone in Andrew's inner circl
 
 Anchored Artifacts: A-2986.1
 Mentions: N-14, N-493, N-494, N-3
-Related Nodes: N-10752, N-10075
+Related Nodes: N-10682, N-10072
 Tags: relevance:core
 Investigative Direction: White House visitor logs and the host's tweet timestamp; identify the tipster.
 
@@ -1938,7 +1938,7 @@ Transcript Snippet: Bibi Netanyahu is also slated to land into Washington, D. C.
 
 Anchored Artifacts: A-2986.1
 Mentions: N-36, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Tags: relevance:context
 Investigative Direction: Confirm Netanyahu's arrival date and schedule from official itineraries.
 
@@ -1954,7 +1954,7 @@ Transcript Snippet: Candace claimed I was in D. C. on January 29th meeting with 
 
 Anchored Artifacts: A-2194.1
 Mentions: N-14, N-69, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Contradicts: C-10109
 Tags: relevance:core
 Investigative Direction: Compare the Kirk Show recording metadata and Kolvet's travel records for January 29 with the earlier claim in C-10109.
@@ -1971,7 +1971,7 @@ Transcript Snippet: it was very obvious to me that he's being particular by sayi
 
 Anchored Artifacts: A-2194.1
 Mentions: N-14, N-36, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Tags: relevance:context
 Investigative Direction: Obtain Netanyahu's meeting schedule and any TPUSA White House appointment for the week.
 
@@ -1987,7 +1987,7 @@ Transcript Snippet: Thanks for the quick response. Not typical with you guys. Ju
 
 Anchored Artifacts: A-2986.1
 Mentions: N-14, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Tags: relevance:core
 Investigative Direction: Save the host's reply thread with timestamps and any later response from Kolvet.
 
@@ -2003,7 +2003,7 @@ Transcript Snippet: Crickets. It's been 2 and 1/2 hours. I think he was really f
 
 Anchored Artifacts: A-2986.1
 Mentions: N-14, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Tags: relevance:context
 Investigative Direction: Check the X thread for Kolvet's later reply times.
 
@@ -2019,7 +2019,7 @@ Transcript Snippet: to be able to give photos of the SUV after uh Charlie was ta
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10740, N-10369
+Related Nodes: N-10672, N-10344
 Tags: relevance:core
 Investigative Direction: Locate the earlier episode where the SUV photos were shown and verify their provenance.
 
@@ -2035,7 +2035,7 @@ Transcript Snippet: It's in your orbit. It's pretty solid. And I may be able to 
 
 Anchored Artifacts: A-2986.1
 Mentions: N-14, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Tags: relevance:core
 Investigative Direction: Check the next episode for any receipt on the White House meeting.
 
@@ -2051,7 +2051,7 @@ Transcript Snippet: meeting schedule at the White House you and and Marina Minas
 
 Anchored Artifacts: A-2986.1
 Mentions: N-14, N-493, N-494, N-3
-Related Nodes: N-10752, N-10075
+Related Nodes: N-10682, N-10072
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor and appointment logs for the named TPUSA executives for the week.
 
@@ -2067,7 +2067,7 @@ Transcript Snippet: it's particular that this he's coming under the guise of Lin
 
 Anchored Artifacts: 
 Mentions: N-36, N-452, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Tags: relevance:context
 Investigative Direction: Check official announcements of the funeral and Netanyahu's stated reason for travel.
 
@@ -2083,7 +2083,7 @@ Transcript Snippet: Bibi Netanyahu is saying that he is flying in for the same r
 
 Anchored Artifacts: 
 Mentions: N-36, N-709, N-5, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Tags: relevance:tangential
 Investigative Direction: Check each leader's announced purpose and meetings.
 
@@ -2099,7 +2099,7 @@ Transcript Snippet: we know Andrew Kobach is on record. He does not like Lindsey
 
 Anchored Artifacts: 
 Mentions: N-14, N-452, N-3
-Related Nodes: N-10752
+Related Nodes: N-10682
 Tags: relevance:context
 Investigative Direction: Find Kolvet's on-record remarks about Lindsey Graham.
 
@@ -2163,7 +2163,7 @@ Transcript Snippet: She is referring to Twitch's wife. I got so many emails abou
 
 Anchored Artifacts: A-2196.2
 Mentions: N-3
-Related Nodes: N-11204
+Related Nodes: N-11120
 Supports: C-11341
 Tags: relevance:context
 Investigative Direction: See C-11341 and the CBS interview for the family's NDA account; verify with the family.
@@ -2180,7 +2180,7 @@ Transcript Snippet: I do want to say this investigation would not have been poss
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10094
+Related Nodes: N-10090
 Tags: relevance:context
 Investigative Direction: Source identities are not given; cannot be checked externally.
 
@@ -2196,7 +2196,7 @@ Transcript Snippet: You know, we had that Kouri Richins girl who killed her husb
 
 Anchored Artifacts: 
 Mentions: N-635, N-3
-Related Nodes: N-10944
+Related Nodes: N-10865
 Tags: relevance:tangential
 Investigative Direction: Consult the court record in the Kouri Richins case for the current legal status.
 
@@ -2212,7 +2212,7 @@ Transcript Snippet: he's obviously works for every pro-Israel Christians United 
 
 Anchored Artifacts: A-2192.2
 Mentions: N-526, N-2
-Related Nodes: N-11205
+Related Nodes: N-11121
 Tags: relevance:context
 Investigative Direction: Check CUFI staff and affiliate listings for Pastor Russell and Pursuit Church.
 
@@ -2295,7 +2295,7 @@ Transcript Snippet: this whole narrative, which has still not been proven that T
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10021, N-10022, N-11149
+Related Nodes: N-10021, N-10022, N-11065
 Tags: relevance:core
 Investigative Direction: Review the preliminary-hearing record and exhibit list for any confession or turn-in evidence.
 
@@ -2311,7 +2311,7 @@ Transcript Snippet: he had several he had actually like three different rings th
 
 Anchored Artifacts: A-2196.5
 Mentions: N-1, N-3
-Related Nodes: N-11206
+Related Nodes: N-11122
 Tags: relevance:core
 Investigative Direction: Identify the three rings from family photos and the one in the footage.
 
@@ -2327,7 +2327,7 @@ Transcript Snippet: Which is odd probably because they paved over the scene in a
 
 Anchored Artifacts: A-2196.5
 Mentions: N-1, N-3
-Related Nodes: N-11206, N-10012
+Related Nodes: N-11122, N-10012
 Supports: C-609
 Tags: relevance:context
 Investigative Direction: Obtain the UVU repaving records and any property inventory listing the ring.
@@ -2631,8 +2631,8 @@ Confidence: high
 - **Artifact verbally referenced but not shown – Text messages between Candace and Charlie:** The messages themselves are referenced as having been shared publicly and as the subject of A-2189.1 and A-2189.2, but the underlying text content is not displayed in this episode.
 - **Transcript ambiguity – A-2192.1 / A-2192.2:** Pastor Russell is described in the host's surrounding commentary as "Erika's favorite pastor" with an affiliation implied to Turning Point Faith; this affiliation is not stated in the artifact itself.
 - **Possible transcription error – A-2196.3:** Comment "Andrew Kolvet" likely refers to Andrew Kolvet; transcription preserved verbatim with flag for reconciliation.
-- **Requires human verification – N-10750:** 911 call content, identity of caller, and alleged purge from released records all require official records-request confirmation.
-- **Requires human verification – N-10752:** TPUSA White House visit claim relies on host's uncorroborated source versus Kolvet's denial; visitor logs would be dispositive if obtainable.
+- **Requires human verification – N-10680:** 911 call content, identity of caller, and alleged purge from released records all require official records-request confirmation.
+- **Requires human verification – N-10682:** TPUSA White House visit claim relies on host's uncorroborated source versus Kolvet's denial; visitor logs would be dispositive if obtainable.
 
 ---
 
@@ -2644,8 +2644,8 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] Each top-level artifact ID represents one evidentiary family
-- [x] People nodes use the global people ledger (new IDs N-10141+ for new entities)
-- [x] Non-person investigation targets use the 1000 series starting at N-10749
+- [x] People nodes use the global people ledger (new IDs N-10136+ for new entities)
+- [x] Non-person investigation targets use the 1000 series starting at N-10679
 - [x] Speculative or rhetorical assertions inscribed as claims only where flagged
 - [x] Names preserved exactly or uncertainty noted
 - [x] Formatting consistent across registers

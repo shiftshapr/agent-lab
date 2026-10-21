@@ -30,7 +30,7 @@
             "C-9045"
           ],
           "related_nodes": [
-            "N-10667"
+            "N-10607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,8 +56,8 @@
             "C-9044"
           ],
           "related_nodes": [
-            "N-10141",
-            "N-10667"
+            "N-10136",
+            "N-10607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -84,7 +84,7 @@
           ],
           "related_nodes": [
             "N-41",
-            "N-10667"
+            "N-10607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -110,8 +110,8 @@
             "C-9047"
           ],
           "related_nodes": [
-            "N-10141",
-            "N-10667"
+            "N-10136",
+            "N-10607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,7 +160,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-9063"
           ],
           "related_nodes": [
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -212,7 +212,7 @@
             "C-9057"
           ],
           "related_nodes": [
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -230,7 +230,7 @@
             "C-9058"
           ],
           "related_nodes": [
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,7 +258,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -329,7 +329,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10665"
+            "N-10465"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,7 +348,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10665"
+            "N-10465"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -367,7 +367,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10665"
+            "N-10465"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -393,7 +393,7 @@
             "C-9075"
           ],
           "related_nodes": [
-            "N-10665"
+            "N-10465"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -419,7 +419,7 @@
             "C-9082"
           ],
           "related_nodes": [
-            "N-10666"
+            "N-10512"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -437,7 +437,7 @@
             "C-9087"
           ],
           "related_nodes": [
-            "N-10666"
+            "N-10512"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -463,7 +463,7 @@
             "C-9089"
           ],
           "related_nodes": [
-            "N-10666"
+            "N-10512"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -491,7 +491,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10373"
+            "N-10347"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -510,7 +510,7 @@
             "C-9136"
           ],
           "related_nodes": [
-            "N-10373"
+            "N-10347"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -529,7 +529,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10373"
+            "N-10347"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -555,8 +555,8 @@
             "C-9048"
           ],
           "related_nodes": [
-            "N-10667",
-            "N-10897",
+            "N-10607",
+            "N-10818",
             "N-159"
           ],
           "tags": [],
@@ -583,8 +583,8 @@
             "C-9071"
           ],
           "related_nodes": [
-            "N-10665",
-            "N-11248",
+            "N-10465",
+            "N-11164",
             "N-2"
           ],
           "tags": [],
@@ -610,7 +610,7 @@
             "C-9096"
           ],
           "related_nodes": [
-            "N-10963"
+            "N-10884"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -662,7 +662,7 @@
             "C-9142"
           ],
           "related_nodes": [
-            "N-10367",
+            "N-10342",
             "N-361"
           ],
           "tags": [],
@@ -690,8 +690,8 @@
             "C-9146"
           ],
           "related_nodes": [
-            "N-10373",
-            "N-10862",
+            "N-10347",
+            "N-10783",
             "N-224",
             "N-266",
             "N-3"
@@ -719,7 +719,7 @@
             "C-9151"
           ],
           "related_nodes": [
-            "N-10649",
+            "N-11295",
             "N-3"
           ],
           "tags": [],
@@ -733,11 +733,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: whether the released TPUSA audio of Charlie Kirk nominating Erika as CEO is authentic, AI-generated, or fabricated. Supported by donor testimony, AI-voice source, and Blake Neff's prior AI concern.",
       "related_artifacts": [
         "A-2066.1",
@@ -763,14 +763,15 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10665",
-      "ref": "N-10665",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10465",
+      "ref": "N-10465",
       "name": "Erika Kirk Educational Credentials Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: reconciliation of Erika Kirk's LinkedIn degree claims (ASU magna/summa laude, double degree in political science & international relations, Liberty University Ed.D.) with public records showing no honors, no double degree, and ASU not offering the international relations degree in 2012.",
       "related_artifacts": [
         "A-2071.1",
@@ -791,14 +792,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10666",
-      "ref": "N-10666",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10512",
+      "ref": "N-10512",
       "name": "Nick Shirley Background and Backing Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: verification of Nick Shirley's claimed journalism credentials, plausibility of his Brazilian favela infiltration story, and identification of who is backing him in the media ecosystem.",
       "related_artifacts": [
         "A-2073.1",
@@ -814,14 +816,15 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10667",
-      "ref": "N-10667",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10607",
+      "ref": "N-10607",
       "name": "Project Constitution / TPUSA Divorce Rumor Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: whether the Project Constitution divorce rumor regarding Andrew Kolvet had a factual basis, and the proportionality of TPUSA's response.",
       "related_artifacts": [
         "A-2062.1",
@@ -842,7 +845,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-41"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10818"
     },
     {
       "@type": "Person",
@@ -960,11 +965,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: whether Brian Harpole was present at Fort Huachuca on the date alleged by Mitch, given the disputed alibi photo, the flight records that do not cover the alleged sighting window, and Paramount Tactical's admission the alibi photo is not of Erika's son.",
       "related_artifacts": [
         "A-2075.1",
@@ -985,7 +990,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
       "@type": "Person",
@@ -1540,11 +1547,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; withholds the video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1556,14 +1563,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10059",
-      "ref": "N-10059",
+      "@type": "Thing",
+      "@id": "N-10056",
+      "ref": "N-10056",
       "name": "PBD Podcast",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "PBD Podcast; platform for the Shirley interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1573,14 +1582,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10349",
-      "ref": "N-10349",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10327",
+      "ref": "N-10327",
       "name": "Bari Weiss CBS Interview Question Selection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Bari Weiss question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1591,14 +1601,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Mitch eyewitness encounter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1616,14 +1627,16 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Erika's Fort Huachuca ties.",
       "related_artifacts": [],
       "related_claims": [
@@ -1633,14 +1646,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10538",
-      "ref": "N-10538",
+      "@type": "Event",
+      "@id": "N-10493",
+      "ref": "N-10493",
       "name": "Turning Point Action / Thomas Massie Disavowal Incident",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the Massie disavowal.",
       "related_artifacts": [],
       "related_claims": [
@@ -1650,14 +1665,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10609",
-      "ref": "N-10609",
+      "@type": "Topic",
+      "@id": "N-10556",
+      "ref": "N-10556",
       "name": "Marcus Wada Arms Trafficking and Biography Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Wada's background.",
       "related_artifacts": [],
       "related_claims": [
@@ -1667,14 +1684,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10649",
-      "ref": "N-10649",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11295",
+      "ref": "N-11295",
       "name": "Candace-Erika December 15 Private Meeting Revelations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the December 15 meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1688,14 +1706,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Harpole's statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1709,14 +1728,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10897",
-      "ref": "N-10897",
+      "@type": "Organization",
+      "@id": "N-10818",
+      "ref": "N-10818",
       "name": "Project Constitution",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Project Constitution; the X account Neff replied to.",
       "related_artifacts": [],
       "related_claims": [
@@ -1726,14 +1747,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@type": "Organization",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Paramount Tactical; livestream account that read the alibi.",
       "related_artifacts": [],
       "related_claims": [
@@ -1751,14 +1774,16 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10936",
-      "ref": "N-10936",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10857",
+      "ref": "N-10857",
       "name": "Aspen CEO-Appointment Video Non-Release",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for non-release of the video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1770,14 +1795,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10606"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10963",
-      "ref": "N-10963",
+      "@type": "Place",
+      "@id": "N-10884",
+      "ref": "N-10884",
       "name": "Cuba",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Cuba; subject of Shirley's trip and the headline.",
       "related_artifacts": [],
       "related_claims": [
@@ -1789,14 +1816,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11001",
-      "ref": "N-11001",
+      "@type": "Organization",
+      "@id": "N-10921",
+      "ref": "N-10921",
       "name": "Valhalla VFT",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Valhalla VFT; account the host says threatened her.",
       "related_artifacts": [],
       "related_claims": [
@@ -1810,14 +1839,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q17558136"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11104",
-      "ref": "N-11104",
+      "@type": "Organization",
+      "@id": "N-11022",
+      "ref": "N-11022",
       "name": "Liberty University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Liberty University; Erika's master's.",
       "related_artifacts": [],
       "related_claims": [
@@ -1827,14 +1858,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11109",
-      "ref": "N-11109",
+      "@type": "Topic",
+      "@id": "N-11027",
+      "ref": "N-11027",
       "name": "Andrew Kolvet Rogue-Actor Explanation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the rogue explanation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1844,14 +1877,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11182",
-      "ref": "N-11182",
+      "@type": "Organization",
+      "@id": "N-11098",
+      "ref": "N-11098",
       "name": "TPUSA Crisis PR Team",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "TPUSA Crisis PR Team; the PR firm Erika mentioned.",
       "related_artifacts": [],
       "related_claims": [
@@ -1862,14 +1896,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11248",
-      "ref": "N-11248",
+      "@type": "Organization",
+      "@id": "N-11164",
+      "ref": "N-11164",
       "name": "Arizona State University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Arizona State University; Erika's claimed degree.",
       "related_artifacts": [],
       "related_claims": [
@@ -1880,14 +1917,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11255",
-      "ref": "N-11255",
+      "@type": "Organization",
+      "@id": "N-11171",
+      "ref": "N-11171",
       "name": "Hillsdale College",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Hillsdale College; commencement and honorary doctorate.",
       "related_artifacts": [],
       "related_claims": [
@@ -1899,14 +1938,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q189004"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11287",
-      "ref": "N-11287",
+      "@type": "Topic",
+      "@id": "N-11203",
+      "ref": "N-11203",
       "name": "Tim Pool Dispute With Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Tim Pool dispute.",
       "related_artifacts": [],
       "related_claims": [
@@ -1916,14 +1957,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11312",
-      "ref": "N-11312",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11228",
+      "ref": "N-11228",
       "name": "Kolvet PR Role for Erika Kirk August 2025 Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Kolvet PR role.",
       "related_artifacts": [],
       "related_claims": [
@@ -1933,12 +1975,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11356",
-      "ref": "N-11356",
+      "@id": "N-11272",
+      "ref": "N-11272",
       "name": "Druski Skit Mocking Erika Kirk Controversy",
       "type": "topic",
       "description": "The dispute over a Druski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.",
@@ -1953,7 +1996,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -1967,7 +2011,7 @@
         "A-2063.1"
       ],
       "related_nodes": [
-        "N-10667"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
@@ -1986,7 +2030,7 @@
         "A-2062.1"
       ],
       "related_nodes": [
-        "N-10667"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
@@ -2005,7 +2049,7 @@
         "A-2064.1"
       ],
       "related_nodes": [
-        "N-10667"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
@@ -2024,7 +2068,7 @@
         "A-2065.1"
       ],
       "related_nodes": [
-        "N-10667"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
@@ -2046,7 +2090,7 @@
         "A-2069.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12",
@@ -2066,7 +2110,7 @@
         "A-2066.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:05:53",
@@ -2085,7 +2129,7 @@
         "A-2068.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
@@ -2104,7 +2148,7 @@
         "A-2068.2"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
@@ -2123,7 +2167,7 @@
         "A-2069.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -2142,7 +2186,7 @@
         "A-2067.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -2196,7 +2240,7 @@
         "A-2071.1"
       ],
       "related_nodes": [
-        "N-10665"
+        "N-10465"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -2215,7 +2259,7 @@
         "A-2071.2"
       ],
       "related_nodes": [
-        "N-10665"
+        "N-10465"
       ],
       "tags": [],
       "claim_timestamp": "00:18:10",
@@ -2234,7 +2278,7 @@
         "A-2072.1"
       ],
       "related_nodes": [
-        "N-10665"
+        "N-10465"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
@@ -2254,7 +2298,7 @@
         "A-2071.3"
       ],
       "related_nodes": [
-        "N-10665"
+        "N-10465"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
@@ -2273,7 +2317,7 @@
         "A-2073.1"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [],
       "claim_timestamp": "00:26:59",
@@ -2292,7 +2336,7 @@
         "A-2073.2"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [],
       "claim_timestamp": "00:28:51",
@@ -2313,7 +2357,7 @@
         "A-2074.1"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [],
       "claim_timestamp": "00:30:15",
@@ -2334,7 +2378,7 @@
         "A-2075.1"
       ],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:49:33",
@@ -2355,7 +2399,7 @@
         "A-2075.2"
       ],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
@@ -2375,7 +2419,7 @@
         "A-2075.3"
       ],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
@@ -2395,7 +2439,7 @@
         "A-2075.3"
       ],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
@@ -2415,7 +2459,7 @@
         "A-2075.1"
       ],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:45:18",
@@ -2434,7 +2478,7 @@
       "claim": "The host says Erika Kirk had said she wanted to go home and the audience endured a lecture about her needing to be home with her family, yet she then went to Michigan to give the Hillsdale College commencement speech.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11255"
+        "N-11171"
       ],
       "tags": [
         "relevance:context"
@@ -2478,8 +2522,8 @@
         "A-3236.1"
       ],
       "related_nodes": [
-        "N-10897",
-        "N-10667"
+        "N-10818",
+        "N-10607"
       ],
       "tags": [
         "relevance:tangential"
@@ -2499,7 +2543,7 @@
       "claim": "The host says she has never heard that Andrew Kolvet is divorcing his wife and that rumors like this surface about public figures about once a week.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10667"
+        "N-10607"
       ],
       "tags": [
         "relevance:tangential"
@@ -2520,8 +2564,8 @@
       "claim": "The host says Turning Point USA is refusing to release video of the moment in which Charlie Kirk says he appoints his wife, and has not authoritatively responded that the donors are lying.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10936",
-        "N-10664",
+        "N-10857",
+        "N-10606",
         "N-10000"
       ],
       "tags": [
@@ -2542,8 +2586,8 @@
       "claim": "The host says Blake Neff specifically expressed concern that if TPUSA released the video people would say it is AI.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10936",
-        "N-10664"
+        "N-10857",
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -2564,7 +2608,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -2584,7 +2628,7 @@
       "claim": "The host says Erika Kirk told Megyn Kelly an emotional story about what it felt like to watch the video of Charlie choosing her for the first time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -2605,7 +2649,7 @@
       "claim": "The host says that Charlie choosing his wife violates every public statement he had made about women working and is a complete reversal of his prior positions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -2626,7 +2670,7 @@
       "claim": "The host describes Marcus Wada as a Turning Point employee who is a former arms dealer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10609"
+        "N-10556"
       ],
       "tags": [
         "relevance:context"
@@ -2686,7 +2730,7 @@
       "claim": "Describing a hypothetical in which the audio was AI, the host recounts that at AmFest Charlie's recorded voice passed the company to Erika while she wore a glittering pantsuit with fireworks behind her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -2707,7 +2751,7 @@
       "claim": "The host says viewers can decide whether to believe Blake Neff's subway killer scenario as the reason Turning Point USA will not release the video.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10936"
+        "N-10857"
       ],
       "tags": [
         "relevance:core"
@@ -2729,7 +2773,7 @@
         "A-2070.1"
       ],
       "related_nodes": [
-        "N-11255"
+        "N-11171"
       ],
       "tags": [
         "relevance:context"
@@ -2755,7 +2799,7 @@
         "A-3237.1"
       ],
       "related_nodes": [
-        "N-10665"
+        "N-10465"
       ],
       "tags": [
         "relevance:context"
@@ -2777,8 +2821,8 @@
         "A-3237.1"
       ],
       "related_nodes": [
-        "N-10665",
-        "N-11248"
+        "N-10465",
+        "N-11164"
       ],
       "tags": [
         "relevance:context"
@@ -2800,8 +2844,8 @@
         "A-2071.2"
       ],
       "related_nodes": [
-        "N-10665",
-        "N-11248"
+        "N-10465",
+        "N-11164"
       ],
       "tags": [
         "relevance:context"
@@ -2821,7 +2865,7 @@
       "claim": "The host says Erika Kirk's inflated credentials were put in bios and were not a single mistake by an intern.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10665"
+        "N-10465"
       ],
       "tags": [
         "relevance:context"
@@ -2841,8 +2885,8 @@
       "claim": "The host says Erika Kirk did receive a master's degree from Liberty University online.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104",
-        "N-10665"
+        "N-11022",
+        "N-10465"
       ],
       "tags": [
         "relevance:context"
@@ -2862,7 +2906,7 @@
       "claim": "The host says the Bride of Charlie series did not cover that Erika Kirk's whole educational background was made up, because there were too many lies to include.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10665"
+        "N-10465"
       ],
       "tags": [
         "relevance:context"
@@ -2883,7 +2927,7 @@
       "claim": "The host says people online call Nick Shirley fed jacketed, meaning he is being created by the media, and that she stumbled into the beef by accident.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [
         "relevance:tangential"
@@ -2903,7 +2947,7 @@
       "claim": "The host says she covered the person on her September 10 show while working through timelines, made a mistake that she owned, and spoke with him right after the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [
         "relevance:tangential"
@@ -2925,7 +2969,7 @@
       "claim": "The host says Nick Shirley is credited with uncovering massive welfare fraud in the Somali community in Minnesota, including daycare fraud, a story she says she did not follow.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [
         "relevance:tangential"
@@ -2948,8 +2992,8 @@
       "claim": "The host says that after she questioned the video it trended the next day and people she trusts least, including Tim Pool, wrote statements in support of Nick Shirley.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10666",
-        "N-11287"
+        "N-10512",
+        "N-11203"
       ],
       "tags": [
         "relevance:tangential"
@@ -2970,7 +3014,7 @@
       "claim": "The host says Patrick Bet-David hosted a person who said the host had not spoken to Charlie since 2019, and acknowledges that she and Charlie had not spoken.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10059"
+        "N-10056"
       ],
       "tags": [
         "relevance:context"
@@ -3013,7 +3057,7 @@
         "A-2073.2"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [
         "relevance:tangential"
@@ -3034,7 +3078,7 @@
       "claim": "In a clip of her earlier remarks shown on Patrick Bet-David's show, the host says Nick Shirley has presented infiltrating antifa and infiltrating El Salvador at the age of 23, which she suggests implies a contact behind him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [
         "relevance:tangential"
@@ -3077,7 +3121,7 @@
         "A-2073.2"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [
         "relevance:tangential"
@@ -3098,7 +3142,7 @@
       "claim": "The host refers to Nick Shirley as a Mormon kid from Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [
         "relevance:tangential"
@@ -3163,8 +3207,8 @@
       "claim": "The host says Nick Shirley claims he went to Cuba and was almost taken hostage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10963",
-        "N-10666"
+        "N-10884",
+        "N-10512"
       ],
       "tags": [
         "relevance:tangential"
@@ -3186,7 +3230,7 @@
         "A-3238.1"
       ],
       "related_nodes": [
-        "N-10963"
+        "N-10884"
       ],
       "tags": [
         "relevance:tangential"
@@ -3203,7 +3247,7 @@
       "claim": "The host asserts that the CIA is involved in Cuba at this moment.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10963"
+        "N-10884"
       ],
       "tags": [
         "relevance:tangential"
@@ -3220,7 +3264,7 @@
       "claim": "The host says Charlie would have laughed at the Druski skit mocking Erika, but Erika took it deadly seriously.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11356"
+        "N-11272"
       ],
       "tags": [
         "relevance:tangential"
@@ -3242,7 +3286,7 @@
       "claim": "The host says people including Andrew Kolvet tried to turn the Druski skit about Erika into a racial issue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11356"
+        "N-11272"
       ],
       "tags": [
         "relevance:tangential"
@@ -3264,7 +3308,7 @@
       "claim": "The host says Druski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11356"
+        "N-11272"
       ],
       "tags": [
         "relevance:tangential"
@@ -3284,7 +3328,7 @@
       "claim": "The host says Druski posted a massive video the previous week that targeted black British actors.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11356"
+        "N-11272"
       ],
       "tags": [
         "relevance:tangential"
@@ -3326,7 +3370,7 @@
       "claim": "The host alleges that Erika Kirk made a whole AI video saying her husband wanted her to lead, which she says everyone knows spiritually is untrue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -3350,7 +3394,7 @@
       "claim": "The host says Charlie did not change his mind about women two weeks before he died and that there are hours of footage of him saying women should stay home.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -3391,7 +3435,7 @@
       "claim": "The host says she is thinking of putting the whole record online, as Bryan Freedman did in the Lively and Baldoni dispute, because she has nothing to hide.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:context"
@@ -3414,7 +3458,7 @@
       "claim": "The host says Mitch's friend emailed her, she called him, and he told his story.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3435,7 +3479,7 @@
       "claim": "The host says Mitch was clear that he saw both Brian Harpole and Erika, and that he saw Erika on the 8th and she was not leaving a meeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3461,7 +3505,7 @@
       "claim": "The host says Mitch saw Brian Harpole on the 9th as he was leaving the meeting on the Fort Huachuca base, which was when the cops were called.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3485,7 +3529,7 @@
       "claim": "The host says Mitch saw Erika at a hotel, that sighting was not related to the meeting, and he did not see her with Brian Harpole.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3507,7 +3551,7 @@
       "claim": "The host says she knew Erika Kirk's mother and stepfather have contracts with the government, giving many other reasons Erika could have been at the Fort Huachuca airbase.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:context"
@@ -3530,7 +3574,7 @@
       "claim": "The host says that when she first presented the story she told Mitch's background and said only that he saw Brian Harpole on the 9th, removing Erika from it entirely.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3552,7 +3596,7 @@
       "claim": "The host says that the day after her first presentation, Erika went on Harris Faulkner's Fox show and for the first time was fired up, telling people to stop conspiracy theories.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3577,7 +3621,7 @@
       "claim": "The host says that the day after the Faulkner interview Erika did Bari Weiss and they cut the clip of her saying, \"What do you have to say to the podcaster Candace Owens?\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10349"
+        "N-10327"
       ],
       "tags": [
         "relevance:core"
@@ -3599,7 +3643,7 @@
       "claim": "The host says she later found out that Erika's side had planned the question-and-answer segment about her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10349"
+        "N-10327"
       ],
       "tags": [
         "relevance:core"
@@ -3640,8 +3684,8 @@
       "claim": "The host says Ian Carroll called her while the Valhalla YouTuber was already threatening her not to interview Mitch, and that she was threatened with a lawsuit before she even interviewed him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11001",
-        "N-10899"
+        "N-10921",
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -3663,8 +3707,8 @@
       "claim": "The host says she was threatened with a lawsuit before she had even interviewed Mitch.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11001",
-        "N-10899"
+        "N-10921",
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -3685,7 +3729,7 @@
       "claim": "The host says she messaged Brian Harpole offering him the chance to debunk Mitch's account before the interview.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3710,7 +3754,7 @@
       "claim": "The host says Brian Harpole did not answer her message.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3734,7 +3778,7 @@
       "claim": "The host says Erika's side scheduled the meeting during the block when she would normally record her show and proposed a ceasefire in which no one would talk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3755,7 +3799,7 @@
       "claim": "The host says that during the ceasefire TPUSA boosted Paramount Tactical to try to debunk her on the show while she was in a hotel for four hours.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -3778,7 +3822,7 @@
       "claim": "The host says Erika told her TPUSA was very upset with Brian Harpole, had a communication breakdown with him and never authorized him to go on the Shawn Ryan show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ],
       "tags": [
         "relevance:core"
@@ -3803,7 +3847,7 @@
       "claim": "The host says Erika had already told her a couple of lies by that point and that she noted them but chose to go easy so Erika would keep talking.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3824,7 +3868,7 @@
       "claim": "The host says Justin Streiff asked when her show goes off air as Christmas approached, and she felt it was an attempt to get her not to interview Mitch.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3846,7 +3890,7 @@
       "claim": "The host says she interviewed Mitch on the 18th because she had messaged Brian Harpole and Erika did not give her an alibi for him, and Mitch said he saw Erika on the 8th.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3867,8 +3911,8 @@
       "claim": "The host says messages from Valhalla explicitly threatened to bury her in everything Mitch has done in his past unless she revoked her Fort Huachuca commentary, saying he was talking to Mitch's ex-wife.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11001",
-        "N-10899"
+        "N-10921",
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -3892,8 +3936,8 @@
       "claim": "The host says Paramount Tactical and Valhalla called Mitch and played good cop, inviting him on as a fellow Green Beret.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-11001"
+        "N-10820",
+        "N-10921"
       ],
       "tags": [
         "relevance:core"
@@ -3916,8 +3960,8 @@
       "claim": "The host says Paramount Tactical and Valhalla told her the opposite of what they told Mitch, that it was a case of stolen valor.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-11001"
+        "N-10820",
+        "N-10921"
       ],
       "tags": [
         "relevance:core"
@@ -3938,7 +3982,7 @@
       "claim": "The host says Paramount Tactical accidentally read Erika's alibi live on his show even though it said please don't share.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -3962,7 +4006,7 @@
       "claim": "The host says she knew the children in the alibi photo were not Erika's and did not share that she knew.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -3983,7 +4027,7 @@
       "claim": "The host says that because Erika and she had just sat down, they could have texted her the alibi, but instead went behind the scenes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -4007,7 +4051,7 @@
       "claim": "The host says Erika Kirk told her TPUSA had hired crisis PR and were moving Andrew Kolvet out of PR.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11182"
+        "N-11098"
       ],
       "tags": [
         "relevance:core"
@@ -4029,8 +4073,8 @@
       "claim": "The host says Erika told her TPUSA was moving Kolvet completely off PR because he had been an unmitigated disaster, though she cannot recall whether Erika said he would be fired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11312",
-        "N-11182"
+        "N-11228",
+        "N-11098"
       ],
       "tags": [
         "relevance:core"
@@ -4055,7 +4099,7 @@
       "claim": "The host says Erika was lying when she said Andrew went rogue, because Kolvet was coordinating the Paramount Tactical and Valhalla response.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11109"
+        "N-11027"
       ],
       "tags": [
         "relevance:core"
@@ -4082,7 +4126,7 @@
         "A-3240.1"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -4107,7 +4151,7 @@
         "A-3240.1"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -4131,7 +4175,7 @@
       "claim": "The host says the reaction she received moved her from 40/60, maybe 30/70, toward believing the Fort Huachuca account.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:context"
@@ -4154,8 +4198,8 @@
         "A-3241.1"
       ],
       "related_nodes": [
-        "N-10862",
-        "N-10373"
+        "N-10783",
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -4177,7 +4221,7 @@
         "A-3241.1"
       ],
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ],
       "tags": [
         "relevance:core"
@@ -4200,7 +4244,7 @@
         "A-3241.1"
       ],
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ],
       "tags": [
         "relevance:core"
@@ -4226,7 +4270,7 @@
       "claim": "The host says she messaged Brian Harpole four times.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -4247,8 +4291,8 @@
       "claim": "The host says Harpole's side has still not provided receipts for his whereabouts on the morning of the 9th.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373",
-        "N-10862"
+        "N-10347",
+        "N-10783"
       ],
       "tags": [
         "relevance:core"
@@ -4268,7 +4312,7 @@
       "claim": "The host says she knew Erika would speak at Hillsdale and many students messaged her that they were upset about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11255"
+        "N-11171"
       ],
       "tags": [
         "relevance:tangential"
@@ -4292,7 +4336,7 @@
       "claim": "Answering a viewer comment, the host says Erika should hate the people who bullied her husband, Charlie, and should not team up with them, but that is not how Erika lives.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10538"
+        "N-10493"
       ],
       "tags": [
         "relevance:context"
@@ -4315,7 +4359,7 @@
         "A-3242.1"
       ],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:context"

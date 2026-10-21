@@ -34,7 +34,7 @@
             "N-1",
             "N-2",
             "N-488",
-            "N-10438"
+            "N-10407"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -61,7 +61,7 @@
           ],
           "related_nodes": [
             "N-490",
-            "N-10438"
+            "N-10407"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -109,8 +109,8 @@
             "N-387",
             "N-490",
             "N-491",
-            "N-10440",
-            "N-10442"
+            "N-10409",
+            "N-10411"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -130,7 +130,7 @@
           "related_nodes": [
             "N-489",
             "N-387",
-            "N-10440"
+            "N-10409"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -158,7 +158,7 @@
           "related_nodes": [
             "N-490",
             "N-491",
-            "N-10442"
+            "N-10411"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -214,7 +214,7 @@
           "related_nodes": [
             "N-14",
             "N-494",
-            "N-10439"
+            "N-10408"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -242,7 +242,7 @@
           "related_nodes": [
             "N-14",
             "N-493",
-            "N-10439"
+            "N-10408"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -262,7 +262,7 @@
           "related_nodes": [
             "N-493",
             "N-494",
-            "N-10439"
+            "N-10408"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -390,7 +390,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-10438"
+        "N-10407"
       ]
     },
     {
@@ -434,8 +434,8 @@
       "related_nodes": [
         "N-387",
         "N-2",
-        "N-10440",
-        "N-10441"
+        "N-10409",
+        "N-10410"
       ]
     },
     {
@@ -459,7 +459,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-489",
-        "N-10440"
+        "N-10409"
       ]
     },
     {
@@ -487,7 +487,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-491",
-        "N-10440"
+        "N-10409"
       ]
     },
     {
@@ -534,7 +534,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ]
     },
     {
@@ -558,7 +558,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ]
     },
     {
@@ -582,15 +582,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10438",
-      "ref": "N-10438",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10407",
+      "ref": "N-10407",
       "name": "Identity of Christian Zionist Donor (Unverified)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: the host states Turning Point USA has not named the sender of A-1669.1.",
       "related_artifacts": [
         "A-1669.1"
@@ -605,14 +605,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10439",
-      "ref": "N-10439",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10408",
+      "ref": "N-10408",
       "name": "TPUSA Termination Cause Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: the actual cause(s) of the TPUSA terminations referenced in A-1674.1, A-1675.1, A-1675.2.",
       "related_artifacts": [
         "A-1674.1",
@@ -636,14 +637,15 @@
         "N-14",
         "N-493",
         "N-494"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10440",
-      "ref": "N-10440",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10409",
+      "ref": "N-10409",
       "name": "Desert Spirit Tek LLC Business Purpose Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: stated business activity of Desert Spirit Tek LLC.",
       "related_artifacts": [
         "A-1671.1",
@@ -662,14 +664,16 @@
         "N-489",
         "N-387",
         "N-490"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10356"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10441",
-      "ref": "N-10441",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10410",
+      "ref": "N-10410",
       "name": "Euro Tech / Cincinnati Business Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: the \"Euro Tech\" company Lori Frantzve formed in Cincinnati, Ohio; host indicates it has not been fully examined yet.",
       "related_artifacts": [],
       "related_claims": [],
@@ -680,14 +684,16 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-489"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10356"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10442",
-      "ref": "N-10442",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10411",
+      "ref": "N-10411",
       "name": "Sacaton \"Rose and Thobi\" Address Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: whether 26 Rose and Thobi (Desert Spirit Tech) and 21 Rose and Thobi (Generation Seven Farms) correspond to actual physical addresses.",
       "related_artifacts": [
         "A-1671.1",
@@ -705,7 +711,9 @@
         "N-489",
         "N-490",
         "N-491"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10409"
     },
     {
       "@type": "Person",
@@ -896,11 +904,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose firings, finances and legal letters the host discusses.",
       "related_artifacts": [],
       "related_claims": [
@@ -923,14 +931,16 @@
       "evidence_count": 0,
       "claim_count": 14,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10007",
       "ref": "N-10007",
       "name": "Republican National Committee (RNC)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host compares TPUSA to.",
       "related_artifacts": [],
       "related_claims": [
@@ -940,14 +950,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Named in Carlson's played question about Epstein.",
       "related_artifacts": [],
       "related_claims": [
@@ -957,14 +969,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -976,14 +990,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place; recurring subject of the donor text and the host's remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -995,14 +1010,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@type": "Topic",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1014,14 +1031,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place named in the host's remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1031,14 +1049,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10197",
-      "ref": "N-10197",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10189",
+      "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Bowyer tweet claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1049,14 +1068,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1067,14 +1087,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the AmFest invitation claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1085,14 +1106,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10320",
-      "ref": "N-10320",
-      "name": "Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_question",
       "description": "Existing topic reused for the September 9 AmFest text claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1102,14 +1124,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10344",
-      "ref": "N-10344",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10322",
+      "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's security remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1119,14 +1142,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@type": "Topic",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the faith-pivot claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1136,14 +1160,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the legal-letter and Bowyer tweet claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1154,14 +1179,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10869",
-      "ref": "N-10869",
+      "@type": "Thing",
+      "@id": "N-10790",
+      "ref": "N-10790",
       "name": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the Mar-a-Lago donor event reference.",
       "related_artifacts": [],
       "related_claims": [
@@ -1171,14 +1197,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10984",
-      "ref": "N-10984",
+      "@type": "Organization",
+      "@id": "N-10904",
+      "ref": "N-10904",
       "name": "U.S. Department of Justice",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host links to Lori Frantzve's 2017 defense work.",
       "related_artifacts": [],
       "related_claims": [
@@ -1188,31 +1215,41 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11035",
-      "ref": "N-11035",
-      "name": "TPUSA Employee Purge and Leak Hunt",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-11002",
+      "ref": "N-11002",
+      "name": "TPUSA Leak Hunt and Employee Firings",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5590"
+        "C-5590",
+        "C-5523",
+        "C-5543",
+        "C-5569",
+        "C-5575",
+        "C-5585",
+        "C-5599"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11080",
-      "ref": "N-11080",
+      "@type": "Event",
+      "@id": "N-10998",
+      "ref": "N-10998",
       "name": "Student Action Summit July 2025 (Tampa)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the SAS and Tampa event claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1223,36 +1260,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11084",
-      "ref": "N-11084",
-      "name": "TPUSA Leak Hunt and Employee Firings",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-5523",
-        "C-5543",
-        "C-5569",
-        "C-5575",
-        "C-5585",
-        "C-5599"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-11097",
-      "ref": "N-11097",
+      "@type": "Topic",
+      "@id": "N-11015",
+      "ref": "N-11015",
       "name": "TPUSA Post-Assassination Fundraising Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the 250 million dollar claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1264,12 +1282,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
-      "@id": "N-11176",
-      "ref": "N-11176",
+      "@id": "N-11092",
+      "ref": "N-11092",
       "name": "Arizona Chinese News",
       "type": "organization",
       "description": "Obscure Phoenix Chinese-language publication used for the 2017 Desert Spirit Tek LLC public notice; the host says it was founded in April 1990.",
@@ -1283,12 +1302,14 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Place",
-      "@id": "N-11177",
-      "ref": "N-11177",
+      "@id": "N-11093",
+      "ref": "N-11093",
       "name": "Sacaton, Arizona",
       "type": "place",
       "description": "Town on a Native American reservation where Desert Spirit Tek LLC was filed in 2017 and where the Reems business is listed.",
@@ -1302,12 +1323,14 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q486972"
     },
     {
       "@type": "Organization",
-      "@id": "N-11178",
-      "ref": "N-11178",
+      "@id": "N-11094",
+      "ref": "N-11094",
       "name": "Tohono O'odham Nation",
       "type": "organization",
       "description": "Native American nation the host says Lyle Reams is ostensibly part of.",
@@ -1319,12 +1342,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11179",
-      "ref": "N-11179",
+      "@id": "N-11095",
+      "ref": "N-11095",
       "name": "Generation Seven Farms",
       "type": "organization",
       "description": "Business owned by Lyle and Shelly Reams, listed at 21 Rose and Thobi, Sacaton, Arizona, per the host.",
@@ -1336,14 +1361,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11180",
-      "ref": "N-11180",
+      "@type": "Thing",
+      "@id": "N-11096",
+      "ref": "N-11096",
       "name": "TPUSA Cease and Desist Letter to Candace Owens",
-      "type": "topic",
+      "type": "thing",
       "description": "The legal letter(s) TPUSA sent the host in January 2026, which she says partly cited her statement that military men infiltrated TPUSA.",
       "related_artifacts": [],
       "related_claims": [
@@ -1355,14 +1382,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "Organization",
-      "@id": "N-11181",
-      "ref": "N-11181",
+      "@type": "Thing",
+      "@id": "N-11097",
+      "ref": "N-11097",
       "name": "Magisterium AI",
-      "type": "organization",
+      "type": "thing",
       "description": "Catholic AI answer engine advertised in a sponsor read.",
       "related_artifacts": [],
       "related_claims": [
@@ -1372,7 +1400,27 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SoftwareApplication"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5572"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1386,7 +1434,7 @@
         "A-1669.1"
       ],
       "related_nodes": [
-        "N-10438"
+        "N-10407"
       ],
       "tags": [],
       "claim_timestamp": "00:07:27",
@@ -1461,8 +1509,8 @@
         "A-1672.1"
       ],
       "related_nodes": [
-        "N-10440",
-        "N-10442"
+        "N-10409",
+        "N-10411"
       ],
       "tags": [],
       "claim_timestamp": "00:13:25",
@@ -1484,7 +1532,7 @@
         "A-1671.2"
       ],
       "related_nodes": [
-        "N-10440"
+        "N-10409"
       ],
       "tags": [],
       "claim_timestamp": "00:16:12",
@@ -1521,7 +1569,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [],
       "claim_timestamp": "00:26:45",
@@ -1541,7 +1589,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [],
       "claim_timestamp": "00:27:24",
@@ -1560,7 +1608,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [],
       "claim_timestamp": "00:28:48",
@@ -1579,7 +1627,7 @@
         "A-1675.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [],
       "claim_timestamp": "00:22:28",
@@ -1599,7 +1647,7 @@
         "A-1675.2"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [],
       "claim_timestamp": "00:32:06",
@@ -1617,7 +1665,7 @@
       "claim": "The host says Arizona is an at-will employment state in which employers can fire employees for any reason, and that doing so is not illegal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11084"
+        "N-11002"
       ],
       "tags": [
         "relevance:context"
@@ -1638,7 +1686,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11097"
+        "N-11015"
       ],
       "tags": [
         "relevance:core"
@@ -1659,8 +1707,8 @@
       "claim": "The host says Charlie Kirk was threatened a lot, financially, and not only by Jewish donors but also by Christian Zionist donors.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047",
-        "N-10209"
+        "N-10044",
+        "N-10201"
       ],
       "tags": [
         "relevance:core"
@@ -1684,7 +1732,7 @@
       "claim": "The host says that in July Charlie Kirk 'stepped out of line' because he hosted Tucker Carlson at TPUSA's SAS event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11080"
+        "N-10998"
       ],
       "tags": [
         "relevance:core"
@@ -1763,8 +1811,8 @@
         "A-2926.1"
       ],
       "related_nodes": [
-        "N-10320",
-        "N-10268"
+        "N-10318",
+        "N-10252"
       ],
       "tags": [
         "relevance:core"
@@ -1788,7 +1836,7 @@
       "claim": "The host says the AmFest invitation 'wasn't allowed to happen' because Tucker Carlson's speech was, in her words, 'disobedient to Israel's aims'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268",
+        "N-10252",
         "N-10026"
       ],
       "tags": [
@@ -1816,7 +1864,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:context"
@@ -1837,7 +1885,7 @@
       "claim": "The host says Turning Point USA has plenty to say about her but will not send legal letters to anyone who is pro-Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11180",
+        "N-11096",
         "N-10000"
       ],
       "tags": [
@@ -1860,7 +1908,7 @@
         "A-1669.1"
       ],
       "related_nodes": [
-        "N-10438"
+        "N-10407"
       ],
       "tags": [
         "relevance:core"
@@ -1885,7 +1933,7 @@
         "A-1669.1"
       ],
       "related_nodes": [
-        "N-10438"
+        "N-10407"
       ],
       "tags": [
         "relevance:core"
@@ -1912,8 +1960,8 @@
         "A-1669.1"
       ],
       "related_nodes": [
-        "N-11080",
-        "N-10438"
+        "N-10998",
+        "N-10407"
       ],
       "tags": [
         "relevance:context"
@@ -1935,7 +1983,7 @@
         "A-1669.1"
       ],
       "related_nodes": [
-        "N-10438"
+        "N-10407"
       ],
       "tags": [
         "relevance:context"
@@ -1957,8 +2005,8 @@
         "A-1669.1"
       ],
       "related_nodes": [
-        "N-10438",
-        "N-10047"
+        "N-10407",
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -1979,7 +2027,7 @@
       "claim": "The host says Israel has 'effectively' turned Gaza into a parking lot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063",
+        "N-10060",
         "N-10026"
       ],
       "tags": [
@@ -2025,7 +2073,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10438"
+        "N-10407"
       ],
       "tags": [
         "relevance:core"
@@ -2046,7 +2094,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11084"
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -2069,7 +2117,7 @@
       "claim": "The host says a tip about Lori Frantzve and Larry Guinta extends the column on her Excel sheet listing adults, across her investigations, who were credibly accused or convicted of sexual contact with minors, in this case through the Reems business partnership rather than directly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10440"
+        "N-10409"
       ],
       "tags": [
         "relevance:context"
@@ -2091,7 +2139,7 @@
       "claim": "The host says Larry Lawrence Guinta is Erika Kirk's stepfather and that he and Lori Frantzve are a repeat business partnership with the couple Shelly and Lyle Reams, meaning they have formed businesses with them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10440"
+        "N-10409"
       ],
       "tags": [
         "relevance:core"
@@ -2115,7 +2163,7 @@
       "claim": "The host says Lyle Reams is ostensibly Native American and part of the Tohono O'odham Nation, and says she may be saying the name wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11178"
+        "N-11094"
       ],
       "tags": [
         "relevance:context"
@@ -2137,7 +2185,7 @@
         "A-1670.1"
       ],
       "related_nodes": [
-        "N-10440"
+        "N-10409"
       ],
       "tags": [
         "relevance:context"
@@ -2159,7 +2207,7 @@
       "claim": "The host says Sacaton, Arizona has a population of 3,254, of whom 40 percent are children and 95 percent Native American.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11177"
+        "N-11093"
       ],
       "tags": [
         "relevance:context"
@@ -2181,8 +2229,8 @@
         "A-1671.1"
       ],
       "related_nodes": [
-        "N-10984",
-        "N-11177"
+        "N-10904",
+        "N-11093"
       ],
       "tags": [
         "relevance:core"
@@ -2205,7 +2253,7 @@
         "A-1671.1"
       ],
       "related_nodes": [
-        "N-10440"
+        "N-10409"
       ],
       "tags": [
         "relevance:context"
@@ -2227,8 +2275,8 @@
         "A-1671.1"
       ],
       "related_nodes": [
-        "N-10442",
-        "N-11177"
+        "N-10411",
+        "N-11093"
       ],
       "tags": [
         "relevance:core"
@@ -2250,8 +2298,8 @@
         "A-1672.1"
       ],
       "related_nodes": [
-        "N-11179",
-        "N-10442"
+        "N-11095",
+        "N-10411"
       ],
       "tags": [
         "relevance:core"
@@ -2279,7 +2327,7 @@
         "A-1671.1"
       ],
       "related_nodes": [
-        "N-10440"
+        "N-10409"
       ],
       "tags": [
         "relevance:context"
@@ -2301,8 +2349,8 @@
         "A-1671.2"
       ],
       "related_nodes": [
-        "N-11176",
-        "N-10440"
+        "N-11092",
+        "N-10409"
       ],
       "tags": [
         "relevance:context"
@@ -2322,7 +2370,7 @@
       "claim": "The host says that, per its website, the Chinese News Agency was founded in Phoenix, Arizona in April 1990 with a mission to create a cultural space for overseas Chinese and serve the Chinese community.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11176"
+        "N-11092"
       ],
       "tags": [
         "relevance:tangential"
@@ -2344,8 +2392,8 @@
         "A-2927.1"
       ],
       "related_nodes": [
-        "N-10440",
-        "N-11176"
+        "N-10409",
+        "N-11092"
       ],
       "tags": [
         "relevance:context"
@@ -2365,7 +2413,7 @@
       "claim": "The host says that when Lori Frantzve formed Euro Tech there was another shady character involved in Cincinnati, Ohio, that this seems to be a common theme and that she will look into it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10441"
+        "N-10410"
       ],
       "tags": [
         "relevance:context"
@@ -2386,7 +2434,7 @@
       "claim": "In a sponsor read, the host says Magisterium AI backs every answer with original sources and clickable citations, draws on exclusive digitized work inside the Pontifical Universities in Rome, and is the number one Catholic answer engine in the world.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11181"
+        "N-11097"
       ],
       "tags": [
         "relevance:tangential"
@@ -2406,8 +2454,8 @@
       "claim": "The host says that the day before she told viewers she had received a legal letter in part for noting that a bunch of military men seem to have infiltrated Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11180",
-        "N-10436",
+        "N-11096",
+        "N-10405",
         "N-10000"
       ],
       "tags": [
@@ -2456,7 +2504,7 @@
         "A-1673.1"
       ],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:context"
@@ -2481,8 +2529,8 @@
         "A-1673.1"
       ],
       "related_nodes": [
-        "N-10436",
-        "N-10197"
+        "N-10405",
+        "N-10189"
       ],
       "tags": [
         "relevance:core"
@@ -2506,8 +2554,8 @@
       "claim": "The host says she still does not understand what caused the firings and cannot get to the root of what happened.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10439",
-        "N-11084"
+        "N-10408",
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -2529,7 +2577,7 @@
         "A-1675.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2555,7 +2603,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:context"
@@ -2576,7 +2624,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10869"
+        "N-10790",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -2597,7 +2646,7 @@
       "claim": "The host says that, according to this employee, Turning Point USA has brought in 250 million dollars since Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11097",
+        "N-11015",
         "N-10000"
       ],
       "tags": [
@@ -2645,8 +2694,8 @@
         "A-1675.1"
       ],
       "related_nodes": [
-        "N-10439",
-        "N-11084"
+        "N-10408",
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -2672,7 +2721,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2697,7 +2746,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:context"
@@ -2719,7 +2768,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:context"
@@ -2741,7 +2790,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2763,7 +2812,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2785,7 +2834,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:context"
@@ -2805,7 +2854,7 @@
       "claim": "The host says that what Turning Point is doing is legal but also immoral, and that firing the employee was not illegal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11084"
+        "N-11002"
       ],
       "tags": [
         "relevance:context"
@@ -2827,7 +2876,7 @@
         "A-1675.1"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2852,7 +2901,7 @@
         "A-1675.2"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2874,7 +2923,7 @@
         "A-1675.2"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2899,8 +2948,8 @@
         "A-1675.2"
       ],
       "related_nodes": [
-        "N-11035",
-        "N-10439"
+        "N-11002",
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2925,7 +2974,7 @@
         "A-1675.2"
       ],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:context"
@@ -2945,7 +2994,7 @@
       "claim": "The host says that after Charlie's assassination she made changes on the security front, told her security team 'this is me, you've done nothing wrong', and that they understood.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [
         "relevance:context"
@@ -3005,8 +3054,8 @@
       "claim": "The host says that Charlie Kirk's TPUSA originally centered on free markets and capitalism, and that it then dramatically changed so that the organization now appears to be pretending to be a faith organization.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
-        "N-10209"
+        "N-10371",
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -3052,7 +3101,7 @@
       "claim": "The host says she thinks the legal letters are really about TPUSA knowing something will rise to take its place, and that one cannot sue one's way into relevancy or public favor.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11180",
+        "N-11096",
         "N-10000"
       ],
       "tags": [
@@ -3073,7 +3122,7 @@
       "claim": "The host says it is a difficult hill to climb for TPUSA to say it is being hurt by her videos when it raked in 250 million dollars in a couple of weeks, adding \"Maybe it's not.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11097",
+        "N-11015",
         "N-10000"
       ],
       "tags": [
@@ -3098,7 +3147,7 @@
       "claim": "The host says TPUSA is getting rid of a bunch of people on its payroll and, she guesses, will bring in new people who will be questioned about their allegiance to Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11084",
+        "N-11002",
         "N-10000"
       ],
       "tags": [

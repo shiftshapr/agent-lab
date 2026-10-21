@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 6d12956e2b1ba335a573654b47ea8373fc4b2a908e37366ed670b52d16491c48
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-886, N-11291, N-11292, N-11293
-  - Tip-minted Nodes (reintro-ep077): N-599, N-10954, N-11194
+  - Tip-minted Nodes (supplement_2026-10e): N-886, N-11207, N-11208, N-11209
+  - Tip-minted Nodes (reintro-ep077): N-599, N-10875, N-11110
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6900–C-6969
-  - New Nodes Introduced: N-572, N-574, N-575, N-576, N-577, N-10525, N-10529
-  - Reused Nodes Appearing: N-2, N-11, N-3, N-573, N-10530, N-10526, N-10527, N-10528, N-55, N-97, N-278, N-489, N-520, N-568, N-735, N-10000, N-10395, N-10401, N-10434, N-10501, N-10519, N-10524, N-10532, N-10922, N-10929, N-11104, N-11110, N-11165, N-11166, N-11171, N-11248
+  - New Nodes Introduced: N-572, N-574, N-575, N-576, N-577, N-10482, N-10485
+  - Reused Nodes Appearing: N-11361, N-2, N-11, N-3, N-573, N-10486, N-10462, N-10483, N-10484, N-55, N-97, N-278, N-489, N-520, N-568, N-735, N-10000, N-10368, N-10374, N-10404, N-10478, N-10481, N-10843, N-10850, N-11022, N-11028, N-11081, N-11082, N-11087, N-11164
   - (see registers)
 
 ---
@@ -37,7 +37,7 @@
 
 - Artifact Families Introduced: A-1822, A-1823, A-1824, A-1825, A-1826, A-1827, A-1828, A-1829, A-1830, A-1831, A-1832, A-1833, A-1834
 - New Nodes Introduced (people): N-572, N-573, N-574, N-575, N-576, N-577
-- New Nodes Introduced (investigation targets): N-10525, N-10526, N-10527, N-10528, N-10529, N-10530
+- New Nodes Introduced (investigation targets): N-10482, N-10483, N-10484, N-10485, N-10486
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -92,7 +92,7 @@ Video Timestamp: 00:11:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6922, C-6926, N-2, N-10527*
+*Related: C-6922, C-6926, N-2, N-10483*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:15:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6928, C-6927, N-2, N-10526*
+*Related: C-6928, C-6927, N-2, N-10462*
 
 **A-1825.2** Host on-air tip request asking New York real-estate professionals to confirm Erika's license and sales (verbal reference; no displayed artifact)
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:15:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6929, N-2, N-10526*
+*Related: C-6929, N-2, N-10462*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:20:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6935, N-572, N-10525*
+*Related: C-6935, N-572, N-10482*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:29:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6952, C-6953, N-575, N-577, N-10529*
+*Related: C-6952, C-6953, N-575, N-577, N-10485*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:34:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6955, N-576, N-10529*
+*Related: C-6955, N-576, N-10485*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6962, N-10529, N-11*
+*Related: C-6962, N-10485, N-11*
 
 ---
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:26:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6946, N-10530*
+*Related: C-6946, N-10486*
 
 ---
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:24:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6941, N-10528*
+*Related: C-6941, N-10484*
 
 ---
 
@@ -270,7 +270,7 @@ Video Timestamp: 00:42:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6964, N-2, N-10929*
+*Related: C-6964, N-2, N-10850*
 
 ---
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:05:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6913, N-10532*
+*Related: C-6913, N-10478*
 
 ---
 
@@ -325,7 +325,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1827.1, C-6935, N-10525*
+*Related: A-1827.1, C-6935, N-10482*
 
 ---
 
@@ -364,7 +364,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1829.1, A-1831.1, C-6957, C-6953, N-576, N-10529*
+*Related: A-1829.1, A-1831.1, C-6957, C-6953, N-576, N-10485*
 
 ---
 
@@ -390,11 +390,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1829.1, N-10529*
+*Related: A-1829.1, N-10485*
 
 ---
 
-**N-10525** Antonio Placement Center Investigation
+**N-10482** Antonio Placement Center Investigation
 
 Persistent investigation target: Constanta, Romania institution described by Larissa as "notorious for corruption and illicit activities such as trafficking children"; per email, Erika Kirk's promotional materials 2012–2014 referenced it as a Romanian Angels partner.
 
@@ -407,20 +407,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10526** Erika NY Real Estate License Verification Question
-
-Persistent target: independent verification of NY real estate license #10401322765 (issued 2018-10-24) and of any completed NY real estate transactions.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1825.1, C-6928, C-6927, N-2*
-
----
-
-**N-10527** Erika Real Estate Bio Credential Verification Question
+**N-10483** Erika Real Estate Bio Credential Verification Question
 
 Persistent target: verification of bio claims including magna cum laude graduation, ASU double major in political science and international relations, and Juris Master at Liberty University.
 
@@ -433,7 +420,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10528** Arizona-Romania Pipeline Investigation
+**N-10484** Arizona-Romania Pipeline Investigation
 
 Persistent target: convergence of Tyler Bowyer's 2010 Romania trip, ASU Romanian studies program and honorary Romanian consulate (2010), Romania-to-Arizona charity/placement activity, and Arizona opening first US state trade office in Romania (~July 2025).
 
@@ -446,7 +433,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10529** SB 1439 Charlie Kirk Memorial Plate Fund Routing
+**N-10485** SB 1439 Charlie Kirk Memorial Plate Fund Routing
 
 Persistent target: SB 1439's "conservative grassroots network special plate fund" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) – descriptors matching Turning Point USA per host.
 
@@ -459,7 +446,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10530** TPUSA Super Feed Copyright / Data Routing Question
+**N-10486** TPUSA Super Feed Copyright / Data Routing Question
 
 Persistent target: Super Feed Inc. copyright on the Turning Point USA app per fine print; question of where user data flows.
 
@@ -489,7 +476,7 @@ First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). D
 
 ---
 
-**N-11291** Wilhelmina Models
+**N-11207** Wilhelmina Models
 
 Node Type: Organization
 Model agency the host says was co-founded by Fran Rothchild and where Faith Kates was first vice president of the women's division.
@@ -498,7 +485,7 @@ Model agency the host says was co-founded by Fran Rothchild and where Faith Kate
 
 ---
 
-**N-11292** Upper East Side Model-Housing Building Contact
+**N-11208** Upper East Side Model-Housing Building Contact
 
 Node Type: Topic
 White building near 68th Street between 2nd and 3rd Avenues, which eyewitnesses recall Erika Kirk as the contact for.
@@ -507,9 +494,9 @@ White building near 68th Street between 2nd and 3rd Avenues, which eyewitnesses 
 
 ---
 
-**N-11293** Win Haven Real Estate
+**N-11209** Win Haven Real Estate
 
-Node Type: Topic
+Node Type: Organization
 Real estate company the host says Allan Rothstein chaired.
 
 *Related: C-6918*
@@ -521,6 +508,16 @@ Real estate company the host says Allan Rothstein chaired.
 Widow and TPUSA CEO; the host adds Next Model, real-estate, Romania and plate-money claims.
 
 *Related: C-6900, C-6907, C-6909, C-6910, C-6911, C-6912, C-6914, C-6915, C-6916, C-6917, C-6918, C-6921, C-6923, C-6924, C-6925, C-6930, C-6931, C-6933, C-6934, C-6936, C-6945, C-6960, C-6963, C-6964*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-6956*
 
 ---
 
@@ -612,7 +609,7 @@ Organization at the center of headquarters, real-estate, DOGE and plate-fund cla
 
 ---
 
-**N-10395** Tyler Bowyer 2011 Romania Activities
+**N-10368** Tyler Bowyer 2011 Romania Activities
 
 Existing topic reused for the 2010 Romania trip claim.
 
@@ -620,7 +617,7 @@ Existing topic reused for the 2010 Romania trip claim.
 
 ---
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Existing topic reused for the trafficking-hotbed claim.
 
@@ -628,7 +625,7 @@ Existing topic reused for the trafficking-hotbed claim.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Existing topic reused for the DOGE claim.
 
@@ -636,7 +633,7 @@ Existing topic reused for the DOGE claim.
 
 ---
 
-**N-10501** Erika Kirk Real Estate License Timing Question
+**N-10462** Erika Kirk Real Estate License Timing Question
 
 Existing topic reused for license timing and Next-period claims.
 
@@ -644,7 +641,7 @@ Existing topic reused for license timing and Next-period claims.
 
 ---
 
-**N-10519** Erika Kirk Next Model Management Involvement
+**N-10478** Next Model Management / Erika Kirk Connection
 
 Existing topic reused for new Next claims.
 
@@ -652,7 +649,7 @@ Existing topic reused for new Next claims.
 
 ---
 
-**N-10524** Faith Kates – Epstein Relationship Scope
+**N-10481** Faith Kates – Epstein Relationship Scope
 
 Existing topic reused for Epstein-at-Next claim.
 
@@ -660,15 +657,7 @@ Existing topic reused for Epstein-at-Next claim.
 
 ---
 
-**N-10532** Next Model Management / Erika Kirk Connection
-
-Existing topic reused for new Next claims.
-
-*Related: C-6901, C-6902, C-6912, C-6913, C-6968, C-6969*
-
----
-
-**N-10922** Superfeed
+**N-10843** Superfeed
 
 Organization whose board the host says includes Lori Frantzve and Tyler Bowyer.
 
@@ -676,7 +665,7 @@ Organization whose board the host says includes Lori Frantzve and Tyler Bowyer.
 
 ---
 
-**N-10929** Erika Kirk Air Force Academy Board of Visitors Appointment
+**N-10850** Erika Kirk Air Force Academy Board of Visitors Appointment
 
 Existing topic reused for the viewer-comment claim.
 
@@ -684,7 +673,7 @@ Existing topic reused for the viewer-comment claim.
 
 ---
 
-**N-10954** Alliance Defending Freedom
+**N-10875** Alliance Defending Freedom
 
 Named by the Fox interviewer as holding an approved plate.
 
@@ -692,7 +681,7 @@ Named by the Fox interviewer as holding an approved plate.
 
 ---
 
-**N-11104** Liberty University
+**N-11022** Liberty University
 
 School of Erika's claimed Juris Master.
 
@@ -700,7 +689,7 @@ School of Erika's claimed Juris Master.
 
 ---
 
-**N-11110** Erika Kirk and Tyler Bowyer First-Meeting Account
+**N-11028** Erika Kirk and Tyler Bowyer First-Meeting Account
 
 Existing topic reused.
 
@@ -708,7 +697,7 @@ Existing topic reused.
 
 ---
 
-**N-11165** Romanian Angels Project
+**N-11081** Romanian Angels Project
 
 Existing topic reused.
 
@@ -716,7 +705,7 @@ Existing topic reused.
 
 ---
 
-**N-11166** Everyday Heroes Foundation
+**N-11082** Everyday Heroes Foundation
 
 Existing topic reused for the bio claim.
 
@@ -724,7 +713,7 @@ Existing topic reused for the bio claim.
 
 ---
 
-**N-11171** Kirk "Internet DOGE" Money-Tracing Effort
+**N-11087** Kirk "Internet DOGE" Money-Tracing Effort
 
 Existing topic reused for the DOGE claim.
 
@@ -732,7 +721,7 @@ Existing topic reused for the DOGE claim.
 
 ---
 
-**N-11194** Next Model Management / MC2 Model Apartments Class Action
+**N-11110** Next Model Management / MC2 Model Apartments Class Action
 
 Existing topic reused.
 
@@ -740,7 +729,7 @@ Existing topic reused.
 
 ---
 
-**N-11248** Arizona State University
+**N-11164** Arizona State University
 
 Host's ASU Romanian studies claims.
 
@@ -787,7 +776,7 @@ Claim: Erika Kirk's published real-estate bio describes her as a "multi-dimensio
 Anchored Artifacts: A-1824.1
 Mentions: N-2
 
-Related Nodes: N-10527
+Related Nodes: N-10483
 
 Investigative Direction: Locate original bio on archived real-estate listings or brokerage websites; cross-reference fiduciary claim against any documented transactions.
 
@@ -802,7 +791,7 @@ Claim: The host says she found, on a third-party site, a relic record of a New Y
 Anchored Artifacts: A-1825.1
 Mentions: N-2
 
-Related Nodes: N-10526
+Related Nodes: N-10462
 
 Investigative Direction: Verify license against NY Department of State public licensee search before October 2026 record-retention cutoff; obtain any associated transaction records.
 
@@ -819,9 +808,9 @@ Transcript Snippet: If you can confirm Erika's real estate license and what she 
 Anchored Artifacts: A-1825.2
 Mentions: N-3, N-2
 
-Related Nodes: N-10526
+Related Nodes: N-10462
 
-Investigative Direction: Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-10526.
+Investigative Direction: Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-10462.
 
 ---
 
@@ -834,7 +823,7 @@ Claim: In her audition tape for "The American Race," Erika Kirk stated she had t
 Anchored Artifacts: A-1826.1
 Mentions: N-2
 
-Related Nodes: N-10525
+Related Nodes: N-10482
 
 Investigative Direction: Locate the full audition tape for timestamp and surrounding context; verify the orphanage claim against Marine Corps records and Romanian government records.
 
@@ -849,7 +838,7 @@ Claim: An email from "Larissa," a former Antonio Placement Center resident adopt
 Anchored Artifacts: A-1827.1
 Mentions: N-2, N-572
 
-Related Nodes: N-10525
+Related Nodes: N-10482
 
 Investigative Direction: Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history.
 
@@ -864,7 +853,7 @@ Claim: In a social-media exchange, Tyler Bowyer stated he studied Romanian in co
 Anchored Artifacts: A-1828.1
 Mentions: N-11
 
-Related Nodes: N-10528
+Related Nodes: N-10484
 
 Investigative Direction: Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline.
 
@@ -879,7 +868,7 @@ Claim: Per Arizona SB 1439 as the host presents it, the bill proposed a "Charlie
 Anchored Artifacts: A-1829.1
 Mentions: N-1
 
-Related Nodes: N-10529
+Related Nodes: N-10485
 
 Investigative Direction: Retrieve full SB 1439 text from Arizona Legislature archives; identify statutory fund recipient and allocation mechanism.
 
@@ -894,7 +883,7 @@ Claim: Governor Katie Hobbs vetoed SB 1439, stating in her veto letter that Char
 Anchored Artifacts: A-1830.1
 Mentions: N-1, N-576
 
-Related Nodes: N-10529
+Related Nodes: N-10485
 
 Investigative Direction: Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate.
 
@@ -909,7 +898,7 @@ Claim: On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 v
 Anchored Artifacts: A-1831.1
 Mentions: N-575, N-576, N-1
 
-Related Nodes: N-10529
+Related Nodes: N-10485
 
 Investigative Direction: Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited.
 
@@ -924,7 +913,7 @@ Claim: Tyler Bowyer posted on X: "Every nonprofit in Arizona that has major root
 Anchored Artifacts: A-1832.1
 Mentions: N-11, N-576, N-1
 
-Related Nodes: N-10529
+Related Nodes: N-10485
 
 Investigative Direction: Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.
 
@@ -938,7 +927,7 @@ Claim: The host says the fine print on the Turning Point USA mobile application 
 
 Anchored Artifacts: A-1833.1
 
-Related Nodes: N-10530
+Related Nodes: N-10486
 
 Investigative Direction: Obtain current app-store listing and EULA for Super Feed Inc.; cross-reference Super Feed's corporate filings and any Erika Kirk / Tyler Bowyer / Lori Frantzve board or officer roles.
 
@@ -952,7 +941,7 @@ Claim: A headline announcement (per host) states Arizona to be the first US stat
 
 Anchored Artifacts: A-1834.1
 
-Related Nodes: N-10528
+Related Nodes: N-10484
 
 Investigative Direction: Locate original announcement source and date; identify Arizona-Romania trade office structure, funding, and personnel.
 
@@ -967,7 +956,7 @@ Claim: The host asserts that Erika Kirk's real-estate bio claims of "magna cum l
 Anchored Artifacts: A-1824.1
 Mentions: N-2
 
-Related Nodes: N-10527
+Related Nodes: N-10483
 
 Investigative Direction: Obtain Erika Kirk's official ASU transcript via FERPA request (with consent) or court subpoena; verify degree conferral and honors designation.
 
@@ -982,7 +971,7 @@ Claim: The host asserts she was unable to independently verify Erika Kirk's NY r
 Anchored Artifacts: A-1825.1
 Mentions: N-2
 
-Related Nodes: N-10526
+Related Nodes: N-10462
 
 Investigative Direction: Conduct direct NY Department of State licensee search before October 2026 retention cutoff; capture screenshot evidence for archive.
 
@@ -997,7 +986,7 @@ Claim: Per host reading of SB 1439, the bill's "conservative grassroots network 
 Anchored Artifacts: A-1829.1
 Mentions: 
 
-Related Nodes: N-10529
+Related Nodes: N-10485
 
 Investigative Direction: Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities.
 
@@ -1013,7 +1002,7 @@ Transcript Snippet: we did not go out to Erika for comment regarding today's epi
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10519
+Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Retain the first Next Model inquiry email and any reply or non-reply record to show the comment history.
 
@@ -1029,7 +1018,7 @@ Transcript Snippet: Jeffrey Epstein was around this office a lot. He frequented 
 
 Anchored Artifacts: 
 Mentions: N-9
-Related Nodes: N-10532, N-10524
+Related Nodes: N-10478, N-10481
 Tags: relevance:core
 Investigative Direction: Obtain named eyewitnesses or visitor and email records placing Epstein at Next's offices and on what dates.
 
@@ -1045,7 +1034,7 @@ Transcript Snippet: She's actually known for having made the careers of various 
 
 Anchored Artifacts: 
 Mentions: N-568
-Related Nodes: N-10532
+Related Nodes: N-10478
 Supports: C-6859
 Tags: relevance:core
 Investigative Direction: Check agency press and model-biography records for Kates's Eastern European signings and dates.
@@ -1062,7 +1051,7 @@ Transcript Snippet: she was actually the vice president of the women's division 
 
 Anchored Artifacts: 
 Mentions: N-568, N-9, N-886
-Related Nodes: N-11291
+Related Nodes: N-11207
 Tags: relevance:core
 Investigative Direction: Verify Kates's Wilhelmina title and dates and the Wilhelmina founding record; test the host's claim that she knew Epstein in that period.
 
@@ -1170,7 +1159,7 @@ Transcript Snippet: she's actually never made the claim to have worked for a mod
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10519
+Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Review Erika's published bios and interviews for any mention of employment at Next or another modeling agency.
 
@@ -1186,7 +1175,7 @@ Transcript Snippet: they recall Erika because she was taking meetings at the off
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10519, N-10532
+Related Nodes: N-10478
 Supports: C-6860
 Tags: relevance:core
 Investigative Direction: Obtain the eyewitnesses' names, dates and the apartments they associate with Erika; seek corroborating emails or leases.
@@ -1203,7 +1192,7 @@ Transcript Snippet: Younger girls, when they first get to New York City, they pa
 
 Anchored Artifacts: A-3122.1
 Mentions:
-Related Nodes: N-10532, N-11194
+Related Nodes: N-10478, N-11110
 Tags: relevance:context
 Investigative Direction: Cross-check against reporting and the class action on Next and MC2 model housing for the housing practices described.
 
@@ -1219,7 +1208,7 @@ Transcript Snippet: Erika Franceway was the contact. Specifically, what they rec
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11292, N-10519
+Related Nodes: N-11208, N-10478
 Tags: relevance:core
 Investigative Direction: Identify the building through the eyewitnesses and check Manhattan property, lease and broker-of-record records for Erika's name.
 
@@ -1235,7 +1224,7 @@ Transcript Snippet: the issue that I'm having here is that Erika did not actuall
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10501, N-10526
+Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Pin down the dates of the Next-office recollections and compare with the license issue date of October 24, 2018 from the NY Department of State record.
 
@@ -1251,7 +1240,7 @@ Transcript Snippet: Erika told people specifically during that time that she was
 
 Anchored Artifacts: 
 Mentions: N-2, N-573, N-574
-Related Nodes: N-10501
+Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Ask the people who heard this to identify the family and the deals; look for deeds, listings or broker records tied to the Rothsteins.
 
@@ -1267,7 +1256,7 @@ Transcript Snippet: Erika at this time was living with Nicole Rothstein and it i
 
 Anchored Artifacts: 
 Mentions: N-2, N-573
-Related Nodes: N-10501
+Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Confirm the shared residence and dates with leases or witnesses, and Nicole Rothstein's licensing and company records.
 
@@ -1283,7 +1272,7 @@ Transcript Snippet: Allan Rothstein, Erika is extremely close with him. She call
 
 Anchored Artifacts: A-1823.1
 Mentions: N-574, N-2
-Related Nodes: N-11293
+Related Nodes: N-11209
 Tags: relevance:core
 Investigative Direction: Check New York corporate filings and Win Haven's own materials for Rothstein's chairmanship and dates.
 
@@ -1329,7 +1318,7 @@ Transcript Snippet: Her experience working on the developer side of the New York
 
 Anchored Artifacts: A-1824.1
 Mentions: N-2
-Related Nodes: N-10527
+Related Nodes: N-10483
 Tags: relevance:core
 Investigative Direction: Identify any developer employer or project Erika worked with in New York before her 2018 license.
 
@@ -1345,7 +1334,7 @@ Transcript Snippet: The organization celebrates their 12th year and their long-s
 
 Anchored Artifacts: A-1824.1
 Mentions: N-2
-Related Nodes: N-11166, N-11165
+Related Nodes: N-11082, N-11081
 Tags: relevance:core
 Investigative Direction: Pull IRS Form 990s and any USMC acknowledgment for Everyday Heroes and verify the China, Costa Rica and Constanta activities.
 
@@ -1361,7 +1350,7 @@ Transcript Snippet: from being a former NCAA women's basketball athlete to Miss 
 
 Anchored Artifacts: A-1824.1
 Mentions: N-2
-Related Nodes: N-11104, N-10527
+Related Nodes: N-11022, N-10483
 Tags: relevance:core
 Investigative Direction: Check pageant and NCAA rosters and request Liberty enrollment confirmation for the Juris Master program.
 
@@ -1377,7 +1366,7 @@ Transcript Snippet: also in school full-time to get her Juris Masters followed b
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11104, N-10501
+Related Nodes: N-11022, N-10462
 Tags: relevance:core
 Investigative Direction: Build a dated timeline of each activity from licensing, enrollment, Everyday Heroes and Turning Point records and test for overlap; verify the 77-hour requirement with the NY Department of State.
 
@@ -1393,7 +1382,7 @@ Transcript Snippet: Oh, I was just, you know, helping to send Christmas gifts to
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11165, N-10525
+Related Nodes: N-11081, N-10482
 Tags: relevance:core
 Investigative Direction: Find Erika's own recent statements describing Romanian Angels and compare them with the audition-tape description of opening and sustaining an orphanage.
 
@@ -1409,7 +1398,7 @@ Transcript Snippet: the Romanian Angels so to speak were living at Antonio's Pla
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10525, N-11165
+Related Nodes: N-10482, N-11081
 Tags: relevance:core
 Investigative Direction: Establish which US base the host means and whether Romanian Angels' beneficiaries were housed at the center through Romanian child-protection or NGO records.
 
@@ -1425,7 +1414,7 @@ Transcript Snippet: While independent fact-checkers have found no evidence linki
 
 Anchored Artifacts: A-1827.1
 Mentions: N-572, N-2
-Related Nodes: N-10525
+Related Nodes: N-10482
 Tags: relevance:core
 Investigative Direction: Identify which fact-checks the writer means and what they actually examined.
 
@@ -1441,7 +1430,7 @@ Transcript Snippet: Tyler Bowyer, Erika's friend, her dear friend, who introduce
 
 Anchored Artifacts: 
 Mentions: N-11, N-2, N-1
-Related Nodes: N-11110
+Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Collect each of Erika's and Bowyer's accounts of the first meeting and compare them.
 
@@ -1457,7 +1446,7 @@ Transcript Snippet: I don't think it is just ironic that you happen to go right 
 
 Anchored Artifacts: A-1828.1
 Mentions: N-11, N-735
-Related Nodes: N-10395, N-10528
+Related Nodes: N-10368, N-10484
 Tags: relevance:core
 Investigative Direction: Establish the dates of the base setup, Frantzve's Romania posting and Bowyer's trip, which another node dates to 2011.
 
@@ -1473,7 +1462,7 @@ Transcript Snippet: Arizona State University is actually the only university in 
 
 Anchored Artifacts: 
 Mentions:
-Related Nodes: N-11248, N-10528
+Related Nodes: N-11164, N-10484
 Tags: relevance:context
 Investigative Direction: Check ASU's catalog and other US universities' Romanian programs.
 
@@ -1489,7 +1478,7 @@ Transcript Snippet: Arizona State University became the site of an honorary cons
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-11248, N-10528
+Related Nodes: N-11164, N-10484
 Tags: relevance:context
 Investigative Direction: Verify the consulate's founding date and location and the lectorate through ASU and Romanian foreign ministry announcements.
 
@@ -1505,7 +1494,7 @@ Transcript Snippet: the first in an American academic environment. And it was fu
 
 Anchored Artifacts: 
 Mentions:
-Related Nodes: N-11248, N-10528
+Related Nodes: N-11164, N-10484
 Tags: relevance:context
 Investigative Direction: Find the funding body (host does not name it) and the collaborative's founding documents.
 
@@ -1537,7 +1526,7 @@ Transcript Snippet: choose a a spot for their campus that is a trafficking hotbe
 
 Anchored Artifacts: 
 Mentions:
-Related Nodes: N-10000, N-10401
+Related Nodes: N-10000, N-10374
 Tags: relevance:context
 Investigative Direction: Identify the campus location meant and the trafficking data (arrest or hotline statistics) the host relies on.
 
@@ -1553,7 +1542,7 @@ Transcript Snippet: Super Feed Incorporated where Erika's mother is serving as a
 
 Anchored Artifacts: A-1833.1
 Mentions: N-489, N-11, N-2
-Related Nodes: N-10922, N-10530
+Related Nodes: N-10843, N-10486
 Tags: relevance:core
 Investigative Direction: Pull Super Feed's Arizona Corporation Commission filings for directors and officers.
 
@@ -1586,7 +1575,7 @@ Transcript Snippet: Charlie establishing a doge 7 days before he died
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-11171, N-10434
+Related Nodes: N-11087, N-10404
 Supports: C-3541
 Tags: relevance:core
 Investigative Direction: Obtain the memo or message creating the internal audit or DOGE effort and its date.
@@ -1603,7 +1592,7 @@ Transcript Snippet: Jake Hoffman is a dear friend of Tyler Bowyer, a partner of 
 
 Anchored Artifacts: 
 Mentions: N-575, N-11
-Related Nodes: N-10000, N-10529
+Related Nodes: N-10000, N-10485
 Tags: relevance:core
 Investigative Direction: Check business filings showing shared entities between Hoffman and Bowyer and Hoffman's TPUSA employment dates.
 
@@ -1619,7 +1608,7 @@ Transcript Snippet: Jake Hoffman back on January 28th introduced a bill for a st
 
 Anchored Artifacts: A-1829.1
 Mentions: N-575, N-1
-Related Nodes: N-10529
+Related Nodes: N-10485
 Tags: relevance:core
 Investigative Direction: Confirm the introduction date and sponsors on the Arizona Legislature bill history for SB 1439.
 
@@ -1635,7 +1624,7 @@ Transcript Snippet: And below the license plate, as you just saw, the words were
 
 Anchored Artifacts: A-1829.1
 Mentions: N-1
-Related Nodes: N-10529
+Related Nodes: N-10485
 Tags: relevance:context
 Investigative Direction: Retrieve the plate design submitted with the bill.
 
@@ -1651,7 +1640,7 @@ Transcript Snippet: They passed the bill 16 to and then the House of Reps also v
 
 Anchored Artifacts: A-1829.1
 Mentions:
-Related Nodes: N-10529
+Related Nodes: N-10485
 Tags: relevance:core
 Investigative Direction: Check roll-call votes for SB 1439 on the Arizona Legislature site.
 
@@ -1667,7 +1656,7 @@ Transcript Snippet: the only time in Arizona history that we filled two professi
 
 Anchored Artifacts: A-1831.1
 Mentions: N-575, N-1
-Related Nodes: N-10529
+Related Nodes: N-10485, N-11361
 Tags: relevance:context
 Investigative Direction: Check attendance reports for State Farm Stadium and the second venue on the memorial date.
 
@@ -1683,7 +1672,7 @@ Transcript Snippet: We have Choose Life. That's from the Arizona Life Coalition 
 
 Anchored Artifacts: A-1831.1
 Mentions:
-Related Nodes: N-10954, N-10529
+Related Nodes: N-10875, N-10485
 Tags: relevance:context
 Investigative Direction: Check the Arizona MVD specialty plate list for those plates and their approval dates.
 
@@ -1699,7 +1688,7 @@ Transcript Snippet: she used the acronym of the committee as her reason for the 
 
 Anchored Artifacts: A-1831.1
 Mentions: N-575, N-576
-Related Nodes: N-10529
+Related Nodes: N-10485
 Tags: relevance:context
 Investigative Direction: Check Hobbs's veto letters from 2025 for the cited bill and wording.
 
@@ -1715,7 +1704,7 @@ Transcript Snippet: Who's that money going to? It's going to his wife's organiza
 
 Anchored Artifacts: A-1829.1
 Mentions: N-2, N-1
-Related Nodes: N-10000, N-10529
+Related Nodes: N-10000, N-10485
 Tags: relevance:core
 Investigative Direction: Determine the intended fund recipient from the bill's fund text and any TPUSA statement.
 
@@ -1763,7 +1752,7 @@ Transcript Snippet: being on the board of the US Air Force Academy sounds like t
 
 Anchored Artifacts: A-3121.2
 Mentions: N-2, N-1
-Related Nodes: N-10929
+Related Nodes: N-10850
 Supports: C-6810
 Tags: relevance:context
 Investigative Direction: Check the Air Force Academy Board of Visitors roster and the White House appointment announcement.
@@ -1826,7 +1815,7 @@ Transcript Snippet: they actually quite liked Melania and said that people who t
 
 Anchored Artifacts: 
 Mentions: N-599
-Related Nodes: N-10532
+Related Nodes: N-10478
 Tags: relevance:tangential
 Investigative Direction: Identify the sources and their relationship to Melania Trump's modeling years.
 
@@ -1842,7 +1831,7 @@ Transcript Snippet: Melania's name came up with this next modeling thing they we
 
 Anchored Artifacts: 
 Mentions: N-599
-Related Nodes: N-10532
+Related Nodes: N-10478
 Tags: relevance:tangential
 Investigative Direction: Review Melania Trump's modeling agency records for any Next Model Management association.
 

@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-716, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
+  - Tip-minted Nodes (supplement_2026-10): N-716, N-10946, N-10947, N-10948, N-10949, N-10950, N-10951, N-10952
   - Hole-minted Nodes (reintro-ep057): N-521, N-532
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5066–C-5141
-  - New Nodes Introduced: N-454, N-455, N-456, N-457, N-458, N-10414, N-10415
-  - Reused Nodes Appearing: N-5, N-22, N-30, N-82, N-201, N-10000, N-10063, N-10270, N-10385, N-10388, N-10404, N-10416, N-10422, N-11034, N-10424, N-10454, N-10413
+  - New Nodes Introduced: N-454, N-455, N-456, N-457, N-458, N-10387, N-10388
+  - Reused Nodes Appearing: N-5, N-22, N-30, N-82, N-201, N-10000, N-10060, N-10254, N-10358, N-10361, N-10377, N-10389, N-10395, N-10953, N-10397, N-10423, N-10386
   - (see registers)
 
 ## 2. Executive Summary
@@ -205,7 +205,7 @@ Video Timestamp: 00:08:22–00:09:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5083, C-5088, C-5087, N-10413, N-454*
+*Related: C-5083, C-5088, C-5087, N-10386, N-454*
 
 **A-1628.2** Be Inspired clip – Project Looking Glass segment with Bill Wood testimony
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:13:05–00:15:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5083, C-5088, N-10413, N-454*
+*Related: C-5083, C-5088, N-10386, N-454*
 
 **A-1628.3** Be Inspired clip – The Matrix / 2012 convergence / CIA document segment
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:17:07–00:18:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5088, C-5087, N-10413*
+*Related: C-5088, C-5087, N-10386*
 
 **A-1629** CERN Ritual Article Bundle
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:36:29–00:37:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5107, C-5108, N-10414*
+*Related: C-5107, C-5108, N-10387*
 
 **A-1630** CERN Ritual Video Bundle
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:38:17–00:39:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5107, C-5108, N-10414*
+*Related: C-5107, C-5108, N-10387*
 
 **A-1631** Daily Wire Egyptian Airways Parody Video Bundle
 
@@ -261,7 +261,7 @@ Video Timestamp: 00:40:52–00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video explicitly displayed)
 
-*Related: C-5114, N-10416, N-3*
+*Related: C-5114, N-10389, N-3*
 
 **A-1632** Pompeo Gaza History Book Clip Bundle
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:04:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (quote reproduced, not displayed on screen per transcript)
 
-*Related: N-10415*
+*Related: N-10388*
 
 **A-1634** Comment Section Read-Aloud Bundle
 
@@ -403,7 +403,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1628.2, C-5083, N-10413*
+*Related: A-1628.2, C-5083, N-10386*
 
 **N-455** Mike Pompeo
 
@@ -462,7 +462,7 @@ Investigative Pressure: Low
 
 *Related: None*
 
-**N-10413** Project Looking Glass Allegation
+**N-10386** Project Looking Glass Allegation
 
 Persistent investigative target: claim that a US military/CIA device capable of viewing future timelines was shut down after 2012 convergence; supported by whistleblower Bill Wood testimony and a referenced CIA document.
 
@@ -473,7 +473,7 @@ Investigative Pressure: Medium
 
 *Related: A-1628.1, A-1628.2, A-1628.3, C-5083, C-5088, C-5087, N-454*
 
-**N-10414** CERN Satantic Ritual Claim
+**N-10387** CERN Satantic Ritual Claim
 
 Investigative target: episode's presentation of a "satanic human sacrifice" at CERN grounds, CERN's "prank" framing, and host's challenge to that framing.
 
@@ -484,7 +484,7 @@ Investigative Pressure: Medium
 
 *Related: A-1629.1, A-1630.1, C-5107, C-5108*
 
-**N-10415** Charlie Kirk Premonition Pattern
+**N-10388** Charlie Kirk Premonition Pattern
 
 Persistent investigative target across the series: Charlie Kirk's alleged foreknowledge (via text messages to Candace) that he would die young and that his death would relate to Turning Point USA.
 
@@ -495,7 +495,7 @@ Investigative Pressure: Medium
 
 *Related: A-1633.1, A-1633.2, C-5068, C-5092, N-1*
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Investigative target: ongoing alleged "gangstalking" pattern by Daily Wire against Candace Owens, with the Egyptian Airways parody video (A-1631.1) cited as the latest escalation.
 
@@ -568,49 +568,49 @@ Organization Charlie founded and in which the host says he knew he would die.
 
 *Related: C-5069, C-5070, C-5071, C-5094*
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Place at issue in the Pompeo clip.
 
 *Related: C-5119, C-5120, C-5121*
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Topic for the Macron lawsuit the host calls a mistake.
 
 *Related: C-5095*
 
-**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Topic for the host's complaints about the Daily Wire.
 
 *Related: C-5099, C-5115*
 
-**N-10388** Missing Money from Turning Point Action
+**N-10361** Missing Money from Turning Point Action
 
 Topic cited where the host describes Charlie telling them to take the money out of the organization.
 
 *Related: C-5094*
 
-**N-10404** Candace Owens Dream Vision of Andrew Kolvet
+**N-10377** Candace Owens Dream Vision of Andrew Kolvet
 
 Topic for the host's dream that Charlie was betrayed.
 
 *Related: C-5141*
 
-**N-10422** GATE / Gifted Education Program Investigation
+**N-10395** GATE / Gifted Education Program Investigation
 
 Topic for gifted-program claims about Charlie and commenters.
 
 *Related: C-5073, C-5135, C-5136, C-5137*
 
-**N-10424** Nick Fuentes Federal Informant Allegation
+**N-10397** Nick Fuentes Federal Informant Allegation
 
 Topic for the claim that Fuentes is a federal informant.
 
 *Related: C-5138, C-5139, C-5140*
 
-**N-10454** Gaza Death Toll and Documentation Claims
+**N-10423** Gaza Death Toll and Documentation Claims
 
 Topic for the host's claim that Palestinian deaths would be written out of textbooks.
 
@@ -622,56 +622,56 @@ First named by the host at 00:51:51 in episode 57, reading a comment recommendin
 
 *Related: C-5131, A-2756.3*
 
-**N-11027** Be Inspired (YouTube Channel)
+**N-10946** Be Inspired (YouTube Channel)
 
 Node Type: Organization
 YouTube channel whose clips on Y2K, the Mandela effect and Project Looking Glass the host plays and links in the comments.
 
 *Related: C-5076, C-5077, C-5078, C-5079, C-5080, C-5089, C-5090*
 
-**N-11028** Project Camelot
+**N-10947** Project Camelot
 
 Node Type: Organization
 Interview project that the Be Inspired clip says interviewed Bill Wood and other Looking Glass whistleblowers.
 
 *Related: C-5084*
 
-**N-11029** CERN
+**N-10948** CERN
 
 Node Type: Organization
 European Organization for Nuclear Research in Geneva, home of the Large Hadron Collider; source of the ritual footage and of Mark's history of the Higgs search.
 
 *Related: C-5103, C-5104, C-5105, C-5106, C-5110, C-5109, C-5111, C-5112*
 
-**N-11030** Mandela Effect Claims
+**N-10949** Mandela Effect Claims
 
 Node Type: Topic
 The host's and the Be Inspired clip's examples of collective false memory presented as evidence of timeline changes (Fruit of the Loom cornucopia, Berenstain Bears, Pikachu's tail).
 
 *Related: C-5067, C-5078, C-5079, C-5080, C-5081*
 
-**N-11031** Host Platform Suppression and Travel Ban Claims
+**N-10950** Host Platform Suppression and Travel Ban Claims
 
 Node Type: Topic
 The host's claims that she was demonetized and throttled on YouTube, banned from countries and had event hosts threatened.
 
 *Related: C-5127, C-5128, C-5129*
 
-**N-11032** Pompeo Assange Murder Option Claim
+**N-10951** Pompeo Assange Murder Option Claim
 
 Node Type: Topic
 The claim, attributed by the host to Tucker Carlson, that Mike Pompeo at the CIA tried to have Julian Assange murdered, and the on-air fact check.
 
 *Related: C-5116, C-5117*
 
-**N-11033** Project Monarch
+**N-10952** Project Monarch
 
 Node Type: Topic
 Alleged program that the host calls the precursor to what the Nazis did in the United States, about traumatizing children.
 
 *Related: C-5131*
 
-**N-11034** Charlie Kirk Early Security Arrangement
+**N-10953** Charlie Kirk Early Security Arrangement
 
 Node Type: Topic
 The host's account that Charlie Kirk had required, orchestrated security (Shaffer security, arranged by Bill Montgomery) from about 2017.
@@ -689,7 +689,7 @@ Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's accoun
 Anchored Artifacts: A-1628.2
 Mentions: N-454
 
-Related Nodes: N-10413
+Related Nodes: N-10386
 
 Investigative Direction: Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.
 
@@ -703,7 +703,7 @@ Claim: The Be Inspired clip (A-1628.3) references a CIA-released document that e
 
 Anchored Artifacts: A-1628.3
 
-Related Nodes: N-10413
+Related Nodes: N-10386
 
 Investigative Direction: Locate the referenced CIA document in the CIA FOIA reading room or CREST archive; identify its actual title, declassification date, and contents.
 
@@ -717,7 +717,7 @@ Claim: The host says the Project Looking Glass idea that thoughts influenced fut
 
 Anchored Artifacts: A-1628.3
 
-Related Nodes: N-10413
+Related Nodes: N-10386
 
 Investigative Direction: Compare The Matrix's documented production context (Wachowskis, 1999) with declassified Project Looking Glass timeline; separately assess the host's adjacent claim that "the script for The Matrix was stolen allegedly."
 
@@ -731,7 +731,7 @@ Claim: An article read verbatim in the episode describes a "satanic human sacrif
 
 Anchored Artifacts: A-1629.1, A-1630.1
 
-Related Nodes: N-10414
+Related Nodes: N-10387
 
 Tags: relevance:tangential
 Investigative Direction: Identify the YouTuber who originally published the video; verify the date and circumstances of the alleged incident; determine whether any criminal investigation was opened.
@@ -746,7 +746,7 @@ Claim: The episode presents that a CERN spokesperson characterized the staged ri
 
 Anchored Artifacts: A-1629.1
 
-Related Nodes: N-10414
+Related Nodes: N-10387
 
 Tags: relevance:tangential
 Investigative Direction: Locate CERN's official statement on the incident; identify the spokesperson and the date of the statement; determine whether the woman depicted has been identified.
@@ -762,7 +762,7 @@ Claim: A Daily Wire video dropped on Candace Owens's old social media accounts p
 Anchored Artifacts: A-1631.1
 Mentions: N-3
 
-Related Nodes: N-10416
+Related Nodes: N-10389
 
 Investigative Direction: Locate the Daily Wire video directly on its original publication platform; verify the date it was posted on Candace's social media accounts; confirm whether it was targeted specifically at her.
 
@@ -791,7 +791,7 @@ Claim: The host references (from earlier episodes, via prior text-message displa
 Anchored Artifacts: A-1633.1
 Mentions: N-3, N-1
 
-Related Nodes: N-10415
+Related Nodes: N-10388
 
 Investigative Direction: Locate the specific text messages in the earlier episode(s) where they were displayed; capture exact wording and date stamps.
 
@@ -806,7 +806,7 @@ Claim: The host presents Charlie Kirk's assertion (via referenced text messages)
 Anchored Artifacts: A-1633.1
 Mentions: N-1
 
-Related Nodes: N-10415
+Related Nodes: N-10388
 
 Investigative Direction: Locate the specific text messages in which Charlie makes this claim; verify the timing relative to TPUSA founding (2012) and Charlie's death.
 
@@ -850,7 +850,7 @@ Transcript Snippet: I don't think I will ever get over the fact that Charlie Kir
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10415
+Related Nodes: N-10388
 Supports: C-4702
 Investigative Direction: Locate the Charlie Kirk text messages the host has shown in earlier episodes in which he describes dying young; identify who the host means by 'the agents' and what evidence she has that they knew.
 
@@ -866,7 +866,7 @@ Transcript Snippet: you guys tried to convince us that Fruit of the Loom never h
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11030
+Related Nodes: N-10949
 Investigative Direction: Compare dated Fruit of the Loom logos and packaging from the company's trademark filings and archived advertising to establish whether a cornucopia ever appeared.
 
 ---
@@ -896,7 +896,7 @@ Transcript Snippet: he was required to have security on him at all times. That w
 
 Anchored Artifacts: 
 Mentions: N-1, N-456
-Related Nodes: N-10000, N-11034
+Related Nodes: N-10000, N-10953
 Investigative Direction: Identify who Bill Montgomery was and when he died; obtain records of who contracted Shaffer security for Charlie Kirk and Turning Point USA in 2017-2018.
 
 ---
@@ -911,7 +911,7 @@ Transcript Snippet: he was from the military, one of the he founded Turning Poin
 
 Anchored Artifacts: 
 Mentions: N-1, N-456
-Related Nodes: N-10000, N-11034
+Related Nodes: N-10000, N-10953
 Investigative Direction: Check Turning Point USA founding documents, early IRS filings and contemporaneous press for the founders and whether Montgomery is named; confirm whether Charlie Kirk applied to or sought West Point.
 
 ---
@@ -926,7 +926,7 @@ Transcript Snippet: the security, him texting, saying, "I'm not allowed to go an
 
 Anchored Artifacts: A-1633.2
 Mentions: N-1, N-3
-Related Nodes: N-11034, N-10415
+Related Nodes: N-10953, N-10388
 Investigative Direction: Retrieve the exact text from the host's message archive with its date and compare with her recollection that it was 'the exact message'.
 
 ---
@@ -941,7 +941,7 @@ Transcript Snippet: when he was really young, they wanted to drug him, but his m
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10422
+Related Nodes: N-10395
 Investigative Direction: Identify which gifted school Charlie Kirk attended (the host asks viewers to find out) and check school records or biographical accounts of his early education.
 
 ---
@@ -956,7 +956,7 @@ Transcript Snippet: he would go on runs. I think I told you guys this after sund
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10415
+Related Nodes: N-10388
 Investigative Direction: Ask people who ran with or lived near Charlie Kirk for first-hand accounts and check whether the host described this in an earlier episode.
 
 ---
@@ -985,7 +985,7 @@ Transcript Snippet: another shady government CIA program uh which came to be kno
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10413, N-11027
+Related Nodes: N-10386, N-10946
 Supports: C-5083
 Investigative Direction: Find declassified CIA or Department of Defense records referring to a program named Looking Glass; identify named whistleblowers beyond Bill Wood and confirm they described the same device.
 
@@ -1000,7 +1000,7 @@ Claim: The Be Inspired clip says governments and corporations spent over $300 bi
 Transcript Snippet: Governments and corporations spent over $300 billion updating systems. It was one of the largest coordinated tech efforts in history.
 
 Anchored Artifacts: A-1628.1
-Related Nodes: N-11027
+Related Nodes: N-10946
 Investigative Direction: Check contemporaneous estimates of global Y2K remediation spending (for example US Commerce Department and Gartner figures) against the clip's 300 billion dollar number.
 
 ---
@@ -1014,7 +1014,7 @@ Claim: The Be Inspired clip says millions remember the Berenstain Bears as 'Bere
 Transcript Snippet: Millions remember it as Berenstein with an E. But every book says Berenstain with an A.
 
 Anchored Artifacts: A-1628.1
-Related Nodes: N-11027, N-11030
+Related Nodes: N-10946, N-10949
 Tags: relevance:tangential
 Investigative Direction: Check the publisher's spelling history for the series and any survey data on how people remember the spelling.
 
@@ -1029,7 +1029,7 @@ Claim: The Be Inspired clip says the Mandela effect is named after people who re
 Transcript Snippet: named after people who remembered Nelson Mandela dying in prison years before he actually did.
 
 Anchored Artifacts: A-1628.1
-Related Nodes: N-11027, N-11030
+Related Nodes: N-10946, N-10949
 Tags: relevance:tangential
 Investigative Direction: Trace the origin of the term 'Mandela effect' to Fiona Broome's 2009 coinage and compare with the clip's account.
 
@@ -1044,7 +1044,7 @@ Claim: An unnamed speaker in the Be Inspired clip says that as people raise cons
 Transcript Snippet: As we go through our conscious progression, as we raise consciousness, the way we perceive the world and therefore all that will exist in our world will morph to that new resonance as a sympathetic resonance.
 
 Anchored Artifacts: A-1628.1
-Related Nodes: N-11027, N-11030
+Related Nodes: N-10946, N-10949
 Investigative Direction: Identify the speaker and the original interview; the claim is metaphysical and has no documentary test, so attribution is the checkable element.
 
 ---
@@ -1059,7 +1059,7 @@ Transcript Snippet: Pikachu had black at the end of his tail, obviously.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11030
+Related Nodes: N-10949
 Tags: relevance:tangential
 Investigative Direction: Compare Pokemon official artwork across 1996-present for the tip of Pikachu's tail.
 
@@ -1075,7 +1075,7 @@ Transcript Snippet: they stole a device from the ancient Sumerian civilization t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10413
+Related Nodes: N-10386
 Tags: relevance:tangential
 Investigative Direction: Ask the host for her source; no archaeological or declassified record is known to the transcript. Check whether Bill Wood or Project Camelot ever described a Sumerian origin.
 
@@ -1091,7 +1091,7 @@ Transcript Snippet: every time they ran the device, no matter what variables the
 
 Anchored Artifacts: A-1628.2
 Mentions: N-454
-Related Nodes: N-10413, N-11028
+Related Nodes: N-10386, N-10947
 Supports: C-5083
 Tags: relevance:tangential
 Investigative Direction: List the Project Camelot interviews on Looking Glass and check whether each named witness gave the 2012-2016 range or only December 21, 2012.
@@ -1108,7 +1108,7 @@ Transcript Snippet: That was backed up, by the way, by a lot of different things
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10413
+Related Nodes: N-10386
 Investigative Direction: Compare the host's reading of the Maya Long Count end date (2012) with Mesoamerican scholarship, which treats it as a cycle rollover.
 
 ---
@@ -1123,7 +1123,7 @@ Transcript Snippet: the people who were in the room while this device was being 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10413
+Related Nodes: N-10386
 Supports: C-5083
 Investigative Direction: Identify which whistleblower account, if any, states that operators' thoughts affected outputs and whether the Be Inspired clip includes it.
 
@@ -1138,7 +1138,7 @@ Claim: The Be Inspired clip says some people report seeing repeating numbers eve
 Transcript Snippet: Some people even report seeing repeating numbers everywhere like 1111, 222, 444, almost like little glitches or signals hidden in everyday life.
 
 Anchored Artifacts: A-1628.3
-Related Nodes: N-10413, N-11027
+Related Nodes: N-10386, N-10946
 Investigative Direction: No documentary test exists for the numbers claim; confirm only that the clip makes it and identify the clip's source.
 
 ---
@@ -1152,7 +1152,7 @@ Claim: The Be Inspired clip says some whistleblowers claimed a confidential brie
 Transcript Snippet: Some whistleblowers claimed that a confidential briefing took place where certain agencies acknowledged the shift, a kind of convergence in human potential.
 
 Anchored Artifacts: A-1628.3
-Related Nodes: N-10413, N-11027
+Related Nodes: N-10386, N-10946
 Supports: C-5088
 Investigative Direction: Identify which whistleblowers described the briefing, its date and attendees, and whether any document or recording exists.
 
@@ -1168,7 +1168,7 @@ Transcript Snippet: you should look into how even the script for The Matrix was 
 
 Anchored Artifacts: A-1628.3
 Mentions: N-3
-Related Nodes: N-10413
+Related Nodes: N-10386
 Supports: C-5087
 Investigative Direction: Ask the host which script-theft claim she means; check public litigation or credit disputes over The Matrix screenplay.
 
@@ -1184,7 +1184,7 @@ Transcript Snippet: because I do believe he was managed I mean I I've already sa
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10415
+Related Nodes: N-10388
 Investigative Direction: Ask the host which earlier episodes describe her being handled and who the agents were; look for any documents or messages supporting either claim.
 
 ---
@@ -1199,7 +1199,7 @@ Transcript Snippet: And then he goes, "You know what? Take the money. Take the m
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10000, N-10388
+Related Nodes: N-10000, N-10361
 Investigative Direction: Identify who 'they' are and who the host says heard Charlie say to take the money out; seek messages, witnesses or financial records from the period before the assassination.
 
 ---
@@ -1214,7 +1214,7 @@ Transcript Snippet: The lawsuit filing was a mistake. Obviously, it was globally
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10270
+Related Nodes: N-10254
 Investigative Direction: Compare public interest and coverage of the Macron story before and after the lawsuit was filed, and review the complaint and its docket.
 
 ---
@@ -1271,7 +1271,7 @@ Transcript Snippet: I lost a job in part for saying that pornography is a spirit
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10385
+Related Nodes: N-10358
 Investigative Direction: Check the Daily Wire's stated reasons for her departure and the dates of her pornography remarks.
 
 ---
@@ -1286,7 +1286,7 @@ Transcript Snippet: if it is true, as it's been reported by various whistleblowe
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10413
+Related Nodes: N-10386
 Supports: C-5083
 Investigative Direction: Identify those 'various whistleblowers' beyond the Be Inspired clip and check whether any made the claim on record.
 
@@ -1302,7 +1302,7 @@ Transcript Snippet: just go back and watch on the moon landing and the rituals t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10414
+Related Nodes: N-10387
 Tags: relevance:tangential
 Investigative Direction: Ask the host which moon landing footage and which ritual she means; compare with NASA mission records.
 
@@ -1332,7 +1332,7 @@ Transcript Snippet: CERN was basically established in 1954 to research particle 
 
 Anchored Artifacts: 
 Mentions: N-67
-Related Nodes: N-11029
+Related Nodes: N-10948
 Tags: relevance:tangential
 Investigative Direction: Check CERN's founding date (convention ratified in 1954) against the CERN official history.
 
@@ -1348,7 +1348,7 @@ Transcript Snippet: in 1964 a group of scientists theorized that there's somethi
 
 Anchored Artifacts: 
 Mentions: N-67
-Related Nodes: N-11029
+Related Nodes: N-10948
 Investigative Direction: Check the 1964 papers of Higgs, Englert-Brout and Guralnik-Hagen-Kibble.
 
 ---
@@ -1363,7 +1363,7 @@ Transcript Snippet: the Large Hydron Collider, which is based in Geneva, Switzer
 
 Anchored Artifacts: 
 Mentions: N-67
-Related Nodes: N-11029
+Related Nodes: N-10948
 Tags: relevance:tangential
 Investigative Direction: Check LHC specifications on the CERN website: circumference about 27 km and depth between about 50 and 175 m.
 
@@ -1379,7 +1379,7 @@ Transcript Snippet: in 2012, they observed a reaction that's consistent with thi
 
 Anchored Artifacts: 
 Mentions: N-67
-Related Nodes: N-11029
+Related Nodes: N-10948
 Tags: relevance:tangential
 Investigative Direction: Check CERN's 4 July 2012 announcement of a Higgs-like boson; the 'erase God' motive is Mark's interpretation and has no documentary test.
 
@@ -1395,7 +1395,7 @@ Transcript Snippet: this ceremony which again is taking place under a uh Hindu d
 
 Anchored Artifacts: A-1630.1
 Mentions: N-3
-Related Nodes: N-10414, N-11029
+Related Nodes: N-10387, N-10948
 Tags: relevance:tangential
 Investigative Direction: Identify the statue (CERN has a Shiva Nataraja statue gifted by India in 2004) and where the footage was recorded.
 
@@ -1411,7 +1411,7 @@ Transcript Snippet: someone at the facility gave a statement and said they were 
 
 Anchored Artifacts: A-1629.1
 Mentions: N-3
-Related Nodes: N-10414, N-11029
+Related Nodes: N-10387, N-10948
 Supports: C-5108
 Tags: relevance:tangential
 Investigative Direction: Locate the actual CERN statement and the outlet that quoted it; confirm the wording and the speaker.
@@ -1428,7 +1428,7 @@ Transcript Snippet: Somebody who worked there recorded it, got it to a YouTuber 
 
 Anchored Artifacts: A-1630.1
 Mentions: N-3
-Related Nodes: N-10414, N-11029
+Related Nodes: N-10387, N-10948
 Supports: C-5107
 Tags: relevance:tangential
 Investigative Direction: Identify the YouTuber and the original upload date; check whether the recorder has been identified publicly.
@@ -1445,7 +1445,7 @@ Transcript Snippet: the spokesperson confirmed it's real and this person had no 
 
 Anchored Artifacts: A-1630.1
 Mentions: N-3
-Related Nodes: N-10414, N-11029
+Related Nodes: N-10387, N-10948
 Supports: C-5108
 Tags: relevance:tangential
 Investigative Direction: Locate the spokesperson statement and compare with the host's paraphrase.
@@ -1462,7 +1462,7 @@ Transcript Snippet: You then hear heavy breathing and you hear a guy saying f do
 
 Anchored Artifacts: A-1630.1
 Mentions: N-3
-Related Nodes: N-10414
+Related Nodes: N-10387
 Tags: relevance:tangential
 Investigative Direction: Review the original video audio and note the exact words and where the footage cuts off.
 
@@ -1478,7 +1478,7 @@ Transcript Snippet: it's just been going on for two years consistently behind th
 
 Anchored Artifacts: A-1631.1
 Mentions: N-3
-Related Nodes: N-10416, N-10385
+Related Nodes: N-10389, N-10358
 Investigative Direction: Ask the host for dated examples of the earlier behind-the-scenes behavior; compare with her earlier episodes on Daily Wire conduct.
 
 ---
@@ -1493,7 +1493,7 @@ Transcript Snippet: Tucker had exposed um that during his time at the CIA, I bel
 
 Anchored Artifacts: A-2757.1
 Mentions: N-3, N-22, N-455, N-532
-Related Nodes: N-11032
+Related Nodes: N-10951
 Investigative Direction: Locate Tucker Carlson's broadcast on the CIA and Assange; check Yahoo News's 2021 reporting on CIA discussions of kidnapping or killing Assange and Pompeo's public response.
 
 ---
@@ -1508,7 +1508,7 @@ Transcript Snippet: I was correct. Yeah, he discussed options to take out Assang
 
 Anchored Artifacts: A-2757.1
 Mentions: N-3, N-455, N-532
-Related Nodes: N-11032
+Related Nodes: N-10951
 Investigative Direction: Check Pompeo's on-record statements about whether he discussed killing Assange and the 2021 Yahoo News report that CIA officials considered it.
 
 ---
@@ -1523,7 +1523,7 @@ Transcript Snippet: The part about how they murdered tens and thousands of Pales
 
 Anchored Artifacts: A-1632.1
 Mentions: N-3, N-455
-Related Nodes: N-10454, N-10063
+Related Nodes: N-10423, N-10060
 Supports: C-5118
 Investigative Direction: Compare the full Pompeo remarks with the host's paraphrase; Pompeo speaks of history books and talking to children, not textbooks specifically.
 
@@ -1539,7 +1539,7 @@ Transcript Snippet: The next generation of of young people won't remember Octobe
 
 Anchored Artifacts: A-1632.1
 Mentions: N-455
-Related Nodes: N-10063
+Related Nodes: N-10060
 Supports: C-5118
 Investigative Direction: Find the original Pompeo event and full video to confirm the setting, date and wording.
 
@@ -1555,7 +1555,7 @@ Transcript Snippet: There there were victims in Gaza, right? There it's true. Um
 
 Anchored Artifacts: A-1632.1
 Mentions: N-455
-Related Nodes: N-10063
+Related Nodes: N-10060
 Supports: C-5118
 Investigative Direction: Compare against the full unedited Pompeo remarks; the clip as aired has a partial self-correction that the host omits.
 
@@ -1600,7 +1600,7 @@ Transcript Snippet: he started realizing like, whoa, am I allowed to be a person
 
 Anchored Artifacts: A-2756.1
 Mentions: N-1, N-3
-Related Nodes: N-10415
+Related Nodes: N-10388
 Investigative Direction: Obtain the verse or message Charlie sent the host and the context in which she says it was written.
 
 ---
@@ -1615,7 +1615,7 @@ Transcript Snippet: You're referring to the Ye 'Power' verse that Charlie sent t
 
 Anchored Artifacts: A-2756.1
 Mentions: N-1, N-3
-Related Nodes: N-10415
+Related Nodes: N-10388
 Investigative Direction: Identify the verse and its text from the message the host references; the 'Ye 'Power' verse' wording is likely a transcription error for a Kanye West lyric.
 
 ---
@@ -1630,7 +1630,7 @@ Transcript Snippet: That's why we ended up building the Candace Owens website wa
 
 Anchored Artifacts: A-2756.2
 Mentions: N-3
-Related Nodes: N-11031
+Related Nodes: N-10950
 Investigative Direction: Check YouTube monetization notices and channel analytics around the period she cites, and the launch date of candaceowens.com.
 
 ---
@@ -1645,7 +1645,7 @@ Transcript Snippet: we wanted to go on tour and so I could speak and they banned
 
 Anchored Artifacts: A-2756.2
 Mentions: N-3
-Related Nodes: N-11031
+Related Nodes: N-10950
 Investigative Direction: Identify which countries barred her, with dates and government notices.
 
 ---
@@ -1660,7 +1660,7 @@ Transcript Snippet: calling people up and threatening them for hosting me on sta
 
 Anchored Artifacts: A-2756.2
 Mentions: N-3
-Related Nodes: N-11031
+Related Nodes: N-10950
 Investigative Direction: Identify the events, hosts and callers; the transcript date is garbled as '20124' and she first said 'last year, 2024 rather'.
 
 ---
@@ -1675,7 +1675,7 @@ Transcript Snippet: I know about Project Monarch. We've spoken about it on this 
 
 Anchored Artifacts: A-2756.3
 Mentions: N-3, N-716
-Related Nodes: N-11033
+Related Nodes: N-10952
 Tags: relevance:tangential
 Investigative Direction: Find the earlier episode where the host discussed Project Monarch; check historical sources on Operation Paperclip and the Monarch allegations, which are contested.
 
@@ -1735,7 +1735,7 @@ Transcript Snippet: I was in gate as a kid. The pink drink.
 
 Anchored Artifacts: A-1634.3
 Mentions: N-3
-Related Nodes: N-10422
+Related Nodes: N-10395
 Investigative Direction: Identify what the pink drink was and the school district; the commenter is anonymous.
 
 ---
@@ -1750,7 +1750,7 @@ Transcript Snippet: that it burns your pineal glands.
 
 Anchored Artifacts: A-1634.3
 Mentions: N-3
-Related Nodes: N-10422
+Related Nodes: N-10395
 Tags: relevance:tangential
 Investigative Direction: Check peer-reviewed literature on fluoride accumulation in the pineal gland; the claim that it burns the gland is not established.
 
@@ -1766,7 +1766,7 @@ Transcript Snippet: my cousin thinks that even when they make us take hearing te
 
 Anchored Artifacts: A-1634.3
 Mentions: N-3
-Related Nodes: N-10422
+Related Nodes: N-10395
 Investigative Direction: The claim is second-hand from an unnamed cousin; no document is identified.
 
 ---
@@ -1781,7 +1781,7 @@ Transcript Snippet: He called the teen girls some that are 13 and 14 barely lega
 
 Anchored Artifacts: A-2756.4
 Mentions: N-201
-Related Nodes: N-10424
+Related Nodes: N-10397
 Investigative Direction: Locate the Fuentes show episode and timestamp and compare with the commenter's paraphrase.
 
 ---
@@ -1796,7 +1796,7 @@ Transcript Snippet: He's a federal informant.
 
 Anchored Artifacts: A-2756.4
 Mentions: N-3, N-201
-Related Nodes: N-10424
+Related Nodes: N-10397
 Investigative Direction: Obtain any court, FOIA or journalistic records alleging Fuentes cooperated with federal authorities; ask the host for the evidence she looked at.
 
 ---
@@ -1811,7 +1811,7 @@ Transcript Snippet: Those were the federal talking points.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-201
-Related Nodes: N-10424
+Related Nodes: N-10397
 Investigative Direction: Transcript is garbled in this passage; verify exactly which statements by Fuentes the host means against his show.
 
 ---
@@ -1826,7 +1826,7 @@ Transcript Snippet: having these recurring dreams about how he would die and how
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10415, N-10404
+Related Nodes: N-10388, N-10377
 Supports: C-4881
 Investigative Direction: Retrieve the messages in which Charlie described the dreams and the host's own dream account from earlier episodes.
 

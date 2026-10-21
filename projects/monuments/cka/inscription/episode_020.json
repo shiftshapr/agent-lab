@@ -286,7 +286,7 @@
             "C-1885"
           ],
           "related_nodes": [
-            "N-10196"
+            "N-10188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -314,7 +314,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-10198"
+            "N-10190"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -399,7 +399,7 @@
             "N-7",
             "N-17",
             "N-41",
-            "N-10198"
+            "N-10190"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -773,7 +773,7 @@
         "N-14",
         "N-7",
         "N-17",
-        "N-10197"
+        "N-10189"
       ]
     },
     {
@@ -836,7 +836,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ]
     },
     {
@@ -1005,11 +1005,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10196",
-      "ref": "N-10196",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10188",
+      "ref": "N-10188",
       "name": "UVU Hospital Charlie Kirk Medical File Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question raised by host's receipt of an internal UVU Hospital message (A-1278.1) restricting file access and by tipster claims that Kirk was treated at UVU rather than Timpanogos.",
       "related_artifacts": [
         "A-1278.1"
@@ -1025,14 +1025,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-197"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10197",
-      "ref": "N-10197",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10189",
+      "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the density of U.S. military-background personnel inside TPUSA and adjacent media (host frames as \"military simulation\" hypothesis). Supported by A-1279.1, A-1282.1.",
       "related_artifacts": [
         "A-1279.1",
@@ -1053,14 +1054,15 @@
         "N-7",
         "N-17",
         "N-41"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between TPUSA's explanation (A-1275.1) of McCoy's actions (ear-covering, video capture, delayed call to Erica) and the host's behavioral analysis of the same video.",
       "related_artifacts": [
         "A-1275.1",
@@ -1080,14 +1082,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-190"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10199",
-      "ref": "N-10199",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10191",
+      "ref": "N-10191",
       "name": "Susie Wiles Eulogy-Selection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host's flagged curiosity regarding the selection of Susie Wiles (spelled \"Susie Wiles\" in one place) as a Kirk eulogist; no artifact-anchored explanation given.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1098,7 +1101,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1718,11 +1722,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; the host says it ran like a military operation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1732,14 +1736,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10004",
       "ref": "N-10004",
       "name": "Kanye Tweet About Candace Owens",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Kanye Tweet About Candace Owens; manifested remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1749,14 +1755,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SocialMediaPosting"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10112",
-      "ref": "N-10112",
+      "@type": "Topic",
+      "@id": "N-10108",
+      "ref": "N-10108",
       "name": "Lone-Shooter Narrative Critique",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Lone-Shooter Narrative Critique; the host rejects the lone-shooter account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1766,14 +1773,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10118",
-      "ref": "N-10118",
+      "@type": "Topic",
+      "@id": "N-10114",
+      "ref": "N-10114",
       "name": "Candace UK Premonition / Husband Meeting",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Candace UK Premonition / Husband Meeting; the host's pull to go to the UK.",
       "related_artifacts": [],
       "related_claims": [
@@ -1784,14 +1792,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@type": "Organization",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "PragerU; offered the host a job in early 2019.",
       "related_artifacts": [],
       "related_claims": [
@@ -1803,14 +1812,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@type": "Topic",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Operation Mocking Pastor; the host's coinage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1820,14 +1831,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10149",
-      "ref": "N-10149",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10144",
+      "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Hospital Routing Discrepancy; ambulance, trauma level and missing footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1839,14 +1851,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10183",
-      "ref": "N-10183",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10175",
+      "ref": "N-10175",
       "name": "Medical Examiner Inquiry – Deirdre Amaro",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Medical Examiner Inquiry – Deirdre Amaro; new host statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1857,14 +1870,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@type": "Topic",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "FBI Charlie Kirk Investigation Handling (Kash Patel); the holiday event remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1874,14 +1888,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10210",
-      "ref": "N-10210",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10202",
+      "ref": "N-10202",
       "name": "NAR (New Apostolic Reformation) Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "NAR Infiltration Question; military and church infiltration remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1891,14 +1906,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10201"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Macron Defamation Lawsuit Delaware Venue Question; the host's remarks on the suit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1912,14 +1929,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Andrew Kolvet Surgeon Bullet Description; the moose quote.",
       "related_artifacts": [],
       "related_claims": [
@@ -1929,14 +1947,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10389",
-      "ref": "N-10389",
+      "@type": "Topic",
+      "@id": "N-10362",
+      "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk Premonition Dreams; the host's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1949,14 +1968,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy; neck claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1966,14 +1986,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10589",
-      "ref": "N-10589",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10537",
+      "ref": "N-10537",
       "name": "Adelson–West Bank Annexation Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Adelson–West Bank Annexation Meeting Verification; Adelson donation remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1984,14 +2005,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10660",
-      "ref": "N-10660",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10602",
+      "ref": "N-10602",
       "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Hospital \"No Neck Left\" Narrative Discrepancy; neck and 306 claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2002,14 +2024,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10661",
-      "ref": "N-10661",
+      "@type": "Topic",
+      "@id": "N-10603",
+      "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Blake Lively / Justin Baldoni Lawsuit Outcome; the host's collusion rebuttal.",
       "related_artifacts": [],
       "related_claims": [
@@ -2019,14 +2042,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10663",
-      "ref": "N-10663",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10605",
+      "ref": "N-10605",
       "name": "Mikey McCoy Witness Reliability Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mikey McCoy Witness Reliability Question; account comes from Kolvet not McCoy.",
       "related_artifacts": [],
       "related_claims": [
@@ -2036,14 +2060,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Frank Turek CPR Claim Verification; Turek's stated preparation.",
       "related_artifacts": [],
       "related_claims": [
@@ -2053,14 +2078,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11071",
-      "ref": "N-11071",
+      "@type": "Topic",
+      "@id": "N-10989",
+      "ref": "N-10989",
       "name": "Hitler Remark Clip Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Hitler Remark Clip Dispute; the host's account of the 2019 clip.",
       "related_artifacts": [],
       "related_claims": [
@@ -2074,14 +2101,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11103",
-      "ref": "N-11103",
+      "@type": "Organization",
+      "@id": "N-11021",
+      "ref": "N-11021",
       "name": "TikTok",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "TikTok; the buyer-group remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -2091,14 +2119,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11117",
-      "ref": "N-11117",
+      "@type": "Topic",
+      "@id": "N-11035",
+      "ref": "N-11035",
       "name": "Kanye Condemnation Pressure and Contract Cut",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Kanye Condemnation Pressure and Contract Cut; the October 2018 statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -2111,7 +2141,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -2184,8 +2215,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11322",
-      "ref": "N-11322",
+      "@id": "N-11238",
+      "ref": "N-11238",
       "name": "Blexit",
       "type": "organization",
       "description": "Movement the host launched, whose logo she says Kanye West helped design.",
@@ -2200,12 +2231,14 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11323",
-      "ref": "N-11323",
+      "@id": "N-11239",
+      "ref": "N-11239",
       "name": "Simon Wiesenthal Center",
       "type": "organization",
       "description": "Jewish human-rights organization that the host says issued a statement against her 2019 comments and that she visited with PragerU's CEO.",
@@ -2219,12 +2252,14 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "organization",
       "description": "Media company where the host worked after PragerU; the host says its president was a naval intelligence officer.",
@@ -2236,12 +2271,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
-      "@id": "N-11324",
-      "ref": "N-11324",
+      "@id": "N-11240",
+      "ref": "N-11240",
       "name": "Raytheon",
       "type": "organization",
       "description": "Defense contractor, transcribed \"Raytheon\", that the host says everyone is somehow attached to.",
@@ -2253,12 +2290,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11218",
-      "ref": "N-11218",
+      "@id": "N-11134",
+      "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
       "type": "organization",
       "description": "Hospital to which the host says Charlie Kirk was routed after the shooting (transcribed \"Timpanogos\").",
@@ -2272,12 +2311,14 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
       "@type": "Organization",
-      "@id": "N-11325",
-      "ref": "N-11325",
+      "@id": "N-11241",
+      "ref": "N-11241",
       "name": "Utah Valley Hospital",
       "type": "organization",
       "description": "Hospital the host says held an alleged Charlie Kirk medical file and which she says was closer to the event than Timpanogos.",
@@ -2295,12 +2336,14 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
       "@type": "Organization",
-      "@id": "N-11326",
-      "ref": "N-11326",
+      "@id": "N-11242",
+      "ref": "N-11242",
       "name": "Breitbart News",
       "type": "organization",
       "description": "Media outlet run by Alex Marlow, guest on the Charlie Kirk Show in the clip played by the host.",
@@ -2312,7 +2355,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -2560,7 +2605,7 @@
         "A-1278.1"
       ],
       "related_nodes": [
-        "N-10196"
+        "N-10188"
       ],
       "tags": [],
       "claim_timestamp": "00:34:15",
@@ -2580,7 +2625,7 @@
         "A-1278.1"
       ],
       "related_nodes": [
-        "N-10196"
+        "N-10188"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:35:00",
@@ -2600,7 +2645,7 @@
         "A-1282.1"
       ],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [],
       "claim_timestamp": "00:23:30–00:24:30",
@@ -2622,7 +2667,7 @@
         "A-1279.1"
       ],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [],
       "claim_timestamp": "00:24:50",
@@ -2788,7 +2833,7 @@
       "claim": "The host says Charlie Kirk told her he had dreams throughout his entire life that he was going to die in a really tragic, quick way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:core"
@@ -2809,7 +2854,7 @@
       "claim": "The host says that in April 2018, in the weeks before Kanye West's tweet, Charlie Kirk was having vivid dreams that something big was about to happen.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:context"
@@ -2872,7 +2917,7 @@
         "A-1270.1"
       ],
       "related_nodes": [
-        "N-11322"
+        "N-11238"
       ],
       "tags": [
         "relevance:context"
@@ -2916,7 +2961,7 @@
         "A-3188.1"
       ],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:context"
@@ -3038,7 +3083,7 @@
       "claim": "The host says David Horowitz is the father, or stepfather, of the Andreessen Horowitz figure whom she says Benjamin Netanyahu is insisting be part of the group that buys TikTok, because they think it important for psychological warfare in the future.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103"
+        "N-11021"
       ],
       "tags": [
         "relevance:context"
@@ -3162,7 +3207,7 @@
       "claim": "The host says Kanye West had a team of people telling him he was not allowed to be involved in politics, which made him angrier.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11117"
+        "N-11035"
       ],
       "tags": [
         "relevance:context"
@@ -3222,7 +3267,7 @@
       "claim": "The host says she got a spiritual pull to go to the UK although she and Charlie had no business there and no reason to go.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10118"
+        "N-10114"
       ],
       "tags": [
         "relevance:context"
@@ -3243,8 +3288,8 @@
       "claim": "The host says that in October 2018, after Kanye helped her start designing the Blexit logo, the pressure on him became too great and he was told he would lose everything, including his marriage, if he did not abstain from politics.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11322",
-        "N-11117"
+        "N-11238",
+        "N-11035"
       ],
       "tags": [
         "relevance:context"
@@ -3267,8 +3312,8 @@
         "A-3190.1"
       ],
       "related_nodes": [
-        "N-11322",
-        "N-11117"
+        "N-11238",
+        "N-11035"
       ],
       "tags": [
         "relevance:context"
@@ -3291,7 +3336,7 @@
         "A-3190.1"
       ],
       "related_nodes": [
-        "N-11117"
+        "N-11035"
       ],
       "tags": [
         "relevance:context"
@@ -3314,7 +3359,7 @@
         "A-3191.1"
       ],
       "related_nodes": [
-        "N-11322"
+        "N-11238"
       ],
       "tags": [
         "relevance:context"
@@ -3360,7 +3405,7 @@
       "claim": "The host says she met her husband in December at the UK event and that she convinced Charlie, took his credit card and booked the flights.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10118"
+        "N-10114"
       ],
       "tags": [
         "relevance:tangential"
@@ -3382,7 +3427,7 @@
       "claim": "The host says that about two months after the UK event, in February, someone she believes was at BuzzFeed cut a clip from the Q and A portion of that event and stripped out the question that had been asked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11071"
+        "N-10989"
       ],
       "tags": [
         "relevance:context"
@@ -3404,7 +3449,7 @@
         "A-1274.1"
       ],
       "related_nodes": [
-        "N-11071"
+        "N-10989"
       ],
       "tags": [
         "relevance:context"
@@ -3424,7 +3469,7 @@
       "claim": "The host says she knows the online campaigns over the Hitler clip were inorganic and that what happened was a hit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11071"
+        "N-10989"
       ],
       "tags": [
         "relevance:context"
@@ -3446,7 +3491,7 @@
         "A-1274.1"
       ],
       "related_nodes": [
-        "N-11071"
+        "N-10989"
       ],
       "tags": [
         "relevance:context"
@@ -3468,7 +3513,7 @@
         "A-3192.1"
       ],
       "related_nodes": [
-        "N-11323"
+        "N-11239"
       ],
       "tags": [
         "relevance:context"
@@ -3488,7 +3533,7 @@
       "claim": "The host says the campaign aimed to put pressure on Charlie so donors would tell him she was supporting Hitler, while she would be found broken and scared.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11071"
+        "N-10989"
       ],
       "tags": [
         "relevance:context"
@@ -3509,7 +3554,7 @@
       "claim": "The host says that despite the controversy the hand that came out to her was PragerU, which offered her a job in early 2019.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -3529,7 +3574,7 @@
       "claim": "The host says PragerU CEO Marissa Streit has never shied from telling people she worked intelligence in the IDF in Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -3550,8 +3595,8 @@
       "claim": "The host says one of the first things that happened after she joined PragerU was that Marissa took her to the Simon Wiesenthal Center.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11323",
-        "N-10131"
+        "N-11239",
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -3572,7 +3617,7 @@
       "claim": "The host says there was a chief-rabbi-looking character at the Wiesenthal Center who spoke in Hebrew with Marissa, that she did not understand a word, and that afterwards her reputation was temporarily restored.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11323"
+        "N-11239"
       ],
       "tags": [
         "relevance:context"
@@ -3615,7 +3660,7 @@
         "A-1282.1"
       ],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:context"
@@ -3638,7 +3683,7 @@
         "A-1282.1"
       ],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:context"
@@ -3659,7 +3704,7 @@
       "claim": "The host says she did not know about the military ties in Kolvet's family, does not think Charlie knew, and certainly not when Tyler brought him or when he was hired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:context"
@@ -3684,7 +3729,7 @@
         "A-1282.1"
       ],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:context"
@@ -3705,8 +3750,8 @@
       "claim": "The host says the president of the Daily Wire at the time she went there was a naval intelligence officer who decided to become a pastor, whom she names as John Lewis.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10197"
+        "N-10821",
+        "N-10189"
       ],
       "tags": [
         "relevance:context"
@@ -3727,7 +3772,7 @@
       "claim": "The host says that both of MrBeast's parents are high up in the military.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:tangential"
@@ -3847,7 +3892,7 @@
       "claim": "The host says that when you look, everyone is somehow attached to Raytheon, naming MrBeast among them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11324"
+        "N-11240"
       ],
       "tags": [
         "relevance:tangential"
@@ -3868,7 +3913,7 @@
       "claim": "The host says she thinks we can all acknowledge that the public was lied to about the .30-06 (the \"306\").",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10660"
+        "N-10602"
       ],
       "tags": [
         "relevance:core"
@@ -3888,8 +3933,8 @@
       "claim": "The host says she knows for a fact that Charlie's neck was not destroyed and says that if she is lying she can be sued for defamation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10660",
-        "N-10447"
+        "N-10602",
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -3912,7 +3957,7 @@
         "A-3193.1"
       ],
       "related_nodes": [
-        "N-10341"
+        "N-10319"
       ],
       "tags": [
         "relevance:core"
@@ -3953,7 +3998,7 @@
       "claim": "The host says Dr. Lee Trotter completed a residency at the Keesler Air Force Medical Center in Mississippi.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:core"
@@ -3974,7 +4019,7 @@
       "claim": "The host says that, although she cannot confirm it, there is a person who matches Trotter's name, age and description living where he lives who is in the Air Force and for a fact a pilot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:core"
@@ -3995,7 +4040,7 @@
       "claim": "The host says that in a dream Charlie told her she should look into the medical examiner, Dr. Deirdre Amaro.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10183"
+        "N-10175"
       ],
       "tags": [
         "relevance:context"
@@ -4017,8 +4062,8 @@
       "claim": "The host says the medical examiner, Dr. Deirdre Amaro, is a major in the Army and is also from a major corporation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10183",
-        "N-10197"
+        "N-10175",
+        "N-10189"
       ],
       "tags": [
         "relevance:core"
@@ -4058,7 +4103,7 @@
       "claim": "The host says she thinks the military-industrial complex that Eisenhower warned of shot JFK to maintain power and has created a veneer of reality for the public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:tangential"
@@ -4079,7 +4124,7 @@
       "claim": "The host says she thinks some military-grade actors were present when Charlie was shot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:core"
@@ -4118,7 +4163,7 @@
       "claim": "The host says there are too many military players surrounding Charlie and that they were not there before 2018, appearing only after forces tried to pull her and Charlie apart.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:context"
@@ -4139,9 +4184,9 @@
       "claim": "The host says Timpanogos was a level three trauma center when the closer one was Utah Valley.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10149",
-        "N-11218",
-        "N-11325"
+        "N-10144",
+        "N-11134",
+        "N-11241"
       ],
       "tags": [
         "relevance:core"
@@ -4161,7 +4206,7 @@
       "claim": "The host says they never really understood why the ambulance was not present at the event when it was required by law.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10149"
+        "N-10144"
       ],
       "tags": [
         "relevance:core"
@@ -4181,8 +4226,8 @@
       "claim": "The host says there is no footage or other indication of the drive to, or the arrival at, Timpanogos Hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10149",
-        "N-11218"
+        "N-10144",
+        "N-11134"
       ],
       "tags": [
         "relevance:core"
@@ -4202,8 +4247,8 @@
       "claim": "The host says a tipster told her they were downstairs at UVU when Charlie was brought in and that he was definitely at that hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10196",
-        "N-11325"
+        "N-10188",
+        "N-11241"
       ],
       "tags": [
         "relevance:core"
@@ -4224,8 +4269,8 @@
       "claim": "The host says another tipster, receiving treatment at the hospital, told her someone came in and announced that Charlie had just died upstairs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10196",
-        "N-11325"
+        "N-10188",
+        "N-11241"
       ],
       "tags": [
         "relevance:core"
@@ -4246,8 +4291,8 @@
       "claim": "The host says she received an email from someone in the medical staff at UVU saying they are certain Charlie was there and that they have a medical file.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10196",
-        "N-11325"
+        "N-10188",
+        "N-11241"
       ],
       "tags": [
         "relevance:core"
@@ -4273,8 +4318,8 @@
         "A-3194.1"
       ],
       "related_nodes": [
-        "N-10196",
-        "N-11325"
+        "N-10188",
+        "N-11241"
       ],
       "tags": [
         "relevance:core"
@@ -4298,7 +4343,7 @@
       "claim": "The host says she has heard that Dr. Lee Trotter works at both hospitals, going back and forth, which could explain a file at the second.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10196"
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -4321,7 +4366,7 @@
         "A-3195.1"
       ],
       "related_nodes": [
-        "N-10196"
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -4341,8 +4386,8 @@
       "claim": "The host says she misspoke earlier and meant Utah Valley Hospital, not the university, as the location of the file.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10196",
-        "N-11325"
+        "N-10188",
+        "N-11241"
       ],
       "tags": [
         "relevance:core"
@@ -4365,9 +4410,9 @@
       "claim": "The host says that some people she confirmed with told her the two hospitals' systems do not speak to each other.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10196",
-        "N-11218",
-        "N-11325"
+        "N-10188",
+        "N-11134",
+        "N-11241"
       ],
       "tags": [
         "relevance:core"
@@ -4389,7 +4434,7 @@
         "A-1275.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:context"
@@ -4411,7 +4456,7 @@
       "claim": "The host says the TPUSA response was to the Mikey McCoy video going viral and to people who discovered it over the weekend, such as James Lee, Ian Carroll and Sam Parker.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -4435,7 +4480,7 @@
       "claim": "The host says it tracks that Mikey would take videos behind the scenes, for instance when Charlie first comes out and throws hats, and that this is a thing at Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:context"
@@ -4478,7 +4523,7 @@
         "A-3196.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -4505,7 +4550,7 @@
         "A-3196.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -4529,7 +4574,7 @@
         "A-3196.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -4555,7 +4600,7 @@
         "A-3196.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -4578,7 +4623,7 @@
         "A-1275.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -4605,7 +4650,7 @@
         "A-1275.1"
       ],
       "related_nodes": [
-        "N-10663"
+        "N-10605"
       ],
       "tags": [
         "relevance:core"
@@ -4627,7 +4672,7 @@
       "claim": "The host says that, when accused of colluding with the team of Justin Baldoni in the Blake Lively lawsuit, she live-subpoenaed herself, held up her phone, searched Blake Lively and showed the only two times she had texted about her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -4651,7 +4696,7 @@
         "A-1276.1"
       ],
       "related_nodes": [
-        "N-11326"
+        "N-11242"
       ],
       "tags": [
         "relevance:context"
@@ -4672,7 +4717,7 @@
       "claim": "The host says it seems weird that Susie Wiles was the one to eulogize Charlie, noting that his parents are quite private people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10199"
+        "N-10191"
       ],
       "tags": [
         "relevance:core"
@@ -4696,7 +4741,7 @@
         "A-1277.1"
       ],
       "related_nodes": [
-        "N-10687"
+        "N-10625"
       ],
       "tags": [
         "relevance:core"
@@ -4717,8 +4762,8 @@
       "claim": "The host says it seems to her that there has been a military infiltration into the churches, which she has termed Operation Mocking Pastor, where they just try to find some scripture and justify it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139",
-        "N-10210"
+        "N-10134",
+        "N-10202"
       ],
       "tags": [
         "relevance:context"
@@ -4775,7 +4820,7 @@
       "claim": "The host says she will feel Charlie is honored when it is figured out who killed him, because she is not buying the lone-shooter account.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10112"
+        "N-10108"
       ],
       "tags": [
         "relevance:core"
@@ -4938,7 +4983,7 @@
         "A-1280.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"
@@ -4959,7 +5004,7 @@
       "claim": "The host alleges that Brigitte Macron got away with offending Emmanuel Macron when he was 14 years old, calling it a sexual offense; this is the host's allegation and Macron disputes the host's claims about her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"
@@ -4981,7 +5026,7 @@
       "claim": "The host says that Brigitte Macron is not suing her over the claim that she was born male, but over the claim that she stole her sister's identity to transition.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"
@@ -5002,7 +5047,7 @@
       "claim": "The host says Brigitte Macron has never offered genetic evidence in the case because the hearing has not got to that stage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"
@@ -5023,7 +5068,7 @@
       "claim": "The host says Brigitte Macron's lawsuit against her has not got to any stage, with the back and forth of changing filings all very preliminary.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"
@@ -5118,7 +5163,7 @@
       "claim": "The host says she holds no hope that the Trump administration will deliver justice, and that Trump inviting Kash Patel to the Charlie holiday event is proof to her that he wants the case buried.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -5159,7 +5204,7 @@
       "claim": "The host says Miriam Adelson gave Trump $100 million and was explicit that it meant he would allow them to annex not Gaza but the West Bank.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10589"
+        "N-10537"
       ],
       "tags": [
         "relevance:context"
@@ -5181,7 +5226,7 @@
       "claim": "The host says Trump pre-agreed to the annexation and is going to make it on his pre-agreement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10589"
+        "N-10537"
       ],
       "tags": [
         "relevance:context"
@@ -5202,7 +5247,7 @@
       "claim": "The host says she hates that Charlie was right about his life, in context of everything she and Charlie had discussed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:context"

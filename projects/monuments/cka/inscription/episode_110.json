@@ -37,9 +37,9 @@
             "C-9643"
           ],
           "related_nodes": [
-            "N-10668",
-            "N-10669",
-            "N-10670",
+            "N-10608",
+            "N-10609",
+            "N-10610",
             "N-28"
           ],
           "tags": [],
@@ -65,11 +65,11 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-10671",
-            "N-10672",
-            "N-10673",
-            "N-10674",
-            "N-10675"
+            "N-10611",
+            "N-10612",
+            "N-10129",
+            "N-10613",
+            "N-10614"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -101,8 +101,8 @@
             "C-9634"
           ],
           "related_nodes": [
-            "N-10669",
-            "N-10670"
+            "N-10609",
+            "N-10610"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -129,7 +129,7 @@
             "C-9639"
           ],
           "related_nodes": [
-            "N-10670"
+            "N-10610"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -159,8 +159,8 @@
             "C-9623"
           ],
           "related_nodes": [
-            "N-10141",
-            "N-10668"
+            "N-10136",
+            "N-10608"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-9635"
           ],
           "related_nodes": [
-            "N-10671"
+            "N-10611"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
           "description": "Local media article about Nebraska–Egypt trade and investment trip",
           "related_claims": [],
           "related_nodes": [
-            "N-10672"
+            "N-10612"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -289,7 +289,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10675"
+            "N-10614"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -453,11 +453,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10668",
-      "ref": "N-10668",
+      "@type": "Topic",
+      "@id": "N-10608",
+      "ref": "N-10608",
       "name": "Boston Consulting Group Government Pipeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansell, Romney, and (per host) Netanyahu; raises questions about consulting client identity (\"who are they consulting for?\").",
       "related_artifacts": [
         "A-2076.1",
@@ -473,14 +473,15 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10669",
-      "ref": "N-10669",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10609",
+      "ref": "N-10609",
       "name": "Project Aurora Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: BCG consulting contract with GHF; relocation models for Palestinians; total $2.5–5B; two dismissed partners; CEO statement.",
       "related_artifacts": [
         "A-2077.1"
@@ -498,14 +499,16 @@
       "evidence_count": 1,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10608"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10670",
-      "ref": "N-10670",
+      "@type": "Topic",
+      "@id": "N-10610",
+      "ref": "N-10610",
       "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigation target: BCG built the foundation's logistics; Johnnie Moore replaced Jake Wood as chairman after BCG withdrawal; foundation operates US/Israel-backed food distribution sites characterized by host as \"killing fields\"; Phil Reilly / Orbis / Tachlith Institute connection.",
       "related_artifacts": [
         "A-2076.1",
@@ -525,14 +528,15 @@
       "evidence_count": 4,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10671",
-      "ref": "N-10671",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10611",
+      "ref": "N-10611",
       "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: identity of VIPs aboard Air Force SAM702 departing Fort Huachuca for El Paso on morning of September 9, 2025; host names Bradley Hansell; Palantir $10B stationing; Brian Harpole alleged presence.",
       "related_artifacts": [
         "A-2076.2",
@@ -547,15 +551,17 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10141"
-      ]
+        "N-10136"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10672",
-      "ref": "N-10672",
+      "@type": "Topic",
+      "@id": "N-10612",
+      "ref": "N-10612",
       "name": "Egyptian Military Aircraft Shuttle Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigation target: recurring transponder-off patterns on Egyptian planes (e.g., SUBTU/SUBTV) shuttling from Cairo via Paris to US destinations, coinciding with Israeli military inflection points (October 7, 2023; Operation True Promise April 2024; June 2025 Provo appearance; Wilmington on assassination day).",
       "related_artifacts": [
         "A-2076.2",
@@ -566,14 +572,16 @@
       "evidence_count": 2,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10673",
-      "ref": "N-10673",
-      "name": "Hamptons August 5–7 Intervention Event",
-      "type": "investigation_target",
+      "@type": "Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
+      "name": "Hamptons Weekend Retreat",
+      "type": "event",
       "description": "Persistent investigation target: per host, weekend intervention where Charlie Kirk was pressured regarding Israel; followed by Megyn Kelly podcast appearance where Kirk expressed upset about being called anti-Semitic.",
       "related_artifacts": [
         "A-2076.2"
@@ -583,14 +591,18 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10674",
-      "ref": "N-10674",
+      "@type": "Event",
+      "@id": "N-10613",
+      "ref": "N-10613",
       "name": "June 18 White House Meeting on Iran Involvement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Persistent investigation target: per host (confirmed by Bret Weinstein), Charlie Kirk entered White House to argue against US involvement in Israel's Iran war against Zionist lobbyists; emerged as temporary winner; Trump moved to limit involvement.",
       "related_artifacts": [
         "A-2076.2"
@@ -603,14 +615,18 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-14"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-18",
+      "place": "N-10072"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10675",
-      "ref": "N-10675",
+      "@type": "Topic",
+      "@id": "N-10614",
+      "ref": "N-10614",
       "name": "Turning Point UVU Event Submission Chain",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigation target: July 18, 2025 TPUSA submission for Charlie Kirk UVU event; host asserts this is unusually late in the tour cycle and has not been independently confirmed; submitting student requestor unknown.",
       "related_artifacts": [
         "A-2084.1"
@@ -622,7 +638,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1222,11 +1239,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1236,14 +1253,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1254,32 +1273,34 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
+      "@id": "N-10113",
+      "ref": "N-10113",
+      "name": "Jezebel/Etsy Hex on Charlie Kirk",
+      "type": "topic",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9654",
+        "C-9655"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Organization",
       "@id": "N-10117",
       "ref": "N-10117",
-      "name": "Jezebel/Etsy Hex on Charlie Kirk",
-      "type": "investigation_target",
-      "description": "Existing node reused in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-9654",
-        "C-9655"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10122",
-      "ref": "N-10122",
       "name": "Jezebel",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1290,14 +1311,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10123",
-      "ref": "N-10123",
+      "@type": "Organization",
+      "@id": "N-10118",
+      "ref": "N-10118",
       "name": "Etsy",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1307,14 +1330,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10220",
-      "ref": "N-10220",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10210",
+      "ref": "N-10210",
       "name": "Rob McCoy Relocation and Timing Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1324,14 +1349,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10264",
-      "ref": "N-10264",
+      "@type": "Topic",
+      "@id": "N-10248",
+      "ref": "N-10248",
       "name": "Calvary Chapel Pro-Israel Coordination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1341,14 +1367,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10276",
-      "ref": "N-10276",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10259",
+      "ref": "N-10259",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1359,14 +1386,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10310",
-      "ref": "N-10310",
+      "@type": "Event",
+      "@id": "N-10292",
+      "ref": "N-10292",
       "name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1377,14 +1406,19 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-05-27",
+      "place": "N-10071",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10334",
-      "ref": "N-10334",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10313",
+      "ref": "N-10313",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1394,14 +1428,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10347",
-      "ref": "N-10347",
+      "@type": "Topic",
+      "@id": "N-10325",
+      "ref": "N-10325",
       "name": "Egyptian Planes Israel Flight Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1412,14 +1447,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1429,14 +1466,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10370",
-      "ref": "N-10370",
-      "name": "Fort Huachuca Morning Meeting Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10305",
+      "ref": "N-10305",
+      "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1446,14 +1485,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1463,14 +1504,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10378",
-      "ref": "N-10378",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10351",
+      "ref": "N-10351",
       "name": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1480,14 +1523,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@type": "Topic",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1498,14 +1542,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10571",
-      "ref": "N-10571",
+      "@type": "Event",
+      "@id": "N-10522",
+      "ref": "N-10522",
       "name": "July 14, 2025 Long Beach Flight",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1515,14 +1561,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-14"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10575",
-      "ref": "N-10575",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10526",
+      "ref": "N-10526",
       "name": "BYU Jerusalem CIA Recruitment Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1532,14 +1581,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10525"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10652",
-      "ref": "N-10652",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10594",
+      "ref": "N-10594",
       "name": "Dhillon Law Group / Show Faith by Works Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1549,14 +1600,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10593"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10653",
-      "ref": "N-10653",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10595",
+      "ref": "N-10595",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1568,14 +1621,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1586,14 +1640,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10722",
-      "ref": "N-10722",
+      "@type": "Topic",
+      "@id": "N-10657",
+      "ref": "N-10657",
       "name": "Clock Tower X / Israeli Influence Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1603,14 +1658,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10870",
-      "ref": "N-10870",
+      "@type": "Thing",
+      "@id": "N-10791",
+      "ref": "N-10791",
       "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1620,14 +1676,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10901",
-      "ref": "N-10901",
+      "@type": "Organization",
+      "@id": "N-10822",
+      "ref": "N-10822",
       "name": "Havas Media",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1637,14 +1694,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10910",
-      "ref": "N-10910",
+      "@type": "Organization",
+      "@id": "N-10831",
+      "ref": "N-10831",
       "name": "Dhillon Law Group",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1655,14 +1714,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q613142"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11079",
-      "ref": "N-11079",
+      "@type": "Event",
+      "@id": "N-10997",
+      "ref": "N-10997",
       "name": "Operation Midnight Hammer",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1672,14 +1733,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q645883",
+      "event_time": "2025-06-22"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11123",
-      "ref": "N-11123",
+      "@type": "Organization",
+      "@id": "N-11041",
+      "ref": "N-11041",
       "name": "Northrop Grumman",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1689,14 +1753,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11324",
-      "ref": "N-11324",
+      "@type": "Organization",
+      "@id": "N-11240",
+      "ref": "N-11240",
       "name": "Raytheon",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1706,14 +1772,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11400",
-      "ref": "N-11400",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11316",
+      "ref": "N-11316",
       "name": "Charlie Kirk Show Episode Removal Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's allegation that Turning Point removed episodes, tweets and Q&As from the Charlie Kirk Show beginning November 3, 2025, and that TPUSA denied it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1728,14 +1796,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-11216"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11401",
-      "ref": "N-11401",
+      "@type": "Event",
+      "@id": "N-11317",
+      "ref": "N-11317",
       "name": "Netanyahu 2025 American Podcast Tour",
-      "type": "topic",
+      "type": "event",
       "description": "The host's account of Netanyahu's summer 2025 run of American podcast interviews in the run-up to the assassination, after Kirk refused to host him.",
       "related_artifacts": [],
       "related_claims": [
@@ -1748,7 +1818,10 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025"
     }
   ],
   "claims": [
@@ -1762,7 +1835,7 @@
         "A-2079.1"
       ],
       "related_nodes": [
-        "N-10668"
+        "N-10608"
       ],
       "tags": [],
       "claim_timestamp": "00:13:30",
@@ -1816,7 +1889,7 @@
         "A-2079.1"
       ],
       "related_nodes": [
-        "N-10668"
+        "N-10608"
       ],
       "tags": [],
       "claim_timestamp": "00:14:20",
@@ -1836,7 +1909,7 @@
         "A-2079.1"
       ],
       "related_nodes": [
-        "N-10668"
+        "N-10608"
       ],
       "tags": [],
       "claim_timestamp": "00:14:10",
@@ -1855,8 +1928,8 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669",
-        "N-10670"
+        "N-10609",
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:16:03",
@@ -1873,7 +1946,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669"
+        "N-10609"
       ],
       "tags": [],
       "claim_timestamp": "00:16:20",
@@ -1891,7 +1964,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669"
+        "N-10609"
       ],
       "tags": [],
       "claim_timestamp": "00:16:50",
@@ -1908,7 +1981,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669"
+        "N-10609"
       ],
       "tags": [],
       "claim_timestamp": "00:17:00",
@@ -1925,7 +1998,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669"
+        "N-10609"
       ],
       "tags": [],
       "claim_timestamp": "00:17:10",
@@ -1942,7 +2015,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669"
+        "N-10609"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
@@ -1958,7 +2031,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669"
+        "N-10609"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
@@ -1978,7 +2051,7 @@
         "A-2078.1"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:20:30",
@@ -1997,7 +2070,7 @@
         "A-2078.1"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:20:40",
@@ -2014,7 +2087,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:19:05",
@@ -2030,7 +2103,7 @@
         "A-2080.1"
       ],
       "related_nodes": [
-        "N-10671"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:34:20",
@@ -2099,7 +2172,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10674"
+        "N-10613"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
@@ -2119,7 +2192,7 @@
         "A-2084.1"
       ],
       "related_nodes": [
-        "N-10675"
+        "N-10614"
       ],
       "tags": [],
       "claim_timestamp": "00:31:50",
@@ -2138,7 +2211,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-10668"
+        "N-10608"
       ],
       "tags": [],
       "claim_timestamp": "00:10:30",
@@ -2158,7 +2231,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-10668"
+        "N-10608"
       ],
       "tags": [],
       "claim_timestamp": "00:10:30",
@@ -2179,7 +2252,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
@@ -2195,7 +2268,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
@@ -2212,7 +2285,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
@@ -2244,7 +2317,7 @@
       "claim": "The host says her team has identified a high ranking US government official in this administration who was aboard the plane that left Fort Huachuca on the morning of September 9, and that this will not put conspiracy theories about Charlie Kirk's death to bed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10671"
+        "N-10611"
       ],
       "tags": [
         "relevance:core"
@@ -2265,7 +2338,7 @@
       "claim": "The host says that in July 2025, while Benjamin Netanyahu was doing American podcasts, he asked to be on Charlie Kirk's show and Charlie refused him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10456"
+        "N-10425"
       ],
       "tags": [
         "relevance:core"
@@ -2291,7 +2364,7 @@
         "A-3337.1"
       ],
       "related_nodes": [
-        "N-11401"
+        "N-11317"
       ],
       "tags": [
         "relevance:context"
@@ -2317,7 +2390,7 @@
       "claim": "The host says that Netanyahu, amid a war, is effectively on an American public relations tour in the run-up to Charlie Kirk's assassination, which she calls abnormal for a sitting prime minister.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11401"
+        "N-11317"
       ],
       "tags": [
         "relevance:context"
@@ -2338,7 +2411,7 @@
       "claim": "The host says Netanyahu had not sat down with an American podcaster in years before this tour, since Lex Fridman in 2023, and that he made Fridman fly to his office in Israel for that interview.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11401"
+        "N-11317"
       ],
       "tags": [
         "relevance:context"
@@ -2358,7 +2431,7 @@
       "claim": "The host says Netanyahu's last comparable American press tour was in 2022, when he was not the sitting prime minister and was promoting his book, whereas in 2025 he had no product to sell.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11401"
+        "N-11317"
       ],
       "tags": [
         "relevance:context"
@@ -2378,8 +2451,8 @@
       "claim": "The host says the answer to why Charlie Kirk refused to host Netanyahu is that Charlie had a change of heart about Israel, and that the Hamptons intervention the weekend of August 5 furthered his resentment of their strong-arming influence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10456",
-        "N-10673",
+        "N-10425",
+        "N-10129",
         "N-10027"
       ],
       "tags": [
@@ -2401,8 +2474,8 @@
       "claim": "The host says the Egyptian planes she tracks tend to turn off their transponders on short trips from Cairo of about an hour and a half and then return to Cairo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10672",
-        "N-10347"
+        "N-10612",
+        "N-10325"
       ],
       "tags": [
         "relevance:core"
@@ -2422,8 +2495,8 @@
       "claim": "The host says when she calculates the distance these planes could cover in the time allotted, she keeps coming up with either Israel or Jordan.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10672",
-        "N-10347"
+        "N-10612",
+        "N-10325"
       ],
       "tags": [
         "relevance:core"
@@ -2443,7 +2516,7 @@
       "claim": "The host says the Egyptian plane SUBTU left Cairo at 8:50 a.m. on October 7, 2023, shortly after the attacks began.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10672"
+        "N-10612"
       ],
       "tags": [
         "relevance:core"
@@ -2463,7 +2536,7 @@
       "claim": "The host says that same plane flew from Cairo to Paris, then from Paris to St. Louis, Missouri, where it stayed for five days.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10672"
+        "N-10612"
       ],
       "tags": [
         "relevance:core"
@@ -2483,7 +2556,7 @@
       "claim": "The host says that on April 14, 2024 (Operation True Promise, which she describes as Iran and Hezbollah bombing Israel in retaliation for the Damascus embassy strike), the same Egyptian plane flew from Cairo to Paris and stayed six days.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10672"
+        "N-10612"
       ],
       "tags": [
         "relevance:core"
@@ -2522,7 +2595,7 @@
       "claim": "The host says Mitt Romney's presidential campaign team went to BYU Jerusalem, where she says many CIA agents are recruited while studying, and that she has confirmed this.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10575"
+        "N-10526"
       ],
       "tags": [
         "relevance:context"
@@ -2542,7 +2615,7 @@
       "claim": "The host says an Air Force plane is given the call-sign designation SAM when it is carrying a VIP such as the president, vice president, cabinet members, commanders, Congress members, other high ranking officials or foreign dignitaries.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10671"
+        "N-10611"
       ],
       "tags": [
         "relevance:context"
@@ -2562,8 +2635,8 @@
       "claim": "The host says her team found a man who thinks he saw Brian Harpole walking out of a meeting at Fort Huachuca, and that Harpole has been extremely reticent to say yes or no on whether he was there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373",
-        "N-10367"
+        "N-10347",
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -2584,7 +2657,7 @@
       "claim": "The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that \"they're going to take you down\" and would platform Mitch's baby mamas.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ],
       "tags": [
         "relevance:context"
@@ -2605,8 +2678,8 @@
       "claim": "The host says her team looked for who left Fort Huachuca for El Paso, Texas in a time frame that would fit the alleged morning meeting on September 9.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10671",
-        "N-10370"
+        "N-10611",
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2628,7 +2701,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-10671"
+        "N-10611"
       ],
       "tags": [
         "relevance:core"
@@ -2650,8 +2723,8 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10668",
-        "N-10669"
+        "N-10608",
+        "N-10609"
       ],
       "tags": [
         "relevance:context"
@@ -2673,7 +2746,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669"
+        "N-10609"
       ],
       "tags": [
         "relevance:context"
@@ -2692,7 +2765,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669"
+        "N-10609"
       ],
       "tags": [
         "relevance:context"
@@ -2709,7 +2782,7 @@
       "claim": "The host says it was discovered that the Gaza Humanitarian Foundation distribution sites were effectively killing fields, with videos showing the IDF firing on starving Palestinians.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [
         "relevance:context"
@@ -2728,7 +2801,7 @@
         "A-2078.1"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [
         "relevance:core"
@@ -2749,7 +2822,7 @@
       "claim": "The host says Johnnie Moore eventually abandoned the Gaza Humanitarian Foundation project in November (2025).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [
         "relevance:context"
@@ -2771,7 +2844,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [
         "relevance:context"
@@ -2790,7 +2863,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10310"
+        "N-10292"
       ],
       "tags": [
         "relevance:core"
@@ -2812,7 +2885,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10310"
+        "N-10292"
       ],
       "tags": [
         "relevance:core"
@@ -2835,7 +2908,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [
         "relevance:context"
@@ -2857,9 +2930,9 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10671",
-        "N-11324",
-        "N-11123"
+        "N-10611",
+        "N-11240",
+        "N-11041"
       ],
       "tags": [
         "relevance:context"
@@ -2895,7 +2968,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10674"
+        "N-10613"
       ],
       "tags": [
         "relevance:core"
@@ -2919,7 +2992,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10674"
+        "N-10613"
       ],
       "tags": [
         "relevance:core"
@@ -2941,7 +3014,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-11079"
+        "N-10997"
       ],
       "tags": [
         "relevance:context"
@@ -2960,8 +3033,8 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10122",
-        "N-10117"
+        "N-10117",
+        "N-10113"
       ],
       "tags": [
         "relevance:context"
@@ -2986,9 +3059,9 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10117",
-        "N-10123",
-        "N-10122"
+        "N-10113",
+        "N-10118",
+        "N-10117"
       ],
       "tags": [
         "relevance:core"
@@ -3014,7 +3087,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10220"
+        "N-10210"
       ],
       "tags": [
         "relevance:core"
@@ -3037,7 +3110,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-10669"
+        "N-10609"
       ],
       "tags": [
         "relevance:context"
@@ -3107,7 +3180,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10571"
+        "N-10522"
       ],
       "tags": [
         "relevance:core"
@@ -3146,7 +3219,7 @@
       "claim": "The host says that in the Long Beach speech Erika called the church her Sunday church and gave a remarkably pro-Israel call to arms, which the host found odd while Charlie was under donor pressure and holding the line against Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10264"
+        "N-10248"
       ],
       "tags": [
         "relevance:core"
@@ -3169,7 +3242,7 @@
         "A-2084.1"
       ],
       "related_nodes": [
-        "N-10675",
+        "N-10614",
         "N-10012"
       ],
       "tags": [
@@ -3192,8 +3265,8 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10276",
-        "N-10672"
+        "N-10259",
+        "N-10612"
       ],
       "tags": [
         "relevance:core"
@@ -3262,7 +3335,7 @@
         "A-2083.1"
       ],
       "related_nodes": [
-        "N-10276"
+        "N-10259"
       ],
       "tags": [
         "relevance:core"
@@ -3284,7 +3357,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [
         "relevance:context"
@@ -3303,7 +3376,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10673",
+        "N-10129",
         "N-10027"
       ],
       "tags": [
@@ -3326,7 +3399,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10673"
+        "N-10129"
       ],
       "tags": [
         "relevance:core"
@@ -3349,11 +3422,11 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-10910",
-        "N-10901",
-        "N-10722",
-        "N-10652",
-        "N-10653"
+        "N-10831",
+        "N-10822",
+        "N-10657",
+        "N-10594",
+        "N-10595"
       ],
       "tags": [
         "relevance:context"
@@ -3556,7 +3629,7 @@
         "A-3336.1"
       ],
       "related_nodes": [
-        "N-11400"
+        "N-11316"
       ],
       "tags": [
         "relevance:core"
@@ -3577,8 +3650,8 @@
       "claim": "The host says that just before Erika Kirk told, on Megyn Kelly, the story of Charlie appointing her, Turning Point deleted episodes, and she says the story reverses everything Charlie believed publicly about women staying home with their children and has him becoming a feminist weeks before he died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664",
-        "N-11400"
+        "N-10606",
+        "N-11316"
       ],
       "tags": [
         "relevance:core"
@@ -3602,7 +3675,7 @@
         "A-3336.1"
       ],
       "related_nodes": [
-        "N-11400"
+        "N-11316"
       ],
       "tags": [
         "relevance:core"
@@ -3621,7 +3694,7 @@
         "A-3336.1"
       ],
       "related_nodes": [
-        "N-11400"
+        "N-11316"
       ],
       "tags": [
         "relevance:core"
@@ -3641,7 +3714,7 @@
       "claim": "The host says Turning Point responded that the content is still on Rumble, nothing was deleted, and Apple only allows a hundred episodes at a time, and she says this is a lie because large catalogs like Joe Rogan's are available there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11400"
+        "N-11316"
       ],
       "tags": [
         "relevance:core"
@@ -3658,7 +3731,7 @@
       "claim": "The host says someone once sent her a link to a website that had archived all of Charlie's Q&As, and that she has lost the link.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11400"
+        "N-11316"
       ],
       "tags": [
         "relevance:context"
@@ -3699,7 +3772,7 @@
       "claim": "The host says some people believe Charlie said in a 2022 Q&A that Erika would do a great job, but that it concerned politics and had nothing to do with her taking over as CEO, and that she wants to find that alleged clip.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -3794,7 +3867,7 @@
         "A-3335.2"
       ],
       "related_nodes": [
-        "N-10653"
+        "N-10595"
       ],
       "tags": [
         "relevance:context"
@@ -3813,8 +3886,8 @@
         "A-3335.2"
       ],
       "related_nodes": [
-        "N-10653",
-        "N-10910"
+        "N-10595",
+        "N-10831"
       ],
       "tags": [
         "relevance:context"
@@ -3891,7 +3964,7 @@
         "A-3335.4"
       ],
       "related_nodes": [
-        "N-10334"
+        "N-10313"
       ],
       "tags": [
         "relevance:context"

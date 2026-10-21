@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-790, N-11151, N-11152
-  - Hole-minted Nodes (reintro-ep156): N-10860
+  - Tip-minted Nodes (supplement_2026-10b): N-790, N-11067, N-11068
+  - Hole-minted Nodes (reintro-ep156): N-10781
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13445–C-13517
-  - New Nodes Introduced: N-10851, N-10852, N-10854, N-10855
-  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853, N-5, N-22, N-36, N-46, N-54, N-159, N-188, N-330, N-10000, N-10051, N-10090, N-10168, N-10381, N-10417, N-10541, N-10598, N-10625, N-10811, N-10850, N-10977, N-10980, N-11091
+  - New Nodes Introduced: N-10774, N-10776
+  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10775, N-5, N-22, N-36, N-46, N-54, N-159, N-188, N-330, N-10000, N-10048, N-10086, N-10161, N-10354, N-10390, N-10496, N-10545, N-10571, N-10735, N-10773, N-10898, N-10901, N-11009
   - (see registers)
 
 # Episode 156 Analysis
@@ -76,7 +76,7 @@ Video Timestamp: 00:06:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image); Medium (timestamp interpretation)
 
-*Related: C-13459, C-13469, N-10853*
+*Related: C-13459, C-13469, N-10775*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:10:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13461, C-13462, N-10851, N-10855*
+*Related: C-13461, C-13462, N-10645*
 
 ---
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:12:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (exhaust configuration)
 
-*Related: C-13467, C-13462, N-10851, N-10855*
+*Related: C-13467, C-13462, N-10645*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:18:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (warrant text as read); Medium (host paraphrase)
 
-*Related: C-13476, N-10852*
+*Related: C-13476, N-10774*
 
 **A-2421.2** Continuation of read-aloud warrant excerpt stating Agent Draney (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:18:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (warrant text as read)
 
-*Related: C-13475, C-13476, N-10852*
+*Related: C-13475, C-13476, N-10774*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single-viewer report; requires verification against testimony transcript)
 
-*Related: C-13513, N-10854*
+*Related: C-13513, N-10776*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:10:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single tipster; not corroborated on-air)
 
-*Related: C-13463, N-10855*
+*Related: C-13463, N-10645*
 
 ---
 
@@ -303,7 +303,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10851** Parking Garage Challenger Vehicle Exhaust Discrepancy
+**N-10645** Parking Garage Challenger Vehicle Exhaust Discrepancy
 
 Persistent discrepancy between the dual-exhaust configuration of Tyler Robinson's known towed vehicle (per Fox News) and the quad-exhaust configuration of the Dodge Challenger shown entering the parking garage on September 10.
 
@@ -312,11 +312,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-13461, C-13467, C-13462, A-2419.1, A-2420.1, N-10855*
+*Related: C-13461, C-13467, C-13462, A-2419.1, A-2420.1, N-10645*
 
 ---
 
-**N-10852** Quick Quack Car Wash Footage Release Question
+**N-10774** Quick Quack Car Wash Footage Release Question
 
 Question of why the Quick Quack Car Wash surveillance footage – seized by law enforcement – was never publicly released, including questions of what the footage actually depicts.
 
@@ -329,7 +329,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10853** Dairy Queen Timestamp UTC vs MST Reconciliation
+**N-10775** Dairy Queen Timestamp UTC vs MST Reconciliation
 
 Question of whether the original Dairy Queen surveillance timestamp of 6:38 PM was recorded in UTC (converting to 12:38 PM Mountain) versus Mountain Standard Time, and the implications for the published timeline.
 
@@ -342,7 +342,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10854** Partial License Plate Match Verification Process
+**N-10776** Partial License Plate Match Verification Process
 
 Question raised by a viewer comment that license-plate identification in testimony (Officer Go Forth) relied on partial-plate matches rather than full-plate identification.
 
@@ -352,19 +352,6 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: C-13513, A-2424.1*
-
----
-
-**N-10855** Vehicle Exhaust System Modification Question
-
-Hypothesis raised by host that, if Tyler Robinson's vehicle is the same as the parking-garage Challenger, the prosecution must account for an exhaust-system modification occurring within 33 hours of the incident.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-13462, A-2419.1, A-2420.1, N-10851*
 
 ---
 
@@ -482,7 +469,7 @@ Subject of the interview parodied by Wear Forbidden.
 
 ---
 
-**N-11091** Wear Forbidden
+**N-11009** Wear Forbidden
 
 Creator of the AI parody videos (the transcript says "Wear Forbidden" and "atware forbidden").
 
@@ -498,7 +485,7 @@ Organization the host discusses in connection with lawsuits and her early trust 
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -506,7 +493,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -514,7 +501,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
+**N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
 
 Existing topic reused for new claims in this episode.
 
@@ -522,7 +509,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10850** Two Grey Dodge Challengers Discrepancy
+**N-10773** Two Grey Dodge Challengers Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -530,7 +517,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10090** Screwdriver Evidence Question
+**N-10086** Screwdriver Evidence Question
 
 Existing topic reused for new claims in this episode.
 
@@ -538,7 +525,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10811** Aspect-Ratio Modification Investigation
+**N-10735** Aspect-Ratio Modification Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -546,7 +533,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10625** Probable Cause Hearing Exhibit Count (35 Exhibits)
+**N-10571** Probable Cause Hearing Exhibit Count (35 Exhibits)
 
 Existing topic reused for new claims in this episode.
 
@@ -554,7 +541,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10598** Lance Twiggs Federal Asset Question
+**N-10545** Lance Twiggs Federal Asset Question
 
 Existing topic reused for new claims in this episode.
 
@@ -562,7 +549,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10860** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
+**N-10781** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
 Existing topic reused for the correction about the person near the van.
 
@@ -570,7 +557,7 @@ Existing topic reused for the correction about the person near the van.
 
 ---
 
-**N-10977** September 2024 Lebanon Pager Attack
+**N-10898** September 2024 Lebanon Pager Attack
 
 Existing topic reused for the beeper clip.
 
@@ -578,7 +565,7 @@ Existing topic reused for the beeper clip.
 
 ---
 
-**N-10980** Reuters
+**N-10901** Reuters
 
 News agency whose headline the host reads.
 
@@ -586,7 +573,7 @@ News agency whose headline the host reads.
 
 ---
 
-**N-10541** Strait of Hormuz / US-Iran War Context
+**N-10496** Strait of Hormuz / US-Iran War Context
 
 Existing topic reused for the Iran war remark.
 
@@ -594,7 +581,7 @@ Existing topic reused for the Iran war remark.
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Existing topic reused for the host's remarks on the video and Fort Huachuca.
 
@@ -602,7 +589,7 @@ Existing topic reused for the host's remarks on the video and Fort Huachuca.
 
 ---
 
-**N-11151** Mountain Shadows Shopping Center Sighting
+**N-11067** Mountain Shadows Shopping Center Sighting
 
 Node Type: Place
 Shopping center near Utah Valley University where, per the warrants as the host reads them, Tyler Robinson's vehicle was spotted at 12:44 p.m. and where the route to the Quick Quack car wash began.
@@ -611,9 +598,9 @@ Shopping center near Utah Valley University where, per the warrants as the host 
 
 ---
 
-**N-11152** Cross-Device Account Access Hypothesis
+**N-11068** Cross-Device Account Access Hypothesis
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's hypothesis that logins to Tyler Robinson's accounts or Google Maps data could come from another device or person using the same account, such as Lance Twiggs.
 
 *Related: C-13479, C-13481*
@@ -645,7 +632,7 @@ Claim: The host says a Fox News still frame of Tyler Robinson's towed 2013 Dodge
 Anchored Artifacts: A-2419.1
 Mentions: N-40
 
-Related Nodes: N-10851, N-10855
+Related Nodes: N-10645
 
 Investigative Direction: Confirm exhaust configuration against additional Fox News footage and any independent images of Tyler Robinson's vehicle; compare against VIN or registration records.
 
@@ -659,7 +646,7 @@ Claim: The host says multiple stills from different parking-garage floors show a
 
 Anchored Artifacts: A-2420.1
 
-Related Nodes: N-10851, N-10855
+Related Nodes: N-10645
 
 Investigative Direction: Compare against a full video walkthrough of the parking garage to confirm consistent configuration and rule out lighting/angle artifacts.
 
@@ -674,7 +661,7 @@ Claim: Per the search warrant the host reads, Agent Draney (USBI) obtained recor
 Anchored Artifacts: A-2421.2
 Mentions: N-40
 
-Related Nodes: N-10852
+Related Nodes: N-10774
 
 Investigative Direction: File FOIA/public-records requests for the Quick Quack Car Wash footage; compare with the warrant's stated contents.
 
@@ -689,7 +676,7 @@ Claim: The host says that, per a search warrant for Tyler Robinson's cell phone 
 Anchored Artifacts: A-2421.1
 Mentions: N-40
 
-Related Nodes: N-10852
+Related Nodes: N-10774
 
 Investigative Direction: Obtain the underlying warrant to verify the quoted language; confirm cross-device sync hypothesis against the device extracted from Tyler Robinson.
 
@@ -704,7 +691,7 @@ Claim: The host says, replying to a viewer comment about license plates, that in
 Anchored Artifacts: A-2424.1
 Mentions: N-861
 
-Related Nodes: N-10854
+Related Nodes: N-10776
 
 Investigative Direction: Pull the actual preliminary-hearing / probable-cause transcript and verify whether the testimony relied on partial-plate matching.
 
@@ -746,7 +733,7 @@ Claim: The host proposes as her favored hypothesis that the 6:38 PM timestamp on
 
 Anchored Artifacts: A-2418.1
 
-Related Nodes: N-10853
+Related Nodes: N-10775
 
 Investigative Direction: Subpoena or otherwise obtain the Dairy Queen surveillance system metadata and time-zone configuration; verify against Mountain Shadows Shopping Center sighting at 12:44 PM and Quick Quack arrival at 12:57 PM.
 
@@ -761,7 +748,7 @@ Claim: The host observes that the sneakers worn by Tyler Robinson in the Dairy Q
 Anchored Artifacts: A-2418.1
 Mentions: N-40
 
-Related Nodes: N-10853
+Related Nodes: N-10775
 
 Investigative Direction: Obtain higher-resolution images of the footwear for brand identification; cross-reference against known Tyler Robinson clothing/shoe inventory.
 
@@ -776,7 +763,7 @@ Claim: Based on the dual vs. quad exhaust discrepancy between Fox News's image o
 Anchored Artifacts: A-2419.1, A-2420.1
 Mentions: N-40
 
-Related Nodes: N-10851, N-10855
+Related Nodes: N-10645
 
 Investigative Direction: Obtain independent forensic / dealership records on both vehicles; verify VIN against tow inventory and parking-garage camera metadata.
 
@@ -791,7 +778,7 @@ Claim: Per tipster information, the cemetery where Tyler Robinson allegedly disp
 Anchored Artifacts: A-2425.1
 Mentions: N-40
 
-Related Nodes: N-10855
+Related Nodes: N-10645
 
 Investigative Direction: Verify tipster claim via Google Earth / aerial imagery or on-site inspection; cross-reference with any cemetery surveillance that might exist.
 
@@ -853,7 +840,7 @@ Transcript Snippet: He was wearing red that day.
 
 Anchored Artifacts: A-2416.1
 Mentions: N-3, N-10, N-790
-Related Nodes: N-10860
+Related Nodes: N-10781
 Supports: C-13446
 Tags: relevance:core
 Investigative Direction: Identify the person in red by the van through event photographs or attendee lists and confirm the clothing.
@@ -946,7 +933,7 @@ Transcript Snippet: We were the first to break that story
 
 Anchored Artifacts: A-2418.1
 Mentions: N-3, N-40
-Related Nodes: N-10051
+Related Nodes: N-10048
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Trace the first publication of the Dairy Queen photo and its original source.
@@ -963,7 +950,7 @@ Transcript Snippet: we were not communicated that time by the owner of Dairy Que
 
 Anchored Artifacts: A-2418.1
 Mentions: N-3, N-40
-Related Nodes: N-10051, N-10853
+Related Nodes: N-10048, N-10775
 Qualifies: C-403
 Tags: relevance:core
 Investigative Direction: Identify who first read and relayed the 6:38 timestamp and obtain the Dairy Queen system settings.
@@ -980,7 +967,7 @@ Transcript Snippet: It wasn't until after the Panguitch receipt that we went bac
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10381, N-10051
+Related Nodes: N-10354, N-10048
 Supports: C-4518
 Tags: relevance:core
 Investigative Direction: Obtain the Panguitch receipt and its time stamp and compare it against the Orem to Panguitch drive time.
@@ -997,7 +984,7 @@ Transcript Snippet: Surveillance equipment easily could have fallen backward on 
 
 Anchored Artifacts: A-2418.1
 Mentions: N-3
-Related Nodes: N-10853
+Related Nodes: N-10775
 Tags: relevance:core
 Investigative Direction: Ask the franchise owner or manager about the camera clock settings and when they were last checked.
 
@@ -1013,7 +1000,7 @@ Transcript Snippet: the real Tyler, who we know was in fact around campus on tha
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10853
+Related Nodes: N-10775
 Tags: relevance:core
 Investigative Direction: Establish through footage or records where Tyler Robinson was on campus on September 10 and who the cemetery source was.
 
@@ -1029,7 +1016,7 @@ Transcript Snippet: somebody that was a Tyler Robinson lookalike, maybe it's Lan
 
 Anchored Artifacts: A-2425.1
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10051, N-10168
+Related Nodes: N-10048, N-10161
 Tags: relevance:core
 Investigative Direction: Check the cemetery dumpsters and nearby cameras and compare the Dairy Queen photo subject with images of Lance Twiggs.
 
@@ -1060,7 +1047,7 @@ Transcript Snippet: We've got a lot more of that footage and we've checked it on
 
 Anchored Artifacts: A-2420.1
 Mentions: N-3
-Related Nodes: N-10851
+Related Nodes: N-10645
 Supports: C-13467
 Tags: relevance:core
 Investigative Direction: Identify the critics' stated rebuttal and compare it with the full set of garage footage.
@@ -1077,7 +1064,7 @@ Transcript Snippet: tasked with coming up with a compelling narrative as to how 
 
 Anchored Artifacts: A-2419.1, A-2420.1
 Mentions: N-3, N-40
-Related Nodes: N-10851, N-10855
+Related Nodes: N-10645
 Supports: C-13462
 Tags: relevance:core
 Investigative Direction: Ask for service or modification records for the Challenger and the source of the 33-hour window.
@@ -1094,7 +1081,7 @@ Transcript Snippet: We ask that you please email us at more tips@caniswowens. co
 
 Anchored Artifacts: A-2904.1
 Mentions: N-3
-Related Nodes: N-10051, N-10853
+Related Nodes: N-10048, N-10775
 Tags: relevance:core, dia, tip line
 Investigative Direction: Obtain the Dairy Queen police report, the footage and the text chain the host refers to.
 
@@ -1110,7 +1097,7 @@ Transcript Snippet: we know this per the search warrants that uh Tyler Robinson'
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11151
+Related Nodes: N-11067
 Tags: relevance:core
 Investigative Direction: Obtain the warrant text and the shopping-center camera footage for the 12:44 sighting.
 
@@ -1126,7 +1113,7 @@ Transcript Snippet: I actually called Ryan Matta today.
 
 Anchored Artifacts: 
 Mentions: N-3, N-188
-Related Nodes: N-11151
+Related Nodes: N-11067
 Tags: relevance:core
 Investigative Direction: Ask Ryan Matta for the original source and date of the shopping-center sighting report.
 
@@ -1142,7 +1129,7 @@ Transcript Snippet: because the public finds out about this, the FBI uh is able 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11151, N-10852
+Related Nodes: N-11067, N-10774
 Tags: relevance:core
 Investigative Direction: Obtain the warrant applications to see what the car wash warrant cited as probable cause.
 
@@ -1158,7 +1145,7 @@ Transcript Snippet: Shopping Center surveillance footage then backs up this depa
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11151, N-10852
+Related Nodes: N-11067, N-10774
 Supports: C-13476
 Tags: relevance:core
 Investigative Direction: Obtain the shopping center surveillance footage cited in the narrative.
@@ -1175,7 +1162,7 @@ Transcript Snippet: we got nothing that was clear. Everything was the aspect rat
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10811, N-10625
+Related Nodes: N-10735, N-10571
 Tags: relevance:core
 Investigative Direction: Compare the exhibits as shown at the hearing with the originals to confirm any aspect ratio or quality alteration.
 
@@ -1191,7 +1178,7 @@ Transcript Snippet: So, that tells me that we need to explore this car wash theo
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10852, N-10850
+Related Nodes: N-10774, N-10773
 Supports: C-13475
 Tags: relevance:core
 Investigative Direction: Seek the Quick Quack footage and license plate capture through records requests or discovery.
@@ -1208,7 +1195,7 @@ Transcript Snippet: I've always wondered if he was simply the person that was aw
 
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-40
-Related Nodes: N-11152
+Related Nodes: N-11068
 Tags: relevance:core
 Investigative Direction: Request device and account login records for Tyler Robinson's accounts for September 10.
 
@@ -1224,7 +1211,7 @@ Transcript Snippet: That didn't register to me as a reason that you would need u
 
 Anchored Artifacts: 
 Mentions: N-3, N-54
-Related Nodes: N-10598
+Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Check the court record for any immunity agreement or terms given to Lance Twiggs.
 
@@ -1240,7 +1227,7 @@ Transcript Snippet: sure enough, it is simply because she's logged into the same
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11152, N-10852
+Related Nodes: N-11068, N-10774
 Tags: relevance:core
 Investigative Direction: Test reproducibility and check whether the warrant's route record was tagged to a device or account session.
 
@@ -1256,7 +1243,7 @@ Transcript Snippet: his own family doesn't understand why he was not investigate
 
 Anchored Artifacts: 
 Mentions: N-3, N-54
-Related Nodes: N-10598
+Related Nodes: N-10545
 Supports: C-352
 Tags: relevance:core
 Investigative Direction: Interview Lance's family and review the investigative record on his questioning.
@@ -1303,7 +1290,7 @@ Transcript Snippet: It does not go so far as to say that he actually got a car w
 
 Anchored Artifacts: A-2421.2
 Mentions: N-3, N-40
-Related Nodes: N-10852
+Related Nodes: N-10774
 Supports: C-13475
 Tags: relevance:core
 Investigative Direction: Obtain the full warrant and the Quick Quack transaction records.
@@ -1320,7 +1307,7 @@ Transcript Snippet: They're trying to get us to imagine that he used the towel t
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10090
+Related Nodes: N-10086
 Tags: relevance:core
 Investigative Direction: Check the charging documents and lab reports for the towel and screwdriver evidence.
 
@@ -1336,7 +1323,7 @@ Transcript Snippet: I was talking to Ryan, you know, he got reached out to someb
 
 Anchored Artifacts: 
 Mentions: N-3, N-188
-Related Nodes: N-11151
+Related Nodes: N-11067
 Tags: relevance:core
 Investigative Direction: Reconstruct the chain of contacts from the original shopping center witness to Ryan Matta.
 
@@ -1352,7 +1339,7 @@ Transcript Snippet: We are back to the beginning of this investigation. You can 
 
 Anchored Artifacts: A-2904.2
 Mentions: N-3
-Related Nodes: N-10852, N-11151
+Related Nodes: N-10774, N-11067
 Tags: relevance:core, dia, tip line
 Investigative Direction: Collect the emailed information on the Quick Quack car wash and the Mountain Shadows shopping center.
 
@@ -1398,7 +1385,7 @@ Transcript Snippet: Tyler's vehicle is a V6, which we have confirmed it is indee
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10850, N-10851
+Related Nodes: N-10773, N-10645
 Tags: relevance:core
 Investigative Direction: Check Tyler Robinson's registration and VIN for the engine type.
 
@@ -1414,7 +1401,7 @@ Transcript Snippet: the car that's going into the garage is a V8 and that you ca
 
 Anchored Artifacts: A-2420.1
 Mentions: N-3
-Related Nodes: N-10850, N-10851
+Related Nodes: N-10773, N-10645
 Supports: C-13462
 Tags: relevance:core
 Investigative Direction: Have a vehicle expert examine the wheels and exhaust in the garage footage.
@@ -1521,7 +1508,7 @@ Transcript Snippet: You remember the beepers? Remember these things? Remember th
 
 Anchored Artifacts: A-2422.3
 Mentions: N-36
-Related Nodes: N-10977
+Related Nodes: N-10898
 Tags: relevance:tangential
 Investigative Direction: Verify against the UN video and transcript.
 
@@ -1537,7 +1524,7 @@ Transcript Snippet: Israeli bulldozers smashed Palestinian olive trees ahead of 
 
 Anchored Artifacts: A-2902.1
 Mentions: N-3
-Related Nodes: N-10980
+Related Nodes: N-10901
 Tags: relevance:tangential
 Investigative Direction: Pull the Reuters article and confirm the headline and date.
 
@@ -1568,7 +1555,7 @@ Transcript Snippet: he did a uh AI video which really covered the basis on what 
 
 Anchored Artifacts: A-2423.1
 Mentions: N-3, N-159
-Related Nodes: N-11091
+Related Nodes: N-11009
 Tags: relevance:context
 Investigative Direction: Locate the Wear Forbidden video and the Blake Neff interview it parodies.
 
@@ -1584,7 +1571,7 @@ Transcript Snippet: she gives him something as precious as a video what is suppo
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-18, N-1
-Related Nodes: N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the video, its provenance and how it came to be released through Wilson.
 
@@ -1631,7 +1618,7 @@ Transcript Snippet: to prove a point that you weren't at Fort Huachuca
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-46, N-22
-Related Nodes: N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Check whether the Wilson video was offered as evidence of where Erika was on September 9.
 
@@ -1694,7 +1681,7 @@ Transcript Snippet: Email us more tips. com. Again, we're revisiting Dairy Queen
 
 Anchored Artifacts: A-2904.4
 Mentions: N-3, N-1
-Related Nodes: N-10051, N-10852, N-11151
+Related Nodes: N-10048, N-10774, N-11067
 Tags: relevance:core, dia, tip line
 Investigative Direction: Collect and triage tips on Dairy Queen, the shopping center and the car wash.
 
@@ -1710,7 +1697,7 @@ Transcript Snippet: Carlson recounts a meeting with Trump in which he says Trump
 
 Anchored Artifacts: A-2903.1
 Mentions: N-3, N-22, N-5
-Related Nodes: N-10541
+Related Nodes: N-10496
 Tags: relevance:tangential
 Investigative Direction: Pull the NPR interview and confirm the wording.
 
@@ -1726,7 +1713,7 @@ Transcript Snippet: every time they talk about the plates, they effectively say 
 
 Anchored Artifacts: A-2424.1
 Mentions: N-3, N-861
-Related Nodes: N-10854
+Related Nodes: N-10776
 Supports: C-13513
 Tags: relevance:core
 Investigative Direction: Review the hearing testimony for each reference to partial plates.
@@ -1743,7 +1730,7 @@ Transcript Snippet: I certainly don't have a footage that confirms it
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10854, N-10850
+Related Nodes: N-10776, N-10773
 Tags: relevance:core
 Investigative Direction: Obtain any garage footage showing the Challenger's plate.
 
@@ -1759,7 +1746,7 @@ Transcript Snippet: It means the feds are printing out fake plates or matching p
 
 Anchored Artifacts: A-2424.1
 Mentions: N-3
-Related Nodes: N-10854, N-10850
+Related Nodes: N-10776, N-10773
 Tags: relevance:core
 Investigative Direction: Compare plate numbers in both vehicles' images against registration records.
 

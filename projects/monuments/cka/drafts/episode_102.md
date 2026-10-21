@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 96bdf8580abb4cedfb15c84e3fc6f2b56488e802cc03c0adb8c91e6d3d6c96f2
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-11356
-  - Tip-minted Nodes (reintro-ep102): N-10963, N-11312
+  - Tip-minted Nodes (supplement_2026-10f): N-11272
+  - Tip-minted Nodes (reintro-ep102): N-10884, N-11228
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-9042–C-9151
-  - New Nodes Introduced: N-10666, N-10667
+  - New Nodes Introduced: N-10607
   - Hole-minted Nodes (wave3): N-431
-  - Reused Nodes Appearing: N-11, N-10373, N-424, N-10664, N-432, N-10665, N-4, N-15, N-46, N-130, N-157, N-213, N-224, N-267, N-278, N-361, N-484, N-485, N-579, N-594, N-798, N-891, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
+  - Reused Nodes Appearing: N-11, N-10347, N-424, N-10606, N-432, N-10465, N-4, N-15, N-46, N-130, N-157, N-213, N-224, N-267, N-278, N-361, N-484, N-485, N-579, N-594, N-798, N-891, N-10000, N-10056, N-10327, N-10342, N-10390, N-10493, N-10556, N-11295, N-10783, N-10818, N-10820, N-10857, N-10921, N-11022, N-11027, N-11098, N-11164, N-11171, N-11203
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -38,7 +38,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2062, A-2063, A-2064, A-2065, A-2066, A-2067, A-2068, A-2069, A-2070, A-2071, A-2072, A-2073, A-2074, A-2075
   - New Nodes Introduced (people): none (Wave 2: local ids removed)
-  - New Nodes Introduced (investigation targets): N-10664–N-10667
+  - New Nodes Introduced (investigation targets): N-10606–N-10607
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -65,7 +65,7 @@ Video Timestamp: 00:01:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-9045, N-10667*
+*Related: C-9045, N-10607*
 
 **A-2063** Andrew Kolvet Response Bundle
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:01:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9044, N-10667*
+*Related: C-9044, N-10607*
 
 **A-2064** Tyler Bowyer Response Bundle
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9046, N-41, N-10667, N-11*
+*Related: C-9046, N-41, N-10607, N-11*
 
 **A-2065** Blake Neff Response Bundle
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9047, N-10667*
+*Related: C-9047, N-10607*
 
 **A-2066** Charlie Kirk Aspen Audio Bundle
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:05:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9050, C-9053, N-1, N-2, N-10664*
+*Related: C-9050, C-9053, N-1, N-2, N-10606*
 
 **A-2066.2** Host-maintained count: 39 days since first donor-faked report
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:04:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9050, N-1, N-10664*
+*Related: C-9050, N-1, N-10606*
 
 **A-2067** Kimberly Klacik Social Media Bundle
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:09:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9063, N-10664*
+*Related: C-9063, N-10606*
 
 **A-2068** Marcus Wada AI Voice Bundle
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-9057, N-10664*
+*Related: C-9057, N-10606*
 
 **A-2068.2** Source claim: TPUSA typically uses Pastor John Amanchukwu's AI-cloned voice for presentations
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-9058, N-10664*
+*Related: C-9058, N-10606*
 
 **A-2069** John Mappin Social Media Bundle
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:09:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-9050, C-9062, N-1, N-10664*
+*Related: C-9050, C-9062, N-1, N-10606*
 
 **A-2070** Hillsdale College Event Bundle
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (archived/captured before removal)
 
-*Related: C-9069, N-10665*
+*Related: C-9069, N-10465*
 
 **A-2071.2** Erika Kirk LinkedIn page – claimed summa cum laude with double degree (political science and international relations)
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:18:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (archived/captured before removal)
 
-*Related: C-9072, N-10665*
+*Related: C-9072, N-10465*
 
 **A-2071.3** Erika Kirk LinkedIn page – claimed Doctor of Education in Christian Leadership from Liberty University
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:18:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9076, N-2, N-10665*
+*Related: C-9076, N-2, N-10465*
 
 **A-2072** ASU Catalog Verification Bundle
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:18:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9075, N-10665*
+*Related: C-9075, N-10465*
 
 **A-2073** Nick Shirley Favela Bundle
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:26:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-9082, N-10666*
+*Related: C-9082, N-10512*
 
 **A-2073.2** Patrick Bet-David interview clip with Nick Shirley
 
@@ -276,7 +276,7 @@ Video Timestamp: 00:28:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9087, N-10666*
+*Related: C-9087, N-10512*
 
 **A-2074** Alex Clark Social Media Bundle
 
@@ -290,7 +290,7 @@ Video Timestamp: 00:30:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-9089, N-10666*
+*Related: C-9089, N-10512*
 
 **A-2075** Brian Harpole Fort Huachuca Alibi Bundle
 
@@ -304,7 +304,7 @@ Video Timestamp: 00:49:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (relayed from Erika)
 
-*Related: C-9124, C-9105, N-2, N-10373*
+*Related: C-9124, C-9105, N-2, N-10347*
 
 **A-2075.2** Fort Huachuca alibi photograph provided by Andrew Kolvet
 
@@ -316,7 +316,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-9134, C-9136, N-10373*
+*Related: C-9134, C-9136, N-10347*
 
 **A-2075.3** Paramount Tactical admission that Fort Huachuca alibi photo boy is not Erika Kirk's son
 
@@ -326,7 +326,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-9135, N-2, N-10373*
+*Related: C-9135, N-2, N-10347*
 
 ---
 
@@ -341,7 +341,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9048, N-10667, N-10897, N-159*
+*Related: C-9048, N-10607, N-10818, N-159*
 
 ---
 
@@ -354,7 +354,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9070, C-9071, N-10665, N-11248, N-2*
+*Related: C-9070, C-9071, N-10465, N-11164, N-2*
 
 ---
 
@@ -369,7 +369,7 @@ Video Timestamp: 00:37:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9096, N-10963*
+*Related: C-9096, N-10884*
 
 ---
 
@@ -397,7 +397,7 @@ Video Timestamp: 00:53:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9141, C-9142, N-10367, N-361*
+*Related: C-9141, C-9142, N-10342, N-361*
 
 ---
 
@@ -410,7 +410,7 @@ Video Timestamp: 00:54:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9144, C-9145, C-9146, N-10373, N-10862, N-224, N-266, N-3*
+*Related: C-9144, C-9145, C-9146, N-10347, N-10783, N-224, N-266, N-3*
 
 ---
 
@@ -423,7 +423,7 @@ Video Timestamp: 00:59:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9151, N-10649, N-3*
+*Related: C-9151, N-11295, N-3*
 
 ---
 
@@ -443,7 +443,7 @@ First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.
 
 
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Persistent investigation target: whether the released TPUSA audio of Charlie Kirk nominating Erika as CEO is authentic, AI-generated, or fabricated. Supported by donor testimony, AI-voice source, and Blake Neff's prior AI concern.
 
@@ -454,7 +454,7 @@ Investigative Pressure: High
 
 *Related: A-2066.1, A-2066.2, A-2067.1, A-2068.1, A-2068.2, A-2069.1, C-9050, C-9053, C-9057, C-9058, C-9062, C-9063, N-1, N-2*
 
-**N-10665** Erika Kirk Educational Credentials Discrepancy
+**N-10465** Erika Kirk Educational Credentials Discrepancy
 
 Investigation target: reconciliation of Erika Kirk's LinkedIn degree claims (ASU magna/summa laude, double degree in political science & international relations, Liberty University Ed.D.) with public records showing no honors, no double degree, and ASU not offering the international relations degree in 2012.
 
@@ -465,7 +465,7 @@ Investigative Pressure: High
 
 *Related: A-2071.1, A-2071.2, A-2071.3, A-2072.1, C-9069, C-9072, C-9075, C-9076, N-2*
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Investigation target: whether Brian Harpole was present at Fort Huachuca on the date alleged by Mitch, given the disputed alibi photo, the flight records that do not cover the alleged sighting window, and Paramount Tactical's admission the alibi photo is not of Erika's son.
 
@@ -476,7 +476,7 @@ Investigative Pressure: High
 
 *Related: A-2075.1, A-2075.2, A-2075.3, C-9124, C-9134, C-9135, C-9136, C-9105, N-2*
 
-**N-10666** Nick Shirley Background and Backing Verification
+**N-10512** Nick Shirley Background and Backing Verification
 
 Investigation target: verification of Nick Shirley's claimed journalism credentials, plausibility of his Brazilian favela infiltration story, and identification of who is backing him in the media ecosystem.
 
@@ -487,7 +487,7 @@ Investigative Pressure: Medium
 
 *Related: A-2073.1, A-2073.2, A-2074.1, C-9082, C-9087, C-9089*
 
-**N-10667** Project Constitution / TPUSA Divorce Rumor Verification
+**N-10607** Project Constitution / TPUSA Divorce Rumor Verification
 
 Investigation target: whether the Project Constitution divorce rumor regarding Andrew Kolvet had a factual basis, and the proportionality of TPUSA's response.
 
@@ -717,7 +717,7 @@ Turning Point USA; withholds the video.
 
 ---
 
-**N-10059** PBD Podcast
+**N-10056** PBD Podcast
 
 PBD Podcast; platform for the Shirley interview.
 
@@ -725,7 +725,7 @@ PBD Podcast; platform for the Shirley interview.
 
 ---
 
-**N-10349** Bari Weiss CBS Interview Question Selection
+**N-10327** Bari Weiss CBS Interview Question Selection
 
 Existing topic reused for the Bari Weiss question.
 
@@ -733,7 +733,7 @@ Existing topic reused for the Bari Weiss question.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Existing topic reused for the Mitch eyewitness encounter.
 
@@ -741,7 +741,7 @@ Existing topic reused for the Mitch eyewitness encounter.
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Existing topic reused for Erika's Fort Huachuca ties.
 
@@ -749,7 +749,7 @@ Existing topic reused for Erika's Fort Huachuca ties.
 
 ---
 
-**N-10538** Turning Point Action / Thomas Massie Disavowal Incident
+**N-10493** Turning Point Action / Thomas Massie Disavowal Incident
 
 Existing topic reused for the Massie disavowal.
 
@@ -757,7 +757,7 @@ Existing topic reused for the Massie disavowal.
 
 ---
 
-**N-10609** Marcus Wada Arms Trafficking and Biography Cluster
+**N-10556** Marcus Wada Arms Trafficking and Biography Cluster
 
 Existing topic reused for Wada's background.
 
@@ -765,7 +765,7 @@ Existing topic reused for Wada's background.
 
 ---
 
-**N-10649** Candace-Erika December 15 Private Meeting Revelations
+**N-11295** Candace-Erika December 15 Private Meeting Revelations
 
 Existing topic reused for the December 15 meeting.
 
@@ -773,7 +773,7 @@ Existing topic reused for the December 15 meeting.
 
 ---
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Existing topic reused for Harpole's statements.
 
@@ -781,7 +781,7 @@ Existing topic reused for Harpole's statements.
 
 ---
 
-**N-10897** Project Constitution
+**N-10818** Project Constitution
 
 Project Constitution; the X account Neff replied to.
 
@@ -789,7 +789,7 @@ Project Constitution; the X account Neff replied to.
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Paramount Tactical; livestream account that read the alibi.
 
@@ -797,7 +797,7 @@ Paramount Tactical; livestream account that read the alibi.
 
 ---
 
-**N-10936** Aspen CEO-Appointment Video Non-Release
+**N-10857** Aspen CEO-Appointment Video Non-Release
 
 Existing topic reused for non-release of the video.
 
@@ -805,7 +805,7 @@ Existing topic reused for non-release of the video.
 
 ---
 
-**N-10963** Cuba
+**N-10884** Cuba
 
 Cuba; subject of Shirley's trip and the headline.
 
@@ -813,7 +813,7 @@ Cuba; subject of Shirley's trip and the headline.
 
 ---
 
-**N-11001** Valhalla VFT
+**N-10921** Valhalla VFT
 
 Valhalla VFT; account the host says threatened her.
 
@@ -821,7 +821,7 @@ Valhalla VFT; account the host says threatened her.
 
 ---
 
-**N-11104** Liberty University
+**N-11022** Liberty University
 
 Liberty University; Erika's master's.
 
@@ -829,7 +829,7 @@ Liberty University; Erika's master's.
 
 ---
 
-**N-11109** Andrew Kolvet Rogue-Actor Explanation
+**N-11027** Andrew Kolvet Rogue-Actor Explanation
 
 Existing topic reused for the rogue explanation.
 
@@ -837,7 +837,7 @@ Existing topic reused for the rogue explanation.
 
 ---
 
-**N-11182** TPUSA Crisis PR Team
+**N-11098** TPUSA Crisis PR Team
 
 TPUSA Crisis PR Team; the PR firm Erika mentioned.
 
@@ -845,7 +845,7 @@ TPUSA Crisis PR Team; the PR firm Erika mentioned.
 
 ---
 
-**N-11248** Arizona State University
+**N-11164** Arizona State University
 
 Arizona State University; Erika's claimed degree.
 
@@ -853,7 +853,7 @@ Arizona State University; Erika's claimed degree.
 
 ---
 
-**N-11255** Hillsdale College
+**N-11171** Hillsdale College
 
 Hillsdale College; commencement and honorary doctorate.
 
@@ -861,7 +861,7 @@ Hillsdale College; commencement and honorary doctorate.
 
 ---
 
-**N-11287** Tim Pool Dispute With Candace Owens
+**N-11203** Tim Pool Dispute With Candace Owens
 
 Existing topic reused for the Tim Pool dispute.
 
@@ -869,7 +869,7 @@ Existing topic reused for the Tim Pool dispute.
 
 ---
 
-**N-11312** Kolvet PR Role for Erika Kirk August 2025 Question
+**N-11228** Kolvet PR Role for Erika Kirk August 2025 Question
 
 Existing topic reused for Kolvet PR role.
 
@@ -877,7 +877,7 @@ Existing topic reused for Kolvet PR role.
 
 ---
 
-**N-11356** Druski Skit Mocking Erika Kirk Controversy
+**N-11272** Druski Skit Mocking Erika Kirk Controversy
 
 Node Type: Topic
 The dispute over a Druski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.
@@ -897,7 +897,7 @@ Claim: The host reads an X post in which Andrew Kolvet publicly denied divorce r
 Anchored Artifacts: A-2063.1
 Mentions: N-14
 
-Related Nodes: N-10667
+Related Nodes: N-10607
 
 Investigative Direction: Verify the exact wording of Kolvet's post and timestamp against X archives; identify whether any divorce filings exist in Arizona court records.
 
@@ -912,7 +912,7 @@ Claim: The host says it looks like an X account identifying as Project Constitut
 Anchored Artifacts: A-2062.1
 Mentions: N-14
 
-Related Nodes: N-10667
+Related Nodes: N-10607
 
 Investigative Direction: Identify the author and posting history of the Project Constitution account; obtain the original post content and any cited basis.
 
@@ -927,7 +927,7 @@ Claim: The host reads a post in which Tyler Bowyer says he has had "numerous thi
 Anchored Artifacts: A-2064.1
 Mentions: N-11
 
-Related Nodes: N-10667
+Related Nodes: N-10607
 
 Investigative Direction: Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.
 
@@ -942,7 +942,7 @@ Claim: Per posts by Blake Neff that the host reads, he responded to a question a
 Anchored Artifacts: A-2065.1
 Mentions: N-14, N-159
 
-Related Nodes: N-10667
+Related Nodes: N-10607
 
 Investigative Direction: Verify the original post; check WHCD invitation lists if publicly available.
 
@@ -957,7 +957,7 @@ Claim: Per Candace, donors who were present at the Aspen event assert that the T
 Anchored Artifacts: A-2066.1, A-2066.2, A-2069.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10664
+Related Nodes: N-10606
 
 Investigative Direction: Identify the specific donors by name; obtain written or recorded statements; secure the original unedited audio if TPUSA retains it; obtain independent audio-forensic analysis of the released clip.
 
@@ -972,7 +972,7 @@ Claim: In the audio clip the host plays, which she says Turning Point USA shared
 Anchored Artifacts: A-2066.1
 Mentions: N-1
 
-Related Nodes: N-10664
+Related Nodes: N-10606
 
 Investigative Direction: Locate TPUSA's original release of the clip; obtain timestamped metadata; compare against any verified recordings of Charlie Kirk's voice.
 
@@ -987,7 +987,7 @@ Claim: The host says, citing information from a source who came forward, that Tu
 Anchored Artifacts: A-2068.1
 Mentions: N-424
 
-Related Nodes: N-10664
+Related Nodes: N-10606
 
 Investigative Direction: Verify Wada's TPUSA employment and the scope of his AI services; identify any other clients or projects; obtain a sample of his AI-generated voice work.
 
@@ -1002,7 +1002,7 @@ Claim: Per the source, Turning Point USA presentations typically feature AI-gene
 Anchored Artifacts: A-2068.2
 Mentions: N-431
 
-Related Nodes: N-10664
+Related Nodes: N-10606
 
 Investigative Direction: Obtain a TPUSA presentation featuring the contested voice; verify with Pastor Amanchukwu whether he consented to voice cloning; secure source's full statement.
 
@@ -1017,7 +1017,7 @@ Claim: The host says John Mappin shared on X that an Aspen donor told him the mo
 Anchored Artifacts: A-2069.1
 Mentions: N-154
 
-Related Nodes: N-10664
+Related Nodes: N-10606
 
 Investigative Direction: Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement.
 
@@ -1032,7 +1032,7 @@ Claim: The host reads a post in which Kimberly Klacik publicly asked on X, if th
 Anchored Artifacts: A-2067.1
 Mentions: N-2, N-432
 
-Related Nodes: N-10664
+Related Nodes: N-10606
 
 Investigative Direction: Verify the original post; obtain TPUSA board meeting minutes documenting Erika's CEO election.
 
@@ -1079,7 +1079,7 @@ Claim: The host says Erika Kirk said in her Great American Race audition video t
 Anchored Artifacts: A-2071.1
 Mentions: N-2
 
-Related Nodes: N-10665
+Related Nodes: N-10465
 
 Investigative Direction: Obtain archived versions of the LinkedIn page (Wayback Machine or other captures); verify against ASU graduation records.
 
@@ -1094,7 +1094,7 @@ Claim: The host alleges that Erika Kirk later upgraded her LinkedIn page, shown 
 Anchored Artifacts: A-2071.2
 Mentions: N-2
 
-Related Nodes: N-10665
+Related Nodes: N-10465
 
 Investigative Direction: Obtain archived LinkedIn captures showing both versions; verify degree titles and honors with ASU registrar.
 
@@ -1109,7 +1109,7 @@ Claim: Per Baron Coleman and other online researchers, Arizona State University 
 Anchored Artifacts: A-2072.1
 Mentions: N-330, N-2
 
-Related Nodes: N-10665
+Related Nodes: N-10465
 
 Investigative Direction: Obtain ASU's archived 2012 course catalog directly from the university or library archives; verify the degree offerings list.
 
@@ -1124,7 +1124,7 @@ Claim: The host alleges that Erika Kirk's LinkedIn page lists a Doctor of Educat
 Anchored Artifacts: A-2071.3
 Mentions: N-2
 
-Related Nodes: N-10665
+Related Nodes: N-10465
 
 Investigative Direction: Verify Liberty's Ed.D. in Christian Leadership program; obtain Liberty's records on Erika Kirk's actual enrollment.
 
@@ -1139,7 +1139,7 @@ Claim: The host says Nick Shirley is associated with a video claiming he infiltr
 Anchored Artifacts: A-2073.1
 Mentions: N-213
 
-Related Nodes: N-10666
+Related Nodes: N-10512
 
 Investigative Direction: Locate the original favela video; verify any corroborating evidence (local news, authorities, contacts).
 
@@ -1154,7 +1154,7 @@ Claim: In a clip the host plays from Patrick Bet-David's show, Nick Shirley says
 Anchored Artifacts: A-2073.2
 Mentions: N-57, N-3, N-213
 
-Related Nodes: N-10666
+Related Nodes: N-10512
 
 Investigative Direction: Obtain the full PBD interview clip and timestamp; verify PBD's framing of prior coverage.
 
@@ -1169,7 +1169,7 @@ Claim: The host reads a post in which Alex Clark wrote: "Nick Shirley is a real 
 Anchored Artifacts: A-2074.1
 Mentions: N-3, N-99, N-213
 
-Related Nodes: N-10666
+Related Nodes: N-10512
 
 Investigative Direction: Verify the original post and Alex Clark's relationship with Nick Shirley.
 
@@ -1184,7 +1184,7 @@ Claim: The host says that during her private interview Erika Kirk handed her Bri
 Anchored Artifacts: A-2075.1
 Mentions: N-266, N-2, N-361
 
-Related Nodes: N-10373
+Related Nodes: N-10347
 
 Investigative Direction: Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question.
 
@@ -1199,7 +1199,7 @@ Claim: The host says the alibi for Erika Kirk that Paramount Tactical read live 
 Anchored Artifacts: A-2075.2
 Mentions: N-14, N-2
 
-Related Nodes: N-10373
+Related Nodes: N-10347
 
 Investigative Direction: Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance.
 
@@ -1214,7 +1214,7 @@ Claim: The host says Paramount Tactical admitted over the weekend that the boy i
 Anchored Artifacts: A-2075.3
 Mentions: N-2
 
-Related Nodes: N-10373
+Related Nodes: N-10347
 
 Investigative Direction: Locate Paramount Tactical's specific admission statement; identify the actual child in the photo.
 
@@ -1229,7 +1229,7 @@ Claim: Per the host, Andrew Kolvet was the coordinator behind the Paramount Tact
 Anchored Artifacts: A-2075.2, A-2075.3
 Mentions: N-14, N-2
 
-Related Nodes: N-10373
+Related Nodes: N-10347
 
 Investigative Direction: Obtain direct evidence of coordination (emails, DMs, communications); obtain statement from Kolvet, Paramount Tactical, and Valhalla.
 
@@ -1244,7 +1244,7 @@ Claim: During Candace's private interview with Erika Kirk, Erika volunteered Bri
 Anchored Artifacts: A-2075.1
 Mentions: N-266, N-2, N-361
 
-Related Nodes: N-10373
+Related Nodes: N-10347
 
 Investigative Direction: Obtain Candace's documented record of the interview; verify the flight records independently.
 
@@ -1260,7 +1260,7 @@ Transcript Snippet: after saying she wanted to go home, us enduring a lecture ab
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-11255
+Related Nodes: N-11171
 Tags: relevance:context
 Investigative Direction: Locate Erika Kirk's earlier public statements about going home to her family and compare them with the Hillsdale College commencement schedule.
 
@@ -1292,7 +1292,7 @@ Transcript Snippet: Blake Neff jumped in. He wrote back to Project Constitution,
 
 Anchored Artifacts: A-3236.1
 Mentions: N-159
-Related Nodes: N-10897, N-10667
+Related Nodes: N-10818, N-10607
 Tags: relevance:tangential
 Investigative Direction: Pull Blake Neff's X reply to Project Constitution and confirm its wording, time and the post it answered.
 
@@ -1308,7 +1308,7 @@ Transcript Snippet: by the way have never heard that Andrew Kolvet is divorcing 
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10667
+Related Nodes: N-10607
 Tags: relevance:tangential
 Investigative Direction: Check Arizona court records for any divorce filing and the original Project Constitution post; this is a personal matter and the host only reports her own awareness.
 
@@ -1324,7 +1324,7 @@ Transcript Snippet: Turning Point for some reason is refusing to drop the video 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10936, N-10664, N-10000
+Related Nodes: N-10857, N-10606, N-10000
 Tags: relevance:core
 Investigative Direction: Ask TPUSA for the original camera footage and metadata of the Aspen presentation and whether any video of the statement exists.
 
@@ -1340,7 +1340,7 @@ Transcript Snippet: Blake has specifically expressed concern, you will recall, t
 
 Anchored Artifacts: 
 Mentions: N-159
-Related Nodes: N-10936, N-10664
+Related Nodes: N-10857, N-10606
 Tags: relevance:core
 Investigative Direction: Find Blake Neff's own public or private statement expressing this concern, including its date and audience.
 
@@ -1356,7 +1356,7 @@ Transcript Snippet: the video, which I would like to point out, Turning Point US
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10664
+Related Nodes: N-10000, N-10606
 Tags: relevance:core
 Investigative Direction: Identify who at TPUSA mentioned the video to the host's team, when, and in what message or call.
 
@@ -1372,7 +1372,7 @@ Transcript Snippet: Erika herself told Megyn Kelly an emotional story about what
 
 Anchored Artifacts: 
 Mentions: N-2, N-46
-Related Nodes: N-10664
+Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Review the Megyn Kelly interview with Erika Kirk for her account of watching the video and compare it with any released footage.
 
@@ -1388,7 +1388,7 @@ Transcript Snippet: violating suddenly his every public statement and sentiment 
 
 Anchored Artifacts: 
 Mentions: N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Compile Charlie Kirk's recorded statements on women and work and compare them with the appointment statement.
 
@@ -1404,7 +1404,7 @@ Transcript Snippet: the Turning Point employee that's a rehabilitated former arm
 
 Anchored Artifacts: 
 Mentions: N-424
-Related Nodes: N-10609
+Related Nodes: N-10556
 Supports: C-8280
 Tags: relevance:context
 Investigative Direction: Review Wada's own TPUSA biography, his LinkedIn and any reporting on his past arms-related work to confirm the description.
@@ -1451,7 +1451,7 @@ Transcript Snippet: "The company is mine at Amfest while she wore glittering pan
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10664
+Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Review the AmFest 2025 stream and program for the audio cue, who cleared it, and its source file.
 
@@ -1467,7 +1467,7 @@ Transcript Snippet: you guys can take your bets on whether you believe Blake Nef
 
 Anchored Artifacts: 
 Mentions: N-159
-Related Nodes: N-10936
+Related Nodes: N-10857
 Tags: relevance:core
 Investigative Direction: Locate Blake Neff's original subway comparison and any TPUSA statement tying it to the non-release of the video.
 
@@ -1483,7 +1483,7 @@ Transcript Snippet: she accepted a posthumous doctorate degree for Charlie uh ho
 
 Anchored Artifacts: A-2070.1
 Mentions: N-2, N-1
-Related Nodes: N-11255
+Related Nodes: N-11171
 Supports: C-9066
 Tags: relevance:context
 Investigative Direction: Check Hillsdale College's commencement announcement for the list of honorary degrees conferred.
@@ -1500,7 +1500,7 @@ Transcript Snippet: when she was trying out for the American race with her ex-bo
 
 Anchored Artifacts: A-3237.1
 Mentions: N-2
-Related Nodes: N-10665
+Related Nodes: N-10465
 Tags: relevance:context
 Investigative Direction: Obtain the audition video and any Erika Kirk interviews on her dating history to compare the statements.
 
@@ -1516,7 +1516,7 @@ Transcript Snippet: when they were trying out for the Great American Race in the
 
 Anchored Artifacts: A-3237.1
 Mentions: N-2
-Related Nodes: N-10665, N-11248
+Related Nodes: N-10465, N-11164
 Tags: relevance:context
 Investigative Direction: Obtain the audition video and ASU's records of degree and honors conferred on Erika Kirk.
 
@@ -1532,7 +1532,7 @@ Transcript Snippet: she didn't graduate magna laude and she also didn't graduate
 
 Anchored Artifacts: A-2071.2
 Mentions: N-2
-Related Nodes: N-10665, N-11248
+Related Nodes: N-10465, N-11164
 Tags: relevance:context
 Investigative Direction: Request ASU's degree verification (National Student Clearinghouse) and the commencement program for Erika Kirk's class.
 
@@ -1548,7 +1548,7 @@ Transcript Snippet: she's put it on bios, so this is not like, oh, this was one 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10665
+Related Nodes: N-10465
 Tags: relevance:context
 Investigative Direction: Collect archived TPUSA and third-party bios of Erika Kirk and date each claimed credential.
 
@@ -1564,7 +1564,7 @@ Transcript Snippet: she did receive her master's um from Liberty University onli
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11104, N-10665
+Related Nodes: N-11022, N-10465
 Tags: relevance:context
 Investigative Direction: Verify the master's degree and field with Liberty University's registrar or degree verification service.
 
@@ -1580,7 +1580,7 @@ Transcript Snippet: We never even covered that the whole educational background 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10665
+Related Nodes: N-10465
 Tags: relevance:context
 Investigative Direction: Compare the Bride of Charlie episodes with the later credential claims to confirm the topic was not covered.
 
@@ -1596,7 +1596,7 @@ Transcript Snippet: like he's this the term that they use here is fed jacketed. 
 
 Anchored Artifacts: 
 Mentions: N-213
-Related Nodes: N-10666
+Related Nodes: N-10512
 Tags: relevance:tangential
 Investigative Direction: Identify who is using the term and what they cite for the claim that Shirley is media-created.
 
@@ -1612,7 +1612,7 @@ Transcript Snippet: That's the reason I covered him on the show on September 10t
 
 Anchored Artifacts: 
 Mentions: N-213, N-3, N-1
-Related Nodes: N-10666
+Related Nodes: N-10512
 Tags: relevance:tangential
 Investigative Direction: Review the host's September 10 show and her follow-up conversation with the person for what was said and corrected.
 
@@ -1628,7 +1628,7 @@ Transcript Snippet: they say, Nick Fuentes has uncovered massive welfare fraud i
 
 Anchored Artifacts: 
 Mentions: N-213
-Related Nodes: N-10666
+Related Nodes: N-10512
 Supports: C-7381
 Tags: relevance:tangential
 Investigative Direction: Review the Minnesota daycare fraud reporting and the charging records that followed.
@@ -1645,7 +1645,7 @@ Transcript Snippet: it was like trending and all of these people, the people I t
 
 Anchored Artifacts: 
 Mentions: N-213, N-267
-Related Nodes: N-10666, N-11287
+Related Nodes: N-10512, N-11203
 Tags: relevance:tangential
 Investigative Direction: Collect the posts defending Shirley and their timing relative to the host's remark.
 
@@ -1661,7 +1661,7 @@ Transcript Snippet: he notoriously hosted the person who said I didn't speak to 
 
 Anchored Artifacts: 
 Mentions: N-57, N-1, N-3
-Related Nodes: N-10059
+Related Nodes: N-10056
 Tags: relevance:context
 Investigative Direction: Identify the guest and episode, and compare with the host's records of contact with Charlie Kirk after 2019.
 
@@ -1692,7 +1692,7 @@ Transcript Snippet: PBD's pretending he had no idea. He completely already knew 
 
 Anchored Artifacts: A-2073.2
 Mentions: N-57, N-213
-Related Nodes: N-10666
+Related Nodes: N-10512
 Tags: relevance:tangential
 Investigative Direction: Review the full PBD interview and PBD's earlier statements about Shirley to see whether he had addressed the host's remark before.
 
@@ -1708,7 +1708,7 @@ Transcript Snippet: whoever is your contact that has you infiltrating antifa and
 
 Anchored Artifacts: 
 Mentions: N-213
-Related Nodes: N-10666
+Related Nodes: N-10512
 Tags: relevance:tangential
 Investigative Direction: Review Shirley's antifa and El Salvador videos for sourcing and the access he claims.
 
@@ -1739,7 +1739,7 @@ Transcript Snippet: maybe if these podcasters would actually leave their podcast
 
 Anchored Artifacts: A-2073.2
 Mentions: N-213, N-57
-Related Nodes: N-10666
+Related Nodes: N-10512
 Tags: relevance:tangential
 Investigative Direction: Obtain the PBD episode and confirm the quote and context.
 
@@ -1755,7 +1755,7 @@ Transcript Snippet: A Mormon kid from Utah with the camera
 
 Anchored Artifacts: 
 Mentions: N-213
-Related Nodes: N-10666
+Related Nodes: N-10512
 Supports: C-7384
 Tags: relevance:tangential
 Investigative Direction: Check Shirley's own statements about his religion and home state.
@@ -1804,7 +1804,7 @@ Transcript Snippet: He claims he he went to Cuba. He was almost taken hostage.
 
 Anchored Artifacts: 
 Mentions: N-213
-Related Nodes: N-10963, N-10666
+Related Nodes: N-10884, N-10512
 Tags: relevance:tangential
 Investigative Direction: Review Shirley's Cuba video and posts for what he says happened and when.
 
@@ -1820,7 +1820,7 @@ Transcript Snippet: And of course, this headline from yesterday, "Will the US in
 
 Anchored Artifacts: A-3238.1
 Mentions: 
-Related Nodes: N-10963
+Related Nodes: N-10884
 Tags: relevance:tangential
 Investigative Direction: Find the headline and underlying article and the flight-tracking and sanctions data it cites.
 
@@ -1836,7 +1836,7 @@ Transcript Snippet: And we all know the CIA is involved in Cuba at this moment.
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10963
+Related Nodes: N-10884
 Tags: relevance:tangential
 Investigative Direction: No source is given on air; any reporting on current CIA activity in Cuba would be needed.
 
@@ -1852,7 +1852,7 @@ Transcript Snippet: Charlie would have laughed at that stuff, but we see that Er
 
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-594
-Related Nodes: N-11356
+Related Nodes: N-11272
 Tags: relevance:tangential
 Investigative Direction: Locate the Druski skit and Erika Kirk's or TPUSA's public response to it.
 
@@ -1868,7 +1868,7 @@ Transcript Snippet: the people that were trying to turn that into something raci
 
 Anchored Artifacts: 
 Mentions: N-14, N-594, N-2
-Related Nodes: N-11356
+Related Nodes: N-11272
 Tags: relevance:tangential
 Investigative Direction: Find Kolvet's and other TPUSA figures' posts characterizing the skit as racial.
 
@@ -1884,7 +1884,7 @@ Transcript Snippet: He dressed up like he was Vietnamese person, did this whole 
 
 Anchored Artifacts: 
 Mentions: N-594
-Related Nodes: N-11356
+Related Nodes: N-11272
 Tags: relevance:tangential
 Investigative Direction: Locate the nail salon skit and its date.
 
@@ -1900,7 +1900,7 @@ Transcript Snippet: just last week he dropped a massive video where he was targe
 
 Anchored Artifacts: 
 Mentions: N-594
-Related Nodes: N-11356
+Related Nodes: N-11272
 Tags: relevance:tangential
 Investigative Direction: Locate the video and its date.
 
@@ -1932,7 +1932,7 @@ Transcript Snippet: you wanted to be Charlie Kirk so bad that you allegedly made
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10664
+Related Nodes: N-10606
 Supports: C-9050
 Tags: relevance:core
 Investigative Direction: Forensic audio analysis of the released clip and the original Aspen recording, and testimony from event staff and the donors present.
@@ -1949,7 +1949,7 @@ Transcript Snippet: Charlie didn't change his mind 2 weeks before he died. We kn
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10664
+Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Compile dated Charlie Kirk clips on women and work to test whether his stated position changed.
 
@@ -1980,7 +1980,7 @@ Transcript Snippet: I'm thinking about doing the Bryan Freedman thing, which was
 
 Anchored Artifacts: 
 Mentions: N-891, N-484, N-485, N-3
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:context
 Investigative Direction: Watch for the host's publication of the Fort Huachuca timeline, messages and documents.
 
@@ -1996,7 +1996,7 @@ Transcript Snippet: it was Mitch's friend that emailed me, and I called him, and
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-10367
+Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: The host's original email and call log would show who made first contact.
 
@@ -2012,7 +2012,7 @@ Transcript Snippet: He was clear that he saw Brian Harpole and he saw Erika. But
 
 Anchored Artifacts: 
 Mentions: N-361, N-266, N-2
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-4347, C-4470
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's account with hotel and base records for September 8 and 9, 2025.
@@ -2029,7 +2029,7 @@ Transcript Snippet: Brian Harpole he saw on the 9th, and he was leaving the meet
 
 Anchored Artifacts: 
 Mentions: N-361, N-266
-Related Nodes: N-10373
+Related Nodes: N-10347
 Supports: C-4467
 Tags: relevance:core
 Investigative Direction: Request Fort Huachuca police call logs for September 9, 2025.
@@ -2046,7 +2046,7 @@ Transcript Snippet: he saw her at a hotel. It wasn't related to the meeting. He 
 
 Anchored Artifacts: 
 Mentions: N-361, N-2, N-266
-Related Nodes: N-10367
+Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: Candlewood hotel records and security footage for September 8, 2025.
 
@@ -2062,7 +2062,7 @@ Transcript Snippet: I knew that her mom and her stepdad have contracts with the 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10417
+Related Nodes: N-10390
 Supports: C-4630
 Tags: relevance:context
 Investigative Direction: Federal contract databases (SAM.gov, USAspending) for the mother's and stepfather's companies.
@@ -2079,7 +2079,7 @@ Transcript Snippet: I said he saw Brian Harpole on the 9th, right? Removed Erika
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-2
-Related Nodes: N-10367
+Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: Rewatch the host's first Mitch segment to confirm Erika was not named.
 
@@ -2095,7 +2095,7 @@ Transcript Snippet: Harris Faulkner, she went on that show and then she was all 
 
 Anchored Artifacts: 
 Mentions: N-2, N-798, N-3
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-3901
 Tags: relevance:core
 Investigative Direction: Pull the Fox News broadcast and match its date to the host's first Mitch segment.
@@ -2112,7 +2112,7 @@ Transcript Snippet: Then the day after that she did Bari Weiss and they cut the 
 
 Anchored Artifacts: 
 Mentions: N-2, N-278, N-3
-Related Nodes: N-10349
+Related Nodes: N-10327
 Tags: relevance:core
 Investigative Direction: Obtain the full CBS interview and the cut clip.
 
@@ -2128,7 +2128,7 @@ Transcript Snippet: I then would later find out that they had planned that the q
 
 Anchored Artifacts: 
 Mentions: N-2, N-278, N-3
-Related Nodes: N-10349
+Related Nodes: N-10327
 Tags: relevance:core
 Investigative Direction: Identify the source of the host's later information and any CBS or TPUSA communications about the question.
 
@@ -2159,7 +2159,7 @@ Transcript Snippet: I get Ian Carroll calling me and he's got Paramount Tactical
 
 Anchored Artifacts: 
 Mentions: N-130, N-361, N-3
-Related Nodes: N-11001, N-10899
+Related Nodes: N-10921, N-10820
 Tags: relevance:core
 Investigative Direction: Obtain the threatening messages, the call record with Ian Carroll and the date of each.
 
@@ -2175,7 +2175,7 @@ Transcript Snippet: So I'm getting threatened with a lawsuit before I even inter
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-11001, N-10899
+Related Nodes: N-10921, N-10820
 Tags: relevance:core
 Investigative Direction: Obtain the written threat and identify its sender.
 
@@ -2191,7 +2191,7 @@ Transcript Snippet: So I message Brian Harpole and I'm like, "Hey, like I'm goin
 
 Anchored Artifacts: 
 Mentions: N-266, N-361, N-3
-Related Nodes: N-10373
+Related Nodes: N-10347
 Supports: C-4419
 Tags: relevance:core
 Investigative Direction: Produce the host's message to Harpole and its timestamp.
@@ -2208,7 +2208,7 @@ Transcript Snippet: I haven't yet had Mitch on. He doesn't answer.
 
 Anchored Artifacts: 
 Mentions: N-266, N-3
-Related Nodes: N-10373
+Related Nodes: N-10347
 Supports: C-4558
 Tags: relevance:core
 Investigative Direction: The message thread would show delivery and any reply.
@@ -2225,7 +2225,7 @@ Transcript Snippet: They scheduled it during the block where I would normally ha
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Obtain the scheduling messages for the December 15 meeting.
 
@@ -2241,7 +2241,7 @@ Transcript Snippet: and then they boosted Paramount Tactical basically trying to
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10899
+Related Nodes: N-10820
 Supports: C-5700
 Tags: relevance:core
 Investigative Direction: Review the broadcast and TPUSA's channels for the date and time Paramount Tactical was featured.
@@ -2258,7 +2258,7 @@ Transcript Snippet: she said to me that they were very upset with Brian Harpole 
 
 Anchored Artifacts: 
 Mentions: N-2, N-266, N-224
-Related Nodes: N-10862
+Related Nodes: N-10783
 Supports: C-9034
 Tags: relevance:core
 Investigative Direction: Compare with Harpole's statements about whether TPUSA approved his Shawn Ryan appearance.
@@ -2275,7 +2275,7 @@ Transcript Snippet: At that point, she had already told me a couple of lies, so 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: The host's notes or recording of the meeting would identify the statements.
 
@@ -2291,7 +2291,7 @@ Transcript Snippet: "When is your show off air?" cuz we were coming up on Christ
 
 Anchored Artifacts: 
 Mentions: N-15, N-3, N-361
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: The host's notes and any witnesses to the question.
 
@@ -2307,7 +2307,7 @@ Transcript Snippet: And then I interviewed him. I did it on the 18th.
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-10367
+Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: The episode's air date and the host's publication log.
 
@@ -2323,7 +2323,7 @@ Transcript Snippet: if she does not like basically revoke her commentary about F
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-11001, N-10899
+Related Nodes: N-10921, N-10820
 Supports: C-5699
 Tags: relevance:core
 Investigative Direction: Obtain the Valhalla messages and their metadata.
@@ -2340,7 +2340,7 @@ Transcript Snippet: They were like, "Yeah, brother. Like uh we'd love to have ha
 
 Anchored Artifacts: 
 Mentions: N-361
-Related Nodes: N-10899, N-11001
+Related Nodes: N-10820, N-10921
 Supports: C-4473
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's account and any recording of the calls.
@@ -2357,7 +2357,7 @@ Transcript Snippet: they were telling me the opposite or trying to tell me the o
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-10899, N-11001
+Related Nodes: N-10820, N-10921
 Tags: relevance:core
 Investigative Direction: Compare their messages to the host with their calls to Mitch.
 
@@ -2373,7 +2373,7 @@ Transcript Snippet: accidentally Paramount Tactical read Erika's alibi um live o
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10899
+Related Nodes: N-10820
 Supports: C-8941
 Tags: relevance:core
 Investigative Direction: Review the Paramount Tactical stream for the moment the message was read.
@@ -2390,7 +2390,7 @@ Transcript Snippet: I didn't even share the fact that I knew that that was not h
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10899
+Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Identify the host's source for the knowledge; do not identify the children.
 
@@ -2406,7 +2406,7 @@ Transcript Snippet: Erika and I had just sat down. So they could have just texte
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10899
+Related Nodes: N-10820
 Supports: C-5698
 Tags: relevance:core
 Investigative Direction: The host's phone and message records would show whether any text was sent.
@@ -2423,7 +2423,7 @@ Transcript Snippet: after she told me that they had hired crisis PR, and they we
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Related Nodes: N-11182
+Related Nodes: N-11098
 Tags: relevance:core
 Investigative Direction: Identify the crisis PR firm and its contract date.
 
@@ -2439,7 +2439,7 @@ Transcript Snippet: she said they were moving him completely off of PR, full sto
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Related Nodes: N-11312, N-11182
+Related Nodes: N-11228, N-11098
 Supports: C-5701
 Tags: relevance:core
 Investigative Direction: Compare with Kolvet's public roles on TPUSA broadcasts after the meeting.
@@ -2456,7 +2456,7 @@ Transcript Snippet: That was when she was lying about Andrew went rogue, Andrew 
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Related Nodes: N-11109
+Related Nodes: N-11027
 Supports: C-5419
 Tags: relevance:core
 Investigative Direction: Compare Erika's rogue account with the Kolvet to Paramount Tactical messages.
@@ -2473,7 +2473,7 @@ Transcript Snippet: I obviously fact-checked enough to know that Mitch was there
 
 Anchored Artifacts: A-3240.1
 Mentions: N-361
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-4409
 Tags: relevance:core
 Investigative Direction: Obtain and authenticate Mitch's videos and metadata.
@@ -2490,7 +2490,7 @@ Transcript Snippet: I had his hotel reservation. I had um I had confirmed with a
 
 Anchored Artifacts: A-3240.1
 Mentions: N-361
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-4409, C-3947
 Tags: relevance:core
 Investigative Direction: Candlewood reservation records and military ID tag verification.
@@ -2507,7 +2507,7 @@ Transcript Snippet: So, they took me from being 40/60, maybe even 30/70.
 
 Anchored Artifacts: 
 Mentions: N-3, N-361
-Related Nodes: N-10367
+Related Nodes: N-10342
 Tags: relevance:context
 Investigative Direction: The host's own earlier statements on her confidence levels.
 
@@ -2523,7 +2523,7 @@ Transcript Snippet: And the amount of times that Brian Harpole lies in this laws
 
 Anchored Artifacts: A-3241.1
 Mentions: N-266
-Related Nodes: N-10862, N-10373
+Related Nodes: N-10783, N-10347
 Tags: relevance:core
 Investigative Direction: Compare the filing's factual statements with the record.
 
@@ -2539,7 +2539,7 @@ Transcript Snippet: Him saying Candace had his alibi, they know that is objectiv
 
 Anchored Artifacts: A-3241.1
 Mentions: N-266, N-3
-Related Nodes: N-10862
+Related Nodes: N-10783
 Tags: relevance:core
 Investigative Direction: Read the complaint paragraph on the alibi and compare with the host's account.
 
@@ -2555,7 +2555,7 @@ Transcript Snippet: Why are you saying he went on Shawn Ryan because of the grie
 
 Anchored Artifacts: A-3241.1
 Mentions: N-266, N-224, N-3
-Related Nodes: N-10862
+Related Nodes: N-10783
 Supports: C-8658, C-8657
 Tags: relevance:core
 Investigative Direction: Compare the airing dates of the host's first Harpole mention and the Shawn Ryan interview.
@@ -2572,7 +2572,7 @@ Transcript Snippet: I messaged him four times
 
 Anchored Artifacts: 
 Mentions: N-266, N-3
-Related Nodes: N-10373
+Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: The message thread would show the count; earlier episodes gave smaller numbers.
 
@@ -2588,7 +2588,7 @@ Transcript Snippet: They still have not provided any receipts as to his whereabo
 
 Anchored Artifacts: 
 Mentions: N-266
-Related Nodes: N-10373, N-10862
+Related Nodes: N-10347, N-10783
 Tags: relevance:core
 Investigative Direction: Check the court docket for any submitted alibi evidence.
 
@@ -2604,7 +2604,7 @@ Transcript Snippet: I had so many students messaging me that were upset about it
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-11255
+Related Nodes: N-11171
 Supports: C-6872
 Tags: relevance:tangential
 Investigative Direction: Collect the student messages and any Hillsdale student newspaper coverage.
@@ -2621,7 +2621,7 @@ Transcript Snippet: You shouldn't be teaming up with them. But that's not how Er
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10538
+Related Nodes: N-10493
 Tags: relevance:context
 Investigative Direction: Define who is meant by the bullies and list the joint appearances.
 
@@ -2637,7 +2637,7 @@ Transcript Snippet: I do think we are going to do a website, so you guys can rea
 
 Anchored Artifacts: A-3242.1
 Mentions: N-3
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:context
 Investigative Direction: Watch for the launch of the site and its contents.
 
@@ -2905,7 +2905,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-10141+ range per continuation)
+- [x] People nodes use the global people ledger (N-10136+ range per continuation)
 - [x] Non-person investigation targets use the 2061+ range per continuation
 - [x] No speculative/framing claims were inscribed as evidence-backed claims
 - [x] Names are preserved exactly as they appear (with flag for Andrew Kolvet/Andrew Kolvet/Andrew Kolvet spelling variations)

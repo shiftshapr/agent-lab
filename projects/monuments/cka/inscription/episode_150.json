@@ -726,14 +726,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Existing topic reused for the broadcast, memorial and betrayal claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -748,14 +750,18 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10004",
       "ref": "N-10004",
       "name": "Kanye Tweet About Candace Owens",
-      "type": "topic",
+      "type": "thing",
       "description": "Existing topic reused for the 2018 tweet timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -765,7 +771,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SocialMediaPosting"
     },
     {
       "@type": "Place",
@@ -784,12 +791,14 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Topic",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "topic",
       "description": "Existing topic reused for the political pressure claim.",
@@ -801,12 +810,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10118",
-      "ref": "N-10118",
+      "@id": "N-10114",
+      "ref": "N-10114",
       "name": "Candace UK Premonition / Husband Meeting",
       "type": "topic",
       "description": "Existing topic reused for the unplanned London trip.",
@@ -818,12 +828,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10389",
-      "ref": "N-10389",
+      "@id": "N-10362",
+      "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
       "type": "topic",
       "description": "Existing topic reused for Kirk's alleged dreams of his death.",
@@ -836,12 +847,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10415",
-      "ref": "N-10415",
+      "@id": "N-10388",
+      "ref": "N-10388",
       "name": "Charlie Kirk Premonition Pattern",
       "type": "topic",
       "description": "Existing topic reused for the 2018 statements and the written choice.",
@@ -854,12 +866,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10704",
-      "ref": "N-10704",
+      "@id": "N-10640",
+      "ref": "N-10640",
       "name": "Mossad \"Truman Show\" Analogy Application",
       "type": "topic",
       "description": "Existing topic reused for the Truman Show remark.",
@@ -871,14 +884,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11014",
-      "ref": "N-11014",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10934",
+      "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for the sale of items in Kirk's name.",
       "related_artifacts": [],
       "related_claims": [
@@ -889,12 +903,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11059",
-      "ref": "N-11059",
+      "@id": "N-10977",
+      "ref": "N-10977",
       "name": "Russian-Speaking Turning Point Network",
       "type": "topic",
       "description": "Existing topic reused for the Russian speakers at the memorial.",
@@ -906,7 +921,28 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12961",
+        "C-12962"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1173,7 +1209,9 @@
       "anchored_artifacts": [
         "A-2351.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [],
       "claim_timestamp": "00:05:08",
       "investigative_direction": "Verify speaker list and video documentation of memorial event.",
@@ -1323,7 +1361,7 @@
         "A-2351.1"
       ],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:core"
@@ -1434,7 +1472,7 @@
         "A-2351.1"
       ],
       "related_nodes": [
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:context"
@@ -1456,8 +1494,8 @@
         "A-2351.1"
       ],
       "related_nodes": [
-        "N-11059",
-        "N-10002"
+        "N-10977",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -1681,8 +1719,8 @@
         "A-2351.3"
       ],
       "related_nodes": [
-        "N-10389",
-        "N-10415"
+        "N-10362",
+        "N-10388"
       ],
       "tags": [
         "relevance:core"
@@ -1757,7 +1795,7 @@
         "A-2351.3"
       ],
       "related_nodes": [
-        "N-10118"
+        "N-10114"
       ],
       "tags": [
         "relevance:context"
@@ -1822,8 +1860,8 @@
       ],
       "related_nodes": [
         "N-10026",
-        "N-10056",
-        "N-10704"
+        "N-10053",
+        "N-10640"
       ],
       "tags": [
         "relevance:core"
@@ -1913,7 +1951,7 @@
         "A-2351.4"
       ],
       "related_nodes": [
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:context"
@@ -1980,7 +2018,7 @@
         "A-2351.4"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [
         "relevance:core"

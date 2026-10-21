@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 7bb121d0ec2fb6f7ef5f449856c387ad97b4f7d167aa9b95601e197b3fa147dc
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-897, N-11311
-  - Hole-minted Nodes (reintro-ep151): N-10864
+  - Tip-minted Nodes (supplement_2026-10e): N-897, N-11227
+  - Hole-minted Nodes (reintro-ep151): N-10785
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13003–C-13069
   - (see registers)
@@ -32,8 +32,8 @@
 - Analysis Date: 2026-09-14
 - Episode 151 Ledger Summary
   - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373, A-2521
-  - New Nodes Introduced: N-10827, N-10829, N-10830
-  - Reused Nodes Appearing: N-11, N-506, N-246, N-3, N-60, N-366, N-604, N-610, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053, N-896, N-10828, N-11310
+  - New Nodes Introduced: N-10750, N-10752, N-10753
+  - Reused Nodes Appearing: N-11, N-506, N-246, N-3, N-60, N-366, N-604, N-610, N-10000, N-10014, N-10038, N-10040, N-10096, N-10100, N-10103, N-10165, N-10371, N-10389, N-10416, N-10492, N-10524, N-10593, N-10636, N-10721, N-10734, N-10821, N-10846, N-10895, N-10971, N-896, N-10751, N-11226
   - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erika Kirk, Frank Turek, Brian Harpole, Blake Harreff, Tyler Robinson, Terryl Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
@@ -215,7 +215,7 @@ Video Timestamp: 00:40:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13051, C-13052, C-13047, N-10827, Andrew Kolvet (existing node – ID resolution required)*
+*Related: C-13051, C-13052, C-13047, N-10750, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:41:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13054, C-13047, N-10827*
+*Related: C-13054, C-13047, N-10750*
 
 ---
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13053, N-10827, Tyler Bowyer (existing node – ID resolution required), N-11*
+*Related: C-13053, N-10750, Tyler Bowyer (existing node – ID resolution required), N-11*
 
 ---
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13057, C-13047, N-10827, Andrew Kolvet (existing node – ID resolution required)*
+*Related: C-13057, C-13047, N-10750, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:37:35–00:40:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (image shown but underlying source provenance not stated)
 
-*Related: C-13047, N-10827*
+*Related: C-13047, N-10750*
 
 ---
 
@@ -369,7 +369,7 @@ Video Timestamp: 00:48:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (emails described, not shown)
 
-*Related: C-13061, N-246, N-10830*
+*Related: C-13061, N-246, N-10753*
 
 ---
 
@@ -483,7 +483,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-10827** Statue Vandalism Investigation
+**N-10750** Statue Vandalism Investigation
 
 Persistent target: alleged vandalism of TPUSA Charlie Kirk statue with red paint on or about September 13, 2026. Open questions include: actual perpetrators, whether on-campus surveillance footage exists and will be released, the authenticity of the photo circulating, partisan attribution, and the simultaneous pivot to TP Action fundraising.
 
@@ -496,7 +496,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10828** Timpanogos Doctor Recusal Mystery
+**N-10751** Timpanogos Doctor Recusal Mystery
 
 Investigation target referenced from prior episode: an unnamed doctor said to have been present during surgery on Charlie at Timpanogos and to have recused himself from files due to an in-room event. Host is still seeking a second corroborating source.
 
@@ -509,7 +509,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10829** Timpanogos Nurse "Chest Saw" Allegation
+**N-10752** Timpanogos Nurse "Chest Saw" Allegation
 
 Investigation target: an alleged Timpanogos nurse who reports that an out-of-norm request was made for a chest saw during the Charlie Kirk ER episode. Host explicitly tags as "allegedly" and notes she is still working to verify.
 
@@ -522,7 +522,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10830** Security Detail Electrical Hazard Footwear Question
+**N-10753** Security Detail Electrical Hazard Footwear Question
 
 Investigation target: viewer emails (per host) claim the matching light-brown shoes worn by Blake Harreff, Butch Hibs, and other security personnel are models sold for electrical-hazard/labor-trade protection. Host surfaces this without confirmation.
 
@@ -568,7 +568,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10040** Robinson On-Campus Linger Timeline
+**N-10038** Robinson On-Campus Linger Timeline
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -576,7 +576,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10043** Two-Person Theory (Maroon vs Stairs)
+**N-10040** Two-Person Theory (Maroon vs Stairs)
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -584,7 +584,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -592,7 +592,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10104** Catholic Conversion Rumor
+**N-10100** Catholic Conversion Rumor
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -600,7 +600,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10107** Crime Scene Pavers
+**N-10103** Crime Scene Pavers
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -608,15 +608,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10164** Charlie Kirk Catholic Trajectory Verification
-
-Existing topic or organization reused for new claims in this episode.
-
-*Related: C-13046*
-
----
-
-**N-10172** Multiple Decoys Theory (4 Decoys Named)
+**N-10165** Multiple Decoys Theory (4 Decoys Named)
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -624,7 +616,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -632,7 +624,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -640,7 +632,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -648,7 +640,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
+**N-10492** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -656,7 +648,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10573** Timpanogos Hospital Evidence Question
+**N-10524** Timpanogos Hospital Evidence Question
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -664,7 +656,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -672,7 +664,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10699** Brian Harpole vs Frank Turek CPR Contradiction
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -680,15 +672,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10737** CPR Narrative Contradiction (Turek / Harpole)
-
-Existing topic or organization reused for new claims in this episode.
-
-*Related: C-13022*
-
----
-
-**N-10797** Terryl Farnsworth Google-Hack Contradiction
+**N-10721** Terryl Farnsworth Google-Hack Contradiction
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -696,7 +680,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10810** SD Card Chain-of-Custody Investigation
+**N-10734** SD Card Chain-of-Custody Investigation
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -704,7 +688,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10864** Vanity Fair Erika Kirk Profile (Clara Molot)
+**N-10785** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -712,7 +696,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -720,7 +704,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -728,7 +712,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10974** PETN Explosive
+**N-10895** PETN Explosive
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -736,7 +720,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-11053** Charlie Kirk Handheld Microphone Custody
+**N-10971** Charlie Kirk Handheld Microphone Custody
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -862,16 +846,16 @@ First named by the host at 00:07:25 in episode 151. Commentator (Instagram handl
 
 ---
 
-**N-11310** Security Team Timpanogos Scrubs Question
+**N-11226** Security Team Timpanogos Scrubs Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's questions over why Blake Harreff and others from the security team were wearing hospital scrubs on returning to UVU on the evening of September 10.
 
 *Related: C-13004, C-13005, C-13008, C-13038*
 
 ---
 
-**N-11311** Erika Kirk Stepping Down Rumor
+**N-11227** Erika Kirk Stepping Down Rumor
 
 Node Type: Topic
 The host's remark that rumors circulate that Erika Kirk is stepping down from TPUSA.
@@ -890,7 +874,7 @@ Claim: Erika Kirk posted a tweet invoking Charlie's purported "build two statues
 
 Anchored Artifacts: A-2364.1
 Mentions: N-2
-Related Nodes: N-10827
+Related Nodes: N-10750
 Investigative Direction: Locate original tweet with timestamp; cross-check against TPUSA verified accounts; verify exact attribution.
 
 ---
@@ -903,7 +887,7 @@ Claim: Tyler Bowyer, identified by host as running TP Action, posted the Commit 
 
 Anchored Artifacts: A-2365.1
 Mentions: N-11
-Related Nodes: N-10827
+Related Nodes: N-10750
 Investigative Direction: Pull the original tweet with timestamp; confirm author and program URL.
 
 ---
@@ -916,7 +900,7 @@ Claim: Andrew Kolvet tweeted asking why Katie Hobbs or "anyone with a D next to 
 
 Anchored Artifacts: A-2366.1
 Mentions: N-14, N-576
-Related Nodes: N-10827
+Related Nodes: N-10750
 Investigative Direction: Pull original tweet; verify which "neighboring buildings"; confirm whether on-campus surveillance footage is or is not in TPUSA possession.
 
 ---
@@ -1006,7 +990,7 @@ Claim: Andrew Kolvet stated that "friends of Charlie and Erika" have posted a $1
 
 Anchored Artifacts: A-2363.1
 Mentions: N-1, N-2, N-14
-Related Nodes: N-10827
+Related Nodes: N-10750
 Investigative Direction: Identify which "friends" funded the reward; verify any law enforcement bulletin.
 
 ---
@@ -1019,7 +1003,7 @@ Claim: Andrew Kolvet stated the Commit 100 program "has been surging" after the 
 
 Anchored Artifacts: A-2363.1
 Mentions: N-14
-Related Nodes: N-10827
+Related Nodes: N-10750
 Investigative Direction: Compare against any public Commit 100 signup metrics or TP Action disclosures.
 
 ---
@@ -1094,7 +1078,7 @@ Claim: The host says TPUSA and affiliated accounts (Andrew Kolvet, Erika Kirk, T
 
 Anchored Artifacts: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1
 Mentions: N-11, N-14, N-2
-Related Nodes: N-10827
+Related Nodes: N-10750
 Investigative Direction: Confirm police / Tempenogo PD report; review any TPUSA-released surveillance or police bulletin.
 
 ---
@@ -1135,7 +1119,7 @@ Transcript Snippet: They sent links that these are like electrical hazard protec
 
 Anchored Artifacts: A-2521.1
 Mentions: N-246, N-3
-Related Nodes: N-10830
+Related Nodes: N-10753
 Investigative Direction: Identify the shoe model from the security-detail footage and confirm whether it is sold as electrical-hazard (EH-rated) footwear.
 
 ---
@@ -1150,7 +1134,7 @@ Transcript Snippet: they did erect a statue of Charlie in front of their campus.
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10827, N-10000
+Related Nodes: N-10750, N-10000
 Tags: relevance:context
 Investigative Direction: Identify the date of the unveiling and the police report or TPUSA statement attributing the vandalism to the left.
 
@@ -1166,7 +1150,7 @@ Transcript Snippet: we discovered that rather mysteriously uh he's wearing scrub
 
 Anchored Artifacts: A-3158.1
 Mentions: N-896, N-3, N-1
-Related Nodes: N-11310
+Related Nodes: N-11226
 Supports: C-12881, C-12877, C-12880
 Tags: relevance:core
 Investigative Direction: Obtain the UVU-return footage, hospital visitor and scrub-issue records, and any statement from Harreff on when and why he changed.
@@ -1183,7 +1167,7 @@ Transcript Snippet: on the basis of the stories that have been shared by Frank C
 
 Anchored Artifacts: 
 Mentions: N-7, N-896
-Related Nodes: N-11310
+Related Nodes: N-11226
 Tags: relevance:core
 Investigative Direction: Find Turek's original statement about scrubs being handed out and ask Timpanogos Hospital whether scrubs were given to non-patients that day.
 
@@ -1199,7 +1183,7 @@ Transcript Snippet: why would the feds collect Blake Harreff's shirt, which had 
 
 Anchored Artifacts: 
 Mentions: N-1, N-896
-Related Nodes: N-10537, N-11053, N-10014
+Related Nodes: N-10492, N-10971, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain the FBI evidence inventory for the necklace, the microphone and clothing items collected on September 10.
 
@@ -1231,7 +1215,7 @@ Transcript Snippet: Blake when he slid across the table may have got some explos
 
 Anchored Artifacts: 
 Mentions: N-896
-Related Nodes: N-10107, N-10974, N-11310
+Related Nodes: N-10103, N-10895, N-11226
 Tags: relevance:core
 Investigative Direction: Ask which agency collected clothing from people near Charlie and whether swabs for residue were taken.
 
@@ -1262,7 +1246,7 @@ Transcript Snippet: I've told you guys that for the last three years, I've been 
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10900, N-10416
+Related Nodes: N-10821, N-10389
 Tags: relevance:tangential
 Investigative Direction: Compare against Boreing's own public statements and the legal filings the host cites.
 
@@ -1278,7 +1262,7 @@ Transcript Snippet: He even declared publicly that if his only contribution to t
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:tangential
 Investigative Direction: Locate the original Boreing remark and its date.
 
@@ -1294,7 +1278,7 @@ Transcript Snippet: he's referred to Laura Loomer as a national treasure in this
 
 Anchored Artifacts: 
 Mentions: N-366, N-60, N-610
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:tangential
 Investigative Direction: Find the Boreing episodes or posts with the Loomer and Kraus remarks.
 
@@ -1310,7 +1294,7 @@ Transcript Snippet: This is a real collage and by no means is it extensive.
 
 Anchored Artifacts: A-3159.1
 Mentions: N-366, N-3
-Related Nodes: N-10900, N-10416
+Related Nodes: N-10821, N-10389
 Tags: relevance:tangential
 Investigative Direction: Pull each clip in the collage to its source episode and verify the wording.
 
@@ -1326,7 +1310,7 @@ Transcript Snippet: he's now talking about how he's going to be touring with Tur
 
 Anchored Artifacts: 
 Mentions: N-366
-Related Nodes: N-10398
+Related Nodes: N-10371
 Tags: relevance:context
 Investigative Direction: Find Boreing's statement and any TPUSA Faith tour announcement.
 
@@ -1357,7 +1341,7 @@ Transcript Snippet: So, I had to deal with it privately in court and now people 
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:tangential
 Investigative Direction: Identify the court proceedings between the host and Boreing or the Daily Wire.
 
@@ -1373,7 +1357,7 @@ Transcript Snippet: If you were in the trunk, how did you do that? And how would
 
 Anchored Artifacts: A-2368.1, A-2369.1
 Mentions: N-897, N-7, N-266
-Related Nodes: N-10699
+Related Nodes: N-10636
 Supports: C-12858, C-12856
 Tags: relevance:core
 Investigative Direction: Establish where in the SUV Turek sat and whether the seats allowed access to Charlie from there.
@@ -1390,7 +1374,7 @@ Transcript Snippet: It's CPR is not a subtle thing that you do, right? It it tak
 
 Anchored Artifacts: 
 Mentions: N-7, N-266, N-1
-Related Nodes: N-10699, N-10737
+Related Nodes: N-10636
 Supports: C-12858, C-12856
 Tags: relevance:core
 Investigative Direction: Reconstruct seating and positioning in the SUV from photos and interviews with those aboard.
@@ -1407,7 +1391,7 @@ Transcript Snippet: I mean, I got Brian Harpell suing me on the basis of saying 
 
 Anchored Artifacts: 
 Mentions: N-266, N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Pull the Harpole complaint and docket to confirm the claims pleaded.
 
@@ -1438,7 +1422,7 @@ Transcript Snippet: Officer Bagley testifies. He knows this is the same person a
 
 Anchored Artifacts: 
 Mentions: N-506, N-40
-Related Nodes: N-10043, N-10172
+Related Nodes: N-10040, N-10165
 Tags: relevance:core
 Investigative Direction: Pull Bagley's preliminary hearing testimony on how he linked the two figures.
 
@@ -1454,7 +1438,7 @@ Transcript Snippet: according to the police warrants, this is approximately at 1
 
 Anchored Artifacts: A-2371.1, A-3164.1
 Mentions: N-40
-Related Nodes: N-10040
+Related Nodes: N-10038
 Tags: relevance:core
 Investigative Direction: Read the warrant affidavits for the stated time of the footage and the time of the shot.
 
@@ -1486,7 +1470,7 @@ Transcript Snippet: the accounts that came from the SBI that testified about wha
 
 Anchored Artifacts: A-3165.1
 Mentions: 
-Related Nodes: N-10810, N-10100
+Related Nodes: N-10734, N-10096
 Tags: relevance:core
 Investigative Direction: Read the preliminary hearing transcript for the SBI witness's description of what media was received.
 
@@ -1502,7 +1486,7 @@ Transcript Snippet: this is enough to infer that some evidence may have been tam
 
 Anchored Artifacts: A-3165.1
 Mentions: N-261
-Related Nodes: N-10810
+Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Request the evidence-seizure record for Farnsworth's laptop and storage media.
 
@@ -1518,7 +1502,7 @@ Transcript Snippet: Actually, he immediately sent over files to the FBI and he c
 
 Anchored Artifacts: A-3165.1
 Mentions: N-261
-Related Nodes: N-10797, N-10014
+Related Nodes: N-10721, N-10014
 Supports: C-12216, C-4567
 Tags: relevance:core
 Investigative Direction: Check preliminary-hearing testimony and Google Drive share logs for the send date and recipient.
@@ -1550,7 +1534,7 @@ Transcript Snippet: I don't think that's the same person as the maroon person. I
 
 Anchored Artifacts: A-2371.1
 Mentions: N-40
-Related Nodes: N-10172, N-10043
+Related Nodes: N-10165, N-10040
 Supports: C-13025
 Tags: relevance:core
 Investigative Direction: Identify the figure through independent comparison with known images and campus camera paths.
@@ -1567,7 +1551,7 @@ Transcript Snippet: what took place at the hospital and why people were wearing 
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-11310
+Related Nodes: N-11226
 Tags: relevance:core
 Investigative Direction: Check footage of Turek on return to UVU for scrubs and ask him directly.
 
@@ -1615,7 +1599,7 @@ Transcript Snippet: Charlie had a Superman neck. He ate vegetables. Oh, it was j
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10447
+Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Trace who first described the neck wound as a miracle and the medical basis claimed.
 
@@ -1646,7 +1630,7 @@ Transcript Snippet: I mentioned in a sentence that he was we were all hoping he 
 
 Anchored Artifacts: 
 Mentions: N-1, N-99, N-14, N-3
-Related Nodes: N-10104, N-10164
+Related Nodes: N-10100
 Supports: C-1972
 Tags: relevance:core
 Investigative Direction: Compare the host's tribute wording with the Clark and Kolvet episode and any attendance records.
@@ -1663,7 +1647,7 @@ Transcript Snippet: they have extremely heavy surveillance all across Turning Po
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10827, N-10000
+Related Nodes: N-10750, N-10000
 Tags: relevance:context
 Investigative Direction: Ask TPUSA or Arizona police whether campus cameras captured the vandalism.
 
@@ -1678,7 +1662,7 @@ Claim: The host says TPUSA has released no information on who vandalized the sta
 Transcript Snippet: We're getting actually no information from TurningPoint as to uh who vandalized the statue. They're not looking, they're not seeking the public's help
 
 Anchored Artifacts: A-2373.1
-Related Nodes: N-10827, N-10925
+Related Nodes: N-10750, N-10846
 Tags: relevance:context
 Investigative Direction: Check for any police bulletin or TPUSA footage release after the 13th.
 
@@ -1693,7 +1677,7 @@ Claim: The host says Turning Point Action, where TPUSA is directing supporters, 
 Transcript Snippet: Turning Point Action, which is not the 501c3 charitable arm, right? That's their 501c4.
 
 Anchored Artifacts: 
-Related Nodes: N-10925, N-10000
+Related Nodes: N-10846, N-10000
 Tags: relevance:context
 Investigative Direction: Confirm Turning Point Action's IRS tax status.
 
@@ -1709,7 +1693,7 @@ Transcript Snippet: this is our program, the Chase 100 ballots this October. We 
 
 Anchored Artifacts: A-2365.1
 Mentions: N-11
-Related Nodes: N-10925, N-10827
+Related Nodes: N-10846, N-10750
 Supports: C-13053
 Tags: relevance:context
 Investigative Direction: Pull the original post and the Chase the Ballots program page.
@@ -1742,7 +1726,7 @@ Transcript Snippet: the article is going to be released imminently. They basical
 
 Anchored Artifacts: A-3161.1
 Mentions: N-3
-Related Nodes: N-10864
+Related Nodes: N-10785
 Supports: C-13058
 Tags: relevance:core
 Investigative Direction: Check Vanity Fair's publication of the Erika Kirk article and the date of the host's contact.
@@ -1759,7 +1743,7 @@ Transcript Snippet: I know they are upset about the rumors that she's stepping d
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11311, N-10000
+Related Nodes: N-11227, N-10000
 Tags: relevance:core
 Investigative Direction: Look for reporting or TPUSA board statements on a change in leadership.
 
@@ -1790,7 +1774,7 @@ Transcript Snippet: who we are told uh was in the room when surgery was being co
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10828, N-10573
+Related Nodes: N-10751, N-10524
 Tags: relevance:core
 Investigative Direction: Identify the surgical team from hospital records and corroborate the recusal with a second source.
 
@@ -1806,7 +1790,7 @@ Transcript Snippet: one of the things that they asked for which they thought was
 
 Anchored Artifacts: A-3163.1
 Mentions: N-1, N-3
-Related Nodes: N-10829, N-10573
+Related Nodes: N-10752, N-10524
 Tags: relevance:core
 Investigative Direction: Verify the nurse's employment and presence, and compare with the surgical record.
 
@@ -1822,7 +1806,7 @@ Transcript Snippet: Some stuff we're not going to share, obviously, because I do
 
 Anchored Artifacts: 
 Mentions: N-266, N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Supports: C-13023
 Tags: relevance:core
 Investigative Direction: Check the docket for the lawsuits referred to and any protective orders.

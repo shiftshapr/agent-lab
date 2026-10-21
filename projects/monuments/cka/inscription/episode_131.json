@@ -85,7 +85,7 @@
           ],
           "related_nodes": [
             "N-97",
-            "N-10748"
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -293,7 +293,7 @@
           "related_nodes": [
             "N-3",
             "N-97",
-            "N-10748"
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -313,7 +313,7 @@
           "related_nodes": [
             "N-3",
             "N-97",
-            "N-10748"
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -334,7 +334,7 @@
             "N-3",
             "N-1",
             "N-97",
-            "N-10748"
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -475,11 +475,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10748",
-      "ref": "N-10748",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10678",
+      "ref": "N-10678",
       "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Javitch (caption: Jabitch/Jabach; spelling unverified) as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.",
       "related_artifacts": [
         "A-2181.1"
@@ -490,7 +490,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1017,11 +1018,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10003",
       "ref": "N-10003",
       "name": "Charlie-Candace Friendship Continuity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1034,14 +1035,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1051,14 +1053,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10033",
-      "ref": "N-10033",
-      "name": "Hamptons Donor Pressure Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10016",
+      "ref": "N-10016",
+      "name": "Hamptons Meeting Pressure Investigation",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1068,14 +1071,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@type": "Organization",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1086,14 +1091,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10211",
-      "ref": "N-10211",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10203",
+      "ref": "N-10203",
       "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1103,14 +1110,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1120,14 +1129,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10276",
-      "ref": "N-10276",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10259",
+      "ref": "N-10259",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1137,14 +1147,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1155,14 +1167,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@type": "Topic",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1172,14 +1186,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10386",
-      "ref": "N-10386",
+      "@type": "Topic",
+      "@id": "N-10359",
+      "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1190,14 +1205,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10405",
-      "ref": "N-10405",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10378",
+      "ref": "N-10378",
       "name": "September 10 Plot Against Candace Owens",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1207,14 +1223,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@type": "Topic",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1224,14 +1241,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10480",
-      "ref": "N-10480",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10447",
+      "ref": "N-10447",
       "name": "Nimrod / Gilgamesh Remains Extraction Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1241,14 +1259,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10712",
-      "ref": "N-10712",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10648",
+      "ref": "N-10648",
       "name": "Ben Shapiro Car Ride Live Updates",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1258,14 +1277,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10624"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10741",
-      "ref": "N-10741",
+      "@type": "Topic",
+      "@id": "N-10673",
+      "ref": "N-10673",
       "name": "Sandy Hook Comparison Rhetoric",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,14 +1296,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10743",
-      "ref": "N-10743",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10675",
+      "ref": "N-10675",
       "name": "Daily Mail Article Source Identity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1297,32 +1319,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10745",
-      "ref": "N-10745",
-      "name": "Daily Mail Article Sourcing Question",
-      "type": "investigation_target",
-      "description": "Reused node cited by new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11317",
-        "C-11351"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@type": "Organization",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1332,14 +1337,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10960",
-      "ref": "N-10960",
+      "@type": "Organization",
+      "@id": "N-10881",
+      "ref": "N-10881",
       "name": "US Weekly",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1349,14 +1356,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q41298"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11014",
-      "ref": "N-11014",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10934",
+      "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1366,14 +1375,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11119",
-      "ref": "N-11119",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11037",
+      "ref": "N-11037",
       "name": "Andrew Breitbart Death and Autopsy Inquiry",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1383,14 +1393,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11129",
-      "ref": "N-11129",
+      "@type": "Organization",
+      "@id": "N-11047",
+      "ref": "N-11047",
       "name": "Freemasonry",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1400,14 +1411,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11130",
-      "ref": "N-11130",
+      "@type": "Organization",
+      "@id": "N-11048",
+      "ref": "N-11048",
       "name": "B'nai B'rith",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1421,14 +1434,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11149",
-      "ref": "N-11149",
+      "@type": "Event",
+      "@id": "N-11065",
+      "ref": "N-11065",
       "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1438,14 +1453,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11153",
-      "ref": "N-11153",
+      "@type": "Organization",
+      "@id": "N-11069",
+      "ref": "N-11069",
       "name": "Anti-Defamation League",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1456,14 +1473,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11156",
-      "ref": "N-11156",
+      "@type": "Topic",
+      "@id": "N-11072",
+      "ref": "N-11072",
       "name": "Leo Frank Case and ADL Origin Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1474,14 +1493,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11204",
-      "ref": "N-11204",
+      "@type": "Topic",
+      "@id": "N-11120",
+      "ref": "N-11120",
       "name": "Twitch Memorial NDA Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1492,7 +1512,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1574,11 +1595,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11359",
-      "ref": "N-11359",
+      "@type": "Organization",
+      "@id": "N-11275",
+      "ref": "N-11275",
       "name": "Chabad Lubavitch",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization",
       "related_artifacts": [],
       "related_claims": [
@@ -1589,12 +1610,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Place",
-      "@id": "N-11360",
-      "ref": "N-11360",
+      "@id": "N-11276",
+      "ref": "N-11276",
       "name": "Ronald Reagan Presidential Library",
       "type": "place",
       "description": "Library in Simi Valley where the host says Ben Shapiro was due to speak at 6:00 p.m. on September 10, 2025.",
@@ -1606,7 +1629,27 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11340"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1767,7 +1810,7 @@
         "A-2181.1"
       ],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:18:20",
@@ -1787,7 +1830,7 @@
         "A-2181.1"
       ],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:18:20",
@@ -2022,7 +2065,7 @@
         "A-2524.1"
       ],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:19:05",
@@ -2053,7 +2096,7 @@
         "A-2524.2"
       ],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:25:07",
@@ -2077,7 +2120,7 @@
         "A-2524.3"
       ],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:26:05",
@@ -2134,7 +2177,7 @@
       "claim": "The host says she showed the previous day that the Canaanites were literal Baal worshipers who modeled themselves after Nimrod and are permanently at war with the creator.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -2173,7 +2216,7 @@
       "claim": "The host says Steve Bannon explained that after Andrew Breitbart died, Ben Shapiro attempted to take over Breitbart's company and, when that failed, plotted to take down the company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10386"
+        "N-10359"
       ],
       "tags": [
         "relevance:context"
@@ -2199,7 +2242,7 @@
       "claim": "The host says Andrew Breitbart died young and under very suspicious circumstances.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11119"
+        "N-11037"
       ],
       "tags": [
         "relevance:context"
@@ -2249,7 +2292,7 @@
       "claim": "The host says that when she worked at The Daily Wire the executives were bizarrely focused on Tucker Carlson, as if in competition, while Tucker never spoke about Ben.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10385"
+        "N-10358"
       ],
       "tags": [
         "relevance:context"
@@ -2271,7 +2314,7 @@
       "claim": "The host says Charlie Kirk first looked up to Ben Shapiro, and that in 2018, once Ben became envious, the relationship switched and Ben began making trouble for Charlie behind the scenes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10386"
+        "N-10359"
       ],
       "tags": [
         "relevance:context"
@@ -2435,7 +2478,7 @@
         "A-2180.1"
       ],
       "related_nodes": [
-        "N-10416"
+        "N-10389"
       ],
       "tags": [
         "relevance:context"
@@ -2585,7 +2628,7 @@
         "A-3248.1"
       ],
       "related_nodes": [
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:core"
@@ -2633,7 +2676,7 @@
       "claim": "The host says everyone knew Charlie Kirk had been under pressure from pro-Israel donors since October 7, 2023.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -2773,8 +2816,8 @@
         "A-2181.1"
       ],
       "related_nodes": [
-        "N-10712",
-        "N-10748"
+        "N-10648",
+        "N-10678"
       ],
       "tags": [
         "relevance:core"
@@ -2800,7 +2843,7 @@
         "A-2524.1"
       ],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [
         "relevance:core"
@@ -2823,7 +2866,7 @@
         "A-2524.1"
       ],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [
         "relevance:core"
@@ -2845,8 +2888,8 @@
       "claim": "The host says Ben Shapiro was in Los Angeles because he was scheduled to appear later that evening at 6:00 p.m. at the Ronald Reagan Presidential Library in Simi Valley, and that the event was canceled because Charlie was shot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10748",
-        "N-11360"
+        "N-10678",
+        "N-11276"
       ],
       "tags": [
         "relevance:core"
@@ -2870,9 +2913,9 @@
         "A-2524.1"
       ],
       "related_nodes": [
-        "N-10748",
-        "N-10211",
-        "N-10276"
+        "N-10678",
+        "N-10203",
+        "N-10259"
       ],
       "tags": [
         "relevance:core"
@@ -2895,8 +2938,8 @@
         "A-2524.1"
       ],
       "related_nodes": [
-        "N-10748",
-        "N-11130"
+        "N-10678",
+        "N-11048"
       ],
       "tags": [
         "relevance:core"
@@ -2917,8 +2960,8 @@
       "claim": "The host says B'nai B'rith is the Jewish Freemasonic lodge, was founded by German Jews, and that Sigmund Freud belonged to it and denigrated goyim in correspondence, for example 'That joke is much too good for goyim'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11130",
-        "N-11129"
+        "N-11048",
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -2942,9 +2985,9 @@
       "claim": "The host says B'nai B'rith spun into the Anti-Defamation League when Leo Frank, president of the Atlanta B'nai B'rith chapter and owner of a factory, assaulted and murdered 13-year-old Mary Phagan, and that Frank was convicted despite blaming a Black janitor.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11130",
-        "N-11153",
-        "N-11156"
+        "N-11048",
+        "N-11069",
+        "N-11072"
       ],
       "tags": [
         "relevance:tangential"
@@ -2970,8 +3013,8 @@
       "claim": "The host says Leo Frank was convicted by a jury that consisted of Jews, and that every year the ADL lobbies and claims anti-Semitism caused his conviction where there was none.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-11156"
+        "N-11069",
+        "N-11072"
       ],
       "tags": [
         "relevance:tangential"
@@ -2994,8 +3037,8 @@
         "A-2524.1"
       ],
       "related_nodes": [
-        "N-10748",
-        "N-11130"
+        "N-10678",
+        "N-11048"
       ],
       "tags": [
         "relevance:core"
@@ -3018,9 +3061,9 @@
         "A-2524.1"
       ],
       "related_nodes": [
-        "N-10748",
-        "N-11130",
-        "N-11359"
+        "N-10678",
+        "N-11048",
+        "N-11275"
       ],
       "tags": [
         "relevance:core"
@@ -3041,8 +3084,8 @@
       "claim": "The host says a man now in jail plotted her murder in a chat with 20 other Jews, that none of them notified her, that the FBI got involved, and that he is in jail because she mentioned the history of Chabad Lubavitch and the Brooklyn tomb that presidents visit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10405",
-        "N-11359"
+        "N-10378",
+        "N-11275"
       ],
       "tags": [
         "relevance:context"
@@ -3064,7 +3107,7 @@
         "A-2524.2"
       ],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [
         "relevance:core"
@@ -3126,8 +3169,8 @@
       "claim": "The host says Andrew Kolvet, whom Baron Coleman accurately called a liar, blamed her for the Daily Mail hit piece when it went wrong, which she calls a DARVO tactic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10743",
-        "N-10070"
+        "N-10675",
+        "N-10067"
       ],
       "tags": [
         "relevance:core"
@@ -3152,8 +3195,8 @@
       "claim": "The host says the Daily Mail article is still up because Kolvet is lying and TPUSA cannot get a retraction, and that no associate editor would risk a lawsuit by inventing quotes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070",
-        "N-10743"
+        "N-10067",
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -3179,8 +3222,7 @@
         "A-3250.1"
       ],
       "related_nodes": [
-        "N-10743",
-        "N-10745"
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -3205,7 +3247,7 @@
       "claim": "The host says Tracy Martin has been doing the rounds in the press and giving quotes to Us magazine.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10960"
+        "N-10881"
       ],
       "tags": [
         "relevance:context"
@@ -3246,7 +3288,7 @@
       "claim": "The host says that when she said she suspected Tracy Martin was the source, Martin tried to get ahead of it by going on Paramount Tactical's show, before the host had received emails naming her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -3329,7 +3371,7 @@
       "claim": "The host says as she understands it, the Daily Mail article was an attempt to show the public that Erika was strong and not going to take it, which backfired, and that TPUSA then moved to DARVO tactics.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10743"
+        "N-10675"
       ],
       "tags": [
         "relevance:context"
@@ -3350,7 +3392,7 @@
       "claim": "The host says that when she woke up they were saying she was behind the article calling herself the B-word and a soulless ghoul.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10743"
+        "N-10675"
       ],
       "tags": [
         "relevance:context"
@@ -3496,7 +3538,8 @@
       "claim": "The host says she was told that at Charlie's Catholic mass burial, the day before the memorial event, Erika Kirk made her own family members and everyone present sign NDAs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11204"
+        "N-11120",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -3520,7 +3563,7 @@
         "A-2186.1"
       ],
       "related_nodes": [
-        "N-11204"
+        "N-11120"
       ],
       "tags": [
         "relevance:tangential"
@@ -3583,7 +3626,7 @@
       "claim": "The host says nothing at the preliminary hearing forced her to retract anything, and that it led to even more questions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3625,7 +3668,7 @@
       "claim": "The host says the T-shirts went into a for-profit business.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:context"
@@ -3646,7 +3689,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
-        "N-10345"
+        "N-10323"
       ],
       "tags": [
         "relevance:core"
@@ -3670,7 +3713,7 @@
         "A-3251.1"
       ],
       "related_nodes": [
-        "N-10345"
+        "N-10323"
       ],
       "tags": [
         "relevance:core"
@@ -3694,8 +3737,7 @@
         "A-3250.1"
       ],
       "related_nodes": [
-        "N-10743",
-        "N-10745"
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -3721,7 +3763,7 @@
       "claim": "The host says that once the usual people started talking about Sandy Hook she realized they would go for this and want her hung.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"

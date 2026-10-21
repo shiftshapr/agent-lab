@@ -263,8 +263,8 @@
           ],
           "related_nodes": [
             "N-37",
-            "N-10033",
-            "N-10037"
+            "N-10016",
+            "N-10036"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -292,7 +292,7 @@
           "related_nodes": [
             "N-1",
             "N-46",
-            "N-10033"
+            "N-10016"
           ],
           "tags": [],
           "event_timestamp": "2025-08-06",
@@ -347,7 +347,7 @@
           "related_nodes": [
             "N-37",
             "N-66",
-            "N-10033"
+            "N-10016"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -374,7 +374,7 @@
           "related_nodes": [
             "N-56",
             "N-37",
-            "N-10033"
+            "N-10016"
           ],
           "tags": [],
           "event_timestamp": "2025-08-04",
@@ -1297,7 +1297,9 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "educational_institution"
+      "organization_kind": "educational_institution",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
@@ -1317,7 +1319,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
+      "organization_kind": "government_agency",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1335,14 +1339,16 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "nonprofit"
+      "organization_kind": "nonprofit",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10030",
       "ref": "N-10030",
       "name": "Text Message Timestamp Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Indictment omits timestamps on Robinson-to-Lance texts; host flags as investigative gap.",
       "related_artifacts": [
         "A-1095.8"
@@ -1356,14 +1362,16 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10031",
       "ref": "N-10031",
       "name": "33-Hour Surrender Timeline Signal",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Repeated 33-hour figure in indictment; host flags as suspicious signaling.",
       "related_artifacts": [
         "A-1095.1"
@@ -1376,7 +1384,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question",
+      "parent": "N-10022"
     },
     {
       "@type": "Topic",
@@ -1398,14 +1408,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10033",
-      "ref": "N-10033",
-      "name": "Hamptons Donor Pressure Investigation",
-      "type": "topic",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10016",
+      "ref": "N-10016",
+      "name": "Hamptons Meeting Pressure Investigation",
+      "type": "investigation_question",
       "description": "Pressure on Charlie regarding Israel and conference guests at August 4-5 Hamptons retreat.",
       "related_artifacts": [
         "A-1098.1",
@@ -1418,19 +1429,23 @@
         "C-283",
         "C-254",
         "C-261",
-        "C-239"
+        "C-239",
+        "C-246",
+        "C-250"
       ],
       "tags": [],
       "evidence_count": 4,
       "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
       "@type": "Topic",
-      "@id": "N-10034",
-      "ref": "N-10034",
+      "@id": "N-10033",
+      "ref": "N-10033",
       "name": "Lance Twiggs Family Allegations",
       "type": "topic",
       "description": "Family-sourced allegations re: Lance Twiggs behavioral history, drug use, deep-web activity.",
@@ -1445,14 +1460,15 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10035",
-      "ref": "N-10035",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10034",
+      "ref": "N-10034",
       "name": "Unusual Traffic at Residence Investigation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Neighbor reports of unusual vehicles at Robinson/Twigs residence before shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1463,14 +1479,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10036",
-      "ref": "N-10036",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10035",
+      "ref": "N-10035",
       "name": "Building Donor Withdrawal Investigation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Top Jewish donors demanded name removed from TPUSA building 48 hours before Charlie's death; reversed after death.",
       "related_artifacts": [],
       "related_claims": [
@@ -1481,12 +1498,14 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
       "@type": "Topic",
-      "@id": "N-10037",
-      "ref": "N-10037",
+      "@id": "N-10036",
+      "ref": "N-10036",
       "name": "Bill Ackman Response Analysis",
       "type": "topic",
       "description": "Conspicuous omissions in Bill Ackman's tweet response; BB Netanyahu not addressed.",
@@ -1501,14 +1520,16 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Media outlet; the host says it provided the footage of the suspect walking with a limp.",
       "related_artifacts": [],
       "related_claims": [
@@ -1518,32 +1539,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10016",
-      "ref": "N-10016",
-      "name": "Hamptons Meeting Pressure Investigation",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the intervention claims.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-246",
-        "C-250"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the host's account of invitations to Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1557,14 +1562,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10019",
       "ref": "N-10019",
       "name": "Robinson Outfit Change Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the disposed-clothes and outfit-change texts.",
       "related_artifacts": [],
       "related_claims": [
@@ -1575,14 +1582,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10020",
       "ref": "N-10020",
       "name": "Weapon Disassembly/Reassembly Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused; the host notes the indictment no longer implies the rifle was taken apart.",
       "related_artifacts": [],
       "related_claims": [
@@ -1592,14 +1601,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the parents' account of the surrender.",
       "related_artifacts": [],
       "related_claims": [
@@ -1615,14 +1626,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the clip's Epstein-Mossad speculation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1632,14 +1644,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for claims about Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1657,14 +1670,16 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@type": "Topic",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for donor pressure and financial threats.",
       "related_artifacts": [],
       "related_claims": [
@@ -1678,14 +1693,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the text chain and the host's authenticity doubts.",
       "related_artifacts": [],
       "related_claims": [
@@ -1716,14 +1732,15 @@
       "evidence_count": 0,
       "claim_count": 22,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10134",
-      "ref": "N-10134",
+      "@type": "Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the weekend retreat claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1739,14 +1756,18 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10138",
-      "ref": "N-10138",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10133",
+      "ref": "N-10133",
       "name": "Bullet Casing Engraving Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the engraved-bullet texts and viewer doubts.",
       "related_artifacts": [],
       "related_claims": [
@@ -1758,14 +1779,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for pressure over AmericaFest speakers.",
       "related_artifacts": [],
       "related_claims": [
@@ -1775,14 +1797,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the unaddressed funding question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1792,14 +1815,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Dillon exchange at the retreat.",
       "related_artifacts": [],
       "related_claims": [
@@ -1810,14 +1834,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@type": "Topic",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Netanyahu skipping the Charlie Kirk Show.",
       "related_artifacts": [],
       "related_claims": [
@@ -1828,14 +1854,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11227",
-      "ref": "N-11227",
+      "@type": "Topic",
+      "@id": "N-11143",
+      "ref": "N-11143",
       "name": "AIPAC Hostile Takeover of TPUSA Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's hostile takeover framing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1845,14 +1873,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11366",
-      "ref": "N-11366",
+      "@type": "Event",
+      "@id": "N-11282",
+      "ref": "N-11282",
       "name": "Bill Ackman Million Dollar Reward Offer",
-      "type": "topic",
+      "type": "event",
       "description": "Bill Ackman's reported offer of a million dollars for information about the person who assassinated Charlie Kirk, as cited against the host by Laura Loomer in the host's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1863,7 +1892,29 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-162",
+        "C-187"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -1878,7 +1929,8 @@
       ],
       "related_nodes": [
         "N-10029",
-        "N-10031"
+        "N-10031",
+        "N-11360"
       ],
       "tags": [],
       "claim_timestamp": "00:07:02",
@@ -2036,7 +2088,9 @@
       "anchored_artifacts": [
         "A-1095.7"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11360"
+      ],
       "tags": [],
       "claim_timestamp": "00:16:00",
       "investigative_direction": "Confirm retired deputy's identity and role in surrender via sheriff records.",
@@ -2187,7 +2241,7 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-10037"
+        "N-10036"
       ],
       "tags": [],
       "claim_timestamp": "00:45:41",
@@ -2210,7 +2264,7 @@
         "A-1102.1"
       ],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [
         "open_source_investigation"
@@ -2233,7 +2287,7 @@
       "claim": "The host says that, per other people who were at the Hamptons and are talking about it, Bill Ackman gave a presentation telling attendees they should not own property and should instead invest in stocks; she adds that this is what he allegedly said.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [],
       "claim_timestamp": "01:03:58",
@@ -2255,7 +2309,7 @@
         "A-1099.1"
       ],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [],
       "claim_timestamp": "00:51:10",
@@ -2279,7 +2333,7 @@
         "A-1099.1"
       ],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [],
       "claim_timestamp": "00:54:16",
@@ -2340,7 +2394,7 @@
       "claim": "The host says Lance Twiggs's family members told her, and she stresses it is allegedly what they say, that Lance's parents kicked him out of their home in junior year of high school because he was problematic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:30:35",
@@ -2360,7 +2414,7 @@
       "claim": "The host says Lance Twiggs's family members told her, as allegations, that Lance almost overdosed by drinking a bottle of vodka at Christmas approximately three years ago and that the family feared they could not care for him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:31:02",
@@ -2379,7 +2433,7 @@
       "claim": "The host says Lance Twiggs's family members told her that Lance showed up on drugs on this past Easter Sunday, spouting political statements, and that they felt he could not be around children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:31:31",
@@ -2433,7 +2487,7 @@
       "claim": "The host says people who live in the neighborhood have been writing to her about unusual traffic, with a lot of unrecognized cars, at the house Tyler Robinson and Lance Twiggs shared in the days or weeks before the shooting, that a Twiggs family member told her they were hearing the same thing, and that she is still pinning down the timeline.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10035"
+        "N-10034"
       ],
       "tags": [],
       "claim_timestamp": "00:33:24",
@@ -2474,7 +2528,7 @@
       "claim": "Per attendees the host cites, Charlie faced pressure at the Hamptons retreat from Seth Dillon over his Israel views; the host says she heard Josh Hammer was upset after Charlie left and that she knows for a fact Hammer was part of 'the beehive that was swarming him' over people he had at his conferences.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [],
       "claim_timestamp": "00:42:46",
@@ -2497,7 +2551,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10036"
+        "N-10035"
       ],
       "tags": [
         "calls_for_tips"
@@ -2644,7 +2698,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:core"
@@ -3151,7 +3205,7 @@
       "claim": "The host says she believes Robinson was involved on the basis of the evidence, but that people close to the situation tell her there is no way he could have acted alone and that it had to be part of some wider plot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:core"
@@ -3193,7 +3247,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3216,7 +3270,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3239,7 +3293,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077",
+        "N-10074",
         "N-10030"
       ],
       "tags": [
@@ -3263,7 +3317,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3286,7 +3340,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077",
+        "N-10074",
         "N-10030"
       ],
       "tags": [
@@ -3310,7 +3364,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3333,7 +3387,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3356,7 +3410,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3379,7 +3433,7 @@
         "A-1095.6"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3402,7 +3456,7 @@
       ],
       "related_nodes": [
         "N-10019",
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3425,7 +3479,7 @@
       ],
       "related_nodes": [
         "N-10030",
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3452,8 +3506,8 @@
         "A-1095.4"
       ],
       "related_nodes": [
-        "N-10138",
-        "N-10077"
+        "N-10133",
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3475,7 +3529,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3499,7 +3553,7 @@
         "A-1095.6"
       ],
       "related_nodes": [
-        "N-10077",
+        "N-10074",
         "N-10022"
       ],
       "tags": [
@@ -3568,7 +3622,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3591,7 +3645,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3614,7 +3668,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077",
+        "N-10074",
         "N-10030"
       ],
       "tags": [
@@ -3641,7 +3695,7 @@
         "A-1095.9"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:core"
@@ -3664,7 +3718,7 @@
         "A-3270.1"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:core"
@@ -3687,7 +3741,7 @@
         "A-3270.1"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:tangential"
@@ -3709,7 +3763,7 @@
         "A-3270.1"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:context"
@@ -3731,7 +3785,7 @@
         "A-3270.1"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:core"
@@ -3754,7 +3808,7 @@
         "A-3270.1"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:context"
@@ -3796,7 +3850,7 @@
         "A-3270.1"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:context"
@@ -3819,7 +3873,7 @@
         "A-3270.1"
       ],
       "related_nodes": [
-        "N-10035"
+        "N-10034"
       ],
       "tags": [
         "relevance:context"
@@ -3841,8 +3895,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10032",
-        "N-10034",
-        "N-10035"
+        "N-10033",
+        "N-10034"
       ],
       "tags": [
         "relevance:core"
@@ -3882,8 +3936,8 @@
       "claim": "The host says her remark that only her husband and Erika Kirk can shut her up is a dig at donors who are making frantic calls trying to get the situation under control because they know she is telling the truth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033",
-        "N-10047"
+        "N-10016",
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3905,8 +3959,8 @@
       "claim": "The host, continuing her remark about donors making frantic calls, says \"Frantic calls from Seth Dillon. Oh my god,\" without citing any specific call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033",
-        "N-10345"
+        "N-10016",
+        "N-10323"
       ],
       "tags": [
         "relevance:core"
@@ -3927,9 +3981,9 @@
       "claim": "The host says the truth is that Charlie Kirk was under immense pressure and facing financial threats over his shifting stance on Israel and over who he was hosting, from his podcast guests to people on stage at AmericaFest such as Dave Smith and Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047",
-        "N-10268",
-        "N-10033"
+        "N-10044",
+        "N-10252",
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -3952,7 +4006,7 @@
       "claim": "The host says she knows what she did wrong, which was to look donors in the face and say no to their money.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:context"
@@ -3974,8 +4028,8 @@
         "A-1102.1"
       ],
       "related_nodes": [
-        "N-10134",
-        "N-10033"
+        "N-10129",
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -3996,8 +4050,8 @@
       "claim": "The host says, on a first-person account, that on the first day of the retreat Charlie presented and explained that he felt it was wrong that he could not publicly criticize Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134",
-        "N-10033"
+        "N-10129",
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -4017,8 +4071,8 @@
       "claim": "The host says that, in an example Kirk apparently gave (which she says she is paraphrasing), if he tweeted that Netanyahu should resign he would be unfairly attacked, and that Seth Dillon allegedly piped up and argued back and forth aggressively that it would be antisemitic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10345",
-        "N-10033"
+        "N-10323",
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -4043,7 +4097,7 @@
       "claim": "The host says she heard that Josh Hammer was upset after Charlie left the retreat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -4067,7 +4121,7 @@
       "claim": "The host says she welcomes Josh Hammer on her platform, where he is allowed to sit next to her and say her account is not reality.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [
         "relevance:context"
@@ -4088,7 +4142,7 @@
       "claim": "The host says she is in no way attacking that narrative and associating it with the events that took place on Utah's campus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033",
+        "N-10016",
         "N-10012"
       ],
       "tags": [
@@ -4135,7 +4189,7 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-10037"
+        "N-10036"
       ],
       "tags": [
         "relevance:core"
@@ -4162,7 +4216,7 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-10037"
+        "N-10036"
       ],
       "tags": [
         "relevance:core"
@@ -4184,7 +4238,6 @@
       "claim": "The host says, while distinguishing her account from the word blackmail, that she never said there was a file presented with a do-this-or-else message, and that she would not have said that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033",
         "N-10016"
       ],
       "tags": [
@@ -4210,7 +4263,7 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-10037"
+        "N-10036"
       ],
       "tags": [
         "relevance:context"
@@ -4233,8 +4286,8 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-10037",
-        "N-10134"
+        "N-10036",
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -4256,8 +4309,8 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-10037",
-        "N-10342",
+        "N-10036",
+        "N-10320",
         "N-10018"
       ],
       "tags": [
@@ -4283,7 +4336,7 @@
       ],
       "related_nodes": [
         "N-10016",
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:core"
@@ -4450,7 +4503,7 @@
       ],
       "related_nodes": [
         "N-10026",
-        "N-10033"
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -4596,8 +4649,8 @@
       "claim": "The host says that Charlie himself had alluded to a tremendous loss of money coming in.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10036",
-        "N-10047"
+        "N-10035",
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -4622,7 +4675,7 @@
         "A-2516.2"
       ],
       "related_nodes": [
-        "N-10456",
+        "N-10425",
         "N-10018"
       ],
       "tags": [
@@ -4648,7 +4701,7 @@
       ],
       "related_nodes": [
         "N-10018",
-        "N-10456"
+        "N-10425"
       ],
       "tags": [
         "relevance:core"
@@ -4671,7 +4724,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11227"
+        "N-11143"
       ],
       "tags": [
         "relevance:core"
@@ -4692,8 +4745,8 @@
       "claim": "The host says Charlie was being called names, was increasingly being told who and what he was allowed to speak to, and was taking a stance privately with these people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047",
-        "N-10033"
+        "N-10044",
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -4716,7 +4769,7 @@
       "claim": "The host says that now Charlie is dead, the same people who were pressing him are quickly trying to set in stone the narrative that he died for Israel, which she says is untrue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033",
+        "N-10016",
         "N-10026"
       ],
       "tags": [
@@ -4739,7 +4792,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:core"
@@ -4762,7 +4815,7 @@
         "A-3269.1"
       ],
       "related_nodes": [
-        "N-10037"
+        "N-10036"
       ],
       "tags": [
         "relevance:tangential"
@@ -4783,7 +4836,7 @@
       "claim": "The host says she has offered Bill Ackman her platform for anything more he would like to say or clarify.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10037"
+        "N-10036"
       ],
       "tags": [
         "relevance:context"
@@ -4806,7 +4859,7 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-10037"
+        "N-10036"
       ],
       "tags": [
         "relevance:context"
@@ -4827,7 +4880,7 @@
       "claim": "The host, asking Bill Ackman about his presentation at the meeting in the Hamptons, says the meeting was not publicized until she publicized it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -4850,7 +4903,7 @@
         "A-3268.1"
       ],
       "related_nodes": [
-        "N-11366"
+        "N-11282"
       ],
       "tags": [
         "relevance:core"
@@ -4874,7 +4927,7 @@
         "A-3268.1"
       ],
       "related_nodes": [
-        "N-11366"
+        "N-11282"
       ],
       "tags": [
         "relevance:context"
@@ -4958,7 +5011,7 @@
         "A-3270.1"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:tangential"
@@ -4981,7 +5034,7 @@
         "A-3267.1"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -5005,7 +5058,7 @@
         "A-3267.2"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -5028,7 +5081,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -5050,8 +5103,8 @@
         "A-3267.3"
       ],
       "related_nodes": [
-        "N-10138",
-        "N-10077"
+        "N-10133",
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -5075,8 +5128,8 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10138",
-        "N-10077"
+        "N-10133",
+        "N-10074"
       ],
       "tags": [
         "relevance:core"

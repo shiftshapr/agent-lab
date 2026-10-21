@@ -11,18 +11,18 @@
 - **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-788, N-11148, N-11150
+  - Tip-minted Nodes (supplement_2026-10b): N-788, N-11066
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12533–C-12638
-  - New Nodes Introduced: N-10819
-  - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-106, N-117, N-159, N-217, N-261, N-367, N-485, N-504, N-506, N-860, N-606, N-665, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149, N-281, N-10885
+  - New Nodes Introduced: N-10742
+  - Reused Nodes Appearing: N-10741, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-106, N-117, N-159, N-217, N-261, N-367, N-485, N-504, N-506, N-860, N-606, N-665, N-10000, N-10013, N-10015, N-10019, N-10038, N-10045, N-10074, N-10126, N-10143, N-10162, N-10185, N-10190, N-10234, N-10248, N-10303, N-10371, N-10521, N-10617, N-10648, N-10651, N-10663, N-10809, N-10818, N-10890, N-10975, N-10983, N-10988, N-10740, N-11065, N-281, N-10806
   - (see registers)
 
 # Episode 146 Ledger Summary
 
 Artifact Families Introduced: A-2320, A-2321, A-2322, A-2323, A-2324, A-2325, A-2326
 Claim Range: C-12566–C-12600
-New Nodes Introduced: N-10817, N-10818, N-10819
+New Nodes Introduced: N-10740, N-10741, N-10742
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -159,7 +159,7 @@ Video Timestamp: 00:15:14–00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-12570, C-12574, C-12576, N-10818*
+*Related: C-12570, C-12574, C-12576, N-10741*
 
 ---
 
@@ -188,7 +188,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-01 (broadcast)
 Confidence Level: High
 
-*Related: C-12589, N-10817*
+*Related: C-12589, N-10740*
 
 **A-2324.2** Butch Hibbs still on phone approximately five minutes after the shooting
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:24:18–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-12556, N-10817*
+*Related: C-12556, N-10740*
 
 **A-2324.3** Butch Hibbs standing behind persons speaking to news crews about what they witnessed
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:26:29–00:27:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-10817*
+*Related: N-10740*
 
 ---
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-10819*
+*Related: N-10742*
 
 ---
 
@@ -570,7 +570,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10040** Robinson On-Campus Linger Timeline
+**N-10038** Robinson On-Campus Linger Timeline
 
 Existing topic reused for new claims in this episode.
 
@@ -578,7 +578,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10048** Charlie Kirk Assassination Investigation
+**N-10045** Charlie Kirk Assassination Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -586,7 +586,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Existing topic reused for new claims in this episode.
 
@@ -594,7 +594,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 Existing topic reused for new claims in this episode.
 
@@ -602,7 +602,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -610,7 +610,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -618,7 +618,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -626,7 +626,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Existing topic reused for new claims in this episode.
 
@@ -634,7 +634,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10248** Calvary Chapel Network Infiltration Question
+**N-10234** Calvary Chapel Network Infiltration Question
 
 Existing topic reused for new claims in this episode.
 
@@ -642,7 +642,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10264** Calvary Chapel Pro-Israel Coordination
+**N-10248** Calvary Chapel Pro-Israel Coordination
 
 Existing topic reused for new claims in this episode.
 
@@ -650,7 +650,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for new claims in this episode.
 
@@ -658,7 +658,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Existing topic reused for new claims in this episode.
 
@@ -666,7 +666,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10570** Defense Discovery Dumping Strategy
+**N-10521** Defense Discovery Dumping Strategy
 
 Existing topic reused for new claims in this episode.
 
@@ -674,7 +674,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation
+**N-10617** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 Existing topic reused for new claims in this episode.
 
@@ -682,7 +682,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10712** Ben Shapiro Car Ride Live Updates
+**N-10648** Ben Shapiro Car Ride Live Updates
 
 Existing topic reused for new claims in this episode.
 
@@ -690,7 +690,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -698,7 +698,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10729** 911 Call Identification Gap
+**N-10663** 911 Call Identification Gap
 
 Existing topic reused for new claims in this episode.
 
@@ -706,7 +706,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10885** Jennica Pounds DoD Special Government Employee Thread
+**N-10806** Jennica Pounds DoD Special Government Employee Thread
 
 Existing topic reused for new claims in this episode.
 
@@ -714,7 +714,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Existing topic reused for new claims in this episode.
 
@@ -722,7 +722,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10897** Project Constitution
+**N-10818** Project Constitution
 
 Existing topic reused for new claims in this episode.
 
@@ -730,7 +730,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10969** Trump–Charlie Kirk July 12, 2025 Scolding Call
+**N-10890** Trump–Charlie Kirk July 12, 2025 Scolding Call
 
 Existing topic reused for new claims in this episode.
 
@@ -738,7 +738,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11057** Blake Neff Employment History Account
+**N-10975** Blake Neff Employment History Account
 
 Existing topic reused for new claims in this episode.
 
@@ -746,7 +746,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11065** Preliminary Hearing Influencer Invitation Question
+**N-10983** Preliminary Hearing Influencer Invitation Question
 
 Existing topic reused for new claims in this episode.
 
@@ -754,7 +754,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11070** Terryl Selfie Video Metadata Timeline
+**N-10988** Terryl Selfie Video Metadata Timeline
 
 Existing topic reused for new claims in this episode.
 
@@ -770,7 +770,7 @@ First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Sta
 
 ---
 
-**N-11148** Wilks Family Funding Network
+**N-11020** Wilks Brothers Funding Network
 
 Node Type: Topic
 The host's assertions about the Wilks brothers funding Calvary Chapel church construction, PragerU, the early Daily Wire and pro-Israel politicians.
@@ -779,16 +779,16 @@ The host's assertions about the Wilks brothers funding Calvary Chapel church con
 
 ---
 
-**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss
+**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
-Node Type: Topic
+Node Type: Event
 The preliminary hearing, the seven charges and the defense motion to dismiss counts 1, 6 and 7, with the magistrate's ruling awaited on the broadcast date.
 
 *Related: C-12601, C-12602, C-12603, C-12604, C-12605, C-12606, C-12607, C-12608, C-12609, C-12610, C-12611, C-12614, C-12615, C-12616, C-12617, C-12618, C-12619, C-12620, C-12621, C-12622, C-12623, C-12637*
 
 ---
 
-**N-11150** Aggravated Murder Single-Victim Standard and Pennsylvania Precedent
+**N-11066** Aggravated Murder Single-Victim Standard and Pennsylvania Precedent
 
 Node Type: Topic
 The host's account that Utah has no single-victim aggravated murder conviction and that the prosecution relies on Pennsylvania cases despite that state's death penalty moratorium.
@@ -799,7 +799,7 @@ The host's account that Utah has no single-victim aggravated murder conviction a
 
 ### People
 
-**N-10817** Butch Hibbs UVU Recording Behavior
+**N-10740** Butch Hibbs UVU Recording Behavior
 
 Persistent investigation into why a 74-year-old attendee recorded footage from multiple angles immediately after the shooting rather than rendering aid, fleeing, or calling emergency services; whether the footage was transmitted to Jack Hibbs or others; and the identity/content of the ~5-minute post-shooting phone call.
 
@@ -810,7 +810,7 @@ Investigative Pressure: High
 
 *Related: A-2324.1, A-2324.2, A-2324.3, C-12589, C-12556*
 
-**N-10818** Jack Hibbs Sequence-of-Events Discrepancy
+**N-10741** Jack Hibbs Sequence-of-Events Discrepancy
 
 Persistent discrepancy in Jack Hibbs's accounts: (a) who called him first (Mikey McCoy vs. Frank Turek), (b) "cousin Charlie" misidentification in the immediate post-shooting call, (c) 12:30 PM prayer-chain timestamp reportedly only ~7 minutes after the shooting.
 
@@ -821,7 +821,7 @@ Investigative Pressure: High
 
 *Related: A-2322.2, C-12570, C-12574, C-12576*
 
-**N-10819** Unidentified UVU Attendee (Pink Hat / Blue Shirt)
+**N-10742** Unidentified UVU Attendee (Pink Hat / Blue Shirt)
 
 Unidentified individual visible in UVU 9/10 photographs wearing a pink hat and blue shirt, holding what appears to be a drink; host has requested audience help identifying and contacting this person.
 
@@ -890,7 +890,7 @@ Claim: The host says never-before-seen footage she plays shows Butch Hibbs brief
 Anchored Artifacts: A-2324.1
 Mentions: N-246
 
-Related Nodes: N-10817
+Related Nodes: N-10740
 
 Investigative Direction: Obtain original device with full metadata; determine total duration and any transmissions; compare timestamps to corroborate against other event footage.
 
@@ -920,7 +920,7 @@ Claim: In a clip of his conversation with Frank Turek that the host plays, Jack 
 Anchored Artifacts: A-2322.2
 Mentions: N-1, N-208, N-7, N-246
 
-Related Nodes: N-10818
+Related Nodes: N-10741
 
 Investigative Direction: Verify the existence of a Jack Hibbs relative commonly known as "Charlie"; assess whether the confusion is plausible given family context and call conditions.
 
@@ -935,7 +935,7 @@ Claim: Per Jack Hibbs's account, a prayer chain was underway at approximately 12
 Anchored Artifacts: A-2322.2
 Mentions: N-1, N-208
 
-Related Nodes: N-10818
+Related Nodes: N-10741
 
 Investigative Direction: Establish the precise timestamp of the shooting from primary sources; corroborate hospital transport timeline; assess feasibility of FaceTime hospital contact within the stated window.
 
@@ -950,7 +950,7 @@ Claim: The host says a still from UVU footage shows Butch Hibbs on what looks to
 Anchored Artifacts: A-2324.2
 Mentions: N-246
 
-Related Nodes: N-10817
+Related Nodes: N-10740
 
 Investigative Direction: Attempt to identify call recipient via phone records; cross-reference with Jack Hibbs's stated call timeline (cousin-Charlie call).
 
@@ -995,7 +995,7 @@ Claim: The host says it seems implausible that Mikey McCoy called Pastor Jack Hi
 Anchored Artifacts: A-2322.1, A-2322.2, A-2323.1, A-2324.2
 Mentions: N-190, N-208
 
-Related Nodes: N-10818
+Related Nodes: N-10741
 
 Investigative Direction: Compare timestamps across all Calvary Chapel-linked calls and messages to determine whether communication pattern reflects coordinated response or independent contact.
 
@@ -1041,7 +1041,7 @@ Transcript Snippet: I have no positive evidence that it wasn't Jennica Pounds th
 
 Anchored Artifacts: 
 Mentions: N-3, N-281, N-40
-Related Nodes: N-10885
+Related Nodes: N-10806
 Tags: relevance:context
 Investigative Direction: Compare Pounds' documented whereabouts on September 10, 2025 with the UVU campus timeline; the host offers no affirmative evidence that Pounds was present.
 
@@ -1057,7 +1057,7 @@ Transcript Snippet: No Graham Allen, no Benny Johnson to tell us how overwhelmed
 
 Anchored Artifacts: 
 Mentions: N-3, N-606, N-89
-Related Nodes: N-10000, N-11065
+Related Nodes: N-10000, N-10983
 Tags: relevance:core
 Investigative Direction: Compare courtroom pool footage and attendee lists from decision day against the July preliminary hearing sign-in or press seating.
 
@@ -1089,7 +1089,7 @@ Transcript Snippet: He's the senior pastor of Calvary Chapel in Signal Hill, Cal
 
 Anchored Artifacts: A-2326.4
 Mentions: N-665, N-2
-Related Nodes: N-10398, N-10264
+Related Nodes: N-10371, N-10248
 Tags: relevance:context
 Investigative Direction: Check Calvary Chapel Signal Hill staff listings and TPUSA Faith advisory rosters for Kaddis (transcript spelling).
 
@@ -1120,7 +1120,7 @@ Transcript Snippet: Mikey McCoy calmly walks away. He does not dial 911, but ins
 
 Anchored Artifacts: 
 Mentions: N-190, N-2, N-17
-Related Nodes: N-10198
+Related Nodes: N-10190
 Supports: C-9930
 Tags: relevance:core
 Investigative Direction: Match the sequence against Mikey McCoy's phone records and the 911 call log.
@@ -1137,7 +1137,7 @@ Transcript Snippet: Rob McCoy, his father, is not the only pastor that he phoned
 
 Anchored Artifacts: 
 Mentions: N-190, N-17, N-208
-Related Nodes: N-10198
+Related Nodes: N-10190
 Supports: C-12570
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call records to confirm any call to a Hibbs number and its time.
@@ -1154,7 +1154,7 @@ Transcript Snippet: Mikey McCoy, when he arrived at UVU with Charlie, also met u
 
 Anchored Artifacts: A-2325.1
 Mentions: N-190, N-246, N-1
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Review UVU arrival and walk-in video to confirm Butch Hibbs' position relative to Charlie Kirk and Mikey McCoy.
 
@@ -1170,7 +1170,7 @@ Transcript Snippet: a lot of conspiracies that were drummed up regarding whether
 
 Anchored Artifacts: A-2325.1
 Mentions: N-246, N-3
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:context
 Investigative Direction: Zoom on the high-resolution pre-event photo of Butch Hibbs' shirt pocket; the host attributes the theory to others and disclaims it.
 
@@ -1186,7 +1186,7 @@ Transcript Snippet: There were a lot of people looking into where he lives in He
 
 Anchored Artifacts: 
 Mentions: N-246, N-3
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:tangential
 Investigative Direction: Verify any public flight or residence record only if it can be sourced; the host explicitly sets these aside.
 
@@ -1202,7 +1202,7 @@ Transcript Snippet: Butch Hibbs, born Burton Hibbs, Jr., he is from a military f
 
 Anchored Artifacts: A-2325.1
 Mentions: N-246, N-208
-Related Nodes: N-10817
+Related Nodes: N-10740
 Supports: C-2695
 Tags: relevance:core
 Investigative Direction: Check Utah and California records for Burton Hibbs Jr. and any military service of the Hibbs family.
@@ -1219,7 +1219,7 @@ Transcript Snippet: she had suggested to me that I have him on my podcast. I don
 
 Anchored Artifacts: 
 Mentions: N-3, N-117, N-208
-Related Nodes: N-10131, N-10015
+Related Nodes: N-10126, N-10015
 Tags: relevance:context
 Investigative Direction: Check the host's own correspondence or booking records for a Hibbs invitation from Strait.
 
@@ -1235,7 +1235,7 @@ Transcript Snippet: She was in unit 8200. She's never hidden that fact, so we're
 
 Anchored Artifacts: 
 Mentions: N-117, N-3
-Related Nodes: N-10131, N-10015
+Related Nodes: N-10126, N-10015
 Tags: relevance:context
 Investigative Direction: Compare Strait's own public biography and interviews for the Unit 8200 service; the Mossad label is the host's characterization.
 
@@ -1251,7 +1251,7 @@ Transcript Snippet: the same family who funds the construction of some of some o
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-11148, N-10264
+Related Nodes: N-11020, N-10248
 Tags: relevance:context
 Investigative Direction: Check Wilks family foundation grants and church building permits or donor listings for Calvary Chapel Thousand Oaks.
 
@@ -1267,7 +1267,7 @@ Transcript Snippet: They are not in any way evangelical Christians. So it's kind
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11148
+Related Nodes: N-11020
 Tags: relevance:context
 Investigative Direction: Compare the Wilks brothers' own public statements of religious affiliation with the host's characterization.
 
@@ -1283,7 +1283,7 @@ Transcript Snippet: They also fund Prageru. They were also behind the initial bi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11148, N-10131
+Related Nodes: N-11020, N-10126
 Tags: relevance:context
 Investigative Direction: Check PragerU donor disclosures and Daily Wire launch-funding reporting for the Wilks family.
 
@@ -1299,7 +1299,7 @@ Transcript Snippet: Uh they fly Israeli flags along their property lines in Texa
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11148
+Related Nodes: N-11020
 Tags: relevance:context
 Investigative Direction: Seek photographs or property records; the host presents it as hearsay ('I am told') without an artifact.
 
@@ -1315,7 +1315,7 @@ Transcript Snippet: They also fund the uh radically pro-Israel politicians like 
 
 Anchored Artifacts: 
 Mentions: N-106, N-3
-Related Nodes: N-11148
+Related Nodes: N-11020
 Tags: relevance:context
 Investigative Direction: Check FEC filings and Texas Ethics Commission records for Wilks family contributions to Cruz and allied PACs.
 
@@ -1331,7 +1331,7 @@ Transcript Snippet: pastor Jack Hibbs was among the very first to announce that 
 
 Anchored Artifacts: A-2321.1
 Mentions: N-208, N-1
-Related Nodes: N-10818
+Related Nodes: N-10741
 Supports: C-9541
 Tags: relevance:core
 Investigative Direction: Retrieve the original Facebook post with its timestamp (the host notes in a later episode that it was taken down) and compare with the official announcement time.
@@ -1348,7 +1348,7 @@ Transcript Snippet: your brother was there and he goes, I'm Jack Hib's brother. 
 
 Anchored Artifacts: A-2322.1
 Mentions: N-7, N-208, N-246
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Ask UVU or TPUSA security staff whether Butch Hibbs was challenged at the event and what credential he held.
 
@@ -1364,7 +1364,7 @@ Transcript Snippet: some people would say that he is a covert military operative
 
 Anchored Artifacts: A-2322.1
 Mentions: N-208, N-246
-Related Nodes: N-10015, N-10817
+Related Nodes: N-10015, N-10740
 Tags: relevance:context
 Investigative Direction: Listen to the original interview audio to attribute the line to a speaker; it is delivered as a joke about what others say.
 
@@ -1380,7 +1380,7 @@ Transcript Snippet: he had months to reach out to me to say, "Hey, can you give 
 
 Anchored Artifacts: A-2322.1
 Mentions: N-208, N-246, N-1
-Related Nodes: N-10817
+Related Nodes: N-10740
 Supports: C-12555
 Tags: relevance:core
 Investigative Direction: Obtain Jack Hibbs' and Charlie Kirk's phone and message records for the night of September 9 to check the relay.
@@ -1397,7 +1397,7 @@ Transcript Snippet: Charlie's texting donors that he has no choice but to abando
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10148
+Related Nodes: N-10143
 Supports: C-10208
 Tags: relevance:core
 Investigative Direction: Obtain the text messages the host has described in earlier episodes and confirm sender, recipients and timestamps.
@@ -1429,7 +1429,7 @@ Transcript Snippet: now he's texting people saying that he thinks he's going to 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10148
+Related Nodes: N-10143
 Supports: C-10764
 Tags: relevance:core
 Investigative Direction: Obtain the messages and recipients; the host has said she has seen related texts in earlier episodes.
@@ -1446,7 +1446,7 @@ Transcript Snippet: He's taking phone calls from rabbis that are based in Israel
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10169
+Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Identify the rabbis and obtain Charlie Kirk's call logs for September 9 to confirm any calls.
 
@@ -1462,7 +1462,7 @@ Transcript Snippet: So he was asking for debate tips from people like Josh Hamme
 
 Anchored Artifacts: 
 Mentions: N-1, N-55, N-3
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-6040
 Tags: relevance:core
 Investigative Direction: Compare Josh Hammer's own account of the September 9 call with the host's summary and with who participated.
@@ -1479,7 +1479,7 @@ Transcript Snippet: And Butch Hibbs, by the way, is um very much involved in the
 
 Anchored Artifacts: 
 Mentions: N-246
-Related Nodes: N-10264, N-10248
+Related Nodes: N-10248, N-10234
 Tags: relevance:context
 Investigative Direction: Check Calvary Chapel Utah church listings and filings for Butch or Burton Hibbs.
 
@@ -1495,7 +1495,7 @@ Transcript Snippet: my brother's calling me and I can hear people screaming and 
 
 Anchored Artifacts: A-2323.1
 Mentions: N-208, N-246, N-788, N-1
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Obtain the full Starns audio and Butch Hibbs' phone records to establish when the call was placed and its duration.
 
@@ -1511,7 +1511,7 @@ Transcript Snippet: it remains somewhat unclear to me whether Jack spoke to his 
 
 Anchored Artifacts: A-2323.1, A-2322.2
 Mentions: N-208, N-246, N-7
-Related Nodes: N-10818
+Related Nodes: N-10741
 Tags: relevance:core
 Investigative Direction: Reconcile Jack Hibbs' phone log against the two accounts to fix the order of the Butch and Turek calls.
 
@@ -1527,7 +1527,7 @@ Transcript Snippet: Yes, Frank Turek manages to FaceTime Jack from Timpanogos.
 
 Anchored Artifacts: A-2322.2
 Mentions: N-7, N-208
-Related Nodes: N-10818
+Related Nodes: N-10741
 Supports: C-10013
 Tags: relevance:core
 Investigative Direction: Match the FaceTime log with hospital arrival timing and hospital visitor and phone-use policies.
@@ -1544,7 +1544,7 @@ Transcript Snippet: I do believe you were the first one. >> That was after we go
 
 Anchored Artifacts: A-2322.2
 Mentions: N-208, N-7, N-190
-Related Nodes: N-10818
+Related Nodes: N-10741
 Qualifies: C-12570
 Tags: relevance:core
 Investigative Direction: Compare Jack Hibbs' call history timestamps with Turek's and Mikey McCoy's logs.
@@ -1561,7 +1561,7 @@ Transcript Snippet: Jack, get everyone in the world praying. >> There's so much 
 
 Anchored Artifacts: A-2322.2
 Mentions: N-208, N-190
-Related Nodes: N-10818
+Related Nodes: N-10741
 Supports: C-12570
 Tags: relevance:core
 Investigative Direction: Establish the time and duration of the Mikey McCoy call to Jack Hibbs from call records.
@@ -1578,7 +1578,7 @@ Transcript Snippet: Then I facetimed you. I faced We were talking >> You >> So I
 
 Anchored Artifacts: A-2322.2
 Mentions: N-7, N-208
-Related Nodes: N-10818
+Related Nodes: N-10741
 Supports: C-10013
 Tags: relevance:core
 Investigative Direction: Ask for medical or ER records of the arrival and request Turek's account of what was on his clothing.
@@ -1595,7 +1595,7 @@ Transcript Snippet: And he couldn't he just broke down. I actually hung up on hi
 
 Anchored Artifacts: A-2322.2
 Mentions: N-208, N-246, N-1
-Related Nodes: N-10818
+Related Nodes: N-10741
 Tags: relevance:core
 Investigative Direction: Obtain Jack Hibbs' outgoing call list for the minutes after Butch's call to see who he phoned.
 
@@ -1611,7 +1611,7 @@ Transcript Snippet: remember we had Mikey's call logs. He was on the phone from 
 
 Anchored Artifacts: A-2895.1
 Mentions: N-190, N-217, N-2, N-17, N-367
-Related Nodes: N-10193
+Related Nodes: N-10185
 Supports: C-11088
 Tags: relevance:core
 Investigative Direction: Re-examine the call-log artifact from the earlier episode and confirm call order, durations and counterparties.
@@ -1628,7 +1628,7 @@ Transcript Snippet: A fact would be that it seems implausible that Mikey called 
 
 Anchored Artifacts: A-2895.1
 Mentions: N-190, N-208, N-7
-Related Nodes: N-10193, N-10818
+Related Nodes: N-10185, N-10741
 Tags: relevance:core
 Investigative Direction: Check Mikey McCoy's call log for any call to a Hibbs number between 12:22 and 12:30.
 
@@ -1644,7 +1644,7 @@ Transcript Snippet: the only way it could be true that Mikey called him before 1
 
 Anchored Artifacts: A-2895.1
 Mentions: N-190, N-17, N-208
-Related Nodes: N-10193, N-10264
+Related Nodes: N-10185, N-10248
 Tags: relevance:core
 Investigative Direction: Ask Calvary Chapel leaders whether a group call occurred and check merge-call entries in the logs.
 
@@ -1660,7 +1660,7 @@ Transcript Snippet: Terryl prematurely announcing Charlie's death to himself. He
 
 Anchored Artifacts: 
 Mentions: N-261, N-1
-Related Nodes: N-11070
+Related Nodes: N-10988
 Supports: C-8492, C-12366
 Tags: relevance:core
 Investigative Direction: Obtain the selfie video with metadata and the 911 call log to confirm Terryl's call history.
@@ -1677,7 +1677,7 @@ Transcript Snippet: starts removing SD cards and seemingly plausibly toying arou
 
 Anchored Artifacts: 
 Mentions: N-261
-Related Nodes: N-11070
+Related Nodes: N-10988
 Supports: C-12288
 Tags: relevance:core
 Investigative Direction: Seek the original SD card and a forensic image of Terryl's laptop to see whether files were accessed.
@@ -1694,7 +1694,7 @@ Transcript Snippet: Blake Blakey called his mom. He did not thereafter call 911.
 
 Anchored Artifacts: 
 Mentions: N-159
-Related Nodes: N-10715
+Related Nodes: N-10651
 Supports: C-10011
 Tags: relevance:core
 Investigative Direction: Match Neff's carrier records to the 911 call log, as established in earlier episodes.
@@ -1711,7 +1711,7 @@ Transcript Snippet: Danny Phillip, to our knowledge, did not call 911. Neither d
 
 Anchored Artifacts: 
 Mentions: N-367, N-504
-Related Nodes: N-10729
+Related Nodes: N-10663
 Supports: C-8491
 Tags: relevance:core
 Investigative Direction: Request 911 and dispatch records for all calls between 12:23 and 12:45 and match caller numbers.
@@ -1728,7 +1728,7 @@ Transcript Snippet: someone in the hospitalbound SUV was providing updates to Be
 
 Anchored Artifacts: 
 Mentions: N-97, N-1
-Related Nodes: N-10712
+Related Nodes: N-10648
 Supports: C-10667
 Tags: relevance:core
 Investigative Direction: Identify the SUV occupant from phone records and ask Shapiro's security team who was on the line.
@@ -1745,7 +1745,7 @@ Transcript Snippet: The person who Charlie Kirk could not stand was receiving st
 
 Anchored Artifacts: 
 Mentions: N-97, N-1
-Related Nodes: N-10712
+Related Nodes: N-10648
 Supports: C-7095
 Tags: relevance:context
 Investigative Direction: Collect Charlie Kirk's own statements about Shapiro and any Shapiro-Kirk correspondence.
@@ -1762,7 +1762,7 @@ Transcript Snippet: He's standing just to the right of Charlie and the tent when
 
 Anchored Artifacts: A-2324.1
 Mentions: N-246, N-1
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Locate Butch Hibbs in pre-shot frames from multiple angles to check his position relative to Charlie and the tent.
 
@@ -1778,7 +1778,7 @@ Transcript Snippet: He's standing next to Danny Phillip, Charlie's assistant, wh
 
 Anchored Artifacts: A-2324.1
 Mentions: N-246, N-367
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Determine from video the backpack's size and contents if later opened or searched; the host only wonders what was in it.
 
@@ -1794,7 +1794,7 @@ Transcript Snippet: I mean, if I didn't know any better, I would think that they
 
 Anchored Artifacts: A-2324.1
 Mentions: N-1, N-246, N-3
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Look for any instruction, message or planning document directing staff or guests to film; the host calls this speculation.
 
@@ -1810,7 +1810,7 @@ Transcript Snippet: not in a phone call with his brother, not running for his li
 
 Anchored Artifacts: A-2324.1
 Mentions: N-246, N-1, N-208
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the full Butch Hibbs clip, plus his phone's call and recording metadata.
 
@@ -1826,7 +1826,7 @@ Transcript Snippet: Oh, still recording. And he is just recording. I'm sorry, gu
 
 Anchored Artifacts: A-2324.1
 Mentions: N-246
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Obtain the unedited clip and note total recording duration and any pause.
 
@@ -1842,7 +1842,7 @@ Transcript Snippet: Please do email us at more ttips@canzones. com. I'm asking f
 
 Anchored Artifacts: A-2325.2, A-2894.1
 Mentions: N-3
-Related Nodes: N-10819
+Related Nodes: N-10742
 Tags: relevance:core
 Investigative Direction: Receive and vet tips on the attendee's identity; confirm the person's location in other UVU photos.
 
@@ -1858,7 +1858,7 @@ Transcript Snippet: Pink hat, blue shirt, um, and looks like a slurpee drink the
 
 Anchored Artifacts: A-2325.2
 Mentions: N-3
-Related Nodes: N-10819
+Related Nodes: N-10742
 Tags: relevance:core
 Investigative Direction: Compile all UVU photos and video frames showing this person and note times and positions.
 
@@ -1874,7 +1874,7 @@ Transcript Snippet: we did also find him, again, not looking visibly upset, cree
 
 Anchored Artifacts: A-2324.3
 Mentions: N-246
-Related Nodes: N-10817
+Related Nodes: N-10740
 Supports: C-2878
 Tags: relevance:core
 Investigative Direction: Identify the news outlet, reporter and time of the interview and the original raw footage.
@@ -1891,7 +1891,7 @@ Transcript Snippet: It sounded like a higher caliber, like a 9 millimeter. It di
 
 Anchored Artifacts: A-2324.3
 Mentions: N-246
-Related Nodes: N-10048
+Related Nodes: N-10045
 Tags: relevance:context
 Investigative Direction: Identify the witness and compare the described sound with the forensic caliber determination on the recovered bullet.
 
@@ -1907,7 +1907,7 @@ Transcript Snippet: It didn't sound that deep to me. >> It almost sounded like a
 
 Anchored Artifacts: A-2324.3
 Mentions: N-246
-Related Nodes: N-10048
+Related Nodes: N-10045
 Tags: relevance:context
 Investigative Direction: Identify both interviewees and obtain the full interview audio and times.
 
@@ -1923,7 +1923,7 @@ Transcript Snippet: Because Jack, we prowled the internet. We could not find any
 
 Anchored Artifacts: A-2324.1
 Mentions: N-208, N-246, N-3
-Related Nodes: N-10817
+Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Ask Jack and Butch Hibbs directly whether the recording exists and has been shared with law enforcement.
 
@@ -1939,7 +1939,7 @@ Transcript Snippet: And we know that that took place, that preliminary hearing a
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Check the Utah Fourth District court docket for the hearing dates.
 
@@ -1955,7 +1955,7 @@ Transcript Snippet: I made it very clear to you guys that under the Utah 1102 ru
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Supports: C-12152
 Tags: relevance:core
 Investigative Direction: Read Utah Rule of Evidence 1102 and Utah Const. art. I, sec. 12 on preliminary-hearing hearsay.
@@ -1972,7 +1972,7 @@ Transcript Snippet: perfectly acceptable under Utah's constitution for Lance Twi
 
 Anchored Artifacts: 
 Mentions: N-54, N-40
-Related Nodes: N-10679, N-11149
+Related Nodes: N-10617, N-11065
 Tags: relevance:core
 Investigative Direction: Review the hearing record on Lance Twiggs' video testimony and any defense cross-exam rulings.
 
@@ -1988,7 +1988,7 @@ Transcript Snippet: it's probitative that Lance's lawyer is able to lead him in 
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10679, N-11149
+Related Nodes: N-10617, N-11065
 Tags: relevance:core
 Investigative Direction: Review the video testimony to see whether the questioning was led and whether any objection was made.
 
@@ -2004,7 +2004,7 @@ Transcript Snippet: when officer Baggley gets up there or officer Hull gets up t
 
 Anchored Artifacts: 
 Mentions: N-506, N-860, N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Read the hearing transcript of Bagley and Hull's testimony for the roadside-vehicle statement and its source.
 
@@ -2020,7 +2020,7 @@ Transcript Snippet: the most severe and significant is the aggravated murder cha
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Supports: C-12173
 Tags: relevance:core
 Investigative Direction: Check the charging information for the seven counts and the state's notice of intent regarding the death penalty.
@@ -2037,7 +2037,7 @@ Transcript Snippet: it is worth noting that never in the history of Utah has the
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149, N-11150
+Related Nodes: N-11065, N-11066
 Tags: relevance:core
 Investigative Direction: Search Utah appellate decisions on the aggravated murder statute for single-victim convictions.
 
@@ -2053,7 +2053,7 @@ Transcript Snippet: typically to achieve that aggravating factor you would be de
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149, N-11150
+Related Nodes: N-11065, N-11066
 Tags: relevance:context
 Investigative Direction: Review the jurisprudence listed in the defense and prosecution filings on aggravating circumstances.
 
@@ -2069,7 +2069,7 @@ Transcript Snippet: they're also arguing that he only chose to fire one bullet d
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149, N-11150
+Related Nodes: N-11065, N-11066
 Tags: relevance:core
 Investigative Direction: Read the prosecution's response to the motion to dismiss for the single-shot argument and the ballistic basis.
 
@@ -2085,7 +2085,7 @@ Transcript Snippet: that I'm going to see Charlie Kirk and I have to do this bec
 
 Anchored Artifacts: 
 Mentions: N-40, N-1
-Related Nodes: N-10077, N-11149
+Related Nodes: N-10074, N-11065
 Tags: relevance:core
 Investigative Direction: Compare the cited text messages in the probable cause statement with forensic extraction records.
 
@@ -2101,7 +2101,7 @@ Transcript Snippet: but we'd like to borrow from Pennsylvania law.
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149, N-11150
+Related Nodes: N-11065, N-11066
 Tags: relevance:core
 Investigative Direction: Read the state's response to the motion to dismiss and list the Pennsylvania cases it cites.
 
@@ -2117,7 +2117,7 @@ Transcript Snippet: these were actually extremely special cases where actually t
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11150
+Related Nodes: N-11066
 Tags: relevance:core
 Investigative Direction: Pull the cited Pennsylvania opinions to verify the facts the host summarizes.
 
@@ -2133,7 +2133,7 @@ Transcript Snippet: Pennsylvania currently has a moratorium on their death penal
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11150
+Related Nodes: N-11066
 Tags: relevance:context
 Investigative Direction: Confirm the Pennsylvania governor's moratorium on executions and its present status.
 
@@ -2149,7 +2149,7 @@ Transcript Snippet: I would be very shocked if he moved forward with aggravating
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:context
 Investigative Direction: Check the magistrate's written ruling against the host's prediction.
 
@@ -2165,7 +2165,7 @@ Transcript Snippet: This the second charge is for felony discharge of a firearm.
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Confirm the count list in the amended information.
 
@@ -2181,7 +2181,7 @@ Transcript Snippet: The third is for obstruction of justice because the prosecut
 
 Anchored Artifacts: 
 Mentions: N-40, N-1
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Check the information and probable cause statement for the facts supporting the firearm-concealment count.
 
@@ -2197,7 +2197,7 @@ Transcript Snippet: obstruction of justice for their allegation that uh Tyler Ro
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149, N-10019
+Related Nodes: N-11065, N-10019
 Tags: relevance:core
 Investigative Direction: Compare the charged clothing with the video-documented outfit changes (see the outfit discrepancy topic).
 
@@ -2213,7 +2213,7 @@ Transcript Snippet: Uh number five is witness tampering for allegedly texting La
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-11149, N-10077
+Related Nodes: N-11065, N-10074
 Tags: relevance:core
 Investigative Direction: Check the charging document and text extraction for the 'delete this exchange' message.
 
@@ -2229,7 +2229,7 @@ Transcript Snippet: Uh the sixth charge is also witness witness tampering for al
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-11149, N-10077
+Related Nodes: N-11065, N-10074
 Tags: relevance:core
 Investigative Direction: Check the charging document and text extraction for the message at issue.
 
@@ -2245,7 +2245,7 @@ Transcript Snippet: you're not tampering with a witness if you tell them that yo
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Read the defense motion to dismiss and the Utah witness tampering statute.
 
@@ -2261,7 +2261,7 @@ Transcript Snippet: the presumption would be that there were no minor children p
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Read the defense brief on count seven and check whether any minors appear in crowd footage.
 
@@ -2277,7 +2277,7 @@ Transcript Snippet: So 1 6 and 7 is what they filed to dismiss.
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Supports: C-12600
 Tags: relevance:core
 Investigative Direction: Read the motion to dismiss and the magistrate's written ruling when issued.
@@ -2294,7 +2294,7 @@ Transcript Snippet: my hope has been consistent in this that I want this to move
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10000, N-11149
+Related Nodes: N-10000, N-11065
 Tags: relevance:context
 Investigative Direction: Track her statements in earlier episodes on the proceedings; this is her stated motive.
 
@@ -2310,7 +2310,7 @@ Transcript Snippet: We now know the Department of War is involved in the propaga
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10888
+Related Nodes: N-10809
 Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Obtain the emails and contracts referenced in earlier episodes and any FOIA responses.
@@ -2327,7 +2327,7 @@ Transcript Snippet: Even Graham Allen, I told you that he's uh he was working as
 
 Anchored Artifacts: 
 Mentions: N-606, N-3
-Related Nodes: N-10888, N-10000
+Related Nodes: N-10809, N-10000
 Tags: relevance:core
 Investigative Direction: Look for Department of War contracts or disclosure forms naming Allen and TPUSA payroll or contract records.
 
@@ -2343,7 +2343,7 @@ Transcript Snippet: the phone call that Charlie that Trump made to Charlie in Ju
 
 Anchored Artifacts: 
 Mentions: N-5, N-1
-Related Nodes: N-10969, N-10324
+Related Nodes: N-10890, N-10303
 Supports: C-9885, C-10092
 Tags: relevance:core
 Investigative Direction: Obtain call records or White House logs for Trump and Kirk in July 2025 and the content as described by the host's sources.
@@ -2360,7 +2360,7 @@ Transcript Snippet: I also think somehow this is going to be tied to the Epstein
 
 Anchored Artifacts: 
 Mentions: N-3, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Assemble the host's documented links from earlier episodes; this is her stated belief.
 
@@ -2391,7 +2391,7 @@ Transcript Snippet: Perhaps he was dumping or or played some role that day, whic
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10040
+Related Nodes: N-10038
 Tags: relevance:core
 Investigative Direction: Review campus camera and phone-location evidence for Robinson's movements on September 10 in the prosecution exhibits.
 
@@ -2407,7 +2407,7 @@ Transcript Snippet: For example, I saw Blake pushing today. He's like, "Look, lo
 
 Anchored Artifacts: A-2896.1
 Mentions: N-159, N-3
-Related Nodes: N-10570
+Related Nodes: N-10521
 Tags: relevance:context
 Investigative Direction: Retrieve Neff's post and compare its terabyte figure with the figures in court filings.
 
@@ -2423,7 +2423,7 @@ Transcript Snippet: They handed over, as just one example, over 1 million Discor
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10013, N-10570
+Related Nodes: N-10013, N-10521
 Tags: relevance:core
 Investigative Direction: Check the discovery logs and defense filings for the count of Discord messages produced.
 
@@ -2439,7 +2439,7 @@ Transcript Snippet: that they handed them over of 12.1 terabytes. 1 million Disc
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10570, N-10013
+Related Nodes: N-10521, N-10013
 Tags: relevance:core
 Investigative Direction: Find the court filing or hearing statement giving the 12.1 terabyte figure and the production timeline.
 
@@ -2455,7 +2455,7 @@ Transcript Snippet: So what you do is you overupply. You over supply so that the
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10570
+Related Nodes: N-10521
 Tags: relevance:context
 Investigative Direction: Compare production dates, volumes and the defense's complaints in their discovery motions.
 
@@ -2502,7 +2502,7 @@ Transcript Snippet: Our live is bigger than Andrew and Blakes's and the official
 
 Anchored Artifacts: A-2897.1
 Mentions: N-14, N-159, N-1
-Related Nodes: N-10897
+Related Nodes: N-10818
 Tags: relevance:tangential
 Investigative Direction: Compare concurrent viewer counts on the named streams during the hearing.
 
@@ -2518,7 +2518,7 @@ Transcript Snippet: we've been saving a lot because we wanted to see in which di
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:context
 Investigative Direction: Watch subsequent episodes for the material the host says she held back.
 
@@ -2534,7 +2534,7 @@ Transcript Snippet: You you didn't even start working until the beginning of lik
 
 Anchored Artifacts: 
 Mentions: N-159, N-1, N-22
-Related Nodes: N-11057
+Related Nodes: N-10975
 Contradicts: C-10700
 Tags: relevance:core
 Investigative Direction: Check Neff's employment dates against payroll, bylines and his own account of his hiring (compare C-10700 and the employment-history topic).

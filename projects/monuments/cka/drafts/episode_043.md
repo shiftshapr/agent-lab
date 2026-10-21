@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-909, N-11336
+  - Tip-minted Nodes (supplement_2026-10f): N-909, N-11252
   - Hole-minted Nodes (reintro-ep043): N-389
-  - Tip-minted Nodes (reintro-ep043): N-11186, N-11287
+  - Tip-minted Nodes (reintro-ep043): N-11102, N-11203
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3735–C-3799
-  - New Nodes Introduced: N-312, N-313, N-314, N-315, N-316, N-317, N-10317, N-10318, N-10320, N-10321, N-10322, N-10325
-  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324, N-10319, N-10323, N-7, N-9, N-22, N-40, N-159, N-190, N-220, N-267, N-10000, N-10015, N-10193, N-10202, N-10340, N-11337
+  - New Nodes Introduced: N-312, N-313, N-314, N-315, N-316, N-317, N-10298, N-10299, N-10301, N-10302, N-10304
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10297, N-10303, N-10300, N-10193, N-7, N-9, N-22, N-40, N-159, N-190, N-220, N-267, N-10000, N-10015, N-10185, N-10194, N-10318, N-11253
   - (see registers)
 
 ---
@@ -38,7 +38,7 @@
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
   - New Nodes Introduced (people):  through
-  - New Nodes Introduced (investigation targets): N-10316 through N-10325
+  - New Nodes Introduced (investigation targets): N-10297 through N-10304
   - Existing Nodes Reused: N-3
 
 ---
@@ -79,7 +79,7 @@ Video Timestamp: 00:07:33–00:08:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3742, N-69, N-46, N-10316*
+*Related: C-3742, N-69, N-46, N-10297*
 
 ---
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:14:36–00:15:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3755, C-3756, N-312, N-10317*
+*Related: C-3755, C-3756, N-312, N-10298*
 
 **A-1515.2** Read-aloud quote from a website identified as "CorpWatch" describing the Angolagate scandal, citing a March 25 Global Witness report ("All the President's Men")
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:30:18–00:33:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video exists; result of test as shown)
 
-*Related: C-3782, C-3783, N-316, N-10319, N-66, N-188*
+*Related: C-3782, C-3783, N-316, N-10300, N-66, N-188*
 
 ---
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:41:02–00:41:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (existence of Daily Mail story as cited)
 
-*Related: C-3797, C-3789, N-10322*
+*Related: C-3797, C-3789, N-10302*
 
 **A-1518.6** Viewer comment from "Laughing Cats Music World" – referenced but contents not read in full (request for post to TPUSA asking specific questions)
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:37:36–00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as referenced comment)
 
-*Related: C-3787, C-3788, N-10321*
+*Related: C-3787, C-3788, N-10301*
 
 ---
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:10:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3747, C-3746, C-3749, N-3, N-312, N-10317*
+*Related: C-3747, C-3746, C-3749, N-3, N-312, N-10298*
 
 ---
 
@@ -258,7 +258,7 @@ Video Timestamp: 00:19:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3767, C-3768, C-3769, N-1, N-270, N-10320*
+*Related: C-3767, C-3768, C-3769, N-1, N-270, N-10318*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 00:39:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3794, N-11336, N-11337*
+*Related: C-3794, N-11252, N-11253*
 
 ---
 
@@ -300,7 +300,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1514.1, C-3742, N-46, N-10316*
+*Related: A-1514.1, C-3742, N-46, N-10297*
 
 ---
 
@@ -326,7 +326,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1515.1, A-1515.2, C-3755, C-3756, C-3764, C-3759, N-313, N-314, N-315, N-10317*
+*Related: A-1515.1, A-1515.2, C-3755, C-3756, C-3764, C-3759, N-313, N-314, N-315, N-10298*
 
 ---
 
@@ -378,7 +378,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1516.1, C-3782, C-3783, N-10319*
+*Related: A-1516.1, C-3782, C-3783, N-10300*
 
 ---
 
@@ -391,7 +391,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3742 (Patel) – adjacent, N-10320*
+*Related: C-3742 (Patel) – adjacent, N-10318*
 
 ---
 
@@ -462,7 +462,7 @@ Investigative Pressure: Low
 
 ### Investigation Targets
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 Persistent investigation target; this episode adds Kash Patel's non-denial under direct questioning on camera.
 
@@ -475,7 +475,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10317** Pierre Falcone / Turning Point USA Connection Claim
+**N-10298** Pierre Falcone / Turning Point USA Connection Claim
 
 Unverified tip received by host asserting a meeting occurred between TPUSA personnel and Pierre Falcone; requires verification.
 
@@ -488,7 +488,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10318** Operation Mockingbird 2.0 Allegation
+**N-10299** Operation Mockingbird 2.0 Allegation
 
 Host framing premise comparing current media posture regarding the Kirk assassination to the CIA's Operation Mockingbird following JFK. Not artifact-backed in this episode.
 
@@ -501,7 +501,7 @@ Investigative Pressure: (framing – does not meet admission test)
 
 ---
 
-**N-10319** .30-06 Forensic Narrative Validity
+**N-10300** .30-06 Forensic Narrative Validity
 
 Persistent investigation target regarding the official ballistics account of the Kirk shooting; this episode adds the Jesse Kege / One Shot TV demonstration as a third-party test.
 
@@ -514,20 +514,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10320** Charlie Kirk's Pre-Death Messages (Night Before Assassination)
-
-Investigation target regarding Charlie Kirk's communications the night before the shooting, including alleged direct statement to Dan Flood that "they are going to kill me tomorrow," and messages to a donor and a TPUSA staffer.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: (existing)
-Investigative Pressure: High
-
-*Related: N-1, N-270*
-
----
-
-**N-10321** TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall
+**N-10301** TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall
 
 Investigation target raised via viewer comment; DOJ audit referenced as cancelled.
 
@@ -540,7 +527,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10322** Charlie Kirk Life Insurance Policy & Beneficiary
+**N-10302** Charlie Kirk Life Insurance Policy & Beneficiary
 
 Investigation target including $1.5M amount and corporate implications; Daily Mail cited as breaking the story.
 
@@ -553,7 +540,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Investigation target; viewer social media speculation that Charlie Kirk has not yet been buried, contrasted with host's statement that he had a Catholic funeral mass.
 
@@ -566,7 +553,7 @@ Investigative Pressure: Low (social-media-level evidence only)
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Persistent political issue referenced via the Milo Yiannopoulos / Tim Pool / George Santos segment.
 
@@ -579,7 +566,7 @@ Investigative Pressure: Low (political-context reference, not artifact-backed as
 
 ---
 
-**N-10325** Global Trafficking Angle in Kirk Assassination
+**N-10304** Global Trafficking Angle in Kirk Assassination
 
 Host's hypothesis (artifact-anchored to the Pierre Falcone / Angolagate tip) that Charlie Kirk's organization was being approached for trafficking-related cooperation; remains framing/speculative until verified.
 
@@ -588,7 +575,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.1, A-1515.2, N-312, N-10317*
+*Related: A-1515.1, A-1515.2, N-312, N-10298*
 
 ---
 
@@ -688,7 +675,7 @@ Person whose call logs a viewer comment asks to see.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Existing topic reused for the viewer request about call logs and metadata around 12:23 p.m.
 
@@ -696,7 +683,7 @@ Existing topic reused for the viewer request about call logs and metadata around
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for Patel's interview statements and the host's FBI-contact claim.
 
@@ -704,7 +691,7 @@ Existing topic reused for Patel's interview statements and the host's FBI-contac
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for the insider tip about Charlie's messages the night before.
 
@@ -712,7 +699,7 @@ Existing topic reused for the insider tip about Charlie's messages the night bef
 
 ---
 
-**N-11186** Angolagate
+**N-11102** Angolagate
 
 Existing topic for the Angolan arms-for-oil scandal described by the host and the CorpWatch text.
 
@@ -720,7 +707,7 @@ Existing topic for the Angolan arms-for-oil scandal described by the host and th
 
 ---
 
-**N-11287** Tim Pool Dispute With Candace Owens
+**N-11203** Tim Pool Dispute With Candace Owens
 
 Existing topic reused for the host's account of Tim Pool's remarks.
 
@@ -736,7 +723,7 @@ First named by the host at 00:25:22 in episode 43. Former congressman who appear
 
 ---
 
-**N-11336** Qatar
+**N-11252** Qatar
 
 Node Type: Place
 Country the host says gave an interview about its relationship with Hamas.
@@ -745,7 +732,7 @@ Country the host says gave an interview about its relationship with Hamas.
 
 ---
 
-**N-11337** Hamas
+**N-11253** Hamas
 
 Node Type: Organization
 Organization the host says Qatar was asked by the US government to establish a relationship with.
@@ -790,7 +777,7 @@ Claim: When Megyn Kelly asked FBI Director Kash Patel whether the French were in
 
 Anchored Artifacts: A-1514.1
 Mentions: N-46, N-69, N-1
-Related Nodes: N-10316
+Related Nodes: N-10297
 
 Investigative Direction: Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions.
 
@@ -804,7 +791,7 @@ Claim: According to source material read aloud by the host and attributed to "Co
 
 Anchored Artifacts: A-1515.1
 Mentions: N-312
-Related Nodes: N-10317
+Related Nodes: N-10298
 
 Investigative Direction: Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.
 
@@ -818,7 +805,7 @@ Claim: According to source material read aloud, Pierre Falcone's original six-ye
 
 Anchored Artifacts: A-1515.1
 Mentions: N-312
-Related Nodes: N-10317
+Related Nodes: N-10298
 
 Investigative Direction: Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.
 
@@ -834,7 +821,7 @@ Anchored Artifacts: A-1515.2 (host read-aloud of source)
 Mentions: N-312
 
 *Note: This claim is sourced from the host's framing rather than from the read-aloud source text. Capture as host claim tied to read-aloud artifact; requires verification.*
-Related Nodes: N-10317
+Related Nodes: N-10298
 
 Investigative Direction: Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records.
 
@@ -900,7 +887,7 @@ Claim: In a video the host plays, YouTuber Jesse Kege of One Shot TV, after intr
 
 Anchored Artifacts: A-1516.1
 Mentions: N-316, N-1
-Related Nodes: N-10319
+Related Nodes: N-10300
 
 Investigative Direction: Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.
 
@@ -914,7 +901,7 @@ Claim: The host characterizes the One Shot TV result – that the dummy's head w
 
 Anchored Artifacts: A-1516.1
 Mentions: N-316
-Related Nodes: N-10319
+Related Nodes: N-10300
 
 Investigative Direction: Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.
 
@@ -940,7 +927,7 @@ Claim Timestamp: 00:37:36–00:38:23
 Claim: A viewer comment asserts that TPUSA routed $1.5 million to a 110 LLC that routes to a Safeway strip mall.
 
 Anchored Artifacts: A-1518.6
-Related Nodes: N-10321
+Related Nodes: N-10301
 
 Investigative Direction: Trace the named LLC through state business filings, bank records (subject to access), and IRS Form 990 disclosures.
 
@@ -953,7 +940,7 @@ Claim Timestamp: 00:37:36–00:38:23
 Claim: A viewer comment the host reads asks "Why is the DOJ audit suddenly no longer happening?"
 
 Anchored Artifacts: A-1518.6
-Related Nodes: N-10321
+Related Nodes: N-10301
 
 Investigative Direction: Verify through DOJ press releases, congressional correspondence, or reporting.
 
@@ -981,7 +968,7 @@ Claim: Responding to a viewer comment asking who took out the life insurance pol
 
 Anchored Artifacts: A-1518.5
 Mentions: N-1
-Related Nodes: N-10322
+Related Nodes: N-10302
 
 Investigative Direction: Locate the Daily Mail article and confirm policy details, beneficiary, and amount.
 
@@ -995,7 +982,7 @@ Claim: Viewer comments the host reads raise TPUSA's response: Jo Ann says "we ho
 
 Anchored Artifacts: A-1518.1, A-1518.3, A-1518.5
 Mentions: N-1
-Related Nodes: N-10320
+Related Nodes: N-10318
 
 Investigative Direction: Cross-reference against depositions, congressional testimony, and investigative reporting.
 
@@ -1059,7 +1046,7 @@ Transcript Snippet: People also laughed when I said um that there was thereafter
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Ask the host for the source and date of the alleged threat; check for any law-enforcement or court record of it.
 
@@ -1075,7 +1062,7 @@ Transcript Snippet: neither the Pentagon nor the White House or our intel agenci
 
 Anchored Artifacts: A-1514.1
 Mentions: N-3, N-69, N-46
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Check for any public denial by the Elysee, the White House or the FBI of the alleged threat; obtain the full Kelly/Patel segment.
 
@@ -1091,7 +1078,7 @@ Transcript Snippet: Because actually you kind of left me on red. There has been 
 
 Anchored Artifacts: A-1514.1
 Mentions: N-3, N-69
-Related Nodes: N-10316, N-10202
+Related Nodes: N-10297, N-10194
 Tags: relevance:core
 Investigative Direction: Ask the host whether she sent the FBI any submission and when; request any FBI correspondence log.
 
@@ -1107,7 +1094,7 @@ Transcript Snippet: I said that I had proof that French is that that the the gov
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Identify the proof the host refers to; compare with her earlier episodes making the France claim.
 
@@ -1123,7 +1110,7 @@ Transcript Snippet: In this very interview that you are asserting that you are c
 
 Anchored Artifacts: A-1514.1
 Mentions: N-69, N-40, N-46
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Check the full interview transcript for Patel's exact words on whether Robinson acted alone.
 
@@ -1154,7 +1141,7 @@ Transcript Snippet: Turning Point, people that work with Turning Point or one of
 
 Anchored Artifacts: A-3208.1
 Mentions: N-3, N-312
-Related Nodes: N-10317, N-10000
+Related Nodes: N-10298, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the tipster and any meeting record (calendar, travel, photos) linking Falcone to TPUSA or Turning Point Action.
 
@@ -1170,7 +1157,7 @@ Transcript Snippet: Like that this could be maybe somehow Charlie was being aske
 
 Anchored Artifacts: A-3208.1
 Mentions: N-3, N-1
-Related Nodes: N-10325
+Related Nodes: N-10304
 Tags: relevance:core
 Investigative Direction: Ask the host for any documentary basis; none is offered in this episode.
 
@@ -1186,7 +1173,7 @@ Transcript Snippet: this person who lives in Scottsdale, Arizona and is a billio
 
 Anchored Artifacts: A-3208.1
 Mentions: N-312
-Related Nodes: N-10317, N-10000
+Related Nodes: N-10298, N-10000
 Supports: C-3764
 Tags: relevance:core
 Investigative Direction: Check Arizona property records, corporate filings and Forbes-type wealth listings for Falcone.
@@ -1203,7 +1190,7 @@ Transcript Snippet: He was involved in a scandal that almost brought down the Fr
 
 Anchored Artifacts: 
 Mentions: N-312
-Related Nodes: N-11186
+Related Nodes: N-11102
 Supports: C-3751
 Tags: relevance:context
 Investigative Direction: Review contemporaneous French political reporting on Angolagate (1999-2000) for any threat to the government.
@@ -1220,7 +1207,7 @@ Transcript Snippet: it gets discovered during the course of French elections and
 
 Anchored Artifacts: 
 Mentions: N-312
-Related Nodes: N-11186
+Related Nodes: N-11102
 Tags: relevance:context
 Investigative Direction: Compare with French judicial chronology of the Angolagate investigation (investigation opened 2000).
 
@@ -1236,7 +1223,7 @@ Transcript Snippet: Now, Brenco International is run by this guy, his name is Ar
 
 Anchored Artifacts: 
 Mentions: N-313, N-312
-Related Nodes: N-11186
+Related Nodes: N-11102
 Tags: relevance:context
 Investigative Direction: Check French court findings on who headed Brenco International versus the related Falcone company.
 
@@ -1266,7 +1253,7 @@ Claim: Reading from a website called Corruption Tracker, the host says the Frenc
 Transcript Snippet: You have the French interior minister that was implicated.
 
 Anchored Artifacts: A-1515.1
-Related Nodes: N-11186
+Related Nodes: N-11102
 Tags: relevance:context
 Investigative Direction: Identify which interior minister is meant and confirm the court outcome against that person.
 
@@ -1281,7 +1268,7 @@ Claim: The host says that, according to her reading, the Angolagate scandal ende
 Transcript Snippet: It ends up being 41 politicians involved, multiple states and of course uh multiple nations that are involved including Angola.
 
 Anchored Artifacts: A-1515.1
-Related Nodes: N-11186
+Related Nodes: N-11102
 Tags: relevance:context
 Investigative Direction: Verify the number against French trial records or the source site.
 
@@ -1296,7 +1283,7 @@ Claim: The host says human rights groups demanded that Congress probe the Bush a
 Transcript Snippet: Human rights groups demanded that Congress also probe the Bush administration's involvement because they claim they did a deal and got involved for oil.
 
 Anchored Artifacts: A-1515.2
-Related Nodes: N-11186
+Related Nodes: N-11102
 Tags: relevance:context
 Investigative Direction: Locate the human-rights-group statements and any congressional response cited in the CorpWatch article.
 
@@ -1312,7 +1299,7 @@ Transcript Snippet: Gaydamak funneled billions, billions of dollars in arms and 
 
 Anchored Artifacts: A-1515.2
 Mentions: N-313
-Related Nodes: N-11186
+Related Nodes: N-11102
 Tags: relevance:context
 Investigative Direction: Pull the Global Witness 'All the President's Men' report and confirm the figures and wording.
 
@@ -1328,7 +1315,7 @@ Transcript Snippet: Uh they found this to be naked corruption when he won his ap
 
 Anchored Artifacts: A-1515.2
 Mentions: N-312
-Related Nodes: N-10317
+Related Nodes: N-10298
 Supports: C-3764
 Tags: relevance:context
 Investigative Direction: Identify the French sources; check French press on Falcone's departure and any Interpol or residency records.
@@ -1360,7 +1347,7 @@ Transcript Snippet: we also received a tip from somebody within Turning Point US
 
 Anchored Artifacts: A-3211.1
 Mentions: N-3, N-1
-Related Nodes: N-10320, N-10340, N-10000
+Related Nodes: N-10318, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the messages or phone records for the night of September 9, 2025; identify the donor and the staffer.
 
@@ -1376,7 +1363,7 @@ Transcript Snippet: he also messaged Dan Flood, the security that's to his right
 
 Anchored Artifacts: A-3211.1
 Mentions: N-1, N-270
-Related Nodes: N-10320, N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Obtain the message thread between Kirk and Flood and the device records, subject to legal process.
 
@@ -1392,7 +1379,7 @@ Transcript Snippet: So, again, that many people know that Charlie sensed that he
 
 Anchored Artifacts: A-3211.1
 Mentions: N-1
-Related Nodes: N-10320
+Related Nodes: N-10318
 Supports: C-3768
 Tags: relevance:core
 Investigative Direction: Identify who knew; seek on-record statements from the people the host says are silent.
@@ -1423,7 +1410,7 @@ Transcript Snippet: he hosted Milo Yiannopoulos on his show and first and foremo
 
 Anchored Artifacts: A-3210.2
 Mentions: N-267, N-220, N-3
-Related Nodes: N-11287
+Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Watch the Tim Pool episode in question and confirm the exact remarks and date.
 
@@ -1439,7 +1426,7 @@ Transcript Snippet: later on in the show he kind of lamented the fact that he lo
 
 Anchored Artifacts: A-3210.2
 Mentions: N-267, N-3
-Related Nodes: N-11287
+Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Check the Tim Pool episode and public subscriber statistics for the period.
 
@@ -1455,7 +1442,7 @@ Transcript Snippet: said who would know better as it turns out. He said that uh 
 
 Anchored Artifacts: A-3210.1
 Mentions: N-220, N-389, N-9, N-267
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Locate the Bannon remark Milo cites and the Tim Pool episode; verify the 'consulted for Epstein' interjection separately.
 
@@ -1471,7 +1458,7 @@ Transcript Snippet: there isn't one person who voted for Donald Trump who did no
 
 Anchored Artifacts: A-3210.1
 Mentions: N-220, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Compare with polling on Trump voters' expectations about the Epstein files.
 
@@ -1487,7 +1474,7 @@ Transcript Snippet: That is the moment Trumpism died. I agree. >> And don't we n
 
 Anchored Artifacts: A-3210.1
 Mentions: N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Identify which panelist says this on the Tim Pool episode and the Trump remark being referenced.
 
@@ -1519,7 +1506,7 @@ Transcript Snippet: we don't even know what kind of ammo was used. It could lite
 
 Anchored Artifacts: A-1516.1
 Mentions: N-316
-Related Nodes: N-10319
+Related Nodes: N-10300
 Tags: relevance:context
 Investigative Direction: Compare with any official statement or charging document on the cartridge type recovered.
 
@@ -1535,7 +1522,7 @@ Transcript Snippet: I actually bought this one specifically for this test just t
 
 Anchored Artifacts: A-1516.1
 Mentions: N-316
-Related Nodes: N-10319
+Related Nodes: N-10300
 Tags: relevance:context
 Investigative Direction: Obtain the full video and the result for the second round, which the episode does not show.
 
@@ -1551,7 +1538,7 @@ Transcript Snippet: I'm not going to be able to take the shot at 140 yards.
 
 Anchored Artifacts: A-1516.1
 Mentions: N-316
-Related Nodes: N-10319
+Related Nodes: N-10300
 Tags: relevance:context
 Investigative Direction: Compare the setup geometry with the official shot angle and distance; obtain the earlier 140 yard video he links.
 
@@ -1567,7 +1554,7 @@ Transcript Snippet: There's going to be almost no difference between 30 or 40 an
 
 Anchored Artifacts: A-1516.1
 Mentions: N-316
-Related Nodes: N-10319
+Related Nodes: N-10300
 Tags: relevance:context
 Investigative Direction: Have a ballistics expert assess terminal energy at the stated ranges for the tested loads.
 
@@ -1583,7 +1570,7 @@ Transcript Snippet: that right there is why people are skeptical on the official
 
 Anchored Artifacts: A-1516.1
 Mentions: N-316
-Related Nodes: N-10319
+Related Nodes: N-10300
 Tags: relevance:context
 Investigative Direction: Have independent firearms experts review the video; compare with the official ballistics findings.
 
@@ -1599,7 +1586,7 @@ Transcript Snippet: That's what we mean when we say that particular bullet would
 
 Anchored Artifacts: A-1516.1
 Mentions: N-1
-Related Nodes: N-10319
+Related Nodes: N-10300
 Supports: C-3783
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy findings and official wound description to compare against the host's assertion.
@@ -1616,7 +1603,7 @@ Transcript Snippet: they're not honest about the anxiety that Charlie had the ni
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10320
+Related Nodes: N-10318
 Supports: C-3769
 Tags: relevance:core
 Investigative Direction: Identify who spoke with Kirk the night of September 9, 2025 and seek their accounts.
@@ -1649,7 +1636,7 @@ Transcript Snippet: Can we see Mikey's call logs and the metadata before and aft
 
 Anchored Artifacts: A-1518.6
 Mentions: N-190
-Related Nodes: N-10193
+Related Nodes: N-10185
 Tags: relevance:context
 Investigative Direction: Cross-reference with host-shown Mikey McCoy call logs in other episodes and request the carrier records.
 
@@ -1694,7 +1681,7 @@ Claim: The host, asking if she is correct, says Qatar gave an interview saying t
 Transcript Snippet: they said the reason why we have a relationship with Hamas is because the US government asked us to establish one.
 
 Anchored Artifacts: A-3212.1
-Related Nodes: N-11336, N-11337
+Related Nodes: N-11252, N-11253
 Tags: relevance:tangential
 Investigative Direction: Locate the Qatari interview and confirm who said it and when.
 
@@ -1726,7 +1713,7 @@ Transcript Snippet: some of that obviously is normal to have a life insurance po
 
 Anchored Artifacts: A-1518.5
 Mentions: N-1
-Related Nodes: N-10322
+Related Nodes: N-10302
 Tags: relevance:context
 Investigative Direction: Obtain the policy details reported by the Daily Mail and any corporate key-person policy filings.
 
@@ -1742,7 +1729,7 @@ Transcript Snippet: people that are saying that Charlie Kirk has not yet been bu
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10323
+Related Nodes: N-10193
 Supports: C-1974
 Tags: relevance:context
 Investigative Direction: Check cemetery or funeral-home records and the host's follow-up the next episode.
@@ -1922,6 +1909,6 @@ A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
 N-69 (Kash Patel), N-46 (Megyn Kelly), N-312 (Pierre Falcone), N-313 (Arcadi Gaydamak), N-314 (Jean-Christophe Mitterrand), N-315 (François Mitterrand), N-316 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-270 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-154 (John Mappin), N-278 (Bari Weiss), N-317 (Hodge Twins),  (Tucker Carlson), N-66 (Mel / Village Crazy Lady), N-188 (Ryan Matta)
 
 **New Nodes Introduced (investigation targets):**
-N-10316, N-10317, N-10319, N-10320, N-10321, N-10322, N-10323, N-10324, N-10325
+N-10297, N-10298, N-10300, N-10318, N-10301, N-10302, N-10193, N-10303, N-10304
 
 **Existing Nodes Reused:** N-3

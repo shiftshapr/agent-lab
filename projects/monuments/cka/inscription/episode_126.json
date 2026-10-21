@@ -56,8 +56,8 @@
             "C-10783"
           ],
           "related_nodes": [
-            "N-10717",
-            "N-10718",
+            "N-10653",
+            "N-10654",
             "N-505"
           ],
           "tags": [],
@@ -76,7 +76,7 @@
             "C-10782"
           ],
           "related_nodes": [
-            "N-10718",
+            "N-10654",
             "N-505"
           ],
           "tags": [],
@@ -103,7 +103,7 @@
             "C-10800"
           ],
           "related_nodes": [
-            "N-10717"
+            "N-10653"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -138,7 +138,7 @@
             "C-10792"
           ],
           "related_nodes": [
-            "N-10719"
+            "N-10655"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -164,7 +164,7 @@
             "C-10811"
           ],
           "related_nodes": [
-            "N-10717"
+            "N-10653"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-10779"
           ],
           "related_nodes": [
-            "N-10720"
+            "N-10652"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -214,7 +214,7 @@
           "description": "Comperatore Statement on \"Inside Job\" Belief Regarding Butler",
           "related_claims": [],
           "related_nodes": [
-            "N-10724"
+            "N-10659"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -232,7 +232,7 @@
             "C-10824"
           ],
           "related_nodes": [
-            "N-10724"
+            "N-10659"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,7 +259,7 @@
             "C-10831"
           ],
           "related_nodes": [
-            "N-10722"
+            "N-10657"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -286,7 +286,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10723"
+            "N-10658"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -406,7 +406,7 @@
             "C-10850"
           ],
           "related_nodes": [
-            "N-10723"
+            "N-10658"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -517,11 +517,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10717",
-      "ref": "N-10717",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10653",
+      "ref": "N-10653",
       "name": "Losee Center–Library Route Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: the geographic and testimonial claim that items/persons near the Fulton Library are linked to a \"route\" from Losee Center despite distance.",
       "related_artifacts": [
         "A-2139.1",
@@ -537,14 +537,15 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10718",
-      "ref": "N-10718",
-      "name": "Abandoned Tactical Items Testing Discontinued",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10654",
+      "ref": "N-10654",
+      "name": "Abandoned Backpack / Jacket / Gloves Non-Testing Decision",
+      "type": "investigation_question",
       "description": "Investigative target: the FBI/ATF lab decision to halt DNA/other analysis on the abandoned backpack, jacket, gloves (and up to 9 items).",
       "related_artifacts": [
         "A-2139.1",
@@ -559,14 +560,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10719",
-      "ref": "N-10719",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10655",
+      "ref": "N-10655",
       "name": "Prosecution Non-Call of Rooftop Eyewitness",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: the absence of the rooftop eyewitness from the prosecution's witness list despite recorded video and filed report.",
       "related_artifacts": [
         "A-2140.3"
@@ -579,20 +581,22 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10720",
-      "ref": "N-10720",
-      "name": "Bank of America Network Connection",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10652",
+      "ref": "N-10652",
+      "name": "Bank of America Merrill Lynch Personnel Network",
+      "type": "topic",
       "description": "Investigative target: recurring Bank of America/Merrill Lynch consultancy or employment ties among figures in the investigation orbit (Tyler Bowyer's father, Frank Turek, others).",
       "related_artifacts": [
         "A-2142.1"
       ],
       "related_claims": [
-        "C-10779"
+        "C-10779",
+        "C-10778"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -601,14 +605,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-11"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10721",
-      "ref": "N-10721",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10656",
+      "ref": "N-10656",
       "name": "Comperatore \"Inside Job\" Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: Helen Comperatore's on-record assertion that Butler shooting involved an inside collaborator with Thomas Crooks.",
       "related_artifacts": [
         "A-2143.1"
@@ -622,15 +627,17 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10724"
-      ]
+        "N-10659"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10659"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10722",
-      "ref": "N-10722",
+      "@type": "Topic",
+      "@id": "N-10657",
+      "ref": "N-10657",
       "name": "Clock Tower X / Israeli Influence Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: Brad Parscale's firm contracted by Israeli foreign ministry for digital influence campaign; Time-reported failure and cost figures.",
       "related_artifacts": [
         "A-2144.1"
@@ -643,14 +650,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10723",
-      "ref": "N-10723",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10658",
+      "ref": "N-10658",
       "name": "Carhartt \"Freedom Shirt\" Origin",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: provenance of the custom Carhartt shirt worn by Charlie on Sept 10; absence of Carhartt as documented TPUSA vendor.",
       "related_artifacts": [
         "A-2145.1"
@@ -665,14 +673,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10724",
-      "ref": "N-10724",
+      "@type": "Topic",
+      "@id": "N-10659",
+      "ref": "N-10659",
       "name": "Butler Shooting Insider Involvement Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: Helen Comperatore's claim that Butler shooting involved an \"inside\" collaborator and her appeal to President Trump.",
       "related_artifacts": [
         "A-2143.1",
@@ -688,8 +697,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10721"
-      ]
+        "N-10656"
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -825,11 +835,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose vendors, finances and conduct are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -840,14 +850,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "State on whose behalf the influence campaign was reportedly run.",
       "related_artifacts": [],
       "related_claims": [
@@ -857,14 +869,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's decoy theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -875,14 +889,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the clothes-dumping claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -892,14 +907,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10053",
-      "ref": "N-10053",
+      "@type": "Topic",
+      "@id": "N-10050",
+      "ref": "N-10050",
       "name": "Vacant-House / Decoy Shooter Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the decoy-on-roof theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -909,14 +925,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10032"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10098",
-      "ref": "N-10098",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10094",
+      "ref": "N-10094",
       "name": "Roof Video Provenance Chain",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the origin and spread of the rooftop clip.",
       "related_artifacts": [],
       "related_claims": [
@@ -927,14 +945,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10099",
-      "ref": "N-10099",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10095",
+      "ref": "N-10095",
       "name": "Shooter Description Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for witness descriptions of attire, helmet and range.",
       "related_artifacts": [],
       "related_claims": [
@@ -943,38 +962,22 @@
         "C-10808",
         "C-10842",
         "C-10853",
-        "C-10854"
+        "C-10854",
+        "C-10788"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10121",
-      "ref": "N-10121",
-      "name": "Eyewitness Roof-Description Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for eyewitness rooftop descriptions.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10788",
-        "C-10808"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10314",
-      "ref": "N-10314",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10295",
+      "ref": "N-10295",
       "name": "Roof Shooter Video Witness Follow-up",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's contact with the rooftop filmer.",
       "related_artifacts": [],
       "related_claims": [
@@ -985,14 +988,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10334",
-      "ref": "N-10334",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10313",
+      "ref": "N-10313",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the town hall contrast.",
       "related_artifacts": [],
       "related_claims": [
@@ -1002,14 +1006,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10343",
-      "ref": "N-10343",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for timing of the figure on the roof.",
       "related_artifacts": [],
       "related_claims": [
@@ -1022,14 +1027,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10358",
-      "ref": "N-10358",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10334",
+      "ref": "N-10334",
       "name": "Surgeon Quotation Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the surgeon-call dispute.",
       "related_artifacts": [],
       "related_claims": [
@@ -1040,14 +1046,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10381",
-      "ref": "N-10381",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Panguitch steakhouse claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1057,14 +1064,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the HIPAA dispute.",
       "related_artifacts": [],
       "related_claims": [
@@ -1075,7 +1083,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1095,11 +1104,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10588",
-      "ref": "N-10588",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10536",
+      "ref": "N-10536",
       "name": "Butler PA Investigation Closure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Butler investigation satisfaction.",
       "related_artifacts": [],
       "related_claims": [
@@ -1110,14 +1119,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10625",
-      "ref": "N-10625",
+      "@type": "Topic",
+      "@id": "N-10571",
+      "ref": "N-10571",
       "name": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the exhibits and video shown at the hearing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1128,14 +1138,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10657",
-      "ref": "N-10657",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10599",
+      "ref": "N-10599",
       "name": "Salem Media Foreign Agent Registration Status",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Salem integration clause.",
       "related_artifacts": [],
       "related_claims": [
@@ -1145,14 +1157,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10662",
-      "ref": "N-10662",
+      "@type": "Topic",
+      "@id": "N-10604",
+      "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for FARA filing timing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1162,14 +1175,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10712",
-      "ref": "N-10712",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10648",
+      "ref": "N-10648",
       "name": "Ben Shapiro Car Ride Live Updates",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the driver and security update theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1179,14 +1193,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10624"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Neff's September 10 whereabouts.",
       "related_artifacts": [],
       "related_claims": [
@@ -1197,31 +1213,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10716",
-      "ref": "N-10716",
-      "name": "Bank of America Merrill Lynch Personnel Network",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the parents-at-Bank-of-America chart.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10778"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10730",
-      "ref": "N-10730",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10664",
+      "ref": "N-10664",
       "name": "Frank Turek FaceTime Story Inconsistency",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the FaceTime call question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1231,14 +1231,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10754",
-      "ref": "N-10754",
+      "@type": "Topic",
+      "@id": "N-10684",
+      "ref": "N-10684",
       "name": "Rooftop Movement Tactical Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for IMT and tactical movement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1248,14 +1249,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10755",
-      "ref": "N-10755",
+      "@type": "Topic",
+      "@id": "N-10685",
+      "ref": "N-10685",
       "name": "Weapon Discharge Visual Indicators",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for muzzle flash and recoil observations.",
       "related_artifacts": [],
       "related_claims": [
@@ -1267,14 +1269,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10850",
-      "ref": "N-10850",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10773",
+      "ref": "N-10773",
       "name": "Two Grey Dodge Challengers Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the decoy Challenger rental inquiry.",
       "related_artifacts": [],
       "related_claims": [
@@ -1284,14 +1287,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10975",
-      "ref": "N-10975",
+      "@type": "Organization",
+      "@id": "N-10896",
+      "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Federal agency whose notes are referenced in the questioning.",
       "related_artifacts": [],
       "related_claims": [
@@ -1301,14 +1305,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10987",
-      "ref": "N-10987",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10907",
+      "ref": "N-10907",
       "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the under-the-shirt theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1318,14 +1324,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11017",
-      "ref": "N-11017",
+      "@type": "Topic",
+      "@id": "N-10937",
+      "ref": "N-10937",
       "name": "TPUSA Influencer Payment Campaign Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for paid-influencer claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1339,14 +1346,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11065",
-      "ref": "N-11065",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10983",
+      "ref": "N-10983",
       "name": "Preliminary Hearing Influencer Invitation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for influencers shown footage at the hearing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1356,7 +1364,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-11065"
     },
     {
       "@type": "Person",
@@ -1690,11 +1700,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11198",
-      "ref": "N-11198",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11114",
+      "ref": "N-11114",
       "name": "Rooftop Video Missing Minute Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's statement that a minute was removed from the rooftop video shown in court, and the open question of what it showed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1704,14 +1714,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11199",
-      "ref": "N-11199",
+      "@type": "Event",
+      "@id": "N-11115",
+      "ref": "N-11115",
       "name": "Library 911 Calls and Lockdown",
-      "type": "topic",
+      "type": "event",
       "description": "The string of 911 calls and dispatch reports about shots near the UVU library and the library lockdown, away from the Losee Center.",
       "related_artifacts": [],
       "related_claims": [
@@ -1722,14 +1733,18 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11200",
-      "ref": "N-11200",
+      "@type": "Thing",
+      "@id": "N-11116",
+      "ref": "N-11116",
       "name": "Unfired .223 Round on Science Building",
-      "type": "topic",
+      "type": "thing",
       "description": "Testimony the host cites about an unfired .223 round found atop the science building and the officers' answer about not acting on it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1740,12 +1755,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
-      "@id": "N-11201",
-      "ref": "N-11201",
+      "@id": "N-11117",
+      "ref": "N-11117",
       "name": "Influencable",
       "type": "organization",
       "description": "Company the host says Time reports Brad Parscale owned or part owned, which she says pays people by engagement to post set messages.",
@@ -1758,7 +1774,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -1772,8 +1790,8 @@
         "A-2139.1"
       ],
       "related_nodes": [
-        "N-10717",
-        "N-10718"
+        "N-10653",
+        "N-10654"
       ],
       "tags": [],
       "claim_timestamp": "00:09:28",
@@ -1792,7 +1810,7 @@
         "A-2139.2"
       ],
       "related_nodes": [
-        "N-10718"
+        "N-10654"
       ],
       "tags": [],
       "claim_timestamp": "00:09:25",
@@ -1811,7 +1829,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10717"
+        "N-10653"
       ],
       "tags": [],
       "claim_timestamp": "00:17:10",
@@ -1828,7 +1846,7 @@
         "A-2140.2"
       ],
       "related_nodes": [
-        "N-10717"
+        "N-10653"
       ],
       "tags": [],
       "claim_timestamp": "00:18:26",
@@ -1860,7 +1878,7 @@
         "A-2141.1"
       ],
       "related_nodes": [
-        "N-10717"
+        "N-10653"
       ],
       "tags": [],
       "claim_timestamp": "00:22:01",
@@ -1875,7 +1893,7 @@
       "claim": "In the September 25 recording the host plays, the host says the police scanner described a person in a face mask and tactical gear, while the feds are now saying he wore jeans or something.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10717"
+        "N-10653"
       ],
       "tags": [],
       "claim_timestamp": "00:19:08",
@@ -1892,7 +1910,7 @@
         "A-2140.3"
       ],
       "related_nodes": [
-        "N-10719"
+        "N-10655"
       ],
       "tags": [],
       "claim_timestamp": "00:14:25",
@@ -1909,7 +1927,7 @@
         "A-2142.1"
       ],
       "related_nodes": [
-        "N-10720"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:07:20",
@@ -1928,7 +1946,7 @@
         "A-2138.1"
       ],
       "related_nodes": [
-        "N-10723"
+        "N-10658"
       ],
       "tags": [],
       "claim_timestamp": "00:03:16",
@@ -1949,8 +1967,8 @@
         "A-2143.1"
       ],
       "related_nodes": [
-        "N-10721",
-        "N-10724"
+        "N-10656",
+        "N-10659"
       ],
       "tags": [],
       "claim_timestamp": "00:29:15",
@@ -1970,7 +1988,7 @@
         "A-2143.2"
       ],
       "related_nodes": [
-        "N-10724"
+        "N-10659"
       ],
       "tags": [],
       "claim_timestamp": "00:30:55",
@@ -1989,7 +2007,7 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-10722"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:34:37",
@@ -2008,7 +2026,7 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-10722"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:35:39",
@@ -2027,7 +2045,7 @@
         "A-2145.1"
       ],
       "related_nodes": [
-        "N-10723"
+        "N-10658"
       ],
       "tags": [],
       "claim_timestamp": "00:01:37",
@@ -2046,7 +2064,7 @@
         "A-2973.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core",
@@ -2068,7 +2086,7 @@
       "claim": "The host says that at every Turning Point college stop she did with Charlie Kirk they wore the same t-shirts as the student chapter, provided on arrival, and that she believes Carhartt as a brand is new to TPUSA events.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10723"
+        "N-10658"
       ],
       "tags": [
         "relevance:core"
@@ -2089,7 +2107,7 @@
       "claim": "The host says she asked current and former Turning Point employees whether Carhartt was one of their vendors and was told no.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10723",
+        "N-10658",
         "N-10000"
       ],
       "tags": [
@@ -2112,7 +2130,7 @@
         "A-2974.1"
       ],
       "related_nodes": [
-        "N-10723"
+        "N-10658"
       ],
       "tags": [
         "relevance:core",
@@ -2134,8 +2152,7 @@
       "claim": "The host says Tyler Bowyer's father temporarily moved Tyler and his family to New Jersey during the same period because he served as an executive at Bank of America, and notes that she charted several figures' parents at Bank of America Merrill Lynch.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10716",
-        "N-10720"
+        "N-10652"
       ],
       "tags": [
         "relevance:context"
@@ -2158,7 +2175,7 @@
         "A-2142.1"
       ],
       "related_nodes": [
-        "N-10720"
+        "N-10652"
       ],
       "tags": [
         "relevance:context"
@@ -2180,7 +2197,7 @@
         "A-2142.1"
       ],
       "related_nodes": [
-        "N-10720"
+        "N-10652"
       ],
       "tags": [
         "relevance:context"
@@ -2202,8 +2219,8 @@
         "A-2139.1"
       ],
       "related_nodes": [
-        "N-10717",
-        "N-10718"
+        "N-10653",
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2225,7 +2242,7 @@
         "A-2139.2"
       ],
       "related_nodes": [
-        "N-10718"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2247,8 +2264,8 @@
         "A-2139.2"
       ],
       "related_nodes": [
-        "N-10718",
-        "N-10975"
+        "N-10654",
+        "N-10896"
       ],
       "tags": [
         "relevance:core"
@@ -2273,7 +2290,7 @@
         "A-2139.1"
       ],
       "related_nodes": [
-        "N-10717"
+        "N-10653"
       ],
       "tags": [
         "relevance:core"
@@ -2295,9 +2312,9 @@
         "A-2140.3"
       ],
       "related_nodes": [
-        "N-10717",
-        "N-10719",
-        "N-10121"
+        "N-10653",
+        "N-10655",
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2319,7 +2336,7 @@
         "A-2139.1"
       ],
       "related_nodes": [
-        "N-10718"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2341,8 +2358,8 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10314",
-        "N-10098"
+        "N-10295",
+        "N-10094"
       ],
       "tags": [
         "relevance:core"
@@ -2364,7 +2381,7 @@
         "A-2975.1"
       ],
       "related_nodes": [
-        "N-10098"
+        "N-10094"
       ],
       "tags": [
         "relevance:core"
@@ -2386,7 +2403,7 @@
         "A-2975.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10295"
       ],
       "tags": [
         "relevance:core"
@@ -2411,7 +2428,7 @@
         "A-2140.3"
       ],
       "related_nodes": [
-        "N-10719"
+        "N-10655"
       ],
       "tags": [
         "relevance:core"
@@ -2434,7 +2451,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10719"
+        "N-10655"
       ],
       "tags": [
         "relevance:core"
@@ -2459,7 +2476,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -2478,7 +2495,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10755"
+        "N-10685"
       ],
       "tags": [
         "relevance:core"
@@ -2500,7 +2517,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10099"
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2519,7 +2536,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -2538,7 +2555,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -2557,7 +2574,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -2576,7 +2593,7 @@
         "A-2140.2"
       ],
       "related_nodes": [
-        "N-10099"
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2595,7 +2612,7 @@
         "A-2140.3"
       ],
       "related_nodes": [
-        "N-10719"
+        "N-10655"
       ],
       "tags": [
         "relevance:core"
@@ -2617,8 +2634,7 @@
         "A-2140.2"
       ],
       "related_nodes": [
-        "N-10099",
-        "N-10121"
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2635,8 +2651,8 @@
       "claim": "The host says that, if she is correct, a minute was removed from the rooftop video the prosecution showed in court, and that nobody knows why.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11198",
-        "N-10625"
+        "N-11114",
+        "N-10571"
       ],
       "tags": [
         "relevance:core"
@@ -2658,7 +2674,7 @@
         "A-2139.1"
       ],
       "related_nodes": [
-        "N-10717"
+        "N-10653"
       ],
       "tags": [
         "relevance:core"
@@ -2680,8 +2696,8 @@
         "A-2141.1"
       ],
       "related_nodes": [
-        "N-11199",
-        "N-10717"
+        "N-11115",
+        "N-10653"
       ],
       "tags": [
         "relevance:core"
@@ -2700,7 +2716,7 @@
         "A-2141.1"
       ],
       "related_nodes": [
-        "N-11199"
+        "N-11115"
       ],
       "tags": [
         "relevance:core"
@@ -2717,8 +2733,8 @@
       "claim": "The host, prompted by chat, says there was testimony about an unfired .223 round discovered on top of the science building.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11200",
-        "N-10755"
+        "N-11116",
+        "N-10685"
       ],
       "tags": [
         "relevance:core"
@@ -2738,7 +2754,7 @@
       "claim": "The host says that, as a chat comment reminded her, when they were questioned about why they did not act on the unfired .223 round, they gave a ridiculous answer, and she adds 'I should have pulled that'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11200"
+        "N-11116"
       ],
       "tags": [
         "relevance:core"
@@ -2758,8 +2774,8 @@
       "claim": "The host says that when she revisited the Butler assassination she speculated that Corey Comperatore, the only person to die that day, may have been targeted.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10588",
-        "N-10724"
+        "N-10536",
+        "N-10659"
       ],
       "tags": [
         "relevance:context"
@@ -2782,8 +2798,8 @@
         "A-2143.1"
       ],
       "related_nodes": [
-        "N-10588",
-        "N-10724"
+        "N-10536",
+        "N-10659"
       ],
       "tags": [
         "relevance:context"
@@ -2807,7 +2823,7 @@
       "claim": "The host contrasts Helen with Erika Kirk, saying Helen was not ready to go on Bari Weiss two weeks later and say she trusts everything 100 percent despite seeing nothing, which the host frames as Erika's conduct.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10334"
+        "N-10313"
       ],
       "tags": [
         "relevance:core"
@@ -2831,8 +2847,8 @@
         "A-2143.1"
       ],
       "related_nodes": [
-        "N-10724",
-        "N-10721"
+        "N-10659",
+        "N-10656"
       ],
       "tags": [
         "relevance:context"
@@ -2858,7 +2874,7 @@
         "A-2143.1"
       ],
       "related_nodes": [
-        "N-10724"
+        "N-10659"
       ],
       "tags": [
         "relevance:context"
@@ -2880,8 +2896,8 @@
         "A-2143.1"
       ],
       "related_nodes": [
-        "N-10724",
-        "N-10721"
+        "N-10659",
+        "N-10656"
       ],
       "tags": [
         "relevance:context"
@@ -2903,7 +2919,7 @@
         "A-2143.1"
       ],
       "related_nodes": [
-        "N-10724"
+        "N-10659"
       ],
       "tags": [
         "relevance:context"
@@ -2924,7 +2940,7 @@
       "claim": "The host says Helen's pain needs no Department of Justice, 'an emotional asset', boosting a person, or interviews with famous people such as Nicki Minaj, which the host contrasts with Erika Kirk's treatment.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11017"
+        "N-10937"
       ],
       "tags": [
         "relevance:core"
@@ -2970,8 +2986,8 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-10722",
-        "N-10662"
+        "N-10657",
+        "N-10604"
       ],
       "tags": [
         "relevance:context"
@@ -2996,7 +3012,7 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-10722",
+        "N-10657",
         "N-10026"
       ],
       "tags": [
@@ -3022,8 +3038,8 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-10722",
-        "N-11017"
+        "N-10657",
+        "N-10937"
       ],
       "tags": [
         "relevance:context"
@@ -3046,7 +3062,7 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-10722"
+        "N-10657"
       ],
       "tags": [
         "relevance:context"
@@ -3068,8 +3084,8 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-10722",
-        "N-11017"
+        "N-10657",
+        "N-10937"
       ],
       "tags": [
         "relevance:context"
@@ -3091,8 +3107,8 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-11201",
-        "N-10722"
+        "N-11117",
+        "N-10657"
       ],
       "tags": [
         "relevance:context"
@@ -3114,8 +3130,8 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-11201",
-        "N-11017"
+        "N-11117",
+        "N-10937"
       ],
       "tags": [
         "relevance:context"
@@ -3137,7 +3153,7 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-10722"
+        "N-10657"
       ],
       "tags": [
         "relevance:context"
@@ -3159,8 +3175,8 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-10722",
-        "N-10657"
+        "N-10657",
+        "N-10599"
       ],
       "tags": [
         "relevance:context"
@@ -3183,7 +3199,7 @@
       "claim": "The host says she is looking for what she thinks could also be decoy Dodge Challengers and asks dealership workers whether the car was rented out on the 9th or the 10th.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10850"
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -3206,7 +3222,7 @@
       ],
       "related_nodes": [
         "N-10032",
-        "N-10053"
+        "N-10050"
       ],
       "tags": [
         "relevance:core"
@@ -3228,7 +3244,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10719"
+        "N-10655"
       ],
       "tags": [
         "relevance:core"
@@ -3253,7 +3269,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10755"
+        "N-10685"
       ],
       "tags": [
         "relevance:core"
@@ -3278,8 +3294,8 @@
         "A-2140.2"
       ],
       "related_nodes": [
-        "N-10719",
-        "N-10099"
+        "N-10655",
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -3326,7 +3342,7 @@
       "claim": "The host says Tyler was around campus and was tasked with dumping clothes at the Dairy Queen, and that she does not know how they got him to do that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -3347,7 +3363,7 @@
       "claim": "The host says she remains a believer that all of it was a show, that what happened likely took place under his shirt, and that she has not seen contrary evidence yet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10987"
+        "N-10907"
       ],
       "tags": [
         "relevance:core"
@@ -3368,8 +3384,8 @@
       "claim": "The host says that she believes Erika Kirk lied to her face, and that no one can make her come back from a person who lied about the surgeon call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10358",
-        "N-10447"
+        "N-10334",
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -3393,8 +3409,8 @@
       "claim": "The host says Erika Kirk's account blamed Andrew Kolvet and the surgeon, with one said to have violated HIPAA and one to have gone rogue on the day of Charlie's funeral, and she asks why Erika will not address it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10358",
-        "N-10447"
+        "N-10334",
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -3445,7 +3461,7 @@
         "A-2977.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -3467,7 +3483,7 @@
         "A-2976.2"
       ],
       "related_nodes": [
-        "N-10723"
+        "N-10658"
       ],
       "tags": [
         "relevance:context"
@@ -3524,7 +3540,7 @@
         "A-2976.3"
       ],
       "related_nodes": [
-        "N-10099"
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -3546,7 +3562,7 @@
         "A-2976.3"
       ],
       "related_nodes": [
-        "N-10099"
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -3567,7 +3583,7 @@
       "claim": "The host says the Panguitch Steakhouse matter is going to throw things for a loop and that there are receipts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3610,7 +3626,7 @@
         "A-2976.4"
       ],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [
         "relevance:core"
@@ -3633,7 +3649,7 @@
         "A-2976.4"
       ],
       "related_nodes": [
-        "N-10712"
+        "N-10648"
       ],
       "tags": [
         "relevance:core"
@@ -3657,7 +3673,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-10754"
+        "N-10684"
       ],
       "tags": [
         "relevance:core"
@@ -3677,8 +3693,8 @@
       "claim": "The host says that, in the narrative she is supposed to accept that it was Tyler Robinson, everyone could see it in 4K HD and the influencers were shown it at the very end of the fifth day of the hearing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11065",
-        "N-10625"
+        "N-10983",
+        "N-10571"
       ],
       "tags": [
         "relevance:core"
@@ -3701,8 +3717,8 @@
         "A-2976.6"
       ],
       "related_nodes": [
-        "N-11017",
-        "N-10722"
+        "N-10937",
+        "N-10657"
       ],
       "tags": [
         "relevance:context"

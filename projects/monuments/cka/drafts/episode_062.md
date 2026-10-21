@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-11176, N-11177, N-11178, N-11179, N-11181
-  - Hole-minted Nodes (reintro-ep062): N-10869
-  - Tip-minted Nodes (reintro-ep062): N-767, N-10984
+  - Tip-minted Nodes (supplement_2026-10c): N-11092, N-11093, N-11094, N-11095, N-11097
+  - Hole-minted Nodes (reintro-ep062): N-10790
+  - Tip-minted Nodes (reintro-ep062): N-767, N-10904
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5523–C-5599
-  - New Nodes Introduced: N-488, N-490, N-491, N-493, N-494, N-10438, N-10439, N-10440, N-10441, N-10442
-  - Reused Nodes Appearing: N-2, N-11, N-489, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10047, N-10063, N-10197, N-10209, N-10268, N-10320, N-10344, N-10398, N-10436, N-11035, N-11097, N-11080, N-11084, N-11180
+  - New Nodes Introduced: N-488, N-490, N-491, N-493, N-494, N-10407, N-10408, N-10409, N-10410, N-10411
+  - Reused Nodes Appearing: N-11361, N-2, N-11, N-489, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10044, N-10060, N-10189, N-10201, N-10252, N-10318, N-10322, N-10371, N-10405, N-11002, N-11015, N-10998, N-11096
   - (see registers)
 
 # Episode Analysis: Monument Ep 62
@@ -43,7 +43,7 @@ Video Timestamp: 00:07:27–00:09:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states Jaco Booyens and Erika Kirk confirmed authenticity)
 
-*Related: C-5534, C-5535, N-2, N-488, N-10438*
+*Related: C-5534, C-5535, N-2, N-488, N-10407*
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays case on screen)
 
-*Related: C-5547, N-490, N-10438*
+*Related: C-5547, N-490, N-10407*
 
 **A-1670.2** 1999 Dismissal Without Prejudice – victim had given victim impact statement
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:13:25–00:14:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (filing document displayed)
 
-*Related: C-5550, N-489, N-387, N-490, N-491, N-10440, N-10442*
+*Related: C-5550, N-489, N-387, N-490, N-491, N-10409, N-10411*
 
 **A-1671.2** Arizona Chinese News public notice for Desert Spirit Tek LLC (signed Dec 1, 2017; state-received Dec 6, 2017)
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:16:12–00:17:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (notarized filing displayed)
 
-*Related: C-5557, N-489, N-387, N-10440*
+*Related: C-5557, N-489, N-387, N-10409*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:15:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5550, N-490, N-491, N-10442*
+*Related: C-5550, N-490, N-491, N-10411*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:26:45–00:30:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played on air; recording captured by employee)
 
-*Related: C-5578, C-5579, C-5582, N-14, N-494, N-10439*
+*Related: C-5578, C-5579, C-5582, N-14, N-494, N-10408*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:22:28–00:24:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-5568, N-14, N-493, N-10439*
+*Related: C-5568, N-14, N-493, N-10408*
 
 **A-1675.2** First-person account: Marina Minas Zoom-call incident and general counsel home visit for computer retrieval
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:32:06–00:34:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-5586, N-493, N-494, N-10439*
+*Related: C-5586, N-493, N-494, N-10408*
 
 ---
 
@@ -226,7 +226,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1669.1, C-5534, N-2, N-10438*
+*Related: A-1669.1, C-5534, N-2, N-10407*
 
 ---
 
@@ -252,7 +252,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-5550, N-387, N-2, N-10440, N-10441*
+*Related: A-1671.1, A-1671.2, C-5550, N-387, N-2, N-10409, N-10410*
 
 ---
 
@@ -265,7 +265,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-5550, N-489, N-10440*
+*Related: A-1671.1, A-1671.2, C-5550, N-489, N-10409*
 
 ---
 
@@ -278,7 +278,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-5547, C-5548, C-5550, N-491, N-10440*
+*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-5547, C-5548, C-5550, N-491, N-10409*
 
 ---
 
@@ -304,7 +304,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1674.1, A-1675.1, C-5578, C-5568, N-10439*
+*Related: A-1674.1, A-1675.1, C-5578, C-5568, N-10408*
 
 ---
 
@@ -317,7 +317,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1675.1, A-1675.2, C-5568, C-5586, N-10439*
+*Related: A-1675.1, A-1675.2, C-5568, C-5586, N-10408*
 
 ---
 
@@ -330,11 +330,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1674.1, A-1675.2, C-5578, C-5586, N-10439*
+*Related: A-1674.1, A-1675.2, C-5578, C-5586, N-10408*
 
 ---
 
-**N-10438** Identity of Christian Zionist Donor (Unverified)
+**N-10407** Identity of Christian Zionist Donor (Unverified)
 
 Persistent unresolved target: the host states Turning Point USA has not named the sender of A-1669.1.
 
@@ -347,7 +347,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10439** TPUSA Termination Cause Investigation
+**N-10408** TPUSA Termination Cause Investigation
 
 Persistent unresolved target: the actual cause(s) of the TPUSA terminations referenced in A-1674.1, A-1675.1, A-1675.2.
 
@@ -360,7 +360,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10440** Desert Spirit Tek LLC Business Purpose Question
+**N-10409** Desert Spirit Tek LLC Business Purpose Question
 
 Persistent unresolved target: stated business activity of Desert Spirit Tek LLC.
 
@@ -373,7 +373,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10441** Euro Tech / Cincinnati Business Investigation
+**N-10410** Euro Tech / Cincinnati Business Investigation
 
 Persistent unresolved target: the "Euro Tech" company Lori Frantzve formed in Cincinnati, Ohio; host indicates it has not been fully examined yet.
 
@@ -386,7 +386,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10442** Sacaton "Rose and Thobi" Address Verification
+**N-10411** Sacaton "Rose and Thobi" Address Verification
 
 Persistent unresolved target: whether 26 Rose and Thobi (Desert Spirit Tech) and 21 Rose and Thobi (Generation Seven Farms) correspond to actual physical addresses.
 
@@ -413,6 +413,16 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Widow and TPUSA CEO; subject of the employees' accounts, the Frantzve family business thread and the host's planned episodes.
 
 *Related: C-5545, C-5574, C-5575, C-5593, C-5594, C-5599*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-5572*
 
 ---
 
@@ -496,7 +506,7 @@ Place; recurring subject of the donor text and the host's remarks.
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Existing topic reused for new claims in this episode.
 
@@ -504,7 +514,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Place named in the host's remark.
 
@@ -512,7 +522,7 @@ Place named in the host's remark.
 
 ---
 
-**N-10197** TPUSA Military-Personnel Network
+**N-10189** TPUSA Military-Personnel Network
 
 Existing topic reused for the Bowyer tweet claims.
 
@@ -520,7 +530,7 @@ Existing topic reused for the Bowyer tweet claims.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 Existing topic reused for new claims in this episode.
 
@@ -528,7 +538,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic reused for the AmFest invitation claims.
 
@@ -536,7 +546,7 @@ Existing topic reused for the AmFest invitation claims.
 
 ---
 
-**N-10320** Charlie Kirk's Pre-Death Messages (Night Before Assassination)
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for the September 9 AmFest text claim.
 
@@ -544,7 +554,7 @@ Existing topic reused for the September 9 AmFest text claim.
 
 ---
 
-**N-10344** Candace Owens Security Arrangement
+**N-10322** Candace Owens Security Arrangement
 
 Existing topic reused for the host's security remark.
 
@@ -552,7 +562,7 @@ Existing topic reused for the host's security remark.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Existing topic reused for the faith-pivot claim.
 
@@ -560,7 +570,7 @@ Existing topic reused for the faith-pivot claim.
 
 ---
 
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Existing topic reused for the legal-letter and Bowyer tweet claims.
 
@@ -568,7 +578,7 @@ Existing topic reused for the legal-letter and Bowyer tweet claims.
 
 ---
 
-**N-10869** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List
+**N-10790** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List
 
 Existing topic reused for the Mar-a-Lago donor event reference.
 
@@ -576,7 +586,7 @@ Existing topic reused for the Mar-a-Lago donor event reference.
 
 ---
 
-**N-10984** U.S. Department of Justice
+**N-10904** U.S. Department of Justice
 
 Organization the host links to Lori Frantzve's 2017 defense work.
 
@@ -584,15 +594,7 @@ Organization the host links to Lori Frantzve's 2017 defense work.
 
 ---
 
-**N-11035** TPUSA Employee Purge and Leak Hunt
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-5590*
-
----
-
-**N-11080** Student Action Summit July 2025 (Tampa)
+**N-10998** Student Action Summit July 2025 (Tampa)
 
 Existing topic reused for the SAS and Tampa event claims.
 
@@ -600,7 +602,7 @@ Existing topic reused for the SAS and Tampa event claims.
 
 ---
 
-**N-11084** TPUSA Leak Hunt and Employee Firings
+**N-11002** TPUSA Leak Hunt and Employee Firings
 
 Existing topic reused for new claims in this episode.
 
@@ -608,7 +610,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11097** TPUSA Post-Assassination Fundraising Claim
+**N-11015** TPUSA Post-Assassination Fundraising Claim
 
 Existing topic reused for the 250 million dollar claims.
 
@@ -616,7 +618,7 @@ Existing topic reused for the 250 million dollar claims.
 
 ---
 
-**N-11176** Arizona Chinese News
+**N-11092** Arizona Chinese News
 
 Node Type: Organization
 Obscure Phoenix Chinese-language publication used for the 2017 Desert Spirit Tek LLC public notice; the host says it was founded in April 1990.
@@ -625,7 +627,7 @@ Obscure Phoenix Chinese-language publication used for the 2017 Desert Spirit Tek
 
 ---
 
-**N-11177** Sacaton, Arizona
+**N-11093** Sacaton, Arizona
 
 Node Type: Place
 Town on a Native American reservation where Desert Spirit Tek LLC was filed in 2017 and where the Reems business is listed.
@@ -634,7 +636,7 @@ Town on a Native American reservation where Desert Spirit Tek LLC was filed in 2
 
 ---
 
-**N-11178** Tohono O'odham Nation
+**N-11094** Tohono O'odham Nation
 
 Node Type: Organization
 Native American nation the host says Lyle Reams is ostensibly part of.
@@ -643,7 +645,7 @@ Native American nation the host says Lyle Reams is ostensibly part of.
 
 ---
 
-**N-11179** Generation Seven Farms
+**N-11095** Generation Seven Farms
 
 Node Type: Organization
 Business owned by Lyle and Shelly Reams, listed at 21 Rose and Thobi, Sacaton, Arizona, per the host.
@@ -652,18 +654,18 @@ Business owned by Lyle and Shelly Reams, listed at 21 Rose and Thobi, Sacaton, A
 
 ---
 
-**N-11180** TPUSA Cease and Desist Letter to Candace Owens
+**N-11096** TPUSA Cease and Desist Letter to Candace Owens
 
-Node Type: Topic
+Node Type: Thing
 The legal letter(s) TPUSA sent the host in January 2026, which she says partly cited her statement that military men infiltrated TPUSA.
 
 *Related: C-5532, C-5564, C-5597*
 
 ---
 
-**N-11181** Magisterium AI
+**N-11097** Magisterium AI
 
-Node Type: Organization
+Node Type: Thing
 Catholic AI answer engine advertised in a sponsor read.
 
 *Related: C-5562*
@@ -681,7 +683,7 @@ Claim: The host says Charlie Kirk received a text message from a female Christia
 Anchored Artifacts: A-1669.1
 Mentions: N-22, N-3, N-1
 
-Related Nodes: N-10438
+Related Nodes: N-10407
 
 Investigative Direction: Obtain the original device or screenshot of the message; identify the sender through metadata or corroborating testimony; determine whether Turning Point USA has internal records of this message.
 
@@ -738,7 +740,7 @@ Claim: Per the formation documents the host shows, in 2017 Lori Frantzve (listed
 Anchored Artifacts: A-1671.1, A-1672.1
 Mentions: N-387, N-489, N-490, N-491
 
-Related Nodes: N-10440, N-10442
+Related Nodes: N-10409, N-10411
 
 Investigative Direction: Pull the certified Arizona Corporation Commission filing for Desert Spirit Tek LLC; identify the actual place of business and any annual reports or amendments.
 
@@ -753,7 +755,7 @@ Claim: Per the filing the host shows, Larry Guinta, Lori Frantzve and their part
 Anchored Artifacts: A-1671.2
 Mentions: N-387, N-489
 
-Related Nodes: N-10440
+Related Nodes: N-10409
 
 Investigative Direction: Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description.
 
@@ -782,7 +784,7 @@ Claim: In a recording the host plays, a fired TPUSA employee who says she worked
 Anchored Artifacts: A-1674.1
 Mentions: N-494, N-1
 
-Related Nodes: N-10439
+Related Nodes: N-10408
 
 Investigative Direction: Obtain the termination documentation referenced in the audio ("email with social security and links" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement.
 
@@ -797,7 +799,7 @@ Claim: The terminated employee stated in the recorded termination meeting with g
 Anchored Artifacts: A-1674.1
 Mentions: N-494
 
-Related Nodes: N-10439
+Related Nodes: N-10408
 
 Investigative Direction: Cross-check time-tracking or HR records to verify hours worked.
 
@@ -812,7 +814,7 @@ Claim: The terminated employee told general counsel "Frank" she had "never had o
 Anchored Artifacts: A-1674.1
 Mentions: N-494
 
-Related Nodes: N-10439
+Related Nodes: N-10408
 
 Investigative Direction: Obtain HR personnel file to confirm or refute the absence of any prior negative review.
 
@@ -827,7 +829,7 @@ Claim: The host says Andrew Kolvet brought a TPUSA employee into an office to qu
 Anchored Artifacts: A-1675.1
 Mentions: N-14, N-493
 
-Related Nodes: N-10439
+Related Nodes: N-10408
 
 Investigative Direction: Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred.
 
@@ -842,7 +844,7 @@ Claim: The host alleges that a part-time TPUSA employee (unnamed) was put into a
 Anchored Artifacts: A-1675.2
 Mentions: N-493, N-494
 
-Related Nodes: N-10439
+Related Nodes: N-10408
 
 Investigative Direction: Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-493) is discussed in C-5587.
 
@@ -858,7 +860,7 @@ Transcript Snippet: Arizona, you should know, is an at-will employment state. Wh
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11084
+Related Nodes: N-11002
 Tags: relevance:context
 Investigative Direction: Check Arizona employment law and the terms of each terminated employee's contract or separation agreement.
 
@@ -874,7 +876,7 @@ Transcript Snippet: the company rakes in 250 million dollars off the back of its
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-11097
+Related Nodes: N-10000, N-11015
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA and Turning Point Action financial filings and donation reports for September 2025 onward to confirm or refute the 250 million dollar figure.
 
@@ -890,7 +892,7 @@ Transcript Snippet: Charlie was threatened. He was threatened a lot, I would say
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10047, N-10209
+Related Nodes: N-10044, N-10201
 Supports: C-2122
 Tags: relevance:core
 Investigative Direction: Identify the donors and the communications (texts, emails, call logs) in which funding was threatened to Charlie Kirk in 2025.
@@ -907,7 +909,7 @@ Transcript Snippet: In July, we know that's when things went sideways for Charli
 
 Anchored Artifacts: 
 Mentions: N-1, N-22
-Related Nodes: N-11080
+Related Nodes: N-10998
 Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Compare the July 2025 Student Action Summit schedule and later donor communications with the timing of the reported donor backlash.
@@ -958,7 +960,7 @@ Transcript Snippet: on September 9th, amongst a smaller pool of TPUSA employees,
 
 Anchored Artifacts: A-2926.1
 Mentions: N-1, N-3
-Related Nodes: N-10320, N-10268
+Related Nodes: N-10318, N-10252
 Supports: C-2046
 Tags: relevance:core
 Investigative Direction: Obtain the September 9, 2025 text thread and its recipient list from one of the employees on it; compare with the earlier-shown text about inviting her.
@@ -975,7 +977,7 @@ Transcript Snippet: Yeah, no. That wasn't allowed to happen because this Tucker 
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-1
-Related Nodes: N-10268, N-10026
+Related Nodes: N-10252, N-10026
 Supports: C-3163, C-2791
 Tags: relevance:core
 Investigative Direction: Identify who decided against the invitation and when, through AmFest speaker-planning records and the staff on the September 9 text.
@@ -992,7 +994,7 @@ Transcript Snippet: Not from Charlie's closest friends over at Turning Point USA
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-10047
+Related Nodes: N-10000, N-10044
 Tags: relevance:context
 Investigative Direction: Compare TPUSA leadership's public statements on donor pressure with the donor communications the host has displayed.
 
@@ -1008,7 +1010,7 @@ Transcript Snippet: They're not going to send any legal letters over to anybody 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11180, N-10000
+Related Nodes: N-11096, N-10000
 Tags: relevance:context
 Investigative Direction: Survey TPUSA's publicly known legal demands and cease-and-desist letters to see to whom they were addressed.
 
@@ -1024,7 +1026,7 @@ Transcript Snippet: I have copy and pasted this message and sent it to my team a
 
 Anchored Artifacts: A-1669.1
 Mentions: N-3
-Related Nodes: N-10438
+Related Nodes: N-10407
 Supports: C-5535
 Tags: relevance:core
 Investigative Direction: Independent confirmation of the message's authenticity from a recipient or from Charlie Kirk's phone records.
@@ -1041,7 +1043,7 @@ Transcript Snippet: All of the people that trusted you, Jews and Christians, inc
 
 Anchored Artifacts: A-1669.1
 Mentions: N-1, N-3, N-22
-Related Nodes: N-10438
+Related Nodes: N-10407
 Supports: C-5534
 Tags: relevance:core
 Investigative Direction: Obtain the original message and metadata to identify the sender and confirm the wording.
@@ -1058,7 +1060,7 @@ Transcript Snippet: Your TPUSA Tampa event was a disaster. Michele Bachmann was 
 
 Anchored Artifacts: A-1669.1
 Mentions: N-767
-Related Nodes: N-11080, N-10438
+Related Nodes: N-10998, N-10407
 Tags: relevance:context
 Investigative Direction: Check video and attendee accounts of Michele Bachmann's July 2025 Tampa appearance for booing and walkouts.
 
@@ -1074,7 +1076,7 @@ Transcript Snippet: You have accomplished so much by the all by the hand of the 
 
 Anchored Artifacts: A-1669.1
 Mentions: N-1
-Related Nodes: N-10438
+Related Nodes: N-10407
 Tags: relevance:context
 Investigative Direction: Obtain the original message to confirm the wording of the scriptural warnings.
 
@@ -1090,7 +1092,7 @@ Transcript Snippet: No, he wasn't chill with that. He did feel threatened by tha
 
 Anchored Artifacts: A-1669.1
 Mentions: N-1, N-3
-Related Nodes: N-10438, N-10047
+Related Nodes: N-10407, N-10044
 Tags: relevance:core
 Investigative Direction: Find Charlie's replies to the donor, or accounts from people he spoke to about the message.
 
@@ -1106,7 +1108,7 @@ Transcript Snippet: They've effectively have turned Gaza into a parking lot.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10063, N-10026
+Related Nodes: N-10060, N-10026
 Tags: relevance:tangential
 Investigative Direction: Compare with satellite damage assessments and UN reports on Gaza.
 
@@ -1138,7 +1140,7 @@ Transcript Snippet: It is becoming increasingly difficult to imagine how Turning
 
 Anchored Artifacts: A-1669.1
 Mentions: N-3
-Related Nodes: N-10000, N-10438
+Related Nodes: N-10000, N-10407
 Tags: relevance:core
 Investigative Direction: Ask TPUSA directly whether it has identified the sender and whether it has any record of the message.
 
@@ -1154,7 +1156,7 @@ Transcript Snippet: You're lining up employees and firing them for literally no 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11084
+Related Nodes: N-10000, N-11002
 Supports: C-5511
 Tags: relevance:core
 Investigative Direction: Obtain termination records, headcount data and employee accounts to establish who was let go, when, and on what stated grounds.
@@ -1171,7 +1173,7 @@ Transcript Snippet: we received a very interesting tip which unfortunately means
 
 Anchored Artifacts: 
 Mentions: N-3, N-489, N-387
-Related Nodes: N-10440
+Related Nodes: N-10409
 Tags: relevance:context
 Investigative Direction: Ask the host to publish the list and the tip; verify each entry against court records.
 
@@ -1187,7 +1189,7 @@ Transcript Snippet: And they have a repeat business partner, a repeat business c
 
 Anchored Artifacts: 
 Mentions: N-489, N-387, N-490, N-491, N-2
-Related Nodes: N-10440
+Related Nodes: N-10409
 Tags: relevance:core
 Investigative Direction: Search state corporation records for every entity listing Frantzve, Guinta, Lyle Reams or Shelly Reams as members or agents.
 
@@ -1203,7 +1205,7 @@ Transcript Snippet: Now Lyle Reams ostensibly is Native American a part of the a
 
 Anchored Artifacts: 
 Mentions: N-490
-Related Nodes: N-11178
+Related Nodes: N-11094
 Tags: relevance:context
 Investigative Direction: Verify tribal enrollment through the Nation or through court records identifying Reems.
 
@@ -1219,7 +1221,7 @@ Transcript Snippet: it was apparently not a bar to entry for Lori and Larry to p
 
 Anchored Artifacts: A-1670.1
 Mentions: N-490, N-489, N-387
-Related Nodes: N-10440
+Related Nodes: N-10409
 Tags: relevance:context
 Investigative Direction: Ask Frantzve and Guinta whether they knew of the 1998 case when they formed the LLC.
 
@@ -1235,7 +1237,7 @@ Transcript Snippet: Sacaton for reference has a population today of just 3,254 p
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11177
+Related Nodes: N-11093
 Tags: relevance:context
 Investigative Direction: Compare with US Census figures for Sacaton, Arizona.
 
@@ -1251,7 +1253,7 @@ Transcript Snippet: Remember this is at a time when Lori is doing defense work f
 
 Anchored Artifacts: A-1671.1
 Mentions: N-489, N-3
-Related Nodes: N-10984, N-11177
+Related Nodes: N-10904, N-11093
 Tags: relevance:core
 Investigative Direction: Verify Frantzve's employer or contractor status in 2017 and the date she moved to Arizona.
 
@@ -1267,7 +1269,7 @@ Transcript Snippet: Her name here is now Lorin l o r i n rather than Lori which 
 
 Anchored Artifacts: A-1671.1
 Mentions: N-489
-Related Nodes: N-10440
+Related Nodes: N-10409
 Tags: relevance:context
 Investigative Direction: Pull the filing from the Arizona Corporation Commission and compare the name with her other filings.
 
@@ -1283,7 +1285,7 @@ Transcript Snippet: Well, that address does not appear to exist. Rose and Thobi 
 
 Anchored Artifacts: A-1671.1
 Mentions: N-3
-Related Nodes: N-10442, N-11177
+Related Nodes: N-10411, N-11093
 Tags: relevance:core
 Investigative Direction: Check Pinal County and Gila River Indian Community address records and the Arizona Corporation Commission filing for the listed address.
 
@@ -1299,7 +1301,7 @@ Transcript Snippet: which is called Generation Seven Farms. In theory it should 
 
 Anchored Artifacts: A-1672.1
 Mentions: N-490, N-491, N-489, N-387
-Related Nodes: N-11179, N-10442
+Related Nodes: N-11095, N-10411
 Supports: C-5550
 Tags: relevance:core
 Investigative Direction: Obtain Generation Seven Farms' registration and any tribal business licence, and map its address.
@@ -1316,7 +1318,7 @@ Transcript Snippet: when you form an LLC, you have to then publicize that you ar
 
 Anchored Artifacts: A-1671.1
 Mentions: N-3
-Related Nodes: N-10440
+Related Nodes: N-10409
 Tags: relevance:context
 Investigative Direction: Confirm the Arizona LLC publication requirement (A.R.S. 29-3201 and related) and what the notice must contain.
 
@@ -1332,7 +1334,7 @@ Transcript Snippet: It's recognized by the state as an optional publication to m
 
 Anchored Artifacts: A-1671.2
 Mentions: N-3
-Related Nodes: N-11176, N-10440
+Related Nodes: N-11092, N-10409
 Tags: relevance:context
 Investigative Direction: Check the Arizona Corporation Commission's list of approved publications and obtain the 2017 issue from the publisher.
 
@@ -1348,7 +1350,7 @@ Transcript Snippet: For reference per their website, the the Chinese News Agency
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11176
+Related Nodes: N-11092
 Tags: relevance:tangential
 Investigative Direction: Check the publisher's website and Arizona incorporation records.
 
@@ -1364,7 +1366,7 @@ Transcript Snippet: please email me at moretips@candaceowens. com cuz I would li
 
 Anchored Artifacts: A-2927.1
 Mentions: N-3
-Related Nodes: N-10440, N-11176
+Related Nodes: N-10409, N-11092
 Tags: relevance:context
 Investigative Direction: Review the tips received at the address and verify each against filings.
 
@@ -1380,7 +1382,7 @@ Transcript Snippet: back when Lori Frantzve formed Euro Tech, there was another 
 
 Anchored Artifacts: 
 Mentions: N-489, N-3
-Related Nodes: N-10441
+Related Nodes: N-10410
 Tags: relevance:context
 Investigative Direction: Pull Ohio Secretary of State records for Euro Tech and identify all co-filers; the host does not name the person.
 
@@ -1396,7 +1398,7 @@ Transcript Snippet: Magisterium AI actually brings the receipts meaning every si
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11181
+Related Nodes: N-11097
 Tags: relevance:tangential
 Investigative Direction: Sponsor claim; check Magisterium AI's published documentation for its sources and the 'number one' ranking.
 
@@ -1412,7 +1414,7 @@ Transcript Snippet: I received a legal letter in part for noting that a bunch of
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11180, N-10436, N-10000
+Related Nodes: N-11096, N-10405, N-10000
 Supports: C-5453, C-5431
 Tags: relevance:core
 Investigative Direction: Obtain the text of the letter and compare its listed statements with the host's earlier episodes.
@@ -1445,7 +1447,7 @@ Transcript Snippet: We can only do as much as police on campus will allow and al
 
 Anchored Artifacts: A-1673.1
 Mentions: N-11
-Related Nodes: N-10197
+Related Nodes: N-10189
 Supports: C-5563
 Tags: relevance:context
 Investigative Direction: Retrieve the tweet and its thread to see the question it answered.
@@ -1462,7 +1464,7 @@ Transcript Snippet: Oh. So, I told the truth. Okay, great. Just wanted to make s
 
 Anchored Artifacts: A-1673.1
 Mentions: N-3, N-11
-Related Nodes: N-10436, N-10197
+Related Nodes: N-10405, N-10189
 Supports: C-5563
 Tags: relevance:core
 Investigative Direction: Determine whether 'that background' in the tweet means military service, and how many TPUSA staff have it.
@@ -1479,7 +1481,7 @@ Transcript Snippet: So, I still don't understand what caused it. I can't get to 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10439, N-11084
+Related Nodes: N-10408, N-11002
 Tags: relevance:core
 Investigative Direction: Obtain direct statements from TPUSA or from the fired staff on the reasons given.
 
@@ -1495,7 +1497,7 @@ Transcript Snippet: the employee was like, "I have literally have no idea what y
 
 Anchored Artifacts: A-1675.1
 Mentions: N-14, N-3
-Related Nodes: N-10439
+Related Nodes: N-10408
 Supports: C-5568
 Tags: relevance:core
 Investigative Direction: Identify the employee and the CMO and confirm with them whether the Uber conversation took place.
@@ -1512,7 +1514,7 @@ Transcript Snippet: gets hauled into the office by the general counsel, thinks t
 
 Anchored Artifacts: A-1674.1
 Mentions: N-494
-Related Nodes: N-10439
+Related Nodes: N-10408
 Tags: relevance:context
 Investigative Direction: Identify the employee and confirm with them the sequence of the meeting.
 
@@ -1528,7 +1530,7 @@ Transcript Snippet: They had AmFest. They had a huge donor thing at Mar-a-Lago.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10869
+Related Nodes: N-10000, N-10790, N-11361
 Tags: relevance:context
 Investigative Direction: Confirm the Mar-a-Lago donor event and staff compensation through employee accounts and payroll data.
 
@@ -1544,7 +1546,7 @@ Transcript Snippet: yet, according to this person, Turning Point USA has brought
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-11097, N-10000
+Related Nodes: N-11015, N-10000
 Supports: C-5524
 Tags: relevance:core
 Investigative Direction: Obtain the source's basis for the figure and match it against TPUSA financial filings.
@@ -1577,7 +1579,7 @@ Transcript Snippet: if you want to know my actual opinion about Erika, you can j
 
 Anchored Artifacts: A-1675.1
 Mentions: N-14, N-2
-Related Nodes: N-10439, N-11084
+Related Nodes: N-10408, N-11002
 Supports: C-5568
 Tags: relevance:core
 Investigative Direction: Confirm with the employee the dates and what Kolvet said in the meeting.
@@ -1594,7 +1596,7 @@ Transcript Snippet: You don't get to have an explanation. Security's outside. Le
 
 Anchored Artifacts: A-1674.1
 Mentions: N-494
-Related Nodes: N-10439
+Related Nodes: N-10408
 Supports: C-5578
 Tags: relevance:core
 Investigative Direction: Obtain the full recording and identify the employee and the date.
@@ -1611,7 +1613,7 @@ Transcript Snippet: I never spoke to this employee once. Never anything at all.
 
 Anchored Artifacts: A-1674.1
 Mentions: N-3
-Related Nodes: N-10439
+Related Nodes: N-10408
 Tags: relevance:context
 Investigative Direction: The transcript is ambiguous about the following words 'One of my sources'; ask the host whether the employee is a source.
 
@@ -1627,7 +1629,7 @@ Transcript Snippet: And you will receive your your year-end bonus for your perfo
 
 Anchored Artifacts: A-1674.1
 Mentions: N-494
-Related Nodes: N-10439
+Related Nodes: N-10408
 Tags: relevance:context
 Investigative Direction: Obtain the employee's separation paperwork and final paycheck to confirm the bonus.
 
@@ -1643,7 +1645,7 @@ Transcript Snippet: So, do I get to have a conversation with Dylan? Do I get to 
 
 Anchored Artifacts: A-1674.1
 Mentions: N-494
-Related Nodes: N-10439
+Related Nodes: N-10408
 Tags: relevance:core
 Investigative Direction: Identify Dylan and Justin; the recording gives no surnames.
 
@@ -1659,7 +1661,7 @@ Transcript Snippet: if you don't get that job you're going to be the first I thi
 
 Anchored Artifacts: A-1674.1
 Mentions: N-494
-Related Nodes: N-10439
+Related Nodes: N-10408
 Tags: relevance:core
 Investigative Direction: Ask the employee what 'that whole GC situation' and the job refer to, and corroborate with others in the office.
 
@@ -1675,7 +1677,7 @@ Transcript Snippet: I only speak for the organization.
 
 Anchored Artifacts: A-1674.1
 Mentions: N-494
-Related Nodes: N-10439
+Related Nodes: N-10408
 Tags: relevance:context
 Investigative Direction: Identify who decided on the termination and how it was documented.
 
@@ -1691,7 +1693,7 @@ Transcript Snippet: what Turning Point is doing is legal, but it's also immoral.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11084
+Related Nodes: N-11002
 Tags: relevance:context
 Investigative Direction: Review the separation terms and any non-disparagement clauses.
 
@@ -1707,7 +1709,7 @@ Transcript Snippet: Marina Minas, this is the the Uber chick.
 
 Anchored Artifacts: A-1675.1
 Mentions: N-493
-Related Nodes: N-10439
+Related Nodes: N-10408
 Supports: C-5568
 Tags: relevance:core
 Investigative Direction: Confirm Marina Minas's role at TPUSA and her connection to the Uber conversation.
@@ -1724,7 +1726,7 @@ Transcript Snippet: This employee is part-time. It kind of set up this fake Zoom
 
 Anchored Artifacts: A-1675.2
 Mentions: N-3
-Related Nodes: N-10439
+Related Nodes: N-10408
 Tags: relevance:core
 Investigative Direction: Identify the employee and who arranged the Zoom meeting; the host's wording is unclear about who it was set up by.
 
@@ -1740,7 +1742,7 @@ Transcript Snippet: She's home with her kids alone with her kids. There's no she
 
 Anchored Artifacts: A-1675.2
 Mentions: N-494
-Related Nodes: N-10439
+Related Nodes: N-10408
 Supports: C-5586
 Tags: relevance:core
 Investigative Direction: Confirm directly with the employee.
@@ -1757,7 +1759,7 @@ Transcript Snippet: My sense when I hear that story is they thought they were go
 
 Anchored Artifacts: A-1675.2
 Mentions: N-3
-Related Nodes: N-11035, N-10439
+Related Nodes: N-11002, N-10408
 Supports: C-5511
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what monitoring software it installed and whether any investigation of leaks was carried out.
@@ -1774,7 +1776,7 @@ Transcript Snippet: Again, same exact situation. I had never once spoken to that
 
 Anchored Artifacts: A-1675.2
 Mentions: N-3
-Related Nodes: N-10439
+Related Nodes: N-10408
 Tags: relevance:context
 Investigative Direction: Confirm with the employee.
 
@@ -1790,7 +1792,7 @@ Transcript Snippet: we definitely obviously went through some changes on the sec
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10344
+Related Nodes: N-10322
 Tags: relevance:context
 Investigative Direction: Context only; no verification beyond the host's account.
 
@@ -1837,7 +1839,7 @@ Transcript Snippet: it then dramatically changed, and it seems like they are now
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10398, N-10209
+Related Nodes: N-10371, N-10201
 Supports: C-2771
 Tags: relevance:context
 Investigative Direction: Compare TPUSA's mission statements and event programming before and after September 2025.
@@ -1870,7 +1872,7 @@ Transcript Snippet: I think that's really what these legal letters are about. Yo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11180, N-10000
+Related Nodes: N-11096, N-10000
 Tags: relevance:context
 Investigative Direction: Opinion; compare with the letter's stated purposes.
 
@@ -1886,7 +1888,7 @@ Transcript Snippet: you raked in 250 million dollars in a couple of weeks.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11097, N-10000
+Related Nodes: N-11015, N-10000
 Supports: C-5524, C-5573
 Tags: relevance:core
 Investigative Direction: Obtain the underlying financial statements for the period.
@@ -1903,7 +1905,7 @@ Transcript Snippet: especially as you're now getting rid of a bunch of people on
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-11084, N-10000
+Related Nodes: N-11002, N-10000
 Supports: C-5511
 Tags: relevance:context
 Investigative Direction: Obtain TPUSA headcount and hiring data for late 2025 to early 2026.

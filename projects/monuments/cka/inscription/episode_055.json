@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10404"
+            "N-10377"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -61,7 +61,7 @@
           "related_nodes": [
             "N-437",
             "N-439",
-            "N-10402"
+            "N-10375"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
           ],
           "related_nodes": [
             "N-437",
-            "N-10402"
+            "N-10375"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -134,7 +134,7 @@
           ],
           "related_nodes": [
             "N-437",
-            "N-10402"
+            "N-10375"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
           ],
           "related_nodes": [
             "N-441",
-            "N-10407"
+            "N-10380"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,7 +189,7 @@
             "C-4954"
           ],
           "related_nodes": [
-            "N-10406"
+            "N-10379"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-4959"
           ],
           "related_nodes": [
-            "N-10403"
+            "N-10376"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -358,7 +358,7 @@
           "related_nodes": [
             "N-438",
             "N-399",
-            "N-10402"
+            "N-10375"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -436,10 +436,10 @@
             "C-4938"
           ],
           "related_nodes": [
-            "N-11384",
+            "N-11300",
             "N-1",
-            "N-11104",
-            "N-11163",
+            "N-11022",
+            "N-11079",
             "N-3",
             "N-398",
             "N-437",
@@ -470,7 +470,7 @@
             "C-4928"
           ],
           "related_nodes": [
-            "N-11104",
+            "N-11022",
             "N-437"
           ],
           "tags": [],
@@ -496,8 +496,8 @@
             "C-4934"
           ],
           "related_nodes": [
-            "N-10402",
-            "N-11164",
+            "N-10375",
+            "N-11080",
             "N-14",
             "N-399",
             "N-437",
@@ -560,8 +560,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10402",
-        "N-10403"
+        "N-10375",
+        "N-10376"
       ]
     },
     {
@@ -591,7 +591,7 @@
       "related_nodes": [
         "N-438",
         "N-399",
-        "N-10402"
+        "N-10375"
       ]
     },
     {
@@ -615,7 +615,7 @@
       "related_nodes": [
         "N-437",
         "N-399",
-        "N-10402"
+        "N-10375"
       ]
     },
     {
@@ -639,7 +639,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-438",
-        "N-10402"
+        "N-10375"
       ]
     },
     {
@@ -660,7 +660,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-442",
-        "N-10402"
+        "N-10375"
       ]
     },
     {
@@ -703,7 +703,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10407"
+        "N-10380"
       ]
     },
     {
@@ -765,11 +765,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10402",
-      "ref": "N-10402",
+      "@type": "Topic",
+      "@id": "N-10375",
+      "ref": "N-10375",
       "name": "Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target tracking the alleged lineage Sun Myung Moon → Ron Godwin → Johnnie Moore / Andrew Kolvet as it relates to Turning Point Faith / Falwell Center.",
       "related_artifacts": [
         "A-1608.1",
@@ -793,14 +793,15 @@
         "N-437",
         "N-438",
         "N-399"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10403",
-      "ref": "N-10403",
+      "@type": "Topic",
+      "@id": "N-10376",
+      "ref": "N-10376",
       "name": "Erika Kirk Handler Thesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target tracking the claim (originating in fan comment) that Erika Kirk acted as Charlie Kirk's handler and was instrumental in establishing the Falwell Center.",
       "related_artifacts": [
         "A-1613.1"
@@ -812,14 +813,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10404",
-      "ref": "N-10404",
+      "@type": "Topic",
+      "@id": "N-10377",
+      "ref": "N-10377",
       "name": "Candace Owens Dream Vision of Andrew Kolvet",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target tracking the host's reported recurring dream in which Charlie Kirk appeared and revealed Andrew Kolvet's face; framed by host as prophetic of Kolvet's role in PR operations.",
       "related_artifacts": [
         "A-1607.1"
@@ -835,14 +837,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10405",
-      "ref": "N-10405",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10378",
+      "ref": "N-10378",
       "name": "September 10 Plot Against Candace Owens",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target tracking the host's statement that a murder plot against her was discovered on September 10 (approximately one year after Charlie Kirk's assassination) and is \"still making its way through the courts.\" Not artifact-supported in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -852,14 +855,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@type": "Topic",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target tracking the pattern of attacks on Megyn Kelly for refusing to publicly condemn the host, culminating in a Ben Shapiro on-stage accusation of cowardice at Turning Point Amfest.",
       "related_artifacts": [
         "A-1612.1"
@@ -873,14 +877,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10407",
-      "ref": "N-10407",
+      "@type": "Event",
+      "@id": "N-10380",
+      "ref": "N-10380",
       "name": "Knesset Declaration of US Commentators as Israeli Enemies",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Persistent investigative target tracking the Likud party speech in the Knesset naming Tucker Carlson and Candace Owens as enemies of Israel.",
       "related_artifacts": [
         "A-1611.1"
@@ -895,15 +900,18 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-441",
-        "N-10408"
-      ]
+        "N-10381"
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10026"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10408",
-      "ref": "N-10408",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10381",
+      "ref": "N-10381",
       "name": "Turning Point USA Estate Planning Solicitation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target tracking the claim that Turning Point USA has begun soliciting 401k pledges, property, and estate/will inclusions from donors, with the host drawing an explicit comparison to the Unification Church's financial pattern in Japan.",
       "related_artifacts": [],
       "related_claims": [
@@ -913,7 +921,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1219,11 +1228,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1233,14 +1242,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1250,14 +1261,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1269,14 +1282,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1290,14 +1304,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1307,14 +1323,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10082",
-      "ref": "N-10082",
+      "@type": "Organization",
+      "@id": "N-10079",
+      "ref": "N-10079",
       "name": "CIA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1326,14 +1343,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1343,14 +1362,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1360,14 +1380,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10376",
-      "ref": "N-10376",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10349",
+      "ref": "N-10349",
       "name": "AmFest Tent Recreation Approval Chain",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1377,14 +1398,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10378",
-      "ref": "N-10378",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10351",
+      "ref": "N-10351",
       "name": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1394,14 +1416,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@type": "Topic",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1415,14 +1438,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10399",
-      "ref": "N-10399",
+      "@type": "Topic",
+      "@id": "N-10372",
+      "ref": "N-10372",
       "name": "Unification Church / Moon Inc. Financial Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1437,14 +1461,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10883",
-      "ref": "N-10883",
+      "@type": "Topic",
+      "@id": "N-10804",
+      "ref": "N-10804",
       "name": "Anti-Candace Paid Clipping Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1454,14 +1479,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11104",
-      "ref": "N-11104",
+      "@type": "Organization",
+      "@id": "N-11022",
+      "ref": "N-11022",
       "name": "Liberty University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1485,14 +1511,16 @@
       "evidence_count": 0,
       "claim_count": 15,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11153",
-      "ref": "N-11153",
+      "@type": "Organization",
+      "@id": "N-11069",
+      "ref": "N-11069",
       "name": "Anti-Defamation League",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1507,14 +1535,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11163",
-      "ref": "N-11163",
+      "@type": "Organization",
+      "@id": "N-11079",
+      "ref": "N-11079",
       "name": "Falkirk Center",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1530,14 +1560,17 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229",
+      "parent": "N-11022"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11164",
-      "ref": "N-11164",
+      "@type": "Organization",
+      "@id": "N-11080",
+      "ref": "N-11080",
       "name": "Kairos Company",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1550,14 +1583,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11169",
-      "ref": "N-11169",
+      "@type": "Organization",
+      "@id": "N-11085",
+      "ref": "N-11085",
       "name": "The Washington Times",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1567,14 +1602,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11323",
-      "ref": "N-11323",
+      "@type": "Organization",
+      "@id": "N-11239",
+      "ref": "N-11239",
       "name": "Simon Wiesenthal Center",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1586,7 +1623,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1607,8 +1646,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11383",
-      "ref": "N-11383",
+      "@id": "N-11299",
+      "ref": "N-11299",
       "name": "Post-Assassination PR Operations Pattern",
       "type": "topic",
       "description": "The host's catalog of named narrative campaigns she says were run against her after the assassination (Catholicism, her contact with Kirk, the Egyptian planes, Mitch and Fort Huachuca, her dreams), and her belief that they are coordinated, panicked and well funded.",
@@ -1623,14 +1662,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11384",
-      "ref": "N-11384",
+      "@type": "Event",
+      "@id": "N-11300",
+      "ref": "N-11300",
       "name": "Falwell Jr. Ouster and Liberty Succession Account",
-      "type": "topic",
+      "type": "event",
       "description": "The host's account, from sources she says work at Liberty University, of how Jerry Falwell Jr. was removed, how Jerry Prevo's succession followed, and how that affected Charlie Kirk, the Falkirk Center and Johnnie Moore.",
       "related_artifacts": [],
       "related_claims": [
@@ -1643,14 +1683,17 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-11022"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11385",
-      "ref": "N-11385",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11301",
+      "ref": "N-11301",
       "name": "Erika Kirk Summer House Appearance Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's question whether Erika Kirk's 2019 appearance on Summer House connects to Mark Burnett and MGM, and who arranged it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1660,14 +1703,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11386",
-      "ref": "N-11386",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11302",
+      "ref": "N-11302",
       "name": "Erika Kirk Background and Overseas Claims Inquiry",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's stated plan to examine Erika Kirk's charities and her claims of living in China and Costa Rica, and to offer her a chance to respond.",
       "related_artifacts": [],
       "related_claims": [
@@ -1678,7 +1722,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     }
   ],
   "claims": [
@@ -1692,7 +1737,7 @@
         "A-1607.1"
       ],
       "related_nodes": [
-        "N-10404"
+        "N-10377"
       ],
       "tags": [],
       "claim_timestamp": "00:07:11–00:08:04",
@@ -1711,7 +1756,7 @@
       "claim": "The host stated that Andrew Kolvet did not respond to her text message and that this was the last time they spoke.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10404"
+        "N-10377"
       ],
       "tags": [],
       "claim_timestamp": "00:08:04",
@@ -1731,7 +1776,7 @@
         "A-1608.1"
       ],
       "related_nodes": [
-        "N-10402"
+        "N-10375"
       ],
       "tags": [],
       "claim_timestamp": "00:23:45–00:24:10",
@@ -1751,7 +1796,7 @@
         "A-1608.1"
       ],
       "related_nodes": [
-        "N-10402"
+        "N-10375"
       ],
       "tags": [],
       "claim_timestamp": "00:23:45–00:24:10",
@@ -1784,7 +1829,7 @@
         "A-1610.1"
       ],
       "related_nodes": [
-        "N-10402"
+        "N-10375"
       ],
       "tags": [],
       "claim_timestamp": "00:21:30–00:22:43",
@@ -1803,7 +1848,7 @@
         "A-1610.1"
       ],
       "related_nodes": [
-        "N-10402"
+        "N-10375"
       ],
       "tags": [],
       "claim_timestamp": "00:21:30–00:22:43",
@@ -1822,7 +1867,7 @@
         "A-1610.2"
       ],
       "related_nodes": [
-        "N-10402"
+        "N-10375"
       ],
       "tags": [],
       "claim_timestamp": "00:22:43–00:23:15",
@@ -1841,7 +1886,7 @@
         "A-1614.1"
       ],
       "related_nodes": [
-        "N-10402"
+        "N-10375"
       ],
       "tags": [],
       "claim_timestamp": "00:25:34–00:26:20",
@@ -1861,7 +1906,7 @@
         "A-1614.1"
       ],
       "related_nodes": [
-        "N-10402"
+        "N-10375"
       ],
       "tags": [],
       "claim_timestamp": "00:25:34–00:26:20",
@@ -1881,7 +1926,7 @@
         "A-1611.1"
       ],
       "related_nodes": [
-        "N-10407"
+        "N-10380"
       ],
       "tags": [],
       "claim_timestamp": "00:34:41–00:35:36",
@@ -1902,7 +1947,7 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
@@ -1921,7 +1966,7 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
@@ -1941,7 +1986,7 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
@@ -1962,7 +2007,7 @@
         "A-1613.1"
       ],
       "related_nodes": [
-        "N-10403"
+        "N-10376"
       ],
       "tags": [],
       "claim_timestamp": "00:46:41–00:47:35",
@@ -2126,7 +2171,7 @@
       "claim": "The host stated that someone was plotting her murder on September 10, \"a year from the date that Charlie was murdered,\" that the plot was discovered, and that the matter is still making its way through the courts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10405"
+        "N-10378"
       ],
       "tags": [],
       "claim_timestamp": "00:35:36",
@@ -2144,7 +2189,7 @@
       "claim": "The host stated that Turning Point USA has evolved from soliciting one-time donations to soliciting pledges of 401k accounts, property, and inclusion in donors' wills and estate planning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10408"
+        "N-10381"
       ],
       "tags": [],
       "claim_timestamp": "00:11:59–00:12:48",
@@ -2158,8 +2203,8 @@
       "claim": "The host says she now believes the scandal around the Falkirk Center could have led to the fall of both Jerry Falwell Jr. and Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11163",
-        "N-10402"
+        "N-11079",
+        "N-10375"
       ],
       "tags": [
         "relevance:core"
@@ -2181,7 +2226,7 @@
       "claim": "The host lists a sequence of what she calls PR operations since the assassination: 'he wasn't Catholic', 'Candace hasn't spoken to Charlie in years', 'LOL Egyptian planes' and 'Debunk Mitch in Fort Huachuca with Baby Mama Drama', and says whoever runs them is panicking.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11383"
+        "N-11299"
       ],
       "tags": [
         "relevance:core"
@@ -2203,8 +2248,8 @@
       "claim": "The host suggests someone with a lot of money is phoning people offering $600,000 in Bitcoin to say Candace has gone crazy; she presents this as her illustration of how the operations feel, not as a named incident.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11383",
-        "N-10883"
+        "N-11299",
+        "N-10804"
       ],
       "tags": [
         "relevance:context"
@@ -2224,8 +2269,8 @@
       "claim": "The host says the 'Operation LOL, Candace has dreams' campaign persists in pockets of the internet and that she believes whoever directs it feels personally victimized by her dream.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11383",
-        "N-10404"
+        "N-11299",
+        "N-10377"
       ],
       "tags": [
         "relevance:core"
@@ -2245,7 +2290,7 @@
       "claim": "The host says that, overwhelmed by nightly vivid dreams after the assassination, she told her husband through tears and he advised her to consult a priest, which she did, and they spoke about souls in purgatory.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10404"
+        "N-10377"
       ],
       "tags": [
         "relevance:context"
@@ -2265,7 +2310,7 @@
       "claim": "The host says her repeating post-assassination dream was a replay of a real lunch with Charlie Kirk in 2018 during their trip to Israel, in which Kirk raved about the hummus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10404",
+        "N-10377",
         "N-10026"
       ],
       "tags": [
@@ -2290,7 +2335,7 @@
       "claim": "The host says that in the dream the setting differed from the real trip, which was for the opening of the embassy: they were instead there for the funeral of the wife of Benjamin Netanyahu, whom she says she has never met or spoken about; she says she does not understand the difference.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10404",
+        "N-10377",
         "N-10026"
       ],
       "tags": [
@@ -2316,7 +2361,7 @@
       "claim": "The host says that in the dream Charlie Kirk told her he did not have much time and that she needed to see what happened on his left.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10404"
+        "N-10377"
       ],
       "tags": [
         "relevance:core"
@@ -2337,7 +2382,7 @@
       "claim": "The host says Charlie Kirk told her explicitly in the dream that multiple people betrayed him and that she replied she knew but could not learn who.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10404"
+        "N-10377"
       ],
       "tags": [
         "relevance:core"
@@ -2364,7 +2409,7 @@
         "A-1607.1"
       ],
       "related_nodes": [
-        "N-10404"
+        "N-10377"
       ],
       "tags": [
         "relevance:core"
@@ -2405,8 +2450,8 @@
       "claim": "The host says that today they learn Andrew Kolvet has been orchestrating the attacks on her and that he was caught red-handed, and that she did not assume this earlier because she thought they were good guys who loved Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11383",
-        "N-10378"
+        "N-11299",
+        "N-10351"
       ],
       "tags": [
         "relevance:core"
@@ -2508,8 +2553,8 @@
       "claim": "The host says the Korean man Sun Myung Moon was actually working for the CIA while leading what became a religious cult.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10082",
-        "N-10402"
+        "N-10079",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -2529,8 +2574,8 @@
       "claim": "The host says Moon's movement was buying up land, buildings, entire blocks and many companies while convincing followers it was for 'the father'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10399",
-        "N-10402"
+        "N-10372",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -2553,8 +2598,8 @@
       "claim": "The host says Moon became involved with Liberty University via Jerry Falwell Sr.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104",
-        "N-10402"
+        "N-11022",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -2578,8 +2623,8 @@
       "claim": "The host concludes that the true aim of Turning Point USA Faith was to turn Charlie Kirk into a messiah figure whose image could be controlled in his death and could not be questioned because of how sad the assassination was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
-        "N-10402"
+        "N-10371",
+        "N-10375"
       ],
       "tags": [
         "relevance:core"
@@ -2602,8 +2647,8 @@
       "claim": "The host says the Moonies cult was riddled with claims of sexual rituals, physical and psychological abuse, and financial corruption.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10399",
-        "N-10402"
+        "N-10372",
+        "N-10375"
       ],
       "tags": [
         "relevance:tangential"
@@ -2612,7 +2657,7 @@
       "investigative_direction": "Compare with documented allegations against the Unification Church in court records, journalism and former-member accounts.",
       "transcript_snippet": "the Mooney's cult was riddled with claims of sexual rituals, physical and psychological abuse, and of course, as we've covered already, financial corruption.",
       "mentions_person_refs": [
-        "N-10402"
+        "N-10375"
       ]
     },
     {
@@ -2623,8 +2668,8 @@
       "claim": "The host says the Moon movement's financial corruption was so extensive that it led to a political assassination in Japan in 2022.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10399",
-        "N-10402"
+        "N-10372",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -2647,8 +2692,8 @@
         "A-1609.1"
       ],
       "related_nodes": [
-        "N-10399",
-        "N-10402"
+        "N-10372",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -2669,8 +2714,8 @@
       "claim": "The host says the man who killed Abe was destitute because the church had brainwashed his mother in her old age into giving it all the family's money, and that his brother committed suicide and he himself attempted suicide.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10399",
-        "N-10402"
+        "N-10372",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -2691,8 +2736,8 @@
       "claim": "The host says she felt 'a strand of ick' while watching AmFest, where she says everyone spoke about the Lord but no one meant it, and describes it as a charismatic cult of people trained in tactics of manipulation preying on weak minds, including people who love Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10376",
-        "N-10398"
+        "N-10349",
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -2717,7 +2762,7 @@
         "A-3299.1"
       ],
       "related_nodes": [
-        "N-11104"
+        "N-11022"
       ],
       "tags": [
         "relevance:context"
@@ -2739,8 +2784,8 @@
         "A-3299.1"
       ],
       "related_nodes": [
-        "N-11104",
-        "N-11384"
+        "N-11022",
+        "N-11300"
       ],
       "tags": [
         "relevance:context"
@@ -2765,8 +2810,8 @@
         "A-3299.1"
       ],
       "related_nodes": [
-        "N-11163",
-        "N-11384"
+        "N-11079",
+        "N-11300"
       ],
       "tags": [
         "relevance:context"
@@ -2786,9 +2831,9 @@
       "claim": "The host says Charlie Kirk and Jerry Falwell Jr. came together and established what was the precursor to Turning Point Faith, aiming to turn Kirk's youth brand into ministry for evangelicals and send young people to Liberty.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11163",
-        "N-10398",
-        "N-11104"
+        "N-11079",
+        "N-10371",
+        "N-11022"
       ],
       "tags": [
         "relevance:context"
@@ -2814,7 +2859,7 @@
         "A-3299.1"
       ],
       "related_nodes": [
-        "N-11104"
+        "N-11022"
       ],
       "tags": [
         "relevance:context"
@@ -2837,7 +2882,7 @@
         "A-3299.1"
       ],
       "related_nodes": [
-        "N-11104"
+        "N-11022"
       ],
       "tags": [
         "relevance:context"
@@ -2860,7 +2905,7 @@
         "A-3299.1"
       ],
       "related_nodes": [
-        "N-11104"
+        "N-11022"
       ],
       "tags": [
         "relevance:core"
@@ -2880,8 +2925,8 @@
       "claim": "The host says that when Charlie Kirk was meeting at Liberty University in 2021 about establishing the Falkirk Center, Johnnie Moore inserted himself into the planning session and just pulled up a chair.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11163",
-        "N-10402"
+        "N-11079",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -2902,8 +2947,8 @@
       "claim": "The host says Johnnie Moore had quit his job as lead pastor of Liberty University in 2014 and had no reason to be at the 2021 meeting, yet came up with one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104",
-        "N-10402"
+        "N-11022",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -2923,8 +2968,8 @@
       "claim": "The host says that when Johnnie Moore left Liberty University in 2014 he went to Hollywood to start the PR company, the Kairos Company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11164",
-        "N-10402"
+        "N-11080",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -2947,7 +2992,7 @@
       "claim": "The host says Andrew Kolvet was a part of the Kairos Company as executive vice president, effectively working for it, and was then hired as the PR guy for Charlie Kirk and Turning Point USA; she calls him Moore's partner or protege.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11164",
+        "N-11080",
         "N-10000"
       ],
       "tags": [
@@ -2973,7 +3018,7 @@
       "claim": "The host recalls that Erika Kirk appeared on a show called Summer House in 2019, notes that Mark Burnett owned it when he took over MGM, and says there could be a connection and she will ask how Erika got on the show and who her PR person was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11385"
+        "N-11301"
       ],
       "tags": [
         "relevance:context"
@@ -2997,8 +3042,8 @@
       "claim": "The host says Johnnie Moore, despite establishing the Kairos Company, immediately and consistently wanted his job back at Liberty University, and asks why a PR company was so keen to keep a leg inside growing evangelical organizations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11164",
-        "N-11104"
+        "N-11080",
+        "N-11022"
       ],
       "tags": [
         "relevance:context"
@@ -3018,7 +3063,7 @@
       "claim": "The host says that before she was fired the ADL put her on its list over the Christ Is King controversy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153"
+        "N-11069"
       ],
       "tags": [
         "relevance:context"
@@ -3041,7 +3086,7 @@
       "claim": "The host says that a year after the ADL listing Jordan Peterson and Reverend Johnnie Moore created a report and a video graphic explaining that 'Christ is king' is anti-Semitic and portraying her as a radical.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153"
+        "N-11069"
       ],
       "tags": [
         "relevance:context"
@@ -3063,8 +3108,8 @@
       "claim": "The host says Johnnie Moore serves on the ADL task force and received the Medal of Valor from the Simon Wiesenthal Center.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-11323"
+        "N-11069",
+        "N-11239"
       ],
       "tags": [
         "relevance:context"
@@ -3087,8 +3132,8 @@
       "claim": "The host says the ADL and the Simon Wiesenthal Center were born out of Zionist gangs, 'literal gangs'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-11323"
+        "N-11069",
+        "N-11239"
       ],
       "tags": [
         "relevance:tangential"
@@ -3097,7 +3142,7 @@
       "investigative_direction": "Compare with the organizations' documented founding histories (the ADL's origins are covered in episode 14 claims).",
       "transcript_snippet": "They were born out of Zionist gangs, literal gangs, just to be clear.",
       "mentions_person_refs": [
-        "N-11323"
+        "N-11239"
       ]
     },
     {
@@ -3108,8 +3153,8 @@
       "claim": "The host says these same organizations are behind the initial attacks on her that were meant from the beginning to pull her and Charlie Kirk apart by drumming up anti-Semitism scandals and then having donors demand action.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-11323"
+        "N-11069",
+        "N-11239"
       ],
       "tags": [
         "relevance:core"
@@ -3135,7 +3180,7 @@
         "A-1610.1"
       ],
       "related_nodes": [
-        "N-11153"
+        "N-11069"
       ],
       "tags": [
         "relevance:context"
@@ -3157,7 +3202,7 @@
         "A-1610.2"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -3182,7 +3227,7 @@
         "A-3300.1"
       ],
       "related_nodes": [
-        "N-11104"
+        "N-11022"
       ],
       "tags": [
         "relevance:tangential"
@@ -3243,8 +3288,8 @@
       "claim": "The host says Johnnie Moore's mentor, Ron Godwin, was the one who pushed for Jerry Falwell Sr. to give Moore a position at Liberty University.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104",
-        "N-10402"
+        "N-11022",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -3266,8 +3311,8 @@
       "claim": "The host says Sun Myung Moon picked Ron Godwin to run the Washington Times for him, as well as naming him one of three disciples.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11169",
-        "N-10402"
+        "N-11085",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -3293,8 +3338,8 @@
         "A-3301.1"
       ],
       "related_nodes": [
-        "N-11164",
-        "N-10402"
+        "N-11080",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -3319,8 +3364,8 @@
       "claim": "The host says Ron Godwin retired from Liberty University in October 2014 and his protege Johnnie Moore left too, going to Hollywood.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104",
-        "N-10402"
+        "N-11022",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -3341,8 +3386,8 @@
       "claim": "The host says that without Godwin to push his paperwork, Johnnie Moore was repeatedly told no when he wanted back in at Liberty, and had no pathway to return until 2021.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104",
-        "N-10402"
+        "N-11022",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -3363,9 +3408,9 @@
       "claim": "The host says that in 2021 Jerry Falwell Jr. was ousted from Liberty, Jerry Prevo was named his successor, and the very first thing Prevo did was fire Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104",
-        "N-11163",
-        "N-11384"
+        "N-11022",
+        "N-11079",
+        "N-11300"
       ],
       "tags": [
         "relevance:context"
@@ -3389,8 +3434,8 @@
         "A-3299.1"
       ],
       "related_nodes": [
-        "N-11104",
-        "N-11384"
+        "N-11022",
+        "N-11300"
       ],
       "tags": [
         "relevance:context"
@@ -3411,8 +3456,8 @@
       "claim": "The host says Turning Point Faith is problematic and the organization is intended to be the 'Mooney 2.0', repeatedly establishing messianic figures for people to follow.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
-        "N-10402"
+        "N-10371",
+        "N-10375"
       ],
       "tags": [
         "relevance:context"
@@ -3429,8 +3474,8 @@
       "claim": "The host says the intention behind the Moonies cult was one world government achieved through the concept of a unification church.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10399",
-        "N-10402"
+        "N-10372",
+        "N-10375"
       ],
       "tags": [
         "relevance:tangential"
@@ -3466,7 +3511,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10015",
-        "N-10082"
+        "N-10079"
       ],
       "tags": [
         "relevance:tangential"
@@ -3486,7 +3531,7 @@
       "claim": "The host says tens of thousands of innocent Palestinians have been killed and intentionally targeted because Israel is conducting a genocide.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063",
+        "N-10060",
         "N-10026"
       ],
       "tags": [
@@ -3526,7 +3571,7 @@
         "A-1611.1"
       ],
       "related_nodes": [
-        "N-10407"
+        "N-10380"
       ],
       "tags": [
         "relevance:context"
@@ -3572,7 +3617,7 @@
       "claim": "The host says government representatives give more flak to Tucker Carlson than they did to Jeffrey Epstein and choose to cover up Epstein's crimes while pretending speech is what is radical.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3593,7 +3638,7 @@
       "claim": "The host says Megyn Kelly has said nothing wrong, is actually a Zionist and supports Israel, yet is being added to a list because she will not bend the knee.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3615,7 +3660,7 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3699,8 +3744,8 @@
       "claim": "The host says that Erika Kirk was a Falkirk Center fellow, replying to the comment that Erika brought Charlie into the center.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11163",
-        "N-10403"
+        "N-11079",
+        "N-10376"
       ],
       "tags": [
         "relevance:core"
@@ -3720,8 +3765,8 @@
       "claim": "The host says she has not yet heard that Erika Kirk explicitly told Charlie to establish the Falkirk Center and would have to go back and ask people, narrowing the commenter's handler thesis.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11163",
-        "N-10403"
+        "N-11079",
+        "N-10376"
       ],
       "tags": [
         "relevance:core"
@@ -3745,7 +3790,7 @@
       "claim": "The host says that she is working through questions about Erika Kirk's background, including charities and overseas work, and notes that Erika says she lived in China and in Costa Rica, with the when and for what still to be established.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11386"
+        "N-11302"
       ],
       "tags": [
         "relevance:core"
@@ -3766,7 +3811,7 @@
       "claim": "The host says she intends to do an episode dedicated to Erika Kirk's background in the future and wants to give her the opportunity to respond to any questions first.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11386"
+        "N-11302"
       ],
       "tags": [
         "relevance:core"
@@ -3787,8 +3832,8 @@
       "claim": "The host says that after doing the Moonies episode she saw the pattern run through Johnnie Moore to Andrew Kolvet, concluding that the Moonies are back under a different name.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10402",
-        "N-10398"
+        "N-10375",
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -3812,8 +3857,8 @@
       "claim": "The host says the Moonies lineage goes back to the Korean War and is American CIA infiltration.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10082",
-        "N-10402"
+        "N-10079",
+        "N-10375"
       ],
       "tags": [
         "relevance:tangential"
@@ -3825,7 +3870,7 @@
         "C-4889"
       ],
       "mentions_person_refs": [
-        "N-10402"
+        "N-10375"
       ]
     },
     {
@@ -3955,7 +4000,7 @@
         "A-1613.8"
       ],
       "related_nodes": [
-        "N-10404"
+        "N-10377"
       ],
       "tags": [
         "relevance:context"

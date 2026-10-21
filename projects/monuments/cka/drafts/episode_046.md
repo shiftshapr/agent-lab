@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: e732d4846e15cd04e8fa5fe0225ed37b1a98e48a46de9708a0a96dd02665e880
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-11108
-  - Hole-minted Nodes (reintro-ep046): N-10349, N-10377, N-10416, N-10493
+  - Tip-minted Nodes (supplement_2026-10b): N-11026
+  - Hole-minted Nodes (reintro-ep046): N-10327, N-10350, N-10389
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3976–C-4053
-  - New Nodes Introduced: N-326, N-327, N-10335
-  - Reused Nodes Appearing: N-3, N-261, N-1, N-266, N-10336, N-17, N-82, N-101, N-118, N-163, N-190, N-221, N-10012, N-10014, N-10021, N-10028, N-10030, N-10039, N-10040, N-10051, N-10085, N-10100, N-10130, N-10162, N-10164, N-10165, N-10169, N-10180, N-10181, N-10187, N-10193, N-10198, N-10237, N-10250, N-10253, N-10271, N-10282, N-10311, N-10350, N-10434, N-10853, N-11012, N-10334, N-10447, N-602, N-10346, N-11107, N-10566
+  - New Nodes Introduced: N-326, N-327, N-10314
+  - Reused Nodes Appearing: N-11360, N-3, N-261, N-1, N-266, N-10315, N-17, N-82, N-101, N-118, N-163, N-190, N-221, N-10012, N-10014, N-10021, N-10028, N-10030, N-10038, N-10048, N-10081, N-10096, N-10125, N-10156, N-10100, N-10158, N-10162, N-10172, N-10173, N-10179, N-10185, N-10190, N-10224, N-10236, N-10239, N-10255, N-10265, N-10293, N-10328, N-10404, N-10775, N-10932, N-10313, N-10416, N-602, N-10324, N-11025
   N-40, N-14
 
 # Episode Analysis: Monument 46
@@ -37,7 +37,7 @@
 
 - **Artifact Families Introduced:** A-1533, A-1534, A-1535, A-1536, A-1537, A-1538
 - **Claim Range:** C-3984 – C-4050, C-3993
-- **New Nodes Introduced:** N-326, N-327, N-10334, N-10335, N-10336
+- **New Nodes Introduced:** N-326, N-327, N-10313, N-10314, N-10315
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-40 (Tyler Robinson), N-14 (Andrew Kolvet)
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:06:58–00:07:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3984, C-3985, N-278, N-2, N-3, N-10334*
+*Related: C-3984, C-3985, N-278, N-2, N-3, N-10313*
 
 **A-1533.2** Erika Kirk on-camera response: "Stop. That's it. That's all I have to say. Stop."
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:14:44–00:15:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3985, N-326, N-278, N-10334*
+*Related: C-3985, N-326, N-278, N-10313*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:33:07–00:35:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4029, N-40, N-10336*
+*Related: C-4029, N-40, N-10315*
 
 ---
 
@@ -306,7 +306,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1533.1, A-1533.2, A-1533.5, C-3984, C-3985, N-10334*
+*Related: A-1533.1, A-1533.2, A-1533.5, C-3984, C-3985, N-10313*
 
 ---
 
@@ -384,7 +384,7 @@ Claim Count: 0 (mentioned only)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1533.5, N-278, N-10334*
+*Related: A-1533.5, N-278, N-10313*
 
 ---
 
@@ -401,7 +401,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10334** CBS Bari Weiss Town Hall Production Integrity
+**N-10313** CBS Bari Weiss Town Hall Production Integrity
 
 Persistent investigative target concerning whether questions were pre-selected, the town hall was pre-recorded, and audience composition was curated. Host asserts affirmative answers via insider sources; episode displays rehearsed on-air delivery.
 
@@ -414,7 +414,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10335** Maroon Shirt / Air Force 10th Mountain Brigade Connection
+**N-10314** Maroon Shirt / Air Force 10th Mountain Brigade Connection
 
 Continued investigative target tying the maroon-shirt observation at the Kirk event to the U.S. Army 10th Mountain Brigade and Air Force color associations. Host references prior military-source confirmation.
 
@@ -427,7 +427,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10336** Tyler Robinson First In-Person Court Appearance Details
+**N-10315** Tyler Robinson First In-Person Court Appearance Details
 
 Verification target for the December 11, 2025 court appearance: demeanor, hearing content, transcript availability to media, and any preliminary statements.
 
@@ -453,6 +453,16 @@ Subject of the assassination; the host discusses his neck wound, his statements 
 Widow and TPUSA CEO; the host critiques her CBS and Blaze TV interviews.
 
 *Related: C-3976, C-3982, C-4004, C-4006, C-4010, C-4012, C-4017, C-4018, C-4020, C-4022, C-4043, C-4044, C-4049, C-4053*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-3999, C-4001, C-4002*
 
 ---
 
@@ -608,15 +618,7 @@ Existing topic reused.
 
 ---
 
-**N-10039** Missing Text Message Timestamps
-
-Existing topic reused.
-
-*Related: C-3998*
-
----
-
-**N-10040** Robinson On-Campus Linger Timeline
+**N-10038** Robinson On-Campus Linger Timeline
 
 Existing topic reused.
 
@@ -624,7 +626,7 @@ Existing topic reused.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing topic reused.
 
@@ -632,7 +634,7 @@ Existing topic reused.
 
 ---
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Existing topic reused.
 
@@ -640,7 +642,7 @@ Existing topic reused.
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 Existing topic reused.
 
@@ -648,7 +650,7 @@ Existing topic reused.
 
 ---
 
-**N-10130** Department of Government Efficiency (DOGE)
+**N-10125** Department of Government Efficiency (DOGE)
 
 Existing organization reused.
 
@@ -656,7 +658,7 @@ Existing organization reused.
 
 ---
 
-**N-10162** SD Card Removal Narrative Discrepancy
+**N-10156** SD Card Removal Narrative Discrepancy
 
 Existing topic reused.
 
@@ -664,7 +666,7 @@ Existing topic reused.
 
 ---
 
-**N-10164** Charlie Kirk Catholic Trajectory Verification
+**N-10100** Catholic Conversion Rumor
 
 Existing topic reused.
 
@@ -672,7 +674,7 @@ Existing topic reused.
 
 ---
 
-**N-10165** Campus Footage Release Strategy Question
+**N-10158** Campus Footage Release Strategy Question
 
 Existing topic reused.
 
@@ -680,7 +682,7 @@ Existing topic reused.
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Existing topic reused.
 
@@ -688,7 +690,7 @@ Existing topic reused.
 
 ---
 
-**N-10180** Bullet Trajectory and Caliber Verification
+**N-10172** Bullet Trajectory and Caliber Verification
 
 Existing topic reused.
 
@@ -696,7 +698,7 @@ Existing topic reused.
 
 ---
 
-**N-10181** Multiple Shooter Theory
+**N-10173** Multiple Shooter Theory
 
 Existing topic reused.
 
@@ -704,7 +706,7 @@ Existing topic reused.
 
 ---
 
-**N-10187** Josh Hammer Text Messages Context
+**N-10179** Josh Hammer Text Messages Context
 
 Existing topic reused.
 
@@ -712,7 +714,7 @@ Existing topic reused.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Existing topic reused.
 
@@ -720,7 +722,7 @@ Existing topic reused.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Existing topic reused.
 
@@ -728,7 +730,7 @@ Existing topic reused.
 
 ---
 
-**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
+**N-10224** Shapiro Statement Accuracy Re: Owens' Accusations
 
 Existing topic reused.
 
@@ -736,7 +738,7 @@ Existing topic reused.
 
 ---
 
-**N-10250** Charlie Kirk Event – Maroon Shirt Individual Identification
+**N-10236** Charlie Kirk Event – Maroon Shirt Individual Identification
 
 Existing topic reused.
 
@@ -744,7 +746,7 @@ Existing topic reused.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused.
 
@@ -752,7 +754,7 @@ Existing topic reused.
 
 ---
 
-**N-10271** Tyler Robinson Washington County Surveillance Footage Gap
+**N-10255** Tyler Robinson Washington County Surveillance Footage Gap
 
 Existing topic reused.
 
@@ -760,7 +762,7 @@ Existing topic reused.
 
 ---
 
-**N-10282** CBS News
+**N-10265** CBS News
 
 Existing topic reused.
 
@@ -768,7 +770,7 @@ Existing topic reused.
 
 ---
 
-**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+**N-10293** Maroon Shirt Pattern at UVU September 10 Event
 
 Existing topic reused.
 
@@ -776,7 +778,7 @@ Existing topic reused.
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused.
 
@@ -784,7 +786,7 @@ Existing topic reused.
 
 ---
 
-**N-10349** Bari Weiss CBS Interview Question Selection
+**N-10327** Bari Weiss CBS Interview Question Selection
 
 Existing topic reused.
 
@@ -792,7 +794,7 @@ Existing topic reused.
 
 ---
 
-**N-10350** Charlie Kirk Catholicism Journey
+**N-10328** Charlie Kirk Catholicism Journey
 
 Existing topic reused.
 
@@ -800,7 +802,7 @@ Existing topic reused.
 
 ---
 
-**N-10377** Hunter Kozak / Kozak Identity Discrepancy
+**N-10350** Hunter Kozak / Kozak Identity Discrepancy
 
 Existing topic reused.
 
@@ -808,7 +810,7 @@ Existing topic reused.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing topic reused.
 
@@ -816,7 +818,7 @@ Existing topic reused.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Existing topic reused.
 
@@ -824,7 +826,7 @@ Existing topic reused.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing topic reused.
 
@@ -832,7 +834,7 @@ Existing topic reused.
 
 ---
 
-**N-10493** Pierre / French Donor Investigation
+**N-10280** Pierre Dupont Donor Identity Verification Question
 
 Existing topic reused.
 
@@ -840,15 +842,7 @@ Existing topic reused.
 
 ---
 
-**N-10566** Tyler Robinson Confession Narrative Discrepancy
-
-Existing topic reused.
-
-*Related: C-3999*
-
----
-
-**N-10853** Dairy Queen Timestamp UTC vs MST Reconciliation
+**N-10775** Dairy Queen Timestamp UTC vs MST Reconciliation
 
 Existing topic reused.
 
@@ -856,7 +850,7 @@ Existing topic reused.
 
 ---
 
-**N-11012** Tyler Robinson Surrender Narrative Dispute
+**N-10932** Tyler Robinson Surrender Narrative Dispute
 
 Existing topic reused.
 
@@ -864,7 +858,7 @@ Existing topic reused.
 
 ---
 
-**N-11107** Erika Kirk Interview Campaign Talking Points
+**N-11025** Erika Kirk Interview Campaign Talking Points
 
 Node Type: Topic
 Persistent target: the host's claim that Erika Kirk, Turning Point USA and allied influencers are running a coordinated PR campaign built on three talking points (a bigger mission, the trial could be ruined, doubters are mentally ill), with the CBS and Blaze TV interviews as its final stop.
@@ -873,7 +867,7 @@ Persistent target: the host's claim that Erika Kirk, Turning Point USA and allie
 
 ---
 
-**N-11108** Host Rebuttal of the Stop Request
+**N-11026** Host Rebuttal of the Stop Request
 
 Node Type: Topic
 Persistent target: whether Erika Kirk or Turning Point USA will specify any statement the host made that was false, in answer to the "Stop" request and the host's offer to stop once she is told what she lied about.
@@ -977,7 +971,7 @@ Claim: The host says Tyler Robinson finally appeared in person, making his first
 Anchored Artifacts: A-1535.1
 Mentions: N-40
 
-Related Nodes: N-10336
+Related Nodes: N-10315
 
 Investigative Direction: Obtain the official docket entry and any released court transcript for the December 11, 2025 hearing; verify demeanor observation against available footage.
 
@@ -1034,7 +1028,7 @@ Claim: The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-r
 Anchored Artifacts: A-1533.1, A-1533.5 (visual evidence of controlled production), host testimonial confirmation of insider sources
 Mentions: N-278, N-2
 
-Related Nodes: N-10334
+Related Nodes: N-10313
 
 Investigative Direction: Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production.
 
@@ -1049,7 +1043,7 @@ Claim: The host asserts that the maroon color referenced in connection with Kirk
 Anchored Artifacts: Host testimonial confirmation; visual evidence of maroon-shirted attendees (referenced from prior episodes)
 Mentions:
 
-Related Nodes: N-10335
+Related Nodes: N-10314
 
 Investigative Direction: Verify through official U.S. military color standards (Air Force: ultramarine blue, not maroon; 10th Mountain Brigade: maroon beret was a separate uniform item historically) and reconcile against authoritative dress-regulation documents.
 
@@ -1080,7 +1074,7 @@ Transcript Snippet: I guess this is kind of the final stop. I'm hoping it's the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-278, N-237
-Related Nodes: N-11107
+Related Nodes: N-11025
 Tags: relevance:core
 Investigative Direction: Identify who organized the Erika Kirk media rollout (CBS, Blaze TV) and any PR firm engaged by Turning Point USA.
 
@@ -1096,7 +1090,7 @@ Transcript Snippet: Another talking point. It's going to ruin the trial. If you 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11107, N-10000
+Related Nodes: N-11025, N-10000
 Tags: relevance:core
 Investigative Direction: Compile the three framings as they appear across Erika Kirk, Turning Point USA and influencer statements with dates, to test whether the wording is coordinated.
 
@@ -1112,7 +1106,7 @@ Transcript Snippet: There's not a number that is going to convince the masses uh
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10180
+Related Nodes: N-10172
 Supports: C-3562
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and ballistic findings on bullet caliber, path and whether the bullet was recovered.
@@ -1129,7 +1123,7 @@ Transcript Snippet: But not only are they saying that they stopped it, but I wan
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10085, N-10180
+Related Nodes: N-10081, N-10172
 Tags: relevance:core
 Investigative Direction: Review the autopsy and medical-examiner description of the entry wound and the surgeon accounts of the wound.
 
@@ -1145,7 +1139,7 @@ Transcript Snippet: So, it didn't even cause a lot of, you know, damage as it we
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10085, N-10180
+Related Nodes: N-10081, N-10172
 Tags: relevance:core
 Investigative Direction: Confirm from the autopsy report or official statements whether a downward ricochet into the abdomen is the stated trajectory.
 
@@ -1161,7 +1155,7 @@ Transcript Snippet: And Bari is obviously just a Tel Aviv agent. Her entire back
 
 Anchored Artifacts: 
 Mentions: N-3, N-278
-Related Nodes: N-10282
+Related Nodes: N-10265
 Tags: relevance:tangential
 Investigative Direction: Check Bari Weiss's published biography and CBS News appointment record; the "agent" characterization is the host's opinion, recorded as said.
 
@@ -1177,7 +1171,7 @@ Transcript Snippet: this question, like I said, has likely, by the way, been rev
 
 Anchored Artifacts: A-1533.1
 Mentions: N-3, N-278, N-2
-Related Nodes: N-10334, N-10282
+Related Nodes: N-10313, N-10265
 Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Obtain CBS legal-review or production records for the town hall question set; none is shown on air.
@@ -1194,7 +1188,7 @@ Transcript Snippet: She has been one of the main peddlers of these conspiracies 
 
 Anchored Artifacts: A-1533.1
 Mentions: N-278, N-3, N-1
-Related Nodes: N-10334
+Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Compare the question as aired with the unedited CBS broadcast and any Candace Owens revenue figures that are public.
 
@@ -1225,7 +1219,7 @@ Transcript Snippet: Mikey has offered that his dad was confused. I'll accept tha
 
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-190, N-17
-Related Nodes: N-10193, N-10198
+Related Nodes: N-10185, N-10190
 Tags: relevance:core
 Investigative Direction: Compare Rob McCoy's statements about whom Mikey McCoy called first with Mikey McCoy's statement that his father was confused, and with call logs if released.
 
@@ -1241,7 +1235,7 @@ Transcript Snippet: Charlie's neck stopping a.30-06 bullet because he ate health
 
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-1
-Related Nodes: N-10180, N-10447, N-10000
+Related Nodes: N-10172, N-10416, N-10000
 Tags: relevance:core
 Investigative Direction: Identify who first offered the strong-bones explanation and whether the surgeon or medical examiner endorsed it.
 
@@ -1273,7 +1267,7 @@ Transcript Snippet: Turning Point USA lied about that and I was attacked for tel
 
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-1
-Related Nodes: N-10164, N-10350, N-10000
+Related Nodes: N-10100, N-10328, N-10000
 Tags: relevance:core
 Investigative Direction: Find the original Turning Point USA or Alex Clark statement on Charlie's interest in Catholic architecture and compare with Charlie's documented Catholic inquiries.
 
@@ -1289,7 +1283,7 @@ Transcript Snippet: Ben Shapiro said they never had any bad blood between them. 
 
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-97, N-99
-Related Nodes: N-10237
+Related Nodes: N-10224
 Tags: relevance:core
 Investigative Direction: Review the texts the host cited and Shapiro's original statement to compare dates and wording.
 
@@ -1305,7 +1299,7 @@ Transcript Snippet: how dare you reveal a personal text message to defend yourse
 
 Anchored Artifacts: A-2831.1
 Mentions: N-3
-Related Nodes: N-10000, N-10187
+Related Nodes: N-10000, N-10179
 Tags: relevance:context
 Investigative Direction: List each instance where a text was released after an accusation of lying and the response that followed.
 
@@ -1321,7 +1315,7 @@ Transcript Snippet: Terryl Farnsworth personally told me that that was not true.
 
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-261
-Related Nodes: N-10100, N-10162, N-10346
+Related Nodes: N-10096, N-10156, N-10324
 Supports: C-3993
 Tags: relevance:core
 Investigative Direction: Obtain Terryl Farnsworth's own account on record and police statements on the SD card removal.
@@ -1338,7 +1332,7 @@ Transcript Snippet: you would have taken the cameras and not just the SD card pa
 
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-1
-Related Nodes: N-10100, N-10162
+Related Nodes: N-10096, N-10156
 Supports: C-3527, C-711
 Tags: relevance:core
 Investigative Direction: Document which cameras had SD cards removed and which were left in place, with equipment logs.
@@ -1355,7 +1349,7 @@ Transcript Snippet: Doge didn't even exist. Prior to Elon Musk making that a thi
 
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-1, N-118
-Related Nodes: N-10434, N-10130
+Related Nodes: N-10404, N-10125
 Supports: C-3993, C-2136
 Tags: relevance:core
 Investigative Direction: Establish when the Turning Point USA internal DOGE was created and who proposed the name.
@@ -1389,7 +1383,7 @@ Transcript Snippet: The lover text messages mysteriously presented without any t
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3
-Related Nodes: N-10039, N-10030
+Related Nodes: N-10030
 Supports: C-193, C-301
 Tags: relevance:core
 Investigative Direction: Obtain the full charging-document exhibits to see whether message metadata exists.
@@ -1406,7 +1400,7 @@ Transcript Snippet: They claimed that he confessed and turned himself in. That's
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
-Related Nodes: N-10021, N-10566, N-11012
+Related Nodes: N-10021, N-10932, N-11360
 Supports: C-133
 Tags: relevance:core
 Investigative Direction: Compare the probable cause statement and press briefings with the father's account of the call to authorities.
@@ -1423,7 +1417,7 @@ Transcript Snippet: Never revealed that Tyler Robinson was at the Dairy Queen fo
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
-Related Nodes: N-10051, N-10853
+Related Nodes: N-10048, N-10775
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Authenticate the Dairy Queen photo, its timestamp and any official acknowledgement of the stop.
@@ -1440,7 +1434,7 @@ Transcript Snippet: They said Tyler Robinson was arrested wearing a maroon shirt
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
-Related Nodes: N-10311, N-10250
+Related Nodes: N-10293, N-10236, N-11360
 Supports: C-114
 Tags: relevance:core
 Investigative Direction: Obtain the booking photograph, arrest report and clothing inventory.
@@ -1457,7 +1451,7 @@ Transcript Snippet: They said Tyler Robinson was suicidal but also turned himsel
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
-Related Nodes: N-11012
+Related Nodes: N-10932, N-11360
 Supports: C-969
 Tags: relevance:core
 Investigative Direction: Compare the father's and pastor's accounts of the call with the charging document language.
@@ -1474,7 +1468,7 @@ Transcript Snippet: And the footage mysteriously missing of Tyler Robinson turni
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
-Related Nodes: N-10271, N-11012
+Related Nodes: N-10255, N-10932
 Tags: relevance:core
 Investigative Direction: File records requests for surrender-site footage and the sheriff's office retention policy.
 
@@ -1490,7 +1484,7 @@ Transcript Snippet: which is the Egyptian planes. Tracking Charlie, following Er
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10253, N-10000
+Related Nodes: N-10239, N-10000
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Cross-check flight-tracking data for the Egyptian-registered aircraft against Kirk and Turning Point USA event dates.
@@ -1507,7 +1501,7 @@ Transcript Snippet: Not made a molecular or a mi- minor mistake. We got a time z
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Identify the specific time-zone correction her critics cited and which flight or event it concerned.
 
@@ -1523,7 +1517,7 @@ Transcript Snippet: setting the stage for her to condemn anti-Semitism.
 
 Anchored Artifacts: A-1533.5
 Mentions: N-3, N-2
-Related Nodes: N-10334, N-10349, N-10000
+Related Nodes: N-10313, N-10327, N-10000
 Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Compare the aired Saturday broadcast with the host's insider account of which questions were pre-submitted.
@@ -1540,7 +1534,7 @@ Transcript Snippet: I think that that was an IDF soldier. I might be wrong about
 
 Anchored Artifacts: A-1533.5
 Mentions: N-3
-Related Nodes: N-10334, N-10282
+Related Nodes: N-10313, N-10265
 Tags: relevance:context
 Investigative Direction: Identify the audience member by name from the CBS broadcast and check his background; the host herself flags uncertainty.
 
@@ -1556,7 +1550,7 @@ Transcript Snippet: They also brought out Hunter Kozak who asked the last questi
 
 Anchored Artifacts: A-1533.5
 Mentions: N-3, N-326, N-1
-Related Nodes: N-10334, N-10377
+Related Nodes: N-10313, N-10350
 Tags: relevance:core
 Investigative Direction: Compare Kozak's identity with the questioner in the September 10 footage; note the existing Cosgrove and Kozak identity discrepancy topic.
 
@@ -1572,7 +1566,7 @@ Transcript Snippet: They filled the audience with people selected by CBS, Colleg
 
 Anchored Artifacts: A-1533.5
 Mentions: N-3
-Related Nodes: N-10334, N-10282
+Related Nodes: N-10313, N-10265
 Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Obtain the audience recruitment communications and question submission process from CBS or from attendees.
@@ -1589,7 +1583,7 @@ Transcript Snippet: this is all a part of a PR blitz for Charlie's upcoming book
 
 Anchored Artifacts: A-1534.1
 Mentions: N-3, N-2, N-1
-Related Nodes: N-11107
+Related Nodes: N-11025
 Tags: relevance:core
 Investigative Direction: Verify the title, publisher and release date of the book and who is promoting it.
 
@@ -1605,7 +1599,7 @@ Transcript Snippet: I've seen a lot, somebody come out and say Erika Kirk murder
 
 Anchored Artifacts: A-1534.1
 Mentions: N-3, N-2
-Related Nodes: N-11107
+Related Nodes: N-11025
 Tags: relevance:core
 Investigative Direction: Survey high-profile commentators for any explicit accusation to test the host's statement; compare with later statements by TPUSA allies.
 
@@ -1638,7 +1632,7 @@ Transcript Snippet: We're 3 months in now. Okay? We are still getting rehearsed 
 
 Anchored Artifacts: A-1534.1
 Mentions: N-3, N-2
-Related Nodes: N-10349
+Related Nodes: N-10327
 Tags: relevance:context
 Investigative Direction: Compare Erika Kirk's wording across interviews for repeated phrases.
 
@@ -1669,7 +1663,7 @@ Transcript Snippet: It has to be rehearsed. You got the questions ahead of time.
 
 Anchored Artifacts: A-1533.2
 Mentions: N-3, N-2
-Related Nodes: N-10349, N-10334
+Related Nodes: N-10327, N-10313
 Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Seek the pre-submitted question list from CBS or Erika Kirk's team.
@@ -1686,7 +1680,7 @@ Transcript Snippet: letting us see Mikey MacColl's phone records, just one examp
 
 Anchored Artifacts: 
 Mentions: N-3, N-190
-Related Nodes: N-10193
+Related Nodes: N-10185
 Supports: C-1734, C-1741
 Tags: relevance:core
 Investigative Direction: Check whether any prosecutor or court has restricted release of the McCoy call log and under what rule.
@@ -1703,7 +1697,7 @@ Transcript Snippet: why it's a statistical anomaly for these Egyptian planes to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10253, N-10000
+Related Nodes: N-10239, N-10000
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Compile the event-by-event overlap of aircraft arrivals with Turning Point USA faith events.
@@ -1735,7 +1729,7 @@ Transcript Snippet: I think Tyler Robinson was involved on that day I think ther
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10181
+Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Identify which additional participants the host believes were involved; no names are given in this segment.
 
@@ -1751,7 +1745,7 @@ Transcript Snippet: I think he took clothes and hid them in the cemetery whateve
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10051
+Related Nodes: N-10048
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Locate the cemetery clothing recovery in police evidence logs.
@@ -1768,7 +1762,7 @@ Transcript Snippet: I do not believe Tyler Robinson was on campus that day
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10040, N-10028
+Related Nodes: N-10038, N-10028
 Tags: relevance:core
 Investigative Direction: Examine campus footage and any evidence placing Robinson on campus; the host gives no basis in this segment.
 
@@ -1784,7 +1778,7 @@ Transcript Snippet: how if they just released a photo a video of him taking the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10165
+Related Nodes: N-10158
 Tags: relevance:core
 Investigative Direction: Ask the prosecution or UVU which video of the shooter is held and whether a release would be restricted.
 
@@ -1800,7 +1794,7 @@ Transcript Snippet: kind of seemed like he was smiling I did not get the energy 
 
 Anchored Artifacts: A-1535.1
 Mentions: N-3, N-40
-Related Nodes: N-10336
+Related Nodes: N-10315
 Supports: C-4029
 Tags: relevance:core
 Investigative Direction: Review the courtroom video and reporters' descriptions of his demeanor.
@@ -1817,7 +1811,7 @@ Transcript Snippet: media organizations even for this case are requesting the tr
 
 Anchored Artifacts: A-1535.1
 Mentions: N-3, N-40
-Related Nodes: N-10336
+Related Nodes: N-10315
 Supports: C-4029
 Tags: relevance:context
 Investigative Direction: Check the docket for media requests and the court's order on transcript access.
@@ -1834,7 +1828,7 @@ Transcript Snippet: by sending someone to follow me after I was no longer employ
 
 Anchored Artifacts: 
 Mentions: N-3, N-227
-Related Nodes: N-10416
+Related Nodes: N-10389
 Tags: relevance:context
 Investigative Direction: The host names no agent; identify the PR agent and the person who followed her through recordings or witnesses.
 
@@ -1850,7 +1844,7 @@ Transcript Snippet: She keeps files and cuts people out of context and then send
 
 Anchored Artifacts: 
 Mentions: N-3, N-227, N-602
-Related Nodes: N-10416
+Related Nodes: N-10389
 Tags: relevance:context
 Investigative Direction: Identify any such materials as published by Cheong and trace their source.
 
@@ -1881,7 +1875,7 @@ Transcript Snippet: Josh Hammer explicitly lied about Charlie's state of mind.
 
 Anchored Artifacts: A-1537.1
 Mentions: N-3, N-55, N-1
-Related Nodes: N-10187, N-10169
+Related Nodes: N-10179, N-10162
 Tags: relevance:core
 Investigative Direction: Compare Hammer's podcast statements with the text message the host released.
 
@@ -1897,7 +1891,7 @@ Transcript Snippet: Alex Clark, that whole little episode saying Charlie only li
 
 Anchored Artifacts: A-1537.1
 Mentions: N-3, N-99, N-1
-Related Nodes: N-10164, N-10350
+Related Nodes: N-10100, N-10328
 Tags: relevance:core
 Investigative Direction: Obtain the Alex Clark episode and compare with Charlie's documented Catholic contacts.
 
@@ -1913,7 +1907,7 @@ Transcript Snippet: when Ben Shapiro lied and said that he never had any issues 
 
 Anchored Artifacts: A-1537.1
 Mentions: N-3, N-97, N-227, N-1
-Related Nodes: N-10237
+Related Nodes: N-10224
 Supports: C-3991
 Tags: relevance:core
 Investigative Direction: Compare Shapiro's statements with released texts between Charlie and the host about Shapiro.
@@ -1930,7 +1924,7 @@ Transcript Snippet: because those texts didn't make Ben look bad.
 
 Anchored Artifacts: A-1537.1
 Mentions: N-227, N-97, N-1, N-3
-Related Nodes: N-10237
+Related Nodes: N-10224
 Tags: relevance:context
 Investigative Direction: Review the released texts and their dates to see how Stuckey's characterization compares.
 
@@ -1976,7 +1970,7 @@ Transcript Snippet: as soon as she tells me what it is I've lied about, I will c
 
 Anchored Artifacts: A-2833.1
 Mentions: N-3, N-2
-Related Nodes: N-11108
+Related Nodes: N-11026
 Supports: C-3984
 Tags: relevance:core
 Investigative Direction: Check whether Erika Kirk or Turning Point USA later named specific false statements.
@@ -1993,7 +1987,7 @@ Transcript Snippet: It's very obvious to me that was part of like the dress rehe
 
 Anchored Artifacts: A-2833.2
 Mentions: N-3, N-2
-Related Nodes: N-11107
+Related Nodes: N-11025
 Supports: C-3984
 Tags: relevance:core
 Investigative Direction: Identify the accounts that repeated the "stop" line after the broadcast and whether they were coordinated or paid.
@@ -2040,7 +2034,7 @@ Transcript Snippet: suddenly we start talking about Pierre and that billion-doll
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10493
+Related Nodes: N-10280
 Tags: relevance:context
 Investigative Direction: Review the prior episode's Pierre segment and the timing of attack posts that followed.
 
@@ -2071,7 +2065,7 @@ Transcript Snippet: And apparently they also mentioned the maroon boys in Erika'
 
 Anchored Artifacts: A-2833.3
 Mentions: N-3, N-2, N-278
-Related Nodes: N-10335, N-10311
+Related Nodes: N-10314, N-10293
 Supports: C-4050
 Tags: relevance:core
 Investigative Direction: Watch the Saturday broadcast for any maroon-shirt mention and check the host's military color claims against official records.

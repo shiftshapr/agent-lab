@@ -31,8 +31,8 @@
             "C-13521"
           ],
           "related_nodes": [
-            "N-10839",
-            "N-10859"
+            "N-10762",
+            "N-10780"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -49,9 +49,9 @@
             "C-13532"
           ],
           "related_nodes": [
-            "N-10860",
-            "N-10675",
-            "N-10243"
+            "N-10781",
+            "N-10614",
+            "N-10229"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -68,8 +68,8 @@
             "C-13566"
           ],
           "related_nodes": [
-            "N-10243",
-            "N-10860"
+            "N-10229",
+            "N-10781"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -94,10 +94,10 @@
             "C-13522"
           ],
           "related_nodes": [
-            "N-10859",
+            "N-10780",
             "N-266",
             "N-270",
-            "N-10694"
+            "N-10632"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,11 +123,11 @@
             "C-13582"
           ],
           "related_nodes": [
-            "N-10862",
+            "N-10783",
             "N-266",
             "N-224",
-            "N-10645",
-            "N-10373"
+            "N-10589",
+            "N-10347"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,7 +152,7 @@
             "C-13555"
           ],
           "related_nodes": [
-            "N-10861",
+            "N-10782",
             "N-271"
           ],
           "tags": [],
@@ -180,8 +180,8 @@
           "related_nodes": [
             "N-270",
             "N-271",
-            "N-10694",
-            "N-10272"
+            "N-10632",
+            "N-10256"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -206,10 +206,10 @@
             "C-13595"
           ],
           "related_nodes": [
-            "N-10863",
+            "N-10784",
             "N-1",
             "N-2",
-            "N-10675"
+            "N-10614"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -234,7 +234,7 @@
             "C-13626"
           ],
           "related_nodes": [
-            "N-10860"
+            "N-10781"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,8 +260,8 @@
             "C-13636"
           ],
           "related_nodes": [
-            "N-10861",
-            "N-10839"
+            "N-10782",
+            "N-10762"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -875,7 +875,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ]
     },
     {
@@ -916,7 +916,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ]
     },
     {
@@ -937,11 +937,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10221",
-      "ref": "N-10221",
-      "name": "UVU Event Application Anomaly",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10211",
+      "ref": "N-10211",
+      "name": "UVU Event Approval Timeline Anomaly",
+      "type": "investigation_question",
       "description": "Prior topic on irregular UVU event-application mechanics; reinforced by July 10 HQ-driven request pattern in the independent review.",
       "related_artifacts": [],
       "related_claims": [
@@ -953,15 +953,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10860"
-      ]
+        "N-10781"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10243",
-      "ref": "N-10243",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10229",
+      "ref": "N-10229",
       "name": "UVU Outdoor Venue Selection Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on outdoor/courtyard venue selection; episode supplies report language that TPUSA insisted on Fountain Courtyard against UVU concerns, contradicting Harpole’s “UVU chose the venue” claim.",
       "related_artifacts": [
         "A-2451.3"
@@ -974,33 +975,40 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10272",
-      "ref": "N-10272",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10256",
+      "ref": "N-10256",
       "name": "Harpole–Flood Text Attribution Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on Harpole/Flood messaging; episode revisits Flood–Long operational texts and canopy focus in the report timeline.",
       "related_artifacts": [
         "A-2455.1"
       ],
       "related_claims": [
-        "C-13551"
+        "C-13551",
+        "C-13552",
+        "C-13553",
+        "C-13554",
+        "C-13573",
+        "C-13574"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10645",
-      "ref": "N-10645",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10589",
+      "ref": "N-10589",
       "name": "UVU Drone Authorization Records",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on drone authorization; episode cites Harpole podcast claims about drones/airspace that the review team finds unsupported or contradicted.",
       "related_artifacts": [
         "A-2453.1"
@@ -1012,14 +1020,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10675",
-      "ref": "N-10675",
+      "@type": "Topic",
+      "@id": "N-10614",
+      "ref": "N-10614",
       "name": "Turning Point UVU Event Submission Chain",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Prior topic on TPUSA UVU submission chain; episode adds independent-review documentation of Crofts-initiated July 10 request and August 25 insistence.",
       "related_artifacts": [
         "A-2451.2"
@@ -1034,15 +1043,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10860"
-      ]
+        "N-10781"
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10694",
-      "ref": "N-10694",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior Dan Flood role topic; reinforced by non-participation finding and pre-event coordination details in the review.",
       "related_artifacts": [
         "A-2455.1"
@@ -1055,14 +1065,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10839",
-      "ref": "N-10839",
+      "@type": "Thing",
+      "@id": "N-10762",
+      "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Directly advanced: the third-party review document is now public and read on air; becomes primary source artifact for prior “review incoming” claims.",
       "related_artifacts": [
         "A-2451.1"
@@ -1077,15 +1088,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10859"
-      ]
+        "N-10780"
+      ],
+      "schema_org": "Report"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10840",
-      "ref": "N-10840",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10763",
+      "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior ambulance-denial topic; host notes report context that headquarters-directed messaging included declining an ambulance among other security choices.",
       "related_artifacts": [
         "A-2451.1"
@@ -1095,14 +1107,15 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10859",
-      "ref": "N-10859",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10780",
+      "ref": "N-10780",
       "name": "TPUSA Non-Participation in UVU Independent Review",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "New topic: documented refusal/non-response by Harpole, Flood, Crofts, club president, and Phoenix senior staff to Lake Forest Group outreach despite public “want the truth” messaging.",
       "related_artifacts": [
         "A-2452.1"
@@ -1117,15 +1130,17 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10839"
-      ]
+        "N-10762"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10860",
-      "ref": "N-10860",
+      "@type": "Event",
+      "@id": "N-10781",
+      "ref": "N-10781",
       "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "New topic: independent-review timeline that TPUSA field rep Maycee Crofts directed UVU club president Caleb Chilcutt to request Charlie Kirk in the courtyard on July 10, 2025, inverting normal chapter-request flow; includes August 25 MEAC insistence on Fountain Courtyard.",
       "related_artifacts": [
         "A-2451.2",
@@ -1141,16 +1156,20 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10675",
-        "N-10243"
-      ]
+        "N-10614",
+        "N-10229"
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-10",
+      "place": "N-10028"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10861",
-      "ref": "N-10861",
+      "@type": "Event",
+      "@id": "N-10782",
+      "ref": "N-10782",
       "name": "Anonymous EMP Device Threat (SIAC, Sept 10)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "New topic: Chief Long’s September 10 SIAC contact regarding anonymous threat referencing an electromagnetic-pulse device at the event; host connects to prior camera-outage questions.",
       "related_artifacts": [
         "A-2454.1"
@@ -1165,14 +1184,18 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-271"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "New topic: systematic comparison of Harpole’s Shawn Ryan podcast assertions (venue chooser, airspace/drone, counter-sniper legality, planning start) against Lake Forest Group interview evidence and timeline.",
       "related_artifacts": [
         "A-2453.1"
@@ -1189,15 +1212,17 @@
       "related_nodes": [
         "N-266",
         "N-224",
-        "N-10373"
-      ]
+        "N-10347"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10863",
-      "ref": "N-10863",
+      "@type": "Topic",
+      "@id": "N-10784",
+      "ref": "N-10784",
       "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "New topic: host overlay of Charlie’s July–August personal/political pressures (BB/White House, Epstein walk-back, travel, sponsorship addendum, plane movements, Hamptons “intervention”) onto the UVU booking chain beginning July 10.",
       "related_artifacts": [
         "A-2456.1"
@@ -1213,8 +1238,9 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-10675"
-      ]
+        "N-10614"
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1284,11 +1310,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior Fort Huachuca / Harpole credibility topic; host ties report contradictions to broader distrust of Harpole’s public narrative including Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
@@ -1300,8 +1326,10 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10862"
-      ]
+        "N-10783"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
       "@type": "Person",
@@ -1714,11 +1742,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Institution commissioning the Lake Forest Group review and hosting the September 10 event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1732,14 +1760,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic of Netanyahu inviting Charlie Kirk to Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1749,14 +1779,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place of the August 2025 donor retreat.",
       "related_artifacts": [],
       "related_claims": [
@@ -1767,14 +1799,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@type": "Place",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place whose airport airspace Harpole cited for the drone restriction.",
       "related_artifacts": [],
       "related_claims": [
@@ -1784,14 +1817,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10117",
-      "ref": "N-10117",
+      "@type": "Topic",
+      "@id": "N-10113",
+      "ref": "N-10113",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic of the Jezebel witch's curse article.",
       "related_artifacts": [],
       "related_claims": [
@@ -1801,14 +1837,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10122",
-      "ref": "N-10122",
+      "@type": "Organization",
+      "@id": "N-10117",
+      "ref": "N-10117",
       "name": "Jezebel",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Publication that ran the June 26 witch's curse article.",
       "related_artifacts": [],
       "related_claims": [
@@ -1818,14 +1855,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10129",
-      "ref": "N-10129",
+      "@type": "Organization",
+      "@id": "N-10124",
+      "ref": "N-10124",
       "name": "Orem Police Department",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Neighboring police department whose drone the review says could have been requested.",
       "related_artifacts": [],
       "related_claims": [
@@ -1835,14 +1874,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10219",
-      "ref": "N-10219",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10209",
+      "ref": "N-10209",
       "name": "Mikey McCoy Pre-Death Documentation Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on Mikey McCoy's pre-death documentation pattern, tied to the Maine footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1852,14 +1893,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic tracking the Egyptian planes in the July and August timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -1871,14 +1913,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10264",
-      "ref": "N-10264",
+      "@type": "Topic",
+      "@id": "N-10248",
+      "ref": "N-10248",
       "name": "Calvary Chapel Pro-Israel Coordination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for Calvary Chapel pro-Israel coordination, linked to Erika's July 14 speech.",
       "related_artifacts": [],
       "related_claims": [
@@ -1889,14 +1932,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10276",
-      "ref": "N-10276",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10259",
+      "ref": "N-10259",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic tying Nebraska flights to the Egyptian plane timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -1907,14 +1951,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for Epstein files release, tied to Kirk's July pressure.",
       "related_artifacts": [],
       "related_claims": [
@@ -1925,14 +1971,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on the Netanyahu offer to take TPUSA to the next level; the host adds Kolvet's account and TPUSA's private rebuttal.",
       "related_artifacts": [],
       "related_claims": [
@@ -1943,14 +1990,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10347",
-      "ref": "N-10347",
+      "@type": "Topic",
+      "@id": "N-10325",
+      "ref": "N-10325",
       "name": "Egyptian Planes Israel Flight Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for Egyptian planes and Israel flight patterns.",
       "related_artifacts": [],
       "related_claims": [
@@ -1960,35 +2008,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10356",
-      "ref": "N-10356",
-      "name": "Brian Harpole Dan Flood Text Misattribution",
-      "type": "investigation_target",
-      "description": "Prior topic on Harpole presenting the Flood and Long texts as his own; reinforced by the verbatim exchange read here.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-13552",
-        "C-13553",
-        "C-13554",
-        "C-13573",
-        "C-13574"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10366",
-      "ref": "N-10366",
+      "@type": "Event",
+      "@id": "N-10341",
+      "ref": "N-10341",
       "name": "Operation Valhalla Strike",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Prior topic on Operation Valhalla Strike, which the host places in Minnesota from August 24.",
       "related_artifacts": [],
       "related_claims": [
@@ -1998,14 +2027,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08-24"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10388",
-      "ref": "N-10388",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10361",
+      "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for missing Turning Point Action money and the alleged plan to fire Tyler Bowyer.",
       "related_artifacts": [],
       "related_claims": [
@@ -2017,14 +2049,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10412",
-      "ref": "N-10412",
+      "@type": "Event",
+      "@id": "N-10385",
+      "ref": "N-10385",
       "name": "Erika Kirk June 19 Instagram Purge",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Prior topic on Erika Kirk's June 19 Instagram purge.",
       "related_artifacts": [],
       "related_claims": [
@@ -2034,14 +2067,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-19"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on the Hamptons Netanyahu funding offer.",
       "related_artifacts": [],
       "related_claims": [
@@ -2051,14 +2087,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@type": "Topic",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Prior topic on Charlie declining to host Netanyahu.",
       "related_artifacts": [],
       "related_claims": [
@@ -2068,14 +2106,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@type": "Topic",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Prior topic on Charlie Kirk's June Iran war opposition.",
       "related_artifacts": [],
       "related_claims": [
@@ -2085,14 +2125,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on Harpole lawsuit coordination, tied to the host's statement that she is being sued.",
       "related_artifacts": [],
       "related_claims": [
@@ -2103,14 +2144,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10673",
-      "ref": "N-10673",
-      "name": "Hamptons August 5–7 Intervention Event",
-      "type": "investigation_target",
+      "@type": "Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
+      "name": "Hamptons Weekend Retreat",
+      "type": "event",
       "description": "Prior topic on the August Hamptons intervention event.",
       "related_artifacts": [],
       "related_claims": [
@@ -2121,14 +2163,18 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10674",
-      "ref": "N-10674",
+      "@type": "Event",
+      "@id": "N-10613",
+      "ref": "N-10613",
       "name": "June 18 White House Meeting on Iran Involvement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Prior topic on the June 18 White House meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -2138,14 +2184,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-18",
+      "place": "N-10072"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on Frank Turek's CPR claim, tied to the review's fire chief CPR line.",
       "related_artifacts": [],
       "related_claims": [
@@ -2155,14 +2205,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10699",
-      "ref": "N-10699",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10636",
+      "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on the Harpole and Turek CPR contradiction.",
       "related_artifacts": [],
       "related_claims": [
@@ -2172,14 +2224,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10700",
-      "ref": "N-10700",
+      "@type": "Topic",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Prior topic listing pending FOIA requests.",
       "related_artifacts": [],
       "related_claims": [
@@ -2189,14 +2242,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10725",
-      "ref": "N-10725",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10660",
+      "ref": "N-10660",
       "name": "Officer Bagley Body-Cam Battery Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on Officer Bagley's body camera battery.",
       "related_artifacts": [],
       "related_claims": [
@@ -2208,14 +2262,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10784",
-      "ref": "N-10784",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10709",
+      "ref": "N-10709",
       "name": "Officer Bagley – Sex Crimes Unit Background",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on Officer Bagley's sex crimes background.",
       "related_artifacts": [],
       "related_claims": [
@@ -2225,14 +2280,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10841",
-      "ref": "N-10841",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10764",
+      "ref": "N-10764",
       "name": "Nampa Christian School Opt-In Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior topic on Nampa, Idaho context linked by the host to Kip Crofts's arrest by Nampa police.",
       "related_artifacts": [],
       "related_claims": [
@@ -2242,14 +2298,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10870",
-      "ref": "N-10870",
+      "@type": "Thing",
+      "@id": "N-10791",
+      "ref": "N-10791",
       "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Prior topic on the Yrefy sponsorship and the July 25 addendum.",
       "related_artifacts": [],
       "related_claims": [
@@ -2259,14 +2316,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10871",
-      "ref": "N-10871",
+      "@type": "Topic",
+      "@id": "N-10792",
+      "ref": "N-10792",
       "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Prior topic on the expanded concurrent timeline for 2025.",
       "related_artifacts": [],
       "related_claims": [
@@ -2279,14 +2337,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@type": "Organization",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Named as the agency the host says runs a paid online campaign.",
       "related_artifacts": [],
       "related_claims": [
@@ -2296,14 +2355,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10925",
-      "ref": "N-10925",
+      "@type": "Organization",
+      "@id": "N-10846",
+      "ref": "N-10846",
       "name": "Turning Point Action",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose finances are the subject of the missing money rumors.",
       "related_artifacts": [],
       "related_claims": [
@@ -2313,7 +2374,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -2384,11 +2447,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11074",
-      "ref": "N-11074",
+      "@type": "Place",
+      "@id": "N-10992",
+      "ref": "N-10992",
       "name": "UVUPD Fugal Gateway Command Post",
-      "type": "topic",
+      "type": "place",
       "description": "Chief Long's command post on the second floor of the Fugal Gateway building from 11:30 a.m. on September 10, from which the review says the whole event area was visible and which no TPUSA security member joined.",
       "related_artifacts": [],
       "related_claims": [
@@ -2398,14 +2461,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "parent": "N-10028"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11075",
-      "ref": "N-11075",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10993",
+      "ref": "N-10993",
       "name": "Wristband and VIP Access Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's question about who distributed wristbands to people seated near Charlie Kirk's vehicle given the review's finding of no formal credentialing, screening or ticket verification.",
       "related_artifacts": [],
       "related_claims": [
@@ -2417,12 +2482,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Organization",
-      "@id": "N-11076",
-      "ref": "N-11076",
+      "@id": "N-10994",
+      "ref": "N-10994",
       "name": "Lake Forest Group",
       "type": "organization",
       "description": "The third-party firm UVU engaged almost immediately after the assassination to review security protocols for the September 10 event (transcript spelling Lake Forest Group).",
@@ -2434,12 +2500,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11077",
-      "ref": "N-11077",
+      "@id": "N-10995",
+      "ref": "N-10995",
       "name": "UVU Major Events Assessment Committee (MEAC)",
       "type": "organization",
       "description": "The UVU committee, convened from August 21, 2025, that reviewed the TPUSA event in an August 25 Teams meeting and approved it on August 27.",
@@ -2461,12 +2529,15 @@
       "evidence_count": 0,
       "claim_count": 11,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229",
+      "parent": "N-10012"
     },
     {
       "@type": "Organization",
-      "@id": "N-11078",
-      "ref": "N-11078",
+      "@id": "N-10996",
+      "ref": "N-10996",
       "name": "UVU Free Speech Committee",
       "type": "organization",
       "description": "The UVU committee the host praises for flagging expected protests, monitoring complaints and discussing emergency operations center activation before the event.",
@@ -2480,14 +2551,17 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229",
+      "parent": "N-10012"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11079",
-      "ref": "N-11079",
+      "@type": "Event",
+      "@id": "N-10997",
+      "ref": "N-10997",
       "name": "Operation Midnight Hammer",
-      "type": "topic",
+      "type": "event",
       "description": "The June 2025 U.S. strike on Iranian nuclear sites named by the host in her concurrent timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -2497,14 +2571,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q645883",
+      "event_time": "2025-06-22"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11080",
-      "ref": "N-11080",
+      "@type": "Event",
+      "@id": "N-10998",
+      "ref": "N-10998",
       "name": "Student Action Summit July 2025 (Tampa)",
-      "type": "topic",
+      "type": "event",
       "description": "The TPUSA Student Action Summit held July 11 to 13, 2025 in Tampa, Florida, where Tucker Carlson spoke and Kirk's Epstein remarks drew donor reaction per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -2516,14 +2593,17 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11081",
-      "ref": "N-11081",
+      "@type": "Thing",
+      "@id": "N-10999",
+      "ref": "N-10999",
       "name": "New York Post Weinstein Payment Story",
-      "type": "topic",
+      "type": "thing",
       "description": "The story the host says the New York Post ran in the week of the episode implying she accepted $1.5 million from Harvey Weinstein, which she denies.",
       "related_artifacts": [],
       "related_claims": [
@@ -2534,7 +2614,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "NewsArticle",
+      "wikidata_class": "Q5707594"
     }
   ],
   "claims": [
@@ -2549,9 +2631,9 @@
         "A-2451.1"
       ],
       "related_nodes": [
-        "N-10859",
-        "N-10839",
-        "N-10694"
+        "N-10780",
+        "N-10762",
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
@@ -2574,8 +2656,8 @@
         "A-2452.1"
       ],
       "related_nodes": [
-        "N-10859",
-        "N-10839"
+        "N-10780",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:04:22",
@@ -2596,9 +2678,9 @@
         "A-2451.2"
       ],
       "related_nodes": [
-        "N-10860",
-        "N-10675",
-        "N-10221"
+        "N-10781",
+        "N-10614",
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:14:22",
@@ -2619,9 +2701,9 @@
         "A-2451.3"
       ],
       "related_nodes": [
-        "N-10860",
-        "N-10243",
-        "N-10675"
+        "N-10781",
+        "N-10229",
+        "N-10614"
       ],
       "tags": [],
       "claim_timestamp": "00:35:31",
@@ -2642,9 +2724,9 @@
         "A-2451.3"
       ],
       "related_nodes": [
-        "N-10243",
-        "N-10373",
-        "N-10862"
+        "N-10229",
+        "N-10347",
+        "N-10783"
       ],
       "tags": [],
       "claim_timestamp": "00:45:34",
@@ -2664,9 +2746,9 @@
         "A-2453.1"
       ],
       "related_nodes": [
-        "N-10645",
-        "N-10373",
-        "N-10862"
+        "N-10589",
+        "N-10347",
+        "N-10783"
       ],
       "tags": [],
       "claim_timestamp": "00:47:38",
@@ -2685,7 +2767,7 @@
         "A-2454.1"
       ],
       "related_nodes": [
-        "N-10861"
+        "N-10782"
       ],
       "tags": [],
       "claim_timestamp": "00:28:35",
@@ -2704,8 +2786,8 @@
         "A-2455.1"
       ],
       "related_nodes": [
-        "N-10694",
-        "N-10839"
+        "N-10632",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:25:32",
@@ -2725,9 +2807,9 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10863",
-        "N-10675",
-        "N-10860"
+        "N-10784",
+        "N-10614",
+        "N-10781"
       ],
       "tags": [],
       "claim_timestamp": "00:56:42",
@@ -2748,7 +2830,7 @@
         "A-2457.1"
       ],
       "related_nodes": [
-        "N-10860"
+        "N-10781"
       ],
       "tags": [],
       "claim_timestamp": "01:12:05",
@@ -2769,8 +2851,8 @@
         "A-2458.1"
       ],
       "related_nodes": [
-        "N-10839",
-        "N-10859"
+        "N-10762",
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:01:46",
@@ -2791,7 +2873,7 @@
         "A-2454.1"
       ],
       "related_nodes": [
-        "N-10861"
+        "N-10782"
       ],
       "tags": [],
       "claim_timestamp": "01:22:32",
@@ -2808,7 +2890,7 @@
       "claim": "The host says the Department of War has executed an online campaign paying people to attack her and others every day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -2829,16 +2911,16 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10839",
-        "N-11076"
+        "N-10762",
+        "N-10994"
       ],
       "tags": [],
       "claim_timestamp": "00:03:14",
       "investigative_direction": "Obtain UVU's engagement letter or contract with Lake Forest Group and its date, scope and publication notice.",
       "transcript_snippet": "essentially almost immediately UVU reached out to a third party uh the Lake Forest Group to conduct a review, a broad review of the security protocols",
       "mentions_person_refs": [
-        "N-10839",
-        "N-11076"
+        "N-10762",
+        "N-10994"
       ]
     },
     {
@@ -2851,7 +2933,7 @@
         "A-2802.5"
       ],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:05:58",
@@ -2873,7 +2955,7 @@
         "A-2802.6"
       ],
       "related_nodes": [
-        "N-11077"
+        "N-10995"
       ],
       "tags": [],
       "claim_timestamp": "00:05:58",
@@ -2893,15 +2975,15 @@
         "A-2451.1"
       ],
       "related_nodes": [
-        "N-10859",
-        "N-10839"
+        "N-10780",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:07:56",
       "investigative_direction": "Identify the Utah risk-management official and the TPUSA executive contacted, and obtain the dated correspondence.",
       "transcript_snippet": "a Utah riskmanagement official had communications with an executive of Turning Point USA and urged that the above named individuals who were associated with TPUSA on September 10th cooperate with the assessment",
       "mentions_person_refs": [
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -2914,7 +2996,7 @@
         "A-2802.1"
       ],
       "related_nodes": [
-        "N-10839",
+        "N-10762",
         "N-10012"
       ],
       "tags": [],
@@ -2932,9 +3014,9 @@
         "A-2802.2"
       ],
       "related_nodes": [
-        "N-11077",
-        "N-10243",
-        "N-10839"
+        "N-10995",
+        "N-10229",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:11:26",
@@ -2954,15 +3036,15 @@
         "A-2802.2"
       ],
       "related_nodes": [
-        "N-10243",
-        "N-10839"
+        "N-10229",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:11:26",
       "investigative_direction": "Compare UVU's venue risk notes with the final attendance figures and TPUSA registration data.",
       "transcript_snippet": "Those decisions placed the event in an area that was more difficult to control and limited UVU's ability to obtain reliable real-time information regarding anticipated attendance and crowd size.",
       "mentions_person_refs": [
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -2976,14 +3058,14 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:11:26",
       "investigative_direction": "Obtain UVU's event policy on who holds security decision authority for outside-organization events.",
       "transcript_snippet": "UVU should have retained decision-making authority over key security related issues, including the venue selection, the ticketing and access control",
       "mentions_person_refs": [
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -3012,7 +3094,7 @@
       "claim": "The host says TPUSA chapters normally request headliners through TPUSA national, with the process taking place the semester before at a minimum because the wait list is long.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10675"
+        "N-10614"
       ],
       "tags": [],
       "claim_timestamp": "00:13:41",
@@ -3033,7 +3115,7 @@
         "A-2802.3"
       ],
       "related_nodes": [
-        "N-10860"
+        "N-10781"
       ],
       "tags": [],
       "claim_timestamp": "00:15:17",
@@ -3053,8 +3135,8 @@
         "A-2802.3"
       ],
       "related_nodes": [
-        "N-10860",
-        "N-10675"
+        "N-10781",
+        "N-10614"
       ],
       "tags": [],
       "claim_timestamp": "00:15:17",
@@ -3078,8 +3160,8 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-10675",
-        "N-10860"
+        "N-10614",
+        "N-10781"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21",
@@ -3099,15 +3181,15 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-10860",
-        "N-10675"
+        "N-10781",
+        "N-10614"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21",
       "investigative_direction": "Obtain the club registration filing date and status history from UVU club services.",
       "transcript_snippet": "On July 28th, the club's office advises that Turning Point USA's club and annual registration had to be completed.",
       "mentions_person_refs": [
-        "N-10675"
+        "N-10614"
       ]
     },
     {
@@ -3120,8 +3202,8 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-10675",
-        "N-10694"
+        "N-10614",
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:18:07",
@@ -3138,8 +3220,8 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-11077",
-        "N-10839"
+        "N-10995",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
@@ -3157,7 +3239,7 @@
       "claim": "The host says she is pretty sure Erika Kirk explicitly named Jeff Long in the Kirk family's recent filing blaming security.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10859"
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
@@ -3178,8 +3260,8 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-11078",
-        "N-10839"
+        "N-10996",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:20:28",
@@ -3200,8 +3282,8 @@
         "A-2802.6"
       ],
       "related_nodes": [
-        "N-11077",
-        "N-10243"
+        "N-10995",
+        "N-10229"
       ],
       "tags": [],
       "claim_timestamp": "00:21:34",
@@ -3218,7 +3300,7 @@
         "A-2802.6"
       ],
       "related_nodes": [
-        "N-11077"
+        "N-10995"
       ],
       "tags": [],
       "claim_timestamp": "00:22:35",
@@ -3235,7 +3317,7 @@
         "A-2802.6"
       ],
       "related_nodes": [
-        "N-11077"
+        "N-10995"
       ],
       "tags": [],
       "claim_timestamp": "00:22:35",
@@ -3255,15 +3337,15 @@
         "A-2802.6"
       ],
       "related_nodes": [
-        "N-11078",
-        "N-11077"
+        "N-10996",
+        "N-10995"
       ],
       "tags": [],
       "claim_timestamp": "00:22:35",
       "investigative_direction": "Obtain minutes showing the EOC discussion and any decision not to activate.",
       "transcript_snippet": "Then we learn that the free speech committee discussed possible EOC activation.",
       "mentions_person_refs": [
-        "N-11077"
+        "N-10995"
       ]
     },
     {
@@ -3276,7 +3358,7 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-10675"
+        "N-10614"
       ],
       "tags": [],
       "claim_timestamp": "00:22:35",
@@ -3293,7 +3375,7 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-11078"
+        "N-10996"
       ],
       "tags": [],
       "claim_timestamp": "00:23:46",
@@ -3330,7 +3412,7 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-11077"
+        "N-10995"
       ],
       "tags": [],
       "claim_timestamp": "00:23:46",
@@ -3350,7 +3432,7 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:24:35",
@@ -3371,7 +3453,7 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:24:35",
@@ -3392,8 +3474,7 @@
         "A-2802.4"
       ],
       "related_nodes": [
-        "N-10356",
-        "N-10272"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:25:32",
@@ -3416,7 +3497,7 @@
         "A-2802.9"
       ],
       "related_nodes": [
-        "N-10356"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:25:32",
@@ -3441,8 +3522,7 @@
         "A-2802.9"
       ],
       "related_nodes": [
-        "N-10356",
-        "N-10272"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:27:35",
@@ -3466,7 +3546,7 @@
         "A-2802.5"
       ],
       "related_nodes": [
-        "N-10861"
+        "N-10782"
       ],
       "tags": [],
       "claim_timestamp": "00:28:35",
@@ -3486,7 +3566,7 @@
         "A-2802.5"
       ],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:28:35",
@@ -3507,7 +3587,7 @@
         "A-2802.9"
       ],
       "related_nodes": [
-        "N-10272"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:28:35",
@@ -3565,7 +3645,7 @@
         "A-2802.5"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:31:20",
@@ -3588,7 +3668,7 @@
         "A-2802.5"
       ],
       "related_nodes": [
-        "N-10272"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:32:21",
@@ -3624,7 +3704,7 @@
         "A-2802.5"
       ],
       "related_nodes": [
-        "N-11074"
+        "N-10992"
       ],
       "tags": [],
       "claim_timestamp": "00:33:21",
@@ -3644,8 +3724,8 @@
         "A-2802.5"
       ],
       "related_nodes": [
-        "N-10687",
-        "N-10699"
+        "N-10625",
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:34:55",
@@ -3665,8 +3745,8 @@
         "A-2802.6"
       ],
       "related_nodes": [
-        "N-11077",
-        "N-10243"
+        "N-10995",
+        "N-10229"
       ],
       "tags": [],
       "claim_timestamp": "00:35:31",
@@ -3686,7 +3766,7 @@
         "A-2802.6"
       ],
       "related_nodes": [
-        "N-11077"
+        "N-10995"
       ],
       "tags": [],
       "claim_timestamp": "00:36:24",
@@ -3707,7 +3787,7 @@
         "A-2802.6"
       ],
       "related_nodes": [
-        "N-10243"
+        "N-10229"
       ],
       "tags": [],
       "claim_timestamp": "00:36:24",
@@ -3729,7 +3809,7 @@
         "A-2802.7"
       ],
       "related_nodes": [
-        "N-10860"
+        "N-10781"
       ],
       "tags": [],
       "claim_timestamp": "00:37:42",
@@ -3749,8 +3829,8 @@
         "A-2802.7"
       ],
       "related_nodes": [
-        "N-10840",
-        "N-10860"
+        "N-10763",
+        "N-10781"
       ],
       "tags": [],
       "claim_timestamp": "00:38:47",
@@ -3770,7 +3850,7 @@
         "A-2802.8"
       ],
       "related_nodes": [
-        "N-10861"
+        "N-10782"
       ],
       "tags": [],
       "claim_timestamp": "00:39:54",
@@ -3793,8 +3873,7 @@
         "A-2802.9"
       ],
       "related_nodes": [
-        "N-10356",
-        "N-10272"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:42:01",
@@ -3818,7 +3897,7 @@
         "A-2802.9"
       ],
       "related_nodes": [
-        "N-10356"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:42:01",
@@ -3843,7 +3922,7 @@
         "A-2802.10"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:43:17",
@@ -3864,7 +3943,7 @@
         "A-2802.10"
       ],
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ],
       "tags": [],
       "claim_timestamp": "00:43:33",
@@ -3884,7 +3963,7 @@
         "A-2802.10"
       ],
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ],
       "tags": [],
       "claim_timestamp": "00:45:02",
@@ -3905,7 +3984,7 @@
         "A-2802.10"
       ],
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ],
       "tags": [],
       "claim_timestamp": "00:43:33",
@@ -3926,7 +4005,7 @@
         "A-2802.10"
       ],
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ],
       "tags": [],
       "claim_timestamp": "00:43:33",
@@ -3946,9 +4025,9 @@
         "A-2802.11"
       ],
       "related_nodes": [
-        "N-10645",
-        "N-10862",
-        "N-10074"
+        "N-10589",
+        "N-10783",
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:46:19",
@@ -3971,8 +4050,8 @@
         "A-2802.11"
       ],
       "related_nodes": [
-        "N-10129",
-        "N-10645"
+        "N-10124",
+        "N-10589"
       ],
       "tags": [],
       "claim_timestamp": "00:47:38",
@@ -3992,7 +4071,7 @@
         "A-2802.12"
       ],
       "related_nodes": [
-        "N-10725"
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:49:15",
@@ -4012,7 +4091,7 @@
         "A-2802.12"
       ],
       "related_nodes": [
-        "N-10725"
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:49:15",
@@ -4032,7 +4111,7 @@
         "A-2802.12"
       ],
       "related_nodes": [
-        "N-10725"
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:49:15",
@@ -4052,7 +4131,7 @@
         "A-2802.12"
       ],
       "related_nodes": [
-        "N-10784"
+        "N-10709"
       ],
       "tags": [],
       "claim_timestamp": "00:49:15",
@@ -4073,7 +4152,7 @@
         "A-2802.13"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:51:01",
@@ -4093,8 +4172,8 @@
         "A-2802.13"
       ],
       "related_nodes": [
-        "N-10839",
-        "N-10694"
+        "N-10762",
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:51:01",
@@ -4115,7 +4194,7 @@
         "A-2802.13"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:51:54",
@@ -4132,7 +4211,7 @@
         "A-2802.14"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:51:54",
@@ -4149,15 +4228,15 @@
         "A-2802.14"
       ],
       "related_nodes": [
-        "N-11075",
-        "N-10839"
+        "N-10993",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:52:41",
       "investigative_direction": "Obtain the review's access control section and TPUSA wristband distribution records.",
       "transcript_snippet": "The review states that there was no formal credentiing process for VIPs.",
       "mentions_person_refs": [
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -4170,7 +4249,7 @@
         "A-2802.14"
       ],
       "related_nodes": [
-        "N-11075"
+        "N-10993"
       ],
       "tags": [],
       "claim_timestamp": "00:52:41",
@@ -4190,7 +4269,7 @@
         "A-2802.14"
       ],
       "related_nodes": [
-        "N-11075"
+        "N-10993"
       ],
       "tags": [],
       "claim_timestamp": "00:53:40",
@@ -4207,7 +4286,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10871"
+        "N-10792"
       ],
       "tags": [],
       "claim_timestamp": "00:56:42",
@@ -4228,7 +4307,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-11080"
+        "N-10998"
       ],
       "tags": [],
       "claim_timestamp": "00:57:42",
@@ -4252,7 +4331,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-11080"
+        "N-10998"
       ],
       "tags": [],
       "claim_timestamp": "00:57:42",
@@ -4292,7 +4371,7 @@
         "A-2804.2"
       ],
       "related_nodes": [
-        "N-10871"
+        "N-10792"
       ],
       "tags": [],
       "claim_timestamp": "00:58:55",
@@ -4314,8 +4393,8 @@
         "A-2803.1"
       ],
       "related_nodes": [
-        "N-10324",
-        "N-10871"
+        "N-10303",
+        "N-10792"
       ],
       "tags": [],
       "claim_timestamp": "00:59:39",
@@ -4336,7 +4415,7 @@
         "A-2803.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "01:00:27",
@@ -4360,7 +4439,7 @@
         "A-2803.1"
       ],
       "related_nodes": [
-        "N-11080"
+        "N-10998"
       ],
       "tags": [],
       "claim_timestamp": "01:00:27",
@@ -4382,8 +4461,8 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10264",
-        "N-10871"
+        "N-10248",
+        "N-10792"
       ],
       "tags": [],
       "claim_timestamp": "01:01:20",
@@ -4404,7 +4483,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10264"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "01:01:20",
@@ -4426,15 +4505,15 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10253",
-        "N-10276"
+        "N-10239",
+        "N-10259"
       ],
       "tags": [],
       "claim_timestamp": "01:02:14",
       "investigative_direction": "Pull flight-tracking records for the Egyptian-registered aircraft landing in Omaha and Lincoln.",
       "transcript_snippet": "And then we have our Egyptian planes that come into Omaha, Nebraska, and then head to Lincoln, Nebraska.",
       "mentions_person_refs": [
-        "N-10276"
+        "N-10259"
       ]
     },
     {
@@ -4447,7 +4526,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10219"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "01:02:14",
@@ -4470,7 +4549,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "01:03:03",
@@ -4490,15 +4569,15 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10253",
-        "N-10347"
+        "N-10239",
+        "N-10325"
       ],
       "tags": [],
       "claim_timestamp": "01:04:12",
       "investigative_direction": "Verify the July 27 departure in flight-tracking records.",
       "transcript_snippet": "It departs Wilmington, Delaware, heads back to Cairo.",
       "mentions_person_refs": [
-        "N-10347"
+        "N-10325"
       ]
     },
     {
@@ -4511,7 +4590,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10673",
+        "N-10129",
         "N-10027"
       ],
       "tags": [],
@@ -4533,7 +4612,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10673",
+        "N-10129",
         "N-10027"
       ],
       "tags": [],
@@ -4559,8 +4638,8 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10342",
-        "N-10446"
+        "N-10320",
+        "N-10415"
       ],
       "tags": [],
       "claim_timestamp": "01:05:11",
@@ -4586,7 +4665,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "01:05:11",
@@ -4633,7 +4712,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10456"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "01:05:11",
@@ -4654,8 +4733,8 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10276",
-        "N-10253"
+        "N-10259",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "01:06:07",
@@ -4675,7 +4754,7 @@
         "A-2804.3"
       ],
       "related_nodes": [
-        "N-10700"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "01:06:07",
@@ -4696,7 +4775,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10366"
+        "N-10341"
       ],
       "tags": [],
       "claim_timestamp": "01:06:59",
@@ -4716,7 +4795,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-11077"
+        "N-10995"
       ],
       "tags": [],
       "claim_timestamp": "01:06:59",
@@ -4759,7 +4838,7 @@
         "A-2802.13"
       ],
       "related_nodes": [
-        "N-10243"
+        "N-10229"
       ],
       "tags": [],
       "claim_timestamp": "01:08:47",
@@ -4799,7 +4878,7 @@
         "A-2457.1"
       ],
       "related_nodes": [
-        "N-10841"
+        "N-10764"
       ],
       "tags": [],
       "claim_timestamp": "01:10:04",
@@ -4892,7 +4971,7 @@
         "A-2451.1"
       ],
       "related_nodes": [
-        "N-10859"
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "01:19:43",
@@ -4950,8 +5029,8 @@
         "A-2804.5"
       ],
       "related_nodes": [
-        "N-10388",
-        "N-10925"
+        "N-10361",
+        "N-10846"
       ],
       "tags": [],
       "claim_timestamp": "01:20:39",
@@ -4972,7 +5051,7 @@
         "A-2804.5"
       ],
       "related_nodes": [
-        "N-10388"
+        "N-10361"
       ],
       "tags": [],
       "claim_timestamp": "01:20:39",
@@ -4995,7 +5074,7 @@
         "A-2804.5"
       ],
       "related_nodes": [
-        "N-10388"
+        "N-10361"
       ],
       "tags": [],
       "claim_timestamp": "01:20:39",
@@ -5033,8 +5112,8 @@
       "claim": "The host says Brian Harpole's lawyer, who filed a lawsuit against her, came multiple times asking 'you got like an alibi for this time,' saying he did not know if Mitch Snow's account seemed credible and had no horse in the race.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373",
-        "N-10651"
+        "N-10347",
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "01:25:48",
@@ -5056,8 +5135,8 @@
         "A-2458.1"
       ],
       "related_nodes": [
-        "N-10373",
-        "N-10859"
+        "N-10347",
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "01:25:33",
@@ -5080,7 +5159,7 @@
         "A-2804.6"
       ],
       "related_nodes": [
-        "N-11081"
+        "N-10999"
       ],
       "tags": [],
       "claim_timestamp": "01:26:32",
@@ -5101,7 +5180,7 @@
         "A-2804.6"
       ],
       "related_nodes": [
-        "N-11081"
+        "N-10999"
       ],
       "tags": [],
       "claim_timestamp": "01:26:32",
@@ -5139,9 +5218,9 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10674",
-        "N-10412",
-        "N-10539"
+        "N-10613",
+        "N-10385",
+        "N-10494"
       ],
       "tags": [],
       "claim_timestamp": "01:27:40",
@@ -5162,7 +5241,7 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-11079"
+        "N-10997"
       ],
       "tags": [],
       "claim_timestamp": "01:27:40",
@@ -5182,8 +5261,8 @@
         "A-2456.1"
       ],
       "related_nodes": [
-        "N-10122",
-        "N-10117"
+        "N-10117",
+        "N-10113"
       ],
       "tags": [],
       "claim_timestamp": "01:27:40",

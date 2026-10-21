@@ -18,12 +18,12 @@
     "- **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10b): N-790, N-11151, N-11152",
-    "  - Hole-minted Nodes (reintro-ep156): N-10860",
+    "  - Tip-minted Nodes (supplement_2026-10b): N-790, N-11067, N-11068",
+    "  - Hole-minted Nodes (reintro-ep156): N-10781",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-13445–C-13517",
-    "  - New Nodes Introduced: N-10851, N-10852, N-10854, N-10855",
-    "  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853, N-5, N-22, N-36, N-46, N-54, N-159, N-188, N-330, N-10000, N-10051, N-10090, N-10168, N-10381, N-10417, N-10541, N-10598, N-10625, N-10811, N-10850, N-10977, N-10980, N-11091",
+    "  - New Nodes Introduced: N-10774, N-10776",
+    "  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10775, N-5, N-22, N-36, N-46, N-54, N-159, N-188, N-330, N-10000, N-10048, N-10086, N-10161, N-10354, N-10390, N-10496, N-10545, N-10571, N-10735, N-10773, N-10898, N-10901, N-11009",
     "  - (see registers)",
     "",
     "# Episode 156 Analysis",
@@ -223,7 +223,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13459, C-13469, N-10853*"
+     "raw": "*Related: C-13459, C-13469, N-10775*"
     },
     {
      "raw": ""
@@ -276,7 +276,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13461, C-13462, N-10851, N-10855*"
+     "raw": "*Related: C-13461, C-13462, N-10645*"
     },
     {
      "raw": ""
@@ -329,7 +329,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13467, C-13462, N-10851, N-10855*"
+     "raw": "*Related: C-13467, C-13462, N-10645*"
     },
     {
      "raw": ""
@@ -382,7 +382,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13476, N-10852*"
+     "raw": "*Related: C-13476, N-10774*"
     },
     {
      "raw": ""
@@ -418,7 +418,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13475, C-13476, N-10852*"
+     "raw": "*Related: C-13475, C-13476, N-10774*"
     },
     {
      "raw": ""
@@ -649,7 +649,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13513, N-10854*"
+     "raw": "*Related: C-13513, N-10776*"
     },
     {
      "raw": ""
@@ -702,7 +702,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13463, N-10855*"
+     "raw": "*Related: C-13463, N-10645*"
     },
     {
      "raw": ""
@@ -1130,8 +1130,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10851",
-   "header": "**N-10851** Parking Garage Challenger Vehicle Exhaust Discrepancy",
+   "id": "N-10645",
+   "header": "**N-10645** Parking Garage Challenger Vehicle Exhaust Discrepancy",
    "label": "Parking Garage Challenger Vehicle Exhaust Discrepancy",
    "lines": [
     {
@@ -1163,7 +1163,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13461, C-13467, C-13462, A-2419.1, A-2420.1, N-10855*"
+     "raw": "*Related: C-13461, C-13467, C-13462, A-2419.1, A-2420.1, N-10645*"
     },
     {
      "raw": ""
@@ -1178,8 +1178,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10852",
-   "header": "**N-10852** Quick Quack Car Wash Footage Release Question",
+   "id": "N-10774",
+   "header": "**N-10774** Quick Quack Car Wash Footage Release Question",
    "label": "Quick Quack Car Wash Footage Release Question",
    "lines": [
     {
@@ -1226,8 +1226,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10853",
-   "header": "**N-10853** Dairy Queen Timestamp UTC vs MST Reconciliation",
+   "id": "N-10775",
+   "header": "**N-10775** Dairy Queen Timestamp UTC vs MST Reconciliation",
    "label": "Dairy Queen Timestamp UTC vs MST Reconciliation",
    "lines": [
     {
@@ -1274,8 +1274,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10854",
-   "header": "**N-10854** Partial License Plate Match Verification Process",
+   "id": "N-10776",
+   "header": "**N-10776** Partial License Plate Match Verification Process",
    "label": "Partial License Plate Match Verification Process",
    "lines": [
     {
@@ -1308,54 +1308,6 @@
     },
     {
      "raw": "*Related: C-13513, A-2424.1*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10855",
-   "header": "**N-10855** Vehicle Exhaust System Modification Question",
-   "label": "Vehicle Exhaust System Modification Question",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Hypothesis raised by host that, if Tyler Robinson's vehicle is the same as the parking-garage Challenger, the prosecution must account for an exhaust-system modification occurring within 33 hours of the incident."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "k": "Evidence Count",
-     "v": "2"
-    },
-    {
-     "k": "Claim Count",
-     "v": "1"
-    },
-    {
-     "k": "Episode Count",
-     "v": "1"
-    },
-    {
-     "k": "Investigative Pressure",
-     "v": "Medium"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-13462, A-2419.1, A-2420.1, N-10851*"
     },
     {
      "raw": ""
@@ -1786,8 +1738,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11091",
-   "header": "**N-11091** Wear Forbidden",
+   "id": "N-11009",
+   "header": "**N-11009** Wear Forbidden",
    "label": "Wear Forbidden",
    "lines": [
     {
@@ -1844,8 +1796,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10051",
-   "header": "**N-10051** Dairy Queen 6:38 Photo Verification",
+   "id": "N-10048",
+   "header": "**N-10048** Dairy Queen 6:38 Photo Verification",
    "label": "Dairy Queen 6:38 Photo Verification",
    "lines": [
     {
@@ -1873,8 +1825,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10381",
-   "header": "**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
+   "id": "N-10354",
+   "header": "**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
    "label": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
    "lines": [
     {
@@ -1902,8 +1854,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10168",
-   "header": "**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+   "id": "N-10161",
+   "header": "**N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
    "label": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
    "lines": [
     {
@@ -1931,8 +1883,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10850",
-   "header": "**N-10850** Two Grey Dodge Challengers Discrepancy",
+   "id": "N-10773",
+   "header": "**N-10773** Two Grey Dodge Challengers Discrepancy",
    "label": "Two Grey Dodge Challengers Discrepancy",
    "lines": [
     {
@@ -1960,8 +1912,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10090",
-   "header": "**N-10090** Screwdriver Evidence Question",
+   "id": "N-10086",
+   "header": "**N-10086** Screwdriver Evidence Question",
    "label": "Screwdriver Evidence Question",
    "lines": [
     {
@@ -1989,8 +1941,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10811",
-   "header": "**N-10811** Aspect-Ratio Modification Investigation",
+   "id": "N-10735",
+   "header": "**N-10735** Aspect-Ratio Modification Investigation",
    "label": "Aspect-Ratio Modification Investigation",
    "lines": [
     {
@@ -2018,8 +1970,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10625",
-   "header": "**N-10625** Probable Cause Hearing Exhibit Count (35 Exhibits)",
+   "id": "N-10571",
+   "header": "**N-10571** Probable Cause Hearing Exhibit Count (35 Exhibits)",
    "label": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
    "lines": [
     {
@@ -2047,8 +1999,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10598",
-   "header": "**N-10598** Lance Twiggs Federal Asset Question",
+   "id": "N-10545",
+   "header": "**N-10545** Lance Twiggs Federal Asset Question",
    "label": "Lance Twiggs Federal Asset Question",
    "lines": [
     {
@@ -2076,8 +2028,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10860",
-   "header": "**N-10860** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
+   "id": "N-10781",
+   "header": "**N-10781** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
    "label": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
    "lines": [
     {
@@ -2105,8 +2057,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10977",
-   "header": "**N-10977** September 2024 Lebanon Pager Attack",
+   "id": "N-10898",
+   "header": "**N-10898** September 2024 Lebanon Pager Attack",
    "label": "September 2024 Lebanon Pager Attack",
    "lines": [
     {
@@ -2134,8 +2086,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10980",
-   "header": "**N-10980** Reuters",
+   "id": "N-10901",
+   "header": "**N-10901** Reuters",
    "label": "Reuters",
    "lines": [
     {
@@ -2163,8 +2115,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10541",
-   "header": "**N-10541** Strait of Hormuz / US-Iran War Context",
+   "id": "N-10496",
+   "header": "**N-10496** Strait of Hormuz / US-Iran War Context",
    "label": "Strait of Hormuz / US-Iran War Context",
    "lines": [
     {
@@ -2192,8 +2144,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10417",
-   "header": "**N-10417** Fort Huachuca Erika Presence Investigation",
+   "id": "N-10390",
+   "header": "**N-10390** Fort Huachuca Erika Presence Investigation",
    "label": "Fort Huachuca Erika Presence Investigation",
    "lines": [
     {
@@ -2221,8 +2173,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11151",
-   "header": "**N-11151** Mountain Shadows Shopping Center Sighting",
+   "id": "N-11067",
+   "header": "**N-11067** Mountain Shadows Shopping Center Sighting",
    "label": "Mountain Shadows Shopping Center Sighting",
    "lines": [
     {
@@ -2254,8 +2206,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11152",
-   "header": "**N-11152** Cross-Device Account Access Hypothesis",
+   "id": "N-11068",
+   "header": "**N-11068** Cross-Device Account Access Hypothesis",
    "label": "Cross-Device Account Access Hypothesis",
    "lines": [
     {
@@ -2263,7 +2215,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "The host's hypothesis that logins to Tyler Robinson's accounts or Google Maps data could come from another device or person using the same account, such as Lance Twiggs."
@@ -2380,7 +2332,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10851, N-10855"
+     "v": "N-10645"
     },
     {
      "raw": ""
@@ -2432,7 +2384,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10851, N-10855"
+     "v": "N-10645"
     },
     {
      "raw": ""
@@ -2488,7 +2440,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10852"
+     "v": "N-10774"
     },
     {
      "raw": ""
@@ -2544,7 +2496,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10852"
+     "v": "N-10774"
     },
     {
      "raw": ""
@@ -2600,7 +2552,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10854"
+     "v": "N-10776"
     },
     {
      "raw": ""
@@ -2757,7 +2709,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10853"
+     "v": "N-10775"
     },
     {
      "raw": ""
@@ -2813,7 +2765,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10853"
+     "v": "N-10775"
     },
     {
      "raw": ""
@@ -2869,7 +2821,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10851, N-10855"
+     "v": "N-10645"
     },
     {
      "raw": ""
@@ -2925,7 +2877,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10855"
+     "v": "N-10645"
     },
     {
      "raw": ""
@@ -3161,7 +3113,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10860"
+     "v": "N-10781"
     },
     {
      "k": "Supports",
@@ -3515,7 +3467,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10051"
+     "v": "N-10048"
     },
     {
      "k": "Supports",
@@ -3580,7 +3532,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10051, N-10853"
+     "v": "N-10048, N-10775"
     },
     {
      "k": "Qualifies",
@@ -3645,7 +3597,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10381, N-10051"
+     "v": "N-10354, N-10048"
     },
     {
      "k": "Supports",
@@ -3710,7 +3662,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10853"
+     "v": "N-10775"
     },
     {
      "k": "Tags",
@@ -3771,7 +3723,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10853"
+     "v": "N-10775"
     },
     {
      "k": "Tags",
@@ -3832,7 +3784,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10051, N-10168"
+     "v": "N-10048, N-10161"
     },
     {
      "k": "Tags",
@@ -3950,7 +3902,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10851"
+     "v": "N-10645"
     },
     {
      "k": "Supports",
@@ -4015,7 +3967,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10851, N-10855"
+     "v": "N-10645"
     },
     {
      "k": "Supports",
@@ -4080,7 +4032,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10051, N-10853"
+     "v": "N-10048, N-10775"
     },
     {
      "k": "Tags",
@@ -4141,7 +4093,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11151"
+     "v": "N-11067"
     },
     {
      "k": "Tags",
@@ -4202,7 +4154,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11151"
+     "v": "N-11067"
     },
     {
      "k": "Tags",
@@ -4263,7 +4215,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11151, N-10852"
+     "v": "N-11067, N-10774"
     },
     {
      "k": "Tags",
@@ -4324,7 +4276,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11151, N-10852"
+     "v": "N-11067, N-10774"
     },
     {
      "k": "Supports",
@@ -4389,7 +4341,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10811, N-10625"
+     "v": "N-10735, N-10571"
     },
     {
      "k": "Tags",
@@ -4450,7 +4402,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10852, N-10850"
+     "v": "N-10774, N-10773"
     },
     {
      "k": "Supports",
@@ -4515,7 +4467,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11152"
+     "v": "N-11068"
     },
     {
      "k": "Tags",
@@ -4576,7 +4528,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10598"
+     "v": "N-10545"
     },
     {
      "k": "Tags",
@@ -4637,7 +4589,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11152, N-10852"
+     "v": "N-11068, N-10774"
     },
     {
      "k": "Tags",
@@ -4698,7 +4650,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10598"
+     "v": "N-10545"
     },
     {
      "k": "Supports",
@@ -4877,7 +4829,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10852"
+     "v": "N-10774"
     },
     {
      "k": "Supports",
@@ -4942,7 +4894,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10090"
+     "v": "N-10086"
     },
     {
      "k": "Tags",
@@ -5003,7 +4955,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11151"
+     "v": "N-11067"
     },
     {
      "k": "Tags",
@@ -5064,7 +5016,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10852, N-11151"
+     "v": "N-10774, N-11067"
     },
     {
      "k": "Tags",
@@ -5239,7 +5191,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850, N-10851"
+     "v": "N-10773, N-10645"
     },
     {
      "k": "Tags",
@@ -5300,7 +5252,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850, N-10851"
+     "v": "N-10773, N-10645"
     },
     {
      "k": "Supports",
@@ -5707,7 +5659,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10977"
+     "v": "N-10898"
     },
     {
      "k": "Tags",
@@ -5768,7 +5720,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10980"
+     "v": "N-10901"
     },
     {
      "k": "Tags",
@@ -5886,7 +5838,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11091"
+     "v": "N-11009"
     },
     {
      "k": "Tags",
@@ -5947,7 +5899,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10417"
+     "v": "N-10390"
     },
     {
      "k": "Tags",
@@ -6126,7 +6078,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10417"
+     "v": "N-10390"
     },
     {
      "k": "Tags",
@@ -6366,7 +6318,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10051, N-10852, N-11151"
+     "v": "N-10048, N-10774, N-11067"
     },
     {
      "k": "Tags",
@@ -6427,7 +6379,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10541"
+     "v": "N-10496"
     },
     {
      "k": "Tags",
@@ -6488,7 +6440,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10854"
+     "v": "N-10776"
     },
     {
      "k": "Supports",
@@ -6553,7 +6505,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10854, N-10850"
+     "v": "N-10776, N-10773"
     },
     {
      "k": "Tags",
@@ -6614,7 +6566,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10854, N-10850"
+     "v": "N-10776, N-10773"
     },
     {
      "k": "Tags",

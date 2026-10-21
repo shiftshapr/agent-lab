@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: e1354996fe0dca09feb5fcf6281cba63b17e90513ca05526f293f355bf11437c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-858, N-11257
-  - Hole-minted Nodes (reintro-ep086): N-10581, N-10624, N-10711
-  - Tip-minted Nodes (reintro-ep086): N-10975, N-11055, N-11068
+  - Tip-minted Nodes (supplement_2026-10d): N-858, N-11173
+  - Hole-minted Nodes (reintro-ep086): N-10532, N-10570, N-10647
+  - Tip-minted Nodes (reintro-ep086): N-10896, N-10973, N-10986
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7685–C-7757
-  - New Nodes Introduced: N-10569, N-10570
-  - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-195, N-261, N-266, N-330, N-597, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149, N-418, N-674, N-775, N-10571, N-10572, N-11256
+  - New Nodes Introduced: N-10520, N-10521
+  - Reused Nodes Appearing: N-10081, N-1, N-10524, N-6, N-15, N-22, N-30, N-36, N-195, N-261, N-266, N-330, N-597, N-10000, N-10006, N-10012, N-10014, N-10030, N-10096, N-10106, N-10156, N-10193, N-10282, N-10324, N-10336, N-10362, N-10416, N-10494, N-10567, N-10188, N-10721, N-10972, N-11065, N-418, N-674, N-775, N-10522, N-10523, N-11172
   - (see registers)
 
 ## I. Meta-Data
@@ -36,7 +36,7 @@
 ### Episode 86 Ledger Summary
 - Artifact Families Introduced: A-1912, A-1913, A-1914, A-1915, A-1916
 - New People Nodes Introduced: none (Wave 2: local ids removed)
-- New Investigation Target Nodes Introduced: N-10569, N-10570, N-10571, N-10572
+- New Investigation Target Nodes Introduced: N-10520, N-10521, N-10522, N-10523
 - Existing Nodes Reused: Charlie Kirk, Erika Kirk, Candace Owens, Tyler Robinson, Terryl Farnsworth, Andrew Kolvet, Dr. Lee Trotter, Justin Streiff, Frank Carni, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
 
 ---
@@ -63,7 +63,7 @@ Video Timestamp: 00:17:27–00:49:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (filing is shown on screen and read aloud at length)
 
-*Related: C-7717, C-7731, C-7734, C-7726, C-7728, C-7721, C-7720, C-7718, N-10569, N-10570, N-10572, CASE_1*
+*Related: C-7717, C-7731, C-7734, C-7726, C-7728, C-7721, C-7720, C-7718, N-10520, N-10521, N-10523, CASE_1*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:11:24–00:12:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud)
 
-*Related: C-7705, C-7706, C-7702, N-10085*
+*Related: C-7705, C-7706, C-7702, N-10081*
 
 ---
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:41:49–00:43:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcript captured; network/station not specified)
 
-*Related: C-7738, N-10569*
+*Related: C-7738, N-10520*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:50:51–00:53:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud; sender identity not disclosed)
 
-*Related: C-7749, N-10571*
+*Related: C-7749, N-10522*
 
 ---
 
@@ -195,7 +195,7 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-**N-10569** Comparative Bullet Lead Analysis Revival
+**N-10520** Comparative Bullet Lead Analysis Revival
 
 Persistent question regarding the FBI's planned use of a forensic technique (CBLA/comparative bullet lead analysis) that the FBI discontinued in 2005 due to flawed scientific, statistical, and interpretive validity.
 
@@ -208,7 +208,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Persistent inconsistency between Andrew Kolvet's September 20, 2025 tweet (bullet found beneath skin), Andrew Kolvet's reported September 23, 2025 verbal account (bullet traveled C2–C6, shattered in thorax), and Brian Harpool's later statement (fragmented in stomach/thorax).
 
@@ -221,7 +221,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10570** Defense Discovery Dumping Strategy
+**N-10521** Defense Discovery Dumping Strategy
 
 Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026 – two months before the scheduled May 2026 preliminary hearing.
 
@@ -234,7 +234,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10571** July 14, 2025 Long Beach Flight
+**N-10522** July 14, 2025 Long Beach Flight
 
 Investigation target referenced by host as a "crucial date" tied to a flight involving Erika Kirk, Katherine Locastro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.
 
@@ -247,7 +247,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10572** ATF Bullet-to-Gun Inconclusive Finding
+**N-10523** ATF Bullet-to-Gun Inconclusive Finding
 
 Persistent evidentiary gap documented in the defense filing: the ATF was unable to identify the autopsy-recovered bullet to the rifle allegedly tied to Tyler Robinson.
 
@@ -260,7 +260,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10573** Timpanogos Hospital Evidence Question
+**N-10524** Timpanogos Hospital Evidence Question
 
 Investigation target referenced at episode end – host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.
 
@@ -416,7 +416,7 @@ Baron Coleman; cited for his explanation that the people involved are tied to ea
 
 ---
 
-**N-10039** Missing Text Message Timestamps
+**N-10030** Text Message Timestamp Discrepancy
 
 Missing Text Message Timestamps; reused for the PDF text messages the defense says lack time data.
 
@@ -464,7 +464,7 @@ Dr. Lee Trotter; the surgeon whose call with Erika and Kolvet is disputed.
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 TPUSA SD Card Removal; reused for the Farnsworth card removal claims.
 
@@ -472,7 +472,7 @@ TPUSA SD Card Removal; reused for the Farnsworth card removal claims.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Tyler Robinson Evidence Gaps; reused for the prints and DNA claims.
 
@@ -480,7 +480,7 @@ Tyler Robinson Evidence Gaps; reused for the prints and DNA claims.
 
 ---
 
-**N-10162** SD Card Removal Narrative Discrepancy
+**N-10156** SD Card Removal Narrative Discrepancy
 
 SD Card Removal Narrative Discrepancy; reused.
 
@@ -488,7 +488,7 @@ SD Card Removal Narrative Discrepancy; reused.
 
 ---
 
-**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Charlie Kirk Burial / Funeral Narrative Discrepancy; reused for the September 20 burial date.
 
@@ -496,7 +496,7 @@ Charlie Kirk Burial / Funeral Narrative Discrepancy; reused for the September 20
 
 ---
 
-**N-10300** Justin Streiff Post-Assassination Phone Call
+**N-10282** Justin Streiff Post-Assassination Phone Call
 
 Justin Streiff Post-Assassination Phone Call; reused for the host's account of his contact with her husband.
 
@@ -504,7 +504,7 @@ Justin Streiff Post-Assassination Phone Call; reused for the host's account of h
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Terryl Farnsworth Camera Removal Justification; reused for his and Kolvet's explanations.
 
@@ -512,7 +512,7 @@ Terryl Farnsworth Camera Removal Justification; reused for his and Kolvet's expl
 
 ---
 
-**N-10360** Gun Discovery Procedure Question
+**N-10336** Gun Discovery Procedure Question
 
 Gun Discovery Procedure Question; reused for the planted-gun allegation.
 
@@ -520,7 +520,7 @@ Gun Discovery Procedure Question; reused for the planted-gun allegation.
 
 ---
 
-**N-10389** Charlie Kirk Premonition Dreams
+**N-10362** Charlie Kirk Premonition Dreams
 
 Charlie Kirk Premonition Dreams; reused for the host's account that he told her he would die.
 
@@ -528,7 +528,7 @@ Charlie Kirk Premonition Dreams; reused for the host's account that he told her 
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Three-Way Surgeon Call / Superman Neck HIPAA Discrepancy; reused for the Erika, Kolvet and Trotter call.
 
@@ -536,7 +536,7 @@ Three-Way Surgeon Call / Superman Neck HIPAA Discrepancy; reused for the Erika, 
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Charlie Kirk Iran War Opposition (June 2025); reused for the host's timeline theory.
 
@@ -544,7 +544,7 @@ Charlie Kirk Iran War Opposition (June 2025); reused for the host's timeline the
 
 ---
 
-**N-10581** Tyler Robinson Defense – Chain of Custody / Documents
+**N-10532** Tyler Robinson Defense – Chain of Custody / Documents
 
 Tyler Robinson Defense Chain of Custody / Documents; reused.
 
@@ -552,7 +552,7 @@ Tyler Robinson Defense Chain of Custody / Documents; reused.
 
 ---
 
-**N-10621** Gun Firing Evidence Verification
+**N-10567** Gun Firing Evidence Verification
 
 Gun Firing Evidence Verification; reused for the GSR, prints and heirloom ammunition claims.
 
@@ -560,7 +560,7 @@ Gun Firing Evidence Verification; reused for the GSR, prints and heirloom ammuni
 
 ---
 
-**N-10624** Defense Access to Firearm Evidence (Quantico)
+**N-10570** Defense Access to Firearm Evidence (Quantico)
 
 Defense Access to Firearm Evidence (Quantico); reused for the outstanding ATF and FBI materials.
 
@@ -568,7 +568,7 @@ Defense Access to Firearm Evidence (Quantico); reused for the outstanding ATF an
 
 ---
 
-**N-10711** Tyler Robinson DNA Most Degraded Anomaly
+**N-10647** Tyler Robinson DNA Most Degraded Anomaly
 
 Tyler Robinson DNA Most Degraded Anomaly; reused for the DNA mixture claim.
 
@@ -576,7 +576,7 @@ Tyler Robinson DNA Most Degraded Anomaly; reused for the DNA mixture claim.
 
 ---
 
-**N-10770** Utah Valley Hospital File Anomaly
+**N-10188** UVU Hospital Charlie Kirk Medical File Access Question
 
 Utah Valley Hospital File Anomaly; reused for the hospital routing question.
 
@@ -584,7 +584,7 @@ Utah Valley Hospital File Anomaly; reused for the hospital routing question.
 
 ---
 
-**N-10797** Terryl Farnsworth Google-Hack Contradiction
+**N-10721** Terryl Farnsworth Google-Hack Contradiction
 
 Terryl Farnsworth Google-Hack Contradiction; reused for his excuses for not sending the footage.
 
@@ -592,7 +592,7 @@ Terryl Farnsworth Google-Hack Contradiction; reused for his excuses for not send
 
 ---
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF); source of the inconclusive bullet finding.
 
@@ -600,7 +600,7 @@ Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF); source of the inconcl
 
 ---
 
-**N-11054** Bomb Dog Deployment at the Crime Scene
+**N-10972** Bomb Dog Deployment at the Crime Scene
 
 Bomb Dog Deployment at the Crime Scene; reused.
 
@@ -608,7 +608,7 @@ Bomb Dog Deployment at the Crime Scene; reused.
 
 ---
 
-**N-11055** Tyler Robinson Gunshot Residue Test Question
+**N-10973** Tyler Robinson Gunshot Residue Test Question
 
 Tyler Robinson Gunshot Residue Test Question; reused.
 
@@ -616,7 +616,7 @@ Tyler Robinson Gunshot Residue Test Question; reused.
 
 ---
 
-**N-11068** Utah Rule 1102 Hearsay Standard
+**N-10986** Utah Rule 1102 Hearsay Standard
 
 Utah Rule 1102 Hearsay Standard; reused for the hearsay argument.
 
@@ -624,7 +624,7 @@ Utah Rule 1102 Hearsay Standard; reused for the hearsay argument.
 
 ---
 
-**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss
+**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
 Tyler Robinson Preliminary Hearing and Motion to Dismiss; reused for the continuance request.
 
@@ -640,16 +640,16 @@ First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, 
 
 ---
 
-**N-11256** Back-Footage FaceTime Recording Inquiry
+**N-11172** Back-Footage FaceTime Recording Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic. The host's account that on September 20, 2025 TPUSA leadership and the FBI were asking whether she had recorded Terryl Farnsworth's September 19 FaceTime showing the back-camera footage.
 
 *Related: C-7695, C-7696, C-7697, C-7698*
 
 ---
 
-**N-11257** Utah County Attorney's Office (UCAO)
+**N-11173** Utah County Attorney's Office (UCAO)
 
 Node Type: Organization
 Organization. Prosecuting office in State of Utah v. Tyler Robinson; the filing says it was also awaiting the lab files.
@@ -683,7 +683,7 @@ Claim: Per the defense filing the host reads, the ATF was unable to identify the
 Anchored Artifacts: A-1912.1
 Mentions: N-40
 
-Related Nodes: N-10572
+Related Nodes: N-10523
 
 Investigative Direction: Obtain full ATF case file and protocols referenced as outstanding in the filing; verify whether the conclusion is "inconclusive" or a definitive non-match.
 
@@ -697,7 +697,7 @@ Claim: Per the defense filing the host reads, the state has indicated that the F
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10569
+Related Nodes: N-10520
 
 Investigative Direction: Obtain status filing or prosecutorial disclosure regarding timeline of FBI secondary analyses.
 
@@ -711,7 +711,7 @@ Claim: In a local Atlanta news clip the host plays, a reporter says the FBI admi
 
 Anchored Artifacts: A-1914.1
 
-Related Nodes: N-10569
+Related Nodes: N-10520
 
 Investigative Direction: Cross-reference the FBI's 2005 NAS report and PCast/NIST forensic science reviews; confirm current formal FBI policy position on CBLA use.
 
@@ -725,7 +725,7 @@ Claim: Per the defense filing the host reads, the autopsy report, completed Sept
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10570
+Related Nodes: N-10521
 
 Investigative Direction: Obtain defense correspondence log and prosecution's transmission records to verify dates.
 
@@ -739,7 +739,7 @@ Claim: Per the defense filing the host reads, autopsy photographs taken on Septe
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10570
+Related Nodes: N-10521
 
 Investigative Direction: Obtain defense correspondence log and prosecution's transmission records to verify dates.
 
@@ -753,7 +753,7 @@ Claim: Per the defense filing the host reads, at the March 12, 2026 conference t
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10570
+Related Nodes: N-10521
 
 Investigative Direction: Cross-reference the filing's exhibit list and any hard-drive transmission log.
 
@@ -767,7 +767,7 @@ Claim: Per the defense filing the host reads, prior to the March 12, 2026 confer
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10570
+Related Nodes: N-10521
 
 Investigative Direction: Cross-reference with case docket and prosecution's discovery log.
 
@@ -797,7 +797,7 @@ Claim: In a September 20, 2025 X/Twitter post, Andrew Kolvet wrote that the coro
 Anchored Artifacts: A-1913.1
 Mentions: N-1, N-14
 
-Related Nodes: N-10085
+Related Nodes: N-10081
 
 Investigative Direction: Obtain and verify the original X post timestamp, account status, and the underlying autopsy report's final disposition language.
 
@@ -812,7 +812,7 @@ Claim: In the same September 20, 2025 post, Andrew Kolvet attributed a quote to 
 Anchored Artifacts: A-1913.1
 Mentions: N-1, N-14
 
-Related Nodes: N-10085
+Related Nodes: N-10081
 
 Investigative Direction: Identify and depose the surgeon; compare quote against operative notes and any recorded statements.
 
@@ -826,7 +826,7 @@ Claim: Per an email from a viewer that the host reads, Long Beach Airport is app
 
 Anchored Artifacts: A-1915.1
 
-Related Nodes: N-10571
+Related Nodes: N-10522
 
 Investigative Direction: Confirm base location via public military base directories; cross-reference flight manifests for July 14, 2025.
 
@@ -885,7 +885,7 @@ Claim: The host says the FBI's planned use of comparative bullet lead analysis �
 Anchored Artifacts: A-1912.1, A-1914.1
 Mentions: N-40
 
-Related Nodes: N-10569
+Related Nodes: N-10520
 
 Investigative Direction: Review any FBI lab protocol authorizing CBLA reintroduction; compare to 2009 NAS forensic science recommendations.
 
@@ -900,7 +900,7 @@ Claim: The host says the "man of steel" framing in Andrew Kolvet's September 20,
 Anchored Artifacts: A-1913.1
 Mentions: N-14, N-2, N-1, N-3
 
-Related Nodes: N-10085
+Related Nodes: N-10081
 
 Investigative Direction: Obtain forensic pathology review of any surgeon communications; verify whether such a quote was ever formally attested.
 
@@ -947,7 +947,7 @@ Transcript Snippet: He returns to the crime scene and violates it. More specific
 
 Anchored Artifacts: 
 Mentions: N-261, N-1
-Related Nodes: N-10100, N-10162
+Related Nodes: N-10096, N-10156
 Supports: C-1355
 Tags: relevance:core
 Investigative Direction: Obtain scene video showing Farnsworth's movements and the chain of custody of the SD card from that camera.
@@ -980,7 +980,7 @@ Transcript Snippet: Yeah, we we know Andrew Kolvet lying because Tarro did not t
 
 Anchored Artifacts: 
 Mentions: N-14, N-261
-Related Nodes: N-10346, N-10100
+Related Nodes: N-10324, N-10096
 Supports: C-1361
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public explanation with the scene video showing which items were on the table and what was taken.
@@ -1013,7 +1013,7 @@ Transcript Snippet: I wanted to secure the footage for Erika so that uh she woul
 
 Anchored Artifacts: 
 Mentions: N-261, N-2, N-1
-Related Nodes: N-10346
+Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Ask Farnsworth to state under oath why he chose that camera and what instruction he acted on.
 
@@ -1029,7 +1029,7 @@ Transcript Snippet: once I actually saw the footage, it had no blood.
 
 Anchored Artifacts: 
 Mentions: N-1, N-261
-Related Nodes: N-10100
+Related Nodes: N-10096
 Tags: relevance:core
 Investigative Direction: Obtain the original back-camera file and compare it with the front and side footage.
 
@@ -1045,7 +1045,7 @@ Transcript Snippet: they were hiding was the fact that the bullet did not go thr
 
 Anchored Artifacts: 
 Mentions: N-1, N-261
-Related Nodes: N-10085, N-10100
+Related Nodes: N-10081, N-10096
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report and the back-camera footage to establish whether there was an exit wound.
 
@@ -1061,7 +1061,7 @@ Transcript Snippet: Tarro showed me the back footage 2 days later on September 1
 
 Anchored Artifacts: A-3072.1
 Mentions: N-261, N-3
-Related Nodes: N-10797
+Related Nodes: N-10721
 Tags: relevance:core
 Investigative Direction: Obtain the host's screen recording of the September 19 FaceTime and any call metadata.
 
@@ -1077,7 +1077,7 @@ Transcript Snippet: On September 19th, he did that and gratefully I moved to rec
 
 Anchored Artifacts: A-3072.1
 Mentions: N-261, N-3
-Related Nodes: N-11256
+Related Nodes: N-11172
 Tags: relevance:core
 Investigative Direction: Compare the host's September 19 episode with the recorded FaceTime.
 
@@ -1093,7 +1093,7 @@ Transcript Snippet: the very next day, on September 20th, Justin Streiff was con
 
 Anchored Artifacts: A-3072.1
 Mentions: N-15, N-30, N-261
-Related Nodes: N-11256, N-10300
+Related Nodes: N-11172, N-10282
 Tags: relevance:core
 Investigative Direction: Obtain George Farmer's message log with Justin Streiff for September 20, 2025.
 
@@ -1109,7 +1109,7 @@ Transcript Snippet: Honey, don't answer the question. I find the question in and
 
 Anchored Artifacts: 
 Mentions: N-30, N-15, N-3
-Related Nodes: N-11256
+Related Nodes: N-11172
 Tags: relevance:core
 Investigative Direction: Obtain the husband's account and the message thread with Justin Streiff.
 
@@ -1125,7 +1125,7 @@ Transcript Snippet: The FBI was on the phone with Justin Streiff, Frank Carni, a
 
 Anchored Artifacts: 
 Mentions: N-15, N-858
-Related Nodes: N-10014, N-11256
+Related Nodes: N-10014, N-11172
 Tags: relevance:core
 Investigative Direction: Identify the host's source for this account and request FBI contact logs with TPUSA leadership for September 20, 2025.
 
@@ -1141,7 +1141,7 @@ Transcript Snippet: this was also the exact day of Charlie's private burial. And
 
 Anchored Artifacts: 
 Mentions: N-1, N-2
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Confirm the date and nature of the private burial with the funeral home or family spokesperson.
 
@@ -1157,7 +1157,7 @@ Transcript Snippet: They peeled off to the side and they conferenced the surgeon
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-195, N-1
-Related Nodes: N-10447
+Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Obtain phone records for the Erika Kirk, Andrew Kolvet and Dr. Trotter call and ask Dr. Trotter to confirm who participated.
 
@@ -1173,7 +1173,7 @@ Transcript Snippet: She would insist to my face and I did not believe her for 1 
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-195
-Related Nodes: N-10447
+Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Obtain any recording or notes of the host's conversation with Erika Kirk on this point.
 
@@ -1189,7 +1189,7 @@ Transcript Snippet: Dr. Lee Trotter did not violate HIPAA. In fact, he could sue
 
 Anchored Artifacts: 
 Mentions: N-195, N-2
-Related Nodes: N-10447
+Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Ask Dr. Trotter or his counsel whether he authorized the call and whether any HIPAA complaint was filed.
 
@@ -1205,7 +1205,7 @@ Transcript Snippet: it was Erika Kirk that said that Charlie ate healthy, and sh
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-195, N-1
-Related Nodes: N-10447
+Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Identify the host's source for who said what on the call and compare with Kolvet's September 20 post.
 
@@ -1221,7 +1221,7 @@ Transcript Snippet: it traveled from C2, okay? Think about the entry point. It's
 
 Anchored Artifacts: A-3073.1
 Mentions: N-14, N-1, N-3
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Obtain the host's September 23 notes and ask Kolvet to confirm or deny the description.
 
@@ -1237,7 +1237,7 @@ Transcript Snippet: first they found the bullet uh beneath his skin. Now, sudden
 
 Anchored Artifacts: 
 Mentions: N-266, N-14
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's September 20 post, his September 23 account and Harpole's statement against the autopsy report.
 
@@ -1253,7 +1253,7 @@ Transcript Snippet: It's cuz at some point the feds realized that their initial 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10014, N-10085
+Related Nodes: N-10014, N-10081
 Tags: relevance:core
 Investigative Direction: Seek federal communications between September 19 and 20, 2025 about the footage and the bullet account.
 
@@ -1269,7 +1269,7 @@ Transcript Snippet: that family heirloom gun takes special bullets. In fact, I w
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10621, N-10572
+Related Nodes: N-10567, N-10523
 Tags: relevance:core
 Investigative Direction: Identify the ammunition type recovered and required by the rifle and compare with ATF and FBI reports.
 
@@ -1285,7 +1285,7 @@ Transcript Snippet: Did they conduct that 33 hours later to see if Tyler Robinso
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11055, N-10621
+Related Nodes: N-10973, N-10567
 Tags: relevance:core
 Investigative Direction: Check discovery and lab reports for any GSR swabs of Robinson's hands or clothing.
 
@@ -1301,7 +1301,7 @@ Transcript Snippet: You remember the the bomb dogs went into the field where the
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11054
+Related Nodes: N-10972
 Tags: relevance:core
 Investigative Direction: Obtain K-9 deployment logs and handler reports for September 10 to 12, 2025.
 
@@ -1317,7 +1317,7 @@ Transcript Snippet: which my sources say they are convinced that the feds plante
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10360, N-10621, N-10014
+Related Nodes: N-10336, N-10567, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain the recovery chain of custody, the bore and chamber residue findings and the timeline of who found the weapon.
 
@@ -1333,7 +1333,7 @@ Transcript Snippet: is that they found a total of six sets of prints on the gun.
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10110, N-10621
+Related Nodes: N-10106, N-10567
 Supports: C-756
 Tags: relevance:core
 Investigative Direction: Obtain the latent print report identifying the six sets and their donors.
@@ -1366,7 +1366,7 @@ Transcript Snippet: I think we can all readily dismiss the repeated lie that Tyl
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Check the record for any confession, including statements to family, police or the discord messages.
 
@@ -1382,7 +1382,7 @@ Transcript Snippet: They are naming him as a witness and he is going to be force
 
 Anchored Artifacts: A-1912.1
 Mentions: N-775, N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:context
 Investigative Direction: Check the witness list and any proffer on what Matt Robinson is expected to testify to.
 
@@ -1398,7 +1398,7 @@ Transcript Snippet: Mr. Robinson has diligently requested the disclosure of fore
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-10570, N-10581
+Related Nodes: N-10521, N-10532
 Tags: relevance:core
 Investigative Direction: Obtain the exhibits to the motion listing each discovery request and the state's responses.
 
@@ -1414,7 +1414,7 @@ Transcript Snippet: informed the defense that they too were awaiting the files a
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-11257, N-10570
+Related Nodes: N-11173, N-10521
 Tags: relevance:core
 Investigative Direction: Obtain the January hearing transcript and the February 3, 2026 defense letter.
 
@@ -1430,7 +1430,7 @@ Transcript Snippet: I do not find there's any prejudice in setting a date for a 
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Obtain the December 11, 2025 hearing transcript or minute entry.
 
@@ -1446,7 +1446,7 @@ Transcript Snippet: validation studies, crucial electronic data files, the repor
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-10569, N-10624, N-10975
+Related Nodes: N-10520, N-10570, N-10896
 Tags: relevance:core
 Investigative Direction: Obtain the filed motion and exhibits at page 11 and compare with later disclosures.
 
@@ -1462,7 +1462,7 @@ Transcript Snippet: the state indicated that it intended to introduce the autops
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-10570, N-11068
+Related Nodes: N-10521, N-10986
 Tags: relevance:core
 Investigative Direction: Obtain the filed motion at page 18 and the state's witness disclosure.
 
@@ -1494,7 +1494,7 @@ Transcript Snippet: both agencies recovered minute quantities of DNA on various 
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-10110, N-10711
+Related Nodes: N-10106, N-10647
 Tags: relevance:core
 Investigative Direction: Obtain the FBI and ATF DNA reports and the underlying electronic data.
 
@@ -1510,7 +1510,7 @@ Transcript Snippet: Although the state has not indicated an intent to produce th
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-10572, N-10975
+Related Nodes: N-10523, N-10896
 Supports: C-7731
 Tags: relevance:core
 Investigative Direction: Obtain the ATF summary report and the filed motion at the firearm evidence paragraph.
@@ -1527,7 +1527,7 @@ Transcript Snippet: they're like, it doesn't matter. We're not going to We're no
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-10572, N-10975
+Related Nodes: N-10523, N-10896
 Tags: relevance:core
 Investigative Direction: Obtain the March 12 conference notes between the parties.
 
@@ -1543,7 +1543,7 @@ Transcript Snippet: analyzed trace elements, uh copper, arsenic in lead to link 
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10569
+Related Nodes: N-10520
 Supports: C-7738
 Tags: relevance:context
 Investigative Direction: Cross-check with the 2004 National Academy of Sciences report on bullet lead analysis and the FBI's 2005 announcement.
@@ -1560,7 +1560,7 @@ Transcript Snippet: They literally put the wrong people in prison using this tec
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10569
+Related Nodes: N-10520
 Tags: relevance:context
 Investigative Direction: Cite the specific exoneration cases involving bullet lead analysis.
 
@@ -1576,7 +1576,7 @@ Transcript Snippet: In 1991, 45-year-old Norma Jean Ates was found inside this h
 
 Anchored Artifacts: A-1914.1
 Mentions: 
-Related Nodes: N-10569
+Related Nodes: N-10520
 Tags: relevance:context
 Investigative Direction: Identify the station, reporter and the case's court records, noting the transcript spelling of the surname.
 
@@ -1592,7 +1592,7 @@ Transcript Snippet: the state cannot consistent with federal due process, uh the
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-11068, N-11149
+Related Nodes: N-10986, N-11065
 Tags: relevance:core
 Investigative Direction: Obtain the filed motion at page 22.
 
@@ -1608,7 +1608,7 @@ Transcript Snippet: this is not our fault. We did not contribute to the delay re
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-10570
+Related Nodes: N-10521
 Tags: relevance:core
 Investigative Direction: Obtain the defense correspondence exhibits attached to the motion.
 
@@ -1624,7 +1624,7 @@ Transcript Snippet: unless the materials that we are requesting have been produc
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-11068, N-11149
+Related Nodes: N-10986, N-11065
 Tags: relevance:core
 Investigative Direction: Obtain the filed motion's concluding request and the court's ruling.
 
@@ -1640,7 +1640,7 @@ Transcript Snippet: You can't just send a PDF and then say we we got them.
 
 Anchored Artifacts: A-1912.1
 Mentions: N-40
-Related Nodes: N-10039, N-10581
+Related Nodes: N-10030, N-10532
 Tags: relevance:core
 Investigative Direction: Obtain the extraction reports and carrier records for the text messages cited by the state.
 
@@ -1672,7 +1672,7 @@ Transcript Snippet: there was a woman and she was responding to the APB that I p
 
 Anchored Artifacts: A-3075.1
 Mentions: N-3, N-2
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Review the original APB post and the full emailed tip.
 
@@ -1688,7 +1688,7 @@ Transcript Snippet: And that flight is she took with Katherine Locastro and Dere
 
 Anchored Artifacts: A-1915.1
 Mentions: N-2, N-597, N-418, N-674
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Obtain the flight manifest or FAA flight tracking record for July 14, 2025.
 
@@ -1704,7 +1704,7 @@ Transcript Snippet: I feel very much that between June and July 13th uh is when 
 
 Anchored Artifacts: 
 Mentions: N-1, N-22, N-36, N-3
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Obtain the date and transcript of the Tucker Carlson remarks and any documents showing a decision in that window.
 
@@ -1720,7 +1720,7 @@ Transcript Snippet: It also is not visible to heavy traffic as the entrance to t
 
 Anchored Artifacts: A-1915.1
 Mentions: 
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:context
 Investigative Direction: Check public records of flights using Los Alamitos on July 14, 2025.
 
@@ -1736,7 +1736,7 @@ Transcript Snippet: it could very well be that deep sense of knowing came from t
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Ask the host for dated messages or notes of the conversations in which Charlie said this.
 
@@ -1752,7 +1752,7 @@ Transcript Snippet: I have maintained from the beginning that there was more evi
 
 Anchored Artifacts: 
 Mentions: N-6, N-1, N-3
-Related Nodes: N-10573, N-10770
+Related Nodes: N-10524, N-10188
 Tags: relevance:core
 Investigative Direction: Obtain hospital admission, ambulance and security records for both hospitals on September 10, 2025.
 
@@ -1784,7 +1784,7 @@ Transcript Snippet: I guess they didn't technically tweet that. She told me that
 
 Anchored Artifacts: 
 Mentions: N-2, N-195, N-3
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-7701
 Tags: relevance:core
 Investigative Direction: Obtain the host's notes of the conversation with Erika Kirk.

@@ -11,19 +11,19 @@
 - **Transcript SHA-256**: 9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-821, N-822, N-823, N-824, N-11207, N-11209, N-11210
-  - Hole-minted Nodes (reintro-ep138): N-10825
+  - Tip-minted Nodes (supplement_2026-10c): N-821, N-822, N-823, N-824, N-11123, N-11125, N-11126
+  - Hole-minted Nodes (reintro-ep138): N-10748
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-11825–C-11907
-  - New Nodes Introduced: N-10780, N-10781, N-10783, N-10784
-  - Reused Nodes Appearing: N-2, N-504, N-3, N-40, N-54, N-1, N-10782, N-10785, N-5, N-7, N-9, N-14, N-22, N-36, N-37, N-42, N-125, N-159, N-170, N-190, N-261, N-330, N-367, N-437, N-506, N-633, N-775, N-814, N-10000, N-10020, N-10022, N-10026, N-10030, N-10031, N-10037, N-10038, N-10039, N-10056, N-10070, N-10077, N-10091, N-10097, N-10106, N-10151, N-10162, N-10319, N-10324, N-10564, N-10570, N-10572, N-10573, N-10598, N-10605, N-10623, N-10670, N-10679, N-10711, N-10713, N-10723, N-10743, N-10751, N-10808, N-10810, N-10899, N-10975, N-11012, N-11017, N-11065, N-11103, N-11121, N-11149, N-11068, N-11208
+  - New Nodes Introduced: N-10705, N-10706, N-10708, N-10709
+  - Reused Nodes Appearing: N-2, N-504, N-3, N-40, N-54, N-1, N-10707, N-10551, N-5, N-7, N-9, N-14, N-22, N-36, N-37, N-42, N-125, N-159, N-170, N-190, N-261, N-330, N-367, N-437, N-506, N-633, N-775, N-814, N-10000, N-10020, N-10022, N-10026, N-10030, N-10031, N-10036, N-10037, N-10053, N-10067, N-10074, N-10087, N-10093, N-10102, N-10146, N-10156, N-10300, N-10303, N-10516, N-10521, N-10523, N-10524, N-10545, N-10552, N-10569, N-10610, N-10617, N-10647, N-10649, N-10658, N-10675, N-10681, N-10732, N-10734, N-10820, N-10896, N-10932, N-10937, N-10983, N-11021, N-11039, N-11065, N-10986, N-11124
   - (see registers)
 
 ## 2. Executive Summary
 
 This episode advances the Bride of Charlie investigation on three evidentiary axes. First, an artifact-anchored disclosure of a 92-member X group chat named "Protecting Mrs. Kirk" is presented via screenshots/quotes from X user "Shady Lady Katie," which the host ties to coordinated attacks on Candace Owens and to a previously unnamed organizer previously linked to pro-Israel intelligence work. Second, the host catalogs multiple alleged "lies and omissions" in the Tyler Robinson case narrative, but only two items in this episode meet the claim admission test on the basis of shown artifacts: a court-displayed image of Lance's phone with a damaged screen at the timestamp location, and surveillance footage of Nate Walker's movements between 12:15 and approximately 12:27 at the event venue. Third, two externally sourced interview clips – Perez Hilton's 2010 Ellen DeGeneres appearance and Piers Morgan's interview with Victor Marx – are played on air, providing artifact anchors for specific biographical claims made by Victor Marx (childhood decapitation of a cat, shooting of a handcuffed man at age 7) and for his on-air acknowledgment that false memories are possible.
 
-Structurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-10780), introduces a fresh movement-timeline target on Nate Walker (N-10781), and consolidates Tyler Robinson case-claim tracking under N-10782. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).
+Structurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-10705), introduces a fresh movement-timeline target on Nate Walker (N-10706), and consolidates Tyler Robinson case-claim tracking under N-10707. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).
 
 ---
 
@@ -39,7 +39,7 @@ Video Timestamp: 00:17:35–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air with quoted content)
 
-*Related: C-11857, C-11863, C-11900, N-10780*
+*Related: C-11857, C-11863, C-11900, N-10705*
 
 **A-2246.2** Second X post by "Shady Lady Katie" detailing group activities: background checks, account reporting, sharing Candace Owens' home address, "coordinated efforts" against Owens
 
@@ -49,7 +49,7 @@ Video Timestamp: 00:19:12–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-11863, C-11900, N-10780*
+*Related: C-11863, C-11900, N-10705*
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:13:35–00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image referenced and described on air)
 
-*Related: C-11848, N-10783*
+*Related: C-11848, N-10708*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:23:50–00:24:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-11874, N-10781*
+*Related: C-11874, N-10706*
 
 **A-2248.2** Surveillance/event footage frame: Nate Walker near Hall's walkway, putting on sunglasses, no bag, at approximately 12:25 (described as ~1 minute 45 seconds after A-2248.1)
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:25:00–00:25:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-11874, N-10781*
+*Related: C-11874, N-10706*
 
 **A-2248.3** Surveillance/event footage frame: Nate Walker walking downstairs, approximately two minutes after A-2248.2
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:25:35–00:25:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-11874, N-10781*
+*Related: C-11874, N-10706*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:44:38–00:45:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-11891, N-10785*
+*Related: C-11891, N-10551*
 
 **A-2251.2** Segment in which Piers Morgan states Mississippi-area law enforcement and sheriffs report no records, police reports, or unsolved homicides matching Victor Marx's account of a killing at age 7; Marx states his stepfather held his hand on a pistol pointed at a handcuffed, kneeling "homeless fellow"; Marx acknowledges he has studied false memories and that false memory formation is "possible"
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:45:49–00:47:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-11892, C-11894, C-11893, N-10785*
+*Related: C-11892, C-11894, C-11893, N-10551*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:50:29–00:51:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-10782, N-2*
+*Related: N-10707, N-2*
 
 **A-2253.2** Comment: "Blake Neff's anger single-handedly makes the entire TPUSA look completely guilty."
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:51:20–00:51:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-10782*
+*Related: N-10707*
 
 **A-2253.3** Comment by "True Detective": describes Charlie Kirk's stated desire to be remembered for the courage of his faith; commenter states this inspired OCIA enrollment and Easter baptism in the Roman Catholic Church.
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:54:33–00:55:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-11900, N-10780*
+*Related: C-11900, N-10705*
 
 **A-2253.5** Comment by "Ben the Beast": asks for host's thoughts on Andrew Tate's most recent arrest; calls it a "Matrix attack."
 
@@ -375,11 +375,11 @@ Claim Count: (see series ledger)
 Episode Count: (see series ledger)
 Investigative Pressure: High
 
-*Related: A-2253.3, C-11857, N-10782*
+*Related: A-2253.3, C-11857, N-10707*
 
 ---
 
-**N-10780** "Protecting Mrs. Kirk" Group Chat Investigation
+**N-10705** "Protecting Mrs. Kirk" Group Chat Investigation
 
 Persistent investigable target: 92-member X-coordinated group chat allegedly organized around defending Erika Kirk and attacking Candace Owens. Documentary evidence includes membership-list exposure by Shady Lady Katie (A-2246.1) and confirmed commenter acknowledgment of address-sharing (A-2253.4). Host frames organizer as previously engaged in intelligence-gathering tied to Israel/Gaza advocacy.
 
@@ -392,7 +392,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10781** Nate Walker Movement Timeline (12:15–12:27)
+**N-10706** Nate Walker Movement Timeline (12:15–12:27)
 
 Persistent investigative target: documented transition of an assistant associated with Charlie Kirk's pre-event logistics from a ground-floor position with bag (~12:15) to an upstairs walkway position without bag (~12:25) to a stairwell re-entry (~12:27). Documentary basis: A-2248.1–A-2248.3.
 
@@ -405,7 +405,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10782** Tyler Robinson Case Evidence Inventory
+**N-10707** Tyler Robinson Case Evidence Inventory
 
 Persistent investigative target across the series: the host's running list of alleged lies, omissions, and unproven narrative claims in the Tyler Robinson case (father-turn-in narrative, 4K footage claim, motive claims, DNA claims, gun-tie-to-bullet claim, SD-card/hard-drive transfer, etc.). Within this episode, the items anchored to displayed or quoted artifacts are limited; the bulk remains host commentary pending artifact support in future episodes.
 
@@ -418,7 +418,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10783** Lance Phone Screen-Damage Timestamp Verification
+**N-10708** Lance Phone Screen-Damage Timestamp Verification
 
 Persistent investigative target: condition of Lance's phone at the time of police imaging, specifically whether the screen damage in the status-bar region obscures the timestamp that would establish when the police photographed the alleged text messages (A-2247.1).
 
@@ -427,11 +427,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2247.1, C-11848, N-10782*
+*Related: A-2247.1, C-11848, N-10707*
 
 ---
 
-**N-10784** Officer Bagley – Sex Crimes Unit Background
+**N-10709** Officer Bagley – Sex Crimes Unit Background
 
 Persistent investigative target: host's verbal disclosure that Officer Bagley, previously a subject in the series, was employed by the Utah County Sheriff's Office in the sex crimes detective unit prior to his UVU role. Presented verbally in this episode without an attached documentary artifact.
 
@@ -444,7 +444,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10785** Victor Marx Biographical Claims Verification
+**N-10551** Victor Marx Background Verification
 
 Persistent investigative target: factual verification of Victor Marx's childhood accounts (cat decapitation at age 3; shooting of a man at age 7). In this episode, the artifact basis is his own on-air admissions to Piers Morgan (A-2251.1, A-2251.2) and Morgan's statement that Mississippi-area law enforcement has no matching records.
 
@@ -505,7 +505,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10037** Bill Ackman Response Analysis
+**N-10036** Bill Ackman Response Analysis
 
 Existing node reused for new claims in this episode.
 
@@ -513,7 +513,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10038** Text Message Language Anomaly
+**N-10037** Text Message Language Anomaly
 
 Existing node reused for new claims in this episode.
 
@@ -521,15 +521,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10039** Missing Text Message Timestamps
-
-Existing node reused for new claims in this episode.
-
-*Related: C-11850*
-
----
-
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing node reused for new claims in this episode.
 
@@ -537,7 +529,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Existing node reused for new claims in this episode.
 
@@ -545,7 +537,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Existing node reused for new claims in this episode.
 
@@ -553,7 +545,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10091** Dr. Frank Turek Suspicion
+**N-10087** Dr. Frank Turek Suspicion
 
 Existing node reused for new claims in this episode.
 
@@ -561,7 +553,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10097** George Zinn Arrest Location/Timing
+**N-10093** George Zinn Arrest Location/Timing
 
 Existing node reused for new claims in this episode.
 
@@ -569,7 +561,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10106** Moral Blackmail by Donors
+**N-10102** Moral Blackmail by Donors
 
 Existing node reused for new claims in this episode.
 
@@ -577,7 +569,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10151** Mike Mitchell Undercover Role Verification
+**N-10146** Mike Mitchell Undercover Role Verification
 
 Existing node reused for new claims in this episode.
 
@@ -585,7 +577,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10162** SD Card Removal Narrative Discrepancy
+**N-10156** SD Card Removal Narrative Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -593,7 +585,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10319** .30-06 Forensic Narrative Validity
+**N-10300** .30-06 Forensic Narrative Validity
 
 Existing node reused for new claims in this episode.
 
@@ -601,7 +593,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing node reused for new claims in this episode.
 
@@ -609,7 +601,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10564** Catholic Church Growth Discourse
+**N-10516** Catholic Church Growth Discourse
 
 Existing node reused for new claims in this episode.
 
@@ -617,7 +609,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10570** Defense Discovery Dumping Strategy
+**N-10521** Defense Discovery Dumping Strategy
 
 Existing node reused for new claims in this episode.
 
@@ -625,7 +617,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10572** ATF Bullet-to-Gun Inconclusive Finding
+**N-10523** ATF Bullet-to-Gun Inconclusive Finding
 
 Existing node reused for new claims in this episode.
 
@@ -633,7 +625,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10573** Timpanogos Hospital Evidence Question
+**N-10524** Timpanogos Hospital Evidence Question
 
 Existing node reused for new claims in this episode.
 
@@ -641,7 +633,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10598** Lance Twiggs Federal Asset Question
+**N-10545** Lance Twiggs Federal Asset Question
 
 Existing node reused for new claims in this episode.
 
@@ -649,7 +641,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10605** Erika Kirk–Victor Marx Relationship Verification
+**N-10552** Erika Kirk–Victor Marx Relationship Verification
 
 Existing node reused for new claims in this episode.
 
@@ -657,7 +649,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10623** Defense Access to Tyler Robinson Phone Data
+**N-10569** Defense Access to Tyler Robinson Phone Data
 
 Existing node reused for new claims in this episode.
 
@@ -665,7 +657,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10670** Gaza Humanitarian Foundation Leadership/Operational Pipeline
+**N-10610** Gaza Humanitarian Foundation Leadership/Operational Pipeline
 
 Existing node reused for new claims in this episode.
 
@@ -673,7 +665,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation
+**N-10617** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 Existing node reused for new claims in this episode.
 
@@ -681,7 +673,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10711** Tyler Robinson DNA Most Degraded Anomaly
+**N-10647** Tyler Robinson DNA Most Degraded Anomaly
 
 Existing node reused for new claims in this episode.
 
@@ -689,7 +681,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10713** Tyler-Lance Text Message Extraction Source
+**N-10649** Tyler-Lance Text Message Extraction Source
 
 Existing node reused for new claims in this episode.
 
@@ -697,7 +689,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10723** Carhartt "Freedom Shirt" Origin
+**N-10658** Carhartt "Freedom Shirt" Origin
 
 Existing node reused for new claims in this episode.
 
@@ -705,7 +697,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10743** Daily Mail Article Source Identity
+**N-10675** Daily Mail Article Source Identity
 
 Existing node reused for new claims in this episode.
 
@@ -713,7 +705,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10751** Charlie Kirk Cremation/Burial Status Verification
+**N-10681** Charlie Kirk Cremation/Burial Status Verification
 
 Existing node reused for new claims in this episode.
 
@@ -721,7 +713,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10808** Terryl SD Card-to-Laptop Transfer Sequence
+**N-10732** Terryl SD Card-to-Laptop Transfer Sequence
 
 Existing node reused for new claims in this episode.
 
@@ -729,7 +721,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10810** SD Card Chain-of-Custody Investigation
+**N-10734** SD Card Chain-of-Custody Investigation
 
 Existing node reused for new claims in this episode.
 
@@ -737,7 +729,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10825** Political Motivation Inference Chain (Hearsay Standard)
+**N-10748** Political Motivation Inference Chain (Hearsay Standard)
 
 Existing node reused for new claims in this episode.
 
@@ -745,7 +737,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Existing node reused for new claims in this episode.
 
@@ -753,7 +745,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Existing node reused for new claims in this episode.
 
@@ -761,7 +753,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11012** Tyler Robinson Surrender Narrative Dispute
+**N-10932** Tyler Robinson Surrender Narrative Dispute
 
 Existing node reused for new claims in this episode.
 
@@ -769,7 +761,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11017** TPUSA Influencer Payment Campaign Allegation
+**N-10937** TPUSA Influencer Payment Campaign Allegation
 
 Existing node reused for new claims in this episode.
 
@@ -777,7 +769,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11065** Preliminary Hearing Influencer Invitation Question
+**N-10983** Preliminary Hearing Influencer Invitation Question
 
 Existing node reused for new claims in this episode.
 
@@ -785,7 +777,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11068** Utah Rule 1102 Hearsay Standard
+**N-10986** Utah Rule 1102 Hearsay Standard
 
 Existing node reused for new claims in this episode.
 
@@ -793,7 +785,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11103** TikTok
+**N-11021** TikTok
 
 Existing node reused for new claims in this episode.
 
@@ -801,7 +793,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11121** Hollywood Gang Claim
+**N-11039** Hollywood Gang Claim
 
 Existing node reused for new claims in this episode.
 
@@ -809,7 +801,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss
+**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
 Existing node reused for new claims in this episode.
 
@@ -1067,7 +1059,7 @@ First named by the host at 00:31:15 in episode 138 as the subject of an alleged 
 
 ---
 
-**N-11207** Cellebrite
+**N-11123** Cellebrite
 
 Node Type: Organization
 Israeli digital forensics firm, transcribed as Celebrite, that the host says police used to extract the Tyler Robinson and Lance text messages.
@@ -1076,25 +1068,25 @@ Israeli digital forensics firm, transcribed as Celebrite, that the host says pol
 
 ---
 
-**N-11208** Timpanogos Hospital Group Arrival Question
+**N-11124** Timpanogos Hospital Group Arrival Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's public question to Blake Neff about whether he, Danny Phillip, Mikey McCoy and Nate Walker arrived together in one car at Timpanogos Hospital.
 
 *Related: C-11873*
 
 ---
 
-**N-11209** Perez Hilton Live-Streamed Self-Harm Incident
+**N-11125** Perez Hilton Live-Streamed Self-Harm Incident
 
-Node Type: Topic
+Node Type: Event
 The Tuesday-night TikTok live stream of Perez Hilton and the Miami-Dade Sheriff's response, as discussed by the host.
 
 *Related: C-11879, C-11880, C-11881, C-11882*
 
 ---
 
-**N-11210** Southern Baptist Convention
+**N-11126** Southern Baptist Convention
 
 Node Type: Organization
 US Protestant denomination the host says is losing members while the Catholic Church grows after Charlie Kirk's death.
@@ -1114,7 +1106,7 @@ Claim: The host says a group chat named "Protecting Mrs. Kirk", exposed on X, ha
 Anchored Artifacts: A-2246.1
 Mentions: N-2, N-3
 
-Related Nodes: N-10780
+Related Nodes: N-10705
 
 Investigative Direction: Obtain the original Shady Lady Katie post via X/Twitter web archives; cross-reference named accounts against public social-media activity.
 
@@ -1129,7 +1121,7 @@ Claim: In a post by Shady Lady Katie that the host reads, members of the 'Protec
 Anchored Artifacts: A-2246.1, A-2246.2
 Mentions: N-3
 
-Related Nodes: N-10780
+Related Nodes: N-10705
 
 Investigative Direction: Verify quoted claim in original X post and any accompanying screenshots; cross-reference with documented doxxing reports.
 
@@ -1144,7 +1136,7 @@ Claim: The host says the phone of Lance (referenced in the Tyler Robinson prelim
 Anchored Artifacts: A-2247.1
 Mentions: N-40, N-54
 
-Related Nodes: N-10782, N-10783
+Related Nodes: N-10707, N-10708
 
 Investigative Direction: Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured.
 
@@ -1159,7 +1151,7 @@ Claim: The host says footage shows Nate Walker in a bright blue shirt with his b
 Anchored Artifacts: A-2248.1, A-2248.2, A-2248.3
 Mentions: N-270, N-504
 
-Related Nodes: N-10781
+Related Nodes: N-10706
 
 Investigative Direction: Obtain original venue surveillance footage with verified timestamps; reconcile with credentialed-assistant duty roster.
 
@@ -1204,7 +1196,7 @@ Claim: In a clip of his Piers Morgan interview the host plays, asked how he coul
 Anchored Artifacts: A-2251.1
 Mentions: N-204, N-341
 
-Related Nodes: N-10785
+Related Nodes: N-10551
 
 Investigative Direction: Obtain the full Piers Morgan interview transcript; verify the exact wording and any prior inconsistent tellings.
 
@@ -1219,7 +1211,7 @@ Claim: In his Piers Morgan interview, Victor Marx stated that at age 7, his step
 Anchored Artifacts: A-2251.2
 Mentions: N-204, N-341
 
-Related Nodes: N-10785
+Related Nodes: N-10551
 
 Investigative Direction: Verify statement against the full interview; cross-check with any prior public tellings; corroborate location if possible.
 
@@ -1234,7 +1226,7 @@ Claim: When asked by Piers Morgan whether false memories could account for his c
 Anchored Artifacts: A-2251.2
 Mentions: N-204, N-341
 
-Related Nodes: N-10785
+Related Nodes: N-10551
 
 Investigative Direction: Verify the full exchange; identify Victor Marx's specific trauma-specialist visit count claim (he cited 123 visits) for corroboration.
 
@@ -1249,7 +1241,7 @@ Claim: Piers Morgan stated during the interview that local law enforcement and s
 Anchored Artifacts: A-2251.2
 Mentions: N-204, N-341
 
-Related Nodes: N-10785
+Related Nodes: N-10551
 
 Investigative Direction: Submit records requests to Mississippi-area sheriff and municipal police departments for the relevant time period; obtain on-record denials or confirmations.
 
@@ -1294,7 +1286,7 @@ Claim: The host asserts that the 'Protecting Mrs. Kirk' group chat was brought t
 Anchored Artifacts: A-2246.1 (organizer not identified in artifact)
 Mentions: N-2, N-3
 
-Related Nodes: N-10780
+Related Nodes: N-10705
 
 Investigative Direction: Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Foundation / Daily Wire public records.
 
@@ -1311,7 +1303,7 @@ Claim: The host says it is terrifying that they are sharing her address in priva
 Anchored Artifacts: A-2246.1, A-2253.4
 Mentions: N-2, N-3
 
-Related Nodes: N-10780
+Related Nodes: N-10705
 
 Investigative Direction: Compare commenter characterization against Shady Lady Katie's quoted text for consistency; pursue any screenshot evidence of the actual address disclosure.
 
@@ -1327,7 +1319,7 @@ Transcript Snippet: that's a lie Tyler Robinson is not transgendered I told you 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-54, N-775
-Related Nodes: N-10782
+Related Nodes: N-10707
 Investigative Direction: Compare the influencer statements on the list against charging documents and hearing testimony.
 
 ---
@@ -1342,7 +1334,7 @@ Transcript Snippet: We were told that Tyler Robinson's gun was officially tied t
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-1
-Related Nodes: N-10782
+Related Nodes: N-10707
 Investigative Direction: Obtain the ATF examiner's preliminary-hearing testimony and the lab report on the fragments.
 
 ---
@@ -1357,7 +1349,7 @@ Transcript Snippet: Piers Morgan interviewed one of her spiritual adviserss, Vic
 
 Anchored Artifacts: 
 Mentions: N-3, N-204, N-341, N-2
-Related Nodes: N-10605
+Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Obtain the Piers Morgan interview and public records of Victor Marx's advisory role to Erika Kirk or TPUSA.
 
@@ -1373,7 +1365,7 @@ Transcript Snippet: He worked for a Utah County Sheriff's Office, but specifical
 
 Anchored Artifacts: A-2987.1
 Mentions: N-3, N-506
-Related Nodes: N-10784
+Related Nodes: N-10709
 Tags: relevance:core
 Investigative Direction: Obtain Utah County Sheriff's Office personnel and assignment records for Christopher Bagley and his UVU hiring file.
 
@@ -1389,7 +1381,7 @@ Transcript Snippet: Various decoys like George Zinn arrested for child pornograp
 
 Anchored Artifacts: 
 Mentions: N-3, N-42
-Related Nodes: N-10097
+Related Nodes: N-10093
 Supports: C-157
 Tags: relevance:core
 Investigative Direction: Obtain the Zinn arrest record, charging documents and booking date to confirm the charge and compare with the confession episode.
@@ -1422,7 +1414,7 @@ Transcript Snippet: we were able to find an undercover detective who was involve
 
 Anchored Artifacts: 
 Mentions: N-3, N-125, N-40
-Related Nodes: N-10151
+Related Nodes: N-10146
 Supports: C-1108
 Tags: relevance:core
 Investigative Direction: Match the detective's service record and photographs against the Boy Scouts leader Mike Mitchell and his Washington County retirement.
@@ -1439,7 +1431,7 @@ Transcript Snippet: feds do turn would be criminals into assets. You catch them 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10598, N-10106
+Related Nodes: N-10545, N-10102
 Tags: relevance:context
 Investigative Direction: Identify any documented case of the Utah cyber crimes unit recruiting suspects and any link to persons in this case.
 
@@ -1455,7 +1447,7 @@ Transcript Snippet: Tyler's father turned him in. I have disputed this from the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-775, N-40
-Related Nodes: N-10022, N-10782
+Related Nodes: N-10022, N-10707
 Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Compare the charging documents and the surrender timeline with the father's account to determine who initiated contact with police.
@@ -1472,7 +1464,7 @@ Transcript Snippet: I believe Andrew Kolvet admitted that Bill Ackman did not gi
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-14, N-775
-Related Nodes: N-10022, N-10037
+Related Nodes: N-10022, N-10036
 Tags: relevance:core
 Investigative Direction: Locate Kolvet's on-air or written statement and Ackman's original reward tweet.
 
@@ -1488,7 +1480,7 @@ Transcript Snippet: there is a video of Tyler Robinson taking the shot in 4K by 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10782
+Related Nodes: N-10707
 Tags: relevance:core
 Investigative Direction: Collect the influencers' original 4K video statements and compare them with exhibits entered at the preliminary hearing.
 
@@ -1504,7 +1496,7 @@ Transcript Snippet: Then suddenly the the boyfriend Lance testifies that he's ne
 
 Anchored Artifacts: A-2988.1
 Mentions: N-3, N-54, N-40, N-1
-Related Nodes: N-10825, N-10679
+Related Nodes: N-10748, N-10617
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary hearing transcript of Lance's testimony on motive and political discussions.
 
@@ -1520,7 +1512,7 @@ Transcript Snippet: He had never mentioned the name Charlie Kirk to him ever. Wh
 
 Anchored Artifacts: A-2988.1
 Mentions: N-3, N-54, N-40, N-1
-Related Nodes: N-10825, N-10679
+Related Nodes: N-10748, N-10617
 Tags: relevance:core
 Investigative Direction: Obtain Lance's preliminary hearing testimony and compare it with the text messages attributed to Tyler.
 
@@ -1536,7 +1528,7 @@ Transcript Snippet: We were told that there is footage of Tyler Robinson assembl
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-159
-Related Nodes: N-10020, N-10782
+Related Nodes: N-10020, N-10707
 Tags: relevance:core
 Investigative Direction: Obtain Neff's original and edited post and any exhibit list from the preliminary hearing.
 
@@ -1552,7 +1544,7 @@ Transcript Snippet: What we have been presented with is blurry footage of a car 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10782
+Related Nodes: N-10707
 Tags: relevance:core
 Investigative Direction: Obtain the car footage exhibits and the vehicle registration data presented at the preliminary hearing.
 
@@ -1568,7 +1560,7 @@ Transcript Snippet: We were told Tyler Robinson was suicidal. That is a lie.
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11012
+Related Nodes: N-10932
 Tags: relevance:core
 Investigative Direction: Compare the indictment and Utah County filings that describe a father reporting suicidal ideation.
 
@@ -1584,7 +1576,7 @@ Transcript Snippet: He agreed to go in peaceibly rather than subject himself to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11012, N-10031
+Related Nodes: N-10932, N-10031
 Tags: relevance:core
 Investigative Direction: Identify the host's source and obtain the surrender timeline and any police communication log.
 
@@ -1600,7 +1592,7 @@ Transcript Snippet: And in fact, it didn't cover a 3006. It didn't cover a 306.
 
 Anchored Artifacts: A-2988.2
 Mentions: N-3, N-40
-Related Nodes: N-10572, N-10319, N-10975
+Related Nodes: N-10523, N-10300, N-10896
 Supports: C-11839
 Tags: relevance:core
 Investigative Direction: Obtain the ATF examiner's preliminary hearing testimony and lab report on caliber and class characteristics.
@@ -1617,7 +1609,7 @@ Transcript Snippet: every time they said this in the public, they refused to say
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10711, N-10782
+Related Nodes: N-10647, N-10707
 Supports: C-4292
 Tags: relevance:core
 Investigative Direction: Obtain the latent print and DNA report from the preliminary hearing record.
@@ -1634,7 +1626,7 @@ Transcript Snippet: of which one were his owned by his father and the other by L
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-54, N-775
-Related Nodes: N-10711, N-10598
+Related Nodes: N-10647, N-10545
 Tags: relevance:core
 Investigative Direction: Obtain the print comparison results naming each contributor.
 
@@ -1650,7 +1642,7 @@ Transcript Snippet: because Terryl Farnworth took out we watched him take out an
 
 Anchored Artifacts: 
 Mentions: N-3, N-261
-Related Nodes: N-10808, N-10162, N-10810
+Related Nodes: N-10732, N-10156, N-10734
 Tags: relevance:core
 Investigative Direction: Obtain the chain-of-custody log for the Farnsworth footage and the device type recorded by police.
 
@@ -1666,7 +1658,7 @@ Transcript Snippet: this tells me that it is plausible that that footage was edi
 
 Anchored Artifacts: 
 Mentions: N-3, N-261
-Related Nodes: N-10810
+Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Compare the original camera file metadata with the version entered into evidence.
 
@@ -1682,7 +1674,7 @@ Transcript Snippet: all they're left with right now is a text message confession
 
 Anchored Artifacts: A-2988.3
 Mentions: N-3, N-54
-Related Nodes: N-10713, N-10077
+Related Nodes: N-10649, N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary hearing exhibits showing the extraction of the messages.
 
@@ -1698,7 +1690,7 @@ Transcript Snippet: Mind you, Lance should be a suspect in this. His prints are 
 
 Anchored Artifacts: 
 Mentions: N-3, N-54
-Related Nodes: N-10598
+Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Review Lance's testimony on alibi and any immunity or cooperation agreement.
 
@@ -1714,7 +1706,7 @@ Transcript Snippet: And those messages were presented without any time stamps.
 
 Anchored Artifacts: A-2988.3
 Mentions: N-3
-Related Nodes: N-10039, N-10030
+Related Nodes: N-10030
 Tags: relevance:core
 Investigative Direction: Obtain the exhibit images and the extraction report metadata.
 
@@ -1730,7 +1722,7 @@ Transcript Snippet: we also saw testimony in court that the police moved to use 
 
 Anchored Artifacts: A-2988.3
 Mentions: N-3
-Related Nodes: N-11207, N-10713, N-10026
+Related Nodes: N-11123, N-10649, N-10026
 Tags: relevance:core
 Investigative Direction: Obtain the testimony identifying the extraction vendor and the extraction report.
 
@@ -1746,7 +1738,7 @@ Transcript Snippet: we all kind of think Israel killed Charlie Kirk just based o
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10026, N-10056
+Related Nodes: N-10026, N-10053
 Tags: relevance:core
 Investigative Direction: No evidence is offered on air; request any record supporting Israeli involvement, which the host does not supply.
 
@@ -1762,7 +1754,7 @@ Transcript Snippet: In Tyler Robinson's text messages, we actual American Englis
 
 Anchored Artifacts: A-2988.3
 Mentions: N-3, N-40
-Related Nodes: N-10038
+Related Nodes: N-10037
 Tags: relevance:core
 Investigative Direction: Obtain the full message text and run a linguistic comparison against Tyler's known writing.
 
@@ -1778,7 +1770,7 @@ Transcript Snippet: it is of course entirely plausible that someone gained acces
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10713, N-10077
+Related Nodes: N-10649, N-10074
 Tags: relevance:core
 Investigative Direction: Request iCloud access logs and device identifiers for the message account.
 
@@ -1794,7 +1786,7 @@ Transcript Snippet: Tyler's legal team, despite reasonable protestations, were n
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10570, N-11149
+Related Nodes: N-10521, N-11065
 Tags: relevance:core
 Investigative Direction: Obtain defense discovery motions and the court's rulings before the hearing.
 
@@ -1810,7 +1802,7 @@ Transcript Snippet: They testified that they had not even been given access to t
 
 Anchored Artifacts: A-2988.4
 Mentions: N-3, N-40
-Related Nodes: N-10623, N-11068
+Related Nodes: N-10569, N-10986
 Tags: relevance:core
 Investigative Direction: Obtain the extension request and the transcript of the ruling on hearsay.
 
@@ -1826,7 +1818,7 @@ Transcript Snippet: the victim on this case, Erika Kirk, is inviting influencers
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-11065
+Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Obtain the court seating and press credential records for the preliminary hearing.
 
@@ -1842,7 +1834,7 @@ Transcript Snippet: is contracting the services of and platforming people who ar
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11017
+Related Nodes: N-10000, N-10937
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA payment and contract records for the influencers named.
 
@@ -1858,7 +1850,7 @@ Transcript Snippet: this person hosted uh a spaces on X and went on record admit
 
 Anchored Artifacts: A-2989.1
 Mentions: N-3, N-1
-Related Nodes: N-10780
+Related Nodes: N-10705
 Supports: C-11860
 Tags: relevance:core
 Investigative Direction: Locate the archived X Spaces recording and identify the host.
@@ -1875,7 +1867,7 @@ Transcript Snippet: Uh they collaborated with a Daily Wire employee Kassy Akiva,
 
 Anchored Artifacts: A-2989.1
 Mentions: N-3, N-821, N-437, N-22
-Related Nodes: N-10670, N-10780
+Related Nodes: N-10610, N-10705
 Supports: C-11860
 Tags: relevance:core
 Investigative Direction: Identify the organizer, the Spaces recording and any public record of the files described.
@@ -1892,7 +1884,7 @@ Transcript Snippet: sharing information, background checks, reporting accounts, 
 
 Anchored Artifacts: A-2246.2
 Mentions: N-3
-Related Nodes: N-10780
+Related Nodes: N-10705
 Tags: relevance:core
 Investigative Direction: Obtain the original posts and any screenshots of the chat activity.
 
@@ -1908,7 +1900,7 @@ Transcript Snippet: However, I will say that not everyone here participated. Som
 
 Anchored Artifacts: A-2246.2
 Mentions: N-3
-Related Nodes: N-10780
+Related Nodes: N-10705
 Tags: relevance:core
 Investigative Direction: Compare the member list against each account's observed activity.
 
@@ -1924,7 +1916,7 @@ Transcript Snippet: Milk Bar TV, No Soup for Knowles, Paramount, Not So Tactical
 
 Anchored Artifacts: A-2989.2
 Mentions: N-3
-Related Nodes: N-10899, N-10780
+Related Nodes: N-10820, N-10705
 Tags: relevance:core
 Investigative Direction: Obtain the full member list from the original post and match handles to the accounts.
 
@@ -1940,7 +1932,7 @@ Transcript Snippet: Baron Coleman, hey, did you did you see this video? Give him
 
 Anchored Artifacts: 
 Mentions: N-3, N-330, N-2
-Related Nodes: N-10780
+Related Nodes: N-10705
 Tags: relevance:context
 Investigative Direction: Obtain the host's contact records with outside researchers if the claim is disputed.
 
@@ -1956,7 +1948,7 @@ Transcript Snippet: the one who worked on the Trust Us, bro. Charlie definitely 
 
 Anchored Artifacts: 
 Mentions: N-3, N-633, N-1, N-2
-Related Nodes: N-10070, N-10743
+Related Nodes: N-10067, N-10675
 Tags: relevance:context
 Investigative Direction: Identify the Daily Mail article and the video it relied on.
 
@@ -1972,7 +1964,7 @@ Transcript Snippet: Foreign operatives sending me the video of the rooftop?
 
 Anchored Artifacts: A-2252.1
 Mentions: N-3, N-1
-Related Nodes: N-10780
+Related Nodes: N-10705
 Contradicts: C-11869
 Tags: relevance:core
 Investigative Direction: Obtain the provenance of the rooftop video and car interior pictures from the host's tip submissions.
@@ -2021,7 +2013,7 @@ Transcript Snippet: you, Danny Phillip, Mikey McCoy, and uh Nate Walker all walk
 
 Anchored Artifacts: 
 Mentions: N-3, N-159, N-367, N-190, N-504
-Related Nodes: N-11208, N-10573
+Related Nodes: N-11124, N-10524
 Tags: relevance:core
 Investigative Direction: Obtain hospital entry video and staff accounts of who arrived together and by what vehicle.
 
@@ -2037,7 +2029,7 @@ Transcript Snippet: just a new assistant the one who supplied Charles with that 
 
 Anchored Artifacts: A-2248.1
 Mentions: N-3, N-504, N-1
-Related Nodes: N-10723, N-10781
+Related Nodes: N-10658, N-10706
 Tags: relevance:core
 Investigative Direction: Obtain purchase or supply records for the shirt and Walker's employment start date.
 
@@ -2085,7 +2077,7 @@ Transcript Snippet: He chose to have three children, one in 2013, one in 2015, a
 
 Anchored Artifacts: 
 Mentions: N-3, N-822
-Related Nodes: N-11209
+Related Nodes: N-11125
 Tags: relevance:tangential
 Investigative Direction: Review Hilton's public statements on his children.
 
@@ -2101,7 +2093,7 @@ Transcript Snippet: on March 23rd, he posted videos of himself from a hospital b
 
 Anchored Artifacts: 
 Mentions: N-3, N-822
-Related Nodes: N-11209
+Related Nodes: N-11125
 Tags: relevance:tangential
 Investigative Direction: Locate the March 23 posts.
 
@@ -2117,7 +2109,7 @@ Transcript Snippet: which ran live on TikTok, Perez Hilton was fully naked, dren
 
 Anchored Artifacts: A-2249.1
 Mentions: N-3, N-822
-Related Nodes: N-11209, N-11103
+Related Nodes: N-11125, N-11021
 Tags: relevance:tangential
 Investigative Direction: Rely on NBC and sheriff's office reporting rather than the video.
 
@@ -2133,7 +2125,7 @@ Transcript Snippet: He's on video and he's saying things like, "I am doing this 
 
 Anchored Artifacts: A-2249.1
 Mentions: N-3, N-822
-Related Nodes: N-11209
+Related Nodes: N-11125
 Tags: relevance:tangential
 Investigative Direction: Rely on police and media reporting of the incident.
 
@@ -2149,7 +2141,7 @@ Transcript Snippet: how Hollywood was set up truly, it was meant to be a cult. I
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11121
+Related Nodes: N-11039
 Tags: relevance:tangential
 Investigative Direction: No supporting record is cited; this is the host's thesis.
 
@@ -2197,7 +2189,7 @@ Transcript Snippet: The same vicious crisis PR firms uh that employed Hollywood 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11017
+Related Nodes: N-10000, N-10937
 Tags: relevance:context
 Investigative Direction: Identify the firms and contracts; none is named.
 
@@ -2213,7 +2205,7 @@ Transcript Snippet: Piers Morgan interviewed Victor Marx and tweeted that it was
 
 Anchored Artifacts: A-2990.1
 Mentions: N-3, N-204, N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Tags: relevance:context
 Investigative Direction: Locate Piers Morgan's tweet.
 
@@ -2245,7 +2237,7 @@ Transcript Snippet: I studied false memories and had 123 visits to a trauma spec
 
 Anchored Artifacts: A-2251.2
 Mentions: N-204, N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Supports: C-11894
 Tags: relevance:context
 Investigative Direction: Verify the figure against the full interview.
@@ -2278,7 +2270,7 @@ Transcript Snippet: You got Frank Turek hoping you saying signaling that I shoul
 
 Anchored Artifacts: 
 Mentions: N-3, N-7
-Related Nodes: N-10091
+Related Nodes: N-10087
 Tags: relevance:context
 Investigative Direction: Locate the Turek statement the host refers to.
 
@@ -2294,7 +2286,7 @@ Transcript Snippet: I was a bit uneducated when I said that I believed that you 
 
 Anchored Artifacts: A-2991.1
 Mentions: N-3
-Related Nodes: N-10751
+Related Nodes: N-10681
 Revises: C-11819
 Tags: relevance:context
 Investigative Direction: Review the Church document the emailer cited.
@@ -2311,7 +2303,7 @@ Transcript Snippet: The Catholic Church grew so much after Charlie's assassinati
 
 Anchored Artifacts: A-2253.3
 Mentions: N-3, N-1
-Related Nodes: N-10564, N-11210
+Related Nodes: N-10516, N-11126
 Tags: relevance:tangential
 Investigative Direction: Compare Catholic convert and Southern Baptist membership statistics for 2025 and 2026.
 
@@ -2327,7 +2319,7 @@ Transcript Snippet: when they were publishing my kids' cars and stuff that and i
 
 Anchored Artifacts: A-2253.4
 Mentions: N-3
-Related Nodes: N-10780
+Related Nodes: N-10705
 Tags: relevance:context
 Investigative Direction: Identify the posts and accounts that published the vehicles.
 
@@ -2375,7 +2367,7 @@ Transcript Snippet: nobody that is a part of the Pepsi network has been taken do
 
 Anchored Artifacts: A-2253.5
 Mentions: N-3, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Review Epstein file releases and prosecutions to date.
 
@@ -2407,7 +2399,7 @@ Transcript Snippet: that they're supposed to be saying whether or not they're go
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Check the court docket for the September 1 date and the hearing outcome.
 
@@ -2423,7 +2415,7 @@ Transcript Snippet: certainly don't think Tyler Robinson killed Charlie Kirk on 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-1
-Related Nodes: N-10782
+Related Nodes: N-10707
 Tags: relevance:core
 Investigative Direction: Await trial evidence; this is the host's stated belief.
 

@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-931, N-11378
-  - Hole-minted Nodes (reintro-ep019): N-190, N-268, N-10198, N-10218, N-10226, N-10338, N-10346, N-10561, N-10635, N-10806, N-393
-  - Tip-minted Nodes (reintro-ep019): N-11093
+  - Tip-minted Nodes (supplement_2026-10g): N-931, N-11294
+  - Hole-minted Nodes (reintro-ep019): N-190, N-268, N-10190, N-10214, N-10324, N-10513, N-10581, N-10730, N-393
+  - Tip-minted Nodes (reintro-ep019): N-11011
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1710–C-1804
-  - New Nodes Introduced: N-179, N-182, N-183, N-184, N-185, N-186, N-187, N-188, N-10191, N-10193, N-10194, N-10195
-  - Reused Nodes Appearing: N-180, N-181, N-10192, N-2, N-10003, N-10004, N-10056, N-10076, N-10112, N-10148, N-10167, N-10187, N-10389, N-10799
+  - New Nodes Introduced: N-179, N-182, N-183, N-184, N-185, N-186, N-187, N-188, N-10183, N-10185, N-10186, N-10187
+  - Reused Nodes Appearing: N-180, N-181, N-10184, N-2, N-10003, N-10004, N-10053, N-10073, N-10108, N-10143, N-10160, N-10179, N-10362, N-10723
 - **Monument Episode:** 19, N-11
 - **Batch:** 9
 - **Channel / creator:** Candace Owens (@RealCandaceO)
@@ -35,7 +35,7 @@
 - **Artifact Families Introduced:** A-1260, A-1261, A-1262, A-1263, A-1264, A-1265, A-1266, A-1267, A-1268, A-1269
 - **Claim Range:** C-1734–C-1802
 - **New People Nodes Introduced:** N-179, N-180, N-7, N-130, N-181, N-182, N-183, N-184, N-185, N-186, N-14, N-187, N-188
-- **New Investigation Targets Introduced:** N-10191, N-10192, N-10193, N-10194, N-10195
+- **New Investigation Targets Introduced:** N-10183, N-10184, N-10185, N-10186, N-10187
 - **Existing Nodes Reused (referenced):** Charlie Kirk, Candace Owens, Erika Kirk, Tyler Robinson, Mikey McCoy, Pastor Rob McCoy, Tyler Bowyer, Kanye West, Joe Rogan, Donald Trump Jr.
 
 ---
@@ -288,7 +288,7 @@ Video Timestamp: 00:17:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-1749, C-1750, C-1751, C-1752, C-1754, C-1755, C-1756, C-1757, C-1758, C-1759, C-1760, N-3, N-180, N-10192*
+*Related: C-1749, C-1750, C-1751, C-1752, C-1754, C-1755, C-1756, C-1757, C-1758, C-1759, C-1760, N-3, N-180, N-10184*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:18:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-1753, N-3, N-180, N-1, N-10799*
+*Related: C-1753, N-3, N-180, N-1, N-10723*
 
 ---
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:21:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-1761, N-11, N-180, N-10346*
+*Related: C-1761, N-11, N-180, N-10324*
 
 ---
 
@@ -407,7 +407,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10192*
+*Related: N-10184*
 
 ---
 
@@ -515,7 +515,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10191** 834ms Phone Timing Analysis
+**N-10183** 834ms Phone Timing Analysis
 
 Investigable measurement: claimed time between gunshot audio and Mikey McCoy's phone-to-ear motion based on host's frame-by-frame review of event footage.
 
@@ -528,7 +528,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10192** Camera Operator Behavior Pattern
+**N-10184** Camera Operator Behavior Pattern
 
 Investigable question regarding the camera operator's post-shot conduct: immediate selfie recording, premature announcement of death, brief flight distance, and delayed camera takedown.
 
@@ -541,7 +541,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Persistent investigative target: the absence of any public release or response from Mikey McCoy regarding who he was calling at 12:23 p.m. on 2025-09-10, despite host's stated attempts to obtain comment.
 
@@ -554,7 +554,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10194** TPUSA Succession Plan Disclosure Timeline
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 Investigable question: how Pastor Rob McCoy possessed knowledge of a TPUSA succession plan four days post-event, and the relationship between that disclosure and the implementation timeline.
 
@@ -567,7 +567,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10195** Josh Hammer Defamation Threat
+**N-10187** Josh Hammer Defamation Threat
 
 Investigable matter: Josh Hammer's reported threat of defamation action against Candace Owens following her discussion of Charlie Kirk's Israel-related text messages.
 
@@ -613,7 +613,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -621,7 +621,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10076** Cameragate Investigation
+**N-10073** Cameragate Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -629,7 +629,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10112** Lone-Shooter Narrative Critique
+**N-10108** Lone-Shooter Narrative Critique
 
 Existing topic reused for new claims in this episode.
 
@@ -637,7 +637,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -645,7 +645,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10167** Tyler Bowyer X Defense Pattern
+**N-10160** Tyler Bowyer X Defense Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -653,7 +653,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10187** Josh Hammer Text Messages Context
+**N-10179** Josh Hammer Text Messages Context
 
 Existing topic reused for new claims in this episode.
 
@@ -661,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Existing topic reused for new claims in this episode.
 
@@ -669,15 +669,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10218** McCoy Succession Plan
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-1728, C-1729, C-1771*
-
----
-
-**N-10226** Mikey McCoy Phone Call Sequence Anomaly
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Existing topic reused for new claims in this episode.
 
@@ -685,15 +677,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-1730, C-1735, C-1736*
-
----
-
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims in this episode.
 
@@ -701,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10389** Charlie Kirk Premonition Dreams
+**N-10362** Charlie Kirk Premonition Dreams
 
 Existing topic reused for new claims in this episode.
 
@@ -709,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10561** Stacy Sheridan September 10 Location Verification
+**N-10513** Stacy Sheridan September 10 Location Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -717,7 +701,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10635** Lead-up Footage Absence
+**N-10581** Lead-up Footage Absence
 
 Existing topic reused for new claims in this episode.
 
@@ -725,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10799** Back-Camera Footage Discrepancy
+**N-10723** Back-Camera Footage Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -733,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10806** Charlie Kirk Pre-Event Text Messages
+**N-10730** Charlie Kirk Pre-Event Text Messages
 
 Existing topic reused for new claims in this episode.
 
@@ -741,7 +725,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11093** Utah Back-to-Back Tour Stops Anomaly
+**N-11011** Utah Back-to-Back Tour Stops Anomaly
 
 Existing topic reused for new claims in this episode.
 
@@ -821,7 +805,7 @@ First named by the host at 00:01:39 in episode 19. Described by the host as a bi
 
 ---
 
-**N-11378** Candace Owens Handler Thesis After Kanye Tweet
+**N-11294** Candace Owens Handler Thesis After Kanye Tweet
 
 Node Type: Topic
 The host's theory that handlers were sent out after Kanye West's 2018 tweet to break apart her and Charlie Kirk and then manage them.
@@ -841,7 +825,7 @@ Claim: The host says that in a slowed-down clip it is exactly 834 milliseconds f
 Anchored Artifacts: A-1261.1
 Mentions: N-190
 
-Related Nodes: N-10191, N-10193
+Related Nodes: N-10183, N-10185
 
 Investigative Direction: Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10.
 
@@ -856,7 +840,7 @@ Claim: The host says she and her team found what they think could be the moment,
 Anchored Artifacts: A-1261.3
 Mentions: N-190
 
-Related Nodes: N-10191, N-10193
+Related Nodes: N-10183, N-10185
 
 Investigative Direction: Cross-reference call log timestamps with footage timestamps to determine call duration and recipient.
 
@@ -871,7 +855,7 @@ Claim: The host says event-day footage shows Mikey McCoy in the background at Ch
 Anchored Artifacts: A-1261.2
 Mentions: N-1, N-190
 
-Related Nodes: N-10191, N-10193
+Related Nodes: N-10183, N-10185
 
 Investigative Direction: Verify timing continuity and identify any change in phone-use posture during the post-shot interval.
 
@@ -886,7 +870,7 @@ Claim: The host says the unnamed camera operator recorded a selfie video within 
 Anchored Artifacts: A-1262.1
 Mentions: N-180
 
-Related Nodes: N-10192
+Related Nodes: N-10184
 
 Investigative Direction: Obtain original selfie video metadata (timestamp, device, file hash) and authenticate chain of custody.
 
@@ -901,7 +885,7 @@ Claim: In the selfie video, the camera operator states "He's dead."
 Anchored Artifacts: A-1262.1
 Mentions: N-180, N-1
 
-Related Nodes: N-10192
+Related Nodes: N-10184
 
 Investigative Direction: Obtain video and assess whether any medical assessment could have supported such a declaration at that moment.
 
@@ -916,7 +900,7 @@ Claim: The camera operator sent Candace Owens a video showing his actions during
 Anchored Artifacts: A-1262.2
 Mentions: N-180, N-3
 
-Related Nodes: N-10192
+Related Nodes: N-10184
 
 Investigative Direction: Obtain the original sent video and metadata to authenticate the four-minute pre-takedown window.
 
@@ -931,7 +915,7 @@ Claim: Pastor Rob McCoy publicly stated, four days after Charlie Kirk's death, t
 Anchored Artifacts: A-1260.1
 Mentions: N-17, N-1
 
-Related Nodes: N-10194
+Related Nodes: N-10186
 
 Investigative Direction: Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation.
 
@@ -1063,7 +1047,7 @@ Claim: Trailer references Josh Hammer stating he is "talking to lawyers" and bel
 Anchored Artifacts: A-1265.1
 Mentions: N-55
 
-Related Nodes: N-10195
+Related Nodes: N-10187
 
 Investigative Direction: Obtain any written cease-and-desist or formal litigation filing; verify Hammer's legal credentials and standing.
 
@@ -1177,7 +1161,7 @@ Claim: A viewer comment the host reads, from David Foster, says he was "more sho
 Anchored Artifacts: A-1269.9
 Mentions: N-180
 
-Related Nodes: N-10192
+Related Nodes: N-10184
 
 Investigative Direction: Corroborate viewer characterization against any independent frame-by-frame review of A-1262.1.
 
@@ -1206,7 +1190,7 @@ Claim: Host states she told someone to play devil's advocate for Mikey McCoy and
 Anchored Artifacts: A-1261.1 (the underlying footage that prompted the exercise)
 Mentions: N-190
 
-Related Nodes: N-10193
+Related Nodes: N-10185
 
 Investigative Direction: Document the scenarios considered and rejected.
 
@@ -1250,7 +1234,7 @@ Transcript Snippet: his quote unquote closest friends, his closest political all
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:context
 Investigative Direction: Compare the host's account with the public statements and schedules of Kirk's allies and the White House in the days after 2025-09-10.
 
@@ -1378,7 +1362,7 @@ Transcript Snippet: We were all going to maybe be on a group chat. Me, Tyler Bow
 
 Anchored Artifacts: 
 Mentions: N-3, N-11, N-14, N-186
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:context
 Investigative Direction: Ask the named individuals whether any such group chat existed after 2025-09-10; compare with the nine-member group chat described in episode 15.
 
@@ -1394,7 +1378,7 @@ Transcript Snippet: she's the one who's holding the camera when Charlie's casket
 
 Anchored Artifacts: 
 Mentions: N-186, N-1
-Related Nodes: N-10561
+Related Nodes: N-10513
 Tags: relevance:context
 Investigative Direction: Identify the casket-arrival footage and confirm who was holding the camera; check Sheridan's own account.
 
@@ -1426,7 +1410,7 @@ Transcript Snippet: I am told that these people believe the official narrative. 
 
 Anchored Artifacts: 
 Mentions: N-3, N-11, N-14, N-186
-Related Nodes: N-10112
+Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Seek on-record statements from Bowyer, Kolvet and Sheridan on whether they accept the lone-shooter account.
 
@@ -1458,7 +1442,7 @@ Transcript Snippet: And I thought, I I got a plan for you, son. He said, "Dad, t
 
 Anchored Artifacts: A-3287.1
 Mentions: N-17, N-190
-Related Nodes: N-10218
+Related Nodes: N-10186
 Tags: relevance:core
 Investigative Direction: Obtain the full recording of the sermon and confirm which son is quoted and what plan is meant.
 
@@ -1474,7 +1458,7 @@ Transcript Snippet: Justin's the chief CFO, chief financial officer, and Mikey's
 
 Anchored Artifacts: A-3287.1
 Mentions: N-17, N-179, N-190
-Related Nodes: N-10218
+Related Nodes: N-10186
 Tags: relevance:context
 Investigative Direction: Compare against TPUSA leadership listings and filings for the McCoy sons' titles and start dates.
 
@@ -1490,7 +1474,7 @@ Transcript Snippet: the minute Charlie was shot, he called me, says, "Dad, Charl
 
 Anchored Artifacts: A-3287.1
 Mentions: N-17, N-190, N-1
-Related Nodes: N-10338, N-10198
+Related Nodes: N-10214, N-10190
 Tags: relevance:core
 Investigative Direction: Obtain McCoy's phone records for the call time and compare them with the host's phone-timing analysis (C-1734).
 
@@ -1506,7 +1490,7 @@ Transcript Snippet: But the bigger thing is that he says Mikey had blood all ove
 
 Anchored Artifacts: A-3287.1
 Mentions: N-17, N-190
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Re-listen to the sermon to settle whether McCoy meant Mikey or Charlie; compare to event footage of Mikey's clothing.
 
@@ -1522,7 +1506,7 @@ Transcript Snippet: Because Mikey was behind the tent when Charlie got shot
 
 Anchored Artifacts: 
 Mentions: N-190, N-1
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Map Mikey McCoy's position from stage and crowd footage and the UVU site plan.
 
@@ -1538,7 +1522,7 @@ Transcript Snippet: But he stops himself. He says, "I was watching." Watching wh
 
 Anchored Artifacts: A-3287.1
 Mentions: N-17
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Check the sermon audio wording (the clip reads "I'm watching" in the transcript) and ask McCoy what he was watching.
 
@@ -1554,7 +1538,7 @@ Transcript Snippet: there's no dialing. Mikey didn't have time to dial.
 
 Anchored Artifacts: A-1261.1
 Mentions: N-190
-Related Nodes: N-10226, N-10338
+Related Nodes: N-10214
 Supports: C-1734
 Tags: relevance:core
 Investigative Direction: Obtain the raw frame-level footage with audio sync and test whether a speed-dial is possible in that interval.
@@ -1571,7 +1555,7 @@ Transcript Snippet: The next time that you're going to see Mikey McCoy, as we ju
 
 Anchored Artifacts: A-1261.1
 Mentions: N-190
-Related Nodes: N-10226, N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Locate the camera angle showing both positions and confirm the elapsed time between the two sightings.
 
@@ -1587,7 +1571,7 @@ Transcript Snippet: maybe we missed it because that seems that seems automatic, 
 
 Anchored Artifacts: A-1261.1
 Mentions: N-190
-Related Nodes: N-10226, N-10635
+Related Nodes: N-10214, N-10581
 Tags: relevance:core
 Investigative Direction: Request the host's angle folder and verify the claim against independent footage compilations.
 
@@ -1603,7 +1587,7 @@ Transcript Snippet: Mikey was already on a phone call at 12:23 p. m. By 12:23 p.
 
 Anchored Artifacts: A-1261.1
 Mentions: N-190
-Related Nodes: N-10193
+Related Nodes: N-10185
 Supports: C-1741
 Tags: relevance:core
 Investigative Direction: Authenticate the footage clock against the 12:23 p.m. figure and request Mikey McCoy's call log for that time.
@@ -1620,7 +1604,7 @@ Transcript Snippet: I would have issued a statement um to dispel any rumors, but
 
 Anchored Artifacts: 
 Mentions: N-190, N-14
-Related Nodes: N-10193
+Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Search McCoy's and TPUSA's channels for any statement on the call; ask them directly.
 
@@ -1668,7 +1652,7 @@ Transcript Snippet: I've never at any college event ever in six years had that m
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-180
-Related Nodes: N-10192, N-10076
+Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Ask other TPUSA speakers and stage crews whether an AV operator normally stood beside the speaker at tour stops.
 
@@ -1684,7 +1668,7 @@ Transcript Snippet: He acknowledged that a lot of new stuff was happening on tha
 
 Anchored Artifacts: A-3288.1
 Mentions: N-3, N-180
-Related Nodes: N-10192, N-10076
+Related Nodes: N-10184, N-10073
 Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Play the host's recording of the call and list each change he describes.
@@ -1701,7 +1685,7 @@ Transcript Snippet: because obviously I recorded the phone call.
 
 Anchored Artifacts: A-3288.1
 Mentions: N-3, N-180
-Related Nodes: N-10192
+Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Obtain the recording, its date and the host's call notes; ask the camera man to confirm the call.
 
@@ -1717,7 +1701,7 @@ Transcript Snippet: he told me that a he had spoken only to uh Erika and the fed
 
 Anchored Artifacts: A-3288.1
 Mentions: N-180, N-2
-Related Nodes: N-10192, N-10076
+Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Compare with Erika Kirk's and the FBI's statements about who took custody of the camera footage.
 
@@ -1733,7 +1717,7 @@ Transcript Snippet: he had secured that foot footage because he wanted to preven
 
 Anchored Artifacts: A-3288.1
 Mentions: N-180, N-2
-Related Nodes: N-10192, N-10076
+Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Ask the camera man and Erika Kirk's office whether the footage was withheld for that reason.
 
@@ -1749,7 +1733,7 @@ Transcript Snippet: once I saw the footage on FaceTime when I realized that ther
 
 Anchored Artifacts: A-3289.1
 Mentions: N-3, N-1, N-180
-Related Nodes: N-10799, N-10192
+Related Nodes: N-10723, N-10184
 Tags: relevance:core
 Investigative Direction: Obtain the camera man's rear-camera footage and review what it shows of Charlie's neck and clothing.
 
@@ -1765,7 +1749,7 @@ Transcript Snippet: He then told me that he needed to speak with Turning Point l
 
 Anchored Artifacts: A-3288.1
 Mentions: N-180
-Related Nodes: N-10192, N-10076
+Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Ask TPUSA's counsel and the camera man whether lawyers advised on release.
 
@@ -1781,7 +1765,7 @@ Transcript Snippet: He then said, "Okay, yeah, I do own the footage. I just want
 
 Anchored Artifacts: A-3288.1
 Mentions: N-180
-Related Nodes: N-10192, N-10076
+Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Check the camera man's contract with TPUSA on footage ownership and who he coordinated with.
 
@@ -1797,7 +1781,7 @@ Transcript Snippet: He said, "I don't know how to send the footage." Like the fi
 
 Anchored Artifacts: A-3288.1
 Mentions: N-180
-Related Nodes: N-10192, N-10076
+Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Play the recording and ask the camera man to explain the file-size reason.
 
@@ -1813,7 +1797,7 @@ Transcript Snippet: I don't want to just send the footage over the internet uh t
 
 Anchored Artifacts: A-3288.1
 Mentions: N-180
-Related Nodes: N-10192, N-10076
+Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Play the recording and confirm the exact wording.
 
@@ -1829,7 +1813,7 @@ Transcript Snippet: he was on the phone with the ops that were back in Arizona w
 
 Anchored Artifacts: A-3288.1
 Mentions: N-180
-Related Nodes: N-10192, N-10226
+Related Nodes: N-10184, N-10214
 Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Identify the Arizona ops and obtain call logs for the camera man's phone at the time of the shooting.
@@ -1846,7 +1830,7 @@ Transcript Snippet: In fact, this was the first time we were doing it. He said t
 
 Anchored Artifacts: A-3288.1
 Mentions: N-180
-Related Nodes: N-10192, N-11093
+Related Nodes: N-10184, N-11011
 Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Check prior tour-stop production records for any Arizona remote-watch team and identify the two operators.
@@ -1863,7 +1847,7 @@ Transcript Snippet: wanted people to live cut the clips so that they could be th
 
 Anchored Artifacts: A-3288.1
 Mentions: N-180, N-1
-Related Nodes: N-10192
+Related Nodes: N-10184
 Tags: relevance:context
 Investigative Direction: Ask TPUSA social staff whether a live-clip desk operated from Arizona on 2025-09-10.
 
@@ -1879,7 +1863,7 @@ Transcript Snippet: It's also the reason that I knew that Tyler Bowyer was lying
 
 Anchored Artifacts: A-3290.1
 Mentions: N-3, N-11, N-180
-Related Nodes: N-10346, N-10167
+Related Nodes: N-10324, N-10160
 Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Retrieve Bowyer's tweet and compare it with the camera man's footage and any police statement on camera removal.
@@ -1896,7 +1880,7 @@ Transcript Snippet: So, he's next to and he is in front of Mikey McCoy when Char
 
 Anchored Artifacts: A-1262.2
 Mentions: N-180, N-190, N-1
-Related Nodes: N-10192, N-10198
+Related Nodes: N-10184, N-10190
 Tags: relevance:core
 Investigative Direction: Cross-check both men's positions across angles of the tent area.
 
@@ -1912,7 +1896,7 @@ Transcript Snippet: he saw in like a split second sees Charlie bleeding and runs
 
 Anchored Artifacts: A-1262.2
 Mentions: N-180, N-1
-Related Nodes: N-10192
+Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Review the rear-camera and selfie footage for his path and distance.
 
@@ -1928,7 +1912,7 @@ Transcript Snippet: chose to run just a few yards away up to a grassy knoll to t
 
 Anchored Artifacts: A-1262.1
 Mentions: N-180
-Related Nodes: N-10192
+Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Locate the spot on the UVU site plan and compare with the selfie background.
 
@@ -1944,7 +1928,7 @@ Transcript Snippet: That's the first time it was announced actually that Charlie
 
 Anchored Artifacts: A-1262.1
 Mentions: N-180, N-1
-Related Nodes: N-10192
+Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Compare the selfie timestamp with the first public or medical declarations of death.
 
@@ -1960,7 +1944,7 @@ Transcript Snippet: A minute after this ends is when he goes and gets the camera
 
 Anchored Artifacts: A-1262.1
 Mentions: N-180
-Related Nodes: N-10076, N-10346
+Related Nodes: N-10073, N-10324
 Tags: relevance:core
 Investigative Direction: Time the selfie file's end against footage of the camera takedown.
 
@@ -1976,7 +1960,7 @@ Transcript Snippet: I think it was actually Pastor McCoy speech. Charlie wanted 
 
 Anchored Artifacts: 
 Mentions: N-3, N-17, N-1
-Related Nodes: N-10218
+Related Nodes: N-10186
 Tags: relevance:context
 Investigative Direction: Locate the McCoy speech that the host means; the sentence is ambiguous in the transcript.
 
@@ -1992,7 +1976,7 @@ Transcript Snippet: You would think he would apologize for lying about Charlie's
 
 Anchored Artifacts: 
 Mentions: N-55, N-1
-Related Nodes: N-10187, N-10148, N-10056
+Related Nodes: N-10179, N-10143, N-10053
 Supports: C-1448
 Tags: relevance:context
 Investigative Direction: Compare Hammer's public statements on Kirk's Israel position with the text messages the host aired.
@@ -2009,7 +1993,7 @@ Transcript Snippet: a very vivid dream uh whereupon Charlie told me that he had 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10389
+Related Nodes: N-10362
 Supports: C-1405
 Tags: relevance:tangential
 Investigative Direction: Refer to the earlier episode where the dream was first described; no external record exists.
@@ -2026,7 +2010,7 @@ Transcript Snippet: He would wake up, we would text, and he would tell me about 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:context
 Investigative Direction: Obtain the message thread with Charlie's dream texts, with metadata.
 
@@ -2042,7 +2026,7 @@ Transcript Snippet: there was this period in April where Charlie kept insisting 
 
 Anchored Artifacts: A-1266.1
 Mentions: N-3, N-1
-Related Nodes: N-10389, N-10806
+Related Nodes: N-10362, N-10730
 Supports: C-1780
 Tags: relevance:context
 Investigative Direction: Obtain the full April message thread to verify dates, wording and frequency.
@@ -2059,7 +2043,7 @@ Transcript Snippet: a particular set of messages that were written on April 6th,
 
 Anchored Artifacts: A-1266.1
 Mentions: N-3, N-27, N-1
-Related Nodes: N-10004, N-10389
+Related Nodes: N-10004, N-10362
 Tags: relevance:context
 Investigative Direction: Match the thread date to Kanye West's tweet date from the public X record.
 
@@ -2075,7 +2059,7 @@ Transcript Snippet: Mikey McCoy has access to all of Charlie Kirk's messages. Th
 
 Anchored Artifacts: A-1266.1
 Mentions: N-190, N-1
-Related Nodes: N-10806, N-10389
+Related Nodes: N-10730, N-10362
 Tags: relevance:core
 Investigative Direction: Ask McCoy and TPUSA whether they hold Kirk's phone data and will confirm the thread.
 
@@ -2091,7 +2075,7 @@ Transcript Snippet: Charlie wrote to me you're going to be the iron lady of Amer
 
 Anchored Artifacts: A-1266.1
 Mentions: N-1, N-3
-Related Nodes: N-10003, N-10389
+Related Nodes: N-10003, N-10362
 Tags: relevance:context
 Investigative Direction: Authenticate the message as part of the April 2018 thread.
 
@@ -2107,7 +2091,7 @@ Transcript Snippet: If I tell you the true prophecy that I know in my gut, it's 
 
 Anchored Artifacts: A-1266.1
 Mentions: N-1, N-3
-Related Nodes: N-10389, N-10806
+Related Nodes: N-10362, N-10730
 Tags: relevance:context
 Investigative Direction: Authenticate the message and its place in the thread.
 
@@ -2123,7 +2107,7 @@ Transcript Snippet: He said, "I'm not really afraid of it, but I'm just telling 
 
 Anchored Artifacts: A-1266.1
 Mentions: N-1, N-3
-Related Nodes: N-10389, N-10806
+Related Nodes: N-10362, N-10730
 Tags: relevance:context
 Investigative Direction: Authenticate the reply and its timing against the prior messages.
 
@@ -2139,7 +2123,7 @@ Transcript Snippet: podcasters, people that make videos, people that are taking 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10112
+Related Nodes: N-10108
 Tags: relevance:context
 Investigative Direction: Ask the host to name the podcasters and funding relationships she has in mind.
 
@@ -2155,7 +2139,7 @@ Transcript Snippet: And to people that betrayed Charlie, you probably won't come
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: The host does not name the betrayers here; request her specific allegations.
 
@@ -2187,7 +2171,7 @@ Transcript Snippet: the many people that are involved in this, not the lone shoo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10112
+Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Ask the host which stages and which people she means, and what basis she has.
 
@@ -2203,7 +2187,7 @@ Transcript Snippet: Not the fake kind, not the Tyler Robinson kind, actual justi
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10112
+Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Track the Robinson prosecution record against the host's claim that it is not true justice.
 
@@ -2251,7 +2235,7 @@ Transcript Snippet: I think handlers were sent out to manage to first and foremo
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-27
-Related Nodes: N-10004, N-11378
+Related Nodes: N-10004, N-11294
 Tags: relevance:context
 Investigative Direction: The host promises later detail; look for her specific evidence of handlers in later episodes.
 
@@ -2315,7 +2299,7 @@ Transcript Snippet: How was Mikey McCoy confident enough to stay standing and wa
 
 Anchored Artifacts: A-1261.1
 Mentions: N-190
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Review stage-side footage of the crowd, Mikey McCoy and Frank Turek in the seconds after the shot.
 
@@ -2508,7 +2492,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-179 series onward for new entries)
-- [x] Non-person investigation targets use the 1000 series (N-10191 series onward)
+- [x] Non-person investigation targets use the 1000 series (N-10183 series onward)
 - [x] No speculative claims inscribed as evidence-backed claims without artifact anchor
 - [x] Names preserved exactly as appearing in transcript; uncertainties flagged
 - [x] Formatting consistent across sections

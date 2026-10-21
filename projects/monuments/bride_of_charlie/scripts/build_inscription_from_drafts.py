@@ -53,6 +53,9 @@ _LABEL_TO_JSONLD: dict[str, tuple[str, str]] = {
     "Place": ("Place", "place"),
     "Topic": ("Topic", "topic"),
     "InvestigationTarget": ("InvestigationTarget", "investigation_target"),
+    "Event": ("Event", "event"),
+    "Thing": ("Thing", "thing"),
+    "Investigation Question": ("InvestigationQuestion", "investigation_question"),
 }
 
 _OCC_FIELD_PATTERNS: list[tuple[str, re.Pattern[str]]] = [

@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-11219
-  - Hole-minted Nodes (reintro-ep017): N-181, N-10646, N-10650
-  - Tip-minted Nodes (reintro-ep017): N-11010
+  - Tip-minted Nodes (supplement_2026-10d): N-11135
+  - Hole-minted Nodes (reintro-ep017): N-181, N-10590, N-10592
+  - Tip-minted Nodes (reintro-ep017): N-10930
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1511–C-1607
-  - New Nodes Introduced: N-161, N-162, N-163, N-164, N-166, N-167, N-168, N-169, N-171, N-173, N-10174, N-10175, N-10177, N-10178, N-10179
-  - Reused Nodes Appearing: N-36, N-46, N-71, N-101, N-138, N-154, N-155, N-130, N-10000, N-10015, N-10018, N-10025, N-10027, N-10056, N-10106, N-10125, N-10163, N-10169, N-11099, N-10345, N-170, N-10176, N-10206
+  - New Nodes Introduced: N-161, N-162, N-163, N-164, N-166, N-167, N-168, N-169, N-171, N-173, N-10167, N-10168, N-10170, N-10171
+  - Reused Nodes Appearing: N-11361, N-36, N-46, N-71, N-101, N-138, N-154, N-155, N-130, N-10000, N-10015, N-10018, N-10025, N-10027, N-10053, N-10102, N-10120, N-10157, N-10162, N-11017, N-10323, N-170, N-10169, N-10198
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk – referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-11
 
@@ -40,7 +40,7 @@
 - Transcript Completeness Status: Full episode transcript provided; sponsor block segments retained verbatim
 - Analyst / Agent: OpenClaw Investigative Analysis Agent
 - Analysis Date: 2025-10-09
-- Ledger Continuation Summary: Episode 17 of Bride of Charlie Monument series; first three families carry new IDs A-1236+ for Josh Hammer and Yashar Ali artifacts, C-1520+ for claim range, N-14+ for new people, N-10174+ for new investigation targets
+- Ledger Continuation Summary: Episode 17 of Bride of Charlie Monument series; first three families carry new IDs A-1236+ for Josh Hammer and Yashar Ali artifacts, C-1520+ for claim range, N-14+ for new people, N-10167+ for new investigation targets
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:06:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1520, C-1522, C-1570, N-14, N-10174*
+*Related: C-1520, C-1522, C-1570, N-14, N-10167*
 
 ---
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:07:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text captured verbatim in transcript)
 
-*Related: C-1522, C-1525, N-14, N-161, N-162, N-10179*
+*Related: C-1522, C-1525, N-14, N-161, N-162, N-10171*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:13:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text captured verbatim in transcript)
 
-*Related: C-1531, N-163, N-162, N-10179*
+*Related: C-1531, N-163, N-162, N-10171*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:14:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (paraphrase with quoted phrases; read aloud)
 
-*Related: C-1533, N-14, N-10174*
+*Related: C-1533, N-14, N-10167*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:11:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-constructed from X timeline, partial primary verification possible)
 
-*Related: C-1529, N-14, N-10174*
+*Related: C-1529, N-14, N-10167*
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:20:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in episode with full transcriptable quote)
 
-*Related: C-1538, C-1540, C-1551, N-14, N-171, N-10178, N-43*
+*Related: C-1538, C-1540, C-1551, N-14, N-171, N-10016, N-43*
 
 ---
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:29:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1549, C-1551, C-1584, N-164, N-10178*
+*Related: C-1549, C-1551, C-1584, N-164, N-10016*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:53:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1584, C-1585, N-93, N-167, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-10176*
+*Related: C-1584, C-1585, N-93, N-167, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-10169*
 
 ---
 
@@ -367,7 +367,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1237.1, C-1522, N-14, N-10179*
+*Related: A-1237.1, C-1522, N-14, N-10171*
 
 ---
 
@@ -383,7 +383,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (factual anchor only)
 
-*Related: A-1237.1, A-1238.1, A-1250.1, C-1525, N-14, N-10179*
+*Related: A-1237.1, A-1238.1, A-1250.1, C-1525, N-14, N-10171*
 
 ---
 
@@ -409,7 +409,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1243.1, C-1549, C-1551, C-1584, N-10178*
+*Related: A-1243.1, C-1549, C-1551, C-1584, N-10016*
 
 ---
 
@@ -437,7 +437,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1246.1, C-1584, N-10176*
+*Related: A-1246.1, C-1584, N-10169*
 
 ---
 
@@ -450,7 +450,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1246.1, N-10176*
+*Related: A-1246.1, N-10169*
 
 ---
 
@@ -463,7 +463,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1584, N-10176*
+*Related: C-1584, N-10169*
 
 ---
 
@@ -543,7 +543,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1, N-14, N-10178*
+*Related: N-1, N-14, N-10016*
 
 ---
 
@@ -569,7 +569,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1246.1, N-10176*
+*Related: A-1246.1, N-10169*
 
 ---
 
@@ -582,7 +582,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1246.1, N-10176*
+*Related: A-1246.1, N-10169*
 
 ---
 
@@ -601,7 +601,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10174** Josh Hammer September 9 Retweet Context Investigation
+**N-10167** Josh Hammer September 9 Retweet Context Investigation
 
 Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zarutska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).
 
@@ -614,7 +614,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10175** UVU Left-Side Footage Black Hole
+**N-10168** UVU Left-Side Footage Black Hole
 
 Investigation target: the absence of video from the audience's left / Charlie's left side at the September 10 UVU event. Host issues All-Points Bulletin to UVU attendees for footage of older males with hair tied in ponytails or buns, and from the missing-angle sector.
 
@@ -627,7 +627,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10176** Candace Kill Switch / Dead Man Switch
+**N-10169** Candace Kill Switch / Dead Man Switch
 
 Investigation target / verification node: the existence, recipients, and content of Candace Owens's "kill switch" – confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.
 
@@ -640,7 +640,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10177** Charlie Kirk Final-Days Text Communications
+**N-10170** Charlie Kirk Final-Days Text Communications
 
 Investigation target: the existence and provenance of text communications from Charlie Kirk on or around the day of his death, specifically (a) "they are going to kill me" texts to unnamed recipients, and (b) texts expressing concern about Israel infringing on American speech. Host references both; neither artifact is displayed in this episode.
 
@@ -655,7 +655,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10178** Hamptons Meeting Verification
+**N-10016** Hamptons Meeting Pressure Investigation
 
 Investigation target: the gathering in the Hamptons at which, per host, Seth Dillon and Josh Hammer pressed Charlie on his shifting Israel views. Reference is host narrative; the episode's matching audio artifacts come from the JTV and Wolicki interviews (A-1242.1, A-1243.1) concerning a different meeting.
 
@@ -668,7 +668,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10179** Iryna Zarutska Murder Timeline Verification
+**N-10171** Iryna Zarutska Murder Timeline Verification
 
 Investigation target: the public timeline of the August 22, 2025 Charlotte murder, arrest, and September 5 footage release. Episode uses this to falsify the Yashar Ali contextualization claim. Matt Walsh's September 5 tweet (A-1238.1) is documentary evidence of the date.
 
@@ -695,6 +695,16 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Subject of the assassination; the host reports his statements, pressure and security.
 
 *Related: C-1511, C-1512, C-1513, C-1516, C-1517, C-1519, C-1530, C-1536, C-1537, C-1539, C-1545, C-1546, C-1547, C-1548, C-1550, C-1552, C-1553, C-1554, C-1555, C-1556, C-1557, C-1558, C-1559, C-1561, C-1562, C-1564, C-1567, C-1569, C-1573, C-1574, C-1577, C-1579, C-1582, C-1583, C-1587, C-1588, C-1590, C-1591, C-1593, C-1594, C-1595, C-1599, C-1601, C-1605, A-3003.1, A-3005.1*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-1518*
 
 ---
 
@@ -849,7 +859,7 @@ The Hamptons; location of the meeting the host says Hammer lied about.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing topic reused for claims about Kirk's views on Israel.
 
@@ -857,7 +867,7 @@ Existing topic reused for claims about Kirk's views on Israel.
 
 ---
 
-**N-10106** Moral Blackmail by Donors
+**N-10102** Moral Blackmail by Donors
 
 Existing topic reused for claims about donor pressure on Kirk.
 
@@ -865,7 +875,7 @@ Existing topic reused for claims about donor pressure on Kirk.
 
 ---
 
-**N-10125** Utah
+**N-10120** Utah
 
 Utah; where the host contrasts the Mormon community's reaction.
 
@@ -873,7 +883,7 @@ Utah; where the host contrasts the Mormon community's reaction.
 
 ---
 
-**N-10163** Pre-Assassination Group Chat Content
+**N-10157** Pre-Assassination Group Chat Content
 
 Existing topic reused for claims about the pre-assassination group chat.
 
@@ -881,7 +891,7 @@ Existing topic reused for claims about the pre-assassination group chat.
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Existing topic reused for claims about the Hammer Zoom call.
 
@@ -889,7 +899,7 @@ Existing topic reused for claims about the Hammer Zoom call.
 
 ---
 
-**N-10206** TPUSA Text Chain Authenticity Verification
+**N-10198** TPUSA Text Chain Authenticity Verification
 
 Existing topic reused for the text chain.
 
@@ -897,7 +907,7 @@ Existing topic reused for the text chain.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Existing topic reused for Dillon at the Hamptons.
 
@@ -905,7 +915,7 @@ Existing topic reused for Dillon at the Hamptons.
 
 ---
 
-**N-10646** TPUSA Rooftop Security Decision-Making Discrepancy
+**N-10590** TPUSA Rooftop Security Decision-Making Discrepancy
 
 Existing topic reused for claims about rooftop security.
 
@@ -913,7 +923,7 @@ Existing topic reused for claims about rooftop security.
 
 ---
 
-**N-10650** Charlie Kirk September 9 Pre-Event Threat Text
+**N-10592** Charlie Kirk September 9 Pre-Event Threat Text
 
 Existing topic reused for the pre-event 'they are going to kill me' text.
 
@@ -921,7 +931,7 @@ Existing topic reused for the pre-event 'they are going to kill me' text.
 
 ---
 
-**N-11010** Lay-Low List Warning
+**N-10930** Lay-Low List Warning
 
 Existing topic reused for the lay-low calls.
 
@@ -929,7 +939,7 @@ Existing topic reused for the lay-low calls.
 
 ---
 
-**N-11099** Candace Owens Australia Visa Review
+**N-11017** Candace Owens Australia Visa Review
 
 Existing topic reused for the Australia visa claim.
 
@@ -937,9 +947,9 @@ Existing topic reused for the Australia visa claim.
 
 ---
 
-**N-11219** Charlie Kirk Security Company Ownership Question
+**N-11135** Charlie Kirk Security Company Ownership Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's statement that Charlie Kirk owned, and purchased outright, the security company around him, and that it did not check rooftops.
 
 *Related: C-1593, C-1594*
@@ -956,7 +966,7 @@ Claim: The host says that approximately 16 hours before Charlie Kirk's assassina
 
 Anchored Artifacts: A-1236.1, A-1248.1
 Mentions: N-55, N-1, N-5
-Related Nodes: N-10174
+Related Nodes: N-10167
 
 Investigative Direction: Verify retweet timestamp via X archive (Wayback Machine) and compare against official timeline of events on September 9–10, 2025.
 
@@ -970,7 +980,7 @@ Claim: The host reads a post she says Yashar Ali wrote, asserting that Josh Hamm
 
 Anchored Artifacts: A-1237.1
 Mentions: N-55, N-161, N-162, N-5
-Related Nodes: N-10179
+Related Nodes: N-10171
 
 Investigative Direction: Verify Yashar Ali's exact post text and timing against X archives; verify whether the "day prior" framing matches the post dates of alleged "many conservatives."
 
@@ -984,7 +994,7 @@ Claim: The host says Iryna Zarutska was murdered on August 22, 2025, her perpetr
 
 Anchored Artifacts: A-1238.1 (Matt Walsh's September 5 tweet is documentary anchor for the September 5 date)
 Mentions: N-162
-Related Nodes: N-10179
+Related Nodes: N-10171
 
 Investigative Direction: Verify dates against Charlotte-Mecklenburg Police Department records, news archives, and X trend timelines.
 
@@ -997,6 +1007,7 @@ Claim Timestamp: 00:04:50
 Claim: The host says Tucker Carlson, delivering remarks at Charlie Kirk's memorial, analogized the actions of critics and liars to the plot against Jesus in Jerusalem 2,000 years ago.
 
 Anchored Artifacts: A-1244.1
+Related Nodes: N-11361
 Mentions: N-1, N-22
 
 Investigative Direction: Verify the full memorial transcript and locate the segment within the recording.
@@ -1037,7 +1048,7 @@ Claim: The host says the first time Josh Hammer tweeted about a public execution
 
 Anchored Artifacts: A-1239.2
 Mentions: N-55
-Related Nodes: N-10174
+Related Nodes: N-10167
 
 Investigative Direction: Query X archive for "public execution" within Hammer's account history; verify no other prior episodes.
 
@@ -1051,7 +1062,7 @@ Claim: The host reads what she says was Josh Hammer's first tweet after news bro
 
 Anchored Artifacts: A-1241.1
 Mentions: N-55, N-1
-Related Nodes: N-10177
+Related Nodes: N-10170
 
 Investigative Direction: Cross-check with post timestamp against major news outlets' confirmation-of-death timestamps.
 
@@ -1065,7 +1076,7 @@ Claim: On JTV (in an interview with host Ollie), Josh Hammer stated that what he
 
 Anchored Artifacts: A-1242.1
 Mentions: N-55, N-171, N-1
-Related Nodes: N-10177, N-10178
+Related Nodes: N-10170, N-10016
 
 Investigative Direction: Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.
 
@@ -1079,7 +1090,7 @@ Claim: In his post-assassination interview, Rabbi Pesach Wolicki stated that Cha
 
 Anchored Artifacts: A-1243.1
 Mentions: N-164, N-1
-Related Nodes: N-10178
+Related Nodes: N-10016
 
 Investigative Direction: Verify full Wolicki interview; obtain unedited transcript.
 
@@ -1093,7 +1104,7 @@ Claim: Wolicki stated the pre-assassination meeting was called by Charlie, was o
 
 Anchored Artifacts: A-1243.1
 Mentions: N-164, N-1
-Related Nodes: N-10178
+Related Nodes: N-10016
 
 Investigative Direction: Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records.
 
@@ -1120,7 +1131,7 @@ Claim: In a clip the host plays, Alex Jones says Candace Owens sent out a 'dead 
 
 Anchored Artifacts: A-1246.1
 Mentions: N-93, N-3, N-49, N-22, N-170, N-39
-Related Nodes: N-10176
+Related Nodes: N-10169
 
 Investigative Direction: Verify the recipients directly with named individuals; verify the contents of the package.
 
@@ -1134,7 +1145,7 @@ Claim: In a clip the host plays, Alex Jones says Candace Owens sent out a dead m
 
 Anchored Artifacts: A-1246.1
 Mentions: N-93, N-167, N-3
-Related Nodes: N-10176
+Related Nodes: N-10169
 
 Investigative Direction: Verify O'Keefe's actual mechanism; obtain O'Keefe's primary disclosure.
 
@@ -1174,7 +1185,7 @@ Claim: The host says Josh Hammer tweeted nine times on September 9: a Phillies s
 
 Anchored Artifacts: A-1240.1
 Mentions: N-55, N-22, N-5
-Related Nodes: N-10174
+Related Nodes: N-10167
 
 Investigative Direction: Verify each timestamp and content against X archive.
 
@@ -1203,7 +1214,7 @@ Claim: The host says there is an almost incomprehensible lack of footage from Ch
 
 Anchored Artifacts: None (host-issued bulletin, not artifact-anchored)
 Mentions: N-3, N-1
-Related Nodes: N-10175
+Related Nodes: N-10168
 
 Investigative Direction: Submit evidence requests to UVU, Turning Point USA, and individual attendee videographers; FOIA/records requests where applicable.
 
@@ -1218,7 +1229,7 @@ Claim Timestamp: 00:42:00
 Claim: Host is specifically requesting footage of older males with long hair tied in ponytails or buns at the UVU event.
 
 Anchored Artifacts: None (host bulletin / APB)
-Related Nodes: N-10175
+Related Nodes: N-10168
 
 Investigative Direction: Tip-line intake processing and review of footage submitted to tips@candaceowens.com.
 
@@ -1263,7 +1274,7 @@ Transcript Snippet: he and a rabbi in Israel had a long talk with Charlie the ni
 
 Anchored Artifacts: 
 Mentions: N-55, N-1
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's own public statements and any call logs or invitations for the pre-assassination call with Kirk.
@@ -1280,7 +1291,7 @@ Transcript Snippet: Charlie Kirk was his friend, he claimed, rather maniacally, 
 
 Anchored Artifacts: A-1248.1
 Mentions: N-55, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Collect Hammer's post-assassination posts and interviews making the claim, and compare them with Kirk's own recorded statements on Israel.
 
@@ -1296,7 +1307,7 @@ Transcript Snippet: There is a repulsive op right now to hijack Charlie Kirk's l
 
 Anchored Artifacts: A-1248.1
 Mentions: N-55, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:context
 Investigative Direction: Retrieve the original Hammer posts from his X archive and confirm dates and wording.
 
@@ -1312,7 +1323,7 @@ Transcript Snippet: I was given access to this letter a few months ago, and I re
 
 Anchored Artifacts: A-1248.1
 Mentions: N-55, N-22, N-3, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Find the Hammer post, identify which letter he meant (compare the May letter attributed to Kirk), and establish who gave him access and when.
 
@@ -1328,7 +1339,7 @@ Transcript Snippet: He lied about the Hamptons meeting. I've told you the truth 
 
 Anchored Artifacts: 
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10178, N-10027
+Related Nodes: N-10016, N-10027
 Tags: relevance:core
 Investigative Direction: Compare Hammer's public account of the Hamptons meeting with attendee statements, photos and event records.
 
@@ -1344,7 +1355,7 @@ Transcript Snippet: Seth Dillon and Josh were personally upset with Charlie's de
 
 Anchored Artifacts: 
 Mentions: N-38, N-55, N-1, N-3
-Related Nodes: N-10345, N-10027
+Related Nodes: N-10323, N-10027
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Interview Hamptons attendees and obtain any messages in which Dillon or Hammer pressed Kirk on Israel.
@@ -1361,7 +1372,7 @@ Transcript Snippet: the truth is that it is now an established fact, like I said
 
 Anchored Artifacts: 
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Identify Hammer's own statements and the call or messages that show he knew Kirk's views were shifting.
 
@@ -1392,7 +1403,7 @@ Transcript Snippet: another user then jumped on that and tried to establish a no
 
 Anchored Artifacts: 
 Mentions: N-162, N-55
-Related Nodes: N-10179, N-10174
+Related Nodes: N-10171, N-10167
 Supports: C-1525
 Tags: relevance:context
 Investigative Direction: Identify the X user and compare the post time with the first release of the footage.
@@ -1409,7 +1420,7 @@ Transcript Snippet: Candace Owens quote tweeted notorious neo-Nazi Sam Parker, w
 
 Anchored Artifacts: A-1237.1
 Mentions: N-161, N-181, N-3, N-55
-Related Nodes: N-10174
+Related Nodes: N-10167
 Tags: relevance:context
 Investigative Direction: Retrieve the host's quote tweet, the Sam Parker post it quoted and Ali's reply to confirm order and wording.
 
@@ -1425,7 +1436,7 @@ Transcript Snippet: Josh, at no point that I could determine, whether he was on 
 
 Anchored Artifacts: 
 Mentions: N-55, N-162, N-3
-Related Nodes: N-10174, N-10179
+Related Nodes: N-10167, N-10171
 Supports: C-1528
 Tags: relevance:core
 Investigative Direction: Search Hammer's show transcripts, media appearances and posts from August 22 to September 9 for death penalty or public execution language.
@@ -1442,7 +1453,7 @@ Transcript Snippet: Josh himself sent multiple tweets regarding the homicide, as
 
 Anchored Artifacts: 
 Mentions: N-55, N-162
-Related Nodes: N-10179, N-10174
+Related Nodes: N-10171, N-10167
 Tags: relevance:context
 Investigative Direction: Pull Hammer's posts from September 5 to 9 about the Zhuravska case and check whether any mention punishment.
 
@@ -1458,7 +1469,7 @@ Transcript Snippet: 5:59 p. m., he tweets uh a promotion of his media appearance
 
 Anchored Artifacts: A-1240.1
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10174, N-10169
+Related Nodes: N-10167, N-10162
 Supports: C-1529
 Tags: relevance:core
 Investigative Direction: Verify the exact post times from Hammer's archive and compare them with the reported start time of the Zoom call.
@@ -1475,7 +1486,7 @@ Transcript Snippet: So, Matt Walsh then went on his show and further explained t
 
 Anchored Artifacts: A-1238.1
 Mentions: N-163, N-162
-Related Nodes: N-10174
+Related Nodes: N-10167
 Supports: C-1531
 Tags: relevance:context
 Investigative Direction: Locate the Walsh show segment and confirm what he said about the post.
@@ -1508,7 +1519,7 @@ Transcript Snippet: pressure that Charlie was under, pressure which Josh Hammer 
 
 Anchored Artifacts: 
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10025, N-10106
+Related Nodes: N-10025, N-10102
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Obtain the group chat messages and any Hammer-to-Kirk communications from August and September 2025.
@@ -1525,7 +1536,7 @@ Transcript Snippet: He bragged that he and Rabbi Wolicki had a Zoom call with Ch
 
 Anchored Artifacts: A-1242.1
 Mentions: N-55, N-164, N-1
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain the Zoom invitation, attendee list and duration, and the account of any Kirk producers on the call.
@@ -1542,7 +1553,7 @@ Transcript Snippet: We had a Zoom call, a friend of mine, him, a couple of his p
 
 Anchored Artifacts: A-1242.1
 Mentions: N-55, N-1
-Related Nodes: N-10169
+Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Identify the producers and the friend on the call and ask each to confirm the participants and the agenda.
 
@@ -1558,7 +1569,7 @@ Transcript Snippet: she's chosen to hijack his death right now to blame it on Is
 
 Anchored Artifacts: A-1242.1
 Mentions: N-55, N-3, N-130, N-171
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:context
 Investigative Direction: Review the full JTV episode for Hammer's exact wording and date.
 
@@ -1619,7 +1630,7 @@ Transcript Snippet: would he have had on me and our friend Rabbi Pesach Wolicki 
 
 Anchored Artifacts: A-1242.1
 Mentions: N-55, N-164, N-1, N-3
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Verify the call duration and time against Zoom records, phone logs and the New York Post report.
@@ -1636,7 +1647,7 @@ Transcript Snippet: that rabbi, Rabbi Wolicki, was also on the now infamous text
 
 Anchored Artifacts: 
 Mentions: N-164, N-55, N-1, N-3
-Related Nodes: N-10163, N-10206, N-10178
+Related Nodes: N-10157, N-10198, N-10016
 Supports: C-1353, C-1352
 Tags: relevance:core
 Investigative Direction: Obtain the participant list and messages of the group chat and confirm Wolicki's membership.
@@ -1686,7 +1697,7 @@ Transcript Snippet: I was in touch with Charlie on an almost daily basis for mon
 
 Anchored Artifacts: A-1243.1
 Mentions: N-164, N-1
-Related Nodes: N-10169
+Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Ask Wolicki for the form and volume of that contact (calls, messages) and corroborate with Kirk-side records.
 
@@ -1717,7 +1728,7 @@ Transcript Snippet: If he was turning on Israel, he would have had Candace Owens
 
 Anchored Artifacts: A-1243.1
 Mentions: N-164, N-3, N-22, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Supports: C-1551
 Tags: relevance:core
 Investigative Direction: Obtain the invitation list for the meeting and the account of each attendee.
@@ -1734,7 +1745,7 @@ Transcript Snippet: I told you he was particularly worried uh that Israel was in
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10177, N-10025
+Related Nodes: N-10170, N-10025
 Supports: C-555
 Tags: relevance:core
 Investigative Direction: Request the text messages in full, with metadata, for independent authentication.
@@ -1751,7 +1762,7 @@ Transcript Snippet: He was aware that they had lost the PR war and it was weighi
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Collect Kirk statements and messages from summer 2025 touching on Israel's public image.
 
@@ -1767,7 +1778,7 @@ Transcript Snippet: I think, as I've said, he was genuinely over it towards the 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10163, N-10106
+Related Nodes: N-10157, N-10102
 Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Examine the original chat messages and verify the wording attributed to Kirk.
@@ -1784,7 +1795,7 @@ Transcript Snippet: less than 48 hours before he died, Charlie announces that, h
 
 Anchored Artifacts: 
 Mentions: N-1, N-55, N-3
-Related Nodes: N-10163, N-10206
+Related Nodes: N-10157, N-10198
 Supports: C-1349, C-1350
 Tags: relevance:core
 Investigative Direction: Obtain the chat export and verify the exact date and time of the message.
@@ -1801,7 +1812,7 @@ Transcript Snippet: he decided to have that smaller audience with two Jewish ind
 
 Anchored Artifacts: 
 Mentions: N-1, N-55, N-164, N-3
-Related Nodes: N-10163, N-10169
+Related Nodes: N-10157, N-10162
 Supports: C-1352, C-1353
 Tags: relevance:core
 Investigative Direction: Reconcile the chat timeline with the Zoom time and the identity of the two participants.
@@ -1818,7 +1829,7 @@ Transcript Snippet: in that exact same day, he was texting people saying they ar
 
 Anchored Artifacts: 
 Mentions: N-1, N-55, N-3
-Related Nodes: N-10177, N-10650
+Related Nodes: N-10170, N-10592
 Tags: relevance:core
 Investigative Direction: Identify the recipients and obtain the texts with timestamps.
 
@@ -1834,7 +1845,7 @@ Transcript Snippet: as as Josh says it it was at night and or the New York Post 
 
 Anchored Artifacts: 
 Mentions: N-55, N-3
-Related Nodes: N-10169
+Related Nodes: N-10162
 Tags: relevance:context
 Investigative Direction: Find the New York Post report and Hammer's statement giving the call time.
 
@@ -1867,7 +1878,7 @@ Transcript Snippet: we never once said that Israel killed Charlie Kirk. I've nev
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Review the host's and Carlson's past episodes for any statements asserting Israeli involvement.
 
@@ -1883,7 +1894,7 @@ Transcript Snippet: That has been almost the only compelling argument that Israe
 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Catalogue the specific statements by Netanyahu and allies that the host regards as lies.
 
@@ -1899,7 +1910,7 @@ Transcript Snippet: no Mormon presidents coming out and saying, I just want to b
 
 Anchored Artifacts: 
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10056, N-10125
+Related Nodes: N-10053, N-10120
 Tags: relevance:core
 Investigative Direction: Identify the Netanyahu statement and its time and compare with the time of Kirk's death.
 
@@ -1915,7 +1926,7 @@ Transcript Snippet: all on the side, when the shots rang out or just before, you
 
 Anchored Artifacts: A-3003.1
 Mentions: N-3, N-1
-Related Nodes: N-10175
+Related Nodes: N-10168
 Tags: relevance:core
 Investigative Direction: Compare the highlighted section with the UVU courtyard layout and collect any received footage.
 
@@ -1931,7 +1942,7 @@ Transcript Snippet: Uh you can send that, by the way, to uh tips@candaceowens. c
 
 Anchored Artifacts: A-3002.1
 Mentions: N-3
-Related Nodes: N-10175
+Related Nodes: N-10168
 Supports: C-1565
 Tags: relevance:core
 Investigative Direction: Record the volume and usefulness of emailed UVU footage in later episodes where the host cites it.
@@ -1995,7 +2006,7 @@ Transcript Snippet: I do not accept, and you do you guys that Charlie Kirk lost 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Compare against the prosecution's stated motive and the evidence offered for it.
 
@@ -2011,7 +2022,7 @@ Transcript Snippet: I got multiple phone calls from people uh who said that me a
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-1
-Related Nodes: N-11010
+Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Ask the host to identify, or at least describe, the callers and who they said was the source.
 
@@ -2027,7 +2038,7 @@ Transcript Snippet: I called Tucker. I'm like, "I'm hearing Are you hearing me s
 
 Anchored Artifacts: 
 Mentions: N-3, N-22
-Related Nodes: N-11010
+Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Ask Carlson to confirm the call and what was said.
 
@@ -2043,7 +2054,7 @@ Transcript Snippet: Did the feds say this? Who said this specifically? Because w
 
 Anchored Artifacts: 
 Mentions: N-3, N-22
-Related Nodes: N-11010
+Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Ask the host which agencies, if any, the callers named.
 
@@ -2059,7 +2070,7 @@ Transcript Snippet: To to send a signal to shoot him in the throat. Right? To sa
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-22
-Related Nodes: N-11010
+Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Treat as the host's interpretation; examine the autopsy and ballistics record for the wound location.
 
@@ -2075,7 +2086,7 @@ Transcript Snippet: What I wanted to do, as I discussed yesterday, and which got
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10176
+Related Nodes: N-10169
 Supports: C-1584
 Tags: relevance:core
 Investigative Direction: Review the October 7 episode for the host's first description of the kill switch.
@@ -2107,7 +2118,7 @@ Transcript Snippet: Kanye sent me all of the messages of people who were threate
 
 Anchored Artifacts: 
 Mentions: N-27, N-3
-Related Nodes: N-10176
+Related Nodes: N-10169
 Tags: relevance:context
 Investigative Direction: Ask the host whether and when the messages will be published and how they were authenticated.
 
@@ -2123,7 +2134,7 @@ Transcript Snippet: To information share uh with Max Blumenthal, with people Vil
 
 Anchored Artifacts: 
 Mentions: N-49, N-3
-Related Nodes: N-10176
+Related Nodes: N-10169
 Supports: C-1584
 Tags: relevance:core
 Investigative Direction: Ask recipients to confirm they hold the package and its release conditions.
@@ -2140,7 +2151,7 @@ Transcript Snippet: And so she let him say that for a few weeks and then release
 
 Anchored Artifacts: A-1246.1
 Mentions: N-93, N-3, N-1
-Related Nodes: N-10177
+Related Nodes: N-10170
 Tags: relevance:context
 Investigative Direction: Identify which text Jones means and when it was released.
 
@@ -2156,7 +2167,7 @@ Transcript Snippet: So she released those two days ago. And now she says she has
 
 Anchored Artifacts: A-1246.1
 Mentions: N-93, N-3, N-1
-Related Nodes: N-10177, N-10650
+Related Nodes: N-10170, N-10592
 Tags: relevance:core
 Investigative Direction: Request the texts with metadata and confirm dates.
 
@@ -2172,7 +2183,7 @@ Transcript Snippet: Well, I'm trying to get it on for weeks. I'm a little bummed
 
 Anchored Artifacts: A-1246.1
 Mentions: N-93, N-3
-Related Nodes: N-10176
+Related Nodes: N-10169
 Supports: C-1584
 Tags: relevance:context
 Investigative Direction: Ask Jones's team to confirm he did not receive the package.
@@ -2189,7 +2200,7 @@ Transcript Snippet: You know, they said his security detail was Israeli. They we
 
 Anchored Artifacts: A-1246.1
 Mentions: N-93, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:context
 Investigative Direction: Identify the security personnel's employer and the origin of the Israeli-detail rumor.
 
@@ -2205,7 +2216,7 @@ Transcript Snippet: And the word is he specifically thought Israel was going to 
 
 Anchored Artifacts: A-1246.1
 Mentions: N-93, N-1
-Related Nodes: N-10056, N-10177
+Related Nodes: N-10053, N-10170
 Tags: relevance:core
 Investigative Direction: Ask Jones for his source and compare with the texts the host says she holds.
 
@@ -2268,7 +2279,7 @@ Transcript Snippet: genuinely we had no proof and no rhyme or reason to think or
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Catalogue the specific acts of cover-up and lying the host cites in earlier episodes.
 
@@ -2284,7 +2295,7 @@ Transcript Snippet: Charlie owned the security company. So that security company
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11219, N-10646
+Related Nodes: N-11135, N-10590
 Tags: relevance:core
 Investigative Direction: Check corporate and procurement records for the security contractor's ownership and Kirk's or TPUSA's stake.
 
@@ -2300,7 +2311,7 @@ Transcript Snippet: The amount that he was paying for that security for them to 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11219, N-10646
+Related Nodes: N-11135, N-10590
 Tags: relevance:core
 Investigative Direction: Obtain the security plan, contracts and event site sweep records for the Utah Valley University event.
 
@@ -2379,7 +2390,7 @@ Transcript Snippet: I do want to say shout out to the Mormon community for never
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10125
+Related Nodes: N-10120
 Tags: relevance:context
 Investigative Direction: Ask for examples of Utah residents' assistance and note the contrast with other groups she names.
 
@@ -2395,7 +2406,7 @@ Transcript Snippet: Charlie wanted you on stage AmFest. They tried to stop him, 
 
 Anchored Artifacts: A-3005.1
 Mentions: N-1, N-3
-Related Nodes: N-10106
+Related Nodes: N-10102
 Supports: C-361
 Tags: relevance:core
 Investigative Direction: Establish who tried to block the host's AmFest slot and obtain Kirk-side messages about it.
@@ -2427,7 +2438,7 @@ Transcript Snippet: I was going to speak about homeschooling and children and my
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11099
+Related Nodes: N-11017
 Tags: relevance:context
 Investigative Direction: Review Australian visa decisions and the stated grounds for the refusal.
 
@@ -2467,18 +2478,18 @@ Investigative Direction: Compare against the actual publication schedule after O
 
 Cross-references are embedded in each artifact, claim, and node entry above. Network summary:
 
-- **Central investigative thread:** A-1236.1 → C-1520 → N-14 → N-10174
-- **Failed contextualization chain:** A-1236.1 ↔ A-1237.1 → C-1522 → N-161 → N-162 → N-10179 (contradiction: Ali date vs. C-1525 Sept 5 anchor)
+- **Central investigative thread:** A-1236.1 → C-1520 → N-14 → N-10167
+- **Failed contextualization chain:** A-1236.1 ↔ A-1237.1 → C-1522 → N-161 → N-162 → N-10171 (contradiction: Ali date vs. C-1525 Sept 5 anchor)
 - **Comparative anchor:** A-1238.1 ↔ C-1531 ↔ N-163
-- **Historical precedent:** A-1239.2 ↔ C-1533 ↔ N-14 ↔ N-10174
+- **Historical precedent:** A-1239.2 ↔ C-1533 ↔ N-14 ↔ N-10167
 - **Self-incriminating post:** A-1239.1 ↔ C-1534 ↔ N-14
-- **Last-call narrative cluster:** A-1241.1 ↔ A-1242.1 ↔ A-1243.1 → C-1538, C-1540, C-1549, C-1551 ↔ N-14 ↔ N-164 ↔ N-1 ↔ N-10177 ↔ N-10178 (note: artifact-backed contradiction between JTV narrative and Wolicki narrative on Charlie's direction of travel; both audio-anchored)
+- **Last-call narrative cluster:** A-1241.1 ↔ A-1242.1 ↔ A-1243.1 → C-1538, C-1540, C-1549, C-1551 ↔ N-14 ↔ N-164 ↔ N-1 ↔ N-10170 ↔ N-10016 (note: artifact-backed contradiction between JTV narrative and Wolicki narrative on Charlie's direction of travel; both audio-anchored)
 - **Memorial analogy:** A-1244.1 ↔ C-1518
 - **External attack:** A-1245.1, A-1245.2 ↔ C-1570 ↔ N-168, N-169
-- **Kill switch confirmation:** A-1246.1 ↔ C-1584 ↔ C-1585 ↔ N-93 ↔ N-167 ↔ N-39 ↔ N-170 ↔ N-10176
+- **Kill switch confirmation:** A-1246.1 ↔ C-1584 ↔ C-1585 ↔ N-93 ↔ N-167 ↔ N-39 ↔ N-170 ↔ N-10169
 - **Comic relief artifact (non-evidentiary):** A-1247.1 ↔ C-1585 ↔ N-166
-- **UVU APB cluster (un-anchored):** N-10175 ↔ C-1566 ↔ C-1565
-- **Un-anchored Charlie-text-cluster:** N-10177 (artifact verbally referenced but not shown)
+- **UVU APB cluster (un-anchored):** N-10168 ↔ C-1566 ↔ C-1565
+- **Un-anchored Charlie-text-cluster:** N-10170 (artifact verbally referenced but not shown)
 
 ---
 
@@ -2623,7 +2634,7 @@ Confidence: high
 - **Name uncertainty (Yishai):** A-1245.2 attributed to "Yishai" only; full handle not captured.
 - **Name uncertainty (Ali):** JTV host in A-1242.1 referred to only by first name "Ali." N-171 created with that exact spelling.
 - **Name uncertainty (Sam Parker):** Referenced by Yashar Ali (A-1237.1) as "notorious neo-Nazi Sam Parker." Not anchored independently in this episode.
-- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) – author and document not identified; Charlie's "they are going to kill me" texts and Israel-speech-infringement texts (referenced by host – see N-10177, C-1538 through C-1551 adjacency); the John and Irina Mappin letter (referenced in comments but not displayed).
+- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) – author and document not identified; Charlie's "they are going to kill me" texts and Israel-speech-infringement texts (referenced by host – see N-10170, C-1538 through C-1551 adjacency); the John and Irina Mappin letter (referenced in comments but not displayed).
 - **Claim failed admission test:** C-1597 (Tyler Bowyer), C-1566 (UVU footage black hole), C-1565 (UVU suspect profile bulletin) – no artifact anchors in this episode. Bulleted as targets/investigative requests rather than artifact-backed claims.
 - **Transcript ambiguity (Trump quote wording):** Host reads "Should be public execution for all to see. You will end this bull fast." – word "bull" preserved as is; may be a transcription artifact of a stronger word.
 - **Timestamp uncertainty:** The JTV segment (A-1242.1) is described as "a few days after Charlie's death" but not dated explicitly; the Gabriel media appearance (A-1250.1) is undated; the Wolicki interview (A-1243.1) is undated. Best-effort anchor dates preserved only as "post-Sept-10."

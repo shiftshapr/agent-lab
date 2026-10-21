@@ -42,7 +42,7 @@
             "N-296",
             "N-299",
             "N-300",
-            "N-10306"
+            "N-10288"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,8 +198,8 @@
           "related_nodes": [
             "N-186",
             "N-297",
-            "N-10298",
-            "N-10300"
+            "N-10280",
+            "N-10282"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,7 +218,7 @@
           ],
           "related_nodes": [
             "N-186",
-            "N-10298"
+            "N-10280"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -238,7 +238,7 @@
           "related_nodes": [
             "N-186",
             "N-297",
-            "N-10298"
+            "N-10280"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,7 +258,7 @@
           "related_nodes": [
             "N-186",
             "N-41",
-            "N-10301"
+            "N-10283"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -284,7 +284,7 @@
             "C-3480"
           ],
           "related_nodes": [
-            "N-10299"
+            "N-10281"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -310,8 +310,8 @@
             "C-3477"
           ],
           "related_nodes": [
-            "N-10302",
-            "N-10305"
+            "N-10284",
+            "N-10287"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -368,8 +368,8 @@
           "related_nodes": [
             "N-3",
             "N-186",
-            "N-10289",
-            "N-10288"
+            "N-10271",
+            "N-10270"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -445,7 +445,7 @@
           "related_nodes": [
             "N-3",
             "N-15",
-            "N-10300"
+            "N-10282"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -474,7 +474,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10303"
+        "N-10285"
       ]
     },
     {
@@ -497,8 +497,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-292",
-        "N-10303",
-        "N-10306"
+        "N-10285",
+        "N-10288"
       ]
     },
     {
@@ -525,7 +525,7 @@
       "related_nodes": [
         "N-293",
         "N-300",
-        "N-10306"
+        "N-10288"
       ]
     },
     {
@@ -570,7 +570,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-299",
-        "N-10306"
+        "N-10288"
       ]
     },
     {
@@ -615,7 +615,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-296",
-        "N-10306"
+        "N-10288"
       ]
     },
     {
@@ -638,7 +638,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-295",
-        "N-10306"
+        "N-10288"
       ]
     },
     {
@@ -662,8 +662,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-41",
-        "N-10301",
-        "N-10304"
+        "N-10283",
+        "N-10286"
       ]
     },
     {
@@ -682,7 +682,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-41",
-        "N-10301"
+        "N-10283"
       ]
     },
     {
@@ -724,11 +724,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10298",
-      "ref": "N-10298",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10280",
+      "ref": "N-10280",
       "name": "Pierre Dupont Donor Identity Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether the \"French-American Pierre\" referenced by TPUSA sources is Pierre Dupont, and the nature of his reported donor relationship with TPUSA.",
       "related_artifacts": [
         "A-1486.1",
@@ -746,14 +746,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-186"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10299",
-      "ref": "N-10299",
+      "@type": "Topic",
+      "@id": "N-10281",
+      "ref": "N-10281",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Per federal source, TPUSA allegedly placed personal request to kill the Egyptian plane story.",
       "related_artifacts": [
         "A-1487.1"
@@ -765,14 +766,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10300",
-      "ref": "N-10300",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10282",
+      "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Six TPUSA sources reported rumor that Streiff placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.",
       "related_artifacts": [
         "A-1486.1"
@@ -787,14 +790,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-15"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10301",
-      "ref": "N-10301",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10283",
+      "ref": "N-10283",
       "name": "TPUSA Real Estate Program Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Per source testimony with supporting proof, Tyler Bowyer discussed TPUSA plans to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.",
       "related_artifacts": [
         "A-1486.4"
@@ -811,14 +815,15 @@
         "N-186",
         "N-297",
         "N-41"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10302",
-      "ref": "N-10302",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10284",
+      "ref": "N-10284",
       "name": "BB Net/Yahoo Offer to TPUSA",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Per host narrative (not artifact-anchored), BB Net and Yahoo allegedly offered to take TPUSA to the next level in exchange for unspecified consideration; Charlie allegedly declined. Andrew Kolvet tip indirectly references \"BB.\" Identity of BB unverified.",
       "related_artifacts": [
         "A-1488.1"
@@ -831,14 +836,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10303",
-      "ref": "N-10303",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10285",
+      "ref": "N-10285",
       "name": "Richards Layton & Finger Connection to Candace Lawsuit",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Per host, the law firm whose retired founding partner is DuPont family (Robert H. Richards III) is the firm filing paperwork in Candace's McRonone lawsuit. Requires verification.",
       "related_artifacts": [
         "A-1480.1"
@@ -851,14 +857,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-293"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10304",
-      "ref": "N-10304",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10286",
+      "ref": "N-10286",
       "name": "Stacy Sheridan Registered Agent and LLC Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Per host (not artifact-anchored), Stacy Sheridan's registered agent is at 919 North Market Street, Wilmington (same building as Brijit Lawyers); relevant LLC named as Cloverstone Ventures. Verification pending.",
       "related_artifacts": [],
       "related_claims": [],
@@ -869,14 +876,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-186"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10305",
-      "ref": "N-10305",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10287",
+      "ref": "N-10287",
       "name": "Andrew Kolvet \"Lost Millions\" Tip Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Per written tip from Andrew Kolvet family friend, Andrew stated Charlie lost millions by declining BB's offer. Andrew Kolvet described as acting \"weird\" per tipster.",
       "related_artifacts": [
         "A-1488.1"
@@ -890,15 +898,17 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10302"
-      ]
+        "N-10284"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10284"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10306",
-      "ref": "N-10306",
+      "@type": "Topic",
+      "@id": "N-10288",
+      "ref": "N-10288",
       "name": "DuPont Family Pattern of Crimes",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Aggregating pattern: Richards IV rape conviction with no prison; John DuPont murder of David Schultz; Lisa Dean DuPont / Mosley murder for hire of Vegas prostitute.",
       "related_artifacts": [
         "A-1480.1"
@@ -919,7 +929,8 @@
         "N-292",
         "N-294",
         "N-295"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1307,11 +1318,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University; host recounts when its chapter's event request and first graphic arrived.",
       "related_artifacts": [],
       "related_claims": [
@@ -1323,14 +1334,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@type": "Topic",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA DOGE audit; host recounts the September 2 email announcing it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1341,14 +1354,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10134",
-      "ref": "N-10134",
+      "@type": "Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Hamptons retreat; host recounts Kirk's description of it as an intervention.",
       "related_artifacts": [],
       "related_claims": [
@@ -1359,14 +1373,18 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10224",
-      "ref": "N-10224",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10211",
+      "ref": "N-10211",
       "name": "UVU Event Approval Timeline Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "UVU event approval timeline; reused for the request, graphic and media-report timing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1379,14 +1397,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Egyptian plane tracking; reused for the Lincoln stop.",
       "related_artifacts": [],
       "related_claims": [
@@ -1396,14 +1415,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10265",
-      "ref": "N-10265",
+      "@type": "Place",
+      "@id": "N-10249",
+      "ref": "N-10249",
       "name": "920 North King Street / 1 Rodney Square Federal Facility",
-      "type": "investigation_target",
+      "type": "place",
       "description": "920 North King Street federal facility; reused for the tip about hidden FBI offices.",
       "related_artifacts": [],
       "related_claims": [
@@ -1413,14 +1433,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10266",
-      "ref": "N-10266",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10250",
+      "ref": "N-10250",
       "name": "SUBTT Wilmington Visit Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "SU-BTT Wilmington visit pattern; reused for the planes' Wilmington stops.",
       "related_artifacts": [],
       "related_claims": [
@@ -1432,14 +1454,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10269",
-      "ref": "N-10269",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10253",
+      "ref": "N-10253",
       "name": "Wilmington Airport Hangar Federal Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Wilmington hangar federal connection; reused for the federal approval and Satys items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1450,14 +1474,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10250"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Macron lawsuit Delaware venue question; reused for the law-firm and lawyer-address items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1468,14 +1494,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10273",
-      "ref": "N-10273",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10257",
+      "ref": "N-10257",
       "name": "Operation Valhalla – Charlie Kirk Assassination Timeline Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Operation Valhalla timeline; reused for the Camp Ripley item.",
       "related_artifacts": [],
       "related_claims": [
@@ -1485,14 +1512,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10341"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10276",
-      "ref": "N-10276",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10259",
+      "ref": "N-10259",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Nebraska-Egypt trade mission and plane overlap; reused for the Lincoln stops and Evnen meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1505,14 +1534,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10279",
-      "ref": "N-10279",
+      "@type": "Place",
+      "@id": "N-10262",
+      "ref": "N-10262",
       "name": "Camp Ripley Training Center",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Camp Ripley training center; reused for the Valhalla item.",
       "related_artifacts": [],
       "related_claims": [
@@ -1522,14 +1553,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q245016"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10285",
-      "ref": "N-10285",
+      "@type": "Topic",
+      "@id": "N-10267",
+      "ref": "N-10267",
       "name": "Bracebridge Complex French Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Bracebridge complex French connection; reused for the red crane site.",
       "related_artifacts": [],
       "related_claims": [
@@ -1539,14 +1572,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10286",
-      "ref": "N-10286",
+      "@type": "Topic",
+      "@id": "N-10268",
+      "ref": "N-10268",
       "name": "Incyte Corporation French CEO",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Incyte French CEO; reused for the site the transcript calls Insight.",
       "related_artifacts": [],
       "related_claims": [
@@ -1556,14 +1590,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10288",
-      "ref": "N-10288",
+      "@type": "Organization",
+      "@id": "N-10270",
+      "ref": "N-10270",
       "name": "Wilmington Trust / T. Coleman du Pont",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Wilmington Trust and T. Coleman du Pont; reused for the building owner at 500 Delaware Avenue.",
       "related_artifacts": [],
       "related_claims": [
@@ -1574,14 +1609,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10289",
-      "ref": "N-10289",
+      "@type": "Place",
+      "@id": "N-10271",
+      "ref": "N-10271",
       "name": "Rodney Square / 500 Delaware Avenue Federal Cluster",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Rodney Square and 500 Delaware Avenue federal cluster; reused for the FBI suite.",
       "related_artifacts": [],
       "related_claims": [
@@ -1592,14 +1629,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10290",
-      "ref": "N-10290",
+      "@type": "Event",
+      "@id": "N-10272",
+      "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "French Foreign Legion US training August 2025; reused for the August 2 arrival.",
       "related_artifacts": [],
       "related_claims": [
@@ -1609,14 +1647,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10291",
-      "ref": "N-10291",
+      "@type": "Event",
+      "@id": "N-10273",
+      "ref": "N-10273",
       "name": "Operation Bright Star August–September 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Operation Bright Star; reused for its start and end dates.",
       "related_artifacts": [],
       "related_claims": [
@@ -1627,14 +1668,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08-29"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10295",
-      "ref": "N-10295",
+      "@type": "Event",
+      "@id": "N-10277",
+      "ref": "N-10277",
       "name": "YouTube Live Poll: Lawsuit as Government Operation",
-      "type": "investigation_target",
+      "type": "event",
       "description": "YouTube live poll on the lawsuit; reused for the host's bankruptcy remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1644,14 +1688,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Bibi Netanyahu TPUSA funding offer; reused for the offer claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1661,14 +1707,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10397",
-      "ref": "N-10397",
+      "@type": "Topic",
+      "@id": "N-10370",
+      "ref": "N-10370",
       "name": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk Korea trip; reused for the September timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -1678,14 +1725,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@type": "Topic",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk DOGE pre-death establishment; reused for the audit email.",
       "related_artifacts": [],
       "related_claims": [
@@ -1696,14 +1744,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@type": "Topic",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Kirk Netanyahu show refusal; reused for the declined-offer claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1713,14 +1762,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10870",
-      "ref": "N-10870",
+      "@type": "Thing",
+      "@id": "N-10791",
+      "ref": "N-10791",
       "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Yrefy sponsorship contracts; reused for the fall-tour sponsor claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1731,14 +1782,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11008",
-      "ref": "N-11008",
+      "@type": "Organization",
+      "@id": "N-10928",
+      "ref": "N-10928",
       "name": "Satys",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Satys; reused for the shareholder and hangar items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1749,14 +1801,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11129",
-      "ref": "N-11129",
+      "@type": "Organization",
+      "@id": "N-11047",
+      "ref": "N-11047",
       "name": "Freemasonry",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Freemasonry; reused for the host's Freemason remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1767,14 +1821,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11202",
-      "ref": "N-11202",
+      "@type": "Topic",
+      "@id": "N-11118",
+      "ref": "N-11118",
       "name": "Public Casket Footage and Memorial Spectacle",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Public casket footage and memorial spectacle; reused for Sheridan's casket filming.",
       "related_artifacts": [],
       "related_claims": [
@@ -1785,14 +1841,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11235",
-      "ref": "N-11235",
+      "@type": "Event",
+      "@id": "N-11151",
+      "ref": "N-11151",
       "name": "Female Jewish Donor Confrontation of Kirk After Tucker Speech",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Female Jewish donor confrontation after Tucker speech; reused for donor reaction.",
       "related_artifacts": [],
       "related_claims": [
@@ -1802,7 +1859,10 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10998"
     },
     {
       "@type": "Person",
@@ -1823,8 +1883,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11278",
-      "ref": "N-11278",
+      "@id": "N-11194",
+      "ref": "N-11194",
       "name": "Ace Partners",
       "type": "organization",
       "description": "French and Israeli firm that the host says is the second largest shareholder of Satys, the company that leased the Wilmington hangar.",
@@ -1836,14 +1896,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11281",
-      "ref": "N-11281",
+      "@type": "Event",
+      "@id": "N-11197",
+      "ref": "N-11197",
       "name": "April 2018 Syria Strikes",
-      "type": "topic",
+      "type": "event",
       "description": "The April 13 and 14, 2018 US and French strikes on Syria that the host ties to Charlie Kirk's April 13, 2018 text about war.",
       "related_artifacts": [],
       "related_claims": [
@@ -1856,14 +1918,17 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2018-04"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "FBI, listed among agencies at the scene.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1872,7 +1937,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -1886,7 +1953,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [],
       "claim_timestamp": "00:06:34",
@@ -1905,7 +1972,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [],
       "claim_timestamp": "00:07:45",
@@ -1925,7 +1992,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10303"
+        "N-10285"
       ],
       "tags": [],
       "claim_timestamp": "00:08:36",
@@ -1945,7 +2012,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [],
       "claim_timestamp": "00:09:20",
@@ -1964,7 +2031,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [],
       "claim_timestamp": "00:09:20",
@@ -1984,7 +2051,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [],
       "claim_timestamp": "00:10:39",
@@ -2093,8 +2160,8 @@
         "A-1486.1"
       ],
       "related_nodes": [
-        "N-10298",
-        "N-10300"
+        "N-10280",
+        "N-10282"
       ],
       "tags": [],
       "claim_timestamp": "00:27:25",
@@ -2114,7 +2181,7 @@
         "A-1486.2"
       ],
       "related_nodes": [
-        "N-10298"
+        "N-10280"
       ],
       "tags": [],
       "claim_timestamp": "00:30:22",
@@ -2131,7 +2198,7 @@
         "A-1486.3"
       ],
       "related_nodes": [
-        "N-10298"
+        "N-10280"
       ],
       "tags": [],
       "claim_timestamp": "00:30:35",
@@ -2148,7 +2215,7 @@
         "A-1486.4"
       ],
       "related_nodes": [
-        "N-10301"
+        "N-10283"
       ],
       "tags": [],
       "claim_timestamp": "00:47:01",
@@ -2167,7 +2234,7 @@
         "A-1487.1"
       ],
       "related_nodes": [
-        "N-10299"
+        "N-10281"
       ],
       "tags": [],
       "claim_timestamp": "00:37:19",
@@ -2183,8 +2250,8 @@
         "A-1488.1"
       ],
       "related_nodes": [
-        "N-10302",
-        "N-10305"
+        "N-10284",
+        "N-10287"
       ],
       "tags": [],
       "claim_timestamp": "00:33:15",
@@ -2241,7 +2308,7 @@
       "claim": "The host says an Englishman priest who instructed her told her that Americans know nothing of their history and that the country was founded by Freemasons.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -2261,7 +2328,7 @@
       "claim": "The host says the Freemasons caused the revolutions against the Christian Empire across Europe, a history she says Catholics and the Orthodox preserved while Americans were taught a packaged version.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -2281,9 +2348,9 @@
       "claim": "The host says the previous day's tip from a person in Wilmington, Delaware asserted that the FBI had hidden offices in buildings that appeared to be in part controlled by French American families with possible conflicted interests, particularly the DuPont family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10265",
-        "N-10289",
-        "N-10306"
+        "N-10249",
+        "N-10271",
+        "N-10288"
       ],
       "tags": [
         "relevance:context"
@@ -2303,8 +2370,8 @@
       "claim": "The host says that after she mentioned the DuPont family, tips flooded in from Wilmington residents saying the family owns nearly everything, including hospitals, schools and buildings, and that some tipsters also passed on folklore of DuPont involvement in murders.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10288",
-        "N-10306"
+        "N-10270",
+        "N-10288"
       ],
       "tags": [
         "relevance:context"
@@ -2345,7 +2412,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [
         "relevance:tangential"
@@ -2368,7 +2435,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [
         "relevance:tangential"
@@ -2390,7 +2457,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [
         "relevance:tangential"
@@ -2411,8 +2478,8 @@
       "claim": "The host says that the Richards law firm named in the article is the firm that is filing the paperwork for her, and that she did not know this until the previous day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10303",
-        "N-10270"
+        "N-10285",
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -2434,8 +2501,8 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10303",
-        "N-10306"
+        "N-10285",
+        "N-10288"
       ],
       "tags": [
         "relevance:context"
@@ -2456,7 +2523,7 @@
       "claim": "The host says the DuPont family fortune is in chemicals, which she says are chemicals used in war, and that she will return to this later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [
         "relevance:tangential"
@@ -2478,7 +2545,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [
         "relevance:tangential"
@@ -2498,7 +2565,7 @@
       "claim": "The host lists murder for hire, incest and Jeffrey Epstein's ties to France as elements of what she calls a theme she finds uncomfortable.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10306"
+        "N-10288"
       ],
       "tags": [
         "relevance:tangential"
@@ -2542,8 +2609,8 @@
         "A-3113.1"
       ],
       "related_nodes": [
-        "N-10289",
-        "N-10288"
+        "N-10271",
+        "N-10270"
       ],
       "tags": [
         "relevance:context"
@@ -2568,8 +2635,8 @@
         "A-3113.1"
       ],
       "related_nodes": [
-        "N-10304",
-        "N-10270"
+        "N-10286",
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -2592,8 +2659,8 @@
         "A-3113.1"
       ],
       "related_nodes": [
-        "N-10285",
-        "N-10286"
+        "N-10267",
+        "N-10268"
       ],
       "tags": [
         "relevance:context"
@@ -2613,7 +2680,7 @@
       "claim": "The host says people had noted that Stacy Sheridan had a few LLCs through which she was paid and names Cloverstone Ventures as the one she is speaking about, adding that it could all be above board.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10304"
+        "N-10286"
       ],
       "tags": [
         "relevance:context"
@@ -2695,7 +2762,7 @@
       "claim": "The host says Stacy Sheridan was the person filming Charlie Kirk's casket as it was escorted off Air Force 2.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11202"
+        "N-11118"
       ],
       "tags": [
         "relevance:core"
@@ -2716,7 +2783,7 @@
       "claim": "The host says Sheridan eulogized Charlie Kirk on stage, captured intimate photos of his casket, and then appeared at the White House shedding tears over a holiday the host calls fake.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11202"
+        "N-11118"
       ],
       "tags": [
         "relevance:core"
@@ -2737,9 +2804,9 @@
       "claim": "The host says her team learned that a French and Israeli firm, ACE Partners, is the second largest shareholder of Satys, the company that leased the Wilmington hangar.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11278",
-        "N-11008",
-        "N-10269"
+        "N-11194",
+        "N-10928",
+        "N-10253"
       ],
       "tags": [
         "relevance:core"
@@ -2759,8 +2826,8 @@
       "claim": "The host says leasing the Wilmington hangar requires federal approval because it sits on federal airways, which she suggests might mean French approval.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11008",
-        "N-10269"
+        "N-10928",
+        "N-10253"
       ],
       "tags": [
         "relevance:core"
@@ -2804,7 +2871,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-11235"
+        "N-11151"
       ],
       "tags": [
         "relevance:core"
@@ -2832,7 +2899,7 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -2858,8 +2925,8 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10276",
-        "N-10253"
+        "N-10259",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2884,7 +2951,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10276"
+        "N-10259"
       ],
       "tags": [
         "relevance:core"
@@ -2909,8 +2976,8 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10266",
-        "N-10276"
+        "N-10250",
+        "N-10259"
       ],
       "tags": [
         "relevance:core"
@@ -2922,7 +2989,7 @@
         "C-3268"
       ],
       "mentions_person_refs": [
-        "N-10276"
+        "N-10259"
       ]
     },
     {
@@ -2960,7 +3027,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [
         "relevance:core"
@@ -2982,7 +3049,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [
         "relevance:core"
@@ -3025,7 +3092,7 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -3048,7 +3115,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10290"
+        "N-10272"
       ],
       "tags": [
         "relevance:context"
@@ -3070,7 +3137,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:core"
@@ -3095,7 +3162,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:core"
@@ -3117,8 +3184,8 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10302",
-        "N-10342"
+        "N-10284",
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -3144,8 +3211,8 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10302",
-        "N-10456"
+        "N-10284",
+        "N-10425"
       ],
       "tags": [
         "relevance:core"
@@ -3171,8 +3238,8 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10266",
-        "N-10276"
+        "N-10250",
+        "N-10259"
       ],
       "tags": [
         "relevance:core"
@@ -3197,7 +3264,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10250"
       ],
       "tags": [
         "relevance:core"
@@ -3219,8 +3286,8 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10273",
-        "N-10279"
+        "N-10257",
+        "N-10262"
       ],
       "tags": [
         "relevance:context"
@@ -3229,7 +3296,7 @@
       "investigative_direction": "Check the exercise dates and participants against organizer and Minnesota National Guard statements; the host's stated date range differs from earlier reporting.",
       "transcript_snippet": "operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.",
       "mentions_person_refs": [
-        "N-10279"
+        "N-10262"
       ]
     },
     {
@@ -3243,7 +3310,7 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -3265,7 +3332,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10291"
+        "N-10273"
       ],
       "tags": [
         "relevance:core"
@@ -3287,8 +3354,8 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10132",
-        "N-10434"
+        "N-10127",
+        "N-10404"
       ],
       "tags": [
         "relevance:core"
@@ -3315,7 +3382,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -3337,7 +3404,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10397"
+        "N-10370"
       ],
       "tags": [
         "relevance:core"
@@ -3359,7 +3426,7 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10291"
+        "N-10273"
       ],
       "tags": [
         "relevance:core"
@@ -3384,9 +3451,9 @@
         "A-3114.1"
       ],
       "related_nodes": [
-        "N-10132",
-        "N-10434",
-        "N-10302"
+        "N-10127",
+        "N-10404",
+        "N-10284"
       ],
       "tags": [
         "relevance:core"
@@ -3427,7 +3494,7 @@
         "A-3115.1"
       ],
       "related_nodes": [
-        "N-10300"
+        "N-10282"
       ],
       "tags": [
         "relevance:core"
@@ -3448,7 +3515,7 @@
       "claim": "The host says Turning Point USA raised $90 million in the first couple of weeks after Charlie's assassination and that the donor in question was dangling billionaire-scale money far beyond that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10298"
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -3468,8 +3535,8 @@
       "claim": "The host says the billion-dollar arrangement was a huge secret known to only a handful of people and that people in TPUSA's donations department may not have heard of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10298",
-        "N-10300"
+        "N-10280",
+        "N-10282"
       ],
       "tags": [
         "relevance:core"
@@ -3486,8 +3553,8 @@
       "claim": "The host says people began to find out about the guarded donor arrangement because of an unfortunate conversation that had been left unattended.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10298",
-        "N-10300"
+        "N-10280",
+        "N-10282"
       ],
       "tags": [
         "relevance:core"
@@ -3507,7 +3574,7 @@
       "claim": "The host says she got an answer on the donor's name very early after the assassination, before she went to Wyoming, and that she completely forgot the key detail while grieving.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10298"
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -3529,7 +3596,7 @@
         "A-1488.1"
       ],
       "related_nodes": [
-        "N-10305"
+        "N-10287"
       ],
       "tags": [
         "relevance:core"
@@ -3553,7 +3620,7 @@
       "claim": "The host says that any payment Turning Point received from the donor would not be on this year's taxes but would be on next year's, though she asks the question now.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10298"
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -3657,7 +3724,7 @@
         "A-1481.1"
       ],
       "related_nodes": [
-        "N-11281"
+        "N-11197"
       ],
       "tags": [
         "relevance:context"
@@ -3679,7 +3746,7 @@
         "A-1481.1"
       ],
       "related_nodes": [
-        "N-11281"
+        "N-11197"
       ],
       "tags": [
         "relevance:tangential"
@@ -3698,7 +3765,7 @@
         "A-1481.1"
       ],
       "related_nodes": [
-        "N-11281"
+        "N-11197"
       ],
       "tags": [
         "relevance:context"
@@ -3717,7 +3784,7 @@
         "A-1481.1"
       ],
       "related_nodes": [
-        "N-11281"
+        "N-11197"
       ],
       "tags": [
         "relevance:context"
@@ -3810,7 +3877,7 @@
       "claim": "The host says a sleuth told her Tyler Bowyer has a younger brother who for ten years worked in dental sales until Charlie died, when an opportunity presented itself at Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10301"
+        "N-10283"
       ],
       "tags": [
         "relevance:context"
@@ -3832,7 +3899,7 @@
       "claim": "The host says Charlie apparently had a 15 to 20 year plan according to Frank Turek or Rob McCoy, and that Rob McCoy said Charlie kept it in his notebooks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10301"
+        "N-10283"
       ],
       "tags": [
         "relevance:context"
@@ -3909,8 +3976,8 @@
       "claim": "The host says she hopes Erika Kirk will issue a statement and that in her new capacity as CEO and chairman Erika owes an answer about the check and the phone call, which she says her sources were solid on.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10300",
-        "N-10298"
+        "N-10282",
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -3931,7 +3998,7 @@
       "claim": "The host says she thinks the federal government is trying to bankrupt her in a thousand different ways, with legal warfare one of the strategies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10295"
+        "N-10277"
       ],
       "tags": [
         "relevance:context"
@@ -4008,7 +4075,7 @@
       "claim": "The host says there are some good feds and an underground movement happening but not nearly enough for what taxpayers pay.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10299"
+        "N-10281"
       ],
       "tags": [
         "relevance:context"

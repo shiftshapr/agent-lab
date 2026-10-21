@@ -19,7 +19,7 @@
     "",
     "- **Episode Ledger Summary**:",
     "  - Claim Range: C-11506–C-11592",
-    "  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-186, N-217, N-367, N-506, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764, N-11143",
+    "  - Reused Nodes Appearing: N-11361, N-10681, N-10691, N-7, N-40, N-186, N-217, N-367, N-506, N-10100, N-10106, N-10165, N-10193, N-10220, N-10319, N-10321, N-10328, N-10625, N-10651, N-10655, N-10660, N-10697, N-10698, N-10983, N-10693, N-10086",
     " - (see registers)",
     "",
     "## I. Meta-Data",
@@ -35,7 +35,7 @@
     "- Analysis date: 2026-07-30",
     "- Ledger continuation summary:",
     " - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216",
-    " - New Nodes Introduced: N-10759, N-10760, N-10761, N-10763",
+    " - New Nodes Introduced: N-10689, N-10690, N-10692",
     " - Reused Nodes Appearing: N-2",
     " - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)",
     "",
@@ -97,7 +97,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11536, N-1, N-10763*"
+     "raw": "*Related: C-11536, N-1, N-10692*"
     },
     {
      "raw": ""
@@ -154,7 +154,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11541, N-10764*"
+     "raw": "*Related: C-11541, N-10693*"
     },
     {
      "raw": ""
@@ -211,7 +211,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11568, C-11570, N-1, N-10761*"
+     "raw": "*Related: C-11568, C-11570, N-1, N-10690*"
     },
     {
      "raw": ""
@@ -496,7 +496,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11521, N-10762*"
+     "raw": "*Related: C-11521, N-10691*"
     },
     {
      "raw": ""
@@ -553,7 +553,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11530, N-10762*"
+     "raw": "*Related: C-11530, N-10691*"
     },
     {
      "raw": ""
@@ -1105,7 +1105,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11568, C-11570, C-11536, A-2205.1, A-2207.1, N-10759, N-10761, N-10764*"
+     "raw": "*Related: C-11568, C-11570, C-11536, A-2205.1, A-2207.1, N-10681, N-10690, N-10693*"
     },
     {
      "raw": ""
@@ -1120,57 +1120,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10759",
-   "header": "**N-10759** Kirk Burial / Cremation Status",
-   "label": "Kirk Burial / Cremation Status",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "k": "Persistent investigation target",
-     "v": "whether Charlie Kirk was actually interred at a Catholic cemetery, or subject to a mock burial before/after cremation."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "k": "Evidence Count",
-     "v": "0"
-    },
-    {
-     "k": "Claim Count",
-     "v": "0"
-    },
-    {
-     "k": "Episode Count",
-     "v": "1"
-    },
-    {
-     "k": "Investigative Pressure",
-     "v": "High"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: N-10760, N-10763, N-10764*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10760",
-   "header": "**N-10760** Mock Burial Allegation",
+   "id": "N-10689",
+   "header": "**N-10689** Mock Burial Allegation",
    "label": "Mock Burial Allegation",
    "lines": [
     {
@@ -1203,7 +1154,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-10759, N-10763, N-10764*"
+     "raw": "*Related: N-10681, N-10692, N-10693*"
     },
     {
      "raw": ""
@@ -1224,8 +1175,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10761",
-   "header": "**N-10761** Kirk Autopsy Heart/Lung Hemorrhage Causation",
+   "id": "N-10690",
+   "header": "**N-10690** Kirk Autopsy Heart/Lung Hemorrhage Causation",
    "label": "Kirk Autopsy Heart/Lung Hemorrhage Causation",
    "lines": [
     {
@@ -1272,8 +1223,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10762",
-   "header": "**N-10762** \"Other Angle\" Rooftop Footage Existence",
+   "id": "N-10691",
+   "header": "**N-10691** \"Other Angle\" Rooftop Footage Existence",
    "label": "\"Other Angle\" Rooftop Footage Existence",
    "lines": [
     {
@@ -1320,8 +1271,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10763",
-   "header": "**N-10763** Hansen Mortuary Role",
+   "id": "N-10692",
+   "header": "**N-10692** Hansen Mortuary Role",
    "label": "Hansen Mortuary Role",
    "lines": [
     {
@@ -1353,7 +1304,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11536, A-2205.1, N-10759, N-10760*"
+     "raw": "*Related: C-11536, A-2205.1, N-10681, N-10689*"
     },
     {
      "raw": ""
@@ -1368,8 +1319,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10764",
-   "header": "**N-10764** Kirk Religious Affiliation Status",
+   "id": "N-10693",
+   "header": "**N-10693** Kirk Religious Affiliation Status",
    "label": "Kirk Religious Affiliation Status",
    "lines": [
     {
@@ -1401,7 +1352,44 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11541, A-2206.1, N-2, N-10760*"
+     "raw": "*Related: C-11541, A-2206.1, N-2, N-10689*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11587*"
     },
     {
      "raw": ""
@@ -1793,8 +1781,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10110",
-   "header": "**N-10110** Tyler Robinson Evidence Gaps",
+   "id": "N-10106",
+   "header": "**N-10106** Tyler Robinson Evidence Gaps",
    "label": "Tyler Robinson Evidence Gaps",
    "lines": [
     {
@@ -1822,8 +1810,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11065",
-   "header": "**N-11065** Preliminary Hearing Influencer Invitation Question",
+   "id": "N-10983",
+   "header": "**N-10983** Preliminary Hearing Influencer Invitation Question",
    "label": "Preliminary Hearing Influencer Invitation Question",
    "lines": [
     {
@@ -1851,8 +1839,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10769",
-   "header": "**N-10769** Losee Center Gun Verification Gap",
+   "id": "N-10698",
+   "header": "**N-10698** Losee Center Gun Verification Gap",
    "label": "Losee Center Gun Verification Gap",
    "lines": [
     {
@@ -1880,8 +1868,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10172",
-   "header": "**N-10172** Multiple Decoys Theory (4 Decoys Named)",
+   "id": "N-10165",
+   "header": "**N-10165** Multiple Decoys Theory (4 Decoys Named)",
    "label": "Multiple Decoys Theory (4 Decoys Named)",
    "lines": [
     {
@@ -1909,8 +1897,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10343",
-   "header": "**N-10343** Tyler Robinson Rooftop Access Timeline",
+   "id": "N-10321",
+   "header": "**N-10321** Tyler Robinson Rooftop Access Timeline",
    "label": "Tyler Robinson Rooftop Access Timeline",
    "lines": [
     {
@@ -1938,8 +1926,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10201",
-   "header": "**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy",
+   "id": "N-10193",
+   "header": "**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy",
    "label": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
    "lines": [
     {
@@ -1967,8 +1955,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10104",
-   "header": "**N-10104** Catholic Conversion Rumor",
+   "id": "N-10100",
+   "header": "**N-10100** Catholic Conversion Rumor",
    "label": "Catholic Conversion Rumor",
    "lines": [
     {
@@ -1996,8 +1984,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10350",
-   "header": "**N-10350** Charlie Kirk Catholicism Journey",
+   "id": "N-10328",
+   "header": "**N-10328** Charlie Kirk Catholicism Journey",
    "label": "Charlie Kirk Catholicism Journey",
    "lines": [
     {
@@ -2025,66 +2013,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10164",
-   "header": "**N-10164** Charlie Kirk Catholic Trajectory Verification",
-   "label": "Charlie Kirk Catholic Trajectory Verification",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Existing topic reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-11542*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10323",
-   "header": "**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass",
-   "label": "Charlie Kirk Burial Status / Catholic Funeral Mass",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Existing topic reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-11538, C-11539, C-11546, C-11551, C-11554, C-11555, C-11561*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10233",
-   "header": "**N-10233** Priest Presence at Ole Miss Event",
+   "id": "N-10220",
+   "header": "**N-10220** Priest Presence at Ole Miss Event",
    "label": "Priest Presence at Ole Miss Event",
    "lines": [
     {
@@ -2112,8 +2042,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10751",
-   "header": "**N-10751** Charlie Kirk Cremation/Burial Status Verification",
+   "id": "N-10681",
+   "header": "**N-10681** Charlie Kirk Cremation/Burial Status Verification",
    "label": "Charlie Kirk Cremation/Burial Status Verification",
    "lines": [
     {
@@ -2141,8 +2071,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10725",
-   "header": "**N-10725** Officer Bagley Body-Cam Battery Anomaly",
+   "id": "N-10660",
+   "header": "**N-10660** Officer Bagley Body-Cam Battery Anomaly",
    "label": "Officer Bagley Body-Cam Battery Anomaly",
    "lines": [
     {
@@ -2170,8 +2100,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10341",
-   "header": "**N-10341** Andrew Kolvet Surgeon Bullet Description",
+   "id": "N-10319",
+   "header": "**N-10319** Andrew Kolvet Surgeon Bullet Description",
    "label": "Andrew Kolvet Surgeon Bullet Description",
    "lines": [
     {
@@ -2199,8 +2129,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10687",
-   "header": "**N-10687** Frank Turek CPR Claim Verification",
+   "id": "N-10625",
+   "header": "**N-10625** Frank Turek CPR Claim Verification",
    "label": "Frank Turek CPR Claim Verification",
    "lines": [
     {
@@ -2228,8 +2158,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10768",
-   "header": "**N-10768** Shaped Charge / Exploding Microphone Hypothesis",
+   "id": "N-10697",
+   "header": "**N-10697** Shaped Charge / Exploding Microphone Hypothesis",
    "label": "Shaped Charge / Exploding Microphone Hypothesis",
    "lines": [
     {
@@ -2257,8 +2187,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10715",
-   "header": "**N-10715** Blake Neff September 10th Movement Discrepancy",
+   "id": "N-10651",
+   "header": "**N-10651** Blake Neff September 10th Movement Discrepancy",
    "label": "Blake Neff September 10th Movement Discrepancy",
    "lines": [
     {
@@ -2286,8 +2216,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10719",
-   "header": "**N-10719** Prosecution Non-Call of Rooftop Eyewitness",
+   "id": "N-10655",
+   "header": "**N-10655** Prosecution Non-Call of Rooftop Eyewitness",
    "label": "Prosecution Non-Call of Rooftop Eyewitness",
    "lines": [
     {
@@ -2315,16 +2245,16 @@
   },
   {
    "kind": "node",
-   "id": "N-11143",
-   "header": "**N-11143** Rooftop Screwdriver Claim",
-   "label": "Rooftop Screwdriver Claim",
+   "id": "N-10086",
+   "header": "**N-10086** Screwdriver Evidence Question",
+   "label": "Screwdriver Evidence Question",
    "lines": [
     {
      "raw": ""
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "The dispute over whether a screwdriver was recovered from or used on the Losee rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown."
@@ -2389,7 +2319,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761"
+     "v": "N-10690"
     },
     {
      "raw": ""
@@ -2445,7 +2375,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761"
+     "v": "N-10690"
     },
     {
      "raw": ""
@@ -2501,7 +2431,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10762"
+     "v": "N-10691"
     },
     {
      "raw": ""
@@ -2620,7 +2550,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10763"
+     "v": "N-10692"
     },
     {
      "raw": ""
@@ -2676,7 +2606,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10764"
+     "v": "N-10693"
     },
     {
      "raw": ""
@@ -2910,7 +2840,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10762"
+     "v": "N-10691"
     },
     {
      "raw": ""
@@ -3133,7 +3063,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Tags",
@@ -3194,7 +3124,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Tags",
@@ -3255,7 +3185,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10769"
+     "v": "N-10698"
     },
     {
      "k": "Tags",
@@ -3316,7 +3246,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761"
+     "v": "N-10690"
     },
     {
      "k": "Tags",
@@ -3377,7 +3307,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11065"
+     "v": "N-10983"
     },
     {
      "k": "Tags",
@@ -3438,7 +3368,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11065"
+     "v": "N-10983"
     },
     {
      "k": "Tags",
@@ -3499,7 +3429,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10172, N-10769"
+     "v": "N-10165, N-10698"
     },
     {
      "k": "Tags",
@@ -3560,7 +3490,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10769"
+     "v": "N-10698"
     },
     {
      "k": "Tags",
@@ -3621,7 +3551,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10769"
+     "v": "N-10698"
     },
     {
      "k": "Tags",
@@ -3682,7 +3612,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10769"
+     "v": "N-10698"
     },
     {
      "k": "Tags",
@@ -3743,7 +3673,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10762"
+     "v": "N-10691"
     },
     {
      "k": "Qualifies",
@@ -3808,7 +3738,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10769"
+     "v": "N-10698"
     },
     {
      "k": "Tags",
@@ -3869,7 +3799,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Tags",
@@ -3930,7 +3860,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Contradicts",
@@ -3995,7 +3925,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10343"
+     "v": "N-10321"
     },
     {
      "k": "Tags",
@@ -4056,7 +3986,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761"
+     "v": "N-10690"
     },
     {
      "k": "Tags",
@@ -4117,7 +4047,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10769"
+     "v": "N-10698"
     },
     {
      "k": "Tags",
@@ -4178,7 +4108,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10762"
+     "v": "N-10691"
     },
     {
      "k": "Supports",
@@ -4243,7 +4173,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11065"
+     "v": "N-10983"
     },
     {
      "k": "Tags",
@@ -4304,7 +4234,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -4365,7 +4295,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -4426,7 +4356,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -4487,7 +4417,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Supports",
@@ -4552,7 +4482,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10323"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -4613,7 +4543,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10323"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -4674,7 +4604,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10104, N-10350"
+     "v": "N-10100, N-10328"
     },
     {
      "k": "Tags",
@@ -4735,7 +4665,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10164, N-10350"
+     "v": "N-10100, N-10328"
     },
     {
      "k": "Tags",
@@ -4796,7 +4726,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10104"
+     "v": "N-10100"
     },
     {
      "k": "Tags",
@@ -4857,7 +4787,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10350"
+     "v": "N-10328"
     },
     {
      "k": "Supports",
@@ -4922,7 +4852,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10104"
+     "v": "N-10100"
     },
     {
      "k": "Tags",
@@ -4983,7 +4913,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10323"
+     "v": "N-10193"
     },
     {
      "k": "Qualifies",
@@ -5048,7 +4978,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10760"
+     "v": "N-10689"
     },
     {
      "k": "Tags",
@@ -5109,7 +5039,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10760, N-10763"
+     "v": "N-10689, N-10692"
     },
     {
      "k": "Tags",
@@ -5170,7 +5100,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10760"
+     "v": "N-10689"
     },
     {
      "k": "Tags",
@@ -5231,7 +5161,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10760, N-10763"
+     "v": "N-10689, N-10692"
     },
     {
      "k": "Tags",
@@ -5292,7 +5222,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10323, N-10233"
+     "v": "N-10193, N-10220"
     },
     {
      "k": "Tags",
@@ -5353,7 +5283,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10233"
+     "v": "N-10220"
     },
     {
      "k": "Tags",
@@ -5414,7 +5344,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10233"
+     "v": "N-10220"
     },
     {
      "k": "Supports",
@@ -5479,7 +5409,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10323"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -5540,7 +5470,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10759, N-10323"
+     "v": "N-10681, N-10193"
     },
     {
      "k": "Tags",
@@ -5601,7 +5531,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10759, N-10751"
+     "v": "N-10681"
     },
     {
      "k": "Tags",
@@ -5662,7 +5592,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10759, N-10751"
+     "v": "N-10681"
     },
     {
      "k": "Supports",
@@ -5727,7 +5657,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10759, N-10751"
+     "v": "N-10681"
     },
     {
      "k": "Tags",
@@ -5788,7 +5718,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10760"
+     "v": "N-10689"
     },
     {
      "k": "Tags",
@@ -5849,7 +5779,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10759, N-10751"
+     "v": "N-10681"
     },
     {
      "k": "Tags",
@@ -5910,7 +5840,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10760, N-10323"
+     "v": "N-10689, N-10193"
     },
     {
      "k": "Tags",
@@ -5971,7 +5901,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -6089,7 +6019,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11143"
+     "v": "N-10086"
     },
     {
      "k": "Tags",
@@ -6150,7 +6080,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10725, N-11143"
+     "v": "N-10660, N-10086"
     },
     {
      "k": "Tags",
@@ -6268,7 +6198,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761"
+     "v": "N-10690"
     },
     {
      "k": "Revises",
@@ -6333,7 +6263,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10341, N-10761"
+     "v": "N-10319, N-10690"
     },
     {
      "k": "Tags",
@@ -6394,7 +6324,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761"
+     "v": "N-10690"
     },
     {
      "k": "Qualifies",
@@ -6459,7 +6389,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10687"
+     "v": "N-10625"
     },
     {
      "k": "Tags",
@@ -6520,7 +6450,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761"
+     "v": "N-10690"
     },
     {
      "k": "Tags",
@@ -6581,7 +6511,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761"
+     "v": "N-10690"
     },
     {
      "k": "Tags",
@@ -6642,7 +6572,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10768, N-10761"
+     "v": "N-10697, N-10690"
     },
     {
      "k": "Tags",
@@ -6703,7 +6633,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761, N-10768"
+     "v": "N-10690, N-10697"
     },
     {
      "k": "Tags",
@@ -6764,7 +6694,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10769"
+     "v": "N-10698"
     },
     {
      "k": "Supports",
@@ -6829,7 +6759,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10172, N-10769"
+     "v": "N-10165, N-10698"
     },
     {
      "k": "Tags",
@@ -6890,7 +6820,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10719"
+     "v": "N-10655"
     },
     {
      "k": "Tags",
@@ -6951,7 +6881,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11143"
+     "v": "N-10086"
     },
     {
      "k": "Tags",
@@ -7012,7 +6942,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11143, N-10769"
+     "v": "N-10086, N-10698"
     },
     {
      "k": "Contradicts",
@@ -7077,7 +7007,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10715"
+     "v": "N-10651"
     },
     {
      "k": "Tags",
@@ -7308,6 +7238,10 @@
      "v": ""
     },
     {
+     "k": "Related Nodes",
+     "v": "N-11361"
+    },
+    {
      "k": "Mentions",
      "v": "N-3, N-1"
     },
@@ -7484,7 +7418,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10761, N-10768"
+     "v": "N-10690, N-10697"
     },
     {
      "k": "Tags",
@@ -8166,9 +8100,9 @@
     "- **Transcription artifacts**: \"judge graph\" (A-2216.1 / C-11511), \"docked a witness\" (A-2208.1 / C-11510), \"Mike\" for \"mic\" (A-2211.1 / C-11516) – likely auto-caption errors.",
     "- **Verbally referenced, not displayed verbatim**: A-2210.1 (Kolvet pronunciation list content summarized rather than read aloud).",
     "- **Undisplayed referenced text messages**: Host references text messages from \"the people that would have knowledge of\" the mock burial, but no text message image or quote is displayed in the episode.",
-    "- **Unnamed source / Hunted tip**: The mock-burial allegation (N-10760) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.",
+    "- **Unnamed source / Hunted tip**: The mock-burial allegation (N-10689) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.",
     "- **Screwdriver reference**: Host paraphrases Skyhorse courtroom commentary about the defendant using a screwdriver (citing exhibits 12.1 and 12.4); no artifact displayed; not inscribed.",
-    "- **Wave 1 reconciliation**: Andrew Kolvet is N-14, Blake Neff is N-159 and Tim Pool is N-267; the Lisa Knows account has no CKA person node. The topic ids N-10141.. never denoted these people.",
+    "- **Wave 1 reconciliation**: Andrew Kolvet is N-14, Blake Neff is N-159 and Tim Pool is N-267; the Lisa Knows account has no CKA person node. The topic ids N-10136.. never denoted these people.",
     "- **Unnamed priest**: The priest said to have officiated the Catholic funeral mass, coordinated Erika's travel after the shooting, and traveled with her to the Ole Miss Turning Point event on Oct 29 is referenced but not named and not tied to any displayed artifact.",
     "- **Frank Turek**: Referenced by host as saying Charlie had no pulse; no artifact displayed.",
     "- **Danny Philip**: Referenced in passing by host re: Blake's \"convenient amnesia\"; no artifact displayed.",

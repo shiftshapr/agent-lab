@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-849, N-11236
-  - Hole-minted Nodes (reintro-ep037): N-307, N-10290, N-10303, N-10314, N-10334, N-10358, N-10366
-  - Tip-minted Nodes (reintro-ep037): N-11191
+  - Tip-minted Nodes (supplement_2026-10d): N-849, N-11152
+  - Hole-minted Nodes (reintro-ep037): N-307, N-10272, N-10285, N-10295, N-10313, N-10334, N-10341
+  - Tip-minted Nodes (reintro-ep037): N-11107
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3249–C-3327
-  - New Nodes Introduced: N-273, N-274, N-275, N-276, N-279, N-280, N-10273, N-10275, N-10276, N-10278, N-10279, N-10280, N-10281, N-10282
-  - Reused Nodes Appearing: N-1, N-277, N-7, N-14, N-17, N-22, N-36, N-82, N-125, N-140, N-176, N-195, N-208, N-212, N-246, N-268, N-130, N-10012, N-10031, N-10074, N-10094, N-10098, N-10137, N-10141, N-10151, N-10183, N-10197, N-10244, N-10253, N-10260, N-10265, N-10266, N-10270, N-10284, N-10817, N-11008, N-10274, N-10277, N-10311, N-278
+  - New Nodes Introduced: N-273, N-274, N-275, N-276, N-279, N-280, N-10257, N-10259, N-10261, N-10262, N-10263, N-10264, N-10265
+  - Reused Nodes Appearing: N-1, N-277, N-7, N-14, N-17, N-22, N-36, N-82, N-125, N-140, N-176, N-195, N-208, N-212, N-246, N-268, N-130, N-10012, N-10031, N-10071, N-10090, N-10094, N-10132, N-10136, N-10146, N-10175, N-10189, N-10230, N-10239, N-10245, N-10249, N-10250, N-10254, N-10740, N-10928, N-10258, N-10260, N-10293, N-278
   - (see registers)
 
 # Episode 37 Analysis Record
@@ -162,7 +162,7 @@ Video Timestamp: 00:08:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3262, C-3263, C-3264, N-69, N-10273, N-10277, N-10278, N-10279*
+*Related: C-3262, C-3263, C-3264, N-69, N-10257, N-10260, N-10261, N-10262*
 
 ---
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:09:53–00:10:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3266, N-69, N-10273*
+*Related: C-3266, N-69, N-10257*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:05:34–00:07:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (sender identity redacted by host; content verbally read)
 
-*Related: C-3256, C-3257, C-3258, N-69, N-10274, N-10277, N-10278, N-10273*
+*Related: C-3256, C-3257, C-3258, N-69, N-10258, N-10260, N-10261, N-10257*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:12:13–00:13:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (news clip played; exact source outlet not specified)
 
-*Related: C-3271, N-279, N-10276*
+*Related: C-3271, N-279, N-10259*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:29:33–00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (email content read verbatim)
 
-*Related: C-3308, N-3, N-276, N-10281*
+*Related: C-3308, N-3, N-276, N-10264*
 
 ---
 
@@ -288,7 +288,7 @@ Video Timestamp: 00:32:36–00:34:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-3, N-277, N-278, N-10282*
+*Related: N-3, N-277, N-278, N-10265*
 
 ---
 
@@ -397,7 +397,7 @@ Claim Count: 3
 Episode Count: 2 (this series)
 Investigative Pressure: High
 
-*Related: A-1451.1, A-1452.1, A-1453.1, C-3262, C-3251, C-3266, N-10273*
+*Related: A-1451.1, A-1452.1, A-1453.1, C-3262, C-3251, C-3266, N-10257*
 
 ---
 
@@ -410,7 +410,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1453.1, A-1454.1, C-3266, C-3258, N-10273*
+*Related: A-1453.1, A-1454.1, C-3266, C-3258, N-10257*
 
 ---
 
@@ -462,7 +462,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1459.1, C-3308, N-3, N-10281*
+*Related: A-1459.1, C-3308, N-3, N-10264*
 
 ---
 
@@ -488,7 +488,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1460.1, N-277, N-10282*
+*Related: A-1460.1, N-277, N-10265*
 
 ---
 
@@ -501,7 +501,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1455.1, C-3271, N-10276*
+*Related: A-1455.1, C-3271, N-10259*
 
 ---
 
@@ -518,7 +518,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10273** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
+**N-10257** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
 
 Investigation target: whether the Operation Valhalla Strike exercise (Aug 24–29, 2025) and the 891st MSFS's involvement have any causal or coordination link to the September 10, 2025 assassination; includes the Kash Patel "see you in Valhalla" press conference statement.
 
@@ -527,11 +527,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1451.1, A-1453.1, A-1454.1, C-3262, C-3266, C-3258, N-69, N-10278*
+*Related: A-1451.1, A-1453.1, A-1454.1, C-3262, C-3266, C-3258, N-69, N-10261*
 
 ---
 
-**N-10274** BTT Minot AFB Stopover Question
+**N-10258** BTT Minot AFB Stopover Question
 
 Investigation target: why the Egyptian military BTT aircraft stopped at Minot, North Dakota for approximately one hour on September 4, 2025 rather than flying direct to Provo.
 
@@ -540,24 +540,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1454.1, C-3256, N-10277, N-10278*
+*Related: A-1454.1, C-3256, N-10260, N-10261*
 
 ---
 
-**N-10275** Maroon Shirt Coordination Theory
-
-Investigation target: host's observation that multiple individuals in assassination-day footage appear to be wearing maroon shirts; host's source reportedly confirmed UVU school color is not maroon.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low (host-asserted, no documentary anchor)
-
-*Related: N-40*
-
----
-
-**N-10276** Nebraska–Egypt Trade Mission / BTT Plane Overlap
+**N-10259** Nebraska–Egypt Trade Mission / BTT Plane Overlap
 
 Investigation target: temporal overlap between BTT aircraft's July 20 longest trip (to Nebraska) and Nebraska Secretary of State's July 22 announcement of Egypt trade mission.
 
@@ -570,7 +557,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10277** Minot Air Force Base
+**N-10260** Minot Air Force Base
 
 U.S. Air Force base in North Dakota; home to 5,000 military personnel and the 891st MSFS; site of BTT's September 4 stopover.
 
@@ -579,11 +566,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1451.1, A-1454.1, C-3263, C-3256, N-10274, N-10278*
+*Related: A-1451.1, A-1454.1, C-3263, C-3256, N-10258, N-10261*
 
 ---
 
-**N-10278** 891st Missile Security Forces Squadron
+**N-10261** 891st Missile Security Forces Squadron
 
 Air Force unit stationed at Minot AFB; conducted Operation Valhalla Strike at Camp Ripley Aug 24–29, 2025; described as combined military/civilian security force.
 
@@ -592,11 +579,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1451.1, A-1454.1, C-3262, C-3264, N-10273, N-10277*
+*Related: A-1451.1, A-1454.1, C-3262, C-3264, N-10257, N-10260*
 
 ---
 
-**N-10279** Camp Ripley Training Center
+**N-10262** Camp Ripley Training Center
 
 Minnesota training facility where Operation Valhalla Strike was conducted Aug 24–29, 2025; provides full-distance live-fire ranges.
 
@@ -605,11 +592,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1451.1, C-3262, N-10278*
+*Related: A-1451.1, C-3262, N-10261*
 
 ---
 
-**N-10280** The Free Press
+**N-10263** The Free Press
 
 Online publication co-founded by Bari Weiss; outlet of record for the Rindsberg inquiry email.
 
@@ -622,7 +609,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10281** Free Press Email Inquiry Target
+**N-10264** Free Press Email Inquiry Target
 
 Topic: episode-specific Rindsberg email regarding "economics of high engagement political content" on YouTube and podcasts, covering Israel, Charlie Kirk's death, and Becoming Brigitte.
 
@@ -635,7 +622,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10282** CBS News
+**N-10265** CBS News
 
 Network where Bari Weiss was installed per Tim Dillon clip.
 
@@ -808,7 +795,7 @@ Existing topic reused for the host's reading of Patel's press conference.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Existing place reused for the Egyptian plane's destination.
 
@@ -816,7 +803,7 @@ Existing place reused for the Egyptian plane's destination.
 
 ---
 
-**N-10094** LDS Church
+**N-10090** LDS Church
 
 Existing organization reused for Kasparian's father's reported temple role.
 
@@ -824,7 +811,7 @@ Existing organization reused for Kasparian's father's reported temple role.
 
 ---
 
-**N-10098** Roof Video Provenance Chain
+**N-10094** Roof Video Provenance Chain
 
 Existing topic reused for the running and lying-down videos.
 
@@ -832,7 +819,7 @@ Existing topic reused for the running and lying-down videos.
 
 ---
 
-**N-10137** Suspicious Bush Theory (Range Day Bro)
+**N-10132** Suspicious Bush Theory (Range Day Bro)
 
 Existing topic reused for the host's identification of the person behind the bush.
 
@@ -840,7 +827,7 @@ Existing topic reused for the host's identification of the person behind the bus
 
 ---
 
-**N-10141** Mike Mitchell Public Record Anomaly
+**N-10136** Mike Mitchell Public Record Anomaly
 
 Existing topic reused for the uncle Mitchell question.
 
@@ -848,7 +835,7 @@ Existing topic reused for the uncle Mitchell question.
 
 ---
 
-**N-10151** Mike Mitchell Undercover Role Verification
+**N-10146** Mike Mitchell Undercover Role Verification
 
 Existing topic reused for the uncle Mitchell question.
 
@@ -856,7 +843,7 @@ Existing topic reused for the uncle Mitchell question.
 
 ---
 
-**N-10183** Medical Examiner Inquiry – Weiss Amaro
+**N-10175** Medical Examiner Inquiry – Weiss Amaro
 
 Existing topic reused for the host's military claim about Dr. Amaro.
 
@@ -864,7 +851,7 @@ Existing topic reused for the host's military claim about Dr. Amaro.
 
 ---
 
-**N-10197** TPUSA Military-Personnel Network
+**N-10189** TPUSA Military-Personnel Network
 
 Existing topic reused for the host's list of military connections.
 
@@ -872,7 +859,7 @@ Existing topic reused for the host's list of military connections.
 
 ---
 
-**N-10244** Pre-Event Old Man Near Bush Anomaly
+**N-10230** Pre-Event Old Man Near Bush Anomaly
 
 Existing topic reused for the bush-area sightings.
 
@@ -880,7 +867,7 @@ Existing topic reused for the bush-area sightings.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for the Egyptian planes claims.
 
@@ -888,7 +875,7 @@ Existing topic reused for the Egyptian planes claims.
 
 ---
 
-**N-10260** Federal Military Aircraft Escort Protocol Verification
+**N-10245** Federal Military Aircraft Escort Protocol Verification
 
 Existing topic reused for the host's escort claim.
 
@@ -896,7 +883,7 @@ Existing topic reused for the host's escort claim.
 
 ---
 
-**N-10265** 920 North King Street / 1 Rodney Square Federal Facility
+**N-10249** 920 North King Street / 1 Rodney Square Federal Facility
 
 Existing topic reused for the facility discussion.
 
@@ -904,7 +891,7 @@ Existing topic reused for the facility discussion.
 
 ---
 
-**N-10266** SUBTT Wilmington Visit Pattern
+**N-10250** SUBTT Wilmington Visit Pattern
 
 Existing topic reused for the host's Wilmington stay correction.
 
@@ -912,7 +899,7 @@ Existing topic reused for the host's Wilmington stay correction.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing topic reused for the host's Delaware lawsuit and local counsel remarks.
 
@@ -920,15 +907,7 @@ Existing topic reused for the host's Delaware lawsuit and local counsel remarks.
 
 ---
 
-**N-10284** 920 North King Street Federal Presence
-
-Existing topic reused for the host's defence of the location tip.
-
-*Related: C-3255, C-3299, C-3301, C-3322, C-3323*
-
----
-
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 Existing topic reused for the host's Foreign Legion tips.
 
@@ -936,7 +915,7 @@ Existing topic reused for the host's Foreign Legion tips.
 
 ---
 
-**N-10303** Richards Layton & Finger Connection to Candace Lawsuit
+**N-10285** Richards Layton & Finger Connection to Candace Lawsuit
 
 Existing topic reused for the host's explanation of local counsel.
 
@@ -944,7 +923,7 @@ Existing topic reused for the host's explanation of local counsel.
 
 ---
 
-**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+**N-10293** Maroon Shirt Pattern at UVU September 10 Event
 
 Existing topic reused for the maroon-shirt claims.
 
@@ -952,7 +931,7 @@ Existing topic reused for the maroon-shirt claims.
 
 ---
 
-**N-10314** Roof Shooter Video Witness Follow-up
+**N-10295** Roof Shooter Video Witness Follow-up
 
 Existing topic reused for the running-video filmer.
 
@@ -960,7 +939,7 @@ Existing topic reused for the running-video filmer.
 
 ---
 
-**N-10334** CBS Bari Weiss Town Hall Production Integrity
+**N-10313** CBS Bari Weiss Town Hall Production Integrity
 
 Existing topic reused for the Weiss CBS commentary.
 
@@ -968,7 +947,7 @@ Existing topic reused for the Weiss CBS commentary.
 
 ---
 
-**N-10358** Surgeon Quotation Authenticity Question
+**N-10334** Surgeon Quotation Authenticity Question
 
 Existing topic reused for the alleged surgeon.
 
@@ -976,7 +955,7 @@ Existing topic reused for the alleged surgeon.
 
 ---
 
-**N-10366** Operation Valhalla Strike
+**N-10341** Operation Valhalla Strike
 
 Existing topic reused for the exercise claims.
 
@@ -984,7 +963,7 @@ Existing topic reused for the exercise claims.
 
 ---
 
-**N-10817** Butch Hibbs UVU Recording Behavior
+**N-10740** Butch Hibbs UVU Recording Behavior
 
 Existing topic reused for Butch Hibbs's presence.
 
@@ -992,7 +971,7 @@ Existing topic reused for Butch Hibbs's presence.
 
 ---
 
-**N-11008** Satys
+**N-10928** Satys
 
 Existing organization reused for the French company at the Wilmington hangar.
 
@@ -1000,7 +979,7 @@ Existing organization reused for the French company at the Wilmington hangar.
 
 ---
 
-**N-11191** Pre-Born
+**N-11107** Pre-Born
 
 Existing organization reused for the sponsor read.
 
@@ -1016,7 +995,7 @@ First named by the host at 00:17:18 in episode 37. Tyler Robinson's mother, per 
 
 ---
 
-**N-11236** UVU Event Promotion and Attendee Control Theory
+**N-11152** UVU Event Promotion and Attendee Control Theory
 
 Node Type: Topic
 The host's theory that the September 10 event was barely advertised and posters went up at the last second so that organizers could control who attended and who recorded video.
@@ -1036,7 +1015,7 @@ Claim: Per the Minot Air Force Base website page the host reads, a week-long tra
 Anchored Artifacts: A-1451.1
 Mentions: 
 
-Related Nodes: N-10273, N-10277, N-10278, N-10279
+Related Nodes: N-10257, N-10260, N-10261, N-10262
 
 Investigative Direction: Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive.
 
@@ -1050,7 +1029,7 @@ Claim: Per the Minot Air Force Base website page the host reads, Operation Valha
 
 Anchored Artifacts: A-1451.1
 
-Related Nodes: N-10278, N-10279, N-10273
+Related Nodes: N-10261, N-10262, N-10257
 
 Investigative Direction: Compare with official 891st MSFS mission description and any subsequent DoD releases.
 
@@ -1064,7 +1043,7 @@ Claim: Per the Minot Air Force Base website page the host reads, the 891st Missi
 
 Anchored Artifacts: A-1451.1
 
-Related Nodes: N-10278, N-10277, N-10273
+Related Nodes: N-10261, N-10260, N-10257
 
 Investigative Direction: Verify against official USAF fact sheets.
 
@@ -1093,7 +1072,7 @@ Claim: At a press conference dated September 12, 2025, FBI Director Kash Patel c
 Anchored Artifacts: A-1453.1
 Mentions: N-69, N-1
 
-Related Nodes: N-10273
+Related Nodes: N-10257
 
 Investigative Direction: Compare to full Patel press conference record on FBI.gov or C-SPAN.
 
@@ -1108,7 +1087,7 @@ Claim: The host says the BTT aircraft stopped for just one hour in Minot, North 
 Anchored Artifacts: A-1454.1
 Mentions: 
 
-Related Nodes: N-10274, N-10277
+Related Nodes: N-10258, N-10260
 
 Investigative Direction: Cross-reference with ADS-B / Flightradar24 historical data for the relevant tail number and date; verify Minot AFB transient aircraft logs via FOIA.
 
@@ -1122,7 +1101,7 @@ Claim: Per the military tipster email, Minot, North Dakota hosts both an Air For
 
 Anchored Artifacts: A-1454.1
 
-Related Nodes: N-10277
+Related Nodes: N-10260
 
 Investigative Direction: Verify via Minot AFB public site and FBI field office directory.
 
@@ -1137,7 +1116,7 @@ Claim: Per the military tipster email, the 891st MSFS had "just come off of" Ope
 Anchored Artifacts: A-1454.1
 Mentions: 
 
-Related Nodes: N-10273, N-10274, N-10277, N-10278
+Related Nodes: N-10257, N-10258, N-10260, N-10261
 
 Investigative Direction: Confirm exercise completion dates and any overlap with BTT's arrival window; determine whether the unit had returned to Minot by September 4.
 
@@ -1152,7 +1131,7 @@ Claim: In a news clip the host plays, a reporter says Nebraska Secretary of Stat
 Anchored Artifacts: A-1455.1
 Mentions: N-279
 
-Related Nodes: N-10276
+Related Nodes: N-10259
 
 Investigative Direction: Locate the original announcement on the Nebraska Secretary of State website or press release archive; identify participating delegates.
 
@@ -1209,7 +1188,7 @@ Claim: Per the email from Free Press writer Ashley Rindsberg that the host reads
 Anchored Artifacts: A-1459.1
 Mentions: N-3, N-276, N-1
 
-Related Nodes: N-10280, N-10281
+Related Nodes: N-10263, N-10264
 
 Investigative Direction: Confirm whether the article was published and whether Rindsberg is correctly identified by the outlet's masthead.
 
@@ -1239,7 +1218,7 @@ Transcript Snippet: It seems that that company, Satys, that French company. The 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-11008
+Related Nodes: N-10928
 Supports: C-3210
 Tags: relevance:core
 Investigative Direction: Identify who at Satys the tipsters name and obtain the Satys hangar lease and any work orders for the Wilmington facility.
@@ -1256,7 +1235,7 @@ Transcript Snippet: rather we've learned that just before Charlie's assassinatio
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10366, N-10274, N-10253, N-10074
+Related Nodes: N-10341, N-10258, N-10239, N-10071
 Supports: C-3258
 Tags: relevance:core
 Investigative Direction: Compare the exercise dates and Minot AFB transient records with the SU-BTT September 4 flight log.
@@ -1286,7 +1265,7 @@ Claim: The host says she was informed that the previous evening there was real p
 Transcript Snippet: I can tell you that right now in government, there is real panic. There is real discussion happening regarding the Egyptian planes.
 
 Anchored Artifacts: 
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Identify the government sources or offices the host's informant refers to; look for any official acknowledgement of internal discussion on the planes.
 
@@ -1302,7 +1281,7 @@ Transcript Snippet: because I'm getting the sense that they hold the key to solv
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Lay out what the planes' flights prove or disprove relative to the September 10 timeline.
 
@@ -1318,7 +1297,7 @@ Transcript Snippet: We are going to figure out who that foreign dignitary was wh
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10284, N-10265, N-10266, N-10074
+Related Nodes: N-10249, N-10250, N-10071
 Supports: C-3052
 Tags: relevance:core
 Investigative Direction: Obtain passenger and ground-transport records for the SU-BTT September 10 Wilmington arrival and any visitor log for 920 North King Street.
@@ -1334,7 +1313,7 @@ Claim: After reading the military tipster's email, the host says her team invest
 Transcript Snippet: And so we investigated that and that fact checked true, right?
 
 Anchored Artifacts: A-1454.1
-Related Nodes: N-10277, N-10274
+Related Nodes: N-10260, N-10258
 Supports: C-3257
 Tags: relevance:core
 Investigative Direction: Ask the host for the sources used to verify the email claims; cross-check Minot AFB and FBI field office listings.
@@ -1350,7 +1329,7 @@ Claim: The host says North Dakota has about 750,000 people statewide, and that M
 Transcript Snippet: Approximately 750,000 people statewide. Okay. And in May not there are just 45,000 people and that includes 5,000 people who are stationed there at the May not air force
 
 Anchored Artifacts: 
-Related Nodes: N-10277
+Related Nodes: N-10260
 Tags: relevance:context
 Investigative Direction: Check Census figures for Minot and the base's published personnel numbers.
 
@@ -1365,7 +1344,7 @@ Claim: The host says Minot AFB is home to a global command strike center in whic
 Transcript Snippet: it is home as he indicated to a global command strike center which has participations between various countries on joint exercises.
 
 Anchored Artifacts: 
-Related Nodes: N-10277
+Related Nodes: N-10260
 Tags: relevance:context
 Investigative Direction: Verify the Air Force Global Strike Command footprint at Minot and any foreign participation in joint exercises in August 2025.
 
@@ -1380,7 +1359,7 @@ Claim: Reading the Minot AFB website article, the host says the 891st is a squad
 Transcript Snippet: a squadron of more than 250 dedicated airmen and civilians supporting the 91st Missile Wings Global Deterrence misses mission
 
 Anchored Artifacts: A-1451.1
-Related Nodes: N-10278, N-10277
+Related Nodes: N-10261, N-10260
 Tags: relevance:context
 Investigative Direction: Compare the headcount with the official 91st Missile Wing fact sheet.
 
@@ -1396,7 +1375,7 @@ Transcript Snippet: he was signaling to other people who were like in the club t
 
 Anchored Artifacts: A-1453.1
 Mentions: N-69
-Related Nodes: N-10031, N-10273
+Related Nodes: N-10031, N-10257
 Supports: C-3266
 Tags: relevance:core
 Investigative Direction: Compare the full press conference transcript with the 33-hour surrender timeline and ask the FBI the source of the Valhalla phrasing.
@@ -1412,7 +1391,7 @@ Claim: The host says SU-BTT's July 20 trip went from Cairo through Paris to Omah
 Transcript Snippet: It stayed in Nebraska for the longest stretch yet, departing um uh from Nebraska, from Lincoln, Nebraska in particular.
 
 Anchored Artifacts: A-3030.1
-Related Nodes: N-10276, N-10253
+Related Nodes: N-10259, N-10239
 Supports: C-3185
 Tags: relevance:core
 Investigative Direction: Pull ADS-B and FAA records for SU-BTT's July 2025 Omaha and Lincoln movements.
@@ -1428,7 +1407,7 @@ Claim: The host corrects her previous episode: SU-BTT stayed only one night in W
 Transcript Snippet: I think yesterday I said that it stayed in Wilmington for six days. Uh no, it only stayed in Wilmington for one night.
 
 Anchored Artifacts: A-3030.1
-Related Nodes: N-10266
+Related Nodes: N-10250
 Revises: C-3186
 Tags: relevance:core
 Investigative Direction: Check flight-tracking logs for the actual Wilmington arrival and departure dates on the July trip.
@@ -1445,7 +1424,7 @@ Transcript Snippet: during this stretch on July 22nd, the Nebraskan Secretary of
 
 Anchored Artifacts: A-1455.1, A-3030.1
 Mentions: N-279
-Related Nodes: N-10276
+Related Nodes: N-10259
 Supports: C-3271
 Tags: relevance:core
 Investigative Direction: Match the announcement date to SU-BTT's Nebraska dates and request the Nebraska Secretary of State's meeting calendar for July 2025.
@@ -1462,7 +1441,7 @@ Transcript Snippet: and it happens to line up with this plane that comes in um u
 
 Anchored Artifacts: A-1455.1
 Mentions: 
-Related Nodes: N-10276
+Related Nodes: N-10259
 Supports: C-3271
 Tags: relevance:core
 Investigative Direction: Obtain the Nebraska delegation schedule and meetings with Egyptian officials in July 2025.
@@ -1495,7 +1474,7 @@ Transcript Snippet: We are talking about a tminus 12 days until Charlie Kirk is 
 
 Anchored Artifacts: A-3030.1
 Mentions: N-1
-Related Nodes: N-10366, N-10273
+Related Nodes: N-10341, N-10257
 Supports: C-3262
 Tags: relevance:core
 Investigative Direction: Establish whether the 891st had any link to Utah, Wilmington or Provo; the date gap alone proves no causation.
@@ -1511,7 +1490,7 @@ Claim: The host says she has been receiving tips, which she previously ignored, 
 Transcript Snippet: we had been receiving tips I had ignored previously that the French Foreign Legion was involved somehow in this assassination.
 
 Anchored Artifacts: 
-Related Nodes: N-10290
+Related Nodes: N-10272
 Tags: relevance:core
 Investigative Direction: Seek documentation of Foreign Legion personnel or exercises in the United States in August and September 2025.
 
@@ -1541,7 +1520,7 @@ Transcript Snippet: This is our guy who happened to be a pilot who did his resid
 
 Anchored Artifacts: 
 Mentions: N-195
-Related Nodes: N-10197, N-10358
+Related Nodes: N-10189, N-10334
 Tags: relevance:core
 Investigative Direction: Check medical licensing and residency records for Dr. Lee Trotter.
 
@@ -1557,7 +1536,7 @@ Transcript Snippet: Dr. Deirdre Amaro, is the medical examiner, Charlie's medica
 
 Anchored Artifacts: 
 Mentions: N-176
-Related Nodes: N-10197, N-10183
+Related Nodes: N-10189, N-10175
 Tags: relevance:core
 Investigative Direction: Verify Dr. Amaro's reserve or active-duty military status and rank.
 
@@ -1573,7 +1552,7 @@ Transcript Snippet: Andrew Kolvet, obviously his brother and his cousin are capt
 
 Anchored Artifacts: 
 Mentions: N-14
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Verify the rank and service of Kolvet's brother and cousin via military records or statements.
 
@@ -1589,7 +1568,7 @@ Transcript Snippet: Frank Turek, who was there for the assassination, is a naval
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Verify Turek's Navy service and his sons' service records.
 
@@ -1605,7 +1584,7 @@ Transcript Snippet: McCoyy's naval intelligence background in psychological oper
 
 Anchored Artifacts: 
 Mentions: N-17
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Check the McCoy family's naval service records and any ship names; reconcile with the host's earlier statement that his father ran psychological operations.
 
@@ -1620,7 +1599,7 @@ Claim: The host says the video of the alleged shooter running away after the sho
 Transcript Snippet: you can't go from a crouching position to a full sprint in a split second.
 
 Anchored Artifacts: 
-Related Nodes: N-10098
+Related Nodes: N-10094
 Tags: relevance:core
 Investigative Direction: Have a firearms or biomechanics expert time the movement frame by frame.
 
@@ -1635,7 +1614,7 @@ Claim: The host says the running-away video was recorded by a person in the "ROC
 Transcript Snippet: Very strange. They didn't want to be involved and sent it through three people to release onto the internet.
 
 Anchored Artifacts: 
-Related Nodes: N-10098, N-10314
+Related Nodes: N-10094, N-10295
 Supports: C-3222
 Tags: relevance:core
 Investigative Direction: Trace the upload chain of the running video to its first public post and identify the filmer.
@@ -1651,7 +1630,7 @@ Claim: The host says the second video, of a man laying down before the shot, was
 Transcript Snippet: That also was recorded by a person in the military who actually teaches shooting.
 
 Anchored Artifacts: 
-Related Nodes: N-10098
+Related Nodes: N-10094
 Supports: C-3222
 Tags: relevance:core
 Investigative Direction: Identify the filmer of the pre-shot video and confirm any military or instructor background.
@@ -1668,7 +1647,7 @@ Transcript Snippet: Burton Hibbs, Butch, the brother of Pastor Jack Hibbs. Jack 
 
 Anchored Artifacts: 
 Mentions: N-246, N-208, N-1
-Related Nodes: N-10817
+Related Nodes: N-10740
 Supports: C-2695
 Tags: relevance:core
 Investigative Direction: Ask Jack Hibbs or TPUSA whether the call occurred and when; compare with Butch Hibbs's own account.
@@ -1684,7 +1663,7 @@ Claim: The host says it was very hard to find a student who just happened to be 
 Transcript Snippet: Probably because they barely advertised this event for a reason. Obviously, I think they wanted to control who was there.
 
 Anchored Artifacts: 
-Related Nodes: N-11236, N-10012
+Related Nodes: N-11152, N-10012
 Tags: relevance:core
 Investigative Direction: Obtain UVU and TPUSA promotion records, poster dates and ticketing data to see when and how the event was announced.
 
@@ -1716,7 +1695,7 @@ Transcript Snippet: Is this the Mitchell that allegedly convinced him to turn hi
 
 Anchored Artifacts: 
 Mentions: N-40, N-125
-Related Nodes: N-10141, N-10151
+Related Nodes: N-10136, N-10146
 Tags: relevance:core
 Investigative Direction: Establish whether Mike Mitchell is related to the Robinson family and what, if any, Ukraine connection he has.
 
@@ -1731,7 +1710,7 @@ Claim: The host says the SUBTT and SUBND are Egyptian military planes and that e
 Transcript Snippet: every plane that seems to be flying over UV UVU that day is somehow military contracted planes.
 
 Anchored Artifacts: 
-Related Nodes: N-10253, N-10012
+Related Nodes: N-10239, N-10012
 Tags: relevance:core
 Investigative Direction: Compile FAA flight data for aircraft over Orem on September 10 and check operators and contracts.
 
@@ -1747,7 +1726,7 @@ Transcript Snippet: As if they were told to wear a maroon shirt to identify each
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10275, N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Catalog the maroon-shirted individuals in crowd footage and identify them; compare with a baseline of shirt colors.
 
@@ -1762,7 +1741,7 @@ Claim: The host says she asked her source at Utah whether maroon is a school col
 Transcript Snippet: And he told me, "No, it's not maroon."
 
 Anchored Artifacts: 
-Related Nodes: N-10275, N-10012
+Related Nodes: N-10293, N-10012
 Tags: relevance:context
 Investigative Direction: Check UVU's official color palette and merchandise.
 
@@ -1778,7 +1757,7 @@ Transcript Snippet: His name is this person that was behind the bush is Jacob Ka
 
 Anchored Artifacts: A-3031.1
 Mentions: N-307
-Related Nodes: N-10137, N-10244
+Related Nodes: N-10132, N-10230
 Tags: relevance:core
 Investigative Direction: Verify the identification through event footage and ask Kasparian to account for his position; the host does not allege wrongdoing.
 
@@ -1794,7 +1773,7 @@ Transcript Snippet: they had posted on September 10th about uh their bulletproof
 
 Anchored Artifacts: A-3031.1
 Mentions: N-307, N-1
-Related Nodes: N-10137
+Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Capture the archived September 10 post and later posts by Kasparian and family members.
 
@@ -1810,7 +1789,7 @@ Transcript Snippet: president of uh the Mormon temple in Los Angeles.
 
 Anchored Artifacts: 
 Mentions: N-307
-Related Nodes: N-10094
+Related Nodes: N-10090
 Tags: relevance:core
 Investigative Direction: Verify the father's LDS temple role through Church records or announcements.
 
@@ -1841,7 +1820,7 @@ Transcript Snippet: But yes, he as well was wearing a maroon shirt.
 
 Anchored Artifacts: 
 Mentions: N-307
-Related Nodes: N-10275, N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Confirm via footage the shirt color and the person's identity.
 
@@ -1856,7 +1835,7 @@ Claim: The host theorizes that posters for the event went up at the very last se
 Transcript Snippet: the reason we waited till the very last second to put up posters about this event was because you didn't because you actually did want to control who went there that day.
 
 Anchored Artifacts: 
-Related Nodes: N-11236
+Related Nodes: N-11152
 Tags: relevance:core
 Investigative Direction: Collect dated photographs and social posts showing when promotion began.
 
@@ -1871,7 +1850,7 @@ Claim: The host says she thinks the people who were live streaming that day had 
 Transcript Snippet: Uh I I I even think and I I'll have to check this that the people that were live streaming that day had military uh backgrounds as well.
 
 Anchored Artifacts: 
-Related Nodes: N-11236, N-10197
+Related Nodes: N-11152, N-10189
 Tags: relevance:core
 Investigative Direction: Identify each livestream account at the event and research the operators' backgrounds.
 
@@ -1886,7 +1865,7 @@ Claim: The host says a trend claimed she was pranked by the person who emailed h
 Transcript Snippet: I told you I had run that up the chain for weeks to make sure everything was legit about that location and it is 1,000% legit
 
 Anchored Artifacts: 
-Related Nodes: N-10284, N-10265
+Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Request the host's verification trail for the 920 North King claim.
 
@@ -1901,7 +1880,7 @@ Claim: The host says the Egyptian planes were definitively pulled into Satys and
 Transcript Snippet: The Egyptian planes definitively were pulled into Satys uh and that person was then escorted for whatever reason.
 
 Anchored Artifacts: 
-Related Nodes: N-11008, N-10260, N-10265
+Related Nodes: N-10928, N-10245, N-10249
 Supports: C-2986
 Tags: relevance:core
 Investigative Direction: Obtain Satys hangar logs and any escort records for foreign aircraft at Wilmington.
@@ -1917,7 +1896,7 @@ Claim: The host says the facility to which the dignitary was escorted has joint 
 Transcript Snippet: where they have joint operations going on between the DHS and the DOJ uh being the Secret Service and the FBI and the DEA.
 
 Anchored Artifacts: 
-Related Nodes: N-10265, N-10284
+Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Confirm which agencies are tenants at 920 North King Street and 1 Rodney Square.
 
@@ -1933,7 +1912,7 @@ Transcript Snippet: For just $28, that's what it costs to give a free ultrasound
 
 Anchored Artifacts: A-3034.1
 Mentions: N-3
-Related Nodes: N-11191
+Related Nodes: N-11107
 Tags: relevance:tangential
 Investigative Direction: Compare the $28 figure with Pre-Born's published cost per ultrasound.
 
@@ -1965,7 +1944,7 @@ Transcript Snippet: Bari Weiss started and is a part owner at least of the free 
 
 Anchored Artifacts: 
 Mentions: N-278
-Related Nodes: N-10280, N-10282
+Related Nodes: N-10263, N-10265
 Tags: relevance:context
 Investigative Direction: Check corporate records of The Free Press ownership and the date of its acquisition or change.
 
@@ -1981,7 +1960,7 @@ Transcript Snippet: Are you shocked if I tell you that Ashley Rinsberg, he happe
 
 Anchored Artifacts: A-1459.1
 Mentions: N-276
-Related Nodes: N-10280
+Related Nodes: N-10263
 Tags: relevance:context
 Investigative Direction: Verify Rindsberg's residence from his public bios and bylines.
 
@@ -2012,7 +1991,7 @@ Transcript Snippet: Breashit sues me, not Tim Dillon, who she mentions in the la
 
 Anchored Artifacts: 
 Mentions: N-82, N-277, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Supports: C-2802
 Tags: relevance:tangential
 Investigative Direction: Read the Delaware complaint for references to Dillon and the named defendants.
@@ -2029,7 +2008,7 @@ Transcript Snippet: I'm here to make it a vessel of state propaganda. Which stat
 
 Anchored Artifacts: A-1460.1
 Mentions: N-277, N-278
-Related Nodes: N-10282, N-10334
+Related Nodes: N-10265, N-10313
 Tags: relevance:context
 Investigative Direction: Treat as satirical commentary; compare with Weiss's own statements on her CBS mandate.
 
@@ -2045,7 +2024,7 @@ Transcript Snippet: She knows it. We know it. Larry Ellison hired her to do it.
 
 Anchored Artifacts: A-1460.1
 Mentions: N-277, N-278, N-140
-Related Nodes: N-10282
+Related Nodes: N-10265
 Tags: relevance:context
 Investigative Direction: Check reporting on who recommended or hired Weiss at CBS (Paramount Skydance leadership).
 
@@ -2061,7 +2040,7 @@ Transcript Snippet: They've already got a blacklist of actors who will never wor
 
 Anchored Artifacts: A-1460.1
 Mentions: N-277
-Related Nodes: N-10282
+Related Nodes: N-10265
 Tags: relevance:tangential
 Investigative Direction: Look for reporting on any Paramount blacklist of actors.
 
@@ -2122,7 +2101,7 @@ Claim: The host says people have said Valhalla used to be a program in New Zeala
 Transcript Snippet: I know people were saying that like Valhalla used to be a program out in New Zealand.
 
 Anchored Artifacts: 
-Related Nodes: N-10366
+Related Nodes: N-10341
 Tags: relevance:tangential
 Investigative Direction: Check whether any New Zealand program named Valhalla exists.
 
@@ -2166,7 +2145,7 @@ Claim: The host says the false debunking claimed that her own lawyer ("Candace's
 Transcript Snippet: to their like false debunking where they said, "Candace's lawyer is in this office."
 
 Anchored Artifacts: A-3033.1
-Related Nodes: N-10284, N-10303
+Related Nodes: N-10249, N-10285
 Tags: relevance:core
 Investigative Direction: Identify who Kittis is and which law firm occupies the office; compare with the Richards Layton & Finger connection.
 
@@ -2181,7 +2160,7 @@ Claim: The host says there were parts of the letter she did not read for a very 
 Transcript Snippet: there were parts of the letter that I did not read for a very specific reason.
 
 Anchored Artifacts: A-3033.1
-Related Nodes: N-10284
+Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Ask the host which parts were withheld and why, and obtain the full letter.
 
@@ -2197,7 +2176,7 @@ Transcript Snippet: my lawyer, as you guys know, watching the show has always be
 
 Anchored Artifacts: A-3033.1
 Mentions: N-3
-Related Nodes: N-10270, N-10303
+Related Nodes: N-10254, N-10285
 Tags: relevance:core
 Investigative Direction: Review Delaware court filings for counsel of record and local-counsel arrangements.
 
@@ -2213,7 +2192,7 @@ Transcript Snippet: in every lawsuit that I've been involved in, you will see th
 
 Anchored Artifacts: A-3033.1
 Mentions: N-3
-Related Nodes: N-10303
+Related Nodes: N-10285
 Tags: relevance:core
 Investigative Direction: Compare the host's filings in other states for the same pattern.
 

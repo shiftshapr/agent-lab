@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: af4744c44da3466f3376062abb7dec86912b17b312a767e95c3978bb41f3a9e8
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-11118, N-11119, N-11120
-  - Hole-minted Nodes (reintro-ep053): N-10422
-  - Tip-minted Nodes (reintro-ep053): N-11034
+  - Tip-minted Nodes (supplement_2026-10b): N-11036, N-11037, N-11038
+  - Hole-minted Nodes (reintro-ep053): N-10395
+  - Tip-minted Nodes (reintro-ep053): N-10953
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4632–C-4723
   - (see registers)
@@ -33,8 +33,8 @@
 - Analysis Date: 2026-01-07
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
-  - New Nodes Introduced: N-388, N-390, N-391, N-392, N-394, N-395, N-396, N-10386, N-10388, N-10390, N-10391
-  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-266, N-270, N-366, N-375, N-484, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-737, N-11116, N-11117, N-389, N-485, N-10389, N-10661, N-10925, N-393
+  - New Nodes Introduced: N-388, N-390, N-391, N-392, N-394, N-395, N-396, N-10359, N-10361, N-10363, N-10364
+  - Reused Nodes Appearing: N-10360, N-2, N-27, N-82, N-266, N-270, N-366, N-375, N-484, N-10000, N-10004, N-10109, N-10252, N-10254, N-10297, N-10379, N-10389, N-10821, N-10358, N-11039, N-737, N-11034, N-11035, N-389, N-485, N-10362, N-10603, N-10846, N-393
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megyn Kelly presumed to exist), N-11
 
 ---
@@ -61,7 +61,7 @@ Video Timestamp: 00:06:31–00:09:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4643, C-4645, C-4644, N-388, N-10385*
+*Related: C-4643, C-4645, C-4644, N-388, N-10358*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:11:04–00:12:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4653, N-388, N-10385*
+*Related: C-4653, N-388, N-10358*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:09:24–00:11:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4645, N-388, N-10385*
+*Related: C-4645, N-388, N-10358*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:24:45–00:27:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4674, C-4676, N-390, N-391, N-392, N-393, N-394, N-10386, N-10391*
+*Related: C-4674, C-4676, N-390, N-391, N-392, N-393, N-394, N-10359, N-10364*
 
 ---
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:18:09–00:19:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4663, N-389, N-390, N-10386*
+*Related: C-4663, N-389, N-390, N-10359*
 
 ---
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:47:47–00:49:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4708, C-4710, N-395, N-10387, N-10390*
+*Related: C-4708, C-4710, N-395, N-10360, N-10363*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:44:48–00:45:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (exact date and identity of "oracle" figure not independently verified)
 
-*Related: C-4702, N-1, N-396, N-10389*
+*Related: C-4702, N-1, N-396, N-10362*
 
 ---
 
@@ -243,7 +243,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1587.1, A-1588.1, A-1589.1, C-4643, C-4645, C-4653, C-4644, N-10385*
+*Related: A-1587.1, A-1588.1, A-1589.1, C-4643, C-4645, C-4653, C-4644, N-10358*
 
 ---
 
@@ -256,7 +256,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1591.1, C-4663, N-390, N-10386*
+*Related: A-1591.1, C-4663, N-390, N-10359*
 
 ---
 
@@ -269,7 +269,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, A-1591.1, C-4663, C-4676, N-389, N-10386, N-10391*
+*Related: A-1590.1, A-1591.1, C-4663, C-4676, N-389, N-10359, N-10364*
 
 ---
 
@@ -282,7 +282,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-392, N-10386, N-10391*
+*Related: N-392, N-10359, N-10364*
 
 ---
 
@@ -295,7 +295,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-4674, N-391, N-393, N-10391*
+*Related: A-1590.1, C-4674, N-391, N-393, N-10364*
 
 ---
 
@@ -308,7 +308,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-4674, N-392, N-10391*
+*Related: A-1590.1, C-4674, N-392, N-10364*
 
 ---
 
@@ -321,7 +321,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, C-4708, C-4710, N-10387, N-10390*
+*Related: A-1592.1, C-4708, C-4710, N-10360, N-10363*
 
 ---
 
@@ -347,7 +347,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1593.1, C-4702, N-10389*
+*Related: A-1593.1, C-4702, N-10362*
 
 ---
 
@@ -360,7 +360,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10386*
+*Related: N-10359*
 
 ---
 
@@ -377,7 +377,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Investigation target: the proposed Daily Wire show whose audition involved an AI-generated video mocking Candace Owens, and whose casting process targeted young Christian women.
 
@@ -390,7 +390,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Investigation target: persistent claim across the series that Ben Shapiro has attempted hostile takeovers of multiple conservative organizations (Breitbart, David Horowitz's organization, Turning Point) and that his founding of the Daily Wire was preceded by a manufactured scandal.
 
@@ -399,11 +399,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1590.1, A-1591.1, C-4674, C-4663, C-4676, N-389, N-390, N-391, N-392, N-393, N-46, N-10391*
+*Related: A-1590.1, A-1591.1, C-4674, C-4663, C-4676, N-389, N-390, N-391, N-392, N-393, N-46, N-10364*
 
 ---
 
-**N-10387** Tyler Bowyer Investigation Question
+**N-10360** Tyler Bowyer Investigation Question
 
 Investigation target: host's persistent claim that Tyler Bowyer staffed nearly everyone around Charlie Kirk and requires further investigation. This episode cites Austin Smith's criminal sentencing and an unnamed source's claim that Bowyer offered jobs in exchange for favors.
 
@@ -412,11 +412,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, N-394, N-10390, N-11*
+*Related: A-1592.1, N-394, N-10363, N-11*
 
 ---
 
-**N-10388** Missing Money from Turning Point Action
+**N-10361** Missing Money from Turning Point Action
 
 Investigation target: host's claim that "a lot of money was missing from Turning Point Action," described as unconfirmed but with a "strong lead."
 
@@ -425,11 +425,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-10387*
+*Related: N-10360*
 
 ---
 
-**N-10389** Charlie Kirk Premonition Dreams
+**N-10362** Charlie Kirk Premonition Dreams
 
 Investigation target: persistent claim across the series that Charlie Kirk had extensive premonition dreams and text-message disclosures of dying young, and that an "oracle" figure confirmed these visions.
 
@@ -442,7 +442,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10390** Austin Smith / Turning Point Action Fraud Connection
+**N-10363** Austin Smith / Turning Point Action Fraud Connection
 
 Investigation target: link between Austin Smith's signature fraud and his role at Turning Point Action, with host's broader implication that this reflects personnel and integrity issues inside Turning Point.
 
@@ -451,11 +451,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, C-4708, C-4710, N-394, N-10387*
+*Related: A-1592.1, C-4708, C-4710, N-394, N-10360*
 
 ---
 
-**N-10391** Ben Shapiro Daily Wire Founding Narrative
+**N-10364** Ben Shapiro Daily Wire Founding Narrative
 
 Investigation target: host's claim that the Daily Wire's launch in 2016 was preceded by a manufactured scandal involving Ben Shapiro, Jamie Weinstein, and Michelle Fields to undermine Breitbart News.
 
@@ -464,7 +464,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, N-390, N-391, N-392, N-393, N-10386*
+*Related: A-1590.1, N-390, N-391, N-392, N-393, N-10359*
 
 ---
 
@@ -613,7 +613,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10113** Beehive Code / School Underground Premonition
+**N-10109** Beehive Code / School Underground Premonition
 
 Existing topic reused for the AI sample's bee lines.
 
@@ -621,7 +621,7 @@ Existing topic reused for the AI sample's bee lines.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic reused for the Amfest slot claim.
 
@@ -629,7 +629,7 @@ Existing topic reused for the Amfest slot claim.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing topic reused for the suing claim.
 
@@ -637,7 +637,7 @@ Existing topic reused for the suing claim.
 
 ---
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 Existing topic reused for the suing claim.
 
@@ -645,7 +645,7 @@ Existing topic reused for the suing claim.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused for new claims in this episode.
 
@@ -653,7 +653,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -661,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10422** GATE / Gifted Education Program Investigation
+**N-10395** GATE / Gifted Education Program Investigation
 
 Existing topic reused for the gifted school link.
 
@@ -669,7 +669,7 @@ Existing topic reused for the gifted school link.
 
 ---
 
-**N-10661** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
+**N-10603** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
 
 Existing topic reused for new claims in this episode.
 
@@ -677,7 +677,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 The host's former employer.
 
@@ -685,7 +685,7 @@ The host's former employer.
 
 ---
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 Campaign arm of TPUSA; Austin Smith's employer and the missing-money tip.
 
@@ -693,7 +693,7 @@ Campaign arm of TPUSA; Austin Smith's employer and the missing-money tip.
 
 ---
 
-**N-11116** Candace Owens Daily Wire Firing Reasons
+**N-11034** Candace Owens Daily Wire Firing Reasons
 
 Node Type: Topic
 The reasons the host says Jeremy Boreing and the Daily Wire gave at the company town hall for firing her.
@@ -702,7 +702,7 @@ The reasons the host says Jeremy Boreing and the Daily Wire gave at the company 
 
 ---
 
-**N-11117** Kanye Condemnation Pressure and Contract Cut
+**N-11035** Kanye Condemnation Pressure and Contract Cut
 
 Node Type: Topic
 The host's account of being pressured to condemn Kanye West after his 2022 tweet, her refusal and the change to her Daily Wire contract.
@@ -711,25 +711,25 @@ The host's account of being pressured to condemn Kanye West after his 2022 tweet
 
 ---
 
-**N-11118** Shapiro Knowledge of Kirk Death Question
+**N-11036** Shapiro Knowledge of Kirk Death Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's stated belief that Ben Shapiro may know more than the public about Charlie Kirk's death and may expect to benefit from it.
 
 *Related: C-4661, C-4662*
 
 ---
 
-**N-11119** Andrew Breitbart Death and Autopsy Inquiry
+**N-11037** Andrew Breitbart Death and Autopsy Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's account of Andrew Breitbart's 2012 death, the autopsy and the death of a forensic technician, none of it shown.
 
 *Related: C-4667, C-4668, C-4669, C-4670*
 
 ---
 
-**N-11034** Charlie Kirk Early Security Arrangement
+**N-10953** Charlie Kirk Early Security Arrangement
 
 Node Type: Topic
 The host's account that Charlie Kirk wrote he was not allowed to go anywhere without security in TPUSA's early years.
@@ -738,7 +738,7 @@ The host's account that Charlie Kirk wrote he was not allowed to go anywhere wit
 
 ---
 
-**N-11120** Livestock Culling and Farmland Control Claim
+**N-11038** Livestock Culling and Farmland Control Claim
 
 Node Type: Topic
 The French cattle depopulation comment and the host's farmland and chicken feed remarks.
@@ -747,7 +747,7 @@ The French cattle depopulation comment and the host's farmland and chicken feed 
 
 ---
 
-**N-11121** Hollywood Gang Claim
+**N-11039** Hollywood Gang Claim
 
 Node Type: Topic
 The host's claim that Hollywood was founded by gangs and may still be run by one, and her description of gang-like tactics against her.
@@ -767,7 +767,7 @@ Claim: Per an email from Maggie Wegner that the host reads, a Daily Wire produce
 Anchored Artifacts: A-1587.1
 Mentions: N-388, N-22, N-3, N-97
 
-Related Nodes: N-10385
+Related Nodes: N-10358
 
 Investigative Direction: Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced.
 
@@ -782,7 +782,7 @@ Claim: Per an email from Maggie Wegner that the host reads, the audition script 
 Anchored Artifacts: A-1587.1, A-1589.1
 Mentions: N-388, N-3, N-22
 
-Related Nodes: N-10385
+Related Nodes: N-10358
 
 Investigative Direction: Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie.
 
@@ -797,7 +797,7 @@ Claim: Per a text message the host shows, Maggie Wegner declined the Daily Wire 
 Anchored Artifacts: A-1588.1
 Mentions: N-388
 
-Related Nodes: N-10385
+Related Nodes: N-10358
 
 Investigative Direction: Verify the text message thread against phone records and identify the producer's account.
 
@@ -812,7 +812,7 @@ Claim: Per the statement the host reads, Ben Shapiro publicly resigned from Brei
 Anchored Artifacts: A-1590.1
 Mentions: N-392, N-393, N-97
 
-Related Nodes: N-10386, N-10391
+Related Nodes: N-10359, N-10364
 
 Investigative Direction: Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications.
 
@@ -827,7 +827,7 @@ Claim: Steve Bannon stated at Amfest that Ben Shapiro "tried to take over Breitb
 Anchored Artifacts: A-1591.1
 Mentions: N-389, N-193, N-97
 
-Related Nodes: N-10386
+Related Nodes: N-10359
 
 Investigative Direction: Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro.
 
@@ -842,7 +842,7 @@ Claim: Per a news article the host reads, Austin Smith, age 30, former Arizona s
 Anchored Artifacts: A-1592.1
 Mentions: N-394
 
-Related Nodes: N-10387, N-10390
+Related Nodes: N-10360, N-10363
 
 Investigative Direction: Obtain the court docket and judgment from the Arizona sentencing court; confirm Austin Smith's exact dates of employment at Turning Point Action.
 
@@ -857,7 +857,7 @@ Claim: Per a news article the host reads, Austin Smith plead guilty in mid-Novem
 Anchored Artifacts: A-1592.1
 Mentions: N-394
 
-Related Nodes: N-10390
+Related Nodes: N-10363
 
 Investigative Direction: Obtain the plea agreement and charging documents from the Arizona court.
 
@@ -872,7 +872,7 @@ Claim: The host says Charlie Kirk saw an older Jewish man from Chicago, matched 
 Anchored Artifacts: A-1593.1
 Mentions: N-1, N-3, N-396
 
-Related Nodes: N-10389
+Related Nodes: N-10362
 
 Investigative Direction: Obtain the original text message thread for verification; investigate the identity of the "oracle" figure and his connection to the gifted school.
 
@@ -887,7 +887,7 @@ Claim: Per an email the host reads, the Daily Wire producer who contacted Maggie
 Anchored Artifacts: A-1587.1
 Mentions: N-388
 
-Related Nodes: N-10385
+Related Nodes: N-10358
 
 Investigative Direction: Verify the timeline of the show's conception against internal Daily Wire communications if obtainable.
 
@@ -902,7 +902,7 @@ Claim: Per Ben Shapiro's own resignation statement that the host reads, he signe
 Anchored Artifacts: A-1590.1
 Mentions: N-390, N-97
 
-Related Nodes: N-10386, N-10391
+Related Nodes: N-10359, N-10364
 
 Investigative Direction: Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting.
 
@@ -944,7 +944,7 @@ Transcript Snippet: And he told us that when he woke up, he was a little bit sle
 
 Anchored Artifacts: 
 Mentions: N-27, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Supports: C-2715
 Tags: relevance:context
 Investigative Direction: Locate the original Kanye West tweet and its date to confirm the wording the host paraphrases.
@@ -961,7 +961,7 @@ Transcript Snippet: it's now been two years, two entire years of my life that I 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900, N-10416
+Related Nodes: N-10821, N-10389
 Tags: relevance:context
 Investigative Direction: Compare the host's account with the court filings and public statements in the Daily Wire dispute.
 
@@ -977,7 +977,7 @@ Transcript Snippet: Of course, he too was hired by Tyler Bowyer because I, as I 
 
 Anchored Artifacts: 
 Mentions: N-11, N-394, N-3
-Related Nodes: N-10925, N-10387
+Related Nodes: N-10846, N-10360
 Tags: relevance:core
 Investigative Direction: Obtain Turning Point Action employment records for Austin Smith and who approved his hiring.
 
@@ -993,7 +993,7 @@ Transcript Snippet: He is the person who has been running Turning Point USA. He 
 
 Anchored Artifacts: 
 Mentions: N-11, N-1
-Related Nodes: N-10000, N-10387
+Related Nodes: N-10000, N-10360
 Tags: relevance:core
 Investigative Direction: Map the hiring chain of Charlie Kirk's staff and security against Bowyer's role using TPUSA org charts and former staff accounts.
 
@@ -1009,7 +1009,7 @@ Transcript Snippet: It was yesterday, just yesterday, that we scooped the Daily 
 
 Anchored Artifacts: 
 Mentions: N-3, N-22
-Related Nodes: N-10385, N-10900
+Related Nodes: N-10358, N-10821
 Supports: C-4615
 Tags: relevance:context
 Investigative Direction: Compare the previous episode's report with any Daily Wire announcement of the show.
@@ -1026,7 +1026,7 @@ Transcript Snippet: Charlie Kirk's assassination has catalyzed a certain derange
 
 Anchored Artifacts: 
 Mentions: N-97, N-1
-Related Nodes: N-10386
+Related Nodes: N-10359
 Tags: relevance:context
 Investigative Direction: Review public and private Shapiro-Kirk communications and joint appearances to test the host's characterisation.
 
@@ -1042,7 +1042,7 @@ Transcript Snippet: Ben got to work behind the scenes trying to complicate and s
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3, N-27
-Related Nodes: N-10386, N-10004
+Related Nodes: N-10359, N-10004
 Tags: relevance:context
 Investigative Direction: Identify messages, donor contacts or witnesses showing Shapiro's behind-the-scenes efforts, which the host has not specified here.
 
@@ -1058,7 +1058,7 @@ Transcript Snippet: his strategy is to find Christians and to pressure them usua
 
 Anchored Artifacts: A-1587.1
 Mentions: N-97
-Related Nodes: N-10385, N-10386
+Related Nodes: N-10358, N-10359
 Tags: relevance:context
 Investigative Direction: Obtain further casting emails or payment offers like Maggie Wegner's to see whether a pattern exists.
 
@@ -1074,7 +1074,7 @@ Transcript Snippet: Ben stepped onto Megyn Kelly stage while she was on tour and
 
 Anchored Artifacts: 
 Mentions: N-97, N-46, N-22, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Review video of Shapiro's appearance on Kelly's tour and Kelly's own account of what he asked of her.
 
@@ -1090,7 +1090,7 @@ Transcript Snippet: she has been under attack by his stooges since. Okay, Ben is
 
 Anchored Artifacts: 
 Mentions: N-97, N-46
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Identify the accounts or outlets attacking Kelly and any evidence linking them to Shapiro; the host offers none here.
 
@@ -1106,7 +1106,7 @@ Transcript Snippet: Ben quite literally paid money for a prime speaking spot spe
 
 Anchored Artifacts: 
 Mentions: N-97, N-2, N-3, N-46, N-22
-Related Nodes: N-10268, N-10900
+Related Nodes: N-10252, N-10821
 Tags: relevance:context
 Investigative Direction: Obtain the Amfest speaker schedule and any sponsorship or payment records for Shapiro's appearance.
 
@@ -1122,7 +1122,7 @@ Transcript Snippet: I even tried to rewrite it in a way that was true to me, but
 
 Anchored Artifacts: A-1587.1
 Mentions: N-388
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:context
 Investigative Direction: Verify against the original, unredacted email and the people Maggie says advised her.
 
@@ -1138,7 +1138,7 @@ Transcript Snippet: I was told not to share the AI video the day after you annou
 
 Anchored Artifacts: A-1587.1
 Mentions: N-388, N-3
-Related Nodes: N-10385, N-10416
+Related Nodes: N-10358, N-10389
 Tags: relevance:context
 Investigative Direction: Establish who told Maggie not to share the video and when, using the call receipts she says she supplied.
 
@@ -1154,7 +1154,7 @@ Transcript Snippet: Attached below is the AI video that they sent me and the tex
 
 Anchored Artifacts: A-1587.1
 Mentions: N-388
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:context
 Investigative Direction: Request the attachments and call logs and check dates and metadata.
 
@@ -1170,7 +1170,7 @@ Transcript Snippet: this is an AI video sample of the show that Ben wanted sent 
 
 Anchored Artifacts: A-1589.1
 Mentions: N-97, N-3
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:context
 Investigative Direction: Identify who produced and distributed the AI sample and whether Shapiro directed it; the host gives no direct evidence of his role here.
 
@@ -1186,7 +1186,7 @@ Transcript Snippet: Hey noowers, welcome back to The More You Know No. I'm your 
 
 Anchored Artifacts: A-1589.1
 Mentions: N-3
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:context
 Investigative Direction: Obtain the original video file to confirm the show title and character name as spoken.
 
@@ -1202,7 +1202,7 @@ Transcript Snippet: Bees die when they sting. Kyle Robinson is alive. So, how co
 
 Anchored Artifacts: A-1589.1
 Mentions: N-3
-Related Nodes: N-10385, N-10113
+Related Nodes: N-10358, N-10109
 Tags: relevance:context
 Investigative Direction: Compare the AI sample's lines with the bee-code texts the host previously aired to see what is being parodied.
 
@@ -1218,7 +1218,7 @@ Transcript Snippet: she didn't get the job because she went back to them and she
 
 Anchored Artifacts: A-1588.1
 Mentions: N-388, N-3
-Related Nodes: N-10385
+Related Nodes: N-10358
 Supports: C-4653
 Tags: relevance:context
 Investigative Direction: Confirm with Maggie Wegner that she was not offered the role and obtain the producer's reply.
@@ -1235,7 +1235,7 @@ Transcript Snippet: We can make you a star, but you have to be willing to attack
 
 Anchored Artifacts: A-1587.1
 Mentions: N-3, N-388
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:context
 Investigative Direction: Seek additional casting emails or scripts from other candidates to test whether the condition was stated.
 
@@ -1251,7 +1251,7 @@ Transcript Snippet: the clearly immoral and impractical stance that I publicly e
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10900, N-11116
+Related Nodes: N-10821, N-11034
 Supports: C-4381
 Tags: relevance:context
 Investigative Direction: Obtain the full town hall video and transcript and compare Boreing's stated reasons with the host's account.
@@ -1268,7 +1268,7 @@ Transcript Snippet: pornography is harming men. That was another reason that was
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10900, N-11116
+Related Nodes: N-10821, N-11034
 Supports: C-4381
 Tags: relevance:context
 Investigative Direction: Obtain the town hall transcript and check what Boreing said about pornography.
@@ -1285,7 +1285,7 @@ Transcript Snippet: I insinuated in an episode that I had done while I was at th
 
 Anchored Artifacts: 
 Mentions: N-3, N-737
-Related Nodes: N-10900, N-11116
+Related Nodes: N-10821, N-11034
 Tags: relevance:context
 Investigative Direction: Identify the Daily Wire episode and obtain the town hall record of whether it was cited.
 
@@ -1301,7 +1301,7 @@ Transcript Snippet: Actually, factually speaking, Hollywood was started by gangs
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11121
+Related Nodes: N-11039
 Tags: relevance:tangential
 Investigative Direction: Check historians' accounts of organised crime involvement in early Hollywood against this sweeping characterisation.
 
@@ -1317,7 +1317,7 @@ Transcript Snippet: Even Justin Baldoni actually when I read the lawsuit and I r
 
 Anchored Artifacts: 
 Mentions: N-485, N-484, N-375
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Read the Baldoni and Lively court filings and rulings to test the host's takeover reading.
 
@@ -1333,7 +1333,7 @@ Transcript Snippet: He's dead now. What he wanted out, he was killed.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:core
 Investigative Direction: This is the host's inference; identify any statement by Charlie Kirk that he wanted to leave a group or arrangement.
 
@@ -1349,7 +1349,7 @@ Transcript Snippet: Ben Shapiro's behavior since Charlie Kirk's assassination le
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
-Related Nodes: N-11118
+Related Nodes: N-11036
 Tags: relevance:core
 Investigative Direction: The host offers no specific evidence here; seek any communications or meetings of Shapiro on or after September 10, 2025 (see also the lunch-meeting topic).
 
@@ -1365,7 +1365,7 @@ Transcript Snippet: He's behaving as though Charlie's company was promised to hi
 
 Anchored Artifacts: 
 Mentions: N-97, N-1
-Related Nodes: N-11118, N-10386
+Related Nodes: N-11036, N-10359
 Tags: relevance:core
 Investigative Direction: Look for concrete Shapiro actions toward TPUSA after September 10, 2025 (offers, donor outreach, statements) that support the host's reading.
 
@@ -1381,7 +1381,7 @@ Transcript Snippet: He tried to take over Breitbart and I ran him out of there.
 
 Anchored Artifacts: A-1591.1
 Mentions: N-389, N-97
-Related Nodes: N-10386
+Related Nodes: N-10359
 Tags: relevance:context
 Investigative Direction: Compare Bannon's statement with Shapiro's account that he resigned, and with contemporaneous Breitbart reporting.
 
@@ -1397,7 +1397,7 @@ Transcript Snippet: he will make a move on Turning Point because he's always bee
 
 Anchored Artifacts: A-1591.1
 Mentions: N-389, N-97, N-1, N-3
-Related Nodes: N-10386, N-10000
+Related Nodes: N-10359, N-10000
 Tags: relevance:context
 Investigative Direction: Obtain the full Amfest Bannon speech and any corroborating statements by those who knew Kirk and Shapiro.
 
@@ -1413,7 +1413,7 @@ Transcript Snippet: The lawsuit just going to bankrupt us before we could even g
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10416, N-10900
+Related Nodes: N-10389, N-10821
 Tags: relevance:context
 Investigative Direction: Obtain the pleadings in the Daily Wire litigation against the host and their dates.
 
@@ -1429,7 +1429,7 @@ Transcript Snippet: It was March 1st of 2012 when Andrew Breitbart dropped dead 
 
 Anchored Artifacts: 
 Mentions: N-390
-Related Nodes: N-11119
+Related Nodes: N-11037
 Tags: relevance:tangential
 Investigative Direction: Obtain the Los Angeles County coroner's report for Breitbart's death.
 
@@ -1445,7 +1445,7 @@ Transcript Snippet: he's starting to step on some toes, saying he has some infor
 
 Anchored Artifacts: 
 Mentions: N-390
-Related Nodes: N-11119
+Related Nodes: N-11037
 Tags: relevance:tangential
 Investigative Direction: Identify what information Breitbart said he had, using his public statements from early 2012.
 
@@ -1461,7 +1461,7 @@ Transcript Snippet: a forensic technician that was involved with the autopsy als
 
 Anchored Artifacts: 
 Mentions: N-395, N-390
-Related Nodes: N-11119
+Related Nodes: N-11037
 Tags: relevance:tangential
 Investigative Direction: Search for a death record, news report or coroner finding for Michael Cormier; no artifact was shown.
 
@@ -1477,7 +1477,7 @@ Transcript Snippet: And his wife says no, that's not what's he wouldn't just poi
 
 Anchored Artifacts: 
 Mentions: N-395
-Related Nodes: N-11119
+Related Nodes: N-11037
 Tags: relevance:tangential
 Investigative Direction: Find any published statement by Cormier's family.
 
@@ -1493,7 +1493,7 @@ Transcript Snippet: There was an internal war that waged about what the directio
 
 Anchored Artifacts: 
 Mentions: N-390, N-389
-Related Nodes: N-10386
+Related Nodes: N-10359
 Tags: relevance:context
 Investigative Direction: Review reporting on Breitbart News leadership disputes in 2012.
 
@@ -1509,7 +1509,7 @@ Transcript Snippet: This story was directly told to me and Charlie Kirk. We were
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-97
-Related Nodes: N-10391, N-10386
+Related Nodes: N-10364, N-10359
 Tags: relevance:context
 Investigative Direction: Ask the host to name the Breitbart executives and the retreat; seek any other attendee of the New Mexico retreat.
 
@@ -1525,7 +1525,7 @@ Transcript Snippet: So on March 13th, 2016, Ben and Michelle Fields doubly decid
 
 Anchored Artifacts: A-1590.1
 Mentions: N-97, N-392
-Related Nodes: N-10391
+Related Nodes: N-10364
 Tags: relevance:context
 Investigative Direction: Check Fields's own resignation date and statement against March 13, 2016.
 
@@ -1541,7 +1541,7 @@ Transcript Snippet: I met Andrew when I was 17 years old and remained his friend
 
 Anchored Artifacts: A-1590.1
 Mentions: N-97, N-390
-Related Nodes: N-10391
+Related Nodes: N-10364
 Tags: relevance:context
 Investigative Direction: Verify against Shapiro's published March 2016 resignation statement.
 
@@ -1557,7 +1557,7 @@ Transcript Snippet: Indeed, Breitbart News under the chairmanship of Steve Banno
 
 Anchored Artifacts: A-1590.1
 Mentions: N-97, N-389, N-390
-Related Nodes: N-10391
+Related Nodes: N-10364
 Tags: relevance:context
 Investigative Direction: Verify against Shapiro's published March 2016 resignation statement.
 
@@ -1573,7 +1573,7 @@ Transcript Snippet: That story was backed by audio tape, eyewitness testimony fr
 
 Anchored Artifacts: A-1590.1
 Mentions: N-392, N-393
-Related Nodes: N-10391
+Related Nodes: N-10364
 Tags: relevance:context
 Investigative Direction: Verify against the published statement and the contemporaneous Washington Post reporting.
 
@@ -1589,7 +1589,7 @@ Transcript Snippet: they undermined Michelle completely by running a poorly evid
 
 Anchored Artifacts: A-1590.1
 Mentions: N-392, N-393
-Related Nodes: N-10391
+Related Nodes: N-10364
 Tags: relevance:context
 Investigative Direction: Retrieve the Breitbart News article from March 2016 and the dates it ran.
 
@@ -1605,7 +1605,7 @@ Transcript Snippet: And and the very next day, he then promotes the Daily Wire. 
 
 Anchored Artifacts: A-1590.1
 Mentions: N-97
-Related Nodes: N-10391, N-10900
+Related Nodes: N-10364, N-10821
 Tags: relevance:context
 Investigative Direction: Compare Daily Wire traffic and launch announcements for March 2016.
 
@@ -1621,7 +1621,7 @@ Transcript Snippet: begun quietly building Daily Wire um at the end of 2015, but
 
 Anchored Artifacts: 
 Mentions: N-97
-Related Nodes: N-10391, N-10900
+Related Nodes: N-10364, N-10821
 Tags: relevance:context
 Investigative Direction: Check the Daily Wire's incorporation and launch dates and the executives' accounts.
 
@@ -1637,7 +1637,7 @@ Transcript Snippet: So he and his best friend Jaime Weinstein decided to cook up
 
 Anchored Artifacts: 
 Mentions: N-97, N-391
-Related Nodes: N-10391, N-10386
+Related Nodes: N-10364, N-10359
 Tags: relevance:context
 Investigative Direction: Seek firsthand evidence from the unnamed Breitbart executives or contemporaneous communications.
 
@@ -1653,7 +1653,7 @@ Transcript Snippet: the more relevant fact that was told to me is that Jaime Wei
 
 Anchored Artifacts: 
 Mentions: N-391, N-392
-Related Nodes: N-10391
+Related Nodes: N-10364
 Tags: relevance:context
 Investigative Direction: Check public marriage and biographical records for Weinstein and Fields (they are widely reported to have been married).
 
@@ -1669,7 +1669,7 @@ Transcript Snippet: which was later proved that her bruises could not have been 
 
 Anchored Artifacts: 
 Mentions: N-392, N-393
-Related Nodes: N-10391
+Related Nodes: N-10364
 Tags: relevance:context
 Investigative Direction: Review the released tape and the charges and outcome in the Lewandowski matter against the host's account.
 
@@ -1685,7 +1685,7 @@ Transcript Snippet: neocons are staging a hostile takeover of his legacy and of 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10000, N-10386
+Related Nodes: N-10000, N-10359
 Tags: relevance:core
 Investigative Direction: Identify the specific appointments, donors or actions the host regards as a takeover.
 
@@ -1701,7 +1701,7 @@ Transcript Snippet: the very person who blackalled me through his contact list h
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
-Related Nodes: N-10386
+Related Nodes: N-10359
 Supports: C-4400
 Tags: relevance:context
 Investigative Direction: Identify donors who contacted Kirk or TPUSA about the host, and obtain any messages the host holds.
@@ -1718,7 +1718,7 @@ Transcript Snippet: He is telling you the truth about what happened with David H
 
 Anchored Artifacts: 
 Mentions: N-97, N-193, N-3
-Related Nodes: N-10386
+Related Nodes: N-10359
 Supports: C-4663
 Tags: relevance:context
 Investigative Direction: Ask Horowitz Freedom Center and Babylon Bee principals about any takeover attempts.
@@ -1735,7 +1735,7 @@ Transcript Snippet: I understand why Kanye after he burned everything to the gro
 
 Anchored Artifacts: 
 Mentions: N-27, N-3
-Related Nodes: N-11117
+Related Nodes: N-11035
 Tags: relevance:context
 Investigative Direction: Only the host can confirm the conversation; look for any public Kanye statement to that effect.
 
@@ -1751,7 +1751,7 @@ Transcript Snippet: They shouldn't be following you, uh chasing you in the court
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10416, N-10900
+Related Nodes: N-10389, N-10821
 Supports: C-4389
 Tags: relevance:context
 Investigative Direction: Document specific contacts to sponsors and donors with names, dates and the docket of each proceeding.
@@ -1768,7 +1768,7 @@ Transcript Snippet: their goal is to emotionally break you, to make you uh psych
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11121
+Related Nodes: N-11039
 Tags: relevance:tangential
 Investigative Direction: This is a sweeping characterisation; ask the host which of these tactics she says were used against her.
 
@@ -1784,7 +1784,7 @@ Transcript Snippet: What I can tell you is that that tweet cost me many millions
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-11117
+Related Nodes: N-11035
 Tags: relevance:context
 Investigative Direction: Compare the host's Daily Wire contract terms before and after December 2022.
 
@@ -1800,7 +1800,7 @@ Transcript Snippet: I was not with Kanye when he tweeted it. I did not retweet K
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-11117
+Related Nodes: N-11035
 Tags: relevance:context
 Investigative Direction: Check the host's X activity from the time of the tweet.
 
@@ -1816,7 +1816,7 @@ Transcript Snippet: I sure as hell got peer pressured um and employer pressured 
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-11117, N-10900
+Related Nodes: N-11035, N-10821
 Tags: relevance:context
 Investigative Direction: Seek the other attendees of the conference room meeting and the contract documents.
 
@@ -1832,7 +1832,7 @@ Transcript Snippet: He lost his Adidas contract. He lost his Gap contract.
 
 Anchored Artifacts: 
 Mentions: N-27
-Related Nodes: N-11117
+Related Nodes: N-11035
 Tags: relevance:context
 Investigative Direction: Check news reports on Adidas ending its partnership and the Gap ending its partnership with Kanye West.
 
@@ -1848,7 +1848,7 @@ Transcript Snippet: I said I'm not going to come out and condemn Kanye because I
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-11117, N-10900
+Related Nodes: N-11035, N-10821
 Tags: relevance:context
 Investigative Direction: Obtain contemporaneous accounts or notes from the meeting from Daily Wire staff.
 
@@ -1864,7 +1864,7 @@ Transcript Snippet: we're going to change the contract and instead of being paid
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-11117, N-10900
+Related Nodes: N-11035, N-10821
 Tags: relevance:context
 Investigative Direction: Obtain the original and amended contract terms; the host has not shown them.
 
@@ -1880,7 +1880,7 @@ Transcript Snippet: this whole strategy seems to be mocking me for having a drea
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10389, N-10385
+Related Nodes: N-10362, N-10358
 Supports: C-3534
 Tags: relevance:context
 Investigative Direction: Compare the show's content with the host's dream account to see what is being mocked.
@@ -1897,7 +1897,7 @@ Transcript Snippet: It's insane how many messages I have with Charlie Kirk about
 
 Anchored Artifacts: A-2842
 Mentions: N-3, N-1
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Obtain the full thread of messages with Charlie Kirk about dreams.
 
@@ -1913,7 +1913,7 @@ Transcript Snippet: I did consult a priest. I felt like I needed spiritual guida
 
 Anchored Artifacts: A-2842
 Mentions: N-3, N-1
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:context
 Investigative Direction: Identify the priest and what he advised; the host gives no name here.
 
@@ -1929,7 +1929,7 @@ Transcript Snippet: just telling me that repeatedly he was going to die young an
 
 Anchored Artifacts: A-2842
 Mentions: N-3, N-1
-Related Nodes: N-10389, N-10000
+Related Nodes: N-10362, N-10000
 Supports: C-4702
 Tags: relevance:core
 Investigative Direction: Obtain the messages showing Kirk linking his expected death to Turning Point.
@@ -1946,7 +1946,7 @@ Transcript Snippet: Charlie writing to me ha like I'm not allowed to go anywhere
 
 Anchored Artifacts: A-2843
 Mentions: N-3, N-1, N-270, N-266
-Related Nodes: N-11034
+Related Nodes: N-10953
 Tags: relevance:core
 Investigative Direction: Obtain the text and its date, and identify who arranged Kirk's security in TPUSA's early years.
 
@@ -1962,7 +1962,7 @@ Transcript Snippet: This was in 2018, early 2018. Okay.
 
 Anchored Artifacts: A-1593.1
 Mentions: N-1, N-3, N-396
-Related Nodes: N-10389, N-10422
+Related Nodes: N-10362, N-10395
 Supports: C-4702
 Tags: relevance:core
 Investigative Direction: Obtain the texts from early 2018 and any identification of the older man.
@@ -1979,7 +1979,7 @@ Transcript Snippet: he was like a time traveler and he had to come back and he h
 
 Anchored Artifacts: A-1593.1
 Mentions: N-1, N-3, N-396
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:context
 Investigative Direction: Locate the earlier message the host says she showed viewers and the one containing the prisms of light account.
 
@@ -1995,7 +1995,7 @@ Transcript Snippet: He won't tell you what he saw. He hasn't told me intentional
 
 Anchored Artifacts: A-1593.1
 Mentions: N-1, N-396
-Related Nodes: N-10389
+Related Nodes: N-10362
 Supports: C-4702
 Tags: relevance:core
 Investigative Direction: Obtain the original text thread and date.
@@ -2012,7 +2012,7 @@ Transcript Snippet: I feel as strongly about the dream that I had that Charlie w
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10389
+Related Nodes: N-10362
 Supports: C-3534
 Tags: relevance:core
 Investigative Direction: The host offers no specific betrayal here; identify any documentary evidence that the people closest to Kirk acted against him.
@@ -2029,7 +2029,7 @@ Transcript Snippet: one person told me on record that he would also offer bribes
 
 Anchored Artifacts: 
 Mentions: N-11, N-3
-Related Nodes: N-10387, N-10000
+Related Nodes: N-10360, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the source and obtain the written account and any messages showing a job offer tied to a favor.
 
@@ -2045,7 +2045,7 @@ Transcript Snippet: Smith represented an Arizona House district in the Phoenix s
 
 Anchored Artifacts: A-1592.1
 Mentions: N-394
-Related Nodes: N-10390
+Related Nodes: N-10363
 Tags: relevance:core
 Investigative Direction: Check Arizona legislature and secretary of state records for Smith's term and resignation date.
 
@@ -2061,7 +2061,7 @@ Transcript Snippet: So this was happening while he was at TurningPoint Action, t
 
 Anchored Artifacts: A-1592.1
 Mentions: N-394
-Related Nodes: N-10925, N-10000, N-10390
+Related Nodes: N-10846, N-10000, N-10363
 Tags: relevance:core
 Investigative Direction: Obtain the original article and confirm Smith's dates at Turning Point Action.
 
@@ -2077,7 +2077,7 @@ Transcript Snippet: One of the early tips that we got from somebody inside of Tu
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10925, N-10388, N-10000
+Related Nodes: N-10846, N-10361, N-10000
 Tags: relevance:core
 Investigative Direction: Compare Turning Point Action's FEC and IRS filings with the tipster's claim; the host says it is not yet confirmed.
 
@@ -2093,7 +2093,7 @@ Transcript Snippet: And we know Charlie was establishing this Doge.
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10000, N-10388
+Related Nodes: N-10000, N-10361
 Supports: C-3541
 Tags: relevance:core
 Investigative Direction: Obtain the September 2025 internal memo and DOGE records.
@@ -2127,7 +2127,7 @@ Transcript Snippet: this is her Instagram page. It's maggswegner.
 
 Anchored Artifacts: A-2844
 Mentions: N-388, N-3
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:context
 Investigative Direction: Confirm the handle on Instagram.
 
@@ -2142,7 +2142,7 @@ Claim: The comment as read says France is culling cattle herds, called cattle de
 Transcript Snippet: Have you heard about the culling of cattle and herds called cattle depopulation here supposedly to eliminate lumpy skin disease
 
 Anchored Artifacts: A-1594.1
-Related Nodes: N-11120
+Related Nodes: N-11038
 Tags: relevance:tangential
 Investigative Direction: Check French agriculture ministry announcements on lumpy skin disease culls.
 
@@ -2158,7 +2158,7 @@ Transcript Snippet: They don't want us to be able to feed our families and that'
 
 Anchored Artifacts: A-1594.1
 Mentions: N-3
-Related Nodes: N-11120
+Related Nodes: N-11038
 Tags: relevance:tangential
 Investigative Direction: Identify the specific US actions and policies the host means.
 
@@ -2174,7 +2174,7 @@ Transcript Snippet: There was also a story years ago about how they had poisoned
 
 Anchored Artifacts: A-1594.1
 Mentions: N-3
-Related Nodes: N-11120
+Related Nodes: N-11038
 Tags: relevance:tangential
 Investigative Direction: The host is unsure of the company; find the Daily Wire segment she says she covered.
 
@@ -2190,7 +2190,7 @@ Transcript Snippet: Like Macron is suing people for knowing the truth about crim
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Related Nodes: N-10270, N-10316
+Related Nodes: N-10254, N-10297
 Tags: relevance:tangential
 Investigative Direction: The statement is the host's allegation about Brigitte Macron; refer to the Delaware filings and any evidence of the alleged crimes.
 
@@ -2410,7 +2410,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (starting N-388)
-- [x] Non-person investigation targets use the 1000 series (N-10385+)
+- [x] Non-person investigation targets use the 1000 series (N-10358+)
 - [x] No speculative claims were inscribed as evidence-backed claims
 - [x] Names are preserved exactly or uncertainty is noted
 - [x] Formatting is consistent with protocol

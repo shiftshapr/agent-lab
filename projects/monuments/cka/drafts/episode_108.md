@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq108
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep108): N-10782, N-10813
+  - Hole-minted Nodes (reintro-ep108): N-10707, N-10737
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-635, N-636, N-637, N-10943, N-10944
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-14, N-40, N-46, N-54, N-146, N-190, N-208, N-266, N-268, N-270, N-341, N-343, N-579, N-10000, N-10006, N-10014, N-10026, N-10070, N-10075, N-10132, N-10194, N-10322, N-10340, N-10455, N-10581, N-10605, N-10622, N-10637, N-10651, N-10664, N-10899, N-10916, N-10923, N-10700, N-10942, N-10679
+  - Tip-minted Nodes (skeleton): N-635, N-636, N-637, N-10864, N-10865
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-14, N-40, N-46, N-54, N-146, N-190, N-208, N-266, N-268, N-270, N-341, N-343, N-579, N-10000, N-10006, N-10014, N-10026, N-10067, N-10072, N-10127, N-10186, N-10302, N-10318, N-10424, N-10532, N-10552, N-10568, N-10582, N-10593, N-10606, N-10820, N-10837, N-10844, N-10637, N-10863, N-10617
   - Claim Range: C-9489–C-9542
   - (see registers)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:14:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9506, N-341, N-2, N-10942*
+*Related: C-9506, N-341, N-2, N-10863*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:12:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9490, C-9503, N-341, N-266, N-10651*
+*Related: C-9490, C-9503, N-341, N-266, N-10593*
 
 **A-2602.2** Host verbal reference to the preservation letter sent to Paramount Not So Tactical (not shown)
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:15:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9507, N-10899*
+*Related: C-9507, N-10820*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:16:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9508, C-9522, N-2, N-1, N-10943*
+*Related: C-9508, C-9522, N-2, N-1, N-10864*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:25:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9518, C-9519, N-635, N-10944*
+*Related: C-9518, C-9519, N-635, N-10865*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:32:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9524, N-2, N-10923*
+*Related: C-9524, N-2, N-10844*
 
 **A-2605.2** Host verbal reference to her FOIA request for White House Correspondents' Dinner communications (not shown)
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:32:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9523, N-10700, N-10637*
+*Related: C-9523, N-10637, N-10582*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:37:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9530, C-9531, C-9532, C-9533, N-40, N-54, N-10581, N-10782*
+*Related: C-9530, C-9531, C-9532, C-9533, N-40, N-54, N-10532, N-10707*
 
 ---
 
@@ -277,7 +277,7 @@ Video Timestamp: 00:52:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9540, N-341, N-14, N-10622*
+*Related: C-9540, N-341, N-14, N-10568*
 
 ---
 ## 4. Node Register
@@ -394,19 +394,19 @@ The host opens by noting he lost in Kentucky.
 
 First named by the host at 00:24:28 in episode 108. Utah widow whom the host says was found guilty of murdering her husband after writing a children's book on grief. Transcript spelling "Kouri D. Richins".
 
-*Related: C-9517, C-9518, C-9519, C-9520, C-9521, A-2604.1, N-10944*
+*Related: C-9517, C-9518, C-9519, C-9520, C-9521, A-2604.1, N-10865*
 
 **N-636** Eric Richins
 
 First named by the host at 00:26:29 in episode 108. Kouri Richins's husband, who the host says covertly transferred his estate to his sister before he was killed. Transcript spelling "Eric Richens".
 
-*Related: C-9520, C-9521, N-10944*
+*Related: C-9520, C-9521, N-10865*
 
 **N-637** Ed Gallrein
 
 First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).
 
-*Related: C-9542, N-10916*
+*Related: C-9542, N-10837*
 
 **N-10000** Turning Point USA
 
@@ -432,145 +432,145 @@ The host says Jack Hibbs's circle claimed Israel knew of the death first.
 
 *Related: C-9541*
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 The host says it confirmed that a TPUSA board member was helping with the Kirks' affairs and that TPUSA offered it a private screening of the disputed video.
 
 *Related: C-9522, C-9525*
 
-**N-10075** White House
+**N-10072** White House
 
 Still not answering the host's FOIA request on White House Correspondents' Dinner communications.
 
 *Related: C-9523*
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 The host says Charlie Kirk set up a DOGE internal audit to find an alleged missing $10 million, cancelled after his death.
 
 *Related: C-9511, C-9512*
 
-**N-10194** TPUSA Succession Plan Disclosure Timeline
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 Erika Kirk's account to Megyn Kelly that Charlie only expressed his succession wish three weeks before his death.
 
 *Related: C-9509*
 
-**N-10322** Charlie Kirk Life Insurance Policy & Beneficiary
+**N-10302** Charlie Kirk Life Insurance Policy & Beneficiary
 
 The host says the corporate policy included a $10 million payout for Erika Kirk and the children.
 
 *Related: C-9510*
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 The "they're going to kill me" texts the host cites as context for the planned will change.
 
 *Related: C-9513*
 
-**N-10455** Andrew Kolvet Charlie Kirk Twitter Control Claim
+**N-10424** Andrew Kolvet Charlie Kirk Twitter Control Claim
 
 The host repeats that Kolvet was running Charlie Kirk's Twitter.
 
 *Related: C-9515*
 
-**N-10581** Tyler Robinson Defense – Chain of Custody / Documents
+**N-10532** Tyler Robinson Defense – Chain of Custody / Documents
 
 The defense's lack of discovery and its request to seal preliminary-hearing evidence.
 
 *Related: C-9529, C-9530, A-2606.4*
 
-**N-10605** Erika Kirk–Victor Marx Relationship Verification
+**N-10552** Erika Kirk–Victor Marx Relationship Verification
 
 Eileen Marx's mentoring of Erika Kirk and the Marxes' visit to the Kirk home in the first days.
 
 *Related: C-9497, C-9504*
 
-**N-10622** Early-Death-Announcement Timeline Verification
+**N-10568** Early-Death-Announcement Timeline Verification
 
 Timing of Victor Marx's post relative to the president's announcement and to when Erika Kirk and Andrew Kolvet learned of the death.
 
 *Related: C-9493, C-9540, A-2608.2*
 
-**N-10637** WHCD Incident Reconstruction
+**N-10582** WHCD Incident Reconstruction
 
 White House Correspondents' Dinner communications sought by the host's FOIA request.
 
 *Related: C-9523, A-2605.2*
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 The Harpole defamation suit, within which the host sent preservation letters to Victor Marx and others.
 
 *Related: C-9490, C-9502, C-9503, A-2602.1*
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 The disputed video, of which the host says TPUSA offered the Daily Mail a private screening and to whose audio Erika Kirk walked out.
 
 *Related: C-9525, C-9526*
 
-**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation
+**N-10617** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 The host says the state plans to call five officers and Lance Twiggs at the preliminary hearing.
 
 *Related: C-9531*
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 The host's FOIA request on White House Correspondents' Dinner communications.
 
 *Related: C-9523, A-2605.2*
 
-**N-10782** Tyler Robinson Case Evidence Inventory
+**N-10707** Tyler Robinson Case Evidence Inventory
 
 The FBI DNA report and ATF ballistics report listed as items 31 and 32 in the defense filing.
 
 *Related: C-9532, C-9533, A-2606.4*
 
-**N-10813** Foreign / Israeli Angle Investigation
+**N-10737** Foreign / Israeli Angle Investigation
 
 The claim by Jack Hibbs's circle that Israel knew of the death first.
 
 *Related: C-9541*
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Called "Paramount not so tactical" by the host; she says she sent it a preservation letter and names it as part of the media and influencer orbit.
 
 *Related: C-9507, A-2602.2*
 
-**N-10916** Thomas Massie Kentucky Primary Outside Spending
+**N-10837** Thomas Massie Kentucky Primary Outside Spending
 
 Node Type: Topic
 Thomas Massie's Kentucky primary loss, which the host frames as an attempt to buy an outcome with money; it connects to her comments on the candidate she calls "Ed Gallrein."
 
 *Related: C-9489, C-9542, N-579, N-637*
 
-**N-10942** Victor Marx "They Only Wanted Charlie" Text to Erika Kirk
+**N-10863** Victor Marx "They Only Wanted Charlie" Text to Erika Kirk
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the text Victor Marx says he sent Erika Kirk while she was at the hospital, telling her "nobody's going to kill you" and that "they just wanted Charlie." The host asks who "they" are and why that would be a first text to a widow.
 
 *Related: C-9506, A-2600.3, N-341, N-2*
 
-**N-10943** Charlie Kirk September 15 End-of-Life Document Appointment
+**N-10864** Charlie Kirk September 15 End-of-Life Document Appointment
 
-Node Type: Topic
+Node Type: Event
 Investigation target: the host's report that Erika Kirk told multiple people that she and Charlie Kirk were due to sign updated end-of-life documents on Monday, September 15, 2025. She also reportedly said a TPUSA board member would help with the changes. The host asks what life event would have prompted the change and offers investigators the names of the people Erika told.
 
 *Related: C-9508, C-9522, A-2603.1, N-2, N-1*
 
-**N-10944** Kouri Richins Murder Case
+**N-10865** Kouri Richins Murder Case
 
 Node Type: Topic
 The Utah case of Kouri Richins, who the host says was found guilty of murdering her husband Eric Richins after publishing a children's grief book. The host says his covert estate transfer and her attempted life insurance beneficiary change were central to the prosecution. She cites the case as precedent for scrutinizing will changes around an unexpected death.
 
 *Related: C-9517, C-9518, C-9519, C-9520, C-9521, A-2604.1, N-635, N-636*
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 The communication in which, per the host, Erika Kirk was "written in as an emotional asset just over an hour after shots are fired" at the White House Correspondents' Dinner, with the focus on making her video "number one in the morning."
 
 *Related: C-9524, A-2605.1, N-2*
@@ -587,7 +587,7 @@ Transcript Snippet: I know some people are not feeling too happy today because T
 
 Anchored Artifacts:
 Mentions: N-579
-Related Nodes: N-10916
+Related Nodes: N-10837
 Investigative Direction: Check the certified Kentucky Republican primary results for Massie's congressional district in May 2026.
 
 ---
@@ -602,7 +602,7 @@ Transcript Snippet: the fallout from Victor Marx's interview yesterday is trendi
 
 Anchored Artifacts: A-2602.1
 Mentions: N-341, N-266, N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Investigative Direction: Check the Harpole v. Owens docket and counsel correspondence for the preservation letters and their recipients.
 
 ---
@@ -645,7 +645,7 @@ Transcript Snippet: you were first to post a video that was later on removed say
 
 Anchored Artifacts: A-2600.1
 Mentions: N-341, N-1, N-5, N-2, N-3
-Related Nodes: N-10622
+Related Nodes: N-10568
 Supports: C-9362
 Investigative Direction: Recover the archived Instagram story or video with platform timestamps and compare it with Trump's Truth Social post time on September 10, 2025.
 
@@ -661,7 +661,7 @@ Transcript Snippet: I I had someone text me and he said, "My son is at Charlie's
 
 Anchored Artifacts: A-2600.1
 Mentions: N-341, N-1
-Related Nodes: N-10622
+Related Nodes: N-10568
 Investigative Direction: Obtain the text message and sender identity from Marx's phone records via subpoena.
 
 ---
@@ -676,7 +676,7 @@ Transcript Snippet: I watched Charlie being shot one time. And my team uh many w
 
 Anchored Artifacts: A-2600.1
 Mentions: N-341, N-1
-Related Nodes: N-10622
+Related Nodes: N-10568
 Supports: C-9435
 Investigative Direction: Identify the team members present with Marx on September 10, 2025 and obtain their statements and communications from that afternoon.
 
@@ -692,7 +692,7 @@ Transcript Snippet: I put it up and then I didn't see anybody else posting it. I
 
 Anchored Artifacts: A-2600.1
 Mentions: N-341, N-1
-Related Nodes: N-10622
+Related Nodes: N-10568
 Investigative Direction: Obtain Instagram deletion metadata for the post and any archived copies.
 
 ---
@@ -707,7 +707,7 @@ Transcript Snippet: You told us elsewhere in the interview that Eileen and Erika
 
 Anchored Artifacts:
 Mentions: N-341, N-343, N-2
-Related Nodes: N-10605
+Related Nodes: N-10552
 Investigative Direction: Review the full Marx interview and public records of Eileen Marx's ministry contacts with Erika Kirk.
 
 ---
@@ -778,7 +778,7 @@ Transcript Snippet: I'm currently being sued by Brian Harpole, head of Charlie's
 
 Anchored Artifacts:
 Mentions: N-266, N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Investigative Direction: Pull the complaint and docket in Harpole's defamation suit against the host.
 
 ---
@@ -793,7 +793,7 @@ Transcript Snippet: I'm being sued for defamation, which is why we sent earlier 
 
 Anchored Artifacts: A-2602.1
 Mentions: N-341, N-266, N-3, N-270
-Related Nodes: N-10651
+Related Nodes: N-10593
 Investigative Direction: Obtain the letter and any subsequent subpoena for Marx's September 10, 2025 communications with the security team.
 
 ---
@@ -808,7 +808,7 @@ Transcript Snippet: actually maybe it was actually just you in the first 2 days 
 
 Anchored Artifacts: A-2600.2
 Mentions: N-341, N-2, N-1
-Related Nodes: N-10605
+Related Nodes: N-10552
 Supports: C-9363
 Investigative Direction: Obtain visitor or security logs for the Kirk residence for September 10–12, 2025.
 
@@ -838,7 +838,7 @@ Transcript Snippet: I was just telling her nobody's going to kill you. You're sa
 
 Anchored Artifacts: A-2600.3
 Mentions: N-341, N-2, N-1
-Related Nodes: N-10942
+Related Nodes: N-10863
 Investigative Direction: Obtain the text and its timestamp from Marx's or Erika Kirk's phone records.
 
 ---
@@ -853,7 +853,7 @@ Transcript Snippet: because we also sent out some more preservation letters. I a
 
 Anchored Artifacts: A-2602.2
 Mentions: N-3
-Related Nodes: N-10899, N-10651
+Related Nodes: N-10820, N-10593
 Investigative Direction: Confirm the letter's recipient and date through the host's counsel.
 
 ---
@@ -868,7 +868,7 @@ Transcript Snippet: she shared with people that Charlie and her were due to sign
 
 Anchored Artifacts: A-2603.1
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10943
+Related Nodes: N-10864
 Investigative Direction: Identify the Kirks' estate attorney and any calendar entry or engagement letter for a September 15, 2025 signing.
 
 ---
@@ -883,7 +883,7 @@ Transcript Snippet: this would sort of rank similar to her telling Megyn Kelly t
 
 Anchored Artifacts:
 Mentions: N-2, N-46, N-1
-Related Nodes: N-10194
+Related Nodes: N-10186
 Investigative Direction: Review the Megyn Kelly interview transcript for Erika Kirk's exact wording.
 
 ---
@@ -898,7 +898,7 @@ Transcript Snippet: Charlie already had a corporate life insurance policy which 
 
 Anchored Artifacts:
 Mentions: N-1, N-2
-Related Nodes: N-10322
+Related Nodes: N-10302
 Investigative Direction: Check TPUSA Form 990 disclosures and any key-person insurance records naming beneficiaries.
 
 ---
@@ -913,7 +913,7 @@ Transcript Snippet: But in the midst of Charlie telling people that $10 million 
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10132, N-10000
+Related Nodes: N-10127, N-10000
 Investigative Direction: Interview the people Kirk told and review TPUSA financial statements for unexplained shortfalls.
 
 ---
@@ -928,7 +928,7 @@ Transcript Snippet: in the midst of him establishing a DOGE internal audit to lo
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10132
+Related Nodes: N-10127
 Supports: C-3788
 Investigative Direction: Obtain TPUSA internal memos on the audit or DOGE department and any later cancellation notice.
 
@@ -944,7 +944,7 @@ Transcript Snippet: In the midst of him texting those closest to him and saying,
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10340
+Related Nodes: N-10318
 Investigative Direction: Obtain the original messages and recipients from the phones of Kirk's inner circle.
 
 ---
@@ -973,7 +973,7 @@ Transcript Snippet: I believe I know everyone had access to everything. Andrew K
 
 Anchored Artifacts:
 Mentions: N-14, N-1
-Related Nodes: N-10455
+Related Nodes: N-10424
 Investigative Direction: Obtain X account login and session records for @charliekirk11.
 
 ---
@@ -1002,7 +1002,7 @@ Transcript Snippet: the one in Utah, ironically, who was found guilty of murderi
 
 Anchored Artifacts:
 Mentions: N-635
-Related Nodes: N-10944
+Related Nodes: N-10865
 Investigative Direction: Check the Summit County, Utah court record for the verdict in State v. Kouri Richins.
 
 ---
@@ -1017,7 +1017,7 @@ Transcript Snippet: So, my husband passed away unexpectedly last year. So, it's 
 
 Anchored Artifacts: A-2604.1
 Mentions: N-635
-Related Nodes: N-10944
+Related Nodes: N-10865
 Investigative Direction: Locate the original broadcast and its air date.
 
 ---
@@ -1032,7 +1032,7 @@ Transcript Snippet: A month later, she would be arrested over a year after her h
 
 Anchored Artifacts: A-2604.1
 Mentions: N-635
-Related Nodes: N-10944
+Related Nodes: N-10865
 Investigative Direction: Check the arrest date in Summit County, Utah records against the broadcast date.
 
 ---
@@ -1047,7 +1047,7 @@ Transcript Snippet: her husband, uh Eric Richens, also her victim, gratefully an
 
 Anchored Artifacts:
 Mentions: N-636, N-635
-Related Nodes: N-10944
+Related Nodes: N-10865
 Investigative Direction: Review trial testimony and estate filings in the Richins case.
 
 ---
@@ -1062,7 +1062,7 @@ Transcript Snippet: the court heard that Kouri herself attempted to change the b
 
 Anchored Artifacts:
 Mentions: N-635, N-636
-Related Nodes: N-10944
+Related Nodes: N-10865
 Investigative Direction: Review trial exhibits on the insurance beneficiary change in the Richins case.
 
 ---
@@ -1077,7 +1077,7 @@ Transcript Snippet: Erika also communicated that a Turning Point USA board membe
 
 Anchored Artifacts: A-2603.1
 Mentions: N-2
-Related Nodes: N-10943, N-10070, N-10000
+Related Nodes: N-10864, N-10067, N-10000
 Investigative Direction: Identify the TPUSA board member quoted in the Daily Mail AI-video investigation and ask about his role in the Kirks' estate planning.
 
 ---
@@ -1092,7 +1092,7 @@ Transcript Snippet: The White House Correspondents Dinner communications are ver
 
 Anchored Artifacts: A-2605.2
 Mentions: N-3
-Related Nodes: N-10700, N-10637, N-10075
+Related Nodes: N-10637, N-10582, N-10072
 Investigative Direction: Track the FOIA request number and statutory response deadline.
 
 ---
@@ -1107,7 +1107,7 @@ Transcript Snippet: Erika Kirk written in as an emotional asset just over an hou
 
 Anchored Artifacts: A-2605.1
 Mentions: N-2
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Obtain the original email with headers and timestamps and compare them with the WHCD incident timeline.
 
 ---
@@ -1122,7 +1122,7 @@ Transcript Snippet: I mean, how ill-advisable to go to the Daily Mail to say "We
 
 Anchored Artifacts:
 Mentions: 
-Related Nodes: N-10070, N-10664, N-10000
+Related Nodes: N-10067, N-10606, N-10000
 Investigative Direction: Review the Daily Mail article describing the screening and request the screened file for forensic analysis.
 
 ---
@@ -1137,7 +1137,7 @@ Transcript Snippet: Uh to tell people that it existed and then decided to have E
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Identify the event where the audio was played for Erika Kirk's walk-out and whether video was ever released.
 
 ---
@@ -1181,7 +1181,7 @@ Transcript Snippet: The defense still has not received their discovery requests.
 
 Anchored Artifacts:
 Mentions: N-40, N-2
-Related Nodes: N-10581
+Related Nodes: N-10532
 Investigative Direction: Check the docket for discovery motions, orders and the state's production log.
 
 ---
@@ -1196,7 +1196,7 @@ Transcript Snippet: then you should seal the quote-unquote evidence in case it b
 
 Anchored Artifacts: A-2606.4
 Mentions: N-40
-Related Nodes: N-10581
+Related Nodes: N-10532
 Investigative Direction: Obtain the defense motion to seal and its exhibit table from the court record.
 
 ---
@@ -1211,7 +1211,7 @@ Transcript Snippet: They're they're bringing five officers to say things. They'r
 
 Anchored Artifacts: A-2606.4
 Mentions: N-54
-Related Nodes: N-10679
+Related Nodes: N-10617
 Investigative Direction: Check the state's witness list for the preliminary hearing.
 
 ---
@@ -1226,7 +1226,7 @@ Transcript Snippet: Um here's 31. Case in point, the FBI DNA report, right? The 
 
 Anchored Artifacts: A-2606.4
 Mentions: N-40
-Related Nodes: N-10014, N-10782
+Related Nodes: N-10014, N-10707
 Investigative Direction: Obtain the filing's exhibit list and the FBI laboratory report once unsealed.
 
 ---
@@ -1241,7 +1241,7 @@ Transcript Snippet: They said they weren't even able to see the gun. Listed 32, 
 
 Anchored Artifacts: A-2606.4
 Mentions: N-40
-Related Nodes: N-10782
+Related Nodes: N-10707
 Investigative Direction: Check defense filings on access to the rifle and the ATF report's disclosure date.
 
 ---
@@ -1340,7 +1340,7 @@ Transcript Snippet: It was when right around the timeline when Erika finds out, 
 
 Anchored Artifacts: A-2608.2
 Mentions: N-341, N-2, N-14
-Related Nodes: N-10622
+Related Nodes: N-10568
 Investigative Direction: Build a minute-level timeline from Marx's post metadata, hospital records and Kolvet's and Erika Kirk's phone logs.
 
 ---
@@ -1355,7 +1355,7 @@ Transcript Snippet: Pastor Jack Hibbs and that little orbit of TPUSA faith-adjac
 
 Anchored Artifacts:
 Mentions: N-208, N-1
-Related Nodes: N-10813, N-10026
+Related Nodes: N-10737, N-10026
 Investigative Direction: Timestamp Jack Hibbs's earliest public statements and identify the Israeli news source he cited.
 
 ---
@@ -1370,7 +1370,7 @@ Transcript Snippet: You had to have uh the camera zoomed in real close to your f
 
 Anchored Artifacts:
 Mentions: N-637
-Related Nodes: N-10916
+Related Nodes: N-10837
 Investigative Direction: Review broadcast and wide-shot footage of the candidate's primary-night victory event.
 
 ---
@@ -1587,7 +1587,7 @@ Confidence: high
 - **DIA beats**: no qualifying hits. The only keyword hit is "CandaceOwens. com" (55:53), a merch plug rather than a tip request, so no M-12 occurrence was added. The host's invitations to investigators to contact her for the names of the people Erika Kirk told (21:59, 27:25) offer information rather than ask for tips, so they were not treated as DIA beats.
 - **Artifacts verbally referenced but not shown**: A-2602.1 (Marx preservation letter), A-2602.2 (Paramount preservation letter), A-2603.1 (the host's evidence and sources on the September 15 appointment), A-2605.1 (the "emotional asset" communication) and A-2605.2 (the FOIA request). The host also cites a Daily Mail article on a TPUSA board member and the AI video without showing it.
 - **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Turek." "Dan" (12:44) is mapped to N-270 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-637 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Marx"/"Victor March" are mapped to N-341; "Bryan Harpold" to N-266; "Andrew Kolvet" to N-14; "Megyn Kelly" to N-46.
-- **Reused staging titles**: N-10916 uses the episode 104 title "Thomas Massie Kentucky Primary Outside Spending". N-10923 and M-95 use the episode 105 titles "White House Military Office Erika Kirk Amplification Email" and "Emotional Response Asset". M-92 uses the episodes 103/105 title "Paramount Not So Tactical". Episode 104 names the same email "White House Military Office "I Want to Go Home" Amplification Email", so the integrator should reconcile the two.
+- **Reused staging titles**: N-10837 uses the episode 104 title "Thomas Massie Kentucky Primary Outside Spending". N-10844 and M-95 use the episode 105 titles "White House Military Office Erika Kirk Amplification Email" and "Emotional Response Asset". M-92 uses the episodes 103/105 title "Paramount Not So Tactical". Episode 104 names the same email "White House Military Office "I Want to Go Home" Amplification Email", so the integrator should reconcile the two.
 - **Transcription ambiguities**: "an aspirin three weeks before" (17:28) is likely "an aspiration"; kept as transcribed. "Eric Richens" vs "Kouri Richins" and "Kouri D. Richins" kept as spoken. "in combat minutes" (06:34) is unclear. The 28:40–30:40 and 46:20–47:58 gaps are breaks with no transcript.
 - **Duration**: the skeleton meta gave 00:56:29; the range was reset to the transcript front-matter duration 57:23.
 - **Not inscribed as claims (admission test)**:

@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq103
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-615, N-616, N-617, N-618, N-619, N-10920, N-10921
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-190, N-211, N-237, N-266, N-270, N-341, N-361, N-424, N-489, N-10000, N-10012, N-10026, N-10074, N-10340, N-10367, N-10388, N-10396, N-10450, N-10470, N-10472, N-10518, N-10547, N-10604, N-10605, N-10613, N-10618, N-10664, N-10899, N-10903, N-614, N-478, N-10922
+  - Tip-minted Nodes (skeleton): N-615, N-616, N-617, N-618, N-619, N-10841, N-10842
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-190, N-211, N-237, N-266, N-270, N-341, N-361, N-424, N-489, N-10000, N-10012, N-10026, N-10071, N-10318, N-10342, N-10361, N-10369, N-10419, N-10439, N-10390, N-10477, N-10507, N-10551, N-10552, N-10560, N-10564, N-10606, N-10820, N-10824, N-614, N-478, N-10843
   - Claim Range: C-9152–C-9208
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:04:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9157, C-9158, N-1, N-341, N-10026, N-10618*
+*Related: C-9157, C-9158, N-1, N-341, N-10026, N-10564*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:07:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9163, C-9164, N-1, N-3, N-266, N-270, N-10396*
+*Related: C-9163, C-9164, N-1, N-3, N-266, N-270, N-10369*
 
 **A-2567.2** Colorado local media item of September 17 confirming Charlie Kirk was due at the college the day after UVU
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:08:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9165, N-1, N-10012, N-10396*
+*Related: C-9165, N-1, N-10012, N-10369*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:11:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9168, C-9169, C-9170, C-9171, C-9172, C-9173, N-1, N-190, N-10000, N-10074, N-10547, N-10903*
+*Related: C-9168, C-9169, C-9170, C-9171, C-9172, C-9173, N-1, N-190, N-10000, N-10071, N-10507, N-10824*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:15:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9178, N-10920*
+*Related: C-9178, N-10841*
 
 **A-2569.2** Same email on mutual-aid officers knocking on locked classroom doors, read aloud
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:16:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9179, N-10920*
+*Related: C-9179, N-10841*
 
 **A-2569.3** CBS Colorado news segment interviewing roofer Delmer Martinez, with his footage
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:19:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9176, C-9180, N-616, N-617, N-618, N-10920*
+*Related: C-9176, C-9180, N-616, N-617, N-618, N-10841*
 
 ---
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:27:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9191, N-2, N-3, N-10472*
+*Related: C-9191, N-2, N-3, N-10390*
 
 **A-2570.2** Clip of Gary Melton reading Erika Kirk's September 9 alibi live on his Paramount Tactical show
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:28:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9187, C-9188, C-9190, N-1, N-2, N-3, N-14, N-15, N-211, N-614, N-10450, N-10472, N-10899*
+*Related: C-9187, C-9188, C-9190, N-1, N-2, N-3, N-14, N-15, N-211, N-614, N-10419, N-10390, N-10820*
 
 **A-2570.3** Photo of two children with on-screen metadata, presented on Melton's stream as proof Erika Kirk was with her kids
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:29:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9189, C-9191, N-2, N-3, N-14, N-614, N-10472*
+*Related: C-9189, C-9191, N-2, N-3, N-14, N-614, N-10390*
 
 **A-2570.4** Gary Melton tweet saying the boy in the photo is not Erika Kirk's son
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:34:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9193, N-2, N-614, N-10472, N-10899*
+*Related: C-9193, N-2, N-614, N-10390, N-10820*
 
 ---
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:37:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9196, C-9197, N-424, N-619, N-10000, N-10921*
+*Related: C-9196, C-9197, N-424, N-619, N-10000, N-10842*
 
 **A-2571.2** VFX LA demonstration video of an AI lip-sync of an Ariel commercial into French and German
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:40:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9199, N-10921*
+*Related: C-9199, N-10842*
 
 ---
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:45:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: N-1, N-10664*
+*Related: N-1, N-10606*
 
 **A-2572.2** Viewer comment on donor-advised funds and the Waterstone lawsuit
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:48:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9202, N-1, N-2, N-489, N-10388*
+*Related: C-9202, N-1, N-2, N-489, N-10361*
 
 **A-2572.3** Viewer comment (Allie) on Erika Kirk's Glenn Beck statement about night-before texts
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:50:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9204, N-1, N-2, N-3, N-14, N-237, N-10340*
+*Related: C-9204, N-1, N-2, N-3, N-14, N-237, N-10318*
 
 **A-2572.4** Viewer comment (TJ Clark) from a self-described former Aurora police officer offering help with records requests
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:53:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9206, N-3, N-10518*
+*Related: C-9206, N-3, N-10477*
 
 **A-2572.5** Viewer comment (Happy Coma) on which agency responded in Evergreen
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:53:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9208, N-10920*
+*Related: C-9208, N-10841*
 
 ---
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:53:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9206, N-3, N-10518*
+*Related: C-9206, N-3, N-10477*
 
 ---
 
@@ -425,124 +425,124 @@ Where Victor Marx reported from in October 2023; context for the IDF-contacts ti
 
 *Related: C-9157, C-9158, C-9159, A-2566.1*
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Destination of N582MM on the evening of September 10, where it stayed overnight.
 
 *Related: C-9169, C-9172, C-9173, A-2568.1*
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 The host revisits Erika Kirk's Glenn Beck denial and the iMessage to Dan Flood.
 
 *Related: C-9204, C-9205, A-2572.3*
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's encounter, which the host says Melton's guest inadvertently corroborated.
 
 *Related: C-9192*
 
-**N-10388** Missing Money from Turning Point Action
+**N-10361** Missing Money from Turning Point Action
 
 The host relays a rumor that Turning Point Action was missing $10 million.
 
 *Related: C-9202, C-9203, A-2572.2*
 
-**N-10396** Charis Bible College Security Coordination (Post-Assassination)
+**N-10369** Charis Bible College Security Coordination (Post-Assassination)
 
 The host revisits the September 11 Charis Bible College event and Harpole's filing on the lack of security coordination.
 
 *Related: C-9162, C-9163, C-9164, C-9165, C-9166, A-2567.1, A-2567.2*
 
-**N-10450** Fort Huachuca PR Response Coordination Question
+**N-10419** Fort Huachuca PR Response Coordination Question
 
 Coordination between Erika Kirk, Andrew Kolvet and Paramount Tactical on the alibi.
 
 *Related: C-9187, A-2570.2*
 
-**N-10470** Dan Flood Message Format Discrepancy
+**N-10439** Dan Flood Message Format Discrepancy
 
 The host says the night-before message to Dan Flood was an iMessage, not Telegram.
 
 *Related: C-9205*
 
-**N-10472** Fort Huachuca Alibi Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 The children's photo and the September 9 office alibi aired by Gary Melton.
 
 *Related: C-9187, C-9188, C-9189, C-9190, C-9191, C-9193, A-2570.1, A-2570.2, A-2570.3, A-2570.4*
 
-**N-10518** Erika Kirk Batman Colorado Theater Connection
+**N-10477** Erika Kirk Batman Colorado Theater Connection
 
 The host repeats that a friend of Erika Kirk was at the Aurora theater shooting.
 
 *Related: C-9161, C-9206, A-2572.4, A-2573.1*
 
-**N-10547** September 10 Plane Logistics Discrepancy
+**N-10507** Andrew Kolvet 9/10 Flight Itinerary
 
 N582MM's arrival in Provo after the shooting adds to the September 10 plane logistics questions.
 
 *Related: C-9169, A-2568.1*
 
-**N-10604** Victor Marx Background Verification
+**N-10551** Victor Marx Background Verification
 
 Marx's early death announcement and reported falling out with Charlie Kirk.
 
 *Related: C-9154, C-9156*
 
-**N-10605** Erika Kirk–Victor Marx Relationship Verification
+**N-10552** Erika Kirk–Victor Marx Relationship Verification
 
 The host asks how Marx came to be in Erika Kirk's immediate circle.
 
 *Related: C-9155*
 
-**N-10613** Victor Marx / Corby Hall On-Air Interview Proposal
+**N-10560** Victor Marx / Corby Hall On-Air Interview Proposal
 
 Marx has answered the host's message and she plans to set a time for him to appear.
 
 *Related: C-9153*
 
-**N-10618** Victor Marx IDF / Israeli Defense Group Connection
+**N-10564** Victor Marx IDF / Israeli Defense Group Connection
 
 Marx's on-air claim of extensive IDF special forces relationships.
 
 *Related: C-9157, C-9158, A-2566.1*
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Donors' insistence that the "I appoint Erika Kirk" statement is AI, now linked by the host to VFX LA.
 
 *Related: C-9194, C-9198, C-9200, C-9201, A-2572.1*
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Gary Melton's show and channel, on which the alibi and the children's photo aired.
 
 *Related: C-9187, C-9188, C-9192, C-9193, A-2570.2, A-2570.4*
 
-**N-10903** N582MM TPUSA-Associated Plane Flight Pattern
+**N-10824** N582MM TPUSA-Associated Plane Flight Pattern
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the plane with tail number N582MM, tied to Paradise Jets, which the host says was Charlie Kirk's main plane after Mikey McCoy became chief of staff. According to the host, on September 10, 2025 it departed Denver at 11:58 a.m. Mountain Time, landed at Pierre, South Dakota at 12:56 p.m., went on to Chicago for an apparent pickup, landed in Provo at 6:57 p.m., stayed overnight and returned to Pierre, carrying someone known to Turning Point USA.
 
 *Related: C-9168, C-9169, C-9170, C-9171, C-9172, C-9173, A-2568.1*
 
-**N-10920** Evergreen High School Shooting (September 10, 2025) Open Questions
+**N-10841** Evergreen High School Shooting (September 10, 2025) Open Questions
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the Evergreen High School shooting in Jefferson County, Colorado, at about 12:21 p.m. on September 10, 2025. Open questions raised by local parents and the host: the identity and location of the first 911 caller, which outside agency's officers knocked on locked classroom doors, which job site roofer Delmer Martinez was working, and the undocumented traffic crash to which the part-time school resource officer was dispatched.
 
 *Related: C-9174, C-9175, C-9176, C-9177, C-9178, C-9179, C-9180, C-9181, C-9182, C-9183, C-9184, C-9185, C-9208, A-2569.1, A-2569.2, A-2569.3, A-2572.5*
 
-**N-10921** VFX LA
+**N-10842** VFX LA
 
 Node Type: Organization
 Los Angeles visual-effects and AI company specializing in deepfake lip-sync and voice cloning. The host says TPUSA's Marcus Wada met with it after Charlie Kirk's death; she cannot confirm it produced any content for TPUSA.
 
 *Related: C-9195, C-9196, C-9197, C-9199, C-9200, A-2571.1, A-2571.2*
 
-**N-10922** Superfeed
+**N-10843** Superfeed
 
 Node Type: Organization
 Company the host says powers the Turning Point USA app and has Lori Frantzve and Tyler Bowyer on its board.
@@ -575,7 +575,7 @@ Transcript Snippet: He finally answered and so I'm going to set a time for him t
 
 Anchored Artifacts:
 Mentions: N-341, N-3
-Related Nodes: N-10613
+Related Nodes: N-10560
 Investigative Direction: Check the host's Instagram direct-message thread with Victor Marx and any later scheduled appearance.
 
 ---
@@ -590,7 +590,7 @@ Transcript Snippet: why was Victor Marx the first documented public person to do
 
 Anchored Artifacts:
 Mentions: N-341, N-1, N-5
-Related Nodes: N-10604
+Related Nodes: N-10551
 Supports: C-8316
 Investigative Direction: Compare the posting timestamp of Marx's video with Trump's Truth Social announcement and other first public reports on September 10, 2025.
 
@@ -606,7 +606,7 @@ Transcript Snippet: As soon as she flew back home to Arizona, he was there to of
 
 Anchored Artifacts:
 Mentions: N-341, N-2
-Related Nodes: N-10605
+Related Nodes: N-10552
 Supports: C-8124
 Investigative Direction: Identify the source and date of the photos or video showing Marx at the Kirk residence.
 
@@ -622,7 +622,7 @@ Transcript Snippet: it was apparently bad enough according to insiders at Turnin
 
 Anchored Artifacts:
 Mentions: N-341, N-1
-Related Nodes: N-10604, N-10000
+Related Nodes: N-10551, N-10000
 Investigative Direction: Check archived follower lists for Charlie Kirk's and Victor Marx's accounts for a period of mutual unfollowing.
 
 ---
@@ -637,7 +637,7 @@ Transcript Snippet: it appears that the last time Victor Marx had done anything 
 
 Anchored Artifacts: A-2566.1
 Mentions: N-341, N-1
-Related Nodes: N-10618, N-10026
+Related Nodes: N-10564, N-10026
 Investigative Direction: Review Charlie Kirk Show episode archives from 2023 to 2025 for any later Victor Marx appearance.
 
 ---
@@ -652,7 +652,7 @@ Transcript Snippet: the relationships that we have with special forces commander
 
 Anchored Artifacts: A-2566.1
 Mentions: N-341
-Related Nodes: N-10618, N-10026
+Related Nodes: N-10564, N-10026
 Investigative Direction: Obtain the full October 2023 Charlie Kirk Show segment and any records of Marx's access arrangements in Israel.
 
 ---
@@ -696,7 +696,7 @@ Transcript Snippet: And we shouldn't forget here that Erika Kirk's friend was th
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10518
+Related Nodes: N-10477
 Supports: C-5350
 Investigative Direction: Locate Erika Kirk's original post about the friend and cross-check the Aurora victim and witness lists.
 
@@ -712,7 +712,7 @@ Transcript Snippet: We also broke the story that a security plan was not put in 
 
 Anchored Artifacts:
 Mentions: N-1, N-3
-Related Nodes: N-10396
+Related Nodes: N-10369
 Investigative Direction: Request Woodland Park Police Department and Charis Bible College records of any security contact for a September 11, 2025 Kirk visit.
 
 ---
@@ -727,7 +727,7 @@ Transcript Snippet: Harpole did not coordinate with Charis Bible College nor the
 
 Anchored Artifacts: A-2567.1
 Mentions: N-266, N-270, N-1, N-3
-Related Nodes: N-10396
+Related Nodes: N-10369
 Investigative Direction: Obtain Harpole's filing in his suit against the host and TPUSA's internal itinerary for September 11, 2025.
 
 ---
@@ -742,7 +742,7 @@ Transcript Snippet: I think they just keep forgetting that like I went on tour w
 
 Anchored Artifacts: A-2567.1
 Mentions: N-3, N-1, N-266
-Related Nodes: N-10396
+Related Nodes: N-10369
 Investigative Direction: Compare TPUSA security staffing records for past campus events with Harpole's filing.
 
 ---
@@ -757,7 +757,7 @@ Transcript Snippet: the college had planned to host Kirk after one day after Wed
 
 Anchored Artifacts: A-2567.2
 Mentions: N-1
-Related Nodes: N-10396, N-10012
+Related Nodes: N-10369, N-10012
 Investigative Direction: Identify the outlet and original article of September 17, 2025 and Charis Bible College's event announcements.
 
 ---
@@ -772,7 +772,7 @@ Transcript Snippet: the founder of it is this guy Andrew Wommack and you're thin
 
 Anchored Artifacts:
 Mentions: N-615
-Related Nodes: N-10396
+Related Nodes: N-10369
 Investigative Direction: Check Andrew Wommack's published biography and any military service records.
 
 ---
@@ -801,7 +801,7 @@ Transcript Snippet: Right after Mikey McCoy becomes the chief of staff, this pla
 
 Anchored Artifacts: A-2568.1
 Mentions: N-190, N-1
-Related Nodes: N-10903, N-10000
+Related Nodes: N-10824, N-10000
 Investigative Direction: Obtain FAA registration and charter records for N582MM and TPUSA's flight bookings from 2023 to 2025.
 
 ---
@@ -816,7 +816,7 @@ Transcript Snippet: Someone known to Turning Point USA most certainly did take t
 
 Anchored Artifacts: A-2568.1
 Mentions: N-1
-Related Nodes: N-10903, N-10000, N-10074, N-10547
+Related Nodes: N-10824, N-10000, N-10071, N-10507
 Investigative Direction: Obtain the passenger manifest for N582MM's September 10, 2025 Provo arrival.
 
 ---
@@ -831,7 +831,7 @@ Transcript Snippet: N582 MM, it is still tied to Paradise Jets, which the other 
 
 Anchored Artifacts: A-2568.1
 Mentions: N-1
-Related Nodes: N-10903
+Related Nodes: N-10824
 Investigative Direction: Check FAA registry and Paradise Jets management listings for both tail numbers.
 
 ---
@@ -846,7 +846,7 @@ Transcript Snippet: you can see that 25 minutes before Charlie was shot, the pla
 
 Anchored Artifacts: A-2568.1
 Mentions: N-1
-Related Nodes: N-10903
+Related Nodes: N-10824
 Investigative Direction: Pull ADS-B history for N582MM on September 10, 2025 and identify the Pierre arrival facility.
 
 ---
@@ -861,7 +861,7 @@ Transcript Snippet: stayed in South Dakota for about 50 minutes before heading o
 
 Anchored Artifacts: A-2568.1
 Mentions: 
-Related Nodes: N-10903, N-10074
+Related Nodes: N-10824, N-10071
 Investigative Direction: Obtain ADS-B and FBO records for N582MM's Chicago stop and Provo arrival, and the passengers boarded in Chicago.
 
 ---
@@ -876,7 +876,7 @@ Transcript Snippet: After it stayed overnight in Provo on September 10th, it the
 
 Anchored Artifacts: A-2568.1
 Mentions: 
-Related Nodes: N-10903, N-10074
+Related Nodes: N-10824, N-10071
 Investigative Direction: Pull N582MM's September 11, 2025 flight history.
 
 ---
@@ -891,7 +891,7 @@ Transcript Snippet: on September 10th at almost the exact same time, down to the
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Compare Jefferson County Sheriff's Office incident times with the UVU shooting time.
 
 ---
@@ -906,7 +906,7 @@ Transcript Snippet: a 16-year-old student who attended Evergreen High School nam
 
 Anchored Artifacts:
 Mentions: N-616
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Review the Jefferson County Sheriff's Office incident report and recent document release.
 
 ---
@@ -921,7 +921,7 @@ Transcript Snippet: And he does this at the intersection of South Olive Road and
 
 Anchored Artifacts: A-2569.3
 Mentions: N-616, N-617, N-618
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Obtain Martinez's full footage and the sheriff's scene diagram.
 
 ---
@@ -936,7 +936,7 @@ Transcript Snippet: The sheriff's office has since confirmed that only the deput
 
 Anchored Artifacts:
 Mentions: N-616
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Review deputy body-camera footage and the coroner's report in the sheriff's document release.
 
 ---
@@ -950,7 +950,7 @@ Claim: According to an email the host reads, the first 911 call came in at 12:22
 Transcript Snippet: The call came in at 12:22, a full minute after the first shot was fired.
 
 Anchored Artifacts: A-2569.1
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Request the Jefferson County 911 call log and recording for 12:22 on September 10, 2025.
 
 ---
@@ -964,7 +964,7 @@ Claim: Per an email the host reads, the Jefferson County Sheriff's Office acknow
 Transcript Snippet: The Jefferson County Sheriff's Office actually acknowledged this in their October 10th update and said that Jefferson County's deputies followed the protocol correctly
 
 Anchored Artifacts: A-2569.2
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Obtain the October 10 sheriff's update and the list of responding mutual-aid agencies.
 
 ---
@@ -979,7 +979,7 @@ Transcript Snippet: Martinez tells CBS Colorado he and another coworker were wor
 
 Anchored Artifacts: A-2569.3
 Mentions: N-618
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Obtain the full CBS Colorado interview and Martinez's employer details.
 
 ---
@@ -994,7 +994,7 @@ Transcript Snippet: locals, who were very interested in this, began searching an
 
 Anchored Artifacts:
 Mentions: N-618
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Search Jefferson County building-permit records for Evergreen roofing permits active on September 10, 2025.
 
 ---
@@ -1008,7 +1008,7 @@ Claim: The host says Evergreen High School's assigned resource officer was on me
 Transcript Snippet: the deputy that was assigned to that role happened to be on medical leave at the time of the shooting.
 
 Anchored Artifacts:
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Request Jefferson County SRO assignment and leave records for September 2025.
 
 ---
@@ -1022,7 +1022,7 @@ Claim: The host says initial reporting stated the part-time resource officer lef
 Transcript Snippet: initially the reporting came out and said that the SRO deputy left Evergreen campus around 10:30 a. m. because he was responding to a nearby traffic crash.
 
 Anchored Artifacts:
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Locate the original media reports and the sheriff's first timeline.
 
 ---
@@ -1036,7 +1036,7 @@ Claim: The host says the sheriff's office revised the timeline: the deputy start
 Transcript Snippet: Then he was dispatched uh from Conifer High School uh to a car crash. And while en route to that car crash, that's when the call came in about the Evergreen shooting.
 
 Anchored Artifacts:
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Obtain the deputy's CAD dispatch history for September 10, 2025.
 
 ---
@@ -1050,7 +1050,7 @@ Claim: The host says the location of the crash the resource officer was dispatch
 Transcript Snippet: Location of the crash he was originally dispatched to was never publicly released.
 
 Anchored Artifacts:
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Request Colorado State Patrol and Jefferson County crash reports for the Conifer area on September 10, 2025.
 
 ---
@@ -1080,7 +1080,7 @@ Transcript Snippet: Erika coordinating with Andrew Kolvet to get an alibi for Fo
 
 Anchored Artifacts: A-2570.2
 Mentions: N-2, N-14, N-614
-Related Nodes: N-10899, N-10472, N-10450
+Related Nodes: N-10820, N-10390, N-10419
 Supports: C-9136
 Investigative Direction: Obtain the messages between Kolvet and Melton before the stream.
 
@@ -1096,7 +1096,7 @@ Transcript Snippet: She woke up next to Charlie on the 9th, went to the office w
 
 Anchored Artifacts: A-2570.2
 Mentions: N-614, N-2, N-1
-Related Nodes: N-10899, N-10472
+Related Nodes: N-10820, N-10390
 Supports: C-4484
 Investigative Direction: Check TPUSA office access logs and Fox booking records for Charlie Kirk on September 9, 2025.
 
@@ -1112,7 +1112,7 @@ Transcript Snippet: Says right at the top, September 9th, 8:33 a. m.
 
 Anchored Artifacts: A-2570.3
 Mentions: N-614, N-14, N-2
-Related Nodes: N-10472
+Related Nodes: N-10390
 Supports: C-9134
 Investigative Direction: Obtain the original image file and its EXIF data, including device and location.
 
@@ -1128,7 +1128,7 @@ Transcript Snippet: She has never made that claim publicly. Actually, the exact 
 
 Anchored Artifacts: A-2570.2
 Mentions: N-2, N-211, N-1, N-14, N-15, N-3
-Related Nodes: N-10472
+Related Nodes: N-10390
 Investigative Direction: Compare the Jesse Watters interview transcript with the alibi read on Paramount Tactical.
 
 ---
@@ -1143,7 +1143,7 @@ Transcript Snippet: I received information from people who would know, who know 
 
 Anchored Artifacts: A-2570.3, A-2570.1
 Mentions: N-3, N-2
-Related Nodes: N-10472
+Related Nodes: N-10390
 Investigative Direction: Establish who took the photo and whose children appear in it.
 
 ---
@@ -1158,7 +1158,7 @@ Transcript Snippet: And then Mitch's son confirmed that he got a phone call on t
 
 Anchored Artifacts:
 Mentions: N-361, N-614
-Related Nodes: N-10899, N-10367
+Related Nodes: N-10820, N-10342
 Investigative Direction: Request Fort Huachuca and Sierra Vista police call records for September 8–9, 2025 involving Mitch Snow.
 
 ---
@@ -1173,7 +1173,7 @@ Transcript Snippet: Paramount Gary finally responds and says, "It's not her son.
 
 Anchored Artifacts: A-2570.4
 Mentions: N-614, N-2
-Related Nodes: N-10899, N-10472
+Related Nodes: N-10820, N-10390
 Supports: C-9135
 Investigative Direction: Archive Melton's tweet and the post he replied to.
 
@@ -1189,7 +1189,7 @@ Transcript Snippet: he that he's already actually incorporating AI voices into t
 
 Anchored Artifacts:
 Mentions: N-424
-Related Nodes: N-10000, N-10664
+Related Nodes: N-10000, N-10606
 Supports: C-9057
 Investigative Direction: Obtain copies of TPUSA donor presentation videos and identify the voice-over source.
 
@@ -1205,7 +1205,7 @@ Transcript Snippet: Marcus was meeting with and communicating with Hollywood AI 
 
 Anchored Artifacts:
 Mentions: N-424, N-1
-Related Nodes: N-10921, N-10000
+Related Nodes: N-10842, N-10000
 Investigative Direction: Obtain TPUSA vendor meeting records and correspondence with AI production companies after September 10, 2025.
 
 ---
@@ -1220,7 +1220,7 @@ Transcript Snippet: VFX Los Angeles. These guys uh were brought into Turning Poi
 
 Anchored Artifacts: A-2571.1
 Mentions: N-424
-Related Nodes: N-10921, N-10000
+Related Nodes: N-10842, N-10000
 Investigative Direction: Ask VFX LA and TPUSA to confirm any meeting or contract, and check TPUSA expenditure filings for payments to the firm.
 
 ---
@@ -1235,7 +1235,7 @@ Transcript Snippet: this project for Fanatics Collectibles, where we had to repr
 
 Anchored Artifacts: A-2571.1
 Mentions: N-619
-Related Nodes: N-10921
+Related Nodes: N-10842
 Investigative Direction: Archive the VFX LA voice-cloning page and the Fanatics Collectibles project.
 
 ---
@@ -1250,7 +1250,7 @@ Transcript Snippet: I had donors telling me that they are convinced that it is A
 
 Anchored Artifacts:
 Mentions: N-1, N-2, N-3
-Related Nodes: N-10664
+Related Nodes: N-10606
 Supports: C-8029
 Investigative Direction: Obtain the original Aspen recording and any independent audio forensic analysis.
 
@@ -1265,7 +1265,7 @@ Claim: In the VFX LA demonstration video, the company says it mapped the origina
 Transcript Snippet: We then cast two French actors with likeness matching their UK counterparts and recorded a plethora of what we call training footage to train our AI models for each.
 
 Anchored Artifacts: A-2571.2
-Related Nodes: N-10921
+Related Nodes: N-10842
 Investigative Direction: Archive the VFX LA demonstration video and its client attribution.
 
 ---
@@ -1280,7 +1280,7 @@ Transcript Snippet: Andrew Kolvet did say they met with people that said they co
 
 Anchored Artifacts:
 Mentions: N-14, N-1
-Related Nodes: N-10921, N-10664
+Related Nodes: N-10842, N-10606
 Investigative Direction: Locate Kolvet's original statement and ask which vendors were met and whether any samples were produced.
 
 ---
@@ -1295,7 +1295,7 @@ Transcript Snippet: And Ericka says she watched the video of Charlie um saying t
 
 Anchored Artifacts:
 Mentions: N-2, N-1
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Locate Erika Kirk's statement about watching the video and request the video itself.
 
 ---
@@ -1310,7 +1310,7 @@ Transcript Snippet: the rumor is that Turning Point Action was missing $10 milli
 
 Anchored Artifacts: A-2572.2
 Mentions: N-2, N-489
-Related Nodes: N-10388
+Related Nodes: N-10361
 Investigative Direction: Review Turning Point Action's IRS filings and audits for a $10 million shortfall.
 
 ---
@@ -1325,7 +1325,7 @@ Transcript Snippet: the company that she is on the board of with Tyler Bowyer. U
 
 Anchored Artifacts:
 Mentions: N-489, N-11
-Related Nodes: N-10922, N-10000, N-10388
+Related Nodes: N-10843, N-10000, N-10361
 Investigative Direction: Check Superfeed's corporate filings for board members and the TPUSA app's terms of service and privacy policy.
 
 ---
@@ -1340,7 +1340,7 @@ Transcript Snippet: She said it with such attitude, right? She's like, "I have h
 
 Anchored Artifacts: A-2572.3
 Mentions: N-2, N-237, N-14, N-1, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-6549
 Investigative Direction: Compare the Glenn Beck interview transcript with Kolvet's and Dan Flood's received messages.
 
@@ -1356,7 +1356,7 @@ Transcript Snippet: this is where this took place on Telegram uh that was inaccu
 
 Anchored Artifacts:
 Mentions: N-270, N-1, N-2
-Related Nodes: N-10340, N-10470
+Related Nodes: N-10318, N-10439
 Supports: C-6053
 Investigative Direction: Obtain Dan Flood's iMessage thread with Charlie Kirk from September 9, 2025.
 
@@ -1372,7 +1372,7 @@ Transcript Snippet: Please do shoot us an email to more tips@canasown. com so I 
 
 Anchored Artifacts: A-2573.1, A-2572.4
 Mentions: N-3
-Related Nodes: N-10518
+Related Nodes: N-10477
 Investigative Direction: Follow up on any records requests submitted through the tips inbox about the 2012 Aurora shooting.
 
 ---
@@ -1400,7 +1400,7 @@ Claim: A viewer comment read by the host says the door-knocking officers were al
 Transcript Snippet: It was almost certainly the Clear Creek Sheriff Office working in collaboration. We don't have our own police department in Evergreen.
 
 Anchored Artifacts: A-2572.5
-Related Nodes: N-10920
+Related Nodes: N-10841
 Investigative Direction: Obtain the mutual-aid agency roster from the Jefferson County Sheriff's Office after-action report.
 
 ---
@@ -1523,9 +1523,9 @@ Confidence: high
 ## 7. Optional Flags
 
 - **Artifacts referenced but not shown**: Victor Marx's Instagram reply to the host (01:59) and his video announcing Charlie Kirk's death are mentioned only. Trump's Time magazine post (00:01) is described, not shown. The September 10 flight data for N582MM (A-2568.1) is described with "you can see", but no on-screen text is read, so it carries Medium confidence. The Evergreen sheriff's document release and October 10 update are described, not shown.
-- **Possible duplicate node**: N-10903 (N582MM TPUSA-Associated Plane Flight Pattern) matches N-10903 in staged episode 084, which also tracked N582MM's Pierre–Chicago–Provo route on September 10. That node has no global id in nodes.tsv yet, so the integrator should merge the two. Ep 084's placeholder claims on the same route (Baron Coleman's tracking) cannot be linked as Supports until they have global ids.
+- **Possible duplicate node**: N-10824 (N582MM TPUSA-Associated Plane Flight Pattern) matches N-10824 in staged episode 084, which also tracked N582MM's Pierre–Chicago–Provo route on September 10. That node has no global id in nodes.tsv yet, so the integrator should merge the two. Ep 084's placeholder claims on the same route (Baron Coleman's tracking) cannot be linked as Supports until they have global ids.
 - **Inconsistency in the host's account**: she says Charlie Kirk used N582MM for "basically all of 2023" and then "all through 2025" (09:26–10:19). The tail number is first read as "9582 MM" and later as "N582 MM". Both are preserved as spoken.
-- **Name matching**: "Andrew Kolvet", "Andrew Cole" and "Andrew Kolvet" are mapped to N-14 Andrew Kolvet. "Justin Streiff" maps to N-15 (alias). "Jesse Watters" maps to N-211. Gary Melton is also transcribed "Gary Melton" and "Gary Melton" and is minted as N-614; Paramount Tactical is matched to the org N-10899 Paramount Tactical Valhalla. "Colby Hall" (22:06) is taken as Corby Hall but is not cited. "Victor Marx" (22:50) is Victor Marx. "Larry Loomer" (00:01) is presumably Laura Loomer, but she is not cited. "Dick Shirley" (45:48) is presumably Nick Shirley, also not cited. "Ericka" is Erika Kirk.
+- **Name matching**: "Andrew Kolvet", "Andrew Cole" and "Andrew Kolvet" are mapped to N-14 Andrew Kolvet. "Justin Streiff" maps to N-15 (alias). "Jesse Watters" maps to N-211. Gary Melton is also transcribed "Gary Melton" and "Gary Melton" and is minted as N-614; Paramount Tactical is matched to the org N-10820 Paramount Tactical Valhalla. "Colby Hall" (22:06) is taken as Corby Hall but is not cited. "Victor Marx" (22:50) is Victor Marx. "Larry Loomer" (00:01) is presumably Laura Loomer, but she is not cited. "Dick Shirley" (45:48) is presumably Nick Shirley, also not cited. "Ericka" is Erika Kirk.
 - **Name correction**: the host says "Jessica Ghawi" ("I believe her name was"); the Aurora victim who survived the 2012 Toronto Eaton Centre food-court shooting is Jessica Ghawi (Redfield), already node N-478 from episode 60. Transcript spelling kept in snippets; "Jessica Ghawi" is an alias.
 - **Transcription ambiguities**: "Fort Wat Chuca" is Fort Huachuca. "Smith & Wesson.38" is kept as written. "Desmond Holly" and "Holly Desmond Holly" refer to Desmond Holly. "Matthew Silverstone" (18:49) is taken as Matthew Silverstone. "Delmer Martinez" is Delmer Martinez. The email address is transcribed "more tips@canasown. com". "Pride of Charlie" (50:23) is probably the Bride of Charlie series. "they act Superfeed" is garbled.
 - **DIA scan**: one real hit, "more tips@canasown. com" at 53:58 (C-9206, A-2573.1, M-12). The 04:29 remark "I received a few tips into our inbox" relays tips already received rather than asking for or paying off a tip, and matches none of the scan phrases, so it is recorded only as C-9159, not as a DIA beat. The Candace Intelligence Agency merch phrase does not air (no M-14).
@@ -1538,5 +1538,5 @@ Confidence: high
   - The host's view that Charlie Kirk was fearful rather than excited the night before
   - The host's suspicion that Erika Kirk was shown a deepfake
 - **Minor factual beats not inscribed**: Columbine and the Aurora Dark Knight shooting as Colorado background; Colorado ranked the healthiest state; Evergreen sitting in the same county as Columbine; Martinez's lack of cell reception; the sheriff's recent document dump; the viewer's donor-advised-fund theory (A-2572.2) and the host's disagreement with it; Mitt Romney's long relationship with Netanyahu (raised in answer to a comment); and the host's past tours with Charlie Kirk.
-- **Cross-episode links left out**: C-9162 and C-9163 could relate to earlier Charis Bible College reporting (topic N-10396), but no matching claim was found in claims_index.tsv. C-9196 and C-9195 extend C-9057 but name a new company, so only C-9194 is linked.
+- **Cross-episode links left out**: C-9162 and C-9163 could relate to earlier Charis Bible College reporting (topic N-10369), but no matching claim was found in claims_index.tsv. C-9196 and C-9195 extend C-9057 but name a new company, so only C-9194 is linked.
 - **Sponsor reads** (Pre-Born, SelectQuote, a home-loan sponsor) and merch and book-club promotion are excluded.

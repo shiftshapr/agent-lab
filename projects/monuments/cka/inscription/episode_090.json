@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10593"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -52,7 +52,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10595"
+            "N-10542"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -81,7 +81,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10594"
+            "N-10406"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -108,7 +108,7 @@
             "C-8048"
           ],
           "related_nodes": [
-            "N-10597"
+            "N-10544"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -136,7 +136,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10596"
+            "N-10543"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -154,7 +154,7 @@
             "C-8050"
           ],
           "related_nodes": [
-            "N-10596"
+            "N-10543"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -253,7 +253,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10598"
+            "N-10545"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -280,7 +280,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10593"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -308,7 +308,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10594"
+            "N-10406"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -339,7 +339,7 @@
             "N-97",
             "N-2",
             "N-38",
-            "N-10954"
+            "N-10875"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -490,11 +490,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Referenced as former Daily Wire CEO on Piers Morgan; no artifact displayed.",
       "related_artifacts": [],
       "related_claims": [],
@@ -502,14 +502,15 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10593",
-      "ref": "N-10593",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10541",
+      "ref": "N-10541",
       "name": "Tyler Robinson Filing Timeline Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency between defense-motion timestamps, search-warrant timestamps, and publicly reported federal booking timeline.",
       "related_artifacts": [
         "A-1948.1",
@@ -526,14 +527,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10021"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10594",
-      "ref": "N-10594",
-      "name": "Aspen Donor Inconsistency",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Aspen Donor Recall Verification",
+      "type": "investigation_question",
       "description": "Host's claim that two Aspen-event donors deny the audio quote occurred at the event; audio vs. donor memory discrepancy.",
       "related_artifacts": [
         "A-1949.1",
@@ -541,7 +544,9 @@
       ],
       "related_claims": [
         "C-8028",
-        "C-8029"
+        "C-8029",
+        "C-8030",
+        "C-8035"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -551,14 +556,15 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10595",
-      "ref": "N-10595",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10542",
+      "ref": "N-10542",
       "name": "Forensic Extraction Evidence Presentation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "State's stated intention not to offer forensic-extraction evidence from seized electronics at preliminary hearing.",
       "related_artifacts": [
         "A-1948.2"
@@ -573,14 +579,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10596",
-      "ref": "N-10596",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10543",
+      "ref": "N-10543",
       "name": "Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Pattern of host assertions regarding Daily Wire personnel at ADF and ADF litigation coordination with Erika Kirk.",
       "related_artifacts": [
         "A-1951.1",
@@ -594,14 +602,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10597",
-      "ref": "N-10597",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10544",
+      "ref": "N-10544",
       "name": "Charlie GPT Pitch Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Admitted pre-death pitches for AI \"Charlie GPT\" product and host's open question about whether a pitch was accepted.",
       "related_artifacts": [
         "A-1950.1"
@@ -616,14 +625,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10598",
-      "ref": "N-10598",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10545",
+      "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host's speculative but anchored concern regarding Lance Twiggs's status in light of Discord statement and Robinson's relationship.",
       "related_artifacts": [
         "A-1948.2",
@@ -639,7 +649,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1272,11 +1283,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1296,14 +1307,16 @@
       "evidence_count": 0,
       "claim_count": 11,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1315,14 +1328,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10024",
       "ref": "N-10024",
       "name": "Kirk Assassination Investigation Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1336,14 +1351,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10045"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1353,14 +1370,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10029",
       "ref": "N-10029",
       "name": "Washington County Sheriff's Office",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1373,14 +1391,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10031",
       "ref": "N-10031",
       "name": "33-Hour Surrender Timeline Signal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1392,14 +1412,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10022"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10271",
-      "ref": "N-10271",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10255",
+      "ref": "N-10255",
       "name": "Tyler Robinson Washington County Surveillance Footage Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1409,14 +1431,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10372",
-      "ref": "N-10372",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10346",
+      "ref": "N-10346",
       "name": "Cabot Phillips Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1427,14 +1450,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@type": "Topic",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1444,14 +1469,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10431",
-      "ref": "N-10431",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10401",
+      "ref": "N-10401",
       "name": "Aspen Donor Retreat \"What Happens When You Die\" Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1463,14 +1489,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10568",
-      "ref": "N-10568",
+      "@type": "Event",
+      "@id": "N-10519",
+      "ref": "N-10519",
       "name": "Athanor Lodge / French Freemason Murder Trial",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1480,32 +1507,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10518"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10584",
-      "ref": "N-10584",
-      "name": "Aspen Donor Event Memory Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-8030",
-        "C-8035"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10628",
-      "ref": "N-10628",
+      "@type": "Topic",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1515,14 +1527,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1536,14 +1549,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10679",
-      "ref": "N-10679",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10617",
+      "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1554,14 +1568,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10703",
-      "ref": "N-10703",
+      "@type": "Topic",
+      "@id": "N-10639",
+      "ref": "N-10639",
       "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1571,14 +1586,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1594,14 +1610,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10936",
-      "ref": "N-10936",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10857",
+      "ref": "N-10857",
       "name": "Aspen CEO-Appointment Video Non-Release",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1613,14 +1631,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10606"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10954",
-      "ref": "N-10954",
+      "@type": "Organization",
+      "@id": "N-10875",
+      "ref": "N-10875",
       "name": "Alliance Defending Freedom",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1633,14 +1653,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11002",
-      "ref": "N-11002",
+      "@type": "Place",
+      "@id": "N-10922",
+      "ref": "N-10922",
       "name": "Warner Valley, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1651,14 +1673,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q39816"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11129",
-      "ref": "N-11129",
+      "@type": "Organization",
+      "@id": "N-11047",
+      "ref": "N-11047",
       "name": "Freemasonry",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1669,7 +1693,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1704,6 +1730,25 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8055"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -1717,7 +1762,7 @@
         "A-1948.1"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10541"
       ],
       "tags": [],
       "claim_timestamp": "00:32:25",
@@ -1754,7 +1799,7 @@
         "A-1948.2"
       ],
       "related_nodes": [
-        "N-10595"
+        "N-10542"
       ],
       "tags": [],
       "claim_timestamp": "00:47:08",
@@ -1773,7 +1818,7 @@
         "A-1949.1"
       ],
       "related_nodes": [
-        "N-10594"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:12:25",
@@ -1793,7 +1838,7 @@
         "A-1950.1"
       ],
       "related_nodes": [
-        "N-10597"
+        "N-10544"
       ],
       "tags": [],
       "claim_timestamp": "00:13:17",
@@ -1812,7 +1857,7 @@
         "A-1951.1"
       ],
       "related_nodes": [
-        "N-10596"
+        "N-10543"
       ],
       "tags": [],
       "claim_timestamp": "00:21:42",
@@ -1832,7 +1877,7 @@
         "A-1951.2"
       ],
       "related_nodes": [
-        "N-10596"
+        "N-10543"
       ],
       "tags": [],
       "claim_timestamp": "00:23:21",
@@ -1903,7 +1948,7 @@
         "A-1955.1"
       ],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [],
       "claim_timestamp": "00:42:44",
@@ -1922,7 +1967,7 @@
         "A-1956.1"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10541"
       ],
       "tags": [],
       "claim_timestamp": "00:39:50",
@@ -1941,7 +1986,7 @@
         "A-1957.1"
       ],
       "related_nodes": [
-        "N-10594"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:12:25–00:16:01",
@@ -1961,8 +2006,8 @@
         "A-1948.2"
       ],
       "related_nodes": [
-        "N-10595",
-        "N-10598"
+        "N-10542",
+        "N-10545"
       ],
       "tags": [],
       "claim_timestamp": "00:47:50",
@@ -2001,7 +2046,7 @@
         "A-1955.1"
       ],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [],
       "claim_timestamp": "00:43:32",
@@ -2038,8 +2083,8 @@
       "claim": "The host says Cabot Phillips is Erika Kirk's ex-boyfriend (\"one of the many\") and a current Daily Wire employee, who was featured on her podcast when Mitch described a man he believed he saw with Erika at Fort Huachuca in September.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10372"
+        "N-10821",
+        "N-10346"
       ],
       "tags": [
         "relevance:core"
@@ -2062,7 +2107,7 @@
       "claim": "The host says she texted Cabot Phillips before naming him on the podcast, asking for a yes or no on whether he was at Fort Huachuca, and that he chose not to answer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10372"
+        "N-10346"
       ],
       "tags": [
         "relevance:core"
@@ -2124,8 +2169,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10431",
-        "N-10664"
+        "N-10401",
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -2151,7 +2196,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10936"
+        "N-10857"
       ],
       "tags": [
         "relevance:core"
@@ -2175,7 +2220,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10936"
+        "N-10857"
       ],
       "tags": [
         "relevance:core"
@@ -2197,7 +2242,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
-        "N-10431"
+        "N-10401"
       ],
       "tags": [
         "relevance:core"
@@ -2221,8 +2266,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10594",
-        "N-10584"
+        "N-10406"
       ],
       "tags": [
         "relevance:core"
@@ -2249,7 +2293,7 @@
         "A-1950.1"
       ],
       "related_nodes": [
-        "N-10597"
+        "N-10544"
       ],
       "tags": [
         "relevance:core"
@@ -2274,7 +2318,7 @@
       "claim": "The host says she has been pitched on creating an AI Candace or hologram Candace so she would not have to attend so many places, and says it sounds more right to her that the Charlie GPT pitches took place before Charlie died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10597"
+        "N-10544"
       ],
       "tags": [
         "relevance:context"
@@ -2295,8 +2339,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10597",
-        "N-10664"
+        "N-10544",
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -2322,8 +2366,7 @@
         "A-1957.1"
       ],
       "related_nodes": [
-        "N-10594",
-        "N-10584"
+        "N-10406"
       ],
       "tags": [
         "relevance:core"
@@ -2351,7 +2394,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10936"
+        "N-10857"
       ],
       "tags": [
         "relevance:core"
@@ -2372,8 +2415,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10664",
-        "N-10597"
+        "N-10606",
+        "N-10544"
       ],
       "tags": [
         "relevance:core"
@@ -2398,8 +2441,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10664",
-        "N-10597"
+        "N-10606",
+        "N-10544"
       ],
       "tags": [
         "relevance:core"
@@ -2486,7 +2529,7 @@
       "claim": "The host says that after she was fired from Daily Wire in early 2024, Charlie took her side in a big public way, and Ben Shapiro then worked behind the scenes to get a network of Jewish donors and writers to pressure Charlie to distance from her over anti-Semitism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2534,7 +2577,7 @@
       "claim": "The host says that after Charlie's death Ben Shapiro had Caleb Robinson negotiate for Ben to appear on Charlie's show, that only Matt Walsh was originally to appear, that Caleb proposed a two-for-one, and that Andrew Kolvet agreed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:core"
@@ -2559,7 +2602,7 @@
       "claim": "The host says Ben Shapiro went on his show and demanded that Erika sue her for releasing a two-minute trailer, which she says contains only Erika's own words.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:core"
@@ -2581,7 +2624,7 @@
       "claim": "The host says Ben Shapiro has been suing her for two years in arbitration court, so that the filings are not publicly readable.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2604,8 +2647,8 @@
         "A-2956.1"
       ],
       "related_nodes": [
-        "N-10954",
-        "N-10596"
+        "N-10875",
+        "N-10543"
       ],
       "tags": [
         "relevance:core"
@@ -2633,9 +2676,9 @@
         "A-1951.2"
       ],
       "related_nodes": [
-        "N-10954",
-        "N-10900",
-        "N-10596"
+        "N-10875",
+        "N-10821",
+        "N-10543"
       ],
       "tags": [
         "relevance:core"
@@ -2660,8 +2703,8 @@
         "A-1951.2"
       ],
       "related_nodes": [
-        "N-10954",
-        "N-10596"
+        "N-10875",
+        "N-10543"
       ],
       "tags": [
         "relevance:core"
@@ -2686,8 +2729,8 @@
       "claim": "The host says that, in her understanding of gang stalking, the Daily Wire has pursued her since the day it fired her, trying to stop speeches, having articles written and having people contact her advertisers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10416"
+        "N-10821",
+        "N-10389"
       ],
       "tags": [
         "relevance:context"
@@ -2730,8 +2773,8 @@
         "A-2956.1"
       ],
       "related_nodes": [
-        "N-10954",
-        "N-10596"
+        "N-10875",
+        "N-10543"
       ],
       "tags": [
         "relevance:core"
@@ -2753,8 +2796,9 @@
       "claim": "The host says one of the earliest stories on the show, on September 29, was from a source with direct knowledge of the arrest who insisted police knew Tyler Robinson was their man before 7:00 p.m. on September 11.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10593",
-        "N-10024"
+        "N-10541",
+        "N-10024",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -2778,7 +2822,7 @@
       "claim": "The host says her source told her that Governor Cox and police were lying about the clothing Robinson was wearing when he was brought in, saying he wore an outfit he was not wearing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10593"
+        "N-10541"
       ],
       "tags": [
         "relevance:core"
@@ -2800,8 +2844,8 @@
       "claim": "The host says her source added a detail that has not come out since: that Tyler Robinson had been buying a gun, another gun, in Warner Valley when police planned to pick him up there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11002",
-        "N-10593"
+        "N-10922",
+        "N-10541"
       ],
       "tags": [
         "relevance:core"
@@ -2822,8 +2866,8 @@
       "claim": "The host says her source told her that police initially planned to pick Robinson up in Warner Valley but suddenly learned he was coming in cooperatively, and notes some speculate the plan had been for him to die in a shootout.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11002",
-        "N-10593"
+        "N-10922",
+        "N-10541"
       ],
       "tags": [
         "relevance:core"
@@ -2917,7 +2961,7 @@
         "A-2957.1"
       ],
       "related_nodes": [
-        "N-10593",
+        "N-10541",
         "N-10024"
       ],
       "tags": [
@@ -2944,7 +2988,7 @@
         "A-1948.1"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10541"
       ],
       "tags": [
         "relevance:core"
@@ -2969,7 +3013,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10029",
-        "N-10593"
+        "N-10541"
       ],
       "tags": [
         "relevance:core"
@@ -3016,7 +3060,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10029",
-        "N-10593",
+        "N-10541",
         "N-10031"
       ],
       "tags": [
@@ -3041,7 +3085,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10031",
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:core"
@@ -3066,8 +3110,8 @@
       "claim": "The host says Freemasonry exists globally and that she knows Freemasonic gangs carry out hits, citing assassin squads tied to Freemasonry in France shown weeks earlier, and says Blake Neff was upset when she pointed to 33 symbolism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129",
-        "N-10568",
+        "N-11047",
+        "N-10519",
         "N-10031"
       ],
       "tags": [
@@ -3092,8 +3136,8 @@
       ],
       "related_nodes": [
         "N-10029",
-        "N-10271",
-        "N-10593"
+        "N-10255",
+        "N-10541"
       ],
       "tags": [
         "relevance:core"
@@ -3120,7 +3164,7 @@
       ],
       "related_nodes": [
         "N-10013",
-        "N-10598"
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -3195,8 +3239,8 @@
         "A-1948.2"
       ],
       "related_nodes": [
-        "N-10595",
-        "N-10679"
+        "N-10542",
+        "N-10617"
       ],
       "tags": [
         "relevance:core"
@@ -3221,8 +3265,8 @@
       "claim": "The host says that in her view Lance Twiggs is very obviously a federal informant working for the feds and would be the perfect person to set up Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598",
-        "N-10703"
+        "N-10545",
+        "N-10639"
       ],
       "tags": [
         "relevance:core"
@@ -3244,7 +3288,7 @@
       "claim": "The host says Lance's family told her early on that it was insane that Lance was not taken into custody and was there only a couple of hours before being released back at home.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -3268,7 +3312,7 @@
       "claim": "The host says Lance's family told her he has real issues and a bend toward violence, that they eventually had to kick him out of the house as he was raised, that they own the house Tyler Robinson and Lance live in, and that they say the relationship between Lance and the feds is unnatural.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -3293,8 +3337,8 @@
       "claim": "The host says the state's main claim to evidence is Lance Twiggs, that nothing is known about him, that he seems to have completely disappeared, and that to her this reads like a federal asset.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598",
-        "N-10679"
+        "N-10545",
+        "N-10617"
       ],
       "tags": [
         "relevance:core"
@@ -3318,7 +3362,7 @@
         "A-2959.1"
       ],
       "related_nodes": [
-        "N-10595"
+        "N-10542"
       ],
       "tags": [
         "relevance:core"
@@ -3342,7 +3386,7 @@
         "A-2959.1"
       ],
       "related_nodes": [
-        "N-10595"
+        "N-10542"
       ],
       "tags": [
         "relevance:core"
@@ -3363,7 +3407,7 @@
       "claim": "The host says Laura Loomer has been forcibly placed on 5150 holds and is nonetheless described by the host as one of Trump's top advisers, and that Paula White tells him he is akin to Jesus Christ.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [
         "relevance:tangential"
@@ -3549,8 +3593,8 @@
       "claim": "Responding to a viewer comment asking who asked Charlie who would replace him, the host says she now knows who was at that event, is working on it, and has background investigations going on.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10431",
-        "N-10664"
+        "N-10401",
+        "N-10606"
       ],
       "tags": [
         "relevance:core"

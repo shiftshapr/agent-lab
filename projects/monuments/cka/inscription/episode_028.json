@@ -198,7 +198,7 @@
             "C-2515"
           ],
           "related_nodes": [
-            "N-10237"
+            "N-10224"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -426,11 +426,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10236",
-      "ref": "N-10236",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10223",
+      "ref": "N-10223",
       "name": "Megyn Kelly Tour Attendee Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question whether attendees asking questions and applauding at Megyn Kelly tour stops are organic or coordinated. Owens claims they are coordinated by pro-Israel lobby groups (specifically YAF-affiliated individuals).",
       "related_artifacts": [
         "A-1356.1",
@@ -444,14 +444,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10237",
-      "ref": "N-10237",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10224",
+      "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dillon of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.",
       "related_artifacts": [
         "A-1356.1",
@@ -465,14 +466,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10238",
-      "ref": "N-10238",
+      "@type": "Topic",
+      "@id": "N-10225",
+      "ref": "N-10225",
       "name": "Daily Wire Intern Covert Recording Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent target: the alleged Daily Wire practice of dispatching interns (e.g., Ariana) to conservative events to covertly record hosts and feed the recordings into media cycles. Owens claims this was coordinated, in part, by Alyssa Cordova.",
       "related_artifacts": [
         "A-1361.1"
@@ -484,7 +486,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -901,11 +904,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose leadership and Erika's role are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -917,14 +920,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10016",
       "ref": "N-10016",
       "name": "Hamptons Meeting Pressure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Dillon's Hamptons claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -934,14 +939,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's pressure claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -952,14 +959,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place node reused for the host's remarks on Israel's response.",
       "related_artifacts": [],
       "related_claims": [
@@ -970,14 +978,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@type": "Topic",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's remarks on Israel's immediate denial.",
       "related_artifacts": [],
       "related_claims": [
@@ -987,14 +997,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place node reused for the Kushner remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1004,14 +1015,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10081",
-      "ref": "N-10081",
+      "@type": "Topic",
+      "@id": "N-10078",
+      "ref": "N-10078",
       "name": "Israel Influence on US Politics",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the campus speech remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1021,14 +1033,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10106",
-      "ref": "N-10106",
+      "@type": "Topic",
+      "@id": "N-10102",
+      "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the moral blackmail claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1038,14 +1051,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Dillon's Hamptons conduct.",
       "related_artifacts": [],
       "related_claims": [
@@ -1055,14 +1070,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@type": "Topic",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Kelly's reaction to pressure.",
       "related_artifacts": [],
       "related_claims": [
@@ -1074,14 +1091,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10424",
-      "ref": "N-10424",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10397",
+      "ref": "N-10397",
       "name": "Nick Fuentes Federal Informant Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's op remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1091,14 +1109,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10451",
-      "ref": "N-10451",
+      "@type": "Topic",
+      "@id": "N-10420",
+      "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the student's USS Liberty remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1108,14 +1127,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11096",
-      "ref": "N-11096",
+      "@type": "Topic",
+      "@id": "N-11014",
+      "ref": "N-11014",
       "name": "TikTok Israel Moderation Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the TikTok remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1125,14 +1145,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11159",
-      "ref": "N-11159",
+      "@type": "Topic",
+      "@id": "N-11075",
+      "ref": "N-11075",
       "name": "Candace Owens CNN Interview and Interview Statements",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the CNN clips.",
       "related_artifacts": [],
       "related_claims": [
@@ -1145,7 +1166,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1166,8 +1188,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "organization",
       "description": "Media company the host left; its CEO, staff agreements and intern operation are discussed.",
@@ -1182,12 +1204,14 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
-      "@id": "N-11231",
-      "ref": "N-11231",
+      "@id": "N-11147",
+      "ref": "N-11147",
       "name": "Young America's Foundation",
       "type": "organization",
       "description": "Referred to by the host as YAF; she alleges its people were sent against her and Kirk and may attend Kelly's events.",
@@ -1200,7 +1224,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -1254,7 +1280,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
@@ -1277,7 +1303,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
@@ -1340,7 +1366,7 @@
         "A-1360.2"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [],
       "claim_timestamp": "00:16:27–00:17:50",
@@ -1361,7 +1387,7 @@
         "A-1361.1"
       ],
       "related_nodes": [
-        "N-10238"
+        "N-10225"
       ],
       "tags": [],
       "claim_timestamp": "00:25:16–00:27:36",
@@ -1526,7 +1552,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -1549,7 +1575,7 @@
       "claim": "The host says the narrative that she attacked Erika was circulated by people making absurd claims, that she recognizes how such 'organic movements' operate behind the scenes, and that Shapiro plays a part in it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:core"
@@ -1571,7 +1597,7 @@
       "claim": "The host says people leaving the Daily Wire have to sign agreements that they will not go work for Tucker Carlson for six months.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -1688,7 +1714,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:core"
@@ -1712,7 +1738,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:core"
@@ -1737,7 +1763,7 @@
       "claim": "The host says that what she actually said about Seth Dillon is that he lied about the Hamptons meeting and was pressuring Charlie Kirk about the topic of Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10345",
+        "N-10323",
         "N-10016"
       ],
       "tags": [
@@ -1786,7 +1812,7 @@
         "A-1359.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -1814,7 +1840,7 @@
         "A-1359.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -1883,7 +1909,7 @@
         "A-1360.2"
       ],
       "related_nodes": [
-        "N-11231"
+        "N-11147"
       ],
       "tags": [
         "relevance:context"
@@ -1955,7 +1981,7 @@
       "claim": "The host says Megyn Kelly was a very good friend to Charlie Kirk, that Kirk deeply respected her, and that toward the end she took a principled position on telling the truth about what he was going through.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -2101,7 +2127,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -2128,7 +2154,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-10236"
+        "N-10223"
       ],
       "tags": [
         "relevance:context"
@@ -2151,7 +2177,7 @@
         "A-1361.1"
       ],
       "related_nodes": [
-        "N-10238"
+        "N-10225"
       ],
       "tags": [
         "relevance:context"
@@ -2177,7 +2203,7 @@
         "A-1361.1"
       ],
       "related_nodes": [
-        "N-10238"
+        "N-10225"
       ],
       "tags": [
         "relevance:context"
@@ -2227,8 +2253,8 @@
         "A-1361.1"
       ],
       "related_nodes": [
-        "N-10238",
-        "N-10900"
+        "N-10225",
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2249,7 +2275,7 @@
       "claim": "The host says that people coming to Megyn Kelly's events to ask her to disavow Tucker Carlson are not organic and are pro-Israel people who are paid to do it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10236"
+        "N-10223"
       ],
       "tags": [
         "relevance:context"
@@ -2270,8 +2296,8 @@
       "claim": "The host says that if Kelly gave her the attendee list she could find the people sent to applaud and intimidate, and predicts they will be from YAF or some other organization.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10236",
-        "N-11231"
+        "N-10223",
+        "N-11147"
       ],
       "tags": [
         "relevance:context"
@@ -2318,7 +2344,7 @@
         "A-1362.1"
       ],
       "related_nodes": [
-        "N-11159"
+        "N-11075"
       ],
       "tags": [
         "relevance:context"
@@ -2344,7 +2370,7 @@
         "A-1362.1"
       ],
       "related_nodes": [
-        "N-11159"
+        "N-11075"
       ],
       "tags": [
         "relevance:context"
@@ -2367,7 +2393,7 @@
         "A-3025.1"
       ],
       "related_nodes": [
-        "N-11159"
+        "N-11075"
       ],
       "tags": [
         "relevance:context"
@@ -2390,7 +2416,7 @@
         "A-3025.1"
       ],
       "related_nodes": [
-        "N-11159"
+        "N-11075"
       ],
       "tags": [
         "relevance:context"
@@ -2454,7 +2480,7 @@
         "A-1363.1"
       ],
       "related_nodes": [
-        "N-10451"
+        "N-10420"
       ],
       "tags": [
         "relevance:tangential"
@@ -2513,7 +2539,7 @@
       "claim": "The host says the kids are now awake: they know about Jared Kushner and his deals with Ivanka and the Middle East, how much money they are set to make, and that Gaza being destroyed is actually beneficial to their bank accounts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [
         "relevance:context"
@@ -2534,7 +2560,7 @@
       "claim": "The host says America's upside is that 'we' get lectured and told we are not even allowed to bring up Israel on college campuses or risk being arrested, with stricter anti-semitism laws.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10081"
+        "N-10078"
       ],
       "tags": [
         "relevance:context"
@@ -2554,7 +2580,7 @@
       "claim": "The host says that the Trumps expected this generation to get behind their speech because Netanyahu bought TikTok; the transcript wording is garbled ('what BB bought TikTok').",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11096"
+        "N-11014"
       ],
       "tags": [
         "relevance:tangential"
@@ -2599,7 +2625,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -2642,7 +2668,7 @@
         "A-3026.2"
       ],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"

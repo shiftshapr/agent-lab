@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-853, N-11243, N-11244
-  - Hole-minted Nodes (reintro-ep064): N-497, N-10689
-  - Tip-minted Nodes (reintro-ep064): N-11000
+  - Tip-minted Nodes (supplement_2026-10d): N-853, N-11159, N-11160
+  - Hole-minted Nodes (reintro-ep064): N-497, N-10627
+  - Tip-minted Nodes (reintro-ep064): N-10920
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5683–C-5799
   - (see registers)
@@ -33,8 +33,8 @@
 **Episode 64 Ledger Summary**
 
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
-  - New Nodes Introduced: N-496, N-10448, N-10449, N-10450
-  - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-195, N-201, N-221, N-231, N-361, N-470, N-493, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191, N-10554, N-11182, N-10561
+  - New Nodes Introduced: N-496, N-10417, N-10418, N-10419
+  - Reused Nodes Appearing: N-10416, N-10415, N-14, N-22, N-36, N-97, N-195, N-201, N-221, N-231, N-361, N-470, N-493, N-10000, N-10027, N-10071, N-10225, N-10319, N-10320, N-10324, N-10389, N-10408, N-10421, N-10456, N-10502, N-10820, N-10821, N-10934, N-11002, N-11010, N-11034, N-11096, N-11107, N-10507, N-11098, N-10513
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-261 (Terryl Farnsworth)
 
 ## 6. Meme Register
@@ -252,7 +252,7 @@ Video Timestamp: 00:17:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5707, C-5729, C-5728, C-5730, N-186, N-10448*
+*Related: C-5707, C-5729, C-5728, C-5730, N-186, N-10417*
 
 **A-1686.3** Closing Segment – "Be Soft With One Another," Airplane 15-Minute Story Attributed to "Usha," "So Sweet, God Bless You All"
 
@@ -262,7 +262,7 @@ Video Timestamp: 00:26:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5707, C-5737, C-5740, N-2, N-10448*
+*Related: C-5707, C-5737, C-5740, N-2, N-10417*
 
 **A-1687** TPUSA Board Announcement Letter Bundle
 
@@ -328,7 +328,7 @@ Video Timestamp: 00:47:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5769, C-5770, N-366, N-10449*
+*Related: C-5769, C-5770, N-366, N-10418*
 
 ---
 
@@ -371,7 +371,7 @@ Video Timestamp: 00:33:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5749, N-11191*
+*Related: C-5749, N-11107*
 
 ---
 
@@ -401,7 +401,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-5750, C-5754, C-5756, C-5761, C-5769, C-5755, C-5760, C-5762, C-5770, N-10449*
+*Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-5750, C-5754, C-5756, C-5761, C-5769, C-5755, C-5760, C-5762, C-5770, N-10418*
 
 **N-186** Stacy Sheridan
 
@@ -436,7 +436,7 @@ Investigative Pressure: Low
 
 *Related: A-1686.1, C-5723*
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Persistent discrepancy between Andrew Kolvet's account (Netanyahu offered to fund TPUSA "to the next level") and Erika Kirk's account (no funding offer was made; Bibi was calling about a May letter) regarding the Hamptons retreat phone call.
 
@@ -447,7 +447,7 @@ Investigative Pressure: High
 
 *Related: N-2*
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Persistent discrepancy regarding whether Dr. Lee Trotter acted independently and violated HIPAA, or whether Erika Kirk was present on a three-way call with the surgeon on the day of Charlie Kirk's funeral mass, and whether the "Superman neck" statement originated from her.
 
@@ -458,7 +458,7 @@ Investigative Pressure: High
 
 *Related: N-2*
 
-**N-10448** TPUSA September 16 Corporate Call Framing Pattern
+**N-10417** TPUSA September 16 Corporate Call Framing Pattern
 
 Investigation target concerning Erika Kirk's "family" / job-safety framing of TPUSA staff in the September 16 Zoom call, juxtaposed by host against subsequent employee terminations she reports learning about from ex-staff.
 
@@ -469,7 +469,7 @@ Investigative Pressure: Medium
 
 *Related: A-1686.2, A-1686.3, C-5734, C-5729, C-5728, C-5730, C-5737, N-2*
 
-**N-10449** Daily Wire Hungary Production Expenditure Investigation
+**N-10418** Daily Wire Hungary Production Expenditure Investigation
 
 Persistent target concerning the financial scale and rationale of Daily Wire's Hungary-based production, including reporting that it involved approximately 100 extras, marsh sequences, transport to Italy, and bulls imported from Spain.
 
@@ -480,7 +480,7 @@ Investigative Pressure: Medium
 
 *Related: A-1689.1, C-5769, C-5770, N-366*
 
-**N-10450** Fort Huachuca PR Response Coordination Question
+**N-10419** Fort Huachuca PR Response Coordination Question
 
 Persistent question regarding coordination between Erika Kirk and Andrew Kolvet on the Fort Huachuca PR response, allegedly routed through Paramount Tactical rather than directly to Candace Owens following their four-hour sit-down.
 
@@ -517,7 +517,7 @@ Location of the retreat where the Netanyahu call occurred.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Airport where the host says Kolvet and Erika met on the tarmac.
 
@@ -525,7 +525,7 @@ Airport where the host says Kolvet and Erika met on the tarmac.
 
 ---
 
-**N-10238** Daily Wire Intern Covert Recording Operation
+**N-10225** Daily Wire Intern Covert Recording Operation
 
 Existing topic reused for new claims.
 
@@ -533,7 +533,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Existing topic reused for new claims.
 
@@ -541,7 +541,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for new claims.
 
@@ -549,7 +549,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims.
 
@@ -557,7 +557,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing topic reused for new claims.
 
@@ -565,7 +565,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10439** TPUSA Termination Cause Investigation
+**N-10408** TPUSA Termination Cause Investigation
 
 Existing topic reused for new claims.
 
@@ -573,7 +573,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10452** Candace Owens Anti-Semite of Year 2024 Nomination
+**N-10421** Candace Owens Anti-Semite of Year 2024 Nomination
 
 Existing topic reused for new claims.
 
@@ -581,7 +581,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10492** TPUSA Post-Charlie Loyalty-Test Termination Pattern
+**N-10456** TPUSA Post-Charlie Loyalty-Test Termination Pattern
 
 Existing topic reused for new claims.
 
@@ -589,7 +589,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10548** Tarmac Hug Account Discrepancy
+**N-10502** Tarmac Hug Account Discrepancy
 
 Existing topic reused for new claims.
 
@@ -597,7 +597,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10554** Andrew Kolvet 9/10 Flight Itinerary
+**N-10507** Andrew Kolvet 9/10 Flight Itinerary
 
 Existing topic reused for new claims.
 
@@ -605,15 +605,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10560** Tarmac Hug Timeline Reconciliation Question
-
-Existing topic reused for new claims.
-
-*Related: C-5704, C-5705, C-5706*
-
----
-
-**N-10561** Stacy Sheridan September 10 Location Verification
+**N-10513** Stacy Sheridan September 10 Location Verification
 
 Existing topic reused for new claims.
 
@@ -621,7 +613,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10689** Daily Wire Financial Status and IPO Effort
+**N-10627** Daily Wire Financial Status and IPO Effort
 
 Existing topic reused for new claims.
 
@@ -629,7 +621,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Gary Melton's YouTube channel that handled the Fort Huachuca response and appeared on Kirk's show.
 
@@ -637,7 +629,7 @@ Gary Melton's YouTube channel that handled the Fort Huachuca response and appear
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Company at the center of the Boreing allegations.
 
@@ -645,7 +637,7 @@ Company at the center of the Boreing allegations.
 
 ---
 
-**N-11000** Spousal CEO Succession Precedent Question
+**N-10920** Spousal CEO Succession Precedent Question
 
 Existing topic reused for new claims.
 
@@ -653,7 +645,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
 Existing topic reused for new claims.
 
@@ -661,7 +653,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-11084** TPUSA Leak Hunt and Employee Firings
+**N-11002** TPUSA Leak Hunt and Employee Firings
 
 Existing topic reused for new claims.
 
@@ -669,7 +661,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
+**N-11010** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
 
 Existing topic reused for new claims.
 
@@ -677,7 +669,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-11116** Candace Owens Daily Wire Firing Reasons
+**N-11034** Candace Owens Daily Wire Firing Reasons
 
 Existing topic reused for new claims.
 
@@ -685,7 +677,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-11180** TPUSA Cease and Desist Letter to Candace Owens
+**N-11096** TPUSA Cease and Desist Letter to Candace Owens
 
 Existing topic reused for new claims.
 
@@ -693,7 +685,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-11182** TPUSA Crisis PR Team
+**N-11098** TPUSA Crisis PR Team
 
 Existing organization reused for new claims.
 
@@ -701,7 +693,7 @@ Existing organization reused for new claims.
 
 ---
 
-**N-11191** Pre-Born
+**N-11107** Pre-Born
 
 Sponsor of the ad read.
 
@@ -829,16 +821,16 @@ First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in 
 
 ---
 
-**N-11243** Erika Kirk Utah Companions and Family Absence Question
+**N-11159** Erika Kirk Utah Companions and Family Absence Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's questions about who accompanied Erika Kirk in Utah on September 10 and afterward, including the claim that no relatives were present and Stacy Sheridan was beside her.
 
 *Related: C-5713, C-5714, C-5715, C-5716, C-5717, C-5718, C-5720, C-5721*
 
 ---
 
-**N-11244** Brett Cooper Departure Dispute with Daily Wire
+**N-11160** Brett Cooper Departure Dispute with Daily Wire
 
 Node Type: Topic
 The host's allegations about Jeremy Boreing's handling of Brett Cooper's departure before her wedding, the maid of honor offer, the smear and the lawsuit against the host.
@@ -858,7 +850,7 @@ Claim: The host says a corporate-wide Zoom call addressed by Erika Kirk to Turni
 Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
 Mentions: N-1, N-2
 
-Related Nodes: N-10448
+Related Nodes: N-10417
 
 Investigative Direction: Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).
 
@@ -871,7 +863,7 @@ Claim: In a clip of the opening of the September 16 Zoom call that the host play
 Anchored Artifacts: A-1686.1
 Mentions: N-2, N-1
 
-Related Nodes: N-10448
+Related Nodes: N-10417
 
 Investigative Direction: Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count.
 
@@ -884,7 +876,7 @@ Claim: In a clip of the September 16 call that the host plays, Erika Kirk repeat
 Anchored Artifacts: A-1686.2
 Mentions: N-2
 
-Related Nodes: N-10448
+Related Nodes: N-10417
 
 Investigative Direction: Compile every instance of "family" usage; obtain termination records of named attendees to verify the host's juxtaposition.
 
@@ -897,7 +889,7 @@ Claim: During the September 16 call, Erika Kirk stated, "I will fight like hell 
 Anchored Artifacts: A-1686.2
 Mentions: N-2
 
-Related Nodes: N-10448
+Related Nodes: N-10417
 
 Investigative Direction: Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment.
 
@@ -910,7 +902,7 @@ Claim: The host says that in a clip of the September 16 call, Erika Kirk interru
 Anchored Artifacts: A-1686.2
 Mentions: N-2, N-1
 
-Related Nodes: N-10448
+Related Nodes: N-10417
 
 Investigative Direction: Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.
 
@@ -923,7 +915,7 @@ Claim: During the September 16 call, Erika Kirk told TPUSA employees to "be soft
 Anchored Artifacts: A-1686.3
 Mentions: N-2
 
-Related Nodes: N-10448
+Related Nodes: N-10417
 
 Investigative Direction: Verify exact phrasing on unedited recording; trace adoption timeline of the "everybody grieves differently" framing across TPUSA communications.
 
@@ -936,7 +928,7 @@ Claim: In a clip of the September 16 call that the host plays, Erika Kirk shares
 Anchored Artifacts: A-1686.3
 Mentions: N-2
 
-Related Nodes: N-10448
+Related Nodes: N-10417
 
 Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
 
@@ -1021,7 +1013,7 @@ Claim: In a Bulwark podcast segment the host plays, a speaker describes Daily Wi
 Anchored Artifacts: A-1689.1
 Mentions: N-366
 
-Related Nodes: N-10449
+Related Nodes: N-10418
 
 Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
 
@@ -1082,7 +1074,7 @@ Claim: Candace Owens concurs with the Bulwark speaker's characterization of Dail
 Anchored Artifacts: A-1689.1
 Mentions: N-366, N-3
 
-Related Nodes: N-10449
+Related Nodes: N-10418
 
 Investigative Direction: Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.
 
@@ -1098,7 +1090,7 @@ Transcript Snippet: who actually uttered that expression first over at Turning P
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10448
+Related Nodes: N-10000, N-10417
 Supports: C-5737
 Tags: relevance:core
 Investigative Direction: Obtain the full recording of the September 16 call and search the transcript for the phrase 'grieves differently'; compare with the first public use by TPUSA-aligned accounts.
@@ -1147,7 +1139,7 @@ Transcript Snippet: after now speaking with employees who were let go in this re
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11084, N-10492
+Related Nodes: N-11002, N-10456
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Obtain the names of the separated employees (from the host or former staff) and TPUSA separation records to test whether any leaked to the host.
@@ -1164,7 +1156,7 @@ Transcript Snippet: I do believe firmly from the beginning that Erika was intima
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-11182
+Related Nodes: N-11098
 Tags: relevance:core
 Investigative Direction: Identify the PR firm or agency engaged by TPUSA and any messages or contracts showing Erika Kirk approved statements about the host.
 
@@ -1180,7 +1172,7 @@ Transcript Snippet: She lied to my face actually regarding the Superman neck. Sh
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14, N-195
-Related Nodes: N-10447, N-10341
+Related Nodes: N-10416, N-10319
 Supports: C-4542
 Tags: relevance:core
 Investigative Direction: Compare the host's notes or recording of the private meeting with Erika Kirk against Kolvet's surgeon post and any statement from Dr. Trotter.
@@ -1197,7 +1189,7 @@ Transcript Snippet: violated HIPAA, that they hopped on the phone and did this w
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-195, N-3
-Related Nodes: N-10447
+Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Obtain the recording or notes of the private meeting and any hospital HIPAA complaint or response regarding Dr. Trotter.
 
@@ -1213,7 +1205,7 @@ Transcript Snippet: It was actually a three-way call and the statement pertainin
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-195
-Related Nodes: N-10447, N-10341
+Related Nodes: N-10416, N-10319
 Supports: C-4425
 Tags: relevance:core
 Investigative Direction: Obtain call records for the three-way call and the surgeon's account, and compare with the wording of Kolvet's post.
@@ -1230,7 +1222,7 @@ Transcript Snippet: Andrew Kolbint in that regard was doing Erika's bidding. He 
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-5690
 Tags: relevance:core
 Investigative Direction: Look for messages between Kolvet and Erika Kirk around the surgeon call that show who authorized the post.
@@ -1247,7 +1239,7 @@ Transcript Snippet: She lied to the doctor, a surgeon, and she knew that she was
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-195
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Interview the surgeon or his intermediary and obtain phone records for the day of the call.
@@ -1264,7 +1256,7 @@ Transcript Snippet: We've also now confirmed that she was at the Hamptons retrea
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-36
-Related Nodes: N-10027, N-10446
+Related Nodes: N-10027, N-10415
 Tags: relevance:core
 Investigative Direction: Obtain the attendee list and travel records for the August 2025 Hamptons retreat and the call log for the Netanyahu call.
 
@@ -1280,7 +1272,7 @@ Transcript Snippet: I have since confirmed what Andrew Kolvet said with two peop
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-36
-Related Nodes: N-10342, N-10446
+Related Nodes: N-10320, N-10415
 Supports: C-4114
 Tags: relevance:core
 Investigative Direction: Obtain the two confirming sources' accounts (anonymized if necessary) and Kolvet's original statement.
@@ -1297,7 +1289,7 @@ Transcript Snippet: She says that there was not an offer that was made and that 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-36, N-1
-Related Nodes: N-10446
+Related Nodes: N-10415
 Contradicts: C-4114
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's account with Kolvet's and with the May 2025 letter released by Netanyahu's office.
@@ -1314,7 +1306,7 @@ Transcript Snippet: Andrew uh confirmed to me that Charlie described that summit
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
-Related Nodes: N-10027, N-10446
+Related Nodes: N-10027, N-10415
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's original account and any contemporaneous messages in which Charlie Kirk characterized the summit.
@@ -1331,7 +1323,7 @@ Transcript Snippet: We have also confirmed that Erika and Andrew are working tog
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10450
+Related Nodes: N-10419
 Tags: relevance:core
 Investigative Direction: Identify who drafted and approved the Fort Huachuca response and obtain the messages coordinating it.
 
@@ -1347,7 +1339,7 @@ Transcript Snippet: Rather than going directly to me after we sat down, that to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10899, N-10450
+Related Nodes: N-10820, N-10419
 Tags: relevance:core
 Investigative Direction: Obtain communications between TPUSA and Paramount Tactical and the date of the host's meeting with Erika Kirk.
 
@@ -1363,7 +1355,7 @@ Transcript Snippet: that was the same YouTuber despite, you know, also going int
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-10899
+Related Nodes: N-10820
 Tags: relevance:context
 Investigative Direction: Confirm which Mitch is meant (Mitch Snow is the likely reference) and review Paramount Tactical's videos about him.
 
@@ -1379,7 +1371,7 @@ Transcript Snippet: they welcomed Paramount Tactical onto Charlie Kirk's podcast
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10899, N-10000
+Related Nodes: N-10820, N-10000
 Tags: relevance:core
 Investigative Direction: Find the Charlie Kirk Show episode with Paramount Tactical and its air date relative to the host's meeting.
 
@@ -1395,7 +1387,7 @@ Transcript Snippet: him being caught live, Andrew Kolvet at live messaging somet
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10450
+Related Nodes: N-10419
 Tags: relevance:core
 Investigative Direction: Identify the livestream in which Kolvet was seen messaging and the content and timing of the message.
 
@@ -1411,7 +1403,7 @@ Transcript Snippet: when he stepped off of the plane in Provo on September 10th,
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10548, N-10074, N-10554
+Related Nodes: N-10502, N-10071, N-10507
 Tags: relevance:core
 Investigative Direction: Obtain airport video, flight records and eyewitness accounts of the September 10 tarmac meeting at Provo.
 
@@ -1427,7 +1419,7 @@ Transcript Snippet: the impression that I got was that Andrew was on that plane 
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10554, N-10548
+Related Nodes: N-10507, N-10502
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest for Kolvet's September 10 flight to Provo.
 
@@ -1443,7 +1435,7 @@ Transcript Snippet: Erika during our face-to-face meeting had no recollection of
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Related Nodes: N-10548, N-10560
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Compare with the manifest and eyewitness accounts; ask Erika Kirk's office to confirm or deny.
 
@@ -1459,7 +1451,7 @@ Transcript Snippet: if Andrew is to be believed, then she waited for an hour on 
 
 Anchored Artifacts: 
 Mentions: N-14, N-2
-Related Nodes: N-10560, N-10548
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Reconcile Erika Kirk's September 10 movements with flight arrival times at Provo.
 
@@ -1475,7 +1467,7 @@ Transcript Snippet: Andrew went through the front main entry a main entrance whe
 
 Anchored Artifacts: 
 Mentions: N-14, N-2
-Related Nodes: N-10560
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Obtain hospital entrance accounts from staff present on September 10, 2025.
 
@@ -1491,7 +1483,7 @@ Transcript Snippet: Andrew Kolvet told me before the public knew that the board 
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-1, N-3
-Related Nodes: N-11092, N-11000
+Related Nodes: N-11010, N-10920
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA board minutes or written consent recording the date of the CEO vote.
 
@@ -1507,7 +1499,7 @@ Transcript Snippet: She had to give her consent for that to go up for a board vo
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-11092
+Related Nodes: N-11010
 Supports: C-5710
 Tags: relevance:core
 Investigative Direction: Obtain the board resolution and any record of when Erika Kirk agreed to be nominated.
@@ -1524,7 +1516,7 @@ Transcript Snippet: Turning Point USA should have waited and instead appointed a
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-11092, N-10000
+Related Nodes: N-11010, N-10000
 Tags: relevance:context
 Investigative Direction: Locate the host's earlier public statement calling for an interim CEO.
 
@@ -1540,7 +1532,7 @@ Transcript Snippet: it is stunning to me that Erika chose not to bring a single 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-11243
+Related Nodes: N-11159
 Tags: relevance:core
 Investigative Direction: Obtain accounts from Erika Kirk's relatives and hospital staff on who accompanied her on September 10.
 
@@ -1556,7 +1548,7 @@ Transcript Snippet: Charlie Kirk's mother, father, sister, they all raced to Uta
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11243
+Related Nodes: N-11159
 Tags: relevance:context
 Investigative Direction: Confirm the Kirk family's travel and arrival times with the family or the hospital.
 
@@ -1572,7 +1564,7 @@ Transcript Snippet: Dad also lives in Scottsdale. Sister, yes, she does have one
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-11243
+Related Nodes: N-11159
 Tags: relevance:context
 Investigative Direction: Verify the residence of Erika Kirk's relatives through public records and her own statements.
 
@@ -1588,7 +1580,7 @@ Transcript Snippet: Instead, she was joined by Stacy Sheridan, who was playing t
 
 Anchored Artifacts: 
 Mentions: N-2, N-186, N-3
-Related Nodes: N-11243, N-10561
+Related Nodes: N-11159, N-10513
 Supports: C-5713
 Tags: relevance:core
 Investigative Direction: Confirm Sheridan's travel to Utah via flight records or staff accounts.
@@ -1605,7 +1597,7 @@ Transcript Snippet: it was Stacy Sheridan who concerns herself with Turning Poin
 
 Anchored Artifacts: 
 Mentions: N-186, N-1, N-3
-Related Nodes: N-11243
+Related Nodes: N-11159
 Tags: relevance:core
 Investigative Direction: Locate any video of Charlie Kirk in the casket and identify who recorded and published it.
 
@@ -1621,7 +1613,7 @@ Transcript Snippet: She's holding her hand as Charlie's casket was coming off of
 
 Anchored Artifacts: 
 Mentions: N-186, N-2, N-1
-Related Nodes: N-11243
+Related Nodes: N-11159
 Tags: relevance:core
 Investigative Direction: Review the arrival footage and photos at the airport to identify who stood beside Erika Kirk.
 
@@ -1653,7 +1645,7 @@ Transcript Snippet: I've checked with people at the hospital. No no family was t
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-11243
+Related Nodes: N-11159
 Supports: C-5713
 Tags: relevance:core
 Investigative Direction: Interview hospital personnel or review visitor logs for who accompanied Erika Kirk.
@@ -1670,7 +1662,7 @@ Transcript Snippet: Crucial uh to coming and being beside beside Erika at all mo
 
 Anchored Artifacts: A-3041.1
 Mentions: N-186, N-2, N-3
-Related Nodes: N-11243
+Related Nodes: N-11159
 Tags: relevance:core
 Investigative Direction: Identify the source and date of the car clip and who filmed it.
 
@@ -1686,7 +1678,7 @@ Transcript Snippet: the employees that are still there and upset with the manner
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10492
+Related Nodes: N-10000, N-10456
 Tags: relevance:core
 Investigative Direction: Obtain statements from current and former employees about workplace conditions after September 10.
 
@@ -1702,7 +1694,7 @@ Transcript Snippet: to drive them to work like horses only to then fire them aft
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10492
+Related Nodes: N-10000, N-10456
 Supports: C-5602
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's post-assassination fundraising totals with separation dates and numbers.
@@ -1719,7 +1711,7 @@ Transcript Snippet: that is Terryl Farnsworth, the guy who took down the cameras
 
 Anchored Artifacts: A-1686.1
 Mentions: N-261, N-3
-Related Nodes: N-10346
+Related Nodes: N-10324
 Supports: C-5723
 Tags: relevance:core
 Investigative Direction: Confirm Farnsworth's role in removing the cameras from earlier reporting and the camera records.
@@ -1736,7 +1728,7 @@ Transcript Snippet: Turning Point USA will continue like my husband always wante
 
 Anchored Artifacts: A-1686.2
 Mentions: N-2, N-1
-Related Nodes: N-10448
+Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Verify wording against the unedited recording of the call.
 
@@ -1752,7 +1744,7 @@ Transcript Snippet: But he's here. He's more alive than ever and he is um he's g
 
 Anchored Artifacts: A-1686.2
 Mentions: N-2, N-1
-Related Nodes: N-10448
+Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Verify wording against the unedited recording of the call.
 
@@ -1768,7 +1760,7 @@ Transcript Snippet: everything before September 10th, I mean you know you were w
 
 Anchored Artifacts: A-1686.2
 Mentions: N-2
-Related Nodes: N-10448
+Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Verify wording against the unedited recording and identify the person Erika names as 'Justin'.
 
@@ -1784,7 +1776,7 @@ Transcript Snippet: I feel so blessed. And honored.
 
 Anchored Artifacts: A-1686.2
 Mentions: N-2
-Related Nodes: N-10448
+Related Nodes: N-10417
 Supports: C-5729
 Tags: relevance:context
 Investigative Direction: Verify wording against the unedited recording.
@@ -1801,7 +1793,7 @@ Transcript Snippet: She never leaked anything. She never spoke to me. Nothing. G
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11084, N-10492
+Related Nodes: N-11002, N-10456
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Identify the employee and obtain her account and any termination paperwork.
@@ -1818,7 +1810,7 @@ Transcript Snippet: hearing her sound like she's about to cry when she discusses
 
 Anchored Artifacts: A-1686.2
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10448
+Related Nodes: N-10417
 Supports: C-5728
 Tags: relevance:core
 Investigative Direction: Compare the audio with later separation records to test the sincerity of the job-security promise.
@@ -1835,7 +1827,7 @@ Transcript Snippet: she's going to fire a boatload of them without cause or even
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10492, N-11084
+Related Nodes: N-10456, N-11002
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Obtain a count and list of separations with dates and stated reasons.
@@ -1852,7 +1844,7 @@ Transcript Snippet: if there's anything or anyone who tries to divide your team 
 
 Anchored Artifacts: A-1686.3
 Mentions: N-2
-Related Nodes: N-10448
+Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Verify wording against the unedited recording.
 
@@ -1868,7 +1860,7 @@ Transcript Snippet: The fact that a lot of you guys are here in office, that's w
 
 Anchored Artifacts: A-1686.3
 Mentions: N-2, N-1
-Related Nodes: N-10448
+Related Nodes: N-10417
 Tags: relevance:context
 Investigative Direction: Verify wording against the unedited recording.
 
@@ -1884,7 +1876,7 @@ Transcript Snippet: they were then asked to come in on the weekends to pack t-sh
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-11014
+Related Nodes: N-10000, N-10934
 Tags: relevance:core
 Investigative Direction: Obtain employee accounts and any internal messages asking for weekend merchandise work.
 
@@ -1900,7 +1892,7 @@ Transcript Snippet: and they said that they felt like they were being emotionall
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10492
+Related Nodes: N-10000, N-10456
 Supports: C-5722
 Tags: relevance:core
 Investigative Direction: Obtain statements from the employees who spoke to the host.
@@ -1917,7 +1909,7 @@ Transcript Snippet: I do believe with all of the new information that I am getti
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-11182
+Related Nodes: N-11098
 Supports: C-5687
 Tags: relevance:core
 Investigative Direction: Obtain the host's sources' documents or messages showing Erika Kirk directing PR statements.
@@ -1934,7 +1926,7 @@ Transcript Snippet: to allow people to think that it was just him acting rogue w
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-5690
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public statements with the surgeon's account and call records.
@@ -1951,7 +1943,7 @@ Transcript Snippet: That was on the day of Charlie's actual funeral mass.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-4425
 Tags: relevance:core
 Investigative Direction: Obtain phone records for the September 20, 2025 date and the timing of Kolvet's post.
@@ -1968,7 +1960,7 @@ Transcript Snippet: So we don't have to imagine when that was. The day after my 
 
 Anchored Artifacts: A-3042.1
 Mentions: N-14, N-3
-Related Nodes: N-10341, N-10447
+Related Nodes: N-10319, N-10416
 Tags: relevance:core
 Investigative Direction: Match the time stamp of Kolvet's X post to the host's episode release time.
 
@@ -1984,7 +1976,7 @@ Transcript Snippet: being let go for no reason other than loyalty tests that are
 
 Anchored Artifacts: 
 Mentions: N-493, N-3
-Related Nodes: N-10492, N-10439
+Related Nodes: N-10456, N-10408
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Identify Marina's exact title and the employees allegedly dismissed after remarks overheard by drivers.
@@ -2001,7 +1993,7 @@ Transcript Snippet: I don't like when they send me cease and desist because I to
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11180, N-10000
+Related Nodes: N-11096, N-10000
 Supports: C-5604
 Tags: relevance:core
 Investigative Direction: Obtain the cease and desist letter and its date and demands.
@@ -2018,7 +2010,7 @@ Transcript Snippet: last year Pre-Born helped rescue over 80,000 babies
 
 Anchored Artifacts: A-3043.1
 Mentions: 
-Related Nodes: N-11191
+Related Nodes: N-11107
 Supports: C-4023
 Tags: relevance:tangential
 Investigative Direction: Check Pre-Born's published annual figures for the claimed number.
@@ -2035,7 +2027,7 @@ Transcript Snippet: I had misgivings about Candace, but I it wasn't a completely
 
 Anchored Artifacts: A-1688.1
 Mentions: N-366, N-3
-Related Nodes: N-11116
+Related Nodes: N-11034
 Tags: relevance:context
 Investigative Direction: Identify the podcast and date and view the full clip.
 
@@ -2118,7 +2110,7 @@ Transcript Snippet: one of the reasons I got fired is I said we should look into
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11116
+Related Nodes: N-11034
 Supports: C-4656
 Tags: relevance:context
 Investigative Direction: Compare with Boreing's own stated reasons for the firing in earlier interviews.
@@ -2152,7 +2144,7 @@ Transcript Snippet: Making talent, people who had shows, wait outside while you 
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Seek accounts from former Daily Wire staff on grooming and office routines.
 
@@ -2168,7 +2160,7 @@ Transcript Snippet: Hundreds of thousands of dollars on a clothing rack so you c
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10900, N-10689
+Related Nodes: N-10821, N-10627
 Tags: relevance:context
 Investigative Direction: Seek Daily Wire expense records or former finance staff accounts.
 
@@ -2184,7 +2176,7 @@ Transcript Snippet: He flew out virtually the entire company to Hungary to bring
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10449, N-10900
+Related Nodes: N-10418, N-10821
 Supports: C-5770
 Tags: relevance:context
 Investigative Direction: Obtain Daily Wire production budget and travel records for the Hungary shoot.
@@ -2201,7 +2193,7 @@ Transcript Snippet: I am told last number I heard was $67 million spent on a hig
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10449, N-10689
+Related Nodes: N-10418, N-10627
 Tags: relevance:context
 Investigative Direction: Seek budget documents or credible reporting on the production cost.
 
@@ -2217,7 +2209,7 @@ Transcript Snippet: he had to borrow, empty his savings account, borrow money pe
 
 Anchored Artifacts: 
 Mentions: N-366, N-97, N-3
-Related Nodes: N-10689
+Related Nodes: N-10627
 Tags: relevance:context
 Investigative Direction: Seek confirmation from Daily Wire insiders or financial filings.
 
@@ -2233,7 +2225,7 @@ Transcript Snippet: Well, that might explain some of this departure agreement wh
 
 Anchored Artifacts: A-1689.1
 Mentions: N-366
-Related Nodes: N-10449
+Related Nodes: N-10418
 Supports: C-5769
 Tags: relevance:context
 Investigative Direction: Identify the Bulwark episode and the project's release status.
@@ -2250,7 +2242,7 @@ Transcript Snippet: realizing this failed, nobody wanted to buy it and nobody wa
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10449
+Related Nodes: N-10418
 Tags: relevance:context
 Investigative Direction: Check distribution announcements or buyer statements about the project.
 
@@ -2266,7 +2258,7 @@ Transcript Snippet: When she came to me 8 and 1/2 months pregnant, hands open, a
 
 Anchored Artifacts: 
 Mentions: N-3, N-366
-Related Nodes: N-11116
+Related Nodes: N-11034
 Tags: relevance:context
 Investigative Direction: Seek contemporaneous messages or accounts of the post-October 7 conversations with Boreing.
 
@@ -2282,7 +2274,7 @@ Transcript Snippet: Ben jumped up on a table and accused her of being a faux sop
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-11116
+Related Nodes: N-11034
 Tags: relevance:context
 Investigative Direction: Seek eyewitness accounts or recordings of the meeting.
 
@@ -2298,7 +2290,7 @@ Transcript Snippet: they suspected that I might have been secretly working with 
 
 Anchored Artifacts: 
 Mentions: N-366, N-201, N-22, N-3
-Related Nodes: N-11116
+Related Nodes: N-11034
 Tags: relevance:context
 Investigative Direction: Seek the host's contemporaneous messages or witnesses to the suspicion.
 
@@ -2314,7 +2306,7 @@ Transcript Snippet: My next big plan is to do what we did to Breitbart. We'll cr
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-11116
+Related Nodes: N-11034
 Tags: relevance:context
 Investigative Direction: Seek Daily Wire internal communications from the weeks before the firing.
 
@@ -2330,7 +2322,7 @@ Transcript Snippet: Over having said Christ is king, we'll do this during Lent b
 
 Anchored Artifacts: 
 Mentions: N-3, N-366
-Related Nodes: N-11116, N-10900
+Related Nodes: N-11034, N-10821
 Supports: C-5776
 Tags: relevance:context
 Investigative Direction: Compare Daily Wire subscription data around March 2024.
@@ -2347,7 +2339,7 @@ Transcript Snippet: Jeremy actually personally reviewed Andrew Klavan's episode 
 
 Anchored Artifacts: 
 Mentions: N-366, N-231, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Identify the Klavan episode and seek editorial approval records.
 
@@ -2363,7 +2355,7 @@ Transcript Snippet: many of whom uh subsequently left and leaked to the press wh
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Identify the press reports based on former Daily Wire staff.
 
@@ -2379,7 +2371,7 @@ Transcript Snippet: having sent an intern on a secret mission to stalk the woman
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10416, N-10238, N-10000
+Related Nodes: N-10389, N-10225, N-10000
 Supports: C-4365
 Tags: relevance:context
 Investigative Direction: Obtain the Daily Wire email and the intern's account and any recording from the event.
@@ -2396,7 +2388,7 @@ Transcript Snippet: to then author a maniacal, almost five-page-long email to th
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10416, N-10238
+Related Nodes: N-10389, N-10225
 Supports: C-5780
 Tags: relevance:context
 Investigative Direction: Obtain the email from former Daily Wire staff.
@@ -2413,7 +2405,7 @@ Transcript Snippet: It's my right. It's my right to know what she's saying.
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10416, N-10238
+Related Nodes: N-10389, N-10225
 Supports: C-5781
 Tags: relevance:context
 Investigative Direction: Obtain the email and verify the quoted wording.
@@ -2430,7 +2422,7 @@ Transcript Snippet: sitting her down and telling her that she should she shouldn
 
 Anchored Artifacts: 
 Mentions: N-366, N-221, N-3
-Related Nodes: N-11244, N-10900
+Related Nodes: N-11160, N-10821
 Tags: relevance:tangential
 Investigative Direction: Seek Brett Cooper's own account of the conversation.
 
@@ -2446,7 +2438,7 @@ Transcript Snippet: offering an obscene amount of money to her maid of honor at 
 
 Anchored Artifacts: 
 Mentions: N-366, N-221, N-3
-Related Nodes: N-11244, N-10900
+Related Nodes: N-11160, N-10821
 Tags: relevance:tangential
 Investigative Direction: Seek the maid of honor's account and any contract or offer documents.
 
@@ -2462,7 +2454,7 @@ Transcript Snippet: to try to smear her, the friendly pop culture young girl, as
 
 Anchored Artifacts: 
 Mentions: N-366, N-221, N-3
-Related Nodes: N-11244, N-10900
+Related Nodes: N-11160, N-10821
 Tags: relevance:tangential
 Investigative Direction: Locate the articles or posts that attacked Cooper over the like and trace their sources.
 
@@ -2478,7 +2470,7 @@ Transcript Snippet: And when you sued me for that, for standing up for Brett Coo
 
 Anchored Artifacts: 
 Mentions: N-366, N-221, N-3
-Related Nodes: N-11244, N-10900
+Related Nodes: N-11160, N-10821
 Tags: relevance:tangential
 Investigative Direction: Search court dockets for the Daily Wire suit against the host.
 
@@ -2494,7 +2486,7 @@ Transcript Snippet: You admitted to me that you had a mental break in Hungary. Y
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10449
+Related Nodes: N-10418
 Tags: relevance:context
 Investigative Direction: Seek corroboration from Daily Wire staff present in Hungary.
 
@@ -2543,7 +2535,7 @@ Transcript Snippet: Turning Point USA watches this show live in the office, and 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11084
+Related Nodes: N-10000, N-11002
 Supports: C-5335
 Tags: relevance:core
 Investigative Direction: Identify the employee and obtain termination records.
@@ -2577,7 +2569,7 @@ Transcript Snippet: the consistent throwing Andrew Kolvet under the bus and then
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Identify the other sources and compare their accounts with Erika Kirk's.
@@ -2594,7 +2586,7 @@ Transcript Snippet: You don't have a a right to ask questions about his murder b
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11180, N-10000
+Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the tour agreement and the cease and desist letter and compare their wording.
 
@@ -2626,7 +2618,7 @@ Transcript Snippet: If you tell anybody what we're doing to you, we'll bankrupt 
 
 Anchored Artifacts: 
 Mentions: N-3, N-366
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Seek contemporaneous messages or witnesses to the threats.
 
@@ -2658,7 +2650,7 @@ Transcript Snippet: I tweeted Christ is king not at anybody. And um they went ah
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11116, N-10452
+Related Nodes: N-11034, N-10421
 Tags: relevance:context
 Investigative Direction: Review the original tweet and the coverage characterizing it.
 
@@ -2674,7 +2666,7 @@ Transcript Snippet: The Daily Wire denied my request while I was there to have h
 
 Anchored Artifacts: 
 Mentions: N-3, N-497
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:tangential
 Investigative Direction: Seek confirmation from Daily Wire staff or messages regarding the request.
 

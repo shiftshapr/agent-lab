@@ -32,7 +32,7 @@
             "C-5087"
           ],
           "related_nodes": [
-            "N-10413",
+            "N-10386",
             "N-454"
           ],
           "tags": [],
@@ -52,7 +52,7 @@
             "C-5088"
           ],
           "related_nodes": [
-            "N-10413",
+            "N-10386",
             "N-454"
           ],
           "tags": [],
@@ -72,7 +72,7 @@
             "C-5087"
           ],
           "related_nodes": [
-            "N-10413"
+            "N-10386"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,7 +99,7 @@
             "C-5108"
           ],
           "related_nodes": [
-            "N-10414"
+            "N-10387"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -126,7 +126,7 @@
             "C-5108"
           ],
           "related_nodes": [
-            "N-10414"
+            "N-10387"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,7 +152,7 @@
             "C-5114"
           ],
           "related_nodes": [
-            "N-10416",
+            "N-10389",
             "N-3"
           ],
           "tags": [],
@@ -221,7 +221,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-10415"
+            "N-10388"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -417,7 +417,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ]
     },
     {
@@ -493,11 +493,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10413",
-      "ref": "N-10413",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10386",
+      "ref": "N-10386",
       "name": "Project Looking Glass Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target: claim that a US military/CIA device capable of viewing future timelines was shut down after 2012 convergence; supported by whistleblower Bill Wood testimony and a referenced CIA document.",
       "related_artifacts": [
         "A-1628.1",
@@ -516,14 +516,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-454"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10414",
-      "ref": "N-10414",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10387",
+      "ref": "N-10387",
       "name": "CERN Satantic Ritual Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: episode's presentation of a \"satanic human sacrifice\" at CERN grounds, CERN's \"prank\" framing, and host's challenge to that framing.",
       "related_artifacts": [
         "A-1629.1",
@@ -537,14 +538,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10415",
-      "ref": "N-10415",
+      "@type": "Topic",
+      "@id": "N-10388",
+      "ref": "N-10388",
       "name": "Charlie Kirk Premonition Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target across the series: Charlie Kirk's alleged foreknowledge (via text messages to Candace) that he would die young and that his death would relate to Turning Point USA.",
       "related_artifacts": [
         "A-1633.1",
@@ -561,14 +563,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@type": "Topic",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: ongoing alleged \"gangstalking\" pattern by Daily Wire against Candace Owens, with the Egyptian Airways parody video (A-1631.1) cited as the latest escalation.",
       "related_artifacts": [
         "A-1631.1"
@@ -583,7 +586,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-3"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -846,11 +850,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization Charlie founded and in which the host says he knew he would die.",
       "related_artifacts": [],
       "related_claims": [
@@ -863,14 +867,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place at issue in the Pompeo clip.",
       "related_artifacts": [],
       "related_claims": [
@@ -882,14 +888,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the Macron lawsuit the host calls a mistake.",
       "related_artifacts": [],
       "related_claims": [
@@ -899,14 +906,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@type": "Topic",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the host's complaints about the Daily Wire.",
       "related_artifacts": [],
       "related_claims": [
@@ -917,14 +925,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10388",
-      "ref": "N-10388",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10361",
+      "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic cited where the host describes Charlie telling them to take the money out of the organization.",
       "related_artifacts": [],
       "related_claims": [
@@ -934,14 +943,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10404",
-      "ref": "N-10404",
+      "@type": "Topic",
+      "@id": "N-10377",
+      "ref": "N-10377",
       "name": "Candace Owens Dream Vision of Andrew Kolvet",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the host's dream that Charlie was betrayed.",
       "related_artifacts": [],
       "related_claims": [
@@ -951,14 +961,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10422",
-      "ref": "N-10422",
+      "@type": "Topic",
+      "@id": "N-10395",
+      "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for gifted-program claims about Charlie and commenters.",
       "related_artifacts": [],
       "related_claims": [
@@ -971,14 +982,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10424",
-      "ref": "N-10424",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10397",
+      "ref": "N-10397",
       "name": "Nick Fuentes Federal Informant Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the claim that Fuentes is a federal informant.",
       "related_artifacts": [],
       "related_claims": [
@@ -990,14 +1002,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10454",
-      "ref": "N-10454",
+      "@type": "Topic",
+      "@id": "N-10423",
+      "ref": "N-10423",
       "name": "Gaza Death Toll and Documentation Claims",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the host's claim that Palestinian deaths would be written out of textbooks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1007,7 +1020,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1030,8 +1044,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11027",
-      "ref": "N-11027",
+      "@id": "N-10946",
+      "ref": "N-10946",
       "name": "Be Inspired (YouTube Channel)",
       "type": "organization",
       "description": "YouTube channel whose clips on Y2K, the Mandela effect and Project Looking Glass the host plays and links in the comments.",
@@ -1049,12 +1063,14 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q17558136"
     },
     {
       "@type": "Organization",
-      "@id": "N-11028",
-      "ref": "N-11028",
+      "@id": "N-10947",
+      "ref": "N-10947",
       "name": "Project Camelot",
       "type": "organization",
       "description": "Interview project that the Be Inspired clip says interviewed Bill Wood and other Looking Glass whistleblowers.",
@@ -1066,12 +1082,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11029",
-      "ref": "N-11029",
+      "@id": "N-10948",
+      "ref": "N-10948",
       "name": "CERN",
       "type": "organization",
       "description": "European Organization for Nuclear Research in Geneva, home of the Large Hadron Collider; source of the ritual footage and of Mark's history of the Higgs search.",
@@ -1090,12 +1108,14 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q31855"
     },
     {
       "@type": "Topic",
-      "@id": "N-11030",
-      "ref": "N-11030",
+      "@id": "N-10949",
+      "ref": "N-10949",
       "name": "Mandela Effect Claims",
       "type": "topic",
       "description": "The host's and the Be Inspired clip's examples of collective false memory presented as evidence of timeline changes (Fruit of the Loom cornucopia, Berenstain Bears, Pikachu's tail).",
@@ -1111,12 +1131,13 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11031",
-      "ref": "N-11031",
+      "@id": "N-10950",
+      "ref": "N-10950",
       "name": "Host Platform Suppression and Travel Ban Claims",
       "type": "topic",
       "description": "The host's claims that she was demonetized and throttled on YouTube, banned from countries and had event hosts threatened.",
@@ -1130,12 +1151,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11032",
-      "ref": "N-11032",
+      "@id": "N-10951",
+      "ref": "N-10951",
       "name": "Pompeo Assange Murder Option Claim",
       "type": "topic",
       "description": "The claim, attributed by the host to Tucker Carlson, that Mike Pompeo at the CIA tried to have Julian Assange murdered, and the on-air fact check.",
@@ -1148,12 +1170,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11033",
-      "ref": "N-11033",
+      "@id": "N-10952",
+      "ref": "N-10952",
       "name": "Project Monarch",
       "type": "topic",
       "description": "Alleged program that the host calls the precursor to what the Nazis did in the United States, about traumatizing children.",
@@ -1165,12 +1188,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11034",
-      "ref": "N-11034",
+      "@id": "N-10953",
+      "ref": "N-10953",
       "name": "Charlie Kirk Early Security Arrangement",
       "type": "topic",
       "description": "The host's account that Charlie Kirk had required, orchestrated security (Shaffer security, arranged by Bill Montgomery) from about 2017.",
@@ -1184,7 +1208,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -1198,7 +1223,7 @@
         "A-1628.2"
       ],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [],
       "claim_timestamp": "00:13:05",
@@ -1217,7 +1242,7 @@
         "A-1628.3"
       ],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [],
       "claim_timestamp": "00:18:12",
@@ -1233,7 +1258,7 @@
         "A-1628.3"
       ],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [],
       "claim_timestamp": "00:17:07",
@@ -1250,7 +1275,7 @@
         "A-1630.1"
       ],
       "related_nodes": [
-        "N-10414"
+        "N-10387"
       ],
       "tags": [
         "relevance:tangential"
@@ -1268,7 +1293,7 @@
         "A-1629.1"
       ],
       "related_nodes": [
-        "N-10414"
+        "N-10387"
       ],
       "tags": [
         "relevance:tangential"
@@ -1286,7 +1311,7 @@
         "A-1631.1"
       ],
       "related_nodes": [
-        "N-10416"
+        "N-10389"
       ],
       "tags": [],
       "claim_timestamp": "00:40:52",
@@ -1322,7 +1347,7 @@
         "A-1633.1"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [],
       "claim_timestamp": "00:02:53",
@@ -1342,7 +1367,7 @@
         "A-1633.1"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [],
       "claim_timestamp": "00:20:15",
@@ -1393,7 +1418,7 @@
       "claim": "The host says she will never get over the fact that Charlie Kirk knew he was going to die young, and that she is starting to believe the agents who surrounded him throughout his life knew too.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00",
@@ -1414,7 +1439,7 @@
       "claim": "The host asserts that the Fruit of the Loom logo had a cornucopia and that people who disagree are 'in the wrong timeline'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11030"
+        "N-10949"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00",
@@ -1452,7 +1477,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11034"
+        "N-10953"
       ],
       "tags": [],
       "claim_timestamp": "00:02:53",
@@ -1472,7 +1497,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11034"
+        "N-10953"
       ],
       "tags": [],
       "claim_timestamp": "00:02:53",
@@ -1493,8 +1518,8 @@
         "A-1633.2"
       ],
       "related_nodes": [
-        "N-11034",
-        "N-10415"
+        "N-10953",
+        "N-10388"
       ],
       "tags": [],
       "claim_timestamp": "00:02:53",
@@ -1513,7 +1538,7 @@
       "claim": "The host says Charlie Kirk told her that when he was very young they wanted to drug him but his mother said no, and that he was instead pulled out of regular school and sent to a special school for the gifted.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [],
       "claim_timestamp": "00:04:18",
@@ -1531,7 +1556,7 @@
       "claim": "The host says that Charlie Kirk went on runs after sundown and street lights would go out as he ran, which she describes as inexplicable.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [],
       "claim_timestamp": "00:05:08",
@@ -1568,8 +1593,8 @@
       "claim": "The host says Project Looking Glass was a real government CIA program, that 'this actually happened', and that it was revealed by whistleblowers from the military and scientists who said the government could peer into the future.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10413",
-        "N-11027"
+        "N-10386",
+        "N-10946"
       ],
       "tags": [],
       "claim_timestamp": "00:06:54",
@@ -1592,7 +1617,7 @@
         "A-1628.1"
       ],
       "related_nodes": [
-        "N-11027"
+        "N-10946"
       ],
       "tags": [],
       "claim_timestamp": "00:08:22",
@@ -1609,8 +1634,8 @@
         "A-1628.1"
       ],
       "related_nodes": [
-        "N-11027",
-        "N-11030"
+        "N-10946",
+        "N-10949"
       ],
       "tags": [
         "relevance:tangential"
@@ -1629,8 +1654,8 @@
         "A-1628.1"
       ],
       "related_nodes": [
-        "N-11027",
-        "N-11030"
+        "N-10946",
+        "N-10949"
       ],
       "tags": [
         "relevance:tangential"
@@ -1649,8 +1674,8 @@
         "A-1628.1"
       ],
       "related_nodes": [
-        "N-11027",
-        "N-11030"
+        "N-10946",
+        "N-10949"
       ],
       "tags": [],
       "claim_timestamp": "00:09:57",
@@ -1665,7 +1690,7 @@
       "claim": "The host says Pikachu obviously had black at the end of his tail, presenting this as a Mandela effect example and saying someone \"hit delete\" on it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11030"
+        "N-10949"
       ],
       "tags": [
         "relevance:tangential"
@@ -1685,7 +1710,7 @@
       "claim": "The host says the deep state stole the Looking Glass device from the ancient Sumerian civilization in modern-day Iraq, incorporated it into a computer, and is apparently able to predict future outcomes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [
         "relevance:tangential"
@@ -1707,8 +1732,8 @@
         "A-1628.2"
       ],
       "related_nodes": [
-        "N-10413",
-        "N-11028"
+        "N-10386",
+        "N-10947"
       ],
       "tags": [
         "relevance:tangential"
@@ -1731,7 +1756,7 @@
       "claim": "The host says the 2012 limit on seeing the future was backed up by other things, including the Mayan civilization's calendar ending.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [],
       "claim_timestamp": "00:15:23",
@@ -1749,7 +1774,7 @@
       "claim": "The host says it was revealed about Project Looking Glass that the conscious thoughts of the people in the room while the device ran impacted the device, and that thoughts influenced future outcomes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [],
       "claim_timestamp": "00:16:14",
@@ -1772,8 +1797,8 @@
         "A-1628.3"
       ],
       "related_nodes": [
-        "N-10413",
-        "N-11027"
+        "N-10386",
+        "N-10946"
       ],
       "tags": [],
       "claim_timestamp": "00:18:12",
@@ -1790,8 +1815,8 @@
         "A-1628.3"
       ],
       "related_nodes": [
-        "N-10413",
-        "N-11027"
+        "N-10386",
+        "N-10946"
       ],
       "tags": [],
       "claim_timestamp": "00:18:12",
@@ -1811,7 +1836,7 @@
         "A-1628.3"
       ],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [],
       "claim_timestamp": "00:19:49",
@@ -1832,7 +1857,7 @@
       "claim": "The host says she believes Charlie Kirk was managed and that she herself was handled without recognizing that she had agents.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [],
       "claim_timestamp": "00:21:23",
@@ -1852,7 +1877,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10388"
+        "N-10361"
       ],
       "tags": [],
       "claim_timestamp": "00:22:34",
@@ -1870,7 +1895,7 @@
       "claim": "The host says the lawsuit filed over her Brigitte Macron reporting was a mistake that was globally consequential and spread the story rather than stopping it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:23:30",
@@ -1937,7 +1962,7 @@
       "claim": "The host says she lost a job in part for saying that pornography is a spiritual weapon against men and that the history of pornography should be examined.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10385"
+        "N-10358"
       ],
       "tags": [],
       "claim_timestamp": "00:27:40",
@@ -1955,7 +1980,7 @@
       "claim": "The host says it has been reported by various whistleblowers that people's thoughts could impact future events, and asks what would happen if everyone focused on goodness and God.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [],
       "claim_timestamp": "00:28:28",
@@ -1976,7 +2001,7 @@
       "claim": "The host says that viewers should watch the moon landing and the rituals the people involved were doing, as evidence that modern science is run by Satanists.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10414"
+        "N-10387"
       ],
       "tags": [
         "relevance:tangential"
@@ -2012,7 +2037,7 @@
       "claim": "Mark, the show's director, says CERN was established in 1954 to research particle physics, after saying he is not a particle physicist and is a high school dropout who studies the subject recreationally.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11029"
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -2032,7 +2057,7 @@
       "claim": "Mark says that in 1964 a group of scientists theorized the Higgs boson, that one of them was named Peter Higgs, he believes, and that this addressed one of the missing pieces in how massless particles gain mass.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11029"
+        "N-10948"
       ],
       "tags": [],
       "claim_timestamp": "00:32:57",
@@ -2050,7 +2075,7 @@
       "claim": "Mark says CERN built the Large Hadron Collider, based in Geneva, Switzerland, in a 17-mile tunnel up to 600 feet underground in places, where particles are smashed together at high speed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11029"
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -2070,7 +2095,7 @@
       "claim": "Mark says that in 2012 CERN observed a reaction consistent with the particle theorized in 1964, which some people called the God particle, and says it was an attempt to erase God from the story of creation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11029"
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -2092,8 +2117,8 @@
         "A-1630.1"
       ],
       "related_nodes": [
-        "N-10414",
-        "N-11029"
+        "N-10387",
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -2115,8 +2140,8 @@
         "A-1629.1"
       ],
       "related_nodes": [
-        "N-10414",
-        "N-11029"
+        "N-10387",
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -2141,8 +2166,8 @@
         "A-1630.1"
       ],
       "related_nodes": [
-        "N-10414",
-        "N-11029"
+        "N-10387",
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -2167,8 +2192,8 @@
         "A-1630.1"
       ],
       "related_nodes": [
-        "N-10414",
-        "N-11029"
+        "N-10387",
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -2193,7 +2218,7 @@
         "A-1630.1"
       ],
       "related_nodes": [
-        "N-10414"
+        "N-10387"
       ],
       "tags": [
         "relevance:tangential"
@@ -2215,8 +2240,8 @@
         "A-1631.1"
       ],
       "related_nodes": [
-        "N-10416",
-        "N-10385"
+        "N-10389",
+        "N-10358"
       ],
       "tags": [],
       "claim_timestamp": "00:40:52",
@@ -2236,7 +2261,7 @@
         "A-2757.1"
       ],
       "related_nodes": [
-        "N-11032"
+        "N-10951"
       ],
       "tags": [],
       "claim_timestamp": "00:42:37",
@@ -2259,7 +2284,7 @@
         "A-2757.1"
       ],
       "related_nodes": [
-        "N-11032"
+        "N-10951"
       ],
       "tags": [],
       "claim_timestamp": "00:42:37",
@@ -2281,8 +2306,8 @@
         "A-1632.1"
       ],
       "related_nodes": [
-        "N-10454",
-        "N-10063"
+        "N-10423",
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "00:43:34",
@@ -2306,7 +2331,7 @@
         "A-1632.1"
       ],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "00:43:34",
@@ -2329,7 +2354,7 @@
         "A-1632.1"
       ],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "00:43:34",
@@ -2390,7 +2415,7 @@
         "A-2756.1"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [],
       "claim_timestamp": "00:49:41",
@@ -2411,7 +2436,7 @@
         "A-2756.1"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [],
       "claim_timestamp": "00:49:41",
@@ -2432,7 +2457,7 @@
         "A-2756.2"
       ],
       "related_nodes": [
-        "N-11031"
+        "N-10950"
       ],
       "tags": [],
       "claim_timestamp": "00:50:49",
@@ -2452,7 +2477,7 @@
         "A-2756.2"
       ],
       "related_nodes": [
-        "N-11031"
+        "N-10950"
       ],
       "tags": [],
       "claim_timestamp": "00:50:49",
@@ -2472,7 +2497,7 @@
         "A-2756.2"
       ],
       "related_nodes": [
-        "N-11031"
+        "N-10950"
       ],
       "tags": [],
       "claim_timestamp": "00:50:49",
@@ -2492,7 +2517,7 @@
         "A-2756.3"
       ],
       "related_nodes": [
-        "N-11033"
+        "N-10952"
       ],
       "tags": [
         "relevance:tangential"
@@ -2569,7 +2594,7 @@
         "A-1634.3"
       ],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [],
       "claim_timestamp": "00:53:21",
@@ -2589,7 +2614,7 @@
         "A-1634.3"
       ],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [
         "relevance:tangential"
@@ -2611,7 +2636,7 @@
         "A-1634.3"
       ],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [],
       "claim_timestamp": "00:53:21",
@@ -2631,7 +2656,7 @@
         "A-2756.4"
       ],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:54:39",
@@ -2651,7 +2676,7 @@
         "A-2756.4"
       ],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:54:59",
@@ -2670,7 +2695,7 @@
       "claim": "The host says the account that Charlie Kirk was taken out by a .30-06 rifle fired by one shooter on the rooftop was the federal talking points and that Fuentes was aligned with it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:55:11",
@@ -2690,8 +2715,8 @@
       "claim": "The host says Charlie Kirk repeatedly had recurring dreams about how he would die and how it had to happen in a particular way, while she was having recurring dreams that he was betrayed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10415",
-        "N-10404"
+        "N-10388",
+        "N-10377"
       ],
       "tags": [],
       "claim_timestamp": "00:55:11",

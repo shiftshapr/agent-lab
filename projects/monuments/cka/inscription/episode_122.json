@@ -30,7 +30,7 @@
             "C-10399"
           ],
           "related_nodes": [
-            "N-10696"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -48,7 +48,7 @@
             "C-10405"
           ],
           "related_nodes": [
-            "N-10696"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
             "C-10423"
           ],
           "related_nodes": [
-            "N-10697"
+            "N-10634"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -182,7 +182,7 @@
             "C-10449"
           ],
           "related_nodes": [
-            "N-10704"
+            "N-10640"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -209,7 +209,7 @@
             "C-10463"
           ],
           "related_nodes": [
-            "N-10699"
+            "N-10636"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -412,11 +412,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10696",
-      "ref": "N-10696",
-      "name": "Maroon Shirt Audience Identification",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10293",
+      "ref": "N-10293",
+      "name": "Maroon Shirt Pattern at UVU September 10 Event",
+      "type": "topic",
       "description": "Persistent investigative target: identification of individuals in maroon shirts in the September 10 audience and their organizational affiliations.",
       "related_artifacts": [
         "A-2104.1",
@@ -424,20 +424,30 @@
       ],
       "related_claims": [
         "C-10399",
-        "C-10405"
+        "C-10405",
+        "C-10396",
+        "C-10397",
+        "C-10401",
+        "C-10404",
+        "C-10427",
+        "C-10503",
+        "C-10400",
+        "C-10402",
+        "C-10403"
       ],
       "tags": [],
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10697",
-      "ref": "N-10697",
+      "@type": "Topic",
+      "@id": "N-10634",
+      "ref": "N-10634",
       "name": "19th Special Forces / Utah-Romania Deployment Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: convergence of multiple identified individuals (Rawlinson, Curtis Kolvet, Tyler Bowyer, Philip Goldsberry Jr.) on Romanian military / charitable operations.",
       "related_artifacts": [
         "A-2107.1"
@@ -453,14 +463,15 @@
       "related_nodes": [
         "N-41",
         "N-11"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10698",
-      "ref": "N-10698",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10635",
+      "ref": "N-10635",
       "name": "Next Model Management / MC2 Trafficking Connection to Erika Kirk",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: allegation that Erika Kirk was involved in \"modeling apartments\" for Next Model Management and MC2 during the period covered by pending trafficking litigation.",
       "related_artifacts": [],
       "related_claims": [
@@ -473,35 +484,42 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10699",
-      "ref": "N-10699",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10636",
+      "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: contradiction between Brian Harpole's prior podcast statements (no CPR performed) and Frank Turek's prior podcast statements (CPR was performed, no exit wound on back of neck).",
       "related_artifacts": [
         "A-2109.1"
       ],
       "related_claims": [
         "C-10462",
-        "C-10463"
+        "C-10463",
+        "C-10466",
+        "C-10467",
+        "C-10468",
+        "C-10522"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10700",
-      "ref": "N-10700",
+      "@type": "Topic",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: cluster of FOIA requests filed by host's team – NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries), FBI (Kash Patel schedule), FBI plane flight logs, Bradley Hansell travel schedule September 7-10.",
       "related_artifacts": [],
       "related_claims": [
@@ -511,14 +529,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10701",
-      "ref": "N-10701",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10638",
+      "ref": "N-10638",
       "name": "Andrew Kolvet EEOB Presence / Kash Patel Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: verification of Kolbenschlag's location (EEOB vs Arizona) and meeting attendees on day of pre-recorded Kirk Show appearance.",
       "related_artifacts": [],
       "related_claims": [
@@ -528,31 +547,35 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10702",
-      "ref": "N-10702",
-      "name": "Lance Twiggs Maroon Shirt Identification",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10161",
+      "ref": "N-10161",
+      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+      "type": "investigation_question",
       "description": "Investigative target: identification of Lance Twiggs as the maroon-shirted individual visible in audience footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10515"
+        "C-10515",
+        "C-10517"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10703",
-      "ref": "N-10703",
+      "@type": "Topic",
+      "@id": "N-10639",
+      "ref": "N-10639",
       "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: host's theory that Tyler Robinson was set up by Lance Twiggs and is not the actual shooter.",
       "related_artifacts": [],
       "related_claims": [
@@ -562,14 +585,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10704",
-      "ref": "N-10704",
+      "@type": "Topic",
+      "@id": "N-10640",
+      "ref": "N-10640",
       "name": "Mossad \"Truman Show\" Analogy Application",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: application of the 60 Minutes Mossad agents' description of Israeli operations as a \"Truman Show\" production to the Charlie Kirk assassination.",
       "related_artifacts": [
         "A-2108.1"
@@ -581,7 +605,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -931,56 +956,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10275",
-      "ref": "N-10275",
-      "name": "Maroon Shirt Coordination Theory",
-      "type": "investigation_target",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10396",
-        "C-10397",
-        "C-10401",
-        "C-10404",
-        "C-10427",
-        "C-10503"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10311",
-      "ref": "N-10311",
-      "name": "Maroon Shirt Pattern at UVU September 10 Event",
-      "type": "investigation_target",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10396",
-        "C-10400",
-        "C-10402",
-        "C-10403",
-        "C-10404",
-        "C-10427",
-        "C-10503"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 7,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10048",
-      "ref": "N-10048",
+      "@type": "Topic",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -991,14 +971,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1008,7 +989,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Person",
@@ -1038,11 +1021,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11193",
-      "ref": "N-11193",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11109",
+      "ref": "N-11109",
       "name": "Rawlinson Name Change and Background Inquiry",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's inquiry into why David Sprague changed his name from James Norman Rawlinson Jr., his stated reasons and the host's inability to confirm his father's alleged crime.",
       "related_artifacts": [],
       "related_claims": [
@@ -1056,14 +1039,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@type": "Topic",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1079,7 +1063,8 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1099,11 +1084,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10395",
-      "ref": "N-10395",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10368",
+      "ref": "N-10368",
       "name": "Tyler Bowyer 2011 Romania Activities",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1113,7 +1098,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10374"
     },
     {
       "@type": "Person",
@@ -1198,11 +1185,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10871",
-      "ref": "N-10871",
+      "@type": "Topic",
+      "@id": "N-10792",
+      "ref": "N-10792",
       "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1213,7 +1200,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1312,11 +1300,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10532",
-      "ref": "N-10532",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10478",
+      "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1331,7 +1319,8 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1353,8 +1342,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11194",
-      "ref": "N-11194",
+      "@id": "N-11110",
+      "ref": "N-11110",
       "name": "Next Model Management / MC2 Model Apartments Class Action",
       "type": "topic",
       "description": "The pending class action the host cites against Next Model Management and MC2 over underaged models placed in model apartments, with pay deductions of up to 70 percent.",
@@ -1368,7 +1357,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10478"
     },
     {
       "@type": "Person",
@@ -1388,11 +1379,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10979",
-      "ref": "N-10979",
+      "@type": "Organization",
+      "@id": "N-10900",
+      "ref": "N-10900",
       "name": "Gold Apollo",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1402,14 +1393,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10978",
-      "ref": "N-10978",
+      "@type": "Organization",
+      "@id": "N-10899",
+      "ref": "N-10899",
       "name": "Hezbollah",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1419,14 +1412,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1437,14 +1432,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@type": "Organization",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1462,12 +1459,14 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
-      "@id": "N-11195",
-      "ref": "N-11195",
+      "@id": "N-11111",
+      "ref": "N-11111",
       "name": "Department of War Information War Allegation",
       "type": "topic",
       "description": "The host's allegation that the Department of War deploys paid or affiliated people full-time in an information war against her and in defense of the official narrative.",
@@ -1481,7 +1480,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10809"
     },
     {
       "@type": "Person",
@@ -1502,11 +1503,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1518,14 +1519,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@type": "Thing",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1537,14 +1540,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@type": "Organization",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1554,14 +1559,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10937",
-      "ref": "N-10937",
+      "@type": "Topic",
+      "@id": "N-10858",
+      "ref": "N-10858",
       "name": "Paramount Tactical September 2025 DoD Payments",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1571,14 +1578,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1588,7 +1596,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1611,11 +1620,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1625,34 +1634,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10737",
-      "ref": "N-10737",
-      "name": "CPR Narrative Contradiction (Turek / Harpole)",
-      "type": "investigation_target",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10466",
-        "C-10467",
-        "C-10468",
-        "C-10522"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1662,7 +1653,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1685,11 +1677,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10677",
-      "ref": "N-10677",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10615",
+      "ref": "N-10615",
       "name": "Sara Tewell Witness Statement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1700,12 +1692,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11196",
-      "ref": "N-11196",
+      "@id": "N-11112",
+      "ref": "N-11112",
       "name": "Sara Tewell Family Emergency Dispatch Connection",
       "type": "topic",
       "description": "The host's claim that the family Sara Tewell married into controlled emergency dispatch and triage services and that its company partners with Carbyne.",
@@ -1718,7 +1711,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1739,8 +1733,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11197",
-      "ref": "N-11197",
+      "@id": "N-11113",
+      "ref": "N-11113",
       "name": "Carbyne",
       "type": "organization",
       "description": "Emergency-communications company the host says was created by Ehud Barak and is in partnership with the dispatch company tied to Sara Tewell's family.",
@@ -1752,14 +1746,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10501",
-      "ref": "N-10501",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10462",
+      "ref": "N-10462",
       "name": "Erika Kirk Real Estate License Timing Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1771,7 +1767,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1779,23 +1776,6 @@
       "ref": "N-68",
       "name": "Schuyler",
       "type": "person",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10479"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10526",
-      "ref": "N-10526",
-      "name": "Erika NY Real Estate License Verification Question",
-      "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1825,23 +1805,25 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10520",
-      "ref": "N-10520",
-      "name": "Erika Kirk Corcoran Real Estate Anomaly",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10463",
+      "ref": "N-10463",
+      "name": "Erika Kirk Corcoran Group Employment Verification",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
         "C-10480",
         "C-10482",
-        "C-10483"
+        "C-10483",
+        "C-10481"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1861,30 +1843,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10502",
-      "ref": "N-10502",
-      "name": "Erika Kirk Corcoran Group Employment Verification",
-      "type": "investigation_target",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10481",
-        "C-10482",
-        "C-10483"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10523",
-      "ref": "N-10523",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10480",
+      "ref": "N-10480",
       "name": "Lynn Forester de Rothschild Corcoran Group Presidency Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1894,7 +1857,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10463"
     },
     {
       "@type": "Person",
@@ -1914,11 +1879,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10988",
-      "ref": "N-10988",
+      "@type": "Organization",
+      "@id": "N-10908",
+      "ref": "N-10908",
       "name": "Miss Universe Organization",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1928,14 +1893,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10929",
-      "ref": "N-10929",
+      "@type": "Event",
+      "@id": "N-10850",
+      "ref": "N-10850",
       "name": "Erika Kirk Air Force Academy Board of Visitors Appointment",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1945,14 +1912,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10971",
-      "ref": "N-10971",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10892",
+      "ref": "N-10892",
       "name": "Kash Patel September 7–10, 2025 Schedule FOIA Request",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1962,14 +1931,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10982",
-      "ref": "N-10982",
+      "@type": "Event",
+      "@id": "N-10903",
+      "ref": "N-10903",
       "name": "FBI Plane Richmond–Salt Lake City September 8, 2025 Flight",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1979,14 +1949,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-08"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10276",
-      "ref": "N-10276",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10259",
+      "ref": "N-10259",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1996,14 +1969,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2014,7 +1989,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -2051,11 +2027,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10290",
-      "ref": "N-10290",
+      "@type": "Event",
+      "@id": "N-10272",
+      "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2067,14 +2043,17 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10107",
-      "ref": "N-10107",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10103",
+      "ref": "N-10103",
       "name": "Crime Scene Pavers",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2084,14 +2063,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10897",
-      "ref": "N-10897",
+      "@type": "Organization",
+      "@id": "N-10818",
+      "ref": "N-10818",
       "name": "Project Constitution",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2101,14 +2081,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2118,14 +2100,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2137,14 +2121,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10230",
-      "ref": "N-10230",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10217",
+      "ref": "N-10217",
       "name": "Saint Michael Pendant / Charlie Catholic-Curious Status",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2154,7 +2139,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10100"
     },
     {
       "@type": "Person",
@@ -2174,11 +2161,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11011",
-      "ref": "N-11011",
+      "@type": "Topic",
+      "@id": "N-10931",
+      "ref": "N-10931",
       "name": "Macron Cease and Desist and Legal Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2188,14 +2175,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10663",
-      "ref": "N-10663",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10605",
+      "ref": "N-10605",
       "name": "Mikey McCoy Witness Reliability Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2205,31 +2193,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10168",
-      "ref": "N-10168",
-      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
-      "type": "investigation_target",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10517"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10598",
-      "ref": "N-10598",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10545",
+      "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2239,14 +2211,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10061",
-      "ref": "N-10061",
+      "@type": "Topic",
+      "@id": "N-10058",
+      "ref": "N-10058",
       "name": "CIA Operation Mockingbird",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2256,14 +2229,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10740",
-      "ref": "N-10740",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10672",
+      "ref": "N-10672",
       "name": "SUV Interior Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2273,14 +2247,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10691",
-      "ref": "N-10691",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10629",
+      "ref": "N-10629",
       "name": "District Attorney Release Authorization Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2290,14 +2265,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11053",
-      "ref": "N-11053",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10971",
+      "ref": "N-10971",
       "name": "Charlie Kirk Handheld Microphone Custody",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2307,7 +2283,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     }
   ],
   "claims": [
@@ -2321,7 +2298,7 @@
         "A-2104.1"
       ],
       "related_nodes": [
-        "N-10696"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:02:03",
@@ -2340,7 +2317,7 @@
         "A-2104.2"
       ],
       "related_nodes": [
-        "N-10696"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:04:49",
@@ -2442,7 +2419,7 @@
         "A-2107.1"
       ],
       "related_nodes": [
-        "N-10697"
+        "N-10634"
       ],
       "tags": [],
       "claim_timestamp": "00:13:17",
@@ -2475,7 +2452,7 @@
         "A-2108.1"
       ],
       "related_nodes": [
-        "N-10704"
+        "N-10640"
       ],
       "tags": [],
       "claim_timestamp": "00:25:08",
@@ -2491,7 +2468,7 @@
         "A-2109.1"
       ],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:32:34",
@@ -2511,7 +2488,7 @@
         "A-2109.1"
       ],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:32:34",
@@ -2529,7 +2506,7 @@
       "claim": "During the episode, the host asserts that people with direct knowledge of Erika Kirk's involvement with Next Model Management claim she was in charge of modeling apartments for underaged models; she adds that a current class action names Next Model Management and MC2 as defendants over such apartments.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10698"
+        "N-10635"
       ],
       "tags": [],
       "claim_timestamp": "00:20:08–00:21:31",
@@ -2546,7 +2523,7 @@
       "claim": "The host states the team has filed FOIA requests to the NSA (Erika emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erika), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10700"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:42:10",
@@ -2565,7 +2542,7 @@
       "claim": "During the episode, the host says she believes Lance Twiggs is the individual walking in a maroon shirt in a video that was allegedly taken the same day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10702"
+        "N-10161"
       ],
       "tags": [],
       "claim_timestamp": "01:00:41",
@@ -2582,7 +2559,7 @@
       "claim": "During the episode, the host states her belief, based on evidence presented thus far, that Tyler Robinson did not kill Charlie Kirk and was set up by Lance Twiggs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10703"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "01:00:41",
@@ -2601,7 +2578,7 @@
       "claim": "The host states Andrew Kolvet appeared to be live in studio on the Charlie Kirk Show hosting Kash Patel, but was actually pre-recorded and physically located 5 hours away in the Executive Office Building in Washington D.C.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10701"
+        "N-10638"
       ],
       "tags": [],
       "claim_timestamp": "00:44:23–00:46:13",
@@ -2619,8 +2596,7 @@
       "claim": "The host says it looked to her as if army regiments were organizing by color in plain clothes in the September 10 audience.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10275",
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2646,7 +2622,7 @@
         "A-2967.1"
       ],
       "related_nodes": [
-        "N-10275"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2669,7 +2645,7 @@
       "claim": "The host says that after the maroon-shirt findings no one will convince her that the deep state did not organize Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -2690,7 +2666,7 @@
       "claim": "The host says she noticed immediately that the September 10 audience had far too many older people and not enough students.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2711,7 +2687,7 @@
       "claim": "The host says many attendees wore bright colored hats (not the ones Charlie Kirk threw out), and some boys wore high socks with black pants, and that she has these observations organized in folders.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10275"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2733,7 +2709,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:context"
@@ -2756,7 +2732,7 @@
       "claim": "The host says the man who gave her all the footage struck her as remarkably suspect and that his son was wearing a maroon shirt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2776,8 +2752,7 @@
       "claim": "The host says the men who were alone in maroon shirts had a particularly athletic build, which made her think they could be military.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10275",
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2797,7 +2772,7 @@
       "claim": "The host says that, in retrospect, the viral story of the man who stood and cheered after the shot registers to her as a major distraction point as people began looking for clues.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10696"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2820,7 +2795,7 @@
         "A-2105.1"
       ],
       "related_nodes": [
-        "N-10696"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2847,7 +2822,7 @@
         "A-2105.2"
       ],
       "related_nodes": [
-        "N-10696"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2873,7 +2848,7 @@
         "A-2968.1"
       ],
       "related_nodes": [
-        "N-11193"
+        "N-11109"
       ],
       "tags": [
         "relevance:core"
@@ -2896,7 +2871,7 @@
         "A-2968.1"
       ],
       "related_nodes": [
-        "N-11193"
+        "N-11109"
       ],
       "tags": [
         "relevance:core"
@@ -2919,7 +2894,7 @@
         "A-2968.1"
       ],
       "related_nodes": [
-        "N-11193"
+        "N-11109"
       ],
       "tags": [
         "relevance:context"
@@ -2942,7 +2917,7 @@
         "A-2968.1"
       ],
       "related_nodes": [
-        "N-11193"
+        "N-11109"
       ],
       "tags": [
         "relevance:context"
@@ -2963,7 +2938,7 @@
       "claim": "The host says Rawlinson joined Army boot camp in 2011 and was promoted to corporal or specialist at the start of 2014 in the Utah National Guard.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10697"
+        "N-10634"
       ],
       "tags": [
         "relevance:core"
@@ -2984,7 +2959,7 @@
       "claim": "The host says the 19th Special Forces Group is a National Guard unit headquartered at Camp Williams in Lehi, Utah, about 20 minutes from where Charlie Kirk was murdered.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10697"
+        "N-10634"
       ],
       "tags": [
         "relevance:context"
@@ -3005,7 +2980,7 @@
       "claim": "The host says she thinks one cannot become a Green Beret in the 19th Special Forces without first receiving the maroon beret (parachutist) certification.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10697"
+        "N-10634"
       ],
       "tags": [
         "relevance:context"
@@ -3025,8 +3000,8 @@
       "claim": "The host says the US Army's 19th Special Forces Airborne routinely deploys to Romania to conduct unconventional warfare and trains with Romanian special operations forces alongside NATO allies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10697",
-        "N-10401"
+        "N-10634",
+        "N-10374"
       ],
       "tags": [
         "relevance:context"
@@ -3046,7 +3021,7 @@
       "claim": "The host says that at the same time Rawlinson was reportedly in Romania (late 2023 into 2024), Curtis Kolvet, Andrew Kolvet's brother and, she believes, a Nevada National Guard lieutenant colonel running the military police, was also in Romania that year.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10697"
+        "N-10634"
       ],
       "tags": [
         "relevance:core"
@@ -3071,8 +3046,8 @@
       "claim": "The host says she asked Rawlinson five separate times whether he had served overseas in Romania and whether his father had served overseas, and that he kept replying to her but refused to answer those questions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10697",
-        "N-11193"
+        "N-10634",
+        "N-11109"
       ],
       "tags": [
         "relevance:core"
@@ -3095,7 +3070,7 @@
         "A-2107.1"
       ],
       "related_nodes": [
-        "N-10697"
+        "N-10634"
       ],
       "tags": [
         "relevance:context"
@@ -3119,8 +3094,7 @@
       "claim": "The host says that, as a fact, there were military units in plain clothes organized by colors and hats at the September 10 event (the transcript reads 'Charlie Hebdo assassination', apparently a slip for Charlie Kirk).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10275",
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -3144,7 +3118,7 @@
       "claim": "The host says that the plane that took off immediately after the assassination was previously registered in Romania and is currently owned through a couple with a charity for trafficking victims, and that the public never learned who was aboard.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -3167,7 +3141,7 @@
       "claim": "The host says Erika Kirk set up a charity in Romania for orphanages, working with the military and with Marines on that same base.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -3191,7 +3165,7 @@
       "claim": "The host says Tyler Bowyer lived in Romania, in Constanta where the military base is, and claimed to have partied with models, and that he was also involved in helping orphans.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10395"
+        "N-10368"
       ],
       "tags": [
         "relevance:core"
@@ -3212,7 +3186,7 @@
       "claim": "The host says Philip Goldsberry Jr.'s father began a global ministry that worked with orphans in Romania, teaching them basic hygiene.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -3236,7 +3210,7 @@
       "claim": "The host says Jeffrey Epstein trafficked girls from Romania, a country she thinks is named the most in his emails.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -3257,7 +3231,7 @@
       "claim": "The host says Donald Trump was upset with Charlie Kirk and wanted him to stop talking about Jeffrey Epstein.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10871"
+        "N-10792"
       ],
       "tags": [
         "relevance:core"
@@ -3358,7 +3332,7 @@
       "claim": "The host says Jean-Luc Brunel, alongside his brother Arnaud Brunel, founded a modeling agency in New York City before Epstein's MC2 money, one she identifies as Next Model Management.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -3381,7 +3355,7 @@
       "claim": "The host says Jean-Luc Brunel and his brother founded the Next Model Corporation, from which Next Model Management spun, that Faith Kates took a piece of it and they worked together.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -3403,7 +3377,7 @@
       "claim": "The host says it was later discovered that underage foreign models recruited from MC2 were housed in apartments owned by Jeffrey Epstein and Jeffrey Epstein's brother while they awaited work visas.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:context"
@@ -3424,7 +3398,7 @@
       "claim": "The host says that, interestingly, she discovered Mark Epstein owned a building like the white Upper East Side building in the 60s she was told about in connection with Erika Kirk, and that she wondered if it was the specific building.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -3448,8 +3422,8 @@
         "A-2969.1"
       ],
       "related_nodes": [
-        "N-11194",
-        "N-10532"
+        "N-11110",
+        "N-10478"
       ],
       "tags": [
         "relevance:context"
@@ -3471,7 +3445,7 @@
         "A-2969.1"
       ],
       "related_nodes": [
-        "N-11194"
+        "N-11110"
       ],
       "tags": [
         "relevance:core"
@@ -3493,8 +3467,8 @@
         "A-2969.1"
       ],
       "related_nodes": [
-        "N-11194",
-        "N-10532"
+        "N-11110",
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -3581,8 +3555,8 @@
         "A-2108.1"
       ],
       "related_nodes": [
-        "N-10979",
-        "N-10978",
+        "N-10900",
+        "N-10899",
         "N-10015"
       ],
       "tags": [
@@ -3595,7 +3569,7 @@
         "C-10449"
       ],
       "mentions_person_refs": [
-        "N-10978",
+        "N-10899",
         "N-10015"
       ]
     },
@@ -3609,7 +3583,7 @@
         "A-2108.1"
       ],
       "related_nodes": [
-        "N-10704"
+        "N-10640"
       ],
       "tags": [
         "relevance:core"
@@ -3633,7 +3607,7 @@
       "claim": "The host says that she believes the script behind Charlie Kirk's life runs back to Tel Aviv and that she correctly put the pieces of his assassination together very early.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10704"
+        "N-10640"
       ],
       "tags": [
         "relevance:context"
@@ -3654,8 +3628,8 @@
       "claim": "The host says people have been steadily deployed full-time in an information war against her and that the Department of War is behind it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
-        "N-11195"
+        "N-10809",
+        "N-11111"
       ],
       "tags": [
         "relevance:core"
@@ -3675,8 +3649,8 @@
       "claim": "The host says Graham Allen's official title right before Charlie Kirk died was senior consultant to the Department of War.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
-        "N-11195"
+        "N-10809",
+        "N-11111"
       ],
       "tags": [
         "relevance:core"
@@ -3699,7 +3673,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11195"
+        "N-11111"
       ],
       "tags": [
         "relevance:core"
@@ -3720,8 +3694,8 @@
       "claim": "The host says the Department of War is the same department that referred to Erika as their 'emotional assets' on the night of the White House Correspondents Dinner shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
-        "N-10923"
+        "N-10809",
+        "N-10844"
       ],
       "tags": [
         "relevance:core"
@@ -3745,9 +3719,9 @@
       "claim": "The host says the Department of War is the same department that paid Paramount Tactical, whom she describes as a former Green Beret now dedicated to the information war.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-10937",
-        "N-10888"
+        "N-10820",
+        "N-10858",
+        "N-10809"
       ],
       "tags": [
         "relevance:core"
@@ -3770,7 +3744,7 @@
       "claim": "The host says it seems very evident to her that Charlie Kirk was killed in a military operation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [
         "relevance:core"
@@ -3791,7 +3765,7 @@
       "claim": "The host says everyone knows that Tyler Robinson did not do it and that it is almost a waste of time to keep explaining.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3812,7 +3786,7 @@
       "claim": "The host says 'we' think Charlie Kirk was taken out because a global trafficking ring had to be protected.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -3856,7 +3830,7 @@
         "A-2109.1"
       ],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -3882,8 +3856,8 @@
         "A-2109.1"
       ],
       "related_nodes": [
-        "N-10699",
-        "N-10687"
+        "N-10636",
+        "N-10625"
       ],
       "tags": [
         "relevance:core"
@@ -3909,7 +3883,7 @@
         "A-2109.1"
       ],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -3931,7 +3905,7 @@
       "claim": "The host says Brian Harpole would not forget getting Charlie into a CPR position within a six-minute ride, which she says could only have been done by folding his legs and laying him flat, and that Charlie, about 6'3\", would not fit in the cramped car.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -3953,7 +3927,7 @@
       "claim": "The host says there is no way CPR could have been conducted in that cramped car.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -3993,8 +3967,8 @@
       "claim": "The host says that she got her hands on an email, which the Department of War does not want to confirm via her FOIA request, and that the email she shared with the audience was real.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
-        "N-10923"
+        "N-10809",
+        "N-10844"
       ],
       "tags": [
         "relevance:core"
@@ -4017,7 +3991,7 @@
       "claim": "The host says she now knows it is plausible that the decoy people and the people who spoke to the media were being artificially inflated by the Department of War, based on that email.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
+        "N-10809",
         "N-10032"
       ],
       "tags": [
@@ -4038,7 +4012,7 @@
       "claim": "The host says Sara Tewell, the young woman shown earlier, changed her story three times, first definitively saying she saw Charlie hit in the chest with a description of the bleeding, then saying he was hit in the neck.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [
         "relevance:core"
@@ -4064,7 +4038,7 @@
       "claim": "The host says the family Sara Tewell married into controlled the emergency dispatching services and triage when a person calls 911.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11196"
+        "N-11112"
       ],
       "tags": [
         "relevance:core"
@@ -4085,8 +4059,8 @@
       "claim": "The host says the dispatch-connected company is in partnership with Israel with Carbyne, which she says was created by Ehud Barak, and that they have done a deal with them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11196",
-        "N-11197"
+        "N-11112",
+        "N-11113"
       ],
       "tags": [
         "relevance:core"
@@ -4108,7 +4082,7 @@
       "claim": "The host says that no one in the witness tree appears to be an unconnected student who simply saw the event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [
         "relevance:core"
@@ -4130,7 +4104,7 @@
         "A-2970.1"
       ],
       "related_nodes": [
-        "N-10698"
+        "N-10635"
       ],
       "tags": [
         "relevance:core"
@@ -4151,8 +4125,8 @@
       "claim": "The host says she thinks there is now enough compelling evidence to suggest that Erika Kirk was in charge of modeling apartments and that her real estate license made no sense otherwise.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10698",
-        "N-10501"
+        "N-10635",
+        "N-10462"
       ],
       "tags": [
         "relevance:core"
@@ -4177,8 +4151,8 @@
       "claim": "The host says people tell her Erika was doing this before she was licensed and that their timeline predates her getting licensed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10698",
-        "N-10501"
+        "N-10635",
+        "N-10462"
       ],
       "tags": [
         "relevance:core"
@@ -4199,8 +4173,7 @@
       "claim": "The host says she believes Erika was licensed in 2019 in the same month she met Charlie, then, thanking Schuyler, says August 2018, and that Erika received the license immediately after meeting Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10501",
-        "N-10526"
+        "N-10462"
       ],
       "tags": [
         "relevance:core"
@@ -4223,7 +4196,7 @@
       "claim": "The host says it does not seem that Nicole Rothstein is Erika's blood cousin but that she was certainly involved in real estate with that family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10520"
+        "N-10463"
       ],
       "tags": [
         "relevance:core"
@@ -4245,8 +4218,8 @@
       "claim": "The host says Erika got her real estate license under the Corcoran Group, which the host says Epstein's emails show was established by Lynn de Rothschild.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10502",
-        "N-10523"
+        "N-10463",
+        "N-10480"
       ],
       "tags": [
         "relevance:core"
@@ -4269,8 +4242,7 @@
       "claim": "The host says that her team has only ever found two listings that went up under Erika's name at Corcoran.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10502",
-        "N-10520"
+        "N-10463"
       ],
       "tags": [
         "relevance:core"
@@ -4294,8 +4266,7 @@
       "claim": "The host says people in real estate tell her that a newly licensed agent would not be able to just work for Corcoran and that Erika was therefore artificially pulled through the ranks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10502",
-        "N-10520"
+        "N-10463"
       ],
       "tags": [
         "relevance:core"
@@ -4358,7 +4329,7 @@
       "claim": "The host says Epstein entered the world of blackmail and trafficking young women from the Eastern Corridor and modeling.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:context"
@@ -4379,7 +4350,7 @@
       "claim": "The host says Donald Trump is also in real estate and involved in the modeling world via the pageant world, and asks how many pageant contestants come from impoverished countries.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10988"
+        "N-10908"
       ],
       "tags": [
         "relevance:context"
@@ -4400,7 +4371,7 @@
       "claim": "The host asks why Trump did not want to look into Jeffrey Epstein, why there was so much panic, and why they were suddenly in the situation room trying to figure out how to deal with the Epstein scandal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10871"
+        "N-10792"
       ],
       "tags": [
         "relevance:context"
@@ -4422,8 +4393,8 @@
       "claim": "The host says her team has a FOIA request out to the NSA regarding the Erika 'emotional asset' email.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923",
-        "N-10700"
+        "N-10844",
+        "N-10637"
       ],
       "tags": [
         "relevance:core"
@@ -4447,7 +4418,7 @@
       "claim": "The host says her team is requesting Erika's WAVES entries from DHS, the Secret Service and the Executive Office of the President, and explains that visitors to the White House are sent a link to fill out their information and be 'waved in'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10700"
+        "N-10637"
       ],
       "tags": [
         "relevance:core"
@@ -4468,7 +4439,7 @@
       "claim": "The host says she thinks there is a broader reason why Erika was put on the Air Force board, which the host says she is not qualified for, and asks whether it gives her perks such as flying on Air Force planes undetected.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10929"
+        "N-10850"
       ],
       "tags": [
         "relevance:core"
@@ -4511,8 +4482,8 @@
       "claim": "The host says her team has FOIA'd Kash Patel's schedule for the three days leading up to September 10 and has not yet received a response, although the FBI responded publicly online.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10971",
-        "N-10700"
+        "N-10892",
+        "N-10637"
       ],
       "tags": [
         "relevance:core"
@@ -4538,8 +4509,8 @@
         "A-2971.1"
       ],
       "related_nodes": [
-        "N-10700",
-        "N-10888"
+        "N-10637",
+        "N-10809"
       ],
       "tags": [
         "relevance:core"
@@ -4563,9 +4534,9 @@
       "claim": "The host says her team asked for flight logs of an FBI plane she thinks landed in Utah (or possibly Nebraska) on the 8th because it landed at the same time as the Egyptian planes in Nebraska, while noting it could be a coincidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10982",
-        "N-10276",
-        "N-10700"
+        "N-10903",
+        "N-10259",
+        "N-10637"
       ],
       "tags": [
         "relevance:core"
@@ -4588,8 +4559,8 @@
       "claim": "The host says her team is asking the Secret Service and DHS for Andrew Kolvet's (spelled Kolbenschlag in the transcript) White House meeting, the day before the Epstein files were released.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10701",
-        "N-10324"
+        "N-10638",
+        "N-10303"
       ],
       "tags": [
         "relevance:core"
@@ -4613,8 +4584,8 @@
       "claim": "The host says that, sure enough, the Epstein files were dropped the next day after Kolvet's apparent live appearance that was in fact pre-recorded.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324",
-        "N-10701"
+        "N-10303",
+        "N-10638"
       ],
       "tags": [
         "relevance:core"
@@ -4636,7 +4607,7 @@
       "claim": "The host says she believes Susie Wiles has an office in the Executive Office Building area where Kolvet was reportedly present, that J.D. Vance also has an office there, and guesses he was meeting Kash Patel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10701"
+        "N-10638"
       ],
       "tags": [
         "relevance:context"
@@ -4659,7 +4630,7 @@
       "claim": "The host says she has always said the French Foreign Legion was on the ground that day and that this has never been disputed by any authority.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10290"
+        "N-10272"
       ],
       "tags": [
         "relevance:core"
@@ -4682,8 +4653,8 @@
       "claim": "The host says the French Foreign Legion has at various times been based in Romania at the very base discussed earlier.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10290",
-        "N-10401"
+        "N-10272",
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -4703,8 +4674,7 @@
       "claim": "The host says she believes all of the maroon-shirted men in the audience were using fake names.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311",
-        "N-10275"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -4744,7 +4714,7 @@
       "claim": "The host says it is a facet of the French Foreign Legion that you get a new identity and that the same could apply to the United States military for unconventional warfare missions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10290"
+        "N-10272"
       ],
       "tags": [
         "relevance:context"
@@ -4766,7 +4736,7 @@
         "A-2970.2"
       ],
       "related_nodes": [
-        "N-10696"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -4786,7 +4756,7 @@
       "claim": "Responding to a viewer comment, the host says she thinks there are no arrests for crime-scene tampering because the most logical conclusion is it was an inside job, adding that if tampering arrests began, FBI agents who were there way too early would be arrested.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10107"
+        "N-10103"
       ],
       "tags": [
         "relevance:core"
@@ -4806,7 +4776,7 @@
       "claim": "The host says Erika Kirk will always reply when Project Constitution gets something wrong but stays quiet about something this serious, and notes she tried to reach out to people and get comments before presenting material.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10897"
+        "N-10818"
       ],
       "tags": [
         "relevance:core"
@@ -4830,7 +4800,7 @@
       "claim": "The host says she does not think she could request anything from inside the hospital because Kash Patel has those tapes, and wonders whether Tyler Robinson's defense has requested them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239"
+        "N-10226"
       ],
       "tags": [
         "relevance:core"
@@ -4855,7 +4825,7 @@
       "claim": "The host wonders whether Harpole's account of cutting the shirt for defibrillators was meant to prepare the public for bruising or burn marks on Charlie's chest that she expects will be revealed in the autopsy, which people would explain as not caused by an exploding mic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -4877,7 +4847,7 @@
       "claim": "The host says she thinks the United States military had everything to do with what happened on September 10th and urges viewers not to enlist to honor Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [
         "relevance:core"
@@ -4900,8 +4870,8 @@
         "A-2972.1"
       ],
       "related_nodes": [
-        "N-10230",
-        "N-10768"
+        "N-10217",
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -4922,7 +4892,7 @@
       "claim": "The host says that 'a president' wants her bankrupted by Brigitte Macron, whom she says harmed a child.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [
         "relevance:tangential"
@@ -4945,7 +4915,7 @@
         "A-2972.2"
       ],
       "related_nodes": [
-        "N-10663"
+        "N-10605"
       ],
       "tags": [
         "relevance:context"
@@ -4968,8 +4938,8 @@
       "claim": "The host says that Lance Twiggs is being protected and that she believes he is the man walking in the maroon shirt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10168",
-        "N-10598"
+        "N-10161",
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -4993,7 +4963,7 @@
       "claim": "The host says Lance Twiggs would have been able to access all of his roommates' stuff, as part of her theory that Tyler Robinson was set up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10703"
+        "N-10639"
       ],
       "tags": [
         "relevance:core"
@@ -5018,7 +4988,7 @@
       "claim": "The host says the Pentagon first got involved in the media with Operation Mockingbird during the JFK era, and that she thinks it was by and large successful because people could not communicate and were isolated as conspiracy theorists.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10061"
+        "N-10058"
       ],
       "tags": [
         "relevance:tangential"
@@ -5057,7 +5027,7 @@
       "claim": "The host says that, given what she has learned about the explosive, she believes he was taken out by an explosive and does not think he could have survived.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -5078,8 +5048,8 @@
       "claim": "The host says she does not think Charlie was given the medical care in the car that everyone pretends he was given, and that the evidence she found in the SUV does not show it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10740",
-        "N-10737"
+        "N-10672",
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -5100,8 +5070,8 @@
       "claim": "The host says she received a tip that only a district attorney would have been able to release items like the microphone to Erika, and wonders which Utah district attorney did so if it was in their possession then.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10691",
-        "N-11053"
+        "N-10629",
+        "N-10971"
       ],
       "tags": [
         "relevance:core"

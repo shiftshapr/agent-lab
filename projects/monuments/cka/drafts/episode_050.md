@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: d0819324ac9bf4a628c1d097391bbba74d4957e0b633e777ad84956f4db99630
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-715, N-11024, N-11025, N-11026
-  - Hole-minted Nodes (reintro-ep050): N-573, N-10393
-  - Tip-minted Nodes (reintro-ep050): N-10912
+  - Tip-minted Nodes (supplement_2026-10): N-715, N-10943, N-10944, N-10945
+  - Hole-minted Nodes (reintro-ep050): N-573, N-10366
+  - Tip-minted Nodes (reintro-ep050): N-10833
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4363–C-4442
   - (see registers)
@@ -33,8 +33,8 @@
 - Analysis Date: 2026-03-11
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1561, A-1562, A-1563, A-1564, A-1565, A-1566, A-1567
-  - New Nodes Introduced: N-364, N-365, N-10370, N-10371, N-10372, N-10374
-  - Reused Nodes Appearing: N-14, N-27, N-32, N-36, N-46, N-64, N-110, N-161, N-163, N-201, N-259, N-278, N-319, N-10000, N-10008, N-10015, N-10026, N-10238, N-10253, N-10268, N-10326, N-10333, N-10341, N-10451, N-10373, N-10406, N-10416, N-10447, N-366
+  - New Nodes Introduced: N-364, N-365, N-10345, N-10346, N-10348
+  - Reused Nodes Appearing: N-14, N-27, N-32, N-36, N-46, N-64, N-110, N-161, N-163, N-201, N-259, N-278, N-319, N-10000, N-10008, N-10015, N-10026, N-10225, N-10239, N-10252, N-10305, N-10312, N-10319, N-10420, N-10347, N-10379, N-10389, N-10416, N-366
   - Existing Nodes Reused: N-1, N-2, N-11
 
 ---
@@ -113,7 +113,7 @@ Confidence Level: High (read-aloud rule)
 
 Full text read aloud begins: "For those of you information consumers who are stuck in practices of the old days… The public record on September 8th indicates that I was returning to Washington, D.C. from my district and voting on the floor of the House of Representatives. And on September 9th in a 12-hour [meeting] in the House Appropriations Committee… To quote Ronald Reagan, 'Facts are stubborn things. Merry Christmas.'"
 
-*Related: C-4415, N-363, N-10371*
+*Related: C-4415, N-363, N-10345*
 
 ---
 
@@ -129,7 +129,7 @@ Confidence Level: High (read-aloud rule)
 
 Full text read aloud begins: "Road Exposed, Rep. Mark Amodei tries and fails to give a solid alibi for the alleged September 9th meeting with Charlie Kirk's security, Brian Harpole. The rep claims to have been traveling to D.C… he was not present for roll call until the third meeting in mid-afternoon on the 9th in D.C."
 
-*Related: C-4416, N-363, N-365, N-10371*
+*Related: C-4416, N-363, N-365, N-10345*
 
 ---
 
@@ -145,7 +145,7 @@ Confidence Level: Medium
 
 Flag: Artifact verbally referenced but not shown on camera.
 
-*Related: C-4426, N-364, N-361, N-10372*
+*Related: C-4426, N-364, N-361, N-10346*
 
 ---
 
@@ -161,7 +161,7 @@ Confidence Level: Medium (host states existence)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-4409, N-361, N-10370*
+*Related: C-4409, N-361, N-10305*
 
 ---
 
@@ -175,7 +175,7 @@ Confidence Level: Medium (host states she was given the logs)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-4418, N-266, N-10370, N-10373*
+*Related: C-4418, N-266, N-10305, N-10347*
 
 ---
 
@@ -189,7 +189,7 @@ Confidence Level: Medium (host states she obtained paperwork)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-4409, N-361, N-10370*
+*Related: C-4409, N-361, N-10305*
 
 ---
 
@@ -355,7 +355,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1564.1, A-1565.1, C-4415, C-4416, N-10371*
+*Related: A-1564.1, A-1565.1, C-4415, C-4416, N-10345*
 
 ---
 
@@ -368,7 +368,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1567.2, C-4418, N-10370, N-10373*
+*Related: A-1567.2, C-4418, N-10305, N-10347*
 
 ---
 
@@ -381,7 +381,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1566.1, C-4426, N-2, N-10372, N-10374*
+*Related: A-1566.1, C-4426, N-2, N-10346, N-10348*
 
 ---
 
@@ -394,7 +394,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (intermediary verification role)
 
-*Related: A-1565.1, C-4416, N-363, N-10371*
+*Related: A-1565.1, C-4416, N-363, N-10345*
 
 ---
 
@@ -422,7 +422,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1566.1, A-1567.1, A-1567.3, C-4426, C-4409, N-10370*
+*Related: A-1566.1, A-1567.1, A-1567.3, C-4426, C-4409, N-10305*
 
 ---
 
@@ -439,20 +439,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10370** Fort Huachuca Morning Meeting Investigation
-
-Persistent investigable target: an alleged early-morning meeting at Fort Huachuca on September 9, 2025, whose attendees include (per witness) a congressman and a Daily Wire contributor.
-
-Evidence Count: 4
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1567.1, A-1567.2, A-1567.3, C-4426, C-4418, C-4409, N-363, N-266, N-364, N-361*
-
----
-
-**N-10371** Mark Amodei September 9 Alibi Verification
+**N-10345** Mark Amodei September 9 Alibi Verification
 
 Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Denizen's record-based analysis of missed morning roll calls.
 
@@ -465,7 +452,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10372** Cabot Phillips Fort Huachuca Presence Verification
+**N-10346** Cabot Phillips Fort Huachuca Presence Verification
 
 Verification target: whether Cabot Phillips was in fact at Fort Huachuca on September 9, 2025; pending response to host's outreach.
 
@@ -478,7 +465,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Verification target: whether Brian Harpole attended the Fort Huachuca morning meeting; travel logs cited as enabling but not confirming attendance.
 
@@ -487,11 +474,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1567.2, C-4418, N-266, N-10370*
+*Related: A-1567.2, C-4418, N-266, N-10305*
 
 ---
 
-**N-10374** Erika Kirk Pre-Charlie Dating History Verification
+**N-10348** Erika Kirk Pre-Charlie Dating History Verification
 
 Verification target: whether Erika Kirk publicly stated she never dated anyone before Charlie Kirk, and the status of social-media evidence showing otherwise (Cabot Phillips).
 
@@ -681,7 +668,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10238** Daily Wire Intern Covert Recording Operation
+**N-10225** Daily Wire Intern Covert Recording Operation
 
 Reused topic cited by new claims in this episode.
 
@@ -689,7 +676,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Reused topic cited by new claims in this episode.
 
@@ -697,7 +684,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Reused topic cited by new claims in this episode.
 
@@ -705,7 +692,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Reused topic cited by new claims in this episode.
 
@@ -713,7 +700,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10333** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
+**N-10312** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
 
 Reused topic cited by new claims in this episode.
 
@@ -721,7 +708,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Reused topic cited by new claims in this episode.
 
@@ -729,7 +716,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10393** Liberty University Funding History
+**N-10366** Liberty University Funding History
 
 Reused topic cited by new claims in this episode.
 
@@ -737,7 +724,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Reused topic cited by new claims in this episode.
 
@@ -745,7 +732,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Reused topic cited by new claims in this episode.
 
@@ -753,7 +740,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Reused topic cited by new claims in this episode.
 
@@ -761,7 +748,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10451** USS Liberty Incident Cover-up Investigation
+**N-10420** USS Liberty Incident Cover-up Investigation
 
 Reused topic cited by new claims in this episode.
 
@@ -769,7 +756,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-10912** Zachary Lewis Daily Wire Kids Case
+**N-10833** Zachary Lewis Daily Wire Kids Case
 
 Reused topic cited by new claims in this episode.
 
@@ -785,16 +772,16 @@ First named by the host at 00:22:56 in episode 050. Pen name the host says Ben S
 
 ---
 
-**N-11024** Fort Huachuca 9/11 Affidavit Claim
+**N-10943** Fort Huachuca 9/11 Affidavit Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's statement that Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9/11 from people who asserted that prepping took place there; no case or affiant is named.
 
 *Related: C-4437*
 
 ---
 
-**N-11025** Thomas Sowell Interview Retaliation Allegation
+**N-10944** Thomas Sowell Interview Retaliation Allegation
 
 Node Type: Topic
 The host's allegation that Ben Shapiro's team arranged a paid interview with Thomas Sowell, timed to her Tucker Carlson interview, to hurt her.
@@ -803,7 +790,7 @@ The host's allegation that Ben Shapiro's team arranged a paid interview with Tho
 
 ---
 
-**N-11026** Shapiro Legal Actions Against Candace Owens
+**N-10945** Shapiro Legal Actions Against Candace Owens
 
 Node Type: Topic
 The host's account that Ben Shapiro has brought three court proceedings against her, including a suit tied to her interview with a USS Liberty survivor and a suit over liked tweets.
@@ -865,7 +852,7 @@ Claim: Per a post on X by Mark Amodei that the host reads, on September 9 he was
 Anchored Artifacts: A-1564.1
 Mentions: N-363
 
-Related Nodes: N-10371
+Related Nodes: N-10345
 
 Investigative Direction: Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record.
 
@@ -880,7 +867,7 @@ Claim: Per Diligent Denizen's X post that the host reads, Mark Amodei was not pr
 Anchored Artifacts: A-1565.1
 Mentions: N-363, N-365
 
-Related Nodes: N-10371
+Related Nodes: N-10345
 
 Investigative Direction: Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call.
 
@@ -895,7 +882,7 @@ Claim: The host says that after she sent Mitch a photograph of Cabot Phillips wi
 Anchored Artifacts: A-1566.1
 Mentions: N-361, N-364
 
-Related Nodes: N-10372
+Related Nodes: N-10346
 
 Investigative Direction: Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach.
 
@@ -910,7 +897,7 @@ Claim: The host says she was given the travel logs for Brian Harpole and that, p
 Anchored Artifacts: A-1567.2
 Mentions: N-266
 
-Related Nodes: N-10370, N-10373
+Related Nodes: N-10305, N-10347
 
 Investigative Direction: Obtain or display the actual travel logs; corroborate against airline / charter records; await response from Brian Harpole to host's iMessage outreach.
 
@@ -927,7 +914,7 @@ Claim: The host reports that Mitch's reported access to Fort Huachuca base, his 
 Anchored Artifacts: A-1567.1, A-1567.3
 Mentions: N-361
 
-Related Nodes: N-10370
+Related Nodes: N-10305
 
 Investigative Direction: Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions.
 
@@ -944,7 +931,7 @@ Claim: The host says someone told her it was going viral on X that Erika Kirk cl
 Anchored Artifacts: None directly captured (Erika Kirk's original statement and the cited social-media evidence are referenced only secondhand; host says "I think we can show that" but the transcript captures no on-screen display).
 Mentions: N-2, N-364, N-1
 
-Related Nodes: N-10374
+Related Nodes: N-10348
 
 Investigative Direction: Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein.
 
@@ -977,7 +964,7 @@ Transcript Snippet: some people noticed that he wasn't on the AmFest list for ye
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10268, N-10000
+Related Nodes: N-10252, N-10000
 Investigative Direction: Compare archived AmFest speaker lists for 2019 to 2025 to confirm the years Shapiro was or was not listed.
 
 ---
@@ -992,7 +979,7 @@ Transcript Snippet: as I was going to speak in Dallas at their YWLS convention t
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10008, N-10238
+Related Nodes: N-10008, N-10225
 Supports: C-2528
 Investigative Direction: Obtain the host's earlier-episode evidence on the YWLS intern and any Daily Wire or YWLS record of the intern's role.
 
@@ -1008,7 +995,7 @@ Transcript Snippet: he began working behind the scenes to have Jewish donors sta
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
-Related Nodes: N-10268
+Related Nodes: N-10252
 Supports: C-361
 Investigative Direction: Seek Charlie Kirk's own messages or contemporaneous accounts naming the donors and the request; ask Shapiro or TPUSA to confirm or deny.
 
@@ -1024,7 +1011,7 @@ Transcript Snippet: this is what was divulged to me from Andrew Kolvet at the ti
 
 Anchored Artifacts: 
 Mentions: N-14, N-97, N-3
-Related Nodes: N-10268
+Related Nodes: N-10252
 Investigative Direction: Obtain TPUSA sponsorship and advertising records for AmFest 2024; ask Kolvet to confirm or deny the conversation.
 
 ---
@@ -1182,7 +1169,7 @@ Transcript Snippet: Ben had his team reach out and schedule an interview with Th
 
 Anchored Artifacts: 
 Mentions: N-97, N-110, N-3
-Related Nodes: N-11025
+Related Nodes: N-10944
 Investigative Direction: Find the Daily Wire's Sowell interview release date and any payment or booking records; ask Daily Wire about the motive the host alleges.
 
 ---
@@ -1197,7 +1184,7 @@ Transcript Snippet: Interview with Tucker is on the 15th. I think it premieres o
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-97, N-110
-Related Nodes: N-11025
+Related Nodes: N-10944
 Investigative Direction: Compare the publication timestamps of the Carlson interview and the Daily Wire's Sowell interview.
 
 ---
@@ -1312,7 +1299,7 @@ Transcript Snippet: He has issued thus far three court proceedings, okay?
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-11026
+Related Nodes: N-10945
 Investigative Direction: Search state and federal dockets for cases between the host and Ben Shapiro or the Daily Wire and list them.
 
 ---
@@ -1327,7 +1314,7 @@ Transcript Snippet: people working behind the scenes to call advertisers attempt
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10416, N-10238
+Related Nodes: N-10389, N-10225
 Supports: C-2528
 Investigative Direction: Obtain advertiser communications and the intern evidence; ask Daily Wire to respond.
 
@@ -1343,7 +1330,7 @@ Transcript Snippet: I have put up with the pettiness of even suing me because I 
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10451, N-11026
+Related Nodes: N-10420, N-10945
 Investigative Direction: Locate the complaint and the interview episode it refers to and compare the pleaded basis with the host's account.
 
 ---
@@ -1358,7 +1345,7 @@ Transcript Snippet: Here's a million dollars. I'm sorry you're dead.
 
 Anchored Artifacts: 
 Mentions: N-97, N-3, N-1
-Related Nodes: N-10268
+Related Nodes: N-10252
 Investigative Direction: Obtain TPUSA sponsorship records and any Daily Wire spend on Turning Point events or Charlie Kirk's show; note the line is the host's paraphrase.
 
 ---
@@ -1403,7 +1390,7 @@ Transcript Snippet: The same holds true of Megyn Kelly, a person I consider a fr
 
 Anchored Artifacts: A-1561.1
 Mentions: N-97, N-46, N-22
-Related Nodes: N-10406
+Related Nodes: N-10379
 Supports: C-4393
 Investigative Direction: Obtain the full speech video to confirm wording and the passages naming Carlson and Kelly.
 
@@ -1478,7 +1465,7 @@ Transcript Snippet: who he fought for till the very end against the Jewish donor
 
 Anchored Artifacts: 
 Mentions: N-1, N-97, N-22
-Related Nodes: N-10268
+Related Nodes: N-10252
 Supports: C-4401, C-361
 Investigative Direction: Identify the donors and any communications between them and Shapiro or Charlie Kirk's team; separate this from Carlson's own statement, which does not name Shapiro as a cause.
 
@@ -1509,7 +1496,7 @@ Transcript Snippet: fire half of your force that was involved in Daily Wire Kids
 
 Anchored Artifacts: 
 Mentions: N-97, N-1
-Related Nodes: N-10912
+Related Nodes: N-10833
 Investigative Direction: Check Daily Wire Kids layoff reporting from 2025 and any sponsorship disclosure for Charlie Kirk's show.
 
 ---
@@ -1538,7 +1525,7 @@ Transcript Snippet: I am learning also that Fort Huachuca has ties to Liberty Un
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10370, N-10393
+Related Nodes: N-10305, N-10366
 Investigative Direction: Check Liberty University online or on-base education partnership listings for Fort Huachuca.
 
 ---
@@ -1553,7 +1540,7 @@ Transcript Snippet: we verified 1000% that he was where he said he was, that the
 
 Anchored Artifacts: 
 Mentions: N-3, N-361
-Related Nodes: N-10370, N-10326
+Related Nodes: N-10305
 Supports: C-4316, C-4336
 Investigative Direction: Publish or show the verification documents for the meeting's occurrence; obtain independent corroboration.
 
@@ -1569,7 +1556,7 @@ Transcript Snippet: We verified that Blake Neff, I mean sorry, not Blake Neff, p
 
 Anchored Artifacts: 
 Mentions: N-3, N-319, N-361
-Related Nodes: N-10370
+Related Nodes: N-10305
 Supports: C-3840, C-3944
 Investigative Direction: Obtain the incident report and any Army or Fort Huachuca record of Captain Adam Neff's posting and of Mitch's detention.
 
@@ -1585,7 +1572,7 @@ Transcript Snippet: We are looking only for somebody to debunk those two aspects
 
 Anchored Artifacts: 
 Mentions: N-3, N-361
-Related Nodes: N-10333, N-10370
+Related Nodes: N-10312, N-10305
 Qualifies: C-4409
 Investigative Direction: Track whether anyone comes forward on either point; the host separately says she cannot verify the people Mitch identified.
 
@@ -1615,7 +1602,7 @@ Transcript Snippet: Well, that's Vegas. 702 is Vegas.
 
 Anchored Artifacts: 
 Mentions: N-3, N-363
-Related Nodes: N-10370
+Related Nodes: N-10305
 Supports: C-3962
 Investigative Direction: Obtain the flight-tracking records for the SAM or RCH 702 call sign and the aircraft's actual routing.
 
@@ -1631,7 +1618,7 @@ Transcript Snippet: Mark Amodei apparently received a ton of phone calls from hi
 
 Anchored Artifacts: 
 Mentions: N-363
-Related Nodes: N-10371
+Related Nodes: N-10345
 Investigative Direction: Ask Amodei's office or local press whether constituent calls were received and what the office said.
 
 ---
@@ -1646,7 +1633,7 @@ Transcript Snippet: The meeting was concluding around 7:30 a. m. in the morning 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10370
+Related Nodes: N-10305
 Supports: C-3833
 Investigative Direction: Show the call logs and any timestamped records that fix the meeting's end time.
 
@@ -1662,7 +1649,7 @@ Transcript Snippet: you can get back to DC. You just can obviously in that time 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10370, N-10371
+Related Nodes: N-10305, N-10345
 Investigative Direction: Obtain flight-tracking data for the aircraft and compute arrival times against Amodei's recorded roll-call attendance.
 
 ---
@@ -1677,7 +1664,7 @@ Transcript Snippet: This means he could have spent the night in Arizona on Septe
 
 Anchored Artifacts: A-1565.1
 Mentions: N-365, N-363
-Related Nodes: N-10371
+Related Nodes: N-10345
 Supports: C-4416
 Investigative Direction: Verify Amodei's whereabouts the night of September 8 and any military flight manifests; the inference is Dennison's, not a record.
 
@@ -1693,7 +1680,7 @@ Transcript Snippet: I have now reached out to Brian Harpole twice.
 
 Anchored Artifacts: A-2751.1
 Mentions: N-3, N-266
-Related Nodes: N-10373
+Related Nodes: N-10347
 Supports: C-4418
 Investigative Direction: Ask Harpole to confirm receipt; the messages are not shown.
 
@@ -1709,7 +1696,7 @@ Transcript Snippet: There was one person who we are vetting who believes that th
 
 Anchored Artifacts: 
 Mentions: N-3, N-361
-Related Nodes: N-10370
+Related Nodes: N-10305
 Investigative Direction: Obtain the vetted person's evidence and the vetting results.
 
 ---
@@ -1724,7 +1711,7 @@ Transcript Snippet: And then we landed upon the Las Vegas congressman. We did no
 
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-363
-Related Nodes: N-10371
+Related Nodes: N-10345
 Supports: C-4351
 Investigative Direction: Obtain the photo set and Mitch's messages showing the sequence of identifications.
 
@@ -1740,7 +1727,7 @@ Transcript Snippet: And of course, this was before we discovered the planes and 
 
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-363
-Related Nodes: N-10370
+Related Nodes: N-10305
 Supports: C-4351
 Investigative Direction: Compare timestamps of Mitch's identification with the date the host's team first posted or found the plane route.
 
@@ -1756,7 +1743,7 @@ Transcript Snippet: Yeah, I do remember that Charlie told me about Cabot Phillip
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-364, N-2
-Related Nodes: N-10374
+Related Nodes: N-10348
 Supports: C-4423
 Investigative Direction: Seek corroboration from people close to Charlie Kirk and Cabot Phillips for the relationship and its dates.
 
@@ -1772,7 +1759,7 @@ Transcript Snippet: that he absolutely did not violate HIPAA when he suggested, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10447, N-10341
+Related Nodes: N-10416, N-10319
 Investigative Direction: Identify the third party and the surgeon; obtain call records for the three-way call and compare with Kolvet's and Erika Kirk's accounts.
 
 ---
@@ -1787,7 +1774,7 @@ Transcript Snippet: And he had a beard. And that was the thing that he kept sayi
 
 Anchored Artifacts: A-1566.1
 Mentions: N-3, N-361, N-364
-Related Nodes: N-10372
+Related Nodes: N-10346
 Supports: C-4426
 Investigative Direction: Compare Phillips's appearance and age in September 2025 with Mitch's description; obtain Mitch's earlier written description.
 
@@ -1803,7 +1790,7 @@ Transcript Snippet: I messaged Cabot Cabot Phillips twice today, actually, and a
 
 Anchored Artifacts: 
 Mentions: N-3, N-364
-Related Nodes: N-10372
+Related Nodes: N-10346
 Investigative Direction: Ask Phillips to confirm receipt and to state his whereabouts on September 9, 2025.
 
 ---
@@ -1818,7 +1805,7 @@ Transcript Snippet: he is missing from September 4th to September 10th on that s
 
 Anchored Artifacts: 
 Mentions: N-3, N-364
-Related Nodes: N-10372
+Related Nodes: N-10346
 Investigative Direction: Review Morning Wire episode credits for September 2025 and note the host says he does not appear daily.
 
 ---
@@ -1833,7 +1820,7 @@ Transcript Snippet: I didn't say this is Erika's ex-boyfriend from 2017.
 
 Anchored Artifacts: 
 Mentions: N-3, N-364, N-2, N-361
-Related Nodes: N-10374
+Related Nodes: N-10348
 Supports: C-4423
 Investigative Direction: Seek dated public posts or witnesses on the 2017 relationship; the host says the dating is not itself a problem.
 
@@ -1863,7 +1850,7 @@ Transcript Snippet: There's a lot of social media activity between her and his f
 
 Anchored Artifacts: A-2752.1
 Mentions: N-3, N-2, N-364
-Related Nodes: N-10374
+Related Nodes: N-10348
 Supports: C-4423
 Investigative Direction: Obtain the original posts with account names and dates; the transcript captures only the caption text.
 
@@ -1908,7 +1895,7 @@ Transcript Snippet: which we are putting the final touches on cuz I don't want t
 
 Anchored Artifacts: A-2755.1
 Mentions: N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Investigative Direction: Check the host's website for the publication date and compare its contents with her earlier Egyptian plane episodes.
 
 ---
@@ -1923,7 +1910,7 @@ Transcript Snippet: It leads you to Israel. It just does, okay? There's no quest
 
 Anchored Artifacts: A-2755.1
 Mentions: N-3
-Related Nodes: N-10253, N-10026
+Related Nodes: N-10239, N-10026
 Investigative Direction: Examine the published report for the evidentiary chain from the aircraft to any Israeli actor; the host does not state it here.
 
 ---
@@ -1938,7 +1925,7 @@ Transcript Snippet: Fort Huachuca is involved in lawsuits and sworn affidavits r
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11024, N-10370
+Related Nodes: N-10943, N-10305
 Investigative Direction: Identify the specific lawsuits and affidavits; the host names none.
 
 ---
@@ -1953,7 +1940,7 @@ Transcript Snippet: that's why we open you guys to this investigation to send us
 
 Anchored Artifacts: A-2753.1
 Mentions: N-3, N-361
-Related Nodes: N-10370
+Related Nodes: N-10305
 Investigative Direction: Track the volume and substance of tips received; the host asks for evidence about the morning of September 9, not character attacks on Mitch.
 
 ---
@@ -1982,7 +1969,7 @@ Transcript Snippet: Oh, that year I was actually JTF, and he's absolutely tellin
 
 Anchored Artifacts: A-2754.1
 Mentions: N-3, N-361
-Related Nodes: N-10370
+Related Nodes: N-10305
 Supports: C-4316
 Investigative Direction: Obtain the viewer's email and independent confirmation of a horse-riding training requirement at JTF Fort Huachuca and the general's name.
 
@@ -1998,7 +1985,7 @@ Transcript Snippet: I was like literally sued for liking tweets.
 
 Anchored Artifacts: 
 Mentions: N-3, N-97
-Related Nodes: N-11026
+Related Nodes: N-10945
 Investigative Direction: Locate the pleadings to see whether liked posts were cited, and compare with Boreing's reliance on a liked post in the town hall video.
 
 ---
@@ -2013,7 +2000,7 @@ Transcript Snippet: I'm going to take everything if you even let Tucker speak.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-22
-Related Nodes: N-10268
+Related Nodes: N-10252
 Supports: C-4401, C-361
 Investigative Direction: Identify the donors and obtain any message or witness account containing the threat; the words are the host's rendering.
 

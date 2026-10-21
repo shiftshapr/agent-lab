@@ -84,7 +84,7 @@
             "C-12490"
           ],
           "related_nodes": [
-            "N-10815"
+            "N-10739"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -135,7 +135,7 @@
             "C-12509"
           ],
           "related_nodes": [
-            "N-10814"
+            "N-10738"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
             "C-12505"
           ],
           "related_nodes": [
-            "N-10814"
+            "N-10738"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-12499"
           ],
           "related_nodes": [
-            "N-10814"
+            "N-10738"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -211,7 +211,7 @@
             "C-12498"
           ],
           "related_nodes": [
-            "N-10814"
+            "N-10738"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -448,11 +448,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10814",
-      "ref": "N-10814",
+      "@type": "Topic",
+      "@id": "N-10738",
+      "ref": "N-10738",
       "name": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent thesis, anchored across multiple artifacts in this episode, asserting that the Department of War, the State Department (via Under Secretary Sarah Rogers), Turning Point USA allies (Blake Neff, Andrew Kolvet), and financier Bill Ackman are jointly executing a messaging operation against the host's investigation into the Charlie Kirk assassination.",
       "related_artifacts": [
         "A-2313.1",
@@ -472,14 +472,15 @@
       "evidence_count": 5,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10815",
-      "ref": "N-10815",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10739",
+      "ref": "N-10739",
       "name": "NCRI Report Provenance and Authorship",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the authorship, funding, and institutional backing of the NCRI \"Permission to Kill\" report; host asserts it was authored by Kairos company, the former PR firm of Andrew Kolvet.",
       "related_artifacts": [
         "A-2312.1"
@@ -493,14 +494,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10816",
-      "ref": "N-10816",
-      "name": "Charlie Kirk September 9, 2025 Text Messages",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10730",
+      "ref": "N-10730",
+      "name": "Charlie Kirk Pre-Event Text Messages",
+      "type": "investigation_question",
       "description": "Host asserts (without artifact) that Charlie Kirk texted multiple people on September 9, 2025 stating he wanted the host back in his life. No artifact shown in this episode; requires independent verification.",
       "related_artifacts": [],
       "related_claims": [],
@@ -511,7 +513,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1057,11 +1060,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1081,14 +1084,16 @@
       "evidence_count": 0,
       "claim_count": 11,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10024",
       "ref": "N-10024",
       "name": "Kirk Assassination Investigation Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1099,14 +1104,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10045"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1116,14 +1123,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10235",
-      "ref": "N-10235",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10222",
+      "ref": "N-10222",
       "name": "Erika–Charlie 2018 Israel Airport Meeting Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1133,14 +1142,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10386",
-      "ref": "N-10386",
+      "@type": "Topic",
+      "@id": "N-10359",
+      "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1150,14 +1160,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10661",
-      "ref": "N-10661",
+      "@type": "Topic",
+      "@id": "N-10603",
+      "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1171,14 +1182,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10885",
-      "ref": "N-10885",
+      "@type": "Thing",
+      "@id": "N-10806",
+      "ref": "N-10806",
       "name": "Jennica Pounds DoD Special Government Employee Thread",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1188,14 +1200,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SocialMediaPosting"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@type": "Organization",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1207,14 +1220,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1227,14 +1242,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11191",
-      "ref": "N-11191",
+      "@type": "Organization",
+      "@id": "N-11107",
+      "ref": "N-11107",
       "name": "Pre-Born",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1245,14 +1262,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11195",
-      "ref": "N-11195",
+      "@type": "Topic",
+      "@id": "N-11111",
+      "ref": "N-11111",
       "name": "Department of War Information War Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1263,14 +1282,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10809"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11262",
-      "ref": "N-11262",
+      "@type": "Topic",
+      "@id": "N-11178",
+      "ref": "N-11178",
       "name": "Andrew Wilson TPUSA Debate Training Engagement",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1280,7 +1301,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1302,8 +1324,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11363",
-      "ref": "N-11363",
+      "@id": "N-11279",
+      "ref": "N-11279",
       "name": "Tax Network USA",
       "type": "organization",
       "description": "Tax-resolution firm advertised in the sponsor read at 00:40:51 in episode 145.",
@@ -1315,7 +1337,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -1438,7 +1462,7 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
@@ -1457,7 +1481,7 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
@@ -1476,7 +1500,7 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
@@ -1515,7 +1539,7 @@
         "A-2317.1"
       ],
       "related_nodes": [
-        "N-10814"
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:31:33",
@@ -1537,7 +1561,7 @@
         "A-2316.1"
       ],
       "related_nodes": [
-        "N-10814"
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:31:33",
@@ -1559,7 +1583,7 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-10814"
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:34:07",
@@ -1578,7 +1602,7 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-10814"
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:34:29",
@@ -1634,7 +1658,7 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-10814"
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:32:35",
@@ -1712,7 +1736,7 @@
         "A-2317.1"
       ],
       "related_nodes": [
-        "N-10814"
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:35:22",
@@ -1755,9 +1779,9 @@
       "claim": "The host says it was revealed that the Department of War has people on payroll who are attacking her for her investigation into Charlie Kirk's assassination, and says the administration took her \"I want war with all of you\" line literally.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
-        "N-10814",
-        "N-11195"
+        "N-10809",
+        "N-10738",
+        "N-11111"
       ],
       "tags": [
         "relevance:core"
@@ -1783,7 +1807,7 @@
         "A-3255.1"
       ],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [
         "relevance:context"
@@ -1972,7 +1996,7 @@
       "claim": "The host says John Mappin told her the campaign against her was a black propaganda campaign, psychological in nature, and that he did not know why it was happening to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10814"
+        "N-10738"
       ],
       "tags": [
         "relevance:context"
@@ -2013,7 +2037,7 @@
       "claim": "The host says her London event with the Mappins happened in the same few weeks that Erika first laid eyes on Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10235"
+        "N-10222"
       ],
       "tags": [
         "relevance:core"
@@ -2076,7 +2100,7 @@
         "A-2310.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2116,7 +2140,7 @@
       "claim": "The host says Justin Baldoni read the book series, bought the rights to make a film using his own movie studio as a passion project, and cast Blake Lively as the lead.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2137,7 +2161,7 @@
       "claim": "The host says that despite being cast as lead, Blake Lively saw herself in her own head as the writer and sought to edit the scripts, as learned through the host's investigative series.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2161,7 +2185,7 @@
       "claim": "The host says the Lively side had the media power to push a New York Times hit piece, and that the threat was that they would ruin Baldoni's life unless he handed over the rights to the movie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2327,7 +2351,7 @@
       "claim": "The host says Baldoni was up against an established power including the New York Times, WME, top PR people and the most famous woman in the world, who she says may or may not have been part of a peer pressure campaign.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2350,7 +2374,7 @@
         "A-3257.1"
       ],
       "related_nodes": [
-        "N-11191"
+        "N-11107"
       ],
       "tags": [
         "relevance:tangential"
@@ -2372,7 +2396,7 @@
         "A-3257.1"
       ],
       "related_nodes": [
-        "N-11191"
+        "N-11107"
       ],
       "tags": [
         "relevance:tangential"
@@ -2395,8 +2419,8 @@
       "claim": "The host says the wave of accounts pulling people away from the investigation looks like a very well-funded campaign, almost a military campaign like a psychological operation, and that she does not know where Andrew Wilson and similar accounts get their money.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11195",
-        "N-10814"
+        "N-11111",
+        "N-10738"
       ],
       "tags": [
         "relevance:core"
@@ -2464,7 +2488,7 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [
         "relevance:tangential"
@@ -2483,7 +2507,7 @@
         "A-2313.1"
       ],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [
         "relevance:context"
@@ -2612,7 +2636,7 @@
       "claim": "The host says Pounds got paranoid that documents State Department official Sarah Rogers was leaking to her were meant to set her up so she could be charged with a crime, and in doing so revealed the leak.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10814"
+        "N-10738"
       ],
       "tags": [
         "relevance:core"
@@ -2663,7 +2687,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10814"
+        "N-10738"
       ],
       "tags": [
         "relevance:core"
@@ -2689,8 +2713,8 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-10885",
-        "N-10888"
+        "N-10806",
+        "N-10809"
       ],
       "tags": [
         "relevance:core"
@@ -2836,8 +2860,8 @@
         "A-2318.1"
       ],
       "related_nodes": [
-        "N-10386",
-        "N-10900"
+        "N-10359",
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2861,7 +2885,7 @@
       "claim": "The host says that, allegedly, the Daily Wire's Mat Nuclear was arrested in Florida for making terrorist threats against a daycare, and that there is a news article about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -2881,7 +2905,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2899,7 +2923,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2941,7 +2965,7 @@
         "A-3260.1"
       ],
       "related_nodes": [
-        "N-11363"
+        "N-11279"
       ],
       "tags": [
         "relevance:tangential"
@@ -3003,7 +3027,7 @@
         "A-3261.2"
       ],
       "related_nodes": [
-        "N-10814"
+        "N-10738"
       ],
       "tags": [
         "relevance:context"
@@ -3023,7 +3047,7 @@
       "claim": "The host says she loves that Turning Point USA is using Andrew Wilson as their attack dog, which she says reveals to parents what the organization is.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11262",
+        "N-11178",
         "N-10000"
       ],
       "tags": [
@@ -3044,7 +3068,7 @@
       "claim": "The host says Charlie Kirk texted multiple people on September 9 saying he wanted her back, that they will never tell the truth about it, and that she knows for a fact it is true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10816"
+        "N-10730"
       ],
       "tags": [
         "relevance:core"

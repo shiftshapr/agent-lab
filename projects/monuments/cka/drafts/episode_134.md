@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Claim Range: C-11506–C-11592
-  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-186, N-217, N-367, N-506, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764, N-11143
+  - Reused Nodes Appearing: N-11361, N-10681, N-10691, N-7, N-40, N-186, N-217, N-367, N-506, N-10100, N-10106, N-10165, N-10193, N-10220, N-10319, N-10321, N-10328, N-10625, N-10651, N-10655, N-10660, N-10697, N-10698, N-10983, N-10693, N-10086
  - (see registers)
 
 ## I. Meta-Data
@@ -28,7 +28,7 @@
 - Analysis date: 2026-07-30
 - Ledger continuation summary:
  - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
- - New Nodes Introduced: N-10759, N-10760, N-10761, N-10763
+ - New Nodes Introduced: N-10689, N-10690, N-10692
  - Reused Nodes Appearing: N-2
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
@@ -54,7 +54,7 @@ Video Timestamp: 00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11536, N-1, N-10763*
+*Related: C-11536, N-1, N-10692*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:18:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11541, N-10764*
+*Related: C-11541, N-10693*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:33:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11568, C-11570, N-1, N-10761*
+*Related: C-11568, C-11570, N-1, N-10690*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:09:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11521, N-10762*
+*Related: C-11521, N-10691*
 
 ---
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:12:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-11530, N-10762*
+*Related: C-11530, N-10691*
 
 ---
 
@@ -303,24 +303,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-11568, C-11570, C-11536, A-2205.1, A-2207.1, N-10759, N-10761, N-10764*
+*Related: C-11568, C-11570, C-11536, A-2205.1, A-2207.1, N-10681, N-10690, N-10693*
 
 ---
 
-**N-10759** Kirk Burial / Cremation Status
-
-Persistent investigation target: whether Charlie Kirk was actually interred at a Catholic cemetery, or subject to a mock burial before/after cremation.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: N-10760, N-10763, N-10764*
-
----
-
-**N-10760** Mock Burial Allegation
+**N-10689** Mock Burial Allegation
 
 Specific allegation from unnamed tipster: Hansen Mortuary declined to participate in a mock burial, prompting TPUSA to relocate to a Catholic church arrangement via Erika's priest contact.
 
@@ -329,13 +316,13 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-10759, N-10763, N-10764*
+*Related: N-10681, N-10692, N-10693*
 
 *Flag: Allegations from unnamed source; referenced text messages not displayed in episode.*
 
 ---
 
-**N-10761** Kirk Autopsy Heart/Lung Hemorrhage Causation
+**N-10690** Kirk Autopsy Heart/Lung Hemorrhage Causation
 
 Investigation target concerning the cause of hemorrhaging observed around Kirk's heart and both lungs – bullet-trajectory effects, post-injury medical intervention (hospital resuscitation), or alternative blunt force trauma (e.g., exploding microphone).
 
@@ -348,7 +335,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10762** "Other Angle" Rooftop Footage Existence
+**N-10691** "Other Angle" Rooftop Footage Existence
 
 Investigation target concerning the alleged second rooftop video angle (claimed by Blake Neff and by podcast participant) showing the shooter pulling a rifle from his pants / assembling a weapon.
 
@@ -361,7 +348,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10763** Hansen Mortuary Role
+**N-10692** Hansen Mortuary Role
 
 Investigation target concerning Hansen Mortuary's involvement: receipt of Kirk's body on Sept 11, alleged refusal to participate in mock burial, and transition of remains to a Catholic funeral.
 
@@ -370,11 +357,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-11536, A-2205.1, N-10759, N-10760*
+*Related: C-11536, A-2205.1, N-10681, N-10689*
 
 ---
 
-**N-10764** Kirk Religious Affiliation Status
+**N-10693** Kirk Religious Affiliation Status
 
 Investigation target concerning Charlie Kirk's actual religious affiliation at time of death: claimed by TPUSA as evangelical/non-denominational; Catholic funeral mass creates conflict with that claim.
 
@@ -383,7 +370,17 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-11541, A-2206.1, N-2, N-10760*
+*Related: C-11541, A-2206.1, N-2, N-10689*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-11587*
 
 ---
 
@@ -491,7 +488,7 @@ Host of the show on which Kolvet gave the pre-recorded interview.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing topic reused for new claims in this episode.
 
@@ -499,7 +496,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11065** Preliminary Hearing Influencer Invitation Question
+**N-10983** Preliminary Hearing Influencer Invitation Question
 
 Existing topic reused for new claims in this episode.
 
@@ -507,7 +504,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10769** Losee Center Gun Verification Gap
+**N-10698** Losee Center Gun Verification Gap
 
 Existing topic reused for new claims in this episode.
 
@@ -515,7 +512,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10172** Multiple Decoys Theory (4 Decoys Named)
+**N-10165** Multiple Decoys Theory (4 Decoys Named)
 
 Existing topic reused for new claims in this episode.
 
@@ -523,7 +520,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10343** Tyler Robinson Rooftop Access Timeline
+**N-10321** Tyler Robinson Rooftop Access Timeline
 
 Existing topic reused for new claims in this episode.
 
@@ -531,7 +528,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -539,7 +536,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10104** Catholic Conversion Rumor
+**N-10100** Catholic Conversion Rumor
 
 Existing topic reused for new claims in this episode.
 
@@ -547,7 +544,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10350** Charlie Kirk Catholicism Journey
+**N-10328** Charlie Kirk Catholicism Journey
 
 Existing topic reused for new claims in this episode.
 
@@ -555,23 +552,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10164** Charlie Kirk Catholic Trajectory Verification
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-11542*
-
----
-
-**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-11538, C-11539, C-11546, C-11551, C-11554, C-11555, C-11561*
-
----
-
-**N-10233** Priest Presence at Ole Miss Event
+**N-10220** Priest Presence at Ole Miss Event
 
 Existing topic reused for new claims in this episode.
 
@@ -579,7 +560,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10751** Charlie Kirk Cremation/Burial Status Verification
+**N-10681** Charlie Kirk Cremation/Burial Status Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -587,7 +568,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10725** Officer Bagley Body-Cam Battery Anomaly
+**N-10660** Officer Bagley Body-Cam Battery Anomaly
 
 Existing topic reused for new claims in this episode.
 
@@ -595,7 +576,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Existing topic reused for new claims in this episode.
 
@@ -603,7 +584,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10687** Frank Turek CPR Claim Verification
+**N-10625** Frank Turek CPR Claim Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -611,7 +592,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10768** Shaped Charge / Exploding Microphone Hypothesis
+**N-10697** Shaped Charge / Exploding Microphone Hypothesis
 
 Existing topic reused for new claims in this episode.
 
@@ -619,7 +600,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -627,7 +608,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10719** Prosecution Non-Call of Rooftop Eyewitness
+**N-10655** Prosecution Non-Call of Rooftop Eyewitness
 
 Existing topic reused for new claims in this episode.
 
@@ -635,9 +616,9 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11143** Rooftop Screwdriver Claim
+**N-10086** Screwdriver Evidence Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The dispute over whether a screwdriver was recovered from or used on the Losee rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown.
 
 *Related: C-11564, C-11565, C-11580, C-11581*
@@ -655,7 +636,7 @@ Claim: Per the prosecution's memorandum the host reads, the bullet, or at least 
 Anchored Artifacts: A-2207.1
 Mentions: N-1
 
-Related Nodes: N-10761
+Related Nodes: N-10690
 
 Investigative Direction: Obtain the complete defense memorandum and compare with the medical examiner's full autopsy report and any independent forensic review.
 
@@ -670,7 +651,7 @@ Claim: Per the prosecution's memorandum the host reads, the medical examiner obs
 Anchored Artifacts: A-2207.1
 Mentions: N-1
 
-Related Nodes: N-10761
+Related Nodes: N-10690
 
 Investigative Direction: Obtain complete autopsy findings; consult independent medical expert on whether hemorrhaging is consistent with the described bullet trajectory, post-injury resuscitation, or alternative blunt force trauma.
 
@@ -685,7 +666,7 @@ Claim: Blake Neff posted that there exists another rooftop video from a differen
 Anchored Artifacts: A-2212.1
 Mentions: N-159
 
-Related Nodes: N-10762
+Related Nodes: N-10691
 
 Investigative Direction: Verify the claim via courtroom exhibit records; determine whether any second rooftop footage was formally entered as evidence in the preliminary hearing.
 
@@ -717,7 +698,7 @@ Claim: In a Sky News clip the host plays, a reporter says that on 2025-09-11 at 
 Anchored Artifacts: A-2205.1
 Mentions: N-1
 
-Related Nodes: N-10763
+Related Nodes: N-10692
 
 Investigative Direction: Cross-reference Sky News broadcast archive; confirm mortuary receipt and timing against Hansen Mortuary records.
 
@@ -732,7 +713,7 @@ Claim: In a clip the host plays from Alex Clark's show, Andrew Kolvet says Charl
 Anchored Artifacts: A-2206.1
 Mentions: N-14, N-99, N-2, N-1
 
-Related Nodes: N-10764
+Related Nodes: N-10693
 
 Investigative Direction: Obtain the full Alex Clark interview recording; verify pre-record date relative to Sept 20 funeral mass; identify Erika's referenced social media exchange.
 
@@ -795,7 +776,7 @@ Claim: On a show the host calls the "Beavis and Butt-Head show," a speaker ident
 Anchored Artifacts: A-2213.1
 Mentions: N-14
 
-Related Nodes: N-10762
+Related Nodes: N-10691
 
 Investigative Direction: Identify the actual podcast; obtain the full episode; verify whether any second rooftop footage was formally entered as evidence.
 
@@ -855,7 +836,7 @@ Transcript Snippet: Do you believe that Tyler Robinson murdered your husband? >>
 
 Anchored Artifacts: A-2878.1
 Mentions: N-2, N-40, N-1
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Locate the original interview in which Erika Kirk was asked this question and confirm date and outlet.
 
@@ -871,7 +852,7 @@ Transcript Snippet: After I sat down with her, there was no evidence which indic
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-40, N-1
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare the host's private interview with Erika to the evidence presented at the preliminary hearing.
 
@@ -887,7 +868,7 @@ Transcript Snippet: Internet, I can say definitively, especially after the exclu
 
 Anchored Artifacts: A-2879.1
 Mentions: N-3
-Related Nodes: N-10769
+Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Obtain the released video and its provenance; compare with the preliminary hearing exhibits.
 
@@ -903,7 +884,7 @@ Transcript Snippet: I'm sorry, Tyler's defense filed the memorandum. They highli
 
 Anchored Artifacts: A-2207.1
 Mentions: N-1, N-40
-Related Nodes: N-10761
+Related Nodes: N-10690
 Tags: relevance:core
 Investigative Direction: Pull the filed memorandum from the court docket and identify which party filed it and when.
 
@@ -919,7 +900,7 @@ Transcript Snippet: but they're bringing literal influencers to court and lying.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11065
+Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Identify which influencers attended the preliminary hearing and who invited them; compare their public accounts with the exhibits.
 
@@ -935,7 +916,7 @@ Transcript Snippet: bringing influencers into a courtroom and then instructing t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11065
+Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Find who coordinated influencer attendance at the hearing and any instructions given to them.
 
@@ -951,7 +932,7 @@ Transcript Snippet: Effectively, we were saying this person was a decoy and neve
 
 Anchored Artifacts: A-2211.1
 Mentions: N-3, N-267
-Related Nodes: N-10172, N-10769
+Related Nodes: N-10165, N-10698
 Tags: relevance:core
 Investigative Direction: Compare the rooftop footage frame by frame with the position, angle and timing of the fatal shot.
 
@@ -967,7 +948,7 @@ Transcript Snippet: You would have seen the gravel kick up if he had shot a.30-0
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10769
+Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Have a ballistics expert assess whether muzzle blast would disturb roof gravel at that position and distance.
 
@@ -983,7 +964,7 @@ Transcript Snippet: Even our source, the person who recorded, in that recording,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10769
+Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Interview the person who recorded the rooftop video and review the raw file for any weapon.
 
@@ -999,7 +980,7 @@ Transcript Snippet: it is the defense that demanded that it be kept from the pub
 
 Anchored Artifacts: A-2212.1
 Mentions: N-159, N-40
-Related Nodes: N-10769
+Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Check the docket for the defense motion seeking to limit public release of the rooftop exhibit.
 
@@ -1015,7 +996,7 @@ Transcript Snippet: I've never heard anybody make the claim that there's another
 
 Anchored Artifacts: A-2212.1
 Mentions: N-159, N-3
-Related Nodes: N-10762
+Related Nodes: N-10691
 Qualifies: C-11521
 Tags: relevance:core
 Investigative Direction: Ask the prosecution and court whether a second rooftop angle exists in the exhibit list.
@@ -1032,7 +1013,7 @@ Transcript Snippet: The individual does not look like Tyler Robinson because the
 
 Anchored Artifacts: A-2212.1
 Mentions: N-159, N-40
-Related Nodes: N-10769
+Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Measure resolvable detail in the rooftop clip at the camera-to-subject distance.
 
@@ -1048,7 +1029,7 @@ Transcript Snippet: We have close-up footage of the person who looks enough like
 
 Anchored Artifacts: A-2212.1
 Mentions: N-159, N-40
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Obtain the campus footage exhibits and any statement from Tyler Robinson's parents about identification.
 
@@ -1064,7 +1045,7 @@ Transcript Snippet: There's zero proof his parents said that.
 
 Anchored Artifacts: 
 Mentions: N-3, N-159, N-40
-Related Nodes: N-10110
+Related Nodes: N-10106
 Contradicts: C-11525
 Tags: relevance:core
 Investigative Direction: Check charging documents and hearing testimony for any parental identification from footage.
@@ -1081,7 +1062,7 @@ Transcript Snippet: the footage that also captured a match of Tyler's car arrivi
 
 Anchored Artifacts: A-2212.1
 Mentions: N-3, N-159, N-40
-Related Nodes: N-10343
+Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Review the car-arrival footage exhibit and any plate or vehicle-match analysis.
 
@@ -1097,7 +1078,7 @@ Transcript Snippet: we know a gun was fired from the spot because a bullet comin
 
 Anchored Artifacts: A-2212.1
 Mentions: N-159, N-1
-Related Nodes: N-10761
+Related Nodes: N-10690
 Tags: relevance:core
 Investigative Direction: Compare the autopsy's wound trajectory description with the rooftop and Charlie's seat positions.
 
@@ -1113,7 +1094,7 @@ Transcript Snippet: Recoil from a prone firing position can easily be minimal
 
 Anchored Artifacts: A-2212.1
 Mentions: N-159
-Related Nodes: N-10769
+Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Consult a firearms expert on visible recoil of a rifle fired prone from a rooftop.
 
@@ -1129,7 +1110,7 @@ Transcript Snippet: I did check with people inside the courtroom that day, and t
 
 Anchored Artifacts: A-2213.1
 Mentions: N-14
-Related Nodes: N-10762
+Related Nodes: N-10691
 Supports: C-11530
 Tags: relevance:core
 Investigative Direction: Identify the show and speakers, and obtain the court exhibit list to see whether a second angle was admitted.
@@ -1146,7 +1127,7 @@ Transcript Snippet: we platformed them as they said that it was in 4K and it was
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11065
+Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Collect the influencers' original posts describing the footage as 4K and identifying Tyler.
 
@@ -1162,7 +1143,7 @@ Transcript Snippet: they were initially very open about Charlie's body.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Collect early TPUSA and family statements and posts about Charlie's body, transport and viewing.
 
@@ -1178,7 +1159,7 @@ Transcript Snippet: I've actually been told that it was allegedly Elizabeth McCo
 
 Anchored Artifacts: 
 Mentions: N-217, N-186, N-2, N-1
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Ask Elizabeth McCoy or Erika's team who filmed the casket video, and check the metadata of the posted clip.
 
@@ -1194,7 +1175,7 @@ Transcript Snippet: in Charlie's open casket in Utah. That's September 11th, mid
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Check the casket video's capture time and location against the Sept 10 to 12 travel records.
 
@@ -1210,7 +1191,7 @@ Transcript Snippet: Erika moves to post the footage that Elizabeth actually capt
 
 Anchored Artifacts: A-2880.1
 Mentions: N-2, N-217, N-1
-Related Nodes: N-10201
+Related Nodes: N-10193
 Supports: C-3906
 Tags: relevance:core
 Investigative Direction: Compare the post date with the capture date and where the casket was on each day.
@@ -1227,7 +1208,7 @@ Transcript Snippet: He is now having a Catholic funeral mass that is held at a C
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10323
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Confirm the date, church and officiant of the funeral mass from parish and TPUSA announcements.
 
@@ -1243,7 +1224,7 @@ Transcript Snippet: obviously was not open to the public, but it was not hidden 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10323
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Obtain parish schedule and accounts from parishioners who saw the hearse.
 
@@ -1259,7 +1240,7 @@ Transcript Snippet: there was an entire mockingbird campaign which was launched 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104, N-10350
+Related Nodes: N-10100, N-10328
 Tags: relevance:context
 Investigative Direction: Collect the host's original statement on Charlie's conversion and the coordinated responses that followed.
 
@@ -1275,7 +1256,7 @@ Transcript Snippet: It was a conversation that was happening even between me and
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10164, N-10350
+Related Nodes: N-10100, N-10328
 Tags: relevance:context
 Investigative Direction: Look for messages or witnesses to the host's conversations with Charlie about Catholicism.
 
@@ -1291,7 +1272,7 @@ Transcript Snippet: It was something that was a high priority in the immediate a
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104
+Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Compile TPUSA's early statements on Charlie's faith and their timing.
 
@@ -1307,7 +1288,7 @@ Transcript Snippet: No. But he really loved Catholic mass. He loved the ritual o
 
 Anchored Artifacts: A-2206.1
 Mentions: N-14, N-1, N-99
-Related Nodes: N-10350
+Related Nodes: N-10328
 Supports: C-11541
 Tags: relevance:core
 Investigative Direction: Obtain the full Alex Clark interview.
@@ -1324,7 +1305,7 @@ Transcript Snippet: Andrew was texting with Erika throughout this recording to e
 
 Anchored Artifacts: A-2206.1
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10104
+Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Obtain the unedited recording and Kolvet's and Erika's messages during the taping.
 
@@ -1340,7 +1321,7 @@ Transcript Snippet: it was a pre-record which took place before Charlie's Cathol
 
 Anchored Artifacts: A-2206.1
 Mentions: N-14, N-1
-Related Nodes: N-10323
+Related Nodes: N-10193
 Qualifies: C-11541
 Tags: relevance:core
 Investigative Direction: Establish the recording date of the Alex Clark episode against the Sept 20 funeral mass.
@@ -1357,7 +1338,7 @@ Transcript Snippet: We received a tip. And this tip has checked out in a major w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10760
+Related Nodes: N-10689
 Tags: relevance:core
 Investigative Direction: Identify what in the tip has been independently verified and by whom.
 
@@ -1373,7 +1354,7 @@ Transcript Snippet: the person alleged with proof that I deem to be credible, um
 
 Anchored Artifacts: A-2881.1
 Mentions: N-1, N-3
-Related Nodes: N-10760, N-10763
+Related Nodes: N-10689, N-10692
 Tags: relevance:core
 Investigative Direction: Ask Hansen Mortuary whether it was asked to host or arrange a mock burial; obtain the text messages the host says she read.
 
@@ -1389,7 +1370,7 @@ Transcript Snippet: it's because I read through text messages uh that were sent 
 
 Anchored Artifacts: A-2881.1
 Mentions: N-3
-Related Nodes: N-10760
+Related Nodes: N-10689
 Tags: relevance:core
 Investigative Direction: Obtain or have an independent party review the text messages the host describes.
 
@@ -1405,7 +1386,7 @@ Transcript Snippet: So, I am told that Hansen declined to participate in a mock 
 
 Anchored Artifacts: A-2881.1
 Mentions: N-3
-Related Nodes: N-10760, N-10763
+Related Nodes: N-10689, N-10692
 Tags: relevance:core
 Investigative Direction: Identify which funeral homes or churches TPUSA contacted and what was requested.
 
@@ -1421,7 +1402,7 @@ Transcript Snippet: they landed upon the Catholic Church because of Erika's very
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10323, N-10233
+Related Nodes: N-10193, N-10220
 Tags: relevance:core
 Investigative Direction: Identify the priest and the arrangements made between the family and the parish.
 
@@ -1437,7 +1418,7 @@ Transcript Snippet: rather than flying her family members out there, she coordin
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10233
+Related Nodes: N-10220
 Tags: relevance:core
 Investigative Direction: Check flight and travel records for the priest and for Erika's family members on Sept 10 to 11.
 
@@ -1453,7 +1434,7 @@ Transcript Snippet: There was that Turning Point event in October, which feature
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10233
+Related Nodes: N-10220
 Supports: C-2426
 Tags: relevance:core
 Investigative Direction: Review event footage and credential lists for the priest at Ole Miss.
@@ -1470,7 +1451,7 @@ Transcript Snippet: On the day of that Catholic funeral mass, Charlie's casket w
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10323
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Interview attendees of the funeral mass about the casket's condition.
 
@@ -1486,7 +1467,7 @@ Transcript Snippet: Afterward, it was in fact taken to a Catholic cemetery and c
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10759, N-10323
+Related Nodes: N-10681, N-10193
 Tags: relevance:core
 Investigative Direction: Identify the cemetery and attendees and obtain interment permits.
 
@@ -1502,7 +1483,7 @@ Transcript Snippet: They did not see Charlie lowered into a ground. There was no
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10759, N-10751
+Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Request cemetery plot, grave opening and interment records.
 
@@ -1518,7 +1499,7 @@ Transcript Snippet: Rather, they were told, "You leave and we'll handle the rest
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10759, N-10751
+Related Nodes: N-10681
 Supports: C-3904
 Tags: relevance:core
 Investigative Direction: Interview attendees about what they were told at the cemetery and who told them.
@@ -1535,7 +1516,7 @@ Transcript Snippet: No one who attended Charlie's actual funeral on that day can
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10759, N-10751
+Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Ask funeral attendees whether any witnessed interment.
 
@@ -1551,7 +1532,7 @@ Transcript Snippet: I am led to believe that it was indeed a mock burial done as
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10760
+Related Nodes: N-10689
 Tags: relevance:core
 Investigative Direction: Identify the friend and the cemetery or church role in the ceremony.
 
@@ -1567,7 +1548,7 @@ Transcript Snippet: I am led to believe that he was either before or after crema
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10759, N-10751
+Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Seek cremation authorization or death certificate disposition fields.
 
@@ -1583,7 +1564,7 @@ Transcript Snippet: that is the reason that I believe Erika chose to do a Cathol
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10760, N-10323
+Related Nodes: N-10689, N-10193
 Tags: relevance:core
 Investigative Direction: Compare the family's stated reasons for the Catholic mass with the parish record.
 
@@ -1599,7 +1580,7 @@ Transcript Snippet: Go look up anybody recently who has died. You can find where
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:context
 Investigative Direction: Check public records on those burials and any TPUSA statement of its reason for privacy.
 
@@ -1630,7 +1611,7 @@ Transcript Snippet: With a screwdriver, what are you talking about? Where is tha
 
 Anchored Artifacts: 
 Mentions: N-3, N-159
-Related Nodes: N-11143
+Related Nodes: N-10086
 Tags: relevance:core
 Investigative Direction: Review the exhibit list and item logs for any screwdriver recovered from the roof.
 
@@ -1646,7 +1627,7 @@ Transcript Snippet: Officer Bagley, oh just it just it went off. I don't know. I
 
 Anchored Artifacts: 
 Mentions: N-506, N-159
-Related Nodes: N-10725, N-11143
+Related Nodes: N-10660, N-10086
 Tags: relevance:core
 Investigative Direction: Obtain Bagley's body-cam records and activation logs for that day.
 
@@ -1677,7 +1658,7 @@ Transcript Snippet: It was in fact my producer corrected the prosecution that fi
 
 Anchored Artifacts: A-2207.1
 Mentions: N-3
-Related Nodes: N-10761
+Related Nodes: N-10690
 Revises: C-11509, C-11568, C-11570
 Tags: relevance:core
 Investigative Direction: Check the docket to confirm the filing party and date.
@@ -1694,7 +1675,7 @@ Transcript Snippet: he told us it went in this way just to make this make sense,
 
 Anchored Artifacts: A-2207.1
 Mentions: N-14, N-1
-Related Nodes: N-10341, N-10761
+Related Nodes: N-10319, N-10690
 Tags: relevance:core
 Investigative Direction: Find Kolvet's earlier description and compare to the autopsy trajectory.
 
@@ -1710,7 +1691,7 @@ Transcript Snippet: You can do a cursory search and determine that your heart an
 
 Anchored Artifacts: A-2207.1
 Mentions: N-3, N-1
-Related Nodes: N-10761
+Related Nodes: N-10690
 Qualifies: C-11570
 Tags: relevance:core
 Investigative Direction: Ask an independent forensic pathologist whether post-mortem hemorrhage of this kind can occur.
@@ -1727,7 +1708,7 @@ Transcript Snippet: we have Frank Turek who tells us he realized in those critic
 
 Anchored Artifacts: 
 Mentions: N-7, N-1
-Related Nodes: N-10687
+Related Nodes: N-10625
 Tags: relevance:core
 Investigative Direction: Obtain Turek's original statement and the CPR timeline.
 
@@ -1743,7 +1724,7 @@ Transcript Snippet: also heard from Erika that, you know, he died instantly.
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10761
+Related Nodes: N-10690
 Tags: relevance:core
 Investigative Direction: Locate Erika's statement and compare it with medical and EMS timelines.
 
@@ -1759,7 +1740,7 @@ Transcript Snippet: But then we've also heard a scenario where they get his hear
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10761
+Related Nodes: N-10690
 Tags: relevance:core
 Investigative Direction: Review the hospital records and treatment timeline.
 
@@ -1775,7 +1756,7 @@ Transcript Snippet: I am a person who does believe that the microphone exploded 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10768, N-10761
+Related Nodes: N-10697, N-10690
 Tags: relevance:core
 Investigative Direction: Examine the microphone, shirt and chest injuries for blast or impact evidence.
 
@@ -1791,7 +1772,7 @@ Transcript Snippet: it would be interesting to know if he had bruising on his ch
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10761, N-10768
+Related Nodes: N-10690, N-10697
 Tags: relevance:core
 Investigative Direction: Review autopsy photographs and external examination notes.
 
@@ -1807,7 +1788,7 @@ Transcript Snippet: now that I have fully rinsed out any chance that the person 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10769
+Related Nodes: N-10698
 Supports: C-11517
 Tags: relevance:core
 Investigative Direction: Reconstruct the shot geometry and compare with the rooftop footage.
@@ -1824,7 +1805,7 @@ Transcript Snippet: I think that military man was tasked with being an acrobat.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10172, N-10769
+Related Nodes: N-10165, N-10698
 Tags: relevance:core
 Investigative Direction: Identify the rooftop person and any military or contractor ties.
 
@@ -1840,7 +1821,7 @@ Transcript Snippet: there is a reason why they don't want to bring in these witn
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10719
+Related Nodes: N-10655
 Tags: relevance:core
 Investigative Direction: Ask the prosecution and the witnesses whether any contact has occurred.
 
@@ -1856,7 +1837,7 @@ Transcript Snippet: they cite the exhibits 12.1 and 12.4 as proof of that.
 
 Anchored Artifacts: A-2882.1
 Mentions: N-3
-Related Nodes: N-11143
+Related Nodes: N-10086
 Tags: relevance:core
 Investigative Direction: Pull exhibits 12.1 and 12.4 from the hearing record.
 
@@ -1872,7 +1853,7 @@ Transcript Snippet: We have seen no evidence of either a screwdriver or a gun on
 
 Anchored Artifacts: A-2882.1
 Mentions: N-3
-Related Nodes: N-11143, N-10769
+Related Nodes: N-10086, N-10698
 Contradicts: C-11580
 Tags: relevance:core
 Investigative Direction: Compare exhibits and property logs with that claim.
@@ -1889,7 +1870,7 @@ Transcript Snippet: why Blake seems to have this convenient amnesia about certai
 
 Anchored Artifacts: 
 Mentions: N-159, N-367, N-3
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Review Neff's accounts of Sept 10 against vehicle and driver records.
 
@@ -1950,6 +1931,7 @@ Claim: The host says the memorial convention was thrown like a concert, and that
 Transcript Snippet: those people who were so happy, so happy at the memorial event clinking glasses thereafter are very bitter
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-3, N-1
 Tags: relevance:context
 Investigative Direction: Review footage of the memorial event and later public statements by attendees.
@@ -1996,7 +1978,7 @@ Transcript Snippet: Oh, no, Charlie did not go back. You are correct. He went up
 
 Anchored Artifacts: A-2883.1
 Mentions: N-1, N-3
-Related Nodes: N-10761, N-10768
+Related Nodes: N-10690, N-10697
 Tags: relevance:core
 Investigative Direction: Have a physicist or forensic expert analyze the shot video.
 
@@ -2179,9 +2161,9 @@ Confidence: high
 - **Transcription artifacts**: "judge graph" (A-2216.1 / C-11511), "docked a witness" (A-2208.1 / C-11510), "Mike" for "mic" (A-2211.1 / C-11516) – likely auto-caption errors.
 - **Verbally referenced, not displayed verbatim**: A-2210.1 (Kolvet pronunciation list content summarized rather than read aloud).
 - **Undisplayed referenced text messages**: Host references text messages from "the people that would have knowledge of" the mock burial, but no text message image or quote is displayed in the episode.
-- **Unnamed source / Hunted tip**: The mock-burial allegation (N-10760) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.
+- **Unnamed source / Hunted tip**: The mock-burial allegation (N-10689) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.
 - **Screwdriver reference**: Host paraphrases Skyhorse courtroom commentary about the defendant using a screwdriver (citing exhibits 12.1 and 12.4); no artifact displayed; not inscribed.
-- **Wave 1 reconciliation**: Andrew Kolvet is N-14, Blake Neff is N-159 and Tim Pool is N-267; the Lisa Knows account has no CKA person node. The topic ids N-10141.. never denoted these people.
+- **Wave 1 reconciliation**: Andrew Kolvet is N-14, Blake Neff is N-159 and Tim Pool is N-267; the Lisa Knows account has no CKA person node. The topic ids N-10136.. never denoted these people.
 - **Unnamed priest**: The priest said to have officiated the Catholic funeral mass, coordinated Erika's travel after the shooting, and traveled with her to the Ole Miss Turning Point event on Oct 29 is referenced but not named and not tied to any displayed artifact.
 - **Frank Turek**: Referenced by host as saying Charlie had no pulse; no artifact displayed.
 - **Danny Philip**: Referenced in passing by host re: Blake's "convenient amnesia"; no artifact displayed.

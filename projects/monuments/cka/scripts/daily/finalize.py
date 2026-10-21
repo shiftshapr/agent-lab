@@ -50,6 +50,7 @@ def main() -> int:
             p.write_text(json.dumps(d, indent=2, ensure_ascii="\\u" in raw) + "\n", encoding="utf-8")
     if not a.gates_only:
         for script, extra in ((CKA / "scripts" / "apply_name_corrections.py", []), (CKA / "scripts" / "sync_claim_tags.py", []),
+                              (CKA / "scripts" / "sync_node_types.py", []),
                               (MON / "scripts" / "cka_brc222_companion.py", []), (CKA / "scripts" / "source" / "cka_source.py", ["sync"])):
             r = sh([py, str(script)] + extra)
             if r.returncode != 0:

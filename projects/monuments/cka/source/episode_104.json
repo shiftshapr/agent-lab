@@ -21,8 +21,8 @@
     "- **Episode Ledger Summary**:",
     "  - Hole-minted Nodes (remap-ep104): N-160",
     "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
-    "  - Tip-minted Nodes (skeleton): N-620, N-621, N-622, N-623, N-10923, N-10924, N-10926, N-10927, N-10928",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-16, N-33, N-82, N-118, N-131, N-159, N-319, N-361, N-370, N-377, N-489, N-610, N-10000, N-10075, N-10132, N-10194, N-10300, N-10388, N-10493, N-10530, N-10637, N-10638, N-10666, N-10899, N-10900, N-10925, N-213, N-10888",
+    "  - Tip-minted Nodes (skeleton): N-620, N-621, N-622, N-623, N-10844, N-10845, N-10847, N-10848, N-10849",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-16, N-33, N-82, N-118, N-131, N-159, N-319, N-361, N-370, N-377, N-489, N-610, N-10000, N-10072, N-10127, N-10186, N-10282, N-10361, N-10280, N-10486, N-10582, N-10583, N-10512, N-10820, N-10821, N-10846, N-213, N-10809",
     "  - Claim Range: C-9209–C-9254",
     "  - (see registers)",
     "",
@@ -85,7 +85,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9209, C-9213, C-9214, C-9216, C-9217, C-9218, C-9219, C-9223, N-10923, N-2, N-160, N-620, N-621*"
+     "raw": "*Related: C-9209, C-9213, C-9214, C-9216, C-9217, C-9218, C-9219, C-9223, N-10844, N-2, N-160, N-620, N-621*"
     },
     {
      "raw": ""
@@ -121,7 +121,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9221, C-9222, N-10923*"
+     "raw": "*Related: C-9221, C-9222, N-10844*"
     },
     {
      "raw": ""
@@ -174,7 +174,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9212, N-370, N-2, N-10638*"
+     "raw": "*Related: C-9212, N-370, N-2, N-10583*"
     },
     {
      "raw": ""
@@ -227,7 +227,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9224, C-9232, C-9233, C-9234, N-15, N-10924*"
+     "raw": "*Related: C-9224, C-9232, C-9233, C-9234, N-15, N-10845*"
     },
     {
      "raw": ""
@@ -287,7 +287,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9242, C-9243, N-2, N-16, N-1, N-10927*"
+     "raw": "*Related: C-9242, C-9243, N-2, N-16, N-1, N-10848*"
     },
     {
      "raw": ""
@@ -486,7 +486,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9248, N-82, N-377, N-10928*"
+     "raw": "*Related: C-9248, N-82, N-377, N-10849*"
     },
     {
      "raw": ""
@@ -529,7 +529,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9247, C-9248, N-82, N-377, N-623, N-10928*"
+     "raw": "*Related: C-9247, C-9248, N-82, N-377, N-623, N-10849*"
     },
     {
      "raw": ""
@@ -1069,8 +1069,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10075",
-   "header": "**N-10075** White House",
+   "id": "N-10072",
+   "header": "**N-10072** White House",
    "label": "White House",
    "lines": [
     {
@@ -1092,8 +1092,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10132",
-   "header": "**N-10132** TPUSA DOGE Department / Financial Audit",
+   "id": "N-10127",
+   "header": "**N-10127** TPUSA DOGE Department / Financial Audit",
    "label": "TPUSA DOGE Department / Financial Audit",
    "lines": [
     {
@@ -1115,8 +1115,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10194",
-   "header": "**N-10194** TPUSA Succession Plan Disclosure Timeline",
+   "id": "N-10186",
+   "header": "**N-10186** TPUSA Succession Plan Disclosure Timeline",
    "label": "TPUSA Succession Plan Disclosure Timeline",
    "lines": [
     {
@@ -1138,8 +1138,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10300",
-   "header": "**N-10300** Justin Streiff Post-Assassination Phone Call",
+   "id": "N-10282",
+   "header": "**N-10282** Justin Streiff Post-Assassination Phone Call",
    "label": "Justin Streiff Post-Assassination Phone Call",
    "lines": [
     {
@@ -1161,8 +1161,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10388",
-   "header": "**N-10388** Missing Money from Turning Point Action",
+   "id": "N-10361",
+   "header": "**N-10361** Missing Money from Turning Point Action",
    "label": "Missing Money from Turning Point Action",
    "lines": [
     {
@@ -1184,9 +1184,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10493",
-   "header": "**N-10493** Pierre / French Donor Investigation",
-   "label": "Pierre / French Donor Investigation",
+   "id": "N-10280",
+   "header": "**N-10280** Pierre Dupont Donor Identity Verification Question",
+   "label": "Pierre Dupont Donor Identity Verification Question",
    "lines": [
     {
      "raw": ""
@@ -1207,8 +1207,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10530",
-   "header": "**N-10530** TPUSA Super Feed Copyright / Data Routing Question",
+   "id": "N-10486",
+   "header": "**N-10486** TPUSA Super Feed Copyright / Data Routing Question",
    "label": "TPUSA Super Feed Copyright / Data Routing Question",
    "lines": [
     {
@@ -1230,8 +1230,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10637",
-   "header": "**N-10637** WHCD Incident Reconstruction",
+   "id": "N-10582",
+   "header": "**N-10582** WHCD Incident Reconstruction",
    "label": "WHCD Incident Reconstruction",
    "lines": [
     {
@@ -1255,8 +1255,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10638",
-   "header": "**N-10638** Sara Sidner Original Video Source Verification",
+   "id": "N-10583",
+   "header": "**N-10583** Sara Sidner Original Video Source Verification",
    "label": "Sara Sidner Original Video Source Verification",
    "lines": [
     {
@@ -1278,8 +1278,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10666",
-   "header": "**N-10666** Nick Shirley Background and Backing Verification",
+   "id": "N-10512",
+   "header": "**N-10512** Nick Shirley Background and Backing Verification",
    "label": "Nick Shirley Background and Backing Verification",
    "lines": [
     {
@@ -1301,8 +1301,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10888",
-   "header": "**N-10888** Department of War",
+   "id": "N-10809",
+   "header": "**N-10809** Department of War",
    "label": "Department of War",
    "lines": [
     {
@@ -1324,8 +1324,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10899",
-   "header": "**N-10899** Paramount Tactical",
+   "id": "N-10820",
+   "header": "**N-10820** Paramount Tactical",
    "label": "Paramount Tactical",
    "lines": [
     {
@@ -1347,8 +1347,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10900",
-   "header": "**N-10900** Daily Wire",
+   "id": "N-10821",
+   "header": "**N-10821** Daily Wire",
    "label": "Daily Wire",
    "lines": [
     {
@@ -1495,8 +1495,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10923",
-   "header": "**N-10923** White House Military Office Erika Kirk Amplification Email",
+   "id": "N-10844",
+   "header": "**N-10844** White House Military Office Erika Kirk Amplification Email",
    "label": "White House Military Office Erika Kirk Amplification Email",
    "lines": [
     {
@@ -1504,7 +1504,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Thing"
     },
     {
      "k": "Investigation target",
@@ -1523,8 +1523,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10924",
-   "header": "**N-10924** Justin Streiff September 10 Book-Printer Call",
+   "id": "N-10845",
+   "header": "**N-10845** Justin Streiff September 10 Book-Printer Call",
    "label": "Justin Streiff September 10 Book-Printer Call",
    "lines": [
     {
@@ -1532,7 +1532,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Event"
     },
     {
      "k": "Investigation target",
@@ -1551,8 +1551,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10925",
-   "header": "**N-10925** Turning Point Action",
+   "id": "N-10846",
+   "header": "**N-10846** Turning Point Action",
    "label": "Turning Point Action",
    "lines": [
     {
@@ -1578,8 +1578,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10926",
-   "header": "**N-10926** Winning Team Publishing",
+   "id": "N-10847",
+   "header": "**N-10847** Winning Team Publishing",
    "label": "Winning Team Publishing",
    "lines": [
     {
@@ -1605,8 +1605,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10927",
-   "header": "**N-10927** Sergio Gor White House Exit and India Ambassadorship",
+   "id": "N-10848",
+   "header": "**N-10848** Sergio Gor White House Exit and India Ambassadorship",
    "label": "Sergio Gor White House Exit and India Ambassadorship",
    "lines": [
     {
@@ -1633,8 +1633,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10928",
-   "header": "**N-10928** Brigitte Macron Hanoi Slap Text-Message Explanation",
+   "id": "N-10849",
+   "header": "**N-10849** Brigitte Macron Hanoi Slap Text-Message Explanation",
    "label": "Brigitte Macron Hanoi Slap Text-Message Explanation",
    "lines": [
     {
@@ -1729,7 +1729,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10075"
+     "v": "N-10844, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -1787,7 +1787,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10300, N-10493"
+     "v": "N-10282, N-10280"
     },
     {
      "k": "Supports",
@@ -1845,7 +1845,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10637"
+     "v": "N-10582"
     },
     {
      "k": "Investigative Direction",
@@ -1902,7 +1902,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10638, N-10637"
+     "v": "N-10583, N-10582"
     },
     {
      "k": "Supports",
@@ -1963,7 +1963,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10637"
+     "v": "N-10844, N-10582"
     },
     {
      "k": "Investigative Direction",
@@ -2020,7 +2020,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10888, N-10923"
+     "v": "N-10809, N-10844"
     },
     {
      "k": "Investigative Direction",
@@ -2135,7 +2135,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923"
+     "v": "N-10844"
     },
     {
      "k": "Investigative Direction",
@@ -2192,7 +2192,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923"
+     "v": "N-10844"
     },
     {
      "k": "Investigative Direction",
@@ -2249,7 +2249,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923"
+     "v": "N-10844"
     },
     {
      "k": "Investigative Direction",
@@ -2306,7 +2306,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923"
+     "v": "N-10844"
     },
     {
      "k": "Investigative Direction",
@@ -2364,7 +2364,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10638"
+     "v": "N-10583"
     },
     {
      "k": "Investigative Direction",
@@ -2417,7 +2417,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10075"
+     "v": "N-10844, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -2470,7 +2470,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10075"
+     "v": "N-10844, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -2523,7 +2523,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10637"
+     "v": "N-10844, N-10582"
     },
     {
      "k": "Investigative Direction",
@@ -2580,7 +2580,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10924"
+     "v": "N-10845"
     },
     {
      "k": "Investigative Direction",
@@ -2754,7 +2754,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10132, N-10000"
+     "v": "N-10127, N-10000"
     },
     {
      "k": "Supports",
@@ -2816,7 +2816,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10388, N-10925"
+     "v": "N-10361, N-10846"
     },
     {
      "k": "Investigative Direction",
@@ -2874,7 +2874,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10388, N-10925"
+     "v": "N-10361, N-10846"
     },
     {
      "k": "Investigative Direction",
@@ -2932,7 +2932,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10925, N-10530, N-10388"
+     "v": "N-10846, N-10486, N-10361"
     },
     {
      "k": "Investigative Direction",
@@ -2990,7 +2990,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10132, N-10388"
+     "v": "N-10127, N-10361"
     },
     {
      "k": "Supports",
@@ -3051,7 +3051,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10924, N-10300"
+     "v": "N-10845, N-10282"
     },
     {
      "k": "Investigative Direction",
@@ -3108,7 +3108,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10924"
+     "v": "N-10845"
     },
     {
      "k": "Investigative Direction",
@@ -3165,7 +3165,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10924"
+     "v": "N-10845"
     },
     {
      "k": "Investigative Direction",
@@ -3223,7 +3223,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10194, N-10000"
+     "v": "N-10186, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -3281,7 +3281,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10926"
+     "v": "N-10847"
     },
     {
      "k": "Investigative Direction",
@@ -3339,7 +3339,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10926"
+     "v": "N-10847"
     },
     {
      "k": "Investigative Direction",
@@ -3397,7 +3397,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10927, N-10075"
+     "v": "N-10848, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -3455,7 +3455,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10927"
+     "v": "N-10848"
     },
     {
      "k": "Investigative Direction",
@@ -3513,7 +3513,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10927"
+     "v": "N-10848"
     },
     {
      "k": "Investigative Direction",
@@ -3571,7 +3571,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10927"
+     "v": "N-10848"
     },
     {
      "k": "Investigative Direction",
@@ -3628,7 +3628,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10927"
+     "v": "N-10848"
     },
     {
      "k": "Supports",
@@ -3689,7 +3689,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10927"
+     "v": "N-10848"
     },
     {
      "k": "Investigative Direction",
@@ -3746,7 +3746,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10666"
+     "v": "N-10512"
     },
     {
      "k": "Investigative Direction",
@@ -3803,7 +3803,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10666"
+     "v": "N-10512"
     },
     {
      "k": "Investigative Direction",
@@ -3860,7 +3860,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10666"
+     "v": "N-10512"
     },
     {
      "k": "Investigative Direction",
@@ -3917,7 +3917,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10928"
+     "v": "N-10849"
     },
     {
      "k": "Investigative Direction",
@@ -3974,7 +3974,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10928"
+     "v": "N-10849"
     },
     {
      "k": "Investigative Direction",
@@ -4031,7 +4031,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899"
+     "v": "N-10820"
     },
     {
      "k": "Supports",
@@ -4146,7 +4146,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -5266,7 +5266,7 @@
     "",
     "- **Artifacts verbally referenced but not shown**: A-2574.1 (the White House Military Office email is read aloud but deliberately not shown, which the host attributes to canary watermarking), A-2574.2 (deletion-order emails), A-2576.1 (tips-line receipts) and A-2580.1 (Blake Neff's X posts).",
     "- **Skeleton handling**: The existing N-16 and N-160 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-160 description mentions an \"Epstein situation-room attendee read\", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line \"Hole-minted Nodes (remap-ep104): N-160\" was replaced by \"(see registers)\" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.",
-    "- **Name matching**: \"Justin Streiff\" (chapter title \"Justin Streiff\") is mapped to N-15. \"Blake Neff\" is N-159 Blake Neff. \"Captain Adam Neff\" / \"Commander Neff\" is N-319. \"Sarah Seidner\" is N-370 Sara Sidner. \"Don Trump Jr.\" is N-33. The \"mysterious Pierre\" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.",
+    "- **Name matching**: \"Justin Streiff\" (chapter title \"Justin Streiff\") is mapped to N-15. \"Blake Neff\" is N-159 Blake Neff. \"Captain Adam Neff\" / \"Commander Neff\" is N-319. \"Sarah Seidner\" is N-370 Sara Sidner. \"Don Trump Jr.\" is N-33. The \"mysterious Pierre\" is linked only to topic N-10280; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.",
     "- **New-person spellings**: \"Ryan Rippeon\" and \"Gustav Anderly\" are kept as spoken; real spellings are unverified. N-610 is named Jessica Reed Kraus (transcript \"Jessica Reed Krauss\", handle rendered \"House and Drinking Habit\"). For N-623, the host says she is \"definitely not saying this name right\" (\"Golshifteh Farahani\", \"Golshifteh Farahani\", \"Farahani\", \"Farahani\", \"Farahani\"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. \"Ike Cromoter\" (21:13), named as someone whose \"guy\" Gor is, could not be matched and was not minted.",
     "- **Transcription ambiguities**: \"rescend\" / \"resend\" for rescind, and \"plat platforms\", are kept as written. \"Brigitte / Brigitte / Brigitte Macron\" (Brigitte Macron), \"Emmanuel Macron\", \"capta\" (CAPTCHA) and \"Vavlla\" (favela) are kept as written. The host says Streiff \"he's not just the CEO\" (20:14) but elsewhere calls him COO; COO is used.",
     "- **Possible cross-episode links left out**: C-9211 was not linked to C-8573 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired \"at one another\", a different proposition. C-9244–C-9246 were not linked to C-9082/C-7382 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-9228–C-9230 were not linked to C-5184 (Buckmans' $10 million gift), which is a different proposition.",

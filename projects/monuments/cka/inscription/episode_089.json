@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10587"
+            "N-10535"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,7 +86,7 @@
             "C-7984"
           ],
           "related_nodes": [
-            "N-10592"
+            "N-10540"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -136,7 +136,7 @@
             "C-8004"
           ],
           "related_nodes": [
-            "N-10590"
+            "N-10538"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,8 +163,8 @@
             "C-7993"
           ],
           "related_nodes": [
-            "N-10588",
-            "N-10589"
+            "N-10536",
+            "N-10537"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-7979"
           ],
           "related_nodes": [
-            "N-10591"
+            "N-10539"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,8 +217,8 @@
             "C-7980"
           ],
           "related_nodes": [
-            "N-10587",
-            "N-10591"
+            "N-10535",
+            "N-10539"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,7 +244,7 @@
             "C-7996"
           ],
           "related_nodes": [
-            "N-10588"
+            "N-10536"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -352,11 +352,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10587",
-      "ref": "N-10587",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10535",
+      "ref": "N-10535",
       "name": "Trump Truth Social Post Pattern Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between Trump's stated posture toward named public figures and his posture in A-1939.1; includes implication that Charlie Kirk would also have been targeted.",
       "related_artifacts": [
         "A-1939.1",
@@ -371,14 +371,15 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10588",
-      "ref": "N-10588",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10536",
+      "ref": "N-10536",
       "name": "Butler PA Investigation Closure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question about whether and why Trump moved to close the Butler investigation; relevant to A-1944.1 timeline and A-1947.1.",
       "related_artifacts": [
         "A-1944.1",
@@ -392,14 +393,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10589",
-      "ref": "N-10589",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10537",
+      "ref": "N-10537",
       "name": "Adelson–West Bank Annexation Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question about whether a meeting occurred in which Miriam Adelson conditioned $100M on West Bank annexation, and what Trump stated therein.",
       "related_artifacts": [
         "A-1944.1"
@@ -412,14 +414,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10590",
-      "ref": "N-10590",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10538",
+      "ref": "N-10538",
       "name": "Laura Loomer Influence on Trump Policy Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question about the operative influence Laura Loomer exerts over Trump's Truth Social posts and policy posture, per her own claim in A-1943.1.",
       "related_artifacts": [
         "A-1943.1"
@@ -431,14 +434,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10535"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10591",
-      "ref": "N-10591",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10539",
+      "ref": "N-10539",
       "name": "MAGA Base Sentiment Shift Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question about measurable shift in core-MAGA supporter sentiment toward Trump, evidenced by responses in A-1945.1 and A-1946.1.",
       "related_artifacts": [
         "A-1945.1",
@@ -451,14 +456,15 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10592",
-      "ref": "N-10592",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10540",
+      "ref": "N-10540",
       "name": "Situation-Room Table Seating Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question about whether Trump was seated at the side of the situation-room table during the Netanyahu meeting, per A-1941.1.",
       "related_artifacts": [
         "A-1941.1"
@@ -470,7 +476,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1020,11 +1027,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1035,14 +1042,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1057,14 +1066,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1074,14 +1085,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10282",
-      "ref": "N-10282",
+      "@type": "Organization",
+      "@id": "N-10265",
+      "ref": "N-10265",
       "name": "CBS News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1091,14 +1103,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1110,14 +1124,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@type": "Topic",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1134,14 +1149,15 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10628",
-      "ref": "N-10628",
+      "@type": "Topic",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1151,14 +1167,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10630",
-      "ref": "N-10630",
+      "@type": "Topic",
+      "@id": "N-10576",
+      "ref": "N-10576",
       "name": "Laura Loomer Identity Claims (Jewish Heritage)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1168,14 +1185,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10741",
-      "ref": "N-10741",
+      "@type": "Topic",
+      "@id": "N-10673",
+      "ref": "N-10673",
       "name": "Sandy Hook Comparison Rhetoric",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1185,14 +1203,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10962",
-      "ref": "N-10962",
+      "@type": "Place",
+      "@id": "N-10883",
+      "ref": "N-10883",
       "name": "Venezuela",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1202,14 +1221,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11128",
-      "ref": "N-11128",
+      "@type": "Topic",
+      "@id": "N-11046",
+      "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1220,14 +1241,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11133",
-      "ref": "N-11133",
+      "@type": "Thing",
+      "@id": "N-11051",
+      "ref": "N-11051",
       "name": "Glyphosate and White Phosphorus Defense Production Act Order",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1237,14 +1259,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Legislation"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11145",
-      "ref": "N-11145",
+      "@type": "Event",
+      "@id": "N-11062",
+      "ref": "N-11062",
       "name": "Minab Iran School Strike",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic or entity referenced by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1254,12 +1277,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10496"
     },
     {
       "@type": "Organization",
-      "@id": "N-11191",
-      "ref": "N-11191",
+      "@id": "N-11107",
+      "ref": "N-11107",
       "name": "Pre-Born",
       "type": "organization",
       "description": "Anti-abortion ultrasound network promoted by the host in a sponsor read at 00:21:03 in episode 89.",
@@ -1271,12 +1297,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
-      "@id": "N-11192",
-      "ref": "N-11192",
+      "@id": "N-11108",
+      "ref": "N-11108",
       "name": "Sabbatian-Frankist Cult Allegation",
       "type": "topic",
       "description": "The host's repeated assertion at 00:36:11-00:37:09 that a cult claiming to be Jewish, tied to Sabbatianism and Frankism, is emerging; recorded as said.",
@@ -1289,7 +1317,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -1303,7 +1332,7 @@
         "A-1939.1"
       ],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12–00:12:28",
@@ -1362,7 +1391,7 @@
         "A-1941.1"
       ],
       "related_nodes": [
-        "N-10592"
+        "N-10540"
       ],
       "tags": [],
       "claim_timestamp": "00:25:38–00:26:31",
@@ -1403,7 +1432,7 @@
         "A-1943.1"
       ],
       "related_nodes": [
-        "N-10590"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:33:58–00:35:23",
@@ -1424,7 +1453,7 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-10589"
+        "N-10537"
       ],
       "tags": [],
       "claim_timestamp": "00:29:16–00:31:16",
@@ -1447,8 +1476,8 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-10588",
-        "N-10589"
+        "N-10536",
+        "N-10537"
       ],
       "tags": [],
       "claim_timestamp": "00:30:06–00:31:16",
@@ -1470,7 +1499,7 @@
         "A-1947.1"
       ],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16–00:32:11",
@@ -1491,7 +1520,7 @@
         "A-1946.1"
       ],
       "related_nodes": [
-        "N-10591"
+        "N-10539"
       ],
       "tags": [],
       "claim_timestamp": "00:19:20",
@@ -1510,7 +1539,7 @@
         "A-1946.1"
       ],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:21:03",
@@ -1531,7 +1560,7 @@
         "A-1939.1"
       ],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [],
       "claim_timestamp": "00:11:20–00:12:28",
@@ -1607,7 +1636,7 @@
         "A-1939.1"
       ],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:tangential"
@@ -1726,7 +1755,7 @@
         "A-1939.1"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"
@@ -1747,7 +1776,7 @@
       "claim": "The host says the MAGA base revolted against Trump over the Epstein files, and accuses him of a pattern of protecting people who harm children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -1789,8 +1818,8 @@
       "claim": "The host says the United States just killed 150 schoolgirls for no reason, as one of her answers to the post's claim that the country is the hottest in the world.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11145",
-        "N-10541"
+        "N-11062",
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -1810,8 +1839,8 @@
       "claim": "The host says the administration lied about six servicemen who died and that the truth had to be leaked to CBS News.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10282",
-        "N-10541"
+        "N-10265",
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -1850,7 +1879,7 @@
       "claim": "The host refers to what was agreed in boardrooms with Jared Kushner and a Trump Gaza hotel as something people will see on his buildings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [
         "relevance:context"
@@ -1872,8 +1901,8 @@
       "claim": "The host says Trump was reduced to sitting on the side in the White House situation room while Benjamin Netanyahu, standing above him, convinced him that Iran was an imminent threat that could be crippled within weeks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10592",
-        "N-10541"
+        "N-10540",
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -1898,7 +1927,7 @@
       "claim": "The host says Netanyahu is Trump's master and that Miriam Adelson may be the one who lights the fire, with Netanyahu making the shadows on the wall.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -2010,8 +2039,8 @@
         "A-1946.1"
       ],
       "related_nodes": [
-        "N-10324",
-        "N-10541"
+        "N-10303",
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -2055,7 +2084,7 @@
         "A-2954.1"
       ],
       "related_nodes": [
-        "N-11191"
+        "N-11107"
       ],
       "tags": [
         "relevance:tangential"
@@ -2077,8 +2106,8 @@
         "A-1940.1"
       ],
       "related_nodes": [
-        "N-10541",
-        "N-10962"
+        "N-10496",
+        "N-10883"
       ],
       "tags": [
         "relevance:context"
@@ -2125,7 +2154,7 @@
       ],
       "related_nodes": [
         "N-10026",
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -2224,7 +2253,7 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-10589"
+        "N-10537"
       ],
       "tags": [
         "relevance:context"
@@ -2251,7 +2280,7 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-10589"
+        "N-10537"
       ],
       "tags": [
         "relevance:core"
@@ -2277,7 +2306,7 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-10589"
+        "N-10537"
       ],
       "tags": [
         "relevance:core"
@@ -2305,7 +2334,7 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [
         "relevance:context"
@@ -2326,7 +2355,7 @@
       "claim": "The host says it is very strange that Trump has appeared completely disinterested in determining who fired the Butler shot, and that there were a lot of holes in that story.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [
         "relevance:context"
@@ -2349,7 +2378,7 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [
         "relevance:context"
@@ -2372,7 +2401,7 @@
       "claim": "The host says she thinks all of us have noted a shift in Trump since Butler, Pennsylvania.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [
         "relevance:context"
@@ -2393,7 +2422,7 @@
       "claim": "The host says Laura Loomer has been committed multiple times by her own family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [
         "relevance:tangential"
@@ -2436,7 +2465,7 @@
       "claim": "The host says Laura Loomer is not Jewish and was not bat mitzvahed, and that she is playing the part.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10630"
+        "N-10576"
       ],
       "tags": [
         "relevance:tangential"
@@ -2501,7 +2530,7 @@
       "claim": "The host says Trump went back on phosphorus and Monsanto, and that this was because Israel needed it to poison people in Lebanon.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11133",
+        "N-11051",
         "N-10026"
       ],
       "tags": [
@@ -2523,7 +2552,7 @@
       "claim": "The host says her inbox is filled with Jewish Americans, even rabbis, who write that she is right about Sabbatianism and Frankism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11192"
+        "N-11108"
       ],
       "tags": [
         "relevance:tangential"
@@ -2543,7 +2572,7 @@
       "claim": "The host says there is a cult claiming to be Jewish that is not, and that it is emerging.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11192"
+        "N-11108"
       ],
       "tags": [
         "relevance:tangential"
@@ -2563,8 +2592,8 @@
       "claim": "The host says she will forever maintain that the first casualty of the Iranian war was Charlie Kirk and says she believes he was sacrificed by what she calls this death cult, and describes it as her opinion.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541",
-        "N-11128"
+        "N-10496",
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -2646,7 +2675,7 @@
       "claim": "The host says she does not know what is in the Epstein files that has Trump so scared but that it has to be something.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"

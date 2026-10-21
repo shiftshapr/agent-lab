@@ -31,7 +31,7 @@
             "C-10957"
           ],
           "related_nodes": [
-            "N-10734"
+            "N-10668"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -48,7 +48,7 @@
             "C-10957"
           ],
           "related_nodes": [
-            "N-10734"
+            "N-10668"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -74,7 +74,7 @@
             "C-10963"
           ],
           "related_nodes": [
-            "N-10735"
+            "N-10669"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -100,7 +100,7 @@
             "C-10970"
           ],
           "related_nodes": [
-            "N-10736"
+            "N-10086"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -126,7 +126,7 @@
             "C-10981"
           ],
           "related_nodes": [
-            "N-10738"
+            "N-10670"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -242,7 +242,7 @@
             "C-10990"
           ],
           "related_nodes": [
-            "N-10733"
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
             "C-10996"
           ],
           "related_nodes": [
-            "N-10733"
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -278,7 +278,7 @@
             "C-10997"
           ],
           "related_nodes": [
-            "N-10733"
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -294,7 +294,7 @@
           "description": "Utah medical examiner appointment – July 2024",
           "related_claims": [],
           "related_nodes": [
-            "N-10733"
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,7 +312,7 @@
             "C-10998"
           ],
           "related_nodes": [
-            "N-10733"
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -403,7 +403,7 @@
             "C-11015"
           ],
           "related_nodes": [
-            "N-10737"
+            "N-10636"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -429,7 +429,7 @@
             "C-11025"
           ],
           "related_nodes": [
-            "N-10732"
+            "N-10666"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -448,7 +448,7 @@
             "C-11026"
           ],
           "related_nodes": [
-            "N-10732"
+            "N-10666"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -474,7 +474,7 @@
             "C-11037"
           ],
           "related_nodes": [
-            "N-10739"
+            "N-10671"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -500,7 +500,7 @@
             "C-10966"
           ],
           "related_nodes": [
-            "N-10090",
+            "N-10086",
             "N-153",
             "N-3"
           ],
@@ -531,9 +531,9 @@
           ],
           "related_nodes": [
             "N-10019",
-            "N-10727",
+            "N-10654",
             "N-3",
-            "N-11402"
+            "N-11318"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -558,7 +558,7 @@
             "C-11002"
           ],
           "related_nodes": [
-            "N-10738",
+            "N-10670",
             "N-3",
             "N-505"
           ],
@@ -587,7 +587,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10249",
+            "N-10235",
             "N-253",
             "N-3"
           ],
@@ -614,7 +614,7 @@
             "C-11032"
           ],
           "related_nodes": [
-            "N-10732",
+            "N-10666",
             "N-3"
           ],
           "tags": [],
@@ -641,8 +641,8 @@
             "C-11040"
           ],
           "related_nodes": [
-            "N-10435",
-            "N-10739",
+            "N-10390",
+            "N-10671",
             "N-14",
             "N-2",
             "N-3"
@@ -671,12 +671,12 @@
             "C-11047"
           ],
           "related_nodes": [
-            "N-10257",
-            "N-10271",
+            "N-10243",
+            "N-10255",
             "N-3",
             "N-40",
-            "N-11402",
-            "N-11405"
+            "N-11318",
+            "N-11321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -694,9 +694,9 @@
             "C-11051"
           ],
           "related_nodes": [
-            "N-10249",
-            "N-10346",
-            "N-10383",
+            "N-10235",
+            "N-10324",
+            "N-10356",
             "N-11",
             "N-3"
           ],
@@ -716,7 +716,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10539",
+            "N-10494",
             "N-2",
             "N-3"
           ],
@@ -744,7 +744,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10539",
+            "N-10494",
             "N-2",
             "N-3"
           ],
@@ -759,11 +759,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10149",
-      "ref": "N-10149",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10144",
+      "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host assertion that Timpanogos Regional Hospital was not the closest trauma-equipped facility and that the hospital had just named Andrew Zenger as a new CEO/surgeon on the same day Charlie's tour was announced. Lacks displayed artifact in this episode; verification target.",
       "related_artifacts": [],
       "related_claims": [],
@@ -772,14 +772,15 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10732",
-      "ref": "N-10732",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10666",
+      "ref": "N-10666",
       "name": "Salt Lake City Hotel Identification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inability to confirm which hotel the Turning Point USA team (including Erika Kirk) stayed at on the night of September 10, 2025; Blake Neff states he cannot recall.",
       "related_artifacts": [
         "A-2162.1",
@@ -793,14 +794,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10733",
-      "ref": "N-10733",
+      "@type": "Topic",
+      "@id": "N-10667",
+      "ref": "N-10667",
       "name": "Utah Pre-Event Personnel Restructuring Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Beau Mason (June 19, 2025), Tony Graf (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bohls (September 2, 2025).",
       "related_artifacts": [
         "A-2158.1",
@@ -818,14 +820,15 @@
       "evidence_count": 4,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10734",
-      "ref": "N-10734",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10668",
+      "ref": "N-10668",
       "name": "Ballistics Narrative Contradiction (O'Neill/Holt)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Public on-camera rejection by a former SEAL Team Six sniper and an Air Force Brigadier General of the official .30-06 / spine-impact ballistics explanation.",
       "related_artifacts": [
         "A-2153.1",
@@ -840,14 +843,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10735",
-      "ref": "N-10735",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10669",
+      "ref": "N-10669",
       "name": "Rooftop Clothing Change Narrative",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Governor Cox's September 12, 2025 statement that the assassin changed clothes on the rooftop; not retracted or explained in subsequent official communications.",
       "related_artifacts": [
         "A-2154.1"
@@ -860,52 +864,64 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question",
+      "parent": "N-10019"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10736",
-      "ref": "N-10736",
-      "name": "Screwdriver Evidence Chain Question",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10086",
+      "ref": "N-10086",
+      "name": "Screwdriver Evidence Question",
+      "type": "investigation_question",
       "description": "Recovery of a screwdriver on the rooftop with alleged shooter DNA; subsequent claim that the suspect disassembled the rifle on the roof contradicted by later discovery of the assembled weapon in the woods.",
       "related_artifacts": [
         "A-2155.1"
       ],
       "related_claims": [
-        "C-10970"
+        "C-10970",
+        "C-10966",
+        "C-10967",
+        "C-10968",
+        "C-10969",
+        "C-11053"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10737",
-      "ref": "N-10737",
-      "name": "CPR Narrative Contradiction (Turek / Harpole)",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10636",
+      "ref": "N-10636",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
+      "type": "investigation_question",
       "description": "Brian Harpole asserts CPR was not performed in the vehicle; Frank Turek concedes he attempted CPR for the last 20–30 seconds of the ride and characterizes the divergence as emphasis rather than contradiction.",
       "related_artifacts": [
         "A-2161.1"
       ],
       "related_claims": [
-        "C-11015"
+        "C-11015",
+        "C-11016",
+        "C-11020"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10738",
-      "ref": "N-10738",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10670",
+      "ref": "N-10670",
       "name": "Faumuina Media Presence Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "A sworn state law enforcement officer with FBI JTTF assignment appearing as a presenter on Netflix's *Worst Roommate Ever* and later as a podcast guest.",
       "related_artifacts": [
         "A-2156.1"
@@ -917,14 +933,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10739",
-      "ref": "N-10739",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10671",
+      "ref": "N-10671",
       "name": "Fort Huachuca Connection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Lt. Col. Kolvet's public X post denying any connection between his brother Andrew Kolvet and Fort Huachuca beyond a single 3-day MP unit training visit.",
       "related_artifacts": [
         "A-2163.1"
@@ -936,7 +953,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
       "@type": "Person",
@@ -1690,11 +1709,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; its team's lodging and staff.",
       "related_artifacts": [],
       "related_claims": [
@@ -1708,14 +1727,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10019",
       "ref": "N-10019",
       "name": "Robinson Outfit Change Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Robinson Outfit Change Discrepancy; clothing questions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1726,14 +1747,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Decoy Boy Operation Analysis; the host's decoy theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1743,35 +1766,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10090",
       "ref": "N-10090",
-      "name": "Screwdriver Evidence Question",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the claims below.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10966",
-        "C-10967",
-        "C-10968",
-        "C-10969",
-        "C-11053"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10094",
-      "ref": "N-10094",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "LDS Church; context for the host's Mormon territory remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1781,14 +1784,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10249",
-      "ref": "N-10249",
+      "@type": "Topic",
+      "@id": "N-10235",
+      "ref": "N-10235",
       "name": "\"Mormon Mafia\" Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1801,14 +1806,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10257",
-      "ref": "N-10257",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10243",
+      "ref": "N-10243",
       "name": "Flock LPR FOIA Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Flock LPR FOIA Investigation; camera network context.",
       "related_artifacts": [],
       "related_claims": [
@@ -1818,14 +1824,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10242"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10271",
-      "ref": "N-10271",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10255",
+      "ref": "N-10255",
       "name": "Tyler Robinson Washington County Surveillance Footage Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1835,14 +1843,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1852,14 +1861,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10347",
-      "ref": "N-10347",
+      "@type": "Topic",
+      "@id": "N-10325",
+      "ref": "N-10325",
       "name": "Egyptian Planes Israel Flight Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1869,14 +1880,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10383",
-      "ref": "N-10383",
+      "@type": "Topic",
+      "@id": "N-10356",
+      "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1887,14 +1900,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10435",
-      "ref": "N-10435",
-      "name": "Fort Huachuca Erika Kirk Location Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1904,14 +1918,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@type": "Topic",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1922,14 +1938,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1939,14 +1956,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10681",
-      "ref": "N-10681",
+      "@type": "Thing",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1956,14 +1974,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1974,32 +1993,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10699",
-      "ref": "N-10699",
-      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the claims below.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11016",
-        "C-11020"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2009,14 +2012,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10727",
-      "ref": "N-10727",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10654",
+      "ref": "N-10654",
       "name": "Abandoned Backpack / Jacket / Gloves Non-Testing Decision",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2028,14 +2032,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10731",
-      "ref": "N-10731",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10665",
+      "ref": "N-10665",
       "name": "Screwdriver Footage Graininess Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2046,14 +2051,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10086"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10748",
-      "ref": "N-10748",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10678",
+      "ref": "N-10678",
       "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2064,14 +2071,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10769",
-      "ref": "N-10769",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10698",
+      "ref": "N-10698",
       "name": "Losee Center Gun Verification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2081,14 +2089,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10777",
-      "ref": "N-10777",
+      "@type": "Topic",
+      "@id": "N-10703",
+      "ref": "N-10703",
       "name": "Screwdriver Narrative Evolution",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2098,14 +2107,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10086"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11094",
-      "ref": "N-11094",
+      "@type": "Thing",
+      "@id": "N-11012",
+      "ref": "N-11012",
       "name": "Kash Patel August 17 Omaha Trip FOIA Response",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2115,14 +2126,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork",
+      "parent": "N-10194"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11128",
-      "ref": "N-11128",
+      "@type": "Topic",
+      "@id": "N-11046",
+      "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2132,31 +2145,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11143",
-      "ref": "N-11143",
-      "name": "Rooftop Screwdriver Claim",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the claims below.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11053"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-11305",
-      "ref": "N-11305",
+      "@type": "Topic",
+      "@id": "N-11221",
+      "ref": "N-11221",
       "name": "Utah Medical Examiner Office Departures to New York",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2166,7 +2163,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10175"
     },
     {
       "@type": "Person",
@@ -2206,8 +2205,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11402",
-      "ref": "N-11402",
+      "@id": "N-11318",
+      "ref": "N-11318",
       "name": "Rooftop Runner Black Jacket and Tactical Gear Account",
       "type": "topic",
       "description": "The host's account, from her own source, that the rooftop runner wore a black jacket, tactical gear and a backpack, with her theory that the object called a towel was a jacket and that the items were dropped near a bus stop by Fulton Library.",
@@ -2224,14 +2223,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11403",
-      "ref": "N-11403",
+      "@type": "Event",
+      "@id": "N-11319",
+      "ref": "N-11319",
       "name": "Faumuina Family 1995 Hawaii Homicide Case",
-      "type": "topic",
+      "type": "event",
       "description": "The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, which the host describes from news articles: an alleged gang initiation beating, manslaughter charges against three youths and conflicting accounts about his gang and church ties.",
       "related_artifacts": [],
       "related_claims": [
@@ -2245,14 +2245,17 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "1995"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11404",
-      "ref": "N-11404",
+      "@type": "Event",
+      "@id": "N-11320",
+      "ref": "N-11320",
       "name": "Franklin Cover-Up Scandal",
-      "type": "topic",
+      "type": "event",
       "description": "The Franklin credit union scandal in Omaha, Nebraska, which the host describes as a widely debated conspiracy theory over a $40 million fraud with claims of abuse by politicians and satanic ritual abuse.",
       "related_artifacts": [],
       "related_claims": [
@@ -2262,14 +2265,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11405",
-      "ref": "N-11405",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11321",
+      "ref": "N-11321",
       "name": "Utah Statewide Camera Footage Gap",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's question why Utah's statewide camera network has produced no clear footage of Tyler Robinson on the day, his route on the rooftop or the shot itself.",
       "related_artifacts": [],
       "related_claims": [
@@ -2279,7 +2284,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -2309,7 +2315,7 @@
         "A-2153.1"
       ],
       "related_nodes": [
-        "N-10734"
+        "N-10668"
       ],
       "tags": [],
       "claim_timestamp": "00:03:29",
@@ -2329,7 +2335,7 @@
         "A-2153.2"
       ],
       "related_nodes": [
-        "N-10734"
+        "N-10668"
       ],
       "tags": [],
       "claim_timestamp": "00:05:31",
@@ -2350,7 +2356,7 @@
         "A-2154.1"
       ],
       "related_nodes": [
-        "N-10735"
+        "N-10669"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
@@ -2388,7 +2394,7 @@
         "A-2155.1"
       ],
       "related_nodes": [
-        "N-10736"
+        "N-10086"
       ],
       "tags": [],
       "claim_timestamp": "00:12:43",
@@ -2408,7 +2414,7 @@
         "A-2156.1"
       ],
       "related_nodes": [
-        "N-10738"
+        "N-10670"
       ],
       "tags": [],
       "claim_timestamp": "00:16:37",
@@ -2549,7 +2555,7 @@
         "A-2158.1"
       ],
       "related_nodes": [
-        "N-10733"
+        "N-10667"
       ],
       "tags": [],
       "claim_timestamp": "00:19:15",
@@ -2569,7 +2575,7 @@
         "A-2158.2"
       ],
       "related_nodes": [
-        "N-10733"
+        "N-10667"
       ],
       "tags": [],
       "claim_timestamp": "00:20:36",
@@ -2588,7 +2594,7 @@
         "A-2158.3"
       ],
       "related_nodes": [
-        "N-10733"
+        "N-10667"
       ],
       "tags": [],
       "claim_timestamp": "00:21:14",
@@ -2607,7 +2613,7 @@
         "A-2158.5"
       ],
       "related_nodes": [
-        "N-10733"
+        "N-10667"
       ],
       "tags": [],
       "claim_timestamp": "00:21:14",
@@ -2698,7 +2704,7 @@
         "A-2161.1"
       ],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:31:07",
@@ -2719,7 +2725,7 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10666"
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
@@ -2738,7 +2744,7 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10666"
       ],
       "tags": [],
       "claim_timestamp": "00:36:56",
@@ -2757,7 +2763,7 @@
         "A-2163.1"
       ],
       "related_nodes": [
-        "N-10739"
+        "N-10671"
       ],
       "tags": [],
       "claim_timestamp": "00:41:03",
@@ -2817,7 +2823,7 @@
         "A-2163.1"
       ],
       "related_nodes": [
-        "N-10739"
+        "N-10671"
       ],
       "tags": [
         "relevance:context"
@@ -2844,7 +2850,7 @@
         "A-2153.1"
       ],
       "related_nodes": [
-        "N-10734"
+        "N-10668"
       ],
       "tags": [
         "relevance:core"
@@ -2867,7 +2873,7 @@
         "A-2153.1"
       ],
       "related_nodes": [
-        "N-10734"
+        "N-10668"
       ],
       "tags": [
         "relevance:core"
@@ -2916,7 +2922,7 @@
         "A-2153.2"
       ],
       "related_nodes": [
-        "N-10734"
+        "N-10668"
       ],
       "tags": [
         "relevance:core"
@@ -2940,7 +2946,7 @@
         "A-2153.2"
       ],
       "related_nodes": [
-        "N-10734"
+        "N-10668"
       ],
       "tags": [
         "relevance:context"
@@ -2962,7 +2968,7 @@
         "A-2153.2"
       ],
       "related_nodes": [
-        "N-10734"
+        "N-10668"
       ],
       "tags": [
         "relevance:context"
@@ -2986,7 +2992,7 @@
         "A-2154.1"
       ],
       "related_nodes": [
-        "N-10735"
+        "N-10669"
       ],
       "tags": [
         "relevance:core"
@@ -3010,7 +3016,7 @@
         "A-2154.1"
       ],
       "related_nodes": [
-        "N-10735",
+        "N-10669",
         "N-10019"
       ],
       "tags": [
@@ -3055,7 +3061,7 @@
         "A-3338.1"
       ],
       "related_nodes": [
-        "N-10090"
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -3079,8 +3085,8 @@
       "claim": "The host says that, as is now known, the rooftop man neither assembled nor disassembled his rifle on the Losee Center roof.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10090",
-        "N-10769"
+        "N-10086",
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -3100,8 +3106,8 @@
       "claim": "The host speculates that officials may have planted the screwdriver, and then had to make it fit the story, because it carried Tyler Robinson's DNA and was one of the only things tying him to the rooftop.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10090",
-        "N-10777"
+        "N-10086",
+        "N-10703"
       ],
       "tags": [
         "relevance:core"
@@ -3124,8 +3130,7 @@
         "A-2155.1"
       ],
       "related_nodes": [
-        "N-10736",
-        "N-10090"
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -3151,7 +3156,7 @@
         "A-2155.1"
       ],
       "related_nodes": [
-        "N-10736"
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -3173,7 +3178,7 @@
         "A-2155.1"
       ],
       "related_nodes": [
-        "N-10731"
+        "N-10665"
       ],
       "tags": [
         "relevance:core"
@@ -3193,7 +3198,7 @@
       "claim": "The host says clear 4K footage of the rooftop was made available to Benny Johnson, Graham Allen, his wife and other influencers 10 months after the shooting, though officials called the footage grainy in September.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10731"
+        "N-10665"
       ],
       "tags": [
         "relevance:core"
@@ -3217,7 +3222,7 @@
         "A-3339.1"
       ],
       "related_nodes": [
-        "N-11402",
+        "N-11318",
         "N-10019"
       ],
       "tags": [
@@ -3240,7 +3245,7 @@
         "A-3339.1"
       ],
       "related_nodes": [
-        "N-11402"
+        "N-11318"
       ],
       "tags": [
         "relevance:core"
@@ -3260,7 +3265,7 @@
       "claim": "The host says she thinks it is much more likely that the rooftop man was a decoy who never fired a gun and was tasked with sprinting away at the right time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11402",
+        "N-11318",
         "N-10032"
       ],
       "tags": [
@@ -3286,7 +3291,7 @@
         "A-3339.1"
       ],
       "related_nodes": [
-        "N-11402"
+        "N-11318"
       ],
       "tags": [
         "relevance:core"
@@ -3308,8 +3313,8 @@
         "A-3339.1"
       ],
       "related_nodes": [
-        "N-11402",
-        "N-10727"
+        "N-11318",
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -3329,7 +3334,7 @@
       "claim": "The host says the items left along the runner's path were recovered by Sergeant Jennifer Faumuina's office at the Utah State Bureau of Investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -3350,7 +3355,7 @@
       "claim": "The host says Sergeant Faumuina answered that she did not recall whether she signed off on the FBI not testing a backpack, gloves and possible tactical gear abandoned along the shooter's path.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -3373,7 +3378,7 @@
         "A-2157.2"
       ],
       "related_nodes": [
-        "N-10738"
+        "N-10670"
       ],
       "tags": [
         "relevance:context"
@@ -3396,7 +3401,7 @@
         "A-2157.4"
       ],
       "related_nodes": [
-        "N-10738"
+        "N-10670"
       ],
       "tags": [
         "relevance:core"
@@ -3417,7 +3422,7 @@
       "claim": "The host says she could not find an article that mentions Faumuina before 2018 and that she appears instead to have had a part-time job at Weber State University, possibly while still in school.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10738"
+        "N-10670"
       ],
       "tags": [
         "relevance:core"
@@ -3440,7 +3445,7 @@
         "A-2157.5"
       ],
       "related_nodes": [
-        "N-10738"
+        "N-10670"
       ],
       "tags": [
         "relevance:core"
@@ -3463,8 +3468,8 @@
         "A-2158.4"
       ],
       "related_nodes": [
-        "N-10733",
-        "N-11305"
+        "N-10667",
+        "N-11221"
       ],
       "tags": [
         "relevance:core"
@@ -3484,7 +3489,7 @@
       "claim": "The host says she has raised the pattern since early in the investigation that many Utah officials were new or newly appointed ahead of Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10733"
+        "N-10667"
       ],
       "tags": [
         "relevance:core"
@@ -3507,7 +3512,7 @@
         "A-2158.5"
       ],
       "related_nodes": [
-        "N-10733"
+        "N-10667"
       ],
       "tags": [
         "relevance:core"
@@ -3534,7 +3539,7 @@
         "A-2158.5"
       ],
       "related_nodes": [
-        "N-10733"
+        "N-10667"
       ],
       "tags": [
         "relevance:context"
@@ -3557,7 +3562,7 @@
         "A-3340.1"
       ],
       "related_nodes": [
-        "N-10738"
+        "N-10670"
       ],
       "tags": [
         "relevance:tangential"
@@ -3580,7 +3585,7 @@
         "A-2160.1"
       ],
       "related_nodes": [
-        "N-11403"
+        "N-11319"
       ],
       "tags": [
         "relevance:tangential"
@@ -3603,7 +3608,7 @@
         "A-2160.2"
       ],
       "related_nodes": [
-        "N-11403"
+        "N-11319"
       ],
       "tags": [
         "relevance:tangential"
@@ -3627,7 +3632,7 @@
         "A-2160.2"
       ],
       "related_nodes": [
-        "N-11403"
+        "N-11319"
       ],
       "tags": [
         "relevance:tangential"
@@ -3650,7 +3655,7 @@
         "A-2160.1"
       ],
       "related_nodes": [
-        "N-11403"
+        "N-11319"
       ],
       "tags": [
         "relevance:tangential"
@@ -3674,7 +3679,7 @@
         "A-2160.1"
       ],
       "related_nodes": [
-        "N-11403"
+        "N-11319"
       ],
       "tags": [
         "relevance:tangential"
@@ -3698,7 +3703,7 @@
         "A-3341.1"
       ],
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ],
       "tags": [
         "relevance:tangential"
@@ -3725,7 +3730,7 @@
         "A-3341.1"
       ],
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ],
       "tags": [
         "relevance:context"
@@ -3765,8 +3770,8 @@
       "claim": "The host says the assassination took place in Mormon territory, which makes it curious, and that she will thread together connections the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10249",
-        "N-10094"
+        "N-10235",
+        "N-10090"
       ],
       "tags": [
         "relevance:context"
@@ -3789,8 +3794,7 @@
         "A-2161.1"
       ],
       "related_nodes": [
-        "N-10737",
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -3816,8 +3820,8 @@
         "A-2161.1"
       ],
       "related_nodes": [
-        "N-10687",
-        "N-10737"
+        "N-10625",
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -3843,7 +3847,7 @@
         "A-2161.1"
       ],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -3866,7 +3870,7 @@
         "A-2161.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:context"
@@ -3888,7 +3892,7 @@
       "claim": "The host says Brian Harpole told her he just got to work the whole time, and that this was his number one focus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -3912,7 +3916,7 @@
       "claim": "The host says the account was that the door was left open because Charlie's legs were too long, and that CPR requires the person to be lying flat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10687"
+        "N-10625"
       ],
       "tags": [
         "relevance:core"
@@ -3938,7 +3942,7 @@
         "A-2161.1"
       ],
       "related_nodes": [
-        "N-10681"
+        "N-10619"
       ],
       "tags": [
         "relevance:context"
@@ -3962,7 +3966,7 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-10732",
+        "N-10666",
         "N-10000"
       ],
       "tags": [
@@ -3985,8 +3989,8 @@
         "A-2162.1"
       ],
       "related_nodes": [
-        "N-10732",
-        "N-10715"
+        "N-10666",
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -4008,7 +4012,7 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10666"
       ],
       "tags": [
         "relevance:core"
@@ -4030,7 +4034,7 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10666"
       ],
       "tags": [
         "relevance:core"
@@ -4052,7 +4056,7 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10666"
       ],
       "tags": [
         "relevance:core"
@@ -4073,7 +4077,7 @@
       "claim": "The host says Blake Neff flew with Charlie Kirk but did not go to the Utah event, and that other Turning Point staffers also flew into Salt Lake City without attending.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10732",
+        "N-10666",
         "N-10000"
       ],
       "tags": [
@@ -4096,7 +4100,7 @@
       "claim": "The host speculates that Salt Lake City was the hub because the team anticipated that the vice president would fly in and Salt Lake was nearer to where he would land.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10732"
+        "N-10666"
       ],
       "tags": [
         "relevance:core"
@@ -4119,7 +4123,7 @@
         "A-3342.1"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10666"
       ],
       "tags": [
         "relevance:core"
@@ -4139,7 +4143,7 @@
       "claim": "The host says the hotel the feds stayed in is known but the hotel Turning Point USA stayed in is not, and that Turning Point staffers she contacted have no idea.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10732",
+        "N-10666",
         "N-10000"
       ],
       "tags": [
@@ -4202,7 +4206,7 @@
         "A-2163.1"
       ],
       "related_nodes": [
-        "N-10739"
+        "N-10671"
       ],
       "tags": [
         "relevance:core"
@@ -4226,7 +4230,7 @@
         "A-2163.1"
       ],
       "related_nodes": [
-        "N-10739"
+        "N-10671"
       ],
       "tags": [
         "relevance:core"
@@ -4248,7 +4252,7 @@
         "A-3343.1"
       ],
       "related_nodes": [
-        "N-10739"
+        "N-10671"
       ],
       "tags": [
         "relevance:core"
@@ -4271,8 +4275,8 @@
         "A-3343.1"
       ],
       "related_nodes": [
-        "N-10739",
-        "N-10435"
+        "N-10671",
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -4294,7 +4298,7 @@
       "claim": "The host says Fort Huachuca is a massive intelligence base that directs the joint task force at the border.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10739"
+        "N-10671"
       ],
       "tags": [
         "relevance:context"
@@ -4314,7 +4318,7 @@
       "claim": "The host says her team instantly found who had been telling people that he was at lunch with Ben Shapiro when he got the phone call, and that it opened a huge door that needs more research.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [
         "relevance:core"
@@ -4335,7 +4339,7 @@
       "claim": "The host says the person who can speak to this was willing to come forward on record and that she will reveal the information before the week is out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10748"
+        "N-10678"
       ],
       "tags": [
         "relevance:core"
@@ -4355,8 +4359,8 @@
       "claim": "The host says Omaha, Nebraska was one of the stops of the Egyptian planes she has tracked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10347",
-        "N-11094"
+        "N-10325",
+        "N-11012"
       ],
       "tags": [
         "relevance:context"
@@ -4376,7 +4380,7 @@
       "claim": "The host describes the Franklin scandal in Omaha as a widely debated conspiracy theory involving a $40 million financial fraud, claims of abuse by high-ranking politicians and satanic ritual abuse.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11404"
+        "N-11320"
       ],
       "tags": [
         "relevance:tangential"
@@ -4398,9 +4402,9 @@
         "A-3344.1"
       ],
       "related_nodes": [
-        "N-11405",
-        "N-10257",
-        "N-10271"
+        "N-11321",
+        "N-10243",
+        "N-10255"
       ],
       "tags": [
         "relevance:core"
@@ -4423,7 +4427,7 @@
         "A-3344.1"
       ],
       "related_nodes": [
-        "N-11402"
+        "N-11318"
       ],
       "tags": [
         "relevance:core"
@@ -4448,7 +4452,7 @@
         "A-2153.1"
       ],
       "related_nodes": [
-        "N-10734"
+        "N-10668"
       ],
       "tags": [
         "relevance:core"
@@ -4496,8 +4500,8 @@
         "A-3344.2"
       ],
       "related_nodes": [
-        "N-10383",
-        "N-10346"
+        "N-10356",
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -4519,7 +4523,7 @@
         "A-3344.2"
       ],
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ],
       "tags": [
         "relevance:context"
@@ -4558,8 +4562,7 @@
       "claim": "A viewer comment the host reads says the screwdriver apparently cannot even unscrew the weapon that they are saying was fired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10090",
-        "N-11143"
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -4585,7 +4588,7 @@
         "A-3345.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -4607,8 +4610,8 @@
       "claim": "The host says Tucker Carlson, Bret Weinstein and Joe Kent have all confirmed that Charlie Kirk was fighting hard behind the scenes to stop the Iran war.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539",
-        "N-11128"
+        "N-10494",
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -4635,7 +4638,7 @@
       "claim": "The host says she believes Erika Kirk had more loyalty to the people who brought her in, naming Tyler Bowyer, the Farnsworths and her mother, and served them while married to Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:core"

@@ -60,7 +60,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10506"
+            "N-10467"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -89,7 +89,7 @@
           "related_nodes": [
             "N-2",
             "N-237",
-            "N-10506"
+            "N-10467"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -110,7 +110,7 @@
           "related_nodes": [
             "N-2",
             "N-237",
-            "N-10507"
+            "N-10468"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
             "N-2",
             "N-211",
             "N-1",
-            "N-10509"
+            "N-10469"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -159,7 +159,7 @@
           "related_nodes": [
             "N-2",
             "N-211",
-            "N-10509"
+            "N-10469"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
           "related_nodes": [
             "N-2",
             "N-562",
-            "N-10510"
+            "N-10470"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -287,7 +287,7 @@
             "C-6582"
           ],
           "related_nodes": [
-            "N-10510"
+            "N-10470"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -574,11 +574,11 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10506",
-      "ref": "N-10506",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10467",
+      "ref": "N-10467",
       "name": "Wedding Photo Disappearance Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: a wedding photo of Charlie and Erika Kirk was visible in the background of Charlie's home studio during the September 8, 2025 broadcast, but absent from the same background during Erika Kirk's December 12, 2025 Glenn Beck interview conducted from that office. Three competing explanations are advanced in the episode: (A) Andrew Kolvet moved it; (B) Erika moved it; (C) Charlie himself moved it on September 9, 2025.",
       "related_artifacts": [
         "A-1773.1",
@@ -587,7 +587,8 @@
       "related_claims": [
         "C-6514",
         "C-6520",
-        "C-6521"
+        "C-6521",
+        "C-6529"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -597,14 +598,15 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10507",
-      "ref": "N-10507",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10468",
+      "ref": "N-10468",
       "name": "Charlie Kirk Phone Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: Charlie Kirk's cell phone has not been publicly seized by law enforcement; Erika Kirk publicly claims to possess it. The episode asserts she used it as a prop during the Glenn Beck interview (\"And I have his cell phone\") to deny that Charlie sent pre-death messages.",
       "related_artifacts": [
         "A-1774.2"
@@ -620,29 +622,34 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10508",
-      "ref": "N-10508",
-      "name": "Tyler Robinson Evidence Sufficiency Question",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "topic",
       "description": "Investigation target: Candace Owens' standing claim, restated in this episode, that no public evidence has been produced tying Tyler Robinson to the assassination, and that the case serves as the \"final thing\" before broader institutional collapse concerns crystallize. (Inscribed only as a target; the claim itself is interpretive commentary and is not inscribed as a C-claim.)",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6594",
+        "C-6595"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10509",
-      "ref": "N-10509",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10469",
+      "ref": "N-10469",
       "name": "September 9, 2025 Night Activity Reconstruction Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: reconciliation of competing accounts of what occurred the night before the assassination – specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.",
       "related_artifacts": [
         "A-1775.1",
@@ -659,14 +666,16 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10441"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10510",
-      "ref": "N-10510",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10470",
+      "ref": "N-10470",
       "name": "TPUSA All-American Halftime Show Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: questions raised in this episode about whether the TPUSA All-American Halftime Show functioned as a genuine live event versus a staged production using camera tricks, audience placement, multiple takes, and modest stipends; whether Erika Kirk's absence from filming is meaningful; and the counter-evidence that Trump was watching the official Bad Bunny halftime show at Mar-a-Lago.",
       "related_artifacts": [
         "A-1778.1",
@@ -677,7 +686,9 @@
         "C-6575",
         "C-6573",
         "C-6582",
-        "C-6571"
+        "C-6571",
+        "C-6574",
+        "C-6581"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -686,7 +697,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1088,11 +1100,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose messaging, halftime show and staff are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1107,14 +1119,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Network that aired the Watters interview with Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1124,14 +1138,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet the host says somehow obtained the tape in the Guthrie case.",
       "related_artifacts": [],
       "related_claims": [
@@ -1141,14 +1157,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the September 10 event; the host says she has done a UVU event with Charlie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1158,32 +1176,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
-      "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6594",
-        "C-6595"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1193,14 +1195,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10320",
-      "ref": "N-10320",
-      "name": "Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1214,31 +1217,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
-      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6546"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10396",
-      "ref": "N-10396",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10369",
+      "ref": "N-10369",
       "name": "Charis Bible College Security Coordination (Post-Assassination)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1248,14 +1235,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1266,14 +1254,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10465",
-      "ref": "N-10465",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10434",
+      "ref": "N-10434",
       "name": "Calvary Chapel Church CIA Connection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1283,14 +1273,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10234"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10470",
-      "ref": "N-10470",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10439",
+      "ref": "N-10439",
       "name": "Dan Flood Message Format Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1300,49 +1292,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10318"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10499",
-      "ref": "N-10499",
-      "name": "TPUSA Halftime Viewership Authenticity",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6574",
-        "C-6581"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10512",
-      "ref": "N-10512",
-      "name": "Wedding Photo Movement Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6529"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10554",
-      "ref": "N-10554",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10507",
+      "ref": "N-10507",
       "name": "Andrew Kolvet 9/10 Flight Itinerary",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1352,14 +1311,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10905",
-      "ref": "N-10905",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10826",
+      "ref": "N-10826",
       "name": "New York Times Erika Kirk Interview Account Discrepancies",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1369,14 +1329,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@type": "Organization",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet whose apartment interview with Erika Kirk the host cites.",
       "related_artifacts": [],
       "related_claims": [
@@ -1386,14 +1347,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q11032"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11086",
-      "ref": "N-11086",
+      "@type": "Topic",
+      "@id": "N-11004",
+      "ref": "N-11004",
       "name": "Priest Report of Marital Issues",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1404,7 +1367,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1463,8 +1427,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11187",
-      "ref": "N-11187",
+      "@id": "N-11103",
+      "ref": "N-11103",
       "name": "Guthrie Mother Abduction Coverage",
       "type": "topic",
       "description": "The reported abduction of Savannah Guthrie's mother and the host's remarks that the TMZ tape, FBI travel and Pima County angle do not smell right and may distract from other stories.",
@@ -1478,12 +1442,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
-      "@id": "N-11188",
-      "ref": "N-11188",
+      "@id": "N-11104",
+      "ref": "N-11104",
       "name": "White House Religious Liberty Commission",
       "type": "organization",
       "description": "Presidential commission whose hearing on anti-Semitism led to Carrie Prejean Boller's removal, announced by Dan Patrick on X.",
@@ -1503,7 +1468,9 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -1517,7 +1484,7 @@
         "A-1773.1"
       ],
       "related_nodes": [
-        "N-10506"
+        "N-10467"
       ],
       "tags": [],
       "claim_timestamp": "00:03:08",
@@ -1538,7 +1505,7 @@
         "A-1773.1"
       ],
       "related_nodes": [
-        "N-10506"
+        "N-10467"
       ],
       "tags": [],
       "claim_timestamp": "00:04:44",
@@ -1578,7 +1545,7 @@
         "A-1774.1"
       ],
       "related_nodes": [
-        "N-10506"
+        "N-10467"
       ],
       "tags": [],
       "claim_timestamp": "00:04:44",
@@ -1598,7 +1565,7 @@
         "A-1775.1"
       ],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [],
       "claim_timestamp": "00:10:40",
@@ -1618,7 +1585,7 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-10507"
+        "N-10468"
       ],
       "tags": [],
       "claim_timestamp": "00:21:54",
@@ -1674,7 +1641,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "00:39:05",
@@ -1690,7 +1657,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "00:40:30",
@@ -1706,7 +1673,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "00:39:58",
@@ -1725,7 +1692,7 @@
         "A-1779.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "00:42:01",
@@ -1744,7 +1711,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "00:39:25",
@@ -1760,7 +1727,7 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-10507"
+        "N-10468"
       ],
       "tags": [],
       "claim_timestamp": "00:21:54",
@@ -1779,7 +1746,7 @@
       "claim": "The host says that on September 9, 2025 Charlie Kirk went into the office, and that by about midday on September 10 he had been assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [
         "relevance:core"
@@ -1800,7 +1767,7 @@
       "claim": "The host says her investigation has been delayed because she and her team do not have access to Charlie Kirk's phone, Erika Kirk's phone, Dan Flood's phone, Mikey McCoy's phone logs or Frank Turek's phone, and says that if granted subpoena power she suspects they might have solved the case even before the memorial.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10320"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -1827,7 +1794,7 @@
         "A-1773.1"
       ],
       "related_nodes": [
-        "N-10506"
+        "N-10467"
       ],
       "tags": [
         "relevance:core"
@@ -1848,7 +1815,7 @@
       "claim": "The host says September 8 is the date on which she believes Erika Kirk was actually at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -1871,7 +1838,7 @@
         "A-1773.1"
       ],
       "related_nodes": [
-        "N-10506"
+        "N-10467"
       ],
       "tags": [
         "relevance:context"
@@ -1895,8 +1862,8 @@
         "A-2935.1"
       ],
       "related_nodes": [
-        "N-10968",
-        "N-10905"
+        "N-10889",
+        "N-10826"
       ],
       "tags": [
         "relevance:core"
@@ -1920,7 +1887,7 @@
         "A-1774.1"
       ],
       "related_nodes": [
-        "N-10506"
+        "N-10467"
       ],
       "tags": [
         "relevance:core"
@@ -1944,7 +1911,7 @@
         "A-1774.1"
       ],
       "related_nodes": [
-        "N-10506"
+        "N-10467"
       ],
       "tags": [
         "relevance:core"
@@ -1990,7 +1957,7 @@
         "A-1774.1"
       ],
       "related_nodes": [
-        "N-10506"
+        "N-10467"
       ],
       "tags": [
         "relevance:context"
@@ -2012,7 +1979,7 @@
       "claim": "The host says she does not believe Erika Kirk removed the wedding photo, because that would contradict Turning Point USA's intentional messaging since Charlie's death, including the phrase 'my Charlie' in Erika's first speech and later fundraising emails.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10506",
+        "N-10467",
         "N-10000"
       ],
       "tags": [
@@ -2102,7 +2069,7 @@
       "claim": "The host says it would be much more likely that Stacy Sheridan, rather than Erika, would have added the wedding picture to the background, to remind viewers of the couple.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10506"
+        "N-10467"
       ],
       "tags": [
         "relevance:context"
@@ -2127,8 +2094,7 @@
         "A-1774.1"
       ],
       "related_nodes": [
-        "N-10506",
-        "N-10512"
+        "N-10467"
       ],
       "tags": [
         "relevance:core"
@@ -2152,7 +2118,7 @@
         "A-1775.1"
       ],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [
         "relevance:core"
@@ -2175,7 +2141,7 @@
         "A-1775.1"
       ],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [
         "relevance:core"
@@ -2198,7 +2164,7 @@
         "A-1775.1"
       ],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [
         "relevance:core"
@@ -2243,8 +2209,8 @@
         "A-1775.1"
       ],
       "related_nodes": [
-        "N-10509",
-        "N-10554"
+        "N-10469",
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2268,7 +2234,7 @@
         "A-1775.1"
       ],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [
         "relevance:context"
@@ -2316,7 +2282,7 @@
         "A-1775.2"
       ],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [
         "relevance:core"
@@ -2360,7 +2326,7 @@
         "A-1775.2"
       ],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2404,8 +2370,8 @@
         "A-1775.2"
       ],
       "related_nodes": [
-        "N-10509",
-        "N-11086"
+        "N-10469",
+        "N-11004"
       ],
       "tags": [
         "relevance:core"
@@ -2427,8 +2393,8 @@
       "claim": "The host says that on September 9 Charlie Kirk told people he was over the pro-Israel position, that he did not want the money, and that he wanted to bring her back to AmFest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268",
-        "N-10320"
+        "N-10252",
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2449,7 +2415,7 @@
       "claim": "The host says the picture emerging is that Charlie's last day consisted of a lot of arguments about his shift away from the pro-Israel position, and that she suspects there was a knock-down argument the night before.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [
         "relevance:core"
@@ -2470,7 +2436,7 @@
       "claim": "The host says the public portrayal of an amazing godly relationship between Charlie and Erika is not accurate, and that TPUSA has not been honest about what the relationship was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11086"
+        "N-11004"
       ],
       "tags": [
         "relevance:core"
@@ -2494,8 +2460,7 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-10320",
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2519,7 +2484,7 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [
         "relevance:core"
@@ -2564,7 +2529,7 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-10509"
+        "N-10469"
       ],
       "tags": [
         "relevance:context"
@@ -2588,8 +2553,8 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-10470",
-        "N-10320"
+        "N-10439",
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2612,7 +2577,7 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-10507"
+        "N-10468"
       ],
       "tags": [
         "relevance:core"
@@ -2656,7 +2621,7 @@
         "A-1776.1"
       ],
       "related_nodes": [
-        "N-11188"
+        "N-11104"
       ],
       "tags": [
         "relevance:context"
@@ -2679,7 +2644,7 @@
         "A-1776.1"
       ],
       "related_nodes": [
-        "N-11188"
+        "N-11104"
       ],
       "tags": [
         "relevance:context"
@@ -2698,7 +2663,7 @@
         "A-1776.2"
       ],
       "related_nodes": [
-        "N-11188"
+        "N-11104"
       ],
       "tags": [
         "relevance:context"
@@ -2757,7 +2722,7 @@
         "A-1777.1"
       ],
       "related_nodes": [
-        "N-11188"
+        "N-11104"
       ],
       "tags": [
         "relevance:context"
@@ -2778,7 +2743,7 @@
       "claim": "The host says many churches that teach Christians to worship Israel, in large part like Calvary Chapel (rendered 'Calvary Capital Church'), were started by the CIA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10465"
+        "N-10434"
       ],
       "tags": [
         "relevance:context"
@@ -2800,7 +2765,7 @@
         "A-1777.1"
       ],
       "related_nodes": [
-        "N-11188"
+        "N-11104"
       ],
       "tags": [
         "relevance:context"
@@ -2822,7 +2787,7 @@
         "A-1777.1"
       ],
       "related_nodes": [
-        "N-11188"
+        "N-11104"
       ],
       "tags": [
         "relevance:context"
@@ -2845,7 +2810,7 @@
         "A-1777.1"
       ],
       "related_nodes": [
-        "N-11188"
+        "N-11104"
       ],
       "tags": [
         "relevance:context"
@@ -2868,7 +2833,7 @@
         "A-1777.1"
       ],
       "related_nodes": [
-        "N-11188"
+        "N-11104"
       ],
       "tags": [
         "relevance:context"
@@ -2890,7 +2855,7 @@
         "A-2937.1"
       ],
       "related_nodes": [
-        "N-10320"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2916,7 +2881,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510",
+        "N-10470",
         "N-10000"
       ],
       "tags": [
@@ -2939,7 +2904,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -2961,8 +2926,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510",
-        "N-10499"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -2985,7 +2949,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -3007,7 +2971,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -3029,7 +2993,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -3051,7 +3015,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -3075,7 +3039,7 @@
       ],
       "related_nodes": [
         "N-562",
-        "N-10510"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -3101,8 +3065,7 @@
       ],
       "related_nodes": [
         "N-562",
-        "N-10499",
-        "N-10510"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -3127,7 +3090,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10510"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -3150,7 +3113,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10470"
       ],
       "tags": [
         "relevance:context"
@@ -3212,7 +3175,7 @@
         "A-2934.1"
       ],
       "related_nodes": [
-        "N-11187",
+        "N-11103",
         "N-10011"
       ],
       "tags": [
@@ -3237,7 +3200,7 @@
         "A-2934.1"
       ],
       "related_nodes": [
-        "N-11187"
+        "N-11103"
       ],
       "tags": [
         "relevance:tangential"
@@ -3261,7 +3224,7 @@
         "A-2934.1"
       ],
       "related_nodes": [
-        "N-11187"
+        "N-11103"
       ],
       "tags": [
         "relevance:tangential"
@@ -3326,7 +3289,7 @@
         "A-1776.2"
       ],
       "related_nodes": [
-        "N-11188"
+        "N-11104"
       ],
       "tags": [
         "relevance:context"
@@ -3349,7 +3312,7 @@
         "A-2934.3"
       ],
       "related_nodes": [
-        "N-10396"
+        "N-10369"
       ],
       "tags": [
         "relevance:core"
@@ -3369,7 +3332,7 @@
       "claim": "The host says that not a shred of evidence has been produced to tie the assassination to Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3390,7 +3353,7 @@
       "claim": "The host says that when she sat down with Erika Kirk she learned they had nothing more than what was told to the public and were not hiding anything.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"

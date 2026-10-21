@@ -30,7 +30,7 @@
             "C-13730"
           ],
           "related_nodes": [
-            "N-10869",
+            "N-10790",
             "N-2"
           ],
           "tags": [],
@@ -56,7 +56,7 @@
             "C-13749"
           ],
           "related_nodes": [
-            "N-10870",
+            "N-10791",
             "N-1"
           ],
           "tags": [],
@@ -82,9 +82,9 @@
             "C-13755"
           ],
           "related_nodes": [
-            "N-10870",
-            "N-10863",
-            "N-10860",
+            "N-10791",
+            "N-10784",
+            "N-10781",
             "N-1"
           ],
           "tags": [],
@@ -111,11 +111,11 @@
             "C-13780"
           ],
           "related_nodes": [
-            "N-10871",
-            "N-10863",
-            "N-10868",
-            "N-10324",
-            "N-10033"
+            "N-10792",
+            "N-10784",
+            "N-10789",
+            "N-10303",
+            "N-10016"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,8 +140,8 @@
             "C-13780"
           ],
           "related_nodes": [
-            "N-10871",
-            "N-10324",
+            "N-10792",
+            "N-10303",
             "N-4",
             "N-69",
             "N-85",
@@ -171,7 +171,7 @@
             "C-13814"
           ],
           "related_nodes": [
-            "N-10872",
+            "N-10793",
             "N-22"
           ],
           "tags": [],
@@ -197,7 +197,7 @@
             "C-13817"
           ],
           "related_nodes": [
-            "N-10873",
+            "N-10794",
             "N-40",
             "N-2"
           ],
@@ -225,10 +225,10 @@
             "C-13825"
           ],
           "related_nodes": [
-            "N-10869",
+            "N-10790",
             "N-190",
-            "N-10056",
-            "N-10864"
+            "N-10053",
+            "N-10785"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -436,7 +436,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10871"
+        "N-10792"
       ]
     },
     {
@@ -459,7 +459,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10869"
+        "N-10790"
       ]
     },
     {
@@ -479,8 +479,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10868",
-        "N-10871"
+        "N-10789",
+        "N-10792"
       ]
     },
     {
@@ -500,8 +500,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10324",
-        "N-10871"
+        "N-10303",
+        "N-10792"
       ]
     },
     {
@@ -541,8 +541,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10033",
-        "N-10863"
+        "N-10016",
+        "N-10784"
       ]
     },
     {
@@ -560,8 +560,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10868",
-        "N-10871"
+        "N-10789",
+        "N-10792"
       ]
     },
     {
@@ -583,7 +583,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10873"
+        "N-10794"
       ]
     },
     {
@@ -603,7 +603,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ]
     },
     {
@@ -624,7 +624,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10871"
+        "N-10792"
       ]
     },
     {
@@ -646,7 +646,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10871"
+        "N-10792"
       ]
     },
     {
@@ -706,7 +706,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ]
     },
     {
@@ -784,7 +784,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10839",
+        "N-10762",
         "N-270"
       ]
     },
@@ -842,7 +842,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -862,7 +862,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10871"
+        "N-10792"
       ]
     },
     {
@@ -942,15 +942,18 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10033",
-      "ref": "N-10033",
-      "name": "Hamptons Donor Pressure Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10016",
+      "ref": "N-10016",
+      "name": "Hamptons Meeting Pressure Investigation",
+      "type": "investigation_question",
       "description": "Advanced with BB call confirmation, influencer weekend, and Charlie’s Megyn Kelly frustration clip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13760"
+        "C-13760",
+        "C-13741",
+        "C-13790",
+        "C-13793"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -959,15 +962,17 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-36",
-        "N-10863"
-      ]
+        "N-10784"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@type": "Topic",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for Erika’s post-death silence vs prior private criticism and Charlie’s documented shift.",
       "related_artifacts": [],
       "related_claims": [
@@ -981,14 +986,15 @@
       "related_nodes": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Advanced via repeated situation-room meetings and host return-to-series commitment.",
       "related_artifacts": [],
       "related_claims": [
@@ -1001,15 +1007,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-9",
-        "N-10871"
-      ]
+        "N-10792"
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10388",
-      "ref": "N-10388",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10361",
+      "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Background for host’s sniff-test that Charlie’s late DOGE / missing-money concerns intersect shady sponsor patterns.",
       "related_artifacts": [],
       "related_claims": [
@@ -1021,15 +1028,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10870"
-      ]
+        "N-10791"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10839",
-      "ref": "N-10839",
+      "@type": "Thing",
+      "@id": "N-10762",
+      "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Timeline recap of MEAC insistence, Flood contact, and employee disgust unlocking leaks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1041,15 +1049,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10859"
-      ]
+        "N-10780"
+      ],
+      "schema_org": "Report"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10859",
-      "ref": "N-10859",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10780",
+      "ref": "N-10780",
       "name": "TPUSA Non-Participation in UVU Independent Review",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused as catalyst for employee disgust / document leaks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1061,15 +1070,17 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10839"
-      ]
+        "N-10762"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10860",
-      "ref": "N-10860",
+      "@type": "Event",
+      "@id": "N-10781",
+      "ref": "N-10781",
       "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Reused inside expanded concurrent timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -1081,15 +1092,19 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10871"
-      ]
+        "N-10792"
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-10",
+      "place": "N-10028"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10863",
-      "ref": "N-10863",
+      "@type": "Topic",
+      "@id": "N-10784",
+      "ref": "N-10784",
       "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Parent frame extended by Yrefy addendum and Epstein situation-room overlays.",
       "related_artifacts": [],
       "related_claims": [
@@ -1102,16 +1117,17 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10870",
-        "N-10871"
-      ]
+        "N-10791",
+        "N-10792"
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10864",
-      "ref": "N-10864",
+      "@type": "Thing",
+      "@id": "N-10785",
+      "ref": "N-10785",
       "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Opening callback / vindication frame.",
       "related_artifacts": [],
       "related_claims": [
@@ -1124,14 +1140,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Article"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10866",
-      "ref": "N-10866",
+      "@type": "Event",
+      "@id": "N-10787",
+      "ref": "N-10787",
       "name": "Night-of Assassination Aloe Yoga Outfit Directive",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Comment-section callback via office-preservation vs McCoy optics.",
       "related_artifacts": [],
       "related_claims": [
@@ -1141,14 +1158,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10868",
-      "ref": "N-10868",
+      "@type": "Event",
+      "@id": "N-10789",
+      "ref": "N-10789",
       "name": "July 9 2025 Archive of Candace College YouTube Project",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Reused in July timeline adjacent to Netanyahu visit and UVU ask.",
       "related_artifacts": [],
       "related_claims": [
@@ -1160,15 +1180,18 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10871"
-      ]
+        "N-10792"
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-09"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10869",
-      "ref": "N-10869",
+      "@type": "Thing",
+      "@id": "N-10790",
+      "ref": "N-10790",
       "name": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "New topic: leaked Erika Telegram traffic prioritizing wealthy attendees ahead of memorial-adjacent fundraising.",
       "related_artifacts": [
         "A-2466.1"
@@ -1183,14 +1206,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10870",
-      "ref": "N-10870",
+      "@type": "Thing",
+      "@id": "N-10791",
+      "ref": "N-10791",
       "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Erickson); Daily Mail sanctions coverage; UVU presence of Laine Schoneberger.",
       "related_artifacts": [
         "A-2467.1",
@@ -1206,16 +1230,17 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10388",
-        "N-10863"
-      ]
+        "N-10361",
+        "N-10784"
+      ],
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10871",
-      "ref": "N-10871",
+      "@type": "Topic",
+      "@id": "N-10792",
+      "ref": "N-10792",
       "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "New topic: integrated chronology arguing Epstein-file panic, donor warfare, Macron pressure, and UVU booking are non-coincidental.",
       "related_artifacts": [
         "A-2469.1",
@@ -1231,16 +1256,17 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10324",
-        "N-10863"
-      ]
+        "N-10303",
+        "N-10784"
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10872",
-      "ref": "N-10872",
+      "@type": "Topic",
+      "@id": "N-10793",
+      "ref": "N-10793",
       "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "New topic: federal case against autistic Brian Cole Jr.; interrogation coercion narrative; host “patsy” framing.",
       "related_artifacts": [
         "A-2471.1"
@@ -1255,14 +1281,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-22"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10873",
-      "ref": "N-10873",
+      "@type": "Topic",
+      "@id": "N-10794",
+      "ref": "N-10794",
       "name": "Scripps Media Bodycam Pattern (Robinson + Cole)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "New topic: same Scripps investigative pair releasing obscure prior bodycam of both Tyler Robinson and Brian Cole Jr.; host adds Erika daycare-in-Scripps-building note as speculative link.",
       "related_artifacts": [
         "A-2472.1"
@@ -1278,7 +1305,8 @@
       "related_nodes": [
         "N-40",
         "N-2"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1642,8 +1670,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11092",
-      "ref": "N-11092",
+      "@id": "N-11010",
+      "ref": "N-11010",
       "name": "Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)",
       "type": "topic",
       "description": "Conflict between board member Doug DeGroote's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.",
@@ -1656,14 +1684,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11093",
-      "ref": "N-11093",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11011",
+      "ref": "N-11011",
       "name": "Utah Back-to-Back Tour Stops Anomaly",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's observation that two UVU-area Utah stops were scheduled about 10 days apart against TPUSA's usual corridor routing, and the tip tying the routing to financial pressure.",
       "related_artifacts": [],
       "related_claims": [
@@ -1674,14 +1703,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11094",
-      "ref": "N-11094",
+      "@type": "Thing",
+      "@id": "N-11012",
+      "ref": "N-11012",
       "name": "Kash Patel August 17 Omaha Trip FOIA Response",
-      "type": "topic",
+      "type": "thing",
       "description": "The host's FOIA request about Kash Patel's August 17, 2025 trip to Omaha while Egyptian planes were in Lincoln and Omaha, answered with neither confirm nor deny.",
       "related_artifacts": [],
       "related_claims": [
@@ -1691,12 +1721,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork",
+      "parent": "N-10194"
     },
     {
       "@type": "Organization",
-      "@id": "N-11076",
-      "ref": "N-11076",
+      "@id": "N-10994",
+      "ref": "N-10994",
       "name": "Lake Forest Group",
       "type": "organization",
       "description": "Firm the host thanks alongside the UVU independent review; its exact role is not described on air.",
@@ -1708,12 +1740,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
-      "@id": "N-11095",
-      "ref": "N-11095",
+      "@id": "N-11013",
+      "ref": "N-11013",
       "name": "Host Epstein Episodes versus Situation-Room Meetings Pattern",
       "type": "topic",
       "description": "The host's claim that each of her July-August 2025 Epstein episodes was followed the next day by a White House Epstein meeting.",
@@ -1731,7 +1765,8 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1989,11 +2024,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "investigation_target",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Topic for the memorial, merchandise sales and microphone display.",
       "related_artifacts": [],
       "related_claims": [
@@ -2004,14 +2039,18 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Venue of the September 10 event and the June 17 drill alleged by the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -2029,33 +2068,16 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10016",
-      "ref": "N-10016",
-      "name": "Hamptons Meeting Pressure Investigation",
-      "type": "investigation_target",
-      "description": "Topic for the August 2025 Hamptons weekend.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-13741",
-        "C-13790",
-        "C-13793"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic for the alleged Netanyahu call and invitation.",
       "related_artifacts": [],
       "related_claims": [
@@ -2066,14 +2088,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10036",
-      "ref": "N-10036",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10035",
+      "ref": "N-10035",
       "name": "Building Donor Withdrawal Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for donor withdrawals after SAS.",
       "related_artifacts": [],
       "related_claims": [
@@ -2084,14 +2108,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@type": "Organization",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Publisher of the Yrefy article read on air.",
       "related_artifacts": [],
       "related_claims": [
@@ -2103,14 +2129,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@type": "Place",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place referenced for the February 24 Macron visit and June 18-19 meetings.",
       "related_artifacts": [],
       "related_claims": [
@@ -2120,14 +2148,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@type": "Topic",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the DOGE audit.",
       "related_artifacts": [],
       "related_claims": [
@@ -2137,14 +2167,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10134",
-      "ref": "N-10134",
+      "@type": "Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic for the August 2025 retreat.",
       "related_artifacts": [],
       "related_claims": [
@@ -2157,14 +2188,18 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for when and how Erika's succession was disclosed.",
       "related_artifacts": [],
       "related_claims": [
@@ -2176,14 +2211,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10211",
-      "ref": "N-10211",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10203",
+      "ref": "N-10203",
       "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the University of Nebraska-Lincoln chapter.",
       "related_artifacts": [],
       "related_claims": [
@@ -2193,14 +2229,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the Egyptian aircraft movements in the timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -2213,14 +2251,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10276",
-      "ref": "N-10276",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10259",
+      "ref": "N-10259",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the Nebraska overlap with the Egyptian plane.",
       "related_artifacts": [],
       "related_claims": [
@@ -2232,14 +2271,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10347",
-      "ref": "N-10347",
+      "@type": "Topic",
+      "@id": "N-10325",
+      "ref": "N-10325",
       "name": "Egyptian Planes Israel Flight Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the Egyptian plane route pattern.",
       "related_artifacts": [],
       "related_claims": [
@@ -2250,14 +2291,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10366",
-      "ref": "N-10366",
+      "@type": "Event",
+      "@id": "N-10341",
+      "ref": "N-10341",
       "name": "Operation Valhalla Strike",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic for the August 24 strike exercise named by the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -2267,14 +2310,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08-24"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10412",
-      "ref": "N-10412",
+      "@type": "Event",
+      "@id": "N-10385",
+      "ref": "N-10385",
       "name": "Erika Kirk June 19 Instagram Purge",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic for the 126 deleted posts.",
       "related_artifacts": [],
       "related_claims": [
@@ -2284,14 +2330,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-19"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@type": "Topic",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the DOGE set up seven days before the assassination.",
       "related_artifacts": [],
       "related_claims": [
@@ -2301,14 +2350,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10443",
-      "ref": "N-10443",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10412",
+      "ref": "N-10412",
       "name": "TPUSA Post-Assassination Leadership Tone/Timing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for leadership conduct after the assassination.",
       "related_artifacts": [],
       "related_claims": [
@@ -2318,14 +2368,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the Netanyahu offer during the Hamptons weekend.",
       "related_artifacts": [],
       "related_claims": [
@@ -2335,14 +2386,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10519",
-      "ref": "N-10519",
-      "name": "Erika Kirk Next Model Management Involvement",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10478",
+      "ref": "N-10478",
+      "name": "Next Model Management / Erika Kirk Connection",
+      "type": "investigation_question",
       "description": "Topic for Erika's alleged control of modeling-linked entities.",
       "related_artifacts": [],
       "related_claims": [
@@ -2352,14 +2405,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10524",
-      "ref": "N-10524",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10481",
+      "ref": "N-10481",
       "name": "Faith Kates – Epstein Relationship Scope",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic linking Faith Kates to the Epstein network.",
       "related_artifacts": [],
       "related_claims": [
@@ -2369,14 +2423,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@type": "Topic",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for Charlie's lobbying against involvement.",
       "related_artifacts": [],
       "related_claims": [
@@ -2387,14 +2443,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10571",
-      "ref": "N-10571",
+      "@type": "Event",
+      "@id": "N-10522",
+      "ref": "N-10522",
       "name": "July 14, 2025 Long Beach Flight",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic for Erika's private flight to Long Beach.",
       "related_artifacts": [],
       "related_claims": [
@@ -2405,14 +2462,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-14"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the Aspen succession statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -2422,14 +2482,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10668",
-      "ref": "N-10668",
+      "@type": "Topic",
+      "@id": "N-10608",
+      "ref": "N-10608",
       "name": "Boston Consulting Group Government Pipeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for BCG's government roles.",
       "related_artifacts": [],
       "related_claims": [
@@ -2439,14 +2500,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10670",
-      "ref": "N-10670",
+      "@type": "Topic",
+      "@id": "N-10610",
+      "ref": "N-10610",
       "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the Gaza Humanitarian Foundation.",
       "related_artifacts": [],
       "related_claims": [
@@ -2457,14 +2519,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10674",
-      "ref": "N-10674",
+      "@type": "Event",
+      "@id": "N-10613",
+      "ref": "N-10613",
       "name": "June 18 White House Meeting on Iran Involvement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic for Charlie's White House visit.",
       "related_artifacts": [],
       "related_claims": [
@@ -2474,14 +2537,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-18",
+      "place": "N-10072"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10795",
-      "ref": "N-10795",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10719",
+      "ref": "N-10719",
       "name": "Wilson's Promised Release of \"Never-Before-Seen Messages\"",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the Andrew Wilson message leak.",
       "related_artifacts": [],
       "related_claims": [
@@ -2492,14 +2559,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10865",
-      "ref": "N-10865",
+      "@type": "Topic",
+      "@id": "N-10786",
+      "ref": "N-10786",
       "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for Erika's heaven-focus quotes.",
       "related_artifacts": [],
       "related_claims": [
@@ -2510,14 +2578,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10867",
-      "ref": "N-10867",
+      "@type": "Topic",
+      "@id": "N-10788",
+      "ref": "N-10788",
       "name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the smears against the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -2530,14 +2599,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization behind the Cabot Phillips request.",
       "related_artifacts": [],
       "related_claims": [
@@ -2547,14 +2617,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10925",
-      "ref": "N-10925",
+      "@type": "Organization",
+      "@id": "N-10846",
+      "ref": "N-10846",
       "name": "Turning Point Action",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization named in the missing-money claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2564,14 +2636,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10927",
-      "ref": "N-10927",
+      "@type": "Topic",
+      "@id": "N-10848",
+      "ref": "N-10848",
       "name": "Sergio Gor White House Exit and India Ambassadorship",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for Gor's move to India.",
       "related_artifacts": [],
       "related_claims": [
@@ -2581,7 +2655,27 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13726"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2595,7 +2689,7 @@
         "A-2466.1"
       ],
       "related_nodes": [
-        "N-10869"
+        "N-10790"
       ],
       "tags": [],
       "claim_timestamp": "00:05:00",
@@ -2614,8 +2708,8 @@
         "A-2467.1"
       ],
       "related_nodes": [
-        "N-10870",
-        "N-10388"
+        "N-10791",
+        "N-10361"
       ],
       "tags": [],
       "claim_timestamp": "00:15:21",
@@ -2639,9 +2733,9 @@
         "A-2467.1"
       ],
       "related_nodes": [
-        "N-10870",
-        "N-10863",
-        "N-10860"
+        "N-10791",
+        "N-10784",
+        "N-10781"
       ],
       "tags": [],
       "claim_timestamp": "00:20:10",
@@ -2661,11 +2755,11 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10871",
-        "N-10863",
-        "N-10860",
-        "N-10868",
-        "N-10033"
+        "N-10792",
+        "N-10784",
+        "N-10781",
+        "N-10789",
+        "N-10016"
       ],
       "tags": [],
       "claim_timestamp": "00:23:22",
@@ -2688,8 +2782,8 @@
         "A-2470.1"
       ],
       "related_nodes": [
-        "N-10871",
-        "N-10324"
+        "N-10792",
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:29:19",
@@ -2724,7 +2818,7 @@
         "A-2471.1"
       ],
       "related_nodes": [
-        "N-10872"
+        "N-10793"
       ],
       "tags": [],
       "claim_timestamp": "00:47:17",
@@ -2744,7 +2838,7 @@
         "A-2472.1"
       ],
       "related_nodes": [
-        "N-10873"
+        "N-10794"
       ],
       "tags": [],
       "claim_timestamp": "00:51:47",
@@ -2766,8 +2860,8 @@
         "A-2473.1"
       ],
       "related_nodes": [
-        "N-10056",
-        "N-10864"
+        "N-10053",
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "01:00:00",
@@ -2789,7 +2883,7 @@
         "A-2466.1"
       ],
       "related_nodes": [
-        "N-10869"
+        "N-10790"
       ],
       "tags": [],
       "claim_timestamp": "01:03:21",
@@ -2812,8 +2906,8 @@
         "A-2468.1"
       ],
       "related_nodes": [
-        "N-10863",
-        "N-10870"
+        "N-10784",
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -2832,8 +2926,8 @@
       "claim": "The host says Vanity Fair confirmed on the Monday that Erika assumed her husband's position as CEO and chairman within 48 hours of his death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10864",
-        "N-10194"
+        "N-10785",
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:01:36",
@@ -2853,8 +2947,8 @@
         "A-2809.1"
       ],
       "related_nodes": [
-        "N-11092",
-        "N-10194"
+        "N-11010",
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:01:36",
@@ -2875,7 +2969,7 @@
         "A-2809.1"
       ],
       "related_nodes": [
-        "N-11092"
+        "N-11010"
       ],
       "tags": [],
       "claim_timestamp": "00:02:39",
@@ -2897,8 +2991,8 @@
       "claim": "The host says nobody imagined that Erika was in the office taking Zoom calls, announcing Turning Point 2.0, giggling and celebrating the money made in merchandise sales at Charlie's memorial within the first two weeks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002",
-        "N-10443"
+        "N-10412",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:02:39",
@@ -2917,7 +3011,7 @@
       "claim": "The host says Turning Point USA decided to encase Charlie's bloodied microphone as an emotional appeal to donors at its annual Mar-a-Lago event and at AmFest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10869",
+        "N-10790",
         "N-10002"
       ],
       "tags": [],
@@ -2936,7 +3030,7 @@
       "claim": "The host says Turning Point USA allegedly raised $40 million at the Mar-a-Lago event, partly because of heartstring-pulling displays such as Erika photographed next to the microphone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10869"
+        "N-10790"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
@@ -2954,8 +3048,8 @@
       "claim": "The host says people at Turning Point USA are disgusted and feel lied to about many things, especially after the UVU independent review.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10839",
-        "N-10859"
+        "N-10762",
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:04:28",
@@ -2973,7 +3067,7 @@
       "claim": "The host says Erika Kirk shared text messages (and, as transcribed, the final moments of her children) with Andrew Wilson, which the host says cost Erika credibility.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10795"
+        "N-10719"
       ],
       "tags": [],
       "claim_timestamp": "00:06:30",
@@ -2994,7 +3088,7 @@
         "A-2809.2"
       ],
       "related_nodes": [
-        "N-10863"
+        "N-10784"
       ],
       "tags": [],
       "claim_timestamp": "00:06:30",
@@ -3014,7 +3108,7 @@
         "A-2809.2"
       ],
       "related_nodes": [
-        "N-11093",
+        "N-11011",
         "N-10012"
       ],
       "tags": [],
@@ -3035,8 +3129,8 @@
         "A-2809.2"
       ],
       "related_nodes": [
-        "N-11093",
-        "N-10863"
+        "N-11011",
+        "N-10784"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
@@ -3054,8 +3148,8 @@
       "claim": "The host says Zionist donors pulled out in July because of Charlie's shifting stance on Israel, that Bob Shillman pulled millions, that others also pulled millions, and that Charlie wanted to make up the money elsewhere.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10036",
-        "N-10056"
+        "N-10035",
+        "N-10053"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
@@ -3077,8 +3171,8 @@
       "claim": "The host says Turning Point USA still will not acknowledge that Charlie's stance on Israel was shifting, although she says everyone else including Vanity Fair has acknowledged it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056",
-        "N-10864"
+        "N-10053",
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
@@ -3099,7 +3193,7 @@
         "A-2468.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:08:45",
@@ -3119,7 +3213,7 @@
         "A-2809.2"
       ],
       "related_nodes": [
-        "N-10870",
+        "N-10791",
         "N-10012"
       ],
       "tags": [],
@@ -3138,7 +3232,7 @@
       "claim": "The host says Yrefy came in as a massive sponsor of Turning Point USA in 2024, right after she stopped touring with Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:10:05",
@@ -3159,7 +3253,7 @@
         "A-2809.4"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:10:21",
@@ -3179,7 +3273,7 @@
         "A-2809.4"
       ],
       "related_nodes": [
-        "N-10134",
+        "N-10129",
         "N-10016"
       ],
       "tags": [],
@@ -3200,7 +3294,7 @@
         "A-2809.4"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:11:10",
@@ -3219,7 +3313,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:11:10",
@@ -3241,15 +3335,15 @@
         "A-2810.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10870"
+        "N-10067",
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:11:10",
       "investigative_direction": "Retrieve the Daily Mail article and confirm date, byline and the supplied documents about speaking slots.",
       "transcript_snippet": "shady student loan refinance company accused of paying Turning Point USA for speaking slots so that it can pitch to college kids.",
       "mentions_person_refs": [
-        "N-10870"
+        "N-10791"
       ]
     },
     {
@@ -3262,15 +3356,15 @@
         "A-2810.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10870"
+        "N-10067",
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:12:40",
       "investigative_direction": "Obtain the state regulator's consent order or settlement and verify amount, date and the no-admit clause.",
       "transcript_snippet": "the Daily Mail can reveal Ryi last year faced $750,000 in state sanctions in a settlement of accusations of deceptive marketing and investment materials aimed at private funders",
       "mentions_person_refs": [
-        "N-10870"
+        "N-10791"
       ]
     },
     {
@@ -3283,8 +3377,8 @@
         "A-2810.1"
       ],
       "related_nodes": [
-        "N-10870",
-        "N-10070"
+        "N-10791",
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:13:56",
@@ -3302,8 +3396,8 @@
       "claim": "The host says Charlie noticed money was missing at Turning Point USA, with trouble specifically at Turning Point Action, that TPUSA has declined the claims but the claims came from TPUSA, and that she believes the people who say money was missing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10388",
-        "N-10925"
+        "N-10361",
+        "N-10846"
       ],
       "tags": [],
       "claim_timestamp": "00:13:56",
@@ -3321,8 +3415,8 @@
       "claim": "The host says Charlie established a DOGE (efficiency department) seven days before he died and that she does not believe he did so for no reason.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10434",
-        "N-10132"
+        "N-10404",
+        "N-10127"
       ],
       "tags": [],
       "claim_timestamp": "00:13:56",
@@ -3346,7 +3440,7 @@
         "A-2467.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:15:21",
@@ -3363,7 +3457,7 @@
         "A-2467.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:17:29",
@@ -3380,7 +3474,7 @@
         "A-2467.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:17:29",
@@ -3400,7 +3494,7 @@
         "A-2467.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:17:29",
@@ -3425,7 +3519,7 @@
         "A-2467.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:19:08",
@@ -3442,15 +3536,15 @@
         "A-2468.1"
       ],
       "related_nodes": [
-        "N-10870",
-        "N-10863"
+        "N-10791",
+        "N-10784"
       ],
       "tags": [],
       "claim_timestamp": "00:20:10",
       "investigative_direction": "Obtain the full addendum PDF and confirm signatories, execution date and page count.",
       "transcript_snippet": "This contract, this agreement is going to be really just one page.",
       "mentions_person_refs": [
-        "N-10863"
+        "N-10784"
       ]
     },
     {
@@ -3463,7 +3557,7 @@
         "A-2468.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:21:01",
@@ -3480,7 +3574,7 @@
         "A-2468.1"
       ],
       "related_nodes": [
-        "N-10870",
+        "N-10791",
         "N-10012"
       ],
       "tags": [],
@@ -3501,7 +3595,7 @@
         "A-2809.4"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:22:13",
@@ -3521,8 +3615,8 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10211",
-        "N-10276"
+        "N-10203",
+        "N-10259"
       ],
       "tags": [],
       "claim_timestamp": "00:23:22",
@@ -3542,7 +3636,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10075"
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:23:22",
@@ -3565,7 +3659,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10927"
+        "N-10848"
       ],
       "tags": [],
       "claim_timestamp": "00:23:22",
@@ -3609,15 +3703,15 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10668",
-        "N-10670"
+        "N-10608",
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:24:57",
       "investigative_direction": "Check BCG and GHF statements, press reports and contract end dates for June 2025.",
       "transcript_snippet": "So, Boston Consulting Group has got to get out of that in early June of 2025 because of the scandal.",
       "mentions_person_refs": [
-        "N-10670"
+        "N-10610"
       ]
     },
     {
@@ -3630,7 +3724,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:25:15",
@@ -3669,7 +3763,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [],
       "claim_timestamp": "00:25:31",
@@ -3708,8 +3802,8 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10674",
-        "N-10539"
+        "N-10613",
+        "N-10494"
       ],
       "tags": [],
       "claim_timestamp": "00:25:31",
@@ -3730,7 +3824,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10412"
+        "N-10385"
       ],
       "tags": [],
       "claim_timestamp": "00:26:34",
@@ -3771,7 +3865,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10036"
+        "N-10035"
       ],
       "tags": [],
       "claim_timestamp": "00:27:34",
@@ -3839,7 +3933,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:28:21",
@@ -3861,7 +3955,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:28:21",
@@ -3882,7 +3976,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10571"
+        "N-10522"
       ],
       "tags": [],
       "claim_timestamp": "00:28:21",
@@ -3903,8 +3997,8 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10571",
-        "N-10056"
+        "N-10522",
+        "N-10053"
       ],
       "tags": [],
       "claim_timestamp": "00:28:21",
@@ -3925,7 +4019,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-11095"
+        "N-11013"
       ],
       "tags": [],
       "claim_timestamp": "00:29:19",
@@ -3947,7 +4041,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-11095"
+        "N-11013"
       ],
       "tags": [],
       "claim_timestamp": "00:30:48",
@@ -3969,14 +4063,14 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:31:08",
       "investigative_direction": "Verify the July 18 date in the UVU independent review's event-application timeline.",
       "transcript_snippet": "On July 18th, there was a formal request for Turning Point USA's UVU chapter that's submitted.",
       "mentions_person_refs": [
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -3989,17 +4083,17 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10253",
-        "N-10276",
-        "N-10347"
+        "N-10239",
+        "N-10259",
+        "N-10325"
       ],
       "tags": [],
       "claim_timestamp": "00:31:20",
       "investigative_direction": "Match the tail number's FlightAware or ADS-B history against the stated route and date.",
       "transcript_snippet": "July 20th, the Egyptian plane flew from Cairo through to Paris onto Omaha, Nebraska, and then onward to Lincoln, Nebraska.",
       "mentions_person_refs": [
-        "N-10276",
-        "N-10347"
+        "N-10259",
+        "N-10325"
       ]
     },
     {
@@ -4033,8 +4127,8 @@
         "A-2470.1"
       ],
       "related_nodes": [
-        "N-11095",
-        "N-10324"
+        "N-11013",
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:31:52",
@@ -4055,8 +4149,8 @@
         "A-2470.1"
       ],
       "related_nodes": [
-        "N-10324",
-        "N-11095"
+        "N-10303",
+        "N-11013"
       ],
       "tags": [],
       "claim_timestamp": "00:31:52",
@@ -4076,7 +4170,7 @@
         "A-2470.1"
       ],
       "related_nodes": [
-        "N-11095"
+        "N-11013"
       ],
       "tags": [],
       "claim_timestamp": "00:31:52",
@@ -4098,15 +4192,15 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10253",
-        "N-10347"
+        "N-10239",
+        "N-10325"
       ],
       "tags": [],
       "claim_timestamp": "00:33:08",
       "investigative_direction": "Verify the departure airport and date in ADS-B records; the host herself flags this as unverified.",
       "transcript_snippet": "On July 27th, we know that the Egyptian plane um then departs Wilmington, Delaware, and heads back to Cairo on the 27th.",
       "mentions_person_refs": [
-        "N-10347"
+        "N-10325"
       ]
     },
     {
@@ -4119,7 +4213,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10134",
+        "N-10129",
         "N-10016"
       ],
       "tags": [],
@@ -4142,7 +4236,7 @@
       ],
       "related_nodes": [
         "N-10018",
-        "N-10446"
+        "N-10415"
       ],
       "tags": [],
       "claim_timestamp": "00:33:08",
@@ -4192,7 +4286,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10134",
+        "N-10129",
         "N-10016"
       ],
       "tags": [],
@@ -4213,8 +4307,8 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10868",
-        "N-10867"
+        "N-10789",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:34:20",
@@ -4234,8 +4328,8 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10134",
-        "N-10033"
+        "N-10129",
+        "N-10016"
       ],
       "tags": [],
       "claim_timestamp": "00:34:39",
@@ -4256,8 +4350,8 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10868",
-        "N-10867"
+        "N-10789",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:34:39",
@@ -4277,7 +4371,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-11095"
+        "N-11013"
       ],
       "tags": [],
       "claim_timestamp": "00:34:39",
@@ -4299,8 +4393,8 @@
         "A-2470.1"
       ],
       "related_nodes": [
-        "N-10324",
-        "N-11095"
+        "N-10303",
+        "N-11013"
       ],
       "tags": [],
       "claim_timestamp": "00:35:55",
@@ -4323,7 +4417,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10900",
+        "N-10821",
         "N-10012"
       ],
       "tags": [],
@@ -4364,8 +4458,8 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10194",
-        "N-10664"
+        "N-10186",
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:37:18",
@@ -4386,15 +4480,15 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10253",
-        "N-10276"
+        "N-10239",
+        "N-10259"
       ],
       "tags": [],
       "claim_timestamp": "00:37:27",
       "investigative_direction": "Compare ADS-B arrival times and the airports against the host's description.",
       "transcript_snippet": "We have our Egyptian planes that come in and they land into Lincoln all places. They are in Lincoln at noon um Lincoln, Nebraska.",
       "mentions_person_refs": [
-        "N-10276"
+        "N-10259"
       ]
     },
     {
@@ -4407,8 +4501,8 @@
         "A-2809.5"
       ],
       "related_nodes": [
-        "N-11094",
-        "N-10253"
+        "N-11012",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:37:41",
@@ -4428,7 +4522,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:38:16",
@@ -4451,7 +4545,7 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10366"
+        "N-10341"
       ],
       "tags": [],
       "claim_timestamp": "00:38:16",
@@ -4468,8 +4562,8 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10839",
-        "N-10859"
+        "N-10762",
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:38:16",
@@ -4489,8 +4583,8 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-10839",
-        "N-10860"
+        "N-10762",
+        "N-10781"
       ],
       "tags": [],
       "claim_timestamp": "00:39:30",
@@ -4544,8 +4638,8 @@
       "claim": "The host says her team asked Turning Point USA why people who worked there say Erika was in control of the modeling-apartments company that Jean-Luc Brunel started, and got no answer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10519",
-        "N-10524"
+        "N-10478",
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:40:55",
@@ -4564,8 +4658,8 @@
       "claim": "The host says the college final she is seen submitting, the video archived in July, was about the Adderall epidemic on campus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10868",
-        "N-10867"
+        "N-10789",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:42:04",
@@ -4583,7 +4677,7 @@
       "claim": "The host says Kash Patel and Dan Bongino found the J6 pipe-bomb suspect, an autistic black man named Brian Cole Jr., arrested five years after the events, and that the FBI says he confessed while his legal team says he has autism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10872"
+        "N-10793"
       ],
       "tags": [],
       "claim_timestamp": "00:45:54",
@@ -4603,7 +4697,7 @@
       "claim": "The host says she received information that everyone on Capitol Hill knows the individual was actually out of Nancy Pelosi's office and was allegedly a woman; this is her source's assertion, not demonstrated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10872"
+        "N-10793"
       ],
       "tags": [],
       "claim_timestamp": "00:45:54",
@@ -4621,7 +4715,7 @@
       "claim": "The host says federal agents descended on Brian Cole Jr.'s home in December 2025, that he lives with his mother and other family members about 20 miles outside Washington DC, and that he works for a family bail bond company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10872"
+        "N-10793"
       ],
       "tags": [],
       "claim_timestamp": "00:49:42",
@@ -4639,7 +4733,7 @@
       "claim": "The host says Brian Cole Jr. has pleaded not guilty and was denied bond in January.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10872"
+        "N-10793"
       ],
       "tags": [],
       "claim_timestamp": "00:49:42",
@@ -4660,7 +4754,7 @@
         "A-2472.1"
       ],
       "related_nodes": [
-        "N-10873"
+        "N-10794"
       ],
       "tags": [],
       "claim_timestamp": "00:51:47",
@@ -4681,7 +4775,7 @@
         "A-2472.1"
       ],
       "related_nodes": [
-        "N-10873"
+        "N-10794"
       ],
       "tags": [],
       "claim_timestamp": "00:53:52",
@@ -4703,7 +4797,7 @@
         "A-2812.1"
       ],
       "related_nodes": [
-        "N-10873"
+        "N-10794"
       ],
       "tags": [],
       "claim_timestamp": "00:55:15",
@@ -4723,7 +4817,7 @@
         "A-2812.1"
       ],
       "related_nodes": [
-        "N-10873"
+        "N-10794"
       ],
       "tags": [],
       "claim_timestamp": "00:55:31",
@@ -4743,7 +4837,7 @@
         "A-2473.1"
       ],
       "related_nodes": [
-        "N-10865"
+        "N-10786"
       ],
       "tags": [],
       "claim_timestamp": "01:01:24",
@@ -4763,8 +4857,8 @@
         "A-2473.1"
       ],
       "related_nodes": [
-        "N-10056",
-        "N-10865"
+        "N-10053",
+        "N-10786"
       ],
       "tags": [],
       "claim_timestamp": "01:00:00",
@@ -4783,8 +4877,8 @@
       "claim": "The host says Erika gave Vanity Fair four months of access and asks why she did not give it messages instead of sending them to Andrew Wilson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10864",
-        "N-10795"
+        "N-10785",
+        "N-10719"
       ],
       "tags": [],
       "claim_timestamp": "01:04:59",
@@ -4803,8 +4897,8 @@
       "claim": "The host thanks the UVU independent review, Lake Forest Group and the Vanity Fair reporter, saying she has had the most vindicated week.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10839",
-        "N-11076"
+        "N-10762",
+        "N-10994"
       ],
       "tags": [],
       "claim_timestamp": "01:06:26",
@@ -4822,7 +4916,7 @@
       "claim": "The host says she has a highly identifying mark and so fake pornography cannot be made about her, in the context of the smear attempts against her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10867"
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "01:06:45",

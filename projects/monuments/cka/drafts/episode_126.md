@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 1ddb949014d21abea78d5fe7320464c1e305ba976511e526905ea0ce305924f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-817, N-818, N-11198, N-11200, N-11201
-  - Hole-minted Nodes (reintro-ep126): N-10755
+  - Tip-minted Nodes (supplement_2026-10c): N-817, N-818, N-11114, N-11116, N-11117
+  - Hole-minted Nodes (reintro-ep126): N-10685
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10772–C-10861
-  - Reused Nodes Appearing: N-10724, N-10719, N-10723, N-10717, N-3, N-5, N-14, N-40, N-42, N-97, N-104, N-105, N-159, N-266, N-270, N-278, N-452, N-522, N-10000, N-10026, N-10032, N-10051, N-10053, N-10098, N-10099, N-10121, N-10314, N-10334, N-10343, N-10358, N-10381, N-10447, N-10588, N-10625, N-10657, N-10662, N-10712, N-10715, N-10716, N-10730, N-10850, N-10975, N-10987, N-11017, N-11065, N-10754, N-10722, N-11199
- - New Nodes Introduced: N-10718, N-10720, N-10721, N-10724
+  - Reused Nodes Appearing: N-10659, N-10655, N-10658, N-10653, N-3, N-5, N-14, N-40, N-42, N-97, N-104, N-105, N-159, N-266, N-270, N-278, N-452, N-522, N-10000, N-10026, N-10032, N-10048, N-10050, N-10094, N-10095, N-10295, N-10313, N-10321, N-10334, N-10354, N-10416, N-10536, N-10571, N-10599, N-10604, N-10648, N-10651, N-10652, N-10664, N-10773, N-10896, N-10907, N-10937, N-10983, N-10684, N-10657, N-11115
+ - New Nodes Introduced: N-10654, N-10656, N-10659
  - Reused Nodes Appearing: N-11, N-430
  - Hole-minted Nodes (wave3): N-504, N-505
  - (see registers)
@@ -37,7 +37,7 @@
 - **Ledger Continuation Summary:**
  - Artifact Families Introduced: A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
  - New Nodes Introduced (People): none (Wave 2: local ids removed)
- - New Nodes Introduced (Investigation Targets): N-10717, N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724
+ - New Nodes Introduced (Investigation Targets): N-10653, N-10654, N-10655, N-10656, N-10657, N-10658, N-10659
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -76,7 +76,7 @@ Video Timestamp: 00:08:30–00:12:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10783, N-10717, N-10718, N-505*
+*Related: C-10783, N-10653, N-10654, N-505*
 
 **A-2139.2** Faumuina Testimony on Communication to FBI/ATF Discontinuing Testing
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:09:25–00:11:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10782, N-10718, N-505*
+*Related: C-10782, N-10654, N-505*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:15:25–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10800, N-10717*
+*Related: C-10800, N-10653*
 
 **A-2140.2** Witness Description of Shooter Attire and Firearm
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:19:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10792, N-10719*
+*Related: C-10792, N-10655*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:22:01–00:23:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10811, N-10717*
+*Related: C-10811, N-10653*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:07:20–00:08:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10779, N-10720*
+*Related: C-10779, N-10652*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:29:15–00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10775 [corrected: see C-10819], N-10724*
+*Related: C-10775 [corrected: see C-10819], N-10659*
 
 **A-2143.2** Comperatore Statement on Secret Service One-Year Delay
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10824, N-10724*
+*Related: C-10824, N-10659*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:34:37–00:39:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10827, C-10831, N-10722*
+*Related: C-10827, C-10831, N-10657*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:02:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10773, N-1, N-10723*
+*Related: C-10773, N-1, N-10658*
 
 ---
 
@@ -269,7 +269,7 @@ Video Timestamp: 00:47:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10850, N-10723*
+*Related: C-10850, N-10658*
 
 **A-2976.3** Rage Raper comment about Robinson's texts and the clothing description
 
@@ -355,7 +355,7 @@ Named by the host at 00:34:37 in episode 126; first introduced in episode 99.
 *Related: C-10827, C-10831*
 
 
-**N-10717** Losee Center–Library Route Discrepancy
+**N-10653** Losee Center–Library Route Discrepancy
 
 Investigative target: the geographic and testimonial claim that items/persons near the Fulton Library are linked to a "route" from Losee Center despite distance.
 
@@ -368,7 +368,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10718** Abandoned Tactical Items Testing Discontinued
+**N-10654** Abandoned Backpack / Jacket / Gloves Non-Testing Decision
 
 Investigative target: the FBI/ATF lab decision to halt DNA/other analysis on the abandoned backpack, jacket, gloves (and up to 9 items).
 
@@ -381,7 +381,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10719** Prosecution Non-Call of Rooftop Eyewitness
+**N-10655** Prosecution Non-Call of Rooftop Eyewitness
 
 Investigative target: the absence of the rooftop eyewitness from the prosecution's witness list despite recorded video and filed report.
 
@@ -394,20 +394,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10720** Bank of America Network Connection
-
-Investigative target: recurring Bank of America/Merrill Lynch consultancy or employment ties among figures in the investigation orbit (Tyler Bowyer's father, Frank Turek, others).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2142.1, C-10779, N-11*
-
----
-
-**N-10721** Comperatore "Inside Job" Allegation
+**N-10656** Comperatore "Inside Job" Allegation
 
 Investigative target: Helen Comperatore's on-record assertion that Butler shooting involved an inside collaborator with Thomas Crooks.
 
@@ -416,11 +403,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2143.1, C-10819, N-10724*
+*Related: A-2143.1, C-10819, N-10659*
 
 ---
 
-**N-10722** Clock Tower X / Israeli Influence Operation
+**N-10657** Clock Tower X / Israeli Influence Operation
 
 Investigative target: Brad Parscale's firm contracted by Israeli foreign ministry for digital influence campaign; Time-reported failure and cost figures.
 
@@ -433,7 +420,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10723** Carhartt "Freedom Shirt" Origin
+**N-10658** Carhartt "Freedom Shirt" Origin
 
 Investigative target: provenance of the custom Carhartt shirt worn by Charlie on Sept 10; absence of Carhartt as documented TPUSA vendor.
 
@@ -446,7 +433,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10724** Butler Shooting Insider Involvement Claim
+**N-10659** Butler Shooting Insider Involvement Claim
 
 Investigative target: Helen Comperatore's claim that Butler shooting involved an "inside" collaborator and her appeal to President Trump.
 
@@ -455,7 +442,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2143.1, A-2143.2, C-10819, C-10824, N-10721*
+*Related: A-2143.1, A-2143.2, C-10819, C-10824, N-10656*
 
 ---
 
@@ -500,7 +487,7 @@ Existing topic reused for the host's decoy theory.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing topic reused for the clothes-dumping claim.
 
@@ -508,7 +495,7 @@ Existing topic reused for the clothes-dumping claim.
 
 ---
 
-**N-10053** Vacant-House / Decoy Shooter Theory
+**N-10050** Vacant-House / Decoy Shooter Theory
 
 Existing topic reused for the decoy-on-roof theory.
 
@@ -516,7 +503,7 @@ Existing topic reused for the decoy-on-roof theory.
 
 ---
 
-**N-10098** Roof Video Provenance Chain
+**N-10094** Roof Video Provenance Chain
 
 Existing topic reused for the origin and spread of the rooftop clip.
 
@@ -524,7 +511,7 @@ Existing topic reused for the origin and spread of the rooftop clip.
 
 ---
 
-**N-10099** Shooter Description Contradiction
+**N-10095** Shooter Description Contradiction
 
 Existing topic reused for witness descriptions of attire, helmet and range.
 
@@ -532,15 +519,7 @@ Existing topic reused for witness descriptions of attire, helmet and range.
 
 ---
 
-**N-10121** Eyewitness Roof-Description Discrepancy
-
-Existing topic reused for eyewitness rooftop descriptions.
-
-*Related: C-10788, C-10808*
-
----
-
-**N-10314** Roof Shooter Video Witness Follow-up
+**N-10295** Roof Shooter Video Witness Follow-up
 
 Existing topic reused for the host's contact with the rooftop filmer.
 
@@ -548,7 +527,7 @@ Existing topic reused for the host's contact with the rooftop filmer.
 
 ---
 
-**N-10334** CBS Bari Weiss Town Hall Production Integrity
+**N-10313** CBS Bari Weiss Town Hall Production Integrity
 
 Existing topic reused for the town hall contrast.
 
@@ -556,7 +535,7 @@ Existing topic reused for the town hall contrast.
 
 ---
 
-**N-10343** Tyler Robinson Rooftop Access Timeline
+**N-10321** Tyler Robinson Rooftop Access Timeline
 
 Existing topic reused for timing of the figure on the roof.
 
@@ -564,7 +543,7 @@ Existing topic reused for timing of the figure on the roof.
 
 ---
 
-**N-10358** Surgeon Quotation Authenticity Question
+**N-10334** Surgeon Quotation Authenticity Question
 
 Existing topic reused for the surgeon-call dispute.
 
@@ -572,7 +551,7 @@ Existing topic reused for the surgeon-call dispute.
 
 ---
 
-**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Existing topic reused for the Panguitch steakhouse claim.
 
@@ -580,7 +559,7 @@ Existing topic reused for the Panguitch steakhouse claim.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing topic reused for the HIPAA dispute.
 
@@ -596,7 +575,7 @@ Butler shooter; Helen Comperatore believes he worked with someone inside.
 
 ---
 
-**N-10588** Butler PA Investigation Closure Verification
+**N-10536** Butler PA Investigation Closure Verification
 
 Existing topic reused for Butler investigation satisfaction.
 
@@ -604,7 +583,7 @@ Existing topic reused for Butler investigation satisfaction.
 
 ---
 
-**N-10625** Probable Cause Hearing Exhibit Count (35 Exhibits)
+**N-10571** Probable Cause Hearing Exhibit Count (35 Exhibits)
 
 Existing topic reused for the exhibits and video shown at the hearing.
 
@@ -612,7 +591,7 @@ Existing topic reused for the exhibits and video shown at the hearing.
 
 ---
 
-**N-10657** Salem Media Foreign Agent Registration Status
+**N-10599** Salem Media Foreign Agent Registration Status
 
 Existing topic reused for the Salem integration clause.
 
@@ -620,7 +599,7 @@ Existing topic reused for the Salem integration clause.
 
 ---
 
-**N-10662** 2025 FARA Propaganda Timeline Convergence
+**N-10604** 2025 FARA Propaganda Timeline Convergence
 
 Existing topic reused for FARA filing timing.
 
@@ -628,7 +607,7 @@ Existing topic reused for FARA filing timing.
 
 ---
 
-**N-10712** Ben Shapiro Car Ride Live Updates
+**N-10648** Ben Shapiro Car Ride Live Updates
 
 Existing topic reused for the driver and security update theory.
 
@@ -636,7 +615,7 @@ Existing topic reused for the driver and security update theory.
 
 ---
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Existing topic reused for Neff's September 10 whereabouts.
 
@@ -644,7 +623,7 @@ Existing topic reused for Neff's September 10 whereabouts.
 
 ---
 
-**N-10716** Bank of America Merrill Lynch Personnel Network
+**N-10652** Bank of America Merrill Lynch Personnel Network
 
 Existing topic reused for the parents-at-Bank-of-America chart.
 
@@ -652,7 +631,7 @@ Existing topic reused for the parents-at-Bank-of-America chart.
 
 ---
 
-**N-10730** Frank Turek FaceTime Story Inconsistency
+**N-10664** Frank Turek FaceTime Story Inconsistency
 
 Existing topic reused for the FaceTime call question.
 
@@ -660,7 +639,7 @@ Existing topic reused for the FaceTime call question.
 
 ---
 
-**N-10754** Rooftop Movement Tactical Analysis
+**N-10684** Rooftop Movement Tactical Analysis
 
 Existing topic reused for IMT and tactical movement.
 
@@ -668,7 +647,7 @@ Existing topic reused for IMT and tactical movement.
 
 ---
 
-**N-10755** Weapon Discharge Visual Indicators
+**N-10685** Weapon Discharge Visual Indicators
 
 Existing topic reused for muzzle flash and recoil observations.
 
@@ -676,7 +655,7 @@ Existing topic reused for muzzle flash and recoil observations.
 
 ---
 
-**N-10850** Two Grey Dodge Challengers Discrepancy
+**N-10773** Two Grey Dodge Challengers Discrepancy
 
 Existing topic reused for the decoy Challenger rental inquiry.
 
@@ -684,7 +663,7 @@ Existing topic reused for the decoy Challenger rental inquiry.
 
 ---
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Federal agency whose notes are referenced in the questioning.
 
@@ -692,7 +671,7 @@ Federal agency whose notes are referenced in the questioning.
 
 ---
 
-**N-10987** Charlie Kirk Inside-Shirt Rode Mic Placement
+**N-10907** Charlie Kirk Inside-Shirt Rode Mic Placement
 
 Existing topic reused for the under-the-shirt theory.
 
@@ -700,7 +679,7 @@ Existing topic reused for the under-the-shirt theory.
 
 ---
 
-**N-11017** TPUSA Influencer Payment Campaign Allegation
+**N-10937** TPUSA Influencer Payment Campaign Allegation
 
 Existing topic reused for paid-influencer claims.
 
@@ -708,7 +687,7 @@ Existing topic reused for paid-influencer claims.
 
 ---
 
-**N-11065** Preliminary Hearing Influencer Invitation Question
+**N-10983** Preliminary Hearing Influencer Invitation Question
 
 Existing topic reused for influencers shown footage at the hearing.
 
@@ -852,34 +831,34 @@ First named by the host at 00:34:37 in episode 126. Account the host says the Ti
 
 ---
 
-**N-11198** Rooftop Video Missing Minute Question
+**N-11114** Rooftop Video Missing Minute Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's statement that a minute was removed from the rooftop video shown in court, and the open question of what it showed.
 
 *Related: C-10809*
 
 ---
 
-**N-11199** Library 911 Calls and Lockdown
+**N-11115** Library 911 Calls and Lockdown
 
-Node Type: Topic
+Node Type: Event
 The string of 911 calls and dispatch reports about shots near the UVU library and the library lockdown, away from the Losee Center.
 
 *Related: C-10812, C-10813*
 
 ---
 
-**N-11200** Unfired .223 Round on Science Building
+**N-11116** Unfired .223 Round on Science Building
 
-Node Type: Topic
+Node Type: Thing
 Testimony the host cites about an unfired .223 round found atop the science building and the officers' answer about not acting on it.
 
 *Related: C-10814, C-10815*
 
 ---
 
-**N-11201** Influencable
+**N-11117** Influencable
 
 Node Type: Organization
 Company the host says Time reports Brad Parscale owned or part owned, which she says pays people by engagement to post set messages.
@@ -898,7 +877,7 @@ Claim: In a hearing clip the host plays, Sergeant Faumuina testifies that office
 
 Anchored Artifacts: A-2139.1
 Mentions: N-505
-Related Nodes: N-10717, N-10718
+Related Nodes: N-10653, N-10654
 Investigative Direction: Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody.
 
 ---
@@ -911,7 +890,7 @@ Claim: In a hearing clip the host plays, Sergeant Faumuina agrees that the seize
 
 Anchored Artifacts: A-2139.2
 Mentions: N-505
-Related Nodes: N-10718
+Related Nodes: N-10654
 Investigative Direction: Obtain FBI/ATF lab correspondence and UVU communications log for the testing discontinuation instruction.
 
 ---
@@ -923,7 +902,7 @@ Claim Timestamp: 00:17:10
 Claim: In a September 25 recording the host plays, the anonymous eyewitness says the rooftop person moved in what looked like a tactical movement, going down to look around, then standing and running about 6 feet forward, and was in view for about 30 seconds in total, taking about 10 seconds to reach the spot where he lay down to shoot.
 
 Anchored Artifacts: A-2140.1
-Related Nodes: N-10717
+Related Nodes: N-10653
 Investigative Direction: Compare witness description to rooftop video exhibits and to expert definitions of Individual Movement Technique (IMT).
 
 ---
@@ -935,7 +914,7 @@ Claim Timestamp: 00:18:26
 Claim: In a recording the host plays, the anonymous eyewitness describes the rooftop person as wearing all-black tactical gear with a face mask, and says he could not determine race because all skin was covered.
 
 Anchored Artifacts: A-2140.2
-Related Nodes: N-10717
+Related Nodes: N-10653
 Investigative Direction: Cross-reference with police scanner descriptions and the 911 call (A-2141.1); obtain witness's filed written report.
 
 ---
@@ -959,7 +938,7 @@ Claim Timestamp: 00:22:01
 Claim: In a 911 call the host plays, a voice reports a person on top of a building on the far north side, just east of the library, wearing jeans, a black shirt and a black vest; a second voice repeats it, adding a black mask and a long rifle.
 
 Anchored Artifacts: A-2141.1
-Related Nodes: N-10717
+Related Nodes: N-10653
 Investigative Direction: Obtain full 911 transcript and dispatch records for the library area to verify caller statement and subsequent library lockdown.
 
 ---
@@ -971,7 +950,7 @@ Claim Timestamp: 00:19:08
 Claim: In the September 25 recording the host plays, the host says the police scanner described a person in a face mask and tactical gear, while the feds are now saying he wore jeans or something.
 
 Anchored Artifacts: (verbally referenced police scanner; not displayed as audio artifact in episode)
-Related Nodes: N-10717
+Related Nodes: N-10653
 Investigative Direction: Obtain police scanner audio archive and CAD logs from Sept 10 to verify initial dispatch descriptions.
 
 *Note: This claim is supported by host assertion referencing scanner but no displayed audio artifact was shown; recorded as host concurrence claim per read/display rule analog. Flag: requires verification.*
@@ -985,7 +964,7 @@ Claim Timestamp: 00:14:25
 Claim: The host says the eyewitness was contacted by federal authorities only once, a few days after the incident, and has never been called by the prosecution despite being willing to testify.
 
 Anchored Artifacts: A-2140.3
-Related Nodes: N-10719
+Related Nodes: N-10655
 Investigative Direction: Obtain prosecution witness list for Tyler Robinson trial; confirm whether witness was subpoenaed or deposed.
 
 ---
@@ -998,7 +977,7 @@ Claim: Per the Christian Post article (2011) the host reads, Dr. Frank Turek did
 
 Anchored Artifacts: A-2142.1
 Mentions: N-7
-Related Nodes: N-10720
+Related Nodes: N-10652
 Investigative Direction: Verify Bank of America consultancy records and corroborate the 2011 firing and stated reason.
 
 *Flag: Transcript records host as stating "Frank Cherico" while the read article names "Dr. Frank Turek" – possible transcription error or verbal name mix.*
@@ -1013,7 +992,7 @@ Claim: Nate Walker, Charlie's executive assistant, told Megyn Kelly that Charlie
 
 Anchored Artifacts: A-2138.1
 Mentions: N-1, N-46, N-504
-Related Nodes: N-10723
+Related Nodes: N-10658
 Investigative Direction: Obtain full Megyn Kelly interview and any prior on-record statements by Walker.
 
 ---
@@ -1026,7 +1005,7 @@ Claim: Helen Comperatore stated on NewsNation that she believes the Butler shoot
 
 Anchored Artifacts: A-2143.1
 Mentions: N-817, N-104
-Related Nodes: N-10721, N-10724
+Related Nodes: N-10656, N-10659
 Investigative Direction: Obtain full NewsNation interview; identify any specific evidence references Comperatore cited ("I've been told things").
 
 ---
@@ -1039,7 +1018,7 @@ Claim: In a NewsNation clip the host plays, a reporter says Helen Comperatore sa
 
 Anchored Artifacts: A-2143.2
 Mentions: N-817
-Related Nodes: N-10724
+Related Nodes: N-10659
 Investigative Direction: Obtain NewsNation transcript and verify Secret Service contact timeline with the Comperatore family.
 
 ---
@@ -1052,7 +1031,7 @@ Claim: The host says Time published an article about the Israeli foreign ministr
 
 Anchored Artifacts: A-2144.1
 Mentions: N-430
-Related Nodes: N-10722
+Related Nodes: N-10657
 Investigative Direction: Obtain Time article in full; verify spend figures and named individuals (e.g., Eyal Yakoby).
 
 ---
@@ -1065,7 +1044,7 @@ Claim: The host says the Time article reports that the Israeli government's digi
 
 Anchored Artifacts: A-2144.1
 Mentions: N-430
-Related Nodes: N-10722
+Related Nodes: N-10657
 Investigative Direction: Verify the $1.5M/day figure against the Time article text and any underlying contracts/filings cited.
 
 ---
@@ -1078,7 +1057,7 @@ Claim: Host displays a photo showing Charlie Kirk wearing a customized Carhartt 
 
 Anchored Artifacts: A-2145.1
 Mentions: N-1
-Related Nodes: N-10723
+Related Nodes: N-10658
 Investigative Direction: Identify the vendor/contractor who produced the custom Carhartt shirt and the authorization chain for the custom order.
 
 ---
@@ -1093,7 +1072,7 @@ Transcript Snippet: no one in the entire world reached out to our tip line yeste
 
 Anchored Artifacts: A-2973.1
 Mentions: N-3, N-159
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core, dia
 Investigative Direction: Obtain the prior episode's silver-alert segment and the tip-line inbox log for the period; establish where Neff was on September 10.
 
@@ -1109,7 +1088,7 @@ Transcript Snippet: At every Turning Point college stop that I ever did with Cha
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10723
+Related Nodes: N-10658
 Tags: relevance:core
 Investigative Direction: Compare photographs of Kirk at earlier campus stops with the September 10 shirt and ask former TPUSA event staff how tour apparel was sourced.
 
@@ -1125,7 +1104,7 @@ Transcript Snippet: I did happen to ask some Turning Point employees, former and
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10723, N-10000
+Related Nodes: N-10658, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA vendor and purchasing records for apparel and ask the employees on record whether Carhartt ever supplied the organization.
 
@@ -1141,7 +1120,7 @@ Transcript Snippet: please do send us an email at moretips@candaceowens. com
 
 Anchored Artifacts: A-2974.1
 Mentions: N-3, N-1
-Related Nodes: N-10723
+Related Nodes: N-10658
 Tags: relevance:core, dia
 Investigative Direction: Review the tips inbox for responses naming who ordered the custom Carhartt shirt.
 
@@ -1157,7 +1136,7 @@ Transcript Snippet: Tyler Bowyer's dad who temporarily located Tyler and his fam
 
 Anchored Artifacts: 
 Mentions: N-3, N-11
-Related Nodes: N-10716, N-10720
+Related Nodes: N-10652
 Tags: relevance:context
 Investigative Direction: Locate employment and residence records for Bowyer's father in New Jersey and the dates of his Bank of America executive role.
 
@@ -1173,7 +1152,7 @@ Transcript Snippet: just months after being fired from Cisco Systems in Californ
 
 Anchored Artifacts: A-2142.1
 Mentions: N-7
-Related Nodes: N-10720
+Related Nodes: N-10652
 Tags: relevance:context
 Investigative Direction: Retrieve the 2011 Christian Post article and contemporaneous coverage of the Cisco dismissal to confirm the sequence and reasons.
 
@@ -1189,7 +1168,7 @@ Transcript Snippet: Other clients have included Coca-Cola, Home Depot, among oth
 
 Anchored Artifacts: A-2142.1
 Mentions: N-7
-Related Nodes: N-10720
+Related Nodes: N-10652
 Tags: relevance:context
 Investigative Direction: Verify the article text for the hiring month, the division named and the client list.
 
@@ -1205,7 +1184,7 @@ Transcript Snippet: Does that ring a bell? >> I don't remember. >> Uh those what
 
 Anchored Artifacts: A-2139.1
 Mentions: N-505
-Related Nodes: N-10717, N-10718
+Related Nodes: N-10653, N-10654
 Tags: relevance:core
 Investigative Direction: Obtain the hearing transcript and the evidence item log for the library bus stop seizures to establish the item count.
 
@@ -1221,7 +1200,7 @@ Transcript Snippet: Was a decision at some time made and and you were requesting
 
 Anchored Artifacts: A-2139.2
 Mentions: N-505
-Related Nodes: N-10718
+Related Nodes: N-10654
 Tags: relevance:core
 Investigative Direction: Obtain the FBI lab request forms and chain-of-custody sheets for the items to see which analyses were requested.
 
@@ -1237,7 +1216,7 @@ Transcript Snippet: >> I don't remember communicating that. >> Okay. If that's i
 
 Anchored Artifacts: A-2139.2
 Mentions: N-505
-Related Nodes: N-10718, N-10975
+Related Nodes: N-10654, N-10896
 Qualifies: C-10782
 Tags: relevance:core
 Investigative Direction: Obtain the FBI and ATF lab notes and reports referenced by the questioner, and the UVU communication that closed the testing request.
@@ -1254,7 +1233,7 @@ Transcript Snippet: Just so you guys know, the library is not near Loews Center.
 
 Anchored Artifacts: A-2139.1
 Mentions: N-3
-Related Nodes: N-10717
+Related Nodes: N-10653
 Tags: relevance:core
 Investigative Direction: Measure the walking distance from the Losee Center to the library bus stops and obtain the hearing testimony that set the route.
 
@@ -1270,7 +1249,7 @@ Transcript Snippet: Back in the early investigation, my early investigation, som
 
 Anchored Artifacts: A-2140.3
 Mentions: N-3
-Related Nodes: N-10717, N-10719, N-10121
+Related Nodes: N-10653, N-10655, N-10095
 Tags: relevance:core
 Investigative Direction: Identify the report this source filed and obtain it from UVU police or the FBI.
 
@@ -1286,7 +1265,7 @@ Transcript Snippet: I think it was literally like 85° in Utah.
 
 Anchored Artifacts: A-2139.1
 Mentions: N-3
-Related Nodes: N-10718
+Related Nodes: N-10654
 Tags: relevance:core
 Investigative Direction: Pull the National Weather Service hourly record for Orem, Utah on September 10, 2025.
 
@@ -1302,7 +1281,7 @@ Transcript Snippet: This individual told me that he spoke to students at the bus
 
 Anchored Artifacts: A-2140.1
 Mentions: N-3
-Related Nodes: N-10314, N-10098
+Related Nodes: N-10295, N-10094
 Tags: relevance:core
 Investigative Direction: Reconcile with the other rooftop video (the host earlier said two roof videos exist) and obtain both files with metadata.
 
@@ -1318,7 +1297,7 @@ Transcript Snippet: I'm talking about the wide the most widely spread video of t
 
 Anchored Artifacts: A-2975.1
 Mentions: N-3
-Related Nodes: N-10098
+Related Nodes: N-10094
 Tags: relevance:core
 Investigative Direction: Trace the earliest posting of the clip and its spread across accounts, using platform timestamps.
 
@@ -1334,7 +1313,7 @@ Transcript Snippet: The person who recorded this footage is the person that I tr
 
 Anchored Artifacts: A-2975.1
 Mentions: N-3
-Related Nodes: N-10314
+Related Nodes: N-10295
 Supports: C-4095
 Tags: relevance:core
 Investigative Direction: Obtain the witness's dated communications with the host and any statements he gave to authorities to test consistency.
@@ -1351,7 +1330,7 @@ Transcript Snippet: he walked over to the UVU command center and filed a report 
 
 Anchored Artifacts: A-2140.3
 Mentions: N-3, N-42
-Related Nodes: N-10719
+Related Nodes: N-10655
 Tags: relevance:core
 Investigative Direction: Request the UVU command center log and any written report from the afternoon of September 10 under public-records rules.
 
@@ -1367,7 +1346,7 @@ Transcript Snippet: he's also willing to testify. He would be a very credible wi
 
 Anchored Artifacts: A-2140.1
 Mentions: N-3
-Related Nodes: N-10719
+Related Nodes: N-10655
 Supports: C-3715
 Tags: relevance:core
 Investigative Direction: Confirm the witness's firearms-related occupation and whether either side has contacted him about testimony.
@@ -1383,7 +1362,7 @@ Claim: In the recorded call, the witness says the person on the roof fired about
 Transcript Snippet: about 5 seconds after I stopped recording is when that person fired.
 
 Anchored Artifacts: A-2140.1
-Related Nodes: N-10343
+Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Compare the clip's end time with the audio of the shot in other recordings to check the 5-second gap.
 
@@ -1398,7 +1377,7 @@ Claim: The witness says he heard and felt everything but did not see a muzzle fl
 Transcript Snippet: I saw heard everything but a muzzle flash. So, I didn't see a flash come from the edge of his gun, as you can [clears throat] see in the video. I couldn't see the gun at the time.
 
 Anchored Artifacts: A-2140.1
-Related Nodes: N-10755
+Related Nodes: N-10685
 Supports: C-3714
 Tags: relevance:core
 Investigative Direction: Review the roof clip frame by frame for any flash or smoke and compare with expert analysis of visual discharge indicators.
@@ -1414,7 +1393,7 @@ Claim: The witness says the muzzle report sounded more like an AR than a large-b
 Transcript Snippet: it sounded more like a AR than a large bore hunting rifle.
 
 Anchored Artifacts: A-2140.1
-Related Nodes: N-10099
+Related Nodes: N-10095
 Tags: relevance:core
 Investigative Direction: Obtain acoustic analysis of audio from several recordings of the shot and the ballistics report for the recovered rifle.
 
@@ -1429,7 +1408,7 @@ Claim: Asked about the federal timing of 12:15 for the person dropping onto the 
 Transcript Snippet: it was definitely not 12:15. It was It was uh 12:20 if anything. He was He was in our line of view for about 30 seconds total.
 
 Anchored Artifacts: A-2140.1
-Related Nodes: N-10343
+Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Compare the video metadata of the witness's clip with the official 12:15 roof-access time in the charging documents.
 
@@ -1444,7 +1423,7 @@ Claim: The witness says the movement looked tactical, so he started recording be
 Transcript Snippet: which is why I started recording because it was I assumed he was a security guard for the event.
 
 Anchored Artifacts: A-2140.1
-Related Nodes: N-10343
+Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Match the witness's account of a 10-second approach with the roof video and any other camera angles.
 
@@ -1459,7 +1438,7 @@ Claim: The witness says the figure was in position about 20 seconds while he fil
 Transcript Snippet: And then firing, he was maybe on the ground for 5 more seconds before he stood up and absolutely sprinted off the roof.
 
 Anchored Artifacts: A-2140.1
-Related Nodes: N-10343
+Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Compare against the court-shown rooftop video and the dispatch time of the first shots-fired call.
 
@@ -1474,7 +1453,7 @@ Claim: The witness says he was about 175 yards from the person on the roof and h
 Transcript Snippet: At the range we were at, we were about 175 yd from him.
 
 Anchored Artifacts: A-2140.2
-Related Nodes: N-10099
+Related Nodes: N-10095
 Tags: relevance:core
 Investigative Direction: Measure the distance from the witness's vantage location to the Losee Center roof edge using mapping and survey data.
 
@@ -1490,7 +1469,7 @@ Transcript Snippet: I went back inside the perimeter and I ran to the command ce
 
 Anchored Artifacts: A-2140.3
 Mentions: N-42
-Related Nodes: N-10719
+Related Nodes: N-10655
 Tags: relevance:core
 Investigative Direction: Obtain command-center personnel names and any intake log or evidence receipt for the video shown that afternoon.
 
@@ -1505,7 +1484,7 @@ Claim: The witness says he thought the figure was wearing a black tactical helme
 Transcript Snippet: I thought he was wearing a black tactical helmet as well because [clears throat] he looked like he had a slightly larger head than than normal at that range.
 
 Anchored Artifacts: A-2140.2
-Related Nodes: N-10099, N-10121
+Related Nodes: N-10095
 Tags: relevance:core
 Investigative Direction: Enhance the roof clip at the head region and compare with equipment recovered or listed in the evidence inventory.
 
@@ -1521,7 +1500,7 @@ Transcript Snippet: Which by the way, they did gut if I'm correct, a minute out 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11198, N-10625
+Related Nodes: N-11114, N-10571
 Tags: relevance:core
 Investigative Direction: Compare the video exhibit's running time shown in court with the original file's duration, and ask the court clerk for the exhibit log.
 
@@ -1537,7 +1516,7 @@ Transcript Snippet: in terms of that route, going the Losee Center over to the l
 
 Anchored Artifacts: A-2139.1
 Mentions: N-505
-Related Nodes: N-10717
+Related Nodes: N-10653
 Tags: relevance:core
 Investigative Direction: Obtain the hearing transcript passage where the route was established and the evidence the officers used to draw it.
 
@@ -1552,7 +1531,7 @@ Claim: The host says there was a string of 911 calls about the library in partic
 Transcript Snippet: there was a string of 911 calls about the library in particular, which is again, not close to the Losee Center. The library was actually subsequently placed onto a lockdown.
 
 Anchored Artifacts: A-2141.1
-Related Nodes: N-11199, N-10717
+Related Nodes: N-11115, N-10653
 Tags: relevance:core
 Investigative Direction: Request UVU and Utah County 911 and CAD records for the library area on September 10 and the library lockdown order.
 
@@ -1567,7 +1546,7 @@ Claim: In the played 911 audio, a speaker says gunshots were heard near the libr
 Transcript Snippet: Gunshots heard near the library at UVU. They're trying to lock the library down now. So, gather >> She's saying they just got another report of shots fired at the UVU library.
 
 Anchored Artifacts: A-2141.1
-Related Nodes: N-11199
+Related Nodes: N-11115
 Tags: relevance:core
 Investigative Direction: Obtain the full 911 and dispatch recordings with timestamps to place these reports relative to the 12:23 shot.
 
@@ -1583,7 +1562,7 @@ Transcript Snippet: there was also testimony about an a.223 round, unfired round
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11200, N-10755
+Related Nodes: N-11116, N-10685
 Tags: relevance:core
 Investigative Direction: Locate the hearing testimony on the .223 round, its recovery location, chain of custody and any lab analysis.
 
@@ -1599,7 +1578,7 @@ Transcript Snippet: And when they were questioned about why they didn't really d
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11200
+Related Nodes: N-11116
 Tags: relevance:core
 Investigative Direction: Read the hearing transcript for the officer's answer and the reported chain of custody for the round.
 
@@ -1615,7 +1594,7 @@ Transcript Snippet: We revisit the Butler assassination and speculated that Core
 
 Anchored Artifacts: 
 Mentions: N-3, N-105
-Related Nodes: N-10588, N-10724
+Related Nodes: N-10536, N-10659
 Tags: relevance:context
 Investigative Direction: Locate the earlier episode where the host raised this and the evidence she cited, then check against the Butler investigation reports.
 
@@ -1631,7 +1610,7 @@ Transcript Snippet: His widow Helen still has questions and she spoke out and ha
 
 Anchored Artifacts: A-2143.1
 Mentions: N-817, N-105
-Related Nodes: N-10588, N-10724
+Related Nodes: N-10536, N-10659
 Supports: C-9955
 Tags: relevance:context
 Investigative Direction: Obtain Helen Comperatore's own statements and the NewsNation interview.
@@ -1648,7 +1627,7 @@ Transcript Snippet: She wasn't ready to go on Bari Weiss two weeks later and say
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-278
-Related Nodes: N-10334
+Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Retrieve the CBS town hall transcript and date and check what Erika Kirk said about trusting the investigation.
 
@@ -1664,7 +1643,7 @@ Transcript Snippet: I don't believe there was another shooter there, but I belie
 
 Anchored Artifacts: A-2143.1
 Mentions: N-817, N-104
-Related Nodes: N-10724, N-10721
+Related Nodes: N-10659, N-10656
 Supports: C-10819
 Tags: relevance:context
 Investigative Direction: Obtain the full NewsNation interview and compare with Butler investigation findings on any accomplice.
@@ -1681,7 +1660,7 @@ Transcript Snippet: And this was a political >> Oh, yeah. >> political >> Absolu
 
 Anchored Artifacts: A-2143.1
 Mentions: N-817
-Related Nodes: N-10724
+Related Nodes: N-10659
 Tags: relevance:context
 Investigative Direction: Obtain the full interview to see whether she names any political motive or actor.
 
@@ -1697,7 +1676,7 @@ Transcript Snippet: Oh, I've been told things, but I've had something that happe
 
 Anchored Artifacts: A-2143.1
 Mentions: N-817
-Related Nodes: N-10724, N-10721
+Related Nodes: N-10659, N-10656
 Tags: relevance:context
 Investigative Direction: Ask the Comperatore family and the interviewer what she was told and what event she referred to.
 
@@ -1713,7 +1692,7 @@ Transcript Snippet: Just to don't forget us and remember what we went through th
 
 Anchored Artifacts: A-2143.1
 Mentions: N-817, N-5
-Related Nodes: N-10724
+Related Nodes: N-10659
 Tags: relevance:context
 Investigative Direction: Check whether the White House or Secret Service responded to the Comperatore family's request after the interview.
 
@@ -1729,7 +1708,7 @@ Transcript Snippet: You don't need uh the Department of Justice, an emotional as
 
 Anchored Artifacts: 
 Mentions: N-3, N-522, N-2
-Related Nodes: N-11017
+Related Nodes: N-10937
 Tags: relevance:core
 Investigative Direction: Identify any DOJ amplification of Erika Kirk and the Nicki Minaj interview the host references.
 
@@ -1761,7 +1740,7 @@ Transcript Snippet: the bot campaign, the Israeli influence operation, the Farad
 
 Anchored Artifacts: A-2144.1
 Mentions: N-3
-Related Nodes: N-10722, N-10662
+Related Nodes: N-10657, N-10604
 Supports: C-8838
 Tags: relevance:context
 Investigative Direction: Check the FARA database filing dates for Clock Tower X and related registrants.
@@ -1778,7 +1757,7 @@ Transcript Snippet: the Israeli foreign minister quite literally hiring uh Brad 
 
 Anchored Artifacts: A-2144.1
 Mentions: N-430
-Related Nodes: N-10722, N-10026
+Related Nodes: N-10657, N-10026
 Supports: C-8841
 Tags: relevance:context
 Investigative Direction: Read the FARA registration statement and contract for Clock Tower X and its Israeli client.
@@ -1795,7 +1774,7 @@ Transcript Snippet: Eyal Yakoby, I blocked him so long ago. It was so obvious th
 
 Anchored Artifacts: A-2144.1
 Mentions: N-818, N-3
-Related Nodes: N-10722, N-11017
+Related Nodes: N-10657, N-10937
 Tags: relevance:context
 Investigative Direction: Read the Time article for how Yakoby is described and whether he or his representatives responded or confirmed payment.
 
@@ -1811,7 +1790,7 @@ Transcript Snippet: And they he kind of he had to own that. These Yeah, they're 
 
 Anchored Artifacts: A-2144.1
 Mentions: N-818
-Related Nodes: N-10722
+Related Nodes: N-10657
 Tags: relevance:context
 Investigative Direction: Read the article for the on-record responses of named accounts about payment.
 
@@ -1827,7 +1806,7 @@ Transcript Snippet: This is an article that is well worth read, talking about ho
 
 Anchored Artifacts: A-2144.1
 Mentions: N-40
-Related Nodes: N-10722, N-11017
+Related Nodes: N-10657, N-10937
 Tags: relevance:context
 Investigative Direction: Read the article's data on timing and wording and obtain the underlying post sets.
 
@@ -1843,7 +1822,7 @@ Transcript Snippet: Brad Parscale was the owner or a part owner of the company I
 
 Anchored Artifacts: A-2144.1
 Mentions: N-430
-Related Nodes: N-11201, N-10722
+Related Nodes: N-11117, N-10657
 Tags: relevance:context
 Investigative Direction: Check corporate filings for Influencable and Time's sourcing for Parscale's ownership.
 
@@ -1859,7 +1838,7 @@ Transcript Snippet: And that's when they essentially text everyone, they offer t
 
 Anchored Artifacts: A-2144.1
 Mentions: N-430
-Related Nodes: N-11201, N-11017
+Related Nodes: N-11117, N-10937
 Tags: relevance:context
 Investigative Direction: Read the article's description of the payment model and obtain any sample texts it cites.
 
@@ -1875,7 +1854,7 @@ Transcript Snippet: under the agreement Parscale was meant to produce 100 origin
 
 Anchored Artifacts: A-2144.1
 Mentions: N-430
-Related Nodes: N-10722
+Related Nodes: N-10657
 Tags: relevance:context
 Investigative Direction: Read the services agreement filed with FARA and compare the content quotas and audience targets.
 
@@ -1891,7 +1870,7 @@ Transcript Snippet: they pledged to amplify the campaign all across social media
 
 Anchored Artifacts: A-2144.1
 Mentions: N-430
-Related Nodes: N-10722, N-10657
+Related Nodes: N-10657, N-10599
 Supports: C-8842
 Tags: relevance:context
 Investigative Direction: Read the FARA exhibits for the Salem integration clause and Salem's own registration status.
@@ -1908,7 +1887,7 @@ Transcript Snippet: we're kind of looking for what I think could also be decoy D
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10850
+Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Obtain rental and dealership records for grey Dodge Challengers in the Salt Lake and Utah County area for September 9 and 10.
 
@@ -1924,7 +1903,7 @@ Transcript Snippet: I would say that's another decoy person who was told to get 
 
 Anchored Artifacts: A-2976.1
 Mentions: N-3
-Related Nodes: N-10032, N-10053
+Related Nodes: N-10032, N-10050
 Tags: relevance:core
 Investigative Direction: Reconcile with the court-shown rooftop video and the ballistics and audio analyses.
 
@@ -1940,7 +1919,7 @@ Transcript Snippet: said that he did not witness the actual shot, but you know, 
 
 Anchored Artifacts: A-2140.1
 Mentions: N-3
-Related Nodes: N-10719
+Related Nodes: N-10655
 Supports: C-3714
 Tags: relevance:core
 Investigative Direction: Compare against the audio of the recorded call and any statement the witness gave to authorities.
@@ -1957,7 +1936,7 @@ Transcript Snippet: I do not believe that anybody described to me a person recoi
 
 Anchored Artifacts: A-2140.1
 Mentions: N-3
-Related Nodes: N-10755
+Related Nodes: N-10685
 Supports: C-4093
 Tags: relevance:core
 Investigative Direction: Examine the roof clips for recoil and compare with the other witness accounts.
@@ -1974,7 +1953,7 @@ Transcript Snippet: I think that is the reason they are avoiding him because he 
 
 Anchored Artifacts: A-2140.2
 Mentions: N-3, N-40, N-1
-Related Nodes: N-10719, N-10099
+Related Nodes: N-10655, N-10095
 Supports: C-4282
 Tags: relevance:core
 Investigative Direction: Obtain the recovered rifle's make and caliber from the evidence list and compare with the witness's description.
@@ -2007,7 +1986,7 @@ Transcript Snippet: Tyler was around campus, and he was tasked with dumping clot
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10051
+Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Seek surveillance and receipts from the Dairy Queen and any recovered clothing evidence linked to it.
 
@@ -2023,7 +2002,7 @@ Transcript Snippet: I am still a believer that all of that was a show, and what 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10987
+Related Nodes: N-10907
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report, the shirt's chain of custody and the surgeon's account of the wound.
 
@@ -2039,7 +2018,7 @@ Transcript Snippet: no, guys, she lied to my face. No one can make me come back 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10358, N-10447
+Related Nodes: N-10334, N-10416
 Supports: C-5419
 Tags: relevance:core
 Investigative Direction: Compare the host's account of Erika's statements about the surgeon call with the surgeon's account and Kolvet's post.
@@ -2056,7 +2035,7 @@ Transcript Snippet: why you hung Andrew Kolvet out to dry and the surgeon saying
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10358, N-10447
+Related Nodes: N-10334, N-10416
 Supports: C-4492
 Tags: relevance:core
 Investigative Direction: Find any on-record statement by Erika Kirk or TPUSA on who is responsible for the surgeon quote.
@@ -2090,7 +2069,7 @@ Transcript Snippet: Where were you the morning of September 10th, Blake Neff? Wh
 
 Anchored Artifacts: A-2977.1
 Mentions: N-159
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Identify the original program and date of the Neff clip and obtain the full exchange.
 
@@ -2105,7 +2084,7 @@ Claim: A viewer, read on air, says Carhartt is a Michigan company, that they vis
 Transcript Snippet: Carhartt is a Michigan company. I have plenty of their shirts and was at the Carhartt store in Detroit in around Christmas. I did not see the freedom shirt. Safe to say it was custom.
 
 Anchored Artifacts: A-2976.2
-Related Nodes: N-10723
+Related Nodes: N-10658
 Tags: relevance:context
 Investigative Direction: Check Carhartt's catalogue and customization services for a matching item.
 
@@ -2151,7 +2130,7 @@ Transcript Snippet: in Tyler's text messages, he says that they interrogated som
 
 Anchored Artifacts: A-2976.3
 Mentions: N-40
-Related Nodes: N-10099
+Related Nodes: N-10095
 Tags: relevance:core
 Investigative Direction: Find the cited Robinson text messages in the charging documents and identify who was interrogated.
 
@@ -2167,7 +2146,7 @@ Transcript Snippet: George Zinn certainly was not wearing similar clothing.
 
 Anchored Artifacts: A-2976.3
 Mentions: N-3, N-42
-Related Nodes: N-10099
+Related Nodes: N-10095
 Tags: relevance:core
 Investigative Direction: Compare Zinn's arrest photos with the described rooftop attire.
 
@@ -2183,7 +2162,7 @@ Transcript Snippet: It's going to be that Panguitch Steakhouse thing that's goin
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Obtain the steakhouse's receipts and surveillance for the date and compare with the official timeline.
 
@@ -2214,7 +2193,7 @@ Transcript Snippet: Well, what if he's there are more people on that call? We do
 
 Anchored Artifacts: A-2976.4
 Mentions: N-3, N-7
-Related Nodes: N-10730
+Related Nodes: N-10664
 Tags: relevance:core
 Investigative Direction: Request call logs and device records for the FaceTime call that Turek described.
 
@@ -2230,7 +2209,7 @@ Transcript Snippet: the only other person could be the driver. Going 100 miles p
 
 Anchored Artifacts: A-2976.4
 Mentions: N-3, N-97
-Related Nodes: N-10712
+Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Obtain vehicle telematics or driver identification for the 9/10 drive and the security contact log; the 'Ben' referent is unclear in the transcript.
 
@@ -2245,7 +2224,7 @@ Claim: A viewer identified as a former US Army member says the person the host s
 Transcript Snippet: Former US Army here. The person you spoke to is describing what is called individual movement technique, IMT.
 
 Anchored Artifacts: A-2976.5, A-2140.1
-Related Nodes: N-10754
+Related Nodes: N-10684
 Supports: C-10800
 Tags: relevance:core
 Investigative Direction: Ask Army doctrine experts to review the witness's description of bounding movement and the roof video.
@@ -2262,7 +2241,7 @@ Transcript Snippet: and everyone could see it in 4K HD at the very end of the fi
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11065, N-10625
+Related Nodes: N-10983, N-10571
 Tags: relevance:core
 Investigative Direction: Obtain the hearing schedule for day five and the list of influencers present and the exhibit shown.
 
@@ -2278,7 +2257,7 @@ Transcript Snippet: it is pretty obvious to me that many people are being paid t
 
 Anchored Artifacts: A-2976.6
 Mentions: N-3, N-430, N-40
-Related Nodes: N-11017, N-10722
+Related Nodes: N-10937, N-10657
 Tags: relevance:context
 Investigative Direction: Seek disclosures or filings showing payments to the creators the host has in mind.
 
@@ -2532,5 +2511,5 @@ Confidence: high
 - **Artifact Families Introduced:** A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
 - **Claim Range:** C-10783–C-10773
 - **New Nodes Introduced (People):** none (Wave 2: local ids removed)
-- **New Nodes Introduced (Investigation Targets):** N-10717, N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724
+- **New Nodes Introduced (Investigation Targets):** N-10653, N-10654, N-10655, N-10656, N-10657, N-10658, N-10659
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)

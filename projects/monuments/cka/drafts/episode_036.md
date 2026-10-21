@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-708, N-11008
-  - Hole-minted Nodes (reintro-ep036): N-283, N-10284, N-10294
+  - Tip-minted Nodes (supplement_2026-10): N-708, N-10928
+  - Hole-minted Nodes (reintro-ep036): N-283, N-10276
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3152–C-3248
-  - New Nodes Introduced: N-270, N-10271, N-10272
-  - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-329, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10045, N-10051, N-10116, N-10134, N-10145, N-10175, N-10197, N-10224, N-10243, N-10246, N-10253, N-10261, N-10265, N-10266, N-10268, N-10269, N-10355, N-271, N-710, N-377, N-10270, N-11009, N-10316, N-10862, N-11011, N-709, N-10336, N-10337, N-10345, N-10853, N-11010, N-10342, N-272, N-11012
+  - New Nodes Introduced: N-270, N-10255, N-10256
+  - Reused Nodes Appearing: N-11360, N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-329, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10042, N-10048, N-10112, N-10129, N-10140, N-10168, N-10189, N-10211, N-10229, N-10232, N-10239, N-10246, N-10249, N-10250, N-10252, N-10253, N-10332, N-271, N-710, N-377, N-10254, N-10929, N-10297, N-10783, N-10931, N-709, N-10315, N-10316, N-10323, N-10775, N-10930, N-10320, N-272, N-10932
   - (see registers)
 
 ## 6. Meme Register
@@ -127,7 +127,7 @@ Video Timestamp: 00:12:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3176, C-3177, N-1, N-3, N-10270*
+*Related: C-3176, C-3177, N-1, N-3, N-10254*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:18:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3188, N-3, N-10270*
+*Related: C-3188, N-3, N-10254*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3214, N-266, N-270, N-271, N-224, N-10272*
+*Related: C-3214, N-266, N-270, N-271, N-224, N-10256*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3214, C-3215, N-266, N-270, N-271, N-10272*
+*Related: C-3214, C-3215, N-266, N-270, N-271, N-10256*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:41:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3225, C-3226, C-3227, N-272, N-10271*
+*Related: C-3225, C-3226, C-3227, N-272, N-10255*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:08:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3165, N-3, N-82, N-377, N-11011*
+*Related: C-3165, N-3, N-82, N-377, N-10931*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:09:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3169, N-11008, N-10269*
+*Related: C-3169, N-10928, N-10253*
 
 ---
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:20:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3195, N-82, N-10294*
+*Related: C-3195, N-82, N-10276*
 
 ---
 
@@ -311,7 +311,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1447.1, A-1448.1, C-3214, N-10272*
+*Related: A-1447.1, A-1448.1, C-3214, N-10256*
 
 ---
 
@@ -324,7 +324,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1448.1, C-3215, N-10272*
+*Related: A-1448.1, C-3215, N-10256*
 
 ---
 
@@ -337,7 +337,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1448.1, C-3215, N-10272*
+*Related: A-1448.1, C-3215, N-10256*
 
 ---
 
@@ -363,7 +363,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1449.1, C-3225, C-3226, C-3227, N-10271*
+*Related: A-1449.1, C-3225, C-3226, C-3227, N-10255*
 
 ---
 
@@ -380,7 +380,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satys hanger, 920 King Street facility, and the host's broader "France angle."
 
@@ -393,7 +393,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10271** Tyler Robinson Washington County Surveillance Footage Gap
+**N-10255** Tyler Robinson Washington County Surveillance Footage Gap
 
 Persistent investigative target regarding the unavailability of surveillance footage of Tyler Robinson at the Washington County Sheriff's office, including the 30-day retention explanation and Washington County's denial that footage was shared with involved agencies.
 
@@ -406,7 +406,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10272** Harpole–Flood Text Attribution Discrepancy
+**N-10256** Harpole–Flood Text Attribution Discrepancy
 
 Persistent investigative target regarding host's assertion that Brian Harpole presented text messages between Dan Flood and UVU Police Chief Jeff Long using phrasing consistent with claiming them as his own communications during the Shawn Ryan interview.
 
@@ -424,6 +424,16 @@ Investigative Pressure: Medium
 Subject of the relayed White House request, the Tucker Carlson SAS event, the Hamptons retreat and the UVU security discussion.
 
 *Related: C-3153, C-3162, C-3163, C-3174, C-3175, C-3179, C-3182, C-3184*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-3233*
 
 ---
 
@@ -603,7 +613,7 @@ Agency whose surveillance and holding-room video is unavailable per the KUTV rep
 
 ---
 
-**N-10045** Stanford Psychology Family Pattern
+**N-10042** Stanford Psychology Family Pattern
 
 Existing topic tied to the host's Stanford hypothesis.
 
@@ -611,7 +621,7 @@ Existing topic tied to the host's Stanford hypothesis.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing topic on the Dairy Queen photo; related to the host's retelling.
 
@@ -619,7 +629,7 @@ Existing topic on the Dairy Queen photo; related to the host's retelling.
 
 ---
 
-**N-10116** MK Ultra Continuity Theory
+**N-10112** MK Ultra Continuity Theory
 
 Existing topic on the host's MK Ultra line of investigation.
 
@@ -627,7 +637,7 @@ Existing topic on the host's MK Ultra line of investigation.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 Existing topic for the August 2025 Hamptons retreat.
 
@@ -635,7 +645,7 @@ Existing topic for the August 2025 Hamptons retreat.
 
 ---
 
-**N-10145** UVU Campus Familiarity Question
+**N-10140** UVU Campus Familiarity Question
 
 Existing topic on Robinson's prior familiarity with campus.
 
@@ -643,7 +653,7 @@ Existing topic on Robinson's prior familiarity with campus.
 
 ---
 
-**N-10175** UVU Left-Side Footage Black Hole
+**N-10168** UVU Left-Side Footage Black Hole
 
 Existing topic on missing or sparse footage; related to the roof video chain.
 
@@ -651,7 +661,7 @@ Existing topic on missing or sparse footage; related to the roof video chain.
 
 ---
 
-**N-10197** TPUSA Military-Personnel Network
+**N-10189** TPUSA Military-Personnel Network
 
 Existing topic on military ties around TPUSA events.
 
@@ -659,7 +669,7 @@ Existing topic on military ties around TPUSA events.
 
 ---
 
-**N-10224** UVU Event Approval Timeline Anomaly
+**N-10211** UVU Event Approval Timeline Anomaly
 
 Existing topic on the late UVU speaking request.
 
@@ -667,7 +677,7 @@ Existing topic on the late UVU speaking request.
 
 ---
 
-**N-10243** UVU Outdoor Venue Selection Discrepancy
+**N-10229** UVU Outdoor Venue Selection Discrepancy
 
 Existing topic on the venue choice against UVU advice.
 
@@ -675,7 +685,7 @@ Existing topic on the venue choice against UVU advice.
 
 ---
 
-**N-10246** Calvary Chapel Institutional Abuse Pattern
+**N-10232** Calvary Chapel Institutional Abuse Pattern
 
 Existing topic on Calvary Chapel abuse scandals.
 
@@ -683,7 +693,7 @@ Existing topic on Calvary Chapel abuse scandals.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing umbrella topic for the Egyptian plane tracking.
 
@@ -691,7 +701,7 @@ Existing umbrella topic for the Egyptian plane tracking.
 
 ---
 
-**N-10261** UVU Pre-9/10 Rooftop Sightings
+**N-10246** UVU Pre-9/10 Rooftop Sightings
 
 Existing topic on rooftop sightings and access.
 
@@ -699,7 +709,7 @@ Existing topic on rooftop sightings and access.
 
 ---
 
-**N-10265** 920 North King Street / 1 Rodney Square Federal Facility
+**N-10249** 920 North King Street / 1 Rodney Square Federal Facility
 
 Existing topic for the Wilmington federal building.
 
@@ -707,7 +717,7 @@ Existing topic for the Wilmington federal building.
 
 ---
 
-**N-10266** SUBTT Wilmington Visit Pattern
+**N-10250** SUBTT Wilmington Visit Pattern
 
 Existing topic on SUBTT's stops in Wilmington.
 
@@ -715,7 +725,7 @@ Existing topic on SUBTT's stops in Wilmington.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic on speakers removed from AmFest.
 
@@ -723,7 +733,7 @@ Existing topic on speakers removed from AmFest.
 
 ---
 
-**N-10269** Wilmington Airport Hangar Federal Connection
+**N-10253** Wilmington Airport Hangar Federal Connection
 
 Existing topic on the hangar and its federal links.
 
@@ -731,15 +741,7 @@ Existing topic on the hangar and its federal links.
 
 ---
 
-**N-10284** 920 North King Street Federal Presence
-
-Existing topic on the federal agencies at 920 King Street.
-
-*Related: C-3159, C-3206, C-3211, C-3246, C-3247*
-
----
-
-**N-10294** Brigitte Macron Schedule Gap September 4–10, 2025
+**N-10276** Brigitte Macron Schedule Gap September 4–10, 2025
 
 Existing topic on Brigitte Macron's schedule in early September 2025.
 
@@ -747,7 +749,7 @@ Existing topic on Brigitte Macron's schedule in early September 2025.
 
 ---
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 Existing topic on a possible France link.
 
@@ -755,7 +757,7 @@ Existing topic on a possible France link.
 
 ---
 
-**N-10336** Tyler Robinson First In-Person Court Appearance Details
+**N-10315** Tyler Robinson First In-Person Court Appearance Details
 
 Existing topic on Robinson's court appearance format.
 
@@ -763,7 +765,7 @@ Existing topic on Robinson's court appearance format.
 
 ---
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Existing topic on the prosecution's evidence.
 
@@ -771,7 +773,7 @@ Existing topic on the prosecution's evidence.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic on Netanyahu's alleged funding offer.
 
@@ -779,7 +781,7 @@ Existing topic on Netanyahu's alleged funding offer.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Existing topic on the Hamptons retreat confrontation.
 
@@ -787,7 +789,7 @@ Existing topic on the Hamptons retreat confrontation.
 
 ---
 
-**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
 
 Existing topic on the Patel and Gabbard dispute.
 
@@ -795,7 +797,7 @@ Existing topic on the Patel and Gabbard dispute.
 
 ---
 
-**N-10853** Dairy Queen Timestamp UTC vs MST Reconciliation
+**N-10775** Dairy Queen Timestamp UTC vs MST Reconciliation
 
 Existing topic on the Dairy Queen timestamp.
 
@@ -803,7 +805,7 @@ Existing topic on the Dairy Queen timestamp.
 
 ---
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Existing topic on Harpole's Shawn Ryan statements.
 
@@ -835,7 +837,7 @@ First named in a viewer comment read by the host at 00:51:14 in episode 36.
 
 ---
 
-**N-11008** Satys
+**N-10928** Satys
 
 Node Type: Organization
 
@@ -845,9 +847,9 @@ French aircraft-painting company, rendered Satys in the transcript, that announc
 
 ---
 
-**N-11009** Hall of Flags Activity Question
+**N-10929** Hall of Flags Activity Question
 
-Node Type: Topic
+Node Type: Investigation Question
 
 Persistent investigative target on what was happening in the Hall of Flags at UVU on September 10, 2025, why Turning Point security focused on controlled access there, and why a student posting videos was inside it.
 
@@ -855,7 +857,7 @@ Persistent investigative target on what was happening in the Hall of Flags at UV
 
 ---
 
-**N-11010** Lay-Low List Warning
+**N-10930** Lay-Low List Warning
 
 Node Type: Topic
 
@@ -865,7 +867,7 @@ Persistent investigative target on the warnings the host says she received on Se
 
 ---
 
-**N-11011** Macron Cease and Desist and Legal Timeline
+**N-10931** Macron Cease and Desist and Legal Timeline
 
 Node Type: Topic
 
@@ -875,9 +877,9 @@ Dated timeline of the Macron side's cease and desist letters, the Becoming Brigi
 
 ---
 
-**N-11012** Tyler Robinson Surrender Narrative Dispute
+**N-10932** Tyler Robinson Surrender Narrative Dispute
 
-Node Type: Topic
+Node Type: Investigation Question
 
 Persistent investigative target on how Tyler Robinson came into custody, including the father-turned-in story the host disputes and the missing sheriff's-office surrender footage.
 
@@ -895,7 +897,7 @@ Claim: The displayed text exchange documents Charlie Kirk informing Candace Owen
 
 Anchored Artifacts: A-1445.1
 Mentions: N-1, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Investigative Direction: Authenticate text message metadata; identify the specific White House staffer or office referenced; cross-reference with White House call logs.
 
 ---
@@ -908,7 +910,7 @@ Claim: The displayed text exchange documents Charlie Kirk informing host that "T
 
 Anchored Artifacts: A-1445.1
 Mentions: N-1, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Investigative Direction: Cross-reference with the host's separately claimed Feb 26 Trump call; verify call records; confirm POTUS-side initiator.
 
 ---
@@ -921,7 +923,7 @@ Claim: Displayed legal-team communication says they will likely move to dismiss 
 
 Anchored Artifacts: A-1446.1
 Mentions: N-3, N-82, N-377
-Related Nodes: N-10270
+Related Nodes: N-10254
 Investigative Direction: Obtain the underlying court filings and motion-to-dismiss documents; verify jurisdictional analysis against Macron Delaware corporate registrations; check final ruling on motion.
 
 ---
@@ -934,7 +936,7 @@ Claim: Host asserts Brian Harpole described the Dan Flood–Jeff Long text excha
 
 Anchored Artifacts: A-1447.1, A-1448.1
 Mentions: N-266, N-270, N-271
-Related Nodes: N-10272
+Related Nodes: N-10256
 Investigative Direction: Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications.
 
 ---
@@ -947,7 +949,7 @@ Claim: In a clip the host plays, Brian Harpole presents what the host says is a 
 
 Anchored Artifacts: A-1448.1
 Mentions: N-266, N-270, N-271
-Related Nodes: N-10272
+Related Nodes: N-10256
 Investigative Direction: Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures.
 
 ---
@@ -960,7 +962,7 @@ Claim: KUTV investigative report documents that Washington County Sheriff's offi
 
 Anchored Artifacts: A-1449.1
 Mentions: N-40
-Related Nodes: N-10271
+Related Nodes: N-10255
 Investigative Direction: Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies.
 
 ---
@@ -973,7 +975,7 @@ Claim: Washington County Sheriff's office response to the generalized records re
 
 Anchored Artifacts: A-1449.1
 Mentions: 
-Related Nodes: N-10271
+Related Nodes: N-10255
 Investigative Direction: Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies.
 
 ---
@@ -986,7 +988,7 @@ Claim: Washington County Sheriff Nate Brooksby, in his September 17, 2025 press 
 
 Anchored Artifacts: A-1449.1
 Mentions: N-272, N-40
-Related Nodes: N-10271
+Related Nodes: N-10255
 Investigative Direction: Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections.
 
 ---
@@ -1028,7 +1030,7 @@ Transcript Snippet: our source proved to us that it certainly wasn't established
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11008, N-10253, N-10269
+Related Nodes: N-10928, N-10239, N-10253
 Investigative Direction: Obtain Satys corporate filings, the hangar lease and any maintenance contract; ask the source to document the claim that no maintenance work was performed.
 
 ---
@@ -1043,7 +1045,7 @@ Transcript Snippet: it was Charlie Kirk that called me and told me that they wan
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-82
-Related Nodes: N-10316
+Related Nodes: N-10297
 Investigative Direction: Obtain the host's phone records and messages with Charlie Kirk for the relevant dates; identify who 'they' refers to from the texts or witnesses.
 
 ---
@@ -1073,7 +1075,7 @@ Transcript Snippet: he told me that there was a list and that me and Tucker Carl
 
 Anchored Artifacts: 
 Mentions: N-14, N-22, N-3, N-1
-Related Nodes: N-11010
+Related Nodes: N-10930
 Investigative Direction: Ask Kolvet who supplied the list and what it contained; compare with the host's call logs for September 10, 2025. Check the 'he' referent against the earlier-episode account.
 
 ---
@@ -1088,7 +1090,7 @@ Transcript Snippet: Another person was a very well-known woman who happens to be
 
 Anchored Artifacts: 
 Mentions: N-3, N-22
-Related Nodes: N-11010
+Related Nodes: N-10930
 Investigative Direction: Only testable through the host's source; ask her to say whether the caller will confirm on the record.
 
 ---
@@ -1103,7 +1105,7 @@ Transcript Snippet: now that we've gotten into the story and realize that virtua
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10197
+Related Nodes: N-10189
 Investigative Direction: List the individuals the host counts as present and document each person's military service record.
 
 ---
@@ -1118,7 +1120,7 @@ Transcript Snippet: suddenly this French company comes in and purchases leases a
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-11008, N-10269, N-10266
+Related Nodes: N-10928, N-10253, N-10250
 Supports: C-3073
 Investigative Direction: Obtain the Delaware River and Bay Authority lease, its term and signing date; compare with SUBTT landing records at the hangar.
 
@@ -1134,7 +1136,7 @@ Transcript Snippet: a foreign dignitary was then discreetly moved to 920 King St
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10284, N-10265, N-10266
+Related Nodes: N-10249, N-10250
 Supports: C-3068
 Investigative Direction: Obtain Wilmington ground-transport, customs or security records for September 10, 2025; ask the source for corroboration of the dignitary's identity.
 
@@ -1150,7 +1152,7 @@ Transcript Snippet: It was on March 13th, 2024 that I did the very first ever ep
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Check the episode's upload date and Daily Wire's separation date against her timeline.
 
 ---
@@ -1165,7 +1167,7 @@ Transcript Snippet: I began proddding the narrative on Israel at the exact same 
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Compare the dates of the host's first Israel-critical segments with the March 13, 2024 Macron episode.
 
 ---
@@ -1195,7 +1197,7 @@ Transcript Snippet: And then suddenly donors start to squeeze him and tell him t
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10268
+Related Nodes: N-10000, N-10252
 Investigative Direction: Identify the donors and obtain AmFest speaker-invitation records or messages showing the removal.
 
 ---
@@ -1210,7 +1212,7 @@ Transcript Snippet: March 19th, just six days later, I'm fired from a Daily Wire
 
 Anchored Artifacts: A-2723.1
 Mentions: N-3
-Related Nodes: N-11011
+Related Nodes: N-10931
 Revises: C-3160
 Investigative Direction: Check Daily Wire's announcement of the separation against March 19, 2024.
 
@@ -1226,7 +1228,7 @@ Transcript Snippet: Suddenly on December 3rd before I interview him, I receive t
 
 Anchored Artifacts: A-2724.1
 Mentions: N-3, N-82
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Obtain the December 3, 2024 letter with email headers and the inbox log showing the address used.
 
 ---
@@ -1256,7 +1258,7 @@ Transcript Snippet: 7 days later is when it's announced that Satys that's that's
 
 Anchored Artifacts: A-2723.1
 Mentions: 
-Related Nodes: N-11008, N-10269
+Related Nodes: N-10928, N-10253
 Supports: C-3073
 Investigative Direction: Pull the December 10, 2024 press coverage and DRBA announcement to confirm the date.
 
@@ -1272,7 +1274,7 @@ Transcript Snippet: the CEO who knows Emmanuel Macron, we've confirmed that, dec
 
 Anchored Artifacts: 
 Mentions: N-377
-Related Nodes: N-11008, N-10269
+Related Nodes: N-10928, N-10253
 Investigative Direction: Identify the Satys CEO by name and document the claimed acquaintance with Macron; obtain the lease terms.
 
 ---
@@ -1287,7 +1289,7 @@ Transcript Snippet: it's a French multinational company that specializes in the 
 
 Anchored Artifacts: A-2725.1
 Mentions: 
-Related Nodes: N-11008, N-10269
+Related Nodes: N-10928, N-10253
 Investigative Direction: Locate the December 2024 article and quote its description of Satys's business.
 
 ---
@@ -1302,7 +1304,7 @@ Transcript Snippet: on December 18th, Tom Clare sends another follow-up email re
 
 Anchored Artifacts: A-2723.1
 Mentions: N-708, N-3
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Obtain the December 18, 2024 email and its delivery headers; confirm the sender's identity and role.
 
 ---
@@ -1317,7 +1319,7 @@ Transcript Snippet: I think my suspicion is they knew that I was moving to inter
 
 Anchored Artifacts: A-2723.1
 Mentions: N-3, N-283
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Establish who knew of the interview plan before December 3, 2024 and how; obtain communications between the host's team and Poussard.
 
 ---
@@ -1332,7 +1334,7 @@ Transcript Snippet: on January 31st I release the first episode of Becoming Brig
 
 Anchored Artifacts: A-2723.1
 Mentions: N-3
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Confirm the release date from the channel's upload record.
 
 ---
@@ -1347,7 +1349,7 @@ Transcript Snippet: on February 17th, we premiere my sitdown with Xavier Busousa
 
 Anchored Artifacts: A-2723.1
 Mentions: N-283, N-3
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Confirm the premiere date from the upload record.
 
 ---
@@ -1362,7 +1364,7 @@ Transcript Snippet: Charlie Kirk reaches out and he tells me that the White Hous
 
 Anchored Artifacts: A-1445.1
 Mentions: N-1, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Supports: C-3176
 Investigative Direction: Obtain the host's call log and any notes of the February 24, 2025 call; identify which White House staffer relayed the request.
 
@@ -1378,7 +1380,7 @@ Transcript Snippet: This is the day that Donald Trump meets with Emmanuel Macron
 
 Anchored Artifacts: A-1445.1
 Mentions: N-5, N-377, N-1
-Related Nodes: N-10270
+Related Nodes: N-10254
 Investigative Direction: Check the White House schedule and press pool reports for February 24, 2025.
 
 ---
@@ -1408,7 +1410,7 @@ Transcript Snippet: February 26th, President Trump calls me and asks me to stop 
 
 Anchored Artifacts: A-1445.1
 Mentions: N-5, N-1, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Supports: C-3177
 Investigative Direction: Obtain the host's call logs for February 26, 2025 and any White House call schedule entries.
 
@@ -1439,7 +1441,7 @@ Transcript Snippet: on July 1st, Macron sends another legal threat
 
 Anchored Artifacts: 
 Mentions: N-377, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Investigative Direction: Obtain the July 1, 2025 legal letter and its addressee.
 
 ---
@@ -1469,7 +1471,7 @@ Transcript Snippet: the request comes in for Charlie to um speak at UVU very lat
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10012, N-10224
+Related Nodes: N-10000, N-10012, N-10211
 Investigative Direction: Obtain the UVU event application and approval records with timestamps, and the chapter's request date.
 
 ---
@@ -1484,7 +1486,7 @@ Transcript Snippet: BTT then comes in to from Cairo through Paris and lands in O
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10266, N-10253
+Related Nodes: N-10250, N-10239
 Investigative Direction: Pull flight-tracking history for SU-BTT for July 2025, including origin airports and Wilmington ground time.
 
 ---
@@ -1499,7 +1501,7 @@ Transcript Snippet: They stay in Wilmington for six days. Okay, that happens to 
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10266
+Related Nodes: N-10250
 Investigative Direction: Confirm arrival and departure times at Wilmington for SU-BTT from flight-tracking and airport records.
 
 ---
@@ -1514,7 +1516,7 @@ Transcript Snippet: the period that Bregie and Emmanuel Macron released to the F
 
 Anchored Artifacts: 
 Mentions: N-377, N-82, N-3
-Related Nodes: N-10270, N-10266
+Related Nodes: N-10254, N-10250
 Investigative Direction: Compare the Financial Times article's publication time with the plane's July 20 to 26 stay.
 
 ---
@@ -1529,7 +1531,7 @@ Transcript Snippet: moving on to August 1st same week Tucker Carlson releases an
 
 Anchored Artifacts: 
 Mentions: N-22, N-3
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Confirm the episode's release date and discussion of the Macron case.
 
 ---
@@ -1559,7 +1561,7 @@ Transcript Snippet: The school is telling them this is not a great place for you
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10000, N-10012, N-10243
+Related Nodes: N-10000, N-10012, N-10229
 Investigative Direction: Obtain UVU and TPUSA site-visit emails and security assessments from early August 2025.
 
 ---
@@ -1574,7 +1576,7 @@ Transcript Snippet: That's the notorious Hampton's retreat uh that took place. C
 
 Anchored Artifacts: 
 Mentions: N-1, N-37, N-38
-Related Nodes: N-10134, N-10345
+Related Nodes: N-10129, N-10323
 Supports: C-79
 Investigative Direction: Collect Kirk's own description of the retreat and any public statements by Ackman and Dillon disputing it.
 
@@ -1590,7 +1592,7 @@ Transcript Snippet: BB Netanyahu offers to take Turning Point to the next level 
 
 Anchored Artifacts: 
 Mentions: N-36, N-1
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-84
 Investigative Direction: Identify the host's source for the offer and any written record of the offer and its refusal.
 
@@ -1606,7 +1608,7 @@ Transcript Snippet: Charlie speaking on August 23rd. It again goes to through to
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10266
+Related Nodes: N-10250
 Investigative Direction: Match Kirk's August 23, 2025 appearance and the plane's Wilmington overnight against flight-tracking data.
 
 ---
@@ -1621,7 +1623,7 @@ Transcript Snippet: It's Paris Design Week and she's photographed uh with the Mi
 
 Anchored Artifacts: A-2726.1
 Mentions: N-82
-Related Nodes: N-10294
+Related Nodes: N-10276
 Investigative Direction: Obtain the dated photographs of the September 3 event and the Paris departure record for SU-BTT on September 4.
 
 ---
@@ -1636,7 +1638,7 @@ Transcript Snippet: Brigitte Macron welcomes President Zalinski into Paris on Se
 
 Anchored Artifacts: 
 Mentions: N-82, N-709
-Related Nodes: N-10294
+Related Nodes: N-10276
 Investigative Direction: Check Elysee schedules and press coverage for the September 3, 2025 Ukraine leaders' meeting and Brigitte Macron's attendance.
 
 ---
@@ -1651,7 +1653,7 @@ Transcript Snippet: BTT leaves from Paris and it's go time, right? This plane is
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10266, N-10294
+Related Nodes: N-10250, N-10276
 Supports: C-3056
 Investigative Direction: Pull SU-BTT's full flight log from September 4 through 11, 2025.
 
@@ -1667,7 +1669,7 @@ Transcript Snippet: I really don't think this was an Egyptianfilled plane.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Investigative Direction: Obtain the passenger manifest and customs declarations for SU-BTT's Wilmington arrivals.
 
 ---
@@ -1697,7 +1699,7 @@ Transcript Snippet: Emanuel mentioning MK Ultra in the lawsuit to us 18 times st
 
 Anchored Artifacts: 
 Mentions: N-82, N-377, N-3
-Related Nodes: N-10001, N-10116, N-10270
+Related Nodes: N-10001, N-10112, N-10254
 Investigative Direction: Count the MK Ultra references in the Delaware complaint.
 
 ---
@@ -1712,7 +1714,7 @@ Transcript Snippet: whether or not it could have been Brigitte Macron that was i
 
 Anchored Artifacts: 
 Mentions: N-82
-Related Nodes: N-10001, N-10045, N-10116
+Related Nodes: N-10001, N-10042, N-10112
 Investigative Direction: Document what the team found about 'prisoner 2093' and the basis for tying that identifier to the Stanford experiment.
 
 ---
@@ -1727,7 +1729,7 @@ Transcript Snippet: Xavier Busousar's messages have been being read and tracked 
 
 Anchored Artifacts: 
 Mentions: N-283, N-3
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Ask Poussard for evidence of account compromise or forensic review of his devices.
 
 ---
@@ -1742,7 +1744,7 @@ Transcript Snippet: involving maybe another step of the MK Ultra program being u
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10001, N-10116
+Related Nodes: N-10001, N-10112
 Investigative Direction: Identify documents or witnesses supporting the hypothesis; the host has not presented evidence on air.
 
 ---
@@ -1757,7 +1759,7 @@ Transcript Snippet: we thought that we had perhaps identified Brigitte Macron at
 
 Anchored Artifacts: 
 Mentions: N-82, N-283, N-3
-Related Nodes: N-10045, N-10116
+Related Nodes: N-10042, N-10112
 Investigative Direction: Obtain the identification material and the basis for the 50-50 estimate; release it for outside review.
 
 ---
@@ -1772,7 +1774,7 @@ Transcript Snippet: as the tip proved to us yesterday, that wasn't the case. Tha
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11008, N-10269, N-10266
+Related Nodes: N-10928, N-10253, N-10250
 Investigative Direction: Obtain DRBA hangar-lease history for 2021 to 2024 and compare with SU-BTT's Wilmington stops in that period.
 
 ---
@@ -1787,7 +1789,7 @@ Transcript Snippet: we learned that this is a building where there's cooperation
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10269, N-10284
+Related Nodes: N-10253, N-10249
 Investigative Direction: Identify the building and agencies in question from DRBA and federal property records.
 
 ---
@@ -1802,7 +1804,7 @@ Transcript Snippet: the response in France has been to start to harass people wh
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11011
+Related Nodes: N-10931
 Investigative Direction: Name the individuals and obtain account-closure notices or legal filings to verify.
 
 ---
@@ -1832,7 +1834,7 @@ Transcript Snippet: Whether you're talking about George Zinn or the person that 
 
 Anchored Artifacts: 
 Mentions: N-42, N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Investigative Direction: Cross-check each named person against court records for abuse allegations or convictions.
 
 ---
@@ -1847,7 +1849,7 @@ Transcript Snippet: We are receiving a bunch of tips about that company and we a
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11008
+Related Nodes: N-10928
 Investigative Direction: Review the Satys tips received and publish the corroborated leads.
 
 ---
@@ -1862,7 +1864,7 @@ Transcript Snippet: could you tell us who landed in Wilmington, Delaware? and we
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11008, N-10284
+Related Nodes: N-10928, N-10249
 Investigative Direction: Send the question to French authorities and the Satys CEO; note the transcript says 910 King, the host elsewhere says 920 King.
 
 ---
@@ -1877,7 +1879,7 @@ Transcript Snippet: But this is actually the fault of UVU police, right? It's it
 
 Anchored Artifacts: 
 Mentions: N-266, N-224, N-271
-Related Nodes: N-10862, N-10272
+Related Nodes: N-10783, N-10256
 Supports: C-3214
 Investigative Direction: Review the full Shawn Ryan interview and compare Harpole's statements about UVU police with the text exchange.
 
@@ -1893,7 +1895,7 @@ Transcript Snippet: security people are getting fired or getting moved around at
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10197
+Related Nodes: N-10000, N-10189
 Investigative Direction: Identify the affected security staff and obtain employment records or statements; ask TPUSA to confirm or deny.
 
 ---
@@ -1939,7 +1941,7 @@ Transcript Snippet: the only thing that Dan Flood apparently cared about was mak
 
 Anchored Artifacts: 
 Mentions: N-270, N-1, N-3
-Related Nodes: N-10000, N-10261
+Related Nodes: N-10000, N-10246
 Investigative Direction: Obtain the security plan and vehicle staging diagram; interview staff who attended the advance meetings.
 
 ---
@@ -1954,7 +1956,7 @@ Transcript Snippet: All they cared about for whatever reason was the flag of hal
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11009, N-10000
+Related Nodes: N-10929, N-10000
 Investigative Direction: Establish what the Hall of Flags access control covered and who had access on September 10, 2025 from UVU records.
 
 ---
@@ -1969,7 +1971,7 @@ Transcript Snippet: there were only two videos of people really that saw the all
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10261, N-10175
+Related Nodes: N-10246, N-10168
 Investigative Direction: Catalogue all rooftop-related videos submitted to UVU, FBI and media for September 10, 2025.
 
 ---
@@ -1984,7 +1986,7 @@ Transcript Snippet: those students who shot it didn't post it themselves. They w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10175
+Related Nodes: N-10168
 Supports: C-681
 Investigative Direction: Trace the chain of custody of each roof video from filmer to first publication.
 
@@ -2000,7 +2002,7 @@ Transcript Snippet: both of those uh students or non- studentents were in the mi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10197, N-10175
+Related Nodes: N-10189, N-10168
 Investigative Direction: Verify each filmer's service or ROTC enrollment through the host's team and the filmers themselves.
 
 ---
@@ -2015,7 +2017,7 @@ Transcript Snippet: He was in the flag of Halls or the Hall of Flags, pardon me.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11009, N-10175
+Related Nodes: N-10929, N-10168
 Investigative Direction: Identify the student and compare his video timestamps and location with the Hall of Flags layout.
 
 ---
@@ -2030,7 +2032,7 @@ Transcript Snippet: I told you that was a lie. That's not how things went down. 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-11012, N-10029
+Related Nodes: N-10932, N-10029
 Investigative Direction: Compare the host's sources with charging documents, press-conference statements and the sheriff's timeline of the surrender.
 
 ---
@@ -2045,7 +2047,7 @@ Transcript Snippet: Washington County responded, saying there were no records re
 
 Anchored Artifacts: A-1449.1
 Mentions: N-40
-Related Nodes: N-10029, N-10271
+Related Nodes: N-10029, N-10255
 Investigative Direction: Obtain the original GRAMA request and the county's two written responses and denial reasons.
 
 ---
@@ -2060,7 +2062,7 @@ Transcript Snippet: Our job was not to interview. Our job was just to get him he
 
 Anchored Artifacts: A-1449.1
 Mentions: N-272, N-40
-Related Nodes: N-10029, N-10271
+Related Nodes: N-10029, N-10255
 Investigative Direction: Obtain the full press-conference recording and transcript to confirm context and to whom 'him' refers.
 
 ---
@@ -2090,7 +2092,7 @@ Transcript Snippet: If in fact it has been destroyed and not preserved is very c
 
 Anchored Artifacts: A-1449.1
 Mentions: 
-Related Nodes: N-10271, N-10029
+Related Nodes: N-10255, N-10029
 Investigative Direction: Identify the speaker and their role from the full KUTV segment.
 
 ---
@@ -2105,7 +2107,7 @@ Transcript Snippet: Washington County shared with me they don't believe the vide
 
 Anchored Artifacts: A-1449.1
 Mentions: 
-Related Nodes: N-10271, N-10029
+Related Nodes: N-10255, N-10029
 Investigative Direction: Ask Utah County, the state and the FBI whether any copy of the surrender footage was received.
 
 ---
@@ -2120,7 +2122,7 @@ Transcript Snippet: would be crucial for the defense work of mitigation.
 
 Anchored Artifacts: A-1449.1
 Mentions: N-40
-Related Nodes: N-10271
+Related Nodes: N-10255, N-11360
 Investigative Direction: Identify the speaker (likely a legal commentator) and check for any defense motion seeking the footage.
 
 ---
@@ -2135,7 +2137,7 @@ Transcript Snippet: he also can't appear in person. He's appearing electronicall
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10336
+Related Nodes: N-10315
 Investigative Direction: Review the court docket and hearing recordings for the appearance format at each hearing.
 
 ---
@@ -2150,7 +2152,7 @@ Transcript Snippet: Tyler Robinson, who did not attend UVU, had never been on UV
 
 Anchored Artifacts: 
 Mentions: N-40, N-1, N-3
-Related Nodes: N-10145, N-10028
+Related Nodes: N-10140, N-10028
 Investigative Direction: Check whether Robinson visited the campus before September 10 via charging documents, ticket data or camera footage.
 
 ---
@@ -2165,7 +2167,7 @@ Transcript Snippet: He then makes a hasty retreat into a Dairy Queen where he te
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10051, N-10853
+Related Nodes: N-10048, N-10775
 Investigative Direction: Compare the prosecution's text-message exhibits and Dairy Queen timestamps with the host's summary.
 
 ---
@@ -2180,7 +2182,7 @@ Transcript Snippet: despite the fact that he's got like a 4.3 GPA and he's like 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10337
+Related Nodes: N-10316
 Investigative Direction: Check school records or charging documents for Robinson's reported GPA.
 
 ---
@@ -2255,7 +2257,7 @@ Transcript Snippet: I once I saw the article that he was blocking Tulsi's office
 
 Anchored Artifacts: 
 Mentions: N-69, N-329, N-3
-Related Nodes: N-10355
+Related Nodes: N-10332
 Investigative Direction: Locate the article about Patel blocking Gabbard's office and check its sourcing.
 
 ---
@@ -2300,7 +2302,7 @@ Transcript Snippet: Uh certainly a first lady or first man of a country would be
 
 Anchored Artifacts: 
 Mentions: N-3, N-5
-Related Nodes: N-10284
+Related Nodes: N-10249
 Investigative Direction: Check State Department and Secret Service definitions of foreign dignitary.
 
 ---
@@ -2315,7 +2317,7 @@ Transcript Snippet: pretty wide ranging. So, it could be any pretty much anyone 
 
 Anchored Artifacts: 
 Mentions: N-67, N-3
-Related Nodes: N-10284
+Related Nodes: N-10249
 Investigative Direction: Check State Department and Secret Service definitions of foreign dignitary.
 
 ---

@@ -30,7 +30,7 @@
             "C-4303"
           ],
           "related_nodes": [
-            "N-10368"
+            "N-10343"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -50,7 +50,7 @@
           ],
           "related_nodes": [
             "N-362",
-            "N-10368"
+            "N-10343"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +77,7 @@
           ],
           "related_nodes": [
             "N-361",
-            "N-10367"
+            "N-10342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -120,7 +120,7 @@
           "related_nodes": [
             "N-361",
             "N-319",
-            "N-10367"
+            "N-10342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -147,7 +147,7 @@
           ],
           "related_nodes": [
             "N-363",
-            "N-10367"
+            "N-10342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-4348"
           ],
           "related_nodes": [
-            "N-10367"
+            "N-10342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -184,7 +184,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10367"
+            "N-10342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -210,7 +210,7 @@
             "C-4276"
           ],
           "related_nodes": [
-            "N-10369"
+            "N-10344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,7 +229,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10369"
+            "N-10344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -386,7 +386,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ]
     },
     {
@@ -409,7 +409,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ]
     },
     {
@@ -431,7 +431,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ]
     },
     {
@@ -457,12 +457,12 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
-      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-319).",
+      "type": "topic",
+      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10342 related), and Captain Neff (N-319).",
       "related_artifacts": [
         "A-1558.1",
         "A-1558.3",
@@ -487,14 +487,16 @@
         "N-361",
         "N-363",
         "N-319"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10368",
-      "ref": "N-10368",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10343",
+      "ref": "N-10343",
       "name": "Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: viewer-email allegation that Fort Huachuca hosted a class teaching military personnel to infiltrate Christian organizations through covert psychological operations, with corroborating student testimony regarding overnight deception exercises in Tucson.",
       "related_artifacts": [
         "A-1557.1",
@@ -512,14 +514,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-362"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10369",
-      "ref": "N-10369",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10344",
+      "ref": "N-10344",
       "name": "Charlie Kirk SUV Interior Black Plastic Fragmentation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: viewer-flagged and host-confirmed visual observation of black plastic / tempered-glass-like fragments across the rear floor of Charlie Kirk's SUV in post-shooting photographs.",
       "related_artifacts": [
         "A-1560.1",
@@ -535,7 +539,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -600,8 +605,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11022",
-      "ref": "N-11022",
+      "@id": "N-10941",
+      "ref": "N-10941",
       "name": "Federal Block on Surgeon's Return to Operating Room",
       "type": "topic",
       "description": "Investigation target: the host's claim that federal agents prevented the surgeon from returning to his operating room after Charlie Kirk was brought in, and that he placed a call presumably to DC, so the team could not clean the room before Erika Kirk arrived.",
@@ -613,12 +618,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11023",
-      "ref": "N-11023",
+      "@id": "N-10942",
+      "ref": "N-10942",
       "name": "Mitch Snow Cartel Identity Leak and Legal Record",
       "type": "topic",
       "description": "Investigation target: Mitch's account that his identity was passed to cartels after the 1990 tunnel operation, the resulting name change, debt and lawsuits, and the court documents he sent the host.",
@@ -635,7 +641,8 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -811,11 +818,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10086",
-      "ref": "N-10086",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10082",
+      "ref": "N-10082",
       "name": "Transponder / Plane Anomaly Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the host's call-sign and transponder claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -825,14 +832,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for the host's statements on the evidence against Tyler Robinson and the surgeon's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -843,14 +851,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10121",
-      "ref": "N-10121",
-      "name": "Eyewitness Roof-Description Discrepancy",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10095",
+      "ref": "N-10095",
+      "name": "Shooter Description Contradiction",
+      "type": "investigation_question",
       "description": "Reused for the rooftop eyewitness's description of the shooter and weapon.",
       "related_artifacts": [],
       "related_claims": [
@@ -862,14 +871,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for federal removal of hospital footage and exclusion of the surgeon.",
       "related_artifacts": [],
       "related_claims": [
@@ -880,14 +890,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@type": "Topic",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for the host's statements on Calvary Chapel pastors and Rob McCoy.",
       "related_artifacts": [],
       "related_claims": [
@@ -898,14 +910,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the host's mention of being sued by a transatlantic president.",
       "related_artifacts": [],
       "related_claims": [
@@ -915,14 +928,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10271",
-      "ref": "N-10271",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10255",
+      "ref": "N-10255",
       "name": "Tyler Robinson Washington County Surveillance Footage Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the missing Tyler Robinson surrender footage and the host's account of the surrender.",
       "related_artifacts": [],
       "related_claims": [
@@ -936,14 +950,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10326",
-      "ref": "N-10326",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10305",
+      "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for Mitch's account of the September 9 JTF building encounter and its aftermath.",
       "related_artifacts": [],
       "related_claims": [
@@ -967,14 +982,16 @@
       "evidence_count": 0,
       "claim_count": 15,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10328",
-      "ref": "N-10328",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10307",
+      "ref": "N-10307",
       "name": "1990 Douglas, Arizona / Operation Catacomb Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for Mitch's account of the 1990 Douglas, Arizona tunnel operation.",
       "related_artifacts": [],
       "related_claims": [
@@ -989,14 +1006,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10333",
-      "ref": "N-10333",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10312",
+      "ref": "N-10312",
       "name": "Candlewood Suites Hotel Security Footage (Sept 8, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the Candlewood hotel stay and lobby encounter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1008,14 +1027,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10342"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for Terryl Farnsworth's camera removal.",
       "related_artifacts": [],
       "related_claims": [
@@ -1026,14 +1047,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10360",
-      "ref": "N-10360",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10336",
+      "ref": "N-10336",
       "name": "Gun Discovery Procedure Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for bomb-dog failure, federal direction to the weapon and prints.",
       "related_artifacts": [],
       "related_claims": [
@@ -1047,14 +1070,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10362",
-      "ref": "N-10362",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10338",
+      "ref": "N-10338",
       "name": "Vehicle Disposition Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the non-impounded hospital transport vehicle.",
       "related_artifacts": [],
       "related_claims": [
@@ -1064,14 +1088,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10364",
-      "ref": "N-10364",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10340",
+      "ref": "N-10340",
       "name": "SAM658/RCH658 Call Sign Switch Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the call-sign switch claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1083,14 +1108,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the question of Erika Kirk's presence and connection to Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
@@ -1100,14 +1126,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the host's claims about military infiltration of faith and TPUSA.",
       "related_artifacts": [],
       "related_claims": [
@@ -1120,14 +1148,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10671",
-      "ref": "N-10671",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10611",
+      "ref": "N-10611",
       "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the Fort Huachuca flight data discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1138,14 +1167,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10719",
-      "ref": "N-10719",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10655",
+      "ref": "N-10655",
       "name": "Prosecution Non-Call of Rooftop Eyewitness",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the uncontacted rooftop eyewitness.",
       "related_artifacts": [],
       "related_claims": [
@@ -1155,14 +1186,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10769",
-      "ref": "N-10769",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10698",
+      "ref": "N-10698",
       "name": "Losee Center Gun Verification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the weapon recovery and eyewitness description.",
       "related_artifacts": [],
       "related_claims": [
@@ -1174,7 +1206,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     }
   ],
   "claims": [
@@ -1188,7 +1221,7 @@
         "A-1557.1"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:12:00",
@@ -1223,7 +1256,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:19:30",
@@ -1242,7 +1275,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:44:46–00:50:12",
@@ -1262,7 +1295,7 @@
         "A-1559.3"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:55:09–00:57:28",
@@ -1283,7 +1316,7 @@
         "A-1559.2"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:55:09–00:57:28",
@@ -1304,7 +1337,7 @@
         "A-1559.1"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "01:01:18",
@@ -1324,7 +1357,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:14:48–00:17:53",
@@ -1343,7 +1376,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:16:38–00:17:14",
@@ -1360,7 +1393,7 @@
         "A-1560.2"
       ],
       "related_nodes": [
-        "N-10369"
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:01:18–00:02:51",
@@ -1379,7 +1412,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:50:12–00:53:59",
@@ -1397,7 +1430,7 @@
       "claim": "The host says that the previous day she received a flood of emails from law enforcement officers and military personnel who rejected the account that the bomb dogs missed the gun.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10360"
+        "N-10336"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00",
@@ -1415,7 +1448,7 @@
       "claim": "The host says the fragments in the SUV photos cannot be extrapolated into evidence that something broke on Charlie Kirk or was rigged, and that mundane explanations such as a broken phone are possible.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10369"
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:02:07",
@@ -1437,7 +1470,7 @@
       "claim": "The host says she is hesitant to release the rest of the SUV photographs because she does not want the federal officers who assisted her to be identified and fired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10369"
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:02:51",
@@ -1455,7 +1488,7 @@
       "claim": "The host says there is no evidence against Tyler Robinson outside of messages that are not timestamped, and that there is no confession.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:03:34",
@@ -1474,7 +1507,7 @@
       "claim": "The host says the surgeon never confirmed or suggested that Charlie Kirk was shot with a .30-06 or that a steel neck stopped the bullet, and that he suggested a frangible bullet may have been used.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:04:13",
@@ -1493,8 +1526,8 @@
       "claim": "The host says the lone confirmed eyewitness who saw the alleged shooter on the Losee Center rooftop before the shot has not been contacted by the lawyers or investigators on either side, even though the investigation phase before the May probable cause hearing is under way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10719",
-        "N-10121"
+        "N-10655",
+        "N-10095"
       ],
       "tags": [],
       "claim_timestamp": "00:04:13",
@@ -1512,8 +1545,8 @@
       "claim": "The host says the rooftop eyewitness is an instructor at a gun range who described the weapon he saw as looking more like a .223 and shorter than the one that was found.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10121",
-        "N-10769"
+        "N-10095",
+        "N-10698"
       ],
       "tags": [],
       "claim_timestamp": "00:04:13",
@@ -1531,7 +1564,7 @@
       "claim": "The host says the rooftop eyewitness described the person he saw as wearing what seemed to be black tactical gear plus a face mask, and as looking like a professional.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10121"
+        "N-10095"
       ],
       "tags": [],
       "claim_timestamp": "00:05:09",
@@ -1549,8 +1582,8 @@
       "claim": "The host says the bomb dogs were unable to locate the weapon in the field where it was eventually discovered, although they had crawled over that area.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10360",
-        "N-10769"
+        "N-10336",
+        "N-10698"
       ],
       "tags": [],
       "claim_timestamp": "00:05:09",
@@ -1568,7 +1601,7 @@
       "claim": "The host says that, rather than the dogs finding it, federal agents directed local officers to the weapon.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10360"
+        "N-10336"
       ],
       "tags": [],
       "claim_timestamp": "00:05:09",
@@ -1586,8 +1619,8 @@
       "claim": "The host says the canines were not provided with the scent of the weapon once it was discovered, so the dogs did not trace it back to the top of the Losee Center.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10360",
-        "N-10769"
+        "N-10336",
+        "N-10698"
       ],
       "tags": [],
       "claim_timestamp": "00:05:09",
@@ -1605,7 +1638,7 @@
       "claim": "The host says Terryl Farnsworth raced to remove the camera that was directly behind Charlie Kirk's head, and that major question marks remain about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:05:57",
@@ -1624,7 +1657,7 @@
       "claim": "The host says that, in her own reading and not as a data point, the camera was removed because the story was going to be that a .30-06 hit Charlie Kirk, and the footage would have shown there was no tremendous damage to his neck.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:05:57",
@@ -1647,8 +1680,8 @@
       "claim": "The host says federal agents prevented the surgeon from returning to his operating room, which startled him, and that he placed a call presumably to DC because he wanted the team back in to clean Charlie Kirk before Erika Kirk came in.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11022",
-        "N-10239"
+        "N-10941",
+        "N-10226"
       ],
       "tags": [],
       "claim_timestamp": "00:06:40",
@@ -1667,7 +1700,7 @@
       "claim": "The host says federal agents removed the hospital surveillance footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239"
+        "N-10226"
       ],
       "tags": [],
       "claim_timestamp": "00:07:19",
@@ -1685,7 +1718,7 @@
       "claim": "The host says the vehicle in which Charlie Kirk was transported to Timpanogos Hospital was not impounded by law enforcement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10362"
+        "N-10338"
       ],
       "tags": [],
       "claim_timestamp": "00:07:19",
@@ -1703,7 +1736,7 @@
       "claim": "The host says she can confirm there were multiple sets of prints on the recovered gun, not only those of Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10360"
+        "N-10336"
       ],
       "tags": [],
       "claim_timestamp": "00:07:19",
@@ -1725,7 +1758,7 @@
       "claim": "The host says the footage of Tyler Robinson turning himself in is apparently missing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:08:04",
@@ -1746,7 +1779,7 @@
         "A-2747.1"
       ],
       "related_nodes": [
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:08:04",
@@ -1765,7 +1798,7 @@
       "claim": "The host says, flagging it as her own reading, that her investigation found that the story that Tyler Robinson's parents turned him in and did the right thing is false.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:08:04",
@@ -1784,7 +1817,7 @@
       "claim": "The host says that, according to her investigation, which she flags as her own reading, Tyler Robinson and his parents were told either the doors would be broken down or he would come in peacefully, and he chose the latter.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:08:04",
@@ -1803,7 +1836,7 @@
       "claim": "The host says police officers who were present when Tyler Robinson came in told her they were told not to look at him and to avoid cameras.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:08:04",
@@ -1822,7 +1855,7 @@
       "claim": "The host says that within Calvary Chapel in particular there is too much of a habit of establishing former pedophiles and drug traffickers as lead pastors of churches.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:09:14",
@@ -1840,7 +1873,7 @@
       "claim": "The host says Rob McCoy did an interview with somebody who apparently went on a rampage and went to prison, sort of laundering his reputation, and then gave him access to children again.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:10:03",
@@ -1859,7 +1892,7 @@
       "claim": "The host says there are many conservative media companies run by former military intelligence, naval intelligence or Mossad personnel who then speak about Judeo-Christian values.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [],
       "claim_timestamp": "00:11:00",
@@ -1877,7 +1910,7 @@
       "claim": "The host says she has been suggesting that faith has been infiltrated by the military and that people laughed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [],
       "claim_timestamp": "00:11:00",
@@ -1895,7 +1928,7 @@
       "claim": "The host says Fort Huachuca is a hub for intelligence training where civilians can be turned into intelligence assets and take courses to join the intelligence community.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:11:38",
@@ -1918,7 +1951,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:13:05",
@@ -1938,7 +1971,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:13:59",
@@ -1958,7 +1991,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:15:35",
@@ -1978,7 +2011,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:15:35",
@@ -1998,7 +2031,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:15:35",
@@ -2018,8 +2051,8 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-10436",
-        "N-10368"
+        "N-10405",
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:17:14",
@@ -2040,7 +2073,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:17:53",
@@ -2062,7 +2095,7 @@
       "claim": "The host says she has been telling viewers that all roads, including the Egyptian and Israeli planes, lead to the front door of Turning Point USA Faith, and that she feels the email is a big piece of the puzzle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [],
       "claim_timestamp": "00:17:53",
@@ -2082,7 +2115,7 @@
         "A-2744.1"
       ],
       "related_nodes": [
-        "N-10368"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:18:39",
@@ -2100,7 +2133,7 @@
       "claim": "The host says that since she mentioned Fort Huachuca and the alleged September 9 meeting there has been wall-to-wall panic, with unhinged articles.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:18:39",
@@ -2137,7 +2170,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:26:10",
@@ -2157,7 +2190,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:27:05",
@@ -2177,7 +2210,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:29:17",
@@ -2197,7 +2230,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:29:17",
@@ -2217,7 +2250,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:30:50",
@@ -2237,7 +2270,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-11023"
+        "N-10942"
       ],
       "tags": [],
       "claim_timestamp": "00:32:08",
@@ -2258,7 +2291,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:33:02",
@@ -2278,7 +2311,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-11023"
+        "N-10942"
       ],
       "tags": [],
       "claim_timestamp": "00:33:02",
@@ -2298,7 +2331,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-11023"
+        "N-10942"
       ],
       "tags": [],
       "claim_timestamp": "00:33:59",
@@ -2318,7 +2351,7 @@
         "A-2745.1"
       ],
       "related_nodes": [
-        "N-11023"
+        "N-10942"
       ],
       "tags": [],
       "claim_timestamp": "00:33:59",
@@ -2339,7 +2372,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:35:09",
@@ -2359,7 +2392,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:36:31",
@@ -2384,7 +2417,7 @@
         "A-1558.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:37:09",
@@ -2404,7 +2437,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10333"
+        "N-10312"
       ],
       "tags": [],
       "claim_timestamp": "00:38:10",
@@ -2424,8 +2457,8 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10367",
-        "N-10333"
+        "N-10342",
+        "N-10312"
       ],
       "tags": [],
       "claim_timestamp": "00:38:10",
@@ -2445,8 +2478,8 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10367",
-        "N-10333"
+        "N-10342",
+        "N-10312"
       ],
       "tags": [],
       "claim_timestamp": "00:41:42",
@@ -2466,7 +2499,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:43:50",
@@ -2486,7 +2519,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:44:46",
@@ -2509,7 +2542,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:45:54",
@@ -2529,7 +2562,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:47:14",
@@ -2549,8 +2582,8 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326",
-        "N-10367"
+        "N-10305",
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:50:12",
@@ -2570,7 +2603,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:50:12",
@@ -2590,7 +2623,7 @@
         "A-2745.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:52:46",
@@ -2614,7 +2647,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:52:46",
@@ -2634,7 +2667,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:52:46",
@@ -2654,7 +2687,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:53:59",
@@ -2675,7 +2708,7 @@
         "A-1558.1"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:56:25",
@@ -2697,7 +2730,7 @@
       "claim": "The host says Erika Kirk has been open that her mother moved to Arizona because she got involved with the military.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:59:04",
@@ -2718,9 +2751,9 @@
         "A-2746.1"
       ],
       "related_nodes": [
-        "N-10086",
-        "N-10364",
-        "N-10671"
+        "N-10082",
+        "N-10340",
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "01:01:18",
@@ -2743,8 +2776,8 @@
         "A-2746.1"
       ],
       "related_nodes": [
-        "N-10364",
-        "N-10671"
+        "N-10340",
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "01:01:18",
@@ -2765,7 +2798,7 @@
       "claim": "The host speculates that the person Mitch was blocked from seeing might be Kash Patel, adding that it could also not be him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10364"
+        "N-10340"
       ],
       "tags": [],
       "claim_timestamp": "01:01:18",
@@ -2784,7 +2817,7 @@
       "claim": "The host says she believes the officers surrounded Mitch to make sure he could not see who was walking out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "01:02:04",
@@ -2803,7 +2836,7 @@
       "claim": "The host says she is being sued by a transatlantic president overseas for trying to tell the truth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "01:02:04",
@@ -2821,7 +2854,7 @@
       "claim": "The host tells Mitch she intends to help him raise money to go through lawsuits with the federal government.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11023"
+        "N-10942"
       ],
       "tags": [],
       "claim_timestamp": "01:02:04",
@@ -2874,7 +2907,7 @@
       "claim": "The host says she will set up a GiveSendGo fundraiser for Mitch and his family and has seen the legal paperwork showing what they have endured.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11023"
+        "N-10942"
       ],
       "tags": [],
       "claim_timestamp": "01:10:14",

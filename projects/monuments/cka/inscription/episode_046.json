@@ -34,7 +34,7 @@
             "N-278",
             "N-2",
             "N-3",
-            "N-10334"
+            "N-10313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -111,7 +111,7 @@
           "related_nodes": [
             "N-326",
             "N-278",
-            "N-10334"
+            "N-10313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,7 +203,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10336"
+            "N-10315"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -508,7 +508,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10334"
+        "N-10313"
       ]
     },
     {
@@ -647,7 +647,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-278",
-        "N-10334"
+        "N-10313"
       ]
     },
     {
@@ -672,11 +672,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10334",
-      "ref": "N-10334",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10313",
+      "ref": "N-10313",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target concerning whether questions were pre-selected, the town hall was pre-recorded, and audience composition was curated. Host asserts affirmative answers via insider sources; episode displays rehearsed on-air delivery.",
       "related_artifacts": [
         "A-1533.1",
@@ -693,14 +693,15 @@
       "related_nodes": [
         "N-278",
         "N-326"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10335",
-      "ref": "N-10335",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10314",
+      "ref": "N-10314",
       "name": "Maroon Shirt / Air Force 10th Mountain Brigade Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Continued investigative target tying the maroon-shirt observation at the Kirk event to the U.S. Army 10th Mountain Brigade and Air Force color associations. Host references prior military-source confirmation.",
       "related_artifacts": [],
       "related_claims": [],
@@ -711,14 +712,16 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10336",
-      "ref": "N-10336",
+      "@type": "Event",
+      "@id": "N-10315",
+      "ref": "N-10315",
       "name": "Tyler Robinson First In-Person Court Appearance Details",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Verification target for the December 11, 2025 court appearance: demeanor, hearing content, transcript availability to media, and any preliminary statements.",
       "related_artifacts": [
         "A-1535.1"
@@ -733,7 +736,9 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -964,11 +969,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
       "related_artifacts": [],
       "related_claims": [
@@ -986,7 +991,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1143,11 +1150,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Venue of the September 10 event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1157,14 +1164,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Federal agency whose handling the host criticizes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1174,14 +1183,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10021",
       "ref": "N-10021",
       "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1191,14 +1202,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Campus place in the host's on-campus question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1208,14 +1220,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10030",
       "ref": "N-10030",
       "name": "Text Message Timestamp Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1225,31 +1239,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10039",
-      "ref": "N-10039",
-      "name": "Missing Text Message Timestamps",
-      "type": "investigation_target",
-      "description": "Existing topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3998"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10040",
-      "ref": "N-10040",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10038",
+      "ref": "N-10038",
       "name": "Robinson On-Campus Linger Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1259,14 +1258,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1277,14 +1277,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10085",
-      "ref": "N-10085",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10081",
+      "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1295,14 +1296,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@type": "Event",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1313,14 +1315,19 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10130",
-      "ref": "N-10130",
+      "@type": "Organization",
+      "@id": "N-10125",
+      "ref": "N-10125",
       "name": "Department of Government Efficiency (DOGE)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1330,14 +1337,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10162",
-      "ref": "N-10162",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10156",
+      "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1348,14 +1357,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10164",
-      "ref": "N-10164",
-      "name": "Charlie Kirk Catholic Trajectory Verification",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10100",
+      "ref": "N-10100",
+      "name": "Catholic Conversion Rumor",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1366,14 +1377,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10165",
-      "ref": "N-10165",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10158",
+      "ref": "N-10158",
       "name": "Campus Footage Release Strategy Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1383,14 +1395,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1400,14 +1413,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10180",
-      "ref": "N-10180",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10172",
+      "ref": "N-10172",
       "name": "Bullet Trajectory and Caliber Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1420,14 +1434,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10181",
-      "ref": "N-10181",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10173",
+      "ref": "N-10173",
       "name": "Multiple Shooter Theory",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1437,14 +1452,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10187",
-      "ref": "N-10187",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10179",
+      "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1455,14 +1471,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1473,14 +1490,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1490,14 +1509,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10237",
-      "ref": "N-10237",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10224",
+      "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1509,14 +1529,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10250",
-      "ref": "N-10250",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10236",
+      "ref": "N-10236",
       "name": "Charlie Kirk Event – Maroon Shirt Individual Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1526,14 +1547,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1545,14 +1568,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10271",
-      "ref": "N-10271",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10255",
+      "ref": "N-10255",
       "name": "Tyler Robinson Washington County Surveillance Footage Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1562,14 +1586,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10282",
-      "ref": "N-10282",
+      "@type": "Organization",
+      "@id": "N-10265",
+      "ref": "N-10265",
       "name": "CBS News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1582,14 +1607,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10311",
-      "ref": "N-10311",
+      "@type": "Topic",
+      "@id": "N-10293",
+      "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1600,14 +1627,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1617,14 +1645,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10349",
-      "ref": "N-10349",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10327",
+      "ref": "N-10327",
       "name": "Bari Weiss CBS Interview Question Selection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1636,14 +1666,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@type": "Topic",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1654,14 +1685,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10377",
-      "ref": "N-10377",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10350",
+      "ref": "N-10350",
       "name": "Hunter Kozak / Kozak Identity Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1671,14 +1703,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@type": "Topic",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1689,14 +1722,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@type": "Topic",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1706,14 +1740,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1723,14 +1758,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10493",
-      "ref": "N-10493",
-      "name": "Pierre / French Donor Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10280",
+      "ref": "N-10280",
+      "name": "Pierre Dupont Donor Identity Verification Question",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1740,31 +1776,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10566",
-      "ref": "N-10566",
-      "name": "Tyler Robinson Confession Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3999"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10853",
-      "ref": "N-10853",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10775",
+      "ref": "N-10775",
       "name": "Dairy Queen Timestamp UTC vs MST Reconciliation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1774,14 +1794,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10048"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11012",
-      "ref": "N-11012",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10932",
+      "ref": "N-10932",
       "name": "Tyler Robinson Surrender Narrative Dispute",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1793,12 +1815,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11107",
-      "ref": "N-11107",
+      "@id": "N-11025",
+      "ref": "N-11025",
       "name": "Erika Kirk Interview Campaign Talking Points",
       "type": "topic",
       "description": "Persistent target: the host's claim that Erika Kirk, Turning Point USA and allied influencers are running a coordinated PR campaign built on three talking points (a bigger mission, the trial could be ruined, doubters are mentally ill), with the CBS and Blaze TV interviews as its final stop.",
@@ -1814,12 +1837,13 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11108",
-      "ref": "N-11108",
+      "@id": "N-11026",
+      "ref": "N-11026",
       "name": "Host Rebuttal of the Stop Request",
       "type": "topic",
       "description": "Persistent target: whether Erika Kirk or Turning Point USA will specify any statement the host made that was false, in answer to the \"Stop\" request and the host's offer to stop once she is told what she lied about.",
@@ -1831,7 +1855,29 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3999",
+        "C-4001",
+        "C-4002"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -1953,7 +1999,7 @@
         "A-1535.1"
       ],
       "related_nodes": [
-        "N-10336"
+        "N-10315"
       ],
       "tags": [],
       "claim_timestamp": "00:35:15",
@@ -2030,7 +2076,7 @@
         "A-1533.1"
       ],
       "related_nodes": [
-        "N-10334"
+        "N-10313"
       ],
       "tags": [],
       "claim_timestamp": "00:08:10",
@@ -2048,7 +2094,7 @@
       "claim": "The host asserts that the maroon color referenced in connection with Kirk event attendees (and noted by the host in prior episodes) represents the U.S. Air Force and the Army 10th Mountain Brigade, citing military contacts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10335"
+        "N-10314"
       ],
       "tags": [],
       "claim_timestamp": "00:57:40",
@@ -2084,7 +2130,7 @@
       "claim": "The host says she guesses, and hopes, that the Bari Weiss and Glenn Beck interviews are the final stop of a PR campaign that brings Erika Kirk out so the public feels it cannot question the judgment of a widow.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11107"
+        "N-11025"
       ],
       "tags": [
         "relevance:core"
@@ -2107,7 +2153,7 @@
       "claim": "The host says the talking points she sees are that there is a bigger mission, that questioning will ruin the trial, and that doubters are mentally ill.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11107",
+        "N-11025",
         "N-10000"
       ],
       "tags": [
@@ -2128,7 +2174,7 @@
       "claim": "The host says no amount of propaganda will convince the masses that a human neck stopped a .30-06 bullet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10180"
+        "N-10172"
       ],
       "tags": [
         "relevance:core"
@@ -2152,8 +2198,8 @@
       "claim": "The host says there was minimal damage to the front of Charlie Kirk's neck, and she asks viewers to produce any documented case of a .30-06 being stopped by a human neck.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085",
-        "N-10180"
+        "N-10081",
+        "N-10172"
       ],
       "tags": [
         "relevance:core"
@@ -2174,8 +2220,8 @@
       "claim": "The host describes the official account as the bullet going cleanly into Charlie Kirk's neck and then ricocheting downward into his stomach.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085",
-        "N-10180"
+        "N-10081",
+        "N-10172"
       ],
       "tags": [
         "relevance:core"
@@ -2196,7 +2242,7 @@
       "claim": "The host says Bari Weiss is \"just a Tel Aviv agent,\" citing her studies in Tel Aviv, her family ties and what the host calls a hand of Midas that pulled her through the ranks, and adds that she became chief at CBS News despite sub-average intelligence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10282"
+        "N-10265"
       ],
       "tags": [
         "relevance:tangential"
@@ -2219,8 +2265,8 @@
         "A-1533.1"
       ],
       "related_nodes": [
-        "N-10334",
-        "N-10282"
+        "N-10313",
+        "N-10265"
       ],
       "tags": [
         "relevance:core"
@@ -2247,7 +2293,7 @@
         "A-1533.1"
       ],
       "related_nodes": [
-        "N-10334"
+        "N-10313"
       ],
       "tags": [
         "relevance:core"
@@ -2292,8 +2338,8 @@
         "A-2831.1"
       ],
       "related_nodes": [
-        "N-10193",
-        "N-10198"
+        "N-10185",
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2317,8 +2363,8 @@
         "A-2831.1"
       ],
       "related_nodes": [
-        "N-10180",
-        "N-10447",
+        "N-10172",
+        "N-10416",
         "N-10000"
       ],
       "tags": [
@@ -2365,8 +2411,8 @@
         "A-2831.1"
       ],
       "related_nodes": [
-        "N-10164",
-        "N-10350",
+        "N-10100",
+        "N-10328",
         "N-10000"
       ],
       "tags": [
@@ -2390,7 +2436,7 @@
         "A-2831.1"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:core"
@@ -2415,7 +2461,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10187"
+        "N-10179"
       ],
       "tags": [
         "relevance:context"
@@ -2437,9 +2483,9 @@
         "A-2831.1"
       ],
       "related_nodes": [
-        "N-10100",
-        "N-10162",
-        "N-10346"
+        "N-10096",
+        "N-10156",
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -2465,8 +2511,8 @@
         "A-2831.1"
       ],
       "related_nodes": [
-        "N-10100",
-        "N-10162"
+        "N-10096",
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2493,8 +2539,8 @@
         "A-2831.1"
       ],
       "related_nodes": [
-        "N-10434",
-        "N-10130"
+        "N-10404",
+        "N-10125"
       ],
       "tags": [
         "relevance:core"
@@ -2548,7 +2594,6 @@
         "A-2831.2"
       ],
       "related_nodes": [
-        "N-10039",
         "N-10030"
       ],
       "tags": [
@@ -2576,8 +2621,8 @@
       ],
       "related_nodes": [
         "N-10021",
-        "N-10566",
-        "N-11012"
+        "N-10932",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -2603,8 +2648,8 @@
         "A-2831.2"
       ],
       "related_nodes": [
-        "N-10051",
-        "N-10853"
+        "N-10048",
+        "N-10775"
       ],
       "tags": [
         "relevance:core"
@@ -2630,8 +2675,9 @@
         "A-2831.2"
       ],
       "related_nodes": [
-        "N-10311",
-        "N-10250"
+        "N-10293",
+        "N-10236",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -2657,7 +2703,8 @@
         "A-2831.2"
       ],
       "related_nodes": [
-        "N-11012"
+        "N-10932",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -2683,8 +2730,8 @@
         "A-2831.2"
       ],
       "related_nodes": [
-        "N-10271",
-        "N-11012"
+        "N-10255",
+        "N-10932"
       ],
       "tags": [
         "relevance:core"
@@ -2707,7 +2754,7 @@
         "A-2831.2"
       ],
       "related_nodes": [
-        "N-10253",
+        "N-10239",
         "N-10000"
       ],
       "tags": [
@@ -2735,7 +2782,7 @@
         "A-2831.2"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2757,8 +2804,8 @@
         "A-1533.5"
       ],
       "related_nodes": [
-        "N-10334",
-        "N-10349",
+        "N-10313",
+        "N-10327",
         "N-10000"
       ],
       "tags": [
@@ -2785,8 +2832,8 @@
         "A-1533.5"
       ],
       "related_nodes": [
-        "N-10334",
-        "N-10282"
+        "N-10313",
+        "N-10265"
       ],
       "tags": [
         "relevance:context"
@@ -2808,8 +2855,8 @@
         "A-1533.5"
       ],
       "related_nodes": [
-        "N-10334",
-        "N-10377"
+        "N-10313",
+        "N-10350"
       ],
       "tags": [
         "relevance:core"
@@ -2833,8 +2880,8 @@
         "A-1533.5"
       ],
       "related_nodes": [
-        "N-10334",
-        "N-10282"
+        "N-10313",
+        "N-10265"
       ],
       "tags": [
         "relevance:core"
@@ -2859,7 +2906,7 @@
         "A-1534.1"
       ],
       "related_nodes": [
-        "N-11107"
+        "N-11025"
       ],
       "tags": [
         "relevance:core"
@@ -2883,7 +2930,7 @@
         "A-1534.1"
       ],
       "related_nodes": [
-        "N-11107"
+        "N-11025"
       ],
       "tags": [
         "relevance:core"
@@ -2932,7 +2979,7 @@
         "A-1534.1"
       ],
       "related_nodes": [
-        "N-10349"
+        "N-10327"
       ],
       "tags": [
         "relevance:context"
@@ -2973,8 +3020,8 @@
         "A-1533.2"
       ],
       "related_nodes": [
-        "N-10349",
-        "N-10334"
+        "N-10327",
+        "N-10313"
       ],
       "tags": [
         "relevance:core"
@@ -2998,7 +3045,7 @@
       "claim": "The host says letting the public see Mikey McCoy's phone records, showing whom he called that day and for how long, would not frustrate the lawyers' efforts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [
         "relevance:core"
@@ -3023,7 +3070,7 @@
       "claim": "The host says it is a statistical anomaly for Egyptian planes to be surrounding Turning Point USA faith events with Erika and Charlie this many times, and asks how explaining it would affect the court case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
+        "N-10239",
         "N-10000"
       ],
       "tags": [
@@ -3069,7 +3116,7 @@
       "claim": "The host says she thinks Tyler Robinson was involved that day and that multiple people were obviously involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10181"
+        "N-10173"
       ],
       "tags": [
         "relevance:core"
@@ -3090,7 +3137,7 @@
       "claim": "The host says she thinks Tyler Robinson took clothes and hid them in the cemetery next to the Dairy Queen.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -3114,7 +3161,7 @@
       "claim": "The host says she does not believe Tyler Robinson was on campus that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10040",
+        "N-10038",
         "N-10028"
       ],
       "tags": [
@@ -3136,7 +3183,7 @@
       "claim": "The host says there is video of the shot and asks how releasing a photo or video of him taking the shot would ruin the case or fail to support it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10165"
+        "N-10158"
       ],
       "tags": [
         "relevance:core"
@@ -3159,7 +3206,7 @@
         "A-1535.1"
       ],
       "related_nodes": [
-        "N-10336"
+        "N-10315"
       ],
       "tags": [
         "relevance:core"
@@ -3185,7 +3232,7 @@
         "A-1535.1"
       ],
       "related_nodes": [
-        "N-10336"
+        "N-10315"
       ],
       "tags": [
         "relevance:context"
@@ -3209,7 +3256,7 @@
       "claim": "The host alleges that Allie Beth Stuckey has hired a \"monster\" PR agent whom no Daily Wire host will defend, and that this agent sent someone to follow the host after she left the Daily Wire to make her look bad on camera.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10416"
+        "N-10389"
       ],
       "tags": [
         "relevance:context"
@@ -3230,7 +3277,7 @@
       "claim": "The host alleges that the same PR agent keeps files, cuts people out of context and sends the material to people like Ian Miles Cheong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10416"
+        "N-10389"
       ],
       "tags": [
         "relevance:context"
@@ -3274,8 +3321,8 @@
         "A-1537.1"
       ],
       "related_nodes": [
-        "N-10187",
-        "N-10169"
+        "N-10179",
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3299,8 +3346,8 @@
         "A-1537.1"
       ],
       "related_nodes": [
-        "N-10164",
-        "N-10350"
+        "N-10100",
+        "N-10328"
       ],
       "tags": [
         "relevance:core"
@@ -3324,7 +3371,7 @@
         "A-1537.1"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:core"
@@ -3352,7 +3399,7 @@
         "A-1537.1"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:context"
@@ -3418,7 +3465,7 @@
         "A-2833.1"
       ],
       "related_nodes": [
-        "N-11108"
+        "N-11026"
       ],
       "tags": [
         "relevance:core"
@@ -3444,7 +3491,7 @@
         "A-2833.2"
       ],
       "related_nodes": [
-        "N-11107"
+        "N-11025"
       ],
       "tags": [
         "relevance:core"
@@ -3509,7 +3556,7 @@
       "claim": "The host says commenters on yesterday's episode pointed out that suddenly after she started talking about Pierre and the billion-dollar incentive, the other side went crazy and started going Max.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10493"
+        "N-10280"
       ],
       "tags": [
         "relevance:context"
@@ -3550,8 +3597,8 @@
         "A-2833.3"
       ],
       "related_nodes": [
-        "N-10335",
-        "N-10311"
+        "N-10314",
+        "N-10293"
       ],
       "tags": [
         "relevance:core"

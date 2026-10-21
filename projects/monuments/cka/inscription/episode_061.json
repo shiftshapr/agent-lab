@@ -42,10 +42,10 @@
             "N-2",
             "N-486",
             "N-41",
-            "N-10432",
-            "N-10433",
-            "N-10435",
-            "N-10436"
+            "N-10402",
+            "N-10403",
+            "N-10390",
+            "N-10405"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -73,8 +73,8 @@
           ],
           "related_nodes": [
             "N-277",
-            "N-10432",
-            "N-10433"
+            "N-10402",
+            "N-10403"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,7 +244,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10437"
+            "N-10406"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -521,7 +521,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ]
     },
     {
@@ -541,7 +541,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ]
     },
     {
@@ -562,7 +562,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10432"
+        "N-10402"
       ]
     },
     {
@@ -580,15 +580,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10432",
-      "ref": "N-10432",
+      "@type": "Topic",
+      "@id": "N-10402",
+      "ref": "N-10402",
       "name": "TPUSA Non-Disparagement Enforcement Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent effort by Turning Point USA to invoke a 12-month post-termination non-disparagement clause to silence Owens's investigation-related commentary.",
       "related_artifacts": [
         "A-1661.1",
@@ -617,14 +617,15 @@
         "N-14",
         "N-15",
         "N-186"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10433",
-      "ref": "N-10433",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10403",
+      "ref": "N-10403",
       "name": "TPUSA Financial Impropriety Allegations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent allegation that TPUSA engaged in financial impropriety, formally cited in the cease and desist letter and attributed by host to DOGE-style scrutiny.",
       "related_artifacts": [
         "A-1661.1",
@@ -640,15 +641,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10434"
-      ]
+        "N-10404"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@type": "Topic",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host's claim that Charlie Kirk established a \"DOGE\" (Department of Government Efficiency-style entity) seven days before his death, framed as a possible motive for financial scrutiny.",
       "related_artifacts": [
         "A-1661.1"
@@ -663,21 +665,24 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10433"
-      ]
+        "N-10403"
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10435",
-      "ref": "N-10435",
-      "name": "Fort Huachuca Erika Kirk Location Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_question",
       "description": "Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a \"secret meeting\" at Fort Huachuca linked to the Kirk assassination.",
       "related_artifacts": [
         "A-1661.1"
       ],
       "related_claims": [
-        "C-5453"
+        "C-5453",
+        "C-5459",
+        "C-5461"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -687,14 +692,16 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegation cited in the TPUSA letter – that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.",
       "related_artifacts": [
         "A-1661.1"
@@ -710,14 +717,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-17"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10437",
-      "ref": "N-10437",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10406",
+      "ref": "N-10406",
       "name": "Aspen Donor Recall Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erika Kirk as someone who would \"know what to do\" if something happened.",
       "related_artifacts": [
         "A-1668.1"
@@ -733,7 +741,8 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1048,11 +1057,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; sender of the cease and desist letter and subject of the host's remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1075,14 +1084,16 @@
       "evidence_count": 0,
       "claim_count": 14,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@type": "Topic",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the DOGE claim in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1092,14 +1103,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10267",
-      "ref": "N-10267",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10251",
+      "ref": "N-10251",
       "name": "TPUSA Drone Disclosure Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the conflicting drone answers claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1109,14 +1121,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for claims about Charlie's night-before messages.",
       "related_artifacts": [],
       "related_claims": [
@@ -1127,49 +1140,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
-      "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the host's requests about Erika Kirk's whereabouts (the letter's 'Fort Huachuca' is this Fort Huachuca question).",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-5459",
-        "C-5461"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10427",
-      "ref": "N-10427",
-      "name": "TPUSA Drone Story Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the conflicting drone answers claim.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-5451"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10661",
-      "ref": "N-10661",
+      "@type": "Topic",
+      "@id": "N-10603",
+      "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic for the Lively and Baldoni litigation, reused for the Swift texts claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1184,14 +1163,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10925",
-      "ref": "N-10925",
+      "@type": "Organization",
+      "@id": "N-10846",
+      "ref": "N-10846",
       "name": "Turning Point Action",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point Action; named in the letter as an affiliate whose people are the target of the host's allegations.",
       "related_artifacts": [],
       "related_claims": [
@@ -1201,14 +1181,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11035",
-      "ref": "N-11035",
-      "name": "TPUSA Employee Purge and Leak Hunt",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-11002",
+      "ref": "N-11002",
+      "name": "TPUSA Leak Hunt and Employee Firings",
+      "type": "topic",
       "description": "Existing topic reused for the host's remarks on TPUSA firings.",
       "related_artifacts": [],
       "related_claims": [
@@ -1219,14 +1201,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11180",
-      "ref": "N-11180",
+      "@type": "Thing",
+      "@id": "N-11096",
+      "ref": "N-11096",
       "name": "TPUSA Cease and Desist Letter to Candace Owens",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for claims about the cease and desist letter and the host's response.",
       "related_artifacts": [],
       "related_claims": [
@@ -1256,7 +1240,8 @@
       "evidence_count": 0,
       "claim_count": 21,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWork"
     },
     {
       "@type": "Person",
@@ -1379,8 +1364,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11289",
-      "ref": "N-11289",
+      "@id": "N-11205",
+      "ref": "N-11205",
       "name": "Beckham Family Estrangement Dispute",
       "type": "topic",
       "description": "Brooklyn Beckham's public Instagram statement about his family and the host's account of the wedding dress, dance, seating and contract disputes.",
@@ -1410,12 +1395,13 @@
       "evidence_count": 0,
       "claim_count": 19,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11290",
-      "ref": "N-11290",
+      "@id": "N-11206",
+      "ref": "N-11206",
       "name": "Nicola Peltz Dog Grooming Lawsuit",
       "type": "topic",
       "description": "Lawsuit the host says Nicola Peltz brought against a mobile dog-grooming company after her Chihuahua died.",
@@ -1428,7 +1414,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -1442,7 +1429,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:00:05",
@@ -1461,7 +1448,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:14:10–00:15:10",
@@ -1481,7 +1468,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10435"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:13:00–00:14:10",
@@ -1501,7 +1488,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24–00:13:19",
@@ -1520,7 +1507,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10433"
+        "N-10403"
       ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:31",
@@ -1539,8 +1526,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10432",
-        "N-10433"
+        "N-10402",
+        "N-10403"
       ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:31",
@@ -1559,7 +1546,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:09:53–00:10:50",
@@ -1578,7 +1565,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:08:25–00:09:12",
@@ -1597,8 +1584,8 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-10432",
-        "N-10433"
+        "N-10402",
+        "N-10403"
       ],
       "tags": [],
       "claim_timestamp": "00:04:39",
@@ -1619,8 +1606,8 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-10432",
-        "N-10433"
+        "N-10402",
+        "N-10403"
       ],
       "tags": [],
       "claim_timestamp": "00:04:39–00:06:17",
@@ -1640,7 +1627,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17–00:07:37",
@@ -1659,7 +1646,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:10:35",
@@ -1678,7 +1665,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24–00:13:19",
@@ -1865,7 +1852,7 @@
         "A-1667.1"
       ],
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:58:55",
@@ -1884,7 +1871,7 @@
         "A-1668.1"
       ],
       "related_nodes": [
-        "N-10437"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:58:55",
@@ -1904,8 +1891,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10434",
-        "N-10132"
+        "N-10404",
+        "N-10127"
       ],
       "tags": [
         "relevance:core"
@@ -1931,8 +1918,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180",
-        "N-10432"
+        "N-11096",
+        "N-10402"
       ],
       "tags": [
         "relevance:core"
@@ -1954,8 +1941,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180",
-        "N-10432"
+        "N-11096",
+        "N-10402"
       ],
       "tags": [
         "relevance:core"
@@ -1977,7 +1964,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180"
+        "N-11096"
       ],
       "tags": [
         "relevance:core"
@@ -2001,7 +1988,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180"
+        "N-11096"
       ],
       "tags": [
         "relevance:core"
@@ -2028,8 +2015,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180",
-        "N-10432",
+        "N-11096",
+        "N-10402",
         "N-10000"
       ],
       "tags": [
@@ -2052,8 +2039,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180",
-        "N-10432",
+        "N-11096",
+        "N-10402",
         "N-10000"
       ],
       "tags": [
@@ -2076,8 +2063,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180",
-        "N-10432",
+        "N-11096",
+        "N-10402",
         "N-10000"
       ],
       "tags": [
@@ -2100,7 +2087,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180"
+        "N-11096"
       ],
       "tags": [
         "relevance:core"
@@ -2125,8 +2112,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180",
-        "N-10432"
+        "N-11096",
+        "N-10402"
       ],
       "tags": [
         "relevance:core"
@@ -2148,8 +2135,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180",
-        "N-10432"
+        "N-11096",
+        "N-10402"
       ],
       "tags": [
         "relevance:core"
@@ -2175,8 +2162,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10267",
-        "N-10427"
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -2200,7 +2186,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2224,7 +2210,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2255,7 +2241,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180"
+        "N-11096"
       ],
       "tags": [
         "relevance:core"
@@ -2281,7 +2267,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180",
+        "N-11096",
         "N-10000"
       ],
       "tags": [
@@ -2304,8 +2290,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10417",
-        "N-10435"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2328,8 +2313,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10417",
-        "N-10435"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2351,9 +2335,9 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-11180",
+        "N-11096",
         "N-10000",
-        "N-10925"
+        "N-10846"
       ],
       "tags": [
         "relevance:core"
@@ -2393,7 +2377,7 @@
       "claim": "The host says she is not saying TPUSA spends only one cent of each dollar on its stated purpose, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10433",
+        "N-10403",
         "N-10000"
       ],
       "tags": [
@@ -2415,7 +2399,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11180"
+        "N-11096"
       ],
       "tags": [
         "relevance:core"
@@ -2435,8 +2419,8 @@
       "claim": "The host says she asked her lawyer how TPUSA could use the non-disparagement clause, and that she thinks it would be fair to argue Charlie Kirk's public assassination was an unforeseeable circumstance when she signed, adding that there are strong arguments about unconscionable clauses and that it would be unconscionable for her to choose silence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11180",
-        "N-10432"
+        "N-11096",
+        "N-10402"
       ],
       "tags": [
         "relevance:context"
@@ -2457,7 +2441,7 @@
       "claim": "The host says she instructed her lawyer to go back to TPUSA and ask 'How much money do you want?' to release her from the contract.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11180",
+        "N-11096",
         "N-10000"
       ],
       "tags": [
@@ -2478,7 +2462,7 @@
       "claim": "The host says that if TPUSA names a price to release her from the contract she will start a GoFundMe and raise it overnight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11180",
+        "N-11096",
         "N-10000"
       ],
       "tags": [
@@ -2499,7 +2483,7 @@
       "claim": "The host says her book Make Him a Sandwich has a whole chapter documenting Taylor Swift's behavior and that she had predicted Swift would survive the Lively dispute.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2522,7 +2506,7 @@
         "A-1665.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2588,7 +2572,7 @@
         "A-1665.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2613,7 +2597,7 @@
         "A-1665.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2637,7 +2621,7 @@
         "A-1665.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2662,7 +2646,7 @@
         "A-1665.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2685,7 +2669,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2708,7 +2692,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2732,7 +2716,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2756,7 +2740,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2784,7 +2768,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2809,7 +2793,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2832,7 +2816,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2856,7 +2840,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2879,7 +2863,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2903,7 +2887,7 @@
         "A-1664.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2930,7 +2914,7 @@
         "A-1664.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2954,7 +2938,7 @@
         "A-1664.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -2978,7 +2962,7 @@
         "A-1664.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -3005,7 +2989,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -3029,7 +3013,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -3054,7 +3038,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -3079,7 +3063,7 @@
         "A-1663.1"
       ],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -3102,7 +3086,7 @@
         "A-3119.1"
       ],
       "related_nodes": [
-        "N-11290"
+        "N-11206"
       ],
       "tags": [
         "relevance:tangential"
@@ -3126,7 +3110,7 @@
         "A-3119.1"
       ],
       "related_nodes": [
-        "N-11290"
+        "N-11206"
       ],
       "tags": [
         "relevance:tangential"
@@ -3147,7 +3131,7 @@
       "claim": "The host says Nicola Peltz went through three different wedding contracts, one of which her father sued over, and the other side sued back.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -3230,7 +3214,7 @@
       "claim": "The host says David Beckham stood up at a dinner with no cameras and gave a toast about how much he loved and adored his family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11289"
+        "N-11205"
       ],
       "tags": [
         "relevance:tangential"
@@ -3254,7 +3238,7 @@
         "A-3120.1"
       ],
       "related_nodes": [
-        "N-11180"
+        "N-11096"
       ],
       "tags": [
         "relevance:context"
@@ -3276,8 +3260,8 @@
         "A-1667.1"
       ],
       "related_nodes": [
-        "N-11035",
-        "N-10432"
+        "N-11002",
+        "N-10402"
       ],
       "tags": [
         "relevance:core"
@@ -3299,7 +3283,7 @@
         "A-1667.1"
       ],
       "related_nodes": [
-        "N-11035"
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -3434,7 +3418,7 @@
         "A-1667.1"
       ],
       "related_nodes": [
-        "N-11180"
+        "N-11096"
       ],
       "tags": [
         "relevance:core"
@@ -3456,7 +3440,7 @@
         "A-1667.1"
       ],
       "related_nodes": [
-        "N-11180"
+        "N-11096"
       ],
       "tags": [
         "relevance:context"
@@ -3479,7 +3463,7 @@
         "A-1667.1"
       ],
       "related_nodes": [
-        "N-11180",
+        "N-11096",
         "N-10000"
       ],
       "tags": [

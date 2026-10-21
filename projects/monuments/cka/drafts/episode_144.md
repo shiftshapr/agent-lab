@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-749, N-11070, N-11073
+  - Tip-minted Nodes (supplement_2026-10): N-749, N-10988, N-10991
   - Claim Range: C-12354–C-12447
-  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-101, N-190, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-748, N-11072, N-11071
- - New Nodes Introduced: N-10810, N-10811, N-10812, N-10813
+  - Reused Nodes Appearing: N-10734, N-10736, N-10737, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-101, N-190, N-10003, N-10040, N-10048, N-10096, N-10106, N-10156, N-10236, N-10316, N-10318, N-10324, N-10354, N-10359, N-10425, N-10700, N-748, N-10990, N-10989
+ - New Nodes Introduced: N-10734, N-10735, N-10736, N-10737
  - Hole-minted Nodes (wave3): N-578
  - Reused Nodes Appearing: N-11, N-18, N-860
  - (see registers)
@@ -39,7 +39,7 @@ Episode 144 Ledger Summary:
 
 - Artifact Families Introduced: A-2301, A-2302, A-2303, A-2304, A-2305, A-2306, A-2307, A-2308, A-2309
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
-- New Nodes Introduced (investigation targets): N-10810, N-10811, N-10812, N-10813
+- New Nodes Introduced (investigation targets): N-10734, N-10735, N-10736, N-10737
 - Existing Nodes Reused: Recurring figures (Charlie Kirk, Erika Kirk, Tyler Robinson, Tyler Bowyer, Terryl Farnsworth, Philip Goldsberry, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
 
 ---
@@ -94,7 +94,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:17:30–00:18:30
 Confidence Level: Medium (identity redacted by sender)
 
-*Related: C-12381, N-10811*
+*Related: C-12381, N-10735*
 
 ---
 
@@ -107,7 +107,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:30–00:19:30
 Confidence Level: High
 
-*Related: C-12383, N-10810*
+*Related: C-12383, N-10734*
 
 **A-2304.2** Audio: Sergeant Mark Bricker (SBI) testimony stating the Utah County Attorney's Office created the 20-minute sizzle reel
 
@@ -116,7 +116,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:30–00:19:30
 Confidence Level: High
 
-*Related: C-12384, N-10810, N-10811*
+*Related: C-12384, N-10734, N-10735*
 
 ---
 
@@ -129,7 +129,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:30–00:17:30
 Confidence Level: High
 
-*Related: C-12380, C-12385, N-10811*
+*Related: C-12380, C-12385, N-10735*
 
 **A-2305.2** Video: Slow-motion replay of the modified aspect-ratio footage
 
@@ -137,7 +137,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:17:00–00:17:30
 Confidence Level: High
 
-*Related: C-12380, C-12385, N-10811*
+*Related: C-12380, C-12385, N-10735*
 
 ---
 
@@ -313,7 +313,7 @@ First named by the host at 00:18:29 in episode 144.
 
 
 
-**N-10810** SD Card Chain-of-Custody Investigation
+**N-10734** SD Card Chain-of-Custody Investigation
 
 Persistent target concerning the physical SD cards removed from Charlie Kirk's shooting scene and their disposition relative to investigators, the Utah County Attorney's Office, and SBI.
 
@@ -326,7 +326,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10811** Aspect-Ratio Modification Investigation
+**N-10735** Aspect-Ratio Modification Investigation
 
 Persistent target concerning who decreased the aspect ratio of the 20-minute sizzle reel presented at the preliminary hearing, and why.
 
@@ -339,7 +339,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10812** Terryl Farnsworth Evidence-Handling Question
+**N-10736** Terryl Farnsworth Evidence-Handling Question
 
 Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsberry in the immediate aftermath of the shooting.
 
@@ -352,7 +352,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10813** Foreign / Israeli Angle Investigation
+**N-10737** Foreign / Israeli Angle Investigation
 
 Persistent target concerning the BB Netanyahu letter, Charlie Kirk's alleged pull-back from pro-Israel stance, and Andrew Kolvet's contemporaneous briefings to Candace.
 
@@ -543,7 +543,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10043** Two-Person Theory (Maroon vs Stairs)
+**N-10040** Two-Person Theory (Maroon vs Stairs)
 
 Existing topic reused for new claims in this episode.
 
@@ -551,7 +551,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -559,7 +559,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 Existing topic reused for new claims in this episode.
 
@@ -567,7 +567,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing topic reused for new claims in this episode.
 
@@ -575,7 +575,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10162** SD Card Removal Narrative Discrepancy
+**N-10156** SD Card Removal Narrative Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -583,7 +583,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10250** Charlie Kirk Event – Maroon Shirt Individual Identification
+**N-10236** Charlie Kirk Event – Maroon Shirt Individual Identification
 
 Existing topic reused for new claims in this episode.
 
@@ -591,7 +591,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Existing topic reused for new claims in this episode.
 
@@ -599,7 +599,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -607,7 +607,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims in this episode.
 
@@ -615,7 +615,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -623,7 +623,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -631,7 +631,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Existing topic reused for new claims in this episode.
 
@@ -639,7 +639,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10774** Allan Robertson Brady List Entry / San Bernardino Transfer
+**N-10700** Allan Robertson Brady List Entry / San Bernardino Transfer
 
 Existing topic reused for new claims in this episode.
 
@@ -663,7 +663,7 @@ First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Des
 
 ---
 
-**N-11070** Terryl Selfie Video Metadata Timeline
+**N-10988** Terryl Selfie Video Metadata Timeline
 
 Node Type: Topic
 Host's use of the metadata on Terryl Farnsworth's self-recorded video to place his filming end at about 12:26 and the start of camera removal near 12:28, bearing on whether police could have instructed him.
@@ -672,7 +672,7 @@ Host's use of the metadata on Terryl Farnsworth's self-recorded video to place h
 
 ---
 
-**N-11071** Hitler Remark Clip Dispute
+**N-10989** Hitler Remark Clip Dispute
 
 Node Type: Topic
 Dispute over what the host said about nationalism and Hitler in a 2018 appearance, how Kolvet characterized it, and Andrew Wilson's on-air pushback.
@@ -681,7 +681,7 @@ Dispute over what the host said about nationalism and Hitler in a 2018 appearanc
 
 ---
 
-**N-11072** Cancelled TPUSA Event and Kanye France Trip
+**N-10990** Cancelled TPUSA Event and Kanye France Trip
 
 Node Type: Topic
 Kolvet's account that the host cancelled a TPUSA event the day before to go to France with Kanye West, and the host's account that it was the only cancellation, in late 2022, with Charlie's approval.
@@ -690,7 +690,7 @@ Kolvet's account that the host cancelled a TPUSA event the day before to go to F
 
 ---
 
-**N-11073** Kolvet Burn-Down Conversation Account
+**N-10991** Kolvet Burn-Down Conversation Account
 
 Node Type: Topic
 Competing accounts of the host's September 2025 'burn it down' remark: Kolvet's version about wrong people taking over TPUSA and the host's version about foreign involvement.
@@ -710,7 +710,7 @@ Claim: The host says the episode footage looks very much like Terryl Farnsworth 
 Anchored Artifacts: A-2301.1, A-2301.2
 Mentions: N-261, N-1
 
-Related Nodes: N-10810, N-10812
+Related Nodes: N-10734, N-10736
 
 Investigative Direction: Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.
 
@@ -725,7 +725,7 @@ Claim: The host says the episode footage shows Terryl Farnsworth displaying cont
 Anchored Artifacts: A-2301.2
 Mentions: N-261, N-1, N-685
 
-Related Nodes: N-10812
+Related Nodes: N-10736
 
 Investigative Direction: Identify and interview Philip Goldsberry regarding the content shown; obtain his contemporaneous account.
 
@@ -740,7 +740,7 @@ Claim: In a clip the host plays, Ana Kasparian says, based on preliminary-hearin
 Anchored Artifacts: A-2302.1, A-2304.1
 Mentions: N-261, N-203
 
-Related Nodes: N-10810
+Related Nodes: N-10734
 
 Investigative Direction: Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.
 
@@ -755,7 +755,7 @@ Claim: The host says lead investigator David Hull, who she says did not receive 
 Anchored Artifacts: A-2304.1
 Mentions: N-860
 
-Related Nodes: N-10810
+Related Nodes: N-10734
 
 Investigative Direction: Obtain the preliminary-hearing transcript and confirm testimony verbatim.
 
@@ -770,7 +770,7 @@ Claim: The host says a witness at the preliminary hearing testified that the Uta
 Anchored Artifacts: A-2304.2
 Mentions: N-3
 
-Related Nodes: N-10810, N-10811
+Related Nodes: N-10734, N-10735
 
 Investigative Direction: Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.
 
@@ -784,7 +784,7 @@ Claim: The host says the aspect ratio of the 20-minute sizzle reel shown at the 
 
 Anchored Artifacts: A-2305.1, A-2305.2
 
-Related Nodes: N-10811
+Related Nodes: N-10735
 
 Investigative Direction: Have a forensic video analyst compare the sizzle reel against raw UVU surveillance footage to quantify the aspect-ratio shift.
 
@@ -798,7 +798,7 @@ Claim: Per an email from an anonymous federal-court employee read on air, video 
 
 Anchored Artifacts: A-2303.1
 
-Related Nodes: N-10811
+Related Nodes: N-10735
 
 Investigative Direction: Verify the email's authenticity through metadata; corroborate with court policy documentation. Treat as anonymous-source claim pending verification.
 
@@ -813,7 +813,7 @@ Claim: The host says the prosecution (Utah County Attorney's Office) potentially
 Anchored Artifacts: A-2304.2, A-2305.1
 Mentions: 
 
-Related Nodes: N-10811
+Related Nodes: N-10735
 
 Investigative Direction: Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.
 
@@ -873,7 +873,7 @@ Claim: The host says that in phone conversations around September 12-14, 2025, A
 Anchored Artifacts: A-2308.1, A-2308.2
 Mentions: N-14, N-1, N-36, N-270, N-37
 
-Related Nodes: N-10813
+Related Nodes: N-10737
 
 Investigative Direction: Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available.
 
@@ -889,7 +889,7 @@ Transcript Snippet: on the 12th, you were the one that was telling me about the 
 
 Anchored Artifacts: A-2308.1, A-2308.2
 Mentions: N-37, N-14
-Related Nodes: N-10813
+Related Nodes: N-10737
 Revises: C-12428
 Confidence: medium
 Investigative Direction: Read with C-12428; match the text-message exports under the corrected spelling Bill Ackman.
@@ -905,7 +905,7 @@ Claim: The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA
 Anchored Artifacts: A-2308.1, A-2308.2
 Mentions: N-2, N-14
 
-Related Nodes: N-10813
+Related Nodes: N-10737
 
 Investigative Direction: Cross-reference with TPUSA corporate filings, board minutes, and Erika Kirk's public statements around the leadership transition.
 
@@ -949,7 +949,7 @@ Transcript Snippet: we were told by Andrew Kolvet that he was worried about peop
 
 Anchored Artifacts: 
 Mentions: N-14, N-261, N-3
-Related Nodes: N-10346
+Related Nodes: N-10324
 Supports: C-12228
 Investigative Direction: Obtain Kolvet's original on-air statement about hats and compare it with Farnsworth's own explanation to the host.
 
@@ -965,7 +965,7 @@ Transcript Snippet: yesterday I joined Ana Kasparian on her program uh for an in
 
 Anchored Artifacts: A-2302.1
 Mentions: N-3, N-203
-Related Nodes: N-10810
+Related Nodes: N-10734
 Investigative Direction: Locate the Kasparian interview upload and confirm its date and the question asked.
 
 ---
@@ -980,7 +980,7 @@ Transcript Snippet: altering, destroying, concealing, or removing a thing or ite
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10810
+Related Nodes: N-10734
 Investigative Direction: Check the quoted wording against the current Utah evidence-tampering statute and its felony grading.
 
 ---
@@ -995,7 +995,7 @@ Transcript Snippet: We're doing what Erika's prosecution did um her prosecution 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10337
+Related Nodes: N-10316
 Investigative Direction: Review the preliminary hearing transcript for how the prosecution described video evidence.
 
 ---
@@ -1010,7 +1010,7 @@ Transcript Snippet: What is not in dispute is that Terryl did in fact remove a p
 
 Anchored Artifacts: 
 Mentions: N-261, N-3
-Related Nodes: N-10100
+Related Nodes: N-10096
 Investigative Direction: Confirm against the host's earlier footage and any statement by Farnsworth or investigators.
 
 ---
@@ -1025,7 +1025,7 @@ Transcript Snippet: What we can say for certain is that he had zoomed in by the 
 
 Anchored Artifacts: 
 Mentions: N-261, N-3
-Related Nodes: N-10810
+Related Nodes: N-10734
 Supports: C-12223
 Investigative Direction: Obtain the original back-camera file with metadata and compare it with the version the host received.
 
@@ -1041,7 +1041,7 @@ Transcript Snippet: who were on the scene, who arrived on the scene around 1:30,
 
 Anchored Artifacts: A-2304.1
 Mentions: N-860, N-3
-Related Nodes: N-10810
+Related Nodes: N-10734
 Investigative Direction: Check the preliminary hearing transcript for Hull's stated arrival time.
 
 ---
@@ -1056,7 +1056,7 @@ Transcript Snippet: he declared, you'll recall in a selfie video, that Charlie w
 
 Anchored Artifacts: 
 Mentions: N-261, N-1, N-3
-Related Nodes: N-10346
+Related Nodes: N-10324
 Supports: C-10038
 Investigative Direction: Review the selfie video and its metadata for the time and wording of the declaration.
 
@@ -1072,7 +1072,7 @@ Transcript Snippet: Terl was filming himself until just after 12:26. So Charlie 
 
 Anchored Artifacts: A-2797.1
 Mentions: N-261, N-1, N-3
-Related Nodes: N-11070
+Related Nodes: N-10988
 Investigative Direction: Obtain the original file Farnsworth sent the host and verify embedded creation and end times.
 
 ---
@@ -1087,7 +1087,7 @@ Transcript Snippet: It's around almost precisely 12:28 that he begins taking the
 
 Anchored Artifacts: A-2797.1
 Mentions: N-261, N-3
-Related Nodes: N-11070
+Related Nodes: N-10988
 Investigative Direction: Frame-date the footage of the camera removal against the corroborated shooting time.
 
 ---
@@ -1102,7 +1102,7 @@ Transcript Snippet: it's hardly possible that law enforcement officers on the sc
 
 Anchored Artifacts: A-2797.1
 Mentions: N-261, N-3
-Related Nodes: N-11070, N-10162
+Related Nodes: N-10988, N-10156
 Contradicts: C-1363
 Investigative Direction: Ask investigators whether any officer instructed Farnsworth, and obtain body-camera logs from the first minutes.
 
@@ -1118,7 +1118,7 @@ Transcript Snippet: Allan Robertson, we determined, was just visiting from Utah 
 
 Anchored Artifacts: 
 Mentions: N-748, N-261, N-3
-Related Nodes: N-10774
+Related Nodes: N-10700
 Supports: C-11702
 Investigative Direction: Confirm Robertson's role and location from USU police records and the host's earlier reporting.
 
@@ -1134,7 +1134,7 @@ Transcript Snippet: And I was told, and I will say allegedly here, that actually
 
 Anchored Artifacts: 
 Mentions: N-261, N-3
-Related Nodes: N-10162
+Related Nodes: N-10156
 Contradicts: C-9996
 Investigative Direction: Identify the host's source and any witness who gave Farnsworth that instruction.
 
@@ -1150,7 +1150,7 @@ Transcript Snippet: this narrative uh of the police told him to do that. Terryl 
 
 Anchored Artifacts: 
 Mentions: N-261, N-11, N-3
-Related Nodes: N-10162
+Related Nodes: N-10156
 Supports: C-9991
 Investigative Direction: Compare Bowyer's public statements with Farnsworth's account to the host.
 
@@ -1166,7 +1166,7 @@ Transcript Snippet: I'm just asserting that factually the only person that he me
 
 Anchored Artifacts: 
 Mentions: N-261, N-2, N-3
-Related Nodes: N-10346
+Related Nodes: N-10324
 Supports: C-9991
 Investigative Direction: Ask Farnsworth and Erika Kirk about the timing and content of that conversation.
 
@@ -1182,7 +1182,7 @@ Transcript Snippet: he did not want Erika to have to see Charlie die in 4K.
 
 Anchored Artifacts: 
 Mentions: N-261, N-2, N-1, N-3
-Related Nodes: N-10346
+Related Nodes: N-10324
 Investigative Direction: Obtain Farnsworth's own statement of motive and compare it with the police-instruction and hat explanations.
 
 ---
@@ -1197,7 +1197,7 @@ Transcript Snippet: You had Tyler saying the police said it. You had Terryl sayi
 
 Anchored Artifacts: 
 Mentions: N-11, N-261, N-2, N-14, N-3
-Related Nodes: N-10162, N-10346
+Related Nodes: N-10156, N-10324
 Investigative Direction: Collect each explanation with date and venue and ask TPUSA to reconcile them.
 
 ---
@@ -1212,7 +1212,7 @@ Transcript Snippet: this guy looks to be wider, a lot wider than Tyler Robinson.
 
 Anchored Artifacts: A-2798.1
 Mentions: N-40, N-3
-Related Nodes: N-10250, N-10811
+Related Nodes: N-10236, N-10735
 Investigative Direction: Measure the figure's proportions in unaltered footage against Robinson's known dimensions.
 
 ---
@@ -1227,7 +1227,7 @@ Transcript Snippet: the correct way to describe this what was done to the footag
 
 Anchored Artifacts: A-2798.2
 Mentions: N-3
-Related Nodes: N-10811
+Related Nodes: N-10735
 Investigative Direction: Identify the emailer's expertise and check the description against the exhibit file properties.
 
 ---
@@ -1242,7 +1242,7 @@ Transcript Snippet: The footage that you saw in court that I saw in court was in
 
 Anchored Artifacts: A-2305.1
 Mentions: N-3
-Related Nodes: N-10811
+Related Nodes: N-10735
 Supports: C-12380
 Investigative Direction: Seek the court exhibit original and ask the source on record, or a second source, to confirm.
 
@@ -1258,7 +1258,7 @@ Transcript Snippet: I go online and I have that unhinged Canadian lawyer claimin
 
 Anchored Artifacts: A-2305.1, A-2305.2
 Mentions: N-3
-Related Nodes: N-10811
+Related Nodes: N-10735
 Investigative Direction: Identify the lawyer's posts and compare the host's slowed and normal-speed footage with the court exhibit.
 
 ---
@@ -1273,7 +1273,7 @@ Transcript Snippet: Sergeant Mark Bricker of the SBI was put in charge of gather
 
 Anchored Artifacts: A-2304.1
 Mentions: N-860, N-578, N-3
-Related Nodes: N-10810, N-10811
+Related Nodes: N-10734, N-10735
 Investigative Direction: Obtain the preliminary hearing transcript for Hull's chain-of-custody testimony on surveillance collection.
 
 ---
@@ -1288,7 +1288,7 @@ Transcript Snippet: I got hundreds of DMs, for instance, from people who didn't 
 
 Anchored Artifacts: A-2799.1
 Mentions: N-18, N-14, N-159
-Related Nodes: N-10381
+Related Nodes: N-10354
 Contradicts: C-4521
 Investigative Direction: Establish what evidence Wilson relies on for calling the receipt fraudulent.
 
@@ -1304,7 +1304,7 @@ Transcript Snippet: If they had exculpatory evidence, whether it's the parents t
 
 Anchored Artifacts: A-2799.1
 Mentions: N-749, N-14
-Related Nodes: N-10381
+Related Nodes: N-10354
 Investigative Direction: Ask Birkhart on record and compare with the defense's stated reasons for not presenting evidence at the hearing.
 
 ---
@@ -1319,7 +1319,7 @@ Transcript Snippet: The FBI is aware of this. The FBI took a statement from the 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Investigative Direction: Request confirmation from the FBI or the owner that a statement was taken, and when.
 
 ---
@@ -1334,7 +1334,7 @@ Transcript Snippet: I know that this completely blows up everything and that's w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Investigative Direction: Obtain the owner's own on-record account of the call with the host and the receipt.
 
 ---
@@ -1349,7 +1349,7 @@ Transcript Snippet: Uh the server has been has given an interview. There is a re
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Investigative Direction: Locate the server's interview and obtain the receipt record from the restaurant.
 
 ---
@@ -1364,7 +1364,7 @@ Transcript Snippet: back during the one in April, they kept saying that they did
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Investigative Direction: Check April hearing records for the defense's discovery complaints and extension request.
 
 ---
@@ -1379,7 +1379,7 @@ Transcript Snippet: Podcasters who were investigating stumbled upon this and lik
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Investigative Direction: Identify the podcasters and the FBI report or contact record.
 
 ---
@@ -1394,7 +1394,7 @@ Transcript Snippet: We can verify that the owner pulled the receipt. We can veri
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Supports: C-4521
 Investigative Direction: Obtain the receipt and card-issuer record under legal process, and confirm the cardholder.
 
@@ -1410,7 +1410,7 @@ Transcript Snippet: Then she had that event where she basically said Hitler was 
 
 Anchored Artifacts: A-2306.2
 Mentions: N-14, N-3
-Related Nodes: N-11071
+Related Nodes: N-10989
 Investigative Direction: Compare Kolvet's paraphrase with the full unedited clip and its context.
 
 ---
@@ -1453,7 +1453,7 @@ Transcript Snippet: I said well it's not attributable to Adolf Hitler because Ad
 
 Anchored Artifacts: A-2306.2
 Mentions: N-3
-Related Nodes: N-11071
+Related Nodes: N-10989
 Contradicts: C-12396
 Investigative Direction: Compare the host's full answer on the original clip with Kolvet's paraphrase.
 
@@ -1469,7 +1469,7 @@ Transcript Snippet: I was with Charlie and journalists were in the room and nobo
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11071
+Related Nodes: N-10989
 Investigative Direction: Find the 2018 event recording and the BuzzFeed article that used the clip.
 
 ---
@@ -1650,7 +1650,7 @@ Transcript Snippet: she canled an event with us and our event team still tells t
 
 Anchored Artifacts: A-2800.1
 Mentions: N-14, N-3, N-27
-Related Nodes: N-11072
+Related Nodes: N-10990
 Investigative Direction: Find the event listing and the replacement speaker announcement.
 
 ---
@@ -1665,7 +1665,7 @@ Transcript Snippet: That is the only time that I canled an event with Turning Po
 
 Anchored Artifacts: A-2800.1
 Mentions: N-3
-Related Nodes: N-11072
+Related Nodes: N-10990
 Supports: C-12413
 Investigative Direction: Confirm the event date and cancellation against TPUSA scheduling.
 
@@ -1681,7 +1681,7 @@ Transcript Snippet: Everyone remembers the moment that I went to France and I wo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11072
+Related Nodes: N-10990
 Investigative Direction: Match photos of the trip with the date of the TPUSA event she cancelled.
 
 ---
@@ -1710,7 +1710,7 @@ Transcript Snippet: Of course, you have to go. Please just get me a substitute f
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11072
+Related Nodes: N-10990
 Investigative Direction: Seek the host's call or text log with Charlie from that day.
 
 ---
@@ -1725,7 +1725,7 @@ Transcript Snippet: I then called Michael Knowles and asked him if he would sub 
 
 Anchored Artifacts: 
 Mentions: N-101, N-3
-Related Nodes: N-11072
+Related Nodes: N-10990
 Investigative Direction: Confirm Knowles spoke at the event in her place.
 
 ---
@@ -1740,7 +1740,7 @@ Transcript Snippet: if the wrong people take over the organization and she said 
 
 Anchored Artifacts: A-2306.4
 Mentions: N-14, N-3
-Related Nodes: N-11073
+Related Nodes: N-10991
 Investigative Direction: Compare with the host's contemporaneous messages and her account of that conversation.
 
 ---
@@ -1769,7 +1769,7 @@ Transcript Snippet: And I just thought she meant if the Jews take over or someth
 
 Anchored Artifacts: A-2306.4
 Mentions: N-14, N-159, N-97, N-3
-Related Nodes: N-11073
+Related Nodes: N-10991
 Investigative Direction: Ask Kolvet to specify whom he meant and what she said.
 
 ---
@@ -1784,7 +1784,7 @@ Transcript Snippet: I said I think people that all think that Ben Shapiro becaus
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10386
+Related Nodes: N-10359
 Investigative Direction: Locate the host's early episode where she said this.
 
 ---
@@ -1799,7 +1799,7 @@ Transcript Snippet: I was speaking to Andrew Kolvet on the phone every single da
 
 Anchored Artifacts: A-2308.1
 Mentions: N-14, N-3, N-1
-Related Nodes: N-10813
+Related Nodes: N-10737
 Investigative Direction: Review the call log and text exports for daily contact in September 2025.
 
 ---
@@ -1814,7 +1814,7 @@ Transcript Snippet: September 14th, 2025 was when you and I spoke for 17 minutes
 
 Anchored Artifacts: A-2308.2
 Mentions: N-14, N-3
-Related Nodes: N-10813
+Related Nodes: N-10737
 Investigative Direction: Verify the call log entry date, duration and number.
 
 ---
@@ -1829,7 +1829,7 @@ Transcript Snippet: telling me that Mikey McCoy had this letter on Charlie's lap
 
 Anchored Artifacts: A-2308.1
 Mentions: N-190, N-14, N-1, N-36, N-3
-Related Nodes: N-10813
+Related Nodes: N-10737
 Supports: C-9516, C-9591
 Investigative Direction: Authenticate the September 2025 messages and ask Kolvet and McCoy about the letter.
 
@@ -1845,7 +1845,7 @@ Transcript Snippet: You were the one that told me about the text messages. Notic
 
 Anchored Artifacts: A-2308.1
 Mentions: N-14, N-270, N-1, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-9513
 Investigative Direction: Preserve the Kolvet and Flood message threads from September 9-10, 2025.
 
@@ -1861,7 +1861,7 @@ Transcript Snippet: In fact, I specifically asked you who is they and you said I
 
 Anchored Artifacts: A-2308.1
 Mentions: N-14, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Investigative Direction: Locate the exchange in the texts or call notes.
 
 ---
@@ -1876,7 +1876,7 @@ Transcript Snippet: how Charlie declined to have BB Netanyahu on his show and he
 
 Anchored Artifacts: A-2308.1
 Mentions: N-1, N-36, N-14, N-3
-Related Nodes: N-10456, N-10813
+Related Nodes: N-10425, N-10737
 Supports: C-10760
 Investigative Direction: Ask Kolvet to confirm the show-refusal account and obtain the booking correspondence.
 
@@ -1892,7 +1892,7 @@ Transcript Snippet: I said, who did this? this was a government hit. We need ans
 
 Anchored Artifacts: A-2308.1
 Mentions: N-3, N-14
-Related Nodes: N-10813
+Related Nodes: N-10737
 Investigative Direction: Authenticate the displayed September 11 text exchange.
 
 ---
@@ -1907,7 +1907,7 @@ Transcript Snippet: BB's lying about the contents of a letter that Charlie wrote
 
 Anchored Artifacts: A-2308.1
 Mentions: N-36, N-14, N-1, N-3
-Related Nodes: N-10813
+Related Nodes: N-10737
 Investigative Direction: Authenticate the text and obtain the letter Netanyahu held up.
 
 ---
@@ -1922,7 +1922,7 @@ Transcript Snippet: if this is true and there is foreign involvement, like we wi
 
 Anchored Artifacts: A-2308.1
 Mentions: N-3, N-14
-Related Nodes: N-11073, N-10813
+Related Nodes: N-10991, N-10737
 Qualifies: C-12419
 Investigative Direction: Compare with the host's contemporaneous texts and Kolvet's recollection.
 
@@ -1938,7 +1938,7 @@ Transcript Snippet: And what I said to him was, "Thank God." So, he left that ou
 
 Anchored Artifacts: A-2308.1
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10813
+Related Nodes: N-10737
 Investigative Direction: Authenticate her reply in the message thread or call context.
 
 ---
@@ -1953,7 +1953,7 @@ Transcript Snippet: as the person who was my number one source on all of this in
 
 Anchored Artifacts: A-2308.1
 Mentions: N-14, N-3
-Related Nodes: N-10813
+Related Nodes: N-10737
 Investigative Direction: Corroborate with message and call records.
 
 ---
@@ -1982,7 +1982,7 @@ Transcript Snippet: basically saying to Andrew like use me as your dragon becaus
 
 Anchored Artifacts: A-2308.1
 Mentions: N-3, N-14, N-1
-Related Nodes: N-11073
+Related Nodes: N-10991
 Investigative Direction: Find the corresponding messages from September 2025.
 
 ---
@@ -1997,7 +1997,7 @@ Transcript Snippet: And then I thought everything was great because Erika took o
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-11073
+Related Nodes: N-10991
 Revises: C-12434
 Investigative Direction: Compare with the host's earlier statements welcoming Erika's leadership.
 
@@ -2013,7 +2013,7 @@ Transcript Snippet: we were the ones that obviously revealed the Dairy Queen pho
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10051
+Related Nodes: N-10048
 Supports: C-403
 Investigative Direction: Verify the photo's timestamp and origin.
 
@@ -2029,7 +2029,7 @@ Transcript Snippet: I told you that the story that I got was that he was dumping
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Investigative Direction: Identify the cemetery and any evidence logs listing recovered clothing.
 
 ---
@@ -2044,7 +2044,7 @@ Transcript Snippet: open to thinking that there are multiple people that are wea
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10043
+Related Nodes: N-10040
 Investigative Direction: Match each maroon-shirted figure in the footage to a person.
 
 ---
@@ -2059,7 +2059,7 @@ Transcript Snippet: I am at 0% that Tyler Robinson shot and killed Charlie Kirk 
 
 Anchored Artifacts: 
 Mentions: N-40, N-1, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Investigative Direction: Compare with the prosecution's evidence of the shot and the host's alternative theory.
 
 ---
@@ -2074,7 +2074,7 @@ Transcript Snippet: I don't even know if a shot was fired. I don't even believe 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10110
+Related Nodes: N-10106
 Investigative Direction: Contrast with the autopsy, ballistics and eyewitness evidence.
 
 ---
@@ -2089,7 +2089,7 @@ Transcript Snippet: but not to believe Lance when he says that he was not politi
 
 Anchored Artifacts: A-2309.1
 Mentions: N-54, N-40, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Investigative Direction: Locate Lance Twiggs's statement and compare it with the released messages.
 
 ---
@@ -2337,8 +2337,8 @@ Confidence: high
 ## VII. Optional Flags
 
 - **Name uncertainty:** "Terryl Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsberry" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Allan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
-- **Wave 1 reconciliation:** Terryl Farnsworth is N-261, Andrew Kolvet is N-14, Blake Neff is N-159, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsberry and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
-- **Likely-existing investigation targets flagged:** N-10810 (SD card chain of custody), N-10811 (aspect ratio modification), N-10812 (Terryl handling), N-10813 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
+- **Wave 1 reconciliation:** Terryl Farnsworth is N-261, Andrew Kolvet is N-14, Blake Neff is N-159, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsberry and David Hull have no CKA person node. The topic ids N-10136.. never denoted these people and claim references were retargeted.
+- **Likely-existing investigation targets flagged:** N-10734 (SD card chain of custody), N-10735 (aspect ratio modification), N-10736 (Terryl handling), N-10737 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-12381 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.
 - **Host inference flagged:** Candace's reading of A-2301.1 and A-2301.2 (that Terryl "inserts an SD card" and "zoomed in") is a host interpretation of footage, not a transcription of on-screen text. Inscribed as a host interpretation claim anchored to the footage artifacts rather than as an established fact.
@@ -2354,8 +2354,8 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-10141+ for new)
-- [x] Non-person investigation targets use the 1000 series (N-10810+ for new)
+- [x] People nodes use the global people ledger (N-10136+ for new)
+- [x] Non-person investigation targets use the 1000 series (N-10734+ for new)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved as appearing (with uncertainty flags where variant spellings occur)
 - [x] Formatting consistent across registers

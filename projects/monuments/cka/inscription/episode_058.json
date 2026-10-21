@@ -37,8 +37,8 @@
             "N-464",
             "N-465",
             "N-466",
-            "N-10417",
-            "N-10418"
+            "N-10390",
+            "N-10391"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,7 +59,7 @@
           ],
           "related_nodes": [
             "N-459",
-            "N-10418"
+            "N-10391"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,7 +78,7 @@
           ],
           "related_nodes": [
             "N-459",
-            "N-10418"
+            "N-10391"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,7 +105,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10419"
+            "N-10392"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,7 +132,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10419"
+            "N-10392"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,7 +160,7 @@
           "related_nodes": [
             "N-460",
             "N-461",
-            "N-10421"
+            "N-10394"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -180,7 +180,7 @@
           "related_nodes": [
             "N-2",
             "N-460",
-            "N-10421"
+            "N-10394"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -199,7 +199,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10421"
+            "N-10394"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -226,7 +226,7 @@
           ],
           "related_nodes": [
             "N-460",
-            "N-10423"
+            "N-10396"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -254,7 +254,7 @@
           ],
           "related_nodes": [
             "N-460",
-            "N-10420"
+            "N-10393"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -281,7 +281,7 @@
           ],
           "related_nodes": [
             "N-201",
-            "N-10424"
+            "N-10397"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,7 +300,7 @@
           ],
           "related_nodes": [
             "N-201",
-            "N-10424"
+            "N-10397"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -327,7 +327,7 @@
           ],
           "related_nodes": [
             "N-469",
-            "N-10422"
+            "N-10395"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,7 +344,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-467",
-            "N-10422"
+            "N-10395"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -547,7 +547,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ]
     },
     {
@@ -576,9 +576,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-461",
-        "N-10420",
-        "N-10421",
-        "N-10423"
+        "N-10393",
+        "N-10394",
+        "N-10396"
       ]
     },
     {
@@ -601,7 +601,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-460",
-        "N-10421"
+        "N-10394"
       ]
     },
     {
@@ -627,7 +627,7 @@
       "related_nodes": [
         "N-220",
         "N-468",
-        "N-10424"
+        "N-10397"
       ]
     },
     {
@@ -649,8 +649,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10417",
-        "N-10418"
+        "N-10390",
+        "N-10391"
       ]
     },
     {
@@ -672,8 +672,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10417",
-        "N-10418"
+        "N-10390",
+        "N-10391"
       ]
     },
     {
@@ -695,7 +695,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ]
     },
     {
@@ -717,7 +717,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ]
     },
     {
@@ -739,7 +739,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ]
     },
     {
@@ -759,7 +759,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ]
     },
     {
@@ -780,7 +780,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-201",
-        "N-10424"
+        "N-10397"
       ]
     },
     {
@@ -801,7 +801,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-201",
-        "N-10424"
+        "N-10397"
       ]
     },
     {
@@ -820,7 +820,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-201",
-        "N-10424"
+        "N-10397"
       ]
     },
     {
@@ -842,7 +842,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ]
     },
     {
@@ -864,7 +864,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ]
     },
     {
@@ -888,16 +888,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10420",
-        "N-10421"
+        "N-10393",
+        "N-10394"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation into whether Erika was present at Fort Huachuca on or around September 9 (the day before Charlie's assassination) and her broader familiarity with the base.",
       "related_artifacts": [
         "A-1635.1",
@@ -905,7 +905,15 @@
       ],
       "related_claims": [
         "C-5147",
-        "C-5164"
+        "C-5164",
+        "C-5142",
+        "C-5144",
+        "C-5146",
+        "C-5148",
+        "C-5158",
+        "C-5163",
+        "C-5169",
+        "C-5240"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -917,14 +925,16 @@
         "N-459",
         "N-462",
         "N-463"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10418",
-      "ref": "N-10418",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10391",
+      "ref": "N-10391",
       "name": "November Renaissance Film Production Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation into the unreleased short film *November Renaissance*, its Fort Huapuca-affiliated cast and crew, its plot content (nanotechnology, corporate proxies), and Erika's reported role as \"Evelyn Mathis.\"",
       "related_artifacts": [
         "A-1635.1",
@@ -948,14 +958,16 @@
         "N-464",
         "N-465",
         "N-466"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10390"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10419",
-      "ref": "N-10419",
-      "name": "Erika China Residence Discrepancy",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10392",
+      "ref": "N-10392",
+      "name": "Erika Kirk China Timeline Discrepancy",
+      "type": "investigation_question",
       "description": "Contradiction between Erika's on-air statement that she \"lived in China\" working with child sex-trafficking victims and Turning Point executive Justin Streiff's statement that she never lived there.",
       "related_artifacts": [
         "A-1636.1",
@@ -963,7 +975,8 @@
       ],
       "related_claims": [
         "C-5178",
-        "C-5180"
+        "C-5180",
+        "C-5179"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -972,14 +985,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10420",
-      "ref": "N-10420",
+      "@type": "Topic",
+      "@id": "N-10393",
+      "ref": "N-10393",
       "name": "Courage House Nevada Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation into the 40-acre Washoe County psychiatric residential treatment facility for child sex-trafficking survivors, its confidential location, capacity for 18 children, and Nelda Buckman's reported role as largest donor.",
       "related_artifacts": [
         "A-1640.1"
@@ -996,14 +1010,15 @@
       "related_nodes": [
         "N-460",
         "N-263"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10421",
-      "ref": "N-10421",
+      "@type": "Topic",
+      "@id": "N-10394",
+      "ref": "N-10394",
       "name": "Buckman–TPUSA Donor Relationship Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation into the $10 million Buckman gift, Florida campus renaming, plane access, and Nelda Buckman's described post-assassination closeness with Erika.",
       "related_artifacts": [
         "A-1638.1",
@@ -1025,14 +1040,15 @@
         "N-461",
         "N-330",
         "N-263"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10422",
-      "ref": "N-10422",
+      "@type": "Topic",
+      "@id": "N-10395",
+      "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation into gifted-and-talented / \"Extraordinary Learners\" programs, DoD-connected youth programs (Aspen Education Group schools), and reported memory blackout / surveillance phenomena among self-identified alumni.",
       "related_artifacts": [
         "A-1642.1",
@@ -1049,14 +1065,15 @@
       "related_nodes": [
         "N-467",
         "N-469"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10423",
-      "ref": "N-10423",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10396",
+      "ref": "N-10396",
       "name": "Identity Crisis Documentary Production Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation into the 2024 *Identity Crisis* documentary, its Daily Wire / Turning Point USA co-production, and Nelda Buckman's role as executive producer.",
       "related_artifacts": [
         "A-1639.1"
@@ -1071,14 +1088,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-460"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10424",
-      "ref": "N-10424",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10397",
+      "ref": "N-10397",
       "name": "Nick Fuentes Federal Informant Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent host allegation that Nick Fuentes operates as a federal informant, with new artifact support in this episode (audio clips re: Epstein / pedophilia framing).",
       "related_artifacts": [
         "A-1641.1",
@@ -1101,7 +1119,8 @@
         "N-220",
         "N-468",
         "N-145"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1282,30 +1301,6 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10472",
-      "ref": "N-10472",
-      "name": "Fort Huachuca Alibi Investigation",
-      "type": "investigation_target",
-      "description": "Persistent investigation into Erika's claimed Fort Huachuca alibi.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-5142",
-        "C-5144",
-        "C-5146",
-        "C-5148",
-        "C-5158",
-        "C-5163",
-        "C-5169",
-        "C-5240"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 8,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
       "@type": "Person",
       "@id": "N-361",
       "ref": "N-361",
@@ -1325,11 +1320,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; focus of the host's chart and the Montgomery and Vallely claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1343,14 +1338,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10368",
-      "ref": "N-10368",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10343",
+      "ref": "N-10343",
       "name": "Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegations about Fort Huachuca covert-operations classes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1360,14 +1357,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question about Christian Zionist infiltration of TPUSA Faith.",
       "related_artifacts": [],
       "related_claims": [
@@ -1377,7 +1376,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1401,11 +1401,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10380",
-      "ref": "N-10380",
-      "name": "Erika Kirk September 8 Alibi",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10353",
+      "ref": "N-10353",
+      "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
+      "type": "investigation_question",
       "description": "Erika's September 8 alibi topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1415,14 +1415,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10390"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10365",
-      "ref": "N-10365",
-      "name": "Sept 9 Fort Huachuca Meeting Question",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10305",
+      "ref": "N-10305",
+      "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
+      "type": "investigation_question",
       "description": "Question of what happened at Fort Huachuca on September 9.",
       "related_artifacts": [],
       "related_claims": [
@@ -1433,41 +1435,29 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Mitch Snow's Fort Huachuca eyewitness encounter.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5166"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10375",
-      "ref": "N-10375",
-      "name": "Fort Huachuca Sighting Verification",
-      "type": "investigation_target",
-      "description": "Fort Huachuca sighting verification topic.",
-      "related_artifacts": [],
-      "related_claims": [
+        "C-5166",
         "C-5168"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
       "@type": "Person",
@@ -1487,11 +1477,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11104",
-      "ref": "N-11104",
+      "@type": "Organization",
+      "@id": "N-11022",
+      "ref": "N-11022",
       "name": "Liberty University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Liberty University; a strand on the host's chart.",
       "related_artifacts": [],
       "related_claims": [
@@ -1501,14 +1491,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@type": "Topic",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Romania and Eastern Europe trafficking cluster.",
       "related_artifacts": [],
       "related_claims": [
@@ -1519,14 +1511,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Decoy boy operation analysis.",
       "related_artifacts": [],
       "related_claims": [
@@ -1536,7 +1529,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1573,11 +1567,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@type": "Topic",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Harvest Christian Fellowship Romanian abuse lawsuit cluster.",
       "related_artifacts": [],
       "related_claims": [
@@ -1587,7 +1581,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
       "@type": "Person",
@@ -1643,11 +1639,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11167",
-      "ref": "N-11167",
+      "@type": "Organization",
+      "@id": "N-11083",
+      "ref": "N-11083",
       "name": "Operation Underground Railroad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Operation Underground; discussed in the host's recap.",
       "related_artifacts": [],
       "related_claims": [
@@ -1659,14 +1655,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10144",
-      "ref": "N-10144",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10139",
+      "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Phil Lyman proximity investigation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1676,7 +1674,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1714,11 +1713,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11166",
-      "ref": "N-11166",
+      "@type": "Organization",
+      "@id": "N-11082",
+      "ref": "N-11082",
       "name": "Everyday Heroes Foundation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Everyday Heroes Foundation, which Erika says she founded.",
       "related_artifacts": [],
       "related_claims": [
@@ -1728,31 +1727,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10428",
-      "ref": "N-10428",
-      "name": "Erika Kirk China Timeline Discrepancy",
-      "type": "investigation_target",
-      "description": "Erika's China timeline discrepancy topic.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-5179"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Wire; source of the Buckman interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1762,7 +1746,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -1788,11 +1774,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "AmFest speaker removal pattern.",
       "related_artifacts": [],
       "related_claims": [
@@ -1805,14 +1791,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10386",
-      "ref": "N-10386",
+      "@type": "Topic",
+      "@id": "N-10359",
+      "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Ben Shapiro hostile takeover pattern.",
       "related_artifacts": [],
       "related_claims": [
@@ -1822,7 +1809,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1842,11 +1830,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10001",
       "ref": "N-10001",
       "name": "MK Ultra",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "MK Ultra, cited by the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1856,14 +1844,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11126",
-      "ref": "N-11126",
+      "@type": "Event",
+      "@id": "N-11044",
+      "ref": "N-11044",
       "name": "Operation Paperclip",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Operation Paperclip, cited by the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1873,7 +1862,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -1895,11 +1886,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University.",
       "related_artifacts": [],
       "related_claims": [
@@ -1911,14 +1902,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Utah Valley University campus.",
       "related_artifacts": [],
       "related_claims": [
@@ -1928,7 +1921,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
       "@type": "Person",
@@ -1948,11 +1943,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Epstein as Israeli intelligence asset allegation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1963,7 +1958,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -2000,11 +1996,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10413",
-      "ref": "N-10413",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10386",
+      "ref": "N-10386",
       "name": "Project Looking Glass Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Project Looking Glass allegation.",
       "related_artifacts": [],
       "related_claims": [
@@ -2014,7 +2010,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -2086,8 +2083,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11237",
-      "ref": "N-11237",
+      "@id": "N-11153",
+      "ref": "N-11153",
       "name": "Dillon Aerospace",
       "type": "organization",
       "description": "Defense contracting firm the host says employs Clayton Haugen in marketing.",
@@ -2099,12 +2096,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11238",
-      "ref": "N-11238",
+      "@id": "N-11154",
+      "ref": "N-11154",
       "name": "Temple of Set",
       "type": "organization",
       "description": "Occult organization the host says was founded by the avowed Satanist who co-wrote a book with Paul Vallely.",
@@ -2117,12 +2116,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11239",
-      "ref": "N-11239",
+      "@id": "N-11155",
+      "ref": "N-11155",
       "name": "National Angels",
       "type": "organization",
       "description": "Foster-care nonprofit with regional chapters, including Austin Angels and New Jersey Angels, that the host says Nelda Buckman works with.",
@@ -2134,12 +2135,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11240",
-      "ref": "N-11240",
+      "@id": "N-11156",
+      "ref": "N-11156",
       "name": "Courage Worldwide",
       "type": "organization",
       "description": "Nonprofit behind Courage House Nevada, whose founder the host quotes about the site being hard to leave.",
@@ -2152,12 +2155,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11241",
-      "ref": "N-11241",
+      "@id": "N-11157",
+      "ref": "N-11157",
       "name": "King Low Heywood Thomas School",
       "type": "organization",
       "description": "Private school the host says offered her an all-expenses place after a gifted program test.",
@@ -2169,12 +2174,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "School",
+      "wikidata_class": "Q3914"
     },
     {
       "@type": "Place",
-      "@id": "N-11242",
-      "ref": "N-11242",
+      "@id": "N-11158",
+      "ref": "N-11158",
       "name": "Greenland Underground Military Base",
       "type": "place",
       "description": "Cold War underground base in Greenland the host says was built to launch missiles.",
@@ -2186,7 +2193,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q245016"
     }
   ],
   "claims": [
@@ -2201,8 +2210,8 @@
         "A-1635.2"
       ],
       "related_nodes": [
-        "N-10417",
-        "N-10418"
+        "N-10390",
+        "N-10391"
       ],
       "tags": [],
       "claim_timestamp": "00:03:23–00:05:24",
@@ -2227,7 +2236,7 @@
         "A-1635.3"
       ],
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ],
       "tags": [],
       "claim_timestamp": "00:07:34",
@@ -2246,7 +2255,7 @@
         "A-1635.2"
       ],
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ],
       "tags": [],
       "claim_timestamp": "00:07:10",
@@ -2263,7 +2272,7 @@
       "claim": "The host says that, by her count, three people now say Erika was at Fort Huachuca: after Charlie's assassination a woman currently stationed there posted, then deleted, that she saw Erika there the day before (September 9); a friend formerly stationed there confirmed the post was real; and, per that friend, someone in a chat among personnel stationed there said they too had seen Erika at the base and that there was an order to lower drones that day. The host says she confirmed the friend and the two individuals are real.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:11:15–00:14:14",
@@ -2282,7 +2291,7 @@
         "A-1636.1"
       ],
       "related_nodes": [
-        "N-10419"
+        "N-10392"
       ],
       "tags": [],
       "claim_timestamp": "00:16:13–00:18:00",
@@ -2301,7 +2310,7 @@
         "A-1637.1"
       ],
       "related_nodes": [
-        "N-10419"
+        "N-10392"
       ],
       "tags": [],
       "claim_timestamp": "00:18:15",
@@ -2322,7 +2331,7 @@
         "A-1637.1"
       ],
       "related_nodes": [
-        "N-10419"
+        "N-10392"
       ],
       "tags": [],
       "claim_timestamp": "00:18:18",
@@ -2348,7 +2357,7 @@
         "A-1638.1"
       ],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [],
       "claim_timestamp": "00:20:05–00:21:00",
@@ -2368,7 +2377,7 @@
         "A-1638.2"
       ],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00–00:22:00",
@@ -2388,7 +2397,7 @@
         "A-1639.1"
       ],
       "related_nodes": [
-        "N-10423"
+        "N-10396"
       ],
       "tags": [],
       "claim_timestamp": "00:21:46",
@@ -2408,7 +2417,7 @@
         "A-1638.3"
       ],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [],
       "claim_timestamp": "00:18:20",
@@ -2430,7 +2439,7 @@
         "A-1641.1"
       ],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:36:23–00:39:06",
@@ -2450,7 +2459,7 @@
         "A-1641.2"
       ],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:42:23–00:44:18",
@@ -2469,7 +2478,7 @@
         "A-1642.1"
       ],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [],
       "claim_timestamp": "00:53:05–00:55:26",
@@ -2486,7 +2495,7 @@
       "claim": "The host asserts that Nick Fuentes led people into the Capitol with a bullhorn, told them to ignore police and storm the barriers as if acting on federal instructions, and was not arrested, which she offers as evidence that he is a federal informant.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
@@ -2505,7 +2514,7 @@
       "claim": "The host says Nick Fuentes took a meeting with Defend Texas Liberty and Farris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
@@ -2525,7 +2534,7 @@
       "claim": "The host says it is known \"for a fact\" that Milo Yiannopoulos informed Nick Fuentes the night before he led people into the Capitol that a federal trap was happening, and that Fuentes still went with a bullhorn.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
@@ -2563,8 +2572,7 @@
       "claim": "The host says she followed the lead of the Fort Huachuca-stationed person who claimed to have seen Erika and then deleted the post, and that Erika disputes that narrative.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10472",
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2585,8 +2593,8 @@
       "claim": "The host asserts that Erika is definitively aware of and familiar with the Fort Huachuca intelligence base because she once shot a teaser for a short film there or around there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10418"
+        "N-10390",
+        "N-10391"
       ],
       "tags": [
         "relevance:core"
@@ -2607,7 +2615,7 @@
       "claim": "The host says Turning Point USA's public response included bringing out Mitch's baby-mama drama and his sons to say the Fort Huachuca sighting never happened, which she reads as panic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10472",
+        "N-10390",
         "N-10000"
       ],
       "tags": [
@@ -2629,8 +2637,8 @@
       "claim": "The host says that the public learned Fort Huachuca teaches courses in which agents are taught to pretend to be Christians and be inserted into Christian organizations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10368",
-        "N-10209"
+        "N-10343",
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -2653,7 +2661,7 @@
       "claim": "The host says Andrew Kolvet reacted to the Fort Huachuca question by pretending not to understand the word fort and saying Erika was not at some fort.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10472"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2677,8 +2685,8 @@
         "A-3035"
       ],
       "related_nodes": [
-        "N-10472",
-        "N-10380"
+        "N-10390",
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2700,8 +2708,8 @@
       "claim": "The host says people based at Fort Huachuca around 2010 or 2011 contacted her to say they knew Erika and that a bunch of people from the base had worked with her from about 2010 until around 2013 on a mini film that was never released.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10418"
+        "N-10390",
+        "N-10391"
       ],
       "tags": [
         "relevance:core"
@@ -2722,7 +2730,7 @@
       "claim": "The host says Erika is known to have done some acting or reality television, to have pursued the stage and to have been involved in pageants.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ],
       "tags": [
         "relevance:context"
@@ -2743,7 +2751,7 @@
       "claim": "The host says her sources told her that the person Erika was really close to on the film was Clayton Haugen, unsure of the pronunciation of the surname.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ],
       "tags": [
         "relevance:core"
@@ -2765,8 +2773,8 @@
       "claim": "The host says Clayton Haugen does marketing for the defense contracting firm Dillon Aero.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11237",
-        "N-10418"
+        "N-11153",
+        "N-10391"
       ],
       "tags": [
         "relevance:context"
@@ -2786,8 +2794,8 @@
       "claim": "The host says cast member Don Frye graduated from high school in Sierra Vista and trained in judo at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10418"
+        "N-10390",
+        "N-10391"
       ],
       "tags": [
         "relevance:context"
@@ -2807,8 +2815,8 @@
       "claim": "The host says cast member Peyton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allen McCormick, once stationed at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10418"
+        "N-10390",
+        "N-10391"
       ],
       "tags": [
         "relevance:context"
@@ -2830,7 +2838,7 @@
       "claim": "The host says Peyton McCormick was also Miss Teen USA in 2006; the sentence runs into a name the transcript renders as Priscilla Ann Nu'ul.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ],
       "tags": [
         "relevance:context"
@@ -2851,8 +2859,8 @@
       "claim": "The host says she did not have much time to go through cast member Chantal Thuy's background, but that her dad worked in artificial intelligence for IBM, which she speculates might connect to Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10418",
-        "N-10417"
+        "N-10391",
+        "N-10390"
       ],
       "tags": [
         "relevance:context"
@@ -2873,7 +2881,7 @@
       "claim": "The host says cast member Price Mitchum was put in a psych 5150 hold.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ],
       "tags": [
         "relevance:context"
@@ -2894,8 +2902,7 @@
       "claim": "The host says her sources told her there is no way Erika is not familiar with Fort Huachuca, that the poster proves it, and that she does not know why Andrew Kolvet said otherwise.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10472"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2919,7 +2926,7 @@
         "A-1635.2"
       ],
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ],
       "tags": [
         "relevance:context"
@@ -2941,7 +2948,7 @@
         "A-1635.2"
       ],
       "related_nodes": [
-        "N-10418"
+        "N-10391"
       ],
       "tags": [
         "relevance:context"
@@ -2961,8 +2968,7 @@
       "claim": "The host says the people who gave her the poster material were friends with Erika, know her, and say she knows about the Fort Huachuca space, and that this makes it unreasonable to call Mitch's testimony deranged.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10472"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2984,8 +2990,8 @@
       "claim": "The host says the woman who posted shortly after the assassination said she saw Erika the day before, which would be September 9 and not September 8, and then deleted the message.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10365"
+        "N-10390",
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -3006,8 +3012,8 @@
       "claim": "The host says the original poster has absolutely nothing to do with Mitch Snow.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10367"
+        "N-10390",
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3028,8 +3034,8 @@
       "claim": "The host says that, as she understands it (\"I guess\"), there are chats among military personnel stationed at Fort Huachuca, and one person in a chat asserted they also saw Erika at the base and that there was an order to lower drones on that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10365"
+        "N-10390",
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -3050,8 +3056,8 @@
       "claim": "The host says her due diligence confirmed that the people are real and are in fact stationed at Fort Huachuca, and that they spoke because they believed they saw Erika and not because the public fed them the idea.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10375"
+        "N-10390",
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3074,7 +3080,7 @@
         "A-3036"
       ],
       "related_nodes": [
-        "N-10472",
+        "N-10390",
         "N-10000"
       ],
       "tags": [
@@ -3098,8 +3104,8 @@
         "A-3037"
       ],
       "related_nodes": [
-        "N-11104",
-        "N-10401",
+        "N-11022",
+        "N-10374",
         "N-10032"
       ],
       "tags": [
@@ -3122,8 +3128,8 @@
         "A-3037"
       ],
       "related_nodes": [
-        "N-10411",
-        "N-10401"
+        "N-10384",
+        "N-10374"
       ],
       "tags": [
         "relevance:context"
@@ -3174,8 +3180,8 @@
         "A-3037"
       ],
       "related_nodes": [
-        "N-11167",
-        "N-10144"
+        "N-11083",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3202,7 +3208,7 @@
         "A-3037"
       ],
       "related_nodes": [
-        "N-11167"
+        "N-11083"
       ],
       "tags": [
         "relevance:context"
@@ -3250,7 +3256,7 @@
       "claim": "The host says Vallely, a retired Army general who ran psychological operations, co-wrote a book with an avowed Satanist who started his own kind of Church of Satan called the Temple of Set.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11238"
+        "N-11154"
       ],
       "tags": [
         "relevance:context"
@@ -3274,7 +3280,7 @@
       "claim": "The host says the same Satanist co-author was accused, credibly according to police, of harming a child at an Army Child Development Center but was not charged because police felt they lacked enough evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11238"
+        "N-11154"
       ],
       "tags": [
         "relevance:context"
@@ -3296,8 +3302,8 @@
         "A-1636.1"
       ],
       "related_nodes": [
-        "N-11166",
-        "N-10428"
+        "N-11082",
+        "N-10392"
       ],
       "tags": [
         "relevance:context"
@@ -3319,7 +3325,7 @@
         "A-1638.3"
       ],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [
         "relevance:context"
@@ -3345,8 +3351,8 @@
         "A-1638.2"
       ],
       "related_nodes": [
-        "N-10421",
-        "N-10900"
+        "N-10394",
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -3368,8 +3374,8 @@
       "claim": "The host says Ben Shapiro was really upset that she called him out on stage and that Charlie Kirk publicly said he had her back on the day she was fired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268",
-        "N-10386"
+        "N-10252",
+        "N-10359"
       ],
       "tags": [
         "relevance:context"
@@ -3391,7 +3397,7 @@
       "claim": "The host says Charlie told her that Ben Shapiro started putting pressure on Charlie's donors to try to get him not to let her speak at AmFest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:context"
@@ -3416,7 +3422,7 @@
       "claim": "The host says she did not know who the donor was but knew they were also feeding information to Bari Weiss.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:context"
@@ -3437,8 +3443,8 @@
       "claim": "The host says Andrew Kolvet phoned her to say they would allow Ben Shapiro to effectively buy a place at AmFest and to buy up the documentary they were doing, and asked if she was okay with it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268",
-        "N-10423"
+        "N-10252",
+        "N-10396"
       ],
       "tags": [
         "relevance:context"
@@ -3460,7 +3466,7 @@
       "claim": "The host says the call was particularly about the documentary, and that Kolvet told her Charlie had to do an interview with Ben and that it was no big deal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10423"
+        "N-10396"
       ],
       "tags": [
         "relevance:context"
@@ -3483,8 +3489,8 @@
       "claim": "The host says she is not saying Nelda Buckman was necessarily the person who put pressure on Charlie, only that it is interesting to connect that dot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10421",
-        "N-10423"
+        "N-10394",
+        "N-10396"
       ],
       "tags": [
         "relevance:context"
@@ -3509,8 +3515,8 @@
       "claim": "The host says Nelda Buckman works with National Angels and all its regional chapters, such as Austin Angels and New Jersey Angels, to help foster children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11239",
-        "N-10420"
+        "N-11155",
+        "N-10393"
       ],
       "tags": [
         "relevance:context"
@@ -3533,7 +3539,7 @@
         "A-1640.1"
       ],
       "related_nodes": [
-        "N-10420"
+        "N-10393"
       ],
       "tags": [
         "relevance:context"
@@ -3556,8 +3562,8 @@
         "A-1640.1"
       ],
       "related_nodes": [
-        "N-10420",
-        "N-11240"
+        "N-10393",
+        "N-11156"
       ],
       "tags": [
         "relevance:context"
@@ -3579,7 +3585,7 @@
         "A-1640.1"
       ],
       "related_nodes": [
-        "N-10420"
+        "N-10393"
       ],
       "tags": [
         "relevance:context"
@@ -3601,7 +3607,7 @@
         "A-1640.1"
       ],
       "related_nodes": [
-        "N-10420"
+        "N-10393"
       ],
       "tags": [
         "relevance:context"
@@ -3623,7 +3629,7 @@
         "A-1640.1"
       ],
       "related_nodes": [
-        "N-10420"
+        "N-10393"
       ],
       "tags": [
         "relevance:context"
@@ -3645,8 +3651,8 @@
         "A-1640.1"
       ],
       "related_nodes": [
-        "N-10420",
-        "N-11240"
+        "N-10393",
+        "N-11156"
       ],
       "tags": [
         "relevance:context"
@@ -3668,7 +3674,7 @@
         "A-1640.1"
       ],
       "related_nodes": [
-        "N-10420"
+        "N-10393"
       ],
       "tags": [
         "relevance:context"
@@ -3690,7 +3696,7 @@
         "A-1640.1"
       ],
       "related_nodes": [
-        "N-10420"
+        "N-10393"
       ],
       "tags": [
         "relevance:context"
@@ -3710,7 +3716,7 @@
       "claim": "The host says she used to give annually to Operation Underground, which was run by Tim Ballard, before its scandal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11167"
+        "N-11083"
       ],
       "tags": [
         "relevance:tangential"
@@ -3751,7 +3757,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10001",
-        "N-11126"
+        "N-11044"
       ],
       "tags": [
         "relevance:tangential"
@@ -3895,7 +3901,7 @@
       ],
       "related_nodes": [
         "N-10023",
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"
@@ -3916,7 +3922,7 @@
       "claim": "The host says Fuentes claimed he got a quarter million in Bitcoin from France from a man who killed himself and published a letter 24 hours after his death on a timer, in perfect English.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"
@@ -3937,7 +3943,7 @@
       "claim": "The host says Fuentes's lawyer wants to go off the record when asked directly whether Fuentes is a federal informant.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"
@@ -3961,7 +3967,7 @@
       ],
       "related_nodes": [
         "N-10023",
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"
@@ -3983,7 +3989,7 @@
         "A-1641.2"
       ],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"
@@ -4006,7 +4012,7 @@
         "A-1641.2"
       ],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"
@@ -4026,7 +4032,7 @@
       "claim": "The host says Fuentes is the person who sat across from her and said that people who are sub-Saharan just do not have a high IQ.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"
@@ -4069,7 +4075,7 @@
         "A-3038"
       ],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"
@@ -4090,7 +4096,7 @@
       "claim": "The host says Project Looking Glass was real, that if she has lost it then the CIA lost it long ago, and that the CIA is of course hiding technology.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [
         "relevance:tangential"
@@ -4115,7 +4121,7 @@
         "A-1642.1"
       ],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [
         "relevance:context"
@@ -4137,7 +4143,7 @@
         "A-1642.1"
       ],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [
         "relevance:tangential"
@@ -4157,7 +4163,7 @@
       "claim": "The host says Charlie said he thought he was a time traveler and went to a special school, and that the lights-going-out phenomena in comments echo something he told her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [
         "relevance:context"
@@ -4181,7 +4187,7 @@
       "claim": "The host says that after a high test score in third grade her school told her mom they would put her in the Extraordinary Learners Program.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [
         "relevance:tangential"
@@ -4201,8 +4207,8 @@
       "claim": "The host says the school then offered to pay all expenses for her to attend King Low Heywood Private School, and that she cried and begged her mom not to make her go.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10422",
-        "N-11241"
+        "N-10395",
+        "N-11157"
       ],
       "tags": [
         "relevance:tangential"
@@ -4222,7 +4228,7 @@
       "claim": "The host says gifted programs probably exist to identify brilliant kids so that they can be tracked and made to work for the government.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [
         "relevance:tangential"
@@ -4242,7 +4248,7 @@
       "claim": "The host says she learned there is an underground military base in Greenland established particularly to launch missiles during the Cold War, so America is invested there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11242"
+        "N-11158"
       ],
       "tags": [
         "relevance:context"
@@ -4285,7 +4291,7 @@
         "A-1642.2"
       ],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [
         "relevance:context"
@@ -4352,7 +4358,7 @@
         "A-3036"
       ],
       "related_nodes": [
-        "N-10472"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -4375,7 +4381,7 @@
         "A-3040"
       ],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"

@@ -18,9 +18,9 @@
     "- **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10d): N-847, N-11231",
-    "  - Hole-minted Nodes (reintro-ep028): N-374, N-10451",
-    "  - Tip-minted Nodes (reintro-ep028): N-11159",
+    "  - Tip-minted Nodes (supplement_2026-10d): N-847, N-11147",
+    "  - Hole-minted Nodes (reintro-ep028): N-374, N-10420",
+    "  - Tip-minted Nodes (reintro-ep028): N-11075",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-2491–C-2557",
     "  - Tip-minted Nodes (reintro-ep028): N-710",
@@ -433,8 +433,8 @@
     "### Episode 28 Ledger Summary",
     "",
     "- Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363",
-    "  - New Nodes Introduced: N-234, N-235, N-10237, N-10238",
-    "  - Reused Nodes Appearing: N-34, N-36, N-145, N-178, N-222, N-229, N-366, N-659, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424",
+    "  - New Nodes Introduced: N-234, N-235, N-10224, N-10225",
+    "  - Reused Nodes Appearing: N-34, N-36, N-145, N-178, N-222, N-229, N-366, N-659, N-10000, N-10016, N-10025, N-10026, N-10053, N-10060, N-10078, N-10102, N-10323, N-10379, N-10821, N-11014, N-10223, N-10397",
     "- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Lara Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)",
     "",
     "---",
@@ -836,7 +836,7 @@
      "v": "High (read aloud by named participant)"
     },
     {
-     "raw": "*Related: C-2515, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10237*"
+     "raw": "*Related: C-2515, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10224*"
     },
     {
      "raw": ""
@@ -1367,8 +1367,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10236",
-   "header": "**N-10236** Megyn Kelly Tour Attendee Authenticity Question",
+   "id": "N-10223",
+   "header": "**N-10223** Megyn Kelly Tour Attendee Authenticity Question",
    "label": "Megyn Kelly Tour Attendee Authenticity Question",
    "lines": [
     {
@@ -1415,8 +1415,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10237",
-   "header": "**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations",
+   "id": "N-10224",
+   "header": "**N-10224** Shapiro Statement Accuracy Re: Owens' Accusations",
    "label": "Shapiro Statement Accuracy Re: Owens' Accusations",
    "lines": [
     {
@@ -1464,8 +1464,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10238",
-   "header": "**N-10238** Daily Wire Intern Covert Recording Operation",
+   "id": "N-10225",
+   "header": "**N-10225** Daily Wire Intern Covert Recording Operation",
    "label": "Daily Wire Intern Covert Recording Operation",
    "lines": [
     {
@@ -2122,8 +2122,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10056",
-   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "id": "N-10053",
+   "header": "**N-10053** Kirk-Israel Narrative Dispute",
    "label": "Kirk-Israel Narrative Dispute",
    "lines": [
     {
@@ -2151,8 +2151,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10063",
-   "header": "**N-10063** Gaza",
+   "id": "N-10060",
+   "header": "**N-10060** Gaza",
    "label": "Gaza",
    "lines": [
     {
@@ -2180,8 +2180,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10081",
-   "header": "**N-10081** Israel Influence on US Politics",
+   "id": "N-10078",
+   "header": "**N-10078** Israel Influence on US Politics",
    "label": "Israel Influence on US Politics",
    "lines": [
     {
@@ -2209,8 +2209,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10106",
-   "header": "**N-10106** Moral Blackmail by Donors",
+   "id": "N-10102",
+   "header": "**N-10102** Moral Blackmail by Donors",
    "label": "Moral Blackmail by Donors",
    "lines": [
     {
@@ -2238,8 +2238,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10345",
-   "header": "**N-10345** Hampton Retreat Seth Dillon Confrontation",
+   "id": "N-10323",
+   "header": "**N-10323** Hampton Retreat Seth Dillon Confrontation",
    "label": "Hampton Retreat Seth Dillon Confrontation",
    "lines": [
     {
@@ -2267,8 +2267,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10406",
-   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "id": "N-10379",
+   "header": "**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
    "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
    "lines": [
     {
@@ -2296,8 +2296,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10424",
-   "header": "**N-10424** Nick Fuentes Federal Informant Allegation",
+   "id": "N-10397",
+   "header": "**N-10397** Nick Fuentes Federal Informant Allegation",
    "label": "Nick Fuentes Federal Informant Allegation",
    "lines": [
     {
@@ -2325,8 +2325,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10451",
-   "header": "**N-10451** USS Liberty Incident Cover-up Investigation",
+   "id": "N-10420",
+   "header": "**N-10420** USS Liberty Incident Cover-up Investigation",
    "label": "USS Liberty Incident Cover-up Investigation",
    "lines": [
     {
@@ -2354,8 +2354,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11096",
-   "header": "**N-11096** TikTok Israel Moderation Claim",
+   "id": "N-11014",
+   "header": "**N-11014** TikTok Israel Moderation Claim",
    "label": "TikTok Israel Moderation Claim",
    "lines": [
     {
@@ -2383,8 +2383,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11159",
-   "header": "**N-11159** Candace Owens CNN Interview and Interview Statements",
+   "id": "N-11075",
+   "header": "**N-11075** Candace Owens CNN Interview and Interview Statements",
    "label": "Candace Owens CNN Interview and Interview Statements",
    "lines": [
     {
@@ -2443,8 +2443,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10900",
-   "header": "**N-10900** Daily Wire",
+   "id": "N-10821",
+   "header": "**N-10821** Daily Wire",
    "label": "Daily Wire",
    "lines": [
     {
@@ -2476,8 +2476,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11231",
-   "header": "**N-11231** Young America's Foundation",
+   "id": "N-11147",
+   "header": "**N-11147** Young America's Foundation",
    "label": "Young America's Foundation",
    "lines": [
     {
@@ -2659,7 +2659,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10237"
+     "v": "N-10224"
     },
     {
      "raw": ""
@@ -2715,7 +2715,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10237"
+     "v": "N-10224"
     },
     {
      "raw": ""
@@ -2885,7 +2885,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10237"
+     "v": "N-10224"
     },
     {
      "raw": ""
@@ -2941,7 +2941,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10238"
+     "v": "N-10225"
     },
     {
      "raw": ""
@@ -3437,7 +3437,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10406"
+     "v": "N-10379"
     },
     {
      "k": "Tags",
@@ -3498,7 +3498,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10237"
+     "v": "N-10224"
     },
     {
      "k": "Tags",
@@ -3559,7 +3559,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -3860,7 +3860,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10406"
+     "v": "N-10379"
     },
     {
      "k": "Tags",
@@ -3921,7 +3921,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10237"
+     "v": "N-10224"
     },
     {
      "k": "Contradicts",
@@ -3986,7 +3986,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10345, N-10016"
+     "v": "N-10323, N-10016"
     },
     {
      "k": "Supports",
@@ -4112,7 +4112,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Supports",
@@ -4177,7 +4177,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Qualifies",
@@ -4356,7 +4356,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11231"
+     "v": "N-11147"
     },
     {
      "k": "Supports",
@@ -4539,7 +4539,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10406"
+     "v": "N-10379"
     },
     {
      "k": "Supports",
@@ -4950,7 +4950,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10106"
+     "v": "N-10102"
     },
     {
      "k": "Supports",
@@ -5015,7 +5015,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10236"
+     "v": "N-10223"
     },
     {
      "k": "Tags",
@@ -5076,7 +5076,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10238"
+     "v": "N-10225"
     },
     {
      "k": "Supports",
@@ -5141,7 +5141,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10238"
+     "v": "N-10225"
     },
     {
      "k": "Supports",
@@ -5267,7 +5267,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10238, N-10900"
+     "v": "N-10225, N-10821"
     },
     {
      "k": "Tags",
@@ -5328,7 +5328,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10236"
+     "v": "N-10223"
     },
     {
      "k": "Tags",
@@ -5389,7 +5389,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10236, N-11231"
+     "v": "N-10223, N-11147"
     },
     {
      "k": "Tags",
@@ -5515,7 +5515,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11159"
+     "v": "N-11075"
     },
     {
      "k": "Supports",
@@ -5580,7 +5580,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11159"
+     "v": "N-11075"
     },
     {
      "k": "Tags",
@@ -5641,7 +5641,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11159"
+     "v": "N-11075"
     },
     {
      "k": "Tags",
@@ -5702,7 +5702,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11159"
+     "v": "N-11075"
     },
     {
      "k": "Tags",
@@ -5877,7 +5877,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10451"
+     "v": "N-10420"
     },
     {
      "k": "Tags",
@@ -6052,7 +6052,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10063"
+     "v": "N-10060"
     },
     {
      "k": "Tags",
@@ -6113,7 +6113,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10081"
+     "v": "N-10078"
     },
     {
      "k": "Tags",
@@ -6174,7 +6174,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11096"
+     "v": "N-11014"
     },
     {
      "k": "Tags",
@@ -6296,7 +6296,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10026, N-10056"
+     "v": "N-10026, N-10053"
     },
     {
      "k": "Tags",
@@ -6414,7 +6414,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10424"
+     "v": "N-10397"
     },
     {
      "k": "Tags",
@@ -6514,7 +6514,7 @@
     "- [x] Every node has a Related line",
     "- [x] No episode-wide artifact bundle exists",
     "- [x] People nodes use the global people ledger range (N-234+)",
-    "- [x] Non-person investigation targets use the 1000 series (N-10236+)",
+    "- [x] Non-person investigation targets use the 1000 series (N-10223+)",
     "- [x] No speculative claims inscribed as evidence-backed claims",
     "- [x] Names preserved exactly or uncertainty noted",
     "- [x] Formatting consistent"

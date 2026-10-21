@@ -18,14 +18,14 @@
     "- **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10d): N-859, N-11258",
-    "  - Hole-minted Nodes (reintro-ep097): N-10651, N-10695",
-    "  - Tip-minted Nodes (reintro-ep097): N-11137",
+    "  - Tip-minted Nodes (supplement_2026-10d): N-859, N-11174",
+    "  - Hole-minted Nodes (reintro-ep097): N-10593, N-10633",
+    "  - Tip-minted Nodes (reintro-ep097): N-11055",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-8635–C-8727",
     "  - Tip-minted Nodes (reintro-ep097): N-784",
-    "  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-190, N-195, N-209, N-224, N-261, N-271, N-278, N-280, N-319, N-550, N-599, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650, N-432",
-    " - New Nodes Introduced: N-10644, N-10648",
+    "  - Reused Nodes Appearing: N-10347, N-10589, N-10590, N-10587, N-11295, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-190, N-195, N-209, N-224, N-261, N-271, N-278, N-280, N-319, N-550, N-599, N-10012, N-10023, N-10070, N-10256, N-10319, N-10334, N-10406, N-10501, N-10506, N-10586, N-10606, N-10619, N-10736, N-10763, N-10783, N-10820, N-10821, N-10921, N-10933, N-10592, N-432",
+    " - New Nodes Introduced: N-10588, N-10591",
     " - Hole-minted Nodes (wave3): N-427, N-428",
     " - Reused Nodes Appearing: N-2, N-379, N-3, N-266",
     " - (see registers)",
@@ -50,7 +50,7 @@
     "",
     "- Artifact Families Introduced: A-2015, A-2016, A-2017, A-2018, A-2019, A-2020, A-2021, A-2022, A-2023, A-2024, A-2025, A-2026, A-2027, A-2028, A-2029",
     "- New People Nodes Introduced: none (Wave 2: local ids removed)",
-    "- New Investigation Target Nodes Introduced: N-10643, N-10644, N-10645, N-10646, N-10647, N-10648, N-10649, N-10650",
+    "- New Investigation Target Nodes Introduced: N-10347, N-10588, N-10589, N-10590, N-10587, N-10591, N-11295, N-10592",
     "- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)",
     "",
     "---",
@@ -264,7 +264,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8655, N-10644*"
+     "raw": "*Related: C-8655, N-10588*"
     },
     {
      "raw": ""
@@ -574,7 +574,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8669, N-3, N-10643*"
+     "raw": "*Related: C-8669, N-3, N-10347*"
     },
     {
      "raw": ""
@@ -724,7 +724,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8674, N-10646*"
+     "raw": "*Related: C-8674, N-10590*"
     },
     {
      "raw": ""
@@ -764,7 +764,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8674, N-10646*"
+     "raw": "*Related: C-8674, N-10590*"
     },
     {
      "raw": ""
@@ -1253,7 +1253,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8650, N-10645*"
+     "raw": "*Related: C-8650, N-10589*"
     },
     {
      "raw": ""
@@ -1308,7 +1308,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-10645*"
+     "raw": "*Related: N-10589*"
     },
     {
      "raw": ""
@@ -1589,7 +1589,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-2015.1, A-2015.2, A-2027.1, C-8640, N-3, N-10650*"
+     "raw": "*Related: A-2015.1, A-2015.2, A-2027.1, C-8640, N-3, N-10592*"
     },
     {
      "raw": ""
@@ -1605,50 +1605,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10643",
-   "header": "**N-10643** Harpole Fort Huachuca Alibi Question",
-   "label": "Harpole Fort Huachuca Alibi Question",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Persistence of unresolved alibi question for Brian Harpole's whereabouts on the morning of September 9, 2025; Snow's testimony places him at a Fort Huachuca meeting that concluded at 7:30 a.m.; afternoon Dallas flights cited."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "k": "Evidence Count",
-     "v": "3"
-    },
-    {
-     "k": "Claim Count",
-     "v": "3"
-    },
-    {
-     "k": "Episode Count",
-     "v": "1"
-    },
-    {
-     "k": "Investigative Pressure",
-     "v": "High"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: A-2015.9, A-2017.2, A-2020.1, C-8669, C-8671, C-8678*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10644",
-   "header": "**N-10644** Harpole Limited-Purpose Public Figure Status",
+   "id": "N-10588",
+   "header": "**N-10588** Harpole Limited-Purpose Public Figure Status",
    "label": "Harpole Limited-Purpose Public Figure Status",
    "lines": [
     {
@@ -1689,8 +1647,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10645",
-   "header": "**N-10645** UVU Drone Authorization Records",
+   "id": "N-10589",
+   "header": "**N-10589** UVU Drone Authorization Records",
    "label": "UVU Drone Authorization Records",
    "lines": [
     {
@@ -1731,8 +1689,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10646",
-   "header": "**N-10646** TPUSA Rooftop Security Decision-Making Discrepancy",
+   "id": "N-10590",
+   "header": "**N-10590** TPUSA Rooftop Security Decision-Making Discrepancy",
    "label": "TPUSA Rooftop Security Decision-Making Discrepancy",
    "lines": [
     {
@@ -1773,8 +1731,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10647",
-   "header": "**N-10647** Erika Kirk Murder Allegation Accuracy",
+   "id": "N-10587",
+   "header": "**N-10587** Erika Kirk Murder Allegation Accuracy",
    "label": "Erika Kirk Murder Allegation Accuracy",
    "lines": [
     {
@@ -1815,8 +1773,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10648",
-   "header": "**N-10648** House Resolution Characterization Accuracy",
+   "id": "N-10591",
+   "header": "**N-10591** House Resolution Characterization Accuracy",
    "label": "House Resolution Characterization Accuracy",
    "lines": [
     {
@@ -1857,8 +1815,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10649",
-   "header": "**N-10649** Candace-Erika December 15 Private Meeting Revelations",
+   "id": "N-11295",
+   "header": "**N-11295** Candace-Erika December 15 Private Meeting Revelations",
    "label": "Candace-Erika December 15 Private Meeting Revelations",
    "lines": [
     {
@@ -1899,8 +1857,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10650",
-   "header": "**N-10650** Charlie Kirk September 9 Pre-Event Threat Text",
+   "id": "N-10592",
+   "header": "**N-10592** Charlie Kirk September 9 Pre-Event Threat Text",
    "label": "Charlie Kirk September 9 Pre-Event Threat Text",
    "lines": [
     {
@@ -2788,8 +2746,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10083",
-   "header": "**N-10083** AIPAC",
+   "id": "N-10070",
+   "header": "**N-10070** AIPAC",
    "label": "AIPAC",
    "lines": [
     {
@@ -2817,8 +2775,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10272",
-   "header": "**N-10272** Harpole–Flood Text Attribution Discrepancy",
+   "id": "N-10256",
+   "header": "**N-10256** Harpole–Flood Text Attribution Discrepancy",
    "label": "Harpole–Flood Text Attribution Discrepancy",
    "lines": [
     {
@@ -2846,8 +2804,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10341",
-   "header": "**N-10341** Andrew Kolvet Surgeon Bullet Description",
+   "id": "N-10319",
+   "header": "**N-10319** Andrew Kolvet Surgeon Bullet Description",
    "label": "Andrew Kolvet Surgeon Bullet Description",
    "lines": [
     {
@@ -2875,8 +2833,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10358",
-   "header": "**N-10358** Surgeon Quotation Authenticity Question",
+   "id": "N-10334",
+   "header": "**N-10334** Surgeon Quotation Authenticity Question",
    "label": "Surgeon Quotation Authenticity Question",
    "lines": [
     {
@@ -2904,8 +2862,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10373",
-   "header": "**N-10373** Brian Harpole Fort Huachuca Presence Verification",
+   "id": "N-10347",
+   "header": "**N-10347** Brian Harpole Fort Huachuca Presence Verification",
    "label": "Brian Harpole Fort Huachuca Presence Verification",
    "lines": [
     {
@@ -2933,8 +2891,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10437",
-   "header": "**N-10437** Aspen Donor Recall Verification",
+   "id": "N-10406",
+   "header": "**N-10406** Aspen Donor Recall Verification",
    "label": "Aspen Donor Recall Verification",
    "lines": [
     {
@@ -2962,8 +2920,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10546",
-   "header": "**N-10546** Joe Kent Resignation Aftermath Pattern",
+   "id": "N-10501",
+   "header": "**N-10501** Joe Kent Resignation Aftermath Pattern",
    "label": "Joe Kent Resignation Aftermath Pattern",
    "lines": [
     {
@@ -2991,8 +2949,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10552",
-   "header": "**N-10552** Aubrey Termination Circumstances",
+   "id": "N-10506",
+   "header": "**N-10506** Aubrey Termination Circumstances",
    "label": "Aubrey Termination Circumstances",
    "lines": [
     {
@@ -3020,8 +2978,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10641",
-   "header": "**N-10641** Andrew Kolvet Text Message Full Context Verification",
+   "id": "N-10586",
+   "header": "**N-10586** Andrew Kolvet Text Message Full Context Verification",
    "label": "Andrew Kolvet Text Message Full Context Verification",
    "lines": [
     {
@@ -3049,8 +3007,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10651",
-   "header": "**N-10651** Brian Harpole Lawsuit Coordination Question",
+   "id": "N-10593",
+   "header": "**N-10593** Brian Harpole Lawsuit Coordination Question",
    "label": "Brian Harpole Lawsuit Coordination Question",
    "lines": [
     {
@@ -3078,8 +3036,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10664",
-   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "id": "N-10606",
+   "header": "**N-10606** Charlie Kirk Aspen Audio Authenticity Question",
    "label": "Charlie Kirk Aspen Audio Authenticity Question",
    "lines": [
     {
@@ -3107,8 +3065,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10681",
-   "header": "**N-10681** Shawn Ryan Show Interview Clip Bundle",
+   "id": "N-10619",
+   "header": "**N-10619** Shawn Ryan Show Interview Clip Bundle",
    "label": "Shawn Ryan Show Interview Clip Bundle",
    "lines": [
     {
@@ -3136,8 +3094,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10695",
-   "header": "**N-10695** Brian Harpole Medical Dressing Amount Claim",
+   "id": "N-10633",
+   "header": "**N-10633** Brian Harpole Medical Dressing Amount Claim",
    "label": "Brian Harpole Medical Dressing Amount Claim",
    "lines": [
     {
@@ -3165,8 +3123,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10812",
-   "header": "**N-10812** Terryl Farnsworth Evidence-Handling Question",
+   "id": "N-10736",
+   "header": "**N-10736** Terryl Farnsworth Evidence-Handling Question",
    "label": "Terryl Farnsworth Evidence-Handling Question",
    "lines": [
     {
@@ -3194,8 +3152,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10840",
-   "header": "**N-10840** UVU Ambulance Denial Discrepancy",
+   "id": "N-10763",
+   "header": "**N-10763** UVU Ambulance Denial Discrepancy",
    "label": "UVU Ambulance Denial Discrepancy",
    "lines": [
     {
@@ -3223,8 +3181,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10862",
-   "header": "**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings",
+   "id": "N-10783",
+   "header": "**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings",
    "label": "Harpole Shawn Ryan Statements vs Independent Review Findings",
    "lines": [
     {
@@ -3252,8 +3210,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10899",
-   "header": "**N-10899** Paramount Tactical",
+   "id": "N-10820",
+   "header": "**N-10820** Paramount Tactical",
    "label": "Paramount Tactical",
    "lines": [
     {
@@ -3281,8 +3239,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10900",
-   "header": "**N-10900** Daily Wire",
+   "id": "N-10821",
+   "header": "**N-10821** Daily Wire",
    "label": "Daily Wire",
    "lines": [
     {
@@ -3310,8 +3268,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11001",
-   "header": "**N-11001** Valhalla VFT",
+   "id": "N-10921",
+   "header": "**N-10921** Valhalla VFT",
    "label": "Valhalla VFT",
    "lines": [
     {
@@ -3339,8 +3297,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11013",
-   "header": "**N-11013** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification",
+   "id": "N-10933",
+   "header": "**N-10933** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification",
    "label": "Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification",
    "lines": [
     {
@@ -3368,8 +3326,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11137",
-   "header": "**N-11137** Harpole Team Medical Response Competence Dispute",
+   "id": "N-11055",
+   "header": "**N-11055** Harpole Team Medical Response Competence Dispute",
    "label": "Harpole Team Medical Response Competence Dispute",
    "lines": [
     {
@@ -3428,8 +3386,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11258",
-   "header": "**N-11258** Harpole Lawsuit Subpoena and Discovery Opportunity",
+   "id": "N-11174",
+   "header": "**N-11174** Harpole Lawsuit Subpoena and Discovery Opportunity",
    "label": "Harpole Lawsuit Subpoena and Discovery Opportunity",
    "lines": [
     {
@@ -3611,7 +3569,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10650"
+     "v": "N-10592"
     },
     {
      "raw": ""
@@ -3724,7 +3682,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10645"
+     "v": "N-10589"
     },
     {
      "raw": ""
@@ -3780,7 +3738,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10644"
+     "v": "N-10588"
     },
     {
      "raw": ""
@@ -3836,7 +3794,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10644"
+     "v": "N-10588"
     },
     {
      "raw": ""
@@ -3892,7 +3850,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10644"
+     "v": "N-10588"
     },
     {
      "raw": ""
@@ -3948,7 +3906,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10643"
+     "v": "N-10347"
     },
     {
      "raw": ""
@@ -4118,7 +4076,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10646"
+     "v": "N-10590"
     },
     {
      "raw": ""
@@ -4174,7 +4132,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10643"
+     "v": "N-10347"
     },
     {
      "raw": ""
@@ -4287,7 +4245,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10645"
+     "v": "N-10589"
     },
     {
      "raw": ""
@@ -4343,7 +4301,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10647"
+     "v": "N-10587"
     },
     {
      "raw": ""
@@ -4399,7 +4357,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10647"
+     "v": "N-10587"
     },
     {
      "raw": ""
@@ -4455,7 +4413,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10647"
+     "v": "N-10587"
     },
     {
      "raw": ""
@@ -4511,7 +4469,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10648"
+     "v": "N-10591"
     },
     {
      "raw": ""
@@ -4567,7 +4525,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10648"
+     "v": "N-10591"
     },
     {
      "raw": ""
@@ -4623,7 +4581,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10648"
+     "v": "N-10591"
     },
     {
      "raw": ""
@@ -4679,7 +4637,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10648"
+     "v": "N-10591"
     },
     {
      "raw": ""
@@ -4735,7 +4693,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10648"
+     "v": "N-10591"
     },
     {
      "raw": ""
@@ -4847,7 +4805,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10647"
+     "v": "N-10587"
     },
     {
      "k": "Supports",
@@ -4912,7 +4870,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Supports",
@@ -4977,7 +4935,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900, N-10651"
+     "v": "N-10821, N-10593"
     },
     {
      "k": "Tags",
@@ -5038,7 +4996,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10840, N-11137"
+     "v": "N-10763, N-11055"
     },
     {
      "k": "Tags",
@@ -5099,7 +5057,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10650, N-11013"
+     "v": "N-10592, N-10933"
     },
     {
      "k": "Supports",
@@ -5286,7 +5244,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10812"
+     "v": "N-10736"
     },
     {
      "k": "Tags",
@@ -5408,7 +5366,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10695"
+     "v": "N-10633"
     },
     {
      "k": "Tags",
@@ -5469,7 +5427,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10645"
+     "v": "N-10589"
     },
     {
      "k": "Supports",
@@ -5534,7 +5492,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10645"
+     "v": "N-10589"
     },
     {
      "k": "Contradicts",
@@ -5721,7 +5679,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10644"
+     "v": "N-10588"
     },
     {
      "k": "Contradicts",
@@ -5977,7 +5935,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10862, N-10681"
+     "v": "N-10783, N-10619"
     },
     {
      "k": "Tags",
@@ -6038,7 +5996,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Tags",
@@ -6099,7 +6057,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Tags",
@@ -6160,7 +6118,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-11001, N-10651"
+     "v": "N-10820, N-10921, N-10593"
     },
     {
      "k": "Tags",
@@ -6221,7 +6179,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Tags",
@@ -6473,7 +6431,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10272"
+     "v": "N-10256"
     },
     {
      "k": "Supports",
@@ -6538,7 +6496,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Supports",
@@ -6603,7 +6561,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Supports",
@@ -6668,7 +6626,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Tags",
@@ -6729,7 +6687,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Supports",
@@ -6916,7 +6874,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Tags",
@@ -6977,7 +6935,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11258"
+     "v": "N-11174"
     },
     {
      "k": "Tags",
@@ -7038,7 +6996,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11258, N-10812"
+     "v": "N-11174, N-10736"
     },
     {
      "k": "Tags",
@@ -7099,7 +7057,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10641, N-10647"
+     "v": "N-10586, N-10587"
     },
     {
      "k": "Tags",
@@ -7160,7 +7118,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10546"
+     "v": "N-10501"
     },
     {
      "k": "Tags",
@@ -7221,7 +7179,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10358"
+     "v": "N-10334"
     },
     {
      "k": "Supports",
@@ -7286,7 +7244,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10341, N-10358"
+     "v": "N-10319, N-10334"
     },
     {
      "k": "Tags",
@@ -7347,7 +7305,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664, N-10437"
+     "v": "N-10606, N-10406"
     },
     {
      "k": "Supports",
@@ -7412,7 +7370,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664"
+     "v": "N-10606"
     },
     {
      "k": "Tags",
@@ -7473,7 +7431,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10641"
+     "v": "N-10586"
     },
     {
      "k": "Tags",
@@ -7534,7 +7492,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10641"
+     "v": "N-10586"
     },
     {
      "k": "Tags",
@@ -7595,7 +7553,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10649"
+     "v": "N-11295"
     },
     {
      "k": "Tags",
@@ -7656,7 +7614,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10649"
+     "v": "N-11295"
     },
     {
      "k": "Tags",
@@ -7717,7 +7675,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10649"
+     "v": "N-11295"
     },
     {
      "k": "Tags",
@@ -7778,7 +7736,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10552"
+     "v": "N-10506"
     },
     {
      "k": "Tags",
@@ -7839,7 +7797,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10083, N-10648"
+     "v": "N-10070, N-10591"
     },
     {
      "k": "Tags",
@@ -7900,7 +7858,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10648"
+     "v": "N-10591"
     },
     {
      "k": "Tags",
@@ -7961,7 +7919,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10648"
+     "v": "N-10591"
     },
     {
      "k": "Tags",
@@ -8144,7 +8102,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10648"
+     "v": "N-10591"
     },
     {
      "k": "Tags",
@@ -8579,7 +8537,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Tags",
@@ -8640,7 +8598,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Tags",
@@ -8701,7 +8659,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11258"
+     "v": "N-11174"
     },
     {
      "k": "Tags",
@@ -8762,7 +8720,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10645, N-10012"
+     "v": "N-10589, N-10012"
     },
     {
      "k": "Tags",
@@ -8823,7 +8781,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10643, N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Tags",
@@ -8884,7 +8842,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10643, N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Tags",
@@ -8945,7 +8903,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10643, N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Tags",
@@ -9006,7 +8964,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373"
+     "v": "N-10347"
     },
     {
      "k": "Qualifies",
@@ -9543,10 +9501,10 @@
     "- **Name uncertainty – Harpole/Harpold:** Transcript uses both \"Brian Harpole\" and \"Brian Harpole\" interchangeably throughout the episode (title uses \"Harpole\"). Preserved as \"Harpole\" matching the lawsuit title; both spellings preserved in cross-references.",
     "- **Name uncertainty – Mikey McCoy/McCoey/McCormick:** Transcript renders the same person as \"Mikey McCoey,\" \"Mikey McCoy,\" and \"Mikey McCormick.\" Used \"Mikey McCoy\" as most common rendering; identity confirmed by context.",
     "- **Name uncertainty – Matt Sarelson vs. Matt Christiansen:** Candace names Harpole's attorney as \"Matt Sarelson\" (~01:08:34) but later says sarcastically \"Good luck with Matt Christiansen as a lawyer\" (~01:13:25). Treated as separate nodes, pending verification of whether they refer to the same individual.",
-    "- **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-10649).",
+    "- **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-11295).",
     "- **Timestamp estimation:** Some artifact timestamps were approximated where the host transitions between quoted passages without discrete visual cues.",
     "- **Transcript ambiguity – \"the morning of September 9\":** Harpole's alleged Fort Huachuca presence is repeatedly dated to \"the morning of September 9\" by the host. Charlie Kirk was shot on September 10, 2025. The September 9 reference may refer to the day before the event, consistent with Snow's account of a pre-event meeting; flag for verification against Snow's primary statements.",
-    "- **Unverified alibi for Harpole:** Candace notes Snow's claim of Harpole at Fort Huachuca on the morning of September 9 has not been refuted by Harpole with any document (Starbucks receipt, etc.); Harpole cites only afternoon Dallas flights. Alibi remains open under N-10643.",
+    "- **Unverified alibi for Harpole:** Candace notes Snow's claim of Harpole at Fort Huachuca on the morning of September 9 has not been refuted by Harpole with any document (Starbucks receipt, etc.); Harpole cites only afternoon Dallas flights. Alibi remains open under N-10347.",
     "- **Lawsuit characterization caveat:** Host assertions regarding the lawsuit's strategic intent (PR-booth theory) are interpretive commentary and have not been inscribed as artifact-backed claims.",
     "",
     "---"

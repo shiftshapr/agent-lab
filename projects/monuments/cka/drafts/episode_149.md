@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: d083233973ad6e9fb8ef03f80dd5b5b650e1276ba782aca655d4b16cef72c1cd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-11407, N-11408, N-11409
-  - Hole-minted Nodes (reintro-ep149): N-10828
-  - Tip-minted Nodes (reintro-ep149): N-896, N-899, N-953, N-11310
+  - Tip-minted Nodes (supplement_2026-10g): N-11323, N-11324, N-11325
+  - Hole-minted Nodes (reintro-ep149): N-10751
+  - Tip-minted Nodes (reintro-ep149): N-896, N-899, N-953, N-11226
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12831–C-12949
   - Hole-minted Nodes (fixall-ep149): N-269
@@ -35,7 +35,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2426, A-2427, A-2428, A-2429, A-2430, A-2431, A-2432, A-2433, A-2434, A-2435
   - New Nodes Introduced: (none)
-  - Reused Nodes Appearing: N-487, N-492, N-2, N-14, N-27, N-38, N-46, N-54, N-55, N-159, N-164, N-190, N-224, N-329, N-361, N-365, N-432, N-845, N-10024, N-10062, N-10077, N-10148, N-10187, N-10337, N-10373, N-10375, N-10381, N-10573, N-10576, N-10581, N-10688, N-10737, N-10888, N-10953, N-11017, N-11191, N-11262
+  - Reused Nodes Appearing: N-487, N-492, N-2, N-14, N-27, N-38, N-46, N-54, N-55, N-159, N-164, N-190, N-224, N-329, N-361, N-365, N-432, N-845, N-10024, N-10059, N-10074, N-10143, N-10179, N-10316, N-10347, N-10342, N-10354, N-10524, N-10527, N-10532, N-10626, N-10636, N-10809, N-10874, N-10937, N-11107, N-11178
   - Existing Nodes Reused: 
 
 ## 6. Meme Register
@@ -427,7 +427,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-10169, N-18*
+*Related: N-10162, N-18*
 
 ---
 
@@ -476,7 +476,7 @@ Video Timestamp: 00:29:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12895, C-12896, N-10828, N-10573, N-10576*
+*Related: C-12895, C-12896, N-10751, N-10524, N-10527*
 
 ---
 
@@ -489,7 +489,7 @@ Video Timestamp: 00:33:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12911, C-12912, N-18, N-40, N-11262, N-10381, N-3*
+*Related: C-12911, C-12912, N-18, N-40, N-11178, N-10354, N-3*
 
 ---
 
@@ -517,7 +517,7 @@ Video Timestamp: 00:52:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12947, C-12948, N-896, N-3, N-11310, N-487*
+*Related: C-12947, C-12948, N-896, N-3, N-11226, N-487*
 
 ---
 
@@ -530,7 +530,7 @@ Video Timestamp: 00:18:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12876, N-3, N-10573*
+*Related: C-12876, N-3, N-10524*
 
 ---
 
@@ -582,7 +582,7 @@ Pastor and apologist who rode in the SUV; the host disputes his CPR, scrubs and 
 
 ---
 
-**N-11407** Integrity Solutions
+**N-11323** Integrity Solutions
 
 Node Type: Organization
 Organization the host says she had mistakenly believed the security team member she first named as Chester Barnes worked for.
@@ -591,7 +591,7 @@ Organization the host says she had mistakenly believed the security team member 
 
 ---
 
-**N-11408** Perimeter Global Logistics
+**N-11324** Perimeter Global Logistics
 
 Node Type: Organization
 PGL, a government defense contractor specializing in global freight and cross-border shipping, where the host says Derek Pepper Williams worked after the Navy.
@@ -600,7 +600,7 @@ PGL, a government defense contractor specializing in global freight and cross-bo
 
 ---
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Department of War, formerly Department of Defense.
 
@@ -608,7 +608,7 @@ Department of War, formerly Department of Defense.
 
 ---
 
-**N-11017** TPUSA Influencer Payment Campaign Allegation
+**N-10937** TPUSA Influencer Payment Campaign Allegation
 
 TPUSA influencer payment campaign allegation topic.
 
@@ -664,7 +664,7 @@ TPUSA spokesperson; the host says he was on the Zoom call and gave Gabbard's off
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Verification topic for the Josh Hammer Zoom call.
 
@@ -672,7 +672,7 @@ Verification topic for the Josh Hammer Zoom call.
 
 ---
 
-**N-10187** Josh Hammer Text Messages Context
+**N-10179** Josh Hammer Text Messages Context
 
 Josh Hammer text message context topic.
 
@@ -680,7 +680,7 @@ Josh Hammer text message context topic.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Charlie's pre-death Israel position topic.
 
@@ -704,7 +704,7 @@ Security team member and medic-trained team member in the SUV; says no CPR was d
 
 ---
 
-**N-10737** CPR Narrative Contradiction (Turek / Harpole)
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Turek and Harpole CPR narrative contradiction topic.
 
@@ -720,7 +720,7 @@ Podcaster whose show interviewed Harpole about the ride.
 
 ---
 
-**N-10688** Frank Turek Clothing Disposal
+**N-10626** Frank Turek Clothing Disposal
 
 Frank Turek clothing disposal topic.
 
@@ -728,7 +728,7 @@ Frank Turek clothing disposal topic.
 
 ---
 
-**N-11310** Security Team Timpanogos Scrubs Question
+**N-11226** Security Team Timpanogos Scrubs Question
 
 Security team Timpanogos scrubs question topic.
 
@@ -760,7 +760,7 @@ Charlie's staffer who, per the host, provided the scrubs and phoned Jack Hibbs.
 
 ---
 
-**N-10573** Timpanogos Hospital Evidence Question
+**N-10524** Timpanogos Hospital Evidence Question
 
 Timpanogos hospital evidence question topic.
 
@@ -792,7 +792,7 @@ Security staffer who carried Charlie and wore scrubs at the UVU return.
 
 ---
 
-**N-11191** Pre-Born
+**N-11107** Pre-Born
 
 Pre-Born, sponsor named in the host's ad read.
 
@@ -800,7 +800,7 @@ Pre-Born, sponsor named in the host's ad read.
 
 ---
 
-**N-10828** Timpanogos Doctor Recusal Mystery
+**N-10751** Timpanogos Doctor Recusal Mystery
 
 Timpanogos doctor recusal mystery topic.
 
@@ -808,7 +808,7 @@ Timpanogos doctor recusal mystery topic.
 
 ---
 
-**N-10576** Timpanogos Hospital Records / Chain of Custody
+**N-10527** Timpanogos Hospital Records / Chain of Custody
 
 Timpanogos hospital records and chain of custody topic.
 
@@ -824,7 +824,7 @@ Widow and TPUSA CEO; named in connection with Andrew Wilson and Mitch Snow's For
 
 ---
 
-**N-11262** Andrew Wilson TPUSA Debate Training Engagement
+**N-11178** Andrew Wilson TPUSA Debate Training Engagement
 
 Andrew Wilson TPUSA debate training engagement topic.
 
@@ -832,7 +832,7 @@ Andrew Wilson TPUSA debate training engagement topic.
 
 ---
 
-**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Tyler Robinson's Panguitch Cowboy Smokehouse visit verification topic.
 
@@ -864,7 +864,7 @@ Recipient of the Robinson text messages on which the host says the case hinges.
 
 ---
 
-**N-10062** Orem, Utah
+**N-10059** Orem, Utah
 
 Utah city where the host places Robinson's texts by 11:45 p.m.
 
@@ -872,7 +872,7 @@ Utah city where the host places Robinson's texts by 11:45 p.m.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Authenticity of the Robinson to Lance text chain on which the host says the case hinges.
 
@@ -880,7 +880,7 @@ Authenticity of the Robinson to Lance text chain on which the host says the case
 
 ---
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Topic on the evidence base of the prosecution.
 
@@ -904,7 +904,7 @@ Fort Huachuca eyewitness; the host says she cannot confirm he saw Erika or Harpo
 
 ---
 
-**N-10375** Fort Huachuca Sighting Verification
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Fort Huachuca sighting verification topic.
 
@@ -912,7 +912,7 @@ Fort Huachuca sighting verification topic.
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Harpole's Fort Huachuca presence verification topic.
 
@@ -928,7 +928,7 @@ Host's investigation timeline topic.
 
 ---
 
-**N-10581** Tyler Robinson Defense – Chain of Custody / Documents
+**N-10532** Tyler Robinson Defense – Chain of Custody / Documents
 
 Defense chain of custody and documents topic.
 
@@ -936,7 +936,7 @@ Defense chain of custody and documents topic.
 
 ---
 
-**N-10953** Paleo Valley
+**N-10874** Paleo Valley
 
 Sponsor named in the host's ad read.
 
@@ -944,7 +944,7 @@ Sponsor named in the host's ad read.
 
 ---
 
-**N-11409** Fatty15
+**N-11325** Fatty15
 
 Node Type: Organization
 Sponsor named in the host's ad read for C15 supplements.
@@ -1228,7 +1228,7 @@ Claim Timestamp: 00:31:38
 Claim: Per the New York Post article the host shows, headlined along the lines of "Utah restaurateur claims Tyler Robinson stopped in after Charlie Kirk killing, reveals what the alleged assassin ordered."
 Anchored Artifacts: A-2433.2
 Mentions: N-40, N-1
-Related Nodes: N-10898
+Related Nodes: N-10819
 Investigative Direction: Retrieve the original article from the New York Post archive; verify URL and publication date.
 
 ---
@@ -1325,7 +1325,7 @@ Transcript Snippet: This individual who we initially named as Chester Barnes, so
 
 Anchored Artifacts: 
 Mentions: N-269
-Related Nodes: N-11407
+Related Nodes: N-11323
 Tags: relevance:core
 Investigative Direction: Pull the earlier episode where the Chester Barnes and Integrity Solutions identification was made and check Integrity Solutions staff and contractor lists for any Barnes or Williams.
 
@@ -1373,7 +1373,7 @@ Transcript Snippet: They specialize in global freight shipping, over the border 
 
 Anchored Artifacts: 
 Mentions: N-269
-Related Nodes: N-11408
+Related Nodes: N-11324
 Supports: C-12837
 Tags: relevance:core
 Investigative Direction: Check PGL corporate registrations, Texas filings and Williams's residence or work location in public business records.
@@ -1390,7 +1390,7 @@ Transcript Snippet: the same department that we have learned is oddly married to
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10888, N-11017
+Related Nodes: N-10809, N-10937
 Tags: relevance:core
 Investigative Direction: Identify the source of the host's claim and any contracts, payments or communications between the Department of Defense and the influencers who criticized her.
 
@@ -1505,7 +1505,7 @@ Transcript Snippet: Frank would then join Charlie the next day for that now infa
 
 Anchored Artifacts: 
 Mentions: N-7, N-1, N-164, N-55, N-159, N-14
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-12810, C-12819, C-1537
 Tags: relevance:core
 Investigative Direction: Obtain Zoom participant logs or invitations for the Sept 9 call and statements from each named attendee.
@@ -1522,7 +1522,7 @@ Transcript Snippet: from namely two Israeli officials at 4:00 a. m. in the morni
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-6426
 Tags: relevance:core
 Investigative Direction: Verify the call time against Zoom logs and Hammer's and Wolicki's own accounts of when it occurred.
@@ -1539,7 +1539,7 @@ Transcript Snippet: I've never seen someone caught lying in the way that he was 
 
 Anchored Artifacts: 
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10187
+Related Nodes: N-10179
 Tags: relevance:core
 Investigative Direction: Compare Hammer's public statements on Charlie's Israel position with the released text message and its date.
 
@@ -1555,7 +1555,7 @@ Transcript Snippet: That two hours after he announced he was abandoning the pro-
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Supports: C-8873
 Tags: relevance:core
 Investigative Direction: Identify the message or statement by Charlie that the host treats as the announcement and its timestamp relative to the Zoom call.
@@ -1622,7 +1622,7 @@ Transcript Snippet: Consider them telling us that Charlie was so long that they 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10737
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Locate the team statements about Charlie's legs hanging out and compare with footage of the SUV leaving the scene.
 
@@ -1638,7 +1638,7 @@ Transcript Snippet: we're now supposed to believe that they somehow then shifted
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-10737
+Related Nodes: N-10636
 Supports: C-10467, C-10468
 Tags: relevance:core
 Investigative Direction: Obtain the SUV interior dimensions, seat configuration and a reconstruction by a paramedic or emergency physician.
@@ -1739,7 +1739,7 @@ Transcript Snippet: he needs to come up with a reason as to why he changed his c
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-10688, N-11310
+Related Nodes: N-10626, N-11226
 Supports: C-10334
 Tags: relevance:core
 Investigative Direction: Obtain hospital records of scrub distribution and footage of Turek's clothing at the hospital.
@@ -1873,7 +1873,7 @@ Transcript Snippet: he was sitting in the parking lot eating his lunch at Timpan
 
 Anchored Artifacts: A-2431.1
 Mentions: 
-Related Nodes: N-10573
+Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Verify the witness's presence through his original post metadata and any lot or camera footage.
 
@@ -1906,7 +1906,7 @@ Transcript Snippet: which we then learned were provided by Mikey. Another strang
 
 Anchored Artifacts: 
 Mentions: N-190
-Related Nodes: N-11310
+Related Nodes: N-11226
 Supports: C-11597, C-10096
 Tags: relevance:core
 Investigative Direction: Obtain hospital supply logs and staff statements on who issued scrubs and when.
@@ -1923,7 +1923,7 @@ Transcript Snippet: We aren't going to reveal to you footage from inside of the 
 
 Anchored Artifacts: A-3353.1
 Mentions: N-3
-Related Nodes: N-10573
+Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Ask the host for the provenance and chain of custody of the hospital footage when it is released.
 
@@ -2005,7 +2005,7 @@ Transcript Snippet: It seems like a risk to just be handing out surgical scrubs 
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-11310, N-10573
+Related Nodes: N-11226, N-10524
 Tags: relevance:core
 Investigative Direction: Request Timpanogos policies on scrub issue to non-staff and any log of scrubs issued Sept 10.
 
@@ -2021,7 +2021,7 @@ Transcript Snippet: They're also allowing Brian Harpole to jump on patients and 
 
 Anchored Artifacts: 
 Mentions: N-266
-Related Nodes: N-10573
+Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Obtain the hospital footage and staff statements on Harpole's conduct in the trauma bay.
 
@@ -2069,7 +2069,7 @@ Transcript Snippet: I don't know about this story about Mikey handing out surgic
 
 Anchored Artifacts: A-2432.3
 Mentions: N-190
-Related Nodes: N-11310
+Related Nodes: N-11226
 Tags: relevance:core
 Investigative Direction: Obtain hospital records and statements from Mikey McCoy on whether he issued the scrubs.
 
@@ -2102,7 +2102,7 @@ Transcript Snippet: this year alone, God has used pre-born to save nearly 60,000
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-11191
+Related Nodes: N-11107
 Tags: relevance:tangential
 Investigative Direction: Check Pre-Born published annual figures against the 60,000 claim; sponsor read recorded as said.
 
@@ -2118,7 +2118,7 @@ Transcript Snippet: there was allegedly a disagreement uh during or immediately 
 
 Anchored Artifacts: A-3350.1
 Mentions: 
-Related Nodes: N-10828, N-10573
+Related Nodes: N-10751, N-10524
 Tags: relevance:core
 Investigative Direction: Identify the physician through hospital staffing and records and ask the hospital whether any provider requested removal from the chart.
 
@@ -2134,7 +2134,7 @@ Transcript Snippet: he asked to have all of his name his name removed from anyth
 
 Anchored Artifacts: A-3350.1
 Mentions: 
-Related Nodes: N-10828, N-10576
+Related Nodes: N-10751, N-10527
 Tags: relevance:core
 Investigative Direction: Request hospital records of any name-removal or amendment request and the date it was made.
 
@@ -2150,7 +2150,7 @@ Transcript Snippet: He was sent to try to entrap me in a lawsuit via out of cont
 
 Anchored Artifacts: 
 Mentions: N-18, N-3, N-2
-Related Nodes: N-11262
+Related Nodes: N-11178
 Tags: relevance:context
 Investigative Direction: Identify who engaged or paid Wilson for the debate and any communications about legal strategy.
 
@@ -2166,7 +2166,7 @@ Transcript Snippet: most obscurely, to demand that I remove the Panguitch steakh
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-10381, N-11262
+Related Nodes: N-10354, N-11178
 Tags: relevance:context
 Investigative Direction: Obtain the debate recording to verify Wilson's demand about the timeline.
 
@@ -2182,7 +2182,7 @@ Transcript Snippet: It was literally January 6th when we covered this.
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Supports: C-4518
 Tags: relevance:core
 Investigative Direction: Retrieve the January 6 episode and transcript of the owner conversation.
@@ -2199,7 +2199,7 @@ Transcript Snippet: Suddenly, this six-month-old story became a focal point ahea
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Map the dates of influencer posts attempting to debunk the receipt against the preliminary hearing date.
 
@@ -2215,7 +2215,7 @@ Transcript Snippet: Now, we learned the Department of Defense was somehow involv
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10888, N-11017
+Related Nodes: N-10809, N-10937
 Supports: C-12840
 Tags: relevance:core
 Investigative Direction: Obtain the payment records or contracts the host says she has found.
@@ -2249,7 +2249,7 @@ Transcript Snippet: a bunch of people then insisting at various times that the r
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Collect the named debunking posts and what evidence each cited.
 
@@ -2265,7 +2265,7 @@ Transcript Snippet: he didn't claim to be there that night. He basically told th
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Interview the owner and the servers on shift to establish who personally served the customer.
 
@@ -2281,7 +2281,7 @@ Transcript Snippet: My guess would be it would be the feds sloppers doing that.
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:context
 Investigative Direction: Analyze the review accounts' creation dates and activity patterns; the host offers this as a guess.
 
@@ -2297,7 +2297,7 @@ Transcript Snippet: Andrew Wilson drops this signature as a debunking.
 
 Anchored Artifacts: A-3351.1
 Mentions: N-18, N-40
-Related Nodes: N-11262, N-10381
+Related Nodes: N-11178, N-10354
 Tags: relevance:core
 Investigative Direction: Obtain the receipt image Wilson used and exemplars of Robinson's signature for comparison.
 
@@ -2313,7 +2313,7 @@ Transcript Snippet: this is your standard when you get those like CVS electronic
 
 Anchored Artifacts: A-3351.1
 Mentions: N-40, N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Consult a forensic document examiner on whether electronic pad signatures are comparable to handwritten exemplars.
 
@@ -2329,7 +2329,7 @@ Transcript Snippet: You will recall that Tyler's messages to Lance that evening 
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10062, N-10077
+Related Nodes: N-10059, N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the Robinson-Lance message timestamps and the cell-site or app metadata placing the sender.
 
@@ -2345,7 +2345,7 @@ Transcript Snippet: currently the case hinges almost entirely on these text mess
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10337, N-10077
+Related Nodes: N-10316, N-10074
 Tags: relevance:core
 Investigative Direction: Review the prosecution's exhibit list for corroborating evidence beyond the texts.
 
@@ -2361,7 +2361,7 @@ Transcript Snippet: If the steakhouse receipt is confirmed, it removes any possi
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10077, N-10381
+Related Nodes: N-10074, N-10354
 Supports: C-12913
 Tags: relevance:core
 Investigative Direction: Obtain the receipt timestamp and the messages' device metadata to compare the locations.
@@ -2410,7 +2410,7 @@ Transcript Snippet: this relies on the memory of the server, right? Or the serve
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Obtain the bank or card-network record of the transaction to remove reliance on witness memory.
 
@@ -2426,7 +2426,7 @@ Transcript Snippet: We confirmed he was there, what hotel he was at.
 
 Anchored Artifacts: 
 Mentions: N-361
-Related Nodes: N-10375
+Related Nodes: N-10342
 Supports: C-8925
 Tags: relevance:core
 Investigative Direction: Obtain Snow's hotel folio and the military police incident record.
@@ -2443,7 +2443,7 @@ Transcript Snippet: But can we confirm that he actually saw Erika Kirk in the lo
 
 Anchored Artifacts: 
 Mentions: N-361, N-2, N-266
-Related Nodes: N-10373, N-10375
+Related Nodes: N-10347, N-10342
 Tags: relevance:core
 Investigative Direction: Look for lobby camera footage, guest registration or third-party witnesses to corroborate Snow's sighting.
 
@@ -2459,7 +2459,7 @@ Transcript Snippet: Was somebody dressed like him, looked like him, but had his 
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Compare the card-holder identity on the transaction record with Robinson's and obtain surveillance of the person at the restaurant.
 
@@ -2475,7 +2475,7 @@ Transcript Snippet: So, I'm not just putting this on the timeline, unofficial ti
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10024, N-10381
+Related Nodes: N-10024, N-10354
 Tags: relevance:context
 Investigative Direction: Compare the host's current timeline version with earlier versions for the Smokehouse entry.
 
@@ -2491,7 +2491,7 @@ Transcript Snippet: what I am going to suggest will come out uh during this tria
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Watch the trial exhibit lists and defense disclosures for the card transaction record.
 
@@ -2507,7 +2507,7 @@ Transcript Snippet: It is now the job of Tyler Robinson's defense team to confir
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10581, N-10381
+Related Nodes: N-10532, N-10354
 Tags: relevance:core
 Investigative Direction: Check whether the defense subpoenaed card-network or merchant records for the Cowboy Smokehouse transaction.
 
@@ -2523,7 +2523,7 @@ Transcript Snippet: Paleo Valley uses 100% grass-fed and grass-finish beef sourc
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10953
+Related Nodes: N-10874
 Tags: relevance:tangential
 Investigative Direction: Check Paleo Valley's published sourcing claims; sponsor read recorded as said.
 
@@ -2539,7 +2539,7 @@ Transcript Snippet: Researchers have found that low levels of C-15 may impact ho
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-11409
+Related Nodes: N-11325
 Tags: relevance:tangential
 Investigative Direction: Check the cited research on C15 and cellular aging; sponsor read recorded as said.
 
@@ -2621,7 +2621,7 @@ Transcript Snippet: It's so crazy that they would even have him training student
 
 Anchored Artifacts: A-2435.4
 Mentions: N-18
-Related Nodes: N-11262
+Related Nodes: N-11178
 Tags: relevance:context
 Investigative Direction: Confirm Wilson's role with TPUSA training programs through TPUSA announcements.
 
@@ -2750,7 +2750,7 @@ Transcript Snippet: Email us more tips canoners. com. Maybe you are Blake Harref
 
 Anchored Artifacts: A-3352.2
 Mentions: N-896, N-3
-Related Nodes: N-11310
+Related Nodes: N-11226
 Tags: relevance:core, dia
 Investigative Direction: Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.
 

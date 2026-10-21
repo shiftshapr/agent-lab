@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: af9d7478540e605b0d93fec65bec36ded2c5822785e3273b1e7fd2f45e84709d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-910, N-911, N-11344, N-11345
-  - Tip-minted Nodes (reintro-ep083): N-597, N-624, N-647, N-11208
+  - Tip-minted Nodes (supplement_2026-10f): N-910, N-911, N-11260, N-11261
+  - Tip-minted Nodes (reintro-ep083): N-597, N-624, N-647, N-11124
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7418–C-7506
   - (see registers)
@@ -32,8 +32,8 @@
 ## Episode 83 Ledger Summary
 
 - Artifact Families Introduced: A-1895, A-1896, A-1897, A-1898, A-1899, A-1900, A-1901, A-1902
-  - New Nodes Introduced: N-10562, N-10563, N-10564, N-10565
-  - Reused Nodes Appearing: N-11, N-10560, N-10561, N-5, N-15, N-40, N-69, N-186, N-227, N-268, N-489, N-494, N-579, N-10000, N-10015, N-10074, N-10110, N-10190, N-10193, N-10198, N-10202, N-10245, N-10307, N-10324, N-10355, N-10362, N-10483, N-10546, N-10548, N-10551, N-10554, N-10555, N-10866, N-10925, N-10956, N-11218
+  - New Nodes Introduced: N-10514, N-10515, N-10516, N-10517
+  - Reused Nodes Appearing: N-11, N-10502, N-10513, N-5, N-15, N-40, N-69, N-186, N-227, N-268, N-489, N-494, N-579, N-10000, N-10015, N-10071, N-10106, N-10182, N-10185, N-10190, N-10194, N-10231, N-10289, N-10303, N-10332, N-10338, N-10449, N-10501, N-10505, N-10507, N-10508, N-10787, N-10846, N-10877, N-11134
 - Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erika Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacy Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
 ## 6. Meme Register
@@ -136,7 +136,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7423, N-2, N-10560*
+*Related: C-7423, N-2, N-10502*
 
 **A-1896** Alexis Wilkins X Thread (13-part)
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:28:11–00:39:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7478, C-7484, C-7480, C-7483, C-7485, C-7487, N-3, N-10563*
+*Related: C-7478, C-7484, C-7480, C-7483, C-7485, C-7487, N-3, N-10515*
 
 **A-1896.2** Yair Netanyahu retweet of Alexis Wilkins thread
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:39:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7492, N-10563*
+*Related: C-7492, N-10515*
 
 **A-1897** Daily Wire Article – Catholic Convert Boom
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:40:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7493, N-10564*
+*Related: C-7493, N-10516*
 
 **A-1898** Nick Searcy Confirmation – Andrew Kolvet Livestream
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:21:05–00:24:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7463, N-10562*
+*Related: C-7463, N-10514*
 
 **A-1900** Catholic Growth News Articles Bundle
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:42:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7497, N-10564*
+*Related: C-7497, N-10516*
 
 **A-1900.2** News article: "More Americans joining Catholic Church than leaving for the first time in decades" (August 2025)
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:42:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7498, N-10564*
+*Related: C-7498, N-10516*
 
 **A-1900.3** London Times article: "Catholics outnumber Anglicans two to one among Gen Z churchgoers"
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:43:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7499, N-10564*
+*Related: C-7499, N-10516*
 
 **A-1901** Allie Stuckey Twitter Exchange on Catholic Growth
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:41:40–00:42:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7496, N-10564*
+*Related: C-7496, N-10516*
 
 **A-1902** Elizabeth Kravchuk McCoy Account of September 10
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:11:23–00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7432, C-7439, C-7440, C-7441, N-10561, N-10565*
+*Related: C-7432, C-7439, C-7440, C-7441, N-10513, N-10517*
 
 **A-1902.2** Per McCoy's account: Mikey McCoy met the party at the Utah airport; Elizabeth went in with Erica to see Charlie's body; Katherine LoCastro was sent to retrieve an item from the bloodied car
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:18:09–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7454, N-10561*
+*Related: C-7454, N-10513*
 
 ---
 
@@ -324,18 +324,7 @@ Confidence Level: Medium
 
 # Node Register
 
-**N-10560** Tarmac Hug Timeline Reconciliation Question
-
-Persistent investigative target: Frank Turek estimates Erica at hospital around 4:00 p.m.; the plane allegedly carrying Andrew Kolvet landed approximately 4:40 p.m.; transit to hospital is at minimum 20 minutes. The host's reconciliation hypothesis: Erica arrived on an earlier flight; Andrew landed aboard Charlie's plane at 3:31 p.m. Utah time.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1895.1, C-7423, C-7429, N-2, N-10565*
-
-**N-10561** Stacy Sheridan September 10 Location Verification
+**N-10513** Stacy Sheridan September 10 Location Verification
 
 Stacy Sheridan allegedly not at the TPUSA Scottsdale office on September 10 and "allegedly home in Scottsdale." Host issues an "APB" for sightings.
 
@@ -346,7 +335,7 @@ Investigative Pressure: Medium
 
 *Related: A-1902.1, C-7441*
 
-**N-10562** Hopkinson Aircraft Erica Sighting Confirmation
+**N-10514** Hopkinson Aircraft Erica Sighting Confirmation
 
 Whether Erika Kirk was physically present at Hopkinson Aircraft on September 10, 2025; the only contacted witness declined to confirm or deny.
 
@@ -357,7 +346,7 @@ Investigative Pressure: Medium
 
 *Related: A-1899.1, C-7463*
 
-**N-10563** Alexis Wilkins 13-Part Thread Analysis
+**N-10515** Alexis Wilkins 13-Part Thread Analysis
 
 Verification and substantive analysis of the allegations in Alexis Wilkins's X thread alleging a 22-month foreign-linked influence operation and identifying Candace, Tucker, Joe Kent, and General Flynn as network participants.
 
@@ -368,7 +357,7 @@ Investigative Pressure: Low
 
 *Related: A-1896.1, A-1896.2, C-7478, C-7484, C-7480, C-7483, C-7485, C-7487, C-7492*
 
-**N-10564** Catholic Church Growth Discourse
+**N-10516** Catholic Church Growth Discourse
 
 Set of public-facing artifacts (Daily Wire article, news items, prior Allie Stuckey tweet) documenting the discursive shift on Catholic Church growth in the U.S. and the Zionism/anti-Zionism framing.
 
@@ -379,7 +368,7 @@ Investigative Pressure: Low
 
 *Related: A-1897.1, A-1900.1, A-1900.2, A-1900.3, A-1901.1, C-7493, C-7497, C-7498, C-7499, C-7496*
 
-**N-10565** Erika Kirk Arizona Activity Verification Gap
+**N-10517** Erika Kirk Arizona Activity Verification Gap
 
 Persistent target: verification of Erica's whereabouts in the late-morning to early-afternoon window on September 10, 2025 (TPUSA office presence, time with mother, time at Hopkinson Aircraft, time at airport). Multiple alibis are described; cross-witness consistency is incomplete.
 
@@ -388,7 +377,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1899.1, A-1902.1, C-7463, C-7441, N-10560, N-10561, N-10562*
+*Related: A-1899.1, A-1902.1, C-7463, C-7441, N-10502, N-10513, N-10514*
 
 ---
 
@@ -601,7 +590,7 @@ Mossad; subject of the thread's Mossad spy label.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Provo, Utah; airport and hospital route discussed.
 
@@ -609,7 +598,7 @@ Provo, Utah; airport and hospital route discussed.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing topic reused for the bullet, wound and Robinson statements.
 
@@ -617,7 +606,7 @@ Existing topic reused for the bullet, wound and Robinson statements.
 
 ---
 
-**N-10190** Signature FBO / Million Air FBO (entity cluster)
+**N-10182** Signature FBO / Million Air FBO (entity cluster)
 
 Existing topic reused for the FBO where the airport events took place.
 
@@ -625,7 +614,7 @@ Existing topic reused for the FBO where the airport events took place.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Existing topic reused for Mikey McCoy's call sequence.
 
@@ -633,7 +622,7 @@ Existing topic reused for Mikey McCoy's call sequence.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Existing topic reused for Mikey McCoy's behavior on September 10.
 
@@ -641,7 +630,7 @@ Existing topic reused for Mikey McCoy's behavior on September 10.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for Patel's handling and the host's Patel theory.
 
@@ -649,7 +638,7 @@ Existing topic reused for Patel's handling and the host's Patel theory.
 
 ---
 
-**N-10245** Alexis Wilkins Honeypot Allegation Lawsuit
+**N-10231** Alexis Wilkins Honeypot Allegation Lawsuit
 
 Existing topic reused for the Wilkins honeypot lawsuits.
 
@@ -657,7 +646,7 @@ Existing topic reused for the Wilkins honeypot lawsuits.
 
 ---
 
-**N-10307** TPUSA Phoenix Livestream Verification Question
+**N-10289** TPUSA Phoenix Livestream Verification Question
 
 Existing topic reused for the Kolvet livestream timing question.
 
@@ -665,7 +654,7 @@ Existing topic reused for the Kolvet livestream timing question.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for the Epstein files.
 
@@ -673,7 +662,7 @@ Existing topic reused for the Epstein files.
 
 ---
 
-**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
 
 Existing topic reused for the Patel and Joe Kent dispute.
 
@@ -681,7 +670,7 @@ Existing topic reused for the Patel and Joe Kent dispute.
 
 ---
 
-**N-10362** Vehicle Disposition Question
+**N-10338** Vehicle Disposition Question
 
 Existing topic reused for the custody of the SUV.
 
@@ -689,7 +678,7 @@ Existing topic reused for the custody of the SUV.
 
 ---
 
-**N-10483** Erika's Mother Medical Narrative
+**N-10449** Erika's Mother Medical Narrative
 
 Existing topic reused for Erika's mother narrative.
 
@@ -697,7 +686,7 @@ Existing topic reused for Erika's mother narrative.
 
 ---
 
-**N-10546** Joe Kent Resignation Aftermath Pattern
+**N-10501** Joe Kent Resignation Aftermath Pattern
 
 Existing topic reused for Joe Kent's resignation.
 
@@ -705,7 +694,7 @@ Existing topic reused for Joe Kent's resignation.
 
 ---
 
-**N-10548** Tarmac Hug Account Discrepancy
+**N-10502** Tarmac Hug Account Discrepancy
 
 Existing topic reused for conflicting tarmac hug accounts.
 
@@ -713,7 +702,7 @@ Existing topic reused for conflicting tarmac hug accounts.
 
 ---
 
-**N-10551** Joe Kent Leak Accusation Chain
+**N-10505** Joe Kent Leak Accusation Chain
 
 Existing topic reused for the Joe Kent hospital-source question.
 
@@ -721,7 +710,7 @@ Existing topic reused for the Joe Kent hospital-source question.
 
 ---
 
-**N-10554** Andrew Kolvet 9/10 Flight Itinerary
+**N-10507** Andrew Kolvet 9/10 Flight Itinerary
 
 Existing topic reused for Kolvet's flight on September 10.
 
@@ -729,7 +718,7 @@ Existing topic reused for Kolvet's flight on September 10.
 
 ---
 
-**N-10555** Hopkinson Aircrafts Business Verification
+**N-10508** Hopkinson Aircrafts Business Verification
 
 Existing topic reused for Hopkinson Aircraft's business.
 
@@ -737,7 +726,7 @@ Existing topic reused for Hopkinson Aircraft's business.
 
 ---
 
-**N-10866** Night-of Assassination Aloe Yoga Outfit Directive
+**N-10787** Night-of Assassination Aloe Yoga Outfit Directive
 
 Existing topic reused for the aloe and overnight items story.
 
@@ -745,7 +734,7 @@ Existing topic reused for the aloe and overnight items story.
 
 ---
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 Turning Point Action, the building Frank and Justin ran to.
 
@@ -753,7 +742,7 @@ Turning Point Action, the building Frank and Justin ran to.
 
 ---
 
-**N-10956** Catholics for Catholics
+**N-10877** Catholics for Catholics
 
 Catholics for Catholics; the event used by the thread.
 
@@ -761,7 +750,7 @@ Catholics for Catholics; the event used by the thread.
 
 ---
 
-**N-11208** Timpanogos Hospital Group Arrival Question
+**N-11124** Timpanogos Hospital Group Arrival Question
 
 Existing topic reused for the party's arrival at the hospital.
 
@@ -769,7 +758,7 @@ Existing topic reused for the party's arrival at the hospital.
 
 ---
 
-**N-11218** Timpanogos Regional Hospital
+**N-11134** Timpanogos Regional Hospital
 
 Timpanogos Regional Hospital; destination of the transport time estimate.
 
@@ -793,18 +782,18 @@ First named in a viewer comment at 00:50:53 in episode 083, as organizer of the 
 
 ---
 
-**N-11344** Erika Kirk Death-Notification Account Discrepancy
+**N-11260** Erika Kirk Death-Notification Account Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Competing accounts of how Erika Kirk learned that Charlie was dead: Elizabeth McCoy says she told Erika at the airport terminal, while Erika told the host a doctor called her directly.
 
 *Related: C-7449, C-7450*
 
 ---
 
-**N-11345** Katherine LoCastro Vehicle Retrieval and Overnight Items Question
+**N-11261** Katherine LoCastro Vehicle Retrieval and Overnight Items Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Open question why Katherine LoCastro was sent to retrieve something from the bloodied vehicle, given Charlie carried no bag and agents were said to be guarding it, and what Elizabeth McCoy gathered for the overnight stay.
 
 *Related: C-7455, C-7456, C-7457, C-7458*
@@ -822,7 +811,7 @@ Claim: In a clip the host plays, Frank Turek says Erika Kirk "probably got there
 Anchored Artifacts: A-1895.1
 Mentions: N-2, N-7
 
-Related Nodes: N-10560
+Related Nodes: N-10502
 
 Investigative Direction: Obtain the full Frank Turek podcast episode audio and verify the exact quoted time estimate and context.
 
@@ -848,7 +837,7 @@ Claim: The host says that, per Elizabeth McCoy's account, she was the first pers
 Anchored Artifacts: A-1902.1
 Mentions: N-217
 
-Related Nodes: N-10565
+Related Nodes: N-10517
 
 Investigative Direction: Compare McCoy's account with phone records and call detail records from Mikey McCoy's device.
 
@@ -887,7 +876,7 @@ Claim: The host says she can confirm Stacy Sheridan was not at the Turning Point
 Anchored Artifacts: A-1902.1
 Mentions: N-186
 
-Related Nodes: N-10561, N-10565
+Related Nodes: N-10513, N-10517
 
 Investigative Direction: Obtain independent witness sightings or surveillance/phone-location data for September 10.
 
@@ -913,7 +902,7 @@ Claim: The host says a Hopkinson Aircraft employee she spoke with would neither 
 Anchored Artifacts: A-1899.1
 Mentions: N-2
 
-Related Nodes: N-10562, N-10565
+Related Nodes: N-10514, N-10517
 
 Investigative Direction: Identify and contact additional Hopkinson staff or obtain facility access logs/surveillance for September 10.
 
@@ -926,7 +915,7 @@ Claim: Alexis Wilkins published a 13-part X thread alleging a foreign-linked inf
 Anchored Artifacts: A-1896.1
 Mentions: N-3, N-22, N-212, N-209, N-910
 
-Related Nodes: N-10563
+Related Nodes: N-10515
 
 Investigative Direction: Verify the thread's existence, length, and contents via direct archive; assess the substantive claims on their merits.
 
@@ -939,7 +928,7 @@ Claim: The Alexis Wilkins thread alleges that within hours of the Kirk assassina
 Anchored Artifacts: A-1896.1
 Mentions: N-3, N-212, N-1, N-2
 
-Related Nodes: N-10563
+Related Nodes: N-10515
 
 Investigative Direction: Review Candace Owens's posts and public statements from September 10–11, 2025, for any direct attribution and naming.
 
@@ -952,7 +941,7 @@ Claim: The Alexis Wilkins thread identifies General Michael Flynn as the "anchor
 Anchored Artifacts: A-1896.1
 Mentions: N-212, N-910
 
-Related Nodes: N-10563
+Related Nodes: N-10515
 
 Investigative Direction: Verify General Flynn's role as listed at Catholics for Catholics and the basis for the activation claim.
 
@@ -965,7 +954,7 @@ Claim: The Alexis Wilkins thread cites Russia Today's retweet of the narrative a
 Anchored Artifacts: A-1896.1
 Mentions: N-212
 
-Related Nodes: N-10563
+Related Nodes: N-10515
 
 Investigative Direction: Verify RT coverage and assess whether RT retweets constitute evidence of foreign coordination.
 
@@ -978,7 +967,7 @@ Claim: The Alexis Wilkins thread, at "Chapter 3," states that within hours of Ki
 Anchored Artifacts: A-1896.1
 Mentions: N-3, N-212, N-1, N-2
 
-Related Nodes: N-10563
+Related Nodes: N-10515
 
 Investigative Direction: Compare thread text to Candace's on-air and posted statements from September 10–11, 2025.
 
@@ -991,7 +980,7 @@ Claim: The Alexis Wilkins thread treats Joe Kent's resignation as further eviden
 Anchored Artifacts: A-1896.1
 Mentions: N-212, N-209
 
-Related Nodes: N-10563
+Related Nodes: N-10515
 
 Investigative Direction: Verify the cited Russia Today coverage and assess the inferential link.
 
@@ -1004,7 +993,7 @@ Claim: The host says the first person to retweet Alexis Wilkins's thread was Yai
 Anchored Artifacts: A-1896.2
 Mentions: N-212
 
-Related Nodes: N-10563
+Related Nodes: N-10515
 
 Investigative Direction: Verify via direct archive of the thread's early engagement.
 
@@ -1016,7 +1005,7 @@ Claim: The Daily Wire article "The Catholic convert boom is real, but a trouble 
 
 Anchored Artifacts: A-1897.1
 
-Related Nodes: N-10564
+Related Nodes: N-10516
 
 Investigative Direction: Obtain and read the full Daily Wire article to verify exact phrasing.
 
@@ -1028,7 +1017,7 @@ Claim: A referenced news article reports U.S. Catholic population growth trends 
 
 Anchored Artifacts: A-1900.1
 
-Related Nodes: N-10564
+Related Nodes: N-10516
 
 Investigative Direction: Locate and verify the cited article.
 
@@ -1040,7 +1029,7 @@ Claim: An August 2025 news article reports that more Americans are joining the C
 
 Anchored Artifacts: A-1900.2
 
-Related Nodes: N-10564
+Related Nodes: N-10516
 
 Investigative Direction: Locate and verify the cited August 2025 article.
 
@@ -1052,7 +1041,7 @@ Claim: A London Times article reports that Catholics outnumber Anglicans two to 
 
 Anchored Artifacts: A-1900.3
 
-Related Nodes: N-10564
+Related Nodes: N-10516
 
 Investigative Direction: Locate and verify the cited London Times article.
 
@@ -1065,7 +1054,7 @@ Claim: The host says Allie Stuckey replied to her tweet about Catholic Church gr
 Anchored Artifacts: A-1901.1
 Mentions: N-227, N-3
 
-Related Nodes: N-10564
+Related Nodes: N-10516
 
 Investigative Direction: Verify via Twitter/X archive of @AllieStuckey tweets from the cited period.
 
@@ -1078,7 +1067,7 @@ Claim: The host hypothesizes that to reconcile Frank Turek's 4:00 p.m. hospital 
 Anchored Artifacts: A-1895.1 (reconciliation anchor)
 Mentions: N-2, N-14, N-1, N-7
 
-Related Nodes: N-10560
+Related Nodes: N-10502
 
 Investigative Direction: Obtain manifests for all private flights into Provo on September 10; cross-reference with passenger lists and airport surveillance.
 
@@ -1094,7 +1083,7 @@ Transcript Snippet: Impossible according to the timeline that they have presente
 
 Anchored Artifacts: 
 Mentions: N-3, N-7, N-14, N-1
-Related Nodes: N-10560, N-10548
+Related Nodes: N-10502
 Supports: C-7429
 Tags: relevance:core
 Investigative Direction: Compare Turek's podcast estimate with flight-tracking and FBO records for every aircraft that landed at Provo on September 10, 2025.
@@ -1111,7 +1100,7 @@ Transcript Snippet: So, Andrew would of course have been able to uh, message whi
 
 Anchored Artifacts: A-3223.1
 Mentions: N-14, N-3
-Related Nodes: N-10554, N-10307
+Related Nodes: N-10507, N-10289
 Tags: relevance:core
 Investigative Direction: Obtain the aircraft's Wi-Fi provider logs or Kolvet's message timestamps for the flight window.
 
@@ -1127,7 +1116,7 @@ Transcript Snippet: Uh, you can see how I got mixed up. And I was just wrong. It
 
 Anchored Artifacts: A-3223.1
 Mentions: N-14, N-3
-Related Nodes: N-10554, N-10307
+Related Nodes: N-10507, N-10289
 Tags: relevance:core
 Investigative Direction: Compare the host's calendar graphic with the recorded broadcast times of the Charlie Kirk Show on September 10, 2025.
 
@@ -1159,7 +1148,7 @@ Transcript Snippet: The plane in which Erika told me that Andrew was aboard that
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Related Nodes: N-10560, N-10548, N-10554
+Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Pull the landing time of the Provo arrival that carried Kolvet from flight-tracking data.
 
@@ -1175,7 +1164,7 @@ Transcript Snippet: it would take you 20 minutes to get from the Pro- Provo Airp
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10074, N-11218, N-10560
+Related Nodes: N-10071, N-11134, N-10502
 Tags: relevance:core
 Investigative Direction: Measure the route time and check police escort and road-closure records for the afternoon of September 10, 2025.
 
@@ -1191,7 +1180,7 @@ Transcript Snippet: I would say you are looking at, even if you have a police es
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10560, N-11218
+Related Nodes: N-10502, N-11134
 Supports: C-7425
 Tags: relevance:core
 Investigative Direction: Obtain hospital visitor logs, security video and any police escort records showing when Erika arrived.
@@ -1208,7 +1197,7 @@ Transcript Snippet: I don't I don't feel like Frank Turek said she got to the ho
 
 Anchored Artifacts: 
 Mentions: N-7, N-3
-Related Nodes: N-10560
+Related Nodes: N-10502
 Supports: C-7423
 Tags: relevance:core
 Investigative Direction: Ask Turek whether his 4:00 p.m. estimate was based on a clock reading or text timestamps, and compare with hospital records.
@@ -1225,7 +1214,7 @@ Transcript Snippet: Andrew did not make that up. That was real. Okay? He and I w
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10548
+Related Nodes: N-10502
 Supports: C-5410, C-5702
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's own account and any photos or video of the arrival to test the tarmac hug.
@@ -1242,7 +1231,7 @@ Transcript Snippet: Every time we have been confronted with this predicament man
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10548
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: List each Kolvet-versus-Erika discrepancy raised so far and the document that settled it.
 
@@ -1258,7 +1247,7 @@ Transcript Snippet: She was directing Andrew to do those things. She allows Andr
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Related Nodes: N-10548
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Obtain phone records for Erika and Kolvet for September 10, 2025 showing calls between them.
 
@@ -1289,7 +1278,7 @@ Transcript Snippet: what we can confirm was she was certainly at Turning Point U
 
 Anchored Artifacts: 
 Mentions: N-217, N-3
-Related Nodes: N-10000, N-10565
+Related Nodes: N-10000, N-10517
 Supports: C-7432
 Tags: relevance:core
 Investigative Direction: Obtain office badge or access logs for September 10, 2025 and witness statements from staff present.
@@ -1306,7 +1295,7 @@ Transcript Snippet: so much for Frank saying that Charlie trained him anything h
 
 Anchored Artifacts: 
 Mentions: N-190, N-217, N-2, N-1, N-7, N-3
-Related Nodes: N-10193, N-10198
+Related Nodes: N-10185, N-10190
 Supports: C-7439
 Tags: relevance:core
 Investigative Direction: Identify which 'Frank' the host means and obtain Mikey McCoy's call records for the minutes after the shot.
@@ -1338,7 +1327,7 @@ Transcript Snippet: sprints into the office of Frank who is the lawyer at Turnin
 
 Anchored Artifacts: A-1902.1
 Mentions: N-217, N-494, N-15, N-3
-Related Nodes: N-10000, N-10565
+Related Nodes: N-10000, N-10517
 Supports: C-7432
 Tags: relevance:core
 Investigative Direction: Ask Streiff and TPUSA's counsel where they were and who told them at the time of the shot.
@@ -1355,7 +1344,7 @@ Transcript Snippet: Frank and Justin then run to the Turning Point Action buildi
 
 Anchored Artifacts: A-1902.1
 Mentions: N-494, N-15, N-3
-Related Nodes: N-10925
+Related Nodes: N-10846
 Tags: relevance:core
 Investigative Direction: Obtain building access records and staff accounts of who was in the Turning Point Action building at 12:23 p.m. MST.
 
@@ -1371,7 +1360,7 @@ Transcript Snippet: Stacy Sheridan lives with Erika and Charlie the same apartme
 
 Anchored Artifacts: 
 Mentions: N-186, N-2, N-1, N-3
-Related Nodes: N-10561
+Related Nodes: N-10513
 Tags: relevance:context
 Investigative Direction: Confirm through lease or building contacts when Sheridan moved in, without publishing addresses.
 
@@ -1387,7 +1376,7 @@ Transcript Snippet: Cuz I do feel that Erika and Tyler flew together definitivel
 
 Anchored Artifacts: 
 Mentions: N-2, N-11, N-3
-Related Nodes: N-10560, N-10565
+Related Nodes: N-10502, N-10517
 Tags: relevance:core
 Investigative Direction: Obtain passenger manifests for the private flights into Provo on September 10, 2025.
 
@@ -1403,7 +1392,7 @@ Transcript Snippet: Did you see Tyler Bowyer on September 10th at the office? If
 
 Anchored Artifacts: A-3225.1
 Mentions: N-11, N-3
-Related Nodes: N-10565
+Related Nodes: N-10517
 Tags: relevance:core
 Investigative Direction: Collect any dated text, photo or witness account placing Bowyer at the Scottsdale office on September 10, 2025.
 
@@ -1419,7 +1408,7 @@ Transcript Snippet: Forget her friends her family everyone she grew up with reme
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10565
+Related Nodes: N-10517
 Tags: relevance:context
 Investigative Direction: Check Erika's public biography and school records for her Scottsdale upbringing.
 
@@ -1435,7 +1424,7 @@ Transcript Snippet: she receives the phone call that Charlie did not make it. Sh
 
 Anchored Artifacts: A-1902.1
 Mentions: N-217, N-2, N-1, N-3
-Related Nodes: N-10565, N-10190
+Related Nodes: N-10517, N-10182
 Tags: relevance:core
 Investigative Direction: Obtain FBO sign-in records and airport security video showing arrival order at the Scottsdale airport.
 
@@ -1451,7 +1440,7 @@ Transcript Snippet: how close the alleged appointment that she says her her her 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10483, N-10565
+Related Nodes: N-10449, N-10517
 Supports: C-6283
 Tags: relevance:core
 Investigative Direction: Obtain medical appointment records or witnesses for Erika's mother on September 10, 2025.
@@ -1468,7 +1457,7 @@ Transcript Snippet: why has nobody seen Erika or Stacey during all of this
 
 Anchored Artifacts: 
 Mentions: N-2, N-186, N-217, N-3
-Related Nodes: N-10561, N-10565
+Related Nodes: N-10513, N-10517
 Supports: C-7441
 Tags: relevance:core
 Investigative Direction: Seek witnesses, FBO staff and security footage that place Erika or Sheridan at the airport that afternoon.
@@ -1485,7 +1474,7 @@ Transcript Snippet: Elizabeth tells people that she had to break the news to Eri
 
 Anchored Artifacts: A-1902.1
 Mentions: N-217, N-2, N-1, N-3
-Related Nodes: N-11344, N-10190, N-10565
+Related Nodes: N-11260, N-10182, N-10517
 Contradicts: C-7450
 Tags: relevance:core
 Investigative Direction: Obtain statements from others in the terminal and FBO staff, and compare with Erika's own account of who told her.
@@ -1502,7 +1491,7 @@ Transcript Snippet: Erika told me that the doctor called her directly and inform
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
-Related Nodes: N-11344, N-10565
+Related Nodes: N-11260, N-10517
 Tags: relevance:core
 Investigative Direction: Request the hospital's call log and Erika's phone records for the time Charlie was pronounced dead.
 
@@ -1518,7 +1507,7 @@ Transcript Snippet: her name is Katherine LoCastro she was a part of the team th
 
 Anchored Artifacts: A-1902.2
 Mentions: N-597, N-190, N-2, N-3
-Related Nodes: N-11208, N-10565
+Related Nodes: N-11124, N-10517
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest of the aircraft that carried Erika's party to Provo.
 
@@ -1534,7 +1523,7 @@ Transcript Snippet: what is unknown is when or how the priest showed up to the a
 
 Anchored Artifacts: A-1902.2
 Mentions: N-2, N-3
-Related Nodes: N-11208
+Related Nodes: N-11124
 Supports: C-7351
 Tags: relevance:core
 Investigative Direction: Identify the priest and obtain his own account of how he travelled to Utah.
@@ -1551,7 +1540,7 @@ Transcript Snippet: Mikey's assistant Katherine got sick on the plane overwhelme
 
 Anchored Artifacts: A-1902.2
 Mentions: N-597, N-217, N-190, N-14, N-3
-Related Nodes: N-11208, N-10548
+Related Nodes: N-11124, N-10502
 Contradicts: C-5705
 Tags: relevance:core
 Investigative Direction: Compare Elizabeth McCoy's account with Kolvet's tarmac account and with timestamps of the party's hospital arrival.
@@ -1568,7 +1557,7 @@ Transcript Snippet: they sent Katherine who like I said sounds like she's quite 
 
 Anchored Artifacts: A-1902.2
 Mentions: N-597, N-217, N-1, N-3
-Related Nodes: N-11345, N-10362
+Related Nodes: N-11261, N-10338
 Tags: relevance:core
 Investigative Direction: Establish who held custody of the vehicle at the hospital and whether anyone was allowed inside it.
 
@@ -1584,7 +1573,7 @@ Transcript Snippet: Elizabeth left the hospital and went to then gather the item
 
 Anchored Artifacts: A-1902.2
 Mentions: N-217, N-3
-Related Nodes: N-10866, N-11345
+Related Nodes: N-10787, N-11261
 Tags: relevance:core
 Investigative Direction: Trace Elizabeth McCoy's movements and purchases after leaving the hospital on September 10, 2025.
 
@@ -1600,7 +1589,7 @@ Transcript Snippet: Or the feds who we were told by Frank Turek were guarding th
 
 Anchored Artifacts: 
 Mentions: N-7, N-3
-Related Nodes: N-11345, N-10362
+Related Nodes: N-11261, N-10338
 Tags: relevance:core
 Investigative Direction: Find the Turek statement about agents guarding and taping off the SUV and compare with chain-of-custody records.
 
@@ -1616,7 +1605,7 @@ Transcript Snippet: Charlie wasn't traveling with a bag. He had a private plane.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11345
+Related Nodes: N-11261
 Tags: relevance:core
 Investigative Direction: Ask Kirk's travel staff what he carried on the September 10 trip and whether items were later retrieved.
 
@@ -1632,7 +1621,7 @@ Transcript Snippet: I was able to connect by just a very strange set of circumst
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10555, N-10562
+Related Nodes: N-10508, N-10514
 Tags: relevance:core
 Investigative Direction: Verify the employee's employment and role with Hopkinson Aircraft and any contact with Erika on September 10, 2025.
 
@@ -1648,7 +1637,7 @@ Transcript Snippet: And this is apparently where Erika was when she had this lit
 
 Anchored Artifacts: A-1899.1
 Mentions: N-2, N-3
-Related Nodes: N-10555, N-10562, N-10565
+Related Nodes: N-10508, N-10514, N-10517
 Tags: relevance:core
 Investigative Direction: Obtain the source of the claim that Erika was at the Hopkinson building and any facility visitor records.
 
@@ -1664,7 +1653,7 @@ Transcript Snippet: they are not a CIA front company. They do real business.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10555
+Related Nodes: N-10508
 Tags: relevance:context
 Investigative Direction: Check Hopkinson Aircraft's business registration, customers and history.
 
@@ -1680,7 +1669,7 @@ Transcript Snippet: he was there when she got the news that Charlie was dead, bu
 
 Anchored Artifacts: A-1899.1
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10562, N-10565
+Related Nodes: N-10514, N-10517
 Tags: relevance:core
 Investigative Direction: Obtain the friend's text and ask the contact directly what he saw and where.
 
@@ -1696,7 +1685,7 @@ Transcript Snippet: And did you tell people this?" And then it was like I will n
 
 Anchored Artifacts: A-1899.1
 Mentions: N-2, N-3
-Related Nodes: N-10562, N-10565
+Related Nodes: N-10514, N-10517
 Supports: C-7463
 Tags: relevance:core
 Investigative Direction: Ask the mutual friend who first relayed that the contact saw Erika, and seek the contact's on-record statement.
@@ -1713,7 +1702,7 @@ Transcript Snippet: They're just going to tell us that there's a bullet that the
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Obtain the ballistics report and the state's court filings on the recovered bullet and fragments.
 
@@ -1729,7 +1718,7 @@ Transcript Snippet: Joe Rogan, as I told you, uh similarly has weighed into this
 
 Anchored Artifacts: A-3224.1
 Mentions: N-268, N-3, N-1
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:context
 Investigative Direction: Locate the full Rogan episode and check the speaker attribution for the played segment.
 
@@ -1745,7 +1734,7 @@ Transcript Snippet: That's a round you can kill a moose with.
 
 Anchored Artifacts: A-3224.1
 Mentions: N-268, N-1
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare against the autopsy and ballistics findings on wound path and exit.
 
@@ -1761,7 +1750,7 @@ Transcript Snippet: He said that they were told to stop their investigation. Yea
 
 Anchored Artifacts: A-3224.1
 Mentions: N-268, N-209
-Related Nodes: N-10546, N-10355
+Related Nodes: N-10501, N-10332
 Tags: relevance:core
 Investigative Direction: Check Joe Kent's resignation letter and public statements on any instruction to stop investigating.
 
@@ -1777,7 +1766,7 @@ Transcript Snippet: He hasn't said he did it. He hasn't said he didn't do it. Th
 
 Anchored Artifacts: A-3224.1
 Mentions: N-40, N-268
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Review the court record for any statement by Robinson and for any recorded jail or court audio.
 
@@ -1793,7 +1782,7 @@ Transcript Snippet: And then there was footage of him like at a yogurt shop. Rig
 
 Anchored Artifacts: A-3224.1
 Mentions: N-40, N-268
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Locate the yogurt shop footage, its timestamp and its source, and compare with the shooting time.
 
@@ -1809,7 +1798,7 @@ Transcript Snippet: I think he's now seeking his revenge on people who he feels 
 
 Anchored Artifacts: A-1896.1
 Mentions: N-69, N-212, N-3
-Related Nodes: N-10563, N-10202
+Related Nodes: N-10515, N-10194
 Tags: relevance:context
 Investigative Direction: Compare the thread's timing and wording with any public Patel statements and check for coordination.
 
@@ -1825,7 +1814,7 @@ Transcript Snippet: we're flying to see her on the FBI plane going to see her in
 
 Anchored Artifacts: 
 Mentions: N-69, N-212, N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Supports: C-2243
 Tags: relevance:context
 Investigative Direction: Obtain FBI aircraft flight logs and Patel's travel records for the Tennessee trips.
@@ -1842,7 +1831,7 @@ Transcript Snippet: He has also sent a police force to protect her. Like where I
 
 Anchored Artifacts: 
 Mentions: N-69, N-212, N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:context
 Investigative Direction: Ask the FBI or the relevant agency whether any protective detail has been assigned to Wilkins and at whose cost.
 
@@ -1858,7 +1847,7 @@ Transcript Snippet: she began suing content creators claiming that it harmed her
 
 Anchored Artifacts: 
 Mentions: N-212, N-3
-Related Nodes: N-10245
+Related Nodes: N-10231
 Supports: C-2701
 Tags: relevance:context
 Investigative Direction: Review the docket of Wilkins's lawsuit and the list of defendants.
@@ -1891,7 +1880,7 @@ Transcript Snippet: she's claiming that she began building a a program or a data
 
 Anchored Artifacts: A-1896.1
 Mentions: N-212, N-3
-Related Nodes: N-10563, N-10245
+Related Nodes: N-10515, N-10231
 Tags: relevance:context
 Investigative Direction: Request the data set and code Wilkins says she built and review the method.
 
@@ -1907,7 +1896,7 @@ Transcript Snippet: she presented this theory in a 13-part thread explaining how
 
 Anchored Artifacts: A-1896.1
 Mentions: N-212, N-3, N-22, N-209, N-910
-Related Nodes: N-10563, N-10956
+Related Nodes: N-10515, N-10877
 Supports: C-7478
 Tags: relevance:context
 Investigative Direction: Read the archived thread and check which of its claims have supporting data.
@@ -1924,7 +1913,7 @@ Transcript Snippet: I was falsely labeled a a Mossad spy and then she says she n
 
 Anchored Artifacts: A-1896.1
 Mentions: N-212, N-3
-Related Nodes: N-10563, N-10015, N-10245
+Related Nodes: N-10515, N-10015, N-10231
 Tags: relevance:context
 Investigative Direction: Check the thread and the retweet timestamps to test whether the pairing is unusual.
 
@@ -1940,7 +1929,7 @@ Transcript Snippet: General Michael Flynn spoke there. By the way, that's the fi
 
 Anchored Artifacts: A-1896.1
 Mentions: N-910, N-3
-Related Nodes: N-10956
+Related Nodes: N-10877
 Tags: relevance:context
 Investigative Direction: Check the event program and recordings for who spoke and when.
 
@@ -1956,7 +1945,7 @@ Transcript Snippet: So she's now putting this at the event that I spoke to a cou
 
 Anchored Artifacts: A-1896.1
 Mentions: N-212, N-3
-Related Nodes: N-10956, N-10563
+Related Nodes: N-10877, N-10515
 Tags: relevance:context
 Investigative Direction: Confirm the date of the event and the list of speakers.
 
@@ -1972,7 +1961,7 @@ Transcript Snippet: I was not naming Erika. I said nice things about Erika about
 
 Anchored Artifacts: A-1896.1
 Mentions: N-3, N-2, N-212
-Related Nodes: N-10563
+Related Nodes: N-10515
 Contradicts: C-7485
 Tags: relevance:core
 Investigative Direction: Review the host's posts and episodes from September 10 to 12, 2025 for any mention of Erika by name.
@@ -1989,7 +1978,7 @@ Transcript Snippet: that is literally only the I think second time I've ever eve
 
 Anchored Artifacts: 
 Mentions: N-3, N-209
-Related Nodes: N-10956, N-10546
+Related Nodes: N-10877, N-10501
 Tags: relevance:context
 Investigative Direction: Check earlier public appearances or contacts between the host and Joe Kent.
 
@@ -2005,7 +1994,7 @@ Transcript Snippet: the data um clearly demonstrates that the same people that a
 
 Anchored Artifacts: A-1896.1
 Mentions: N-212, N-209, N-1, N-3
-Related Nodes: N-10563, N-10546
+Related Nodes: N-10515, N-10501
 Tags: relevance:context
 Investigative Direction: Obtain the thread's data and methodology and test whether the overlap is distinctive.
 
@@ -2021,7 +2010,7 @@ Transcript Snippet: When people are upset that Trump says are we still talking a
 
 Anchored Artifacts: 
 Mentions: N-5, N-579, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:tangential
 Investigative Direction: Review the Epstein Files Transparency Act record and Massie's public statements on the White House position.
 
@@ -2037,7 +2026,7 @@ Transcript Snippet: She also mentions his his philosopher um Alexander Dugin
 
 Anchored Artifacts: A-1896.1
 Mentions: N-212, N-624, N-647, N-3
-Related Nodes: N-10563
+Related Nodes: N-10515
 Tags: relevance:context
 Investigative Direction: Check the thread text for the Dugin reference and its role in the argument.
 
@@ -2053,7 +2042,7 @@ Transcript Snippet: Many prominent members of the church have spoken out about t
 
 Anchored Artifacts: A-1897.1
 Mentions: N-3
-Related Nodes: N-10564
+Related Nodes: N-10516
 Tags: relevance:tangential
 Investigative Direction: Obtain the article and confirm the passage and its author.
 
@@ -2069,7 +2058,7 @@ Transcript Snippet: Oh, it's so great. All around the world the Catholic Church 
 
 Anchored Artifacts: A-1901.1
 Mentions: N-3, N-227
-Related Nodes: N-10564
+Related Nodes: N-10516
 Tags: relevance:tangential
 Investigative Direction: Retrieve the host's April 2025 post and Stuckey's reply from the X archive.
 
@@ -2085,7 +2074,7 @@ Transcript Snippet: she doesn't like that Joe Kent's Catholic and I'm Catholic o
 
 Anchored Artifacts: 
 Mentions: N-209, N-3, N-22, N-212
-Related Nodes: N-10564
+Related Nodes: N-10516
 Tags: relevance:tangential
 Investigative Direction: Check public statements on Carlson's and Kent's religious affiliations.
 
@@ -2101,7 +2090,7 @@ Transcript Snippet: Andrew was the one who had called me and said that like, you
 
 Anchored Artifacts: 
 Mentions: N-14, N-3, N-22, N-2
-Related Nodes: N-10551
+Related Nodes: N-10505
 Supports: C-3399, C-2931
 Tags: relevance:core
 Investigative Direction: Obtain the host's call log with Kolvet from September 10 and any record of the warning.
@@ -2118,7 +2107,7 @@ Transcript Snippet: she was like, well, was he your source at the hospital? And 
 
 Anchored Artifacts: 
 Mentions: N-2, N-209, N-14, N-3
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Compare with the host's notes from her meeting with Erika and any other account of that exchange.
 
@@ -2134,7 +2123,7 @@ Transcript Snippet: Pretty rich Wilkins is implicating General Flynn since he wa
 
 Anchored Artifacts: A-3226.1
 Mentions: N-910, N-69, N-212, N-911, N-3
-Related Nodes: N-10563
+Related Nodes: N-10515
 Tags: relevance:context
 Investigative Direction: Check Awaken America Tour programs and Patel's appearances alongside Flynn and Clay Clark.
 
@@ -2150,7 +2139,7 @@ Transcript Snippet: later on she says that the purpose of this is like to not ge
 
 Anchored Artifacts: A-1896.1
 Mentions: N-212, N-3
-Related Nodes: N-10563
+Related Nodes: N-10515
 Tags: relevance:context
 Investigative Direction: Read the later chapters of the thread for the stated purpose.
 
@@ -2166,7 +2155,7 @@ Transcript Snippet: Um again, APB. Stacy Sheridan on that day. I know I have uh 
 
 Anchored Artifacts: 
 Mentions: N-186, N-3
-Related Nodes: N-10561
+Related Nodes: N-10513
 Supports: C-7441
 Tags: relevance:core
 Investigative Direction: Collect dated sightings, texts or building access records for Sheridan on September 10, 2025.
@@ -2183,7 +2172,7 @@ Transcript Snippet: Still can't get an Erika sighting. Um but I do have a lot of
 
 Anchored Artifacts: 
 Mentions: N-2, N-489, N-3
-Related Nodes: N-10483, N-10565
+Related Nodes: N-10449, N-10517
 Supports: C-7447
 Tags: relevance:core
 Investigative Direction: Compare Erika's account of where she was with records for her mother and any witnesses.

@@ -32,8 +32,8 @@
             "C-12646"
           ],
           "related_nodes": [
-            "N-10141",
-            "N-10826"
+            "N-10136",
+            "N-10749"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -82,7 +82,7 @@
             "C-12684"
           ],
           "related_nodes": [
-            "N-10822"
+            "N-10745"
           ],
           "tags": []
         },
@@ -97,7 +97,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10820"
+            "N-10743"
           ],
           "tags": []
         },
@@ -122,7 +122,7 @@
             "C-12673"
           ],
           "related_nodes": [
-            "N-10821"
+            "N-10744"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -146,8 +146,8 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-40",
-        "N-10820",
-        "N-10822"
+        "N-10743",
+        "N-10745"
       ],
       "tags": [],
       "sub_items": [],
@@ -168,7 +168,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10820"
+        "N-10743"
       ],
       "tags": [],
       "sub_items": [],
@@ -190,7 +190,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [],
       "sub_items": [],
@@ -211,7 +211,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [],
       "sub_items": [],
@@ -232,7 +232,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [],
       "sub_items": [],
@@ -253,7 +253,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [],
       "sub_items": [],
@@ -278,8 +278,8 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-40",
-        "N-10824",
-        "N-10825"
+        "N-10747",
+        "N-10748"
       ],
       "tags": [],
       "sub_items": [],
@@ -304,8 +304,8 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-40",
-        "N-10824",
-        "N-10825"
+        "N-10747",
+        "N-10748"
       ],
       "tags": [],
       "sub_items": [],
@@ -329,7 +329,7 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-40",
-        "N-10823"
+        "N-10746"
       ],
       "tags": [],
       "sub_items": [],
@@ -351,7 +351,7 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-40",
-        "N-10823"
+        "N-10746"
       ],
       "tags": [],
       "sub_items": [],
@@ -421,7 +421,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-11321"
+            "N-11237"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -460,11 +460,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10820",
-      "ref": "N-10820",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10743",
+      "ref": "N-10743",
       "name": "9/10 Vehicle Positioning Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation into the configuration of the five relevant vehicles on the UVU lot, the blocking-in pattern, and the personnel assignment to each. Two security vehicles on the left arrived 9:00–9:30 a.m. before Kirk; the two Denalis and the Hyundai Palisade are the remaining units.",
       "related_artifacts": [
         "A-2329.1",
@@ -483,14 +483,15 @@
       "evidence_count": 5,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10821",
-      "ref": "N-10821",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10744",
+      "ref": "N-10744",
       "name": "Christopher Pre-Shot Location Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Why security member Christopher (driver of Kirk's vehicle) and Nate Walker were walking toward the Sorensen building minutes before the shot, given Kirk's reported prior-night communication that he feared for his life.",
       "related_artifacts": [
         "A-2329.4"
@@ -503,14 +504,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10822",
-      "ref": "N-10822",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10745",
+      "ref": "N-10745",
       "name": "Security Vehicle Keys Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation into how Justin Davis obtained access to Christopher's locked vehicle (carrying Kirk's personal belongings) within ~45 seconds, given that Christopher was upstairs at the time of the shot and the vehicle was supposed to be secured.",
       "related_artifacts": [
         "A-2329.1",
@@ -524,14 +526,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10823",
-      "ref": "N-10823",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10746",
+      "ref": "N-10746",
       "name": "Security Vehicle Hospital Transport Absence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation into why none of the three security SUVs (other than the one Justin Davis ultimately drove) were taken to the hospital after the shot, and what security personnel did in the intervening window.",
       "related_artifacts": [
         "A-2329.1",
@@ -551,14 +554,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10824",
-      "ref": "N-10824",
+      "@type": "Event",
+      "@id": "N-10747",
+      "ref": "N-10747",
       "name": "Political-Motivation X Outrage Cluster (Sept 1, 2026)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Coordinated set of X posts by Matt Walsh, Viva Frei, Graham Allen, Blake Neff, and Brandon Tatum characterizing defense counsel's argument as endorsement of political assassination.",
       "related_artifacts": [
         "A-2332",
@@ -579,14 +583,17 @@
       "evidence_count": 6,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2026-09-01"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10825",
-      "ref": "N-10825",
+      "@type": "Topic",
+      "@id": "N-10748",
+      "ref": "N-10748",
       "name": "Political Motivation Inference Chain (Hearsay Standard)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation into whether the state's chain of inferences – Twiggs's non-gender-conforming identity → Robinson's relationship with Twiggs → Kirk's statements about non-heterosexual persons → Robinson's alleged \"some hate just can't be negotiated\" message → political-motivation enhancement – satisfies Utah Rule 1102 / reliable hearsay standard, or whether it is inferring upon an inference.",
       "related_artifacts": [
         "A-2336",
@@ -606,14 +613,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10826",
-      "ref": "N-10826",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10749",
+      "ref": "N-10749",
       "name": "Defense Witness Tampering Count 6 Constitutional Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation into whether Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text) can constitutionally proceed given Judge Graf's own concession that the advice, standing alone, is lawful and does not establish criminal intent.",
       "related_artifacts": [
         "A-2327",
@@ -631,9 +639,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10141",
+        "N-10136",
         "N-40"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1181,29 +1190,33 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10021",
       "ref": "N-10021",
       "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
         "C-12653",
-        "C-12654"
+        "C-12654",
+        "C-12640",
+        "C-12641",
+        "C-12655"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1213,14 +1226,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1230,14 +1244,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10320",
-      "ref": "N-10320",
-      "name": "Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1248,14 +1263,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1266,14 +1282,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10389",
-      "ref": "N-10389",
+      "@type": "Topic",
+      "@id": "N-10362",
+      "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1284,14 +1301,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10550",
-      "ref": "N-10550",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10504",
+      "ref": "N-10504",
       "name": "Blake Neff \"Two Phones\" Implication",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1301,34 +1319,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10566",
-      "ref": "N-10566",
-      "name": "Tyler Robinson Confession Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-12640",
-        "C-12641",
-        "C-12653",
-        "C-12655"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10632",
-      "ref": "N-10632",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10578",
+      "ref": "N-10578",
       "name": "Tyler Robinson's Grandfather's Position vs. Family Narrative",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1338,14 +1337,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1355,14 +1355,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10686",
-      "ref": "N-10686",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10624",
+      "ref": "N-10624",
       "name": "Hospital Transport Sequence Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1372,14 +1373,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1393,14 +1395,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10818",
-      "ref": "N-10818",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10741",
+      "ref": "N-10741",
       "name": "Jack Hibbs Sequence-of-Events Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1410,14 +1413,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10845",
-      "ref": "N-10845",
+      "@type": "Topic",
+      "@id": "N-10768",
+      "ref": "N-10768",
       "name": "Blake Neff Censorship Statement",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1427,14 +1431,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@type": "Organization",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1444,14 +1449,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11061",
-      "ref": "N-11061",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10979",
+      "ref": "N-10979",
       "name": "Restaurantology Event Green Room Attendance Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1461,14 +1468,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11208",
-      "ref": "N-11208",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11124",
+      "ref": "N-11124",
       "name": "Timpanogos Hospital Group Arrival Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1478,14 +1486,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11215",
-      "ref": "N-11215",
+      "@type": "Topic",
+      "@id": "N-11131",
+      "ref": "N-11131",
       "name": "UVU Security Team Conduct and Ticket-Count Communication",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1495,14 +1504,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11262",
-      "ref": "N-11262",
+      "@type": "Topic",
+      "@id": "N-11178",
+      "ref": "N-11178",
       "name": "Andrew Wilson TPUSA Debate Training Engagement",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1512,14 +1522,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11321",
-      "ref": "N-11321",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11237",
+      "ref": "N-11237",
       "name": "Kirk Security Team Name Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [
         "A-3346"
@@ -1532,14 +1543,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11406",
-      "ref": "N-11406",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11322",
+      "ref": "N-11322",
       "name": "Security Vehicle Block-In Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's argument that the security detail parked its own vehicles in a way that blocked them in at UVU, while Kirk's vehicle could leave.",
       "related_artifacts": [],
       "related_claims": [
@@ -1549,7 +1561,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1600,7 +1613,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-10826"
+        "N-10749"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
@@ -1621,7 +1634,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-10826"
+        "N-10749"
       ],
       "tags": [],
       "claim_timestamp": "00:05:54",
@@ -1638,7 +1651,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-10826"
+        "N-10749"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
@@ -1658,7 +1671,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-10826"
+        "N-10749"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
@@ -1712,7 +1725,7 @@
         "A-2329.1"
       ],
       "related_nodes": [
-        "N-10822"
+        "N-10745"
       ],
       "tags": [],
       "claim_timestamp": "00:20:06",
@@ -1732,7 +1745,7 @@
         "A-2329.2"
       ],
       "related_nodes": [
-        "N-10820"
+        "N-10743"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00",
@@ -1753,7 +1766,7 @@
         "A-2329.2"
       ],
       "related_nodes": [
-        "N-10820"
+        "N-10743"
       ],
       "tags": [],
       "claim_timestamp": "00:21:22",
@@ -1772,7 +1785,7 @@
         "A-2329.3"
       ],
       "related_nodes": [
-        "N-10822"
+        "N-10745"
       ],
       "tags": [],
       "claim_timestamp": "00:22:38",
@@ -1807,7 +1820,7 @@
         "A-2329.4"
       ],
       "related_nodes": [
-        "N-10821"
+        "N-10744"
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
@@ -1827,8 +1840,8 @@
         "A-2329.4"
       ],
       "related_nodes": [
-        "N-10821",
-        "N-10822"
+        "N-10744",
+        "N-10745"
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
@@ -1845,16 +1858,16 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-10820",
-        "N-10822",
-        "N-10823"
+        "N-10743",
+        "N-10745",
+        "N-10746"
       ],
       "tags": [],
       "claim_timestamp": "00:26:16",
       "investigative_direction": "Identify the named sources; cross-reference against vehicle GPS / fleet logs and security team statements.",
       "mentions_person_refs": [
-        "N-10822",
-        "N-10823"
+        "N-10745",
+        "N-10746"
       ]
     },
     {
@@ -1865,7 +1878,7 @@
       "claim": "The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., independently of Charlie Kirk, while he was at the restaurantology event in Salt Lake City.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10820"
+        "N-10743"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
@@ -1884,7 +1897,7 @@
         "A-2331"
       ],
       "related_nodes": [
-        "N-10820"
+        "N-10743"
       ],
       "tags": [],
       "claim_timestamp": "00:12:13",
@@ -1903,7 +1916,7 @@
         "A-2332"
       ],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [],
       "claim_timestamp": "00:39:42",
@@ -1920,7 +1933,7 @@
       "claim": "The host rejects Matt Walsh's 'justifying political assassination' framing, saying the shared video was meant to delude the public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [],
       "claim_timestamp": "00:39:42",
@@ -1939,7 +1952,7 @@
         "A-2333"
       ],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
@@ -1958,7 +1971,7 @@
         "A-2334"
       ],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [],
       "claim_timestamp": "00:40:36",
@@ -1979,7 +1992,7 @@
         "A-2335"
       ],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [],
       "claim_timestamp": "00:40:50",
@@ -2000,8 +2013,8 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-10824",
-        "N-10825"
+        "N-10747",
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:44:15",
@@ -2022,7 +2035,7 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-10825"
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:45:58",
@@ -2042,7 +2055,7 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-10825"
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:47:11",
@@ -2062,7 +2075,7 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-10825"
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
@@ -2081,7 +2094,7 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-10825"
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
@@ -2101,7 +2114,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-10823"
+        "N-10746"
       ],
       "tags": [],
       "claim_timestamp": "00:28:14",
@@ -2121,7 +2134,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-10823"
+        "N-10746"
       ],
       "tags": [],
       "claim_timestamp": "00:30:40",
@@ -2147,7 +2160,7 @@
         "A-2339"
       ],
       "related_nodes": [
-        "N-10823"
+        "N-10746"
       ],
       "tags": [],
       "claim_timestamp": "00:54:25",
@@ -2256,7 +2269,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-10823"
+        "N-10746"
       ],
       "tags": [],
       "claim_timestamp": "00:28:58",
@@ -2326,7 +2339,7 @@
       "claim": "The host says that on the day before the episode she publicly rebuked her former colleague Matt Walsh on X over what she calls one of the more disingenuous narratives about the Tyler Robinson case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [
         "relevance:context"
@@ -2347,8 +2360,8 @@
       "claim": "The host says Robinson's not-guilty plea runs counter to claims from what she calls Department of War propagandists that Tyler's father turned him in because Tyler confessed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
-        "N-10566"
+        "N-10809",
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -2373,7 +2386,7 @@
       "claim": "The host says Tyler Robinson told his father he was not guilty, that his father believes him, and that Tyler went to the police station peaceably after being told he would be brought in either way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -2398,7 +2411,7 @@
       "claim": "The host says the court's finding was unsurprising because reliable hearsay is the standard at this stage and was permissible.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10825"
+        "N-10748"
       ],
       "tags": [
         "relevance:context"
@@ -2440,7 +2453,6 @@
       "claim": "The host says influencers told the audience that Tyler Robinson confessed to his parents when he got home and that his parents admitted this in written statements supporting the prosecution, and that she has said none of this is true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10566",
         "N-10021"
       ],
       "tags": [
@@ -2489,7 +2501,7 @@
       "claim": "The host says influencers are now pivoting to the position that they only ever said Robinson confessed to Lance Twiggs, which she says is false.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -2510,7 +2522,7 @@
       "claim": "The host says she has told viewers that Tyler Robinson would plead not guilty and that his parents and grandparents do not think he is guilty.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10632"
+        "N-10578"
       ],
       "tags": [
         "relevance:core"
@@ -2533,8 +2545,8 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-10820",
-        "N-11321"
+        "N-10743",
+        "N-11237"
       ],
       "tags": [
         "relevance:core"
@@ -2557,8 +2569,8 @@
         "A-3346.1"
       ],
       "related_nodes": [
-        "N-11321",
-        "N-10820"
+        "N-11237",
+        "N-10743"
       ],
       "tags": [
         "relevance:core"
@@ -2580,7 +2592,7 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-10820"
+        "N-10743"
       ],
       "tags": [
         "relevance:core"
@@ -2604,8 +2616,8 @@
         "A-3347.1"
       ],
       "related_nodes": [
-        "N-10823",
-        "N-10686"
+        "N-10746",
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -2628,8 +2640,8 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-10820",
-        "N-11061"
+        "N-10743",
+        "N-10979"
       ],
       "tags": [
         "relevance:core"
@@ -2651,8 +2663,8 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-10820",
-        "N-10821"
+        "N-10743",
+        "N-10744"
       ],
       "tags": [
         "relevance:core"
@@ -2675,8 +2687,8 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-10820",
-        "N-10715"
+        "N-10743",
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2699,7 +2711,7 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2723,7 +2735,7 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-10820"
+        "N-10743"
       ],
       "tags": [
         "relevance:core"
@@ -2745,7 +2757,7 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-10822"
+        "N-10745"
       ],
       "tags": [
         "relevance:core"
@@ -2766,7 +2778,7 @@
       "claim": "The host says people are now saying Charlie Kirk went further and told his security personnel they needed to be on him and no one else.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10320"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2789,7 +2801,7 @@
       "claim": "The host says Charlie Kirk's main security person, whom Kirk arrived with that day, was Christopher, the driver of Kirk's Denali.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10821"
+        "N-10744"
       ],
       "tags": [
         "relevance:core"
@@ -2811,7 +2823,7 @@
         "A-2329.4"
       ],
       "related_nodes": [
-        "N-10821"
+        "N-10744"
       ],
       "tags": [
         "relevance:core"
@@ -2833,8 +2845,8 @@
       "claim": "The host says she has never seen this much security at an event except at the large events such as end-of-year AmFest or SAS, and notes that Kirk feared for his life.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10820",
-        "N-11215"
+        "N-10743",
+        "N-11131"
       ],
       "tags": [
         "relevance:core"
@@ -2857,7 +2869,7 @@
         "A-2329.1"
       ],
       "related_nodes": [
-        "N-10822"
+        "N-10745"
       ],
       "tags": [
         "relevance:core"
@@ -2879,7 +2891,7 @@
         "A-2329.1"
       ],
       "related_nodes": [
-        "N-10822"
+        "N-10745"
       ],
       "tags": [
         "relevance:core"
@@ -2898,7 +2910,7 @@
         "A-2329.2"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2922,7 +2934,7 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-11406"
+        "N-11322"
       ],
       "tags": [
         "relevance:core"
@@ -2941,7 +2953,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -2965,8 +2977,8 @@
       "claim": "The host says it is known that Nate Walker, Blake Neff, Danny Philip and Mikey McCoy were the four who arrived at the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10823",
-        "N-11208"
+        "N-10746",
+        "N-11124"
       ],
       "tags": [
         "relevance:core"
@@ -2991,7 +3003,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -3015,7 +3027,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -3038,7 +3050,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-10550"
+        "N-10504"
       ],
       "tags": [
         "relevance:core"
@@ -3062,7 +3074,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3084,7 +3096,7 @@
       "claim": "The host says the SUV that Blake Neff and Danny Philip used was a big SUV that had been rented, and asks why it was not taken to the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10823"
+        "N-10746"
       ],
       "tags": [
         "relevance:core"
@@ -3105,7 +3117,7 @@
       "claim": "The host says she saw a bunch of people all tweeting the same thing the previous day, that Tyler Robinson's lawyer was arguing that political assassinations are okay.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [
         "relevance:context"
@@ -3128,7 +3140,7 @@
         "A-2332"
       ],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [
         "relevance:context"
@@ -3149,7 +3161,7 @@
       "claim": "The host says viewers should expect to keep seeing a mandate in which things are taken out of context to outrage them, which does not reflect what is happening in the case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10824"
+        "N-10747"
       ],
       "tags": [
         "relevance:context"
@@ -3171,8 +3183,8 @@
         "A-2336"
       ],
       "related_nodes": [
-        "N-10824",
-        "N-10825"
+        "N-10747",
+        "N-10748"
       ],
       "tags": [
         "relevance:core"
@@ -3195,7 +3207,7 @@
         "A-2336"
       ],
       "related_nodes": [
-        "N-10825"
+        "N-10748"
       ],
       "tags": [
         "relevance:core"
@@ -3219,7 +3231,7 @@
         "A-2336"
       ],
       "related_nodes": [
-        "N-10825"
+        "N-10748"
       ],
       "tags": [
         "relevance:core"
@@ -3241,7 +3253,7 @@
       "claim": "The host says the defense's job at a probable cause hearing is not to argue about the client's guilt or whether the client sent the text, but to engage the state's arguments.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10825"
+        "N-10748"
       ],
       "tags": [
         "relevance:context"
@@ -3264,7 +3276,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-10826"
+        "N-10749"
       ],
       "tags": [
         "relevance:context"
@@ -3287,7 +3299,7 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-10825"
+        "N-10748"
       ],
       "tags": [
         "relevance:core"
@@ -3308,7 +3320,7 @@
       "claim": "The host says Andrew Wilson, whom she hoped to talk with about the case, got a call from Turning Point USA, changed all of his opinions and did not know what was going on in the case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11262"
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -3331,7 +3343,7 @@
         "A-2339"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -3356,7 +3368,7 @@
       "claim": "The host says Blake Neff is easily the most community-noted employee of the Charlie Kirk Show and that nobody has been clocked faster as a liar online.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10845"
+        "N-10768"
       ],
       "tags": [
         "relevance:context"
@@ -3398,7 +3410,7 @@
         "A-2340"
       ],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:core"
@@ -3421,7 +3433,7 @@
         "A-2340"
       ],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:core"
@@ -3444,7 +3456,7 @@
         "A-2340"
       ],
       "related_nodes": [
-        "N-10818",
+        "N-10741",
         "N-10025"
       ],
       "tags": [
@@ -3567,7 +3579,7 @@
       "claim": "The host says there are things she is holding back because of the Brian Harpole case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:context"
@@ -3588,7 +3600,7 @@
       "claim": "The host says people are now arguing that Charlie did think he was going to die, which she contrasts with Brian Harpole saying there were no threats the night before and with a conflict between what security and TPUSA recall.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10320"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"

@@ -35,7 +35,7 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-10840"
+            "N-10763"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -64,7 +64,7 @@
             "N-2",
             "N-3",
             "N-14",
-            "N-10842"
+            "N-10765"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -91,7 +91,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10842"
+            "N-10765"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -119,7 +119,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10842"
+            "N-10765"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -147,7 +147,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10841"
+            "N-10764"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -174,7 +174,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10841"
+            "N-10764"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -201,7 +201,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10841"
+            "N-10764"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -276,7 +276,7 @@
             "N-1",
             "N-22",
             "N-159",
-            "N-10845"
+            "N-10768"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -302,7 +302,7 @@
             "C-13336"
           ],
           "related_nodes": [
-            "N-10846"
+            "N-10769"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -320,7 +320,7 @@
             "C-13336"
           ],
           "related_nodes": [
-            "N-10846"
+            "N-10769"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -338,7 +338,7 @@
             "C-13336"
           ],
           "related_nodes": [
-            "N-10846"
+            "N-10769"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -356,7 +356,7 @@
             "C-13336"
           ],
           "related_nodes": [
-            "N-10846"
+            "N-10769"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
             "C-13336"
           ],
           "related_nodes": [
-            "N-10846"
+            "N-10769"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -392,7 +392,7 @@
             "C-13336"
           ],
           "related_nodes": [
-            "N-10846"
+            "N-10769"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -421,7 +421,7 @@
             "N-2",
             "N-3",
             "N-14",
-            "N-10841"
+            "N-10764"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -440,7 +440,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10841"
+            "N-10764"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -459,7 +459,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10843"
+            "N-10766"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -476,7 +476,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-14",
-            "N-10841"
+            "N-10764"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -503,7 +503,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10840"
+            "N-10763"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -571,7 +571,7 @@
             "C-13340"
           ],
           "related_nodes": [
-            "N-10846",
+            "N-10769",
             "N-3"
           ],
           "tags": [],
@@ -598,8 +598,8 @@
             "C-13306"
           ],
           "related_nodes": [
-            "N-11314",
-            "N-10840"
+            "N-11230",
+            "N-10763"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -624,8 +624,8 @@
             "C-13322"
           ],
           "related_nodes": [
-            "N-11221",
-            "N-10841",
+            "N-11137",
+            "N-10764",
             "N-3"
           ],
           "tags": [],
@@ -653,7 +653,7 @@
           "related_nodes": [
             "N-330",
             "N-3",
-            "N-11313"
+            "N-11229"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -715,9 +715,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10841",
-        "N-10842",
-        "N-10844"
+        "N-10764",
+        "N-10765",
+        "N-10767"
       ]
     },
     {
@@ -763,15 +763,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10845"
+        "N-10768"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10840",
-      "ref": "N-10840",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10763",
+      "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent contradiction between TPUSA's November 2025 admission (TPUSA UVU chapter declined ambulance) and TPUSA's later filing framing the absence as wrongful death by others. Reinforced by @spilling the TPUSA/anniversary observation.",
       "related_artifacts": [
         "A-2393.1",
@@ -790,14 +790,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10841",
-      "ref": "N-10841",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10764",
+      "ref": "N-10764",
       "name": "Nampa Christian School Opt-In Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Discrepancy between TPUSA's claim that 500+ students voluntarily attended and parent/student reports that attendance was a school-mandated assembly, plus Andrew Kolvet's \"three opt-outs\" reply.",
       "related_artifacts": [
         "A-2397.1",
@@ -822,14 +823,15 @@
         "N-1",
         "N-2",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10842",
-      "ref": "N-10842",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10765",
+      "ref": "N-10765",
       "name": "2019 Text Thread Provenance Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Provenance question around the 4plebs post allegedly found by \"E\" (Erika Frantzve) and forwarded by Andrew Kolvet in November 2019, and the Vox article Kolvet cited as the path to that post.",
       "related_artifacts": [
         "A-2394.1",
@@ -849,14 +851,15 @@
         "N-2",
         "N-3",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10843",
-      "ref": "N-10843",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10766",
+      "ref": "N-10766",
       "name": "TPUSA No-Marketing Security Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Contradiction between Andrew Kolvet's X-stated rationale (\"we don't market the event publicly for security reasons\") and TPUSA's prior public framing of Prove Me Wrong / Club America events as unticketed and open to public.",
       "related_artifacts": [
         "A-2393.1",
@@ -873,14 +876,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10844",
-      "ref": "N-10844",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10767",
+      "ref": "N-10767",
       "name": "Empress Films / Erika Kirk Aug 2025 Call Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question about nature and purpose of August 28, 2025 call between Erika Kirk, Andrew Kolvet, and Empress Films executives (Emma Cooper, Eben Davidson), as raised by host with \"Baron Coleman.\"",
       "related_artifacts": [],
       "related_claims": [
@@ -894,15 +898,16 @@
       "related_nodes": [
         "N-2",
         "N-14",
-        "N-10846"
-      ]
+        "N-10769"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10845",
-      "ref": "N-10845",
+      "@type": "Topic",
+      "@id": "N-10768",
+      "ref": "N-10768",
       "name": "Blake Neff Censorship Statement",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Blake Neff's verbatim statement that \"we may have to make our peace with censorship\" per Politico profile, criticized by Tucker Carlson.",
       "related_artifacts": [
         "A-2400.1",
@@ -921,14 +926,15 @@
         "N-1",
         "N-22",
         "N-159"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10846",
-      "ref": "N-10846",
+      "@type": "Organization",
+      "@id": "N-10769",
+      "ref": "N-10769",
       "name": "Empress Films (Entity)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Documentary company founded by Emma Cooper in 2020; production focus described as true crime / murder mystery; described by host as politically left-leaning.",
       "related_artifacts": [
         "A-2402.1",
@@ -948,8 +954,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10844"
-      ]
+        "N-10767"
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1213,11 +1221,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10003",
       "ref": "N-10003",
       "name": "Charlie-Candace Friendship Continuity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1233,14 +1241,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1264,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for the host's report of the Fulton Library Quad suggestion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1272,14 +1283,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10071",
-      "ref": "N-10071",
+      "@type": "Organization",
+      "@id": "N-10068",
+      "ref": "N-10068",
       "name": "ABC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization; ABC News published the November 18 report the host reads.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,14 +1306,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@type": "Place",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place; the host says the Black Leadership Summit took place there in October 2019.",
       "related_artifacts": [],
       "related_claims": [
@@ -1310,14 +1325,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1334,14 +1351,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10533",
-      "ref": "N-10533",
+      "@type": "Topic",
+      "@id": "N-10488",
+      "ref": "N-10488",
       "name": "Club America High School Pushback",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1355,14 +1374,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10872",
-      "ref": "N-10872",
+      "@type": "Topic",
+      "@id": "N-10793",
+      "ref": "N-10793",
       "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1375,14 +1395,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10873",
-      "ref": "N-10873",
+      "@type": "Topic",
+      "@id": "N-10794",
+      "ref": "N-10794",
       "name": "Scripps Media Bodycam Pattern (Robinson + Cole)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1393,14 +1414,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11147",
-      "ref": "N-11147",
+      "@type": "Topic",
+      "@id": "N-11064",
+      "ref": "N-11064",
       "name": "January 6 Federal Coordination Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1410,14 +1432,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11221",
-      "ref": "N-11221",
+      "@type": "Organization",
+      "@id": "N-11137",
+      "ref": "N-11137",
       "name": "Newsweek",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization; the host says parents' letter appeared there.",
       "related_artifacts": [],
       "related_claims": [
@@ -1427,14 +1450,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11246",
-      "ref": "N-11246",
+      "@type": "Organization",
+      "@id": "N-11162",
+      "ref": "N-11162",
       "name": "Proclaim Streetwear",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for the host's mention of Erika's clothing brand (transcribed \"Proclaim 365\").",
       "related_artifacts": [],
       "related_claims": [
@@ -1444,14 +1469,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11057",
-      "ref": "N-11057",
+      "@type": "Topic",
+      "@id": "N-10975",
+      "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1463,14 +1490,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11312",
-      "ref": "N-11312",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11228",
+      "ref": "N-11228",
       "name": "Kolvet PR Role for Erika Kirk August 2025 Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's report, from people who worked with Andrew Kolvet, that TPUSA did not normally handle Erika Kirk's media outside TPUSA Faith events and her question why he was doing so in August 2025.",
       "related_artifacts": [],
       "related_claims": [
@@ -1481,12 +1509,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11313",
-      "ref": "N-11313",
+      "@id": "N-11229",
+      "ref": "N-11229",
       "name": "Candace Owens Leave and Baron Coleman Substitute Hosting",
       "type": "topic",
       "description": "The host's statements that she is very pregnant and will be away about eight weeks, with Baron Coleman taking over the show.",
@@ -1499,12 +1528,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11314",
-      "ref": "N-11314",
+      "@id": "N-11230",
+      "ref": "N-11230",
       "name": "Kirk Family Wrongful Death Ambulance Allegation",
       "type": "topic",
       "description": "The Kirk family lawyer's reported filing alleging that the absence of an ambulance on standby at UVU was negligent and amounted to wrongful death, which the host contrasts with TPUSA's 2025 statements to ABC.",
@@ -1517,7 +1547,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10763"
     }
   ],
   "claims": [
@@ -1531,7 +1563,7 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-10840"
+        "N-10763"
       ],
       "tags": [],
       "claim_timestamp": "00:02:15",
@@ -1553,7 +1585,7 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-10840"
+        "N-10763"
       ],
       "tags": [],
       "claim_timestamp": "00:03:06",
@@ -1572,8 +1604,8 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-10840",
-        "N-10843"
+        "N-10763",
+        "N-10766"
       ],
       "tags": [],
       "claim_timestamp": "00:06:00",
@@ -1592,7 +1624,7 @@
         "A-2394.1"
       ],
       "related_nodes": [
-        "N-10842"
+        "N-10765"
       ],
       "tags": [],
       "claim_timestamp": "00:13:35",
@@ -1615,7 +1647,7 @@
         "A-2396.1"
       ],
       "related_nodes": [
-        "N-10842"
+        "N-10765"
       ],
       "tags": [],
       "claim_timestamp": "00:17:00",
@@ -1637,7 +1669,7 @@
         "A-2397.1"
       ],
       "related_nodes": [
-        "N-10841"
+        "N-10764"
       ],
       "tags": [],
       "claim_timestamp": "00:30:10",
@@ -1658,7 +1690,7 @@
         "A-2403.1"
       ],
       "related_nodes": [
-        "N-10841"
+        "N-10764"
       ],
       "tags": [],
       "claim_timestamp": "00:20:36",
@@ -1677,7 +1709,7 @@
         "A-2398.1"
       ],
       "related_nodes": [
-        "N-10841"
+        "N-10764"
       ],
       "tags": [],
       "claim_timestamp": "00:20:36",
@@ -1696,7 +1728,7 @@
         "A-2403.2"
       ],
       "related_nodes": [
-        "N-10841"
+        "N-10764"
       ],
       "tags": [],
       "claim_timestamp": "00:24:37",
@@ -1715,7 +1747,7 @@
         "A-2403.3"
       ],
       "related_nodes": [
-        "N-10843"
+        "N-10766"
       ],
       "tags": [],
       "claim_timestamp": "00:25:33",
@@ -1771,7 +1803,7 @@
         "A-2401.1"
       ],
       "related_nodes": [
-        "N-10845"
+        "N-10768"
       ],
       "tags": [],
       "claim_timestamp": "00:49:47",
@@ -1791,7 +1823,7 @@
         "A-2400.1"
       ],
       "related_nodes": [
-        "N-10845"
+        "N-10768"
       ],
       "tags": [],
       "claim_timestamp": "00:49:42",
@@ -1809,7 +1841,7 @@
       "claim": "The host says Empress Films is a documentary company founded by Emma Cooper in 2020, and that Cooper was previously global president of non-scripted television at Pulse Films and worked on the Netflix documentary \"The Disappearance of Madeleine McCann.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10846"
+        "N-10769"
       ],
       "tags": [],
       "claim_timestamp": "00:38:28",
@@ -1831,7 +1863,7 @@
         "A-2402.6"
       ],
       "related_nodes": [
-        "N-10846"
+        "N-10769"
       ],
       "tags": [],
       "claim_timestamp": "00:38:28",
@@ -1848,7 +1880,7 @@
       "claim": "The host says she learned that on August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10844"
+        "N-10767"
       ],
       "tags": [],
       "claim_timestamp": "00:37:12",
@@ -1868,7 +1900,7 @@
         "A-2404.1"
       ],
       "related_nodes": [
-        "N-10840"
+        "N-10763"
       ],
       "tags": [],
       "claim_timestamp": "00:55:56",
@@ -1940,7 +1972,7 @@
       "claim": "The host says at the top of the episode that she is very pregnant.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11313"
+        "N-11229"
       ],
       "tags": [
         "relevance:tangential"
@@ -1963,8 +1995,8 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10071",
-        "N-10840"
+        "N-10068",
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -1986,8 +2018,8 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-10071",
-        "N-10840"
+        "N-10068",
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2012,7 +2044,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10840"
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2036,8 +2068,8 @@
       "related_nodes": [
         "N-10000",
         "N-10012",
-        "N-10071",
-        "N-10840"
+        "N-10068",
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2063,7 +2095,7 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10840"
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2132,8 +2164,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10071",
-        "N-10840"
+        "N-10068",
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2159,8 +2191,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10071",
-        "N-10840"
+        "N-10068",
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2182,8 +2214,8 @@
         "A-3167.1"
       ],
       "related_nodes": [
-        "N-11314",
-        "N-10840"
+        "N-11230",
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2208,8 +2240,8 @@
         "A-3167.1"
       ],
       "related_nodes": [
-        "N-11314",
-        "N-10840"
+        "N-11230",
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2277,7 +2309,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10003",
-        "N-10075"
+        "N-10072"
       ],
       "tags": [
         "relevance:core"
@@ -2304,7 +2336,7 @@
       ],
       "related_nodes": [
         "N-10003",
-        "N-10842"
+        "N-10765"
       ],
       "tags": [
         "relevance:core"
@@ -2346,7 +2378,7 @@
         "A-2394.1"
       ],
       "related_nodes": [
-        "N-10842"
+        "N-10765"
       ],
       "tags": [
         "relevance:core"
@@ -2370,7 +2402,7 @@
         "A-2394.1"
       ],
       "related_nodes": [
-        "N-10842"
+        "N-10765"
       ],
       "tags": [
         "relevance:core"
@@ -2393,7 +2425,7 @@
         "A-2394.1"
       ],
       "related_nodes": [
-        "N-10842"
+        "N-10765"
       ],
       "tags": [
         "relevance:core"
@@ -2417,7 +2449,7 @@
         "A-2394.1"
       ],
       "related_nodes": [
-        "N-10842"
+        "N-10765"
       ],
       "tags": [
         "relevance:context"
@@ -2441,7 +2473,7 @@
       ],
       "related_nodes": [
         "N-10003",
-        "N-10842"
+        "N-10765"
       ],
       "tags": [
         "relevance:core"
@@ -2469,7 +2501,7 @@
         "A-2396.1"
       ],
       "related_nodes": [
-        "N-10842"
+        "N-10765"
       ],
       "tags": [
         "relevance:core"
@@ -2492,9 +2524,9 @@
         "A-3168.1"
       ],
       "related_nodes": [
-        "N-11221",
-        "N-10533",
-        "N-10841"
+        "N-11137",
+        "N-10488",
+        "N-10764"
       ],
       "tags": [
         "relevance:context"
@@ -2516,8 +2548,8 @@
         "A-2403.1"
       ],
       "related_nodes": [
-        "N-10533",
-        "N-10841"
+        "N-10488",
+        "N-10764"
       ],
       "tags": [
         "relevance:context"
@@ -2538,8 +2570,8 @@
       "claim": "The host says she wrote to Kolvet that parents were told in the weekly newsletter that neither Turning Point USA nor the school would be posting about the event on socials.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10533",
-        "N-10841"
+        "N-10488",
+        "N-10764"
       ],
       "tags": [
         "relevance:context"
@@ -2584,7 +2616,7 @@
         "A-2397.1"
       ],
       "related_nodes": [
-        "N-10533"
+        "N-10488"
       ],
       "tags": [
         "relevance:context"
@@ -2608,8 +2640,8 @@
       "claim": "The host says parents emailed her wondering whether they were paying for the event and whether a donation was accepted or money exchanged.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10533",
-        "N-10841"
+        "N-10488",
+        "N-10764"
       ],
       "tags": [
         "relevance:context"
@@ -2629,7 +2661,7 @@
       "claim": "The host says, citing people with direct knowledge, that Andrew Kolvet should not have been doing public relations for Erika Kirk in August 2025 outside her involvement with TPUSA Faith.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11312"
+        "N-11228"
       ],
       "tags": [
         "relevance:core"
@@ -2651,7 +2683,7 @@
       "claim": "The host says that she is told that when Erika spoke at an event for TPUSA Faith the organization would handle her media and that it did not do so otherwise, and she adds \"allegedly\" because it comes from people who worked with Kolvet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11312"
+        "N-11228"
       ],
       "tags": [
         "relevance:core"
@@ -2676,7 +2708,7 @@
       "claim": "The host says Erika had a Christian clothing brand called Proclaim 365 that she started right when she met Charlie, and that the host cannot work out how it functions or whether it is profitable.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11246"
+        "N-11162"
       ],
       "tags": [
         "relevance:context"
@@ -2700,7 +2732,7 @@
         "A-2402.1"
       ],
       "related_nodes": [
-        "N-10846"
+        "N-10769"
       ],
       "tags": [
         "relevance:tangential"
@@ -2723,7 +2755,7 @@
         "A-2402.2"
       ],
       "related_nodes": [
-        "N-10846"
+        "N-10769"
       ],
       "tags": [
         "relevance:tangential"
@@ -2745,7 +2777,7 @@
         "A-2402.3"
       ],
       "related_nodes": [
-        "N-10846"
+        "N-10769"
       ],
       "tags": [
         "relevance:tangential"
@@ -2767,8 +2799,8 @@
         "A-3166.1"
       ],
       "related_nodes": [
-        "N-10846",
-        "N-10844"
+        "N-10769",
+        "N-10767"
       ],
       "tags": [
         "relevance:context"
@@ -2790,7 +2822,7 @@
       "claim": "The host says Tucker Carlson is the only reason Blake Neff got the job with Charlie Kirk, having made a phone call to help him after Neff had been floating around for years.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [
         "relevance:context"
@@ -2813,7 +2845,7 @@
       "claim": "The host says Blake Neff was working for Stew Peters before he got the Charlie Kirk show job.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [
         "relevance:context"
@@ -2835,7 +2867,7 @@
       "claim": "The host says Blake Neff was involved in a racism scandal for being a total creep online before getting the Kirk show job.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [
         "relevance:context"
@@ -2857,7 +2889,7 @@
         "A-2400.1"
       ],
       "related_nodes": [
-        "N-10845"
+        "N-10768"
       ],
       "tags": [
         "relevance:context"
@@ -2881,7 +2913,7 @@
         "A-2401.1"
       ],
       "related_nodes": [
-        "N-10845"
+        "N-10768"
       ],
       "tags": [
         "relevance:context"
@@ -2904,7 +2936,7 @@
         "A-2401.1"
       ],
       "related_nodes": [
-        "N-10845"
+        "N-10768"
       ],
       "tags": [
         "relevance:context"
@@ -2926,7 +2958,7 @@
         "A-2401.1"
       ],
       "related_nodes": [
-        "N-10845"
+        "N-10768"
       ],
       "tags": [
         "relevance:context"
@@ -2949,7 +2981,7 @@
         "A-2401.1"
       ],
       "related_nodes": [
-        "N-10845"
+        "N-10768"
       ],
       "tags": [
         "relevance:context"
@@ -3043,7 +3075,7 @@
         "A-3169.1"
       ],
       "related_nodes": [
-        "N-11313"
+        "N-11229"
       ],
       "tags": [
         "relevance:context"
@@ -3064,7 +3096,7 @@
       "claim": "The host says Brian Cole's parents are speaking out and are going on Tucker Carlson to say the pipe-bomb case was a federal operation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10872"
+        "N-10793"
       ],
       "tags": [
         "relevance:tangential"
@@ -3085,8 +3117,8 @@
       "claim": "The host says that after the Cole family spoke out, \"they\" immediately released old footage of Brian Cole being pulled over, and that the same two Scripps News reporters released the Robinson footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10872",
-        "N-10873"
+        "N-10793",
+        "N-10794"
       ],
       "tags": [
         "relevance:context"
@@ -3110,8 +3142,8 @@
       "claim": "The host asserts that January 6 was a fed operation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11147",
-        "N-10872"
+        "N-11064",
+        "N-10793"
       ],
       "tags": [
         "relevance:tangential"
@@ -3131,8 +3163,8 @@
       "claim": "The host speculates that authorities identify people who are slightly autistic, in certain groups or highly intelligent and keep them in a file in case the feds need to commit a crime and pin it on them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10872",
-        "N-10873"
+        "N-10793",
+        "N-10794"
       ],
       "tags": [
         "relevance:tangential"
@@ -3174,7 +3206,7 @@
       ],
       "related_nodes": [
         "N-10003",
-        "N-10842"
+        "N-10765"
       ],
       "tags": [
         "relevance:core"

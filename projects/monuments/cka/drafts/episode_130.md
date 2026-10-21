@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 4a7df4953927c48a49d7120e7fa31a7ac76cd464f006ffebfaad184d8fa0f1ee
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-738, N-739, N-740, N-741, N-742, N-743, N-744, N-745, N-746, N-11062, N-11063
+  - Tip-minted Nodes (supplement_2026-10): N-738, N-739, N-740, N-741, N-742, N-743, N-744, N-745, N-746, N-10980, N-10981
   - Hole-minted Nodes (reintro-ep130): N-352, N-353
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-11, N-17, N-27, N-30, N-36, N-37, N-38, N-40, N-89, N-97, N-135, N-190, N-201, N-253, N-260, N-261, N-278, N-298, N-330, N-489, N-544, N-606, N-704, N-10000, N-10018, N-10027, N-10070, N-10132, N-10249, N-10253, N-10256, N-10259, N-10311, N-10341, N-10345, N-10383, N-10388, N-10398, N-10447, N-10550, N-10712, N-10714, N-10740, N-10741, N-10815, N-10900, N-10925, N-10938, N-737, N-80, N-11065, N-11064, N-10745
+  - Reused Nodes Appearing: N-11, N-17, N-27, N-30, N-36, N-37, N-38, N-40, N-89, N-97, N-135, N-190, N-201, N-253, N-260, N-261, N-278, N-298, N-330, N-489, N-544, N-606, N-704, N-10000, N-10018, N-10027, N-10067, N-10127, N-10235, N-10239, N-10242, N-10293, N-10319, N-10323, N-10356, N-10361, N-10371, N-10416, N-10504, N-10648, N-10650, N-10672, N-10673, N-10739, N-10821, N-10846, N-10859, N-737, N-80, N-10983, N-10982, N-10675
   - Claim Range: C-11158–C-11255
- - New Nodes Introduced: N-10744, N-10746, N-10747
+ - New Nodes Introduced: N-10676, N-10677
  - Reused Nodes Appearing: N-28
  - (see registers)
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:45:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11241, N-159, N-10746*
+*Related: C-11241, N-159, N-10504*
 
 **A-2177** Seamstress Email Bundle
 
@@ -257,13 +257,13 @@ Video Timestamp: 00:44:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11239, N-10740*
+*Related: C-11239, N-10672*
 
 ---
 
 ## 4. Node Register
 
-**N-10744** Howard Hughes Death Investigation
+**N-10676** Howard Hughes Death Investigation
 
 Persistent discrepancy between the official cause of death (kidney failure) and host-narrated findings of fatal codeine injection, malnutrition, bed sores, and five broken hypodermic needles in arm flesh.
 
@@ -274,7 +274,7 @@ Investigative Pressure: Low
 
 *Related: A-2173.1*
 
-**N-10745** Daily Mail Article Sourcing Question
+**N-10675** Daily Mail Article Source Identity
 
 Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names "Tracy" as her guess; Kolvet disputes origin via A-2174.1.
 
@@ -285,18 +285,7 @@ Investigative Pressure: High
 
 *Related: A-2174.1, A-2175.1, C-11224, C-11223, C-11225, C-11226, N-2, N-14*
 
-**N-10746** 9/10 Phone Discrepancy (Mikey two phones)
-
-Persistent open-question of whether Mikey possessed two phones on 9/10; Neff's phrasing "I put that phone away" (A-2176.1) is noted as linguistically suggestive of a second phone.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2176.1, C-11241, N-159*
-
-**N-10747** TPUSA Inner Circle Composition Question
+**N-10677** TPUSA Inner Circle Composition Question
 
 Persistent question of LDS staffing inside TPUSA leadership; introduced this episode via host's account of Charlie Kirk's UVU remarks (not artifact-displayed in this episode) and connections drawn from A-2173.1.
 
@@ -350,7 +339,7 @@ Hamptons location of the Dillon confrontation.
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Publisher of the article at the center of the episode.
 
@@ -358,7 +347,7 @@ Publisher of the article at the center of the episode.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 TPUSA internal DOGE audit.
 
@@ -366,7 +355,7 @@ TPUSA internal DOGE audit.
 
 ---
 
-**N-10249** "Mormon Mafia" Allegation
+**N-10235** "Mormon Mafia" Allegation
 
 Mormon Mafia concept introduced in this episode.
 
@@ -374,7 +363,7 @@ Mormon Mafia concept introduced in this episode.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Egyptian plane tracking.
 
@@ -382,7 +371,7 @@ Egyptian plane tracking.
 
 ---
 
-**N-10256** Duncan Aviation Rental Vehicle Investigation
+**N-10242** Duncan Aviation Rental Vehicle Investigation
 
 Duncan Aviation investigation.
 
@@ -390,15 +379,7 @@ Duncan Aviation investigation.
 
 ---
 
-**N-10259** Duncan Aviation Egyptian Rental Vehicle Network
-
-Duncan Aviation Egyptian network.
-
-*Related: C-11184*
-
----
-
-**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+**N-10293** Maroon Shirt Pattern at UVU September 10 Event
 
 Maroon shirt pattern referenced in the Hughes relative claim.
 
@@ -406,7 +387,7 @@ Maroon shirt pattern referenced in the Hughes relative claim.
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Surgeon quote.
 
@@ -414,7 +395,7 @@ Surgeon quote.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Seth Dillon confrontation at the Hamptons retreat.
 
@@ -422,7 +403,7 @@ Seth Dillon confrontation at the Hamptons retreat.
 
 ---
 
-**N-10383** Farnsworth Family Political-Military Network
+**N-10356** Farnsworth Family Political-Military Network
 
 Farnsworth family network.
 
@@ -430,7 +411,7 @@ Farnsworth family network.
 
 ---
 
-**N-10388** Missing Money from Turning Point Action
+**N-10361** Missing Money from Turning Point Action
 
 Missing money at Turning Point Action.
 
@@ -438,7 +419,7 @@ Missing money at Turning Point Action.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 TPUSA faith structure and LDS composition.
 
@@ -446,7 +427,7 @@ TPUSA faith structure and LDS composition.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Surgeon call discrepancy.
 
@@ -454,7 +435,7 @@ Surgeon call discrepancy.
 
 ---
 
-**N-10550** Blake Neff "Two Phones" Implication
+**N-10504** Blake Neff "Two Phones" Implication
 
 Neff two-phones implication.
 
@@ -462,7 +443,7 @@ Neff two-phones implication.
 
 ---
 
-**N-10712** Ben Shapiro Car Ride Live Updates
+**N-10648** Ben Shapiro Car Ride Live Updates
 
 Shapiro car ride live updates.
 
@@ -470,7 +451,7 @@ Shapiro car ride live updates.
 
 ---
 
-**N-10714** Unidentified Burnt Object in Charlie Kirk's SUV
+**N-10650** Unidentified Burnt Object in Charlie Kirk's SUV
 
 Burnt object in SUV.
 
@@ -478,7 +459,7 @@ Burnt object in SUV.
 
 ---
 
-**N-10740** SUV Interior Anomaly
+**N-10672** SUV Interior Anomaly
 
 SUV interior anomaly.
 
@@ -486,7 +467,7 @@ SUV interior anomaly.
 
 ---
 
-**N-10741** Sandy Hook Comparison Rhetoric
+**N-10673** Sandy Hook Comparison Rhetoric
 
 Sandy Hook comparison.
 
@@ -494,7 +475,7 @@ Sandy Hook comparison.
 
 ---
 
-**N-10815** NCRI Report Provenance and Authorship
+**N-10739** NCRI Report Provenance and Authorship
 
 NCRI report provenance.
 
@@ -502,7 +483,7 @@ NCRI report provenance.
 
 ---
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 Turning Point Action.
 
@@ -510,7 +491,7 @@ Turning Point Action.
 
 ---
 
-**N-10938** Erika Kirk Corporate Will and Inheritance Question
+**N-10859** Erika Kirk Corporate Will and Inheritance Question
 
 Corporate will question.
 
@@ -838,7 +819,7 @@ First named by the host at 00:51:48 in episode 130. Catholic commentator the hos
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Node Type: Organization
 Media company that, according to the host, fired her and listed among its reasons her suggestion that a Jewish mafia existed in Hollywood.
@@ -847,7 +828,7 @@ Media company that, according to the host, fired her and listed among its reason
 
 ---
 
-**N-11062** Irgun
+**N-10980** Irgun
 
 Node Type: Organization
 Jewish underground organization in mandatory Palestine that the host ties to the 1946 King David Hotel bombing, the Stern gang, Canaanism and the Emanuel family.
@@ -856,7 +837,7 @@ Jewish underground organization in mandatory Palestine that the host ties to the
 
 ---
 
-**N-11063** Howard Hughes Medical Institute
+**N-10981** Howard Hughes Medical Institute
 
 Node Type: Organization
 Medical research charity formed by Howard Hughes in 1953; the host says Hughes Aircraft was transferred into it and Frank William Gay became its trustee.
@@ -865,7 +846,7 @@ Medical research charity formed by Howard Hughes in 1953; the host says Hughes A
 
 ---
 
-**N-11064** Ben Shapiro and Charlie Kirk Friendship Narrative
+**N-10982** Ben Shapiro and Charlie Kirk Friendship Narrative
 
 Node Type: Topic
 The dispute over whether Ben Shapiro and Charlie Kirk were friends, which the host says Kolvet asserted and Shapiro and Blake Neff then qualified.
@@ -874,9 +855,9 @@ The dispute over whether Ben Shapiro and Charlie Kirk were friends, which the ho
 
 ---
 
-**N-11065** Preliminary Hearing Influencer Invitation Question
+**N-10983** Preliminary Hearing Influencer Invitation Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's claim that Erika Kirk invited influencers into the courtroom at Tyler Robinson's preliminary hearing and that this registered with the public as an unforced error.
 
 *Related: C-11250*
@@ -915,7 +896,7 @@ Claim: Per a 1976 Time magazine article titled "The Keepers of the King" the hos
 
 Anchored Artifacts: A-2173.1
 Mentions: N-741, N-742
-Related Nodes: N-10747
+Related Nodes: N-10677
 
 Investigative Direction: Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.
 
@@ -927,7 +908,7 @@ Claim: Per Andrew Kolvet's X post as the host reads it, the Daily Mail was "doin
 
 Anchored Artifacts: A-2174.1
 Mentions: N-14, N-3
-Related Nodes: N-10745
+Related Nodes: N-10675
 
 Investigative Direction: Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.
 
@@ -939,7 +920,7 @@ Claim: Per Andrew Kolvet's X post as the host reads it, the Kirk organization ne
 
 Anchored Artifacts: A-2174.1
 Mentions: N-14
-Related Nodes: N-10745
+Related Nodes: N-10675
 
 Investigative Direction: Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article.
 
@@ -951,7 +932,7 @@ Claim: Andrew Kolvet's X post asserts that the Daily Mail updated the article to
 
 Anchored Artifacts: A-2174.1
 Mentions: N-14
-Related Nodes: N-10745
+Related Nodes: N-10675
 
 Investigative Direction: Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.
 
@@ -974,7 +955,7 @@ Claim: In an interview clip played on air, Blake Neff describes his actions on 9
 
 Anchored Artifacts: A-2176.1
 Mentions: N-159
-Related Nodes: N-10746
+Related Nodes: N-10504
 
 Investigative Direction: Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.
 
@@ -1012,7 +993,7 @@ Transcript Snippet: before he was, of course, met with a community note on X
 
 Anchored Artifacts: A-2174.1
 Mentions: N-14
-Related Nodes: N-10745
+Related Nodes: N-10675
 Investigative Direction: Retrieve the Kolvet post and the text of the attached community note from X archives and compare the note's cited sources with the host's account.
 
 ---
@@ -1027,7 +1008,7 @@ Transcript Snippet: you have to understand the relationship between the Zionists
 
 Anchored Artifacts: 
 Mentions: N-253, N-3
-Related Nodes: N-10249
+Related Nodes: N-10235
 Supports: C-2852
 
 Investigative Direction: Obtain Courtney Love's own account of the conversation and any contemporaneous record of when and where she spoke with the host.
@@ -1058,7 +1039,7 @@ Transcript Snippet: one of the reasons among many that I was fired from The Dail
 
 Anchored Artifacts: 
 Mentions: N-3, N-737
-Related Nodes: N-10900
+Related Nodes: N-10821
 Investigative Direction: Obtain the host's termination paperwork or contemporaneous Daily Wire statements stating the reasons given for her separation.
 
 ---
@@ -1072,7 +1053,7 @@ Claim: The host says Irgun carried out the 1946 King David Hotel bombing in Jeru
 Transcript Snippet: They just bombed it, killing 91 people in one go in 1946.
 
 Anchored Artifacts: 
-Related Nodes: N-11062
+Related Nodes: N-10980
 Investigative Direction: Verify against historical records of the 22 July 1946 King David Hotel bombing, including the casualty count and its attribution to Irgun.
 
 ---
@@ -1086,7 +1067,7 @@ Claim: The host says the Wikipedia entry on Canaanism displays art labelled "Nim
 Transcript Snippet: Look at the art that they created on the right side of this Wikipedia entry. It says Nimrod.
 
 Anchored Artifacts: A-2172.1
-Related Nodes: N-11062
+Related Nodes: N-10980
 Investigative Direction: Retrieve the Wikipedia Canaanism entry (with revision date) and check the image caption for the Nimrod sculpture.
 
 ---
@@ -1100,7 +1081,7 @@ Claim: The host says the Canaanites in the Bible were Baal worshipers and that I
 Transcript Snippet: Irgun was a Jewish Canaanite gang. No one denies that it was a terrorist group that killed a lot of people.
 
 Anchored Artifacts: A-2172.1
-Related Nodes: N-11062
+Related Nodes: N-10980
 Supports: C-11165
 
 Tags: relevance:tangential
@@ -1118,7 +1099,7 @@ Transcript Snippet: One of its members was a man named Benjamin Emanuel. That is
 
 Anchored Artifacts: 
 Mentions: N-738, N-739, N-740
-Related Nodes: N-11062
+Related Nodes: N-10980
 Investigative Direction: Verify Benjamin Emanuel's Irgun membership against biographies of Rahm and Ari Emanuel and Israeli archival records.
 
 ---
@@ -1161,7 +1142,7 @@ Transcript Snippet: the trusted Latter-Day Saints inner circle of businessmen bu
 
 Anchored Artifacts: 
 Mentions: N-741
-Related Nodes: N-10249
+Related Nodes: N-10235
 Investigative Direction: Capture the exact Google snippet and its cited source and compare with encyclopedic definitions of the term.
 
 ---
@@ -1204,7 +1185,7 @@ Transcript Snippet: formed that in 1953 to fund basic medical research.
 
 Anchored Artifacts: A-2788.1
 Mentions: N-741
-Related Nodes: N-11063
+Related Nodes: N-10981
 Investigative Direction: Review HHMI founding documents and IRS and court records on the transfer of Hughes Aircraft stock to the institute.
 
 ---
@@ -1261,7 +1242,7 @@ Transcript Snippet: One person who he trusted was a man named Frank William Gay.
 
 Anchored Artifacts: 
 Mentions: N-742, N-741
-Related Nodes: N-10249
+Related Nodes: N-10235
 Investigative Direction: Check Summa Corporation and Hughes Tool Company records for Gay's hiring date and role.
 
 ---
@@ -1290,7 +1271,7 @@ Transcript Snippet: They were, with a single exception, adherence to Mormonism, 
 
 Anchored Artifacts: A-2173.1
 Mentions: N-741
-Related Nodes: N-10747
+Related Nodes: N-10677
 Supports: C-11179
 
 Investigative Direction: Obtain the full 1976 Time article and verify the wording about the aides' religion and access.
@@ -1306,7 +1287,7 @@ Claim: The host reads from the Time article that the six aides were assisted by 
 Transcript Snippet: They were assisted by four physicians on 24-hour calls and five lesser functionaries including Gordon Margulis and Mell Stewart.
 
 Anchored Artifacts: A-2173.1
-Related Nodes: N-10747
+Related Nodes: N-10677
 Investigative Direction: Obtain the full Time article and check the named functionaries and the physician count.
 
 ---
@@ -1321,7 +1302,7 @@ Transcript Snippet: Officially, Howard Hughes died of kidney failure on April 5t
 
 Anchored Artifacts: 
 Mentions: N-741
-Related Nodes: N-10744
+Related Nodes: N-10676
 Investigative Direction: Obtain the Hughes death certificate and autopsy summaries for date, place and stated cause.
 
 ---
@@ -1336,7 +1317,7 @@ Transcript Snippet: he was the founder of Robert Graf Inc., which became Duncan 
 
 Anchored Artifacts: 
 Mentions: N-743, N-135, N-260, N-40
-Related Nodes: N-10256
+Related Nodes: N-10242
 Investigative Direction: Check Duncan Aviation corporate history and records of the aircraft that carried Hughes on 5 April 1976.
 
 ---
@@ -1351,7 +1332,7 @@ Transcript Snippet: Yeah, that Duncan Aviation that had that Egyptian plane take
 
 Anchored Artifacts: 
 Mentions: N-260, N-1
-Related Nodes: N-10259, N-10253
+Related Nodes: N-10242, N-10239
 Investigative Direction: Pull flight-tracking and FBO records for the Egyptian-registered aircraft on 10 September 2025 and any Duncan Aviation handling.
 
 ---
@@ -1366,7 +1347,7 @@ Transcript Snippet: Someone administered a deadly injection of the painkiller co
 
 Anchored Artifacts: A-2786.1
 Mentions: N-741
-Related Nodes: N-10744
+Related Nodes: N-10676
 Investigative Direction: Identify the investigation (probate or Texas and Nevada inquiries) and read the original findings on cause of death.
 
 ---
@@ -1381,7 +1362,7 @@ Transcript Snippet: X-rays revealed five broken-off hypodermic needles needles t
 
 Anchored Artifacts: A-2786.1
 Mentions: N-741
-Related Nodes: N-10744
+Related Nodes: N-10676
 Investigative Direction: Check the 1976 autopsy reports and later biographies for the needle finding.
 
 ---
@@ -1396,7 +1377,7 @@ Transcript Snippet: his body was so thin that observers likened him to a captive
 
 Anchored Artifacts: A-2786.1
 Mentions: N-741
-Related Nodes: N-10744
+Related Nodes: N-10676
 Investigative Direction: Compare with autopsy descriptions and testimony from the estate proceedings.
 
 ---
@@ -1411,7 +1392,7 @@ Transcript Snippet: There was a mysterious handwritten note, which was filed by 
 
 Anchored Artifacts: 
 Mentions: N-741
-Related Nodes: N-10744
+Related Nodes: N-10676
 Investigative Direction: Check court records of the Mormon will (Melvin Dummar will) litigation and who filed it.
 
 ---
@@ -1426,7 +1407,7 @@ Transcript Snippet: It was a 34-year legal battle. Until eventually it was decid
 
 Anchored Artifacts: 
 Mentions: N-741
-Related Nodes: N-11063
+Related Nodes: N-10981
 Investigative Direction: Verify the estate value, settlement timeline and the HHMI share against probate and IRS records.
 
 ---
@@ -1441,7 +1422,7 @@ Transcript Snippet: the trustee of the board became Frank William Gay. His trust
 
 Anchored Artifacts: 
 Mentions: N-742, N-741
-Related Nodes: N-11063
+Related Nodes: N-10981
 Investigative Direction: Check HHMI trustee records and CIA-related reporting on Gay's work with the agency.
 
 ---
@@ -1526,7 +1507,7 @@ Transcript Snippet: when I was researching one of the maroon boys maroon boys I 
 
 Anchored Artifacts: 
 Mentions: N-3, N-741
-Related Nodes: N-10311
+Related Nodes: N-10293
 Investigative Direction: Ask the host or her source to identify the person and the documented family link to the Hughes family.
 
 ---
@@ -1541,7 +1522,7 @@ Transcript Snippet: But in reality it's a lot of Mormons like half of the compan
 
 Anchored Artifacts: 
 Mentions: N-11, N-3
-Related Nodes: N-10000, N-10398, N-10747
+Related Nodes: N-10000, N-10371, N-10677
 Investigative Direction: Obtain a TPUSA staff roster with stated religious affiliation or a statement from TPUSA on staff composition.
 
 ---
@@ -1556,7 +1537,7 @@ Transcript Snippet: I'm not one of those guys that picks on Mormons. >> Half my 
 
 Anchored Artifacts: A-2787.1
 Mentions: N-1
-Related Nodes: N-10747, N-10398
+Related Nodes: N-10677, N-10371
 Investigative Direction: Review the full UVU Q and A video for the context and exact wording of the remark.
 
 ---
@@ -1571,7 +1552,7 @@ Transcript Snippet: I have my team is Mormon Carol's a Mormon Andrew's a Mormon
 
 Anchored Artifacts: A-2787.1
 Mentions: N-1
-Related Nodes: N-10747
+Related Nodes: N-10677
 Investigative Direction: Identify Carol and Andrew from the clip and confirm whether Andrew is a TPUSA staff member.
 
 ---
@@ -1586,7 +1567,7 @@ Transcript Snippet: he's not referring to Andrew Kolvet, he's referring to the p
 
 Anchored Artifacts: A-2787.1
 Mentions: N-14, N-1
-Related Nodes: N-10747
+Related Nodes: N-10677
 Investigative Direction: Identify which TPUSA tour or field staffer named Andrew handled stop selection and confirm his role.
 
 ---
@@ -1601,7 +1582,7 @@ Transcript Snippet: Taryl's the guy who takes down the cameras, the Farnsworth g
 
 Anchored Artifacts: 
 Mentions: N-261, N-2, N-1
-Related Nodes: N-10383
+Related Nodes: N-10356
 Supports: C-10165
 
 Investigative Direction: Document the Farnsworth and Frantzve family ties in Arizona records predating Erika's 2018 meeting with Charlie Kirk.
@@ -1618,7 +1599,7 @@ Transcript Snippet: Tyler Bowyer handled the money at Turning Point USA. I have 
 
 Anchored Artifacts: A-2789.1
 Mentions: N-11, N-3
-Related Nodes: N-10925, N-10000
+Related Nodes: N-10846, N-10000
 Investigative Direction: Review the host's text messages and Turning Point Action filings for Bowyer's role and titles.
 
 ---
@@ -1676,7 +1657,7 @@ Transcript Snippet: But Seth Dillon, he did say I've been morally blackmailed by
 
 Anchored Artifacts: 
 Mentions: N-1, N-38, N-37
-Related Nodes: N-10345, N-10027
+Related Nodes: N-10323, N-10027
 Investigative Direction: Find the recording or message in which Charlie Kirk used the phrase morally blackmailed and its date.
 
 ---
@@ -1691,7 +1672,7 @@ Transcript Snippet: We know that Charlie wanted to 7 days before he died to esta
 
 Anchored Artifacts: 
 Mentions: N-1, N-36
-Related Nodes: N-10132, N-10018
+Related Nodes: N-10127, N-10018
 Supports: C-9231
 
 Investigative Direction: Obtain TPUSA's September 2025 internal memo establishing the audit and any call records for the Netanyahu call.
@@ -1708,7 +1689,7 @@ Transcript Snippet: I am told specifically by Turning Point employees that the m
 
 Anchored Artifacts: 
 Mentions: N-11, N-3
-Related Nodes: N-10388, N-10925
+Related Nodes: N-10361, N-10846
 Supports: C-9202
 
 Investigative Direction: Seek Turning Point Action financial filings and employee statements on the alleged shortfall.
@@ -1741,7 +1722,7 @@ Transcript Snippet: We are told that Charlie and Erika had an appointment to cha
 
 Anchored Artifacts: 
 Mentions: N-1, N-2
-Related Nodes: N-10938
+Related Nodes: N-10859
 Investigative Direction: Identify the lawyer or office with the appointment and obtain scheduling records.
 
 ---
@@ -1756,7 +1737,7 @@ Transcript Snippet: And then his wife assumes the reins of the company. The audi
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10132
+Related Nodes: N-10127
 Supports: C-9512
 
 Investigative Direction: Obtain confirmation from TPUSA or the auditor of the audit's status after September 2025.
@@ -1787,7 +1768,7 @@ Transcript Snippet: Not even Ben Shapiro himself or Blake Neff could stomach the
 
 Anchored Artifacts: 
 Mentions: N-97, N-159, N-14, N-1, N-3
-Related Nodes: N-11064
+Related Nodes: N-10982
 Investigative Direction: Retrieve Kolvet's statement describing Shapiro and Charlie as friends and Shapiro's and Neff's later clarifications.
 
 ---
@@ -1844,7 +1825,7 @@ Transcript Snippet: The very people that he trusted the most in his inner circle
 
 Anchored Artifacts: 
 Mentions: N-1, N-741
-Related Nodes: N-10747
+Related Nodes: N-10677
 Investigative Direction: Catalogue specific TPUSA policy positions that changed after September 2025 against Charlie Kirk's earlier statements.
 
 ---
@@ -1873,7 +1854,7 @@ Transcript Snippet: I tweeted, okay, I never claimed to be close to Charlie.
 
 Anchored Artifacts: 
 Mentions: N-97, N-1
-Related Nodes: N-11064
+Related Nodes: N-10982
 Investigative Direction: Retrieve Shapiro's tweet and compare with Kolvet's original claim.
 
 ---
@@ -1888,7 +1869,7 @@ Transcript Snippet: Blake Neff went on to the podcast and said, yeah, no, Charli
 
 Anchored Artifacts: 
 Mentions: N-159, N-97, N-1
-Related Nodes: N-11064
+Related Nodes: N-10982
 Supports: C-7095
 
 Investigative Direction: Identify the podcast and timestamp of Neff's remark.
@@ -1921,7 +1902,7 @@ Transcript Snippet: Direct quotes coming from a family friend who I speculated w
 
 Anchored Artifacts: 
 Mentions: N-544, N-2, N-3
-Related Nodes: N-10745, N-10070
+Related Nodes: N-10675, N-10067
 Supports: C-11104
 
 Investigative Direction: Identify the Daily Mail's stated source and whether Tracy Martin spoke with its reporters.
@@ -1938,7 +1919,7 @@ Transcript Snippet: used it as rage bait on her show because she has no actual e
 
 Anchored Artifacts: A-2174.1
 Mentions: N-14, N-3
-Related Nodes: N-10745
+Related Nodes: N-10675
 Supports: C-11224
 
 Investigative Direction: Retrieve the full Kolvet thread and archive it with timestamps.
@@ -1955,7 +1936,7 @@ Transcript Snippet: do do yourself challenge and type in Erika Kirk and Turning 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10070
+Related Nodes: N-10067
 Investigative Direction: Run a systematic search of Daily Mail headlines mentioning Owens, Kirk and TPUSA and tabulate tone.
 
 ---
@@ -1970,7 +1951,7 @@ Transcript Snippet: we immediately put up the email that we received asking us f
 
 Anchored Artifacts: A-2175.1
 Mentions: N-3
-Related Nodes: N-10070, N-10745
+Related Nodes: N-10067, N-10675
 Investigative Direction: Obtain the Daily Mail request email with headers and the reply, and compare with the article's publication time.
 
 ---
@@ -1985,7 +1966,7 @@ Transcript Snippet: you chose them and sent them the video of Erika Kirk being n
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-14
-Related Nodes: N-10070, N-10000
+Related Nodes: N-10067, N-10000
 Investigative Direction: Review Daily Mail reporting on the appointment video for how it obtained or viewed it.
 
 ---
@@ -2000,7 +1981,7 @@ Transcript Snippet: This NCRI article that you were promoting, Digital Assassin.
 
 Anchored Artifacts: 
 Mentions: N-14
-Related Nodes: N-10815
+Related Nodes: N-10739
 Investigative Direction: Locate the NCRI publication titled Digital Assassin and Kolvet's posts promoting it.
 
 ---
@@ -2029,7 +2010,7 @@ Transcript Snippet: they have not removed the article. They have not issued any 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10070, N-10745
+Related Nodes: N-10067, N-10675
 Qualifies: C-11225
 
 Investigative Direction: Compare archived versions of the Daily Mail article to document every update, including source description changes.
@@ -2076,7 +2057,7 @@ Transcript Snippet: What kind of Christian would just say lie explicitly, say An
 
 Anchored Artifacts: 
 Mentions: N-2, N-14
-Related Nodes: N-10447, N-10341
+Related Nodes: N-10416, N-10319
 Supports: C-10189
 
 Investigative Direction: Obtain call logs for the three-way call and Erika Kirk's statement that Kolvet went rogue.
@@ -2107,7 +2088,7 @@ Transcript Snippet: I am asserting definitively that I had nothing to do with th
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10745, N-10070
+Related Nodes: N-10675, N-10067
 Contradicts: C-11224
 
 Investigative Direction: Compare the host's and her PR's email chain with the Daily Mail to verify no contact beyond the comment request.
@@ -2123,7 +2104,7 @@ Claim: The host says viewers thought the SUV looked burnt because of a black and
 Transcript Snippet: A couple of people thought that the car looked like it was burnt and the panel was black and brown. That's actually just so you guys know, you can get that's just an option on a car.
 
 Anchored Artifacts: A-2791.1
-Related Nodes: N-10740, N-10714
+Related Nodes: N-10672, N-10650
 Investigative Direction: Identify the vehicle make and trim and confirm the interior options.
 
 ---
@@ -2138,7 +2119,7 @@ Transcript Snippet: tomorrow is when we're going to cover obviously who Ben Shap
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10712
+Related Nodes: N-10648
 Supports: C-10667
 
 Investigative Direction: Compare with the following episode and evidence naming the lunch companion.
@@ -2155,7 +2136,7 @@ Transcript Snippet: It's a fact Mikey did have two phones when him and Charlie w
 
 Anchored Artifacts: 
 Mentions: N-190, N-1, N-3
-Related Nodes: N-10550, N-10746
+Related Nodes: N-10504
 Investigative Direction: Review event-entry and hospital-arrival video for the devices Mikey McCoy carried.
 
 ---
@@ -2170,7 +2151,7 @@ Transcript Snippet: I remember he calls Erika. I around the same time I pull out
 
 Anchored Artifacts: A-2176.1
 Mentions: N-159, N-190, N-2, N-17
-Related Nodes: N-10550
+Related Nodes: N-10504
 Supports: C-11084
 
 Investigative Direction: Match Neff's account against Mikey McCoy's call logs.
@@ -2187,7 +2168,7 @@ Transcript Snippet: it is also a plausibility that Charlie gave his phone um to 
 
 Anchored Artifacts: A-2176.1
 Mentions: N-1, N-190, N-3
-Related Nodes: N-10746
+Related Nodes: N-10504
 Qualifies: C-11241
 
 Investigative Direction: Check video of Charlie Kirk's table and stage at the event for his phone.
@@ -2204,7 +2185,7 @@ Transcript Snippet: I also included a photo of what makes sense to me of how tha
 
 Anchored Artifacts: A-2177.1
 Mentions: N-3
-Related Nodes: N-10714, N-10740
+Related Nodes: N-10650, N-10672
 Supports: C-10698
 
 Investigative Direction: Obtain the seamstress's photos and have an independent textile expert assess the seam geometry.
@@ -2221,7 +2202,7 @@ Transcript Snippet: we got so many emails from people saying it's a shirt, shirt
 
 Anchored Artifacts: A-2177.1
 Mentions: N-3
-Related Nodes: N-10714
+Related Nodes: N-10650
 Supports: C-10698
 
 Investigative Direction: Collect the emails and have a textile expert review the object photo.
@@ -2238,7 +2219,7 @@ Transcript Snippet: That's a quotation from Blake Neff, who now has amnesia.
 
 Anchored Artifacts: A-2179.2
 Mentions: N-159, N-190, N-2, N-3
-Related Nodes: N-10550
+Related Nodes: N-10504
 Supports: C-11084
 
 Investigative Direction: Retrieve Neff's interview with the I'll never forget line and compare with call logs.
@@ -2269,7 +2250,7 @@ Transcript Snippet: What an atrocious idea if you're the PR team to have Erika i
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11065
+Related Nodes: N-10983
 Investigative Direction: Identify which influencers attended the preliminary hearing and who invited them.
 
 ---
@@ -2284,7 +2265,7 @@ Transcript Snippet: That's an obvious influencer campaign, which makes us believ
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10741
+Related Nodes: N-10673
 Investigative Direction: Monitor court dockets for any suit filed against the host or other investigators and its timing.
 
 ---

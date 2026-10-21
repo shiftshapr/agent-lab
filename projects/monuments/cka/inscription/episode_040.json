@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-159",
-            "N-10307"
+            "N-10289"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -142,7 +142,7 @@
             "C-3588"
           ],
           "related_nodes": [
-            "N-10308"
+            "N-10290"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,7 +272,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10307"
+        "N-10289"
       ]
     },
     {
@@ -334,11 +334,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10307",
-      "ref": "N-10307",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10289",
+      "ref": "N-10289",
       "name": "TPUSA Phoenix Livestream Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigable target: whether and when the announced Phoenix livestream actually occurs, who participates, and what is answered.",
       "related_artifacts": [
         "A-1489.1"
@@ -353,14 +353,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-159"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10308",
-      "ref": "N-10308",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10290",
+      "ref": "N-10290",
       "name": "Macron-Trump 09/10 Phone Call Timing Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigable target: verification of the September 10, 2025 phone call between Emmanuel Macron and Donald Trump (6:45 PM French time / 10:45 AM Utah time) as recorded in Macron's public calendar.",
       "related_artifacts": [
         "A-1493.1"
@@ -372,7 +373,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10297"
     },
     {
       "@type": "Person",
@@ -578,11 +581,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA, the organization whose statement the host answers.",
       "related_artifacts": [],
       "related_claims": [
@@ -612,14 +615,16 @@
       "evidence_count": 0,
       "claim_count": 21,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University, venue of the September 10 event.",
       "related_artifacts": [],
       "related_claims": [
@@ -632,14 +637,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10064",
-      "ref": "N-10064",
+      "@type": "Place",
+      "@id": "N-10061",
+      "ref": "N-10061",
       "name": "The Pentagon",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The Pentagon, setting of the press corps discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -653,14 +660,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10078",
-      "ref": "N-10078",
+      "@type": "Topic",
+      "@id": "N-10075",
+      "ref": "N-10075",
       "name": "TPUSA Financial Apparatus Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA finances, topic of the host's response to Neff.",
       "related_artifacts": [],
       "related_claims": [
@@ -671,14 +680,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10087",
-      "ref": "N-10087",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10083",
+      "ref": "N-10083",
       "name": "UVU Underground Tunnel / Pipeline Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "UVU tunnel topic, one of the allegations Neff lists.",
       "related_artifacts": [],
       "related_claims": [
@@ -689,14 +699,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@type": "Event",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "SD card removal topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -707,14 +718,19 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@type": "Topic",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA DOGE department topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -725,14 +741,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10162",
-      "ref": "N-10162",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10156",
+      "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "SD card removal narrative discrepancy topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -742,14 +759,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mikey McCoy's behavior on September 10.",
       "related_artifacts": [],
       "related_claims": [
@@ -759,14 +778,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10213",
-      "ref": "N-10213",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10205",
+      "ref": "N-10205",
       "name": "Rob McCoy / Tyler Bowyer Background Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Rob McCoy / Tyler Bowyer background verification topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -776,14 +796,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10232",
-      "ref": "N-10232",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10219",
+      "ref": "N-10219",
       "name": "UVU Green Hoodie Person Identification (Resolved)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Green hoodie person identification topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -794,14 +815,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10248",
-      "ref": "N-10248",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10234",
+      "ref": "N-10234",
       "name": "Calvary Chapel Network Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Calvary Chapel network infiltration question.",
       "related_artifacts": [],
       "related_claims": [
@@ -812,14 +834,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Egyptian aircraft tracking investigation.",
       "related_artifacts": [],
       "related_claims": [
@@ -834,14 +857,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Macron lawsuit topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -852,14 +876,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10290",
-      "ref": "N-10290",
+      "@type": "Event",
+      "@id": "N-10272",
+      "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "French Foreign Legion US training topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -870,14 +895,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10294",
-      "ref": "N-10294",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10276",
+      "ref": "N-10276",
       "name": "Brigitte Macron Schedule Gap September 4–10, 2025",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Brigitte Macron schedule gap topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -887,14 +915,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10311",
-      "ref": "N-10311",
+      "@type": "Topic",
+      "@id": "N-10293",
+      "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Maroon shirt pattern topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -906,14 +935,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10316",
-      "ref": "N-10316",
+      "@type": "Topic",
+      "@id": "N-10297",
+      "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "France / Macron couple involvement topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -923,14 +953,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10387",
-      "ref": "N-10387",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10360",
+      "ref": "N-10360",
       "name": "Tyler Bowyer Investigation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tyler Bowyer investigation question.",
       "related_artifacts": [],
       "related_claims": [
@@ -942,14 +973,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@type": "Topic",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk DOGE pre-death establishment topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -959,14 +991,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10451",
-      "ref": "N-10451",
+      "@type": "Topic",
+      "@id": "N-10420",
+      "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "USS Liberty incident cover-up investigation.",
       "related_artifacts": [],
       "related_claims": [
@@ -976,14 +1009,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10465",
-      "ref": "N-10465",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10434",
+      "ref": "N-10434",
       "name": "Calvary Chapel Church CIA Connection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Calvary Chapel CIA connection question.",
       "related_artifacts": [],
       "related_claims": [
@@ -993,14 +1027,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10234"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10482",
-      "ref": "N-10482",
-      "name": "Mikey McCoy Phone Call Sequence",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10214",
+      "ref": "N-10214",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
+      "type": "investigation_question",
       "description": "Mikey McCoy phone call sequence topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1010,14 +1046,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10628",
-      "ref": "N-10628",
+      "@type": "Topic",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Laura Loomer involuntary psychiatric holds and firearm prohibition topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1027,14 +1064,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10683",
-      "ref": "N-10683",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10621",
+      "ref": "N-10621",
       "name": "Brian Harpole ER Story Plausibility",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Brian Harpole ER story plausibility topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1044,14 +1082,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Harpole Shawn Ryan statements topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1061,7 +1100,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
       "@type": "Person",
@@ -1441,11 +1482,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11013",
-      "ref": "N-11013",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10933",
+      "ref": "N-10933",
       "name": "Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Persistent investigable target: whether text messages exist in which Charlie Kirk told TPUSA staff and security guards the day before his death that he thought they would kill him the next day, as the host alleges.",
       "related_artifacts": [],
       "related_claims": [
@@ -1456,14 +1497,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10318"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11014",
-      "ref": "N-11014",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10934",
+      "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Persistent investigable target: the host's claim that TPUSA made $80 million plus in merchandise sales in the first three weeks after September 10 and its whole annual budget in the first couple of weeks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1474,12 +1517,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11015",
-      "ref": "N-11015",
+      "@id": "N-10935",
+      "ref": "N-10935",
       "name": "Pentagon Press Corps Credentialing Overhaul",
       "type": "topic",
       "description": "Persistent investigable target: the Pentagon's late-2025 press corps change, who was credentialed (including Laura Loomer and Cam Higby), and the criteria used.",
@@ -1492,7 +1536,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -1506,7 +1551,7 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-10307"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:28:38–00:29:32",
@@ -1685,7 +1730,7 @@
         "A-1493.1"
       ],
       "related_nodes": [
-        "N-10308"
+        "N-10290"
       ],
       "tags": [],
       "claim_timestamp": "00:49:59",
@@ -1704,7 +1749,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10307"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00",
@@ -1763,7 +1808,7 @@
       "claim": "The host says Blake Neff has been defending the actions of Mikey McCoy on September 10, and that she senses he believes he is telling the truth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [],
       "claim_timestamp": "00:03:12",
@@ -1843,7 +1888,7 @@
       "claim": "The host says she believes Mikey McCoy should have to answer for who he had on the phone right when the shot went off.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10482"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
@@ -1880,7 +1925,7 @@
       "claim": "The host alleges that in words she played, Rob McCoy tried to sanitize a person who spent time in prison for trying to take photos of young girls, and says she does not think Rob McCoy is a good guy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10213"
+        "N-10205"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
@@ -1938,7 +1983,7 @@
       "claim": "The host says she never said Turning Point lied about foreign aircraft following Erika Kirk because TPUSA never responded on the subject.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:07:25",
@@ -1957,7 +2002,7 @@
       "claim": "The host says she first plotted Egyptian jets as following Charlie, then realized they were tracking TPUSA Faith events and that many more times they were following, and perhaps tracking, Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:07:25",
@@ -1999,7 +2044,7 @@
       "claim": "The host says Charlie's security did not issue him first aid when he fell, nobody pulled out gauze to stop the bleeding, and that they have admitted this.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10683"
+        "N-10621"
       ],
       "tags": [],
       "claim_timestamp": "00:08:20",
@@ -2021,7 +2066,7 @@
       "claim": "The host says that in a sitdown with Shawn Ryan, Brian Harpole said no first aid was given because of the severity of the injury.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ],
       "tags": [],
       "claim_timestamp": "00:08:20",
@@ -2040,7 +2085,7 @@
       "claim": "The host says Andrew Kolvet sat next to the person delivering TPUSA's statement and said the SD card was removed because people were stealing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10100"
+        "N-10096"
       ],
       "tags": [],
       "claim_timestamp": "00:09:19",
@@ -2062,8 +2107,8 @@
       "claim": "The host says that if people were stealing, one would grab the expensive cameras and not the SD card, for an event that was being livestreamed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10100",
-        "N-10162"
+        "N-10096",
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:10:06",
@@ -2081,7 +2126,7 @@
       "claim": "The host says she did not say Tyler Bowyer abused an intern or that it was non-consensual; she says she said he likes younger boys, not minors but much younger than him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10387"
+        "N-10360"
       ],
       "tags": [],
       "claim_timestamp": "00:10:06",
@@ -2102,7 +2147,7 @@
         "A-2732.1"
       ],
       "related_nodes": [
-        "N-10387"
+        "N-10360"
       ],
       "tags": [],
       "claim_timestamp": "00:10:06",
@@ -2123,7 +2168,7 @@
         "A-2732.1"
       ],
       "related_nodes": [
-        "N-10387",
+        "N-10360",
         "N-10000"
       ],
       "tags": [],
@@ -2145,7 +2190,7 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [],
       "claim_timestamp": "00:10:06",
@@ -2166,8 +2211,8 @@
       "claim": "The host says she believes the evidence shows Calvary Chapel's history under Chuck Smith was a militant CIA effort to infiltrate the Christian faith, in a founding during the 1960s.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10465",
-        "N-10248"
+        "N-10434",
+        "N-10234"
       ],
       "tags": [],
       "claim_timestamp": "00:11:15",
@@ -2188,7 +2233,7 @@
         "A-2731.1"
       ],
       "related_nodes": [
-        "N-11013",
+        "N-10933",
         "N-10000"
       ],
       "tags": [],
@@ -2265,7 +2310,7 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-10078"
+        "N-10075"
       ],
       "tags": [],
       "claim_timestamp": "00:13:27",
@@ -2284,7 +2329,7 @@
       "claim": "The host says that if a charity is moving millions into various LLCs 'that have your name on it' that is improper, and that most people cannot read those forms or understand what happened to 'the $80 million'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10078"
+        "N-10075"
       ],
       "tags": [],
       "claim_timestamp": "00:14:49",
@@ -2302,8 +2347,8 @@
       "claim": "The host says Charlie explicitly requested putting together a DOGE department seven days before he died, and that this is not the same as an annual audit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
-        "N-10434"
+        "N-10127",
+        "N-10404"
       ],
       "tags": [],
       "claim_timestamp": "00:14:49",
@@ -2325,7 +2370,7 @@
       "claim": "The host says inside sources at TPUSA say Charlie wanted DOGE because he did not know where the money was coming from or where it was going.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132"
+        "N-10127"
       ],
       "tags": [],
       "claim_timestamp": "00:15:54",
@@ -2349,9 +2394,9 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-10253",
-        "N-10087",
-        "N-10311"
+        "N-10239",
+        "N-10083",
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:16:50",
@@ -2370,7 +2415,7 @@
       "claim": "The host says it broke on the day of this episode that the Saudi king had at some point in 2023 been aboard the Egyptian plane.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:17:31",
@@ -2388,7 +2433,7 @@
       "claim": "The host says she never went after anyone for wearing a green hoodie and never covered the green hoodie people, and that she only shared a picture when asked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10232"
+        "N-10219"
       ],
       "tags": [],
       "claim_timestamp": "00:17:31",
@@ -2406,7 +2451,7 @@
       "claim": "The host says the person wearing the green hoodie was not upset about the picture and responded.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10232"
+        "N-10219"
       ],
       "tags": [],
       "claim_timestamp": "00:17:31",
@@ -2424,7 +2469,7 @@
       "claim": "The host says she stands by her statements about people in maroon shirts and guarantees they represent a military unit somewhere.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:17:31",
@@ -2442,7 +2487,7 @@
       "claim": "The host says she is very close to figuring out exactly which military unit the maroon-shirt people belong to.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:17:31",
@@ -2503,8 +2548,8 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-10087",
-        "N-10253"
+        "N-10083",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:21:20",
@@ -2562,7 +2607,7 @@
       "claim": "The host says TPUSA sold kit of what Charlie died in, to the tune of $80 million plus in the first three weeks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11014",
+        "N-10934",
         "N-10000"
       ],
       "tags": [],
@@ -2582,7 +2627,7 @@
       "claim": "The host says TPUSA made its entire budget for the year in the first couple of weeks after Charlie's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11014",
+        "N-10934",
         "N-10000"
       ],
       "tags": [],
@@ -2639,7 +2684,7 @@
       "claim": "The host says Brigitte Macron was born a male and frames her investigation as asking why 'we are colluding with nations' to cover this up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:26:31",
@@ -2736,7 +2781,7 @@
         "A-2731.1"
       ],
       "related_nodes": [
-        "N-11013",
+        "N-10933",
         "N-10000"
       ],
       "tags": [],
@@ -2775,7 +2820,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10307"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:33:05",
@@ -2793,7 +2838,7 @@
       "claim": "The host says she fully accepts, proposes doing the livestream the next day, and sets her only ground rule as no assassinations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10307",
+        "N-10289",
         "N-10000"
       ],
       "tags": [],
@@ -2815,8 +2860,8 @@
       "claim": "The host says the Pentagon undertook a press corps makeover ostensibly to let in new independent, more trusted journalists, saying James O'Keefe is very much trusted and that she likes Matt Gaetz very much.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10064",
-        "N-11015"
+        "N-10061",
+        "N-10935"
       ],
       "tags": [],
       "claim_timestamp": "00:37:13",
@@ -2836,8 +2881,8 @@
       "claim": "The host says the Pentagon credentialed Laura Loomer as part of the new press corps.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10064",
-        "N-11015"
+        "N-10061",
+        "N-10935"
       ],
       "tags": [],
       "claim_timestamp": "00:39:37",
@@ -2876,7 +2921,7 @@
       "claim": "The host says Laura Loomer is apparently not allowed to own a gun because of psychotic events that required her hospitalization.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [],
       "claim_timestamp": "00:39:18",
@@ -2897,7 +2942,7 @@
         "A-2733.1"
       ],
       "related_nodes": [
-        "N-10064"
+        "N-10061"
       ],
       "tags": [],
       "claim_timestamp": "00:39:58",
@@ -2940,7 +2985,7 @@
         "A-1490.1"
       ],
       "related_nodes": [
-        "N-10064"
+        "N-10061"
       ],
       "tags": [],
       "claim_timestamp": "00:40:14",
@@ -2961,7 +3006,7 @@
       "claim": "The host says she reported that the French Foreign Legion were apparently on the ground on the day of Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10290"
+        "N-10272"
       ],
       "tags": [],
       "claim_timestamp": "00:40:14",
@@ -2999,7 +3044,7 @@
       "claim": "The host says she has evidence that the French Foreign Legion was on the ground on the day Charlie Kirk was assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10290"
+        "N-10272"
       ],
       "tags": [],
       "claim_timestamp": "00:43:48",
@@ -3018,7 +3063,7 @@
       "claim": "The host says that, imagining a call to the government, she would tell them she has specific information and traceable accounts because the president of France allegedly paid $1.5 million for her assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10316"
+        "N-10297"
       ],
       "tags": [],
       "claim_timestamp": "00:43:48",
@@ -3037,7 +3082,7 @@
       "claim": "The host says the Pentagon is a 6.5 million square foot office building and the second largest office building in the world.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10064"
+        "N-10061"
       ],
       "tags": [],
       "claim_timestamp": "00:43:48",
@@ -3055,7 +3100,7 @@
       "claim": "The host says that in the Macron lawsuit she has paid over a quarter of a million dollars and has not yet had a day in court.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:47:25",
@@ -3075,8 +3120,8 @@
       "claim": "The host says her team cannot find where Brigitte Macron was on the dates the Egyptian plane flew around America, citing a six-day gap.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10294",
-        "N-10253"
+        "N-10276",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:49:08",
@@ -3097,7 +3142,7 @@
         "A-1493.1"
       ],
       "related_nodes": [
-        "N-10308"
+        "N-10290"
       ],
       "tags": [],
       "claim_timestamp": "00:49:42",
@@ -3123,7 +3168,7 @@
         "A-1493.1"
       ],
       "related_nodes": [
-        "N-10308"
+        "N-10290"
       ],
       "tags": [],
       "claim_timestamp": "00:49:59",
@@ -3329,7 +3374,7 @@
       "claim": "The host says the interview with Phil Tourney of the USS Liberty was the best interview they have ever given.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10451"
+        "N-10420"
       ],
       "tags": [],
       "claim_timestamp": "01:03:36",
@@ -3348,7 +3393,7 @@
       "claim": "The host says she will do the livestream tomorrow, does not have to be in person, and can do it by livestream.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10307"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "01:04:42",

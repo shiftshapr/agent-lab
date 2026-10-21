@@ -22,13 +22,13 @@
     "- **Transcript SHA-256**: 05c80b0f23bab3431b8d277251cd2231ddfdd801d28cb34d1e440687aa0c59f5",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Hole-minted Nodes (reintro-ep007): N-99, N-10094, N-10110, N-10297, N-10341",
-    "  - Tip-minted Nodes (reintro-ep007): N-10900, N-11116",
+    "  - Hole-minted Nodes (reintro-ep007): N-99, N-10090, N-10106, N-10279, N-10319",
+    "  - Tip-minted Nodes (reintro-ep007): N-10821, N-11034",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-584–C-657",
     "  - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145",
-    "  - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10084, N-10086, N-10087, N-10088, N-10090, N-10091",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72, N-10089, N-10134, N-10083, N-10085, N-68",
+    "  - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10079, N-10080, N-10082, N-10083, N-10084, N-10086, N-10087",
+    "  - Reused Nodes Appearing: N-11361, N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10035, N-10044, N-10050, N-10051, N-10057, N-10060, N-10067, N-10073, N-10077, N-10100, N-10134, N-10252, N-10320, N-10924, N-72, N-10085, N-10129, N-10070, N-10081, N-68",
     "## 2. Executive Summary",
     "",
     "Episode opens with reflection on Erika Kirk's memorial forgiveness speech, then pivots to alleged discrepancies in the official Charlie Kirk shooting narrative. Andrew Kolvet's TPUSA miracle statement, Kash Patel's FBI tweet, and Derek Maxfield's plane-transponder Instagram rebuttal are presented as artifact-anchored contradictions. Host introduces underground-tunnel/pipeline hypothesis beneath UVU and shows footage of rapid repaving. Later segment defends Candace from Laura Loomer's CIA-merch complaint and addresses leaked 2023 Charlie Kirk text messages and the alleged Candace–Charlie falling-out narrative.",
@@ -257,7 +257,7 @@
      "v": "00:17:12–00:17:48"
     },
     {
-     "raw": "*Related: C-600, N-94, N-10014, N-10084*"
+     "raw": "*Related: C-600, N-94, N-10014, N-10080*"
     },
     {
      "k": "Transcript Snippet",
@@ -300,7 +300,7 @@
      "v": "00:20:46–00:21:00"
     },
     {
-     "raw": "*Related: C-605, N-10012, N-10085*"
+     "raw": "*Related: C-605, N-10012, N-10081*"
     },
     {
      "k": "Transcript Snippet",
@@ -326,7 +326,7 @@
      "v": "00:21:13–00:21:27"
     },
     {
-     "raw": "*Related: C-605, N-10012, N-10085*"
+     "raw": "*Related: C-605, N-10012, N-10081*"
     },
     {
      "k": "Transcript Snippet",
@@ -387,7 +387,7 @@
      "v": "00:27:15–00:28:40"
     },
     {
-     "raw": "*Related: C-612, N-60, N-10082*"
+     "raw": "*Related: C-612, N-60, N-10079*"
     },
     {
      "k": "Transcript Snippet",
@@ -578,7 +578,7 @@
      "v": "00:39:25–00:42:59"
     },
     {
-     "raw": "*Related: C-631, N-10083*"
+     "raw": "*Related: C-631, N-10070*"
     },
     {
      "k": "Transcript Snippet",
@@ -1056,6 +1056,43 @@
     },
     {
      "raw": "*Related: A-1134.1, A-1141.2, A-1143.1, A-1143.2, C-617, C-630, C-631, C-585, C-620, C-635*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-585, C-645, C-584, C-587, C-647*"
     },
     {
      "raw": ""
@@ -1691,8 +1728,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10082",
-   "header": "**N-10082** CIA",
+   "id": "N-10079",
+   "header": "**N-10079** CIA",
    "label": "CIA",
    "lines": [
     {
@@ -1808,8 +1845,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10083",
-   "header": "**N-10083** AIPAC",
+   "id": "N-10070",
+   "header": "**N-10070** AIPAC",
    "label": "AIPAC",
    "lines": [
     {
@@ -1851,8 +1888,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10084",
-   "header": "**N-10084** FAA",
+   "id": "N-10080",
+   "header": "**N-10080** FAA",
    "label": "FAA",
    "lines": [
     {
@@ -1888,8 +1925,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10085",
-   "header": "**N-10085** Exit Wound / Bullet Trajectory Discrepancy",
+   "id": "N-10081",
+   "header": "**N-10081** Exit Wound / Bullet Trajectory Discrepancy",
    "label": "Exit Wound / Bullet Trajectory Discrepancy",
    "lines": [
     {
@@ -1897,7 +1934,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Topic Kind",
@@ -1925,8 +1962,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10086",
-   "header": "**N-10086** Transponder / Plane Anomaly Investigation",
+   "id": "N-10082",
+   "header": "**N-10082** Transponder / Plane Anomaly Investigation",
    "label": "Transponder / Plane Anomaly Investigation",
    "lines": [
     {
@@ -1934,7 +1971,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Topic Kind",
@@ -1962,8 +1999,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10087",
-   "header": "**N-10087** UVU Underground Tunnel / Pipeline Investigation",
+   "id": "N-10083",
+   "header": "**N-10083** UVU Underground Tunnel / Pipeline Investigation",
    "label": "UVU Underground Tunnel / Pipeline Investigation",
    "lines": [
     {
@@ -1971,7 +2008,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Topic Kind",
@@ -1999,8 +2036,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10088",
-   "header": "**N-10088** Candace Owens FBI/CIA Reporting Incident",
+   "id": "N-10084",
+   "header": "**N-10084** Candace Owens FBI/CIA Reporting Incident",
    "label": "Candace Owens FBI/CIA Reporting Incident",
    "lines": [
     {
@@ -2036,8 +2073,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10089",
-   "header": "**N-10089** Charlie Kirk / Candace Alleged Falling Out",
+   "id": "N-10085",
+   "header": "**N-10085** Charlie Kirk / Candace Alleged Falling Out",
    "label": "Charlie Kirk / Candace Alleged Falling Out",
    "lines": [
     {
@@ -2073,8 +2110,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10090",
-   "header": "**N-10090** Screwdriver Evidence Question",
+   "id": "N-10086",
+   "header": "**N-10086** Screwdriver Evidence Question",
    "label": "Screwdriver Evidence Question",
    "lines": [
     {
@@ -2082,7 +2119,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Topic Kind",
@@ -2110,8 +2147,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10091",
-   "header": "**N-10091** Dr. Frank Turek Suspicion",
+   "id": "N-10087",
+   "header": "**N-10087** Dr. Frank Turek Suspicion",
    "label": "Dr. Frank Turek Suspicion",
    "lines": [
     {
@@ -2524,8 +2561,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10036",
-   "header": "**N-10036** Building Donor Withdrawal Investigation",
+   "id": "N-10035",
+   "header": "**N-10035** Building Donor Withdrawal Investigation",
    "label": "Building Donor Withdrawal Investigation",
    "lines": [
     {
@@ -2553,8 +2590,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10047",
-   "header": "**N-10047** Donor Intimidation of Charlie Kirk",
+   "id": "N-10044",
+   "header": "**N-10044** Donor Intimidation of Charlie Kirk",
    "label": "Donor Intimidation of Charlie Kirk",
    "lines": [
     {
@@ -2582,8 +2619,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10053",
-   "header": "**N-10053** Vacant-House / Decoy Shooter Theory",
+   "id": "N-10050",
+   "header": "**N-10050** Vacant-House / Decoy Shooter Theory",
    "label": "Vacant-House / Decoy Shooter Theory",
    "lines": [
     {
@@ -2611,8 +2648,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10054",
-   "header": "**N-10054** Caldera Engineering Valve Pattern",
+   "id": "N-10051",
+   "header": "**N-10051** Caldera Engineering Valve Pattern",
    "label": "Caldera Engineering Valve Pattern",
    "lines": [
     {
@@ -2640,8 +2677,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10060",
-   "header": "**N-10060** Good Morning America",
+   "id": "N-10057",
+   "header": "**N-10057** Good Morning America",
    "label": "Good Morning America",
    "lines": [
     {
@@ -2669,8 +2706,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10063",
-   "header": "**N-10063** Gaza",
+   "id": "N-10060",
+   "header": "**N-10060** Gaza",
    "label": "Gaza",
    "lines": [
     {
@@ -2698,8 +2735,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10070",
-   "header": "**N-10070** Daily Mail",
+   "id": "N-10067",
+   "header": "**N-10067** Daily Mail",
    "label": "Daily Mail",
    "lines": [
     {
@@ -2727,8 +2764,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10076",
-   "header": "**N-10076** Cameragate Investigation",
+   "id": "N-10073",
+   "header": "**N-10073** Cameragate Investigation",
    "label": "Cameragate Investigation",
    "lines": [
     {
@@ -2756,8 +2793,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10080",
-   "header": "**N-10080** Valve/Piping Industry Intelligence Connection",
+   "id": "N-10077",
+   "header": "**N-10077** Valve/Piping Industry Intelligence Connection",
    "label": "Valve/Piping Industry Intelligence Connection",
    "lines": [
     {
@@ -2785,8 +2822,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10094",
-   "header": "**N-10094** LDS Church",
+   "id": "N-10090",
+   "header": "**N-10090** LDS Church",
    "label": "LDS Church",
    "lines": [
     {
@@ -2814,8 +2851,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10104",
-   "header": "**N-10104** Catholic Conversion Rumor",
+   "id": "N-10100",
+   "header": "**N-10100** Catholic Conversion Rumor",
    "label": "Catholic Conversion Rumor",
    "lines": [
     {
@@ -2843,8 +2880,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10110",
-   "header": "**N-10110** Tyler Robinson Evidence Gaps",
+   "id": "N-10106",
+   "header": "**N-10106** Tyler Robinson Evidence Gaps",
    "label": "Tyler Robinson Evidence Gaps",
    "lines": [
     {
@@ -2872,8 +2909,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10134",
-   "header": "**N-10134** Hamptons Weekend Retreat",
+   "id": "N-10129",
+   "header": "**N-10129** Hamptons Weekend Retreat",
    "label": "Hamptons Weekend Retreat",
    "lines": [
     {
@@ -2901,8 +2938,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10139",
-   "header": "**N-10139** Operation Mocking Pastor",
+   "id": "N-10134",
+   "header": "**N-10134** Operation Mocking Pastor",
    "label": "Operation Mocking Pastor",
    "lines": [
     {
@@ -2930,8 +2967,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10268",
-   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "id": "N-10252",
+   "header": "**N-10252** AmFest Speaker Removal Pattern",
    "label": "AmFest Speaker Removal Pattern",
    "lines": [
     {
@@ -2959,8 +2996,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10297",
-   "header": "**N-10297** Eric Bolling / PBD Podcast Apology Incident",
+   "id": "N-10279",
+   "header": "**N-10279** Eric Bolling / PBD Podcast Apology Incident",
    "label": "Eric Bolling / PBD Podcast Apology Incident",
    "lines": [
     {
@@ -2988,8 +3025,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10341",
-   "header": "**N-10341** Andrew Kolvet Surgeon Bullet Description",
+   "id": "N-10319",
+   "header": "**N-10319** Andrew Kolvet Surgeon Bullet Description",
    "label": "Andrew Kolvet Surgeon Bullet Description",
    "lines": [
     {
@@ -3017,8 +3054,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10342",
-   "header": "**N-10342** Bibi Netanyahu TPUSA Funding Offer",
+   "id": "N-10320",
+   "header": "**N-10320** Bibi Netanyahu TPUSA Funding Offer",
    "label": "Bibi Netanyahu TPUSA Funding Offer",
    "lines": [
     {
@@ -3046,8 +3083,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10900",
-   "header": "**N-10900** Daily Wire",
+   "id": "N-10821",
+   "header": "**N-10821** Daily Wire",
    "label": "Daily Wire",
    "lines": [
     {
@@ -3075,8 +3112,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11004",
-   "header": "**N-11004** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
+   "id": "N-10924",
+   "header": "**N-10924** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
    "label": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
    "lines": [
     {
@@ -3104,8 +3141,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11116",
-   "header": "**N-11116** Candace Owens Daily Wire Firing Reasons",
+   "id": "N-11034",
+   "header": "**N-11034** Candace Owens Daily Wire Firing Reasons",
    "label": "Candace Owens Daily Wire Firing Reasons",
    "lines": [
     {
@@ -3164,6 +3201,10 @@
      "v": "A-1134.1, A-1134.2"
     },
     {
+     "k": "Related Nodes",
+     "v": "N-11361"
+    },
+    {
      "k": "Mentions",
      "v": "N-1, N-2"
     },
@@ -3213,7 +3254,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10085"
+     "v": "N-10000, N-10081"
     },
     {
      "k": "Investigative Direction",
@@ -3261,7 +3302,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10085"
+     "v": "N-10081"
     },
     {
      "k": "Investigative Direction",
@@ -3309,7 +3350,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10085"
+     "v": "N-10081"
     },
     {
      "k": "Investigative Direction",
@@ -3409,7 +3450,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10014, N-10084, N-10086"
+     "v": "N-10014, N-10080, N-10082"
     },
     {
      "k": "Confidence",
@@ -3465,7 +3506,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10012, N-10087"
+     "v": "N-10012, N-10083"
     },
     {
      "k": "Investigative Direction",
@@ -3561,7 +3602,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10082, N-10088"
+     "v": "N-10079, N-10084"
     },
     {
      "k": "Investigative Direction",
@@ -3609,7 +3650,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10089"
+     "v": "N-10085"
     },
     {
      "k": "Investigative Direction",
@@ -3661,7 +3702,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10089"
+     "v": "N-10085"
     },
     {
      "k": "Investigative Direction",
@@ -3757,7 +3798,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10083"
+     "v": "N-10070"
     },
     {
      "k": "Investigative Direction",
@@ -3805,7 +3846,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10083"
+     "v": "N-10070"
     },
     {
      "k": "Investigative Direction",
@@ -3898,7 +3939,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10090"
+     "v": "N-10086"
     },
     {
      "k": "Investigative Direction",
@@ -3946,7 +3987,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10091"
+     "v": "N-10087, N-11361"
     },
     {
      "k": "Investigative Direction",
@@ -4151,6 +4192,10 @@
      "raw": ""
     },
     {
+     "k": "Related Nodes",
+     "v": "N-11361"
+    },
+    {
      "k": "Mentions",
      "v": "N-3, N-2"
     },
@@ -4282,6 +4327,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11361"
     },
     {
      "k": "Mentions",
@@ -4580,7 +4629,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-83, N-10076"
+     "v": "N-83, N-10073"
     },
     {
      "raw": ""
@@ -4661,7 +4710,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10085"
+     "v": "N-10081"
     },
     {
      "raw": ""
@@ -4741,7 +4790,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10341, N-10085"
+     "v": "N-10319, N-10081"
     },
     {
      "raw": ""
@@ -4815,7 +4864,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "raw": ""
@@ -4962,7 +5011,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10053, N-10012"
+     "v": "N-10050, N-10012"
     },
     {
      "raw": ""
@@ -5036,7 +5085,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10054, N-10011"
+     "v": "N-10051, N-10011"
     },
     {
      "raw": ""
@@ -5117,7 +5166,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10080"
+     "v": "N-10077"
     },
     {
      "raw": ""
@@ -5197,7 +5246,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10087, N-10012"
+     "v": "N-10083, N-10012"
     },
     {
      "raw": ""
@@ -5278,7 +5327,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10087, N-10085"
+     "v": "N-10083, N-10081"
     },
     {
      "raw": ""
@@ -5352,7 +5401,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10012, N-10087"
+     "v": "N-10012, N-10083"
     },
     {
      "raw": ""
@@ -5433,7 +5482,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10014, N-10082, N-10088"
+     "v": "N-10014, N-10079, N-10084"
     },
     {
      "raw": ""
@@ -5514,7 +5563,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10297"
+     "v": "N-10279"
     },
     {
      "raw": ""
@@ -5588,7 +5637,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10089"
+     "v": "N-10085"
     },
     {
      "raw": ""
@@ -5669,7 +5718,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10027, N-10134"
+     "v": "N-10027, N-10129"
     },
     {
      "raw": ""
@@ -5742,7 +5791,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10089, N-10047"
+     "v": "N-10085, N-10044"
     },
     {
      "raw": ""
@@ -5881,7 +5930,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10089, N-10063"
+     "v": "N-10085, N-10060"
     },
     {
      "raw": ""
@@ -6027,7 +6076,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10089"
+     "v": "N-10085"
     },
     {
      "raw": ""
@@ -6101,7 +6150,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10089"
+     "v": "N-10000, N-10085"
     },
     {
      "raw": ""
@@ -6182,7 +6231,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10268"
+     "v": "N-10252"
     },
     {
      "raw": ""
@@ -6323,7 +6372,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11116, N-10900"
+     "v": "N-11034, N-10821"
     },
     {
      "raw": ""
@@ -6396,7 +6445,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10083"
+     "v": "N-10070"
     },
     {
      "raw": ""
@@ -6469,7 +6518,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10083"
+     "v": "N-10070"
     },
     {
      "raw": ""
@@ -6542,7 +6591,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10083"
+     "v": "N-10070"
     },
     {
      "raw": ""
@@ -6616,7 +6665,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10083"
+     "v": "N-10070"
     },
     {
      "raw": ""
@@ -6697,7 +6746,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "raw": ""
@@ -6910,7 +6959,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10060"
+     "v": "N-10057"
     },
     {
      "raw": ""
@@ -7051,7 +7100,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10063"
+     "v": "N-10060"
     },
     {
      "raw": ""
@@ -7125,7 +7174,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10087, N-10012"
+     "v": "N-10083, N-10012"
     },
     {
      "raw": ""
@@ -7199,7 +7248,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10012, N-10087"
+     "v": "N-10012, N-10083"
     },
     {
      "raw": ""
@@ -7346,7 +7395,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070"
+     "v": "N-10067, N-11361"
     },
     {
      "raw": ""
@@ -7426,7 +7475,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10094, N-10012"
+     "v": "N-10090, N-10012"
     },
     {
      "raw": ""
@@ -7698,7 +7747,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10342"
+     "v": "N-10320"
     },
     {
      "raw": ""
@@ -7772,7 +7821,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10139, N-11004"
+     "v": "N-10134, N-10924"
     },
     {
      "raw": ""
@@ -7853,7 +7902,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10342"
+     "v": "N-10320"
     },
     {
      "raw": ""
@@ -7927,7 +7976,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10104"
+     "v": "N-10100"
     },
     {
      "raw": ""
@@ -8001,7 +8050,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10104"
+     "v": "N-10100"
     },
     {
      "raw": ""
@@ -8075,7 +8124,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10036, N-10000"
+     "v": "N-10035, N-10000"
     },
     {
      "raw": ""

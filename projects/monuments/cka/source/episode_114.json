@@ -19,10 +19,10 @@
     "- **Model Version**: claude-manual-extract-seq114",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Hole-minted Nodes (reintro-ep114): N-10724, N-10863",
+    "  - Hole-minted Nodes (reintro-ep114): N-10659, N-10784",
     "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
-    "  - Tip-minted Nodes (skeleton): N-673, N-10969, N-10970",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-190, N-217, N-265, N-266, N-278, N-298, N-361, N-378, N-418, N-433, N-597, N-643, N-665, N-10000, N-10006, N-10012, N-10014, N-10023, N-10111, N-10131, N-10264, N-10268, N-10324, N-10342, N-10367, N-10373, N-10384, N-10398, N-10417, N-10505, N-10571, N-10588, N-10594, N-10651, N-10671, N-10673, N-10675, N-10700, N-10870, N-10888, N-10968, N-674",
+    "  - Tip-minted Nodes (skeleton): N-673, N-10890, N-10891",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-190, N-217, N-265, N-266, N-278, N-298, N-361, N-378, N-418, N-433, N-597, N-643, N-665, N-10000, N-10006, N-10012, N-10014, N-10023, N-10107, N-10126, N-10248, N-10252, N-10303, N-10320, N-10342, N-10347, N-10357, N-10371, N-10390, N-10466, N-10522, N-10536, N-10406, N-10593, N-10611, N-10129, N-10614, N-10637, N-10791, N-10809, N-10889, N-674",
     "  - Claim Range: C-9867–C-9925",
     "  - (see registers)",
     "",
@@ -293,7 +293,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9879, C-9883, C-9884, C-9885, N-10968, N-10969, N-5, N-1, N-22, N-46, N-85, N-9*"
+     "raw": "*Related: C-9879, C-9883, C-9884, C-9885, N-10889, N-10890, N-5, N-1, N-22, N-46, N-85, N-9*"
     },
     {
      "raw": ""
@@ -406,7 +406,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9893, N-2, N-665, N-10264, N-10970*"
+     "raw": "*Related: C-9893, N-2, N-665, N-10248, N-10891*"
     },
     {
      "raw": ""
@@ -449,7 +449,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9894, N-665, N-10131*"
+     "raw": "*Related: C-9894, N-665, N-10126*"
     },
     {
      "raw": ""
@@ -562,7 +562,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9912, C-9913, C-9914, N-433, N-10671, N-10384*"
+     "raw": "*Related: C-9912, C-9913, C-9914, N-433, N-10611, N-10357*"
     },
     {
      "raw": ""
@@ -622,7 +622,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9916, C-9917, C-9918, C-9919, N-433, N-10700, N-10671, N-10888*"
+     "raw": "*Related: C-9916, C-9917, C-9918, C-9919, N-433, N-10637, N-10611, N-10809*"
     },
     {
      "raw": ""
@@ -1788,8 +1788,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10111",
-   "header": "**N-10111** Crooks Federal-Radar Question",
+   "id": "N-10107",
+   "header": "**N-10107** Crooks Federal-Radar Question",
    "label": "Crooks Federal-Radar Question",
    "lines": [
     {
@@ -1811,8 +1811,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10131",
-   "header": "**N-10131** PragerU",
+   "id": "N-10126",
+   "header": "**N-10126** PragerU",
    "label": "PragerU",
    "lines": [
     {
@@ -1834,8 +1834,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10264",
-   "header": "**N-10264** Calvary Chapel Pro-Israel Coordination",
+   "id": "N-10248",
+   "header": "**N-10248** Calvary Chapel Pro-Israel Coordination",
    "label": "Calvary Chapel Pro-Israel Coordination",
    "lines": [
     {
@@ -1857,8 +1857,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10268",
-   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "id": "N-10252",
+   "header": "**N-10252** AmFest Speaker Removal Pattern",
    "label": "AmFest Speaker Removal Pattern",
    "lines": [
     {
@@ -1880,8 +1880,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10324",
-   "header": "**N-10324** Epstein Files Release Status",
+   "id": "N-10303",
+   "header": "**N-10303** Epstein Files Release Status",
    "label": "Epstein Files Release Status",
    "lines": [
     {
@@ -1903,8 +1903,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10342",
-   "header": "**N-10342** Bibi Netanyahu TPUSA Funding Offer",
+   "id": "N-10320",
+   "header": "**N-10320** Bibi Netanyahu TPUSA Funding Offer",
    "label": "Bibi Netanyahu TPUSA Funding Offer",
    "lines": [
     {
@@ -1926,8 +1926,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10367",
-   "header": "**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "id": "N-10342",
+   "header": "**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "label": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "lines": [
     {
@@ -1949,8 +1949,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10373",
-   "header": "**N-10373** Brian Harpole Fort Huachuca Presence Verification",
+   "id": "N-10347",
+   "header": "**N-10347** Brian Harpole Fort Huachuca Presence Verification",
    "label": "Brian Harpole Fort Huachuca Presence Verification",
    "lines": [
     {
@@ -1972,8 +1972,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10384",
-   "header": "**N-10384** Davis-Monthan AFB September 9 Attendee Verification",
+   "id": "N-10357",
+   "header": "**N-10357** Davis-Monthan AFB September 9 Attendee Verification",
    "label": "Davis-Monthan AFB September 9 Attendee Verification",
    "lines": [
     {
@@ -1995,8 +1995,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10398",
-   "header": "**N-10398** Turning Point USA Faith Structure",
+   "id": "N-10371",
+   "header": "**N-10371** Turning Point USA Faith Structure",
    "label": "Turning Point USA Faith Structure",
    "lines": [
     {
@@ -2018,8 +2018,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10417",
-   "header": "**N-10417** Fort Huachuca Erika Presence Investigation",
+   "id": "N-10390",
+   "header": "**N-10390** Fort Huachuca Erika Presence Investigation",
    "label": "Fort Huachuca Erika Presence Investigation",
    "lines": [
     {
@@ -2041,8 +2041,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10505",
-   "header": "**N-10505** Erika Kirk Post-Assassination Conduct Composite",
+   "id": "N-10466",
+   "header": "**N-10466** Erika Kirk Post-Assassination Conduct Composite",
    "label": "Erika Kirk Post-Assassination Conduct Composite",
    "lines": [
     {
@@ -2064,8 +2064,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10571",
-   "header": "**N-10571** July 14, 2025 Long Beach Flight",
+   "id": "N-10522",
+   "header": "**N-10522** July 14, 2025 Long Beach Flight",
    "label": "July 14, 2025 Long Beach Flight",
    "lines": [
     {
@@ -2087,8 +2087,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10588",
-   "header": "**N-10588** Butler PA Investigation Closure Verification",
+   "id": "N-10536",
+   "header": "**N-10536** Butler PA Investigation Closure Verification",
    "label": "Butler PA Investigation Closure Verification",
    "lines": [
     {
@@ -2110,9 +2110,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10594",
-   "header": "**N-10594** Aspen Donor Inconsistency",
-   "label": "Aspen Donor Inconsistency",
+   "id": "N-10406",
+   "header": "**N-10406** Aspen Donor Recall Verification",
+   "label": "Aspen Donor Recall Verification",
    "lines": [
     {
      "raw": ""
@@ -2133,8 +2133,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10651",
-   "header": "**N-10651** Brian Harpole Lawsuit Coordination Question",
+   "id": "N-10593",
+   "header": "**N-10593** Brian Harpole Lawsuit Coordination Question",
    "label": "Brian Harpole Lawsuit Coordination Question",
    "lines": [
     {
@@ -2156,8 +2156,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10671",
-   "header": "**N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest",
+   "id": "N-10611",
+   "header": "**N-10611** SAM702 / Fort Huachuca September 9 Passenger Manifest",
    "label": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
    "lines": [
     {
@@ -2179,9 +2179,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10673",
-   "header": "**N-10673** Hamptons August 5–7 Intervention Event",
-   "label": "Hamptons August 5–7 Intervention Event",
+   "id": "N-10129",
+   "header": "**N-10129** Hamptons Weekend Retreat",
+   "label": "Hamptons Weekend Retreat",
    "lines": [
     {
      "raw": ""
@@ -2202,8 +2202,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10675",
-   "header": "**N-10675** Turning Point UVU Event Submission Chain",
+   "id": "N-10614",
+   "header": "**N-10614** Turning Point UVU Event Submission Chain",
    "label": "Turning Point UVU Event Submission Chain",
    "lines": [
     {
@@ -2225,8 +2225,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10700",
-   "header": "**N-10700** Pending FOIA Requests",
+   "id": "N-10637",
+   "header": "**N-10637** Pending FOIA Requests",
    "label": "Pending FOIA Requests",
    "lines": [
     {
@@ -2248,8 +2248,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10724",
-   "header": "**N-10724** Butler Shooting Insider Involvement Claim",
+   "id": "N-10659",
+   "header": "**N-10659** Butler Shooting Insider Involvement Claim",
    "label": "Butler Shooting Insider Involvement Claim",
    "lines": [
     {
@@ -2271,8 +2271,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10863",
-   "header": "**N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
+   "id": "N-10784",
+   "header": "**N-10784** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
    "label": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
    "lines": [
     {
@@ -2294,8 +2294,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10870",
-   "header": "**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
+   "id": "N-10791",
+   "header": "**N-10791** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
    "label": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
    "lines": [
     {
@@ -2317,8 +2317,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10888",
-   "header": "**N-10888** Department of War",
+   "id": "N-10809",
+   "header": "**N-10809** Department of War",
    "label": "Department of War",
    "lines": [
     {
@@ -2340,8 +2340,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10968",
-   "header": "**N-10968** The New York Times",
+   "id": "N-10889",
+   "header": "**N-10889** The New York Times",
    "label": "The New York Times",
    "lines": [
     {
@@ -2367,8 +2367,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10969",
-   "header": "**N-10969** Trump–Charlie Kirk July 12, 2025 Scolding Call",
+   "id": "N-10890",
+   "header": "**N-10890** Trump–Charlie Kirk July 12, 2025 Scolding Call",
    "label": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
    "lines": [
     {
@@ -2376,7 +2376,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Event"
     },
     {
      "k": "Investigation target",
@@ -2395,16 +2395,16 @@
   },
   {
    "kind": "node",
-   "id": "N-10970",
-   "header": "**N-10970** Erika Kirk July 2025 Israel Stance Discrepancy",
-   "label": "Erika Kirk July 2025 Israel Stance Discrepancy",
+   "id": "N-10891",
+   "header": "**N-10891** Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner",
+   "label": "Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner",
    "lines": [
     {
      "raw": ""
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Investigation target",
@@ -2468,7 +2468,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10588"
+     "v": "N-10536"
     },
     {
      "k": "Investigative Direction",
@@ -2525,7 +2525,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10014, N-10111"
+     "v": "N-10014, N-10107"
     },
     {
      "k": "Investigative Direction",
@@ -2582,7 +2582,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10588"
+     "v": "N-10536"
     },
     {
      "k": "Investigative Direction",
@@ -2696,7 +2696,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10588"
+     "v": "N-10536"
     },
     {
      "k": "Investigative Direction",
@@ -2810,7 +2810,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10588"
+     "v": "N-10536"
     },
     {
      "k": "Investigative Direction",
@@ -2867,7 +2867,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10588"
+     "v": "N-10536"
     },
     {
      "k": "Investigative Direction",
@@ -2924,7 +2924,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10588"
+     "v": "N-10536"
     },
     {
      "k": "Investigative Direction",
@@ -2981,7 +2981,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10588"
+     "v": "N-10536"
     },
     {
      "k": "Investigative Direction",
@@ -3038,7 +3038,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10724"
+     "v": "N-10659"
     },
     {
      "k": "Investigative Direction",
@@ -3148,7 +3148,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10968, N-10324"
+     "v": "N-10889, N-10303"
     },
     {
      "k": "Investigative Direction",
@@ -3262,7 +3262,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10969"
+     "v": "N-10890"
     },
     {
      "k": "Investigative Direction",
@@ -3319,7 +3319,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10969"
+     "v": "N-10890"
     },
     {
      "k": "Investigative Direction",
@@ -3376,7 +3376,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10968, N-10324"
+     "v": "N-10889, N-10303"
     },
     {
      "k": "Investigative Direction",
@@ -3433,7 +3433,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10968"
+     "v": "N-10889"
     },
     {
      "k": "Investigative Direction",
@@ -3490,7 +3490,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10969, N-10000, N-10968"
+     "v": "N-10890, N-10000, N-10889"
     },
     {
      "k": "Investigative Direction",
@@ -3763,7 +3763,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10571"
+     "v": "N-10522"
     },
     {
      "k": "Investigative Direction",
@@ -3820,7 +3820,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10398, N-10264, N-10000"
+     "v": "N-10371, N-10248, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -3930,7 +3930,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10970, N-10264"
+     "v": "N-10891, N-10248"
     },
     {
      "k": "Investigative Direction",
@@ -3987,7 +3987,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10131"
+     "v": "N-10126"
     },
     {
      "k": "Investigative Direction",
@@ -4044,7 +4044,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10675, N-10012, N-10863"
+     "v": "N-10614, N-10012, N-10784"
     },
     {
      "k": "Supports",
@@ -4158,7 +4158,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10870"
+     "v": "N-10791"
     },
     {
      "k": "Investigative Direction",
@@ -4325,7 +4325,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10970"
+     "v": "N-10891"
     },
     {
      "k": "Investigative Direction",
@@ -4382,7 +4382,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10970"
+     "v": "N-10891"
     },
     {
      "k": "Investigative Direction",
@@ -4439,7 +4439,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10970"
+     "v": "N-10891"
     },
     {
      "k": "Investigative Direction",
@@ -4549,7 +4549,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10673"
+     "v": "N-10129"
     },
     {
      "k": "Supports",
@@ -4610,7 +4610,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10342"
+     "v": "N-10320"
     },
     {
      "k": "Investigative Direction",
@@ -4667,7 +4667,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10594"
+     "v": "N-10406"
     },
     {
      "k": "Investigative Direction",
@@ -4724,7 +4724,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10505"
+     "v": "N-10466"
     },
     {
      "k": "Investigative Direction",
@@ -4948,7 +4948,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373, N-10651, N-10367"
+     "v": "N-10347, N-10593, N-10342"
     },
     {
      "k": "Investigative Direction",
@@ -5005,7 +5005,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10671, N-10384"
+     "v": "N-10611, N-10357"
     },
     {
      "k": "Investigative Direction",
@@ -5062,7 +5062,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10671"
+     "v": "N-10611"
     },
     {
      "k": "Investigative Direction",
@@ -5119,7 +5119,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10671"
+     "v": "N-10611"
     },
     {
      "k": "Investigative Direction",
@@ -5176,7 +5176,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10417, N-10367"
+     "v": "N-10390, N-10342"
     },
     {
      "k": "Investigative Direction",
@@ -5233,7 +5233,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10700, N-10671"
+     "v": "N-10637, N-10611"
     },
     {
      "k": "Investigative Direction",
@@ -5290,7 +5290,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10700, N-10671"
+     "v": "N-10637, N-10611"
     },
     {
      "k": "Investigative Direction",
@@ -5347,7 +5347,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10888"
+     "v": "N-10809"
     },
     {
      "k": "Investigative Direction",
@@ -5400,7 +5400,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10700"
+     "v": "N-10637"
     },
     {
      "k": "Investigative Direction",
@@ -5510,7 +5510,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10505"
+     "v": "N-10466"
     },
     {
      "k": "Investigative Direction",
@@ -5567,7 +5567,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10268, N-10000"
+     "v": "N-10252, N-10000"
     },
     {
      "k": "Investigative Direction",

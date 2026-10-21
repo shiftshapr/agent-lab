@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-879, N-880, N-881, N-882, N-883, N-884, N-885, N-11289, N-11290
+  - Tip-minted Nodes (supplement_2026-10e): N-879, N-880, N-881, N-882, N-883, N-884, N-885, N-11205, N-11206
   - Hole-minted Nodes (reintro-ep061): N-542
-  - Tip-minted Nodes (reintro-ep061): N-11180
+  - Tip-minted Nodes (reintro-ep061): N-11096
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5431–C-5522
-  - New Nodes Introduced: N-480, N-481, N-482, N-483, N-486, N-10433, N-10435
-  - Reused Nodes Appearing: N-3, N-484, N-10434, N-10436, N-10437, N-485, N-10432, N-11, N-27, N-32, N-159, N-217, N-237, N-266, N-270, N-359, N-10000, N-10132, N-10267, N-10340, N-10417, N-10427, N-10661, N-10925, N-11035
+  - New Nodes Introduced: N-480, N-481, N-482, N-483, N-486, N-10403
+  - Reused Nodes Appearing: N-3, N-484, N-10404, N-10405, N-10406, N-485, N-10402, N-11, N-27, N-32, N-159, N-217, N-237, N-266, N-270, N-359, N-10000, N-10127, N-10251, N-10318, N-10390, N-10603, N-10846, N-11002
   - (see registers)
 
 ## 2. Executive Summary
@@ -105,7 +105,7 @@ Video Timestamp: 00:06:17–00:15:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5431, C-5460, C-5458, C-5453, C-5446, C-5447, C-5442, C-5437, C-5445, N-1, N-2, N-486, N-41, N-10432, N-10433, N-10435, N-10436*
+*Related: C-5431, C-5460, C-5458, C-5453, C-5446, C-5447, C-5442, C-5437, C-5445, N-1, N-2, N-486, N-41, N-10402, N-10403, N-10390, N-10405*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:04:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5432, C-5433, N-277, N-10432, N-10433*
+*Related: C-5432, C-5433, N-277, N-10402, N-10403*
 
 ---
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:58:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-source verbal recollection, donor unnamed)
 
-*Related: C-5512, N-1, N-2, N-10437*
+*Related: C-5512, N-1, N-2, N-10406*
 
 ---
 
@@ -348,7 +348,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, C-5454, N-10436*
+*Related: A-1661.1, C-5454, N-10405*
 
 ---
 
@@ -361,7 +361,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, N-10432*
+*Related: A-1661.1, N-10402*
 
 ---
 
@@ -373,7 +373,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, N-2, N-10432*
+*Related: A-1661.1, N-2, N-10402*
 
 ---
 
@@ -386,11 +386,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10432*
+*Related: N-10402*
 
 ---
 
-**N-10432** TPUSA Non-Disparagement Enforcement Campaign
+**N-10402** TPUSA Non-Disparagement Enforcement Campaign
 
 Persistent effort by Turning Point USA to invoke a 12-month post-termination non-disparagement clause to silence Owens's investigation-related commentary.
 
@@ -403,7 +403,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10433** TPUSA Financial Impropriety Allegations
+**N-10403** TPUSA Financial Impropriety Allegations
 
 Persistent allegation that TPUSA engaged in financial impropriety, formally cited in the cease and desist letter and attributed by host to DOGE-style scrutiny.
 
@@ -412,11 +412,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, A-1662.1, C-5446, C-5433, N-10434*
+*Related: A-1661.1, A-1662.1, C-5446, C-5433, N-10404*
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Host's claim that Charlie Kirk established a "DOGE" (Department of Government Efficiency-style entity) seven days before his death, framed as a possible motive for financial scrutiny.
 
@@ -425,23 +425,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, C-5445, N-10433*
+*Related: A-1661.1, C-5445, N-10403*
 
 ---
 
-**N-10435** Fort Huachuca Erika Kirk Location Investigation
-Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a "secret meeting" at Fort Huachuca linked to the Kirk assassination.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1661.1, C-5453, N-1, N-2*
-
----
-
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Allegation cited in the TPUSA letter – that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.
 
@@ -454,7 +442,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10437** Aspen Donor Recall Verification
+**N-10406** Aspen Donor Recall Verification
 
 Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erika Kirk as someone who would "know what to do" if something happened.
 
@@ -579,7 +567,7 @@ Turning Point USA; sender of the cease and desist letter and subject of the host
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Existing topic reused for the DOGE claim in this episode.
 
@@ -587,7 +575,7 @@ Existing topic reused for the DOGE claim in this episode.
 
 ---
 
-**N-10267** TPUSA Drone Disclosure Discrepancy
+**N-10251** TPUSA Drone Disclosure Discrepancy
 
 Existing topic reused for the conflicting drone answers claim.
 
@@ -595,7 +583,7 @@ Existing topic reused for the conflicting drone answers claim.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for claims about Charlie's night-before messages.
 
@@ -603,7 +591,7 @@ Existing topic reused for claims about Charlie's night-before messages.
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Existing topic reused for the host's requests about Erika Kirk's whereabouts (the letter's 'Fort Huachuca' is this Fort Huachuca question).
 
@@ -611,15 +599,7 @@ Existing topic reused for the host's requests about Erika Kirk's whereabouts (th
 
 ---
 
-**N-10427** TPUSA Drone Story Discrepancy
-
-Existing topic reused for the conflicting drone answers claim.
-
-*Related: C-5451*
-
----
-
-**N-10661** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
+**N-10603** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
 
 Existing topic for the Lively and Baldoni litigation, reused for the Swift texts claims.
 
@@ -627,7 +607,7 @@ Existing topic for the Lively and Baldoni litigation, reused for the Swift texts
 
 ---
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 Turning Point Action; named in the letter as an affiliate whose people are the target of the host's allegations.
 
@@ -635,7 +615,7 @@ Turning Point Action; named in the letter as an affiliate whose people are the t
 
 ---
 
-**N-11035** TPUSA Employee Purge and Leak Hunt
+**N-11002** TPUSA Leak Hunt and Employee Firings
 
 Existing topic reused for the host's remarks on TPUSA firings.
 
@@ -643,7 +623,7 @@ Existing topic reused for the host's remarks on TPUSA firings.
 
 ---
 
-**N-11180** TPUSA Cease and Desist Letter to Candace Owens
+**N-11096** TPUSA Cease and Desist Letter to Candace Owens
 
 Existing topic reused for claims about the cease and desist letter and the host's response.
 
@@ -715,7 +695,7 @@ Aliases: Anwar Hadid
 
 ---
 
-**N-11289** Beckham Family Estrangement Dispute
+**N-11205** Beckham Family Estrangement Dispute
 
 Node Type: Topic
 Brooklyn Beckham's public Instagram statement about his family and the host's account of the wedding dress, dance, seating and contract disputes.
@@ -724,7 +704,7 @@ Brooklyn Beckham's public Instagram statement about his family and the host's ac
 
 ---
 
-**N-11290** Nicola Peltz Dog Grooming Lawsuit
+**N-11206** Nicola Peltz Dog Grooming Lawsuit
 
 Node Type: Topic
 Lawsuit the host says Nicola Peltz brought against a mobile dog-grooming company after her Chihuahua died.
@@ -744,7 +724,7 @@ Claim: The host says she received a cease and desist letter from Turning Point U
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 
-Related Nodes: N-10432
+Related Nodes: N-10402
 
 Investigative Direction: Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date.
 
@@ -759,7 +739,7 @@ Claim: The TPUSA letter demands that Owens cease stating or implying that TPUSA 
 Anchored Artifacts: A-1661.1
 Mentions: N-1, N-3
 
-Related Nodes: N-10432
+Related Nodes: N-10402
 
 Investigative Direction: Compare the prohibited scope articulated in the letter with Owens's prior on-air statements to identify specific statements TPUSA considers actionable.
 
@@ -774,7 +754,7 @@ Claim: The TPUSA letter alleges that Owens accused a TPUSA employee of being "in
 Anchored Artifacts: A-1661.1
 Mentions: N-2, N-3
 
-Related Nodes: N-10435
+Related Nodes: N-10390
 
 Investigative Direction: Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Huachuca meeting is independently documented.
 
@@ -789,7 +769,7 @@ Claim: The TPUSA letter alleges that Owens claimed there are "not good people" a
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 
-Related Nodes: N-10436
+Related Nodes: N-10405
 
 Investigative Direction: Identify the specific personnel Owens considers "military operatives" and determine whether any verifiable affiliation exists.
 
@@ -804,7 +784,7 @@ Claim: The TPUSA letter alleges that Owens "has stated that there is definitely 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 
-Related Nodes: N-10433
+Related Nodes: N-10403
 
 Investigative Direction: Compare the TPUSA letter's characterization with Owens's actual on-air wording to assess whether the paraphrase is fair.
 
@@ -819,7 +799,7 @@ Claim: The TPUSA letter alleges that Owens has published a "list of lies" that s
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 
-Related Nodes: N-10432, N-10433
+Related Nodes: N-10402, N-10403
 
 Investigative Direction: Identify the specific published list and each underlying claim to determine which items TPUSA disputes.
 
@@ -834,7 +814,7 @@ Claim: The TPUSA letter states that Owens's non-disparagement obligation remains
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 
-Related Nodes: N-10432
+Related Nodes: N-10402
 
 Investigative Direction: Obtain the executed speaking agreement to verify the existence, scope, and duration of the non-disparagement clause.
 
@@ -849,7 +829,7 @@ Claim: The TPUSA letter states that Owens was requested on December 15, 2025, to
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 
-Related Nodes: N-10432
+Related Nodes: N-10402
 
 Investigative Direction: Obtain the December 15, 2025 communication and any prior December 2 and December 4 letters referenced in the cease and desist.
 
@@ -864,7 +844,7 @@ Claim: In a clip the host plays, Tim Dillon says TPUSA wants people's money and 
 Anchored Artifacts: A-1662.1
 Mentions: N-277, N-3
 
-Related Nodes: N-10432, N-10433
+Related Nodes: N-10402, N-10403
 
 Investigative Direction: Identify the original Tim Dillon episode and timestamp for the quoted clip.
 
@@ -879,7 +859,7 @@ Claim: Owens adopts Tim Dillon's assessment that TPUSA's principal concern is mo
 Anchored Artifacts: A-1661.1, A-1662.1
 Mentions: N-277, N-3
 
-Related Nodes: N-10432, N-10433
+Related Nodes: N-10402, N-10403
 
 Investigative Direction: Track whether TPUSA's subsequent filings cite financial damages as a measurable injury.
 
@@ -894,7 +874,7 @@ Claim: Owens states she has had a speaking contract with Turning Point USA "goin
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 
-Related Nodes: N-10432
+Related Nodes: N-10402
 
 Investigative Direction: Obtain the original contract and any amendments to verify the start date.
 
@@ -909,7 +889,7 @@ Claim: The host reads the TPUSA letter, which states that Owens's agreements wit
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 
-Related Nodes: N-10432
+Related Nodes: N-10402
 
 Investigative Direction: Cross-reference with the cease and desist letter's stated termination date and obtain a termination confirmation document.
 
@@ -924,7 +904,7 @@ Claim: Owens states that Rob McCoy is "defending somebody who went to prison for
 Anchored Artifacts: A-1661.1
 Mentions: N-17, N-3
 
-Related Nodes: N-10436
+Related Nodes: N-10405
 
 Investigative Direction: Identify the specific individual and case to which Owens refers.
 
@@ -1065,7 +1045,7 @@ Claim: A viewer comment the host reads says TPUSA "fired 40 people for leaking i
 Anchored Artifacts: A-1667.1
 Mentions: N-3
 
-Related Nodes: N-10432
+Related Nodes: N-10402
 
 Investigative Direction: Verify the firings count through internal TPUSA communications or reporting; identify which positions were terminated.
 
@@ -1080,7 +1060,7 @@ Claim: The host says an unnamed donor present at the Aspen event recalls Charlie
 Anchored Artifacts: A-1668.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10437
+Related Nodes: N-10406
 
 Investigative Direction: Identify and obtain a recorded statement from the corroborating donor; cross-reference against the previously aired "Baron Coleman" discussion referenced by host.
 
@@ -1096,7 +1076,7 @@ Transcript Snippet: So we obviously broke the story about Charlie establishing a
 
 Anchored Artifacts: A-1661.1
 Mentions: N-1, N-3
-Related Nodes: N-10434, N-10132
+Related Nodes: N-10404, N-10127
 Supports: C-3541
 Tags: relevance:core
 Investigative Direction: Obtain the internal TPUSA memo or email that requested the DOGE and its date, and compare with the host's earlier reporting.
@@ -1113,7 +1093,7 @@ Transcript Snippet: we moved to terminate that agreement which was supposed to g
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-11180, N-10432
+Related Nodes: N-11096, N-10402
 Tags: relevance:core
 Investigative Direction: Obtain the executed speaking agreement and the termination correspondence to confirm who terminated, when, and the original term.
 
@@ -1129,7 +1109,7 @@ Transcript Snippet: she has stated that she quote doesn't feel any differently a
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-11180, N-10432
+Related Nodes: N-11096, N-10402
 Tags: relevance:core
 Investigative Direction: Obtain the December 15, 2025 exchange in which the statement was allegedly made.
 
@@ -1145,7 +1125,7 @@ Transcript Snippet: I sat down with Erika and Justin Streiff, but that I was sup
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-2, N-15
-Related Nodes: N-11180
+Related Nodes: N-11096
 Tags: relevance:core
 Investigative Direction: Obtain the date, attendees and any notes or recording of the Owens, Erika Kirk and Streiff meeting.
 
@@ -1161,7 +1141,7 @@ Transcript Snippet: I came out and I told the truth and things that were answere
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-2, N-15
-Related Nodes: N-11180
+Related Nodes: N-11096
 Supports: C-4491
 Tags: relevance:core
 Investigative Direction: Identify which specific points the host says were conceded and obtain any notes or recording of the meeting.
@@ -1178,7 +1158,7 @@ Transcript Snippet: We are currently working to calculate the full extent to dat
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-11180, N-10432, N-10000
+Related Nodes: N-11096, N-10402, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain any damages calculation or demand TPUSA later serves, and compare with the letter's claim of substantial and continuing injury.
 
@@ -1194,7 +1174,7 @@ Transcript Snippet: not to make any disparaging, false, misleading, or otherwise
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-11180, N-10432, N-10000
+Related Nodes: N-11096, N-10402, N-10000
 Tags: relevance:core
 Investigative Direction: Compare the letter's description with the actual non-disparagement clause text in the executed agreement.
 
@@ -1210,7 +1190,7 @@ Transcript Snippet: Turning Point USA's executives have repeatedly made themselv
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-11180, N-10432, N-10000
+Related Nodes: N-11096, N-10402, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain call, text and meeting logs between Owens and TPUSA executives for December 2025 to January 2026.
 
@@ -1226,7 +1206,7 @@ Transcript Snippet: That's just not true. I mean, I'm speaking to one person at 
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-11180
+Related Nodes: N-11096
 Contradicts: C-5444
 Tags: relevance:core
 Investigative Direction: Obtain the host's communications log with TPUSA and identify the single contact and the one meeting.
@@ -1243,7 +1223,7 @@ Transcript Snippet: she has continued to make statements in violation of her con
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-11180, N-10432
+Related Nodes: N-11096, N-10402
 Tags: relevance:core
 Investigative Direction: Identify the specific statements TPUSA considers reckless and intentional breaches.
 
@@ -1259,7 +1239,7 @@ Transcript Snippet: Which lie on our Turning Point USA list of lies did they cor
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-14
-Related Nodes: N-11180, N-10432
+Related Nodes: N-11096, N-10402
 Supports: C-4490
 Tags: relevance:core
 Investigative Direction: Compile the host's published list of lies and TPUSA's responses to each item, with dates.
@@ -1276,7 +1256,7 @@ Transcript Snippet: They have conflicting answers about the drones. Brian Harpol
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-266, N-14
-Related Nodes: N-10267, N-10427
+Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Compile each TPUSA statement on drones with its date and speaker and compare them side by side.
 
@@ -1292,7 +1272,7 @@ Transcript Snippet: "Charlie, I had his phone. He never said the night before th
 
 Anchored Artifacts: A-1661.1
 Mentions: N-2, N-1, N-237
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Obtain the Erika Kirk interview with Glenn Beck and the exact words used about Charlie's night-before messages.
 
@@ -1308,7 +1288,7 @@ Transcript Snippet: Yeah. No, he did. I didn't know cuz it was in a special, you
 
 Anchored Artifacts: A-1661.1
 Mentions: N-1, N-2, N-270, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-4491
 Contradicts: C-5452
 Tags: relevance:core
@@ -1326,7 +1306,7 @@ Transcript Snippet: I specifically said Tyler Bowyer was a sexual deviant. I sta
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-11
-Related Nodes: N-11180
+Related Nodes: N-11096
 Supports: C-2435
 Tags: relevance:core
 Investigative Direction: Identify the evidence behind the host's characterization and any records TPUSA could cite to rebut it.
@@ -1343,7 +1323,7 @@ Transcript Snippet: Yes, I do know there are people at Turning Point USA who are
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-11180, N-10000
+Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Ask the host which individuals she means and what documents support the statement.
 
@@ -1359,7 +1339,7 @@ Transcript Snippet: I said that I requested this multiple times over weeks and e
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-2
-Related Nodes: N-10417, N-10435
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the dated request messages and TPUSA's replies to establish the sequence of requests and responses.
 
@@ -1375,7 +1355,7 @@ Transcript Snippet: But to date, they haven't sent me what I asked for. So I tol
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-10417, N-10435
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the exact request wording and what TPUSA sent instead.
 
@@ -1391,7 +1371,7 @@ Transcript Snippet: Miss Owens Farmers has not put an end to what she has expres
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
-Related Nodes: N-11180, N-10000, N-10925
+Related Nodes: N-11096, N-10000, N-10846
 Tags: relevance:core
 Investigative Direction: Locate the on-air or written admission the letter refers to as a flood of allegations.
 
@@ -1423,7 +1403,7 @@ Transcript Snippet: I'm not saying that's case turning point USA. We've barely c
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10433, N-10000
+Related Nodes: N-10403, N-10000
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA Form 990 filings and audited financials if the host later covers finances in depth.
 
@@ -1439,7 +1419,7 @@ Transcript Snippet: The thrust of this is looking into the people that are takin
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11180
+Related Nodes: N-10000, N-11096
 Tags: relevance:core
 Investigative Direction: Identify which individuals she regards as taking over TPUSA and the records she has used on their backgrounds.
 
@@ -1455,7 +1435,7 @@ Transcript Snippet: when I signed an agreement to go on tour with Charlie Kirk, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11180, N-10432
+Related Nodes: N-11096, N-10402
 Tags: relevance:context
 Investigative Direction: Obtain the contract's governing-law and force majeure provisions and the host's counsel's formal response.
 
@@ -1471,7 +1451,7 @@ Transcript Snippet: But I told my lawyer, "Here's what you do. Go back to them a
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11180, N-10000
+Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain counsel's reply to the cease and desist letter and any settlement communications.
 
@@ -1487,7 +1467,7 @@ Transcript Snippet: I'm going to go online, start a GoFundMe, and raise it overn
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11180, N-10000
+Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Watch for any GoFundMe launch and TPUSA's response to the price offer.
 
@@ -1503,7 +1483,7 @@ Transcript Snippet: If you guys have my book, Make Him a Sandwich, I have a whol
 
 Anchored Artifacts: 
 Mentions: N-3, N-486
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Check the book chapter text for the claims about Swift referenced here.
 
@@ -1519,7 +1499,7 @@ Transcript Snippet: Tree, her agent, is like, "Nope, cut that friend off. We're 
 
 Anchored Artifacts: A-1665.1
 Mentions: N-3, N-486, N-484, N-879
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Look for reporting or court exhibits showing Swift's team's communications with Lively's team.
 
@@ -1565,7 +1545,7 @@ Transcript Snippet: And she knew that Blake Lively was going to file um that sex
 
 Anchored Artifacts: A-1665.1
 Mentions: N-3, N-486, N-484, N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Review the message exhibits in the Lively and Baldoni docket for what Swift was told and when.
 
@@ -1581,7 +1561,7 @@ Transcript Snippet: Blake did text her over the script, the scene that she wante
 
 Anchored Artifacts: A-1665.1
 Mentions: N-3, N-486, N-484
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Review the message exhibits for the timing and wording of the Lively to Swift script texts.
 
@@ -1597,7 +1577,7 @@ Transcript Snippet: this is basically going to give us an effective majority if 
 
 Anchored Artifacts: A-1665.1
 Mentions: N-3, N-486, N-484, N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Locate the specific message exhibit containing the joke about Swift's fans.
 
@@ -1613,7 +1593,7 @@ Transcript Snippet: We knew that he ended up in a hospital. He was so stressed o
 
 Anchored Artifacts: A-1665.1
 Mentions: N-3, N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Look for public reporting or filings about Baldoni's hospitalization.
 
@@ -1629,7 +1609,7 @@ Transcript Snippet: Brooklyn Beckham doesn't speak to his two brothers. He doesn
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the Beckham family unfollows and blocks.
 
@@ -1645,7 +1625,7 @@ Transcript Snippet: Nicola wanted her dress allegedly to be designed by Victoria
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-481, N-482
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the dress designer and the 2022 wedding.
 
@@ -1661,7 +1641,7 @@ Transcript Snippet: Last August he decided to have a secondary wedding without a
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480, N-481
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the vow renewal and its guest list.
 
@@ -1677,7 +1657,7 @@ Transcript Snippet: Somebody then pulled up a receipt and her dress was in the m
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480, N-481, N-482
-Related Nodes: N-11289
+Related Nodes: N-11205
 Contradicts: C-5483
 Tags: relevance:tangential
 Investigative Direction: Identify the receipt, who produced it, and what it documents about the dress commission.
@@ -1694,7 +1674,7 @@ Transcript Snippet: He said they were adamant on me signing before my wedding da
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480, N-482, N-483
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Identify the agreement, the parties and any payment terms tied to the name rights.
 
@@ -1710,7 +1690,7 @@ Transcript Snippet: Both of our parents had their own table equally adjacent to 
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Review wedding seating plans or guest accounts.
 
@@ -1726,7 +1706,7 @@ Transcript Snippet: The night before our wedding, members of my family told me t
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480, N-481
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Find guests who could confirm or rebut the alleged remarks.
 
@@ -1742,7 +1722,7 @@ Transcript Snippet: I've received endless attacks from my parents both privately
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Identify the press items and social posts Brooklyn refers to.
 
@@ -1758,7 +1738,7 @@ Transcript Snippet: she danced very inappropriately on me in front of everyone.
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480, N-482
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Review any wedding video of the dance.
 
@@ -1774,7 +1754,7 @@ Transcript Snippet: I'll tell you what's going on, guys. This was actually their
 
 Anchored Artifacts: A-1664.1
 Mentions: N-3, N-480, N-482
-Related Nodes: N-11289
+Related Nodes: N-11205
 Contradicts: C-5490
 Tags: relevance:tangential
 Investigative Direction: Compare the Vogue sequence with wedding video to establish the order of the dances.
@@ -1791,7 +1771,7 @@ Transcript Snippet: In addition to traditional speeches, including those from Br
 
 Anchored Artifacts: A-1664.1
 Mentions: N-3, N-480, N-483
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Check the Vogue article text for the speeches paragraph.
 
@@ -1807,7 +1787,7 @@ Transcript Snippet: they had their first dance and then she had a dance with her
 
 Anchored Artifacts: A-1664.1
 Mentions: N-3, N-480, N-481
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Identify the attendees and any video that establishes the order.
 
@@ -1823,7 +1803,7 @@ Transcript Snippet: Marc Anthony said, "Now inviting the most beautiful woman to
 
 Anchored Artifacts: A-1664.1
 Mentions: N-3, N-880, N-482
-Related Nodes: N-11289
+Related Nodes: N-11205
 Supports: C-5490
 Tags: relevance:tangential
 Investigative Direction: Review wedding video of Marc Anthony's late-night set.
@@ -1840,7 +1820,7 @@ Transcript Snippet: My mom has repeatedly invited women from my past into our li
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480, N-482
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Identify the woman and the events referred to.
 
@@ -1856,7 +1836,7 @@ Transcript Snippet: we still traveled to London for my dad's birthday and we wer
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480, N-483, N-481
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the timing of David Beckham's 50th birthday and the family's London schedule.
 
@@ -1872,7 +1852,7 @@ Transcript Snippet: But the one time that my wife asked for my mom's support to 
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480, N-482, N-481
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Identify Nicola's LA fire dog effort and any request made to Victoria Beckham.
 
@@ -1888,7 +1868,7 @@ Transcript Snippet: He apparently sent his family uh maybe a cease and desist, w
 
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Look for reporting on the legal letter and its sender.
 
@@ -1904,7 +1884,7 @@ Transcript Snippet: she hired Marty Singer to sue this little company because he
 
 Anchored Artifacts: A-3119.1
 Mentions: N-3, N-481, N-881
-Related Nodes: N-11290
+Related Nodes: N-11206
 Tags: relevance:tangential
 Investigative Direction: Obtain the complaint and docket in the grooming company lawsuit.
 
@@ -1920,7 +1900,7 @@ Transcript Snippet: They got the autopsy. It turns out the dog had what Chihuahu
 
 Anchored Artifacts: A-3119.1
 Mentions: N-3, N-481
-Related Nodes: N-11290
+Related Nodes: N-11206
 Tags: relevance:tangential
 Investigative Direction: Obtain the autopsy report from the court file.
 
@@ -1936,7 +1916,7 @@ Transcript Snippet: She went through three different wedding contracts. One of w
 
 Anchored Artifacts: 
 Mentions: N-3, N-481, N-882
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Search court dockets for the wedding contract suits involving Nelson Peltz.
 
@@ -1997,7 +1977,7 @@ Transcript Snippet: But he stood up at this dinner. And he gave a toast. You sho
 
 Anchored Artifacts: 
 Mentions: N-3, N-483, N-480
-Related Nodes: N-11289
+Related Nodes: N-11205
 Tags: relevance:tangential
 Investigative Direction: Ask the host for the date, venue and who was present.
 
@@ -2013,7 +1993,7 @@ Transcript Snippet: I just live saw that this is trending on X.
 
 Anchored Artifacts: A-3120.1
 Mentions: N-3
-Related Nodes: N-11180
+Related Nodes: N-11096
 Tags: relevance:context
 Investigative Direction: Capture the X trending topic page for that date.
 
@@ -2029,7 +2009,7 @@ Transcript Snippet: And we have a lot that we are getting and researching uh bec
 
 Anchored Artifacts: A-1667.1
 Mentions: N-3
-Related Nodes: N-11035, N-10432
+Related Nodes: N-11002, N-10402
 Tags: relevance:core
 Investigative Direction: Ask the host which new sources have come forward and what documents they have supplied.
 
@@ -2045,7 +2025,7 @@ Transcript Snippet: I will say I did not hear that it was 40 people, but I did h
 
 Anchored Artifacts: A-1667.1
 Mentions: N-3
-Related Nodes: N-11035
+Related Nodes: N-11002
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA headcount or termination records for the period.
 
@@ -2140,7 +2120,7 @@ Transcript Snippet: Could you imagine all of the text messages I would have acce
 
 Anchored Artifacts: A-1667.1
 Mentions: N-3
-Related Nodes: N-11180
+Related Nodes: N-11096
 Tags: relevance:core
 Investigative Direction: Watch any filed suit for discovery requests to TPUSA custodians.
 
@@ -2156,7 +2136,7 @@ Transcript Snippet: Or you know by conspiracy Elizabeth McCoy, she's coming up i
 
 Anchored Artifacts: A-1667.1
 Mentions: N-3, N-217
-Related Nodes: N-11180
+Related Nodes: N-11096
 Tags: relevance:context
 Investigative Direction: Verify Elizabeth McCoy's current role at TPUSA and any involvement in the letter.
 
@@ -2172,7 +2152,7 @@ Transcript Snippet: which is we're happy to pay you since you care about money.
 
 Anchored Artifacts: A-1667.1
 Mentions: N-3
-Related Nodes: N-11180, N-10000
+Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain counsel's reply letter and TPUSA's response.
 

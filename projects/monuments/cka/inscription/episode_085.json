@@ -37,7 +37,7 @@
             "C-7578"
           ],
           "related_nodes": [
-            "N-10568"
+            "N-10519"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -120,7 +120,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10567"
+            "N-10518"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "N-1",
             "N-2",
             "N-41",
-            "N-10566"
+            "N-10021"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -179,7 +179,7 @@
             "C-7640"
           ],
           "related_nodes": [
-            "N-10566"
+            "N-10021"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
             "C-7663"
           ],
           "related_nodes": [
-            "N-10566"
+            "N-10021"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -369,11 +369,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10566",
-      "ref": "N-10566",
-      "name": "Tyler Robinson Confession Narrative Discrepancy",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10021",
+      "ref": "N-10021",
+      "name": "Robinson Confession and Arrest Discrepancy",
+      "type": "investigation_question",
       "description": "Persistent inconsistency between Governor Cox's claim (A-1907.1, C-7656) that Robinson \"confessed or implied\" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.",
       "related_artifacts": [
         "A-1907.1",
@@ -382,20 +382,28 @@
       ],
       "related_claims": [
         "C-7656",
-        "C-7663"
+        "C-7663",
+        "C-7625",
+        "C-7626",
+        "C-7627",
+        "C-7629",
+        "C-7637",
+        "C-7653",
+        "C-7658"
       ],
       "tags": [],
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10567",
-      "ref": "N-10567",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10518",
+      "ref": "N-10518",
       "name": "French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target referenced via the host's November 2025 tweet (A-1906.1) and tied by the host to the broader French Masonic lodge case (A-1903.1). Direct evidence linking DGSE to the Charlie Kirk assassination is not presented in this episode.",
       "related_artifacts": [
         "A-1903.1",
@@ -408,14 +416,16 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10297"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10568",
-      "ref": "N-10568",
+      "@type": "Event",
+      "@id": "N-10519",
+      "ref": "N-10519",
       "name": "Athanor Lodge / French Freemason Murder Trial",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Discrete investigative event introduced in this episode via A-1903.1, in which 22 defendants including DGSE officers face charges for running a hit-squad network inside the Athanor Masonic lodge. Treated by the host as context for Charlie Kirk case theory.",
       "related_artifacts": [
         "A-1903.1"
@@ -434,7 +444,10 @@
       "evidence_count": 1,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10518"
     },
     {
       "@type": "Person",
@@ -1246,11 +1259,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1262,14 +1275,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1280,14 +1295,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1298,14 +1315,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1316,37 +1335,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10021",
-      "ref": "N-10021",
-      "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-7625",
-        "C-7626",
-        "C-7627",
-        "C-7629",
-        "C-7637",
-        "C-7653",
-        "C-7658"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 7,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1361,14 +1359,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10024",
       "ref": "N-10024",
       "name": "Kirk Assassination Investigation Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1380,14 +1379,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10045"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1397,14 +1398,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10029",
       "ref": "N-10029",
       "name": "Washington County Sheriff's Office",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1416,14 +1418,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10048",
-      "ref": "N-10048",
+      "@type": "Topic",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1434,14 +1438,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1451,14 +1456,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1468,14 +1474,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10117",
-      "ref": "N-10117",
+      "@type": "Topic",
+      "@id": "N-10113",
+      "ref": "N-10113",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1486,14 +1493,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10129",
-      "ref": "N-10129",
+      "@type": "Organization",
+      "@id": "N-10124",
+      "ref": "N-10124",
       "name": "Orem Police Department",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1503,14 +1511,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10141",
-      "ref": "N-10141",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10136",
+      "ref": "N-10136",
       "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1523,14 +1533,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10142",
-      "ref": "N-10142",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10137",
+      "ref": "N-10137",
       "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1540,14 +1551,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10151",
-      "ref": "N-10151",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10146",
+      "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1557,14 +1569,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10153",
-      "ref": "N-10153",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10148",
+      "ref": "N-10148",
       "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1574,14 +1587,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@type": "Topic",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1592,14 +1606,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10229",
-      "ref": "N-10229",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10216",
+      "ref": "N-10216",
       "name": "Autopsy Report and Evidence Access Asymmetry",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1611,14 +1626,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10271",
-      "ref": "N-10271",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10255",
+      "ref": "N-10255",
       "name": "Tyler Robinson Washington County Surveillance Footage Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1628,14 +1644,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10300",
-      "ref": "N-10300",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10282",
+      "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1645,14 +1662,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10311",
-      "ref": "N-10311",
+      "@type": "Topic",
+      "@id": "N-10293",
+      "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1662,14 +1680,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10316",
-      "ref": "N-10316",
+      "@type": "Topic",
+      "@id": "N-10297",
+      "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1683,14 +1702,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1700,14 +1720,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10349",
-      "ref": "N-10349",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10327",
+      "ref": "N-10327",
       "name": "Bari Weiss CBS Interview Question Selection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1717,14 +1738,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@type": "Topic",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1735,14 +1757,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10360",
-      "ref": "N-10360",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10336",
+      "ref": "N-10336",
       "name": "Gun Discovery Procedure Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1752,14 +1775,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1770,14 +1794,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10443",
-      "ref": "N-10443",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10412",
+      "ref": "N-10412",
       "name": "TPUSA Post-Assassination Leadership Tone/Timing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1788,14 +1813,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1806,14 +1832,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10505",
-      "ref": "N-10505",
+      "@type": "Topic",
+      "@id": "N-10466",
+      "ref": "N-10466",
       "name": "Erika Kirk Post-Assassination Conduct Composite",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1823,14 +1851,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@type": "Topic",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1841,14 +1870,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@type": "Topic",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1858,14 +1888,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10546",
-      "ref": "N-10546",
+      "@type": "Topic",
+      "@id": "N-10501",
+      "ref": "N-10501",
       "name": "Joe Kent Resignation Aftermath Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1875,14 +1906,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10563",
-      "ref": "N-10563",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10515",
+      "ref": "N-10515",
       "name": "Alexis Wilkins 13-Part Thread Analysis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1892,14 +1924,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10571",
-      "ref": "N-10571",
+      "@type": "Event",
+      "@id": "N-10522",
+      "ref": "N-10522",
       "name": "July 14, 2025 Long Beach Flight",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1916,14 +1949,17 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-14"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10572",
-      "ref": "N-10572",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10523",
+      "ref": "N-10523",
       "name": "ATF Bullet-to-Gun Inconclusive Finding",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1934,14 +1970,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10621",
-      "ref": "N-10621",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10567",
+      "ref": "N-10567",
       "name": "Gun Firing Evidence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1951,14 +1989,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10722",
-      "ref": "N-10722",
+      "@type": "Topic",
+      "@id": "N-10657",
+      "ref": "N-10657",
       "name": "Clock Tower X / Israeli Influence Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1969,14 +2008,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10919",
-      "ref": "N-10919",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10840",
+      "ref": "N-10840",
       "name": "Andrew Kolvet / House Inhabit PR Collaboration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1987,14 +2027,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11011",
-      "ref": "N-11011",
+      "@type": "Topic",
+      "@id": "N-10931",
+      "ref": "N-10931",
       "name": "Macron Cease and Desist and Legal Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2004,14 +2045,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11054",
-      "ref": "N-11054",
+      "@type": "Event",
+      "@id": "N-10972",
+      "ref": "N-10972",
       "name": "Bomb Dog Deployment at the Crime Scene",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2025,14 +2067,18 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11080",
-      "ref": "N-11080",
+      "@type": "Event",
+      "@id": "N-10998",
+      "ref": "N-10998",
       "name": "Student Action Summit July 2025 (Tampa)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2044,14 +2090,17 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11128",
-      "ref": "N-11128",
+      "@type": "Topic",
+      "@id": "N-11046",
+      "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2063,14 +2112,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11129",
-      "ref": "N-11129",
+      "@type": "Organization",
+      "@id": "N-11047",
+      "ref": "N-11047",
       "name": "Freemasonry",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2087,14 +2137,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11131",
-      "ref": "N-11131",
+      "@type": "Topic",
+      "@id": "N-11049",
+      "ref": "N-11049",
       "name": "Charlie Kirk Death as Spell Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2105,14 +2157,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11397",
-      "ref": "N-11397",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11313",
+      "ref": "N-11313",
       "name": "Brooksby Resignation Inquiry",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Sudden resignation of Washington County Sheriff Nate Brooksby on a Friday, with an interim sheriff appointed, his name removed from official pages, and the host speculating about a link to the Robinson case.",
       "related_artifacts": [],
       "related_claims": [
@@ -2123,7 +2176,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -2141,6 +2195,29 @@
       "claim_count": 1,
       "episode_count": 2,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7640",
+        "C-7621",
+        "C-7630",
+        "C-7653",
+        "C-7658"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -2154,7 +2231,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:05:42",
@@ -2171,7 +2248,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -2188,7 +2265,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -2205,7 +2282,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:07:55",
@@ -2222,7 +2299,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:08:53",
@@ -2239,7 +2316,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:08:55",
@@ -2256,7 +2333,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
@@ -2277,7 +2354,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:11:16",
@@ -2392,7 +2469,7 @@
         "A-1906.1"
       ],
       "related_nodes": [
-        "N-10567"
+        "N-10518"
       ],
       "tags": [],
       "claim_timestamp": "00:14:53",
@@ -2412,7 +2489,7 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
@@ -2432,7 +2509,7 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
@@ -2452,7 +2529,7 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
@@ -2472,7 +2549,7 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [],
       "claim_timestamp": "00:35:31",
@@ -2491,7 +2568,7 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
@@ -2511,7 +2588,8 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021",
+        "N-11360"
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
@@ -2531,7 +2609,7 @@
         "A-1908.2"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [],
       "claim_timestamp": "00:41:56",
@@ -2551,7 +2629,7 @@
         "A-1908.2"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [],
       "claim_timestamp": "00:42:54",
@@ -2672,8 +2750,8 @@
       "claim": "The host says that back in November she told listeners France was involved in Charlie Kirk's assassination, specifically its intelligence agency, the DGSE.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10567",
-        "N-10316"
+        "N-10518",
+        "N-10297"
       ],
       "tags": [
         "relevance:core"
@@ -2697,8 +2775,8 @@
       "claim": "The host says the whole '33' theme around the assassination was not subtle and was Freemasonry, and that she had said so earlier.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129",
-        "N-10316"
+        "N-11047",
+        "N-10297"
       ],
       "tags": [
         "relevance:core"
@@ -2718,7 +2796,7 @@
       "claim": "The host says America was founded by warring factions of Freemasons who pursued the country in the hope of establishing a new Atlantis removed from their battles with the Catholic Empire.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -2782,7 +2860,7 @@
       "claim": "The host says that of all Freemason lodges, which each carry a number, the one in St. George, Utah, where Tyler Robinson was brought in, is lodge number 33.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:core"
@@ -2803,8 +2881,8 @@
       "claim": "The host says 33 is also the country code for Paris.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129",
-        "N-10316"
+        "N-11047",
+        "N-10297"
       ],
       "tags": [
         "relevance:tangential"
@@ -2824,7 +2902,7 @@
       "claim": "The host says Scottish Rite Freemasonry originated in France, after Jacques de Molay was hanged or burned at the stake and the Pope dissolved the group over accusations of Baal worship and sexual rites, and that members then left for Scotland.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -2846,7 +2924,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [
         "relevance:context"
@@ -2866,8 +2944,8 @@
       "claim": "The host says French parachute regiment members wear maroon berets and, when in plain clothes, wear maroon shirts, and that people can verify this online.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10568",
-        "N-10311"
+        "N-10519",
+        "N-10293"
       ],
       "tags": [
         "relevance:context"
@@ -2887,8 +2965,8 @@
       "claim": "The host says she sent something to the FBI and to the White House and told listeners it was real and that French forces were on the ground that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10316",
-        "N-10567"
+        "N-10297",
+        "N-10518"
       ],
       "tags": [
         "relevance:core"
@@ -2912,7 +2990,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10015",
-        "N-10316"
+        "N-10297"
       ],
       "tags": [
         "relevance:context"
@@ -2959,7 +3037,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [
         "relevance:context"
@@ -2982,7 +3060,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10519"
       ],
       "tags": [
         "relevance:context"
@@ -3002,7 +3080,7 @@
       "claim": "The host says Jared Kushner and the Trumps are planning to turn Gaza into a real estate empire.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [
         "relevance:tangential"
@@ -3024,8 +3102,8 @@
       "claim": "The host says that in June of last year Charlie Kirk stepped on the toes of Benjamin Netanyahu and the CIA's war-for-profit machine.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539",
-        "N-11128"
+        "N-10494",
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -3047,7 +3125,7 @@
       "claim": "The host says everyone involved on September 10 has a military connection, naming Frank Turek, the McCoys and naval intelligence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [
         "relevance:core"
@@ -3070,7 +3148,7 @@
       "claim": "The host says it is not a coincidence that Kash Patel kept stressing the number 33.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -3091,8 +3169,8 @@
       "claim": "The host says she will never stop saying Charlie Kirk was the first casualty of the Iran war, and that he was betrayed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128",
-        "N-10539"
+        "N-11046",
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -3135,7 +3213,7 @@
       "claim": "The host says she told people the DGSE in Paris was involved and had also put a hit on her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10567"
+        "N-10518"
       ],
       "tags": [
         "relevance:core"
@@ -3155,7 +3233,7 @@
       "claim": "The host says nobody official came out and denied her November claim about French involvement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10567"
+        "N-10518"
       ],
       "tags": [
         "relevance:core"
@@ -3178,7 +3256,7 @@
       "claim": "The host says she has an open case with Brigitte Macron and argues Macron would have added her French-involvement claim to the defamation suit if it were false.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [
         "relevance:context"
@@ -3199,7 +3277,7 @@
       "claim": "The host says that on the day of the shooting she saw many countries involved, naming Australia and Russia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -3219,7 +3297,7 @@
       "claim": "The host says Erika Kirk's sit-down with Bari Weiss took place literally 72 hours before the host sat down with Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10349"
+        "N-10327"
       ],
       "tags": [
         "relevance:core"
@@ -3241,7 +3319,7 @@
       "claim": "The host says that when she sat down with Erika Kirk 72 hours later, Erika's lawyer confirmed that they have nothing more than what the public has seen, contrary to the impression Erika gave Weiss.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10229"
+        "N-10216"
       ],
       "tags": [
         "relevance:core"
@@ -3269,7 +3347,7 @@
       "claim": "The host says the lawyer explained it was not yet the right time for more evidence, that investigators were just beginning to look, and that by May Erika would see what they found.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10229"
+        "N-10216"
       ],
       "tags": [
         "relevance:core"
@@ -3290,7 +3368,7 @@
       "claim": "The host says Erika Kirk was told to say she had seen the autopsy and case so that people would believe she had access to something the public did not, and that this influenced the host's own expectations before the meeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10229"
+        "N-10216"
       ],
       "tags": [
         "relevance:core"
@@ -3334,7 +3412,7 @@
         "A-1905.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3356,7 +3434,7 @@
       "claim": "The host says Justin Streiff told her he arranged all the planes that day, so she does not know how Mikey arranged what Justin arranged or who is telling the truth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10300"
+        "N-10282"
       ],
       "tags": [
         "relevance:core"
@@ -3381,7 +3459,7 @@
       "claim": "The host says Erika Kirk's husband's death was met with no call to family to rush to her side, and that she was instead with a TPUSA circle (Stacy Sheridan and Katherine Locastro).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10505"
+        "N-10466"
       ],
       "tags": [
         "relevance:core"
@@ -3404,8 +3482,8 @@
       "claim": "The host says that on July 13 Charlie Kirk had been at the Student Action Summit, flew back, and hosted his show on the morning of July 14.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11080",
-        "N-10571"
+        "N-10998",
+        "N-10522"
       ],
       "tags": [
         "relevance:core"
@@ -3426,7 +3504,7 @@
       "claim": "The host says July 13 was 'Tuckergate', when Tucker Carlson asked where Bill Ackman's money comes from and said Ackman is not impressive.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10446"
+        "N-10415"
       ],
       "tags": [
         "relevance:context"
@@ -3451,7 +3529,7 @@
       "claim": "The host says that on the July 14 episode of his show Charlie Kirk had Josh Hammer on, after Dave Smith had beaten Hammer in a debate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11080"
+        "N-10998"
       ],
       "tags": [
         "relevance:context"
@@ -3475,7 +3553,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
-        "N-10446"
+        "N-10415"
       ],
       "tags": [
         "relevance:core"
@@ -3498,8 +3576,8 @@
       "claim": "The host says that on the evening of July 14 Erika Kirk, who did not attend SAS in Florida, boarded a private plane with Katherine Locastro and Jonathan Barcelo and headed to Long Beach.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10571",
-        "N-11080"
+        "N-10522",
+        "N-10998"
       ],
       "tags": [
         "relevance:core"
@@ -3522,7 +3600,7 @@
       "claim": "The host says Katherine Locastro is Mikey McCoy's assistant (transcribed as 'Mikey McCoy's assistant').",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10571"
+        "N-10522"
       ],
       "tags": [
         "relevance:core"
@@ -3544,7 +3622,7 @@
       "claim": "The host says Jonathan Barcelo was in the Marine Corps from 2013 until at least 2017, providing security to Marine Corps embassies around the world.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10571"
+        "N-10522"
       ],
       "tags": [
         "relevance:core"
@@ -3565,7 +3643,7 @@
       "claim": "The host says the only posting she can find for Jonathan Barcelo is Chile, and that he also worked as a helicopter technician for an attack squadron.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10571"
+        "N-10522"
       ],
       "tags": [
         "relevance:core"
@@ -3586,7 +3664,7 @@
       "claim": "The host says Barcello worked as a private investigator and ran an investigative firm from 2017 to 2022, graduating from ASU with a major in forensic psychology.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10571"
+        "N-10522"
       ],
       "tags": [
         "relevance:core"
@@ -3608,7 +3686,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10436"
+        "N-10405"
       ],
       "tags": [
         "relevance:core"
@@ -3629,7 +3707,7 @@
       "claim": "The host says Erika's party on July 14 included Jonathan Barcelo, Mikey McCoy's assistant and Erika's personal security guard Derek Niekerk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10571"
+        "N-10522"
       ],
       "tags": [
         "relevance:core"
@@ -3654,7 +3732,7 @@
       "claim": "The host says the four stayed in Long Beach only a couple of hours and returned to Scottsdale, which she calls clearly a meeting of some description.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10571"
+        "N-10522"
       ],
       "tags": [
         "relevance:core"
@@ -3677,7 +3755,7 @@
       "claim": "The host says Charlie was taken out because he stepped on the toes of very powerful people who stood to make a lot of money from the Iran war.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -3698,7 +3776,7 @@
       "claim": "The host says Trump is sending Marines to put boots on the ground in Iran for Netanyahu, while the IDF has said it will not put boots on the ground.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -3720,7 +3798,8 @@
       "claim": "The host says Sheriff Nate Brooksby initially came out, and that it was to the Washington County Sheriff's Department that Tyler Robinson allegedly turned himself in.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10029"
+        "N-10029",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -3742,7 +3821,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10029",
-        "N-11397"
+        "N-11313"
       ],
       "tags": [
         "relevance:core"
@@ -3763,7 +3842,7 @@
       "claim": "The host says there was a lot of speculation and that some people said more information would come out about Brooksby's resignation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11397"
+        "N-11313"
       ],
       "tags": [
         "relevance:context"
@@ -3812,8 +3891,7 @@
       "claim": "The host says that at any police station the first thing done is to sign a statement and that, whether Robinson's own confession or his father's witness statement, none of it has been presented as evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10021",
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -3838,7 +3916,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10021",
-        "N-10141"
+        "N-10136"
       ],
       "tags": [
         "relevance:core"
@@ -3863,7 +3941,7 @@
       "claim": "The host says Mike Mitchell used to work for the Sheriff's Department and that Tyler Robinson knows him as his Boy Scouts leader.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ],
       "tags": [
         "relevance:core"
@@ -3913,7 +3991,8 @@
       "claim": "The host says that miraculously there is no footage of that day and that she thinks the stated absence of footage serves the narrative that Robinson turned himself in and that his father thought he was guilty.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10271"
+        "N-10255",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -3937,8 +4016,8 @@
       "claim": "The host says people intimately involved in the case told her the feds planted the gun and that the bomb dogs could not find it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11054",
-        "N-10360"
+        "N-10972",
+        "N-10336"
       ],
       "tags": [
         "relevance:core"
@@ -3961,7 +4040,7 @@
       "claim": "The host says everyone in the town, the local sheriff departments and the SWAT team believe that the feds came in, started lying, sent people on wild goose chases and shifted where they said the gun was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11054"
+        "N-10972"
       ],
       "tags": [
         "relevance:core"
@@ -3981,7 +4060,7 @@
       "claim": "The host says the feds said the gun was here, then over there, that there was no gun, and that the feds did not want the bomb dogs to go into certain places.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11054"
+        "N-10972"
       ],
       "tags": [
         "relevance:core"
@@ -4004,7 +4083,7 @@
       "claim": "The host says her sources are credible and that this is how she got the pictures from inside the car.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -4024,7 +4103,7 @@
       "claim": "The host says she is 99.9 percent certain that Tyler Robinson did not shoot Charlie Kirk from a rooftop by himself and that he did not act alone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -4068,8 +4147,7 @@
       "claim": "The host says Sheriff Brooksby's clip says what she has said: Mike Mitchell came in, there was pressure, and Tyler Robinson agreed to go to the police station because he did not want to be shot by SWAT teams.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10021",
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -4097,7 +4175,7 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-10566",
+        "N-10021",
         "N-10029"
       ],
       "tags": [
@@ -4120,8 +4198,8 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-10142",
-        "N-10566"
+        "N-10137",
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -4143,7 +4221,7 @@
       "claim": "The host says the best she can tell Mike Mitchell worked undercover on child-porn-type crimes on the internet, which she calls a theme in this story.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10151"
+        "N-10146"
       ],
       "tags": [
         "relevance:core"
@@ -4167,7 +4245,7 @@
       "claim": "The host speculates, saying she has no proof, that Mike Mitchell was working with the feds to get Tyler and put the crime on him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ],
       "tags": [
         "relevance:core"
@@ -4236,7 +4314,7 @@
       "claim": "The host says the photo of the person coming up the staircase looks nothing like Tyler Robinson and actually a lot more like Robby Hild.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10153"
+        "N-10148"
       ],
       "tags": [
         "relevance:core"
@@ -4278,7 +4356,7 @@
       "claim": "The host says Kash Patel announced 'we got him' about 'the Qureshi person', which made people stop looking and sent everybody on wild goose hunts, making him central to delaying everything that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -4300,7 +4378,7 @@
       "claim": "The host says Joe Kent is now telling the public that Kash Patel stopped him from investigating things internationally.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ],
       "tags": [
         "relevance:core"
@@ -4325,7 +4403,7 @@
       "claim": "The host says Turning Point USA is upset with Joe Kent, not Kash Patel, and hosts Patel on the Charlie Kirk Show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10355",
+        "N-10332",
         "N-10000"
       ],
       "tags": [
@@ -4348,7 +4426,7 @@
       "claim": "The host says Governor Cox had no access to Tyler Robinson and was not there the night he was apprehended.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -4371,7 +4449,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10021",
-        "N-10566"
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -4399,7 +4477,7 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-10566",
+        "N-10021",
         "N-10012"
       ],
       "tags": [
@@ -4422,7 +4500,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10021",
-        "N-10566"
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -4471,7 +4549,7 @@
       "claim": "The host says Mike Mitchell is now speaking on behalf of Matt Robinson and asks whether Mitchell signed a statement at the police station.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10141",
+        "N-10136",
         "N-10022"
       ],
       "tags": [
@@ -4496,7 +4574,7 @@
         "A-1908.2"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -4517,7 +4595,7 @@
       "claim": "The host says Walt Disney was definitively a Freemason and that she subscribes to stories about a '33 Club' and tunnels at Disney.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -4581,7 +4659,7 @@
         "A-1911.1"
       ],
       "related_nodes": [
-        "N-10443"
+        "N-10412"
       ],
       "tags": [
         "relevance:core"
@@ -4602,7 +4680,7 @@
       "claim": "The host says Alex Clark said she was on a plane too, and that her first thought was 'Too bad' and her second thought was 'MAGA'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10443"
+        "N-10412"
       ],
       "tags": [
         "relevance:core"
@@ -4623,7 +4701,7 @@
       "claim": "The host says the first book-club book she is reading with her book club is on Freemasonry and its history, and that she says it has always been a war on the Catholic Church.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -4645,8 +4723,8 @@
         "A-1911.1"
       ],
       "related_nodes": [
-        "N-10129",
-        "N-10546"
+        "N-10124",
+        "N-10501"
       ],
       "tags": [
         "relevance:core"
@@ -4670,8 +4748,8 @@
       "claim": "The host says the evidence cited is that the gun had multiple sets of prints on it, about seven she thinks, and that it would not be hard to take somebody's gun.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11054",
-        "N-10572"
+        "N-10972",
+        "N-10523"
       ],
       "tags": [
         "relevance:core"
@@ -4691,9 +4769,9 @@
       "claim": "The host says the feds cannot prove the gun was fired and killed Charlie Kirk and cannot connect it to Charlie Kirk, and adds that it was not fired because the bomb dogs went over there and did not find the gun.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10572",
-        "N-10621",
-        "N-11054"
+        "N-10523",
+        "N-10567",
+        "N-10972"
       ],
       "tags": [
         "relevance:core"
@@ -4717,7 +4795,7 @@
       "claim": "The host says she was called a Russian agent by Alexis Wilkins.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [
         "relevance:context"
@@ -4738,7 +4816,7 @@
       "claim": "The host says Alexis Wilkins's granddad was a Freemason and her dad and aunt were in the DeMolay club, which the host says is a Masonic youth group, and that this is in the newspaper.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:context"
@@ -4762,7 +4840,7 @@
       "claim": "The host says she found out that House Inhabit was dealing with Andrew Kolvet and concluded that Turning Point was upset again.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10919"
+        "N-10840"
       ],
       "tags": [
         "relevance:core"
@@ -4784,7 +4862,7 @@
       "claim": "The host says AI images of her husband with Milo were used against her in the attack on her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10919"
+        "N-10840"
       ],
       "tags": [
         "relevance:context"
@@ -4851,7 +4929,7 @@
       "claim": "The host says Israel runs X, that X is essentially a little Israel, and that a commenter's name being Googled in Israel after tweeting matches that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10722"
+        "N-10657"
       ],
       "tags": [
         "relevance:context"
@@ -4871,7 +4949,7 @@
       "claim": "The host says she knows the exact way that X has a deal with Israel and must go through her text messages because someone told her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10722"
+        "N-10657"
       ],
       "tags": [
         "relevance:context"
@@ -4891,8 +4969,8 @@
       "claim": "The host says she traced the 'witch article' to the Philippines, where somebody made the website on which the spell was cast on Charlie's life.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11131",
-        "N-10117"
+        "N-11049",
+        "N-10113"
       ],
       "tags": [
         "relevance:core"
@@ -4913,8 +4991,8 @@
       "claim": "The host recounts the claim that Charlie Kirk was so worried about the spell that he called a priest over to pray, even though he was not Catholic, and says she does not believe he lost sleep over it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11131",
-        "N-10117"
+        "N-11049",
+        "N-10113"
       ],
       "tags": [
         "relevance:core"

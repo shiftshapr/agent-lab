@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-11018, N-11019, N-11021
-  - Hole-minted Nodes (reintro-ep048): N-10368, N-10643
+  - Tip-minted Nodes (supplement_2026-10): N-10938, N-10939, N-10940
+  - Hole-minted Nodes (reintro-ep048): N-10343
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4177–C-4274
-  - New Nodes Introduced: N-10359, N-10360, N-10361, N-10362, N-10363, N-10364, N-10365
-  - Reused Nodes Appearing: N-159, N-3, N-1, N-378, N-5, N-4, N-22, N-36, N-40, N-46, N-69, N-82, N-118, N-190, N-201, N-204, N-224, N-267, N-10000, N-10012, N-10014, N-10026, N-10083, N-10202, N-10239, N-10253, N-10290, N-10344, N-10347, N-360, N-10367, N-10373, N-10887, N-10358, N-10366, N-11020
+  - New Nodes Introduced: N-10335, N-10336, N-10337, N-10338, N-10339, N-10340
+  - Reused Nodes Appearing: N-159, N-3, N-1, N-378, N-5, N-4, N-22, N-36, N-40, N-46, N-69, N-82, N-118, N-190, N-201, N-204, N-224, N-267, N-10000, N-10012, N-10014, N-10026, N-10070, N-10194, N-10226, N-10239, N-10272, N-10322, N-10325, N-360, N-10342, N-10347, N-10808, N-10334, N-10341, N-11292
   - (see registers)
 
 ## 2. Executive Summary
@@ -215,7 +215,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Read aloud on air by the host. Contains attributed quotation: "Absolutely, the bullet should have gone through... His bone was so healthy and the density was so, so impressive that he's like the man of steel." Quotation framed as having come from "the surgeon."
 
-*Related: C-4179, N-14, N-195, N-10358*
+*Related: C-4179, N-14, N-195, N-10334*
 
 ---
 
@@ -228,7 +228,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Audio clip played on air. Turek states: "They roped off the vehicle that we took out of there as a crime scene... we couldn't get into the vehicle until the FBI cleared it... draped over my bag was Charlie's necklace that had a cross and medallions on it."
 
-*Related: C-4212, C-4213, N-7, N-10362*
+*Related: C-4212, C-4213, N-7, N-10338*
 
 ---
 
@@ -241,7 +241,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Video clip played on air. Coleman defines SAM (Special Air Mission) call signs, states SAM000 is rarely used and indicates highly sensitive VIP manifests. Displayed on screen: flight landing Las Vegas at 4:48 p.m. local time on August 25 with SAM000 call sign; RCH658 flight departing Las Vegas at 3:14 p.m. on August 26 with missing transponder data; landing in Colorado Springs; subsequent SAM658 return flight to Joint Base Andrews. Coleman states SAM000 on August 25 flew "from Joint Base Andrews to Colorado Springs."
 
-*Related: C-4230, C-4232, C-4233, C-4234, N-330, N-10363, N-10364, N-10365*
+*Related: C-4230, C-4232, C-4233, C-4234, N-330, N-10339, N-10340, N-10305*
 
 ---
 
@@ -254,7 +254,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Audio clip played on air. Harpole states: "the 24th of the month prior... that first information came in on the 24th and then the information share starts." Host frames this as the same date Operation Valhalla Strike began (Aug 24).
 
-*Related: C-4238, N-266, N-10365, N-10366*
+*Related: C-4238, N-266, N-10305, N-10341*
 
 ---
 
@@ -269,7 +269,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Six photographs held by the host. Host states at ~31:17 that the team considered displaying one described as "the back row" photo that is "not so gory." A photo is briefly displayed on screen.
 
-*Related: C-4219, N-10362*
+*Related: C-4219, N-10338*
 
 ---
 
@@ -388,7 +388,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-4179, N-10358*
+*Related: A-1552.1, C-4179, N-10334*
 
 ---
 
@@ -401,7 +401,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-4179, N-10358*
+*Related: A-1552.1, C-4179, N-10334*
 
 ---
 
@@ -414,7 +414,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1553.1, C-4212, C-4213, N-10362*
+*Related: A-1553.1, C-4212, C-4213, N-10338*
 
 ---
 
@@ -427,7 +427,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1554.1, C-4230, C-4232, C-4233, C-4234, N-10363, N-10364*
+*Related: A-1554.1, C-4230, C-4232, C-4233, C-4234, N-10339, N-10340*
 
 ---
 
@@ -440,7 +440,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1555.1, C-4238, N-10365*
+*Related: A-1555.1, C-4238, N-10305*
 
 ---
 
@@ -453,7 +453,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10365*
+*Related: N-10305*
 
 ---
 
@@ -483,7 +483,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10358** Surgeon Quotation Authenticity Question
+**N-10334** Surgeon Quotation Authenticity Question
 
 Discrepancy between the quotation attributed to "the surgeon" on Kolvet's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.
 
@@ -496,7 +496,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10359** Hospital Federal Access Question
+**N-10335** Hospital Federal Access Question
 
 Allegation that federal officers at Timpanogos Regional Hospital blocked Dr. Lee Trotter from returning to the operating room, and that a phone call to a political figure resulted in stand-down orders.
 
@@ -509,7 +509,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10360** Gun Discovery Procedure Question
+**N-10336** Gun Discovery Procedure Question
 
 Allegation that bomb dogs from the Pleasant Grove sheriff's department cleared the area without finding the gun, and that federal officers then directed three officers with combined experience of less than 1.5 years to re-search the area, after which the gun was found. Also: Freya's "condensed scent trace" methodology.
 
@@ -522,7 +522,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10361** White Toyota RAV4 FBI Badge Question
+**N-10337** White Toyota RAV4 FBI Badge Question
 
 Allegation that shortly after the shot, an officer pulled over a white Toyota RAV4 and the driver flashed an FBI badge, ending the encounter.
 
@@ -535,7 +535,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10362** Vehicle Disposition Question
+**N-10338** Vehicle Disposition Question
 
 Allegation that the transport vehicle was towed, then quickly moved for cleaning and auction without insurance inspection, and that the rental company owner instructed it never be returned to the facility.
 
@@ -548,7 +548,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10363** SAM000 Flight Manifest Question
+**N-10339** SAM000 Flight Manifest Question
 
 Discrepancy in Coleman's segment between stated route ("from Joint Base Andrews to Colorado Springs") and displayed log (landing Las Vegas 4:48 p.m. on August 25). Manifest of the SAM000 passenger(s) remains unknown.
 
@@ -561,7 +561,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10364** SAM658/RCH658 Call Sign Switch Question
+**N-10340** SAM658/RCH658 Call Sign Switch Question
 
 Coleman display shows RCH658 designation on Las Vegas departure and SAM658 designation on return leg to Andrews, which Coleman's framework ties to VIP boarding/deboarding at the Colorado Springs stop.
 
@@ -574,7 +574,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10365** Sept 9 Fort Huachuca Meeting Question
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Alleged meeting reportedly observed by unnamed "Elvis guy" eyewitness; tied by host to alleged Sept 9 SAM jet presence and to Brian Harpole's whereabouts.
 
@@ -587,7 +587,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10366** Operation Valhalla Strike
+**N-10341** Operation Valhalla Strike
 
 Host statement that a military exercise named Operation Valhalla Strike ran August 24–27, 2025. Coincides on August 24 with Brian Harpole's stated start of UVU event intelligence gathering (A-1555.1).
 
@@ -776,7 +776,7 @@ Host links Egyptian planes and Netanyahu remarks to Israel.
 
 ---
 
-**N-10048** Charlie Kirk Assassination Investigation
+**N-10045** Charlie Kirk Assassination Investigation
 
 Existing topic reused for Bongino comments.
 
@@ -784,7 +784,7 @@ Existing topic reused for Bongino comments.
 
 ---
 
-**N-10083** AIPAC
+**N-10070** AIPAC
 
 Organization the host alleges was implicated in the JFK matter.
 
@@ -792,7 +792,7 @@ Organization the host alleges was implicated in the JFK matter.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for the host's statements on federal conduct on the day.
 
@@ -800,7 +800,7 @@ Existing topic reused for the host's statements on federal conduct on the day.
 
 ---
 
-**N-10239** Timpanogos Hospital Footage Seizure Verification
+**N-10226** Timpanogos Hospital Footage Seizure Verification
 
 Existing topic reused for the camera seizure claim.
 
@@ -808,7 +808,7 @@ Existing topic reused for the camera seizure claim.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for SUBTV flight logs.
 
@@ -816,7 +816,7 @@ Existing topic reused for SUBTV flight logs.
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 Existing topic reused for the host's French Legion evidence claim.
 
@@ -824,7 +824,7 @@ Existing topic reused for the host's French Legion evidence claim.
 
 ---
 
-**N-10344** Candace Owens Security Arrangement
+**N-10322** Candace Owens Security Arrangement
 
 Existing topic reused for the security gift option.
 
@@ -832,7 +832,7 @@ Existing topic reused for the security gift option.
 
 ---
 
-**N-10347** Egyptian Planes Israel Flight Pattern
+**N-10325** Egyptian Planes Israel Flight Pattern
 
 Existing topic reused for the host's Israel link.
 
@@ -840,7 +840,7 @@ Existing topic reused for the host's Israel link.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Existing topic reused for the eyewitness verification claims.
 
@@ -848,7 +848,7 @@ Existing topic reused for the eyewitness verification claims.
 
 ---
 
-**N-10368** Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)
+**N-10343** Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)
 
 Existing topic reused for the intelligence base claim.
 
@@ -856,7 +856,7 @@ Existing topic reused for the intelligence base claim.
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Existing topic reused for the possible attendance claims.
 
@@ -864,15 +864,7 @@ Existing topic reused for the possible attendance claims.
 
 ---
 
-**N-10643** Harpole Fort Huachuca Alibi Question
-
-Existing topic reused for the Tokyo return flight claim.
-
-*Related: C-4249, C-4250*
-
----
-
-**N-10887** Las Vegas
+**N-10808** Las Vegas
 
 Place reused for the SAM000 landing and the congressman link.
 
@@ -880,7 +872,7 @@ Place reused for the SAM000 landing and the congressman link.
 
 ---
 
-**N-11018** Pleasant Grove Sheriff's Department
+**N-10938** Pleasant Grove Sheriff's Department
 
 Node Type: Organization
 Agency whose bomb dogs the host says searched the gun area and found nothing before federally directed officers found the weapon.
@@ -889,7 +881,7 @@ Agency whose bomb dogs the host says searched the gun area and found nothing bef
 
 ---
 
-**N-11019** Freya Canine Scent Trace
+**N-10939** Freya Canine Scent Trace
 
 Node Type: Topic
 Host's account of a canine called Freya who traced a scent from the base of the building to the Losee Center rooftop using a condensed scent trace rather than the recovered gun.
@@ -898,7 +890,7 @@ Host's account of a canine called Freya who traced a scent from the base of the 
 
 ---
 
-**N-11020** Military Bot Activity Claim
+**N-11292** Military Bot Activity Claim
 
 Node Type: Topic
 Host's repeated claim that online reaction against her is driven by military grade bots, including new accounts and identical messaging, and that X was handed to the military.
@@ -907,9 +899,9 @@ Host's repeated claim that online reaction against her is driven by military gra
 
 ---
 
-**N-11021** Las Vegas Congressman Meeting Sighting Claim
+**N-10940** Las Vegas Congressman Meeting Sighting Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 Host's claim that the person Harry believes he saw leaving the September 9 Fort Huachuca meeting was a Las Vegas congressman, and her speculation tying this to the Las Vegas stop of the SAM000 aircraft.
 
 *Related: C-4273, C-4274*
@@ -927,7 +919,7 @@ Claim: Andrew Kolvet's X post contains a quotation attributed to "the surgeon" d
 Anchored Artifacts: A-1552.1
 Mentions: N-195, N-14, N-1
 
-Related Nodes: N-10358
+Related Nodes: N-10334
 
 Investigative Direction: Obtain original Kolvet post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.
 
@@ -942,7 +934,7 @@ Claim: Frank Turek states on a podcast that the transport vehicle was roped off 
 Anchored Artifacts: A-1553.1
 Mentions: N-7
 
-Related Nodes: N-10362
+Related Nodes: N-10338
 
 Investigative Direction: Cross-reference with FBI case file records, impound logs, and any Megyn Kelly show segment timestamps.
 
@@ -957,7 +949,7 @@ Claim: Frank Turek states on a podcast that Charlie's necklace, bearing a cross 
 Anchored Artifacts: A-1553.1
 Mentions: N-7
 
-Related Nodes: N-10362
+Related Nodes: N-10338
 
 Investigative Direction: Verify against any chain-of-custody documentation for Charlie's personal effects.
 
@@ -972,7 +964,7 @@ Claim: Baron Coleman states that SAM000 is a rarely used Special Air Mission cal
 Anchored Artifacts: A-1554.1
 Mentions: N-330
 
-Related Nodes: N-10363
+Related Nodes: N-10339
 
 Investigative Direction: Cross-check against USAF flight plan records and ATC telephonic call sign logs.
 
@@ -987,7 +979,7 @@ Claim: Baron Coleman states that on August 25, 2025, a flight using the SAM000 c
 Anchored Artifacts: A-1554.1
 Mentions: N-330
 
-Related Nodes: N-10363, N-10365
+Related Nodes: N-10339, N-10305
 
 Investigative Direction: Obtain raw flight plan and ATC records to verify origin, call sign, and destination.
 
@@ -1002,7 +994,7 @@ Claim: The host, showing a flight log after playing a Baron Coleman clip, says i
 Anchored Artifacts: A-1554.1
 Mentions: N-330
 
-Related Nodes: N-10363, N-10364
+Related Nodes: N-10339, N-10340
 
 Investigative Direction: Obtain radar track records and ADS-B exchange logs for August 26 to verify route and transponder gap.
 
@@ -1017,7 +1009,7 @@ Claim: The host, showing a flight log after playing a Baron Coleman clip, says i
 Anchored Artifacts: A-1554.1
 Mentions: N-330
 
-Related Nodes: N-10364
+Related Nodes: N-10340
 
 Investigative Direction: Cross-reference the call sign change with any known VIP boarding or deboarding records at Colorado Springs on August 26.
 
@@ -1032,7 +1024,7 @@ Claim: Brian Harpole states in an interview that the hard conversations, informa
 Anchored Artifacts: A-1555.1
 Mentions: N-266
 
-Related Nodes: N-10365, N-10366
+Related Nodes: N-10305, N-10341
 
 Investigative Direction: Corroborate against any contemporaneous operational records and against the Operation Valhalla Strike timeline.
 
@@ -1047,7 +1039,7 @@ Claim: Candace Owens states that she is in possession of six photographs depicti
 Anchored Artifacts: A-1556.1
 Mentions: N-3, N-1
 
-Related Nodes: N-10362
+Related Nodes: N-10338
 
 Investigative Direction: Establish chain of custody for the photographs and verify provenance and date of capture.
 
@@ -1077,7 +1069,7 @@ Transcript Snippet: I have never seen one more extreme than this Charlie Kirk co
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-378, N-5
-Related Nodes: N-10048
+Related Nodes: N-10045
 Investigative Direction: Track Bongino's departure announcement and any statement he makes on the Kirk investigation.
 
 ---
@@ -1092,7 +1084,7 @@ Transcript Snippet: I was told that Andrew Kolvet was allegedly flying blind whe
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
-Related Nodes: N-10358
+Related Nodes: N-10334
 Investigative Direction: Identify the host's source and obtain Kolvet's own account of how and when he spoke with the surgeon.
 
 ---
@@ -1107,7 +1099,7 @@ Transcript Snippet: me doing the the show and saying, "Oh, I saw the back footag
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
-Related Nodes: N-10358
+Related Nodes: N-10334
 Investigative Direction: Compare the broadcast timestamp of the host's remark with the posting time of Kolvet's tweet.
 
 ---
@@ -1122,7 +1114,7 @@ Transcript Snippet: never once did Dr. Lee Trotter say that Charlie's neck was s
 
 Anchored Artifacts: 
 Mentions: N-195, N-14, N-1
-Related Nodes: N-10358
+Related Nodes: N-10334
 Qualifies: C-4179
 Investigative Direction: Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Kolvet.
 
@@ -1138,7 +1130,7 @@ Transcript Snippet: I did not speak directly to Dr. Lee Trotter. But, I very muc
 
 Anchored Artifacts: 
 Mentions: N-3, N-195
-Related Nodes: N-10358
+Related Nodes: N-10334
 Investigative Direction: Seek a named, on-record confirmation from a person close to the surgeon.
 
 ---
@@ -1153,7 +1145,7 @@ Transcript Snippet: put a lot of undue stress on the surgeon's family as many of
 
 Anchored Artifacts: 
 Mentions: N-195, N-3
-Related Nodes: N-10358
+Related Nodes: N-10334
 Investigative Direction: Identify who has publicly accused the surgeon's family or hospital staff and whether any harassment was reported.
 
 ---
@@ -1168,7 +1160,7 @@ Transcript Snippet: What he communicated is that it was likely a frangible bulle
 
 Anchored Artifacts: 
 Mentions: N-195, N-14, N-3
-Related Nodes: N-10358
+Related Nodes: N-10334
 Qualifies: C-4179
 Investigative Direction: Ask Kolvet and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.
 
@@ -1184,7 +1176,7 @@ Transcript Snippet: Well, Andrew also told us that the bullet did ricochet. So, 
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10358
+Related Nodes: N-10334
 Qualifies: C-4179
 Investigative Direction: Quote Kolvet's exact wording on ricochet from his X thread and compare with the wound description in any official report.
 
@@ -1200,7 +1192,7 @@ Transcript Snippet: not only have I now heard this from somebody um that was in 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10359
+Related Nodes: N-10335
 Investigative Direction: Seek hospital phone records or staff accounts of any call placed during the period Charlie's body was in the hospital.
 
 ---
@@ -1215,7 +1207,7 @@ Transcript Snippet: He's raced into surgery. That is confirmed. All of that is t
 
 Anchored Artifacts: 
 Mentions: N-1, N-2
-Related Nodes: N-10359
+Related Nodes: N-10335
 Investigative Direction: Obtain the hospital's arrival, surgical start and time-of-death records through the family or a records request.
 
 ---
@@ -1230,7 +1222,7 @@ Transcript Snippet: he was blocked by federal officers who were already at the h
 
 Anchored Artifacts: 
 Mentions: N-195, N-1, N-2
-Related Nodes: N-10359
+Related Nodes: N-10335
 Investigative Direction: Identify which federal officers were at Timpanogos Regional Hospital and obtain any hospital security or incident logs from that afternoon.
 
 ---
@@ -1245,7 +1237,7 @@ Transcript Snippet: did not say it was a phone call to DC, but said it was likel
 
 Anchored Artifacts: 
 Mentions: N-195, N-3
-Related Nodes: N-10359
+Related Nodes: N-10335
 Investigative Direction: Establish whom the surgeon called, using his phone records or his own account.
 
 ---
@@ -1260,7 +1252,7 @@ Transcript Snippet: we are in manhunt hours. We're talking 2 and 1/2 hours, uh m
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10359
+Related Nodes: N-10335
 Investigative Direction: Reconcile with the timeline of the shot, the hospital arrival and the manhunt coverage.
 
 ---
@@ -1275,7 +1267,7 @@ Transcript Snippet: the feds are not just at the hospital trying to take cameras
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10239
+Related Nodes: N-10226
 Investigative Direction: Obtain hospital records of any camera removal or seizure and the legal process used.
 
 ---
@@ -1290,7 +1282,7 @@ Transcript Snippet: Wooded area? No, that's actually uh not the right topography
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360, N-10012
+Related Nodes: N-10336, N-10012
 Investigative Direction: Compare the official description of the recovery site with maps, photographs and the footage the host says she showed earlier.
 
 ---
@@ -1305,7 +1297,7 @@ Transcript Snippet: That area had already been searched. Not just by veteran pol
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Investigative Direction: Locate the officers involved and the search logs and body-camera records for the area.
 
 ---
@@ -1320,7 +1312,7 @@ Transcript Snippet: In that exact area where ultimately the gun is going to late
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Investigative Direction: Obtain K-9 deployment logs and handler statements for the search area.
 
 ---
@@ -1335,7 +1327,7 @@ Transcript Snippet: Their sense of of smell is like what literally up to 100,000
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Investigative Direction: Check veterinary or scientific literature on canine olfactory sensitivity against the 100,000 figure.
 
 ---
@@ -1350,7 +1342,7 @@ Transcript Snippet: over 19 billion dollars has been spent on research and devel
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Investigative Direction: Find the source of the 19 billion dollar figure and what spending it includes.
 
 ---
@@ -1365,7 +1357,7 @@ Transcript Snippet: They can pick up a scent of a fired weapon days days after i
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Investigative Direction: Consult K-9 training authorities on detection windows for fired weapons and propellant residue.
 
 ---
@@ -1380,7 +1372,7 @@ Transcript Snippet: These dogs belong to the sheriff's department in Pleasant Gr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11018, N-10360
+Related Nodes: N-10938, N-10336
 Investigative Direction: Confirm which agency's K-9 units were deployed and when, through records requests to the agency.
 
 ---
@@ -1395,7 +1387,7 @@ Transcript Snippet: federal officers direct three police officers who I'm told, 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Investigative Direction: Obtain the identities, tenure and assignment records of the officers who recovered the weapon.
 
 ---
@@ -1410,7 +1402,7 @@ Transcript Snippet: But lo and behold, these police officers, bam, there it is, 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Supports: C-4198
 Investigative Direction: Obtain the recovery report, scene photographs and the radio log for the discovery.
 
@@ -1426,7 +1418,7 @@ Transcript Snippet: I have the names of the officers who were involved in that d
 
 Anchored Artifacts: A-2738.1
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Investigative Direction: Ask the host to confirm whether she has contacted the officers; verify identities through agency rosters.
 
 ---
@@ -1441,7 +1433,7 @@ Transcript Snippet: she is specifically the canine that sniffed out the route to
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11019
+Related Nodes: N-10939
 Investigative Direction: Obtain the K-9 deployment report for Freya and her handler's account.
 
 ---
@@ -1456,7 +1448,7 @@ Transcript Snippet: conducted something that was described to me as a condensed 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11019
+Related Nodes: N-10939
 Investigative Direction: Ask the handler or agency to describe the trace protocol and what scent source was used.
 
 ---
@@ -1471,7 +1463,7 @@ Transcript Snippet: and the feds were sort of directing the show
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360, N-10202
+Related Nodes: N-10336, N-10194
 Investigative Direction: Obtain on-record statements from the officers or agency incident command logs showing who directed searches.
 
 ---
@@ -1486,7 +1478,7 @@ Transcript Snippet: I had received a tip a while ago from a few police officers,
 
 Anchored Artifacts: A-2739.1
 Mentions: N-3
-Related Nodes: N-10361
+Related Nodes: N-10337
 Investigative Direction: Identify the tipping officers and the department and seek on-record confirmation.
 
 ---
@@ -1501,7 +1493,7 @@ Transcript Snippet: there's an officer who catches a speeding car shortly after 
 
 Anchored Artifacts: A-2739.1
 Mentions: N-3
-Related Nodes: N-10361
+Related Nodes: N-10337
 Investigative Direction: Search dispatch logs and traffic stop records for stops in the hour after the shooting.
 
 ---
@@ -1516,7 +1508,7 @@ Transcript Snippet: The officer pulls over the Toyota RAV4, and when the officer
 
 Anchored Artifacts: A-2739.1
 Mentions: N-3
-Related Nodes: N-10361, N-10014
+Related Nodes: N-10337, N-10014
 Investigative Direction: Request the officer's body-camera footage, citation or dispatch record for the stop through a records request.
 
 ---
@@ -1531,7 +1523,7 @@ Transcript Snippet: a white Toyota RAV4 was pulled over and a federal badge was 
 
 Anchored Artifacts: A-2739.1
 Mentions: N-3
-Related Nodes: N-10361
+Related Nodes: N-10337
 Supports: C-4206
 Investigative Direction: File a records request for body-camera video and CAD logs covering the first two hours after the shot.
 
@@ -1547,7 +1539,7 @@ Transcript Snippet: Trump said that he thinks that Dan wants to get back to his 
 
 Anchored Artifacts: 
 Mentions: N-3, N-5, N-378
-Related Nodes: N-10048
+Related Nodes: N-10045
 Supports: C-4208
 Investigative Direction: Locate Trump's remark and Bongino's own announcement for the stated reason for leaving.
 
@@ -1563,7 +1555,7 @@ Transcript Snippet: I have been wondering why Dan has been silent I would say ef
 
 Anchored Artifacts: 
 Mentions: N-3, N-378
-Related Nodes: N-10048
+Related Nodes: N-10045
 Supports: C-4208
 Investigative Direction: Review Bongino's public statements and show transcripts since September 10 for mentions of the Kirk case.
 
@@ -1579,7 +1571,7 @@ Transcript Snippet: I click on this person, and they just created an account.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11020
+Related Nodes: N-11292
 Investigative Direction: Collect account-creation dates for sampled commenters and compare against the claimed botting pattern.
 
 ---
@@ -1594,7 +1586,7 @@ Transcript Snippet: it was towed to a towing facility that's just kind of really
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10362
+Related Nodes: N-10338
 Investigative Direction: Identify the tow company and obtain its tow and storage records for the vehicle.
 
 ---
@@ -1609,7 +1601,7 @@ Transcript Snippet: on Monday, they had another uh tow truck come and take that 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10362
+Related Nodes: N-10338
 Investigative Direction: Trace the vehicle by VIN through auction listings and title records after September 2025.
 
 ---
@@ -1624,7 +1616,7 @@ Transcript Snippet: The first end is that this was a rental vehicle, right?
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10362
+Related Nodes: N-10338
 Investigative Direction: Identify the rental company and vehicle identification number.
 
 ---
@@ -1639,7 +1631,7 @@ Transcript Snippet: the owner of the company was in California at the time. He g
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10362
+Related Nodes: N-10338
 Investigative Direction: Identify the owner and who placed the call, and ask the company whether it gave that instruction.
 
 ---
@@ -1654,7 +1646,7 @@ Transcript Snippet: especially because they didn't even require insurance to com
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10362
+Related Nodes: N-10338
 Investigative Direction: Request the insurer's claim file, if any, for the vehicle and the rental company's loss records.
 
 ---
@@ -1669,7 +1661,7 @@ Transcript Snippet: To cover everything up including sending US Marshals on a wi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Investigative Direction: Identify the Marshals deployments in the first hours and what lead they were sent to follow.
 
 ---
@@ -1684,7 +1676,7 @@ Transcript Snippet: Cash saying, "We got them." And then it wasn't the person th
 
 Anchored Artifacts: 
 Mentions: N-3, N-69
-Related Nodes: N-10202
+Related Nodes: N-10194
 Investigative Direction: Review Patel's public statements on September 10 to 11 and the FBI's correction.
 
 ---
@@ -1699,7 +1691,7 @@ Transcript Snippet: They don't actually feel like they wanted to solve the crime
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Investigative Direction: Gather on-record accounts from responding local officers on federal conduct in the first hours.
 
 ---
@@ -1714,7 +1706,7 @@ Transcript Snippet: I saw these military grade bot bots when they wanted me canc
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11020
+Related Nodes: N-11292
 Investigative Direction: Compile samples of the repeated phrasing with account metadata and posting times for independent analysis.
 
 ---
@@ -1729,7 +1721,7 @@ Transcript Snippet: we recognized this increase in this botted activity after we
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11020, N-10367
+Related Nodes: N-11292, N-10342
 Investigative Direction: Measure post volume and account age around the broadcast times with platform data.
 
 ---
@@ -1744,7 +1736,7 @@ Transcript Snippet: And then we were able to verify his story. People that are c
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10367, N-10365
+Related Nodes: N-10342, N-10305
 Investigative Direction: Obtain the verifying personnel's statements or documents on the building and meeting.
 
 ---
@@ -1759,7 +1751,7 @@ Transcript Snippet: That key piece of evidence is a jet that's used exclusively 
 
 Anchored Artifacts: A-1554.1
 Mentions: N-330
-Related Nodes: N-10365
+Related Nodes: N-10305
 Investigative Direction: Obtain the tail number's operator and mission history from Air Mobility Command records.
 
 ---
@@ -1774,7 +1766,7 @@ Transcript Snippet: That particular jet was present at the location of this alle
 
 Anchored Artifacts: A-1554.1
 Mentions: N-330, N-1
-Related Nodes: N-10365, N-10367
+Related Nodes: N-10305, N-10342
 Supports: C-3952
 Investigative Direction: Pull ADS-B and flight-plan records for the aircraft on September 8 to 10.
 
@@ -1818,7 +1810,7 @@ Transcript Snippet: So on August 25th, it flies into Las Vegas, lands at 4:48 p.
 
 Anchored Artifacts: A-1554.1
 Mentions: N-67
-Related Nodes: N-10363, N-10887
+Related Nodes: N-10339, N-10808
 Supports: C-4232
 Investigative Direction: Pull the raw flight log for the aircraft on August 25 and compare with Coleman's stated route from Andrews to Colorado Springs.
 
@@ -1834,7 +1826,7 @@ Transcript Snippet: the special air mission designation is usually when there's 
 
 Anchored Artifacts: A-1554.1
 Mentions: 
-Related Nodes: N-10364
+Related Nodes: N-10340
 Investigative Direction: Verify call-sign usage rules with Air Mobility Command documentation.
 
 ---
@@ -1849,7 +1841,7 @@ Transcript Snippet: the other call sign we've seen is Venus, which is a designat
 
 Anchored Artifacts: A-1554.1
 Mentions: 
-Related Nodes: N-10364
+Related Nodes: N-10340
 Investigative Direction: Check military airlift call-sign documentation for Venus.
 
 ---
@@ -1864,7 +1856,7 @@ Transcript Snippet: it started before that with the the intelligence gathering a
 
 Anchored Artifacts: A-1555.1
 Mentions: N-266
-Related Nodes: N-10365
+Related Nodes: N-10305
 Qualifies: C-4238
 Investigative Direction: Ask Harpole's firm for the date of the first intelligence product and the first conference call.
 
@@ -1894,7 +1886,7 @@ Transcript Snippet: It also happens to be the exact date that Operation Valhalla
 
 Anchored Artifacts: A-2740.1
 Mentions: N-3, N-266
-Related Nodes: N-10366
+Related Nodes: N-10341
 Investigative Direction: Find the official exercise announcement or unit records naming dates and participants.
 
 ---
@@ -1909,7 +1901,7 @@ Transcript Snippet: He said that there was an an undercover fed or he said it co
 
 Anchored Artifacts: 
 Mentions: N-3, N-360
-Related Nodes: N-10365, N-10367
+Related Nodes: N-10305, N-10342
 Investigative Direction: Obtain Harry's on-camera account and any corroborating incident report.
 
 ---
@@ -1924,7 +1916,7 @@ Transcript Snippet: He was like I had this many 06s, lieutenant colonels signifi
 
 Anchored Artifacts: 
 Mentions: N-360, N-3
-Related Nodes: N-10365, N-10367
+Related Nodes: N-10305, N-10342
 Supports: C-3836
 Investigative Direction: Ask Harry for the number and insignia observed and compare with the Fort Huachuca JTF-SB attendance.
 
@@ -1940,7 +1932,7 @@ Transcript Snippet: Everything he has said has checked out. I am telling you we 
 
 Anchored Artifacts: A-2741.1
 Mentions: N-3, N-360
-Related Nodes: N-10367
+Related Nodes: N-10342
 Investigative Direction: Review the emails and verify the senders' standing as personnel without exposing them.
 
 ---
@@ -1955,7 +1947,7 @@ Transcript Snippet: This is where they train people that are in the intelligence
 
 Anchored Artifacts: A-2741.1
 Mentions: N-3
-Related Nodes: N-10367, N-10368
+Related Nodes: N-10342, N-10343
 Investigative Direction: Check Fort Huachuca's published tenant units and mission, including Army Intelligence Center training.
 
 ---
@@ -1970,7 +1962,7 @@ Transcript Snippet: They confirmed that building that he said
 
 Anchored Artifacts: A-2741.1
 Mentions: N-3, N-360
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-3833
 Investigative Direction: Ask the personnel for on-record confirmation of the temporary JTF-SB headquarters location.
 
@@ -1986,7 +1978,7 @@ Transcript Snippet: just gets out of his 25-year long NDA and stumbles into anot
 
 Anchored Artifacts: 
 Mentions: N-3, N-360
-Related Nodes: N-10367
+Related Nodes: N-10342
 Investigative Direction: Compare with the 1990 to May 2025 NDA period reported earlier and obtain the NDA document.
 
 ---
@@ -2001,7 +1993,7 @@ Transcript Snippet: Do you want to come on and tell your story? And he has said,
 
 Anchored Artifacts: 
 Mentions: N-3, N-360
-Related Nodes: N-10367
+Related Nodes: N-10342
 Investigative Direction: Check the next episode for the interview and compare it with earlier accounts.
 
 ---
@@ -2016,7 +2008,7 @@ Transcript Snippet: He actually lands into Los Angeles on a direct flight from T
 
 Anchored Artifacts: 
 Mentions: N-3, N-266
-Related Nodes: N-10643, N-10373
+Related Nodes: N-10347
 Investigative Direction: Obtain the flight numbers and manifest or boarding records to confirm the itinerary.
 
 ---
@@ -2031,7 +2023,7 @@ Transcript Snippet: It is possible for Brian Harpole to be able to meet to to ma
 
 Anchored Artifacts: 
 Mentions: N-3, N-266
-Related Nodes: N-10643, N-10373
+Related Nodes: N-10347
 Investigative Direction: Build the Harpole travel timeline from the 8th to the 9th with receipts, location data and flight records.
 
 ---
@@ -2046,7 +2038,7 @@ Transcript Snippet: this is one more plane SUBTV that had the longest of flight 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Investigative Direction: Check the next day's release for the SUBTV log and compare with public ADS-B archives.
 
 ---
@@ -2061,7 +2053,7 @@ Transcript Snippet: I do feel confident in stating that those Egyptian planes ar
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10347, N-10026, N-10253
+Related Nodes: N-10325, N-10026, N-10239
 Investigative Direction: Publish the flight-log evidence tying the aircraft to Israel for independent review.
 
 ---
@@ -2076,7 +2068,7 @@ Transcript Snippet: I said, "Elon Musk handed over X to the military."
 
 Anchored Artifacts: 
 Mentions: N-3, N-118
-Related Nodes: N-11020
+Related Nodes: N-11292
 Investigative Direction: Seek documentation of any X contracts or data arrangements with military bodies.
 
 ---
@@ -2091,7 +2083,7 @@ Transcript Snippet: And then when you see like Tim Pool and Nick Fuentes, Candac
 
 Anchored Artifacts: 
 Mentions: N-3, N-267, N-201
-Related Nodes: N-11020
+Related Nodes: N-11292
 Investigative Direction: Collect the actual statements by Pool and Fuentes and compare their wording.
 
 ---
@@ -2136,7 +2128,7 @@ Transcript Snippet: if you'd like to just give a gift to support our security an
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10344
+Related Nodes: N-10322
 Investigative Direction: Check the site for the security fund page and its stated use of funds.
 
 ---
@@ -2193,7 +2185,7 @@ Transcript Snippet: AIPAC implied, obviously, or whatever their name was before 
 
 Anchored Artifacts: A-2742.1
 Mentions: N-3
-Related Nodes: N-10083
+Related Nodes: N-10070
 Investigative Direction: Ask the host which historical sources she relies on, as this is an allegation about an organization.
 
 ---
@@ -2250,7 +2242,7 @@ Transcript Snippet: I've reached out to the FBI, not specifically to Cash. Nothi
 
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-46
-Related Nodes: N-10202
+Related Nodes: N-10194
 Investigative Direction: Look for any FBI response or records of the host's outreach and Patel's remarks on the Megyn Kelly appearance.
 
 ---
@@ -2265,7 +2257,7 @@ Transcript Snippet: Hey, I said Cash, I have evidence the French Legion was on t
 
 Anchored Artifacts: 
 Mentions: N-3, N-69
-Related Nodes: N-10290
+Related Nodes: N-10272
 Investigative Direction: Obtain the host's evidence and compare with the August 2025 French Foreign Legion US training record.
 
 ---
@@ -2280,7 +2272,7 @@ Transcript Snippet: This is what the police officers that were there that day be
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Investigative Direction: Seek on-record statements from responding officers.
 
 ---
@@ -2368,7 +2360,7 @@ Transcript Snippet: that he believes he saw coming out of that meeting did happe
 
 Anchored Artifacts: 
 Mentions: N-3, N-360
-Related Nodes: N-11021, N-10887, N-10365
+Related Nodes: N-10940, N-10808, N-10305
 Investigative Direction: Ask Harry on air to identify the person and check the congressman's public schedule for September 9.
 
 ---
@@ -2383,7 +2375,7 @@ Transcript Snippet: Again, I can't confirm that because I wasn't these aren't my
 
 Anchored Artifacts: 
 Mentions: N-3, N-360
-Related Nodes: N-11021, N-10887, N-10364
+Related Nodes: N-10940, N-10808, N-10340
 Investigative Direction: Cross-check the Las Vegas landing records with the congressman's travel on the relevant dates.
 
 ---

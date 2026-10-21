@@ -30,7 +30,7 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-10537"
+            "N-10492"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -51,7 +51,7 @@
             "N-7",
             "N-190",
             "N-2",
-            "N-10537"
+            "N-10492"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -101,7 +101,7 @@
             "C-10050"
           ],
           "related_nodes": [
-            "N-10768"
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -118,8 +118,8 @@
             "C-10043"
           ],
           "related_nodes": [
-            "N-10768",
-            "N-10107"
+            "N-10697",
+            "N-10103"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -147,7 +147,7 @@
           "related_nodes": [
             "N-683",
             "N-684",
-            "N-10107"
+            "N-10103"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -173,7 +173,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10987"
+            "N-10907"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -191,7 +191,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10987"
+            "N-10907"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -221,7 +221,7 @@
           "related_nodes": [
             "N-261",
             "N-3",
-            "N-10991"
+            "N-10911"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -247,8 +247,8 @@
             "C-10056"
           ],
           "related_nodes": [
-            "N-10987",
-            "N-10307"
+            "N-10907",
+            "N-10289"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -280,7 +280,7 @@
             "N-261",
             "N-7",
             "N-1",
-            "N-10987"
+            "N-10907"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -325,7 +325,7 @@
           ],
           "related_nodes": [
             "N-686",
-            "N-10989"
+            "N-10909"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -344,8 +344,8 @@
             "C-10069"
           ],
           "related_nodes": [
-            "N-10989",
-            "N-10401"
+            "N-10909",
+            "N-10374"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -385,8 +385,8 @@
             "N-688",
             "N-460",
             "N-686",
-            "N-10401",
-            "N-10186"
+            "N-10374",
+            "N-10178"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -404,7 +404,7 @@
           ],
           "related_nodes": [
             "N-11",
-            "N-10401"
+            "N-10374"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -431,7 +431,7 @@
           "related_nodes": [
             "N-7",
             "N-1",
-            "N-10737"
+            "N-10636"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -450,7 +450,7 @@
           "related_nodes": [
             "N-266",
             "N-7",
-            "N-10737"
+            "N-10636"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -469,7 +469,7 @@
           "related_nodes": [
             "N-17",
             "N-7",
-            "N-10737"
+            "N-10636"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -495,7 +495,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10680"
+            "N-10618"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -513,7 +513,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10680"
+            "N-10618"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -538,7 +538,7 @@
             "C-10098"
           ],
           "related_nodes": [
-            "N-10107"
+            "N-10103"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -554,7 +554,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-10707"
+            "N-10643"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -588,7 +588,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-10768"
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -614,8 +614,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10923",
-            "N-10888"
+            "N-10844",
+            "N-10809"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -641,7 +641,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10913"
+            "N-10834"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1333,11 +1333,11 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The organization whose AV team, staff, donors and evidence handling are questioned.",
       "related_artifacts": [],
       "related_claims": [
@@ -1352,14 +1352,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@type": "Event",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Farnsworth's removal of the back-camera SD card is restated.",
       "related_artifacts": [],
       "related_claims": [
@@ -1370,14 +1372,19 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10107",
-      "ref": "N-10107",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10103",
+      "ref": "N-10103",
       "name": "Crime Scene Pavers",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The paving and soil excavation of the scene, including the paver's account.",
       "related_artifacts": [
         "A-2678.2",
@@ -1395,14 +1402,15 @@
       "evidence_count": 3,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The missing GSR test and the lack of footage or eyewitnesses of a shot from the building.",
       "related_artifacts": [],
       "related_claims": [
@@ -1413,14 +1421,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10186",
-      "ref": "N-10186",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10178",
+      "ref": "N-10178",
       "name": "Plane 888 / Maxfield Plane Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host says plane 888 was formerly registered in Romania.",
       "related_artifacts": [
         "A-2685.1"
@@ -1432,14 +1441,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10195"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10307",
-      "ref": "N-10307",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10289",
+      "ref": "N-10289",
       "name": "TPUSA Phoenix Livestream Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Farnsworth's \"ops back in Phoenix\" live stream and the AV email's broadcast reasoning.",
       "related_artifacts": [
         "A-2682.1"
@@ -1453,14 +1464,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10325",
-      "ref": "N-10325",
+      "@type": "Topic",
+      "@id": "N-10304",
+      "ref": "N-10304",
       "name": "Global Trafficking Angle in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host's opinion linking the assassination to the Epstein network.",
       "related_artifacts": [],
       "related_claims": [
@@ -1471,14 +1483,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The camera removal and selfie video right after the shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1488,14 +1501,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10383",
-      "ref": "N-10383",
+      "@type": "Topic",
+      "@id": "N-10356",
+      "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The Farnsworth and Bowyer families' long ties.",
       "related_artifacts": [],
       "related_claims": [
@@ -1505,14 +1520,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10387",
-      "ref": "N-10387",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10360",
+      "ref": "N-10360",
       "name": "Tyler Bowyer Investigation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Bowyer's hiring role around Charlie Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1522,14 +1538,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10395",
-      "ref": "N-10395",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10368",
+      "ref": "N-10368",
       "name": "Tyler Bowyer 2011 Romania Activities",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Restated: Bowyer went to Romania in 2011 to work with the Romanian government.",
       "related_artifacts": [],
       "related_claims": [
@@ -1539,14 +1556,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@type": "Topic",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The connecting-themes cluster, extended in this episode with Soter Global Ministries and the Goldsberrys.",
       "related_artifacts": [
         "A-2684.3",
@@ -1570,14 +1589,15 @@
       "evidence_count": 3,
       "claim_count": 11,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@type": "Topic",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Greg Laurie's church litigation over Romania.",
       "related_artifacts": [],
       "related_claims": [
@@ -1587,14 +1607,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10421",
-      "ref": "N-10421",
+      "@type": "Topic",
+      "@id": "N-10394",
+      "ref": "N-10394",
       "name": "Buckman–TPUSA Donor Relationship Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Nelda Buckman as TPUSA's biggest donor.",
       "related_artifacts": [],
       "related_claims": [
@@ -1604,14 +1626,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10507",
-      "ref": "N-10507",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10468",
+      "ref": "N-10468",
       "name": "Charlie Kirk Phone Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The phone given to Erika Kirk instead of being held in evidence.",
       "related_artifacts": [],
       "related_claims": [
@@ -1621,14 +1644,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10537",
-      "ref": "N-10537",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10492",
+      "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The necklace accounts and its position next to the mic.",
       "related_artifacts": [
         "A-2677.1",
@@ -1644,14 +1668,15 @@
       "evidence_count": 2,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10605",
-      "ref": "N-10605",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10552",
+      "ref": "N-10552",
       "name": "Erika Kirk–Victor Marx Relationship Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Eileen Marx as mentor to Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1661,14 +1686,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10614",
-      "ref": "N-10614",
+      "@type": "Topic",
+      "@id": "N-10561",
+      "ref": "N-10561",
       "name": "TPUSA Faith Department / Adjacent Charity Biographical Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Dr. Philip Goldsberry's pastor background and charity.",
       "related_artifacts": [],
       "related_claims": [
@@ -1679,14 +1705,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10678",
-      "ref": "N-10678",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10616",
+      "ref": "N-10616",
       "name": "SUV Floorboard Shard Mic Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The shattered black plastic or glass in the SUV.",
       "related_artifacts": [],
       "related_claims": [
@@ -1696,14 +1723,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10641"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10680",
-      "ref": "N-10680",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10618",
+      "ref": "N-10618",
       "name": "Erika Signature Change Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The post on Erika Kirk's scratched-out signature.",
       "related_artifacts": [
         "A-2687.1",
@@ -1716,14 +1745,15 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Turek's and McCoy's accounts that Turek gave CPR.",
       "related_artifacts": [],
       "related_claims": [
@@ -1734,14 +1764,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10688",
-      "ref": "N-10688",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10626",
+      "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The scrubs account and the clothes worn in the vehicle.",
       "related_artifacts": [],
       "related_claims": [
@@ -1751,14 +1783,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10698",
-      "ref": "N-10698",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10635",
+      "ref": "N-10635",
       "name": "Next Model Management / MC2 Trafficking Connection to Erika Kirk",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's sourced claim that Erika Kirk used the same modeling office as a woman close to Epstein.",
       "related_artifacts": [],
       "related_claims": [
@@ -1768,14 +1801,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10707",
-      "ref": "N-10707",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10643",
+      "ref": "N-10643",
       "name": "Missing Charlie's Shirt Investigation Target",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The white Freedom shirt not listed as evidence.",
       "related_artifacts": [
         "A-2688.2"
@@ -1787,14 +1822,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10729",
-      "ref": "N-10729",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10663",
+      "ref": "N-10663",
       "name": "911 Call Identification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The 911 call asserted in Harpole's filing and the staff who did not call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1805,14 +1841,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10737",
-      "ref": "N-10737",
-      "name": "CPR Narrative Contradiction (Turek / Harpole)",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10636",
+      "ref": "N-10636",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
+      "type": "investigation_question",
       "description": "The opposing CPR clips aired back to back.",
       "related_artifacts": [
         "A-2686.1",
@@ -1828,14 +1865,15 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's central rigged-mic theory, recapped and extended.",
       "related_artifacts": [
         "A-2678.1",
@@ -1853,14 +1891,15 @@
       "evidence_count": 3,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10797",
-      "ref": "N-10797",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10721",
+      "ref": "N-10721",
       "name": "Terryl Farnsworth Google-Hack Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Farnsworth's stated reasons for not sending the video file.",
       "related_artifacts": [],
       "related_claims": [
@@ -1870,14 +1909,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10736"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10816",
-      "ref": "N-10816",
-      "name": "Charlie Kirk September 9, 2025 Text Messages",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10730",
+      "ref": "N-10730",
+      "name": "Charlie Kirk Pre-Event Text Messages",
+      "type": "investigation_question",
       "description": "The night-before group text and trans-threat message.",
       "related_artifacts": [],
       "related_claims": [
@@ -1887,14 +1928,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10832",
-      "ref": "N-10832",
+      "@type": "Topic",
+      "@id": "N-10755",
+      "ref": "N-10755",
       "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Anti-trafficking and adoption ties around TPUSA figures.",
       "related_artifacts": [],
       "related_claims": [
@@ -1905,14 +1947,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10840",
-      "ref": "N-10840",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10763",
+      "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "No ambulance on standby at the event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1922,14 +1965,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@type": "Organization",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Said by the host to have artificially boosted Erika Kirk after the WHCD.",
       "related_artifacts": [
         "A-2689.1"
@@ -1941,14 +1985,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10987",
-      "ref": "N-10987",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10907",
+      "ref": "N-10907",
       "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: why Charlie Kirk's Rode Wireless Pro transmitter was worn inside his shirt, with the magnetic clasp outside, on September 10. The host dates the inside placement to October 8, 2024 on the \"You're Being Brainwashed\" tour, after the wireless redundancy was added and earlier stops had it outside the shirt. She identifies Philip Goldsberry Jr. as the technician who fitted it, and audio professionals told her the placement makes no audio sense.",
       "related_artifacts": [
         "A-2680.1",
@@ -1975,12 +2021,13 @@
       "related_nodes": [
         "N-685",
         "N-261"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Organization",
-      "@id": "N-10988",
-      "ref": "N-10988",
+      "@id": "N-10908",
+      "ref": "N-10908",
       "name": "Miss Universe Organization",
       "type": "organization",
       "description": "The pageant organization the host says Trump co-owned with NBC Universal. She says Erika Kirk won a 2006 teen crown under it and that her pageant years fall within the co-ownership.",
@@ -1997,12 +2044,14 @@
       "related_nodes": [
         "N-5",
         "N-2"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
-      "@id": "N-10989",
-      "ref": "N-10989",
+      "@id": "N-10909",
+      "ref": "N-10909",
       "name": "Soter Global Ministries",
       "type": "organization",
       "description": "Transcript spellings \"Soder Global Ministries\" and \"Soteria Global Ministries\". Charity co-founded in 2006 by Dr. Philip Goldsberry, who chairs its board. According to its website, as read by the host, it provided medical care and training in orphanages, clinics and schools in Albania, Romania and Ukraine. She says it taught about human trafficking and visited a shelter for trafficking victims, and filed formal paperwork in 2010.",
@@ -2024,12 +2073,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-686"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q1530022"
     },
     {
       "@type": "Organization",
-      "@id": "N-10990",
-      "ref": "N-10990",
+      "@id": "N-10910",
+      "ref": "N-10910",
       "name": "Black Sea Rotational Force",
       "type": "organization",
       "description": "US Marine rotational force the host says set up a base in Romania in 2010 that was later accused of trafficking and prostituting children. She ties it to Erika Kirk's Romanian Angels partnership with Colonel \"Otto Busher.\"",
@@ -2046,12 +2097,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-687"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q176799"
     },
     {
       "@type": "Organization",
-      "@id": "N-10991",
-      "ref": "N-10991",
+      "@id": "N-10911",
+      "ref": "N-10911",
       "name": "Visual Impulse",
       "type": "organization",
       "description": "Audio-visual company run by Terryl Farnsworth as CEO, long-time AV provider for Charlie Kirk and Turning Point USA; Philip Goldsberry Jr. is on its team.",
@@ -2069,14 +2122,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-261"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@type": "Thing",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: the email the host says describes Erika Kirk as an \"emotional asset\" after the White House Correspondents' Dinner shooting. In this episode the host says it shows the WHCD messaging was staged and that the Department of War was artificially boosting Erika Kirk. She urges FOIA requests.",
       "related_artifacts": [
         "A-2689.1"
@@ -2091,15 +2146,17 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-10888"
-      ]
+        "N-10809"
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10913",
-      "ref": "N-10913",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10834",
+      "ref": "N-10834",
       "name": "Erika Kirk WHCD Exit Video Staging Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: who recorded the viral video of Erika Kirk leaving the White House Correspondents' Dinner. In this episode the host says her $10,000 bounty has still not identified the person, and that it was not the CNN reporter who posted it on Instagram.",
       "related_artifacts": [
         "A-2690.1"
@@ -2114,7 +2171,9 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10582"
     }
   ],
   "claims": [
@@ -2126,8 +2185,8 @@
       "claim": "The host says Terryl Farnsworth raced to take down the camera behind Charlie Kirk's head minutes after he died, and recorded a selfie video of himself declaring that Charlie was dead seconds after he died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346",
-        "N-10100"
+        "N-10324",
+        "N-10096"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -2148,7 +2207,7 @@
         "A-2677.2"
       ],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:02:02",
@@ -2172,7 +2231,7 @@
         "A-2677.3"
       ],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:02:02",
@@ -2195,8 +2254,8 @@
         "A-2677.2"
       ],
       "related_nodes": [
-        "N-10537",
-        "N-10768"
+        "N-10492",
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:04:43",
@@ -2217,8 +2276,8 @@
         "A-2678.1"
       ],
       "related_nodes": [
-        "N-10768",
-        "N-10107"
+        "N-10697",
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:05:27",
@@ -2238,15 +2297,15 @@
         "A-2678.2"
       ],
       "related_nodes": [
-        "N-10768",
-        "N-10107"
+        "N-10697",
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:06:08",
       "investigative_direction": "Identify the cited article and check its PETN soil-sorption data against the environmental chemistry literature.",
       "transcript_snippet": "it says that the low water solubility and high soil absorption, um, of PETN in particular, if we think that is the explosive, it would be very problematic and you would, in fact, need to dig out the soil.",
       "mentions_person_refs": [
-        "N-10107"
+        "N-10103"
       ]
     },
     {
@@ -2259,7 +2318,7 @@
         "A-2679.1"
       ],
       "related_nodes": [
-        "N-10107"
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:06:08",
@@ -2280,7 +2339,7 @@
         "A-2679.1"
       ],
       "related_nodes": [
-        "N-10107"
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -2301,7 +2360,7 @@
         "A-2678.1"
       ],
       "related_nodes": [
-        "N-10678"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:07:34",
@@ -2324,15 +2383,15 @@
         "A-2678.1"
       ],
       "related_nodes": [
-        "N-10110",
-        "N-10768"
+        "N-10106",
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:07:34",
       "investigative_direction": "Review the prosecution's discovery and released video for any footage or witness statement placing a shooter on that building at the time of the shot.",
       "transcript_snippet": "Why there is no available footage or any eyewitness reports of someone seen firing a shot from the Losee building.",
       "mentions_person_refs": [
-        "N-10768"
+        "N-10697"
       ]
     },
     {
@@ -2345,7 +2404,7 @@
         "A-2678.1"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:07:34",
@@ -2365,7 +2424,7 @@
         "A-2678.1"
       ],
       "related_nodes": [
-        "N-10100"
+        "N-10096"
       ],
       "tags": [],
       "claim_timestamp": "00:08:29",
@@ -2385,7 +2444,7 @@
         "A-2678.1"
       ],
       "related_nodes": [
-        "N-10840",
+        "N-10763",
         "N-10000"
       ],
       "tags": [],
@@ -2423,7 +2482,7 @@
         "A-2682.1"
       ],
       "related_nodes": [
-        "N-10987"
+        "N-10907"
       ],
       "tags": [],
       "claim_timestamp": "00:09:48",
@@ -2443,8 +2502,8 @@
         "A-2680.1"
       ],
       "related_nodes": [
-        "N-10987",
-        "N-10768"
+        "N-10907",
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:09:48",
@@ -2464,7 +2523,7 @@
         "A-2681.1"
       ],
       "related_nodes": [
-        "N-10987"
+        "N-10907"
       ],
       "tags": [],
       "claim_timestamp": "00:10:56",
@@ -2486,7 +2545,7 @@
         "A-2680.2"
       ],
       "related_nodes": [
-        "N-10987"
+        "N-10907"
       ],
       "tags": [],
       "claim_timestamp": "00:12:03",
@@ -2506,8 +2565,8 @@
         "A-2682.1"
       ],
       "related_nodes": [
-        "N-10987",
-        "N-10307"
+        "N-10907",
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:12:50",
@@ -2525,7 +2584,7 @@
       "claim": "The host says Terryl Farnsworth has run Charlie Kirk's audio-visual team for over 10 years, and that the Farnsworth and Tyler Bowyer families grew up together and go back generations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [],
       "claim_timestamp": "00:14:08",
@@ -2545,7 +2604,7 @@
       "claim": "The host says Tyler Bowyer was the one hiring everybody around Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10387",
+        "N-10360",
         "N-10000"
       ],
       "tags": [],
@@ -2567,7 +2626,7 @@
         "A-2683.1"
       ],
       "related_nodes": [
-        "N-10987"
+        "N-10907"
       ],
       "tags": [],
       "claim_timestamp": "00:14:08",
@@ -2589,7 +2648,7 @@
         "A-2683.1"
       ],
       "related_nodes": [
-        "N-10987"
+        "N-10907"
       ],
       "tags": [],
       "claim_timestamp": "00:15:55",
@@ -2612,8 +2671,8 @@
         "A-2683.1"
       ],
       "related_nodes": [
-        "N-10987",
-        "N-10537"
+        "N-10907",
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:15:55",
@@ -2635,7 +2694,7 @@
         "A-2684.1"
       ],
       "related_nodes": [
-        "N-10614"
+        "N-10561"
       ],
       "tags": [],
       "claim_timestamp": "00:17:32",
@@ -2654,7 +2713,7 @@
       "claim": "The host says that in 2006 Erika Kirk won a teen pageant crown (she calls it \"Teen Miss America\") under the Trump Miss Universe organization.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10988"
+        "N-10908"
       ],
       "tags": [],
       "claim_timestamp": "00:17:32",
@@ -2675,8 +2734,8 @@
         "A-2684.2"
       ],
       "related_nodes": [
-        "N-10989",
-        "N-10614"
+        "N-10909",
+        "N-10561"
       ],
       "tags": [],
       "claim_timestamp": "00:17:32",
@@ -2696,8 +2755,8 @@
         "A-2684.3"
       ],
       "related_nodes": [
-        "N-10989",
-        "N-10401"
+        "N-10909",
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
@@ -2717,17 +2776,17 @@
         "A-2684.3"
       ],
       "related_nodes": [
-        "N-10989",
-        "N-10990",
-        "N-10401"
+        "N-10909",
+        "N-10910",
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Check state incorporation and IRS determination dates for Soter, US Marine Corps records for the Black Sea Rotational Force deployment start, and the sourcing of the trafficking accusations.",
       "transcript_snippet": "they didn't officially file paperwork for their global ministries until 2010, right? 2010 being the very year that the Black Sea Rotational Force set up a base in Romania",
       "mentions_person_refs": [
-        "N-10990",
-        "N-10401"
+        "N-10910",
+        "N-10374"
       ]
     },
     {
@@ -2738,8 +2797,8 @@
       "claim": "The host says Erika Kirk's Romanian Angels drew criticism online when people realized she was partnering with Colonel \"Otto Busher,\" whom the host says was accused of setting up the base and trafficking children through it. This is presented as an accusation, not an established fact.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10990",
-        "N-10401"
+        "N-10910",
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
@@ -2760,7 +2819,7 @@
         "A-2684.2"
       ],
       "related_nodes": [
-        "N-10989"
+        "N-10909"
       ],
       "tags": [],
       "claim_timestamp": "00:19:52",
@@ -2781,15 +2840,15 @@
         "A-2684.3"
       ],
       "related_nodes": [
-        "N-10989",
-        "N-10401"
+        "N-10909",
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:20:37",
       "investigative_direction": "Archive the website timeline and cross-check it against Soter's financial filings and partner organizations.",
       "transcript_snippet": "2010, they taught physicians in Albania basic and advanced life support skills in rigorous 3-day seminar. They visited a shelter for human trafficking victims and provided basic first aid instruction.",
       "mentions_person_refs": [
-        "N-10401"
+        "N-10374"
       ]
     },
     {
@@ -2800,7 +2859,7 @@
       "claim": "The host says that in 2005–2006, the years of Soter's early work, Tyler Bowyer was doing missionary work in the same region.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:20:37",
@@ -2818,7 +2877,7 @@
       "claim": "The host says she is hearing from people that Erika Kirk was hanging out at the same modeling office as Jeffrey Epstein. She refers to a woman close to Epstein, through whose firm Eastern European models seem to have been trafficked. This is attributed to unnamed sources.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10698"
+        "N-10635"
       ],
       "tags": [],
       "claim_timestamp": "00:21:30",
@@ -2857,15 +2916,15 @@
         "A-2685.1"
       ],
       "related_nodes": [
-        "N-10186",
-        "N-10401"
+        "N-10178",
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:23:15",
       "investigative_direction": "Pull FAA and Romanian civil aviation registry history for the aircraft and identify its current owners' charitable activities.",
       "transcript_snippet": "the 888 plane, um was formerly registered in Romania before it was registered there. And the owners of that plane today uh help with trafficking victims.",
       "mentions_person_refs": [
-        "N-10401"
+        "N-10374"
       ]
     },
     {
@@ -2878,8 +2937,8 @@
         "A-2685.1"
       ],
       "related_nodes": [
-        "N-10401",
-        "N-10990"
+        "N-10374",
+        "N-10910"
       ],
       "tags": [],
       "claim_timestamp": "00:23:15",
@@ -2900,7 +2959,7 @@
         "A-2685.1"
       ],
       "related_nodes": [
-        "N-10395"
+        "N-10368"
       ],
       "tags": [],
       "claim_timestamp": "00:23:15",
@@ -2920,7 +2979,7 @@
         "A-2685.2"
       ],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:23:15",
@@ -2943,7 +3002,7 @@
         "A-2685.1"
       ],
       "related_nodes": [
-        "N-10411"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:24:24",
@@ -2967,7 +3026,7 @@
         "A-2685.1"
       ],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:24:24",
@@ -2988,7 +3047,7 @@
         "A-2685.1"
       ],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:25:09",
@@ -3008,8 +3067,8 @@
         "A-2685.1"
       ],
       "related_nodes": [
-        "N-10401",
-        "N-10832"
+        "N-10374",
+        "N-10755"
       ],
       "tags": [],
       "claim_timestamp": "00:25:09",
@@ -3029,8 +3088,8 @@
         "A-2685.1"
       ],
       "related_nodes": [
-        "N-10421",
-        "N-10832",
+        "N-10394",
+        "N-10755",
         "N-10000"
       ],
       "tags": [],
@@ -3049,7 +3108,7 @@
       "claim": "The host says Victor Marx has said his wife Eileen Marx is like a mentor to Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10605"
+        "N-10552"
       ],
       "tags": [],
       "claim_timestamp": "00:26:17",
@@ -3071,8 +3130,8 @@
         "A-2681.1"
       ],
       "related_nodes": [
-        "N-10991",
-        "N-10987"
+        "N-10911",
+        "N-10907"
       ],
       "tags": [],
       "claim_timestamp": "00:27:01",
@@ -3094,7 +3153,7 @@
         "A-2681.1"
       ],
       "related_nodes": [
-        "N-10797"
+        "N-10721"
       ],
       "tags": [],
       "claim_timestamp": "00:27:01",
@@ -3114,8 +3173,8 @@
         "A-2681.1"
       ],
       "related_nodes": [
-        "N-10307",
-        "N-10991"
+        "N-10289",
+        "N-10911"
       ],
       "tags": [],
       "claim_timestamp": "00:27:50",
@@ -3134,7 +3193,7 @@
       "claim": "The host says her team has asked current and former Turning Point USA employees. All of them, she says, were told the event was being live-streamed, but none know where.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10307",
+        "N-10289",
         "N-10000"
       ],
       "tags": [],
@@ -3153,7 +3212,7 @@
       "claim": "The host says she does not see Charlie Kirk's white Freedom shirt listed as evidence in the court hearing. She argues the defense should seek it and have it tested for explosive residue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10707"
+        "N-10643"
       ],
       "tags": [],
       "claim_timestamp": "00:30:04",
@@ -3190,7 +3249,7 @@
       "claim": "The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, \"You guys keep the money. I don't want it.\" She says he then texted his team, about a \"trans fairy,\" \"That's who's going to kill me.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10816"
+        "N-10730"
       ],
       "tags": [],
       "claim_timestamp": "00:31:04",
@@ -3209,7 +3268,7 @@
       "claim": "The host says Charlie Kirk's phone was given to Erika Kirk rather than held in evidence, along with the necklace and, through TPUSA, the body microphone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10507"
+        "N-10468"
       ],
       "tags": [],
       "claim_timestamp": "00:32:03",
@@ -3228,7 +3287,7 @@
       "claim": "The host says Jeffrey Epstein ran a global trafficking ring and, according to Epstein himself and his emails, worked for the Rothschilds.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10325"
+        "N-10304"
       ],
       "tags": [],
       "claim_timestamp": "00:36:19",
@@ -3247,7 +3306,7 @@
       "claim": "The host says her team was working on an Epstein series when Charlie Kirk was assassinated. She says Kirk had been asking many questions about Epstein and then got a phone call from the president asking him to stop.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10325"
+        "N-10304"
       ],
       "tags": [],
       "claim_timestamp": "00:37:15",
@@ -3269,8 +3328,8 @@
         "A-2686.1"
       ],
       "related_nodes": [
-        "N-10737",
-        "N-10687"
+        "N-10636",
+        "N-10625"
       ],
       "tags": [],
       "claim_timestamp": "00:39:34",
@@ -3291,7 +3350,7 @@
         "A-2686.2"
       ],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:40:19",
@@ -3312,8 +3371,8 @@
         "A-2686.3"
       ],
       "related_nodes": [
-        "N-10737",
-        "N-10687"
+        "N-10636",
+        "N-10625"
       ],
       "tags": [],
       "claim_timestamp": "00:41:14",
@@ -3334,7 +3393,7 @@
       "claim": "The host says Frank Turek has said that at the hospital Mikey McCoy helped and they were given scrubs to change into because they were covered in blood. She questions this against video of him entering the back seat and his children being on FaceTime with him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10688"
+        "N-10626"
       ],
       "tags": [],
       "claim_timestamp": "00:41:14",
@@ -3356,7 +3415,7 @@
         "A-2687.2"
       ],
       "related_nodes": [
-        "N-10680"
+        "N-10618"
       ],
       "tags": [],
       "claim_timestamp": "00:45:38",
@@ -3376,7 +3435,7 @@
         "A-2688.1"
       ],
       "related_nodes": [
-        "N-10107"
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:49:54",
@@ -3412,8 +3471,8 @@
         "A-2689.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10888"
+        "N-10844",
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:53:39",
@@ -3433,7 +3492,7 @@
         "A-2690.1"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:54:23",
@@ -3454,7 +3513,7 @@
       "claim": "The host says that in his filing against her, Brian Harpole asserted, she thinks, that he or someone else called 911. She says she has not seen such a call in the released 911 recordings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729"
+        "N-10663"
       ],
       "tags": [],
       "claim_timestamp": "00:55:02",
@@ -3473,7 +3532,7 @@
       "claim": "The host says the Turning Point team broadly, including staff she gives as examples such as Mikey McCoy, Blake Neff and Andrew Sypher (\"Andrew Cypher\"), did not try to assist Charlie Kirk or call 911. She says they instead ran under the underpass.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729",
+        "N-10663",
         "N-10000"
       ],
       "tags": [],
@@ -3515,7 +3574,7 @@
       "claim": "The host says Erika Kirk's pageant background dates from when Trump co-owned the Miss Universe organization with NBC Universal. She suggests Erika knew Trump before Charlie Kirk did.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10988"
+        "N-10908"
       ],
       "tags": [],
       "claim_timestamp": "00:55:47",

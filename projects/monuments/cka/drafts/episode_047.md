@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: e492b18e60b2e0b9a4d69085cba757bcd906aa883d586d7f4657db854693f868
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-11379, N-11380, N-11381, N-11382
+  - Tip-minted Nodes (supplement_2026-10g): N-11295, N-11296, N-11297, N-11298
   - Hole-minted Nodes (reintro-ep047): N-432
   - Tip-minted Nodes (reintro-ep047): N-638
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -34,8 +34,8 @@
 - Analysis Date: 2026-03-11
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
-  - New Nodes Introduced: N-328, N-330, N-331, N-332, N-333, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-10339, N-10344, N-10347, N-10348, N-10351, N-10352, N-10354, N-10356, N-10357
-  - Reused Nodes Appearing: N-329, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-145, N-178, N-224, N-237, N-278, N-846, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
+  - New Nodes Introduced: N-328, N-330, N-331, N-332, N-333, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-10317, N-10322, N-10325, N-10326, N-10329, N-10330, N-10331, N-10333
+  - Reused Nodes Appearing: N-11361, N-329, N-10316, N-10214, N-10318, N-10320, N-10321, N-10323, N-10332, N-10819, N-10324, N-10327, N-10328, N-10192, N-10319, N-4, N-22, N-27, N-82, N-99, N-104, N-145, N-178, N-224, N-237, N-278, N-846, N-10000, N-10012, N-10018, N-10026, N-10093, N-10101, N-10106, N-10160, N-10239, N-10313, N-10334, N-10783, N-11203, N-11252, N-11253
 
 ---, N-11
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:00:57–00:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4056, C-4062, C-4063, C-4064, C-4086, C-4118, C-4072, C-4136, C-4153, C-4158, C-4156, C-4173, N-2, N-15, N-10340, N-10342, N-10346, N-10348, N-10350*
+*Related: C-4056, C-4062, C-4063, C-4064, C-4086, C-4118, C-4072, C-4136, C-4153, C-4158, C-4156, C-4173, N-2, N-15, N-10318, N-10320, N-10324, N-10326, N-10328*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:17:03–00:20:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4086, C-4091, N-2, N-10337*
+*Related: C-4086, C-4091, N-2, N-10316*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:13:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4076, C-4072, N-217, N-10341*
+*Related: C-4076, C-4072, N-217, N-10319*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:24:47–00:26:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4104, C-4105, N-159, N-10338, N-10339*
+*Related: C-4104, C-4105, N-159, N-10214, N-10317*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:23:07–00:29:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4093, C-4104, C-4099, C-4101, C-4109, N-190, N-217, N-17, N-10338, N-10339*
+*Related: C-4093, C-4104, C-4099, C-4101, C-4109, N-190, N-217, N-17, N-10214, N-10317*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:49:48–00:52:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4080, C-4111, C-4149, C-4151, N-46, N-331, N-10343*
+*Related: C-4080, C-4111, C-4149, C-4151, N-46, N-331, N-10321*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:45:27–00:46:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4081, C-4135, C-4136, C-4140, N-267, N-10344*
+*Related: C-4081, C-4135, C-4136, C-4140, N-267, N-10322*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:39:39–00:42:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4141, C-4128, C-4129, N-10898, N-10351*
+*Related: C-4141, C-4128, C-4129, N-10819, N-10329*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:52:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced by host, not displayed)
 
-*Related: C-4151, N-10343*
+*Related: C-4151, N-10321*
 
 ---
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:52:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced by host, not displayed)
 
-*Related: C-4149, C-4152, N-10343*
+*Related: C-4149, C-4152, N-10321*
 
 ---
 
@@ -326,7 +326,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-4061, N-1, N-10340, N-2, N-237, N-3*
+*Related: C-4061, N-1, N-10318, N-2, N-237, N-3*
 
 ---
 
@@ -341,7 +341,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-4065, N-10340, N-14, N-3, N-846*
+*Related: C-4065, N-10318, N-14, N-3, N-846*
 
 ---
 
@@ -356,7 +356,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-4083, C-4084, N-10000, N-10862, N-224, N-266, N-3*
+*Related: C-4083, C-4084, N-10000, N-10783, N-224, N-266, N-3*
 
 ---
 
@@ -371,7 +371,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-4106, N-10338, N-159, N-3*
+*Related: C-4106, N-10214, N-159, N-3*
 
 ---
 
@@ -386,7 +386,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-4119, C-4120, N-1, N-10000, N-10253, N-10347, N-2, N-3*
+*Related: C-4119, C-4120, N-1, N-10000, N-10239, N-10325, N-2, N-3*
 
 ---
 
@@ -399,7 +399,7 @@ Video Timestamp: 00:53:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4154, C-4155, N-638, N-11382, N-10097, N-104, N-333, N-40, N-42*
+*Related: C-4154, C-4155, N-638, N-11298, N-10093, N-104, N-333, N-40, N-42*
 
 ---
 
@@ -414,7 +414,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-4164, N-11380, N-1, N-3, N-330*
+*Related: C-4164, N-11296, N-1, N-3, N-330*
 
 ---
 
@@ -429,7 +429,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-4165, C-4166, C-4167, N-10352, N-3, N-330, N-4*
+*Related: C-4165, C-4166, C-4167, N-10330, N-3, N-330, N-4*
 
 ---
 
@@ -447,7 +447,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, A-1540.1, C-4056, C-4062, C-4063, C-4064, C-4118, C-4156, N-15, N-10340, N-10350, N-11*
+*Related: A-1539.1, A-1540.1, C-4056, C-4062, C-4063, C-4064, C-4118, C-4156, N-15, N-10318, N-10328, N-11*
 
 ---
 
@@ -472,7 +472,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1542.1, A-1543.1, C-4093, C-4104, C-4105, C-4099, N-217, N-17, N-10338*
+*Related: A-1542.1, A-1543.1, C-4093, C-4104, C-4105, C-4099, N-217, N-17, N-10214*
 
 ---
 
@@ -485,7 +485,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1543.1, C-4093, C-4101, C-4109, N-190, N-10339*
+*Related: A-1543.1, C-4093, C-4101, C-4109, N-190, N-10317*
 
 ---
 
@@ -498,7 +498,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-4118, N-10348, N-10353*
+*Related: A-1539.1, C-4118, N-10326, N-10192*
 
 ---
 
@@ -511,7 +511,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1542.1, A-1543.1, C-4104, C-4105, N-190, N-10338*
+*Related: A-1542.1, A-1543.1, C-4104, C-4105, N-190, N-10214*
 
 ---
 
@@ -524,7 +524,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1545.1, A-1545.2, C-4081, C-4135, N-10344*
+*Related: A-1545.1, A-1545.2, C-4081, C-4135, N-10322*
 
 ---
 
@@ -563,7 +563,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-4153, N-10354*
+*Related: A-1539.1, C-4153, N-10331*
 
 ---
 
@@ -576,7 +576,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-4158, N-10355*
+*Related: A-1539.1, C-4158, N-10332*
 
 ---
 
@@ -589,7 +589,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, C-4158, N-10355*
+*Related: A-1539.1, C-4158, N-10332*
 
 ---
 
@@ -602,7 +602,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, C-4158, N-10355*
+*Related: A-1539.1, C-4158, N-10332*
 
 ---
 
@@ -615,7 +615,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1551.2, N-10352*
+*Related: A-1551.2, N-10330*
 
 ---
 
@@ -628,7 +628,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-4173, N-10345*
+*Related: A-1539.1, C-4173, N-10323*
 
 ---
 
@@ -641,7 +641,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-4114, N-10342*
+*Related: A-1539.1, C-4114, N-10320*
 
 ---
 
@@ -654,7 +654,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1544.2, C-4111, N-10343*
+*Related: A-1544.2, C-4111, N-10321*
 
 ---
 
@@ -667,7 +667,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-4136, N-10344*
+*Related: A-1539.1, C-4136, N-10322*
 
 ---
 
@@ -680,7 +680,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-4118, N-10342*
+*Related: A-1539.1, C-4118, N-10320*
 
 ---
 
@@ -697,7 +697,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10898** New York Post
+**N-10819** New York Post
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -709,7 +709,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1546.1, C-4141, C-4128, C-4129, N-10351*
+*Related: A-1546.1, C-4141, C-4128, C-4129, N-10329*
 
 ---
 
@@ -722,7 +722,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-4115, N-10131*
+*Related: C-4115, N-10126*
 
 ---
 
@@ -735,7 +735,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1551.7, N-10350*
+*Related: A-1551.7, N-10328*
 
 ---
 
@@ -806,7 +806,7 @@ Investigative Pressure: Low
 
 ### Investigation Targets
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Persistent question over what evidence exists beyond the charging affidavit; what investigators have shared with victim family; probable cause hearing scope.
 
@@ -819,7 +819,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Contested sequence of Mikey McCoy's first calls; discrepancy between Blake Neff's narrative and the call logs.
 
@@ -832,7 +832,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10339** Elizabeth McCoy Disappearance From Public Narrative
+**N-10317** Elizabeth McCoy Disappearance From Public Narrative
 
 Question over why Elizabeth McCoy has been removed from the publicly-circulated version of the post-shooting call sequence.
 
@@ -845,7 +845,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Pre-incident messages received by Andrew Kolvet ("they're going to kill me") and Dan Flood ("the left is going to kill me"); authentication status.
 
@@ -858,7 +858,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Question over Andrew Kolvet's contact with the operating surgeon; HIPAA implications; basis for the "man of steel" tweet.
 
@@ -871,7 +871,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Alleged offer to take TPUSA to next level; reported Charlie Kirk rejection; contradiction with Andrew Kolvet's $150 million denial.
 
@@ -884,7 +884,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10343** Tyler Robinson Rooftop Access Timeline
+**N-10321** Tyler Robinson Rooftop Access Timeline
 
 Disputed earliest public date of UVU courtyard disclosure; August 27 vs September 2.
 
@@ -897,7 +897,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10344** Candace Owens Security Arrangement
+**N-10322** Candace Owens Security Arrangement
 
 Question over Candace's security team and its relationship (or not) to Charlie Kirk's security apparatus.
 
@@ -910,7 +910,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Alleged confrontation between Seth Dillon and Charlie Kirk over hypothetical anti-Netanyahu tweet.
 
@@ -923,7 +923,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Contested justification for removal of cameras at UVU event before shooting.
 
@@ -936,7 +936,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10347** Egyptian Planes Israel Flight Pattern
+**N-10325** Egyptian Planes Israel Flight Pattern
 
 Alleged pattern of Egyptian planes turning off transponders when flying in/out of Israel.
 
@@ -949,7 +949,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10348** Rob McCoy TPUSA Affiliation Claim
+**N-10326** Rob McCoy TPUSA Affiliation Claim
 
 Question over whether Rob McCoy has any actual affiliation with TPUSA.
 
@@ -962,7 +962,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10349** Bari Weiss CBS Interview Question Selection
+**N-10327** Bari Weiss CBS Interview Question Selection
 
 Alleged pre-selection of questions at CBS interview; relationship to "podcaster Candace Owens" question.
 
@@ -975,7 +975,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10350** Charlie Kirk Catholicism Journey
+**N-10328** Charlie Kirk Catholicism Journey
 
 Charlie Kirk's reported attendance at mass and intent to begin Catholic conversion process.
 
@@ -988,7 +988,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10351** Candace Husband Qatari Passport Claim
+**N-10329** Candace Husband Qatari Passport Claim
 
 New York Post allegation that Candace's husband holds Qatari passport/citizenship; contradicted by Candace.
 
@@ -997,11 +997,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1546.1, C-4129, N-10898*
+*Related: A-1546.1, C-4129, N-10819*
 
 ---
 
-**N-10352** Fort Huachuca Investigation
+**N-10330** Fort Huachuca Investigation
 
 Reported follow-up on Fort Huachuca air base and Baron Coleman video collaboration.
 
@@ -1014,7 +1014,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10353** Rob McCoy Wikipedia TPUSA Faith Entry
+**N-10192** TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy
 
 Alleged Wikipedia update claiming Rob McCoy founded Turning Point USA Faith.
 
@@ -1027,7 +1027,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10354** George Zinn Self-Incriminating Hospital Statement
+**N-10331** George Zinn Self-Incriminating Hospital Statement
 
 Alleged statement by George Zinn to Utah Valley nurses that he was paid to claim to be the shooter.
 
@@ -1040,7 +1040,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
 
 Alleged dispute over investigation of potential terrorist angle.
 
@@ -1053,7 +1053,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10356** Brian Harpole Dan Flood Text Misattribution
+**N-10256** Harpole–Flood Text Attribution Discrepancy
 
 Claim that text message Brian Harpole showed on camera belonged to Dan Flood.
 
@@ -1066,7 +1066,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10357** UVU Walk-Through Disputed
+**N-10333** UVU Walk-Through Disputed
 
 Allegation that no security walk-through was performed at UVU on incident day.
 
@@ -1096,16 +1096,16 @@ First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in t
 
 ---
 
-**N-11379** Candace Owens and TPUSA Private Meeting
+**N-11295** Candace-Erika December 15 Private Meeting Revelations
 
-Node Type: Topic
+Node Type: Investigation Question
 The roughly 4.5-hour private meeting between the host, Erika Kirk and Justin Streiff, and the surrounding dispute over why it was not livestreamed.
 
 *Related: C-4055, C-4057, C-4059, C-4060, C-4069, C-4085, C-4098, C-4133, C-4134, C-4144, C-4161, C-4160, C-4168, C-4169, C-4170*
 
 ---
 
-**N-11380** Charlie Kirk Electrocution Theory
+**N-11296** Charlie Kirk Electrocution Theory
 
 Node Type: Topic
 A viewer theory, raised via a super chat and Baron Coleman's video, that Charlie Kirk was electrocuted and that his hands were charred, which the host rejects.
@@ -1114,7 +1114,7 @@ A viewer theory, raised via a super chat and Baron Coleman's video, that Charlie
 
 ---
 
-**N-11381** Tucker Carlson Christmas Party TPUSA Attendance Rumor
+**N-11297** Tucker Carlson Christmas Party TPUSA Attendance Rumor
 
 Node Type: Topic
 A rumor that the host socialized with TPUSA employees at Tucker Carlson's Christmas party, which the host denies.
@@ -1123,7 +1123,7 @@ A rumor that the host socialized with TPUSA employees at Tucker Carlson's Christ
 
 ---
 
-**N-11382** Viva Frei Radicalization Timing and Zin Decoy Theory
+**N-11298** Viva Frei Radicalization Timing and Zin Decoy Theory
 
 Node Type: Topic
 Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincided with other political violence suspects and that George Zinn acted as a decoy.
@@ -1137,6 +1137,16 @@ Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincid
 Subject of the assassination; the host reports his night-before texts, security views and Catholicism.
 
 *Related: C-4061, C-4085, C-4088, C-4103, C-4117, C-4120, C-4133, C-4138, C-4146, C-4148, C-4164, C-4170, C-4174*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-4078*
 
 ---
 
@@ -1312,7 +1322,7 @@ Campus where the event took place.
 
 **N-10018** Netanyahu Israel Invitation Phone Call
 
-Node Type: Topic
+Node Type: Event
 Existing topic reused for new claims in this episode.
 
 *Related: C-4117*
@@ -1328,16 +1338,16 @@ Place the host says Egyptian planes fly to and from.
 
 ---
 
-**N-10097** George Zinn Arrest Location/Timing
+**N-10093** George Zinn Arrest Location/Timing
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for new claims in this episode.
 
 *Related: C-4155*
 
 ---
 
-**N-10105** Israel $150M Offer Rumor
+**N-10101** Israel $150M Offer Rumor
 
 Node Type: Topic
 Existing topic reused for new claims in this episode.
@@ -1346,7 +1356,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Node Type: Topic
 Existing topic reused for new claims in this episode.
@@ -1355,7 +1365,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10167** Tyler Bowyer X Defense Pattern
+**N-10160** Tyler Bowyer X Defense Pattern
 
 Node Type: Topic
 Existing topic reused for new claims in this episode.
@@ -1364,7 +1374,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Node Type: Topic
 Existing topic reused for new claims in this episode.
@@ -1373,34 +1383,34 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10334** CBS Bari Weiss Town Hall Production Integrity
+**N-10313** CBS Bari Weiss Town Hall Production Integrity
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for new claims in this episode.
 
 *Related: C-4070*
 
 ---
 
-**N-10358** Surgeon Quotation Authenticity Question
+**N-10334** Surgeon Quotation Authenticity Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for new claims in this episode.
 
 *Related: C-4082*
 
 ---
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for new claims in this episode.
 
 *Related: C-4083*
 
 ---
 
-**N-11287** Tim Pool Dispute With Candace Owens
+**N-11203** Tim Pool Dispute With Candace Owens
 
 Node Type: Topic
 Existing topic reused for new claims in this episode.
@@ -1409,7 +1419,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11336** Qatar
+**N-11252** Qatar
 
 Node Type: Place
 Place discussed in the Qatar claims.
@@ -1418,7 +1428,7 @@ Place discussed in the Qatar claims.
 
 ---
 
-**N-11337** Hamas
+**N-11253** Hamas
 
 Node Type: Organization
 Organization the host links to Qatar's intermediary role.
@@ -1452,7 +1462,7 @@ Claim: The host says a viral clip from Erika Kirk's Glenn Beck interview had Eri
 Anchored Artifacts: A-1539.1
 Mentions: N-3, N-2, N-1, N-237
 
-Related Nodes: N-10340
+Related Nodes: N-10318
 
 Investigative Direction: Verify Charlie Kirk's actual messaging platforms through device forensics.
 
@@ -1467,7 +1477,7 @@ Claim: The host says Erika Kirk acknowledged in their meeting that Andrew Kolvet
 Anchored Artifacts: A-1539.1
 Mentions: N-2, N-14, N-1
 
-Related Nodes: N-10340
+Related Nodes: N-10318
 
 Investigative Direction: Obtain the original message from Andrew Kolvet or his device records.
 
@@ -1482,7 +1492,7 @@ Claim: The host says that in their meeting Erika Kirk and Justin Streiff clarifi
 Anchored Artifacts: A-1539.1
 Mentions: N-3, N-2, N-15, N-270, N-1
 
-Related Nodes: N-10340
+Related Nodes: N-10318
 
 Investigative Direction: Obtain original Dan Flood message through his records or testimony.
 
@@ -1497,7 +1507,7 @@ Claim: The host says a lawyer involved in the case, whom Turning Point USA calle
 Anchored Artifacts: A-1539.1, A-1540.1
 Mentions: N-3, N-40
 
-Related Nodes: N-10337
+Related Nodes: N-10316
 
 Investigative Direction: Verify the May probable cause hearing date through Utah court records; compare against public charging documents.
 
@@ -1511,7 +1521,7 @@ Claim: The host says a lawyer involved in the case told her the probable cause h
 
 Anchored Artifacts: A-1540.1
 
-Related Nodes: N-10337
+Related Nodes: N-10316
 
 Investigative Direction: Confirm hearing date through Utah state court docket.
 
@@ -1526,7 +1536,7 @@ Claim: The host says she spoke with a witness who filmed a person on the roof at
 Anchored Artifacts: A-1539.1
 Mentions: N-3
 
-Related Nodes: N-10337
+Related Nodes: N-10316
 
 Investigative Direction: Identify the witness and verify the video and timestamp.
 
@@ -1540,7 +1550,7 @@ Claim: The host says the witness who filmed the figure on the rooftop told her h
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-10337
+Related Nodes: N-10316
 
 Investigative Direction: Verify witness testimony through investigators and recorded statement.
 
@@ -1555,7 +1565,7 @@ Claim: The host says the call logs Turning Point USA showed her indicate that Mi
 Anchored Artifacts: A-1543.1
 Mentions: N-190, N-217
 
-Related Nodes: N-10338
+Related Nodes: N-10214
 
 Investigative Direction: Obtain the call logs directly from Mikey McCoy or from phone carrier records.
 
@@ -1570,7 +1580,7 @@ Claim: The host says, citing call logs shown to her, that Mikey McCoy added Erik
 Anchored Artifacts: A-1543.1
 Mentions: N-2, N-17, N-190, N-217
 
-Related Nodes: N-10338
+Related Nodes: N-10214
 
 Investigative Direction: Verify the three-way call sequence against carrier records.
 
@@ -1600,7 +1610,7 @@ Anchored Artifacts: A-1542.1, A-1543.1
 Mentions: N-3, N-159, N-190, N-2, N-17
 Contradicts: C-4104
 
-Related Nodes: N-10338
+Related Nodes: N-10214
 
 Investigative Direction: Cross-reference Blake Neff's recorded statement against the verified call sequence.
 
@@ -1615,7 +1625,7 @@ Claim: The host says Elizabeth McCoy was left out of what was said publicly abou
 Anchored Artifacts: A-1543.1
 Mentions: N-3, N-2, N-217, N-190
 
-Related Nodes: N-10339
+Related Nodes: N-10317
 
 Investigative Direction: Investigate the editorial decisions that excluded Elizabeth McCoy from circulated accounts.
 
@@ -1630,7 +1640,7 @@ Claim: The host says three different sources who would have knowledge of it conf
 Anchored Artifacts: A-1539.1
 Mentions: N-3, N-36
 
-Related Nodes: N-10342
+Related Nodes: N-10320
 
 Investigative Direction: Identify the three sources and obtain documentary evidence of the offer.
 
@@ -1645,7 +1655,7 @@ Claim: The host says Andrew Kolvet told her verbatim that Bibi Netanyahu offered
 Anchored Artifacts: A-1539.1
 Mentions: N-3, N-14, N-36, N-1
 
-Related Nodes: N-10342
+Related Nodes: N-10320
 
 Investigative Direction: Verify Andrew Kolvet's specific statement; clarify whether this is the same person as Andrew Kolvet.
 
@@ -1658,7 +1668,7 @@ Claim: The host says she has the names of people in paid campaigns attacking her
 Transcript Snippet: too many are being paid by PragerU, which is upsetting to me because I know Marissa, and it's just dirty.
 Anchored Artifacts: 
 Mentions: N-3, N-334
-Related Nodes: N-10131
+Related Nodes: N-10126
 Confidence: medium
 Investigative Direction: Identify the named paid accounts and any PragerU or PR-firm payment records the host says she holds.
 
@@ -1673,7 +1683,7 @@ Claim: The host says she was surprised to learn that Rob McCoy does not work wit
 Anchored Artifacts: A-1539.1
 Mentions: N-17
 
-Related Nodes: N-10348, N-10353
+Related Nodes: N-10326, N-10192
 
 Investigative Direction: Verify Rob McCoy's formal affiliations independently of his self-presentation.
 
@@ -1688,7 +1698,7 @@ Claim: The host says Turning Point USA echoed and defended Terryl Farnsworth's a
 Anchored Artifacts: A-1539.1
 Mentions: N-3, N-261
 
-Related Nodes: N-10346
+Related Nodes: N-10324
 
 Investigative Direction: Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day.
 
@@ -1703,7 +1713,7 @@ Claim: The host says Andrew Kolvet posted a tweet saying he spoke with the surge
 Anchored Artifacts: A-1541.1
 Mentions: N-14, N-1
 
-Related Nodes: N-10341
+Related Nodes: N-10319
 
 Investigative Direction: Verify the original tweet content and the surgeon's identity.
 
@@ -1718,7 +1728,7 @@ Claim: The host says Andrew Kolvet said he spoke to the surgeon, and that they c
 Anchored Artifacts: A-1539.1, A-1541.2
 Mentions: N-14
 
-Related Nodes: N-10341
+Related Nodes: N-10319
 
 Investigative Direction: Verify Kolvet's stated communication with the surgeon and HIPAA implications.
 
@@ -1733,7 +1743,7 @@ Claim: Approximately one week prior, Tim Pool stated Candace Owens had no securi
 Anchored Artifacts: A-1545.1
 Mentions: N-267, N-3
 
-Related Nodes: N-10344
+Related Nodes: N-10322
 
 Investigative Direction: Verify the earlier Tim Pool statement against his show archive.
 
@@ -1748,7 +1758,7 @@ Claim: In a clip the host plays, Tim Pool says Candace Owens has used the same s
 Anchored Artifacts: A-1545.2
 Mentions: N-267, N-3, N-1, N-2
 
-Related Nodes: N-10344
+Related Nodes: N-10322
 
 Investigative Direction: Verify the current claim against any documented security employment records.
 
@@ -1763,7 +1773,7 @@ Claim: Candace Owens retained separate security from Charlie Kirk's from the beg
 Anchored Artifacts: A-1539.1
 Mentions: N-332, N-266, N-3, N-1, N-270
 
-Related Nodes: N-10344
+Related Nodes: N-10322
 
 Investigative Direction: Verify Greg Shaffer's public statement and Shafer Security's documented client list.
 
@@ -1778,7 +1788,7 @@ Claim: Candace has received no cease and desist from Charlie Kirk's security app
 Anchored Artifacts: A-1539.1
 Mentions: N-1
 
-Related Nodes: N-10344
+Related Nodes: N-10322
 
 Investigative Direction: Confirm absence of legal correspondence through counsel records.
 
@@ -1792,7 +1802,7 @@ Claim: New York Post article reported an anonymous source claim that Candace thr
 
 Anchored Artifacts: A-1546.1
 Mentions: N-3
-Related Nodes: N-10898
+Related Nodes: N-10819
 
 
 Investigative Direction: Verify the cited Daily Wire source and article publication date.
@@ -1807,7 +1817,7 @@ Claim: Candace Owens states she never drove her car to the Daily Wire during her
 
 Anchored Artifacts: A-1546.1
 Mentions: N-3
-Related Nodes: N-10898
+Related Nodes: N-10819
 
 
 Investigative Direction: Verify against Daily Wire security logs or contemporaneous records.
@@ -1823,7 +1833,7 @@ Claim: Per Candace, her husband's Wikipedia page was changed to say he had a Qat
 Anchored Artifacts: A-1546.1
 Mentions: N-30
 
-Related Nodes: N-10351, N-10898
+Related Nodes: N-10329, N-10819
 
 Investigative Direction: Verify travel and passport records.
 
@@ -1852,7 +1862,7 @@ Claim: Per Candace, George Zinn, who was treated at Utah Valley, said he told th
 Anchored Artifacts: A-1539.1
 Mentions: N-42
 
-Related Nodes: N-10354
+Related Nodes: N-10331
 
 Investigative Direction: Verify through hospital records, nurse testimony, or police interview of Zin.
 
@@ -1867,7 +1877,7 @@ Claim: In a clip the host plays, a speaker says that allegedly the rumors are th
 Anchored Artifacts: A-1539.1
 Mentions: N-69, N-209, N-329
 
-Related Nodes: N-10355
+Related Nodes: N-10332
 
 Investigative Direction: Verify through any on-record statements from the named individuals.
 
@@ -1882,7 +1892,7 @@ Claim: Answering a viewer's question about Charlie's journey to Catholicism, the
 Anchored Artifacts: A-1539.1
 Mentions: N-2, N-1
 
-Related Nodes: N-10350
+Related Nodes: N-10328
 
 Investigative Direction: Verify through parish records and direct corroboration from Erika on the record.
 
@@ -1897,7 +1907,7 @@ Claim: The host says Seth Dillon pressed Charlie Kirk at the Hampton retreat ove
 Anchored Artifacts: A-1539.1
 Mentions: N-36, N-38, N-1
 
-Related Nodes: N-10345
+Related Nodes: N-10323
 
 Investigative Direction: Verify through any recording or attendee corroboration of the retreat.
 
@@ -1912,7 +1922,7 @@ Claim: In a clip from the Charlie Kirk Show that the host plays, a speaker ident
 Anchored Artifacts: A-1544.2
 Mentions: N-331
 
-Related Nodes: N-10343
+Related Nodes: N-10321
 
 Investigative Direction: Verify Andrew Sypher's official TPUSA title.
 
@@ -1927,7 +1937,7 @@ Claim: In a clip from the Charlie Kirk Show that the host plays, a speaker says 
 Anchored Artifacts: A-1544.2
 Mentions: 
 
-Related Nodes: N-10343
+Related Nodes: N-10321
 
 Investigative Direction: Verify the specific August 27 post referenced.
 
@@ -1942,7 +1952,7 @@ Claim: The host says the earliest mention of the UVU courtyard location that her
 Anchored Artifacts: A-1547.1
 Mentions: N-1
 
-Related Nodes: N-10343
+Related Nodes: N-10321
 
 Investigative Direction: Verify KAMYU broadcast date and content.
 
@@ -1956,7 +1966,7 @@ Claim: Per Candace, the August 27 TPUSA/UVU/BYU chapter graphic announcing the e
 
 Anchored Artifacts: A-1548.1
 
-Related Nodes: N-10343
+Related Nodes: N-10321
 
 Investigative Direction: Obtain the original August 27 graphic.
 
@@ -2001,7 +2011,7 @@ Transcript Snippet: there were no rules. They said you can say you can ask us an
 
 Anchored Artifacts: 
 Mentions: N-3, N-15, N-2
-Related Nodes: N-11379
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to confirm the ground rules of the meeting; compare with any later statement by Streiff or Erika Kirk.
 
@@ -2017,7 +2027,7 @@ Transcript Snippet: they were sort of most upset with what I obviously a bit of 
 
 Anchored Artifacts: 
 Mentions: N-15, N-2, N-3
-Related Nodes: N-10000, N-11379
+Related Nodes: N-10000, N-11295
 Tags: relevance:core
 Investigative Direction: Locate the host's godforsaken company tweet and its date; ask TPUSA to confirm it was their main objection.
 
@@ -2033,7 +2043,7 @@ Transcript Snippet: Alex Clark and Andrew Kolvet then jump onto a podcast, and t
 
 Anchored Artifacts: 
 Mentions: N-99, N-14, N-3
-Related Nodes: N-10350
+Related Nodes: N-10328
 Supports: C-692
 Tags: relevance:core
 Investigative Direction: Retrieve the Alex Clark and Kolvet interview and its promotional teases and check whether the host is named.
@@ -2050,7 +2060,7 @@ Transcript Snippet: by no means did Erika give any person the authority to go ou
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10350, N-11379
+Related Nodes: N-10328, N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or TPUSA to confirm on the record that no one was authorized to call the Catholicism account a lie.
 
@@ -2066,7 +2076,7 @@ Transcript Snippet: this is a company with 650 people that are employed. Everybo
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10000, N-11379
+Related Nodes: N-10000, N-11295
 Tags: relevance:core
 Investigative Direction: Check TPUSA's Form 990 and public statements for headcount; ask TPUSA whether it accepts the host's account of the admission.
 
@@ -2082,7 +2092,7 @@ Transcript Snippet: it was Erika saying that she had Charlie's phone, and that C
 
 Anchored Artifacts: A-3291
 Mentions: N-2, N-237, N-1, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Contradicts: C-4063
 Tags: relevance:core
 Investigative Direction: Locate the Glenn Beck interview clip and compare Erika Kirk's wording with her later acknowledgment of the Kolvet and Flood messages.
@@ -2099,7 +2109,7 @@ Transcript Snippet: I said Andrew Kolvet told me specifically that he was one of
 
 Anchored Artifacts: A-3292
 Mentions: N-3, N-14, N-846
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Retrieve the Jimmy Dore episode and compare with Kolvet's own statements on the night-before text.
 
@@ -2115,7 +2125,7 @@ Transcript Snippet: somebody who had access to Dan Flood's communications said t
 
 Anchored Artifacts: 
 Mentions: N-270, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Identify the host's source for the Flood text and obtain the original message from Flood.
 
@@ -2131,7 +2141,7 @@ Transcript Snippet: they then went and looked, and yes, that what I said was tru
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-270, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-4063
 Tags: relevance:core
 Investigative Direction: Ask TPUSA when the review of Charlie Kirk's device was done and by whom.
@@ -2148,7 +2158,7 @@ Transcript Snippet: I can't confirm that one way or the other. I have to trust t
 
 Anchored Artifacts: 
 Mentions: N-270, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Qualifies: C-4064
 Tags: relevance:core
 Investigative Direction: Obtain the original Flood message from his device or from TPUSA to settle the wording.
@@ -2165,7 +2175,7 @@ Transcript Snippet: it's interesting to hear Erika say that the reason she didn'
 
 Anchored Artifacts: 
 Mentions: N-2, N-278, N-3
-Related Nodes: N-10349, N-11379
+Related Nodes: N-10327, N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk to confirm her reasons on the record; review the CBS event video around the exchange.
 
@@ -2181,7 +2191,7 @@ Transcript Snippet: Bari Weiss obviously uh picked those questions. They were no
 
 Anchored Artifacts: 
 Mentions: N-278, N-3
-Related Nodes: N-10349, N-10334
+Related Nodes: N-10327, N-10313
 Tags: relevance:core
 Investigative Direction: Obtain CBS production records or participant accounts on how the questions were chosen.
 
@@ -2197,7 +2207,7 @@ Transcript Snippet: Erika said that she knew the general idea, like they were go
 
 Anchored Artifacts: 
 Mentions: N-2, N-278, N-3
-Related Nodes: N-10349
+Related Nodes: N-10327
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk and CBS what advance notice she had of the questions.
 
@@ -2213,7 +2223,7 @@ Transcript Snippet: my skin crawled after I spoke to Terryl Farnsworth, the pers
 
 Anchored Artifacts: 
 Mentions: N-261, N-3
-Related Nodes: N-10346
+Related Nodes: N-10324
 Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Obtain the host's recorded exchange with Farnsworth and compare his statements with TPUSA's account of the livestream test.
@@ -2230,7 +2240,7 @@ Transcript Snippet: Because the police wanted him to take it down and secure the
 
 Anchored Artifacts: 
 Mentions: N-11, N-261, N-3
-Related Nodes: N-10346, N-10167
+Related Nodes: N-10324, N-10160
 Tags: relevance:core
 Investigative Direction: Locate Bowyer's tweet and compare its timing with video showing when the camera came down and when police arrived.
 
@@ -2246,7 +2256,7 @@ Transcript Snippet: after he took the cameras down, there was a police officer o
 
 Anchored Artifacts: 
 Mentions: N-261, N-3
-Related Nodes: N-10346
+Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Identify the officer or agent and obtain the chain of custody for the camera and its card.
 
@@ -2262,7 +2272,7 @@ Transcript Snippet: So, I guess, to be clear, we were just wrong about that and 
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10348
+Related Nodes: N-10326
 Supports: C-4076
 Revises: C-1955
 Tags: relevance:core
@@ -2280,7 +2290,7 @@ Transcript Snippet: he hit the stage at the memorial and said, "I'm America's pa
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10353, N-10348
+Related Nodes: N-10192, N-10326, N-11361
 Tags: relevance:core
 Investigative Direction: Review the Wikipedia edit history for the TPUSA Faith entry and the editor accounts that added McCoy.
 
@@ -2296,7 +2306,7 @@ Transcript Snippet: I casually say on the show, "Hey, I saw the footage, there w
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
-Related Nodes: N-10341
+Related Nodes: N-10319
 Tags: relevance:core
 Investigative Direction: Locate the show segment where the host first made the no-blood remark and the Kolvet tweet that followed.
 
@@ -2312,7 +2322,7 @@ Transcript Snippet: Andrew was not one of the people that got into the hospital 
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10341, N-10358
+Related Nodes: N-10319, N-10334
 Tags: relevance:core
 Investigative Direction: Obtain hospital visitor and staff records and TPUSA accounts of who was at the hospital.
 
@@ -2328,7 +2338,7 @@ Transcript Snippet: I think we can believe Turning Point when they say that they
 
 Anchored Artifacts: A-3293
 Mentions: N-266, N-224, N-3
-Related Nodes: N-10862, N-10000
+Related Nodes: N-10783, N-10000
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and Shawn Ryan's production when and how the interview was arranged.
 
@@ -2360,7 +2370,7 @@ Transcript Snippet: I want to walk out of here and feel confident saying to my a
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-1
-Related Nodes: N-10337, N-11379
+Related Nodes: N-10316, N-11295
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what evidence it offered to support Robinson's guilt in the meeting.
 
@@ -2376,7 +2386,7 @@ Transcript Snippet: Like they have access to UVU cameras. So, I was hoping to he
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10000, N-10012, N-10337
+Related Nodes: N-10000, N-10012, N-10316
 Tags: relevance:core
 Investigative Direction: Ask UVU and TPUSA whether TPUSA was given access to campus camera systems and when.
 
@@ -2392,7 +2402,7 @@ Transcript Snippet: what I got from the lawyer did not make me feel that Tyler R
 
 Anchored Artifacts: 
 Mentions: N-40, N-1, N-3
-Related Nodes: N-10337
+Related Nodes: N-10316
 Supports: C-4086
 Tags: relevance:core
 Investigative Direction: Identify the lawyer and the party he represents; compare with public filings in the case.
@@ -2409,7 +2419,7 @@ Transcript Snippet: I'm not going to if you say, 'We've got the footage of him t
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10337
+Related Nodes: N-10316
 Supports: C-4086
 Tags: relevance:core
 Investigative Direction: Ask the lawyer to confirm the exchange; this can only be verified through the participants.
@@ -2426,7 +2436,7 @@ Transcript Snippet: they don't actually share that information with the victim. 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10337
+Related Nodes: N-10316
 Supports: C-4091
 Tags: relevance:core
 Investigative Direction: Check Utah victim-rights procedure and the court calendar for the May hearing.
@@ -2443,7 +2453,7 @@ Transcript Snippet: I am very confident stating the opposite of all of my, I gue
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10110, N-10337
+Related Nodes: N-10106, N-10316
 Tags: relevance:core
 Investigative Direction: Track the evidence presented at the preliminary hearing and compare it with the host's stated position.
 
@@ -2459,7 +2469,7 @@ Transcript Snippet: This is a guy who trains people to shoot guns at a range. He
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10337
+Related Nodes: N-10316
 Supports: C-4095
 Tags: relevance:core
 Investigative Direction: Identify the witness and verify his occupation and his video.
@@ -2476,7 +2486,7 @@ Transcript Snippet: I spoke Both of the people who filmed videos that day uh tol
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10337
+Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Ask the witnesses and the Utah investigators whether any statement was taken.
 
@@ -2492,7 +2502,7 @@ Transcript Snippet: They're like, we don't even have to check with this guy beca
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10337
+Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Ask investigators whether a clearer video exists; compare with the lawyer's statement that there is nothing beyond the affidavit.
 
@@ -2508,7 +2518,7 @@ Transcript Snippet: I asked every question and they came with paperwork to show 
 
 Anchored Artifacts: A-1543.1
 Mentions: N-3, N-190
-Related Nodes: N-10338, N-11379
+Related Nodes: N-10214, N-11295
 Tags: relevance:core
 Investigative Direction: Obtain the call logs and a carrier record to confirm provenance.
 
@@ -2524,7 +2534,7 @@ Transcript Snippet: he immediately calls his dad. He calls Rob McCoy. And he say
 
 Anchored Artifacts: A-1542.1
 Mentions: N-159, N-190, N-17
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Compare the Neff interview with the carrier records for Mikey's calls to his father.
 
@@ -2540,7 +2550,7 @@ Transcript Snippet: I certainly feel that we were given the impression over and 
 
 Anchored Artifacts: 
 Mentions: N-190, N-2, N-3
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Collect the public statements from TPUSA figures asserting that Mikey called Erika first.
 
@@ -2556,7 +2566,7 @@ Transcript Snippet: Well, he didn't do that. Actually, the first person he calle
 
 Anchored Artifacts: 
 Mentions: N-190, N-217, N-1, N-3
-Related Nodes: N-10338
+Related Nodes: N-10214
 Supports: C-4104
 Contradicts: C-1896
 Tags: relevance:core
@@ -2574,7 +2584,7 @@ Transcript Snippet: Blake Neff called his mom. His call with his mother lasted 4
 
 Anchored Artifacts: A-3294
 Mentions: N-159, N-3
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain Neff's call log and the shot time from timestamped video to fix the sequence.
 
@@ -2590,7 +2600,7 @@ Transcript Snippet: This is Danny McCoy, by the way, is his brother that's in th
 
 Anchored Artifacts: 
 Mentions: N-190, N-3
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Identify the third caller from the call logs; the host later corrects this identification.
 
@@ -2606,7 +2616,7 @@ Transcript Snippet: Mikey called Erika after Blake Neff ended that phone call wi
 
 Anchored Artifacts: 
 Mentions: N-190, N-159, N-2, N-3
-Related Nodes: N-10338
+Related Nodes: N-10214
 Supports: C-4101, C-4105
 Tags: relevance:core
 Investigative Direction: Align Mikey's and Neff's logs to the second against the shot time.
@@ -2623,7 +2633,7 @@ Transcript Snippet: And then he ends the phone call with his wife and a minute l
 
 Anchored Artifacts: 
 Mentions: N-190, N-217, N-3
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Check the call logs for the callback and duration.
 
@@ -2639,7 +2649,7 @@ Transcript Snippet: Uh at which point Erika said she was not aware of that happe
 
 Anchored Artifacts: 
 Mentions: N-2, N-36, N-3
-Related Nodes: N-10342
+Related Nodes: N-10320
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk and TPUSA business staff whether any Netanyahu funding approach was received.
 
@@ -2655,7 +2665,7 @@ Transcript Snippet: Andrew said, "Oh, there was not a $150 million. That's made 
 
 Anchored Artifacts: 
 Mentions: N-14, N-99, N-3
-Related Nodes: N-10105
+Related Nodes: N-10101
 Supports: C-704
 Tags: relevance:core
 Investigative Direction: Retrieve the Alex Clark interview and compare Kolvet's wording with the host's account.
@@ -2672,7 +2682,7 @@ Transcript Snippet: I never said $150 million ever, not once on this show.
 
 Anchored Artifacts: 
 Mentions: N-3, N-36
-Related Nodes: N-10105, N-10342
+Related Nodes: N-10101, N-10320
 Supports: C-702
 Tags: relevance:core
 Investigative Direction: Search the host's published episodes for any use of the $150 million figure.
@@ -2689,7 +2699,7 @@ Transcript Snippet: That did happen. Bibi shared that, by the way. Our source fo
 
 Anchored Artifacts: 
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10018, N-10342
+Related Nodes: N-10018, N-10320
 Tags: relevance:core
 Investigative Direction: Locate Netanyahu's public statement about the call and its date.
 
@@ -2705,7 +2715,7 @@ Transcript Snippet: people assumed that that one of the columns, which was actua
 
 Anchored Artifacts: A-3295
 Mentions: N-3, N-2
-Related Nodes: N-10347, N-10253
+Related Nodes: N-10325, N-10239
 Qualifies: C-2917
 Tags: relevance:core
 Investigative Direction: Publish the spreadsheet and timeline with the date windows made explicit.
@@ -2722,7 +2732,7 @@ Transcript Snippet: I'm certain that these Egyptian planes are incredibly shady 
 
 Anchored Artifacts: A-3295
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10347, N-10000
+Related Nodes: N-10325, N-10000
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Overlay the planes' landing dates with TPUSA event dates in the promised interactive timeline.
@@ -2739,7 +2749,7 @@ Transcript Snippet: I was able to realize that these planes are flying in and ou
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10347, N-10026
+Related Nodes: N-10325, N-10026
 Tags: relevance:core
 Investigative Direction: Review ADS-B and flight-plan records for the tail numbers to Israeli airports and transponder gaps.
 
@@ -2755,7 +2765,7 @@ Transcript Snippet: tomorrow I will show you how these planes tie back to Israel
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10347, N-10026
+Related Nodes: N-10325, N-10026
 Tags: relevance:core
 Investigative Direction: Check the following episode for the promised evidence and compare with flight-tracking records.
 
@@ -2771,7 +2781,7 @@ Transcript Snippet: it is not Danny McCoy. It is Danny, another one of Charlie's
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10338
+Related Nodes: N-10214
 Revises: C-4107
 Tags: relevance:core
 Investigative Direction: Identify the assistant named Danny and confirm his role with TPUSA.
@@ -2803,7 +2813,7 @@ Transcript Snippet: they changed my my husband's Wikipedia. It said that he was 
 
 Anchored Artifacts: 
 Mentions: N-3, N-30
-Related Nodes: N-10351, N-11336
+Related Nodes: N-10329, N-11252
 Supports: C-4127
 Tags: relevance:tangential
 Investigative Direction: Review the Wikipedia edit history for the page for the relevant edit and editor.
@@ -2820,7 +2830,7 @@ Transcript Snippet: Inside Candace Owens's sadistic and dangerous world, monetiz
 
 Anchored Artifacts: A-1546.1
 Mentions: N-3
-Related Nodes: N-10898
+Related Nodes: N-10819
 Tags: relevance:context
 Investigative Direction: Retrieve the Post article and its date and byline.
 
@@ -2836,7 +2846,7 @@ Transcript Snippet: I have always always done my own shows. I I can't I can't re
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10898
+Related Nodes: N-10819
 Supports: C-4129
 Tags: relevance:tangential
 Investigative Direction: Obtain the Post article and its sourcing; compare with past Daily Wire accounts of her show preparation.
@@ -2853,7 +2863,7 @@ Transcript Snippet: I don't even think we ever had a conversation about People m
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10898
+Related Nodes: N-10819
 Tags: relevance:tangential
 Investigative Direction: Ask the Post for its sources and check the host's former employers' records.
 
@@ -2869,7 +2879,7 @@ Transcript Snippet: their sources also said that like my team hated me. My team 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10898
+Related Nodes: N-10819
 Tags: relevance:tangential
 Investigative Direction: Check the host's staff history against the Post's claim.
 
@@ -2885,7 +2895,7 @@ Transcript Snippet: I believe that Charlie was betrayed by people that are close
 
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-3
-Related Nodes: N-11379
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk to describe her answer to the question.
 
@@ -2901,7 +2911,7 @@ Transcript Snippet: Erika was like, well, I'm not like a feminist and I didn't w
 
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-3
-Related Nodes: N-11379
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk for her account; the transcript phrasing is garbled so the host's meaning should be confirmed.
 
@@ -2917,7 +2927,7 @@ Transcript Snippet: there's more that's going to be coming out soon cuz rest ass
 
 Anchored Artifacts: A-1545.2
 Mentions: N-267, N-3
-Related Nodes: N-11287, N-10344
+Related Nodes: N-11203, N-10322
 Tags: relevance:core
 Investigative Direction: Check court dockets for any complaint against the host relating to security statements.
 
@@ -2933,7 +2943,7 @@ Transcript Snippet: I told Charlie I did not like the security apparatus. I got 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10344
+Related Nodes: N-10322
 Supports: C-4140
 Tags: relevance:core
 Investigative Direction: Review any messages between the host and Charlie Kirk about security and the host's security contracts.
@@ -2950,7 +2960,7 @@ Transcript Snippet: And if I ignore that, as I did with Brigitte cuz I told the 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-82, N-432
-Related Nodes: N-10344
+Related Nodes: N-10322
 Tags: relevance:context
 Investigative Direction: Identify the Macron and Klacik demand letters and their dates; compare with the host's account.
 
@@ -2966,7 +2976,7 @@ Transcript Snippet: I accurately said that the Brian Harpole message he showed b
 
 Anchored Artifacts: 
 Mentions: N-266, N-270, N-3
-Related Nodes: N-10356, N-10357
+Related Nodes: N-10256, N-10333
 Tags: relevance:core
 Investigative Direction: Obtain the original message metadata and any UVU security walk-through logs.
 
@@ -2982,7 +2992,7 @@ Transcript Snippet: Huachuca, which we're going to have a lot on tomorrow, uh be
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10352, N-10347
+Related Nodes: N-10330, N-10325
 Tags: relevance:core
 Investigative Direction: Track the host's following episode on Fort Huachuca and check against the Fort Huachuca records in other episodes.
 
@@ -2998,7 +3008,7 @@ Transcript Snippet: that I didn't feel like that was communicated to me. It felt
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11379, N-10000
+Related Nodes: N-11295, N-10000
 Tags: relevance:context
 Investigative Direction: Ask both sides what media ground rules were agreed.
 
@@ -3014,7 +3024,7 @@ Transcript Snippet: Robinson's mother explained that over the last year or so, R
 
 Anchored Artifacts: A-1544.1
 Mentions: N-40
-Related Nodes: N-10337
+Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Read the charging document passage in the court filing to confirm the wording.
 
@@ -3030,7 +3040,7 @@ Transcript Snippet: Robinson mentioned that Charlie Kirk would be holding an eve
 
 Anchored Artifacts: A-1544.1
 Mentions: N-40, N-1
-Related Nodes: N-10337, N-10012
+Related Nodes: N-10316, N-10012
 Tags: relevance:core
 Investigative Direction: Read the charging document passage in the court filing to confirm the wording.
 
@@ -3046,7 +3056,7 @@ Transcript Snippet: when you see how easy that rooftop access is, you start to k
 
 Anchored Artifacts: A-1544.1
 Mentions: N-40
-Related Nodes: N-10343, N-10337
+Related Nodes: N-10321, N-10316
 Tags: relevance:core
 Investigative Direction: Obtain UVU roof access records and Robinson's prior campus visits.
 
@@ -3062,7 +3072,7 @@ Transcript Snippet: Charlie sometimes throw the events out, you know, 7, 10 days
 
 Anchored Artifacts: A-1544.2
 Mentions: N-331, N-1
-Related Nodes: N-10343
+Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's historical announcement lead times for other outdoor events.
 
@@ -3078,7 +3088,7 @@ Transcript Snippet: Tyler Robinson is getting radicalized right about the same t
 
 Anchored Artifacts: A-3296
 Mentions: N-333, N-40, N-104, N-638
-Related Nodes: N-11382
+Related Nodes: N-11298
 Tags: relevance:core
 Investigative Direction: Identify the speaker and compare the dates of the named individuals' alleged radicalization.
 
@@ -3094,7 +3104,7 @@ Transcript Snippet: He knows what's going down. He shows up there and thinks he'
 
 Anchored Artifacts: A-3296
 Mentions: N-333, N-42, N-40
-Related Nodes: N-11382, N-10097
+Related Nodes: N-11298, N-10093
 Tags: relevance:core
 Investigative Direction: Ask investigators whether Zin appears in any Discord records; the speaker says this is only a theory.
 
@@ -3110,7 +3120,7 @@ Transcript Snippet: I broke the story that the nurses were told at Utah Valley, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-42
-Related Nodes: N-10354
+Related Nodes: N-10331
 Supports: C-4158
 Tags: relevance:core
 Investigative Direction: Locate the host's earlier episode with the nurse account and the source for it.
@@ -3127,7 +3137,7 @@ Transcript Snippet: that might even be the first time Andrew Kolvet has expresse
 
 Anchored Artifacts: 
 Mentions: N-14, N-3, N-40
-Related Nodes: N-10337
+Related Nodes: N-10316
 Tags: relevance:context
 Investigative Direction: Identify who in the clip said the messages were weird at first and check Kolvet's earlier statements.
 
@@ -3143,7 +3153,7 @@ Transcript Snippet: Megyn Kelly, who was initially going to, when we were going 
 
 Anchored Artifacts: 
 Mentions: N-46, N-278, N-3
-Related Nodes: N-11379
+Related Nodes: N-11295
 Tags: relevance:context
 Investigative Direction: Ask Megyn Kelly's team to confirm her role in arranging the meeting.
 
@@ -3159,7 +3169,7 @@ Transcript Snippet: We were trying to make this happen in the background uh real
 
 Anchored Artifacts: 
 Mentions: N-159, N-3
-Related Nodes: N-11379
+Related Nodes: N-11295
 Tags: relevance:context
 Investigative Direction: Retrieve the first invitation from Neff and the host's reply.
 
@@ -3190,7 +3200,7 @@ Transcript Snippet: They do look charred in the photos that he showed, but I can
 
 Anchored Artifacts: A-3297
 Mentions: N-1, N-330, N-3
-Related Nodes: N-11380
+Related Nodes: N-11296
 Tags: relevance:core
 Investigative Direction: Identify the source who saw the body at burial and compare with the autopsy and funeral-home accounts.
 
@@ -3206,7 +3216,7 @@ Transcript Snippet: I had watched a video of his where he was building on Fort H
 
 Anchored Artifacts: A-3298
 Mentions: N-330, N-3
-Related Nodes: N-10352
+Related Nodes: N-10330
 Tags: relevance:core
 Investigative Direction: Review Coleman's video against the host's Fort Huachuca research.
 
@@ -3222,7 +3232,7 @@ Transcript Snippet: He kind of suggests in that episode, which I want to shut do
 
 Anchored Artifacts: A-3298
 Mentions: N-330, N-4, N-3
-Related Nodes: N-10352
+Related Nodes: N-10330
 Tags: relevance:core
 Investigative Direction: Watch Coleman's episode to see exactly what he said about Vance.
 
@@ -3238,7 +3248,7 @@ Transcript Snippet: There's actually video of Vance, so it could not have been V
 
 Anchored Artifacts: A-3298
 Mentions: N-4, N-330, N-3
-Related Nodes: N-10352
+Related Nodes: N-10330
 Tags: relevance:core
 Investigative Direction: Identify the video of Vance the host relied on and match its date and location to the Fort Huachuca dates.
 
@@ -3254,7 +3264,7 @@ Transcript Snippet: you saw the offer Blake Neff made, which was not a true offe
 
 Anchored Artifacts: 
 Mentions: N-159, N-2, N-46, N-3
-Related Nodes: N-11379
+Related Nodes: N-11295
 Tags: relevance:context
 Investigative Direction: Retrieve Neff's offer and the communications between Erika Kirk, Kelly and the host.
 
@@ -3270,7 +3280,7 @@ Transcript Snippet: What about we do like an off Not an off-record conversation,
 
 Anchored Artifacts: 
 Mentions: N-15, N-3
-Related Nodes: N-11379
+Related Nodes: N-11295
 Tags: relevance:context
 Investigative Direction: Ask Streiff to confirm who proposed taking the conversation off camera.
 
@@ -3286,7 +3296,7 @@ Transcript Snippet: I was then able to tell them some things that I have not yet
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11379
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Watch later episodes for the matters the host says she raised privately.
 
@@ -3302,7 +3312,7 @@ Transcript Snippet: We didn't discuss whether the feds had received those messag
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk whether she or investigators have reviewed the messages on Charlie's devices.
 
@@ -3318,7 +3328,7 @@ Transcript Snippet: To my knowledge, I did not see any Turning Point USA employe
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-145
-Related Nodes: N-11381, N-10000
+Related Nodes: N-11297, N-10000
 Tags: relevance:context
 Investigative Direction: Ask attendees for a guest list; the host says the rumor is unsupported.
 
@@ -3334,7 +3344,7 @@ Transcript Snippet: I can only speak on the fact that I wasn't lying. And that I
 
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-3
-Related Nodes: N-10350
+Related Nodes: N-10328
 Supports: C-693
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or the parish about Charlie's attendance and any conversion steps.
@@ -3351,7 +3361,7 @@ Transcript Snippet: Qatar recently came out and said, "Yeah, we work with Hamas 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11336, N-11337, N-10026
+Related Nodes: N-11252, N-11253, N-10026
 Tags: relevance:context
 Investigative Direction: Locate the Qatari statement and its date and speaker.
 
@@ -3367,7 +3377,7 @@ Transcript Snippet: I don't know why Jared Kushner and Zionists are allowed to g
 
 Anchored Artifacts: 
 Mentions: N-3, N-178, N-22
-Related Nodes: N-11336
+Related Nodes: N-11252
 Tags: relevance:context
 Investigative Direction: Check reporting on Kushner's Qatar travel and deals.
 

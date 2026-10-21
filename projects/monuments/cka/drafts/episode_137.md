@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4e547f289a22113447c93d2ca9fef0dd0e07226713c206cab6e09945e3c02cb8
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-11144
+  - Tip-minted Nodes (supplement_2026-10b): N-11061
   - Claim Range: C-11751–C-11824
   - (see registers)
 
@@ -30,8 +30,8 @@
 - Analysis Date: 2026-08-04
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-2236, A-2237, A-2238, A-2239, A-2240, A-2241, A-2242, A-2243, A-2244, A-2245
-  - New Nodes Introduced: N-10776, N-10779
-  - Reused Nodes Appearing: N-506, N-2, N-5, N-11, N-22, N-40, N-69, N-125, N-244, N-367, N-378, N-591, N-681, N-748, N-10006, N-10012, N-10026, N-10028, N-10070, N-10090, N-10110, N-10151, N-10323, N-10344, N-10541, N-10634, N-10715, N-10725, N-10731, N-10732, N-10751, N-10754, N-10772, N-10773, N-10774, N-11057, N-10778, N-783, N-11145, N-10777
+  - New Nodes Introduced: N-10702
+  - Reused Nodes Appearing: N-506, N-2, N-5, N-11, N-22, N-40, N-69, N-125, N-244, N-367, N-378, N-591, N-681, N-748, N-10006, N-10012, N-10026, N-10028, N-10067, N-10086, N-10106, N-10146, N-10193, N-10322, N-10496, N-10580, N-10651, N-10660, N-10665, N-10666, N-10681, N-10684, N-10661, N-10700, N-10975, N-10704, N-783, N-11062, N-10703
   - Existing Nodes Reused: None in this episode beyond standard references
 
 ---
@@ -70,7 +70,7 @@ Video Timestamp: 00:07:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read-aloud)
 
-*Related: C-11763, C-11764, N-10779*
+*Related: C-11763, C-11764, N-10699*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:17:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed headline excerpt)
 
-*Related: C-11783, N-10777*
+*Related: C-11783, N-10703*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:19:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played audio)
 
-*Related: C-11786, N-10778*
+*Related: C-11786, N-10704*
 
 ---
 
@@ -288,7 +288,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-10776** UVU Campus Sept 9 Scoping Incident
+**N-10702** UVU Campus Sept 9 Scoping Incident
 
 Persistent claim that on Sept 9, 2025 an unidentified individual scoped UVU campus and gave Mike Lee bodyguard cover story to UVU security. Source is verbal (host's "source from UVU"), not artifact-documented.
 
@@ -301,7 +301,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10777** Screwdriver Narrative Evolution
+**N-10703** Screwdriver Narrative Evolution
 
 Persistent discrepancy between Sept 11 CNN framing ("near the rifle") and Kash Patel / Bongino clarification ("on the rooftop"). Both positions are artifact-anchored within this episode and prior context.
 
@@ -314,7 +314,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10778** Officer Bagley Rooftop Video Review Question
+**N-10704** Officer Bagley Rooftop Video Review Question
 
 Persistent discrepancy between host's expected investigative practice (review all rooftop footage between suspect jump and officer arrival) and Bagley's testimony that he did not do so.
 
@@ -327,7 +327,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10779** Black Nitrile Gloves / Door Compartment Evidence
+**N-10699** Missing Gloves Origin in SUV Door
 
 Persistent question regarding black nitrile gloves observed in door compartment; whether they are woodworking/CA-glue gloves per host's woodworker-email source.
 
@@ -532,7 +532,7 @@ Utah Valley University Campus; location of the Sept 9 scoping.
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Daily Mail; sender of the press request about a raid.
 
@@ -540,7 +540,7 @@ Daily Mail; sender of the press request about a raid.
 
 ---
 
-**N-10090** Screwdriver Evidence Question
+**N-10086** Screwdriver Evidence Question
 
 Screwdriver Evidence Question; reused for the leak-origin and planting claims.
 
@@ -548,7 +548,7 @@ Screwdriver Evidence Question; reused for the leak-origin and planting claims.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Tyler Robinson Evidence Gaps; reused for the host's list of unshown evidence.
 
@@ -556,7 +556,7 @@ Tyler Robinson Evidence Gaps; reused for the host's list of unshown evidence.
 
 ---
 
-**N-10151** Mike Mitchell Undercover Role Verification
+**N-10146** Mike Mitchell Undercover Role Verification
 
 Mike Mitchell Undercover Role Verification; reused for the surrender story.
 
@@ -564,7 +564,7 @@ Mike Mitchell Undercover Role Verification; reused for the surrender story.
 
 ---
 
-**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Charlie Kirk Burial Status / Catholic Funeral Mass; reused for the funeral comment.
 
@@ -572,7 +572,7 @@ Charlie Kirk Burial Status / Catholic Funeral Mass; reused for the funeral comme
 
 ---
 
-**N-10344** Candace Owens Security Arrangement
+**N-10322** Candace Owens Security Arrangement
 
 Candace Owens Security Arrangement; reused for the aide's rehabilitation.
 
@@ -580,7 +580,7 @@ Candace Owens Security Arrangement; reused for the aide's rehabilitation.
 
 ---
 
-**N-10541** Strait of Hormuz / US-Iran War Context
+**N-10496** Strait of Hormuz / US-Iran War Context
 
 Strait of Hormuz / US-Iran War Context; reused for the Iran war claims.
 
@@ -588,7 +588,7 @@ Strait of Hormuz / US-Iran War Context; reused for the Iran war claims.
 
 ---
 
-**N-10634** Tyler Robinson Roommate Question
+**N-10580** Tyler Robinson Roommate Question
 
 Tyler Robinson Roommate Question; reused for the boyfriend testimony.
 
@@ -596,7 +596,7 @@ Tyler Robinson Roommate Question; reused for the boyfriend testimony.
 
 ---
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Blake Neff September 10th Movement Discrepancy; reused for his hotel and memory claims.
 
@@ -604,7 +604,7 @@ Blake Neff September 10th Movement Discrepancy; reused for his hotel and memory 
 
 ---
 
-**N-10725** Officer Bagley Body-Cam Battery Anomaly
+**N-10660** Officer Bagley Body-Cam Battery Anomaly
 
 Officer Bagley Body-Cam Battery Anomaly; reused for the body cam claims.
 
@@ -612,7 +612,7 @@ Officer Bagley Body-Cam Battery Anomaly; reused for the body cam claims.
 
 ---
 
-**N-10731** Screwdriver Footage Graininess Discrepancy
+**N-10665** Screwdriver Footage Graininess Discrepancy
 
 Screwdriver Footage Graininess Discrepancy; reused for the Patel and Bongino clarification.
 
@@ -620,7 +620,7 @@ Screwdriver Footage Graininess Discrepancy; reused for the Patel and Bongino cla
 
 ---
 
-**N-10732** Salt Lake City Hotel Identification Gap
+**N-10666** Salt Lake City Hotel Identification Gap
 
 Salt Lake City Hotel Identification Gap; reused for the Asher Adams hotel claims.
 
@@ -628,7 +628,7 @@ Salt Lake City Hotel Identification Gap; reused for the Asher Adams hotel claims
 
 ---
 
-**N-10751** Charlie Kirk Cremation/Burial Status Verification
+**N-10681** Charlie Kirk Cremation/Burial Status Verification
 
 Charlie Kirk Cremation/Burial Status Verification; reused for the mock funeral remark.
 
@@ -636,7 +636,7 @@ Charlie Kirk Cremation/Burial Status Verification; reused for the mock funeral r
 
 ---
 
-**N-10754** Rooftop Movement Tactical Analysis
+**N-10684** Rooftop Movement Tactical Analysis
 
 Rooftop Movement Tactical Analysis; reused for the crawl debunk claim.
 
@@ -644,7 +644,7 @@ Rooftop Movement Tactical Analysis; reused for the crawl debunk claim.
 
 ---
 
-**N-10772** Officer Bagley Rooftop Companion Identification
+**N-10661** Officer Bagley Rooftop Companion Identification
 
 Officer Bagley Rooftop Companion Identification; reused for the companion and Robertson claims.
 
@@ -652,15 +652,7 @@ Officer Bagley Rooftop Companion Identification; reused for the companion and Ro
 
 ---
 
-**N-10773** Body Cam Battery Failure Circumstances
-
-Body Cam Battery Failure Circumstances; reused for the missing warning claim.
-
-*Related: C-11785*
-
----
-
-**N-10774** Allan Robertson Brady List Entry / San Bernardino Transfer
+**N-10700** Allan Robertson Brady List Entry / San Bernardino Transfer
 
 Allan Robertson Brady List Entry / San Bernardino Transfer; reused for the Robertson update.
 
@@ -668,7 +660,7 @@ Allan Robertson Brady List Entry / San Bernardino Transfer; reused for the Rober
 
 ---
 
-**N-11057** Blake Neff Employment History Account
+**N-10975** Blake Neff Employment History Account
 
 Blake Neff Employment History Account; reused for the Fox and Tucker remarks.
 
@@ -684,7 +676,7 @@ First named by the host at 00:09:13 in episode 137 (spelled Mike Shamway Lee in 
 
 ---
 
-**N-11144** USU Officers Threat Assessment at UVU Explanation
+**N-11061** USU Officers Threat Assessment at UVU Explanation
 
 Node Type: Topic
 The host's account that Utah State University officers including Allan Robertson were at UVU on Sept 10 to assess a planned USU Kirk event 10 days later, not in coordination with Charlie's security or UVU police.
@@ -693,9 +685,9 @@ The host's account that Utah State University officers including Allan Robertson
 
 ---
 
-**N-11145** Minab Iran School Strike
+**N-11062** Minab Iran School Strike
 
-Node Type: Place
+Node Type: Event
 The strike on an elementary school in Minab, Iran, early in the US-Iran war, discussed through the Sky News investigation and the Trump and Hegseth statements.
 
 *Related: C-11804, C-11805, C-11806, C-11807, C-11809, C-11810, C-11811, C-11813*
@@ -728,7 +720,7 @@ Claim: A woodworker email received by Candace Owens's production states that bla
 Anchored Artifacts: A-2237.1
 Mentions: N-3
 
-Related Nodes: N-10779
+Related Nodes: N-10699
 
 Investigative Direction: Verify CA glue / nitrile glove compatibility through woodworking safety data sheets or trade sources.
 
@@ -743,7 +735,7 @@ Claim: A CNN article dated September 11, 2025 stated that authorities recovered 
 Anchored Artifacts: A-2238.1
 Mentions: N-1
 
-Related Nodes: N-10777
+Related Nodes: N-10703
 
 Investigative Direction: Compare this framing against the later (approx. Sept 15, 2025) Kash Patel / Bongino statement that the screwdriver was on the rooftop; obtain the original CNN article in full.
 
@@ -758,7 +750,7 @@ Claim: During cross-examination, Officer Christopher Bagley testified that he di
 Anchored Artifacts: A-2242.1
 Mentions: N-506
 
-Related Nodes: N-10778
+Related Nodes: N-10704
 
 Investigative Direction: Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given.
 
@@ -847,7 +839,7 @@ Claim: Candace Owens states her team looked up and verified the woodworker's ema
 Anchored Artifacts: A-2237.1
 Mentions: N-3
 
-Related Nodes: N-10779
+Related Nodes: N-10699
 
 Investigative Direction: Request the team's fact-check documentation; cross-reference with independent woodworking/safety sources.
 
@@ -934,7 +926,7 @@ Transcript Snippet: for having solved the mystery of who was on the rooftop at L
 
 Anchored Artifacts: 
 Mentions: N-3, N-506, N-159
-Related Nodes: N-10772
+Related Nodes: N-10661
 Supports: C-11702
 Tags: relevance:core
 Investigative Direction: Compare the host's identification of the companion in episode 136 with Bagley's testimony and the 12:47 PM bystander footage.
@@ -996,7 +988,7 @@ Transcript Snippet: All they had to do uh, was show us the video of him taking t
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing exhibit list and discovery for any footage of the shooting or evidence linking the rifle to the scene.
 
@@ -1012,7 +1004,7 @@ Transcript Snippet: Nothing they have said since the very beginning. Tyler Robin
 
 Anchored Artifacts: 
 Mentions: N-40, N-125, N-3
-Related Nodes: N-10151
+Related Nodes: N-10146
 Tags: relevance:core
 Investigative Direction: Check court filings and the Washington County statements for the surrender sequence and for who contacted Robinson's parents and the pastor.
 
@@ -1043,7 +1035,7 @@ Transcript Snippet: We heard testimony from his boyfriend who says, "No, he wasn
 
 Anchored Artifacts: 
 Mentions: N-40, N-1, N-3
-Related Nodes: N-10634
+Related Nodes: N-10580
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary hearing transcript of the roommate or partner testimony and check the exact words on politics and Kirk.
 
@@ -1074,7 +1066,7 @@ Transcript Snippet: Frank told us he stuck his fingers right into Charlie's neck
 
 Anchored Artifacts: 
 Mentions: N-7, N-1, N-3
-Related Nodes: N-10779
+Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Find Turek's original interview or retelling and confirm the exact words about his fingers and the blood.
 
@@ -1090,7 +1082,7 @@ Transcript Snippet: We've also broke the story that the 911 call, which is yet t
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10779
+Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Obtain the 911 call audio and CAD record from Utah County dispatch and check for the phrase and the speakers.
 
@@ -1106,7 +1098,7 @@ Transcript Snippet: Remember John Bray showed us that that glass for the road mi
 
 Anchored Artifacts: A-2237.1
 Mentions: N-681, N-3
-Related Nodes: N-10779
+Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Review John Bray's earlier demonstration and the microphone's materials to see whether the adhesive claim holds.
 
@@ -1122,7 +1114,7 @@ Transcript Snippet: Senator Lee was actually slated to attend the Charlie Kirk e
 
 Anchored Artifacts: A-2884.1
 Mentions: N-783, N-1, N-3
-Related Nodes: N-10012, N-10776
+Related Nodes: N-10012, N-10702
 Tags: relevance:core
 Investigative Direction: Ask Senator Lee's office and TPUSA for the event invitation list and whether Lee was ever confirmed as an attendee.
 
@@ -1138,7 +1130,7 @@ Transcript Snippet: that week the senator had to cancel very early on in the wee
 
 Anchored Artifacts: A-2884.1
 Mentions: N-783
-Related Nodes: N-10776
+Related Nodes: N-10702
 Tags: relevance:core
 Investigative Direction: Check the Senate schedule and NDAA floor votes for the week of September 8, 2025 and any Lee office statement about the cancellation.
 
@@ -1169,7 +1161,7 @@ Transcript Snippet: I've got a source that UVU tells me that after the assassina
 
 Anchored Artifacts: A-2884.1
 Mentions: N-783, N-1, N-3
-Related Nodes: N-10776, N-10012
+Related Nodes: N-10702, N-10012
 Tags: relevance:core
 Investigative Direction: Ask UVU police and Senator Lee's office whether Lee's office was contacted after September 10, 2025 about a campus incident and what was said.
 
@@ -1185,7 +1177,7 @@ Transcript Snippet: he told the campus security that he was Senator Mike Lee's b
 
 Anchored Artifacts: A-2884.1
 Mentions: N-783, N-3
-Related Nodes: N-10776, N-10028
+Related Nodes: N-10702, N-10028
 Tags: relevance:core
 Investigative Direction: Request UVU security and police incident logs, radio traffic and any field-contact record for September 9, 2025.
 
@@ -1201,7 +1193,7 @@ Transcript Snippet: And I have done some digging and it also appears that Mike L
 
 Anchored Artifacts: A-2884.1
 Mentions: N-783, N-3
-Related Nodes: N-10776
+Related Nodes: N-10702
 Tags: relevance:core
 Investigative Direction: Ask Lee's Senate office whether any staff or security accompanied him to Utah events in September 2025.
 
@@ -1217,7 +1209,7 @@ Transcript Snippet: there was only a small group of people who would have been p
 
 Anchored Artifacts: A-2884.1
 Mentions: N-40, N-3
-Related Nodes: N-10776
+Related Nodes: N-10702
 Tags: relevance:core
 Investigative Direction: Identify who at TPUSA, UVU and campus clubs had access to the attendee list before September 9.
 
@@ -1233,7 +1225,7 @@ Transcript Snippet: Certainly Turning Point USA event staff would have known. Cl
 
 Anchored Artifacts: A-2884.1
 Mentions: N-783, N-3
-Related Nodes: N-10776
+Related Nodes: N-10702
 Tags: relevance:core
 Investigative Direction: Ask UVU for camera coverage of the September 9 contact and a list of everyone who received the VIP attendee list.
 
@@ -1280,7 +1272,7 @@ Transcript Snippet: we actually received a press request from the Daily Mail yes
 
 Anchored Artifacts: A-2244.1
 Mentions: N-3
-Related Nodes: N-10070
+Related Nodes: N-10067
 Supports: C-11778
 Tags: relevance:context
 Investigative Direction: Obtain the Daily Mail request email to confirm date, sender and the full question list.
@@ -1312,7 +1304,7 @@ Transcript Snippet: We learned about the screwdriver because someone in law enfo
 
 Anchored Artifacts: A-2238.1
 Mentions: N-1, N-3
-Related Nodes: N-10777, N-10090
+Related Nodes: N-10703, N-10086
 Supports: C-11783
 Tags: relevance:core
 Investigative Direction: Identify the September 11, 2025 reports and their anonymous law-enforcement sources, and compare them with later official accounts.
@@ -1329,7 +1321,7 @@ Transcript Snippet: 4 days later we hear from Kash Patel and Dan Bongino and the
 
 Anchored Artifacts: A-2238.1
 Mentions: N-69, N-378, N-3
-Related Nodes: N-10777, N-10731
+Related Nodes: N-10703, N-10665
 Supports: C-10923
 Tags: relevance:core
 Investigative Direction: Retrieve the September 15, 2025 Patel and Bongino statements and compare them with the September 11 CNN wording.
@@ -1346,7 +1338,7 @@ Transcript Snippet: his body cam dies seemingly without warning at exactly the r
 
 Anchored Artifacts: 
 Mentions: N-506, N-3
-Related Nodes: N-10725, N-10773
+Related Nodes: N-10660
 Supports: C-10867
 Tags: relevance:core
 Investigative Direction: Obtain the body cam model's warning-behavior specification and the Axon audit log for Bagley's device.
@@ -1363,7 +1355,7 @@ Transcript Snippet: it wasn't until I went to the PD and actually saw him jump o
 
 Anchored Artifacts: A-2242.1
 Mentions: N-506
-Related Nodes: N-10778
+Related Nodes: N-10704
 Supports: C-10873
 Tags: relevance:core
 Investigative Direction: Obtain the full trial transcript of Bagley's cross-examination and the police department video he reviewed.
@@ -1380,7 +1372,7 @@ Transcript Snippet: So, you did not review the video to see if there was someone
 
 Anchored Artifacts: A-2242.1
 Mentions: N-506
-Related Nodes: N-10778
+Related Nodes: N-10704
 Supports: C-11786
 Tags: relevance:core
 Investigative Direction: Compare this exchange with the court record to confirm Bagley's final answer.
@@ -1397,7 +1389,7 @@ Transcript Snippet: I can exclusively tell you guys that the answer to that ques
 
 Anchored Artifacts: A-2242.1
 Mentions: N-506, N-3
-Related Nodes: N-10772, N-10778
+Related Nodes: N-10661, N-10704
 Tags: relevance:core
 Investigative Direction: Obtain rooftop video between the jump and 12:44 p.m. and identify anyone who appears on the Losee roof before Bagley.
 
@@ -1413,7 +1405,7 @@ Transcript Snippet: it's plausible that this unknown person could have planted t
 
 Anchored Artifacts: 
 Mentions: N-506, N-3
-Related Nodes: N-10777, N-10772
+Related Nodes: N-10703, N-10661
 Tags: relevance:core
 Investigative Direction: Establish a time-stamped chain of custody for the screwdriver and who was on the roof before it was logged.
 
@@ -1429,7 +1421,7 @@ Transcript Snippet: He said he abs absolutely was not let go or transferred over
 
 Anchored Artifacts: A-2885.1
 Mentions: N-748, N-3
-Related Nodes: N-10774
+Related Nodes: N-10700
 Qualifies: C-11715
 Tags: relevance:core
 Investigative Direction: Obtain Robertson's San Bernardino employment separation records and the Brady list entry details.
@@ -1446,7 +1438,7 @@ Transcript Snippet: They were there because they were doing a threat assessment 
 
 Anchored Artifacts: A-2885.1
 Mentions: N-748, N-1, N-3
-Related Nodes: N-11144
+Related Nodes: N-11061
 Supports: C-11702
 Tags: relevance:core
 Investigative Direction: Obtain the USU police event-planning records and request logs for the planned USU Kirk event and the officers' September 10 assignment.
@@ -1463,7 +1455,7 @@ Transcript Snippet: So it's just very odd that officer Bagley is pretending he c
 
 Anchored Artifacts: A-2885.1
 Mentions: N-506, N-748, N-3
-Related Nodes: N-10772
+Related Nodes: N-10661
 Supports: C-11692
 Tags: relevance:core
 Investigative Direction: Request the USU and UVU police reports from September 10 and the bystander video showing communication with the UVU chief.
@@ -1495,7 +1487,7 @@ Transcript Snippet: he actually does slip and say Allen at one point, so he defi
 
 Anchored Artifacts: A-2886.1
 Mentions: N-506, N-748, N-3
-Related Nodes: N-10772
+Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Check the trial recording for the moment Bagley says 'Allen' and the question asked.
 
@@ -1511,7 +1503,7 @@ Transcript Snippet: by all accounts, it seems like he left by on his own valitio
 
 Anchored Artifacts: A-2885.1
 Mentions: N-748, N-3
-Related Nodes: N-10774
+Related Nodes: N-10700
 Qualifies: C-11715
 Tags: relevance:core
 Investigative Direction: Confirm through a San Bernardino records request that his separation was voluntary and why a Brady entry exists.
@@ -1528,7 +1520,7 @@ Transcript Snippet: We had a person reach out who is in the country music world 
 
 Anchored Artifacts: A-2887.1
 Mentions: N-3
-Related Nodes: N-10344
+Related Nodes: N-10322
 Tags: relevance:tangential
 Investigative Direction: This can only be confirmed through the host's team; ask for confirmation of the arrangement.
 
@@ -1544,7 +1536,7 @@ Transcript Snippet: also to Russia's Ministry of Health, how grateful we are, ev
 
 Anchored Artifacts: A-2887.1
 Mentions: N-3
-Related Nodes: N-10344
+Related Nodes: N-10322
 Tags: relevance:tangential
 Investigative Direction: Ask the host's team for the date and nature of the incident in Russia and the hospital records, if shared.
 
@@ -1560,7 +1552,7 @@ Transcript Snippet: He at first thought he stayed in Orum, then said he maybe mi
 
 Anchored Artifacts: 
 Mentions: N-159, N-3
-Related Nodes: N-10715, N-10732
+Related Nodes: N-10651, N-10666
 Supports: C-11025
 Tags: relevance:core
 Investigative Direction: Re-listen to Neff's original statements and compare his Orem and Salt Lake City versions with hotel records.
@@ -1577,7 +1569,7 @@ Transcript Snippet: He didn't even remember that he was with Danny Phillip or wh
 
 Anchored Artifacts: 
 Mentions: N-159, N-367, N-3
-Related Nodes: N-10715
+Related Nodes: N-10651
 Supports: C-11026
 Tags: relevance:core
 Investigative Direction: Ask Neff and Philip for their September 10 itinerary and transportation records.
@@ -1594,7 +1586,7 @@ Transcript Snippet: We were able to determine that the some members at least of 
 
 Anchored Artifacts: A-2241.1
 Mentions: N-159, N-3
-Related Nodes: N-10732, N-10715
+Related Nodes: N-10666, N-10651
 Supports: C-11803
 Tags: relevance:core
 Investigative Direction: Obtain hotel registration or invoice records for the TPUSA party on September 10, 2025.
@@ -1611,7 +1603,7 @@ Transcript Snippet: Internet Slooh's got him and Tyler Bowyer. And here's the As
 
 Anchored Artifacts: A-2241.1
 Mentions: N-14, N-11, N-89, N-3
-Related Nodes: N-10732
+Related Nodes: N-10666
 Supports: C-11803
 Tags: relevance:core
 Investigative Direction: Review the original sleuth post that matched the room background and what it says about Bowyer.
@@ -1628,7 +1620,7 @@ Transcript Snippet: 156 people were murdered, including 120 students and 26 teac
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11145, N-10541
+Related Nodes: N-11062, N-10496
 Tags: relevance:tangential
 Investigative Direction: Compare casualty figures for the school strike across Iranian, UN and Western reports; the host's 156 differs from the 175 in the played Sky clip.
 
@@ -1644,7 +1636,7 @@ Transcript Snippet: At first, Trump actually came out and he said, "No, we didn'
 
 Anchored Artifacts: A-2239.1
 Mentions: N-5, N-591, N-3
-Related Nodes: N-11145
+Related Nodes: N-11062
 Tags: relevance:tangential
 Investigative Direction: Collect the dated Trump and Hegseth statements on the school strike and the formal investigation announcement.
 
@@ -1660,7 +1652,7 @@ Transcript Snippet: Sky News did an entire investigation. You should watch the e
 
 Anchored Artifacts: A-2239.1
 Mentions: N-3
-Related Nodes: N-11145
+Related Nodes: N-11062
 Tags: relevance:tangential
 Investigative Direction: Obtain the Sky News investigation and the official US statements about missiles beneath the school to compare.
 
@@ -1676,7 +1668,7 @@ Transcript Snippet: My opinion, based on what I've seen, that was done by Iran.
 
 Anchored Artifacts: A-2239.1
 Mentions: N-5, N-591
-Related Nodes: N-11145
+Related Nodes: N-11062
 Tags: relevance:tangential
 Investigative Direction: Retrieve the original press-conference recordings for both quotes.
 
@@ -1692,7 +1684,7 @@ Transcript Snippet: One analyst reviewing intelligence on potential targets did 
 
 Anchored Artifacts: A-2239.1
 Mentions: 
-Related Nodes: N-11145
+Related Nodes: N-11062
 Tags: relevance:tangential
 Investigative Direction: Review the full Sky News report and any DoD inquiry findings about the 2019 analyst note.
 
@@ -1708,7 +1700,7 @@ Transcript Snippet: They knew every body that was moving in that school and they
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11145
+Related Nodes: N-11062
 Tags: relevance:tangential
 Investigative Direction: Review the DoD formal investigation findings once released for the target-selection chain.
 
@@ -1724,7 +1716,7 @@ Transcript Snippet: My honest belief, my honest belief is because we are looking
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11145, N-10026
+Related Nodes: N-11062, N-10026
 Tags: relevance:tangential
 Investigative Direction: Treat as the host's stated religious belief; no records exist to confirm or refute it.
 
@@ -1740,7 +1732,7 @@ Transcript Snippet: if you think that people that lie like that would not be cap
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11145
+Related Nodes: N-11062
 Tags: relevance:context
 Investigative Direction: Treat as the host's analogy; compare government denials in both matters against dated records.
 
@@ -1756,7 +1748,7 @@ Transcript Snippet: bombing their bridges and striking their water so they can't
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10541
+Related Nodes: N-10496
 Tags: relevance:tangential
 Investigative Direction: Check humanitarian and UN reports on strikes against Iranian bridges and water infrastructure.
 
@@ -1787,7 +1779,7 @@ Transcript Snippet: I don't believe anything about Charlie being close to Blake.
 
 Anchored Artifacts: A-2886.2
 Mentions: N-159, N-1, N-3
-Related Nodes: N-11057
+Related Nodes: N-10975
 Tags: relevance:core
 Investigative Direction: Collect public evidence of Kirk's working relationship with Neff, such as texts, show credits and on-air mentions.
 
@@ -1803,7 +1795,7 @@ Transcript Snippet: the only reason he's sitting there is because Tucker Carlson
 
 Anchored Artifacts: 
 Mentions: N-159, N-22, N-3
-Related Nodes: N-11057, N-10006
+Related Nodes: N-10975, N-10006
 Tags: relevance:context
 Investigative Direction: Verify Neff's departure from Fox News and any Tucker Carlson role in his hiring.
 
@@ -1819,7 +1811,7 @@ Transcript Snippet: That's what's odd about the entire thing and why we covered 
 
 Anchored Artifacts: A-2245.1
 Mentions: N-1, N-2, N-3
-Related Nodes: N-10751, N-10323
+Related Nodes: N-10681, N-10193
 Supports: C-11819
 Tags: relevance:core
 Investigative Direction: Obtain burial or cremation records and funeral home statements for Charlie Kirk's funeral arrangements.
@@ -1836,7 +1828,7 @@ Transcript Snippet: Their first thing to do when we release the footage rather t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10754
+Related Nodes: N-10684
 Supports: C-11460
 Tags: relevance:core
 Investigative Direction: Collect the TPUSA-aligned posts reacting to the footage and the 'baby could do that crawl' comment.
@@ -1853,7 +1845,7 @@ Transcript Snippet: Kate Grand Rapids writes, "Uh, no other rooftop officers had
 
 Anchored Artifacts: A-2886.3
 Mentions: N-3
-Related Nodes: N-10725
+Related Nodes: N-10660
 Tags: relevance:core
 Investigative Direction: Ask UVU and USU police which officers on the rooftop wore body cams and obtain their footage logs.
 

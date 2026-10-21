@@ -31,7 +31,7 @@
             "C-11910"
           ],
           "related_nodes": [
-            "N-10786",
+            "N-10710",
             "N-1"
           ],
           "tags": [],
@@ -191,7 +191,7 @@
             "C-11981"
           ],
           "related_nodes": [
-            "N-10787"
+            "N-10711"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -209,7 +209,7 @@
             "C-11982"
           ],
           "related_nodes": [
-            "N-10787"
+            "N-10711"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -227,7 +227,7 @@
             "C-11982"
           ],
           "related_nodes": [
-            "N-10787"
+            "N-10711"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
             "C-11984"
           ],
           "related_nodes": [
-            "N-10787"
+            "N-10711"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -297,7 +297,7 @@
             "C-11975"
           ],
           "related_nodes": [
-            "N-10788",
+            "N-10712",
             "N-1"
           ],
           "tags": [],
@@ -324,7 +324,7 @@
             "C-11992"
           ],
           "related_nodes": [
-            "N-10789"
+            "N-10713"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -342,7 +342,7 @@
             "C-11994"
           ],
           "related_nodes": [
-            "N-10789"
+            "N-10713"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -360,7 +360,7 @@
             "C-11998"
           ],
           "related_nodes": [
-            "N-10789"
+            "N-10713"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -378,7 +378,7 @@
             "C-11996"
           ],
           "related_nodes": [
-            "N-10789"
+            "N-10713"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,7 +396,7 @@
             "C-11997"
           ],
           "related_nodes": [
-            "N-10789"
+            "N-10713"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -414,7 +414,7 @@
             "C-12000"
           ],
           "related_nodes": [
-            "N-10789"
+            "N-10713"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -440,7 +440,7 @@
             "C-12002"
           ],
           "related_nodes": [
-            "N-10789"
+            "N-10713"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -458,7 +458,7 @@
             "C-12002"
           ],
           "related_nodes": [
-            "N-10789"
+            "N-10713"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -509,7 +509,7 @@
             "C-11969"
           ],
           "related_nodes": [
-            "N-10790"
+            "N-10714"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -535,7 +535,7 @@
             "C-11970"
           ],
           "related_nodes": [
-            "N-10790"
+            "N-10714"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -563,7 +563,7 @@
           "related_nodes": [
             "N-3",
             "N-40",
-            "N-10786"
+            "N-10710"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -590,7 +590,7 @@
           "related_nodes": [
             "N-3",
             "N-40",
-            "N-10791"
+            "N-10715"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -647,11 +647,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10786",
-      "ref": "N-10786",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10710",
+      "ref": "N-10710",
       "name": "French Translation Hypothesis (Tyler Robinson Texts)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: persistent theory that the alleged Tyler Robinson text messages were authored by a non-native English speaker using French phrasing (specifically \"sniffer pooch\" as calque of French \"chien renifleur\" / \"reneneur\"). Supported in this episode by viewer tip email.",
       "related_artifacts": [
         "A-2254.1"
@@ -667,14 +667,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10787",
-      "ref": "N-10787",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10711",
+      "ref": "N-10711",
       "name": "Lance Twiggs Handedness Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: persistent question of whether Lance Twiggs is left-handed or ambidextrous, and whether this matches the handedness profile of the maroon-shirt person in the UVU staircase footage.",
       "related_artifacts": [
         "A-2259.1",
@@ -694,14 +696,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10788",
-      "ref": "N-10788",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10712",
+      "ref": "N-10712",
       "name": "Maroon Shirt Person Identity (UVU Campus)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: persistent host claim that the maroon-shirt figure on the UVU staircase is not Tyler Robinson, with new visual evidence in this episode (left-hand phone use) being added to that claim.",
       "related_artifacts": [
         "A-2261.1"
@@ -716,14 +719,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10789",
-      "ref": "N-10789",
+      "@type": "Topic",
+      "@id": "N-10713",
+      "ref": "N-10713",
       "name": "Grocery Affordability Public Debate (2026-08)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: cluster of X posts by Matt Walsh, Joel Berry, Dan Crenshaw, Blake Neff arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.",
       "related_artifacts": [
         "A-2262.1",
@@ -745,14 +750,15 @@
       "evidence_count": 6,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10790",
-      "ref": "N-10790",
+      "@type": "Topic",
+      "@id": "N-10714",
+      "ref": "N-10714",
       "name": "Luna / Helluva Boss Cultural Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: persistent host theory linking the \"Luna\" hellhound character (furry fandom, pentagram necklace, Helluva Boss) to a persona allegedly associated with Lance Twiggs, and connecting the IMP \"assassination company in hell\" premise to the Charlie Kirk case.",
       "related_artifacts": [
         "A-2265.1",
@@ -768,7 +774,8 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1228,11 +1235,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; alleged backer of Wilson and subject of the fundraiser claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1249,14 +1256,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "TMZ; its cameras captured the maroon-shirt person per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1266,14 +1275,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Discord; platform where the host says avatar personas are encouraged.",
       "related_artifacts": [],
       "related_claims": [
@@ -1283,14 +1294,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Federal Bureau of Investigation; subject of the SUV, footage-blur and raid claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1303,14 +1316,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1320,14 +1335,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10034",
-      "ref": "N-10034",
+      "@type": "Topic",
+      "@id": "N-10033",
+      "ref": "N-10033",
       "name": "Lance Twiggs Family Allegations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1338,14 +1354,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10041",
-      "ref": "N-10041",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10039",
+      "ref": "N-10039",
       "name": "Note Under Keyboard Disposal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1355,14 +1372,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10043",
-      "ref": "N-10043",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10040",
+      "ref": "N-10040",
       "name": "Two-Person Theory (Maroon vs Stairs)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1375,14 +1394,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10044",
-      "ref": "N-10044",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10041",
+      "ref": "N-10041",
       "name": "Lance Twiggs Protection Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1393,14 +1413,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10033"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1410,14 +1432,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10085",
-      "ref": "N-10085",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10081",
+      "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1429,14 +1452,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10112",
-      "ref": "N-10112",
+      "@type": "Topic",
+      "@id": "N-10108",
+      "ref": "N-10108",
       "name": "Lone-Shooter Narrative Critique",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1446,14 +1470,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10143",
-      "ref": "N-10143",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10138",
+      "ref": "N-10138",
       "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1464,14 +1489,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10168",
-      "ref": "N-10168",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10161",
+      "ref": "N-10161",
       "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1481,14 +1507,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10183",
-      "ref": "N-10183",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10175",
+      "ref": "N-10175",
       "name": "Medical Examiner Inquiry – Weiss Amaro",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1498,14 +1526,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1515,14 +1544,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10294",
-      "ref": "N-10294",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10276",
+      "ref": "N-10276",
       "name": "Brigitte Macron Schedule Gap September 4–10, 2025",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1532,14 +1562,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10369",
-      "ref": "N-10369",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10344",
+      "ref": "N-10344",
       "name": "Charlie Kirk SUV Interior Black Plastic Fragmentation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1549,14 +1580,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10537",
-      "ref": "N-10537",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10492",
+      "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1566,14 +1598,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10598",
-      "ref": "N-10598",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10545",
+      "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1585,14 +1618,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10634",
-      "ref": "N-10634",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10580",
+      "ref": "N-10580",
       "name": "Tyler Robinson Roommate Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1604,14 +1638,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10660",
-      "ref": "N-10660",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10602",
+      "ref": "N-10602",
       "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1621,14 +1656,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10670",
-      "ref": "N-10670",
+      "@type": "Topic",
+      "@id": "N-10610",
+      "ref": "N-10610",
       "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1638,14 +1674,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10679",
-      "ref": "N-10679",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10617",
+      "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1655,14 +1692,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10692",
-      "ref": "N-10692",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10630",
+      "ref": "N-10630",
       "name": "911 Call Origin in Hospital Transport Vehicle",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1672,14 +1710,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10663"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10711",
-      "ref": "N-10711",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10647",
+      "ref": "N-10647",
       "name": "Tyler Robinson DNA Most Degraded Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1689,14 +1729,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10729",
-      "ref": "N-10729",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10663",
+      "ref": "N-10663",
       "name": "911 Call Identification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1706,14 +1747,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10740",
-      "ref": "N-10740",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10672",
+      "ref": "N-10672",
       "name": "SUV Interior Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1724,14 +1766,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10750",
-      "ref": "N-10750",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10680",
+      "ref": "N-10680",
       "name": "911 Call Content Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1741,14 +1784,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10663"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10780",
-      "ref": "N-10780",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10705",
+      "ref": "N-10705",
       "name": "\"Protecting Mrs. Kirk\" Group Chat Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1760,14 +1805,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10791",
-      "ref": "N-10791",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10715",
+      "ref": "N-10715",
       "name": "Parking-Garage Subject Identity Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1778,14 +1824,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10793",
-      "ref": "N-10793",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10717",
+      "ref": "N-10717",
       "name": "Tyler Robinson Handedness Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1796,14 +1843,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@type": "Organization",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Paramount Tactical; the host says he is one of the only men in the influencer chat.",
       "related_artifacts": [],
       "related_claims": [
@@ -1813,14 +1861,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11053",
-      "ref": "N-11053",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10971",
+      "ref": "N-10971",
       "name": "Charlie Kirk Handheld Microphone Custody",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1830,14 +1880,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11065",
-      "ref": "N-11065",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10983",
+      "ref": "N-10983",
       "name": "Preliminary Hearing Influencer Invitation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1847,14 +1898,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11149",
-      "ref": "N-11149",
+      "@type": "Event",
+      "@id": "N-11065",
+      "ref": "N-11065",
       "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1864,14 +1917,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11262",
-      "ref": "N-11262",
+      "@type": "Topic",
+      "@id": "N-11178",
+      "ref": "N-11178",
       "name": "Andrew Wilson TPUSA Debate Training Engagement",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1886,14 +1941,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11308",
-      "ref": "N-11308",
+      "@type": "Topic",
+      "@id": "N-11224",
+      "ref": "N-11224",
       "name": "TPUSA 4K Video Claim Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1907,7 +1963,8 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1962,8 +2019,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11361",
-      "ref": "N-11361",
+      "@id": "N-11277",
+      "ref": "N-11277",
       "name": "Wilson Debate Offer and Counter-Terms",
       "type": "topic",
       "description": "The sequence of debate offers from Andrew Wilson and the Whatever podcast (50K, about 150K, 300K) and the host's counter-terms (500K, TPUSA on record, no smoking, live debate in her location).",
@@ -1984,12 +2041,14 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-11178"
     },
     {
       "@type": "Topic",
-      "@id": "N-11362",
-      "ref": "N-11362",
+      "@id": "N-11278",
+      "ref": "N-11278",
       "name": "Lance Twiggs DNA and Dremel Claims",
       "type": "topic",
       "description": "Host claims that Lance Twiggs's DNA is on the towel and rifle, is less degraded than Tyler Robinson's, and that the Dremel used on the bullets was his.",
@@ -2003,7 +2062,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -2017,7 +2077,7 @@
         "A-2254.1"
       ],
       "related_nodes": [
-        "N-10786"
+        "N-10710"
       ],
       "tags": [],
       "claim_timestamp": "00:00:02–00:00:55",
@@ -2036,7 +2096,7 @@
         "A-2254.1"
       ],
       "related_nodes": [
-        "N-10786"
+        "N-10710"
       ],
       "tags": [],
       "claim_timestamp": "00:00:55",
@@ -2169,7 +2229,7 @@
         "A-2259.1"
       ],
       "related_nodes": [
-        "N-10787"
+        "N-10711"
       ],
       "tags": [],
       "claim_timestamp": "00:28:00–00:30:00",
@@ -2188,7 +2248,7 @@
         "A-2259.2"
       ],
       "related_nodes": [
-        "N-10787"
+        "N-10711"
       ],
       "tags": [],
       "claim_timestamp": "00:29:04",
@@ -2207,7 +2267,7 @@
         "A-2259.4"
       ],
       "related_nodes": [
-        "N-10787"
+        "N-10711"
       ],
       "tags": [],
       "claim_timestamp": "00:29:25",
@@ -2244,8 +2304,8 @@
         "A-2261.1"
       ],
       "related_nodes": [
-        "N-10788",
-        "N-10787"
+        "N-10712",
+        "N-10711"
       ],
       "tags": [],
       "claim_timestamp": "00:26:49–00:28:00",
@@ -2261,7 +2321,7 @@
         "A-2262.1"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [],
       "claim_timestamp": "00:36:34",
@@ -2280,7 +2340,7 @@
         "A-2262.2"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [],
       "claim_timestamp": "00:37:30",
@@ -2299,7 +2359,7 @@
         "A-2262.3"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [],
       "claim_timestamp": "00:41:00",
@@ -2318,7 +2378,7 @@
         "A-2262.4"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [],
       "claim_timestamp": "00:38:00–00:39:30",
@@ -2338,7 +2398,7 @@
         "A-2262.5"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [],
       "claim_timestamp": "00:40:30",
@@ -2357,7 +2417,7 @@
         "A-2262.6"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [],
       "claim_timestamp": "00:42:30–00:43:30",
@@ -2377,7 +2437,7 @@
         "A-2263.2"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:47:40",
@@ -2413,7 +2473,7 @@
         "A-2265.1"
       ],
       "related_nodes": [
-        "N-10790"
+        "N-10714"
       ],
       "tags": [],
       "claim_timestamp": "00:22:01–00:23:55",
@@ -2429,7 +2489,7 @@
         "A-2265.1"
       ],
       "related_nodes": [
-        "N-10790"
+        "N-10714"
       ],
       "tags": [],
       "claim_timestamp": "00:24:38",
@@ -2445,7 +2505,7 @@
         "A-2266.1"
       ],
       "related_nodes": [
-        "N-10790"
+        "N-10714"
       ],
       "tags": [],
       "claim_timestamp": "00:25:03–00:25:30",
@@ -2461,7 +2521,7 @@
         "A-3252.1"
       ],
       "related_nodes": [
-        "N-10786"
+        "N-10710"
       ],
       "tags": [
         "relevance:context",
@@ -2486,7 +2546,7 @@
         "A-2254.1"
       ],
       "related_nodes": [
-        "N-10786"
+        "N-10710"
       ],
       "tags": [
         "relevance:context"
@@ -2509,8 +2569,8 @@
       "claim": "In a sarcastic aside, the host says Brigitte Macron's whereabouts are still missing for the days the Egyptian planes were in America and that she cannot track her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10294",
-        "N-10253"
+        "N-10276",
+        "N-10239"
       ],
       "tags": [
         "relevance:tangential"
@@ -2531,7 +2591,7 @@
       "claim": "The host says the episode is titled Silence of the Lance because her team found interesting information about Lance and a tidbit that the 4K and HD courtroom influencers did not share with the public about what they saw.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11308"
+        "N-11224"
       ],
       "tags": [
         "relevance:core"
@@ -2552,8 +2612,8 @@
       "claim": "The host says Brian Atlas, host of the Whatever podcast, contacted her PR representative Mitchell with an offer of 50K for her to debate Andrew Wilson and then raised it, she thinks to 150K initially.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11361",
-        "N-11262"
+        "N-11277",
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -2575,7 +2635,7 @@
       "claim": "The host says she immediately dismissed the offer, had never heard the name Andrew Wilson, and assumed it was a PR ploy by a rising influencer buying exposure.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11361"
+        "N-11277"
       ],
       "tags": [
         "relevance:context"
@@ -2640,7 +2700,7 @@
       "claim": "The host says she had not appreciated until clips circulated that Andrew Wilson is sort of affiliated with Turning Point USA, another person in their orbit they are boosting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11262",
+        "N-11178",
         "N-10000"
       ],
       "tags": [
@@ -2685,7 +2745,7 @@
         "A-2258.1"
       ],
       "related_nodes": [
-        "N-11262"
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -2789,7 +2849,7 @@
       "claim": "The host says Wilson offered 300K and she counters with 500K for the debate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11361"
+        "N-11277"
       ],
       "tags": [
         "relevance:context"
@@ -2811,8 +2871,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11361",
-        "N-11262"
+        "N-11277",
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -2834,7 +2894,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11053"
+        "N-10971"
       ],
       "tags": [
         "relevance:core"
@@ -2856,7 +2916,7 @@
       "claim": "The host states as a debate term that she is seven months pregnant, so Wilson would have to travel to her for a face-to-face debate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11361"
+        "N-11277"
       ],
       "tags": [
         "relevance:context"
@@ -2877,7 +2937,7 @@
       "claim": "The host says the debate would have no time limit, would be live, and her team would bring up any documents or evidence Wilson mentions and pause so he can search for his own.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11361"
+        "N-11277"
       ],
       "tags": [
         "relevance:context"
@@ -2898,7 +2958,7 @@
       "claim": "The host says Wilson will not be chain smoking around her and must leave his cigarettes at home.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11361"
+        "N-11277"
       ],
       "tags": [
         "relevance:tangential"
@@ -2919,8 +2979,8 @@
       "claim": "The host says her key condition is that Blake Neff, Andrew Kolvet or Erika Kirk must publicly claim Wilson first, saying they are sending him to debate on their behalf about the Charlie Kirk case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11361",
-        "N-11262"
+        "N-11277",
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -2946,7 +3006,7 @@
         "A-2256.1"
       ],
       "related_nodes": [
-        "N-11262"
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -2972,7 +3032,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11361"
+        "N-11277"
       ],
       "tags": [
         "relevance:context"
@@ -2993,7 +3053,7 @@
       "claim": "The host says that, on the basis of the evidence presented, she does not believe Charlie Kirk was killed by a lone gunman and does not believe any weapon was fired from the Losee Center rooftop.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10112"
+        "N-10108"
       ],
       "tags": [
         "relevance:core"
@@ -3014,7 +3074,7 @@
       "claim": "The host says the first thing to move in the footage is Charlie Kirk's shirt, which moves upward and across his chest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -3035,7 +3095,7 @@
       "claim": "The host says Charlie Kirk's necklace broke immediately before he was impacted and moved upward.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [
         "relevance:core"
@@ -3056,7 +3116,7 @@
       "claim": "The host says it is unacceptable that Charlie Kirk was hit from the front with 2,000 pounds of force yet did not go backwards but moved up and then to the side.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -3097,8 +3157,8 @@
       "claim": "The host says the 30-06 bullet did not go through Charlie Kirk and did not almost decapitate him as would have been expected.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085",
-        "N-10660"
+        "N-10081",
+        "N-10602"
       ],
       "tags": [
         "relevance:core"
@@ -3119,8 +3179,8 @@
       "claim": "The host says there were black shards all over the floor of the SUV that transported Charlie Kirk to the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10369",
-        "N-10740"
+        "N-10344",
+        "N-10672"
       ],
       "tags": [
         "relevance:core"
@@ -3142,7 +3202,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
-        "N-10740"
+        "N-10672"
       ],
       "tags": [
         "relevance:core"
@@ -3162,9 +3222,9 @@
       "claim": "The host says there was a mysteriously purged 911 call in which someone is allegedly heard saying \"Get that off of him.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10692",
-        "N-10750",
-        "N-10729"
+        "N-10630",
+        "N-10680",
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -3184,7 +3244,7 @@
       "claim": "The host says Benny Johnson is one of the courtroom influencers whom Erika Kirk personally invited to attend the preliminary hearing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11065"
+        "N-10983"
       ],
       "tags": [
         "relevance:core"
@@ -3229,7 +3289,7 @@
         "A-2260.1"
       ],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3251,8 +3311,8 @@
       "claim": "The host says she believes the person walking up the stairs in the maroon shirt, also captured on TMZ's cameras, is not Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10043",
-        "N-10168",
+        "N-10040",
+        "N-10161",
         "N-10011"
       ],
       "tags": [
@@ -3277,7 +3337,7 @@
       "claim": "The host says she still believes what she reported in October of last year, that Tyler Robinson never stepped foot onto the UVU campus, and that the claim has not been debunked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10043"
+        "N-10040"
       ],
       "tags": [
         "relevance:core"
@@ -3302,7 +3362,7 @@
       "claim": "The host says that, as she said back then, she learned Tyler Robinson was around campus that day, which could mean he was driving people around, but she does not think he was either person who walked up the staircase.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10043"
+        "N-10040"
       ],
       "tags": [
         "relevance:core"
@@ -3326,7 +3386,7 @@
       "claim": "The host says she believes the person in the maroon shirt and the person in black later in the day are two different individuals.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10043"
+        "N-10040"
       ],
       "tags": [
         "relevance:core"
@@ -3349,7 +3409,7 @@
       "claim": "The host says UVU students confirmed to her that there are no cameras outside the parking garage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10791"
+        "N-10715"
       ],
       "tags": [
         "relevance:core"
@@ -3371,7 +3431,7 @@
         "A-3253.1"
       ],
       "related_nodes": [
-        "N-10791"
+        "N-10715"
       ],
       "tags": [
         "relevance:core"
@@ -3392,7 +3452,7 @@
       "claim": "The host says Lance Twiggs has his DNA on the towel and on the rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11362"
+        "N-11278"
       ],
       "tags": [
         "relevance:core"
@@ -3413,8 +3473,8 @@
       "claim": "The host says Lance Twiggs's DNA on Tyler's rifle was not as degraded as Tyler Robinson's DNA and was more prominent.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11362",
-        "N-10711"
+        "N-11278",
+        "N-10647"
       ],
       "tags": [
         "relevance:core"
@@ -3436,7 +3496,7 @@
       "claim": "The host says she learned that the Dremel used to carve the bullets belonged to Lance Twiggs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11362"
+        "N-11278"
       ],
       "tags": [
         "relevance:core"
@@ -3457,7 +3517,7 @@
       "claim": "The host says that, from background checks and talks with family and schoolmates, Tyler is described as quiet and kind while Lance dealt with anger and behavioral issues and was removed from his home multiple times, with relatives later kicking him out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:tangential",
@@ -3483,7 +3543,7 @@
       "claim": "The host says Lance's own family members describe him as into dark internet material and, allegedly, as having had drug overdoses, which she says might get one caught up with the feds.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:tangential",
@@ -3508,7 +3568,7 @@
       "claim": "The host says Lance was the one submerged in furry culture and had a persona named Loona (rendered \"Luna\" in the transcript), an avatar for his personality, which an email she reads describes as a character from the animated series Helluva Boss.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10790"
+        "N-10714"
       ],
       "tags": [
         "relevance:tangential",
@@ -3530,7 +3590,7 @@
       "claim": "The host says Matt Robinson, on returning to the apartment Tyler shared with Lance, discovered that a dog bed had been placed in his son's room and suspected the feds had staged the room.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10143"
+        "N-10138"
       ],
       "tags": [
         "relevance:core"
@@ -3553,8 +3613,8 @@
       "claim": "The host says that Matt Robinson suspected the feds had staged his son's room with a dog bed, but if Lance has a hellhound persona it would make more sense that the dog bed was Lance's, with Lance embodying that persona.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10143",
-        "N-10790"
+        "N-10138",
+        "N-10714"
       ],
       "tags": [
         "relevance:context"
@@ -3599,7 +3659,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10013",
-        "N-10183"
+        "N-10175"
       ],
       "tags": [
         "relevance:tangential",
@@ -3620,7 +3680,7 @@
       "claim": "The host says Lance Twiggs's alibi for September 10 is that he was sleeping.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -3641,7 +3701,7 @@
       "claim": "The host asks whether anyone, including the feds, has tested Lance Twiggs's sleeping alibi and says it could easily be checked through cameras, a GRAMA records request for cameras and his phone activity.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -3662,7 +3722,7 @@
       "claim": "The host says Lance claims he found a handwritten note under his keyboard, took a picture of it, and then burned the note to hide the evidence, which she notes would not hide the evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10041"
+        "N-10039"
       ],
       "tags": [
         "relevance:core"
@@ -3688,8 +3748,8 @@
         "A-2261.1"
       ],
       "related_nodes": [
-        "N-11308",
-        "N-10787"
+        "N-11224",
+        "N-10711"
       ],
       "tags": [
         "relevance:core"
@@ -3711,7 +3771,7 @@
         "A-2261.1"
       ],
       "related_nodes": [
-        "N-11308"
+        "N-11224"
       ],
       "tags": [
         "relevance:core"
@@ -3731,7 +3791,7 @@
       "claim": "The host says Tyler Robinson is definitively not left-handed and that this is spelled out in his legal filings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10793"
+        "N-10717"
       ],
       "tags": [
         "relevance:core"
@@ -3752,7 +3812,7 @@
       "claim": "The host says that the many social media photos his mother posted to Facebook, from childhood through young adulthood, show Tyler Robinson to be right-handed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10793"
+        "N-10717"
       ],
       "tags": [
         "relevance:core"
@@ -3777,7 +3837,7 @@
         "A-2259.3"
       ],
       "related_nodes": [
-        "N-10787"
+        "N-10711"
       ],
       "tags": [
         "relevance:core"
@@ -3800,7 +3860,7 @@
         "A-2259.3"
       ],
       "related_nodes": [
-        "N-10787"
+        "N-10711"
       ],
       "tags": [
         "relevance:core"
@@ -3823,7 +3883,7 @@
         "A-2261.1"
       ],
       "related_nodes": [
-        "N-11308",
+        "N-11224",
         "N-10014"
       ],
       "tags": [
@@ -3844,7 +3904,7 @@
       "claim": "The host says that after the feds questioned Lance for a few hours they offered him a ride home and police dropped him off at his parents' residence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10044"
+        "N-10041"
       ],
       "tags": [
         "relevance:core"
@@ -3868,7 +3928,7 @@
       "claim": "The host says the feds then moved Lance and his father into a safe house and paid for them to live somewhere unknown to the public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10044",
+        "N-10041",
         "N-10014"
       ],
       "tags": [
@@ -3890,7 +3950,7 @@
       "claim": "The host says Lance moved into the apartment, which is owned by his family, in July of 2022.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10634"
+        "N-10580"
       ],
       "tags": [
         "relevance:context"
@@ -3914,7 +3974,7 @@
       "claim": "The host says Lance first had two brothers as roommates, one of whom left a year later, and that Tyler Robinson took his place, beginning to live there in August 2023.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10634"
+        "N-10580"
       ],
       "tags": [
         "relevance:context"
@@ -3936,7 +3996,7 @@
       "claim": "The host says the remaining military roommate moved out at the end of 2024 citing a military obligation, leaving Tyler and Lance living alone from the beginning of 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10634"
+        "N-10580"
       ],
       "tags": [
         "relevance:context"
@@ -3958,8 +4018,8 @@
       "claim": "The host says she has always suspected, even more after the preliminary hearing, that Lance could have been a federal asset who got mixed up in something in his online communities, allegedly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598",
-        "N-10679"
+        "N-10545",
+        "N-10617"
       ],
       "tags": [
         "relevance:core"
@@ -3982,7 +4042,7 @@
         "A-2262.1"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [
         "relevance:tangential"
@@ -4004,7 +4064,7 @@
         "A-2262.2"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [
         "relevance:tangential"
@@ -4026,7 +4086,7 @@
         "A-2262.5"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [
         "relevance:tangential"
@@ -4048,7 +4108,7 @@
         "A-2262.6"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [
         "relevance:tangential"
@@ -4071,7 +4131,7 @@
         "A-2263.1"
       ],
       "related_nodes": [
-        "N-10789"
+        "N-10713"
       ],
       "tags": [
         "relevance:tangential"
@@ -4132,8 +4192,8 @@
       "claim": "The host says the man in the video is saying Israel and its backers are not allowed to mass murder women, children and innocent people and play hunger games with their lives as the Gaza Humanitarian Fund did, and she agrees he is right.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10670",
-        "N-10063"
+        "N-10610",
+        "N-10060"
       ],
       "tags": [
         "relevance:tangential"
@@ -4234,7 +4294,7 @@
       "claim": "The host says there is a chat of 92 influencers, the defenders of Erika Kirk, with many of the people TPUSA is boosting in it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10780",
+        "N-10705",
         "N-10000"
       ],
       "tags": [
@@ -4256,8 +4316,8 @@
       "claim": "The host says Paramount Tactical is one of the only men in that influencer chat and mocks him for wanting to gossip with the girls.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-10780"
+        "N-10820",
+        "N-10705"
       ],
       "tags": [
         "relevance:core"
@@ -4277,7 +4337,7 @@
       "claim": "Reading a viewer comment that Wilson wants to trap her into a defamation claim, the host says it is a trap she is willing to walk into.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11361"
+        "N-11277"
       ],
       "tags": [
         "relevance:context"
@@ -4300,7 +4360,7 @@
         "A-2261.1"
       ],
       "related_nodes": [
-        "N-11308"
+        "N-11224"
       ],
       "tags": [
         "relevance:core"
@@ -4358,7 +4418,7 @@
       "claim": "The host says a group chat she has landed upon is together posting her address, which she calls an extreme form of anti-Candaceism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10780"
+        "N-10705"
       ],
       "tags": [
         "relevance:core"

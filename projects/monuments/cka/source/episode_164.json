@@ -19,8 +19,8 @@
     "- **Model Version**: claude-manual-extract-seq164",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (catchup-2026-10-19): N-955, N-956, N-957, N-958, N-959, N-960, N-11422, N-11423, N-11424, N-11425",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-25, N-40, N-41, N-128, N-129, N-132, N-146, N-159, N-190, N-266, N-277, N-280, N-330, N-597, N-631, N-942, N-10000, N-10012, N-10062, N-10074, N-10537, N-10665, N-10687, N-10688, N-10715, N-10839, N-10864, N-10872, N-10874, N-11218, N-11263",
+    "  - Tip-minted Nodes (catchup-2026-10-19): N-955, N-956, N-957, N-958, N-959, N-960, N-11338, N-11339, N-11340, N-11341",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-25, N-40, N-41, N-128, N-129, N-132, N-146, N-159, N-190, N-266, N-277, N-280, N-330, N-597, N-631, N-942, N-10000, N-10012, N-10059, N-10071, N-10492, N-10465, N-10625, N-10626, N-10651, N-10762, N-10785, N-10793, N-10795, N-11134, N-11179",
     "  - Claim Range: C-14143–C-14228",
     "  - (see registers)",
     "",
@@ -244,7 +244,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14162, N-955, N-10839*"
+     "raw": "*Related: C-14162, N-955, N-10762*"
     },
     {
      "raw": ""
@@ -635,7 +635,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14203, N-10874*"
+     "raw": "*Related: C-14203, N-10795*"
     },
     {
      "raw": ""
@@ -738,7 +738,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14214, N-960, N-11424*"
+     "raw": "*Related: C-14214, N-960, N-11340*"
     },
     {
      "raw": ""
@@ -798,7 +798,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14219, N-277, N-11425*"
+     "raw": "*Related: C-14219, N-277, N-11341*"
     },
     {
      "raw": ""
@@ -1589,8 +1589,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10062",
-   "header": "**N-10062** Orem, Utah",
+   "id": "N-10059",
+   "header": "**N-10059** Orem, Utah",
    "label": "Orem, Utah",
    "lines": [
     {
@@ -1612,8 +1612,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10074",
-   "header": "**N-10074** Provo, Utah",
+   "id": "N-10071",
+   "header": "**N-10071** Provo, Utah",
    "label": "Provo, Utah",
    "lines": [
     {
@@ -1635,8 +1635,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10537",
-   "header": "**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination",
+   "id": "N-10492",
+   "header": "**N-10492** Charlie Kirk Necklace / Magnet Clasp Examination",
    "label": "Charlie Kirk Necklace / Magnet Clasp Examination",
    "lines": [
     {
@@ -1658,8 +1658,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10665",
-   "header": "**N-10665** Erika Kirk Educational Credentials Discrepancy",
+   "id": "N-10465",
+   "header": "**N-10465** Erika Kirk Educational Credentials Discrepancy",
    "label": "Erika Kirk Educational Credentials Discrepancy",
    "lines": [
     {
@@ -1681,8 +1681,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10687",
-   "header": "**N-10687** Frank Turek CPR Claim Verification",
+   "id": "N-10625",
+   "header": "**N-10625** Frank Turek CPR Claim Verification",
    "label": "Frank Turek CPR Claim Verification",
    "lines": [
     {
@@ -1704,8 +1704,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10688",
-   "header": "**N-10688** Frank Turek Clothing Disposal",
+   "id": "N-10626",
+   "header": "**N-10626** Frank Turek Clothing Disposal",
    "label": "Frank Turek Clothing Disposal",
    "lines": [
     {
@@ -1727,8 +1727,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10715",
-   "header": "**N-10715** Blake Neff September 10th Movement Discrepancy",
+   "id": "N-10651",
+   "header": "**N-10651** Blake Neff September 10th Movement Discrepancy",
    "label": "Blake Neff September 10th Movement Discrepancy",
    "lines": [
     {
@@ -1750,8 +1750,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10839",
-   "header": "**N-10839** Independent Review of UVU Security Failures",
+   "id": "N-10762",
+   "header": "**N-10762** Independent Review of UVU Security Failures",
    "label": "Independent Review of UVU Security Failures",
    "lines": [
     {
@@ -1773,8 +1773,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10864",
-   "header": "**N-10864** Vanity Fair Erika Kirk Profile (Clara Molot)",
+   "id": "N-10785",
+   "header": "**N-10785** Vanity Fair Erika Kirk Profile (Clara Molot)",
    "label": "Vanity Fair Erika Kirk Profile (Clara Molot)",
    "lines": [
     {
@@ -1796,8 +1796,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10872",
-   "header": "**N-10872** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+   "id": "N-10793",
+   "header": "**N-10793** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
    "label": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
    "lines": [
     {
@@ -1819,8 +1819,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10874",
-   "header": "**N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction",
+   "id": "N-10795",
+   "header": "**N-10795** UVU Independent Review Unnamed Fire Captain CPR Redaction",
    "label": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
    "lines": [
     {
@@ -1842,8 +1842,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11218",
-   "header": "**N-11218** Timpanogos Regional Hospital",
+   "id": "N-11134",
+   "header": "**N-11134** Timpanogos Regional Hospital",
    "label": "Timpanogos Regional Hospital",
    "lines": [
     {
@@ -1865,8 +1865,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11263",
-   "header": "**N-11263** Utah Internet Crimes Against Children Task Force",
+   "id": "N-11179",
+   "header": "**N-11179** Utah Internet Crimes Against Children Task Force",
    "label": "Utah Internet Crimes Against Children Task Force",
    "lines": [
     {
@@ -1888,16 +1888,16 @@
   },
   {
    "kind": "node",
-   "id": "N-11422",
-   "header": "**N-11422** Val Peterson September 10 Whereabouts Question",
-   "label": "Val Peterson September 10 Whereabouts Question",
+   "id": "N-11338",
+   "header": "**N-11338** Val Peterson September 10 Whereabouts",
+   "label": "Val Peterson September 10 Whereabouts",
    "lines": [
     {
      "raw": ""
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "The host's question of where UVU vice president and retired brigadier general Val Peterson was on September 10, 2025, after the after-action report placed him about 45 minutes from campus at the time of the shooting; she notes Salt Lake City and National Guard facilities but says she has no idea whether he was there."
@@ -1915,8 +1915,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11423",
-   "header": "**N-11423** Tyler Clancy Bloodied Bag Disposal Allegation",
+   "id": "N-11339",
+   "header": "**N-11339** Tyler Clancy Bloodied Bag Disposal Allegation",
    "label": "Tyler Clancy Bloodied Bag Disposal Allegation",
    "lines": [
     {
@@ -1942,16 +1942,16 @@
   },
   {
    "kind": "node",
-   "id": "N-11424",
-   "header": "**N-11424** Katie Zacharia Law Credential Question",
-   "label": "Katie Zacharia Law Credential Question",
+   "id": "N-11340",
+   "header": "**N-11340** Katie Zacharia Lawyer Credential Question",
+   "label": "Katie Zacharia Lawyer Credential Question",
    "lines": [
     {
      "raw": ""
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "The host's and press reports' question of whether new White House press secretary Katie Zacharia graduated law school and passed a bar exam."
@@ -1969,8 +1969,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11425",
-   "header": "**N-11425** Cornell 7 Case",
+   "id": "N-11341",
+   "header": "**N-11341** Cornell 7 Case",
    "label": "Cornell 7 Case",
    "lines": [
     {
@@ -1978,7 +1978,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Event"
     },
     {
      "raw": "The Cornell fraternity party case involving allegations of a gang rape and a group text, on which the host gives her general opinion."
@@ -2735,7 +2735,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10062"
+     "v": "N-10059"
     },
     {
      "k": "Tags",
@@ -3170,7 +3170,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10012, N-11422"
+     "v": "N-10012, N-11338"
     },
     {
      "k": "Tags",
@@ -3231,7 +3231,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10839, N-11422"
+     "v": "N-10762, N-11338"
     },
     {
      "k": "Tags",
@@ -3293,7 +3293,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11422"
+     "v": "N-11338"
     },
     {
      "k": "Tags",
@@ -3355,7 +3355,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10715"
+     "v": "N-10651"
     },
     {
      "k": "Tags",
@@ -3418,7 +3418,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11422"
+     "v": "N-11338"
     },
     {
      "k": "Tags",
@@ -3792,7 +3792,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10074, N-11263"
+     "v": "N-10071, N-11179"
     },
     {
      "k": "Tags",
@@ -3853,7 +3853,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10074"
+     "v": "N-10071"
     },
     {
      "k": "Tags",
@@ -3978,7 +3978,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10074"
+     "v": "N-10071"
     },
     {
      "k": "Tags",
@@ -4040,7 +4040,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11218"
+     "v": "N-11134"
     },
     {
      "k": "Tags",
@@ -4102,7 +4102,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11218"
+     "v": "N-11134"
     },
     {
      "k": "Tags",
@@ -4164,7 +4164,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-11423"
+     "v": "N-10000, N-11339"
     },
     {
      "k": "Tags",
@@ -4226,7 +4226,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-11423"
+     "v": "N-10000, N-11339"
     },
     {
      "k": "Tags",
@@ -4288,7 +4288,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10074, N-10062, N-11423"
+     "v": "N-10071, N-10059, N-11339"
     },
     {
      "k": "Tags",
@@ -4350,7 +4350,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11423"
+     "v": "N-11339"
     },
     {
      "k": "Tags",
@@ -4411,7 +4411,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11423"
+     "v": "N-11339"
     },
     {
      "k": "Tags",
@@ -4720,7 +4720,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10537"
+     "v": "N-10492"
     },
     {
      "k": "Supports",
@@ -4785,7 +4785,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10537"
+     "v": "N-10492"
     },
     {
      "k": "Tags",
@@ -4846,7 +4846,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10688"
+     "v": "N-10626"
     },
     {
      "k": "Supports",
@@ -4911,7 +4911,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10688, N-11423"
+     "v": "N-10626, N-11339"
     },
     {
      "k": "Tags",
@@ -4973,7 +4973,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10687"
+     "v": "N-10625"
     },
     {
      "k": "Tags",
@@ -5035,7 +5035,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11423"
+     "v": "N-11339"
     },
     {
      "k": "Tags",
@@ -5596,7 +5596,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874, N-11218"
+     "v": "N-10795, N-11134"
     },
     {
      "k": "Supports",
@@ -5663,7 +5663,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874"
+     "v": "N-10795"
     },
     {
      "k": "Tags",
@@ -5725,7 +5725,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874"
+     "v": "N-10795"
     },
     {
      "k": "Supports",
@@ -5791,7 +5791,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874"
+     "v": "N-10795"
     },
     {
      "k": "Supports",
@@ -6294,7 +6294,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10665"
+     "v": "N-10465"
     },
     {
      "k": "Tags",
@@ -6356,7 +6356,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11424"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6418,7 +6418,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11424, N-10665"
+     "v": "N-11340, N-10465"
     },
     {
      "k": "Tags",
@@ -6479,7 +6479,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11424"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6542,7 +6542,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11425"
+     "v": "N-11341"
     },
     {
      "k": "Tags",
@@ -6605,7 +6605,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11425"
+     "v": "N-11341"
     },
     {
      "k": "Tags",
@@ -6792,7 +6792,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11425"
+     "v": "N-11341"
     },
     {
      "k": "Tags",
@@ -6979,7 +6979,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10872"
+     "v": "N-10793"
     },
     {
      "k": "Tags",
@@ -7166,7 +7166,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10864"
+     "v": "N-10785"
     },
     {
      "k": "Tags",
@@ -8593,7 +8593,7 @@
     "- Host says Clancy was the youngest Utah House member \"since 1834\" (00:14:20); kept as said, date not checked.",
     "- Producer Schuyler (00:01:03, 00:55:50) is not linked to the existing Schuyler node (alias \"Charlie Schuyler\"), whose identity is unclear, so no node cited.",
     "- Jake Paul and Jon Gruden are named only in the Zacharia clip and not minted as nodes.",
-    "- The after-action report (A-3383.1) is treated as the UVU independent review (N-10839); the host calls it the \"afteraction report\".",
+    "- The after-action report (A-3383.1) is treated as the UVU independent review (N-10762); the host calls it the \"afteraction report\".",
     "- DIA scan: \"Candace Owens.com\" at 00:00:32 is the host's skit about searching for a Monday episode, not a tip request – not a DIA beat. \"Go to.com\" merch plug at 00:57:29 is a merch beat, logged only as M-14.",
     "- Rejected claims (admission test): host's opinion that Leavitt was \"gaslighting us at all times\" (00:34:31); \"America has fallen\" (00:33:29); host's view that everyone in the Cornell case was \"raised wrong\" (00:44:26); viewer comment on plastic surgery among women in Trump's orbit (00:54:19) – opinion; rhetorical questions about CPR over a bag (00:22:53).",
     "- Possible cross-episode links left out: C-14178/C-14189 vs C-10162 (ep119, Harpole bloodied bag gift) – different bag and proposition; C-14164 vs earlier Neff \"marking time\" claims – not located by id in claims_index.",

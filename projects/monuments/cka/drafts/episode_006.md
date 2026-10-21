@@ -15,14 +15,14 @@
 - **Transcript SHA-256**: cbb9e2999e01f3fb5d31c3a20cfcda260ac22c9115d386f6ca88119e0d45131e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-930, N-11367, N-11368
-  - Hole-minted Nodes (reintro-ep006): N-10083, N-10085, N-10119, N-10385
-  - Tip-minted Nodes (reintro-ep006): N-11084, N-11096, N-11103, N-11256
+  - Tip-minted Nodes (supplement_2026-10g): N-930, N-11283, N-11284
+  - Hole-minted Nodes (reintro-ep006): N-10081, N-10115, N-10358
+  - Tip-minted Nodes (reintro-ep006): N-11002, N-11014, N-11021, N-11172
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-499–C-583
   - Artifact Families Introduced: A-1120, A-1121, A-1122, A-1123, A-1124, A-1125, A-1126, A-1127, A-1128, A-1129, A-1130, A-1131, A-1132, A-1133
-  - New Nodes Introduced: N-83, N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-10065, N-10066, N-10067, N-10068, N-10069, N-10071, N-10072, N-10073, N-10074, N-10075, N-10078, N-10079, N-10080, N-10081
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-46, N-5, N-57, N-68, N-54, N-72, N-80, N-10000, N-10012, N-10026, N-10014, N-10076, N-10070, N-10077, N-10002, N-10011, N-10027, N-10047, N-10051, N-10052, N-10053, N-10054, N-10057, N-10059, N-10134, N-10165, N-10268, N-11004, N-11227, N-11318
+  - New Nodes Introduced: N-83, N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-10062, N-10063, N-10064, N-10065, N-10066, N-10068, N-10069, N-10070, N-10071, N-10072, N-10075, N-10076, N-10077, N-10078
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-46, N-5, N-57, N-68, N-54, N-72, N-80, N-10000, N-10012, N-10026, N-10014, N-10073, N-10067, N-10074, N-10002, N-10011, N-10027, N-10044, N-10048, N-10049, N-10050, N-10051, N-10054, N-10056, N-10129, N-10158, N-10252, N-10924, N-11143, N-11234
 
 ## 2. Executive Summary
 
@@ -56,7 +56,7 @@ Confidence: high
 
 **A-1121.1** Senate bipartisan resolution designating October 14 as Charlie Kirk Remembrance Day
 Video Timestamp: 00:00:57–00:01:10
-*Related: C-499, N-10066, N-10081*
+*Related: C-499, N-10063, N-10078*
 Transcript Snippet: the Senate has voted and they have passed a bipartisan resolution to designate October 14th
 Confidence: medium
 
@@ -83,7 +83,7 @@ Uncertainty: Underlying footage not shown in episode; relies on host's account.
 
 **A-1123.1** Viewer email detailing valves as critical infrastructure monitored by intelligence agencies (CISA, NSA, FERC)
 Video Timestamp: 00:17:21–00:19:21
-*Related: C-526, C-527, N-10065, N-10067, N-10068, N-10069*
+*Related: C-526, C-527, N-10062, N-10064, N-10065, N-10066*
 Transcript Snippet: Valves as critical infrastructure assets. ... intelligence and regulatory agencies, the uh CISA, NSA, PH, MSA, FERC monitor valve networks
 Confidence: high
 
@@ -93,7 +93,7 @@ Confidence: high
 
 **A-1124.1** Daily Mail article by Victoria Churchill headlined 'Candace Owens rages after being snubbed from Kirk memorial'
 Video Timestamp: 00:24:46–00:24:59
-*Related: C-529, C-544, N-84, N-10070*
+*Related: C-529, C-544, N-84, N-10067*
 Transcript Snippet: Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster
 Confidence: high
 
@@ -113,7 +113,7 @@ Confidence: high
 
 **A-1126.1** Pam Bondi on Katie Miller podcast stating government will target hate speech
 Video Timestamp: 00:35:09–00:35:39
-*Related: C-557, N-85, N-86, N-10079*
+*Related: C-557, N-85, N-86, N-10076*
 Transcript Snippet: we will absolutely target you, go after you if you are targeting anyone with hate speech
 Confidence: high
 
@@ -139,7 +139,7 @@ Confidence: high
 
 **A-1128.1** FCC Chairman Brendan Carr on Benny Johnson show threatening federal action against ABC affiliates carrying Kimmel
 Video Timestamp: 00:42:01–00:42:55
-*Related: C-566, N-88, N-89, N-10071, N-10079*
+*Related: C-566, N-88, N-89, N-10068, N-10076*
 Transcript Snippet: Brendan Carr... threatened federal action against ABC affiliates who carried the show
 Confidence: high
 
@@ -233,6 +233,16 @@ Confidence Level: Medium
 ---
 
 ## 4. Node Register
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-529, C-530, C-537, C-539*
+
+---
 
 **N-3** Candace Owens
 
@@ -479,7 +489,7 @@ Charlie Kirk's organization; site of speaking tour and current financial-apparat
 
 ---
 
-**N-10065** Caldera Engineering
+**N-10062** Caldera Engineering
 
 Node Type: Organization
 Organization Kind: company
@@ -489,7 +499,7 @@ Provo, Utah valve manufacturer; subject of intelligence-community link speculati
 
 ---
 
-**N-10066** United States Senate
+**N-10063** United States Senate
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -499,7 +509,7 @@ Body that passed bipartisan Charlie Kirk Remembrance Day resolution
 
 ---
 
-**N-10067** CISA
+**N-10064** CISA
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -509,7 +519,7 @@ Cybersecurity agency listed by viewer email as monitoring valve networks
 
 ---
 
-**N-10068** NSA
+**N-10065** NSA
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -519,7 +529,7 @@ Intelligence agency listed by viewer email as monitoring valve networks
 
 ---
 
-**N-10069** FERC
+**N-10066** FERC
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -529,7 +539,7 @@ Federal Energy Regulatory Commission cited as valve-network monitor
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -539,7 +549,7 @@ Publisher of Victoria Churchill's Kirk memorial article
 
 ---
 
-**N-10071** ABC
+**N-10068** ABC
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -549,7 +559,7 @@ Network whose affiliates were threatened with FCC action over Kimmel
 
 ---
 
-**N-10072** FCC
+**N-10069** FCC
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -559,7 +569,7 @@ Federal Communications Commission; chair threatened affiliate action
 
 ---
 
-**N-10073** APAC
+**N-10070** AIPAC
 
 Node Type: Organization
 Organization Kind: advocacy_group
@@ -575,7 +585,7 @@ Pro-Israel lobbying group alleged to employ Victoria Churchill
 
 **N-10012** Utah Valley University
 
-Node Type: Place
+Node Type: Organization
 Place Kind: venue
 University with alleged CIA pipeline mentioned by host
 
@@ -583,7 +593,7 @@ University with alleged CIA pipeline mentioned by host
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Node Type: Place
 Place Kind: city
@@ -593,7 +603,7 @@ Home city of Caldera Engineering
 
 ---
 
-**N-10075** White House
+**N-10072** White House
 
 Node Type: Place
 Place Kind: venue
@@ -613,7 +623,7 @@ Country repeatedly cited as influencing US speech law and media
 
 ---
 
-**N-10076** Cameragate Investigation
+**N-10073** Cameragate Investigation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -623,9 +633,9 @@ Investigation into two unidentified men handling the post-shooting camera and ch
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Discrepancy over whether FBI-released text messages between Robinson and Lance are genuine
 
@@ -633,7 +643,7 @@ Discrepancy over whether FBI-released text messages between Robinson and Lance a
 
 ---
 
-**N-10078** TPUSA Financial Apparatus Investigation
+**N-10075** TPUSA Financial Apparatus Investigation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -643,7 +653,7 @@ Host's announced deep-dive into TPUSA donors/sponsors/influencer takeover
 
 ---
 
-**N-10079** Hate Speech Legislation Push
+**N-10076** Hate Speech Legislation Push
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -653,7 +663,7 @@ Discourse over post-Kirk-assassination hate-speech laws and FCC enforcement thre
 
 ---
 
-**N-10080** Valve/Piping Industry Intelligence Connection
+**N-10077** Valve/Piping Industry Intelligence Connection
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -663,7 +673,7 @@ Speculation that Caldera Engineering and similar firms serve intelligence/infras
 
 ---
 
-**N-10081** Israel Influence on US Politics
+**N-10078** Israel Influence on US Politics
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -681,7 +691,7 @@ First named by the host at 00:42:58 in episode 6. Basketball player the host say
 
 ---
 
-**N-11367** Flechette Round Theory
+**N-11283** Flechette Round Theory
 
 Node Type: Topic
 Viewer-emailed idea, relayed by the host at 00:13:34, that a flechette-type round hit Charlie and the visible shot was a distraction.
@@ -690,7 +700,7 @@ Viewer-emailed idea, relayed by the host at 00:13:34, that a flechette-type roun
 
 ---
 
-**N-11368** UVU CIA Program Pipeline Claim
+**N-11284** UVU CIA Program Pipeline Claim
 
 Node Type: Topic
 The host's 00:51:05 relay that people allege CIA programs at Utah Valley University and a pipeline from UVU to CIA employment.
@@ -699,7 +709,7 @@ The host's 00:51:05 relay that people allege CIA programs at Utah Valley Univers
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Topic reused: the memorial the host will not attend.
 
@@ -731,7 +741,7 @@ Place reused: where the host says Kolvet was not.
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Topic reused: donor pressure after the host's TPUSA appearance.
 
@@ -739,7 +749,7 @@ Topic reused: donor pressure after the host's TPUSA appearance.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Topic reused: dating the Dairy Queen photo.
 
@@ -747,7 +757,7 @@ Topic reused: dating the Dairy Queen photo.
 
 ---
 
-**N-10052** Doorbell-Cam Footage Provenance
+**N-10049** Doorbell-Cam Footage Provenance
 
 Topic reused: where the TMZ doorbell footage came from.
 
@@ -755,7 +765,7 @@ Topic reused: where the TMZ doorbell footage came from.
 
 ---
 
-**N-10053** Vacant-House / Decoy Shooter Theory
+**N-10050** Vacant-House / Decoy Shooter Theory
 
 Topic reused: the vacant house locals suspect.
 
@@ -763,7 +773,7 @@ Topic reused: the vacant house locals suspect.
 
 ---
 
-**N-10054** Caldera Engineering Valve Pattern
+**N-10051** Caldera Engineering Valve Pattern
 
 Topic reused: the host's valve-industry pattern across her investigations.
 
@@ -771,7 +781,7 @@ Topic reused: the host's valve-industry pattern across her investigations.
 
 ---
 
-**N-10057** Owens Memorial Invitation Status
+**N-10054** Owens Memorial Invitation Status
 
 Topic reused: whether the host was invited to the memorial.
 
@@ -779,7 +789,7 @@ Topic reused: whether the host was invited to the memorial.
 
 ---
 
-**N-10059** PBD Podcast
+**N-10056** PBD Podcast
 
 Organization reused: show that carried the clip.
 
@@ -787,15 +797,7 @@ Organization reused: show that carried the clip.
 
 ---
 
-**N-10083** AIPAC
-
-Organization reused: the host says it pushes the attacks.
-
-*Related: C-545*
-
----
-
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Topic reused: the no-blood and exit-wound claims.
 
@@ -803,7 +805,7 @@ Topic reused: the no-blood and exit-wound claims.
 
 ---
 
-**N-10119** Jimmy Kimmel Free-Speech Defense
+**N-10115** Jimmy Kimmel Free-Speech Defense
 
 Topic reused: the host's defense of Kimmel on speech grounds.
 
@@ -811,7 +813,7 @@ Topic reused: the host's defense of Kimmel on speech grounds.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 Topic reused: the retreat in question.
 
@@ -819,7 +821,7 @@ Topic reused: the retreat in question.
 
 ---
 
-**N-10165** Campus Footage Release Strategy Question
+**N-10158** Campus Footage Release Strategy Question
 
 Topic reused: whether the back-camera footage will be released.
 
@@ -827,7 +829,7 @@ Topic reused: whether the back-camera footage will be released.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Topic reused: the host being told she could not speak at AmFest.
 
@@ -835,7 +837,7 @@ Topic reused: the host being told she could not speak at AmFest.
 
 ---
 
-**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Topic reused: the host's Daily Wire exit.
 
@@ -843,7 +845,7 @@ Topic reused: the host's Daily Wire exit.
 
 ---
 
-**N-11004** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens
+**N-10924** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens
 
 Topic reused: the host's view of Netanyahu spending.
 
@@ -851,7 +853,7 @@ Topic reused: the host's view of Netanyahu spending.
 
 ---
 
-**N-11084** TPUSA Leak Hunt and Employee Firings
+**N-11002** TPUSA Leak Hunt and Employee Firings
 
 Topic reused: employee firings and secrecy.
 
@@ -859,7 +861,7 @@ Topic reused: employee firings and secrecy.
 
 ---
 
-**N-11096** TikTok Israel Moderation Claim
+**N-11014** TikTok Israel Moderation Claim
 
 Topic reused: the host's TikTok claims.
 
@@ -867,7 +869,7 @@ Topic reused: the host's TikTok claims.
 
 ---
 
-**N-11103** TikTok
+**N-11021** TikTok
 
 Organization reused: platform the host says Israel is taking over.
 
@@ -875,7 +877,7 @@ Organization reused: platform the host says Israel is taking over.
 
 ---
 
-**N-11227** AIPAC Hostile Takeover of TPUSA Claim
+**N-11143** AIPAC Hostile Takeover of TPUSA Claim
 
 Topic reused: the takeover thesis.
 
@@ -883,7 +885,7 @@ Topic reused: the takeover thesis.
 
 ---
 
-**N-11256** Back-Footage FaceTime Recording Inquiry
+**N-11172** Back-Footage FaceTime Recording Inquiry
 
 Topic reused: the FaceTime showing of the back footage.
 
@@ -891,7 +893,7 @@ Topic reused: the FaceTime showing of the back footage.
 
 ---
 
-**N-11318** Robinson Cemetery Clothing Drop Report
+**N-11234** Robinson Cemetery Clothing Drop Report
 
 Topic reused: the cemetery clothing report.
 
@@ -908,7 +910,7 @@ Claim: The host says footage she shows has two men appearing in the immediate af
 Transcript Snippet: that same individual appears alongside another individual and he moves Charlie's chair
 Anchored Artifacts: A-1120.2
 Mentions: N-83, N-1
-Related Nodes: N-10076
+Related Nodes: N-10073
 Confidence: high
 Investigative Direction: Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.
 
@@ -922,7 +924,7 @@ Claim: The host says footage she shows has an individual standing near the car w
 Transcript Snippet: that person appears to be calmly talking into their phone. It's like a circus around them
 Anchored Artifacts: A-1120.1
 Mentions: N-83, N-1
-Related Nodes: N-10076
+Related Nodes: N-10073
 Confidence: high
 Investigative Direction: Obtain full-resolution copy of wide-angle clip; cross-reference timing against crowd movement logs.
 
@@ -936,7 +938,7 @@ Claim: The host says the footage she shows has the individual handling the camer
 Transcript Snippet: it looks like he removes the SIM card from it or the SD card if you will
 Anchored Artifacts: A-1120.3
 Mentions: N-83
-Related Nodes: N-10076
+Related Nodes: N-10073
 Confidence: medium
 Investigative Direction: Forensically examine the recovered camera for evidence of card removal and identify any cards removed.
 
@@ -962,7 +964,7 @@ Claim: The host says the footage shown to her via FaceTime from the rear angle s
 Transcript Snippet: there's no blood... there's no blood from the back
 Anchored Artifacts: A-1122.2
 Mentions: N-1, N-83
-Related Nodes: N-10076
+Related Nodes: N-10073
 Sensitive Tags: crime_scene_evidence
 Confidence: medium
 Uncertainty: Footage itself not shown in episode; claim rests on host's account of FaceTime viewing.
@@ -977,7 +979,7 @@ Claim: The host says the U.S. Senate has voted and passed a bipartisan resolutio
 Transcript Snippet: the Senate has voted and they have passed a bipartisan resolution to designate October 14th
 Anchored Artifacts: A-1121.1
 Mentions: N-1
-Related Nodes: N-10066
+Related Nodes: N-10063
 Confidence: medium
 Investigative Direction: Locate the resolution text in the Congressional Record and verify vote tally.
 
@@ -990,7 +992,7 @@ Claim: The Daily Mail ran a headline written by Victoria Churchill stating Canda
 Transcript Snippet: Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster
 Anchored Artifacts: A-1124.1
 Mentions: N-84, N-3, N-1
-Related Nodes: N-10070
+Related Nodes: N-10067, N-11361
 Confidence: high
 Investigative Direction: Verify headline and byline on the Daily Mail site and check publication date.
 
@@ -1047,7 +1049,7 @@ Claim: Pam Bondi told Katie Miller's podcast that the government will 'absolutel
 Transcript Snippet: we will absolutely target you, go after you if you are targeting anyone with hate speech
 Anchored Artifacts: A-1126.1
 Mentions: N-85, N-86, N-1
-Related Nodes: N-10079
+Related Nodes: N-10076
 Confidence: high
 Investigative Direction: Verify Bondi's exact remarks against full podcast audio and date.
 
@@ -1060,7 +1062,7 @@ Claim: Jimmy Kimmel said Trump was 'at the fourth stage of grief, construction' 
 Transcript Snippet: He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish
 Anchored Artifacts: A-1127.1
 Mentions: N-5, N-87
-Related Nodes: N-10075
+Related Nodes: N-10072
 Confidence: high
 Investigative Direction: Verify exact quote against full Kimmel episode transcript and date.
 
@@ -1084,7 +1086,7 @@ Claim Timestamp: 00:17:47
 Claim: Per a viewer email, intelligence and regulatory agencies including CISA, NSA, and FERC monitor valve networks and may maintain trusted relationships with manufacturers.
 Transcript Snippet: intelligence and regulatory agencies, the uh CISA, NSA, FERC monitor valve networks
 Anchored Artifacts: A-1123.1
-Related Nodes: N-10065, N-10067, N-10068, N-10069, N-10080
+Related Nodes: N-10062, N-10064, N-10065, N-10066, N-10077
 Confidence: medium
 Investigative Direction: Verify public statements and contracts from each named agency regarding valve/SCADA monitoring.
 
@@ -1096,7 +1098,7 @@ Claim Timestamp: 00:18:34
 Claim: Per a write-up the host reads, companies like Caldera Engineering in Provo, Utah manufacture specialized industrial valves and control systems; the write-up adds that no public evidence currently links them to intelligence contracts, and the host says she perceives a government conspiracy involving Caldera.
 Transcript Snippet: companies like Caldera Engineering in Provo, Utah manufacture specialized industrial valves and control systems
 Anchored Artifacts: A-1123.1
-Related Nodes: N-10065, N-10074, N-10080
+Related Nodes: N-10062, N-10071, N-10077
 Confidence: medium
 Investigative Direction: Verify company registration, address, and project portfolio via Utah business filings and the company website.
 
@@ -1108,7 +1110,7 @@ Claim Timestamp: 00:29:40
 Claim: The host says Victoria Churchill of the Daily Mail has a connection to AIPAC, and shows a picture of her sitting in the audience at AIPAC, starting off 2018 in DC.
 Anchored Artifacts: 
 Mentions: N-84
-Related Nodes: N-10073, N-10081
+Related Nodes: N-10070, N-10078
 Confidence: low
 Uncertainty: Connection is host's claim based on visible photos; not independently artifact-anchored in this episode.
 Investigative Direction: Verify Churchill's APAC affiliation via APAC event registrations and public photo metadata.
@@ -1123,7 +1125,7 @@ Claim: The host says FCC Chairman Brendan Carr threatened federal action against
 Transcript Snippet: Brendan Carr... threatened federal action against ABC affiliates who carried the show
 Anchored Artifacts: A-1128.1
 Mentions: N-92, N-87
-Related Nodes: N-10071, N-10072, N-10079
+Related Nodes: N-10068, N-10069, N-10076
 Confidence: high
 Investigative Direction: Locate full Carr interview on Benny Johnson show and verify against FCC official statements.
 
@@ -1176,7 +1178,7 @@ Claim: The host calls the text chain between accused shooter Tyler Robinson and 
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance
 Anchored Artifacts: A-1131.1
 Mentions: N-40, N-54
-Related Nodes: N-10014, N-10077
+Related Nodes: N-10014, N-10074
 Confidence: high
 Investigative Direction: Verify authenticity of released text chain via independent forensic analysis and metadata.
 
@@ -1190,7 +1192,7 @@ Claim: Creator Chris Olsen posted an Instagram parody clip mocking the FBI-relea
 Transcript Snippet: Good day, my love. I have just committed one of the highest sins of the Lord. Murder
 Anchored Artifacts: A-1132.1
 Mentions: N-40, N-54, N-88
-Related Nodes: N-10077
+Related Nodes: N-10074
 Confidence: high
 Investigative Direction: Locate original Olsen Instagram post and verify date.
 
@@ -1214,7 +1216,7 @@ Claim Timestamp: 00:35:42
 Claim: Host claims Netanyahu said on record that he was working with the U.S. government to put critics of Israel on the wrong side of the law.
 Anchored Artifacts: 
 Mentions: N-36
-Related Nodes: N-10026, N-10081
+Related Nodes: N-10026, N-10078
 Confidence: low
 Uncertainty: Claim referenced as a findable clip but not shown in this episode.
 Investigative Direction: Locate the specific Netanyahu clip and verify exact wording and date.
@@ -1257,7 +1259,7 @@ Transcript Snippet: as many of you pointed out, that was uh, near Charlie or jus
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-83
-Related Nodes: N-10076, N-83
+Related Nodes: N-10073, N-83
 Tags: relevance:core
 Investigative Direction: Review pre-shooting event footage and staff positions to confirm where the man stood relative to Kirk's seat and the back camera.
 
@@ -1273,7 +1275,7 @@ Transcript Snippet: who's this person? and they tell me the person's name and I 
 
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-83
-Related Nodes: N-83, N-10000, N-10076
+Related Nodes: N-83, N-10000, N-10073
 Supports: C-376
 Tags: relevance:core
 Investigative Direction: Ask the host which insider supplied the name and whether the identification was independently confirmed by TPUSA staff records or event credentials.
@@ -1290,7 +1292,7 @@ Transcript Snippet: I just sent a text because I still had his number and he was
 
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-83
-Related Nodes: N-83, N-10076
+Related Nodes: N-83, N-10073
 Tags: relevance:core
 Investigative Direction: Obtain the host's text thread and call log with the man to confirm the timing and content of the first contact.
 
@@ -1306,7 +1308,7 @@ Transcript Snippet: obviously he's seeing all these clips going viral and he is 
 
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-83
-Related Nodes: N-83, N-10076
+Related Nodes: N-83, N-10073
 Tags: relevance:context
 Investigative Direction: Confirm through the host or the man whether any threats were received after the clips spread.
 
@@ -1322,7 +1324,7 @@ Transcript Snippet: I was sitting right to the left or or to the left of Charlie
 
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-1, N-83
-Related Nodes: N-83, N-10076
+Related Nodes: N-83, N-10073
 Tags: relevance:core
 Investigative Direction: Compare the claimed seat to the seating chart and event footage from the left side of the tent; ask the man to confirm the account.
 
@@ -1338,7 +1340,7 @@ Transcript Snippet: That's why he's on his phone uh communicating to them what h
 
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-83
-Related Nodes: N-83, N-10000, N-10076
+Related Nodes: N-83, N-10000, N-10073
 Tags: relevance:core
 Investigative Direction: Identify whom he called and obtain phone records or his own statement on the calls placed in the minutes after the shooting.
 
@@ -1354,7 +1356,7 @@ Transcript Snippet: "Because the first thing that I thought is that I better sec
 
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-83
-Related Nodes: N-83, N-10076, N-10014
+Related Nodes: N-83, N-10073, N-10014
 Tags: relevance:core
 Investigative Direction: Ask the FBI and TPUSA whether the camera and its card were handed over, when, and to whom, and obtain the chain-of-custody record.
 
@@ -1370,7 +1372,7 @@ Transcript Snippet: Most people that certainly uh have the credibility are balli
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report and named ballistics experts' published analyses of the neck wound.
 
@@ -1386,7 +1388,7 @@ Transcript Snippet: I'm getting inundated with messages from people that hunt, p
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Ask the host to publish the strongest of these messages with the senders' credentials for independent review of the trajectory.
 
@@ -1402,7 +1404,7 @@ Transcript Snippet: he didn't want to send the footage over to me without checki
 
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-83
-Related Nodes: N-83, N-10000, N-10165
+Related Nodes: N-83, N-10000, N-10158
 Supports: C-379
 Tags: relevance:core
 Investigative Direction: Request TPUSA's written position on release of the back-camera footage and who holds ownership of it.
@@ -1419,7 +1421,7 @@ Transcript Snippet: And so out of a a loyalty to Erika, he also doesn't want to 
 
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-2, N-1, N-83
-Related Nodes: N-83, N-10165
+Related Nodes: N-83, N-10158
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's office whether she requested that the footage stay unreleased.
 
@@ -1435,7 +1437,7 @@ Transcript Snippet: So, in the short run, he agrees that rather than send the fo
 
 Anchored Artifacts: A-1122.2
 Mentions: N-3, N-83
-Related Nodes: N-83, N-11256
+Related Nodes: N-83, N-11172
 Tags: relevance:core
 Investigative Direction: Obtain call records for the FaceTime session and ask whether any recording or screenshot of the screen exists.
 
@@ -1451,7 +1453,7 @@ Transcript Snippet: but like I thought the feds were saying they were looking fo
 
 Anchored Artifacts: A-1122.2
 Mentions: N-3
-Related Nodes: N-10085, N-10014
+Related Nodes: N-10081, N-10014
 Tags: relevance:core
 Investigative Direction: Search FBI and Utah press briefings from September 10 to 12, 2025 for statements that investigators were searching for a bullet.
 
@@ -1467,7 +1469,7 @@ Transcript Snippet: um, it would suggest that it it's it was inside of Charlie, 
 
 Anchored Artifacts: A-1122.2
 Mentions: N-3, N-1
-Related Nodes: N-10085, N-10014
+Related Nodes: N-10081, N-10014
 Tags: relevance:core
 Investigative Direction: Compare against the autopsy and the FBI lab report on whether a projectile was recovered from the body.
 
@@ -1483,7 +1485,7 @@ Transcript Snippet: I know some of you guys were uh insinuating. I got a lot of 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11367, N-10085
+Related Nodes: N-11283, N-10081
 Tags: relevance:context
 Investigative Direction: Check the autopsy and ballistics findings for any indication of a flechette or multiple-projectile round.
 
@@ -1499,7 +1501,7 @@ Transcript Snippet: at no point did I ever speculate that any other country was 
 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1
-Related Nodes: N-10081
+Related Nodes: N-10078
 Supports: C-437
 Tags: relevance:core
 Investigative Direction: Review the host's prior episodes and posts for any statement attributing the assassination to a foreign government.
@@ -1516,7 +1518,7 @@ Transcript Snippet: Yesterday I pretty casually mentioned to you guys something 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10065, N-10054, N-10052, N-10011
+Related Nodes: N-10062, N-10051, N-10049, N-10011
 Supports: C-417
 Tags: relevance:core
 Investigative Direction: Pull property and employment records for residents of the street where the doorbell camera was installed and check employer listings.
@@ -1533,7 +1535,7 @@ Transcript Snippet: The husband and wife I had mentioned worked for Caldera Engi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10065, N-10054
+Related Nodes: N-10062, N-10051
 Supports: C-415
 Tags: relevance:core
 Investigative Direction: Verify the couple's employment with Caldera Engineering through LinkedIn profiles and Utah business filings.
@@ -1550,7 +1552,7 @@ Transcript Snippet: thus far three people who I've investigated who oddly either
 
 Anchored Artifacts: 
 Mentions: N-3, N-80
-Related Nodes: N-10054, N-10080
+Related Nodes: N-10051, N-10077
 Supports: C-416
 Tags: relevance:context
 Investigative Direction: Ask the host to name the other two people and show the documents tying each to valve or piping firms.
@@ -1567,7 +1569,7 @@ Transcript Snippet: likely the CIA, those of you who have worked at those indust
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10080, N-10054
+Related Nodes: N-10077, N-10051
 Tags: relevance:context
 Investigative Direction: Check government contract databases for valve manufacturers named in the viewer emails and test the claim about Israel-only valves with industry sources.
 
@@ -1583,7 +1585,7 @@ Transcript Snippet: even by the way on Calira's website they noted that they hav
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10065, N-10054
+Related Nodes: N-10062, N-10051
 Tags: relevance:context
 Investigative Direction: Capture the Caldera Engineering website project map from the Wayback Machine for September 2025 and read the listed project countries.
 
@@ -1599,7 +1601,7 @@ Transcript Snippet: Utah manufacture specialized industrial valves and control s
 
 Anchored Artifacts: A-1123.1
 Mentions: N-3
-Related Nodes: N-10065, N-10074, N-10080
+Related Nodes: N-10062, N-10071, N-10077
 Qualifies: C-527
 Tags: relevance:context
 Investigative Direction: Search federal contract databases for awards to Caldera Engineering to test the email's own caveat.
@@ -1616,7 +1618,7 @@ Transcript Snippet: All of them were asking specifically for me to confirm that 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10057, N-10002, N-10070
+Related Nodes: N-10054, N-10067, N-11361
 Tags: relevance:context
 Investigative Direction: Ask the host to publish the sender names and outlets of the memorial emails and compare timing against the Daily Mail story.
 
@@ -1632,7 +1634,7 @@ Transcript Snippet: Andrew Kolvet was there in the room.
 
 Anchored Artifacts: A-1125.1
 Mentions: N-14, N-37, N-57
-Related Nodes: N-10059
+Related Nodes: N-10056
 Supports: C-458
 Tags: relevance:context
 Investigative Direction: Identify which gathering the speaker means by 'the room' from the full PBD segment and who was documented as present.
@@ -1649,7 +1651,7 @@ Transcript Snippet: You're on the board of Turning Point. Yeah. Okay. When's the
 
 Anchored Artifacts: A-1125.1
 Mentions: N-14, N-3, N-57, N-72
-Related Nodes: N-10000, N-10059
+Related Nodes: N-10000, N-10056
 Supports: C-459, C-461
 Contradicts: C-534
 Tags: relevance:context
@@ -1667,7 +1669,7 @@ Transcript Snippet: She would be in in a perfect world if if they didn't have th
 
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-1, N-57
-Related Nodes: N-10000, N-10059
+Related Nodes: N-10000, N-10056
 Supports: C-462
 Tags: relevance:context
 Investigative Direction: Ask the speaker for the source of the claimed breakup and compare with the host's texts and the Live Free Tour records.
@@ -1684,7 +1686,7 @@ Transcript Snippet: She would be the logical heir to the TPUSA throne. But she's
 
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-57
-Related Nodes: N-10057, N-10002
+Related Nodes: N-10054, N-11361
 Supports: C-463
 Tags: relevance:context
 Investigative Direction: Obtain the memorial speaker roster and invitation list and ask TPUSA whether the host was invited.
@@ -1701,7 +1703,7 @@ Transcript Snippet: No, no, no. She doesn't speak at the events anymore. Okay. S
 
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-57
-Related Nodes: N-10000, N-10059
+Related Nodes: N-10000, N-10056
 Supports: C-460
 Contradicts: C-540
 Tags: relevance:context
@@ -1719,7 +1721,7 @@ Transcript Snippet: uh, which the feds are organizing, is probably a very good i
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10002, N-10057, N-10014
+Related Nodes: N-10054, N-10014, N-11361
 Tags: relevance:context
 Investigative Direction: Identify the agencies and contractors named in the memorial's security and logistics plan.
 
@@ -1735,7 +1737,7 @@ Transcript Snippet: but it was kind of me saying, especially since three months 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:context
 Investigative Direction: Compare the dates of her Daily Wire departure and the TPUSA conference appearance in public records.
 
@@ -1751,7 +1753,7 @@ Transcript Snippet: Like, Israel, you're not special. And yeah, Charlie got in t
 
 Anchored Artifacts: A-1130.1
 Mentions: N-3, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Tags: relevance:core
 Investigative Direction: Look for contemporaneous messages between Kirk, donors and TPUSA staff after the host's appearance.
 
@@ -1767,7 +1769,7 @@ Transcript Snippet: Uh, I told that I was not allowed to speak at AmFest. The do
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10268, N-10047
+Related Nodes: N-10252, N-10044
 Supports: C-75
 Tags: relevance:core
 Investigative Direction: Obtain the AmFest speaker roster history and any messages telling the host she was removed and why.
@@ -1784,7 +1786,7 @@ Transcript Snippet: So, AIPAC is pushing this, right? The answer is implied by t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10083, N-10073, N-11227
+Related Nodes: N-10070, N-11143
 Supports: C-544
 Tags: relevance:context
 Investigative Direction: Seek documentary evidence of any AIPAC role in the Daily Mail story, such as communications between the reporter and the organization.
@@ -1801,7 +1803,7 @@ Transcript Snippet: He he is just way too involved. uh concerned about Turning P
 
 Anchored Artifacts: 
 Mentions: N-3, N-36
-Related Nodes: N-10000, N-11004
+Related Nodes: N-10000, N-10924
 Tags: relevance:context
 Investigative Direction: Look for lobbying, FARA and donation records tying Israeli government-linked money to TPUSA or media campaigns against the host.
 
@@ -1834,7 +1836,7 @@ Transcript Snippet: But what these people are telling me is a very dark story th
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-11227, N-10047
+Related Nodes: N-10000, N-11143, N-10044
 Supports: C-476, C-482
 Tags: relevance:core
 Investigative Direction: Request the employees' accounts and any documents showing donor or sponsor influence over TPUSA operations before September 10.
@@ -1868,7 +1870,7 @@ Transcript Snippet: the financial apparatus at Turning Point. There was definite
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10078
+Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Review TPUSA and TPAction Form 990s, state filings and vendor payments for 2025.
 
@@ -1884,7 +1886,7 @@ Transcript Snippet: And I've been able to verify it. I have been given names and
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10078
+Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Ask the host what was verified and how; follow up on the journalists she says she shared the names with.
 
@@ -1900,7 +1902,7 @@ Transcript Snippet: I've reached out to some journalists. I'm sharing the inform
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10078
+Related Nodes: N-10075
 Tags: relevance:context
 Investigative Direction: Identify which outlets are working on the TPUSA finances story and what they have published.
 
@@ -1916,7 +1918,7 @@ Transcript Snippet: I I've never stopped talking to Charlie. I mean, yesterday I
 
 Anchored Artifacts: A-1129.2
 Mentions: N-3, N-1
-Related Nodes: N-10057
+Related Nodes: N-10054
 Supports: C-481
 Contradicts: C-479
 Tags: relevance:core
@@ -1934,7 +1936,7 @@ Transcript Snippet: Turning Point had some big changes, some odd changes as they
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11084
+Related Nodes: N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA organizational changes, departures and NDAs from May 2025 through employees or LinkedIn history.
 
@@ -1950,7 +1952,7 @@ Transcript Snippet: Well, we have an occupied administration. There's no questio
 
 Anchored Artifacts: 
 Mentions: N-3, N-5
-Related Nodes: N-10081
+Related Nodes: N-10078
 Supports: C-490
 Tags: relevance:tangential
 Investigative Direction: Recorded as said; a sweeping characterization with no specific checkable event attached.
@@ -1967,7 +1969,7 @@ Transcript Snippet: And he was very clear in his perception that this is going t
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10079
+Related Nodes: N-10076
 Tags: relevance:context
 Investigative Direction: Find recorded Kirk statements and the debate on speech and Israel the host says she will show.
 
@@ -1983,7 +1985,7 @@ Transcript Snippet: Yeah. The feds are obviously lying and I would say at some l
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10079, N-10014
+Related Nodes: N-10076, N-10014
 Tags: relevance:core
 Investigative Direction: The transcript does not mark speaker turns; replay the audio to attribute the line, then request any evidence of federal involvement.
 
@@ -1999,7 +2001,7 @@ Transcript Snippet: And speaking of free speech, I want to speak about Jimmy Kim
 
 Anchored Artifacts: A-1127.1
 Mentions: N-3, N-87, N-1
-Related Nodes: N-10119, N-10071
+Related Nodes: N-10115, N-10068
 Tags: relevance:context
 Investigative Direction: Check ABC and Disney announcements and the date of the suspension.
 
@@ -2015,7 +2017,7 @@ Transcript Snippet: And it should be noted, by the way, that in the same monolog
 
 Anchored Artifacts: A-1127.1
 Mentions: N-3, N-87
-Related Nodes: N-10119
+Related Nodes: N-10115
 Tags: relevance:context
 Investigative Direction: Watch the full monologue to see whether the word senseless appears.
 
@@ -2031,7 +2033,7 @@ Transcript Snippet: And they're also calling for him to uh make a meaningful per
 
 Anchored Artifacts: 
 Mentions: N-3, N-87
-Related Nodes: N-10000, N-10119
+Related Nodes: N-10000, N-10115
 Tags: relevance:context
 Investigative Direction: Identify who made the demand for a donation, such as FCC or political figures, and when.
 
@@ -2047,7 +2049,7 @@ Transcript Snippet: What? That's that's that's a shakedown. That's what they did
 
 Anchored Artifacts: 
 Mentions: N-3, N-87, N-930
-Related Nodes: N-10119
+Related Nodes: N-10115
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the 2022 Kyrie Irving suspension and the donation he was asked to make.
 
@@ -2063,7 +2065,7 @@ Transcript Snippet: Tik Tok, by the way, did you guys see this? Um, Israel's pre
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11103, N-11096
+Related Nodes: N-11021, N-11014
 Tags: relevance:tangential
 Investigative Direction: Read the TikTok US joint venture announcement and investor list from September 2025 and check each investor's ties.
 
@@ -2079,7 +2081,7 @@ Transcript Snippet: No, Tik Tok was going pro Palestine and a bunch of hedge fun
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11103, N-11096
+Related Nodes: N-11021, N-11014
 Tags: relevance:tangential
 Investigative Direction: Review reporting on TikTok content moderation changes and the investor group in 2025.
 
@@ -2095,7 +2097,7 @@ Transcript Snippet: cuz I was just scrolling through, but he suggested that what
 
 Anchored Artifacts: A-1131.1
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10077, N-11103
+Related Nodes: N-10074, N-11021
 Supports: C-399
 Tags: relevance:context
 Investigative Direction: Test the text chain's language against generated text and request the original message metadata from the court filings.
@@ -2112,7 +2114,7 @@ Transcript Snippet: Um you are correct. That's when that movie came out and that
 
 Anchored Artifacts: A-1133.1
 Mentions: N-3
-Related Nodes: N-10051
+Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Get the Dairy Queen franchise's promotion calendar and compare the poster in the photo to the Superman and August promotions.
 
@@ -2128,7 +2130,7 @@ Transcript Snippet: uh July, just so you guys understand, there is not a place i
 
 Anchored Artifacts: A-1133.1
 Mentions: N-3
-Related Nodes: N-10051
+Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Ask the Dairy Queen franchise or its camera vendor about its actual retention period.
 
@@ -2144,7 +2146,7 @@ Transcript Snippet: It was very specific. And also saying that they threw away c
 
 Anchored Artifacts: A-1133.1
 Mentions: N-3
-Related Nodes: N-11318, N-10051
+Related Nodes: N-11234, N-10048
 Supports: C-407
 Tags: relevance:core
 Investigative Direction: Search the cemetery and nearby cameras for clothing recovery; ask police whether any items were collected there.
@@ -2161,7 +2163,7 @@ Transcript Snippet: some weird stuff uh that was happening at that house, what h
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10053
+Related Nodes: N-10050
 Supports: C-429
 Tags: relevance:core
 Investigative Direction: Obtain listing history and ownership of the vacant house and local witness accounts.
@@ -2178,7 +2180,7 @@ Transcript Snippet: some programs that they had been running, that there's a pip
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-11368
+Related Nodes: N-10012, N-11284
 Tags: relevance:core
 Investigative Direction: Review UVU program partnerships with the intelligence community, including any CIA recruiting programs on campus.
 
@@ -2209,7 +2211,7 @@ Transcript Snippet: "Andrew Kolvet was there in the Hamptons." No, he wasn't. An
 
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-14, N-57
-Related Nodes: N-10027, N-10134
+Related Nodes: N-10027, N-10129
 Contradicts: C-458, C-533
 Tags: relevance:core
 Investigative Direction: Obtain the August 2025 Hamptons attendee list and Kolvet's travel records for those days.
@@ -2308,15 +2310,15 @@ Confidence: high
 
 ## 8. Organization Network
 
-OrgLink: N-10073 affiliated_with N-10081
-OrgLink: N-10068 same_enterprise_as N-3
+OrgLink: N-10070 affiliated_with N-10078
+OrgLink: N-10065 same_enterprise_as N-3
 
 ## 9. Role Assertions
 
 RoleLink: N-1 holds_role N-10000 title:Founder
 RoleLink: N-3 member_of N-10000 title:Former employee / speaker
-RoleLink: N-92 chair_of N-10072 title:Chairman
-RoleLink: N-84 member_of N-10070 title:Journalist (byline)
+RoleLink: N-92 chair_of N-10069 title:Chairman
+RoleLink: N-84 member_of N-10067 title:Journalist (byline)
 RoleLink: N-14 holds_role N-10000 title:Board member (self-claimed)
 
 **M-15** (meme) We Don't Know But We Know

@@ -34,8 +34,8 @@
           "related_nodes": [
             "N-595",
             "N-2",
-            "N-10108",
-            "N-10074"
+            "N-10104",
+            "N-10071"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -107,7 +107,7 @@
           "related_nodes": [
             "N-330",
             "N-14",
-            "N-10554"
+            "N-10507"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -131,7 +131,7 @@
           "related_nodes": [
             "N-330",
             "N-246",
-            "N-10903"
+            "N-10824"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -168,7 +168,7 @@
             "N-493",
             "N-550",
             "N-15",
-            "N-10547"
+            "N-10507"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -223,7 +223,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10905"
+            "N-10826"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -249,8 +249,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10479",
-            "N-10483"
+            "N-10446",
+            "N-10449"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -432,7 +432,7 @@
           ],
           "related_nodes": [
             "N-30",
-            "N-10631"
+            "N-10577"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1101,11 +1101,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose September 10 movements, staff communications, cease and desist and finances are discussed.",
       "related_artifacts": [
         "A-2529.1",
@@ -1124,14 +1124,16 @@
       "evidence_count": 2,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@type": "Place",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Destination of the September 10 flights and site of the scanner-recorded airport pickup; Egyptian planes said to be back.",
       "related_artifacts": [
         "A-2525.1"
@@ -1145,14 +1147,17 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10108",
-      "ref": "N-10108",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10104",
+      "ref": "N-10104",
       "name": "Police Scanner Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The September 10 Provo scanner traffic on the airport pickup and hospital escort.",
       "related_artifacts": [
         "A-2525.1"
@@ -1165,14 +1170,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10095"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10186",
-      "ref": "N-10186",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10178",
+      "ref": "N-10178",
       "name": "Plane 888 / Maxfield Plane Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host recalls the N888 flight shuttling to and from Page, Arizona.",
       "related_artifacts": [],
       "related_claims": [
@@ -1182,14 +1189,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10195"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10203",
-      "ref": "N-10203",
+      "@type": "Topic",
+      "@id": "N-10195",
+      "ref": "N-10195",
       "name": "Provo Airport Flight Anomaly Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The Page-to-Provo flight landing at 2:48 on September 10 is added to the cluster.",
       "related_artifacts": [],
       "related_claims": [
@@ -1199,14 +1208,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10212",
-      "ref": "N-10212",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10204",
+      "ref": "N-10204",
       "name": "TPUSA Financial Irregularities Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The Bessent letter on TPUSA's financial standing is cited.",
       "related_artifacts": [],
       "related_claims": [
@@ -1216,14 +1226,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10075"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Mitch Snow's sighting is restated.",
       "related_artifacts": [],
       "related_claims": [
@@ -1233,14 +1245,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mitch Snow's identification of Harpole is restated.",
       "related_artifacts": [],
       "related_claims": [
@@ -1250,14 +1264,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10378",
-      "ref": "N-10378",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10351",
+      "ref": "N-10351",
       "name": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host alleges Kolvet fed podcasters information to attack the Fort Huachuca story.",
       "related_artifacts": [],
       "related_claims": [
@@ -1267,14 +1283,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10450",
-      "ref": "N-10450",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10419",
+      "ref": "N-10419",
       "name": "Fort Huachuca PR Response Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The \"some fort\" response campaign is revisited.",
       "related_artifacts": [],
       "related_claims": [
@@ -1284,14 +1301,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10478",
-      "ref": "N-10478",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10445",
+      "ref": "N-10445",
       "name": "Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host disputes the New York Times claim that Erika Kirk was in the hospital with her mother.",
       "related_artifacts": [],
       "related_claims": [
@@ -1302,14 +1321,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10449"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10479",
-      "ref": "N-10479",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10446",
+      "ref": "N-10446",
       "name": "Sept 7, 2025 Erika Instagram Post – Manipulation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host dates the post of Erika Kirk's mother to September 8 and calls it manipulative.",
       "related_artifacts": [
         "A-2531.1"
@@ -1321,14 +1342,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10483",
-      "ref": "N-10483",
+      "@type": "Topic",
+      "@id": "N-10449",
+      "ref": "N-10449",
       "name": "Erika's Mother Medical Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host asserts the mother was not hospitalized September 8–10.",
       "related_artifacts": [
         "A-2531.1"
@@ -1342,14 +1364,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10496",
-      "ref": "N-10496",
-      "name": "Egyptian Planes Investigation",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "topic",
       "description": "Host says the Egyptian planes are back in Provo.",
       "related_artifacts": [],
       "related_claims": [
@@ -1359,14 +1382,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10508",
-      "ref": "N-10508",
-      "name": "Tyler Robinson Evidence Sufficiency Question",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "topic",
       "description": "Host notes no plea or arraignment yet.",
       "related_artifacts": [],
       "related_claims": [
@@ -1376,56 +1400,72 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10547",
-      "ref": "N-10547",
-      "name": "September 10 Plane Logistics Discrepancy",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10507",
+      "ref": "N-10507",
+      "name": "Andrew Kolvet 9/10 Flight Itinerary",
+      "type": "investigation_question",
       "description": "The Santa Barbara–Scottsdale–Provo routing in the host's revised timeline.",
       "related_artifacts": [
-        "A-2528.1"
+        "A-2528.1",
+        "A-2527.1"
       ],
       "related_claims": [
         "C-7515",
         "C-7520",
         "C-7522",
-        "C-7527"
+        "C-7527",
+        "C-7511",
+        "C-7513",
+        "C-7514",
+        "C-7516",
+        "C-7517",
+        "C-7518",
+        "C-7519",
+        "C-7525",
+        "C-7530"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10548",
-      "ref": "N-10548",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10502",
+      "ref": "N-10502",
       "name": "Tarmac Hug Account Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host relocates the hug from Provo to Scottsdale.",
       "related_artifacts": [],
       "related_claims": [
         "C-7510",
         "C-7512",
         "C-7518",
-        "C-7520"
+        "C-7520",
+        "C-7509",
+        "C-7511",
+        "C-7530"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10551",
-      "ref": "N-10551",
+      "@type": "Topic",
+      "@id": "N-10505",
+      "ref": "N-10505",
       "name": "Joe Kent Leak Accusation Chain",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host says Kolvet blames Joe Kent although Kolvet shared the text widely.",
       "related_artifacts": [],
       "related_claims": [
@@ -1435,65 +1475,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10501"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10554",
-      "ref": "N-10554",
-      "name": "Andrew Kolvet 9/10 Flight Itinerary",
-      "type": "investigation_target",
-      "description": "Central thread: Kolvet's flight and what he knew while aboard.",
-      "related_artifacts": [
-        "A-2527.1"
-      ],
-      "related_claims": [
-        "C-7511",
-        "C-7513",
-        "C-7514",
-        "C-7515",
-        "C-7516",
-        "C-7517",
-        "C-7518",
-        "C-7519",
-        "C-7522",
-        "C-7525",
-        "C-7527",
-        "C-7530"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 12,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10560",
-      "ref": "N-10560",
-      "name": "Tarmac Hug Timeline Reconciliation Question",
-      "type": "investigation_target",
-      "description": "The 3:30 scanner pickup time is set against the 4:30–4:40 tarmac account.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-7509",
-        "C-7510",
-        "C-7511",
-        "C-7512",
-        "C-7530"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10582",
-      "ref": "N-10582",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10440",
+      "ref": "N-10440",
       "name": "Erika Kirk September 10 Whereabouts Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "When and where Erika Kirk learned of the death and arrived at the hospital.",
       "related_artifacts": [],
       "related_claims": [
@@ -1508,14 +1499,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10587",
-      "ref": "N-10587",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10535",
+      "ref": "N-10535",
       "name": "Trump Truth Social Post Pattern Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The 2:40 Truth Social announcement as a timeline marker.",
       "related_artifacts": [],
       "related_claims": [
@@ -1525,14 +1517,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10631",
-      "ref": "N-10631",
+      "@type": "Topic",
+      "@id": "N-10577",
+      "ref": "N-10577",
       "name": "George Farmer / Tracy Robinson $6,987 Incident",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Online allegation about the host's husband and an insurance claim, which the host rebuts.",
       "related_artifacts": [
         "A-2536.1"
@@ -1544,14 +1537,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10641",
-      "ref": "N-10641",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10586",
+      "ref": "N-10586",
       "name": "Andrew Kolvet Text Message Full Context Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "How the night-before text came to circulate.",
       "related_artifacts": [],
       "related_claims": [
@@ -1561,14 +1555,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-11295"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10903",
-      "ref": "N-10903",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10824",
+      "ref": "N-10824",
       "name": "N582MM TPUSA-Associated Plane Flight Pattern",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: a plane with tail number N582MM, which Baron Coleman says a TPUSA insider described as frequently used by TPUSA. Per Coleman's tracking it flew Pierre–Chicago–Provo on September 10, 2025. It spent October 4 at Fort Huachuca after flying in from Atlanta, then went to Kalispell, Montana, the day before a Kalispell-to-Bozeman flight tied to the security team's Fairy Lake gathering. The host says it is plausibly attached to TPUSA's security apparatus.",
       "related_artifacts": [
         "A-2527.2"
@@ -1589,14 +1585,15 @@
       "related_nodes": [
         "N-330",
         "N-246"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10904",
-      "ref": "N-10904",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10825",
+      "ref": "N-10825",
       "name": "Charlie Kirk Pilot \"Jamie\" Identification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: the identity of Charlie Kirk's pilot, known to the host only as \"Jamie\" and possibly from Texas, whom the host considers a crucial unidentified witness to the September 10 flights.",
       "related_artifacts": [],
       "related_claims": [
@@ -1610,14 +1607,15 @@
       "related_nodes": [
         "N-596",
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10905",
-      "ref": "N-10905",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10826",
+      "ref": "N-10826",
       "name": "New York Times Erika Kirk Interview Account Discrepancies",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: the New York Times interview Erika Kirk gave shortly after the assassination. The host says it placed Erika in the hospital with her mother and stated Charlie was pronounced dead while she was airborne. She says it also gave a different account of his departure that morning. She argues these points conflict with Erika's later accounts and notes the article has never been corrected.",
       "related_artifacts": [
         "A-2530.1"
@@ -1635,14 +1633,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10906",
-      "ref": "N-10906",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10827",
+      "ref": "N-10827",
       "name": "Frank Turek Schedule Change Tip",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: an unverified tip that Frank Turek changed his schedule at the last second, cancelling an appointment in another state, and was in Scottsdale with Charlie Kirk on September 8, 2025 despite saying he visits only once or twice a year.",
       "related_artifacts": [],
       "related_claims": [
@@ -1656,7 +1655,8 @@
       "related_nodes": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     }
   ],
   "claims": [
@@ -1670,7 +1670,7 @@
         "A-2527.2"
       ],
       "related_nodes": [
-        "N-10903",
+        "N-10824",
         "N-10000"
       ],
       "tags": [],
@@ -1690,7 +1690,7 @@
       "claim": "The host says she stated the day before that Frank Turek's estimate that Erika Kirk arrived at the hospital at about 4:00 p.m. on September 10 could be relied upon.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10582"
+        "N-10440"
       ],
       "tags": [],
       "claim_timestamp": "00:01:24",
@@ -1715,9 +1715,9 @@
         "A-2525.1"
       ],
       "related_nodes": [
-        "N-10108",
-        "N-10074",
-        "N-10560"
+        "N-10104",
+        "N-10071",
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:02:15",
@@ -1738,8 +1738,7 @@
         "A-2525.1"
       ],
       "related_nodes": [
-        "N-10548",
-        "N-10560"
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:02:15",
@@ -1760,8 +1759,8 @@
         "A-2525.1"
       ],
       "related_nodes": [
-        "N-10554",
-        "N-10560"
+        "N-10507",
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:03:25",
@@ -1784,8 +1783,7 @@
       "claim": "The host asserts that the reported tarmac hug between Andrew Kolvet and Erika Kirk took place in Scottsdale rather than Provo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548",
-        "N-10560"
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:03:25",
@@ -1806,7 +1804,7 @@
         "A-2526.2"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:03:25",
@@ -1825,7 +1823,7 @@
       "claim": "The host says there was only about a 40-minute window after the shooting in which Andrew Kolvet and the TPUSA core team did not know Charlie Kirk had died, which she says coincides with the Santa Barbara flight's departure for Scottsdale.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10554",
+        "N-10507",
         "N-10000"
       ],
       "tags": [],
@@ -1847,8 +1845,7 @@
         "A-2528.1"
       ],
       "related_nodes": [
-        "N-10554",
-        "N-10547"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:05:12",
@@ -1869,7 +1866,7 @@
         "A-2526.1"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:05:12",
@@ -1891,7 +1888,7 @@
         "A-2526.1"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:05:12",
@@ -1911,8 +1908,8 @@
       "claim": "The host says Erika Kirk claims Andrew Kolvet was on the flight that landed in Provo at 4:30 p.m.; the host alleges this account is false because by then he would have known Charlie Kirk had died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548",
-        "N-10554"
+        "N-10502",
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:05:56",
@@ -1934,7 +1931,7 @@
         "A-2526.2"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
@@ -1954,8 +1951,8 @@
       "claim": "The host theorizes that Erika Kirk, Andrew Kolvet and others met in person at Scottsdale Airport, possibly in the unmarked building, and then traveled together to Provo aboard Charlie Kirk's plane with phones off.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548",
-        "N-10547",
+        "N-10502",
+        "N-10507",
         "N-10000"
       ],
       "tags": [],
@@ -1976,7 +1973,7 @@
       "claim": "The host says Charlie Kirk's pilot's first name is Jamie, that he may be from Texas, and asks the public for information on him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10904"
+        "N-10825"
       ],
       "tags": [],
       "claim_timestamp": "00:11:05",
@@ -1997,8 +1994,7 @@
         "A-2528.1"
       ],
       "related_nodes": [
-        "N-10554",
-        "N-10547"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:12:45",
@@ -2018,7 +2014,7 @@
         "A-2528.1"
       ],
       "related_nodes": [
-        "N-10582"
+        "N-10440"
       ],
       "tags": [],
       "claim_timestamp": "00:12:45",
@@ -2040,8 +2036,8 @@
         "A-2528.1"
       ],
       "related_nodes": [
-        "N-10203",
-        "N-10186"
+        "N-10195",
+        "N-10178"
       ],
       "tags": [],
       "claim_timestamp": "00:13:38",
@@ -2061,7 +2057,7 @@
         "A-2528.1"
       ],
       "related_nodes": [
-        "N-10554",
+        "N-10507",
         "N-10000"
       ],
       "tags": [],
@@ -2109,8 +2105,7 @@
         "A-2528.1"
       ],
       "related_nodes": [
-        "N-10547",
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:14:28",
@@ -2130,7 +2125,7 @@
         "A-2528.1"
       ],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [],
       "claim_timestamp": "00:14:28",
@@ -2151,8 +2146,8 @@
         "A-2528.1"
       ],
       "related_nodes": [
-        "N-10108",
-        "N-10582"
+        "N-10104",
+        "N-10440"
       ],
       "tags": [],
       "claim_timestamp": "00:14:28",
@@ -2174,8 +2169,8 @@
       "claim": "The host theorizes that Andrew Kolvet waited at Provo for his wife, who landed on the 4:36 plane from Santa Barbara, and that the two entered the hospital through the front entrance rather than the entrance used by Erika Kirk, Elizabeth McCoy, Stacy Sheridan, Katherine Locastro and Tyler Bowyer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10554",
-        "N-10560"
+        "N-10507",
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:15:29",
@@ -2220,9 +2215,9 @@
         "A-2530.1"
       ],
       "related_nodes": [
-        "N-10905",
-        "N-10483",
-        "N-10478"
+        "N-10826",
+        "N-10449",
+        "N-10445"
       ],
       "tags": [],
       "claim_timestamp": "00:16:21",
@@ -2245,8 +2240,8 @@
         "A-2531.1"
       ],
       "related_nodes": [
-        "N-10479",
-        "N-10483"
+        "N-10446",
+        "N-10449"
       ],
       "tags": [],
       "claim_timestamp": "00:17:26",
@@ -2267,8 +2262,8 @@
       "claim": "The host asserts Erika Kirk's mother was not in the hospital on September 8, 9 or 10 and says she goes to an \"opt-in\" treatment center, like those at IV places.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10483",
-        "N-10478"
+        "N-10449",
+        "N-10445"
       ],
       "tags": [],
       "claim_timestamp": "00:18:14",
@@ -2288,8 +2283,8 @@
         "A-2530.1"
       ],
       "related_nodes": [
-        "N-10905",
-        "N-10582"
+        "N-10826",
+        "N-10440"
       ],
       "tags": [],
       "claim_timestamp": "00:18:56",
@@ -2310,8 +2305,8 @@
         "A-2530.1"
       ],
       "related_nodes": [
-        "N-10905",
-        "N-10582"
+        "N-10826",
+        "N-10440"
       ],
       "tags": [],
       "claim_timestamp": "00:19:56",
@@ -2333,7 +2328,7 @@
         "A-2532.1"
       ],
       "related_nodes": [
-        "N-10582"
+        "N-10440"
       ],
       "tags": [],
       "claim_timestamp": "00:20:52",
@@ -2354,7 +2349,7 @@
         "A-2530.1"
       ],
       "related_nodes": [
-        "N-10905"
+        "N-10826"
       ],
       "tags": [],
       "claim_timestamp": "00:21:45",
@@ -2453,7 +2448,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10212"
+        "N-10204"
       ],
       "tags": [],
       "claim_timestamp": "00:31:19",
@@ -2471,8 +2466,8 @@
       "claim": "The host alleges Andrew Kolvet fed information to obscure podcasters to get them to attack her over the Fort Huachuca story, and quotes him dismissing it as \"some fort.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10378",
-        "N-10450"
+        "N-10351",
+        "N-10419"
       ],
       "tags": [],
       "claim_timestamp": "00:32:23",
@@ -2494,8 +2489,8 @@
       "claim": "The host restates Mitch's account that he was almost certain he saw Brian Harpole at Fort Huachuca in a meeting concluding on September 9, the day before the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373",
-        "N-10367"
+        "N-10347",
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:33:02",
@@ -2520,8 +2515,8 @@
         "A-2527.2"
       ],
       "related_nodes": [
-        "N-10903",
-        "N-10074"
+        "N-10824",
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:34:43",
@@ -2541,7 +2536,7 @@
         "A-2527.2"
       ],
       "related_nodes": [
-        "N-10903"
+        "N-10824"
       ],
       "tags": [],
       "claim_timestamp": "00:35:40",
@@ -2561,7 +2556,7 @@
         "A-2527.2"
       ],
       "related_nodes": [
-        "N-10903"
+        "N-10824"
       ],
       "tags": [],
       "claim_timestamp": "00:36:02",
@@ -2582,7 +2577,7 @@
         "A-2527.2"
       ],
       "related_nodes": [
-        "N-10903"
+        "N-10824"
       ],
       "tags": [],
       "claim_timestamp": "00:37:00",
@@ -2604,7 +2599,7 @@
         "A-2527.2"
       ],
       "related_nodes": [
-        "N-10903"
+        "N-10824"
       ],
       "tags": [],
       "claim_timestamp": "00:38:31",
@@ -2622,8 +2617,8 @@
       "claim": "The host says the Egyptian planes are back in Provo, timed with Brigitte Macron being back in town.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10496",
-        "N-10074"
+        "N-10239",
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:38:31",
@@ -2641,8 +2636,8 @@
       "claim": "The host says Andrew Kolvet believes he gave the text message to Joe Kent and that Kent maybe sent it around to other people, but that Kolvet himself told everybody, including the host, about the text message.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10551",
-        "N-10641"
+        "N-10505",
+        "N-10586"
       ],
       "tags": [],
       "claim_timestamp": "00:42:22",
@@ -2686,7 +2681,7 @@
         "A-2536.1"
       ],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:47:08",
@@ -2705,7 +2700,7 @@
       "claim": "The host says she is working on an unverified tip that Frank Turek changed his schedule at the last second, cancelling an appointment in another state, and notes he was in Scottsdale on September 8, traveling with Charlie Kirk, although he has said he goes there only once or twice a year.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10906"
+        "N-10827"
       ],
       "tags": [],
       "claim_timestamp": "00:49:00",
@@ -2724,7 +2719,7 @@
       "claim": "The host says Tyler Robinson has not entered a plea and has not yet had his arraignment.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10508"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:49:50",

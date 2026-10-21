@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: d1ee383a35dcc78f44448bfd05192752c07b8dad1bd660ea78d735058d0f0c43
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-11296
-  - Hole-minted Nodes (reintro-ep081): N-10611
+  - Tip-minted Nodes (supplement_2026-10e): N-11212
+  - Hole-minted Nodes (reintro-ep081): N-10558
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7245–C-7343
-  - New Nodes Introduced: N-10547, N-10550, N-10551, N-10552
-  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-164, N-186, N-190, N-217, N-260, N-378, N-550, N-590, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114, N-11079
+  - New Nodes Introduced: N-10504, N-10505, N-10506
+  - Reused Nodes Appearing: N-10502, N-10503, N-11, N-15, N-17, N-46, N-55, N-69, N-164, N-186, N-190, N-217, N-260, N-378, N-550, N-590, N-10053, N-10079, N-10089, N-10143, N-10157, N-10185, N-10187, N-10194, N-10198, N-10239, N-10318, N-10332, N-10376, N-10494, N-10501, N-10507, N-10877, N-11032, N-10997
   - (see registers)
 
 # Episode 81 Analysis
@@ -130,7 +130,7 @@ Video Timestamp: 00:21:46–00:28:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed/read in episode)
 
-*Related: C-7296, C-7301, C-7305, C-7308, N-10547*
+*Related: C-7296, C-7301, C-7305, C-7308, N-10507*
 
 **A-1881.2** On-screen calendar graphic consolidating Sept 10 timeline with Egyptian-plane transponding overlay
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:29:39–00:31:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-constructed graphic)
 
-*Related: C-7315, C-7323, N-10549*
+*Related: C-7315, C-7323, N-10503*
 
 ---
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:33:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud)
 
-*Related: C-7319, N-10550*
+*Related: C-7319, N-10504*
 
 ---
 
@@ -262,20 +262,7 @@ Confidence Level: High
 ## 4. Node Register
 
 
-**N-10547** September 10 Plane Logistics Discrepancy
-
-Persistent inconsistency between Andrew Kolvet's stated location (Santa Barbara with wife, departing 3:19 p.m. Utah time) and PR text-chain timestamps indicating he was unavailable and "on the plane" during the 1:30–3:25 p.m. Utah window.
-
-Evidence Count: 2
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1881.1, A-1881.2, C-7296, C-7301, C-7305, C-7315, C-7323*
-
----
-
-**N-10548** Tarmac Hug Account Discrepancy
+**N-10502** Tarmac Hug Account Discrepancy
 
 Host's recollection that Kolvet described being alone on a G5/G6 and "collapsing" into Erika's arms on the Provo tarmac, contrasted with later public story of his wife being on the plane; Erika did not corroborate the wife-on-plane fact when asked directly.
 
@@ -284,11 +271,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-10547*
+*Related: N-10507*
 
 ---
 
-**N-10549** Egyptian Plane Transponding Correlation
+**N-10503** Egyptian Plane Transponding Correlation
 
 Host's on-screen calendar shows Egyptian aircraft transponding at Provo and Scottsdale coinciding with key Sept 10 events (Andrew's "this just loaded" message; Yrefy plane landings). Underlying data source not independently sourced in episode.
 
@@ -301,7 +288,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10550** Blake Neff "Two Phones" Implication
+**N-10504** Blake Neff "Two Phones" Implication
 
 Host interprets Blake Neff's phrasing "I put that phone away" after calling his mother as implying possession of a second phone.
 
@@ -314,7 +301,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10551** Joe Kent Leak Accusation Chain
+**N-10505** Joe Kent Leak Accusation Chain
 
 Sequence of public accusations (Alex Clark, Laura Loomer, Andrew Kolvet on-air) that Joe Kent leaked material specifically to harm Erika Kirk. Host contests this framing.
 
@@ -327,7 +314,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10552** Aubrey Termination Circumstances
+**N-10506** Aubrey Termination Circumstances
 
 Host alleges Aubrey was assigned death-statement drafting on Sept 10 while Andrew was unavailable, later terminated in connection with an Uber-driver conversation reported by Marina.
 
@@ -539,7 +526,7 @@ The host says he released messages about Iran.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -547,7 +534,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10082** CIA
+**N-10079** CIA
 
 Existing organization reused for new claims in this episode.
 
@@ -555,7 +542,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-10093** Wirefy
+**N-10089** Wirefy
 
 Existing organization; the transcript says 'Yrefy', the event sponsor whose plane the host discusses.
 
@@ -563,7 +550,7 @@ Existing organization; the transcript says 'Yrefy', the event sponsor whose plan
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -571,7 +558,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10163** Pre-Assassination Group Chat Content
+**N-10157** Pre-Assassination Group Chat Content
 
 Existing topic reused for new claims in this episode.
 
@@ -579,7 +566,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -587,7 +574,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10195** Josh Hammer Defamation Threat
+**N-10187** Josh Hammer Defamation Threat
 
 Existing topic reused for new claims in this episode.
 
@@ -595,7 +582,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for new claims in this episode.
 
@@ -603,7 +590,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10206** TPUSA Text Chain Authenticity Verification
+**N-10198** TPUSA Text Chain Authenticity Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -611,7 +598,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -619,7 +606,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -627,7 +614,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -635,7 +622,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10403** Erika Kirk Handler Thesis
+**N-10376** Erika Kirk Handler Thesis
 
 Existing topic reused for new claims in this episode.
 
@@ -643,7 +630,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Existing topic reused for new claims in this episode.
 
@@ -651,7 +638,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10546** Joe Kent Resignation Aftermath Pattern
+**N-10501** Joe Kent Resignation Aftermath Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -659,7 +646,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10554** Andrew Kolvet 9/10 Flight Itinerary
+**N-10507** Andrew Kolvet 9/10 Flight Itinerary
 
 Existing topic reused for new claims in this episode.
 
@@ -667,15 +654,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10560** Tarmac Hug Timeline Reconciliation Question
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-7285, C-7286, C-7287, C-7290, C-7291*
-
----
-
-**N-10611** Erika Kirk Fearlessness vs. Threat Claim Inconsistency
+**N-10558** Erika Kirk Fearlessness vs. Threat Claim Inconsistency
 
 Existing topic reused for new claims in this episode.
 
@@ -683,7 +662,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10956** Catholics for Catholics
+**N-10877** Catholics for Catholics
 
 Existing organization reused for new claims in this episode.
 
@@ -691,7 +670,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-11079** Operation Midnight Hammer
+**N-10997** Operation Midnight Hammer
 
 Existing topic reused for new claims in this episode.
 
@@ -699,7 +678,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11114** AZ Tech and E3 Tech DoD EMP Contracts
+**N-11032** AZ Tech and E3 Tech DoD EMP Contracts
 
 Existing topic reused for new claims in this episode.
 
@@ -707,7 +686,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11296** Erika Kirk Spotlight-Seeking Dispute
+**N-11212** Erika Kirk Spotlight-Seeking Dispute
 
 Node Type: Topic
 Dispute over Kolvet's claim that Erika never wanted the limelight versus the host's and a viewer's evidence that she sought roles and reality shows.
@@ -727,7 +706,7 @@ Claim: Joe Kent told Tucker Carlson that the National Counterterrorism Center wa
 Anchored Artifacts: A-1877.1
 Mentions: N-22, N-1, N-209
 
-Related Nodes: N-10547
+Related Nodes: N-10507
 
 Investigative Direction: Compare Kent's claims against any FBI/NCTC public statements; review case-file jurisdiction transfers to Utah authorities.
 
@@ -757,7 +736,7 @@ Claim: The host says Andrew Kolvet retweeted someone who suggested Joe Kent shou
 Anchored Artifacts: A-1879.1 (related context); direct retweet not separately captured as artifact.
 Mentions: N-14, N-209
 
-Related Nodes: N-10551
+Related Nodes: N-10505
 
 Investigative Direction: Confirm via archived Kolvet X timeline.
 
@@ -774,7 +753,7 @@ Claim: Alex Clark posted on X that Joe Kent actively participated in or encourag
 Anchored Artifacts: A-1879.1
 Mentions: N-2, N-99, N-209
 
-Related Nodes: N-10551
+Related Nodes: N-10505
 
 Investigative Direction: Retrieve Clark's full X thread and any cited evidence.
 
@@ -804,7 +783,7 @@ Claim: Laura Loomer replied to Posobiec, as the host reads it, calling Joe Kent 
 Anchored Artifacts: A-1880.2
 Mentions: N-3, N-60, N-2, N-209, N-95
 
-Related Nodes: N-10551
+Related Nodes: N-10505
 
 Investigative Direction: Retrieve Loomer's full post; trace whether she cites source for the accusation.
 
@@ -819,7 +798,7 @@ Claim: Andrew Kolvet stated on Charlie Kirk's radio show that he had provided th
 Anchored Artifacts: A-1878.1
 Mentions: N-14, N-1, N-209
 
-Related Nodes: N-10551
+Related Nodes: N-10505
 
 Investigative Direction: Obtain full unedited radio segment; verify chain of custody.
 
@@ -834,7 +813,7 @@ Claim: Andrew Kolvet stated Joe Kent messaged him suggesting the texts be made p
 Anchored Artifacts: A-1878.2
 Mentions: N-14, N-209
 
-Related Nodes: N-10551
+Related Nodes: N-10505
 
 Investigative Direction: Verify against any direct messaging logs or third-party corroboration.
 
@@ -849,7 +828,7 @@ Claim: Per the Sept 10 PR text chain the host shows, Andrew Kolvet sent no messa
 Anchored Artifacts: A-1881.1
 Mentions: N-14
 
-Related Nodes: N-10547
+Related Nodes: N-10507
 
 Investigative Direction: Timestamp-verify the chat export; cross-reference with FAA flight logs and cell-tower records.
 
@@ -864,7 +843,7 @@ Claim: Per the PR text chain the host shows, at 3:26 p.m. Utah time (as the host
 Anchored Artifacts: A-1881.1
 Mentions: N-14
 
-Related Nodes: N-10547
+Related Nodes: N-10507
 
 Investigative Direction: Verify the exact wording against export; check plane Wi-Fi / message buffering logs if obtainable.
 
@@ -879,7 +858,7 @@ Claim: The host says that at approximately 2:05 p.m. Utah time on Sept 10, Marin
 Anchored Artifacts: A-1881.1
 Mentions: N-493, N-550, N-14
 
-Related Nodes: N-10547, N-10552
+Related Nodes: N-10507, N-10506
 
 Investigative Direction: Confirm via call detail records and corroborate with Aubrey directly if possible.
 
@@ -894,7 +873,7 @@ Claim: The host says Aubrey, who drafted the Sept 10 death statement, was later 
 Anchored Artifacts: A-1881.1 (contextual); primary artifact not displayed.
 Mentions: N-493, N-550
 
-Related Nodes: N-10552
+Related Nodes: N-10506
 
 Investigative Direction: Verify with Aubrey or HR/witness records.
 
@@ -911,7 +890,7 @@ Claim: Per an on-screen calendar graphic the host shows, an Egyptian plane trans
 Anchored Artifacts: A-1881.2
 Mentions: N-14, N-1
 
-Related Nodes: N-10547, N-10549
+Related Nodes: N-10507, N-10503
 
 Investigative Direction: Independently source the ADS-B / transponder data; verify aircraft identifiers and operators.
 
@@ -925,7 +904,7 @@ Claim: The host says the plane she calls the Yrefy plane (after the event's spon
 
 Anchored Artifacts: A-1881.2
 
-Related Nodes: N-10547, N-10549
+Related Nodes: N-10507, N-10503
 
 Investigative Direction: Verify against FAA flight plan / tail-number tracking.
 
@@ -940,7 +919,7 @@ Claim: Blake Neff, describing his call to his mother after the shooting, used th
 Anchored Artifacts: A-1882.1
 Mentions: N-159
 
-Related Nodes: N-10550
+Related Nodes: N-10504
 
 Investigative Direction: Direct verification only possible via Blake Neff or device forensics.
 
@@ -1002,7 +981,7 @@ Claim: Candace Owens states she had never had a single communication with Joe Ke
 Anchored Artifacts: None (host testimony only)
 Mentions: N-3, N-1, N-209
 
-Related Nodes: N-10551
+Related Nodes: N-10505
 
 Investigative Direction: Verify via message logs, witness statements, or platform records.
 
@@ -1020,7 +999,7 @@ Transcript Snippet: it would certainly appear that Turning Point wants to exact 
 
 Anchored Artifacts: 
 Mentions: N-3, N-209, N-2
-Related Nodes: N-10546, N-10551
+Related Nodes: N-10501, N-10505
 Tags: relevance:core
 Investigative Direction: Identify which Kent statement the host means and whether any TPUSA officer has tied the attacks on Kent to it.
 
@@ -1036,7 +1015,7 @@ Transcript Snippet: the FBI will say that that they stopped that because they wa
 
 Anchored Artifacts: A-1877.1
 Mentions: N-209, N-1
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Obtain FBI statements or inter-agency correspondence on the transfer of the investigation to Utah authorities and the NCTC's stand-down.
 
@@ -1052,7 +1031,7 @@ Transcript Snippet: but there was still linkage for us to investigate that we ne
 
 Anchored Artifacts: A-1877.1
 Mentions: N-209
-Related Nodes: N-10202, N-10546
+Related Nodes: N-10194, N-10501
 Tags: relevance:core
 Investigative Direction: Ask Kent, or review any NCTC tasking records he is free to release, for what leads were left open when the stand-down occurred.
 
@@ -1068,7 +1047,7 @@ Transcript Snippet: We know the pressure because of the text messages and text m
 
 Anchored Artifacts: A-1877.1
 Mentions: N-209, N-1
-Related Nodes: N-10056, N-10163
+Related Nodes: N-10053, N-10157
 Tags: relevance:core
 Investigative Direction: Compare Kent's characterization with the full authenticated text of the leaked group-chat messages and the donors involved.
 
@@ -1084,7 +1063,7 @@ Transcript Snippet: we knew at the end of the 12-day war, at the end of Midnight
 
 Anchored Artifacts: A-1877.1
 Mentions: N-209, N-1
-Related Nodes: N-11079, N-10539
+Related Nodes: N-10997, N-10494
 Tags: relevance:context
 Investigative Direction: Check public reporting and administration records on Israeli requests for further US military action after June 2025, and Kirk's documented lobbying against it.
 
@@ -1100,7 +1079,7 @@ Transcript Snippet: we had things that we would have investigated had it not bee
 
 Anchored Artifacts: A-1877.1
 Mentions: N-209, N-69, N-3
-Related Nodes: N-10202, N-10355
+Related Nodes: N-10194, N-10332
 Tags: relevance:core
 Investigative Direction: Obtain the full Carlson interview transcript and any FBI or Patel response specifying which leads were not pursued.
 
@@ -1116,7 +1095,7 @@ Transcript Snippet: that something was brewing between him and Kash Patel, right
 
 Anchored Artifacts: 
 Mentions: N-209, N-69, N-3
-Related Nodes: N-10355
+Related Nodes: N-10332
 Tags: relevance:context
 Investigative Direction: Locate the Daily Mail article on the Kent-Patel dispute and the earlier episode where the host covered it.
 
@@ -1132,7 +1111,7 @@ Transcript Snippet: The Israel first crowd, like I said, immediately began deman
 
 Anchored Artifacts: 
 Mentions: N-209
-Related Nodes: N-10551, N-10546
+Related Nodes: N-10505, N-10501
 Tags: relevance:context
 Investigative Direction: Collect the posts from Kolvet, Clark, Loomer and others calling for Kent's arrest or prosecution and note whether any cites specific documents.
 
@@ -1165,7 +1144,7 @@ Transcript Snippet: Joe Kent, I have never heard uh utter a bad word about Erika
 
 Anchored Artifacts: A-1879.1
 Mentions: N-209, N-2, N-99, N-3
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Ask Clark or TPUSA for the specific statements or messages by Kent that they say degraded Erika; search Kent's public record for any such remark.
 
@@ -1197,7 +1176,7 @@ Transcript Snippet: Joe Kent did not leak me anything for the purpose of attacki
 
 Anchored Artifacts: A-1880.2
 Mentions: N-209, N-2, N-3
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: The host's source records and Kent's own account are the only checks; ask Kent and Loomer for any evidence of the alleged leak.
 
@@ -1213,7 +1192,7 @@ Transcript Snippet: He was one of the nine people in the group and he admitted a
 
 Anchored Artifacts: A-3129.1
 Mentions: N-14
-Related Nodes: N-10163, N-10206
+Related Nodes: N-10157, N-10198
 Tags: relevance:core
 Investigative Direction: Obtain the full Charlie Kirk Show segment, identify the speaker, and verify the membership of the nine-person group chat.
 
@@ -1229,7 +1208,7 @@ Transcript Snippet: He told us that that he gave them to someone in the governme
 
 Anchored Artifacts: A-3129.1
 Mentions: N-14
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Find the earlier Kolvet broadcast where he said he gave the messages to someone in government and compare his wording with this account.
 
@@ -1245,7 +1224,7 @@ Transcript Snippet: We kind of verified that the messages had been given by Andr
 
 Anchored Artifacts: A-3129.1
 Mentions: N-14, N-209, N-3
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what verification was done; the host denies the chain, so compare with her account of how she obtained the chat.
 
@@ -1261,7 +1240,7 @@ Transcript Snippet: I was told I could trust Joe Kent. I provided the screen gra
 
 Anchored Artifacts: A-1878.1
 Mentions: N-14, N-209
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Ask Kolvet who told him Kent could be trusted and what messages he exchanged with Kent about the screen grabs.
 
@@ -1277,7 +1256,7 @@ Transcript Snippet: that behind the scenes, we have given everything we know to 
 
 Anchored Artifacts: A-1878.1
 Mentions: N-14
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:context
 Investigative Direction: Ask TPUSA to identify to whom it gave information and when, for example investigators or government officials.
 
@@ -1293,7 +1272,7 @@ Transcript Snippet: kick off the big conspiracy theory that we've run into over 
 
 Anchored Artifacts: A-1878.1
 Mentions: N-1, N-14
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:context
 Investigative Direction: Identify the show host and compare the characterization with the content of the leaked texts and with what the host of this episode actually alleges.
 
@@ -1309,7 +1288,7 @@ Transcript Snippet: But then, fast forward another week or two, and they were ma
 
 Anchored Artifacts: A-1878.2
 Mentions: N-14, N-209
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Date Kolvet's exchange with Kent and the first public appearance of the screen grabs to establish the gap.
 
@@ -1325,7 +1304,7 @@ Transcript Snippet: Can I 100% categorically say that he leaked them? No. But th
 
 Anchored Artifacts: A-1878.2
 Mentions: N-14, N-209
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Compare with the claim in the earlier clip that TPUSA verified Kent as the source; ask TPUSA to reconcile the two statements.
 
@@ -1341,7 +1320,7 @@ Transcript Snippet: he himself told me about the text chain. Andrew was telling 
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10206, N-10551
+Related Nodes: N-10198, N-10505
 Tags: relevance:core
 Investigative Direction: Obtain any messages or call records between the host and Kolvet that mention the chat; ask the other people Kolvet allegedly told.
 
@@ -1357,7 +1336,7 @@ Transcript Snippet: Turning Point chose to stay entirely mum on the topic of Cha
 
 Anchored Artifacts: 
 Mentions: N-55, N-1
-Related Nodes: N-10056, N-10148
+Related Nodes: N-10053, N-10143
 Tags: relevance:context
 Investigative Direction: Collect TPUSA's public statements on Charlie's Israel views between September 10, 2025 and now and compare with Hammer's public claims.
 
@@ -1373,7 +1352,7 @@ Transcript Snippet: Tucker Carlson told the truth. He was having changing opinio
 
 Anchored Artifacts: 
 Mentions: N-3, N-46, N-22, N-1
-Related Nodes: N-10148, N-10056
+Related Nodes: N-10143, N-10053
 Tags: relevance:core
 Investigative Direction: Gather the on-air statements by each of the three and the corroborating texts and witnesses about Charlie's evolving position.
 
@@ -1389,7 +1368,7 @@ Transcript Snippet: Bret Weinstein has released his messages about Iran.
 
 Anchored Artifacts: 
 Mentions: N-590
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:context
 Investigative Direction: Locate Weinstein's release of messages and check what they say about Charlie Kirk and Iran.
 
@@ -1405,7 +1384,7 @@ Transcript Snippet: which then forced them to confess confess that there was a c
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10163, N-10340, N-10206
+Related Nodes: N-10157, N-10318, N-10198
 Tags: relevance:core
 Investigative Direction: Find the TPUSA or Hammer statements acknowledging the pre-assassination communication, with dates, to confirm the admission and its timing.
 
@@ -1421,7 +1400,7 @@ Transcript Snippet: Charlie began texting his security and Andrew Kolvet, which 
 
 Anchored Artifacts: 
 Mentions: N-1, N-14, N-2, N-3
-Related Nodes: N-10340, N-10611
+Related Nodes: N-10318, N-10558
 Tags: relevance:core
 Investigative Direction: Obtain the texts to security and Kolvet and Erika Kirk's original public denial to compare wording and dates.
 
@@ -1437,7 +1416,7 @@ Transcript Snippet: Josh Hammer was angry he got caught. "I'm exploring legal op
 
 Anchored Artifacts: 
 Mentions: N-55
-Related Nodes: N-10195
+Related Nodes: N-10187
 Supports: C-1775
 Tags: relevance:context
 Investigative Direction: Retrieve Hammer's statement about legal action and any filing that followed.
@@ -1454,7 +1433,7 @@ Transcript Snippet: The rabbi is not ashamed that he lied and said, "Charlie nev
 
 Anchored Artifacts: 
 Mentions: N-164, N-1
-Related Nodes: N-10056, N-10148
+Related Nodes: N-10053, N-10143
 Tags: relevance:core
 Investigative Direction: Identify the rabbi (the host names Rabbi Wolicki a minute later in the show), find the original statement and compare it with the pre-assassination texts.
 
@@ -1470,7 +1449,7 @@ Transcript Snippet: On September 5th, while Charlie was away in Asia, that Rabbi
 
 Anchored Artifacts: 
 Mentions: N-164, N-15, N-14, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Obtain call logs or calendar entries for September 5 and ask Wolicki, Streiff and Kolvet what the call covered.
 
@@ -1502,7 +1481,7 @@ Transcript Snippet: He told me that he was on a massive plane all by himself. I 
 
 Anchored Artifacts: 
 Mentions: N-14, N-3, N-1
-Related Nodes: N-10548, N-10554
+Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the host's notes or messages from the September 10 conversations and the flight manifests for all TPUSA-related flights into Provo that day.
 
@@ -1518,7 +1497,7 @@ Transcript Snippet: The exact word he used was collapsed. He collapsed into Erik
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10548
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Seek airport footage of the Provo tarmac on September 10 and any other account of the meeting between Kolvet and Erika Kirk.
 
@@ -1534,7 +1513,7 @@ Transcript Snippet: On that conversation, I am 10,000% certain, okay? I was also
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
-Related Nodes: N-10548, N-10560
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: The conversation exists only in the host's memory; ask Kolvet to state which plane he took and compare with manifests.
 
@@ -1550,7 +1529,7 @@ Transcript Snippet: Andrew told me his wife asked if he wanted her to then fly t
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10548, N-10560, N-10554
+Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's successive public and private accounts of his travel and the wife's flight, with manifests.
 
@@ -1566,7 +1545,7 @@ Transcript Snippet: I asked them, "Who flew on each plane on that day?" And more
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-15, N-14
-Related Nodes: N-10548, N-10560
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Obtain the recording or notes of the host's interview with Erika Kirk and Streiff for the plane questions.
 
@@ -1582,7 +1561,7 @@ Transcript Snippet: Justin Streiff told me that he he booked the planes. He said
 
 Anchored Artifacts: 
 Mentions: N-15, N-14, N-3
-Related Nodes: N-10548, N-10554
+Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Request the charter booking records Streiff arranged and the passenger lists for each leg.
 
@@ -1598,7 +1577,7 @@ Transcript Snippet: He texts me, says, "She was on the plane." Um, and yeah, his
 
 Anchored Artifacts: A-3128.1
 Mentions: N-15, N-14, N-3
-Related Nodes: N-10548, N-10554
+Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the text message from Streiff to the host with its date and compare it with manifests and his in-person answer.
 
@@ -1614,7 +1593,7 @@ Transcript Snippet: But no, Erika blanked me. She did the Erika thing, the eye. 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3, N-14
-Related Nodes: N-10548, N-10560
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk whether she recalls the wife being present at the tarmac meeting.
 
@@ -1630,7 +1609,7 @@ Transcript Snippet: why would any person wait an hour for the PR guy to land bef
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Related Nodes: N-10560, N-10548
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Establish when Erika Kirk landed in Provo, when she arrived at the hospital, and when Kolvet's plane landed.
 
@@ -1646,7 +1625,7 @@ Transcript Snippet: it is highly likely that Andrew flew by himself on Charlie's
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
-Related Nodes: N-10547, N-10554, N-10548
+Related Nodes: N-10507, N-10502
 Tags: relevance:core
 Investigative Direction: Obtain the manifest and flight track for Charlie's plane (Scottsdale to Provo) and Kolvet's boarding record.
 
@@ -1679,7 +1658,7 @@ Transcript Snippet: he was at home with his wife in Santa Barbara when Charlie w
 
 Anchored Artifacts: A-1881.1
 Mentions: N-14, N-3
-Related Nodes: N-10547, N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Find Kolvet's own public statement of this itinerary and the FAA record of the Santa Barbara departure.
 
@@ -1695,7 +1674,7 @@ Transcript Snippet: These messages that I'm about to show you, they are in Pacif
 
 Anchored Artifacts: A-1881.1
 Mentions: N-3
-Related Nodes: N-10547
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Check the chat export's time-zone metadata to confirm the offset and the corrected times.
 
@@ -1711,7 +1690,7 @@ Transcript Snippet: At 1:02 Utah time, so 39 minutes after Charlie is shot, 12:2
 
 Anchored Artifacts: A-1881.1
 Mentions: N-14, N-1
-Related Nodes: N-10547
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Check the chat export for the message and compare with TPUSA's first public confirmation time.
 
@@ -1727,7 +1706,7 @@ Transcript Snippet: In this group we have Justin Streiff, we have Andrew Kolvet,
 
 Anchored Artifacts: A-1881.1
 Mentions: N-15, N-14, N-493, N-550
-Related Nodes: N-10552
+Related Nodes: N-10506
 Tags: relevance:core
 Investigative Direction: Verify the member list from the chat export.
 
@@ -1743,7 +1722,7 @@ Transcript Snippet: he is then informed uh that CNN wants to have someone on the
 
 Anchored Artifacts: A-1881.1
 Mentions: N-14
-Related Nodes: N-10547
+Related Nodes: N-10507
 Tags: relevance:context
 Investigative Direction: Check the chat export for the CNN request and his reply time.
 
@@ -1759,7 +1738,7 @@ Transcript Snippet: Just a minute later at 1:30 p. m., he is asked, "Can Morgan 
 
 Anchored Artifacts: A-1881.1
 Mentions: N-14
-Related Nodes: N-10547
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Identify who Morgan is and confirm the request and the 3:25 reply in the chat export.
 
@@ -1775,7 +1754,7 @@ Transcript Snippet: Messages, as we know, cannot load when you are on a plane if
 
 Anchored Artifacts: A-1881.1
 Mentions: N-14, N-3
-Related Nodes: N-10547
+Related Nodes: N-10507
 Tags: relevance:context
 Investigative Direction: Ask aviation or messaging experts whether delayed delivery on a Wi-Fi-less aircraft fits, and whether Charlie's plane had Wi-Fi.
 
@@ -1791,7 +1770,7 @@ Transcript Snippet: This time frame from 1:30 Utah time up until 3:25 Utah time 
 
 Anchored Artifacts: A-1881.2
 Mentions: N-14, N-1
-Related Nodes: N-10547, N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Match the chat times with the flight track and manifest of Charlie's plane.
 
@@ -1807,7 +1786,7 @@ Transcript Snippet: that plane is going to leave at 2:31 p. m. from Scottsdale a
 
 Anchored Artifacts: A-1881.2
 Mentions: N-2, N-11, N-217, N-186
-Related Nodes: N-10554, N-10547
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest and FAA track for the Scottsdale to Provo flight.
 
@@ -1823,7 +1802,7 @@ Transcript Snippet: because Andrew's currently on a plane and I don't have it wi
 
 Anchored Artifacts: A-1881.1
 Mentions: N-493, N-550, N-14
-Related Nodes: N-10552, N-10547
+Related Nodes: N-10506, N-10507
 Tags: relevance:core
 Investigative Direction: Ask Aubrey or Marina for the call content; the wording is the host's paraphrase.
 
@@ -1839,7 +1818,7 @@ Transcript Snippet: Essentially, Aubrey, the what 26-year-old, is now responsibl
 
 Anchored Artifacts: A-1881.1
 Mentions: N-550
-Related Nodes: N-10552
+Related Nodes: N-10506
 Tags: relevance:context
 Investigative Direction: Confirm Aubrey's age and role with her or with employment records.
 
@@ -1855,7 +1834,7 @@ Transcript Snippet: make her work insane hours and then fire her. Through weeken
 
 Anchored Artifacts: 
 Mentions: N-550, N-2
-Related Nodes: N-10552
+Related Nodes: N-10506
 Supports: C-5747
 Tags: relevance:context
 Investigative Direction: Ask Aubrey for her termination paperwork and for the driver's account of the conversation.
@@ -1872,7 +1851,7 @@ Transcript Snippet: only to then fire them and not even give them a bonus after 
 
 Anchored Artifacts: 
 Mentions: N-550
-Related Nodes: N-10552
+Related Nodes: N-10506
 Tags: relevance:context
 Investigative Direction: Request payroll or severance records through Aubrey and compare with TPUSA's reported post-assassination revenue.
 
@@ -1888,7 +1867,7 @@ Transcript Snippet: at 2:27 p. m. Mountain time, okay? Remember, this is all adj
 
 Anchored Artifacts: A-1881.1
 Mentions: N-14, N-1
-Related Nodes: N-10547
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the staff email with header timestamp and compare with the first public announcement.
 
@@ -1904,7 +1883,7 @@ Transcript Snippet: At 3:49 Utah time, she's going to ask her boss, who's been u
 
 Anchored Artifacts: A-3127.1
 Mentions: N-550, N-14
-Related Nodes: N-10547, N-10552
+Related Nodes: N-10507, N-10506
 Tags: relevance:core
 Investigative Direction: Check the full chat export for the 3:49 message and its recipient.
 
@@ -1920,7 +1899,7 @@ Transcript Snippet: he then jumps into the chat and he says, "Your call, Andrew.
 
 Anchored Artifacts: A-3127.1
 Mentions: N-15, N-14
-Related Nodes: N-10547
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Confirm the 3:52 message in the chat export and ask Streiff what he knew of Kolvet's whereabouts.
 
@@ -1936,7 +1915,7 @@ Transcript Snippet: Um and there is curiously again going to be no response from
 
 Anchored Artifacts: A-3127.1
 Mentions: N-14
-Related Nodes: N-10547
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Confirm the 4:25 message in the chat export and compare with Kolvet's stated location and flight time.
 
@@ -1952,7 +1931,7 @@ Transcript Snippet: there was a one Egyptian plane that was just transponding on
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10549, N-10253
+Related Nodes: N-10503, N-10239
 Supports: C-2924
 Tags: relevance:core
 Investigative Direction: Match the ADS-B record for the Egyptian aircraft at Provo on September 10 with any TPUSA or airport account.
@@ -1969,7 +1948,7 @@ Transcript Snippet: Satellite phones are what intelligence age- agencies use bec
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10549
+Related Nodes: N-10503
 Tags: relevance:context
 Investigative Direction: Ask aviation communications experts whether in-flight messaging works as the host describes.
 
@@ -1985,7 +1964,7 @@ Transcript Snippet: I remember he calls Erika. I around the same time, I pull ou
 
 Anchored Artifacts: A-1882.1
 Mentions: N-159, N-190, N-2, N-17
-Related Nodes: N-10193
+Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call log for the minutes after the shot and the full Neff interview.
 
@@ -2001,7 +1980,7 @@ Transcript Snippet: Justin Streiff says, "You you may need to wait until AK is o
 
 Anchored Artifacts: A-3127.1
 Mentions: N-15, N-14
-Related Nodes: N-10547
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Confirm the message and its timestamp in the chat export; ask Streiff who AK was on the ground from.
 
@@ -2017,7 +1996,7 @@ Transcript Snippet: Called the Yrefy plane cuz that's that's who Erika told me w
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10093, N-10554
+Related Nodes: N-10089, N-10507
 Tags: relevance:core
 Investigative Direction: Identify the tail number of the Yrefy-sponsored plane and the booking company; compare with the host's interview notes.
 
@@ -2033,7 +2012,7 @@ Transcript Snippet: Duncan Aviation is not where you fly into. Usually you you f
 
 Anchored Artifacts: 
 Mentions: N-260
-Related Nodes: N-260, N-10549
+Related Nodes: N-260, N-10503
 Tags: relevance:context
 Investigative Direction: Check Duncan Aviation's Provo services and who arrived there on September 10.
 
@@ -2049,7 +2028,7 @@ Transcript Snippet: it lands in Provo and then right away that Egyptian plane st
 
 Anchored Artifacts: A-1881.2
 Mentions: 
-Related Nodes: N-10549, N-10093
+Related Nodes: N-10503, N-10089
 Tags: relevance:core
 Investigative Direction: Overlay the ADS-B timestamps for the Yrefy plane's landings and the Egyptian aircraft's transponding.
 
@@ -2065,7 +2044,7 @@ Transcript Snippet: And yes, this plane is somehow associated to Turning Point U
 
 Anchored Artifacts: A-1881.2
 Mentions: 
-Related Nodes: N-10093, N-10554
+Related Nodes: N-10089, N-10507
 Tags: relevance:context
 Investigative Direction: Identify the plane's owner, the sponsor's relationship to TPUSA and the full September 10 flight log.
 
@@ -2081,7 +2060,7 @@ Transcript Snippet: then work like 7-hour days, not sleep, only to then not get 
 
 Anchored Artifacts: 
 Mentions: N-550, N-493
-Related Nodes: N-10552
+Related Nodes: N-10506
 Tags: relevance:context
 Investigative Direction: Obtain Aubrey's pay and schedule records and the account of what Marina said to the driver.
 
@@ -2097,7 +2076,7 @@ Transcript Snippet: and she said she never did vent to the Uber driver. Uber dri
 
 Anchored Artifacts: 
 Mentions: N-550
-Related Nodes: N-10552
+Related Nodes: N-10506
 Tags: relevance:context
 Investigative Direction: Locate the Uber driver and any statement from him; ask Aubrey for her account.
 
@@ -2146,7 +2125,7 @@ Transcript Snippet: Okay, yes, but the head of the CIA is in it. Okay, you got t
 
 Anchored Artifacts: A-1883.1
 Mentions: N-2, N-268
-Related Nodes: N-10082, N-10403
+Related Nodes: N-10079, N-10376
 Tags: relevance:core
 Investigative Direction: Identify the documentary, its producer, who appears in it and any CIA statement on its production.
 
@@ -2162,7 +2141,7 @@ Transcript Snippet: She's specifically referring to her mother's business model.
 
 Anchored Artifacts: A-1883.1
 Mentions: N-2, N-3
-Related Nodes: N-11114
+Related Nodes: N-11032
 Supports: C-4630
 Tags: relevance:core
 Investigative Direction: Find the source video, its date and sponsor, and Erika's mother's company filings on EMP work.
@@ -2179,7 +2158,7 @@ Transcript Snippet: I told you the truth based off of my discussions with Charli
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-209
-Related Nodes: N-10148, N-10056
+Related Nodes: N-10143, N-10053
 Tags: relevance:core
 Investigative Direction: Seek independent corroboration of the host's conversations with Charlie, such as messages or witnesses.
 
@@ -2195,7 +2174,7 @@ Transcript Snippet: in response to Andrew Kolvet who said, "Erika didn't want ev
 
 Anchored Artifacts: A-1885.1
 Mentions: N-14, N-2, N-3
-Related Nodes: N-11296
+Related Nodes: N-11212
 Tags: relevance:context
 Investigative Direction: Locate Kolvet's statement and compare with Erika's public record of seeking media roles.
 
@@ -2211,7 +2190,7 @@ Transcript Snippet: A woman who applied for numerous reality shows can never cla
 
 Anchored Artifacts: A-1885.2
 Mentions: N-2, N-3
-Related Nodes: N-11296
+Related Nodes: N-11212
 Supports: C-6487
 Tags: relevance:context
 Investigative Direction: Find casting records or application evidence for the reality shows the commenter refers to.
@@ -2228,7 +2207,7 @@ Transcript Snippet: Not all of us could be like Erika who like was fine the next
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10611
+Related Nodes: N-10558
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's own statement saying she felt no fear and its date.
 
@@ -2244,7 +2223,7 @@ Transcript Snippet: I did my first event in a really long time, you know, I had 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10956
+Related Nodes: N-10877
 Tags: relevance:tangential
 Investigative Direction: Check the event listing and date.
 
@@ -2260,7 +2239,7 @@ Transcript Snippet: I never got classified information from Joe Kent. Like I sai
 
 Anchored Artifacts: 
 Mentions: N-3, N-209, N-14
-Related Nodes: N-10551, N-10206
+Related Nodes: N-10505, N-10198
 Tags: relevance:core
 Investigative Direction: The host's own communications records would be the check; ask Kent and Kolvet to confirm the sequence.
 
@@ -2276,7 +2255,7 @@ Transcript Snippet: It is sad to see Bongino become a little man trying to link 
 
 Anchored Artifacts: 
 Mentions: N-378, N-3, N-209
-Related Nodes: N-10551
+Related Nodes: N-10505
 Tags: relevance:context
 Investigative Direction: Find Bongino's on-air or posted remarks tying the host to Kent.
 
@@ -2292,7 +2271,7 @@ Transcript Snippet: When they were arguing with him the night before, knew how s
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10163, N-10340, N-10056
+Related Nodes: N-10157, N-10318, N-10053
 Tags: relevance:core
 Investigative Direction: Compare the pre-assassination group-chat exchange with later public statements by its participants.
 

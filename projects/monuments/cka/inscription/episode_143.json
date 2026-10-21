@@ -496,11 +496,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10808",
-      "ref": "N-10808",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10732",
+      "ref": "N-10732",
       "name": "Terryl SD Card-to-Laptop Transfer Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigable discrepancy: SD card from camera behind Charlie's head was removed, pocketed, and (per host observation) inserted into a laptop within ~10 minutes of the shooting.",
       "related_artifacts": [
         "A-2295.1"
@@ -516,14 +516,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-261"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10734"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10809",
-      "ref": "N-10809",
+      "@type": "Event",
+      "@id": "N-10733",
+      "ref": "N-10733",
       "name": "Yellow Camera Floor Position Event",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Persistent investigable discrepancy: the audience-facing yellow camera fell to the ground post-event and was stepped over rather than retrieved, despite the stated narrative of securing all SD cards.",
       "related_artifacts": [
         "A-2295.2",
@@ -541,7 +543,12 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-261"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10734"
     },
     {
       "@type": "Person",
@@ -654,11 +661,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The organization the host criticizes.",
       "related_artifacts": [],
       "related_claims": [
@@ -675,14 +682,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for the new identification claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -698,14 +707,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@type": "Event",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Reused for the card rationale claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -716,14 +726,19 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10151",
-      "ref": "N-10151",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10146",
+      "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -734,14 +749,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -751,14 +767,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -769,14 +786,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the Glenn Beck claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -787,14 +805,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10544",
-      "ref": "N-10544",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10499",
+      "ref": "N-10499",
       "name": "Netanyahu Death/Injury Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -804,14 +823,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -822,14 +842,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10661",
-      "ref": "N-10661",
+      "@type": "Topic",
+      "@id": "N-10603",
+      "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -839,14 +860,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10741",
-      "ref": "N-10741",
+      "@type": "Topic",
+      "@id": "N-10673",
+      "ref": "N-10673",
       "name": "Sandy Hook Comparison Rhetoric",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -856,14 +878,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10795",
-      "ref": "N-10795",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10719",
+      "ref": "N-10719",
       "name": "Wilson's Promised Release of \"Never-Before-Seen Messages\"",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -873,14 +896,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10799",
-      "ref": "N-10799",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10723",
+      "ref": "N-10723",
       "name": "Back-Camera Footage Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -891,14 +915,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10810",
-      "ref": "N-10810",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10734",
+      "ref": "N-10734",
       "name": "SD Card Chain-of-Custody Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -912,14 +937,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -929,14 +955,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11065",
-      "ref": "N-11065",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10983",
+      "ref": "N-10983",
       "name": "Preliminary Hearing Influencer Invitation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -947,14 +975,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11068",
-      "ref": "N-11068",
+      "@type": "Topic",
+      "@id": "N-10986",
+      "ref": "N-10986",
       "name": "Utah Rule 1102 Hearsay Standard",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -966,14 +996,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11091",
-      "ref": "N-11091",
+      "@type": "Thing",
+      "@id": "N-11009",
+      "ref": "N-11009",
       "name": "Wear Forbidden",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "The parody account.",
       "related_artifacts": [],
       "related_claims": [
@@ -983,7 +1015,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
       "@type": "Person",
@@ -1386,8 +1419,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11146",
-      "ref": "N-11146",
+      "@id": "N-11063",
+      "ref": "N-11063",
       "name": "TPUSA Left-Coordination Narrative",
       "type": "topic",
       "description": "The host's allegation that TPUSA and affiliates are pushing the claim that she works in coordination with the left, citing Hasan Piker's praise, a Blake Neff tweet and Brandi Zadrozny's article.",
@@ -1403,12 +1436,13 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11147",
-      "ref": "N-11147",
+      "@id": "N-11064",
+      "ref": "N-11064",
       "name": "January 6 Federal Coordination Claim",
       "type": "topic",
       "description": "The host's assertion that January 6th was an event allegedly coordinated by federal actors to cause a left-right war, offered as a parallel to her view of the Kirk case.",
@@ -1422,7 +1456,27 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12322"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -1436,7 +1490,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-10808"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:08:42",
@@ -1456,7 +1510,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-10808"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:09:43",
@@ -1477,7 +1531,7 @@
         "A-2300.1"
       ],
       "related_nodes": [
-        "N-10809"
+        "N-10733"
       ],
       "tags": [],
       "claim_timestamp": "00:14:47",
@@ -1498,7 +1552,7 @@
         "A-2300.1"
       ],
       "related_nodes": [
-        "N-10809"
+        "N-10733"
       ],
       "tags": [],
       "claim_timestamp": "00:13:38",
@@ -1516,7 +1570,9 @@
       "anchored_artifacts": [
         "A-2296.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11360"
+      ],
       "tags": [],
       "claim_timestamp": "00:32:32",
       "investigative_direction": "Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.",
@@ -1627,7 +1683,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-10808"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:10:57",
@@ -1666,7 +1722,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11146"
+        "N-11063"
       ],
       "tags": [
         "relevance:context"
@@ -1688,7 +1744,7 @@
       "claim": "The host says that in the previous episode she demonstrated that Terryl lied to her about not knowing how to send a clip and about a fear that Google would hack him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -1713,7 +1769,7 @@
       "claim": "The host says that when she asked why the footage was not simply released to clear his name, the person she was speaking with said it was in the purview of law enforcement, and that she finds it difficult to imagine accepting that as a reason not to release or at least leak it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -1754,7 +1810,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-10808"
+        "N-10732"
       ],
       "tags": [
         "relevance:core"
@@ -1777,7 +1833,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-10808"
+        "N-10732"
       ],
       "tags": [
         "relevance:core"
@@ -1803,7 +1859,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-10808"
+        "N-10732"
       ],
       "tags": [
         "relevance:core"
@@ -1829,7 +1885,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-10808"
+        "N-10732"
       ],
       "tags": [
         "relevance:core"
@@ -1853,7 +1909,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-10808"
+        "N-10732"
       ],
       "tags": [
         "relevance:core"
@@ -1879,8 +1935,8 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-10100",
-        "N-10810"
+        "N-10096",
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -1906,7 +1962,7 @@
       "claim": "The host says they were told there was nothing special about the camera behind Charlie's head, and she argues there clearly was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10100"
+        "N-10096"
       ],
       "tags": [
         "relevance:core"
@@ -1929,8 +1985,8 @@
         "A-2890.1"
       ],
       "related_nodes": [
-        "N-10809",
-        "N-11068"
+        "N-10733",
+        "N-10986"
       ],
       "tags": [
         "relevance:core"
@@ -1952,7 +2008,7 @@
         "A-2295.3"
       ],
       "related_nodes": [
-        "N-10809"
+        "N-10733"
       ],
       "tags": [
         "relevance:core"
@@ -1977,7 +2033,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11146"
+        "N-11063"
       ],
       "tags": [
         "relevance:context"
@@ -1999,7 +2055,7 @@
         "A-2891.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2023,7 +2079,7 @@
         "A-2891.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2044,7 +2100,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11065"
+        "N-10983"
       ],
       "tags": [
         "relevance:context"
@@ -2088,7 +2144,7 @@
         "A-2889.1"
       ],
       "related_nodes": [
-        "N-11068"
+        "N-10986"
       ],
       "tags": [
         "relevance:context"
@@ -2135,8 +2191,8 @@
       "claim": "The host says preliminary hearings are not about discovering guilt or innocence but about arguing whether the filing itself is defective, and that Neff is banking on the public not knowing how legal filings work.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11068",
-        "N-11065"
+        "N-10986",
+        "N-10983"
       ],
       "tags": [
         "relevance:context"
@@ -2157,7 +2213,7 @@
       "claim": "The host says Blake Lively initially sued Justin Baldoni with 13 causes of action and the court decided that 10 of them were inactionable and dismissed them before trial.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -2179,7 +2235,7 @@
       "claim": "The host says Brian Harpole filed a lawsuit carrying a long series of claims and that she filed a dismissal motion because some of the claims are ridiculous.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:context"
@@ -2200,8 +2256,8 @@
       "claim": "The host says one of the things Harpole is suing her over is her saying she found his interview with Shawn Ryan unconvincing, which she argues is protected opinion.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651",
-        "N-10862"
+        "N-10593",
+        "N-10783"
       ],
       "tags": [
         "relevance:context"
@@ -2223,7 +2279,7 @@
       "claim": "The host says her dismissal filing in the Brigitte Macron matter argues that Macron is not supposed to be in that court, noting that Macron is in France but suing in Delaware while she is in Tennessee.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"
@@ -2289,7 +2345,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11146"
+        "N-11063"
       ],
       "tags": [
         "relevance:context"
@@ -2494,7 +2550,7 @@
         "A-2296.1"
       ],
       "related_nodes": [
-        "N-10151"
+        "N-10146"
       ],
       "tags": [
         "relevance:core"
@@ -2520,7 +2576,7 @@
         "A-2296.1"
       ],
       "related_nodes": [
-        "N-10151"
+        "N-10146"
       ],
       "tags": [
         "relevance:core"
@@ -2569,7 +2625,7 @@
         "A-2297.1"
       ],
       "related_nodes": [
-        "N-11146"
+        "N-11063"
       ],
       "tags": [
         "relevance:context"
@@ -2592,7 +2648,7 @@
         "A-2888.1"
       ],
       "related_nodes": [
-        "N-11146"
+        "N-11063"
       ],
       "tags": [
         "relevance:context"
@@ -2615,7 +2671,7 @@
         "A-2888.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -2636,7 +2692,7 @@
       "claim": "The host says the Trump administration, with Vance and Kash Patel, was running on the Epstein files, something her audience cared about.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -2679,7 +2735,7 @@
       "claim": "The host says the left took the bait on an earlier event that could allegedly have been coordinated by the Feds to cause a left-right war, and tells Hasan to look into what actually happened on January 6th.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11147"
+        "N-11064"
       ],
       "tags": [
         "relevance:tangential"
@@ -2700,7 +2756,7 @@
       "claim": "The host says that as more has come out about January 6th, people were wrongly arrested and people were encouraged to go into the Capitol that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11147"
+        "N-11064"
       ],
       "tags": [
         "relevance:tangential"
@@ -2720,7 +2776,7 @@
       "claim": "The host says a very powerful minority who does not care about left or right is seeking to seize power from citizens by allowing something terrible to take place and then saying what must be passed, as with 9/11.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11147"
+        "N-11064"
       ],
       "tags": [
         "relevance:tangential"
@@ -2797,7 +2853,7 @@
         "A-2892.1"
       ],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2818,7 +2874,7 @@
       "claim": "The host says Farnsworth had already sent a Google link to the SBI and had already sent that Google link over 8 days earlier, which she says undercuts his claims that he could not send a big file and feared Google would hack him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2845,7 +2901,7 @@
         "A-2892.2"
       ],
       "related_nodes": [
-        "N-10799"
+        "N-10723"
       ],
       "tags": [
         "relevance:core"
@@ -2868,7 +2924,7 @@
         "A-2890.1"
       ],
       "related_nodes": [
-        "N-10799"
+        "N-10723"
       ],
       "tags": [
         "relevance:core"
@@ -2948,7 +3004,7 @@
       "claim": "The host says the stop anti-Candacism bug, which she says was featured in the Wear Forbidden Debate Trix video, can be bought to support the show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11091"
+        "N-11009"
       ],
       "tags": [
         "relevance:tangential"
@@ -2968,7 +3024,7 @@
       "claim": "Replying to a comment, the host says she does not think Benjamin Netanyahu is dead and thinks he was probably hiding and being a coward and using AI when events were happening.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3009,7 +3065,7 @@
       "claim": "The host says the world is much more up to date on the details of the Charlie Kirk case than it ever was about Sandy Hook, which she says people did not follow globally.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:tangential"
@@ -3032,7 +3088,7 @@
         "A-2892.3"
       ],
       "related_nodes": [
-        "N-10795"
+        "N-10719"
       ],
       "tags": [
         "relevance:context"

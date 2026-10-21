@@ -207,7 +207,7 @@
           "related_nodes": [
             "N-250",
             "N-251",
-            "N-10248"
+            "N-10234"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -237,8 +237,8 @@
           "related_nodes": [
             "N-253",
             "N-256",
-            "N-10248",
-            "N-10249"
+            "N-10234",
+            "N-10235"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -329,7 +329,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10250"
+            "N-10236"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -357,7 +357,7 @@
           ],
           "related_nodes": [
             "N-258",
-            "N-10250"
+            "N-10236"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -463,7 +463,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10251"
+            "N-10237"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -599,7 +599,7 @@
       "related_nodes": [
         "N-251",
         "N-252",
-        "N-10248"
+        "N-10234"
       ]
     },
     {
@@ -693,7 +693,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ]
     },
     {
@@ -760,7 +760,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-250",
-        "N-10248"
+        "N-10234"
       ]
     },
     {
@@ -827,7 +827,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10250"
+        "N-10236"
       ]
     },
     {
@@ -878,11 +878,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10248",
-      "ref": "N-10248",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10234",
+      "ref": "N-10234",
       "name": "Calvary Chapel Network Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation into whether multiple Calvary Chapel congregations and their leadership are participating in coordinated financial exploitation, tithing redirection, and intelligence-linked activity. Triggered by Brett Cooper segment, viewer email, and Courtney Love text messages.",
       "related_artifacts": [
         "A-1399.2",
@@ -904,14 +904,15 @@
       "related_nodes": [
         "N-250",
         "N-251"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10249",
-      "ref": "N-10249",
+      "@type": "Topic",
+      "@id": "N-10235",
+      "ref": "N-10235",
       "name": "\"Mormon Mafia\" Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: alleged coordinating entity above Hollywood and \"Zionist Jews\" identified in Courtney Love text messages of January 2025. Single-source, unverified.",
       "related_artifacts": [
         "A-1406.1"
@@ -926,14 +927,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-253"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10250",
-      "ref": "N-10250",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10236",
+      "ref": "N-10236",
       "name": "Charlie Kirk Event – Maroon Shirt Individual Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target. Photo and clip evidence presented in this episode identify an individual in a maroon shirt who was partially concealed in shrubbery, did not duck during the shooting, and calmly departed. Samir is alleged to know the individual but declined to provide contact.",
       "related_artifacts": [
         "A-1409.1",
@@ -954,14 +956,16 @@
         "N-258",
         "N-246",
         "N-1"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10251",
-      "ref": "N-10251",
+      "@type": "Topic",
+      "@id": "N-10237",
+      "ref": "N-10237",
       "name": "TPUSA Faith-Angle Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigation target: pattern in which TPUSA-associated reporting/disputes focus on matters of religious affiliation (Catholicism, Calvary Chapel, faith-based leadership).",
       "related_artifacts": [
         "A-1414.1"
@@ -977,14 +981,16 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10201"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10252",
-      "ref": "N-10252",
+      "@type": "Topic",
+      "@id": "N-10238",
+      "ref": "N-10238",
       "name": "Potter's Field Hostile Takeover Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Allegation from a former insider that the Potter's Field scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).",
       "related_artifacts": [],
       "related_claims": [],
@@ -994,8 +1000,10 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10248"
-      ]
+        "N-10234"
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10233"
     },
     {
       "@type": "Person",
@@ -1212,11 +1220,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10001",
       "ref": "N-10001",
       "name": "MK Ultra",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1228,7 +1236,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1250,11 +1259,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10116",
-      "ref": "N-10116",
+      "@type": "Topic",
+      "@id": "N-10112",
+      "ref": "N-10112",
       "name": "MK Ultra Continuity Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1265,7 +1274,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10001"
     },
     {
       "@type": "Person",
@@ -1286,8 +1297,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11275",
-      "ref": "N-11275",
+      "@id": "N-11191",
+      "ref": "N-11191",
       "name": "Hostile Takeover Methods Theory",
       "type": "topic",
       "description": "The host's relay of Courtney Love's thesis that powerful people and companies are controlled through psychosis, lawfare, reputational attacks and untimely deaths, applied by the host to several celebrities and to Charlie Kirk.",
@@ -1304,7 +1315,8 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1331,8 +1343,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11276",
-      "ref": "N-11276",
+      "@id": "N-11192",
+      "ref": "N-11192",
       "name": "Britney Spears Conservatorship Lou Taylor Role",
       "type": "topic",
       "description": "The host's and Brett Cooper's account of Lou Taylor's role in setting up the 2008 Britney Spears conservatorship, the loans, fees and church tithing around it.",
@@ -1353,7 +1365,8 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1373,11 +1386,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10247",
-      "ref": "N-10247",
+      "@type": "Topic",
+      "@id": "N-10233",
+      "ref": "N-10233",
       "name": "Potter's Field Ministries Financial Fraud Allegations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1388,7 +1401,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1443,11 +1457,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@type": "Topic",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1459,14 +1473,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11117",
-      "ref": "N-11117",
+      "@type": "Topic",
+      "@id": "N-11035",
+      "ref": "N-11035",
       "name": "Kanye Condemnation Pressure and Contract Cut",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1476,7 +1491,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1549,11 +1565,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10094",
-      "ref": "N-10094",
+      "@type": "Organization",
+      "@id": "N-10090",
+      "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1565,14 +1581,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10465",
-      "ref": "N-10465",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10434",
+      "ref": "N-10434",
       "name": "Calvary Chapel Church CIA Connection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1584,14 +1602,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10234"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1603,7 +1623,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1623,11 +1645,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10137",
-      "ref": "N-10137",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10132",
+      "ref": "N-10132",
       "name": "Suspicious Bush Theory (Range Day Bro)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1641,14 +1663,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10311",
-      "ref": "N-10311",
+      "@type": "Topic",
+      "@id": "N-10293",
+      "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1658,14 +1681,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10180",
-      "ref": "N-10180",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10172",
+      "ref": "N-10172",
       "name": "Bullet Trajectory and Caliber Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1675,14 +1699,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10164",
-      "ref": "N-10164",
-      "name": "Charlie Kirk Catholic Trajectory Verification",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10100",
+      "ref": "N-10100",
+      "name": "Catholic Conversion Rumor",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1692,14 +1717,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11223",
-      "ref": "N-11223",
+      "@type": "Organization",
+      "@id": "N-11139",
+      "ref": "N-11139",
       "name": "Sackler Family and Purdue Pharma",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1709,7 +1735,28 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2860"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1761,7 +1808,7 @@
         "A-1403.1"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [],
       "claim_timestamp": "00:11:07",
@@ -1859,7 +1906,7 @@
         "A-1405.1"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [],
       "claim_timestamp": "00:14:40",
@@ -1879,7 +1926,7 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ],
       "tags": [],
       "claim_timestamp": "00:21:25",
@@ -1915,8 +1962,8 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-10249",
-        "N-10248"
+        "N-10235",
+        "N-10234"
       ],
       "tags": [],
       "claim_timestamp": "00:27:26",
@@ -1935,7 +1982,7 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
@@ -1994,7 +2041,7 @@
         "A-1411.1"
       ],
       "related_nodes": [
-        "N-10250"
+        "N-10236"
       ],
       "tags": [],
       "claim_timestamp": "00:41:29",
@@ -2013,7 +2060,7 @@
         "A-1410.1"
       ],
       "related_nodes": [
-        "N-10250"
+        "N-10236"
       ],
       "tags": [],
       "claim_timestamp": "00:44:05",
@@ -2101,7 +2148,7 @@
         "A-1414.1"
       ],
       "related_nodes": [
-        "N-10251"
+        "N-10237"
       ],
       "tags": [],
       "claim_timestamp": "00:37:29",
@@ -2141,7 +2188,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10001",
-        "N-10116"
+        "N-10112"
       ],
       "tags": [
         "relevance:tangential"
@@ -2162,7 +2209,7 @@
       "claim": "The host says it was very weird that Harvey Weinstein was taken out via the Me Too movement and that she had posited that the movement may have been about hostile takeovers of companies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11275"
+        "N-11191"
       ],
       "tags": [
         "relevance:tangential"
@@ -2183,8 +2230,8 @@
       "claim": "The host says a flurry of emails told her to stay the course because Calvary Chapel was also involved in Britney Spears's conservatorship.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11276",
-        "N-10248"
+        "N-11192",
+        "N-10234"
       ],
       "tags": [
         "relevance:context"
@@ -2205,7 +2252,7 @@
       "claim": "The host says it has been alleged, and heavily insinuated even by Britney Spears herself, that Lou Taylor was very much involved in and pushed for the conservatorship.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11276"
+        "N-11192"
       ],
       "tags": [
         "relevance:context"
@@ -2229,7 +2276,7 @@
         "A-1399.1"
       ],
       "related_nodes": [
-        "N-11276"
+        "N-11192"
       ],
       "tags": [
         "relevance:context"
@@ -2254,7 +2301,7 @@
         "A-1399.1"
       ],
       "related_nodes": [
-        "N-11276"
+        "N-11192"
       ],
       "tags": [
         "relevance:context"
@@ -2279,7 +2326,7 @@
         "A-1399.1"
       ],
       "related_nodes": [
-        "N-11276"
+        "N-11192"
       ],
       "tags": [
         "relevance:context"
@@ -2303,7 +2350,7 @@
         "A-1399.1"
       ],
       "related_nodes": [
-        "N-11276"
+        "N-11192"
       ],
       "tags": [
         "relevance:context"
@@ -2326,7 +2373,7 @@
       "claim": "The host recaps that Rob McCoy stepped in as CFO of Potter's Field, that there are articles about it, and that the organization essentially disappeared overnight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10247"
+        "N-10233"
       ],
       "tags": [
         "relevance:context"
@@ -2350,8 +2397,8 @@
       "claim": "The host says a person involved with the Potter's Field scandal told her it was a healthy ministry until Rob McCoy got involved, intentionally scandalized it and staged a hostile takeover with other board members. She says it is alleged and the emails and backup need review before she presents it as fact.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10252",
-        "N-10247"
+        "N-10238",
+        "N-10233"
       ],
       "tags": [
         "relevance:context"
@@ -2372,8 +2419,8 @@
       "claim": "The host says two other people who worked with Lou Taylor contacted her and described a system where clients had to give 10 percent to the church to be blessed and were directed to invest in other companies without necessarily being told that they were involved in those companies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11276",
-        "N-10248"
+        "N-11192",
+        "N-10234"
       ],
       "tags": [
         "relevance:context"
@@ -2396,7 +2443,7 @@
         "A-1405.1"
       ],
       "related_nodes": [
-        "N-11276"
+        "N-11192"
       ],
       "tags": [
         "relevance:context"
@@ -2421,7 +2468,7 @@
         "A-1405.1"
       ],
       "related_nodes": [
-        "N-11276"
+        "N-11192"
       ],
       "tags": [
         "relevance:context"
@@ -2446,7 +2493,7 @@
         "A-1405.1"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [
         "relevance:context"
@@ -2470,8 +2517,8 @@
         "A-1405.1"
       ],
       "related_nodes": [
-        "N-10248",
-        "N-10246"
+        "N-10234",
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2494,7 +2541,7 @@
       "claim": "The host says Rob McCoy has been pastoring the Thousand Oaks church for a very long time up until July of this year, and agrees Lou Taylor likely knows him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [
         "relevance:context"
@@ -2516,7 +2563,7 @@
       "claim": "The host says that in her house, while Adidas and Gap were cancelling him, Kanye West asked her whether she was an OP, which she later understood as asking if she was part of a psychological operation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11117"
+        "N-11035"
       ],
       "tags": [
         "relevance:context"
@@ -2539,7 +2586,7 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-11275"
+        "N-11191"
       ],
       "tags": [
         "relevance:context"
@@ -2560,8 +2607,8 @@
       "claim": "The host says Britney Spears was put on a psych 5150 hold and that Kanye West, who she says said he was just reading a Bible, was put in a hospital on a psych 5150 hold, with his then-wife Kim Kardashian, she guesses, fine with it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11275",
-        "N-10116"
+        "N-11191",
+        "N-10112"
       ],
       "tags": [
         "relevance:tangential"
@@ -2587,7 +2634,7 @@
       "claim": "The host says another way critics are controlled is lawfare that bankrupts them, and that what is happening to Elijah Schaffer is relevant to this.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11275"
+        "N-11191"
       ],
       "tags": [
         "relevance:context"
@@ -2608,7 +2655,7 @@
       "claim": "The host says Michael Jackson, despite beating Sony, owned his own catalog and almost owned the Beatles catalog until he was taken down, and died broke with the people he fought owning his catalog.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11275"
+        "N-11191"
       ],
       "tags": [
         "relevance:tangential"
@@ -2649,7 +2696,7 @@
       "claim": "The host says the last way to take over a company is an untimely death, and lists Kurt Cobain, Prince, Michael Jackson, Charlie Kirk and Bob Bryar (transcribed Brier).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11275"
+        "N-11191"
       ],
       "tags": [
         "relevance:core"
@@ -2674,7 +2721,7 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-11276"
+        "N-11192"
       ],
       "tags": [
         "relevance:context"
@@ -2699,8 +2746,8 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-10249",
-        "N-10094"
+        "N-10235",
+        "N-10090"
       ],
       "tags": [
         "relevance:tangential"
@@ -2724,8 +2771,8 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-10249",
-        "N-10094"
+        "N-10235",
+        "N-10090"
       ],
       "tags": [
         "relevance:tangential"
@@ -2747,8 +2794,8 @@
       "claim": "The host says the church where Lou Taylor's husband is a pastor has a background that involves the CIA, relating it to the Haight-Ashbury hippie story.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10465",
-        "N-10248"
+        "N-10434",
+        "N-10234"
       ],
       "tags": [
         "relevance:context"
@@ -2770,7 +2817,7 @@
       "claim": "The host says the hippie movement was not organic or real but a psychological operation, calling it a fact, and that it became a way to attack and divide the Christian faith.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10465",
+        "N-10434",
         "N-10001"
       ],
       "tags": [
@@ -2791,8 +2838,8 @@
       "claim": "The host says a lot of people heading these churches have military ties, high-up familial military ties.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10248",
-        "N-10465"
+        "N-10234",
+        "N-10434"
       ],
       "tags": [
         "relevance:context"
@@ -2812,7 +2859,7 @@
       "claim": "The host says Rob McCoy is trying to launder the reputation of somebody who spent years in prison for abusing children. She does not name the person in this passage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2833,8 +2880,9 @@
       "claim": "The host recalls a person at Charlie Kirk's memorial remarking that it was strange everything was about faith, and says Turning Point USA was originally remarketing capitalism and shifted quickly to faith.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10251",
-        "N-10000"
+        "N-10237",
+        "N-10000",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2893,7 +2941,7 @@
       "claim": "The host says eyewitnesses said Butch Hibbs was talking to the bush, but that video only shows him near the bush by himself and she has no evidence that he was talking to it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10137"
+        "N-10132"
       ],
       "tags": [
         "relevance:core"
@@ -2916,7 +2964,7 @@
         "A-3109.2"
       ],
       "related_nodes": [
-        "N-10250"
+        "N-10236"
       ],
       "tags": [
         "relevance:core"
@@ -2936,7 +2984,7 @@
       "claim": "The host says many viewers emailed that when the shooting happens, people on the side are suddenly directing others to go, go, go, almost as if protecting the bush; she says it might not be the case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10137"
+        "N-10132"
       ],
       "tags": [
         "relevance:core"
@@ -2958,7 +3006,7 @@
         "A-3109.1"
       ],
       "related_nodes": [
-        "N-10137"
+        "N-10132"
       ],
       "tags": [
         "relevance:core"
@@ -2978,8 +3026,8 @@
       "claim": "The host says she knows police were looking for someone in a maroon shirt immediately after the shooting because someone shared text messages with her that she did not publish to protect the source.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10250",
-        "N-10311"
+        "N-10236",
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2999,7 +3047,7 @@
       "claim": "The host says Samir, who she describes as Indian, supplied a lot of footage of that day and immediately gave it to the media, and that he was not a Charlie Kirk fan.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10250"
+        "N-10236"
       ],
       "tags": [
         "relevance:core"
@@ -3022,7 +3070,7 @@
         "A-3108.1"
       ],
       "related_nodes": [
-        "N-10250"
+        "N-10236"
       ],
       "tags": [
         "relevance:core",
@@ -3045,7 +3093,7 @@
         "A-3108.2"
       ],
       "related_nodes": [
-        "N-10250"
+        "N-10236"
       ],
       "tags": [
         "relevance:core",
@@ -3068,8 +3116,8 @@
         "A-1409.2"
       ],
       "related_nodes": [
-        "N-10137",
-        "N-10250"
+        "N-10132",
+        "N-10236"
       ],
       "tags": [
         "relevance:core"
@@ -3090,7 +3138,7 @@
       "claim": "The host says she received many videos of Butch Hibbs after the shooting going around the area where it happened, and questions with what clearance when crime scene tape was up but some people were allowed in.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10137"
+        "N-10132"
       ],
       "tags": [
         "relevance:core"
@@ -3116,7 +3164,7 @@
         "A-1411.1"
       ],
       "related_nodes": [
-        "N-10180"
+        "N-10172"
       ],
       "tags": [
         "relevance:core"
@@ -3137,7 +3185,7 @@
       "claim": "The host reads a viewer comment that there are seven Calvary Chapel churches near Huntington Beach, California, which the commenter calls the epicenter of the Family International movement, also known as the Children of God.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [
         "relevance:tangential"
@@ -3175,7 +3223,7 @@
       "claim": "The host says much of what she found out in this investigation came from Mormons willing to go on the ground to ask questions and get information and phone numbers, and that it would not have been possible without young Mormon students.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10094"
+        "N-10090"
       ],
       "tags": [
         "relevance:context"
@@ -3195,7 +3243,7 @@
       "claim": "The host says someone emailed that because she discussed Calvary Chapel's abuse history they would no longer support the show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -3215,8 +3263,8 @@
       "claim": "The host says many Turning Point USA lies she debunked concern faith, such as that Charlie Kirk was not allowed to be Catholic or interested in Catholicism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10251",
-        "N-10164",
+        "N-10237",
+        "N-10100",
         "N-10000"
       ],
       "tags": [
@@ -3238,7 +3286,7 @@
       "claim": "The host says the faith-focused lies from Turning Point USA were unnecessary, which she recognized as a clue that told her to hyperfocus on the faith angle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10251",
+        "N-10237",
         "N-10000"
       ],
       "tags": [
@@ -3281,7 +3329,7 @@
       "claim": "A viewer comment the host reads says the fentanyl crisis is by design, allegedly, that US troops guarded the poppy fields in Afghanistan, then an opioid crisis came, and the Sackler family seems to be the only ones who benefited.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11223"
+        "N-11139"
       ],
       "tags": [
         "relevance:tangential"

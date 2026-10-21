@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: bf83885e7ed25e55d64fb92daad61c1729233894484548da93484ca3b9d1514e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-894, N-895, N-11301, N-11302, N-11303
-  - Hole-minted Nodes (reintro-ep135): N-10790
+  - Tip-minted Nodes (supplement_2026-10e): N-894, N-895, N-11217, N-11218, N-11219
+  - Hole-minted Nodes (reintro-ep135): N-10714
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-11593–C-11677
-  - New Nodes Introduced: N-10766, N-10767
-  - Reused Nodes Appearing: N-1, N-2, N-10768, N-10769, N-10770, N-3, N-5, N-7, N-40, N-54, N-69, N-176, N-190, N-487, N-681, N-10002, N-10013, N-10014, N-10021, N-10155, N-10183, N-10196, N-10217, N-10229, N-10239, N-10344, N-10362, N-10572, N-10573, N-10621, N-10640, N-10679, N-10687, N-10688, N-10699, N-10703, N-10737, N-10749, N-10751, N-10754, N-10759, N-10761, N-10897, N-10975, N-10987, N-11039, N-11055, N-11135, N-10765, N-11304, N-11305
+  - New Nodes Introduced: N-10695, N-10696
+  - Reused Nodes Appearing: N-11360, N-11361, N-1, N-2, N-10697, N-10698, N-10188, N-3, N-5, N-7, N-40, N-54, N-69, N-176, N-190, N-487, N-681, N-10002, N-10013, N-10014, N-10021, N-10150, N-10175, N-10208, N-10216, N-10226, N-10322, N-10338, N-10523, N-10524, N-10567, N-10585, N-10617, N-10625, N-10626, N-10636, N-10639, N-10679, N-10681, N-10684, N-10690, N-10818, N-10896, N-10907, N-10957, N-10973, N-11053, N-10694, N-11220, N-11221
   - (see registers)
 
 ---
@@ -78,7 +78,7 @@ Video Timestamp: 00:30:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11647, C-11651, C-11653, N-1, N-10767, N-10768*
+*Related: C-11647, C-11651, C-11653, N-1, N-10696, N-10697*
 
 **A-2220.2** Email read aloud from self-identified transplant coordinator / former scrub nurse at level one trauma center regarding autopsy timeline, thoracic trauma patterns, and body temperature in morgue
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:34:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11657, N-1, N-10767*
+*Related: C-11657, N-1, N-10696*
 
 **A-2221** YouTube Medical Comment Bundle
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:36:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11663, C-11664, N-1, N-10768*
+*Related: C-11663, C-11664, N-1, N-10697*
 
 **A-2222** Losee Center Witness Recording Bundle
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:40:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11667, C-11668, N-1, N-10769*
+*Related: C-11667, C-11668, N-1, N-10698*
 
 **A-3145** Robinson Discord Messages Bundle
 
@@ -239,7 +239,7 @@ Investigative Pressure: High
 
 *Related: A-2219.1, A-2220.1, A-2220.2, A-2221.1, A-2222.1, C-11631–C-11668*
 
-**N-10765** Timpanogos Hospital Evacuation Tip
+**N-10694** Timpanogos Hospital Evacuation Tip
 
 Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. – over two hours before Charlie Kirk's shooting.
 
@@ -248,9 +248,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-11632, C-11633, N-1, N-10770*
+*Related: C-11632, C-11633, N-1, N-10188*
 
-**N-10766** Security Clothing Disposal Question
+**N-10695** Security Clothing Disposal Question
 
 Host's assertion that FBI took security team clothing down to boxer briefs; host infers possible destruction rather than evidence preservation given FBI's prior behavior of towing and reselling the vehicle.
 
@@ -261,7 +261,7 @@ Investigative Pressure: Medium
 
 *Related: C-11627*
 
-**N-10767** Autopsy Timeline Anomaly
+**N-10696** Autopsy Timeline Anomaly
 
 Question raised by medical professional email (A-2220.2) and host regarding unusually short (~3 hour) autopsy timeline given typical protocol of bringing body to 40°F in morgue cooler before examination; estimate includes time Erika Kirk spent with the body on arrival.
 
@@ -272,7 +272,7 @@ Investigative Pressure: Medium
 
 *Related: A-2220.2, C-11657, N-2*
 
-**N-10768** Shaped Charge / Exploding Microphone Hypothesis
+**N-10697** Shaped Charge / Exploding Microphone Hypothesis
 
 Alternative theory advanced by multiple artifact-anchored medical communications suggesting Charlie Kirk's neck wound pattern is more consistent with a shaped charge in his lapel microphone than with a bullet; also encompasses the inference that recovered bullet fragments may actually be shaped charge casing.
 
@@ -283,7 +283,7 @@ Investigative Pressure: Medium
 
 *Related: A-2220.1, A-2221.1, C-11647–C-11664, C-11665, N-1*
 
-**N-10769** Losee Center Gun Verification Gap
+**N-10698** Losee Center Gun Verification Gap
 
 Persistent absence of eyewitness confirmation that any firearm was visible on the Losee Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.
 
@@ -294,22 +294,31 @@ Investigative Pressure: Medium
 
 *Related: A-2222.1, C-11667, C-11668, N-1*
 
-**N-10770** Utah Valley Hospital File Anomaly
-
-Charlie Kirk's patient file appearing in Utah Valley Hospital / Intermountain Health electronic records on September 10, despite Timpanogos being named as receiving hospital; originally surfaced in October 28, 2025 episode; potentially explained by source-asserted patient transfer (N-10765) or by pre-existing record creation.
-
-Evidence Count: 0
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-11638, N-1, N-10765*
-
 **N-2** Erika Kirk
 
 Erika Kirk; subject of the transparency, memorial forgiveness and morgue-timing claims.
 
 *Related: C-11593, C-11624, C-11625, C-11626, C-11630, C-11659, C-11671, C-11672, C-11673*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-11672*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-11602*
 
 ---
 
@@ -401,7 +410,7 @@ Jon Bray (transcribed Jon Bray); cited in the anesthesiologist's email as suppor
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Existing topic node reused for new claims in this episode.
 
@@ -433,7 +442,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10155** Autopsy Record – Utah Privacy Statute Application
+**N-10150** Autopsy Record – Utah Privacy Statute Application
 
 Existing topic node reused for new claims in this episode.
 
@@ -441,7 +450,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10183** Medical Examiner Inquiry – Weiss Amaro
+**N-10175** Medical Examiner Inquiry – Weiss Amaro
 
 Existing topic node reused for new claims in this episode.
 
@@ -449,7 +458,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10196** UVU Hospital Charlie Kirk Medical File Access Question
+**N-10188** UVU Hospital Charlie Kirk Medical File Access Question
 
 Existing topic node reused for new claims in this episode.
 
@@ -457,7 +466,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10217** TPUSA Leadership Transparency Pressure (Post-Charlie)
+**N-10208** TPUSA Leadership Transparency Pressure (Post-Charlie)
 
 Existing topic node reused for new claims in this episode.
 
@@ -465,7 +474,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10229** Autopsy Report and Evidence Access Asymmetry
+**N-10216** Autopsy Report and Evidence Access Asymmetry
 
 Existing topic node reused for new claims in this episode.
 
@@ -473,7 +482,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10239** Timpanogos Hospital Footage Seizure Verification
+**N-10226** Timpanogos Hospital Footage Seizure Verification
 
 Existing topic node reused for new claims in this episode.
 
@@ -481,7 +490,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10344** Candace Owens Security Arrangement
+**N-10322** Candace Owens Security Arrangement
 
 Existing topic node reused for new claims in this episode.
 
@@ -489,7 +498,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10362** Vehicle Disposition Question
+**N-10338** Vehicle Disposition Question
 
 Existing topic node reused for new claims in this episode.
 
@@ -497,7 +506,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10572** ATF Bullet-to-Gun Inconclusive Finding
+**N-10523** ATF Bullet-to-Gun Inconclusive Finding
 
 Existing topic node reused for new claims in this episode.
 
@@ -505,7 +514,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10573** Timpanogos Hospital Evidence Question
+**N-10524** Timpanogos Hospital Evidence Question
 
 Existing topic node reused for new claims in this episode.
 
@@ -513,7 +522,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10621** Gun Firing Evidence Verification
+**N-10567** Gun Firing Evidence Verification
 
 Existing topic node reused for new claims in this episode.
 
@@ -521,7 +530,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10640** Trump Truth Social Tweet Authorship/Origin
+**N-10585** Trump Truth Social Tweet Authorship/Origin
 
 Existing topic node reused for new claims in this episode.
 
@@ -529,7 +538,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation
+**N-10617** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 Existing topic node reused for new claims in this episode.
 
@@ -537,7 +546,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10687** Frank Turek CPR Claim Verification
+**N-10625** Frank Turek CPR Claim Verification
 
 Existing topic node reused for new claims in this episode.
 
@@ -545,7 +554,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10688** Frank Turek Clothing Disposal
+**N-10626** Frank Turek Clothing Disposal
 
 Existing topic node reused for new claims in this episode.
 
@@ -553,7 +562,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10699** Brian Harpole vs Frank Turek CPR Contradiction
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Existing topic node reused for new claims in this episode.
 
@@ -561,7 +570,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10703** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
+**N-10639** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
 
 Existing topic node reused for new claims in this episode.
 
@@ -569,15 +578,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10737** CPR Narrative Contradiction (Turek / Harpole)
-
-Existing topic node reused for new claims in this episode.
-
-*Related: C-11625*
-
----
-
-**N-10749** Amaro Resignation Cause
+**N-10679** Amaro Resignation Cause
 
 Existing topic node reused for new claims in this episode.
 
@@ -585,7 +586,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10751** Charlie Kirk Cremation/Burial Status Verification
+**N-10681** Charlie Kirk Cremation/Burial Status Verification
 
 Existing topic node reused for new claims in this episode.
 
@@ -593,7 +594,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10754** Rooftop Movement Tactical Analysis
+**N-10684** Rooftop Movement Tactical Analysis
 
 Existing topic node reused for new claims in this episode.
 
@@ -601,15 +602,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10759** Kirk Burial / Cremation Status
-
-Existing topic node reused for new claims in this episode.
-
-*Related: C-11671*
-
----
-
-**N-10761** Kirk Autopsy Heart/Lung Hemorrhage Causation
+**N-10690** Kirk Autopsy Heart/Lung Hemorrhage Causation
 
 Existing topic node reused for new claims in this episode.
 
@@ -617,7 +610,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10790** Luna / Helluva Boss Cultural Connection
+**N-10714** Luna / Helluva Boss Cultural Connection
 
 Existing topic node reused for new claims in this episode.
 
@@ -625,7 +618,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-10897** Project Constitution
+**N-10818** Project Constitution
 
 Existing organization node reused for new claims in this episode.
 
@@ -633,7 +626,7 @@ Existing organization node reused for new claims in this episode.
 
 ---
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Existing organization node reused for new claims in this episode.
 
@@ -641,7 +634,7 @@ Existing organization node reused for new claims in this episode.
 
 ---
 
-**N-10987** Charlie Kirk Inside-Shirt Rode Mic Placement
+**N-10907** Charlie Kirk Inside-Shirt Rode Mic Placement
 
 Existing topic node reused for new claims in this episode.
 
@@ -649,7 +642,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-11039** Erika Kirk Foreknowledge Question
+**N-10957** Erika Kirk Foreknowledge Question
 
 Existing topic node reused for new claims in this episode.
 
@@ -657,7 +650,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-11055** Tyler Robinson Gunshot Residue Test Question
+**N-10973** Tyler Robinson Gunshot Residue Test Question
 
 Existing topic node reused for new claims in this episode.
 
@@ -665,7 +658,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-11135** Bullet Fragment Chain-of-Custody Question
+**N-11053** Bullet Fragment Chain-of-Custody Question
 
 Existing topic node reused for new claims in this episode.
 
@@ -693,7 +686,7 @@ Aliases: Dr. Ashley Brown Guajardo; Dr. Ashley; Dr. Guajardo
 
 ---
 
-**N-11301** Digital Games Research Association
+**N-11217** Digital Games Research Association
 
 Node Type: Organization
 Academic association which the host says Dr. Ashley Brown Guajardo currently serves as president of.
@@ -702,7 +695,7 @@ Academic association which the host says Dr. Ashley Brown Guajardo currently ser
 
 ---
 
-**N-11302** IGDA
+**N-11218** IGDA
 
 Node Type: Organization
 Organization abbreviated IGDA in the transcript, with a games user research special interest group co-directed, per the host, by Dr. Ashley Brown Guajardo.
@@ -711,25 +704,25 @@ Organization abbreviated IGDA in the transcript, with a games user research spec
 
 ---
 
-**N-11303** Guajardo Spouse Gamer and Furry Culture Question
+**N-11219** Guajardo Spouse Gamer and Furry Culture Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's inquiry into the medical examiner's wife, her gamer and furry culture research and online presence, and whether she overlaps with the Discord and gaming community around Tyler Robinson and Lance Twiggs.
 
 *Related: C-11606, C-11607, C-11609, C-11613, C-11616, C-11619*
 
 ---
 
-**N-11304** Erika Kirk Memorial Forgiveness Statement
+**N-11220** Erika Kirk Memorial Forgiveness Statement
 
-Node Type: Topic
+Node Type: Event
 Erika Kirk's "I forgive him" statement about Tyler Robinson at the memorial, which the host reinterprets as a conviction of him.
 
 *Related: C-11672, C-11673*
 
 ---
 
-**N-11305** Utah Medical Examiner Office Departures to New York
+**N-11221** Utah Medical Examiner Office Departures to New York
 
 Node Type: Topic
 Reported departures of Dr. Deirdre Amaro from Utah and of Dr. Andrew and Dr. Ashley Brown Guajardo to New York, with a new New York chief medical examiner role and an NYU teaching post.
@@ -787,7 +780,7 @@ Claim: Per the anesthesiologist's email the host reads, the eruption of blood or
 Anchored Artifacts: A-2220.1
 Mentions: N-1
 
-Related Nodes: N-10768
+Related Nodes: N-10697
 
 Investigative Direction: Obtain the emailer's credentials (verify board certification), and cross-reference with forensic pathology literature on shaped-charge wounds.
 
@@ -800,7 +793,7 @@ Claim: Per the anesthesiologist's email, what was recovered and labeled as "bull
 Anchored Artifacts: A-2220.1
 Mentions: N-1
 
-Related Nodes: N-10768
+Related Nodes: N-10697
 
 Investigative Direction: Obtain the autopsy report and forensic lab analysis of recovered fragments to compare composition (copper jacket vs. other materials).
 
@@ -813,7 +806,7 @@ Claim: Per the anesthesiologist's email, no ambulance with resuscitative equipme
 Anchored Artifacts: A-2220.1
 Mentions: N-1
 
-Related Nodes: N-10768
+Related Nodes: N-10697
 
 Investigative Direction: Obtain dispatch logs, ambulance records, and witness statements to verify equipment availability and stabilization protocol.
 
@@ -826,7 +819,7 @@ Claim: Per the transplant coordinator's email the host reads, it takes at least 
 Anchored Artifacts: A-2220.2
 Mentions: N-1, N-2
 
-Related Nodes: N-10767
+Related Nodes: N-10696
 
 Investigative Direction: Obtain morgue intake logs, time of arrival, time of autopsy start, and medical examiner office cooling protocols.
 
@@ -839,7 +832,7 @@ Claim: Per the surgeon YouTube comment, the trajectory from a rooftop shooter is
 Anchored Artifacts: A-2221.1
 Mentions: N-1
 
-Related Nodes: N-10768
+Related Nodes: N-10697
 
 Investigative Direction: Verify medical examiner's official report for documented entry/exit points and trajectory analysis; cross-reference with crime scene ballistics.
 
@@ -852,7 +845,7 @@ Claim: Per the surgeon YouTube comment, the medical examiner's report states muc
 Anchored Artifacts: A-2221.1
 Mentions: N-1
 
-Related Nodes: N-10768
+Related Nodes: N-10697
 
 Investigative Direction: Obtain the official medical examiner's report to verify the cervical spine description.
 
@@ -878,7 +871,7 @@ Claim: Per the witness recording played in the episode, the witness observes a p
 Anchored Artifacts: A-2222.1
 Mentions: 
 
-Related Nodes: N-10769
+Related Nodes: N-10698
 
 Investigative Direction: Obtain the full witness recording and transcript; identify and interview the witness for confirmation.
 
@@ -891,7 +884,7 @@ Claim: Host states she is "team road mic" and concurs with the shaped charge / e
 Anchored Artifacts: A-2220.1, A-2221.1
 Mentions: N-1
 
-Related Nodes: N-10768
+Related Nodes: N-10697
 
 Investigative Direction: Note host stance for cross-referencing future evidentiary developments.
 
@@ -904,7 +897,7 @@ Claim: Host concurs with the witness recording's omission of any gun mention and
 Anchored Artifacts: A-2222.1
 Mentions: 
 
-Related Nodes: N-10769
+Related Nodes: N-10698
 
 Investigative Direction: Cross-reference with other rooftop witness accounts; obtain Losee Center surveillance footage if available.
 
@@ -917,7 +910,7 @@ Claim: Per host's verbal source (not displayed in this episode), Timpanogos Hosp
 Anchored Artifacts: None displayed (verbal source only)
 Mentions: 
 
-Related Nodes: N-10765, N-10770
+Related Nodes: N-10694, N-10188
 
 Investigative Direction: Obtain independent verification – shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony.
 
@@ -932,7 +925,7 @@ Claim: Per host's verbal source, ER patients were informed at approximately 11:3
 Anchored Artifacts: None displayed (verbal source only)
 Mentions: 
 
-Related Nodes: N-10765, N-10770
+Related Nodes: N-10694, N-10188
 
 Investigative Direction: Obtain shuttle company records, Intermountain intake logs, and patient/witness testimony.
 
@@ -947,7 +940,7 @@ Claim: The host says a patient file for Charlie Kirk, leaked to her show, appear
 Anchored Artifacts: Referenced from prior episode (originally displayed in earlier episode, not re-displayed here)
 Mentions: N-1
 
-Related Nodes: N-10770
+Related Nodes: N-10188
 
 Investigative Direction: Re-display the original document or obtain the leaked file independently for forensic verification.
 
@@ -961,7 +954,7 @@ Claim: Per host's assertion (based on an unnamed tip), the FBI took security tea
 
 Anchored Artifacts: None displayed (verbal tip)
 
-Related Nodes: N-10766
+Related Nodes: N-10695
 
 Investigative Direction: Obtain defense discovery materials or testimony from security team members.
 
@@ -976,7 +969,7 @@ Claim: Per host, the Timpanogos hospital Epic electronic medical record system d
 Anchored Artifacts: None displayed
 Mentions: N-1
 
-Related Nodes: N-10770
+Related Nodes: N-10188
 
 Investigative Direction: Verify Epic-Intermountain system interface specifications and obtain audit logs of any record creation events.
 
@@ -992,7 +985,7 @@ Transcript Snippet: for 10 months straight we were told that all the widow wants
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10217
+Related Nodes: N-10208
 Tags: relevance:context
 Investigative Direction: Collect Erika Kirk's and TPUSA's public statements and court filings on transparency and sealing since September 2025 and compare them with the positions taken in the case.
 
@@ -1008,7 +1001,7 @@ Transcript Snippet: Fastest autopsy ever. Just in the middle of the night, coupl
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10767
+Related Nodes: N-10696
 Tags: relevance:core
 Investigative Direction: Obtain the Utah Office of the Medical Examiner intake, start and finish times for the autopsy from the report or defense discovery.
 
@@ -1024,7 +1017,7 @@ Transcript Snippet: Now we've got the chief medical examiner resigning.
 
 Anchored Artifacts: 
 Mentions: N-176
-Related Nodes: N-10749, N-10183
+Related Nodes: N-10679, N-10175
 Tags: relevance:context
 Investigative Direction: Confirm Dr. Deirdre Amaro's resignation date and stated reason from Utah state announcements.
 
@@ -1040,7 +1033,7 @@ Transcript Snippet: The person who signed off on it though is one that we are go
 
 Anchored Artifacts: 
 Mentions: N-894, N-1
-Related Nodes: N-10183
+Related Nodes: N-10175
 Tags: relevance:core
 Investigative Direction: Check the signature block of the Kirk autopsy report (once released) for the signing pathologist.
 
@@ -1056,7 +1049,7 @@ Transcript Snippet: They were covered in blood. The amazing Mikey McCoy got them
 
 Anchored Artifacts: 
 Mentions: N-190, N-1
-Related Nodes: N-10688, N-10766
+Related Nodes: N-10626, N-10695
 Tags: relevance:core
 Investigative Direction: Ask the hospital for scrub issue records and the security team members for a statement on how they obtained scrubs and who supplied them.
 
@@ -1072,7 +1065,7 @@ Transcript Snippet: And if true, it very much implies foreknowledge of Charlie's
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-11039, N-10765
+Related Nodes: N-10957, N-10694
 Tags: relevance:core
 Investigative Direction: Seek independent paperwork (shuttle bookings, Intermountain intake logs, staff testimony) that would confirm or refute the 10:00 a.m. emergency-room evacuation.
 
@@ -1088,7 +1081,7 @@ Transcript Snippet: He is from New York. He moved to Utah in 2018 and was workin
 
 Anchored Artifacts: 
 Mentions: N-894
-Related Nodes: N-10183
+Related Nodes: N-10175
 Tags: relevance:context
 Investigative Direction: Verify Guajardo's employment history through Utah state personnel records or his published CV.
 
@@ -1104,7 +1097,7 @@ Transcript Snippet: she decided to select him as her deputy, so he was promoted 
 
 Anchored Artifacts: 
 Mentions: N-176, N-894
-Related Nodes: N-10183
+Related Nodes: N-10175
 Tags: relevance:context
 Investigative Direction: Check Utah Department of Health and Human Services announcements for the 2024 appointment of a deputy chief medical examiner.
 
@@ -1136,7 +1129,7 @@ Transcript Snippet: Hey guys, I have bad news for you all. It was me at UVU yest
 
 Anchored Artifacts: A-3145.1
 Mentions: N-40
-Related Nodes: N-10013, N-10021
+Related Nodes: N-10013, N-10021, N-11360
 Tags: relevance:core
 Investigative Direction: Compare the read messages with the Discord records entered in the preliminary hearing and with Discord's own statements on the server.
 
@@ -1168,7 +1161,7 @@ Transcript Snippet: after listening to the preliminary hearing, we suspect that 
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10703, N-10013
+Related Nodes: N-10639, N-10013
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing testimony on Discord account ownership and device access.
 
@@ -1184,7 +1177,7 @@ Transcript Snippet: which had dust in the barrel, so likely wasn't even fired.
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10621, N-11055
+Related Nodes: N-10567, N-10973
 Tags: relevance:core
 Investigative Direction: Obtain the firearms examiner report and the preliminary hearing testimony on barrel condition and test-firing.
 
@@ -1200,7 +1193,7 @@ Transcript Snippet: He's married to a woman named Dr. Ashley Brown Guajardo.
 
 Anchored Artifacts: 
 Mentions: N-894, N-895
-Related Nodes: N-11303
+Related Nodes: N-11219
 Tags: relevance:tangential
 Investigative Direction: Confirm the marriage through public records or the couple's own biographies.
 
@@ -1216,7 +1209,7 @@ Transcript Snippet: he's married to someone who encourages, supports, works with
 
 Anchored Artifacts: A-3146.1
 Mentions: N-894, N-895
-Related Nodes: N-11303
+Related Nodes: N-11219
 Tags: relevance:tangential
 Investigative Direction: Locate the original posts or video the host showed and establish date, account and whether the person shown is Dr. Ashley Brown Guajardo.
 
@@ -1232,7 +1225,7 @@ Transcript Snippet: she was dancing as a furry, and she was promoting uh her boo
 
 Anchored Artifacts: A-3146.1
 Mentions: N-895
-Related Nodes: N-11303
+Related Nodes: N-11219
 Tags: relevance:tangential
 Investigative Direction: Find the original social media post, its date and the account that published it.
 
@@ -1280,7 +1273,7 @@ Transcript Snippet: Since 2017, she's hosted a weekly educational Twitch stream 
 
 Anchored Artifacts: A-3147.1
 Mentions: N-895
-Related Nodes: N-11303
+Related Nodes: N-11219
 Tags: relevance:tangential
 Investigative Direction: Find the Twitch channel and verify the start date and the content of the streams.
 
@@ -1296,7 +1289,7 @@ Transcript Snippet: She was vice president of the Global Game Jam conference, co
 
 Anchored Artifacts: A-3147.1
 Mentions: N-895
-Related Nodes: N-11302
+Related Nodes: N-11218
 Tags: relevance:tangential
 Investigative Direction: Check the organizations' leadership pages and archived rosters for her titles and dates.
 
@@ -1312,7 +1305,7 @@ Transcript Snippet: And currently serves as the president of the Digital Games R
 
 Anchored Artifacts: A-3147.1
 Mentions: N-895
-Related Nodes: N-11301
+Related Nodes: N-11217
 Tags: relevance:tangential
 Investigative Direction: Check the association's website and filings for its current officers.
 
@@ -1328,7 +1321,7 @@ Transcript Snippet: and she's currently working on a book which explores how fan
 
 Anchored Artifacts: A-3147.1
 Mentions: N-895
-Related Nodes: N-11303
+Related Nodes: N-11219
 Tags: relevance:tangential
 Investigative Direction: Check publisher and library catalogs for her authored titles and announced forthcoming book.
 
@@ -1344,7 +1337,7 @@ Transcript Snippet: you guys remember when Lance was testifying and he said that
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10790, N-10679
+Related Nodes: N-10714, N-10617
 Tags: relevance:core
 Investigative Direction: Check the preliminary hearing transcript for the exact exchange on the name Luna.
 
@@ -1360,7 +1353,7 @@ Transcript Snippet: encouraging her students and her gamers to join her on her D
 
 Anchored Artifacts: 
 Mentions: N-895
-Related Nodes: N-10013, N-11303
+Related Nodes: N-10013, N-11219
 Tags: relevance:tangential
 Investigative Direction: Find the Discord server and syllabi or posts where students were invited, and compare membership against names in the Robinson case.
 
@@ -1376,7 +1369,7 @@ Transcript Snippet: Dr. Amara has left uh the building. She's no longer at Utah.
 
 Anchored Artifacts: 
 Mentions: N-176
-Related Nodes: N-10749, N-11305
+Related Nodes: N-10679, N-11221
 Tags: relevance:context
 Investigative Direction: Confirm Amaro's departure date and new position through Utah state announcements.
 
@@ -1392,7 +1385,7 @@ Transcript Snippet: Now, he's going to be the chief medical examiner in New York
 
 Anchored Artifacts: A-3148.1
 Mentions: N-894, N-895
-Related Nodes: N-11305
+Related Nodes: N-11221
 Tags: relevance:context
 Investigative Direction: Check New York City announcements of the chief medical examiner appointment and NYU faculty listings.
 
@@ -1408,7 +1401,7 @@ Transcript Snippet: Now she's the assistant arts professor at NYU full-time.
 
 Anchored Artifacts: A-3148.1
 Mentions: N-895
-Related Nodes: N-11305
+Related Nodes: N-11221
 Tags: relevance:tangential
 Investigative Direction: Check the NYU faculty directory and her LinkedIn history for titles and dates.
 
@@ -1424,7 +1417,7 @@ Transcript Snippet: Remember how Frank Turek described them receiving scrubs fro
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-10688
+Related Nodes: N-10626
 Tags: relevance:core
 Investigative Direction: Find Turek's original account of the scrubs and ask the hospital whether it issues scrubs to visitors.
 
@@ -1440,7 +1433,7 @@ Transcript Snippet: he was doing all of the work while Rob Cutler was holding hi
 
 Anchored Artifacts: 
 Mentions: N-266, N-487, N-7
-Related Nodes: N-10699
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Obtain Harpole's preliminary hearing testimony and Turek's and Cutler's separate accounts and compare who did CPR.
 
@@ -1456,7 +1449,7 @@ Transcript Snippet: where Frank says he did CPR and Brian says he didn't?
 
 Anchored Artifacts: 
 Mentions: N-7, N-266
-Related Nodes: N-10699, N-10687, N-10737
+Related Nodes: N-10636, N-10625
 Tags: relevance:core
 Investigative Direction: Compare Turek's public statements with Harpole's testimony on who performed CPR in the vehicle.
 
@@ -1472,7 +1465,7 @@ Transcript Snippet: Frank says Brian was distracted and just didn't realize what
 
 Anchored Artifacts: 
 Mentions: N-7, N-266, N-1
-Related Nodes: N-10699
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Locate Turek's statement on the distraction explanation and the vehicle ride duration from dashcam or 911 timelines.
 
@@ -1488,7 +1481,7 @@ Transcript Snippet: the feds immediately had the car towed, sent away, wanted it
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10362, N-10014
+Related Nodes: N-10338, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain the tow, impound and sale records for the transport vehicle and any evidence-hold notation.
 
@@ -1504,7 +1497,7 @@ Transcript Snippet: In my mind, they likely took their clothes and had them dest
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10766, N-10014
+Related Nodes: N-10695, N-10014
 Tags: relevance:core
 Investigative Direction: Defense discovery would show whether the clothing appears on any evidence inventory or chain-of-custody log.
 
@@ -1520,7 +1513,7 @@ Transcript Snippet: many of us have noted how odd it is that there were no eyewi
 
 Anchored Artifacts: 
 Mentions: N-266
-Related Nodes: N-10573, N-10765
+Related Nodes: N-10524, N-10694
 Tags: relevance:core
 Investigative Direction: Identify the Timpanogos ER staff and patients present on September 10 and ask whether anyone observed Harpole's conduct.
 
@@ -1536,7 +1529,7 @@ Transcript Snippet: All of the emergency room patients and all of their files we
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10765, N-10770
+Related Nodes: N-10694, N-10188
 Tags: relevance:core
 Investigative Direction: Seek Intermountain and Timpanogos transfer logs and electronic record audit trails for September 10, 2025.
 
@@ -1552,7 +1545,7 @@ Transcript Snippet: which have been conveniently seized by Kash Patel's office, 
 
 Anchored Artifacts: 
 Mentions: N-69
-Related Nodes: N-10239
+Related Nodes: N-10226
 Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Ask Timpanogos Hospital and the FBI whether footage was taken, when and under what legal process.
@@ -1569,7 +1562,7 @@ Transcript Snippet: if we are able to prove that this took place beyond a shadow
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-11039, N-10765
+Related Nodes: N-10957, N-10694
 Tags: relevance:core
 Investigative Direction: Obtain shuttle company bookings, Google satellite imagery, Intermountain intake records and staff testimony for the morning of September 10.
 
@@ -1617,7 +1610,7 @@ Transcript Snippet: Now I can tell you I trust very much that this information i
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10765
+Related Nodes: N-10694
 Tags: relevance:core
 Investigative Direction: Source credibility can only be tested by corroborating records; request the paperwork the host says would prove it.
 
@@ -1633,7 +1626,7 @@ Transcript Snippet: they were specifically instructing people um not to touch or
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10770, N-10196
+Related Nodes: N-10188
 Supports: C-1893
 Tags: relevance:core
 Investigative Direction: Re-examine the October 28 hospital message screenshot and identify its author and recipients.
@@ -1650,7 +1643,7 @@ Transcript Snippet: it had Charlie's personal details, even his like home addres
 
 Anchored Artifacts: A-3150.1
 Mentions: N-1
-Related Nodes: N-10770, N-10196
+Related Nodes: N-10188
 Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Have a records expert assess the re-displayed screenshot for authenticity and the fields shown.
@@ -1667,7 +1660,7 @@ Transcript Snippet: All emergency room files on September 10th, which included C
 
 Anchored Artifacts: A-3150.1
 Mentions: N-1
-Related Nodes: N-10770, N-10765
+Related Nodes: N-10188, N-10694
 Tags: relevance:core
 Investigative Direction: Compare the Epic audit trail on the Utah Valley record creation with the claimed September 10 bulk transfer.
 
@@ -1683,7 +1676,7 @@ Transcript Snippet: And other people were also in the system. So, we were we're 
 
 Anchored Artifacts: A-3150.1
 Mentions: N-1
-Related Nodes: N-10770
+Related Nodes: N-10188
 Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Obtain the unredacted screenshot metadata and the list of other patient entries from the original leaker.
@@ -1700,7 +1693,7 @@ Transcript Snippet: the little bit that was published by the prosecution in thei
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10229, N-10155
+Related Nodes: N-10216, N-10150
 Tags: relevance:core
 Investigative Direction: Obtain the prosecution filing and identify which autopsy findings it disclosed.
 
@@ -1716,7 +1709,7 @@ Transcript Snippet: I agree with you and Jon Bray that the exploding mic theory 
 
 Anchored Artifacts: A-2220.1
 Mentions: N-681, N-1
-Related Nodes: N-10768
+Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Verify the emailer's board certification and obtain the full email.
 
@@ -1732,7 +1725,7 @@ Transcript Snippet: However, there is no evidence that he was shot from behind. 
 
 Anchored Artifacts: A-2220.1
 Mentions: N-1
-Related Nodes: N-10768
+Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Review frame-by-frame footage of the moment of impact with a trauma physician and ballistics expert.
 
@@ -1748,7 +1741,7 @@ Transcript Snippet: The projectile would have almost certainly damaged both lung
 
 Anchored Artifacts: A-2220.1
 Mentions: N-1
-Related Nodes: N-10768, N-10761
+Related Nodes: N-10697, N-10690
 Tags: relevance:core
 Investigative Direction: Compare against the thoracic findings in the autopsy report once released.
 
@@ -1764,7 +1757,7 @@ Transcript Snippet: The the ATF testified I think that they received five fragme
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10975, N-10572, N-11135
+Related Nodes: N-10896, N-10523, N-11053
 Tags: relevance:core
 Investigative Direction: Check the preliminary hearing transcript for the ATF analyst's testimony on fragment count and usability.
 
@@ -1780,7 +1773,7 @@ Transcript Snippet: None of that was initiated at the scene and would have been 
 
 Anchored Artifacts: A-2220.1
 Mentions: N-1
-Related Nodes: N-10768
+Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Obtain EMS and hospital records on resuscitation attempts and compare with the security team's accounts of CPR.
 
@@ -1796,7 +1789,7 @@ Transcript Snippet: his security team did their best in a highly rehearsed fashi
 
 Anchored Artifacts: A-2220.1
 Mentions: N-1
-Related Nodes: N-10768
+Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Verify the email's author and compare the claim with security team statements and scene video.
 
@@ -1812,7 +1805,7 @@ Transcript Snippet: I think that the there was no gun on the rooftop. There was 
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10769, N-10754
+Related Nodes: N-10698, N-10684
 Tags: relevance:core
 Investigative Direction: Seek rooftop scene evidence, the recovered-rifle chain of custody and identification of the runner.
 
@@ -1828,7 +1821,7 @@ Transcript Snippet: I've never seen thoracic trauma or hemorrhaging for that mat
 
 Anchored Artifacts: A-2220.2
 Mentions: N-1
-Related Nodes: N-10768, N-10761
+Related Nodes: N-10697, N-10690
 Tags: relevance:core
 Investigative Direction: Verify the writer's role and ask trauma surgeons whether thoracic hemorrhage can accompany neck gunshot wounds; compare with the autopsy report.
 
@@ -1844,7 +1837,7 @@ Transcript Snippet: And that's if his body was ever taken to the morgue.
 
 Anchored Artifacts: A-2220.2
 Mentions: N-1, N-2
-Related Nodes: N-10767
+Related Nodes: N-10696
 Tags: relevance:core
 Investigative Direction: Obtain morgue intake and transport logs for September 10-11 from the Utah medical examiner's office.
 
@@ -1860,7 +1853,7 @@ Transcript Snippet: it is true that the protocol is to bring the body down to 40
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10767
+Related Nodes: N-10696
 Supports: C-11657
 Tags: relevance:core
 Investigative Direction: Ask forensic pathologists and the Utah OME for its written cooling protocol.
@@ -1877,7 +1870,7 @@ Transcript Snippet: 12 hours before they start to get decomposition. We were loo
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10767
+Related Nodes: N-10696
 Tags: relevance:core
 Investigative Direction: Cite forensic pathology references for decomposition onset and the OME's own autopsy timing practice.
 
@@ -1893,7 +1886,7 @@ Transcript Snippet: I heard a a podcaster, Project Constitution, say that Charli
 
 Anchored Artifacts: A-2221.1
 Mentions: N-1
-Related Nodes: N-10897, N-10987, N-10768
+Related Nodes: N-10818, N-10907, N-10697
 Tags: relevance:core
 Investigative Direction: Find the Project Constitution podcast segment and compare with photographs of Charlie's mic pack placement.
 
@@ -1909,7 +1902,7 @@ Transcript Snippet: if he observed a person military crawling, which has been tr
 
 Anchored Artifacts: A-2222.1
 Mentions: 
-Related Nodes: N-10754, N-10769
+Related Nodes: N-10684, N-10698
 Tags: relevance:core
 Investigative Direction: Cite the analysis the host refers to and compare with the full witness recording.
 
@@ -1925,7 +1918,7 @@ Transcript Snippet: Tyler Robinson's gun, which has dust on the barrel and his p
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10621
+Related Nodes: N-10567
 Tags: relevance:core
 Investigative Direction: Check the latent print and DNA reports for the rifle and the quality ranking of prints.
 
@@ -1941,7 +1934,7 @@ Transcript Snippet: But a German 98 Mauser, a it's completely ridiculous.
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10621
+Related Nodes: N-10567
 Tags: relevance:core
 Investigative Direction: Obtain the firearm identification and make and model from the charging documents and ATF trace.
 
@@ -1957,7 +1950,7 @@ Transcript Snippet: We can be mailed private love letters that Charlie wrote to 
 
 Anchored Artifacts: A-3151.1
 Mentions: N-1, N-2
-Related Nodes: N-10751, N-10759
+Related Nodes: N-10681
 Tags: relevance:context
 Investigative Direction: Obtain a copy of the fundraising mailer and the date and sender.
 
@@ -1973,7 +1966,7 @@ Transcript Snippet: In retrospect, what Erika was doing was so evil. She was act
 
 Anchored Artifacts: 
 Mentions: N-2, N-40
-Related Nodes: N-11304, N-10002
+Related Nodes: N-11220, N-11361
 Supports: C-5960
 Tags: relevance:core
 Investigative Direction: Review the memorial transcript and video for the exact words and any evidence Erika had been shown by that date.
@@ -1990,7 +1983,7 @@ Transcript Snippet: She didn't have any idea that he had done it. We had him. He
 
 Anchored Artifacts: 
 Mentions: N-2, N-40
-Related Nodes: N-11304
+Related Nodes: N-11220
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's representatives and law enforcement what briefing, if any, she received before the memorial.
 
@@ -2022,7 +2015,7 @@ Transcript Snippet: the president of the United States like tweets my face. It's
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10640
+Related Nodes: N-10585
 Tags: relevance:context
 Investigative Direction: Locate the Truth Social or X post and its date.
 
@@ -2038,7 +2031,7 @@ Transcript Snippet: And then I get to Russia and my security security member lit
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10344
+Related Nodes: N-10322
 Tags: relevance:tangential
 Investigative Direction: Ask the host for details and any medical or travel records of the incident.
 

@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 11b9571e5a76ba6e7d757602ee3753595b7175b02db0aab97660730731ff688c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-805, N-806, N-807, N-11189, N-11190
-  - Hole-minted Nodes (reintro-ep082): N-213, N-10621, N-10649, N-10866
-  - Tip-minted Nodes (reintro-ep082): N-11149
+  - Tip-minted Nodes (supplement_2026-10c): N-805, N-806, N-807, N-11105, N-11106
+  - Hole-minted Nodes (reintro-ep082): N-213, N-10567, N-10787
+  - Tip-minted Nodes (reintro-ep082): N-11065
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-217, N-496, N-550, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554, N-689, N-10701
+  - Reused Nodes Appearing: N-11360, N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-217, N-496, N-550, N-10090, N-10144, N-10303, N-10316, N-10332, N-10336, N-10359, N-10360, N-10501, N-10502, N-10505, N-10932, N-10507, N-689, N-10638
   - Claim Range: C-7344–C-7417
  - (see registers)
 
@@ -36,7 +36,7 @@
 - Analysis Date: 2026-03-24
 - Ledger Continuation Summary:
  - Artifact Families Introduced: A-1886, A-1887, A-1888, A-1889, A-1890, A-1891, A-1892, A-1893, A-1894
- - New Nodes Introduced: N-10553, N-10555, N-10556, N-10557, N-10558, N-10559
+ - New Nodes Introduced: N-10508, N-10509, N-10510, N-10511, N-10512
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:15:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (shown on screen)
 
-*Related: C-7356, C-7352, N-10555*
+*Related: C-7356, C-7352, N-10508*
 
 **A-1886.2** Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale – showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:13:52–00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (mapping data; visual reference)
 
-*Related: C-7356, N-10555*
+*Related: C-7356, N-10508*
 
 **A-1886.3** Caller confirmation (host's anonymous outreach to Atlantic Aviation / Hopkinson) that Hopkinson Aircrafts is in a separate building that uses Atlantic Aviation's mailing address
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:13:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single anonymous call; not independently verified)
 
-*Related: C-7356, N-10555*
+*Related: C-7356, N-10508*
 
 **A-1887** Plane Documentation Bundle
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:18:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (aircraft type image shown)
 
-*Related: C-7361, N-10557*
+*Related: C-7361, N-10510*
 
 **A-1887.2** Phone call confirmation from charter company handling N8724A: "All of our planes have Wi-Fi"
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:19:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single phone call, not recorded)
 
-*Related: C-7361, C-7363, N-10557*
+*Related: C-7361, C-7363, N-10510*
 
 **A-1887.3** 2020 charter listing for the alleged "Yrefy" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7" cabin height, refreshment center, and "satellite phone"; Wi-Fi not marketed
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:25:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (historical listing)
 
-*Related: C-7371, N-10557*
+*Related: C-7371, N-10510*
 
 **A-1888** ADSB Exchange Flight Data Bundle
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:31:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-7376, C-7377, N-10556*
+*Related: C-7376, C-7377, N-10509*
 
 **A-1890.2** Andrew Kolvet introducing Nick Shirley on Charlie Kirk Live Show, describing Shirley's footage as "incredible"
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-7382, N-10556*
+*Related: C-7382, N-10509*
 
 **A-1891** Nick Shirley Background Bundle
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:35:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: N-10556, N-10559*
+*Related: N-10509, N-10512*
 
 **A-1891.2** Nick Shirley claim: infiltrated Comando Vermelho (one of Rio's largest gangs) and befriended soldiers "through the course of 2 days"
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:36:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (claim stated on audio)
 
-*Related: C-7382, N-10559*
+*Related: C-7382, N-10512*
 
 **A-1892** Joe Kent Shellenberger Interview Bundle
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:39:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (registration data shown; host's identification of Knupp's role requires verification)
 
-*Related: C-7389, N-10558*
+*Related: C-7389, N-10511*
 
 ---
 
@@ -349,7 +349,7 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-**N-10553** Erika Kirk 9/10 Location Investigation
+**N-10440** Erika Kirk September 10 Whereabouts Verification
 
 Persistent investigative question of where Erika Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.
 
@@ -358,9 +358,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1886.1, A-1886.2, A-1886.3, C-7352, N-2, N-10555*
+*Related: A-1886.1, A-1886.2, A-1886.3, C-7352, N-2, N-10508*
 
-**N-10554** Andrew Kolvet 9/10 Flight Itinerary
+**N-10507** Andrew Kolvet 9/10 Flight Itinerary
 
 Persistent question of Andrew Kolvet's actual flight path on September 10. Episode develops 3:26 PM MST timing correlation against ADSB data and Wi-Fi analysis of Barbara plane.
 
@@ -371,7 +371,7 @@ Investigative Pressure: High
 
 *Related: A-1887.1, A-1887.2, A-1887.3, A-1888.1, A-1889.1, A-1889.2, C-7361, C-7369, C-7365, C-7363, C-7371*
 
-**N-10555** Hopkinson Aircrafts Business Verification
+**N-10508** Hopkinson Aircrafts Business Verification
 
 Question of whether Hopkinson Aircrafts is a functioning aircraft brokerage as advertised, given its unmarked separate building, shared Atlantic Aviation address, and unusual occupancy profile.
 
@@ -382,7 +382,7 @@ Investigative Pressure: Medium
 
 *Related: A-1886.1, A-1886.2, A-1886.3, C-7352, C-7356*
 
-**N-10556** Charlie Kirk Live Show 9/10 Liveness Verification
+**N-10509** Charlie Kirk Live Show 9/10 Liveness Verification
 
 Question of whether Andrew Kolvet's first-hour hosting of Charlie Kirk Live Show on 9/10 was performed live, given his prior history of faking a live show from the White House (per host's prior reporting). Host seeking written confirmation from Nick Shirley.
 
@@ -393,7 +393,7 @@ Investigative Pressure: High
 
 *Related: A-1890.1, A-1890.2, A-1891.1, C-7376*
 
-**N-10557** Barbara Plane (N8724A) Operations
+**N-10510** Barbara Plane (N8724A) Operations
 
 The Hawker Beechcraft alleged by Erika Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call.
 
@@ -404,7 +404,7 @@ Investigative Pressure: Medium
 
 *Related: A-1887.1, A-1887.2, C-7361, C-7363*
 
-**N-10558** N40JD Plane Passenger Manifest
+**N-10511** N40JD Plane Passenger Manifest
 
 Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) – passenger manifest not confirmed.
 
@@ -415,7 +415,7 @@ Investigative Pressure: Low
 
 *Related: A-1894.1, C-7389, N-2*
 
-**N-10559** Nick Shirley Background Verification
+**N-10512** Nick Shirley Background and Backing Verification
 
 Question of Nick Shirley's claimed credentials, including the 48-hour Comando Vermelho infiltration claim and his access/sourcing profile.
 
@@ -441,6 +441,16 @@ Subject of the assassination; discussed in the Kolvet clip, plane and weapon cla
 Widow and TPUSA CEO; the host questions her 9/10 whereabouts and accounts.
 
 *Related: C-7345, C-7346, C-7349, C-7350, C-7351, C-7353, C-7357, C-7358, C-7359, C-7388, C-7390, C-7391, C-7392, C-7406, C-7410, C-7412, C-7414, C-7416, C-7417*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-7398, C-7402*
 
 ---
 
@@ -579,7 +589,7 @@ Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.
 
 ---
 
-**N-10094** LDS Church
+**N-10090** LDS Church
 
 Church the host says Nick Shirley belongs to.
 
@@ -587,7 +597,7 @@ Church the host says Nick Shirley belongs to.
 
 ---
 
-**N-10149** Hospital Routing Discrepancy
+**N-10144** Hospital Routing Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -595,7 +605,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for new claims in this episode.
 
@@ -603,7 +613,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Existing topic reused for new claims in this episode.
 
@@ -611,7 +621,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -619,7 +629,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10360** Gun Discovery Procedure Question
+**N-10336** Gun Discovery Procedure Question
 
 Existing topic reused for new claims in this episode.
 
@@ -627,7 +637,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -635,7 +645,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10387** Tyler Bowyer Investigation Question
+**N-10360** Tyler Bowyer Investigation Question
 
 Existing topic reused for new claims in this episode.
 
@@ -643,7 +653,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10546** Joe Kent Resignation Aftermath Pattern
+**N-10501** Joe Kent Resignation Aftermath Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -651,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10548** Tarmac Hug Account Discrepancy
+**N-10502** Tarmac Hug Account Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -659,7 +669,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10551** Joe Kent Leak Accusation Chain
+**N-10505** Joe Kent Leak Accusation Chain
 
 Existing topic reused for new claims in this episode.
 
@@ -667,7 +677,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10621** Gun Firing Evidence Verification
+**N-10567** Gun Firing Evidence Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -675,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10649** Candace-Erika December 15 Private Meeting Revelations
+**N-11295** Candace-Erika December 15 Private Meeting Revelations
 
 Existing topic reused for new claims in this episode.
 
@@ -683,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
+**N-10638** Andrew Kolvet EEOB Presence / Kash Patel Connection
 
 Existing topic reused for new claims in this episode.
 
@@ -691,7 +701,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10866** Night-of Assassination Aloe Yoga Outfit Directive
+**N-10787** Night-of Assassination Aloe Yoga Outfit Directive
 
 Existing topic reused for new claims in this episode.
 
@@ -699,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11012** Tyler Robinson Surrender Narrative Dispute
+**N-10932** Tyler Robinson Surrender Narrative Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -707,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss
+**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
 Existing topic reused for new claims in this episode.
 
@@ -739,7 +749,7 @@ First named by the host at 00:58:49 in episode 82 (from a viewer comment). Comme
 
 ---
 
-**N-11189** Atlantic Aviation FBO Network
+**N-11105** Atlantic Aviation FBO Network
 
 Node Type: Organization
 First named by the host at 00:11:21 in episode 82. Scottsdale private terminal (FBO) at 14600 North Aircraft Drive that the host says receives Hopkinson's mail.
@@ -748,7 +758,7 @@ First named by the host at 00:11:21 in episode 82. Scottsdale private terminal (
 
 ---
 
-**N-11190** Comando Vermelho
+**N-11106** Comando Vermelho
 
 Node Type: Organization
 First named at 00:35:50 in episode 82 by Nick Shirley. Rio de Janeiro gang he says he gained access to.
@@ -768,7 +778,7 @@ Claim: Per information the host says she happened upon (she says "allegedly"), E
 Anchored Artifacts: A-1886.1, A-1886.2, A-1886.3
 Mentions: N-2, N-1
 
-Related Nodes: N-10553, N-10555
+Related Nodes: N-10440, N-10508
 
 Investigative Direction: Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erika Kirk's presence at Hopkinson Aircrafts on 9/10.
 
@@ -782,7 +792,7 @@ Claim: Per the host's anonymous outreach to Atlantic Aviation, Hopkinson Aircraf
 
 Anchored Artifacts: A-1886.2, A-1886.3
 
-Related Nodes: N-10555
+Related Nodes: N-10508
 
 Investigative Direction: Conduct independent site visit or obtain satellite/aerial confirmation of a separate building; verify postal/mail arrangement through public records.
 
@@ -796,7 +806,7 @@ Claim: The host says that when she called on the morning of March 24, 2026, the 
 
 Anchored Artifacts: A-1887.2
 
-Related Nodes: N-10557
+Related Nodes: N-10510
 
 Investigative Direction: Obtain written confirmation from the charter operator; corroborate via independent review of charter marketing materials.
 
@@ -811,7 +821,7 @@ Claim: The host says ADSB Exchange data shows Charlie Kirk's plane at 3:26 PM MS
 Anchored Artifacts: A-1888.1
 Mentions: N-1
 
-Related Nodes: N-10554
+Related Nodes: N-10507
 
 Investigative Direction: Pull and archive ADSB Exchange historical data for N-number of Charlie's plane on 9/10/2025 between 15:00–16:00 MST.
 
@@ -826,7 +836,7 @@ Claim: Per the text chain the host describes, Andrew Kolvet sent a message at 3:
 Anchored Artifacts: A-1889.1
 Mentions: N-14
 
-Related Nodes: N-10554
+Related Nodes: N-10507
 
 Investigative Direction: Obtain the original text record with carrier timestamp metadata to confirm the 3:26 PM MST time.
 
@@ -841,7 +851,7 @@ Claim: The host says a text thread with Justin and Aubrey shows Andrew Kolvet co
 Anchored Artifacts: A-1889.1, A-1889.2
 Mentions: N-14, N-15, N-550
 
-Related Nodes: N-10554, N-10557
+Related Nodes: N-10507, N-10510
 
 Investigative Direction: Obtain full text thread with carrier-verified timestamps; reconcile against ADSB data for the plane Andrew was on.
 
@@ -856,7 +866,7 @@ Claim: Per the host, the N40JD plane, owned by Jason Knupp (who the host says ap
 Anchored Artifacts: A-1894.1
 Mentions: N-1
 
-Related Nodes: N-10558
+Related Nodes: N-10511
 
 Investigative Direction: Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest.
 
@@ -871,7 +881,7 @@ Claim: Andrew Kolvet stated in an interview with Ross Douthat (New York Times) t
 Anchored Artifacts: A-1890.1
 Mentions: N-14, N-1, N-805
 
-Related Nodes: N-10556
+Related Nodes: N-10509
 
 Investigative Direction: Verify the show aired live (not pre-recorded) by obtaining written confirmation from guest Nick Shirley, YouTube upload timestamps, and production records.
 
@@ -886,7 +896,7 @@ Claim: In a clip the host plays, Nick Shirley says that over the course of two d
 Anchored Artifacts: A-1891.2
 Mentions: N-213
 
-Related Nodes: N-10559
+Related Nodes: N-10512
 
 Investigative Direction: Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting.
 
@@ -930,7 +940,7 @@ Claim: Per the 2020 charter listing the host shows for the plane she identifies 
 
 Anchored Artifacts: A-1887.3
 
-Related Nodes: N-10554
+Related Nodes: N-10507
 
 Investigative Direction: Obtain current charter operator records to verify whether the aircraft has been retrofitted with Wi-Fi since 2020.
 
@@ -945,7 +955,7 @@ Claim: Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was 
 Anchored Artifacts: A-1890.1
 Mentions: N-14, N-1, N-805
 
-Related Nodes: N-10556
+Related Nodes: N-10509
 
 Investigative Direction: Verify the specific guest booked for September 9 interview; cross-check against show archives.
 
@@ -960,7 +970,7 @@ Claim: The host refers to the Yrefy plane: she says Erika Kirk told her about it
 Anchored Artifacts: A-1887.3
 Mentions: N-14, N-2
 
-Related Nodes: N-10554
+Related Nodes: N-10507
 
 Investigative Direction: Verify whether "Yrefy" is a transcript rendering of a specific aircraft name (e.g., "WiRefi Air") or a phonetic rendering by Erika Kirk.
 
@@ -994,7 +1004,7 @@ Claim: The host says Marina told Aubrey that Andrew Kolvet was not available and
 Anchored Artifacts: A-1889.2 (text thread)
 Mentions: N-14, N-1, N-550, N-493
 
-Related Nodes: N-10554
+Related Nodes: N-10507
 
 Investigative Direction: Obtain the full text thread; identify timestamp when TPUSA's public statement went out.
 
@@ -1025,7 +1035,7 @@ Transcript Snippet: That's when you choose to come in and answer the accusations
 
 Anchored Artifacts: A-2938.1
 Mentions: N-330, N-2
-Related Nodes: N-10866
+Related Nodes: N-10787
 Tags: relevance:core
 Investigative Direction: Locate the Alo jumpsuit exchange and any TPUSA or Erika Kirk response to it; compare with responses to the Santa Barbara departure allegation.
 
@@ -1041,7 +1051,7 @@ Transcript Snippet: But I do three shows accusing you of leaving Santa Barbara b
 
 Anchored Artifacts: A-2938.1
 Mentions: N-330
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Review Coleman's three shows and check whether TPUSA, Andrew Kolvet or Erika Kirk publicly addressed the Santa Barbara departure allegation.
 
@@ -1057,7 +1067,7 @@ Transcript Snippet: I simply cannot reveal to you how I came across this informa
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10555
+Related Nodes: N-10508
 Tags: relevance:core
 Investigative Direction: Because the source is withheld, corroborate through independent records (Hopkinson staff, FBO logs) rather than the source.
 
@@ -1073,7 +1083,7 @@ Transcript Snippet: Nobody's come forward at least to say that they saw Erika on
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10553
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Canvass for witnesses, CCTV and phone records at each location Erika Kirk has said she visited on September 10, 2025.
 
@@ -1089,7 +1099,7 @@ Transcript Snippet: she collapsed in a parking lot after her mother uh help she 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10553
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the clinic or hospital and parking lot, request security footage and any 911 or ambulance record for September 10, 2025.
 
@@ -1105,7 +1115,7 @@ Transcript Snippet: Then we know that at some point she had to have raced to the
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10553
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the priest and entourage members and obtain terminal sign-in, ramp or CCTV records from Scottsdale FBOs.
 
@@ -1121,7 +1131,7 @@ Transcript Snippet: Erika told me to my face, also Elizabeth McCoy wrote a long 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-217
-Related Nodes: N-10553
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Locate Elizabeth McCoy's post and the date and wording of Erika Kirk's own account of where she took the doctor's call.
 
@@ -1137,7 +1147,7 @@ Transcript Snippet: it's a a luxury aircraft brokerage. Like where you go to buy
 
 Anchored Artifacts: A-1886.1
 Mentions: N-3
-Related Nodes: N-10555
+Related Nodes: N-10508
 Tags: relevance:core
 Investigative Direction: Check Hopkinson's business registration, Arizona and Canadian corporate filings and the address it publishes.
 
@@ -1153,7 +1163,7 @@ Transcript Snippet: Hopkinson Aircraft Sales uh also with Atlantic Aviation and 
 
 Anchored Artifacts: A-1886.2
 Mentions: N-3
-Related Nodes: N-10555, N-11189
+Related Nodes: N-10508, N-11105
 Tags: relevance:core
 Investigative Direction: Verify the tenants and building footprints at 14600 N Aircraft Drive through Scottsdale Airport leasing and county parcel records.
 
@@ -1169,7 +1179,7 @@ Transcript Snippet: Even though she did actually say when he got shot, I effing 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10553
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify where and to whom Erika Kirk said this and whether any recording or witness account exists.
 
@@ -1185,7 +1195,7 @@ Transcript Snippet: we believe that neither of those flights are the alleged muc
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2, N-330
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain FAA/ADSB records for Santa Barbara and Scottsdale departures on September 10, 2025 and manifests or charter invoices for each leg.
 
@@ -1201,7 +1211,7 @@ Transcript Snippet: Andrew himself has never said that he took the 3:19 Santa Ba
 
 Anchored Artifacts: A-1887.1
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10557
+Related Nodes: N-10510
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's account to the host with any on-record statement by Andrew Kolvet naming the plane he took.
 
@@ -1217,7 +1227,7 @@ Transcript Snippet: Andrew described a plane as a massive plane to me multiple t
 
 Anchored Artifacts: A-1887.1
 Mentions: N-3, N-14
-Related Nodes: N-10557
+Related Nodes: N-10510
 Tags: relevance:core
 Investigative Direction: Find Kolvet's public statement describing a massive plane to himself and match it to a tail number.
 
@@ -1233,7 +1243,7 @@ Transcript Snippet: And Justin jumps in on the text it and he says that uh, "It'
 
 Anchored Artifacts: A-1889.2
 Mentions: N-3, N-550, N-15, N-14, N-1
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the full Aubrey/Justin thread with carrier timestamps and the company-wide email it refers to.
 
@@ -1249,7 +1259,7 @@ Transcript Snippet: He says, "My internet just came back on." Different from I'm
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the original message with its timestamp and compare its wording with the 3:26 p.m. "on the plane" message.
 
@@ -1265,7 +1275,7 @@ Transcript Snippet: we learned that he did answer Aubrey um, on a separate Teleg
 
 Anchored Artifacts: A-2939.1
 Mentions: N-3, N-14, N-550, N-689
-Related Nodes: N-10554
+Related Nodes: N-10507
 Revises: C-7296
 Tags: relevance:core
 Investigative Direction: Obtain the Telegram messages and call log between Aubrey and Andrew Kolvet for the afternoon of September 10, 2025.
@@ -1282,7 +1292,7 @@ Transcript Snippet: when your plane gets low enough, you suddenly start to recei
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:context
 Investigative Direction: Test with an aviation connectivity expert whether messages arrive at a given altitude or only on a Wi-Fi or cell link.
 
@@ -1298,7 +1308,7 @@ Transcript Snippet: Andrew Kolvet that took two flights that day. And neither of
 
 Anchored Artifacts: A-1888.1
 Mentions: N-3, N-14
-Related Nodes: N-10554, N-10557
+Related Nodes: N-10507, N-10510
 Tags: relevance:core
 Investigative Direction: Establish the tail numbers and Wi-Fi equipment of each plane Kolvet flew on September 10, 2025.
 
@@ -1314,7 +1324,7 @@ Transcript Snippet: it was a G5. It definitely has Wi-Fi capabilities, therefore
 
 Anchored Artifacts: A-1888.1
 Mentions: N-3, N-1
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Ask the aircraft owner or operator whether the G5 had a Wi-Fi subscription active on September 10, 2025.
 
@@ -1330,7 +1340,7 @@ Transcript Snippet: It costs, just so you understand, $300,000 just to install W
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:context
 Investigative Direction: Check published price ranges for business-jet satellite Wi-Fi installation and monthly service.
 
@@ -1346,7 +1356,7 @@ Transcript Snippet: Somebody may have flown with Charlie on that plane. If If so
 
 Anchored Artifacts: A-2940.1
 Mentions: N-3, N-1
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:core, DIA
 Investigative Direction: Review the tips inbox for responses from past passengers about the G5's Wi-Fi.
 
@@ -1362,7 +1372,7 @@ Transcript Snippet: He's going to effectively admit that Charlie couldn't stand 
 
 Anchored Artifacts: A-1890.1
 Mentions: N-3, N-1, N-14, N-97
-Related Nodes: N-10556
+Related Nodes: N-10509
 Supports: C-7377
 Tags: relevance:core
 Investigative Direction: Identify the guest interviewed on September 9, 2025 and confirm from the show archive whether it was Ben Shapiro.
@@ -1379,7 +1389,7 @@ Transcript Snippet: we had a pre-record for hour two, actually. So, it it's prob
 
 Anchored Artifacts: A-1890.1
 Mentions: N-14, N-1
-Related Nodes: N-10556
+Related Nodes: N-10509
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's text thread with Charlie Kirk for the morning of September 10, 2025 and the hour-two pre-record.
 
@@ -1395,7 +1405,7 @@ Transcript Snippet: And that was about uh I think I had it it was like 33 minute
 
 Anchored Artifacts: A-1890.1
 Mentions: N-3, N-14, N-1
-Related Nodes: N-10556
+Related Nodes: N-10509
 Tags: relevance:core
 Investigative Direction: Compare message timestamps with the 12:23 p.m. shooting time and review whether the hour-two content addressed monogamy.
 
@@ -1411,7 +1421,7 @@ Transcript Snippet: Andrew visited the White House the day before the Epstein fi
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-69
-Related Nodes: N-10701, N-10324, N-10556
+Related Nodes: N-10638, N-10303, N-10509
 Tags: relevance:context
 Investigative Direction: Obtain White House visitor logs and the broadcast file for the Patel interview and compare its timestamp and location data.
 
@@ -1427,7 +1437,7 @@ Transcript Snippet: In the weeks afterward, he goes really viral for discovering
 
 Anchored Artifacts: A-1891.1
 Mentions: N-3, N-213, N-14
-Related Nodes: N-10559
+Related Nodes: N-10512
 Tags: relevance:context
 Investigative Direction: Confirm Shirley's age and the date of the day care video relative to September 10, 2025.
 
@@ -1443,7 +1453,7 @@ Transcript Snippet: I just I don't like stupid. That did not happen, okay? That 
 
 Anchored Artifacts: A-1891.2
 Mentions: N-3, N-213
-Related Nodes: N-10559, N-11190
+Related Nodes: N-10512, N-11106
 Tags: relevance:tangential
 Investigative Direction: Review the Brazil favela footage, dates and any local reporting about Shirley's access.
 
@@ -1459,7 +1469,7 @@ Transcript Snippet: the LDS Church. And he also happens to be from Utah.
 
 Anchored Artifacts: 
 Mentions: N-3, N-213
-Related Nodes: N-10094, N-10559
+Related Nodes: N-10090, N-10512
 Tags: relevance:context
 Investigative Direction: Confirm Shirley's home state and religious affiliation from his own statements.
 
@@ -1475,7 +1485,7 @@ Transcript Snippet: I have not yet heard back from him. I sent it this morning, 
 
 Anchored Artifacts: A-2941.1
 Mentions: N-3, N-213
-Related Nodes: N-10556
+Related Nodes: N-10509
 Tags: relevance:core
 Investigative Direction: Check whether Shirley responded publicly or privately and compare with the show's upload and live-stream records.
 
@@ -1491,7 +1501,7 @@ Transcript Snippet: If you have any information regarding this, please email us 
 
 Anchored Artifacts: A-2942.1
 Mentions: N-3
-Related Nodes: N-10556
+Related Nodes: N-10509
 Tags: relevance:core, DIA
 Investigative Direction: Review the tip line for responses about the September 10 live show.
 
@@ -1507,7 +1517,7 @@ Transcript Snippet: I do believe Erika Kirk flew with Tyler Bowyer. And another 
 
 Anchored Artifacts: A-2943.1
 Mentions: N-3, N-2, N-11
-Related Nodes: N-10387
+Related Nodes: N-10360
 Tags: relevance:core
 Investigative Direction: Obtain Bowyer's travel records and a first-person account of his September 10 location.
 
@@ -1523,7 +1533,7 @@ Transcript Snippet: enough evidence to at least suggest um suggest that Andrew K
 
 Anchored Artifacts: A-2943.1
 Mentions: N-3, N-14, N-1
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the manifest for Charlie Kirk's plane for September 10, 2025.
 
@@ -1539,7 +1549,7 @@ Transcript Snippet: this one is going to land into Provo at 4:36 p. m. Way too l
 
 Anchored Artifacts: A-2943.1
 Mentions: N-3, N-14
-Related Nodes: N-10557, N-10554
+Related Nodes: N-10510, N-10507
 Tags: relevance:core
 Investigative Direction: Pull ADSB arrival data for the Santa Barbara-to-Provo flight and compare with Erika Kirk's account of when Andrew arrived.
 
@@ -1555,7 +1565,7 @@ Transcript Snippet: Andrew went to the front and Erika went through some private
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10149, N-10548
+Related Nodes: N-10144, N-10502
 Tags: relevance:core
 Investigative Direction: Compare the sources of the host's entrance account with hospital staff and security accounts.
 
@@ -1571,7 +1581,7 @@ Transcript Snippet: by saying, "Oh, he he married pretty quickly pretty quickly.
 
 Anchored Artifacts: 
 Mentions: N-3, N-5, N-209
-Related Nodes: N-10546
+Related Nodes: N-10501
 Tags: relevance:context
 Investigative Direction: Locate the Trump remark and the date of Kent's remarriage.
 
@@ -1587,7 +1597,7 @@ Transcript Snippet: And of course Joe Kent says, "That wasn't my goal. My goal w
 
 Anchored Artifacts: A-1892.1
 Mentions: N-3, N-209, N-806, N-40
-Related Nodes: N-10546
+Related Nodes: N-10501
 Tags: relevance:context
 Investigative Direction: Obtain the full Shellenberger interview and compare Kent's wording.
 
@@ -1603,7 +1613,7 @@ Transcript Snippet: There is a murder weapon that was found near the site of the
 
 Anchored Artifacts: A-1893.1
 Mentions: N-159, N-14, N-40, N-1
-Related Nodes: N-10337
+Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Obtain the lab reports on DNA, caliber and casings from the case file.
 
@@ -1619,7 +1629,7 @@ Transcript Snippet: Tyler Robinson's parents see that photo and think, "That loo
 
 Anchored Artifacts: A-1893.1
 Mentions: N-159, N-14, N-40
-Related Nodes: N-11012
+Related Nodes: N-10932
 Contradicts: C-3999
 Supports: C-3227
 Tags: relevance:core
@@ -1637,7 +1647,7 @@ Transcript Snippet: There's digital confessions, but also his parents are out th
 
 Anchored Artifacts: A-1893.1
 Mentions: N-159, N-14, N-40
-Related Nodes: N-11012
+Related Nodes: N-10932, N-11360
 Tags: relevance:core
 Investigative Direction: Obtain the charging documents describing the digital messages and any parental statements.
 
@@ -1653,7 +1663,7 @@ Transcript Snippet: there is going to be even more evidence that is presented to
 
 Anchored Artifacts: A-1893.1
 Mentions: N-14, N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Compare the May hearing exhibits with what Neff described.
 
@@ -1669,7 +1679,7 @@ Transcript Snippet: you have government officials that are now saying on the rec
 
 Anchored Artifacts: A-1893.1
 Mentions: N-14, N-40, N-209
-Related Nodes: N-10546
+Related Nodes: N-10501
 Tags: relevance:core
 Investigative Direction: Identify which officials have said this on the record and to which journalists.
 
@@ -1685,7 +1695,7 @@ Transcript Snippet: He hasn't even been arraigned yet. He hasn't even pled guilt
 
 Anchored Artifacts: A-1893.1
 Mentions: N-3, N-40
-Related Nodes: N-11012
+Related Nodes: N-10932, N-11360
 Supports: C-4003, C-4293
 Tags: relevance:core
 Investigative Direction: Check the court docket for arraignment status and request the surrender recording.
@@ -1702,7 +1712,7 @@ Transcript Snippet: The part they're not telling you is that they cannot prove t
 
 Anchored Artifacts: A-1893.1
 Mentions: N-3, N-159, N-14, N-40
-Related Nodes: N-10621
+Related Nodes: N-10567
 Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain the ATF and lab findings on whether the rifle was fired and the bomb dog search records.
@@ -1719,7 +1729,7 @@ Transcript Snippet: He touched this gun that the feds then pointed to where the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10621, N-10360
+Related Nodes: N-10567, N-10336
 Supports: C-4549
 Tags: relevance:core
 Investigative Direction: Obtain the officers' reports on who found the rifle and what directions they were given.
@@ -1736,7 +1746,7 @@ Transcript Snippet: He failed, but tried to get one of the prosecutors dropped.
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:context
 Investigative Direction: Check the docket for the motion to disqualify a prosecutor and the ruling.
 
@@ -1752,7 +1762,7 @@ Transcript Snippet: Erika told me that she had no more evidence than the public 
 
 Anchored Artifacts: A-1893.1
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's statements in the December meeting with later statements by TPUSA about new evidence.
 
@@ -1768,7 +1778,7 @@ Transcript Snippet: She writes, "Imagine being called a coward after you've been
 
 Anchored Artifacts: A-2944.1
 Mentions: N-3, N-209
-Related Nodes: N-10546
+Related Nodes: N-10501
 Supports: C-7159
 Tags: relevance:context
 Investigative Direction: Verify Kent's deployments and his wife's death from military records.
@@ -1800,7 +1810,7 @@ Transcript Snippet: at the very least that Kash Patel stopped Joe Kent.
 
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-209
-Related Nodes: N-10355
+Related Nodes: N-10332
 Supports: C-7247
 Tags: relevance:core
 Investigative Direction: Compare with Kent's own account of the NCTC investigation being halted.
@@ -1817,7 +1827,7 @@ Transcript Snippet: I don't believe that they have suddenly, since I met with Er
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Document the date of the meeting and any evidence TPUSA later publishes.
 
@@ -1833,7 +1843,7 @@ Transcript Snippet: Worst kept secret in the history of the world is that Charli
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97
-Related Nodes: N-10386
+Related Nodes: N-10359
 Tags: relevance:context
 Investigative Direction: Look for Charlie Kirk's public and private statements about Shapiro.
 
@@ -1849,7 +1859,7 @@ Transcript Snippet: They were just going to let Ben take over Turning Point or s
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-1, N-97, N-2
-Related Nodes: N-10386
+Related Nodes: N-10359
 Tags: relevance:context
 Investigative Direction: Clarify which event or agreement the host means.
 
@@ -1910,7 +1920,7 @@ Transcript Snippet: Which by the way makes me laugh even more when they suggest 
 
 Anchored Artifacts: 
 Mentions: N-3, N-209, N-2
-Related Nodes: N-10551
+Related Nodes: N-10505
 Supports: C-7261
 Tags: relevance:context
 Investigative Direction: Document which critics made the claim.
@@ -2055,7 +2065,7 @@ Artifact Families Introduced:
 Claim Range: C-7352 – C-7367
 
 New Nodes Introduced:
-N-10553, N-10554, N-10555, N-10556, N-10557, N-10558, N-10559
+N-10440, N-10507, N-10508, N-10509, N-10510, N-10511, N-10512
 
 Existing Nodes Reused:
 N-1 (Charlie Kirk), (Mike Mitchell Public Record Anomaly), (Brooksby Suicide Narrative Discrepancy), (Robinson Apartment Staging Allegation), (Phil Lyman Proximity and Behavior Investigation), (UVU Campus Familiarity Question), (Phil Lyman Location Discrepancy)

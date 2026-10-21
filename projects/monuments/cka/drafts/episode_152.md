@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-864, N-865, N-867, N-11263, N-11264, N-11265
+  - Tip-minted Nodes (supplement_2026-10d): N-864, N-865, N-867, N-11179, N-11180, N-11181
   - Hole-minted Nodes (reintro-ep152): N-194
   - Tip-minted Nodes (reintro-ep152): N-832, N-833
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13070–C-13179
-  - Reused Nodes Appearing: N-10832, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-135, N-154, N-159, N-204, N-58, N-237, N-278, N-325, N-330, N-341, N-367, N-424, N-449, N-450, N-460, N-487, N-488, N-529, N-568, N-685, N-686, N-687, N-775, N-799, N-800, N-384, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10056, N-10129, N-10151, N-10193, N-10198, N-10246, N-10338, N-10410, N-10411, N-10421, N-10435, N-10524, N-10609, N-10698, N-10725, N-10770, N-10899, N-10969, N-10989, N-11047, N-11099, N-11165, N-11167, N-11203, N-866
- - New Nodes Introduced: N-10831, N-10832
+  - Reused Nodes Appearing: N-11360, N-10755, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-135, N-154, N-159, N-204, N-58, N-237, N-278, N-325, N-330, N-341, N-367, N-424, N-449, N-450, N-460, N-487, N-488, N-529, N-568, N-685, N-686, N-687, N-775, N-799, N-800, N-384, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10053, N-10124, N-10146, N-10185, N-10190, N-10232, N-10214, N-10383, N-10384, N-10394, N-10390, N-10481, N-10556, N-10635, N-10660, N-10188, N-10820, N-10890, N-10909, N-10965, N-11017, N-11081, N-11083, N-11119, N-866
+ - New Nodes Introduced: N-10754, N-10755
  - Reused Nodes Appearing: N-11, N-506
  - Hole-minted Nodes (wave3): N-587
  - (see registers)
@@ -44,7 +44,7 @@
 
 Artifact Families Introduced: A-2374, A-2375, A-2376, A-2377, A-2378, A-2379, A-2380, A-2381, A-2382
 Claim Range: C-13070–C-13123
-New Nodes Introduced: N-10831, N-10832
+New Nodes Introduced: N-10754, N-10755
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -287,7 +287,7 @@ First named by the host at 00:35:04 in episode 152.
 
 *Related: C-13152, A-2379.1, A-2380.1*
 
-**N-10831** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)
+**N-10754** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)
 
 Persistent question of why individuals with specialized ICAC/SVU backgrounds were centrally positioned in handling the September 10 case (initial warrants, statement-taking).
 
@@ -299,7 +299,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10832** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
+**N-10755** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
 
 Persistent claim that a recurring pattern of trafficking / child sex abuse involvement exists across multiple TPUSA-adjacent individuals.
 
@@ -376,7 +376,7 @@ Existing topic reused.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing topic reused.
 
@@ -384,7 +384,7 @@ Existing topic reused.
 
 ---
 
-**N-10129** Orem Police Department
+**N-10124** Orem Police Department
 
 Local police the host speculates the ICAC officer worked for.
 
@@ -392,7 +392,7 @@ Local police the host speculates the ICAC officer worked for.
 
 ---
 
-**N-10151** Mike Mitchell Undercover Role Verification
+**N-10146** Mike Mitchell Undercover Role Verification
 
 Existing topic reused.
 
@@ -400,7 +400,7 @@ Existing topic reused.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Existing topic reused.
 
@@ -408,7 +408,7 @@ Existing topic reused.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Existing topic reused.
 
@@ -416,7 +416,7 @@ Existing topic reused.
 
 ---
 
-**N-10246** Calvary Chapel Institutional Abuse Pattern
+**N-10232** Calvary Chapel Institutional Abuse Pattern
 
 Existing topic reused.
 
@@ -424,7 +424,7 @@ Existing topic reused.
 
 ---
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Existing topic reused.
 
@@ -432,7 +432,7 @@ Existing topic reused.
 
 ---
 
-**N-10410** TPUSA Board Member Military–Satanism Connection
+**N-10383** TPUSA Board Member Military–Satanism Connection
 
 Existing topic reused.
 
@@ -440,7 +440,7 @@ Existing topic reused.
 
 ---
 
-**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+**N-10384** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 Lawsuits over Romanian trafficking allegations against the church.
 
@@ -448,7 +448,7 @@ Lawsuits over Romanian trafficking allegations against the church.
 
 ---
 
-**N-10421** Buckman–TPUSA Donor Relationship Investigation
+**N-10394** Buckman–TPUSA Donor Relationship Investigation
 
 Existing topic reused.
 
@@ -456,14 +456,14 @@ Existing topic reused.
 
 ---
 
-**N-10435** Fort Huachuca Erika Kirk Location Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 Existing topic reused for the Fort Huachuca reference.
 
 *Related: C-13074*
 
 ---
 
-**N-10524** Faith Kates – Epstein Relationship Scope
+**N-10481** Faith Kates – Epstein Relationship Scope
 
 Existing topic reused.
 
@@ -471,7 +471,7 @@ Existing topic reused.
 
 ---
 
-**N-10609** Marcus Wada Arms Trafficking and Biography Cluster
+**N-10556** Marcus Wada Arms Trafficking and Biography Cluster
 
 Existing topic reused.
 
@@ -479,7 +479,7 @@ Existing topic reused.
 
 ---
 
-**N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
+**N-10635** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
 Existing topic reused for the modeling apartments claims.
 
@@ -487,7 +487,7 @@ Existing topic reused for the modeling apartments claims.
 
 ---
 
-**N-10725** Officer Bagley Body-Cam Battery Anomaly
+**N-10660** Officer Bagley Body-Cam Battery Anomaly
 
 Existing topic reused.
 
@@ -495,7 +495,7 @@ Existing topic reused.
 
 ---
 
-**N-10770** Utah Valley Hospital File Anomaly
+**N-10188** UVU Hospital Charlie Kirk Medical File Access Question
 
 Existing topic reused.
 
@@ -503,7 +503,7 @@ Existing topic reused.
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 YouTube channel the host says TPUSA used for a ballistics explanation.
 
@@ -511,7 +511,7 @@ YouTube channel the host says TPUSA used for a ballistics explanation.
 
 ---
 
-**N-10969** Trump–Charlie Kirk July 12, 2025 Scolding Call
+**N-10890** Trump–Charlie Kirk July 12, 2025 Scolding Call
 
 Existing topic reused.
 
@@ -519,7 +519,7 @@ Existing topic reused.
 
 ---
 
-**N-11047** All Things Possible Ministries
+**N-10965** All Things Possible Ministries
 
 Marx's charity.
 
@@ -527,7 +527,7 @@ Marx's charity.
 
 ---
 
-**N-11099** Candace Owens Australia Visa Review
+**N-11017** Candace Owens Australia Visa Review
 
 Existing topic reused.
 
@@ -535,7 +535,7 @@ Existing topic reused.
 
 ---
 
-**N-11165** Romanian Angels Project
+**N-11081** Romanian Angels Project
 
 Erika's charity named in the trafficking spreadsheet.
 
@@ -543,14 +543,14 @@ Erika's charity named in the trafficking spreadsheet.
 
 ---
 
-**N-11167** Operation Underground Railroad
+**N-11083** Operation Underground Railroad
 Anti-trafficking group the host says Beck funded.
 
 *Related: C-13080, C-13087*
 
 ---
 
-**N-11203** Make Heaven Crowded Tour
+**N-11119** Make Heaven Crowded Tour
 
 First TPUSA tour after Charlie's death.
 
@@ -659,6 +659,16 @@ Cited as an example of lobby pressure and touring.
 Interviewer on Erika's media tour (transcribed Bari Weiss).
 
 *Related: C-13173*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-13098, C-13094*
 
 ---
 
@@ -950,7 +960,7 @@ First named by the host at 00:56:43 in episode 152. Podcaster on whose show the 
 
 ---
 
-**N-10989** Soter Global Ministries
+**N-10909** Soter Global Ministries
 
 Node Type: Organization
 501(c)(3) the host says provides medical care and training to orphans in Romania, Albania and Ukraine, co-founded by Philip Goldsberry Jr. (transcribed Sofur).
@@ -959,7 +969,7 @@ Node Type: Organization
 
 ---
 
-**N-11263** Utah Internet Crimes Against Children Task Force
+**N-11179** Utah Internet Crimes Against Children Task Force
 
 Node Type: Organization
 State ICAC task force whose vest-wearing officer the host shows taking Mikey McCoy's statement; the host says it was established nationally by the Department of Justice and is run in Utah by the Attorney General's Office.
@@ -968,7 +978,7 @@ State ICAC task force whose vest-wearing officer the host shows taking Mikey McC
 
 ---
 
-**N-11264** Utah Attorney General's Office
+**N-11180** Utah Attorney General's Office
 
 Node Type: Organization
 State office the host says runs the Utah ICAC and brought in Lance Twiggs for a second statement in April.
@@ -977,7 +987,7 @@ State office the host says runs the Utah ICAC and brought in Lance Twiggs for a 
 
 ---
 
-**N-11265** The Bulwark
+**N-11181** The Bulwark
 
 Node Type: Organization
 Outlet the host credits (transcribed the bull work) with reporting on Matt Tardio's no contest plea.
@@ -1027,7 +1037,7 @@ Claim: The host says Mike Mitchell was an undercover detective in internet sex c
 Anchored Artifacts: None in this episode (host assertion only)
 Mentions: N-40, N-125
 
-Related Nodes: N-10831
+Related Nodes: N-10754, N-11360
 
 Investigative Direction: Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*
 
@@ -1044,7 +1054,7 @@ Claim: The host says Officer Christopher Bagley formerly worked in child sex cri
 Anchored Artifacts: None in this episode (host assertion only)
 Mentions: N-506
 
-Related Nodes: N-10831
+Related Nodes: N-10754
 
 Investigative Direction: Verify Bagley's personnel record with UVU police / Utah County Sheriff's Office.*
 
@@ -1078,7 +1088,7 @@ Claim: The host says Baron Coleman discovered that the first six search warrants
 Anchored Artifacts: A-2378.1
 Mentions: N-1, N-42, N-330, N-864
 
-Related Nodes: N-10831
+Related Nodes: N-10754
 
 Investigative Direction: Pull the search warrant records from Utah court filings to verify signatory.*
 
@@ -1093,7 +1103,7 @@ Claim: In a clip the host plays, Baron Coleman says that, per the training liste
 Anchored Artifacts: A-2378.1
 Mentions: N-330, N-864
 
-Related Nodes: N-10831
+Related Nodes: N-10754
 
 Investigative Direction: Verify Carl's Utah County Sheriff's Office / ICAC assignment records.*
 
@@ -1108,7 +1118,7 @@ Claim: The host says the never-before-seen footage and still photographs she sho
 Anchored Artifacts: A-2376.1, A-2376.2, A-2377.1, A-2377.2, A-2377.3
 Mentions: N-190
 
-Related Nodes: N-10831
+Related Nodes: N-10754
 
 Investigative Direction: Identify the specific officer via Utah ICAC roster; obtain the recorded statement through FOIA / public records request.*
 
@@ -1122,7 +1132,7 @@ Claim: The host says she is certain that the Utah ICAC works under, and is run b
 
 Anchored Artifacts: None in this episode (host assertion)
 
-Related Nodes: N-10831
+Related Nodes: N-10754
 
 Investigative Direction: Verify Utah ICAC administrative structure via Utah AG public materials.*
 
@@ -1138,7 +1148,7 @@ Claim: The host says the federal Internet Crimes Against Children Task Force Pro
 
 Anchored Artifacts: None in this episode (host statement)
 
-Related Nodes: N-10831
+Related Nodes: N-10754
 
 Investigative Direction: Verify DOJ / OJJDP documentation of the 1998 ICAC program founding.*
 
@@ -1236,7 +1246,7 @@ Claim: The episode displays a spreadsheet and host narration enumerating over fi
 Anchored Artifacts: A-2382.1
 Mentions: N-2
 
-Related Nodes: N-10832
+Related Nodes: N-10755
 
 Investigative Direction: Verify each row of the spreadsheet against primary court / news records; document the precise nature of each "connection" (e.g., accusation vs. conviction vs. employment).*
 
@@ -1251,7 +1261,7 @@ Claim: The host says Mike Mitchell convinced Matt Robinson's household to call T
 Anchored Artifacts: None in this episode
 Mentions: N-40, N-125, N-775
 
-Related Nodes:
+Related Nodes: N-11360
 
 Investigative Direction: Verify Mitchell's role via investigative reporting and Robinson family statements.*
 
@@ -1302,7 +1312,7 @@ Claim: The host asserts as opinion that the placement of ICAC / SVU personnel th
 Anchored Artifacts: None directly anchoring the conspiracy framing (artifact A-2378.1 and A-2376.2 anchor the underlying placements)
 Mentions: N-1
 
-Related Nodes: N-10831, N-10832
+Related Nodes: N-10754, N-10755
 
 Investigative Direction: Treat as framing premise – testable only via underlying placements (already inscribed above).*
 
@@ -1320,7 +1330,7 @@ Transcript Snippet: I recognized early on this weird recurring theme regarding h
 
 Anchored Artifacts: A-2382.1
 Mentions: N-3, N-2
-Related Nodes: N-11165
+Related Nodes: N-11081
 Supports: C-13071
 Tags: relevance:context
 Investigative Direction: Review the spreadsheet row by row against court, charity and press records to test each listed link.
@@ -1337,7 +1347,7 @@ Transcript Snippet: Colonel Otto B O Busher of course was accused of running a b
 
 Anchored Artifacts: A-2382.1
 Mentions: N-687, N-2
-Related Nodes: N-11165
+Related Nodes: N-11081
 Tags: relevance:context
 Investigative Direction: Find the primary accusation records or reporting on Busher and any Romanian Angels documents naming him.
 
@@ -1353,7 +1363,7 @@ Transcript Snippet: David Frodsham. He was the civilian commander that was stati
 
 Anchored Artifacts: A-2382.1
 Mentions: N-384
-Related Nodes: N-10435
+Related Nodes: N-10390
 Tags: relevance:context
 Investigative Direction: Identify the person under the correct spelling and pull the Fort Huachuca charging documents or reporting.
 
@@ -1369,7 +1379,7 @@ Transcript Snippet: Pastor Greg Laurie immediately after Charlie passed, the fir
 
 Anchored Artifacts: A-2382.1
 Mentions: N-450, N-2
-Related Nodes: N-11203
+Related Nodes: N-11119
 Tags: relevance:context
 Investigative Direction: Obtain the Make Heaven Crowded tour lineup and event paperwork and confirm Laurie's billing.
 
@@ -1385,7 +1395,7 @@ Transcript Snippet: they were they are currently going through the court system 
 
 Anchored Artifacts: A-2382.1
 Mentions: N-450
-Related Nodes: N-10411
+Related Nodes: N-10384
 Tags: relevance:context
 Investigative Direction: Pull the docket and complaints in the Harvest Christian Fellowship Romanian abuse lawsuits and the church's response.
 
@@ -1415,7 +1425,7 @@ Claim: The host says Calvary Chapel is riddled with pastor abuse stories and tha
 Transcript Snippet: We have the Calvary Chapel Church. We've done episodes on this riddled with pastor abuse stories. It almost seems systemic like they are finding these shady characters and making them pastors.
 
 Anchored Artifacts: A-2382.1
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Compile documented Calvary Chapel abuse cases and settlements to test whether the pattern is systemic.
 
@@ -1446,7 +1456,7 @@ Transcript Snippet: Him and Tim Ballard started Operation Underground. It was Gl
 
 Anchored Artifacts: A-2382.1
 Mentions: N-237, N-325
-Related Nodes: N-11167
+Related Nodes: N-11083
 Tags: relevance:context
 Investigative Direction: Check Operation Underground's founding history and funding disclosures.
 
@@ -1477,7 +1487,7 @@ Transcript Snippet: TPUSA adviser Paul Valle is the retired army general who ran
 
 Anchored Artifacts: A-2382.1
 Mentions: N-799, N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Tags: relevance:context
 Investigative Direction: Verify Vallely's TPUSA advisory role and the co-authored book (Aquino and Vallely, Psychological Operations material).
 
@@ -1508,7 +1518,7 @@ Transcript Snippet: Victor Markx, obviously, you know, he says that he helps wit
 
 Anchored Artifacts: A-2382.1
 Mentions: N-341
-Related Nodes: N-11047
+Related Nodes: N-10965
 Tags: relevance:context
 Investigative Direction: Review All Things Possible's filings for revenue sources and any supplement company contributions.
 
@@ -1539,7 +1549,7 @@ Transcript Snippet: Nela Buckman, who they announced as the biggest donor to Tur
 
 Anchored Artifacts: A-2382.1
 Mentions: N-460
-Related Nodes: N-10421
+Related Nodes: N-10394
 Tags: relevance:context
 Investigative Direction: Find TPUSA's announcement of the Buckman gift and the Buckman family's child rescue charity filings.
 
@@ -1555,7 +1565,7 @@ Transcript Snippet: Marcus Wada, that's more trafficking arms in Poland. Rick Cu
 
 Anchored Artifacts: A-2382.1
 Mentions: N-424, N-487, N-237
-Related Nodes: N-11167, N-10609
+Related Nodes: N-11083, N-10556
 Tags: relevance:context
 Investigative Direction: Check Wada's Polish organizations and Cutler's Operation Underground role.
 
@@ -1571,7 +1581,7 @@ Transcript Snippet: co-founding Soter Global Ministries a 501c3 that provides me
 
 Anchored Artifacts: A-2382.1
 Mentions: N-685
-Related Nodes: N-10989
+Related Nodes: N-10909
 Tags: relevance:context
 Investigative Direction: Pull the IRS filing for Sofer Global Ministries and its officers.
 
@@ -1633,7 +1643,7 @@ Transcript Snippet: because he's the one who claimed that he recognized Tyler Ro
 
 Anchored Artifacts: 
 Mentions: N-125, N-40, N-775
-Related Nodes: N-10151
+Related Nodes: N-10146
 Supports: C-13094
 Tags: relevance:core
 Investigative Direction: Obtain Mitchell's statements, Boy Scout troop records and the Robinson family account of how he got involved.
@@ -1665,7 +1675,7 @@ Transcript Snippet: Unfortunately, his body cam footage failed him. He too forme
 
 Anchored Artifacts: 
 Mentions: N-506
-Related Nodes: N-10725
+Related Nodes: N-10660
 Supports: C-13099
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary hearing testimony and the camera's metadata on when recording stopped relative to the screwdriver discovery.
@@ -1744,7 +1754,7 @@ Transcript Snippet: He has signed off for these first warrants at about 3:19 p. 
 
 Anchored Artifacts: A-2378.1
 Mentions: N-864
-Related Nodes: N-11263
+Related Nodes: N-11179
 Supports: C-13104
 Tags: relevance:core
 Investigative Direction: Pull the signed warrant returns and compare the timestamps with the death announcement and affidavit time.
@@ -1794,7 +1804,7 @@ Transcript Snippet: we learned that the surveillance footage was also seized fro
 
 Anchored Artifacts: A-2378.1
 Mentions: N-864
-Related Nodes: N-10770
+Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Obtain the hospital footage warrant and affidavit rationale.
 
@@ -1856,7 +1866,7 @@ Transcript Snippet: Mikey is going to end his phone call with Danny Phillip. We 
 
 Anchored Artifacts: A-2376.1
 Mentions: N-190, N-367, N-2
-Related Nodes: N-10193
+Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Compare the supplied call logs with phone-company records for the minutes around 12:23 pm.
 
@@ -1872,7 +1882,7 @@ Transcript Snippet: they're standing behind the SUV that uh Blake Neff and being
 
 Anchored Artifacts: A-2377.1
 Mentions: N-190, N-159, N-367
-Related Nodes: N-11263
+Related Nodes: N-11179
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Identify vehicle occupants and seating via the footage, driver records and the transport timeline.
@@ -1889,7 +1899,7 @@ Transcript Snippet: we're talking 25 minutes um after Charlie shortly before 1:0
 
 Anchored Artifacts: A-2377.2
 Mentions: N-190, N-1
-Related Nodes: N-10198
+Related Nodes: N-10190
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Check the footage metadata time and compare with the hospital arrival time of McCoy and the group.
@@ -1906,7 +1916,7 @@ Transcript Snippet: Obviously, if they wanted to race to go be with Charlie or t
 
 Anchored Artifacts: A-2377.1
 Mentions: N-190
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Reconstruct vehicle positions and movements from footage, Uber logs and departure times.
 
@@ -1922,7 +1932,7 @@ Transcript Snippet: in the presence of the FBI, eventually the SBI, the UVU poli
 
 Anchored Artifacts: 
 Mentions: N-190
-Related Nodes: N-10014, N-11263
+Related Nodes: N-10014, N-11179
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Obtain the multi-agency response roster and CAD logs for UVU on September 10.
@@ -1939,7 +1949,7 @@ Transcript Snippet: So maybe this woman worked locally out of the ORM Police Dep
 
 Anchored Artifacts: A-2377.2
 Mentions: N-190
-Related Nodes: N-10129, N-11263
+Related Nodes: N-10124, N-11179
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Identify the officer from the vest and footage, then request the statement report and agency assignment records.
@@ -1956,7 +1966,7 @@ Transcript Snippet: the same attorney general's office that then brought in Lanc
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-11264
+Related Nodes: N-11180
 Supports: C-13121
 Tags: relevance:core
 Investigative Direction: Obtain the April interview record and identify who in the AG's office conducted it.
@@ -1972,7 +1982,7 @@ Claim: The host says, as her strong opinion, that this looks like a control mech
 Transcript Snippet: this feels like a control mechanism that's being directed by the feds. Like this is one big group. And for some reason, the feds wanted them in particular to have their hands everywhere in this case.
 
 Anchored Artifacts: 
-Related Nodes: N-10831
+Related Nodes: N-10754
 Supports: C-13123
 Tags: relevance:core
 Investigative Direction: No documentary test exists yet; trace tasking orders for the ICAC and SVU personnel to see who directed their presence.
@@ -2004,7 +2014,7 @@ Transcript Snippet: Trump's phone call yelling at him for speaking about the Eps
 
 Anchored Artifacts: 
 Mentions: N-5, N-1, N-9
-Related Nodes: N-10969
+Related Nodes: N-10890
 Tags: relevance:core
 Investigative Direction: Locate the call and its witnesses; compare with the host's earlier accounts of the July 12 call.
 
@@ -2051,7 +2061,7 @@ Transcript Snippet: the people that are were lying about what Charlie was going 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Collect statements from those present on September 9 and 10 and compare them with the host's sources.
 
@@ -2098,7 +2108,7 @@ Transcript Snippet: the attorney general um of Utah was a man named David O. Lev
 
 Anchored Artifacts: 
 Mentions: N-865
-Related Nodes: N-11264
+Related Nodes: N-11180
 Tags: relevance:context
 Investigative Direction: Verify Leavitt's office (the host says attorney general; public records list Utah County Attorney) and the status of every scandal.
 
@@ -2174,7 +2184,7 @@ Transcript Snippet: when people came and said that she was working um with the m
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10698
+Related Nodes: N-10635
 Tags: relevance:core
 Investigative Direction: Obtain documents showing Erika's role at the agency and the apartment arrangements; see earlier episodes' sourcing.
 
@@ -2190,7 +2200,7 @@ Transcript Snippet: I emailed them and asked for a statement. They could have ea
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10698
+Related Nodes: N-10635
 Tags: relevance:core
 Investigative Direction: Obtain the host's outbound email and any reply or non-reply log.
 
@@ -2206,7 +2216,7 @@ Transcript Snippet: Faith Kates running that modeling agency and or a modeling a
 
 Anchored Artifacts: 
 Mentions: N-568, N-529, N-9
-Related Nodes: N-10524
+Related Nodes: N-10481
 Tags: relevance:context
 Investigative Direction: Verify the agency's founding history, Kates's role and Brunel's connection to the New York agency.
 
@@ -2236,7 +2246,7 @@ Claim: The host says TPUSA used Paramount Tactical, presented as a former Green 
 Transcript Snippet: instantly we saw Turning Point USA uh using uh Paramount Tactical and like oh he's a former Green Beret so he's he can explain to you why magic bullets might split in the air
 
 Anchored Artifacts: 
-Related Nodes: N-10899
+Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Review the TPUSA broadcast in which Paramount Tactical appears and check for any statement about bullet splitting.
 
@@ -2358,7 +2368,7 @@ Transcript Snippet: Tardio tried to take one of his fans at the protest back to 
 
 Anchored Artifacts: A-3085.1
 Mentions: N-587
-Related Nodes: N-11265
+Related Nodes: N-11181
 Supports: C-13152
 Tags: relevance:context
 Investigative Direction: Obtain the Bulwark report, the Portland police report and the court docket.
@@ -2375,7 +2385,7 @@ Transcript Snippet: Tardio's explanation was that the left-wing Antifa activists
 
 Anchored Artifacts: A-3085.1
 Mentions: N-587
-Related Nodes: N-11265
+Related Nodes: N-11181
 Tags: relevance:context
 Investigative Direction: Review the detective's interview transcript if released.
 
@@ -2499,7 +2509,7 @@ Transcript Snippet: They had the ability to get me banned from a country. I've n
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-11099
+Related Nodes: N-11017
 Tags: relevance:tangential
 Investigative Direction: Obtain the Australian Home Affairs decision and any documented lobbying.
 
@@ -2696,7 +2706,7 @@ Transcript Snippet: when he was telling people that he was he was going to bring
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Identify the people Charlie spoke to in those days and obtain their accounts or messages.
 
@@ -2842,7 +2852,7 @@ Confidence: high
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle.
-- [x] People nodes use the global people ledger (N-10141+ series for new entries).
+- [x] People nodes use the global people ledger (N-10136+ series for new entries).
 - [x] Non-person investigation targets use the 2230 series.
 - [x] No speculative claims inscribed as evidence-backed.
 - [x] Names preserved exactly or uncertainty noted.
@@ -2853,5 +2863,5 @@ Confidence: high
 Episode 152 analysis complete. Ledger continuation preserved. Next available IDs after this episode:
 - Next Artifact Family: A-2383
 - Next Claim ID: C-3465 (pre-2026-10-20 claim ids)
-- Next Node ID (people): N-10169
-- Next Node ID (investigation targets): N-10833
+- Next Node ID (people): N-10162
+- Next Node ID (investigation targets): N-10756

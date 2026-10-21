@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-756, N-757, N-758, N-759, N-760, N-761, N-762, N-763, N-11106
-  - Hole-minted Nodes (reintro-ep031): N-277, N-579, N-10252, N-10264, N-10465, N-10818
-  - Tip-minted Nodes (reintro-ep031): N-613, N-713, N-10916, N-10989
+  - Tip-minted Nodes (supplement_2026-10b): N-756, N-757, N-758, N-759, N-760, N-761, N-762, N-763, N-11024
+  - Hole-minted Nodes (reintro-ep031): N-277, N-579, N-10238, N-10248, N-10434, N-10741
+  - Tip-minted Nodes (reintro-ep031): N-613, N-713, N-10837, N-10909
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2723–C-2815
-  - New Nodes Introduced: N-249, N-10246, N-10247
-  - Reused Nodes Appearing: N-5, N-9, N-27, N-36, N-40, N-46, N-82, N-85, N-98, N-190, N-205, N-208, N-227, N-246, N-247, N-10000, N-10004, N-10107, N-10139, N-10166, N-10193, N-10209, N-10245, N-10253, N-10324, N-10398, N-10251, N-10270, N-10406, N-10434, N-377, N-10268, N-10817, N-298
+  - New Nodes Introduced: N-249, N-10232, N-10233
+  - Reused Nodes Appearing: N-5, N-9, N-27, N-36, N-40, N-46, N-82, N-85, N-98, N-190, N-205, N-208, N-227, N-246, N-247, N-10000, N-10004, N-10103, N-10134, N-10159, N-10185, N-10201, N-10231, N-10239, N-10303, N-10371, N-10237, N-10254, N-10379, N-10404, N-377, N-10252, N-10740, N-298
   - (see registers)
 
 ## 2. Executive Summary
@@ -283,7 +283,7 @@ Video Timestamp: 00:06:39–00:08:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2737, N-249, N-10247*
+*Related: C-2737, N-249, N-10233*
 
 ---
 
@@ -311,7 +311,7 @@ Video Timestamp: 00:12:54–00:13:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2745, C-2744, C-2746, N-249, Rob McCoy (likely-existing node), N-10247*
+*Related: C-2745, C-2744, C-2746, N-249, Rob McCoy (likely-existing node), N-10233*
 
 **A-1394.2** Thomas Camino Narrative on Bryce Eddy Show – Claims of False Conviction
 
@@ -363,7 +363,7 @@ Video Timestamp: 00:52:17–00:52:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (auto-caption; spelling uncertain)
 
-*Related: Rob McCoy (likely-existing node), N-10246*
+*Related: Rob McCoy (likely-existing node), N-10232*
 
 **A-1397.2** Top Comment #2 (Yesterday): "Lobo Gray" – Vietnam Veteran Comment on Owens' Courage
 
@@ -497,7 +497,7 @@ Video Timestamp: 00:58:13–00:59:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (alt content present in transcript; preserves spelling)
 
-*Related: C-2801, N-10247*
+*Related: C-2801, N-10233*
 
 **A-1398.12** Today's Comment: "Silicon Valley" – Self-Promotion of Historical Thriller Novel; Mention of Owens' Book Club
 
@@ -533,7 +533,7 @@ Video Timestamp: 00:18:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-2754, C-2755, C-2756, C-2757, C-2758, C-2759, C-2760, C-2761, C-2762, C-2763, C-2764, N-10246, N-3*
+*Related: C-2754, C-2755, C-2756, C-2757, C-2758, C-2759, C-2760, C-2761, C-2762, C-2763, C-2764, N-10232, N-3*
 
 ---
 
@@ -548,7 +548,7 @@ Video Timestamp: 00:25:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-2769, N-10247, N-3*
+*Related: C-2769, N-10233, N-3*
 
 ---
 
@@ -617,7 +617,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1392.1, A-1393.1, A-1394.1, A-1394.2, C-2739, C-2737, C-2745, C-2744, C-2748, N-10247, Rob McCoy (likely-existing node)*
+*Related: A-1392.1, A-1393.1, A-1394.1, A-1394.2, C-2739, C-2737, C-2745, C-2744, C-2748, N-10233, Rob McCoy (likely-existing node)*
 
 ---
 
@@ -630,7 +630,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1396.1, C-2801, Kash Patel (likely-existing node), N-10247*
+*Related: A-1396.1, C-2801, Kash Patel (likely-existing node), N-10233*
 
 ---
 
@@ -647,7 +647,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10246** Calvary Chapel Institutional Abuse Pattern
+**N-10232** Calvary Chapel Institutional Abuse Pattern
 
 Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Bob Coy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North Country Chapel Post Falls (Anthony Iglesias, Robert Davis), Virginia (Doug DeAndrea), Fort Lauderdale (2019), North Thurston Oregon (Jeffrey Zizz).
 
@@ -660,7 +660,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10247** Potter's Field Ministries Financial Fraud Allegations
+**N-10233** Potter's Field Ministries Financial Fraud Allegations
 
 2019 Whitefish, Montana ministry scandal involving allegations of overstated child counts, photoshopped letters, and redirection of funds to Rob McCoy's church via CFO arrangement.
 
@@ -891,23 +891,23 @@ TPUSA; the host calls it an $80 million company and links a donor to it.
 
 **N-10004** Kanye Tweet About Candace Owens
 
-Node Type: Topic
+Node Type: Thing
 Existing topic reused.
 
 *Related: C-2790*
 
 ---
 
-**N-10107** Crime Scene Pavers
+**N-10103** Crime Scene Pavers
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the host's pavers remark.
 
 *Related: C-2809*
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Node Type: Topic
 Existing topic reused for the host's Calvary Chapel remark.
@@ -916,43 +916,43 @@ Existing topic reused for the host's Calvary Chapel remark.
 
 ---
 
-**N-10166** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
+**N-10159** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the McCoy lies claim.
 
 *Related: C-2772*
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the call log claim.
 
 *Related: C-2733*
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the infiltration claim.
 
 *Related: C-2771*
 
 ---
 
-**N-10245** Alexis Wilkins Honeypot Allegation Lawsuit
+**N-10231** Alexis Wilkins Honeypot Allegation Lawsuit
 
-Node Type: Topic
+Node Type: Event
 Existing topic reused for the Wilkins and Schaefer claims.
 
 *Related: C-2797, C-2800*
 
 ---
 
-**N-10251** TPUSA Faith-Angle Investigation
+**N-10237** TPUSA Faith-Angle Investigation
 
 Node Type: Topic
 Existing topic reused for the TPUSA Faith pivot claim.
@@ -961,7 +961,7 @@ Existing topic reused for the TPUSA Faith pivot claim.
 
 ---
 
-**N-10252** Potter's Field Hostile Takeover Allegation
+**N-10238** Potter's Field Hostile Takeover Allegation
 
 Node Type: Topic
 Existing topic reused for the McCoy CFO claim.
@@ -970,7 +970,7 @@ Existing topic reused for the McCoy CFO claim.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Node Type: Topic
 Existing topic reused for the Egyptian planes announcement.
@@ -979,7 +979,7 @@ Existing topic reused for the Egyptian planes announcement.
 
 ---
 
-**N-10264** Calvary Chapel Pro-Israel Coordination
+**N-10248** Calvary Chapel Pro-Israel Coordination
 
 Node Type: Topic
 Existing topic reused for the Calvary Chapel founding remark.
@@ -988,7 +988,7 @@ Existing topic reused for the Calvary Chapel founding remark.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Node Type: Topic
 Existing topic reused for the donor demand claim.
@@ -997,16 +997,16 @@ Existing topic reused for the donor demand claim.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the Macron lawsuit claims.
 
 *Related: C-2779, C-2802*
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Node Type: Topic
 Existing topic reused for the Epstein emails claim.
@@ -1015,7 +1015,7 @@ Existing topic reused for the Epstein emails claim.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Node Type: Topic
 Existing topic reused for the TPUSA Faith claims.
@@ -1024,7 +1024,7 @@ Existing topic reused for the TPUSA Faith claims.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Node Type: Topic
 Existing topic reused for the Kelly claim.
@@ -1033,7 +1033,7 @@ Existing topic reused for the Kelly claim.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Node Type: Topic
 Existing topic reused for the DOGE committee claim.
@@ -1042,34 +1042,34 @@ Existing topic reused for the DOGE committee claim.
 
 ---
 
-**N-10465** Calvary Chapel Church CIA Connection Question
+**N-10434** Calvary Chapel Church CIA Connection Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the Chuck Smith claim.
 
 *Related: C-2776*
 
 ---
 
-**N-10817** Butch Hibbs UVU Recording Behavior
+**N-10740** Butch Hibbs UVU Recording Behavior
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the Butch Hibbs claim.
 
 *Related: C-2774*
 
 ---
 
-**N-10818** Jack Hibbs Sequence-of-Events Discrepancy
+**N-10741** Jack Hibbs Sequence-of-Events Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the Jack Hibbs claim.
 
 *Related: C-2775*
 
 ---
 
-**N-10916** Thomas Massie Kentucky Primary Outside Spending
+**N-10837** Thomas Massie Kentucky Primary Outside Spending
 
 Node Type: Topic
 Existing topic reused for the Adelson and Massie claim.
@@ -1078,7 +1078,7 @@ Existing topic reused for the Adelson and Massie claim.
 
 ---
 
-**N-10989** Soter Global Ministries
+**N-10909** Soter Global Ministries
 
 Node Type: Organization
 Existing organization reused for the orphanage remark.
@@ -1151,7 +1151,7 @@ First named by the host at 00:25:17 in episode 31. Former Potter's Field Ignite 
 
 ---
 
-**N-11106** Camino Conviction Narrative Dispute
+**N-11024** Camino Conviction Narrative Dispute
 
 Node Type: Topic
 Dispute between Thomas Camino's podcast account of a false conviction and the 1995 LA Times report, the host's account of a 1990 probation and the victim's email.
@@ -1206,7 +1206,7 @@ Claim: Owens reads aloud an email from a woman who states she was 8 years old an
 
 Anchored Artifacts: A-1392.1
 Mentions: N-249
-Related Nodes: N-10247
+Related Nodes: N-10233
 Investigative Direction: Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance.
 
 ---
@@ -1231,7 +1231,7 @@ Claim: Owens states that Rob McCoy decided Thomas Camino should have access to y
 
 Anchored Artifacts: A-1394.1
 Mentions: N-249, N-17
-Related Nodes: N-10246
+Related Nodes: N-10232
 Investigative Direction: Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.
 
 ---
@@ -1256,7 +1256,7 @@ Claim: In the podcast clip, Rob McCoy explicitly characterizes the criticism of 
 
 Anchored Artifacts: A-1394.1
 Mentions: N-249, N-17
-Related Nodes: N-10246
+Related Nodes: N-10232
 Investigative Direction: Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.
 
 ---
@@ -1281,7 +1281,7 @@ Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined l
 
 Anchored Artifacts: A-1396.1
 Mentions: N-277, N-212, N-69
-Related Nodes: N-10247
+Related Nodes: N-10233
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 
 ---
@@ -1317,7 +1317,7 @@ Claim Timestamp: 00:59:30
 Claim: A YouTube commenter using the handle "Mama Diaz" states that a Calvary Chapel pastor she watched online said, "If you have a Bible that has a map that shows Palestine, burn the Bible," and that she could "feel his hate through the screen."
 
 Anchored Artifacts: A-1398.11
-Related Nodes: N-10246
+Related Nodes: N-10232
 Investigative Direction: Identify the specific Calvary Chapel and pastor; locate the original broadcast or YouTube URL referenced.
 
 ---
@@ -1440,7 +1440,7 @@ Transcript Snippet: We should not pretend like somehow the case would be put at 
 
 Anchored Artifacts: 
 Mentions: N-190, N-1, N-3
-Related Nodes: N-10193, N-10434
+Related Nodes: N-10185, N-10404
 Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Request Mikey McCoy's call logs for September 10, 2025 and ask TPUSA to describe the DOGE committee Kirk reportedly planned.
@@ -1503,7 +1503,7 @@ Transcript Snippet: In 1990, uh, Camino was placed on probation for pleading no 
 
 Anchored Artifacts: A-2825.1
 Mentions: N-249, N-3
-Related Nodes: N-11106
+Related Nodes: N-11024
 Tags: relevance:context
 Investigative Direction: Pull the 1990 California court record for Camino; note that Manhattan Beach is in Los Angeles County, not Orange County, and confirm the plea and probation terms.
 
@@ -1519,7 +1519,7 @@ Transcript Snippet: Kamino's lawyer said his client, who had previously maintain
 
 Anchored Artifacts: A-1393.1
 Mentions: N-249
-Related Nodes: N-11106
+Related Nodes: N-11024
 Contradicts: C-2748
 Tags: relevance:context
 Investigative Direction: Retrieve the 1995 LA Times article and the sentencing transcript to check the lawyer's statement and whether Camino pleaded or went to trial.
@@ -1536,7 +1536,7 @@ Transcript Snippet: Prosecutors said he approached young girls, lured them into 
 
 Anchored Artifacts: A-1393.1
 Mentions: N-249
-Related Nodes: N-11106
+Related Nodes: N-11024
 Supports: C-2739
 Tags: relevance:context
 Investigative Direction: Retrieve the article and the Orange County Superior Court file for the 1994 incidents.
@@ -1553,7 +1553,7 @@ Transcript Snippet: until some mothers went online remembered exactly what had h
 
 Anchored Artifacts: 
 Mentions: N-17, N-249, N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Supports: C-2744
 Tags: relevance:context
 Investigative Direction: Find the 2022 online posts by the mothers and any Calvary Chapel Chino Hills statement on the home fellowship program.
@@ -1585,7 +1585,7 @@ Transcript Snippet: So I pulled that um I guess I guess it was a advertisement f
 
 Anchored Artifacts: A-1394.1
 Mentions: N-17, N-249
-Related Nodes: N-10246
+Related Nodes: N-10232
 Supports: C-2746
 Tags: relevance:context
 Investigative Direction: Locate the pulled home fellowship advertisement and compare its dates with the 2022 objections.
@@ -1602,7 +1602,7 @@ Transcript Snippet: And then they just keep asking her leading question after le
 
 Anchored Artifacts: A-1394.2
 Mentions: N-249
-Related Nodes: N-11106
+Related Nodes: N-11024
 Tags: relevance:context
 Investigative Direction: Obtain the trial transcript and the recorded interview to check Camino's description of how the child's statement was elicited.
 
@@ -1618,7 +1618,7 @@ Transcript Snippet: They get 11 of them, which kind sounds kind of bad until you
 
 Anchored Artifacts: A-1394.2
 Mentions: N-249
-Related Nodes: N-11106
+Related Nodes: N-11024
 Tags: relevance:context
 Investigative Direction: Obtain the search warrant return from the Orange County court file and the list of items seized.
 
@@ -1634,7 +1634,7 @@ Transcript Snippet: they say they have footprints, forensic evidence, footprints
 
 Anchored Artifacts: A-1394.2
 Mentions: N-249
-Related Nodes: N-11106
+Related Nodes: N-11024
 Tags: relevance:context
 Investigative Direction: Obtain the trial exhibits and forensic reports to check the footprint and palm print evidence and any plea offer.
 
@@ -1650,7 +1650,7 @@ Transcript Snippet: didn't have a record.
 
 Anchored Artifacts: A-1394.2
 Mentions: N-249
-Related Nodes: N-11106
+Related Nodes: N-11024
 Contradicts: C-2738
 Tags: relevance:context
 Investigative Direction: Compare Camino's statement with the 1990 Manhattan Beach court record.
@@ -1667,7 +1667,7 @@ Transcript Snippet: Yes, we agree. They broke the law twice out of out of the th
 
 Anchored Artifacts: A-1394.2
 Mentions: N-249
-Related Nodes: N-11106
+Related Nodes: N-11024
 Tags: relevance:context
 Investigative Direction: Retrieve the California Court of Appeal opinion in People v. Camino and read its harmless-error holding.
 
@@ -1683,7 +1683,7 @@ Transcript Snippet: Calvary Chapel Full Stop has a long history of claims of int
 
 Anchored Artifacts: A-2826.1
 Mentions: N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Compile court records, lawsuits and press reports on each Calvary Chapel case the host names and test whether concealment, rather than isolated misconduct, is documented.
 
@@ -1699,7 +1699,7 @@ Transcript Snippet: Then he got accused of molesting a 4-year-old girl.
 
 Anchored Artifacts: A-2826.1
 Mentions: N-756, N-17, N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Search Florida court and news records for the accusation against Bob Coy and its outcome.
 
@@ -1715,7 +1715,7 @@ Transcript Snippet: In 2024, a lead pastor was arrested after a sting operation 
 
 Anchored Artifacts: A-2826.1
 Mentions: N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Identify the pastor and arrest report and check the charges and case status.
 
@@ -1731,7 +1731,7 @@ Transcript Snippet: the lead pastor, resigned amid allegations of incest with hi
 
 Anchored Artifacts: A-2826.1
 Mentions: N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Identify the church and pastor (the transcript renders it as Carrie) and locate the resignation announcement and reports.
 
@@ -1747,7 +1747,7 @@ Transcript Snippet: Calvary Chapel in Orange County, the lead pastor named Missi
 
 Anchored Artifacts: A-2826.1
 Mentions: N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Identify the pastor and locate the Orange County conviction records.
 
@@ -1763,7 +1763,7 @@ Transcript Snippet: He was among six people who were arrested following a solici
 
 Anchored Artifacts: A-2826.1
 Mentions: N-757, N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Locate Minnesota task force press releases and court records naming Jason James Taylor and the case outcome.
 
@@ -1779,7 +1779,7 @@ Transcript Snippet: Yeah, we knew that's why we pulled him out of Thailand.
 
 Anchored Artifacts: A-2826.1
 Mentions: N-758, N-759, N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Retrieve the Idaho civil complaint and the criminal judgment against Eglacius and check the quoted allegation.
 
@@ -1795,7 +1795,7 @@ Transcript Snippet: Orphanages everywhere. For some reason, these churchs are ge
 
 Anchored Artifacts: A-2826.1
 Mentions: N-3
-Related Nodes: N-10246, N-10989
+Related Nodes: N-10232, N-10909
 Tags: relevance:context
 Investigative Direction: Map Calvary Chapel affiliated orphanage programs and any associated abuse reports, and compare with the Soter Global Ministries and Eastern Europe links raised in other episodes.
 
@@ -1811,7 +1811,7 @@ Transcript Snippet: The former Calvary uh pastor's name was Doug DeAndrea. He is
 
 Anchored Artifacts: A-2826.1
 Mentions: N-760, N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Locate the Virginia court records for the pastor (the transcript spells the name Deandria) and the sentence.
 
@@ -1827,7 +1827,7 @@ Transcript Snippet: This is not the lead pastor, but an employee who was arreste
 
 Anchored Artifacts: A-2826.1
 Mentions: N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Identify the 2019 arrest record for the Fort Lauderdale employee.
 
@@ -1843,7 +1843,7 @@ Transcript Snippet: He went to prison for 11 months. And then when he got out, h
 
 Anchored Artifacts: A-2826.1
 Mentions: N-761, N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Identify the pastor (the transcript spells the name Jeffrey Zizz) and the Oregon conviction and homicide case records.
 
@@ -1889,7 +1889,7 @@ Transcript Snippet: the Calvary Church Association funded a ministry which came 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10247
+Related Nodes: N-10233
 Tags: relevance:context
 Investigative Direction: Retrieve Montana nonprofit filings and Form 990s for Potter's Field Ministries and its funders.
 
@@ -1905,7 +1905,7 @@ Transcript Snippet: in 2019, the ministry came under a scandal with reports of f
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10247
+Related Nodes: N-10233
 Tags: relevance:context
 Investigative Direction: Locate the 2019 local press coverage of the Potter's Field scandal and the ministry's response.
 
@@ -1921,7 +1921,7 @@ Transcript Snippet: I would say maybe like 500. And that would be between all fi
 
 Anchored Artifacts: A-2827.1
 Mentions: N-763, N-3
-Related Nodes: N-10247
+Related Nodes: N-10233
 Tags: relevance:context
 Investigative Direction: Locate the original news report quoting Kenzie Kinney and the ministry's response, and check the donor mailings.
 
@@ -1937,7 +1937,7 @@ Transcript Snippet: They shut down in 2019 and they brought in Pastor Rob McCoy 
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10247, N-10252
+Related Nodes: N-10233, N-10238
 Tags: relevance:context
 Investigative Direction: Obtain Potter's Field dissolution filings and Calvary Chapel Chino Hills records showing the transfer of funds and McCoy's role.
 
@@ -1953,7 +1953,7 @@ Transcript Snippet: The organization that was about free markets and capitalism 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10209, N-10251, N-10398
+Related Nodes: N-10201, N-10237, N-10371
 Tags: relevance:core
 Investigative Direction: Establish dates for TPUSA Faith's formation, leadership and funding and compare with TPUSA's earlier programming.
 
@@ -1969,7 +1969,7 @@ Transcript Snippet: We have caught Rob McCoy in multiple lies.
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10166
+Related Nodes: N-10159
 Tags: relevance:core
 Investigative Direction: List the specific McCoy statements the host says are false and the records that contradict them.
 
@@ -1985,7 +1985,7 @@ Transcript Snippet: they were the number one offenders. I am not kidding.
 
 Anchored Artifacts: 
 Mentions: N-3, N-22
-Related Nodes: N-10139
+Related Nodes: N-10134
 Tags: relevance:core
 Investigative Direction: Collect the pastors' sermons and statements about Owens and Carlson and test the claim that Calvary Chapel pastors were the most frequent critics.
 
@@ -2001,7 +2001,7 @@ Transcript Snippet: his brother Butch Hibbs, who was just everywhere um uh befor
 
 Anchored Artifacts: 
 Mentions: N-208, N-246, N-1, N-3
-Related Nodes: N-10817
+Related Nodes: N-10740
 Supports: C-2691
 Tags: relevance:core
 Investigative Direction: Gather UVU event footage and photographs of Butch Hibbs from September 10 and the days after and log where and when he appears.
@@ -2018,7 +2018,7 @@ Transcript Snippet: He's hosting 500 a. m. calls against me and Tucker Carlson
 
 Anchored Artifacts: 
 Mentions: N-208, N-22, N-3
-Related Nodes: N-10818
+Related Nodes: N-10741
 Tags: relevance:context
 Investigative Direction: Obtain the 5 a.m. call invitations or recordings and the emailers' accounts.
 
@@ -2034,7 +2034,7 @@ Transcript Snippet: the CIA implications of who exactly started the Calvary Chap
 
 Anchored Artifacts: 
 Mentions: N-713, N-3
-Related Nodes: N-10465
+Related Nodes: N-10434
 Tags: relevance:tangential
 Investigative Direction: Review documented histories of Chuck Smith and the Jesus Movement for any intelligence-agency link; none is shown on air.
 
@@ -2080,7 +2080,7 @@ Transcript Snippet: the Fed level coverup, uh, which includes a never-before-see
 
 Anchored Artifacts: 
 Mentions: N-82, N-377, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:context
 Investigative Direction: Obtain the Delaware complaint and compare its filing, venue and claims with the host's description of a coverup.
 
@@ -2111,7 +2111,7 @@ Transcript Snippet: That's when you really start to see Turning Point Faith ratc
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10398
+Related Nodes: N-10371
 Tags: relevance:core
 Investigative Direction: Pull Kirk's posts and show segments on Ukraine and TPUSA Faith's launch and growth dates to test the claimed sequence.
 
@@ -2142,7 +2142,7 @@ Transcript Snippet: all of these churches which have way too many military men w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:tangential
 Investigative Direction: Compile staff and board biographies for the named churches and test the military-background claim.
 
@@ -2158,7 +2158,7 @@ Transcript Snippet: The Trump administration seems to have been hiding these ema
 
 Anchored Artifacts: 
 Mentions: N-9, N-5, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Review the Epstein email releases around November 12-13, 2025 and compare the host's tomorrow episode with the documents.
 
@@ -2174,7 +2174,7 @@ Transcript Snippet: Pam Bondi said it was a Democrat hoax.
 
 Anchored Artifacts: 
 Mentions: N-85, N-9, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Locate Bondi's statements calling the Epstein matter a hoax and their dates.
 
@@ -2205,7 +2205,7 @@ Transcript Snippet: What we have discovered is actually so big that I had to go 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Ask the host which agency or office received the material and when; compare the next episode's Egyptian plane disclosures with the flight records in earlier episodes.
 
@@ -2268,7 +2268,7 @@ Transcript Snippet: We demand as donors that you do not let her speak at Afest.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10268
+Related Nodes: N-10252
 Supports: C-361
 Tags: relevance:core
 Investigative Direction: Identify the donors and the communication in which they made the demand, and compare with AmFest 2024 speaker lists.
@@ -2285,7 +2285,7 @@ Transcript Snippet: Uh Megyn Kelly, it's your career or it's Tucker Carlson. You
 
 Anchored Artifacts: 
 Mentions: N-46, N-22, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Locate Kelly's own accounts of any such ultimatum and the people who delivered it.
 
@@ -2347,7 +2347,7 @@ Transcript Snippet: who comes from a family of Freemasons and who's got a spotty
 
 Anchored Artifacts: 
 Mentions: N-212, N-69, N-3
-Related Nodes: N-10245
+Related Nodes: N-10231
 Tags: relevance:context
 Investigative Direction: Locate biographical sources on Wilkins' family and any time in Switzerland; the host cites none.
 
@@ -2363,7 +2363,7 @@ Transcript Snippet: She's also a member of the Calvary Chapel Church in Californ
 
 Anchored Artifacts: 
 Mentions: N-212, N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Supports: C-2801
 Tags: relevance:context
 Investigative Direction: Confirm Wilkins' church membership through church records or her own public statements.
@@ -2380,7 +2380,7 @@ Transcript Snippet: Uh, also the Babylon B guy, I can't think of his name right 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Identify the person (the host does not name him) and verify any Calvary Chapel affiliation.
 
@@ -2396,7 +2396,7 @@ Transcript Snippet: that's what Elijah Schaffer's lawsuit is about. It's a joke.
 
 Anchored Artifacts: A-2829.1
 Mentions: N-247, N-212, N-69, N-3
-Related Nodes: N-10245
+Related Nodes: N-10231
 Tags: relevance:context
 Investigative Direction: Retrieve the complaint against Schaefer and check what statements it quotes and whether it cites his views on Israel.
 
@@ -2412,7 +2412,7 @@ Transcript Snippet: Apparently the president of France watches um Tim Dillon and
 
 Anchored Artifacts: 
 Mentions: N-277, N-82, N-377, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:context
 Investigative Direction: Check the Macron complaint's list of defendants and quoted statements to see whether Dillon is named or cited.
 
@@ -2520,7 +2520,7 @@ Transcript Snippet: we know they then put down pavers almost immediately and rel
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10107
+Related Nodes: N-10103
 Supports: C-732
 Tags: relevance:core
 Investigative Direction: Obtain the UVU construction and paving records, dates and contractor invoices for the courtyard work.
@@ -2552,7 +2552,7 @@ Transcript Snippet: Uh, she's trying to remove Senator Massie.
 
 Anchored Artifacts: A-1398.5
 Mentions: N-298, N-579, N-3
-Related Nodes: N-10916
+Related Nodes: N-10837
 Tags: relevance:tangential
 Investigative Direction: Check federal election filings for Adelson-linked spending against Massie; note that Massie is a US Representative, not a Senator.
 
@@ -2583,7 +2583,7 @@ Transcript Snippet: Then they killed JFK and suddenly the Calvary Church is born
 
 Anchored Artifacts: A-1398.11
 Mentions: N-3
-Related Nodes: N-10246, N-10264
+Related Nodes: N-10232, N-10248
 Tags: relevance:tangential
 Investigative Direction: Historical claim recorded as said; compare with the founding date of Calvary Chapel and its founders' backgrounds.
 

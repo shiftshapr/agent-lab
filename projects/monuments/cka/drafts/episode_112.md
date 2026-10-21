@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq112
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-660, N-661, N-662, N-663, N-664, N-666, N-667, N-10955, N-10957, N-10958, N-10959, N-10960
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-9, N-14, N-15, N-99, N-159, N-178, N-209, N-277, N-278, N-433, N-450, N-544, N-579, N-591, N-606, N-621, N-625, N-626, N-657, N-10000, N-10008, N-10068, N-10083, N-10194, N-10350, N-10411, N-10496, N-10519, N-10541, N-10637, N-10700, N-10888, N-10899, N-10916, N-10923, N-659, N-10956, N-665
+  - Tip-minted Nodes (skeleton): N-660, N-661, N-662, N-663, N-664, N-666, N-667, N-10876, N-10878, N-10879, N-10880, N-10881
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-9, N-14, N-15, N-99, N-159, N-178, N-209, N-277, N-278, N-433, N-450, N-544, N-579, N-591, N-606, N-621, N-625, N-626, N-657, N-10000, N-10008, N-10065, N-10070, N-10186, N-10328, N-10384, N-10239, N-10478, N-10496, N-10582, N-10637, N-10809, N-10820, N-10837, N-10844, N-659, N-10877, N-665
   - Claim Range: C-9769–C-9817
   - (see registers)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:15:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9784, N-3, N-14, N-15, N-10957*
+*Related: C-9784, N-3, N-14, N-15, N-10878*
 
 **A-2630.2** Host's second follow-up email to TPUSA executives (read aloud)
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:15:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9784, N-3, N-14, N-10957*
+*Related: C-9784, N-3, N-14, N-10878*
 
 **A-2630.3** Host verbal reference to the TPUSA X account post sharing her original email
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:14:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9783, N-10000, N-10957*
+*Related: C-9783, N-10000, N-10878*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:20:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9791, N-10068, N-10888, N-10700*
+*Related: C-9791, N-10065, N-10809, N-10637*
 
 **A-2631.2** Host verbal reference to the Department of War reply calling the request too burdensome
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:20:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9792, C-9793, N-10888, N-591*
+*Related: C-9792, C-9793, N-10809, N-591*
 
 **A-2631.3** Host's office follow-up email to the Department of War naming specific recipients (read aloud)
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:21:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9794, N-433, N-625, N-621, N-626, N-10888*
+*Related: C-9794, N-433, N-625, N-621, N-626, N-10809*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:31:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9798, C-9799, C-9800, N-659, N-662, N-178, N-10955*
+*Related: C-9798, C-9799, C-9800, N-659, N-662, N-178, N-10876*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:38:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9803, C-9804, C-9805, C-9806, C-9807, C-9808, N-178, N-664, N-10955, N-10958, N-10959*
+*Related: C-9803, C-9804, C-9805, C-9806, C-9807, C-9808, N-178, N-664, N-10876, N-10879, N-10880*
 
 ---
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:43:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9810, C-9811, C-9812, C-9813, C-9814, N-10960, N-544, N-665, N-2, N-3*
+*Related: C-9810, C-9811, C-9812, C-9813, C-9814, N-10881, N-544, N-665, N-2, N-3*
 
 ---
 
@@ -407,128 +407,128 @@ The 2026 Young Women's Leadership Summit, where Dana Loesch spoke and from which
 
 *Related: C-9769, C-9770, C-9771, C-9772, A-2628.2*
 
-**N-10068** NSA
+**N-10065** NSA
 
 Redirected the host's FOIA request on the "emotional asset" email to the Department of War.
 
 *Related: C-9791, A-2631.1*
 
-**N-10083** AIPAC
+**N-10070** AIPAC
 
 Named by the host ("Apac") as effectively ousting Thomas Massie.
 
 *Related: C-9795*
 
-**N-10350** Charlie Kirk Catholicism Journey
+**N-10328** Charlie Kirk Catholicism Journey
 
 Context for the host's allegation that Erika Kirk directed Andrew Kolvet to say Charlie only liked the architecture of the Catholic Church.
 
 *Related: C-9779*
 
-**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+**N-10384** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 Context for the host's statement that Greg Laurie is accused in court of trafficking people from Romania.
 
 *Related: C-9776*
 
-**N-10496** Egyptian Planes Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 The host says Erika Kirk laughed at the Egyptian planes' departure times on the day of the assassination.
 
 *Related: C-9797*
 
-**N-10519** Erika Kirk Next Model Management Involvement
+**N-10478** Next Model Management / Erika Kirk Connection
 
 Context for the host's allegation about Erika Kirk and Jeffrey Epstein's orbit at Next Model Management.
 
 *Related: C-9777*
 
-**N-10541** Strait of Hormuz / US-Iran War Context
+**N-10496** Strait of Hormuz / US-Iran War Context
 
 Context for the host's paraphrase of Trump on bombing bridges in Iran.
 
 *Related: C-9795*
 
-**N-10637** WHCD Incident Reconstruction
+**N-10582** WHCD Incident Reconstruction
 
 Context for Erika Kirk's attendance at the White House Correspondents' Dinner and the shooting incident.
 
 *Related: C-9775, C-9790*
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 Cluster of FOIA requests filed by the host's team; this episode reports the NSA redirect and the Department of War "burden" reply on the "emotional asset" email.
 
 *Related: C-9791, C-9792, C-9793, C-9794, A-2631.1*
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Received the redirected FOIA request and replied that it was too burdensome; the host says it was directing people to boost Erika Kirk.
 
 *Related: C-9790, C-9791, C-9792, C-9793, C-9794, A-2631.1, A-2631.2, A-2631.3*
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Transcript "Paramount Not So Tactical" / "Paramount Tactical". The host says the account accidentally exposed its use of ChatGPT and its place in an influencer network.
 
 *Related: C-9817*
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the internal email the host says described Erika Kirk as an "emotional asset" about an hour after the WHCD shooting and directed people to boost her "I want to go home" video. In this episode the host says Andrew Kolvet hosted Graham Allen to claim it was fake. She also says her FOIA request about it was redirected from the NSA to the Department of War, which called the request too burdensome.
 
-*Related: C-9789, C-9790, C-9791, C-9792, C-9793, C-9794, N-10888, N-10700*
+*Related: C-9789, C-9790, C-9791, C-9792, C-9793, C-9794, N-10809, N-10637*
 
-**N-10955** Sazan Island
+**N-10876** Sazan Island
 
 Node Type: Place
 Albania's largest island, off the coast of Albania, which the host identifies as the island Ivanka Trump says she "found" while swimming from a friend's boat. The news report describes it as a remote island that served as a secret military base under the communist regime. It is one of two sites of the Affinity Partners resort project.
 
 *Related: C-9798, C-9799, C-9800, C-9805, A-2632.1, A-2633.1*
 
-**N-10956** Catholics for Catholics
+**N-10877** Catholics for Catholics
 
 Node Type: Organization
 Organizer of the March 2026 prayer event at which the host spoke. The host alleges Erika Kirk personally phoned priests, bishops and attendees to discourage them from attending.
 
 *Related: C-9778*
 
-**N-10957** Charlie Kirk WLS "I Appoint My Wife" Video Authenticity Question
+**N-10878** Charlie Kirk WLS "I Appoint My Wife" Video Authenticity Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: whether the video released from the WLS event, in which Charlie Kirk appears to appoint Erika Kirk to run Turning Point USA in his absence, is authentic, complete and in context. The host has emailed TPUSA executives for an on-record yes or no and has received no answer. She names the donors who asked the question as Julie and Arthur Fields, and says a donor source asserts the video is doctored.
 
-*Related: C-9782, C-9783, C-9784, C-9786, C-9787, C-9788, A-2630.1, A-2630.2, A-2630.3, N-10194*
+*Related: C-9782, C-9783, C-9784, C-9786, C-9787, C-9788, A-2630.1, A-2630.2, A-2630.3, N-10186*
 
-**N-10194** TPUSA Succession Plan Disclosure Timeline
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 Related prior topic on how and when TPUSA's succession plan was disclosed.
 
 *Related: C-9788*
 
-**N-10916** Thomas Massie Kentucky Primary Outside Spending
+**N-10837** Thomas Massie Kentucky Primary Outside Spending
 
 Node Type: Topic
 Outside spending against Representative Thomas Massie in his Kentucky Republican primary. In this episode the host says AIPAC effectively ousted him.
 
-*Related: C-9795, N-579, N-10083*
+*Related: C-9795, N-579, N-10070*
 
-**N-10958** Affinity Partners
+**N-10879** Affinity Partners
 
 Node Type: Organization
 Jared Kushner's investment firm, described in the news report as spearheading a multi-billion euro project for two ultra luxury resort complexes in Albania.
 
 *Related: C-9805, A-2633.1, N-178*
 
-**N-10959** Affinity Partners Albania Resort Project Anti-Corruption Investigation
+**N-10880** Affinity Partners Albania Resort Project Anti-Corruption Investigation
 
 Node Type: Topic
 Investigation target: the probe that the news report says Albania's state anti-corruption agency opened into the Kushner-linked resort project in the Narta Lagoon area and on Sazan Island. The agency has not disclosed further details. The host says she will follow it.
 
-*Related: C-9807, C-9808, A-2633.1, N-10958, N-10955*
+*Related: C-9807, C-9808, A-2633.1, N-10879, N-10876*
 
-**N-10960** US Weekly
+**N-10881** US Weekly
 
 Node Type: Organization
 Magazine that emailed the host with 24 hours to respond to a print story about Erika Kirk that includes comments about the host.
@@ -637,7 +637,7 @@ Transcript Snippet: She then made a decision to attend a public function, the Wh
 
 Anchored Artifacts:
 Mentions: N-2, N-1
-Related Nodes: N-10637
+Related Nodes: N-10582
 Investigative Direction: Check WHCD guest lists for prior years for Charlie Kirk's attendance.
 
 ---
@@ -652,7 +652,7 @@ Transcript Snippet: who are credibly accused one way or the other in the court o
 
 Anchored Artifacts:
 Mentions: N-450, N-2
-Related Nodes: N-10411
+Related Nodes: N-10384
 Investigative Direction: Pull the court filings in the Harvest Christian Fellowship Romanian lawsuits and check whether Greg Laurie is a named defendant.
 
 ---
@@ -667,7 +667,7 @@ Transcript Snippet: Maybe there's a reasonable explanation why she was hanging a
 
 Anchored Artifacts:
 Mentions: N-2, N-9
-Related Nodes: N-10519
+Related Nodes: N-10478
 Investigative Direction: Verify Erika Kirk's modeling-agency history and Next Model Management's documented links to Epstein associates.
 
 ---
@@ -682,7 +682,7 @@ Transcript Snippet: it was her who personally made phone calls to people telling
 
 Anchored Artifacts:
 Mentions: N-2, N-3
-Related Nodes: N-10956
+Related Nodes: N-10877
 Investigative Direction: Interview clergy and invitees of the March 2026 Catholics for Catholics event about calls they received.
 
 ---
@@ -697,7 +697,7 @@ Transcript Snippet: it was her who directed Andrew Kolvet to lie about Charlie's
 
 Anchored Artifacts:
 Mentions: N-2, N-14, N-1
-Related Nodes: N-10350
+Related Nodes: N-10328
 Investigative Direction: Obtain Kolvet's original statement and any parish records of Charlie Kirk's Mass attendance.
 
 ---
@@ -742,7 +742,7 @@ Transcript Snippet: Whether or not the video that they presented of Erika uh bei
 
 Anchored Artifacts:
 Mentions: N-2, N-1
-Related Nodes: N-10957, N-10000
+Related Nodes: N-10878, N-10000
 Investigative Direction: Obtain an on-record TPUSA statement and the original unedited source file of the WLS video.
 
 ---
@@ -757,7 +757,7 @@ Transcript Snippet: So, I intentionally addressed my email where I asked, "Was t
 
 Anchored Artifacts: A-2630.3
 Mentions: N-15, N-14, N-3
-Related Nodes: N-10957, N-10000
+Related Nodes: N-10878, N-10000
 Investigative Direction: Archive the TPUSA X post sharing the email and the original email header with recipients.
 
 ---
@@ -772,7 +772,7 @@ Transcript Snippet: So, I have since written them twice by email, politely insis
 
 Anchored Artifacts: A-2630.1, A-2630.2
 Mentions: N-3
-Related Nodes: N-10957, N-10000
+Related Nodes: N-10878, N-10000
 Investigative Direction: Obtain the emails with headers and timestamps and any TPUSA reply.
 
 ---
@@ -802,7 +802,7 @@ Transcript Snippet: Why would they have to protect the donor from that? The dono
 
 Anchored Artifacts:
 Mentions: N-660, N-661, N-1
-Related Nodes: N-10957, N-10000
+Related Nodes: N-10878, N-10000
 Investigative Direction: Confirm the Fields family's attendance at the event and ask them directly about the exchange.
 
 ---
@@ -817,7 +817,7 @@ Transcript Snippet: Um in fact, the donor who told me that it's doctorred and is
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10957
+Related Nodes: N-10878
 Supports: C-9050
 Investigative Direction: Obtain a sworn statement from the donor source and forensic analysis of the original video file.
 
@@ -833,7 +833,7 @@ Transcript Snippet: And Charlie never once said anything about Erika to them abo
 
 Anchored Artifacts:
 Mentions: N-1, N-2
-Related Nodes: N-10957, N-10194
+Related Nodes: N-10878, N-10186
 Investigative Direction: Review TPUSA bylaws and board minutes on succession and interview dinner attendees.
 
 ---
@@ -848,7 +848,7 @@ Transcript Snippet: Most notorious is when he hosted Graham Allen to claim that 
 
 Anchored Artifacts:
 Mentions: N-14, N-606
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Locate the Kolvet-hosted segment with Graham Allen and compare with any FOIA production of the email.
 
 ---
@@ -863,7 +863,7 @@ Transcript Snippet: This was approximately 1 hour after the shooting when the ma
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10923, N-10888, N-10637
+Related Nodes: N-10844, N-10809, N-10582
 Investigative Direction: Obtain the email through FOIA and compare its timestamp with the shooting and the video's upload time.
 
 ---
@@ -878,7 +878,7 @@ Transcript Snippet: We had first heard back from the NSA who informed us that th
 
 Anchored Artifacts: A-2631.1
 Mentions: N-3
-Related Nodes: N-10068, N-10888, N-10700, N-10923
+Related Nodes: N-10065, N-10809, N-10637, N-10844
 Investigative Direction: Obtain the NSA FOIA case number and referral letter.
 
 ---
@@ -893,7 +893,7 @@ Transcript Snippet: The Department of War has since replied informing us that th
 
 Anchored Artifacts: A-2631.2
 Mentions: N-591
-Related Nodes: N-10888, N-10700, N-10923
+Related Nodes: N-10809, N-10637, N-10844
 Investigative Direction: Obtain the Department of War FOIA response letter and case number.
 
 ---
@@ -908,7 +908,7 @@ Transcript Snippet: We gave them a 5-day window and we asked for any emails whic
 
 Anchored Artifacts: A-2631.2
 Mentions: N-2
-Related Nodes: N-10888, N-10700, N-10923
+Related Nodes: N-10809, N-10637, N-10844
 Investigative Direction: Publish the original FOIA request text with its date range.
 
 ---
@@ -923,7 +923,7 @@ Transcript Snippet: we named specific Department of War recipients uh who could 
 
 Anchored Artifacts: A-2631.3
 Mentions: N-433, N-625, N-621, N-626, N-2
-Related Nodes: N-10888, N-10700, N-10923
+Related Nodes: N-10809, N-10637, N-10844
 Investigative Direction: Track the Department of War's response to the narrowed request and verify each named recipient's position.
 
 ---
@@ -938,7 +938,7 @@ Transcript Snippet: the fact that they just keep on going because they have enou
 
 Anchored Artifacts:
 Mentions: N-579, N-5
-Related Nodes: N-10083, N-10916, N-10541
+Related Nodes: N-10070, N-10837, N-10496
 Investigative Direction: Check the Kentucky primary result and FEC outside-spending records, and locate Trump's statement on Iranian bridges.
 
 ---
@@ -968,7 +968,7 @@ Transcript Snippet: She wouldn't have been directing attacks against Joe Kent fo
 
 Anchored Artifacts:
 Mentions: N-2, N-209, N-1
-Related Nodes: N-10496
+Related Nodes: N-10239
 Investigative Direction: Locate Erika Kirk's public remarks on the Egyptian planes and on Joe Kent.
 
 ---
@@ -983,7 +983,7 @@ Transcript Snippet: discussing her plans for Saison Island, which is off the coa
 
 Anchored Artifacts: A-2632.1
 Mentions: N-659, N-662
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Confirm the island's identity and size from Albanian land records and the Affinity Partners project filings.
 
 ---
@@ -998,7 +998,7 @@ Transcript Snippet: Well, it's an unbelievable, beautiful 1,400 hectare private 
 
 Anchored Artifacts: A-2632.1
 Mentions: N-659, N-662, N-178
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Compare with prior reporting on how the Sazan Island deal originated, including any earlier Kushner proposals.
 
 ---
@@ -1013,7 +1013,7 @@ Transcript Snippet: We not only the island, but we have five miles of beachfront
 
 Anchored Artifacts: A-2632.1
 Mentions: N-659
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Review the Albanian government agreement for the land parcels included in the project.
 
 ---
@@ -1043,7 +1043,7 @@ Transcript Snippet: you tried to do this already in Serbia and we said maybe we 
 
 Anchored Artifacts:
 Mentions: N-659, N-178
-Related Nodes: N-10958
+Related Nodes: N-10879
 Investigative Direction: Check reporting on Affinity Partners' Belgrade project and its status.
 
 ---
@@ -1058,7 +1058,7 @@ Transcript Snippet: For the fourth day in a row, thousands of protesters took to
 
 Anchored Artifacts: A-2633.1
 Mentions: N-178
-Related Nodes: N-10958, N-10955
+Related Nodes: N-10879, N-10876
 Investigative Direction: Identify the broadcaster and date of the report and check wire coverage of the protests.
 
 ---
@@ -1073,7 +1073,7 @@ Transcript Snippet: There'll be 10,000 rooms and construction will last 10 to 15
 
 Anchored Artifacts: A-2633.1
 Mentions:
-Related Nodes: N-10958
+Related Nodes: N-10879
 Investigative Direction: Compare with the project's published master plan and environmental filings.
 
 ---
@@ -1088,7 +1088,7 @@ Transcript Snippet: The multi-billion euro project spearheaded by Kushner's inve
 
 Anchored Artifacts: A-2633.1
 Mentions: N-178
-Related Nodes: N-10958, N-10955
+Related Nodes: N-10879, N-10876
 Investigative Direction: Review Affinity Partners' agreements with the Albanian government and the protected-area status of the Narta Lagoon.
 
 ---
@@ -1103,7 +1103,7 @@ Transcript Snippet: But the installation of barbed wire on this beach last week 
 
 Anchored Artifacts: A-2633.1
 Mentions:
-Related Nodes: N-10958
+Related Nodes: N-10879
 Investigative Direction: Locate photographs and local reporting on the fencing.
 
 ---
@@ -1118,7 +1118,7 @@ Transcript Snippet: There is no chance that this investment will stop as long as
 
 Anchored Artifacts: A-2633.1
 Mentions: N-664
-Related Nodes: N-10958, N-10959
+Related Nodes: N-10879, N-10880
 Investigative Direction: Locate the full statement and any disclosures about financial ties between Albanian officials and the project.
 
 ---
@@ -1133,7 +1133,7 @@ Transcript Snippet: Earlier this week, Albania's state anti-corruption agency an
 
 Anchored Artifacts: A-2633.1
 Mentions:
-Related Nodes: N-10959, N-10958
+Related Nodes: N-10880, N-10879
 Investigative Direction: Obtain the anti-corruption agency's announcement and follow the investigation's filings.
 
 ---
@@ -1163,7 +1163,7 @@ Transcript Snippet: Really, US Weekly sends me an email yesterday that's like fo
 
 Anchored Artifacts: A-2635.1
 Mentions: N-3, N-2
-Related Nodes: N-10960
+Related Nodes: N-10881
 Investigative Direction: Obtain the full US Weekly email and compare with the published article.
 
 ---
@@ -1178,7 +1178,7 @@ Transcript Snippet: Tracy Martin, James Kaddis, who runs the faith department, t
 
 Anchored Artifacts: A-2635.1
 Mentions: N-544, N-665, N-2
-Related Nodes: N-10960
+Related Nodes: N-10881
 Investigative Direction: Check the published US Weekly article for the named sources and confirm James Kaddis's TPUSA role.
 
 ---
@@ -1193,7 +1193,7 @@ Transcript Snippet: She says that Charlie was Charlie was scared of me. He was s
 
 Anchored Artifacts: A-2635.1
 Mentions: N-544, N-1, N-3
-Related Nodes: N-10960
+Related Nodes: N-10881
 Investigative Direction: Compare Charlie Kirk's call and text logs with the host.
 
 ---
@@ -1223,7 +1223,7 @@ Transcript Snippet: So, it's like a a fake name like Paul Leva. Um, and they're 
 
 Anchored Artifacts: A-2635.1
 Mentions:
-Related Nodes: N-10960
+Related Nodes: N-10881
 Investigative Direction: Check US Weekly's masthead and the byline's publication history.
 
 ---
@@ -1268,7 +1268,7 @@ Transcript Snippet: who accidentally exposed the fact that he uses chat GPT and 
 
 Anchored Artifacts:
 Mentions: N-14
-Related Nodes: N-10899
+Related Nodes: N-10820
 Investigative Direction: Archive the Paramount Tactical posts that the host says revealed ChatGPT use and the network.
 
 ---
@@ -1494,7 +1494,7 @@ Confidence: high
 - **Duration**: the skeleton gave 00:56:29; the transcript front matter gives 58:30, which is used here.
 - **Existing meme occurrence**: the skeleton's M-41 occurrence (stamped 00:46:24) is kept verbatim. The quoted words appear in the [44:57] paragraph.
 - **Name matching**: "Dana Loesch" is taken to be Dana Loesch (N-657; no node in nodes.tsv). "Andrew Kolvet/Kolvet" is matched to N-14, "Greg Laurie" to N-450 Greg Laurie, "Blake Neff" to N-159, "Bradley Hansell" to N-433, "Pete Hegsath" to N-591, "Tim Dillon" to N-277 and "Bari Weiss" to N-278. "Richard Smale" and "Michaela Mott Marzuka" use the staging titles Richard Smale and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
-- **Topic reuse**: two staging titles exist for the WHCD email (episode 104 "White House Military Office 'I Want to Go Home' Amplification Email" and episode 105 "White House Military Office Erika Kirk Amplification Email"). N-10923 uses the episode 105 title, and the integrator should merge the two. M-95 reuses the staging meme title "Emotional Response Asset", and M-92 reuses "Paramount Not So Tactical".
+- **Topic reuse**: two staging titles exist for the WHCD email (episode 104 "White House Military Office 'I Want to Go Home' Amplification Email" and episode 105 "White House Military Office Erika Kirk Amplification Email"). N-10844 uses the episode 105 title, and the integrator should merge the two. M-95 reuses the staging meme title "Emotional Response Asset", and M-92 reuses "Paramount Not So Tactical".
 - **Cross-episode link**: C-9787 Supports C-9050 (episode 102, donors assert the "I appoint my wife" clip was faked). Episode 102 places the donors at Aspen, while this episode refers to "your WLS event" and a later donor dinner, so the venue mapping is uncertain. C-10489 (episode 122, pending FOIA requests including NSA) is later and is not linked. The JD Vance "empty crowd" claim (C-9774) may relate to the existing topic "TPUSA UGA Event Crowd-Size Failure", but the event is not named, so it is not linked.
 - **Not inscribed as claims (admission test)**:
   - The host's "honest opinion" that Erika Kirk was promised the vice presidency in 2028

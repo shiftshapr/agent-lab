@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 80c78af8806a54fe976848d2fa3b81e764734789b67b8f5aaf8e2423a2666f0c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-814, N-815, N-11193, N-11195, N-11196, N-11197
+  - Tip-minted Nodes (supplement_2026-10c): N-814, N-815, N-11109, N-11111, N-11112, N-11113
   - Claim Range: C-10396–C-10523
-  - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704, N-10699, N-10703, N-4, N-5, N-9, N-47, N-48, N-68, N-82, N-131, N-266, N-520, N-529, N-556, N-568, N-581, N-606, N-685, N-686, N-688, N-690, N-729, N-10000, N-10012, N-10015, N-10032, N-10048, N-10061, N-10107, N-10110, N-10168, N-10230, N-10239, N-10275, N-10276, N-10290, N-10311, N-10324, N-10395, N-10401, N-10501, N-10502, N-10520, N-10523, N-10526, N-10532, N-10598, N-10663, N-10677, N-10687, N-10691, N-10737, N-10740, N-10768, N-10871, N-10888, N-10897, N-10899, N-10923, N-10929, N-10937, N-10971, N-10978, N-10979, N-10982, N-10988, N-11011, N-11053, N-11194, N-10702, N-816
+  - Reused Nodes Appearing: N-10635, N-10637, N-10638, N-10640, N-10636, N-10639, N-4, N-5, N-9, N-47, N-48, N-68, N-82, N-131, N-266, N-520, N-529, N-556, N-568, N-581, N-606, N-685, N-686, N-688, N-690, N-729, N-10000, N-10012, N-10015, N-10032, N-10045, N-10058, N-10103, N-10106, N-10161, N-10217, N-10226, N-10293, N-10259, N-10272, N-10303, N-10368, N-10374, N-10462, N-10463, N-10480, N-10478, N-10545, N-10605, N-10615, N-10625, N-10629, N-10672, N-10697, N-10792, N-10809, N-10818, N-10820, N-10844, N-10850, N-10858, N-10892, N-10899, N-10900, N-10903, N-10908, N-10931, N-10971, N-11110, N-816
   - (see registers)
 
 # I. Meta-Data
@@ -30,7 +30,7 @@
 
 **Episode Ledger Summary**
 - Artifact Families Introduced: A-2104, A-2105, A-2106, A-2107, A-2108, A-2109
-  - New Nodes Introduced: N-10696, N-10697, N-10698, N-10700, N-10701, N-10704
+  - New Nodes Introduced: N-10634, N-10635, N-10637, N-10638, N-10640
   - Reused Nodes Appearing: N-11, N-433
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:02:03–00:04:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-curated selection)
 
-*Related: C-10399, N-10696*
+*Related: C-10399, N-10293*
 
 **A-2104.2** Video clip of a man holding only a maroon shirt in the moments after the shot
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10405, N-10696*
+*Related: C-10405, N-10293*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10423, N-10697*
+*Related: C-10423, N-10634*
 
 **A-2107.2** Photograph allegedly showing James Rawlinson in Romania in 2023 wearing maroon beret
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:25:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (documentary broadcast)
 
-*Related: C-10449, N-10704*
+*Related: C-10449, N-10640*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:32:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10462, C-10463, N-10699*
+*Related: C-10462, C-10463, N-10636*
 
 ---
 
@@ -288,15 +288,7 @@ Subject of the assassination; the host's claims about his circle, predictions an
 
 ---
 
-**N-10275** Maroon Shirt Coordination Theory
-
-Existing node reused for new claims in this episode.
-
-*Related: C-10396, C-10397, C-10401, C-10404, C-10427, C-10503*
-
----
-
-**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+**N-10293** Maroon Shirt Pattern at UVU September 10 Event
 
 Existing node reused for new claims in this episode.
 
@@ -304,7 +296,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10048** Charlie Kirk Assassination Investigation
+**N-10045** Charlie Kirk Assassination Investigation
 
 Existing node reused for new claims in this episode.
 
@@ -328,16 +320,16 @@ First named by the host at 00:05:36 in episode 122 (David Sprague; later James N
 
 ---
 
-**N-11193** Rawlinson Name Change and Background Inquiry
+**N-11109** Rawlinson Name Change and Background Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's inquiry into why David Sprague changed his name from James Norman Rawlinson Jr., his stated reasons and the host's inability to confirm his father's alleged crime.
 
 *Related: C-10411, C-10412, C-10413, C-10414, C-10425*
 
 ---
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Existing node reused for new claims in this episode.
 
@@ -369,7 +361,7 @@ Widow and TPUSA CEO; subject of the host's Next Model Management, real estate an
 
 ---
 
-**N-10395** Tyler Bowyer 2011 Romania Activities
+**N-10368** Tyler Bowyer 2011 Romania Activities
 
 Existing node reused for new claims in this episode.
 
@@ -409,7 +401,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10871** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
+**N-10792** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
 
 Existing node reused for new claims in this episode.
 
@@ -457,7 +449,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10532** Next Model Management / Erika Kirk Connection
+**N-10478** Next Model Management / Erika Kirk Connection
 
 Existing node reused for new claims in this episode.
 
@@ -473,7 +465,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11194** Next Model Management / MC2 Model Apartments Class Action
+**N-11110** Next Model Management / MC2 Model Apartments Class Action
 
 Node Type: Topic
 The pending class action the host cites against Next Model Management and MC2 over underaged models placed in model apartments, with pay deductions of up to 70 percent.
@@ -490,7 +482,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10979** Gold Apollo
+**N-10900** Gold Apollo
 
 Existing node reused for new claims in this episode.
 
@@ -498,7 +490,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10978** Hezbollah
+**N-10899** Hezbollah
 
 Existing node reused for new claims in this episode.
 
@@ -514,7 +506,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Existing node reused for new claims in this episode.
 
@@ -522,7 +514,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11195** Department of War Information War Allegation
+**N-11111** Department of War Information War Allegation
 
 Node Type: Topic
 The host's allegation that the Department of War deploys paid or affiliated people full-time in an information war against her and in defense of the official narrative.
@@ -547,7 +539,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
 Existing node reused for new claims in this episode.
 
@@ -555,7 +547,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Existing node reused for new claims in this episode.
 
@@ -563,7 +555,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10937** Paramount Tactical September 2025 DoD Payments
+**N-10858** Paramount Tactical September 2025 DoD Payments
 
 Existing node reused for new claims in this episode.
 
@@ -579,7 +571,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing node reused for new claims in this episode.
 
@@ -603,19 +595,11 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10687** Frank Turek CPR Claim Verification
+**N-10625** Frank Turek CPR Claim Verification
 
 Existing node reused for new claims in this episode.
 
 *Related: C-10465*
-
----
-
-**N-10737** CPR Narrative Contradiction (Turek / Harpole)
-
-Existing node reused for new claims in this episode.
-
-*Related: C-10466, C-10467, C-10468, C-10522*
 
 ---
 
@@ -635,7 +619,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10677** Sara Tewell Witness Statement Discrepancy
+**N-10615** Sara Tewell Witness Statement Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -643,7 +627,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11196** Sara Tewell Family Emergency Dispatch Connection
+**N-11112** Sara Tewell Family Emergency Dispatch Connection
 
 Node Type: Topic
 The host's claim that the family Sara Tewell married into controlled emergency dispatch and triage services and that its company partners with Carbyne.
@@ -660,7 +644,7 @@ First named by the host at 00:36:21 in episode 122. The host says he created Car
 
 ---
 
-**N-11197** Carbyne
+**N-11113** Carbyne
 
 Node Type: Organization
 Emergency-communications company the host says was created by Ehud Barak and is in partnership with the dispatch company tied to Sara Tewell's family.
@@ -669,7 +653,7 @@ Emergency-communications company the host says was created by Ehud Barak and is 
 
 ---
 
-**N-10501** Erika Kirk Real Estate License Timing Question
+**N-10462** Erika Kirk Real Estate License Timing Question
 
 Existing node reused for new claims in this episode.
 
@@ -685,27 +669,11 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10526** Erika NY Real Estate License Verification Question
-
-Existing node reused for new claims in this episode.
-
-*Related: C-10479*
-
----
-
 **N-573** Nicole Rothstein
 
 First named by the host at 00:38:54 in episode 122. The host says she is probably not Erika Kirk's blood cousin but was involved in real estate with that family.
 
 *Related: C-10480*
-
----
-
-**N-10520** Erika Kirk Corcoran Real Estate Anomaly
-
-Existing node reused for new claims in this episode.
-
-*Related: C-10480, C-10482, C-10483*
 
 ---
 
@@ -717,7 +685,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10502** Erika Kirk Corcoran Group Employment Verification
+**N-10463** Erika Kirk Corcoran Group Employment Verification
 
 Existing node reused for new claims in this episode.
 
@@ -725,7 +693,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10523** Lynn Forester de Rothschild Corcoran Group Presidency Verification
+**N-10480** Lynn Forester de Rothschild Corcoran Group Presidency Verification
 
 Existing node reused for new claims in this episode.
 
@@ -741,7 +709,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10988** Miss Universe Organization
+**N-10908** Miss Universe Organization
 
 Existing node reused for new claims in this episode.
 
@@ -749,7 +717,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10929** Erika Kirk Air Force Academy Board of Visitors Appointment
+**N-10850** Erika Kirk Air Force Academy Board of Visitors Appointment
 
 Existing node reused for new claims in this episode.
 
@@ -765,7 +733,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10971** Kash Patel September 7–10, 2025 Schedule FOIA Request
+**N-10892** Kash Patel September 7–10, 2025 Schedule FOIA Request
 
 Existing node reused for new claims in this episode.
 
@@ -781,7 +749,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10982** FBI Plane Richmond–Salt Lake City September 8, 2025 Flight
+**N-10903** FBI Plane Richmond–Salt Lake City September 8, 2025 Flight
 
 Existing node reused for new claims in this episode.
 
@@ -789,7 +757,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10276** Nebraska–Egypt Trade Mission / BTT Plane Overlap
+**N-10259** Nebraska–Egypt Trade Mission / BTT Plane Overlap
 
 Existing node reused for new claims in this episode.
 
@@ -797,7 +765,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing node reused for new claims in this episode.
 
@@ -821,7 +789,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 Existing node reused for new claims in this episode.
 
@@ -829,7 +797,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10107** Crime Scene Pavers
+**N-10103** Crime Scene Pavers
 
 Existing node reused for new claims in this episode.
 
@@ -837,7 +805,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10897** Project Constitution
+**N-10818** Project Constitution
 
 Existing node reused for new claims in this episode.
 
@@ -845,7 +813,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10239** Timpanogos Hospital Footage Seizure Verification
+**N-10226** Timpanogos Hospital Footage Seizure Verification
 
 Existing node reused for new claims in this episode.
 
@@ -853,7 +821,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10768** Shaped Charge / Exploding Microphone Hypothesis
+**N-10697** Shaped Charge / Exploding Microphone Hypothesis
 
 Existing node reused for new claims in this episode.
 
@@ -861,7 +829,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10230** Saint Michael Pendant / Charlie Catholic-Curious Status
+**N-10217** Saint Michael Pendant / Charlie Catholic-Curious Status
 
 Existing node reused for new claims in this episode.
 
@@ -877,7 +845,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11011** Macron Cease and Desist and Legal Timeline
+**N-10931** Macron Cease and Desist and Legal Timeline
 
 Existing node reused for new claims in this episode.
 
@@ -885,7 +853,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10663** Mikey McCoy Witness Reliability Question
+**N-10605** Mikey McCoy Witness Reliability Question
 
 Existing node reused for new claims in this episode.
 
@@ -901,7 +869,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
+**N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
 
 Existing node reused for new claims in this episode.
 
@@ -909,7 +877,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10598** Lance Twiggs Federal Asset Question
+**N-10545** Lance Twiggs Federal Asset Question
 
 Existing node reused for new claims in this episode.
 
@@ -917,7 +885,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10061** CIA Operation Mockingbird
+**N-10058** CIA Operation Mockingbird
 
 Existing node reused for new claims in this episode.
 
@@ -925,7 +893,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10740** SUV Interior Anomaly
+**N-10672** SUV Interior Anomaly
 
 Existing node reused for new claims in this episode.
 
@@ -933,7 +901,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10691** District Attorney Release Authorization Investigation
+**N-10629** District Attorney Release Authorization Investigation
 
 Existing node reused for new claims in this episode.
 
@@ -941,7 +909,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11053** Charlie Kirk Handheld Microphone Custody
+**N-10971** Charlie Kirk Handheld Microphone Custody
 
 Existing node reused for new claims in this episode.
 
@@ -953,18 +921,7 @@ Existing node reused for new claims in this episode.
 
 ## Investigation Targets
 
-**N-10696** Maroon Shirt Audience Identification
-
-Persistent investigative target: identification of individuals in maroon shirts in the September 10 audience and their organizational affiliations.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2104.1, A-2104.2, C-10399, C-10405*
-
-**N-10697** 19th Special Forces / Utah-Romania Deployment Pattern
+**N-10634** 19th Special Forces / Utah-Romania Deployment Pattern
 
 Investigative target: convergence of multiple identified individuals (Rawlinson, Curtis Kolvet, Tyler Bowyer, Philip Goldsberry Jr.) on Romanian military / charitable operations.
 
@@ -975,7 +932,7 @@ Investigative Pressure: Medium
 
 *Related: A-2107.1, C-10423, N-41, N-11*
 
-**N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
+**N-10635** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
 Investigative target: allegation that Erika Kirk was involved in "modeling apartments" for Next Model Management and MC2 during the period covered by pending trafficking litigation.
 
@@ -986,7 +943,7 @@ Investigative Pressure: High
 
 *Related: C-10439, N-2*
 
-**N-10699** Brian Harpole vs Frank Turek CPR Contradiction
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Investigative target: contradiction between Brian Harpole's prior podcast statements (no CPR performed) and Frank Turek's prior podcast statements (CPR was performed, no exit wound on back of neck).
 
@@ -997,7 +954,7 @@ Investigative Pressure: Medium
 
 *Related: A-2109.1, C-10462, C-10463*
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 Investigative target: cluster of FOIA requests filed by host's team – NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries), FBI (Kash Patel schedule), FBI plane flight logs, Bradley Hansell travel schedule September 7-10.
 
@@ -1008,7 +965,7 @@ Investigative Pressure: Medium
 
 *Related: C-10489*
 
-**N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
+**N-10638** Andrew Kolvet EEOB Presence / Kash Patel Connection
 
 Investigative target: verification of Kolbenschlag's location (EEOB vs Arizona) and meeting attendees on day of pre-recorded Kirk Show appearance.
 
@@ -1019,18 +976,7 @@ Investigative Pressure: Medium
 
 *Related: C-10495*
 
-**N-10702** Lance Twiggs Maroon Shirt Identification
-
-Investigative target: identification of Lance Twiggs as the maroon-shirted individual visible in audience footage.
-
-Evidence Count: 0
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-10515*
-
-**N-10703** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
+**N-10639** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
 
 Investigative target: host's theory that Tyler Robinson was set up by Lance Twiggs and is not the actual shooter.
 
@@ -1041,7 +987,7 @@ Investigative Pressure: High
 
 *Related: C-10516*
 
-**N-10704** Mossad "Truman Show" Analogy Application
+**N-10640** Mossad "Truman Show" Analogy Application
 
 Investigative target: application of the 60 Minutes Mossad agents' description of Israeli operations as a "Truman Show" production to the Charlie Kirk assassination.
 
@@ -1073,7 +1019,7 @@ Claim: The host says the series of photographs she displays depicts multiple you
 
 Anchored Artifacts: A-2104.1
 Mentions: N-1
-Related Nodes: N-10696
+Related Nodes: N-10293
 Investigative Direction: Cross-reference photographs with attendee registration, social media, and military records to identify individuals.
 
 ---
@@ -1085,7 +1031,7 @@ Claim Timestamp: 00:04:49
 Claim: A video clip displayed during the episode shows a man fumbling among a group while holding a maroon shirt (not wearing it) in the moments after the shot.
 
 Anchored Artifacts: A-2104.2
-Related Nodes: N-10696
+Related Nodes: N-10293
 Investigative Direction: Obtain full uncirculated video footage from multiple angles to confirm and identify the individual.
 
 ---
@@ -1162,7 +1108,7 @@ Claim Timestamp: 00:13:17
 Claim: The host shows an article with a photo she says was taken in 2023 at the joint base in Constanta, Romania, the Mihail Kogălniceanu air base, as part of Task Force 82 of the 82nd Airborne.
 
 Anchored Artifacts: A-2107.1
-Related Nodes: N-10697
+Related Nodes: N-10634
 Investigative Direction: Confirm article source, date, and unit assignment through DoD public affairs records.
 
 ---
@@ -1187,7 +1133,7 @@ Claim Timestamp: 00:25:08
 Claim: An audio clip from a 60 Minutes interview of former Mossad agents, played during the episode, includes the description of Israeli operations as a "global production company" running a "Truman Show" with shell companies hiding Israeli involvement.
 
 Anchored Artifacts: A-2108.1
-Related Nodes: N-10704
+Related Nodes: N-10640
 Investigative Direction: Locate the full 60 Minutes episode transcript and air date; verify the speakers' identities and former agency affiliation.
 
 ---
@@ -1200,7 +1146,7 @@ Claim: A podcast audio clip of Frank Turek, played during the episode, contains 
 
 Anchored Artifacts: A-2109.1
 Mentions: N-1, N-7
-Related Nodes: N-10699
+Related Nodes: N-10636
 Investigative Direction: Compare against the official autopsy report and Brian Harpole's prior podcast statements.
 
 ---
@@ -1213,7 +1159,7 @@ Claim: The same podcast audio clip of Frank Turek contains his statement that he
 
 Anchored Artifacts: A-2109.1
 Mentions: N-1, N-7
-Related Nodes: N-10699
+Related Nodes: N-10636
 Investigative Direction: Cross-reference against Brian Harpole's prior podcast statements that no CPR was performed and that the focus was on the wound.
 
 ---
@@ -1226,7 +1172,7 @@ Claim: During the episode, the host asserts that people with direct knowledge of
 
 Anchored Artifacts: None displayed in this episode (host assertion referencing prior Epstein-series content)
 Mentions: N-2
-Related Nodes: N-10698
+Related Nodes: N-10635
 Investigative Direction: Obtain class action complaint, defendant discovery, and corroborate host's named sources under oath.
 *Flag: Claim failed admission test on artifact anchor – host assertion only; underlying lawsuit referenced but not displayed.*
 
@@ -1240,7 +1186,7 @@ Claim: The host states the team has filed FOIA requests to the NSA (Erika emotio
 
 Anchored Artifacts: None displayed
 Mentions: N-2, N-69, N-433
-Related Nodes: N-10700
+Related Nodes: N-10637
 Investigative Direction: Verify FOIA request submissions via the agencies' tracking portals and any responses.
 *Flag: Claim failed admission test on artifact anchor – host assertion only.*
 
@@ -1254,7 +1200,7 @@ Claim: During the episode, the host says she believes Lance Twiggs is the indivi
 
 Anchored Artifacts: None displayed (referenced footage from prior episode)
 Mentions: N-54
-Related Nodes: N-10702
+Related Nodes: N-10161
 Investigative Direction: Obtain higher-resolution frame-by-frame comparison and corroborate via independent witnesses.
 *Flag: Claim failed admission test on artifact anchor – host assertion referencing footage from prior episode.*
 
@@ -1268,7 +1214,7 @@ Claim: During the episode, the host states her belief, based on evidence present
 
 Anchored Artifacts: None displayed in this episode
 Mentions: N-40, N-1, N-54
-Related Nodes: N-10703
+Related Nodes: N-10639
 Investigative Direction: Examine public charging documents, defense filings, Robinson's alibi evidence, and Twiggs's digital footprint.
 *Flag: Claim failed admission test on artifact anchor – host belief/interpretation.*
 
@@ -1282,7 +1228,7 @@ Claim: The host states Andrew Kolvet appeared to be live in studio on the Charli
 
 Anchored Artifacts: None displayed
 Mentions: N-14, N-69
-Related Nodes: N-10701
+Related Nodes: N-10638
 Investigative Direction: Obtain Secret Service visitor logs, EEOB badge access records, and corroborate the Charlie Kirk Show production timeline.
 *Flag: Claim failed admission test on artifact anchor – host assertion only.*
 
@@ -1298,7 +1244,7 @@ Transcript Snippet: And it did look to me like our army regiments were organizin
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10275, N-10311
+Related Nodes: N-10293
 Supports: C-3679
 Tags: relevance:core
 Investigative Direction: Identify the maroon-shirted attendees from event footage and compare them with military rosters or unit assignments.
@@ -1315,7 +1261,7 @@ Transcript Snippet: when we do things overseas and we're being we're undercover,
 
 Anchored Artifacts: A-2967.1
 Mentions: N-3
-Related Nodes: N-10275
+Related Nodes: N-10293
 Supports: C-3681
 Tags: relevance:core
 Investigative Direction: Obtain the emails and verify the senders' service records and whether the practice they describe is documented doctrine.
@@ -1332,7 +1278,7 @@ Transcript Snippet: And no one will ever convince me that the deep state did not
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10048
+Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Treat as a stated belief; test it against the maroon-shirt identifications and the Rawlinson service records.
 
@@ -1348,7 +1294,7 @@ Transcript Snippet: there were way too many older people, not enough students.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Compare audience age data from event footage, ticketing or UVU attendance counts with the host's impression.
 
@@ -1364,7 +1310,7 @@ Transcript Snippet: there was a large presence of people that were wearing brigh
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10275
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Review the host's folders of audience stills and test whether the hat and sock patterns are statistically unusual for a campus event.
 
@@ -1380,7 +1326,7 @@ Transcript Snippet: But nope, UVU's colors, it turns out, are green and white.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-10311
+Related Nodes: N-10012, N-10293
 Supports: C-3678
 Tags: relevance:context
 Investigative Direction: Check Utah Valley University's official brand colors and any maroon campus apparel.
@@ -1397,7 +1343,7 @@ Transcript Snippet: this guy who gave us all the footage, I found him to be rema
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Identify the footage supplier (unnamed in this episode) and corroborate the son's attire from the supplied footage.
 
@@ -1413,7 +1359,7 @@ Transcript Snippet: the men that were alone, they had a particularly athletic bu
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10275, N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Collect clear stills of each maroon-shirted man and compare them to the host's athletic-build observation; identify them independently.
 
@@ -1429,7 +1375,7 @@ Transcript Snippet: To be frank, in retrospect, it registers to me as another ma
 
 Anchored Artifacts: 
 Mentions: N-3, N-814
-Related Nodes: N-10696
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Trace how the cheering clip was amplified (accounts, dates, reach) and whether amplification was organic.
 
@@ -1445,7 +1391,7 @@ Transcript Snippet: He came out, he did an interview clarifying that he wasn't c
 
 Anchored Artifacts: A-2105.1
 Mentions: N-3, N-814, N-1
-Related Nodes: N-10696
+Related Nodes: N-10293
 Supports: C-10407
 Tags: relevance:core
 Investigative Direction: Locate Sprag's interview and compare his explanation with the clip.
@@ -1462,7 +1408,7 @@ Transcript Snippet: They who were emailing us saying you need to look into these
 
 Anchored Artifacts: A-2105.2
 Mentions: N-3, N-814
-Related Nodes: N-10696
+Related Nodes: N-10293
 Supports: C-10410
 Tags: relevance:core
 Investigative Direction: Identify the companion and compare Sprag's stated age with public records.
@@ -1479,7 +1425,7 @@ Transcript Snippet: We learned that his actual birth name is James Norman Rawlin
 
 Anchored Artifacts: A-2968.1
 Mentions: N-3, N-814
-Related Nodes: N-11193
+Related Nodes: N-11109
 Tags: relevance:core
 Investigative Direction: Obtain the court name-change record and compare it with the host's report.
 
@@ -1495,7 +1441,7 @@ Transcript Snippet: he claimed that he had legally changed his name uh recently 
 
 Anchored Artifacts: A-2968.1
 Mentions: N-3, N-814
-Related Nodes: N-11193
+Related Nodes: N-11109
 Tags: relevance:core
 Investigative Direction: Retrieve the name-change petition and its filing date from the relevant court.
 
@@ -1511,7 +1457,7 @@ Transcript Snippet: he claimed that his father got in trouble for child abuse, f
 
 Anchored Artifacts: A-2968.1
 Mentions: N-3, N-814
-Related Nodes: N-11193
+Related Nodes: N-11109
 Tags: relevance:context
 Investigative Direction: Search court and sex-offender registries for any matching record; the host reports she has found none.
 
@@ -1527,7 +1473,7 @@ Transcript Snippet: I can't seem to find that anywhere registered.
 
 Anchored Artifacts: A-2968.1
 Mentions: N-3, N-814
-Related Nodes: N-11193
+Related Nodes: N-11109
 Tags: relevance:context
 Investigative Direction: Search civil and military court records for the father; the host suggests an air base prosecution may not appear in ordinary searches.
 
@@ -1543,7 +1489,7 @@ Transcript Snippet: he joined Army boot camp in 2011. He was promoted to a corpo
 
 Anchored Artifacts: 
 Mentions: N-3, N-814
-Related Nodes: N-10697
+Related Nodes: N-10634
 Tags: relevance:core
 Investigative Direction: Request Rawlinson's service record (DD-214 or National Guard personnel file) to confirm enlistment and promotion dates.
 
@@ -1559,7 +1505,7 @@ Transcript Snippet: Camp Williams is 20 minutes down the road from where Charlie
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10697
+Related Nodes: N-10634
 Tags: relevance:context
 Investigative Direction: Confirm the unit's headquarters and the distance from Camp Williams to the UVU venue.
 
@@ -1575,7 +1521,7 @@ Transcript Snippet: cannot be a green beret without having received the maroon b
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10697
+Related Nodes: N-10634
 Tags: relevance:context
 Investigative Direction: Verify Army qualification pathways for Special Forces candidates with a doctrine source; the host says she is unsure she has it right.
 
@@ -1591,7 +1537,7 @@ Transcript Snippet: the US Army's 19th Special Forces Airborne uh routinely depl
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10697, N-10401
+Related Nodes: N-10634, N-10374
 Tags: relevance:context
 Investigative Direction: Check DoD and National Guard releases on 19th SFG rotations to Romania and their dates.
 
@@ -1607,7 +1553,7 @@ Transcript Snippet: Curtis Kolvet, Andrew Kolvet's brother, uh who was, I believ
 
 Anchored Artifacts: 
 Mentions: N-688, N-14, N-814
-Related Nodes: N-10697
+Related Nodes: N-10634
 Supports: C-10078
 Tags: relevance:core
 Investigative Direction: Obtain Nevada National Guard deployment orders or press releases for Lt. Col. Curtis Kolvet and the dates of his Romania service.
@@ -1624,7 +1570,7 @@ Transcript Snippet: I asked him five separate times if he had served overseas uh
 
 Anchored Artifacts: 
 Mentions: N-3, N-814
-Related Nodes: N-10697, N-11193
+Related Nodes: N-10634, N-11109
 Tags: relevance:core
 Investigative Direction: Obtain the host's message exchange with Rawlinson and Rawlinson's own statement on any Romania service.
 
@@ -1640,7 +1586,7 @@ Transcript Snippet: he would particularly have been a part of the 82nd Airborne 
 
 Anchored Artifacts: A-2107.1
 Mentions: N-3, N-814
-Related Nodes: N-10697
+Related Nodes: N-10634
 Supports: C-10423
 Tags: relevance:context
 Investigative Direction: Check whether National Guard soldiers wearing maroon berets were attached to Task Force 82 and what the unit's readiness standard is.
@@ -1657,7 +1603,7 @@ Transcript Snippet: there were in fact military units that were in plain clothes
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10275, N-10311
+Related Nodes: N-10293
 Supports: C-3547
 Tags: relevance:core
 Investigative Direction: Request unit rosters, orders or authorizations for any military personnel present at UVU on September 10.
@@ -1674,7 +1620,7 @@ Transcript Snippet: we never got to learn who was aboard that plane, the plane t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10401
+Related Nodes: N-10374
 Supports: C-10073
 Tags: relevance:core
 Investigative Direction: Pull FAA registration history and passenger records for the aircraft the host calls Plane 888.
@@ -1691,7 +1637,7 @@ Transcript Snippet: Erika herself setting up a charity in Romania orphanages wor
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10401
+Related Nodes: N-10374
 Supports: C-10074
 Tags: relevance:core
 Investigative Direction: Obtain Romanian Angels project records and any Marine or Black Sea Rotational Force documentation of cooperation.
@@ -1708,7 +1654,7 @@ Transcript Snippet: Tyler Bowyer having lived in Romania, particularly partying 
 
 Anchored Artifacts: 
 Mentions: N-11, N-3
-Related Nodes: N-10395
+Related Nodes: N-10368
 Tags: relevance:core
 Investigative Direction: Find the earlier Bowyer statements the host references (she says 'we showed you that') and verify his Romania residence dates.
 
@@ -1724,7 +1670,7 @@ Transcript Snippet: We then learn his dad began a global ministry that worked wi
 
 Anchored Artifacts: 
 Mentions: N-685, N-686
-Related Nodes: N-10401
+Related Nodes: N-10374
 Supports: C-10173
 Tags: relevance:core
 Investigative Direction: Obtain ministry filings and mission reports for Dr. Philip Goldsberry's Romania work.
@@ -1741,7 +1687,7 @@ Transcript Snippet: Him having trafficked girls from Romania, a country that I t
 
 Anchored Artifacts: 
 Mentions: N-9, N-3
-Related Nodes: N-10401
+Related Nodes: N-10374
 Tags: relevance:core
 Investigative Direction: Run a country-frequency count on the released Epstein email corpus and review any Romania trafficking evidence.
 
@@ -1757,7 +1703,7 @@ Transcript Snippet: Even Trump being upset with Charlie wanting him to stop talk
 
 Anchored Artifacts: 
 Mentions: N-5, N-1, N-9, N-3
-Related Nodes: N-10871
+Related Nodes: N-10792
 Tags: relevance:core
 Investigative Direction: Identify the source (the host does not say) for Trump's displeasure and any Kirk statements on Epstein.
 
@@ -1837,7 +1783,7 @@ Transcript Snippet: He was actually the founder alongside his brother, Arnaud Br
 
 Anchored Artifacts: 
 Mentions: N-529, N-815, N-9, N-3
-Related Nodes: N-10532
+Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Check New York corporate records and press for the founders of Next Model Management; Faith Kates is usually named as its founder.
 
@@ -1853,7 +1799,7 @@ Transcript Snippet: Jean-Luc Brunel and his brother founded the Next Model Corpo
 
 Anchored Artifacts: 
 Mentions: N-529, N-815, N-568
-Related Nodes: N-10532
+Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Obtain Next Model corporate formation records and ownership history.
 
@@ -1869,7 +1815,7 @@ Transcript Snippet: underage um foreign models that who were recruited from MC2 
 
 Anchored Artifacts: 
 Mentions: N-9, N-581
-Related Nodes: N-10532
+Related Nodes: N-10478
 Tags: relevance:context
 Investigative Direction: Review court filings and property records identifying the apartments and their owners.
 
@@ -1885,7 +1831,7 @@ Transcript Snippet: we discovered that Mark Epstein owned just such a building.
 
 Anchored Artifacts: 
 Mentions: N-581, N-2, N-3
-Related Nodes: N-10532
+Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Pull New York property records for Mark Epstein's Upper East Side holdings and compare with the building the host's sources describe.
 
@@ -1901,7 +1847,7 @@ Transcript Snippet: there is a a current class action lawsuit that's making its 
 
 Anchored Artifacts: A-2969.1
 Mentions: N-3
-Related Nodes: N-11194, N-10532
+Related Nodes: N-11110, N-10478
 Tags: relevance:context
 Investigative Direction: Identify the docket, court and filing date of the class action and confirm the defendants.
 
@@ -1917,7 +1863,7 @@ Transcript Snippet: paychecks deducted up to 70%, which kept them dependent as u
 
 Anchored Artifacts: A-2969.1
 Mentions: N-3
-Related Nodes: N-11194
+Related Nodes: N-11110
 Tags: relevance:core
 Investigative Direction: Read the class action complaint for the specific pay-deduction allegations and percentages.
 
@@ -1933,7 +1879,7 @@ Transcript Snippet: It also covers the time in which Erika was allegedly working
 
 Anchored Artifacts: A-2969.1
 Mentions: N-529, N-568, N-2, N-3
-Related Nodes: N-11194, N-10532
+Related Nodes: N-11110, N-10478
 Supports: C-10114
 Tags: relevance:core
 Investigative Direction: Compare the complaint's covered period with any documentation of Erika Kirk's dates at Next.
@@ -1998,7 +1944,7 @@ Transcript Snippet: Gold Apollo had zero clue that they are working with the Mos
 
 Anchored Artifacts: A-2108.1
 Mentions: 
-Related Nodes: N-10979, N-10978, N-10015
+Related Nodes: N-10900, N-10899, N-10015
 Supports: C-10449
 Tags: relevance:context
 Investigative Direction: Locate the 60 Minutes segment and verify the speakers' identities and the Gold Apollo statements.
@@ -2015,7 +1961,7 @@ Transcript Snippet: he had no idea that he was living the Truman Show.
 
 Anchored Artifacts: A-2108.1
 Mentions: N-3, N-1
-Related Nodes: N-10704
+Related Nodes: N-10640
 Supports: C-10449
 Tags: relevance:core
 Investigative Direction: List the people who entered Kirk's circle and when, and test the infiltration theory against employment and donor records.
@@ -2032,7 +1978,7 @@ Transcript Snippet: A script that runs back to Tel Aviv.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10704
+Related Nodes: N-10640
 Tags: relevance:context
 Investigative Direction: The host provides no document for this link; seek evidence of any Israeli-directed role in the events.
 
@@ -2048,7 +1994,7 @@ Transcript Snippet: they are deploying people and have been steady deploying peo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10888, N-11195
+Related Nodes: N-10809, N-11111
 Tags: relevance:core
 Investigative Direction: Seek contracts, task orders or payments tying DoD funds to creators of content about the host.
 
@@ -2064,7 +2010,7 @@ Transcript Snippet: His official title was senior consultant to the Department o
 
 Anchored Artifacts: 
 Mentions: N-606, N-1, N-3
-Related Nodes: N-10888, N-11195
+Related Nodes: N-10809, N-11111
 Tags: relevance:core
 Investigative Direction: Request Department of War personnel or consulting records for Graham Allen and his dates of service.
 
@@ -2080,7 +2026,7 @@ Transcript Snippet: Now, he's allegedly moved to Arizona to full-time assist Tur
 
 Anchored Artifacts: 
 Mentions: N-606, N-3
-Related Nodes: N-10000, N-11195
+Related Nodes: N-10000, N-11111
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and Allen to confirm or deny any relocation or engagement; look for contracts or payroll records.
 
@@ -2096,7 +2042,7 @@ Transcript Snippet: Department of War being the same department which referred t
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10888, N-10923
+Related Nodes: N-10809, N-10844
 Supports: C-9768
 Tags: relevance:core
 Investigative Direction: Obtain the email through the pending FOIA requests and confirm its origin and wording.
@@ -2113,7 +2059,7 @@ Transcript Snippet: the same department which we've discovered paid Paramount no
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10899, N-10937, N-10888
+Related Nodes: N-10820, N-10858, N-10809
 Supports: C-9350
 Tags: relevance:core
 Investigative Direction: Check USAspending or DoD disbursement records for the payments to the Paramount Tactical entity.
@@ -2130,7 +2076,7 @@ Transcript Snippet: Charlie was killed in a military operation that part seems v
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10888
+Related Nodes: N-10809
 Tags: relevance:core
 Investigative Direction: Treat as the host's conclusion; identify the specific evidence of military participation she relies on.
 
@@ -2146,7 +2092,7 @@ Transcript Snippet: Everyone knows that Tyler Robinson didn't do it.
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare against the prosecution's evidence summary and defense filings.
 
@@ -2162,7 +2108,7 @@ Transcript Snippet: We think Charlie Kirk was taken out because a global traffic
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10048
+Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Identify the documentary basis for a trafficking-ring motive; the host offers the Next Model and Epstein links as support.
 
@@ -2194,7 +2140,7 @@ Transcript Snippet: Brian has twice gone onto podcasts and explained that they n
 
 Anchored Artifacts: A-2109.1
 Mentions: N-266, N-3
-Related Nodes: N-10699
+Related Nodes: N-10636
 Supports: C-10094
 Tags: relevance:core
 Investigative Direction: Retrieve both Harpole podcast appearances and compare the exact words with Turek's.
@@ -2211,7 +2157,7 @@ Transcript Snippet: Frank Turek has now gone on multiple shows and claimed that 
 
 Anchored Artifacts: A-2109.1
 Mentions: N-7, N-3
-Related Nodes: N-10699, N-10687
+Related Nodes: N-10636, N-10625
 Supports: C-10093
 Tags: relevance:core
 Investigative Direction: List each Turek appearance and the CPR wording used in each.
@@ -2228,7 +2174,7 @@ Transcript Snippet: I'm inclined to believe that Frank Turek is lying because of
 
 Anchored Artifacts: A-2109.1
 Mentions: N-7, N-1, N-3
-Related Nodes: N-10737
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Obtain a vehicle interior diagram and witness descriptions of Kirk's position during the drive.
 
@@ -2244,7 +2190,7 @@ Transcript Snippet: Brian Harpole would not forget getting Charlie within a 6-mi
 
 Anchored Artifacts: 
 Mentions: N-266, N-1, N-3
-Related Nodes: N-10737
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Compare the host's 6-minute ride figure with the 8-minute figure used in other episodes and with the vehicle GPS or dispatch logs.
 
@@ -2260,7 +2206,7 @@ Transcript Snippet: There's just just no way in that cramped car could CPR have 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10737
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Measure the interior of the same model SUV with a person of Kirk's height and test the host's claim.
 
@@ -2292,7 +2238,7 @@ Transcript Snippet: That email we shared with you was real.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10888, N-10923
+Related Nodes: N-10809, N-10844
 Supports: C-9340
 Tags: relevance:core
 Investigative Direction: Track the FOIA outcome and any authenticated copy of the email.
@@ -2309,7 +2255,7 @@ Transcript Snippet: who I now know it's plausible were being artificially inflat
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10888, N-10032
+Related Nodes: N-10809, N-10032
 Tags: relevance:core
 Investigative Direction: Obtain the email and any DoD media-amplification tasking that names these witnesses.
 
@@ -2325,7 +2271,7 @@ Transcript Snippet: the young woman that we showed you who changed her story thr
 
 Anchored Artifacts: 
 Mentions: N-729, N-1, N-3
-Related Nodes: N-10677
+Related Nodes: N-10615
 Supports: C-10246, C-10249
 Tags: relevance:core
 Investigative Direction: Transcribe all of Sara Tewell's interviews and compare the wording of each account.
@@ -2342,7 +2288,7 @@ Transcript Snippet: The family she married into, yes, it is correct, controlled 
 
 Anchored Artifacts: 
 Mentions: N-729, N-3
-Related Nodes: N-11196
+Related Nodes: N-11112
 Tags: relevance:core
 Investigative Direction: Identify the family, the company and its Utah dispatch contracts from business filings and county contracts.
 
@@ -2358,7 +2304,7 @@ Transcript Snippet: of course in partnership with Israel with Carbyne created by
 
 Anchored Artifacts: 
 Mentions: N-729, N-816, N-3
-Related Nodes: N-11196, N-11197
+Related Nodes: N-11112, N-11113
 Tags: relevance:core
 Investigative Direction: Verify Carbyne's founders and any partnership or contract with the dispatch company the host means.
 
@@ -2374,7 +2320,7 @@ Transcript Snippet: Is there anybody in the witness tree who's just like, "Yeah,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10677
+Related Nodes: N-10615
 Tags: relevance:core
 Investigative Direction: Build the promised witness tree with each witness's affiliations sourced.
 
@@ -2390,7 +2336,7 @@ Transcript Snippet: you can email us at moretips@candaceowens. com, you can emai
 
 Anchored Artifacts: A-2970.1
 Mentions: N-3, N-2
-Related Nodes: N-10698
+Related Nodes: N-10635
 Tags: relevance:core
 Investigative Direction: Count and triage the tips received on Erika Kirk and Next Model Management.
 
@@ -2406,7 +2352,7 @@ Transcript Snippet: I think there is now enough compelling evidence to suggest t
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10698, N-10501
+Related Nodes: N-10635, N-10462
 Supports: C-10114, C-10269
 Tags: relevance:core
 Investigative Direction: Obtain the named sources' statements and any documents (leases, payments) tying Erika Kirk to the apartments.
@@ -2423,7 +2369,7 @@ Transcript Snippet: the people are telling me that she was doing this before she
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10698, N-10501
+Related Nodes: N-10635, N-10462
 Tags: relevance:core
 Investigative Direction: Compare the sources' dates with the New York licensing record for Erika Kirk.
 
@@ -2439,7 +2385,7 @@ Transcript Snippet: I believe she was licensed in 2019 the same month that she m
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3, N-68
-Related Nodes: N-10501, N-10526
+Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Check New York Department of State licensing records and Erika Kirk and Charlie Kirk's first-meeting date; the host herself is unsure of the year.
 
@@ -2455,7 +2401,7 @@ Transcript Snippet: it doesn't actually seem like Nicole Rothstein is her blood 
 
 Anchored Artifacts: 
 Mentions: N-573, N-2, N-3
-Related Nodes: N-10520
+Related Nodes: N-10463
 Tags: relevance:core
 Investigative Direction: Identify Nicole Rothstein, her relation to Erika Kirk and any shared real estate ventures.
 
@@ -2471,7 +2417,7 @@ Transcript Snippet: the Corcoran group which we had already showed you establish
 
 Anchored Artifacts: 
 Mentions: N-2, N-556, N-9, N-3
-Related Nodes: N-10502, N-10523
+Related Nodes: N-10463, N-10480
 Tags: relevance:core
 Investigative Direction: Re-check the Epstein email for Lynn de Rothschild's role at Corcoran; earlier episodes described her as president rather than founder.
 
@@ -2487,7 +2433,7 @@ Transcript Snippet: we only ever confined two listings that have ever gone up un
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10502, N-10520
+Related Nodes: N-10463
 Supports: C-10279
 Tags: relevance:core
 Investigative Direction: Search Corcoran and MLS listing histories for any listing agent named Erika Frantzve or Kirk.
@@ -2504,7 +2450,7 @@ Transcript Snippet: when you just become an agent you wouldn't be able to work f
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10502, N-10520
+Related Nodes: N-10463
 Tags: relevance:core
 Investigative Direction: Ask Corcoran about its hiring requirements for new agents in 2018 to 2019.
 
@@ -2552,7 +2498,7 @@ Transcript Snippet: he entered the world of blackmail and trafficking young wome
 
 Anchored Artifacts: 
 Mentions: N-9, N-3
-Related Nodes: N-10401
+Related Nodes: N-10374
 Tags: relevance:context
 Investigative Direction: Review Epstein case records on recruitment pipelines from Eastern Europe.
 
@@ -2568,7 +2514,7 @@ Transcript Snippet: Trump also is involved in the modeling world via the pageant
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10988
+Related Nodes: N-10908
 Tags: relevance:context
 Investigative Direction: Confirm Trump's ownership history of Miss Universe-related pageants and any modeling agency ties.
 
@@ -2584,7 +2530,7 @@ Transcript Snippet: Why they were suddenly in the situation room trying to figur
 
 Anchored Artifacts: 
 Mentions: N-5, N-9, N-3
-Related Nodes: N-10871
+Related Nodes: N-10792
 Tags: relevance:context
 Investigative Direction: Obtain White House schedule and reporting on the Situation Room meeting about Epstein.
 
@@ -2600,7 +2546,7 @@ Transcript Snippet: we have one out to the NSA regarding that Erika emotional as
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10923, N-10700
+Related Nodes: N-10844, N-10637
 Supports: C-9791
 Tags: relevance:core
 Investigative Direction: Check the NSA FOIA portal response and the Department of War follow-up.
@@ -2617,7 +2563,7 @@ Transcript Snippet: every time you go into the White House, you have to basicall
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10700
+Related Nodes: N-10637
 Tags: relevance:core
 Investigative Direction: Track the DHS, Secret Service and EOP FOIA responses for Erika Kirk's visit dates.
 
@@ -2633,7 +2579,7 @@ Transcript Snippet: why Erika was put on that board, which she's not qualified f
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10929
+Related Nodes: N-10850
 Supports: C-9259
 Tags: relevance:core
 Investigative Direction: Review the Air Force Academy Board of Visitors appointment record and member qualifications.
@@ -2666,7 +2612,7 @@ Transcript Snippet: Um and we have not yet received a response.
 
 Anchored Artifacts: 
 Mentions: N-69, N-3
-Related Nodes: N-10971, N-10700
+Related Nodes: N-10892, N-10637
 Supports: C-9959
 Tags: relevance:core
 Investigative Direction: Check the FBI FOIA queue status for the request and any later release.
@@ -2683,7 +2629,7 @@ Transcript Snippet: Moved to the back of the queue, right? We're number 3 534. I
 
 Anchored Artifacts: A-2971.1
 Mentions: N-433, N-3
-Related Nodes: N-10700, N-10888
+Related Nodes: N-10637, N-10809
 Supports: C-9916
 Tags: relevance:core
 Investigative Direction: Obtain the FOIA correspondence showing the denial and queue position.
@@ -2700,7 +2646,7 @@ Transcript Snippet: it landed at the same time um as our Egyptian planes in Nebr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10982, N-10276, N-10700
+Related Nodes: N-10903, N-10259, N-10637
 Supports: C-9956
 Tags: relevance:core
 Investigative Direction: Match FAA/ADS-B data for the FBI plane with the Egyptian aircraft times and landing locations.
@@ -2717,7 +2663,7 @@ Transcript Snippet: Um we are also asking the Secret Service and the DHS for And
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10701, N-10324
+Related Nodes: N-10638, N-10303
 Supports: C-10108
 Tags: relevance:core
 Investigative Direction: Track the Secret Service and DHS visitor-log FOIA responses for the date.
@@ -2734,7 +2680,7 @@ Transcript Snippet: And then sure enough the next day the Epstein files get drop
 
 Anchored Artifacts: 
 Mentions: N-14, N-9, N-3
-Related Nodes: N-10324, N-10701
+Related Nodes: N-10303, N-10638
 Tags: relevance:core
 Investigative Direction: Pin the exact date of the Charlie Kirk Show episode and the Epstein files release.
 
@@ -2750,7 +2696,7 @@ Transcript Snippet: Susie Wiles, I believe, has an office down that way. Um J. D
 
 Anchored Artifacts: 
 Mentions: N-131, N-4, N-69, N-14
-Related Nodes: N-10701
+Related Nodes: N-10638
 Tags: relevance:context
 Investigative Direction: Check EEOB office assignments and visitor logs for the date.
 
@@ -2766,7 +2712,7 @@ Transcript Snippet: I have always said also that the French Foreign Legion was t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10290
+Related Nodes: N-10272
 Supports: C-3576
 Tags: relevance:core
 Investigative Direction: Ask French and US authorities whether Legion personnel were in Utah on September 10.
@@ -2783,7 +2729,7 @@ Transcript Snippet: has been at various times based in Romania on that very base
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10290, N-10401
+Related Nodes: N-10272, N-10374
 Tags: relevance:core
 Investigative Direction: Check Foreign Legion deployments to Mihail Kogalniceanu air base.
 
@@ -2799,7 +2745,7 @@ Transcript Snippet: I believe all of these people were using fake names.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10311, N-10275
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Seek identifications of the maroon-shirted men and compare to name-change or alias records.
 
@@ -2831,7 +2777,7 @@ Transcript Snippet: that is a facet of being in the French Foreign Legion is tha
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10290
+Related Nodes: N-10272
 Tags: relevance:context
 Investigative Direction: Check Foreign Legion anonymat rules and whether US military programs provide cover identities.
 
@@ -2847,7 +2793,7 @@ Transcript Snippet: please email us at moretips@candaceowens. com at and also ti
 
 Anchored Artifacts: A-2970.2
 Mentions: N-3
-Related Nodes: N-10696
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Collect and triage the identifications submitted for the maroon-shirted men.
 
@@ -2863,7 +2809,7 @@ Transcript Snippet: you'd be arresting FBI agents. Who were there way too early,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10107
+Related Nodes: N-10103
 Tags: relevance:core
 Investigative Direction: Obtain FBI arrival logs and the UVU incident timeline to test the 'too early' claim.
 
@@ -2879,7 +2825,7 @@ Transcript Snippet: She'll always reply when Project Constitution gets something
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10897
+Related Nodes: N-10818
 Supports: C-6863
 Tags: relevance:core
 Investigative Direction: Collect Erika Kirk's public replies to Project Constitution and any response to the host's inquiries.
@@ -2896,7 +2842,7 @@ Transcript Snippet: we would be able to request anything inside because Kash Pat
 
 Anchored Artifacts: 
 Mentions: N-69, N-40, N-3
-Related Nodes: N-10239
+Related Nodes: N-10226
 Supports: C-10015
 Tags: relevance:core
 Investigative Direction: Check defense discovery requests and FBI evidence logs for Timpanogos hospital footage.
@@ -2913,7 +2859,7 @@ Transcript Snippet: I wonder also if that part of him saying that was to prepare
 
 Anchored Artifacts: 
 Mentions: N-266, N-1, N-3
-Related Nodes: N-10768
+Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Read the autopsy report for chest findings and ask the hospital whether defibrillation was attempted.
 
@@ -2929,7 +2875,7 @@ Transcript Snippet: Because I think that they had everything to do with what hap
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10888
+Related Nodes: N-10809
 Tags: relevance:core
 Investigative Direction: Treat as the host's stated opinion; seek documents showing the military's role in the event.
 
@@ -2945,7 +2891,7 @@ Transcript Snippet: That the St. Michael pendant could have caused an injury tha
 
 Anchored Artifacts: A-2972.1
 Mentions: N-3, N-1
-Related Nodes: N-10230, N-10768
+Related Nodes: N-10217, N-10697
 Tags: relevance:core
 Investigative Direction: Examine autopsy photos and the pendant's condition for any injury tied to it.
 
@@ -2961,7 +2907,7 @@ Transcript Snippet: You have a president that wants me to be bankrupted by Brigi
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Related Nodes: N-11011
+Related Nodes: N-10931
 Tags: relevance:tangential
 Investigative Direction: Clarify which president the host means and any public statement supporting Macron's lawsuit.
 
@@ -2977,7 +2923,7 @@ Transcript Snippet: I've been an ER nurse for over 20 years and the tale told by
 
 Anchored Artifacts: A-2972.2
 Mentions: N-266
-Related Nodes: N-10663
+Related Nodes: N-10605
 Supports: C-10382
 Tags: relevance:context
 Investigative Direction: Treat as an unverified viewer comment; seek credentialed emergency physicians' assessments.
@@ -2994,7 +2940,7 @@ Transcript Snippet: And Lance Twiggs is being protected. I believe it was Lance 
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10168, N-10598
+Related Nodes: N-10161, N-10545
 Supports: C-10515
 Tags: relevance:core
 Investigative Direction: Request FBI and prosecution records about Twiggs's interviews and any protection arrangements.
@@ -3011,7 +2957,7 @@ Transcript Snippet: He would have been able to access all of his roommates' stuf
 
 Anchored Artifacts: 
 Mentions: N-54, N-40, N-3
-Related Nodes: N-10703
+Related Nodes: N-10639
 Supports: C-10516
 Tags: relevance:core
 Investigative Direction: Check the living arrangement and access to Robinson's rifle or belongings in discovery.
@@ -3028,7 +2974,7 @@ Transcript Snippet: Pentagon getting involved in the media. Operation Mockingbir
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10061
+Related Nodes: N-10058
 Tags: relevance:tangential
 Investigative Direction: Review the Church Committee report and archives on Operation Mockingbird.
 
@@ -3060,7 +3006,7 @@ Transcript Snippet: Given what I've learned about the explosive, I do believe he
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10768
+Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Await autopsy and forensic evidence on the cause of death and any explosive residue.
 
@@ -3076,7 +3022,7 @@ Transcript Snippet: I also don't think he was given the medical care in the car 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10740, N-10737
+Related Nodes: N-10672, N-10636
 Tags: relevance:core
 Investigative Direction: Inventory SUV contents and compare to witness descriptions of care provided.
 
@@ -3092,7 +3038,7 @@ Transcript Snippet: that tip we received about only a district attorney would ha
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10691, N-11053
+Related Nodes: N-10629, N-10971
 Tags: relevance:core
 Investigative Direction: Ask Utah County officials who released the microphone and other items to Erika Kirk, and when.
 

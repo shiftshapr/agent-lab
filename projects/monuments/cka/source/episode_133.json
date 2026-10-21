@@ -18,10 +18,10 @@
     "- **Transcript SHA-256**: 35b1a7b16ba70042ea415c7ad92b025f859141e457801a624a03258614a87ceb",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10b): N-779, N-780, N-781, N-782, N-11140, N-11141",
+    "  - Tip-minted Nodes (supplement_2026-10b): N-779, N-780, N-781, N-782, N-11058, N-11059",
     "  - Claim Range: C-11446–C-11505",
-    "  - Reused Nodes Appearing: N-10756, N-3, N-5, N-15, N-33, N-36, N-42, N-69, N-82, N-353, N-130, N-410, N-430, N-493, N-494, N-568, N-10000, N-10061, N-10074, N-10075, N-10082, N-10132, N-10229, N-10314, N-10316, N-10318, N-10324, N-10337, N-10343, N-10434, N-10524, N-10719, N-10752, N-10975, N-11018, N-11019, N-11054, N-10754, N-10755, N-11142, N-11139",
-    " - New Nodes Introduced: N-10756, N-10757, N-10758",
+    "  - Reused Nodes Appearing: N-10686, N-3, N-5, N-15, N-33, N-36, N-42, N-69, N-82, N-353, N-130, N-410, N-430, N-493, N-494, N-568, N-10000, N-10058, N-10071, N-10072, N-10079, N-10127, N-10216, N-10295, N-10297, N-10299, N-10303, N-10316, N-10321, N-10404, N-10481, N-10655, N-10682, N-10896, N-10938, N-10939, N-10972, N-10684, N-10685, N-11060, N-11057",
+    " - New Nodes Introduced: N-10686, N-10687, N-10688",
     " - Reused Nodes Appearing: none (Wave 2: local ids removed)",
     " - (see registers)",
     "",
@@ -41,7 +41,7 @@
     "- **Ledger Continuation Summary:**",
     " - Artifact Families Introduced: A-2198, A-2199, A-2200, A-2201, A-2202, A-2204",
     " - New People Nodes Introduced: none (Wave 2: local ids removed)",
-    " - New Investigation Target Nodes Introduced: N-10754, N-10755, N-10756, N-10757, N-10758",
+    " - New Investigation Target Nodes Introduced: N-10684, N-10685, N-10686, N-10687, N-10688",
     " - Existing Nodes Reused (assumed): Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr.",
     "",
     "---",
@@ -359,7 +359,7 @@
      "raw": "- Confidence Level: Medium (provenance asserted, not externally verified)"
     },
     {
-     "raw": "- *Related: C-11460, C-11464, C-11465, C-11461, N-10754, N-10755*"
+     "raw": "- *Related: C-11460, C-11464, C-11465, C-11461, N-10684, N-10685*"
     },
     {
      "raw": ""
@@ -385,7 +385,7 @@
      "raw": "- Discovery Timestamp: 2025-10"
     },
     {
-     "raw": "- *Related: C-11461, N-10754*"
+     "raw": "- *Related: C-11461, N-10684*"
     },
     {
      "raw": ""
@@ -411,7 +411,7 @@
      "raw": "- Discovery Timestamp: 2025-10"
     },
     {
-     "raw": "- *Related: C-11460, N-10754*"
+     "raw": "- *Related: C-11460, N-10684*"
     },
     {
      "raw": ""
@@ -437,7 +437,7 @@
      "raw": "- Discovery Timestamp: 2025-10"
     },
     {
-     "raw": "- *Related: C-11465, N-10755*"
+     "raw": "- *Related: C-11465, N-10685*"
     },
     {
      "raw": ""
@@ -481,7 +481,7 @@
      "raw": "- Confidence Level: Low (provenance unstated)"
     },
     {
-     "raw": "- *Related: C-11460, N-10754*"
+     "raw": "- *Related: C-11460, N-10684*"
     },
     {
      "raw": ""
@@ -525,7 +525,7 @@
      "raw": "- Confidence Level: Medium (live Wikipedia content subject to revision)"
     },
     {
-     "raw": "- *Related: C-11481, N-10758*"
+     "raw": "- *Related: C-11481, N-10688*"
     },
     {
      "raw": ""
@@ -551,7 +551,7 @@
      "raw": "- Discovery Timestamp: 2026-07-29"
     },
     {
-     "raw": "- *Related: C-11482, N-10758*"
+     "raw": "- *Related: C-11482, N-10688*"
     },
     {
      "raw": ""
@@ -577,7 +577,7 @@
      "raw": "- Discovery Timestamp: 2026-07-29"
     },
     {
-     "raw": "- *Related: C-11483, N-10758*"
+     "raw": "- *Related: C-11483, N-10688*"
     },
     {
      "raw": ""
@@ -621,7 +621,7 @@
      "raw": "- Confidence Level: High (verbatim read; appears to be entered court record)"
     },
     {
-     "raw": "- *Related: C-11470, N-10756*"
+     "raw": "- *Related: C-11470, N-10686*"
     },
     {
      "raw": ""
@@ -974,8 +974,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10061",
-   "header": "**N-10061** CIA Operation Mockingbird",
+   "id": "N-10058",
+   "header": "**N-10058** CIA Operation Mockingbird",
    "label": "CIA Operation Mockingbird",
    "lines": [
     {
@@ -1003,8 +1003,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10074",
-   "header": "**N-10074** Provo, Utah",
+   "id": "N-10071",
+   "header": "**N-10071** Provo, Utah",
    "label": "Provo, Utah",
    "lines": [
     {
@@ -1032,8 +1032,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10075",
-   "header": "**N-10075** White House",
+   "id": "N-10072",
+   "header": "**N-10072** White House",
    "label": "White House",
    "lines": [
     {
@@ -1061,8 +1061,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10082",
-   "header": "**N-10082** CIA",
+   "id": "N-10079",
+   "header": "**N-10079** CIA",
    "label": "CIA",
    "lines": [
     {
@@ -1090,8 +1090,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10132",
-   "header": "**N-10132** TPUSA DOGE Department / Financial Audit",
+   "id": "N-10127",
+   "header": "**N-10127** TPUSA DOGE Department / Financial Audit",
    "label": "TPUSA DOGE Department / Financial Audit",
    "lines": [
     {
@@ -1119,8 +1119,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10229",
-   "header": "**N-10229** Autopsy Report and Evidence Access Asymmetry",
+   "id": "N-10216",
+   "header": "**N-10216** Autopsy Report and Evidence Access Asymmetry",
    "label": "Autopsy Report and Evidence Access Asymmetry",
    "lines": [
     {
@@ -1148,8 +1148,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10314",
-   "header": "**N-10314** Roof Shooter Video Witness Follow-up",
+   "id": "N-10295",
+   "header": "**N-10295** Roof Shooter Video Witness Follow-up",
    "label": "Roof Shooter Video Witness Follow-up",
    "lines": [
     {
@@ -1177,8 +1177,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10316",
-   "header": "**N-10316** France / Macron Couple Involvement in Kirk Assassination",
+   "id": "N-10297",
+   "header": "**N-10297** France / Macron Couple Involvement in Kirk Assassination",
    "label": "France / Macron Couple Involvement in Kirk Assassination",
    "lines": [
     {
@@ -1206,8 +1206,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10318",
-   "header": "**N-10318** Operation Mockingbird 2.0 Allegation",
+   "id": "N-10299",
+   "header": "**N-10299** Operation Mockingbird 2.0 Allegation",
    "label": "Operation Mockingbird 2.0 Allegation",
    "lines": [
     {
@@ -1235,8 +1235,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10324",
-   "header": "**N-10324** Epstein Files Release Status",
+   "id": "N-10303",
+   "header": "**N-10303** Epstein Files Release Status",
    "label": "Epstein Files Release Status",
    "lines": [
     {
@@ -1264,8 +1264,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10337",
-   "header": "**N-10337** Tyler Robinson Prosecution Evidence Base",
+   "id": "N-10316",
+   "header": "**N-10316** Tyler Robinson Prosecution Evidence Base",
    "label": "Tyler Robinson Prosecution Evidence Base",
    "lines": [
     {
@@ -1293,8 +1293,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10343",
-   "header": "**N-10343** Tyler Robinson Rooftop Access Timeline",
+   "id": "N-10321",
+   "header": "**N-10321** Tyler Robinson Rooftop Access Timeline",
    "label": "Tyler Robinson Rooftop Access Timeline",
    "lines": [
     {
@@ -1322,8 +1322,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10434",
-   "header": "**N-10434** Charlie Kirk DOGE Pre-Death Establishment",
+   "id": "N-10404",
+   "header": "**N-10404** Charlie Kirk DOGE Pre-Death Establishment",
    "label": "Charlie Kirk DOGE Pre-Death Establishment",
    "lines": [
     {
@@ -1351,8 +1351,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10524",
-   "header": "**N-10524** Faith Kates – Epstein Relationship Scope",
+   "id": "N-10481",
+   "header": "**N-10481** Faith Kates – Epstein Relationship Scope",
    "label": "Faith Kates – Epstein Relationship Scope",
    "lines": [
     {
@@ -1380,8 +1380,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10719",
-   "header": "**N-10719** Prosecution Non-Call of Rooftop Eyewitness",
+   "id": "N-10655",
+   "header": "**N-10655** Prosecution Non-Call of Rooftop Eyewitness",
    "label": "Prosecution Non-Call of Rooftop Eyewitness",
    "lines": [
     {
@@ -1409,8 +1409,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10752",
-   "header": "**N-10752** TPUSA White House Meeting Coordination with Netanyahu Trip",
+   "id": "N-10682",
+   "header": "**N-10682** TPUSA White House Meeting Coordination with Netanyahu Trip",
    "label": "TPUSA White House Meeting Coordination with Netanyahu Trip",
    "lines": [
     {
@@ -1438,8 +1438,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10975",
-   "header": "**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+   "id": "N-10896",
+   "header": "**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
    "label": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
    "lines": [
     {
@@ -1467,8 +1467,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11018",
-   "header": "**N-11018** Pleasant Grove Sheriff's Department",
+   "id": "N-10938",
+   "header": "**N-10938** Pleasant Grove Sheriff's Department",
    "label": "Pleasant Grove Sheriff's Department",
    "lines": [
     {
@@ -1496,8 +1496,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11019",
-   "header": "**N-11019** Freya Canine Scent Trace",
+   "id": "N-10939",
+   "header": "**N-10939** Freya Canine Scent Trace",
    "label": "Freya Canine Scent Trace",
    "lines": [
     {
@@ -1525,8 +1525,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11054",
-   "header": "**N-11054** Bomb Dog Deployment at the Crime Scene",
+   "id": "N-10972",
+   "header": "**N-10972** Bomb Dog Deployment at the Crime Scene",
    "label": "Bomb Dog Deployment at the Crime Scene",
    "lines": [
     {
@@ -2255,8 +2255,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11139",
-   "header": "**N-11139** Manhunt Blurry Still Image Release Question",
+   "id": "N-11057",
+   "header": "**N-11057** Manhunt Blurry Still Image Release Question",
    "label": "Manhunt Blurry Still Image Release Question",
    "lines": [
     {
@@ -2264,7 +2264,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "The host's question why the feds released a blurry stairwell still during the 33-hour manhunt when clearer footage existed."
@@ -2288,8 +2288,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11140",
-   "header": "**N-11140** Naval Criminal Investigative Service (NCIS)",
+   "id": "N-11058",
+   "header": "**N-11058** Naval Criminal Investigative Service (NCIS)",
    "label": "Naval Criminal Investigative Service (NCIS)",
    "lines": [
     {
@@ -2321,8 +2321,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11141",
-   "header": "**N-11141** Foster Curtiss Richmond Inspector General Transition",
+   "id": "N-11059",
+   "header": "**N-11059** Foster Curtiss Richmond Inspector General Transition",
    "label": "Foster Curtiss Richmond Inspector General Transition",
    "lines": [
     {
@@ -2354,8 +2354,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11142",
-   "header": "**N-11142** Zachariah Qureshi Detention and Release Question",
+   "id": "N-11060",
+   "header": "**N-11060** Zachariah Qureshi Detention and Release Question",
    "label": "Zachariah Qureshi Detention and Release Question",
    "lines": [
     {
@@ -2363,7 +2363,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "The host's questions about why Zachariah Qureshi was arrested and interrogated and then released, and about his father's military app."
@@ -2396,8 +2396,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10754",
-   "header": "**N-10754** Rooftop Movement Tactical Analysis",
+   "id": "N-10684",
+   "header": "**N-10684** Rooftop Movement Tactical Analysis",
    "label": "Rooftop Movement Tactical Analysis",
    "lines": [
     {
@@ -2444,8 +2444,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10755",
-   "header": "**N-10755** Weapon Discharge Visual Indicators",
+   "id": "N-10685",
+   "header": "**N-10685** Weapon Discharge Visual Indicators",
    "label": "Weapon Discharge Visual Indicators",
    "lines": [
     {
@@ -2492,8 +2492,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10756",
-   "header": "**N-10756** K9 Scent Tracking Discrepancy",
+   "id": "N-10686",
+   "header": "**N-10686** K9 Scent Tracking Discrepancy",
    "label": "K9 Scent Tracking Discrepancy",
    "lines": [
     {
@@ -2540,8 +2540,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10757",
-   "header": "**N-10757** Weapon Recovery Officer Chain and NCIS Connection",
+   "id": "N-10687",
+   "header": "**N-10687** Weapon Recovery Officer Chain and NCIS Connection",
    "label": "Weapon Recovery Officer Chain and NCIS Connection",
    "lines": [
     {
@@ -2588,8 +2588,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10758",
-   "header": "**N-10758** Secretary of the Navy Phelan Epstein Flight Connection",
+   "id": "N-10688",
+   "header": "**N-10688** Secretary of the Navy Phelan Epstein Flight Connection",
    "label": "Secretary of the Navy Phelan Epstein Flight Connection",
    "lines": [
     {
@@ -2664,7 +2664,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10754"
+     "v": "N-10684"
     },
     {
      "k": "Investigative Direction",
@@ -2704,7 +2704,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10755"
+     "v": "N-10685"
     },
     {
      "k": "Investigative Direction",
@@ -2744,7 +2744,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10755"
+     "v": "N-10685"
     },
     {
      "k": "Investigative Direction",
@@ -2784,7 +2784,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10754"
+     "v": "N-10684"
     },
     {
      "k": "Investigative Direction",
@@ -2828,7 +2828,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10758"
+     "v": "N-10688"
     },
     {
      "k": "Investigative Direction",
@@ -2872,7 +2872,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10758"
+     "v": "N-10688"
     },
     {
      "k": "Investigative Direction",
@@ -2916,7 +2916,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10758"
+     "v": "N-10688"
     },
     {
      "k": "Investigative Direction",
@@ -2960,7 +2960,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10756"
+     "v": "N-10686"
     },
     {
      "k": "Investigative Direction",
@@ -3135,7 +3135,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10754, N-10755"
+     "v": "N-10684, N-10685"
     },
     {
      "k": "Investigative Direction",
@@ -3192,7 +3192,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10752, N-10075"
+     "v": "N-10682, N-10072"
     },
     {
      "k": "Tags",
@@ -3253,7 +3253,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10752, N-10075"
+     "v": "N-10682, N-10072"
     },
     {
      "k": "Tags",
@@ -3375,7 +3375,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11139"
+     "v": "N-11057"
     },
     {
      "k": "Tags",
@@ -3436,7 +3436,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11142, N-10074"
+     "v": "N-11060, N-10071"
     },
     {
      "k": "Supports",
@@ -3501,7 +3501,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11142"
+     "v": "N-11060"
     },
     {
      "k": "Tags",
@@ -3562,7 +3562,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11142"
+     "v": "N-11060"
     },
     {
      "k": "Supports",
@@ -3627,7 +3627,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10314, N-10754"
+     "v": "N-10295, N-10684"
     },
     {
      "k": "Tags",
@@ -3688,7 +3688,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10719, N-10314"
+     "v": "N-10655, N-10295"
     },
     {
      "k": "Tags",
@@ -3749,7 +3749,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10337"
+     "v": "N-10316"
     },
     {
      "k": "Tags",
@@ -3871,7 +3871,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10754"
+     "v": "N-10684"
     },
     {
      "k": "Tags",
@@ -3932,7 +3932,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10343"
+     "v": "N-10321"
     },
     {
      "k": "Tags",
@@ -3993,7 +3993,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10343"
+     "v": "N-10321"
     },
     {
      "k": "Tags",
@@ -4054,7 +4054,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10755, N-10314"
+     "v": "N-10685, N-10295"
     },
     {
      "k": "Supports",
@@ -4119,7 +4119,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10755"
+     "v": "N-10685"
     },
     {
      "k": "Tags",
@@ -4180,7 +4180,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10337, N-10975"
+     "v": "N-10316, N-10896"
     },
     {
      "k": "Tags",
@@ -4241,7 +4241,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10337, N-10975"
+     "v": "N-10316, N-10896"
     },
     {
      "k": "Tags",
@@ -4302,7 +4302,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11054, N-10756"
+     "v": "N-10972, N-10686"
     },
     {
      "k": "Tags",
@@ -4363,7 +4363,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11054, N-10756"
+     "v": "N-10972, N-10686"
     },
     {
      "k": "Supports",
@@ -4428,7 +4428,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11019, N-10756, N-11054"
+     "v": "N-10939, N-10686, N-10972"
     },
     {
      "k": "Tags",
@@ -4489,7 +4489,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10756, N-10757"
+     "v": "N-10686, N-10687"
     },
     {
      "k": "Tags",
@@ -4550,7 +4550,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10757, N-11018"
+     "v": "N-10687, N-10938"
     },
     {
      "k": "Tags",
@@ -4611,7 +4611,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10757, N-11140"
+     "v": "N-10687, N-11058"
     },
     {
      "k": "Tags",
@@ -4672,7 +4672,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11140"
+     "v": "N-11058"
     },
     {
      "k": "Tags",
@@ -4733,7 +4733,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11141, N-11140"
+     "v": "N-11059, N-11058"
     },
     {
      "k": "Tags",
@@ -4794,7 +4794,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11141"
+     "v": "N-11059"
     },
     {
      "k": "Tags",
@@ -4855,7 +4855,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10757, N-11141"
+     "v": "N-10687, N-11059"
     },
     {
      "k": "Tags",
@@ -4916,7 +4916,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11140, N-10758"
+     "v": "N-11058, N-10688"
     },
     {
      "k": "Tags",
@@ -4977,7 +4977,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10758"
+     "v": "N-10688"
     },
     {
      "k": "Tags",
@@ -5038,7 +5038,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10758, N-10324"
+     "v": "N-10688, N-10303"
     },
     {
      "k": "Tags",
@@ -5099,7 +5099,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10758"
+     "v": "N-10688"
     },
     {
      "k": "Tags",
@@ -5160,7 +5160,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10758"
+     "v": "N-10688"
     },
     {
      "k": "Tags",
@@ -5221,7 +5221,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10524"
+     "v": "N-10481"
     },
     {
      "k": "Tags",
@@ -5282,7 +5282,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10524"
+     "v": "N-10481"
     },
     {
      "k": "Supports",
@@ -5408,7 +5408,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10434, N-10132, N-10000"
+     "v": "N-10404, N-10127, N-10000"
     },
     {
      "k": "Supports",
@@ -5534,7 +5534,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10316"
+     "v": "N-10297"
     },
     {
      "k": "Tags",
@@ -5656,7 +5656,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10229"
+     "v": "N-10216"
     },
     {
      "k": "Tags",
@@ -5717,7 +5717,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11054"
+     "v": "N-10972"
     },
     {
      "k": "Supports",
@@ -5965,7 +5965,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10061, N-10318"
+     "v": "N-10058, N-10299"
     },
     {
      "k": "Tags",
@@ -6026,7 +6026,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10082"
+     "v": "N-10079"
     },
     {
      "k": "Tags",
@@ -6577,9 +6577,9 @@
     "",
     "**Claim Range:** C-11460–C-11502",
     "",
-    "**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141..N-10145 are topic ids, not these people. Andrew Kolvet is N-14 and Jean-Luc Brunel is N-529; Mitchell Curtis, Foster Curtiss and John C. Phelan have no CKA person node.",
+    "**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10136..N-10140 are topic ids, not these people. Andrew Kolvet is N-14 and Jean-Luc Brunel is N-529; Mitchell Curtis, Foster Curtiss and John C. Phelan have no CKA person node.",
     "",
-    "**New Investigation Target Nodes Introduced:** N-10754 (Rooftop Movement Tactical Analysis), N-10755 (Weapon Discharge Visual Indicators), N-10756 (K9 Scent Tracking Discrepancy), N-10757 (Weapon Recovery Officer Chain and NCIS Connection), N-10758 (Secretary of the Navy Phelan Epstein Flight Connection)",
+    "**New Investigation Target Nodes Introduced:** N-10684 (Rooftop Movement Tactical Analysis), N-10685 (Weapon Discharge Visual Indicators), N-10686 (K9 Scent Tracking Discrepancy), N-10687 (Weapon Recovery Officer Chain and NCIS Connection), N-10688 (Secretary of the Navy Phelan Epstein Flight Connection)",
     "",
     "**Existing Nodes Reused:** Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr."
    ]

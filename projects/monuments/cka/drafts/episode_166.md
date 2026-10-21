@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq166
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-965, N-966, N-967, N-968, N-11434, N-11435, N-11436, N-11437, N-11438, N-11439, N-11440, N-11441, N-11442, N-11443, N-11444
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-11, N-15, N-18, N-40, N-41, N-69, N-95, N-190, N-224, N-266, N-330, N-489, N-591, N-897, N-955, N-957, N-960, N-961, N-10000, N-10012, N-10013, N-10062, N-10074, N-10388, N-10434, N-10533, N-10827, N-10874, N-10925, N-11313
+  - Tip-minted Nodes (catchup-2026-10-19): N-965, N-966, N-967, N-968, N-11348, N-11349, N-11350, N-11351, N-11352, N-11353, N-11354, N-11355
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-11, N-15, N-18, N-40, N-41, N-69, N-95, N-190, N-224, N-266, N-330, N-489, N-591, N-897, N-955, N-957, N-960, N-961, N-10000, N-10012, N-10013, N-10059, N-10071, N-10361, N-10404, N-10488, N-10750, N-10795, N-10846, N-11229
   - Claim Range: C-14306–C-14397
   - (see registers)
 
@@ -41,7 +41,7 @@ Video Timestamp: 00:01:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14309, N-41, N-11437*
+*Related: C-14309, N-41, N-11342*
 
 **A-3398.2** Host verbal reference to a sleuth who emailed the Taylor Dodd lead
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:14:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14342, N-965, N-11439*
+*Related: C-14342, N-965, N-11350*
 
 **A-3398.3** Host verbal request for tips on Tyler Clancy and on Cox promotions, at candaceowens.com, with a floated bounty
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:49:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14397, N-10874*
+*Related: C-14397, N-10795*
 
 ---
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:02:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14310, C-14311, C-14324, C-14325, C-14326, C-14328, N-41, N-11437*
+*Related: C-14310, C-14311, C-14324, C-14325, C-14326, C-14328, N-41, N-11342*
 
 **A-3399.2** LinkedIn photo posted by the AV company that miked Cox at the Rally Connects Trade Show in Mona
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:08:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14327, N-41, N-11437*
+*Related: C-14327, N-41, N-11342*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:03:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14313, C-14314, N-957, N-2, N-10074*
+*Related: C-14313, C-14314, N-957, N-2, N-10071*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:11:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, N-965, N-966, N-11439, N-11440, N-10013*
+*Related: C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, N-965, N-966, N-11350, N-11351, N-10013*
 
 **A-3402.2** Local news letter to the editor by a Bonners Ferry homeschool hub vice president, which the host says had "Club America" removed
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:14:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14343, C-14344, N-11439, N-10533*
+*Related: C-14343, C-14344, N-11350, N-10488*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:20:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14355, C-14356, C-14357, C-14358, N-11436, N-10827, N-10925*
+*Related: C-14355, C-14356, C-14357, C-14358, N-11349, N-10750, N-10846*
 
 **A-3403.2** Tyler Bowyer X post on Commit 100 after the vandalism
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:21:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14355, C-14360, N-11, N-11436, N-10827*
+*Related: C-14355, C-14360, N-11, N-11349, N-10750*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:22:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14308, C-14351, C-14361, N-11435, N-10925*
+*Related: C-14308, C-14351, C-14361, N-11348, N-10846*
 
 ---
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:28:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14369, C-14370, N-960, N-11434*
+*Related: C-14369, C-14370, N-960, N-11340*
 
 **A-3405.2** Clip of Katie Zacharia interviewed by Jack Posobiec on the bar exam
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:30:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, N-960, N-95, N-11434, N-11441, N-11442*
+*Related: C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, N-960, N-95, N-11340, N-11352, N-11353*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:36:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14380, N-1, N-11443*
+*Related: C-14380, N-1, N-11354*
 
 ---
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:38:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14382, C-14383, C-14384, N-5, N-968, N-11443*
+*Related: C-14382, C-14383, C-14384, N-5, N-968, N-11354*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:44:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14386, N-2, N-1, N-11444*
+*Related: C-14386, N-2, N-1, N-11355*
 
 **A-3408.2** Viewer comment (CPTNSL0) saying the bloodied bag was offered to Shawn Ryan
 
@@ -403,55 +403,55 @@ The source of the tip to ICAC in the Taylor Dodd case.
 
 *Related: C-14335*
 
-**N-10062** Orem, Utah
+**N-10059** Orem, Utah
 
 Possible location of the fire station of the captain who performed CPR.
 
 *Related: C-14394*
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Provo Airport pickup and the Provo police service channel.
 
 *Related: C-14313, C-14394*
 
-**N-10388** Missing Money from Turning Point Action
+**N-10361** Missing Money from Turning Point Action
 
 The host revisits the lead that $10 million was missing.
 
 *Related: C-14347, C-14348, C-14349, C-14362*
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 The host (transcribed "Osha") says Charlie established DOGE seven days before he died because money was missing.
 
 *Related: C-14347*
 
-**N-10533** Club America High School Pushback
+**N-10488** Club America High School Pushback
 
 The host's warning about Club America in schools, tied to the Taylor Dodd arrest.
 
 *Related: C-14332, C-14333, C-14344*
 
-**N-10827** Statue Vandalism Investigation
+**N-10750** Statue Vandalism Investigation
 
 "Statugate": vandalism of the Charlie Kirk statue at TPUSA headquarters and the fundraising that followed.
 
 *Related: C-14352, C-14353, C-14354, C-14355, C-14356, C-14357, C-14358, C-14359, C-14360, C-14363*
 
-**N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction
+**N-10795** UVU Independent Review Unnamed Fire Captain CPR Redaction
 
 The host repeats her request to identify the fire captain who performed CPR.
 
 *Related: C-14392, C-14393, C-14394, C-14395, C-14396, C-14397*
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 The 501c4 arm. The host says it is out of money and pushed Commit 100 after the vandalism.
 
 *Related: C-14308, C-14345, C-14346, C-14347, C-14350, C-14351, C-14355, C-14356, C-14361, C-14363*
 
-**N-11313** Candace Owens Leave and Baron Coleman Substitute Hosting
+**N-11229** Candace Owens Leave and Baron Coleman Substitute Hosting
 
 The host says Baron Coleman will take over the show.
 
@@ -505,79 +505,79 @@ First named by the host at 00:38:18 in episode 166. The Fort Hood shooter, a for
 
 *Related: C-14379, C-14382, C-14383, C-14384*
 
-**N-11434** Katie Zacharia Lawyer Credential Question
+**N-11340** Katie Zacharia Lawyer Credential Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Whether the new White House press secretary misrepresented herself as a lawyer and general counsel despite not passing the bar, and how credible her explanations are (Pepperdine president advice, China practice, "surprise baby").
 
 *Related: C-14306, C-14364, C-14365, C-14366, C-14367, C-14368, C-14369, C-14370, C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, C-14377, C-14378, A-3405.1, A-3405.2*
 
-**N-11435** Turning Point Action Funds Depletion Email
+**N-11348** Turning Point Action Funds Depletion Email
 
-Node Type: Topic
+Node Type: Thing
 Turning Point Action's October 2026 "we're broke" type email saying it burned through its financial resources on ballot chasing, which the host links to the missing-money lead and the statue fundraising.
 
 *Related: C-14308, C-14351, C-14361, C-14362, A-3404.1*
 
-**N-11436** Commit 100 Ballot-Chasing Program
+**N-11349** Commit 100 Ballot-Chasing Program
 
 Node Type: Topic
 Turning Point Action's program to chase 100 ballots in October, promoted via tpaction.com/100 after the statue vandalism.
 
 *Related: C-14308, C-14355, C-14356, C-14357, C-14360, A-3403.1, A-3403.2*
 
-**N-11437** Governor Cox September 9–10, 2025 Schedule
+**N-11342** Governor Cox September 9–10, 2025 Schedule
 
-Node Type: Topic
+Node Type: Investigation Question
 Governor Cox's published schedule for the week of September 8, 2025, whose entries the host says were mis-dated September 2 and 3 instead of September 9 and 10. It covers the Tyler Clancy meeting, the Rally Connects keynote in Mona, the Murray Park picnic and the reported golf with Val Peterson.
 
 *Related: C-14309, C-14310, C-14311, C-14324, C-14325, C-14326, C-14327, C-14328, C-14329, C-14330, A-3398.1, A-3399.1, A-3399.2*
 
-**N-11438** Tyler Clancy Bloodied Bag Disposal
+**N-11339** Tyler Clancy Bloodied Bag Disposal Allegation
 
 Node Type: Topic
 The host's report that Officer Tyler Clancy disposed of a bloodied bag on September 10, which she deduces was Frank Turek's, and the differing accounts of why.
 
 *Related: C-14315, C-14316, C-14317, C-14318, C-14319, C-14389, C-14390*
 
-**N-11439** Taylor Dodd Arrest and Club America Affiliation Scrub
+**N-11350** Taylor Dodd Arrest and Club America Affiliation Scrub
 
-Node Type: Topic
+Node Type: Event
 The arrest of former Bonners Ferry Club America chapter president Taylor Dodd on child sexually exploitative material charges, and the host's allegation that TPUSA scrubbed its affiliation online.
 
 *Related: C-14307, C-14333, C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, C-14341, C-14342, C-14343, C-14344, A-3398.2, A-3402.1, A-3402.2*
 
-**N-11440** Bonners Ferry Herald
+**N-11351** Bonners Ferry Herald
 
 Node Type: Organization
 Local Idaho newspaper whose article on the Taylor Dodd arrest the host reads.
 
 *Related: C-14334, C-14335, A-3402.1*
 
-**N-11441** Pepperdine University
+**N-11352** Pepperdine University
 
 Node Type: Organization
 Katie Zacharia's law school. She says its president advised her on how to describe herself, and her father-in-law was an adjunct professor at Pepperdine Law.
 
 *Related: C-14367, C-14371*
 
-**N-11442** Jun He Law Firm
+**N-11353** Jun He Law Firm
 
 Node Type: Organization
 Chinese law firm whose international practice division Katie Zacharia says employed her in China.
 
 *Related: C-14374, C-14375*
 
-**N-11443** Fort Hood Shooter Execution Livestream Question
+**N-11354** Fort Hood Shooter Execution Livestream Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The announced plan to livestream the execution of Nidal Malik Hasan, the debate it set off, and Trump's Truth Social reversal.
 
 *Related: C-14379, C-14380, C-14382, C-14383, C-14384, A-3406.1, A-3407.1*
 
-**N-11444** TPUSA AI Charlie and Never-Before-Seen Speeches Question
+**N-11355** TPUSA AI Charlie and Never-Before-Seen Speeches Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Whether TPUSA planned to use an AI-generated Charlie Kirk for its promised "never before seen" Charlie speeches.
 
 *Related: C-14386, C-14387, A-3408.1*
@@ -596,7 +596,7 @@ Transcript Snippet: at least she's acknowledging that no, she is not an attorney
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: Zacharia's public statements and interviews of October 2026, and the State Bar of California attorney search.
 
@@ -612,7 +612,7 @@ Transcript Snippet: a recent arrest that Turning Point USA tried to scrub any af
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10000, N-11439
+Related Nodes: N-10000, N-11350
 Tags: relevance:core
 Investigative Direction: Archived versions of the local article and TPUSA / Club America chapter pages for Bonners Ferry, Idaho.
 
@@ -628,7 +628,7 @@ Transcript Snippet: did you know that Turning Point Action is sending "Hey, we'r
 
 Anchored Artifacts: A-3404.1
 Mentions:
-Related Nodes: N-10925, N-11435, N-11436
+Related Nodes: N-10846, N-11348, N-11349
 Tags: relevance:core
 Investigative Direction: The Turning Point Action donor email itself and Turning Point Action / Turning Point PAC FEC filings for September–October 2026.
 
@@ -644,7 +644,7 @@ Transcript Snippet: one of you guys emailed the tip line and noticed that actual
 
 Anchored Artifacts: A-3398.1
 Mentions: N-41
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The governor's office's published schedule release for September 8–14, 2025.
 
@@ -660,7 +660,7 @@ Transcript Snippet: someone just entered those two dates incorrectly. It's meant
 
 Anchored Artifacts: A-3399.1
 Mentions: N-41
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The governor's office's confirmation of the dates, and the original schedule release for September 8–14, 2025.
 
@@ -676,7 +676,7 @@ Transcript Snippet: on the evening of September 9th, not on September 2nd as we 
 
 Anchored Artifacts: A-3399.1
 Mentions: N-957, N-41
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The governor's calendar and visitor log for September 9, 2025, and Clancy's own schedule.
 
@@ -708,7 +708,7 @@ Transcript Snippet: This will be info for IC, uh myself and Sergeant DePay are i
 
 Anchored Artifacts: A-3400.1
 Mentions: N-957, N-2
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:core
 Investigative Direction: Provo police radio recordings for September 10, 2025, and identification of the speaker and of "Sergeant DePay".
 
@@ -740,7 +740,7 @@ Transcript Snippet: it was Officer Tyler Clancy who at some point that same day 
 
 Anchored Artifacts:
 Mentions: N-957
-Related Nodes: N-11438, N-10000
+Related Nodes: N-11339, N-10000
 Tags: relevance:core
 Investigative Direction: Provo police evidence and property logs for September 10, 2025, and the statements of Clancy and witnesses.
 
@@ -756,7 +756,7 @@ Transcript Snippet: we induced that it was likely Frank Turek's bloodied bag sin
 
 Anchored Artifacts:
 Mentions: N-7, N-957
-Related Nodes: N-11438
+Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Turek's interview in which he describes the bag, and Clancy's account.
 
@@ -772,7 +772,7 @@ Transcript Snippet: Because, according to him, Charlie's body had been on top of
 
 Anchored Artifacts:
 Mentions: N-7, N-1
-Related Nodes: N-11438
+Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Turek's recorded interview, and the vehicle occupants' accounts of the ride to Timpanogos / Utah Valley hospital.
 
@@ -788,7 +788,7 @@ Transcript Snippet: mainly that he was not instructed to do so, but that he did 
 
 Anchored Artifacts:
 Mentions: N-957
-Related Nodes: N-11438
+Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Interviews with the people Clancy reportedly told, and any Provo police report on the item.
 
@@ -804,7 +804,7 @@ Transcript Snippet: I'm just struggling over here to believe that it's somehow p
 
 Anchored Artifacts:
 Mentions: 
-Related Nodes: N-11438
+Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Provo Police Department evidence-handling policy.
 
@@ -886,7 +886,7 @@ Transcript Snippet: if he did indeed golf with Val Peterson on the morning of th
 
 Anchored Artifacts: A-3399.1
 Mentions: N-41, N-955, N-957
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: Golf-course tee-time records for the morning of September 10, 2025, and the governor's security detail logs.
 
@@ -902,7 +902,7 @@ Transcript Snippet: He doesn't have golf with Val Peterson on it. Not on his off
 
 Anchored Artifacts: A-3399.1
 Mentions: N-41, N-955
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The published schedule for September 10, 2025.
 
@@ -918,7 +918,7 @@ Transcript Snippet: He was the keynote speaker at the Rally Connects Trade Show,
 
 Anchored Artifacts: A-3399.1
 Mentions: N-41
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The Rally Connects 2025 event program and attendee photos.
 
@@ -934,7 +934,7 @@ Transcript Snippet: We were able to find a photo of that on LinkedIn posted from
 
 Anchored Artifacts: A-3399.2
 Mentions: N-41
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The LinkedIn post and its timestamp, and the AV company's records.
 
@@ -950,7 +950,7 @@ Transcript Snippet: Um and then his next scheduled event was in Murray Park at 1
 
 Anchored Artifacts: A-3399.1
 Mentions: N-41
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: Utah DEQ records or photos of the September 10, 2025 staff picnic.
 
@@ -966,7 +966,7 @@ Transcript Snippet: if he and Val Peterson did meet up for golf, it was likely b
 
 Anchored Artifacts:
 Mentions: N-41, N-955
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: Golf-course tee sheets for early September 10, 2025, and the travel time to Mona.
 
@@ -982,7 +982,7 @@ Transcript Snippet: my sources on this, that Val Peterson was with the governor 
 
 Anchored Artifacts:
 Mentions: N-955, N-41
-Related Nodes: N-11437
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The governor's office response to the host's inquiry, and records of Val Peterson's whereabouts on September 10, 2025.
 
@@ -1014,7 +1014,7 @@ Transcript Snippet: I know for a fact that there are sexual deviants, plus pasto
 
 Anchored Artifacts:
 Mentions: N-2, N-3
-Related Nodes: N-10000, N-10533
+Related Nodes: N-10000, N-10488
 Tags: relevance:core
 Investigative Direction: Background checks and court records for TPUSA and TPUSA Faith staff.
 
@@ -1030,7 +1030,7 @@ Transcript Snippet: he's the now former president of Club America in um Bonners 
 
 Anchored Artifacts:
 Mentions: N-965, N-1
-Related Nodes: N-11439, N-10533
+Related Nodes: N-11350, N-10488
 Tags: relevance:context
 Investigative Direction: Local coverage or video of the Bonners Ferry Charlie Kirk vigil, and Club America chapter listings.
 
@@ -1046,7 +1046,7 @@ Transcript Snippet: He was arrested for child pornography. Here is the headline 
 
 Anchored Artifacts: A-3402.1
 Mentions: N-965
-Related Nodes: N-11439, N-11440
+Related Nodes: N-11350, N-11351
 Tags: relevance:context
 Investigative Direction: The Bonners Ferry Herald article and the Boundary County court docket.
 
@@ -1062,7 +1062,7 @@ Transcript Snippet: Taylor Dodd was arrested in early September on seven felony 
 
 Anchored Artifacts: A-3402.1
 Mentions: N-965
-Related Nodes: N-11439, N-11440, N-10013
+Related Nodes: N-11350, N-11351, N-10013
 Tags: relevance:context
 Investigative Direction: The charging documents and the Idaho ICAC case referral.
 
@@ -1078,7 +1078,7 @@ Transcript Snippet: The images were downloaded in early April, according to cour
 
 Anchored Artifacts: A-3402.1
 Mentions: N-965
-Related Nodes: N-11439
+Related Nodes: N-11350
 Tags: relevance:context
 Investigative Direction: The court documents in the Dodd case.
 
@@ -1094,7 +1094,7 @@ Transcript Snippet: Documents contend that other apps were also used, such as Te
 
 Anchored Artifacts: A-3402.1
 Mentions: N-965
-Related Nodes: N-11439
+Related Nodes: N-11350
 Tags: relevance:tangential
 Investigative Direction: The court documents in the Dodd case.
 
@@ -1110,7 +1110,7 @@ Transcript Snippet: In his report, Officer Brandon Blackmore said that 116 image
 
 Anchored Artifacts: A-3402.1
 Mentions: N-966, N-965
-Related Nodes: N-11439
+Related Nodes: N-11350
 Tags: relevance:context
 Investigative Direction: The officer's probable-cause affidavit.
 
@@ -1126,7 +1126,7 @@ Transcript Snippet: Documents indicate that the ages allegedly ranged from 3 to 
 
 Anchored Artifacts: A-3402.1
 Mentions: N-965
-Related Nodes: N-11439
+Related Nodes: N-11350
 Tags: relevance:context
 Investigative Direction: The court documents in the Dodd case.
 
@@ -1142,7 +1142,7 @@ Transcript Snippet: according to court documents, he confessed that he purchased
 
 Anchored Artifacts: A-3402.1
 Mentions: N-965
-Related Nodes: N-11439
+Related Nodes: N-11350
 Tags: relevance:context
 Investigative Direction: The case file and the plea record.
 
@@ -1158,7 +1158,7 @@ Transcript Snippet: they tried to scrub their affiliation from the internet. So,
 
 Anchored Artifacts:
 Mentions: N-965
-Related Nodes: N-10000, N-11439
+Related Nodes: N-10000, N-11350
 Tags: relevance:core
 Investigative Direction: Wayback Machine captures of Club America / TPUSA chapter pages naming Dodd.
 
@@ -1174,7 +1174,7 @@ Transcript Snippet: Thank you, by the way, to the sleuth that emailed us the lea
 
 Anchored Artifacts: A-3398.2
 Mentions: N-965
-Related Nodes: N-11439, N-10000
+Related Nodes: N-11350, N-10000
 Tags: relevance:core
 Investigative Direction: The tip email and its source material.
 
@@ -1190,7 +1190,7 @@ Transcript Snippet: they got a friend to go back and just scrub the words Club A
 
 Anchored Artifacts: A-3402.2
 Mentions:
-Related Nodes: N-11439, N-10000
+Related Nodes: N-11350, N-10000
 Tags: relevance:core
 Investigative Direction: Archived versions of the letter to the editor, and the newspaper's edit log.
 
@@ -1206,7 +1206,7 @@ Transcript Snippet: Hello there, my name is Cora Nichols and I'm the vice presid
 
 Anchored Artifacts: A-3402.2
 Mentions:
-Related Nodes: N-11439, N-10533
+Related Nodes: N-11350, N-10488
 Tags: relevance:context
 Investigative Direction: Archived versions of the letter to the editor.
 
@@ -1222,7 +1222,7 @@ Transcript Snippet: Turning Point Action is run by a sexual deviant, Tyler Bowye
 
 Anchored Artifacts:
 Mentions: N-11
-Related Nodes: N-10925
+Related Nodes: N-10846
 Tags: relevance:core
 Investigative Direction: The basis for the host's allegation, and court or police records if any exist.
 
@@ -1238,7 +1238,7 @@ Transcript Snippet: Charlie wanted to fire uh Tyler Bowyer before he passed. Tha
 
 Anchored Artifacts:
 Mentions: N-1, N-11, N-190
-Related Nodes: N-10925
+Related Nodes: N-10846
 Supports: C-13634
 Tags: relevance:core
 Investigative Direction: The donors McCoy reportedly told, and Charlie Kirk's September 2025 personnel emails.
@@ -1255,7 +1255,7 @@ Transcript Snippet: the reason that Charlie had established Osha, as I've said t
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10434, N-10388, N-10925
+Related Nodes: N-10404, N-10361, N-10846
 Supports: C-9202
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's September 2, 2025 email on the DOGE audit, and Turning Point Action's audited financials.
@@ -1272,7 +1272,7 @@ Transcript Snippet: was that $10 million was missing. And Charlie wanted to know
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10388
+Related Nodes: N-10361
 Supports: C-9202, C-9228
 Tags: relevance:core
 Investigative Direction: Turning Point Action Form 990 and audit reports for 2024–2025.
@@ -1289,7 +1289,7 @@ Transcript Snippet: when I approached Justin Streiff about this this lead, he ca
 
 Anchored Artifacts:
 Mentions: N-15
-Related Nodes: N-10388
+Related Nodes: N-10361
 Tags: relevance:core
 Investigative Direction: Streiff's response to the host on the record, and Turning Point Action's financial statements.
 
@@ -1305,7 +1305,7 @@ Transcript Snippet: Lori Frantzve and Tyler Bowyer work together. They have know
 
 Anchored Artifacts:
 Mentions: N-489, N-11, N-2, N-1
-Related Nodes: N-10925
+Related Nodes: N-10846
 Tags: relevance:core
 Investigative Direction: Business filings and organizational records linking Lori Frantzve and Tyler Bowyer.
 
@@ -1321,7 +1321,7 @@ Transcript Snippet: At the very least we can establish that they're out of money
 
 Anchored Artifacts: A-3404.1
 Mentions:
-Related Nodes: N-10925, N-11435
+Related Nodes: N-10846, N-11348
 Tags: relevance:core
 Investigative Direction: FEC and IRS filings for Turning Point Action and its PAC, covering September 2026.
 
@@ -1337,7 +1337,7 @@ Transcript Snippet: Back in September, uh you might recall was actually Tyler Bo
 
 Anchored Artifacts:
 Mentions: N-11, N-1
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: TPUSA posts and video of the statue unveiling.
 
@@ -1353,7 +1353,7 @@ Transcript Snippet: they said over the weekend at 1:00 a.m. in the morning the s
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10827, N-10000
+Related Nodes: N-10750, N-10000
 Supports: C-13047, C-13003
 Tags: relevance:core
 Investigative Direction: The Phoenix police report on the statue vandalism.
@@ -1370,7 +1370,7 @@ Transcript Snippet: Bizarrely, they didn't want to share any of the surveillance
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10827, N-10000
+Related Nodes: N-10750, N-10000
 Tags: relevance:core
 Investigative Direction: TPUSA headquarters security footage, and police requests for it.
 
@@ -1386,7 +1386,7 @@ Transcript Snippet: Except the one thing that they did want to share immediately
 
 Anchored Artifacts: A-3403.1, A-3403.2
 Mentions:
-Related Nodes: N-10827, N-10925, N-11436
+Related Nodes: N-10750, N-10846, N-11349
 Tags: relevance:core
 Investigative Direction: TPUSA and Turning Point Action social posts in the 72 hours after the vandalism.
 
@@ -1402,7 +1402,7 @@ Transcript Snippet: Turning Point USA's response was to direct people not to the
 
 Anchored Artifacts: A-3403.1
 Mentions: N-11
-Related Nodes: N-10000, N-10925, N-11436, N-10827
+Related Nodes: N-10000, N-10846, N-11349, N-10750
 Tags: relevance:core
 Investigative Direction: The donation links in TPUSA's posts after the vandalism.
 
@@ -1418,7 +1418,7 @@ Transcript Snippet: After this news broke, uh the Commit 100 program that we've 
 
 Anchored Artifacts: A-3403.1
 Mentions:
-Related Nodes: N-11436, N-10827
+Related Nodes: N-11349, N-10750
 Supports: C-13052
 Tags: relevance:core
 Investigative Direction: The source broadcast of the clip, and Commit 100 sign-up numbers.
@@ -1435,7 +1435,7 @@ Transcript Snippet: we even have some friends of Charlie and Erika that have put
 
 Anchored Artifacts: A-3403.1
 Mentions: N-1, N-2
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The reward announcement, and police tip records.
 
@@ -1451,7 +1451,7 @@ Transcript Snippet: Update, the vandals who did this the tips apparently did not
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The Phoenix police case status on the statue vandalism.
 
@@ -1467,7 +1467,7 @@ Transcript Snippet: After what the left did to our headquarters today, we have a
 
 Anchored Artifacts: A-3403.2
 Mentions: N-11
-Related Nodes: N-11436, N-10827
+Related Nodes: N-11349, N-10750
 Supports: C-13053
 Tags: relevance:core
 Investigative Direction: Bowyer's X post archive.
@@ -1484,7 +1484,7 @@ Transcript Snippet: And because of that success we've burned through our financi
 
 Anchored Artifacts: A-3404.1
 Mentions:
-Related Nodes: N-10925, N-11435
+Related Nodes: N-10846, N-11348
 Tags: relevance:core
 Investigative Direction: The original email, and Turning Point Action's cash-on-hand filings.
 
@@ -1500,7 +1500,7 @@ Transcript Snippet: which I will again say Justin Streiff disputes, but people u
 
 Anchored Artifacts:
 Mentions: N-15
-Related Nodes: N-10388, N-10000, N-11435
+Related Nodes: N-10361, N-10000, N-11348
 Tags: relevance:core
 Investigative Direction: Interviews with TPUSA staff, and Turning Point Action financial statements.
 
@@ -1516,7 +1516,7 @@ Transcript Snippet: my instincts about the statue is that we're not being told t
 
 Anchored Artifacts:
 Mentions: N-897
-Related Nodes: N-10827, N-10925
+Related Nodes: N-10750, N-10846
 Tags: relevance:core
 Investigative Direction: The police vandalism report, the surveillance footage, and donation inflows after the incident.
 
@@ -1532,7 +1532,7 @@ Transcript Snippet: It's not It's not a requirement to be the press secretary. W
 
 Anchored Artifacts:
 Mentions: N-967, N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:tangential
 Investigative Direction: White House staff records. Scaramucci was White House Communications Director in 2017, not press secretary.
 
@@ -1548,7 +1548,7 @@ Transcript Snippet: But Karine Jean-Pierre, she's now come clean. She has come c
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: Zacharia's statements to Fox News, CBS News and Jack Posobiec in October 2026.
 
@@ -1564,7 +1564,7 @@ Transcript Snippet: Wall Street Journal broke the news that she did not pass the
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: The Wall Street Journal report, and California State Bar records.
 
@@ -1580,7 +1580,7 @@ Transcript Snippet: she had consulted with Pepperdine's president as to how to i
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11434, N-11441
+Related Nodes: N-11340, N-11352
 Tags: relevance:context
 Investigative Direction: Pepperdine University comment, and Zacharia's full statement.
 
@@ -1596,7 +1596,7 @@ Transcript Snippet: on her LinkedIn, she has herself listed as a general counsel
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: Archived captures of Zacharia's LinkedIn profile.
 
@@ -1612,7 +1612,7 @@ Transcript Snippet: especially as a as a lawyer and a former corporate lawyer in
 
 Anchored Artifacts: A-3405.1
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: The source broadcasts of each supercut clip.
 
@@ -1628,7 +1628,7 @@ Transcript Snippet: And and I mean, I am a lawyer and I'm a rigorous researcher,
 
 Anchored Artifacts: A-3405.1
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: The source broadcasts of the supercut clips.
 
@@ -1644,7 +1644,7 @@ Transcript Snippet: His dad was an adjunct professor at Pepperdine Law, and he "
 
 Anchored Artifacts: A-3405.2
 Mentions: N-960, N-95
-Related Nodes: N-11434, N-11441
+Related Nodes: N-11340, N-11352
 Tags: relevance:tangential
 Investigative Direction: Pepperdine Law faculty records.
 
@@ -1660,7 +1660,7 @@ Transcript Snippet: I had already pre-registered to take the bar, and I didn't w
 
 Anchored Artifacts: A-3405.2
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: California State Bar exam records for 2011.
 
@@ -1676,7 +1676,7 @@ Transcript Snippet: The results are somewhat inconsequential because I knew I wo
 
 Anchored Artifacts: A-3405.2
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: Her bar exam result record.
 
@@ -1692,7 +1692,7 @@ Transcript Snippet: I was offered a job at a in an international practice divisi
 
 Anchored Artifacts: A-3405.2
 Mentions: N-960
-Related Nodes: N-11434, N-11442
+Related Nodes: N-11340, N-11353
 Tags: relevance:context
 Investigative Direction: JunHe Law Offices employment confirmation.
 
@@ -1708,7 +1708,7 @@ Transcript Snippet: There's no Chinese bar. I had the enough credentials, which 
 
 Anchored Artifacts: A-3405.2
 Mentions: N-960
-Related Nodes: N-11434, N-11442
+Related Nodes: N-11340, N-11353
 Tags: relevance:context
 Investigative Direction: PRC rules on foreign lawyers in Chinese firms.
 
@@ -1724,7 +1724,7 @@ Transcript Snippet: Well, when we moved back, Jack, we got a surprise baby. Our 
 
 Anchored Artifacts: A-3405.2
 Mentions: N-960, N-95
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: The timeline of Zacharia's return from China.
 
@@ -1740,7 +1740,7 @@ Transcript Snippet: The bar is administered twice a year, according to just a li
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: State Bar of California exam schedule and retake rules.
 
@@ -1756,7 +1756,7 @@ Transcript Snippet: even if you have a baby, you can take you can take the bar e
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: State bar eligibility and accommodation rules.
 
@@ -1772,7 +1772,7 @@ Transcript Snippet: one of his recent tough guy things was, we are going to be e
 
 Anchored Artifacts:
 Mentions: N-591, N-968
-Related Nodes: N-11443
+Related Nodes: N-11354
 Tags: relevance:tangential
 Investigative Direction: Hegseth's statement and Department of War / Army releases on the Hasan execution.
 
@@ -1788,7 +1788,7 @@ Transcript Snippet: I would say in in America I would oppose the death penalty f
 
 Anchored Artifacts: A-3406.1
 Mentions: N-1
-Related Nodes: N-11443
+Related Nodes: N-11354
 Tags: relevance:context
 Investigative Direction: The source episode of the clip and its date.
 
@@ -1820,7 +1820,7 @@ Transcript Snippet: Trump did issue a Truth Social post where he established tha
 
 Anchored Artifacts: A-3407.1
 Mentions: N-5, N-968
-Related Nodes: N-11443
+Related Nodes: N-11354
 Tags: relevance:tangential
 Investigative Direction: Trump's Truth Social post of October 2026.
 
@@ -1836,7 +1836,7 @@ Transcript Snippet: He said he was scum, uh but there are well-meaning people wh
 
 Anchored Artifacts: A-3407.1
 Mentions: N-5, N-968, N-18
-Related Nodes: N-11443
+Related Nodes: N-11354
 Tags: relevance:tangential
 Investigative Direction: The text of the Truth Social post, and Andrew Wilson's public comments.
 
@@ -1852,7 +1852,7 @@ Transcript Snippet: Donald Trump said that the execution can be viewed by people
 
 Anchored Artifacts: A-3407.1
 Mentions: N-5, N-968
-Related Nodes: N-11443
+Related Nodes: N-11354
 Tags: relevance:tangential
 Investigative Direction: The text of the Truth Social post.
 
@@ -1868,7 +1868,7 @@ Transcript Snippet: I selected Baron Coleman to take over the show because he ha
 
 Anchored Artifacts:
 Mentions: N-330, N-3
-Related Nodes: N-11313
+Related Nodes: N-11229
 Tags: relevance:context
 Investigative Direction: Episodes hosted by Baron Coleman during the host's leave.
 
@@ -1884,7 +1884,7 @@ Transcript Snippet: It's so interesting that we haven't seen any of the never be
 
 Anchored Artifacts: A-3408.1
 Mentions: N-2, N-1
-Related Nodes: N-11444
+Related Nodes: N-11355
 Tags: relevance:core
 Investigative Direction: TPUSA announcements promising unreleased Charlie Kirk material, and what was released.
 
@@ -1900,7 +1900,7 @@ Transcript Snippet: I do think they were going to employ AI Charlie. It was weir
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-11444, N-10000
+Related Nodes: N-11355, N-10000
 Tags: relevance:core
 Investigative Direction: TPUSA vendor contracts for AI voice or likeness services, and the people in those meetings.
 
@@ -1933,7 +1933,7 @@ Transcript Snippet: No, that's Brian Harpole's bag. It's totally different and a
 
 Anchored Artifacts:
 Mentions: N-266, N-957, N-7
-Related Nodes: N-11438
+Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Accounts from Harpole, Turek and Clancy of each bag's chain of custody.
 
@@ -1949,7 +1949,7 @@ Transcript Snippet: So, if you know if you have any information pertaining to Ty
 
 Anchored Artifacts: A-3398.3
 Mentions: N-957
-Related Nodes: N-11438
+Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Clancy's response to the host's request for comment.
 
@@ -1981,7 +1981,7 @@ Transcript Snippet: please email us more tips at candaceowens.com and we still s
 
 Anchored Artifacts: A-3398.3
 Mentions: N-3
-Related Nodes: N-10874
+Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: The tip inbox, and any formal bounty announcement.
 
@@ -1997,7 +1997,7 @@ Transcript Snippet: information pertaining to who the fire captain was who perfo
 
 Anchored Artifacts: A-3398.3
 Mentions: N-1
-Related Nodes: N-10874
+Related Nodes: N-10795
 Supports: C-13858
 Tags: relevance:core
 Investigative Direction: The UVU Independent Review, and Orem / Provo Fire Department rosters and run reports for September 10, 2025.
@@ -2014,7 +2014,7 @@ Transcript Snippet: We uh learned from the reports that they were from fire stat
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10874, N-10062, N-10074
+Related Nodes: N-10795, N-10059, N-10071
 Tags: relevance:core
 Investigative Direction: Orem Fire Station 2 and Provo Fire Station 2 shift records for September 10, 2025.
 
@@ -2030,7 +2030,7 @@ Transcript Snippet: neither Frank Turek in his many iterations of what happened,
 
 Anchored Artifacts:
 Mentions: N-7, N-266
-Related Nodes: N-10874
+Related Nodes: N-10795
 Supports: C-13853
 Tags: relevance:core
 Investigative Direction: Turek's and Harpole's interview transcripts.
@@ -2047,7 +2047,7 @@ Transcript Snippet: I am told that this information is intentionally being hushe
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10874
+Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: Redactions in the UVU Independent Review, and a public-records request for the fire department's run report.
 
@@ -2063,7 +2063,7 @@ Transcript Snippet: So, please email us if you know more more tips at candaceowe
 
 Anchored Artifacts: A-3398.4
 Mentions: N-3
-Related Nodes: N-10874
+Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: The tip inbox.
 
@@ -2371,7 +2371,7 @@ Confidence: high
 - MISTRANSCRIPTION: "Karine Jean-Pierre" -> "Katie Zacharia" (00:27:02, 00:27:35) source: https://abc30.com/story/white-house-press-secretary-katie-zacharia-says-she-did-not-pass-bar-exam/19943822/. Context (the new press secretary, Pepperdine, the bar exam) makes clear the subject is Zacharia. It is unconfirmed whether the captions erred or the host misspoke; if she misspoke, the claim prose keeps her words with [Katie Zacharia].
 - MISTRANSCRIPTION: "Tyler Bowyer" -> "Tyler Bowyer" (00:16:22, 00:17:27, 00:18:02, 00:18:32, 00:20:12, 00:21:48) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=982 (matches N-11. Existing correction rule covers only "Tyler Bowyer").
 - MISTRANSCRIPTION: "Mikey McCormick" -> "Mikey McCoy" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=982 (same proposition as C-13634, "Mikey McCoy told people Charlie wanted to fire Tyler Bowyer"). Medium confidence.
-- MISTRANSCRIPTION: "Osha" -> "DOGE" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1005 (corpus: C-3462 Sept 2 DOGE email, N-10434 Charlie Kirk DOGE Pre-Death Establishment). Medium confidence.
+- MISTRANSCRIPTION: "Osha" -> "DOGE" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1005 (corpus: C-3462 Sept 2 DOGE email, N-10404 Charlie Kirk DOGE Pre-Death Establishment). Medium confidence.
 - MISTRANSCRIPTION: "Lori Frantzve" -> "Lori Frantzve" (00:17:27, 00:18:02) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1047 (N-489, Erika Kirk's mother).
 - MISTRANSCRIPTION: "Justin's Tribe" -> "Justin Streiff" (00:18:02) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1082 (N-15).
 - MISTRANSCRIPTION: "Frank and Bank" -> "Frank Turek" (00:03:51) and "Frank Church" -> "Frank Turek" (00:05:43) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=231 (N-7). Medium confidence.

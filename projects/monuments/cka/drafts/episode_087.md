@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-942, N-11398, N-11399
-  - Hole-minted Nodes (reintro-ep087): N-10620, N-10888
-  - Tip-minted Nodes (reintro-ep087): N-11142, N-11199
+  - Tip-minted Nodes (supplement_2026-10g): N-942, N-11314, N-11315
+  - Hole-minted Nodes (reintro-ep087): N-10566, N-10809
+  - Tip-minted Nodes (reintro-ep087): N-11060, N-11115
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7758–C-7865
-  - New Nodes Introduced: N-10574, N-10575, N-10577, N-10578, N-10579, N-10580
+  - New Nodes Introduced: N-10525, N-10526, N-10528, N-10529, N-10530, N-10531
   - Hole-minted Nodes (wave3): N-411, N-412, N-413, N-414, N-415, N-416, N-417
-  - Reused Nodes Appearing: N-410, N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-209, N-261, N-330, N-361, N-707, N-710, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
+  - Reused Nodes Appearing: N-410, N-10148, N-28, N-10520, N-10527, N-10532, N-6, N-14, N-42, N-54, N-61, N-128, N-209, N-261, N-330, N-361, N-707, N-710, N-10000, N-10007, N-10012, N-10014, N-10032, N-10045, N-10062, N-10071, N-10073, N-10075, N-10079, N-10088, N-10102, N-10106, N-10139, N-10161, N-10176, N-10194, N-10166, N-10226, N-10239, N-10305, N-10316, N-10320, N-10324, N-10325, N-10331, N-10332, N-10342, N-10356, N-10415, N-10425, N-10458, N-10490, N-10494, N-10498, N-10505, N-10523, N-10524, N-10613, N-10896, N-11046, N-11124, N-11241
   - (see registers)
 
 ---
@@ -47,7 +47,7 @@
 
 - Artifact Families Introduced: A-1917, A-1918, A-1919, A-1920, A-1921, A-1922, A-1923, A-1924, A-1925, A-1926
 - New People Nodes Introduced: none (Wave 2: local ids removed)
-- New Investigation Target Nodes Introduced: N-10574, N-10575, N-10576, N-10577, N-10578, N-10579, N-10580, N-10581
+- New Investigation Target Nodes Introduced: N-10525, N-10526, N-10527, N-10528, N-10529, N-10530, N-10531, N-10532
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -76,7 +76,7 @@ Confidence Level: Medium
 
 *Display excerpt:* "this article in the New York Times back in 2012 says a friendship dating to to 1976 resonates in 2012, and that is about, and it goes in, and you should read it, about their remarkable friendship."
 
-*Related: C-7766, N-10574*
+*Related: C-7766, N-10525*
 
 ---
 
@@ -92,7 +92,7 @@ Confidence Level: High
 
 *Quoted text:* "The subject for the horrific shooting today that took the life of Charlie Kirk is now in custody. Thank you to the local and state authorities in Utah for your partnership with the FBI. We will provide updates when able."
 
-*Related: C-7779, C-7781, N-10578*
+*Related: C-7779, C-7781, N-10529*
 
 **A-1918.2** Kash Patel X Post: Subject Released After Interrogation (5:59 PM)
 
@@ -104,7 +104,7 @@ Confidence Level: High
 
 *Quoted text:* "The subject in custody has been released after an interrogation by law enforcement. Our investigation continues, and we will continue to release information in interest of transparency."
 
-*Related: C-7779, C-7781, N-10578*
+*Related: C-7779, C-7781, N-10529*
 
 ---
 
@@ -120,7 +120,7 @@ Confidence Level: Medium
 
 *Display details read aloud:* "president and COO of BILT Incorporated, which is based in Dallas-Fort Worth, Texas... he is the commanding officer, the headquarters of the East Coast... a captain... May 2024 to present... co-founded Built back in 2015 when he was full-time as an O5."
 
-*Related: C-7772, C-7783, C-7794, N-10577*
+*Related: C-7772, C-7783, C-7794, N-10528*
 
 ---
 
@@ -136,7 +136,7 @@ Confidence Level: Medium
 
 *Data points read aloud:* "first little contract is a $50,000 contract way back in 2019... 3.1 million... $185,000, we've got 49,000... 4.9, 2.4... June 1 and June 16 of 2025... 7.4 million from the Air Force and just under a quarter million from the Navy."
 
-*Related: C-7794, C-7793, N-10577*
+*Related: C-7794, C-7793, N-10528*
 
 **A-1920.2** Baron Coleman Audio Clip – Built Inc. Contract Analysis
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:12:44–00:15:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7794, C-7793, N-10577*
+*Related: C-7794, C-7793, N-10528*
 
 ---
 
@@ -162,7 +162,7 @@ Confidence Level: Medium
 
 *Display details read aloud:* "vice president of their user experience... Gina Romney also went to BYU."
 
-*Related: C-7797, N-10574*
+*Related: C-7797, N-10525*
 
 ---
 
@@ -178,7 +178,7 @@ Confidence Level: High
 
 *Quoted excerpts:* "The science which is known as comparative bullet lead analysis was first used after President John F. Kennedy's assassination in 1963... In 2004... the National Academy of Sciences concluded that variations in the manufacturing process rendered the FBI's testimony about the science unreliable and potentially misleading... A year later... the bureau abandoned the analysis."
 
-*Related: C-7830, C-7831, N-10569*
+*Related: C-7830, C-7831, N-10520*
 
 ---
 
@@ -272,7 +272,7 @@ Confidence Level: Medium
 
 *Quoted text:* "Dr. Steven Jones, a physicist at BYU, published a study in 2009 proving advanced thermite-based explosives in abundance in the dust from ground zero on 9/11."
 
-*Related: C-7795, N-10575*
+*Related: C-7795, N-10526*
 
 **A-1926.4** Seven Sheets Comment – Praise for Investigative Team
 
@@ -297,7 +297,7 @@ Video Timestamp: 00:10:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7784, N-10577*
+*Related: C-7784, N-10528*
 
 ---
 
@@ -310,7 +310,7 @@ Video Timestamp: 00:19:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7796, C-7799, C-7800, C-7801, N-10577*
+*Related: C-7796, C-7799, C-7800, C-7801, N-10528*
 
 ---
 
@@ -468,7 +468,7 @@ First named by the host at 00:27:39 in episode 87.
 
 
 
-**N-10574** Romney–Netanyahu–Utah Connection Network
+**N-10525** Romney–Netanyahu–Utah Connection Network
 
 Persistent investigative target across multiple episodes. Anchored by 1976 Boston Consulting Group friendship and BYU/Jerusalem pipeline claims.
 
@@ -479,7 +479,7 @@ Investigative Pressure: High
 
 *Related: A-1917.1, A-1921.1, A-1924.2, C-7766, C-7797, C-7826*
 
-**N-10575** BYU Jerusalem CIA Recruitment Question
+**N-10526** BYU Jerusalem CIA Recruitment Question
 
 Host asserts (without on-screen artifact) that BYU Jerusalem Center is a CIA recruitment location for elite Mormon youth.
 
@@ -490,7 +490,7 @@ Investigative Pressure: Medium
 
 *Related: A-1926.3, C-7810*
 
-**N-10576** Timpanogos Hospital Records / Chain of Custody
+**N-10527** Timpanogos Hospital Records / Chain of Custody
 
 Persistent target: FBI seized hospital footage on 2025-09-10; Connor Henderson alleged to have worked as ER scribe at the same facility; Andrew Zenger appointed CEO days before the event.
 
@@ -501,7 +501,7 @@ Investigative Pressure: High
 
 *Related: C-7798, C-7795, C-7806*
 
-**N-10569** Comparative Bullet Lead Analysis Revival
+**N-10520** Comparative Bullet Lead Analysis Revival
 
 FBI technique used post-JFK 1963, abandoned 2005 after 2004 NAS finding. Host alleges FBI is reviving CBLA to connect Tyler Robinson's weapon to crime scene bullet.
 
@@ -512,7 +512,7 @@ Investigative Pressure: High
 
 *Related: A-1922.1, C-7830, C-7831*
 
-**N-10577** Built Inc. Federal Contracting Pattern
+**N-10528** Built Inc. Federal Contracting Pattern
 
 Defense contractor receiving anomalous $7.4M Air Force + ~$240K Navy contracts in June 2025 after years of small contracts; co-founded by Ahmed Qureshi and Nathan Henderson.
 
@@ -523,7 +523,7 @@ Investigative Pressure: High
 
 *Related: A-1919.1, A-1920.1, A-1920.2, C-7794, C-7793*
 
-**N-10578** Decoy Subject Investigation (Qureshi/Qureshi)
+**N-10529** Decoy Subject Investigation (Qureshi/Qureshi)
 
 Pattern of false/early "got the guy" announcements and pre-event detention of subjects around September 10. Includes George Zinn and Zachariah Qureshi.
 
@@ -534,7 +534,7 @@ Investigative Pressure: High
 
 *Related: A-1918.1, A-1918.2, C-7781*
 
-**N-10579** Robbie Hild–Romney Family Tie Verification
+**N-10530** Robbie Hild–Romney Family Tie Verification
 
 Host cannot relocate source document connecting Hild family to Romney family; requests viewer email tips.
 
@@ -545,7 +545,7 @@ Investigative Pressure: Medium
 
 *Related: A-1924.2, C-7826*
 
-**N-10580** Andrew Zenger CIA Contract Work Question
+**N-10531** Andrew Zenger CIA Contract Work Question
 
 Open question whether Andrew Zenger has been/was recruited to or contracts with CIA, given Jerusalem-era roommate pattern.
 
@@ -556,7 +556,7 @@ Investigative Pressure: Medium
 
 *Related: C-7815, C-7817*
 
-**N-10581** Tyler Robinson Defense – Chain of Custody / Documents
+**N-10532** Tyler Robinson Defense – Chain of Custody / Documents
 
 Persistent target across series; host urges Robinson defense to demand full document disclosure including 600,000 documents.
 
@@ -783,7 +783,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10048** Charlie Kirk Assassination Investigation
+**N-10045** Charlie Kirk Assassination Investigation
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -792,7 +792,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10065** Caldera Engineering
+**N-10062** Caldera Engineering
 
 Node Type: Organization
 Existing node reused for new claims in this episode.
@@ -801,7 +801,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Node Type: Place
 Existing node reused for new claims in this episode.
@@ -810,7 +810,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10076** Cameragate Investigation
+**N-10073** Cameragate Investigation
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -819,7 +819,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10078** TPUSA Financial Apparatus Investigation
+**N-10075** TPUSA Financial Apparatus Investigation
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -828,7 +828,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10082** CIA
+**N-10079** CIA
 
 Node Type: Organization
 Existing node reused for new claims in this episode.
@@ -837,7 +837,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10092** Brigham Young University
+**N-10088** Brigham Young University
 
 Node Type: Organization
 Existing node reused for new claims in this episode.
@@ -846,7 +846,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10106** Moral Blackmail by Donors
+**N-10102** Moral Blackmail by Donors
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -855,7 +855,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -864,43 +864,43 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10144** Phil Lyman Proximity and Behavior Investigation
+**N-10139** Phil Lyman Proximity and Behavior Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7818, C-7819, C-7821, C-7822*
 
 ---
 
-**N-10153** "Robbie Hild" Identity Verification
+**N-10148** "Robbie Hild" Identity Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7818, C-7822, C-7825, C-7827, C-7838*
 
 ---
 
-**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
+**N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7820*
 
 ---
 
-**N-10184** Caldera Engineering Background Investigation
+**N-10176** Caldera Engineering Background Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7819*
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -909,25 +909,25 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10223** George Zinn Hospital Payment Claim
+**N-10166** George Zinn Hospital Payment Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7777*
 
 ---
 
-**N-10239** Timpanogos Hospital Footage Seizure Verification
+**N-10226** Timpanogos Hospital Footage Seizure Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7768*
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -936,16 +936,16 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7782*
 
 ---
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -954,25 +954,25 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7758, C-7760, C-7761*
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7848, C-7849, C-7850*
 
 ---
 
-**N-10347** Egyptian Planes Israel Flight Pattern
+**N-10325** Egyptian Planes Israel Flight Pattern
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -981,16 +981,16 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10354** George Zinn Self-Incriminating Hospital Statement
+**N-10331** George Zinn Self-Incriminating Hospital Statement
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7777*
 
 ---
 
-**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -999,7 +999,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1008,16 +1008,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10370** Fort Huachuca Morning Meeting Investigation
-
-Node Type: Topic
-Existing node reused for new claims in this episode.
-
-*Related: C-7782, C-7785*
-
----
-
-**N-10383** Farnsworth Family Political-Military Network
+**N-10356** Farnsworth Family Political-Military Network
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1026,16 +1017,16 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7758, C-7759, C-7760, C-7864*
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1044,25 +1035,25 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10495** BB Netanyahu Hamptons Dinner Allegation
+**N-10458** BB Netanyahu Hamptons Dinner Allegation
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7759*
 
 ---
 
-**N-10535** 9/10 Behind Charlie Video Analysis
+**N-10490** 9/10 Behind Charlie Video Analysis
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7849*
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1071,7 +1062,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10543** Charlie Kirk Legacy Control Dispute
+**N-10498** Charlie Kirk Legacy Control Dispute
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1080,7 +1071,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10551** Joe Kent Leak Accusation Chain
+**N-10505** Joe Kent Leak Accusation Chain
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1089,25 +1080,25 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10572** ATF Bullet-to-Gun Inconclusive Finding
+**N-10523** ATF Bullet-to-Gun Inconclusive Finding
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7834*
 
 ---
 
-**N-10573** Timpanogos Hospital Evidence Question
+**N-10524** Timpanogos Hospital Evidence Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7767, C-7769, C-7770, C-7773*
 
 ---
 
-**N-10620** ATF Bullet Comparison Methodology
+**N-10566** ATF Bullet Comparison Methodology
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1116,16 +1107,16 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10674** June 18 White House Meeting on Iran Involvement
+**N-10613** June 18 White House Meeting on Iran Involvement
 
-Node Type: Topic
+Node Type: Event
 Existing node reused for new claims in this episode.
 
 *Related: C-7840*
 
 ---
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Node Type: Organization
 Existing node reused for new claims in this episode.
@@ -1134,7 +1125,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Node Type: Organization
 Existing node reused for new claims in this episode.
@@ -1143,7 +1134,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11128** US and Israel Iran War Betrayal Thesis
+**N-11046** US and Israel Iran War Betrayal Thesis
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1152,34 +1143,34 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11142** Zachariah Qureshi Detention and Release Question
+**N-11060** Zachariah Qureshi Detention and Release Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7774*
 
 ---
 
-**N-11199** Library 911 Calls and Lockdown
+**N-11115** Library 911 Calls and Lockdown
 
-Node Type: Topic
+Node Type: Event
 Existing node reused for new claims in this episode.
 
 *Related: C-7773*
 
 ---
 
-**N-11208** Timpanogos Hospital Group Arrival Question
+**N-11124** Timpanogos Hospital Group Arrival Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7767*
 
 ---
 
-**N-11325** Utah Valley Hospital
+**N-11241** Utah Valley Hospital
 
 Node Type: Organization
 Existing node reused for new claims in this episode.
@@ -1196,18 +1187,18 @@ First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbi
 
 ---
 
-**N-11398** Utah Mormon Colony Family Ties Inquiry
+**N-11314** Utah Mormon Colony Family Ties Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's examination of marriage and migration ties among the Romney, Farnsworth, Robinson and Hild families, including the Mormon colonies in Chihuahua, Mexico.
 
 *Related: C-7804, C-7837, C-7838, C-7839*
 
 ---
 
-**N-11399** 2012 RNC Convention Rule Changes
+**N-11315** 2012 RNC Convention Rule Changes
 
-Node Type: Topic
+Node Type: Event
 The host reads that the RNC altered 2012 convention rules to bind delegates and refused to recognize Ron Paul's Maine delegates.
 
 *Related: C-7854, C-7855*
@@ -1225,7 +1216,7 @@ Claim: Per the 2012 New York Times article the host shows, a friendship between 
 Anchored Artifacts: A-1917.1
 Mentions: N-28, N-36
 
-Related Nodes: N-10574
+Related Nodes: N-10525
 
 Investigative Direction: Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records.
 
@@ -1240,7 +1231,7 @@ Claim: Per the X post the host shows, Kash Patel wrote that the subject for the 
 Anchored Artifacts: A-1918.1
 Mentions: N-1, N-69, N-410
 
-Related Nodes: N-10578
+Related Nodes: N-10529
 
 Investigative Direction: Verify the tweet's exact timestamp and confirm the subject's identity against law enforcement records.
 
@@ -1255,7 +1246,7 @@ Claim: Per the X post the host shows, Kash Patel wrote that the subject in custo
 Anchored Artifacts: A-1918.2
 Mentions: N-69, N-410
 
-Related Nodes: N-10578
+Related Nodes: N-10529
 
 Investigative Direction: Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of "Zachariah Qureshi."
 
@@ -1270,7 +1261,7 @@ Claim: The young man detained and released after interrogation is referred to as
 Anchored Artifacts: A-1918.1, A-1918.2
 Mentions: N-410, N-411
 
-Related Nodes: N-10578
+Related Nodes: N-10529
 
 Investigative Direction: Confirm spelling of "Qureshi" vs. "Qureshi" against official detention records; the name discrepancy requires resolution.
 
@@ -1285,7 +1276,7 @@ Claim: Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is Preside
 Anchored Artifacts: A-1919.1
 Mentions: N-411
 
-Related Nodes: N-10577
+Related Nodes: N-10528
 
 Investigative Direction: Verify current rank and command assignment via official military biography.
 
@@ -1300,7 +1291,7 @@ Claim: The host says BILT Incorporated was co-founded by Ahmed Qureshi (an O5 at
 Anchored Artifacts: A-1919.1, A-1920.1
 Mentions: N-411, N-412
 
-Related Nodes: N-10577
+Related Nodes: N-10528
 
 Investigative Direction: Cross-check corporate registration records (Secretary of State filings in Texas) for BILT Incorporated founders and incorporation date.
 
@@ -1315,7 +1306,7 @@ Claim: The host says USA Spending records show BILT Incorporated received approx
 Anchored Artifacts: A-1920.1, A-1920.2
 Mentions: 
 
-Related Nodes: N-10577
+Related Nodes: N-10528
 
 Investigative Direction: Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline.
 
@@ -1330,7 +1321,7 @@ Claim: Per Gina Romney Henderson's LinkedIn profile, which the host shows, she i
 Anchored Artifacts: A-1921.1
 Mentions: N-413
 
-Related Nodes: N-10574
+Related Nodes: N-10525
 
 Investigative Direction: Confirm employment and BYU degree via LinkedIn and university alumni records; investigate "Romney" family-tie claim.
 
@@ -1345,7 +1336,7 @@ Claim: The host says Connor Henderson worked as an emergency room scribe at Timp
 Anchored Artifacts: (host assertion; LinkedIn described but specific URL not pinned)
 Mentions: N-1, N-414
 
-Related Nodes: N-10576
+Related Nodes: N-10527
 
 Investigative Direction: Obtain Connor Henderson's actual LinkedIn profile; verify Timpanogos HR records of scribe employment.
 
@@ -1359,7 +1350,7 @@ Claim: Per the 2007 Washington Post article the host shows, the FBI abandoned co
 
 Anchored Artifacts: A-1922.1
 
-Related Nodes: N-10569
+Related Nodes: N-10520
 
 Investigative Direction: Retrieve the 2004 NAS report and 2007 WaPo article in full; verify FBI's formal abandonment date.
 
@@ -1374,7 +1365,7 @@ Claim: The host says the FBI is bringing the previously abandoned comparative bu
 Anchored Artifacts: A-1922.1
 Mentions: N-40
 
-Related Nodes: N-10569
+Related Nodes: N-10520
 
 Investigative Direction: Obtain court filings and ATF lab reports in the Robinson case to confirm whether CBLA is being used or referenced.
 
@@ -1404,7 +1395,7 @@ Claim: The host says the Qureshi and Henderson families lived in the same house 
 Anchored Artifacts: (host assertion; no public records shown)
 Mentions: N-411, N-412, N-414, N-413
 
-Related Nodes: N-10577
+Related Nodes: N-10528
 
 Investigative Direction: Pull property records for Keller, Texas to identify ownership/residency history of both families.
 
@@ -1419,7 +1410,7 @@ Claim: The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on A
 Anchored Artifacts: (host assertion; not displayed on screen)
 Mentions: N-134
 
-Related Nodes: N-10576
+Related Nodes: N-10527
 
 Investigative Direction: Confirm via Timpanogos press releases, LinkedIn, or Utah business filings.
 
@@ -1449,7 +1440,7 @@ Claim: The host says Andrew Zenger attended BYU Jerusalem and was there during t
 Anchored Artifacts: (host assertion)
 Mentions: N-134, N-28
 
-Related Nodes: N-10575
+Related Nodes: N-10526
 
 Investigative Direction: Confirm via BYU Jerusalem Center enrollment records or alumni directory.
 
@@ -1464,7 +1455,7 @@ Claim: The host says an unnamed person told her the BYU Jerusalem Center is wher
 Anchored Artifacts: (host assertion; no artifact shown; fails admission test without displayed evidence)
 Mentions: 
 
-Related Nodes: N-10575
+Related Nodes: N-10526
 
 Investigative Direction: Obtain corroborating documentation; on-screen artifact required to elevate from claim to inscribed record.
 
@@ -1478,7 +1469,7 @@ Claim: The host says the CIA uses a company called Metro One Talent to interview
 
 Anchored Artifacts: (host assertion; no displayed evidence)
 
-Related Nodes: N-10575, N-10580
+Related Nodes: N-10526, N-10531
 
 Investigative Direction: Identify Metro One Talent corporate records and any government contract listings.
 
@@ -1493,7 +1484,7 @@ Claim: The host says Michael Shawn Covey, a roommate of Andrew Zenger from the J
 Anchored Artifacts: (host assertion; no displayed evidence)
 Mentions: N-134, N-417
 
-Related Nodes: N-10580
+Related Nodes: N-10531
 
 Investigative Direction: Verify any government contract records for "Michael Shawn Covey."
 
@@ -1508,7 +1499,7 @@ Claim: The host says Robbie Hild attended BYU, played lacrosse, and appears to h
 Anchored Artifacts: A-1924.2
 Mentions: N-942
 
-Related Nodes: N-10153
+Related Nodes: N-10148
 
 Investigative Direction: Confirm via BYU athletics records and class roster.
 
@@ -1551,7 +1542,7 @@ Claim: The host says she learned from viewers that Robbie Hild's family is alleg
 Anchored Artifacts: A-1924.2
 Mentions: N-942
 
-Related Nodes: N-10153, N-10579
+Related Nodes: N-10148, N-10530
 
 Investigative Direction: Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation.
 
@@ -1595,7 +1586,7 @@ Claim: The host says the CIA plucks students from BYU's Hawaii campus in particu
 
 Anchored Artifacts: (host assertion; comment A-1926.3 touches BYU but does not anchor CIA claim)
 
-Related Nodes: N-10575
+Related Nodes: N-10526
 
 Investigative Direction: Identify any open-source reporting on BYU recruitment ties.
 
@@ -1609,7 +1600,7 @@ Claim: A viewer comment the host reads says BYU physicist Dr. Steven Jones publi
 
 Anchored Artifacts: A-1926.3
 
-Related Nodes: N-10575
+Related Nodes: N-10526
 
 Investigative Direction: Retrieve the actual 2009 paper and verify the journal of publication and peer review status.
 
@@ -1624,7 +1615,7 @@ Claim: A viewer comment the host reads (Kael Miles) says the 600,000 documents s
 Anchored Artifacts: A-1926.1
 Mentions: N-40
 
-Related Nodes: N-10581
+Related Nodes: N-10532
 
 Investigative Direction: Identify the document set being referenced and any pending defense motions for discovery.
 
@@ -1640,7 +1631,7 @@ Transcript Snippet: Tweets that were overseen by lawyers and PR agents. No one w
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10446, N-10342
+Related Nodes: N-10415, N-10320
 Tags: relevance:core
 Investigative Direction: Collect TPUSA's public statements since 2025-09-10 and check whether any mentions the Netanyahu call; ask TPUSA whether lawyers or a PR firm reviewed them.
 
@@ -1656,7 +1647,7 @@ Transcript Snippet: is that final phone call that Charlie had with BB Netanyahu.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10446, N-10495
+Related Nodes: N-10415, N-10458
 Tags: relevance:core
 Investigative Direction: Establish whether the Hamptons gathering and the Netanyahu call were one event or two (host elsewhere calls the Hamptons event a summit or meeting); obtain attendee accounts and Kirk's phone records.
 
@@ -1672,7 +1663,7 @@ Transcript Snippet: Charlie described it, as I told you, as an intervention over
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10446, N-10342
+Related Nodes: N-10415, N-10320
 Supports: C-2130
 Tags: relevance:core
 Investigative Direction: Identify who Kirk described the call to and obtain their account; compare with Hamptons attendees' accounts and Kirk's messages from August 2025.
@@ -1689,7 +1680,7 @@ Transcript Snippet: BB offered, as I said, to take Turning Point to the next lev
 
 Anchored Artifacts: 
 Mentions: N-3, N-36
-Related Nodes: N-10342, N-10000
+Related Nodes: N-10320, N-10000
 Supports: C-2134, C-654
 Tags: relevance:core
 Investigative Direction: Obtain the source of the offer (host elsewhere names Andrew Kolvet) and any TPUSA or Israeli government records of a funding proposal.
@@ -1706,7 +1697,7 @@ Transcript Snippet: an organization that is already pulling in $100 million per 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10078
+Related Nodes: N-10000, N-10075
 Tags: relevance:context
 Investigative Direction: Check TPUSA's IRS Form 990 filings and annual reports for total annual revenue.
 
@@ -1722,7 +1713,7 @@ Transcript Snippet: War in Iran, particularly the issue that BB and Charlie were
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10539, N-11128
+Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: Collect Kirk's June 2025 public and private statements on Iran and Netanyahu's contacts with him.
 
@@ -1738,7 +1729,7 @@ Transcript Snippet: Turning Point USA is trying to twist and reimagine his legac
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10543, N-10539, N-10000
+Related Nodes: N-10498, N-10494, N-10000
 Tags: relevance:core
 Investigative Direction: Compare TPUSA statements and events since September 2025 on Iran and Israel with Kirk's recorded positions before his death.
 
@@ -1754,7 +1745,7 @@ Transcript Snippet: as I began prodding the narrative of the Egyptian planes, it
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253, N-10347, N-10074
+Related Nodes: N-10239, N-10325, N-10071
 Tags: relevance:core
 Investigative Direction: Obtain the flight-tracking records for the Egyptian-registered aircraft and the host's spreadsheet to see which legs touch Israel and Provo.
 
@@ -1770,7 +1761,7 @@ Transcript Snippet: increasingly strange to me that we have no eyewitnesses insi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10573, N-11208
+Related Nodes: N-10524, N-11124
 Tags: relevance:core
 Investigative Direction: Seek accounts from Timpanogos ER patients, visitors and staff present on 2025-09-10 and the hospital's visitor and admission logs.
 
@@ -1786,7 +1777,7 @@ Transcript Snippet: when Kash Patel arrived, he had the FBI immediately seize th
 
 Anchored Artifacts: 
 Mentions: N-3, N-69
-Related Nodes: N-10239, N-10202
+Related Nodes: N-10226, N-10194
 Tags: relevance:core
 Investigative Direction: Obtain the FBI evidence receipt or legal process for the hospital footage and Patel's travel record for 2025-09-10.
 
@@ -1802,7 +1793,7 @@ Transcript Snippet: she was actually a journalist that was on the ground that da
 
 Anchored Artifacts: A-1925.1
 Mentions: N-3, N-6
-Related Nodes: N-11325, N-10573
+Related Nodes: N-11241, N-10524
 Tags: relevance:context
 Investigative Direction: Read Lane's X post and ask her which hospital staff and officers she observed and when.
 
@@ -1818,7 +1809,7 @@ Transcript Snippet: how odd it was that they had locked down both hospitals, som
 
 Anchored Artifacts: A-1925.1
 Mentions: N-3, N-6
-Related Nodes: N-11325, N-10573
+Related Nodes: N-11241, N-10524
 Tags: relevance:core
 Investigative Direction: Obtain lockdown orders, hospital security logs and Orem and Provo police dispatch records for 2025-09-10.
 
@@ -1849,7 +1840,7 @@ Transcript Snippet: The excuse that was given to the public was because the shoo
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10573, N-11199
+Related Nodes: N-10524, N-11115
 Tags: relevance:core
 Investigative Direction: Find the first public statement giving this reason (police, hospital or FBI) and the source of the hospital-to-hospital report.
 
@@ -1865,7 +1856,7 @@ Transcript Snippet: What we do know is that shortly after came over the police s
 
 Anchored Artifacts: 
 Mentions: N-3, N-410
-Related Nodes: N-10578, N-11142
+Related Nodes: N-10529, N-11060
 Tags: relevance:core
 Investigative Direction: Obtain the police scanner audio and CAD log for 2025-09-10 and the detention record naming the young man.
 
@@ -1881,7 +1872,7 @@ Transcript Snippet: it was after Zachariah was detained that Kash Patel rather g
 
 Anchored Artifacts: A-1918.1
 Mentions: N-3, N-69, N-410
-Related Nodes: N-10202, N-10578
+Related Nodes: N-10194, N-10529
 Tags: relevance:core
 Investigative Direction: Compare the detention time of the young man with Patel's 4:21 p.m. post and any search-scaling decisions by Utah agencies.
 
@@ -1897,7 +1888,7 @@ Transcript Snippet: we should start to think of Zachariah Qureshi as decoy boy n
 
 Anchored Artifacts: 
 Mentions: N-3, N-410, N-42
-Related Nodes: N-10032, N-10578
+Related Nodes: N-10032, N-10529
 Tags: relevance:core
 Investigative Direction: Obtain booking and release records for both men and establish whether any evidence links their detentions to one another.
 
@@ -1913,7 +1904,7 @@ Transcript Snippet: He would later tell people at Utah Valley, where he was bein
 
 Anchored Artifacts: 
 Mentions: N-3, N-42
-Related Nodes: N-10223, N-10354
+Related Nodes: N-10166, N-10331
 Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Identify hospital staff or patients who heard Zin and obtain any incident or police report of the statement.
@@ -1946,7 +1937,7 @@ Transcript Snippet: Kash Patel's mistake provided the true assassin or the assas
 
 Anchored Artifacts: A-1918.1, A-1918.2
 Mentions: N-3, N-69
-Related Nodes: N-10202, N-10578
+Related Nodes: N-10194, N-10529
 Tags: relevance:core
 Investigative Direction: Obtain search-operation logs showing when roadblocks and patrols were stood down after the 4:21 p.m. post and re-established after 5:59 p.m.
 
@@ -1962,7 +1953,7 @@ Transcript Snippet: Mitch Snow, he said he saw this meeting conclude with a bunc
 
 Anchored Artifacts: 
 Mentions: N-3, N-361
-Related Nodes: N-10370, N-10326, N-10367
+Related Nodes: N-10305, N-10342
 Tags: relevance:core
 Investigative Direction: Re-interview Mitch Snow on the meeting date, location and participants; request Fort Huachuca visitor and meeting records for September 8 to 9, 2025.
 
@@ -1978,7 +1969,7 @@ Transcript Snippet: the award-winning Built app provides 3D interactive and XR i
 
 Anchored Artifacts: A-3325.1
 Mentions: N-3
-Related Nodes: N-10577
+Related Nodes: N-10528
 Tags: relevance:context
 Investigative Direction: Capture the BILT Incorporated website or app-store page and Texas registration records to confirm the product description and location.
 
@@ -1994,7 +1985,7 @@ Transcript Snippet: given the planes traveling that day, also the planes the day
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10253, N-10370, N-10577
+Related Nodes: N-10239, N-10305, N-10528
 Tags: relevance:core
 Investigative Direction: Pull flight-tracking records for the September 9 and 10 aircraft from Fort Huachuca and identify their Texas origins or destinations.
 
@@ -2010,7 +2001,7 @@ Transcript Snippet: just like there was a Texas play in JFK's assassination, I m
 
 Anchored Artifacts: 
 Mentions: N-3, N-707
-Related Nodes: N-10082
+Related Nodes: N-10079
 Tags: relevance:tangential
 Investigative Direction: Cite the historical record (Warren Commission, Church Committee, HSCA) on any CIA operational role in Dallas; the host offers no source.
 
@@ -2026,7 +2017,7 @@ Transcript Snippet: you should know that this company receives funding from the 
 
 Anchored Artifacts: A-1920.1
 Mentions: N-3
-Related Nodes: N-10577, N-10888
+Related Nodes: N-10528, N-10809
 Tags: relevance:context
 Investigative Direction: Query USAspending.gov by Built's UEI for all DoD awards and agency of record.
 
@@ -2042,7 +2033,7 @@ Transcript Snippet: 2019, they just get a little $50,000 contract. Got a three-m
 
 Anchored Artifacts: A-1920.2
 Mentions: N-3, N-330
-Related Nodes: N-10577
+Related Nodes: N-10528
 Tags: relevance:context
 Investigative Direction: Pull the 2019 award record on USAspending.gov and confirm amount, agency and period of performance.
 
@@ -2058,7 +2049,7 @@ Transcript Snippet: but we get this big $3.1 million contract way back in 2020.
 
 Anchored Artifacts: A-1920.2
 Mentions: N-3, N-330
-Related Nodes: N-10577
+Related Nodes: N-10528
 Tags: relevance:context
 Investigative Direction: Pull the 2020 award on USAspending.gov and list all Built awards 2019 to 2025 with amounts and dates.
 
@@ -2074,7 +2065,7 @@ Transcript Snippet: So when were these massive $7.5 million worth of contracts o
 
 Anchored Artifacts: A-1920.2
 Mentions: N-3, N-330
-Related Nodes: N-10577
+Related Nodes: N-10528
 Tags: relevance:context
 Investigative Direction: Compute Built's annual federal obligations 2019 to 2025 from USAspending and compare with the host's characterization.
 
@@ -2090,7 +2081,7 @@ Transcript Snippet: we said the Utah Valley University event was probably beginn
 
 Anchored Artifacts: 
 Mentions: N-3, N-330
-Related Nodes: N-10012, N-10577
+Related Nodes: N-10012, N-10528
 Tags: relevance:core
 Investigative Direction: Obtain UVU and TPUSA records of when the event was first scheduled and the date of the first booking or contract.
 
@@ -2106,7 +2097,7 @@ Transcript Snippet: The exiting of Charlie Kirk from this mortal plane, we belie
 
 Anchored Artifacts: 
 Mentions: N-3, N-330, N-1
-Related Nodes: N-10577, N-10048
+Related Nodes: N-10528, N-10045
 Tags: relevance:core
 Investigative Direction: Ask Coleman which records support the March to April and June to July estimates.
 
@@ -2122,7 +2113,7 @@ Transcript Snippet: And that Nathan Henderson, the co-founder, is married to a w
 
 Anchored Artifacts: A-3326.1
 Mentions: N-3, N-412, N-413
-Related Nodes: N-10574, N-10577
+Related Nodes: N-10525, N-10528
 Tags: relevance:context
 Investigative Direction: Check marriage records and corporate filings; establish whether Gina Romney Henderson is related to Mitt Romney's family.
 
@@ -2138,7 +2129,7 @@ Transcript Snippet: Connor went to the same school at the same time as Zacharias
 
 Anchored Artifacts: A-3326.1
 Mentions: N-3, N-414, N-410, N-412, N-413
-Related Nodes: N-10092, N-10574
+Related Nodes: N-10088, N-10525
 Tags: relevance:context
 Investigative Direction: Confirm enrollment and graduation years through BYU records or public profiles.
 
@@ -2154,7 +2145,7 @@ Transcript Snippet: And their sons both interned at the Built company.
 
 Anchored Artifacts: A-3326.1
 Mentions: N-3, N-414, N-410
-Related Nodes: N-10577
+Related Nodes: N-10528
 Tags: relevance:context
 Investigative Direction: Check LinkedIn profiles and Built staff pages for internship entries.
 
@@ -2170,7 +2161,7 @@ Transcript Snippet: that is the third time in this investigation that the Romney
 
 Anchored Artifacts: A-3326.1
 Mentions: N-3, N-413, N-28
-Related Nodes: N-10574
+Related Nodes: N-10525
 Tags: relevance:context
 Investigative Direction: Identify the earlier two Romney-name occurrences in prior episodes and check whether the same family is meant.
 
@@ -2186,7 +2177,7 @@ Transcript Snippet: I see a lot of you guys in the chat noting that Tyler Robins
 
 Anchored Artifacts: A-3327.1
 Mentions: N-3, N-40, N-414, N-330
-Related Nodes: N-10574
+Related Nodes: N-10525
 Tags: relevance:context
 Investigative Direction: A resemblance in photographs is not evidence of a link; no record connects the two men beyond the host's school and Timpanogos claims.
 
@@ -2202,7 +2193,7 @@ Transcript Snippet: a fact is that the Romneys are an exceedingly powerful famil
 
 Anchored Artifacts: 
 Mentions: N-3, N-28
-Related Nodes: N-10574
+Related Nodes: N-10525
 Tags: relevance:context
 Investigative Direction: Document the family's public holdings, offices and philanthropy in Utah from public records.
 
@@ -2218,7 +2209,7 @@ Transcript Snippet: Uh and they're also extraordinarily pow- powerful in Mexico 
 
 Anchored Artifacts: 
 Mentions: N-3, N-28
-Related Nodes: N-11398
+Related Nodes: N-11314
 Tags: relevance:tangential
 Investigative Direction: Cite the historical record of the Mormon colonies in Chihuahua and the Romney family's current holdings there, if any.
 
@@ -2234,7 +2225,7 @@ Transcript Snippet: And so, we have the Karashis, the Hendersons that are coming
 
 Anchored Artifacts: 
 Mentions: N-3, N-411, N-412
-Related Nodes: N-10253, N-10577
+Related Nodes: N-10239, N-10528
 Tags: relevance:context
 Investigative Direction: Confirm the Texas residence history of both families and the Texas legs of the flights the host cites.
 
@@ -2250,7 +2241,7 @@ Transcript Snippet: Now, of course, Andrew Zenger, just like Qureshi and Henders
 
 Anchored Artifacts: 
 Mentions: N-3, N-134, N-410, N-414, N-413
-Related Nodes: N-10092, N-10574
+Related Nodes: N-10088, N-10525
 Tags: relevance:context
 Investigative Direction: Verify each person's BYU attendance from alumni or public profile records.
 
@@ -2266,7 +2257,7 @@ Transcript Snippet: this person told me is where the elite of the Mormon culture
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10575, N-10092
+Related Nodes: N-10526, N-10088
 Tags: relevance:tangential
 Investigative Direction: Single unnamed source; obtain corroboration from alumni or program documents.
 
@@ -2282,7 +2273,7 @@ Transcript Snippet: He was also good friends with a guy named Jeffrey Knuckles, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-134, N-415
-Related Nodes: N-10574, N-10575
+Related Nodes: N-10525, N-10526
 Tags: relevance:context
 Investigative Direction: Find public posts or photos tying Zenger and Knuckles together and verify Knuckles's campaign role.
 
@@ -2298,7 +2289,7 @@ Transcript Snippet: I am telling you that his roommates were. He's got a roommat
 
 Anchored Artifacts: A-3328.1
 Mentions: N-3, N-134, N-417
-Related Nodes: N-10580, N-10082
+Related Nodes: N-10531, N-10079
 Tags: relevance:tangential
 Investigative Direction: Single-source assertion; request the source's documentation and check federal contract databases for the roommate.
 
@@ -2314,7 +2305,7 @@ Transcript Snippet: one of the first people that I put an APB out for because he
 
 Anchored Artifacts: 
 Mentions: N-3, N-942, N-128
-Related Nodes: N-10153, N-10144
+Related Nodes: N-10148, N-10139
 Tags: relevance:core
 Investigative Direction: Locate the original episode and the photo of Hild with the Lyman relative; confirm the person's identity (the host later spells the name Hill and Hild).
 
@@ -2330,7 +2321,7 @@ Transcript Snippet: Remember, we learned like Phil Lyman's whole family owned th
 
 Anchored Artifacts: 
 Mentions: N-3, N-61
-Related Nodes: N-10065, N-10184, N-10144
+Related Nodes: N-10062, N-10176, N-10139
 Supports: C-1018
 Tags: relevance:core
 Investigative Direction: Pull Utah County property records for the block and Caldera Engineering's ownership and employee ties.
@@ -2347,7 +2338,7 @@ Transcript Snippet: I don't even think that's Tyler Robinson. Looks to me much m
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10168
+Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Identify which footage is meant and compare the figure's build with photos of Lance Twiggs and Tyler Robinson.
 
@@ -2363,7 +2354,7 @@ Transcript Snippet: Phil Lyman's nephew and or cousin, Phil Lyman says it's a co
 
 Anchored Artifacts: 
 Mentions: N-3, N-61, N-128
-Related Nodes: N-10144
+Related Nodes: N-10139
 Supports: C-1082
 Tags: relevance:context
 Investigative Direction: Compare the relative's own posts with Phil Lyman's statements on the relationship.
@@ -2380,7 +2371,7 @@ Transcript Snippet: he and some friends uniquely traced the steps of the killer 
 
 Anchored Artifacts: A-1924.1
 Mentions: N-3, N-942, N-128
-Related Nodes: N-10153, N-10144
+Related Nodes: N-10148, N-10139
 Supports: C-1073, C-1046
 Tags: relevance:core
 Investigative Direction: Archive the Instagram posts with timestamps and compare against the official evidence log for the footprint.
@@ -2397,7 +2388,7 @@ Transcript Snippet: That footprint is mentioned in the document yesterday. The f
 
 Anchored Artifacts: A-3329.1
 Mentions: N-3
-Related Nodes: N-10337, N-10110
+Related Nodes: N-10316, N-10106
 Tags: relevance:core
 Investigative Direction: Identify the court filing or probable-cause document released on 2026-03-31 and check what it says about a footprint.
 
@@ -2413,7 +2404,7 @@ Transcript Snippet: please email us at more tips at candaceowens. com.
 
 Anchored Artifacts: A-3330.1
 Mentions: N-3, N-942, N-28
-Related Nodes: N-10579, N-10153
+Related Nodes: N-10530, N-10148
 Tags: relevance:core
 Investigative Direction: Collect viewer tips on Hild-Romney marriage records or genealogy and verify with public records.
 
@@ -2429,7 +2420,7 @@ Transcript Snippet: but the investigation into Robbie Hild is now opened again.
 
 Anchored Artifacts: 
 Mentions: N-3, N-942
-Related Nodes: N-10153, N-10579
+Related Nodes: N-10148, N-10530
 Tags: relevance:core
 Investigative Direction: Track subsequent episodes for new findings on Hild's identity and family ties.
 
@@ -2445,7 +2436,7 @@ Transcript Snippet: You're not going to believe me, but the Sears company is als
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10082
+Related Nodes: N-10079
 Tags: relevance:tangential
 Investigative Direction: Single-source assertion with no document shown; ask the host for the proof she says exists. The company name may be mis-transcribed.
 
@@ -2461,7 +2452,7 @@ Transcript Snippet: But it's interesting that so many Romney campaign people dur
 
 Anchored Artifacts: 
 Mentions: N-3, N-134, N-28
-Related Nodes: N-10574, N-10575
+Related Nodes: N-10525, N-10526
 Tags: relevance:context
 Investigative Direction: Obtain Romney 2012 campaign staff lists and travel or bios placing named staff in Jerusalem in 2011.
 
@@ -2477,7 +2468,7 @@ Transcript Snippet: comparative bullet lead analysis was first used after Presid
 
 Anchored Artifacts: A-1922.1
 Mentions: N-3, N-707
-Related Nodes: N-10569
+Related Nodes: N-10520
 Tags: relevance:context
 Investigative Direction: Retrieve the 2007 Washington Post article and the 2004 NAS report to confirm the history of the technique.
 
@@ -2493,7 +2484,7 @@ Transcript Snippet: decades of FBI statements to jurors linking a particular bul
 
 Anchored Artifacts: A-1922.1
 Mentions: N-3
-Related Nodes: N-10569, N-10014
+Related Nodes: N-10520, N-10014
 Tags: relevance:context
 Investigative Direction: Read the 2004 NAS report 'Forensic Analysis: Weighing Bullet Lead Evidence' for the exact conclusion.
 
@@ -2509,7 +2500,7 @@ Transcript Snippet: The ATF says it's inconclusive which is the best they could 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10572, N-10975, N-10620
+Related Nodes: N-10523, N-10896, N-10566
 Tags: relevance:core
 Investigative Direction: Obtain the ATF laboratory report or court filing stating the bullet-to-rifle finding.
 
@@ -2525,7 +2516,7 @@ Transcript Snippet: cuz we all know who killed JFK. And it wasn't Lee Harvey Osw
 
 Anchored Artifacts: 
 Mentions: N-3, N-707
-Related Nodes: N-10082
+Related Nodes: N-10079
 Tags: relevance:tangential
 Investigative Direction: Assertion without a named alternative; refer to the Warren Commission and HSCA findings.
 
@@ -2541,7 +2532,7 @@ Transcript Snippet: Um they know Tyler Robinson didn't do it.
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10110, N-10337
+Related Nodes: N-10106, N-10316
 Tags: relevance:core
 Investigative Direction: Identify the 'they' and the evidence the host believes shows knowledge of innocence; compare with the prosecution's evidence disclosures.
 
@@ -2557,7 +2548,7 @@ Transcript Snippet: is a last name that the Romney family is married into. Doesn
 
 Anchored Artifacts: 
 Mentions: N-3, N-28, N-40
-Related Nodes: N-11398, N-10574
+Related Nodes: N-11314, N-10525
 Tags: relevance:tangential
 Investigative Direction: Genealogical records would show whether any Romney-Robinson marriage exists and whether it involves Tyler Robinson's line.
 
@@ -2573,7 +2564,7 @@ Transcript Snippet: Certainly, the Hild family is married into the Robinsons as 
 
 Anchored Artifacts: 
 Mentions: N-3, N-942, N-40
-Related Nodes: N-11398, N-10153
+Related Nodes: N-11314, N-10148
 Tags: relevance:tangential
 Investigative Direction: Genealogical and marriage records for the Hild and Robinson families.
 
@@ -2589,7 +2580,7 @@ Transcript Snippet: I know the Farnsworth family and the Romney family were part
 
 Anchored Artifacts: 
 Mentions: N-3, N-261, N-28
-Related Nodes: N-11398, N-10383
+Related Nodes: N-11314, N-10356
 Tags: relevance:tangential
 Investigative Direction: Historical records of the Mormon colonies in Chihuahua (for example Colonia Juarez) and genealogy for both families.
 
@@ -2605,7 +2596,7 @@ Transcript Snippet: when Charlie uh put his foot down and said to Trump, "Do not
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-5
-Related Nodes: N-10539, N-10674
+Related Nodes: N-10494, N-10613
 Tags: relevance:core
 Investigative Direction: Find the source of Kirk's statement to Trump (Kirk's own words, aides, or Trump's account) and its date.
 
@@ -2621,7 +2612,7 @@ Transcript Snippet: Charlie stepped on people's toes who trade on war, who do re
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11128, N-10539
+Related Nodes: N-11046, N-10494
 Tags: relevance:context
 Investigative Direction: The host names no persons or deals; identify which deals she means and their timing.
 
@@ -2637,7 +2628,7 @@ Transcript Snippet: every time there was like a kerfuffle in Israel, little war,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10347, N-10253, N-10074
+Related Nodes: N-10325, N-10239, N-10071
 Tags: relevance:core
 Investigative Direction: Release the flight-by-flight table and cross-check each Israel-to-Provo leg with dated conflict events.
 
@@ -2653,7 +2644,7 @@ Transcript Snippet: And my sense was this is BB. This is BB hiding in Provo.
 
 Anchored Artifacts: 
 Mentions: N-3, N-36
-Related Nodes: N-10347, N-10074
+Related Nodes: N-10325, N-10071
 Tags: relevance:core
 Investigative Direction: Check Netanyahu's documented whereabouts on the dates of the relevant flights.
 
@@ -2669,7 +2660,7 @@ Transcript Snippet: there's a lot of evidence that these planes are in sync with
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10347, N-10253
+Related Nodes: N-10325, N-10239
 Supports: C-7842
 Tags: relevance:core
 Investigative Direction: Publish the spreadsheet and test the alignment statistically against a dated list of attacks on Israel.
@@ -2686,7 +2677,7 @@ Transcript Snippet: They've got a whole underground city in Provo. More on that 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:tangential
 Investigative Direction: Ask the host for the source; check public records on underground facilities near Provo.
 
@@ -2702,7 +2693,7 @@ Transcript Snippet: We can do exactly what Tyler Robinson's defense is doing, sa
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10581, N-10110
+Related Nodes: N-10532, N-10106
 Tags: relevance:core
 Investigative Direction: Read the defense's discovery motions for requests about forensic technology and chain of custody.
 
@@ -2718,7 +2709,7 @@ Transcript Snippet: the guy taking a chair from a crime scene to stand on to mes
 
 Anchored Artifacts: A-3331.1
 Mentions: N-3, N-261
-Related Nodes: N-10346, N-10076
+Related Nodes: N-10324, N-10073
 Supports: C-501
 Tags: relevance:core
 Investigative Direction: Compare the video of the camera removal with Farnsworth's account and the crime-scene log.
@@ -2735,7 +2726,7 @@ Transcript Snippet: So, I I spoke to Erika. Why'd you speak to Erika about like 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-261, N-1
-Related Nodes: N-10535, N-10346
+Related Nodes: N-10490, N-10324
 Tags: relevance:core
 Investigative Direction: Clarify who spoke to Erika, when, and what was said (Farnsworth's account, Erika's account, text or call logs).
 
@@ -2751,7 +2742,7 @@ Transcript Snippet: And then Terryl was all crazy on the phone.
 
 Anchored Artifacts: 
 Mentions: N-3, N-261
-Related Nodes: N-10346
+Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Identify the phone call or video the host means, its date and who recorded it.
 
@@ -2767,7 +2758,7 @@ Transcript Snippet: my producer has a note that the RNC altered the convention r
 
 Anchored Artifacts: A-1926.2
 Mentions: N-3
-Related Nodes: N-10007, N-11399
+Related Nodes: N-10007, N-11315
 Tags: relevance:tangential
 Investigative Direction: Read the RNC 2012 Rules (Rule 16 and the Rules Committee actions) and contemporaneous reporting.
 
@@ -2783,7 +2774,7 @@ Transcript Snippet: The RNC also refused to recognize Paul's delegates from Main
 
 Anchored Artifacts: A-1926.2
 Mentions: N-3, N-710
-Related Nodes: N-10007, N-11399
+Related Nodes: N-10007, N-11315
 Tags: relevance:tangential
 Investigative Direction: Check 2012 convention credentials rulings on the Maine delegation.
 
@@ -2799,7 +2790,7 @@ Transcript Snippet: They're considered remarkably corrupt according to people fa
 
 Anchored Artifacts: 
 Mentions: N-3, N-28
-Related Nodes: N-10574
+Related Nodes: N-10525
 Tags: relevance:context
 Investigative Direction: Anonymous reputational hearsay; no document is cited. Treat as unverified.
 
@@ -2815,7 +2806,7 @@ Transcript Snippet: With the Manson murders, this is what the narrative was. The
 
 Anchored Artifacts: A-3332.1
 Mentions: N-3
-Related Nodes: N-10082
+Related Nodes: N-10079
 Tags: relevance:tangential
 Investigative Direction: Refer to the sources for Chaos (Tom O'Neill) and the criminal record for the Manson case.
 
@@ -2831,7 +2822,7 @@ Transcript Snippet: What was the goal? To socially engineer us remarkably and ir
 
 Anchored Artifacts: A-3332.1
 Mentions: N-3, N-1
-Related Nodes: N-10082, N-10543
+Related Nodes: N-10079, N-10498
 Tags: relevance:core
 Investigative Direction: Define the 'they' and the operation alleged; identify any documents about narrative management after September 10.
 
@@ -2847,7 +2838,7 @@ Transcript Snippet: He died. His very last breath, "Shabbat Shalom. I love Israe
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10543, N-10456
+Related Nodes: N-10498, N-10425
 Tags: relevance:core
 Investigative Direction: Trace who first reported the 'Shabbat Shalom' last words and compare with witnesses' accounts.
 
@@ -2863,7 +2854,7 @@ Transcript Snippet: You've left me no choice but to abandon the pro-Israel cause
 
 Anchored Artifacts: A-3333.1
 Mentions: N-3, N-1
-Related Nodes: N-10106, N-10543
+Related Nodes: N-10102, N-10498
 Supports: C-1138, C-1557, C-2042
 Tags: relevance:core
 Investigative Direction: Obtain the full message and its date and recipients from the original chat.
@@ -2880,7 +2871,7 @@ Transcript Snippet: Would have been nice if uh rather than attacking Joe Kent, t
 
 Anchored Artifacts: 
 Mentions: N-3, N-209, N-14, N-2
-Related Nodes: N-10551, N-10355
+Related Nodes: N-10505, N-10332
 Tags: relevance:core
 Investigative Direction: Collect TPUSA statements about Joe Kent and the timing relative to Kent's resignation.
 
@@ -2896,7 +2887,7 @@ Transcript Snippet: because they were pulling money from him and they were threa
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10106, N-10446
+Related Nodes: N-10102, N-10415
 Supports: C-715, C-454, C-2045
 Tags: relevance:core
 Investigative Direction: Identify the donors and the messages or witnesses supporting each element, especially any record of conditions on who he could speak to.
@@ -2913,7 +2904,7 @@ Transcript Snippet: And she's forced to assume his role and reverse um everythin
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1, N-707
-Related Nodes: N-10543
+Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: List Charlie's pre-death positions versus TPUSA positions after September 2025 on Israel, Iran and donors.
 
@@ -3085,7 +3076,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-10141+)
+- [x] People nodes use the global people ledger (N-10136+)
 - [x] Non-person investigation targets use the 1648 series
 - [x] No speculative claims inscribed as evidence-backed claims (host-only assertions flagged)
 - [x] Names preserved exactly (Qureshi/Qureshi discrepancy flagged)

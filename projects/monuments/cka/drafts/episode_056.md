@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: cd9e59e9564d3269c2ae61263c05f67dbccdca4b58de59c5ca01c69abc42da57
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-11338, N-11339, N-11340
-  - Hole-minted Nodes (reintro-ep056): N-10413, N-10539
-  - Tip-minted Nodes (reintro-ep056): N-11079, N-11182, N-11203, N-11238
+  - Tip-minted Nodes (supplement_2026-10f): N-11254, N-11255, N-11256
+  - Hole-minted Nodes (reintro-ep056): N-10386, N-10494
+  - Tip-minted Nodes (reintro-ep056): N-10997, N-11098, N-11119, N-11154
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4982–C-5065
-  - New Nodes Introduced: N-445, N-446, N-447, N-452, N-453, N-10409, N-10410, N-10412
-  - Reused Nodes Appearing: N-2, N-11, N-449, N-450, N-451, N-10411, N-3, N-5, N-9, N-14, N-17, N-36, N-37, N-47, N-170, N-266, N-361, N-437, N-444, N-10000, N-10074, N-10309, N-10310, N-10373, N-10398, N-10399, N-10401, N-10402, N-10408, N-10417, N-10670, N-10962
+  - New Nodes Introduced: N-445, N-446, N-447, N-452, N-453, N-10382, N-10383, N-10385
+  - Reused Nodes Appearing: N-2, N-11, N-449, N-450, N-451, N-10384, N-3, N-5, N-9, N-14, N-17, N-36, N-37, N-47, N-170, N-266, N-361, N-437, N-444, N-10000, N-10071, N-10291, N-10292, N-10347, N-10371, N-10372, N-10374, N-10375, N-10381, N-10390, N-10610, N-10883
   - (see registers)
 
 # Episode 56 Analysis Record
@@ -36,7 +36,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1617, A-1618, A-1619, A-1620, A-1621, A-1622, A-1623, A-1624, A-1625, A-1626, A-1627
   - New Person Nodes Introduced: N-445 through N-453
-  - New Investigation Targets Introduced: N-10409, N-10410, N-10411, N-10412
+  - New Investigation Targets Introduced: N-10382, N-10383, N-10384, N-10385
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk
 
 ---
@@ -81,7 +81,7 @@ Video Timestamp: 00:13:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host characterizes filing as allegations)
 
-*Related: C-5014, C-5016, C-5017, C-5020, N-445, N-446, N-447, N-41, N-10409*
+*Related: C-5014, C-5016, C-5017, C-5020, N-445, N-446, N-447, N-41, N-10382*
 
 **A-1620** TPUSA Board Member Profile Bundle
 
@@ -90,7 +90,7 @@ Confidence Level: Medium (host characterizes filing as allegations)
 Video Timestamp: 00:18:40
 Confidence Level: Medium
 
-*Related: C-5021, N-799, N-10410*
+*Related: C-5021, N-799, N-10383*
 
 **A-1621** Mind War Book Reference Bundle
 
@@ -99,7 +99,7 @@ Confidence Level: Medium
 Video Timestamp: 00:21:42
 Confidence Level: Medium
 
-*Related: C-5025, N-799, N-449, N-10410*
+*Related: C-5025, N-799, N-449, N-10383*
 
 **A-1622** Michael Aquino Interview / Background Bundle
 
@@ -144,21 +144,21 @@ Confidence Level: Medium
 Video Timestamp: 00:32:12
 Confidence Level: Medium
 
-*Related: C-5042, N-450, N-451, N-10411*
+*Related: C-5042, N-450, N-451, N-10384*
 
 **A-1624.2** Reference to original September lawsuit by two men against former Harvest pastor/missionary Paul Havsgaard (Havsgaard) alleging abuse at the Romanian children's shelter, including children tied to radiators, kneeling on walnut shells, inappropriate touching, and sex trafficking.
 
 Video Timestamp: 00:34:03
 Confidence Level: Medium (allegations)
 
-*Related: C-5044, N-451, N-10411*
+*Related: C-5044, N-451, N-10384*
 
 **A-1624.3** Reference to law firm news release stating twenty-three former residents of the home are expected to bring complaints; most recent complaints filed November (year implicit in context).
 
 Video Timestamp: 00:35:00
 Confidence Level: Medium
 
-*Related: C-5047, N-451, N-10411*
+*Related: C-5047, N-451, N-10384*
 
 **A-1625** Scott Adams Death News Bundle
 
@@ -180,7 +180,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:24
 Confidence Level: Medium (verbally referenced; host states "we have that somewhere so you can see that")
 
-*Related: C-5005, N-2, N-10412*
+*Related: C-5005, N-2, N-10385*
 
 **A-1627** Anthony Aguilar Comment Bundle
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4993, N-10962, N-452, N-5*
+*Related: C-4993, N-10883, N-452, N-5*
 
 ---
 
@@ -217,7 +217,7 @@ Video Timestamp: 00:09:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4996, C-4997, C-4998, C-5000, C-5001, C-5004, N-1, N-10074, N-10309, N-10310, N-10539, N-11079, N-3, N-305*
+*Related: C-4996, C-4997, C-4998, C-5000, C-5001, C-5004, N-1, N-10071, N-10291, N-10292, N-10494, N-10997, N-3, N-305*
 
 ---
 
@@ -230,7 +230,7 @@ Video Timestamp: 00:32:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5040, N-10398, N-10411, N-11203, N-14, N-2, N-450, N-11340*
+*Related: C-5040, N-10371, N-10384, N-11119, N-14, N-2, N-450, N-11256*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:50:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5063, N-10408, N-3*
+*Related: C-5063, N-10381, N-3*
 
 ---
 
@@ -285,7 +285,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-5014, C-5016, N-10409*
+*Related: A-1619.1, C-5014, C-5016, N-10382*
 
 **N-446** Mitch Manley Sr.
 
@@ -296,7 +296,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-5014, N-10409*
+*Related: A-1619.1, C-5014, N-10382*
 
 **N-447** Mitch Manley Jr.
 
@@ -307,7 +307,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-5017, N-446, N-10409*
+*Related: A-1619.1, C-5017, N-446, N-10382*
 
 **N-799** Paul Vallely
 
@@ -318,7 +318,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1620.1, A-1621.1, C-5021, C-5025, N-449, N-10410*
+*Related: A-1620.1, A-1621.1, C-5021, C-5025, N-449, N-10383*
 
 **N-449** Michael Aquino
 
@@ -329,7 +329,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-5025, C-5028, C-5029, C-5033, C-5034, N-799, N-10410*
+*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-5025, C-5028, C-5029, C-5033, C-5034, N-799, N-10383*
 
 **N-450** Greg Laurie
 
@@ -340,7 +340,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1624.1, C-5042, N-451, N-10411*
+*Related: A-1624.1, C-5042, N-451, N-10384*
 
 **N-451** Paul Havsgaard
 
@@ -351,7 +351,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1624.2, A-1624.3, C-5044, C-5047, N-450, N-10411*
+*Related: A-1624.2, A-1624.3, C-5044, C-5047, N-450, N-10384*
 
 **N-187** Scott Adams
 
@@ -408,7 +408,7 @@ Investigative Pressure: Low
 
 *Related: A-1627.1, C-5059*
 
-**N-10409** Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients
+**N-10382** Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients
 
 Persistent investigation target: pattern of elderly estates redirected to TPUSA-affiliated organizations, including a $25M estate (Alton C. Jennings) reportedly reassigned November 2023, four months before decedent's death at age 95.
 
@@ -419,7 +419,7 @@ Investigative Pressure: Medium
 
 *Related: A-1619.1, C-5014, C-5016, C-5020, N-445, N-446, N-447, N-41*
 
-**N-10410** TPUSA Board Member Military–Satanism Connection
+**N-10383** TPUSA Board Member Military–Satanism Connection
 
 Persistent investigation target: link between a TPUSA board member (Paul Vallely) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).
 
@@ -430,7 +430,7 @@ Investigative Pressure: High
 
 *Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-5021, C-5025, C-5028, C-5029, C-5033, C-5034, N-799, N-449*
 
-**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+**N-10384** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 Persistent investigation target: cluster of twelve (rising to twenty-three expected) lawsuits against Harvest Christian Fellowship/Greg Laurie/Paul Havsgaard alleging abuse of children at a Romanian shelter.
 
@@ -441,7 +441,7 @@ Investigative Pressure: High
 
 *Related: A-1624.1, A-1624.2, A-1624.3, C-5042, C-5044, C-5047, N-450, N-451*
 
-**N-10412** Erika Kirk June 19 Instagram Purge
+**N-10385** Erika Kirk June 19 Instagram Purge
 
 Persistent investigation target: reported deletion of 126 Instagram posts on June 19, framed in the master timeline as a possible pre-event secrecy action.
 
@@ -583,7 +583,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Existing node reused for new claims in this episode.
 
@@ -591,7 +591,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10309** Wedi Machmood Identity Verification Question
+**N-10291** Wedi Machmood Identity Verification Question
 
 Existing node reused for new claims in this episode.
 
@@ -599,7 +599,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10310** SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard
+**N-10292** SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard
 
 Existing node reused for new claims in this episode.
 
@@ -607,7 +607,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Existing node reused for new claims in this episode.
 
@@ -615,7 +615,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Existing node reused for new claims in this episode.
 
@@ -623,7 +623,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10399** Unification Church / Moon Inc. Financial Structure
+**N-10372** Unification Church / Moon Inc. Financial Structure
 
 Existing node reused for new claims in this episode.
 
@@ -631,7 +631,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Existing node reused for new claims in this episode.
 
@@ -639,7 +639,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10402** Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)
+**N-10375** Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)
 
 Existing node reused for new claims in this episode.
 
@@ -647,7 +647,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10408** Turning Point USA Estate Planning Solicitation
+**N-10381** Turning Point USA Estate Planning Solicitation
 
 Existing node reused for new claims in this episode.
 
@@ -655,7 +655,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10413** Project Looking Glass Allegation
+**N-10386** Project Looking Glass Allegation
 
 Existing node reused for new claims in this episode.
 
@@ -663,7 +663,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Existing node reused for new claims in this episode.
 
@@ -671,7 +671,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Existing node reused for new claims in this episode.
 
@@ -679,7 +679,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10670** Gaza Humanitarian Foundation Leadership/Operational Pipeline
+**N-10610** Gaza Humanitarian Foundation Leadership/Operational Pipeline
 
 Existing node reused for new claims in this episode.
 
@@ -687,7 +687,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10962** Venezuela
+**N-10883** Venezuela
 
 Existing node reused for new claims in this episode.
 
@@ -695,7 +695,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11079** Operation Midnight Hammer
+**N-10997** Operation Midnight Hammer
 
 Existing node reused for new claims in this episode.
 
@@ -703,7 +703,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11182** TPUSA Crisis PR Team
+**N-11098** TPUSA Crisis PR Team
 
 Existing node reused for new claims in this episode.
 
@@ -711,7 +711,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11203** Make Heaven Crowded Tour
+**N-11119** Make Heaven Crowded Tour
 
 Existing node reused for new claims in this episode.
 
@@ -719,7 +719,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11238** Temple of Set
+**N-11154** Temple of Set
 
 Existing node reused for new claims in this episode.
 
@@ -727,7 +727,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11338** Fort Huachuca
+**N-11254** Fort Huachuca
 
 Node Type: Place
 Army intelligence installation in Arizona that the host repeatedly returns to: she says Michael Aquino trained there, calls it the hub for intel operations, and links it to the Mitch Snow sighting account.
@@ -736,7 +736,7 @@ Army intelligence installation in Arizona that the host repeatedly returns to: s
 
 ---
 
-**N-11339** Military Base Recruitment and Prosecution-Immunity Allegation
+**N-11255** Military Base Recruitment and Prosecution-Immunity Allegation
 
 Node Type: Topic
 The host's account of what unnamed military sources told her: that foreign bases shield personnel from prosecution under government deals and that a woman recruiter posing as a casting director brings young women onto bases.
@@ -745,7 +745,7 @@ The host's account of what unnamed military sources told her: that foreign bases
 
 ---
 
-**N-11340** Harvest Christian Fellowship
+**N-11256** Harvest Christian Fellowship
 
 Node Type: Organization
 California megachurch founded by Greg Laurie, the defendant in lawsuits over alleged abuse at a Romanian children's home and the host of the TPUSA Faith Make Heaven Crowded event that Erika Kirk is to join.
@@ -784,7 +784,7 @@ Claim: The host says, per the lawsuit (which she notes contains only allegations
 
 Anchored Artifacts: A-1619.1
 Mentions: N-445, N-446
-Related Nodes: N-10409
+Related Nodes: N-10382
 Investigative Direction: Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.
 
 **C-5016** Host Says Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death
@@ -795,7 +795,7 @@ Claim: The host says Alton C. Jennings's estate was valued at $25 million, and t
 
 Anchored Artifacts: A-1619.1
 Mentions: N-445
-Related Nodes: N-10409
+Related Nodes: N-10382
 Investigative Direction: Obtain probate court filings; verify valuation and date of will execution.
 
 **C-5017** Host Says Mitch Manley Jr. Worked on Charlie Kirk's TPUSA Show While His Father Was Caretaker
@@ -806,7 +806,7 @@ Claim: The host says Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was em
 
 Anchored Artifacts: A-1619.1
 Mentions: N-446, N-447, N-1
-Related Nodes: N-10409
+Related Nodes: N-10382
 Investigative Direction: Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.
 
 **C-5020** Host Says Jennings Estate Was Split Between Turning Point Action and YAF
@@ -817,7 +817,7 @@ Claim: The host says the Jennings estate was split between Turning Point Action 
 
 Anchored Artifacts: A-1619.1
 Mentions: N-11
-Related Nodes: N-10409
+Related Nodes: N-10382
 Investigative Direction: Obtain probate records reflecting beneficiary designations; verify allocation.
 
 **C-5021** Host Identifies Paul Vallely as a TPUSA Board Member and Former Commander of the 7th PSYOP Group
@@ -828,7 +828,7 @@ Claim: The host identifies Paul Vallely as a Turning Point USA board member, wit
 
 Anchored Artifacts: A-1620.1
 Mentions: N-799
-Related Nodes: N-10410
+Related Nodes: N-10383
 Investigative Direction: Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.
 
 **C-5025** Host Says Vallely and Aquino Co-Authored Mind War in 1980
@@ -839,7 +839,7 @@ Claim: The host says Paul Vallely and Major Michael Aquino co-authored the book 
 
 Anchored Artifacts: A-1621.1
 Mentions: N-799, N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Investigative Direction: Obtain bibliographic record (publisher, ISBN); verify authorship.
 
 **C-5028** Host Says Michael Aquino Joined the Church of Satan in 1969
@@ -850,7 +850,7 @@ Claim: The host says Michael Aquino joined the Church of Satan in 1969 and rose 
 
 Anchored Artifacts: A-1622.2
 Mentions: N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Investigative Direction: Cross-check Aquino's published biographical statements; consult Church of Satan archives.
 
 **C-5029** Host Says Aquino Founded the Temple of Set in 1975
@@ -861,7 +861,7 @@ Claim: The host says Michael Aquino left the Church of Satan in 1975 and founded
 
 Anchored Artifacts: A-1622.1, A-1622.2
 Mentions: N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Investigative Direction: Verify founding documents; cross-check Temple of Set records.
 
 **C-5033** Host Says SF Police Investigated Aquino in 1986 re: Army Child Development Center
@@ -872,7 +872,7 @@ Claim: The host says that in 1986, San Francisco police opened an investigation 
 
 Anchored Artifacts: A-1623.1
 Mentions: N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Investigative Direction: Obtain SFPD case records (case number); verify closure status and stated reason.
 
 **C-5034** Host Says 1987 Victim Identified Aquino; Case Closed for Insufficient Evidence
@@ -883,7 +883,7 @@ Claim: The host says that in 1987 a girl came forward identifying Aquino as the 
 
 Anchored Artifacts: A-1623.2
 Mentions: N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Investigative Direction: Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.
 
 **C-5042** Host Says Twelve Lawsuits Filed Against Harvest Christian Fellowship re: Romanian Children's Home
@@ -894,7 +894,7 @@ Claim: The host, citing an article she shows, says twelve lawsuits have been fil
 
 Anchored Artifacts: A-1624.1
 Mentions: N-450
-Related Nodes: N-10411
+Related Nodes: N-10384
 Investigative Direction: Obtain court filings (case numbers, jurisdiction); verify plaintiff count.
 
 **C-5044** Allegations Include Specific Abuse Categories at Romanian Shelter
@@ -905,7 +905,7 @@ Claim: The host says the allegations against Paul Havsgaard at the Bucharest chi
 
 Anchored Artifacts: A-1624.2
 Mentions: N-451
-Related Nodes: N-10411
+Related Nodes: N-10384
 Investigative Direction: Obtain original complaint; verify specificity of allegations; confirm Havsgaard's status (former pastor/missionary).
 
 **C-5047** Twenty-Three Former Residents Expected to File Complaints
@@ -916,7 +916,7 @@ Claim: The host says the law firm representing the survivors said in a news rele
 
 Anchored Artifacts: A-1624.3
 Mentions: 
-Related Nodes: N-10411
+Related Nodes: N-10384
 Investigative Direction: Obtain law firm press release; track complaint filings in docket.
 
 **C-5055** Host Says Scott Adams Died at 68 From Prostate Cancer
@@ -937,7 +937,7 @@ Claim: The host says that on June 19 Erika Kirk deleted 126 Instagram posts, acc
 
 Anchored Artifacts: A-1626.1
 Mentions: N-2
-Related Nodes: N-10412
+Related Nodes: N-10385
 Investigative Direction: Obtain direct screenshot of Social Blade historical record; verify count and date; archive any recovered posts.
 
 **C-4994** Tucker Carlson Compared Lindsey Graham's Behavior to a Drunk Girlfriend During DUI Stop
@@ -1023,7 +1023,7 @@ Transcript Snippet: because we know that during the month of June, according to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-22, N-36
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Locate Tucker Carlson's own accounts of his June 2025 conversations with Kirk and any message records between Kirk and Trump circle figures.
 
@@ -1039,7 +1039,7 @@ Transcript Snippet: He lobbies in the month of June for President Trump not to g
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-5
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Seek contemporaneous reporting, Kirk show audio from June 2025, or Trump-circle accounts of Kirk's advice before the strikes.
 
@@ -1055,7 +1055,7 @@ Transcript Snippet: Charlie was adamant that uh war with Iran would not benefit 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10539
+Related Nodes: N-10494
 Supports: C-4987
 Tags: relevance:core
 Investigative Direction: Compare against the dated Kirk audio the host plays and against other recorded Kirk statements on Iran.
@@ -1132,7 +1132,7 @@ Transcript Snippet: you need to understand if you keep killing your people who a
 
 Anchored Artifacts: A-3213.1
 Mentions: N-452, N-5
-Related Nodes: N-10962
+Related Nodes: N-10883
 Tags: relevance:context
 Investigative Direction: Locate the original Graham post or broadcast and its date to confirm the wording and that it followed the Venezuela operation.
 
@@ -1148,7 +1148,7 @@ Transcript Snippet: in terms of the patterns that I'm seeing with the Egyptian p
 
 Anchored Artifacts: A-3214.1
 Mentions: N-3
-Related Nodes: N-10310, N-10074
+Related Nodes: N-10292, N-10071
 Tags: relevance:core
 Investigative Direction: Compare arrival dates of the SUBND and SUBTU aircraft at Provo and other U.S. stops across 2022 to 2025 flight data.
 
@@ -1164,7 +1164,7 @@ Transcript Snippet: It's going to look to you like this tail number SUBTU is jus
 
 Anchored Artifacts: A-3214.1
 Mentions: N-3
-Related Nodes: N-10310, N-10074
+Related Nodes: N-10292, N-10071
 Supports: C-3623
 Tags: relevance:core
 Investigative Direction: Pull ADS-B Exchange and Flightradar24 history for SU-BTU for May and June 2025 and compare with any Provo airport logs.
@@ -1181,7 +1181,7 @@ Transcript Snippet: That's an important name because that's going to be the same
 
 Anchored Artifacts: A-3214.1
 Mentions: N-305, N-1
-Related Nodes: N-10310, N-10309
+Related Nodes: N-10292, N-10291
 Supports: C-3622, C-3623
 Tags: relevance:core
 Investigative Direction: Obtain the manifests or FBO records for both flights and the exact spelling of the passenger name on each.
@@ -1198,7 +1198,7 @@ Transcript Snippet: but I have confirmed that those planes were in fact in Provo
 
 Anchored Artifacts: A-3214.1
 Mentions: N-3
-Related Nodes: N-10074, N-10310
+Related Nodes: N-10071, N-10292
 Tags: relevance:core
 Investigative Direction: Ask the host for the confirming source; compare with Provo airport and FBO records.
 
@@ -1214,7 +1214,7 @@ Transcript Snippet: Maybe it went to DC. That plane could have actually gone to 
 
 Anchored Artifacts: A-3214.1
 Mentions: N-3
-Related Nodes: N-10310
+Related Nodes: N-10292
 Qualifies: C-4995
 Tags: relevance:core
 Investigative Direction: Look for arrival records at DC-area airports for an Egyptian-registered aircraft between June 2 and June 4, 2025.
@@ -1231,7 +1231,7 @@ Transcript Snippet: I've learned Provo basically has a city underground.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:context
 Investigative Direction: Identify the host's source for the underground facility; look for public documentation of such a facility near Provo.
 
@@ -1247,7 +1247,7 @@ Transcript Snippet: And there were some strange cancellations, but again, I'm go
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:context
 Investigative Direction: Ask the host to specify which government events or flights were cancelled and obtain the corresponding schedules.
 
@@ -1263,7 +1263,7 @@ Transcript Snippet: between June 14th and June 21st leading up to our operation 
 
 Anchored Artifacts: A-3214.1
 Mentions: N-1
-Related Nodes: N-11079, N-10539
+Related Nodes: N-10997, N-10494
 Supports: C-4985
 Tags: relevance:core
 Investigative Direction: Find dated Kirk show segments or messages from June 14 to 21, 2025 that show his position before the strikes.
@@ -1280,7 +1280,7 @@ Transcript Snippet: So I don't know maybe Charlie saying I feel threatened. I do
 
 Anchored Artifacts: A-1626.1
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10412
+Related Nodes: N-10385
 Supports: C-5005
 Tags: relevance:core
 Investigative Direction: Obtain the Social Blade history and any archived copies of the deleted posts; look for dated travel by the Kirks around June 19.
@@ -1297,7 +1297,7 @@ Transcript Snippet: we decide to bomb for a limited uh military exercise and eve
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11079
+Related Nodes: N-10997
 Tags: relevance:context
 Investigative Direction: Cite contemporaneous coverage of Operation Midnight Hammer and statements declaring the war over.
 
@@ -1313,7 +1313,7 @@ Transcript Snippet: We weren't wrong but BB wants BB gets. So this just means we
 
 Anchored Artifacts: 
 Mentions: N-3, N-36
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:context
 Investigative Direction: Track current official statements and media coverage calling for more U.S. involvement in Iran against the host's January 2026 framing.
 
@@ -1344,7 +1344,7 @@ Transcript Snippet: which was obviously a good thing for BB Netanyahu, his war a
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: This is an inference about who benefited; compare with documented Kirk and Netanyahu exchanges and with the host's earlier claims on Netanyahu's offer to Kirk.
 
@@ -1360,7 +1360,7 @@ Transcript Snippet: I speculated uh because I am enemies with their faith divisi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10398, N-10402, N-10399
+Related Nodes: N-10371, N-10375, N-10372
 Tags: relevance:context
 Investigative Direction: Compare with the Washington Post and congressional material on the Unification Church cited in episodes 54 and 55 and with any TPUSA Faith founding records.
 
@@ -1376,7 +1376,7 @@ Transcript Snippet: They used to just want a donation. Now they kind of want you
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10408, N-10000
+Related Nodes: N-10381, N-10000
 Supports: C-4893
 Tags: relevance:context
 Investigative Direction: Obtain TPUSA's planned-giving and estate-planning webpages and archived copies to date when bequest solicitation began.
@@ -1393,7 +1393,7 @@ Transcript Snippet: We don't even have enough money to eat because my mother gav
 
 Anchored Artifacts: 
 Mentions: N-3, N-444
-Related Nodes: N-10399
+Related Nodes: N-10372
 Tags: relevance:context
 Investigative Direction: Cite the court record or reporting on the assassin's stated motive.
 
@@ -1409,7 +1409,7 @@ Transcript Snippet: Per the lawsuit, Alton began showing signs of a cognitive de
 
 Anchored Artifacts: A-1619.1
 Mentions: N-445, N-446
-Related Nodes: N-10409
+Related Nodes: N-10382
 Supports: C-5014
 Tags: relevance:context
 Investigative Direction: Obtain the December 2024 petition and confirm the pleaded dates for the decline and the caretaker's hiring.
@@ -1426,7 +1426,7 @@ Transcript Snippet: he the grandson alleges that thereafter Mitch Manley senior 
 
 Anchored Artifacts: A-1619.1
 Mentions: N-445, N-446
-Related Nodes: N-10409
+Related Nodes: N-10382
 Supports: C-5014
 Tags: relevance:context
 Investigative Direction: Obtain the petition and any response from Manley Senior or the recipients; confirm the case outcome.
@@ -1443,7 +1443,7 @@ Transcript Snippet: when the elderly man died less than 3 years later at the age
 
 Anchored Artifacts: A-1619.1
 Mentions: N-445
-Related Nodes: N-10409
+Related Nodes: N-10382
 Supports: C-5016
 Tags: relevance:context
 Investigative Direction: Obtain probate filings showing the date the family learned of the new will and the earlier estate plan.
@@ -1475,7 +1475,7 @@ Transcript Snippet: he collaborated with a major that was working under him.
 
 Anchored Artifacts: A-1621.1
 Mentions: N-799, N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Tags: relevance:context
 Investigative Direction: Check Army records and the foreword or biography in Mind War for Aquino's and Vallely's units and roles.
 
@@ -1491,7 +1491,7 @@ Transcript Snippet: Aside from being an intelligence officer and an expert of ps
 
 Anchored Artifacts: A-1621.1
 Mentions: N-449, N-799
-Related Nodes: N-10410
+Related Nodes: N-10383
 Tags: relevance:context
 Investigative Direction: Cross-check Aquino's published biography and Army service record.
 
@@ -1507,7 +1507,7 @@ Transcript Snippet: rose through the ranks of that church as the magister cavern
 
 Anchored Artifacts: A-1622.2
 Mentions: N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Supports: C-5028
 Tags: relevance:context
 Investigative Direction: Consult Church of Satan publications and Aquino's own writings for the dates and titles.
@@ -1539,7 +1539,7 @@ Transcript Snippet: So the temple of set exists to uh explore the self the perso
 
 Anchored Artifacts: A-1622.1
 Mentions: N-449
-Related Nodes: N-11238, N-10410
+Related Nodes: N-11154, N-10383
 Tags: relevance:context
 Investigative Direction: Identify the original interview, its date and interviewer, and compare with Temple of Set published doctrine.
 
@@ -1555,7 +1555,7 @@ Transcript Snippet: So, part of their ritual is to harm the innocent because tha
 
 Anchored Artifacts: 
 Mentions: N-3, N-449
-Related Nodes: N-11238
+Related Nodes: N-11154
 Tags: relevance:tangential
 Investigative Direction: This is a sweeping claim about a religious group with no source given; Temple of Set texts and any documented criminal cases would be needed.
 
@@ -1571,7 +1571,7 @@ Transcript Snippet: These people have always been in power. They've been backed 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10410
+Related Nodes: N-10383
 Tags: relevance:tangential
 Investigative Direction: No source is given; this sweeping group claim cannot be checked as stated.
 
@@ -1587,7 +1587,7 @@ Transcript Snippet: The police believed she was telling the truth, but they had 
 
 Anchored Artifacts: A-1623.2
 Mentions: N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Supports: C-5034
 Tags: relevance:context
 Investigative Direction: Obtain SFPD records or contemporaneous press for the 1987 case, including whether police stated they believed the girl.
@@ -1604,7 +1604,7 @@ Transcript Snippet: Now, it's worth noting that Michael Aquino was trained at Fo
 
 Anchored Artifacts: 
 Mentions: N-449, N-3
-Related Nodes: N-11338, N-10410
+Related Nodes: N-11254, N-10383
 Tags: relevance:context
 Investigative Direction: Check Aquino's Army training history and assignment records for Fort Huachuca.
 
@@ -1620,7 +1620,7 @@ Transcript Snippet: Fort Huachuca, as we've now establish, is the hub for intel 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11338
+Related Nodes: N-11254
 Supports: C-4303
 Tags: relevance:context
 Investigative Direction: Compile documented Fort Huachuca incidents and investigations; the host does not list them here.
@@ -1637,7 +1637,7 @@ Transcript Snippet: man, did we all endure and survive a psychological operation
 
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-266, N-2
-Related Nodes: N-10373, N-10417, N-11338
+Related Nodes: N-10347, N-10390, N-11254
 Supports: C-4465
 Tags: relevance:core
 Investigative Direction: Clarify whether the host now regards the Snow account as disinformation or a coordinated pile-on; compare with her earlier statements on Snow's credibility and any corroboration of the sightings.
@@ -1670,7 +1670,7 @@ Transcript Snippet: she's soon going to be speaking with Greg Laurie's Harvest C
 
 Anchored Artifacts: A-3215.1
 Mentions: N-2, N-450
-Related Nodes: N-11203, N-11340, N-10411, N-10398
+Related Nodes: N-11119, N-11256, N-10384, N-10371
 Supports: C-4751
 Tags: relevance:core
 Investigative Direction: Archive the TPUSA Faith tour page and Harvest event listing; confirm the date, venue and whether the event occurred.
@@ -1687,7 +1687,7 @@ Transcript Snippet: she's got Andrew Kolvet as your PR and he's like really smar
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-11182
+Related Nodes: N-11098
 Tags: relevance:context
 Investigative Direction: Confirm Kolvet's formal PR role for Erika Kirk and identify the incidents the host refers to.
 
@@ -1703,7 +1703,7 @@ Transcript Snippet: The original lawsuit was filed in September by two men claim
 
 Anchored Artifacts: A-1624.2
 Mentions: N-451
-Related Nodes: N-10411, N-11340
+Related Nodes: N-10384, N-11256
 Supports: C-2598
 Tags: relevance:context
 Investigative Direction: Obtain the September complaint (court, case number, plaintiffs) and Havsgaard's employment history with Harvest.
@@ -1720,7 +1720,7 @@ Transcript Snippet: You know, Kolvet's from there, that area. He's from Santa Ba
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-17
-Related Nodes: N-11340
+Related Nodes: N-11256
 Tags: relevance:context
 Investigative Direction: Verify Kolvet's and the McCoys' hometowns and any ties to Harvest Christian Fellowship.
 
@@ -1736,7 +1736,7 @@ Transcript Snippet: The court documents claim that Greg Laurie and the Harvest C
 
 Anchored Artifacts: A-1624.1
 Mentions: N-450, N-451
-Related Nodes: N-10411, N-11340
+Related Nodes: N-10384, N-11256
 Tags: relevance:context
 Investigative Direction: Obtain the complaints and any Harvest response; confirm the funding transfers and the alleged prior reports.
 
@@ -1752,7 +1752,7 @@ Transcript Snippet: It's not the entire church. You know, it's not fair to come 
 
 Anchored Artifacts: A-1624.1
 Mentions: N-450, N-451, N-3
-Related Nodes: N-10411, N-11340
+Related Nodes: N-10384, N-11256
 Tags: relevance:context
 Investigative Direction: Obtain Harvest's public statement or court response to confirm it says this.
 
@@ -1768,7 +1768,7 @@ Transcript Snippet: a bunch of South Korean women have filed a unprecedented law
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10401
+Related Nodes: N-10374
 Tags: relevance:tangential
 Investigative Direction: Identify the lawsuit (court, case number, plaintiffs, filing date).
 
@@ -1784,7 +1784,7 @@ Transcript Snippet: they're quite immune uh to prosecution because that's the de
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11339, N-10401
+Related Nodes: N-11255, N-10374
 Tags: relevance:context
 Investigative Direction: Review the status-of-forces agreements for the relevant host nations and identify the host's sources.
 
@@ -1800,7 +1800,7 @@ Transcript Snippet: they will typically send someone out uh who will be a woman 
 
 Anchored Artifacts: 
 Mentions: N-3, N-47
-Related Nodes: N-11339
+Related Nodes: N-11255
 Tags: relevance:context
 Investigative Direction: Identify the host's sources and documented cases of recruiters posing as casting directors for military base access.
 
@@ -1832,7 +1832,7 @@ Transcript Snippet: I am kind of concerned why all of these pastors who seem to 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10398
+Related Nodes: N-10000, N-10371
 Tags: relevance:context
 Investigative Direction: The host names no pastors in this sentence; the TPUSA Faith pastor roster and any documented abuse allegations against them would be needed.
 
@@ -1848,7 +1848,7 @@ Transcript Snippet: because it's interesting that he's not saying it didn't happ
 
 Anchored Artifacts: A-1624.1
 Mentions: N-450, N-3
-Related Nodes: N-10411, N-11340
+Related Nodes: N-10384, N-11256
 Tags: relevance:context
 Investigative Direction: Obtain Laurie's and Harvest's public statements and court responses to compare with the host's characterization.
 
@@ -1880,7 +1880,7 @@ Transcript Snippet: He went on Tucker Carlson's show and then he was attacked an
 
 Anchored Artifacts: 
 Mentions: N-3, N-453, N-22, N-437
-Related Nodes: N-10670
+Related Nodes: N-10610
 Tags: relevance:tangential
 Investigative Direction: Review Aguilar's Tucker Carlson interview for his exact statements about Johnnie Moore and the aid sites.
 
@@ -1956,7 +1956,7 @@ Transcript Snippet: Generational farms have been quietly willed over the past fe
 
 Anchored Artifacts: A-3217.1
 Mentions: N-3
-Related Nodes: N-10408
+Related Nodes: N-10381
 Supports: C-4893
 Tags: relevance:context
 Investigative Direction: Identify the farms and recipients through county probate and deed records; the commenter gives no names.
@@ -1973,7 +1973,7 @@ Transcript Snippet: You're not supposed to put them up in a home because these h
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10408
+Related Nodes: N-10381
 Tags: relevance:tangential
 Investigative Direction: No specific facility or case is cited; elder-care abuse and bequest records would be needed.
 
@@ -1989,7 +1989,7 @@ Transcript Snippet: they stole some Samrian technology that allowed them to pred
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10413
+Related Nodes: N-10386
 Tags: relevance:tangential
 Investigative Direction: No source is given; the host defers to a later episode.
 

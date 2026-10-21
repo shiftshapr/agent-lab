@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-631",
             "N-82",
-            "N-10945"
+            "N-10866"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -58,9 +58,9 @@
             "C-9551"
           ],
           "related_nodes": [
-            "N-10068",
-            "N-10700",
-            "N-10923",
+            "N-10065",
+            "N-10637",
+            "N-10844",
             "N-591"
           ],
           "tags": [],
@@ -81,7 +81,7 @@
           ],
           "related_nodes": [
             "N-160",
-            "N-10923"
+            "N-10844"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -109,7 +109,7 @@
             "C-9560"
           ],
           "related_nodes": [
-            "N-10671",
+            "N-10611",
             "N-69"
           ],
           "tags": [],
@@ -187,8 +187,8 @@
             "N-639",
             "N-640",
             "N-641",
-            "N-10946",
-            "N-10947"
+            "N-10867",
+            "N-10868"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -207,7 +207,7 @@
           ],
           "related_nodes": [
             "N-639",
-            "N-10946"
+            "N-10867"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -317,7 +317,7 @@
             "N-646",
             "N-14",
             "N-579",
-            "N-10538"
+            "N-10493"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -387,7 +387,7 @@
           ],
           "related_nodes": [
             "N-82",
-            "N-10270"
+            "N-10254"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -987,11 +987,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Accused by the host of using \"the ghost of Charlie Kirk\" against Massie and of offering private screenings of the alleged AI video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1006,14 +1006,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10068",
-      "ref": "N-10068",
+      "@type": "Organization",
+      "@id": "N-10065",
+      "ref": "N-10065",
       "name": "NSA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "First agency to respond to the host's FOIA request, redirecting it to the Office of the Secretary of War and/or the Joint Staff.",
       "related_artifacts": [
         "A-2610.1"
@@ -1025,14 +1027,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@type": "Organization",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says TPUSA has been reaching out to Daily Mail reporters about the alleged AI video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1042,14 +1046,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@type": "Place",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Site of the weekend shooting incident and of the VFT meeting with Sebastian Gorka.",
       "related_artifacts": [],
       "related_claims": [
@@ -1060,14 +1066,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10083",
-      "ref": "N-10083",
+      "@type": "Organization",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says AIPAC spent money to remove Thomas Massie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1077,14 +1085,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Linked to the host's statement that Brigitte Macron's filing wrongly calls her a dual citizen.",
       "related_artifacts": [
         "A-2616.1"
@@ -1096,14 +1106,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Mitch Snow's account, which the host says she confirmed apart from his identification of Harpole.",
       "related_artifacts": [],
       "related_claims": [
@@ -1114,32 +1125,37 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host restates that she still cannot confirm Snow's identification of Harpole.",
       "related_artifacts": [],
       "related_claims": [
         "C-9554",
-        "C-9555"
+        "C-9555",
+        "C-9557"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10538",
-      "ref": "N-10538",
+      "@type": "Event",
+      "@id": "N-10493",
+      "ref": "N-10493",
       "name": "Turning Point Action / Thomas Massie Disavowal Incident",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Schreiber's tweet says Kolvet blamed the RINO video on an intern and apologized.",
       "related_artifacts": [
         "A-2614.2"
@@ -1152,14 +1168,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10546",
-      "ref": "N-10546",
+      "@type": "Topic",
+      "@id": "N-10501",
+      "ref": "N-10501",
       "name": "Joe Kent Resignation Aftermath Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "VFT reportedly collected polling and response data around Kent's resignation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1169,14 +1187,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10551",
-      "ref": "N-10551",
+      "@type": "Topic",
+      "@id": "N-10505",
+      "ref": "N-10505",
       "name": "Joe Kent Leak Accusation Chain",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host says Kent is being called a leaker for investigating the assassination.",
       "related_artifacts": [],
       "related_claims": [
@@ -1186,14 +1205,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10501"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10605",
-      "ref": "N-10605",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10552",
+      "ref": "N-10552",
       "name": "Erika Kirk–Victor Marx Relationship Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "A viewer comment asserts the two are close.",
       "related_artifacts": [],
       "related_claims": [
@@ -1203,14 +1224,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The White House Correspondents' Dinner shooting is the context for the amplification email and the host's FOIA requests.",
       "related_artifacts": [],
       "related_claims": [
@@ -1221,31 +1243,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10643",
-      "ref": "N-10643",
-      "name": "Harpole Fort Huachuca Alibi Question",
-      "type": "investigation_target",
-      "description": "The host restates Harpole's 2:30 p.m. Texas–Salt Lake City alibi flight and offers the SAM plane as an alternative.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-9557"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's countdown asks TPUSA to release the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO, whose audio was played at AmFest.",
       "related_artifacts": [],
       "related_claims": [
@@ -1257,14 +1263,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10666",
-      "ref": "N-10666",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10512",
+      "ref": "N-10512",
       "name": "Nick Shirley Background and Backing Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host suggests Shirley's naming in the Cuccia thread points to outside platforming.",
       "related_artifacts": [],
       "related_claims": [
@@ -1274,14 +1281,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10671",
-      "ref": "N-10671",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10611",
+      "ref": "N-10611",
       "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host recaps the SAM 702 route and timing and says she has filed a FOIA request about who was aboard.",
       "related_artifacts": [
         "A-2611.1"
@@ -1297,14 +1305,16 @@
       "evidence_count": 1,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10700",
-      "ref": "N-10700",
+      "@type": "Topic",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The NSA's redirect and the new SAM 702 request are added to the host's FOIA trail.",
       "related_artifacts": [
         "A-2610.1"
@@ -1317,14 +1327,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10815",
-      "ref": "N-10815",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10739",
+      "ref": "N-10739",
       "name": "NCRI Report Provenance and Authorship",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host names NCRI as a group VFT suggested collaborating with and as the author of the \"Christ is King\" report featuring her face.",
       "related_artifacts": [],
       "related_claims": [
@@ -1335,14 +1346,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10887",
-      "ref": "N-10887",
+      "@type": "Place",
+      "@id": "N-10808",
+      "ref": "N-10808",
       "name": "Las Vegas",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The host says the SAM plane flies around Las Vegas, where Kash Patel is from.",
       "related_artifacts": [],
       "related_claims": [
@@ -1352,7 +1364,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515"
     },
     {
       "@type": "Person",
@@ -1554,8 +1568,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10945",
-      "ref": "N-10945",
+      "@id": "N-10866",
+      "ref": "N-10866",
       "name": "The Hollywood Reporter",
       "type": "organization",
       "description": "Entertainment trade publication that ran the headline \"How Hunter Biden ended up in Candace Owens' home studio next to her Brigitte Macron doll,\" which the host shows at the top of the episode.",
@@ -1572,14 +1586,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-631"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q41298"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@type": "Thing",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: the internal email that, according to the host, asked for Erika Kirk's \"I Want to Go Home\" clip from the night of the White House Correspondents' Dinner shooting to be artificially boosted. The host says it described her as an emotional asset, sought to make the clip number one overnight and asked for surrogates to push it, about an hour after the shooting. The White House denied only that the White House Military Office drafted it, and the NSA redirected the host's FOIA request to the Office of the Secretary of War and/or the Joint Staff.",
       "related_artifacts": [
         "A-2610.1",
@@ -1601,12 +1617,14 @@
       "related_nodes": [
         "N-160",
         "N-2"
-      ]
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
       "@type": "Organization",
-      "@id": "N-10946",
-      "ref": "N-10946",
+      "@id": "N-10867",
+      "ref": "N-10867",
       "name": "Vine & Fig Tree",
       "type": "organization",
       "description": "Pro-Israel organization (\"VFT\") that Gabrielle Cuccia says has ties to the administration and met Sebastian Gorka at the White House. According to her thread, it commissioned a script for an AI-generated video for the NSC and kept reports profiling conservative and dissident-right accounts as susceptible to foreign influence. Its Dropbox reportedly held material on burner profiles, burner ad accounts, troll content briefs and audience segmentation.",
@@ -1636,12 +1654,14 @@
       "related_nodes": [
         "N-639",
         "N-640"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-10947",
-      "ref": "N-10947",
+      "@id": "N-10868",
+      "ref": "N-10868",
       "name": "National Security Council",
       "type": "organization",
       "description": "The host says Shawn Chenoweth is its director of cognitive advantage. According to Cuccia's thread, the VFT AI-generated video was to be made on behalf of the NSC and Sebastian Gorka.",
@@ -1659,12 +1679,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-641"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
       "@type": "Topic",
-      "@id": "N-10916",
-      "ref": "N-10916",
+      "@id": "N-10837",
+      "ref": "N-10837",
       "name": "Thomas Massie Kentucky Primary Outside Spending",
       "type": "topic",
       "description": "Investigation target: the outside money the host says AIPAC spent to remove Thomas Massie, whom the host implies lost his race. Also includes TPUSA's public and private positions on the race.",
@@ -1679,8 +1701,9 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-579",
-        "N-10083"
-      ]
+        "N-10070"
+      ],
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -1694,7 +1717,7 @@
         "A-2609.1"
       ],
       "related_nodes": [
-        "N-10945"
+        "N-10866"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -1730,7 +1753,7 @@
       "claim": "The host says another shooting incident happened at the White House over the weekend, in which the perpetrator fired shots and was killed, and nobody else died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10075"
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:03:18",
@@ -1748,8 +1771,8 @@
       "claim": "The host says an internal email she shared asked for the artificial boosting of Erika Kirk's \"I Want to Go Home\" clip, described her as an emotional asset and sought to make the clip number one overnight with help from surrogates, about an hour after the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923",
-        "N-10637"
+        "N-10844",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:04:25",
@@ -1769,15 +1792,15 @@
         "A-2610.2"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10637"
+        "N-10844",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:05:12",
       "investigative_direction": "The White House press office's written reply to the host's comment request, and whether other offices sent messages on the same distribution lists.",
       "transcript_snippet": "But we noticed that specific language, that specific verbiage, that specific denial. The White House Military Office did not draft the email.",
       "mentions_person_refs": [
-        "N-10637"
+        "N-10582"
       ]
     },
     {
@@ -1790,7 +1813,7 @@
         "A-2610.2"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:05:12",
@@ -1810,7 +1833,7 @@
         "A-2610.2"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:05:12",
@@ -1830,17 +1853,17 @@
         "A-2610.1"
       ],
       "related_nodes": [
-        "N-10068",
-        "N-10700",
-        "N-10923"
+        "N-10065",
+        "N-10637",
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:06:15",
       "investigative_direction": "The NSA FOIA response letter and case number, and the tracking number assigned by the Office of the Secretary of War / Joint Staff FOIA office.",
       "transcript_snippet": "They wrote, \"You do not appear to be seeking records created or controlled by the NSA. We redirected your request to the Office of the Secretary of War and/or the uh Joint Staff.\"",
       "mentions_person_refs": [
-        "N-10700",
-        "N-10923"
+        "N-10637",
+        "N-10844"
       ]
     },
     {
@@ -1853,7 +1876,7 @@
         "A-2610.1"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:07:05",
@@ -1873,7 +1896,7 @@
         "A-2616.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:07:53",
@@ -1915,8 +1938,8 @@
       "claim": "The host restates Mitch Snow's account that, on the morning at Fort Huachuca after he says he saw Erika Kirk at a hotel, he saw Brian Harpole walking out of a meeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367",
-        "N-10373"
+        "N-10342",
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:08:43",
@@ -1936,8 +1959,8 @@
       "claim": "The host says she confirmed that Mitch Snow was at Fort Huachuca and that the police were called, but she still cannot confirm his memory of who he saw.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367",
-        "N-10373"
+        "N-10342",
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -1958,7 +1981,7 @@
         "A-2611.1"
       ],
       "related_nodes": [
-        "N-10671"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -1975,7 +1998,7 @@
         "A-2611.1"
       ],
       "related_nodes": [
-        "N-10643"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -1995,7 +2018,7 @@
         "A-2611.1"
       ],
       "related_nodes": [
-        "N-10671"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:10:53",
@@ -2012,7 +2035,7 @@
         "A-2611.2"
       ],
       "related_nodes": [
-        "N-10671"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:12:02",
@@ -2032,8 +2055,8 @@
         "A-2611.1"
       ],
       "related_nodes": [
-        "N-10671",
-        "N-10887"
+        "N-10611",
+        "N-10808"
       ],
       "tags": [],
       "claim_timestamp": "00:12:02",
@@ -2051,8 +2074,8 @@
       "claim": "The host says she decided to file a FOIA request about the SAM flight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10671",
-        "N-10700"
+        "N-10611",
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:12:46",
@@ -2091,8 +2114,8 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946",
-        "N-10075"
+        "N-10867",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:15:42",
@@ -2113,8 +2136,8 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946",
-        "N-10947"
+        "N-10867",
+        "N-10868"
       ],
       "tags": [],
       "claim_timestamp": "00:15:42",
@@ -2136,8 +2159,8 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946",
-        "N-10947"
+        "N-10867",
+        "N-10868"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30",
@@ -2158,7 +2181,7 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30",
@@ -2180,7 +2203,7 @@
         "A-2612.3"
       ],
       "related_nodes": [
-        "N-10946"
+        "N-10867"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30",
@@ -2200,7 +2223,7 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946"
+        "N-10867"
       ],
       "tags": [],
       "claim_timestamp": "00:17:38",
@@ -2227,8 +2250,8 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946",
-        "N-10546"
+        "N-10867",
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:17:38",
@@ -2249,7 +2272,7 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946"
+        "N-10867"
       ],
       "tags": [],
       "claim_timestamp": "00:17:38",
@@ -2270,7 +2293,7 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946"
+        "N-10867"
       ],
       "tags": [],
       "claim_timestamp": "00:18:21",
@@ -2291,7 +2314,7 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946"
+        "N-10867"
       ],
       "tags": [],
       "claim_timestamp": "00:21:20",
@@ -2314,8 +2337,8 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946",
-        "N-10815"
+        "N-10867",
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:21:20",
@@ -2334,7 +2357,7 @@
       "claim": "The host says NCRI produced the report featuring her face that claimed \"Christ is King\" was antisemitic, and that Johnnie Moore and Jordan Peterson were also on that report.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:21:20",
@@ -2354,7 +2377,7 @@
       "claim": "The host says Joe Kent has been called weak and a leaker for trying to investigate whether the assassination was a foreign influence operation, and that the organization Erika Kirk heads got behind the smearing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10551",
+        "N-10505",
         "N-10000"
       ],
       "tags": [],
@@ -2376,7 +2399,7 @@
         "A-2612.2"
       ],
       "related_nodes": [
-        "N-10946"
+        "N-10867"
       ],
       "tags": [],
       "claim_timestamp": "00:22:35",
@@ -2398,7 +2421,7 @@
         "A-2612.3"
       ],
       "related_nodes": [
-        "N-10946"
+        "N-10867"
       ],
       "tags": [],
       "claim_timestamp": "00:23:55",
@@ -2523,7 +2546,7 @@
       "claim": "The host says it has been 54 days with no response to her request that Blake Neff and TPUSA release the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664",
+        "N-10606",
         "N-10000"
       ],
       "tags": [],
@@ -2544,9 +2567,9 @@
       "claim": "The host says TPUSA has been reaching out to Daily Mail reporters about the video and compares the offered private screening to the October 7th video screenings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070",
+        "N-10067",
         "N-10000",
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:34:11",
@@ -2554,7 +2577,7 @@
       "transcript_snippet": "I don't know why they're reaching out to Daily Mail reporters and we're saying they can have a screening like it's like the October 7th video.",
       "mentions_person_refs": [
         "N-10000",
-        "N-10664"
+        "N-10606"
       ]
     },
     {
@@ -2565,7 +2588,7 @@
       "claim": "The host says TPUSA played the audio as Erika Kirk's walkout music at AmFest, so it should also release the video.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:35:01",
@@ -2631,7 +2654,7 @@
         "A-2614.2"
       ],
       "related_nodes": [
-        "N-10538",
+        "N-10493",
         "N-10000"
       ],
       "tags": [],
@@ -2654,7 +2677,7 @@
         "A-2614.2"
       ],
       "related_nodes": [
-        "N-10538",
+        "N-10493",
         "N-10000"
       ],
       "tags": [],
@@ -2715,7 +2738,7 @@
         "A-2615.1"
       ],
       "related_nodes": [
-        "N-10605"
+        "N-10552"
       ],
       "tags": [],
       "claim_timestamp": "00:45:41",
@@ -2753,8 +2776,8 @@
       "claim": "The host says Charlie Kirk would not have appreciated money being spent by AIPAC to remove Thomas Massie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10083",
-        "N-10916"
+        "N-10070",
+        "N-10837"
       ],
       "tags": [],
       "claim_timestamp": "00:47:37",

@@ -69,7 +69,7 @@
             "C-11378"
           ],
           "related_nodes": [
-            "N-10751"
+            "N-10681"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -94,7 +94,7 @@
             "C-11386"
           ],
           "related_nodes": [
-            "N-10751"
+            "N-10681"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-11418"
           ],
           "related_nodes": [
-            "N-10752"
+            "N-10682"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -370,7 +370,7 @@
             "C-11395"
           ],
           "related_nodes": [
-            "N-10750",
+            "N-10680",
             "N-487",
             "N-492"
           ],
@@ -400,7 +400,7 @@
           "related_nodes": [
             "N-3",
             "N-176",
-            "N-10749"
+            "N-10679"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -429,8 +429,8 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10070",
-            "N-10743",
+            "N-10067",
+            "N-10675",
             "N-14"
           ],
           "tags": [],
@@ -489,7 +489,7 @@
             "N-1",
             "N-3",
             "N-10003",
-            "N-10385"
+            "N-10358"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -547,7 +547,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-11202",
+            "N-11118",
             "N-2"
           ],
           "tags": [],
@@ -576,8 +576,8 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-11053",
-            "N-11202",
+            "N-10971",
+            "N-11118",
             "N-3"
           ],
           "tags": [],
@@ -605,7 +605,7 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-10483"
+            "N-10449"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -638,8 +638,8 @@
             "N-14",
             "N-493",
             "N-3",
-            "N-10752",
-            "N-10075",
+            "N-10682",
+            "N-10072",
             "N-36"
           ],
           "tags": [],
@@ -653,11 +653,11 @@
   ],
   "nodes": [
     {
-      "@type": "Topic",
-      "@id": "N-10753",
-      "ref": "N-10753",
+      "@type": "Thing",
+      "@id": "N-10683",
+      "ref": "N-10683",
       "name": "Andrew Kolvet X Post and Community Note Bundle",
-      "type": "topic",
+      "type": "thing",
       "description": "",
       "related_artifacts": [],
       "related_claims": [],
@@ -665,14 +665,15 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "SocialMediaPosting"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10749",
-      "ref": "N-10749",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10679",
+      "ref": "N-10679",
       "name": "Amaro Resignation Cause",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target. Utah Chief Medical Examiner Dr. Deirdre Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a \"general sense of corruption.\"",
       "related_artifacts": [],
       "related_claims": [],
@@ -682,15 +683,17 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10141"
-      ]
+        "N-10136"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10175"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10750",
-      "ref": "N-10750",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10680",
+      "ref": "N-10680",
       "name": "911 Call Content Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target. Host reports a \"solid tip\" alleging that a 911 call from Charlie's security team during transport to the hospital lasted 3–5 minutes, included phrases \"We got him. We are taking him to the hospital\" and \"Get that off of him,\" and was purged from released call records. No primary audio, transcript, or record request response displayed.",
       "related_artifacts": [
         "A-2197.1"
@@ -706,14 +709,16 @@
       "related_nodes": [
         "N-487",
         "N-492"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10663"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10751",
-      "ref": "N-10751",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10681",
+      "ref": "N-10681",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target. Host publicly raised whether Charlie Kirk was cremated; both Blake Neff and Erika Kirk publicly refused to confirm. Host cites Charlie's prior stated preference against cremation. No primary documentation of burial/cremation status displayed.",
       "related_artifacts": [
         "A-2190.1",
@@ -728,14 +733,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10752",
-      "ref": "N-10752",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10682",
+      "ref": "N-10682",
       "name": "TPUSA White House Meeting Coordination with Netanyahu Trip",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Minas were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.",
       "related_artifacts": [
         "A-2194.1"
@@ -748,7 +754,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1298,11 +1305,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1321,14 +1328,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10003",
       "ref": "N-10003",
       "name": "Charlie-Candace Friendship Continuity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1345,14 +1354,15 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10004",
       "ref": "N-10004",
       "name": "Kanye Tweet About Candace Owens",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1362,14 +1372,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SocialMediaPosting"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1379,14 +1390,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1397,14 +1410,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10021",
       "ref": "N-10021",
       "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1414,14 +1429,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1431,14 +1447,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@type": "Organization",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1450,14 +1467,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@type": "Place",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1468,14 +1487,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10094",
-      "ref": "N-10094",
+      "@type": "Organization",
+      "@id": "N-10090",
+      "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1485,14 +1506,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@type": "Topic",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1503,14 +1526,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10369",
-      "ref": "N-10369",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10344",
+      "ref": "N-10344",
       "name": "Charlie Kirk SUV Interior Black Plastic Fragmentation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1520,14 +1544,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@type": "Topic",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1537,14 +1562,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@type": "Topic",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1554,14 +1580,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10483",
-      "ref": "N-10483",
+      "@type": "Topic",
+      "@id": "N-10449",
+      "ref": "N-10449",
       "name": "Erika's Mother Medical Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1571,14 +1598,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10537",
-      "ref": "N-10537",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10492",
+      "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1588,14 +1616,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10641",
-      "ref": "N-10641",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10586",
+      "ref": "N-10586",
       "name": "Andrew Kolvet Text Message Full Context Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1605,14 +1634,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-11295"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10692",
-      "ref": "N-10692",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10630",
+      "ref": "N-10630",
       "name": "911 Call Origin in Hospital Transport Vehicle",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1623,14 +1654,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10663"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10705",
-      "ref": "N-10705",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10641",
+      "ref": "N-10641",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1640,14 +1673,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10697"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10729",
-      "ref": "N-10729",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10663",
+      "ref": "N-10663",
       "name": "911 Call Identification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1661,14 +1696,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10740",
-      "ref": "N-10740",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10672",
+      "ref": "N-10672",
       "name": "SUV Interior Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1678,14 +1714,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10743",
-      "ref": "N-10743",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10675",
+      "ref": "N-10675",
       "name": "Daily Mail Article Source Identity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1697,14 +1734,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10944",
-      "ref": "N-10944",
+      "@type": "Topic",
+      "@id": "N-10865",
+      "ref": "N-10865",
       "name": "Kouri Richins Murder Case",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1714,14 +1752,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11053",
-      "ref": "N-11053",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10971",
+      "ref": "N-10971",
       "name": "Charlie Kirk Handheld Microphone Custody",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1731,14 +1770,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11149",
-      "ref": "N-11149",
+      "@type": "Event",
+      "@id": "N-11065",
+      "ref": "N-11065",
       "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1749,7 +1789,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -1804,8 +1846,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11202",
-      "ref": "N-11202",
+      "@id": "N-11118",
+      "ref": "N-11118",
       "name": "Public Casket Footage and Memorial Spectacle",
       "type": "topic",
       "description": "The host's catalogue of Charlie Kirk's death being made public: casket footage within 24 hours, the bloody microphone used for fundraising, a recreated tent opened for selfies, set against refusal to say whether he was cremated.",
@@ -1821,14 +1863,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11203",
-      "ref": "N-11203",
+      "@type": "Event",
+      "@id": "N-11119",
+      "ref": "N-11119",
       "name": "Make Heaven Crowded Tour",
-      "type": "topic",
+      "type": "event",
       "description": "The Turning Point Faith speaking tour on which Erika Kirk appeared at Pursuit Church in Washington state; the transcript sometimes renders it \"Make Kevin Crowded\".",
       "related_artifacts": [],
       "related_claims": [
@@ -1841,12 +1884,14 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Topic",
-      "@id": "N-11204",
-      "ref": "N-11204",
+      "@id": "N-11120",
+      "ref": "N-11120",
       "name": "Twitch Memorial NDA Claim",
       "type": "topic",
       "description": "The claim, relayed by a commenter and a family, that relatives of Stephen \"Twitch\" Boss were asked to sign non-disclosure agreements to attend his memorial, which the host links to parallels with the Kirk case.",
@@ -1858,12 +1903,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
-      "@id": "N-11205",
-      "ref": "N-11205",
+      "@id": "N-11121",
+      "ref": "N-11121",
       "name": "Christians United for Israel",
       "type": "organization",
       "description": "Pro-Israel Christian advocacy organization the host says Pastor Russell works with.",
@@ -1875,14 +1921,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11206",
-      "ref": "N-11206",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11122",
+      "ref": "N-11122",
       "name": "Charlie Kirk Wedding Ring Whereabouts",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Question of whether Charlie Kirk's wedding ring fell from his finger at the scene and was never recovered, raised through a viewer comment.",
       "related_artifacts": [],
       "related_claims": [
@@ -1893,7 +1941,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     }
   ],
   "claims": [
@@ -1944,7 +1993,7 @@
         "A-2190.1"
       ],
       "related_nodes": [
-        "N-10751"
+        "N-10681"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -1965,7 +2014,7 @@
         "A-2191.1"
       ],
       "related_nodes": [
-        "N-10751"
+        "N-10681"
       ],
       "tags": [],
       "claim_timestamp": "00:13:20",
@@ -2039,7 +2088,7 @@
         "A-2194.1"
       ],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [],
       "claim_timestamp": "00:32:55",
@@ -2078,7 +2127,7 @@
       "claim": "Candace Owens claims an exclusive report that Dr. Deirdre Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10749"
+        "N-10679"
       ],
       "tags": [],
       "claim_timestamp": "00:01:07",
@@ -2114,7 +2163,7 @@
         "A-2197.1"
       ],
       "related_nodes": [
-        "N-10750"
+        "N-10680"
       ],
       "tags": [],
       "claim_timestamp": "00:17:17",
@@ -2132,7 +2181,7 @@
       "claim": "The host says Dr. Deirdre Amaro became Utah's chief medical examiner on July 1, 2024, and would have signed off on Charlie Kirk's autopsy report.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10749"
+        "N-10679"
       ],
       "tags": [
         "relevance:context"
@@ -2197,7 +2246,7 @@
         "A-2978.1"
       ],
       "related_nodes": [
-        "N-10749"
+        "N-10679"
       ],
       "tags": [
         "relevance:context"
@@ -2220,8 +2269,8 @@
         "A-2979.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10743"
+        "N-10067",
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -2247,8 +2296,8 @@
         "A-2979.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10743"
+        "N-10067",
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -2274,8 +2323,8 @@
         "A-2979.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10743"
+        "N-10067",
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -2442,7 +2491,7 @@
         "A-2981.1"
       ],
       "related_nodes": [
-        "N-10385",
+        "N-10358",
         "N-10003"
       ],
       "tags": [
@@ -2507,7 +2556,7 @@
         "A-2189.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10586"
       ],
       "tags": [
         "relevance:core"
@@ -2596,7 +2645,7 @@
       "claim": "The host says she dropped a simple yes-or-no question online about whether Charlie Kirk was cremated, which she may or may not know the answer to.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -2622,7 +2671,7 @@
         "A-2983.1"
       ],
       "related_nodes": [
-        "N-11202"
+        "N-11118"
       ],
       "tags": [
         "relevance:core"
@@ -2645,7 +2694,7 @@
         "A-2983.1"
       ],
       "related_nodes": [
-        "N-11202"
+        "N-11118"
       ],
       "tags": [
         "relevance:core"
@@ -2668,8 +2717,8 @@
         "A-2984.1"
       ],
       "related_nodes": [
-        "N-11053",
-        "N-11202"
+        "N-10971",
+        "N-11118"
       ],
       "tags": [
         "relevance:core"
@@ -2695,7 +2744,7 @@
         "A-2984.1"
       ],
       "related_nodes": [
-        "N-11202"
+        "N-11118"
       ],
       "tags": [
         "relevance:context"
@@ -2715,7 +2764,7 @@
       "claim": "The host says the tent under which Charlie was murdered was recreated and opened for selfie business.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11202"
+        "N-11118"
       ],
       "tags": [
         "relevance:core"
@@ -2738,7 +2787,7 @@
         "A-2985.1"
       ],
       "related_nodes": [
-        "N-10483"
+        "N-10449"
       ],
       "tags": [
         "relevance:context"
@@ -2762,7 +2811,7 @@
       ],
       "related_nodes": [
         "N-10006",
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -2787,7 +2836,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -2810,7 +2859,7 @@
         "A-2191.1"
       ],
       "related_nodes": [
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -2831,7 +2880,7 @@
       "claim": "The host says Charlie specifically told her he never wanted to be cremated, which is why she is personally interested in the question.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -2852,7 +2901,7 @@
       "claim": "The host says Brian Harpole was very clear in her lawsuit that a 911 call took place, but because she believes he lies in the lawsuit she was unsure whether to believe it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10692"
+        "N-10630"
       ],
       "tags": [
         "relevance:core"
@@ -2876,7 +2925,7 @@
       "claim": "The host says many records requests have been made and independent investigators have downloaded and listened through all of the released calls, but no one can find the security team's en route 911 call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729"
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -2899,7 +2948,7 @@
       "claim": "The host says that although TPUSA's accounts give a near play-by-play of the ride to the hospital, no one wants to take credit for dialing out to emergency services.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729"
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -2922,7 +2971,7 @@
       "claim": "The host says TPUSA's accounts cast everyone as a hero: Frank Turek maybe or maybe not doing CPR while no one is looking, and Mikey McCoy jumping into action by dialing up the vice president and making arrangements, yet nobody claims the 911 call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10692"
+        "N-10630"
       ],
       "tags": [
         "relevance:core"
@@ -2944,7 +2993,7 @@
       "claim": "The host says that since the preliminary hearing it seems people are starting to speak out, and that she has a lot more coming.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:context"
@@ -2966,7 +3015,7 @@
         "A-2197.1"
       ],
       "related_nodes": [
-        "N-10750"
+        "N-10680"
       ],
       "tags": [
         "relevance:core"
@@ -2991,7 +3040,7 @@
         "A-2197.1"
       ],
       "related_nodes": [
-        "N-10750"
+        "N-10680"
       ],
       "tags": [
         "relevance:core"
@@ -3016,9 +3065,9 @@
         "A-2197.1"
       ],
       "related_nodes": [
-        "N-10537",
-        "N-10705",
-        "N-10750"
+        "N-10492",
+        "N-10641",
+        "N-10680"
       ],
       "tags": [
         "relevance:context"
@@ -3041,7 +3090,7 @@
         "A-2197.1"
       ],
       "related_nodes": [
-        "N-10750"
+        "N-10680"
       ],
       "tags": [
         "relevance:context"
@@ -3064,8 +3113,8 @@
         "A-2197.1"
       ],
       "related_nodes": [
-        "N-10729",
-        "N-10750"
+        "N-10663",
+        "N-10680"
       ],
       "tags": [
         "relevance:core"
@@ -3088,7 +3137,7 @@
       "claim": "The host says the TPUSA team members who narrate everyone's actions (Harpole, Rick Cutler, Justin Davis) are reluctant to share who specifically dialed 911, although Brian Harpole says \"We dialed 911.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729"
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -3114,7 +3163,7 @@
       "claim": "The host says she thinks she will be able to firmly confirm who \"we\" is, meaning who dialed 911, in the coming weeks, maybe even this week.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729"
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -3136,7 +3185,7 @@
         "A-2192.1"
       ],
       "related_nodes": [
-        "N-11203"
+        "N-11119"
       ],
       "tags": [
         "relevance:context"
@@ -3160,7 +3209,7 @@
         "A-2192.1"
       ],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -3182,7 +3231,7 @@
         "A-2192.2"
       ],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -3225,7 +3274,7 @@
         "A-2192.1"
       ],
       "related_nodes": [
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -3247,7 +3296,7 @@
         "A-2193.1"
       ],
       "related_nodes": [
-        "N-11203"
+        "N-11119"
       ],
       "tags": [
         "relevance:context"
@@ -3267,7 +3316,7 @@
       "claim": "The host says Vivian Kubrick, Stanley Kubrick's daughter, posted on X that no one knows what the people at this event are saying.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11203"
+        "N-11119"
       ],
       "tags": [
         "relevance:tangential"
@@ -3290,7 +3339,7 @@
         "A-2193.1"
       ],
       "related_nodes": [
-        "N-11203"
+        "N-11119"
       ],
       "tags": [
         "relevance:context"
@@ -3333,8 +3382,8 @@
         "A-2986.1"
       ],
       "related_nodes": [
-        "N-10752",
-        "N-10075"
+        "N-10682",
+        "N-10072"
       ],
       "tags": [
         "relevance:core"
@@ -3359,7 +3408,7 @@
         "A-2986.1"
       ],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [
         "relevance:context"
@@ -3382,7 +3431,7 @@
         "A-2194.1"
       ],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [
         "relevance:core"
@@ -3409,7 +3458,7 @@
         "A-2194.1"
       ],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [
         "relevance:context"
@@ -3433,7 +3482,7 @@
         "A-2986.1"
       ],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [
         "relevance:core"
@@ -3456,7 +3505,7 @@
         "A-2986.1"
       ],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [
         "relevance:context"
@@ -3477,8 +3526,8 @@
       "claim": "The host says her sources have been able to give photos of the SUV after Charlie was taken to the hospital, among other information and eyewitness accounts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10740",
-        "N-10369"
+        "N-10672",
+        "N-10344"
       ],
       "tags": [
         "relevance:core"
@@ -3501,7 +3550,7 @@
         "A-2986.1"
       ],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [
         "relevance:core"
@@ -3524,8 +3573,8 @@
         "A-2986.1"
       ],
       "related_nodes": [
-        "N-10752",
-        "N-10075"
+        "N-10682",
+        "N-10072"
       ],
       "tags": [
         "relevance:core"
@@ -3548,7 +3597,7 @@
       "claim": "The host says Benjamin Netanyahu is coming to Washington under the guise of Lindsey Graham's state funeral, which she says is just a guise.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [
         "relevance:context"
@@ -3570,7 +3619,7 @@
       "claim": "The host says Netanyahu is saying he is flying in for the same reason Zelensky is, which she says is that when these killers come to DC it is to dictate their terms, and that Netanyahu will probably be in the situation room telling Trump who else has to die.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [
         "relevance:tangential"
@@ -3593,7 +3642,7 @@
       "claim": "The host says Andrew Kolvet (spelled Kobach in the transcript) is on record saying he does not like Lindsey Graham, so a trip to the White House would not be about Graham's funeral.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10752"
+        "N-10682"
       ],
       "tags": [
         "relevance:context"
@@ -3683,7 +3732,7 @@
         "A-2196.2"
       ],
       "related_nodes": [
-        "N-11204"
+        "N-11120"
       ],
       "tags": [
         "relevance:context"
@@ -3706,7 +3755,7 @@
       "claim": "The host says her investigation would not have been possible without many people in the Mormon church, and some who left it, who were suspicious and provided information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10094"
+        "N-10090"
       ],
       "tags": [
         "relevance:context"
@@ -3726,7 +3775,7 @@
       "claim": "The host refers to \"that Kouri Richins girl who killed her husband\" as an example of troubling Utah wife stories.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10944"
+        "N-10865"
       ],
       "tags": [
         "relevance:tangential"
@@ -3749,7 +3798,7 @@
         "A-2192.2"
       ],
       "related_nodes": [
-        "N-11205"
+        "N-11121"
       ],
       "tags": [
         "relevance:context"
@@ -3868,7 +3917,7 @@
       "related_nodes": [
         "N-10021",
         "N-10022",
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3891,7 +3940,7 @@
         "A-2196.5"
       ],
       "related_nodes": [
-        "N-11206"
+        "N-11122"
       ],
       "tags": [
         "relevance:core"
@@ -3914,7 +3963,7 @@
         "A-2196.5"
       ],
       "related_nodes": [
-        "N-11206",
+        "N-11122",
         "N-10012"
       ],
       "tags": [

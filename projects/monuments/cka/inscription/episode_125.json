@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10714"
+            "N-10650"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -49,7 +49,7 @@
             "C-10698"
           ],
           "related_nodes": [
-            "N-10714"
+            "N-10650"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -75,7 +75,7 @@
             "C-10698"
           ],
           "related_nodes": [
-            "N-10714"
+            "N-10650"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -101,7 +101,7 @@
             "C-10698"
           ],
           "related_nodes": [
-            "N-10714"
+            "N-10650"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -119,7 +119,7 @@
             "C-10698"
           ],
           "related_nodes": [
-            "N-10714"
+            "N-10650"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -171,7 +171,7 @@
             "C-10711"
           ],
           "related_nodes": [
-            "N-10715"
+            "N-10651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -200,7 +200,7 @@
             "C-10732"
           ],
           "related_nodes": [
-            "N-10716",
+            "N-10652",
             "N-11"
           ],
           "tags": [],
@@ -310,7 +310,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-10716"
+            "N-10652"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -519,11 +519,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10714",
-      "ref": "N-10714",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10650",
+      "ref": "N-10650",
       "name": "Unidentified Burnt Object in Charlie Kirk's SUV",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target. Object left in backseat of SUV used to transport Charlie Kirk to hospital. Multiple expert viewer tips (fashion industry, plastic surgery nurse, mother of 10) identify object as melted polyester shirt/burnt fabric. Host performed burn-replication experiment with 50% polyester shirt.",
       "related_artifacts": [
         "A-2129.2",
@@ -541,14 +541,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10672"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Blake Neff's inability to recall destination, driver, or passengers of the second SUV during the morning gap (Salt Lake City landing to UVU event) on September 10, 2025.",
       "related_artifacts": [
         "A-2133.1"
@@ -562,14 +564,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10716",
-      "ref": "N-10716",
+      "@type": "Topic",
+      "@id": "N-10652",
+      "ref": "N-10652",
       "name": "Bank of America Merrill Lynch Personnel Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: multiple Turning Point USA personnel and associates (Thomas Patrick, Tyler Bowyer's father, Stephen Phillip, Dennis Franks Bay) with overlapping tenures at Bank of America Merrill Lynch in Chicago, 2008-2022 timeframe per host's visual guide.",
       "related_artifacts": [
         "A-2134.1"
@@ -587,7 +590,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-11"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1176,11 +1180,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1190,14 +1194,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1208,14 +1214,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1226,14 +1234,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@type": "Place",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1246,14 +1255,17 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1263,14 +1275,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1280,14 +1294,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1298,14 +1313,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1317,14 +1333,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10403",
-      "ref": "N-10403",
+      "@type": "Topic",
+      "@id": "N-10376",
+      "ref": "N-10376",
       "name": "Erika Kirk Handler Thesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1335,14 +1352,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1353,14 +1371,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@type": "Topic",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1372,14 +1392,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10528",
-      "ref": "N-10528",
+      "@type": "Topic",
+      "@id": "N-10484",
+      "ref": "N-10484",
       "name": "Arizona-Romania Pipeline Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1389,14 +1411,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10532",
-      "ref": "N-10532",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10478",
+      "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1406,14 +1430,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10681",
-      "ref": "N-10681",
+      "@type": "Thing",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1423,14 +1448,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10712",
-      "ref": "N-10712",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10648",
+      "ref": "N-10648",
       "name": "Ben Shapiro Car Ride Live Updates",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1440,14 +1466,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10624"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10730",
-      "ref": "N-10730",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10664",
+      "ref": "N-10664",
       "name": "Frank Turek FaceTime Story Inconsistency",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1459,14 +1487,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10748",
-      "ref": "N-10748",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10678",
+      "ref": "N-10678",
       "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1476,14 +1505,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10815",
-      "ref": "N-10815",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10739",
+      "ref": "N-10739",
       "name": "NCRI Report Provenance and Authorship",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1497,14 +1527,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10850",
-      "ref": "N-10850",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10773",
+      "ref": "N-10773",
       "name": "Two Grey Dodge Challengers Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1514,14 +1545,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10990",
-      "ref": "N-10990",
+      "@type": "Organization",
+      "@id": "N-10910",
+      "ref": "N-10910",
       "name": "Black Sea Rotational Force",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1531,7 +1563,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q176799"
     },
     {
       "@type": "Person",
@@ -1638,8 +1672,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11057",
-      "ref": "N-11057",
+      "@id": "N-10975",
+      "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
       "type": "topic",
       "description": "The host's account of Blake Neff's career: Fox News departure, Stew Peters, Marine Corps war gaming and hiring by Charlie Kirk.",
@@ -1653,14 +1687,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11058",
-      "ref": "N-11058",
+      "@type": "Thing",
+      "@id": "N-10976",
+      "ref": "N-10976",
       "name": "Thomas Patrick 2019 Email on Kirk Money",
-      "type": "topic",
+      "type": "thing",
       "description": "The host's account that Thomas Patrick emailed her in 2019 that Charlie Kirk was lying to her about money, during the Perlmutter dispute and a smear campaign.",
       "related_artifacts": [],
       "related_claims": [
@@ -1673,12 +1708,13 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWork"
     },
     {
       "@type": "Topic",
-      "@id": "N-11059",
-      "ref": "N-11059",
+      "@id": "N-10977",
+      "ref": "N-10977",
       "name": "Russian-Speaking Turning Point Network",
       "type": "topic",
       "description": "The host's claims that many Turning Point people and relatives speak Russian or have Russian and Ukrainian ties.",
@@ -1692,14 +1728,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11060",
-      "ref": "N-11060",
+      "@type": "Event",
+      "@id": "N-10978",
+      "ref": "N-10978",
       "name": "Bank of America Epstein Victims Settlement",
-      "type": "topic",
+      "type": "event",
       "description": "The Epstein victims' suit against Bank of America, the $170 million transfers and the settlement as described by the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1711,14 +1748,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11061",
-      "ref": "N-11061",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10979",
+      "ref": "N-10979",
       "name": "Restaurantology Event Green Room Attendance Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Who was in the restaurantology event green room and whether Frank Turek was there or in the second SUV.",
       "related_artifacts": [],
       "related_claims": [
@@ -1730,7 +1769,27 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10728"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1747,7 +1806,7 @@
         "A-2131.2"
       ],
       "related_nodes": [
-        "N-10714"
+        "N-10650"
       ],
       "tags": [],
       "claim_timestamp": "00:06:36",
@@ -1784,7 +1843,7 @@
         "A-2133.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:14:07",
@@ -1803,7 +1862,7 @@
         "A-2133.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:15:25",
@@ -1823,7 +1882,7 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-10716"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:20:15",
@@ -1844,7 +1903,7 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-10716"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:22:15",
@@ -1865,7 +1924,7 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-10716"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:24:41",
@@ -1884,7 +1943,7 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-10716"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:24:41",
@@ -1942,7 +2001,7 @@
         "A-2131.1"
       ],
       "related_nodes": [
-        "N-10714"
+        "N-10650"
       ],
       "tags": [],
       "claim_timestamp": "00:02:30",
@@ -1965,7 +2024,7 @@
         "A-2131.2"
       ],
       "related_nodes": [
-        "N-10714"
+        "N-10650"
       ],
       "tags": [],
       "claim_timestamp": "00:04:31",
@@ -1986,7 +2045,7 @@
       "claim": "The host says Baron Coleman told her he thinks the shirt Charlie Kirk was wearing was 100% polyester, and that the best she could find for her burn test was a 50% polyester mixed shirt, with a fully polyester shirt on order.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10714"
+        "N-10650"
       ],
       "tags": [],
       "claim_timestamp": "00:05:55",
@@ -2025,7 +2084,7 @@
       "claim": "The host says Blake Neff never worked for Turning Point USA if he is to be believed, and was not hired to work with Charlie Kirk in any capacity until 2022, after he was fired or had to move on from Fox News over racist comments.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11057",
+        "N-10975",
         "N-10006"
       ],
       "tags": [],
@@ -2045,7 +2104,7 @@
       "claim": "The host says Blake Neff went to work for Stew Peters and then started working with Charlie Kirk after Tucker Carlson recommended him as loyal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [],
       "claim_timestamp": "00:09:26",
@@ -2102,7 +2161,7 @@
       "claim": "The host says Blake Neff's truer background is in military strategy: he supported war gaming exercises for the Marine Corps before he was removed from that position following racist commentary.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [],
       "claim_timestamp": "00:11:15",
@@ -2120,7 +2179,7 @@
       "claim": "The host says Mikey McCoy rented two SUVs in Salt Lake City, and that one carried Charlie Kirk, Mikey McCoy, Frank Turek and John McGovern, who works in gifts at Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:11:42",
@@ -2141,7 +2200,7 @@
       "claim": "The host says Charlie Kirk did a restaurant event and his last interview with Andrew Smith before UVU, flying into Salt Lake City rather than Provo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:11:42",
@@ -2165,7 +2224,7 @@
         "A-2133.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:14:07",
@@ -2186,7 +2245,7 @@
         "A-2133.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:14:43",
@@ -2204,8 +2263,8 @@
       "claim": "The host says Mikey McCoy's call logs show him on the phone with Danny Philip before Charlie Kirk was shot at 12:02, and for 10 minutes after the shooting; she had first assumed the contact was Danny McCollum.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193",
-        "N-10338"
+        "N-10185",
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:16:38",
@@ -2242,7 +2301,7 @@
       "claim": "The host says Danny Philip was Charlie Kirk's assistant, had interned for the organization the previous summer, and was selected to fly privately with Charlie to Salt Lake City though apparently he did not assist Charlie there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:17:27",
@@ -2315,7 +2374,7 @@
       "claim": "The host says that in 2019 a smear campaign calling her anti-Semitic started, and at virtually the same time Turning Point had a major donor she thought was good to her, Thomas Patrick.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11058"
+        "N-10976"
       ],
       "tags": [],
       "claim_timestamp": "00:19:38",
@@ -2336,7 +2395,7 @@
         "A-2783.1"
       ],
       "related_nodes": [
-        "N-11058"
+        "N-10976"
       ],
       "tags": [],
       "claim_timestamp": "00:19:38",
@@ -2362,7 +2421,7 @@
         "A-2783.2"
       ],
       "related_nodes": [
-        "N-11058"
+        "N-10976"
       ],
       "tags": [],
       "claim_timestamp": "00:20:25",
@@ -2402,7 +2461,7 @@
       "claim": "The host says Thomas Patrick, a powerful Merrill Lynch executive, played a big role in convincing her that Charlie Kirk was moving behind her back.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11058"
+        "N-10976"
       ],
       "tags": [],
       "claim_timestamp": "00:21:23",
@@ -2422,7 +2481,7 @@
       "claim": "The host says that in 2008, following the financial crisis, Merrill Lynch was acquired by Bank of America and became Bank of America Merrill Lynch.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10716"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:22:09",
@@ -2437,7 +2496,7 @@
       "claim": "The host says Tyler Bowyer's father, a major executive at Bank of America Merrill Lynch, has cleaned the internet of his LinkedIn and graduated from Arizona State University.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10716"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:22:09",
@@ -2458,7 +2517,7 @@
       "claim": "The host says Tyler Bowyer speaks Russian and majored in Russian studies, and that the same is true of Danny Philip's father.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11059"
+        "N-10977"
       ],
       "tags": [],
       "claim_timestamp": "00:22:09",
@@ -2481,7 +2540,8 @@
       "claim": "The host says Irina Mappin, married to John Mappin and fluent in Russian, told her in a private phone call that the odd thing about the memorial event was that everyone was speaking Russian, and that she was disturbed by how many Russian speakers were in the VIP area.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11059"
+        "N-10977",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
@@ -2501,8 +2561,8 @@
       "claim": "The host says Elizabeth McCoy has an entire Ukrainian family and Rob McCoy adopted a girl from Russia, and lists them with Tyler Bowyer as Eastern European ties at Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11059",
-        "N-10528"
+        "N-10977",
+        "N-10484"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
@@ -2524,7 +2584,7 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-10716"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:23:55",
@@ -2548,8 +2608,8 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-10990",
-        "N-10716"
+        "N-10910",
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:24:41",
@@ -2571,7 +2631,7 @@
       "claim": "The host says Bank of America, which she says settled with Epstein victims in March, was sued because Bank of America Merrill Lynch was managing the wealth of Epstein associate Leon Black.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11060"
+        "N-10978"
       ],
       "tags": [],
       "claim_timestamp": "00:25:34",
@@ -2590,7 +2650,7 @@
       "claim": "The host says Bank of America moved $170 million to Jeffrey Epstein and that victims sued the bank for not following its own protocols and flagging suspicious financial activity that would have revealed a trafficking ring.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11060"
+        "N-10978"
       ],
       "tags": [],
       "claim_timestamp": "00:26:18",
@@ -2608,7 +2668,7 @@
       "claim": "The host says, with hedging, that Bank of America settled the Epstein victims' suit for about $79 million.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11060"
+        "N-10978"
       ],
       "tags": [],
       "claim_timestamp": "00:26:18",
@@ -2628,8 +2688,8 @@
         "A-2784.1"
       ],
       "related_nodes": [
-        "N-10850",
-        "N-10074"
+        "N-10773",
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:30:07",
@@ -2649,7 +2709,7 @@
         "A-2784.2"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:30:53",
@@ -2668,7 +2728,7 @@
       "claim": "The host says it was confirmed Charlie Kirk was in the restaurantology event green room with three people, including Johnny McGovern, Mikey McCoy and his cousin, and she is trying to work out whether Frank Turek went to the green room.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11061"
+        "N-10979"
       ],
       "tags": [],
       "claim_timestamp": "00:30:53",
@@ -2689,8 +2749,8 @@
       "claim": "The host says Frank Turek admits he left and went outside or left a little early, and that he keeps tripping over his stories.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11061",
-        "N-10730"
+        "N-10979",
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:31:43",
@@ -2710,7 +2770,7 @@
         "A-2784.3"
       ],
       "related_nodes": [
-        "N-11061"
+        "N-10979"
       ],
       "tags": [],
       "claim_timestamp": "00:31:43",
@@ -2730,8 +2790,8 @@
       "claim": "The host says she has a huge lead on who Ben Shapiro was at lunch with in Los Angeles on the morning of September 10, is vetting it, and will deliver it the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10748",
-        "N-10712"
+        "N-10678",
+        "N-10648"
       ],
       "tags": [],
       "claim_timestamp": "00:31:43",
@@ -2750,7 +2810,7 @@
       "claim": "The host says NCRI previously released a report calling Christ is King anti-Semitic during Lent, that it backfired, and that Charlie Kirk himself was among those most critical of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:32:32",
@@ -2768,7 +2828,7 @@
       "claim": "The host says Johnnie Moore, Andrew Kolvet's old partner, was on NCRI's board when the Christ is King report was published and Charlie Kirk did not care.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:32:32",
@@ -2790,7 +2850,7 @@
         "A-2136.1"
       ],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:32:32",
@@ -2814,7 +2874,7 @@
         "A-2136.1"
       ],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:32:32",
@@ -2835,8 +2895,8 @@
       "claim": "The host says she received many emails and that tons of media groups asked her to comment on the NCRI report, and that she thinks Politico asked about the report's point that her calling Erika Kirk a psychopath on the Shawn Ryan show leads people to want to kill Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10815",
-        "N-10681"
+        "N-10739",
+        "N-10619"
       ],
       "tags": [],
       "claim_timestamp": "00:33:25",
@@ -2944,7 +3004,7 @@
       "claim": "The host says that when she met Erika Kirk face to face, Erika conceded that Benjamin Netanyahu did call at Bill Ackman's house, giving as the reason that Ackman was following up on Charlie's May letter.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10446",
+        "N-10415",
         "N-10027"
       ],
       "tags": [],
@@ -2967,7 +3027,7 @@
       "claim": "The host says Andrew Kolvet told her that Benjamin Netanyahu offered to take Turning Point to the next level, which is different from Erika's explanation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:39:37",
@@ -2992,7 +3052,7 @@
       "claim": "The host says Kolvet described the Hampton Summit as being like an intervention, and that she was not at the Hampton Summit herself.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10446",
+        "N-10415",
         "N-10027"
       ],
       "tags": [],
@@ -3018,7 +3078,7 @@
         "A-2135.1"
       ],
       "related_nodes": [
-        "N-10456"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:40:20",
@@ -3043,7 +3103,7 @@
       "claim": "The host says Netanyahu was relegated to smaller influencers because Charlie Kirk did not want to have him on and was turning against Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10456"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:41:07",
@@ -3065,7 +3125,7 @@
       "claim": "The host says Charlie Kirk texted the night before his death that he was done with Israel, and that it was not a joke.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:41:07",
@@ -3085,7 +3145,7 @@
         "A-2135.1"
       ],
       "related_nodes": [
-        "N-10456",
+        "N-10425",
         "N-10018"
       ],
       "tags": [],
@@ -3109,7 +3169,7 @@
       "claim": "The host says her confirmation of the lost-income detail came from a family friend of Kolvet who wrote to say Kolvet said he lost out on millions when Charlie said no.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:42:32",
@@ -3132,7 +3192,7 @@
       "claim": "The host says someone confirmed that Kolvet lost out on residual income because he was venting about it when he came back to California.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:42:32",
@@ -3153,7 +3213,7 @@
       "claim": "The host says Kolvet knew the night before that Charlie Kirk feared he would be killed and that Kirk was on a text thread saying he had no choice but to abandon the pro-Israel cause, and never told the public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:43:28",
@@ -3172,7 +3232,7 @@
       "claim": "The host says Frank Turek's story is that he was FaceTiming his roughly 35-year-old sons in the middle of the day at 12:23 so they could hear Charlie Kirk, and she calls the story implausible.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:47:07",
@@ -3190,7 +3250,7 @@
       "claim": "The host says Frank Turek said he was on the FaceTime call forever and now says he was not, and that he keeps getting caught changing his account.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:48:27",
@@ -3225,7 +3285,7 @@
       "claim": "The host says she had begun pulling threads of Erika Kirk hanging out at a modeling firm where Epstein was hanging out, founded by Jean-Luc Brunel, and wondered about Erika's potential connections to Epstein's world.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:49:57",
@@ -3245,7 +3305,7 @@
       "claim": "The host says she was the only person Charlie Kirk hired organically without Tyler Bowyer being present, and that she feels there were handlers around Kirk after the Kanye moment.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10403"
+        "N-10376"
       ],
       "tags": [],
       "claim_timestamp": "00:50:46",
@@ -3268,7 +3328,7 @@
         "A-2785.1"
       ],
       "related_nodes": [
-        "N-10403"
+        "N-10376"
       ],
       "tags": [],
       "claim_timestamp": "00:50:46",

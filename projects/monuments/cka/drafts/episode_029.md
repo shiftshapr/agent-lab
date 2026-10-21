@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-795, N-796, N-797
-  - Hole-minted Nodes (reintro-ep029): N-225, N-451, N-10251, N-10401, N-10573, N-10576, N-10887
-  - Tip-minted Nodes (reintro-ep029): N-11064, N-11147
+  - Hole-minted Nodes (reintro-ep029): N-225, N-451, N-10237, N-10374, N-10524, N-10527, N-10808
+  - Tip-minted Nodes (reintro-ep029): N-10982, N-11064
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2558–C-2639
-  - New Nodes Introduced: N-236, N-238, N-239, N-240, N-241, N-242, N-243, N-244, N-245, N-10239, N-10240, N-10241
-  - Reused Nodes Appearing: N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-205, N-229, N-234, N-10000, N-10024, N-10063, N-10078, N-10110, N-10132, N-10149, N-10196, N-10209, N-10210, N-10224, N-10231, N-10237, N-10253, N-10319, N-10398, N-10406, N-10840, N-11099, N-11159, N-11171, N-237, N-10242, N-10436, N-10447, N-11158, N-10434
+  - New Nodes Introduced: N-236, N-238, N-239, N-240, N-241, N-242, N-243, N-244, N-245, N-10226, N-10227, N-10228
+  - Reused Nodes Appearing: N-11361, N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-205, N-229, N-234, N-10000, N-10024, N-10060, N-10075, N-10106, N-10127, N-10144, N-10188, N-10201, N-10202, N-10211, N-10218, N-10224, N-10239, N-10300, N-10371, N-10379, N-10763, N-11017, N-11075, N-11087, N-237, N-10405, N-10416, N-11074, N-10404
   - (see registers)
 
 # Episode 29 Analysis – Bride of Charlie / Monument Ep 29
@@ -39,7 +39,7 @@
 **Episode 29 Ledger Summary**
 - Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378 (15 families)
 - New Person Nodes: N-236, N-237, N-238, N-239, N-240, N-7, N-38, N-241, N-242, N-227, N-243, N-244, N-22, N-245 (14 people)
-- New Investigation Target Nodes: N-10239, N-10240, N-10241, N-10242 (4 targets)
+- New Investigation Target Nodes: N-10226, N-10227, N-10228, N-10202 (4 targets)
 - Existing Nodes Reused: N-1 (Charlie Kirk)
 
 ---
@@ -102,7 +102,7 @@ Video Timestamp: 00:08:09–00:09:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio played)
 
-*Related: C-2567, N-236, N-237, N-238, N-10241*
+*Related: C-2567, N-236, N-237, N-238, N-10228*
 
 **A-1368** CIA Spokesperson Statement Bundle
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (relayed via host; not directly displayed)
 
-*Related: C-2570, N-238, N-239, N-10241*
+*Related: C-2570, N-238, N-239, N-10228*
 
 **A-1369** Frank McCormick X Post Bundle
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:23:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (headline referenced; full article not shown)
 
-*Related: C-2595, N-10240*
+*Related: C-2595, N-10227*
 
 **A-1378** Timpanogos Tip Bundle
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:01:46–00:03:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous tip; unverified)
 
-*Related: C-2559, N-10239*
+*Related: C-2559, N-10226*
 
 ---
 
@@ -290,6 +290,16 @@ Confidence Level: Medium
 Subject of the assassination; the host speaks of his interest in the Seven Mountain Mandate, his funding questions and his shooting.
 
 *Related: C-2561, C-2563, C-2569, C-2577, C-2584, C-2585, C-2587, C-2605, C-2613, C-2614, C-2615, C-2624, C-2627, C-2630, C-2631, C-2633, C-2634, C-2638*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-2585*
 
 ---
 
@@ -421,7 +431,7 @@ Existing timeline topic reused.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Place referenced in the host's characterisation of Joel Berry.
 
@@ -429,7 +439,7 @@ Place referenced in the host's characterisation of Joel Berry.
 
 ---
 
-**N-10078** TPUSA Financial Apparatus Investigation
+**N-10075** TPUSA Financial Apparatus Investigation
 
 Existing topic reused for the finances claims.
 
@@ -437,7 +447,7 @@ Existing topic reused for the finances claims.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing topic reused.
 
@@ -445,7 +455,7 @@ Existing topic reused.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Existing topic reused.
 
@@ -453,7 +463,7 @@ Existing topic reused.
 
 ---
 
-**N-10149** Hospital Routing Discrepancy
+**N-10144** Hospital Routing Discrepancy
 
 Existing topic reused.
 
@@ -461,7 +471,7 @@ Existing topic reused.
 
 ---
 
-**N-10196** UVU Hospital Charlie Kirk Medical File Access Question
+**N-10188** UVU Hospital Charlie Kirk Medical File Access Question
 
 Existing topic reused.
 
@@ -469,7 +479,7 @@ Existing topic reused.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 Existing topic reused.
 
@@ -477,7 +487,7 @@ Existing topic reused.
 
 ---
 
-**N-10210** NAR (New Apostolic Reformation) Infiltration Question
+**N-10202** NAR (New Apostolic Reformation) Infiltration Question
 
 Existing topic reused.
 
@@ -485,7 +495,7 @@ Existing topic reused.
 
 ---
 
-**N-10224** UVU Event Approval Timeline Anomaly
+**N-10211** UVU Event Approval Timeline Anomaly
 
 Existing topic reused.
 
@@ -493,7 +503,7 @@ Existing topic reused.
 
 ---
 
-**N-10231** TPUSA / Candace Owens NDA and Blexit Question
+**N-10218** TPUSA / Candace Owens NDA and Blexit Question
 
 Existing topic reused.
 
@@ -501,7 +511,7 @@ Existing topic reused.
 
 ---
 
-**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
+**N-10224** Shapiro Statement Accuracy Re: Owens' Accusations
 
 Existing topic reused.
 
@@ -509,7 +519,7 @@ Existing topic reused.
 
 ---
 
-**N-10251** TPUSA Faith-Angle Investigation
+**N-10237** TPUSA Faith-Angle Investigation
 
 Existing topic reused.
 
@@ -517,7 +527,7 @@ Existing topic reused.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for the Wednesday preview.
 
@@ -525,7 +535,7 @@ Existing topic reused for the Wednesday preview.
 
 ---
 
-**N-10319** .30-06 Forensic Narrative Validity
+**N-10300** .30-06 Forensic Narrative Validity
 
 Existing topic reused.
 
@@ -533,7 +543,7 @@ Existing topic reused.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Existing topic reused.
 
@@ -541,7 +551,7 @@ Existing topic reused.
 
 ---
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Existing topic reused.
 
@@ -549,7 +559,7 @@ Existing topic reused.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused.
 
@@ -557,7 +567,7 @@ Existing topic reused.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Existing topic reused.
 
@@ -565,7 +575,7 @@ Existing topic reused.
 
 ---
 
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Existing topic reused.
 
@@ -573,7 +583,7 @@ Existing topic reused.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing topic reused.
 
@@ -581,7 +591,7 @@ Existing topic reused.
 
 ---
 
-**N-10573** Timpanogos Hospital Evidence Question
+**N-10524** Timpanogos Hospital Evidence Question
 
 Existing topic reused.
 
@@ -589,7 +599,7 @@ Existing topic reused.
 
 ---
 
-**N-10576** Timpanogos Hospital Records / Chain of Custody
+**N-10527** Timpanogos Hospital Records / Chain of Custody
 
 Existing topic reused.
 
@@ -597,7 +607,7 @@ Existing topic reused.
 
 ---
 
-**N-10840** UVU Ambulance Denial Discrepancy
+**N-10763** UVU Ambulance Denial Discrepancy
 
 Existing topic reused.
 
@@ -605,7 +615,7 @@ Existing topic reused.
 
 ---
 
-**N-10887** Las Vegas
+**N-10808** Las Vegas
 
 Place of the 2017 shooting.
 
@@ -613,7 +623,7 @@ Place of the 2017 shooting.
 
 ---
 
-**N-11064** Ben Shapiro and Charlie Kirk Friendship Narrative
+**N-10982** Ben Shapiro and Charlie Kirk Friendship Narrative
 
 Existing topic reused.
 
@@ -621,7 +631,7 @@ Existing topic reused.
 
 ---
 
-**N-11099** Candace Owens Australia Visa Review
+**N-11017** Candace Owens Australia Visa Review
 
 Existing topic reused.
 
@@ -629,7 +639,7 @@ Existing topic reused.
 
 ---
 
-**N-11147** January 6 Federal Coordination Claim
+**N-11064** January 6 Federal Coordination Claim
 
 Existing topic reused.
 
@@ -661,7 +671,7 @@ Father of Lance Wallnau; first named by the host at 00:17:09 in episode 29.
 
 ---
 
-**N-11158** Cult Accusation Against Candace Owens Audience
+**N-11074** Cult Accusation Against Candace Owens Audience
 
 Node Type: Topic
 Keri Smith's and others' claims that the host's show uses cult tactics, and the host's rebuttal.
@@ -670,7 +680,7 @@ Keri Smith's and others' claims that the host's show uses cult tactics, and the 
 
 ---
 
-**N-11159** Candace Owens CNN Interview and Interview Statements
+**N-11075** Candace Owens CNN Interview and Interview Statements
 
 Node Type: Topic
 Dispute over whether the host gave interviews after Charlie Kirk's death and what the CNN interview with Elle Reeve covered.
@@ -712,7 +722,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1367.1, A-1368.1, C-2567, C-2570, N-10241*
+*Related: A-1367.1, A-1368.1, C-2567, C-2570, N-10228*
 
 **N-239** Liz Lyons
 
@@ -734,7 +744,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-10242*
+*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-10202*
 
 **N-7** Frank Turek
 
@@ -837,7 +847,7 @@ Investigative Pressure: Low
 
 ### Investigation Target Nodes
 
-**N-10239** Timpanogos Hospital Footage Seizure Verification
+**N-10226** Timpanogos Hospital Footage Seizure Verification
 
 Persistent claim (host-relayed, tip-sourced) that federal agents seized hospital footage at Timpanogos on the day of the Kirk shooting; not independently corroborated in this episode.
 
@@ -848,7 +858,7 @@ Investigative Pressure: Medium
 
 *Related: A-1378.1, C-2559*
 
-**N-10240** Borderline Bar Las Vegas Survivor Pattern
+**N-10227** Borderline Bar Las Vegas Survivor Pattern
 
 Host-asserted pattern linking the November 2018 Borderline Bar & Grill shooting (with a Las Vegas survivor among the dead) to the prior 2017 Las Vegas shooting and to Rob McCoy's subsequent election as Thousand Oaks mayor.
 
@@ -859,7 +869,7 @@ Investigative Pressure: Low
 
 *Related: A-1377.1, C-2595*
 
-**N-10241** Shauni Rae Kerkhoff / Kerkhoff Identity Verification
+**N-10228** Shauni Rae Kerkhoff / Kerkhoff Identity Verification
 
 Persistent discrepancy in the episode between the spelling "Kirkup" (Steve Baker, via Glenn Beck audio) and "Kerkhoff" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.
 
@@ -870,20 +880,7 @@ Investigative Pressure: High
 
 *Related: A-1367.1, A-1368.1, C-2567, C-2570, N-238*
 
-**N-10242** Seven Mountain Mandate / NAR Influence on TPUSA Faith
-
-Persistent investigable claim that NAR figures (notably Lance Wallnau) influenced and funded Turning Point USA Faith operations, and that this represents a broader "faith-military constellation" with infiltration doctrine.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-240*
-
----
-
-**N-11171** Kirk "Internet DOGE" Money-Tracing Effort
+**N-11087** Kirk "Internet DOGE" Money-Tracing Effort
 
 The host says Charlie established DOGE (transcribed "DOAJ") after realizing something was wrong with the money. Introduced here; ep54 calls it "DOVE".
 
@@ -902,7 +899,7 @@ Claim: A Facebook post by Lance Wallnau dated November 6, 2020 was read aloud in
 Anchored Artifacts: A-1364.1
 Mentions: N-240
 
-Related Nodes: N-10242
+Related Nodes: N-10202
 
 Investigative Direction: Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.
 
@@ -915,7 +912,7 @@ Claim: In an audio clip played on the episode, Lance Wallnau defined the seven m
 Anchored Artifacts: A-1365.1
 Mentions: N-240
 
-Related Nodes: N-10242
+Related Nodes: N-10202
 
 Investigative Direction: Retrieve the full source video to verify exact wording, context, and date.
 
@@ -940,7 +937,7 @@ Claim: The host says the person responsible for dropping off the January 6 pipe 
 Anchored Artifacts: A-1367.1
 Mentions: N-236, N-237, N-238
 
-Related Nodes: N-10241
+Related Nodes: N-10228
 
 Investigative Direction: Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.
 
@@ -953,7 +950,7 @@ Claim: CIA spokeswoman Liz Lyons, as relayed by the host, stated that Shauni Ker
 Anchored Artifacts: A-1368.1
 Mentions: N-238, N-239
 
-Related Nodes: N-10241
+Related Nodes: N-10228
 
 Investigative Direction: Retrieve the original CIA press statement or statement of record to verify wording and confirm whether "Kerkhoff" and "Kirkup" refer to the same individual.
 
@@ -1061,7 +1058,7 @@ Claim: A BBC headline referenced in the episode reported that a Las Vegas shooti
 
 Anchored Artifacts: A-1377.1
 
-Related Nodes: N-10240
+Related Nodes: N-10227
 
 Investigative Direction: Retrieve the original BBC article to verify the headline, the identity of the survivor, and the broader reporting.
 
@@ -1074,7 +1071,7 @@ Claim: According to tips the host says she received, federal agents seized foota
 Anchored Artifacts: A-1378.1
 Mentions: N-1
 
-Related Nodes: N-10239
+Related Nodes: N-10226
 
 Investigative Direction: Verify via FOIA requests, hospital records, contemporaneous reporting, or independent witness testimony.
 
@@ -1105,7 +1102,7 @@ Transcript Snippet: UV was a trauma one, and Timpanogos was trauma three
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10149, N-10239
+Related Nodes: N-10144, N-10226
 Tags: relevance:core
 Investigative Direction: Check the Utah trauma center designations for both hospitals and the distance from the UVU campus.
 
@@ -1121,7 +1118,7 @@ Transcript Snippet: we started hearing from other people that he was definitely 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10149, N-10196
+Related Nodes: N-10144, N-10188
 Tags: relevance:core
 Investigative Direction: Identify the people who told the host this and compare against UV Hospital and EMS records.
 
@@ -1137,7 +1134,7 @@ Transcript Snippet: not a single person who captured them pulling up, nothing, d
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10573
+Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Identify the New York news crew present at Timpanogos and request its raw footage and logs.
 
@@ -1153,7 +1150,7 @@ Transcript Snippet: we have not seen anything regarding that that we can build i
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10024, N-10573
+Related Nodes: N-10024, N-10524
 Tags: relevance:core
 Investigative Direction: Obtain the ambulance or vehicle arrival log, hospital intake record and 911 timestamps for the Timpanogos arrival.
 
@@ -1169,7 +1166,7 @@ Transcript Snippet: the Feds moved to grab the footage inside of the hospital im
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10239, N-10576
+Related Nodes: N-10226, N-10527
 Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Ask the hospital and any federal agency for evidence receipts and chain-of-custody records for exterior and interior video.
@@ -1186,7 +1183,7 @@ Transcript Snippet: If you maybe were somebody who has footage and saw that blac
 
 Anchored Artifacts: A-2910.1
 Mentions: N-3
-Related Nodes: N-10573, N-10239
+Related Nodes: N-10524, N-10226
 Tags: relevance:core
 Investigative Direction: Check what, if anything, was later received and published in response to this request.
 
@@ -1202,7 +1199,7 @@ Transcript Snippet: I'm starting to wonder if every major publicly traumatizing 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11147
+Related Nodes: N-11064
 Tags: relevance:context
 Investigative Direction: Speculative generalization; not testable as stated beyond individual events.
 
@@ -1218,7 +1215,7 @@ Transcript Snippet: After they looked at it for about 2 hours, the response that
 
 Anchored Artifacts: A-1367.1
 Mentions: N-236, N-237, N-238
-Related Nodes: N-10241
+Related Nodes: N-10228
 Supports: C-2567
 Tags: relevance:context
 Investigative Direction: Ask Baker or Blaze Media to identify the agency level and the date he first pulled the thread; seek documentary support.
@@ -1235,7 +1232,7 @@ Transcript Snippet: A lot of people are going to get swept up in this investigat
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11147
+Related Nodes: N-11064
 Tags: relevance:context
 Investigative Direction: Predictive; track later charging, resignations or testimony tied to both matters.
 
@@ -1251,7 +1248,7 @@ Transcript Snippet: The Blaze News editor-in-chief decided to pull up to her hou
 
 Anchored Artifacts: A-1368.1
 Mentions: N-238
-Related Nodes: N-10241
+Related Nodes: N-10228
 Tags: relevance:context
 Investigative Direction: Ask Blaze News whether its editor visited the address and whether a police contact was recorded; request the local police log.
 
@@ -1267,7 +1264,7 @@ Transcript Snippet: four out of the six uh protest permits that were issued on J
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11147, N-10210
+Related Nodes: N-11064, N-10202
 Tags: relevance:context
 Investigative Direction: Check the National Park Service permit list for January 6, 2021 and the applicants' affiliations.
 
@@ -1283,7 +1280,7 @@ Transcript Snippet: 15 of these pastors and leaders surrounded Trump at the Whit
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10210, N-11147
+Related Nodes: N-10202, N-11064
 Tags: relevance:context
 Investigative Direction: Find the White House visitor logs or published photos for the meeting and the attendee list.
 
@@ -1299,7 +1296,7 @@ Transcript Snippet: There's an article about that. The new apostolic reformation
 
 Anchored Artifacts: A-2911.1
 Mentions: N-240, N-205
-Related Nodes: N-10210, N-11147
+Related Nodes: N-10202, N-11064
 Tags: relevance:context
 Investigative Direction: Identify the publication and author of the article, confirm its title and whether Wallnau and Feucht are named.
 
@@ -1315,7 +1312,7 @@ Transcript Snippet: I would say like he became mesmerized by the seven mountain 
 
 Anchored Artifacts: 
 Mentions: N-1, N-240
-Related Nodes: N-10242
+Related Nodes: N-10202
 Tags: relevance:core
 Investigative Direction: Look for public photos, posts or event appearances of Kirk with Wallnau and any Kirk remarks about the Seven Mountain Mandate.
 
@@ -1331,7 +1328,7 @@ Transcript Snippet: it started with a conversation I had in the year 2000. I had
 
 Anchored Artifacts: A-1365.1
 Mentions: N-240, N-795, N-796
-Related Nodes: N-10242
+Related Nodes: N-10202
 Supports: C-2576
 Tags: relevance:context
 Investigative Direction: Locate the original Wallnau video and compare with other tellings of the Cunningham and Bright story.
@@ -1348,7 +1345,7 @@ Transcript Snippet: Turning Point Faith, everywhere that I'm investigating, Turn
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10398, N-10251
+Related Nodes: N-10371, N-10237
 Tags: relevance:core
 Investigative Direction: List the specific leads and sources the host has tied to Turning Point Faith across the series.
 
@@ -1364,7 +1361,7 @@ Transcript Snippet: a lot of these mainstream pastors and preachers actually com
 
 Anchored Artifacts: 
 Mentions: N-7, N-17, N-3
-Related Nodes: N-10436
+Related Nodes: N-10405
 Supports: C-1858
 Tags: relevance:context
 Investigative Direction: Check biographies of the named pastors against military service records and family history.
@@ -1381,7 +1378,7 @@ Transcript Snippet: Lance Wallnau, he's no different. He graduated from a milita
 
 Anchored Artifacts: 
 Mentions: N-240
-Related Nodes: N-10436
+Related Nodes: N-10405
 Tags: relevance:context
 Investigative Direction: Check Wallnau's published biography for the academy and graduation year.
 
@@ -1397,7 +1394,7 @@ Transcript Snippet: His father, Carl Wallnau, was a major in the United States A
 
 Anchored Artifacts: 
 Mentions: N-240, N-797
-Related Nodes: N-10436
+Related Nodes: N-10405
 Tags: relevance:context
 Investigative Direction: Locate Carl Wallnau's service record or obituary and any Standard Oil employment record.
 
@@ -1413,7 +1410,7 @@ Transcript Snippet: it didn't make him go warn Charlie about this in any way as 
 
 Anchored Artifacts: A-1366.1
 Mentions: N-7, N-1
-Related Nodes: N-10210, N-10209
+Related Nodes: N-10202, N-10201
 Tags: relevance:context
 Investigative Direction: Ask Turek or Kirk's associates whether any warning was given; look for recorded conversations.
 
@@ -1429,7 +1426,7 @@ Transcript Snippet: She said, "When did Turning Point become so faith-focused?"
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10398, N-10000
+Related Nodes: N-10371, N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Compare Turning Point event agendas over time and identify when faith programming expanded.
 
@@ -1445,7 +1442,7 @@ Transcript Snippet: Sources within Turning Point's faith department tell me that
 
 Anchored Artifacts: 
 Mentions: N-240, N-17, N-3
-Related Nodes: N-10242, N-10398, N-10000
+Related Nodes: N-10202, N-10371, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain donor or ministry records, Turning Point Faith budgets, or testimony from the faith-department sources.
 
@@ -1461,7 +1458,7 @@ Transcript Snippet: He's friends with Rob Rob McCoy, um and he eventually did to
 
 Anchored Artifacts: 
 Mentions: N-240, N-17, N-1
-Related Nodes: N-10398
+Related Nodes: N-10371
 Tags: relevance:core
 Investigative Direction: Check tour announcements for Turning Point Faith stops featuring Wallnau and public statements by Wallnau about Kirk.
 
@@ -1477,7 +1474,7 @@ Transcript Snippet: I told you guys about Mel on X, she's been doing great work 
 
 Anchored Artifacts: 
 Mentions: N-66, N-3
-Related Nodes: N-10436
+Related Nodes: N-10405
 Tags: relevance:context
 Investigative Direction: Review Mel's X threads and which claims in them the host relies on.
 
@@ -1493,7 +1490,7 @@ Transcript Snippet: 58 people were murdered. More than 600 others were injured. 
 
 Anchored Artifacts: 
 Mentions: N-225
-Related Nodes: N-10887
+Related Nodes: N-10808
 Tags: relevance:tangential
 Investigative Direction: Compare with the official casualty figures from the Las Vegas investigation record.
 
@@ -1509,7 +1506,7 @@ Transcript Snippet: Conspiracy theorists said it was a military operation and th
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10887
+Related Nodes: N-10808
 Tags: relevance:tangential
 Investigative Direction: The host cites no specific evidence here; ask which evidence she means.
 
@@ -1525,7 +1522,7 @@ Transcript Snippet: Oddly, uh about 40 people who were at the Las Vegas shooting
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10240, N-10887
+Related Nodes: N-10227, N-10808
 Tags: relevance:context
 Investigative Direction: Check contemporaneous reporting on how many Las Vegas survivors were at the Borderline Bar that night.
 
@@ -1541,7 +1538,7 @@ Transcript Snippet: a Marine who his family knows Rob McCoy well, Rob McCoy is f
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10240
+Related Nodes: N-10227
 Tags: relevance:context
 Investigative Direction: Look for McCoy's statements or local reporting on a connection to the shooter's family; the host's wording shifts between the Marine and his mother.
 
@@ -1557,7 +1554,7 @@ Transcript Snippet: a victim of that bar shooting was a 27-year-old Navy veteran
 
 Anchored Artifacts: A-1377.1
 Mentions: N-3
-Related Nodes: N-10240
+Related Nodes: N-10227
 Tags: relevance:context
 Investigative Direction: Confirm the victim's identity, age and service from 2018 press coverage.
 
@@ -1573,7 +1570,7 @@ Transcript Snippet: one survivor said that the group of them were meeting up for
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10240
+Related Nodes: N-10227
 Tags: relevance:context
 Investigative Direction: Identify the survivor and the interview in which this was said.
 
@@ -1589,7 +1586,7 @@ Transcript Snippet: a month after this, Rob McCoy then gets elected mayor of um 
 
 Anchored Artifacts: 
 Mentions: N-17
-Related Nodes: N-10240
+Related Nodes: N-10227
 Tags: relevance:context
 Investigative Direction: Check Thousand Oaks city council records for the date McCoy became mayor and his term.
 
@@ -1605,7 +1602,7 @@ Transcript Snippet: I shared something over the weekend about Romanian sex traff
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10401
+Related Nodes: N-10374
 Tags: relevance:tangential
 Investigative Direction: Locate the host's X post from the weekend of November 8 to 9, 2025 and the church and sources it names.
 
@@ -1621,7 +1618,7 @@ Transcript Snippet: there's been another megachurch pastor that was accused of t
 
 Anchored Artifacts: 
 Mentions: N-451
-Related Nodes: N-10401
+Related Nodes: N-10374
 Supports: C-2597
 Tags: relevance:tangential
 Investigative Direction: Retrieve court filings or press reporting on the allegations against Havsgaard and check the host's account.
@@ -1654,7 +1651,7 @@ Transcript Snippet: You went after my sponsors. You emailed people. You got me b
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11099
+Related Nodes: N-11017
 Tags: relevance:tangential
 Investigative Direction: Check Australian government records on her visa status and any lobbying that preceded it.
 
@@ -1670,7 +1667,7 @@ Transcript Snippet: I am never on the side of people that cheer on kids being ki
 
 Anchored Artifacts: A-1372.1
 Mentions: N-241
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:tangential
 Investigative Direction: Identify the specific Berry posts the host is characterising and compare their wording.
 
@@ -1686,7 +1683,7 @@ Transcript Snippet: we watched Ben press Megan on stage. Very strange to see him
 
 Anchored Artifacts: 
 Mentions: N-97, N-46, N-3
-Related Nodes: N-10237, N-10406
+Related Nodes: N-10224, N-10379
 Tags: relevance:core
 Investigative Direction: Review the video of the stage exchange and identify the statement the host calls a lie.
 
@@ -1702,7 +1699,7 @@ Transcript Snippet: showed you screenshots of what Charlie had said, said told y
 
 Anchored Artifacts: A-1370.1
 Mentions: N-97, N-1, N-3
-Related Nodes: N-11064
+Related Nodes: N-10982
 Supports: C-2515
 Tags: relevance:core
 Investigative Direction: Obtain the full text thread and compare with Shapiro's and Daily Wire's account of the relationship.
@@ -1750,7 +1747,7 @@ Transcript Snippet: I'm very surprised she's working with Alyssa Cordova
 
 Anchored Artifacts: 
 Mentions: N-227, N-229, N-3
-Related Nodes: N-10231
+Related Nodes: N-10218
 Tags: relevance:tangential
 Investigative Direction: Check Stuckey's and Cordova's public collaborations and dates.
 
@@ -1798,7 +1795,7 @@ Transcript Snippet: real life Agatha Christie stuff, uh in real life, people's n
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10319, N-10447
+Related Nodes: N-10300, N-10416
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and forensic ballistics reports and expert statements on a .30-06 striking neck tissue.
 
@@ -1814,7 +1811,7 @@ Transcript Snippet: when you spend millions of dollars on security on your secur
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10840, N-10000
+Related Nodes: N-10763, N-10000
 Supports: C-2363
 Tags: relevance:core
 Investigative Direction: Review Turning Point's security contract, event medical plan and UVU emergency-services approvals.
@@ -1831,7 +1828,7 @@ Transcript Snippet: I worked for Turning Point USA, and I know what does not mak
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10224
+Related Nodes: N-10000, N-10211
 Tags: relevance:core
 Investigative Direction: Compare her recollection of normal advance planning with the UVU event approval timeline.
 
@@ -1863,7 +1860,7 @@ Transcript Snippet: when I tell you on Wednesday what we discovered about those 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Check the Wednesday, November 12, 2025 episode for the Egyptian aircraft findings.
 
@@ -1942,7 +1939,7 @@ Transcript Snippet: she was formerly of a cult mindset and so she's an expert on
 
 Anchored Artifacts: A-1376.1
 Mentions: N-245, N-3
-Related Nodes: N-11158
+Related Nodes: N-11074
 Tags: relevance:context
 Investigative Direction: Check Smith's Deprogrammed episode for her stated background and which episodes she says she watched.
 
@@ -1958,7 +1955,7 @@ Transcript Snippet: what happened to me was that I I saw Charlie Kirk get shot i
 
 Anchored Artifacts: A-1376.1
 Mentions: N-245, N-1
-Related Nodes: N-11158
+Related Nodes: N-11074
 Tags: relevance:context
 Investigative Direction: Place the statement in the Deprogrammed episode and what it says she watched.
 
@@ -1974,7 +1971,7 @@ Transcript Snippet: And she listed all of the reasons, the signs that I was in a
 
 Anchored Artifacts: A-1376.1
 Mentions: N-245, N-3
-Related Nodes: N-11158
+Related Nodes: N-11074
 Tags: relevance:context
 Investigative Direction: Watch the Deprogrammed episode and list each sign Smith gives.
 
@@ -1990,7 +1987,7 @@ Transcript Snippet: if you go back any fed operation, COVID, whenever you don't 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11158
+Related Nodes: N-11074
 Tags: relevance:tangential
 Investigative Direction: Sweeping historical generalization; no specific instance given.
 
@@ -2021,7 +2018,7 @@ Transcript Snippet: like a.30-06 got stopped by Charlie's neck because miracle
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10319
+Related Nodes: N-10300
 Supports: C-2614
 Tags: relevance:core
 Investigative Direction: Same as the earlier claim: ballistic and autopsy findings.
@@ -2038,7 +2035,7 @@ Transcript Snippet: They won't show us a clear picture of Tyler Robinson on that
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Check the court record and discovery for any clear image of Robinson on the UVU campus on September 10, 2025.
 
@@ -2054,7 +2051,7 @@ Transcript Snippet: when Charlie raised his head and realized something was wron
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10434, N-10132, N-10000, N-11171
+Related Nodes: N-10404, N-10127, N-10000, N-11087
 Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Obtain the internal memo and staff accounts of the DOGE department's creation and mandate.
@@ -2071,7 +2068,7 @@ Transcript Snippet: It's not a small thing that Charlie suddenly was wondering a
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10078, N-10000
+Related Nodes: N-10075, N-10000
 Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Find staff or donor testimony and communications showing Kirk raised funding questions.
@@ -2088,7 +2085,7 @@ Transcript Snippet: It doesn't make me feel good knowing that he was putting mon
 
 Anchored Artifacts: 
 Mentions: N-240, N-3
-Related Nodes: N-10242, N-10398
+Related Nodes: N-10202, N-10371
 Supports: C-2586
 Tags: relevance:core
 Investigative Direction: Same as the earlier funding claim.
@@ -2105,7 +2102,7 @@ Transcript Snippet: we will be have having a guest join us that will speak on Fr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10078, N-10000
+Related Nodes: N-10075, N-10000
 Tags: relevance:core
 Investigative Direction: Check the Friday, November 14, 2025 episode and guest.
 
@@ -2121,7 +2118,7 @@ Transcript Snippet: Alex Clark figured out she rumbled me that I spoke to CNN in
 
 Anchored Artifacts: 
 Mentions: N-99, N-3
-Related Nodes: N-11159
+Related Nodes: N-11075
 Supports: C-2538
 Tags: relevance:context
 Investigative Direction: Check the CNN interview air date and the host's earlier statements about interviews.
@@ -2138,7 +2135,7 @@ Transcript Snippet: I was in a true stage of grief. I didn't offer a single inte
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11159
+Related Nodes: N-11075
 Tags: relevance:context
 Investigative Direction: Compare against the interview dates and the CNN booking history.
 
@@ -2154,7 +2151,7 @@ Transcript Snippet: Elle Reeve did not even get to my book at all
 
 Anchored Artifacts: 
 Mentions: N-234, N-82, N-3
-Related Nodes: N-11159
+Related Nodes: N-11075
 Tags: relevance:tangential
 Investigative Direction: Watch the full CNN interview and tally topics covered.
 
@@ -2343,7 +2340,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty (N-238 / N-10241):** The episode alternates between "Shauni Rae Kerkhoff" (Steve Baker / Glenn Beck audio) and "Shauni Kerkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.
+- **Name uncertainty (N-238 / N-10228):** The episode alternates between "Shauni Rae Kerkhoff" (Steve Baker / Glenn Beck audio) and "Shauni Kerkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.
 - **Tip-only artifact (A-1378):** The Timpanogos footage-seizure assertion (C-2559) rests entirely on an anonymous tip relayed by the host; no public document, screenshot, or independent corroboration is shown. Low confidence.
 - **Verbally referenced but not displayed (A-1368, A-1377):** The Liz Lyons CIA statement and the BBC Borderline headline were referenced rather than directly displayed; wording was paraphrased by the host.
 - **Host assertions lacking artifact anchors (not inscribed as claims):** Multiple substantive host statements in this episode lack artifact support and therefore fail the Claim Admission Test, including: (a) Lance Wallnau's father Carl Wallnau being a US Air Force major who served under General Patton; (b) the claim that Lance Wallnau privately directed large sums of money into Turning Point USA Faith (cited only to unnamed TP Faith sources); (d) the claim that four of six January 6 protest permits were issued to independent charismatic Christian groups; (e) the claim that Rob McCoy's mother "storms" the Borderline Bar (host-corrected herself mid-sentence to "that Marine's mother"); (f) the claim that Charlie Kirk had established "DOAJ"; (g) the claim that Kash Patel "injected himself" into the hospital events on the day of the shooting. These are recorded as framing premises or testimonial assertions for future verification but are not inscribed as evidence-backed claims.
@@ -2357,5 +2354,5 @@ Confidence: high
 
 - Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378
 - New Person Nodes: N-236 – N-245
-- New Investigation Target Nodes: N-10239 – N-10242
+- New Investigation Target Nodes: N-10226 – N-10202
 - Existing Nodes Reused: N-1 (Charlie Kirk)

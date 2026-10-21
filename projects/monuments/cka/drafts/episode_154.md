@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: a4b004904bed5ceab067f894a05093601d086cf7f62b1dfdc6ccb961cbb2d709
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-11314
-  - Hole-minted Nodes (reintro-ep154): N-10872
+  - Tip-minted Nodes (supplement_2026-10e): N-11230
+  - Hole-minted Nodes (reintro-ep154): N-10793
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13292–C-13367
-  - New Nodes Introduced: N-10841, N-10842, N-10843, N-10844, N-10846
-  - Reused Nodes Appearing: N-2, N-14, N-22, N-159, N-25, N-10840, N-18, N-69, N-271, N-330, N-587, N-591, N-731, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246, N-11312, N-10845, N-10873, N-11313
+  - New Nodes Introduced: N-10764, N-10765, N-10766, N-10767, N-10769
+  - Reused Nodes Appearing: N-2, N-14, N-22, N-159, N-25, N-10763, N-18, N-69, N-271, N-330, N-587, N-591, N-731, N-10000, N-10003, N-10012, N-10028, N-10068, N-10072, N-10488, N-10975, N-11064, N-11137, N-11162, N-11228, N-10768, N-10794, N-11229
 
 ---
 
@@ -35,7 +35,7 @@
 
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-13293–C-13358
-- **New Nodes Introduced:** N-10840, N-10841, N-10842, N-10843, N-10844, N-10845, N-10846
+- **New Nodes Introduced:** N-10763, N-10764, N-10765, N-10766, N-10767, N-10768, N-10769
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-14 (Andrew Kolvet (variant spellings: Kolvet/Kovat/Kovatte)), N-22 (Tucker Carlson), N-159 (Blake Neff (variant: Nef) – actual ledger IDs to be verified against global ledger)
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:02:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13293, C-13295, C-13301, C-13356, N-2, N-14, N-10840*
+*Related: C-13293, C-13295, C-13301, C-13356, N-2, N-14, N-10763*
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:13:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13314, N-2, N-3, N-14, N-10842*
+*Related: C-13314, N-2, N-3, N-14, N-10765*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-13319, A-2394.1, A-2396.1, N-14, N-10842*
+*Related: C-13319, A-2394.1, A-2396.1, N-14, N-10765*
 
 ---
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-13319, A-2394.1, A-2395.1, N-2, N-3, N-10842*
+*Related: C-13319, A-2394.1, A-2395.1, N-2, N-3, N-10765*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:30:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13328, N-2, N-10841*
+*Related: C-13328, N-2, N-10764*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:20:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13321, N-2, N-10841*
+*Related: C-13321, N-2, N-10764*
 
 ---
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:20:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-13320, N-2, N-10841*
+*Related: C-13320, N-2, N-10764*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13352, N-1, N-22, N-159, N-10845*
+*Related: C-13352, N-1, N-22, N-159, N-10768*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:38:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13336, N-10846*
+*Related: C-13336, N-10769*
 
 **A-2402.2** The Mystery of Marilyn Monroe: The Unheard Tapes (Empress Films)
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:40:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13336, N-10846*
+*Related: C-13336, N-10769*
 
 **A-2402.3** Who Killed Jill Dando (Empress Films)
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:41:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13336, N-10846*
+*Related: C-13336, N-10769*
 
 **A-2402.4** Diana / Who Killed Diana (announced 2024)
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:41:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13336, N-10846*
+*Related: C-13336, N-10769*
 
 **A-2402.5** Depp vs Heard (Empress Films)
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:42:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13336, N-10846*
+*Related: C-13336, N-10769*
 
 **A-2402.6** Killing Grounds: Gilgo Beach Murders (Empress Films)
 
@@ -248,7 +248,7 @@ Video Timestamp: 00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13336, N-10846*
+*Related: C-13336, N-10769*
 
 ---
 
@@ -262,7 +262,7 @@ Video Timestamp: 00:21:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13320, N-2, N-3, N-14, N-10841*
+*Related: C-13320, N-2, N-3, N-14, N-10764*
 
 **A-2403.2** Andrew Kolvet X reply: "Wrong again. Students were free to opt out. Three students did. So over 500 chose to attend. Nothing was forced."
 
@@ -272,7 +272,7 @@ Video Timestamp: 00:24:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13324, N-14, N-10841*
+*Related: C-13324, N-14, N-10764*
 
 **A-2403.3** Andrew Kolvet X reply: "Yeah, we don't market the event publicly for security reasons. Thanks for all your help on that, by the way."
 
@@ -282,7 +282,7 @@ Video Timestamp: 00:25:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13326, N-14, N-10843*
+*Related: C-13326, N-14, N-10766*
 
 **A-2403.4** Andrew Kolvet X reply: "Did you actually never attend a school assembly in high school? These are distinct from our regular chapter meetings."
 
@@ -292,7 +292,7 @@ Video Timestamp: 00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-14, N-10841*
+*Related: N-14, N-10764*
 
 ---
 
@@ -306,7 +306,7 @@ Video Timestamp: 00:55:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13356, N-2, N-10840*
+*Related: C-13356, N-2, N-10763*
 
 **A-2404.2** @Koko Rose comment: "So there was footage readily available of Tyler Robinson from several years ago in a minor accident, but the footage of him turning himself in was deleted due to their retention policy."
 
@@ -339,7 +339,7 @@ Video Timestamp: 00:41:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13340, N-10846, N-3*
+*Related: C-13340, N-10769, N-3*
 
 ---
 
@@ -352,7 +352,7 @@ Video Timestamp: 00:08:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13305, C-13306, N-11314, N-10840*
+*Related: C-13305, C-13306, N-11230, N-10763*
 
 ---
 
@@ -365,7 +365,7 @@ Video Timestamp: 00:20:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13322, N-11221, N-10841, N-3*
+*Related: C-13322, N-11137, N-10764, N-3*
 
 ---
 
@@ -380,7 +380,7 @@ Video Timestamp: 00:55:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13357, N-330, N-3, N-11313*
+*Related: C-13357, N-330, N-3, N-11229*
 
 ---
 
@@ -406,7 +406,7 @@ Investigative Pressure: High
 
 Existing; PR figure under multiple artifact-anchored claims in this episode.
 
-*Related: A-2393.1, A-2394.1, A-2395.1, A-2403.2, A-2403.3, A-2403.4, C-13314, C-13324, C-13326, N-10841, N-10842, N-10844*
+*Related: A-2393.1, A-2394.1, A-2395.1, A-2403.2, A-2403.3, A-2403.4, C-13314, C-13324, C-13326, N-10764, N-10765, N-10767*
 
 ---
 
@@ -422,11 +422,11 @@ Existing; called out Blake Neff via audio artifact (A-2401.1).
 
 Existing; subject of Politico profile and Tucker Carlson criticism.
 
-*Related: A-2400.1, A-2400.2, A-2401.1, C-13344, C-13349, C-13352, C-13351, N-10845*
+*Related: A-2400.1, A-2400.2, A-2401.1, C-13344, C-13349, C-13352, C-13351, N-10768*
 
 ---
 
-**N-10840** UVU Ambulance Denial Discrepancy
+**N-10763** UVU Ambulance Denial Discrepancy
 
 Persistent contradiction between TPUSA's November 2025 admission (TPUSA UVU chapter declined ambulance) and TPUSA's later filing framing the absence as wrongful death by others. Reinforced by @spilling the TPUSA/anniversary observation.
 
@@ -439,7 +439,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10841** Nampa Christian School Opt-In Question
+**N-10764** Nampa Christian School Opt-In Question
 
 Discrepancy between TPUSA's claim that 500+ students voluntarily attended and parent/student reports that attendance was a school-mandated assembly, plus Andrew Kolvet's "three opt-outs" reply.
 
@@ -452,7 +452,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10842** 2019 Text Thread Provenance Question
+**N-10765** 2019 Text Thread Provenance Question
 
 Provenance question around the 4plebs post allegedly found by "E" (Erika Frantzve) and forwarded by Andrew Kolvet in November 2019, and the Vox article Kolvet cited as the path to that post.
 
@@ -465,7 +465,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10843** TPUSA No-Marketing Security Claim
+**N-10766** TPUSA No-Marketing Security Claim
 
 Contradiction between Andrew Kolvet's X-stated rationale ("we don't market the event publicly for security reasons") and TPUSA's prior public framing of Prove Me Wrong / Club America events as unticketed and open to public.
 
@@ -478,7 +478,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10844** Empress Films / Erika Kirk Aug 2025 Call Question
+**N-10767** Empress Films / Erika Kirk Aug 2025 Call Question
 
 Open question about nature and purpose of August 28, 2025 call between Erika Kirk, Andrew Kolvet, and Empress Films executives (Emma Cooper, Eben Davidson), as raised by host with "Baron Coleman."
 
@@ -487,11 +487,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2402.x, C-13334, N-2, N-14, N-10846*
+*Related: A-2402.x, C-13334, N-2, N-14, N-10769*
 
 ---
 
-**N-10845** Blake Neff Censorship Statement
+**N-10768** Blake Neff Censorship Statement
 
 Blake Neff's verbatim statement that "we may have to make our peace with censorship" per Politico profile, criticized by Tucker Carlson.
 
@@ -504,7 +504,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10846** Empress Films (Entity)
+**N-10769** Empress Films (Entity)
 
 Documentary company founded by Emma Cooper in 2020; production focus described as true crime / murder mystery; described by host as politically left-leaning.
 
@@ -513,7 +513,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6, C-13335, C-13336, N-10844*
+*Related: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6, C-13335, C-13336, N-10767*
 
 ---
 
@@ -638,7 +638,7 @@ Existing place reused for the host's report of the Fulton Library Quad suggestio
 
 ---
 
-**N-10071** ABC
+**N-10068** ABC
 
 Existing organization; ABC News published the November 18 report the host reads.
 
@@ -646,7 +646,7 @@ Existing organization; ABC News published the November 18 report the host reads.
 
 ---
 
-**N-10075** White House
+**N-10072** White House
 
 Existing place; the host says the Black Leadership Summit took place there in October 2019.
 
@@ -662,7 +662,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-10533** Club America High School Pushback
+**N-10488** Club America High School Pushback
 
 Existing topic reused for new claims in this episode.
 
@@ -670,7 +670,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10872** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
+**N-10793** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
 
 Existing topic reused for new claims in this episode.
 
@@ -678,7 +678,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10873** Scripps Media Bodycam Pattern (Robinson + Cole)
+**N-10794** Scripps Media Bodycam Pattern (Robinson + Cole)
 
 Existing topic reused for new claims in this episode.
 
@@ -686,7 +686,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11147** January 6 Federal Coordination Claim
+**N-11064** January 6 Federal Coordination Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -694,7 +694,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11221** Newsweek
+**N-11137** Newsweek
 
 Existing organization; the host says parents' letter appeared there.
 
@@ -702,7 +702,7 @@ Existing organization; the host says parents' letter appeared there.
 
 ---
 
-**N-11246** Proclaim Streetwear
+**N-11162** Proclaim Streetwear
 
 Existing organization reused for the host's mention of Erika's clothing brand (transcribed "Proclaim 365").
 
@@ -710,7 +710,7 @@ Existing organization reused for the host's mention of Erika's clothing brand (t
 
 ---
 
-**N-11057** Blake Neff Employment History Account
+**N-10975** Blake Neff Employment History Account
 
 Existing topic reused for new claims in this episode.
 
@@ -718,16 +718,16 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11312** Kolvet PR Role for Erika Kirk August 2025 Question
+**N-11228** Kolvet PR Role for Erika Kirk August 2025 Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's report, from people who worked with Andrew Kolvet, that TPUSA did not normally handle Erika Kirk's media outside TPUSA Faith events and her question why he was doing so in August 2025.
 
 *Related: C-13331, C-13332*
 
 ---
 
-**N-11313** Candace Owens Leave and Baron Coleman Substitute Hosting
+**N-11229** Candace Owens Leave and Baron Coleman Substitute Hosting
 
 Node Type: Topic
 The host's statements that she is very pregnant and will be away about eight weeks, with Baron Coleman taking over the show.
@@ -736,7 +736,7 @@ The host's statements that she is very pregnant and will be away about eight wee
 
 ---
 
-**N-11314** Kirk Family Wrongful Death Ambulance Allegation
+**N-11230** Kirk Family Wrongful Death Ambulance Allegation
 
 Node Type: Topic
 The Kirk family lawyer's reported filing alleging that the absence of an ambulance on standby at UVU was negligent and amounted to wrongful death, which the host contrasts with TPUSA's 2025 statements to ABC.
@@ -759,7 +759,7 @@ Anchored Artifacts: A-2393.1
 Mentions: N-3
 Contradicts: C-13241
 
-Related Nodes: N-10840
+Related Nodes: N-10763
 
 Investigative Direction: Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing.
 
@@ -774,7 +774,7 @@ Claim: Per the ABC News report the host reads, the UVU event attendance was init
 Anchored Artifacts: A-2393.1
 Mentions: N-3
 
-Related Nodes: N-10840
+Related Nodes: N-10763
 
 Investigative Direction: Obtain UVU planning documents directly; verify timing of each revision; identify whether any "1,500" update exists in any retained form.
 
@@ -789,7 +789,7 @@ Claim: Per a Turning Point USA official's statement to ABC News that the host re
 Anchored Artifacts: A-2393.1
 Mentions: N-3
 
-Related Nodes: N-10840, N-10843
+Related Nodes: N-10763, N-10766
 
 Investigative Direction: Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events.
 
@@ -804,7 +804,7 @@ Claim: A November 12–13, 2019 text thread shows Andrew Kolvet forwarding to Ca
 Anchored Artifacts: A-2394.1
 Mentions: N-2, N-3, N-14, N-1
 
-Related Nodes: N-10842
+Related Nodes: N-10765
 
 Investigative Direction: Authenticate the text screenshot metadata; verify whether "E" was in fact Erika Frantzve at that time; cross-check against Kolvet's recent public statements on the same feud narrative.
 
@@ -819,7 +819,7 @@ Claim: Per the 4plebs post the host shows, which Andrew Kolvet said Erika ("E") 
 Anchored Artifacts: A-2395.1, A-2396.1
 Mentions: N-1, N-2, N-3, N-14
 
-Related Nodes: N-10842
+Related Nodes: N-10765
 
 Investigative Direction: Obtain the 4plebs post URL and archived timestamp; verify content alignment; verify whether the Vox article actually linked to this post or only to the broader 4plebs forum.
 
@@ -834,7 +834,7 @@ Claim: In a clip the host plays of his presentation to Aspen donors, Charlie Kir
 Anchored Artifacts: A-2397.1
 Mentions: N-3, N-1
 
-Related Nodes: N-10841
+Related Nodes: N-10764
 
 Investigative Direction: Obtain full audio/presentation recording; verify against any written strategic plans; cross-check against current TPUSA Club America implementation.
 
@@ -849,7 +849,7 @@ Claim: The host says Erika Kirk spoke at a Nampa Christian School assembly where
 Anchored Artifacts: A-2399.1, A-2403.1
 Mentions: N-2
 
-Related Nodes: N-10841
+Related Nodes: N-10764
 
 Investigative Direction: Obtain the school newsletter referenced by parents; verify assembly mandatory-attendance status; verify whether parental attendance was actually prohibited.
 
@@ -864,7 +864,7 @@ Claim: TPUSA's X post claimed 500+ "outstanding high school student attendees" a
 Anchored Artifacts: A-2398.1
 Mentions: N-3
 
-Related Nodes: N-10841
+Related Nodes: N-10764
 
 Investigative Direction: Cross-check TPUSA claim against school attendance records and parent reports.
 
@@ -879,7 +879,7 @@ Claim: Per Andrew Kolvet's reply on X that the host shows, three students opted 
 Anchored Artifacts: A-2403.2
 Mentions: N-14
 
-Related Nodes: N-10841
+Related Nodes: N-10764
 
 Investigative Direction: Verify whether the cited "opt-out" mechanism applies to mandatory school assemblies; obtain school policy on opt-outs from assemblies.
 
@@ -894,7 +894,7 @@ Claim: Andrew Kolvet replied on X that TPUSA does not market the events publicly
 Anchored Artifacts: A-2403.3
 Mentions: N-14
 
-Related Nodes: N-10843
+Related Nodes: N-10766
 
 Investigative Direction: Cross-check against TPUSA's prior statements on event security; verify whether a no-marketing policy applied to Nampa specifically or to all Club America high school stops.
 
@@ -939,7 +939,7 @@ Claim: In a clip the host plays, Tucker Carlson criticizes Blake Neff's framing 
 Anchored Artifacts: A-2401.1
 Mentions: N-22, N-159
 
-Related Nodes: N-10845
+Related Nodes: N-10768
 
 Investigative Direction: Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff.
 
@@ -954,7 +954,7 @@ Claim: In a clip the host plays, Tucker Carlson reads what he calls a verbatim q
 Anchored Artifacts: A-2400.1
 Mentions: N-159, N-22
 
-Related Nodes: N-10845
+Related Nodes: N-10768
 
 Investigative Direction: Confirm full quote and attribution context in Politico article.
 
@@ -968,7 +968,7 @@ Claim: The host says Empress Films is a documentary company founded by Emma Coop
 
 Anchored Artifacts: A-2402.1 (Ghislaine Maxwell: Epstein's Shadow, 2021, as company-inception product)
 
-Related Nodes: N-10846
+Related Nodes: N-10769
 
 Investigative Direction: Verify corporate filings and Pulse Films tenure via public records.
 
@@ -983,7 +983,7 @@ Claim: The host says Empress Films' production catalog includes true crime / mur
 Anchored Artifacts: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6
 Mentions: N-47
 
-Related Nodes: N-10846
+Related Nodes: N-10769
 
 Investigative Direction: Verify each production's distribution platform, release date, and reception.
 
@@ -998,7 +998,7 @@ Claim: The host says she learned that on August 28, 2025, Erika Kirk and Andrew 
 Anchored Artifacts: Host testimonial confirmation only (sourced by host from "people who worked with Andrew"); no displayed documentary source in this episode.
 Mentions: N-2, N-14
 
-Related Nodes: N-10844
+Related Nodes: N-10767
 
 Investigative Direction: Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025.
 
@@ -1015,7 +1015,7 @@ Claim: Candace concurs with the @spilling the tea observation that holding a Cha
 Anchored Artifacts: A-2404.1
 Mentions: N-3, N-1
 
-Related Nodes: N-10840
+Related Nodes: N-10763
 
 Investigative Direction: Verify whether TPUSA scheduled an anniversary event at UVU; identify the venue.
 
@@ -1071,7 +1071,7 @@ Transcript Snippet: First and foremost, I'm I'm very pregnant, so I'm just feeli
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11313
+Related Nodes: N-11229
 Tags: relevance:tangential
 Investigative Direction: Host's own statement; the planned leave is covered by the later comment claim.
 
@@ -1087,7 +1087,7 @@ Transcript Snippet: TPUSA in mid July to be precise on July 18th uh filled out a
 
 Anchored Artifacts: A-2393.1
 Mentions: N-3
-Related Nodes: N-10012, N-10071, N-10840
+Related Nodes: N-10012, N-10068, N-10763
 Tags: relevance:core
 Investigative Direction: Obtain the UVU event request form and its submission metadata to confirm the date.
 
@@ -1103,7 +1103,7 @@ Transcript Snippet: the last time Charlie Kirk had been to Utah uh was in April 
 
 Anchored Artifacts: A-2393.1
 Mentions: N-1, N-3
-Related Nodes: N-10071, N-10840
+Related Nodes: N-10068, N-10763
 Supports: C-13295
 Tags: relevance:core
 Investigative Direction: Obtain the ABC News article and University of Utah April 2024 event attendance records.
@@ -1120,7 +1120,7 @@ Transcript Snippet: 3,000 people show up for this event, which was barely advert
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-10840
+Related Nodes: N-10012, N-10763
 Tags: relevance:core
 Investigative Direction: Review TPUSA and UVU promotion records for the September 10 event, including social posts and flyers.
 
@@ -1136,7 +1136,7 @@ Transcript Snippet: on an online form submitted in early July, a TPUSA UVU chapt
 
 Anchored Artifacts: A-2393.1
 Mentions: N-3
-Related Nodes: N-10000, N-10012, N-10071, N-10840
+Related Nodes: N-10000, N-10012, N-10068, N-10763
 Contradicts: C-13294
 Tags: relevance:core
 Investigative Direction: Compare the early July and July 18 dates against the UVU form record and TPUSA's statement to ABC.
@@ -1153,7 +1153,7 @@ Transcript Snippet: noting that they had six officers working at the event and K
 
 Anchored Artifacts: A-2393.1
 Mentions: N-271, N-1, N-3
-Related Nodes: N-10012, N-10840
+Related Nodes: N-10012, N-10763
 Tags: relevance:core
 Investigative Direction: Obtain the UVU police staffing plan and the press conference recording.
 
@@ -1201,7 +1201,7 @@ Transcript Snippet: told ABC News that there were two UVU emergency medical pers
 
 Anchored Artifacts: A-2393.1
 Mentions: N-3
-Related Nodes: N-10000, N-10071, N-10840
+Related Nodes: N-10000, N-10068, N-10763
 Supports: C-13293
 Tags: relevance:core
 Investigative Direction: Ask UVU for the identities and deployment of the two medical personnel and their incident log.
@@ -1218,7 +1218,7 @@ Transcript Snippet: Because TPUSA's safety team staffed up for the event to 12 s
 
 Anchored Artifacts: A-2393.1
 Mentions: N-3
-Related Nodes: N-10000, N-10071, N-10840
+Related Nodes: N-10000, N-10068, N-10763
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA security roster and equipment list for September 10 and compare to the reported 12.
 
@@ -1234,7 +1234,7 @@ Transcript Snippet: Now all of a sudden this filing, they're no longer equipped.
 
 Anchored Artifacts: A-3167.1
 Mentions: N-3
-Related Nodes: N-11314, N-10840
+Related Nodes: N-11230, N-10763
 Supports: C-13293
 Tags: relevance:core
 Investigative Direction: Compare the November 2025 ABC statement with the language of the current filing.
@@ -1251,7 +1251,7 @@ Transcript Snippet: now the Kirk family lawyer is filing a document that the dec
 
 Anchored Artifacts: A-3167.1
 Mentions: N-3
-Related Nodes: N-11314, N-10840
+Related Nodes: N-11230, N-10763
 Tags: relevance:core
 Investigative Direction: Obtain the filing and its date, defendants and the exact ambulance allegation.
 
@@ -1300,7 +1300,7 @@ Transcript Snippet: we hosted the Black Leadership Summit together, me and Charl
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10003, N-10075
+Related Nodes: N-10003, N-10072
 Contradicts: C-13307
 Tags: relevance:core
 Investigative Direction: White House event records and coverage of the October 2019 summit.
@@ -1317,7 +1317,7 @@ Transcript Snippet: it became very obvious to me and Charlie who were speaking d
 
 Anchored Artifacts: A-2394.1
 Mentions: N-1, N-3
-Related Nodes: N-10003, N-10842
+Related Nodes: N-10003, N-10765
 Tags: relevance:core
 Investigative Direction: Authenticate the November 2019 Charlie-Candace texts the host refers to.
 
@@ -1349,7 +1349,7 @@ Transcript Snippet: we are pretty confident that this means he's he copied it fr
 
 Anchored Artifacts: A-2394.1
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10842
+Related Nodes: N-10765
 Tags: relevance:core
 Investigative Direction: Examine the screenshot's date format and any Telegram export from November 2019 for the forwarded message.
 
@@ -1365,7 +1365,7 @@ Transcript Snippet: He writes, "The Graers on their walls."
 
 Anchored Artifacts: A-2394.1
 Mentions: N-14, N-3
-Related Nodes: N-10842
+Related Nodes: N-10765
 Tags: relevance:core
 Investigative Direction: Obtain the full text thread and trace the original source of the message Kolvet forwarded.
 
@@ -1381,7 +1381,7 @@ Transcript Snippet: And he says, "Charlie's girlfriend found it."
 
 Anchored Artifacts: A-2394.1
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10842
+Related Nodes: N-10765
 Tags: relevance:core
 Investigative Direction: Confirm from the thread that "Charlie's girlfriend" is Erika Frantzve and how she came to the posts.
 
@@ -1397,7 +1397,7 @@ Transcript Snippet: So I say where though and then he ghosts me.
 
 Anchored Artifacts: A-2394.1
 Mentions: N-14, N-3
-Related Nodes: N-10842
+Related Nodes: N-10765
 Tags: relevance:context
 Investigative Direction: Review the full thread timestamps for the gap between her question and his reply.
 
@@ -1413,7 +1413,7 @@ Transcript Snippet: Fast forward to 2025 and Andrew Kolvet is going to repeat th
 
 Anchored Artifacts: A-2394.1
 Mentions: N-14, N-1, N-3
-Related Nodes: N-10003, N-10842
+Related Nodes: N-10003, N-10765
 Supports: C-13307
 Tags: relevance:core
 Investigative Direction: Match Kolvet's 2025 statements to the 2019 forwarded text wording.
@@ -1430,7 +1430,7 @@ Transcript Snippet: I am not mentioned in the article at all. And the article do
 
 Anchored Artifacts: A-2395.1, A-2396.1
 Mentions: N-14, N-3
-Related Nodes: N-10842
+Related Nodes: N-10765
 Tags: relevance:core
 Investigative Direction: Retrieve the Vox article from November 2019 and check every outbound link for the 4plebs thread.
 
@@ -1446,7 +1446,7 @@ Transcript Snippet: they called it secret because the the high school told them
 
 Anchored Artifacts: A-3168.1
 Mentions: N-3
-Related Nodes: N-11221, N-10533, N-10841
+Related Nodes: N-11137, N-10488, N-10764
 Tags: relevance:context
 Investigative Direction: Locate the weekly newsletter and the school newsletter wording.
 
@@ -1462,7 +1462,7 @@ Transcript Snippet: so that you could lie to donors about attendance numbers.
 
 Anchored Artifacts: A-2403.1
 Mentions: N-14, N-3
-Related Nodes: N-10533, N-10841
+Related Nodes: N-10488, N-10764
 Tags: relevance:context
 Investigative Direction: Compare TPUSA's donor-facing attendance figures with school attendance records for school assemblies.
 
@@ -1478,7 +1478,7 @@ Transcript Snippet: were told that neither Turning Point USA nor the school woul
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10533, N-10841
+Related Nodes: N-10488, N-10764
 Tags: relevance:context
 Investigative Direction: Obtain the weekly newsletter and any TPUSA or school statements on promotion.
 
@@ -1510,7 +1510,7 @@ Transcript Snippet: What we are trying to do is try to have full occupation wher
 
 Anchored Artifacts: A-2397.1
 Mentions: N-1, N-3
-Related Nodes: N-10533
+Related Nodes: N-10488
 Supports: C-13328
 Tags: relevance:context
 Investigative Direction: Obtain the full Aspen audio and verify this passage against the recording.
@@ -1527,7 +1527,7 @@ Transcript Snippet: the parents were wondering, are we paying for this?
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10533, N-10841
+Related Nodes: N-10488, N-10764
 Tags: relevance:context
 Investigative Direction: Seek any donation or fee records tied to the Nampa Christian School visit.
 
@@ -1543,7 +1543,7 @@ Transcript Snippet: Andrew Kolvet should not have been doing public public relat
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-11312
+Related Nodes: N-11228
 Tags: relevance:core
 Investigative Direction: Identify TPUSA staff who can say who handled Erika's media in August 2025 and under what role.
 
@@ -1559,7 +1559,7 @@ Transcript Snippet: I am told that in that capacity they would handle her media.
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-11312
+Related Nodes: N-11228
 Supports: C-13331
 Tags: relevance:core
 Investigative Direction: Talk to former TPUSA communications staff about the media policy for Erika Kirk and TPUSA Faith.
@@ -1576,7 +1576,7 @@ Transcript Snippet: called Proclaim 365, which by the way, that deserves an epis
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
-Related Nodes: N-11246
+Related Nodes: N-11162
 Tags: relevance:context
 Investigative Direction: Business filings, sales and tax records for Proclaim 365 and its relation to Proclaim Streetwear.
 
@@ -1592,7 +1592,7 @@ Transcript Snippet: Most notably, people were criticizing it for being too soft 
 
 Anchored Artifacts: A-2402.1
 Mentions: N-47, N-3
-Related Nodes: N-10846
+Related Nodes: N-10769
 Tags: relevance:tangential
 Investigative Direction: Collect the published reviews of Ghislaine Maxwell: Epstein's Shadow.
 
@@ -1608,7 +1608,7 @@ Transcript Snippet: explicitly states that Monroe was not murdered.
 
 Anchored Artifacts: A-2402.2
 Mentions: N-3
-Related Nodes: N-10846
+Related Nodes: N-10769
 Tags: relevance:tangential
 Investigative Direction: Obtain the Variety review and verify the quotation.
 
@@ -1624,7 +1624,7 @@ Transcript Snippet: many people who claim that she was actually investigating a 
 
 Anchored Artifacts: A-2402.3
 Mentions: N-3
-Related Nodes: N-10846
+Related Nodes: N-10769
 Tags: relevance:tangential
 Investigative Direction: Check Empress Films' Dando documentary credits and the sourcing of the theory.
 
@@ -1640,7 +1640,7 @@ Transcript Snippet: proud feminists at the Empress films.
 
 Anchored Artifacts: A-3166.1
 Mentions: N-2, N-14, N-3
-Related Nodes: N-10846, N-10844
+Related Nodes: N-10769, N-10767
 Tags: relevance:context
 Investigative Direction: Identify the source of the staff photo and confirm the shirt wording.
 
@@ -1656,7 +1656,7 @@ Transcript Snippet: Tucker Carlson had a heart and makes a phone call to help Bl
 
 Anchored Artifacts: 
 Mentions: N-22, N-159, N-1, N-3
-Related Nodes: N-11057
+Related Nodes: N-10975
 Tags: relevance:context
 Investigative Direction: Ask Carlson, Neff and TPUSA how Neff was hired and who recommended him.
 
@@ -1672,7 +1672,7 @@ Transcript Snippet: He was actually working for Stew Peters and he calls in effe
 
 Anchored Artifacts: 
 Mentions: N-159, N-731, N-1
-Related Nodes: N-11057
+Related Nodes: N-10975
 Tags: relevance:context
 Investigative Direction: Check Neff's employment history between leaving Fox and joining TPUSA.
 
@@ -1688,7 +1688,7 @@ Transcript Snippet: Blake Knap was involved in this racism scandal for being a t
 
 Anchored Artifacts: 
 Mentions: N-159
-Related Nodes: N-11057
+Related Nodes: N-10975
 Tags: relevance:context
 Investigative Direction: Check contemporaneous reporting on the Neff scandal.
 
@@ -1704,7 +1704,7 @@ Transcript Snippet: Charlie Kirk's lieutenant has second thoughts.
 
 Anchored Artifacts: A-2400.1
 Mentions: N-159, N-1
-Related Nodes: N-10845
+Related Nodes: N-10768
 Tags: relevance:context
 Investigative Direction: Obtain the Politico article and compare its headline and subtitle with the host's quotation.
 
@@ -1720,7 +1720,7 @@ Transcript Snippet: that's not a Blake Neff quote.
 
 Anchored Artifacts: A-2400.2, A-2401.1
 Mentions: N-22, N-159
-Related Nodes: N-10845
+Related Nodes: N-10768
 Tags: relevance:context
 Investigative Direction: Check the full Carlson segment and the Politico text to see where Ward wrote the phrase.
 
@@ -1736,7 +1736,7 @@ Transcript Snippet: there's no maximalist position on free speech anymore than t
 
 Anchored Artifacts: A-2401.1
 Mentions: N-22
-Related Nodes: N-10845
+Related Nodes: N-10768
 Tags: relevance:context
 Investigative Direction: Verify the clip against the original Tucker Carlson broadcast.
 
@@ -1752,7 +1752,7 @@ Transcript Snippet: Probably because they spend way too much time on social medi
 
 Anchored Artifacts: A-2401.1
 Mentions: N-22
-Related Nodes: N-10845
+Related Nodes: N-10768
 Tags: relevance:context
 Investigative Direction: Verify the clip against the original Tucker Carlson broadcast.
 
@@ -1768,7 +1768,7 @@ Transcript Snippet: We got what we wanted on speech and that means we also have 
 
 Anchored Artifacts: A-2400.1, A-2401.1
 Mentions: N-22, N-159
-Related Nodes: N-10845
+Related Nodes: N-10768
 Supports: C-13351
 Tags: relevance:context
 Investigative Direction: Check the full Neff quotation in the Politico profile.
@@ -1834,7 +1834,7 @@ Transcript Snippet: They were probably so excited. Like she's gone for like eigh
 
 Anchored Artifacts: A-3169.1
 Mentions: N-330, N-3
-Related Nodes: N-11313
+Related Nodes: N-11229
 Tags: relevance:context
 Investigative Direction: Host's own announcement; confirm leave dates and fill-in schedule from the show.
 
@@ -1850,7 +1850,7 @@ Transcript Snippet: And actually now Brian Cole's parents are speaking out. They
 
 Anchored Artifacts: 
 Mentions: N-25, N-22
-Related Nodes: N-10872
+Related Nodes: N-10793
 Tags: relevance:tangential
 Investigative Direction: Find the Tucker Carlson interview with the Cole family and check what exactly they say.
 
@@ -1866,7 +1866,7 @@ Transcript Snippet: And what did they do? They immediately released old footage 
 
 Anchored Artifacts: 
 Mentions: N-25, N-40
-Related Nodes: N-10872, N-10873
+Related Nodes: N-10793, N-10794
 Supports: C-13358
 Tags: relevance:context
 Investigative Direction: Identify the reporters and release dates of the Cole traffic-stop footage and the Robinson footage.
@@ -1883,7 +1883,7 @@ Transcript Snippet: January 6th was a fed operation.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11147, N-10872
+Related Nodes: N-11064, N-10793
 Tags: relevance:tangential
 Investigative Direction: The host offers no evidence here; see January 6 federal coordination records.
 
@@ -1899,7 +1899,7 @@ Transcript Snippet: they're keeping them in a file in case the feds need to comm
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10872, N-10873
+Related Nodes: N-10793, N-10794
 Tags: relevance:tangential
 Investigative Direction: The host offers no documents; compare the retention practice for the Cole and Robinson footage with ordinary retention rules.
 
@@ -1931,7 +1931,7 @@ Transcript Snippet: And then we have this outside person at the time, Erika Fran
 
 Anchored Artifacts: A-2394.1
 Mentions: N-2, N-14, N-1, N-3
-Related Nodes: N-10003, N-10842
+Related Nodes: N-10003, N-10765
 Tags: relevance:core
 Investigative Direction: Check the 2019 thread to see who first attributed the posts to the Groypers.
 

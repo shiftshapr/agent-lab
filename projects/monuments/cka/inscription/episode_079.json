@@ -34,7 +34,7 @@
             "N-1",
             "N-3",
             "N-97",
-            "N-10543"
+            "N-10498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -104,7 +104,7 @@
             "N-1",
             "N-590",
             "N-5",
-            "N-10539"
+            "N-10494"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,7 +133,7 @@
             "N-220",
             "N-1",
             "N-97",
-            "N-10543"
+            "N-10498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,7 +189,7 @@
             "N-159",
             "N-1",
             "N-97",
-            "N-10543"
+            "N-10498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
           "related_nodes": [
             "N-591",
             "N-5",
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,7 +272,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,7 +300,7 @@
           "related_nodes": [
             "N-22",
             "N-5",
-            "N-10540"
+            "N-10495"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,7 +326,7 @@
             "C-7116"
           ],
           "related_nodes": [
-            "N-10541",
+            "N-10496",
             "N-5"
           ],
           "tags": [],
@@ -345,7 +345,7 @@
             "C-7116"
           ],
           "related_nodes": [
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -363,7 +363,7 @@
             "C-7116"
           ],
           "related_nodes": [
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -381,7 +381,7 @@
             "C-7116"
           ],
           "related_nodes": [
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -399,7 +399,7 @@
             "C-7116"
           ],
           "related_nodes": [
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -417,7 +417,7 @@
             "C-7116"
           ],
           "related_nodes": [
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -436,7 +436,7 @@
           ],
           "related_nodes": [
             "N-592",
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -454,7 +454,7 @@
             "C-7116"
           ],
           "related_nodes": [
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -472,7 +472,7 @@
             "C-7116"
           ],
           "related_nodes": [
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -491,7 +491,7 @@
           ],
           "related_nodes": [
             "N-377",
-            "N-10541"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -519,7 +519,7 @@
           "related_nodes": [
             "N-3",
             "N-593",
-            "N-10543"
+            "N-10498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -547,7 +547,7 @@
           "related_nodes": [
             "N-222",
             "N-22",
-            "N-10540"
+            "N-10495"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -574,7 +574,7 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-10540"
+            "N-10495"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -601,7 +601,7 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-10540"
+            "N-10495"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -628,7 +628,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-10542"
+            "N-10497"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -829,7 +829,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ]
     },
     {
@@ -859,7 +859,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ]
     },
     {
@@ -882,7 +882,7 @@
       "related_nodes": [
         "N-1",
         "N-5",
-        "N-10541"
+        "N-10496"
       ]
     },
     {
@@ -912,7 +912,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ]
     },
     {
@@ -961,7 +961,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10539"
+        "N-10494"
       ]
     },
     {
@@ -1008,7 +1008,7 @@
       "related_nodes": [
         "N-1",
         "N-97",
-        "N-10543"
+        "N-10498"
       ]
     },
     {
@@ -1054,7 +1054,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-5",
-        "N-10541"
+        "N-10496"
       ]
     },
     {
@@ -1083,7 +1083,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-5",
-        "N-10540"
+        "N-10495"
       ]
     },
     {
@@ -1105,7 +1105,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ]
     },
     {
@@ -1150,15 +1150,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-22",
-        "N-10540"
+        "N-10495"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@type": "Topic",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: documentation of Charlie Kirk's documented opposition to a US-Iran war in June 2025, including White House advocacy and characterization of neocons as \"maniacs.\"",
       "related_artifacts": [
         "A-1847.1"
@@ -1176,14 +1176,15 @@
         "N-1",
         "N-590",
         "N-5"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10540",
-      "ref": "N-10540",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10495",
+      "ref": "N-10495",
       "name": "Tucker Carlson CIA Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: claimed CIA criminal referral against Tucker Carlson under FARA, based on communications with Iranian contacts prior to the war.",
       "related_artifacts": [
         "A-1854.1",
@@ -1204,14 +1205,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-22"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@type": "Topic",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: status of the Strait of Hormuz, US-Iran military engagement, and allied-nation non-participation as of March 2026.",
       "related_artifacts": [
         "A-1852.1",
@@ -1231,14 +1233,15 @@
       "related_nodes": [
         "N-5",
         "N-36"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10542",
-      "ref": "N-10542",
+      "@type": "Event",
+      "@id": "N-10497",
+      "ref": "N-10497",
       "name": "US Embassy Baghdad Attack (March 2026)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Investigative target: drone strike on US embassy complex in Baghdad and US evacuation advisory.",
       "related_artifacts": [
         "A-1860.1"
@@ -1253,14 +1256,18 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-5"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2026-03",
+      "parent": "N-10496"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10543",
-      "ref": "N-10543",
+      "@type": "Topic",
+      "@id": "N-10498",
+      "ref": "N-10498",
       "name": "Charlie Kirk Legacy Control Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: ongoing contest over public interpretation of Charlie Kirk's political positions, with focus on his documented relationship with Ben Shapiro, his Iran-war opposition, and host's contention that neocons are misrepresenting his positions.",
       "related_artifacts": [
         "A-1846.1",
@@ -1285,7 +1292,8 @@
       "related_nodes": [
         "N-1",
         "N-97"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1395,7 +1403,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ]
     },
     {
@@ -1620,11 +1628,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose conduct the host criticizes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1637,14 +1645,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10082",
-      "ref": "N-10082",
+      "@type": "Organization",
+      "@id": "N-10079",
+      "ref": "N-10079",
       "name": "CIA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "CIA, the agency in Carlson's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1656,14 +1666,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10083",
-      "ref": "N-10083",
+      "@type": "Organization",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Lobby the commenter says is an unregistered foreign agent.",
       "related_artifacts": [],
       "related_claims": [
@@ -1673,14 +1685,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@type": "Topic",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on a TPUSA audit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1690,14 +1704,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10236",
-      "ref": "N-10236",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10223",
+      "ref": "N-10223",
       "name": "Megyn Kelly Tour Attendee Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on a Kelly tour event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1707,14 +1722,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10237",
-      "ref": "N-10237",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10224",
+      "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Shapiro's statements about the host's accusations.",
       "related_artifacts": [],
       "related_claims": [
@@ -1724,14 +1740,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on AmFest speaker removals and donor pressure.",
       "related_artifacts": [],
       "related_claims": [
@@ -1742,14 +1759,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10386",
-      "ref": "N-10386",
+      "@type": "Topic",
+      "@id": "N-10359",
+      "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on Shapiro's alleged takeover pattern.",
       "related_artifacts": [],
       "related_claims": [
@@ -1760,14 +1778,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10391",
-      "ref": "N-10391",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10364",
+      "ref": "N-10364",
       "name": "Ben Shapiro Daily Wire Founding Narrative",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Daily Wire founding narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -1777,14 +1796,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@type": "Topic",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on attacks on Kelly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1795,14 +1815,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10544",
-      "ref": "N-10544",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10499",
+      "ref": "N-10499",
       "name": "Netanyahu Death/Injury Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Netanyahu status verification.",
       "related_artifacts": [],
       "related_claims": [
@@ -1813,14 +1834,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10674",
-      "ref": "N-10674",
+      "@type": "Event",
+      "@id": "N-10613",
+      "ref": "N-10613",
       "name": "June 18 White House Meeting on Iran Involvement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic on the June 18 White House meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1830,14 +1852,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-18",
+      "place": "N-10072"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization tied to Shapiro and the host's former employment.",
       "related_artifacts": [],
       "related_claims": [
@@ -1848,14 +1874,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10962",
-      "ref": "N-10962",
+      "@type": "Place",
+      "@id": "N-10883",
+      "ref": "N-10883",
       "name": "Venezuela",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place named in the oil shipment claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1865,14 +1893,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11057",
-      "ref": "N-11057",
+      "@type": "Topic",
+      "@id": "N-10975",
+      "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on Neff's employment history.",
       "related_artifacts": [],
       "related_claims": [
@@ -1882,14 +1912,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11064",
-      "ref": "N-11064",
+      "@type": "Topic",
+      "@id": "N-10982",
+      "ref": "N-10982",
       "name": "Ben Shapiro and Charlie Kirk Friendship Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on the Shapiro and Kirk friendship narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -1900,14 +1931,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11096",
-      "ref": "N-11096",
+      "@type": "Topic",
+      "@id": "N-11014",
+      "ref": "N-11014",
       "name": "TikTok Israel Moderation Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on TikTok moderation claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1917,14 +1949,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11103",
-      "ref": "N-11103",
+      "@type": "Organization",
+      "@id": "N-11021",
+      "ref": "N-11021",
       "name": "TikTok",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Platform named in the host's article.",
       "related_artifacts": [],
       "related_claims": [
@@ -1934,14 +1967,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11128",
-      "ref": "N-11128",
+      "@type": "Topic",
+      "@id": "N-11046",
+      "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on the Iran war betrayal thesis.",
       "related_artifacts": [],
       "related_claims": [
@@ -1955,14 +1990,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11145",
-      "ref": "N-11145",
+      "@type": "Event",
+      "@id": "N-11062",
+      "ref": "N-11062",
       "name": "Minab Iran School Strike",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Place of the school strike the host cites.",
       "related_artifacts": [],
       "related_claims": [
@@ -1974,14 +2010,17 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10496"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11228",
-      "ref": "N-11228",
+      "@type": "Topic",
+      "@id": "N-11144",
+      "ref": "N-11144",
       "name": "Candace Podcast Ranking and Operations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on the host's podcast ranking.",
       "related_artifacts": [],
       "related_claims": [
@@ -1992,12 +2031,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11294",
-      "ref": "N-11294",
+      "@id": "N-11210",
+      "ref": "N-11210",
       "name": "Pro-Iran-War Fake Poll and Bot Claim",
       "type": "topic",
       "description": "The host's claim that supporters of the Iran war faked polls and deployed bots and sock puppets in comment sections to simulate support.",
@@ -2011,12 +2051,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11295",
-      "ref": "N-11295",
+      "@id": "N-11211",
+      "ref": "N-11211",
       "name": "White House Iran War Meme Posts",
       "type": "topic",
       "description": "Pop-culture style memes (Mortal Kombat, Power Rangers) the host says the White House posted about the Iran operation.",
@@ -2029,7 +2070,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -2101,7 +2143,7 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32–00:13:29",
@@ -2122,7 +2164,7 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [],
       "claim_timestamp": "00:11:38–00:12:38",
@@ -2217,7 +2259,7 @@
         "A-1852.1"
       ],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:24:34–00:25:35",
@@ -2236,7 +2278,7 @@
         "A-1853.1"
       ],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:31:42–00:34:14",
@@ -2255,7 +2297,7 @@
         "A-1854.1"
       ],
       "related_nodes": [
-        "N-10540"
+        "N-10495"
       ],
       "tags": [],
       "claim_timestamp": "00:41:23–00:43:44",
@@ -2283,7 +2325,7 @@
         "A-1855.10"
       ],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:26:19–00:28:13",
@@ -2303,7 +2345,7 @@
         "A-1857.1"
       ],
       "related_nodes": [
-        "N-10540"
+        "N-10495"
       ],
       "tags": [],
       "claim_timestamp": "00:44:36–00:45:22",
@@ -2323,7 +2365,7 @@
         "A-1858.1"
       ],
       "related_nodes": [
-        "N-10540"
+        "N-10495"
       ],
       "tags": [],
       "claim_timestamp": "00:45:22–00:46:20",
@@ -2342,7 +2384,7 @@
         "A-1859.1"
       ],
       "related_nodes": [
-        "N-10540"
+        "N-10495"
       ],
       "tags": [],
       "claim_timestamp": "00:46:20–00:47:29",
@@ -2362,7 +2404,7 @@
         "A-1860.1"
       ],
       "related_nodes": [
-        "N-10542"
+        "N-10497"
       ],
       "tags": [],
       "claim_timestamp": "00:34:14–00:35:03",
@@ -2394,8 +2436,8 @@
       "claim": "The host says the White House keeps posting Mortal Kombat style memes (\"Finish him. Scorpion\") captioned as what \"we did in Iran.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541",
-        "N-11295"
+        "N-10496",
+        "N-11211"
       ],
       "tags": [
         "relevance:tangential"
@@ -2415,7 +2457,7 @@
       "claim": "The host says Trump has apparently allowed Mark Levin's \"special class of psychos\" to go after Tucker Carlson and that they explicitly demand he be imprisoned.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10540"
+        "N-10495"
       ],
       "tags": [
         "relevance:context"
@@ -2440,7 +2482,7 @@
         "A-3123.1"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -2465,7 +2507,7 @@
         "A-3123.2"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -2489,7 +2531,7 @@
         "A-3123.3"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:core"
@@ -2513,8 +2555,8 @@
       "claim": "The host says Ben Shapiro operated behind the scenes to stop Charlie Kirk's rise, calling and asking fellow Jewish journalists to write hit pieces, and says she was there and that it was driven by jealousy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10386",
-        "N-11064"
+        "N-10359",
+        "N-10982"
       ],
       "tags": [
         "relevance:core"
@@ -2542,7 +2584,7 @@
         "A-1848.1"
       ],
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:core"
@@ -2568,8 +2610,8 @@
       "claim": "The host says Israel was a topic on which Charlie Kirk had actually changed his mind.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10543",
-        "N-11128"
+        "N-10498",
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -2592,7 +2634,7 @@
         "A-1846.1"
       ],
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:core"
@@ -2616,7 +2658,7 @@
         "A-1846.1"
       ],
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:context"
@@ -2638,7 +2680,7 @@
       "claim": "The host says she has about 300 messages between herself and Charlie Kirk showing how he constantly spoke about Ben Shapiro.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:core"
@@ -2661,8 +2703,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10543",
-        "N-11064"
+        "N-10498",
+        "N-10982"
       ],
       "tags": [
         "relevance:core"
@@ -2688,7 +2730,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:core"
@@ -2712,8 +2754,8 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-10539",
-        "N-10674"
+        "N-10494",
+        "N-10613"
       ],
       "tags": [
         "relevance:core"
@@ -2740,8 +2782,8 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-10539",
-        "N-11128"
+        "N-10494",
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -2765,7 +2807,7 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2788,7 +2830,7 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2811,7 +2853,7 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:context"
@@ -2834,7 +2876,7 @@
         "A-1850.1"
       ],
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:context"
@@ -2860,7 +2902,7 @@
         "A-1850.1"
       ],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [
         "relevance:context"
@@ -2883,8 +2925,8 @@
       "claim": "The host says Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire while Kirk was building a campus charity.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10391"
+        "N-10821",
+        "N-10364"
       ],
       "tags": [
         "relevance:context"
@@ -2907,8 +2949,8 @@
       "claim": "The host says that as Kirk got bigger Shapiro became jealous, went behind the scenes with his connections to the donors and started squeezing Kirk and trying to control who he could speak to.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10386",
-        "N-10268"
+        "N-10359",
+        "N-10252"
       ],
       "tags": [
         "relevance:core"
@@ -2935,7 +2977,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:core"
@@ -2960,7 +3002,7 @@
       "claim": "The host says Shapiro publicly put Megyn Kelly on the spot on stage during her tour, as part of a pattern of surprising friends on camera to demand allegiance.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10236"
+        "N-10223"
       ],
       "tags": [
         "relevance:context"
@@ -2985,7 +3027,7 @@
       "claim": "The host says Shapiro stood up on a table while she worked for a company he was part owner of, and called her a \"faux sophisticate\" because she tweeted that genocide was always wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -3056,7 +3098,7 @@
         "A-1846.3"
       ],
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:context"
@@ -3081,7 +3123,7 @@
       "claim": "The host says roughly 25 percent of global liquid petroleum moves through the roughly 100-mile Strait of Hormuz choke point.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -3103,7 +3145,7 @@
         "A-3124.1"
       ],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -3123,7 +3165,7 @@
       "claim": "The host says that before the US struck Iran nothing was going on other than that Netanyahu (BB) wanted the fight with Iran.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3144,7 +3186,7 @@
       "claim": "The host says the US randomly bombed 200 schoolgirls in Iran and then lied about it, and that Trump was the one who lied.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11145"
+        "N-11062"
       ],
       "tags": [
         "relevance:context"
@@ -3165,7 +3207,7 @@
       "claim": "The host says Trump is now demanding ground troops that he does not have.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -3186,7 +3228,7 @@
       "claim": "The host says Trump is reduced to going around asking or demanding that other countries get involved in the war.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -3230,7 +3272,7 @@
       "claim": "The host says nobody knows where Bibi Netanyahu is, that his videos look AI-generated, and that there are rumors he is dead.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:context"
@@ -3251,7 +3293,7 @@
       "claim": "The host says she thinks Netanyahu is dead but that she does not know.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:context"
@@ -3275,7 +3317,7 @@
       "claim": "The host says all of the US allies in the region have said not to do this, except Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -3301,7 +3343,7 @@
         "A-1860.1"
       ],
       "related_nodes": [
-        "N-10542"
+        "N-10497"
       ],
       "tags": [
         "relevance:context"
@@ -3321,7 +3363,7 @@
       "claim": "The host says that right before the US went to Iran, supporters began faking polls in an egregious manner, producing polls removed from reality.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11294"
+        "N-11210"
       ],
       "tags": [
         "relevance:context"
@@ -3341,7 +3383,7 @@
       "claim": "The host says bots and sock puppets are in every comment section telling people everyone wants to bomb Iran.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11294"
+        "N-11210"
       ],
       "tags": [
         "relevance:context"
@@ -3363,7 +3405,7 @@
         "A-1856.1"
       ],
       "related_nodes": [
-        "N-11294"
+        "N-11210"
       ],
       "tags": [
         "relevance:context"
@@ -3385,8 +3427,8 @@
         "A-1856.1"
       ],
       "related_nodes": [
-        "N-11103",
-        "N-11096"
+        "N-11021",
+        "N-11014"
       ],
       "tags": [
         "relevance:tangential"
@@ -3408,8 +3450,8 @@
         "A-1856.1"
       ],
       "related_nodes": [
-        "N-11128",
-        "N-10539"
+        "N-11046",
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -3453,7 +3495,7 @@
       "claim": "The host says it was just announced that she and Joe Rogan are in a three-way tie with one other podcast for the top podcasts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11228"
+        "N-11144"
       ],
       "tags": [
         "relevance:tangential"
@@ -3474,7 +3516,7 @@
       "claim": "The host says Mark Levin and others are getting top podcast status by buying it through ads and that the numbers are not real.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11228"
+        "N-11144"
       ],
       "tags": [
         "relevance:tangential"
@@ -3498,8 +3540,8 @@
         "A-3125.1"
       ],
       "related_nodes": [
-        "N-10541",
-        "N-11295"
+        "N-10496",
+        "N-11211"
       ],
       "tags": [
         "relevance:context"
@@ -3524,8 +3566,8 @@
         "A-1854.1"
       ],
       "related_nodes": [
-        "N-10540",
-        "N-10082"
+        "N-10495",
+        "N-10079"
       ],
       "tags": [
         "relevance:context"
@@ -3550,7 +3592,7 @@
         "A-1854.1"
       ],
       "related_nodes": [
-        "N-10540"
+        "N-10495"
       ],
       "tags": [
         "relevance:context"
@@ -3572,8 +3614,8 @@
         "A-1854.1"
       ],
       "related_nodes": [
-        "N-10540",
-        "N-10082"
+        "N-10495",
+        "N-10079"
       ],
       "tags": [
         "relevance:context"
@@ -3614,7 +3656,7 @@
         "A-1858.1"
       ],
       "related_nodes": [
-        "N-10540"
+        "N-10495"
       ],
       "tags": [
         "relevance:context"
@@ -3638,7 +3680,7 @@
       "claim": "The host, voicing the establishment's view, says the effort to have people repeat that it was Tyler Robinson does not seem to be working, so they are starting another war.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -3659,7 +3701,7 @@
       "claim": "The host says that as the US talks of replacing lost oil, the US is sending barrels of oil from Venezuela to Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10962"
+        "N-10883"
       ],
       "tags": [
         "relevance:context"
@@ -3682,8 +3724,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10132",
-        "N-10539"
+        "N-10127",
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -3705,7 +3747,7 @@
       "claim": "The host says that what she calls Israel worship is Baal worship, that they have to sacrifice children, and that they cannot give a reason for why our military hit the school.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11145"
+        "N-11062"
       ],
       "tags": [
         "relevance:tangential"
@@ -3727,7 +3769,7 @@
         "A-3126.2"
       ],
       "related_nodes": [
-        "N-11145"
+        "N-11062"
       ],
       "tags": [
         "relevance:context"
@@ -3749,9 +3791,9 @@
         "A-3126.2"
       ],
       "related_nodes": [
-        "N-10083",
-        "N-10540",
-        "N-10082"
+        "N-10070",
+        "N-10495",
+        "N-10079"
       ],
       "tags": [
         "relevance:context"

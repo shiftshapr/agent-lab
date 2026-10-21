@@ -86,7 +86,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10527"
+            "N-10483"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,7 +114,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10526"
+            "N-10462"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,7 +133,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10526"
+            "N-10462"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
           ],
           "related_nodes": [
             "N-572",
-            "N-10525"
+            "N-10482"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -239,7 +239,7 @@
           "related_nodes": [
             "N-575",
             "N-577",
-            "N-10529"
+            "N-10485"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -266,7 +266,7 @@
           ],
           "related_nodes": [
             "N-576",
-            "N-10529"
+            "N-10485"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -319,7 +319,7 @@
             "C-6962"
           ],
           "related_nodes": [
-            "N-10529"
+            "N-10485"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,7 +345,7 @@
             "C-6946"
           ],
           "related_nodes": [
-            "N-10530"
+            "N-10486"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -371,7 +371,7 @@
             "C-6941"
           ],
           "related_nodes": [
-            "N-10528"
+            "N-10484"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -416,7 +416,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10929"
+            "N-10850"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -459,7 +459,7 @@
             "C-6913"
           ],
           "related_nodes": [
-            "N-10532"
+            "N-10478"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -511,7 +511,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10525"
+        "N-10482"
       ]
     },
     {
@@ -577,7 +577,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-576",
-        "N-10529"
+        "N-10485"
       ]
     },
     {
@@ -620,15 +620,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10525",
-      "ref": "N-10525",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10482",
+      "ref": "N-10482",
       "name": "Antonio Placement Center Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: Constanta, Romania institution described by Larissa as \"notorious for corruption and illicit activities such as trafficking children\"; per email, Erika Kirk's promotional materials 2012–2014 referenced it as a Romanian Angels partner.",
       "related_artifacts": [
         "A-1827.1"
@@ -645,21 +645,27 @@
       "related_nodes": [
         "N-2",
         "N-572"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10484"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10526",
-      "ref": "N-10526",
-      "name": "Erika NY Real Estate License Verification Question",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10462",
+      "ref": "N-10462",
+      "name": "Erika Kirk Real Estate License Timing Question",
+      "type": "investigation_question",
       "description": "Persistent target: independent verification of NY real estate license #10401322765 (issued 2018-10-24) and of any completed NY real estate transactions.",
       "related_artifacts": [
         "A-1825.1"
       ],
       "related_claims": [
         "C-6928",
-        "C-6927"
+        "C-6927",
+        "C-6915",
+        "C-6916",
+        "C-6917",
+        "C-6930"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -668,14 +674,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10527",
-      "ref": "N-10527",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10483",
+      "ref": "N-10483",
       "name": "Erika Real Estate Bio Credential Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: verification of bio claims including magna cum laude graduation, ASU double major in political science and international relations, and Juris Master at Liberty University.",
       "related_artifacts": [
         "A-1824.1"
@@ -690,14 +697,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10463"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10528",
-      "ref": "N-10528",
+      "@type": "Topic",
+      "@id": "N-10484",
+      "ref": "N-10484",
       "name": "Arizona-Romania Pipeline Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent target: convergence of Tyler Bowyer's 2010 Romania trip, ASU Romanian studies program and honorary Romanian consulate (2010), Romania-to-Arizona charity/placement activity, and Arizona opening first US state trade office in Romania (~July 2025).",
       "related_artifacts": [
         "A-1828.1",
@@ -711,14 +720,16 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10529",
-      "ref": "N-10529",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10485",
+      "ref": "N-10485",
       "name": "SB 1439 Charlie Kirk Memorial Plate Fund Routing",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: SB 1439's \"conservative grassroots network special plate fund\" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) – descriptors matching Turning Point USA per host.",
       "related_artifacts": [
         "A-1829.1",
@@ -740,14 +751,15 @@
         "N-575",
         "N-576",
         "N-577"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10530",
-      "ref": "N-10530",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10486",
+      "ref": "N-10486",
       "name": "TPUSA Super Feed Copyright / Data Routing Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: Super Feed Inc. copyright on the Turning Point USA app per fine print; question of where user data flows.",
       "related_artifacts": [
         "A-1833.1"
@@ -759,7 +771,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -856,8 +869,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11291",
-      "ref": "N-11291",
+      "@id": "N-11207",
+      "ref": "N-11207",
       "name": "Wilhelmina Models",
       "type": "organization",
       "description": "Model agency the host says was co-founded by Fran Rothchild and where Faith Kates was first vice president of the women's division.",
@@ -869,12 +882,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
-      "@id": "N-11292",
-      "ref": "N-11292",
+      "@id": "N-11208",
+      "ref": "N-11208",
       "name": "Upper East Side Model-Housing Building Contact",
       "type": "topic",
       "description": "White building near 68th Street between 2nd and 3rd Avenues, which eyewitnesses recall Erika Kirk as the contact for.",
@@ -886,14 +901,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10478"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11293",
-      "ref": "N-11293",
+      "@type": "Organization",
+      "@id": "N-11209",
+      "ref": "N-11209",
       "name": "Win Haven Real Estate",
-      "type": "topic",
+      "type": "organization",
       "description": "Real estate company the host says Allan Rothstein chaired.",
       "related_artifacts": [],
       "related_claims": [
@@ -903,7 +920,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1086,11 +1105,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the center of headquarters, real-estate, DOGE and plate-fund claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1109,14 +1128,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10395",
-      "ref": "N-10395",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10368",
+      "ref": "N-10368",
       "name": "Tyler Bowyer 2011 Romania Activities",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the 2010 Romania trip claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1126,14 +1147,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@type": "Topic",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the trafficking-hotbed claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1143,14 +1166,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@type": "Topic",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the DOGE claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1160,54 +1184,41 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10501",
-      "ref": "N-10501",
-      "name": "Erika Kirk Real Estate License Timing Question",
-      "type": "investigation_target",
-      "description": "Existing topic reused for license timing and Next-period claims.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6915",
-        "C-6916",
-        "C-6917",
-        "C-6930"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10519",
-      "ref": "N-10519",
-      "name": "Erika Kirk Next Model Management Involvement",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10478",
+      "ref": "N-10478",
+      "name": "Next Model Management / Erika Kirk Connection",
+      "type": "investigation_question",
       "description": "Existing topic reused for new Next claims.",
       "related_artifacts": [],
       "related_claims": [
         "C-6900",
         "C-6911",
         "C-6912",
-        "C-6914"
+        "C-6914",
+        "C-6901",
+        "C-6902",
+        "C-6913",
+        "C-6968",
+        "C-6969"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10524",
-      "ref": "N-10524",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10481",
+      "ref": "N-10481",
       "name": "Faith Kates – Epstein Relationship Scope",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Epstein-at-Next claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1217,36 +1228,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10532",
-      "ref": "N-10532",
-      "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new Next claims.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6901",
-        "C-6902",
-        "C-6912",
-        "C-6913",
-        "C-6968",
-        "C-6969"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10922",
-      "ref": "N-10922",
+      "@type": "Organization",
+      "@id": "N-10843",
+      "ref": "N-10843",
       "name": "Superfeed",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose board the host says includes Lori Frantzve and Tyler Bowyer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1256,14 +1247,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10929",
-      "ref": "N-10929",
+      "@type": "Event",
+      "@id": "N-10850",
+      "ref": "N-10850",
       "name": "Erika Kirk Air Force Academy Board of Visitors Appointment",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the viewer-comment claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1273,14 +1266,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10954",
-      "ref": "N-10954",
+      "@type": "Organization",
+      "@id": "N-10875",
+      "ref": "N-10875",
       "name": "Alliance Defending Freedom",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Named by the Fox interviewer as holding an approved plate.",
       "related_artifacts": [],
       "related_claims": [
@@ -1290,14 +1285,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11104",
-      "ref": "N-11104",
+      "@type": "Organization",
+      "@id": "N-11022",
+      "ref": "N-11022",
       "name": "Liberty University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "School of Erika's claimed Juris Master.",
       "related_artifacts": [],
       "related_claims": [
@@ -1308,14 +1305,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11110",
-      "ref": "N-11110",
+      "@type": "Topic",
+      "@id": "N-11028",
+      "ref": "N-11028",
       "name": "Erika Kirk and Tyler Bowyer First-Meeting Account",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1325,14 +1324,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11165",
-      "ref": "N-11165",
+      "@type": "Organization",
+      "@id": "N-11081",
+      "ref": "N-11081",
       "name": "Romanian Angels Project",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1344,14 +1344,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11166",
-      "ref": "N-11166",
+      "@type": "Organization",
+      "@id": "N-11082",
+      "ref": "N-11082",
       "name": "Everyday Heroes Foundation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for the bio claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1361,14 +1363,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11171",
-      "ref": "N-11171",
+      "@type": "Topic",
+      "@id": "N-11087",
+      "ref": "N-11087",
       "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the DOGE claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1378,14 +1382,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11194",
-      "ref": "N-11194",
+      "@type": "Topic",
+      "@id": "N-11110",
+      "ref": "N-11110",
       "name": "Next Model Management / MC2 Model Apartments Class Action",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1395,14 +1400,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11248",
-      "ref": "N-11248",
+      "@type": "Organization",
+      "@id": "N-11164",
+      "ref": "N-11164",
       "name": "Arizona State University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Host's ASU Romanian studies claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1414,7 +1421,28 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6956"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1465,7 +1493,7 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-10527"
+        "N-10483"
       ],
       "tags": [],
       "claim_timestamp": "00:11:25",
@@ -1484,7 +1512,7 @@
         "A-1825.1"
       ],
       "related_nodes": [
-        "N-10526"
+        "N-10462"
       ],
       "tags": [],
       "claim_timestamp": "00:15:31",
@@ -1503,11 +1531,11 @@
         "A-1825.2"
       ],
       "related_nodes": [
-        "N-10526"
+        "N-10462"
       ],
       "tags": [],
       "claim_timestamp": "00:15:31",
-      "investigative_direction": "Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-10526.",
+      "investigative_direction": "Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-10462.",
       "transcript_snippet": "If you can confirm Erika's real estate license and what she sold.",
       "mentions_person_refs": [
         "N-3",
@@ -1524,7 +1552,7 @@
         "A-1826.1"
       ],
       "related_nodes": [
-        "N-10525"
+        "N-10482"
       ],
       "tags": [],
       "claim_timestamp": "00:19:15",
@@ -1543,7 +1571,7 @@
         "A-1827.1"
       ],
       "related_nodes": [
-        "N-10525"
+        "N-10482"
       ],
       "tags": [],
       "claim_timestamp": "00:20:51",
@@ -1563,7 +1591,7 @@
         "A-1828.1"
       ],
       "related_nodes": [
-        "N-10528"
+        "N-10484"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
@@ -1582,7 +1610,7 @@
         "A-1829.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ],
       "tags": [],
       "claim_timestamp": "00:30:50",
@@ -1601,7 +1629,7 @@
         "A-1830.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
@@ -1621,7 +1649,7 @@
         "A-1831.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ],
       "tags": [],
       "claim_timestamp": "00:35:05",
@@ -1642,7 +1670,7 @@
         "A-1832.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ],
       "tags": [],
       "claim_timestamp": "00:38:23",
@@ -1663,7 +1691,7 @@
         "A-1833.1"
       ],
       "related_nodes": [
-        "N-10530"
+        "N-10486"
       ],
       "tags": [],
       "claim_timestamp": "00:26:36",
@@ -1680,7 +1708,7 @@
         "A-1834.1"
       ],
       "related_nodes": [
-        "N-10528"
+        "N-10484"
       ],
       "tags": [],
       "claim_timestamp": "00:24:28",
@@ -1696,7 +1724,7 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-10527"
+        "N-10483"
       ],
       "tags": [],
       "claim_timestamp": "00:13:41",
@@ -1715,7 +1743,7 @@
         "A-1825.1"
       ],
       "related_nodes": [
-        "N-10526"
+        "N-10462"
       ],
       "tags": [],
       "claim_timestamp": "00:14:38",
@@ -1734,7 +1762,7 @@
         "A-1829.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ],
       "tags": [],
       "claim_timestamp": "00:31:36",
@@ -1748,7 +1776,7 @@
       "claim": "The host says her team did not send Erika Kirk a request for comment on this episode because Erika ignored the first email question, so a related follow-up was not expected to be answered.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10519"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -1769,8 +1797,8 @@
       "claim": "The host says Jeffrey Epstein was around Next Model Management's office a lot and frequented it as one would an office of friends, and calls this a fact.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532",
-        "N-10524"
+        "N-10478",
+        "N-10481"
       ],
       "tags": [
         "relevance:core"
@@ -1790,7 +1818,7 @@
       "claim": "The host says Faith Kates is known for having made the careers of various Eastern European models and that Next's offices had many Eastern European models passing through.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -1813,7 +1841,7 @@
       "claim": "The host says Faith Kates knew Epstein before she co-founded Next because she was previously vice president of the women's division at Wilhelmina Models, which the host says Fran (Francis) Rothschild co-founded.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11291"
+        "N-11207"
       ],
       "tags": [
         "relevance:core"
@@ -1954,7 +1982,7 @@
       "claim": "The host says that despite her multi-hyphenated career, Erika Kirk has never made the claim that she worked for a modeling agency.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10519"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -1974,8 +2002,7 @@
       "claim": "The host says eyewitness accounts recall Erika taking meetings at Next Model Management's office that pertained to real estate for models arriving from Eastern Europe.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10519",
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -2000,8 +2027,8 @@
         "A-3122.1"
       ],
       "related_nodes": [
-        "N-10532",
-        "N-11194"
+        "N-10478",
+        "N-11110"
       ],
       "tags": [
         "relevance:context"
@@ -2010,7 +2037,7 @@
       "investigative_direction": "Cross-check against reporting and the class action on Next and MC2 model housing for the housing practices described.",
       "transcript_snippet": "Younger girls, when they first get to New York City, they pack them in like cattle into one apartment.",
       "mentions_person_refs": [
-        "N-11194"
+        "N-11110"
       ]
     },
     {
@@ -2021,8 +2048,8 @@
       "claim": "The host says multiple people recall Erika as the contact for a white building on the Upper East Side around 68th Street between 2nd and 3rd Avenues, and that they did not know why.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11292",
-        "N-10519"
+        "N-11208",
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -2042,8 +2069,7 @@
       "claim": "The host says Erika did not yet have her real estate license when she was reportedly working with Next Model Management, and notes licenses are a matter of public record.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10501",
-        "N-10526"
+        "N-10462"
       ],
       "tags": [
         "relevance:core"
@@ -2063,7 +2089,7 @@
       "claim": "The host says Erika specifically told people during that period that she was doing real estate deals with her family, and the host reasons it was more likely the Rothstein family than her Scottsdale family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10501"
+        "N-10462"
       ],
       "tags": [
         "relevance:core"
@@ -2085,7 +2111,7 @@
       "claim": "The host says Erika Kirk was living with Nicole Rothstein at that time, and that Nicole Rothstein has a long career in real estate, went to school for it and now runs her own real estate company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10501"
+        "N-10462"
       ],
       "tags": [
         "relevance:core"
@@ -2108,7 +2134,7 @@
         "A-1823.1"
       ],
       "related_nodes": [
-        "N-11293"
+        "N-11209"
       ],
       "tags": [
         "relevance:core"
@@ -2169,7 +2195,7 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-10527"
+        "N-10483"
       ],
       "tags": [
         "relevance:core"
@@ -2191,8 +2217,8 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-11166",
-        "N-11165"
+        "N-11082",
+        "N-11081"
       ],
       "tags": [
         "relevance:core"
@@ -2214,8 +2240,8 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-11104",
-        "N-10527"
+        "N-11022",
+        "N-10483"
       ],
       "tags": [
         "relevance:core"
@@ -2235,8 +2261,8 @@
       "claim": "The host says she struggles to believe Erika could at once do fiduciary real estate deals, help Turning Point, film a reality show, study full-time for a Juris Master and Liberty law degree, complete 77 mandatory hours for a real estate license, run an international charity with the Marines and China work, and run a faith-based clothing company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104",
-        "N-10501"
+        "N-11022",
+        "N-10462"
       ],
       "tags": [
         "relevance:core"
@@ -2256,8 +2282,8 @@
       "claim": "The host says Erika now presents her Romania involvement as having just helped send Christmas gifts to children in an orphanage, which the host says would not need the support of the United States Marine Corps.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11165",
-        "N-10525"
+        "N-11081",
+        "N-10482"
       ],
       "tags": [
         "relevance:core"
@@ -2277,8 +2303,8 @@
       "claim": "The host says the Romanian Angels project's children were living at the Antonio Placement Center in Constanta, Romania, where she says 'our base was'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10525",
-        "N-11165"
+        "N-10482",
+        "N-11081"
       ],
       "tags": [
         "relevance:core"
@@ -2300,7 +2326,7 @@
         "A-1827.1"
       ],
       "related_nodes": [
-        "N-10525"
+        "N-10482"
       ],
       "tags": [
         "relevance:core"
@@ -2321,7 +2347,7 @@
       "claim": "The host says Tyler Bowyer, Erika's dear friend, introduced her to her husband, yet Erika cannot remember how they met.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11110"
+        "N-11028"
       ],
       "tags": [
         "relevance:core"
@@ -2345,8 +2371,8 @@
         "A-1828.1"
       ],
       "related_nodes": [
-        "N-10395",
-        "N-10528"
+        "N-10368",
+        "N-10484"
       ],
       "tags": [
         "relevance:core"
@@ -2367,8 +2393,8 @@
       "claim": "The host says Arizona State University is the only university in America where one can earn a minor in Romanian studies, and that there is no major.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11248",
-        "N-10528"
+        "N-11164",
+        "N-10484"
       ],
       "tags": [
         "relevance:context"
@@ -2377,7 +2403,7 @@
       "investigative_direction": "Check ASU's catalog and other US universities' Romanian programs.",
       "transcript_snippet": "Arizona State University is actually the only university in America that you can even achieve a minor in Romanian studies.",
       "mentions_person_refs": [
-        "N-10528"
+        "N-10484"
       ]
     },
     {
@@ -2388,8 +2414,8 @@
       "claim": "The host says that in 2010 Arizona State University became the site of an honorary consulate general of Romania in Arizona, and in 2011 the program inaugurated the first Romanian lectorate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11248",
-        "N-10528"
+        "N-11164",
+        "N-10484"
       ],
       "tags": [
         "relevance:context"
@@ -2406,8 +2432,8 @@
       "claim": "The host says the ASU Romanian lectorate was funded by a Romanian language institute and that ASU also launched the Central European Cultural Collaborative, which facilitates partnerships with Romanian universities.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11248",
-        "N-10528"
+        "N-11164",
+        "N-10484"
       ],
       "tags": [
         "relevance:context"
@@ -2416,7 +2442,7 @@
       "investigative_direction": "Find the funding body (host does not name it) and the collaborative's founding documents.",
       "transcript_snippet": "the first in an American academic environment. And it was funded by a Romanian language institute.",
       "mentions_person_refs": [
-        "N-10528"
+        "N-10484"
       ]
     },
     {
@@ -2449,7 +2475,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:context"
@@ -2458,7 +2484,7 @@
       "investigative_direction": "Identify the campus location meant and the trafficking data (arrest or hotline statistics) the host relies on.",
       "transcript_snippet": "choose a a spot for their campus that is a trafficking hotbed factually",
       "mentions_person_refs": [
-        "N-10401"
+        "N-10374"
       ]
     },
     {
@@ -2471,8 +2497,8 @@
         "A-1833.1"
       ],
       "related_nodes": [
-        "N-10922",
-        "N-10530"
+        "N-10843",
+        "N-10486"
       ],
       "tags": [
         "relevance:core"
@@ -2517,8 +2543,8 @@
       "claim": "The host lists, among the things that stink, Charlie establishing a DOGE seven days before he died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11171",
-        "N-10434"
+        "N-11087",
+        "N-10404"
       ],
       "tags": [
         "relevance:core"
@@ -2542,7 +2568,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10529"
+        "N-10485"
       ],
       "tags": [
         "relevance:core"
@@ -2565,7 +2591,7 @@
         "A-1829.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ],
       "tags": [
         "relevance:core"
@@ -2588,7 +2614,7 @@
         "A-1829.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ],
       "tags": [
         "relevance:context"
@@ -2610,7 +2636,7 @@
         "A-1829.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ],
       "tags": [
         "relevance:core"
@@ -2629,7 +2655,8 @@
         "A-1831.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -2652,8 +2679,8 @@
         "A-1831.1"
       ],
       "related_nodes": [
-        "N-10954",
-        "N-10529"
+        "N-10875",
+        "N-10485"
       ],
       "tags": [
         "relevance:context"
@@ -2662,7 +2689,7 @@
       "investigative_direction": "Check the Arizona MVD specialty plate list for those plates and their approval dates.",
       "transcript_snippet": "We have Choose Life. That's from the Arizona Life Coalition and its mission to promote anti-abortion advocacy. We have one from Alliance Defending Freedom.",
       "mentions_person_refs": [
-        "N-10529"
+        "N-10485"
       ]
     },
     {
@@ -2675,7 +2702,7 @@
         "A-1831.1"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10485"
       ],
       "tags": [
         "relevance:context"
@@ -2699,7 +2726,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10529"
+        "N-10485"
       ],
       "tags": [
         "relevance:core"
@@ -2765,7 +2792,7 @@
         "A-3121.2"
       ],
       "related_nodes": [
-        "N-10929"
+        "N-10850"
       ],
       "tags": [
         "relevance:context"
@@ -2849,7 +2876,7 @@
       "claim": "The host says people from the Next modeling orbit liked Melania and said those who believed she wanted to be first lady had it very wrong, that she was aloof and they knew she would end up with somebody powerful.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:tangential"
@@ -2869,7 +2896,7 @@
       "claim": "The host says Melania's name came up with the Next Model discussion, that she came from Serbia (Melania Trump is generally reported to be from Slovenia), was a model in their orbit, and that the host does not believe she was managed by Next.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:tangential"

@@ -30,7 +30,7 @@
             "C-13830"
           ],
           "related_nodes": [
-            "N-10875",
+            "N-10796",
             "N-3",
             "N-262"
           ],
@@ -58,7 +58,7 @@
             "C-13845"
           ],
           "related_nodes": [
-            "N-10876",
+            "N-10797",
             "N-202",
             "N-206"
           ],
@@ -86,8 +86,8 @@
             "C-13853"
           ],
           "related_nodes": [
-            "N-10874",
-            "N-10839",
+            "N-10795",
+            "N-10762",
             "N-1",
             "N-8",
             "N-10"
@@ -107,7 +107,7 @@
             "C-13859"
           ],
           "related_nodes": [
-            "N-10874",
+            "N-10795",
             "N-1"
           ],
           "tags": [],
@@ -137,7 +137,7 @@
             "N-271",
             "N-270",
             "N-58",
-            "N-10839"
+            "N-10762"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -163,11 +163,11 @@
             "C-13875"
           ],
           "related_nodes": [
-            "N-10877",
+            "N-10798",
             "N-165",
             "N-172",
             "N-9",
-            "N-10324"
+            "N-10303"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -192,7 +192,7 @@
             "C-13881"
           ],
           "related_nodes": [
-            "N-10878",
+            "N-10799",
             "N-177",
             "N-194"
           ],
@@ -219,7 +219,7 @@
             "C-13884"
           ],
           "related_nodes": [
-            "N-10879",
+            "N-10800",
             "N-330",
             "N-3"
           ],
@@ -355,7 +355,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ]
     },
     {
@@ -375,7 +375,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10876"
+        "N-10797"
       ]
     },
     {
@@ -398,7 +398,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10875"
+        "N-10796"
       ]
     },
     {
@@ -418,7 +418,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10324",
+        "N-10303",
         "N-165"
       ]
     },
@@ -442,8 +442,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10687",
-        "N-10737"
+        "N-10625",
+        "N-10636"
       ]
     },
     {
@@ -464,8 +464,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10324",
-        "N-10877"
+        "N-10303",
+        "N-10798"
       ]
     },
     {
@@ -550,7 +550,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ]
     },
     {
@@ -607,8 +607,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10699",
-        "N-10737"
+        "N-10636"
       ]
     },
     {
@@ -649,7 +648,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -671,7 +670,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10879"
+        "N-10800"
       ]
     },
     {
@@ -742,15 +741,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10872"
+        "N-10793"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused topic for Lutnick/Andre death and Bondi catastrophe framing.",
       "related_artifacts": [],
       "related_claims": [
@@ -763,15 +762,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10877"
-      ]
+        "N-10798"
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10559",
-      "ref": "N-10559",
-      "name": "Nick Shirley Background Verification",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10512",
+      "ref": "N-10512",
+      "name": "Nick Shirley Background and Backing Verification",
+      "type": "investigation_question",
       "description": "Prior Shirley topic; this episode revisits Shirley as last Charlie Kirk Show guest and failed daycare distraction.",
       "related_artifacts": [],
       "related_claims": [
@@ -784,35 +784,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-213",
-        "N-10666"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10666",
-      "ref": "N-10666",
-      "name": "Nick Shirley Background and Backing Verification",
-      "type": "investigation_target",
-      "description": "Companion Shirley investigation target reused with C-13836.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-13836"
+        "N-10512"
       ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-213"
-      ]
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior CPR-claim topic; host restates Turek's back-seat CPR story against Harpole and the unnamed captain.",
       "related_artifacts": [],
       "related_claims": [
@@ -825,14 +806,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-7"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10699",
-      "ref": "N-10699",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10636",
+      "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior contradiction topic continued by fire-captain omission.",
       "related_artifacts": [],
       "related_claims": [
@@ -845,35 +828,17 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-266",
-        "N-7"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10737",
-      "ref": "N-10737",
-      "name": "CPR Narrative Contradiction (Turek / Harpole)",
-      "type": "investigation_target",
-      "description": "Broader CPR-contradiction topic; fire-captain redaction is the new pressure point.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-13853"
+        "N-7",
+        "N-10795"
       ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-10874"
-      ]
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10839",
-      "ref": "N-10839",
+      "@type": "Thing",
+      "@id": "N-10762",
+      "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Central document for unnamed Station 2 fire captain and for Turek's continued roofs claim after release.",
       "related_artifacts": [
         "A-2476.1"
@@ -888,15 +853,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10874"
-      ]
+        "N-10795"
+      ],
+      "schema_org": "Report"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10859",
-      "ref": "N-10859",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10780",
+      "ref": "N-10780",
       "name": "TPUSA Non-Participation in UVU Independent Review",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Background for host's point that the review still named TPUSA figures who did not want to participate.",
       "related_artifacts": [],
       "related_claims": [
@@ -910,14 +876,16 @@
       "related_nodes": [
         "N-8",
         "N-10"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10867",
-      "ref": "N-10867",
+      "@type": "Topic",
+      "@id": "N-10788",
+      "ref": "N-10788",
       "name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Prior smear-package topic; Candyland nanny rumor is the next flip the host satirizes.",
       "related_artifacts": [],
       "related_claims": [
@@ -929,15 +897,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10875"
-      ]
+        "N-10796"
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10872",
-      "ref": "N-10872",
+      "@type": "Topic",
+      "@id": "N-10793",
+      "ref": "N-10793",
       "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused in comments; host teases further dots next episode.",
       "related_artifacts": [],
       "related_claims": [],
@@ -948,14 +917,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-25"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10874",
-      "ref": "N-10874",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10795",
+      "ref": "N-10795",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "New topic: Station 2 fire captain who (per review) gave CPR at Timpanogos is unnamed; host seeks identity via tips and plays corroborating dispatch audio.",
       "related_artifacts": [
         "A-2476.1",
@@ -972,16 +942,18 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10839",
+        "N-10762",
         "N-1"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10875",
-      "ref": "N-10875",
+      "@type": "Topic",
+      "@id": "N-10796",
+      "ref": "N-10796",
       "name": "Candyland Illegal-Nanny Mansion NDA Smear",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "New topic: Lisa Nose / Jessica Reed Kraus rumor that Candace warehouses illegal nannies under NDA in a second mansion; host brands the fantasy series Candyland.",
       "related_artifacts": [
         "A-2474.1"
@@ -997,15 +969,16 @@
       "related_nodes": [
         "N-3",
         "N-262",
-        "N-10867"
-      ]
+        "N-10788"
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10876",
-      "ref": "N-10876",
+      "@type": "Topic",
+      "@id": "N-10797",
+      "ref": "N-10797",
       "name": "Killer-Mom Filicide Narrative as Internet-Regulation SCOP",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "New topic: Clancy-seeded, Mace/NY Post/Libs-amplified filicide panic that host says lacks statistical basis and aims to regulate women online after Charlie-case bots failed.",
       "related_artifacts": [
         "A-2475.1"
@@ -1023,14 +996,15 @@
         "N-202",
         "N-206",
         "N-2"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10877",
-      "ref": "N-10877",
+      "@type": "Event",
+      "@id": "N-10798",
+      "ref": "N-10798",
       "name": "Howard Lutnick / Simon Andriesz Epstein Whistleblower Death",
-      "type": "investigation_target",
+      "type": "event",
       "description": "New topic: Andre's reported death after alleging Lutnick-Epstein business ties and island visits; host flags suicide narrative as suspicious.",
       "related_artifacts": [
         "A-2478.1"
@@ -1048,15 +1022,17 @@
         "N-165",
         "N-172",
         "N-9",
-        "N-10324"
-      ]
+        "N-10303"
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10878",
-      "ref": "N-10878",
+      "@type": "Event",
+      "@id": "N-10799",
+      "ref": "N-10799",
       "name": "Zach Bryan Free Palestine Gillette Stadium Record",
-      "type": "investigation_target",
+      "type": "event",
       "description": "New topic: Bryan's Free Palestine shirt nights and claimed attendance-record break after Kraft canceled Macklemore at Gillette.",
       "related_artifacts": [
         "A-2479.1"
@@ -1072,14 +1048,16 @@
       "related_nodes": [
         "N-177",
         "N-194"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10879",
-      "ref": "N-10879",
+      "@type": "Topic",
+      "@id": "N-10800",
+      "ref": "N-10800",
       "name": "Baron Coleman Pre-Host Character Attack Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "New topic: coordinated old-interview digs and trending criticism after Candace announced Coleman would guest-host.",
       "related_artifacts": [
         "A-2480.1"
@@ -1095,7 +1073,8 @@
       "related_nodes": [
         "N-330",
         "N-3"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1117,7 +1096,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10877",
+        "N-10798",
         "N-9"
       ]
     },
@@ -1141,7 +1120,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10877",
+        "N-10798",
         "N-165"
       ]
     },
@@ -1164,7 +1143,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10878"
+        "N-10799"
       ]
     },
     {
@@ -1186,7 +1165,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10878"
+        "N-10799"
       ]
     },
     {
@@ -1209,7 +1188,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10876"
+        "N-10797"
       ]
     },
     {
@@ -1232,7 +1211,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10876"
+        "N-10797"
       ]
     },
     {
@@ -1241,7 +1220,7 @@
       "ref": "N-213",
       "name": "Nick Shirley",
       "type": "person",
-      "description": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-10559 / N-10666.",
+      "description": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-10512 / N-10512.",
       "related_artifacts": [],
       "related_claims": [
         "C-13836"
@@ -1252,8 +1231,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10559",
-        "N-10666",
+        "N-10512",
         "N-14"
       ]
     },
@@ -1332,7 +1310,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10875"
+        "N-10796"
       ]
     },
     {
@@ -1404,11 +1382,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1422,14 +1400,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1441,14 +1421,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1461,14 +1443,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@type": "Topic",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1478,14 +1462,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10064",
-      "ref": "N-10064",
+      "@type": "Place",
+      "@id": "N-10061",
+      "ref": "N-10061",
       "name": "The Pentagon",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1495,14 +1480,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@type": "Place",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1512,14 +1499,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10082",
-      "ref": "N-10082",
+      "@type": "Organization",
+      "@id": "N-10079",
+      "ref": "N-10079",
       "name": "CIA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1529,14 +1519,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10083",
-      "ref": "N-10083",
+      "@type": "Organization",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1546,14 +1538,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1563,14 +1557,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10243",
-      "ref": "N-10243",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10229",
+      "ref": "N-10229",
       "name": "UVU Outdoor Venue Selection Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1581,14 +1576,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10646",
-      "ref": "N-10646",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10590",
+      "ref": "N-10590",
       "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1600,14 +1596,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10730",
-      "ref": "N-10730",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10664",
+      "ref": "N-10664",
       "name": "Frank Turek FaceTime Story Inconsistency",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1617,14 +1614,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10885",
-      "ref": "N-10885",
+      "@type": "Thing",
+      "@id": "N-10806",
+      "ref": "N-10806",
       "name": "Jennica Pounds DoD Special Government Employee Thread",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1634,14 +1632,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SocialMediaPosting"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10887",
-      "ref": "N-10887",
+      "@type": "Place",
+      "@id": "N-10808",
+      "ref": "N-10808",
       "name": "Las Vegas",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1652,14 +1651,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@type": "Organization",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1670,14 +1671,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10898",
-      "ref": "N-10898",
+      "@type": "Organization",
+      "@id": "N-10819",
+      "ref": "N-10819",
       "name": "New York Post",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1688,14 +1691,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11020",
-      "ref": "N-11020",
+      "@type": "Topic",
+      "@id": "N-11292",
+      "ref": "N-11292",
       "name": "Military Bot Activity Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1705,14 +1710,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11087",
-      "ref": "N-11087",
+      "@type": "Thing",
+      "@id": "N-11005",
+      "ref": "N-11005",
       "name": "TPUSA Notice of Intent to Sue UVU",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1722,14 +1728,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11096",
-      "ref": "N-11096",
+      "@type": "Topic",
+      "@id": "N-11014",
+      "ref": "N-11014",
       "name": "TikTok Israel Moderation Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1739,14 +1746,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11103",
-      "ref": "N-11103",
+      "@type": "Organization",
+      "@id": "N-11021",
+      "ref": "N-11021",
       "name": "TikTok",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1756,7 +1764,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1794,8 +1804,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11213",
-      "ref": "N-11213",
+      "@id": "N-11129",
+      "ref": "N-11129",
       "name": "Libs of TikTok",
       "type": "organization",
       "description": "X account the host says amplified the killer-mom narrative and calls an Israel operative; she reads one of its posts about a South Carolina infant death.",
@@ -1808,12 +1818,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
-      "@id": "N-11214",
-      "ref": "N-11214",
+      "@id": "N-11130",
+      "ref": "N-11130",
       "name": "Flash-Flood Fire Captain Rumor",
       "type": "topic",
       "description": "Viewer conspiracies about a different fire captain who perished with his whole family in a flash flood and worked with Provo EMS, which the host says she has seen no evidence tying to the Kirk case.",
@@ -1825,12 +1837,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11215",
-      "ref": "N-11215",
+      "@id": "N-11131",
+      "ref": "N-11131",
       "name": "UVU Security Team Conduct and Ticket-Count Communication",
       "type": "topic",
       "description": "The host's account, from the UVU review, that the TPUSA security team did not contact police, headquarters withheld the ticket count and gave a wrong attendance figure, and the indoor suggestion was ignored.",
@@ -1845,12 +1858,13 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11216",
-      "ref": "N-11216",
+      "@id": "N-11132",
+      "ref": "N-11132",
       "name": "Candace-Charlie Unfollow Narrative",
       "type": "topic",
       "description": "Claim that Candace Owens and Charlie Kirk unfollowed each other over a rift, which the host says was a book announcement.",
@@ -1862,7 +1876,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10085"
     }
   ],
   "claims": [
@@ -1876,8 +1892,8 @@
         "A-2474.1"
       ],
       "related_nodes": [
-        "N-10875",
-        "N-10867"
+        "N-10796",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:01:13",
@@ -1897,7 +1913,7 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-10876"
+        "N-10797"
       ],
       "tags": [],
       "claim_timestamp": "00:09:26",
@@ -1938,8 +1954,7 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-10559",
-        "N-10666"
+        "N-10512"
       ],
       "tags": [],
       "claim_timestamp": "00:08:23",
@@ -1960,7 +1975,7 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-10876"
+        "N-10797"
       ],
       "tags": [],
       "claim_timestamp": "00:15:48",
@@ -1976,9 +1991,9 @@
         "A-2476.1"
       ],
       "related_nodes": [
-        "N-10874",
-        "N-10839",
-        "N-10859"
+        "N-10795",
+        "N-10762",
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:25:48",
@@ -1999,10 +2014,9 @@
         "A-2476.1"
       ],
       "related_nodes": [
-        "N-10874",
-        "N-10687",
-        "N-10699",
-        "N-10737"
+        "N-10795",
+        "N-10625",
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
@@ -2022,7 +2036,7 @@
         "A-2476.2"
       ],
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ],
       "tags": [],
       "claim_timestamp": "00:27:16",
@@ -2041,7 +2055,7 @@
         "A-2477.1"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:35:11",
@@ -2063,8 +2077,8 @@
         "A-2478.1"
       ],
       "related_nodes": [
-        "N-10324",
-        "N-10877"
+        "N-10303",
+        "N-10798"
       ],
       "tags": [],
       "claim_timestamp": "00:40:26",
@@ -2087,8 +2101,8 @@
         "A-2478.1"
       ],
       "related_nodes": [
-        "N-10877",
-        "N-10324"
+        "N-10798",
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:41:13",
@@ -2109,7 +2123,7 @@
         "A-2479.1"
       ],
       "related_nodes": [
-        "N-10878"
+        "N-10799"
       ],
       "tags": [],
       "claim_timestamp": "00:45:05",
@@ -2131,7 +2145,7 @@
         "A-2480.1"
       ],
       "related_nodes": [
-        "N-10879"
+        "N-10800"
       ],
       "tags": [],
       "claim_timestamp": "00:47:22",
@@ -2185,8 +2199,8 @@
       "claim": "The host says a SCOP (psychological operation) is under way that is meant to distract the audience from the UVU independent review.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10839",
-        "N-10876"
+        "N-10762",
+        "N-10797"
       ],
       "tags": [
         "relevance:core"
@@ -2211,7 +2225,7 @@
         "A-2474.1"
       ],
       "related_nodes": [
-        "N-10875"
+        "N-10796"
       ],
       "tags": [
         "relevance:tangential"
@@ -2233,7 +2247,7 @@
       "claim": "The host says another rumor about her alleges she paid off someone for less than $5,000 after her husband hit them in a DUI accident; she lists it among the Candace conspiracies and does not present it as true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10867"
+        "N-10788"
       ],
       "tags": [
         "relevance:tangential"
@@ -2271,9 +2285,9 @@
       "claim": "The host says that within five days of the Weinstein story nobody was speaking about the Las Vegas shooting, \"which appeared to be a CIA Mossad operation\".",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10887",
+        "N-10808",
         "N-10015",
-        "N-10082"
+        "N-10079"
       ],
       "tags": [
         "relevance:tangential"
@@ -2297,7 +2311,7 @@
       "claim": "The host says Representative Nancy Mace has accepted over six figures from AIPAC and cannot utter a single bad word about Israel, and that Mace is among those pushing the killer-mom narrative.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10083",
+        "N-10070",
         "N-10026"
       ],
       "tags": [
@@ -2320,7 +2334,7 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-10876"
+        "N-10797"
       ],
       "tags": [
         "relevance:tangential"
@@ -2345,8 +2359,8 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-10876",
-        "N-10898"
+        "N-10797",
+        "N-10819"
       ],
       "tags": [
         "relevance:tangential"
@@ -2368,8 +2382,8 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-11213",
-        "N-10876"
+        "N-11129",
+        "N-10797"
       ],
       "tags": [
         "relevance:tangential"
@@ -2389,8 +2403,8 @@
       "claim": "The host says Libs of TikTok is an Israel operative who has been flooding the zone with stories to create mass panic about mothers killing children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11213",
-        "N-10876",
+        "N-11129",
+        "N-10797",
         "N-10026"
       ],
       "tags": [
@@ -2400,7 +2414,7 @@
       "investigative_direction": "Ask what documentation, if any, shows funding or coordination between the account and any Israeli entity.",
       "transcript_snippet": "And of course, this is being echoed by Libs of Tik Tok, another committed Israel, Israeli operative.",
       "mentions_person_refs": [
-        "N-10876",
+        "N-10797",
         "N-10026"
       ]
     },
@@ -2412,8 +2426,8 @@
       "claim": "The host says Israel took over TikTok after it became too pro-Palestine following October 7, and that a group of Zionist investors bought it to get rid of pro-Palestine talk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103",
-        "N-11096",
+        "N-11021",
+        "N-11014",
         "N-10026"
       ],
       "tags": [
@@ -2426,7 +2440,7 @@
         "C-1394"
       ],
       "mentions_person_refs": [
-        "N-11096",
+        "N-11014",
         "N-10026"
       ]
     },
@@ -2438,7 +2452,7 @@
       "claim": "The host calls the New York Post the \"Mossad's rag\" and says it had everything to do with Ghislaine Maxwell and with the report that Jeffrey Epstein had been suicided in his cell, covering for Maxwell.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10898",
+        "N-10819",
         "N-10015"
       ],
       "tags": [
@@ -2460,7 +2474,7 @@
       "claim": "The host says men are more likely to kill a child over five and to kill the entire household over a divorce settlement, women are more likely to kill a child under five, and that filicide is not an epidemic either way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10876"
+        "N-10797"
       ],
       "tags": [
         "relevance:context"
@@ -2480,7 +2494,7 @@
       "claim": "The host says the people pushing the killer-mom narrative were also not curious about Charlie Kirk having abandoned the pro-Israel cause shortly before his death, facing fights with people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056",
+        "N-10053",
         "N-10026"
       ],
       "tags": [
@@ -2504,7 +2518,7 @@
       "claim": "The host says the evidence pointing to Tyler Robinson's guilt is virtually non-existent, and groups the narrative-pushers by their response to it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -2524,7 +2538,7 @@
       "claim": "The host says people on both left and right sensed almost immediately that something was off with the widow, the administration and the fireworks, based on gut instinct and without knowing anything about Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10876"
+        "N-10797"
       ],
       "tags": [
         "relevance:core"
@@ -2544,8 +2558,8 @@
       "claim": "The host gives her opinion that the people pushing this narrative will seek to regulate the internet because of the Pentagon's astonishing failure to cover its own tracks regarding the assassination of Charlie Kirk, and that women are blamed because they did not accept Erika Kirk's performance.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10064",
-        "N-10876"
+        "N-10061",
+        "N-10797"
       ],
       "tags": [
         "relevance:core"
@@ -2588,8 +2602,8 @@
       "claim": "The host says the Department of War is controlling the algorithm and launching an infinite amount of bots against her, and that this is not working.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
-        "N-11020"
+        "N-10809",
+        "N-11292"
       ],
       "tags": [
         "relevance:context"
@@ -2598,7 +2612,7 @@
       "investigative_direction": "Request platform data on coordinated inauthentic activity targeting the host.",
       "transcript_snippet": "which means that the Department of War controlling our algorithm and launching an infinite amount of bots is not working.",
       "mentions_person_refs": [
-        "N-11020"
+        "N-11292"
       ]
     },
     {
@@ -2609,8 +2623,8 @@
       "claim": "The host says they went insane last week because of the release of UVU's independent review, which she says embeds a truth about the CPR question.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10839",
-        "N-10874"
+        "N-10762",
+        "N-10795"
       ],
       "tags": [
         "relevance:core"
@@ -2632,8 +2646,7 @@
         "A-2476.1"
       ],
       "related_nodes": [
-        "N-10699",
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2659,7 +2672,7 @@
       "claim": "The host recounts Harpole's story as grabbing a gurney, hopping on it, cutting off Charlie's shirt, prepping him for a defibrillator, talking through the medications needed, and guarding the door.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2680,7 +2693,7 @@
       "claim": "The host says that on the basis of the stories both men told, we are to assume Frank Turek was FaceTiming Jack Hibbs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [
         "relevance:core"
@@ -2707,7 +2720,7 @@
         "A-2476.2"
       ],
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ],
       "tags": [
         "relevance:core"
@@ -2726,7 +2739,7 @@
         "A-2995.1"
       ],
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ],
       "tags": [
         "relevance:core"
@@ -2746,9 +2759,9 @@
       "claim": "The host says she is aware of conspiracies about a different fire captain who perished with his entire family in a flash flood, that he did work with Provo EMS from which some calls appear to come, and that she has not seen any information attaching him necessarily to this story.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11214",
-        "N-10074",
-        "N-10874"
+        "N-11130",
+        "N-10071",
+        "N-10795"
       ],
       "tags": [
         "relevance:tangential"
@@ -2768,7 +2781,7 @@
       "claim": "The host says Charlie Kirk's security team was made up of about 13 members, all former SEALs with long military records, and that they did virtually nothing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11215",
+        "N-11131",
         "N-10000"
       ],
       "tags": [
@@ -2789,8 +2802,8 @@
       "claim": "The host says the security team did not even try to get in touch with the police and that the police had to play offense.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11215",
-        "N-10839"
+        "N-11131",
+        "N-10762"
       ],
       "tags": [
         "relevance:core"
@@ -2799,7 +2812,7 @@
       "investigative_direction": "Review UVU police communication logs and the review's account of contact with the TPUSA team.",
       "transcript_snippet": "I mean, didn't even get try to get in touch with the police. The police had to uh play offense on that.",
       "mentions_person_refs": [
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -2810,8 +2823,8 @@
       "claim": "The host says headquarters was not sharing the ticket count, so there was no way they could have prepared without knowing the numbers sufficiently.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11215",
-        "N-10839",
+        "N-11131",
+        "N-10762",
         "N-10000"
       ],
       "tags": [
@@ -2824,7 +2837,7 @@
         "C-13551"
       ],
       "mentions_person_refs": [
-        "N-10839",
+        "N-10762",
         "N-10000"
       ]
     },
@@ -2837,7 +2850,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10646"
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2862,7 +2875,7 @@
         "A-2477.1"
       ],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2889,7 +2902,7 @@
         "A-2477.1"
       ],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2913,7 +2926,7 @@
         "A-2477.1"
       ],
       "related_nodes": [
-        "N-10243"
+        "N-10229"
       ],
       "tags": [
         "relevance:core"
@@ -2934,9 +2947,9 @@
       "claim": "The host says TPUSA did not tell UVU how many people were going to be there and in fact communicated the exact wrong number.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11215",
+        "N-11131",
         "N-10000",
-        "N-10839"
+        "N-10762"
       ],
       "tags": [
         "relevance:core"
@@ -2949,7 +2962,7 @@
       ],
       "mentions_person_refs": [
         "N-10000",
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -2960,9 +2973,9 @@
       "claim": "The host says TPUSA ignored the suggestion to hold the event indoors, which would have given more control for safety.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10243",
+        "N-10229",
         "N-10000",
-        "N-10839"
+        "N-10762"
       ],
       "tags": [
         "relevance:core"
@@ -2972,7 +2985,7 @@
       "transcript_snippet": "Uh they ignored their suggestion to have this event be indoor.",
       "mentions_person_refs": [
         "N-10000",
-        "N-10839"
+        "N-10762"
       ]
     },
     {
@@ -2985,7 +2998,7 @@
         "A-2477.1"
       ],
       "related_nodes": [
-        "N-11087"
+        "N-11005"
       ],
       "tags": [
         "relevance:context"
@@ -3008,7 +3021,7 @@
         "A-2478.1"
       ],
       "related_nodes": [
-        "N-10877"
+        "N-10798"
       ],
       "tags": [
         "relevance:tangential"
@@ -3032,7 +3045,7 @@
         "A-2478.1"
       ],
       "related_nodes": [
-        "N-10877"
+        "N-10798"
       ],
       "tags": [
         "relevance:tangential"
@@ -3053,7 +3066,7 @@
       "claim": "The host says Pam Bondi said it would lead to global economic catastrophe if the Epstein files were released.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:tangential"
@@ -3074,7 +3087,7 @@
       "claim": "The host says she thinks the files would reveal fake wives and an entire Mossad network of women pretending to love men who are going through MK Ultra programming from a young age.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324",
+        "N-10303",
         "N-10015"
       ],
       "tags": [
@@ -3095,7 +3108,7 @@
       "claim": "The host says that is why Trump wanted people to turn around and move on from the Epstein files, and why they engage in SCOPs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:tangential"
@@ -3116,7 +3129,7 @@
       "claim": "The host says Ed Sheeran knew what he was getting into when he offered Macklemore, a longtime friend, the opening slot, because Macklemore always brings up a cause on stage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10878"
+        "N-10799"
       ],
       "tags": [
         "relevance:tangential"
@@ -3140,7 +3153,7 @@
       "claim": "The host says Robert Kraft, on a technicality, got a case dropped against him, and adds that he is not guilty of anything.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10878"
+        "N-10799"
       ],
       "tags": [
         "relevance:tangential"
@@ -3162,7 +3175,7 @@
         "A-2997.1"
       ],
       "related_nodes": [
-        "N-10887"
+        "N-10808"
       ],
       "tags": [
         "relevance:context"
@@ -3182,7 +3195,7 @@
       "claim": "The host says the feds are blaming something on a black autistic kid, and that she may connect dots tomorrow on why.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10872"
+        "N-10793"
       ],
       "tags": [
         "relevance:tangential"
@@ -3202,8 +3215,8 @@
       "claim": "The host says the Data Republican resigned and was \"literally hired to go after me\", and that she wants Schuyler to remind her to discuss it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10885",
-        "N-10888"
+        "N-10806",
+        "N-10809"
       ],
       "tags": [
         "relevance:context"
@@ -3226,7 +3239,7 @@
         "A-2996.1"
       ],
       "related_nodes": [
-        "N-11216"
+        "N-11132"
       ],
       "tags": [
         "relevance:core"

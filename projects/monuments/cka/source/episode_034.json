@@ -18,12 +18,12 @@
     "- **Transcript SHA-256**: fe75ca00c3ec2d7898bbeee433de0d6e98b126fb899e15735450cf108ba10f1b",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10): N-706, N-11006, N-11007",
-    "  - Hole-minted Nodes (reintro-ep034): N-266, N-267, N-271, N-10267, N-10427, N-10496, N-10645, N-10762",
+    "  - Tip-minted Nodes (supplement_2026-10): N-706, N-10926, N-10927",
+    "  - Hole-minted Nodes (reintro-ep034): N-266, N-267, N-271, N-10251, N-10589, N-10691",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-2981–C-3049",
-    "  - New Nodes Introduced: N-10259, N-10260, N-10261, N-10262, N-10263",
-    "  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-188, N-209, N-224, N-756, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-329, N-10264, N-10662, N-707, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769, N-10635",
+    "  - New Nodes Introduced: N-10245, N-10246, N-10247",
+    "  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-188, N-209, N-224, N-756, N-10000, N-10011, N-10012, N-10014, N-10025, N-10040, N-10044, N-10049, N-10095, N-10124, N-10141, N-10158, N-10190, N-10196, N-10199, N-10200, N-10214, N-10232, N-10234, N-10239, N-10240, N-10242, N-329, N-10248, N-10604, N-707, N-10332, N-10503, N-10590, N-10321, N-10698, N-10581",
     "  - (see registers)",
     "",
     "# Episode Analysis: Monument Episode 34",
@@ -43,7 +43,7 @@
     "### Episode 34 Ledger Summary",
     "- Artifact Families Introduced: A-1425, A-1426, A-1427, A-1428, A-1429, A-1430, A-1431, A-1432, A-1433, A-1434",
     "- New Nodes Introduced (People):  ",
-    "- New Nodes Introduced (Investigation Targets): N-10259, N-10260, N-10261, N-10262, N-10263, N-10264",
+    "- New Nodes Introduced (Investigation Targets): N-10242, N-10245, N-10246, N-10247, N-10248",
     "- Existing Nodes Reused (referenced, IDs presumed in earlier episodes): Charlie Kirk, Erika Kirk, Mikey McCoy, Kash Patel, Joe Kent, Tulsi Gabbard, Tim Pool (referred to in transcript as \"Tim P\"), Ryan Matta, Phil Lyman, Elizabeth Lane, Megyn Kelly",
     "",
     "---",
@@ -82,7 +82,7 @@
      "raw": "- Confidence Level: Medium"
     },
     {
-     "raw": "- *Related: C-2989, N-10259, A-1425.2–A-1425.5*"
+     "raw": "- *Related: C-2989, N-10242, A-1425.2–A-1425.5*"
     },
     {
      "raw": ""
@@ -111,7 +111,7 @@
      "raw": "- Confidence Level: Medium"
     },
     {
-     "raw": "- *Related: C-2989, N-10259, A-1425.1, A-1425.3*"
+     "raw": "- *Related: C-2989, N-10242, A-1425.1, A-1425.3*"
     },
     {
      "raw": ""
@@ -140,7 +140,7 @@
      "raw": "- Confidence Level: Medium"
     },
     {
-     "raw": "- *Related: C-2989, N-10259, A-1425.2, A-1425.4*"
+     "raw": "- *Related: C-2989, N-10242, A-1425.2, A-1425.4*"
     },
     {
      "raw": ""
@@ -169,7 +169,7 @@
      "raw": "- Confidence Level: Medium"
     },
     {
-     "raw": "- *Related: C-2989, N-10259, A-1425.3, A-1425.5*"
+     "raw": "- *Related: C-2989, N-10242, A-1425.3, A-1425.5*"
     },
     {
      "raw": ""
@@ -198,7 +198,7 @@
      "raw": "- Confidence Level: Medium"
     },
     {
-     "raw": "- *Related: C-2989, N-10259, A-1425.4*"
+     "raw": "- *Related: C-2989, N-10242, A-1425.4*"
     },
     {
      "raw": ""
@@ -240,7 +240,7 @@
      "raw": "- Confidence Level: High"
     },
     {
-     "raw": "- *Related: C-2995, N-10261, A-1427.1*"
+     "raw": "- *Related: C-2995, N-10246, A-1427.1*"
     },
     {
      "raw": ""
@@ -282,7 +282,7 @@
      "raw": "- Confidence Level: Medium (recording conditions not specified; identities partially anonymized)"
     },
     {
-     "raw": "- *Related: C-2995, N-10261, A-1426.1*"
+     "raw": "- *Related: C-2995, N-10246, A-1426.1*"
     },
     {
      "raw": ""
@@ -424,7 +424,7 @@
      "raw": "- Confidence Level: High (screenshot displayed)"
     },
     {
-     "raw": "- *Related: C-3028, N-10262, A-1429.1*"
+     "raw": "- *Related: C-3028, N-10247, A-1429.1*"
     },
     {
      "raw": ""
@@ -508,7 +508,7 @@
      "raw": "- Confidence Level: High (displayed)"
     },
     {
-     "raw": "- *Related: C-3034, N-10264, A-1430.1*"
+     "raw": "- *Related: C-3034, N-10248, A-1430.1*"
     },
     {
      "raw": ""
@@ -634,7 +634,7 @@
      "raw": "- Confidence Level: Medium"
     },
     {
-     "raw": "- *Related: C-3009, N-10263*"
+     "raw": "- *Related: C-3009, N-10241*"
     },
     {
      "raw": ""
@@ -1248,37 +1248,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10259",
-   "header": "**N-10259** Duncan Aviation Egyptian Rental Vehicle Network",
-   "label": "Duncan Aviation Egyptian Rental Vehicle Network",
-   "lines": [
-    {
-     "raw": "Cluster of five rental vehicles identified by plate (A-1425.x); alleged connection to the SU-BTT passengers. Investigative direction: obtain Duncan Aviation rental records; cross-reference plate registration, renter IDs, and timeline against the Sept 4 plane arrival."
-    },
-    {
-     "raw": "- Evidence Count: 5"
-    },
-    {
-     "raw": "- Claim Count: 1"
-    },
-    {
-     "raw": "- Episode Count: 1"
-    },
-    {
-     "raw": "- Investigative Pressure: High"
-    },
-    {
-     "raw": "- *Related: A-1425.1–A-1425.5, C-2989*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10260",
-   "header": "**N-10260** Federal Military Aircraft Escort Protocol Verification",
+   "id": "N-10245",
+   "header": "**N-10245** Federal Military Aircraft Escort Protocol Verification",
    "label": "Federal Military Aircraft Escort Protocol Verification",
    "lines": [
     {
@@ -1309,8 +1280,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10261",
-   "header": "**N-10261** UVU Pre-9/10 Rooftop Sightings",
+   "id": "N-10246",
+   "header": "**N-10246** UVU Pre-9/10 Rooftop Sightings",
    "label": "UVU Pre-9/10 Rooftop Sightings",
    "lines": [
     {
@@ -1338,8 +1309,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10262",
-   "header": "**N-10262** Post-Shooting Phone Call Timing Sequence",
+   "id": "N-10247",
+   "header": "**N-10247** Post-Shooting Phone Call Timing Sequence",
    "label": "Post-Shooting Phone Call Timing Sequence",
    "lines": [
     {
@@ -1367,8 +1338,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10263",
-   "header": "**N-10263** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
+   "id": "N-10241",
+   "header": "**N-10241** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
    "label": "T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
    "lines": [
     {
@@ -1396,8 +1367,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10264",
-   "header": "**N-10264** Calvary Chapel Pro-Israel Coordination",
+   "id": "N-10248",
+   "header": "**N-10248** Calvary Chapel Pro-Israel Coordination",
    "label": "Calvary Chapel Pro-Israel Coordination",
    "lines": [
     {
@@ -1489,8 +1460,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10254",
-   "header": "**N-10254** TPUSA Financial Filing Anomaly Investigation",
+   "id": "N-10240",
+   "header": "**N-10240** TPUSA Financial Filing Anomaly Investigation",
    "label": "TPUSA Financial Filing Anomaly Investigation",
    "lines": [
     {
@@ -1547,8 +1518,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10207",
-   "header": "**N-10207** SUBTT (Egyptian military aircraft) Flight Tracking Question",
+   "id": "N-10199",
+   "header": "**N-10199** SUBTT (Egyptian military aircraft) Flight Tracking Question",
    "label": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
    "lines": [
     {
@@ -1576,8 +1547,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10204",
-   "header": "**N-10204** Egyptian Air Force SU-BTT Provo Mission Question",
+   "id": "N-10196",
+   "header": "**N-10196** Egyptian Air Force SU-BTT Provo Mission Question",
    "label": "Egyptian Air Force SU-BTT Provo Mission Question",
    "lines": [
     {
@@ -1605,8 +1576,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10253",
-   "header": "**N-10253** Egyptian Military Plane Tracking Investigation",
+   "id": "N-10239",
+   "header": "**N-10239** Egyptian Military Plane Tracking Investigation",
    "label": "Egyptian Military Plane Tracking Investigation",
    "lines": [
     {
@@ -1692,8 +1663,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10256",
-   "header": "**N-10256** Duncan Aviation Rental Vehicle Investigation",
+   "id": "N-10242",
+   "header": "**N-10242** Duncan Aviation Rental Vehicle Investigation",
    "label": "Duncan Aviation Rental Vehicle Investigation",
    "lines": [
     {
@@ -1721,8 +1692,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10208",
-   "header": "**N-10208** SUBND (Egyptian military aircraft) Flight Tracking Question",
+   "id": "N-10200",
+   "header": "**N-10200** SUBND (Egyptian military aircraft) Flight Tracking Question",
    "label": "SUBND (Egyptian military aircraft) Flight Tracking Question",
    "lines": [
     {
@@ -1779,8 +1750,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10052",
-   "header": "**N-10052** Doorbell-Cam Footage Provenance",
+   "id": "N-10049",
+   "header": "**N-10049** Doorbell-Cam Footage Provenance",
    "label": "Doorbell-Cam Footage Provenance",
    "lines": [
     {
@@ -1866,8 +1837,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10355",
-   "header": "**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "id": "N-10332",
+   "header": "**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
    "label": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
    "lines": [
     {
@@ -1924,8 +1895,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10165",
-   "header": "**N-10165** Campus Footage Release Strategy Question",
+   "id": "N-10158",
+   "header": "**N-10158** Campus Footage Release Strategy Question",
    "label": "Campus Footage Release Strategy Question",
    "lines": [
     {
@@ -1953,8 +1924,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10635",
-   "header": "**N-10635** Lead-up Footage Absence",
+   "id": "N-10581",
+   "header": "**N-10581** Lead-up Footage Absence",
    "label": "Lead-up Footage Absence",
    "lines": [
     {
@@ -1982,8 +1953,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10043",
-   "header": "**N-10043** Two-Person Theory (Maroon vs Stairs)",
+   "id": "N-10040",
+   "header": "**N-10040** Two-Person Theory (Maroon vs Stairs)",
    "label": "Two-Person Theory (Maroon vs Stairs)",
    "lines": [
     {
@@ -2040,9 +2011,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10121",
-   "header": "**N-10121** Eyewitness Roof-Description Discrepancy",
-   "label": "Eyewitness Roof-Description Discrepancy",
+   "id": "N-10095",
+   "header": "**N-10095** Shooter Description Contradiction",
+   "label": "Shooter Description Contradiction",
    "lines": [
     {
      "raw": ""
@@ -2069,8 +2040,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10343",
-   "header": "**N-10343** Tyler Robinson Rooftop Access Timeline",
+   "id": "N-10321",
+   "header": "**N-10321** Tyler Robinson Rooftop Access Timeline",
    "label": "Tyler Robinson Rooftop Access Timeline",
    "lines": [
     {
@@ -2098,8 +2069,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10762",
-   "header": "**N-10762** \"Other Angle\" Rooftop Footage Existence",
+   "id": "N-10691",
+   "header": "**N-10691** \"Other Angle\" Rooftop Footage Existence",
    "label": "\"Other Angle\" Rooftop Footage Existence",
    "lines": [
     {
@@ -2185,8 +2156,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10146",
-   "header": "**N-10146** Phil Lyman Location Discrepancy",
+   "id": "N-10141",
+   "header": "**N-10141** Phil Lyman Location Discrepancy",
    "label": "Phil Lyman Location Discrepancy",
    "lines": [
     {
@@ -2274,8 +2245,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10646",
-   "header": "**N-10646** TPUSA Rooftop Security Decision-Making Discrepancy",
+   "id": "N-10590",
+   "header": "**N-10590** TPUSA Rooftop Security Decision-Making Discrepancy",
    "label": "TPUSA Rooftop Security Decision-Making Discrepancy",
    "lines": [
     {
@@ -2332,8 +2303,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10769",
-   "header": "**N-10769** Losee Center Gun Verification Gap",
+   "id": "N-10698",
+   "header": "**N-10698** Losee Center Gun Verification Gap",
    "label": "Losee Center Gun Verification Gap",
    "lines": [
     {
@@ -2361,8 +2332,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10267",
-   "header": "**N-10267** TPUSA Drone Disclosure Discrepancy",
+   "id": "N-10251",
+   "header": "**N-10251** TPUSA Drone Disclosure Discrepancy",
    "label": "TPUSA Drone Disclosure Discrepancy",
    "lines": [
     {
@@ -2390,37 +2361,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10427",
-   "header": "**N-10427** TPUSA Drone Story Discrepancy",
-   "label": "TPUSA Drone Story Discrepancy",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "TPUSA Drone Story Discrepancy; existing topic reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-3018*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10645",
-   "header": "**N-10645** UVU Drone Authorization Records",
+   "id": "N-10589",
+   "header": "**N-10589** UVU Drone Authorization Records",
    "label": "UVU Drone Authorization Records",
    "lines": [
     {
@@ -2448,8 +2390,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10129",
-   "header": "**N-10129** Orem Police Department",
+   "id": "N-10124",
+   "header": "**N-10124** Orem Police Department",
    "label": "Orem Police Department",
    "lines": [
     {
@@ -2535,37 +2477,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10338",
-   "header": "**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence",
-   "label": "Mikey McCoy Post-Shooting Phone Call Sequence",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Mikey McCoy Post-Shooting Phone Call Sequence; existing topic reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-3022, C-3023, C-3025, C-3026, C-3027, C-3029, C-3030*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10198",
-   "header": "**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+   "id": "N-10190",
+   "header": "**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)",
    "label": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
    "lines": [
     {
@@ -2593,9 +2506,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10226",
-   "header": "**N-10226** Mikey McCoy Phone Call Sequence Anomaly",
-   "label": "Mikey McCoy Phone Call Sequence Anomaly",
+   "id": "N-10214",
+   "header": "**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence",
+   "label": "Mikey McCoy Post-Shooting Phone Call Sequence",
    "lines": [
     {
      "raw": ""
@@ -2651,35 +2564,6 @@
   },
   {
    "kind": "node",
-   "id": "N-10482",
-   "header": "**N-10482** Mikey McCoy Phone Call Sequence",
-   "label": "Mikey McCoy Phone Call Sequence",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Mikey McCoy Phone Call Sequence; existing topic reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-3027*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
    "id": "N-22",
    "header": "**N-22** Tucker Carlson",
    "label": "Tucker Carlson",
@@ -2709,8 +2593,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10248",
-   "header": "**N-10248** Calvary Chapel Network Infiltration Question",
+   "id": "N-10234",
+   "header": "**N-10234** Calvary Chapel Network Infiltration Question",
    "label": "Calvary Chapel Network Infiltration Question",
    "lines": [
     {
@@ -2796,8 +2680,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10246",
-   "header": "**N-10246** Calvary Chapel Institutional Abuse Pattern",
+   "id": "N-10232",
+   "header": "**N-10232** Calvary Chapel Institutional Abuse Pattern",
    "label": "Calvary Chapel Institutional Abuse Pattern",
    "lines": [
     {
@@ -2825,8 +2709,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10047",
-   "header": "**N-10047** Donor Intimidation of Charlie Kirk",
+   "id": "N-10044",
+   "header": "**N-10044** Donor Intimidation of Charlie Kirk",
    "label": "Donor Intimidation of Charlie Kirk",
    "lines": [
     {
@@ -2943,8 +2827,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11006",
-   "header": "**N-11006** Joyce Churnick Donor Identification",
+   "id": "N-10926",
+   "header": "**N-10926** Joyce Churnick Donor Identification",
    "label": "Joyce Churnick Donor Identification",
    "lines": [
     {
@@ -2952,7 +2836,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "The host's identification of the donor she says yelled and withdrew a million dollars after Charlie Kirk let Tucker Carlson speak at the July 2025 TPUSA event."
@@ -2962,35 +2846,6 @@
     },
     {
      "raw": "*Related: C-3039*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10496",
-   "header": "**N-10496** Egyptian Planes Investigation",
-   "label": "Egyptian Planes Investigation",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Egyptian Planes Investigation; existing topic reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-3040*"
     },
     {
      "raw": ""
@@ -3036,8 +2891,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10662",
-   "header": "**N-10662** 2025 FARA Propaganda Timeline Convergence",
+   "id": "N-10604",
+   "header": "**N-10604** 2025 FARA Propaganda Timeline Convergence",
    "label": "2025 FARA Propaganda Timeline Convergence",
    "lines": [
     {
@@ -3065,8 +2920,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11007",
-   "header": "**N-11007** Alleged Shooter Residence Vehicle Cluster",
+   "id": "N-10927",
+   "header": "**N-10927** Alleged Shooter Residence Vehicle Cluster",
    "label": "Alleged Shooter Residence Vehicle Cluster",
    "lines": [
     {
@@ -3074,7 +2929,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "Viewer tips and the host's request for footage about many vehicles reportedly parked at the alleged shooter's home between September 4 and September 10, 2025, and whether they match the five rented vehicles."
@@ -3156,8 +3011,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10549",
-   "header": "**N-10549** Egyptian Plane Transponding Correlation",
+   "id": "N-10503",
+   "header": "**N-10503** Egyptian Plane Transponding Correlation",
    "label": "Egyptian Plane Transponding Correlation",
    "lines": [
     {
@@ -3217,7 +3072,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10259"
+     "v": "N-10242"
     },
     {
      "k": "Investigative Direction",
@@ -3251,7 +3106,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261"
+     "v": "N-10246"
     },
     {
      "k": "Investigative Direction",
@@ -3328,7 +3183,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10262"
+     "v": "N-10247"
     },
     {
      "k": "Investigative Direction",
@@ -3366,7 +3221,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10262"
+     "v": "N-10247"
     },
     {
      "k": "Investigative Direction",
@@ -3404,7 +3259,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10264"
+     "v": "N-10248"
     },
     {
      "k": "Investigative Direction",
@@ -3438,7 +3293,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10264"
+     "v": "N-10248"
     },
     {
      "k": "Investigative Direction",
@@ -3477,7 +3332,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10259"
+     "v": "N-10242"
     },
     {
      "k": "Investigative Direction",
@@ -3550,7 +3405,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10263"
+     "v": "N-10241"
     },
     {
      "k": "Investigative Direction",
@@ -3607,7 +3462,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10254"
+     "v": "N-10000, N-10240"
     },
     {
      "k": "Investigative Direction",
@@ -3664,7 +3519,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10207, N-10204"
+     "v": "N-10199, N-10196"
     },
     {
      "k": "Supports",
@@ -3725,7 +3580,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10260, N-10253"
+     "v": "N-10245, N-10239"
     },
     {
      "k": "Investigative Direction",
@@ -3782,7 +3637,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10260, N-10253"
+     "v": "N-10245, N-10239"
     },
     {
      "k": "Supports",
@@ -3843,7 +3698,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10253"
+     "v": "N-10239"
     },
     {
      "k": "Investigative Direction",
@@ -3900,7 +3755,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10259, N-10256"
+     "v": "N-10242"
     },
     {
      "k": "Revises",
@@ -3961,7 +3816,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10207, N-10208"
+     "v": "N-10199, N-10200"
     },
     {
      "k": "Supports",
@@ -4022,7 +3877,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10011, N-10052, N-10259"
+     "v": "N-10011, N-10049, N-10242"
     },
     {
      "k": "Investigative Direction",
@@ -4079,7 +3934,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10355"
+     "v": "N-10332"
     },
     {
      "k": "Investigative Direction",
@@ -4136,7 +3991,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10012, N-10165, N-10635"
+     "v": "N-10012, N-10158, N-10581"
     },
     {
      "k": "Investigative Direction",
@@ -4193,7 +4048,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10011, N-10635, N-10043"
+     "v": "N-10011, N-10581, N-10040"
     },
     {
      "k": "Investigative Direction",
@@ -4250,7 +4105,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261, N-10012"
+     "v": "N-10246, N-10012"
     },
     {
      "k": "Supports",
@@ -4311,7 +4166,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261, N-10014"
+     "v": "N-10246, N-10014"
     },
     {
      "k": "Supports",
@@ -4372,7 +4227,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261"
+     "v": "N-10246"
     },
     {
      "k": "Investigative Direction",
@@ -4429,7 +4284,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261, N-10121"
+     "v": "N-10246, N-10095"
     },
     {
      "k": "Investigative Direction",
@@ -4486,7 +4341,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261, N-10012"
+     "v": "N-10246, N-10012"
     },
     {
      "k": "Investigative Direction",
@@ -4543,7 +4398,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261, N-10343"
+     "v": "N-10246, N-10321"
     },
     {
      "k": "Investigative Direction",
@@ -4600,7 +4455,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261"
+     "v": "N-10246"
     },
     {
      "k": "Supports",
@@ -4661,7 +4516,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261"
+     "v": "N-10246"
     },
     {
      "k": "Supports",
@@ -4722,7 +4577,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261"
+     "v": "N-10246"
     },
     {
      "k": "Investigative Direction",
@@ -4779,7 +4634,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10261"
+     "v": "N-10246"
     },
     {
      "k": "Investigative Direction",
@@ -4836,7 +4691,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10762, N-10343"
+     "v": "N-10691, N-10321"
     },
     {
      "k": "Investigative Direction",
@@ -4893,7 +4748,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10259, N-10011, N-10146"
+     "v": "N-10242, N-10011, N-10141"
     },
     {
      "k": "Investigative Direction",
@@ -4950,7 +4805,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10011, N-10635"
+     "v": "N-10011, N-10581"
     },
     {
      "k": "Investigative Direction",
@@ -5007,7 +4862,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10263"
+     "v": "N-10241"
     },
     {
      "k": "Investigative Direction",
@@ -5064,7 +4919,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10646"
+     "v": "N-10590"
     },
     {
      "k": "Investigative Direction",
@@ -5121,7 +4976,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10646, N-10012"
+     "v": "N-10590, N-10012"
     },
     {
      "k": "Investigative Direction",
@@ -5178,7 +5033,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10646"
+     "v": "N-10590"
     },
     {
      "k": "Investigative Direction",
@@ -5235,7 +5090,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10012, N-10769"
+     "v": "N-10012, N-10698"
     },
     {
      "k": "Investigative Direction",
@@ -5292,7 +5147,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10646"
+     "v": "N-10590"
     },
     {
      "k": "Investigative Direction",
@@ -5406,7 +5261,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10267, N-10427, N-10645"
+     "v": "N-10251, N-10589"
     },
     {
      "k": "Investigative Direction",
@@ -5463,7 +5318,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10129, N-10267, N-10645"
+     "v": "N-10124, N-10251, N-10589"
     },
     {
      "k": "Investigative Direction",
@@ -5520,7 +5375,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10129, N-10645"
+     "v": "N-10124, N-10589"
     },
     {
      "k": "Supports",
@@ -5581,7 +5436,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10338"
+     "v": "N-10214"
     },
     {
      "k": "Investigative Direction",
@@ -5638,7 +5493,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10338"
+     "v": "N-10214"
     },
     {
      "k": "Investigative Direction",
@@ -5695,7 +5550,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10198"
+     "v": "N-10190"
     },
     {
      "k": "Investigative Direction",
@@ -5752,7 +5607,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10338, N-10226"
+     "v": "N-10214"
     },
     {
      "k": "Investigative Direction",
@@ -5809,7 +5664,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10338"
+     "v": "N-10214"
     },
     {
      "k": "Investigative Direction",
@@ -5866,7 +5721,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10338, N-10482"
+     "v": "N-10214"
     },
     {
      "k": "Investigative Direction",
@@ -5923,7 +5778,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10262, N-10338"
+     "v": "N-10247, N-10214"
     },
     {
      "k": "Investigative Direction",
@@ -5980,7 +5835,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10262, N-10338"
+     "v": "N-10247, N-10214"
     },
     {
      "k": "Supports",
@@ -6041,7 +5896,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10264"
+     "v": "N-10248"
     },
     {
      "k": "Investigative Direction",
@@ -6098,7 +5953,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10264, N-10248"
+     "v": "N-10248, N-10234"
     },
     {
      "k": "Investigative Direction",
@@ -6155,7 +6010,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10264, N-10248"
+     "v": "N-10248, N-10234"
     },
     {
      "k": "Investigative Direction",
@@ -6212,7 +6067,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10246"
+     "v": "N-10232"
     },
     {
      "k": "Investigative Direction",
@@ -6269,7 +6124,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047, N-10025"
+     "v": "N-10044, N-10025"
     },
     {
      "k": "Supports",
@@ -6330,7 +6185,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Supports",
@@ -6391,7 +6246,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047, N-11006"
+     "v": "N-10044, N-10926"
     },
     {
      "k": "Investigative Direction",
@@ -6448,7 +6303,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10253, N-10496"
+     "v": "N-10239"
     },
     {
      "k": "Supports",
@@ -6509,7 +6364,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10025, N-10662"
+     "v": "N-10025, N-10604"
     },
     {
      "k": "Investigative Direction",
@@ -6566,7 +6421,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10260, N-10253"
+     "v": "N-10245, N-10239"
     },
     {
      "k": "Supports",
@@ -6627,7 +6482,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11007, N-10259"
+     "v": "N-10927, N-10242"
     },
     {
      "k": "Investigative Direction",
@@ -6684,7 +6539,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11007, N-10259"
+     "v": "N-10927, N-10242"
     },
     {
      "k": "Investigative Direction",
@@ -6969,7 +6824,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10208, N-10549"
+     "v": "N-10200, N-10503"
     },
     {
      "k": "Supports",
@@ -7511,7 +7366,7 @@
    "lines": [
     "## VI. Optional Flags",
     "",
-    "- **Claim failed admission test – C-uninscribed:** Host assertion that \"a foreign military jet actually can't just land on American soil without the federal government paying attention\" and \"an escort is required\" is sourced to an unnamed \"high government source\" with no documentary artifact. Not inscribed as a claim; retained as research target under N-10260. Artifact verbally referenced but not shown.",
+    "- **Claim failed admission test – C-uninscribed:** Host assertion that \"a foreign military jet actually can't just land on American soil without the federal government paying attention\" and \"an escort is required\" is sourced to an unnamed \"high government source\" with no documentary artifact. Not inscribed as a claim; retained as research target under N-10245. Artifact verbally referenced but not shown.",
     "- **Name uncertainty:** \"Tim P\" appears verbatim in transcript; full name not expanded. Preserved as written.",
     "- **Name uncertainty:** \"Erika\" / \"Erica\" Kirk – transcript inconsistently uses both spellings. Preserved as written in each instance.",
     "- **Transcript ambiguity:** License plates as read aloud contain ambiguous letter/number substitutions (e.g., \"T09 2Zs,\" \"T9 1 2 KM\"); plates as inscribed match the host's oral reading rather than a verified written source. Plate strings should be re-verified against rental records before downstream use.",
@@ -7571,37 +7426,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10259",
-   "header": "**N-10259** Duncan Aviation Egyptian Rental Vehicle Network",
-   "label": "Duncan Aviation Egyptian Rental Vehicle Network",
-   "lines": [
-    {
-     "raw": "Cluster of five rental vehicles identified by plate (A-1425.x); alleged connection to the SU-BTT passengers. Investigative direction: obtain Duncan Aviation rental records; cross-reference plate registration, renter IDs, and timeline against the Sept 4 plane arrival."
-    },
-    {
-     "raw": "- Evidence Count: 5"
-    },
-    {
-     "raw": "- Claim Count: 1"
-    },
-    {
-     "raw": "- Episode Count: 1"
-    },
-    {
-     "raw": "- Investigative Pressure: High"
-    },
-    {
-     "raw": "- *Related: A-1425.1–A-1425.5, C-2989*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10260",
-   "header": "**N-10260** Federal Military Aircraft Escort Protocol Verification",
+   "id": "N-10245",
+   "header": "**N-10245** Federal Military Aircraft Escort Protocol Verification",
    "label": "Federal Military Aircraft Escort Protocol Verification",
    "lines": [
     {
@@ -7632,8 +7458,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10261",
-   "header": "**N-10261** UVU Pre-9/10 Rooftop Sightings",
+   "id": "N-10246",
+   "header": "**N-10246** UVU Pre-9/10 Rooftop Sightings",
    "label": "UVU Pre-9/10 Rooftop Sightings",
    "lines": [
     {
@@ -7661,8 +7487,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10262",
-   "header": "**N-10262** Post-Shooting Phone Call Timing Sequence",
+   "id": "N-10247",
+   "header": "**N-10247** Post-Shooting Phone Call Timing Sequence",
    "label": "Post-Shooting Phone Call Timing Sequence",
    "lines": [
     {
@@ -7690,8 +7516,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10263",
-   "header": "**N-10263** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
+   "id": "N-10241",
+   "header": "**N-10241** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
    "label": "T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
    "lines": [
     {
@@ -7719,8 +7545,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10264",
-   "header": "**N-10264** Calvary Chapel Pro-Israel Coordination",
+   "id": "N-10248",
+   "header": "**N-10248** Calvary Chapel Pro-Israel Coordination",
    "label": "Calvary Chapel Pro-Israel Coordination",
    "lines": [
     {

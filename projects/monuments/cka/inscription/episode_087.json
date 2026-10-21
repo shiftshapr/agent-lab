@@ -30,8 +30,8 @@
             "C-7766"
           ],
           "related_nodes": [
-            "N-10141",
-            "N-10574"
+            "N-10136",
+            "N-10525"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-7781"
           ],
           "related_nodes": [
-            "N-10578"
+            "N-10529"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +77,7 @@
             "C-7781"
           ],
           "related_nodes": [
-            "N-10578"
+            "N-10529"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,7 +105,7 @@
             "C-7794"
           ],
           "related_nodes": [
-            "N-10577"
+            "N-10528"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,7 +132,7 @@
             "C-7793"
           ],
           "related_nodes": [
-            "N-10577"
+            "N-10528"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "C-7793"
           ],
           "related_nodes": [
-            "N-10577"
+            "N-10528"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -177,7 +177,7 @@
             "C-7797"
           ],
           "related_nodes": [
-            "N-10574"
+            "N-10525"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -204,7 +204,7 @@
             "C-7831"
           ],
           "related_nodes": [
-            "N-10569"
+            "N-10520"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -340,7 +340,7 @@
             "C-7766"
           ],
           "related_nodes": [
-            "N-10141",
+            "N-10136",
             "N-1"
           ],
           "tags": [],
@@ -359,7 +359,7 @@
             "C-7795"
           ],
           "related_nodes": [
-            "N-10575"
+            "N-10526"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -399,7 +399,7 @@
             "C-7784"
           ],
           "related_nodes": [
-            "N-10577"
+            "N-10528"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -427,7 +427,7 @@
             "C-7801"
           ],
           "related_nodes": [
-            "N-10577"
+            "N-10528"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -615,11 +615,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10153",
-      "ref": "N-10153",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10148",
+      "ref": "N-10148",
       "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.",
       "related_artifacts": [],
       "related_claims": [
@@ -634,14 +634,15 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10574",
-      "ref": "N-10574",
+      "@type": "Topic",
+      "@id": "N-10525",
+      "ref": "N-10525",
       "name": "Romney–Netanyahu–Utah Connection Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target across multiple episodes. Anchored by 1976 Boston Consulting Group friendship and BYU/Jerusalem pipeline claims.",
       "related_artifacts": [
         "A-1917.1",
@@ -657,14 +658,15 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10575",
-      "ref": "N-10575",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10526",
+      "ref": "N-10526",
       "name": "BYU Jerusalem CIA Recruitment Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host asserts (without on-screen artifact) that BYU Jerusalem Center is a CIA recruitment location for elite Mormon youth.",
       "related_artifacts": [
         "A-1926.3"
@@ -676,14 +678,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10525"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10576",
-      "ref": "N-10576",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10527",
+      "ref": "N-10527",
       "name": "Timpanogos Hospital Records / Chain of Custody",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: FBI seized hospital footage on 2025-09-10; Connor Henderson alleged to have worked as ER scribe at the same facility; Andrew Zenger appointed CEO days before the event.",
       "related_artifacts": [],
       "related_claims": [
@@ -695,14 +699,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10577",
-      "ref": "N-10577",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10528",
+      "ref": "N-10528",
       "name": "Built Inc. Federal Contracting Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Defense contractor receiving anomalous $7.4M Air Force + ~$240K Navy contracts in June 2025 after years of small contracts; co-founded by Ahmed Qureshi and Nathan Henderson.",
       "related_artifacts": [
         "A-1919.1",
@@ -717,14 +723,16 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10529"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10578",
-      "ref": "N-10578",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10529",
+      "ref": "N-10529",
       "name": "Decoy Subject Investigation (Qureshi/Qureshi)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Pattern of false/early \"got the guy\" announcements and pre-event detention of subjects around September 10. Includes George Zinn and Zachariah Qureshi.",
       "related_artifacts": [
         "A-1918.1",
@@ -737,14 +745,15 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10579",
-      "ref": "N-10579",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10530",
+      "ref": "N-10530",
       "name": "Robbie Hild–Romney Family Tie Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host cannot relocate source document connecting Hild family to Romney family; requests viewer email tips.",
       "related_artifacts": [
         "A-1924.2"
@@ -756,14 +765,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10525"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10580",
-      "ref": "N-10580",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10531",
+      "ref": "N-10531",
       "name": "Andrew Zenger CIA Contract Work Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question whether Andrew Zenger has been/was recruited to or contracts with CIA, given Jerusalem-era roommate pattern.",
       "related_artifacts": [],
       "related_claims": [
@@ -774,14 +785,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10526"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10581",
-      "ref": "N-10581",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10532",
+      "ref": "N-10532",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target across series; host urges Robinson defense to demand full document disclosure including 600,000 documents.",
       "related_artifacts": [
         "A-1926.1"
@@ -793,7 +806,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
       "@type": "Person",
@@ -868,11 +883,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10569",
-      "ref": "N-10569",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10520",
+      "ref": "N-10520",
       "name": "Comparative Bullet Lead Analysis Revival",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "FBI technique used post-JFK 1963, abandoned 2005 after 2004 NAS finding. Host alleges FBI is reviving CBLA to connect Tyler Robinson's weapon to crime scene bullet.",
       "related_artifacts": [
         "A-1922.1"
@@ -885,7 +900,9 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
       "@type": "Person",
@@ -1518,7 +1535,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1536,7 +1555,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1553,7 +1574,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
@@ -1570,7 +1593,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1588,12 +1613,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10048",
-      "ref": "N-10048",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -1605,12 +1631,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
-      "@id": "N-10065",
-      "ref": "N-10065",
+      "@id": "N-10062",
+      "ref": "N-10062",
       "name": "Caldera Engineering",
       "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
@@ -1622,12 +1649,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Place",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "place",
       "description": "Existing node reused for new claims in this episode.",
@@ -1642,12 +1671,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
       "@type": "Topic",
-      "@id": "N-10076",
-      "ref": "N-10076",
+      "@id": "N-10073",
+      "ref": "N-10073",
       "name": "Cameragate Investigation",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -1659,12 +1691,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10078",
-      "ref": "N-10078",
+      "@id": "N-10075",
+      "ref": "N-10075",
       "name": "TPUSA Financial Apparatus Investigation",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -1676,12 +1709,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
-      "@id": "N-10082",
-      "ref": "N-10082",
+      "@id": "N-10079",
+      "ref": "N-10079",
       "name": "CIA",
       "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
@@ -1698,12 +1732,14 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-10092",
-      "ref": "N-10092",
+      "@id": "N-10088",
+      "ref": "N-10088",
       "name": "Brigham Young University",
       "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
@@ -1717,12 +1753,14 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Topic",
-      "@id": "N-10106",
-      "ref": "N-10106",
+      "@id": "N-10102",
+      "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -1735,12 +1773,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10044"
     },
     {
       "@type": "Topic",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -1754,14 +1794,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10144",
-      "ref": "N-10144",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10139",
+      "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1774,14 +1815,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10168",
-      "ref": "N-10168",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10161",
+      "ref": "N-10161",
       "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1791,14 +1833,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10184",
-      "ref": "N-10184",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10176",
+      "ref": "N-10176",
       "name": "Caldera Engineering Background Investigation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1808,12 +1852,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10062"
     },
     {
       "@type": "Topic",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -1827,14 +1873,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10223",
-      "ref": "N-10223",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10166",
+      "ref": "N-10166",
       "name": "George Zinn Hospital Payment Claim",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1844,14 +1891,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1861,12 +1909,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
       "@type": "Topic",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -1882,29 +1932,33 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10326",
-      "ref": "N-10326",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10305",
+      "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7782"
+        "C-7782",
+        "C-7785"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
       "@type": "Topic",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -1917,14 +1971,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1936,14 +1991,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1955,12 +2011,14 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
       "@type": "Topic",
-      "@id": "N-10347",
-      "ref": "N-10347",
+      "@id": "N-10325",
+      "ref": "N-10325",
       "name": "Egyptian Planes Israel Flight Pattern",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -1975,14 +2033,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10354",
-      "ref": "N-10354",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10331",
+      "ref": "N-10331",
       "name": "George Zinn Self-Incriminating Hospital Statement",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1992,12 +2052,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -2009,12 +2070,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -2026,30 +2088,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
       "@type": "Topic",
-      "@id": "N-10370",
-      "ref": "N-10370",
-      "name": "Fort Huachuca Morning Meeting Investigation",
-      "type": "topic",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-7782",
-        "C-7785"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Topic",
-      "@id": "N-10383",
-      "ref": "N-10383",
+      "@id": "N-10356",
+      "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -2061,14 +2107,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2081,12 +2128,14 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
       "@type": "Topic",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -2098,14 +2147,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10495",
-      "ref": "N-10495",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10458",
+      "ref": "N-10458",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2115,14 +2166,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10415"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10535",
-      "ref": "N-10535",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10490",
+      "ref": "N-10490",
       "name": "9/10 Behind Charlie Video Analysis",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2132,12 +2185,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -2152,12 +2206,13 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10543",
-      "ref": "N-10543",
+      "@id": "N-10498",
+      "ref": "N-10498",
       "name": "Charlie Kirk Legacy Control Dispute",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -2173,12 +2228,13 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10551",
-      "ref": "N-10551",
+      "@id": "N-10505",
+      "ref": "N-10505",
       "name": "Joe Kent Leak Accusation Chain",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -2190,14 +2246,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10501"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10572",
-      "ref": "N-10572",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10523",
+      "ref": "N-10523",
       "name": "ATF Bullet-to-Gun Inconclusive Finding",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2207,14 +2265,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10573",
-      "ref": "N-10573",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10524",
+      "ref": "N-10524",
       "name": "Timpanogos Hospital Evidence Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2227,12 +2287,13 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-10620",
-      "ref": "N-10620",
+      "@id": "N-10566",
+      "ref": "N-10566",
       "name": "ATF Bullet Comparison Methodology",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -2244,14 +2305,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10674",
-      "ref": "N-10674",
+      "@type": "Event",
+      "@id": "N-10613",
+      "ref": "N-10613",
       "name": "June 18 White House Meeting on Iran Involvement",
-      "type": "topic",
+      "type": "event",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2261,12 +2323,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-18",
+      "place": "N-10072"
     },
     {
       "@type": "Organization",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
@@ -2278,12 +2344,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-10975",
-      "ref": "N-10975",
+      "@id": "N-10896",
+      "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
       "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
@@ -2295,12 +2363,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
       "@type": "Topic",
-      "@id": "N-11128",
-      "ref": "N-11128",
+      "@id": "N-11046",
+      "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
@@ -2313,14 +2383,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11142",
-      "ref": "N-11142",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11060",
+      "ref": "N-11060",
       "name": "Zachariah Qureshi Detention and Release Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2330,14 +2401,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10529"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11199",
-      "ref": "N-11199",
+      "@type": "Event",
+      "@id": "N-11115",
+      "ref": "N-11115",
       "name": "Library 911 Calls and Lockdown",
-      "type": "topic",
+      "type": "event",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2347,14 +2420,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11208",
-      "ref": "N-11208",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11124",
+      "ref": "N-11124",
       "name": "Timpanogos Hospital Group Arrival Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2364,12 +2441,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Organization",
-      "@id": "N-11325",
-      "ref": "N-11325",
+      "@id": "N-11241",
+      "ref": "N-11241",
       "name": "Utah Valley Hospital",
       "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
@@ -2382,7 +2460,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
       "@type": "Person",
@@ -2408,11 +2488,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11398",
-      "ref": "N-11398",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11314",
+      "ref": "N-11314",
       "name": "Utah Mormon Colony Family Ties Inquiry",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's examination of marriage and migration ties among the Romney, Farnsworth, Robinson and Hild families, including the Mormon colonies in Chihuahua, Mexico.",
       "related_artifacts": [],
       "related_claims": [
@@ -2425,14 +2505,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11399",
-      "ref": "N-11399",
+      "@type": "Event",
+      "@id": "N-11315",
+      "ref": "N-11315",
       "name": "2012 RNC Convention Rule Changes",
-      "type": "topic",
+      "type": "event",
       "description": "The host reads that the RNC altered 2012 convention rules to bind delegates and refused to recognize Ron Paul's Maine delegates.",
       "related_artifacts": [],
       "related_claims": [
@@ -2443,7 +2524,10 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2012"
     }
   ],
   "claims": [
@@ -2457,7 +2541,7 @@
         "A-1917.1"
       ],
       "related_nodes": [
-        "N-10574"
+        "N-10525"
       ],
       "tags": [],
       "claim_timestamp": "00:03:21–00:04:22",
@@ -2477,7 +2561,7 @@
         "A-1918.1"
       ],
       "related_nodes": [
-        "N-10578"
+        "N-10529"
       ],
       "tags": [],
       "claim_timestamp": "00:08:11",
@@ -2498,7 +2582,7 @@
         "A-1918.2"
       ],
       "related_nodes": [
-        "N-10578"
+        "N-10529"
       ],
       "tags": [],
       "claim_timestamp": "00:09:01",
@@ -2519,7 +2603,7 @@
         "A-1918.2"
       ],
       "related_nodes": [
-        "N-10578"
+        "N-10529"
       ],
       "tags": [],
       "claim_timestamp": "00:06:41–00:09:45",
@@ -2539,7 +2623,7 @@
         "A-1919.1"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10528"
       ],
       "tags": [],
       "claim_timestamp": "00:10:27–00:12:44",
@@ -2559,7 +2643,7 @@
         "A-1920.1"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10528"
       ],
       "tags": [],
       "claim_timestamp": "00:16:35",
@@ -2580,7 +2664,7 @@
         "A-1920.2"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10528"
       ],
       "tags": [],
       "claim_timestamp": "00:15:43–00:16:05",
@@ -2596,7 +2680,7 @@
         "A-1921.1"
       ],
       "related_nodes": [
-        "N-10574"
+        "N-10525"
       ],
       "tags": [],
       "claim_timestamp": "00:17:51",
@@ -2613,7 +2697,7 @@
       "claim": "The host says Connor Henderson worked as an emergency room scribe at Timpanogos Hospital from 2024 until approximately the time of Charlie Kirk's assassination, if his LinkedIn is to be believed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10576"
+        "N-10527"
       ],
       "tags": [],
       "claim_timestamp": "00:17:51–00:19:43",
@@ -2633,7 +2717,7 @@
         "A-1922.1"
       ],
       "related_nodes": [
-        "N-10569"
+        "N-10520"
       ],
       "tags": [],
       "claim_timestamp": "00:32:26–00:33:30",
@@ -2650,7 +2734,7 @@
         "A-1922.1"
       ],
       "related_nodes": [
-        "N-10569"
+        "N-10520"
       ],
       "tags": [],
       "claim_timestamp": "00:32:26–00:34:18",
@@ -2685,7 +2769,7 @@
       "claim": "The host says the Qureshi and Henderson families lived in the same house in Keller, Texas; she offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10577"
+        "N-10528"
       ],
       "tags": [],
       "claim_timestamp": "00:16:55–00:17:51",
@@ -2705,7 +2789,7 @@
       "claim": "The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 19, 2025, weeks before the September 10 event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10576"
+        "N-10527"
       ],
       "tags": [],
       "claim_timestamp": "00:23:46",
@@ -2737,7 +2821,7 @@
       "claim": "The host says Andrew Zenger attended BYU Jerusalem and was there during the Mitt Romney presidential election season.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10575"
+        "N-10526"
       ],
       "tags": [],
       "claim_timestamp": "00:24:39",
@@ -2755,7 +2839,7 @@
       "claim": "The host says an unnamed person told her the BYU Jerusalem Center is where elite Mormon youth are approached by their teachers to work for the CIA; she adds that the program director is Israeli and says she knows this for a fact.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10575"
+        "N-10526"
       ],
       "tags": [],
       "claim_timestamp": "00:24:39–00:25:43",
@@ -2769,8 +2853,8 @@
       "claim": "The host says the CIA uses a company called Metro One Talent to interview and bring on board young recruits such as those from BYU Jerusalem.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10575",
-        "N-10580"
+        "N-10526",
+        "N-10531"
       ],
       "tags": [],
       "claim_timestamp": "00:26:30",
@@ -2785,7 +2869,7 @@
       "claim": "The host says Michael Shawn Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10580"
+        "N-10531"
       ],
       "tags": [],
       "claim_timestamp": "00:27:39",
@@ -2805,7 +2889,7 @@
         "A-1924.2"
       ],
       "related_nodes": [
-        "N-10153"
+        "N-10148"
       ],
       "tags": [],
       "claim_timestamp": "00:29:30–00:30:18",
@@ -2859,8 +2943,8 @@
         "A-1924.2"
       ],
       "related_nodes": [
-        "N-10153",
-        "N-10579"
+        "N-10148",
+        "N-10530"
       ],
       "tags": [],
       "claim_timestamp": "00:29:45",
@@ -2911,7 +2995,7 @@
       "claim": "The host says the CIA plucks students from BYU's Hawaii campus in particular and approaches students at BYU Jerusalem about working for the CIA, while saying she is not saying everyone who goes to BYU is in the CIA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10575"
+        "N-10526"
       ],
       "tags": [],
       "claim_timestamp": "00:47:08–00:48:01",
@@ -2928,7 +3012,7 @@
         "A-1926.3"
       ],
       "related_nodes": [
-        "N-10575"
+        "N-10526"
       ],
       "tags": [],
       "claim_timestamp": "00:47:08",
@@ -2945,7 +3029,7 @@
         "A-1926.1"
       ],
       "related_nodes": [
-        "N-10581"
+        "N-10532"
       ],
       "tags": [],
       "claim_timestamp": "00:43:39–00:44:25",
@@ -2962,8 +3046,8 @@
       "claim": "The host says the long tweets TPUSA put out explaining that it did nothing wrong were overseen by lawyers and PR agents, and that none of them addressed Charlie Kirk's final call with Benjamin Netanyahu.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10446",
-        "N-10342"
+        "N-10415",
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -2985,8 +3069,8 @@
       "claim": "The host says Charlie Kirk's final phone call with Benjamin Netanyahu was the one that took place in the Hamptons.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10446",
-        "N-10495"
+        "N-10415",
+        "N-10458"
       ],
       "tags": [
         "relevance:core"
@@ -3008,8 +3092,8 @@
       "claim": "The host says Charlie Kirk described his final call with Netanyahu as an intervention over the topic of Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10446",
-        "N-10342"
+        "N-10415",
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -3034,7 +3118,7 @@
       "claim": "The host says Netanyahu offered to take Turning Point USA 'to the next level' and that she does not know what he asked for in exchange.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
+        "N-10320",
         "N-10000"
       ],
       "tags": [
@@ -3061,7 +3145,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10078"
+        "N-10075"
       ],
       "tags": [
         "relevance:context"
@@ -3081,8 +3165,8 @@
       "claim": "The host says war in Iran was the particular issue on which Netanyahu and Charlie Kirk were butting heads.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539",
-        "N-11128"
+        "N-10494",
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -3104,8 +3188,8 @@
       "claim": "The host says Turning Point USA is trying to twist and reimagine Charlie Kirk's legacy as pro-war in the Middle East and the war in Iran.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10543",
-        "N-10539",
+        "N-10498",
+        "N-10494",
         "N-10000"
       ],
       "tags": [
@@ -3127,9 +3211,9 @@
       "claim": "The host says that when she began probing the Egyptian planes narrative she was shown a clear connection between Israel and Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10347",
-        "N-10074"
+        "N-10239",
+        "N-10325",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -3149,8 +3233,8 @@
       "claim": "The host says it is increasingly strange that there are no eyewitnesses from inside the hospital regarding September 10, even though Turning Point staff went to the ER lobby and an ER normally has people in it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10573",
-        "N-11208"
+        "N-10524",
+        "N-11124"
       ],
       "tags": [
         "relevance:core"
@@ -3170,8 +3254,8 @@
       "claim": "The host says that when Kash Patel arrived, he had the FBI immediately seize the footage from inside the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239",
-        "N-10202"
+        "N-10226",
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -3194,8 +3278,8 @@
         "A-1925.1"
       ],
       "related_nodes": [
-        "N-11325",
-        "N-10573"
+        "N-11241",
+        "N-10524"
       ],
       "tags": [
         "relevance:context"
@@ -3218,8 +3302,8 @@
         "A-1925.1"
       ],
       "related_nodes": [
-        "N-11325",
-        "N-10573"
+        "N-11241",
+        "N-10524"
       ],
       "tags": [
         "relevance:core"
@@ -3262,8 +3346,8 @@
       "claim": "The host says the excuse given to the public for the lockdowns was that the shooter was going from hospital to hospital looking for Charlie Kirk, and that it has never been clarified who exactly was being referred to.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10573",
-        "N-11199"
+        "N-10524",
+        "N-11115"
       ],
       "tags": [
         "relevance:core"
@@ -3284,8 +3368,8 @@
       "claim": "The host says police scanner traffic suggested the shooter might be going from hospital to hospital and that shortly afterward police moved to detain a young man named Zachariah Qureshi.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10578",
-        "N-11142"
+        "N-10529",
+        "N-11060"
       ],
       "tags": [
         "relevance:core"
@@ -3308,8 +3392,8 @@
         "A-1918.1"
       ],
       "related_nodes": [
-        "N-10202",
-        "N-10578"
+        "N-10194",
+        "N-10529"
       ],
       "tags": [
         "relevance:core"
@@ -3332,7 +3416,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10032",
-        "N-10578"
+        "N-10529"
       ],
       "tags": [
         "relevance:core"
@@ -3354,8 +3438,8 @@
       "claim": "The host says George Zinn later told people at Utah Valley, where he was being treated, that he was paid to claim responsibility.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10223",
-        "N-10354"
+        "N-10166",
+        "N-10331"
       ],
       "tags": [
         "relevance:core"
@@ -3402,8 +3486,8 @@
         "A-1918.2"
       ],
       "related_nodes": [
-        "N-10202",
-        "N-10578"
+        "N-10194",
+        "N-10529"
       ],
       "tags": [
         "relevance:core"
@@ -3424,9 +3508,8 @@
       "claim": "The host recalls that Mitch Snow said he saw a meeting conclude with a bunch of O5s and O6s coming out of Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10370",
-        "N-10326",
-        "N-10367"
+        "N-10305",
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3449,7 +3532,7 @@
         "A-3325.1"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10528"
       ],
       "tags": [
         "relevance:context"
@@ -3469,9 +3552,9 @@
       "claim": "The host says she and others suspect a Texas component to the assassination, given the planes traveling on September 10 and the day before from Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10370",
-        "N-10577"
+        "N-10239",
+        "N-10305",
+        "N-10528"
       ],
       "tags": [
         "relevance:core"
@@ -3492,7 +3575,7 @@
       "claim": "The host says the CIA ran the JFK assassination operation out of Texas.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10082"
+        "N-10079"
       ],
       "tags": [
         "relevance:tangential"
@@ -3515,8 +3598,8 @@
         "A-1920.1"
       ],
       "related_nodes": [
-        "N-10577",
-        "N-10888"
+        "N-10528",
+        "N-10809"
       ],
       "tags": [
         "relevance:context"
@@ -3538,7 +3621,7 @@
         "A-1920.2"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10528"
       ],
       "tags": [
         "relevance:context"
@@ -3561,7 +3644,7 @@
         "A-1920.2"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10528"
       ],
       "tags": [
         "relevance:context"
@@ -3584,7 +3667,7 @@
         "A-1920.2"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10528"
       ],
       "tags": [
         "relevance:context"
@@ -3606,7 +3689,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10577"
+        "N-10528"
       ],
       "tags": [
         "relevance:core"
@@ -3627,8 +3710,8 @@
       "claim": "Baron Coleman says their investigation estimated that the 'exiting' of Charlie Kirk began around March or April and really heated up in June and July.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10577",
-        "N-10048"
+        "N-10528",
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -3652,8 +3735,8 @@
         "A-3326.1"
       ],
       "related_nodes": [
-        "N-10574",
-        "N-10577"
+        "N-10525",
+        "N-10528"
       ],
       "tags": [
         "relevance:context"
@@ -3677,8 +3760,8 @@
         "A-3326.1"
       ],
       "related_nodes": [
-        "N-10092",
-        "N-10574"
+        "N-10088",
+        "N-10525"
       ],
       "tags": [
         "relevance:context"
@@ -3704,7 +3787,7 @@
         "A-3326.1"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10528"
       ],
       "tags": [
         "relevance:context"
@@ -3728,7 +3811,7 @@
         "A-3326.1"
       ],
       "related_nodes": [
-        "N-10574"
+        "N-10525"
       ],
       "tags": [
         "relevance:context"
@@ -3752,7 +3835,7 @@
         "A-3327.1"
       ],
       "related_nodes": [
-        "N-10574"
+        "N-10525"
       ],
       "tags": [
         "relevance:context"
@@ -3775,7 +3858,7 @@
       "claim": "The host says the Romneys are an exceedingly powerful family in Utah with generational power and wealth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10574"
+        "N-10525"
       ],
       "tags": [
         "relevance:context"
@@ -3796,7 +3879,7 @@
       "claim": "The host says the Romney family is also extraordinarily powerful in Mexico because a Mormon colony moved down there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11398"
+        "N-11314"
       ],
       "tags": [
         "relevance:tangential"
@@ -3817,8 +3900,8 @@
       "claim": "The host says the Qureshi and Henderson families came out of Texas and that the planes did too.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10577"
+        "N-10239",
+        "N-10528"
       ],
       "tags": [
         "relevance:context"
@@ -3840,8 +3923,8 @@
       "claim": "The host says Andrew Zenger, like Zachariah Qureshi, Henderson and Gina Romney, attended BYU.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10092",
-        "N-10574"
+        "N-10088",
+        "N-10525"
       ],
       "tags": [
         "relevance:context"
@@ -3865,8 +3948,8 @@
       "claim": "The host says a person told her the BYU Jerusalem Center is where the elite of Mormon culture are introduced to one another and to Israeli, Hollywood and political circles (the transcript renders 'Knesset' as 'Knesset').",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10575",
-        "N-10092"
+        "N-10526",
+        "N-10088"
       ],
       "tags": [
         "relevance:tangential"
@@ -3886,8 +3969,8 @@
       "claim": "The host says Andrew Zenger was good friends with Jeffrey Knuckles, who was also in Jerusalem and later served as an advisor to the Romney campaign.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10574",
-        "N-10575"
+        "N-10525",
+        "N-10526"
       ],
       "tags": [
         "relevance:context"
@@ -3911,8 +3994,8 @@
         "A-3328.1"
       ],
       "related_nodes": [
-        "N-10580",
-        "N-10082"
+        "N-10531",
+        "N-10079"
       ],
       "tags": [
         "relevance:tangential"
@@ -3934,8 +4017,8 @@
       "claim": "The host says Robbie Hild was one of the first people she put an APB out for because he was bizarrely standing alongside Shane Lyman.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10153",
-        "N-10144"
+        "N-10148",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3957,9 +4040,9 @@
       "claim": "The host says the Lyman family owned the block and that the people walking on camera were all tied to Caldera Engineering.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10065",
-        "N-10184",
-        "N-10144"
+        "N-10062",
+        "N-10176",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3983,7 +4066,7 @@
       "claim": "The host says she does not think the person on the footage is Tyler Robinson and that it looks to her much more like Lance.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10168"
+        "N-10161"
       ],
       "tags": [
         "relevance:core"
@@ -4005,7 +4088,7 @@
       "claim": "The host says the Lyman relative is a nephew and or cousin, and that Phil Lyman says it is a cousin (while the relative says nephew).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -4032,8 +4115,8 @@
         "A-1924.1"
       ],
       "related_nodes": [
-        "N-10153",
-        "N-10144"
+        "N-10148",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4061,8 +4144,8 @@
         "A-3329.1"
       ],
       "related_nodes": [
-        "N-10337",
-        "N-10110"
+        "N-10316",
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -4084,8 +4167,8 @@
         "A-3330.1"
       ],
       "related_nodes": [
-        "N-10579",
-        "N-10153"
+        "N-10530",
+        "N-10148"
       ],
       "tags": [
         "relevance:core"
@@ -4107,8 +4190,8 @@
       "claim": "The host says that with the BYU and lacrosse details, the investigation into Robbie Hild is now opened again.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10153",
-        "N-10579"
+        "N-10148",
+        "N-10530"
       ],
       "tags": [
         "relevance:core"
@@ -4129,7 +4212,7 @@
       "claim": "The host says the Sears company is also involved in how the CIA is paying and approaching these people, and that someone has come forward with proof.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10082"
+        "N-10079"
       ],
       "tags": [
         "relevance:tangential"
@@ -4149,8 +4232,8 @@
       "claim": "The host says that around 2011, when Zenger was there, many Romney campaign advisors and others were stationed in Jerusalem.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10574",
-        "N-10575"
+        "N-10525",
+        "N-10526"
       ],
       "tags": [
         "relevance:context"
@@ -4174,7 +4257,7 @@
         "A-1922.1"
       ],
       "related_nodes": [
-        "N-10569"
+        "N-10520"
       ],
       "tags": [
         "relevance:context"
@@ -4197,7 +4280,7 @@
         "A-1922.1"
       ],
       "related_nodes": [
-        "N-10569",
+        "N-10520",
         "N-10014"
       ],
       "tags": [
@@ -4218,9 +4301,9 @@
       "claim": "The host says the ATF says its bullet comparison is inconclusive, which she calls the best they could do.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10572",
-        "N-10975",
-        "N-10620"
+        "N-10523",
+        "N-10896",
+        "N-10566"
       ],
       "tags": [
         "relevance:core"
@@ -4240,7 +4323,7 @@
       "claim": "The host says everyone knows who killed JFK and that it was not Lee Harvey Oswald.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10082"
+        "N-10079"
       ],
       "tags": [
         "relevance:tangential"
@@ -4261,8 +4344,8 @@
       "claim": "The host says that 'they' know Tyler Robinson (spelled Taylor in the transcript) did not do it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110",
-        "N-10337"
+        "N-10106",
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4283,8 +4366,8 @@
       "claim": "The host says Robinson is also a last name that the Romney family is married into, which does not necessarily mean there is a tie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11398",
-        "N-10574"
+        "N-11314",
+        "N-10525"
       ],
       "tags": [
         "relevance:tangential"
@@ -4306,8 +4389,8 @@
       "claim": "The host says the Hild family is married into the Robinsons as well and that she needs to trace the family connections.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11398",
-        "N-10153"
+        "N-11314",
+        "N-10148"
       ],
       "tags": [
         "relevance:tangential"
@@ -4329,8 +4412,8 @@
       "claim": "The host says the Farnsworth family (the camera-takedown family) and the Romney family were among the families in the Mormon group that went to Chihuahua, Mexico after polygamy was outlawed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11398",
-        "N-10383"
+        "N-11314",
+        "N-10356"
       ],
       "tags": [
         "relevance:tangential"
@@ -4352,8 +4435,8 @@
       "claim": "The host says Charlie Kirk put his foot down and told Trump 'Do not go to war with Iran.'",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539",
-        "N-10674"
+        "N-10494",
+        "N-10613"
       ],
       "tags": [
         "relevance:core"
@@ -4375,8 +4458,8 @@
       "claim": "The host says Charlie Kirk stepped on the toes of people who trade on war and who do real estate deals before wars even start.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128",
-        "N-10539"
+        "N-11046",
+        "N-10494"
       ],
       "tags": [
         "relevance:context"
@@ -4397,9 +4480,9 @@
       "claim": "The host says that every time there was a conflict in Israel, the Egyptian planes were carrying someone from Israel to Provo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10347",
-        "N-10253",
-        "N-10074"
+        "N-10325",
+        "N-10239",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -4419,8 +4502,8 @@
       "claim": "The host says her sense was that the person on the Egyptian planes was Benjamin Netanyahu hiding in Provo, while saying she is not claiming it is him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10347",
-        "N-10074"
+        "N-10325",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -4441,8 +4524,8 @@
       "claim": "The host says her Egyptian plane spreadsheet is locking in and shows a lot of evidence that the planes are in sync with the pattern of bombing campaigns toward Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10347",
-        "N-10253"
+        "N-10325",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -4465,7 +4548,7 @@
       "claim": "The host says Provo has a whole underground city and promises more on that later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:tangential"
@@ -4485,8 +4568,8 @@
       "claim": "The host says Tyler Robinson's defense is asking how the prosecution obtained its technology, and says the defense wants to see receipts and the chain of custody.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10581",
-        "N-10110"
+        "N-10532",
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -4509,8 +4592,8 @@
         "A-3331.1"
       ],
       "related_nodes": [
-        "N-10346",
-        "N-10076"
+        "N-10324",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -4534,8 +4617,8 @@
       "claim": "Reading viewer comments, the host recalls Terryl Farnsworth being 'all crazy on the phone', quotes him as saying 'I spoke to Erika', and asks why he spoke to Erika about the footage from behind Charlie's head a couple of days after Charlie died, questioning their priorities.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10535",
-        "N-10346"
+        "N-10490",
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -4558,7 +4641,7 @@
       "claim": "The host says Terryl Farnsworth was all crazy on the phone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -4582,7 +4665,7 @@
       ],
       "related_nodes": [
         "N-10007",
-        "N-11399"
+        "N-11315"
       ],
       "tags": [
         "relevance:tangential"
@@ -4605,7 +4688,7 @@
       ],
       "related_nodes": [
         "N-10007",
-        "N-11399"
+        "N-11315"
       ],
       "tags": [
         "relevance:tangential"
@@ -4626,7 +4709,7 @@
       "claim": "The host says people in the LDS community describe the Romney family as very powerful, not well liked and considered remarkably corrupt by people familiar with them, while she says she is not saying they are corrupt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10574"
+        "N-10525"
       ],
       "tags": [
         "relevance:context"
@@ -4649,7 +4732,7 @@
         "A-3332.1"
       ],
       "related_nodes": [
-        "N-10082"
+        "N-10079"
       ],
       "tags": [
         "relevance:tangential"
@@ -4671,8 +4754,8 @@
         "A-3332.1"
       ],
       "related_nodes": [
-        "N-10082",
-        "N-10543"
+        "N-10079",
+        "N-10498"
       ],
       "tags": [
         "relevance:core"
@@ -4693,8 +4776,8 @@
       "claim": "The host recounts that the public narrative was that Charlie's very last breath was 'Shabbat Shalom. I love Israel' and that he had just written a letter about how much he loved Israel, which she says made her think something was wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10543",
-        "N-10456"
+        "N-10498",
+        "N-10425"
       ],
       "tags": [
         "relevance:core"
@@ -4717,8 +4800,8 @@
         "A-3333.1"
       ],
       "related_nodes": [
-        "N-10106",
-        "N-10543"
+        "N-10102",
+        "N-10498"
       ],
       "tags": [
         "relevance:core"
@@ -4744,8 +4827,8 @@
       "claim": "The host says it would have been nice if TPUSA (Andrew and Erika) had come out with that information themselves rather than attacking Joe Kent.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10551",
-        "N-10355"
+        "N-10505",
+        "N-10332"
       ],
       "tags": [
         "relevance:core"
@@ -4768,8 +4851,8 @@
       "claim": "The host, voicing what she says Erika could have said, says that in the end her husband Charlie Kirk was under immense pressure: people were pulling money from him, threatening him financially, he felt morally blackmailed, and they were telling him who he could speak to and who his friends could be.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10106",
-        "N-10446"
+        "N-10102",
+        "N-10415"
       ],
       "tags": [
         "relevance:core"
@@ -4796,7 +4879,7 @@
       "claim": "The host says Erika Kirk is forced to assume Charlie's role and reverse everything he did, as LBJ did after JFK's death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:core"

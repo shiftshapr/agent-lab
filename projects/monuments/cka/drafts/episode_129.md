@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 513786cea1d5039b5eb51ed6d5c02f0d15ecee4cdc48adb287369585a1185a6a
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep129): N-10745, N-10765, N-10771, N-10820
+  - Hole-minted Nodes (reintro-ep129): N-10694, N-10699, N-10743
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-11060–C-11157
-  - New Nodes Introduced: N-10742, N-10743
-  - Reused Nodes Appearing: N-1, N-2, N-367, N-487, N-504, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-163, N-211, N-246, N-266, N-278, N-437, N-544, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218, N-11208, N-11300
+  - New Nodes Introduced: N-10674, N-10675
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-367, N-487, N-504, N-10672, N-10673, N-14, N-15, N-36, N-60, N-97, N-163, N-211, N-246, N-266, N-278, N-437, N-544, N-10000, N-10067, N-10106, N-10254, N-10282, N-10294, N-10313, N-10315, N-10214, N-10320, N-10338, N-10593, N-10606, N-10622, N-10643, N-10651, N-10826, N-10855, N-10857, N-10877, N-10889, N-10934, N-10979, N-11134, N-11124, N-11216
   - (see registers)
 
 ## 2. Executive Summary
@@ -134,7 +134,7 @@ Video Timestamp: 00:26:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (article read/displayed on air; specific quoted phrases)
 
-*Related: C-11104, C-11107, C-11125, C-11065, N-10743*
+*Related: C-11104, C-11107, C-11125, C-11065, N-10675*
 
 **A-2164.2** Daily Mail article body – Erika's reported "compassion" and "overwhelming sadness" toward Tyler Robinson at his Utah courtroom appearance
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image displayed)
 
-*Related: C-11062, C-11065, C-11146, N-10740*
+*Related: C-11062, C-11065, C-11146, N-10672*
 
 **A-2165.2** Side-by-side comparison photographs – recreation by host's team of nitrile glove appearance in a comparable door compartment
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:05:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host's own experiment; not external evidence)
 
-*Related: C-11064, C-11063, N-10740*
+*Related: C-11064, C-11063, N-10672*
 
 **A-2165.3** Second never-before-seen photograph of the backseat object previously described by some as a burned shirt, with clearer letter/color detail visible
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:09:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image displayed)
 
-*Related: C-11069, N-10740*
+*Related: C-11069, N-10672*
 
 **A-2166** Hospital Arrival Media Bundle
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (logs displayed)
 
-*Related: C-11088, C-11084, C-11073, N-10742*
+*Related: C-11088, C-11084, C-11073, N-10674*
 
 **A-2168** Blake Neff Audio Bundle
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:42:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11130, C-11131, N-10741*
+*Related: C-11130, C-11131, N-10673*
 
 **A-2169.2** Tim Pool X post comparing amplification of Charlie Kirk conspiracy claims on social media to the destruction of Alex Jones; asking why YouTube is boosting such videos
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:43:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11133, N-10741*
+*Related: C-11133, N-10673*
 
 **A-2169.3** Blake Neff Twitter Space audio comparing Candace Owens's coverage to Alex Jones's Sandy Hook coverage, specifically citing the 10-month sustained duration
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:45:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-11134, N-10741*
+*Related: C-11134, N-10673*
 
 **A-2169.4** Viva Frei clip on the Charlie Kirk Show invoking "Sandy Hook 2.0" framing of conspiracy theories around Kirk's death
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:48:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11139, N-10741*
+*Related: C-11139, N-10673*
 
 **A-2169.5** Pre-death Charlie Kirk audio clip criticizing the Alex Jones verdict as "patient zero for lawfare strategies" and warning against using it as a censorship blueprint
 
@@ -284,7 +284,7 @@ Video Timestamp: 00:50:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11142, N-1, N-10741*
+*Related: C-11142, N-1, N-10673*
 
 **A-2169.6** Pre-death Charlie Kirk X post: "The lawsuits against Jones have always been about finding a way to censor and destroy a person the left hates, and then using that blueprint on everybody else."
 
@@ -294,7 +294,7 @@ Video Timestamp: 00:54:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (post text quoted)
 
-*Related: C-11142, C-11146, N-1, N-10741*
+*Related: C-11142, C-11146, N-1, N-10673*
 
 **A-2170** Viewer Comment Bundle
 
@@ -306,7 +306,7 @@ Video Timestamp: 01:01:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer speculation)
 
-*Related: C-11153, N-10740*
+*Related: C-11153, N-10672*
 
 **A-2170.2** YouTube comment from "Aunt Leash": glove appears melted on tip of one finger and side of another; suggests nitrile would protect against chemical burns from explosive residue but not flames; poses question whether Charlie's shirt was burned in the SUV
 
@@ -316,7 +316,7 @@ Video Timestamp: 01:03:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer speculation)
 
-*Related: C-11157, N-10740*
+*Related: C-11157, N-10672*
 
 ---
 
@@ -331,7 +331,7 @@ Video Timestamp: 00:31:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11114, C-11115, N-2, N-3, N-10743*
+*Related: C-11114, C-11115, N-2, N-3, N-10675*
 
 ---
 
@@ -344,7 +344,7 @@ Video Timestamp: 00:33:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11119, N-2, N-3, N-10743*
+*Related: C-11119, N-2, N-3, N-10675*
 
 ---
 
@@ -374,7 +374,7 @@ Video Timestamp: 00:59:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11150, C-11151, N-60, N-3, N-97, N-266, N-10651*
+*Related: C-11150, C-11151, N-60, N-3, N-97, N-266, N-10593*
 
 ---
 
@@ -389,7 +389,7 @@ Video Timestamp: 01:02:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11155, N-3, N-11218*
+*Related: C-11155, N-3, N-11134*
 
 ---
 
@@ -432,7 +432,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10740** SUV Interior Anomaly
+**N-10672** SUV Interior Anomaly
 
 Persistent investigation target covering (a) unidentified glove-like object in left rear door pocket (Rick Cutler's side), and (b) purported burned-shirt object in backseat. Cross-references photos A-2165.1, A-2165.3 and viewer hypotheses A-2170.1, A-2170.2.
 
@@ -443,7 +443,7 @@ Investigative Pressure: High
 
 *Related: A-2165.1, A-2165.2, A-2165.3, A-2170.1, A-2170.2, C-11062, C-11064, C-11063, C-11069, C-11153, C-11157*
 
-**N-10741** Sandy Hook Comparison Rhetoric
+**N-10673** Sandy Hook Comparison Rhetoric
 
 Persistent investigation target: cross-platform pattern of commentators equating questions about Kirk's death to Alex Jones/Sandy Hook defamation precedent. Documented across Seth Dillon (A-2169.1), Tim Pool (A-2169.2), Blake Neff (A-2169.3), and Viva Frei on the Charlie Kirk Show (A-2169.4); Kirk's own pre-death statements opposing the precedent (A-2169.5, A-2169.6).
 
@@ -454,7 +454,7 @@ Investigative Pressure: High
 
 *Related: A-2169.1, A-2169.2, A-2169.3, A-2169.4, A-2169.5, A-2169.6, C-11130, C-11131, C-11133, C-11134, C-11139, C-11142, C-11146*
 
-**N-10742** Mikey McCoy Call Timeline Discrepancy
+**N-10674** Mikey McCoy Call Timeline Discrepancy
 
 Persistent investigation target: reconciliation required between Blake Neff's contemporaneous account (A-2168.1) and the phone log sequence (A-2167.1), particularly the 10-minute Danny Philip call and the discrepancy between calling Erika first vs. Elizabeth first.
 
@@ -465,7 +465,7 @@ Investigative Pressure: High
 
 *Related: A-2167.1, A-2168.1, C-11088, C-11084, C-11073, C-11082*
 
-**N-10743** Daily Mail Article Source Identity
+**N-10675** Daily Mail Article Source Identity
 
 Persistent investigation target: the unnamed "family friend" (and later "family member") source for Erika Kirk quotations in A-2164.1–A-2164.3. Host speculates Tracy Martin but does not confirm; Turning Point USA declined comment.
 
@@ -475,6 +475,16 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-2164.1, A-2164.2, A-2164.3, C-11104, N-2*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-11127, C-11128*
 
 ---
 
@@ -669,7 +679,7 @@ Turning Point USA; subject of the advertiser calls and Sandy Hook framing claims
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Daily Mail; outlet that published the Erika article and, per the host, got the Aspen clip access.
 
@@ -677,7 +687,7 @@ Daily Mail; outlet that published the Erika article and, per the host, got the A
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing node reused for new claims in this episode.
 
@@ -685,7 +695,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing node reused for new claims in this episode.
 
@@ -693,7 +703,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10300** Justin Streiff Post-Assassination Phone Call
+**N-10282** Justin Streiff Post-Assassination Phone Call
 
 Existing node reused for new claims in this episode.
 
@@ -701,7 +711,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline
+**N-10294** Charlie Kirk Show Apple Podcasts Ranking Decline
 
 Existing node reused for new claims in this episode.
 
@@ -709,7 +719,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10334** CBS Bari Weiss Town Hall Production Integrity
+**N-10313** CBS Bari Weiss Town Hall Production Integrity
 
 Existing node reused for new claims in this episode.
 
@@ -717,7 +727,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10336** Tyler Robinson First In-Person Court Appearance Details
+**N-10315** Tyler Robinson First In-Person Court Appearance Details
 
 Existing node reused for new claims in this episode.
 
@@ -725,7 +735,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Existing node reused for new claims in this episode.
 
@@ -733,7 +743,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing node reused for new claims in this episode.
 
@@ -741,7 +751,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10362** Vehicle Disposition Question
+**N-10338** Vehicle Disposition Question
 
 Existing node reused for new claims in this episode.
 
@@ -749,7 +759,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 Existing node reused for new claims in this episode.
 
@@ -757,7 +767,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Existing node reused for new claims in this episode.
 
@@ -765,7 +775,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10684** Brian Harpole Shirt Removal Event Timing
+**N-10622** Brian Harpole Shirt Removal Event Timing
 
 Existing node reused for new claims in this episode.
 
@@ -773,7 +783,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10707** Missing Charlie's Shirt Investigation Target
+**N-10643** Missing Charlie's Shirt Investigation Target
 
 Existing node reused for new claims in this episode.
 
@@ -781,7 +791,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -789,15 +799,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10745** Daily Mail Article Sourcing Question
-
-Existing node reused for new claims in this episode.
-
-*Related: C-11108*
-
----
-
-**N-10765** Timpanogos Hospital Evacuation Tip
+**N-10694** Timpanogos Hospital Evacuation Tip
 
 Existing node reused for new claims in this episode.
 
@@ -805,7 +807,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10771** Missing Gloves Origin in SUV Door
+**N-10699** Missing Gloves Origin in SUV Door
 
 Existing node reused for new claims in this episode.
 
@@ -813,7 +815,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10820** 9/10 Vehicle Positioning Discrepancy
+**N-10743** 9/10 Vehicle Positioning Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -821,7 +823,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+**N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
 Existing node reused for new claims in this episode.
 
@@ -829,7 +831,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10934** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens
+**N-10855** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens
 
 Existing node reused for new claims in this episode.
 
@@ -837,7 +839,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10936** Aspen CEO-Appointment Video Non-Release
+**N-10857** Aspen CEO-Appointment Video Non-Release
 
 Existing node reused for new claims in this episode.
 
@@ -845,7 +847,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10956** Catholics for Catholics
+**N-10877** Catholics for Catholics
 
 Existing node reused for new claims in this episode.
 
@@ -853,7 +855,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 The New York Times; source of Erika's account of the Mikey call.
 
@@ -861,7 +863,7 @@ The New York Times; source of Erika's account of the Mikey call.
 
 ---
 
-**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
 Existing node reused for new claims in this episode.
 
@@ -869,7 +871,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11061** Restaurantology Event Green Room Attendance Question
+**N-10979** Restaurantology Event Green Room Attendance Question
 
 Existing node reused for new claims in this episode.
 
@@ -877,7 +879,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11208** Timpanogos Hospital Group Arrival Question
+**N-11124** Timpanogos Hospital Group Arrival Question
 
 Existing node reused for new claims in this episode.
 
@@ -885,7 +887,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11218** Timpanogos Regional Hospital
+**N-11134** Timpanogos Regional Hospital
 
 Timpanogos Regional Hospital; site of the arrival and the reported computer shutdown.
 
@@ -893,7 +895,7 @@ Timpanogos Regional Hospital; site of the arrival and the reported computer shut
 
 ---
 
-**N-11300** Charlie Kirk Show LLC
+**N-11216** Charlie Kirk Show LLC
 
 Node Type: Organization
 Company the host says received the freedom shirt profits, in which she says Charlie told her Andrew Kolvet owned a piece.
@@ -913,7 +915,7 @@ Claim: The Daily Mail article published 2026-07-20 quotes a "family friend" as d
 Anchored Artifacts: A-2164.1
 Mentions: N-3, N-2
 
-Related Nodes: N-10743
+Related Nodes: N-10675
 
 Investigative Direction: Identify the family friend (host speculates Tracy Martin); obtain confirmation or denial from Turning Point USA.
 
@@ -927,7 +929,7 @@ Claim: When the Daily Mail reporter reached out to Turning Point USA spokespeopl
 
 Anchored Artifacts: A-2164.1
 
-Related Nodes: N-10743
+Related Nodes: N-10675
 
 Investigative Direction: Confirm with the Daily Mail reporter or via FOIA-equivalent request to TPUSA communications.
 
@@ -999,7 +1001,7 @@ Claim: The unidentified glove-like object is in the door compartment on the side
 Anchored Artifacts: A-2165.1
 Mentions: N-487
 
-Related Nodes: N-10740
+Related Nodes: N-10672
 
 Investigative Direction: Verify Rick Cutler's seating position against prior sworn statements and SUV interior diagram evidence.
 
@@ -1043,7 +1045,7 @@ Claim: The host says Mikey McCoy's call logs, which she shows, record him making
 Anchored Artifacts: A-2167.1
 Mentions: N-367, N-217, N-190, N-17
 
-Related Nodes: N-10742
+Related Nodes: N-10674
 
 Investigative Direction: Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV.
 
@@ -1059,7 +1061,7 @@ Anchored Artifacts: A-2168.1
 Mentions: N-190, N-159, N-2
 Contradicts: C-4104, C-11088
 
-Related Nodes: N-10742
+Related Nodes: N-10674
 
 Investigative Direction: Reconcile with phone log evidence (which suggests Elizabeth was called first, with Erika added 3 minutes later); assess Neff's recall accuracy versus contemporaneous records.
 
@@ -1104,7 +1106,7 @@ Claim: The host says Danny Philip – newly hired Turning Point USA employee –
 Anchored Artifacts: A-2167.1, A-2166.1
 Mentions: N-367, N-190
 
-Related Nodes: N-10742
+Related Nodes: N-10674
 
 Investigative Direction: Subpoena call detail records; obtain Danny Philip's testimony or statement about the call content.
 
@@ -1119,7 +1121,7 @@ Claim: In a clip the host plays, Blake Neff says Mikey McCoy called his father R
 Anchored Artifacts: A-2168.1
 Mentions: N-190, N-159, N-17
 
-Related Nodes: N-10742
+Related Nodes: N-10674
 
 Investigative Direction: Confirm against authenticated phone records.
 
@@ -1134,7 +1136,7 @@ Claim: Seth Dillon's X post distinguishes the Alex Jones liability basis as defa
 Anchored Artifacts: A-2169.1
 Mentions: N-38, N-93
 
-Related Nodes: N-10741
+Related Nodes: N-10673
 
 Investigative Direction: Verify the precise quoted text against Seth Dillon's X account; assess legal accuracy.
 
@@ -1149,7 +1151,7 @@ Claim: The Seth Dillon post explicitly states the First Amendment does not provi
 Anchored Artifacts: A-2169.1
 Mentions: N-38
 
-Related Nodes: N-10741
+Related Nodes: N-10673
 
 Investigative Direction: Cross-reference against the actual Alex Jones appellate record (e.g., the Texas finding of default).
 
@@ -1164,7 +1166,7 @@ Claim: Tim Pool's X post, which the host reads, says anyone claiming the officia
 Anchored Artifacts: A-2169.2
 Mentions: N-1, N-93, N-267
 
-Related Nodes: N-10741
+Related Nodes: N-10673
 
 Investigative Direction: Verify quoted text against Tim Pool's X account; assess whether framing is consistent with prior Tim Pool statements.
 
@@ -1179,7 +1181,7 @@ Claim: In a Twitter Space clip the host plays, Blake Neff says nothing compares 
 Anchored Artifacts: A-2169.3
 Mentions: N-3, N-93, N-159
 
-Related Nodes: N-10741
+Related Nodes: N-10673
 
 Investigative Direction: Obtain full unedited Twitter Space audio; document exact quoted text.
 
@@ -1194,7 +1196,7 @@ Claim: In a clip from the Charlie Kirk Show that the host plays, Viva Frei expli
 Anchored Artifacts: A-2169.4
 Mentions: N-333
 
-Related Nodes: N-10741
+Related Nodes: N-10673
 
 Investigative Direction: Confirm segment on Charlie Kirk Show's platform archive; document exact comparison attempt.
 
@@ -1209,7 +1211,7 @@ Claim: In a pre-death Charlie Kirk broadcast clip the host plays, Kirk character
 Anchored Artifacts: A-2169.5, A-2169.6
 Mentions: N-1, N-93
 
-Related Nodes: N-10741
+Related Nodes: N-10673
 
 Investigative Direction: Verify the quoted segment against Charlie Kirk Show archives; verify the X post against Kirk's account.
 
@@ -1224,7 +1226,7 @@ Claim: A pre-death Charlie Kirk X post states: "The lawsuits against Jones have 
 Anchored Artifacts: A-2169.6
 Mentions: N-1, N-93
 
-Related Nodes: N-10741
+Related Nodes: N-10673
 
 Investigative Direction: Confirm the post against Charlie Kirk's X archive; date the post.
 
@@ -1268,7 +1270,7 @@ Transcript Snippet: They are signaling, again, if you are paying attention, that
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10741, N-10000
+Related Nodes: N-10673, N-10000
 Tags: relevance:context
 Investigative Direction: Collect TPUSA and Charlie Kirk Show statements that use the Sandy Hook comparison, with dates, and check whether any legal action has been threatened or filed against the host.
 
@@ -1284,7 +1286,7 @@ Transcript Snippet: that increasingly complicated approximately 7-minute ride to
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-11218
+Related Nodes: N-11134
 Tags: relevance:core
 Investigative Direction: Compare the 911 call and dispatch times, the vehicle's departure and arrival times, and the hospital's intake log to fix the length of the ride.
 
@@ -1300,7 +1302,7 @@ Transcript Snippet: the only place that we could see blood on this door was just
 
 Anchored Artifacts: A-2165.1
 Mentions: N-3
-Related Nodes: N-10771, N-10740
+Related Nodes: N-10699, N-10672
 Tags: relevance:core
 Investigative Direction: Obtain the full-resolution original of the door photograph and the photographer's identity; ask a forensic photographer to assess the stain pattern on the door and handle.
 
@@ -1316,7 +1318,7 @@ Transcript Snippet: And again, this is in the immediate aftermath. This is not a
 
 Anchored Artifacts: A-2165.1
 Mentions: N-3
-Related Nodes: N-10771, N-10362
+Related Nodes: N-10699, N-10338
 Tags: relevance:core
 Investigative Direction: Check the EXIF data and the photo's source to date it; compare with the vehicle's later cleaning and resale record.
 
@@ -1332,7 +1334,7 @@ Transcript Snippet: He cut He said he cut the shirt. Whose scissors did he use?
 
 Anchored Artifacts: 
 Mentions: N-266, N-3
-Related Nodes: N-10684, N-10707
+Related Nodes: N-10622, N-10643
 Tags: relevance:core
 Investigative Direction: Locate Harpole's own statement on who cut the shirt and with what; ask the hospital and investigators whether scissors were collected.
 
@@ -1348,7 +1350,7 @@ Transcript Snippet: I don't know why the feds would want this car immediately re
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10362
+Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Obtain the rental company, tow and resale records for the SUV and any law enforcement release or hold documents.
 
@@ -1380,7 +1382,7 @@ Transcript Snippet: So two SUVs were rented by Mikey McCoy in Salt Lake City.
 
 Anchored Artifacts: 
 Mentions: N-190, N-159, N-367, N-504, N-1
-Related Nodes: N-11061
+Related Nodes: N-10979
 Supports: C-10705
 Tags: relevance:core
 Investigative Direction: Obtain the rental agreements for both SUVs and the passenger assignments for each leg of the day.
@@ -1397,7 +1399,7 @@ Transcript Snippet: Blake Neff doesn't remember where they went in Salt Lake Cit
 
 Anchored Artifacts: 
 Mentions: N-159, N-367
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Ask Neff and Philip for their movements that morning and check vehicle GPS or toll records for the second SUV.
 
@@ -1443,7 +1445,7 @@ Transcript Snippet: Mikey, as we know, immediately presses his phone to his ear 
 
 Anchored Artifacts: A-2167.1
 Mentions: N-190, N-217, N-2
-Related Nodes: N-10338
+Related Nodes: N-10214
 Supports: C-6107
 Tags: relevance:core
 Investigative Direction: Obtain authenticated call detail records for Mikey McCoy's phone for 12:23 to 12:35 Utah time.
@@ -1460,7 +1462,7 @@ Transcript Snippet: said that at 11:23, obviously adjusting for time, 12:23 I gu
 
 Anchored Artifacts: 
 Mentions: N-2, N-190
-Related Nodes: N-10905, N-10968
+Related Nodes: N-10826, N-10889
 Tags: relevance:core
 Investigative Direction: Obtain the New York Times interview text and compare its call timing with the call detail records.
 
@@ -1476,7 +1478,7 @@ Transcript Snippet: Um then we found out months later that actually no, Mikey ca
 
 Anchored Artifacts: A-2167.1
 Mentions: N-190, N-217, N-2
-Related Nodes: N-10338, N-10742
+Related Nodes: N-10214, N-10674
 Supports: C-4105, C-6107
 Tags: relevance:core
 Investigative Direction: Obtain the call detail record showing when the merge to Erika's number occurred.
@@ -1493,7 +1495,7 @@ Transcript Snippet: So, just 2 minutes after Charlie's hit at 12:25, Blake and M
 
 Anchored Artifacts: A-2167.1
 Mentions: N-159, N-190, N-1
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Obtain footage placing Neff and McCoy together at 12:25 and compare with their recorded call times.
 
@@ -1509,7 +1511,7 @@ Transcript Snippet: around the same time I pull out my phone and I call my mom j
 
 Anchored Artifacts: A-2168.1
 Mentions: N-159, N-190
-Related Nodes: N-10742
+Related Nodes: N-10674
 Tags: relevance:core
 Investigative Direction: Obtain Neff's phone records for the call to his mother and compare its time and length with Mikey McCoy's call sequence.
 
@@ -1525,7 +1527,7 @@ Transcript Snippet: Mikey's discussion with Erika, we know lasted less than 2 mi
 
 Anchored Artifacts: A-2167.1
 Mentions: N-190, N-2, N-3
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Verify the length of the Mikey-to-Erika call in the call detail records.
 
@@ -1541,7 +1543,7 @@ Transcript Snippet: That's what she tells, I believe, Jesse Watters. That's cert
 
 Anchored Artifacts: 
 Mentions: N-2, N-211
-Related Nodes: N-10905, N-10968
+Related Nodes: N-10826, N-10889
 Tags: relevance:core
 Investigative Direction: Check the Jesse Watters interview and the New York Times article for the exact words Erika used.
 
@@ -1557,7 +1559,7 @@ Transcript Snippet: And then Danny calls Mikey. And they stay on the phone for 1
 
 Anchored Artifacts: A-2167.1
 Mentions: N-367, N-190, N-217, N-17
-Related Nodes: N-10742
+Related Nodes: N-10674
 Tags: relevance:core
 Investigative Direction: Obtain the call detail record showing which number placed the Philip-McCoy call and when it started and ended.
 
@@ -1573,7 +1575,7 @@ Transcript Snippet: Danny, Blake, and Mikey all run the same direction direction
 
 Anchored Artifacts: 
 Mentions: N-367, N-159, N-190
-Related Nodes: N-10742, N-10820
+Related Nodes: N-10674, N-10743
 Tags: relevance:core
 Investigative Direction: Resolve which SUV each man entered using footage and statements, since the host elsewhere has Mikey in the SUV carrying Charlie.
 
@@ -1589,7 +1591,7 @@ Transcript Snippet: Maybe Justin Streiff and Erika lied to me and it wasn't Dann
 
 Anchored Artifacts: 
 Mentions: N-15, N-2, N-367, N-190, N-3
-Related Nodes: N-10300
+Related Nodes: N-10282
 Tags: relevance:core
 Investigative Direction: Identify what Streiff and Erika told the host about this call and compare with the call records.
 
@@ -1605,7 +1607,7 @@ Transcript Snippet: Blake says they arrived 25 minutes later. I'm going to forgi
 
 Anchored Artifacts: A-2166.2
 Mentions: N-159
-Related Nodes: N-11208
+Related Nodes: N-11124
 Supports: C-2379
 Tags: relevance:core
 Investigative Direction: Compare Neff's stated 25-minute estimate with the broadcast time stamp and the 911 and hospital arrival logs.
@@ -1622,7 +1624,7 @@ Transcript Snippet: because they don't seem to be shaken. They're all just kind 
 
 Anchored Artifacts: A-2166.2
 Mentions: N-330, N-159, N-367, N-190, N-504
-Related Nodes: N-11208
+Related Nodes: N-11124
 Tags: relevance:core
 Investigative Direction: Obtain the unedited newsroom feed and review the men's demeanor and pace on entry.
 
@@ -1654,7 +1656,7 @@ Transcript Snippet: She's nasty behind the scenes. She calls people's priests.
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10956
+Related Nodes: N-10877
 Supports: C-9778
 Tags: relevance:core
 Investigative Direction: Identify the priests contacted and obtain their accounts of the calls.
@@ -1671,7 +1673,7 @@ Transcript Snippet: She personally took credit for having Matt Walsh cancel his 
 
 Anchored Artifacts: 
 Mentions: N-2, N-163, N-3
-Related Nodes: N-10956
+Related Nodes: N-10877
 Tags: relevance:core
 Investigative Direction: Ask Catholics for Catholics organizers and Walsh's team when and why his appearance changed and who communicated it.
 
@@ -1687,7 +1689,7 @@ Transcript Snippet: He transformed what was supposed to be his appearance into a
 
 Anchored Artifacts: 
 Mentions: N-163, N-2, N-3
-Related Nodes: N-10956
+Related Nodes: N-10877
 Tags: relevance:core
 Investigative Direction: Obtain the event program showing Walsh's original and final format and any messages explaining the change.
 
@@ -1703,7 +1705,7 @@ Transcript Snippet: White House was making phone calls because she doesn't like 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10956
+Related Nodes: N-10877
 Tags: relevance:core
 Investigative Direction: Ask the event organizers and recipients of calls who called and from which office.
 
@@ -1719,7 +1721,7 @@ Transcript Snippet: She explicitly told people that it was, and I quote, a woke 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10956
+Related Nodes: N-10877
 Tags: relevance:core
 Investigative Direction: Identify the people Erika told and obtain their accounts or messages using the phrase.
 
@@ -1735,7 +1737,7 @@ Transcript Snippet: That's a term that I first heard come out of Bibi Netanyahu'
 
 Anchored Artifacts: 
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10342
+Related Nodes: N-10320
 Tags: relevance:context
 Investigative Direction: Find the recording or witnesses of Netanyahu using the phrase and search Kirk's archive for any use of it.
 
@@ -1767,7 +1769,7 @@ Transcript Snippet: one that makes personal and public calls to my advertisers t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10934
+Related Nodes: N-10000, N-10855
 Tags: relevance:core
 Investigative Direction: Identify advertisers who received calls and the TPUSA people who made them.
 
@@ -1799,7 +1801,7 @@ Transcript Snippet: They gave them special access to see the unedited clip that 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10070, N-10664, N-10936
+Related Nodes: N-10067, N-10606, N-10857
 Supports: C-9330
 Tags: relevance:core
 Investigative Direction: Obtain the Daily Mail's Aspen article and ask the reporter and TPUSA how and when the clip was shown.
@@ -1816,7 +1818,7 @@ Transcript Snippet: Charlie really did pick Erika to run the company in the even
 
 Anchored Artifacts: 
 Mentions: N-1, N-2
-Related Nodes: N-10664, N-10070
+Related Nodes: N-10606, N-10067
 Tags: relevance:core
 Investigative Direction: Compare the Daily Mail's description with the audio, the date of the Aspen retreat and the host's earlier account.
 
@@ -1831,7 +1833,7 @@ Claim: The host says the Daily Mail article lists a family friend as the source 
 Transcript Snippet: And they list a family friend as a source initially and then elsewhere in the article they say a family member.
 
 Anchored Artifacts: A-2164.1
-Related Nodes: N-10743, N-10745
+Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Compare each attribution in the article text to determine whether one or two sources are quoted.
 
@@ -1847,7 +1849,7 @@ Transcript Snippet: My guess would be Tracy Martin because she's also been the d
 
 Anchored Artifacts: A-2164.1
 Mentions: N-544, N-3
-Related Nodes: N-10743
+Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.
 
@@ -1863,7 +1865,7 @@ Transcript Snippet: It was the first time she had come face-to-face with Tyler R
 
 Anchored Artifacts: A-2164.2
 Mentions: N-2, N-40
-Related Nodes: N-10336
+Related Nodes: N-10315
 Tags: relevance:core
 Investigative Direction: Check court records and courtroom reporting for the date of Erika's first appearance in the same room as Robinson.
 
@@ -1879,7 +1881,7 @@ Transcript Snippet: I haven't seen any convincing evidence that Tyler Robinson c
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare against the evidence disclosed at the preliminary hearing and the prosecution's filings.
 
@@ -1895,7 +1897,7 @@ Transcript Snippet: She was wholly confident that this man killed her husband be
 
 Anchored Artifacts: 
 Mentions: N-2, N-278, N-40
-Related Nodes: N-10334
+Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Check the CBS town hall transcript for Erika's statement on certainty and access to evidence.
 
@@ -1911,7 +1913,7 @@ Transcript Snippet: That bridge is burned between Erika and Candace. It's more t
 
 Anchored Artifacts: A-3141.1
 Mentions: N-2, N-3
-Related Nodes: N-10743
+Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Verify the quotation in the original Daily Mail article and the attribution to a family member.
 
@@ -1927,7 +1929,7 @@ Transcript Snippet: Candace decided to make this her identity. It's a grab for a
 
 Anchored Artifacts: A-3141.1
 Mentions: N-2, N-3
-Related Nodes: N-10743
+Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Verify the quotation in the original Daily Mail article.
 
@@ -1943,7 +1945,7 @@ Transcript Snippet: It took just 3 weeks after Charlie's assassination for Erika
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-11014
+Related Nodes: N-10934
 Supports: C-9973
 Tags: relevance:core
 Investigative Direction: Search USPTO records for trademark applications by Erika Kirk with filing dates in late September 2025.
@@ -1960,7 +1962,7 @@ Transcript Snippet: those were not sold through the charitable arm, okay? Former
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11300, N-11014
+Related Nodes: N-11216, N-10934
 Tags: relevance:core
 Investigative Direction: Obtain the seller of record for the shirts, the LLC's accounts and TPUSA's Form 990 for the relevant year.
 
@@ -1976,7 +1978,7 @@ Transcript Snippet: Once upon a time Charlie told me Andrew Kolvet owned a piece
 
 Anchored Artifacts: 
 Mentions: N-1, N-14, N-3
-Related Nodes: N-11300
+Related Nodes: N-11216
 Tags: relevance:core
 Investigative Direction: Check Utah and Arizona business filings for the LLC's members and any ownership disclosures.
 
@@ -1992,7 +1994,7 @@ Transcript Snippet: Erika is really offended that Candace would use her husband'
 
 Anchored Artifacts: A-3141.2
 Mentions: N-2, N-3
-Related Nodes: N-10743
+Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Verify the quotation in the original Daily Mail article.
 
@@ -2008,7 +2010,7 @@ Transcript Snippet: I was already being sued by the president of France.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Supports: C-1296
 Tags: relevance:context
 Investigative Direction: Check the Delaware court docket for the Macron filing date against September 2025.
@@ -2040,7 +2042,7 @@ Transcript Snippet: we sold nothing with Charlie's face. No memorabilia.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11014
+Related Nodes: N-10934
 Tags: relevance:context
 Investigative Direction: Check the show's merchandise store archive for the period after September 10, 2025.
 
@@ -2072,7 +2074,7 @@ Transcript Snippet: Our show before Charlie died was already in the top 10 globa
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10312
+Related Nodes: N-10294
 Tags: relevance:context
 Investigative Direction: Check podcast chart history for August 2025 and YouTube view counts across 2024 and 2025 episodes.
 
@@ -2102,6 +2104,7 @@ Claim: The host says Erika walked out in a white pantsuit with sparklers behind 
 Transcript Snippet: When you walked out in a white pantsuit with sparklers behind you, and you sucked all of that in, that was it.
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Review memorial footage and photographs for Erika's entrance and clothing.
@@ -2117,6 +2120,7 @@ Claim: The host says Erika and the group clinked glasses, went to a restaurant a
 Transcript Snippet: You clinked glasses, you guys then went to a restaurant, you celebrated.
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Locate the photographs and dated reports of the post-memorial dinner and who attended.
@@ -2133,7 +2137,7 @@ Transcript Snippet: The sales have been crazy. 50,000 shirts sold, and kicked ba
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11300, N-11014
+Related Nodes: N-11216, N-10934
 Tags: relevance:core
 Investigative Direction: Identify the Zoom call, its date and attendees, and obtain a recording or notes.
 
@@ -2149,7 +2153,7 @@ Transcript Snippet: Suddenly, as soon as the Tyler Robinson trial began, these s
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:context
 Investigative Direction: Build a dated list of influencer posts invoking Sandy Hook against the date of the first Robinson hearing.
 
@@ -2165,7 +2169,7 @@ Transcript Snippet: target random family members of theirs as happened at times,
 
 Anchored Artifacts: A-2169.3
 Mentions: N-159, N-3, N-2
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:context
 Investigative Direction: Obtain the full Twitter Space recording and its date and speakers.
 
@@ -2181,7 +2185,7 @@ Transcript Snippet: they're also putting people on their show to say, you know, 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:context
 Investigative Direction: Identify the guests and broadcasts that made the Erika-as-Sandy-Hook-parent comparison, with dates.
 
@@ -2197,7 +2201,7 @@ Transcript Snippet: He said something, which he has apologized before and said w
 
 Anchored Artifacts: 
 Mentions: N-93
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:context
 Investigative Direction: Find Jones's public apology statements and dates.
 
@@ -2213,7 +2217,7 @@ Transcript Snippet: and they sued him and won for $1.4 billion, effectively endi
 
 Anchored Artifacts: 
 Mentions: N-93
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:context
 Investigative Direction: Check the Connecticut and Texas judgments against the $1.4 billion figure and the bankruptcy filing.
 
@@ -2229,7 +2233,7 @@ Transcript Snippet: But to go from there to say that it's exploding microphones,
 
 Anchored Artifacts: A-2169.4
 Mentions: N-333
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:context
 Investigative Direction: Obtain the full Charlie Kirk Show segment with its date and Viva Frei's complete remarks.
 
@@ -2245,7 +2249,7 @@ Transcript Snippet: I appreciate there are some issues with the prosecution. The
 
 Anchored Artifacts: A-2169.4
 Mentions: N-333
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Obtain the segment and the specific issues Viva Frei refers to.
 
@@ -2261,7 +2265,7 @@ Transcript Snippet: Rachel Maddow accused One America News Network of being fund
 
 Anchored Artifacts: A-2169.5
 Mentions: N-1
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:tangential
 Investigative Direction: Check the OAN v. Maddow ruling and its date and grounds.
 
@@ -2277,7 +2281,7 @@ Transcript Snippet: If your favorite conservative commentator is silent on Alex 
 
 Anchored Artifacts: A-2169.5
 Mentions: N-1, N-93
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:context
 Investigative Direction: Obtain the full broadcast with its date to confirm the quote and context.
 
@@ -2293,7 +2297,7 @@ Transcript Snippet: Lawyers for the Sandy Hook families say a verdict will send 
 
 Anchored Artifacts: A-2169.5
 Mentions: N-1, N-93
-Related Nodes: N-10741, N-10968
+Related Nodes: N-10673, N-10889
 Tags: relevance:context
 Investigative Direction: Find the original New York Times article quoted by Kirk.
 
@@ -2309,7 +2313,7 @@ Transcript Snippet: The lawyers behind the sham billion-dollar verdict against A
 
 Anchored Artifacts: A-2169.6
 Mentions: N-1, N-93
-Related Nodes: N-10741
+Related Nodes: N-10673
 Tags: relevance:context
 Investigative Direction: Confirm the post on Kirk's X account and its date, and the underlying bankruptcy motion.
 
@@ -2369,7 +2373,7 @@ Transcript Snippet: This is the person that's then retweeted by Ben Shapiro's la
 
 Anchored Artifacts: A-3143.1
 Mentions: N-60, N-97, N-266, N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Check the docket of the Harpole filing for counsel of record and compare with counsel in the Shapiro matter.
 
@@ -2400,7 +2404,7 @@ Transcript Snippet: We are now hearing from um people who worked in other parts 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11218, N-10765
+Related Nodes: N-11134, N-10694
 Tags: relevance:core
 Investigative Direction: Ask the hospital and its IT provider for network or outage logs for September 10, 2025, and seek the staff in question.
 
@@ -2416,7 +2420,7 @@ Transcript Snippet: more tips at candaceowens. com. If you know anything, uh hav
 
 Anchored Artifacts: A-3144.1
 Mentions: N-3
-Related Nodes: N-11218
+Related Nodes: N-11134
 Tags: relevance:core
 Investigative Direction: Review the tip inbox for submissions about Timpanogos photographs and timeline.
 

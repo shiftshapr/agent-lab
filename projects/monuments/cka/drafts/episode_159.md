@@ -12,9 +12,9 @@
 - **Model Version**: grok-manual-extract-seq159
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-11095
+  - Tip-minted Nodes (supplement_2026-10): N-11013
   - Claim Range: C-13722–C-13828
-  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-190, N-271, N-217, N-437, N-266, N-7, N-496, N-270, N-535, N-377, N-159, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-131, N-150, N-160, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-283, N-364, N-378, N-419, N-433, N-493, N-529, N-568, N-665, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-152, N-10872, N-10873, N-11094, N-11093
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-190, N-271, N-217, N-437, N-266, N-7, N-496, N-270, N-535, N-377, N-159, N-10016, N-10053, N-10303, N-10361, N-10762, N-10780, N-10781, N-10784, N-10785, N-10787, N-10789, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-131, N-150, N-160, N-10791, N-10792, N-16, N-47, N-48, N-89, N-95, N-99, N-283, N-364, N-378, N-419, N-433, N-493, N-529, N-568, N-665, N-10002, N-10012, N-10018, N-10035, N-10067, N-10072, N-10127, N-10129, N-10186, N-10203, N-10239, N-10259, N-10325, N-10341, N-10385, N-10404, N-10412, N-10415, N-10478, N-10481, N-10494, N-10522, N-10606, N-10608, N-10610, N-10613, N-10719, N-10786, N-10788, N-10821, N-10846, N-10848, N-10994, N-10790, N-11010, N-152, N-10793, N-10794, N-11012, N-11011
   - Hole-minted Nodes (remap-ep159): N-127, N-151, N-158
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dillon stays N-277 and N-277. Karoline Leavitt stays N-280. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
@@ -307,7 +307,7 @@ Video Timestamp: 00:02:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as shown/read); Medium (leak provenance)
 
-*Related: C-13730, N-10869, N-2*
+*Related: C-13730, N-10790, N-2*
 
 ---
 
@@ -320,7 +320,7 @@ Video Timestamp: 00:15:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown); Medium (payment-total discrepancy interpretation)
 
-*Related: C-13749, N-10870, N-24*
+*Related: C-13749, N-10791, N-24*
 
 ---
 
@@ -333,7 +333,7 @@ Video Timestamp: 00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown)
 
-*Related: C-13755, N-10870, N-10863, N-10860, N-19*
+*Related: C-13755, N-10791, N-10784, N-10781, N-19*
 
 ---
 
@@ -346,7 +346,7 @@ Video Timestamp: 00:23:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (composite); High for individually sourced bullets as cited
 
-*Related: C-13760, C-13780, N-10871, N-10863, N-10868, N-10324, N-10033*
+*Related: C-13760, C-13780, N-10792, N-10784, N-10789, N-10303, N-10016*
 
 ---
 
@@ -359,7 +359,7 @@ Video Timestamp: 00:29:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (as attributed to NYT); verify against primary article/book
 
-*Related: C-13780, N-10871, N-10324, N-4, N-69, N-85, N-535, N-29*
+*Related: C-13780, N-10792, N-10303, N-4, N-69, N-85, N-535, N-29*
 
 ---
 
@@ -372,7 +372,7 @@ Video Timestamp: 00:47:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (transcript-as-read); Medium (full context beyond excerpt)
 
-*Related: C-13814, N-10872, N-22*
+*Related: C-13814, N-10793, N-22*
 
 ---
 
@@ -385,7 +385,7 @@ Video Timestamp: 00:51:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clips as aired); Low–Medium (daycare/building causal link–host speculation)
 
-*Related: C-13817, N-10873, N-40, N-2, N-25, N-26*
+*Related: C-13817, N-10794, N-40, N-2, N-25, N-26*
 
 ---
 
@@ -398,7 +398,7 @@ Video Timestamp: 01:00:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (comments as read); Medium (Telegram dual-account allegation)
 
-*Related: C-13822, C-13825, N-10869, N-190, N-10056, N-10864, N-18*
+*Related: C-13822, C-13825, N-10790, N-190, N-10053, N-10785, N-18*
 
 ---
 
@@ -521,7 +521,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13755, C-13760, C-13780, A-2468.1, N-10871*
+*Related: C-13755, C-13760, C-13780, A-2468.1, N-10792*
 
 ---
 
@@ -533,7 +533,17 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13730, C-13822, A-2466.1, N-10869*
+*Related: C-13730, C-13822, A-2466.1, N-10790*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-13726*
 
 ---
 
@@ -545,7 +555,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, N-10868, N-10871*
+*Related: C-13760, N-10789, N-10792*
 
 ---
 
@@ -557,7 +567,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13780, N-10324, N-10871*
+*Related: C-13780, N-10303, N-10792*
 
 ---
 
@@ -581,7 +591,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, N-10033, N-10863*
+*Related: C-13760, N-10016, N-10784*
 
 ---
 
@@ -593,7 +603,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: N-10868, N-10871*
+*Related: N-10789, N-10792*
 
 ---
 
@@ -605,7 +615,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13817, N-10873, A-2472.1*
+*Related: C-13817, N-10794, A-2472.1*
 
 ---
 
@@ -617,7 +627,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, N-10033*
+*Related: C-13760, N-10016*
 
 ---
 
@@ -629,7 +639,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, C-13780, N-10871*
+*Related: C-13760, C-13780, N-10792*
 
 ---
 
@@ -641,7 +651,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13780, A-2470.1, N-10871*
+*Related: C-13780, A-2470.1, N-10792*
 
 ---
 
@@ -676,7 +686,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13755, C-13760, N-10870*
+*Related: C-13755, C-13760, N-10791*
 
 ---
 
@@ -724,7 +734,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, N-10839, N-270*
+*Related: C-13760, N-10762, N-270*
 
 ---
 
@@ -760,7 +770,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, N-10839*
+*Related: C-13760, N-10762*
 
 ---
 
@@ -772,7 +782,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, N-10871*
+*Related: C-13760, N-10792*
 
 ---
 
@@ -836,19 +846,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10033** Hamptons Donor Pressure Investigation
-
-Advanced with BB call confirmation, influencer weekend, and Charlie’s Megyn Kelly frustration clip.
-
-Evidence Count: (series-level)
-Claim Count: (series-level)
-Episode Count: (series-level)
-
-*Related: C-13760, N-36, N-10863*
-
----
-
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Reused for Erika’s post-death silence vs prior private criticism and Charlie’s documented shift.
 
@@ -860,7 +858,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Advanced via repeated situation-room meetings and host return-to-series commitment.
 
@@ -868,11 +866,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13780, N-9, N-10871*
+*Related: C-13780, N-9, N-10792*
 
 ---
 
-**N-10388** Missing Money from Turning Point Action
+**N-10361** Missing Money from Turning Point Action
 
 Background for host’s sniff-test that Charlie’s late DOGE / missing-money concerns intersect shady sponsor patterns.
 
@@ -880,11 +878,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13749, N-10870*
+*Related: C-13749, N-10791*
 
 ---
 
-**N-10839** Independent Review of UVU Security Failures
+**N-10762** Independent Review of UVU Security Failures
 
 Timeline recap of MEAC insistence, Flood contact, and employee disgust unlocking leaks.
 
@@ -892,11 +890,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, N-10859*
+*Related: C-13760, N-10780*
 
 ---
 
-**N-10859** TPUSA Non-Participation in UVU Independent Review
+**N-10780** TPUSA Non-Participation in UVU Independent Review
 
 Reused as catalyst for employee disgust / document leaks.
 
@@ -904,11 +902,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13749, N-10839*
+*Related: C-13749, N-10762*
 
 ---
 
-**N-10860** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
+**N-10781** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
 Reused inside expanded concurrent timeline.
 
@@ -916,11 +914,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, N-10871, N-10*
+*Related: C-13760, N-10792, N-10*
 
 ---
 
-**N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
+**N-10784** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
 
 Parent frame extended by Yrefy addendum and Epstein situation-room overlays.
 
@@ -928,11 +926,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13755, C-13760, N-10870, N-10871*
+*Related: C-13755, C-13760, N-10791, N-10792*
 
 ---
 
-**N-10864** Vanity Fair Erika Kirk Profile (Clara Molot)
+**N-10785** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 Opening callback / vindication frame.
 
@@ -944,7 +942,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10866** Night-of Assassination Aloe Yoga Outfit Directive
+**N-10787** Night-of Assassination Aloe Yoga Outfit Directive
 
 Comment-section callback via office-preservation vs McCoy optics.
 
@@ -956,7 +954,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10868** July 9 2025 Archive of Candace College YouTube Project
+**N-10789** July 9 2025 Archive of Candace College YouTube Project
 
 Reused in July timeline adjacent to Netanyahu visit and UVU ask.
 
@@ -964,11 +962,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13760, N-10871*
+*Related: C-13760, N-10792*
 
 ---
 
-**N-10869** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List
+**N-10790** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List
 
 New topic: leaked Erika Telegram traffic prioritizing wealthy attendees ahead of memorial-adjacent fundraising.
 
@@ -981,7 +979,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
+**N-10791** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Erickson); Daily Mail sanctions coverage; UVU presence of Laine Schoneberger.
 
@@ -990,11 +988,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-13749, C-13755, A-2467.1, A-2468.1, N-10388, N-10863, N-19*
+*Related: C-13749, C-13755, A-2467.1, A-2468.1, N-10361, N-10784, N-19*
 
 ---
 
-**N-10871** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
+**N-10792** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
 
 New topic: integrated chronology arguing Epstein-file panic, donor warfare, Macron pressure, and UVU booking are non-coincidental.
 
@@ -1003,11 +1001,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-13760, C-13780, A-2469.1, A-2470.1, N-10324, N-10863*
+*Related: C-13760, C-13780, A-2469.1, A-2470.1, N-10303, N-10784*
 
 ---
 
-**N-10872** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
+**N-10793** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
 
 New topic: federal case against autistic Brian Cole Jr.; interrogation coercion narrative; host “patsy” framing.
 
@@ -1020,7 +1018,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10873** Scripps Media Bodycam Pattern (Robinson + Cole)
+**N-10794** Scripps Media Bodycam Pattern (Robinson + Cole)
 
 New topic: same Scripps investigative pair releasing obscure prior bodycam of both Tyler Robinson and Brian Cole Jr.; host adds Erika daycare-in-Scripps-building note as speculative link.
 
@@ -1204,7 +1202,7 @@ Former US senator. Host recalls his BCG advisory tie to Benjamin Netanyahu in th
 
 ---
 
-**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
+**N-11010** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
 
 Node Type: Topic
 Conflict between board member Doug DeGroote's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.
@@ -1213,25 +1211,25 @@ Conflict between board member Doug DeGroote's account that journalist pressure f
 
 ---
 
-**N-11093** Utah Back-to-Back Tour Stops Anomaly
+**N-11011** Utah Back-to-Back Tour Stops Anomaly
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's observation that two UVU-area Utah stops were scheduled about 10 days apart against TPUSA's usual corridor routing, and the tip tying the routing to financial pressure.
 
 *Related: C-13733, C-13734*
 
 ---
 
-**N-11094** Kash Patel August 17 Omaha Trip FOIA Response
+**N-11012** Kash Patel August 17 Omaha Trip FOIA Response
 
-Node Type: Topic
+Node Type: Thing
 The host's FOIA request about Kash Patel's August 17, 2025 trip to Omaha while Egyptian planes were in Lincoln and Omaha, answered with neither confirm nor deny.
 
 *Related: C-13803*
 
 ---
 
-**N-11076** Lake Forest Group
+**N-10994** Lake Forest Group
 
 Node Type: Organization
 Firm the host thanks alongside the UVU independent review; its exact role is not described on air.
@@ -1240,7 +1238,7 @@ Firm the host thanks alongside the UVU independent review; its exact role is not
 
 ---
 
-**N-11095** Host Epstein Episodes versus Situation-Room Meetings Pattern
+**N-11013** Host Epstein Episodes versus Situation-Room Meetings Pattern
 
 Node Type: Topic
 The host's claim that each of her July-August 2025 Epstein episodes was followed the next day by a White House Epstein meeting.
@@ -1369,7 +1367,7 @@ Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Kad
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Topic for the memorial, merchandise sales and microphone display.
 
@@ -1401,7 +1399,7 @@ Topic for the alleged Netanyahu call and invitation.
 
 ---
 
-**N-10036** Building Donor Withdrawal Investigation
+**N-10035** Building Donor Withdrawal Investigation
 
 Topic for donor withdrawals after SAS.
 
@@ -1409,7 +1407,7 @@ Topic for donor withdrawals after SAS.
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Publisher of the Yrefy article read on air.
 
@@ -1417,7 +1415,7 @@ Publisher of the Yrefy article read on air.
 
 ---
 
-**N-10075** White House
+**N-10072** White House
 
 Place referenced for the February 24 Macron visit and June 18-19 meetings.
 
@@ -1425,7 +1423,7 @@ Place referenced for the February 24 Macron visit and June 18-19 meetings.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Topic for the DOGE audit.
 
@@ -1433,7 +1431,7 @@ Topic for the DOGE audit.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 Topic for the August 2025 retreat.
 
@@ -1441,7 +1439,7 @@ Topic for the August 2025 retreat.
 
 ---
 
-**N-10194** TPUSA Succession Plan Disclosure Timeline
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 Topic for when and how Erika's succession was disclosed.
 
@@ -1449,7 +1447,7 @@ Topic for when and how Erika's succession was disclosed.
 
 ---
 
-**N-10211** Lincoln, Nebraska TPUSA Chapter Origin Question
+**N-10203** Lincoln, Nebraska TPUSA Chapter Origin Question
 
 Topic for the University of Nebraska-Lincoln chapter.
 
@@ -1457,7 +1455,7 @@ Topic for the University of Nebraska-Lincoln chapter.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Topic for the Egyptian aircraft movements in the timeline.
 
@@ -1465,7 +1463,7 @@ Topic for the Egyptian aircraft movements in the timeline.
 
 ---
 
-**N-10276** Nebraska–Egypt Trade Mission / BTT Plane Overlap
+**N-10259** Nebraska–Egypt Trade Mission / BTT Plane Overlap
 
 Topic for the Nebraska overlap with the Egyptian plane.
 
@@ -1473,7 +1471,7 @@ Topic for the Nebraska overlap with the Egyptian plane.
 
 ---
 
-**N-10347** Egyptian Planes Israel Flight Pattern
+**N-10325** Egyptian Planes Israel Flight Pattern
 
 Topic for the Egyptian plane route pattern.
 
@@ -1481,7 +1479,7 @@ Topic for the Egyptian plane route pattern.
 
 ---
 
-**N-10366** Operation Valhalla Strike
+**N-10341** Operation Valhalla Strike
 
 Topic for the August 24 strike exercise named by the host.
 
@@ -1489,7 +1487,7 @@ Topic for the August 24 strike exercise named by the host.
 
 ---
 
-**N-10412** Erika Kirk June 19 Instagram Purge
+**N-10385** Erika Kirk June 19 Instagram Purge
 
 Topic for the 126 deleted posts.
 
@@ -1497,7 +1495,7 @@ Topic for the 126 deleted posts.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Topic for the DOGE set up seven days before the assassination.
 
@@ -1505,7 +1503,7 @@ Topic for the DOGE set up seven days before the assassination.
 
 ---
 
-**N-10443** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
+**N-10412** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
 
 Topic for leadership conduct after the assassination.
 
@@ -1513,7 +1511,7 @@ Topic for leadership conduct after the assassination.
 
 ---
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Topic for the Netanyahu offer during the Hamptons weekend.
 
@@ -1521,7 +1519,7 @@ Topic for the Netanyahu offer during the Hamptons weekend.
 
 ---
 
-**N-10519** Erika Kirk Next Model Management Involvement
+**N-10478** Next Model Management / Erika Kirk Connection
 
 Topic for Erika's alleged control of modeling-linked entities.
 
@@ -1529,7 +1527,7 @@ Topic for Erika's alleged control of modeling-linked entities.
 
 ---
 
-**N-10524** Faith Kates – Epstein Relationship Scope
+**N-10481** Faith Kates – Epstein Relationship Scope
 
 Topic linking Faith Kates to the Epstein network.
 
@@ -1537,7 +1535,7 @@ Topic linking Faith Kates to the Epstein network.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Topic for Charlie's lobbying against involvement.
 
@@ -1545,7 +1543,7 @@ Topic for Charlie's lobbying against involvement.
 
 ---
 
-**N-10571** July 14, 2025 Long Beach Flight
+**N-10522** July 14, 2025 Long Beach Flight
 
 Topic for Erika's private flight to Long Beach.
 
@@ -1553,7 +1551,7 @@ Topic for Erika's private flight to Long Beach.
 
 ---
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Topic for the Aspen succession statement.
 
@@ -1561,7 +1559,7 @@ Topic for the Aspen succession statement.
 
 ---
 
-**N-10668** Boston Consulting Group Government Pipeline
+**N-10608** Boston Consulting Group Government Pipeline
 
 Topic for BCG's government roles.
 
@@ -1569,7 +1567,7 @@ Topic for BCG's government roles.
 
 ---
 
-**N-10670** Gaza Humanitarian Foundation Leadership/Operational Pipeline
+**N-10610** Gaza Humanitarian Foundation Leadership/Operational Pipeline
 
 Topic for the Gaza Humanitarian Foundation.
 
@@ -1577,7 +1575,7 @@ Topic for the Gaza Humanitarian Foundation.
 
 ---
 
-**N-10674** June 18 White House Meeting on Iran Involvement
+**N-10613** June 18 White House Meeting on Iran Involvement
 
 Topic for Charlie's White House visit.
 
@@ -1585,7 +1583,7 @@ Topic for Charlie's White House visit.
 
 ---
 
-**N-10795** Wilson's Promised Release of "Never-Before-Seen Messages"
+**N-10719** Wilson's Promised Release of "Never-Before-Seen Messages"
 
 Topic for the Andrew Wilson message leak.
 
@@ -1593,7 +1591,7 @@ Topic for the Andrew Wilson message leak.
 
 ---
 
-**N-10865** Erika Heaven-Focused Political Non-Answers / CEO Fitness
+**N-10786** Erika Heaven-Focused Political Non-Answers / CEO Fitness
 
 Topic for Erika's heaven-focus quotes.
 
@@ -1601,7 +1599,7 @@ Topic for Erika's heaven-focus quotes.
 
 ---
 
-**N-10867** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)
+**N-10788** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)
 
 Topic for the smears against the host.
 
@@ -1609,7 +1607,7 @@ Topic for the smears against the host.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Organization behind the Cabot Phillips request.
 
@@ -1617,7 +1615,7 @@ Organization behind the Cabot Phillips request.
 
 ---
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 Organization named in the missing-money claim.
 
@@ -1625,7 +1623,7 @@ Organization named in the missing-money claim.
 
 ---
 
-**N-10927** Sergio Gor White House Exit and India Ambassadorship
+**N-10848** Sergio Gor White House Exit and India Ambassadorship
 
 Topic for Gor's move to India.
 
@@ -1644,7 +1642,7 @@ Claim: The host says leaked Telegram messages show Erika asking who the big hitt
 Anchored Artifacts: A-2466.1
 Mentions: N-2
 
-Related Nodes: N-10869
+Related Nodes: N-10790
 
 Investigative Direction: Preserve message screenshots with metadata if available; identify Telegram group membership without minting Persons; confirm event date.
 
@@ -1659,7 +1657,7 @@ Claim: Host displays a February 2025 contract under which Yrefy pays TPUSA ~$2.2
 Anchored Artifacts: A-2467.1
 Mentions: N-19, N-20, N-21, N-23, N-24
 
-Related Nodes: N-10388, N-10870
+Related Nodes: N-10361, N-10791
 
 Investigative Direction: Hash/store contract PDFs; verify signatories and whether theater construction completed; note conflict-of-interest allegations as unproven.
 
@@ -1674,7 +1672,7 @@ Claim: Despite the February master deal already covering the year, a July 25 add
 Anchored Artifacts: A-2468.1, A-2467.1
 Mentions: N-19, N-98
 
-Related Nodes: N-10860, N-10863, N-10870
+Related Nodes: N-10781, N-10784, N-10791
 
 Investigative Direction: Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Yrefy picked UVU.
 
@@ -1689,7 +1687,7 @@ Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram pu
 Anchored Artifacts: A-2469.1
 Mentions: N-82, N-377, N-36, N-28, N-1
 
-Related Nodes: N-10033, N-10860, N-10863, N-10868, N-10871
+Related Nodes: N-10016, N-10781, N-10784, N-10789, N-10792
 
 Investigative Direction: Source each bullet to primary docs; mark inference edges explicitly; do not treat composite as single proven conspiracy.
 
@@ -1704,7 +1702,7 @@ Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, hos
 Anchored Artifacts: A-2470.1
 Mentions: N-4, N-9, N-29, N-69, N-85, N-127, N-131, N-150, N-151, N-152, N-158, N-160, N-535, N-280, N-5, N-3, N-1
 
-Related Nodes: N-10324, N-10871
+Related Nodes: N-10303, N-10792
 
 Investigative Direction: Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only.
 
@@ -1719,7 +1717,7 @@ Claim: Per the account of Brian Cole Jr.'s interrogation that the host reads, ag
 Anchored Artifacts: A-2471.1
 Mentions: N-25, N-22
 
-Related Nodes: N-10872
+Related Nodes: N-10793
 
 Investigative Direction: Obtain full interrogation recordings/transcripts and defense filings; avoid minting Cole as Person until register policy allows.
 
@@ -1734,7 +1732,7 @@ Claim: The host plays Scripps News clips in which the same correspondent, Lori J
 Anchored Artifacts: A-2472.1
 Mentions: N-2, N-25, N-26, N-40
 
-Related Nodes: N-10873
+Related Nodes: N-10794
 
 ---
 
@@ -1744,7 +1742,7 @@ Claim Timestamp: 01:00:00
 Claim: A viewer comment the host reads says loyalty to Erika depends on her loyalty to Charlie; the host agrees and argues that Erika's changed stance on Israel, her professed lack of opinion, and letting people who pressured Charlie back into the organization register as fake after she pushed Charlie to be more against Israel, and she questions Erika teaming up with Andrew Wilson to share text messages.
 Anchored Artifacts: A-2473.1
 Mentions: N-1, N-2, N-18
-Related Nodes: N-10056, N-10864
+Related Nodes: N-10053, N-10785
 Investigative Direction: Continue pairing Vanity Fair private-criticism quotes with post-death public record; document Wilson leak channel without minting.
 
 ---
@@ -1755,7 +1753,7 @@ Claim Timestamp: 01:03:21
 Claim: Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kolvet/friendly media.
 Anchored Artifacts: A-2473.1, A-2466.1
 Mentions: N-1, N-2, N-14, N-18
-Related Nodes: N-10869
+Related Nodes: N-10790
 Investigative Direction: Forensic Telegram export if ever obtained; until then keep as sourced allegation.
 
 ---
@@ -1770,7 +1768,7 @@ Transcript Snippet: we received contracts that Turning Point USA signed as well 
 
 Anchored Artifacts: A-2467.1, A-2468.1
 Mentions: N-1, N-3
-Related Nodes: N-10863, N-10870
+Related Nodes: N-10784, N-10791
 Investigative Direction: Establish how and from whom the contracts were obtained; obtain the TPUSA fall 2025 tour booking timeline and compare it with prior tour cycles.
 
 ---
@@ -1785,7 +1783,7 @@ Transcript Snippet: it was confirmed by Vanity Fair that yes, Erika assumed her 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10864, N-10194
+Related Nodes: N-10785, N-10186
 Investigative Direction: Pull the Vanity Fair profile passage and TPUSA board records or statements fixing the date Erika was named CEO and chairman.
 
 ---
@@ -1800,7 +1798,7 @@ Transcript Snippet: according to Doug Degroot, the journalists were just pressur
 
 Anchored Artifacts: A-2809.1
 Mentions: N-496, N-2
-Related Nodes: N-11092, N-10194
+Related Nodes: N-11010, N-10186
 Investigative Direction: Obtain DeGroote's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.
 
 ---
@@ -1815,7 +1813,7 @@ Transcript Snippet: I fact checked that with the person who was directly respons
 
 Anchored Artifacts: A-2809.1
 Mentions: N-496, N-3
-Related Nodes: N-11092
+Related Nodes: N-11010
 Contradicts: C-13724
 Investigative Direction: Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroote's account.
 
@@ -1831,7 +1829,7 @@ Transcript Snippet: Nobody imagined that she was announcing Turning Point 2.0, g
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10002, N-10443
+Related Nodes: N-10412, N-11361
 Investigative Direction: Identify attendees of the Zoom calls from September 2025 and obtain recordings, calendar invites or notes referring to Turning Point 2.0 and memorial merchandise revenue.
 
 ---
@@ -1846,7 +1844,7 @@ Transcript Snippet: they eventually made the terribly crash decision to encase C
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10869, N-10002
+Related Nodes: N-10790, N-10002
 Investigative Direction: Obtain event photos and programs from the Mar-a-Lago event and AmFest showing the encased microphone and identify who authorized displaying it.
 
 ---
@@ -1861,7 +1859,7 @@ Transcript Snippet: They allegedly raised $40 million at that event in part due 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10869
+Related Nodes: N-10790
 Investigative Direction: Check TPUSA or Turning Point Action donor disclosures and press reports for the amount raised at the event; identify the source of the $40 million figure.
 
 ---
@@ -1876,7 +1874,7 @@ Transcript Snippet: people at Turning Point USA are pretty disgusted um and feel
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10839, N-10859
+Related Nodes: N-10762, N-10780
 Investigative Direction: Compare statements TPUSA leadership made about the UVU event with the independent review's findings to identify which claims staff regard as untrue.
 
 ---
@@ -1891,7 +1889,7 @@ Transcript Snippet: her sharing the final moments of her children with Andrew Wi
 
 Anchored Artifacts: 
 Mentions: N-2, N-18
-Related Nodes: N-10795
+Related Nodes: N-10719
 Investigative Direction: Obtain the Wilson-released messages and determine who supplied them; the transcript wording of 'final moments of her children' may be an ASR error and should be checked against audio.
 
 ---
@@ -1906,7 +1904,7 @@ Transcript Snippet: I had received a tip from someone within the organization wh
 
 Anchored Artifacts: A-2809.2
 Mentions: N-3
-Related Nodes: N-10863
+Related Nodes: N-10784
 Investigative Direction: Establish the date of the tip (e.g. from host emails or prior episodes) and compare the tipster's description with the documented tour booking sequence.
 
 ---
@@ -1921,7 +1919,7 @@ Transcript Snippet: even Utah doing back-to-back Utah stops separated by 10 days
 
 Anchored Artifacts: A-2809.2
 Mentions: N-3
-Related Nodes: N-11093, N-10012
+Related Nodes: N-11011, N-10012
 Investigative Direction: List the fall 2025 tour stops and dates and compare Utah stop spacing and routing with earlier tour legs.
 
 ---
@@ -1936,7 +1934,7 @@ Transcript Snippet: Charlie had agreed to doing those stops because he was under
 
 Anchored Artifacts: A-2809.2
 Mentions: N-1
-Related Nodes: N-11093, N-10863
+Related Nodes: N-11011, N-10784
 Investigative Direction: Obtain TPUSA fall 2025 revenue plans or sponsor communications indicating a revenue gap and any link to the stop selection.
 
 ---
@@ -1951,7 +1949,7 @@ Transcript Snippet: when Bob Shillman pulled millions, and he wasn't the only on
 
 Anchored Artifacts: 
 Mentions: N-98, N-1
-Related Nodes: N-10036, N-10056
+Related Nodes: N-10035, N-10053
 Supports: C-2121
 Investigative Direction: Identify the donors, amounts and dates of withdrawn gifts through TPUSA or Turning Point Action filings and donor-side confirmation.
 
@@ -1967,7 +1965,7 @@ Transcript Snippet: A shifting stance that Turning Point USA still will not ackn
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10056, N-10864
+Related Nodes: N-10053, N-10785
 Investigative Direction: Compile TPUSA's public statements on Charlie's Israel position since September 2025 and compare with Vanity Fair's description.
 
 ---
@@ -1982,7 +1980,7 @@ Transcript Snippet: the company Yrefy came in with a ton a ton of extra money an
 
 Anchored Artifacts: A-2809.2, A-2468.1
 Mentions: 
-Related Nodes: N-10870
+Related Nodes: N-10791
 Supports: C-13735
 Investigative Direction: Compare the timing of Bob Shillman's withdrawal with the July 25, 2025 addendum payment schedule and wire records.
 
@@ -1998,7 +1996,7 @@ Transcript Snippet: while I still cannot demonstrate that why Rei hand selected 
 
 Anchored Artifacts: A-2809.2
 Mentions: N-3
-Related Nodes: N-10870, N-10012
+Related Nodes: N-10791, N-10012
 Investigative Direction: Seek the stop-selection correspondence between TPUSA events staff and Yrefy; the host herself classes this as unconfirmed.
 
 ---
@@ -2013,7 +2011,7 @@ Transcript Snippet: They came in as a massive sponsor for Turning Point USA in 2
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Obtain the 2024 TPUSA sponsor lists and Yrefy's first sponsorship agreement date.
 
 ---
@@ -2028,7 +2026,7 @@ Transcript Snippet: he was once an employee of Turning Point uh of Turning Point
 
 Anchored Artifacts: A-2809.4
 Mentions: N-20
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Obtain Erickson's contractor agreement with TPUSA and any Yrefy payroll or consulting records, and review the conflict-of-interest policy.
 
 ---
@@ -2043,7 +2041,7 @@ Transcript Snippet: Dylan also uh runs an influencer management company that the
 
 Anchored Artifacts: A-2809.4
 Mentions: N-20
-Related Nodes: N-10134, N-10016
+Related Nodes: N-10129, N-10016
 Investigative Direction: Identify the company, its principals and travel invoices for the August 2025 Hamptons weekend.
 
 ---
@@ -2058,7 +2056,7 @@ Transcript Snippet: Apparently, they have a lot of contracts, but they don't eve
 
 Anchored Artifacts: A-2809.4
 Mentions: N-3
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Compare executed contract totals with payments received in TPUSA ledgers; the host flags this as unconfirmed.
 
 ---
@@ -2073,7 +2071,7 @@ Transcript Snippet: Laine Schoneberger and his daughter and Dylan Erickson were 
 
 Anchored Artifacts: 
 Mentions: N-19, N-20, N-1
-Related Nodes: N-10012, N-10870
+Related Nodes: N-10012, N-10791
 Investigative Direction: Obtain flight and charter manifests for September 9-10, 2025 and UVU credential or guest lists for the sponsor group.
 
 ---
@@ -2088,7 +2086,7 @@ Transcript Snippet: shady student loan refinance company accused of paying Turni
 
 Anchored Artifacts: A-2810.1
 Mentions: 
-Related Nodes: N-10070, N-10870
+Related Nodes: N-10067, N-10791
 Investigative Direction: Retrieve the Daily Mail article and confirm date, byline and the supplied documents about speaking slots.
 
 ---
@@ -2103,7 +2101,7 @@ Transcript Snippet: the Daily Mail can reveal Ryi last year faced $750,000 in st
 
 Anchored Artifacts: A-2810.1
 Mentions: 
-Related Nodes: N-10070, N-10870
+Related Nodes: N-10067, N-10791
 Investigative Direction: Obtain the state regulator's consent order or settlement and verify amount, date and the no-admit clause.
 
 ---
@@ -2118,7 +2116,7 @@ Transcript Snippet: has put to bed potentially 2.1 million in regulatory woes th
 
 Anchored Artifacts: A-2810.1
 Mentions: N-19
-Related Nodes: N-10870, N-10070
+Related Nodes: N-10791, N-10067
 Investigative Direction: Check Massachusetts Securities Division records for the 2025 matter and reconcile the $2.1 million figure with the $750,000 sanction.
 
 ---
@@ -2133,7 +2131,7 @@ Transcript Snippet: Charlie noticed that money was missing at Turning Point USA.
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10388, N-10925
+Related Nodes: N-10361, N-10846
 Investigative Direction: Obtain Turning Point Action financial statements and any internal audit materials from 2025; identify the original sources of the missing-money claim.
 
 ---
@@ -2148,7 +2146,7 @@ Transcript Snippet: I don't believe that Charlie established a Doge for no reaso
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10434, N-10132
+Related Nodes: N-10404, N-10127
 Supports: C-2136, C-896
 Investigative Direction: Pull the September 2, 2025 internal memo announcing the DOGE audit and identify its stated purpose.
 
@@ -2164,7 +2162,7 @@ Transcript Snippet: the contract says explicitly that all previous contracts are
 
 Anchored Artifacts: A-2467.1
 Mentions: 
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Read the contract's entire-agreement clause and total the payment schedule to test the $2.25 million versus $2.47 million difference.
 
 ---
@@ -2179,7 +2177,7 @@ Transcript Snippet: You have the believer summit that ended up being cancelled, 
 
 Anchored Artifacts: A-2467.1
 Mentions: 
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Check TPUSA announcements for the cancelled Believer Summit and whether any Yrefy payment was tied to it.
 
 ---
@@ -2194,7 +2192,7 @@ Transcript Snippet: event appearances, they want her for the Winter Gayla, Ameri
 
 Anchored Artifacts: A-2467.1
 Mentions: N-24
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Compare Gaines's actual appearances and posts with the contract schedule; seek her engagement letter if any.
 
 ---
@@ -2209,7 +2207,7 @@ Transcript Snippet: These are their proposed influencers. May vary on availabili
 
 Anchored Artifacts: A-2467.1
 Mentions: N-99, N-24, N-89, N-95, N-847, N-887
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Check each named influencer's posts for Yrefy promotion and any disclosure of sponsorship.
 
 ---
@@ -2224,7 +2222,7 @@ Transcript Snippet: They get four hotel rooms, six seated tickets to the inaugur
 
 Anchored Artifacts: A-2467.1
 Mentions: 
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Verify the ticket and hotel allocations against inauguration-weekend event records.
 
 ---
@@ -2239,7 +2237,7 @@ Transcript Snippet: This contract, this agreement is going to be really just one
 
 Anchored Artifacts: A-2468.1
 Mentions: 
-Related Nodes: N-10870, N-10863
+Related Nodes: N-10791, N-10784
 Investigative Direction: Obtain the full addendum PDF and confirm signatories, execution date and page count.
 
 ---
@@ -2254,7 +2252,7 @@ Transcript Snippet: So, they're looking to do this for 12 events. That makes tha
 
 Anchored Artifacts: A-2468.1
 Mentions: 
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Cross-check the 12 events against the fall tour schedule and the deliverables TPUSA actually provided at each.
 
 ---
@@ -2269,7 +2267,7 @@ Transcript Snippet: There was no video opportunity of course at UVU and an email
 
 Anchored Artifacts: A-2468.1
 Mentions: N-19
-Related Nodes: N-10870, N-10012
+Related Nodes: N-10791, N-10012
 Investigative Direction: Compare the addendum deliverables with UVU stage logistics and the pre-show run of show.
 
 ---
@@ -2284,7 +2282,7 @@ Transcript Snippet: Also, people saying that they actually never actually get th
 
 Anchored Artifacts: A-2809.4
 Mentions: N-3
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Request evidence of payment (wires, invoices) for the Feb and July 2025 agreements.
 
 ---
@@ -2299,7 +2297,7 @@ Transcript Snippet: February 11th, we have that TPUSA reopens their shuttered ch
 
 Anchored Artifacts: A-2469.1
 Mentions: N-7
-Related Nodes: N-10211, N-10276
+Related Nodes: N-10203, N-10259
 Investigative Direction: Verify chapter reactivation and the Turek event date via university and TPUSA chapter records.
 
 ---
@@ -2314,7 +2312,7 @@ Transcript Snippet: February 24th, Charlie Kirk contacts Canace and says Emmanue
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-3, N-377, N-82
-Related Nodes: N-10075
+Related Nodes: N-10072
 Investigative Direction: Obtain the host's message or call records from February 24, 2025 and Macron's White House visit schedule.
 
 ---
@@ -2329,7 +2327,7 @@ Transcript Snippet: February 25th, Sergio Gor, one that Erika is going to see of
 
 Anchored Artifacts: A-2469.1
 Mentions: N-16, N-3, N-5, N-2, N-82
-Related Nodes: N-10927
+Related Nodes: N-10848
 Investigative Direction: Obtain the host's call log and any contemporaneous messages or witnesses; ask Gor's office to confirm or deny the call.
 
 ---
@@ -2359,7 +2357,7 @@ Transcript Snippet: So, Boston Consulting Group has got to get out of that in ea
 
 Anchored Artifacts: A-2469.1
 Mentions: 
-Related Nodes: N-10668, N-10670
+Related Nodes: N-10608, N-10610
 Investigative Direction: Check BCG and GHF statements, press reports and contract end dates for June 2025.
 
 ---
@@ -2374,7 +2372,7 @@ Transcript Snippet: On June 3, Johnnie Moore actually takes over the chair as ch
 
 Anchored Artifacts: A-2469.1
 Mentions: N-437
-Related Nodes: N-10670
+Related Nodes: N-10610
 Investigative Direction: Verify the appointment date through GHF announcements and press coverage.
 
 ---
@@ -2404,7 +2402,7 @@ Transcript Snippet: Charlie is one of the few voices in Trump's ear lobbying aga
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-5, N-36
-Related Nodes: N-10539
+Related Nodes: N-10494
 Investigative Direction: Seek White House visitor logs and reporting from June 13-19, 2025 on who lobbied for and against involvement.
 
 ---
@@ -2434,7 +2432,7 @@ Transcript Snippet: Charlie physically goes into the White House and ultimately 
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-5
-Related Nodes: N-10674, N-10539
+Related Nodes: N-10613, N-10494
 Investigative Direction: Pull White House visitor and schedule records for June 18-19, 2025.
 
 ---
@@ -2449,7 +2447,7 @@ Transcript Snippet: On June 19th, Erika purges her Instagram. She deletes 126 po
 
 Anchored Artifacts: A-2469.1
 Mentions: N-2
-Related Nodes: N-10412
+Related Nodes: N-10385
 Supports: C-5005
 Investigative Direction: Re-check the Social Blade or archive data for the June 19 deletions.
 
@@ -2480,7 +2478,7 @@ Transcript Snippet: Charlie tells him to go max on the Epstein stuff and the Zio
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-22, N-98, N-9
-Related Nodes: N-10036
+Related Nodes: N-10035
 Supports: C-2651, C-2121
 Investigative Direction: Obtain the SAS program and Tucker's remarks; identify donors who ended gifts after July 11, 2025.
 
@@ -2527,7 +2525,7 @@ Transcript Snippet: July 12th, according to the New York Times, President Trump 
 
 Anchored Artifacts: A-2469.1
 Mentions: N-5, N-1, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Investigative Direction: Pull the New York Times report and check whether it names its sources for the call.
 
 ---
@@ -2542,7 +2540,7 @@ Transcript Snippet: On July 14th, Charlie Kirk announces on his show that he's g
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Investigative Direction: Review the July 14, 2025 Charlie Kirk Show episode for the statement.
 
 ---
@@ -2557,7 +2555,7 @@ Transcript Snippet: Erika Kirk travels aboard a private flight to Long Beach, Ca
 
 Anchored Artifacts: A-2469.1
 Mentions: N-2, N-665
-Related Nodes: N-10571
+Related Nodes: N-10522
 Investigative Direction: Obtain the retreat program, flight records and any video of Erika's speech.
 
 ---
@@ -2572,7 +2570,7 @@ Transcript Snippet: The speech is pro-Israel, and it's about a call to arms desp
 
 Anchored Artifacts: A-2469.1
 Mentions: N-2, N-1
-Related Nodes: N-10571, N-10056
+Related Nodes: N-10522, N-10053
 Investigative Direction: Review the video or transcript of the Long Beach speech for its Israel content.
 
 ---
@@ -2587,7 +2585,7 @@ Transcript Snippet: So on July 9th on we start we premiere our Epstein series De
 
 Anchored Artifacts: A-2469.1
 Mentions: N-3, N-283, N-9
-Related Nodes: N-11095
+Related Nodes: N-11013
 Investigative Direction: Check the YouTube publish date of 'Dead Men Tell No Tales' to settle the July 9 versus July 16 discrepancy.
 
 ---
@@ -2602,7 +2600,7 @@ Transcript Snippet: He wasn't that smart, but he was good at blackmailing people
 
 Anchored Artifacts: A-2469.1
 Mentions: N-3, N-9
-Related Nodes: N-11095
+Related Nodes: N-11013
 Investigative Direction: Compare the episode's sourcing with the documented record on Epstein's rise and the Dalton school.
 
 ---
@@ -2617,7 +2615,7 @@ Transcript Snippet: On July 18th, there was a formal request for Turning Point U
 
 Anchored Artifacts: A-2469.1
 Mentions: 
-Related Nodes: N-10012, N-10839
+Related Nodes: N-10012, N-10762
 Investigative Direction: Verify the July 18 date in the UVU independent review's event-application timeline.
 
 ---
@@ -2632,7 +2630,7 @@ Transcript Snippet: July 20th, the Egyptian plane flew from Cairo through to Par
 
 Anchored Artifacts: A-2469.1
 Mentions: 
-Related Nodes: N-10253, N-10276, N-10347
+Related Nodes: N-10239, N-10259, N-10325
 Investigative Direction: Match the tail number's FlightAware or ADS-B history against the stated route and date.
 
 ---
@@ -2662,7 +2660,7 @@ Transcript Snippet: Every one of my episodes the very next day there's an Epstei
 
 Anchored Artifacts: A-2470.1
 Mentions: N-3, N-9
-Related Nodes: N-11095, N-10324
+Related Nodes: N-11013, N-10303
 Investigative Direction: Tabulate her episode publish dates against the meeting dates in the Haberman-Swan book and compare lags.
 
 ---
@@ -2677,7 +2675,7 @@ Transcript Snippet: this meeting coincided also with the House oversight meeting
 
 Anchored Artifacts: A-2470.1
 Mentions: N-9
-Related Nodes: N-10324, N-11095
+Related Nodes: N-10303, N-11013
 Investigative Direction: Check the House Oversight Committee vote record of July 23, 2025 and exactly what was subpoenaed.
 
 ---
@@ -2692,7 +2690,7 @@ Transcript Snippet: Robert Maxwell got into schools in America printing textbook
 
 Anchored Artifacts: A-2470.1
 Mentions: N-3, N-48, N-47
-Related Nodes: N-11095
+Related Nodes: N-11013
 Investigative Direction: Compare the episode's textbook-printing claim with Robert Maxwell biographies.
 
 ---
@@ -2707,7 +2705,7 @@ Transcript Snippet: On July 27th, we know that the Egyptian plane um then depart
 
 Anchored Artifacts: A-2469.1
 Mentions: 
-Related Nodes: N-10253, N-10347
+Related Nodes: N-10239, N-10325
 Investigative Direction: Verify the departure airport and date in ADS-B records; the host herself flags this as unverified.
 
 ---
@@ -2722,7 +2720,7 @@ Transcript Snippet: On August 3rd, Charlie and Erika land in Bedford, New York f
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-2
-Related Nodes: N-10134, N-10016
+Related Nodes: N-10129, N-10016
 Investigative Direction: Check flight-tracking records for Bedford (HPN or a nearby airport) for August 3, 2025.
 
 ---
@@ -2737,7 +2735,7 @@ Transcript Snippet: BB Netanyahu did in fact call Erika was present for this pho
 
 Anchored Artifacts: A-2469.1
 Mentions: N-36, N-2
-Related Nodes: N-10018, N-10446
+Related Nodes: N-10018, N-10415
 Supports: C-82
 Investigative Direction: Identify who confirmed the call and obtain the call time and participants.
 
@@ -2769,7 +2767,7 @@ Transcript Snippet: they were not a part of this meeting they were not a part of
 
 Anchored Artifacts: A-2469.1
 Mentions: N-36
-Related Nodes: N-10134, N-10016
+Related Nodes: N-10129, N-10016
 Investigative Direction: Compare attendee lists and day-by-day schedules for the Hamptons weekend.
 
 ---
@@ -2784,7 +2782,7 @@ Transcript Snippet: also on August 4th, a fake MySpace account is archived for m
 
 Anchored Artifacts: A-2469.1
 Mentions: N-3
-Related Nodes: N-10868, N-10867
+Related Nodes: N-10789, N-10788
 Investigative Direction: Check Wayback Machine capture dates for the MySpace profile and who requested archiving.
 
 ---
@@ -2799,7 +2797,7 @@ Transcript Snippet: August 6th, obviously Charlie goes on Megyn Kelly show where
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-46
-Related Nodes: N-10134, N-10033
+Related Nodes: N-10129, N-10016
 Investigative Direction: Review the August 6, 2025 Megyn Kelly Show episode.
 
 ---
@@ -2814,7 +2812,7 @@ Transcript Snippet: August 9th, a 2015 Candace Owens Flickr account is archived 
 
 Anchored Artifacts: A-2469.1
 Mentions: N-3
-Related Nodes: N-10868, N-10867
+Related Nodes: N-10789, N-10788
 Investigative Direction: Check Wayback Machine capture history for the Flickr account.
 
 ---
@@ -2829,7 +2827,7 @@ Transcript Snippet: Bill Clinton set out to find until he got blackmailed by BB 
 
 Anchored Artifacts: A-2469.1
 Mentions: N-3, N-36, N-419
-Related Nodes: N-11095
+Related Nodes: N-11013
 Investigative Direction: Check the episode's sources for the Mega mole story and the alleged Netanyahu-Clinton exchange.
 
 ---
@@ -2844,7 +2842,7 @@ Transcript Snippet: That meeting ran uh according to the book, approximately for
 
 Anchored Artifacts: A-2470.1
 Mentions: N-4, N-5, N-151, N-158
-Related Nodes: N-10324, N-11095
+Related Nodes: N-10303, N-11013
 Investigative Direction: Check the book passage for the meeting length and attendee methods.
 
 ---
@@ -2859,7 +2857,7 @@ Transcript Snippet: Kabat Phillips reaches out to Turning Point USA at UVU and a
 
 Anchored Artifacts: A-2469.1
 Mentions: N-364
-Related Nodes: N-10900, N-10012
+Related Nodes: N-10821, N-10012
 Investigative Direction: Check the UVU independent review and records for Phillips's request.
 
 ---
@@ -2889,7 +2887,7 @@ Transcript Snippet: We're told that that's when Charlie just appointed Erika to 
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-2
-Related Nodes: N-10194, N-10664
+Related Nodes: N-10186, N-10606
 Investigative Direction: Obtain the Aspen meeting attendee list and any recording or notes of the statement.
 
 ---
@@ -2904,7 +2902,7 @@ Transcript Snippet: We have our Egyptian planes that come in and they land into 
 
 Anchored Artifacts: A-2469.1
 Mentions: 
-Related Nodes: N-10253, N-10276
+Related Nodes: N-10239, N-10259
 Investigative Direction: Compare ADS-B arrival times and the airports against the host's description.
 
 ---
@@ -2919,7 +2917,7 @@ Transcript Snippet: Now, we filed an FOIA request wanting to know why he was in 
 
 Anchored Artifacts: A-2809.5
 Mentions: N-69
-Related Nodes: N-11094, N-10253
+Related Nodes: N-11012, N-10239
 Investigative Direction: Obtain the FOIA request number and response letter; check FBI Director travel disclosures for August 17, 2025.
 
 ---
@@ -2934,7 +2932,7 @@ Transcript Snippet: but UVU, we've now learned, says that they were not informed
 
 Anchored Artifacts: A-2469.1
 Mentions: N-266
-Related Nodes: N-10839
+Related Nodes: N-10762
 Supports: C-4238
 Investigative Direction: Compare Harpole's account with the independent review's timeline and UVU police records.
 
@@ -2950,7 +2948,7 @@ Transcript Snippet: Then operation Valhava strike began between civilians and th
 
 Anchored Artifacts: A-2469.1
 Mentions: 
-Related Nodes: N-10366
+Related Nodes: N-10341
 Investigative Direction: Identify the exercise, its dates and participants, and the source of the host's description.
 
 ---
@@ -2965,7 +2963,7 @@ Transcript Snippet: They are not the the the security of Turning Point USA is no
 
 Anchored Artifacts: A-2469.1
 Mentions: N-271
-Related Nodes: N-10839, N-10859
+Related Nodes: N-10762, N-10780
 Investigative Direction: Verify the August 25 meeting entry and Long's contact request in the independent review.
 
 ---
@@ -2980,7 +2978,7 @@ Transcript Snippet: September 2nd is the first time that this upcoming event tha
 
 Anchored Artifacts: A-2469.1
 Mentions: N-271, N-270, N-1
-Related Nodes: N-10839, N-10860
+Related Nodes: N-10762, N-10781
 Investigative Direction: Verify the September 2-3 entries in the independent review against the July 10 and July 18 requests, which she treats as earlier.
 
 ---
@@ -3025,7 +3023,7 @@ Transcript Snippet: we asked Turning Point USA explicitly why we have people tha
 
 Anchored Artifacts: 
 Mentions: N-2, N-529
-Related Nodes: N-10519, N-10524
+Related Nodes: N-10478, N-10481
 Investigative Direction: Establish the company's corporate records and any role of Erika Kirk; identify the former staff and request TPUSA's response.
 
 ---
@@ -3040,7 +3038,7 @@ Transcript Snippet: submitting my college final which I did on the Aderal epidem
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10868, N-10867
+Related Nodes: N-10789, N-10788
 Investigative Direction: View the archived college video and compare its subject with the host's description.
 
 ---
@@ -3055,7 +3053,7 @@ Transcript Snippet: And suddenly Kash Patel and Dan Bongino, they found the guy 
 
 Anchored Artifacts: 
 Mentions: N-69, N-378, N-25
-Related Nodes: N-10872
+Related Nodes: N-10793
 Investigative Direction: Check the DOJ complaint and FBI announcement for arrest date and charges, and defense filings regarding autism.
 
 ---
@@ -3070,7 +3068,7 @@ Transcript Snippet: everyone on Capitol Hill knows that the individual was actua
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10872
+Related Nodes: N-10793
 Investigative Direction: Seek corroboration from named Capitol Police or congressional staff sources; the host provides no documents and hedges with 'allegedly'.
 
 ---
@@ -3085,7 +3083,7 @@ Transcript Snippet: And they descended upon his home, by the way, back in Decemb
 
 Anchored Artifacts: 
 Mentions: N-25
-Related Nodes: N-10872
+Related Nodes: N-10793
 Investigative Direction: Check the arrest affidavit and press reports for the arrest date, location and employer.
 
 ---
@@ -3100,7 +3098,7 @@ Transcript Snippet: He has pleaded not guilty and yet despite that has been deni
 
 Anchored Artifacts: 
 Mentions: N-25
-Related Nodes: N-10872
+Related Nodes: N-10793
 Investigative Direction: Check the docket for the plea and detention hearing.
 
 ---
@@ -3115,7 +3113,7 @@ Transcript Snippet: Cole was driving the blue Nissan Sentra when he rearended th
 
 Anchored Artifacts: A-2811.1, A-2472.1
 Mentions: N-25
-Related Nodes: N-10873
+Related Nodes: N-10794
 Investigative Direction: Obtain the Virginia police record of the 2024 crash and Scripps's records request showing how it was obtained.
 
 ---
@@ -3130,7 +3128,7 @@ Transcript Snippet: this week we obtained body camera footage from an accident h
 
 Anchored Artifacts: A-2811.2, A-2472.1
 Mentions: N-40, N-26
-Related Nodes: N-10873
+Related Nodes: N-10794
 Investigative Direction: Obtain the Scripps records request and the department's response, and compare the processes used for the Robinson and Cole requests.
 
 ---
@@ -3145,7 +3143,7 @@ Transcript Snippet: the building was built in 1990 and Erika was attending dayca
 
 Anchored Artifacts: A-2809.3, A-2812.1
 Mentions: N-2
-Related Nodes: N-10873
+Related Nodes: N-10794
 Investigative Direction: Verify the daycare record, building construction date and the address 312 Walnut Street.
 
 ---
@@ -3160,7 +3158,7 @@ Transcript Snippet: we found no evidence that her parents worked in this corpora
 
 Anchored Artifacts: A-2812.1
 Mentions: N-2
-Related Nodes: N-10873
+Related Nodes: N-10794
 Investigative Direction: Check employment history for Erika's parents against tenants of the building in 1991.
 
 ---
@@ -3175,7 +3173,7 @@ Transcript Snippet: All I do is I asked myself, will this bring me closer to hea
 
 Anchored Artifacts: A-2473.1
 Mentions: N-2
-Related Nodes: N-10865
+Related Nodes: N-10786
 Investigative Direction: Locate the original interview or post in which Erika made this statement.
 
 ---
@@ -3190,7 +3188,7 @@ Transcript Snippet: I don't have an opinion. I don't even think about BB Netanya
 
 Anchored Artifacts: A-2473.1
 Mentions: N-2, N-36
-Related Nodes: N-10056, N-10865
+Related Nodes: N-10053, N-10786
 Investigative Direction: Find Erika's public statements on Israel and Netanyahu since September 2025 and reconcile with the Vanity Fair quotes about her earlier views.
 
 ---
@@ -3205,7 +3203,7 @@ Transcript Snippet: You gave them four months of access.
 
 Anchored Artifacts: 
 Mentions: N-2, N-18
-Related Nodes: N-10864, N-10795
+Related Nodes: N-10785, N-10719
 Investigative Direction: Check the Vanity Fair article's description of access granted by Erika or TPUSA.
 
 ---
@@ -3220,7 +3218,7 @@ Transcript Snippet: thank you to that UVU Independent Review, Lake Forest Group,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10839, N-11076
+Related Nodes: N-10762, N-10994
 Investigative Direction: Confirm Lake Forest Group's role as author of the independent review and its engagement terms with UVU.
 
 ---
@@ -3235,7 +3233,7 @@ Transcript Snippet: I have a highly identifying mark and you can't make fake por
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10867
+Related Nodes: N-10788
 Investigative Direction: Identify the smear material the host refers to and any claim about its authenticity.
 
 ---

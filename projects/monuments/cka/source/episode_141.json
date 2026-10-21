@@ -18,8 +18,8 @@
     "- **Transcript SHA-256**: 4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10): N-747, N-11069",
-    "  - Hole-minted Nodes (reintro-ep141): N-10805",
+    "  - Tip-minted Nodes (supplement_2026-10): N-747, N-10987",
+    "  - Hole-minted Nodes (reintro-ep141): N-10729",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-12113–C-12208",
     "  - (see registers)",
@@ -47,8 +47,8 @@
     "**Episode 141 Ledger Summary**",
     "",
     "- Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283",
-    "  - New Nodes Introduced: N-10794, N-10795, N-10796",
-    "  - Reused Nodes Appearing: N-18, N-560, N-14, N-54, N-57, N-101, N-113, N-159, N-204, N-237, N-268, N-270, N-329, N-506, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067",
+    "  - New Nodes Introduced: N-10718, N-10719, N-10720",
+    "  - Reused Nodes Appearing: N-18, N-560, N-14, N-54, N-57, N-101, N-113, N-159, N-204, N-237, N-268, N-270, N-329, N-506, N-10000, N-10026, N-10086, N-10098, N-10272, N-10316, N-10354, N-10468, N-10541, N-10660, N-10730, N-10986, N-10984, N-10985",
     "- Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)",
     "",
     "---",
@@ -59,7 +59,7 @@
     "",
     "Secondary artifacts include post-debate social media reactions: an AI-generated \"Jars Wide Shut\" video by @whereforbidden (A-2278.1), a \"Stages of Debate Grief\" meme by @alpha_approved (A-2279.1), two Rachel Wilson X posts regarding in-ear monitors and case detail familiarity (A-2280.1, A-2280.2), a Steven Crowder–Andrew Wilson post-debate phone call regarding makeup and hair (A-2281.1), and a Poly Market chart showing Robinson conviction odds falling during the debate (A-2282.1).",
     "",
-    "The episode advances two open investigative threads: the September 9, 2025 message nature discrepancy (Wilson claiming Signal vs. Owens's prior documented iMessage claim) (N-10794), and Wilson's stated intent to release \"never-before-seen messages\" (N-10795). Pre-debate negotiation details, including anonymous \"Crucible team\" communications, Joe Rogan hosting offer, and contract clauses, are narrated by the host but are not artifact-anchored in this episode.",
+    "The episode advances two open investigative threads: the September 9, 2025 message nature discrepancy (Wilson claiming Signal vs. Owens's prior documented iMessage claim) (N-10718), and Wilson's stated intent to release \"never-before-seen messages\" (N-10719). Pre-debate negotiation details, including anonymous \"Crucible team\" communications, Joe Rogan hosting offer, and contract clauses, are narrated by the host but are not artifact-anchored in this episode.",
     "",
     "---",
     "",
@@ -117,7 +117,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-12139, C-12143, N-10794, N-10795*"
+     "raw": "*Related: C-12139, C-12143, N-10718, N-10719*"
     },
     {
      "raw": ""
@@ -277,7 +277,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-10795*"
+     "raw": "*Related: N-10719*"
     },
     {
      "raw": ""
@@ -739,7 +739,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-12171, N-10795, N-18*"
+     "raw": "*Related: C-12171, N-10719, N-18*"
     },
     {
      "raw": ""
@@ -1194,8 +1194,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10794",
-   "header": "**N-10794** September 9, 2025 Message Nature Discrepancy",
+   "id": "N-10718",
+   "header": "**N-10718** September 9, 2025 Message Nature Discrepancy",
    "label": "September 9, 2025 Message Nature Discrepancy",
    "lines": [
     {
@@ -1236,8 +1236,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10795",
-   "header": "**N-10795** Wilson's Promised Release of \"Never-Before-Seen Messages\"",
+   "id": "N-10719",
+   "header": "**N-10719** Wilson's Promised Release of \"Never-Before-Seen Messages\"",
    "label": "Wilson's Promised Release of \"Never-Before-Seen Messages\"",
    "lines": [
     {
@@ -1278,8 +1278,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10796",
-   "header": "**N-10796** Turning Point USA Organizational State (Post-Debate)",
+   "id": "N-10720",
+   "header": "**N-10720** Turning Point USA Organizational State (Post-Debate)",
    "label": "Turning Point USA Organizational State (Post-Debate)",
    "lines": [
     {
@@ -1939,8 +1939,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10090",
-   "header": "**N-10090** Screwdriver Evidence Question",
+   "id": "N-10086",
+   "header": "**N-10086** Screwdriver Evidence Question",
    "label": "Screwdriver Evidence Question",
    "lines": [
     {
@@ -1968,8 +1968,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10102",
-   "header": "**N-10102** Earpiece Rumor Debunking",
+   "id": "N-10098",
+   "header": "**N-10098** Earpiece Rumor Debunking",
    "label": "Earpiece Rumor Debunking",
    "lines": [
     {
@@ -1997,8 +1997,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10290",
-   "header": "**N-10290** French Foreign Legion US Training August 2025",
+   "id": "N-10272",
+   "header": "**N-10272** French Foreign Legion US Training August 2025",
    "label": "French Foreign Legion US Training August 2025",
    "lines": [
     {
@@ -2026,8 +2026,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10337",
-   "header": "**N-10337** Tyler Robinson Prosecution Evidence Base",
+   "id": "N-10316",
+   "header": "**N-10316** Tyler Robinson Prosecution Evidence Base",
    "label": "Tyler Robinson Prosecution Evidence Base",
    "lines": [
     {
@@ -2055,8 +2055,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10381",
-   "header": "**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
+   "id": "N-10354",
+   "header": "**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
    "label": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
    "lines": [
     {
@@ -2084,8 +2084,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10507",
-   "header": "**N-10507** Charlie Kirk Phone Access Question",
+   "id": "N-10468",
+   "header": "**N-10468** Charlie Kirk Phone Access Question",
    "label": "Charlie Kirk Phone Access Question",
    "lines": [
     {
@@ -2113,8 +2113,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10593",
-   "header": "**N-10593** Tyler Robinson Filing Timeline Discrepancy",
+   "id": "N-10541",
+   "header": "**N-10541** Tyler Robinson Filing Timeline Discrepancy",
    "label": "Tyler Robinson Filing Timeline Discrepancy",
    "lines": [
     {
@@ -2142,8 +2142,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10725",
-   "header": "**N-10725** Officer Bagley Body-Cam Battery Anomaly",
+   "id": "N-10660",
+   "header": "**N-10660** Officer Bagley Body-Cam Battery Anomaly",
    "label": "Officer Bagley Body-Cam Battery Anomaly",
    "lines": [
     {
@@ -2171,8 +2171,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10805",
-   "header": "**N-10805** Debate Israel Focus",
+   "id": "N-10729",
+   "header": "**N-10729** Debate Israel Focus",
    "label": "Debate Israel Focus",
    "lines": [
     {
@@ -2200,9 +2200,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10816",
-   "header": "**N-10816** Charlie Kirk September 9, 2025 Text Messages",
-   "label": "Charlie Kirk September 9, 2025 Text Messages",
+   "id": "N-10730",
+   "header": "**N-10730** Charlie Kirk Pre-Event Text Messages",
+   "label": "Charlie Kirk Pre-Event Text Messages",
    "lines": [
     {
      "raw": ""
@@ -2260,8 +2260,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11066",
-   "header": "**N-11066** Wilson Debate Crucible Team Anonymity",
+   "id": "N-10984",
+   "header": "**N-10984** Wilson Debate Crucible Team Anonymity",
    "label": "Wilson Debate Crucible Team Anonymity",
    "lines": [
     {
@@ -2293,8 +2293,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11067",
-   "header": "**N-11067** Wilson Debate Studio Access Dispute",
+   "id": "N-10985",
+   "header": "**N-10985** Wilson Debate Studio Access Dispute",
    "label": "Wilson Debate Studio Access Dispute",
    "lines": [
     {
@@ -2326,8 +2326,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11068",
-   "header": "**N-11068** Utah Rule 1102 Hearsay Standard",
+   "id": "N-10986",
+   "header": "**N-10986** Utah Rule 1102 Hearsay Standard",
    "label": "Utah Rule 1102 Hearsay Standard",
    "lines": [
     {
@@ -2359,8 +2359,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11069",
-   "header": "**N-11069** Host Debate Winnings Dispute",
+   "id": "N-10987",
+   "header": "**N-10987** Host Debate Winnings Dispute",
    "label": "Host Debate Winnings Dispute",
    "lines": [
     {
@@ -2433,7 +2433,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10794, N-10795"
+     "v": "N-10718, N-10719"
     },
     {
      "raw": ""
@@ -2866,7 +2866,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10795"
+     "v": "N-10719"
     },
     {
      "raw": ""
@@ -3018,14 +3018,14 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10794"
+     "v": "N-10718"
     },
     {
      "raw": ""
     },
     {
      "k": "Investigative Direction",
-     "v": "Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-10794)."
+     "v": "Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-10718)."
     },
     {
      "raw": ""
@@ -3078,7 +3078,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10796"
+     "v": "N-10000, N-10720"
     },
     {
      "k": "Supports",
@@ -3355,7 +3355,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11066"
+     "v": "N-10984"
     },
     {
      "k": "Investigative Direction",
@@ -3412,7 +3412,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11066"
+     "v": "N-10984"
     },
     {
      "k": "Investigative Direction",
@@ -3469,7 +3469,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11066"
+     "v": "N-10984"
     },
     {
      "k": "Investigative Direction",
@@ -3526,7 +3526,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11066"
+     "v": "N-10984"
     },
     {
      "k": "Investigative Direction",
@@ -3636,7 +3636,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11066"
+     "v": "N-10984"
     },
     {
      "k": "Investigative Direction",
@@ -3746,7 +3746,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11067"
+     "v": "N-10985"
     },
     {
      "k": "Investigative Direction",
@@ -3856,7 +3856,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11066"
+     "v": "N-10984"
     },
     {
      "k": "Investigative Direction",
@@ -3913,7 +3913,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11067"
+     "v": "N-10985"
     },
     {
      "k": "Investigative Direction",
@@ -3970,7 +3970,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11066, N-11067"
+     "v": "N-10984, N-10985"
     },
     {
      "k": "Investigative Direction",
@@ -4027,7 +4027,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11067"
+     "v": "N-10985"
     },
     {
      "k": "Investigative Direction",
@@ -4084,7 +4084,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11067"
+     "v": "N-10985"
     },
     {
      "k": "Investigative Direction",
@@ -4141,7 +4141,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11067"
+     "v": "N-10985"
     },
     {
      "k": "Investigative Direction",
@@ -4251,7 +4251,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11067"
+     "v": "N-10985"
     },
     {
      "k": "Investigative Direction",
@@ -4361,7 +4361,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10796"
+     "v": "N-10000, N-10720"
     },
     {
      "k": "Investigative Direction",
@@ -4418,7 +4418,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10795, N-10796"
+     "v": "N-10719, N-10720"
     },
     {
      "k": "Supports",
@@ -4479,7 +4479,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10794, N-10816"
+     "v": "N-10718, N-10730"
     },
     {
      "k": "Investigative Direction",
@@ -4536,7 +4536,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10794, N-10816"
+     "v": "N-10718, N-10730"
     },
     {
      "k": "Investigative Direction",
@@ -4593,7 +4593,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10507"
+     "v": "N-10468"
     },
     {
      "k": "Supports",
@@ -4711,7 +4711,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10794"
+     "v": "N-10718"
     },
     {
      "k": "Investigative Direction",
@@ -4768,7 +4768,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10794"
+     "v": "N-10718"
     },
     {
      "k": "Supports",
@@ -4829,7 +4829,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10794"
+     "v": "N-10718"
     },
     {
      "k": "Investigative Direction",
@@ -4886,7 +4886,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10795, N-10794"
+     "v": "N-10719, N-10718"
     },
     {
      "k": "Investigative Direction",
@@ -4943,7 +4943,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10796"
+     "v": "N-10720"
     },
     {
      "k": "Investigative Direction",
@@ -5053,7 +5053,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11068"
+     "v": "N-10986"
     },
     {
      "k": "Investigative Direction",
@@ -5110,7 +5110,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10290"
+     "v": "N-10272"
     },
     {
      "k": "Investigative Direction",
@@ -5444,7 +5444,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10090, N-10725"
+     "v": "N-10086, N-10660"
     },
     {
      "k": "Investigative Direction",
@@ -5501,7 +5501,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10725"
+     "v": "N-10660"
     },
     {
      "k": "Supports",
@@ -5668,7 +5668,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10796"
+     "v": "N-10720"
     },
     {
      "k": "Investigative Direction",
@@ -5941,7 +5941,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10593"
+     "v": "N-10541"
     },
     {
      "k": "Investigative Direction",
@@ -5998,7 +5998,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10593"
+     "v": "N-10541"
     },
     {
      "k": "Investigative Direction",
@@ -6108,7 +6108,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10593"
+     "v": "N-10541"
     },
     {
      "k": "Investigative Direction",
@@ -6165,7 +6165,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10381"
+     "v": "N-10354"
     },
     {
      "k": "Supports",
@@ -6226,7 +6226,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10381"
+     "v": "N-10354"
     },
     {
      "k": "Investigative Direction",
@@ -6283,7 +6283,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10381"
+     "v": "N-10354"
     },
     {
      "k": "Supports",
@@ -6344,7 +6344,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10337"
+     "v": "N-10316"
     },
     {
      "k": "Investigative Direction",
@@ -6401,7 +6401,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10381"
+     "v": "N-10354"
     },
     {
      "k": "Investigative Direction",
@@ -6621,7 +6621,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10102"
+     "v": "N-10098"
     },
     {
      "k": "Investigative Direction",
@@ -6678,7 +6678,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10102"
+     "v": "N-10098"
     },
     {
      "k": "Investigative Direction",
@@ -6788,7 +6788,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10102"
+     "v": "N-10098"
     },
     {
      "k": "Investigative Direction",
@@ -6902,7 +6902,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11069"
+     "v": "N-10987"
     },
     {
      "k": "Supports",
@@ -6963,7 +6963,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11069"
+     "v": "N-10987"
     },
     {
      "k": "Investigative Direction",
@@ -7183,7 +7183,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11069"
+     "v": "N-10987"
     },
     {
      "k": "Investigative Direction",
@@ -7411,7 +7411,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10795"
+     "v": "N-10719"
     },
     {
      "k": "Supports",
@@ -7578,7 +7578,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10805"
+     "v": "N-10729"
     },
     {
      "k": "Supports",
@@ -8550,8 +8550,8 @@
     "- [x] Every artifact has a Related line",
     "- [x] Every node has a Related line",
     "- [x] No episode-wide artifact bundle exists",
-    "- [x] People nodes use the global people ledger (starting at N-10141 for new entities)",
-    "- [x] Non-person investigation targets use the 1000 series (starting at N-10794)",
+    "- [x] People nodes use the global people ledger (starting at N-10136 for new entities)",
+    "- [x] Non-person investigation targets use the 1000 series (starting at N-10718)",
     "- [x] No speculative claims inscribed as evidence-backed claims",
     "- [x] Names preserved exactly as transcribed, with uncertainty flagged",
     "- [x] Formatting consistent throughout",

@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 4dbfcb2b5d8419ada71b8eeaa37232158deb146c1e17f4f75d308b3b4968a1d7
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-11400, N-11401
+  - Tip-minted Nodes (supplement_2026-10g): N-11316, N-11317
   - Tip-minted Nodes (reintro-ep110): N-665, N-753
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-9598–C-9705
-  - New Nodes Introduced: N-10668, N-10669
+  - New Nodes Introduced: N-10608, N-10609
   - Hole-minted Nodes (wave3): N-433, N-434, N-448
-  - Reused Nodes Appearing: N-28, N-10671, N-10675, N-10670, N-10672, N-10673, N-10674, N-9, N-17, N-22, N-37, N-46, N-55, N-57, N-58, N-59, N-190, N-266, N-278, N-279, N-305, N-361, N-590, N-10012, N-10027, N-10117, N-10122, N-10123, N-10220, N-10264, N-10276, N-10310, N-10334, N-10347, N-10367, N-10370, N-10373, N-10378, N-10456, N-10571, N-10575, N-10652, N-10653, N-10664, N-10722, N-10870, N-10901, N-10910, N-11079, N-11123, N-11324
+  - Reused Nodes Appearing: N-28, N-10611, N-10614, N-10610, N-10612, N-10129, N-10613, N-9, N-17, N-22, N-37, N-46, N-55, N-57, N-58, N-59, N-190, N-266, N-278, N-279, N-305, N-361, N-590, N-10012, N-10027, N-10113, N-10117, N-10118, N-10210, N-10248, N-10259, N-10292, N-10313, N-10325, N-10342, N-10305, N-10347, N-10351, N-10425, N-10522, N-10526, N-10594, N-10595, N-10606, N-10657, N-10791, N-10822, N-10831, N-10997, N-11041, N-11240
   - (see registers)
 
 ## I. Meta-Data
@@ -34,7 +34,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2076, A-2077, A-2078, A-2079, A-2080, A-2081, A-2082, A-2083, A-2084
   - New Nodes Introduced (people): N-14
-  - New Nodes Introduced (investigation targets): N-10668, N-10669, N-10670, N-10671, N-10672, N-10673, N-10674, N-10675
+  - New Nodes Introduced (investigation targets): N-10608, N-10609, N-10610, N-10611, N-10612, N-10613, N-10614
 
 ---
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:21:00–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-9622, C-9623, C-9635, C-9612, C-9613, C-9641, C-9642, C-9643, N-10668, N-10669, N-10670, N-28*
+*Related: C-9622, C-9623, C-9635, C-9612, C-9613, C-9641, C-9642, C-9643, N-10608, N-10609, N-10610, N-28*
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:25:40–00:36:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host-curated; no underlying documents shown for most entries)
 
-*Related: C-9621, C-9638, C-9670, C-9651, C-9663, C-9612, N-2, N-14, N-10671, N-10672, N-10673, N-10674, N-10675*
+*Related: C-9621, C-9638, C-9670, C-9651, C-9663, C-9612, N-2, N-14, N-10611, N-10612, N-10129, N-10613, N-10614*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:15:30–00:19:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (summarized on a third-party site by host; FT primary not directly shown)
 
-*Related: C-9626, C-9627, C-9628, C-9629, C-9630, C-9633, C-9634, N-10669, N-10670*
+*Related: C-9626, C-9627, C-9628, C-9629, C-9630, C-9633, C-9634, N-10609, N-10610*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:19:30–00:20:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-9638, C-9639, N-10670*
+*Related: C-9638, C-9639, N-10610*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:13:30–00:14:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (government source)
 
-*Related: C-9620, C-9621, C-9622, C-9624, C-9623, N-10668*
+*Related: C-9620, C-9621, C-9622, C-9624, C-9623, N-10608*
 
 ---
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:34:00–00:34:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (specific outlet not named on-air)
 
-*Related: C-9635, N-10671*
+*Related: C-9635, N-10611*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:33:10–00:33:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-10672*
+*Related: N-10612*
 
 ---
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:31:40–00:32:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host acknowledges no independent confirmation)
 
-*Related: C-9663, N-1, N-10675*
+*Related: C-9663, N-1, N-10614*
 
 ---
 
@@ -324,7 +324,7 @@ First named by the host at 00:37:13 in episode 110.
 
 
 
-**N-10668** Boston Consulting Group Government Pipeline
+**N-10608** Boston Consulting Group Government Pipeline
 
 Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansell, Romney, and (per host) Netanyahu; raises questions about consulting client identity ("who are they consulting for?").
 
@@ -337,7 +337,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10669** Project Aurora Verification
+**N-10609** Project Aurora Verification
 
 Persistent investigation target: BCG consulting contract with GHF; relocation models for Palestinians; total $2.5–5B; two dismissed partners; CEO statement.
 
@@ -350,7 +350,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10670** Gaza Humanitarian Foundation Leadership/Operational Pipeline
+**N-10610** Gaza Humanitarian Foundation Leadership/Operational Pipeline
 
 Persistent investigation target: BCG built the foundation's logistics; Johnnie Moore replaced Jake Wood as chairman after BCG withdrawal; foundation operates US/Israel-backed food distribution sites characterized by host as "killing fields"; Phil Reilly / Orbis / Tachlith Institute connection.
 
@@ -363,7 +363,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
+**N-10611** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 Persistent investigation target: identity of VIPs aboard Air Force SAM702 departing Fort Huachuca for El Paso on morning of September 9, 2025; host names Bradley Hansell; Palantir $10B stationing; Brian Harpole alleged presence.
 
@@ -376,7 +376,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10672** Egyptian Military Aircraft Shuttle Pattern
+**N-10612** Egyptian Military Aircraft Shuttle Pattern
 
 Persistent investigation target: recurring transponder-off patterns on Egyptian planes (e.g., SUBTU/SUBTV) shuttling from Cairo via Paris to US destinations, coinciding with Israeli military inflection points (October 7, 2023; Operation True Promise April 2024; June 2025 Provo appearance; Wilmington on assassination day).
 
@@ -389,7 +389,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10673** Hamptons August 5–7 Intervention Event
+**N-10129** Hamptons Weekend Retreat
 
 Persistent investigation target: per host, weekend intervention where Charlie Kirk was pressured regarding Israel; followed by Megyn Kelly podcast appearance where Kirk expressed upset about being called anti-Semitic.
 
@@ -402,7 +402,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10674** June 18 White House Meeting on Iran Involvement
+**N-10613** June 18 White House Meeting on Iran Involvement
 
 Persistent investigation target: per host (confirmed by Bret Weinstein), Charlie Kirk entered White House to argue against US involvement in Israel's Iran war against Zionist lobbyists; emerged as temporary winner; Trump moved to limit involvement.
 
@@ -415,7 +415,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10675** Turning Point UVU Event Submission Chain
+**N-10614** Turning Point UVU Event Submission Chain
 
 Persistent investigation target: July 18, 2025 TPUSA submission for Charlie Kirk UVU event; host asserts this is unusually late in the tour cycle and has not been independently confirmed; submitting student requestor unknown.
 
@@ -645,7 +645,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+**N-10113** Jezebel/Etsy Hex on Charlie Kirk
 
 Existing node reused in this episode.
 
@@ -653,7 +653,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10122** Jezebel
+**N-10117** Jezebel
 
 Existing node reused in this episode.
 
@@ -661,7 +661,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10123** Etsy
+**N-10118** Etsy
 
 Existing node reused in this episode.
 
@@ -669,7 +669,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10220** Rob McCoy Relocation and Timing Pattern
+**N-10210** Rob McCoy Relocation and Timing Pattern
 
 Existing node reused in this episode.
 
@@ -677,7 +677,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10264** Calvary Chapel Pro-Israel Coordination
+**N-10248** Calvary Chapel Pro-Israel Coordination
 
 Existing node reused in this episode.
 
@@ -685,7 +685,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10276** Nebraska–Egypt Trade Mission / BTT Plane Overlap
+**N-10259** Nebraska–Egypt Trade Mission / BTT Plane Overlap
 
 Existing node reused in this episode.
 
@@ -693,7 +693,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10310** SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard
+**N-10292** SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard
 
 Existing node reused in this episode.
 
@@ -701,7 +701,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10334** CBS Bari Weiss Town Hall Production Integrity
+**N-10313** CBS Bari Weiss Town Hall Production Integrity
 
 Existing node reused in this episode.
 
@@ -709,7 +709,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10347** Egyptian Planes Israel Flight Pattern
+**N-10325** Egyptian Planes Israel Flight Pattern
 
 Existing node reused in this episode.
 
@@ -717,7 +717,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Existing node reused in this episode.
 
@@ -725,7 +725,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10370** Fort Huachuca Morning Meeting Investigation
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Existing node reused in this episode.
 
@@ -733,7 +733,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Existing node reused in this episode.
 
@@ -741,7 +741,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
+**N-10351** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Existing node reused in this episode.
 
@@ -749,7 +749,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Existing node reused in this episode.
 
@@ -757,7 +757,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10571** July 14, 2025 Long Beach Flight
+**N-10522** July 14, 2025 Long Beach Flight
 
 Existing node reused in this episode.
 
@@ -765,7 +765,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10575** BYU Jerusalem CIA Recruitment Question
+**N-10526** BYU Jerusalem CIA Recruitment Question
 
 Existing node reused in this episode.
 
@@ -773,7 +773,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10652** Dhillon Law Group / Show Faith by Works Connection
+**N-10594** Dhillon Law Group / Show Faith by Works Connection
 
 Existing node reused in this episode.
 
@@ -781,7 +781,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10653** Turning Point Geofencing / Show Faith by Works Link
+**N-10595** Turning Point Geofencing / Show Faith by Works Link
 
 Existing node reused in this episode.
 
@@ -789,7 +789,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Existing node reused in this episode.
 
@@ -797,7 +797,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10722** Clock Tower X / Israeli Influence Operation
+**N-10657** Clock Tower X / Israeli Influence Operation
 
 Existing node reused in this episode.
 
@@ -805,7 +805,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
+**N-10791** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Existing node reused in this episode.
 
@@ -813,7 +813,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10901** Havas Media
+**N-10822** Havas Media
 
 Existing node reused in this episode.
 
@@ -821,7 +821,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10910** Dhillon Law Group
+**N-10831** Dhillon Law Group
 
 Existing node reused in this episode.
 
@@ -829,7 +829,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-11079** Operation Midnight Hammer
+**N-10997** Operation Midnight Hammer
 
 Existing node reused in this episode.
 
@@ -837,7 +837,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-11123** Northrop Grumman
+**N-11041** Northrop Grumman
 
 Existing node reused in this episode.
 
@@ -845,7 +845,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-11324** Raytheon
+**N-11240** Raytheon
 
 Existing node reused in this episode.
 
@@ -853,18 +853,18 @@ Existing node reused in this episode.
 
 ---
 
-**N-11400** Charlie Kirk Show Episode Removal Question
+**N-11316** Charlie Kirk Show Episode Removal Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's allegation that Turning Point removed episodes, tweets and Q&As from the Charlie Kirk Show beginning November 3, 2025, and that TPUSA denied it.
 
 *Related: C-9685, C-9686, C-9687, C-9688, C-9689, C-9690*
 
 ---
 
-**N-11401** Netanyahu 2025 American Podcast Tour
+**N-11317** Netanyahu 2025 American Podcast Tour
 
-Node Type: Topic
+Node Type: Event
 The host's account of Netanyahu's summer 2025 run of American podcast interviews in the run-up to the assassination, after Kirk refused to host him.
 
 *Related: C-9601, C-9602, C-9603, C-9604*
@@ -882,7 +882,7 @@ Claim: Per the Department of War website the host cites, Bradley Hansell exercis
 Anchored Artifacts: A-2079.1
 Mentions: N-433
 
-Related Nodes: N-10668
+Related Nodes: N-10608
 
 Investigative Direction: Verify the Department of War website listing for Bradley Hansell; cross-check Senate confirmation record and July 25, 2025 swearing-in.
 
@@ -927,7 +927,7 @@ Claim: Per host, Hansell was picked to work under Trump's first administration a
 Anchored Artifacts: A-2079.1
 Mentions: N-433
 
-Related Nodes: N-10668
+Related Nodes: N-10608
 
 Investigative Direction: Verify NSC roster for Trump's first term.
 
@@ -942,7 +942,7 @@ Claim: Per host, Hansell worked at the Boston Consulting Group both after his mi
 Anchored Artifacts: A-2076.1, A-2079.1
 Mentions: N-433
 
-Related Nodes: N-10668
+Related Nodes: N-10608
 
 Investigative Direction: Verify BCG alumni records and LinkedIn-style biographies.
 
@@ -956,7 +956,7 @@ Claim: Per the Financial Times reporting summarized on a website read by the hos
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-10669, N-10670
+Related Nodes: N-10609, N-10610
 
 Investigative Direction: Retrieve original Financial Times article and Project Aurora documents.
 
@@ -971,7 +971,7 @@ Transcript Snippet: Over 7 months, the project evolved into a fully build consul
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-10669
+Related Nodes: N-10609
 
 Investigative Direction: Confirm $4M figure against leaked internal documents referenced by Financial Times.
 
@@ -985,7 +985,7 @@ Claim: Per host reading, one Project Aurora model proposed $9,000 in cash per pe
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-10669
+Related Nodes: N-10609
 
 Investigative Direction: Verify model parameters against FT-published leaked documents.
 
@@ -999,7 +999,7 @@ Claim: Per host reading, a second Project Aurora model lowered direct payments t
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-10669
+Related Nodes: N-10609
 
 Investigative Direction: Verify model parameters against FT-published leaked documents.
 
@@ -1013,7 +1013,7 @@ Claim: Per host reading, total Project Aurora costs ranged from $2.5 to $5 billi
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-10669
+Related Nodes: N-10609
 
 Investigative Direction: Verify cost ranges against FT-published leaked documents.
 
@@ -1028,7 +1028,7 @@ Claim: Per host reading, BCG dismissed two partners and launched an external aud
 Anchored Artifacts: A-2077.1
 Mentions: 
 
-Related Nodes: N-10669
+Related Nodes: N-10609
 
 Investigative Direction: Confirm dismissals and audit via BCG press releases or FT follow-up reporting.
 
@@ -1043,7 +1043,7 @@ Claim: Per host reading, BCG CEO Christoph Schweizer described the Project Auror
 Anchored Artifacts: A-2077.1
 Mentions: N-434
 
-Related Nodes: N-10669
+Related Nodes: N-10609
 
 Investigative Direction: Locate Schweizer's original statement in Financial Times coverage.
 
@@ -1058,7 +1058,7 @@ Claim: Per Times of Israel article referenced by host, Johnnie Moore was appoint
 Anchored Artifacts: A-2076.2, A-2078.1
 Mentions: N-437
 
-Related Nodes: N-10670
+Related Nodes: N-10610
 
 Investigative Direction: Verify appointment date and tenure length (host states Moore "eventually abandoned the project November").
 
@@ -1073,7 +1073,7 @@ Claim: Per Times of Israel article referenced by host, GHF's previous CEO Jake W
 Anchored Artifacts: A-2078.1
 Mentions: 
 
-Related Nodes: N-10670
+Related Nodes: N-10610
 
 Investigative Direction: Verify Jake Wood's resignation date and public statement.
 
@@ -1088,7 +1088,7 @@ Claim: Per host, BCG helped develop the logistics, the organizational structure,
 Anchored Artifacts: A-2076.1, A-2077.1
 Mentions: 
 
-Related Nodes: N-10670
+Related Nodes: N-10610
 
 Investigative Direction: Verify BCG-GHF operational scope via FT reporting or leaked BCG documents.
 
@@ -1102,7 +1102,7 @@ Claim: Per host-cited article, Palantir announced a $10 billion enterprise softw
 
 Anchored Artifacts: A-2080.1
 
-Related Nodes: N-10671
+Related Nodes: N-10611
 
 Investigative Direction: Identify primary outlet (host references "elsewhere"); confirm Fort Huachuca stationing date.
 
@@ -1162,7 +1162,7 @@ Claim: Per host's displayed working timeline, on June 19 – the second day Char
 Anchored Artifacts: A-2076.2
 Mentions: N-1, N-2
 
-Related Nodes: N-10674
+Related Nodes: N-10613
 
 Investigative Direction: Obtain archived screenshots of Erika Kirk's Instagram account as of June 18–19, 2025.
 
@@ -1177,7 +1177,7 @@ Claim: Per local news in Utah cited by host, Turning Point USA submitted on July
 Anchored Artifacts: A-2084.1
 Mentions: N-1
 
-Related Nodes: N-10675
+Related Nodes: N-10614
 
 Investigative Direction: Obtain the actual UVU event submission paperwork; identify the requesting student organization.
 
@@ -1192,7 +1192,7 @@ Claim: Per host (recapping prior episodes) and per the on-screen connection grap
 Anchored Artifacts: A-2076.1
 Mentions: N-28, N-36
 
-Related Nodes: N-10668
+Related Nodes: N-10608
 
 Investigative Direction: Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting.
 
@@ -1207,7 +1207,7 @@ Claim: Per host (recapping prior episodes), Mitt Romney founded Bain Capital wit
 Anchored Artifacts: A-2076.1
 Mentions: N-28, N-47, N-48
 
-Related Nodes: N-10668
+Related Nodes: N-10608
 
 Investigative Direction: Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history.
 
@@ -1222,7 +1222,7 @@ Claim: Per the displayed on-screen graphic and host description, Orbis – a Was
 Anchored Artifacts: A-2076.1
 Mentions: 
 
-Related Nodes: N-10670
+Related Nodes: N-10610
 
 Investigative Direction: Verify Orbis involvement via FT reporting or leaked BCG documents.
 
@@ -1236,7 +1236,7 @@ Claim: Per the displayed on-screen graphic and host description, Orbis was prepp
 
 Anchored Artifacts: A-2076.1
 
-Related Nodes: N-10670
+Related Nodes: N-10610
 
 Investigative Direction: Verify the existence and nature of the Tacit/Tachlith Institute; flag uncertain spelling.
 
@@ -1251,7 +1251,7 @@ Claim: Per the displayed on-screen graphic and host description, BCG was chosen 
 Anchored Artifacts: A-2076.1
 Mentions: 
 
-Related Nodes: N-10670
+Related Nodes: N-10610
 
 Investigative Direction: Verify Phil Reilly's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting.
 
@@ -1282,7 +1282,7 @@ Transcript Snippet: We have identified our passenger, our high ranking US govern
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10671
+Related Nodes: N-10611
 Tags: relevance:core
 Investigative Direction: Obtain the SAM702 flight manifest and passenger list for September 8-9, 2025 (FOIA, Air Mobility Command, Fort Huachuca flight operations).
 
@@ -1298,7 +1298,7 @@ Transcript Snippet: He wanted to come on Charlie Kirk's show and Charlie refused
 
 Anchored Artifacts: 
 Mentions: N-36, N-1
-Related Nodes: N-10456
+Related Nodes: N-10425
 Supports: C-271
 Tags: relevance:core
 Investigative Direction: Ask Charlie Kirk Show staff or TPUSA for the booking request; look for contemporaneous reporting of Netanyahu's team approaching the Kirk show.
@@ -1315,7 +1315,7 @@ Transcript Snippet: He did the Nelk Boys that was released on July 21st. He did 
 
 Anchored Artifacts: A-3337.1
 Mentions: N-36, N-59, N-57, N-58
-Related Nodes: N-11401
+Related Nodes: N-11317
 Supports: C-271
 Tags: relevance:context
 Investigative Direction: Check publication dates of each episode on YouTube and podcast platforms against the dates the host gives.
@@ -1332,7 +1332,7 @@ Transcript Snippet: Uh suddenly though he is BB Netanyahu is overcome with the n
 
 Anchored Artifacts: 
 Mentions: N-36, N-1
-Related Nodes: N-11401
+Related Nodes: N-11317
 Tags: relevance:context
 Investigative Direction: Compile all Netanyahu US media appearances in 2025 and any Israeli government statements explaining the outreach.
 
@@ -1348,7 +1348,7 @@ Transcript Snippet: not sat down with an American podcaster in years since 2023 
 
 Anchored Artifacts: 
 Mentions: N-36
-Related Nodes: N-11401
+Related Nodes: N-11317
 Tags: relevance:context
 Investigative Direction: Check the date and location of the Lex Fridman interview with Netanyahu and list his US podcast appearances 2023 to 2025.
 
@@ -1364,7 +1364,7 @@ Transcript Snippet: And there was a more appropriate context. He was hawking his
 
 Anchored Artifacts: 
 Mentions: N-36
-Related Nodes: N-11401
+Related Nodes: N-11317
 Tags: relevance:context
 Investigative Direction: Check Netanyahu's 2022 book-tour appearances (his memoir) and confirm none were while in office.
 
@@ -1380,7 +1380,7 @@ Transcript Snippet: the answer is because Charlie had a change of heart regardin
 
 Anchored Artifacts: 
 Mentions: N-1, N-36
-Related Nodes: N-10456, N-10673, N-10027
+Related Nodes: N-10425, N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Obtain statements from Kirk's circle, Hamptons attendees or messages showing Kirk's stated reasons for declining the Netanyahu appearance.
 
@@ -1396,7 +1396,7 @@ Transcript Snippet: they tend to turn off their transponders when they're making
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10672, N-10347
+Related Nodes: N-10612, N-10325
 Tags: relevance:core
 Investigative Direction: Pull ADS-B archive data for the Egyptian-registered Falcon aircraft she names and check for short Cairo round trips with transponder gaps.
 
@@ -1412,7 +1412,7 @@ Transcript Snippet: when I calculate that distance precisely of where these plan
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10672, N-10347
+Related Nodes: N-10612, N-10325
 Tags: relevance:core
 Investigative Direction: Reproduce the range calculation using the recorded departure and return times of the Cairo round trips.
 
@@ -1428,7 +1428,7 @@ Transcript Snippet: the Egyptian plane SUBTU, which I describe as my purple plan
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10672
+Related Nodes: N-10612
 Tags: relevance:core
 Investigative Direction: Check flight-tracking history for the SU-BT* aircraft on October 7, 2023 (departure time from Cairo).
 
@@ -1444,7 +1444,7 @@ Transcript Snippet: They flew to P they flew from Cairo to Paris and Okay, rando
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10672
+Related Nodes: N-10612
 Tags: relevance:core
 Investigative Direction: Check flight history and airport records for the aircraft in St. Louis in October 2023.
 
@@ -1460,7 +1460,7 @@ Transcript Snippet: that same Egyptian plane took off, flew from Cairo always to
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10672
+Related Nodes: N-10612
 Tags: relevance:core
 Investigative Direction: Check flight history for the aircraft around April 14, 2024; confirm the Paris stay length.
 
@@ -1491,7 +1491,7 @@ Transcript Snippet: I told you guys that Mitt Romney's presidential campaign tea
 
 Anchored Artifacts: 
 Mentions: N-28
-Related Nodes: N-10575
+Related Nodes: N-10526
 Tags: relevance:context
 Investigative Direction: Locate reporting on the Romney campaign's BYU Jerusalem visit and any source on CIA recruitment from the program.
 
@@ -1507,7 +1507,7 @@ Transcript Snippet: Air Force plane given the designation SAM because it is carr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10671
+Related Nodes: N-10611
 Tags: relevance:context
 Investigative Direction: Check Air Mobility Command and FAA documentation for SAM call-sign use, and who may authorize it.
 
@@ -1523,7 +1523,7 @@ Transcript Snippet: We just found a guy who thinks he saw Brian Harpole walking 
 
 Anchored Artifacts: 
 Mentions: N-266, N-361
-Related Nodes: N-10373, N-10367
+Related Nodes: N-10347, N-10342
 Tags: relevance:core
 Investigative Direction: Obtain Harpole's direct answer or contracting records for Fort Huachuca on September 8-9, 2025; reinterview the witness.
 
@@ -1539,7 +1539,7 @@ Transcript Snippet: Uh, we got an influence an influencer campaign with a lot of
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-10378
+Related Nodes: N-10351
 Tags: relevance:context
 Investigative Direction: Identify the accounts and dates of the posts the host refers to and who coordinated them.
 
@@ -1555,7 +1555,7 @@ Transcript Snippet: who who's leaving um Fort Huachuca and heading for El Paso, 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10671, N-10370
+Related Nodes: N-10611, N-10305
 Tags: relevance:core
 Investigative Direction: Review flight-tracking and FOIA records of departures from Libby Army Airfield on September 9, 2025.
 
@@ -1571,7 +1571,7 @@ Transcript Snippet: now we can reveal the name of one of those VIPs who was aboa
 
 Anchored Artifacts: A-2076.1
 Mentions: N-433
-Related Nodes: N-10671
+Related Nodes: N-10611
 Tags: relevance:core
 Investigative Direction: Obtain the SAM702 manifest and Hansell's travel calendar through FOIA; the host says her request is pending (see later episodes).
 
@@ -1587,7 +1587,7 @@ Transcript Snippet: in the very month that Mr. Hansell was sworn in, the Boston 
 
 Anchored Artifacts: A-2077.1
 Mentions: N-433
-Related Nodes: N-10668, N-10669
+Related Nodes: N-10608, N-10609
 Tags: relevance:context
 Investigative Direction: Compare Hansell's swearing-in date (July 25, 2025) with the Financial Times Project Aurora publication dates.
 
@@ -1602,7 +1602,7 @@ Claim: Per the website the host reads, by April 2025 BCG leadership said it had 
 Transcript Snippet: But the firm would then say that two senior partners continued the project in defiance of their directives uh maintaining an unofficial team and billing through alternative structures.
 
 Anchored Artifacts: A-2077.1
-Related Nodes: N-10669
+Related Nodes: N-10609
 Tags: relevance:context
 Investigative Direction: Check the Financial Times and BCG statements of July 2025 for the halt order and the partners' conduct.
 
@@ -1617,7 +1617,7 @@ Claim: Per the website the host reads, Project Aurora continued through May 2025
 Transcript Snippet: Project continued through May of 2025 when the Financial Times story broke.
 
 Anchored Artifacts: A-2077.1
-Related Nodes: N-10669
+Related Nodes: N-10609
 Tags: relevance:context
 Investigative Direction: Find the first Financial Times publication date on Project Aurora; the host's own timeline later gives July 4.
 
@@ -1632,7 +1632,7 @@ Claim: The host says it was discovered that the Gaza Humanitarian Foundation dis
 Transcript Snippet: you might recall that it was that it was then discovered these were effectively just killing fields. The videos are horrific.
 
 Anchored Artifacts: 
-Related Nodes: N-10670
+Related Nodes: N-10610
 Tags: relevance:context
 Investigative Direction: Review UN, medical and press records on shootings at GHF distribution sites and the videos she refers to.
 
@@ -1648,7 +1648,7 @@ Transcript Snippet: Reverend Johnnie Moore, one half of the Kairos Company duo w
 
 Anchored Artifacts: A-2078.1
 Mentions: N-437, N-14
-Related Nodes: N-10670
+Related Nodes: N-10610
 Tags: relevance:core
 Investigative Direction: Check corporate records and bios for the Kairos Company and Kolvet's and Moore's roles.
 
@@ -1664,7 +1664,7 @@ Transcript Snippet: He would eventually abandon the project November. There was 
 
 Anchored Artifacts: 
 Mentions: N-437
-Related Nodes: N-10670
+Related Nodes: N-10610
 Tags: relevance:context
 Investigative Direction: Check news reports on Moore's departure from the GHF and its date.
 
@@ -1679,7 +1679,7 @@ Claim: The host says her working timeline records Boston Consulting Group abando
 Transcript Snippet: Boston Consulting Group abandoning the Gaza Humanitarian Foundation in June.
 
 Anchored Artifacts: A-2076.2
-Related Nodes: N-10670
+Related Nodes: N-10610
 Tags: relevance:context
 Investigative Direction: Check news coverage of BCG's exit from the GHF (the Times of Israel piece she cites).
 
@@ -1695,7 +1695,7 @@ Transcript Snippet: this person on the Egyptian plane who goes by Wed Mahmoud. O
 
 Anchored Artifacts: A-2076.2
 Mentions: N-305
-Related Nodes: N-10310
+Related Nodes: N-10292
 Tags: relevance:core
 Investigative Direction: Check flight tracking and any manifest for SU-BTU on May 27-June 2, 2025 and the passenger name.
 
@@ -1711,7 +1711,7 @@ Transcript Snippet: So, he is going to come back and he will also be on this pla
 
 Anchored Artifacts: A-2076.2
 Mentions: N-305, N-1
-Related Nodes: N-10310
+Related Nodes: N-10292
 Tags: relevance:core
 Investigative Direction: Obtain passenger and handling records for the Egyptian aircraft at Wilmington on September 10, 2025.
 
@@ -1727,7 +1727,7 @@ Transcript Snippet: On June 3rd, Reverend Johnnie Moore is announced to take ove
 
 Anchored Artifacts: A-2076.2
 Mentions: N-437
-Related Nodes: N-10670
+Related Nodes: N-10610
 Tags: relevance:context
 Investigative Direction: Check the announcement date in the Times of Israel and GHF press release.
 
@@ -1742,7 +1742,7 @@ Claim: The host says a flight from Tucson to Fort Huachuca on September 8 looked
 Transcript Snippet: it looked like it was a flight uh that was associated with a flight training school. So I just noted that that flight training school did get a new CEO um named Matt Bromberg who is connected to Raytheon and Northrop Grumman.
 
 Anchored Artifacts: A-2076.2
-Related Nodes: N-10671, N-11324, N-11123
+Related Nodes: N-10611, N-11240, N-11041
 Tags: relevance:context
 Investigative Direction: Identify the flight school, its operator on the Tucson-Fort Huachuca leg, and the CEO's correct name.
 
@@ -1772,7 +1772,7 @@ Transcript Snippet: June 18th. That is when Charlie goes into the White House. W
 
 Anchored Artifacts: A-2076.2
 Mentions: N-1, N-590, N-36
-Related Nodes: N-10674
+Related Nodes: N-10613
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor logs or participants' accounts for June 18-19, 2025 and Weinstein's source for the dates.
 
@@ -1788,7 +1788,7 @@ Transcript Snippet: and Charlie emerges the temporary winner of that. Trump move
 
 Anchored Artifacts: A-2076.2
 Mentions: N-1
-Related Nodes: N-10674
+Related Nodes: N-10613
 Tags: relevance:core
 Investigative Direction: Compare Trump's statements and actions between June 18 and June 21, 2025 with accounts of the meeting.
 
@@ -1803,7 +1803,7 @@ Claim: The host says that on June 22, 2025, in Operation Midnight Hammer, Americ
 Transcript Snippet: On June 22nd, uh, Operation Midnight Hammer, which is when America bombs U Iran nuclear sites, that's limited military
 
 Anchored Artifacts: A-2076.2
-Related Nodes: N-11079
+Related Nodes: N-10997
 Tags: relevance:context
 Investigative Direction: Public record: US strikes on Iranian nuclear sites, June 22, 2025.
 
@@ -1819,7 +1819,7 @@ Transcript Snippet: This writer, Claire Guinan, who had never published before, 
 
 Anchored Artifacts: A-2076.2
 Mentions: N-753
-Related Nodes: N-10122, N-10117
+Related Nodes: N-10117, N-10113
 Supports: C-810
 Tags: relevance:context
 Investigative Direction: Check Ginan's byline history at Jezebel and elsewhere; ask Jezebel for her hire date.
@@ -1836,7 +1836,7 @@ Transcript Snippet: buy a spell about harming Charlie Kirk, putting a curse onto
 
 Anchored Artifacts: A-2076.2
 Mentions: N-753, N-1
-Related Nodes: N-10117, N-10123, N-10122
+Related Nodes: N-10113, N-10118, N-10117
 Supports: C-810
 Tags: relevance:core
 Investigative Direction: Obtain Jezebel's published piece and Etsy order dates for the curse purchase to compare with June 18-19.
@@ -1853,7 +1853,7 @@ Transcript Snippet: On July 2nd, Rob McCoy formerly resigns as the lead pastor o
 
 Anchored Artifacts: A-2076.2
 Mentions: N-17
-Related Nodes: N-10220
+Related Nodes: N-10210
 Tags: relevance:core
 Investigative Direction: Check Calvary Chapel Thousand Oaks announcements and church records for McCoy's resignation date.
 
@@ -1868,7 +1868,7 @@ Claim: The host says her timeline has the Financial Times article on Boston Cons
 Transcript Snippet: Uh July 4th, the Financial Times article comes out about the Boston Consulting Group and Project Aurora.
 
 Anchored Artifacts: A-2076.2, A-2077.1
-Related Nodes: N-10669
+Related Nodes: N-10609
 Contradicts: C-9632
 Tags: relevance:context
 Investigative Direction: Check the first Financial Times publication date for the Project Aurora story; the host states May earlier in the episode.
@@ -1917,7 +1917,7 @@ Transcript Snippet: Erika travels to Long Beach, California to speak at James Ka
 
 Anchored Artifacts: A-2076.2
 Mentions: N-2, N-665
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Find the retreat program or video and flight records for July 14, 2025.
 
@@ -1948,7 +1948,7 @@ Transcript Snippet: But in this speech, Erika says that this is her Sunday churc
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10264
+Related Nodes: N-10248
 Tags: relevance:core
 Investigative Direction: Obtain the recording or transcript of Erika's July 14 remarks.
 
@@ -1964,7 +1964,7 @@ Transcript Snippet: This is not when a campus tour comes together. You don't sub
 
 Anchored Artifacts: A-2084.1
 Mentions: N-1
-Related Nodes: N-10675, N-10012
+Related Nodes: N-10614, N-10012
 Tags: relevance:core
 Investigative Direction: Compare the UVU event request timeline with TPUSA's other fall 2025 stops; ask TPUSA for typical lead times.
 
@@ -1979,7 +1979,7 @@ Claim: The host says the yellow Egyptian plane then flew from Cairo through Pari
 Transcript Snippet: We have our yellow plane then comes in from Cairo to through to Paris as always uh to Omaha, Nebraska and then to Lincoln, Nebraska.
 
 Anchored Artifacts: A-2076.2
-Related Nodes: N-10276, N-10672
+Related Nodes: N-10259, N-10612
 Supports: C-3268
 Tags: relevance:core
 Investigative Direction: Check SU-BTT flight history for the July 2025 Omaha and Lincoln legs.
@@ -2028,7 +2028,7 @@ Transcript Snippet: it is announced that Nebraska is going to do a trade and inv
 
 Anchored Artifacts: A-2083.1
 Mentions: N-279
-Related Nodes: N-10276
+Related Nodes: N-10259
 Tags: relevance:core
 Investigative Direction: Obtain the Nebraska Secretary of State's calendar and trade-mission announcement for July 2025 and names of the Egyptian participants.
 
@@ -2043,7 +2043,7 @@ Claim: The host says that on July 25, 2025 the sponsor she calls Refi became the
 Transcript Snippet: It's weird because they had already signed a contract for the entire year. What I mean by that is they signed a contract which included Amfest, included YWLS.
 
 Anchored Artifacts: A-2076.2
-Related Nodes: N-10870
+Related Nodes: N-10791
 Tags: relevance:context
 Investigative Direction: Obtain the sponsorship contract and addendum and compare with the tour announcements.
 
@@ -2059,7 +2059,7 @@ Transcript Snippet: August 5th through to the 7th is the now infamous Hampton's 
 
 Anchored Artifacts: A-2076.2
 Mentions: N-1
-Related Nodes: N-10673, N-10027
+Related Nodes: N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Compare with other accounts of the retreat dates (earlier episodes give August 4-5); obtain attendee schedules.
 
@@ -2075,7 +2075,7 @@ Transcript Snippet: when he appeared on Megyn Kelly's um podcast in the followin
 
 Anchored Artifacts: A-2076.2
 Mentions: N-1, N-46
-Related Nodes: N-10673
+Related Nodes: N-10129
 Tags: relevance:core
 Investigative Direction: Review the Megyn Kelly Show episode with Kirk after the Hamptons weekend for the quoted remarks.
 
@@ -2090,7 +2090,7 @@ Claim: The host says that on August 27 Dhillon Law Group drafted paperwork for H
 Transcript Snippet: August 27th, we told you about Dhillon Law Group drafting paperwork for uh Havas Media on behalf of Clock Tower LLC.
 
 Anchored Artifacts: A-2076.2
-Related Nodes: N-10910, N-10901, N-10722, N-10652, N-10653
+Related Nodes: N-10831, N-10822, N-10657, N-10594, N-10595
 Tags: relevance:context
 Investigative Direction: Retrieve the FARA registration or filing for Havas Media and Clock Tower LLC and its date.
 
@@ -2243,7 +2243,7 @@ Transcript Snippet: I went through my inbox and I went through to figure out whe
 
 Anchored Artifacts: A-3336.1
 Mentions: N-3, N-1
-Related Nodes: N-11400
+Related Nodes: N-11316
 Tags: relevance:core
 Investigative Direction: Obtain the host's earliest emails and Wayback/Apple Podcasts captures of the Charlie Kirk Show feed before and after November 3.
 
@@ -2259,7 +2259,7 @@ Transcript Snippet: Erika Kirk uh going out there and telling a story about Char
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-46
-Related Nodes: N-10664, N-11400
+Related Nodes: N-10606, N-11316
 Tags: relevance:core
 Investigative Direction: Compare Charlie's public statements on women and work with the Aspen appointment story as Erika told it.
 
@@ -2274,7 +2274,7 @@ Claim: The host says Turning Point moved to delete episodes of the Charlie Kirk 
 Transcript Snippet: Turning Point moved to mysteriously delete all of these episodes. They deleted certain tweets. They deleted Q&A sessions from the internet. That is a fact, by the way.
 
 Anchored Artifacts: A-3336.1
-Related Nodes: N-11400
+Related Nodes: N-11316
 Tags: relevance:core
 Investigative Direction: Compare archived feeds and platform listings before and after November 2025 to identify removed episodes, tweets and Q&As.
 
@@ -2290,7 +2290,7 @@ Transcript Snippet: People at Turning Point told me when they began deleting epi
 
 Anchored Artifacts: A-3336.1
 Mentions: N-3
-Related Nodes: N-11400
+Related Nodes: N-11316
 Tags: relevance:core
 Investigative Direction: Collect the emailed dead links and match them against platform archives.
 
@@ -2305,7 +2305,7 @@ Claim: The host says Turning Point responded that the content is still on Rumble
 Transcript Snippet: this stuff is still up on Rumble. We didn't delete anything. Apple has a limit. You can only put a hundred episodes at a time.
 
 Anchored Artifacts: 
-Related Nodes: N-11400
+Related Nodes: N-11316
 Tags: relevance:core
 Investigative Direction: Check Apple Podcasts' actual per-feed episode limits, and compare the Charlie Kirk Show feed history.
 
@@ -2321,7 +2321,7 @@ Transcript Snippet: I actually remember somebody sending me a link of someone wh
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11400
+Related Nodes: N-11316
 Tags: relevance:context
 Investigative Direction: Search for public archives of Charlie Kirk campus Q&A recordings; ask the tipster to resend.
 
@@ -2352,7 +2352,7 @@ Transcript Snippet: Some people believe that Charlie said it in a Q&A uh back in
 
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-3
-Related Nodes: N-10664
+Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Locate the 2022 Charlie Kirk Q&A video and transcript containing the remark and compare with the Aspen audio.
 
@@ -2425,7 +2425,7 @@ Claim: A viewer comment read by the host says the viewer received a text from a 
 Transcript Snippet: Over this past weekend, I received a text from a Virginia area code asking how Utah folks feel about the United States relationship with Israel.
 
 Anchored Artifacts: A-3335.2
-Related Nodes: N-10653
+Related Nodes: N-10595
 Tags: relevance:context
 Investigative Direction: Collect the screenshot of the text and sender number; check political-texting vendors.
 
@@ -2441,7 +2441,7 @@ Transcript Snippet: Well, read those FARA docs. This is what it's about. You're 
 
 Anchored Artifacts: A-3335.2
 Mentions: N-3
-Related Nodes: N-10653, N-10910
+Related Nodes: N-10595, N-10831
 Tags: relevance:context
 Investigative Direction: Read the FARA filings she refers to for geofencing and text-message scope and target states.
 
@@ -2500,7 +2500,7 @@ Transcript Snippet: Also, super shady for her to pick Bari Weiss's CBS and decla
 
 Anchored Artifacts: A-3335.4
 Mentions: N-2, N-278
-Related Nodes: N-10334
+Related Nodes: N-10313
 Tags: relevance:context
 Investigative Direction: Review the CBS interview with Erika Kirk and what she said about Charlie's position on Israel.
 
@@ -2697,7 +2697,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-10141+)
+- [x] People nodes use the global people ledger (N-10136+)
 - [x] Non-person investigation targets use the 2066+ series
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty flagged

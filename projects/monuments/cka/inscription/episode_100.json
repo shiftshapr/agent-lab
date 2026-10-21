@@ -34,7 +34,7 @@
             "N-266",
             "N-130",
             "N-3",
-            "N-10651"
+            "N-10593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -52,8 +52,8 @@
           ],
           "related_nodes": [
             "N-600",
-            "N-10909",
-            "N-10910"
+            "N-10830",
+            "N-10831"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -82,7 +82,7 @@
             "N-330",
             "N-600",
             "N-266",
-            "N-10909"
+            "N-10830"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -111,7 +111,7 @@
             "N-600",
             "N-266",
             "N-1",
-            "N-10768"
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -183,7 +183,7 @@
             "N-2",
             "N-361",
             "N-10000",
-            "N-10899"
+            "N-10820"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -201,7 +201,7 @@
           ],
           "related_nodes": [
             "N-361",
-            "N-10899"
+            "N-10820"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -229,7 +229,7 @@
             "N-266",
             "N-361",
             "N-3",
-            "N-10643"
+            "N-10347"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -255,8 +255,8 @@
             "N-361",
             "N-266",
             "N-2",
-            "N-10373",
-            "N-10450"
+            "N-10347",
+            "N-10419"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -275,7 +275,7 @@
           "related_nodes": [
             "N-270",
             "N-266",
-            "N-10651"
+            "N-10593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -302,7 +302,7 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-10472"
+            "N-10390"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -332,8 +332,8 @@
           "related_nodes": [
             "N-366",
             "N-30",
-            "N-10631",
-            "N-10689"
+            "N-10577",
+            "N-10627"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -421,7 +421,7 @@
           "related_nodes": [
             "N-366",
             "N-605",
-            "N-10912"
+            "N-10833"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -465,7 +465,7 @@
           ],
           "related_nodes": [
             "N-605",
-            "N-10912"
+            "N-10833"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1119,11 +1119,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "A TPUSA source is cited in the military YouTuber's message; the host says Erika Kirk stopped using Kolvet for PR; Neff speech claim.",
       "related_artifacts": [
         "A-2548.1"
@@ -1137,14 +1137,16 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10126",
-      "ref": "N-10126",
+      "@type": "Place",
+      "@id": "N-10121",
+      "ref": "N-10121",
       "name": "London / UK",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Where George Farmer says he introduced Daily Wire leadership to investors.",
       "related_artifacts": [],
       "related_claims": [
@@ -1154,14 +1156,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10238",
-      "ref": "N-10238",
+      "@type": "Topic",
+      "@id": "N-10225",
+      "ref": "N-10225",
       "name": "Daily Wire Intern Covert Recording Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host restates that interns were flown to follow her to public events.",
       "related_artifacts": [],
       "related_claims": [
@@ -1171,68 +1174,58 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Mitch Snow's videos and hotel receipts are cited as proof of his presence.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8925"
+        "C-8925",
+        "C-8924"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's December 27 request for evidence to debunk the Harpole sighting.",
       "related_artifacts": [
-        "A-2549.2"
+        "A-2549.2",
+        "A-2549.1"
       ],
       "related_claims": [
-        "C-8944"
+        "C-8944",
+        "C-8939"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10375",
-      "ref": "N-10375",
-      "name": "Fort Huachuca Sighting Verification",
-      "type": "investigation_target",
-      "description": "The YouTubers' claims that Mitch Snow was never there, and the host's rebuttal.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-8924",
-        "C-8925"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10378",
-      "ref": "N-10378",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10351",
+      "ref": "N-10351",
       "name": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Kolvet's alibi texts read on Paramount Tactical.",
       "related_artifacts": [],
       "related_claims": [
@@ -1242,14 +1235,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@type": "Topic",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Boreing's podcast episodes about the host and Tucker Carlson, including his platforming of Loomer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1260,14 +1254,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@type": "Topic",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Interns following the host, outside PR and alleged private investigators.",
       "related_artifacts": [],
       "related_claims": [
@@ -1278,31 +1273,41 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mitch Snow's belief that he saw Erika Kirk leave a base hotel on September 8.",
-      "related_artifacts": [],
+      "related_artifacts": [
+        "A-2550.1"
+      ],
       "related_claims": [
-        "C-8945"
+        "C-8945",
+        "C-8941",
+        "C-8943",
+        "C-8946",
+        "C-8947",
+        "C-8949"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10437",
-      "ref": "N-10437",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10406",
+      "ref": "N-10406",
       "name": "Aspen Donor Recall Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Donors in attendance deny the CEO-appointment statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1312,14 +1317,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10449",
-      "ref": "N-10449",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10418",
+      "ref": "N-10418",
       "name": "Daily Wire Hungary Production Expenditure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Pendragon's cost and Boreing's leave to shoot it in Hungary.",
       "related_artifacts": [],
       "related_claims": [
@@ -1330,14 +1336,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10450",
-      "ref": "N-10450",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10419",
+      "ref": "N-10419",
       "name": "Fort Huachuca PR Response Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's group text to Streiff and Kolvet about back-channel messaging through YouTubers.",
       "related_artifacts": [
         "A-2549.2"
@@ -1349,37 +1356,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10472",
-      "ref": "N-10472",
-      "name": "Fort Huachuca Alibi Investigation",
-      "type": "investigation_target",
-      "description": "Kolvet's relayed alibis for Erika Kirk, the wrong-date photo and the Watters account.",
-      "related_artifacts": [
-        "A-2550.1"
-      ],
-      "related_claims": [
-        "C-8941",
-        "C-8943",
-        "C-8946",
-        "C-8947",
-        "C-8949"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10631",
-      "ref": "N-10631",
+      "@type": "Topic",
+      "@id": "N-10577",
+      "ref": "N-10577",
       "name": "George Farmer / Tracy Robinson $6,987 Incident",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The incident Boreing and Loomer cite, the 2024 Daily Wire pitch to the New York Post, and the host's denials.",
       "related_artifacts": [
         "A-2551.1"
@@ -1397,33 +1383,15 @@
       "evidence_count": 1,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10643",
-      "ref": "N-10643",
-      "name": "Harpole Fort Huachuca Alibi Question",
-      "type": "investigation_target",
-      "description": "The host's three unanswered messages asking Harpole to confirm or deny.",
-      "related_artifacts": [
-        "A-2549.1"
-      ],
-      "related_claims": [
-        "C-8939"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Preservation orders, the TPUSA-source message about a planned suit, shared counsel with the Daily Wire, and the filing's contents.",
       "related_artifacts": [
         "A-2544.1",
@@ -1445,14 +1413,15 @@
       "evidence_count": 2,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10681",
-      "ref": "N-10681",
+      "@type": "Thing",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Harpole's Shawn Ryan interview, after which Bednarz began his theories.",
       "related_artifacts": [],
       "related_claims": [
@@ -1462,14 +1431,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10689",
-      "ref": "N-10689",
+      "@type": "Topic",
+      "@id": "N-10627",
+      "ref": "N-10627",
       "name": "Daily Wire Financial Status and IPO Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Boreing's revenue-growth claim and the host's profit and Pendragon rebuttal.",
       "related_artifacts": [
         "A-2551.1"
@@ -1482,14 +1452,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Bednarz's posts claim a pendant-shaped charge was detonated by Harpole.",
       "related_artifacts": [
         "A-2546.1"
@@ -1501,14 +1472,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10898",
-      "ref": "N-10898",
+      "@type": "Organization",
+      "@id": "N-10819",
+      "ref": "N-10819",
       "name": "New York Post",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says it was pitched the George Farmer report in 2024 and declined.",
       "related_artifacts": [],
       "related_claims": [
@@ -1519,12 +1491,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11001",
-      "ref": "N-11001",
+      "@id": "N-10921",
+      "ref": "N-10921",
       "name": "Valhalla VFT",
       "type": "organization",
       "description": "Military-commentary YouTube channel (\"the Valhalla guy\"), distinct from Gary Melton's Paramount Tactical; the host groups the two among the military YouTubers who warned her off Mitch Snow (ep100).",
@@ -1537,7 +1511,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q17558136"
     },
     {
       "@type": "Person",
@@ -1545,7 +1521,7 @@
       "ref": "N-614",
       "name": "Gary Melton",
       "type": "person",
-      "description": "Runs the Paramount Tactical YouTube channel (N-10899); named by first name in episode 100 (\"Andrew messaged Gary, that's Paramount Tactical\").",
+      "description": "Runs the Paramount Tactical YouTube channel (N-10820); named by first name in episode 100 (\"Andrew messaged Gary, that's Paramount Tactical\").",
       "related_artifacts": [],
       "related_claims": [
         "C-8946",
@@ -1558,11 +1534,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@type": "Organization",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The military YouTubers who attacked Mitch Snow and read Kolvet's alibi texts on air; their host Gary is named.",
       "related_artifacts": [
         "A-2548.1",
@@ -1581,14 +1557,16 @@
       "evidence_count": 2,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host's former employer, whose finances, Pendragon, alleged stalking, the 2024 pitch about George Farmer and the Zachary Lewis case are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1615,14 +1593,16 @@
       "evidence_count": 0,
       "claim_count": 18,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10909",
-      "ref": "N-10909",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10830",
+      "ref": "N-10830",
       "name": "Blake Bednarz Preservation Order / Non-Suit Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: why the Harpole plaintiffs served Douglas Blake Bednarz – who explicitly and repeatedly accused Harpole of killing Charlie Kirk – with a preservation order rather than suing him, along with the host's earlier contacts with Bednarz and a new lead the host says she received about him.",
       "related_artifacts": [
         "A-2544.2",
@@ -1647,12 +1627,13 @@
       "related_nodes": [
         "N-600",
         "N-266"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Organization",
-      "@id": "N-10910",
-      "ref": "N-10910",
+      "@id": "N-10831",
+      "ref": "N-10831",
       "name": "Dhillon Law Group",
       "type": "organization",
       "description": "Law firm (transcript spelling \"Dhillon Law Group\") that the host says served the preservation order on Blake Bednarz. She says Harpole's lawyer is the same one the Daily Wire used against her.",
@@ -1667,12 +1648,14 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q613142"
     },
     {
       "@type": "Organization",
-      "@id": "N-10911",
-      "ref": "N-10911",
+      "@id": "N-10832",
+      "ref": "N-10832",
       "name": "Department of Homeland Security",
       "type": "organization",
       "description": "The federal department Laura Loomer is tagging to investigate George Farmer's citizenship disclosures; the host denies lying to DHS.",
@@ -1685,12 +1668,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
       "@type": "Topic",
-      "@id": "N-10912",
-      "ref": "N-10912",
+      "@id": "N-10833",
+      "ref": "N-10833",
       "name": "Zachary Lewis Daily Wire Kids Case",
       "type": "topic",
       "description": "Investigation target: the pending child sexual abuse material case against former Daily Wire (Bentkey kids department) camera operator Zachary Lewis, arrested in May of the previous year. Includes when he was dismissed, what leadership knew, and whether parents were notified. Allegations only; no conviction.",
@@ -1713,7 +1698,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-605"
-      ]
+      ],
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -1727,7 +1713,7 @@
         "A-2544.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:01:19",
@@ -1748,7 +1734,7 @@
         "A-2544.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:02:12",
@@ -1785,9 +1771,9 @@
       "claim": "The host says YouTubers including Paramount Tactical and Valhalla initially claimed that Mitch Snow had never been at Fort Huachuca, was a fraud and had never served in the military. She says both claims were later disproven.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-10375",
-        "N-11001"
+        "N-10820",
+        "N-10342",
+        "N-10921"
       ],
       "tags": [],
       "claim_timestamp": "00:03:03",
@@ -1805,8 +1791,7 @@
       "claim": "The host says Mitch Snow recorded videos while at Fort Huachuca, that she examined their metadata, and that he submitted his hotel receipts to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10375",
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:04:04",
@@ -1828,8 +1813,8 @@
       "claim": "The host says Ian Carroll, after failing to convince her, bowed out but delivered to her the warnings from the military YouTubers, who said they were in communication with lieutenant colonels.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-11001"
+        "N-10820",
+        "N-10921"
       ],
       "tags": [],
       "claim_timestamp": "00:04:04",
@@ -1848,8 +1833,8 @@
       "claim": "The host says some people online publicly and explicitly accused Brian Harpole of murdering Charlie Kirk, yet they have not been sued for defamation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10909",
-        "N-10651"
+        "N-10830",
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:05:25",
@@ -1870,7 +1855,7 @@
         "A-2545.1"
       ],
       "related_nodes": [
-        "N-10909"
+        "N-10830"
       ],
       "tags": [],
       "claim_timestamp": "00:06:29",
@@ -1893,8 +1878,8 @@
         "A-2545.1"
       ],
       "related_nodes": [
-        "N-10909",
-        "N-10651"
+        "N-10830",
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:07:17",
@@ -1916,7 +1901,7 @@
         "A-2546.1"
       ],
       "related_nodes": [
-        "N-10681"
+        "N-10619"
       ],
       "tags": [],
       "claim_timestamp": "00:08:09",
@@ -1939,8 +1924,8 @@
         "A-2546.2"
       ],
       "related_nodes": [
-        "N-10909",
-        "N-10768"
+        "N-10830",
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:08:09",
@@ -1962,9 +1947,9 @@
         "A-2544.2"
       ],
       "related_nodes": [
-        "N-10909",
-        "N-10910",
-        "N-10651"
+        "N-10830",
+        "N-10831",
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:09:54",
@@ -2001,7 +1986,7 @@
       "claim": "The host says a friend introduced her to Bednarz, who claimed to have never-before-seen footage of the UVU event from a contact who had been there and \"had everything.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10909"
+        "N-10830"
       ],
       "tags": [],
       "claim_timestamp": "00:11:02",
@@ -2020,7 +2005,7 @@
       "claim": "The host says Bednarz never sent the long footage he promised. She says that in December, around when Fort Huachuca was being discussed, he began sending her material about Brian Harpole and demanding that she present it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10909"
+        "N-10830"
       ],
       "tags": [],
       "claim_timestamp": "00:12:15",
@@ -2040,7 +2025,7 @@
       "claim": "The host says that from mid-December she stopped responding to Bednarz because her gut told her something was not right, and that she is grateful she did because it may have been a trap.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10909"
+        "N-10830"
       ],
       "tags": [],
       "claim_timestamp": "00:13:05",
@@ -2062,8 +2047,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10899",
-        "N-10651"
+        "N-10820",
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:14:35",
@@ -2085,7 +2070,7 @@
         "A-2548.2"
       ],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:15:30",
@@ -2106,7 +2091,7 @@
         "A-2549.1"
       ],
       "related_nodes": [
-        "N-10643"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:17:14",
@@ -2128,7 +2113,7 @@
       "claim": "The host says Harpole's filing explains that he did not answer her messages because he did not want to grant her an exclusive that would earn her money from clicks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:18:03",
@@ -2150,9 +2135,9 @@
       "claim": "The host says Paramount Tactical accidentally read Andrew Kolvet's text messages live on air. The texts asked him not to share publicly and gave a Fort Huachuca alibi saying the story was insane and Erika Kirk was at home with her children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-10378",
-        "N-10472"
+        "N-10820",
+        "N-10351",
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:18:03",
@@ -2196,7 +2181,7 @@
         "A-2550.1"
       ],
       "related_nodes": [
-        "N-10472"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:19:02",
@@ -2217,8 +2202,8 @@
         "A-2549.2"
       ],
       "related_nodes": [
-        "N-10373",
-        "N-10450"
+        "N-10347",
+        "N-10419"
       ],
       "tags": [],
       "claim_timestamp": "00:19:59",
@@ -2242,7 +2227,7 @@
         "A-2549.2"
       ],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:20:58",
@@ -2266,8 +2251,8 @@
         "A-2549.2"
       ],
       "related_nodes": [
-        "N-10899",
-        "N-10472"
+        "N-10820",
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:20:58",
@@ -2288,7 +2273,7 @@
       "claim": "The host says that in her Jesse Watters interview Erika Kirk said Charlie was at the office all day on September 9 and that they had dinner together, but never said she was with him at the office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10472"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:20:58",
@@ -2331,8 +2316,8 @@
         "A-2549.2"
       ],
       "related_nodes": [
-        "N-10899",
-        "N-10472"
+        "N-10820",
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:21:38",
@@ -2354,7 +2339,7 @@
         "A-2549.3"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:22:26",
@@ -2374,7 +2359,7 @@
       "claim": "The host says the Harpole filing reads to her like a PR campaign, and that she agrees with Baron Coleman's assessment that a federal judge would be upset by a lawsuit written to get on a magazine cover. Speaking as a hypothetical judge, she says, \"You spent the first three pages calling her an anti-Semite.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:24:50",
@@ -2394,9 +2379,9 @@
       "claim": "The host alleges that after the Daily Wire fired her, Jeremy Boreing was behind sending interns on secret trips by plane to follow her to public events.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10238",
-        "N-10416"
+        "N-10821",
+        "N-10225",
+        "N-10389"
       ],
       "tags": [],
       "claim_timestamp": "00:27:59",
@@ -2415,7 +2400,7 @@
       "claim": "The host alleges that while she was at the Daily Wire, Jeremy Boreing used Alyssa Cordova to send material to Ian Miles Cheong to attack his enemies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:28:52",
@@ -2435,9 +2420,9 @@
       "claim": "The host says the lawyer who filed the Harpole suit is the same lawyer Jeremy Boreing, Ben Shapiro and the Daily Wire used to pursue her in court for two years.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10910",
-        "N-10900",
-        "N-10651"
+        "N-10831",
+        "N-10821",
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:28:52",
@@ -2460,8 +2445,8 @@
         "A-2551.1"
       ],
       "related_nodes": [
-        "N-10385",
-        "N-10631"
+        "N-10358",
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:30:07",
@@ -2483,8 +2468,8 @@
         "A-2551.1"
       ],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:31:18",
@@ -2504,7 +2489,7 @@
         "A-2551.1"
       ],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:31:58",
@@ -2526,8 +2511,8 @@
         "A-2551.1"
       ],
       "related_nodes": [
-        "N-10900",
-        "N-10631"
+        "N-10821",
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:31:58",
@@ -2547,8 +2532,8 @@
       "claim": "The host says no such incident happened while she was at the Daily Wire and that she was never contacted about one. She calls Boreing's account made up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10631"
+        "N-10821",
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:34:16",
@@ -2568,9 +2553,9 @@
       "claim": "The host says revenue growth is not profit. She says Jeremy Boreing's Pendragon project, which she calls a tremendous financial risk that not even Disney Studios would have invested tens of millions of dollars in, drove the Daily Wire into the ground financially after the success of Matt Walsh's documentaries.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10449",
-        "N-10689",
-        "N-10900"
+        "N-10418",
+        "N-10627",
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:35:24",
@@ -2589,8 +2574,8 @@
       "claim": "The host says Boreing temporarily stepped down as CEO and went to Hungary to shoot Pendragon, so no one would have contacted him about her husband during that period.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10449",
-        "N-10900"
+        "N-10418",
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
@@ -2608,8 +2593,8 @@
       "claim": "The host says her husband traveled to London with the Daily Wire's interim CEO, Caleb Robinson, and introduced the company to his and his father's circle of investors.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10126",
-        "N-10900"
+        "N-10121",
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:37:43",
@@ -2628,8 +2613,8 @@
       "claim": "The host says that after firing her the Daily Wire hired outside PR people, and that her lawyers believe it also hired private investigators to find damaging information on her and her husband.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10416"
+        "N-10821",
+        "N-10389"
       ],
       "tags": [],
       "claim_timestamp": "00:37:43",
@@ -2648,9 +2633,9 @@
       "claim": "The host says it was the Daily Wire, Boreing and their affiliates who found an incident report involving George Farmer in late summer 2024. She says her PR team was told they were trying to get the New York Post to publish it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10898",
-        "N-10631"
+        "N-10821",
+        "N-10819",
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:38:34",
@@ -2669,8 +2654,8 @@
       "claim": "The host says the New York Post declined to publish the report after looking into it, and that lower-tier outlets, possibly including the Daily Beast, also declined because they could not confirm it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10898",
-        "N-10631"
+        "N-10819",
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:39:18",
@@ -2688,7 +2673,7 @@
       "claim": "The host says Charlie Kirk was alive when the Daily Wire was pitching the report and was one of the people she talked to about how deranged the attacks had become.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:39:18",
@@ -2707,7 +2692,7 @@
       "claim": "The host says Laura Loomer named Tracy Robinson as a hit-and-run victim and claimed the host and her husband paid to cover up three drunken arrest incidents.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:39:18",
@@ -2726,7 +2711,7 @@
       "claim": "The host denies that she and George hid a DUI conviction or lied to the Department of Homeland Security for his citizenship application, and says reporters will find nothing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10911"
+        "N-10832"
       ],
       "tags": [],
       "claim_timestamp": "00:42:09",
@@ -2745,7 +2730,7 @@
       "claim": "The host says Laura Loomer is tagging DHS, including Secretary of Homeland Security Markwayne Mullin, to urge an investigation of George for violating federal law.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10911"
+        "N-10832"
       ],
       "tags": [],
       "claim_timestamp": "00:42:09",
@@ -2783,7 +2768,7 @@
       "claim": "The host alleges that Boreing tried to harm Brett Cooper, then 21 or 22, \"for the crime of her wanting to get married,\" including by legal pressure and by approaching her maid of honor to take over her show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:43:55",
@@ -2802,7 +2787,7 @@
       "claim": "The host says that since launching his new podcast Jeremy Boreing has made 19 episodes, 17 of them about her and Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10385"
+        "N-10358"
       ],
       "tags": [],
       "claim_timestamp": "00:44:57",
@@ -2824,8 +2809,8 @@
         "A-2554.1"
       ],
       "related_nodes": [
-        "N-10912",
-        "N-10900"
+        "N-10833",
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:46:20",
@@ -2843,8 +2828,8 @@
       "claim": "The host says Lewis worked in the Daily Wire's kids department (Bentkey), where kids' shows were filmed with children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10912",
-        "N-10900"
+        "N-10833",
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:46:20",
@@ -2862,8 +2847,8 @@
       "claim": "The host says she has been told, which she labels an allegation, that Lewis was not immediately dismissed by the Daily Wire after his May arrest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10912",
-        "N-10900"
+        "N-10833",
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:47:13",
@@ -2883,7 +2868,7 @@
         "A-2554.1"
       ],
       "related_nodes": [
-        "N-10912"
+        "N-10833"
       ],
       "tags": [],
       "claim_timestamp": "00:47:56",
@@ -2901,8 +2886,8 @@
       "claim": "The host says she has been told the Daily Wire did not hold a public staff firing for Lewis as it did for her, and that other talent were reportedly unaware of the case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10912",
-        "N-10900"
+        "N-10833",
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:47:56",
@@ -2921,7 +2906,7 @@
       "claim": "The host says Boreing wrote Lady Ballers with a role for Brett Cooper that involved licking his face, and that she declined it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:50:07",
@@ -2981,7 +2966,7 @@
         "A-2553.3"
       ],
       "related_nodes": [
-        "N-10912"
+        "N-10833"
       ],
       "tags": [],
       "claim_timestamp": "00:53:28",
@@ -3038,7 +3023,7 @@
       "claim": "The host says donors who attended the Aspen event deny that Charlie Kirk said there that he appointed Erika Kirk as CEO, and she asks Blake Neff to release the video.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10437"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:58:02",
@@ -3061,7 +3046,7 @@
       "claim": "The host says her team received an interesting lead about Blake Bednarz that day and will follow it up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10909"
+        "N-10830"
       ],
       "tags": [],
       "claim_timestamp": "01:06:06",

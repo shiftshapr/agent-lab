@@ -19,13 +19,13 @@
     "- **Transcript SHA-256**: e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10d): N-11219",
-    "  - Hole-minted Nodes (reintro-ep017): N-181, N-10646, N-10650",
-    "  - Tip-minted Nodes (reintro-ep017): N-11010",
+    "  - Tip-minted Nodes (supplement_2026-10d): N-11135",
+    "  - Hole-minted Nodes (reintro-ep017): N-181, N-10590, N-10592",
+    "  - Tip-minted Nodes (reintro-ep017): N-10930",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-1511–C-1607",
-    "  - New Nodes Introduced: N-161, N-162, N-163, N-164, N-166, N-167, N-168, N-169, N-171, N-173, N-10174, N-10175, N-10177, N-10178, N-10179",
-    "  - Reused Nodes Appearing: N-36, N-46, N-71, N-101, N-138, N-154, N-155, N-130, N-10000, N-10015, N-10018, N-10025, N-10027, N-10056, N-10106, N-10125, N-10163, N-10169, N-11099, N-10345, N-170, N-10176, N-10206",
+    "  - New Nodes Introduced: N-161, N-162, N-163, N-164, N-166, N-167, N-168, N-169, N-171, N-173, N-10167, N-10168, N-10170, N-10171",
+    "  - Reused Nodes Appearing: N-11361, N-36, N-46, N-71, N-101, N-138, N-154, N-155, N-130, N-10000, N-10015, N-10018, N-10025, N-10027, N-10053, N-10102, N-10120, N-10157, N-10162, N-11017, N-10323, N-170, N-10169, N-10198",
     "",
     "**Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk – referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-11",
     "",
@@ -47,7 +47,7 @@
     "- Transcript Completeness Status: Full episode transcript provided; sponsor block segments retained verbatim",
     "- Analyst / Agent: OpenClaw Investigative Analysis Agent",
     "- Analysis Date: 2025-10-09",
-    "- Ledger Continuation Summary: Episode 17 of Bride of Charlie Monument series; first three families carry new IDs A-1236+ for Josh Hammer and Yashar Ali artifacts, C-1520+ for claim range, N-14+ for new people, N-10174+ for new investigation targets",
+    "- Ledger Continuation Summary: Episode 17 of Bride of Charlie Monument series; first three families carry new IDs A-1236+ for Josh Hammer and Yashar Ali artifacts, C-1520+ for claim range, N-14+ for new people, N-10167+ for new investigation targets",
     "",
     "---",
     "",
@@ -109,7 +109,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1520, C-1522, C-1570, N-14, N-10174*"
+     "raw": "*Related: C-1520, C-1522, C-1570, N-14, N-10167*"
     },
     {
      "raw": ""
@@ -166,7 +166,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1522, C-1525, N-14, N-161, N-162, N-10179*"
+     "raw": "*Related: C-1522, C-1525, N-14, N-161, N-162, N-10171*"
     },
     {
      "raw": ""
@@ -223,7 +223,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1531, N-163, N-162, N-10179*"
+     "raw": "*Related: C-1531, N-163, N-162, N-10171*"
     },
     {
      "raw": ""
@@ -320,7 +320,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1533, N-14, N-10174*"
+     "raw": "*Related: C-1533, N-14, N-10167*"
     },
     {
      "raw": ""
@@ -377,7 +377,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1529, N-14, N-10174*"
+     "raw": "*Related: C-1529, N-14, N-10167*"
     },
     {
      "raw": ""
@@ -491,7 +491,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1538, C-1540, C-1551, N-14, N-171, N-10178, N-43*"
+     "raw": "*Related: C-1538, C-1540, C-1551, N-14, N-171, N-10016, N-43*"
     },
     {
      "raw": ""
@@ -548,7 +548,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1549, C-1551, C-1584, N-164, N-10178*"
+     "raw": "*Related: C-1549, C-1551, C-1584, N-164, N-10016*"
     },
     {
      "raw": ""
@@ -759,7 +759,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1584, C-1585, N-93, N-167, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-10176*"
+     "raw": "*Related: C-1584, C-1585, N-93, N-167, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-10169*"
     },
     {
      "raw": ""
@@ -1323,7 +1323,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1237.1, C-1522, N-14, N-10179*"
+     "raw": "*Related: A-1237.1, C-1522, N-14, N-10171*"
     },
     {
      "raw": ""
@@ -1382,7 +1382,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1237.1, A-1238.1, A-1250.1, C-1525, N-14, N-10179*"
+     "raw": "*Related: A-1237.1, A-1238.1, A-1250.1, C-1525, N-14, N-10171*"
     },
     {
      "raw": ""
@@ -1478,7 +1478,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1243.1, C-1549, C-1551, C-1584, N-10178*"
+     "raw": "*Related: A-1243.1, C-1549, C-1551, C-1584, N-10016*"
     },
     {
      "raw": ""
@@ -1580,7 +1580,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1246.1, C-1584, N-10176*"
+     "raw": "*Related: A-1246.1, C-1584, N-10169*"
     },
     {
      "raw": ""
@@ -1628,7 +1628,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1246.1, N-10176*"
+     "raw": "*Related: A-1246.1, N-10169*"
     },
     {
      "raw": ""
@@ -1676,7 +1676,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1584, N-10176*"
+     "raw": "*Related: C-1584, N-10169*"
     },
     {
      "raw": ""
@@ -1970,7 +1970,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-1, N-14, N-10178*"
+     "raw": "*Related: N-1, N-14, N-10016*"
     },
     {
      "raw": ""
@@ -2066,7 +2066,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1246.1, N-10176*"
+     "raw": "*Related: A-1246.1, N-10169*"
     },
     {
      "raw": ""
@@ -2114,7 +2114,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1246.1, N-10176*"
+     "raw": "*Related: A-1246.1, N-10169*"
     },
     {
      "raw": ""
@@ -2183,8 +2183,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10174",
-   "header": "**N-10174** Josh Hammer September 9 Retweet Context Investigation",
+   "id": "N-10167",
+   "header": "**N-10167** Josh Hammer September 9 Retweet Context Investigation",
    "label": "Josh Hammer September 9 Retweet Context Investigation",
    "lines": [
     {
@@ -2232,8 +2232,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10175",
-   "header": "**N-10175** UVU Left-Side Footage Black Hole",
+   "id": "N-10168",
+   "header": "**N-10168** UVU Left-Side Footage Black Hole",
    "label": "UVU Left-Side Footage Black Hole",
    "lines": [
     {
@@ -2281,8 +2281,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10176",
-   "header": "**N-10176** Candace Kill Switch / Dead Man Switch",
+   "id": "N-10169",
+   "header": "**N-10169** Candace Kill Switch / Dead Man Switch",
    "label": "Candace Kill Switch / Dead Man Switch",
    "lines": [
     {
@@ -2330,8 +2330,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10177",
-   "header": "**N-10177** Charlie Kirk Final-Days Text Communications",
+   "id": "N-10170",
+   "header": "**N-10170** Charlie Kirk Final-Days Text Communications",
    "label": "Charlie Kirk Final-Days Text Communications",
    "lines": [
     {
@@ -2385,9 +2385,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10178",
-   "header": "**N-10178** Hamptons Meeting Verification",
-   "label": "Hamptons Meeting Verification",
+   "id": "N-10016",
+   "header": "**N-10016** Hamptons Meeting Pressure Investigation",
+   "label": "Hamptons Meeting Pressure Investigation",
    "lines": [
     {
      "raw": ""
@@ -2434,8 +2434,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10179",
-   "header": "**N-10179** Iryna Zarutska Murder Timeline Verification",
+   "id": "N-10171",
+   "header": "**N-10171** Iryna Zarutska Murder Timeline Verification",
    "label": "Iryna Zarutska Murder Timeline Verification",
    "lines": [
     {
@@ -2531,6 +2531,43 @@
     },
     {
      "raw": "*Related: C-1511, C-1512, C-1513, C-1516, C-1517, C-1519, C-1530, C-1536, C-1537, C-1539, C-1545, C-1546, C-1547, C-1548, C-1550, C-1552, C-1553, C-1554, C-1555, C-1556, C-1557, C-1558, C-1559, C-1561, C-1562, C-1564, C-1567, C-1569, C-1573, C-1574, C-1577, C-1579, C-1582, C-1583, C-1587, C-1588, C-1590, C-1591, C-1593, C-1594, C-1595, C-1599, C-1601, C-1605, A-3003.1, A-3005.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1518*"
     },
     {
      "raw": ""
@@ -3093,8 +3130,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10056",
-   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "id": "N-10053",
+   "header": "**N-10053** Kirk-Israel Narrative Dispute",
    "label": "Kirk-Israel Narrative Dispute",
    "lines": [
     {
@@ -3122,8 +3159,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10106",
-   "header": "**N-10106** Moral Blackmail by Donors",
+   "id": "N-10102",
+   "header": "**N-10102** Moral Blackmail by Donors",
    "label": "Moral Blackmail by Donors",
    "lines": [
     {
@@ -3151,8 +3188,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10125",
-   "header": "**N-10125** Utah",
+   "id": "N-10120",
+   "header": "**N-10120** Utah",
    "label": "Utah",
    "lines": [
     {
@@ -3180,8 +3217,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10163",
-   "header": "**N-10163** Pre-Assassination Group Chat Content",
+   "id": "N-10157",
+   "header": "**N-10157** Pre-Assassination Group Chat Content",
    "label": "Pre-Assassination Group Chat Content",
    "lines": [
     {
@@ -3209,8 +3246,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10169",
-   "header": "**N-10169** Josh Hammer Pre-Death Zoom Call Verification",
+   "id": "N-10162",
+   "header": "**N-10162** Josh Hammer Pre-Death Zoom Call Verification",
    "label": "Josh Hammer Pre-Death Zoom Call Verification",
    "lines": [
     {
@@ -3238,8 +3275,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10206",
-   "header": "**N-10206** TPUSA Text Chain Authenticity Verification",
+   "id": "N-10198",
+   "header": "**N-10198** TPUSA Text Chain Authenticity Verification",
    "label": "TPUSA Text Chain Authenticity Verification",
    "lines": [
     {
@@ -3267,8 +3304,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10345",
-   "header": "**N-10345** Hampton Retreat Seth Dillon Confrontation",
+   "id": "N-10323",
+   "header": "**N-10323** Hampton Retreat Seth Dillon Confrontation",
    "label": "Hampton Retreat Seth Dillon Confrontation",
    "lines": [
     {
@@ -3296,8 +3333,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10646",
-   "header": "**N-10646** TPUSA Rooftop Security Decision-Making Discrepancy",
+   "id": "N-10590",
+   "header": "**N-10590** TPUSA Rooftop Security Decision-Making Discrepancy",
    "label": "TPUSA Rooftop Security Decision-Making Discrepancy",
    "lines": [
     {
@@ -3325,8 +3362,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10650",
-   "header": "**N-10650** Charlie Kirk September 9 Pre-Event Threat Text",
+   "id": "N-10592",
+   "header": "**N-10592** Charlie Kirk September 9 Pre-Event Threat Text",
    "label": "Charlie Kirk September 9 Pre-Event Threat Text",
    "lines": [
     {
@@ -3354,8 +3391,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11010",
-   "header": "**N-11010** Lay-Low List Warning",
+   "id": "N-10930",
+   "header": "**N-10930** Lay-Low List Warning",
    "label": "Lay-Low List Warning",
    "lines": [
     {
@@ -3383,8 +3420,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11099",
-   "header": "**N-11099** Candace Owens Australia Visa Review",
+   "id": "N-11017",
+   "header": "**N-11017** Candace Owens Australia Visa Review",
    "label": "Candace Owens Australia Visa Review",
    "lines": [
     {
@@ -3412,8 +3449,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11219",
-   "header": "**N-11219** Charlie Kirk Security Company Ownership Question",
+   "id": "N-11135",
+   "header": "**N-11135** Charlie Kirk Security Company Ownership Question",
    "label": "Charlie Kirk Security Company Ownership Question",
    "lines": [
     {
@@ -3421,7 +3458,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "The host's statement that Charlie Kirk owned, and purchased outright, the security company around him, and that it did not check rooftops."
@@ -3483,7 +3520,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10174"
+     "v": "N-10167"
     },
     {
      "raw": ""
@@ -3536,7 +3573,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10179"
+     "v": "N-10171"
     },
     {
      "raw": ""
@@ -3589,7 +3626,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10179"
+     "v": "N-10171"
     },
     {
      "raw": ""
@@ -3635,6 +3672,10 @@
     {
      "k": "Anchored Artifacts",
      "v": "A-1244.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11361"
     },
     {
      "k": "Mentions",
@@ -3789,7 +3830,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10174"
+     "v": "N-10167"
     },
     {
      "raw": ""
@@ -3842,7 +3883,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10177"
+     "v": "N-10170"
     },
     {
      "raw": ""
@@ -3895,7 +3936,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10177, N-10178"
+     "v": "N-10170, N-10016"
     },
     {
      "raw": ""
@@ -3948,7 +3989,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10178"
+     "v": "N-10016"
     },
     {
      "raw": ""
@@ -4001,7 +4042,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10178"
+     "v": "N-10016"
     },
     {
      "raw": ""
@@ -4103,7 +4144,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10176"
+     "v": "N-10169"
     },
     {
      "raw": ""
@@ -4156,7 +4197,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10176"
+     "v": "N-10169"
     },
     {
      "raw": ""
@@ -4307,7 +4348,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10174"
+     "v": "N-10167"
     },
     {
      "raw": ""
@@ -4415,7 +4456,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10175"
+     "v": "N-10168"
     },
     {
      "raw": ""
@@ -4470,7 +4511,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10175"
+     "v": "N-10168"
     },
     {
      "raw": ""
@@ -4640,7 +4681,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Supports",
@@ -4705,7 +4746,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -4766,7 +4807,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -4827,7 +4868,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -4888,7 +4929,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10178, N-10027"
+     "v": "N-10016, N-10027"
     },
     {
      "k": "Tags",
@@ -4949,7 +4990,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10345, N-10027"
+     "v": "N-10323, N-10027"
     },
     {
      "k": "Supports",
@@ -5014,7 +5055,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -5132,7 +5173,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10179, N-10174"
+     "v": "N-10171, N-10167"
     },
     {
      "k": "Supports",
@@ -5197,7 +5238,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10174"
+     "v": "N-10167"
     },
     {
      "k": "Tags",
@@ -5258,7 +5299,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10174, N-10179"
+     "v": "N-10167, N-10171"
     },
     {
      "k": "Supports",
@@ -5323,7 +5364,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10179, N-10174"
+     "v": "N-10171, N-10167"
     },
     {
      "k": "Tags",
@@ -5384,7 +5425,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10174, N-10169"
+     "v": "N-10167, N-10162"
     },
     {
      "k": "Supports",
@@ -5449,7 +5490,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10174"
+     "v": "N-10167"
     },
     {
      "k": "Supports",
@@ -5575,7 +5616,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10025, N-10106"
+     "v": "N-10025, N-10102"
     },
     {
      "k": "Supports",
@@ -5640,7 +5681,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Supports",
@@ -5705,7 +5746,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Tags",
@@ -5766,7 +5807,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -5998,7 +6039,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Supports",
@@ -6063,7 +6104,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10163, N-10206, N-10178"
+     "v": "N-10157, N-10198, N-10016"
     },
     {
      "k": "Supports",
@@ -6254,7 +6295,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Tags",
@@ -6372,7 +6413,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Supports",
@@ -6437,7 +6478,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10177, N-10025"
+     "v": "N-10170, N-10025"
     },
     {
      "k": "Supports",
@@ -6502,7 +6543,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -6563,7 +6604,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10163, N-10106"
+     "v": "N-10157, N-10102"
     },
     {
      "k": "Supports",
@@ -6628,7 +6669,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10163, N-10206"
+     "v": "N-10157, N-10198"
     },
     {
      "k": "Supports",
@@ -6693,7 +6734,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10163, N-10169"
+     "v": "N-10157, N-10162"
     },
     {
      "k": "Supports",
@@ -6758,7 +6799,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10177, N-10650"
+     "v": "N-10170, N-10592"
     },
     {
      "k": "Tags",
@@ -6819,7 +6860,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Tags",
@@ -6945,7 +6986,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -7006,7 +7047,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -7067,7 +7108,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056, N-10125"
+     "v": "N-10053, N-10120"
     },
     {
      "k": "Tags",
@@ -7128,7 +7169,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10175"
+     "v": "N-10168"
     },
     {
      "k": "Tags",
@@ -7189,7 +7230,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10175"
+     "v": "N-10168"
     },
     {
      "k": "Supports",
@@ -7433,7 +7474,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -7494,7 +7535,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11010"
+     "v": "N-10930"
     },
     {
      "k": "Tags",
@@ -7555,7 +7596,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11010"
+     "v": "N-10930"
     },
     {
      "k": "Tags",
@@ -7616,7 +7657,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11010"
+     "v": "N-10930"
     },
     {
      "k": "Tags",
@@ -7677,7 +7718,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11010"
+     "v": "N-10930"
     },
     {
      "k": "Tags",
@@ -7738,7 +7779,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10176"
+     "v": "N-10169"
     },
     {
      "k": "Supports",
@@ -7860,7 +7901,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10176"
+     "v": "N-10169"
     },
     {
      "k": "Tags",
@@ -7921,7 +7962,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10176"
+     "v": "N-10169"
     },
     {
      "k": "Supports",
@@ -7986,7 +8027,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10177"
+     "v": "N-10170"
     },
     {
      "k": "Tags",
@@ -8047,7 +8088,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10177, N-10650"
+     "v": "N-10170, N-10592"
     },
     {
      "k": "Tags",
@@ -8108,7 +8149,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10176"
+     "v": "N-10169"
     },
     {
      "k": "Supports",
@@ -8173,7 +8214,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -8234,7 +8275,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056, N-10177"
+     "v": "N-10053, N-10170"
     },
     {
      "k": "Tags",
@@ -8474,7 +8515,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -8535,7 +8576,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11219, N-10646"
+     "v": "N-11135, N-10590"
     },
     {
      "k": "Tags",
@@ -8596,7 +8637,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11219, N-10646"
+     "v": "N-11135, N-10590"
     },
     {
      "k": "Tags",
@@ -8897,7 +8938,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10125"
+     "v": "N-10120"
     },
     {
      "k": "Tags",
@@ -8958,7 +8999,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10106"
+     "v": "N-10102"
     },
     {
      "k": "Supports",
@@ -9080,7 +9121,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11099"
+     "v": "N-11017"
     },
     {
      "k": "Tags",
@@ -9222,18 +9263,18 @@
     "",
     "Cross-references are embedded in each artifact, claim, and node entry above. Network summary:",
     "",
-    "- **Central investigative thread:** A-1236.1 → C-1520 → N-14 → N-10174",
-    "- **Failed contextualization chain:** A-1236.1 ↔ A-1237.1 → C-1522 → N-161 → N-162 → N-10179 (contradiction: Ali date vs. C-1525 Sept 5 anchor)",
+    "- **Central investigative thread:** A-1236.1 → C-1520 → N-14 → N-10167",
+    "- **Failed contextualization chain:** A-1236.1 ↔ A-1237.1 → C-1522 → N-161 → N-162 → N-10171 (contradiction: Ali date vs. C-1525 Sept 5 anchor)",
     "- **Comparative anchor:** A-1238.1 ↔ C-1531 ↔ N-163",
-    "- **Historical precedent:** A-1239.2 ↔ C-1533 ↔ N-14 ↔ N-10174",
+    "- **Historical precedent:** A-1239.2 ↔ C-1533 ↔ N-14 ↔ N-10167",
     "- **Self-incriminating post:** A-1239.1 ↔ C-1534 ↔ N-14",
-    "- **Last-call narrative cluster:** A-1241.1 ↔ A-1242.1 ↔ A-1243.1 → C-1538, C-1540, C-1549, C-1551 ↔ N-14 ↔ N-164 ↔ N-1 ↔ N-10177 ↔ N-10178 (note: artifact-backed contradiction between JTV narrative and Wolicki narrative on Charlie's direction of travel; both audio-anchored)",
+    "- **Last-call narrative cluster:** A-1241.1 ↔ A-1242.1 ↔ A-1243.1 → C-1538, C-1540, C-1549, C-1551 ↔ N-14 ↔ N-164 ↔ N-1 ↔ N-10170 ↔ N-10016 (note: artifact-backed contradiction between JTV narrative and Wolicki narrative on Charlie's direction of travel; both audio-anchored)",
     "- **Memorial analogy:** A-1244.1 ↔ C-1518",
     "- **External attack:** A-1245.1, A-1245.2 ↔ C-1570 ↔ N-168, N-169",
-    "- **Kill switch confirmation:** A-1246.1 ↔ C-1584 ↔ C-1585 ↔ N-93 ↔ N-167 ↔ N-39 ↔ N-170 ↔ N-10176",
+    "- **Kill switch confirmation:** A-1246.1 ↔ C-1584 ↔ C-1585 ↔ N-93 ↔ N-167 ↔ N-39 ↔ N-170 ↔ N-10169",
     "- **Comic relief artifact (non-evidentiary):** A-1247.1 ↔ C-1585 ↔ N-166",
-    "- **UVU APB cluster (un-anchored):** N-10175 ↔ C-1566 ↔ C-1565",
-    "- **Un-anchored Charlie-text-cluster:** N-10177 (artifact verbally referenced but not shown)",
+    "- **UVU APB cluster (un-anchored):** N-10168 ↔ C-1566 ↔ C-1565",
+    "- **Un-anchored Charlie-text-cluster:** N-10170 (artifact verbally referenced but not shown)",
     "",
     "---",
     "",
@@ -9727,7 +9768,7 @@
     "- **Name uncertainty (Yishai):** A-1245.2 attributed to \"Yishai\" only; full handle not captured.",
     "- **Name uncertainty (Ali):** JTV host in A-1242.1 referred to only by first name \"Ali.\" N-171 created with that exact spelling.",
     "- **Name uncertainty (Sam Parker):** Referenced by Yashar Ali (A-1237.1) as \"notorious neo-Nazi Sam Parker.\" Not anchored independently in this episode.",
-    "- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) – author and document not identified; Charlie's \"they are going to kill me\" texts and Israel-speech-infringement texts (referenced by host – see N-10177, C-1538 through C-1551 adjacency); the John and Irina Mappin letter (referenced in comments but not displayed).",
+    "- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) – author and document not identified; Charlie's \"they are going to kill me\" texts and Israel-speech-infringement texts (referenced by host – see N-10170, C-1538 through C-1551 adjacency); the John and Irina Mappin letter (referenced in comments but not displayed).",
     "- **Claim failed admission test:** C-1597 (Tyler Bowyer), C-1566 (UVU footage black hole), C-1565 (UVU suspect profile bulletin) – no artifact anchors in this episode. Bulleted as targets/investigative requests rather than artifact-backed claims.",
     "- **Transcript ambiguity (Trump quote wording):** Host reads \"Should be public execution for all to see. You will end this bull fast.\" – word \"bull\" preserved as is; may be a transcription artifact of a stronger word.",
     "- **Timestamp uncertainty:** The JTV segment (A-1242.1) is described as \"a few days after Charlie's death\" but not dated explicitly; the Gabriel media appearance (A-1250.1) is undated; the Wolicki interview (A-1243.1) is undated. Best-effort anchor dates preserved only as \"post-Sept-10.\"",

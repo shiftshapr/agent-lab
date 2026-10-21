@@ -18,12 +18,12 @@
     "- **Transcript SHA-256**: 3bf03b43dc5dbbd012ed6256f2ca3be30cbc97e23d398d12fc3dff776d32ccc0",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10d): N-11245, N-11246, N-11247, N-11248, N-11249",
-    "  - Hole-minted Nodes (reintro-ep072): N-10517, N-10520, N-10526, N-10527, N-10665, N-10764",
+    "  - Tip-minted Nodes (supplement_2026-10d): N-11161, N-11162, N-11163, N-11164, N-11165",
+    "  - Hole-minted Nodes (reintro-ep072): N-10476, N-10483, N-10693",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-6416–C-6509",
-    "  - New Nodes Introduced: N-556, N-557, N-558, N-559, N-10501, N-10502, N-10504, N-10505",
-    "  - Reused Nodes Appearing: N-2, N-11, N-3, N-544, N-552, N-1, N-326, N-38, N-40, N-55, N-60, N-82, N-97, N-99, N-159, N-164, N-190, N-217, N-270, N-278, N-553, N-707, N-10000, N-10012, N-10026, N-10027, N-10063, N-10085, N-10117, N-10148, N-10169, N-10180, N-10187, N-10268, N-10334, N-10340, N-10345, N-10374, N-10386, N-10406, N-10419, N-10428, N-10446, N-10447, N-10456, N-10470, N-10482, N-10493, N-10495, N-10498, N-10905, N-10968, N-11104, N-11110, N-11165, N-10503, N-11188",
+    "  - New Nodes Introduced: N-556, N-557, N-558, N-559, N-10462, N-10463, N-10465, N-10466",
+    "  - Reused Nodes Appearing: N-11361, N-2, N-11, N-3, N-544, N-552, N-1, N-326, N-38, N-40, N-55, N-60, N-82, N-97, N-99, N-159, N-164, N-190, N-217, N-270, N-278, N-553, N-707, N-10000, N-10012, N-10026, N-10027, N-10060, N-10081, N-10113, N-10143, N-10162, N-10172, N-10179, N-10252, N-10313, N-10318, N-10323, N-10348, N-10359, N-10379, N-10392, N-10415, N-10416, N-10425, N-10439, N-10214, N-10280, N-10458, N-10460, N-10826, N-10889, N-11022, N-11028, N-11081, N-10464, N-11104",
     "  - (see registers)",
     "",
     "## 2. Executive Summary",
@@ -84,7 +84,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-6480, N-2, N-10501, N-10503*"
+     "raw": "*Related: C-6480, N-2, N-10462, N-10464*"
     },
     {
      "raw": ""
@@ -141,7 +141,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-6467, N-204, N-10502*"
+     "raw": "*Related: C-6467, N-204, N-10463*"
     },
     {
      "raw": ""
@@ -198,7 +198,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-6470, N-556, N-204, N-10502*"
+     "raw": "*Related: C-6470, N-556, N-204, N-10463*"
     },
     {
      "raw": ""
@@ -462,7 +462,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-6468, N-204, N-556, N-14, N-10502*"
+     "raw": "*Related: C-6468, N-204, N-556, N-14, N-10463*"
     },
     {
      "raw": ""
@@ -519,7 +519,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-2, N-237, N-10505*"
+     "raw": "*Related: N-2, N-237, N-10466*"
     },
     {
      "raw": ""
@@ -1173,7 +1173,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1765.1, C-6470, N-10502*"
+     "raw": "*Related: A-1765.1, C-6470, N-10463*"
     },
     {
      "raw": ""
@@ -1221,7 +1221,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1764.1, A-1769.1, N-556, N-10502*"
+     "raw": "*Related: A-1764.1, A-1769.1, N-556, N-10463*"
     },
     {
      "raw": ""
@@ -1413,7 +1413,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1770.1, N-2, N-10505*"
+     "raw": "*Related: A-1770.1, N-2, N-10466*"
     },
     {
      "raw": ""
@@ -1461,7 +1461,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-2, N-10505*"
+     "raw": "*Related: N-2, N-10466*"
     },
     {
      "raw": ""
@@ -1509,7 +1509,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-2, N-10505*"
+     "raw": "*Related: N-2, N-10466*"
     },
     {
      "raw": ""
@@ -1557,7 +1557,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-2, N-14, N-10505*"
+     "raw": "*Related: N-2, N-14, N-10466*"
     },
     {
      "raw": ""
@@ -1620,8 +1620,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10501",
-   "header": "**N-10501** Erika Kirk Real Estate License Timing Question",
+   "id": "N-10462",
+   "header": "**N-10462** Erika Kirk Real Estate License Timing Question",
    "label": "Erika Kirk Real Estate License Timing Question",
    "lines": [
     {
@@ -1668,8 +1668,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10502",
-   "header": "**N-10502** Erika Kirk Corcoran Group Employment Verification",
+   "id": "N-10463",
+   "header": "**N-10463** Erika Kirk Corcoran Group Employment Verification",
    "label": "Erika Kirk Corcoran Group Employment Verification",
    "lines": [
     {
@@ -1716,8 +1716,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10503",
-   "header": "**N-10503** Erika Kirk September 10 Assistant Pull-Back Investigation",
+   "id": "N-10464",
+   "header": "**N-10464** Erika Kirk September 10 Assistant Pull-Back Investigation",
    "label": "Erika Kirk September 10 Assistant Pull-Back Investigation",
    "lines": [
     {
@@ -1765,9 +1765,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10504",
-   "header": "**N-10504** Erika Kirk Educational Timeline Verification Gap",
-   "label": "Erika Kirk Educational Timeline Verification Gap",
+   "id": "N-10465",
+   "header": "**N-10465** Erika Kirk Educational Credentials Discrepancy",
+   "label": "Erika Kirk Educational Credentials Discrepancy",
    "lines": [
     {
      "raw": ""
@@ -1814,8 +1814,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10505",
-   "header": "**N-10505** Erika Kirk Post-Assassination Conduct Composite",
+   "id": "N-10466",
+   "header": "**N-10466** Erika Kirk Post-Assassination Conduct Composite",
    "label": "Erika Kirk Post-Assassination Conduct Composite",
    "lines": [
     {
@@ -1895,8 +1895,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11245",
-   "header": "**N-11245** Netanyahu Erika Kirk Shapiro Palm Beach Filming Cancellation",
+   "id": "N-11161",
+   "header": "**N-11161** Netanyahu Erika Kirk Shapiro Palm Beach Filming Cancellation",
    "label": "Netanyahu Erika Kirk Shapiro Palm Beach Filming Cancellation",
    "lines": [
     {
@@ -1904,7 +1904,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Event"
     },
     {
      "raw": "Host-alleged joint filming of Benjamin Netanyahu, Erika Kirk and Ben Shapiro scheduled in Palm Beach weeks before this episode, possibly for the Super Bowl, which was canceled at the last second."
@@ -1928,8 +1928,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11246",
-   "header": "**N-11246** Proclaim Streetwear",
+   "id": "N-11162",
+   "header": "**N-11162** Proclaim Streetwear",
    "label": "Proclaim Streetwear",
    "lines": [
     {
@@ -1961,8 +1961,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11247",
-   "header": "**N-11247** Regis University",
+   "id": "N-11163",
+   "header": "**N-11163** Regis University",
    "label": "Regis University",
    "lines": [
     {
@@ -1994,8 +1994,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11248",
-   "header": "**N-11248** Arizona State University",
+   "id": "N-11164",
+   "header": "**N-11164** Arizona State University",
    "label": "Arizona State University",
    "lines": [
     {
@@ -2027,8 +2027,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11249",
-   "header": "**N-11249** The Perch Fallout Fund",
+   "id": "N-11165",
+   "header": "**N-11165** The Perch Fallout Fund",
    "label": "The Perch Fallout Fund",
    "lines": [
     {
@@ -2075,6 +2075,43 @@
     },
     {
      "raw": "*Related: C-6416, C-6417, C-6418, C-6419, C-6421, C-6428, C-6431, C-6435, C-6436, C-6437, C-6439, C-6440, C-6441, C-6442, C-6443, C-6444, C-6445, C-6447, C-6448, C-6450, C-6451, C-6456, C-6466, C-6469, C-6471, C-6475, C-6477, C-6478, C-6479, C-6481, C-6482, C-6483, C-6484, C-6485, C-6486, C-6487, C-6488, C-6489, C-6490, C-6491*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6472, C-6473*"
     },
     {
      "raw": ""
@@ -2727,8 +2764,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10063",
-   "header": "**N-10063** Gaza",
+   "id": "N-10060",
+   "header": "**N-10060** Gaza",
    "label": "Gaza",
    "lines": [
     {
@@ -2756,8 +2793,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10085",
-   "header": "**N-10085** Exit Wound / Bullet Trajectory Discrepancy",
+   "id": "N-10081",
+   "header": "**N-10081** Exit Wound / Bullet Trajectory Discrepancy",
    "label": "Exit Wound / Bullet Trajectory Discrepancy",
    "lines": [
     {
@@ -2785,8 +2822,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10117",
-   "header": "**N-10117** Jezebel/Etsy Hex on Charlie Kirk",
+   "id": "N-10113",
+   "header": "**N-10113** Jezebel/Etsy Hex on Charlie Kirk",
    "label": "Jezebel/Etsy Hex on Charlie Kirk",
    "lines": [
     {
@@ -2814,8 +2851,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10148",
-   "header": "**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim",
+   "id": "N-10143",
+   "header": "**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim",
    "label": "Charlie Kirk Pre-Mortem Israel Position Claim",
    "lines": [
     {
@@ -2843,8 +2880,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10169",
-   "header": "**N-10169** Josh Hammer Pre-Death Zoom Call Verification",
+   "id": "N-10162",
+   "header": "**N-10162** Josh Hammer Pre-Death Zoom Call Verification",
    "label": "Josh Hammer Pre-Death Zoom Call Verification",
    "lines": [
     {
@@ -2872,8 +2909,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10180",
-   "header": "**N-10180** Bullet Trajectory and Caliber Verification",
+   "id": "N-10172",
+   "header": "**N-10172** Bullet Trajectory and Caliber Verification",
    "label": "Bullet Trajectory and Caliber Verification",
    "lines": [
     {
@@ -2901,8 +2938,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10187",
-   "header": "**N-10187** Josh Hammer Text Messages Context",
+   "id": "N-10179",
+   "header": "**N-10179** Josh Hammer Text Messages Context",
    "label": "Josh Hammer Text Messages Context",
    "lines": [
     {
@@ -2930,8 +2967,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10268",
-   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "id": "N-10252",
+   "header": "**N-10252** AmFest Speaker Removal Pattern",
    "label": "AmFest Speaker Removal Pattern",
    "lines": [
     {
@@ -2959,8 +2996,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10334",
-   "header": "**N-10334** CBS Bari Weiss Town Hall Production Integrity",
+   "id": "N-10313",
+   "header": "**N-10313** CBS Bari Weiss Town Hall Production Integrity",
    "label": "CBS Bari Weiss Town Hall Production Integrity",
    "lines": [
     {
@@ -2988,8 +3025,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10340",
-   "header": "**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "id": "N-10318",
+   "header": "**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
    "label": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
    "lines": [
     {
@@ -3017,8 +3054,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10345",
-   "header": "**N-10345** Hampton Retreat Seth Dillon Confrontation",
+   "id": "N-10323",
+   "header": "**N-10323** Hampton Retreat Seth Dillon Confrontation",
    "label": "Hampton Retreat Seth Dillon Confrontation",
    "lines": [
     {
@@ -3046,8 +3083,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10374",
-   "header": "**N-10374** Erika Kirk Pre-Charlie Dating History Verification",
+   "id": "N-10348",
+   "header": "**N-10348** Erika Kirk Pre-Charlie Dating History Verification",
    "label": "Erika Kirk Pre-Charlie Dating History Verification",
    "lines": [
     {
@@ -3075,8 +3112,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10386",
-   "header": "**N-10386** Ben Shapiro Hostile Takeover Pattern",
+   "id": "N-10359",
+   "header": "**N-10359** Ben Shapiro Hostile Takeover Pattern",
    "label": "Ben Shapiro Hostile Takeover Pattern",
    "lines": [
     {
@@ -3104,8 +3141,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10406",
-   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "id": "N-10379",
+   "header": "**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
    "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
    "lines": [
     {
@@ -3133,37 +3170,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10419",
-   "header": "**N-10419** Erika China Residence Discrepancy",
-   "label": "Erika China Residence Discrepancy",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Existing node reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-6491*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10428",
-   "header": "**N-10428** Erika Kirk China Timeline Discrepancy",
+   "id": "N-10392",
+   "header": "**N-10392** Erika Kirk China Timeline Discrepancy",
    "label": "Erika Kirk China Timeline Discrepancy",
    "lines": [
     {
@@ -3191,8 +3199,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10446",
-   "header": "**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy",
+   "id": "N-10415",
+   "header": "**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy",
    "label": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
    "lines": [
     {
@@ -3220,8 +3228,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10447",
-   "header": "**N-10447** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "id": "N-10416",
+   "header": "**N-10416** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "label": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "lines": [
     {
@@ -3249,8 +3257,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10456",
-   "header": "**N-10456** Charlie Kirk BB Netanyahu Show Refusal",
+   "id": "N-10425",
+   "header": "**N-10425** Charlie Kirk BB Netanyahu Show Refusal",
    "label": "Charlie Kirk BB Netanyahu Show Refusal",
    "lines": [
     {
@@ -3278,8 +3286,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10470",
-   "header": "**N-10470** Dan Flood Message Format Discrepancy",
+   "id": "N-10439",
+   "header": "**N-10439** Dan Flood Message Format Discrepancy",
    "label": "Dan Flood Message Format Discrepancy",
    "lines": [
     {
@@ -3307,9 +3315,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10482",
-   "header": "**N-10482** Mikey McCoy Phone Call Sequence",
-   "label": "Mikey McCoy Phone Call Sequence",
+   "id": "N-10214",
+   "header": "**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence",
+   "label": "Mikey McCoy Post-Shooting Phone Call Sequence",
    "lines": [
     {
      "raw": ""
@@ -3336,9 +3344,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10493",
-   "header": "**N-10493** Pierre / French Donor Investigation",
-   "label": "Pierre / French Donor Investigation",
+   "id": "N-10280",
+   "header": "**N-10280** Pierre Dupont Donor Identity Verification Question",
+   "label": "Pierre Dupont Donor Identity Verification Question",
    "lines": [
     {
      "raw": ""
@@ -3365,8 +3373,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10495",
-   "header": "**N-10495** BB Netanyahu Hamptons Dinner Allegation",
+   "id": "N-10458",
+   "header": "**N-10458** BB Netanyahu Hamptons Dinner Allegation",
    "label": "BB Netanyahu Hamptons Dinner Allegation",
    "lines": [
     {
@@ -3394,8 +3402,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10498",
-   "header": "**N-10498** Tracy's Daughter Erika Assistant Status Verification",
+   "id": "N-10460",
+   "header": "**N-10460** Tracy's Daughter Erika Assistant Status Verification",
    "label": "Tracy's Daughter Erika Assistant Status Verification",
    "lines": [
     {
@@ -3423,8 +3431,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10517",
-   "header": "**N-10517** Erika Kirk Loyola Marymount Attendance Verification",
+   "id": "N-10476",
+   "header": "**N-10476** Erika Kirk Loyola Marymount Attendance Verification",
    "label": "Erika Kirk Loyola Marymount Attendance Verification",
    "lines": [
     {
@@ -3452,66 +3460,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10520",
-   "header": "**N-10520** Erika Kirk Corcoran Real Estate Anomaly",
-   "label": "Erika Kirk Corcoran Real Estate Anomaly",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Existing node reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-6484, C-6485*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10526",
-   "header": "**N-10526** Erika NY Real Estate License Verification Question",
-   "label": "Erika NY Real Estate License Verification Question",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Existing node reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-6479*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10527",
-   "header": "**N-10527** Erika Real Estate Bio Credential Verification Question",
+   "id": "N-10483",
+   "header": "**N-10483** Erika Real Estate Bio Credential Verification Question",
    "label": "Erika Real Estate Bio Credential Verification Question",
    "lines": [
     {
@@ -3539,37 +3489,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10665",
-   "header": "**N-10665** Erika Kirk Educational Credentials Discrepancy",
-   "label": "Erika Kirk Educational Credentials Discrepancy",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Existing node reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-6488*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10764",
-   "header": "**N-10764** Kirk Religious Affiliation Status",
+   "id": "N-10693",
+   "header": "**N-10693** Kirk Religious Affiliation Status",
    "label": "Kirk Religious Affiliation Status",
    "lines": [
     {
@@ -3597,8 +3518,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10905",
-   "header": "**N-10905** New York Times Erika Kirk Interview Account Discrepancies",
+   "id": "N-10826",
+   "header": "**N-10826** New York Times Erika Kirk Interview Account Discrepancies",
    "label": "New York Times Erika Kirk Interview Account Discrepancies",
    "lines": [
     {
@@ -3626,8 +3547,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10968",
-   "header": "**N-10968** The New York Times",
+   "id": "N-10889",
+   "header": "**N-10889** The New York Times",
    "label": "The New York Times",
    "lines": [
     {
@@ -3655,8 +3576,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11104",
-   "header": "**N-11104** Liberty University",
+   "id": "N-11022",
+   "header": "**N-11022** Liberty University",
    "label": "Liberty University",
    "lines": [
     {
@@ -3684,8 +3605,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11110",
-   "header": "**N-11110** Erika Kirk and Tyler Bowyer First-Meeting Account",
+   "id": "N-11028",
+   "header": "**N-11028** Erika Kirk and Tyler Bowyer First-Meeting Account",
    "label": "Erika Kirk and Tyler Bowyer First-Meeting Account",
    "lines": [
     {
@@ -3713,8 +3634,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11165",
-   "header": "**N-11165** Romanian Angels Project",
+   "id": "N-11081",
+   "header": "**N-11081** Romanian Angels Project",
    "label": "Romanian Angels Project",
    "lines": [
     {
@@ -3742,8 +3663,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11188",
-   "header": "**N-11188** White House Religious Liberty Commission",
+   "id": "N-11104",
+   "header": "**N-11104** White House Religious Liberty Commission",
    "label": "White House Religious Liberty Commission",
    "lines": [
     {
@@ -3812,7 +3733,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10502"
+     "v": "N-10463"
     },
     {
      "raw": ""
@@ -3868,7 +3789,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10502"
+     "v": "N-10463"
     },
     {
      "raw": ""
@@ -3924,7 +3845,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10501"
+     "v": "N-10462"
     },
     {
      "raw": ""
@@ -3970,6 +3891,10 @@
     {
      "k": "Anchored Artifacts",
      "v": "A-1766.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11361"
     },
     {
      "k": "Mentions",
@@ -4344,7 +4269,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10502"
+     "v": "N-10463"
     },
     {
      "raw": ""
@@ -4508,7 +4433,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10485"
+     "v": "N-10440"
     },
     {
      "k": "Investigative Direction",
@@ -4679,7 +4604,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10482"
+     "v": "N-10214"
     },
     {
      "k": "Tags",
@@ -4797,7 +4722,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10498"
+     "v": "N-10460"
     },
     {
      "k": "Tags",
@@ -4919,7 +4844,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10503, N-10012"
+     "v": "N-10464, N-10012"
     },
     {
      "k": "Tags",
@@ -4980,7 +4905,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10148"
+     "v": "N-10143"
     },
     {
      "k": "Supports",
@@ -5045,7 +4970,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10268"
+     "v": "N-10000, N-10252"
     },
     {
      "k": "Tags",
@@ -5106,7 +5031,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10148"
+     "v": "N-10143"
     },
     {
      "k": "Tags",
@@ -5167,7 +5092,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Supports",
@@ -5232,7 +5157,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10187"
+     "v": "N-10179"
     },
     {
      "k": "Supports",
@@ -5297,7 +5222,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10187"
+     "v": "N-10179"
     },
     {
      "k": "Tags",
@@ -5358,7 +5283,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Supports",
@@ -5423,7 +5348,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340"
+     "v": "N-10318"
     },
     {
      "k": "Supports",
@@ -5488,7 +5413,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10117"
+     "v": "N-10113"
     },
     {
      "k": "Supports",
@@ -5553,7 +5478,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10117"
+     "v": "N-10113"
     },
     {
      "k": "Supports",
@@ -5618,7 +5543,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10498"
+     "v": "N-10460"
     },
     {
      "k": "Tags",
@@ -5679,7 +5604,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10447"
+     "v": "N-10416"
     },
     {
      "k": "Supports",
@@ -5744,7 +5669,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10447"
+     "v": "N-10416"
     },
     {
      "k": "Supports",
@@ -5809,7 +5734,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10085, N-10180"
+     "v": "N-10081, N-10172"
     },
     {
      "k": "Tags",
@@ -5870,7 +5795,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10447"
+     "v": "N-10416"
     },
     {
      "k": "Supports",
@@ -5935,7 +5860,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340"
+     "v": "N-10318"
     },
     {
      "k": "Tags",
@@ -5996,7 +5921,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340"
+     "v": "N-10318"
     },
     {
      "k": "Tags",
@@ -6057,7 +5982,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340, N-10470"
+     "v": "N-10318, N-10439"
     },
     {
      "k": "Tags",
@@ -6118,7 +6043,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10495, N-10446, N-10027"
+     "v": "N-10458, N-10415, N-10027"
     },
     {
      "k": "Tags",
@@ -6179,7 +6104,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10334"
+     "v": "N-10313"
     },
     {
      "k": "Tags",
@@ -6240,7 +6165,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10268"
+     "v": "N-10252"
     },
     {
      "k": "Tags",
@@ -6301,7 +6226,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10968, N-10905"
+     "v": "N-10889, N-10826"
     },
     {
      "k": "Tags",
@@ -6476,7 +6401,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10386"
+     "v": "N-10359"
     },
     {
      "k": "Supports",
@@ -6541,7 +6466,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10456"
+     "v": "N-10425"
     },
     {
      "k": "Tags",
@@ -6602,7 +6527,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11245"
+     "v": "N-11161"
     },
     {
      "k": "Tags",
@@ -6663,7 +6588,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10148"
+     "v": "N-10143"
     },
     {
      "k": "Tags",
@@ -7074,7 +6999,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10406, N-10026"
+     "v": "N-10379, N-10026"
     },
     {
      "k": "Tags",
@@ -7135,7 +7060,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10148"
+     "v": "N-10143"
     },
     {
      "k": "Tags",
@@ -7257,7 +7182,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11165"
+     "v": "N-11081"
     },
     {
      "k": "Tags",
@@ -7318,7 +7243,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10502"
+     "v": "N-10463"
     },
     {
      "k": "Tags",
@@ -7379,7 +7304,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11110, N-10000"
+     "v": "N-11028, N-10000"
     },
     {
      "k": "Supports",
@@ -7444,7 +7369,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11110"
+     "v": "N-11028, N-11361"
     },
     {
      "k": "Supports",
@@ -7509,7 +7434,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11110"
+     "v": "N-11028"
     },
     {
      "k": "Tags",
@@ -7631,7 +7556,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10501"
+     "v": "N-10462"
     },
     {
      "k": "Tags",
@@ -7692,7 +7617,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10501, N-10526"
+     "v": "N-10462"
     },
     {
      "k": "Supports",
@@ -7757,7 +7682,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11246"
+     "v": "N-11162"
     },
     {
      "k": "Tags",
@@ -7875,7 +7800,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11246"
+     "v": "N-11162"
     },
     {
      "k": "Tags",
@@ -7936,7 +7861,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11246, N-11104, N-10520"
+     "v": "N-11162, N-11022, N-10463"
     },
     {
      "k": "Tags",
@@ -7997,7 +7922,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10520, N-10502"
+     "v": "N-10463"
     },
     {
      "k": "Tags",
@@ -8058,7 +7983,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10527"
+     "v": "N-10483"
     },
     {
      "k": "Tags",
@@ -8119,7 +8044,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10374"
+     "v": "N-10348"
     },
     {
      "k": "Tags",
@@ -8180,7 +8105,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11247, N-11248, N-11104, N-10504, N-10665, N-10517"
+     "v": "N-11163, N-11164, N-11022, N-10465, N-10476"
     },
     {
      "k": "Tags",
@@ -8241,7 +8166,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10504"
+     "v": "N-10465"
     },
     {
      "k": "Tags",
@@ -8302,7 +8227,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10504"
+     "v": "N-10465"
     },
     {
      "k": "Tags",
@@ -8363,7 +8288,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10419, N-10428"
+     "v": "N-10392"
     },
     {
      "k": "Tags",
@@ -8725,7 +8650,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-11249"
+     "v": "N-10000, N-11165"
     },
     {
      "k": "Tags",
@@ -8786,7 +8711,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10493"
+     "v": "N-10000, N-10280"
     },
     {
      "k": "Tags",
@@ -8908,7 +8833,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10148"
+     "v": "N-10143"
     },
     {
      "k": "Supports",
@@ -8973,7 +8898,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10345"
+     "v": "N-10323"
     },
     {
      "k": "Tags",
@@ -9034,7 +8959,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11188"
+     "v": "N-11104"
     },
     {
      "k": "Tags",
@@ -9152,7 +9077,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10063"
+     "v": "N-10060"
     },
     {
      "k": "Tags",
@@ -9388,7 +9313,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10764"
+     "v": "N-10693"
     },
     {
      "k": "Tags",

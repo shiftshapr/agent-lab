@@ -37,7 +37,7 @@
             "C-9223"
           ],
           "related_nodes": [
-            "N-10923",
+            "N-10844",
             "N-2",
             "N-160",
             "N-620",
@@ -59,7 +59,7 @@
             "C-9222"
           ],
           "related_nodes": [
-            "N-10923"
+            "N-10844"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -86,7 +86,7 @@
           "related_nodes": [
             "N-370",
             "N-2",
-            "N-10638"
+            "N-10583"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -115,7 +115,7 @@
           ],
           "related_nodes": [
             "N-15",
-            "N-10924"
+            "N-10845"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -144,7 +144,7 @@
             "N-2",
             "N-16",
             "N-1",
-            "N-10927"
+            "N-10848"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -235,7 +235,7 @@
           "related_nodes": [
             "N-82",
             "N-377",
-            "N-10928"
+            "N-10849"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -256,7 +256,7 @@
             "N-82",
             "N-377",
             "N-623",
-            "N-10928"
+            "N-10849"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -703,11 +703,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose canary-email practice, COO promotion, audit, book order and paid chapter leaders are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -721,14 +721,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@type": "Place",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Source of the rescinded communications email; Sergio Gor's former office there is said to have exchanged staff with Charlie Kirk's office.",
       "related_artifacts": [],
       "related_claims": [
@@ -741,14 +743,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@type": "Topic",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The audit announced with Streiff's promotion, and Charlie Kirk's internal DOGE.",
       "related_artifacts": [],
       "related_claims": [
@@ -759,14 +763,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the decision on Erika Kirk taking over the board and CEO role was made within 48 hours.",
       "related_artifacts": [],
       "related_claims": [
@@ -776,14 +781,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10300",
-      "ref": "N-10300",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10282",
+      "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Restated (Pierre) and extended with the alleged book-printer call.",
       "related_artifacts": [],
       "related_claims": [
@@ -794,14 +800,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10388",
-      "ref": "N-10388",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10361",
+      "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Outside and insider tips of about $10 million missing from Turning Point Action.",
       "related_artifacts": [],
       "related_claims": [
@@ -814,14 +821,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10493",
-      "ref": "N-10493",
-      "name": "Pierre / French Donor Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10280",
+      "ref": "N-10280",
+      "name": "Pierre Dupont Donor Identity Verification Question",
+      "type": "investigation_question",
       "description": "The \"mysterious Pierre\" whom Streiff allegedly phoned on September 10.",
       "related_artifacts": [],
       "related_claims": [
@@ -831,14 +839,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10530",
-      "ref": "N-10530",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10486",
+      "ref": "N-10486",
       "name": "TPUSA Super Feed Copyright / Data Routing Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the \"super feed back door\" pays Lori Frantzve.",
       "related_artifacts": [],
       "related_claims": [
@@ -848,14 +857,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Shooting timed at 8:36 p.m. Eastern, followed by the clip and the email.",
       "related_artifacts": [],
       "related_claims": [
@@ -868,14 +878,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10638",
-      "ref": "N-10638",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10583",
+      "ref": "N-10583",
       "name": "Sara Sidner Original Video Source Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the clip was distributed to Sidner and recorded by operatives.",
       "related_artifacts": [
         "A-2575.1"
@@ -888,14 +899,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10666",
-      "ref": "N-10666",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10512",
+      "ref": "N-10512",
       "name": "Nick Shirley Background and Backing Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The teacher-praise posts as a defense of Shirley's gang-infiltration story.",
       "related_artifacts": [],
       "related_claims": [
@@ -907,14 +919,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@type": "Organization",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Referred to as the Department of Defense; said to use canary watermarking to trace leakers.",
       "related_artifacts": [],
       "related_claims": [
@@ -924,14 +937,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@type": "Organization",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Transcript spelling \"Paramount not so tactical\"; named among those sent to call Mitch Snow a liar.",
       "related_artifacts": [],
       "related_claims": [
@@ -941,14 +956,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says she had agreed to a private court process with the Daily Wire.",
       "related_artifacts": [],
       "related_claims": [
@@ -958,7 +975,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -1057,11 +1076,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@type": "Thing",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: a White House Military Office communications email sent at about 9:49 p.m. Eastern on the night of the WHCD shooting. The host says it described an \"Amendment to the Erika Kirk video clip\" and recommended that all channels, digital partners and \"approved surrogates\" amplify the clip overnight. She says it was copied to Steven Cheung, Ryan Rippeon and Gustav Anderly (White House Communications Agency), carried canary watermarks, and that the White House tried to recall it and then ordered recipients to delete it.",
       "related_artifacts": [
         "A-2574.1",
@@ -1088,14 +1107,16 @@
         "N-160",
         "N-620",
         "N-621"
-      ]
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10924",
-      "ref": "N-10924",
+      "@type": "Event",
+      "@id": "N-10845",
+      "ref": "N-10845",
       "name": "Justin Streiff September 10 Book-Printer Call",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: a tip, which the host says was verified with receipts, that on September 10, 2025 Justin Streiff called a printer (a former US Army interrogator). According to the tip, he arranged to at least double a planned 25,000–50,000 order of Charlie Kirk's book \"Stop in the Name of God\" after getting Erika Kirk's approval.",
       "related_artifacts": [
         "A-2576.1"
@@ -1114,12 +1135,16 @@
       "related_nodes": [
         "N-15",
         "N-2"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "parent": "N-10282"
     },
     {
       "@type": "Organization",
-      "@id": "N-10925",
-      "ref": "N-10925",
+      "@id": "N-10846",
+      "ref": "N-10846",
       "name": "Turning Point Action",
       "type": "organization",
       "description": "TPUSA's political affiliate, which the host says is headed by Tyler Bowyer. The host relays tips that money, about $10 million in total, was missing from it.",
@@ -1136,12 +1161,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-11"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-10926",
-      "ref": "N-10926",
+      "@id": "N-10847",
+      "ref": "N-10847",
       "name": "Winning Team Publishing",
       "type": "organization",
       "description": "Conservative book publisher that the host says was founded by Sergio Gor and Donald Trump Jr. She says Justin Streiff also runs it, which she calls a possible conflict of interest.",
@@ -1159,12 +1186,14 @@
         "N-15",
         "N-16",
         "N-33"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Topic",
-      "@id": "N-10927",
-      "ref": "N-10927",
+      "@id": "N-10848",
+      "ref": "N-10848",
       "name": "Sergio Gor White House Exit and India Ambassadorship",
       "type": "topic",
       "description": "Investigation target: the host's rumor that Sergio Gor, then White House deputy chief of staff under Susie Wiles, was moved out to become ambassador to India. She says this followed a clash with Elon Musk, including his blocking of Jared Isaacman, and an alleged relationship with a donor's son. Erika Kirk flew to Washington for the ceremony.",
@@ -1186,12 +1215,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-16"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10928",
-      "ref": "N-10928",
+      "@id": "N-10849",
+      "ref": "N-10849",
       "name": "Brigitte Macron Hanoi Slap Text-Message Explanation",
       "type": "topic",
       "description": "Investigation target: the shifting explanations of Brigitte Macron's May 2025 Hanoi airport slap. The latest is a Times report that she was angry over text messages to Emmanuel Macron from an exiled Iranian actress, who denied any affair.",
@@ -1212,7 +1242,8 @@
         "N-82",
         "N-377",
         "N-623"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1247,8 +1278,8 @@
         "A-2574.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10075"
+        "N-10844",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -1266,8 +1297,8 @@
       "claim": "The host restates that Justin Streiff is the person who allegedly phoned \"the mysterious Pierre\" on the day Charlie Kirk died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10300",
-        "N-10493"
+        "N-10282",
+        "N-10280"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -1290,7 +1321,7 @@
       "claim": "The host says the WHCD shooting took place at 8:36 p.m. Eastern, which she describes as when \"the Secret Service began firing at one another.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:02:50",
@@ -1307,8 +1338,8 @@
         "A-2575.1"
       ],
       "related_nodes": [
-        "N-10638",
-        "N-10637"
+        "N-10583",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:02:50",
@@ -1332,8 +1363,8 @@
         "A-2574.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10637"
+        "N-10844",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:03:53",
@@ -1353,8 +1384,8 @@
         "A-2574.1"
       ],
       "related_nodes": [
-        "N-10888",
-        "N-10923"
+        "N-10809",
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
@@ -1392,7 +1423,7 @@
         "A-2574.1"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
@@ -1415,7 +1446,7 @@
         "A-2574.1"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:06:24",
@@ -1435,7 +1466,7 @@
         "A-2574.1"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44",
@@ -1455,7 +1486,7 @@
         "A-2574.1"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:07:59",
@@ -1473,7 +1504,7 @@
       "claim": "The host says she is told the \"I want to go home\" video was not recorded by Sara Sidner but was distributed to her, and that operatives recorded the moment.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10638"
+        "N-10583"
       ],
       "tags": [],
       "claim_timestamp": "00:09:31",
@@ -1494,8 +1525,8 @@
         "A-2574.2"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10075"
+        "N-10844",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:10:36",
@@ -1512,8 +1543,8 @@
         "A-2574.2"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10075"
+        "N-10844",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:10:36",
@@ -1530,8 +1561,8 @@
         "A-2574.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10637"
+        "N-10844",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:11:38",
@@ -1548,7 +1579,7 @@
         "A-2576.1"
       ],
       "related_nodes": [
-        "N-10924"
+        "N-10845"
       ],
       "tags": [],
       "claim_timestamp": "00:14:41",
@@ -1607,7 +1638,7 @@
       "claim": "The host says Charlie Kirk announced the TPUSA audit in the same email in which he promoted Justin Streiff.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
+        "N-10127",
         "N-10000"
       ],
       "tags": [],
@@ -1630,8 +1661,8 @@
       "claim": "The host says a person outside the organization who knew Charlie Kirk personally told her Charlie had said $10 million was missing from his organization, specifically Turning Point Action and America's Turning Point rather than Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10388",
-        "N-10925"
+        "N-10361",
+        "N-10846"
       ],
       "tags": [],
       "claim_timestamp": "00:15:31",
@@ -1650,8 +1681,8 @@
       "claim": "The host says a source inside the organization told her Justin Streiff was overheard on the phone yelling that all of the money was missing from Turning Point Action; she labels it alleged.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10388",
-        "N-10925"
+        "N-10361",
+        "N-10846"
       ],
       "tags": [],
       "claim_timestamp": "00:16:26",
@@ -1669,9 +1700,9 @@
       "claim": "The host says Turning Point Action is headed by Tyler Bowyer and that the \"super feed back door\" it built pays Lori Frantzve, Erika Kirk's mother.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10925",
-        "N-10530",
-        "N-10388"
+        "N-10846",
+        "N-10486",
+        "N-10361"
       ],
       "tags": [],
       "claim_timestamp": "00:16:26",
@@ -1691,8 +1722,8 @@
       "claim": "The host says Charlie Kirk established a \"Doge\" to audit the organization internally, distinct from the yearly accountants' audit, and gives her opinion that he realized money was \"evaporating.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
-        "N-10388"
+        "N-10127",
+        "N-10361"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -1715,8 +1746,8 @@
         "A-2576.1"
       ],
       "related_nodes": [
-        "N-10924",
-        "N-10300"
+        "N-10845",
+        "N-10282"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -1737,7 +1768,7 @@
         "A-2576.1"
       ],
       "related_nodes": [
-        "N-10924"
+        "N-10845"
       ],
       "tags": [],
       "claim_timestamp": "00:18:19",
@@ -1758,7 +1789,7 @@
         "A-2576.1"
       ],
       "related_nodes": [
-        "N-10924"
+        "N-10845"
       ],
       "tags": [],
       "claim_timestamp": "00:18:19",
@@ -1778,7 +1809,7 @@
       "claim": "The host says the decision on Erika Kirk taking over the board and the CEO role was made within 48 hours of Charlie Kirk's death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10194",
+        "N-10186",
         "N-10000"
       ],
       "tags": [],
@@ -1798,7 +1829,7 @@
       "claim": "The host says Justin Streiff also runs Winning Team Publishing, a conservative book publisher started by Sergio Gor and Donald Trump Jr., as a second full-time job.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10926"
+        "N-10847"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14",
@@ -1818,7 +1849,7 @@
       "claim": "The host says Justin Streiff receives money from Winning Team Publishing and, she imagines, would stand to benefit greatly from high book sales, which she later says could be a conflict of interest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10926"
+        "N-10847"
       ],
       "tags": [],
       "claim_timestamp": "00:21:13",
@@ -1836,8 +1867,8 @@
       "claim": "The host says Sergio Gor was White House deputy chief of staff at the time of Charlie Kirk's death, and that she was told employees moved between Charlie's office and Gor's office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10927",
-        "N-10075"
+        "N-10848",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:21:13",
@@ -1856,7 +1887,7 @@
       "claim": "The host says Sergio Gor was second in command to Susie Wiles and was \"unceremoniously kicked out.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10927"
+        "N-10848"
       ],
       "tags": [],
       "claim_timestamp": "00:21:13",
@@ -1875,7 +1906,7 @@
       "claim": "The host relays a rumor that Sergio Gor had it out for Elon Musk, was seen as behind the Musk–Trump falling out, and personally stopped Musk's pick Jared Isaacman from being appointed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10927"
+        "N-10848"
       ],
       "tags": [],
       "claim_timestamp": "00:22:23",
@@ -1896,7 +1927,7 @@
       "claim": "The host relays an unverified account that someone found out about an alleged relationship between Sergio Gor and a donor's son, and that Gor was then moved to India as ambassador before it could surface.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10927"
+        "N-10848"
       ],
       "tags": [],
       "claim_timestamp": "00:22:23",
@@ -1916,7 +1947,7 @@
         "A-2577.1"
       ],
       "related_nodes": [
-        "N-10927"
+        "N-10848"
       ],
       "tags": [],
       "claim_timestamp": "00:23:19",
@@ -1940,7 +1971,7 @@
         "A-2577.1"
       ],
       "related_nodes": [
-        "N-10927"
+        "N-10848"
       ],
       "tags": [],
       "claim_timestamp": "00:24:09",
@@ -1963,7 +1994,7 @@
         "A-2578.1"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [],
       "claim_timestamp": "00:30:26",
@@ -1984,7 +2015,7 @@
         "A-2578.2"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [],
       "claim_timestamp": "00:30:26",
@@ -2004,7 +2035,7 @@
         "A-2578.3"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10512"
       ],
       "tags": [],
       "claim_timestamp": "00:30:26",
@@ -2027,7 +2058,7 @@
         "A-2579.2"
       ],
       "related_nodes": [
-        "N-10928"
+        "N-10849"
       ],
       "tags": [],
       "claim_timestamp": "00:35:22",
@@ -2049,7 +2080,7 @@
         "A-2579.2"
       ],
       "related_nodes": [
-        "N-10928"
+        "N-10849"
       ],
       "tags": [],
       "claim_timestamp": "00:35:22",
@@ -2071,7 +2102,7 @@
         "A-2580.1"
       ],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:40:35",
@@ -2113,7 +2144,7 @@
       "claim": "The host says she had agreed to a private, non-public court process with the Daily Wire, and now opposes such agreements.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:41:41",

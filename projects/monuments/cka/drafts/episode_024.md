@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-835, N-836, N-837, N-838, N-839, N-11223, N-11224, N-11225
-  - Hole-minted Nodes (reintro-ep024): N-220, N-222, N-10236, N-10336, N-10337
-  - Tip-minted Nodes (reintro-ep024): N-704, N-10917, N-11092, N-11107
+  - Tip-minted Nodes (supplement_2026-10d): N-835, N-836, N-837, N-838, N-839, N-11139, N-11140, N-11141
+  - Hole-minted Nodes (reintro-ep024): N-220, N-222, N-10223, N-10315, N-10316
+  - Tip-minted Nodes (reintro-ep024): N-704, N-10838, N-11010, N-11025
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2178–C-2259
-  - New Nodes Introduced: N-210, N-211, N-212, N-214, N-215, N-216, N-10216, N-10217
-  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-154, N-155, N-190, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099, N-377, N-709, N-10543, N-268
-  - Tip-minted Nodes (wave2): N-10894, N-10895
+  - New Nodes Introduced: N-210, N-211, N-212, N-214, N-215, N-216, N-10207, N-10208
+  - Reused Nodes Appearing: N-11361, N-15, N-17, N-46, N-50, N-82, N-99, N-154, N-155, N-190, N-10006, N-10025, N-10016, N-10044, N-10074, N-10070, N-10100, N-10134, N-10143, N-10160, N-10194, N-10198, N-10379, N-11017, N-377, N-709, N-10498, N-268
+  - Tip-minted Nodes (wave2): N-10815, N-10816
   - (see registers), N-11
 
 # Meta-Data
@@ -35,7 +35,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1313, A-1314, A-1315, A-1316, A-1317, A-1318, A-1319, A-1320
   - New Nodes Introduced (people): N-210, N-211, N-212, N-214, N-215, N-216
-  - New Nodes Introduced (entities): N-10216, N-10217
+  - New Nodes Introduced (entities): N-10207, N-10208
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, Ben Shapiro, Tucker Carlson, Lindsey Graham, Randy Fine, Nick Fuentes, Rob McCoy, Mikey McCoy/McColgan, Justin Streiff, Adam Lanza, Thomas Matthew Crooks, AIPAC
 
 # Executive Summary
@@ -136,7 +136,7 @@ Video Timestamp: 00:21:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2217, N-10895, N-10894, N-210, N-2, N-10216*
+*Related: C-2217, N-10816, N-10815, N-210, N-2, N-10207*
 
 **A-1317.2** Andrew Kolvet X Reply Denying Knowledge of Award
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:22:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2218, N-14 Andrew Kolvet, N-2 Erika Kirk, N-10216*
+*Related: C-2218, N-14 Andrew Kolvet, N-2 Erika Kirk, N-10207*
 
 **A-1317.3** Michael Starr X Follow-Up on Israeli Government Press Office "Wavering"
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:23:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2219, N-210, N-10895, N-10216*
+*Related: C-2219, N-210, N-10816, N-10207*
 
 **A-1318** Erika Kirk Jesse Watters Interview Preview Bundle
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:30:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2230, N-2 Erika Kirk, N-211 Jesse Watters, N-10217*
+*Related: C-2230, N-2 Erika Kirk, N-211 Jesse Watters, N-10208*
 
 **A-1319** Kash Patel X Defense Tweet Bundle
 
@@ -331,7 +331,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.3, C-2217, C-2219, N-10894, N-10895, N-2, N-10216*
+*Related: A-1317.1, A-1317.3, C-2217, C-2219, N-10815, N-10816, N-2, N-10207*
 
 **N-14** Andrew Kolvet
 
@@ -342,7 +342,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.2, C-2218, N-2, N-10216*
+*Related: A-1317.2, C-2218, N-2, N-10207*
 
 **N-211** Jesse Watters
 
@@ -397,7 +397,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1317.1, C-2217, N-10216*
+*Related: A-1317.1, C-2217, N-10207*
 
 **N-215** Yael Eckstein
 
@@ -408,7 +408,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1317.1, C-2217, N-10216*
+*Related: A-1317.1, C-2217, N-10207*
 
 **N-216** Jürgen Bühler
 
@@ -419,9 +419,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1317.1, C-2217, N-10216*
+*Related: A-1317.1, C-2217, N-10207*
 
-**N-10894** Jerusalem Post
+**N-10815** Jerusalem Post
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -433,9 +433,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.1, C-2217, N-210, N-10216*
+*Related: A-1317.1, C-2217, N-210, N-10207*
 
-**N-10895** Israeli War Room
+**N-10816** Israeli War Room
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -447,9 +447,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.1, C-2217, N-10894, N-10216*
+*Related: A-1317.1, C-2217, N-10815, N-10207*
 
-**N-10216** TPUSA Posthumous Israel Award Reporting Discrepancy
+**N-10207** TPUSA Posthumous Israel Award Reporting Discrepancy
 
 Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erika Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.
 
@@ -458,9 +458,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.2, A-1317.3, C-2217, C-2218, C-2219, N-210, N-14, N-10894, N-10895, N-2*
+*Related: A-1317.1, A-1317.2, A-1317.3, C-2217, C-2218, C-2219, N-210, N-14, N-10815, N-10816, N-2*
 
-**N-10217** TPUSA Leadership Transparency Pressure (Post-Charlie)
+**N-10208** TPUSA Leadership Transparency Pressure (Post-Charlie)
 
 Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erika Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.
 
@@ -493,6 +493,16 @@ Charlie Kirk; subject of the host's claims about his friendships, views and mess
 Erika Kirk; the host discusses her interview preview and TPUSA leadership role.
 
 *Related: C-2222, C-2224, C-2225, C-2226, C-2228, C-2229, C-2231, C-2233, C-2239, C-2240*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-2222*
 
 ---
 
@@ -663,7 +673,7 @@ Israel Lobby Pressure on Conservative Figures; topic reused.
 
 ---
 
-**N-10033** Hamptons Donor Pressure Investigation
+**N-10016** Hamptons Meeting Pressure Investigation
 
 Hamptons Donor Pressure Investigation; topic reused.
 
@@ -671,7 +681,7 @@ Hamptons Donor Pressure Investigation; topic reused.
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Donor Intimidation of Charlie Kirk; topic reused.
 
@@ -679,7 +689,7 @@ Donor Intimidation of Charlie Kirk; topic reused.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Robinson-Lance Text Chain Authenticity; topic reused.
 
@@ -687,7 +697,7 @@ Robinson-Lance Text Chain Authenticity; topic reused.
 
 ---
 
-**N-10083** AIPAC
+**N-10070** AIPAC
 
 AIPAC; the host says it dropped Fine.
 
@@ -695,7 +705,7 @@ AIPAC; the host says it dropped Fine.
 
 ---
 
-**N-10104** Catholic Conversion Rumor
+**N-10100** Catholic Conversion Rumor
 
 Catholic Conversion Rumor; topic reused.
 
@@ -703,7 +713,7 @@ Catholic Conversion Rumor; topic reused.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Operation Mocking Pastor; topic reused.
 
@@ -711,7 +721,7 @@ Operation Mocking Pastor; topic reused.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Charlie Kirk Pre-Mortem Israel Position Claim; topic reused.
 
@@ -719,15 +729,7 @@ Charlie Kirk Pre-Mortem Israel Position Claim; topic reused.
 
 ---
 
-**N-10164** Charlie Kirk Catholic Trajectory Verification
-
-Charlie Kirk Catholic Trajectory Verification; topic reused.
-
-*Related: C-2223, C-2239*
-
----
-
-**N-10167** Tyler Bowyer X Defense Pattern
+**N-10160** Tyler Bowyer X Defense Pattern
 
 Tyler Bowyer X Defense Pattern; topic reused.
 
@@ -735,7 +737,7 @@ Tyler Bowyer X Defense Pattern; topic reused.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 FBI Charlie Kirk Investigation Handling (Kash Patel); topic reused.
 
@@ -743,7 +745,7 @@ FBI Charlie Kirk Investigation Handling (Kash Patel); topic reused.
 
 ---
 
-**N-10206** TPUSA Text Chain Authenticity Verification
+**N-10198** TPUSA Text Chain Authenticity Verification
 
 TPUSA Text Chain Authenticity Verification; topic reused.
 
@@ -751,7 +753,7 @@ TPUSA Text Chain Authenticity Verification; topic reused.
 
 ---
 
-**N-10236** Megyn Kelly Tour Attendee Authenticity Question
+**N-10223** Megyn Kelly Tour Attendee Authenticity Question
 
 Megyn Kelly Tour Attendee Authenticity Question; topic reused.
 
@@ -759,7 +761,7 @@ Megyn Kelly Tour Attendee Authenticity Question; topic reused.
 
 ---
 
-**N-10336** Tyler Robinson First In-Person Court Appearance Details
+**N-10315** Tyler Robinson First In-Person Court Appearance Details
 
 Tyler Robinson First In-Person Court Appearance Details; topic reused.
 
@@ -767,7 +769,7 @@ Tyler Robinson First In-Person Court Appearance Details; topic reused.
 
 ---
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Tyler Robinson Prosecution Evidence Base; topic reused.
 
@@ -775,7 +777,7 @@ Tyler Robinson Prosecution Evidence Base; topic reused.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Megyn Kelly Attacks for Refusing to Denounce Candace Owens; topic reused.
 
@@ -783,7 +785,7 @@ Megyn Kelly Attacks for Refusing to Denounce Candace Owens; topic reused.
 
 ---
 
-**N-10543** Charlie Kirk Legacy Control Dispute
+**N-10498** Charlie Kirk Legacy Control Dispute
 
 Charlie Kirk Legacy Control Dispute; topic reused.
 
@@ -791,7 +793,7 @@ Charlie Kirk Legacy Control Dispute; topic reused.
 
 ---
 
-**N-10917** Republican Jewish Coalition
+**N-10838** Republican Jewish Coalition
 
 Republican Jewish Coalition; event where the signs appeared.
 
@@ -799,7 +801,7 @@ Republican Jewish Coalition; event where the signs appeared.
 
 ---
 
-**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
+**N-11010** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
 
 Erika CEO Appointment Timing Explanation; topic reused.
 
@@ -807,7 +809,7 @@ Erika CEO Appointment Timing Explanation; topic reused.
 
 ---
 
-**N-11099** Candace Owens Australia Visa Review
+**N-11017** Candace Owens Australia Visa Review
 
 Candace Owens Australia Visa Review; topic reused.
 
@@ -815,7 +817,7 @@ Candace Owens Australia Visa Review; topic reused.
 
 ---
 
-**N-11107** Erika Kirk Interview Campaign Talking Points
+**N-11025** Erika Kirk Interview Campaign Talking Points
 
 Erika Kirk Interview Campaign Talking Points; topic reused.
 
@@ -863,7 +865,7 @@ First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host c
 
 ---
 
-**N-11223** Sackler Family and Purdue Pharma
+**N-11139** Sackler Family and Purdue Pharma
 
 Node Type: Organization
 Family and company the host names as owners of Purdue Pharma and architects of the opioid epidemic, with names on buildings in Tel Aviv.
@@ -872,7 +874,7 @@ Family and company the host names as owners of Purdue Pharma and architects of t
 
 ---
 
-**N-11224** Cracker Barrel
+**N-11140** Cracker Barrel
 
 Node Type: Organization
 Restaurant chain the host cites as an example of customers forcing a reversal of a marketing change.
@@ -881,7 +883,7 @@ Restaurant chain the host cites as an example of customers forcing a reversal of
 
 ---
 
-**N-11225** Sallie Mae
+**N-11141** Sallie Mae
 
 Node Type: Organization
 Student lender the host says stopped funding her senior year around 2010.
@@ -1000,7 +1002,7 @@ Claim: The Israeli War Room X account posted that "Miss Erika / Mrs. Erika Kirk 
 Anchored Artifacts: A-1317.1
 Mentions: N-1, N-2, N-210, N-214, N-215, N-216
 
-Related Nodes: N-10216, N-10894, N-10895
+Related Nodes: N-10207, N-10815, N-10816
 
 Investigative Direction: Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed.
 
@@ -1015,7 +1017,7 @@ Claim: TPUSA spokesperson Andrew Kolvet posted on X that "this is the first we'r
 Anchored Artifacts: A-1317.2
 Mentions: N-14, N-210
 
-Related Nodes: N-10216
+Related Nodes: N-10207
 
 Investigative Direction: Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA.
 
@@ -1030,7 +1032,7 @@ Claim: Michael Starr posted on X that "the Israeli government press office waver
 Anchored Artifacts: A-1317.3
 Mentions: N-210, N-2
 
-Related Nodes: N-10216, N-10895
+Related Nodes: N-10207, N-10816
 
 Investigative Direction: Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction.
 
@@ -1045,7 +1047,7 @@ Claim: In a preview clip of her Jesse Watters interview, Erika Kirk opposed the 
 Anchored Artifacts: A-1318.1
 Mentions: N-2, N-211
 
-Related Nodes: N-10217
+Related Nodes: N-10208
 
 Investigative Direction: Verify by reviewing the full Jesse Watters interview once aired and any subsequent court filings on the camera question.
 
@@ -1132,7 +1134,7 @@ Transcript Snippet: Randy Fine, just to be clear, he has been so disgusting in h
 
 Anchored Artifacts: 
 Mentions: N-222, N-3
-Related Nodes: N-10083
+Related Nodes: N-10070
 Tags: relevance:tangential
 Investigative Direction: Locate Fine's original statements and any AIPAC statement ending its support to confirm both parts.
 
@@ -1148,7 +1150,7 @@ Transcript Snippet: It looks like they sent some poor interns down to FedEx or K
 
 Anchored Artifacts: A-1313.3
 Mentions: N-3, N-22
-Related Nodes: N-10917
+Related Nodes: N-10838
 Tags: relevance:context
 Investigative Direction: Obtain event photos or video of the signs and identify who produced and distributed them.
 
@@ -1164,7 +1166,7 @@ Transcript Snippet: And they instructed them to wave the posters on stage while 
 
 Anchored Artifacts: A-1313.3
 Mentions: N-222, N-22, N-3
-Related Nodes: N-10917
+Related Nodes: N-10838
 Supports: C-2181
 Tags: relevance:context
 Investigative Direction: Review RJC event footage for the sign holders and ask organizers who instructed them.
@@ -1181,7 +1183,7 @@ Transcript Snippet: And they all say the same thing, which shows how inorganic i
 
 Anchored Artifacts: 
 Mentions: N-22, N-3
-Related Nodes: N-10139
+Related Nodes: N-10134
 Tags: relevance:context
 Investigative Direction: Compare the wording of the anti-Tucker statements across speakers and identify any shared script or coordinating source.
 
@@ -1228,7 +1230,7 @@ Transcript Snippet: We all know, as I proved, that these same individuals were s
 
 Anchored Artifacts: 
 Mentions: N-1, N-22, N-3
-Related Nodes: N-10025, N-10543
+Related Nodes: N-10025, N-10498
 Tags: relevance:core
 Investigative Direction: Locate the donor and activist messages to Kirk about Tucker Carlson's speaking slot and identify the senders.
 
@@ -1244,7 +1246,7 @@ Transcript Snippet: they've now decided to besmirch Charlie's name by asserting 
 
 Anchored Artifacts: 
 Mentions: N-22, N-201, N-1, N-3
-Related Nodes: N-10543
+Related Nodes: N-10498
 Tags: relevance:context
 Investigative Direction: Identify the specific statements asserting the Fuentes interview betrayed Kirk and their dates.
 
@@ -1396,7 +1398,7 @@ Transcript Snippet: The gambling empire uh is where the Adelson empire wealth co
 
 Anchored Artifacts: 
 Mentions: N-3, N-704
-Related Nodes: N-11223
+Related Nodes: N-11139
 Tags: relevance:tangential
 Investigative Direction: Corporate and philanthropic records on the Adelson and Sackler fortunes.
 
@@ -1412,7 +1414,7 @@ Transcript Snippet: These people have their have their names on buildings in Tel
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11223
+Related Nodes: N-11139
 Tags: relevance:tangential
 Investigative Direction: Public records of Sackler-named buildings in Tel Aviv and Purdue Pharma ownership and litigation settlements.
 
@@ -1548,7 +1550,7 @@ Transcript Snippet: And he fought for Tucker to be on the Turning Point stage un
 
 Anchored Artifacts: A-3013.1
 Mentions: N-3, N-1, N-22
-Related Nodes: N-10543
+Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk messages and internal TPUSA scheduling records about Tucker's stage appearances.
 
@@ -1564,7 +1566,7 @@ Transcript Snippet: it is probably that he associated success and growth with mo
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10033
+Related Nodes: N-10016
 Tags: relevance:core
 Investigative Direction: Identify who entered the company and donor base through fundraising and what the host means by snakes.
 
@@ -1610,7 +1612,7 @@ Transcript Snippet: how many talking heads you sent out to pretend that he didn'
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10148, N-10025
+Related Nodes: N-10143, N-10025
 Tags: relevance:core
 Investigative Direction: Compile the Kirk messages and statements on Israel read on the show and confirm their authenticity.
 
@@ -1626,7 +1628,7 @@ Transcript Snippet: Yes, he supported Israel throughout his entire career and th
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-22
-Related Nodes: N-10148, N-10025
+Related Nodes: N-10143, N-10025
 Tags: relevance:core
 Investigative Direction: Identify the people the host calls the agent Smiths and the specific pressure on Kirk about Tucker.
 
@@ -1641,6 +1643,7 @@ Claim: The host says Erika Kirk has not sat down for a long interview and that a
 Transcript Snippet: She hasn't sat down for a long interview. All we have seen from Erika has been the speech at the memorial event for Charlie Kirk.
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-3, N-2, N-1
 Tags: relevance:core
 Investigative Direction: Check Erika Kirk's public interview record before 2025-11-03 against this statement.
@@ -1657,7 +1660,7 @@ Transcript Snippet: That was my reason for going after Alex Clark. She lied abou
 
 Anchored Artifacts: 
 Mentions: N-3, N-99, N-14, N-190, N-17
-Related Nodes: N-10104, N-10164
+Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Collect the host's prior episodes on each named person and the specific statements she calls lies.
 
@@ -1673,7 +1676,7 @@ Transcript Snippet: Did she come out and say Charlie never had an issue with Isr
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Review Erika Kirk's public statements on Kirk's views on Israel.
 
@@ -1689,7 +1692,7 @@ Transcript Snippet: Jesse Watters gave us the most play time on Fox News back in
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2, N-211
-Related Nodes: N-10006, N-11107
+Related Nodes: N-10006, N-11025
 Tags: relevance:context
 Investigative Direction: Fox News appearance history of Charlie Kirk and Turning Point USA.
 
@@ -1705,7 +1708,7 @@ Transcript Snippet: Erika also I think slated to join Megyn Kelly on tour. Don't
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-46
-Related Nodes: N-10236
+Related Nodes: N-10223
 Tags: relevance:context
 Investigative Direction: Check Megyn Kelly's tour announcements for an Erika Kirk appearance.
 
@@ -1721,7 +1724,7 @@ Transcript Snippet: Charlie opened up to Megan in the end. Megan stood 10 toes d
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-46
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:core
 Investigative Direction: Review Megyn Kelly's accounts of her conversations with Kirk and ask her for any messages.
 
@@ -1767,7 +1770,7 @@ Transcript Snippet: Why not be transparent? There's nothing to hide. I know ther
 
 Anchored Artifacts: A-1318.1
 Mentions: N-2
-Related Nodes: N-10337
+Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or prosecutors what material she was shown and when; compare with the court record.
 
@@ -1783,7 +1786,7 @@ Transcript Snippet: how ridiculous it is to allow him to to appear uh virtually,
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10336
+Related Nodes: N-10315
 Tags: relevance:core
 Investigative Direction: Utah court docket entries on the defendant's remote appearances and camera orders.
 
@@ -1799,7 +1802,7 @@ Transcript Snippet: Someone below Justin Streiff, I think was the CEO. I would h
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-15
-Related Nodes: N-11092
+Related Nodes: N-11010
 Tags: relevance:core
 Investigative Direction: TPUSA announcements of leadership changes after September 2025 to confirm who held the CEO title before Erika Kirk.
 
@@ -1815,7 +1818,7 @@ Transcript Snippet: People don't like the stuff that they've seen about Mikey Mc
 
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-17
-Related Nodes: N-10217
+Related Nodes: N-10208
 Tags: relevance:core
 Investigative Direction: Identify the video of Taryl the host refers to and the McCoy materials in question.
 
@@ -1831,7 +1834,7 @@ Transcript Snippet: They don't believe what time text messages were sent or when
 
 Anchored Artifacts: 
 Mentions: N-3, N-17
-Related Nodes: N-10217, N-10206
+Related Nodes: N-10208, N-10198
 Tags: relevance:core
 Investigative Direction: Obtain carrier call and text logs for the relevant timeframe and compare to McCoy's account.
 
@@ -1847,7 +1850,7 @@ Transcript Snippet: Tyler Bowyer late-night tweeting at donors as he did over th
 
 Anchored Artifacts: A-3014.1
 Mentions: N-3, N-11, N-154, N-155
-Related Nodes: N-10167
+Related Nodes: N-10160
 Tags: relevance:core
 Investigative Direction: Locate Bowyer's posts from the weekend of 2025-11-01 and confirm who called John Mappin a loser.
 
@@ -1863,7 +1866,7 @@ Transcript Snippet: So, maybe the top execs at Cracker Barrel thought it was bri
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11224
+Related Nodes: N-11140
 Tags: relevance:tangential
 Investigative Direction: Cracker Barrel's 2025 logo and rebranding reversal announcements.
 
@@ -1879,7 +1882,7 @@ Transcript Snippet: We've got no messaging about whether those donors were remov
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10217, N-10047
+Related Nodes: N-10208, N-10044
 Tags: relevance:core
 Investigative Direction: Ask TPUSA whether any donors were removed and review its public statements.
 
@@ -1895,7 +1898,7 @@ Transcript Snippet: Why are we getting this dance around the Catholic topic, whi
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10104, N-10164
+Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Trace who first pushed the Catholic denial narrative among TPUSA-linked figures.
 
@@ -1911,7 +1914,7 @@ Transcript Snippet: Look forward to obviously watching the interview that is goi
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-211
-Related Nodes: N-10006, N-11107
+Related Nodes: N-10006, N-11025
 Tags: relevance:context
 Investigative Direction: Fox News airing schedule for the interview.
 
@@ -1927,7 +1930,7 @@ Transcript Snippet: Charlie Kirk was a big supporter of Kash Patel, had him on h
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-69
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:context
 Investigative Direction: Charlie Kirk Show episodes with Patel and public Kirk statements backing his nomination.
 
@@ -1943,7 +1946,7 @@ Transcript Snippet: from the impassioned um messages written by 20-year-old gay 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the court exhibits of the text chain and have a forensic linguist assess them.
 
@@ -1959,7 +1962,7 @@ Transcript Snippet: I guess he flew down in his FBI plane to go see her down in 
 
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-212
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:context
 Investigative Direction: Flight records and any FBI or inspector-general statement on Patel's travel to Nashville.
 
@@ -2005,7 +2008,7 @@ Transcript Snippet: People are not attacking Kash Patel's significant other, but
 
 Anchored Artifacts: A-3015.1
 Mentions: N-69, N-212, N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:context
 Investigative Direction: Locate the fact-check note and reporting on any firings tied to Patel's travel.
 
@@ -2036,7 +2039,7 @@ Transcript Snippet: I wish that I was not banned from Australia, but you know me
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11099
+Related Nodes: N-11017
 Tags: relevance:context
 Investigative Direction: Australian Department of Home Affairs visa decision documents on the host.
 
@@ -2052,7 +2055,7 @@ Transcript Snippet: Is it Turning Point USA has access to all of his messages? T
 
 Anchored Artifacts: A-3013.1
 Mentions: N-3, N-1
-Related Nodes: N-10206
+Related Nodes: N-10198
 Supports: C-2209
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to confirm or deny the authenticity of the messages the host has published.
@@ -2101,7 +2104,7 @@ Transcript Snippet: Sallie Mae had a big collapse, and they said you can't go ba
 
 Anchored Artifacts: A-1320.6
 Mentions: N-3
-Related Nodes: N-11225
+Related Nodes: N-11141
 Tags: relevance:context
 Investigative Direction: University of Rhode Island and loan records for the host; the host hedges on the year.
 
@@ -2117,7 +2120,7 @@ Transcript Snippet: Once I paid down my student loans, I re-enrolled to finish m
 
 Anchored Artifacts: A-1320.6
 Mentions: N-3
-Related Nodes: N-11225
+Related Nodes: N-11141
 Tags: relevance:context
 Investigative Direction: Degree conferral records from the host's university.
 
@@ -2149,7 +2152,7 @@ Transcript Snippet: It's not cool to hold up like some donor-printed signs and d
 
 Anchored Artifacts: A-1313.3
 Mentions: N-3, N-222, N-22
-Related Nodes: N-10917
+Related Nodes: N-10838
 Supports: C-2181
 Tags: relevance:context
 Investigative Direction: Identify the donor or organization that printed the signs; the host presents no evidence beyond assertion here.

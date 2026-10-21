@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-902, N-903, N-904, N-905, N-11323, N-11324, N-11325, N-11326
-  - Hole-minted Nodes (reintro-ep020): N-228, N-278, N-298, N-359, N-377, N-484, N-485, N-520, N-10210, N-10447, N-10589, N-10660, N-10661, N-10663, N-10687
-  - Tip-minted Nodes (reintro-ep020): N-11071, N-11117
+  - Tip-minted Nodes (supplement_2026-10f): N-902, N-903, N-904, N-905, N-11239, N-11240, N-11241, N-11242
+  - Hole-minted Nodes (reintro-ep020): N-228, N-278, N-298, N-359, N-377, N-484, N-485, N-520, N-10202, N-10416, N-10537, N-10602, N-10603, N-10605, N-10625
+  - Tip-minted Nodes (reintro-ep020): N-10989, N-11035
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1805–C-1944
-  - New Nodes Introduced: N-189, N-191, N-192, N-195, N-196, N-197, N-198, N-10196, N-10197, N-10199
-  - Reused Nodes Appearing: none, N-193, N-5, N-22, N-30, N-33, N-36, N-69, N-117, N-130, N-155, N-170, N-181, N-182, N-707, N-10000, N-10004, N-10112, N-10118, N-10131, N-10139, N-10149, N-10183, N-10202, N-10270, N-10341, N-10389, N-10900, N-11103, N-11218, N-190, N-10198, N-11322
+  - New Nodes Introduced: N-189, N-191, N-192, N-195, N-196, N-197, N-198, N-10188, N-10189, N-10191
+  - Reused Nodes Appearing: none, N-193, N-5, N-22, N-30, N-33, N-36, N-69, N-117, N-130, N-155, N-170, N-181, N-182, N-707, N-10000, N-10004, N-10108, N-10114, N-10126, N-10134, N-10144, N-10175, N-10194, N-10254, N-10319, N-10362, N-10821, N-11021, N-11134, N-190, N-10190, N-11238
   - Hole-minted Nodes (remap-ep20): N-131
 
 The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-11, N-131
@@ -343,7 +343,7 @@ Confidence Level: Medium (read on air; underlying document not displayed in full
 
 Contents (read on air): "Hi all. There was a media event that took place today that led to a trauma patient. Due to the nature of the situation, the only individuals who will be allowed in the chart will be Deborah and myself. No one else is allowed to hover or open the chart. Jacob blank. Deb and I will be doing the log tomorrow. Thanks."
 
-*Related: C-1893, C-1885, N-10196*
+*Related: C-1893, C-1885, N-10188*
 
 ---
 
@@ -359,7 +359,7 @@ Confidence Level: Medium
 
 Contents (played on air): Webb states Rob McCoy "does have this strange military background," identifies him as a NAR figure, and links the McCoy orbit to the $25 million-and-above NAR donor network and the Ziklag organization.
 
-*Related: C-1858, C-1861, N-17, N-10198*
+*Related: C-1858, C-1861, N-17, N-10190*
 
 ---
 
@@ -407,7 +407,7 @@ Confidence Level: Medium (chart described in transcript; full content not transc
 
 Contents (per host narration): Lists Frank Turek, Andrew Kolvet, Rob McCoy, Mikey McCoy, Tyler Bowyer and identifies military-family members including Captain Kurt Kolvet, Captain Robert Kolvet, Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
-*Related: C-1858, C-1861, N-14, N-190, N-7, N-17, N-41, N-10198, N-11*
+*Related: C-1858, C-1861, N-14, N-190, N-7, N-17, N-41, N-10190, N-11*
 
 ---
 
@@ -593,7 +593,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1896, C-1901, C-1912, C-1914, N-1, N-14, N-7, N-17, N-10197*
+*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1896, C-1901, C-1912, C-1914, N-1, N-14, N-7, N-17, N-10189*
 
 ---
 
@@ -632,7 +632,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1858, C-1861, N-10198*
+*Related: A-1279.1, A-1282.1, C-1858, C-1861, N-10190*
 
 ---
 
@@ -753,7 +753,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10196** UVU Hospital Charlie Kirk Medical File Access Question
+**N-10188** UVU Hospital Charlie Kirk Medical File Access Question
 
 Persistent question raised by host's receipt of an internal UVU Hospital message (A-1278.1) restricting file access and by tipster claims that Kirk was treated at UVU rather than Timpanogos.
 
@@ -766,7 +766,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10197** TPUSA Military-Personnel Network
+**N-10189** TPUSA Military-Personnel Network
 
 Persistent question regarding the density of U.S. military-background personnel inside TPUSA and adjacent media (host frames as "military simulation" hypothesis). Supported by A-1279.1, A-1282.1.
 
@@ -779,7 +779,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Persistent discrepancy between TPUSA's explanation (A-1275.1) of McCoy's actions (ear-covering, video capture, delayed call to Erica) and the host's behavioral analysis of the same video.
 
@@ -792,7 +792,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10199** Susie Wiles Eulogy-Selection Question
+**N-10191** Susie Wiles Eulogy-Selection Question
 
 Host's flagged curiosity regarding the selection of Susie Wiles (spelled "Susie Wiles" in one place) as a Kirk eulogist; no artifact-anchored explanation given.
 
@@ -1031,7 +1031,7 @@ Kanye Tweet About Candace Owens; manifested remark.
 
 ---
 
-**N-10112** Lone-Shooter Narrative Critique
+**N-10108** Lone-Shooter Narrative Critique
 
 Lone-Shooter Narrative Critique; the host rejects the lone-shooter account.
 
@@ -1039,7 +1039,7 @@ Lone-Shooter Narrative Critique; the host rejects the lone-shooter account.
 
 ---
 
-**N-10118** Candace UK Premonition / Husband Meeting
+**N-10114** Candace UK Premonition / Husband Meeting
 
 Candace UK Premonition / Husband Meeting; the host's pull to go to the UK.
 
@@ -1047,7 +1047,7 @@ Candace UK Premonition / Husband Meeting; the host's pull to go to the UK.
 
 ---
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 PragerU; offered the host a job in early 2019.
 
@@ -1055,7 +1055,7 @@ PragerU; offered the host a job in early 2019.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Operation Mocking Pastor; the host's coinage.
 
@@ -1063,7 +1063,7 @@ Operation Mocking Pastor; the host's coinage.
 
 ---
 
-**N-10149** Hospital Routing Discrepancy
+**N-10144** Hospital Routing Discrepancy
 
 Hospital Routing Discrepancy; ambulance, trauma level and missing footage.
 
@@ -1071,7 +1071,7 @@ Hospital Routing Discrepancy; ambulance, trauma level and missing footage.
 
 ---
 
-**N-10183** Medical Examiner Inquiry – Deirdre Amaro
+**N-10175** Medical Examiner Inquiry – Deirdre Amaro
 
 Medical Examiner Inquiry – Deirdre Amaro; new host statements.
 
@@ -1079,7 +1079,7 @@ Medical Examiner Inquiry – Deirdre Amaro; new host statements.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 FBI Charlie Kirk Investigation Handling (Kash Patel); the holiday event remark.
 
@@ -1087,7 +1087,7 @@ FBI Charlie Kirk Investigation Handling (Kash Patel); the holiday event remark.
 
 ---
 
-**N-10210** NAR (New Apostolic Reformation) Infiltration Question
+**N-10202** NAR (New Apostolic Reformation) Infiltration Question
 
 NAR Infiltration Question; military and church infiltration remark.
 
@@ -1095,7 +1095,7 @@ NAR Infiltration Question; military and church infiltration remark.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Macron Defamation Lawsuit Delaware Venue Question; the host's remarks on the suit.
 
@@ -1103,7 +1103,7 @@ Macron Defamation Lawsuit Delaware Venue Question; the host's remarks on the sui
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Andrew Kolvet Surgeon Bullet Description; the moose quote.
 
@@ -1111,7 +1111,7 @@ Andrew Kolvet Surgeon Bullet Description; the moose quote.
 
 ---
 
-**N-10389** Charlie Kirk Premonition Dreams
+**N-10362** Charlie Kirk Premonition Dreams
 
 Charlie Kirk Premonition Dreams; the host's account.
 
@@ -1119,7 +1119,7 @@ Charlie Kirk Premonition Dreams; the host's account.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy; neck claim.
 
@@ -1127,7 +1127,7 @@ Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy; neck claim.
 
 ---
 
-**N-10589** Adelson–West Bank Annexation Meeting Verification
+**N-10537** Adelson–West Bank Annexation Meeting Verification
 
 Adelson–West Bank Annexation Meeting Verification; Adelson donation remark.
 
@@ -1135,7 +1135,7 @@ Adelson–West Bank Annexation Meeting Verification; Adelson donation remark.
 
 ---
 
-**N-10660** Hospital "No Neck Left" Narrative Discrepancy
+**N-10602** Hospital "No Neck Left" Narrative Discrepancy
 
 Hospital "No Neck Left" Narrative Discrepancy; neck and 306 claims.
 
@@ -1143,7 +1143,7 @@ Hospital "No Neck Left" Narrative Discrepancy; neck and 306 claims.
 
 ---
 
-**N-10661** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
+**N-10603** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
 
 Blake Lively / Justin Baldoni Lawsuit Outcome; the host's collusion rebuttal.
 
@@ -1151,7 +1151,7 @@ Blake Lively / Justin Baldoni Lawsuit Outcome; the host's collusion rebuttal.
 
 ---
 
-**N-10663** Mikey McCoy Witness Reliability Question
+**N-10605** Mikey McCoy Witness Reliability Question
 
 Mikey McCoy Witness Reliability Question; account comes from Kolvet not McCoy.
 
@@ -1159,7 +1159,7 @@ Mikey McCoy Witness Reliability Question; account comes from Kolvet not McCoy.
 
 ---
 
-**N-10687** Frank Turek CPR Claim Verification
+**N-10625** Frank Turek CPR Claim Verification
 
 Frank Turek CPR Claim Verification; Turek's stated preparation.
 
@@ -1167,7 +1167,7 @@ Frank Turek CPR Claim Verification; Turek's stated preparation.
 
 ---
 
-**N-11071** Hitler Remark Clip Dispute
+**N-10989** Hitler Remark Clip Dispute
 
 Hitler Remark Clip Dispute; the host's account of the 2019 clip.
 
@@ -1175,7 +1175,7 @@ Hitler Remark Clip Dispute; the host's account of the 2019 clip.
 
 ---
 
-**N-11103** TikTok
+**N-11021** TikTok
 
 TikTok; the buyer-group remark.
 
@@ -1183,7 +1183,7 @@ TikTok; the buyer-group remark.
 
 ---
 
-**N-11117** Kanye Condemnation Pressure and Contract Cut
+**N-11035** Kanye Condemnation Pressure and Contract Cut
 
 Kanye Condemnation Pressure and Contract Cut; the October 2018 statement.
 
@@ -1223,7 +1223,7 @@ YouTuber (transcribed "Mr. Beast") whose parents the host says are high up in th
 
 ---
 
-**N-11322** Blexit
+**N-11238** Blexit
 
 Node Type: Organization
 Movement the host launched, whose logo she says Kanye West helped design.
@@ -1232,7 +1232,7 @@ Movement the host launched, whose logo she says Kanye West helped design.
 
 ---
 
-**N-11323** Simon Wiesenthal Center
+**N-11239** Simon Wiesenthal Center
 
 Node Type: Organization
 Jewish human-rights organization that the host says issued a statement against her 2019 comments and that she visited with PragerU's CEO.
@@ -1241,7 +1241,7 @@ Jewish human-rights organization that the host says issued a statement against h
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Node Type: Organization
 Media company where the host worked after PragerU; the host says its president was a naval intelligence officer.
@@ -1250,7 +1250,7 @@ Media company where the host worked after PragerU; the host says its president w
 
 ---
 
-**N-11324** Raytheon
+**N-11240** Raytheon
 
 Node Type: Organization
 Defense contractor, transcribed "Raytheon", that the host says everyone is somehow attached to.
@@ -1259,7 +1259,7 @@ Defense contractor, transcribed "Raytheon", that the host says everyone is someh
 
 ---
 
-**N-11218** Timpanogos Regional Hospital
+**N-11134** Timpanogos Regional Hospital
 
 Node Type: Organization
 Hospital to which the host says Charlie Kirk was routed after the shooting (transcribed "Timpanogos").
@@ -1268,7 +1268,7 @@ Hospital to which the host says Charlie Kirk was routed after the shooting (tran
 
 ---
 
-**N-11325** Utah Valley Hospital
+**N-11241** Utah Valley Hospital
 
 Node Type: Organization
 Hospital the host says held an alleged Charlie Kirk medical file and which she says was closer to the event than Timpanogos.
@@ -1277,7 +1277,7 @@ Hospital the host says held an alleged Charlie Kirk medical file and which she s
 
 ---
 
-**N-11326** Breitbart News
+**N-11242** Breitbart News
 
 Node Type: Organization
 Media outlet run by Alex Marlow, guest on the Charlie Kirk Show in the clip played by the host.
@@ -1465,7 +1465,7 @@ Claim: Host displays a hospital internal message (received per host at 20:08; sh
 
 Anchored Artifacts: A-1278.1
 Mentions: N-1, N-197
-Related Nodes: N-10196
+Related Nodes: N-10188
 
 Investigative Direction: Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles.
 
@@ -1479,7 +1479,7 @@ Claim: The host says she received tips that Charlie was at UVU and an email from
 
 Anchored Artifacts: A-1278.1
 Mentions: N-1
-Related Nodes: N-10196
+Related Nodes: N-10188
 
 Investigative Direction: Obtain independent verification from UVU medical staff or institutional records; reconcile with the contemporaneous routing to Timpanogos Regional Hospital.
 
@@ -1493,7 +1493,7 @@ Claim: In a clip the host plays, George Webb says Rob McCoy has a "strange milit
 
 Anchored Artifacts: A-1279.1, A-1282.1
 Mentions: N-1, N-17, N-196, N-198
-Related Nodes: N-10197
+Related Nodes: N-10189
 
 Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.
 
@@ -1507,7 +1507,7 @@ Claim: In a clip the host plays, George Webb says Rob McCoy is "kind of the NAR 
 
 Anchored Artifacts: A-1279.1
 Mentions: N-1, N-17, N-198
-Related Nodes: N-10197
+Related Nodes: N-10189
 
 Investigative Direction: Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.
 
@@ -1634,7 +1634,7 @@ Transcript Snippet: Dreams that he said he had throughout&nbsp; his entire life 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Find earlier statements by Kirk or those close to him about dreams of an early death, and the host's dated messages with him on the subject.
 
@@ -1650,7 +1650,7 @@ Transcript Snippet: But especially in April,&nbsp; he was having vivid dreams th
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-27
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:context
 Investigative Direction: Obtain the April 2018 message thread in which the host says they discussed the dreams and the "energy shift".
 
@@ -1696,7 +1696,7 @@ Transcript Snippet: If we can get to Kanye, I&nbsp;&nbsp; think he'll join my Bl
 
 Anchored Artifacts: A-1270.1
 Mentions: N-3, N-1, N-27
-Related Nodes: N-11322
+Related Nodes: N-11238
 Tags: relevance:context
 Investigative Direction: Corroborate with the April 13, 2018 text (A-1270.1) and any Blexit launch-planning records.
 
@@ -1727,7 +1727,7 @@ Transcript Snippet: Yep, we felt it, too. Remember&nbsp; I told you uh the dream
 
 Anchored Artifacts: A-3188.1
 Mentions: N-3, N-1, N-189
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:context
 Investigative Direction: Obtain the original message thread with device metadata for the April 16, 2018 exchange.
 
@@ -1818,7 +1818,7 @@ Transcript Snippet: wants&nbsp; Andreessen Horowitz to be a part of this group t
 
 Anchored Artifacts: 
 Mentions: N-3, N-193, N-36
-Related Nodes: N-11103
+Related Nodes: N-11021
 Supports: C-1196
 Tags: relevance:context
 Investigative Direction: Check reporting on the TikTok buyer consortium for a Horowitz family member and any Netanyahu involvement.
@@ -1910,7 +1910,7 @@ Transcript Snippet: Kanye's&nbsp;&nbsp; got a team of people telling him he's no
 
 Anchored Artifacts: 
 Mentions: N-27
-Related Nodes: N-11117
+Related Nodes: N-11035
 Tags: relevance:context
 Investigative Direction: Identify the team members and any contract or management communications on Kanye's political activity.
 
@@ -1956,7 +1956,7 @@ Transcript Snippet: I got this spiritual pull that I needed&nbsp; to go to the U
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10118
+Related Nodes: N-10114
 Tags: relevance:context
 Investigative Direction: Review the 2018 messages in which she proposed the UK trip and the event's planning timeline.
 
@@ -1972,7 +1972,7 @@ Transcript Snippet: Kanye had helped me to start designing the logo&nbsp; for Bl
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-11322, N-11117
+Related Nodes: N-11238, N-11035
 Tags: relevance:context
 Investigative Direction: Corroborate with Blexit launch materials and statements by Kanye's representatives from October 2018.
 
@@ -1988,7 +1988,7 @@ Transcript Snippet: Kanye West distances&nbsp; himself from Blexit and Trump. He
 
 Anchored Artifacts: A-3190.1
 Mentions: N-3, N-27
-Related Nodes: N-11322, N-11117
+Related Nodes: N-11238, N-11035
 Tags: relevance:context
 Investigative Direction: Retrieve the 2018 article and Kanye's original statement to confirm the wording and date.
 
@@ -2004,7 +2004,7 @@ Transcript Snippet: Kanye never wrote this&nbsp; statement. one of his handlers 
 
 Anchored Artifacts: A-3190.1
 Mentions: N-3, N-27
-Related Nodes: N-11117
+Related Nodes: N-11035
 Tags: relevance:context
 Investigative Direction: Ask Kanye's former team who drafted the October 2018 statement.
 
@@ -2020,7 +2020,7 @@ Transcript Snippet: I have&nbsp;&nbsp; pictures of him standing over the guy dir
 
 Anchored Artifacts: A-3191.1
 Mentions: N-3, N-27, N-189
-Related Nodes: N-11322
+Related Nodes: N-11238
 Tags: relevance:context
 Investigative Direction: Ask the host to produce the photos and Cernovich to confirm the advice.
 
@@ -2052,7 +2052,7 @@ Transcript Snippet: that was in December that I met my husband uh&nbsp; that I c
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-30
-Related Nodes: N-10118
+Related Nodes: N-10114
 Tags: relevance:tangential
 Investigative Direction: Check the dates of the UK trip and who paid for travel.
 
@@ -2068,7 +2068,7 @@ Transcript Snippet: I believe it was someone at BuzzFeed,&nbsp;&nbsp; cut a clip
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11071
+Related Nodes: N-10989
 Tags: relevance:context
 Investigative Direction: Trace the first publication of the Hitler clip and who cut it, and compare with the full event video.
 
@@ -2084,7 +2084,7 @@ Transcript Snippet: wrongly attribute it to Adolf Hitler and he&nbsp; wasn't a n
 
 Anchored Artifacts: A-1274.1
 Mentions: N-3
-Related Nodes: N-11071
+Related Nodes: N-10989
 Tags: relevance:context
 Investigative Direction: Review the full Q and A audio (A-1274.1) for the question and her complete answer.
 
@@ -2100,7 +2100,7 @@ Transcript Snippet: I know that these online&nbsp; campaigns are inorganic and t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11071
+Related Nodes: N-10989
 Tags: relevance:context
 Investigative Direction: Look for evidence of coordination among the accounts and outlets that spread the clip.
 
@@ -2116,7 +2116,7 @@ Transcript Snippet: pulled the clip and then a bunch of people were&nbsp;&nbsp; 
 
 Anchored Artifacts: A-1274.1
 Mentions: N-3
-Related Nodes: N-11071
+Related Nodes: N-10989
 Tags: relevance:context
 Investigative Direction: Collect the February 2019 articles and compare their quotes with the full Q and A.
 
@@ -2132,7 +2132,7 @@ Transcript Snippet: the Simon Wiesenthal Center and this is&nbsp; again another 
 
 Anchored Artifacts: A-3192.1
 Mentions: N-3
-Related Nodes: N-11323
+Related Nodes: N-11239
 Tags: relevance:context
 Investigative Direction: Locate the Simon Wiesenthal Center statement from February 2019.
 
@@ -2148,7 +2148,7 @@ Transcript Snippet: They wanted to&nbsp;&nbsp; put pressure on him. So donors wo
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11071
+Related Nodes: N-10989
 Tags: relevance:context
 Investigative Direction: Ask the host to identify donors who raised the clip with Kirk and look for messages to that effect.
 
@@ -2164,7 +2164,7 @@ Transcript Snippet: the hand that came out to me and offered me&nbsp;&nbsp; a jo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10131
+Related Nodes: N-10126
 Tags: relevance:context
 Investigative Direction: Confirm the offer and start dates with PragerU announcements from early 2019.
 
@@ -2180,7 +2180,7 @@ Transcript Snippet: Marissa&nbsp; Strait, the CEO, has never shied from telling&
 
 Anchored Artifacts: 
 Mentions: N-3, N-117
-Related Nodes: N-10131
+Related Nodes: N-10126
 Tags: relevance:context
 Investigative Direction: Find Streit's own public statements about IDF service.
 
@@ -2196,7 +2196,7 @@ Transcript Snippet: Marissa took me to the Simon&nbsp;&nbsp; Wiesenthal Center.
 
 Anchored Artifacts: 
 Mentions: N-3, N-117
-Related Nodes: N-11323, N-10131
+Related Nodes: N-11239, N-10126
 Tags: relevance:context
 Investigative Direction: Ask the host for the date of the visit and any record of the meeting.
 
@@ -2212,7 +2212,7 @@ Transcript Snippet: there was like some chief rabbi looking&nbsp; character and 
 
 Anchored Artifacts: 
 Mentions: N-3, N-117
-Related Nodes: N-11323
+Related Nodes: N-11239
 Tags: relevance:context
 Investigative Direction: Identify who attended the 2019 meeting and any statement released afterward.
 
@@ -2244,7 +2244,7 @@ Transcript Snippet: Frank Turek again has been honest&nbsp; former officer in th
 
 Anchored Artifacts: A-1282.1
 Mentions: N-3, N-7
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:context
 Investigative Direction: Check Turek's published biography and Navy service record for rank and dates.
 
@@ -2260,7 +2260,7 @@ Transcript Snippet: He has two sons that&nbsp; are in the military fly planes as
 
 Anchored Artifacts: A-1282.1
 Mentions: N-3, N-7
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:context
 Investigative Direction: Check Turek's public statements about his family's service.
 
@@ -2276,7 +2276,7 @@ Transcript Snippet: I didn't know.&nbsp; I don't think Charlie knew. Certainly n
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-11, N-14
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:context
 Investigative Direction: Establish when Kolvet was hired and who vouched for him from TPUSA personnel files or accounts.
 
@@ -2292,7 +2292,7 @@ Transcript Snippet: brother, Captain Kurt Kolvet, is in the military.&nbsp;&nbsp
 
 Anchored Artifacts: A-1282.1
 Mentions: N-3, N-14
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:context
 Investigative Direction: Verify the relatives' names, ranks and service through public military records and Kolvet family statements.
 
@@ -2308,7 +2308,7 @@ Transcript Snippet: the&nbsp; president at the time of the Daily Wire was also&n
 
 Anchored Artifacts: 
 Mentions: N-3, N-904
-Related Nodes: N-10900, N-10197
+Related Nodes: N-10821, N-10189
 Tags: relevance:context
 Investigative Direction: Check Daily Wire leadership listings for the period and the named person's career history.
 
@@ -2324,7 +2324,7 @@ Transcript Snippet: Mr. Beast, both of his parents high&nbsp;&nbsp; up in the mi
 
 Anchored Artifacts: 
 Mentions: N-3, N-905
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:tangential
 Investigative Direction: Verify through public biographical sources.
 
@@ -2415,7 +2415,7 @@ Transcript Snippet: everyone's somehow attached to&nbsp; Raytheon, right? Mr. Be
 
 Anchored Artifacts: 
 Mentions: N-3, N-905
-Related Nodes: N-11324
+Related Nodes: N-11240
 Tags: relevance:tangential
 Investigative Direction: Ask the host which Raytheon connections she means and verify.
 
@@ -2431,7 +2431,7 @@ Transcript Snippet: we were lied to about the 306, right?
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10660
+Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Ask the host to specify which statement about the rifle or bullet she considers false and compare with official records.
 
@@ -2447,7 +2447,7 @@ Transcript Snippet: I know&nbsp;&nbsp; for a fact Charlie's neck was not destroy
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10660, N-10447
+Related Nodes: N-10602, N-10416
 Tags: relevance:core
 Investigative Direction: Compare with the autopsy findings and the surgeon and Kolvet descriptions of the wound.
 
@@ -2463,7 +2463,7 @@ Transcript Snippet: tweet explaining the conversation with the surgeon&nbsp; esp
 
 Anchored Artifacts: A-3193.1
 Mentions: N-3, N-14
-Related Nodes: N-10341
+Related Nodes: N-10319
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's tweet and identify the surgeon quoted.
 
@@ -2494,7 +2494,7 @@ Transcript Snippet: He completed a residency at the&nbsp; Keesler Air Force Medi
 
 Anchored Artifacts: 
 Mentions: N-3, N-195
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Check Trotter's published training history or board certification.
 
@@ -2510,7 +2510,7 @@ Transcript Snippet: there's a&nbsp; person who matches his name age description&
 
 Anchored Artifacts: 
 Mentions: N-3, N-195
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Check Air Force or Reserve records and FAA airman registry for a matching individual before drawing any conclusion.
 
@@ -2526,7 +2526,7 @@ Transcript Snippet: in my dream Charlie told me I should look&nbsp; into.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-176
-Related Nodes: N-10183
+Related Nodes: N-10175
 Tags: relevance:context
 Investigative Direction: This is a reported dream and cannot be checked; look for independent records on the examiner's appointment.
 
@@ -2542,7 +2542,7 @@ Transcript Snippet: She's a major in the army. She's also&nbsp;&nbsp; from a maj
 
 Anchored Artifacts: 
 Mentions: N-3, N-176
-Related Nodes: N-10183, N-10197
+Related Nodes: N-10175, N-10189
 Tags: relevance:core
 Investigative Direction: Check Army Reserve or Medical Corps listings for the medical examiner's rank and her biography.
 
@@ -2573,7 +2573,7 @@ Transcript Snippet: the military-industrial complex&nbsp;&nbsp; that shot JFK to
 
 Anchored Artifacts: 
 Mentions: N-3, N-707
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:tangential
 Investigative Direction: This is a historical assertion with no evidence offered on air; check the JFK records released by the National Archives.
 
@@ -2589,7 +2589,7 @@ Transcript Snippet: some of which I think were there when Charlie&nbsp; got shot
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Ask the host to name who she means and compare with event staffing and security rosters.
 
@@ -2620,7 +2620,7 @@ Transcript Snippet: There are too many military players that&nbsp;&nbsp; were su
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10197
+Related Nodes: N-10189
 Tags: relevance:context
 Investigative Direction: Build a dated list of TPUSA staff and advisers with service history and hire dates.
 
@@ -2636,7 +2636,7 @@ Transcript Snippet: Timpanogos was&nbsp;&nbsp; like a level three trauma center 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10149, N-11218, N-11325
+Related Nodes: N-10144, N-11134, N-11241
 Tags: relevance:core
 Investigative Direction: Check the trauma-center designations and distances for both hospitals from the Orem campus.
 
@@ -2652,7 +2652,7 @@ Transcript Snippet: We never really understood why the&nbsp;&nbsp; ambulance was
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10149
+Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Check Utah event permits and the university's emergency-medical requirements for the September 10 event.
 
@@ -2668,7 +2668,7 @@ Transcript Snippet: we have no footage or any indication of the drive&nbsp;&nbsp
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10149, N-11218
+Related Nodes: N-10144, N-11134
 Tags: relevance:core
 Investigative Direction: Request hospital and traffic-camera footage and 911 logs for the route and arrival.
 
@@ -2684,7 +2684,7 @@ Transcript Snippet: I was downstairs at UVU when Charlie was brought&nbsp; in an
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10196, N-11325
+Related Nodes: N-10188, N-11241
 Tags: relevance:core
 Investigative Direction: Seek on-the-record confirmation from the tipster and from hospital staff on duty.
 
@@ -2700,7 +2700,7 @@ Transcript Snippet: we knew he was at this hospital and then somebody&nbsp;&nbsp
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10196, N-11325
+Related Nodes: N-10188, N-11241
 Tags: relevance:core
 Investigative Direction: Seek on-the-record confirmation and compare with the time of death announced publicly.
 
@@ -2716,7 +2716,7 @@ Transcript Snippet: we received an email from somebody in&nbsp;&nbsp; the medica
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10196, N-11325
+Related Nodes: N-10188, N-11241
 Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Verify the sender is real medical staff and request the hospital's response.
@@ -2733,7 +2733,7 @@ Transcript Snippet: here was the entry in the UVU system for&nbsp; Charlie Kirk.
 
 Anchored Artifacts: A-3194.1
 Mentions: N-3, N-1
-Related Nodes: N-10196, N-11325
+Related Nodes: N-10188, N-11241
 Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Ask for the screenshot with metadata and the hospital's confirmation of whether a record exists.
@@ -2750,7 +2750,7 @@ Transcript Snippet: Lee Trotter, which I have heard works at both&nbsp; limited 
 
 Anchored Artifacts: 
 Mentions: N-3, N-195
-Related Nodes: N-10196
+Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Check Trotter's hospital privileges at both facilities.
 
@@ -2766,7 +2766,7 @@ Transcript Snippet: medical community, feel&nbsp; free to email us at more tips@
 
 Anchored Artifacts: A-3195.1
 Mentions: N-3
-Related Nodes: N-10196
+Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Confirm the correct address is moretips@candaceowens.com and review what the host reports back.
 
@@ -2782,7 +2782,7 @@ Transcript Snippet: I think I said UVU medical. I meant to say&nbsp; Utah Valley
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10196, N-11325
+Related Nodes: N-10188, N-11241
 Qualifies: C-1885
 Tags: relevance:core
 Investigative Direction: Identify the hospital system that holds the alleged record and request confirmation.
@@ -2799,7 +2799,7 @@ Transcript Snippet: some people that I confirmed with said that&nbsp; their two 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10196, N-11218, N-11325
+Related Nodes: N-10188, N-11134, N-11241
 Tags: relevance:core
 Investigative Direction: Ask both hospitals and the Utah health-information exchange whether records are shared.
 
@@ -2815,7 +2815,7 @@ Transcript Snippet: they did their episode before&nbsp; my episode went out. Cha
 
 Anchored Artifacts: A-1275.1
 Mentions: N-3, N-14, N-190
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:context
 Investigative Direction: Compare the airdate of the Charlie Kirk Show episode with the host's upload time.
 
@@ -2831,7 +2831,7 @@ Transcript Snippet: who had discovered this&nbsp;&nbsp; over the weekend. So, li
 
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-182, N-130, N-181
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Establish who first posted the video and when.
 
@@ -2847,7 +2847,7 @@ Transcript Snippet: it tracks that Mikey would be&nbsp;&nbsp; taking videos behi
 
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-1
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:context
 Investigative Direction: Look at TPUSA social media from earlier events for behind-the-scenes clips credited to McCoy.
 
@@ -2878,7 +2878,7 @@ Transcript Snippet: he's not standing where you&nbsp; can get a view of Charlie 
 
 Anchored Artifacts: A-3196.1
 Mentions: N-3, N-190, N-14
-Related Nodes: N-10198
+Related Nodes: N-10190
 Contradicts: C-1901
 Tags: relevance:core
 Investigative Direction: Compare the camera geometry in the video with the known placement of the barrier, stage and questioner.
@@ -2895,7 +2895,7 @@ Transcript Snippet: Mikey is not&nbsp; standing to the side of Charlie. He is be
 
 Anchored Artifacts: A-3196.1
 Mentions: N-3, N-190, N-1
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Use the full event video to fix Mikey's position relative to Charlie and the questioner.
 
@@ -2911,7 +2911,7 @@ Transcript Snippet: he just I&nbsp; never see him take that phone down.
 
 Anchored Artifacts: A-3196.1
 Mentions: N-3, N-190
-Related Nodes: N-10198
+Related Nodes: N-10190
 Qualifies: C-1901
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the available video for the phone's position.
@@ -2928,7 +2928,7 @@ Transcript Snippet: it would&nbsp;&nbsp; be unlikely that you would keep holding
 
 Anchored Artifacts: A-3196.1
 Mentions: N-3, N-190
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Review the clip for how long the hands stay at the ears and whether he lowers his body.
 
@@ -2944,7 +2944,7 @@ Transcript Snippet: I don't believe that Charlie said, "If I get shot,&nbsp;&nbs
 
 Anchored Artifacts: A-1275.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10198
+Related Nodes: N-10190
 Qualifies: C-1896
 Tags: relevance:core
 Investigative Direction: Ask McCoy and other staff whether Kirk gave such instructions, and check the call log sequence.
@@ -2961,7 +2961,7 @@ Transcript Snippet: I think it's curious that we're hearing this&nbsp;&nbsp; fro
 
 Anchored Artifacts: A-1275.1
 Mentions: N-3, N-14, N-190
-Related Nodes: N-10663
+Related Nodes: N-10605
 Tags: relevance:core
 Investigative Direction: Check whether McCoy has since made any public statement on the sequence of events.
 
@@ -2977,7 +2977,7 @@ Transcript Snippet: live subpoenaed myself, held up my&nbsp;&nbsp; phone, I type
 
 Anchored Artifacts: 
 Mentions: N-3, N-484, N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Review the host's livestream and the court filings alleging collusion.
 
@@ -2993,7 +2993,7 @@ Transcript Snippet: Alex Marlow, who&nbsp; runs Breitbart News, was their guest 
 
 Anchored Artifacts: A-1276.1
 Mentions: N-3, N-191
-Related Nodes: N-11326
+Related Nodes: N-11242
 Tags: relevance:context
 Investigative Direction: Confirm the guest and date from the episode listing.
 
@@ -3009,7 +3009,7 @@ Transcript Snippet: why is Susie Wiles? I don't know. It just feels&nbsp;&nbsp; 
 
 Anchored Artifacts: 
 Mentions: N-3, N-131, N-1
-Related Nodes: N-10199
+Related Nodes: N-10191
 Tags: relevance:core
 Investigative Direction: Check the memorial program for the list of speakers and who selected them.
 
@@ -3025,7 +3025,7 @@ Transcript Snippet: I was afraid somebody&nbsp; would take a shot at Charlie. An
 
 Anchored Artifacts: A-1277.1
 Mentions: N-7, N-1
-Related Nodes: N-10687
+Related Nodes: N-10625
 Tags: relevance:core
 Investigative Direction: Compare with Turek's later accounts of his actions on September 10 and the other witnesses.
 
@@ -3041,7 +3041,7 @@ Transcript Snippet: there has&nbsp; been a military infiltration into the church
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10139, N-10210
+Related Nodes: N-10134, N-10202
 Tags: relevance:context
 Investigative Direction: Identify the churches and pastors the host means and document the claimed link to military services.
 
@@ -3087,7 +3087,7 @@ Transcript Snippet: when we figure out&nbsp;&nbsp; who killed him because I'm no
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10112
+Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Compare with the charging documents and evidence presented against the accused.
 
@@ -3209,7 +3209,7 @@ Transcript Snippet: you were born Jean-Michel Trogneux. You&nbsp; transitioned a
 
 Anchored Artifacts: A-1280.1
 Mentions: N-3, N-82
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:tangential
 Investigative Direction: Review French civil-status records and the court record in the Delaware defamation case.
 
@@ -3225,7 +3225,7 @@ Transcript Snippet: You got away with um offending Emanuel&nbsp;&nbsp; when he w
 
 Anchored Artifacts: 
 Mentions: N-3, N-82, N-377
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:tangential
 Investigative Direction: Check the French public record on the couple's history and the host's legal filings on this point.
 
@@ -3241,7 +3241,7 @@ Transcript Snippet: You're not even&nbsp;&nbsp; suing me for the claim that I sa
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:tangential
 Investigative Direction: Read the complaint in the Delaware case to see which statements are pleaded.
 
@@ -3257,7 +3257,7 @@ Transcript Snippet: never offered genetic evidence because you didn't&nbsp;&nbsp
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:tangential
 Investigative Direction: Review the court docket for any evidentiary submissions.
 
@@ -3273,7 +3273,7 @@ Transcript Snippet: not gotten to any stage actually. It's like the&nbsp;&nbsp; 
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:tangential
 Investigative Direction: Check the docket for the actual procedural posture.
 
@@ -3349,7 +3349,7 @@ Transcript Snippet: the fact that Trump even invited Kash Patel&nbsp; to that uh
 
 Anchored Artifacts: 
 Mentions: N-3, N-5, N-69
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Check the event guest list and the White House schedule.
 
@@ -3380,7 +3380,7 @@ Transcript Snippet: Miriam Adelson gave him $100&nbsp; million and she was expli
 
 Anchored Artifacts: 
 Mentions: N-3, N-5, N-298
-Related Nodes: N-10589
+Related Nodes: N-10537
 Tags: relevance:context
 Investigative Direction: Check FEC filings for Adelson contributions and public statements by Adelson on annexation.
 
@@ -3396,7 +3396,7 @@ Transcript Snippet: He pre-aggreed to that and he's going to make it&nbsp;&nbsp;
 
 Anchored Artifacts: 
 Mentions: N-3, N-5
-Related Nodes: N-10589
+Related Nodes: N-10537
 Tags: relevance:context
 Investigative Direction: Track administration actions and statements on the West Bank.
 
@@ -3412,7 +3412,7 @@ Transcript Snippet: I hate that he was right about&nbsp;&nbsp; his life
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:context
 Investigative Direction: Compare with the earlier accounts of Kirk's dreams.
 

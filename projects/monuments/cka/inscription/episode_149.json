@@ -504,7 +504,7 @@
           "description": "YouTube comment by \"Oh Seven Sheets\" praising the show",
           "related_claims": [],
           "related_nodes": [
-            "N-10169",
+            "N-10162",
             "N-18"
           ],
           "tags": [],
@@ -609,9 +609,9 @@
             "C-12896"
           ],
           "related_nodes": [
-            "N-10828",
-            "N-10573",
-            "N-10576"
+            "N-10751",
+            "N-10524",
+            "N-10527"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -639,8 +639,8 @@
           "related_nodes": [
             "N-18",
             "N-40",
-            "N-11262",
-            "N-10381",
+            "N-11178",
+            "N-10354",
             "N-3"
           ],
           "tags": [],
@@ -686,7 +686,7 @@
           "related_nodes": [
             "N-896",
             "N-3",
-            "N-11310",
+            "N-11226",
             "N-487"
           ],
           "tags": [],
@@ -713,7 +713,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10573"
+            "N-10524"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -726,11 +726,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Referenced as former Daily Wire CEO on Piers Morgan; no artifact displayed.",
       "related_artifacts": [],
       "related_claims": [
@@ -742,7 +742,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -957,12 +958,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "organization_kind": "media_outlet",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-10898",
-      "ref": "N-10898",
+      "@id": "N-10819",
+      "ref": "N-10819",
       "name": "New York Post",
       "type": "organization",
       "description": "Published profile article on Candace Owens referenced in episode.",
@@ -974,7 +977,9 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [],
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1061,8 +1066,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11407",
-      "ref": "N-11407",
+      "@id": "N-11323",
+      "ref": "N-11323",
       "name": "Integrity Solutions",
       "type": "organization",
       "description": "Organization the host says she had mistakenly believed the security team member she first named as Chester Barnes worked for.",
@@ -1074,12 +1079,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
-      "@id": "N-11408",
-      "ref": "N-11408",
+      "@id": "N-11324",
+      "ref": "N-11324",
       "name": "Perimeter Global Logistics",
       "type": "organization",
       "description": "PGL, a government defense contractor specializing in global freight and cross-border shipping, where the host says Derek Pepper Williams worked after the Navy.",
@@ -1091,14 +1098,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@type": "Organization",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Department of War, formerly Department of Defense.",
       "related_artifacts": [],
       "related_claims": [
@@ -1109,14 +1118,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11017",
-      "ref": "N-11017",
+      "@type": "Topic",
+      "@id": "N-10937",
+      "ref": "N-10937",
       "name": "TPUSA Influencer Payment Campaign Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA influencer payment campaign allegation topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1127,7 +1138,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1220,11 +1232,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10187",
-      "ref": "N-10187",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10179",
+      "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Josh Hammer text message context topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1234,14 +1246,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@type": "Topic",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie's pre-death Israel position topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1251,7 +1264,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
       "@type": "Person",
@@ -1271,11 +1286,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10737",
-      "ref": "N-10737",
-      "name": "CPR Narrative Contradiction (Turek / Harpole)",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10636",
+      "ref": "N-10636",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
+      "type": "investigation_question",
       "description": "Turek and Harpole CPR narrative contradiction topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1286,7 +1301,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1306,11 +1322,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10688",
-      "ref": "N-10688",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10626",
+      "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Frank Turek clothing disposal topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1320,14 +1336,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11310",
-      "ref": "N-11310",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11226",
+      "ref": "N-11226",
       "name": "Security Team Timpanogos Scrubs Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Security team Timpanogos scrubs question topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1341,7 +1358,8 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1363,11 +1381,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10573",
-      "ref": "N-10573",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10524",
+      "ref": "N-10524",
       "name": "Timpanogos Hospital Evidence Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Timpanogos hospital evidence question topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1381,7 +1399,8 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1405,11 +1424,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11191",
-      "ref": "N-11191",
+      "@type": "Organization",
+      "@id": "N-11107",
+      "ref": "N-11107",
       "name": "Pre-Born",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Pre-Born, sponsor named in the host's ad read.",
       "related_artifacts": [],
       "related_claims": [
@@ -1419,14 +1438,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10828",
-      "ref": "N-10828",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10751",
+      "ref": "N-10751",
       "name": "Timpanogos Doctor Recusal Mystery",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Timpanogos doctor recusal mystery topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1437,14 +1458,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10576",
-      "ref": "N-10576",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10527",
+      "ref": "N-10527",
       "name": "Timpanogos Hospital Records / Chain of Custody",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Timpanogos hospital records and chain of custody topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1454,7 +1476,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
       "@type": "Person",
@@ -1475,11 +1499,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11262",
-      "ref": "N-11262",
+      "@type": "Topic",
+      "@id": "N-11178",
+      "ref": "N-11178",
       "name": "Andrew Wilson TPUSA Debate Training Engagement",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Andrew Wilson TPUSA debate training engagement topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1492,14 +1516,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10381",
-      "ref": "N-10381",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tyler Robinson's Panguitch Cowboy Smokehouse visit verification topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1522,7 +1547,8 @@
       "evidence_count": 0,
       "claim_count": 14,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1561,11 +1587,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10062",
-      "ref": "N-10062",
+      "@type": "Place",
+      "@id": "N-10059",
+      "ref": "N-10059",
       "name": "Orem, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Utah city where the host places Robinson's texts by 11:45 p.m.",
       "related_artifacts": [],
       "related_claims": [
@@ -1575,14 +1601,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Authenticity of the Robinson to Lance text chain on which the host says the case hinges.",
       "related_artifacts": [],
       "related_claims": [
@@ -1594,14 +1623,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@type": "Topic",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic on the evidence base of the prosecution.",
       "related_artifacts": [],
       "related_claims": [
@@ -1611,7 +1641,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1649,11 +1680,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10375",
-      "ref": "N-10375",
-      "name": "Fort Huachuca Sighting Verification",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "topic",
       "description": "Fort Huachuca sighting verification topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1664,14 +1695,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Harpole's Fort Huachuca presence verification topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1681,14 +1714,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10024",
       "ref": "N-10024",
       "name": "Kirk Assassination Investigation Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host's investigation timeline topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1698,14 +1733,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10045"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10581",
-      "ref": "N-10581",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10532",
+      "ref": "N-10532",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Defense chain of custody and documents topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1715,14 +1752,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10953",
-      "ref": "N-10953",
+      "@type": "Organization",
+      "@id": "N-10874",
+      "ref": "N-10874",
       "name": "Paleo Valley",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Sponsor named in the host's ad read.",
       "related_artifacts": [],
       "related_claims": [
@@ -1732,12 +1771,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
-      "@id": "N-11409",
-      "ref": "N-11409",
+      "@id": "N-11325",
+      "ref": "N-11325",
       "name": "Fatty15",
       "type": "organization",
       "description": "Sponsor named in the host's ad read for C15 supplements.",
@@ -1749,7 +1790,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -2224,7 +2267,7 @@
         "A-2433.2"
       ],
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ],
       "tags": [],
       "claim_timestamp": "00:31:38",
@@ -2351,7 +2394,7 @@
       "claim": "The host says the TPUSA security team member in the hat and plaid shirt had been named earlier on her show as Chester Barnes, believed to be working with Integrity Solutions, and that the identification was wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11407"
+        "N-11323"
       ],
       "tags": [
         "relevance:core"
@@ -2411,7 +2454,7 @@
       "claim": "The host says Perimeter Global Logistics specializes in global freight shipping and over-the-border shipping in Texas, where she says Williams is based.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11408"
+        "N-11324"
       ],
       "tags": [
         "relevance:core"
@@ -2434,8 +2477,8 @@
       "claim": "The host says the Department of Defense, which she says is oddly tied to the Kirk assassination in unexpected ways, has been instructing influencers to attack her over her investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
-        "N-11017"
+        "N-10809",
+        "N-10937"
       ],
       "tags": [
         "relevance:core"
@@ -2581,7 +2624,7 @@
       "claim": "The host says Frank Turek joined Charlie the next day for the Zoom call, which she says included two Israeli officials, Rabbi Wolicki, Josh Hammer, Blake Neff and Andrew Kolvet, supposedly to help with debating.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2611,7 +2654,7 @@
       "claim": "The host says two Israeli officials joined Charlie's Zoom call at 4:00 a.m. in the morning their time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2634,7 +2677,7 @@
       "claim": "The host says Josh Hammer was caught lying about whether Charlie's views on Israel had shifted, repeatedly insisting that Charlie never flinched until she released a text message.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10187"
+        "N-10179"
       ],
       "tags": [
         "relevance:core"
@@ -2656,7 +2699,7 @@
       "claim": "The host says Charlie announced he was abandoning the pro-Israel cause roughly two hours before the Zoom call, something she says the others felt the need to lie about.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -2743,7 +2786,7 @@
       "claim": "The host says the team told the public that Charlie was so long that they had to leave the door open and his legs hung out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2763,7 +2806,7 @@
       "claim": "The host says she cannot accept that Turek shifted Charlie by himself in a couple of minutes and performed CPR without anyone noticing, given the limited space in the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2901,8 +2944,8 @@
       "claim": "The host theorizes that Turek needs a reason for why he changed into surgical scrubs, and that the CPR story gives him one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10688",
-        "N-11310"
+        "N-10626",
+        "N-11226"
       ],
       "tags": [
         "relevance:core"
@@ -3084,7 +3127,7 @@
         "A-2431.1"
       ],
       "related_nodes": [
-        "N-10573"
+        "N-10524"
       ],
       "tags": [
         "relevance:core"
@@ -3124,7 +3167,7 @@
       "claim": "The host says she then learned the surgical scrubs were provided by Mikey, and finds it strange that hospital staff would not give them out themselves but gave them to Charlie's young assistant who arrived later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11310"
+        "N-11226"
       ],
       "tags": [
         "relevance:core"
@@ -3150,7 +3193,7 @@
         "A-3353.1"
       ],
       "related_nodes": [
-        "N-10573"
+        "N-10524"
       ],
       "tags": [
         "relevance:core"
@@ -3261,8 +3304,8 @@
       "claim": "The host says it seems a risk and unusual for a hospital to hand out surgical scrubs to everyone for no reason and says she kind of thinks the hospital should be investigated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11310",
-        "N-10573"
+        "N-11226",
+        "N-10524"
       ],
       "tags": [
         "relevance:core"
@@ -3271,7 +3314,7 @@
       "investigative_direction": "Request Timpanogos policies on scrub issue to non-staff and any log of scrubs issued Sept 10.",
       "transcript_snippet": "It seems like a risk to just be handing out surgical scrubs to everyone apparently uh for no reason.",
       "mentions_person_refs": [
-        "N-10573"
+        "N-10524"
       ]
     },
     {
@@ -3282,7 +3325,7 @@
       "claim": "The host says hospital staff were allowing Brian Harpole to jump on patients and cut their shirts, to shout medications to give, and she asks why he was guarding the door.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10573"
+        "N-10524"
       ],
       "tags": [
         "relevance:core"
@@ -3344,7 +3387,7 @@
         "A-2432.3"
       ],
       "related_nodes": [
-        "N-11310"
+        "N-11226"
       ],
       "tags": [
         "relevance:core"
@@ -3386,7 +3429,7 @@
       "claim": "In a sponsor read the host says Pre-Born has saved nearly 60,000 babies from abortion this year.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11191"
+        "N-11107"
       ],
       "tags": [
         "relevance:tangential"
@@ -3405,8 +3448,8 @@
         "A-3350.1"
       ],
       "related_nodes": [
-        "N-10828",
-        "N-10573"
+        "N-10751",
+        "N-10524"
       ],
       "tags": [
         "relevance:core"
@@ -3415,7 +3458,7 @@
       "investigative_direction": "Identify the physician through hospital staffing and records and ask the hospital whether any provider requested removal from the chart.",
       "transcript_snippet": "there was allegedly a disagreement uh during or immediately after the surg surgery where this doctor felt the need to recuse himself and completely remove himself from the situation altogether.",
       "mentions_person_refs": [
-        "N-10573"
+        "N-10524"
       ]
     },
     {
@@ -3428,8 +3471,8 @@
         "A-3350.1"
       ],
       "related_nodes": [
-        "N-10828",
-        "N-10576"
+        "N-10751",
+        "N-10527"
       ],
       "tags": [
         "relevance:core"
@@ -3438,7 +3481,7 @@
       "investigative_direction": "Request hospital records of any name-removal or amendment request and the date it was made.",
       "transcript_snippet": "he asked to have all of his name his name removed from anything to do with it off all of the records",
       "mentions_person_refs": [
-        "N-10576"
+        "N-10527"
       ]
     },
     {
@@ -3449,7 +3492,7 @@
       "claim": "The host says Andrew Wilson was not sent to debate her on evidence but to entrap her in a lawsuit with out-of-context clips and to defend Israel and Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11262"
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -3471,8 +3514,8 @@
       "claim": "The host says one of Wilson's aims was to demand she remove the Panguitch steakhouse visit from her official timeline.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381",
-        "N-11262"
+        "N-10354",
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -3493,7 +3536,7 @@
       "claim": "The host says her show covered Tyler Robinson's alleged Cowboy Smokehouse visit on January 6 and that she spoke to the owner at that time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3516,7 +3559,7 @@
       "claim": "The host says the six-month-old Cowboy Smokehouse story suddenly became a focal point ahead of the preliminary hearing with a bunch of people trying to debunk it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3533,8 +3576,8 @@
       "claim": "The host says the Department of Defense was somehow involved in getting all of these influencers and that she has figured out how people are getting paid, promising more later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
-        "N-11017"
+        "N-10809",
+        "N-10937"
       ],
       "tags": [
         "relevance:core"
@@ -3546,7 +3589,7 @@
         "C-12840"
       ],
       "mentions_person_refs": [
-        "N-11017"
+        "N-10937"
       ]
     },
     {
@@ -3580,7 +3623,7 @@
       "claim": "The host says many people insisted at various times that the receipt was fake, non-existent, or that the story had been debunked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3597,7 +3640,7 @@
       "claim": "The host says the Cowboy Smokehouse owner did not claim to be there that night and basically relayed what his servers told him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3614,7 +3657,7 @@
       "claim": "The host says she guesses the people behind the bad reviews written about the restaurant since July are the feds sloppers, who she says want the story debunked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:context"
@@ -3633,8 +3676,8 @@
         "A-3351.1"
       ],
       "related_nodes": [
-        "N-11262",
-        "N-10381"
+        "N-11178",
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3657,7 +3700,7 @@
         "A-3351.1"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3678,8 +3721,8 @@
       "claim": "The host says Tyler's messages to Lance that evening put him in Orem by 11:45 p.m.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10062",
-        "N-10077"
+        "N-10059",
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3700,8 +3743,8 @@
       "claim": "The host says the case currently hinges almost entirely on the text messages to Lance.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337",
-        "N-10077"
+        "N-10316",
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3722,8 +3765,8 @@
       "claim": "The host says that if the steakhouse receipt is confirmed, it removes any possibility that the text messages were sent from Tyler Robinson, with the caveat that he could have lied about where he was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10077",
-        "N-10381"
+        "N-10074",
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3784,7 +3827,7 @@
       "claim": "The host says the receipt claim has a blind spot because it relies on the memory of the server or servers, who could be sincere but mistaken, so she never said she was 100 percent sure.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3801,7 +3844,7 @@
       "claim": "The host says she confirmed Mitch Snow was at Fort Huachuca and which hotel he stayed at, and confirmed he had a dust-up with the military police.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10375"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3824,8 +3867,8 @@
       "claim": "The host says she cannot confirm that Mitch Snow actually saw Erika Kirk in the lobby or Brian Harpole, because that relies on his memory.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373",
-        "N-10375"
+        "N-10347",
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3847,7 +3890,7 @@
       "claim": "The host says it is possible someone else had Robinson's card and was dressed like him or looked like him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3868,7 +3911,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10024",
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:context"
@@ -3877,7 +3920,7 @@
       "investigative_direction": "Compare the host's current timeline version with earlier versions for the Smokehouse entry.",
       "transcript_snippet": "So, I'm not just putting this on the timeline, unofficial timeline. I'm bolding that now.",
       "mentions_person_refs": [
-        "N-10381"
+        "N-10354"
       ]
     },
     {
@@ -3888,7 +3931,7 @@
       "claim": "The host says she expects it will come out during the trial that it was Tyler Robinson's card swiped at the Cowboy Smokehouse that night.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3908,8 +3951,8 @@
       "claim": "The host says it is now the job of Robinson's defense team to confirm or deny her account and that an electronic record cannot be simply lied about and wiped away.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10581",
-        "N-10381"
+        "N-10532",
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -3929,7 +3972,7 @@
       "claim": "In a sponsor read the host says Paleo Valley uses 100 percent grass-fed and grass-finished beef sourced from American family farms.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10953"
+        "N-10874"
       ],
       "tags": [
         "relevance:tangential"
@@ -3946,7 +3989,7 @@
       "claim": "In a sponsor read the host says researchers have found that low levels of C15 may impact how well cells age and function over time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11409"
+        "N-11325"
       ],
       "tags": [
         "relevance:tangential"
@@ -4053,7 +4096,7 @@
         "A-2435.4"
       ],
       "related_nodes": [
-        "N-11262"
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -4220,7 +4263,7 @@
         "A-3352.2"
       ],
       "related_nodes": [
-        "N-11310"
+        "N-11226"
       ],
       "tags": [
         "relevance:core",

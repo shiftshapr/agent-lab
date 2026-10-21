@@ -37,7 +37,7 @@
             "N-2",
             "N-3",
             "N-159",
-            "N-11412"
+            "N-11328"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -58,7 +58,7 @@
             "N-1",
             "N-2",
             "N-159",
-            "N-11412"
+            "N-11328"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -83,8 +83,8 @@
             "C-13977"
           ],
           "related_nodes": [
-            "N-11091",
-            "N-11412"
+            "N-11009",
+            "N-11328"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -140,8 +140,8 @@
             "C-13987"
           ],
           "related_nodes": [
-            "N-10880",
-            "N-11413"
+            "N-10801",
+            "N-11329"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -185,9 +185,9 @@
             "C-13994"
           ],
           "related_nodes": [
-            "N-10880",
+            "N-10801",
             "N-351",
-            "N-11414"
+            "N-11330"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -204,8 +204,8 @@
             "C-13995"
           ],
           "related_nodes": [
-            "N-11414",
-            "N-11415"
+            "N-11330",
+            "N-11331"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -234,7 +234,7 @@
           "related_nodes": [
             "N-949",
             "N-950",
-            "N-11415"
+            "N-11331"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -264,8 +264,8 @@
             "N-224",
             "N-266",
             "N-271",
-            "N-10356",
-            "N-10681"
+            "N-10256",
+            "N-10619"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -293,7 +293,7 @@
           "related_nodes": [
             "N-14",
             "N-271",
-            "N-11087"
+            "N-11005"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -323,8 +323,8 @@
             "N-1",
             "N-8",
             "N-750",
-            "N-10839",
-            "N-11215"
+            "N-10762",
+            "N-11131"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -342,7 +342,7 @@
           ],
           "related_nodes": [
             "N-750",
-            "N-10839"
+            "N-10762"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -398,7 +398,7 @@
           "related_nodes": [
             "N-130",
             "N-614",
-            "N-10899"
+            "N-10820"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -425,7 +425,7 @@
           "related_nodes": [
             "N-14",
             "N-46",
-            "N-11412"
+            "N-11328"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -482,7 +482,7 @@
             "C-14045"
           ],
           "related_nodes": [
-            "N-10880",
+            "N-10801",
             "N-351"
           ],
           "tags": [],
@@ -1134,11 +1134,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says blamed Jeff Long and is tied to the clipping campaign.",
       "related_artifacts": [],
       "related_claims": [
@@ -1154,14 +1154,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the resignations the host reports.",
       "related_artifacts": [],
       "related_claims": [
@@ -1173,14 +1175,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the official account is that Erika did not know about threats the night before.",
       "related_artifacts": [],
       "related_claims": [
@@ -1190,14 +1194,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10356",
-      "ref": "N-10356",
-      "name": "Brian Harpole Dan Flood Text Misattribution",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10256",
+      "ref": "N-10256",
+      "name": "Harpole–Flood Text Attribution Discrepancy",
+      "type": "investigation_question",
       "description": "Host says Harpole presented the Flood text as his own.",
       "related_artifacts": [
         "A-3365.1"
@@ -1211,14 +1216,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10681",
-      "ref": "N-10681",
+      "@type": "Thing",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Harpole's Shawn Ryan clip replayed in this episode.",
       "related_artifacts": [
         "A-3365.1"
@@ -1232,14 +1238,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10839",
-      "ref": "N-10839",
+      "@type": "Thing",
+      "@id": "N-10762",
+      "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Review the host cites on Harpole, Crofts and Ebmeyer.",
       "related_artifacts": [
         "A-3367.2",
@@ -1258,14 +1265,15 @@
       "evidence_count": 2,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Report"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the review confirmed Harpole misrepresented things.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,14 +1283,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10880",
-      "ref": "N-10880",
+      "@type": "Organization",
+      "@id": "N-10801",
+      "ref": "N-10801",
       "name": "Monster Lab / Clippet",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Clipping site the host says is now blocked in the U.S.; Clip It LLC is its Wyoming filing per the host.",
       "related_artifacts": [
         "A-3362.1",
@@ -1304,14 +1314,16 @@
       "evidence_count": 3,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10881",
-      "ref": "N-10881",
+      "@type": "Topic",
+      "@id": "N-10802",
+      "ref": "N-10802",
       "name": "Elephant Clipping Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Campaign the host says became a go-to for Shapiro and Crowder.",
       "related_artifacts": [],
       "related_claims": [
@@ -1323,14 +1335,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10882",
-      "ref": "N-10882",
+      "@type": "Organization",
+      "@id": "N-10803",
+      "ref": "N-10803",
       "name": "Enclave and Key",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Blake Wynn's firm; Atlantic reporting on drive deletions recalled.",
       "related_artifacts": [],
       "related_claims": [
@@ -1341,14 +1354,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10883",
-      "ref": "N-10883",
+      "@type": "Topic",
+      "@id": "N-10804",
+      "ref": "N-10804",
       "name": "Anti-Candace Paid Clipping Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host says the operator pays people to harass her; contrasts her own organic clips.",
       "related_artifacts": [],
       "related_claims": [
@@ -1359,14 +1374,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10886",
-      "ref": "N-10886",
+      "@type": "Place",
+      "@id": "N-10807",
+      "ref": "N-10807",
       "name": "Latvia",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Operator's home country per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1378,14 +1394,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10887",
-      "ref": "N-10887",
+      "@type": "Place",
+      "@id": "N-10808",
+      "ref": "N-10808",
       "name": "Las Vegas",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Location of Wynn's firm and the TPUSA office the host recalls.",
       "related_artifacts": [],
       "related_claims": [
@@ -1396,14 +1414,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10889",
-      "ref": "N-10889",
+      "@type": "Thing",
+      "@id": "N-10810",
+      "ref": "N-10810",
       "name": "Atlantic Elephant Clipping Expose",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Atlantic article the host cites on drive deletions and the September 15 start.",
       "related_artifacts": [],
       "related_claims": [
@@ -1414,14 +1434,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Article",
+      "parent": "N-10802"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10891",
-      "ref": "N-10891",
+      "@type": "Event",
+      "@id": "N-10812",
+      "ref": "N-10812",
       "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Host says per the Atlantic the campaign began September 15.",
       "related_artifacts": [],
       "related_claims": [
@@ -1434,14 +1456,17 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-15"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@type": "Organization",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Gary Melton's account in the Ian Carroll exchange.",
       "related_artifacts": [
         "A-3369.1"
@@ -1455,14 +1480,16 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10864",
-      "ref": "N-10864",
+      "@type": "Thing",
+      "@id": "N-10785",
+      "ref": "N-10785",
       "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Host cites it as saying the sun revolved around Charlie at TPUSA.",
       "related_artifacts": [],
       "related_claims": [
@@ -1472,14 +1499,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Article"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11087",
-      "ref": "N-11087",
+      "@type": "Thing",
+      "@id": "N-11005",
+      "ref": "N-11005",
       "name": "TPUSA Notice of Intent to Sue UVU",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Host says Kolvet blamed Long after the Kirk family filed intent to sue.",
       "related_artifacts": [
         "A-3366.1"
@@ -1491,14 +1519,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11091",
-      "ref": "N-11091",
+      "@type": "Thing",
+      "@id": "N-11009",
+      "ref": "N-11009",
       "name": "Wear Forbidden",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Account whose parody video the host plays.",
       "related_artifacts": [
         "A-3360.1"
@@ -1510,14 +1539,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11215",
-      "ref": "N-11215",
+      "@type": "Topic",
+      "@id": "N-11131",
+      "ref": "N-11131",
       "name": "UVU Security Team Conduct and Ticket-Count Communication",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host says TPUSA controlled tickets and told Long 600 people.",
       "related_artifacts": [
         "A-3367.1"
@@ -1530,14 +1560,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11359",
-      "ref": "N-11359",
+      "@type": "Organization",
+      "@id": "N-11275",
+      "ref": "N-11275",
       "name": "Chabad Lubavitch",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Host ties Kolomoisky to Chabad-Lubavitch.",
       "related_artifacts": [],
       "related_claims": [
@@ -1547,14 +1578,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11412",
-      "ref": "N-11412",
+      "@type": "Event",
+      "@id": "N-11328",
+      "ref": "N-11328",
       "name": "Blake Neff \"Murdering Charlie\" Slip",
-      "type": "topic",
+      "type": "event",
       "description": "Blake Neff's X space remark that the host would \"hate Erika for murdering Charlie\", which another participant said meant \"marrying\"; framed by the host as a Freudian slip alongside Kolvet's \"processing their guilt\".",
       "related_artifacts": [
         "A-3359.2",
@@ -1577,12 +1610,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-159"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Topic",
-      "@id": "N-11413",
-      "ref": "N-11413",
+      "@id": "N-11329",
+      "ref": "N-11329",
       "name": "Monster Lab U.S. Access Block",
       "type": "topic",
       "description": "The host's report that the Monster Lab site shows \"Not available in your region\" from the United States after her prior episode, while remaining visible via VPN from Latvia and other countries.",
@@ -1600,13 +1635,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10880"
-      ]
+        "N-10801"
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10801"
     },
     {
       "@type": "Topic",
-      "@id": "N-11414",
-      "ref": "N-11414",
+      "@id": "N-11330",
+      "ref": "N-11330",
       "name": "Clip It LLC Wyoming Filing and Registered Agent",
       "type": "topic",
       "description": "The Clip It LLC Wyoming filing (May 28, 2025 per the host), connected by the host to Matiss Tabuns, and its registered agent address, which the host says belongs to an agent running nearly 3,000 businesses.",
@@ -1629,14 +1666,16 @@
       "related_nodes": [
         "N-351",
         "N-949"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10801"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11415",
-      "ref": "N-11415",
+      "@type": "Thing",
+      "@id": "N-11331",
+      "ref": "N-11331",
       "name": "Pandora Papers",
-      "type": "topic",
+      "type": "thing",
       "description": "The 2021 ICIJ leak of about 12 million offshore financial records; the host links the Clip It LLC registered agent to Pandora Papers reporting on Wyoming registered agents.",
       "related_artifacts": [
         "A-3363.3",
@@ -1660,13 +1699,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11416"
-      ]
+        "N-11332"
+      ],
+      "schema_org": "CreativeWork"
     },
     {
       "@type": "Organization",
-      "@id": "N-11416",
-      "ref": "N-11416",
+      "@id": "N-11332",
+      "ref": "N-11332",
       "name": "International Consortium of Investigative Journalists",
       "type": "organization",
       "description": "Journalism consortium the host says obtained the Pandora Papers records and estimated offshore holdings.",
@@ -1682,13 +1722,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11415"
-      ]
+        "N-11331"
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
-      "@id": "N-11417",
-      "ref": "N-11417",
+      "@id": "N-11333",
+      "ref": "N-11333",
       "name": "UVU Post-Review Resignations",
       "type": "topic",
       "description": "The host's reports, from UVU sources, that Police Chief Jeff Long has resigned and that emergency management director Robin Ebmeyer is resigning or has resigned after the independent review, with circumstances unknown.",
@@ -1708,14 +1750,16 @@
       "related_nodes": [
         "N-271",
         "N-750"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10762"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11418",
-      "ref": "N-11418",
+      "@type": "Event",
+      "@id": "N-11334",
+      "ref": "N-11334",
       "name": "TPUSA Las Vegas Office Opening",
-      "type": "topic",
+      "type": "event",
       "description": "The host's recollection that TPUSA, with Erika Kirk, opened an office in Las Vegas, possibly in March.",
       "related_artifacts": [],
       "related_claims": [
@@ -1727,8 +1771,11 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10887"
-      ]
+        "N-10808"
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10808"
     }
   ],
   "claims": [
@@ -1740,9 +1787,9 @@
       "claim": "The host says she believes the Monster Lab website is the true source of Blake Neff's panic, suggesting it is because \"this Latvian nerd pays people to harass me\".",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10880",
-        "N-10883",
-        "N-10886"
+        "N-10801",
+        "N-10804",
+        "N-10807"
       ],
       "tags": [
         "relevance:context"
@@ -1806,7 +1853,7 @@
         "A-3359.1"
       ],
       "related_nodes": [
-        "N-11412"
+        "N-11328"
       ],
       "tags": [
         "relevance:core"
@@ -1850,7 +1897,7 @@
         "A-3359.2"
       ],
       "related_nodes": [
-        "N-11412"
+        "N-11328"
       ],
       "tags": [
         "relevance:core"
@@ -1874,7 +1921,7 @@
         "A-3359.2"
       ],
       "related_nodes": [
-        "N-11412"
+        "N-11328"
       ],
       "tags": [
         "relevance:core"
@@ -1931,7 +1978,7 @@
       "claim": "The host says she thinks Andrew Kolvet said very early on that they were processing their guilt, and Megyn Kelly told him he meant grief.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11412"
+        "N-11328"
       ],
       "tags": [
         "relevance:core"
@@ -1954,8 +2001,8 @@
         "A-3360.1"
       ],
       "related_nodes": [
-        "N-11091",
-        "N-11412"
+        "N-11009",
+        "N-11328"
       ],
       "tags": [
         "relevance:tangential"
@@ -1964,7 +2011,7 @@
       "investigative_direction": "Wear Forbidden post and its date.",
       "transcript_snippet": "The amazing Wear Forbidden account already has a video out documenting this incident.",
       "mentions_person_refs": [
-        "N-11412"
+        "N-11328"
       ]
     },
     {
@@ -1993,8 +2040,8 @@
       "claim": "The host says the files for clipping Erika Kirk and Turning Point USA were provided by a Las Vegas marketing firm owned by Erika's friend Blake Wynn, a firm she says has an imprint in Romania.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10882",
-        "N-10887",
+        "N-10803",
+        "N-10808",
         "N-10000"
       ],
       "tags": [
@@ -2019,7 +2066,7 @@
       "claim": "The host says, referring to what she showed the day before, that the clipping campaign involved paying a million dollars a month through Discord, which she calls \"high-end sleaze\".",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10881",
+        "N-10802",
         "N-10000"
       ],
       "tags": [
@@ -2043,7 +2090,7 @@
       "claim": "Speaking in Erika's voice satirically, the host alleges that Erika's non-Christian friend is apparently directing his employees to market her on a website run by a Latvian man, five days after her husband's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10891"
+        "N-10812"
       ],
       "tags": [
         "relevance:core"
@@ -2127,8 +2174,8 @@
       "claim": "The host says the Atlantic article reported that the videos were deleted from the Google Drive providing the clips and that many campaigns were pulled after the writer began asking about Enclave and Key's involvement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10882",
-        "N-10889"
+        "N-10803",
+        "N-10810"
       ],
       "tags": [
         "relevance:context"
@@ -2153,8 +2200,8 @@
         "A-3362.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-11413"
+        "N-10801",
+        "N-11329"
       ],
       "tags": [
         "relevance:context"
@@ -2163,7 +2210,7 @@
       "investigative_direction": "Check the site from U.S. and non-U.S. addresses; geoblock settings and dates.",
       "transcript_snippet": "we regret to inform you that if you are in the United States, that website is now blocked. You can't see it without a VPN.",
       "mentions_person_refs": [
-        "N-11413"
+        "N-11329"
       ]
     },
     {
@@ -2176,8 +2223,8 @@
         "A-3362.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-11413"
+        "N-10801",
+        "N-11329"
       ],
       "tags": [
         "relevance:context"
@@ -2186,7 +2233,7 @@
       "investigative_direction": "Independent access tests from multiple regions.",
       "transcript_snippet": "And we tried it in other countries, and we could see the website. It's particularly taken down in the United States.",
       "mentions_person_refs": [
-        "N-11413"
+        "N-11329"
       ]
     },
     {
@@ -2197,7 +2244,7 @@
       "claim": "The host says that the name she gave the previous day for the person running the site, Mat Servius [Matiss Tabuns], was wrong, and that people in Latvia emailed to say Servius is not a Latvian surname.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10886"
+        "N-10807"
       ],
       "tags": [
         "relevance:context"
@@ -2220,7 +2267,7 @@
       "claim": "The host says, per emailers, that the real name of the person running the site is Matiss Tabuns, spelling the surname T-A-B-U-N-S.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:context"
@@ -2240,7 +2287,7 @@
       "claim": "The host says, according to her sources, that Tabuns is from the small town of Talsi in Latvia, where he allegedly dropped out of high school in his junior year, around 2019.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10886"
+        "N-10807"
       ],
       "tags": [
         "relevance:tangential"
@@ -2302,8 +2349,8 @@
         "A-3363.2"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-11414"
+        "N-10801",
+        "N-11330"
       ],
       "tags": [
         "relevance:context"
@@ -2325,7 +2372,7 @@
         "A-3363.2"
       ],
       "related_nodes": [
-        "N-11414"
+        "N-11330"
       ],
       "tags": [
         "relevance:context"
@@ -2347,8 +2394,8 @@
         "A-3363.3"
       ],
       "related_nodes": [
-        "N-11414",
-        "N-11415"
+        "N-11330",
+        "N-11331"
       ],
       "tags": [
         "relevance:context"
@@ -2357,7 +2404,7 @@
       "investigative_direction": "Wyoming registry count of entities using that agent and address.",
       "transcript_snippet": "a registered agent who's apparently running nearly 3,000 businesses out of this dump of a house falling apart.",
       "mentions_person_refs": [
-        "N-11415"
+        "N-11331"
       ]
     },
     {
@@ -2368,8 +2415,8 @@
       "claim": "The host says the registered agent is an 82-year-old woman who was mentioned throughout the Pandora Papers, later naming her as Cindy Jackson of Wyoming, the same agent used for Clip It LLC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11414",
-        "N-11415"
+        "N-11330",
+        "N-11331"
       ],
       "tags": [
         "relevance:context"
@@ -2390,7 +2437,7 @@
       "claim": "The host describes the Pandora Papers as an international oligarch and politician scandal in which politicians and prime ministers had to resign in 2021.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11415"
+        "N-11331"
       ],
       "tags": [
         "relevance:tangential"
@@ -2407,8 +2454,8 @@
       "claim": "The host says the Pandora Papers were a leak of approximately 12 million financial records obtained by the International Consortium of Investigative Journalists.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11415",
-        "N-11416"
+        "N-11331",
+        "N-11332"
       ],
       "tags": [
         "relevance:tangential"
@@ -2417,7 +2464,7 @@
       "investigative_direction": "ICIJ Pandora Papers project page.",
       "transcript_snippet": "there was essentially a massive leak of approximately 12 million financial records.",
       "mentions_person_refs": [
-        "N-11416"
+        "N-11332"
       ]
     },
     {
@@ -2428,8 +2475,8 @@
       "claim": "The host says the files implicated 35 current and former world leaders and more than 330 politicians and public officials across 91 countries.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11415",
-        "N-11416"
+        "N-11331",
+        "N-11332"
       ],
       "tags": [
         "relevance:tangential"
@@ -2438,7 +2485,7 @@
       "investigative_direction": "ICIJ Pandora Papers summary figures.",
       "transcript_snippet": "35 current at the time and former world leaders were implicated.",
       "mentions_person_refs": [
-        "N-11416"
+        "N-11332"
       ]
     },
     {
@@ -2449,8 +2496,8 @@
       "claim": "The host says the ICIJ estimated at the time that between 6 and 32 trillion dollars was held in offshore accounts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11415",
-        "N-11416"
+        "N-11331",
+        "N-11332"
       ],
       "tags": [
         "relevance:tangential"
@@ -2459,7 +2506,7 @@
       "investigative_direction": "ICIJ published estimate of offshore holdings.",
       "transcript_snippet": "was anywhere between 6 and 32 trillion dollars.",
       "mentions_person_refs": [
-        "N-11416"
+        "N-11332"
       ]
     },
     {
@@ -2470,8 +2517,8 @@
       "claim": "The host says a woman named for helping set up virtually untraceable LLCs was Cindy Jackson of Wyoming, the same registered agent Tabuns used for Clip It LLC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11414",
-        "N-11415"
+        "N-11330",
+        "N-11331"
       ],
       "tags": [
         "relevance:context"
@@ -2494,7 +2541,7 @@
         "A-3364.1"
       ],
       "related_nodes": [
-        "N-11415"
+        "N-11331"
       ],
       "tags": [
         "relevance:context"
@@ -2516,7 +2563,7 @@
         "A-3364.1"
       ],
       "related_nodes": [
-        "N-11415"
+        "N-11331"
       ],
       "tags": [
         "relevance:context"
@@ -2538,7 +2585,7 @@
         "A-3364.1"
       ],
       "related_nodes": [
-        "N-11415"
+        "N-11331"
       ],
       "tags": [
         "relevance:tangential"
@@ -2559,7 +2606,7 @@
       "claim": "The host says Igor Kolomoisky is an Israeli-Ukrainian billionaire with ties to Chabad-Lubavitch.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11359"
+        "N-11275"
       ],
       "tags": [
         "relevance:tangential"
@@ -2598,7 +2645,7 @@
       "claim": "The host says the website launched just in time for the Charlie Kirk assassination and that, according to Tabuns, it has been up for one year.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:context"
@@ -2621,8 +2668,8 @@
       "claim": "The host says one of the first clients on the site was a close friend of Erika Kirk, marketing videos of her five days after Charlie's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10880",
-        "N-10891"
+        "N-10801",
+        "N-10812"
       ],
       "tags": [
         "relevance:core"
@@ -2646,7 +2693,7 @@
       "claim": "The host says Elephant Clipping grew to become the go-to for people like Ben Shapiro and Steven Crowder, whom she mocks as certain Tyler Robinson killed Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ],
       "tags": [
         "relevance:context"
@@ -2669,7 +2716,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-11417"
+        "N-11333"
       ],
       "tags": [
         "relevance:core"
@@ -2690,7 +2737,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10839"
+        "N-10762"
       ],
       "tags": [
         "relevance:core"
@@ -2713,7 +2760,7 @@
       "claim": "The host alleges it was misrepresented to the public that the text message was sent to Brian Harpole and that it concerned the Losee Center rooftop, citing Harpole's appearance with Shawn Ryan in November.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10356"
+        "N-10256"
       ],
       "tags": [
         "relevance:core"
@@ -2737,7 +2784,7 @@
         "A-3365.1"
       ],
       "related_nodes": [
-        "N-10681"
+        "N-10619"
       ],
       "tags": [
         "relevance:core"
@@ -2761,7 +2808,7 @@
         "A-3365.1"
       ],
       "related_nodes": [
-        "N-10681"
+        "N-10619"
       ],
       "tags": [
         "relevance:core"
@@ -2784,7 +2831,7 @@
         "A-3365.1"
       ],
       "related_nodes": [
-        "N-10681"
+        "N-10619"
       ],
       "tags": [
         "relevance:core"
@@ -2805,9 +2852,9 @@
       "claim": "The host says the UVU independent review confirmed what she had said, that Brian Harpole was severely misrepresenting things.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10839",
-        "N-10862",
-        "N-10356"
+        "N-10762",
+        "N-10783",
+        "N-10256"
       ],
       "tags": [
         "relevance:core"
@@ -2827,7 +2874,7 @@
       "claim": "The host asks why Dan Flood would give Harpole the message and allow him to misrepresent it, noting \"we haven't heard from Dan Flood\".",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10356"
+        "N-10256"
       ],
       "tags": [
         "relevance:core"
@@ -2848,7 +2895,7 @@
       "claim": "The host says the message the public has been given is that Erika did not know about the threats the night before, and asks whether she conducted any internal investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2888,7 +2935,7 @@
         "A-3366.1"
       ],
       "related_nodes": [
-        "N-11087"
+        "N-11005"
       ],
       "tags": [
         "relevance:core"
@@ -2951,7 +2998,7 @@
       "claim": "The host says Jeff Long was harassed over the misrepresentation and asks whether he is going to sue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11417"
+        "N-11333"
       ],
       "tags": [
         "relevance:core"
@@ -2973,7 +3020,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11215"
+        "N-11131"
       ],
       "tags": [
         "relevance:core"
@@ -2996,7 +3043,7 @@
       "claim": "The host says Jeff Long did a lot to correct course on September 10 and called in more officers when he realized more people were attending, which she says the report reflects.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [
         "relevance:core"
@@ -3036,7 +3083,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-11417"
+        "N-11333"
       ],
       "tags": [
         "relevance:core"
@@ -3076,7 +3123,7 @@
         "A-3367.1"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [
         "relevance:core"
@@ -3099,8 +3146,8 @@
         "A-3367.1"
       ],
       "related_nodes": [
-        "N-10839",
-        "N-11215"
+        "N-10762",
+        "N-11131"
       ],
       "tags": [
         "relevance:core"
@@ -3123,7 +3170,7 @@
         "A-3367.1"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [
         "relevance:core"
@@ -3145,7 +3192,7 @@
         "A-3367.2"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [
         "relevance:core"
@@ -3165,7 +3212,7 @@
       "claim": "The host corrects herself that she should not say Ebmeyer was let go, saying she has heard Ebmeyer resigned, and wonders whether the resignations were forced.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11417"
+        "N-11333"
       ],
       "tags": [
         "relevance:core"
@@ -3186,7 +3233,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-11417"
+        "N-11333"
       ],
       "tags": [
         "relevance:core"
@@ -3250,7 +3297,7 @@
         "A-3369.1"
       ],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:tangential"
@@ -3273,7 +3320,7 @@
         "A-3369.1"
       ],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:tangential"
@@ -3296,7 +3343,7 @@
         "A-3369.1"
       ],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:tangential"
@@ -3317,7 +3364,7 @@
       "claim": "The host says, citing the Vanity Fair article, that at TPUSA the sun revolved around Charlie, and that Turning Point USA 1.0 is done.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [
         "relevance:context"
@@ -3355,7 +3402,7 @@
       "claim": "Responding to a viewer comment saying she pays $0 in advertising, the host says \"Zero, none,\" says she does not use clippers in foreign countries to promote the show, and that anyone clipping the show does so organically.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10883"
+        "N-10804"
       ],
       "tags": [
         "relevance:context"
@@ -3378,7 +3425,7 @@
       "claim": "The host says that when Blake Neff freaks out and America-focused websites are blocked in America, her team is onto something.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11413"
+        "N-11329"
       ],
       "tags": [
         "relevance:context"
@@ -3398,7 +3445,7 @@
       "claim": "The host says she does not believe Tabuns' come-up story and thinks he is working on behalf of someone else.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:context"
@@ -3420,7 +3467,7 @@
         "A-3371.1"
       ],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:context"
@@ -3440,9 +3487,9 @@
       "claim": "Responding to a viewer comment, the host says that according to The Atlantic the paid campaign began on September 15.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10889",
-        "N-10891",
-        "N-10881"
+        "N-10810",
+        "N-10812",
+        "N-10802"
       ],
       "tags": [
         "relevance:core"
@@ -3454,8 +3501,8 @@
         "C-13915"
       ],
       "mentions_person_refs": [
-        "N-10891",
-        "N-10881"
+        "N-10812",
+        "N-10802"
       ]
     },
     {
@@ -3466,7 +3513,7 @@
       "claim": "The host lists what she calls strange behavior: Erika being appointed too fast, approving books being printed too fast, and giving her kids to Rob McCoy's wife while making calls to donors.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10891"
+        "N-10812"
       ],
       "tags": [
         "relevance:core"
@@ -3488,8 +3535,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10887",
-        "N-11418"
+        "N-10808",
+        "N-11334"
       ],
       "tags": [
         "relevance:context"
@@ -3531,7 +3578,7 @@
         "A-3370.1"
       ],
       "related_nodes": [
-        "N-11412"
+        "N-11328"
       ],
       "tags": [
         "relevance:core"

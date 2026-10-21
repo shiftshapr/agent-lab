@@ -183,7 +183,7 @@
           ],
           "related_nodes": [
             "N-126",
-            "N-10144"
+            "N-10139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -211,7 +211,7 @@
           ],
           "related_nodes": [
             "N-61",
-            "N-10144"
+            "N-10139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -240,7 +240,7 @@
           "related_nodes": [
             "N-61",
             "N-129",
-            "N-10144"
+            "N-10139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -267,7 +267,7 @@
           ],
           "related_nodes": [
             "N-61",
-            "N-10144"
+            "N-10139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -294,7 +294,7 @@
           ],
           "related_nodes": [
             "N-61",
-            "N-10144"
+            "N-10139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -321,7 +321,7 @@
           ],
           "related_nodes": [
             "N-61",
-            "N-10144"
+            "N-10139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -350,7 +350,7 @@
           "related_nodes": [
             "N-128",
             "N-61",
-            "N-10144"
+            "N-10139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -370,7 +370,7 @@
           "related_nodes": [
             "N-128",
             "N-61",
-            "N-10144"
+            "N-10139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -639,7 +639,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-11139"
+            "N-11057"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -712,7 +712,7 @@
           "related_nodes": [
             "N-3",
             "N-61",
-            "N-10042"
+            "N-10019"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -740,7 +740,7 @@
             "N-3",
             "N-61",
             "N-128",
-            "N-10144"
+            "N-10139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -861,7 +861,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-61",
-        "N-10144"
+        "N-10139"
       ]
     },
     {
@@ -929,15 +929,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-61",
-        "N-10144"
+        "N-10139"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10141",
-      "ref": "N-10141",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10136",
+      "ref": "N-10136",
       "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent anomaly: a 24+ year Washington County detective appears to have minimal public footprint aside from a single retirement-celebration post, despite Brooksby's stated intent to protect his identity.",
       "related_artifacts": [
         "A-1174.1"
@@ -952,14 +952,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-125"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10142",
-      "ref": "N-10142",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10137",
+      "ref": "N-10137",
       "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between Brooksby's claim that Tyler Robinson had \"suicidal ideations\" and Brooksby's separate claim that Tyler came in willingly out of fear of being shot – two states that the host argues cannot coexist.",
       "related_artifacts": [
         "A-1172.2",
@@ -974,14 +975,15 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10143",
-      "ref": "N-10143",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10138",
+      "ref": "N-10138",
       "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegation by the Robinson family (via host's source) that Tyler's room in the apartment shared with Lance was staged post-arrest, including placement of a \"furry bed\" purportedly to associate Lance's attributes with Tyler.",
       "related_artifacts": [],
       "related_claims": [
@@ -991,14 +993,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10144",
-      "ref": "N-10144",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10139",
+      "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Composite investigative target tracking Phil Lyman's documented proximity to the shooting scene (driveway, venue, rooftop area, post-shooting media appearances), his in-person contact with \"Nick,\" and his refusal to share imagery with the host's team.",
       "related_artifacts": [
         "A-1176.1",
@@ -1027,14 +1030,15 @@
         "N-61",
         "N-128",
         "N-130"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10145",
-      "ref": "N-10145",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10140",
+      "ref": "N-10140",
       "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question (raised by host's source) regarding how Tyler Robinson – accepted to Utah State, not UVU, and reportedly never having stepped on UVU campus – would have known the rooftop layout, the L0y Center sightline, and Charlie Kirk's exact seating position.",
       "related_artifacts": [],
       "related_claims": [
@@ -1044,7 +1048,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1282,11 +1287,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Source of the neighborhood surveillance footage showing the shooter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1296,14 +1301,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the shooting; Robinson was reportedly not a student.",
       "related_artifacts": [],
       "related_claims": [
@@ -1313,31 +1320,35 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10021",
       "ref": "N-10021",
       "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-951"
+        "C-951",
+        "C-964"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1349,14 +1360,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1367,14 +1379,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10029",
       "ref": "N-10029",
       "name": "Washington County Sheriff's Office",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Brooksby's office; the retired friend's call came to him.",
       "related_artifacts": [],
       "related_claims": [
@@ -1384,14 +1398,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10038",
-      "ref": "N-10038",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10037",
+      "ref": "N-10037",
       "name": "Text Message Language Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1402,14 +1418,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@type": "Topic",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1419,14 +1437,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10048",
-      "ref": "N-10048",
+      "@type": "Topic",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1439,14 +1458,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1457,14 +1477,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10060",
-      "ref": "N-10060",
+      "@type": "Thing",
+      "@id": "N-10057",
+      "ref": "N-10057",
       "name": "Good Morning America",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Show on which Barker appeared; the host relays how she was booked.",
       "related_artifacts": [],
       "related_claims": [
@@ -1476,14 +1497,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10138",
-      "ref": "N-10138",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10133",
+      "ref": "N-10133",
       "name": "Bullet Casing Engraving Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1493,14 +1515,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10146",
-      "ref": "N-10146",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10141",
+      "ref": "N-10141",
       "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1512,14 +1535,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10139"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10319",
-      "ref": "N-10319",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1529,14 +1554,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10343",
-      "ref": "N-10343",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1546,32 +1572,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10566",
-      "ref": "N-10566",
-      "name": "Tyler Robinson Confession Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-951",
-        "C-964"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10713",
-      "ref": "N-10713",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10649",
+      "ref": "N-10649",
       "name": "Tyler-Lance Text Message Extraction Source",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1581,14 +1590,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1599,14 +1610,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10987",
-      "ref": "N-10987",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10907",
+      "ref": "N-10907",
       "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1618,14 +1630,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11053",
-      "ref": "N-11053",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10971",
+      "ref": "N-10971",
       "name": "Charlie Kirk Handheld Microphone Custody",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1636,14 +1649,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11217",
-      "ref": "N-11217",
+      "@type": "Organization",
+      "@id": "N-11133",
+      "ref": "N-11133",
       "name": "Utah State University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "School the host says accepted Robinson.",
       "related_artifacts": [],
       "related_claims": [
@@ -1653,14 +1667,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11372",
-      "ref": "N-11372",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11288",
+      "ref": "N-11288",
       "name": "Robinson Rifle Family Heirloom Provenance",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's source's account that the rifle is a custom-made family heirloom inherited by Tyler Robinson as the firstborn son, and that he is not a gun enthusiast.",
       "related_artifacts": [],
       "related_claims": [
@@ -1671,14 +1687,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11373",
-      "ref": "N-11373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11289",
+      "ref": "N-11289",
       "name": "Food-Court Black-Suit Photo Provenance",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Where the photo of the person in a black suit and dark sunglasses in the UVU food court came from, per the host: sent by Nick, who learned it came from Tiffany Barker's mother.",
       "related_artifacts": [],
       "related_claims": [
@@ -1688,12 +1705,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11374",
-      "ref": "N-11374",
+      "@id": "N-11290",
+      "ref": "N-11290",
       "name": "Kirk Assassination Military Operation Hypothesis",
       "type": "topic",
       "description": "The host's stated gut instinct that the assassination was a military operation, based on what she has seen, lingering questions and further leads.",
@@ -1705,14 +1723,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11012",
-      "ref": "N-11012",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10932",
+      "ref": "N-10932",
       "name": "Tyler Robinson Surrender Narrative Dispute",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode: Brooksby's surrender account versus the host's source.",
       "related_artifacts": [],
       "related_claims": [
@@ -1724,12 +1743,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11448",
-      "ref": "N-11448",
+      "@id": "N-11359",
+      "ref": "N-11359",
       "name": "Robinson Family Witness Protection Claim",
       "type": "topic",
       "description": "The host's report, via a third party, that federal agents told Tyler Robinson's parents their lives could be at risk if they spoke out and persuaded the family to go into witness protection.",
@@ -1741,7 +1761,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1766,11 +1787,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1780,14 +1801,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11139",
-      "ref": "N-11139",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11057",
+      "ref": "N-11057",
       "name": "Manhunt Blurry Still Image Release Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1799,14 +1821,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10634",
-      "ref": "N-10634",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10580",
+      "ref": "N-10580",
       "name": "Tyler Robinson Roommate Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1817,14 +1840,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10043",
-      "ref": "N-10043",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10040",
+      "ref": "N-10040",
       "name": "Two-Person Theory (Maroon vs Stairs)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1834,14 +1858,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10633",
-      "ref": "N-10633",
+      "@type": "Topic",
+      "@id": "N-10579",
+      "ref": "N-10579",
       "name": "Tyler Robinson Look-alike Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1851,14 +1876,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10147",
-      "ref": "N-10147",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10142",
+      "ref": "N-10142",
       "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused; the host asks the public to identify the nephew's two companions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1868,14 +1894,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10034",
-      "ref": "N-10034",
+      "@type": "Topic",
+      "@id": "N-10033",
+      "ref": "N-10033",
       "name": "Lance Twiggs Family Allegations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1886,14 +1913,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10044",
-      "ref": "N-10044",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10041",
+      "ref": "N-10041",
       "name": "Lance Twiggs Protection Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1903,14 +1931,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10033"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10094",
-      "ref": "N-10094",
+      "@type": "Organization",
+      "@id": "N-10090",
+      "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused; the host says Mike Mitchell is involved in the LDS church.",
       "related_artifacts": [],
       "related_claims": [
@@ -1920,14 +1950,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused; the host says TPUSA accepted the narrative, and Nick reports Lyman speaking with Tyler Bowyer about a TPUSA event at USU.",
       "related_artifacts": [],
       "related_claims": [
@@ -1939,14 +1971,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11009",
-      "ref": "N-11009",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10929",
+      "ref": "N-10929",
       "name": "Hall of Flags Activity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1956,14 +1990,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10042",
-      "ref": "N-10042",
-      "name": "Outfit Change Claim",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10019",
+      "ref": "N-10019",
+      "name": "Robinson Outfit Change Discrepancy",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1973,7 +2008,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
       "@type": "Person",
@@ -1995,11 +2032,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11274",
-      "ref": "N-11274",
+      "@type": "Event",
+      "@id": "N-11190",
+      "ref": "N-11190",
       "name": "Shaner Broderick Account Deletion",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2009,7 +2046,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     }
   ],
   "claims": [
@@ -2094,7 +2133,7 @@
         "A-1172.2"
       ],
       "related_nodes": [
-        "N-10142"
+        "N-10137"
       ],
       "tags": [],
       "claim_timestamp": "00:09:48",
@@ -2114,7 +2153,7 @@
         "A-1172.3"
       ],
       "related_nodes": [
-        "N-10142"
+        "N-10137"
       ],
       "tags": [],
       "claim_timestamp": "00:10:42",
@@ -2135,7 +2174,7 @@
         "A-1173.2"
       ],
       "related_nodes": [
-        "N-10143"
+        "N-10138"
       ],
       "tags": [],
       "claim_timestamp": "00:12:21",
@@ -2172,7 +2211,7 @@
         "A-1174.1"
       ],
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ],
       "tags": [],
       "claim_timestamp": "00:20:25",
@@ -2192,7 +2231,7 @@
         "A-1172.3"
       ],
       "related_nodes": [
-        "N-10142"
+        "N-10137"
       ],
       "tags": [],
       "claim_timestamp": "00:08:45",
@@ -2213,7 +2252,7 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [],
       "claim_timestamp": "00:28:00–00:29:30",
@@ -2233,7 +2272,7 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [],
       "claim_timestamp": "00:29:30–00:30:00",
@@ -2253,7 +2292,7 @@
         "A-1178.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [],
       "claim_timestamp": "00:31:25",
@@ -2273,7 +2312,7 @@
         "A-1179.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [],
       "claim_timestamp": "00:33:40",
@@ -2293,7 +2332,7 @@
         "A-1180.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [],
       "claim_timestamp": "00:34:00–00:35:30",
@@ -2313,7 +2352,7 @@
         "A-1181.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [],
       "claim_timestamp": "00:43:15",
@@ -2332,7 +2371,7 @@
         "A-1181.2"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [],
       "claim_timestamp": "00:43:55",
@@ -2349,7 +2388,7 @@
       "claim": "Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [],
       "claim_timestamp": "00:39:58",
@@ -2367,7 +2406,7 @@
       "claim": "Per Nick's account as relayed by the host, Phil Lyman offered a tour of the area to Ian Carroll, who was conducting a separate on-the-ground investigation; Nick found this \"weird\" given that Lyman lives four hours away.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [],
       "claim_timestamp": "00:41:10",
@@ -2466,7 +2505,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10142"
+        "N-10137"
       ],
       "tags": [
         "relevance:core"
@@ -2492,7 +2531,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -2514,7 +2553,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core",
@@ -2537,7 +2576,6 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10566",
         "N-10021"
       ],
       "tags": [
@@ -2563,7 +2601,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10138"
+        "N-10133"
       ],
       "tags": [
         "relevance:core"
@@ -2585,7 +2623,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-11372"
+        "N-11288"
       ],
       "tags": [
         "relevance:core"
@@ -2607,7 +2645,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-11372"
+        "N-11288"
       ],
       "tags": [
         "relevance:core"
@@ -2650,8 +2688,8 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10038",
-        "N-10713"
+        "N-10037",
+        "N-10649"
       ],
       "tags": [
         "relevance:core"
@@ -2673,7 +2711,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10038"
+        "N-10037"
       ],
       "tags": [
         "relevance:core"
@@ -2762,7 +2800,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10142"
+        "N-10137"
       ],
       "tags": [
         "relevance:core"
@@ -2787,7 +2825,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -2810,7 +2848,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10145",
+        "N-10140",
         "N-10028"
       ],
       "tags": [
@@ -2831,7 +2869,7 @@
       "claim": "The host says Tyler Robinson was accepted into Utah State University, not Utah Valley University, and notes this had already been revealed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11217",
+        "N-11133",
         "N-10012"
       ],
       "tags": [
@@ -2852,9 +2890,9 @@
       "claim": "The host says it is unexplained how Tyler Robinson, if he had never been on the UVU campus, became so familiar with the rooftop layout that he knew how to scale across the rooftops to take an almost impossible shot at Charlie Kirk seated under a tent. She guesses that even current UVU students would not know it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10145",
+        "N-10140",
         "N-10028",
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -2877,7 +2915,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -2899,7 +2937,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10142"
+        "N-10137"
       ],
       "tags": [
         "relevance:core"
@@ -2921,7 +2959,7 @@
         "A-1172.1"
       ],
       "related_nodes": [
-        "N-10142"
+        "N-10137"
       ],
       "tags": [
         "relevance:core"
@@ -2944,7 +2982,7 @@
       ],
       "related_nodes": [
         "N-10029",
-        "N-10142"
+        "N-10137"
       ],
       "tags": [
         "relevance:core"
@@ -2964,7 +3002,7 @@
       "claim": "The host says that on about day two of the investigation her UVU-student contact 'Nick' told her he worked on Phil Lyman's gubernatorial campaign, in which Lyman ran against Governor Cox and lost.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -2986,7 +3024,7 @@
       "claim": "The host says that around day three of the investigation Nick cold-called her with Phil Lyman on the line, and Nick insisted Lyman was a fantastic person with tons of resources who knew the area and could help.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3009,7 +3047,7 @@
         "A-3281.1"
       ],
       "related_nodes": [
-        "N-10060"
+        "N-10057"
       ],
       "tags": [
         "relevance:core"
@@ -3032,8 +3070,8 @@
         "A-1175.1"
       ],
       "related_nodes": [
-        "N-11373",
-        "N-10144"
+        "N-11289",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3054,8 +3092,8 @@
       "claim": "The host says Tiffany Barker told her that Phil Lyman is the person who put her on Good Morning America, and that her sister ran with Lyman as lieutenant governor.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10060",
-        "N-10144"
+        "N-10057",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3079,7 +3117,7 @@
       "claim": "The host says she learned that Phil Lyman himself was very involved in all the communications that immediately went out about the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3102,8 +3140,8 @@
       ],
       "related_nodes": [
         "N-10011",
-        "N-10144",
-        "N-10146"
+        "N-10139",
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -3125,8 +3163,8 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-10146",
-        "N-10144"
+        "N-10141",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3149,7 +3187,7 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3172,7 +3210,7 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -3195,7 +3233,7 @@
         "A-1178.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3218,8 +3256,8 @@
         "A-1178.1"
       ],
       "related_nodes": [
-        "N-10319",
-        "N-10144"
+        "N-10300",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3242,7 +3280,7 @@
         "A-1178.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3268,8 +3306,8 @@
         "A-1180.1"
       ],
       "related_nodes": [
-        "N-10146",
-        "N-10144"
+        "N-10141",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3290,7 +3328,7 @@
       "claim": "The host says she hopes Phil Lyman will answer and send her videos, which would be 'case closed', and that maybe he does not want to help anymore.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3311,7 +3349,7 @@
       "claim": "The host says Lyman cannot insert himself and then pretend he is under attack when people ask him basic questions. She says it is very weird for a gubernatorial candidate to arrive at a 20-year-old's house.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -3332,8 +3370,8 @@
       "claim": "The host says her gut instinct, based on everything she has seen, the lingering questions and other leads she is working on, is that the assassination was a military operation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11374",
-        "N-10048"
+        "N-11290",
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -3353,7 +3391,7 @@
       "claim": "The host says that, while trying to find Mike Mitchell, she could find the Mitchell family, and while she does not know if it is his family, the Mitchell name in that area was coming up for the Air Force.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ],
       "tags": [
         "relevance:context"
@@ -3376,7 +3414,7 @@
         "A-1172.1"
       ],
       "related_nodes": [
-        "N-10142"
+        "N-10137"
       ],
       "tags": [
         "relevance:core"
@@ -3399,7 +3437,7 @@
         "A-3282.1"
       ],
       "related_nodes": [
-        "N-10060"
+        "N-10057"
       ],
       "tags": [
         "relevance:core"
@@ -3419,7 +3457,7 @@
       "claim": "The host says Max Blumenthal published a bunch of articles on the Kirk case last week and she thinks he has more coming out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:context"
@@ -3440,7 +3478,7 @@
       "claim": "The host says those close to Charlie Kirk could at the very least name the donors who were pressuring him and tell the truth about what was happening there, and that they will not.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3464,7 +3502,7 @@
       "claim": "The host says she called Ian to tell him she doubted Lyman would put him on a tour, because Lyman was not being kind to Nick, a Lyman supporter, and she thinks that relationship went sideways.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -3492,9 +3530,9 @@
         "A-3283.1"
       ],
       "related_nodes": [
-        "N-10768",
-        "N-10987",
-        "N-11053"
+        "N-10697",
+        "N-10907",
+        "N-10971"
       ],
       "tags": [
         "relevance:core"
@@ -3517,8 +3555,8 @@
         "A-3283.1"
       ],
       "related_nodes": [
-        "N-10768",
-        "N-10987"
+        "N-10697",
+        "N-10907"
       ],
       "tags": [
         "relevance:core"
@@ -3539,8 +3577,8 @@
       "claim": "The host says it is very weird that Charlie Kirk was miked after he sat down, that this never happened to her at a Turning Point event, and that they always mic you backstage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10987",
-        "N-11053"
+        "N-10907",
+        "N-10971"
       ],
       "tags": [
         "relevance:core"
@@ -3564,7 +3602,7 @@
       "claim": "The host says there are a lot of things that were being done for the first time on the day of the shooting and that she plans to reveal all of them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -3586,7 +3624,7 @@
         "A-1172.3"
       ],
       "related_nodes": [
-        "N-11012",
+        "N-10932",
         "N-10029"
       ],
       "tags": [
@@ -3610,7 +3648,7 @@
         "A-1172.3"
       ],
       "related_nodes": [
-        "N-11012"
+        "N-10932"
       ],
       "tags": [
         "relevance:core"
@@ -3634,8 +3672,8 @@
         "A-1172.3"
       ],
       "related_nodes": [
-        "N-10142",
-        "N-11012"
+        "N-10137",
+        "N-10932"
       ],
       "tags": [
         "relevance:core"
@@ -3662,8 +3700,8 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-11448",
-        "N-11012"
+        "N-11359",
+        "N-10932"
       ],
       "tags": [
         "relevance:core"
@@ -3686,7 +3724,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-11012"
+        "N-10932"
       ],
       "tags": [
         "relevance:context"
@@ -3708,7 +3746,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10634"
+        "N-10580"
       ],
       "tags": [
         "relevance:context"
@@ -3732,7 +3770,7 @@
         "A-1173.2"
       ],
       "related_nodes": [
-        "N-10634"
+        "N-10580"
       ],
       "tags": [
         "relevance:context"
@@ -3755,7 +3793,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:context"
@@ -3775,14 +3813,14 @@
       "claim": "The host says it is absurd that someone as intelligent as Tyler would write a full confession in text messages with every detail, and says whoever offered those messages was likely the feds.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10077",
-        "N-10038"
+        "N-10074",
+        "N-10037"
       ],
       "tags": [
         "relevance:core"
       ],
       "claim_timestamp": "00:14:00",
-      "investigative_direction": "Forensic extraction reports for the Robinson-Twiggs messages produced in discovery (N-10713); the defense's challenge to their provenance.",
+      "investigative_direction": "Forensic extraction reports for the Robinson-Twiggs messages produced in discovery (N-10649); the defense's challenge to their provenance.",
       "transcript_snippet": "apparently whoever offered those messages, likely feds, didn't have a modicum of intelligence",
       "supports_claim_refs": [
         "C-571"
@@ -3802,8 +3840,8 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-11139",
-        "N-10043"
+        "N-11057",
+        "N-10040"
       ],
       "tags": [
         "relevance:core"
@@ -3825,8 +3863,8 @@
         "A-3418.1"
       ],
       "related_nodes": [
-        "N-11139",
-        "N-10633"
+        "N-11057",
+        "N-10579"
       ],
       "tags": [
         "relevance:core"
@@ -3849,7 +3887,7 @@
         "A-3418.1"
       ],
       "related_nodes": [
-        "N-11139"
+        "N-11057"
       ],
       "tags": [
         "relevance:core"
@@ -3874,7 +3912,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10143"
+        "N-10138"
       ],
       "tags": [
         "relevance:core"
@@ -3894,7 +3932,7 @@
       "claim": "The host recalls that Lance Twiggs's family told her they own the apartment, that rent is paid to them, and that they had never met Tyler Robinson; she says it seems an effort was made to hide that the apartment was raided.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:core"
@@ -3919,7 +3957,7 @@
       "claim": "The host says it is strange that Lance was immediately cleared as a suspect, and that other people in the department told her they wanted to keep the apartment raid very hush-hush, with no mention of it made.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10044",
+        "N-10041",
         "N-10029"
       ],
       "tags": [
@@ -3946,7 +3984,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10143"
+        "N-10138"
       ],
       "tags": [
         "relevance:core"
@@ -3969,7 +4007,7 @@
         "A-3280.1"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:core"
@@ -3995,7 +4033,7 @@
         "A-1172.1"
       ],
       "related_nodes": [
-        "N-10141",
+        "N-10136",
         "N-10029"
       ],
       "tags": [
@@ -4040,7 +4078,7 @@
       "claim": "The host says that when a journalist asked how long the former detective had been off the force, Brooksby said about three years (the clip is not played).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ],
       "tags": [
         "relevance:core"
@@ -4061,7 +4099,7 @@
       "claim": "The host says her team figured out who the retired friend is, names him as former Deputy Mike Mitchell, and says they have tried to get in touch with him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10141",
+        "N-10136",
         "N-10029"
       ],
       "tags": [
@@ -4083,8 +4121,8 @@
       "claim": "The host says she understands Mike Mitchell knows Tyler through the Boy Scouts, that he is involved in the LDS church, and that she thinks he was the Boy Scout leader.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10094",
-        "N-10141"
+        "N-10090",
+        "N-10136"
       ],
       "tags": [
         "relevance:core"
@@ -4105,7 +4143,7 @@
       "claim": "The host says her team confirmed through other sources that Mike Mitchell lives on the block, nearby.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ],
       "tags": [
         "relevance:core"
@@ -4128,7 +4166,7 @@
         "A-1174.1"
       ],
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ],
       "tags": [
         "relevance:core"
@@ -4151,7 +4189,7 @@
         "A-3419.1"
       ],
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ],
       "tags": [
         "relevance:core",
@@ -4197,7 +4235,7 @@
       "claim": "The host says that despite all the friends Charlie Kirk made, including presidents and department heads, she is the only person publicly demanding further investigation into his assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:context"
@@ -4238,8 +4276,8 @@
       "claim": "The host says what she has laid out about Phil Lyman is by no means conclusive of anything other than perhaps a strange coincidence, notes he is a gubernatorial candidate, and says she set it aside and kept following public leads.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144",
-        "N-10146"
+        "N-10139",
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -4259,7 +4297,7 @@
       "claim": "The host says Phil Lyman, Tiffany Barker and another person on that street with the last name Shamway kept trying to get her to look into Governor Cox, with Barker and the Shamway emails citing Cox's support for trans issues.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4300,7 +4338,7 @@
       "claim": "The host says Lyman pushes Governor Cox because Cox is the candidate he is warring with and wants to go after.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -4321,8 +4359,8 @@
       "claim": "The host says she noticed that everyone involved that day is military, naming the person who spotted the shooter on the roof and the person who said he saw him running in the Hall of Flags, and asks whether it could be a military hit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11374",
-        "N-11009"
+        "N-11290",
+        "N-10929"
       ],
       "tags": [
         "relevance:core"
@@ -4344,7 +4382,7 @@
         "A-3420.1"
       ],
       "related_nodes": [
-        "N-10042"
+        "N-10019"
       ],
       "tags": [
         "relevance:core",
@@ -4367,7 +4405,7 @@
         "A-3420.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4387,7 +4425,7 @@
       "claim": "The host says a basic search could not tell her who Phil Lyman's mother and father are, which she finds odd for a gubernatorial candidate; she says she was checking whether his family is in the military.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -4407,7 +4445,7 @@
       "claim": "The host says she asked Nick, who said he did not know who Lyman's parents are, and that she had not shared any of her questions about Lyman with Nick because he had worked for Lyman.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -4430,7 +4468,7 @@
         "A-3422.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4453,7 +4491,7 @@
         "A-3422.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -4477,7 +4515,7 @@
         "A-3422.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -4502,7 +4540,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4527,9 +4565,9 @@
         "A-3422.1"
       ],
       "related_nodes": [
-        "N-11217",
+        "N-11133",
         "N-10000",
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4553,7 +4591,7 @@
         "A-3422.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4576,7 +4614,7 @@
         "A-3421.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core",
@@ -4599,7 +4637,7 @@
         "A-3422.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -4622,7 +4660,7 @@
         "A-3422.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4645,7 +4683,7 @@
         "A-3422.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4669,7 +4707,7 @@
         "A-3422.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -4693,8 +4731,8 @@
         "A-1181.2"
       ],
       "related_nodes": [
-        "N-11274",
-        "N-10144"
+        "N-11190",
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4715,7 +4753,7 @@
       "claim": "The host says Phil Lyman left her on read when she asked him to identify the people in the photos.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -4738,15 +4776,15 @@
         "A-3419.2"
       ],
       "related_nodes": [
-        "N-10144",
-        "N-10147"
+        "N-10139",
+        "N-10142"
       ],
       "tags": [
         "relevance:core",
         "dia"
       ],
       "claim_timestamp": "00:46:55",
-      "investigative_direction": "Archived copy of the nephew's walkthrough video and post; identities of the two companions (N-10147).",
+      "investigative_direction": "Archived copy of the nephew's walkthrough video and post; identities of the two companions (N-10142).",
       "transcript_snippet": "he even posted he posted Phil Lyman and my uncle was with Charlie. This is the video that they posted.",
       "mentions_person_refs": [
         "N-128",

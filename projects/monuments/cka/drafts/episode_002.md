@@ -15,7 +15,7 @@
 - **Transcript SHA-256**: 818e179fe5957d7201c93616a5845536cad30d2182c1c2b188bf22e92d275abd
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep002): N-10037, N-10056, N-10097, N-10104, N-10106, N-10165, N-10268, N-10342, N-10345, N-10350, N-10446, N-10754
+  - Hole-minted Nodes (reintro-ep002): N-10036, N-10053, N-10093, N-10100, N-10102, N-10158, N-10252, N-10320, N-10323, N-10328, N-10415, N-10684
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-57–C-153
   - Artifact Families Introduced: A-1081, A-1082, A-1083, A-1084, A-1085, A-1086, A-1087, A-1088, A-1089, A-1090, A-1091, A-1092, A-1093, A-1094, A-2515
@@ -258,7 +258,7 @@ Video Timestamp: 00:09:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-71, N-1, N-3, N-5, N-10056*
+*Related: C-71, N-1, N-3, N-5, N-10053*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 00:43:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-119, C-120, N-1, N-3, N-10020, N-10024, N-10754*
+*Related: C-119, C-120, N-1, N-3, N-10020, N-10024, N-10684*
 
 ---
 
@@ -299,7 +299,7 @@ Video Timestamp: 00:59:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-142, N-1, N-2, N-10268*
+*Related: C-142, N-1, N-2, N-10252*
 
 ---
 
@@ -663,7 +663,7 @@ Uncertainty: Transcript spells 'Mossad'; canonical Mossad.
 
 **N-10016** Hamptons Meeting Pressure Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Investigation thread on alleged Bill Ackman-led intervention against Kirk weeks before his death.
 
@@ -684,7 +684,7 @@ Uncertainty: No artifact directly shown; based on host assertion of personal com
 
 **N-10017** Charlie Kirk May 2 Letter Misrepresentation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Discrepancy between Netanyahu's framing of the May 2 letter and host's claim that it actually expressed concern over Israel influence.
 
@@ -694,7 +694,7 @@ Discrepancy between Netanyahu's framing of the May 2 letter and host's claim tha
 
 **N-10018** Netanyahu Israel Invitation Phone Call
 
-Node Type: Topic
+Node Type: Event
 Topic Kind: verification_thread
 Alleged phone call where Netanyahu invited Kirk to Israel weeks before his death; host frames it as a threat under pressure.
 
@@ -704,7 +704,7 @@ Alleged phone call where Netanyahu invited Kirk to Israel weeks before his death
 
 **N-10019** Robinson Outfit Change Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Discrepancy between surveillance outfits (maroon vs black) and the 33-hour re-donning of the original outfit.
 
@@ -714,7 +714,7 @@ Discrepancy between surveillance outfits (maroon vs black) and the 33-hour re-do
 
 **N-10020** Weapon Disassembly/Reassembly Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 FBI narrative that the Mauser was disassembled on the rooftop, carried in backpack, and found reassembled in woods.
 
@@ -724,7 +724,7 @@ FBI narrative that the Mauser was disassembled on the rooftop, carried in backpa
 
 **N-10021** Robinson Confession and Arrest Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Discrepancy between reported father/pastor-led turn-in and Governor Cox's statement that Robinson has not confessed.
 
@@ -810,7 +810,7 @@ Kanye West; the host says she reached out to him about the song Power after Kirk
 
 ---
 
-**N-10037** Bill Ackman Response Analysis
+**N-10036** Bill Ackman Response Analysis
 
 Existing topic reused; Bill Ackman's response to the host's account of the Hamptons meeting.
 
@@ -818,7 +818,7 @@ Existing topic reused; Bill Ackman's response to the host's account of the Hampt
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing topic reused; dispute over how Netanyahu and others portray Kirk's stance on Israel.
 
@@ -826,7 +826,7 @@ Existing topic reused; dispute over how Netanyahu and others portray Kirk's stan
 
 ---
 
-**N-10097** George Zinn Arrest Location/Timing
+**N-10093** George Zinn Arrest Location/Timing
 
 Existing topic reused; George Zinn's arrest and the timing of the in-custody announcement.
 
@@ -834,7 +834,7 @@ Existing topic reused; George Zinn's arrest and the timing of the in-custody ann
 
 ---
 
-**N-10104** Catholic Conversion Rumor
+**N-10100** Catholic Conversion Rumor
 
 Existing topic reused; claims that Charlie Kirk was moving toward Catholicism.
 
@@ -842,7 +842,7 @@ Existing topic reused; claims that Charlie Kirk was moving toward Catholicism.
 
 ---
 
-**N-10106** Moral Blackmail by Donors
+**N-10102** Moral Blackmail by Donors
 
 Existing topic reused; Kirk's reported sense of being morally blackmailed by donors.
 
@@ -850,7 +850,7 @@ Existing topic reused; Kirk's reported sense of being morally blackmailed by don
 
 ---
 
-**N-10165** Campus Footage Release Strategy Question
+**N-10158** Campus Footage Release Strategy Question
 
 Existing topic reused; question of why only grainy campus footage was released.
 
@@ -858,7 +858,7 @@ Existing topic reused; question of why only grainy campus footage was released.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic reused; pressure over who could speak at AmFest.
 
@@ -866,7 +866,7 @@ Existing topic reused; pressure over who could speak at AmFest.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused; the funding offer from Netanyahu to Turning Point USA.
 
@@ -874,7 +874,7 @@ Existing topic reused; the funding offer from Netanyahu to Turning Point USA.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Existing topic reused; Seth Dillon's role at the Hamptons meeting.
 
@@ -882,7 +882,7 @@ Existing topic reused; Seth Dillon's role at the Hamptons meeting.
 
 ---
 
-**N-10350** Charlie Kirk Catholicism Journey
+**N-10328** Charlie Kirk Catholicism Journey
 
 Existing topic reused; Kirk's Catholic practice and trajectory.
 
@@ -890,7 +890,7 @@ Existing topic reused; Kirk's Catholic practice and trajectory.
 
 ---
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Existing topic reused; the Hamptons meeting and the Netanyahu funding offer.
 
@@ -898,7 +898,7 @@ Existing topic reused; the Hamptons meeting and the Netanyahu funding offer.
 
 ---
 
-**N-10754** Rooftop Movement Tactical Analysis
+**N-10684** Rooftop Movement Tactical Analysis
 
 Existing topic reused; analysis of the shooter's movement across the rooftop.
 
@@ -1380,7 +1380,7 @@ Transcript Snippet: you know, on the extremes, the the Islamist, the radical Isl
 
 Anchored Artifacts: A-1082.1
 Mentions: N-36, N-1
-Related Nodes: N-10006, N-10056
+Related Nodes: N-10006, N-10053
 Tags: relevance:context
 Investigative Direction: Compare with the facts later released about the suspect's motive; the host immediately asks who "they" refers to.
 
@@ -1396,7 +1396,7 @@ Transcript Snippet: I mean, Trump's account even tweeted out a photo of Charlie 
 
 Anchored Artifacts: A-3092.1
 Mentions: N-3, N-5, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:context
 Investigative Direction: Locate the original post on Trump's account and archive it to confirm the image, the flags and whether it was AI-generated.
 
@@ -1412,7 +1412,7 @@ Transcript Snippet: but flat out telling him that he was not allowed to invite c
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10025, N-10268
+Related Nodes: N-10025, N-10252
 Supports: C-73
 Tags: relevance:core
 Investigative Direction: Identify who told Kirk which speakers to exclude; request messages or emails from TPUSA staff and donors.
@@ -1429,7 +1429,7 @@ Transcript Snippet: They were threatening to pull out money. Uh Charlie was gett
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-22
-Related Nodes: N-10000, N-10025, N-10106
+Related Nodes: N-10000, N-10025, N-10102
 Supports: C-73
 Tags: relevance:core
 Investigative Direction: Obtain the text messages the host says she can release and corroborate with donor communications to TPUSA.
@@ -1446,7 +1446,7 @@ Transcript Snippet: How could he allow Dave Smith, who by the way is Jewish,
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-39
-Related Nodes: N-10268, N-10025
+Related Nodes: N-10252, N-10025
 Tags: relevance:context
 Investigative Direction: Check the AmFest 2025 programming and any donor complaints about Smith's appearance.
 
@@ -1462,7 +1462,7 @@ Transcript Snippet: And Bill Ackman was on Charlie about comments that Tucker Ca
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-1, N-22
-Related Nodes: N-10025, N-10037
+Related Nodes: N-10025, N-10036
 Tags: relevance:core
 Investigative Direction: Obtain Ackman's communications with Kirk or TPUSA after the AmFest stage remarks.
 
@@ -1478,7 +1478,7 @@ Transcript Snippet: Tucker Carlson specifically asked the question, where does B
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-37
-Related Nodes: N-10025, N-10268
+Related Nodes: N-10025, N-10252
 Tags: relevance:context
 Investigative Direction: Check the video of Carlson's AmFest remarks for the exact wording and date.
 
@@ -1494,7 +1494,7 @@ Transcript Snippet: Uh, Bill Ackman was very upset and threats were made.
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-1
-Related Nodes: N-10016, N-10446
+Related Nodes: N-10016, N-10415
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Identify attendees of the Hamptons meeting and obtain their account or contemporaneous messages.
@@ -1511,7 +1511,7 @@ Transcript Snippet: "I I have receipts. I can show you." And he did not provide 
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-49
-Related Nodes: N-10037, N-10016
+Related Nodes: N-10036, N-10016
 Tags: relevance:core
 Investigative Direction: Ask Blumenthal for the exchange with Ackman and ask Ackman to publish the receipts he referred to.
 
@@ -1543,7 +1543,7 @@ Transcript Snippet: Um, and I know that Charlie was offered a ton of money in th
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10342, N-10018
+Related Nodes: N-10320, N-10018
 Supports: C-84
 Tags: relevance:core
 Investigative Direction: Identify the source of the offer and the amount; obtain messages sent after the meeting that reference it.
@@ -1560,7 +1560,7 @@ Transcript Snippet: it's solid. Okay, there were conversations that took place, 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10016, N-10446
+Related Nodes: N-10016, N-10415
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Obtain the messages sent immediately after the meeting that the host says are circulating and verify their date and sender.
@@ -1577,7 +1577,7 @@ Transcript Snippet: I feel incredibly privileged to have spent a day and shared 
 
 Anchored Artifacts: A-1091.1
 Mentions: N-1, N-3, N-37
-Related Nodes: N-10037, N-10016
+Related Nodes: N-10036, N-10016
 Tags: relevance:core
 Investigative Direction: Archive the Ackman tweet with its timestamp and compare with the host's account of the meeting.
 
@@ -1593,7 +1593,7 @@ Transcript Snippet: You were present when Aman lost his mind on Charlie and when
 
 Anchored Artifacts: A-1092.1
 Mentions: N-3, N-38, N-37, N-36, N-1
-Related Nodes: N-10345, N-10016
+Related Nodes: N-10323, N-10016
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Ask Dillon whether he attended the Hamptons meeting and whether he disputes the host's description.
@@ -1610,7 +1610,7 @@ Transcript Snippet: he was unable to speak to me, but he did place some frantic 
 
 Anchored Artifacts: 
 Mentions: N-3, N-38
-Related Nodes: N-10000, N-10345
+Related Nodes: N-10000, N-10323
 Tags: relevance:core
 Investigative Direction: Ask TPUSA staff and Dillon about calls between them in the days after the shooting.
 
@@ -1626,7 +1626,7 @@ Transcript Snippet: and nobody is willing to go on record. They're all messaging
 
 Anchored Artifacts: 
 Mentions: N-3, N-38
-Related Nodes: N-10016, N-10345
+Related Nodes: N-10016, N-10323
 Tags: relevance:core
 Investigative Direction: Identify the two other attendees the host says she contacted and whether any of them has since spoken.
 
@@ -1658,7 +1658,7 @@ Transcript Snippet: I can tell you factually Charlie was praying the rosary.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104, N-10350
+Related Nodes: N-10100, N-10328
 Tags: relevance:context
 Investigative Direction: Identify witnesses or objects (rosary, Mass attendance records) corroborating Kirk's Catholic practice.
 
@@ -1674,7 +1674,7 @@ Transcript Snippet: Charlie was going to mass. One of my last conversations with
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104, N-10350
+Related Nodes: N-10100, N-10328
 Tags: relevance:context
 Investigative Direction: Ask for the message thread of that conversation; identify the church or priest if Kirk attended Mass.
 
@@ -1690,7 +1690,7 @@ Transcript Snippet: He says, "Haha, you're speaking about uh Mary."
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104, N-10350
+Related Nodes: N-10100, N-10328
 Tags: relevance:context
 Investigative Direction: Obtain the text or voice exchange to confirm the wording and date.
 
@@ -1706,7 +1706,7 @@ Transcript Snippet: because I was in communication with Charlie at this time bec
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10025, N-10106
+Related Nodes: N-10025, N-10102
 Tags: relevance:core
 Investigative Direction: Ask the host to name the donors and release the messages she says document the pressure.
 
@@ -1722,7 +1722,7 @@ Transcript Snippet: Exactly which people that they were insisting Charlie allowe
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10025, N-10268
+Related Nodes: N-10025, N-10252
 Tags: relevance:core
 Investigative Direction: Identify the speakers and the donors involved; compare with AmFest speaker lists and removals.
 
@@ -1738,7 +1738,7 @@ Transcript Snippet: Charlie was miked. Surely Tucker Carlson was miked. I know C
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-22
-Related Nodes: N-10000, N-10268
+Related Nodes: N-10000, N-10252
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to confirm whether audio of Kirk's pre-stage exchange with Carlson exists and to release it.
 
@@ -1754,7 +1754,7 @@ Transcript Snippet: No, we have no evidence of that. We can't say that because t
 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1
-Related Nodes: N-10026, N-10056
+Related Nodes: N-10026, N-10053
 Tags: relevance:core
 Investigative Direction: Record the host's later statements on Israeli involvement to see whether this position changes.
 
@@ -1770,7 +1770,7 @@ Transcript Snippet: pointing out the fact that Charlie was having a change of he
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10016, N-10106, N-10025
+Related Nodes: N-10016, N-10102, N-10025
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's post-meeting messages that the host says contain this sentiment and identify who received them.
 
@@ -1867,7 +1867,7 @@ Transcript Snippet: Members of Congress are actively being blackmailed.
 
 Anchored Artifacts: A-1086.1
 Mentions: N-1, N-9
-Related Nodes: N-10023, N-10106
+Related Nodes: N-10023, N-10102
 Tags: relevance:context
 Investigative Direction: Identify the original broadcast and any evidence Kirk cited for current blackmail of members of Congress.
 
@@ -1979,7 +1979,7 @@ Transcript Snippet: the shooter runs across the rooftop. I'm going to tell you w
 
 Anchored Artifacts: A-3093.1
 Mentions: N-3, N-1
-Related Nodes: N-10024, N-10754
+Related Nodes: N-10024, N-10684
 Tags: relevance:core
 Investigative Direction: Obtain the original rooftop footage with metadata and verify that the figure is the shooter and the time of the clip.
 
@@ -1995,7 +1995,7 @@ Transcript Snippet: is that their narrative is that he disassembled the gun and 
 
 Anchored Artifacts: A-3093.1
 Mentions: N-3
-Related Nodes: N-10020, N-10754
+Related Nodes: N-10020, N-10684
 Supports: C-125
 Tags: relevance:core
 Investigative Direction: Obtain the official timeline of disassembly and the frame-by-frame rooftop footage.
@@ -2028,7 +2028,7 @@ Transcript Snippet: He's signaling that he's somehow shot the guy. And at 12:52,
 
 Anchored Artifacts: 
 Mentions: N-3, N-42
-Related Nodes: N-10097, N-10024
+Related Nodes: N-10093, N-10024
 Tags: relevance:core
 Investigative Direction: Obtain police dispatch logs, arrest records and video for Zinn and the 12:52 announcement.
 
@@ -2076,7 +2076,7 @@ Transcript Snippet: What is clear is that there is a ton of cameras on this camp
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-10028, N-10165
+Related Nodes: N-10012, N-10028, N-10158
 Tags: relevance:core
 Investigative Direction: Obtain the UVU camera inventory and the authorities' reasons for withholding higher-resolution footage.
 
@@ -2124,7 +2124,7 @@ Transcript Snippet: that money is now going to the father of this child who afte
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-40
-Related Nodes: N-10022, N-10037
+Related Nodes: N-10022, N-10036
 Tags: relevance:context
 Investigative Direction: Check whether Ackman or any other party announced a reward, its amount and who received it.
 
@@ -2253,7 +2253,7 @@ Transcript Snippet: At the end of the conversation, she let me know uh that she 
 
 Anchored Artifacts: A-3095.1
 Mentions: N-2, N-1
-Related Nodes: N-10268
+Related Nodes: N-10252
 Tags: relevance:tangential
 Investigative Direction: Treat as an unverified viewer anecdote; no document available.
 

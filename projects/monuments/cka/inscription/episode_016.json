@@ -525,7 +525,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10170"
+            "N-10163"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -583,8 +583,8 @@
             "N-40",
             "N-901",
             "N-118",
-            "N-10206",
-            "N-11158"
+            "N-10198",
+            "N-11074"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -611,7 +611,7 @@
           "related_nodes": [
             "N-1",
             "N-201",
-            "N-10206"
+            "N-10198"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -672,7 +672,7 @@
             "N-3",
             "N-49",
             "N-170",
-            "N-10176"
+            "N-10169"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -699,7 +699,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-11321"
+            "N-11237"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -941,29 +941,33 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10168",
-      "ref": "N-10168",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10161",
+      "ref": "N-10161",
       "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: verification of whether Lance Twiggs is the individual in the maroon shirt seen in the released imagery. Candace asserts his build is \"nothing like Tyler Robinson's build\" and hypothesizes Twiggs is the maroon-shirt wearer.",
       "related_artifacts": [
         "A-1235.2",
         "A-1235.3"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-1473"
+      ],
       "tags": [],
       "evidence_count": 2,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: verification of Hammer's claim of a Zoom call with Charlie Kirk the night before Kirk's death, including attendee list and discussion content.",
       "related_artifacts": [
         "A-1234.1"
@@ -978,14 +982,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10170",
-      "ref": "N-10170",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10163",
+      "ref": "N-10163",
       "name": "George Zinn Federal Familial Connections (per tip)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: verification of Candace's claim that Zinn has potential familial connections to a federal department.",
       "related_artifacts": [
         "A-1235.5"
@@ -997,14 +1002,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10171",
-      "ref": "N-10171",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10164",
+      "ref": "N-10164",
       "name": "Tyler / Lance Apartment Lock Change Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: verification of the family's claim that apartment locks were illegally changed after the raid without their knowledge; identification of who authorized the change (Lance or federal actors).",
       "related_artifacts": [
         "A-1235.3"
@@ -1016,14 +1022,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10172",
-      "ref": "N-10172",
+      "@type": "Topic",
+      "@id": "N-10165",
+      "ref": "N-10165",
       "name": "Multiple Decoys Theory (4 Decoys Named)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: the structural theory advanced by Candace that the visible persons in the released imagery (George Zinn, \"staircase guy,\" \"maroon shirt guy,\" \"Losee Center guy\") are decoys rather than the shooter.",
       "related_artifacts": [
         "A-1235.4"
@@ -1035,15 +1042,17 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10168"
-      ]
+        "N-10161"
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10032"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10173",
-      "ref": "N-10173",
-      "name": "George Zinn Medical Payment Claim Verification",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10166",
+      "ref": "N-10166",
+      "name": "George Zinn Hospital Payment Claim",
+      "type": "investigation_question",
       "description": "Investigation target: verification of the medical-staff-reported statement that Zinn claimed he was being paid to take responsibility for Kirk's death, with payment pending.",
       "related_artifacts": [
         "A-1235.4"
@@ -1057,8 +1066,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10170"
-      ]
+        "N-10163"
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1626,11 +1636,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1640,14 +1650,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1657,14 +1669,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10019",
       "ref": "N-10019",
       "name": "Robinson Outfit Change Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1674,14 +1688,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1692,14 +1708,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10034",
-      "ref": "N-10034",
+      "@type": "Topic",
+      "@id": "N-10033",
+      "ref": "N-10033",
       "name": "Lance Twiggs Family Allegations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1709,14 +1726,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10041",
-      "ref": "N-10041",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10039",
+      "ref": "N-10039",
       "name": "Note Under Keyboard Disposal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1726,14 +1744,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10043",
-      "ref": "N-10043",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10040",
+      "ref": "N-10040",
       "name": "Two-Person Theory (Maroon vs Stairs)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1744,14 +1764,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10044",
-      "ref": "N-10044",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10041",
+      "ref": "N-10041",
       "name": "Lance Twiggs Protection Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1762,14 +1783,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10033"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1781,14 +1804,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@type": "Topic",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1798,14 +1822,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1815,14 +1840,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10085",
-      "ref": "N-10085",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10081",
+      "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1833,14 +1859,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10107",
-      "ref": "N-10107",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10103",
+      "ref": "N-10103",
       "name": "Crime Scene Pavers",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1850,14 +1877,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10118",
-      "ref": "N-10118",
+      "@type": "Topic",
+      "@id": "N-10114",
+      "ref": "N-10114",
       "name": "Candace UK Premonition / Husband Meeting",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1867,14 +1895,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10126",
-      "ref": "N-10126",
+      "@type": "Place",
+      "@id": "N-10121",
+      "ref": "N-10121",
       "name": "London / UK",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1884,14 +1913,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10133",
-      "ref": "N-10133",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10128",
+      "ref": "N-10128",
       "name": "Federal Investigation Conduct Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1904,14 +1934,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10014"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@type": "Topic",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1921,14 +1953,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10143",
-      "ref": "N-10143",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10138",
+      "ref": "N-10138",
       "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1938,14 +1971,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@type": "Topic",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1956,14 +1990,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10151",
-      "ref": "N-10151",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10146",
+      "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1973,14 +2009,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10167",
-      "ref": "N-10167",
+      "@type": "Topic",
+      "@id": "N-10160",
+      "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1990,14 +2027,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10176",
-      "ref": "N-10176",
+      "@type": "Topic",
+      "@id": "N-10169",
+      "ref": "N-10169",
       "name": "Candace Kill Switch / Dead Man Switch",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2010,14 +2048,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10187",
-      "ref": "N-10187",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10179",
+      "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2028,14 +2067,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10206",
-      "ref": "N-10206",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10198",
+      "ref": "N-10198",
       "name": "TPUSA Text Chain Authenticity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2052,14 +2092,15 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2069,14 +2110,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10389",
-      "ref": "N-10389",
+      "@type": "Topic",
+      "@id": "N-10362",
+      "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2086,14 +2128,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@type": "Topic",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2103,14 +2146,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10424",
-      "ref": "N-10424",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10397",
+      "ref": "N-10397",
       "name": "Nick Fuentes Federal Informant Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2120,14 +2164,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10554",
-      "ref": "N-10554",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10507",
+      "ref": "N-10507",
       "name": "Andrew Kolvet 9/10 Flight Itinerary",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2137,14 +2182,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10598",
-      "ref": "N-10598",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10545",
+      "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2154,14 +2200,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10628",
-      "ref": "N-10628",
+      "@type": "Topic",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2171,14 +2218,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10641",
-      "ref": "N-10641",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10586",
+      "ref": "N-10586",
       "name": "Andrew Kolvet Text Message Full Context Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2188,31 +2236,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-11295"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10702",
-      "ref": "N-10702",
-      "name": "Lance Twiggs Maroon Shirt Identification",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1473"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10735",
-      "ref": "N-10735",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10669",
+      "ref": "N-10669",
       "name": "Rooftop Clothing Change Narrative",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2222,14 +2255,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10019"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10769",
-      "ref": "N-10769",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10698",
+      "ref": "N-10698",
       "name": "Losee Center Gun Verification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2239,14 +2274,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11013",
-      "ref": "N-11013",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10933",
+      "ref": "N-10933",
       "name": "Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2257,14 +2293,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10318"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11158",
-      "ref": "N-11158",
+      "@type": "Topic",
+      "@id": "N-11074",
+      "ref": "N-11074",
       "name": "Cult Accusation Against Candace Owens Audience",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2274,7 +2312,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -2296,11 +2335,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11321",
-      "ref": "N-11321",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11237",
+      "ref": "N-11237",
       "name": "Kirk Security Team Name Identification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: the host's statement that she holds the names of everyone on Charlie Kirk's security team, including people the earlier investigation could not identify.",
       "related_artifacts": [],
       "related_claims": [
@@ -2310,7 +2349,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     }
   ],
   "claims": [
@@ -2705,7 +2745,7 @@
         "A-1235.3"
       ],
       "related_nodes": [
-        "N-10171"
+        "N-10164"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
@@ -2726,7 +2766,7 @@
         "A-1235.4"
       ],
       "related_nodes": [
-        "N-10173"
+        "N-10166"
       ],
       "tags": [],
       "claim_timestamp": "00:41:24",
@@ -2746,7 +2786,7 @@
         "A-1235.5"
       ],
       "related_nodes": [
-        "N-10170"
+        "N-10163"
       ],
       "tags": [],
       "claim_timestamp": "00:36:11",
@@ -2822,7 +2862,7 @@
       "claim": "The host says that after a very vivid dream over the weekend she believes Charlie Kirk came to her and told her he was betrayed, though she does not know by whom.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:context"
@@ -2881,7 +2921,7 @@
       "claim": "The host says that after she released the text message, some X users tried to bargain with reality by creating fake messages themselves to show how easy it is to fake one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10206"
+        "N-10198"
       ],
       "tags": [
         "relevance:context"
@@ -2903,7 +2943,7 @@
         "A-3182.1"
       ],
       "related_nodes": [
-        "N-10206"
+        "N-10198"
       ],
       "tags": [
         "relevance:context"
@@ -2927,7 +2967,7 @@
         "A-3182.1"
       ],
       "related_nodes": [
-        "N-10206"
+        "N-10198"
       ],
       "tags": [
         "relevance:context"
@@ -2951,7 +2991,7 @@
         "A-3182.1"
       ],
       "related_nodes": [
-        "N-11158"
+        "N-11074"
       ],
       "tags": [
         "relevance:context"
@@ -2991,7 +3031,7 @@
       "claim": "The host says Laura Loomer is legally not allowed to own a gun, and calls her a lunatic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [
         "relevance:tangential"
@@ -3013,7 +3053,7 @@
         "A-1227.4"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -3074,7 +3114,7 @@
       "claim": "The host says a poster told Megyn Kelly to stop making excuses for the host's behavior, and she says she does not know why Kelly is being abused.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3115,7 +3155,7 @@
         "A-1227.6"
       ],
       "related_nodes": [
-        "N-10424"
+        "N-10397"
       ],
       "tags": [
         "relevance:context"
@@ -3137,7 +3177,7 @@
         "A-1227.6"
       ],
       "related_nodes": [
-        "N-10206"
+        "N-10198"
       ],
       "tags": [
         "relevance:context"
@@ -3160,7 +3200,7 @@
         "A-3183.1"
       ],
       "related_nodes": [
-        "N-10206"
+        "N-10198"
       ],
       "tags": [
         "relevance:context"
@@ -3226,7 +3266,7 @@
         "A-1232.1"
       ],
       "related_nodes": [
-        "N-10206"
+        "N-10198"
       ],
       "tags": [
         "relevance:core"
@@ -3251,8 +3291,8 @@
         "A-1228.1"
       ],
       "related_nodes": [
-        "N-10206",
-        "N-10641"
+        "N-10198",
+        "N-10586"
       ],
       "tags": [
         "relevance:core"
@@ -3275,7 +3315,7 @@
         "A-1228.2"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -3298,7 +3338,7 @@
         "A-1228.3"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -3341,7 +3381,7 @@
         "A-1228.4"
       ],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -3364,7 +3404,7 @@
         "A-1228.4"
       ],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -3386,7 +3426,7 @@
       "claim": "The host says the text message concerns people's feeling that Kirk's legacy is intentionally being hijacked by Israel, and that she never stated Israel killed Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3447,7 +3487,7 @@
       "claim": "The host says TPUSA executives, naming Tyler Bowyer, would rather impugn the character of people doing what Kirk would have done, and asks Kolvet to make sure Bowyer and Alex Clark get the internal memo about free speech.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10167"
+        "N-10160"
       ],
       "tags": [
         "relevance:core"
@@ -3472,7 +3512,7 @@
         "A-1235.1"
       ],
       "related_nodes": [
-        "N-11013"
+        "N-10933"
       ],
       "tags": [
         "relevance:core"
@@ -3498,7 +3538,7 @@
         "A-1227.6"
       ],
       "related_nodes": [
-        "N-10206"
+        "N-10198"
       ],
       "tags": [
         "relevance:core"
@@ -3520,7 +3560,7 @@
         "A-1234.1"
       ],
       "related_nodes": [
-        "N-10187"
+        "N-10179"
       ],
       "tags": [
         "relevance:context"
@@ -3544,7 +3584,7 @@
         "A-1232.1"
       ],
       "related_nodes": [
-        "N-10187"
+        "N-10179"
       ],
       "tags": [
         "relevance:core"
@@ -3617,7 +3657,7 @@
         "A-3185.1"
       ],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [
         "relevance:context"
@@ -3678,7 +3718,7 @@
         "A-3185.1"
       ],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [
         "relevance:context"
@@ -3700,7 +3740,7 @@
         "A-3185.1"
       ],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [
         "relevance:tangential"
@@ -3722,7 +3762,7 @@
         "A-3185.1"
       ],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [
         "relevance:context"
@@ -3768,7 +3808,7 @@
         "A-1229.2"
       ],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -3791,7 +3831,7 @@
         "A-1229.2"
       ],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -3814,7 +3854,7 @@
         "A-1229.2"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3838,7 +3878,7 @@
       "claim": "The host says the feds are lying and that they only lie to cover their own tracks, protecting themselves and their bosses.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -3861,7 +3901,7 @@
       "claim": "The host says she maintains that the killing was a military hit involving foreign actors and literal actors.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10172"
+        "N-10165"
       ],
       "tags": [
         "relevance:core"
@@ -3882,7 +3922,7 @@
       "claim": "The host says she believes the day ran like something akin to the JFK assassination and that there were multiple decoys on the ground.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10172"
+        "N-10165"
       ],
       "tags": [
         "relevance:core"
@@ -3903,8 +3943,8 @@
       "claim": "The host says she does not believe the person walking up the stairs killed Charlie, and suspects that the photo was not even taken on the same day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10043",
-        "N-10172"
+        "N-10040",
+        "N-10165"
       ],
       "tags": [
         "relevance:core"
@@ -3925,8 +3965,8 @@
       "claim": "The host says she does not believe the person who ran across the Losee Center rooftop killed Charlie, that this was another decoy, and that she does not believe the shot came from the Losee Center at all.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10172",
-        "N-10769"
+        "N-10165",
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -3947,7 +3987,7 @@
       "claim": "The host says that her view implies a total of four decoys, George Zinn, staircase guy, maroon shirt guy and Losee Center guy, none of whom she believes pulled the trigger.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10172",
+        "N-10165",
         "N-10032"
       ],
       "tags": [
@@ -3969,8 +4009,7 @@
       "claim": "The host says it is much more likely that Lance Twiggs is the one walking in the maroon shirt, because his build is thinner and nothing like Tyler Robinson's, and that she is speculating.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10168",
-        "N-10702"
+        "N-10161"
       ],
       "tags": [
         "relevance:core"
@@ -3991,7 +4030,7 @@
       "claim": "The host speculates that Tyler Robinson was involved and was driving around campus that day, assisting in costume changes and likely picking up clothing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10735",
+        "N-10669",
         "N-10019"
       ],
       "tags": [
@@ -4013,7 +4052,7 @@
       "claim": "The host says Tyler Robinson was seen at Dairy Queen and was seen dumping clothing in the cemetery beside it, as she says she previously reported.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -4034,7 +4073,7 @@
       "claim": "The host argues it makes no sense biologically that someone who had never killed would be high on adrenaline after a kill and decide to eat at Dairy Queen and write poetic text messages.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:context"
@@ -4055,7 +4094,7 @@
       "claim": "The host says the Dairy Queen leak is one of many things that disrupt the official narrative and that this is why officials are freaking out about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:context"
@@ -4075,8 +4114,8 @@
       "claim": "The host says she thinks Tyler Robinson's roommate, Lance Twiggs, is federally protected and ventures a guess that he is a federal asset of some description, perhaps through his online work on Discord chats.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598",
-        "N-10044",
+        "N-10545",
+        "N-10041",
         "N-10013"
       ],
       "tags": [
@@ -4100,7 +4139,7 @@
         "A-1235.2"
       ],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:core"
@@ -4126,7 +4165,7 @@
       "claim": "The host says authorities were going off the tip from the mysterious detective Mike Mitchell and had no confession when they raided.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10151"
+        "N-10146"
       ],
       "tags": [
         "relevance:core"
@@ -4147,8 +4186,8 @@
       "claim": "The host says the feds are staging the entire operation, and that to get a conviction they need to say they found something in his house, such as the note under the keyboard, which she mocks as conveniently photographed and then destroyed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10143",
-        "N-10041"
+        "N-10138",
+        "N-10039"
       ],
       "tags": [
         "relevance:core"
@@ -4171,7 +4210,7 @@
         "A-1235.3"
       ],
       "related_nodes": [
-        "N-10044"
+        "N-10041"
       ],
       "tags": [
         "relevance:core"
@@ -4191,8 +4230,8 @@
       "claim": "The host says she never for a second thought the person in the maroon shirt was the same as the person walking with the limp, and that the government has distracted the public with photos of different people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10043",
-        "N-10168"
+        "N-10040",
+        "N-10161"
       ],
       "tags": [
         "relevance:core"
@@ -4215,8 +4254,8 @@
       "claim": "The host says it would be very interesting if the feds were going to pay George Zinn, though she is not saying they are, and asks why Zinn would not know where the payment was coming from.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10173",
-        "N-10170"
+        "N-10166",
+        "N-10163"
       ],
       "tags": [
         "relevance:core"
@@ -4240,7 +4279,7 @@
       "claim": "The host says the feds questioned other people whom they did not disclose, and that these people have been told to be quiet about everything.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -4260,7 +4299,7 @@
       "claim": "The host says the people being told to be silent are not being silenced to seek a conviction against Tyler Robinson but because the feds do not want to get caught.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -4323,8 +4362,8 @@
       "claim": "The host says that the Turning Point UK event arranged through the donor was where she first laid eyes on George, her husband, and not when she spoke to him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10118",
-        "N-10126"
+        "N-10114",
+        "N-10121"
       ],
       "tags": [
         "relevance:tangential"
@@ -4390,7 +4429,7 @@
         "A-1231.1"
       ],
       "related_nodes": [
-        "N-10107"
+        "N-10103"
       ],
       "tags": [
         "relevance:core"
@@ -4499,7 +4538,7 @@
         "A-3186.1"
       ],
       "related_nodes": [
-        "N-11321"
+        "N-11237"
       ],
       "tags": [
         "relevance:core"
@@ -4520,7 +4559,7 @@
       "claim": "The host says that, as she showed the previous day, pastors have been part of spreading these lies, and that it is not okay for pastors to use the Bible to lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -4565,7 +4604,7 @@
         "A-1233.1"
       ],
       "related_nodes": [
-        "N-11013"
+        "N-10933"
       ],
       "tags": [
         "relevance:core"

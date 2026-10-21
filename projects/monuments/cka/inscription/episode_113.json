@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-659",
             "N-178",
-            "N-10955"
+            "N-10876"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -55,7 +55,7 @@
             "N-178",
             "N-663",
             "N-664",
-            "N-10955"
+            "N-10876"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -71,7 +71,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-178",
-            "N-10955"
+            "N-10876"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -128,7 +128,7 @@
           "related_nodes": [
             "N-668",
             "N-669",
-            "N-10955"
+            "N-10876"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -155,8 +155,8 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-10961",
-            "N-10962"
+            "N-10882",
+            "N-10883"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -171,10 +171,10 @@
           "description": "Map shown on screen of Venezuela, Cuba, the Gibraltar Strait, Sazan Island and Kharg Island",
           "related_claims": [],
           "related_nodes": [
-            "N-10955",
-            "N-10961",
-            "N-10962",
-            "N-10963"
+            "N-10876",
+            "N-10882",
+            "N-10883",
+            "N-10884"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -204,7 +204,7 @@
             "N-591",
             "N-670",
             "N-5",
-            "N-10964"
+            "N-10885"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -239,7 +239,7 @@
           ],
           "related_nodes": [
             "N-591",
-            "N-10964"
+            "N-10885"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -263,8 +263,8 @@
             "N-591",
             "N-671",
             "N-672",
-            "N-10963",
-            "N-10965"
+            "N-10884",
+            "N-10886"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -290,7 +290,7 @@
             "C-9848"
           ],
           "related_nodes": [
-            "N-10966",
+            "N-10887",
             "N-10026"
           ],
           "tags": [],
@@ -342,7 +342,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -427,7 +427,7 @@
             "C-9858"
           ],
           "related_nodes": [
-            "N-10967",
+            "N-10888",
             "N-10026"
           ],
           "tags": [],
@@ -456,8 +456,8 @@
           ],
           "related_nodes": [
             "N-433",
-            "N-10671",
-            "N-10700"
+            "N-10611",
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -955,8 +955,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10955",
-      "ref": "N-10955",
+      "@id": "N-10876",
+      "ref": "N-10876",
       "name": "Sazan Island",
       "type": "place",
       "description": "Island off the coast of Albania that the host says Ivanka Trump and Jared Kushner \"discovered\" from Nat Rothschild's yacht and are now developing; the host links it to Khrushchev's 1959 remarks on controlling the Mediterranean.",
@@ -979,12 +979,14 @@
       "evidence_count": 5,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q23442"
     },
     {
       "@type": "Place",
-      "@id": "N-10961",
-      "ref": "N-10961",
+      "@id": "N-10882",
+      "ref": "N-10882",
       "name": "Kharg Island",
       "type": "place",
       "description": "Iranian island in the Persian Gulf that Donald Trump says he would prefer to take and that the host says Ben Shapiro has called for seizing.",
@@ -1000,12 +1002,14 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q23442"
     },
     {
       "@type": "Place",
-      "@id": "N-10962",
-      "ref": "N-10962",
+      "@id": "N-10883",
+      "ref": "N-10883",
       "name": "Venezuela",
       "type": "place",
       "description": "Trump says millions of barrels of Venezuelan oil were brought to US refineries; the host says the oil went to Israel.",
@@ -1021,12 +1025,14 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Place",
-      "@id": "N-10963",
-      "ref": "N-10963",
+      "@id": "N-10884",
+      "ref": "N-10884",
       "name": "Cuba",
       "type": "place",
       "description": "Subject of Laura Loomer's question about a US operation to remove the communist government and of Hegseth's \"options\" answer.",
@@ -1042,12 +1048,14 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Organization",
-      "@id": "N-10964",
-      "ref": "N-10964",
+      "@id": "N-10885",
+      "ref": "N-10885",
       "name": "US Central Command (CENTCOM)",
       "type": "organization",
       "description": "Military command whose Tampa headquarters hosted Hegseth's press remarks announcing strikes on Iran.",
@@ -1064,12 +1072,14 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q176799"
     },
     {
       "@type": "Place",
-      "@id": "N-10965",
-      "ref": "N-10965",
+      "@id": "N-10886",
+      "ref": "N-10886",
       "name": "Guantanamo Bay",
       "type": "place",
       "description": "Naval base where the host says Hegseth traveled with Laura Loomer and ran with troops.",
@@ -1085,12 +1095,13 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place"
     },
     {
       "@type": "Organization",
-      "@id": "N-10966",
-      "ref": "N-10966",
+      "@id": "N-10887",
+      "ref": "N-10887",
       "name": "The Spectator (US edition)",
       "type": "organization",
       "description": "Publication of the article headlined \"Bombing Iran is the perfect way to celebrate pride.\"",
@@ -1105,12 +1116,14 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q41298"
     },
     {
       "@type": "Organization",
-      "@id": "N-10967",
-      "ref": "N-10967",
+      "@id": "N-10888",
+      "ref": "N-10888",
       "name": "Haaretz",
       "type": "organization",
       "description": "Israeli publication of the article \"What if Albania had become the Jewish state?\" cited in the comments segment.",
@@ -1124,14 +1137,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q11032"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose CEO and chairman's accountability, appointment video and spokesperson are discussed.",
       "related_artifacts": [
         "A-2642.1"
@@ -1147,14 +1162,16 @@
       "evidence_count": 1,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10008",
       "ref": "N-10008",
       "name": "YWLS Conference",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Venue where TPUSA played the appointment video.",
       "related_artifacts": [
         "A-2642.1"
@@ -1166,14 +1183,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The host says the Rothschilds created Israel, that Venezuelan oil was shipped there, and that Albania was once considered for a Jewish state.",
       "related_artifacts": [
         "A-2641.1",
@@ -1188,14 +1207,16 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@type": "Organization",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says TPUSA brought in Daily Mail reporters for an article on why the full video could not be released.",
       "related_artifacts": [],
       "related_claims": [
@@ -1205,14 +1226,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Mitch Snow's September 8 hotel sighting is restated.",
       "related_artifacts": [],
       "related_claims": [
@@ -1222,49 +1245,37 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host ties Hansell's September 8 trip to the date Mitch Snow places Erika Kirk on the base.",
       "related_artifacts": [],
       "related_claims": [
         "C-9864",
-        "C-9865"
+        "C-9865",
+        "C-9866"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10472",
-      "ref": "N-10472",
-      "name": "Fort Huachuca Alibi Investigation",
-      "type": "investigation_target",
-      "description": "The host says Erika Kirk has not provided an alibi and that Paramount Tactical debunked the one offered.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-9866"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@type": "Topic",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host frames the Iran strikes as a bid to control the Strait of Hormuz; Hegseth announces new strikes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1276,14 +1287,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10628",
-      "ref": "N-10628",
+      "@type": "Topic",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host restates that Loomer is not legally allowed to own a weapon.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,14 +1305,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host maintains the appointment video is doctored and asks Kolvet to deny AI enhancement.",
       "related_artifacts": [
         "A-2642.2"
@@ -1316,14 +1329,15 @@
       "evidence_count": 1,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10671",
-      "ref": "N-10671",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10611",
+      "ref": "N-10611",
       "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's FOIA for the passenger list of Hansell's Fort Huachuca flight; she references \"Sam 702.\"",
       "related_artifacts": [
         "A-2645.1"
@@ -1337,14 +1351,16 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10700",
-      "ref": "N-10700",
+      "@type": "Topic",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The Hansell FOIA request and its \"very odd response.\"",
       "related_artifacts": [
         "A-2645.1"
@@ -1357,14 +1373,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10865",
-      "ref": "N-10865",
+      "@type": "Topic",
+      "@id": "N-10786",
+      "ref": "N-10786",
       "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host opens by asking when the widowed CEO and chairman of TPUSA must answer questions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1374,14 +1391,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@type": "Organization",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Called \"Paramount Not So Tactical\"; the host says it debunked the Fort Huachuca alibi.",
       "related_artifacts": [],
       "related_claims": [
@@ -1391,7 +1409,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -1404,7 +1424,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10865"
+        "N-10786"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -1424,7 +1444,7 @@
         "A-2636.1"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
@@ -1446,7 +1466,7 @@
         "A-2637.1"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
@@ -1550,7 +1570,7 @@
         "A-2636.2"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:08:08",
@@ -1571,7 +1591,7 @@
         "A-2636.2"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:08:08",
@@ -1592,7 +1612,7 @@
         "A-2636.2"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:09:12",
@@ -1613,7 +1633,7 @@
         "A-2638.1"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:09:59",
@@ -1633,7 +1653,7 @@
         "A-2638.1"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:09:59",
@@ -1652,7 +1672,7 @@
       "claim": "The host says Trump has been bombing Iran without a vote from Congress.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:11:08",
@@ -1672,7 +1692,7 @@
         "A-2639.1"
       ],
       "related_nodes": [
-        "N-10961"
+        "N-10882"
       ],
       "tags": [],
       "claim_timestamp": "00:11:57",
@@ -1690,7 +1710,7 @@
       "claim": "The host says Ben Shapiro has been publicly urging that the US take Kharg Island.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10961"
+        "N-10882"
       ],
       "tags": [],
       "claim_timestamp": "00:11:57",
@@ -1710,7 +1730,7 @@
         "A-2639.1"
       ],
       "related_nodes": [
-        "N-10962"
+        "N-10883"
       ],
       "tags": [],
       "claim_timestamp": "00:11:57",
@@ -1728,7 +1748,7 @@
       "claim": "The host says headlines reported that the Venezuelan oil began to be shipped immediately to Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10962",
+        "N-10883",
         "N-10026"
       ],
       "tags": [],
@@ -1752,8 +1772,8 @@
         "A-2640.1"
       ],
       "related_nodes": [
-        "N-10964",
-        "N-10541"
+        "N-10885",
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:15:42",
@@ -1775,8 +1795,8 @@
         "A-2640.1"
       ],
       "related_nodes": [
-        "N-10964",
-        "N-10541"
+        "N-10885",
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:17:01",
@@ -1833,7 +1853,7 @@
         "A-2640.3"
       ],
       "related_nodes": [
-        "N-10964"
+        "N-10885"
       ],
       "tags": [],
       "claim_timestamp": "00:22:34",
@@ -1853,7 +1873,7 @@
         "A-2640.4"
       ],
       "related_nodes": [
-        "N-10965"
+        "N-10886"
       ],
       "tags": [],
       "claim_timestamp": "00:24:25",
@@ -1872,7 +1892,7 @@
       "claim": "The host asserts that Laura Loomer is not legally allowed to own a firearm in the United States.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [],
       "claim_timestamp": "00:24:25",
@@ -1892,7 +1912,7 @@
         "A-2640.4"
       ],
       "related_nodes": [
-        "N-10965"
+        "N-10886"
       ],
       "tags": [],
       "claim_timestamp": "00:25:19",
@@ -1912,7 +1932,7 @@
         "A-2640.4"
       ],
       "related_nodes": [
-        "N-10963"
+        "N-10884"
       ],
       "tags": [],
       "claim_timestamp": "00:26:08",
@@ -1935,8 +1955,8 @@
         "A-2640.4"
       ],
       "related_nodes": [
-        "N-10963",
-        "N-10964"
+        "N-10884",
+        "N-10885"
       ],
       "tags": [],
       "claim_timestamp": "00:27:03",
@@ -1954,7 +1974,7 @@
       "claim": "The host says Hegseth also went on a run with troops after arriving at Guantanamo Bay.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10965"
+        "N-10886"
       ],
       "tags": [],
       "claim_timestamp": "00:27:47",
@@ -1974,7 +1994,7 @@
         "A-2641.1"
       ],
       "related_nodes": [
-        "N-10966"
+        "N-10887"
       ],
       "tags": [],
       "claim_timestamp": "00:28:39",
@@ -1991,7 +2011,7 @@
         "A-2641.1"
       ],
       "related_nodes": [
-        "N-10966",
+        "N-10887",
         "N-10026"
       ],
       "tags": [],
@@ -2036,7 +2056,7 @@
         "A-2642.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
@@ -2062,7 +2082,7 @@
         "A-2642.2"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
@@ -2086,7 +2106,7 @@
         "A-2642.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
@@ -2108,7 +2128,7 @@
         "A-2642.2"
       ],
       "related_nodes": [
-        "N-10664",
+        "N-10606",
         "N-10000"
       ],
       "tags": [],
@@ -2166,8 +2186,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10070",
-        "N-10664"
+        "N-10067",
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:37:53",
@@ -2187,7 +2207,7 @@
         "A-2644.1"
       ],
       "related_nodes": [
-        "N-10967",
+        "N-10888",
         "N-10026"
       ],
       "tags": [],
@@ -2237,7 +2257,7 @@
         "A-2642.2"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:44:45",
@@ -2274,8 +2294,8 @@
         "A-2645.1"
       ],
       "related_nodes": [
-        "N-10700",
-        "N-10671"
+        "N-10637",
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:45:43",
@@ -2296,8 +2316,8 @@
         "A-2645.1"
       ],
       "related_nodes": [
-        "N-10671",
-        "N-10700"
+        "N-10611",
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:45:43",
@@ -2318,8 +2338,8 @@
         "A-2645.1"
       ],
       "related_nodes": [
-        "N-10671",
-        "N-10417"
+        "N-10611",
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:46:42",
@@ -2337,8 +2357,8 @@
       "claim": "The host restates that Mitch Snow, who she says has not changed his story, claims he saw Erika Kirk at a hotel on the Fort Huachuca base on September 8.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367",
-        "N-10417"
+        "N-10342",
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:46:42",
@@ -2360,8 +2380,8 @@
       "claim": "The host says Erika Kirk has not provided an alibi, and that she guesses Kolvet tried to offer one through what she calls \"Paramount Not So Tactical,\" which she says then debunked that alibi and said it does not matter whether or not the children are hers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-10472"
+        "N-10820",
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:46:42",

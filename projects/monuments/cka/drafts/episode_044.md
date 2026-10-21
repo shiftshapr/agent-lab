@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 4b44fcbfa9593db0051351dbb92918f4843655b202e7f32c7919dca51311b3f6
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-877, N-878, N-11282, N-11283, N-11284, N-11285, N-11286, N-11288
+  - Tip-minted Nodes (supplement_2026-10e): N-877, N-878, N-11198, N-11199, N-11200, N-11201, N-11202, N-11204
   - Hole-minted Nodes (reintro-ep044): N-538
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3800–C-3900
-  - New Nodes Introduced: N-318, N-319, N-320, N-321, N-322, N-323, N-10326, N-10327, N-10328, N-10329, N-10330, N-10331
-  - Tip-minted Nodes (w3-root-brands): N-10902
-  - Reused Nodes Appearing: N-9, N-66, N-69, N-220, N-270, N-312, N-329, N-130, N-10000, N-10026, N-10202, N-10317, N-10325, N-10340, N-10355, N-10397, N-10398, N-10401, N-10436, N-10567, N-11191, N-11186, N-11287
+  - New Nodes Introduced: N-318, N-319, N-320, N-321, N-322, N-323, N-10305, N-10306, N-10307, N-10308, N-10309, N-10310
+  - Tip-minted Nodes (w3-root-brands): N-10823
+  - Reused Nodes Appearing: N-11361, N-9, N-66, N-69, N-220, N-270, N-312, N-329, N-130, N-10000, N-10026, N-10194, N-10298, N-10304, N-10318, N-10332, N-10370, N-10371, N-10374, N-10405, N-10518, N-11107, N-11102, N-11203
   - (see registers)
 
 ## 2. Executive Summary
@@ -42,7 +42,7 @@ Video Timestamp: 00:05:09–00:14:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud as direct quote from Harry; not independently displayed)
 
-*Related: C-3805, C-3809, C-3823, C-3817, N-318, N-323, N-10328*
+*Related: C-3805, C-3809, C-3823, C-3817, N-318, N-323, N-10307*
 
 **A-1519.2** First-person narrative account (September 8–9, 2025 Fort Huachuca encounter)
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:15:10–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3829, C-3833, C-3836, C-3837, N-318, N-266, N-319, N-10326*
+*Related: C-3829, C-3833, C-3836, C-3837, N-318, N-266, N-319, N-10305*
 
 **A-1519.3** Incident Report 861-1-2025-MPC446 (Fort Huachuca, September 9, 2025)
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (number only; full report not displayed)
 
-*Related: C-3852, N-318, N-319, N-10327*
+*Related: C-3852, N-318, N-319, N-10306*
 
 **A-1519.4** Candlewood Suites reservation at Fort Huachuca, September 8, 2025 ~5:37 PM
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:16:14–00:17:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host states Harry provided timestamps, bookings, reservations, call logs)
 
-*Related: C-3829, N-318, N-10326*
+*Related: C-3829, N-318, N-10305*
 
 **A-1519.5** Supporting documents referenced but not displayed (army medal writeups; NDA 1990–May 2025; police records; high school graduation certificate)
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:09:29–00:11:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed news clip)
 
-*Related: C-3805, N-10328, N-323*
+*Related: C-3805, N-10307, N-323*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:06:44–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed clip)
 
-*Related: C-3805, N-10328*
+*Related: C-3805, N-10307*
 
 ---
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:35:20–00:36:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article cited but full display not confirmed)
 
-*Related: C-3864, C-3865, N-313, N-10330*
+*Related: C-3864, C-3865, N-313, N-10309*
 
 ---
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:35:46–00:40:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host reads counts/contents; underlying emails not displayed)
 
-*Related: C-3866, C-3882, N-313, N-320, N-321, N-322, N-10330, N-10331*
+*Related: C-3866, C-3882, N-313, N-320, N-321, N-322, N-10309, N-10310*
 
 ---
 
@@ -262,7 +262,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-3837, N-10329*
+*Related: A-1519.2, C-3837, N-10308*
 
 ---
 
@@ -275,7 +275,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, A-1519.3, C-3840, C-3852, N-10326, N-10327*
+*Related: A-1519.2, A-1519.3, C-3840, C-3852, N-10305, N-10306*
 
 ---
 
@@ -314,7 +314,7 @@ Claim Count: 2
 Episode Count: 1 (in this analysis)
 Investigative Pressure: High
 
-*Related: A-1522.1, A-1523.1, C-3864, C-3865, C-3866, N-320, N-10330*
+*Related: A-1522.1, A-1523.1, C-3864, C-3865, C-3866, N-320, N-10309*
 
 ---
 
@@ -327,7 +327,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-3866, C-3882, N-313, N-10330*
+*Related: A-1523.1, C-3866, C-3882, N-313, N-10309*
 
 ---
 
@@ -340,7 +340,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-3882, N-320, N-10331*
+*Related: A-1523.1, C-3882, N-320, N-10310*
 
 ---
 
@@ -353,11 +353,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-3882, N-320, N-10331*
+*Related: A-1523.1, C-3882, N-320, N-10310*
 
 ---
 
-**N-10902** Root Brands
+**N-10823** Root Brands
 
 Node Type: Organization
 
@@ -368,7 +368,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-3882, N-320, N-10331*
+*Related: A-1523.1, C-3882, N-320, N-10310*
 
 ---
 
@@ -381,11 +381,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (historical)
 
-*Related: A-1519.1, A-1520.1, C-3809, N-10328*
+*Related: A-1519.1, A-1520.1, C-3809, N-10307*
 
 ---
 
-**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Persistent target: whether a high-level JTF-SB command meeting occurred at Fort Huachuca on September 9, 2025, whether 12–13 lieutenant colonels were present, and whether Harry Myers' account is corroborated by incident report 861-1-2025-MPC446.
 
@@ -398,7 +398,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10327** Incident Report 861-1-2025-MPC446 FOIA Verification
+**N-10306** Incident Report 861-1-2025-MPC446 FOIA Verification
 
 Persistent target: verifiable existence and contents of Fort Huachuca incident report 861-1-2025-MPC446 generated on September 9, 2025 in connection with Harry Myers' detention.
 
@@ -407,11 +407,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.3, C-3852, N-319, N-10326*
+*Related: A-1519.3, C-3852, N-319, N-10305*
 
 ---
 
-**N-10328** 1990 Douglas, Arizona / Operation Catacomb Verification
+**N-10307** 1990 Douglas, Arizona / Operation Catacomb Verification
 
 Persistent target: verifiable history of Joint Task Force 6, Operation Catacomb, the Douglas–Agua Prieta tunnel discovery, and the alleged JTF-6 commander / El Chapo photographs. Connects to Harry Myers' 35-year claim of retaliation and his NDA.
 
@@ -424,7 +424,7 @@ Investigative Pressure: Medium (historical)
 
 ---
 
-**N-10329** Brian Harpole Military Connection Verification
+**N-10308** Brian Harpole Military Connection Verification
 
 Persistent target: whether Brian Harpole has any military or government connection that could account for his presence at a JTF-SB command meeting at Fort Huachuca on September 9, 2025.
 
@@ -433,11 +433,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-3837, N-266, N-10326*
+*Related: A-1519.2, C-3837, N-266, N-10305*
 
 ---
 
-**N-10330** "Jonathan Schmidt" / Arcadi Gaydamak Identity Verification
+**N-10309** "Jonathan Schmidt" / Arcadi Gaydamak Identity Verification
 
 Persistent target: whether the individual operating in Nashville under the name Jonathan Schmidt is in fact Arcadi Gaydamak, as alleged by seven viewers.
 
@@ -450,7 +450,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10331** Root Brands / Nashville Foreign Intelligence Personnel Question
+**N-10310** Root Brands / Nashville Foreign Intelligence Personnel Question
 
 Persistent target: verifiable employment history, immigration status, and security posture of Root Brands' workforce given the alleged presence of Arcadi Gaydamak and Ukrainians at the company.
 
@@ -459,7 +459,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-3882, N-320, N-321, N-322, N-10902*
+*Related: A-1523.1, C-3882, N-320, N-321, N-322, N-10823*
 
 ---
 
@@ -468,6 +468,16 @@ Investigative Pressure: High
 Subject of the assassination; the host discusses his Asia trip, the day-before messages and Harry's meeting claims.
 
 *Related: C-3800, C-3801, C-3802, C-3842, C-3849, C-3854, C-3855, C-3856, C-3857, C-3883, C-3887, C-3888, C-3891, C-3895, C-3898*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-3849*
 
 ---
 
@@ -567,7 +577,7 @@ Country the host says she has named in her reports of an assassination attempt c
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for the host's remarks on Patel's disinterest.
 
@@ -575,7 +585,7 @@ Existing topic reused for the host's remarks on Patel's disinterest.
 
 ---
 
-**N-10317** Pierre Falcone / Turning Point USA Connection Claim
+**N-10298** Pierre Falcone / Turning Point USA Connection Claim
 
 Existing topic reused for the host's question about TPUSA and Pierre.
 
@@ -583,7 +593,7 @@ Existing topic reused for the host's question about TPUSA and Pierre.
 
 ---
 
-**N-10325** Global Trafficking Angle in Kirk Assassination
+**N-10304** Global Trafficking Angle in Kirk Assassination
 
 Existing topic reused for the government-cartel and cartel-involvement remarks.
 
@@ -591,7 +601,7 @@ Existing topic reused for the government-cartel and cartel-involvement remarks.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for the host's reference to Kirk's day-before messages.
 
@@ -599,7 +609,7 @@ Existing topic reused for the host's reference to Kirk's day-before messages.
 
 ---
 
-**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
 
 Existing topic reused for the host's contact with Gabbard's office.
 
@@ -607,7 +617,7 @@ Existing topic reused for the host's contact with Gabbard's office.
 
 ---
 
-**N-10397** Charlie Kirk Korea Trip / Pastor Yoon Connection
+**N-10370** Charlie Kirk Korea Trip / Pastor Yoon Connection
 
 Existing topic reused for Kirk's final Korea and Japan trip.
 
@@ -615,7 +625,7 @@ Existing topic reused for Kirk's final Korea and Japan trip.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Existing topic reused for the faith-infiltration remark.
 
@@ -623,7 +633,7 @@ Existing topic reused for the faith-infiltration remark.
 
 ---
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Existing topic reused for the Poland-to-Mexico trafficking remark.
 
@@ -631,7 +641,7 @@ Existing topic reused for the Poland-to-Mexico trafficking remark.
 
 ---
 
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Existing topic reused for the faith-infiltration remark.
 
@@ -639,7 +649,7 @@ Existing topic reused for the faith-infiltration remark.
 
 ---
 
-**N-10567** French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation
+**N-10518** French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation
 
 Existing topic reused for the host's French intelligence remarks.
 
@@ -647,7 +657,7 @@ Existing topic reused for the host's French intelligence remarks.
 
 ---
 
-**N-11186** Angolagate
+**N-11102** Angolagate
 
 Existing topic reused for Falcone and Gaydamak's involvement.
 
@@ -655,7 +665,7 @@ Existing topic reused for Falcone and Gaydamak's involvement.
 
 ---
 
-**N-11191** Pre-Born
+**N-11107** Pre-Born
 
 Organization advertised in the sponsor read.
 
@@ -679,16 +689,16 @@ First named by the host at 00:05:09 in episode 44. President during Iran-Contra,
 
 ---
 
-**N-11282** Iran-Contra Affair
+**N-11198** Iran-Contra Affair
 
-Node Type: Topic
+Node Type: Event
 The 1980s scandal the host cites as showing the CIA trafficked drugs and weapons and as a context for JTF-6 and Epstein.
 
 *Related: C-3807, C-3808, C-3810*
 
 ---
 
-**N-11283** Joint Task Force Six and Joint Task Force Southern Border
+**N-11199** Joint Task Force Six and Joint Task Force Southern Border
 
 Node Type: Organization
 The border command Harry says he served in during 1990 and its alleged continuation as JTF Southern Border at Fort Huachuca.
@@ -697,7 +707,7 @@ The border command Harry says he served in during 1990 and its alleged continuat
 
 ---
 
-**N-11284** Ukrainian Refugee Infiltration Claim
+**N-11200** Ukrainian Refugee Infiltration Claim
 
 Node Type: Topic
 The host's claims about a Ukrainian influx and about dangerous people entering as refugees, raised alongside the Nashville Root Brands tips.
@@ -706,7 +716,7 @@ The host's claims about a Ukrainian influx and about dangerous people entering a
 
 ---
 
-**N-11285** TPUSA Former Cartel Weapons Traffickers Hire Claim
+**N-11201** TPUSA Former Cartel Weapons Traffickers Hire Claim
 
 Node Type: Topic
 The host's statement that TPUSA hired former cartel weapons traffickers, including an alleged Poland-to-Mexico route.
@@ -715,7 +725,7 @@ The host's statement that TPUSA hired former cartel weapons traffickers, includi
 
 ---
 
-**N-11286** Candace Owens Security Fund Proposal
+**N-11202** Candace Owens Security Fund Proposal
 
 Node Type: Topic
 A viewer-suggested security fund that the host says she may start.
@@ -724,7 +734,7 @@ A viewer-suggested security fund that the host says she may start.
 
 ---
 
-**N-11287** Tim Pool Dispute With Candace Owens
+**N-11203** Tim Pool Dispute With Candace Owens
 
 Node Type: Topic
 The exchange in which Tim Pool's clip calls the host names and says she has no security, and the host's responses.
@@ -733,9 +743,9 @@ The exchange in which Tim Pool's clip calls the host names and says she has no s
 
 ---
 
-**N-11288** Harry Myers September 10 Salt Lake City Airport Layover
+**N-11204** Harry Myers September 10 Salt Lake City Airport Layover
 
-Node Type: Topic
+Node Type: Event
 Harry's account of passing through Salt Lake City airport on September 10, 2025 and learning of the shooting.
 
 *Related: C-3842, C-3843*
@@ -753,7 +763,7 @@ Claim: In a message from Harry that the host reads, a then-20-year-old military 
 Anchored Artifacts: A-1519.1, A-1520.1, A-1521.1
 Mentions: N-318
 
-Related Nodes: N-10328
+Related Nodes: N-10307
 
 Investigative Direction: Cross-check DEA, CBP, and Army historical records for the 1990 Douglas–Agua Prieta tunnel case; verify Harry's military service record and JTF-6 assignment.
 
@@ -768,7 +778,7 @@ Claim: Harry states photos recovered from the Mexican side of the tunnel depicte
 Anchored Artifacts: A-1519.1
 Mentions: N-318, N-323
 
-Related Nodes: N-10328
+Related Nodes: N-10307
 
 Investigative Direction: FOIA requests to DEA, CBP, and DOJ for case files associated with the 1990 tunnel seizure and any photographic evidence.
 
@@ -811,7 +821,7 @@ Claim: The host says Harry Myers told her he arrived at Candlewood Suites on For
 Anchored Artifacts: A-1519.2, A-1519.4
 Mentions: N-318
 
-Related Nodes: N-10326
+Related Nodes: N-10305
 
 Investigative Direction: Pull Candlewood Suites Fort Huachuca guest log for September 8, 2025 and corroborate with military visitor records.
 
@@ -826,7 +836,7 @@ Claim: The host says Harry told her he entered a temporary JTF-Southern Border h
 Anchored Artifacts: A-1519.2
 Mentions: N-318
 
-Related Nodes: N-10326
+Related Nodes: N-10305
 
 Investigative Direction: Cross-reference base access logs and incident report 861-1-2025-MPC446.
 
@@ -841,7 +851,7 @@ Claim: The host says Harry told her he saw about 12 lieutenant colonels as the m
 Anchored Artifacts: A-1519.2
 Mentions: N-318
 
-Related Nodes: N-10326
+Related Nodes: N-10305
 
 Investigative Direction: Verify through FOIA of incident report 861-1-2025-MPC446 and any meeting attendance logs.
 
@@ -856,7 +866,7 @@ Claim: The host, saying 'allegedly' because she was not there, says Harry told h
 Anchored Artifacts: A-1519.2
 Mentions: N-266, N-318, N-1
 
-Related Nodes: N-10329
+Related Nodes: N-10308
 
 Investigative Direction: FOIA incident report 861-1-2025-MPC446 for visitor/attendee list; cross-reference with public schedule of Brian Harpole for September 9, 2025.
 
@@ -871,7 +881,7 @@ Claim: The host says Harry told her that, after he entered the temporary JTF hea
 Anchored Artifacts: A-1519.2
 Mentions: N-318, N-319
 
-Related Nodes: N-10326
+Related Nodes: N-10305
 
 Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captain Neff through Army CID and Fort Huachuca force protection roster.
 
@@ -886,7 +896,7 @@ Claim: The host says Harry told her that Captain Neff gave him incident report n
 Anchored Artifacts: A-1519.3
 Mentions: N-318, N-319
 
-Related Nodes: N-10327
+Related Nodes: N-10306
 
 Investigative Direction: File FOIA request with the appropriate Army or DoD FOIA office for incident report 861-1-2025-MPC446.
 
@@ -929,7 +939,7 @@ Claim: The host says seven individuals, mostly men, emailed the show asserting t
 Anchored Artifacts: A-1523.1
 Mentions: N-313, N-320
 
-Related Nodes: N-10330
+Related Nodes: N-10309
 
 Investigative Direction: Obtain corroborating evidence via public records, business filings, immigration status checks, and law enforcement confirmation.
 
@@ -944,7 +954,7 @@ Claim: The host says tipsters claim that Jonathan Schmidt/Gaydamak works at Root
 Anchored Artifacts: A-1523.1
 Mentions: N-313, N-320, N-321, N-322
 
-Related Nodes: N-10330, N-10331, N-10902
+Related Nodes: N-10309, N-10310, N-10823
 
 Investigative Direction: Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications.
 
@@ -1014,7 +1024,7 @@ Transcript Snippet: He went on a firsttime trip to Asia, a quite a quick trip, a
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's travel itinerary, flight manifests and TPUSA event schedule for the Korea and Japan legs in early September 2025.
 
@@ -1030,7 +1040,7 @@ Transcript Snippet: I might think at this stage, that the timing of that trip mi
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Establish who scheduled the Korea and Japan trip and when; compare the booking date with any internal TPUSA planning for the Utah event.
 
@@ -1078,7 +1088,7 @@ Transcript Snippet: I can tell you that he is being 100% honest and you are free
 
 Anchored Artifacts: 
 Mentions: N-3, N-318
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Ask the host which elements she verified and with what sources (base records, hotel records, court filings) and publish them.
 
@@ -1094,7 +1104,7 @@ Transcript Snippet: And this new command was being created down at the border uh
 
 Anchored Artifacts: 
 Mentions: N-877, N-538, N-318
-Related Nodes: N-11283
+Related Nodes: N-11199
 Tags: relevance:context
 Investigative Direction: Check Department of Defense and Army histories of JTF-6 (established 1989) for its creation order, mandate and the role attributed to Colin Powell.
 
@@ -1110,7 +1120,7 @@ Transcript Snippet: for those of you who are not read into massive CIA scandals,
 
 Anchored Artifacts: 
 Mentions: N-878, N-877
-Related Nodes: N-11282
+Related Nodes: N-11198
 Tags: relevance:context
 Investigative Direction: Compare with the Tower Commission and Walsh Final Report on what Iran-Contra established regarding drugs versus weapons.
 
@@ -1126,7 +1136,7 @@ Transcript Snippet: if you guys have followed our Epstein series, we now know th
 
 Anchored Artifacts: 
 Mentions: N-9
-Related Nodes: N-11282
+Related Nodes: N-11198
 Tags: relevance:context
 Investigative Direction: Identify the document in the host's Epstein series that places Epstein in Iran-Contra and test it against primary records.
 
@@ -1142,7 +1152,7 @@ Transcript Snippet: He had to really hit hard on drugs, drugs at the border, and
 
 Anchored Artifacts: 
 Mentions: N-877
-Related Nodes: N-11282
+Related Nodes: N-11198
 Tags: relevance:context
 Investigative Direction: Review Bush campaign and September 1989 national drug-control speech records for border-focused commitments.
 
@@ -1174,7 +1184,7 @@ Transcript Snippet: In just 6 days, I planted sensors, translated data, and uh s
 
 Anchored Artifacts: A-1519.1
 Mentions: N-318
-Related Nodes: N-10328, N-11283
+Related Nodes: N-10307, N-11199
 Tags: relevance:context
 Investigative Direction: Obtain JTF-6 operation records and Border Patrol Douglas Station files for the 1990 tunnel to check the six-day timeline and who supplied the warrant information.
 
@@ -1190,7 +1200,7 @@ Transcript Snippet: which avoided tipping off any compromised commanders um that
 
 Anchored Artifacts: A-1519.1
 Mentions: N-318
-Related Nodes: N-10328, N-11283
+Related Nodes: N-10307, N-11199
 Tags: relevance:context
 Investigative Direction: Search court records for the warrant application, the issuing magistrate and affiant, and any later prosecution or discipline of JTF-6 or Border Patrol commanders.
 
@@ -1206,7 +1216,7 @@ Transcript Snippet: federal agents broke into the concrete reinforced tunnel at 
 
 Anchored Artifacts: A-1520.1
 Mentions: 
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:context
 Investigative Direction: Match against contemporary Arizona Daily Star and AP reports of the May 1990 Douglas tunnel seizure.
 
@@ -1222,7 +1232,7 @@ Transcript Snippet: Federal agents said the tunnel cost at least a million dolla
 
 Anchored Artifacts: A-1520.1
 Mentions: 
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:context
 Investigative Direction: Verify cost and operating-period figures against U.S. Customs and DEA press statements from 1990.
 
@@ -1238,7 +1248,7 @@ Transcript Snippet: Earlier this month, police seized 2,000 lbs of cocaine, whic
 
 Anchored Artifacts: A-1520.1
 Mentions: 
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:context
 Investigative Direction: Check seizure totals in DEA and Customs records for the Douglas case.
 
@@ -1254,7 +1264,7 @@ Transcript Snippet: And what Scott said in that news clip is there were pictures
 
 Anchored Artifacts: A-1520.1
 Mentions: 
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:context
 Investigative Direction: Re-watch the original clip for any statement about photographs; if absent, the photo claim rests only on Harry's account.
 
@@ -1270,7 +1280,7 @@ Transcript Snippet: Somehow in the immediate days after the bust prior to the Un
 
 Anchored Artifacts: A-1519.1
 Mentions: N-318
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:context
 Investigative Direction: Look for Army CID and U.S. Attorney (Tucson) files from 1990 documenting a compromised-identity incident.
 
@@ -1286,7 +1296,7 @@ Transcript Snippet: where I was approached by a cartel member confirming my iden
 
 Anchored Artifacts: A-1519.1
 Mentions: N-318
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:core
 Investigative Direction: Ask Harry for the town name (transcript 'Naco, Arizona') and any contemporaneous report to Army CID or Border Patrol of the approach.
 
@@ -1302,7 +1312,7 @@ Transcript Snippet: which was supposed to be locked in custody in the custody of
 
 Anchored Artifacts: A-1519.1
 Mentions: N-318, N-323
-Related Nodes: N-10328, N-11283
+Related Nodes: N-10307, N-11199
 Tags: relevance:context
 Investigative Direction: Identify the JTF-6 commander in 1990 and the custodian of clearance files; obtain Harry's personnel security file via Privacy Act request.
 
@@ -1318,7 +1328,7 @@ Transcript Snippet: The next day, I had a debrief with the Army Criminal Investi
 
 Anchored Artifacts: A-1519.1
 Mentions: N-318
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:context
 Investigative Direction: Request Army CID report of investigation and U.S. Attorney, District of Arizona files for 1990 involving a JTF-6 sensor operator.
 
@@ -1334,7 +1344,7 @@ Transcript Snippet: The witness protection entrance never happened. The ball got
 
 Anchored Artifacts: A-1519.1
 Mentions: N-318
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:context
 Investigative Direction: Query U.S. Marshals WITSEC for any 1990 referral; identify the compromised commander and any plea or immunity arrangement.
 
@@ -1350,7 +1360,7 @@ Transcript Snippet: accidentally stumbled upon the fact that our government was 
 
 Anchored Artifacts: A-1519.1
 Mentions: N-318, N-3
-Related Nodes: N-10328, N-10325
+Related Nodes: N-10307, N-10304
 Tags: relevance:context
 Investigative Direction: This is the host's reading of one tipster's account; seek corroborating prosecutions or inspector-general findings from the 1990 case.
 
@@ -1366,7 +1376,7 @@ Transcript Snippet: He now has all of his paperwork thanks to um some county cle
 
 Anchored Artifacts: A-1519.5
 Mentions: N-318
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:context
 Investigative Direction: Identify the county clerks' offices and case numbers, and obtain the recovered police and court records.
 
@@ -1382,7 +1392,7 @@ Transcript Snippet: Harry Myers, who now has a new name, by the way, which I'm n
 
 Anchored Artifacts: A-1519.5
 Mentions: N-318
-Related Nodes: N-10328
+Related Nodes: N-10307
 Tags: relevance:context
 Investigative Direction: Obtain the NDA release document and any name-change court order, with the host's consent from Harry.
 
@@ -1398,7 +1408,7 @@ Transcript Snippet: He is going to travel from his home in Washington back down 
 
 Anchored Artifacts: 
 Mentions: N-318
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Check Harry's airline, rental car and lodging records for the trip to Arizona in early September 2025.
 
@@ -1414,7 +1424,7 @@ Transcript Snippet: thereafter the two of them get into a green pickup truck and
 
 Anchored Artifacts: A-1519.4
 Mentions: N-318
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Ask Harry who he now believes the woman was and obtain Candlewood Suites lobby footage and parking records for September 8, 2025.
 
@@ -1430,7 +1440,7 @@ Transcript Snippet: he runs into some soldiers, again, this is just all God at t
 
 Anchored Artifacts: 
 Mentions: N-318
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Identify the soldiers and unit through Harry's description; check 10th Mountain Division presence in Sierra Vista in September 2025.
 
@@ -1446,7 +1456,7 @@ Transcript Snippet: the old joint task force 6 is now being continued and it's k
 
 Anchored Artifacts: 
 Mentions: N-318
-Related Nodes: N-11283, N-10326
+Related Nodes: N-11199, N-10305
 Tags: relevance:core
 Investigative Direction: Confirm through Department of Defense records that JTF-SB is the successor to JTF-6 and where its Fort Huachuca element was located in September 2025.
 
@@ -1462,7 +1472,7 @@ Transcript Snippet: they're actually currently borrowing a building down there a
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318
-Related Nodes: N-11283, N-10326
+Related Nodes: N-11199, N-10305
 Tags: relevance:core
 Investigative Direction: Identify the building and its tenant organizations on Fort Huachuca for September 2025 through installation facility records.
 
@@ -1478,7 +1488,7 @@ Transcript Snippet: You don't see this unless you're at the Pentagon or you're a
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Establish whether any senior JTF-SB or Army North leadership meeting was held at Fort Huachuca on September 9, 2025.
 
@@ -1494,7 +1504,7 @@ Transcript Snippet: He said, "You could just tell this is the most important per
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318, N-266
-Related Nodes: N-10326, N-10329
+Related Nodes: N-10305, N-10308
 Tags: relevance:core
 Investigative Direction: Ask Harry for a photo lineup of the central figure; compare against public images of senior Army and TPUSA-linked figures.
 
@@ -1510,7 +1520,7 @@ Transcript Snippet: Suddenly somebody hits the panic button and two captains com
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318, N-266
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: FOIA the military police blotter and incident report for the timing of the call that preceded the escort.
 
@@ -1526,7 +1536,7 @@ Transcript Snippet: they then conferenced with base commander. After I assumed t
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Identify the Fort Huachuca garrison commander on duty September 9, 2025 and request the incident report narrative.
 
@@ -1542,7 +1552,7 @@ Transcript Snippet: I got on a plane back home and I had a stop in Salt Lake. Uh
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318, N-1
-Related Nodes: N-11288, N-10326
+Related Nodes: N-11204, N-10305
 Tags: relevance:core
 Investigative Direction: Verify Harry's rental return, boarding pass and connecting flight through Salt Lake City on September 10, 2025.
 
@@ -1558,7 +1568,7 @@ Transcript Snippet: I did not notice anything helpful other than the fact that t
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318
-Related Nodes: N-11288
+Related Nodes: N-11204
 Tags: relevance:core
 Investigative Direction: Compare with Salt Lake City airport passenger counts and flight-activity data for the morning of September 10, 2025.
 
@@ -1574,7 +1584,7 @@ Transcript Snippet: they debated holding him for 48 hours uh for this perceived 
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: The incident report and any MP desk journal should record any hold decision.
 
@@ -1590,7 +1600,7 @@ Transcript Snippet: Both of them are wrong. Okay, both of them are wrong. This r
 
 Anchored Artifacts: 
 Mentions: N-3, N-318
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Compare this host framing with her later 'a lot of coincidence' remark; ask whether she regards the encounter as unrelated to the assassination.
 
@@ -1622,7 +1632,7 @@ Transcript Snippet: eventually he says was a person that had a heart and realize
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318, N-319
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Identify Captain Neff through the Fort Huachuca force-protection roster and ask him to confirm or deny.
 
@@ -1638,7 +1648,7 @@ Transcript Snippet: know how these meetings work. These are the meetings that ar
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Establish what operation, if any, was in planning at JTF-SB in September 2025; this is Harry's inference rather than an observed fact.
 
@@ -1654,7 +1664,7 @@ Transcript Snippet: He feels certain that he recognized these people in the days
 
 Anchored Artifacts: A-1519.2
 Mentions: N-318, N-1
-Related Nodes: N-10326
+Related Nodes: N-10305, N-11361
 Tags: relevance:core
 Investigative Direction: Ask Harry to name or point out the people he recognized and compare with the September 9 whereabouts of those individuals.
 
@@ -1670,7 +1680,7 @@ Transcript Snippet: I have verified uh he has sent me so many documents everythi
 
 Anchored Artifacts: A-1519.5
 Mentions: N-3, N-318
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Publish redacted copies or have an independent party review the documents, particularly the 1990 NDA and the personnel and award records.
 
@@ -1686,7 +1696,7 @@ Transcript Snippet: He said there would have been no record for this if they did
 
 Anchored Artifacts: A-1519.3
 Mentions: N-318
-Related Nodes: N-10327
+Related Nodes: N-10306
 Supports: C-3852
 Tags: relevance:core
 Investigative Direction: File the FOIA request for the incident report and the associated MP blotter entry.
@@ -1703,7 +1713,7 @@ Transcript Snippet: So that is the report number that was given to him by this c
 
 Anchored Artifacts: A-1519.3
 Mentions: N-318, N-319
-Related Nodes: N-10327
+Related Nodes: N-10306
 Supports: C-3852
 Tags: relevance:core
 Investigative Direction: Ask Fort Huachuca Provost Marshal whether the number is a valid MPC sequence format for 2025.
@@ -1720,7 +1730,7 @@ Transcript Snippet: did did you see Dan Flood? No. Well, that checks out because
 
 Anchored Artifacts: 
 Mentions: N-3, N-318, N-270, N-1
-Related Nodes: N-10397, N-10326
+Related Nodes: N-10370, N-10305
 Tags: relevance:core
 Investigative Direction: Obtain Dan Flood's September 2025 itinerary and the Kirk party's Korea and Japan travel records.
 
@@ -1736,7 +1746,7 @@ Transcript Snippet: on the 6th of September he is in Korea doing an event uh and
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Pull the Korea event date and the CNN Japan broadcast date to fix Kirk's location on each day.
 
@@ -1752,7 +1762,7 @@ Transcript Snippet: why would you want to go to Japan a day a day before you hav
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Establish the original planned return date and who approved the Japan leg.
 
@@ -1768,7 +1778,7 @@ Transcript Snippet: Maybe he left on the 9th. You got you got a 12hour flight ba
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk party's return flight record and compare with arrival time in Arizona.
 
@@ -1817,7 +1827,7 @@ Transcript Snippet: I don't expect them to be interested in this angle or this p
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Not testable directly; a FOIA to FBI and Army for records of the September 9 meeting would show whether it was known.
 
@@ -1833,7 +1843,7 @@ Transcript Snippet: One ultrasound is just $28, but you can give 10 times that a
 
 Anchored Artifacts: A-3118.1
 Mentions: N-3
-Related Nodes: N-11191
+Related Nodes: N-11107
 Tags: relevance:tangential
 Investigative Direction: Compare with Pre-Born's published cost per ultrasound.
 
@@ -1849,7 +1859,7 @@ Transcript Snippet: Pierre Falone had a partner named Arcadi Gammock didn't expe
 
 Anchored Artifacts: 
 Mentions: N-312, N-313, N-3
-Related Nodes: N-11186
+Related Nodes: N-11102
 Supports: C-3751
 Tags: relevance:context
 Investigative Direction: Cite the French Angolagate judgment naming Falcone and Gaydamak as co-defendants.
@@ -1866,7 +1876,7 @@ Transcript Snippet: after yesterday's episode, I had asked if anybody had anythi
 
 Anchored Artifacts: 
 Mentions: N-3, N-312, N-313
-Related Nodes: N-10317, N-10000
+Related Nodes: N-10298, N-10000
 Tags: relevance:context
 Investigative Direction: Review the viewer tip emails and any TPUSA donor records for connections to Pierre Falcone.
 
@@ -1882,7 +1892,7 @@ Transcript Snippet: They are certain at the very least that he is from Israel
 
 Anchored Artifacts: 
 Mentions: N-313, N-320
-Related Nodes: N-10330
+Related Nodes: N-10309
 Tags: relevance:context
 Investigative Direction: Obtain the tip emails and test any identifying detail against Israeli and French records on Gaydamak.
 
@@ -1898,7 +1908,7 @@ Transcript Snippet: if you're a real estate agent, they said he was um shopping 
 
 Anchored Artifacts: 
 Mentions: N-320
-Related Nodes: N-10330
+Related Nodes: N-10309
 Tags: relevance:context
 Investigative Direction: Identify the real estate agents and check Williamson County property records for any purchase by a Jonathan Schmidt.
 
@@ -1914,7 +1924,7 @@ Transcript Snippet: I reached out to Klay Thomas. I have reached out to Root Bra
 
 Anchored Artifacts: 
 Mentions: N-3, N-321, N-320
-Related Nodes: N-10902
+Related Nodes: N-10823
 Tags: relevance:context
 Investigative Direction: Obtain Root Brands' and Clay Thomas' responses, if any, and the host's outreach emails.
 
@@ -1930,7 +1940,7 @@ Transcript Snippet: I've been telling them that there's an assa like assassinati
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10567, N-10026
+Related Nodes: N-10518, N-10026
 Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host for the dates and recipients of her reports to federal agencies.
@@ -1947,7 +1957,7 @@ Transcript Snippet: to the threat that I've been saying about the French intelli
 
 Anchored Artifacts: 
 Mentions: N-3, N-329
-Related Nodes: N-10567, N-10355
+Related Nodes: N-10518, N-10332
 Tags: relevance:core
 Investigative Direction: Ask ODNI for confirmation of any contact with the host or her representatives and the date.
 
@@ -1979,7 +1989,7 @@ Transcript Snippet: for the love of God, please send us an email more tips@cando
 
 Anchored Artifacts: A-3116.2
 Mentions: N-3, N-320
-Related Nodes: N-10330
+Related Nodes: N-10309
 Tags: dia_beat, relevance:context
 Investigative Direction: Track tips received at the address and what was verified from them.
 
@@ -1995,7 +2005,7 @@ Transcript Snippet: everywhere in America, I've heard there's a major influx of 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11284
+Related Nodes: N-11200
 Tags: relevance:tangential
 Investigative Direction: Compare with State Department and DHS data on Ukrainian arrivals under Uniting for Ukraine.
 
@@ -2011,7 +2021,7 @@ Transcript Snippet: it is during wars where the most dangerous people are allowe
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11284
+Related Nodes: N-11200
 Tags: relevance:tangential
 Investigative Direction: A sweeping assertion; compare with studies of refugee flows and security vetting outcomes.
 
@@ -2027,7 +2037,7 @@ Transcript Snippet: So again, if you know something, please email us more tips a
 
 Anchored Artifacts: A-3116.3
 Mentions: N-3, N-320
-Related Nodes: N-10330
+Related Nodes: N-10309
 Tags: dia_beat, relevance:context
 Investigative Direction: Track tips received at the address and what was verified from them.
 
@@ -2043,7 +2053,7 @@ Transcript Snippet: He's supposed to be a billionaire. So why would he be workin
 
 Anchored Artifacts: 
 Mentions: N-3, N-313, N-320
-Related Nodes: N-10330
+Related Nodes: N-10309
 Tags: relevance:context
 Investigative Direction: Obtain Root Brands' employee roster and the tipsters' evidence for the identity.
 
@@ -2059,7 +2069,7 @@ Transcript Snippet: And I do not believe he's legally allowed to be in this coun
 
 Anchored Artifacts: 
 Mentions: N-3, N-320
-Related Nodes: N-10330
+Related Nodes: N-10309
 Tags: relevance:context
 Investigative Direction: Immigration status can be checked only by DHS; ask Root Brands for work-authorization verification (I-9/E-Verify) documentation.
 
@@ -2075,7 +2085,7 @@ Transcript Snippet: I was always telling the truth about the coordination of an 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10567, N-10026
+Related Nodes: N-10518, N-10026
 Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host for the evidence tying a coordination to Israel and French intelligence beyond the tips she has described.
@@ -2092,7 +2102,7 @@ Transcript Snippet: now is trying to signal to the public that I don't have secu
 
 Anchored Artifacts: 
 Mentions: N-3, N-267
-Related Nodes: N-11287
+Related Nodes: N-11203
 Contradicts: C-3882
 Tags: relevance:context
 Investigative Direction: Ask the host to describe her security arrangements; compare with Pool's statements about visiting her home.
@@ -2109,7 +2119,7 @@ Transcript Snippet: that she'll put you on her thumbnail AND CLAIM YOU BENEFITED
 
 Anchored Artifacts: A-1524.1
 Mentions: N-267, N-3, N-1
-Related Nodes: N-11287
+Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Locate the earlier thumbnail and episode referred to and compare with what Pool said on air about benefiting.
 
@@ -2125,7 +2135,7 @@ Transcript Snippet: And all of these conservatives out there that send me these 
 
 Anchored Artifacts: A-1524.1
 Mentions: N-267, N-3
-Related Nodes: N-11287
+Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Pool could produce the messages; otherwise the claim rests on his say-so.
 
@@ -2141,7 +2151,7 @@ Transcript Snippet: he accused me in a full episode with Milo Yiannopoulos, whic
 
 Anchored Artifacts: 
 Mentions: N-3, N-267, N-220, N-1
-Related Nodes: N-11287
+Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Check the Pool and Yiannopoulos episode for the exact wording and timestamp.
 
@@ -2157,7 +2167,7 @@ Transcript Snippet: two-hour episode with Milo in which Milo defended me and exp
 
 Anchored Artifacts: 
 Mentions: N-3, N-220, N-1
-Related Nodes: N-11287
+Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Review the episode and Milo's remarks to confirm what he said in her defense.
 
@@ -2173,7 +2183,7 @@ Transcript Snippet: He's now essentially trying out because he's under financial
 
 Anchored Artifacts: 
 Mentions: N-3, N-267
-Related Nodes: N-11287
+Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: This is the host's allegation without evidence offered; look for disclosed sponsors or funding for Pool's channels.
 
@@ -2189,7 +2199,7 @@ Transcript Snippet: I have not focused my content on you. And anytime your name 
 
 Anchored Artifacts: 
 Mentions: N-3, N-267
-Related Nodes: N-11287
+Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Count episodes in which the host names Pool and compare the sequence with Pool's statements about her.
 
@@ -2205,7 +2215,7 @@ Transcript Snippet: Kash Patel is just not interested. And it is a struggle for 
 
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-1
-Related Nodes: N-10567, N-10202
+Related Nodes: N-10518, N-10194
 Tags: relevance:core
 Investigative Direction: Seek FBI statements on whether a French nexus was investigated; ask the host what she relies on to say they did know.
 
@@ -2221,7 +2231,7 @@ Transcript Snippet: I do believe that the faith was the infiltration at Turning 
 
 Anchored Artifacts: 
 Mentions: N-3, N-66
-Related Nodes: N-10000, N-10398, N-10436
+Related Nodes: N-10000, N-10371, N-10405
 Supports: C-2771
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA Faith's staffing and funding records and the earlier claims of military-linked pastors.
@@ -2238,7 +2248,7 @@ Transcript Snippet: in the last year, they even hired former cartel weapons traf
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11285
+Related Nodes: N-10000, N-11201
 Tags: relevance:core
 Investigative Direction: Ask the host to name the hires; check TPUSA staff announcements and court records for the individuals.
 
@@ -2254,7 +2264,7 @@ Transcript Snippet: they were trafficking from Poland uh through to Mexico, weap
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11285, N-10401
+Related Nodes: N-10000, N-11201, N-10374
 Tags: relevance:core
 Investigative Direction: Identify the individuals and look for indictments or press on a Poland-to-Mexico weapons route.
 
@@ -2270,7 +2280,7 @@ Transcript Snippet: I wonder if that's why he was fearful the day before when he
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-1559
 Tags: relevance:core
 Investigative Direction: Obtain the messages themselves, recipients and timestamps from the host's source or TPUSA.
@@ -2303,7 +2313,7 @@ Transcript Snippet: the cartels could have been involved in this and yeah, that 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10325
+Related Nodes: N-10304
 Tags: relevance:core
 Investigative Direction: Seek any investigative record showing a cartel link to Tyler Robinson or the shooting.
 
@@ -2319,7 +2329,7 @@ Transcript Snippet: maybe we will actually accept that offer and start a fund in
 
 Anchored Artifacts: A-3117.2
 Mentions: N-3
-Related Nodes: N-11286
+Related Nodes: N-11202
 Tags: relevance:context
 Investigative Direction: Watch for a launched fund and its terms; verify any fundraising platform and legal structure.
 
@@ -2335,7 +2345,7 @@ Transcript Snippet: This French intelligence thing and the lack of commentary fr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10567
+Related Nodes: N-10518
 Tags: relevance:context
 Investigative Direction: Review White House statements and press briefings for any comment on a French link.
 

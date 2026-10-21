@@ -111,7 +111,7 @@
             "N-236",
             "N-237",
             "N-238",
-            "N-10241"
+            "N-10228"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
           "related_nodes": [
             "N-238",
             "N-239",
-            "N-10241"
+            "N-10228"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
             "C-2595"
           ],
           "related_nodes": [
-            "N-10240"
+            "N-10227"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
             "C-2559"
           ],
           "related_nodes": [
-            "N-10239"
+            "N-10226"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -547,7 +547,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10241"
+        "N-10228"
       ]
     },
     {
@@ -590,7 +590,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10242"
+        "N-10202"
       ]
     },
     {
@@ -765,11 +765,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent claim (host-relayed, tip-sourced) that federal agents seized hospital footage at Timpanogos on the day of the Kirk shooting; not independently corroborated in this episode.",
       "related_artifacts": [
         "A-1378.1"
@@ -781,14 +781,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10240",
-      "ref": "N-10240",
+      "@type": "Topic",
+      "@id": "N-10227",
+      "ref": "N-10227",
       "name": "Borderline Bar Las Vegas Survivor Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host-asserted pattern linking the November 2018 Borderline Bar & Grill shooting (with a Las Vegas survivor among the dead) to the prior 2017 Las Vegas shooting and to Rob McCoy's subsequent election as Thousand Oaks mayor.",
       "related_artifacts": [
         "A-1377.1"
@@ -800,14 +802,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10241",
-      "ref": "N-10241",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10228",
+      "ref": "N-10228",
       "name": "Shauni Rae Kerkhoff / Kerkhoff Identity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy in the episode between the spelling \"Kirkup\" (Steve Baker, via Glenn Beck audio) and \"Kerkhoff\" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.",
       "related_artifacts": [
         "A-1367.1",
@@ -824,14 +827,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-238"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10242",
-      "ref": "N-10242",
-      "name": "Seven Mountain Mandate / NAR Influence on TPUSA Faith",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "NAR (New Apostolic Reformation) Infiltration Question",
+      "type": "investigation_question",
       "description": "Persistent investigable claim that NAR figures (notably Lance Wallnau) influenced and funded Turning Point USA Faith operations, and that this represents a broader \"faith-military constellation\" with infiltration doctrine.",
       "related_artifacts": [
         "A-1364.1",
@@ -839,7 +843,11 @@
       ],
       "related_claims": [
         "C-2572",
-        "C-2576"
+        "C-2576",
+        "C-2573",
+        "C-2574",
+        "C-2575",
+        "C-2584"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -848,7 +856,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-240"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10201"
     },
     {
       "@type": "Person",
@@ -1180,11 +1190,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the center of the faith, funding, security and DOGE claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1202,14 +1212,16 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10024",
       "ref": "N-10024",
       "name": "Kirk Assassination Investigation Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing timeline topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1221,14 +1233,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10045"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place referenced in the host's characterisation of Joel Berry.",
       "related_artifacts": [],
       "related_claims": [
@@ -1238,14 +1252,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10078",
-      "ref": "N-10078",
+      "@type": "Topic",
+      "@id": "N-10075",
+      "ref": "N-10075",
       "name": "TPUSA Financial Apparatus Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the finances claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1256,14 +1271,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1273,14 +1289,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@type": "Topic",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1290,14 +1307,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10149",
-      "ref": "N-10149",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10144",
+      "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1308,14 +1326,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10196",
-      "ref": "N-10196",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10188",
+      "ref": "N-10188",
       "name": "UVU Hospital Charlie Kirk Medical File Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1325,14 +1344,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1342,34 +1362,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10210",
-      "ref": "N-10210",
-      "name": "NAR (New Apostolic Reformation) Infiltration Question",
-      "type": "investigation_target",
-      "description": "Existing topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2573",
-        "C-2574",
-        "C-2575",
-        "C-2584"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10224",
-      "ref": "N-10224",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10211",
+      "ref": "N-10211",
       "name": "UVU Event Approval Timeline Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1379,14 +1380,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10231",
-      "ref": "N-10231",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10218",
+      "ref": "N-10218",
       "name": "TPUSA / Candace Owens NDA and Blexit Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1396,14 +1398,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10237",
-      "ref": "N-10237",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10224",
+      "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1413,14 +1416,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10251",
-      "ref": "N-10251",
+      "@type": "Topic",
+      "@id": "N-10237",
+      "ref": "N-10237",
       "name": "TPUSA Faith-Angle Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1430,14 +1434,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10201"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Wednesday preview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1447,14 +1453,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10319",
-      "ref": "N-10319",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1465,14 +1472,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@type": "Topic",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1486,14 +1494,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@type": "Topic",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1504,14 +1513,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@type": "Topic",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1521,14 +1531,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@type": "Topic",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1538,14 +1549,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1558,14 +1570,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1575,14 +1588,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10573",
-      "ref": "N-10573",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10524",
+      "ref": "N-10524",
       "name": "Timpanogos Hospital Evidence Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1594,14 +1608,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10576",
-      "ref": "N-10576",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10527",
+      "ref": "N-10527",
       "name": "Timpanogos Hospital Records / Chain of Custody",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1611,14 +1626,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10840",
-      "ref": "N-10840",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10763",
+      "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1628,14 +1645,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10887",
-      "ref": "N-10887",
+      "@type": "Place",
+      "@id": "N-10808",
+      "ref": "N-10808",
       "name": "Las Vegas",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place of the 2017 shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1647,14 +1665,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "City",
+      "wikidata_class": "Q515"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11064",
-      "ref": "N-11064",
+      "@type": "Topic",
+      "@id": "N-10982",
+      "ref": "N-10982",
       "name": "Ben Shapiro and Charlie Kirk Friendship Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1664,14 +1684,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11099",
-      "ref": "N-11099",
+      "@type": "Topic",
+      "@id": "N-11017",
+      "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1681,14 +1702,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11147",
-      "ref": "N-11147",
+      "@type": "Topic",
+      "@id": "N-11064",
+      "ref": "N-11064",
       "name": "January 6 Federal Coordination Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1702,7 +1724,8 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1757,8 +1780,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11158",
-      "ref": "N-11158",
+      "@id": "N-11074",
+      "ref": "N-11074",
       "name": "Cult Accusation Against Candace Owens Audience",
       "type": "topic",
       "description": "Keri Smith's and others' claims that the host's show uses cult tactics, and the host's rebuttal.",
@@ -1773,12 +1796,13 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11159",
-      "ref": "N-11159",
+      "@id": "N-11075",
+      "ref": "N-11075",
       "name": "Candace Owens CNN Interview and Interview Statements",
       "type": "topic",
       "description": "Dispute over whether the host gave interviews after Charlie Kirk's death and what the CNN interview with Elle Reeve covered.",
@@ -1792,14 +1816,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11171",
-      "ref": "N-11171",
+      "@type": "Topic",
+      "@id": "N-11087",
+      "ref": "N-11087",
       "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host says Charlie established DOGE (transcribed \"DOAJ\") after realizing something was wrong with the money. Introduced here; ep54 calls it \"DOVE\".",
       "related_artifacts": [],
       "related_claims": [
@@ -1809,7 +1834,27 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1823,7 +1868,7 @@
         "A-1364.1"
       ],
       "related_nodes": [
-        "N-10242"
+        "N-10202"
       ],
       "tags": [],
       "claim_timestamp": "00:12:07",
@@ -1842,7 +1887,7 @@
         "A-1365.1"
       ],
       "related_nodes": [
-        "N-10242"
+        "N-10202"
       ],
       "tags": [],
       "claim_timestamp": "00:13:31–00:14:22",
@@ -1878,7 +1923,7 @@
         "A-1367.1"
       ],
       "related_nodes": [
-        "N-10241"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:08:09–00:09:40",
@@ -1899,7 +1944,7 @@
         "A-1368.1"
       ],
       "related_nodes": [
-        "N-10241"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
@@ -2066,7 +2111,7 @@
         "A-1377.1"
       ],
       "related_nodes": [
-        "N-10240"
+        "N-10227"
       ],
       "tags": [],
       "claim_timestamp": "00:22:45",
@@ -2082,7 +2127,7 @@
         "A-1378.1"
       ],
       "related_nodes": [
-        "N-10239"
+        "N-10226"
       ],
       "tags": [],
       "claim_timestamp": "00:01:46–00:03:01",
@@ -2117,8 +2162,8 @@
       "claim": "The host says Timpanogos Hospital, where Charlie Kirk was taken, was further away and less equipped than UV Hospital, which she describes as a trauma one center against Timpanogos as trauma three.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10149",
-        "N-10239"
+        "N-10144",
+        "N-10226"
       ],
       "tags": [
         "relevance:core"
@@ -2139,8 +2184,8 @@
       "claim": "The host says that after people found it strange that Charlie Kirk was taken to Timpanogos, she and others started hearing from other people that he was definitely at UV Hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10149",
-        "N-10196"
+        "N-10144",
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -2161,7 +2206,7 @@
       "claim": "The host says no one has produced footage of the vehicles pulling up at Timpanogos, even though news cameras, oddly from a New York news channel, were waiting outside.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10573"
+        "N-10524"
       ],
       "tags": [
         "relevance:core"
@@ -2182,7 +2227,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10024",
-        "N-10573"
+        "N-10524"
       ],
       "tags": [
         "relevance:core"
@@ -2203,8 +2248,8 @@
       "claim": "The host says she feels something is amiss if the Feds moved to grab the footage inside the hospital and outside the hospital immediately.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239",
-        "N-10576"
+        "N-10226",
+        "N-10527"
       ],
       "tags": [
         "relevance:core"
@@ -2229,8 +2274,8 @@
         "A-2910.1"
       ],
       "related_nodes": [
-        "N-10573",
-        "N-10239"
+        "N-10524",
+        "N-10226"
       ],
       "tags": [
         "relevance:core"
@@ -2250,7 +2295,7 @@
       "claim": "The host says she is starting to wonder whether every major publicly traumatizing event was organized by the Feds, and that their usual strategy is to get out a sloppy narrative rather than blame themselves.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11147"
+        "N-11064"
       ],
       "tags": [
         "relevance:context"
@@ -2272,7 +2317,7 @@
         "A-1367.1"
       ],
       "related_nodes": [
-        "N-10241"
+        "N-10228"
       ],
       "tags": [
         "relevance:context"
@@ -2297,7 +2342,7 @@
       "claim": "The host says many people will get swept up in the Charlie Kirk investigation, perhaps the same people who will be swept up over January 6.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11147"
+        "N-11064"
       ],
       "tags": [
         "relevance:context"
@@ -2320,7 +2365,7 @@
         "A-1368.1"
       ],
       "related_nodes": [
-        "N-10241"
+        "N-10228"
       ],
       "tags": [
         "relevance:context"
@@ -2340,8 +2385,8 @@
       "claim": "The host says four of the six protest permits issued for January 6 were issued to independent charismatic Christian groups.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11147",
-        "N-10210"
+        "N-11064",
+        "N-10202"
       ],
       "tags": [
         "relevance:context"
@@ -2361,8 +2406,8 @@
       "claim": "The host says fifteen pastors and leaders surrounded Donald Trump at the White House before the January 6 rally and told him the war was now spiritual.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10210",
-        "N-11147"
+        "N-10202",
+        "N-11064"
       ],
       "tags": [
         "relevance:context"
@@ -2385,8 +2430,8 @@
         "A-2911.1"
       ],
       "related_nodes": [
-        "N-10210",
-        "N-11147"
+        "N-10202",
+        "N-11064"
       ],
       "tags": [
         "relevance:context"
@@ -2407,7 +2452,7 @@
       "claim": "The host says Charlie Kirk became very interested in, even mesmerized by, the Seven Mountain Mandate and became friends with Lance Wallnau.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10242"
+        "N-10202"
       ],
       "tags": [
         "relevance:core"
@@ -2430,7 +2475,7 @@
         "A-1365.1"
       ],
       "related_nodes": [
-        "N-10242"
+        "N-10202"
       ],
       "tags": [
         "relevance:context"
@@ -2455,8 +2500,8 @@
       "claim": "The host says that everywhere she is investigating, Turning Point Faith keeps coming up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
-        "N-10251"
+        "N-10371",
+        "N-10237"
       ],
       "tags": [
         "relevance:core"
@@ -2476,7 +2521,7 @@
       "claim": "The host says she notices that many mainstream pastors and preachers come from high-ranking military families, citing Frank Turek's Air Force background and Rob McCoy's naval background, which she links to psychological operations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [
         "relevance:context"
@@ -2501,7 +2546,7 @@
       "claim": "The host says Lance Wallnau graduated from a military academy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [
         "relevance:context"
@@ -2521,7 +2566,7 @@
       "claim": "The host says Lance Wallnau's father Carl Wallnau was a major in the US Air Force who served under General Patton and later worked as a field engineer for Standard Oil installing liquid propane systems in places such as Haiti, Cuba and the Dominican Republic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [
         "relevance:context"
@@ -2544,8 +2589,8 @@
         "A-1366.1"
       ],
       "related_nodes": [
-        "N-10210",
-        "N-10209"
+        "N-10202",
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -2566,8 +2611,9 @@
       "claim": "The host says a person extremely close to the current administration told her, after being at Charlie's memorial, that Turning Point used to be about free markets and capitalism and suddenly became faith, faith, faith, with pastors everywhere.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
-        "N-10000"
+        "N-10371",
+        "N-10000",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2588,8 +2634,8 @@
       "claim": "The host says Lance Wallnau was working with Rob McCoy, and that sources within Turning Point's faith department told her Wallnau was running the show behind the scenes through funding and put a ton of money into Turning Point USA Faith operations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10242",
-        "N-10398",
+        "N-10202",
+        "N-10371",
         "N-10000"
       ],
       "tags": [
@@ -2612,7 +2658,7 @@
       "claim": "The host says Wallnau is friends with Rob McCoy, eventually did tour stops with Turning Point Faith, and knew Charlie, who he said was his friend.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:core"
@@ -2634,7 +2680,7 @@
       "claim": "The host says the Village Crazy Lady, Mel on X, has been doing great work on the faith-military constellation, which the host proposes calling the militant faith pipeline.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [
         "relevance:context"
@@ -2655,7 +2701,7 @@
       "claim": "The host says the October 1, 2017 Las Vegas shooting killed 58 people and injured more than 600, and that the official account was a lone shooter, Stephen Paddock.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10887"
+        "N-10808"
       ],
       "tags": [
         "relevance:tangential"
@@ -2675,7 +2721,7 @@
       "claim": "The host says conspiracy theorists claimed the Las Vegas shooting was a military operation and that there was a ton of evidence to support it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10887"
+        "N-10808"
       ],
       "tags": [
         "relevance:tangential"
@@ -2695,8 +2741,8 @@
       "claim": "The host says that on November 7, 2018, about 40 people who had been at the Las Vegas shooting were at the Borderline bar in Thousand Oaks on the night of the shooting there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10240",
-        "N-10887"
+        "N-10227",
+        "N-10808"
       ],
       "tags": [
         "relevance:context"
@@ -2716,7 +2762,7 @@
       "claim": "The host says a Marine's family knows Rob McCoy well and McCoy is friends with that Marine, and, in her words, that Marine's mother decided to storm into the Borderline bar and conduct a mass shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10240"
+        "N-10227"
       ],
       "tags": [
         "relevance:context"
@@ -2739,7 +2785,7 @@
         "A-1377.1"
       ],
       "related_nodes": [
-        "N-10240"
+        "N-10227"
       ],
       "tags": [
         "relevance:context"
@@ -2759,7 +2805,7 @@
       "claim": "The host says one survivor said the group was meeting up for a second time in about a year in a sort of Las Vegas reunion, which is why they were all at the bar.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10240"
+        "N-10227"
       ],
       "tags": [
         "relevance:context"
@@ -2779,7 +2825,7 @@
       "claim": "The host says that a month after the Borderline shooting Rob McCoy was elected mayor of Thousand Oaks and served for a year.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10240"
+        "N-10227"
       ],
       "tags": [
         "relevance:context"
@@ -2799,7 +2845,7 @@
       "claim": "The host says she shared something over the weekend on her X feed about Romanian sex trafficking involving one of the big California churches.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:tangential"
@@ -2819,7 +2865,7 @@
       "claim": "The host says a former California megachurch pastor, Paul Havsgaard, was accused of trafficking children from Romania, and calls his missionary background an element worth noting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:tangential"
@@ -2863,7 +2909,7 @@
       "claim": "The host says critics shut her down, went after her sponsors, emailed people and got her banned from Australia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11099"
+        "N-11017"
       ],
       "tags": [
         "relevance:tangential"
@@ -2885,7 +2931,7 @@
         "A-1372.1"
       ],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [
         "relevance:tangential"
@@ -2905,8 +2951,8 @@
       "claim": "The host says that the prior week Ben Shapiro pressed Megyn Kelly on stage and, in her words, lied and tried to pressure her with the lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10237",
-        "N-10406"
+        "N-10224",
+        "N-10379"
       ],
       "tags": [
         "relevance:core"
@@ -2930,7 +2976,7 @@
         "A-1370.1"
       ],
       "related_nodes": [
-        "N-11064"
+        "N-10982"
       ],
       "tags": [
         "relevance:core"
@@ -2996,7 +3042,7 @@
       "claim": "The host says she is surprised that Allie Beth Stuckey is working with Alyssa Cordova.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10231"
+        "N-10218"
       ],
       "tags": [
         "relevance:tangential"
@@ -3060,8 +3106,8 @@
       "claim": "The host says that in real life people's necks do not stop .30-06 bullets.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10319",
-        "N-10447"
+        "N-10300",
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -3082,7 +3128,7 @@
       "claim": "The host says that in real life a security detail costing millions of dollars would not leave you like a sitting duck and forget to have an ambulance behind you.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10840",
+        "N-10763",
         "N-10000"
       ],
       "tags": [
@@ -3108,7 +3154,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -3152,7 +3198,7 @@
       "claim": "The host says she will tell viewers on Wednesday what the team discovered about the Egyptian military, which she thinks will put more people on the run.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -3262,7 +3308,7 @@
         "A-1376.1"
       ],
       "related_nodes": [
-        "N-11158"
+        "N-11074"
       ],
       "tags": [
         "relevance:context"
@@ -3285,7 +3331,7 @@
         "A-1376.1"
       ],
       "related_nodes": [
-        "N-11158"
+        "N-11074"
       ],
       "tags": [
         "relevance:context"
@@ -3308,7 +3354,7 @@
         "A-1376.1"
       ],
       "related_nodes": [
-        "N-11158"
+        "N-11074"
       ],
       "tags": [
         "relevance:context"
@@ -3329,7 +3375,7 @@
       "claim": "The host says that in any Fed operation, such as COVID, people who do not follow the federal narrative are always diagnosed with dark triad traits and told they are in a cult.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11158"
+        "N-11074"
       ],
       "tags": [
         "relevance:tangential"
@@ -3370,7 +3416,7 @@
       "claim": "The host says that the government telling people to believe a .30-06 was stopped by Charlie's neck, because of a miracle, is asking them to ignore their senses.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:core"
@@ -3394,7 +3440,7 @@
       "claim": "The host says they will not show a clear picture of Tyler Robinson on campus that day despite all the cameras, which would do a lot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3415,10 +3461,10 @@
       "claim": "The host says she thinks Charlie raised his head and realized something was wrong with the money, which is why he established DOGE (transcribed \"DOAJ\"; C-2136 has the host calling it \"the internet DOGE\"), and that he made real enemies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10434",
-        "N-10132",
+        "N-10404",
+        "N-10127",
         "N-10000",
-        "N-11171"
+        "N-11087"
       ],
       "tags": [
         "relevance:core"
@@ -3442,7 +3488,7 @@
       "claim": "The host says it is not a small thing that Charlie suddenly was wondering where the money was coming from and where it was going.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10078",
+        "N-10075",
         "N-10000"
       ],
       "tags": [
@@ -3467,8 +3513,8 @@
       "claim": "The host says it does not make her feel good knowing Wallnau was putting money into Turning Point USA Faith, repeating her earlier source-based claim.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10242",
-        "N-10398"
+        "N-10202",
+        "N-10371"
       ],
       "tags": [
         "relevance:core"
@@ -3492,7 +3538,7 @@
       "claim": "The host says a guest will join later in the week to speak on Friday about Turning Point's finances.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10078",
+        "N-10075",
         "N-10000"
       ],
       "tags": [
@@ -3513,7 +3559,7 @@
       "claim": "The host says Alex Clark accused her of lying about giving no interviews after Charlie's death because she spoke to CNN, and says the CNN interview was scheduled in advance for her book promotion and kept on September 27 or thereabouts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11159"
+        "N-11075"
       ],
       "tags": [
         "relevance:context"
@@ -3537,7 +3583,7 @@
       "claim": "The host says she was in a true stage of grief and did not offer a single interview regarding Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11159"
+        "N-11075"
       ],
       "tags": [
         "relevance:context"
@@ -3558,7 +3604,7 @@
       "claim": "The host says that in the CNN interview Reeve did not mention her book at all and instead pressed her mostly on Zionism and Brigitte Macron.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11159"
+        "N-11075"
       ],
       "tags": [
         "relevance:tangential"

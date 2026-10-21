@@ -45,10 +45,10 @@
             "C-8182"
           ],
           "related_nodes": [
-            "N-10600",
-            "N-10601",
-            "N-10602",
-            "N-10603"
+            "N-10547",
+            "N-10548",
+            "N-10549",
+            "N-10550"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -73,7 +73,7 @@
             "C-8122"
           ],
           "related_nodes": [
-            "N-10605"
+            "N-10552"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -90,7 +90,7 @@
             "C-8124"
           ],
           "related_nodes": [
-            "N-10605"
+            "N-10552"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
             "C-8159"
           ],
           "related_nodes": [
-            "N-10602"
+            "N-10549"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
             "C-8189"
           ],
           "related_nodes": [
-            "N-10606"
+            "N-10553"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-8132"
           ],
           "related_nodes": [
-            "N-10604"
+            "N-10551"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -191,8 +191,8 @@
             "C-8182"
           ],
           "related_nodes": [
-            "N-10599",
-            "N-10603"
+            "N-10546",
+            "N-10550"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,7 +218,7 @@
             "C-8200"
           ],
           "related_nodes": [
-            "N-10604"
+            "N-10551"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -256,7 +256,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-11346"
+            "N-11262"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -275,7 +275,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-11346"
+            "N-11262"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -301,8 +301,8 @@
             "C-8184"
           ],
           "related_nodes": [
-            "N-10599",
-            "N-10603",
+            "N-10546",
+            "N-10550",
             "N-342"
           ],
           "tags": [],
@@ -328,7 +328,7 @@
             "C-8185"
           ],
           "related_nodes": [
-            "N-10599",
+            "N-10546",
             "N-3",
             "N-342"
           ],
@@ -356,7 +356,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10613",
+            "N-10560",
             "N-342"
           ],
           "tags": [],
@@ -383,7 +383,7 @@
             "C-8202"
           ],
           "related_nodes": [
-            "N-10604",
+            "N-10551",
             "N-341",
             "N-913"
           ],
@@ -398,11 +398,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10599",
-      "ref": "N-10599",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10546",
+      "ref": "N-10546",
       "name": "ATF Trace on Fold AR SN 02735 (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the timing, target crime, and follow-up (or absence thereof) of the ATF trace initiated on the morning of Charlie Kirk's assassination.",
       "related_artifacts": [
         "A-1963.1"
@@ -417,15 +417,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10603"
-      ]
+        "N-10550"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10600",
-      "ref": "N-10600",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10547",
+      "ref": "N-10547",
       "name": "Victor Marx 51% Fold AR Acquisition Attempt",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding Victor Marx's stated intent to purchase a controlling stake in Fold AR and the responses received; includes valuation ($2M) and Daniel Horner / Sig Sauer intermediary claims.",
       "related_artifacts": [
         "A-1958.1"
@@ -439,14 +440,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10601",
-      "ref": "N-10601",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10548",
+      "ref": "N-10548",
       "name": "Victor Marx IDF 50,000 Guns Request",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding Victor Marx's alleged statement that the IDF needed 50,000 guns for operations in Gaza, Lebanon, and Syria, and any subsequent broker or transfer activity.",
       "related_artifacts": [
         "A-1958.1"
@@ -459,14 +461,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10602",
-      "ref": "N-10602",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10549",
+      "ref": "N-10549",
       "name": "Victor Marx Haiti Mission and Arms Request",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the 50-rifle request, long-range rifle provision, and stated intent to capture/execute Jimmy Barbecue; reconciliation with CBN News reporting.",
       "related_artifacts": [
         "A-1958.1",
@@ -482,14 +485,15 @@
       "evidence_count": 2,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10603",
-      "ref": "N-10603",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10550",
+      "ref": "N-10550",
       "name": "Fold AR SN 02735 Disappearance and Recovery Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the gun's theft from a Texas deputy's vehicle, the deputy's claim of reporting to Midland PD, lack of follow-up, and any connection to the September 10, 2025 ATF trace.",
       "related_artifacts": [
         "A-1958.1",
@@ -506,15 +510,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10599"
-      ]
+        "N-10546"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10604",
-      "ref": "N-10604",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10551",
+      "ref": "N-10551",
       "name": "Victor Marx Background Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding Victor Marx's biographical claims, military service (length, location, discharge status), family history, and inconsistencies identified by independent researchers.",
       "related_artifacts": [
         "A-1958.1",
@@ -530,14 +535,15 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10605",
-      "ref": "N-10605",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10552",
+      "ref": "N-10552",
       "name": "Erika Kirk–Victor Marx Relationship Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the nature, depth, and timing of Erika Kirk's relationship with Victor Marx – including the proximity and recording of the post-assassination contact window.",
       "related_artifacts": [
         "A-1958.1",
@@ -551,14 +557,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10606",
-      "ref": "N-10606",
+      "@type": "Topic",
+      "@id": "N-10553",
+      "ref": "N-10553",
       "name": "Trump Iran Arms Admission Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent question regarding Trump's public admission of US arms shipments to Iranian protesters and the underlying operational chain and intermediaries.",
       "related_artifacts": [
         "A-1961.1"
@@ -570,7 +577,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1130,11 +1138,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization; the host's pastors, speeches and planes claims concern it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1146,14 +1154,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place; existing node reused for the host's Iran, IDF and Zionism remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1165,14 +1175,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@type": "Topic",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's remarks on Calvary Chapel as a source of troubled pastors.",
       "related_artifacts": [],
       "related_claims": [
@@ -1183,14 +1195,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Egyptian plane timeline and Erika's reaction to it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1206,14 +1219,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10276",
-      "ref": "N-10276",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10259",
+      "ref": "N-10259",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Nebraska overlap with Charlie's schedule.",
       "related_artifacts": [],
       "related_claims": [
@@ -1223,14 +1237,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10299",
-      "ref": "N-10299",
+      "@type": "Topic",
+      "@id": "N-10281",
+      "ref": "N-10281",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's claim that Erika does not want the public looking at the planes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1241,14 +1257,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10325",
-      "ref": "N-10325",
+      "@type": "Topic",
+      "@id": "N-10304",
+      "ref": "N-10304",
       "name": "Global Trafficking Angle in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's trafficking hypothesis and arms trafficking claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1261,14 +1279,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@type": "Topic",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Turning Point Faith as the host's alleged infiltration vector.",
       "related_artifacts": [],
       "related_claims": [
@@ -1280,14 +1299,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@type": "Topic",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Harvest church Romania accusation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1297,14 +1317,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@type": "Topic",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Harvest church accusation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1314,14 +1335,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10572",
-      "ref": "N-10572",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10523",
+      "ref": "N-10523",
       "name": "ATF Bullet-to-Gun Inconclusive Finding",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's reference to the inconclusive Tyler Robinson trace.",
       "related_artifacts": [],
       "related_claims": [
@@ -1331,14 +1354,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10613",
-      "ref": "N-10613",
+      "@type": "Topic",
+      "@id": "N-10560",
+      "ref": "N-10560",
       "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's plan to have Hall on the show.",
       "related_artifacts": [],
       "related_claims": [
@@ -1349,14 +1374,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10975",
-      "ref": "N-10975",
+      "@type": "Organization",
+      "@id": "N-10896",
+      "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Federal agency; the host describes its trace practice and plans to contact it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1369,14 +1395,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11186",
-      "ref": "N-11186",
+      "@type": "Event",
+      "@id": "N-11102",
+      "ref": "N-11102",
       "name": "Angolagate",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the host's arms trafficking context claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1386,14 +1414,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q192909"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11244",
-      "ref": "N-11244",
+      "@type": "Topic",
+      "@id": "N-11160",
+      "ref": "N-11160",
       "name": "Brett Cooper Departure Dispute with Daily Wire",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's remark on how Daily Wire treated those who leave.",
       "related_artifacts": [],
       "related_claims": [
@@ -1403,12 +1433,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11346",
-      "ref": "N-11346",
+      "@id": "N-11262",
+      "ref": "N-11262",
       "name": "Erika Kirk Speechwriting Attribution",
       "type": "topic",
       "description": "The host's claim, relayed from sources, that Erika Kirk's September 12 address and memorial remarks, and Justin Streiff's memorial speech, were written or heavily assisted by others, chiefly Blake Neff.",
@@ -1424,12 +1455,13 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11347",
-      "ref": "N-11347",
+      "@id": "N-11263",
+      "ref": "N-11263",
       "name": "Victor Marx Colorado Governor Candidacy",
       "type": "topic",
       "description": "Victor Marx's announced run for governor of Colorado, which the host says he announced at a Charlie Kirk memorial event in Denver on September 14.",
@@ -1441,12 +1473,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11348",
-      "ref": "N-11348",
+      "@id": "N-11264",
+      "ref": "N-11264",
       "name": "Epstein Network Re-Emergence in Churches Thesis",
       "type": "topic",
       "description": "The host's stated suspicion that the 2018 timeline matches Jeffrey Epstein's arrest and that his network re-emerged in churches and non-profits with a new head.",
@@ -1459,7 +1492,30 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8106",
+        "C-8107",
+        "C-8108",
+        "C-8117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1473,7 +1529,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
@@ -1567,7 +1623,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10602"
+        "N-10549"
       ],
       "tags": [],
       "claim_timestamp": "00:25:43",
@@ -1587,7 +1643,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10602"
+        "N-10549"
       ],
       "tags": [],
       "claim_timestamp": "00:26:32",
@@ -1607,7 +1663,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10602"
+        "N-10549"
       ],
       "tags": [],
       "claim_timestamp": "00:27:50",
@@ -1628,7 +1684,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [],
       "claim_timestamp": "00:32:50",
@@ -1649,7 +1705,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
@@ -1669,7 +1725,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10601"
+        "N-10548"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
@@ -1726,7 +1782,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10603"
+        "N-10550"
       ],
       "tags": [],
       "claim_timestamp": "00:36:44",
@@ -1745,7 +1801,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10603"
+        "N-10550"
       ],
       "tags": [],
       "claim_timestamp": "00:36:44",
@@ -1764,8 +1820,8 @@
         "A-1963.1"
       ],
       "related_nodes": [
-        "N-10599",
-        "N-10603"
+        "N-10546",
+        "N-10550"
       ],
       "tags": [],
       "claim_timestamp": "00:37:42",
@@ -1784,7 +1840,7 @@
         "A-1959.1"
       ],
       "related_nodes": [
-        "N-10605"
+        "N-10552"
       ],
       "tags": [],
       "claim_timestamp": "00:09:06",
@@ -1806,7 +1862,7 @@
         "A-1959.2"
       ],
       "related_nodes": [
-        "N-10605"
+        "N-10552"
       ],
       "tags": [],
       "claim_timestamp": "00:09:40",
@@ -1827,7 +1883,7 @@
         "A-1960.1"
       ],
       "related_nodes": [
-        "N-10602"
+        "N-10549"
       ],
       "tags": [],
       "claim_timestamp": "00:28:28",
@@ -1847,7 +1903,7 @@
         "A-1961.1"
       ],
       "related_nodes": [
-        "N-10606"
+        "N-10553"
       ],
       "tags": [],
       "claim_timestamp": "00:43:08",
@@ -1866,7 +1922,7 @@
         "A-1962.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [],
       "claim_timestamp": "00:13:04",
@@ -1886,7 +1942,7 @@
         "A-1964.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [],
       "claim_timestamp": "00:56:23",
@@ -1903,7 +1959,7 @@
         "A-1964.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [],
       "claim_timestamp": "00:56:23",
@@ -1924,8 +1980,8 @@
         "A-1963.1"
       ],
       "related_nodes": [
-        "N-10599",
-        "N-10603"
+        "N-10546",
+        "N-10550"
       ],
       "tags": [],
       "claim_timestamp": "00:39:25",
@@ -1942,7 +1998,7 @@
       "claim": "The host says Turning Point Faith was the infiltration of Turning Point USA, that after Charlie met Erika the organization shifted from free markets and capitalism to being all about the church, and that she has said so repeatedly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
+        "N-10371",
         "N-10000"
       ],
       "tags": [
@@ -1965,7 +2021,7 @@
       "claim": "The host says Erika Kirk's first public address on September 12 was not written by Erika and that she was told it was written by Blake Neff.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11346"
+        "N-11262"
       ],
       "tags": [
         "relevance:core"
@@ -1988,7 +2044,7 @@
         "A-3227.1"
       ],
       "related_nodes": [
-        "N-11346"
+        "N-11262"
       ],
       "tags": [
         "relevance:context"
@@ -2011,7 +2067,8 @@
         "A-3227.2"
       ],
       "related_nodes": [
-        "N-11346"
+        "N-11262",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -2032,7 +2089,8 @@
       "claim": "The host says that, as she is told, Erika did not write her own memorial remarks and that Blake Neff came in with a heavy assist.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11346"
+        "N-11262",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2053,7 +2111,8 @@
       "claim": "The host says she is told that Justin Streiff did not write his own speech for the memorial.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11346"
+        "N-11262",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2073,7 +2132,7 @@
       "claim": "The host says she has spent months quietly working on an Egyptian plane timeline that grew from one plane to four.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2093,8 +2152,8 @@
       "claim": "The host says the pattern in the plane timeline struck her as possible trafficking, whether drugs or weapons, and she asks whether product is moving into or out of the United States.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10325"
+        "N-10239",
+        "N-10304"
       ],
       "tags": [
         "relevance:core"
@@ -2114,7 +2173,7 @@
       "claim": "The host says the Egyptian planes were foremost stopping over in states and cities with military bases.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2134,9 +2193,9 @@
       "claim": "The host says that after Mikey McCoy became chief of staff in January 2024, Charlie's schedule began to mirror the Egyptian planes, and that before that the planes seemed to track Turning Point Faith events from 2023.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
+        "N-10239",
         "N-10000",
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:core"
@@ -2160,8 +2219,8 @@
       "claim": "The host says that once McCoy was announced as chief of staff, it seemed like Charlie was doing a lot in Kansas, Nebraska and Missouri that crossed with the planes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10276"
+        "N-10239",
+        "N-10259"
       ],
       "tags": [
         "relevance:core"
@@ -2182,8 +2241,8 @@
       "claim": "The host says Erika had no reaction, concern or even mild interest in two foreign planes that departed just before and just after her husband's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10299"
+        "N-10239",
+        "N-10281"
       ],
       "tags": [
         "relevance:core"
@@ -2203,8 +2262,8 @@
       "claim": "The host says Erika, instead of calling Joe Kent to ask who was on the planes, made jokes about the Egyptian planes and does not want the public looking at them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10299"
+        "N-10239",
+        "N-10281"
       ],
       "tags": [
         "relevance:core"
@@ -2227,7 +2286,7 @@
         "A-3230.1"
       ],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [
         "relevance:core"
@@ -2248,7 +2307,8 @@
       "claim": "The host says Victor Marx, a Marine veteran, announced his run for governor of Colorado at a Charlie Kirk memorial event in Denver on September 14, saying the weight of the assassination showed God was calling him to run.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11347"
+        "N-11263",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -2269,7 +2329,7 @@
       "claim": "The host says Victor Marx teaches an online educational course for Turning Point Faith entitled Freedom from Pornography.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -2289,7 +2349,7 @@
       "claim": "The host says Victor Marx claims his 20-year-old son was at one point Charlie Kirk's assistant who spent much time with Erika and her first baby girl.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2311,7 +2371,7 @@
       "claim": "The host says her team has been unable to confirm that Marx's son was Charlie's assistant and that she does not remember him in that role.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2337,7 +2397,7 @@
         "A-1959.1"
       ],
       "related_nodes": [
-        "N-10605"
+        "N-10552"
       ],
       "tags": [
         "relevance:core"
@@ -2362,7 +2422,7 @@
         "A-1959.1"
       ],
       "related_nodes": [
-        "N-10605"
+        "N-10552"
       ],
       "tags": [
         "relevance:core"
@@ -2388,8 +2448,8 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10602",
-        "N-10325"
+        "N-10549",
+        "N-10304"
       ],
       "tags": [
         "relevance:core"
@@ -2413,7 +2473,7 @@
       "claim": "The host says Victor Marx's real name is Vaughn Victor Kennedy, that he says Vaughn while his military record says Vo with no N.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2433,7 +2493,7 @@
       "claim": "The host says that by age 17 Marx had lived in 17 homes and attended 14 schools and was involved with drugs, fights and theft in high school.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2453,7 +2513,7 @@
       "claim": "The host says Marx's stepfather, Gloyce Dean Kennedy, whom Marx calls Mr. K, served in the army doing counterintelligence and afterwards ran an international drug smuggling ring out of Jamaica.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2474,7 +2534,7 @@
       "claim": "The host says Gloyce Dean Kennedy pled guilty and was convicted of conspiracy in 1987 for attempting to import 1,400 lb of marijuana from Jamaica, with money laundering and aiding and abetting charges, and was sentenced to 14 years in prison.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2494,7 +2554,7 @@
       "claim": "The host says Marx's brother Mike Kennedy, later an attorney, pled guilty as co-conspirator in the smuggling ring and served only a year and a day in exchange for testifying against his stepfather Gloyce.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:tangential"
@@ -2516,7 +2576,7 @@
       "claim": "The host says Marx's biological father, Karl Marx, was apparently a pimp, drug dealer and world-famous martial arts expert who spent time in a mental hospital for homicidal tendencies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:tangential"
@@ -2537,7 +2597,7 @@
       "claim": "The host says Marx's grandfather on his dad's side killed his grandmother and then committed suicide in public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:tangential"
@@ -2557,7 +2617,7 @@
       "claim": "The host says Marx joined the Marine Corps at 18 and served only 2 years during peacetime, stateside, with no deployments, before being discharged.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2580,8 +2640,8 @@
       "claim": "The host says Marx was stationed at Camp Pendleton in California, began attending a nearby Calvary Chapel and says he found Jesus Christ there in 1986.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604",
-        "N-10246"
+        "N-10551",
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2601,7 +2661,7 @@
       "claim": "The host says Marx married Eileen (Breining) Marx in 1988 and that they went on to have five kids and grandkids.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:tangential"
@@ -2622,7 +2682,7 @@
       "claim": "The host says that in 2003 Marx and his brother, who had received a light sentence, began All Things Possible Ministries.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2643,7 +2703,7 @@
       "claim": "The host says Calvary Chapel, as she has shown in the past, has a long history of characters like Marx going on to become pastors and getting involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2666,7 +2726,7 @@
       "claim": "The host says Eileen Marx's brother Kenneth tried to shoot Marx on his own property (the host says 2003 after first saying 2023) and that Marx made it out okay.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:tangential"
@@ -2688,7 +2748,7 @@
       "claim": "The host says Eileen's brother would go on to kill his own girlfriend and that she believes he is currently awaiting trial.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:tangential"
@@ -2709,7 +2769,7 @@
       "claim": "The host says Marx openly admits he punches holes in the walls of his house about once a year and tells his wife and kids not to cover it up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2729,7 +2789,7 @@
       "claim": "The host says Marx openly states that he himself struggles with suicidal and homicidal tendencies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -2751,7 +2811,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10603"
+        "N-10550"
       ],
       "tags": [
         "relevance:context"
@@ -2774,7 +2834,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -2797,7 +2857,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -2821,7 +2881,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -2845,7 +2905,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -2868,7 +2928,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:tangential"
@@ -2890,7 +2950,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -2914,7 +2974,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -2939,7 +2999,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10602"
+        "N-10549"
       ],
       "tags": [
         "relevance:context"
@@ -2965,7 +3025,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -2988,7 +3048,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -3011,7 +3071,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -3034,7 +3094,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10602"
+        "N-10549"
       ],
       "tags": [
         "relevance:context"
@@ -3058,7 +3118,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10602"
+        "N-10549"
       ],
       "tags": [
         "relevance:context"
@@ -3081,7 +3141,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -3104,7 +3164,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10601"
+        "N-10548"
       ],
       "tags": [
         "relevance:context"
@@ -3130,7 +3190,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10601"
+        "N-10548"
       ],
       "tags": [
         "relevance:context"
@@ -3153,7 +3213,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3179,7 +3239,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10547"
       ],
       "tags": [
         "relevance:context"
@@ -3200,8 +3260,8 @@
       "claim": "The host says the ATF got involved in the Kirk case quickly and came back with an inconclusive trace on the Tyler Robinson gun.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10975",
-        "N-10572"
+        "N-10896",
+        "N-10523"
       ],
       "tags": [
         "relevance:core"
@@ -3223,8 +3283,8 @@
         "A-1963.1"
       ],
       "related_nodes": [
-        "N-10975",
-        "N-10599"
+        "N-10896",
+        "N-10546"
       ],
       "tags": [
         "relevance:core"
@@ -3246,8 +3306,8 @@
         "A-1963.1"
       ],
       "related_nodes": [
-        "N-10599",
-        "N-10975"
+        "N-10546",
+        "N-10896"
       ],
       "tags": [
         "relevance:core"
@@ -3269,8 +3329,8 @@
         "A-3228.1"
       ],
       "related_nodes": [
-        "N-10599",
-        "N-10603"
+        "N-10546",
+        "N-10550"
       ],
       "tags": [
         "relevance:core"
@@ -3292,8 +3352,8 @@
         "A-3228.1"
       ],
       "related_nodes": [
-        "N-10603",
-        "N-10599"
+        "N-10550",
+        "N-10546"
       ],
       "tags": [
         "relevance:core"
@@ -3315,7 +3375,7 @@
         "A-3229.1"
       ],
       "related_nodes": [
-        "N-10599"
+        "N-10546"
       ],
       "tags": [
         "relevance:core"
@@ -3339,7 +3399,7 @@
       "claim": "The host says she is looking into where the gun was sold and that it is already quite interesting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10603"
+        "N-10550"
       ],
       "tags": [
         "relevance:core"
@@ -3359,8 +3419,8 @@
       "claim": "The host says the US government has been implicated many times in trafficking arms and arms deals overseas, including to the Taliban, ISIS and Al-Qaeda and to rebels in the Middle East, and that Angolagate, which she says people tried to call crazy, was real.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11186",
-        "N-10325"
+        "N-11102",
+        "N-10304"
       ],
       "tags": [
         "relevance:context"
@@ -3382,7 +3442,7 @@
         "A-1961.1"
       ],
       "related_nodes": [
-        "N-10606",
+        "N-10553",
         "N-10026"
       ],
       "tags": [
@@ -3406,8 +3466,8 @@
       "claim": "The host says Victor Marx says he dealt with the Taliban and with ISIS.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604",
-        "N-10325"
+        "N-10551",
+        "N-10304"
       ],
       "tags": [
         "relevance:context"
@@ -3451,7 +3511,7 @@
       "claim": "The host says her deep-down suspicion is that the 2018 timeline lines up perfectly with when Epstein went down, and that it seems there was an implosion all across the not-for-profit world, after which people suddenly got into churches.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11348"
+        "N-11264"
       ],
       "tags": [
         "relevance:context"
@@ -3472,7 +3532,7 @@
       "claim": "The host says she suspects Epstein did not really go down, that the Epstein world may be re-emerging somewhere else, and that something that big gets a new head rather than ending with one man.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11348"
+        "N-11264"
       ],
       "tags": [
         "relevance:context"
@@ -3493,7 +3553,7 @@
       "claim": "The host says Marx has a very checkered background, admits to being brain-damaged and has been caught lying extensively.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3513,8 +3573,8 @@
       "claim": "The host says Greg Laurie is accused of trafficking and that Harvest Church is accused of trafficking people from Romania.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10411",
-        "N-10401"
+        "N-10384",
+        "N-10374"
       ],
       "tags": [
         "relevance:context"
@@ -3534,7 +3594,7 @@
       "claim": "The host says people are not allowed to leave the Daily Wire with their lives intact, citing what they tried to do to Brett Cooper and her own attempt to leave.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11244"
+        "N-11160"
       ],
       "tags": [
         "relevance:tangential"
@@ -3597,7 +3657,7 @@
         "A-3231.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3620,7 +3680,7 @@
         "A-3231.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3640,8 +3700,8 @@
       "claim": "The host says she is planning to have Corby Hall on the show to discuss the gun that mysteriously disappeared and will try to get something to the ATF, though she doubts a response.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10613",
-        "N-10975"
+        "N-10560",
+        "N-10896"
       ],
       "tags": [
         "relevance:core"
@@ -3664,8 +3724,8 @@
         "A-1963.1"
       ],
       "related_nodes": [
-        "N-10599",
-        "N-10603"
+        "N-10546",
+        "N-10550"
       ],
       "tags": [
         "relevance:core"

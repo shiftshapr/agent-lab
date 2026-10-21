@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10560"
+            "N-10502"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -63,7 +63,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10563"
+            "N-10515"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -81,7 +81,7 @@
             "C-7492"
           ],
           "related_nodes": [
-            "N-10563"
+            "N-10515"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -107,7 +107,7 @@
             "C-7493"
           ],
           "related_nodes": [
-            "N-10564"
+            "N-10516"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -157,7 +157,7 @@
             "C-7463"
           ],
           "related_nodes": [
-            "N-10562"
+            "N-10514"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -183,7 +183,7 @@
             "C-7497"
           ],
           "related_nodes": [
-            "N-10564"
+            "N-10516"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -201,7 +201,7 @@
             "C-7498"
           ],
           "related_nodes": [
-            "N-10564"
+            "N-10516"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -219,7 +219,7 @@
             "C-7499"
           ],
           "related_nodes": [
-            "N-10564"
+            "N-10516"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
             "C-7496"
           ],
           "related_nodes": [
-            "N-10564"
+            "N-10516"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -274,8 +274,8 @@
             "C-7441"
           ],
           "related_nodes": [
-            "N-10561",
-            "N-10565"
+            "N-10513",
+            "N-10517"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -293,7 +293,7 @@
             "C-7454"
           ],
           "related_nodes": [
-            "N-10561"
+            "N-10513"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -418,18 +418,24 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10560",
-      "ref": "N-10560",
-      "name": "Tarmac Hug Timeline Reconciliation Question",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10502",
+      "ref": "N-10502",
+      "name": "Tarmac Hug Account Discrepancy",
+      "type": "investigation_question",
       "description": "Persistent investigative target: Frank Turek estimates Erica at hospital around 4:00 p.m.; the plane allegedly carrying Andrew Kolvet landed approximately 4:40 p.m.; transit to hospital is at minimum 20 minutes. The host's reconciliation hypothesis: Erica arrived on an earlier flight; Andrew landed aboard Charlie's plane at 3:31 p.m. Utah time.",
       "related_artifacts": [
         "A-1895.1"
       ],
       "related_claims": [
         "C-7423",
-        "C-7429"
+        "C-7429",
+        "C-7418",
+        "C-7424",
+        "C-7428",
+        "C-7430",
+        "C-7431",
+        "C-7453"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -438,15 +444,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-10565"
-      ]
+        "N-10517"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10561",
-      "ref": "N-10561",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10513",
+      "ref": "N-10513",
       "name": "Stacy Sheridan September 10 Location Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Stacy Sheridan allegedly not at the TPUSA Scottsdale office on September 10 and \"allegedly home in Scottsdale.\" Host issues an \"APB\" for sightings.",
       "related_artifacts": [
         "A-1902.1"
@@ -458,14 +465,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10562",
-      "ref": "N-10562",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10514",
+      "ref": "N-10514",
       "name": "Hopkinson Aircraft Erica Sighting Confirmation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Whether Erika Kirk was physically present at Hopkinson Aircraft on September 10, 2025; the only contacted witness declined to confirm or deny.",
       "related_artifacts": [
         "A-1899.1"
@@ -477,14 +485,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10440"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10563",
-      "ref": "N-10563",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10515",
+      "ref": "N-10515",
       "name": "Alexis Wilkins 13-Part Thread Analysis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification and substantive analysis of the allegations in Alexis Wilkins's X thread alleging a 22-month foreign-linked influence operation and identifying Candace, Tucker, Joe Kent, and General Flynn as network participants.",
       "related_artifacts": [
         "A-1896.1",
@@ -503,14 +513,15 @@
       "evidence_count": 2,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10564",
-      "ref": "N-10564",
+      "@type": "Topic",
+      "@id": "N-10516",
+      "ref": "N-10516",
       "name": "Catholic Church Growth Discourse",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Set of public-facing artifacts (Daily Wire article, news items, prior Allie Stuckey tweet) documenting the discursive shift on Catholic Church growth in the U.S. and the Zionism/anti-Zionism framing.",
       "related_artifacts": [
         "A-1897.1",
@@ -530,14 +541,15 @@
       "evidence_count": 5,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10565",
-      "ref": "N-10565",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10517",
+      "ref": "N-10517",
       "name": "Erika Kirk Arizona Activity Verification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: verification of Erica's whereabouts in the late-morning to early-afternoon window on September 10, 2025 (TPUSA office presence, time with mother, time at Hopkinson Aircraft, time at airport). Multiple alibis are described; cross-witness consistency is incomplete.",
       "related_artifacts": [
         "A-1899.1",
@@ -553,10 +565,12 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10560",
-        "N-10561",
-        "N-10562"
-      ]
+        "N-10502",
+        "N-10513",
+        "N-10514"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10440"
     },
     {
       "@type": "Person",
@@ -1132,11 +1146,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; setting for the office and building movements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1148,14 +1162,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Mossad; subject of the thread's Mossad spy label.",
       "related_artifacts": [],
       "related_claims": [
@@ -1165,14 +1181,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@type": "Place",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Provo, Utah; airport and hospital route discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1182,14 +1200,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the bullet, wound and Robinson statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1203,14 +1224,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10190",
-      "ref": "N-10190",
+      "@type": "Organization",
+      "@id": "N-10182",
+      "ref": "N-10182",
       "name": "Signature FBO / Million Air FBO (entity cluster)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for the FBO where the airport events took place.",
       "related_artifacts": [],
       "related_claims": [
@@ -1221,14 +1243,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Mikey McCoy's call sequence.",
       "related_artifacts": [],
       "related_claims": [
@@ -1238,14 +1262,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Mikey McCoy's behavior on September 10.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1281,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@type": "Topic",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Patel's handling and the host's Patel theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1274,14 +1301,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10245",
-      "ref": "N-10245",
+      "@type": "Event",
+      "@id": "N-10231",
+      "ref": "N-10231",
       "name": "Alexis Wilkins Honeypot Allegation Lawsuit",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the Wilkins honeypot lawsuits.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,14 +1321,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10307",
-      "ref": "N-10307",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10289",
+      "ref": "N-10289",
       "name": "TPUSA Phoenix Livestream Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Kolvet livestream timing question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1311,14 +1341,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Epstein files.",
       "related_artifacts": [],
       "related_claims": [
@@ -1328,14 +1359,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@type": "Topic",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Patel and Joe Kent dispute.",
       "related_artifacts": [],
       "related_claims": [
@@ -1345,14 +1377,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10362",
-      "ref": "N-10362",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10338",
+      "ref": "N-10338",
       "name": "Vehicle Disposition Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the custody of the SUV.",
       "related_artifacts": [],
       "related_claims": [
@@ -1363,14 +1396,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10483",
-      "ref": "N-10483",
+      "@type": "Topic",
+      "@id": "N-10449",
+      "ref": "N-10449",
       "name": "Erika's Mother Medical Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Erika's mother narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -1381,14 +1415,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10546",
-      "ref": "N-10546",
+      "@type": "Topic",
+      "@id": "N-10501",
+      "ref": "N-10501",
       "name": "Joe Kent Resignation Aftermath Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Joe Kent's resignation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1400,36 +1435,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10548",
-      "ref": "N-10548",
-      "name": "Tarmac Hug Account Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for conflicting tarmac hug accounts.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-7418",
-        "C-7424",
-        "C-7428",
-        "C-7430",
-        "C-7431",
-        "C-7453"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10551",
-      "ref": "N-10551",
+      "@type": "Topic",
+      "@id": "N-10505",
+      "ref": "N-10505",
       "name": "Joe Kent Leak Accusation Chain",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Joe Kent hospital-source question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1440,14 +1454,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10501"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10554",
-      "ref": "N-10554",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10507",
+      "ref": "N-10507",
       "name": "Andrew Kolvet 9/10 Flight Itinerary",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Kolvet's flight on September 10.",
       "related_artifacts": [],
       "related_claims": [
@@ -1459,14 +1475,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10555",
-      "ref": "N-10555",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10508",
+      "ref": "N-10508",
       "name": "Hopkinson Aircrafts Business Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Hopkinson Aircraft's business.",
       "related_artifacts": [],
       "related_claims": [
@@ -1478,14 +1495,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10440"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10866",
-      "ref": "N-10866",
+      "@type": "Event",
+      "@id": "N-10787",
+      "ref": "N-10787",
       "name": "Night-of Assassination Aloe Yoga Outfit Directive",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the aloe and overnight items story.",
       "related_artifacts": [],
       "related_claims": [
@@ -1495,14 +1514,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10925",
-      "ref": "N-10925",
+      "@type": "Organization",
+      "@id": "N-10846",
+      "ref": "N-10846",
       "name": "Turning Point Action",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point Action, the building Frank and Justin ran to.",
       "related_artifacts": [],
       "related_claims": [
@@ -1512,14 +1534,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10956",
-      "ref": "N-10956",
+      "@type": "Organization",
+      "@id": "N-10877",
+      "ref": "N-10877",
       "name": "Catholics for Catholics",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Catholics for Catholics; the event used by the thread.",
       "related_artifacts": [],
       "related_claims": [
@@ -1532,14 +1556,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11208",
-      "ref": "N-11208",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11124",
+      "ref": "N-11124",
       "name": "Timpanogos Hospital Group Arrival Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the party's arrival at the hospital.",
       "related_artifacts": [],
       "related_claims": [
@@ -1551,14 +1577,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11218",
-      "ref": "N-11218",
+      "@type": "Organization",
+      "@id": "N-11134",
+      "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Timpanogos Regional Hospital; destination of the transport time estimate.",
       "related_artifacts": [],
       "related_claims": [
@@ -1569,7 +1596,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
       "@type": "Person",
@@ -1609,11 +1638,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11344",
-      "ref": "N-11344",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11260",
+      "ref": "N-11260",
       "name": "Erika Kirk Death-Notification Account Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Competing accounts of how Erika Kirk learned that Charlie was dead: Elizabeth McCoy says she told Erika at the airport terminal, while Erika told the host a doctor called her directly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1624,14 +1653,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11345",
-      "ref": "N-11345",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11261",
+      "ref": "N-11261",
       "name": "Katherine LoCastro Vehicle Retrieval and Overnight Items Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Open question why Katherine LoCastro was sent to retrieve something from the bloodied vehicle, given Charlie carried no bag and agents were said to be guarding it, and what Elizabeth McCoy gathered for the overnight stay.",
       "related_artifacts": [],
       "related_claims": [
@@ -1644,7 +1674,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     }
   ],
   "claims": [
@@ -1658,7 +1689,7 @@
         "A-1895.1"
       ],
       "related_nodes": [
-        "N-10560"
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
@@ -1697,7 +1728,7 @@
         "A-1902.1"
       ],
       "related_nodes": [
-        "N-10565"
+        "N-10517"
       ],
       "tags": [],
       "claim_timestamp": "00:11:23",
@@ -1752,8 +1783,8 @@
         "A-1902.1"
       ],
       "related_nodes": [
-        "N-10561",
-        "N-10565"
+        "N-10513",
+        "N-10517"
       ],
       "tags": [],
       "claim_timestamp": "00:14:00",
@@ -1792,8 +1823,8 @@
         "A-1899.1"
       ],
       "related_nodes": [
-        "N-10562",
-        "N-10565"
+        "N-10514",
+        "N-10517"
       ],
       "tags": [],
       "claim_timestamp": "00:22:50",
@@ -1812,7 +1843,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [],
       "claim_timestamp": "00:31:30",
@@ -1835,7 +1866,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [],
       "claim_timestamp": "00:34:40",
@@ -1857,7 +1888,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [],
       "claim_timestamp": "00:32:58",
@@ -1877,7 +1908,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [],
       "claim_timestamp": "00:33:48",
@@ -1896,7 +1927,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [],
       "claim_timestamp": "00:34:40",
@@ -1918,7 +1949,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [],
       "claim_timestamp": "00:35:30",
@@ -1938,7 +1969,7 @@
         "A-1896.2"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [],
       "claim_timestamp": "00:39:43",
@@ -1957,7 +1988,7 @@
         "A-1897.1"
       ],
       "related_nodes": [
-        "N-10564"
+        "N-10516"
       ],
       "tags": [],
       "claim_timestamp": "00:40:56",
@@ -1973,7 +2004,7 @@
         "A-1900.1"
       ],
       "related_nodes": [
-        "N-10564"
+        "N-10516"
       ],
       "tags": [],
       "claim_timestamp": "00:42:36",
@@ -1989,7 +2020,7 @@
         "A-1900.2"
       ],
       "related_nodes": [
-        "N-10564"
+        "N-10516"
       ],
       "tags": [],
       "claim_timestamp": "00:42:36",
@@ -2005,7 +2036,7 @@
         "A-1900.3"
       ],
       "related_nodes": [
-        "N-10564"
+        "N-10516"
       ],
       "tags": [],
       "claim_timestamp": "00:43:15",
@@ -2021,7 +2052,7 @@
         "A-1901.1"
       ],
       "related_nodes": [
-        "N-10564"
+        "N-10516"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00",
@@ -2039,7 +2070,7 @@
       "claim": "The host hypothesizes that to reconcile Frank Turek's 4:00 p.m. hospital estimate with Andrew Kolvet's tarmac-hug account, Erica must have arrived on an earlier flight while Andrew landed aboard Charlie Kirk's plane at 3:31 p.m. Utah time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10560"
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:09:15",
@@ -2059,8 +2090,7 @@
       "claim": "The host says Frank Turek's account makes the tarmac hug impossible on the timeline TPUSA has presented, unless Andrew Kolvet, as she has been claiming, was on Charlie Kirk's plane.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10560",
-        "N-10548"
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2088,8 +2118,8 @@
         "A-3223.1"
       ],
       "related_nodes": [
-        "N-10554",
-        "N-10307"
+        "N-10507",
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -2112,8 +2142,8 @@
         "A-3223.1"
       ],
       "related_nodes": [
-        "N-10554",
-        "N-10307"
+        "N-10507",
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -2156,9 +2186,8 @@
       "claim": "The host says the plane that Erika Kirk told her Andrew Kolvet was aboard did not land until about 4:40 p.m.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10560",
-        "N-10548",
-        "N-10554"
+        "N-10502",
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2180,9 +2209,9 @@
       "claim": "The host says that even with no traffic the drive from Provo Airport to Timpanogos Hospital takes 20 minutes, and that landing, taxiing, the tarmac scene and a manhunt would add to that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074",
-        "N-11218",
-        "N-10560"
+        "N-10071",
+        "N-11134",
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2202,8 +2231,8 @@
       "claim": "The host says that even with a police escort the earliest the party could have reached the hospital after landing and the tarmac scene is 5:15 p.m.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10560",
-        "N-11218"
+        "N-10502",
+        "N-11134"
       ],
       "tags": [
         "relevance:core"
@@ -2226,7 +2255,7 @@
       "claim": "The host says she does not accept that Frank Turek said 4:00 p.m. while meaning 5:15 p.m., and that Turek is telling the truth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10560"
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2250,7 +2279,7 @@
       "claim": "The host says Andrew Kolvet did not make up his phone account of crying when he saw Erika as the doors opened and hugging her on the tarmac, because it was too detailed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548"
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2276,7 +2305,7 @@
       "claim": "The host says that each time Andrew Kolvet and Erika Kirk have told conflicting stories in the investigation, the host has been able to determine that Kolvet was the one telling the truth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548"
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2298,7 +2327,7 @@
       "claim": "The host says Erika Kirk was on the phone that day directing Andrew Kolvet to do things, and allows Kolvet to look like a fool and a liar when it is Erika who is lying.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548"
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2340,7 +2369,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10565"
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2364,8 +2393,8 @@
       "claim": "The host says that, against Frank Turek's account that Charlie trained him to call Erika first when anything happens, it turned out Mikey McCoy called his own wife first.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193",
-        "N-10198"
+        "N-10185",
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2416,7 +2445,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10565"
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2444,7 +2473,7 @@
         "A-1902.1"
       ],
       "related_nodes": [
-        "N-10925"
+        "N-10846"
       ],
       "tags": [
         "relevance:core"
@@ -2466,7 +2495,7 @@
       "claim": "The host says Stacy Sheridan, whom she calls a de facto mom to Erika, lives in the same apartment complex as Erika and Charlie, though not in the same unit, and moved in shortly before the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10561"
+        "N-10513"
       ],
       "tags": [
         "relevance:context"
@@ -2489,8 +2518,8 @@
       "claim": "The host says she feels Erika Kirk and Tyler Bowyer definitively flew together.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10560",
-        "N-10565"
+        "N-10502",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2514,7 +2543,7 @@
         "A-3225.1"
       ],
       "related_nodes": [
-        "N-10565"
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2535,7 +2564,7 @@
       "claim": "The host says Erika Kirk grew up in Scottsdale, where her family, friends and the people she grew up with are, so she questions why Erika did not have them with her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10565"
+        "N-10517"
       ],
       "tags": [
         "relevance:context"
@@ -2558,8 +2587,8 @@
         "A-1902.1"
       ],
       "related_nodes": [
-        "N-10565",
-        "N-10190"
+        "N-10517",
+        "N-10182"
       ],
       "tags": [
         "relevance:core"
@@ -2582,8 +2611,8 @@
       "claim": "The host says Erika Kirk says her mother had an appointment that day and that she was with her mom, and says she will debunk that in a future episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10483",
-        "N-10565"
+        "N-10449",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2607,8 +2636,8 @@
       "claim": "The host says that in the account of the airport events nobody has seen Erika or Stacy Sheridan, even though a lot of action is happening.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10561",
-        "N-10565"
+        "N-10513",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2636,9 +2665,9 @@
         "A-1902.1"
       ],
       "related_nodes": [
-        "N-11344",
-        "N-10190",
-        "N-10565"
+        "N-11260",
+        "N-10182",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2664,8 +2693,8 @@
       "claim": "The host says Erika Kirk told her that the doctor called her directly and told her Charlie was dead, which the host considers more appropriate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11344",
-        "N-10565"
+        "N-11260",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2689,8 +2718,8 @@
         "A-1902.2"
       ],
       "related_nodes": [
-        "N-11208",
-        "N-10565"
+        "N-11124",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2715,7 +2744,7 @@
         "A-1902.2"
       ],
       "related_nodes": [
-        "N-11208"
+        "N-11124"
       ],
       "tags": [
         "relevance:core"
@@ -2741,8 +2770,8 @@
         "A-1902.2"
       ],
       "related_nodes": [
-        "N-11208",
-        "N-10548"
+        "N-11124",
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2771,8 +2800,8 @@
         "A-1902.2"
       ],
       "related_nodes": [
-        "N-11345",
-        "N-10362"
+        "N-11261",
+        "N-10338"
       ],
       "tags": [
         "relevance:core"
@@ -2797,8 +2826,8 @@
         "A-1902.2"
       ],
       "related_nodes": [
-        "N-10866",
-        "N-11345"
+        "N-10787",
+        "N-11261"
       ],
       "tags": [
         "relevance:core"
@@ -2819,8 +2848,8 @@
       "claim": "The host says Frank Turek previously said federal agents were guarding the vehicle and had taped it off so nobody could get into it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11345",
-        "N-10362"
+        "N-11261",
+        "N-10338"
       ],
       "tags": [
         "relevance:core"
@@ -2841,7 +2870,7 @@
       "claim": "The host says Charlie Kirk was not traveling with a bag, had a private plane where any bag would have stayed, and was not planning on staying overnight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11345"
+        "N-11261"
       ],
       "tags": [
         "relevance:core"
@@ -2862,8 +2891,8 @@
       "claim": "The host says that through a coincidence the previous day she connected with someone who works at Hopkinson Aircraft, the company at the unmarked building she discussed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10555",
-        "N-10562"
+        "N-10508",
+        "N-10514"
       ],
       "tags": [
         "relevance:core"
@@ -2885,9 +2914,9 @@
         "A-1899.1"
       ],
       "related_nodes": [
-        "N-10555",
-        "N-10562",
-        "N-10565"
+        "N-10508",
+        "N-10514",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2908,7 +2937,7 @@
       "claim": "The host says Hopkinson Aircraft asked her to clarify that it is not a CIA front company and does real business.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10555"
+        "N-10508"
       ],
       "tags": [
         "relevance:context"
@@ -2930,8 +2959,8 @@
         "A-1899.1"
       ],
       "related_nodes": [
-        "N-10562",
-        "N-10565"
+        "N-10514",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2955,8 +2984,8 @@
         "A-1899.1"
       ],
       "related_nodes": [
-        "N-10562",
-        "N-10565"
+        "N-10514",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"
@@ -2980,7 +3009,7 @@
       "claim": "The host says authorities are telling the public there is a bullet or fragment they cannot match to the weapon and that they do not know why it did not go through.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3003,7 +3032,7 @@
         "A-3224.1"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:context"
@@ -3027,7 +3056,7 @@
         "A-3224.1"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3050,8 +3079,8 @@
         "A-3224.1"
       ],
       "related_nodes": [
-        "N-10546",
-        "N-10355"
+        "N-10501",
+        "N-10332"
       ],
       "tags": [
         "relevance:core"
@@ -3074,7 +3103,7 @@
         "A-3224.1"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3097,7 +3126,7 @@
         "A-3224.1"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3120,8 +3149,8 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563",
-        "N-10202"
+        "N-10515",
+        "N-10194"
       ],
       "tags": [
         "relevance:context"
@@ -3143,7 +3172,7 @@
       "claim": "The host says Kash Patel was flying on the FBI plane to see Alexis Wilkins in Tennessee.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:context"
@@ -3168,7 +3197,7 @@
       "claim": "The host says Kash Patel has also sent a police force to protect Alexis Wilkins and that she definitely has a government security detail.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:context"
@@ -3190,7 +3219,7 @@
       "claim": "The host says Alexis Wilkins was upset by the honeypot allegations and began suing content creators, claiming it harmed her professionally.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10245"
+        "N-10231"
       ],
       "tags": [
         "relevance:context"
@@ -3237,8 +3266,8 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563",
-        "N-10245"
+        "N-10515",
+        "N-10231"
       ],
       "tags": [
         "relevance:context"
@@ -3261,8 +3290,8 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563",
-        "N-10956"
+        "N-10515",
+        "N-10877"
       ],
       "tags": [
         "relevance:context"
@@ -3291,9 +3320,9 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563",
+        "N-10515",
         "N-10015",
-        "N-10245"
+        "N-10231"
       ],
       "tags": [
         "relevance:context"
@@ -3316,7 +3345,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:context"
@@ -3339,8 +3368,8 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10956",
-        "N-10563"
+        "N-10877",
+        "N-10515"
       ],
       "tags": [
         "relevance:context"
@@ -3363,7 +3392,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [
         "relevance:core"
@@ -3388,8 +3417,8 @@
       "claim": "The host says that, she thinks, the Catholics for Catholics event was only the second time she had ever seen Joe Kent, and that she did not know him before the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956",
-        "N-10546"
+        "N-10877",
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -3412,8 +3441,8 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563",
-        "N-10546"
+        "N-10515",
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -3436,7 +3465,7 @@
       "claim": "The host says that when Trump asked whether people were still talking about the Epstein files, Thomas Massie and others had to fight him tooth and nail to get the files released.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:tangential"
@@ -3460,7 +3489,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [
         "relevance:context"
@@ -3485,7 +3514,7 @@
         "A-1897.1"
       ],
       "related_nodes": [
-        "N-10564"
+        "N-10516"
       ],
       "tags": [
         "relevance:tangential"
@@ -3507,7 +3536,7 @@
         "A-1901.1"
       ],
       "related_nodes": [
-        "N-10564"
+        "N-10516"
       ],
       "tags": [
         "relevance:tangential"
@@ -3528,7 +3557,7 @@
       "claim": "The host says Joe Kent is Catholic, as she is, and that Tucker Carlson, whom Wilkins mentions, is Episcopalian.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10564"
+        "N-10516"
       ],
       "tags": [
         "relevance:tangential"
@@ -3551,7 +3580,7 @@
       "claim": "The host says Andrew Kolvet was the person who called her and said there were attacks or threats against her and Tucker Carlson, during the part of her talk with Erika about the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10551"
+        "N-10505"
       ],
       "tags": [
         "relevance:core"
@@ -3578,7 +3607,7 @@
       "claim": "The host says Erika Kirk asked whether Joe Kent was her source at the hospital, and that she answered no, that it was Andrew Kolvet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10551"
+        "N-10505"
       ],
       "tags": [
         "relevance:core"
@@ -3603,7 +3632,7 @@
         "A-3226.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [
         "relevance:context"
@@ -3629,7 +3658,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10515"
       ],
       "tags": [
         "relevance:context"
@@ -3650,7 +3679,7 @@
       "claim": "The host repeats her call for information about Stacy Sheridan on September 10 and says she has contacts living in the same building.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10561"
+        "N-10513"
       ],
       "tags": [
         "relevance:core"
@@ -3674,8 +3703,8 @@
       "claim": "The host says she still cannot get an Erika sighting and that Erika's alibi involving Lori is problematic and falling apart, which she will explain the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10483",
-        "N-10565"
+        "N-10449",
+        "N-10517"
       ],
       "tags": [
         "relevance:core"

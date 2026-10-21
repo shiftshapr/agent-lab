@@ -31,7 +31,7 @@
             "C-7352"
           ],
           "related_nodes": [
-            "N-10555"
+            "N-10508"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -49,7 +49,7 @@
             "C-7356"
           ],
           "related_nodes": [
-            "N-10555"
+            "N-10508"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -67,7 +67,7 @@
             "C-7356"
           ],
           "related_nodes": [
-            "N-10555"
+            "N-10508"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,7 +93,7 @@
             "C-7361"
           ],
           "related_nodes": [
-            "N-10557"
+            "N-10510"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -112,7 +112,7 @@
             "C-7363"
           ],
           "related_nodes": [
-            "N-10557"
+            "N-10510"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -130,7 +130,7 @@
             "C-7371"
           ],
           "related_nodes": [
-            "N-10557"
+            "N-10510"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -225,7 +225,7 @@
             "C-7377"
           ],
           "related_nodes": [
-            "N-10556"
+            "N-10509"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -243,7 +243,7 @@
             "C-7382"
           ],
           "related_nodes": [
-            "N-10556"
+            "N-10509"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -267,8 +267,8 @@
           "description": "Nick Shirley self-introduction clip – 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs",
           "related_claims": [],
           "related_nodes": [
-            "N-10556",
-            "N-10559"
+            "N-10509",
+            "N-10512"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -286,7 +286,7 @@
             "C-7382"
           ],
           "related_nodes": [
-            "N-10559"
+            "N-10512"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -360,7 +360,7 @@
             "C-7389"
           ],
           "related_nodes": [
-            "N-10558"
+            "N-10511"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -586,11 +586,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10553",
-      "ref": "N-10553",
-      "name": "Erika Kirk 9/10 Location Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10440",
+      "ref": "N-10440",
+      "name": "Erika Kirk September 10 Whereabouts Verification",
+      "type": "investigation_question",
       "description": "Persistent investigative question of where Erika Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.",
       "related_artifacts": [
         "A-1886.1",
@@ -607,15 +607,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-10555"
-      ]
+        "N-10508"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10554",
-      "ref": "N-10554",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10507",
+      "ref": "N-10507",
       "name": "Andrew Kolvet 9/10 Flight Itinerary",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question of Andrew Kolvet's actual flight path on September 10. Episode develops 3:26 PM MST timing correlation against ADSB data and Wi-Fi analysis of Barbara plane.",
       "related_artifacts": [
         "A-1887.1",
@@ -637,14 +638,15 @@
       "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10555",
-      "ref": "N-10555",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10508",
+      "ref": "N-10508",
       "name": "Hopkinson Aircrafts Business Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question of whether Hopkinson Aircrafts is a functioning aircraft brokerage as advertised, given its unmarked separate building, shared Atlantic Aviation address, and unusual occupancy profile.",
       "related_artifacts": [
         "A-1886.1",
@@ -659,14 +661,16 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10440"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10556",
-      "ref": "N-10556",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10509",
+      "ref": "N-10509",
       "name": "Charlie Kirk Live Show 9/10 Liveness Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question of whether Andrew Kolvet's first-hour hosting of Charlie Kirk Live Show on 9/10 was performed live, given his prior history of faking a live show from the White House (per host's prior reporting). Host seeking written confirmation from Nick Shirley.",
       "related_artifacts": [
         "A-1890.1",
@@ -681,14 +685,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10557",
-      "ref": "N-10557",
+      "@type": "Thing",
+      "@id": "N-10510",
+      "ref": "N-10510",
       "name": "Barbara Plane (N8724A) Operations",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "The Hawker Beechcraft alleged by Erika Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call.",
       "related_artifacts": [
         "A-1887.1",
@@ -703,14 +708,17 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Vehicle",
+      "wikidata_class": "Q11436",
+      "parent": "N-10507"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10558",
-      "ref": "N-10558",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10511",
+      "ref": "N-10511",
       "name": "N40JD Plane Passenger Manifest",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) – passenger manifest not confirmed.",
       "related_artifacts": [
         "A-1894.1"
@@ -725,14 +733,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10507"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10559",
-      "ref": "N-10559",
-      "name": "Nick Shirley Background Verification",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10512",
+      "ref": "N-10512",
+      "name": "Nick Shirley Background and Backing Verification",
+      "type": "investigation_question",
       "description": "Question of Nick Shirley's claimed credentials, including the 48-hour Comando Vermelho infiltration claim and his access/sourcing profile.",
       "related_artifacts": [
         "A-1891.2"
@@ -745,7 +755,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1204,11 +1215,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10094",
-      "ref": "N-10094",
+      "@type": "Organization",
+      "@id": "N-10090",
+      "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Church the host says Nick Shirley belongs to.",
       "related_artifacts": [],
       "related_claims": [
@@ -1218,14 +1229,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10149",
-      "ref": "N-10149",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10144",
+      "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1235,14 +1248,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1252,14 +1266,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@type": "Topic",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1269,14 +1284,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@type": "Topic",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1286,14 +1302,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10360",
-      "ref": "N-10360",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10336",
+      "ref": "N-10336",
       "name": "Gun Discovery Procedure Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1303,14 +1320,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10386",
-      "ref": "N-10386",
+      "@type": "Topic",
+      "@id": "N-10359",
+      "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1321,14 +1339,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10387",
-      "ref": "N-10387",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10360",
+      "ref": "N-10360",
       "name": "Tyler Bowyer Investigation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1338,14 +1357,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10546",
-      "ref": "N-10546",
+      "@type": "Topic",
+      "@id": "N-10501",
+      "ref": "N-10501",
       "name": "Joe Kent Resignation Aftermath Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1358,14 +1378,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10548",
-      "ref": "N-10548",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10502",
+      "ref": "N-10502",
       "name": "Tarmac Hug Account Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1375,14 +1396,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10551",
-      "ref": "N-10551",
+      "@type": "Topic",
+      "@id": "N-10505",
+      "ref": "N-10505",
       "name": "Joe Kent Leak Accusation Chain",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1392,14 +1414,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10501"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10621",
-      "ref": "N-10621",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10567",
+      "ref": "N-10567",
       "name": "Gun Firing Evidence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1410,14 +1434,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10649",
-      "ref": "N-10649",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11295",
+      "ref": "N-11295",
       "name": "Candace-Erika December 15 Private Meeting Revelations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1428,14 +1453,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10701",
-      "ref": "N-10701",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10638",
+      "ref": "N-10638",
       "name": "Andrew Kolvet EEOB Presence / Kash Patel Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1445,14 +1471,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10866",
-      "ref": "N-10866",
+      "@type": "Event",
+      "@id": "N-10787",
+      "ref": "N-10787",
       "name": "Night-of Assassination Aloe Yoga Outfit Directive",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1462,14 +1489,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11012",
-      "ref": "N-11012",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10932",
+      "ref": "N-10932",
       "name": "Tyler Robinson Surrender Narrative Dispute",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1481,14 +1511,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11149",
-      "ref": "N-11149",
+      "@type": "Event",
+      "@id": "N-11065",
+      "ref": "N-11065",
       "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1499,7 +1530,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -1555,8 +1588,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11189",
-      "ref": "N-11189",
+      "@id": "N-11105",
+      "ref": "N-11105",
       "name": "Atlantic Aviation FBO Network",
       "type": "organization",
       "description": "First named by the host at 00:11:21 in episode 82. Scottsdale private terminal (FBO) at 14600 North Aircraft Drive that the host says receives Hopkinson's mail.",
@@ -1568,12 +1601,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11190",
-      "ref": "N-11190",
+      "@id": "N-11106",
+      "ref": "N-11106",
       "name": "Comando Vermelho",
       "type": "organization",
       "description": "First named at 00:35:50 in episode 82 by Nick Shirley. Rio de Janeiro gang he says he gained access to.",
@@ -1585,7 +1620,29 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7398",
+        "C-7402"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -1601,8 +1658,8 @@
         "A-1886.3"
       ],
       "related_nodes": [
-        "N-10553",
-        "N-10555"
+        "N-10440",
+        "N-10508"
       ],
       "tags": [],
       "claim_timestamp": "00:09:34",
@@ -1623,7 +1680,7 @@
         "A-1886.3"
       ],
       "related_nodes": [
-        "N-10555"
+        "N-10508"
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
@@ -1639,7 +1696,7 @@
         "A-1887.2"
       ],
       "related_nodes": [
-        "N-10557"
+        "N-10510"
       ],
       "tags": [],
       "claim_timestamp": "00:19:39",
@@ -1655,7 +1712,7 @@
         "A-1888.1"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:24:05",
@@ -1674,7 +1731,7 @@
         "A-1889.1"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:22:10",
@@ -1694,8 +1751,8 @@
         "A-1889.2"
       ],
       "related_nodes": [
-        "N-10554",
-        "N-10557"
+        "N-10507",
+        "N-10510"
       ],
       "tags": [],
       "claim_timestamp": "00:20:35",
@@ -1716,7 +1773,7 @@
         "A-1894.1"
       ],
       "related_nodes": [
-        "N-10558"
+        "N-10511"
       ],
       "tags": [],
       "claim_timestamp": "00:39:16",
@@ -1735,7 +1792,7 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-10556"
+        "N-10509"
       ],
       "tags": [],
       "claim_timestamp": "00:31:34",
@@ -1756,7 +1813,7 @@
         "A-1891.2"
       ],
       "related_nodes": [
-        "N-10559"
+        "N-10512"
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
@@ -1812,7 +1869,7 @@
         "A-1887.3"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:24:50",
@@ -1828,7 +1885,7 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-10556"
+        "N-10509"
       ],
       "tags": [],
       "claim_timestamp": "00:31:34",
@@ -1849,7 +1906,7 @@
         "A-1887.3"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:38:35",
@@ -1882,7 +1939,7 @@
       "claim": "The host says Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:22:50",
@@ -1924,7 +1981,7 @@
         "A-2938.1"
       ],
       "related_nodes": [
-        "N-10866"
+        "N-10787"
       ],
       "tags": [
         "relevance:core"
@@ -1947,7 +2004,7 @@
         "A-2938.1"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -1967,7 +2024,7 @@
       "claim": "The host says she cannot reveal how she came across the Hopkinson information and that there is no way for her to protect the source if she did.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10555"
+        "N-10508"
       ],
       "tags": [
         "relevance:core"
@@ -1987,7 +2044,7 @@
       "claim": "The host says nobody has come forward to say they saw Erika Kirk on the day of the assassination in the very public places she claims to have been.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10553"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -2008,7 +2065,7 @@
       "claim": "The host says Erika Kirk has said she collapsed in a parking lot while with her mother getting treatment, that there were curiously no witnesses, that the host does not know whether an ambulance was called, and that Erika does not like to speak about it and gives no details.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10553"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -2029,7 +2086,7 @@
       "claim": "The host says Erika Kirk went to the airport with an entourage that included a priest, and that no witnesses have come forward from busy Scottsdale private terminals.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10553"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -2050,7 +2107,7 @@
       "claim": "The host says Erika Kirk told her to her face, and Elizabeth McCoy wrote a long post confirming, that Erika got the news of Charlie's death by phone from the doctor right before they flew to Provo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10553"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -2074,7 +2131,7 @@
         "A-1886.1"
       ],
       "related_nodes": [
-        "N-10555"
+        "N-10508"
       ],
       "tags": [
         "relevance:core"
@@ -2096,8 +2153,8 @@
         "A-1886.2"
       ],
       "related_nodes": [
-        "N-10555",
-        "N-11189"
+        "N-10508",
+        "N-11105"
       ],
       "tags": [
         "relevance:core"
@@ -2117,7 +2174,7 @@
       "claim": "The host says Erika Kirk said, when Charlie was shot, \"I effing knew it\", and that this was the sentence that came out of her mouth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10553"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -2138,7 +2195,7 @@
       "claim": "The host says she and Baron Coleman believe Andrew Kolvet first flew from Santa Barbara to Scottsdale and then from Scottsdale to Provo, and that neither flight was the later 3:19 p.m. flight Erika told her he was aboard.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2163,7 +2220,7 @@
         "A-1887.1"
       ],
       "related_nodes": [
-        "N-10557"
+        "N-10510"
       ],
       "tags": [
         "relevance:core"
@@ -2187,7 +2244,7 @@
         "A-1887.1"
       ],
       "related_nodes": [
-        "N-10557"
+        "N-10510"
       ],
       "tags": [
         "relevance:core"
@@ -2210,7 +2267,7 @@
         "A-1889.2"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2234,7 +2291,7 @@
       "claim": "The host says that when Andrew Kolvet came back online he said \"My internet just came back on\" rather than that he was on a plane or had just gotten service.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2257,7 +2314,7 @@
         "A-2939.1"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2283,7 +2340,7 @@
       "claim": "The host says that when a plane gets low enough, a phone suddenly receives all its queued messages at once, so a \"just loaded\" message fits a plane coming in to land.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:context"
@@ -2305,8 +2362,8 @@
         "A-1888.1"
       ],
       "related_nodes": [
-        "N-10554",
-        "N-10557"
+        "N-10507",
+        "N-10510"
       ],
       "tags": [
         "relevance:core"
@@ -2329,7 +2386,7 @@
         "A-1888.1"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2350,7 +2407,7 @@
       "claim": "The host says installing Wi-Fi aboard a jet costs about $300,000 plus roughly $30,000 to $50,000 per month, and that she knows two billionaires who own Wi-Fi-capable planes and do not use it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:context"
@@ -2372,7 +2429,7 @@
         "A-2940.1"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core",
@@ -2396,7 +2453,7 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-10556"
+        "N-10509"
       ],
       "tags": [
         "relevance:core"
@@ -2424,7 +2481,7 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-10556"
+        "N-10509"
       ],
       "tags": [
         "relevance:core"
@@ -2447,7 +2504,7 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-10556"
+        "N-10509"
       ],
       "tags": [
         "relevance:core"
@@ -2469,9 +2526,9 @@
       "claim": "The host says her White House sources reported that Andrew Kolvet was at the White House near Kash Patel's office the day before the Epstein files were released while claiming to be live in Arizona interviewing Patel, and that she is not saying this proves a faked 9/10 show, only that she wants to confirm it was live.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10701",
-        "N-10324",
-        "N-10556"
+        "N-10638",
+        "N-10303",
+        "N-10509"
       ],
       "tags": [
         "relevance:context"
@@ -2495,7 +2552,7 @@
         "A-1891.1"
       ],
       "related_nodes": [
-        "N-10559"
+        "N-10512"
       ],
       "tags": [
         "relevance:context"
@@ -2519,8 +2576,8 @@
         "A-1891.2"
       ],
       "related_nodes": [
-        "N-10559",
-        "N-11190"
+        "N-10512",
+        "N-11106"
       ],
       "tags": [
         "relevance:tangential"
@@ -2541,8 +2598,8 @@
       "claim": "The host says Nick Shirley is a member of the LDS Church and is from Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10094",
-        "N-10559"
+        "N-10090",
+        "N-10512"
       ],
       "tags": [
         "relevance:context"
@@ -2565,7 +2622,7 @@
         "A-2941.1"
       ],
       "related_nodes": [
-        "N-10556"
+        "N-10509"
       ],
       "tags": [
         "relevance:core"
@@ -2588,7 +2645,7 @@
         "A-2942.1"
       ],
       "related_nodes": [
-        "N-10556"
+        "N-10509"
       ],
       "tags": [
         "relevance:core",
@@ -2611,7 +2668,7 @@
         "A-2943.1"
       ],
       "related_nodes": [
-        "N-10387"
+        "N-10360"
       ],
       "tags": [
         "relevance:core"
@@ -2635,7 +2692,7 @@
         "A-2943.1"
       ],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2659,8 +2716,8 @@
         "A-2943.1"
       ],
       "related_nodes": [
-        "N-10557",
-        "N-10554"
+        "N-10510",
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2681,8 +2738,8 @@
       "claim": "The host says her understanding is that after the tarmac hug Andrew Kolvet went into the hospital through the front and Erika Kirk through a private back door, and that Andrew's wife was not mentioned as being with him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10149",
-        "N-10548"
+        "N-10144",
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2704,7 +2761,7 @@
       "claim": "The host says Donald Trump mocked Joe Kent's remarriage by saying he married pretty quickly, and that Kent in fact married again five years later and had two young children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -2728,7 +2785,7 @@
         "A-1892.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -2753,7 +2810,7 @@
         "A-1893.1"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -2778,7 +2835,7 @@
         "A-1893.1"
       ],
       "related_nodes": [
-        "N-11012"
+        "N-10932"
       ],
       "tags": [
         "relevance:core"
@@ -2808,7 +2865,8 @@
         "A-1893.1"
       ],
       "related_nodes": [
-        "N-11012"
+        "N-10932",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -2832,7 +2890,7 @@
         "A-1893.1"
       ],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -2855,7 +2913,7 @@
         "A-1893.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:core"
@@ -2879,7 +2937,8 @@
         "A-1893.1"
       ],
       "related_nodes": [
-        "N-11012"
+        "N-10932",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -2906,7 +2965,7 @@
         "A-1893.1"
       ],
       "related_nodes": [
-        "N-10621"
+        "N-10567"
       ],
       "tags": [
         "relevance:core"
@@ -2932,8 +2991,8 @@
       "claim": "The host says federal agents pointed rookie cops to where the bomb dogs failed and had them find the gun.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10621",
-        "N-10360"
+        "N-10567",
+        "N-10336"
       ],
       "tags": [
         "relevance:core"
@@ -2957,7 +3016,7 @@
       "claim": "The host says Tyler Robinson tried but failed to have one of the prosecutors removed from his case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:context"
@@ -2980,7 +3039,7 @@
         "A-1893.1"
       ],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3004,7 +3063,7 @@
         "A-2944.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -3047,7 +3106,7 @@
       "claim": "The host says Kash Patel stopped Joe Kent and that TPUSA figures are angry at Kent rather than Patel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ],
       "tags": [
         "relevance:core"
@@ -3072,7 +3131,7 @@
       "claim": "The host says she met with Erika on December 15th and does not believe TPUSA has found since then the evidence it says it has.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3093,7 +3152,7 @@
       "claim": "The host says it is the worst kept secret that Charlie Kirk could not stand Ben Shapiro.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10386"
+        "N-10359"
       ],
       "tags": [
         "relevance:context"
@@ -3115,7 +3174,7 @@
       "claim": "The host says Andrew Kolvet's account shows Charlie Kirk was very upset about the interview, and that they were just going to let Ben take over Turning Point \"or something,\" with Erika letting him open.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10386"
+        "N-10359"
       ],
       "tags": [
         "relevance:context"
@@ -3203,7 +3262,7 @@
       "claim": "The host says TPUSA-aligned critics suggest that Joe Kent was trying to set up Erika, which she finds laughable.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10551"
+        "N-10505"
       ],
       "tags": [
         "relevance:context"

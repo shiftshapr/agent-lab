@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-41",
-            "N-10162"
+            "N-10156"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -71,7 +71,7 @@
           ],
           "related_nodes": [
             "N-41",
-            "N-10165"
+            "N-10158"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,7 +99,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10162"
+            "N-10156"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -127,7 +127,7 @@
           ],
           "related_nodes": [
             "N-99",
-            "N-10166"
+            "N-10159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -180,7 +180,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-10166"
+            "N-10159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -208,7 +208,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10163"
+            "N-10157"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -227,8 +227,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10163",
-            "N-10164"
+            "N-10157",
+            "N-10100"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,7 +244,7 @@
           "description": "Donor reply – counsel against inviting Candace",
           "related_claims": [],
           "related_nodes": [
-            "N-10163"
+            "N-10157"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,7 +263,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10163"
+            "N-10157"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -454,7 +454,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ]
     },
     {
@@ -479,7 +479,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10166"
+        "N-10159"
       ]
     },
     {
@@ -502,15 +502,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10166"
+        "N-10159"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10162",
-      "ref": "N-10162",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10156",
+      "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact – flagged).",
       "related_artifacts": [
         "A-1220.1",
@@ -529,14 +529,16 @@
       "related_nodes": [
         "N-41",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10163",
-      "ref": "N-10163",
+      "@type": "Thing",
+      "@id": "N-10157",
+      "ref": "N-10157",
       "name": "Pre-Assassination Group Chat Content",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Group chat dated 2025-09-08 (per host assertion), 9 participants, including Charlie Kirk, Rob McCoy, and Josh Hammer. Contains statements attributed to Kirk about leaving the pro-Israel cause.",
       "related_artifacts": [
         "A-1225.1",
@@ -558,17 +560,25 @@
         "N-1",
         "N-17",
         "N-14"
-      ]
+      ],
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10164",
-      "ref": "N-10164",
-      "name": "Charlie Kirk Catholic Trajectory Verification",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10100",
+      "ref": "N-10100",
+      "name": "Catholic Conversion Rumor",
+      "type": "topic",
       "description": "Persistent thread across the series regarding Charlie Kirk's movement toward Catholicism (mass attendance, rosary, Saint Michael pendant, priest visits). Re-asserted in this episode via prior-episode references; no new artifact displayed in this episode for the underlying facts.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1329",
+        "C-1330",
+        "C-1336",
+        "C-1337",
+        "C-1338",
+        "C-1340"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -577,14 +587,15 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10165",
-      "ref": "N-10165",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10158",
+      "ref": "N-10158",
       "name": "Campus Footage Release Strategy Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Bowyer's assertion that extensive campus footage exists but will not be released until trial – and the host's counter-argument that footage should have been deployed during the 33-hour manhunt.",
       "related_artifacts": [
         "A-1220.3"
@@ -599,14 +610,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-41"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10166",
-      "ref": "N-10166",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10159",
+      "ref": "N-10159",
       "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host's assertion that McCoy's son and daughter-in-law work for TPUSA and that McCoy heads its Faith Division, creating a financial stake in Kirk's religious trajectory. Host assertion only – no artifact in this episode.",
       "related_artifacts": [
         "A-1224.1"
@@ -620,14 +632,16 @@
       "related_nodes": [
         "N-99",
         "N-17"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10201"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10167",
-      "ref": "N-10167",
+      "@type": "Topic",
+      "@id": "N-10160",
+      "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tyler Bowyer's weekend X/Twitter activity broadly defending TPUSA against public scrutiny across three discrete matters (SD cards, audits/DoJ, campus footage).",
       "related_artifacts": [
         "A-1220.1",
@@ -642,7 +656,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-41"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1064,11 +1079,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the center of the episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1087,14 +1102,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10016",
       "ref": "N-10016",
       "name": "Hamptons Meeting Pressure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1104,14 +1121,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's donor-pressure remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1121,14 +1140,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place at the center of the donor-pressure and sermon discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1143,14 +1163,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@type": "Event",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1164,36 +1186,19 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10104",
-      "ref": "N-10104",
-      "name": "Catholic Conversion Rumor",
-      "type": "investigation_target",
-      "description": "Existing topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1329",
-        "C-1330",
-        "C-1336",
-        "C-1337",
-        "C-1338",
-        "C-1340"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10117",
-      "ref": "N-10117",
+      "@type": "Topic",
+      "@id": "N-10113",
+      "ref": "N-10113",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1203,14 +1208,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@type": "Topic",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1225,14 +1231,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@type": "Topic",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1242,14 +1249,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10230",
-      "ref": "N-10230",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10217",
+      "ref": "N-10217",
       "name": "Saint Michael Pendant / Charlie Catholic-Curious Status",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1259,14 +1267,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10100"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@type": "Topic",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1280,14 +1290,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@type": "Topic",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1297,14 +1308,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10662",
-      "ref": "N-10662",
+      "@type": "Topic",
+      "@id": "N-10604",
+      "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1314,14 +1326,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10810",
-      "ref": "N-10810",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10734",
+      "ref": "N-10734",
       "name": "SD Card Chain-of-Custody Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1333,12 +1346,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11096",
-      "ref": "N-11096",
+      "@id": "N-11014",
+      "ref": "N-11014",
       "name": "TikTok Israel Moderation Claim",
       "type": "topic",
       "description": "The host's claims that TikTok's moderation involves IDF-linked personnel and Netanyahu's stated aim to take over TikTok, and a reported ban on the juice box emoji.",
@@ -1351,12 +1365,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11097",
-      "ref": "N-11097",
+      "@id": "N-11015",
+      "ref": "N-11015",
       "name": "TPUSA Post-Assassination Fundraising Claim",
       "type": "topic",
       "description": "The host's claim that Turning Point USA raised tens of millions of dollars in the two weeks after the assassination.",
@@ -1368,12 +1383,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11098",
-      "ref": "N-11098",
+      "@id": "N-11016",
+      "ref": "N-11016",
       "name": "Alex Clark WSJ Memorial Photo Controversy",
       "type": "topic",
       "description": "The host's criticism of Alex Clark's Wall Street Journal profile photo taken at the Kirk memorial site, with the quotes in the article.",
@@ -1387,12 +1403,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11099",
-      "ref": "N-11099",
+      "@id": "N-11017",
+      "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
       "type": "topic",
       "description": "The host's statement that an Australian court heard her visa arguments and a decision is pending.",
@@ -1404,7 +1421,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1434,7 +1452,7 @@
         "A-1220.1"
       ],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:24:03",
@@ -1456,7 +1474,7 @@
         "A-1220.3"
       ],
       "related_nodes": [
-        "N-10165"
+        "N-10158"
       ],
       "tags": [],
       "claim_timestamp": "00:26:20",
@@ -1493,7 +1511,7 @@
         "A-1221.1"
       ],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:22:06",
@@ -1517,7 +1535,7 @@
         "A-1221.1"
       ],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:24:03",
@@ -1535,7 +1553,7 @@
       "claim": "The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he told her his instinct was to secure the footage so Erika would not have to see it again, and that he never mentioned police officers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:25:00",
@@ -1559,7 +1577,7 @@
         "A-1222.1"
       ],
       "related_nodes": [
-        "N-10166"
+        "N-10159"
       ],
       "tags": [],
       "claim_timestamp": "00:37:10",
@@ -1580,7 +1598,7 @@
         "A-1222.1"
       ],
       "related_nodes": [
-        "N-10166"
+        "N-10159"
       ],
       "tags": [],
       "claim_timestamp": "00:38:03",
@@ -1602,7 +1620,7 @@
         "A-1224.1"
       ],
       "related_nodes": [
-        "N-10166"
+        "N-10159"
       ],
       "tags": [],
       "claim_timestamp": "00:13:08",
@@ -1622,8 +1640,8 @@
         "A-1225.1"
       ],
       "related_nodes": [
-        "N-10163",
-        "N-10164"
+        "N-10157",
+        "N-10100"
       ],
       "tags": [],
       "claim_timestamp": "00:16:50",
@@ -1644,8 +1662,8 @@
         "A-1225.2"
       ],
       "related_nodes": [
-        "N-10163",
-        "N-10164"
+        "N-10157",
+        "N-10100"
       ],
       "tags": [],
       "claim_timestamp": "00:16:50",
@@ -1664,7 +1682,7 @@
         "A-1225.4"
       ],
       "related_nodes": [
-        "N-10163"
+        "N-10157"
       ],
       "tags": [],
       "claim_timestamp": "00:17:45",
@@ -1802,8 +1820,8 @@
       "claim": "The host says she told viewers Catholics hoped Charlie Kirk would take the next step because he was praying the rosary, that she never said he converted, and that a coordinated-feeling wave of videos disputed her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10350"
+        "N-10100",
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -1824,7 +1842,7 @@
       "claim": "The host says that after her remarks on Kirk's spiritual changes a bunch of videos were suddenly made saying he was evangelical to his core, which she says felt coordinated and fake.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
+        "N-10100",
         "N-10000"
       ],
       "tags": [
@@ -1846,8 +1864,8 @@
       "claim": "The host says Charlie Kirk attended mass weekly and sometimes daily.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10164",
-        "N-10350"
+        "N-10100",
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -1867,7 +1885,7 @@
       "claim": "The host says Charlie Kirk was not attending Pastor Rob McCoy's church.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10164"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -1888,7 +1906,7 @@
       "claim": "The host says Charlie Kirk was wearing a Saint Michael pendant when he died and says this and related points are indisputable facts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10230"
+        "N-10217"
       ],
       "tags": [
         "relevance:core"
@@ -1908,7 +1926,7 @@
       "claim": "The host says it has been publicized that Erika Kirk took a Catholic bishop with her to pray over Charlie Kirk's body on the day he died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10164"
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -1929,7 +1947,7 @@
       "claim": "The host says Megyn Kelly presented that a few weeks before his death Erika Kirk had a priest come over to pray over the couple after witches put a hex on Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10117"
+        "N-10113"
       ],
       "tags": [
         "relevance:context"
@@ -1954,7 +1972,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -1979,7 +1997,7 @@
         "A-2814.1"
       ],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2006,7 +2024,7 @@
         "A-2814.1"
       ],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2030,7 +2048,7 @@
         "A-2814.1"
       ],
       "related_nodes": [
-        "N-10350"
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -2056,7 +2074,7 @@
         "A-2814.1"
       ],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2081,7 +2099,7 @@
         "A-2815.1"
       ],
       "related_nodes": [
-        "N-10350"
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -2103,7 +2121,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10350"
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -2126,7 +2144,7 @@
         "A-1224.1"
       ],
       "related_nodes": [
-        "N-10166"
+        "N-10159"
       ],
       "tags": [
         "relevance:core"
@@ -2150,7 +2168,7 @@
         "A-1224.1"
       ],
       "related_nodes": [
-        "N-10166",
+        "N-10159",
         "N-10000"
       ],
       "tags": [
@@ -2174,8 +2192,8 @@
         "A-1224.1"
       ],
       "related_nodes": [
-        "N-10166",
-        "N-10398"
+        "N-10159",
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -2199,7 +2217,7 @@
         "A-1225.1"
       ],
       "related_nodes": [
-        "N-10163",
+        "N-10157",
         "N-10026"
       ],
       "tags": [
@@ -2224,7 +2242,7 @@
         "A-1225.1"
       ],
       "related_nodes": [
-        "N-10163"
+        "N-10157"
       ],
       "tags": [
         "relevance:core"
@@ -2249,7 +2267,7 @@
       ],
       "related_nodes": [
         "N-10016",
-        "N-10163"
+        "N-10157"
       ],
       "tags": [
         "relevance:core"
@@ -2272,7 +2290,7 @@
         "A-1225.3"
       ],
       "related_nodes": [
-        "N-10163"
+        "N-10157"
       ],
       "tags": [
         "relevance:core"
@@ -2315,8 +2333,8 @@
       "claim": "The host says TPUSA wants the public to see it as normal that four minutes after Charlie Kirk was shot someone on their team nervously raced to grab the SD cards from the camera behind Kirk's head, and that he stood on Kirk's chair.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10100",
-        "N-10810"
+        "N-10096",
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2342,7 +2360,7 @@
         "A-1221.1"
       ],
       "related_nodes": [
-        "N-10100"
+        "N-10096"
       ],
       "tags": [
         "relevance:context"
@@ -2366,8 +2384,8 @@
         "A-1221.1"
       ],
       "related_nodes": [
-        "N-10100",
-        "N-10810"
+        "N-10096",
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2390,7 +2408,7 @@
         "A-1221.1"
       ],
       "related_nodes": [
-        "N-10100"
+        "N-10096"
       ],
       "tags": [
         "relevance:context"
@@ -2432,8 +2450,8 @@
         "A-1221.1"
       ],
       "related_nodes": [
-        "N-10162",
-        "N-10100"
+        "N-10156",
+        "N-10096"
       ],
       "tags": [
         "relevance:context"
@@ -2457,7 +2475,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10810"
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2479,7 +2497,7 @@
         "A-1220.1"
       ],
       "related_nodes": [
-        "N-10167"
+        "N-10160"
       ],
       "tags": [
         "relevance:context"
@@ -2502,7 +2520,7 @@
         "A-1220.1"
       ],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2528,7 +2546,7 @@
         "A-1220.1"
       ],
       "related_nodes": [
-        "N-10167"
+        "N-10160"
       ],
       "tags": [
         "relevance:context"
@@ -2552,7 +2570,7 @@
         "A-1220.3"
       ],
       "related_nodes": [
-        "N-10165"
+        "N-10158"
       ],
       "tags": [
         "relevance:core"
@@ -2575,7 +2593,7 @@
         "A-1220.3"
       ],
       "related_nodes": [
-        "N-10165"
+        "N-10158"
       ],
       "tags": [
         "relevance:core"
@@ -2598,7 +2616,7 @@
       "claim": "The host says some of the campus footage held is in 4K.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10165"
+        "N-10158"
       ],
       "tags": [
         "relevance:context"
@@ -2640,7 +2658,7 @@
         "A-1223.1"
       ],
       "related_nodes": [
-        "N-10132"
+        "N-10127"
       ],
       "tags": [
         "relevance:core"
@@ -2665,7 +2683,7 @@
       "claim": "The host says Turning Point USA made tens of millions of dollars in the two weeks following Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11097",
+        "N-11015",
         "N-10000"
       ],
       "tags": [
@@ -2689,7 +2707,7 @@
         "A-1222.1"
       ],
       "related_nodes": [
-        "N-11098"
+        "N-11016"
       ],
       "tags": [
         "relevance:core"
@@ -2713,7 +2731,7 @@
         "A-1222.1"
       ],
       "related_nodes": [
-        "N-11098"
+        "N-11016"
       ],
       "tags": [
         "relevance:core"
@@ -2755,7 +2773,7 @@
         "A-1222.1"
       ],
       "related_nodes": [
-        "N-11098"
+        "N-11016"
       ],
       "tags": [
         "relevance:context"
@@ -2799,7 +2817,7 @@
       "claim": "The host says that when she showed Charlie's internal email she read everything related to the DOGE department but not the paragraph where he announced that Justin Streiff would be COO.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132"
+        "N-10127"
       ],
       "tags": [
         "relevance:core"
@@ -2826,7 +2844,7 @@
         "A-1220.2"
       ],
       "related_nodes": [
-        "N-10132"
+        "N-10127"
       ],
       "tags": [
         "relevance:context"
@@ -2848,7 +2866,7 @@
         "A-1220.2"
       ],
       "related_nodes": [
-        "N-10132"
+        "N-10127"
       ],
       "tags": [
         "relevance:context"
@@ -2871,7 +2889,7 @@
       "claim": "The host says she shared a 501c3 lawyer with them, met her in her offices with Charlie, and the lawyer explained the need for an independent auditor.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132"
+        "N-10127"
       ],
       "tags": [
         "relevance:context"
@@ -2892,7 +2910,7 @@
       "claim": "The host says she is hearing some stuff about big organizations and gives, as one example, outsourcing millions to contractors who pay money back, which would escape the IRS but concern a DOGE department; she presents it as an example, not a confirmed finding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
+        "N-10127",
         "N-10000"
       ],
       "tags": [
@@ -2958,7 +2976,7 @@
         "A-1226.1"
       ],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -2979,7 +2997,7 @@
       "claim": "The host, citing a headline, says TikTok's moderation team is like IDF soldiers and that Benjamin Netanyahu said they are taking over TikTok.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11096"
+        "N-11014"
       ],
       "tags": [
         "relevance:tangential"
@@ -3003,7 +3021,7 @@
       "claim": "The host says that, apparently, TikTok is going to ban the juice box emoji that users used because juice can sound like Jews.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11096"
+        "N-11014"
       ],
       "tags": [
         "relevance:tangential"
@@ -3104,7 +3122,7 @@
       "claim": "The host says Australia's court heard her arguments about her visa status, a decision is still awaited, and she has never been in trouble yet cannot travel to Australia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11099"
+        "N-11017"
       ],
       "tags": [
         "relevance:context"
@@ -3125,7 +3143,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10662"
+        "N-10604"
       ],
       "tags": [
         "relevance:tangential"

@@ -33,7 +33,7 @@
             "N-1",
             "N-17",
             "N-205",
-            "N-10207"
+            "N-10199"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -53,7 +53,7 @@
           "related_nodes": [
             "N-17",
             "N-205",
-            "N-10207"
+            "N-10199"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -73,7 +73,7 @@
           "related_nodes": [
             "N-17",
             "N-205",
-            "N-10207"
+            "N-10199"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -94,8 +94,8 @@
           "related_nodes": [
             "N-1",
             "N-190",
-            "N-10207",
-            "N-10211"
+            "N-10199",
+            "N-10203"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,7 +114,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10207"
+            "N-10199"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,7 +133,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10207"
+            "N-10199"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,8 +152,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10207",
-            "N-10211"
+            "N-10199",
+            "N-10203"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,8 +172,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10207",
-            "N-10211"
+            "N-10199",
+            "N-10203"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -193,7 +193,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10207"
+            "N-10199"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,7 +221,7 @@
           "related_nodes": [
             "N-17",
             "N-205",
-            "N-10208"
+            "N-10200"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -240,7 +240,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10208"
+            "N-10200"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,7 +259,7 @@
             "C-2114"
           ],
           "related_nodes": [
-            "N-10208"
+            "N-10200"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -279,7 +279,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10208"
+            "N-10200"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -307,7 +307,7 @@
           "related_nodes": [
             "N-1",
             "N-190",
-            "N-10211"
+            "N-10203"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -334,7 +334,7 @@
           ],
           "related_nodes": [
             "N-190",
-            "N-10212"
+            "N-10204"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -361,8 +361,8 @@
           ],
           "related_nodes": [
             "N-205",
-            "N-10209",
-            "N-10214"
+            "N-10201",
+            "N-10206"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -388,7 +388,7 @@
             "C-2168"
           ],
           "related_nodes": [
-            "N-10209"
+            "N-10201"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,7 +407,7 @@
           ],
           "related_nodes": [
             "N-208",
-            "N-10209"
+            "N-10201"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -461,7 +461,7 @@
           "related_nodes": [
             "N-17",
             "N-205",
-            "N-10209"
+            "N-10201"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -480,7 +480,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10215"
+            "N-10199"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -510,8 +510,8 @@
             "N-17",
             "N-205",
             "N-66",
-            "N-10209",
-            "N-10210"
+            "N-10201",
+            "N-10202"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -538,7 +538,7 @@
           ],
           "related_nodes": [
             "N-207",
-            "N-10214"
+            "N-10206"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -567,7 +567,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10215"
+            "N-10199"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -594,7 +594,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-10213"
+            "N-10205"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -622,7 +622,7 @@
           "related_nodes": [
             "N-1",
             "N-36",
-            "N-10209"
+            "N-10201"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -651,7 +651,7 @@
           "related_nodes": [
             "N-1",
             "N-22",
-            "N-10209"
+            "N-10201"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -796,19 +796,42 @@
   ],
   "nodes": [
     {
-      "@type": "Topic",
-      "@id": "N-10215",
-      "ref": "N-10215",
-      "name": "SUBTT (Falcon 7X, Egyptian-registered) tracked into U.S. cities between 2022 and 2025, repeatedly landing in proximity t",
-      "type": "topic",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10199",
+      "ref": "N-10199",
+      "name": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
+      "type": "investigation_question",
       "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1301.1",
+        "A-1301.2",
+        "A-1301.3",
+        "A-1301.4",
+        "A-1301.5",
+        "A-1301.6",
+        "A-1301.7",
+        "A-1301.8",
+        "A-1301.9"
+      ],
+      "related_claims": [
+        "C-2074",
+        "C-2107",
+        "C-2139",
+        "C-2167"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-17",
+        "N-205",
+        "N-209"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
       "@type": "Person",
@@ -877,10 +900,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10207",
-        "N-10208",
-        "N-10209",
-        "N-10215"
+        "N-10199",
+        "N-10200",
+        "N-10201"
       ]
     },
     {
@@ -909,8 +931,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-205",
-        "N-10209",
-        "N-10213"
+        "N-10201",
+        "N-10205"
       ]
     },
     {
@@ -934,7 +956,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10212"
+        "N-10204"
       ]
     },
     {
@@ -964,8 +986,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-17",
-        "N-10209",
-        "N-10214"
+        "N-10201",
+        "N-10206"
       ]
     },
     {
@@ -989,7 +1011,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10209"
+        "N-10201"
       ]
     },
     {
@@ -1011,7 +1033,7 @@
       "related_nodes": [
         "N-1",
         "N-36",
-        "N-10209"
+        "N-10201"
       ]
     },
     {
@@ -1034,7 +1056,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-205",
-        "N-10210"
+        "N-10202"
       ]
     },
     {
@@ -1059,7 +1081,7 @@
       "related_nodes": [
         "N-1",
         "N-14",
-        "N-10209"
+        "N-10201"
       ]
     },
     {
@@ -1081,7 +1103,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10214"
+        "N-10206"
       ]
     },
     {
@@ -1103,7 +1125,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ]
     },
     {
@@ -1124,52 +1146,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10207",
-        "N-10208"
+        "N-10199",
+        "N-10200"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10207",
-      "ref": "N-10207",
-      "name": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
-      "type": "investigation_target",
-      "description": "Persistent investigative target across 2022–2025 relating to the host's claim that the aircraft's itinerary repeatedly coincides with TPUSA, TPUSA Faith, and Charlie Kirk locations.",
-      "related_artifacts": [
-        "A-1301.1",
-        "A-1301.2",
-        "A-1301.3",
-        "A-1301.4",
-        "A-1301.5",
-        "A-1301.6",
-        "A-1301.7",
-        "A-1301.8",
-        "A-1301.9"
-      ],
-      "related_claims": [
-        "C-2074",
-        "C-2107",
-        "C-2139",
-        "C-2167"
-      ],
-      "tags": [],
-      "evidence_count": 9,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1",
-        "N-17",
-        "N-205",
-        "N-209"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10208",
-      "ref": "N-10208",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10200",
+      "ref": "N-10200",
       "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Secondary Egyptian plane tracked by host; arrival/departure pattern around TPUSA / Charlie Kirk locations and post-assassination departure via Canada → Paris → Cairo.",
       "related_artifacts": [
         "A-1302.1",
@@ -1190,14 +1176,16 @@
       "related_nodes": [
         "N-1",
         "N-209"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Composite investigative target covering TPUSA Faith leadership (Rob McCoy, Sean Feucht), Tucker Carlson speech fallout, Netanyahu outreach, Jack Hibbs silence, and Village Crazy Lady NAR research.",
       "related_artifacts": [
         "A-1305.1",
@@ -1231,22 +1219,24 @@
         "N-14",
         "N-36",
         "N-208",
-        "N-10210",
-        "N-10212"
-      ]
+        "N-10202",
+        "N-10204"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10210",
-      "ref": "N-10210",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10202",
+      "ref": "N-10202",
       "name": "NAR (New Apostolic Reformation) Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target initiated by host and Village Crazy Lady regarding NAR's connection to TPUSA Faith leadership.",
       "related_artifacts": [
         "A-1307.1"
       ],
       "related_claims": [
-        "C-2086"
+        "C-2086",
+        "C-2087"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1256,15 +1246,17 @@
       "related_nodes": [
         "N-205",
         "N-66",
-        "N-10209"
-      ]
+        "N-10201"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10201"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10211",
-      "ref": "N-10211",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10203",
+      "ref": "N-10203",
       "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark – see Flag on A-1303.1).",
       "related_artifacts": [
         "A-1301.4",
@@ -1283,14 +1275,16 @@
       "related_nodes": [
         "N-1",
         "N-190"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10212",
-      "ref": "N-10212",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10204",
+      "ref": "N-10204",
       "name": "TPUSA Financial Irregularities Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Composite investigative target covering Mikey McCoy's promotion, host's claim that Charlie did not know the source of TPUSA funding, and the broader money-laundering framing.",
       "related_artifacts": [
         "A-1304.1"
@@ -1306,16 +1300,18 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-190",
-        "N-10209",
-        "N-10214"
-      ]
+        "N-10201",
+        "N-10206"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10075"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10213",
-      "ref": "N-10213",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10205",
+      "ref": "N-10205",
       "name": "Rob McCoy / Tyler Bowyer Background Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target combining host's claims regarding Rob McCoy's connection to the Borderline Bar shooting and Tyler Bowyer's biography, internships, and Arizona political activity.",
       "related_artifacts": [
         "A-1310.1"
@@ -1331,14 +1327,15 @@
       "related_nodes": [
         "N-17",
         "N-41"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10214",
-      "ref": "N-10214",
+      "@type": "Topic",
+      "@id": "N-10206",
+      "ref": "N-10206",
       "name": "Mega-Church / Cash / Real-Estate Money Flow Hypothesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target arising from host's framing of cash-discovery patterns (Osteen), TPUSA Faith financial allegations (Feucht), and Mormon real-estate cash purchase patterns.",
       "related_artifacts": [
         "A-1305.1",
@@ -1356,8 +1353,9 @@
       "related_nodes": [
         "N-205",
         "N-207",
-        "N-10212"
-      ]
+        "N-10204"
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1762,11 +1760,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose events, staff and money the host ties to the plane visits.",
       "related_artifacts": [],
       "related_claims": [
@@ -1793,14 +1791,16 @@
       "evidence_count": 0,
       "claim_count": 18,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the shooting; the host says its president majored in Soviet studies.",
       "related_artifacts": [],
       "related_claims": [
@@ -1810,14 +1810,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1827,14 +1829,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place; subject of Bowyer's pro-Israel statement and the host's sweeping claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1847,14 +1851,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10031",
       "ref": "N-10031",
       "name": "33-Hour Surrender Timeline Signal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the 33 numerology claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1864,14 +1870,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10022"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10033",
-      "ref": "N-10033",
-      "name": "Hamptons Donor Pressure Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10016",
+      "ref": "N-10016",
+      "name": "Hamptons Meeting Pressure Investigation",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Carlson speech and donor anger claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1883,14 +1891,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@type": "Topic",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for claims on Kirk's Israel position.",
       "related_artifacts": [],
       "related_claims": [
@@ -1902,14 +1912,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place named in the host's closing claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1919,14 +1930,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@type": "Place",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place where both Egyptian planes met in April 2024 and September 2025.",
       "related_artifacts": [],
       "related_claims": [
@@ -1938,14 +1950,17 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10094",
-      "ref": "N-10094",
+      "@type": "Organization",
+      "@id": "N-10090",
+      "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host characterizes as a real estate empire and as TPUSA's real character.",
       "related_artifacts": [],
       "related_claims": [
@@ -1956,14 +1971,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10115",
-      "ref": "N-10115",
+      "@type": "Topic",
+      "@id": "N-10111",
+      "ref": "N-10111",
       "name": "Soviet Education Infiltration",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Soviet studies claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1974,14 +1991,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10125",
-      "ref": "N-10125",
+      "@type": "Place",
+      "@id": "N-10120",
+      "ref": "N-10120",
       "name": "Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place of Kirk's University of Utah event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1991,14 +2009,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "State",
+      "wikidata_class": "Q35657"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@type": "Organization",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says pushed guests to her.",
       "related_artifacts": [],
       "related_claims": [
@@ -2009,14 +2029,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@type": "Topic",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Patel claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2026,14 +2048,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10218",
-      "ref": "N-10218",
-      "name": "McCoy Succession Plan",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10186",
+      "ref": "N-10186",
+      "name": "TPUSA Succession Plan Disclosure Timeline",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Mikey McCoy succession claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2043,31 +2066,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10242",
-      "ref": "N-10242",
-      "name": "Seven Mountain Mandate / NAR Influence on TPUSA Faith",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the Che Ahn claim.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2087"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the plane claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2081,14 +2088,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10266",
-      "ref": "N-10266",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10250",
+      "ref": "N-10250",
       "name": "SUBTT Wilmington Visit Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Delaware routing claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2099,14 +2107,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Netanyahu claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2116,14 +2126,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Dillon claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2134,14 +2145,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@type": "Topic",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the manifest claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2151,14 +2164,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@type": "Topic",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for TPUSA Faith events and personnel.",
       "related_artifacts": [],
       "related_claims": [
@@ -2174,14 +2188,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the military shooting musing.",
       "related_artifacts": [],
       "related_claims": [
@@ -2191,14 +2206,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10673",
-      "ref": "N-10673",
-      "name": "Hamptons August 5–7 Intervention Event",
-      "type": "investigation_target",
+      "@type": "Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
+      "name": "Hamptons Weekend Retreat",
+      "type": "event",
       "description": "Existing topic reused for the intervention claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2209,14 +2225,18 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11059",
-      "ref": "N-11059",
+      "@type": "Topic",
+      "@id": "N-10977",
+      "ref": "N-10977",
       "name": "Russian-Speaking Turning Point Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Russian speaker claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2227,14 +2247,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11094",
-      "ref": "N-11094",
+      "@type": "Thing",
+      "@id": "N-11012",
+      "ref": "N-11012",
       "name": "Kash Patel August 17 Omaha Trip FOIA Response",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the August 17 plane claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2244,14 +2265,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork",
+      "parent": "N-10194"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11129",
-      "ref": "N-11129",
+      "@type": "Organization",
+      "@id": "N-11047",
+      "ref": "N-11047",
       "name": "Freemasonry",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for the 33 lodge claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2261,14 +2284,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11171",
-      "ref": "N-11171",
+      "@type": "Topic",
+      "@id": "N-11087",
+      "ref": "N-11087",
       "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the funding opacity claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2279,7 +2304,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -2317,8 +2343,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11327",
-      "ref": "N-11327",
+      "@id": "N-11243",
+      "ref": "N-11243",
       "name": "Project Veritas",
       "type": "organization",
       "description": "Organization founded by James O'Keefe; the host says he was ousted in a January takeover that Kirk publicly supported and that people involved were tied to TPUSA.",
@@ -2331,14 +2357,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11328",
-      "ref": "N-11328",
+      "@type": "Event",
+      "@id": "N-11244",
+      "ref": "N-11244",
       "name": "Covenant School Nashville Shooting",
-      "type": "topic",
+      "type": "event",
       "description": "The March 2023 shooting at Covenant Elementary School in Nashville that the host places during the first TPUSA Faith Pastor Summit and says the feds covered up.",
       "related_artifacts": [],
       "related_claims": [
@@ -2350,14 +2378,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11329",
-      "ref": "N-11329",
+      "@type": "InvestigationQuestion",
+      "@id": "N-11245",
+      "ref": "N-11245",
       "name": "Scottsdale Jets to Salt Lake City on September 10 Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The two planes the host says flew out of Scottsdale on the day of the shooting, including N102DZ to Salt Lake City, and the open question of who was aboard.",
       "related_artifacts": [],
       "related_claims": [
@@ -2370,12 +2400,13 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11330",
-      "ref": "N-11330",
+      "@id": "N-11246",
+      "ref": "N-11246",
       "name": "Kingdom to the Capitol Tour Plane Overlap Pattern",
       "type": "topic",
       "description": "The host's claim that each Egyptian plane visit in 2023 coincided with a TPUSA Faith Kingdom to the Capital event headed by Sean Feucht.",
@@ -2391,7 +2422,8 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -2413,7 +2445,7 @@
         "A-1301.9"
       ],
       "related_nodes": [
-        "N-10207"
+        "N-10199"
       ],
       "tags": [],
       "claim_timestamp": "00:05:35",
@@ -2435,7 +2467,7 @@
         "A-1302.4"
       ],
       "related_nodes": [
-        "N-10208"
+        "N-10200"
       ],
       "tags": [],
       "claim_timestamp": "00:09:38",
@@ -2451,7 +2483,7 @@
         "A-1304.1"
       ],
       "related_nodes": [
-        "N-10212"
+        "N-10204"
       ],
       "tags": [],
       "claim_timestamp": "00:19:50",
@@ -2470,7 +2502,7 @@
         "A-1303.1"
       ],
       "related_nodes": [
-        "N-10211"
+        "N-10203"
       ],
       "tags": [],
       "claim_timestamp": "00:20:57",
@@ -2490,8 +2522,8 @@
         "A-1306.5"
       ],
       "related_nodes": [
-        "N-10209",
-        "N-10214"
+        "N-10201",
+        "N-10206"
       ],
       "tags": [],
       "claim_timestamp": "00:26:47",
@@ -2510,7 +2542,7 @@
         "A-1302.3"
       ],
       "related_nodes": [
-        "N-10208"
+        "N-10200"
       ],
       "tags": [],
       "claim_timestamp": "00:26:10",
@@ -2526,7 +2558,7 @@
         "A-1301.9"
       ],
       "related_nodes": [
-        "N-10207"
+        "N-10199"
       ],
       "tags": [],
       "claim_timestamp": "00:39:39",
@@ -2543,7 +2575,7 @@
         "A-1302.4"
       ],
       "related_nodes": [
-        "N-10208"
+        "N-10200"
       ],
       "tags": [],
       "claim_timestamp": "00:40:05",
@@ -2562,9 +2594,9 @@
         "A-1306.4"
       ],
       "related_nodes": [
-        "N-10207",
-        "N-10208",
-        "N-10209"
+        "N-10199",
+        "N-10200",
+        "N-10201"
       ],
       "tags": [],
       "claim_timestamp": "01:01:33",
@@ -2580,7 +2612,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-10215"
+        "N-10199"
       ],
       "tags": [],
       "claim_timestamp": "00:42:24",
@@ -2599,7 +2631,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-10215"
+        "N-10199"
       ],
       "tags": [],
       "claim_timestamp": "00:43:20",
@@ -2616,7 +2648,7 @@
         "A-1310.1"
       ],
       "related_nodes": [
-        "N-10213"
+        "N-10205"
       ],
       "tags": [],
       "claim_timestamp": "00:16:00",
@@ -2632,7 +2664,7 @@
         "A-1311.1"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [],
       "claim_timestamp": "00:36:19",
@@ -2652,7 +2684,7 @@
         "A-1308.1"
       ],
       "related_nodes": [
-        "N-10214"
+        "N-10206"
       ],
       "tags": [],
       "claim_timestamp": "00:28:45",
@@ -2671,7 +2703,7 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [],
       "claim_timestamp": "00:31:35",
@@ -2692,7 +2724,7 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [],
       "claim_timestamp": "00:32:39",
@@ -2713,7 +2745,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-10215"
+        "N-10199"
       ],
       "tags": [],
       "claim_timestamp": "00:59:11",
@@ -2732,7 +2764,7 @@
         "A-1311.1"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [],
       "claim_timestamp": "00:37:15",
@@ -2753,7 +2785,7 @@
         "A-1304.1"
       ],
       "related_nodes": [
-        "N-10212"
+        "N-10204"
       ],
       "tags": [],
       "claim_timestamp": "00:37:20",
@@ -2774,7 +2806,7 @@
         "A-1306.3"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [],
       "claim_timestamp": "00:59:11",
@@ -2793,7 +2825,7 @@
         "A-1306.5"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [],
       "claim_timestamp": "01:01:33",
@@ -2814,8 +2846,8 @@
         "A-1307.1"
       ],
       "related_nodes": [
-        "N-10209",
-        "N-10210"
+        "N-10201",
+        "N-10202"
       ],
       "tags": [],
       "claim_timestamp": "00:11:38",
@@ -2834,7 +2866,7 @@
       "claim": "The host states that Rob McCoy was in Nashville when the trans shooting happened and was close to Charlie Kirk when he was shot, that he says \"I was his pastor,\" and that she says McCoy has terrible luck, adding she does not mean he shot anybody.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10213"
+        "N-10205"
       ],
       "tags": [],
       "claim_timestamp": "00:14:58",
@@ -2886,7 +2918,7 @@
       "claim": "The host says she thinks that after this episode viewers will recognize there is irrefutable proof that foreign actors were involved in the assassination, which she says implies the government knows.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2953,8 +2985,8 @@
       "claim": "The host says she had tweeted about the Egyptian military plane, recognizing that it was not normal that it had departed on the morning of Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10207",
-        "N-10253"
+        "N-10199",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2978,8 +3010,8 @@
       "claim": "The host says she made the mistake of thinking the Egyptian plane departed in the afternoon, that a critic's correction then trended as 'Egyptian plane debunked', and that it was not debunked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10207",
-        "N-10253"
+        "N-10199",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -3002,8 +3034,8 @@
       "claim": "The host says a foreigner told her the people who came in on the plane were not the people who went out, estimating roughly 18 people on the arriving flight and far fewer on the return.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10207",
-        "N-10253"
+        "N-10199",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -3029,8 +3061,8 @@
         "A-1301.6"
       ],
       "related_nodes": [
-        "N-10207",
-        "N-10074"
+        "N-10199",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -3053,8 +3085,8 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-10207",
-        "N-10208",
+        "N-10199",
+        "N-10200",
         "N-10000"
       ],
       "tags": [
@@ -3081,8 +3113,8 @@
         "A-1302.1"
       ],
       "related_nodes": [
-        "N-10207",
-        "N-10208"
+        "N-10199",
+        "N-10200"
       ],
       "tags": [
         "relevance:context"
@@ -3104,7 +3136,7 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-10207"
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -3150,7 +3182,7 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-10398",
+        "N-10371",
         "N-10026"
       ],
       "tags": [
@@ -3173,7 +3205,7 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-11327",
+        "N-11243",
         "N-10000"
       ],
       "tags": [
@@ -3218,7 +3250,7 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-11327"
+        "N-11243"
       ],
       "tags": [
         "relevance:context"
@@ -3242,7 +3274,7 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -3263,7 +3295,7 @@
       "claim": "The host says many people emailed after the assassination believing Sean Feucht was the man standing and cheering 'USA USA', and she thinks he posted a video denying it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -3306,8 +3338,7 @@
         "A-3199.1"
       ],
       "related_nodes": [
-        "N-10210",
-        "N-10242"
+        "N-10202"
       ],
       "tags": [
         "relevance:context"
@@ -3333,8 +3364,8 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-11330",
-        "N-10398"
+        "N-11246",
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -3357,9 +3388,9 @@
         "A-1302.1"
       ],
       "related_nodes": [
-        "N-11330",
-        "N-10207",
-        "N-10208"
+        "N-11246",
+        "N-10199",
+        "N-10200"
       ],
       "tags": [
         "relevance:core"
@@ -3381,8 +3412,8 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-10398",
-        "N-11328"
+        "N-10371",
+        "N-11244"
       ],
       "tags": [
         "relevance:context"
@@ -3404,7 +3435,7 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-11328"
+        "N-11244"
       ],
       "tags": [
         "relevance:context"
@@ -3424,7 +3455,7 @@
         "A-1310.1"
       ],
       "related_nodes": [
-        "N-10213"
+        "N-10205"
       ],
       "tags": [
         "relevance:context"
@@ -3447,7 +3478,7 @@
         "A-3200.1"
       ],
       "related_nodes": [
-        "N-10213"
+        "N-10205"
       ],
       "tags": [
         "relevance:context"
@@ -3468,7 +3499,7 @@
       "claim": "The host says she is starting to feel that random shootings that are instantly covered up but always involve an army veteran are not that random and that the military may be involved in them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [
         "relevance:tangential"
@@ -3490,7 +3521,7 @@
         "A-3200.1"
       ],
       "related_nodes": [
-        "N-10213"
+        "N-10205"
       ],
       "tags": [
         "relevance:context"
@@ -3512,7 +3543,7 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-11328"
+        "N-11244"
       ],
       "tags": [
         "relevance:context"
@@ -3531,8 +3562,8 @@
         "A-1301.2"
       ],
       "related_nodes": [
-        "N-11330",
-        "N-10207"
+        "N-11246",
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -3555,8 +3586,8 @@
         "A-1301.2"
       ],
       "related_nodes": [
-        "N-10266",
-        "N-10207"
+        "N-10250",
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -3568,7 +3599,7 @@
         "C-2024"
       ],
       "mentions_person_refs": [
-        "N-10207"
+        "N-10199"
       ]
     },
     {
@@ -3581,8 +3612,8 @@
         "A-1301.3"
       ],
       "related_nodes": [
-        "N-11330",
-        "N-10207"
+        "N-11246",
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -3604,9 +3635,9 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-11330",
-        "N-10207",
-        "N-10208"
+        "N-11246",
+        "N-10199",
+        "N-10200"
       ],
       "tags": [
         "relevance:core"
@@ -3673,8 +3704,8 @@
         "A-1301.4"
       ],
       "related_nodes": [
-        "N-10211",
-        "N-10207"
+        "N-10203",
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -3696,8 +3727,8 @@
         "A-1301.4"
       ],
       "related_nodes": [
-        "N-10266",
-        "N-10207"
+        "N-10250",
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -3709,7 +3740,7 @@
         "C-2024"
       ],
       "mentions_person_refs": [
-        "N-10207"
+        "N-10199"
       ]
     },
     {
@@ -3722,7 +3753,7 @@
         "A-1301.5"
       ],
       "related_nodes": [
-        "N-10207"
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -3744,7 +3775,7 @@
         "A-3198.1"
       ],
       "related_nodes": [
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -3767,9 +3798,9 @@
         "A-1302.2"
       ],
       "related_nodes": [
-        "N-10207",
-        "N-10208",
-        "N-10074"
+        "N-10199",
+        "N-10200",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -3788,7 +3819,7 @@
         "A-1301.6"
       ],
       "related_nodes": [
-        "N-10125"
+        "N-10120"
       ],
       "tags": [
         "relevance:core"
@@ -3808,8 +3839,8 @@
       "claim": "The host says that Tulsi Gabbard or Joe Kent, if they are being blocked by Kash Patel as they have stated or as the public figured out, should be able to look into these flights and see who is on the manifests.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10355",
-        "N-10253"
+        "N-10332",
+        "N-10239"
       ],
       "tags": [
         "relevance:context"
@@ -3856,8 +3887,8 @@
       "claim": "The host says that when she looked into the Mormon Church she saw people paying cash for property, paying more than it was worth, and that she knows a thing or two about money laundering.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10094",
-        "N-10214"
+        "N-10090",
+        "N-10206"
       ],
       "tags": [
         "relevance:tangential"
@@ -3879,7 +3910,7 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -3901,8 +3932,8 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-10056",
-        "N-10033"
+        "N-10053",
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -3943,7 +3974,7 @@
       "claim": "The host says that anyone who thinks Turning Point USA is a Christian organization is mistaken because it is a Mormon one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10094",
+        "N-10090",
         "N-10000"
       ],
       "tags": [
@@ -3985,7 +4016,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10056",
+        "N-10053",
         "N-10000"
       ],
       "tags": [
@@ -4009,8 +4040,8 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-10033",
-        "N-10345"
+        "N-10016",
+        "N-10323"
       ],
       "tags": [
         "relevance:core"
@@ -4034,7 +4065,7 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -4060,8 +4091,8 @@
         "A-1301.7"
       ],
       "related_nodes": [
-        "N-10211",
-        "N-10207"
+        "N-10203",
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -4081,7 +4112,7 @@
       "claim": "The host says Charlie Kirk himself described the Hamptons gathering as an intervention staged over his viewpoints on Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10673"
+        "N-10129"
       ],
       "tags": [
         "relevance:core"
@@ -4104,8 +4135,8 @@
       "claim": "The host says people who were there said Seth Dillon was rowdy and pushing Charlie on his views on Israel, and that Dillon is lying about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10345",
-        "N-10673"
+        "N-10323",
+        "N-10129"
       ],
       "tags": [
         "relevance:core"
@@ -4130,7 +4161,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10018",
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -4154,8 +4185,8 @@
       "claim": "The host says that Kirk not knowing where TPUSA's money came from sounds to her like a very sophisticated money laundering operation could have been happening under his nose, and asks forensic accountants to look.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11171",
-        "N-10212"
+        "N-11087",
+        "N-10204"
       ],
       "tags": [
         "relevance:context"
@@ -4180,8 +4211,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10212",
-        "N-11171"
+        "N-10204",
+        "N-11087"
       ],
       "tags": [
         "relevance:core"
@@ -4206,9 +4237,9 @@
         "A-1301.8"
       ],
       "related_nodes": [
-        "N-10211",
-        "N-11094",
-        "N-10207"
+        "N-10203",
+        "N-11012",
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -4230,8 +4261,8 @@
         "A-1301.9"
       ],
       "related_nodes": [
-        "N-10207",
-        "N-10074"
+        "N-10199",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -4243,7 +4274,7 @@
         "C-2025"
       ],
       "mentions_person_refs": [
-        "N-10074"
+        "N-10071"
       ]
     },
     {
@@ -4256,7 +4287,7 @@
         "A-1301.9"
       ],
       "related_nodes": [
-        "N-10207"
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -4281,7 +4312,7 @@
         "A-3197.1"
       ],
       "related_nodes": [
-        "N-11329"
+        "N-11245"
       ],
       "tags": [
         "relevance:core"
@@ -4303,7 +4334,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-11329"
+        "N-11245"
       ],
       "tags": [
         "relevance:core"
@@ -4325,7 +4356,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-11329"
+        "N-11245"
       ],
       "tags": [
         "relevance:core"
@@ -4347,7 +4378,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-11329"
+        "N-11245"
       ],
       "tags": [
         "relevance:core"
@@ -4367,7 +4398,7 @@
       "claim": "The host says many of the people who work for TPUSA and are not at the top felt Mikey McCoy was being positioned to take over for Charlie Kirk, which she says she never covered because feelings are not facts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218",
+        "N-10186",
         "N-10000"
       ],
       "tags": [
@@ -4458,7 +4489,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10115"
+        "N-10111"
       ],
       "tags": [
         "relevance:context"
@@ -4481,8 +4512,8 @@
       "claim": "The host says Tyler Bowyer majored in Soviet studies, is a fluent Russian speaker, and spent years.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11059",
-        "N-10115"
+        "N-10977",
+        "N-10111"
       ],
       "tags": [
         "relevance:context"
@@ -4502,7 +4533,7 @@
       "claim": "The host says Tyler Bowyer was involved with orphanages in Ukraine and posted years ago, around ten years ago, about helping Russian-speaking orphans.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11059"
+        "N-10977"
       ],
       "tags": [
         "relevance:context"
@@ -4522,7 +4553,7 @@
       "claim": "The host says Charlie Kirk had Kash Patel on his show and fought for Patel to become FBI director.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:context"
@@ -4544,7 +4575,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10031",
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:core"
@@ -4605,7 +4636,7 @@
       "claim": "The host says evangelical and megachurch influencers are mum on Charlie Kirk, want to move on, and want it known that it was just a trans shooter.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -4645,7 +4676,7 @@
       "claim": "The host says TPUSA-aligned figures are attacking Tucker Carlson because he is attacking Christian Zionism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -4665,8 +4696,8 @@
       "claim": "The host says they are angry at Charlie because it looks like he might get off the Christian Zionist reservation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10209",
-        "N-10056"
+        "N-10201",
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -4730,7 +4761,7 @@
       "claim": "The host says Pastor Jack Hibbs was another person PragerU was pushing to her, wanting her to interview him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -4751,7 +4782,7 @@
       "claim": "The host says Jack Hibbs was also part of Turning Point USA Faith events and that she is now looking at TPUSA Faith sideways.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -4771,7 +4802,7 @@
       "claim": "The host says that PragerU wanted her to platform Lila Rose, Jack Hibbs and Tim Ballard, that she now thinks it was part of an operation, and that she had handlers directing her and never questioned them until today.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -4794,7 +4825,7 @@
       "claim": "The host, discussing Jack Hibbs and TPUSA Faith, says \"he doesn't even care about the allegations against Sean Feucht,\" asks what they are doing, says they are just going to keep working with Feucht, and then names Rob McCoy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -4819,7 +4850,7 @@
       "claim": "The host says there has definitely been an infiltration of TPUSA and that Christian Zionists are at the helm of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -4861,7 +4892,7 @@
       "claim": "The host says what has happened in Gaza has been going on since 1948 and is an effective holocaust by the legal definition, which Norman Finkelstein will explain.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [
         "relevance:tangential"

@@ -59,7 +59,7 @@
           "related_nodes": [
             "N-69",
             "N-46",
-            "N-10316"
+            "N-10297"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -87,7 +87,7 @@
           ],
           "related_nodes": [
             "N-312",
-            "N-10317"
+            "N-10298"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
           ],
           "related_nodes": [
             "N-316",
-            "N-10319",
+            "N-10300",
             "N-66",
             "N-188"
           ],
@@ -261,7 +261,7 @@
             "C-3789"
           ],
           "related_nodes": [
-            "N-10322"
+            "N-10302"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -280,7 +280,7 @@
             "C-3788"
           ],
           "related_nodes": [
-            "N-10321"
+            "N-10301"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -310,7 +310,7 @@
           "related_nodes": [
             "N-3",
             "N-312",
-            "N-10317"
+            "N-10298"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -414,7 +414,7 @@
           "related_nodes": [
             "N-1",
             "N-270",
-            "N-10320"
+            "N-10318"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -439,8 +439,8 @@
             "C-3794"
           ],
           "related_nodes": [
-            "N-11336",
-            "N-11337"
+            "N-11252",
+            "N-11253"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -495,7 +495,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-46",
-        "N-10316"
+        "N-10297"
       ]
     },
     {
@@ -546,7 +546,7 @@
         "N-313",
         "N-314",
         "N-315",
-        "N-10317"
+        "N-10298"
       ]
     },
     {
@@ -637,7 +637,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ]
     },
     {
@@ -656,7 +656,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-10320"
+        "N-10318"
       ]
     },
     {
@@ -753,11 +753,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10316",
-      "ref": "N-10316",
+      "@type": "Topic",
+      "@id": "N-10297",
+      "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigation target; this episode adds Kash Patel's non-denial under direct questioning on camera.",
       "related_artifacts": [
         "A-1514.1"
@@ -773,14 +773,15 @@
       "related_nodes": [
         "N-69",
         "N-46"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10317",
-      "ref": "N-10317",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10298",
+      "ref": "N-10298",
       "name": "Pierre Falcone / Turning Point USA Connection Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Unverified tip received by host asserting a meeting occurred between TPUSA personnel and Pierre Falcone; requires verification.",
       "related_artifacts": [
         "A-1515.1",
@@ -798,14 +799,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-312"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10304"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10318",
-      "ref": "N-10318",
+      "@type": "Topic",
+      "@id": "N-10299",
+      "ref": "N-10299",
       "name": "Operation Mockingbird 2.0 Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host framing premise comparing current media posture regarding the Kirk assassination to the CIA's Operation Mockingbird following JFK. Not artifact-backed in this episode.",
       "related_artifacts": [],
       "related_claims": [],
@@ -816,14 +819,16 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-3"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10058"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10319",
-      "ref": "N-10319",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target regarding the official ballistics account of the Kirk shooting; this episode adds the Jesse Kege / One Shot TV demonstration as a third-party test.",
       "related_artifacts": [
         "A-1516.1"
@@ -839,17 +844,21 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-316"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10320",
-      "ref": "N-10320",
-      "name": "Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_question",
       "description": "Investigation target regarding Charlie Kirk's communications the night before the shooting, including alleged direct statement to Dan Flood that \"they are going to kill me tomorrow,\" and messages to a donor and a TPUSA staffer.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3767",
+        "C-3768"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -858,14 +867,15 @@
       "related_nodes": [
         "N-1",
         "N-270"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10321",
-      "ref": "N-10321",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10301",
+      "ref": "N-10301",
       "name": "TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target raised via viewer comment; DOJ audit referenced as cancelled.",
       "related_artifacts": [
         "A-1518.6"
@@ -878,14 +888,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10322",
-      "ref": "N-10322",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10302",
+      "ref": "N-10302",
       "name": "Charlie Kirk Life Insurance Policy & Beneficiary",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target including $1.5M amount and corporate implications; Daily Mail cited as breaking the story.",
       "related_artifacts": [
         "A-1518.5"
@@ -897,14 +908,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10323",
-      "ref": "N-10323",
-      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
+      "type": "investigation_question",
       "description": "Investigation target; viewer social media speculation that Charlie Kirk has not yet been buried, contrasted with host's statement that he had a Catholic funeral mass.",
       "related_artifacts": [],
       "related_claims": [],
@@ -915,14 +927,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent political issue referenced via the Milo Yiannopoulos / Tim Pool / George Santos segment.",
       "related_artifacts": [],
       "related_claims": [],
@@ -931,14 +944,15 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10325",
-      "ref": "N-10325",
+      "@type": "Topic",
+      "@id": "N-10304",
+      "ref": "N-10304",
       "name": "Global Trafficking Angle in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host's hypothesis (artifact-anchored to the Pierre Falcone / Angolagate tip) that Charlie Kirk's organization was being approached for trafficking-related cooperation; remains framing/speculative until verified.",
       "related_artifacts": [
         "A-1515.1",
@@ -952,8 +966,9 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-312",
-        "N-10317"
-      ]
+        "N-10298"
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1015,11 +1030,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Israeli intelligence service; Kirk's May 2025 JFK remarks discuss its mention in the JFK files.",
       "related_artifacts": [],
       "related_claims": [
@@ -1029,14 +1044,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the center of the tips, the Falcone lead and the promised response.",
       "related_artifacts": [],
       "related_claims": [
@@ -1055,7 +1072,9 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1203,11 +1222,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the viewer request about call logs and metadata around 12:23 p.m.",
       "related_artifacts": [],
       "related_claims": [
@@ -1217,14 +1236,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@type": "Topic",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Patel's interview statements and the host's FBI-contact claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1235,32 +1256,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
-      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the insider tip about Charlie's messages the night before.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3767",
-        "C-3768"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-11186",
-      "ref": "N-11186",
+      "@type": "Event",
+      "@id": "N-11102",
+      "ref": "N-11102",
       "name": "Angolagate",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic for the Angolan arms-for-oil scandal described by the host and the CorpWatch text.",
       "related_artifacts": [],
       "related_claims": [
@@ -1276,14 +1280,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q192909"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11287",
-      "ref": "N-11287",
+      "@type": "Topic",
+      "@id": "N-11203",
+      "ref": "N-11203",
       "name": "Tim Pool Dispute With Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's account of Tim Pool's remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1294,7 +1300,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1319,8 +1326,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-11336",
-      "ref": "N-11336",
+      "@id": "N-11252",
+      "ref": "N-11252",
       "name": "Qatar",
       "type": "place",
       "description": "Country the host says gave an interview about its relationship with Hamas.",
@@ -1334,12 +1341,14 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Organization",
-      "@id": "N-11337",
-      "ref": "N-11337",
+      "@id": "N-11253",
+      "ref": "N-11253",
       "name": "Hamas",
       "type": "organization",
       "description": "Organization the host says Qatar was asked by the US government to establish a relationship with.",
@@ -1353,7 +1362,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -1401,7 +1412,7 @@
         "A-1514.1"
       ],
       "related_nodes": [
-        "N-10316"
+        "N-10297"
       ],
       "tags": [],
       "claim_timestamp": "00:07:33–00:08:21",
@@ -1422,7 +1433,7 @@
         "A-1515.1"
       ],
       "related_nodes": [
-        "N-10317"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:14:36–00:15:38",
@@ -1441,7 +1452,7 @@
         "A-1515.1"
       ],
       "related_nodes": [
-        "N-10317"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:14:36–00:15:38",
@@ -1458,7 +1469,7 @@
       "claim": "The host says that, according to her sources in France, Pierre Falcone disappeared from France after winning his appeal and reappeared in Scottsdale, Arizona, where she says Turning Point USA is based.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10317"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:17:26",
@@ -1548,7 +1559,7 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [],
       "claim_timestamp": "00:32:46–00:33:21",
@@ -1568,7 +1579,7 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [],
       "claim_timestamp": "00:33:21",
@@ -1604,7 +1615,7 @@
         "A-1518.6"
       ],
       "related_nodes": [
-        "N-10321"
+        "N-10301"
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:38:23",
@@ -1621,7 +1632,7 @@
         "A-1518.6"
       ],
       "related_nodes": [
-        "N-10321"
+        "N-10301"
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:38:23",
@@ -1656,7 +1667,7 @@
         "A-1518.5"
       ],
       "related_nodes": [
-        "N-10322"
+        "N-10302"
       ],
       "tags": [],
       "claim_timestamp": "00:41:02–00:41:57",
@@ -1677,7 +1688,7 @@
         "A-1518.5"
       ],
       "related_nodes": [
-        "N-10320"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:41:02",
@@ -1760,7 +1771,7 @@
       "claim": "The host says there was a viable threat to her life that came from the Macron couple, who she says apparently paid for her assassination, and that people laughed when she said so.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10316"
+        "N-10297"
       ],
       "tags": [
         "relevance:core"
@@ -1782,7 +1793,7 @@
         "A-1514.1"
       ],
       "related_nodes": [
-        "N-10316"
+        "N-10297"
       ],
       "tags": [
         "relevance:core"
@@ -1806,8 +1817,8 @@
         "A-1514.1"
       ],
       "related_nodes": [
-        "N-10316",
-        "N-10202"
+        "N-10297",
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -1828,7 +1839,7 @@
       "claim": "The host says she asserted that she had proof that the government of France was involved in Charlie Kirk's assassination and was on the ground on the day of the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10316"
+        "N-10297"
       ],
       "tags": [
         "relevance:core"
@@ -1851,7 +1862,7 @@
         "A-1514.1"
       ],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -1895,7 +1906,7 @@
         "A-3208.1"
       ],
       "related_nodes": [
-        "N-10317",
+        "N-10298",
         "N-10000"
       ],
       "tags": [
@@ -1919,7 +1930,7 @@
         "A-3208.1"
       ],
       "related_nodes": [
-        "N-10325"
+        "N-10304"
       ],
       "tags": [
         "relevance:core"
@@ -1942,7 +1953,7 @@
         "A-3208.1"
       ],
       "related_nodes": [
-        "N-10317",
+        "N-10298",
         "N-10000"
       ],
       "tags": [
@@ -1966,7 +1977,7 @@
       "claim": "The host says Pierre Falcone was involved in a scandal that almost brought down the French government, involving Africa, Angola, Israel, France and the United States.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11186"
+        "N-11102"
       ],
       "tags": [
         "relevance:context"
@@ -1989,7 +2000,7 @@
       "claim": "The host says it was discovered during French elections, dating to 1999, that the French government was involved in trafficking military-grade weapons to Angola to facilitate the civil war.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11186"
+        "N-11102"
       ],
       "tags": [
         "relevance:context"
@@ -2009,7 +2020,7 @@
       "claim": "The host says Brenco International sold the arms to the Angolan president and was run by Arcadi Gaydamak, whose partner was Pierre Falcone. The CorpWatch text she reads later describes Falcone as head of the firm.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11186"
+        "N-11102"
       ],
       "tags": [
         "relevance:context"
@@ -2050,7 +2061,7 @@
         "A-1515.1"
       ],
       "related_nodes": [
-        "N-11186"
+        "N-11102"
       ],
       "tags": [
         "relevance:context"
@@ -2069,7 +2080,7 @@
         "A-1515.1"
       ],
       "related_nodes": [
-        "N-11186"
+        "N-11102"
       ],
       "tags": [
         "relevance:context"
@@ -2088,7 +2099,7 @@
         "A-1515.2"
       ],
       "related_nodes": [
-        "N-11186"
+        "N-11102"
       ],
       "tags": [
         "relevance:context"
@@ -2107,7 +2118,7 @@
         "A-1515.2"
       ],
       "related_nodes": [
-        "N-11186"
+        "N-11102"
       ],
       "tags": [
         "relevance:context"
@@ -2129,7 +2140,7 @@
         "A-1515.2"
       ],
       "related_nodes": [
-        "N-10317"
+        "N-10298"
       ],
       "tags": [
         "relevance:context"
@@ -2172,8 +2183,7 @@
         "A-3211.1"
       ],
       "related_nodes": [
-        "N-10320",
-        "N-10340",
+        "N-10318",
         "N-10000"
       ],
       "tags": [
@@ -2197,8 +2207,7 @@
         "A-3211.1"
       ],
       "related_nodes": [
-        "N-10320",
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2221,7 +2230,7 @@
         "A-3211.1"
       ],
       "related_nodes": [
-        "N-10320"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2261,7 +2270,7 @@
         "A-3210.2"
       ],
       "related_nodes": [
-        "N-11287"
+        "N-11203"
       ],
       "tags": [
         "relevance:context"
@@ -2285,7 +2294,7 @@
         "A-3210.2"
       ],
       "related_nodes": [
-        "N-11287"
+        "N-11203"
       ],
       "tags": [
         "relevance:context"
@@ -2308,7 +2317,7 @@
         "A-3210.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -2333,7 +2342,7 @@
         "A-3210.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -2356,7 +2365,7 @@
         "A-3210.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -2403,7 +2412,7 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:context"
@@ -2425,7 +2434,7 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:context"
@@ -2447,7 +2456,7 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:context"
@@ -2469,7 +2478,7 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:context"
@@ -2491,7 +2500,7 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:context"
@@ -2513,7 +2522,7 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:core"
@@ -2536,7 +2545,7 @@
       "claim": "The host says she believes people close to Charlie are aware of things and are not honest about the anxiety Charlie had the night before he died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10320"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2581,7 +2590,7 @@
         "A-1518.6"
       ],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [
         "relevance:context"
@@ -2638,8 +2647,8 @@
         "A-3212.1"
       ],
       "related_nodes": [
-        "N-11336",
-        "N-11337"
+        "N-11252",
+        "N-11253"
       ],
       "tags": [
         "relevance:tangential"
@@ -2678,7 +2687,7 @@
         "A-1518.5"
       ],
       "related_nodes": [
-        "N-10322"
+        "N-10302"
       ],
       "tags": [
         "relevance:context"
@@ -2698,7 +2707,7 @@
       "claim": "The host says people are saying Charlie Kirk has not yet been buried, that she told viewers he had a Catholic funeral mass, and that she will address the burial rumor the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10323"
+        "N-10193"
       ],
       "tags": [
         "relevance:context"

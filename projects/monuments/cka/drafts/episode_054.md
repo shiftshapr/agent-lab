@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-799, N-800, N-11163, N-11164, N-11165, N-11166, N-11168, N-11169, N-11172, N-11173, N-11174, N-11175
-  - Hole-minted Nodes (reintro-ep054): N-437, N-439, N-449, N-450, N-487, N-10411, N-10670, N-10681, N-10730, N-10739
-  - Tip-minted Nodes (reintro-ep054): N-681, N-682, N-687, N-688, N-10988
+  - Tip-minted Nodes (supplement_2026-10c): N-799, N-800, N-11079, N-11080, N-11081, N-11082, N-11084, N-11085, N-11088, N-11089, N-11090, N-11091
+  - Hole-minted Nodes (reintro-ep054): N-437, N-439, N-449, N-450, N-487, N-10384, N-10610, N-10619, N-10664, N-10671
+  - Tip-minted Nodes (reintro-ep054): N-681, N-682, N-687, N-688, N-10908
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4724–C-4870
-  - New Nodes Introduced: N-398, N-399, N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-407, N-435, N-436, N-10392, N-10394, N-10395, N-10396, N-10399, N-10400
-  - Reused Nodes Appearing: N-10393, N-10398, N-7, N-9, N-14, N-17, N-36, N-42, N-61, N-66, N-94, N-117, N-176, N-190, N-195, N-196, N-200, N-205, N-208, N-224, N-237, N-246, N-270, N-283, N-325, N-364, N-489, N-751, N-10000, N-10012, N-10023, N-10097, N-10131, N-10144, N-10183, N-10203, N-10209, N-10223, N-10242, N-10246, N-10253, N-10267, N-10342, N-10417, N-10436, N-10645, N-11102, N-11104, N-10401, N-11171, N-11167, N-10397, N-11170
+  - New Nodes Introduced: N-398, N-399, N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-407, N-435, N-436, N-10365, N-10367, N-10368, N-10369, N-10372, N-10373
+  - Reused Nodes Appearing: N-10366, N-10371, N-7, N-9, N-14, N-17, N-36, N-42, N-61, N-66, N-94, N-117, N-176, N-190, N-195, N-196, N-200, N-205, N-208, N-224, N-237, N-246, N-270, N-283, N-325, N-364, N-489, N-751, N-10000, N-10012, N-10023, N-10093, N-10126, N-10139, N-10175, N-10195, N-10201, N-10166, N-10202, N-10232, N-10239, N-10251, N-10320, N-10390, N-10405, N-10589, N-11020, N-11022, N-10374, N-11087, N-11083, N-10370, N-11086
   - (see registers), N-11
 
 # Meta-Data
@@ -34,7 +34,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1596, A-1597, A-1598, A-1599, A-1600, A-1601, A-1602, A-1603, A-1604, A-1605, A-1606
   - New People Nodes Introduced: N-266, N-398, N-399, N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-407, N-435, N-436
-  - New Investigation Target Nodes Introduced: N-10392, N-10393, N-10394, N-10395, N-10396, N-10397, N-10398, N-10399, N-10400, N-10401
+  - New Investigation Target Nodes Introduced: N-10365, N-10366, N-10367, N-10368, N-10369, N-10370, N-10371, N-10372, N-10373, N-10374
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ## 6. Meme Register
@@ -199,7 +199,7 @@ Video Timestamp: 00:12:58–00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (post text read aloud verbatim)
 
-*Related: C-4750, N-10401*
+*Related: C-4750, N-10374*
 
 ---
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:35:05–00:38:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played)
 
-*Related: C-4795, C-4802, N-398, N-405, N-406, N-10392*
+*Related: C-4795, C-4802, N-398, N-405, N-406, N-10365*
 
 ---
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:52:37–00:53:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-4819, N-399, N-10399*
+*Related: C-4819, N-399, N-10372*
 
 ---
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:55:11–00:56:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4825, N-398, N-399, N-10393*
+*Related: C-4825, N-398, N-399, N-10366*
 
 ---
 
@@ -251,7 +251,7 @@ Video Timestamp: 01:06:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4846, N-398, N-399, N-10393*
+*Related: C-4846, N-398, N-399, N-10366*
 
 ---
 
@@ -263,7 +263,7 @@ Video Timestamp: 01:06:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4847, N-398, N-399, N-10393*
+*Related: C-4847, N-398, N-399, N-10366*
 
 ---
 
@@ -275,7 +275,7 @@ Video Timestamp: 01:02:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4839, N-399, N-10399*
+*Related: C-4839, N-399, N-10372*
 
 ---
 
@@ -287,7 +287,7 @@ Video Timestamp: 01:04:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4842, N-399, N-10399*
+*Related: C-4842, N-399, N-10372*
 
 ---
 
@@ -299,7 +299,7 @@ Video Timestamp: 01:05:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4845, N-399, N-435, N-10399*
+*Related: C-4845, N-399, N-435, N-10372*
 
 ---
 
@@ -311,7 +311,7 @@ Video Timestamp: 01:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4844, N-399, N-10399*
+*Related: C-4844, N-399, N-10372*
 
 ---
 
@@ -325,7 +325,7 @@ Video Timestamp: 01:10:00–01:11:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4851, N-402, N-403, N-10397*
+*Related: C-4851, N-402, N-403, N-10370*
 
 ---
 
@@ -339,7 +339,7 @@ Video Timestamp: 00:43:30–00:44:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party email tip; book passage not independently verified in episode)
 
-*Related: C-4805, N-398, N-400, N-404, N-10393*
+*Related: C-4805, N-398, N-400, N-404, N-10366*
 
 ---
 
@@ -353,7 +353,7 @@ Video Timestamp: 00:48:22–00:49:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party email tip)
 
-*Related: C-4814, N-399, N-10393, N-10399*
+*Related: C-4814, N-399, N-10366, N-10372*
 
 ---
 
@@ -367,7 +367,7 @@ Video Timestamp: 01:09:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (headline displayed)
 
-*Related: C-4850, C-4854, N-402, N-436, N-10397*
+*Related: C-4850, C-4854, N-402, N-436, N-10370*
 
 ---
 
@@ -381,7 +381,7 @@ Video Timestamp: 00:24:00–00:32:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (recorded with subject's permission; subject anonymous)
 
-*Related: C-4779, C-4786, N-10392*
+*Related: C-4779, C-4786, N-10365*
 
 ---
 
@@ -395,7 +395,7 @@ Video Timestamp: 00:44:18–00:46:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (cited but article not read in full)
 
-*Related: C-4806, N-398, N-401, N-10400*
+*Related: C-4806, N-398, N-401, N-10373*
 
 ---
 
@@ -409,7 +409,7 @@ Video Timestamp: 00:46:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (cited but article not read in full)
 
-*Related: C-4809, N-398, N-401, N-10400*
+*Related: C-4809, N-398, N-401, N-10373*
 
 ---
 
@@ -422,7 +422,7 @@ Video Timestamp: 00:05:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4732, C-4733, C-4734, C-4735, C-4738, N-1, N-10000, N-11, N-11104*
+*Related: C-4732, C-4733, C-4734, C-4735, C-4738, N-1, N-10000, N-11, N-11022*
 
 ---
 
@@ -435,7 +435,7 @@ Video Timestamp: 00:56:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4830, N-10397, N-3*
+*Related: C-4830, N-10370, N-3*
 
 ---
 
@@ -448,7 +448,7 @@ Video Timestamp: 00:52:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4820, N-10399, N-399, N-11169*
+*Related: C-4820, N-10372, N-399, N-11085*
 
 ---
 
@@ -459,7 +459,7 @@ Video Timestamp: 00:52:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4821, N-10399, N-399*
+*Related: C-4821, N-10372, N-399*
 
 ---
 
@@ -470,7 +470,7 @@ Video Timestamp: 00:53:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4822, N-10399, N-399*
+*Related: C-4822, N-10372, N-399*
 
 ---
 
@@ -481,7 +481,7 @@ Video Timestamp: 00:54:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4824, N-10399, N-399*
+*Related: C-4824, N-10372, N-399*
 
 ---
 
@@ -492,7 +492,7 @@ Video Timestamp: 00:55:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4826, C-4827, N-10399, N-399, N-11169*
+*Related: C-4826, C-4827, N-10372, N-399, N-11085*
 
 ---
 
@@ -503,7 +503,7 @@ Video Timestamp: 00:56:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4828, N-10399, N-399*
+*Related: C-4828, N-10372, N-399*
 
 ---
 
@@ -514,7 +514,7 @@ Video Timestamp: 00:57:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4831, C-4833, N-10398, N-10399, N-399*
+*Related: C-4831, C-4833, N-10371, N-10372, N-399*
 
 ---
 
@@ -525,7 +525,7 @@ Video Timestamp: 01:00:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4836, N-10399, N-399, N-11169*
+*Related: C-4836, N-10372, N-399, N-11085*
 
 ---
 
@@ -536,7 +536,7 @@ Video Timestamp: 01:01:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4837, N-10399, N-399*
+*Related: C-4837, N-10372, N-399*
 
 ---
 
@@ -547,7 +547,7 @@ Video Timestamp: 01:02:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4840, N-10399, N-399*
+*Related: C-4840, N-10372, N-399*
 
 ---
 
@@ -558,7 +558,7 @@ Video Timestamp: 01:03:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4841, N-10399, N-399*
+*Related: C-4841, N-10372, N-399*
 
 ---
 
@@ -582,7 +582,7 @@ Video Timestamp: 01:18:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4860, C-4861, C-4862, C-4863, N-1, N-10253, N-10398, N-3*
+*Related: C-4860, C-4861, C-4862, C-4863, N-1, N-10239, N-10371, N-3*
 
 ---
 
@@ -593,7 +593,7 @@ Video Timestamp: 01:20:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4864, C-4865, C-4866, N-10000, N-10739, N-3, N-449*
+*Related: C-4864, C-4865, C-4866, N-10000, N-10671, N-3, N-449*
 
 ---
 
@@ -606,7 +606,7 @@ Video Timestamp: 00:03:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4728, C-4729, C-4730, C-4731, N-1, N-10396, N-3*
+*Related: C-4728, C-4729, C-4730, C-4731, N-1, N-10369, N-3*
 
 ---
 
@@ -940,7 +940,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10097** George Zinn Arrest Location/Timing
+**N-10093** George Zinn Arrest Location/Timing
 
 Existing topic reused for new claims in this episode.
 
@@ -948,7 +948,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 Existing topic reused for new claims in this episode.
 
@@ -956,7 +956,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10144** Phil Lyman Proximity and Behavior Investigation
+**N-10139** Phil Lyman Proximity and Behavior Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -964,7 +964,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10183** Medical Examiner Inquiry – Weiss Amaro
+**N-10175** Medical Examiner Inquiry – Weiss Amaro
 
 Existing topic reused for new claims in this episode.
 
@@ -972,7 +972,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10203** Provo Airport Flight Anomaly Cluster
+**N-10195** Provo Airport Flight Anomaly Cluster
 
 Existing topic reused for new claims in this episode.
 
@@ -980,7 +980,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 Existing topic reused for new claims in this episode.
 
@@ -988,7 +988,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10223** George Zinn Hospital Payment Claim
+**N-10166** George Zinn Hospital Payment Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -996,7 +996,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10242** Seven Mountain Mandate / NAR Influence on TPUSA Faith
+**N-10202** NAR (New Apostolic Reformation) Infiltration Question
 
 Existing topic reused for new claims in this episode.
 
@@ -1004,7 +1004,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10246** Calvary Chapel Institutional Abuse Pattern
+**N-10232** Calvary Chapel Institutional Abuse Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -1012,7 +1012,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -1020,7 +1020,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10267** TPUSA Drone Disclosure Discrepancy
+**N-10251** TPUSA Drone Disclosure Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -1028,7 +1028,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for new claims in this episode.
 
@@ -1036,7 +1036,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+**N-10384** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 Existing topic reused for new claims in this episode.
 
@@ -1044,7 +1044,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -1052,7 +1052,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -1060,7 +1060,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10645** UVU Drone Authorization Records
+**N-10589** UVU Drone Authorization Records
 
 Existing topic reused for new claims in this episode.
 
@@ -1068,7 +1068,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10670** Gaza Humanitarian Foundation Leadership/Operational Pipeline
+**N-10610** Gaza Humanitarian Foundation Leadership/Operational Pipeline
 
 Existing topic reused for new claims in this episode.
 
@@ -1076,7 +1076,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10681** Shawn Ryan Show Interview Clip Bundle
+**N-10619** Shawn Ryan Show Interview Clip Bundle
 
 Existing topic reused for new claims in this episode.
 
@@ -1084,7 +1084,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10730** Frank Turek FaceTime Story Inconsistency
+**N-10664** Frank Turek FaceTime Story Inconsistency
 
 Existing topic reused for new claims in this episode.
 
@@ -1092,7 +1092,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10739** Fort Huachuca Connection Question
+**N-10671** Fort Huachuca Connection Question
 
 Existing topic reused for new claims in this episode.
 
@@ -1100,7 +1100,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10988** Miss Universe Organization
+**N-10908** Miss Universe Organization
 
 Existing topic reused for new claims in this episode.
 
@@ -1108,7 +1108,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11102** Wilks Brothers Funding Network
+**N-11020** Wilks Brothers Funding Network
 
 Existing topic reused for new claims in this episode.
 
@@ -1116,7 +1116,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11104** Liberty University
+**N-11022** Liberty University
 
 Existing topic reused for new claims in this episode.
 
@@ -1148,7 +1148,7 @@ First named by the host at 00:14:53 in episode 54 (spelled Frodshem). Civilian c
 
 ---
 
-**N-11163** Falkirk Center
+**N-11079** Falkirk Center
 
 Node Type: Organization
 Liberty University and TPUSA joint venture the host says Falwell Jr. and Kirk established, with Erika as a fellow.
@@ -1157,7 +1157,7 @@ Liberty University and TPUSA joint venture the host says Falwell Jr. and Kirk es
 
 ---
 
-**N-11164** Kairos Company
+**N-11080** Kairos Company
 
 Node Type: Organization
 PR firm led by Johnnie Moore where the host says Andrew Kolvet worked.
@@ -1166,7 +1166,7 @@ PR firm led by Johnnie Moore where the host says Andrew Kolvet worked.
 
 ---
 
-**N-11165** Romanian Angels Project
+**N-11081** Romanian Angels Project
 
 Node Type: Organization
 Charity project the host says Erika Kirk began in late 2012 and that worked with the military in Romania.
@@ -1175,7 +1175,7 @@ Charity project the host says Erika Kirk began in late 2012 and that worked with
 
 ---
 
-**N-11166** Everyday Heroes Foundation
+**N-11082** Everyday Heroes Foundation
 
 Node Type: Organization
 Arizona charity the host says Lori Frantzve established, from which Romanian Angels spun out.
@@ -1184,7 +1184,7 @@ Arizona charity the host says Lori Frantzve established, from which Romanian Ang
 
 ---
 
-**N-11167** Operation Underground Railroad
+**N-11083** Operation Underground Railroad
 Node Type: Organization
 Anti-trafficking charity founded by Tim Ballard, linked by the host to Glenn Beck and the Maxfields.
 
@@ -1192,7 +1192,7 @@ Anti-trafficking charity founded by Tim Ballard, linked by the host to Glenn Bec
 
 ---
 
-**N-11168** Saprea
+**N-11084** Saprea
 
 Node Type: Organization
 Child abuse charity the host says Derek and Shelaine Maxfield run.
@@ -1201,7 +1201,7 @@ Child abuse charity the host says Derek and Shelaine Maxfield run.
 
 ---
 
-**N-11169** The Washington Times
+**N-11085** The Washington Times
 
 Node Type: Organization
 Newspaper owned by Moon-linked entities, per the Washington Post excerpts.
@@ -1210,7 +1210,7 @@ Newspaper owned by Moon-linked entities, per the Washington Post excerpts.
 
 ---
 
-**N-11170** International Fellowship of Christians and Jews
+**N-11086** International Fellowship of Christians and Jews
 
 Node Type: Organization
 Group whose ad reads the host says she declined at the Daily Wire.
@@ -1219,7 +1219,7 @@ Group whose ad reads the host says she declined at the Daily Wire.
 
 ---
 
-**N-11171** Kirk "Internet DOGE" Money-Tracing Effort
+**N-11087** Kirk "Internet DOGE" Money-Tracing Effort
 
 Node Type: Topic
 The host says Charlie Kirk established DOGE (transcribed "DOVE"; the "internet DOGE" of C-2136) to determine where money was coming from and going.
@@ -1228,7 +1228,7 @@ The host says Charlie Kirk established DOGE (transcribed "DOVE"; the "internet D
 
 ---
 
-**N-11172** Host Recurring Themes Matrix
+**N-11088** Host Recurring Themes Matrix
 
 Node Type: Topic
 The host's working Excel sheet tracking Liberty University, Eastern Europe, trafficking and military connections.
@@ -1237,7 +1237,7 @@ The host's working Excel sheet tracking Liberty University, Eastern Europe, traf
 
 ---
 
-**N-11173** Godparent Caller Trump Pageant Invitation
+**N-11089** Godparent Caller Trump Pageant Invitation
 
 Node Type: Topic
 The caller's account of receiving a Trump Pageant World invitation two years after leaving the home.
@@ -1246,16 +1246,16 @@ The caller's account of receiving a Trump Pageant World invitation two years aft
 
 ---
 
-**N-11174** Romania-Registered Provo-Arizona Plane
+**N-11090** Romania-Registered Provo-Arizona Plane
 
-Node Type: Topic
+Node Type: Thing
 The host's finding that the Provo to Arizona plane was once registered in Romania as YR-NVY.
 
 *Related: C-4742*
 
 ---
 
-**N-11175** Kirk Declined Moon Inc.-Style Expansion Offer Theory
+**N-11091** Kirk Declined Moon Inc.-Style Expansion Offer Theory
 
 Node Type: Topic
 The host's best guess that Kirk was killed after refusing an offer to expand TPUSA like Moon Inc.
@@ -1288,7 +1288,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1598.1, A-1599.2, A-1599.3, A-1599.4, A-1601.1, A-1605.1, A-1606.1, C-4795, C-4825, C-4846, C-4847, C-4805, C-4806, C-4809, N-399, N-401, N-10392, N-10393, N-10400*
+*Related: A-1598.1, A-1599.2, A-1599.3, A-1599.4, A-1601.1, A-1605.1, A-1606.1, C-4795, C-4825, C-4846, C-4847, C-4805, C-4806, C-4809, N-399, N-401, N-10365, N-10366, N-10373*
 
 ---
 
@@ -1301,7 +1301,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1599.1, A-1599.2, A-1599.3, A-1599.4, A-1599.5, A-1599.6, A-1599.7, A-1599.8, A-1602.1, C-4825, C-4846, C-4847, C-4839, C-4819, C-4842, C-4845, C-4844, C-4814, N-398, N-435, N-10393, N-10399*
+*Related: A-1599.1, A-1599.2, A-1599.3, A-1599.4, A-1599.5, A-1599.6, A-1599.7, A-1599.8, A-1602.1, C-4825, C-4846, C-4847, C-4839, C-4819, C-4842, C-4845, C-4844, C-4814, N-398, N-435, N-10366, N-10372*
 
 ---
 
@@ -1314,7 +1314,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1601.1, C-4805, N-398, N-10393*
+*Related: A-1601.1, C-4805, N-398, N-10366*
 
 ---
 
@@ -1327,7 +1327,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1605.1, A-1606.1, C-4806, C-4809, N-398, N-10400*
+*Related: A-1605.1, A-1606.1, C-4806, C-4809, N-398, N-10373*
 
 ---
 
@@ -1340,7 +1340,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1600.1, A-1603.1, C-4850, C-4851, C-4854, N-403, N-436, N-10397*
+*Related: A-1600.1, A-1603.1, C-4850, C-4851, C-4854, N-403, N-436, N-10370*
 
 ---
 
@@ -1353,7 +1353,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1600.1, C-4851, N-402, N-10397*
+*Related: A-1600.1, C-4851, N-402, N-10370*
 
 ---
 
@@ -1366,7 +1366,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1601.1, C-4805, N-398, N-400, N-10393*
+*Related: A-1601.1, C-4805, N-398, N-400, N-10366*
 
 ---
 
@@ -1379,7 +1379,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1598.1, N-406, N-10392*
+*Related: A-1598.1, N-406, N-10365*
 
 ---
 
@@ -1392,7 +1392,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1598.1, N-405, N-10392*
+*Related: A-1598.1, N-405, N-10365*
 
 ---
 
@@ -1405,7 +1405,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1604.1, C-4779, C-4786, N-10392*
+*Related: A-1604.1, C-4779, C-4786, N-10365*
 
 ---
 
@@ -1418,7 +1418,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1599.7, C-4845, N-399, N-10399*
+*Related: A-1599.7, C-4845, N-399, N-10372*
 
 ---
 
@@ -1437,7 +1437,7 @@ Investigative Pressure: Low
 
 ## Investigation Target Nodes
 
-**N-10392** Liberty Godparent Home / Godparent Program Investigation
+**N-10365** Liberty Godparent Home / Godparent Program Investigation
 
 Persistent investigation target regarding alleged coercion, adoption pressure, restricted contact, and institutional opacity at the Liberty Godparent Home in the 1990s. Anchored by ABC News report and recorded phone call in this episode.
 
@@ -1450,7 +1450,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10393** Liberty University Funding History
+**N-10366** Liberty University Funding History
 
 Persistent target regarding the origin and rescue financing of Liberty University, including alleged 1979 Israeli aircraft gift (per email tip citing Mearsheimer) and mid-1990s Unification Church-affiliated bailout (per Washington Post 1997 article and email tip).
 
@@ -1463,7 +1463,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10394** Brian Harpole Name Discrepancy
+**N-10367** Brian Harpole Name Discrepancy
 
 Discrepancy between host's verbal reference to "Harpole" and the on-screen interview subject "Harpole."
 
@@ -1476,7 +1476,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10395** Tyler Bowyer 2011 Romania Activities
+**N-10368** Tyler Bowyer 2011 Romania Activities
 
 Persistent investigation target regarding Tyler Bowyer's 2011 trip to work with the Romanian government (purpose still undetermined per host).
 
@@ -1485,11 +1485,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-10401, N-11*
+*Related: N-10374, N-11*
 
 ---
 
-**N-10396** Charis Bible College Security Coordination (Post-Assassination)
+**N-10369** Charis Bible College Security Coordination (Post-Assassination)
 
 Investigation target regarding alleged absence of pre-existing security plan for the September 11, 2025 Charis Bible College vigil and alleged lack of TPUSA security coordination with local police, per unnamed tipster.
 
@@ -1502,7 +1502,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10397** Charlie Kirk Korea Trip / Pastor Yoon Connection
+**N-10370** Charlie Kirk Korea Trip / Pastor Yoon Connection
 
 Investigation target regarding the September 4–5, 2025 Build Up Korea conference attended by Charlie Kirk and the arrest of Pastor Son Hyun-bo days later.
 
@@ -1515,7 +1515,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Persistent investigation target regarding TPUSA Faith's pastor summit leadership (Rob McCoy, Sean Feucht), parallels drawn by host to Moon Inc. structure.
 
@@ -1524,11 +1524,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-399, N-10399*
+*Related: N-399, N-10372*
 
 ---
 
-**N-10399** Unification Church / Moon Inc. Financial Structure
+**N-10372** Unification Church / Moon Inc. Financial Structure
 
 Persistent investigation target regarding the cross-border financial mechanism of Moon-affiliated entities, including cash flow from Japan/Korea, hidden holding-company chains, and the 1978 congressional investigation conclusion.
 
@@ -1537,11 +1537,11 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1599.1, A-1599.5, A-1599.6, A-1599.7, A-1599.8, A-1602.1, C-4839, C-4819, C-4842, C-4845, C-4844, C-4814, N-399, N-435, N-10398*
+*Related: A-1599.1, A-1599.5, A-1599.6, A-1599.7, A-1599.8, A-1602.1, C-4839, C-4819, C-4842, C-4845, C-4844, C-4814, N-399, N-435, N-10371*
 
 ---
 
-**N-10400** Falwell Family Origin History
+**N-10373** Falwell Family Origin History
 
 Persistent investigation target regarding the bootlegging/smuggling/trafficking background of Jerry Falwell Sr.'s father (Carey Hezekiah), his conversion in 1948, and family criminal history.
 
@@ -1554,7 +1554,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frantzve charity), Colonel Otto Busher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piskadlo's Ukrainian trafficking warnings.
 
@@ -1563,7 +1563,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1597.1, C-4750, N-10395, N-11*
+*Related: A-1597.1, C-4750, N-10368, N-11*
 
 ---
 
@@ -1594,7 +1594,7 @@ Claim Timestamp: 00:12:58
 Claim: Per the social media post by Tyler Bowyer's wife that the host shows, a 12-year-old Ukrainian orphan named Natalia was staying with friends through an adoption agency program, and Tyler talked with her in Russian for over an hour.
 Anchored Artifacts: A-1597.1
 Mentions: N-11
-Related Nodes: N-10401
+Related Nodes: N-10374
 Investigative Direction: Obtain the original Instagram post (including screenshots, dates, and the Obs Report reference) and the adoption agency records to verify the event and Natalia's identity.
 
 ---
@@ -1605,7 +1605,7 @@ Claim Timestamp: 00:35:05
 Claim: Per ABC News report, the Liberty Godparent Home maternity home was founded by Jerry Falwell Sr. in the 1980s as part of a pro-life ministry at Thomas Road Baptist Church.
 Anchored Artifacts: A-1598.1
 Mentions: N-398
-Related Nodes: N-10392
+Related Nodes: N-10365
 Investigative Direction: Pull original Liberty Godparent Home founding documents and Thomas Road Baptist Church charter materials to confirm founding date and affiliation.
 
 ---
@@ -1615,7 +1615,7 @@ Investigative Direction: Pull original Liberty Godparent Home founding documents
 Claim Timestamp: 00:37:54
 Claim: Per ABC News report citing city records, the Liberty Godparent Home and Family Life Services adoption agency share an address.
 Anchored Artifacts: A-1598.1
-Related Nodes: N-10392
+Related Nodes: N-10365
 Investigative Direction: Request the cited city records from Lynchburg, Virginia to verify the shared-address claim and identify any common corporate officers.
 
 ---
@@ -1626,7 +1626,7 @@ Claim Timestamp: 00:55:11
 Claim: Per the 1997 Washington Post article on the Unification Church, Moon-affiliated entities helped to bail out Jerry Falwell's "foundering" Liberty University.
 Anchored Artifacts: A-1599.2
 Mentions: N-398, N-399
-Related Nodes: N-10393
+Related Nodes: N-10366
 Investigative Direction: Obtain the full 1997 Washington Post article, identify the named entities, and cross-reference against SEC and IRS filings for the named foundations.
 
 ---
@@ -1637,7 +1637,7 @@ Claim Timestamp: 01:06:00
 Claim: Per the 1997 Washington Post article the host reads, the Women's Federation made a $3.5 million grant to the Christian Heritage Foundation in 1995, which later bought a portion of Liberty University's debt.
 Anchored Artifacts: A-1599.3
 Mentions: N-398, N-399
-Related Nodes: N-10393
+Related Nodes: N-10366
 Investigative Direction: Verify the $3.5M grant in 1995 IRS Form 990 filings for both the Women's Federation and the Christian Heritage Foundation; identify the recipient of the funds.
 
 ---
@@ -1648,7 +1648,7 @@ Claim Timestamp: 01:06:32
 Claim: Per the 1997 Washington Post article, New World Communications (parent of the Washington Times) lent $400,000 to Liberty University at 6% interest per a promissory note.
 Anchored Artifacts: A-1599.4
 Mentions: N-398, N-399
-Related Nodes: N-10393
+Related Nodes: N-10366
 Investigative Direction: Obtain the promissory note referenced in the article and cross-reference against Liberty University financial disclosures from 1996–1997.
 
 ---
@@ -1659,7 +1659,7 @@ Claim Timestamp: 01:02:19
 Claim: Per the 1997 Washington Post article, a 1978 congressional investigation concluded that the Unification Church and other religious and secular organizations headed by Sun Moon constitute essentially one international organization that moved money freely among its entities.
 Anchored Artifacts: A-1599.5
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Investigative Direction: Locate the 1978 House/Senate committee report on Moon organizations and verify the quoted conclusion verbatim.
 
 ---
@@ -1670,7 +1670,7 @@ Claim Timestamp: 00:52:37
 Claim: Per the 1997 Washington Post article, the Unification Church's Washington-area investments exceed $300 million in commercial, political, and cultural enterprises.
 Anchored Artifacts: A-1599.1
 Mentions: 
-Related Nodes: N-10399
+Related Nodes: N-10372
 Investigative Direction: Cross-reference the $300M estimate against corporate property and court records cited in the article, and identify the specific entities holding the properties.
 
 ---
@@ -1681,7 +1681,7 @@ Claim Timestamp: 01:04:00
 Claim: Per the 1997 Washington Post article (citing church documents analyzed by private investigator Lawrence Zilliox), Unification Church International exceeded $500 million in the mid-1980s; Far Eastern Economic Review valued South Korean landholdings above $1 billion in 1990.
 Anchored Artifacts: A-1599.6
 Mentions: 
-Related Nodes: N-10399
+Related Nodes: N-10372
 Investigative Direction: Obtain the Zillioux analysis and the 1990 Far Eastern Economic Review article to verify the valuation methodology and figures.
 
 ---
@@ -1692,7 +1692,7 @@ Claim Timestamp: 01:05:41
 Claim: Per the 1997 Washington Post article, former church members said Unificationists provided about $5 million and the personnel that gave the American Freedom Coalition its grassroots strength; the coalition built popular support for Colonel Oliver North during the Iran-Contra probe.
 Anchored Artifacts: A-1599.7
 Mentions: N-435
-Related Nodes: N-10399
+Related Nodes: N-10372
 Investigative Direction: Cross-reference against contemporaneous Iran-Contra investigative records and the American Freedom Coalition's own IRS filings and disclosures.
 
 ---
@@ -1703,7 +1703,7 @@ Claim Timestamp: 01:04:49
 Claim: Per the 1997 Washington Post article, Japan (not Korea) provides the bulk of Unification Church wealth, estimated at as much as 70% by church observers.
 Anchored Artifacts: A-1599.8
 Mentions: 
-Related Nodes: N-10399
+Related Nodes: N-10372
 Investigative Direction: Identify the named "church observers" and the methodology used for the 70% estimate; cross-reference against Japanese corporate filings of Moon-affiliated entities.
 
 ---
@@ -1714,7 +1714,7 @@ Claim Timestamp: 00:43:30
 Claim: Per an email tip citing *The Israel Lobby* by John Mearsheimer, the Israeli government gave Jerry Falwell Sr. a $2 million jet in 1979 (~$10 million inflation-adjusted), described as seeking evangelical support.
 Anchored Artifacts: A-1601.1
 Mentions: N-398, N-404
-Related Nodes: N-10393
+Related Nodes: N-10366
 Investigative Direction: Locate the cited passage in *The Israel Lobby* (Mearsheimer/Walt); cross-check against FAA aircraft registration records and contemporaneous news coverage of Falwell's aircraft acquisition.
 
 ---
@@ -1725,7 +1725,7 @@ Claim Timestamp: 00:48:22
 Claim: Per an email tip, Sun Myung Moon and his Unification Church organizations (including CAUSA and The Washington Times) assisted the CIA in Iran-Contra efforts and later bailed out Liberty University in the mid-1990s for approximately $20–40 million.
 Anchored Artifacts: A-1602.1
 Mentions: N-399
-Related Nodes: N-10393, N-10399
+Related Nodes: N-10366, N-10372
 Investigative Direction: Verify the $20–40 million figure against Liberty University financial disclosures, the Christian Heritage Foundation 990s, and contemporaneous reporting in The Washington Times itself.
 
 ---
@@ -1736,7 +1736,7 @@ Claim Timestamp: 01:09:02
 Claim: Per a Korean Herald [Korea Herald] headline the host shows, Pastor Son Hyun-bo was arrested for breaking election law; the host says he was arrested on September 9.
 Anchored Artifacts: A-1603.1
 Mentions: N-402
-Related Nodes: N-10397
+Related Nodes: N-10370
 Investigative Direction: Obtain Korean court records and primary Korean-language press coverage to verify the arrest date, the specific statutes cited, and the current status of the case.
 
 ---
@@ -1747,7 +1747,7 @@ Claim Timestamp: 01:10:00
 Claim: Per a CBN News clip the host plays, Chance Son (son of Pastor Son Hyun-bo) stated that his father was arrested two days after meeting Charlie Kirk; the clip says Kirk met Pastor Son in Seoul at a conference.
 Anchored Artifacts: A-1600.1
 Mentions: N-402, N-403, N-1
-Related Nodes: N-10397
+Related Nodes: N-10370
 Investigative Direction: Cross-reference the conference attendance records (Build Up Korea, September 4–5) against the arrest warrant timestamp; verify whether the father's meeting with Kirk is documented by other conference attendees.
 
 ---
@@ -1758,7 +1758,7 @@ Claim Timestamp: 00:24:36
 Claim: Per the recorded phone call with an anonymous former resident, the Liberty Godparent Home locked residents in their rooms 24 hours a day and did not allow visitors when she was a resident circa 1994.
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Investigative Direction: Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abbi Johnson and others) and any internal Godparent Home policies from the 1990s.
 
 ---
@@ -1769,7 +1769,7 @@ Claim Timestamp: 00:28:57
 Claim: Per the recorded phone call, residents of the Liberty Godparent Home were pressured and coerced to place their babies for adoption, with adoption-folder selections presented under time pressure.
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Investigative Direction: Cross-reference against the ABC News report (A-1598.1), the *Liberty Lost* podcast, and adoption records from Family Life Services for the relevant period.
 
 ---
@@ -1780,7 +1780,7 @@ Claim Timestamp: 00:44:18
 Claim: Per host's citation of the Washington Post, Jerry Falwell Sr.'s father Carey Hezekiah was a drunk and bootlegger, and also a smuggler and trafficker, who shot his brother Garland dead following a fight.
 Anchored Artifacts: A-1605.1
 Mentions: N-398, N-401
-Related Nodes: N-10400
+Related Nodes: N-10373
 Investigative Direction: Locate the cited Rolling Stone article and confirm the specific incident, including Garland's full name and any court records from Virginia.
 
 ---
@@ -1791,7 +1791,7 @@ Claim Timestamp: 00:46:39
 Claim: Per host's citation of Forbes, Carey Hezekiah once threw a man into a bear cage after an argument at one of his restaurants.
 Anchored Artifacts: A-1606.1
 Mentions: N-401
-Related Nodes: N-10400
+Related Nodes: N-10373
 Investigative Direction: Locate the cited Forbes article and any contemporaneous Virginia court records or news coverage.
 
 ---
@@ -1802,7 +1802,7 @@ Claim Timestamp: 01:11:09
 Claim: Per the Korean Herald [Korea Herald] article the host reads, Pastor Son Hyun-bo shouted during a protest that "Lee Jae-myung has to die for Korea to live" and stated the state is "the same as Hitler and the Nazis."
 Anchored Artifacts: A-1603.1
 Mentions: N-402, N-436
-Related Nodes: N-10397
+Related Nodes: N-10370
 Investigative Direction: Verify the exact quote and context against the primary Korean-language reporting and any video of the protest.
 
 ---
@@ -1817,7 +1817,7 @@ Transcript Snippet: It's a decentralized command model for the company.
 
 Anchored Artifacts: A-1596.1
 Mentions: N-266
-Related Nodes: N-10681
+Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Obtain the full Shawn Ryan interview and the security company's operating procedures to confirm the app-based, decentralized command description.
 
@@ -1833,7 +1833,7 @@ Transcript Snippet: he describes this conversation that he had with the chief of
 
 Anchored Artifacts: A-1596.1
 Mentions: N-266, N-3
-Related Nodes: N-10681
+Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Review the Shawn Ryan interview transcript for the rooftop remark and compare with UVU police operational plans for the September 10 event.
 
@@ -1849,7 +1849,7 @@ Transcript Snippet: You're discussing drones. Drones were not allowed. And so th
 
 Anchored Artifacts: A-1596.1
 Mentions: N-266, N-3
-Related Nodes: N-10645, N-10267
+Related Nodes: N-10589, N-10251
 Tags: relevance:core
 Investigative Direction: Check the Shawn Ryan interview for the drone remark and compare with UVU drone authorization records and TPUSA's later statements on drones.
 
@@ -1865,7 +1865,7 @@ Transcript Snippet: I received a tip from someone that was directly involved wit
 
 Anchored Artifacts: A-2924.1
 Mentions: N-1, N-3
-Related Nodes: N-10396
+Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Identify the tipster through the host and obtain the Charis Bible College event booking and security planning records for September 11, 2025.
 
@@ -1881,7 +1881,7 @@ Transcript Snippet: according to this person after Charlie got assassinated, the
 
 Anchored Artifacts: A-2924.1
 Mentions: N-1
-Related Nodes: N-10396
+Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Request Woodland Park police and Charis Bible College records or announcements about the September 11 vigil and who convened the meeting.
 
@@ -1897,7 +1897,7 @@ Transcript Snippet: they were panicked because, believe it or not, they had abso
 
 Anchored Artifacts: A-2924.1
 Mentions: N-3
-Related Nodes: N-10396
+Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Obtain the event security plan, any permits, and police liaison correspondence for the Woodland Park event from the venue or city.
 
@@ -1913,7 +1913,7 @@ Transcript Snippet: So, the police chief apparently uh decided to take measures 
 
 Anchored Artifacts: A-2924.1
 Mentions: N-3
-Related Nodes: N-10396
+Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Ask the Woodland Park police department for a record of resources deployed to the September 11 vigil and when the request was made.
 
@@ -1929,7 +1929,7 @@ Transcript Snippet: Tyler Bowyer attended and he graduated. Erika Kirk attended 
 
 Anchored Artifacts: A-2920.1
 Mentions: N-11, N-2, N-364
-Related Nodes: N-11104, N-11172
+Related Nodes: N-11022, N-11088
 Tags: relevance:context
 Investigative Direction: Verify graduation records or alumni listings for each person with Liberty University or their public biographies.
 
@@ -1945,7 +1945,7 @@ Transcript Snippet: Mikey McCoy was accepted into Liberty University, but then h
 
 Anchored Artifacts: A-2920.1
 Mentions: N-190
-Related Nodes: N-11104, N-10000, N-11172
+Related Nodes: N-11022, N-10000, N-11088
 Tags: relevance:context
 Investigative Direction: Check Mikey McCoy's public biography or interviews for his admission to Liberty and his hire date at TPUSA.
 
@@ -1961,7 +1961,7 @@ Transcript Snippet: his father, Rob McCoy, met Charlie Kirk via Jerry Falwell Jr
 
 Anchored Artifacts: A-2920.1
 Mentions: N-17, N-1, N-439
-Related Nodes: N-11104, N-11172
+Related Nodes: N-11022, N-11088
 Tags: relevance:context
 Investigative Direction: Find interviews or biographies in which Rob McCoy or Kirk describe how they first met and Falwell Jr.'s role.
 
@@ -1977,7 +1977,7 @@ Transcript Snippet: Andrew Kolvet was working PR for the Kairos Company under Jo
 
 Anchored Artifacts: A-2920.1
 Mentions: N-14, N-437
-Related Nodes: N-11164, N-11104, N-11172
+Related Nodes: N-11080, N-11022, N-11088
 Tags: relevance:context
 Investigative Direction: Check Kolvet's and Johnnie Moore's public biographies and Kairos Company staff listings for dates of employment.
 
@@ -1993,7 +1993,7 @@ Transcript Snippet: He was somehow equipped to lead the Gaza Humanitarian Fund a
 
 Anchored Artifacts: 
 Mentions: N-437, N-3
-Related Nodes: N-10670
+Related Nodes: N-10610
 Tags: relevance:tangential
 Investigative Direction: Confirm Johnnie Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.
 
@@ -2009,7 +2009,7 @@ Transcript Snippet: Andrew Kolvet leaves Kairos and decides to mint his own PR f
 
 Anchored Artifacts: 
 Mentions: N-14, N-1
-Related Nodes: N-11164, N-10000
+Related Nodes: N-11080, N-10000
 Tags: relevance:context
 Investigative Direction: Find the incorporation record and client list of Kolvet's PR firm.
 
@@ -2025,7 +2025,7 @@ Transcript Snippet: Jerry Falwell Jr. and Charlie Kirk decided to come together 
 
 Anchored Artifacts: A-2920.1
 Mentions: N-439, N-1, N-17
-Related Nodes: N-11163
+Related Nodes: N-11079
 Tags: relevance:context
 Investigative Direction: Review Liberty University and TPUSA announcements of the Falkirk Center's founding in 2019 and its closure.
 
@@ -2041,7 +2041,7 @@ Transcript Snippet: Jerry Falwell has this huge sex scandal. He's forced to step
 
 Anchored Artifacts: 
 Mentions: N-439
-Related Nodes: N-11163, N-11104
+Related Nodes: N-11079, N-11022
 Tags: relevance:context
 Investigative Direction: Confirm the timing of Falwell Jr.'s 2020 resignation and Liberty's decision to end the Falkirk Center arrangement.
 
@@ -2057,7 +2057,7 @@ Transcript Snippet: Erika Frantzve, because her and Charlie were not yet married
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-11163
+Related Nodes: N-11079
 Tags: relevance:context
 Investigative Direction: Find Falkirk Center fellow listings or contemporaneous posts naming Erika Frantzve as a fellow.
 
@@ -2073,7 +2073,7 @@ Transcript Snippet: what happened after it fell apart was that they decided to i
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-11163, N-10398
+Related Nodes: N-11079, N-10371
 Tags: relevance:context
 Investigative Direction: Compare TPUSA Faith's launch announcement date and founders with the Falkirk Center's wind-down.
 
@@ -2089,7 +2089,7 @@ Transcript Snippet: that plane, pardon me, was formerly registered in Romania ba
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11174, N-10203
+Related Nodes: N-11090, N-10195
 Tags: relevance:core
 Investigative Direction: Pull the aircraft's registration history from the FAA and Romanian civil aviation registries and match the tail number to the Provo flight.
 
@@ -2105,7 +2105,7 @@ Transcript Snippet: Obviously we know that Erika Kirk began the Romanian Angels 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11165, N-10401
+Related Nodes: N-11081, N-10374
 Tags: relevance:core
 Investigative Direction: Locate the Romanian Angels project's own announcements and registration documents to confirm its start and end dates.
 
@@ -2121,7 +2121,7 @@ Transcript Snippet: Lori Frantzve uh established the Everyday Heroes Foundation 
 
 Anchored Artifacts: 
 Mentions: N-489, N-2
-Related Nodes: N-11166, N-11165
+Related Nodes: N-11082, N-11081
 Tags: relevance:core
 Investigative Direction: Obtain Arizona Corporation Commission and IRS filings for the Everyday Heroes Foundation naming its founder and officers.
 
@@ -2137,7 +2137,7 @@ Transcript Snippet: They worked with the military in Romania uh to help orphans,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11165, N-10401
+Related Nodes: N-11081, N-10374
 Tags: relevance:core
 Investigative Direction: Find press releases or photographs documenting the Romanian Angels arrangement with the military in Romania.
 
@@ -2153,7 +2153,7 @@ Transcript Snippet: Now, it is a fact that they worked with at that time Colonel
 
 Anchored Artifacts: 
 Mentions: N-687
-Related Nodes: N-11165
+Related Nodes: N-11081
 Tags: relevance:core
 Investigative Direction: Locate Romanian Angels thank-you posts or news coverage naming Colonel Busher and the dates of cooperation.
 
@@ -2169,7 +2169,7 @@ Transcript Snippet: Colonel Otto Busher was then accused of running a brothel wi
 
 Anchored Artifacts: 
 Mentions: N-687
-Related Nodes: N-10401
+Related Nodes: N-10374
 Tags: relevance:context
 Investigative Direction: Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Busher and its outcome.
 
@@ -2185,7 +2185,7 @@ Transcript Snippet: there is no articles that say Erika Francev or Lori were inv
 
 Anchored Artifacts: 
 Mentions: N-2, N-489, N-687
-Related Nodes: N-11165
+Related Nodes: N-11081
 Qualifies: C-4747
 Tags: relevance:core
 Investigative Direction: Search news archives for the Busher allegation for any mention of Romanian Angels, Erika Frantzve or Lori Frantzve.
@@ -2202,7 +2202,7 @@ Transcript Snippet: In 2011, Tyler Bowyer also went to Romania to work with the 
 
 Anchored Artifacts: 
 Mentions: N-11, N-3
-Related Nodes: N-10395, N-10401
+Related Nodes: N-10368, N-10374
 Tags: relevance:core
 Investigative Direction: Find Bowyer's own biography, mission trip records or Romanian government statements describing the 2011 visit.
 
@@ -2218,7 +2218,7 @@ Transcript Snippet: Turning Point USA obviously working with Pastor Greg Laurie 
 
 Anchored Artifacts: 
 Mentions: N-450, N-3
-Related Nodes: N-10411, N-10000
+Related Nodes: N-10384, N-10000
 Tags: relevance:context
 Investigative Direction: Review the court docket for the Harvest Christian Fellowship Romanian abuse lawsuit and TPUSA event listings featuring Laurie.
 
@@ -2234,7 +2234,7 @@ Transcript Snippet: Uh Andrew Kolwitz's brother Curtis is currently stationed in
 
 Anchored Artifacts: 
 Mentions: N-14, N-688
-Related Nodes: N-10401
+Related Nodes: N-10374
 Tags: relevance:context
 Investigative Direction: Check Army public affairs releases or promotion lists for Curtis Kolvet's rank and posting.
 
@@ -2250,7 +2250,7 @@ Transcript Snippet: We have Tyler Bowyer who holds a degree in Russian studies a
 
 Anchored Artifacts: 
 Mentions: N-11, N-751
-Related Nodes: N-11172
+Related Nodes: N-11088
 Tags: relevance:context
 Investigative Direction: Confirm Bowyer's degree and language skills from university records or his public biography.
 
@@ -2266,7 +2266,7 @@ Transcript Snippet: Rob McCoy, I don't know if you know this, but he adopted a 1
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-11172
+Related Nodes: N-11088
 Tags: relevance:context
 Investigative Direction: Find McCoy's own accounts or church bulletins about the adoption and its date and country.
 
@@ -2282,7 +2282,7 @@ Transcript Snippet: which is now currently owned by Derek and Shelaine Maxfield,
 
 Anchored Artifacts: 
 Mentions: N-94, N-200
-Related Nodes: N-11168
+Related Nodes: N-11084
 Supports: C-4599
 Tags: relevance:core
 Investigative Direction: Check FAA registration for N888KG and Saprea's nonprofit filings naming Derek and Shelaine Maxfield.
@@ -2299,7 +2299,7 @@ Transcript Snippet: in their profile pictures they were wearing an Operation Und
 
 Anchored Artifacts: 
 Mentions: N-94, N-200
-Related Nodes: N-11167
+Related Nodes: N-11083
 Supports: C-4599
 Tags: relevance:core
 Investigative Direction: Archive the Maxfields' social media profile photos and compare with Operation Underground merchandise.
@@ -2316,7 +2316,7 @@ Transcript Snippet: was charged with running a child sex abuse ring. That is tru
 
 Anchored Artifacts: 
 Mentions: N-384
-Related Nodes: N-10739
+Related Nodes: N-10671
 Tags: relevance:context
 Investigative Direction: Pull the federal or Arizona charging documents against David Frodsham and the associated news coverage.
 
@@ -2332,7 +2332,7 @@ Transcript Snippet: George Zinn was arrested and then it was determined that he 
 
 Anchored Artifacts: 
 Mentions: N-42
-Related Nodes: N-10097
+Related Nodes: N-10093
 Supports: C-157
 Tags: relevance:core
 Investigative Direction: Obtain the Zinn charging documents and probable cause statement describing the images charge.
@@ -2349,7 +2349,7 @@ Transcript Snippet: Now, he didn't know where the money was coming from, but all
 
 Anchored Artifacts: 
 Mentions: N-42
-Related Nodes: N-10223
+Related Nodes: N-10166
 Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Obtain Utah Valley Hospital staff statements or police reports recording what Zinn said about payment.
@@ -2382,7 +2382,7 @@ Transcript Snippet: Uh but he has rang the alarm before on military Ukrainian se
 
 Anchored Artifacts: 
 Mentions: N-800
-Related Nodes: N-10401
+Related Nodes: N-10374
 Tags: relevance:context
 Investigative Direction: Review Piscatello's Instagram posts on Ukrainian trafficking for dates and claims.
 
@@ -2398,7 +2398,7 @@ Transcript Snippet: Rob McCoy who was trying to rehabilitate somebody who actual
 
 Anchored Artifacts: 
 Mentions: N-17
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:core
 Investigative Direction: Identify the individual and any court or church records on his placement in homes through Calvary Chapel.
 
@@ -2414,7 +2414,7 @@ Transcript Snippet: that was introduced to me by Marissa Streit over at PragerU.
 
 Anchored Artifacts: 
 Mentions: N-117, N-325, N-3
-Related Nodes: N-11167, N-10131
+Related Nodes: N-11083, N-10126
 Tags: relevance:context
 Investigative Direction: Find the PragerU interview with Tim Ballard and its date relative to his departure from Operation Underground.
 
@@ -2430,7 +2430,7 @@ Transcript Snippet: Glenn Beck was the initial investment as the story was told 
 
 Anchored Artifacts: 
 Mentions: N-237
-Related Nodes: N-11167
+Related Nodes: N-11083
 Supports: C-4601
 Tags: relevance:context
 Investigative Direction: Check Operation Underground's founding history and Beck's public statements on funding it.
@@ -2463,7 +2463,7 @@ Transcript Snippet: we learned that he paid Tim Ballard a visit in the days foll
 
 Anchored Artifacts: 
 Mentions: N-61, N-325
-Related Nodes: N-10144
+Related Nodes: N-10139
 Supports: C-4600
 Tags: relevance:core
 Investigative Direction: Seek Lyman's or Ballard's public posts or schedules for the days after September 10, 2025.
@@ -2495,7 +2495,7 @@ Transcript Snippet: Rob McCoy's father Roy Edgar McCoy ran psychological operati
 
 Anchored Artifacts: 
 Mentions: N-17, N-196
-Related Nodes: N-10436
+Related Nodes: N-10405
 Supports: C-1858
 Tags: relevance:context
 Investigative Direction: Locate Navy service records or obituaries for Roy Edgar McCoy describing his naval intelligence role.
@@ -2512,7 +2512,7 @@ Transcript Snippet: It's why she moved to Arizona in the first place because the
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's own statements on her parents' work and federal contract records for the parents' companies.
 
@@ -2528,7 +2528,7 @@ Transcript Snippet: And we know that her father has worked with Raytheon.
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Identify Erika Kirk's father's employment history through public filings or Raytheon contractor listings.
 
@@ -2574,7 +2574,7 @@ Transcript Snippet: His other son, Spencer, is an Air Force vet.
 
 Anchored Artifacts: 
 Mentions: N-7, N-682
-Related Nodes: N-10730
+Related Nodes: N-10664
 Tags: relevance:core
 Investigative Direction: Verify Frank Turek III's Joint Staff position and Spencer Turek's service through public directories or records.
 
@@ -2621,7 +2621,7 @@ Transcript Snippet: The Utah medical examiner, Dr. Deirdre Amaro, is a major.
 
 Anchored Artifacts: 
 Mentions: N-176
-Related Nodes: N-10183
+Related Nodes: N-10175
 Tags: relevance:core
 Investigative Direction: Look for Amaro's military service record or Utah Office of the Medical Examiner biography.
 
@@ -2652,7 +2652,7 @@ Transcript Snippet: We could send you to juvie or you could go away and we'll gi
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407, N-3
-Related Nodes: N-10392, N-11104
+Related Nodes: N-10365, N-11022
 Tags: relevance:context
 Investigative Direction: Seek the caller's juvenile court and probation records, which only she can authorize, to confirm the referral to the Godparent program.
 
@@ -2668,7 +2668,7 @@ Transcript Snippet: But like Jerry Falwell Sr. was the one actually taking the p
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407, N-398
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Interview other Godparent Home residents from the 1990s about photographs taken at the home and by whom.
 
@@ -2684,7 +2684,7 @@ Transcript Snippet: everything was fine that night and then they moved me, which
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Obtain any hospital or home records of prenatal checks and room assignments from the caller's stay.
 
@@ -2700,7 +2700,7 @@ Transcript Snippet: there was about like between 12 and 15 in one house, but you
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Compare with state licensing records for the Liberty Godparent Home's capacity and resident ages in the 1990s.
 
@@ -2716,7 +2716,7 @@ Transcript Snippet: We weren't allowed to like talk to the other girls.
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Supports: C-4779
 Tags: relevance:context
 Investigative Direction: Interview other former residents and request the home's 1990s house rules for contact and phone access.
@@ -2733,7 +2733,7 @@ Transcript Snippet: the next morning I all of a sudden didn't have a heartbeat a
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Request hospital records of the delivery from Lynchburg hospitals, which only the caller can authorize.
 
@@ -2749,7 +2749,7 @@ Transcript Snippet: Their daughter is a high uh doctor at the Liberty or at some
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Identify the house mother and her daughter through Godparent Home staff lists and Lynchburg hospital staffing.
 
@@ -2765,7 +2765,7 @@ Transcript Snippet: They kept showing me folders of people's faces.
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Supports: C-4786
 Tags: relevance:context
 Investigative Direction: Interview other residents about adoption-folder presentations and review Family Life Services intake procedures.
@@ -2782,7 +2782,7 @@ Transcript Snippet: I can't even find myself actually in their system.
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Submit a records request, with the caller's consent, to the Liberty Godparent Home and Family Life Services.
 
@@ -2798,7 +2798,7 @@ Transcript Snippet: They had to induce the labor. Okay. They I had to deliver.
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Obtain medical records establishing gestational age and the delivery, with the caller's consent.
 
@@ -2814,7 +2814,7 @@ Transcript Snippet: We can't find you. We had You had a baby in a house when you
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407, N-3
-Related Nodes: N-10392, N-11104
+Related Nodes: N-10365, N-11022
 Tags: relevance:context
 Investigative Direction: Ask Liberty University and the Godparent Home for a written statement on their 1990s resident records.
 
@@ -2830,7 +2830,7 @@ Transcript Snippet: They tell your mom she's got to pick you up ASAP.
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407, N-3
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Interview the caller's mother if willing, and seek the home's discharge records.
 
@@ -2846,7 +2846,7 @@ Transcript Snippet: and 2 years later she gets an invite to join Trump Pageant W
 
 Anchored Artifacts: A-1604.1
 Mentions: N-407, N-3
-Related Nodes: N-11173, N-10988, N-10392
+Related Nodes: N-11089, N-10908, N-10365
 Tags: relevance:context
 Investigative Direction: Ask the caller for the invitation and mailing details and compare with Miss Universe organization outreach practices in the 1990s.
 
@@ -2878,7 +2878,7 @@ Transcript Snippet: By the way, the history of pageantry for those of you that d
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10988
+Related Nodes: N-10908
 Tags: relevance:tangential
 Investigative Direction: Seek historical scholarship on the pageant industry and its origins in carnival and sideshow circuits.
 
@@ -2894,7 +2894,7 @@ Transcript Snippet: The Liberty Godparent Home, a place for young, single, pregn
 
 Anchored Artifacts: A-1598.1
 Mentions: 
-Related Nodes: N-10392
+Related Nodes: N-10365
 Supports: C-4786
 Tags: relevance:context
 Investigative Direction: Obtain the ABC 13 segment and the Liberty Lost podcast episodes and their listed sources.
@@ -2911,7 +2911,7 @@ Transcript Snippet: For the last 2 years I've been investigating the maternity h
 
 Anchored Artifacts: A-1598.1
 Mentions: 
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Contact the Liberty Lost podcast team for the number and dates of resident accounts.
 
@@ -2927,7 +2927,7 @@ Transcript Snippet: Her parents sent her across the country to Liberty Godparent
 
 Anchored Artifacts: A-1598.1
 Mentions: N-405, N-406
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Seek Johnson's account on the Liberty Lost podcast and any scholarship documentation.
 
@@ -2943,7 +2943,7 @@ Transcript Snippet: Johnson says she wanted to keep her son. However, she felt t
 
 Anchored Artifacts: A-1598.1
 Mentions: N-405
-Related Nodes: N-10392
+Related Nodes: N-10365
 Supports: C-4786
 Tags: relevance:context
 Investigative Direction: Compare with accounts from other Liberty Lost residents and Family Life Services adoption statistics.
@@ -2960,7 +2960,7 @@ Transcript Snippet: The Godparent Home declined my request for an interview but 
 
 Anchored Artifacts: A-1598.1
 Mentions: N-406
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Obtain the full written statement from the Godparent Home.
 
@@ -2976,7 +2976,7 @@ Transcript Snippet: Thomas Road Baptist Church founded Family Life Services acco
 
 Anchored Artifacts: A-1598.1
 Mentions: N-406
-Related Nodes: N-10392
+Related Nodes: N-10365
 Supports: C-4802
 Tags: relevance:context
 Investigative Direction: Retrieve Family Life Services' website history and its Virginia licensing records.
@@ -2993,7 +2993,7 @@ Transcript Snippet: I reached out to them multiple times for comment about the a
 
 Anchored Artifacts: A-1598.1
 Mentions: N-406
-Related Nodes: N-10392
+Related Nodes: N-10365
 Tags: relevance:context
 Investigative Direction: Ask Family Life Services and the Godparent Home whether they later responded to ABC 13.
 
@@ -3009,7 +3009,7 @@ Transcript Snippet: I have spoken at Liberty University multiple times and I pro
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11104
+Related Nodes: N-11022
 Tags: relevance:context
 Investigative Direction: Check Liberty convocation archives for the host's appearances.
 
@@ -3025,7 +3025,7 @@ Transcript Snippet: in reality, he was using his fuel trucks to smuggle bootleg 
 
 Anchored Artifacts: A-1605.1
 Mentions: N-401, N-3
-Related Nodes: N-10400
+Related Nodes: N-10373
 Supports: C-4806
 Tags: relevance:tangential
 Investigative Direction: Consult the Washington Post and Rolling Stone profiles of Falwell Sr.'s family and Lynchburg county records on Carey Falwell's businesses.
@@ -3042,7 +3042,7 @@ Transcript Snippet: and he killed the cat and then he cooked the cat and then he
 
 Anchored Artifacts: A-1605.1
 Mentions: N-401
-Related Nodes: N-10400
+Related Nodes: N-10373
 Tags: relevance:tangential
 Investigative Direction: Locate the Rolling Stone passage and its sourcing for the cat anecdote.
 
@@ -3058,7 +3058,7 @@ Transcript Snippet: In 1948, the very year that Israel became a nation, Carey He
 
 Anchored Artifacts: A-1605.1
 Mentions: N-401, N-398
-Related Nodes: N-10400
+Related Nodes: N-10373
 Tags: relevance:tangential
 Investigative Direction: Check Falwell Sr.'s biographies for the year of his conversion and his father's death.
 
@@ -3074,7 +3074,7 @@ Transcript Snippet: He became a televangelist and he established Lynchburg Colle
 
 Anchored Artifacts: 
 Mentions: N-398
-Related Nodes: N-11104
+Related Nodes: N-11022
 Tags: relevance:context
 Investigative Direction: Verify Liberty's founding date and original name from university history and Virginia charter records.
 
@@ -3090,7 +3090,7 @@ Transcript Snippet: in 1979, Jerry Falwell Sr. was gifted a Learjet from the fou
 
 Anchored Artifacts: A-1601.1
 Mentions: N-398, N-400
-Related Nodes: N-10393
+Related Nodes: N-10366
 Supports: C-4805
 Tags: relevance:context
 Investigative Direction: Check contemporaneous 1979 press reports and Falwell biographies on the Learjet gift.
@@ -3107,7 +3107,7 @@ Transcript Snippet: He offered to take Turning Point USA to the next level. Char
 
 Anchored Artifacts: 
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Identify the host's sources for the offer and any documents, messages or witnesses confirming its terms.
@@ -3140,7 +3140,7 @@ Transcript Snippet: And how Liberty University might be connected to the drug sm
 
 Anchored Artifacts: A-1602.1
 Mentions: 
-Related Nodes: N-10739, N-11104
+Related Nodes: N-10671, N-11022
 Supports: C-4405
 Tags: relevance:context
 Investigative Direction: Ask the host for the full email and its sources on a Liberty to Fort Huachuca link.
@@ -3157,7 +3157,7 @@ Transcript Snippet: I'm going to show you that these Egyptian planes I showed yo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253, N-10398
+Related Nodes: N-10239, N-10371
 Supports: C-4004
 Tags: relevance:core
 Investigative Direction: Compare the Egyptian aircraft tracking data with TPUSA Faith event calendars and pastor travel.
@@ -3174,7 +3174,7 @@ Transcript Snippet: he declared himself, just so you know, a Messiah.
 
 Anchored Artifacts: 
 Mentions: N-399, N-1
-Related Nodes: N-10399
+Related Nodes: N-10372
 Tags: relevance:context
 Investigative Direction: Verify Moon's messianic claims in the Washington Post article and the AmFest program for messianic framing.
 
@@ -3190,7 +3190,7 @@ Transcript Snippet: Those include The Washington Times Washington Times newspape
 
 Anchored Artifacts: A-2922.1
 Mentions: N-399
-Related Nodes: N-11169, N-10399
+Related Nodes: N-11085, N-10372
 Tags: relevance:context
 Investigative Direction: Retrieve the original 1997 Washington Post article and corporate property records for the cited holdings.
 
@@ -3206,7 +3206,7 @@ Transcript Snippet: This vast and bewildering multinational could be called Moon
 
 Anchored Artifacts: A-2922.2
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article and compare with Unification Church corporate filings.
 
@@ -3222,7 +3222,7 @@ Transcript Snippet: Washington area property owned by the church, its affiliated
 
 Anchored Artifacts: A-2922.3
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Tags: relevance:context
 Investigative Direction: Pull Washington-area property assessments for church-linked entities from 1997 records.
 
@@ -3254,7 +3254,7 @@ Transcript Snippet: Ideas without the money to back them up are just dreams
 
 Anchored Artifacts: A-2922.4
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article and the Rubenstein quotation in context.
 
@@ -3270,7 +3270,7 @@ Transcript Snippet: Beyond The Times, Moon affiliated entities are linked by a c
 
 Anchored Artifacts: A-2922.5
 Mentions: N-399
-Related Nodes: N-11169, N-10399
+Related Nodes: N-11085, N-10372
 Supports: C-4825
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article and compare with Washington Times circulation audits.
@@ -3287,7 +3287,7 @@ Transcript Snippet: Executives of Unification-related entities have acknowledged
 
 Anchored Artifacts: A-2922.5
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Supports: C-4844
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article and the executives' original statements.
@@ -3304,7 +3304,7 @@ Transcript Snippet: have eluded investigators on three continents over the past 
 
 Anchored Artifacts: A-2922.6
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article for the full sentence and cited investigators.
 
@@ -3320,7 +3320,7 @@ Transcript Snippet: And then after he went to Korea, he went to Japan.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's travel itinerary and event schedule for the Korea and Japan trip in September 2025.
 
@@ -3336,7 +3336,7 @@ Transcript Snippet: Yeah, South Korean Christian Zionists open the country's fir
 
 Anchored Artifacts: A-2921.1
 Mentions: N-3
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:tangential
 Investigative Direction: Retrieve the article, its date and the sponsors of the museum.
 
@@ -3352,7 +3352,7 @@ Transcript Snippet: inviting professors, clergy, media executives and other opin
 
 Anchored Artifacts: A-2922.7
 Mentions: N-399
-Related Nodes: N-10399, N-10398
+Related Nodes: N-10372, N-10371
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article and compare with TPUSA Faith pastor summit funding.
 
@@ -3368,7 +3368,7 @@ Transcript Snippet: They had a pastor summit um Rob McCoy, as I showed you that.
 
 Anchored Artifacts: 
 Mentions: N-17, N-205, N-3
-Related Nodes: N-10398, N-10209
+Related Nodes: N-10371, N-10201
 Tags: relevance:core
 Investigative Direction: Find the TPUSA Faith pastor summit schedule, speaker list and funding sources.
 
@@ -3384,7 +3384,7 @@ Transcript Snippet: They'll have a conference on the essence of religious founde
 
 Anchored Artifacts: A-2922.7
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article and identify the former priest by name.
 
@@ -3400,7 +3400,7 @@ Transcript Snippet: when I worked for the Daily Wire, they used to bring me comp
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11170
+Related Nodes: N-11086
 Tags: relevance:context
 Investigative Direction: Ask former Daily Wire staff or review sponsor lists for IFCJ ad placements during the host's tenure.
 
@@ -3416,7 +3416,7 @@ Transcript Snippet: This doesn't feel like a fellowship. So, no.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11170
+Related Nodes: N-11086
 Tags: relevance:context
 Investigative Direction: Review the IFCJ's website and Form 990 for its stated programs and donors.
 
@@ -3432,7 +3432,7 @@ Transcript Snippet: shares a suite with the Martial Arts Federation for World Pe
 
 Anchored Artifacts: A-2922.8
 Mentions: N-399
-Related Nodes: N-11169, N-10399
+Related Nodes: N-11085, N-10372
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article and corporate registrations for the three entities.
 
@@ -3448,7 +3448,7 @@ Transcript Snippet: said he believed that virtually none of the uni- Unification
 
 Anchored Artifacts: A-2922.9
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article and identify Paquette's role.
 
@@ -3464,7 +3464,7 @@ Transcript Snippet: He established DOVE to determine that answer.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11171, N-10000
+Related Nodes: N-11087, N-10000
 Tags: relevance:core
 Investigative Direction: Find the internal TPUSA document or announcement of the "internet DOGE" effort (see C-2136) and what it examined.
 
@@ -3480,7 +3480,7 @@ Transcript Snippet: SEC filings show that the cash uh for Nostalgia, that's one 
 
 Anchored Artifacts: A-2922.10
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Supports: C-4839
 Tags: relevance:context
 Investigative Direction: Pull the SEC filings referenced in the article for Nostalgia.
@@ -3497,7 +3497,7 @@ Transcript Snippet: Rev Moon sent bags of cash, big fat bags, stacks and stacks 
 
 Anchored Artifacts: A-2922.11
 Mentions: N-399
-Related Nodes: N-10399
+Related Nodes: N-10372
 Tags: relevance:context
 Investigative Direction: Retrieve the Washington Post article and the Paquette statement in full.
 
@@ -3513,7 +3513,7 @@ Transcript Snippet: And he's being told that he's there for reasons that have to
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Obtain the Japan itinerary, host organizations and stated purpose of Kirk's Tokyo stop.
 
@@ -3529,7 +3529,7 @@ Transcript Snippet: But again, I don't think that's why the McCoys were pushing 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-17, N-190
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Find who invited Kirk to Build Up Korea and any correspondence between the McCoys and the organizers.
 
@@ -3545,7 +3545,7 @@ Transcript Snippet: He was arrested on September 9th. Now, to remind you, Charli
 
 Anchored Artifacts: A-1603.1
 Mentions: N-1, N-402
-Related Nodes: N-10397
+Related Nodes: N-10370
 Supports: C-4850
 Tags: relevance:core
 Investigative Direction: Obtain the Build Up Korea program and Kirk's flight records and compare with the Korean court record for Yoon's arrest.
@@ -3562,7 +3562,7 @@ Transcript Snippet: Charlie made sure that he will use his platform and his voic
 
 Anchored Artifacts: A-1600.1
 Mentions: N-403, N-1, N-402
-Related Nodes: N-10397
+Related Nodes: N-10370
 Supports: C-4851
 Tags: relevance:core
 Investigative Direction: Find Kirk's posts or shows after the Seoul trip in which he discussed Pastor Yoon.
@@ -3579,7 +3579,7 @@ Transcript Snippet: the organization Advocates for Faith and Freedom has launche
 
 Anchored Artifacts: A-1600.1
 Mentions: N-402
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:context
 Investigative Direction: Locate the petition and the organization's registration and funding.
 
@@ -3595,7 +3595,7 @@ Transcript Snippet: it's because an offer came to him uh to become the next Moon
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11175, N-10342, N-10000
+Related Nodes: N-11091, N-10320, N-10000
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Identify any documented offer, term sheet or donor proposal presented to Kirk and any witness to it.
@@ -3612,7 +3612,7 @@ Transcript Snippet: I would imagine that if you're his lieutenants and you're th
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11175
+Related Nodes: N-11091
 Tags: relevance:core
 Investigative Direction: Identify who was told of any such offer and whether any financial gain accrued to TPUSA leaders after Kirk's death.
 
@@ -3703,7 +3703,7 @@ Transcript Snippet: I suggested uh that it was trafficking when I started lookin
 
 Anchored Artifacts: A-2923.2
 Mentions: N-3
-Related Nodes: N-10253, N-10398
+Related Nodes: N-10239, N-10371
 Tags: relevance:core
 Investigative Direction: Compare her earlier episodes on the Egyptian planes with the trafficking suggestion.
 
@@ -3719,7 +3719,7 @@ Transcript Snippet: this faith faith just came on very suddenly
 
 Anchored Artifacts: A-2923.2
 Mentions: N-1, N-3
-Related Nodes: N-10398
+Related Nodes: N-10371
 Tags: relevance:core
 Investigative Direction: Compare TPUSA Faith's launch date with the organization's earlier messaging.
 
@@ -3765,7 +3765,7 @@ Transcript Snippet: I do believe that he has some connection to Fort Huachuca as
 
 Anchored Artifacts: A-2923.3
 Mentions: N-799, N-3
-Related Nodes: N-10739
+Related Nodes: N-10671
 Supports: C-4405
 Tags: relevance:context
 Investigative Direction: Check Vallely's biography for Fort Huachuca assignments or affiliations.
@@ -3782,7 +3782,7 @@ Transcript Snippet: woke up at woke up at 4:00 a. m. in the morning and I said I
 
 Anchored Artifacts: 
 Mentions: N-66, N-3
-Related Nodes: N-11102, N-10242
+Related Nodes: N-11020, N-10202
 Tags: relevance:tangential
 Investigative Direction: Ask Village Crazy Lady for the timing of the message she says she sent.
 
@@ -3798,7 +3798,7 @@ Transcript Snippet: They do fund PragerU and they do fund the Daily Wire
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11102, N-10131
+Related Nodes: N-11020, N-10126
 Supports: C-2274
 Tags: relevance:context
 Investigative Direction: Review Wilks family giving records and Form 990 disclosures for PragerU and Daily Wire.
@@ -3815,7 +3815,7 @@ Transcript Snippet: They started Rob McCoy's church actually. They funded it.
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-11102
+Related Nodes: N-11020
 Supports: C-2273
 Tags: relevance:context
 Investigative Direction: Find Godspeak Calvary Chapel's founding documents and donor disclosures.
@@ -3839,7 +3839,7 @@ Investigative Direction: Find Kirk's own public statements about visions or prem
 
 # Optional Flags
 
-- **Name uncertainty**: Host uses "Harpole" in narration but the on-screen interview subject reads "Harpole." Preserved both spellings; node uses the artifact spelling. Flag N-10394.
+- **Name uncertainty**: Host uses "Harpole" in narration but the on-screen interview subject reads "Harpole." Preserved both spellings; node uses the artifact spelling. Flag N-10367.
 - **Email tip – requires verification**: A-1601.1 and A-1602.1 are third-party email tips read aloud by the host; underlying book passages and historical claims have not been independently verified within the episode. Flag A-1601.1, A-1602.1.
 - **Cited but not read in full**: A-1605.1 (Rolling Stone) and A-1606.1 (Forbes) are referenced by the host but the underlying article text is not displayed or read aloud. Flag A-1605.1, A-1606.1.
 - **Transcript ambiguity – care of "Wilkes brothers"**: Host refers to "the Wilkes brothers" funding PragerU and Daily Wire; spelling preserved as transcript renders it. Flag for verification.

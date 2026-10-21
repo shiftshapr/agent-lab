@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-61",
-            "N-10146"
+            "N-10141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -57,7 +57,7 @@
           ],
           "related_nodes": [
             "N-61",
-            "N-10146"
+            "N-10141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -84,7 +84,7 @@
           ],
           "related_nodes": [
             "N-61",
-            "N-10146"
+            "N-10141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,7 +163,7 @@
             "C-1104"
           ],
           "related_nodes": [
-            "N-10147"
+            "N-10142"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -192,7 +192,7 @@
           "related_nodes": [
             "N-133",
             "N-69",
-            "N-10150"
+            "N-10145"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -219,7 +219,7 @@
           ],
           "related_nodes": [
             "N-125",
-            "N-10151"
+            "N-10146"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -246,7 +246,7 @@
           ],
           "related_nodes": [
             "N-36",
-            "N-10148"
+            "N-10143"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,7 +345,7 @@
             "C-1104"
           ],
           "related_nodes": [
-            "N-10147"
+            "N-10142"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -530,7 +530,7 @@
       "related_nodes": [
         "N-61",
         "N-132",
-        "N-10147"
+        "N-10142"
       ]
     },
     {
@@ -575,7 +575,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ]
     },
     {
@@ -599,7 +599,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-69",
-        "N-10150"
+        "N-10145"
       ]
     },
     {
@@ -621,7 +621,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10151"
+        "N-10146"
       ]
     },
     {
@@ -644,15 +644,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-133",
-        "N-10150"
+        "N-10145"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10146",
-      "ref": "N-10146",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10141",
+      "ref": "N-10141",
       "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorensen Center building walking out calmly.",
       "related_artifacts": [
         "A-1183.1",
@@ -671,14 +671,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-61"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10139"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10147",
-      "ref": "N-10147",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10142",
+      "ref": "N-10142",
       "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The second of two foreign companions in the photo with Shaner Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site \"Buzzards and Bees.\" Remains unidentified by name as of this episode.",
       "related_artifacts": [
         "A-1188.1",
@@ -694,14 +696,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-128"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@type": "Topic",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host assertion that approximately 48 hours before his death Charlie Kirk informed Turning Point USA staff, Jewish donors, and a rabbi that he was abandoning the pro-Israel cause, and that he intended to bring Candace Owens back. Currently host-testimony only with no displayed artifact in this episode; TPUSA has been publicly challenged to deny. Verification target.",
       "related_artifacts": [
         "A-1191.1"
@@ -716,29 +719,34 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-36"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10149",
-      "ref": "N-10149",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10144",
+      "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host assertion that Timpanogos Regional Hospital was not the closest trauma-equipped facility and that the hospital had just named Andrew Zenger as a new CEO/surgeon on the same day Charlie's tour was announced. Lacks displayed artifact in this episode; verification target.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1120"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10150",
-      "ref": "N-10150",
+      "@type": "Event",
+      "@id": "N-10145",
+      "ref": "N-10145",
       "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Verified via Daily Mail: Kash Patel fired the Utah FBI Bureau chief and additional personnel, replaced by Robert Bohls in August 2025; Bowles in his first week on the job at the time of the shooting. Investigation target remains: who approved the timing, who vetted Bowles, and what the chain of command was on September 10.",
       "related_artifacts": [
         "A-1189.1"
@@ -755,14 +763,18 @@
       "related_nodes": [
         "N-133",
         "N-69"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08",
+      "parent": "N-10194"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10151",
-      "ref": "N-10151",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10146",
+      "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.",
       "related_artifacts": [
         "A-1190.1"
@@ -777,7 +789,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-125"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1084,11 +1097,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; the host challenges its executives to deny her claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1107,14 +1120,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet to which Phil Lyman reiterated his driveway account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1124,14 +1139,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the September 10 event; the second Utah stop was scheduled 20 days later at USU.",
       "related_artifacts": [],
       "related_claims": [
@@ -1141,14 +1158,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic cited for the host's claim about creator payments through an agent of Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1158,14 +1177,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering George Zinn's role as the decoy boy.",
       "related_artifacts": [],
       "related_claims": [
@@ -1177,14 +1197,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@type": "Topic",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering donor pressure on Kirk about Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1197,14 +1218,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10048",
-      "ref": "N-10048",
+      "@type": "Topic",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the assassination investigation as a whole.",
       "related_artifacts": [],
       "related_claims": [
@@ -1214,14 +1236,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@type": "Topic",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the dispute over Kirk's position on Israel and the letter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1237,14 +1260,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10076",
-      "ref": "N-10076",
+      "@type": "Topic",
+      "@id": "N-10073",
+      "ref": "N-10073",
       "name": "Cameragate Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the removal of cameras after the shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1279,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10085",
-      "ref": "N-10085",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10081",
+      "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering the wound location and trajectory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1273,14 +1298,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10086",
-      "ref": "N-10086",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10082",
+      "ref": "N-10082",
       "name": "Transponder / Plane Anomaly Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering the plane transponder anomaly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1290,14 +1316,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10094",
-      "ref": "N-10094",
+      "@type": "Organization",
+      "@id": "N-10090",
+      "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Church in which the host says Mike Mitchell is a Boy Scout leader.",
       "related_artifacts": [],
       "related_claims": [
@@ -1307,14 +1334,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10103",
-      "ref": "N-10103",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10099",
+      "ref": "N-10099",
       "name": "Bulletproof Vest Absence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering whether Kirk wore a bulletproof vest.",
       "related_artifacts": [],
       "related_claims": [
@@ -1324,14 +1353,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10106",
-      "ref": "N-10106",
+      "@type": "Topic",
+      "@id": "N-10102",
+      "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering alleged donor leverage over Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1341,14 +1371,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10115",
-      "ref": "N-10115",
+      "@type": "Topic",
+      "@id": "N-10111",
+      "ref": "N-10111",
       "name": "Soviet Education Infiltration",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic cited for the host's claim of a communist underground targeting children.",
       "related_artifacts": [],
       "related_claims": [
@@ -1358,14 +1390,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10141",
-      "ref": "N-10141",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10136",
+      "ref": "N-10136",
       "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering the thin public record on Mike Mitchell.",
       "related_artifacts": [],
       "related_claims": [
@@ -1376,14 +1409,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10144",
-      "ref": "N-10144",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10139",
+      "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering Phil Lyman's proximity to and behavior in the investigation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1397,31 +1431,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10156",
-      "ref": "N-10156",
-      "name": "Hospital Routing Anomaly",
-      "type": "investigation_target",
-      "description": "Topic covering the hospital routing question.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1120"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10180",
-      "ref": "N-10180",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10172",
+      "ref": "N-10172",
       "name": "Bullet Trajectory and Caliber Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering bullet trajectory and caliber questions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1432,14 +1450,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10192",
-      "ref": "N-10192",
+      "@type": "Topic",
+      "@id": "N-10184",
+      "ref": "N-10184",
       "name": "Camera Operator Behavior Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the camera operator's behavior.",
       "related_artifacts": [],
       "related_claims": [
@@ -1451,14 +1470,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10840",
-      "ref": "N-10840",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10763",
+      "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering whether an ambulance stood by at the event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1468,14 +1488,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10908",
-      "ref": "N-10908",
+      "@type": "Topic",
+      "@id": "N-10829",
+      "ref": "N-10829",
       "name": "Back-Camera and Platform Setup Introduction (2025 Tour)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the new back-camera and platform setup on the 2025 tour.",
       "related_artifacts": [],
       "related_claims": [
@@ -1485,12 +1506,13 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
-      "@id": "N-11167",
-      "ref": "N-11167",
+      "@id": "N-11083",
+      "ref": "N-11083",
       "name": "Operation Underground Railroad",
       "type": "organization",
       "description": "Organization. Anti-trafficking charity formerly led by Tim Ballard; the host recalls its shirts on the owners of the transponder plane and a Lyman meeting with Ballard.",
@@ -1503,12 +1525,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11217",
-      "ref": "N-11217",
+      "@id": "N-11133",
+      "ref": "N-11133",
       "name": "Utah State University",
       "type": "organization",
       "description": "Organization. Second Utah campus on Kirk's tour, scheduled about 20 days after the UVU event.",
@@ -1520,12 +1544,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
-      "@id": "N-11218",
-      "ref": "N-11218",
+      "@id": "N-11134",
+      "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
       "type": "organization",
       "description": "Organization. Hospital to which Kirk was taken; the host raises routing, trauma-level and leadership-change questions.",
@@ -1539,7 +1565,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     }
   ],
   "claims": [
@@ -1553,7 +1581,7 @@
         "A-1183.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [],
       "claim_timestamp": "00:12:16–00:14:30",
@@ -1573,7 +1601,7 @@
         "A-1184.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [],
       "claim_timestamp": "00:14:45–00:15:55",
@@ -1592,7 +1620,7 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [],
       "claim_timestamp": "00:15:58",
@@ -1611,7 +1639,7 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21–00:18:35",
@@ -1631,7 +1659,7 @@
         "A-1186.1"
       ],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [],
       "claim_timestamp": "00:10:39–00:11:29",
@@ -1669,7 +1697,7 @@
         "A-1188.1"
       ],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [],
       "claim_timestamp": "00:19:14–00:19:58",
@@ -1704,7 +1732,7 @@
         "A-1189.1"
       ],
       "related_nodes": [
-        "N-10150"
+        "N-10145"
       ],
       "tags": [],
       "claim_timestamp": "00:30:55–00:32:40",
@@ -1725,7 +1753,7 @@
         "A-1190.1"
       ],
       "related_nodes": [
-        "N-10151"
+        "N-10146"
       ],
       "tags": [],
       "claim_timestamp": "00:21:52–00:22:45",
@@ -1744,7 +1772,7 @@
         "A-1191.1"
       ],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [],
       "claim_timestamp": "00:34:37–00:35:21",
@@ -1798,7 +1826,7 @@
         "A-1189.1"
       ],
       "related_nodes": [
-        "N-10150"
+        "N-10145"
       ],
       "tags": [],
       "claim_timestamp": "00:32:15",
@@ -1835,8 +1863,8 @@
       "claim": "The host says that the very people who had been threatening Charlie Kirk reputationally and financially are now trying to memorialize him as having died as a friend of Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056",
-        "N-10047"
+        "N-10053",
+        "N-10044"
       ],
       "tags": [
         "relevance:context"
@@ -1857,7 +1885,7 @@
       "claim": "The host says that on the previous day she asked the public to identify two individuals whom Phil Lyman's nephew described as close friends who retraced the path of Charlie's killer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -1882,7 +1910,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:context"
@@ -1907,7 +1935,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10006",
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -1930,7 +1958,7 @@
       "claim": "The host says Shaner Broderick created a map of where the killer walked and that the media used his map.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -1952,7 +1980,7 @@
         "A-2999.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -1976,7 +2004,7 @@
         "A-2999.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -2001,7 +2029,7 @@
       "claim": "The host says that, according to a very strong source, Phil Lyman was in town on Saturday to meet with Tim Ballard.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11167"
+        "N-11083"
       ],
       "tags": [
         "relevance:context"
@@ -2023,8 +2051,8 @@
       "claim": "The host says she remembers that the individuals who owned the plane with the transponder that turned off were wearing an Operation Underground Railroad t-shirt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11167",
-        "N-10086"
+        "N-11083",
+        "N-10082"
       ],
       "tags": [
         "relevance:core"
@@ -2046,7 +2074,7 @@
         "A-2999.1"
       ],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -2093,7 +2121,7 @@
       "claim": "The host says that since the previous episode Shaner Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram and then removed the photos of his investigation into who Charlie Kirk's killer was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2116,7 +2144,7 @@
         "A-2999.1"
       ],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2140,7 +2168,7 @@
         "A-2999.1"
       ],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2161,7 +2189,7 @@
       "claim": "The host says that, unlike in all her earlier investigations, no viewer emailed to say they knew either the blonde or the person in the blue hat who were with Shaner Broderick.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2182,7 +2210,7 @@
       "claim": "The host says the man in the blue hat resembles, more than Tyler Robinson does, the blurred image of the individual coming up the stairs, and that he looks about the same height.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2205,7 +2233,7 @@
         "A-1187.1"
       ],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2231,7 +2259,7 @@
         "A-1183.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -2257,7 +2285,7 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -2280,7 +2308,7 @@
         "A-1183.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -2303,8 +2331,8 @@
         "A-1183.1"
       ],
       "related_nodes": [
-        "N-10146",
-        "N-10180"
+        "N-10141",
+        "N-10172"
       ],
       "tags": [
         "relevance:core"
@@ -2328,7 +2356,7 @@
         "A-1184.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -2350,7 +2378,7 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -2372,7 +2400,7 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-10146"
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -2397,7 +2425,7 @@
         "A-1188.1"
       ],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2420,8 +2448,8 @@
       "claim": "The host says she learned that Detective Mike Mitchell is a Boy Scout leader in the LDS Church.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10094",
-        "N-10141"
+        "N-10090",
+        "N-10136"
       ],
       "tags": [
         "relevance:context"
@@ -2442,8 +2470,8 @@
       "claim": "The host says that, if this is the correct Mike Mitchell, he says he was on the force for 25 years and this individual began his career in 1999, which fits the timeline of the undercover work, and she has a strong hunch it is the right person.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10141",
-        "N-10151"
+        "N-10136",
+        "N-10146"
       ],
       "tags": [
         "relevance:core"
@@ -2467,7 +2495,7 @@
       "claim": "The host says that because Mike Mitchell created messages online as an undercover detective, that does not necessarily mean he authored the fake bed messages, though she finds the overlap interesting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10151",
+        "N-10146",
         "N-10032"
       ],
       "tags": [
@@ -2537,7 +2565,7 @@
       "claim": "The host says she has a hunch about who the goth person is, and ventures that he is not from Utah because no one has written to say they went to high school with him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2559,7 +2587,7 @@
         "A-2998.1"
       ],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:context"
@@ -2579,7 +2607,7 @@
       "claim": "The host says she is starting to think the assassination was akin to a regicide, the killing of a king to install a ruler he would not have approved, possibly with people who counseled him having betrayed him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -2602,7 +2630,7 @@
         "A-1195.1"
       ],
       "related_nodes": [
-        "N-10103"
+        "N-10099"
       ],
       "tags": [
         "relevance:core"
@@ -2627,7 +2655,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-11217",
+        "N-11133",
         "N-10000"
       ],
       "tags": [
@@ -2689,9 +2717,8 @@
       "claim": "The host says she has received many tips that the hospital Charlie was taken to was not the closest, would not have been the first-choice hospital for such a wound, and was a smaller regional trauma three center that was farther away and less equipped.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11218",
-        "N-10149",
-        "N-10156"
+        "N-11134",
+        "N-10144"
       ],
       "tags": [
         "relevance:core"
@@ -2712,8 +2739,8 @@
       "claim": "The host says the hospital had just announced a brand new CEO named Andrew Zenger.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11218",
-        "N-10149"
+        "N-11134",
+        "N-10144"
       ],
       "tags": [
         "relevance:core"
@@ -2734,7 +2761,7 @@
       "claim": "The host says that states typically require an ambulance on standby above a certain attendance, that she does not know Utah law, and that it seemed atypical to her that there was no ambulance on standby.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10840"
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2754,7 +2781,7 @@
       "claim": "The host says the day Andrew Zenger was announced as the new CEO was also the day Charlie's tour was announced, with five dates, two of them in Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11218",
+        "N-11134",
         "N-10000"
       ],
       "tags": [
@@ -2779,8 +2806,8 @@
         "A-3001.1"
       ],
       "related_nodes": [
-        "N-10076",
-        "N-10192"
+        "N-10073",
+        "N-10184"
       ],
       "tags": [
         "relevance:core"
@@ -2805,7 +2832,7 @@
         "A-3001.1"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [
         "relevance:core"
@@ -2828,7 +2855,7 @@
         "A-3001.1"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [
         "relevance:core"
@@ -2850,8 +2877,8 @@
         "A-3001.1"
       ],
       "related_nodes": [
-        "N-10908",
-        "N-10076"
+        "N-10829",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2871,8 +2898,8 @@
       "claim": "The host says Charlie Kirk's perspective on Israel had not just started to shift but had shifted entirely, without qualification.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056",
-        "N-10148"
+        "N-10053",
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -2894,7 +2921,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -2917,7 +2944,7 @@
         "A-1191.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -2944,7 +2971,7 @@
         "A-1191.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -2965,7 +2992,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -2987,7 +3014,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:context"
@@ -3007,7 +3034,7 @@
       "claim": "The host says that about 48 hours before he died, Charlie told people at Turning Point, Jewish donors and a rabbi that he had no choice but to abandon the pro-Israel cause outright.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148",
+        "N-10143",
         "N-10000"
       ],
       "tags": [
@@ -3029,8 +3056,8 @@
       "claim": "The host says Charlie said explicitly that he refused to be bullied anymore by the Jewish donors.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047",
-        "N-10106"
+        "N-10044",
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -3051,7 +3078,7 @@
       "claim": "The host asks TPUSA to confirm or deny that Charlie also said he wanted to bring her back, and that he was killed about 48 hours later, before their on-stage reunion could happen.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -3092,8 +3119,8 @@
       "claim": "The host says Charlie did not die pro-Israel, and that the friends of Israel were pressuring him really badly and he was done.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056",
-        "N-10047"
+        "N-10053",
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3177,7 +3204,7 @@
       "claim": "The host says there is a real communist underground, that it is not imagined, and that the resource it wants is children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10115"
+        "N-10111"
       ],
       "tags": [
         "relevance:tangential"
@@ -3217,7 +3244,7 @@
         "A-3000.1"
       ],
       "related_nodes": [
-        "N-10180"
+        "N-10172"
       ],
       "tags": [
         "relevance:context"
@@ -3240,7 +3267,7 @@
       "claim": "The host says there have been lies from the beginning and that the idea that Charlie was paralyzed when he died ends today.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -3261,7 +3288,7 @@
       "claim": "The host says that they are still working to identify their goth suspect, and that the suspect is not the girl wearing black but the person in the photos with nephew or cousin Broderick.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -3287,7 +3314,7 @@
         "A-2998.2"
       ],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:context"
@@ -3307,7 +3334,7 @@
       "claim": "The host says she has been holding information close to her chest about where she is hearing Charlie's wounds were, and says she will have more the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"

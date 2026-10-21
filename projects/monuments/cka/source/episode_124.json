@@ -18,13 +18,13 @@
     "- **Transcript SHA-256**: 448a8189da2e8602111e8248d8480ad1e223b659b46e8eae9f2d0987ad1dd63b",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10b): N-773, N-774, N-11136",
-    "  - Hole-minted Nodes (reintro-ep124): N-10748",
-    "  - Tip-minted Nodes (reintro-ep124): N-11065",
+    "  - Tip-minted Nodes (supplement_2026-10b): N-773, N-774, N-11054",
+    "  - Hole-minted Nodes (reintro-ep124): N-10678",
+    "  - Tip-minted Nodes (reintro-ep124): N-10983",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-10598–C-10694",
-    "  - New Nodes Introduced: N-10709, N-10712",
-    "  - Reused Nodes Appearing: N-487, N-3, N-267, N-366, N-97, N-1, N-40, N-7, N-14, N-36, N-125, N-159, N-163, N-266, N-270, N-278, N-365, N-606, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135, N-775, N-11137, N-58, N-492, N-10713",
+    "  - New Nodes Introduced: N-10645, N-10648",
+    "  - Reused Nodes Appearing: N-487, N-3, N-267, N-366, N-97, N-1, N-40, N-7, N-14, N-36, N-125, N-159, N-163, N-266, N-270, N-278, N-365, N-606, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10048, N-10074, N-10354, N-10359, N-10362, N-10458, N-10523, N-10545, N-10617, N-10630, N-10639, N-10663, N-10821, N-10896, N-10937, N-10646, N-10647, N-11053, N-775, N-11055, N-58, N-492, N-10649",
     "  - (see registers)",
     "",
     "# Meta-Data",
@@ -42,7 +42,7 @@
     "Episode 124 Ledger Summary",
     "Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128",
     "Claim Range: C-10600 – C-10629, C-10677, C-10678, C-10603",
-    "New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713",
+    "New Nodes Introduced: N-10645, N-10646, N-10647, N-10648, N-10649",
     "Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlin Oliver, Samantha Karner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Prejean Boller)",
     "",
     "## 6. Meme Register",
@@ -1385,7 +1385,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-10621, N-10709*"
+     "raw": "*Related: C-10621, N-10645*"
     },
     {
      "raw": ""
@@ -1425,7 +1425,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-10621, N-10709*"
+     "raw": "*Related: C-10621, N-10645*"
     },
     {
      "raw": ""
@@ -1773,7 +1773,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-10642, N-10711*"
+     "raw": "*Related: C-10642, N-10647*"
     },
     {
      "raw": ""
@@ -1830,7 +1830,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-10647, N-10710*"
+     "raw": "*Related: C-10647, N-10646*"
     },
     {
      "raw": ""
@@ -1944,7 +1944,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-10667, N-10712, N-1*"
+     "raw": "*Related: C-10667, N-10648, N-1*"
     },
     {
      "raw": ""
@@ -1984,7 +1984,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-10678, N-3, N-97, N-10712*"
+     "raw": "*Related: C-10678, N-3, N-97, N-10648*"
     },
     {
      "raw": ""
@@ -2294,9 +2294,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10709",
-   "header": "**N-10709** Car Exhaust Pipe Discrepancy",
-   "label": "Car Exhaust Pipe Discrepancy",
+   "id": "N-10645",
+   "header": "**N-10645** Parking Garage Challenger Vehicle Exhaust Discrepancy",
+   "label": "Parking Garage Challenger Vehicle Exhaust Discrepancy",
    "lines": [
     {
      "raw": ""
@@ -2342,8 +2342,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10710",
-   "header": "**N-10710** Bullet Jacket Fragment Diameter Discrepancy",
+   "id": "N-10646",
+   "header": "**N-10646** Bullet Jacket Fragment Diameter Discrepancy",
    "label": "Bullet Jacket Fragment Diameter Discrepancy",
    "lines": [
     {
@@ -2390,8 +2390,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10711",
-   "header": "**N-10711** Tyler Robinson DNA Most Degraded Anomaly",
+   "id": "N-10647",
+   "header": "**N-10647** Tyler Robinson DNA Most Degraded Anomaly",
    "label": "Tyler Robinson DNA Most Degraded Anomaly",
    "lines": [
     {
@@ -2438,8 +2438,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10712",
-   "header": "**N-10712** Ben Shapiro Car Ride Live Updates",
+   "id": "N-10648",
+   "header": "**N-10648** Ben Shapiro Car Ride Live Updates",
    "label": "Ben Shapiro Car Ride Live Updates",
    "lines": [
     {
@@ -2486,8 +2486,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10713",
-   "header": "**N-10713** Tyler-Lance Text Message Extraction Source",
+   "id": "N-10649",
+   "header": "**N-10649** Tyler-Lance Text Message Extraction Source",
    "label": "Tyler-Lance Text Message Extraction Source",
    "lines": [
     {
@@ -2737,8 +2737,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10051",
-   "header": "**N-10051** Dairy Queen 6:38 Photo Verification",
+   "id": "N-10048",
+   "header": "**N-10048** Dairy Queen 6:38 Photo Verification",
    "label": "Dairy Queen 6:38 Photo Verification",
    "lines": [
     {
@@ -2766,8 +2766,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10077",
-   "header": "**N-10077** Robinson-Lance Text Chain Authenticity",
+   "id": "N-10074",
+   "header": "**N-10074** Robinson-Lance Text Chain Authenticity",
    "label": "Robinson-Lance Text Chain Authenticity",
    "lines": [
     {
@@ -2795,8 +2795,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10381",
-   "header": "**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
+   "id": "N-10354",
+   "header": "**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
    "label": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
    "lines": [
     {
@@ -2824,8 +2824,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10386",
-   "header": "**N-10386** Ben Shapiro Hostile Takeover Pattern",
+   "id": "N-10359",
+   "header": "**N-10359** Ben Shapiro Hostile Takeover Pattern",
    "label": "Ben Shapiro Hostile Takeover Pattern",
    "lines": [
     {
@@ -2853,8 +2853,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10389",
-   "header": "**N-10389** Charlie Kirk Premonition Dreams",
+   "id": "N-10362",
+   "header": "**N-10362** Charlie Kirk Premonition Dreams",
    "label": "Charlie Kirk Premonition Dreams",
    "lines": [
     {
@@ -2882,8 +2882,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10495",
-   "header": "**N-10495** BB Netanyahu Hamptons Dinner Allegation",
+   "id": "N-10458",
+   "header": "**N-10458** BB Netanyahu Hamptons Dinner Allegation",
    "label": "BB Netanyahu Hamptons Dinner Allegation",
    "lines": [
     {
@@ -2911,8 +2911,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10572",
-   "header": "**N-10572** ATF Bullet-to-Gun Inconclusive Finding",
+   "id": "N-10523",
+   "header": "**N-10523** ATF Bullet-to-Gun Inconclusive Finding",
    "label": "ATF Bullet-to-Gun Inconclusive Finding",
    "lines": [
     {
@@ -2940,8 +2940,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10598",
-   "header": "**N-10598** Lance Twiggs Federal Asset Question",
+   "id": "N-10545",
+   "header": "**N-10545** Lance Twiggs Federal Asset Question",
    "label": "Lance Twiggs Federal Asset Question",
    "lines": [
     {
@@ -2969,8 +2969,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10679",
-   "header": "**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation",
+   "id": "N-10617",
+   "header": "**N-10617** Lance Twiggs Preliminary Hearing Testimony Limitation",
    "label": "Lance Twiggs Preliminary Hearing Testimony Limitation",
    "lines": [
     {
@@ -2998,8 +2998,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10692",
-   "header": "**N-10692** 911 Call Origin in Hospital Transport Vehicle",
+   "id": "N-10630",
+   "header": "**N-10630** 911 Call Origin in Hospital Transport Vehicle",
    "label": "911 Call Origin in Hospital Transport Vehicle",
    "lines": [
     {
@@ -3027,8 +3027,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10703",
-   "header": "**N-10703** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
+   "id": "N-10639",
+   "header": "**N-10639** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
    "label": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
    "lines": [
     {
@@ -3056,8 +3056,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10729",
-   "header": "**N-10729** 911 Call Identification Gap",
+   "id": "N-10663",
+   "header": "**N-10663** 911 Call Identification Gap",
    "label": "911 Call Identification Gap",
    "lines": [
     {
@@ -3085,8 +3085,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10748",
-   "header": "**N-10748** Ben Shapiro 9/10 Lunch Meeting Identification",
+   "id": "N-10678",
+   "header": "**N-10678** Ben Shapiro 9/10 Lunch Meeting Identification",
    "label": "Ben Shapiro 9/10 Lunch Meeting Identification",
    "lines": [
     {
@@ -3114,8 +3114,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10900",
-   "header": "**N-10900** Daily Wire",
+   "id": "N-10821",
+   "header": "**N-10821** Daily Wire",
    "label": "Daily Wire",
    "lines": [
     {
@@ -3143,8 +3143,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10975",
-   "header": "**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+   "id": "N-10896",
+   "header": "**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
    "label": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
    "lines": [
     {
@@ -3172,8 +3172,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11017",
-   "header": "**N-11017** TPUSA Influencer Payment Campaign Allegation",
+   "id": "N-10937",
+   "header": "**N-10937** TPUSA Influencer Payment Campaign Allegation",
    "label": "TPUSA Influencer Payment Campaign Allegation",
    "lines": [
     {
@@ -3201,8 +3201,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11065",
-   "header": "**N-11065** Preliminary Hearing Influencer Invitation Question",
+   "id": "N-10983",
+   "header": "**N-10983** Preliminary Hearing Influencer Invitation Question",
    "label": "Preliminary Hearing Influencer Invitation Question",
    "lines": [
     {
@@ -3903,8 +3903,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11135",
-   "header": "**N-11135** Bullet Fragment Chain-of-Custody Question",
+   "id": "N-11053",
+   "header": "**N-11053** Bullet Fragment Chain-of-Custody Question",
    "label": "Bullet Fragment Chain-of-Custody Question",
    "lines": [
     {
@@ -3912,7 +3912,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "The host's point that seven fragments were reportedly taken from Charlie's body, but the ATF examiner testified she received four, found three unusable and examined one, labeled 6A."
@@ -3936,8 +3936,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11136",
-   "header": "**N-11136** Transport Car Cardboard-Like Piece Tip",
+   "id": "N-11054",
+   "header": "**N-11054** Transport Car Cardboard-Like Piece Tip",
    "label": "Transport Car Cardboard-Like Piece Tip",
    "lines": [
     {
@@ -3945,7 +3945,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "A tip the host says she received about a piece that looked like cardboard in the back of the transport vehicle."
@@ -3969,8 +3969,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11137",
-   "header": "**N-11137** Harpole Team Medical Response Competence Dispute",
+   "id": "N-11055",
+   "header": "**N-11055** Harpole Team Medical Response Competence Dispute",
    "label": "Harpole Team Medical Response Competence Dispute",
    "lines": [
     {
@@ -4376,7 +4376,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10709"
+     "v": "N-10645"
     },
     {
      "raw": ""
@@ -4595,7 +4595,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10711"
+     "v": "N-10647"
     },
     {
      "raw": ""
@@ -4651,7 +4651,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10711"
+     "v": "N-10647"
     },
     {
      "raw": ""
@@ -4707,7 +4707,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10711"
+     "v": "N-10647"
     },
     {
      "raw": ""
@@ -4763,7 +4763,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10710"
+     "v": "N-10646"
     },
     {
      "raw": ""
@@ -4876,7 +4876,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712"
+     "v": "N-10648"
     },
     {
      "raw": ""
@@ -4940,7 +4940,7 @@
     },
     {
      "k": "Investigative Direction",
-     "v": "Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-10713)."
+     "v": "Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-10649)."
     },
     {
      "raw": ""
@@ -4993,7 +4993,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712"
+     "v": "N-10648"
     },
     {
      "k": "Investigative Direction",
@@ -5050,7 +5050,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712"
+     "v": "N-10648"
     },
     {
      "k": "Investigative Direction",
@@ -5173,7 +5173,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11065"
+     "v": "N-10983"
     },
     {
      "k": "Tags",
@@ -5234,7 +5234,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11065"
+     "v": "N-10983"
     },
     {
      "k": "Tags",
@@ -5539,7 +5539,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10711"
+     "v": "N-10647"
     },
     {
      "k": "Tags",
@@ -5791,7 +5791,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10572"
+     "v": "N-10523"
     },
     {
      "k": "Tags",
@@ -5913,7 +5913,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10598, N-10703"
+     "v": "N-10545, N-10639"
     },
     {
      "k": "Tags",
@@ -5974,7 +5974,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10679, N-10598"
+     "v": "N-10617, N-10545"
     },
     {
      "k": "Tags",
@@ -6405,7 +6405,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10381"
+     "v": "N-10354"
     },
     {
      "k": "Supports",
@@ -6470,7 +6470,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10077, N-10381"
+     "v": "N-10074, N-10354"
     },
     {
      "k": "Tags",
@@ -6531,7 +6531,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10077"
+     "v": "N-10074"
     },
     {
      "k": "Supports",
@@ -6596,7 +6596,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10713, N-10077"
+     "v": "N-10649, N-10074"
     },
     {
      "k": "Tags",
@@ -6657,7 +6657,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10077"
+     "v": "N-10074"
     },
     {
      "k": "Tags",
@@ -6718,7 +6718,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10077"
+     "v": "N-10074"
     },
     {
      "k": "Tags",
@@ -6779,7 +6779,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10077"
+     "v": "N-10074"
     },
     {
      "k": "Tags",
@@ -6905,7 +6905,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10598"
+     "v": "N-10545"
     },
     {
      "k": "Tags",
@@ -6966,7 +6966,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10598"
+     "v": "N-10545"
     },
     {
      "k": "Tags",
@@ -7027,7 +7027,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10975"
+     "v": "N-10896"
     },
     {
      "k": "Tags",
@@ -7088,7 +7088,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10975"
+     "v": "N-10896"
     },
     {
      "k": "Tags",
@@ -7149,7 +7149,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10975"
+     "v": "N-10896"
     },
     {
      "k": "Tags",
@@ -7210,7 +7210,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10975, N-10711"
+     "v": "N-10896, N-10647"
     },
     {
      "k": "Tags",
@@ -7271,7 +7271,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10711"
+     "v": "N-10647"
     },
     {
      "k": "Tags",
@@ -7332,7 +7332,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10711, N-10703"
+     "v": "N-10647, N-10639"
     },
     {
      "k": "Supports",
@@ -7397,7 +7397,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11135, N-10975, N-10710"
+     "v": "N-11053, N-10896, N-10646"
     },
     {
      "k": "Tags",
@@ -7458,7 +7458,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10710, N-10572"
+     "v": "N-10646, N-10523"
     },
     {
      "k": "Supports",
@@ -7588,7 +7588,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11065"
+     "v": "N-10983"
     },
     {
      "k": "Supports",
@@ -7779,7 +7779,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11065"
+     "v": "N-10983"
     },
     {
      "k": "Tags",
@@ -7840,7 +7840,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11065"
+     "v": "N-10983"
     },
     {
      "k": "Tags",
@@ -7901,7 +7901,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11065"
+     "v": "N-10983"
     },
     {
      "k": "Supports",
@@ -7966,7 +7966,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11017"
+     "v": "N-10937"
     },
     {
      "k": "Tags",
@@ -8027,7 +8027,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10598, N-10679"
+     "v": "N-10545, N-10617"
     },
     {
      "k": "Tags",
@@ -8088,7 +8088,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10386"
+     "v": "N-10359"
     },
     {
      "k": "Tags",
@@ -8210,7 +8210,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10900"
+     "v": "N-10000, N-10821"
     },
     {
      "k": "Tags",
@@ -8271,7 +8271,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -8332,7 +8332,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Supports",
@@ -8397,7 +8397,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -8458,7 +8458,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748, N-10712"
+     "v": "N-10678, N-10648"
     },
     {
      "k": "Supports",
@@ -8523,7 +8523,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712"
+     "v": "N-10648"
     },
     {
      "k": "Tags",
@@ -8584,7 +8584,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712"
+     "v": "N-10648"
     },
     {
      "k": "Tags",
@@ -8645,7 +8645,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712"
+     "v": "N-10648"
     },
     {
      "k": "Tags",
@@ -8706,7 +8706,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712"
+     "v": "N-10648"
     },
     {
      "k": "Tags",
@@ -8767,7 +8767,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712"
+     "v": "N-10648"
     },
     {
      "k": "Tags",
@@ -8828,7 +8828,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10729, N-10692"
+     "v": "N-10663, N-10630"
     },
     {
      "k": "Supports",
@@ -8893,7 +8893,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712, N-10748"
+     "v": "N-10648, N-10678"
     },
     {
      "k": "Supports",
@@ -8958,7 +8958,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712"
+     "v": "N-10648"
     },
     {
      "k": "Tags",
@@ -9019,7 +9019,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10495"
+     "v": "N-10458"
     },
     {
      "k": "Supports",
@@ -9084,7 +9084,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10495, N-10018"
+     "v": "N-10458, N-10018"
     },
     {
      "k": "Supports",
@@ -9149,7 +9149,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10495, N-10027"
+     "v": "N-10458, N-10027"
     },
     {
      "k": "Tags",
@@ -9210,7 +9210,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11136, N-10712"
+     "v": "N-11054, N-10648"
     },
     {
      "k": "Tags",
@@ -9271,7 +9271,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11136, N-11017"
+     "v": "N-11054, N-10937"
     },
     {
      "k": "Tags",
@@ -9332,7 +9332,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10598"
+     "v": "N-10545"
     },
     {
      "k": "Tags",
@@ -9393,7 +9393,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10381"
+     "v": "N-10354"
     },
     {
      "k": "Supports",
@@ -9458,7 +9458,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10389"
+     "v": "N-10362"
     },
     {
      "k": "Tags",
@@ -9519,7 +9519,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11137, N-10692"
+     "v": "N-11055, N-10630"
     },
     {
      "k": "Tags",
@@ -9580,7 +9580,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11137"
+     "v": "N-11055"
     },
     {
      "k": "Tags",
@@ -9641,7 +9641,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11137"
+     "v": "N-11055"
     },
     {
      "k": "Supports",
@@ -9706,7 +9706,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11137, N-10692"
+     "v": "N-11055, N-10630"
     },
     {
      "k": "Tags",
@@ -9767,7 +9767,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10051, N-10028"
+     "v": "N-10048, N-10028"
     },
     {
      "k": "Tags",
@@ -9915,7 +9915,7 @@
    "lines": [
     "# VI. Optional Flags",
     "",
-    "- **Tel Aviv extraction source:** Host reference only; not visually confirmed in the displayed text messages. See N-10713.",
+    "- **Tel Aviv extraction source:** Host reference only; not visually confirmed in the displayed text messages. See N-10649.",
     "- **Panguitch steak receipt:** Referenced by host as documentary proof Tyler was at 9:47 PM in Panguitch (3 hours from UVU); receipt not displayed in this episode.",
     "- **Bill Ackman $1 million pledge:** Referenced as fact; no artifact (clip, screenshot, press release) displayed in this episode.",
     "- **Erika Kirk / Bari Weiss interview:** Referenced as showing Erika \"made up her mind\" pre-hearing; no clip displayed in this episode.",

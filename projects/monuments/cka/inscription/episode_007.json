@@ -153,7 +153,7 @@
           "related_nodes": [
             "N-94",
             "N-10014",
-            "N-10084"
+            "N-10080"
           ],
           "tags": [],
           "video_timestamp": "00:17:12–00:17:48",
@@ -178,7 +178,7 @@
           ],
           "related_nodes": [
             "N-10012",
-            "N-10085"
+            "N-10081"
           ],
           "tags": [],
           "video_timestamp": "00:20:46–00:21:00",
@@ -195,7 +195,7 @@
           ],
           "related_nodes": [
             "N-10012",
-            "N-10085"
+            "N-10081"
           ],
           "tags": [],
           "video_timestamp": "00:21:13–00:21:27",
@@ -234,7 +234,7 @@
           ],
           "related_nodes": [
             "N-60",
-            "N-10082"
+            "N-10079"
           ],
           "tags": [],
           "video_timestamp": "00:27:15–00:28:40",
@@ -354,7 +354,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10083"
+            "N-10070"
           ],
           "tags": [],
           "video_timestamp": "00:39:25–00:42:59",
@@ -967,8 +967,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10082",
-      "ref": "N-10082",
+      "@id": "N-10079",
+      "ref": "N-10079",
       "name": "CIA",
       "type": "organization",
       "description": "Central Intelligence Agency; subject of merch complaint.",
@@ -983,7 +983,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
+      "organization_kind": "government_agency",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1003,7 +1005,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "nonprofit"
+      "organization_kind": "nonprofit",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1026,12 +1030,14 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "educational_institution"
+      "organization_kind": "educational_institution",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
-      "@id": "N-10083",
-      "ref": "N-10083",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "AIPAC",
       "type": "organization",
       "description": "Pro-Israel lobbying organization discussed at Charlie's town hall.",
@@ -1047,12 +1053,14 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "advocacy_group"
+      "organization_kind": "advocacy_group",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-10084",
-      "ref": "N-10084",
+      "@id": "N-10080",
+      "ref": "N-10080",
       "name": "FAA",
       "type": "organization",
       "description": "Federal Aviation Administration; consulted re transponder claim.",
@@ -1067,14 +1075,16 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
+      "organization_kind": "government_agency",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10085",
-      "ref": "N-10085",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10081",
+      "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Mismatch between expected high-velocity bullet behavior and reported no-exit-wound outcome.",
       "related_artifacts": [
         "A-1135.1",
@@ -1091,14 +1101,15 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10086",
-      "ref": "N-10086",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10082",
+      "ref": "N-10082",
       "name": "Transponder / Plane Anomaly Investigation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Dispute between FBI (lost signal) and plane owner (ATC-permitted shutdown).",
       "related_artifacts": [
         "A-1137.1",
@@ -1112,14 +1123,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10087",
-      "ref": "N-10087",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10083",
+      "ref": "N-10083",
       "name": "UVU Underground Tunnel / Pipeline Investigation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Hypothesis that underground access near Charlie's seat could explain no-exit-wound outcome.",
       "related_artifacts": [
         "A-1139.1",
@@ -1134,12 +1146,13 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-10088",
-      "ref": "N-10088",
+      "@id": "N-10084",
+      "ref": "N-10084",
       "name": "Candace Owens FBI/CIA Reporting Incident",
       "type": "topic",
       "description": "Allegation that Candace was reported to FBI and CIA over merch and rhetoric.",
@@ -1154,12 +1167,13 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-10089",
-      "ref": "N-10089",
+      "@id": "N-10085",
+      "ref": "N-10085",
       "name": "Charlie Kirk / Candace Alleged Falling Out",
       "type": "topic",
       "description": "Disputed narrative that Charlie and Candace had a breakup; host denies.",
@@ -1176,14 +1190,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-10090",
-      "ref": "N-10090",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10086",
+      "ref": "N-10086",
       "name": "Screwdriver Evidence Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Viewer claim that screwdriver reportedly found on roof doesn't fit the rifle.",
       "related_artifacts": [
         "A-1145.1"
@@ -1196,12 +1211,14 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
       "@type": "Topic",
-      "@id": "N-10091",
-      "ref": "N-10091",
+      "@id": "N-10087",
+      "ref": "N-10087",
       "name": "Dr. Frank Turek Suspicion",
       "type": "topic",
       "description": "Viewer-raised suspicion about Dr. Frank Turek's memorial speech and possible guilt.",
@@ -1216,7 +1233,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1357,11 +1375,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "TMZ; received the witness's footage per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1371,14 +1389,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Federal Bureau of Investigation; Patel's agency and the body the host says she was reported to.",
       "related_artifacts": [],
       "related_claims": [
@@ -1389,14 +1409,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10024",
       "ref": "N-10024",
       "name": "Kirk Assassination Investigation Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Kirk Assassination Investigation Timeline; the host's planned minute-by-minute timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -1406,14 +1428,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10045"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The Hamptons; location of the gathering the host mentions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1423,14 +1447,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Decoy Boy Operation Analysis; topic covering Zinn's role.",
       "related_artifacts": [],
       "related_claims": [
@@ -1440,14 +1465,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10036",
-      "ref": "N-10036",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10035",
+      "ref": "N-10035",
       "name": "Building Donor Withdrawal Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Building Donor Withdrawal Investigation; donor pulled funding and demanded name removal.",
       "related_artifacts": [],
       "related_claims": [
@@ -1457,14 +1483,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@type": "Topic",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Donor Intimidation of Charlie Kirk; topic for pressure on Charlie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1475,14 +1503,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10053",
-      "ref": "N-10053",
+      "@type": "Topic",
+      "@id": "N-10050",
+      "ref": "N-10050",
       "name": "Vacant-House / Decoy Shooter Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Vacant-House / Decoy Shooter Theory; the vacant UVU-owned house.",
       "related_artifacts": [],
       "related_claims": [
@@ -1492,14 +1521,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10032"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10054",
-      "ref": "N-10054",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10051",
+      "ref": "N-10051",
       "name": "Caldera Engineering Valve Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Caldera Engineering Valve Pattern; the witness's valve company.",
       "related_artifacts": [],
       "related_claims": [
@@ -1509,14 +1540,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10062"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10060",
-      "ref": "N-10060",
+      "@type": "Thing",
+      "@id": "N-10057",
+      "ref": "N-10057",
       "name": "Good Morning America",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Good Morning America; where the children appeared.",
       "related_artifacts": [],
       "related_claims": [
@@ -1526,14 +1559,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Gaza; context for the leaked thread and Israel remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1544,14 +1578,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@type": "Organization",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Mail; reported the host raged about not being invited.",
       "related_artifacts": [],
       "related_claims": [
@@ -1561,14 +1596,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10076",
-      "ref": "N-10076",
+      "@type": "Topic",
+      "@id": "N-10073",
+      "ref": "N-10073",
       "name": "Cameragate Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Cameragate Investigation; camera removal after the shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1578,14 +1615,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10080",
-      "ref": "N-10080",
+      "@type": "Topic",
+      "@id": "N-10077",
+      "ref": "N-10077",
       "name": "Valve/Piping Industry Intelligence Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Valve/Piping Industry Intelligence Connection; the host's valve remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1595,14 +1633,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10094",
-      "ref": "N-10094",
+      "@type": "Organization",
+      "@id": "N-10090",
+      "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "LDS Church; the host's intelligence recruiting remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1612,14 +1651,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10104",
-      "ref": "N-10104",
+      "@type": "Topic",
+      "@id": "N-10100",
+      "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Catholic Conversion Rumor; Charlie and Catholicism.",
       "related_artifacts": [],
       "related_claims": [
@@ -1630,14 +1671,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tyler Robinson Evidence Gaps; the disappeared letter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1647,14 +1689,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10134",
-      "ref": "N-10134",
+      "@type": "Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Hamptons Weekend Retreat; gathering context.",
       "related_artifacts": [],
       "related_claims": [
@@ -1664,14 +1707,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@type": "Topic",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Operation Mocking Pastor; what the host says the $150 million funded.",
       "related_artifacts": [],
       "related_claims": [
@@ -1681,14 +1728,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "AmFest Speaker Removal Pattern; the host says she was blocked from speaking.",
       "related_artifacts": [],
       "related_claims": [
@@ -1698,14 +1746,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10297",
-      "ref": "N-10297",
+      "@type": "Event",
+      "@id": "N-10279",
+      "ref": "N-10279",
       "name": "Eric Bolling / PBD Podcast Apology Incident",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Eric Bolling / PBD Podcast Apology Incident; Bolling topic reused for his breakup claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1715,14 +1764,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Andrew Kolvet Surgeon Bullet Description; Kolvet statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1732,14 +1783,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Bibi Netanyahu TPUSA Funding Offer; alleged offer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1750,14 +1802,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Wire; the host's former employer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1767,14 +1820,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11004",
-      "ref": "N-11004",
+      "@type": "Topic",
+      "@id": "N-10924",
+      "ref": "N-10924",
       "name": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens; the funding claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1784,14 +1839,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11116",
-      "ref": "N-11116",
+      "@type": "Topic",
+      "@id": "N-11034",
+      "ref": "N-11034",
       "name": "Candace Owens Daily Wire Firing Reasons",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Candace Owens Daily Wire Firing Reasons; her job loss.",
       "related_artifacts": [],
       "related_claims": [
@@ -1801,7 +1857,31 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-585",
+        "C-645",
+        "C-584",
+        "C-587",
+        "C-647"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1815,7 +1895,9 @@
         "A-1134.1",
         "A-1134.2"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [],
       "claim_timestamp": "00:02:05",
       "investigative_direction": "Verify the full text/transcript of Erika's speech against published recording.",
@@ -1836,7 +1918,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10085"
+        "N-10081"
       ],
       "tags": [],
       "claim_timestamp": "00:08:41",
@@ -1856,7 +1938,7 @@
         "A-1135.1"
       ],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [],
       "claim_timestamp": "00:08:48",
@@ -1877,7 +1959,7 @@
         "A-1136.1"
       ],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [],
       "claim_timestamp": "00:12:19",
@@ -1922,8 +2004,8 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10084",
-        "N-10086"
+        "N-10080",
+        "N-10082"
       ],
       "tags": [],
       "claim_timestamp": "00:17:00",
@@ -1948,7 +2030,7 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10087"
+        "N-10083"
       ],
       "tags": [],
       "claim_timestamp": "00:20:46",
@@ -1989,8 +2071,8 @@
         "A-1140.1"
       ],
       "related_nodes": [
-        "N-10082",
-        "N-10088"
+        "N-10079",
+        "N-10084"
       ],
       "tags": [],
       "claim_timestamp": "00:27:15",
@@ -2012,7 +2094,7 @@
         "A-1141.2"
       ],
       "related_nodes": [
-        "N-10089"
+        "N-10085"
       ],
       "tags": [
         "open_source_investigation"
@@ -2037,7 +2119,7 @@
         "A-1141.2"
       ],
       "related_nodes": [
-        "N-10089"
+        "N-10085"
       ],
       "tags": [
         "open_source_investigation"
@@ -2081,7 +2163,7 @@
         "A-1143.1"
       ],
       "related_nodes": [
-        "N-10083"
+        "N-10070"
       ],
       "tags": [],
       "claim_timestamp": "00:37:37",
@@ -2102,7 +2184,7 @@
         "A-1143.2"
       ],
       "related_nodes": [
-        "N-10083"
+        "N-10070"
       ],
       "tags": [],
       "claim_timestamp": "00:39:20",
@@ -2141,7 +2223,7 @@
         "A-1145.1"
       ],
       "related_nodes": [
-        "N-10090"
+        "N-10086"
       ],
       "tags": [],
       "claim_timestamp": "00:54:31",
@@ -2158,7 +2240,8 @@
         "A-1145.2"
       ],
       "related_nodes": [
-        "N-10091"
+        "N-10087",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:54:58",
@@ -2233,7 +2316,9 @@
       "label": "Host tweeted Erika Kirk's memorial speech was the most consequential in American history",
       "claim": "The host says she tweeted, and meant seriously, that Erika Kirk's speech at the memorial was the most consequential speech in American history.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:context"
       ],
@@ -2274,7 +2359,9 @@
       "anchored_artifacts": [
         "A-1134.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:context"
       ],
@@ -2363,7 +2450,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-83",
-        "N-10076"
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2388,7 +2475,7 @@
       "claim": "The host says she did not see any blood in the footage, and the only blood she saw was on Charlie's left hand, which she says people read as the blood having moved forward.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -2414,8 +2501,8 @@
         "A-1135.1"
       ],
       "related_nodes": [
-        "N-10341",
-        "N-10085"
+        "N-10319",
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -2437,7 +2524,7 @@
       "claim": "The host says, sarcastically listing what she would have to accept as a federal miracle, that Tyler Robinson happened to leave a letter that has since been disappeared, and that his lover took a picture of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -2482,7 +2569,7 @@
       "claim": "The host says that she and viewers learned the house next door to the event site has been vacant and is owned by Utah Valley University, and that they then began looking into the witnesses.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10053",
+        "N-10050",
         "N-10012"
       ],
       "tags": [
@@ -2503,7 +2590,7 @@
       "claim": "The host says, while stressing she does not imply wrongdoing, that the witness whose footage ended up with TMZ runs an engineering company with worldwide presence that specializes in making valves.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10054",
+        "N-10051",
         "N-10011"
       ],
       "tags": [
@@ -2527,7 +2614,7 @@
       "claim": "The host says people told her valves have historically been connected to the government and the deep state and that valves matter to warfare, which made her wonder about pipelines under the event site.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10080"
+        "N-10077"
       ],
       "tags": [
         "relevance:context"
@@ -2552,7 +2639,7 @@
         "A-3097.1"
       ],
       "related_nodes": [
-        "N-10087",
+        "N-10083",
         "N-10012"
       ],
       "tags": [
@@ -2578,8 +2665,8 @@
       "claim": "The host theorizes, saying she is not a ballistics expert, that someone beneath Charlie might have fired while attention was on a decoy, which she says could explain the lack of an exit wound, and asks whether the feds explored it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10087",
-        "N-10085"
+        "N-10083",
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -2601,7 +2688,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10087"
+        "N-10083"
       ],
       "tags": [
         "relevance:core"
@@ -2626,8 +2713,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
-        "N-10082",
-        "N-10088"
+        "N-10079",
+        "N-10084"
       ],
       "tags": [
         "relevance:context"
@@ -2650,7 +2737,7 @@
       "claim": "The host says Eric Bolling said on his program that she and Charlie had a breakup and that he had not seen her since 2015, which she notes is odd because he interviewed her in 2020.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10297"
+        "N-10279"
       ],
       "tags": [
         "relevance:context"
@@ -2672,7 +2759,7 @@
       "claim": "The host says she never had a falling out with Charlie Kirk and that the breakup story was made up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10089"
+        "N-10085"
       ],
       "tags": [
         "relevance:context"
@@ -2697,7 +2784,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2721,8 +2808,8 @@
         "A-1141.2"
       ],
       "related_nodes": [
-        "N-10089",
-        "N-10047"
+        "N-10085",
+        "N-10044"
       ],
       "tags": [
         "relevance:context"
@@ -2768,8 +2855,8 @@
         "A-1141.2"
       ],
       "related_nodes": [
-        "N-10089",
-        "N-10063"
+        "N-10085",
+        "N-10060"
       ],
       "tags": [
         "relevance:context"
@@ -2816,7 +2903,7 @@
         "A-1141.2"
       ],
       "related_nodes": [
-        "N-10089"
+        "N-10085"
       ],
       "tags": [
         "relevance:context"
@@ -2838,7 +2925,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10089"
+        "N-10085"
       ],
       "tags": [
         "relevance:context"
@@ -2863,7 +2950,7 @@
       "claim": "The host says Charlie was peer pressured by the same individuals so that she would not speak at AmFest, and that she told him she did not care.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:context"
@@ -2903,8 +2990,8 @@
       "claim": "The host says her livelihood was threatened, people behind the scenes told her what she had to say to stay in the circle, and she eventually lost her job and chose not to stay in it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11116",
-        "N-10900"
+        "N-11034",
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2926,7 +3013,7 @@
         "A-1143.1"
       ],
       "related_nodes": [
-        "N-10083"
+        "N-10070"
       ],
       "tags": [
         "relevance:context"
@@ -2950,7 +3037,7 @@
         "A-1143.1"
       ],
       "related_nodes": [
-        "N-10083"
+        "N-10070"
       ],
       "tags": [
         "relevance:context"
@@ -2973,7 +3060,7 @@
         "A-1143.2"
       ],
       "related_nodes": [
-        "N-10083"
+        "N-10070"
       ],
       "tags": [
         "relevance:context"
@@ -2994,7 +3081,7 @@
       "claim": "The host says a past president, whom she does not name, suggested the AIPAC precursor should register under FARA and was then shot in a moving vehicle in broad daylight, calling the conversation dangerous to host.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10083"
+        "N-10070"
       ],
       "tags": [
         "relevance:context"
@@ -3017,7 +3104,7 @@
       "claim": "The host says what she went through at the beginning of 2024 seems to be what Charlie was going through in 2025, getting tired of pressure that something he was saying was wrong when it clearly was not.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:context"
@@ -3082,7 +3169,7 @@
         "A-1145.3"
       ],
       "related_nodes": [
-        "N-10060"
+        "N-10057"
       ],
       "tags": [
         "relevance:context"
@@ -3121,7 +3208,7 @@
       "claim": "The host says Charlie was kind of the last person saying he was pro-Israel with a presence across universities, and that students will now be reticent to support Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [
         "relevance:context"
@@ -3142,7 +3229,7 @@
       "claim": "Answering a viewer who asks how the rifle got from the roof to the woods, the host says nobody knows and that she would like to see the tunnel network.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10087",
+        "N-10083",
         "N-10012"
       ],
       "tags": [
@@ -3164,7 +3251,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10087"
+        "N-10083"
       ],
       "tags": [
         "relevance:core"
@@ -3208,7 +3295,8 @@
       "claim": "The host says she was not invited to speak at the memorial and mocks the Daily Mail's account, sarcastically saying that, as the Daily Mail pointed out, she raged about it and threw her toys out of the pram.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070"
+        "N-10067",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -3234,7 +3322,7 @@
         "A-3099.1"
       ],
       "related_nodes": [
-        "N-10094",
+        "N-10090",
         "N-10012"
       ],
       "tags": [
@@ -3318,7 +3406,7 @@
       "claim": "The host says people tweeted to her that Erika Kirk is going on Alex Clark's show, and that she is happy Erika will speak about the rumors that Netanyahu offered Charlie a boatload of money.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -3342,8 +3430,8 @@
       "claim": "The host says she never said $150 million was offered to Charlie; she said she was told Netanyahu gave $150 million for Operation Mocking Pastor, when pastors one weekend spoke against Tucker Carlson and her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139",
-        "N-11004"
+        "N-10134",
+        "N-10924"
       ],
       "tags": [
         "relevance:core"
@@ -3369,7 +3457,7 @@
       "claim": "The host says she definitively said Netanyahu offered Charlie Kirk a boatload of money and Charlie rejected it, without knowing the amount.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -3391,7 +3479,7 @@
       "claim": "The host says Charlie obviously did not convert, but that the nastiness toward Catholics should stop, after she had said Catholics were hopeful about him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -3412,7 +3500,7 @@
       "claim": "The host says Erika Kirk was raised in a Catholic family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -3433,7 +3521,7 @@
       "claim": "The host says she was told the donor who took away millions of dollars from Turning Point, wanted his name taken off the building and then did a 180 when Charlie died was Bob Shillman, as she said the week before.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10036",
+        "N-10035",
         "N-10000"
       ],
       "tags": [

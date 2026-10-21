@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-190",
             "N-17",
-            "N-10218"
+            "N-10186"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -62,7 +62,7 @@
             "N-17",
             "N-190",
             "N-2",
-            "N-10218"
+            "N-10186"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -90,7 +90,7 @@
           "related_nodes": [
             "N-190",
             "N-1",
-            "N-10219"
+            "N-10209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -120,7 +120,7 @@
             "N-190",
             "N-1",
             "N-2",
-            "N-10219"
+            "N-10209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -148,7 +148,7 @@
           "related_nodes": [
             "N-17",
             "N-218",
-            "N-10220"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -175,7 +175,7 @@
           ],
           "related_nodes": [
             "N-219",
-            "N-10221"
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,7 +202,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-10220"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -285,7 +285,7 @@
           ],
           "related_nodes": [
             "N-220",
-            "N-10222"
+            "N-10212"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,7 +312,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-10223"
+            "N-10166"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -338,7 +338,7 @@
             "C-2310"
           ],
           "related_nodes": [
-            "N-10222"
+            "N-10212"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -398,7 +398,7 @@
             "C-2314"
           ],
           "related_nodes": [
-            "N-11009"
+            "N-10929"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -466,8 +466,8 @@
         "N-217",
         "N-1",
         "N-2",
-        "N-10218",
-        "N-10219"
+        "N-10186",
+        "N-10209"
       ]
     },
     {
@@ -497,7 +497,7 @@
       "related_nodes": [
         "N-190",
         "N-218",
-        "N-10220"
+        "N-10210"
       ]
     },
     {
@@ -520,7 +520,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-190",
-        "N-10219"
+        "N-10209"
       ]
     },
     {
@@ -618,7 +618,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-17",
-        "N-10220"
+        "N-10210"
       ]
     },
     {
@@ -640,7 +640,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10221"
+        "N-10211"
       ]
     },
     {
@@ -658,7 +658,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10221"
+        "N-10211"
       ]
     },
     {
@@ -680,7 +680,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10223"
+        "N-10166"
       ]
     },
     {
@@ -700,15 +700,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10222"
+        "N-10212"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10218",
-      "ref": "N-10218",
-      "name": "McCoy Succession Plan",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10186",
+      "ref": "N-10186",
+      "name": "TPUSA Succession Plan Disclosure Timeline",
+      "type": "investigation_question",
       "description": "Persistent target: whether, by whom, and through what mechanism Mikey McCoy was being positioned as Charlie Kirk's institutional successor; encompasses journal-based framing, adjectival praise pattern, and post-9/10 speaking-platform assignments.",
       "related_artifacts": [
         "A-1321.1",
@@ -728,14 +728,15 @@
         "N-17",
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10219",
-      "ref": "N-10219",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10209",
+      "ref": "N-10209",
       "name": "Mikey McCoy Pre-Death Documentation Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: the anomalous onset of Mikey McCoy's personal behind-the-scenes documentation of Charlie Kirk in the weeks preceding 9/10, including first-time micing on the Korea trip and first-time family-trip footage captured on the joint McCoy-Kirk vacation.",
       "related_artifacts": [
         "A-1323.1",
@@ -755,14 +756,15 @@
         "N-217",
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10220",
-      "ref": "N-10220",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10210",
+      "ref": "N-10210",
       "name": "Rob McCoy Relocation and Timing Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: the convergence of Rob McCoy's pastoral transition (mid-July 2025), Phoenix relocation, and Coronado property listing (August 24, 2025) in the period preceding 9/10.",
       "related_artifacts": [
         "A-1325.1",
@@ -780,14 +782,15 @@
       "related_nodes": [
         "N-17",
         "N-218"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10221",
-      "ref": "N-10221",
-      "name": "UVU Event Application Anomaly",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10211",
+      "ref": "N-10211",
+      "name": "UVU Event Approval Timeline Anomaly",
+      "type": "investigation_question",
       "description": "Persistent target: the late (mid-July) submission of the 9/10 event application by UVU's TPUSA chapter, its rapid acceptance as \"stop number one,\" the absence of a standard police-protection question on the form, and UVU's subsequent denial of the security plan.",
       "related_artifacts": [
         "A-1326.1"
@@ -803,14 +806,15 @@
       "related_nodes": [
         "N-219",
         "N-181"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10222",
-      "ref": "N-10222",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10212",
+      "ref": "N-10212",
       "name": "Israeli Cell Phone Presence on 9/10",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: host's claim that 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at UVU on September 10, and that the NSA and Trump-administration officials are aware and suppressing this information.",
       "related_artifacts": [
         "A-1330.1",
@@ -827,14 +831,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-220"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10223",
-      "ref": "N-10223",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10166",
+      "ref": "N-10166",
       "name": "George Zinn Hospital Payment Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: verification of George Zinn's alleged hospital statement (paid to disrupt, unknown payment source) and its provenance.",
       "related_artifacts": [
         "A-1331.1"
@@ -849,7 +854,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-42"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1050,11 +1056,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization; source of the insider sentiment and the UVU acceptance.",
       "related_artifacts": [],
       "related_claims": [
@@ -1065,14 +1071,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Venue of the assassination and of the mid-July event request.",
       "related_artifacts": [],
       "related_claims": [
@@ -1084,14 +1092,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10048",
-      "ref": "N-10048",
+      "@type": "Topic",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's bullet claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1101,14 +1111,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10083",
-      "ref": "N-10083",
+      "@type": "Organization",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization named in a viewer comment the host endorses.",
       "related_artifacts": [],
       "related_claims": [
@@ -1118,14 +1129,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@type": "Organization",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says the Wilks brothers majorly fund.",
       "related_artifacts": [],
       "related_claims": [
@@ -1135,14 +1148,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10243",
-      "ref": "N-10243",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10229",
+      "ref": "N-10229",
       "name": "UVU Outdoor Venue Selection Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's tip about an indoor plan.",
       "related_artifacts": [],
       "related_claims": [
@@ -1152,14 +1167,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Egyptian plane claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1171,14 +1187,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the transparency remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1188,14 +1205,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10495",
-      "ref": "N-10495",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10458",
+      "ref": "N-10458",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic loosely reused for Netanyahu's post-assassination statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1205,14 +1223,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10415"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10675",
-      "ref": "N-10675",
+      "@type": "Topic",
+      "@id": "N-10614",
+      "ref": "N-10614",
       "name": "Turning Point UVU Event Submission Chain",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the July 18 request and acceptance.",
       "related_artifacts": [],
       "related_claims": [
@@ -1223,14 +1243,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10717",
-      "ref": "N-10717",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10653",
+      "ref": "N-10653",
       "name": "Losee Center–Library Route Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the running-figure footage vantage point.",
       "related_artifacts": [],
       "related_claims": [
@@ -1240,14 +1261,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10840",
-      "ref": "N-10840",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10763",
+      "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the no-ambulance claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1257,14 +1279,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says the Wilks brothers fund.",
       "related_artifacts": [],
       "related_claims": [
@@ -1274,14 +1297,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11009",
-      "ref": "N-11009",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10929",
+      "ref": "N-10929",
       "name": "Hall of Flags Activity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the viewer comment and the host's identification.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,7 +1318,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1314,8 +1340,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11102",
-      "ref": "N-11102",
+      "@id": "N-11020",
+      "ref": "N-11020",
       "name": "Wilks Brothers Funding Network",
       "type": "topic",
       "description": "The Texas donors the host says funded Rob McCoy's church and fund the Daily Wire and PragerU.",
@@ -1329,12 +1355,13 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
-      "@id": "N-11103",
-      "ref": "N-11103",
+      "@id": "N-11021",
+      "ref": "N-11021",
       "name": "TikTok",
       "type": "organization",
       "description": "Social platform the host says penalizes her Egyptian plane videos and whose moderator she says served in the IDF.",
@@ -1347,12 +1374,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11104",
-      "ref": "N-11104",
+      "@id": "N-11022",
+      "ref": "N-11022",
       "name": "Liberty University",
       "type": "organization",
       "description": "University where the host says Mikey McCoy is already speaking.",
@@ -1364,12 +1393,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
-      "@id": "N-11105",
-      "ref": "N-11105",
+      "@id": "N-11023",
+      "ref": "N-11023",
       "name": "Godspeak Calvary Chapel",
       "type": "organization",
       "description": "Thousand Oaks church Rob McCoy led for 17 years and which the host says the Wilks brothers funded.",
@@ -1383,7 +1414,30 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Church",
+      "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2260",
+        "C-2263",
+        "C-2262"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1397,7 +1451,8 @@
         "A-1321.1"
       ],
       "related_nodes": [
-        "N-10218"
+        "N-10186",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:02:42–00:05:23",
@@ -1417,7 +1472,8 @@
         "A-1322.1"
       ],
       "related_nodes": [
-        "N-10218"
+        "N-10186",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
@@ -1439,7 +1495,7 @@
         "A-1323.1"
       ],
       "related_nodes": [
-        "N-10219"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "00:10:01–00:10:58",
@@ -1459,7 +1515,7 @@
         "A-1324.1"
       ],
       "related_nodes": [
-        "N-10219"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "00:11:45",
@@ -1481,7 +1537,7 @@
         "A-1325.1"
       ],
       "related_nodes": [
-        "N-10220"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:14:47",
@@ -1501,7 +1557,7 @@
         "A-1326.1"
       ],
       "related_nodes": [
-        "N-10221"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:17:57–00:19:30",
@@ -1520,7 +1576,7 @@
         "A-1327.1"
       ],
       "related_nodes": [
-        "N-10220"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:15:50",
@@ -1576,7 +1632,7 @@
         "A-1331.1"
       ],
       "related_nodes": [
-        "N-10223"
+        "N-10166"
       ],
       "tags": [],
       "claim_timestamp": "00:41:52–00:43:00",
@@ -1593,7 +1649,7 @@
       "claim": "Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmation), 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at Utah Valley University on September 10, and the NSA, Kash Patel, and current-administration officials are aware and suppressing this information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10222"
+        "N-10212"
       ],
       "tags": [],
       "claim_timestamp": "00:21:59",
@@ -1612,7 +1668,7 @@
         "A-1332.1"
       ],
       "related_nodes": [
-        "N-10222"
+        "N-10212"
       ],
       "tags": [],
       "claim_timestamp": "00:46:51",
@@ -1626,7 +1682,7 @@
       "claim": "The host says she does not merely think but knows that Mikey McCoy did not kill Charlie Kirk, because viewers watched him in those moments.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [
         "relevance:core"
@@ -1648,7 +1704,8 @@
       "claim": "The host says the stage was being set for Mikey McCoy to become the new Charlie, and that speakers at the memorial and elsewhere tried to prime the public for that plausibility, which she compares to a psychological operation nodding to Rob McCoy's family lineage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218"
+        "N-10186",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -1676,7 +1733,7 @@
         "A-1322.1"
       ],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [
         "relevance:core"
@@ -1702,7 +1759,7 @@
       "claim": "The host says the number one sentiment from Turning Point USA insiders after the assassination was that Mikey McCoy appeared to have an extra spring in his step that made them uncomfortable and that he seemed happy to assume Charlie's position.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218",
+        "N-10186",
         "N-10000"
       ],
       "tags": [
@@ -1725,8 +1782,8 @@
       "claim": "The host says Mikey McCoy is already speaking at Liberty University and that he got there because he made some phone calls.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218",
-        "N-11104"
+        "N-10186",
+        "N-11022"
       ],
       "tags": [
         "relevance:core"
@@ -1747,7 +1804,7 @@
       "claim": "The host says she thinks Mikey McCoy was promised, told or encouraged that he would become the new Charlie, and that she does not believe he is intrinsically evil.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [
         "relevance:core"
@@ -1774,7 +1831,7 @@
         "A-1323.1"
       ],
       "related_nodes": [
-        "N-10219"
+        "N-10209"
       ],
       "tags": [
         "relevance:core"
@@ -1799,7 +1856,7 @@
       "claim": "The host says the McCoys were the ones who captured the footage, since gone viral, of Charlie walking with his children and Erika, who grabs his hand.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10219"
+        "N-10209"
       ],
       "tags": [
         "relevance:core"
@@ -1826,7 +1883,7 @@
       "claim": "The host says that according to her sources the McCoys were on hand to capture the family footage in what looks like mid July to early August, and that her team will nail down the specific dates.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10219"
+        "N-10209"
       ],
       "tags": [
         "relevance:core"
@@ -1850,8 +1907,8 @@
         "A-1325.1"
       ],
       "related_nodes": [
-        "N-11102",
-        "N-11105"
+        "N-11020",
+        "N-11023"
       ],
       "tags": [
         "relevance:context"
@@ -1872,9 +1929,9 @@
       "claim": "The host says the Wilks brothers fund the Daily Wire and were its initial seed money, and that they majorly fund Prager University as well, which she calls an interesting web.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11102",
-        "N-10900",
-        "N-10131"
+        "N-11020",
+        "N-10821",
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -1894,8 +1951,8 @@
       "claim": "The host says the church is, in her words, part of what is described online as a cult and that she cannot explain it herself.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11102",
-        "N-11105"
+        "N-11020",
+        "N-11023"
       ],
       "tags": [
         "relevance:tangential"
@@ -1917,8 +1974,8 @@
         "A-1325.1"
       ],
       "related_nodes": [
-        "N-10220",
-        "N-11105"
+        "N-10210",
+        "N-11023"
       ],
       "tags": [
         "relevance:core"
@@ -1944,7 +2001,7 @@
         "A-1325.1"
       ],
       "related_nodes": [
-        "N-10220"
+        "N-10210"
       ],
       "tags": [
         "relevance:core"
@@ -1994,8 +2051,8 @@
         "A-2824.1"
       ],
       "related_nodes": [
-        "N-10221",
-        "N-10675",
+        "N-10211",
+        "N-10614",
         "N-10012"
       ],
       "tags": [
@@ -2023,7 +2080,7 @@
         "A-1326.1"
       ],
       "related_nodes": [
-        "N-10221",
+        "N-10211",
         "N-10012"
       ],
       "tags": [
@@ -2047,7 +2104,7 @@
         "A-1326.1"
       ],
       "related_nodes": [
-        "N-10221",
+        "N-10211",
         "N-10012"
       ],
       "tags": [
@@ -2073,8 +2130,8 @@
         "A-1326.1"
       ],
       "related_nodes": [
-        "N-10221",
-        "N-10675"
+        "N-10211",
+        "N-10614"
       ],
       "tags": [
         "relevance:core"
@@ -2095,7 +2152,7 @@
       "claim": "The host says that, as everybody has noticed, there was no ambulance on standby at the event and that this is against Utah law.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10840"
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2117,7 +2174,7 @@
         "A-1326.1"
       ],
       "related_nodes": [
-        "N-10221"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -2137,7 +2194,7 @@
       "claim": "The host says she received a tip that the event had initially been slated to be inside but was moved, and that she is not confirming it and has to look into it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10243"
+        "N-10229"
       ],
       "tags": [
         "relevance:core"
@@ -2159,7 +2216,7 @@
         "A-1330.1"
       ],
       "related_nodes": [
-        "N-10222"
+        "N-10212"
       ],
       "tags": [
         "relevance:context"
@@ -2182,7 +2239,7 @@
         "A-1330.1"
       ],
       "related_nodes": [
-        "N-10222"
+        "N-10212"
       ],
       "tags": [
         "relevance:context"
@@ -2204,7 +2261,7 @@
       "claim": "The host says Netanyahu did propaganda rounds right out the gate denying that he had anything to do with the assassination of Charlie Kirk, when nobody had accused him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10495"
+        "N-10458"
       ],
       "tags": [
         "relevance:context"
@@ -2251,7 +2308,7 @@
       "claim": "The host says the account she has been telling viewers to follow, Village Crazy Lady, was very early with the reporting on the Israeli cell phones and that the host had heard rumors and rumblings but waited for verifiable proof.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10222"
+        "N-10212"
       ],
       "tags": [
         "relevance:core"
@@ -2275,7 +2332,7 @@
       "claim": "The host says she is putting her name on the Israeli cell phone report and publicly challenges the Trump administration, which she says is aware of it, to deny it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10222"
+        "N-10212"
       ],
       "tags": [
         "relevance:core"
@@ -2298,7 +2355,7 @@
       "claim": "The host says that the official story that a .30-06 was stopped by Charlie Kirk's neck is complete BS, and that something that could take down a moose somehow did not take down Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -2322,7 +2379,7 @@
       "claim": "The host says the party promised that corruption would stop and that this would be the most transparent administration ever, but that the Epstein files were the exception.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -2407,7 +2464,7 @@
         "A-2823.1"
       ],
       "related_nodes": [
-        "N-10223"
+        "N-10166"
       ],
       "tags": [
         "relevance:context"
@@ -2433,7 +2490,7 @@
         "A-1331.1"
       ],
       "related_nodes": [
-        "N-10223"
+        "N-10166"
       ],
       "tags": [
         "relevance:core"
@@ -2513,7 +2570,7 @@
         "A-2823.2"
       ],
       "related_nodes": [
-        "N-10083"
+        "N-10070"
       ],
       "tags": [
         "relevance:context"
@@ -2535,7 +2592,7 @@
         "A-1332.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:context"
@@ -2560,7 +2617,7 @@
         "A-2823.3"
       ],
       "related_nodes": [
-        "N-11009"
+        "N-10929"
       ],
       "tags": [
         "relevance:core"
@@ -2582,7 +2639,7 @@
         "A-2823.3"
       ],
       "related_nodes": [
-        "N-11009"
+        "N-10929"
       ],
       "tags": [
         "relevance:core"
@@ -2605,8 +2662,8 @@
         "A-2823.3"
       ],
       "related_nodes": [
-        "N-11009",
-        "N-10717"
+        "N-10929",
+        "N-10653"
       ],
       "tags": [
         "relevance:core"
@@ -2626,8 +2683,8 @@
       "claim": "The host says TikTok is hitting 'us' for videos talking about the Egyptian planes, which she calls very strange.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103",
-        "N-10253"
+        "N-11021",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2647,8 +2704,8 @@
       "claim": "The host says TikTok's moderator served in the IDF and that Netanyahu wants TikTok secured for Israel's future, and asks why they care about the Egyptian planes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103",
-        "N-10253"
+        "N-11021",
+        "N-10239"
       ],
       "tags": [
         "relevance:context"

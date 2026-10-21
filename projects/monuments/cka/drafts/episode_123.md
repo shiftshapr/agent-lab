@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 93abb119e30ffeee11218fa72b1be08579d89ea15f3f784ace8d3604332d4554
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-11134
-  - Hole-minted Nodes (reintro-ep123): N-10714
+  - Tip-minted Nodes (supplement_2026-10b): N-11052
+  - Hole-minted Nodes (reintro-ep123): N-10650
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10524–C-10597
-  - New Nodes Introduced: N-10706, N-10708
-  - Reused Nodes Appearing: N-487, N-10705, N-10707, N-4, N-5, N-9, N-40, N-159, N-224, N-606, N-681, N-10000, N-10026, N-10051, N-10074, N-10198, N-10226, N-10369, N-10401, N-10507, N-10651, N-10678, N-10686, N-10688, N-10699, N-10724, N-10768, N-10862, N-10899, N-10987
+  - New Nodes Introduced: N-10642, N-10644
+  - Reused Nodes Appearing: N-487, N-10641, N-10643, N-4, N-5, N-9, N-40, N-159, N-224, N-606, N-681, N-10000, N-10026, N-10048, N-10071, N-10190, N-10214, N-10344, N-10374, N-10468, N-10593, N-10616, N-10624, N-10626, N-10636, N-10659, N-10697, N-10783, N-10820, N-10907
   - (see registers)
 
 ## 2. Executive Summary
@@ -41,7 +41,7 @@ Video Timestamp: 00:06:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10534, C-10535, C-10536, N-10706*
+*Related: C-10534, C-10535, C-10536, N-10642*
 
 **A-2110.2** Photo 2 – Cardboard-colored piece and adjacent black bag (back seat)
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:08:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10534, C-10557, N-10705*
+*Related: C-10534, C-10557, N-10641*
 
 **A-2110.4** Photo 4 – Foil-like material visible under floor mat
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host asserts "beyond a shadow of a doubt")
 
-*Related: C-10534, C-10557, N-10705*
+*Related: C-10534, C-10557, N-10641*
 
 **A-2112** Mikey McCoy Hospital Casket Clip
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:49:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (viewer speculation)
 
-*Related: C-10557, N-10705*
+*Related: C-10557, N-10641*
 
 ---
 
@@ -315,7 +315,7 @@ Named by the host at 00:12:02 in episode 123; first introduced in episode 121.
 
 
 
-**N-10705** Charlie's Road Microphone Glass Origin Investigation Target
+**N-10641** Charlie's Road Microphone Glass Origin Investigation Target
 
 Persistent investigative target: where did the tempered glass in the vehicle come from, and how was the road/lapel microphone broken?
 
@@ -326,7 +326,7 @@ Investigative Pressure: High
 
 *Related: A-2110.3, A-2111.4, A-2114.3, C-10534, C-10557*
 
-**N-10706** Charlie's Bloody Jacket Chain of Custody Investigation Target
+**N-10642** Charlie's Bloody Jacket Chain of Custody Investigation Target
 
 Persistent investigative target: chain of custody for Charlie Kirk's sports coat, returned to Erika's apartment with blood rather than collected into evidence.
 
@@ -337,7 +337,7 @@ Investigative Pressure: Medium
 
 *Related: A-2110.1, C-10539*
 
-**N-10707** Missing Charlie's Shirt Investigation Target
+**N-10643** Missing Charlie's Shirt Investigation Target
 
 Persistent investigative target: location and disposition of Charlie Kirk's shirt on the day of the incident.
 
@@ -348,7 +348,7 @@ Investigative Pressure: Medium
 
 *Related: C-10565*
 
-**N-10708** Car Door Open During Transport Report Investigation Target
+**N-10644** Car Door Open During Transport Report Investigation Target
 
 Persistent investigative target: police scanner reports indicating car door was open during high-speed transport and a visible "struggle" in the vehicle.
 
@@ -505,7 +505,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing node reused for new claims in this episode.
 
@@ -513,7 +513,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Existing node reused for new claims in this episode.
 
@@ -521,7 +521,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Existing node reused for new claims in this episode.
 
@@ -529,7 +529,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10226** Mikey McCoy Phone Call Sequence Anomaly
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Existing node reused for new claims in this episode.
 
@@ -537,7 +537,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10369** Charlie Kirk SUV Interior Black Plastic Fragmentation
+**N-10344** Charlie Kirk SUV Interior Black Plastic Fragmentation
 
 Existing node reused for new claims in this episode.
 
@@ -545,7 +545,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Existing node reused for new claims in this episode.
 
@@ -553,7 +553,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10507** Charlie Kirk Phone Access Question
+**N-10468** Charlie Kirk Phone Access Question
 
 Existing node reused for new claims in this episode.
 
@@ -561,7 +561,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 Existing node reused for new claims in this episode.
 
@@ -569,7 +569,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10678** SUV Floorboard Shard Mic Identification
+**N-10616** SUV Floorboard Shard Mic Identification
 
 Existing node reused for new claims in this episode.
 
@@ -577,7 +577,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10686** Hospital Transport Sequence Discrepancy
+**N-10624** Hospital Transport Sequence Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -585,7 +585,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10688** Frank Turek Clothing Disposal
+**N-10626** Frank Turek Clothing Disposal
 
 Existing node reused for new claims in this episode.
 
@@ -593,7 +593,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10699** Brian Harpole vs Frank Turek CPR Contradiction
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Existing node reused for new claims in this episode.
 
@@ -601,7 +601,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10714** Unidentified Burnt Object in Charlie Kirk's SUV
+**N-10650** Unidentified Burnt Object in Charlie Kirk's SUV
 
 Existing node reused for new claims in this episode.
 
@@ -609,7 +609,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10724** Butler Shooting Insider Involvement Claim
+**N-10659** Butler Shooting Insider Involvement Claim
 
 Existing node reused for new claims in this episode.
 
@@ -617,7 +617,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10768** Shaped Charge / Exploding Microphone Hypothesis
+**N-10697** Shaped Charge / Exploding Microphone Hypothesis
 
 Existing node reused for new claims in this episode.
 
@@ -625,7 +625,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Existing node reused for new claims in this episode.
 
@@ -633,7 +633,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Existing node reused for new claims in this episode.
 
@@ -641,7 +641,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10987** Charlie Kirk Inside-Shirt Rode Mic Placement
+**N-10907** Charlie Kirk Inside-Shirt Rode Mic Placement
 
 Existing node reused for new claims in this episode.
 
@@ -649,9 +649,9 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11134** Charlie Kirk Carry-to-Vehicle Handling Question
+**N-11052** Charlie Kirk Carry-to-Vehicle Handling Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's observation, from images she has not shown, that Charlie's neck was unsecured and his shirt raised as he was carried to the vehicle.
 
 *Related: C-10560, C-10561, C-10562*
@@ -668,7 +668,7 @@ Claim: The host says photographs of the vehicle interior show black tempered sha
 
 Anchored Artifacts: A-2110.3, A-2111.4
 Mentions: N-1
-Related Nodes: N-10705
+Related Nodes: N-10641
 Investigative Direction: Obtain forensic analysis of vehicle interior; compare particle composition to known Charlie Kirk lapel microphone glass; subpoena vehicle evidence logs.
 
 ---
@@ -693,8 +693,8 @@ Claim: The host points out a hanger in Photo 1 and says she guesses it is from t
 
 Anchored Artifacts: A-2110.1
 Mentions: N-1
-Related Nodes: N-10706
-Investigative Direction: Identify hanger; trace jacket chain of custody (see N-10706).
+Related Nodes: N-10642
+Investigative Direction: Identify hanger; trace jacket chain of custody (see N-10642).
 
 ---
 
@@ -706,7 +706,7 @@ Claim: The host says Charlie's bloodied sports coat was returned by security to 
 
 Anchored Artifacts: None (verbally referenced but not shown)
 Mentions: N-1, N-2
-Related Nodes: N-10706
+Related Nodes: N-10642
 Investigative Direction: Verify via property records, TPUSA internal communications, or law enforcement evidence logs; obtain testimony from security personnel involved in return.
 
 ---
@@ -769,7 +769,7 @@ Claim: The host says that across their many retellings, Frank Turek and Brian Ha
 
 Anchored Artifacts: None (claim relies on absence from prior retellings; absence-of-evidence style claim)
 Mentions: N-266, N-7
-Related Nodes: N-10705
+Related Nodes: N-10641
 Investigative Direction: Obtain transcripts/video of all Frank Turek and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference Jon Bray's prior microphone-rigging theory.
 
 ---
@@ -807,7 +807,7 @@ Claim: The host says Brian Harpole said police behind them reported on the scann
 
 Anchored Artifacts: A-2114.2
 Mentions: N-266, N-487
-Related Nodes: N-10708
+Related Nodes: N-10644
 Investigative Direction: Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.
 
 ---
@@ -820,7 +820,7 @@ Claim: The host says TPUSA spokesperson Andrew Kolvet should respond about why o
 
 Anchored Artifacts: None (claim is about absence of official response)
 Mentions: N-14
-Related Nodes: N-10705, N-10707
+Related Nodes: N-10641, N-10643
 Investigative Direction: Monitor TPUSA official communications; if no response materializes, the absence itself becomes a documented investigative target.
 
 ---
@@ -880,7 +880,7 @@ Transcript Snippet: just because Frank Turek tells a lie, does not mean that eve
 
 Anchored Artifacts: 
 Mentions: N-266, N-7, N-3
-Related Nodes: N-10000, N-10699
+Related Nodes: N-10000, N-10636
 Tags: relevance:core
 Investigative Direction: List the specific statements by Harpole and Turek the host says are false and the records that would refute them.
 
@@ -896,7 +896,7 @@ Transcript Snippet: People like Frank Turek, his car ride, which is told differe
 
 Anchored Artifacts: 
 Mentions: N-7, N-266
-Related Nodes: N-10699
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Compare the transcripts of Turek's and Harpole's interviews point by point on duration, CPR and who did what in the vehicle.
 
@@ -929,7 +929,7 @@ Transcript Snippet: Certainly believe he did pick up clothes and bury them at Da
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10051
+Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Check the Dairy Queen photo, receipts, and the recovered clothing and chain of custody in the prosecution file.
 
@@ -945,7 +945,7 @@ Transcript Snippet: He was convinced from the very beginning, Jon Bray, that Cha
 
 Anchored Artifacts: 
 Mentions: N-681, N-1
-Related Nodes: N-10768, N-10987, N-10705
+Related Nodes: N-10697, N-10907, N-10641
 Tags: relevance:core
 Investigative Direction: Obtain Jon Bray's written analysis and the source photos he supplied.
 
@@ -978,7 +978,7 @@ Transcript Snippet: That's not the Rode microphone. That's something else. It's 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10369, N-10678
+Related Nodes: N-10344, N-10616
 Supports: C-4276
 Tags: relevance:core
 Investigative Direction: Identify who offered the sunglasses and blood-drops explanations and in what posts or broadcasts.
@@ -995,7 +995,7 @@ Transcript Snippet: Nobody's story told anything about even lifting Charlie's sh
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10705
+Related Nodes: N-10641
 Supports: C-10557
 Tags: relevance:core
 Investigative Direction: Review every public statement by Turek, Harpole and TPUSA for any mention of the shirt being lifted or cut in the car.
@@ -1029,7 +1029,7 @@ Transcript Snippet: he went to Salt Lake City and he give gave an interview to r
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:context
 Investigative Direction: Identify the interview's publisher and date and confirm the timing against Charlie's September 10 itinerary.
 
@@ -1045,7 +1045,7 @@ Transcript Snippet: Obviously, he was in a t-shirt that stayed in the car.
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10707
+Related Nodes: N-10643
 Tags: relevance:core
 Investigative Direction: Trace the t-shirt through the hospital, the vehicle and evidence logs; compare with Harpole's claim he cut the shirt off at the hospital.
 
@@ -1061,7 +1061,7 @@ Transcript Snippet: the story that Frank Turek tells us is he changed in part be
 
 Anchored Artifacts: 
 Mentions: N-7, N-2
-Related Nodes: N-10688, N-10706
+Related Nodes: N-10626, N-10642
 Tags: relevance:core
 Investigative Direction: Locate the Turek statement about changing clothes and compare with the jacket's return to Erika's apartment.
 
@@ -1077,7 +1077,7 @@ Transcript Snippet: there is tempered shattered glass with white bits all over t
 
 Anchored Artifacts: A-2110.3
 Mentions: 
-Related Nodes: N-10705
+Related Nodes: N-10641
 Supports: C-10534
 Tags: relevance:core
 Investigative Direction: Obtain full-resolution originals and have a forensic examiner map the glass distribution.
@@ -1094,7 +1094,7 @@ Transcript Snippet: They had about 6 minutes on the clock weaving through traffi
 
 Anchored Artifacts: 
 Mentions: N-7, N-266
-Related Nodes: N-10686
+Related Nodes: N-10624
 Supports: C-10322
 Tags: relevance:core
 Investigative Direction: Reconstruct the route and timing from 911, dispatch and hospital arrival records.
@@ -1111,7 +1111,7 @@ Transcript Snippet: the two bags, the Uber bags are are together um and on the o
 
 Anchored Artifacts: A-2110.2, A-2111.1
 Mentions: 
-Related Nodes: N-10714
+Related Nodes: N-10650
 Tags: relevance:core
 Investigative Direction: Obtain higher-resolution images and a forensic read of the bags and the separate piece.
 
@@ -1127,7 +1127,7 @@ Transcript Snippet: somebody literally just said that to us in our marketing dep
 
 Anchored Artifacts: A-2111.2
 Mentions: 
-Related Nodes: N-10707
+Related Nodes: N-10643
 Tags: relevance:context
 Investigative Direction: Enhance the image and compare against known items, including the missing shirt.
 
@@ -1143,7 +1143,7 @@ Transcript Snippet: I did remember that Rick Cutler had something on his back wh
 
 Anchored Artifacts: 
 Mentions: N-487
-Related Nodes: N-10714
+Related Nodes: N-10650
 Tags: relevance:core
 Investigative Direction: Review footage of Cutler entering the vehicle for what he carried.
 
@@ -1175,7 +1175,7 @@ Transcript Snippet: He did say I believe in the Paramount Tactical interview or 
 
 Anchored Artifacts: A-2114.1
 Mentions: N-266, N-224
-Related Nodes: N-10899, N-10862
+Related Nodes: N-10820, N-10783
 Tags: relevance:core
 Investigative Direction: Locate the exact Harpole statement in the Paramount Tactical and Shawn Ryan interviews.
 
@@ -1191,7 +1191,7 @@ Transcript Snippet: I'm assuming you're referring to that little cardboard piece
 
 Anchored Artifacts: A-2111.1
 Mentions: N-3
-Related Nodes: N-10768
+Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Obtain an independent explosives or ordnance expert opinion on the piece and the foil.
 
@@ -1207,7 +1207,7 @@ Transcript Snippet: I had whipped up a scenario where rather than providing CPR 
 
 Anchored Artifacts: 
 Mentions: N-7, N-1
-Related Nodes: N-10688
+Related Nodes: N-10626
 Supports: C-10463
 Tags: relevance:core
 Investigative Direction: Compare with Turek's CPR claims, Harpole's shirt-cutting claim and hospital records.
@@ -1224,7 +1224,7 @@ Transcript Snippet: I do not believe for a single second that that scene took pl
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10686
+Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Establish where the shirt was removed using hospital intake records and the Harpole and Turek accounts.
 
@@ -1240,7 +1240,7 @@ Transcript Snippet: It's definitely definitively not the car glass.
 
 Anchored Artifacts: A-2111.4
 Mentions: 
-Related Nodes: N-10705
+Related Nodes: N-10641
 Tags: relevance:core
 Investigative Direction: Have a forensic lab compare the fragments with the vehicle's glazing and with a Rode-type microphone.
 
@@ -1256,7 +1256,7 @@ Transcript Snippet: I had no idea that this is sticky glass that there's an adhe
 
 Anchored Artifacts: A-2111.4
 Mentions: 
-Related Nodes: N-10705
+Related Nodes: N-10641
 Tags: relevance:core
 Investigative Direction: Ask a materials expert whether a rode-type microphone's glass could carry adhesive and cling to clothing.
 
@@ -1272,7 +1272,7 @@ Transcript Snippet: there is some that actually fell in front of Charlie and Jon
 
 Anchored Artifacts: A-2857.1
 Mentions: N-681, N-1
-Related Nodes: N-10705
+Related Nodes: N-10641
 Tags: relevance:core
 Investigative Direction: Obtain Bray's photos with metadata and compare against the UVU stage footage.
 
@@ -1288,7 +1288,7 @@ Transcript Snippet: The audacity of Brian Harpole to sue me over his incompetenc
 
 Anchored Artifacts: 
 Mentions: N-266, N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Supports: C-10229
 Tags: relevance:core
 Investigative Direction: Pull the Harpole complaint and docket to confirm claims and filing date.
@@ -1305,7 +1305,7 @@ Transcript Snippet: His neck was literally flopping. Okay, we have those images.
 
 Anchored Artifacts: A-2858.1
 Mentions: N-1
-Related Nodes: N-11134
+Related Nodes: N-11052
 Tags: relevance:core
 Investigative Direction: Obtain the full sequence of frames and have a trauma clinician assess handling.
 
@@ -1321,7 +1321,7 @@ Transcript Snippet: they're concerned with his shirt almost like his shirt is ac
 
 Anchored Artifacts: A-2858.1
 Mentions: N-1
-Related Nodes: N-11134
+Related Nodes: N-11052
 Tags: relevance:core
 Investigative Direction: Identify each carrier and review all angles of the carry for the shirt position.
 
@@ -1337,7 +1337,7 @@ Transcript Snippet: you would bunch up that shirt like it was a purse to make su
 
 Anchored Artifacts: A-2858.1
 Mentions: N-1
-Related Nodes: N-11134, N-10705
+Related Nodes: N-11052, N-10641
 Tags: relevance:core
 Investigative Direction: Examine the footage of the carry and of Charlie's shirt for debris and compare with the later car photos.
 
@@ -1353,7 +1353,7 @@ Transcript Snippet: because I've run this with Baron. I've run it with Tim.
 
 Anchored Artifacts: 
 Mentions: N-330
-Related Nodes: N-10705
+Related Nodes: N-10641
 Tags: relevance:context
 Investigative Direction: Ask Coleman and the Tim in question to state what alternative explanation they offered.
 
@@ -1369,7 +1369,7 @@ Transcript Snippet: them saying that Mikey was amazing. Erika the first to say i
 
 Anchored Artifacts: 
 Mentions: N-190, N-2
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Find the podium remarks and the original statement and compare with hospital witnesses.
 
@@ -1385,7 +1385,7 @@ Transcript Snippet: Mikey was the most emotionally impacted. He did not have it 
 
 Anchored Artifacts: 
 Mentions: N-190
-Related Nodes: N-10198
+Related Nodes: N-10190
 Supports: C-10569
 Tags: relevance:core
 Investigative Direction: Identify the host's source and any hospital staff who saw Mikey McCoy that day.
@@ -1402,7 +1402,7 @@ Transcript Snippet: Mikey was impacted by this in a way that leads me to believe
 
 Anchored Artifacts: 
 Mentions: N-190, N-1
-Related Nodes: N-10226
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Compare with McCoy's call log and phone call timing in the other investigative targets.
 
@@ -1466,7 +1466,7 @@ Transcript Snippet: Did you really think Blake Neff, Graham Allen, and Paramount
 
 Anchored Artifacts: 
 Mentions: N-159, N-606
-Related Nodes: N-10899
+Related Nodes: N-10820
 Tags: relevance:context
 Investigative Direction: List the specific public statements by each that the host says are false.
 
@@ -1482,7 +1482,7 @@ Transcript Snippet: Did you guys know that the butler shoot happened on a Saturd
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10724, N-10507
+Related Nodes: N-10659, N-10468
 Tags: relevance:context
 Investigative Direction: Confirm the day of the Butler shooting and Charlie's Shabbat practice from his earlier statements.
 
@@ -1498,7 +1498,7 @@ Transcript Snippet: And yet I had my phone on because I was trying to help make 
 
 Anchored Artifacts: A-2113
 Mentions: N-1, N-4
-Related Nodes: N-10507
+Related Nodes: N-10468
 Tags: relevance:context
 Investigative Direction: Identify the original interview, date and outlet.
 
@@ -1514,7 +1514,7 @@ Transcript Snippet: we went down to our like our our complex has this big gym an
 
 Anchored Artifacts: A-2113
 Mentions: N-1
-Related Nodes: N-10724
+Related Nodes: N-10659
 Tags: relevance:context
 Investigative Direction: Identify the interview source and verify his stated whereabouts.
 
@@ -1594,7 +1594,7 @@ Transcript Snippet: The baby was then taken away for quote unquote testing by th
 
 Anchored Artifacts: A-2861.2
 Mentions: 
-Related Nodes: N-10401
+Related Nodes: N-10374
 Tags: relevance:tangential
 Investigative Direction: Seek documented cases and official inquiries, which the commenter does not cite.
 
@@ -1610,7 +1610,7 @@ Transcript Snippet: I am now revisiting that footage and we are going to spend t
 
 Anchored Artifacts: A-2114.3
 Mentions: 
-Related Nodes: N-10705
+Related Nodes: N-10641
 Tags: relevance:core
 Investigative Direction: Review all ground-level angles behind the table at the time of the shot.
 
@@ -1626,7 +1626,7 @@ Transcript Snippet: I think Jon Bray's theory has infinitely more evidence than 
 
 Anchored Artifacts: 
 Mentions: N-681
-Related Nodes: N-10705, N-10768
+Related Nodes: N-10641, N-10697
 Tags: relevance:core
 Investigative Direction: Compare Bray's evidence compilation with the prosecution's exhibits.
 
@@ -1642,7 +1642,7 @@ Transcript Snippet: Brian Harpole said that they caught a tail. They were going 
 
 Anchored Artifacts: 
 Mentions: N-266
-Related Nodes: N-10686
+Related Nodes: N-10624
 Supports: C-10322
 Tags: relevance:core
 Investigative Direction: Obtain police dispatch logs and bodycam from the pursuing units.
@@ -1659,7 +1659,7 @@ Transcript Snippet: I heard the grape vine they did not even take the highway wh
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10686
+Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Obtain GPS or CAD data for the vehicle's route to the hospital.
 
@@ -1772,7 +1772,7 @@ Transcript Snippet: I don't know what's going on with these data centers I don't
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10401
+Related Nodes: N-10374
 Tags: relevance:context
 Investigative Direction: Identify the data center projects and Utah-Romania links the host refers to.
 

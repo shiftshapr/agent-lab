@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Merge duplicate person nodes into a kept node, then close the id holes in the person band.
+"""Merge duplicate nodes into a kept node, then close the id holes in that band (person, or topic/org/place/event/thing N-10000+).
 
 Each pair OLD:KEEP folds OLD into KEEP (choose as KEEP the id introduced first, so no introduction moves): OLD's aliases (and its canonical name) and episodes join KEEP, OLD's
 register rows and intro-ledger entries are removed, and every other reference to OLD becomes KEEP. Person ids
@@ -51,21 +51,22 @@ def main() -> int:
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
     merge = {int(o): int(k) for o, k in (p.replace("N-", "").split(":") for p in args.pairs)}
-    if any(o >= TOPIC_MIN or k >= TOPIC_MIN or k in merge for o, k in merge.items()):
-        raise SystemExit("person ids only; a KEEP id cannot itself be merged")
+    if any((o >= TOPIC_MIN) != (k >= TOPIC_MIN) or k in merge for o, k in merge.items()):
+        raise SystemExit("OLD and KEEP must be in the same band (person < N-10000 <= topic/org/place/event/thing); a KEEP id cannot itself be merged")
 
     npath = CKA / "canonical" / "nodes.json"
     raw = npath.read_text(encoding="utf-8")
     ndata = json.loads(raw)
     nodes = ndata["nodes"]
-    persons = sorted(int(k[2:]) for k in nodes if int(k[2:]) < TOPIC_MIN)
+    all_ids = sorted(int(k[2:]) for k in nodes)
     removed = sorted(merge)
 
     def shift(n: int) -> int:
         n = merge.get(n, n)
-        return n - sum(1 for r in removed if r < n) if n < TOPIC_MIN else n
+        same_band = [r for r in removed if (r >= TOPIC_MIN) == (n >= TOPIC_MIN)]
+        return n - sum(1 for r in same_band if r < n)
 
-    id_map = {n: shift(n) for n in persons if shift(n) != n}
+    id_map = {n: shift(n) for n in all_ids if shift(n) != n}
 
     nodes_before = json.loads(raw)["nodes"]
     # 1. canonical: fold OLD into KEEP before any renumbering
@@ -76,7 +77,9 @@ def main() -> int:
         sk["episodes"] = sorted(set(sk.get("episodes") or []) | set(so.get("episodes") or []))
         del nodes[f"N-{o}"]
     ndata["nodes"] = {f"N-{shift(int(k[2:]))}": v for k, v in nodes.items()}
-    ndata["next_person_id"] = int(ndata["next_person_id"]) - len(removed)
+    ndata["next_person_id"] = int(ndata["next_person_id"]) - sum(1 for r in removed if r < TOPIC_MIN)
+    if "next_investigation_id" in ndata:
+        ndata["next_investigation_id"] = int(ndata["next_investigation_id"]) - sum(1 for r in removed if r >= TOPIC_MIN)
     if not args.dry_run:
         npath.write_text(json.dumps(ndata, indent=2, ensure_ascii="\\u" in raw) + "\n", encoding="utf-8")
 
@@ -143,7 +146,7 @@ def main() -> int:
             w.writerow(["old_id", "new_id", "note"])
             for o, n in sorted(id_map.items()):
                 w.writerow([f"N-{o}", f"N-{n}", "merged" if o in merge else "shifted"])
-    print(f"merged {len(merge)}; shifted {sum(1 for o in id_map if o not in merge)} person ids; "
+    print(f"merged {len(merge)}; shifted {sum(1 for o in id_map if o not in merge)} ids; "
           f"next_person_id {ndata['next_person_id']}")
     return 0
 

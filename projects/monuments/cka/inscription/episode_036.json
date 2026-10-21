@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-10270"
+            "N-10254"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,7 +60,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10270"
+            "N-10254"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -90,7 +90,7 @@
             "N-270",
             "N-271",
             "N-224",
-            "N-10272"
+            "N-10256"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -120,7 +120,7 @@
             "N-266",
             "N-270",
             "N-271",
-            "N-10272"
+            "N-10256"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -149,7 +149,7 @@
           ],
           "related_nodes": [
             "N-272",
-            "N-10271"
+            "N-10255"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -234,7 +234,7 @@
             "N-3",
             "N-82",
             "N-377",
-            "N-11011"
+            "N-10931"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -259,8 +259,8 @@
             "C-3169"
           ],
           "related_nodes": [
-            "N-11008",
-            "N-10269"
+            "N-10928",
+            "N-10253"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -286,7 +286,7 @@
           ],
           "related_nodes": [
             "N-82",
-            "N-10294"
+            "N-10276"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -397,7 +397,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10272"
+        "N-10256"
       ]
     },
     {
@@ -419,7 +419,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10272"
+        "N-10256"
       ]
     },
     {
@@ -441,7 +441,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10272"
+        "N-10256"
       ]
     },
     {
@@ -485,15 +485,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10271"
+        "N-10255"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satys hanger, 920 King Street facility, and the host's broader \"France angle.\"",
       "related_artifacts": [
         "A-1445.1",
@@ -510,14 +510,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-3"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10271",
-      "ref": "N-10271",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10255",
+      "ref": "N-10255",
       "name": "Tyler Robinson Washington County Surveillance Footage Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target regarding the unavailability of surveillance footage of Tyler Robinson at the Washington County Sheriff's office, including the 30-day retention explanation and Washington County's denial that footage was shared with involved agencies.",
       "related_artifacts": [
         "A-1449.1"
@@ -534,14 +535,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-272"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10272",
-      "ref": "N-10272",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10256",
+      "ref": "N-10256",
       "name": "Harpole–Flood Text Attribution Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target regarding host's assertion that Brian Harpole presented text messages between Dan Flood and UVU Police Chief Jeff Long using phrasing consistent with claiming them as his own communications during the Shawn Ryan interview.",
       "related_artifacts": [
         "A-1447.1",
@@ -560,7 +562,8 @@
         "N-266",
         "N-270",
         "N-271"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -917,11 +920,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization cited in the host's claims about security staff, the UVU request and its leaks.",
       "related_artifacts": [],
       "related_claims": [
@@ -938,14 +941,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10001",
       "ref": "N-10001",
       "name": "MK Ultra",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Program the host says Macron's lawsuit cited 18 times and which her team explored.",
       "related_artifacts": [],
       "related_claims": [
@@ -957,14 +962,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Venue of the event; host says the school warned TPUSA about traffic control.",
       "related_artifacts": [],
       "related_claims": [
@@ -975,14 +981,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10020",
       "ref": "N-10020",
       "name": "Weapon Disassembly/Reassembly Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on the weapon; related here to the host's smaller-weapon conclusion.",
       "related_artifacts": [],
       "related_claims": [
@@ -992,14 +1000,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place of the Sorensen Center, Hall of Flags and rooftops.",
       "related_artifacts": [],
       "related_claims": [
@@ -1011,14 +1021,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10029",
       "ref": "N-10029",
       "name": "Washington County Sheriff's Office",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Agency whose surveillance and holding-room video is unavailable per the KUTV report.",
       "related_artifacts": [],
       "related_claims": [
@@ -1033,14 +1045,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10045",
-      "ref": "N-10045",
+      "@type": "Topic",
+      "@id": "N-10042",
+      "ref": "N-10042",
       "name": "Stanford Psychology Family Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic tied to the host's Stanford hypothesis.",
       "related_artifacts": [],
       "related_claims": [
@@ -1051,14 +1065,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on the Dairy Queen photo; related to the host's retelling.",
       "related_artifacts": [],
       "related_claims": [
@@ -1068,14 +1083,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10116",
-      "ref": "N-10116",
+      "@type": "Topic",
+      "@id": "N-10112",
+      "ref": "N-10112",
       "name": "MK Ultra Continuity Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on the host's MK Ultra line of investigation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1088,14 +1104,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10001"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10134",
-      "ref": "N-10134",
+      "@type": "Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic for the August 2025 Hamptons retreat.",
       "related_artifacts": [],
       "related_claims": [
@@ -1105,14 +1123,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10145",
-      "ref": "N-10145",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10140",
+      "ref": "N-10140",
       "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Robinson's prior familiarity with campus.",
       "related_artifacts": [],
       "related_claims": [
@@ -1122,14 +1144,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10175",
-      "ref": "N-10175",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10168",
+      "ref": "N-10168",
       "name": "UVU Left-Side Footage Black Hole",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on missing or sparse footage; related to the roof video chain.",
       "related_artifacts": [],
       "related_claims": [
@@ -1142,14 +1165,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10197",
-      "ref": "N-10197",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10189",
+      "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on military ties around TPUSA events.",
       "related_artifacts": [],
       "related_claims": [
@@ -1161,14 +1185,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10224",
-      "ref": "N-10224",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10211",
+      "ref": "N-10211",
       "name": "UVU Event Approval Timeline Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on the late UVU speaking request.",
       "related_artifacts": [],
       "related_claims": [
@@ -1178,14 +1203,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10243",
-      "ref": "N-10243",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10229",
+      "ref": "N-10229",
       "name": "UVU Outdoor Venue Selection Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on the venue choice against UVU advice.",
       "related_artifacts": [],
       "related_claims": [
@@ -1195,14 +1221,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@type": "Topic",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on Calvary Chapel abuse scandals.",
       "related_artifacts": [],
       "related_claims": [
@@ -1212,14 +1239,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing umbrella topic for the Egyptian plane tracking.",
       "related_artifacts": [],
       "related_claims": [
@@ -1231,14 +1259,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10261",
-      "ref": "N-10261",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10246",
+      "ref": "N-10246",
       "name": "UVU Pre-9/10 Rooftop Sightings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on rooftop sightings and access.",
       "related_artifacts": [],
       "related_claims": [
@@ -1249,31 +1278,38 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10265",
-      "ref": "N-10265",
+      "@type": "Place",
+      "@id": "N-10249",
+      "ref": "N-10249",
       "name": "920 North King Street / 1 Rodney Square Federal Facility",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic for the Wilmington federal building.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3159"
+        "C-3159",
+        "C-3206",
+        "C-3211",
+        "C-3246",
+        "C-3247"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10266",
-      "ref": "N-10266",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10250",
+      "ref": "N-10250",
       "name": "SUBTT Wilmington Visit Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on SUBTT's stops in Wilmington.",
       "related_artifacts": [],
       "related_claims": [
@@ -1290,14 +1326,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on speakers removed from AmFest.",
       "related_artifacts": [],
       "related_claims": [
@@ -1307,14 +1345,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10269",
-      "ref": "N-10269",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10253",
+      "ref": "N-10253",
       "name": "Wilmington Airport Hangar Federal Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on the hangar and its federal links.",
       "related_artifacts": [],
       "related_claims": [
@@ -1330,35 +1369,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10250"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10284",
-      "ref": "N-10284",
-      "name": "920 North King Street Federal Presence",
-      "type": "investigation_target",
-      "description": "Existing topic on the federal agencies at 920 King Street.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3159",
-        "C-3206",
-        "C-3211",
-        "C-3246",
-        "C-3247"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10294",
-      "ref": "N-10294",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10276",
+      "ref": "N-10276",
       "name": "Brigitte Macron Schedule Gap September 4–10, 2025",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Brigitte Macron's schedule in early September 2025.",
       "related_artifacts": [],
       "related_claims": [
@@ -1370,14 +1390,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10316",
-      "ref": "N-10316",
+      "@type": "Topic",
+      "@id": "N-10297",
+      "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on a possible France link.",
       "related_artifacts": [],
       "related_claims": [
@@ -1387,14 +1408,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10336",
-      "ref": "N-10336",
+      "@type": "Event",
+      "@id": "N-10315",
+      "ref": "N-10315",
       "name": "Tyler Robinson First In-Person Court Appearance Details",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic on Robinson's court appearance format.",
       "related_artifacts": [],
       "related_claims": [
@@ -1404,14 +1426,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@type": "Topic",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on the prosecution's evidence.",
       "related_artifacts": [],
       "related_claims": [
@@ -1421,14 +1445,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Netanyahu's alleged funding offer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1438,14 +1463,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on the Hamptons retreat confrontation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1455,14 +1481,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@type": "Topic",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on the Patel and Gabbard dispute.",
       "related_artifacts": [],
       "related_claims": [
@@ -1472,14 +1500,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10853",
-      "ref": "N-10853",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10775",
+      "ref": "N-10775",
       "name": "Dairy Queen Timestamp UTC vs MST Reconciliation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on the Dairy Queen timestamp.",
       "related_artifacts": [],
       "related_claims": [
@@ -1489,14 +1518,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10048"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Harpole's Shawn Ryan statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1506,7 +1537,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
       "@type": "Person",
@@ -1562,8 +1595,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11008",
-      "ref": "N-11008",
+      "@id": "N-10928",
+      "ref": "N-10928",
       "name": "Satys",
       "type": "organization",
       "description": "French aircraft-painting company, rendered Satys in the transcript, that announced a December 2024 deal for a Wilmington, Delaware hangar. The host says its CEO knows Emmanuel Macron and that her source and a tip show it was a front rather than a maintenance base.",
@@ -1582,14 +1615,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11009",
-      "ref": "N-11009",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10929",
+      "ref": "N-10929",
       "name": "Hall of Flags Activity Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Persistent investigative target on what was happening in the Hall of Flags at UVU on September 10, 2025, why Turning Point security focused on controlled access there, and why a student posting videos was inside it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1600,12 +1635,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11010",
-      "ref": "N-11010",
+      "@id": "N-10930",
+      "ref": "N-10930",
       "name": "Lay-Low List Warning",
       "type": "topic",
       "description": "Persistent investigative target on the warnings the host says she received on September 10, 2025 that a list included her and Tucker Carlson and that they should lay low, and on who originated them.",
@@ -1618,12 +1654,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
-      "@id": "N-11011",
-      "ref": "N-11011",
+      "@id": "N-10931",
+      "ref": "N-10931",
       "name": "Macron Cease and Desist and Legal Timeline",
       "type": "topic",
       "description": "Dated timeline of the Macron side's cease and desist letters, the Becoming Brigitte releases, the lawsuit threats and related events, as walked through by the host.",
@@ -1642,14 +1679,15 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11012",
-      "ref": "N-11012",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10932",
+      "ref": "N-10932",
       "name": "Tyler Robinson Surrender Narrative Dispute",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Persistent investigative target on how Tyler Robinson came into custody, including the father-turned-in story the host disputes and the missing sheriff's-office surrender footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1659,7 +1697,27 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3233"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -1673,7 +1731,7 @@
         "A-1445.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:12:20",
@@ -1693,7 +1751,7 @@
         "A-1445.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:12:20",
@@ -1713,7 +1771,7 @@
         "A-1446.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:18:38",
@@ -1735,7 +1793,7 @@
         "A-1448.1"
       ],
       "related_nodes": [
-        "N-10272"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:34:36",
@@ -1756,7 +1814,7 @@
         "A-1448.1"
       ],
       "related_nodes": [
-        "N-10272"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:34:36",
@@ -1777,7 +1835,7 @@
         "A-1449.1"
       ],
       "related_nodes": [
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:41:28",
@@ -1796,7 +1854,7 @@
         "A-1449.1"
       ],
       "related_nodes": [
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:41:28",
@@ -1812,7 +1870,7 @@
         "A-1449.1"
       ],
       "related_nodes": [
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:41:28",
@@ -1866,9 +1924,9 @@
       "claim": "The host says a source proved to her that the French company in Delaware was not established to maintain the Egyptian planes and was more than likely a front for something else.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11008",
-        "N-10253",
-        "N-10269"
+        "N-10928",
+        "N-10239",
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -1886,7 +1944,7 @@
       "claim": "The host says it was Charlie Kirk who called her and told her that 'they' wanted her to stop speaking about the Brigitte Macron story, and that the open question is who 'they' is.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10316"
+        "N-10297"
       ],
       "tags": [],
       "claim_timestamp": "00:00:50",
@@ -1925,7 +1983,7 @@
       "claim": "The host says that on September 10, while Charlie Kirk was in the hospital, the caller she has just been discussing (Andrew Kolvet, per context) told her there was a list with her and Tucker Carlson on it and that they had to lay low, but never said who told him; she says she never got a call from the feds about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11010"
+        "N-10930"
       ],
       "tags": [],
       "claim_timestamp": "00:03:45",
@@ -1946,7 +2004,7 @@
       "claim": "The host says another very well-known woman, who is married to a CIA contractor, called and gave the same message about her and Tucker Carlson on the day of the assassination, and the host will not name the source.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11010"
+        "N-10930"
       ],
       "tags": [],
       "claim_timestamp": "00:03:45",
@@ -1965,7 +2023,7 @@
       "claim": "The host says that as she looks into the story she realizes that virtually everybody there that day has military ties, which leads her to wonder whether the warning came from a globalized government.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
@@ -1983,9 +2041,9 @@
       "claim": "The host says a French company, which she says her source calls a front, leased a hangar in Wilmington for only two years and that the hangar immediately became a location where the Egyptian military plane landed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11008",
-        "N-10269",
-        "N-10266"
+        "N-10928",
+        "N-10253",
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
@@ -1995,8 +2053,8 @@
         "C-3073"
       ],
       "mentions_person_refs": [
-        "N-10269",
-        "N-10266"
+        "N-10253",
+        "N-10250"
       ]
     },
     {
@@ -2007,9 +2065,8 @@
       "claim": "The host says her source claimed that after the Egyptian plane SUBTT landed at the federally monitored hangar, a foreign dignitary was discreetly moved to 920 King Street, which she says houses the DEA, FBI and Secret Service.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10284",
-        "N-10265",
-        "N-10266"
+        "N-10249",
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:06:23",
@@ -2030,7 +2087,7 @@
       "claim": "The host says she aired her first episode on Brigitte Macron on March 13, 2024, and that she was fired within days.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:06:40",
@@ -2049,7 +2106,7 @@
       "claim": "The host says her life took a different turn because she began prodding the narrative on Israel at the same time, in March 2024, that she began looking into the Brigitte Macron story.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:06:40",
@@ -2086,7 +2143,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10268"
+        "N-10252"
       ],
       "tags": [],
       "claim_timestamp": "00:07:30",
@@ -2107,7 +2164,7 @@
         "A-2723.1"
       ],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:07:30",
@@ -2130,7 +2187,7 @@
         "A-2724.1"
       ],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:08:14",
@@ -2168,8 +2225,8 @@
         "A-2723.1"
       ],
       "related_nodes": [
-        "N-11008",
-        "N-10269"
+        "N-10928",
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:08:14",
@@ -2179,7 +2236,7 @@
         "C-3073"
       ],
       "mentions_person_refs": [
-        "N-10269"
+        "N-10253"
       ]
     },
     {
@@ -2190,8 +2247,8 @@
       "claim": "The host says she has confirmed that the CEO of the French company knows Emmanuel Macron and decided to sign a two-year lease on an airport hangar to paint planes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11008",
-        "N-10269"
+        "N-10928",
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:09:25",
@@ -2211,15 +2268,15 @@
         "A-2725.1"
       ],
       "related_nodes": [
-        "N-11008",
-        "N-10269"
+        "N-10928",
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:09:25",
       "investigative_direction": "Locate the December 2024 article and quote its description of Satys's business.",
       "transcript_snippet": "it's a French multinational company that specializes in the painting of aircrafts, and they plan to open for business in a hanger not far from Wilmington Airport come the new year.",
       "mentions_person_refs": [
-        "N-10269"
+        "N-10253"
       ]
     },
     {
@@ -2232,7 +2289,7 @@
         "A-2723.1"
       ],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:09:25",
@@ -2253,7 +2310,7 @@
         "A-2723.1"
       ],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:10:31",
@@ -2274,7 +2331,7 @@
         "A-2723.1"
       ],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:10:31",
@@ -2294,7 +2351,7 @@
         "A-2723.1"
       ],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:11:24",
@@ -2315,7 +2372,7 @@
         "A-1445.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:11:24",
@@ -2339,7 +2396,7 @@
         "A-1445.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:11:24",
@@ -2380,7 +2437,7 @@
         "A-1445.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:12:20",
@@ -2419,7 +2476,7 @@
       "claim": "The host says the Macron side sent another legal threat on July 1, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:13:25",
@@ -2462,7 +2519,7 @@
       "related_nodes": [
         "N-10000",
         "N-10012",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:16:53",
@@ -2481,15 +2538,15 @@
       "claim": "The host says that around this time SUBTT flew from Cairo through Paris and landed in Omaha, Nebraska, and that its longest stay was in Wilmington.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10266",
-        "N-10253"
+        "N-10250",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:16:53",
       "investigative_direction": "Pull flight-tracking history for SU-BTT for July 2025, including origin airports and Wilmington ground time.",
       "transcript_snippet": "BTT then comes in to from Cairo through Paris and lands in Omaha, Nebraska. And it's the longest stay actually that they have in Wilmington.",
       "mentions_person_refs": [
-        "N-10253"
+        "N-10239"
       ]
     },
     {
@@ -2500,7 +2557,7 @@
       "claim": "The host says the plane stayed in Wilmington for six days, from the 20th to the 26th of July, and departed on the 26th back to Cairo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10266"
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:17:47",
@@ -2515,8 +2572,8 @@
       "claim": "The host says the period of the plane's stay is when Emmanuel and Brigitte Macron told the Financial Times they were suing her in a Delaware court, and says she is not claiming the Macrons were on the plane.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270",
-        "N-10266"
+        "N-10254",
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:17:47",
@@ -2536,7 +2593,7 @@
       "claim": "The host says that on August 1, 2025, the same week as the legal-team message, Tucker Carlson released an episode with her in which they discussed the Brigitte Macron case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:18:38",
@@ -2574,7 +2631,7 @@
       "related_nodes": [
         "N-10000",
         "N-10012",
-        "N-10243"
+        "N-10229"
       ],
       "tags": [],
       "claim_timestamp": "00:19:46",
@@ -2592,8 +2649,8 @@
       "claim": "The host says the Hamptons retreat took place August 5 to 6, that Charlie Kirk himself described it as an intervention, and that Bill Ackman and Seth Dillon dispute that account.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134",
-        "N-10345"
+        "N-10129",
+        "N-10323"
       ],
       "tags": [],
       "claim_timestamp": "00:19:46",
@@ -2616,7 +2673,7 @@
       "claim": "The host says Benjamin Netanyahu offered to take Turning Point to the next level financially and that Charlie Kirk declined the offer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:20:40",
@@ -2638,7 +2695,7 @@
       "claim": "The host says SUBTT flew its Nebraska route again around August 17 and on August 23, the day of Charlie Kirk's speaking date she cites, went through to Wilmington for one night before heading back to Cairo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10266"
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:20:40",
@@ -2658,7 +2715,7 @@
         "A-2726.1"
       ],
       "related_nodes": [
-        "N-10294"
+        "N-10276"
       ],
       "tags": [],
       "claim_timestamp": "00:20:40",
@@ -2676,7 +2733,7 @@
       "claim": "The host says Brigitte Macron greeted President Zelensky (spelled Zilinski in the transcript) in Paris on September 3, 2025, the day 35 state leaders met to discuss Ukraine's security.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10294"
+        "N-10276"
       ],
       "tags": [],
       "claim_timestamp": "00:20:40",
@@ -2695,8 +2752,8 @@
       "claim": "The host says SUBTT left Paris after the September 3 events, was going to stay six days, and then go to Wilmington, Delaware, before departing on September 11 after the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10266",
-        "N-10294"
+        "N-10250",
+        "N-10276"
       ],
       "tags": [],
       "claim_timestamp": "00:22:16",
@@ -2706,7 +2763,7 @@
         "C-3056"
       ],
       "mentions_person_refs": [
-        "N-10294"
+        "N-10276"
       ]
     },
     {
@@ -2717,7 +2774,7 @@
       "claim": "The host says she does not think the plane was filled with Egyptians and speculates that whether the passengers had Egyptian passports or names is another matter.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:22:16",
@@ -2752,8 +2809,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10001",
-        "N-10116",
-        "N-10270"
+        "N-10112",
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:23:28",
@@ -2774,8 +2831,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10001",
-        "N-10045",
-        "N-10116"
+        "N-10042",
+        "N-10112"
       ],
       "tags": [],
       "claim_timestamp": "00:23:34",
@@ -2793,7 +2850,7 @@
       "claim": "The host says that if her inclination is right that Xavier Poussard's messages have been read and tracked for longer than she realized, the reason the cease and desist went out in December was to ward her off sitting down with him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:23:51",
@@ -2813,7 +2870,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10001",
-        "N-10116"
+        "N-10112"
       ],
       "tags": [],
       "claim_timestamp": "00:23:51",
@@ -2831,8 +2888,8 @@
       "claim": "The host says she and Poussard thought they had perhaps identified Brigitte Macron at Stanford University, a possibility she puts at maybe 50-50, before the assassination threw them off the investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10045",
-        "N-10116"
+        "N-10042",
+        "N-10112"
       ],
       "tags": [],
       "claim_timestamp": "00:24:39",
@@ -2852,9 +2909,9 @@
       "claim": "The host says a tip received the day before showed the hangar had no operative lease from 2021 to the end of 2024 even though the plane kept stopping in Wilmington, so the stops were not maintenance.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11008",
-        "N-10269",
-        "N-10266"
+        "N-10928",
+        "N-10253",
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:24:39",
@@ -2872,8 +2929,8 @@
       "claim": "The host says the hangar sits in federally controlled waterways and that the building involves cooperation between the feds, Homeland Security and independent contractors who are not part of the government apparatus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10269",
-        "N-10284"
+        "N-10253",
+        "N-10249"
       ],
       "tags": [],
       "claim_timestamp": "00:24:39",
@@ -2891,7 +2948,7 @@
       "claim": "The host says the response in France has been to harass people who came out to tell the story, ruin their lives, go after their finances and debank them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11011"
+        "N-10931"
       ],
       "tags": [],
       "claim_timestamp": "00:25:57",
@@ -2925,7 +2982,7 @@
       "claim": "The host says many people involved in the Charlie Kirk story have a history of child sex abuse and points, as recurring examples, to George Zinn, or the person who jumped up and screamed, or the pastors at Calvary Chapel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:28:44",
@@ -2944,7 +3001,7 @@
       "claim": "The host says her team is receiving a bunch of tips about the company Satys (transcribed Satys) and will chase down those leads.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11008"
+        "N-10928"
       ],
       "tags": [],
       "claim_timestamp": "00:29:30",
@@ -2962,8 +3019,8 @@
       "claim": "The host says she thinks France should be able to help by saying who landed in Wilmington and was taken to 910 King, given that it decided to lease the hangar.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11008",
-        "N-10284"
+        "N-10928",
+        "N-10249"
       ],
       "tags": [],
       "claim_timestamp": "00:29:30",
@@ -2981,8 +3038,8 @@
       "claim": "The host says Brian Harpole sat down with Shawn Ryan and tried to explain things away, saying it was actually the fault of the UVU police and Chief Long.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10862",
-        "N-10272"
+        "N-10783",
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:32:51",
@@ -3006,7 +3063,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10197"
+        "N-10189"
       ],
       "tags": [],
       "claim_timestamp": "00:32:51",
@@ -3067,7 +3124,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10261"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:37:13",
@@ -3087,7 +3144,7 @@
       "claim": "The host says all Turning Point security cared about, for reasons she does not know, was controlled access in the Hall of Flags, and she wants to know what was happening there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11009",
+        "N-10929",
         "N-10000"
       ],
       "tags": [],
@@ -3106,8 +3163,8 @@
       "claim": "The host says there were only two videos of people who saw the alleged shooter on the roof running off, despite many people being present, and no more testimonies came out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10261",
-        "N-10175"
+        "N-10246",
+        "N-10168"
       ],
       "tags": [],
       "claim_timestamp": "00:38:39",
@@ -3125,7 +3182,7 @@
       "claim": "The host says the students who shot the two roof videos did not post them themselves but went through third and fourth parties, jumping through multiple hoops to get them out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10175"
+        "N-10168"
       ],
       "tags": [],
       "claim_timestamp": "00:38:39",
@@ -3146,8 +3203,8 @@
       "claim": "The host says that when her team tracked down the people who shot the two roof videos, both were in the military, which she describes as ROTC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197",
-        "N-10175"
+        "N-10189",
+        "N-10168"
       ],
       "tags": [],
       "claim_timestamp": "00:38:39",
@@ -3165,8 +3222,8 @@
       "claim": "The host says the Indian student she showed earlier, who posted many videos and gave them to the news, was in the Hall of Flags.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11009",
-        "N-10175"
+        "N-10929",
+        "N-10168"
       ],
       "tags": [],
       "claim_timestamp": "00:39:36",
@@ -3184,7 +3241,7 @@
       "claim": "The host says the official story, as the feds told it, was that a friend called and Tyler Robinson's father recognized his son and turned him in, and says she told her audience that was a lie, that things did not go that way, and that she had sources.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11012",
+        "N-10932",
         "N-10029"
       ],
       "tags": [],
@@ -3207,7 +3264,7 @@
       ],
       "related_nodes": [
         "N-10029",
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:41:28",
@@ -3228,7 +3285,7 @@
       ],
       "related_nodes": [
         "N-10029",
-        "N-10271"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:41:28",
@@ -3269,7 +3326,7 @@
         "A-1449.1"
       ],
       "related_nodes": [
-        "N-10271",
+        "N-10255",
         "N-10029"
       ],
       "tags": [],
@@ -3290,7 +3347,7 @@
         "A-1449.1"
       ],
       "related_nodes": [
-        "N-10271",
+        "N-10255",
         "N-10029"
       ],
       "tags": [],
@@ -3311,7 +3368,8 @@
         "A-1449.1"
       ],
       "related_nodes": [
-        "N-10271"
+        "N-10255",
+        "N-11360"
       ],
       "tags": [],
       "claim_timestamp": "00:42:24",
@@ -3329,7 +3387,7 @@
       "claim": "The host says Tyler Robinson cannot appear in person, appears electronically, and does not have to put his video on for court hearings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10336"
+        "N-10315"
       ],
       "tags": [],
       "claim_timestamp": "00:43:22",
@@ -3348,7 +3406,7 @@
       "claim": "The host says that, in the official account she is mocking as the real conspiracy theory, Tyler Robinson did not attend UVU, had never been on the UVU campus, and nonetheless knew exactly where Charlie Kirk would be seated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10145",
+        "N-10140",
         "N-10028"
       ],
       "tags": [],
@@ -3369,8 +3427,8 @@
       "claim": "The host summarizes the official account as Robinson retreating to a Dairy Queen where he texted every minute of what he did to his partner, and texting more the next day about his dad even though he was home with that partner.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051",
-        "N-10853"
+        "N-10048",
+        "N-10775"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21",
@@ -3389,7 +3447,7 @@
       "claim": "The host says that despite having about a 4.3 GPA and being a boy genius in the official account, Robinson wrote every minute of the crime to his partner.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21",
@@ -3479,7 +3537,7 @@
       "claim": "The host says that after she saw an article that Kash Patel was blocking Tulsi Gabbard's office, she lost all faith in him and considers him part of the corruption.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ],
       "tags": [],
       "claim_timestamp": "00:52:43",
@@ -3537,7 +3595,7 @@
       "claim": "The host says a first lady or first man of a country would certainly be classified as a foreign dignitary, and that she does not think Donald Trump would be described as a dignitary.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10284"
+        "N-10249"
       ],
       "tags": [],
       "claim_timestamp": "00:53:24",
@@ -3556,7 +3614,7 @@
       "claim": "Mark, the show's director, tells the host that 'dignitary' is a pretty wide-ranging term that can cover almost anyone in government close to the top, aides or executive aides, and even religious leaders.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10284"
+        "N-10249"
       ],
       "tags": [],
       "claim_timestamp": "00:54:41",

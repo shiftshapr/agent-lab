@@ -32,7 +32,7 @@
             "C-8740"
           ],
           "related_nodes": [
-            "N-10900"
+            "N-10821"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -137,8 +137,8 @@
             "C-8786"
           ],
           "related_nodes": [
-            "N-10651",
-            "N-10656"
+            "N-10593",
+            "N-10598"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,8 +165,8 @@
             "C-8785"
           ],
           "related_nodes": [
-            "N-10652",
-            "N-10653"
+            "N-10594",
+            "N-10595"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-8731"
           ],
           "related_nodes": [
-            "N-10652"
+            "N-10594"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,7 +221,7 @@
             "C-8763"
           ],
           "related_nodes": [
-            "N-10653"
+            "N-10595"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -248,7 +248,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10651"
+            "N-10593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -274,7 +274,7 @@
             "C-8776"
           ],
           "related_nodes": [
-            "N-10656"
+            "N-10598"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,7 +300,7 @@
             "C-8803"
           ],
           "related_nodes": [
-            "N-10653"
+            "N-10595"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -330,7 +330,7 @@
             "C-8794"
           ],
           "related_nodes": [
-            "N-10651"
+            "N-10593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -370,7 +370,7 @@
           "description": "Fegliano comment: Blake Lively settled; win for adversaries of \"purchased corruption\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10651"
+            "N-10593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,7 +396,7 @@
           "description": "Dankster Intel $100 donation: \"Foreign Agent Exposurer… chinks in the armor… taking back America from these grifting hands\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10652"
+            "N-10594"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -410,7 +410,7 @@
           "description": "Natty Nicole donation: \"Ben and Larry are discussing human beings\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10651"
+            "N-10593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -506,8 +506,8 @@
             "C-8731"
           ],
           "related_nodes": [
-            "N-10651",
-            "N-10656"
+            "N-10593",
+            "N-10598"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -533,7 +533,7 @@
             "C-8777"
           ],
           "related_nodes": [
-            "N-10651"
+            "N-10593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -559,7 +559,7 @@
             "C-8803"
           ],
           "related_nodes": [
-            "N-10651"
+            "N-10593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -585,7 +585,7 @@
             "C-8795"
           ],
           "related_nodes": [
-            "N-10653"
+            "N-10595"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -696,11 +696,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: did the Brian Harpole lawsuit, filed via Sarelson/Roth, coordinate with Ben Shapiro, the Daily Wire, and/or Laura Loomer?",
       "related_artifacts": [
         "A-2034.1",
@@ -720,14 +720,15 @@
       "evidence_count": 6,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10652",
-      "ref": "N-10652",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10594",
+      "ref": "N-10594",
       "name": "Dhillon Law Group / Show Faith by Works Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: is the Dhillon Law Group's representation of Show Faith by Works (FARA) materially relevant to the firm's broader litigation posture in the Harpole case and the host's targeting?",
       "related_artifacts": [
         "A-2035.1",
@@ -742,14 +743,16 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10593"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10653",
-      "ref": "N-10653",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10595",
+      "ref": "N-10595",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: did Show Faith by Works (or another FARA-registered entity) partner with Andrew Kolvet / Turning Point USA to geofence the State Farm Stadium memorial, and does the targeting list overlap with Turning Point-affiliated churches (Calvary Chapel / Dream City Church)?",
       "related_artifacts": [
         "A-2036.1",
@@ -765,14 +768,15 @@
       "evidence_count": 4,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10654",
-      "ref": "N-10654",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10596",
+      "ref": "N-10596",
       "name": "Zalman Shapiro Uranium Transfer Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: did Zalman Shapiro (alleged uncle) transfer uranium to Israel, and what was the disposition of any related prosecution?",
       "related_artifacts": [],
       "related_claims": [],
@@ -780,14 +784,15 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10655",
-      "ref": "N-10655",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10597",
+      "ref": "N-10597",
       "name": "Charlie Kirk Assassination Perpetrator Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent host assertion that Tyler Robinson did not act alone on a rooftop; flagged as ongoing series target.",
       "related_artifacts": [],
       "related_claims": [],
@@ -798,14 +803,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10656",
-      "ref": "N-10656",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10598",
+      "ref": "N-10598",
       "name": "Charlotte Airport Photo Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: did Laura Loomer coordinate with Matt Sarelson to obtain photographs of the host at the Charlotte airport simultaneous with the Harpole lawsuit email?",
       "related_artifacts": [
         "A-2034.1",
@@ -820,7 +826,9 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10593"
     },
     {
       "@type": "Person",
@@ -1036,8 +1044,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "organization",
       "description": "Institution that re-released Candace's 2021 trailer on her social channels.",
@@ -1066,7 +1074,9 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [],
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -1430,11 +1440,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says possesses 4K footage and was geofencing the memorial.",
       "related_artifacts": [],
       "related_claims": [
@@ -1446,14 +1456,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "investigation_target",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Memorial and funeral topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1463,14 +1475,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@type": "Organization",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says was not destroyed by her exit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1480,14 +1496,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10238",
-      "ref": "N-10238",
+      "@type": "Topic",
+      "@id": "N-10225",
+      "ref": "N-10225",
       "name": "Daily Wire Intern Covert Recording Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the intern claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1497,14 +1515,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10379",
-      "ref": "N-10379",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10352",
+      "ref": "N-10352",
       "name": "Daily Wire Social Media Reactivation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the channels claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1514,14 +1533,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@type": "Topic",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the show claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1531,14 +1551,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@type": "Topic",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the clip claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1548,14 +1569,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@type": "Topic",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the stalking claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1566,14 +1588,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10487",
-      "ref": "N-10487",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10452",
+      "ref": "N-10452",
       "name": "Dream City Church Connection Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Dream City claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1583,14 +1606,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10631",
-      "ref": "N-10631",
+      "@type": "Topic",
+      "@id": "N-10577",
+      "ref": "N-10577",
       "name": "George Farmer / Tracy Robinson $6,987 Incident",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the hit-and-run accusation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1600,14 +1624,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Kolvet seating claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1617,14 +1642,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10640",
-      "ref": "N-10640",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10585",
+      "ref": "N-10585",
       "name": "Trump Truth Social Tweet Authorship/Origin",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the photo post.",
       "related_artifacts": [],
       "related_claims": [
@@ -1635,14 +1661,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10661",
-      "ref": "N-10661",
+      "@type": "Topic",
+      "@id": "N-10603",
+      "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the settlement claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1653,14 +1680,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10689",
-      "ref": "N-10689",
+      "@type": "Topic",
+      "@id": "N-10627",
+      "ref": "N-10627",
       "name": "Daily Wire Financial Status and IPO Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the finance claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1674,14 +1702,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10694",
-      "ref": "N-10694",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Flood claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1691,14 +1720,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10910",
-      "ref": "N-10910",
+      "@type": "Organization",
+      "@id": "N-10831",
+      "ref": "N-10831",
       "name": "Dhillon Law Group",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Law firm of Harmeet Dhillon, counsel on the Show Faith by Works filing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1710,14 +1740,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q613142"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10914",
-      "ref": "N-10914",
+      "@type": "Organization",
+      "@id": "N-10835",
+      "ref": "N-10835",
       "name": "Show Faith by Works LLC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "FARA-registered company running the church geofencing campaign.",
       "related_artifacts": [],
       "related_claims": [
@@ -1733,14 +1765,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11116",
-      "ref": "N-11116",
+      "@type": "Topic",
+      "@id": "N-11034",
+      "ref": "N-11034",
       "name": "Candace Owens Daily Wire Firing Reasons",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Klavan claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1750,7 +1784,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1806,8 +1841,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11299",
-      "ref": "N-11299",
+      "@id": "N-11215",
+      "ref": "N-11215",
       "name": "Bridges Partners / Esther Project",
       "type": "organization",
       "description": "Firm named in the Times of Israel article as contracted to create an influencer network called the Esther project for Israel's Foreign Ministry.",
@@ -1819,7 +1854,29 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8796",
+        "C-8793"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1959,8 +2016,8 @@
         "A-2034.1"
       ],
       "related_nodes": [
-        "N-10651",
-        "N-10656"
+        "N-10593",
+        "N-10598"
       ],
       "tags": [],
       "claim_timestamp": "00:32:50",
@@ -1979,8 +2036,8 @@
         "A-2035.1"
       ],
       "related_nodes": [
-        "N-10652",
-        "N-10653"
+        "N-10594",
+        "N-10595"
       ],
       "tags": [],
       "claim_timestamp": "00:37:02",
@@ -1997,7 +2054,7 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-10652"
+        "N-10594"
       ],
       "tags": [],
       "claim_timestamp": "00:37:43",
@@ -2015,7 +2072,7 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-10652"
+        "N-10594"
       ],
       "tags": [],
       "claim_timestamp": "00:36:17",
@@ -2034,8 +2091,8 @@
         "A-2044.1"
       ],
       "related_nodes": [
-        "N-10652",
-        "N-10653"
+        "N-10594",
+        "N-10595"
       ],
       "tags": [],
       "claim_timestamp": "00:39:35",
@@ -2054,7 +2111,8 @@
         "A-2037.1"
       ],
       "related_nodes": [
-        "N-10653"
+        "N-10595",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:40:12",
@@ -2072,7 +2130,7 @@
         "A-2038.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:22:03",
@@ -2091,7 +2149,7 @@
         "A-2039.1"
       ],
       "related_nodes": [
-        "N-10656"
+        "N-10598"
       ],
       "tags": [],
       "claim_timestamp": "00:31:50",
@@ -2110,8 +2168,8 @@
         "A-2041.1"
       ],
       "related_nodes": [
-        "N-10651",
-        "N-10656"
+        "N-10593",
+        "N-10598"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
@@ -2131,7 +2189,7 @@
         "A-2042.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:01:15",
@@ -2151,7 +2209,7 @@
         "A-2043.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
@@ -2172,7 +2230,7 @@
         "A-2040.1"
       ],
       "related_nodes": [
-        "N-10653"
+        "N-10595"
       ],
       "tags": [],
       "claim_timestamp": "00:45:07",
@@ -2191,7 +2249,7 @@
         "A-2040.3"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:49:25",
@@ -2209,7 +2267,7 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-10652"
+        "N-10594"
       ],
       "tags": [],
       "claim_timestamp": "00:39:20",
@@ -2223,7 +2281,7 @@
       "claim": "The host says that last week people doxed her home address and accused her of hiding money, of fleeing the country, and her husband of hiding a hit-and-run in which he hit a man named Tracy Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [
         "relevance:context"
@@ -2244,7 +2302,7 @@
       "claim": "The host says the president posted a photo of her looking sick, that she was not speaking about him, and that she was in Italy at the time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10640"
+        "N-10585"
       ],
       "tags": [
         "relevance:context"
@@ -2265,7 +2323,7 @@
       "claim": "The host says the Brian Harpole lawsuit was sent by Matt Sarelson, the same lawyer who had for two years been suing her in arbitration on Ben Shapiro's behalf.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -2288,8 +2346,8 @@
       "claim": "The host, in a sarcastic paraphrase of Shapiro's side, says the Daily Wire sent an intern to follow her at her event after she was fired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10238",
-        "N-10416"
+        "N-10225",
+        "N-10389"
       ],
       "tags": [
         "relevance:context"
@@ -2310,8 +2368,8 @@
       "claim": "The host says the Daily Wire monitored her likes on X and that she faced serious lawsuits over liking a tweet that was disparaging to the company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10416",
-        "N-10900"
+        "N-10389",
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2331,8 +2389,8 @@
       "claim": "The host says she was told the Daily Wire layoffs began on Thursday, continued through Friday and may be continuing on the Monday of the episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:context"
@@ -2352,8 +2410,8 @@
       "claim": "The host says the layoffs hit entire departments, lawyers, the chief operating officer, the executive vice president and virtually the whole marketing department, leaving production a skeleton crew.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:context"
@@ -2373,7 +2431,7 @@
       "claim": "The host says that even a director on Ben Shapiro's own team was fired and that she has counted approximately 54 people who lost their jobs in this wave.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2394,8 +2452,8 @@
       "claim": "The host says the Daily Wire brought in private equity sometime in the last two years, says her own private-equity experience suggests a roughly two-year runway in distressed-debt situations, and says she cannot assert the actual deal terms.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:context"
@@ -2415,7 +2473,7 @@
       "claim": "The host says the Daily Wire first shuttered Bentkey Kids with massive layoffs, then quietly got rid of its sports department, the Crain & Company show, before the recent cuts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2437,7 +2495,7 @@
         "A-2030.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2459,7 +2517,7 @@
         "A-2031.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2481,7 +2539,7 @@
         "A-2031.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2524,7 +2582,7 @@
         "A-2031.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -2545,7 +2603,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10131"
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -2565,8 +2623,8 @@
       "claim": "The host says that two years after firing her the Daily Wire brought back her social channels in order to mock her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10379",
-        "N-10900"
+        "N-10352",
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2586,8 +2644,8 @@
       "claim": "The host says the Daily Wire attempted to create an entire show dedicated to making fun of her show, months after the end of its last legal action against her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10385",
-        "N-10900"
+        "N-10358",
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2607,7 +2665,7 @@
       "claim": "The host says she wanted to leave the Daily Wire quietly and wishes Andrew Klavan had never made the Crisis King video, because otherwise 'you would have never heard from me' and they could never speak about each other again.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11116"
+        "N-11034"
       ],
       "tags": [
         "relevance:context"
@@ -2722,7 +2780,7 @@
         "A-3138.2"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -2744,8 +2802,8 @@
       "claim": "The host infers that Ben Shapiro, as a part owner of the Daily Wire, knew months ahead that the company could not sustain its employees, and says that with his dying corporate breath he chose to come after her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:context"
@@ -2811,7 +2869,7 @@
         "A-2038.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2876,7 +2934,7 @@
         "A-3138.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -2924,7 +2982,7 @@
       "claim": "The host alleges that everybody in YouTube world knew Ben Shapiro was buying views, says she knows the person who used to do it at the Daily Wire, and wonders whether selling advertisers on purchased views is a kind of advertising Ponzi scheme.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2947,7 +3005,7 @@
         "A-2039.1"
       ],
       "related_nodes": [
-        "N-10656"
+        "N-10598"
       ],
       "tags": [
         "relevance:core"
@@ -2971,7 +3029,7 @@
       "claim": "The host says Matt Sarelson's firm first sent a demand saying a lawsuit would be filed in four days, more than a week before the host announced anything publicly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -2994,8 +3052,8 @@
         "A-2039.1"
       ],
       "related_nodes": [
-        "N-10656",
-        "N-10651"
+        "N-10598",
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -3038,7 +3096,7 @@
       "claim": "The host says Dhillon Law Group is Harmeet Dhillon's law firm and that Dhillon left it to serve at the Department of Justice as Assistant Attorney General for the Civil Rights Division.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10910"
+        "N-10831"
       ],
       "tags": [
         "relevance:context"
@@ -3058,7 +3116,7 @@
       "claim": "The host says she thinks Harmeet Dhillon transferred her stake in her firm to her brother while serving at the Department of Justice.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10910"
+        "N-10831"
       ],
       "tags": [
         "relevance:context"
@@ -3097,7 +3155,7 @@
       "claim": "The host says that, while Dhillon's firm has never been accused or charged with corruption related to Israel, it is heavily involved in a lot of legal issues on behalf of Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10910"
+        "N-10831"
       ],
       "tags": [
         "relevance:context"
@@ -3119,8 +3177,8 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-10914",
-        "N-10652"
+        "N-10835",
+        "N-10594"
       ],
       "tags": [
         "relevance:context"
@@ -3129,7 +3187,7 @@
       "investigative_direction": "Retrieve the FARA registration and its principal field.",
       "transcript_snippet": "Uh the principal of the company, to be clear, is Israel's Ministry of Foreign Affairs.",
       "mentions_person_refs": [
-        "N-10652"
+        "N-10594"
       ]
     },
     {
@@ -3142,8 +3200,8 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-10914",
-        "N-10653"
+        "N-10835",
+        "N-10595"
       ],
       "tags": [
         "relevance:context"
@@ -3152,7 +3210,7 @@
       "investigative_direction": "Retrieve the FARA registration statement and its scope-of-work.",
       "transcript_snippet": "Their stated purpose is to target Christians in the United States with anti-Palestinian and pro-Israel messaging.",
       "mentions_person_refs": [
-        "N-10653"
+        "N-10595"
       ]
     },
     {
@@ -3165,7 +3223,7 @@
         "A-2035.1"
       ],
       "related_nodes": [
-        "N-10914"
+        "N-10835"
       ],
       "tags": [
         "relevance:context"
@@ -3184,7 +3242,7 @@
         "A-2035.1"
       ],
       "related_nodes": [
-        "N-10914"
+        "N-10835"
       ],
       "tags": [
         "relevance:context"
@@ -3223,7 +3281,7 @@
         "A-2035.1"
       ],
       "related_nodes": [
-        "N-11299"
+        "N-11215"
       ],
       "tags": [
         "relevance:context"
@@ -3257,7 +3315,7 @@
       "claim": "The host says Charlie Kirk's public funeral was described by some people, including his wife, as the event of the century.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -3280,8 +3338,8 @@
         "A-2037.1"
       ],
       "related_nodes": [
-        "N-10653",
-        "N-10914"
+        "N-10595",
+        "N-10835"
       ],
       "tags": [
         "relevance:core"
@@ -3304,7 +3362,7 @@
       "claim": "The host says Andrew Kolvet happened to be sitting with Harmeet Dhillon at the recent White House Correspondents Dinner where the shooting occurred.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [
         "relevance:core"
@@ -3327,8 +3385,8 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-10914",
-        "N-10653"
+        "N-10835",
+        "N-10595"
       ],
       "tags": [
         "relevance:context"
@@ -3337,7 +3395,7 @@
       "investigative_direction": "Retrieve the FARA exhibit listing target markets.",
       "transcript_snippet": "they specifically note that they are going to be doing that geofencing and targeting in Tucson, Phoenix, and Las Vegas.",
       "mentions_person_refs": [
-        "N-10653"
+        "N-10595"
       ]
     },
     {
@@ -3348,8 +3406,8 @@
       "claim": "The host says she would be very surprised if Show Faith by Works was not the company working with one of Turning Point USA's partners, but says she has not personally confirmed it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10653",
-        "N-10914"
+        "N-10595",
+        "N-10835"
       ],
       "tags": [
         "relevance:core"
@@ -3371,7 +3429,7 @@
         "A-2044.1"
       ],
       "related_nodes": [
-        "N-10487"
+        "N-10452"
       ],
       "tags": [
         "relevance:core"
@@ -3393,7 +3451,7 @@
         "A-3140.1"
       ],
       "related_nodes": [
-        "N-10653"
+        "N-10595"
       ],
       "tags": [
         "relevance:context",
@@ -3433,8 +3491,8 @@
       "claim": "The host says the reason the Daily Wire got into debt was Jeremy Boreing, who she says stopped focusing on talent, thought he was the product and invested little in talent.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:context"
@@ -3455,8 +3513,8 @@
       "claim": "The host says she genuinely did not believe Brian Harpole or Dan Flood were involved when this went down, that she defended them on her platform, and that she never mentioned Harpole until his interview and reached out to him first.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651",
-        "N-10694"
+        "N-10593",
+        "N-10632"
       ],
       "tags": [
         "relevance:core"
@@ -3497,7 +3555,7 @@
       "claim": "The host says she hopes the lawsuit will let her obtain access to Harpole's phone, Dan Flood's phone, Erika Kirk's phone on the day, and the footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -3564,7 +3622,7 @@
         "A-2040.6"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3585,7 +3643,7 @@
       "claim": "The host congratulates Bryan Freedman (she was unsure of the lawyer's name, transcribed 'Friedman'; real name likely Bryan Freedman) and PR professional Melissa Nathan on the Baldoni side's result.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3607,7 +3665,7 @@
       "claim": "The host asks whether Ben Shapiro's uncle Zalman Shapiro was the one who took all of the uranium to Israel, spells the name and says 'I'm pretty sure.'",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10654"
+        "N-10596"
       ],
       "tags": [
         "relevance:tangential"
@@ -3628,7 +3686,7 @@
       "claim": "The host says she does not think Zalman Shapiro was ever found guilty and thinks he played the antisemitism card.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10654"
+        "N-10596"
       ],
       "tags": [
         "relevance:tangential"
@@ -3648,7 +3706,7 @@
       "claim": "The host says the public will find out who was really behind the Charlie Kirk murder because, she says, everyone knows it was not Tyler Robinson alone on a rooftop.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10655"
+        "N-10597"
       ],
       "tags": [
         "relevance:core"
@@ -3691,7 +3749,7 @@
       "claim": "The host says the president posted a picture of her on the same evening as, or the night before, her confirmation, while she was in Italy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10640"
+        "N-10585"
       ],
       "tags": [
         "relevance:context"

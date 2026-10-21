@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 4b931eed5aa73d203bec84182448315895321f05165958ce43afd7cf890cdb6e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-914, N-915, N-916, N-917, N-11349, N-11350
-  - Hole-minted Nodes (reintro-ep094): N-10640
+  - Tip-minted Nodes (supplement_2026-10f): N-914, N-915, N-916, N-917, N-11265, N-11266
+  - Hole-minted Nodes (reintro-ep094): N-10585
   - Tip-minted Nodes (reintro-ep094): N-826
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-8364–C-8489
-  - New Nodes Introduced: N-10623, N-10625, N-10626, N-10627, N-10629, N-10632, N-10636
+  - New Nodes Introduced: N-10569, N-10571, N-10572, N-10573, N-10575, N-10578
   - Hole-minted Nodes (wave3): N-425, N-426
-  - Reused Nodes Appearing: N-10631, N-10628, N-10635, N-10630, N-10624, N-4, N-6, N-30, N-54, N-69, N-193, N-268, N-272, N-278, N-533, N-599, N-10013, N-10014, N-10021, N-10022, N-10034, N-10077, N-10110, N-10142, N-10168, N-10202, N-10239, N-10271, N-10319, N-10360, N-10487, N-10570, N-10587, N-10590, N-10598, N-10604, N-10607, N-10608, N-10610, N-10616, N-10617, N-10660, N-10665, N-10770, N-10975, N-11149, N-11218, N-10713, N-10633, N-10634
+  - Reused Nodes Appearing: N-11360, N-10577, N-10574, N-10581, N-10576, N-10570, N-4, N-6, N-30, N-54, N-69, N-193, N-268, N-272, N-278, N-533, N-599, N-10013, N-10014, N-10021, N-10022, N-10033, N-10074, N-10106, N-10137, N-10161, N-10194, N-10226, N-10255, N-10300, N-10336, N-10452, N-10521, N-10535, N-10538, N-10545, N-10551, N-10554, N-10555, N-10557, N-10563, N-10602, N-10465, N-10188, N-10896, N-11065, N-11134, N-10649, N-10579, N-10580
   - (see registers)
 
 ---
@@ -46,7 +46,7 @@ Video Timestamp: 00:01:20–00:06:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio quality degraded; AI-cleaned)
 
-*Related: C-8374, C-8375, C-8378, N-10623*
+*Related: C-8374, C-8375, C-8378, N-10569*
 
 ---
 
@@ -59,7 +59,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:28–00:17:22
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8387, C-8390, C-8394, N-10623, N-10624*
+*Related: C-8387, C-8390, C-8394, N-10569, N-10570*
 
 **A-1994.2** Audio of defense attorney Kathy Nester addressing the court re: phone and gun access
 
@@ -68,7 +68,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:20–00:15:13
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8399, C-8400, C-8391, N-10623, N-10624*
+*Related: C-8399, C-8400, C-8391, N-10569, N-10570*
 
 ---
 
@@ -81,7 +81,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:58–00:36:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8430, N-10624*
+*Related: C-8430, N-10570*
 
 **A-1995.2** Trump Truth Social follow-up post referring to Candace Owens as mentally ill
 
@@ -90,7 +90,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8434, N-10624*
+*Related: C-8434, N-10570*
 
 ---
 
@@ -103,7 +103,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:50–00:25:48
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8418, N-10625*
+*Related: C-8418, N-10571*
 
 ---
 
@@ -116,7 +116,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8420, N-10625*
+*Related: C-8420, N-10571*
 
 **A-1997.2** Daily Beast headline: "High school moves Erika Kirk event off campus after students revolt"
 
@@ -125,7 +125,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8421, N-10625*
+*Related: C-8421, N-10571*
 
 **A-1997.3** Arizona Republic headline: "A high school group invited Erika Kirk to campus. Parents are not happy."
 
@@ -134,7 +134,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8422, N-10625*
+*Related: C-8422, N-10571*
 
 ---
 
@@ -147,7 +147,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:41:44–00:42:43
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8450, N-10629*
+*Related: C-8450, N-10575*
 
 ---
 
@@ -160,7 +160,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:25
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8441, N-10630*
+*Related: C-8441, N-10576*
 
 ---
 
@@ -173,7 +173,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:40:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8446, N-10628*
+*Related: C-8446, N-10574*
 
 **A-2000.2** Audio clip of Milo Yiannopoulos describing alleged sexual assault by Laura Loomer of a Brazilian volunteer on her 2020 congressional campaign
 
@@ -182,7 +182,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:53–00:46:52
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8455, N-10629*
+*Related: C-8455, N-10575*
 
 ---
 
@@ -195,7 +195,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:47:42
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8461, N-10629*
+*Related: C-8461, N-10575*
 
 ---
 
@@ -208,7 +208,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:26–00:49:11
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8465, N-10629, N-10631*
+*Related: C-8465, N-10575, N-10577*
 
 ---
 
@@ -221,7 +221,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:11–00:50:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8467, N-10631*
+*Related: C-8467, N-10577*
 
 ---
 
@@ -234,7 +234,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:42:43–00:44:06
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8453, N-10629*
+*Related: C-8453, N-10575*
 
 ---
 
@@ -274,7 +274,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:55:45
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-10633*
+*Related: N-10579*
 
 **A-2005.5** Comment by user "Always Be True" questioning prosecution's lone-gunman theory and asking when location was disclosed
 
@@ -283,7 +283,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:56:40
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-10633, N-10635*
+*Related: N-10579, N-10581*
 
 **A-2005.6** Comment by user "Ave Questions": "Trump can't is a nobody, but he continues to tweet..."
 
@@ -319,7 +319,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:00:40
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-341 (Victor Marx), N-10636*
+*Related: N-341 (Victor Marx), N-10551*
 
 **A-2005.10** Comment by user "Queen Saxi" raising Tyler Robinson's roommate as potential suspect
 
@@ -328,7 +328,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:01:45
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8485, N-10634*
+*Related: C-8485, N-10580*
 
 ---
 
@@ -342,7 +342,7 @@ Video Timestamp: 00:17:23–00:18:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low – Artifact verbally referenced but not shown
 
-*Related: C-8405, N-10626*
+*Related: C-8405, N-10572*
 
 ---
 
@@ -389,7 +389,7 @@ First named by the host at 00:41:44 in episode 94.
 *Related: C-8450*
 
 
-**N-10623** Defense Access to Tyler Robinson Phone Data
+**N-10569** Defense Access to Tyler Robinson Phone Data
 
 Persistent defense claim that they have not been able to access their client's phone or its contents.
 
@@ -402,7 +402,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10624** Defense Access to Firearm Evidence (Quantico)
+**N-10570** Defense Access to Firearm Evidence (Quantico)
 
 Defense has never physically examined the firearm; rifle reportedly held at FBI Quantico facility in a state case.
 
@@ -415,7 +415,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10625** Probable Cause Hearing Exhibit Count (35 Exhibits)
+**N-10571** Probable Cause Hearing Exhibit Count (35 Exhibits)
 
 Prosecution reportedly plans to present 35 exhibits at probable cause hearing.
 
@@ -428,7 +428,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10626** Erika Kirk Speedy Trial Motion (January 16)
+**N-10572** Erika Kirk Speedy Trial Motion (January 16)
 
 Host claims Erika Kirk filed victim's speedy trial motion in Utah on January 16; artifact referenced but not shown.
 
@@ -441,7 +441,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10627** Pinnacle High School Cancellation Reasons
+**N-10573** Pinnacle High School Cancellation Reasons
 
 Discrepancy between Turning Point's stated reason (death threats) and host's claim that cancellation was driven by boycott.
 
@@ -454,7 +454,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+**N-10574** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 Allegations that Loomer was placed on involuntary psychiatric holds and is prohibited from owning weapons.
 
@@ -467,7 +467,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10629** Laura Loomer Sexual Assault Allegations
+**N-10575** Laura Loomer Sexual Assault Allegations
 
 Multiple men have publicly alleged Loomer assaulted them; includes Jacoby, an unnamed Brazilian volunteer (per Milo), and viral video of suggestive conduct.
 
@@ -480,7 +480,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10630** Laura Loomer Identity Claims (Jewish Heritage)
+**N-10576** Laura Loomer Identity Claims (Jewish Heritage)
 
 Host claim (and video artifact) disputing Loomer's publicly claimed Jewish identity.
 
@@ -493,7 +493,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10631** George Farmer / Tracy Robinson $6,987 Incident
+**N-10577** George Farmer / Tracy Robinson $6,987 Incident
 
 Disputed incident; Laura Loomer's tweet alleged drunk driving with firearm; insurance record shows $6,987 payment.
 
@@ -506,7 +506,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10632** Tyler Robinson's Grandfather's Position vs. Family Narrative
+**N-10578** Tyler Robinson's Grandfather's Position vs. Family Narrative
 
 Discrepancy between public "family turned him in" framing and grandfather's on-record support.
 
@@ -519,7 +519,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10633** Tyler Robinson Look-alike Theory
+**N-10579** Tyler Robinson Look-alike Theory
 
 Host speculation that multiple Tyler Robinson look-alikes were present; footages remain grainy.
 
@@ -532,7 +532,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10634** Tyler Robinson Roommate Question
+**N-10580** Tyler Robinson Roommate Question
 
 Open question raised by a viewer comment about Tyler Robinson's roommate's potential involvement.
 
@@ -545,7 +545,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10635** Lead-up Footage Absence
+**N-10581** Lead-up Footage Absence
 
 Host reference to alleged absence of CCTV footage from days leading up to September 10.
 
@@ -555,19 +555,6 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: A-2005.5*
-
----
-
-**N-10636** Victor Marx Suspicious Background
-
-Viewer-flagged concern about Victor Marx being first to leak Charlie Kirk's death; described as a "licensed gun dealer with a shady past."
-
-Evidence Count: 1 (viewer comment)
-Claim Count: 0 (host commentary, not artifact-backed claim)
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2005.9*
 
 ---
 
@@ -584,6 +571,16 @@ Subject of the assassination; the host speaks of his injuries and last week.
 Widow and TPUSA CEO; the host discusses the canceled events, her lawyer's account and her credentials.
 
 *Related: C-8383, C-8384, C-8385, C-8402, C-8406, C-8407, C-8408, C-8411, C-8412, C-8413, C-8414, C-8415, C-8416, C-8417, C-8419, C-8423, C-8424, C-8425, C-8427*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-8372*
 
 ---
 
@@ -771,7 +768,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10034** Lance Twiggs Family Allegations
+**N-10033** Lance Twiggs Family Allegations
 
 Existing topic reused for new claims in this episode.
 
@@ -779,7 +776,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Existing topic reused for new claims in this episode.
 
@@ -787,7 +784,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing topic reused for new claims in this episode.
 
@@ -795,7 +792,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10142** Brooksby Suicide Narrative Discrepancy
+**N-10137** Brooksby Suicide Narrative Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -803,7 +800,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
+**N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
 
 Existing topic reused for new claims in this episode.
 
@@ -811,7 +808,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for new claims in this episode.
 
@@ -819,7 +816,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10239** Timpanogos Hospital Footage Seizure Verification
+**N-10226** Timpanogos Hospital Footage Seizure Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -827,7 +824,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10271** Tyler Robinson Washington County Surveillance Footage Gap
+**N-10255** Tyler Robinson Washington County Surveillance Footage Gap
 
 Existing topic reused for new claims in this episode.
 
@@ -835,7 +832,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10319** .30-06 Forensic Narrative Validity
+**N-10300** .30-06 Forensic Narrative Validity
 
 Existing topic reused for new claims in this episode.
 
@@ -843,7 +840,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10360** Gun Discovery Procedure Question
+**N-10336** Gun Discovery Procedure Question
 
 Existing topic reused for new claims in this episode.
 
@@ -851,7 +848,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10487** Dream City Church Connection Investigation
+**N-10452** Dream City Church Connection Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -859,7 +856,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10570** Defense Discovery Dumping Strategy
+**N-10521** Defense Discovery Dumping Strategy
 
 Existing topic reused for new claims in this episode.
 
@@ -867,7 +864,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10587** Trump Truth Social Post Pattern Question
+**N-10535** Trump Truth Social Post Pattern Question
 
 Existing topic reused for new claims in this episode.
 
@@ -875,7 +872,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10590** Laura Loomer Influence on Trump Policy Question
+**N-10538** Laura Loomer Influence on Trump Policy Question
 
 Existing topic reused for new claims in this episode.
 
@@ -883,7 +880,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10598** Lance Twiggs Federal Asset Question
+**N-10545** Lance Twiggs Federal Asset Question
 
 Existing topic reused for new claims in this episode.
 
@@ -891,7 +888,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10604** Victor Marx Background Verification
+**N-10551** Victor Marx Background Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -899,7 +896,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10607** UGA No-Show Security Threat Explanation Discrepancy
+**N-10554** UGA No-Show Security Threat Explanation Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -907,7 +904,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10608** TPUSA UGA Event Crowd-Size Failure
+**N-10555** TPUSA UGA Event Crowd-Size Failure
 
 Existing topic reused for new claims in this episode.
 
@@ -915,7 +912,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10610** Pinnacle High School Parent Boycott
+**N-10557** Pinnacle High School Parent Boycott
 
 Existing topic reused for new claims in this episode.
 
@@ -923,15 +920,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10616** UGA Rally Cancellation Discrepancy
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-8412, C-8416*
-
----
-
-**N-10617** Secret Service Statement Verification
+**N-10563** Secret Service Statement Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -939,7 +928,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10640** Trump Truth Social Tweet Authorship/Origin
+**N-10585** Trump Truth Social Tweet Authorship/Origin
 
 Existing topic reused for new claims in this episode.
 
@@ -947,7 +936,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10660** Hospital "No Neck Left" Narrative Discrepancy
+**N-10602** Hospital "No Neck Left" Narrative Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -955,7 +944,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10665** Erika Kirk Educational Credentials Discrepancy
+**N-10465** Erika Kirk Educational Credentials Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -963,7 +952,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10713** Tyler-Lance Text Message Extraction Source
+**N-10649** Tyler-Lance Text Message Extraction Source
 
 Existing topic reused for new claims in this episode.
 
@@ -971,7 +960,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10770** Utah Valley Hospital File Anomaly
+**N-10188** UVU Hospital Charlie Kirk Medical File Access Question
 
 Existing topic reused for new claims in this episode.
 
@@ -979,7 +968,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Existing organization reused for new claims in this episode.
 
@@ -987,7 +976,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss
+**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
 Existing topic reused for new claims in this episode.
 
@@ -995,7 +984,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11218** Timpanogos Regional Hospital
+**N-11134** Timpanogos Regional Hospital
 
 Existing organization reused for new claims in this episode.
 
@@ -1003,7 +992,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-11349** State Bureau of Investigations (SBI)
+**N-11265** State Bureau of Investigations (SBI)
 
 Node Type: Organization
 Organization the host and Kathy Nester call the SBI, which holds some physical evidence the defense reviewed and which the defense says is waiting for FBI discovery.
@@ -1020,9 +1009,9 @@ First named by the host at 00:47:42 in episode 94. Named by the host as the subj
 
 ---
 
-**N-11350** Erika Kirk Dream City Church Trump Event Appearance
+**N-11266** Erika Kirk Dream City Church Trump Event Appearance
 
-Node Type: Topic
+Node Type: Event
 Erika Kirk's Friday appearance opening for Trump at the Dream City Church in Phoenix, set against the canceled Georgia and Pinnacle High School events.
 
 *Related: C-8411, C-8414, C-8415*
@@ -1064,7 +1053,7 @@ Claim: The episode presents a recording in which Tyler Robinson's grandfather st
 Anchored Artifacts: A-1993.1
 Mentions: N-40
 
-Related Nodes: N-10632
+Related Nodes: N-10578
 
 Investigative Direction: Verify identity of grandfather from court records and confirm whether his position is consistent with or divergent from other Robinson family members' stated positions.
 
@@ -1094,7 +1083,7 @@ Claim: The host says that, in a clip she plays, Tyler Robinson's grandfather say
 Anchored Artifacts: A-1993.1
 Mentions: N-40
 
-Related Nodes: N-10632
+Related Nodes: N-10578
 
 Investigative Direction: Obtain forensic pathology documentation regarding the actual wound and compare to documented .30-06 ballistic profile.
 
@@ -1109,7 +1098,7 @@ Claim: Defense attorney Richard Novak states the defense has not received the da
 Anchored Artifacts: A-1994.1
 Mentions: N-425
 
-Related Nodes: N-10623, N-10624
+Related Nodes: N-10569, N-10570
 
 Investigative Direction: Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status.
 
@@ -1124,7 +1113,7 @@ Claim: In a clip the host plays, Novak says the evidence should have been produc
 Anchored Artifacts: A-1994.1
 Mentions: N-425
 
-Related Nodes: N-10623
+Related Nodes: N-10569
 
 Investigative Direction: Request the September 2025 DNA reports via public records or docket inspection.
 
@@ -1139,7 +1128,7 @@ Claim: Defense attorney Kathy Nester states she has not been able to look at her
 Anchored Artifacts: A-1994.2
 Mentions: N-826, N-40
 
-Related Nodes: N-10623
+Related Nodes: N-10569
 
 Investigative Direction: Verify chain of custody and forensic examination status of Tyler Robinson's phone.
 
@@ -1154,7 +1143,7 @@ Claim: Defense attorney Kathy Nester states the defense has never physically see
 Anchored Artifacts: A-1994.2
 Mentions: N-826
 
-Related Nodes: N-10624
+Related Nodes: N-10570
 
 Investigative Direction: Confirm physical location of the firearm and whether defense examination has occurred as of case docket.
 
@@ -1169,7 +1158,7 @@ Claim: Nester states the firearm is held at Quantico, Virginia.
 Anchored Artifacts: A-1994.2
 Mentions: N-826
 
-Related Nodes: N-10624
+Related Nodes: N-10570
 
 Investigative Direction: Determine jurisdictional basis for federal custody of evidence in a state case; check transfer records.
 
@@ -1183,7 +1172,7 @@ Claim: The host says the prosecution is planning to present 35 exhibits at the p
 
 Anchored Artifacts: A-1994.1
 
-Related Nodes: N-10625
+Related Nodes: N-10571
 
 Investigative Direction: Obtain probable cause hearing exhibit list when filed.
 
@@ -1228,7 +1217,7 @@ Claim: Turning Point USA email cancellation stated the Pinnacle High School even
 Anchored Artifacts: A-1996.1
 Mentions: N-2
 
-Related Nodes: N-10627
+Related Nodes: N-10573
 
 Investigative Direction: Verify the email's authenticity; cross-reference with police or DHS records regarding threats.
 
@@ -1243,7 +1232,7 @@ Claim: Newsweek published an article reporting Erika Kirk's high school talk spa
 Anchored Artifacts: A-1997.1
 Mentions: N-2
 
-Related Nodes: N-10627
+Related Nodes: N-10573
 
 Investigative Direction: Retrieve full Newsweek article and inspect specific claims and named sources.
 
@@ -1258,7 +1247,7 @@ Claim: The Daily Beast reported the high school moved the Erika Kirk event off c
 Anchored Artifacts: A-1997.2
 Mentions: N-2
 
-Related Nodes: N-10627
+Related Nodes: N-10573
 
 Investigative Direction: Retrieve Daily Beast article; check named sources.
 
@@ -1273,7 +1262,7 @@ Claim: The Arizona Republic reported a high school group invited Erika Kirk to c
 Anchored Artifacts: A-1997.3
 Mentions: N-2
 
-Related Nodes: N-10627
+Related Nodes: N-10573
 
 Investigative Direction: Retrieve full Arizona Republic article.
 
@@ -1288,7 +1277,7 @@ Claim: Alan Jacoby publicly alleged in a tweet the host reads that he and Laura 
 Anchored Artifacts: A-1998.1
 Mentions: N-60, N-426, N-5
 
-Related Nodes: N-10629
+Related Nodes: N-10575
 
 Investigative Direction: Verify Jacoby's tweet directly; check for any legal filings or counter-statements.
 
@@ -1303,7 +1292,7 @@ Claim: A video clip shows Laura Loomer learning to draw a Star of David, present
 Anchored Artifacts: A-1999.1
 Mentions: N-60
 
-Related Nodes: N-10630
+Related Nodes: N-10576
 
 Investigative Direction: Verify date and source of the video; consider whether the inference (not raised Jewish) is supportable by the artifact alone.
 
@@ -1318,7 +1307,7 @@ Claim: The host reads a piece that she says Milo Yiannopoulos wrote and publishe
 Anchored Artifacts: A-2000.1
 Mentions: N-220, N-60
 
-Related Nodes: N-10628
+Related Nodes: N-10574
 
 Investigative Direction: Locate original Yiannopoulos publication; assess sourcing for clinical claims.
 
@@ -1333,7 +1322,7 @@ Claim: Milo Yiannopoulos alleged Laura Loomer sexually assaulted a young Brazili
 Anchored Artifacts: A-2000.2
 Mentions: N-220, N-60
 
-Related Nodes: N-10629
+Related Nodes: N-10575
 
 Investigative Direction: Locate corroborating messages cited by Milo; verify volunteer's identity and willingness to be a source.
 
@@ -1348,7 +1337,7 @@ Claim: Laura Loomer publicly tweeted at Benny Johnson advocating breaking down e
 Anchored Artifacts: A-2001.1
 Mentions: N-89, N-60
 
-Related Nodes: N-10629
+Related Nodes: N-10575
 
 Investigative Direction: Verify tweet on X / archive.
 
@@ -1363,7 +1352,7 @@ Claim: Laura Loomer tweeted alleging George Farmer (Candace Owens' husband) hit 
 Anchored Artifacts: A-2002.1
 Mentions: N-3, N-60, N-30
 
-Related Nodes: N-10631
+Related Nodes: N-10577
 
 Investigative Direction: Verify tweet and any linked court filings; check Davidson County court records.
 
@@ -1378,7 +1367,7 @@ Claim: The host says her insurance paid Tracy Robinson $6,987 and shows a court 
 Anchored Artifacts: A-2003.1
 Mentions: N-30
 
-Related Nodes: N-10631
+Related Nodes: N-10577
 
 Investigative Direction: Pull the underlying court filing in Davidson County, Tennessee.
 
@@ -1393,7 +1382,7 @@ Claim: In a clip the host plays, Laura Loomer makes sexually suggestive comments
 Anchored Artifacts: A-2004.1
 Mentions: N-60
 
-Related Nodes: N-10629
+Related Nodes: N-10575
 
 Investigative Direction: Verify source and date of video; identify the individual.
 
@@ -1423,7 +1412,7 @@ Claim: A YouTube comment from Queen Saxi that the host reads asks whether Tyler 
 Anchored Artifacts: A-2005.10
 Mentions: N-40
 
-Related Nodes: N-10634
+Related Nodes: N-10580
 
 Investigative Direction: Identify Tyler Robinson's roommate from public records; check his status and any investigative attention.
 
@@ -1438,7 +1427,7 @@ Claim: The host states that on January 16, Erika Kirk filed an invocation of spe
 Anchored Artifacts: A-2006.1 (verbally referenced; not shown)
 Mentions: N-2
 
-Related Nodes: N-10626
+Related Nodes: N-10572
 
 Investigative Direction: Retrieve the Utah state court filing directly via docket search.
 
@@ -1454,7 +1443,7 @@ Transcript Snippet: Two tweets from the leader of the free world about how I am 
 
 Anchored Artifacts: A-1995.1
 Mentions: N-3, N-5
-Related Nodes: N-10587
+Related Nodes: N-10535
 Tags: relevance:context
 Investigative Direction: Pull the Truth Social timeline for Friday and the preceding days and count the posts that name or clearly target the host.
 
@@ -1470,7 +1459,7 @@ Transcript Snippet: The one that the feds led the police officers to, the rookie
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Tags: relevance:core
 Investigative Direction: Obtain the incident log, K-9 deployment records and bodycam for the rifle discovery to establish who located it, when, and whether the area had been searched by dogs first.
 
@@ -1486,7 +1475,7 @@ Transcript Snippet: a sleuth contacted me from the courthouse of a Tyler Robinso
 
 Anchored Artifacts: A-1993.1
 Mentions: N-40, N-6
-Related Nodes: N-10632
+Related Nodes: N-10578
 Tags: relevance:core
 Investigative Direction: Ask Lane to confirm the conversation took place and its date; identify the hearing break from the court schedule.
 
@@ -1502,7 +1491,7 @@ Transcript Snippet: Uh she said that she had already sort of spoken about her co
 
 Anchored Artifacts: A-1993.1
 Mentions: N-6, N-3
-Related Nodes: N-10632
+Related Nodes: N-10578
 Tags: relevance:context
 Investigative Direction: Find Lane's own account of the exchange and compare it with the recording.
 
@@ -1567,7 +1556,7 @@ Transcript Snippet: Sheriff Brooksby did admit that rather the the truth is that
 
 Anchored Artifacts: 
 Mentions: N-272, N-40
-Related Nodes: N-10142, N-10021
+Related Nodes: N-10137, N-10021
 Tags: relevance:core
 Investigative Direction: Check Brooksby's press statements and recorded remarks for the wording the host paraphrases as coercion.
 
@@ -1583,7 +1572,7 @@ Transcript Snippet: He and his family were told that they were going to make an 
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10021, N-10022
+Related Nodes: N-10021, N-10022, N-11360
 Tags: relevance:core
 Investigative Direction: Obtain the sheriff's office account of the calls with the family and any warrant or planning records for an arrest team.
 
@@ -1599,7 +1588,7 @@ Transcript Snippet: It's his gun, right? It's a family heirloom. It is his gun o
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10632
+Related Nodes: N-10578
 Tags: relevance:core
 Investigative Direction: Check the ATF trace and any transfer or inheritance records for the rifle.
 
@@ -1615,7 +1604,7 @@ Transcript Snippet: for clarity grandpa asserts that he himself is a hunter.
 
 Anchored Artifacts: A-1993.1
 Mentions: N-40
-Related Nodes: N-10632
+Related Nodes: N-10578
 Tags: relevance:context
 Investigative Direction: Listen to the unprocessed recording to confirm the grandfather's words about hunting.
 
@@ -1631,7 +1620,7 @@ Transcript Snippet: It sounds like he is of the same opinion as Tyler Robinson's
 
 Anchored Artifacts: A-1993.1
 Mentions: N-40
-Related Nodes: N-10632
+Related Nodes: N-10578
 Supports: C-8374
 Tags: relevance:core
 Investigative Direction: Obtain a clean copy of the recording and a direct statement from the grandfather rather than relying on a garbled hallway audio.
@@ -1648,7 +1637,7 @@ Transcript Snippet: But the part that you're missing is it also did not cause an
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10319
+Related Nodes: N-10300
 Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and death certificate wound description and compare it with documented .30-06 terminal ballistics.
@@ -1665,7 +1654,7 @@ Transcript Snippet: Initially, they were telling people that Charlie basically h
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10660, N-10319
+Related Nodes: N-10602, N-10300
 Tags: relevance:core
 Investigative Direction: The host declines to name the callers; ask for call logs or sworn recollections from the recipients and compare with the medical record.
 
@@ -1681,7 +1670,7 @@ Transcript Snippet: Outside of the wound Charlie was in very good shape.
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10660, N-10319
+Related Nodes: N-10602, N-10300
 Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Compare hospital and medical examiner descriptions of the neck and surrounding tissue.
@@ -1698,7 +1687,7 @@ Transcript Snippet: No, we we we're not ready to meet in May because we're not b
 
 Anchored Artifacts: A-1994.1
 Mentions: N-40
-Related Nodes: N-11149, N-10110
+Related Nodes: N-11065, N-10106
 Tags: relevance:core
 Investigative Direction: Read the continuance motion, the hearing transcript and the resulting order on the hearing date.
 
@@ -1714,7 +1703,7 @@ Transcript Snippet: She was telling Bari Weiss, "Yes, 100%."
 
 Anchored Artifacts: 
 Mentions: N-2, N-278, N-40
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Pull the CBS interview with Bari Weiss and locate the exact exchange.
 
@@ -1730,7 +1719,7 @@ Transcript Snippet: she phoned her lawyer, as I told you, and he explained that 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare with the host's earlier account of the sit-down with Erika; ask the lawyer or Erika's team whether they dispute the characterization.
 
@@ -1746,7 +1735,7 @@ Transcript Snippet: And then once they find that evidence, he told me they're go
 
 Anchored Artifacts: 
 Mentions: N-2, N-40
-Related Nodes: N-10110, N-10570
+Related Nodes: N-10106, N-10521
 Tags: relevance:core
 Investigative Direction: Establish the date and participants of the December 15 meeting and compare the described sequence with the actual discovery schedule.
 
@@ -1762,7 +1751,7 @@ Transcript Snippet: the FBI is refusing to hand over the evidence that they have
 
 Anchored Artifacts: A-1994.1
 Mentions: N-69, N-40
-Related Nodes: N-10014, N-10202, N-10570
+Related Nodes: N-10014, N-10194, N-10521
 Tags: relevance:core
 Investigative Direction: Read the defense filings and any prosecution response to the discovery demands, and check which items are summary reports versus underlying data.
 
@@ -1778,7 +1767,7 @@ Transcript Snippet: why they provided it in the last 3 weeks, and why the FBI st
 
 Anchored Artifacts: A-1994.1
 Mentions: N-425
-Related Nodes: N-10975, N-10014, N-10570
+Related Nodes: N-10896, N-10014, N-10521
 Tags: relevance:core
 Investigative Direction: Check the docket for the dates of the ATF and FBI productions. The caption is garbled here, so confirm the sentence against the hearing audio.
 
@@ -1794,7 +1783,7 @@ Transcript Snippet: Mr. McBride says, "Oh, there's two different things, and so 
 
 Anchored Artifacts: A-1994.1
 Mentions: N-425
-Related Nodes: N-10975, N-10014, N-10110
+Related Nodes: N-10896, N-10014, N-10106
 Tags: relevance:core
 Investigative Direction: Identify Mr. McBride's role and the two examinations (ATF and FBI laboratory work) from the hearing record and the lab reports.
 
@@ -1810,7 +1799,7 @@ Transcript Snippet: It should have all been produced some of it 6 months ago bec
 
 Anchored Artifacts: A-1994.1
 Mentions: N-425
-Related Nodes: N-10570, N-10110
+Related Nodes: N-10521, N-10106
 Tags: relevance:core
 Investigative Direction: Compare the date of the DNA reports with the date they were first produced to the defense on the docket.
 
@@ -1826,7 +1815,7 @@ Transcript Snippet: They instantly came out and said this is our guy, 33 hours, 
 
 Anchored Artifacts: A-1994.1
 Mentions: N-40
-Related Nodes: N-10110, N-10570
+Related Nodes: N-10106, N-10521
 Tags: relevance:core
 Investigative Direction: Build a timeline of official statements from the shooting to the arrest and compare each with the evidence later produced.
 
@@ -1842,7 +1831,7 @@ Transcript Snippet: Well, of course, we were first told that those were Discord 
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10013, N-10077
+Related Nodes: N-10013, N-10074
 Tags: relevance:core
 Investigative Direction: Collect the successive official descriptions (press conference, charging documents, search warrant) of the message platform and compare them.
 
@@ -1858,7 +1847,7 @@ Transcript Snippet: the state's indicated they may call individuals you um uniqu
 
 Anchored Artifacts: A-1994.2
 Mentions: N-826, N-40
-Related Nodes: N-10623, N-11149
+Related Nodes: N-10569, N-11065
 Tags: relevance:core
 Investigative Direction: Check the state's witness list for the probable cause hearing once filed.
 
@@ -1874,7 +1863,7 @@ Transcript Snippet: the FBI immediately interjected. They took over everything o
 
 Anchored Artifacts: 
 Mentions: N-69
-Related Nodes: N-10014, N-10202
+Related Nodes: N-10014, N-10194
 Tags: relevance:core
 Investigative Direction: Compare agency statements, press conferences and interview records on who conducted the witness and suspect interviews.
 
@@ -1890,7 +1879,7 @@ Transcript Snippet: the SBI is waiting for the FBI, Kash Patel's agency, to send
 
 Anchored Artifacts: A-1994.2
 Mentions: N-69
-Related Nodes: N-11349, N-10014, N-10570
+Related Nodes: N-11265, N-10014, N-10521
 Tags: relevance:core
 Investigative Direction: Confirm the SBI's role and its requests to the FBI from the discovery correspondence and hearing record.
 
@@ -1906,7 +1895,7 @@ Transcript Snippet: We went to examine physical evidence this past week um this 
 
 Anchored Artifacts: A-1994.2
 Mentions: N-826
-Related Nodes: N-11349, N-10110
+Related Nodes: N-11265, N-10106
 Tags: relevance:core
 Investigative Direction: Check the docket or any inspection log for the date and scope of the defense's physical evidence review.
 
@@ -1922,7 +1911,7 @@ Transcript Snippet: the prosecution, [clears throat] Erika's team, cuz she's lis
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10626, N-11149
+Related Nodes: N-10572, N-11065
 Tags: relevance:core
 Investigative Direction: Read the prosecution's opposition to the continuance and identify whether the victim's counsel filed separately.
 
@@ -1938,7 +1927,7 @@ Transcript Snippet: Continuances are basically like common courtesies when you'r
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10626
+Related Nodes: N-10572
 Tags: relevance:context
 Investigative Direction: Compare with how continuances were handled in comparable Utah capital cases and the prosecution's stated grounds here.
 
@@ -1954,7 +1943,7 @@ Transcript Snippet: especially since they all agreed early on that they were hap
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10626, N-10570
+Related Nodes: N-10572, N-10521
 Tags: relevance:core
 Investigative Direction: Find the scheduling order or hearing transcript where the parties agreed to flexibility on the date.
 
@@ -1970,7 +1959,7 @@ Transcript Snippet: Rarely do you hear the prosecution say, "I'm going to file a
 
 Anchored Artifacts: A-2006.1
 Mentions: N-2
-Related Nodes: N-10626
+Related Nodes: N-10572
 Supports: C-8405
 Tags: relevance:core
 Investigative Direction: Retrieve the January 16 filing and find precedent for victim-initiated speedy trial invocations under Utah's victim rights provisions.
@@ -1987,7 +1976,7 @@ Transcript Snippet: They want to demand cameras inside of the courtroom, and the
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11149, N-10626
+Related Nodes: N-11065, N-10572
 Tags: relevance:core
 Investigative Direction: Read any motions on courtroom cameras and media access and note which party requested them.
 
@@ -2003,7 +1992,7 @@ Transcript Snippet: I am in contact with many people all throughout the state of
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-11149, N-10570
+Related Nodes: N-11065, N-10521
 Tags: relevance:core
 Investigative Direction: The host's sources are unnamed; compare the claim with the actual evidence produced to the defense by the hearing date.
 
@@ -2019,7 +2008,7 @@ Transcript Snippet: an increasingly plausibly innocent young man, 22-year-old, t
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:context
 Investigative Direction: Check the notice of intent to seek the death penalty in the charging documents.
 
@@ -2050,7 +2039,7 @@ Transcript Snippet: And so she opened for Trump at the Dream City Church in Phoe
 
 Anchored Artifacts: A-3262.1
 Mentions: N-2, N-5
-Related Nodes: N-11350, N-10487
+Related Nodes: N-11266, N-10452
 Tags: relevance:core
 Investigative Direction: Pull the event listing, the livestream and press coverage of the Dream City Church appearance and the Secret Service posture for it.
 
@@ -2066,7 +2055,7 @@ Transcript Snippet: she did not feel safe despite them telling her that she was 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10607, N-10616, N-10617
+Related Nodes: N-10554, N-10563
 Supports: C-8289
 Tags: relevance:core
 Investigative Direction: Compare the Secret Service and campus police statements with Erika's team's account and the flight records for her plane.
@@ -2083,7 +2072,7 @@ Transcript Snippet: since we all know that the real reason that she canceled the
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10608, N-10607
+Related Nodes: N-10555, N-10554
 Tags: relevance:core
 Investigative Direction: Compare ticketing and RSVP numbers for the event with TPUSA's stated reason for canceling.
 
@@ -2099,7 +2088,7 @@ Transcript Snippet: the very first thing that she said when she came out onto th
 
 Anchored Artifacts: A-3262.1
 Mentions: N-2
-Related Nodes: N-11350
+Related Nodes: N-11266
 Tags: relevance:context
 Investigative Direction: Obtain the event video to identify the walk-on music and Erika's opening words.
 
@@ -2115,7 +2104,7 @@ Transcript Snippet: >> >> Welcome. Look at this crowd. >> >> That's what it's ab
 
 Anchored Artifacts: A-3262.1
 Mentions: N-2
-Related Nodes: N-11350, N-10608
+Related Nodes: N-11266, N-10555
 Tags: relevance:core
 Investigative Direction: Identify the full source video, confirm the speaker is Erika Kirk and place the line in sequence with the rest of her remarks.
 
@@ -2131,7 +2120,7 @@ Transcript Snippet: That's why she canceled on JD and made him look like a fool.
 
 Anchored Artifacts: 
 Mentions: N-2, N-4
-Related Nodes: N-10607, N-10616
+Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Check the planned Georgia event with Vance, and any public statement by Vance's office on the cancellation.
 
@@ -2147,7 +2136,7 @@ Transcript Snippet: her Turning Point team canceled her appearance at Pinnacle H
 
 Anchored Artifacts: A-1996.1
 Mentions: N-2
-Related Nodes: N-10627, N-10610
+Related Nodes: N-10573, N-10557
 Tags: relevance:core
 Investigative Direction: Establish the email timestamp and the date of the Trump event and compare the two.
 
@@ -2163,7 +2152,7 @@ Transcript Snippet: She canceled because there was a boycott which was led by th
 
 Anchored Artifacts: A-1997.1, A-1997.2, A-1997.3
 Mentions: N-2
-Related Nodes: N-10610, N-10627
+Related Nodes: N-10557, N-10573
 Supports: C-8234
 Tags: relevance:core
 Investigative Direction: Read the three cited articles in full and check whether any attributes the cancellation to a boycott as opposed to parent and student objections.
@@ -2180,7 +2169,7 @@ Transcript Snippet: I showed you last week they were organizing on Facebook. I'v
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10610
+Related Nodes: N-10557
 Supports: C-8234
 Tags: relevance:core
 Investigative Direction: Review the host's prior episode and the Facebook group posts shown, and search for any host call for a boycott.
@@ -2242,7 +2231,7 @@ Transcript Snippet: she says she's graduated summa laude and sometimes she says 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10665
+Related Nodes: N-10465
 Supports: C-6871
 Tags: relevance:core
 Investigative Direction: Request the registrar's confirmation of Erika's degree and honors and compare the versions in her bios and interviews.
@@ -2259,7 +2248,7 @@ Transcript Snippet: I'm on Air Force One heading to Las Vegas and Arizona for gr
 
 Anchored Artifacts: A-1995.1
 Mentions: N-5
-Related Nodes: N-10587
+Related Nodes: N-10535
 Tags: relevance:context
 Investigative Direction: Verify the post on Truth Social and match its time to Trump's schedule that day.
 
@@ -2275,7 +2264,7 @@ Transcript Snippet: I'm watching one of the least attractive and talented people
 
 Anchored Artifacts: A-1995.1
 Mentions: N-5, N-916
-Related Nodes: N-10587
+Related Nodes: N-10535
 Tags: relevance:context
 Investigative Direction: Verify the post text on Truth Social.
 
@@ -2291,7 +2280,7 @@ Transcript Snippet: CNN had me at 100% saying they never saw that before. Get he
 
 Anchored Artifacts: A-1995.1
 Mentions: N-5, N-916
-Related Nodes: N-10587
+Related Nodes: N-10535
 Tags: relevance:context
 Investigative Direction: Check the CNN poll Trump refers to.
 
@@ -2307,7 +2296,7 @@ Transcript Snippet: He's definitely not writing these. Just so you guys, this is
 
 Anchored Artifacts: A-1995.1
 Mentions: N-5
-Related Nodes: N-10640, N-10587
+Related Nodes: N-10585, N-10535
 Tags: relevance:context
 Investigative Direction: Compare the post style with verified Trump speech and with any reporting on who drafts and posts to his Truth Social account.
 
@@ -2323,7 +2312,7 @@ Transcript Snippet: He mentioned Megyn Kelly again. She didn't get a name that t
 
 Anchored Artifacts: A-1995.2
 Mentions: N-5, N-46
-Related Nodes: N-10587
+Related Nodes: N-10535
 Tags: relevance:context
 Investigative Direction: Read the second post in full and check how Kelly is referred to.
 
@@ -2339,7 +2328,7 @@ Transcript Snippet: Laura Loomer claims she is his number one adviser and she sp
 
 Anchored Artifacts: 
 Mentions: N-60, N-5
-Related Nodes: N-10590
+Related Nodes: N-10538
 Tags: relevance:context
 Investigative Direction: Find Loomer's own statements of the claim and independent reporting on her access to Trump.
 
@@ -2385,7 +2374,7 @@ Transcript Snippet: Her entire identity as being a feisty Jewess is something th
 
 Anchored Artifacts: 
 Mentions: N-60, N-3
-Related Nodes: N-10630
+Related Nodes: N-10576
 Supports: C-8003
 Tags: relevance:context
 Investigative Direction: Compare against Loomer's earlier public statements; note the host elsewhere dates her chaining to Twitter headquarters in a Star of David to 2018.
@@ -2402,7 +2391,7 @@ Transcript Snippet: Judaism is matrilineal. She did not She was not raised in te
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10630
+Related Nodes: N-10576
 Supports: C-2392
 Tags: relevance:context
 Investigative Direction: Seek Loomer's own account of her upbringing and any records of religious observance.
@@ -2419,7 +2408,7 @@ Transcript Snippet: She only learned how to draw a Star of David a couple of yea
 
 Anchored Artifacts: A-1999.1
 Mentions: N-60
-Related Nodes: N-10630
+Related Nodes: N-10576
 Tags: relevance:context
 Investigative Direction: Establish the clip's date and source and see whether the drawing shows what the host says it does.
 
@@ -2435,7 +2424,7 @@ Transcript Snippet: she was placed on two involuntary psychiatric holds by her o
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10628
+Related Nodes: N-10574
 Supports: C-8001, C-3571
 Tags: relevance:context
 Investigative Direction: The host presents this as an allegation; seek court or agency records, which are normally sealed, or a statement from Loomer.
@@ -2452,7 +2441,7 @@ Transcript Snippet: Uh because she has had multiple suicide attempts.
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10628
+Related Nodes: N-10574
 Tags: relevance:context
 Investigative Direction: Health information is not independently verifiable from public records; treat as an unverified allegation unless Loomer or a documented source confirms it.
 
@@ -2468,7 +2457,7 @@ Transcript Snippet: She attempted uh recently to file an appeal with the FBI uh 
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10628, N-10014
+Related Nodes: N-10574, N-10014
 Tags: relevance:context
 Investigative Direction: The host gives no document; ask for the FBI NICS appeal denial letter if it exists.
 
@@ -2484,7 +2473,7 @@ Transcript Snippet: according to her former campaign manager, Milo Yiannopoulos,
 
 Anchored Artifacts: A-2000.1
 Mentions: N-220, N-60
-Related Nodes: N-10628
+Related Nodes: N-10574
 Tags: relevance:context
 Investigative Direction: Confirm Yiannopoulos's actual role in Loomer's campaigns from campaign filings; he describes himself in the audio as helping run the 2020 campaign.
 
@@ -2500,7 +2489,7 @@ Transcript Snippet: I am told by people in Melania's circle that they believe, l
 
 Anchored Artifacts: 
 Mentions: N-599, N-60, N-5
-Related Nodes: N-10590
+Related Nodes: N-10538
 Tags: relevance:context
 Investigative Direction: The sources are unnamed; the host would need to identify or corroborate the people in Melania's circle.
 
@@ -2516,7 +2505,7 @@ Transcript Snippet: uh she often says that she's going to commit suicide as a th
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10628
+Related Nodes: N-10574
 Tags: relevance:context
 Investigative Direction: No document is cited; treat as an unverified allegation absent a named source.
 
@@ -2532,7 +2521,7 @@ Transcript Snippet: has been repeatedly accused since the beginning of her caree
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10629
+Related Nodes: N-10575
 Tags: relevance:context
 Investigative Direction: List the named accusers and the dates and venues of each public accusation, and any responses by Loomer.
 
@@ -2548,7 +2537,7 @@ Transcript Snippet: he is the founder of Patriot Cigar, and he just tweeted this
 
 Anchored Artifacts: A-1998.1
 Mentions: N-426, N-60
-Related Nodes: N-10629
+Related Nodes: N-10575
 Tags: relevance:context
 Investigative Direction: Retrieve the tweet with its date and confirm Jacoby's identity as Patriot Cigar's founder.
 
@@ -2564,7 +2553,7 @@ Transcript Snippet: grabbing my crotch very aggressively, and demanding that I c
 
 Anchored Artifacts: A-1998.1
 Mentions: N-426, N-60
-Related Nodes: N-10629
+Related Nodes: N-10575
 Supports: C-8450
 Tags: relevance:context
 Investigative Direction: Verify the tweet text and any response or legal filing by Loomer.
@@ -2581,7 +2570,7 @@ Transcript Snippet: And he's not alleging here, okay? He claims that it is a fac
 
 Anchored Artifacts: A-2000.2
 Mentions: N-220, N-60
-Related Nodes: N-10629
+Related Nodes: N-10575
 Supports: C-8455
 Tags: relevance:context
 Investigative Direction: Ask Yiannopoulos to produce the messages or have them authenticated, with the volunteer's consent.
@@ -2598,7 +2587,7 @@ Transcript Snippet: she she used to force herself on um young male volunteers, u
 
 Anchored Artifacts: A-2000.2
 Mentions: N-220, N-60
-Related Nodes: N-10629
+Related Nodes: N-10575
 Supports: C-8455
 Tags: relevance:context
 Investigative Direction: Locate the original podcast or interview the audio comes from and its date.
@@ -2615,7 +2604,7 @@ Transcript Snippet: I lived in the pool house with with her um victim in 2020, w
 
 Anchored Artifacts: A-2000.2
 Mentions: N-220, N-60
-Related Nodes: N-10629
+Related Nodes: N-10575
 Supports: C-8455
 Tags: relevance:context
 Investigative Direction: Check Milo's residence and role during the 2020 campaign against campaign records and local reporting.
@@ -2632,7 +2621,7 @@ Transcript Snippet: He was a young uh Brazilian volunteer on her 2020 congressio
 
 Anchored Artifacts: A-2000.2
 Mentions: N-220, N-60
-Related Nodes: N-10629
+Related Nodes: N-10575
 Tags: relevance:context
 Investigative Direction: Compare with campaign filings and with Milo's other statements about being only loosely allied with Loomer.
 
@@ -2648,7 +2637,7 @@ Transcript Snippet: There are women who have spoken out and said that they that 
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10629
+Related Nodes: N-10575
 Tags: relevance:context
 Investigative Direction: The host names none of the women; identify them and the statements.
 
@@ -2664,7 +2653,7 @@ Transcript Snippet: she has never sued any of these people for putting this info
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10629
+Related Nodes: N-10575
 Tags: relevance:context
 Investigative Direction: Search federal and state dockets for suits by Loomer against Yiannopoulos, Jacoby or others who made these accusations.
 
@@ -2680,7 +2669,7 @@ Transcript Snippet: Like she did when DeSantis was running, and Trump and his ca
 
 Anchored Artifacts: 
 Mentions: N-60, N-5, N-914
-Related Nodes: N-10590
+Related Nodes: N-10538
 Tags: relevance:context
 Investigative Direction: Find Loomer's posts about Casey DeSantis's illness during the 2023-24 primary and any evidence on the Trump campaign's use of them.
 
@@ -2726,7 +2715,7 @@ Transcript Snippet: while he was allegedly driving drunk with an alleged firearm
 
 Anchored Artifacts: A-2002.1
 Mentions: N-30, N-3, N-60
-Related Nodes: N-10631
+Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Immigration status is not public record; look for any statement by Farmer or his representatives.
 
@@ -2742,7 +2731,7 @@ Transcript Snippet: I've never met Tracy Robinson. I don't know Tracy Robinson.
 
 Anchored Artifacts: A-2003.1
 Mentions: N-3, N-60
-Related Nodes: N-10631
+Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Pull the court or insurance record that shows the payee and compare with the host's account.
 
@@ -2758,7 +2747,7 @@ Transcript Snippet: when Laura dug up the fact that my insurance did pay a Tracy
 
 Anchored Artifacts: A-2003.1
 Mentions: N-3, N-60
-Related Nodes: N-10631
+Related Nodes: N-10577
 Supports: C-8467
 Tags: relevance:context
 Investigative Direction: Retrieve the underlying Davidson County filing and the insurer's payment record.
@@ -2775,7 +2764,7 @@ Transcript Snippet: my husband got into a fender bender pulling out of a parking
 
 Anchored Artifacts: 
 Mentions: N-30, N-3
-Related Nodes: N-10631
+Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Obtain the accident report if one exists, or the court filings describing the date, location and circumstances.
 
@@ -2791,7 +2780,7 @@ Transcript Snippet: There was no drinking involved, there was no DUI involved, t
 
 Anchored Artifacts: 
 Mentions: N-3, N-30
-Related Nodes: N-10631
+Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Check for any police report, citation or charge in Davidson County records for the date in question.
 
@@ -2807,7 +2796,7 @@ Transcript Snippet: a couple of days later Tracy decided he had post-whiplash di
 
 Anchored Artifacts: A-2003.1
 Mentions: N-30, N-3
-Related Nodes: N-10631
+Related Nodes: N-10577
 Supports: C-8467
 Tags: relevance:context
 Investigative Direction: Review the claim file and any court record for the injury claim and settlement.
@@ -2824,7 +2813,7 @@ Transcript Snippet: You should speak to your friend Roger Stone about uh, her su
 
 Anchored Artifacts: 
 Mentions: N-60, N-5, N-915
-Related Nodes: N-10628
+Related Nodes: N-10574
 Tags: relevance:context
 Investigative Direction: Ask Stone directly; the host gives no evidence for the accounts allegedly operated behind the scenes.
 
@@ -2855,7 +2844,7 @@ Transcript Snippet: What did Tyler Robinson do actually? We're trying to find ou
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11149, N-10110
+Related Nodes: N-11065, N-10106
 Tags: relevance:core
 Investigative Direction: Review what was presented at each public hearing and compare it with the charging document.
 
@@ -2871,7 +2860,7 @@ Transcript Snippet: I think there were multiple Tyler Robinson look-alikes and u
 
 Anchored Artifacts: A-2005.5
 Mentions: N-40
-Related Nodes: N-10633, N-10168
+Related Nodes: N-10579, N-10161
 Tags: relevance:core
 Investigative Direction: Request all UVU campus video and compare the maroon-shirt individuals frame by frame; the host calls this her own theory.
 
@@ -2887,7 +2876,7 @@ Transcript Snippet: And that footage apparently doesn't exist either because the
 
 Anchored Artifacts: A-2005.5
 Mentions: N-3
-Related Nodes: N-10635, N-10271
+Related Nodes: N-10581, N-10255
 Tags: relevance:core
 Investigative Direction: File records requests for UVU and city camera retention policies and any investigative request for pre-September 10 footage.
 
@@ -2903,7 +2892,7 @@ Transcript Snippet: I'm trying to understand if that means that it was taken by 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10239, N-11218
+Related Nodes: N-10226, N-11134
 Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Obtain hospital records of any federal seizure of camera footage and a chain-of-custody log.
@@ -2920,7 +2909,7 @@ Transcript Snippet: Maybe because he didn't go there first, maybe because there'
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10770, N-11218
+Related Nodes: N-10188, N-11134
 Tags: relevance:core
 Investigative Direction: Compare ambulance and dispatch records with hospital arrival logs for both hospitals.
 
@@ -2951,7 +2940,7 @@ Transcript Snippet: We have not let up on Victor Marx more on that. You are corr
 
 Anchored Artifacts: A-2005.9
 Mentions: N-341
-Related Nodes: N-10636, N-10604
+Related Nodes: N-10551
 Supports: C-8316, C-8324
 Tags: relevance:core
 Investigative Direction: Pull the primary evidence on the timing of Marx's first announcement and his federal firearms license from ATF records.
@@ -2968,7 +2957,7 @@ Transcript Snippet: I believe he's one of the people that's walking that day. Th
 
 Anchored Artifacts: A-2005.10
 Mentions: N-40
-Related Nodes: N-10634, N-10168
+Related Nodes: N-10580, N-10161
 Supports: C-8485
 Tags: relevance:core
 Investigative Direction: Compare the roommate's whereabouts that day against the campus video and any statements he made to investigators.
@@ -2985,7 +2974,7 @@ Transcript Snippet: Yep and don't forget I spoke with Lance Twiggs family.
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10034
+Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: Identify the family members and the earlier episodes where the host described these conversations.
 
@@ -3001,7 +2990,7 @@ Transcript Snippet: They think that there was something wrong with the fact that
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10034, N-10598
+Related Nodes: N-10033, N-10545
 Supports: C-352
 Tags: relevance:core
 Investigative Direction: Find the interview records of Lance Twiggs and the dates he was questioned, released or not detained.
@@ -3018,7 +3007,7 @@ Transcript Snippet: Why do they never want to send the timestamps?
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10077, N-10713
+Related Nodes: N-10074, N-10649
 Supports: C-3998
 Tags: relevance:core
 Investigative Direction: Check the charging documents and exhibits for message timestamps and the metadata from the phone extractions.
@@ -3035,7 +3024,7 @@ Transcript Snippet: Also tomorrow we will have for you that my producer discover
 
 Anchored Artifacts: A-3263.1
 Mentions: N-3
-Related Nodes: N-10077, N-10713
+Related Nodes: N-10074, N-10649
 Tags: relevance:core
 Investigative Direction: Watch the next episode for the producer's comparison of the original and the later versions, and collect each version of the messages as released.
 
@@ -3051,7 +3040,7 @@ Transcript Snippet: they're dropping new text messages making some slight edits 
 
 Anchored Artifacts: A-3263.1
 Mentions: N-3
-Related Nodes: N-10077, N-10713
+Related Nodes: N-10074, N-10649
 Tags: relevance:core
 Investigative Direction: Collect each released version of the messages and diff them, noting dates of release.
 

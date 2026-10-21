@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-850, N-851, N-852, N-11237, N-11239, N-11240, N-11241, N-11242
-  - Hole-minted Nodes (reintro-ep058): N-529, N-10428, N-10472
-  - Tip-minted Nodes (reintro-ep058): N-723, N-770, N-11126
+  - Tip-minted Nodes (supplement_2026-10d): N-850, N-851, N-852, N-11153, N-11155, N-11156, N-11157, N-11158
+  - Hole-minted Nodes (reintro-ep058): N-529
+  - Tip-minted Nodes (reintro-ep058): N-723, N-770, N-11044
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5142–C-5242
-  - New Nodes Introduced: N-459, N-460, N-461, N-462, N-463, N-464, N-465, N-466, N-467, N-468, N-469, N-10418, N-10419, N-10420, N-10421, N-10423
-  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-237, N-278, N-325, N-361, N-450, N-451, N-456, N-751, N-799, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167, N-11238
+  - New Nodes Introduced: N-459, N-460, N-461, N-462, N-463, N-464, N-465, N-466, N-467, N-468, N-469, N-10391, N-10392, N-10393, N-10394, N-10396
+  - Reused Nodes Appearing: N-15, N-10390, N-10395, N-10397, N-1, N-14, N-17, N-42, N-61, N-237, N-278, N-325, N-361, N-450, N-451, N-456, N-751, N-799, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10139, N-10201, N-10252, N-10305, N-10342, N-10343, N-10353, N-10359, N-10374, N-10384, N-10386, N-10821, N-11022, N-11082, N-11083, N-11154
   - (see registers)
 
 ## 2. Executive Summary
@@ -161,7 +161,7 @@ Video Timestamp: 00:03:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5147, C-5159, N-459, N-462, N-463, N-464, N-465, N-466, N-10417, N-10418*
+*Related: C-5147, C-5159, N-459, N-462, N-463, N-464, N-465, N-466, N-10390, N-10391*
 
 **A-1635.2** November Renaissance Kickstarter Campaign Page (Publicly Available Remnant)
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5147, C-5160, C-5159, N-459, N-10418*
+*Related: C-5147, C-5160, C-5159, N-459, N-10391*
 
 **A-1635.3** Clayton Haugen Director Audio Clip (Nanotechnology / Mind-as-Hard-Drive Concept Pitch)
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:08:16–00:10:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5160, N-459, N-10418*
+*Related: C-5160, N-459, N-10391*
 
 ---
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:16:13–00:18:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5178, N-2, N-10419*
+*Related: C-5178, N-2, N-10392*
 
 ---
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:18:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5180, N-2, N-10419*
+*Related: C-5180, N-2, N-10392*
 
 ---
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:20:05–00:21:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5184, N-460, N-461, N-10421*
+*Related: C-5184, N-460, N-461, N-10394*
 
 **A-1638.2** Nelda Buckman Daily Wire Plus Interview (January 2026) on Relationship with Erika
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:21:00–00:22:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5186, N-2, N-460, N-10421*
+*Related: C-5186, N-2, N-460, N-10394*
 
 **A-1638.3** Baron Coleman / "Mommy Sleuth" Plane Tracking Research (Charlie/Erika Plane Visiting New Braunfels TX and Idaho)
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:18:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5182, N-2, N-10421*
+*Related: C-5182, N-2, N-10394*
 
 ---
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:21:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5188, N-460, N-10423*
+*Related: C-5188, N-460, N-10396*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 00:24:52–00:27:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5212, C-5221, N-460, N-10420*
+*Related: C-5212, C-5221, N-460, N-10393*
 
 ---
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:36:23–00:39:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5212, N-201, N-10424*
+*Related: C-5212, N-201, N-10397*
 
 **A-1641.2** Nick Fuentes Follow-Up Clip Reframing Epstein Issue as "Political Blackmail" Rather Than Pedophilia
 
@@ -295,7 +295,7 @@ Video Timestamp: 00:42:23–00:44:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5221, N-201, N-10424*
+*Related: C-5221, N-201, N-10397*
 
 ---
 
@@ -309,7 +309,7 @@ Video Timestamp: 00:53:05–00:55:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5228, N-469, N-10422*
+*Related: C-5228, N-469, N-10395*
 
 **A-1642.2** Sisbear Comment: Whistleblower Sabrina Wallace, DARPA Biosonar Testing on Children
 
@@ -319,7 +319,7 @@ Video Timestamp: 01:00:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-467, N-10422*
+*Related: N-467, N-10395*
 
 ---
 
@@ -417,7 +417,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1635.1, A-1635.2, A-1635.3, C-5147, C-5160, C-5159, N-10418*
+*Related: A-1635.1, A-1635.2, A-1635.3, C-5147, C-5160, C-5159, N-10391*
 
 **N-460** Nelda Buckman
 
@@ -428,7 +428,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1638.1, A-1638.2, A-1639.1, A-1640.1, C-5184, C-5186, C-5188, C-5212, N-461, N-10420, N-10421, N-10423*
+*Related: A-1638.1, A-1638.2, A-1639.1, A-1640.1, C-5184, C-5186, C-5188, C-5212, N-461, N-10393, N-10394, N-10396*
 
 **N-461** Karl Buckman
 
@@ -439,7 +439,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.1, C-5184, N-460, N-10421*
+*Related: A-1638.1, C-5184, N-460, N-10394*
 
 **N-201** Nick Fuentes
 
@@ -450,7 +450,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-5212, C-5221, N-220, N-468, N-10424*
+*Related: A-1641.1, A-1641.2, C-5212, C-5221, N-220, N-468, N-10397*
 
 **N-462** Don Frye
 
@@ -461,7 +461,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-5147, N-10417, N-10418*
+*Related: A-1635.1, C-5147, N-10390, N-10391*
 
 **N-463** Peyton McCormick
 
@@ -472,7 +472,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-5147, N-10417, N-10418*
+*Related: A-1635.1, C-5147, N-10390, N-10391*
 
 **N-464** Chantal Thuy
 
@@ -483,7 +483,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-5147, N-10418*
+*Related: A-1635.1, C-5147, N-10391*
 
 **N-465** Price Mitchum
 
@@ -494,7 +494,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-5147, N-10418*
+*Related: A-1635.1, C-5147, N-10391*
 
 **N-466** Priscilla Ann Nu'ul
 
@@ -505,7 +505,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-5147, N-10418*
+*Related: A-1635.1, C-5147, N-10391*
 
 **N-467** Sabrina Wallace
 
@@ -516,7 +516,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1642.2, N-10422*
+*Related: A-1642.2, N-10395*
 
 **N-220** Milo Yiannopoulos
 
@@ -527,7 +527,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-5217, N-201, N-10424*
+*Related: C-5217, N-201, N-10397*
 
 **N-468** Farris Wilks
 
@@ -538,7 +538,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-5216, N-201, N-10424*
+*Related: C-5216, N-201, N-10397*
 
 **N-145** Marjorie Taylor Greene
 
@@ -549,7 +549,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-201, N-10424*
+*Related: N-201, N-10397*
 
 **N-469** Nika
 
@@ -560,7 +560,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1642.1, C-5228, N-10422*
+*Related: A-1642.1, C-5228, N-10395*
 
 **N-330** Baron Coleman
 
@@ -571,7 +571,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.3, C-5182, N-10421*
+*Related: A-1638.3, C-5182, N-10394*
 
 **N-263** Mommy Sleuth (Nellie)
 
@@ -582,11 +582,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.3, A-1640.1, C-5182, C-5212, N-10420, N-10421*
+*Related: A-1638.3, A-1640.1, C-5182, C-5212, N-10393, N-10394*
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Persistent investigation into whether Erika was present at Fort Huachuca on or around September 9 (the day before Charlie's assassination) and her broader familiarity with the base.
 
@@ -597,7 +597,7 @@ Investigative Pressure: High
 
 *Related: A-1635.1, A-1635.2, C-5147, C-5164, N-2, N-459, N-462, N-463*
 
-**N-10418** November Renaissance Film Production Investigation
+**N-10391** November Renaissance Film Production Investigation
 
 Investigation into the unreleased short film *November Renaissance*, its Fort Huapuca-affiliated cast and crew, its plot content (nanotechnology, corporate proxies), and Erika's reported role as "Evelyn Mathis."
 
@@ -608,7 +608,7 @@ Investigative Pressure: High
 
 *Related: A-1635.1, A-1635.2, A-1635.3, C-5147, C-5160, C-5159, N-459, N-462, N-463, N-464, N-465, N-466*
 
-**N-10419** Erika China Residence Discrepancy
+**N-10392** Erika Kirk China Timeline Discrepancy
 
 Contradiction between Erika's on-air statement that she "lived in China" working with child sex-trafficking victims and Turning Point executive Justin Streiff's statement that she never lived there.
 
@@ -619,7 +619,7 @@ Investigative Pressure: High
 
 *Related: A-1636.1, A-1637.1, C-5178, C-5180, N-2*
 
-**N-10420** Courage House Nevada Investigation
+**N-10393** Courage House Nevada Investigation
 
 Investigation into the 40-acre Washoe County psychiatric residential treatment facility for child sex-trafficking survivors, its confidential location, capacity for 18 children, and Nelda Buckman's reported role as largest donor.
 
@@ -630,7 +630,7 @@ Investigative Pressure: High
 
 *Related: A-1640.1, C-5212, C-5221, N-460, N-263*
 
-**N-10421** Buckman–TPUSA Donor Relationship Investigation
+**N-10394** Buckman–TPUSA Donor Relationship Investigation
 
 Investigation into the $10 million Buckman gift, Florida campus renaming, plane access, and Nelda Buckman's described post-assassination closeness with Erika.
 
@@ -641,7 +641,7 @@ Investigative Pressure: High
 
 *Related: A-1638.1, A-1638.2, A-1638.3, C-5184, C-5186, C-5182, N-460, N-461, N-330, N-263*
 
-**N-10422** GATE / Gifted Education Program Investigation
+**N-10395** GATE / Gifted Education Program Investigation
 
 Investigation into gifted-and-talented / "Extraordinary Learners" programs, DoD-connected youth programs (Aspen Education Group schools), and reported memory blackout / surveillance phenomena among self-identified alumni.
 
@@ -652,7 +652,7 @@ Investigative Pressure: Medium
 
 *Related: A-1642.1, A-1642.2, C-5228, N-467, N-469*
 
-**N-10423** Identity Crisis Documentary Production Investigation
+**N-10396** Identity Crisis Documentary Production Investigation
 
 Investigation into the 2024 *Identity Crisis* documentary, its Daily Wire / Turning Point USA co-production, and Nelda Buckman's role as executive producer.
 
@@ -663,7 +663,7 @@ Investigative Pressure: Medium
 
 *Related: A-1639.1, C-5188, N-460*
 
-**N-10424** Nick Fuentes Federal Informant Allegation
+**N-10397** Nick Fuentes Federal Informant Allegation
 
 Persistent host allegation that Nick Fuentes operates as a federal informant, with new artifact support in this episode (audio clips re: Epstein / pedophilia framing).
 
@@ -692,14 +692,6 @@ Host; speaks for herself throughout.
 
 ---
 
-**N-10472** Fort Huachuca Alibi Investigation
-
-Persistent investigation into Erika's claimed Fort Huachuca alibi.
-
-*Related: C-5142, C-5144, C-5146, C-5148, C-5158, C-5163, C-5169, C-5240*
-
----
-
 **N-361** Mitch Snow
 
 Eyewitness who says he saw people at Fort Huachuca; the host defends his credibility.
@@ -716,7 +708,7 @@ Turning Point USA; focus of the host's chart and the Montgomery and Vallely clai
 
 ---
 
-**N-10368** Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)
+**N-10343** Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)
 
 Allegations about Fort Huachuca covert-operations classes.
 
@@ -724,7 +716,7 @@ Allegations about Fort Huachuca covert-operations classes.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 Question about Christian Zionist infiltration of TPUSA Faith.
 
@@ -740,7 +732,7 @@ TPUSA spokesperson; the host recounts his Fort Huachuca response and his call ab
 
 ---
 
-**N-10380** Erika Kirk September 8 Alibi
+**N-10353** Erika Kirk Sept 8, 2025 Alibi Verification
 
 Erika's September 8 alibi topic.
 
@@ -748,7 +740,7 @@ Erika's September 8 alibi topic.
 
 ---
 
-**N-10365** Sept 9 Fort Huachuca Meeting Question
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Question of what happened at Fort Huachuca on September 9.
 
@@ -756,19 +748,11 @@ Question of what happened at Fort Huachuca on September 9.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's Fort Huachuca eyewitness encounter.
 
 *Related: C-5166*
-
----
-
-**N-10375** Fort Huachuca Sighting Verification
-
-Fort Huachuca sighting verification topic.
-
-*Related: C-5168*
 
 ---
 
@@ -780,7 +764,7 @@ Man arrested after the shooting; appears as a strand on the host's chart.
 
 ---
 
-**N-11104** Liberty University
+**N-11022** Liberty University
 
 Liberty University; a strand on the host's chart.
 
@@ -788,7 +772,7 @@ Liberty University; a strand on the host's chart.
 
 ---
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Romania and Eastern Europe trafficking cluster.
 
@@ -820,7 +804,7 @@ Former megachurch pastor accused in a Romanian children case, named by the host.
 
 ---
 
-**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+**N-10384** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 Harvest Christian Fellowship Romanian abuse lawsuit cluster.
 
@@ -852,14 +836,14 @@ Utah politician; the host recaps his visit to Ballard.
 
 ---
 
-**N-11167** Operation Underground Railroad
+**N-11083** Operation Underground Railroad
 Operation Underground; discussed in the host's recap.
 
 *Related: C-5173, C-5174, C-5204*
 
 ---
 
-**N-10144** Phil Lyman Proximity and Behavior Investigation
+**N-10139** Phil Lyman Proximity and Behavior Investigation
 
 Phil Lyman proximity investigation.
 
@@ -883,7 +867,7 @@ Retired Army general on the TPUSA advisory board.
 
 ---
 
-**N-11166** Everyday Heroes Foundation
+**N-11082** Everyday Heroes Foundation
 
 Everyday Heroes Foundation, which Erika says she founded.
 
@@ -891,15 +875,7 @@ Everyday Heroes Foundation, which Erika says she founded.
 
 ---
 
-**N-10428** Erika Kirk China Timeline Discrepancy
-
-Erika's China timeline discrepancy topic.
-
-*Related: C-5179*
-
----
-
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Daily Wire; source of the Buckman interview.
 
@@ -923,7 +899,7 @@ Subject of the assassination; the host relays what he told her about donor press
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 AmFest speaker removal pattern.
 
@@ -931,7 +907,7 @@ AmFest speaker removal pattern.
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Ben Shapiro hostile takeover pattern.
 
@@ -963,7 +939,7 @@ MK Ultra, cited by the host.
 
 ---
 
-**N-11126** Operation Paperclip
+**N-11044** Operation Paperclip
 
 Operation Paperclip, cited by the host.
 
@@ -1027,7 +1003,7 @@ Occultist cited by the host.
 
 ---
 
-**N-10413** Project Looking Glass Allegation
+**N-10386** Project Looking Glass Allegation
 
 Project Looking Glass allegation.
 
@@ -1067,7 +1043,7 @@ First named by the host at 01:02:10 in episode 58 as the interviewer in an inter
 
 ---
 
-**N-11237** Dillon Aerospace
+**N-11153** Dillon Aerospace
 
 Node Type: Organization
 Defense contracting firm the host says employs Clayton Haugen in marketing.
@@ -1076,7 +1052,7 @@ Defense contracting firm the host says employs Clayton Haugen in marketing.
 
 ---
 
-**N-11238** Temple of Set
+**N-11154** Temple of Set
 
 Node Type: Organization
 Occult organization the host says was founded by the avowed Satanist who co-wrote a book with Paul Vallely.
@@ -1085,7 +1061,7 @@ Occult organization the host says was founded by the avowed Satanist who co-wrot
 
 ---
 
-**N-11239** National Angels
+**N-11155** National Angels
 
 Node Type: Organization
 Foster-care nonprofit with regional chapters, including Austin Angels and New Jersey Angels, that the host says Nelda Buckman works with.
@@ -1094,7 +1070,7 @@ Foster-care nonprofit with regional chapters, including Austin Angels and New Je
 
 ---
 
-**N-11240** Courage Worldwide
+**N-11156** Courage Worldwide
 
 Node Type: Organization
 Nonprofit behind Courage House Nevada, whose founder the host quotes about the site being hard to leave.
@@ -1103,7 +1079,7 @@ Nonprofit behind Courage House Nevada, whose founder the host quotes about the s
 
 ---
 
-**N-11241** King Low Heywood Thomas School
+**N-11157** King Low Heywood Thomas School
 
 Node Type: Organization
 Private school the host says offered her an all-expenses place after a gifted program test.
@@ -1112,7 +1088,7 @@ Private school the host says offered her an all-expenses place after a gifted pr
 
 ---
 
-**N-11242** Greenland Underground Military Base
+**N-11158** Greenland Underground Military Base
 
 Node Type: Place
 Cold War underground base in Greenland the host says was built to launch missiles.
@@ -1132,7 +1108,7 @@ Claim: The host says, citing people based at Fort Huachuca who contacted her, th
 Anchored Artifacts: A-1635.1, A-1635.2
 Mentions: N-459, N-462, N-463, N-464, N-465, N-466
 
-Related Nodes: N-10417, N-10418
+Related Nodes: N-10390, N-10391
 
 Investigative Direction: Obtain independent verification of military service records for named cast members and cross-reference Fort Huachuca duty rosters.
 
@@ -1147,7 +1123,7 @@ Claim: Per the Kickstarter description the host reads and a clip of director Cla
 Anchored Artifacts: A-1635.2, A-1635.3
 Mentions: N-459
 
-Related Nodes: N-10418
+Related Nodes: N-10391
 
 Investigative Direction: Obtain and archive the full Kickstarter campaign text and director pitch video to preserve the complete concept description.
 
@@ -1162,7 +1138,7 @@ Claim: The host says a remnant of the *November Renaissance* Kickstarter campaig
 Anchored Artifacts: A-1635.2
 Mentions: N-2
 
-Related Nodes: N-10418
+Related Nodes: N-10391
 
 Investigative Direction: Archive the Kickstarter remnant directly and verify the character name against any backup poster or campaign screenshots.
 
@@ -1177,7 +1153,7 @@ Claim: The host says that, by her count, three people now say Erika was at Fort 
 Anchored Artifacts: A-1635.1 (poster corroborates familiarity), A-1642.1 (related commenter testimony pattern)
 Mentions: N-2
 
-Related Nodes: N-10417
+Related Nodes: N-10390
 
 Investigative Direction: Obtain sworn statements or on-record confirmation from each of the three named individuals and cross-reference against base access logs.
 
@@ -1194,7 +1170,7 @@ Claim: On a podcast, Erika stated she "was living in China and doing a lot of wo
 Anchored Artifacts: A-1636.1
 Mentions: N-2
 
-Related Nodes: N-10419
+Related Nodes: N-10392
 
 Investigative Direction: Identify and archive the original podcast episode; obtain dated publication and transcript; verify whether "living" is Erika's exact word or paraphrase.
 
@@ -1209,7 +1185,7 @@ Claim: The host says Turning Point USA executive Justin Streiff replied to her t
 Anchored Artifacts: A-1637.1
 Mentions: N-15, N-2, N-3
 
-Related Nodes: N-10419
+Related Nodes: N-10392
 
 Investigative Direction: Obtain the direct message or email text from Justin Streiff; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.
 
@@ -1223,7 +1199,7 @@ Transcript Snippet: And he replied that she never lived in China.
 
 Anchored Artifacts: A-1637.1
 Mentions: N-15, N-2, N-3
-Related Nodes: N-10419
+Related Nodes: N-10392
 Revises: C-5180
 Confidence: medium
 Investigative Direction: Read with C-5180; request the reply under the corrected spelling Justin Streiff.
@@ -1239,7 +1215,7 @@ Claim: The host, citing a Daily Wire article, says Karl and Nelda Buckman gave a
 Anchored Artifacts: A-1638.1
 Mentions: N-460, N-461
 
-Related Nodes: N-10421
+Related Nodes: N-10394
 
 Investigative Direction: Obtain Daily Wire's article text and any Turning Point USA press release; verify gift amount and naming date against 990 filings or press archives.
 
@@ -1254,7 +1230,7 @@ Claim: The host says that, per a Daily Wire Plus article, Nelda Buckman gave an 
 Anchored Artifacts: A-1638.2
 Mentions: N-2, N-460
 
-Related Nodes: N-10421
+Related Nodes: N-10394
 
 Investigative Direction: Obtain the full Daily Wire Plus interview text; verify date and any documentation of the Florida meeting.
 
@@ -1269,7 +1245,7 @@ Claim: The host says Nelda Buckman is an executive producer of *Identity Crisis*
 Anchored Artifacts: A-1639.1
 Mentions: N-460, N-97
 
-Related Nodes: N-10423
+Related Nodes: N-10396
 
 Investigative Direction: Verify Buckman's credit against the film's production filings (e.g., IMDb, registered producer credits, copyright registrations).
 
@@ -1284,7 +1260,7 @@ Claim: The host says Baron Coleman did a lot of work on the planes and that peop
 Anchored Artifacts: A-1638.3
 Mentions: N-1, N-2, N-263, N-330
 
-Related Nodes: N-10421
+Related Nodes: N-10394
 
 Investigative Direction: Obtain tail-number records and cross-reference flight logs (ADS-B / FlightAware) against donor locations.
 
@@ -1299,7 +1275,7 @@ Claim: In a clip aired on the episode, Nick Fuentes stated regarding Jeffrey Eps
 Anchored Artifacts: A-1641.1
 Mentions: N-201, N-9
 
-Related Nodes: N-10424
+Related Nodes: N-10397
 
 Investigative Direction: Obtain the unedited source clip with timestamp and channel identification to verify wording and context.
 
@@ -1314,7 +1290,7 @@ Claim: In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein
 Anchored Artifacts: A-1641.2
 Mentions: N-201
 
-Related Nodes: N-10424
+Related Nodes: N-10397
 
 Investigative Direction: Obtain unedited source clip and verify the framing in the original Fuentes broadcast context.
 
@@ -1329,7 +1305,7 @@ Claim: A commenter identifying as "Nika" and as a "gate kid" reports a "total me
 Anchored Artifacts: A-1642.1
 Mentions: N-469
 
-Related Nodes: N-10422
+Related Nodes: N-10395
 
 Investigative Direction: Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation.
 
@@ -1343,7 +1319,7 @@ Claim: The host asserts that Nick Fuentes led people into the Capitol with a bul
 Transcript Snippet: He led people into a capital with a bullhorn and said ignore police storm the barriers as if he had fed like he he had fed instructions
 Anchored Artifacts: 
 Mentions: N-201
-Related Nodes: N-10424
+Related Nodes: N-10397
 Confidence: medium
 Investigative Direction: Obtain footage of the Capitol breach the host describes and charging records for Fuentes; document whether he entered restricted grounds and why no charge followed.
 
@@ -1356,7 +1332,7 @@ Claim: The host says Nick Fuentes took a meeting with Defend Texas Liberty and F
 Transcript Snippet: he took a meeting with Defend Texas Liberty and Farris Wilks' partner and pitched they actually one reporter got documents was pitching to sell the data of his followers
 Anchored Artifacts: 
 Mentions: N-201, N-468
-Related Nodes: N-10424
+Related Nodes: N-10397
 Confidence: medium
 Investigative Direction: Identify the reporter and obtain the documents; confirm the meeting date, attendees and the data-sale pitch.
 
@@ -1369,7 +1345,7 @@ Claim: The host says it is known "for a fact" that Milo Yiannopoulos informed Ni
 Transcript Snippet: we know for a fact he was informed the night before the night before by Milo Yiannopoulos. That the feds were going to be that there was there was some fed trap happening
 Anchored Artifacts: 
 Mentions: N-201, N-220
-Related Nodes: N-10424
+Related Nodes: N-10397
 Confidence: medium
 Investigative Direction: Locate Yiannopoulos's own statement about the warning the host says he gave Fuentes the night before, and any messages corroborating it.
 
@@ -1398,7 +1374,7 @@ Transcript Snippet: I can tell you Erika disputes that narrative.
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10472, N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain Erika's or TPUSA's on-record denial of the sighting and the specific content of what is disputed.
 
@@ -1414,7 +1390,7 @@ Transcript Snippet: Erika is definitively aware and familiar with the Fort Huach
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10417, N-10418
+Related Nodes: N-10390, N-10391
 Tags: relevance:core
 Investigative Direction: Locate the teaser footage and verify filming locations against production records for November Renaissance.
 
@@ -1430,7 +1406,7 @@ Transcript Snippet: They were bringing out Mitch's baby mama drama, sons, everyt
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-10472, N-10000
+Related Nodes: N-10390, N-10000
 Tags: relevance:core
 Investigative Direction: Collect the TPUSA-side posts and statements about Mitch Snow's personal life and compare their dates with the first Fort Huachuca coverage.
 
@@ -1446,7 +1422,7 @@ Transcript Snippet: how they were uh teaching courses to their agents on how to 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10368, N-10209
+Related Nodes: N-10343, N-10201
 Supports: C-4306
 Tags: relevance:context
 Investigative Direction: Obtain the course syllabus or first-hand accounts of the Fort Huachuca class on infiltrating Christian organizations.
@@ -1463,7 +1439,7 @@ Transcript Snippet: Erika wasn't at some fort. Okay. Okay, Andrew Kolvet, little
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10472
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's actual on-air or posted statement and quote it in full to test the host's characterization.
 
@@ -1479,7 +1455,7 @@ Transcript Snippet: Andrew's all like, "Here's a picture of her with her babies 
 
 Anchored Artifacts: A-3035
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10472, N-10380
+Related Nodes: N-10390, N-10353
 Tags: relevance:core
 Investigative Direction: Identify the post, its date and the date metadata on the photo, and compare with the Sept 8 to Sept 10 alibi window.
 
@@ -1495,7 +1471,7 @@ Transcript Snippet: reached out to me to inform me that they knew Erika uh and t
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10417, N-10418
+Related Nodes: N-10390, N-10391
 Tags: relevance:core
 Investigative Direction: Obtain the sources' names or documents showing the 2010 to 2013 production timeline; compare with the Kickstarter dates.
 
@@ -1511,7 +1487,7 @@ Transcript Snippet: Uh we know that she was pursuing the stage, obviously. Uh sh
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10418
+Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Check Erika's pageant and acting credits in public biographies and archived pageant results.
 
@@ -1527,7 +1503,7 @@ Transcript Snippet: The person they said she was really close to was Clayton Hau
 
 Anchored Artifacts: 
 Mentions: N-459, N-2, N-3
-Related Nodes: N-10418
+Related Nodes: N-10391
 Tags: relevance:core
 Investigative Direction: Ask the sources for the basis of the closeness claim; look for Haugen and Erika in joint photos, posts or cast lists.
 
@@ -1543,7 +1519,7 @@ Transcript Snippet: And he does marketing for the defense contracting firm Dillo
 
 Anchored Artifacts: 
 Mentions: N-459
-Related Nodes: N-11237, N-10418
+Related Nodes: N-11153, N-10391
 Tags: relevance:context
 Investigative Direction: Verify Haugen's employment through LinkedIn or company records; note the firm's spelling (Dillon Aerospace).
 
@@ -1559,7 +1535,7 @@ Transcript Snippet: he actually graduated from high school in Sierra Vista and t
 
 Anchored Artifacts: 
 Mentions: N-462
-Related Nodes: N-10417, N-10418
+Related Nodes: N-10390, N-10391
 Tags: relevance:context
 Investigative Direction: Check Frye's published biography for the Sierra Vista school and Fort Huachuca judo program.
 
@@ -1575,7 +1551,7 @@ Transcript Snippet: Her father is Lieutenant Colonel Allen McCormick, once stati
 
 Anchored Artifacts: 
 Mentions: N-463, N-850, N-851
-Related Nodes: N-10417, N-10418
+Related Nodes: N-10390, N-10391
 Tags: relevance:context
 Investigative Direction: Confirm the family relationships and Allen McCormick's Fort Huachuca assignment through Army records or public obituaries.
 
@@ -1591,7 +1567,7 @@ Transcript Snippet: Payton was also, by the way, Miss Teen USA in 2006, Priscill
 
 Anchored Artifacts: 
 Mentions: N-463, N-466
-Related Nodes: N-10418
+Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Check Miss Teen USA 2006 titleholder records; the transcript's title and name attribution look garbled and may be wrong.
 
@@ -1607,7 +1583,7 @@ Transcript Snippet: we can tell you that her dad worked for an artificial intell
 
 Anchored Artifacts: 
 Mentions: N-464, N-3
-Related Nodes: N-10418, N-10417
+Related Nodes: N-10391, N-10390
 Tags: relevance:context
 Investigative Direction: Identify Thuy's father and verify the IBM employment claim; no Fort Huachuca link was shown.
 
@@ -1623,7 +1599,7 @@ Transcript Snippet: that Price Mitchum, that just gets dark. I mean, that young 
 
 Anchored Artifacts: 
 Mentions: N-465, N-3
-Related Nodes: N-10418
+Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Public 5150 holds are confidential medical events; look for any news report before treating this as established.
 
@@ -1639,7 +1615,7 @@ Transcript Snippet: The point is is that they told me there's absolutely no way 
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10417, N-10472
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Find Kolvet's original statement about Erika's familiarity with the base and test it against the poster and Kickstarter evidence.
 
@@ -1655,7 +1631,7 @@ Transcript Snippet: They promised to deliver it in 2013. That didn't happen.
 
 Anchored Artifacts: A-1635.2
 Mentions: N-3
-Related Nodes: N-10418
+Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Archive the Kickstarter comment thread and delivery estimate from the Wayback Machine.
 
@@ -1671,7 +1647,7 @@ Transcript Snippet: this project was never released despite posting updates up t
 
 Anchored Artifacts: A-1635.2
 Mentions: N-3
-Related Nodes: N-10418
+Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Capture the dated Kickstarter update log to confirm the last update year.
 
@@ -1687,7 +1663,7 @@ Transcript Snippet: these people who gave this to us were our friends with Erika
 
 Anchored Artifacts: 
 Mentions: N-2, N-361, N-3
-Related Nodes: N-10417, N-10472
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Seek on-record confirmation from the sources; their friendship with Erika is asserted only through the host.
 
@@ -1703,7 +1679,7 @@ Transcript Snippet: she had seen Erika the day before, which would have been Sep
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10417, N-10365
+Related Nodes: N-10390, N-10305
 Tags: relevance:core
 Investigative Direction: Recover the deleted post from archives or screenshots and confirm the date of the sighting it described.
 
@@ -1719,7 +1695,7 @@ Transcript Snippet: This person has absolutely nothing to do with Mitch Snow.
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-10417, N-10367
+Related Nodes: N-10390, N-10342
 Tags: relevance:core
 Investigative Direction: Ask the host to disclose how independence from Mitch Snow was established; compare the two accounts' details.
 
@@ -1735,7 +1711,7 @@ Transcript Snippet: and that there was an order to lower drones on that day.
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10417, N-10365
+Related Nodes: N-10390, N-10305
 Tags: relevance:core
 Investigative Direction: Identify the chat and the order; check Fort Huachuca airspace or UAS notices for September 9, 2025.
 
@@ -1751,7 +1727,7 @@ Transcript Snippet: I did my due diligence to confirm that those people are real
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10417, N-10375
+Related Nodes: N-10390, N-10342
 Tags: relevance:core
 Investigative Direction: Request documentation of the verification method, such as duty verification, which the host has not shown.
 
@@ -1767,7 +1743,7 @@ Transcript Snippet: through um one of the Turning Point executives, Erika did se
 
 Anchored Artifacts: A-3036
 Mentions: N-2, N-3
-Related Nodes: N-10472, N-10000
+Related Nodes: N-10390, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the video Erika sent and the host's example request; check metadata to date the footage.
 
@@ -1783,7 +1759,7 @@ Transcript Snippet: We are finding this Liberty University strand, the Eastern u
 
 Anchored Artifacts: A-3037
 Mentions: N-3
-Related Nodes: N-11104, N-10401, N-10032
+Related Nodes: N-11022, N-10374, N-10032
 Tags: relevance:context
 Investigative Direction: Publish the chart nodes with sources so each strand can be checked individually.
 
@@ -1799,7 +1775,7 @@ Transcript Snippet: Turning Point Faith working with this Pastor Greg Laurie, wh
 
 Anchored Artifacts: A-3037
 Mentions: N-450, N-451, N-3
-Related Nodes: N-10411, N-10401
+Related Nodes: N-10384, N-10374
 Supports: C-4751
 Supports: C-2598
 Tags: relevance:context
@@ -1833,7 +1809,7 @@ Transcript Snippet: We talked about Tim Ballard, Operation Underground, how Phil
 
 Anchored Artifacts: A-3037
 Mentions: N-325, N-61, N-3
-Related Nodes: N-11167, N-10144
+Related Nodes: N-11083, N-10139
 Supports: C-4766
 Tags: relevance:core
 Investigative Direction: Corroborate Lyman's meeting with Ballard on September 11, 2025 through schedules, photos or statements.
@@ -1850,7 +1826,7 @@ Transcript Snippet: Glenn Beck had funded that Operation Under Underground, whic
 
 Anchored Artifacts: A-3037
 Mentions: N-237, N-325
-Related Nodes: N-11167
+Related Nodes: N-11083
 Supports: C-4763
 Tags: relevance:context
 Investigative Direction: Review the public filings and lawsuits against Operation Underground and Beck's reported funding.
@@ -1884,7 +1860,7 @@ Transcript Snippet: We got this retired Army general who actually ran psychologi
 
 Anchored Artifacts: 
 Mentions: N-799, N-3
-Related Nodes: N-11238
+Related Nodes: N-11154
 Supports: C-4865
 Tags: relevance:context
 Investigative Direction: Verify Vallely's psychological operations command history and the book's co-author credit.
@@ -1901,7 +1877,7 @@ Transcript Snippet: they didn't bring charges against him because they felt they
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11238
+Related Nodes: N-11154
 Tags: relevance:context
 Investigative Direction: Obtain the police report and the declination decision for the Army child development center case.
 
@@ -1917,7 +1893,7 @@ Transcript Snippet: I decided to create something called Everyday Heroes Like Yo
 
 Anchored Artifacts: A-1636.1
 Mentions: N-2
-Related Nodes: N-11166, N-10428
+Related Nodes: N-11082, N-10392
 Tags: relevance:context
 Investigative Direction: Check Everyday Heroes Foundation incorporation, filings and fund allocation against Erika's description.
 
@@ -1933,7 +1909,7 @@ Transcript Snippet: going to see your biggest donor wouldn't exactly be a scanda
 
 Anchored Artifacts: A-1638.3
 Mentions: N-2, N-3
-Related Nodes: N-10421
+Related Nodes: N-10394
 Qualifies: C-5182
 Tags: relevance:context
 Investigative Direction: Treat the plane movements as unproven wrongdoing; the open question is the donors' other ties.
@@ -1950,7 +1926,7 @@ Transcript Snippet: Erika and I talked about womanhood and what our culture has 
 
 Anchored Artifacts: A-1638.2
 Mentions: N-460, N-2, N-3
-Related Nodes: N-10421, N-10900
+Related Nodes: N-10394, N-10821
 Tags: relevance:context
 Investigative Direction: Retrieve the Daily Wire Plus interview text to confirm the quotation and date.
 
@@ -1966,7 +1942,7 @@ Transcript Snippet: he was really upset uh that I had called him out on stage an
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
-Related Nodes: N-10268, N-10386
+Related Nodes: N-10252, N-10359
 Tags: relevance:context
 Investigative Direction: Find Charlie Kirk's public post of support on the day of the firing and Shapiro's reaction.
 
@@ -1982,7 +1958,7 @@ Transcript Snippet: that Ben started putting pressure on Charlie's donors uh and
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
-Related Nodes: N-10268
+Related Nodes: N-10252
 Supports: C-2791
 Tags: relevance:context
 Investigative Direction: Obtain the text messages or the donor's identity the host says Charlie referred to; only Charlie's account via the host is offered.
@@ -1999,7 +1975,7 @@ Transcript Snippet: I knew that they were um feeding information also to Bari We
 
 Anchored Artifacts: 
 Mentions: N-278, N-3
-Related Nodes: N-10268
+Related Nodes: N-10252
 Tags: relevance:context
 Investigative Direction: Ask the host for the source of the Weiss information flow; look for corroborating donor communications.
 
@@ -2015,7 +1991,7 @@ Transcript Snippet: hey, letting you know that we're going to allow Ben to effec
 
 Anchored Artifacts: 
 Mentions: N-14, N-97, N-3
-Related Nodes: N-10268, N-10423
+Related Nodes: N-10252, N-10396
 Tags: relevance:context
 Investigative Direction: Locate AmFest 2024 speaker lists and any sponsorship terms; Kolvet's call is documented only by the host.
 
@@ -2031,7 +2007,7 @@ Transcript Snippet: he said, Charlie has to do this interview now with um with u
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-97, N-3
-Related Nodes: N-10423
+Related Nodes: N-10396
 Tags: relevance:context
 Investigative Direction: Find the Kirk and Shapiro interview tied to Identity Crisis and its date relative to the AmFest speaker decision.
 
@@ -2047,7 +2023,7 @@ Transcript Snippet: I'm not saying that she necessarily was the person who put t
 
 Anchored Artifacts: 
 Mentions: N-460, N-1, N-3
-Related Nodes: N-10421, N-10423
+Related Nodes: N-10394, N-10396
 Qualifies: C-5188
 Tags: relevance:context
 Investigative Direction: No evidence offered linking Buckman to the donor pressure; identify the donor before drawing a link.
@@ -2064,7 +2040,7 @@ Transcript Snippet: Nelda works with National Angels, so it's like there's all t
 
 Anchored Artifacts: 
 Mentions: N-460, N-3
-Related Nodes: N-11239, N-10420
+Related Nodes: N-11155, N-10393
 Tags: relevance:context
 Investigative Direction: Check National Angels board and donor listings for Buckman.
 
@@ -2080,7 +2056,7 @@ Transcript Snippet: Nelda is one of the largest donors, she might even be the la
 
 Anchored Artifacts: A-1640.1
 Mentions: N-460, N-3
-Related Nodes: N-10420
+Related Nodes: N-10393
 Tags: relevance:context
 Investigative Direction: Verify Courage House donor listings and filings for Buckman gifts; the host hedges that she might be the largest.
 
@@ -2096,7 +2072,7 @@ Transcript Snippet: per its website in April 2025, it purchased a 40-acre proper
 
 Anchored Artifacts: A-1640.1
 Mentions: N-3
-Related Nodes: N-10420, N-11240
+Related Nodes: N-10393, N-11156
 Tags: relevance:context
 Investigative Direction: Obtain the Washoe County deed and sale date for the 40-acre parcel and the buyer entity.
 
@@ -2112,7 +2088,7 @@ Transcript Snippet: this is a psychiatric residential treatment facility
 
 Anchored Artifacts: A-1640.1
 Mentions: N-3
-Related Nodes: N-10420
+Related Nodes: N-10393
 Tags: relevance:context
 Investigative Direction: Check Nevada licensing records for the facility's PRTF license and conditions.
 
@@ -2128,7 +2104,7 @@ Transcript Snippet: it has the capacity for 18 as colleges are are being built.
 
 Anchored Artifacts: A-1640.1
 Mentions: N-3
-Related Nodes: N-10420
+Related Nodes: N-10393
 Tags: relevance:context
 Investigative Direction: Check the permit documents for the number and type of buildings and licensed bed capacity.
 
@@ -2144,7 +2120,7 @@ Transcript Snippet: the Courage House is report reportedly located in a confiden
 
 Anchored Artifacts: A-1640.1
 Mentions: N-3
-Related Nodes: N-10420
+Related Nodes: N-10393
 Tags: relevance:context
 Investigative Direction: Confirm through the Washoe County deed that the address is public record regardless of the facility's claim.
 
@@ -2160,7 +2136,7 @@ Transcript Snippet: it quote, where it's hard for them to leave or for someone t
 
 Anchored Artifacts: A-1640.1
 Mentions: N-3
-Related Nodes: N-10420, N-11240
+Related Nodes: N-10393, N-11156
 Tags: relevance:context
 Investigative Direction: Retrieve the local news report to read the founder's full quotation in context.
 
@@ -2176,7 +2152,7 @@ Transcript Snippet: they're implying throughout the website that these girls can
 
 Anchored Artifacts: A-1640.1
 Mentions: N-3
-Related Nodes: N-10420
+Related Nodes: N-10393
 Tags: relevance:context
 Investigative Direction: Capture the website text and compare with the facility's licensed age range.
 
@@ -2192,7 +2168,7 @@ Transcript Snippet: Nevada has changed its laws uh which means that they don't h
 
 Anchored Artifacts: A-1640.1
 Mentions: N-3
-Related Nodes: N-10420
+Related Nodes: N-10393
 Tags: relevance:context
 Investigative Direction: Verify the Nevada statute on extended foster-care age and its effective date.
 
@@ -2208,7 +2184,7 @@ Transcript Snippet: I used to give, just annually, just so you guys know, to Ope
 
 Anchored Artifacts: 
 Mentions: N-325, N-3
-Related Nodes: N-11167
+Related Nodes: N-11083
 Tags: relevance:tangential
 Investigative Direction: Host's own giving record; no outside verification needed beyond her statement.
 
@@ -2239,7 +2215,7 @@ Transcript Snippet: the precursor to MK Ultra, uh which actually took place with
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10001, N-11126
+Related Nodes: N-10001, N-11044
 Tags: relevance:tangential
 Investigative Direction: Historians' accounts of MK Ultra and Paperclip place the program in 1953; test the claimed lineage against declassified CIA records.
 
@@ -2348,7 +2324,7 @@ Transcript Snippet: the issue is that Epstein is a Jewish spy, probably working 
 
 Anchored Artifacts: A-1641.1
 Mentions: N-201, N-9
-Related Nodes: N-10023, N-10424
+Related Nodes: N-10023, N-10397
 Tags: relevance:context
 Investigative Direction: Obtain the unedited source stream for Fuentes's wording and date.
 
@@ -2364,7 +2340,7 @@ Transcript Snippet: I just got a quarter million in in Bitcoin from France from 
 
 Anchored Artifacts: 
 Mentions: N-201, N-3
-Related Nodes: N-10424
+Related Nodes: N-10397
 Tags: relevance:context
 Investigative Direction: Trace the Bitcoin donation and the suicide letter through reporting on the donor.
 
@@ -2380,7 +2356,7 @@ Transcript Snippet: his lawyer wants to go off record when he's asked directly a
 
 Anchored Artifacts: 
 Mentions: N-201, N-3
-Related Nodes: N-10424
+Related Nodes: N-10397
 Tags: relevance:context
 Investigative Direction: Find the interview in which the lawyer was asked and the exact response.
 
@@ -2396,7 +2372,7 @@ Transcript Snippet: The story is someone was trafficking girls to acquire blackm
 
 Anchored Artifacts: A-1641.2
 Mentions: N-201
-Related Nodes: N-10023, N-10424
+Related Nodes: N-10023, N-10397
 Tags: relevance:context
 Investigative Direction: Source the original Fuentes stream, then compare with open-source reporting on Epstein and Israeli intelligence.
 
@@ -2412,7 +2388,7 @@ Transcript Snippet: I saw Marjorie Greene say this is about female victims.
 
 Anchored Artifacts: A-1641.2
 Mentions: N-201, N-145
-Related Nodes: N-10424
+Related Nodes: N-10397
 Tags: relevance:context
 Investigative Direction: Find Greene's statement Fuentes refers to and its date.
 
@@ -2428,7 +2404,7 @@ Transcript Snippet: This whole movement of Gen X idiots that are obsessed with s
 
 Anchored Artifacts: A-1641.2
 Mentions: N-201
-Related Nodes: N-10424
+Related Nodes: N-10397
 Tags: relevance:context
 Investigative Direction: Confirm the clip's exact text and date from the source broadcast.
 
@@ -2444,7 +2420,7 @@ Transcript Snippet: the kid who sat across from me and said that people that are
 
 Anchored Artifacts: 
 Mentions: N-201, N-3
-Related Nodes: N-10424
+Related Nodes: N-10397
 Tags: relevance:context
 Investigative Direction: Check the host's interview with Fuentes for the exchange.
 
@@ -2475,7 +2451,7 @@ Transcript Snippet: This is this is actually was was his reply to me for asking 
 
 Anchored Artifacts: A-3038
 Mentions: N-201, N-3
-Related Nodes: N-10424
+Related Nodes: N-10397
 Tags: relevance:context
 Investigative Direction: Check the source of the shouting clip and date to see whether it responds to the host's question.
 
@@ -2491,7 +2467,7 @@ Transcript Snippet: how dare she talk about Project Looking Glass, which was rea
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10413
+Related Nodes: N-10386
 Supports: C-5076
 Tags: relevance:tangential
 Investigative Direction: No documentation offered; look for declassified or primary records on any Project Looking Glass.
@@ -2508,7 +2484,7 @@ Transcript Snippet: Dad was a doctor doing residency adjacent to a bio lab at th
 
 Anchored Artifacts: A-1642.1
 Mentions: N-469
-Related Nodes: N-10422
+Related Nodes: N-10395
 Tags: relevance:context
 Investigative Direction: Commenter claim; Fort Hood hospital records would be needed.
 
@@ -2524,7 +2500,7 @@ Transcript Snippet: Lights break above my head when I flipped a switch, cabinets
 
 Anchored Artifacts: A-1642.1
 Mentions: N-469
-Related Nodes: N-10422
+Related Nodes: N-10395
 Tags: relevance:tangential
 Investigative Direction: Commenter anecdote; not verifiable.
 
@@ -2540,7 +2516,7 @@ Transcript Snippet: He said he thought he was a time traveler. He went to a spec
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10422
+Related Nodes: N-10395
 Supports: C-5068
 Tags: relevance:context
 Investigative Direction: Re-read the text messages the host has cited and any record of Charlie's schooling.
@@ -2557,7 +2533,7 @@ Transcript Snippet: we'd like to put her in what was called the Extraordinary Le
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10422
+Related Nodes: N-10395
 Tags: relevance:tangential
 Investigative Direction: Host's own schooling record; the program name could be checked with her district.
 
@@ -2573,7 +2549,7 @@ Transcript Snippet: they then said to my mom that we would like to pay for her t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10422, N-11241
+Related Nodes: N-10395, N-11157
 Tags: relevance:tangential
 Investigative Direction: Host's anecdote; check King Low Heywood Thomas School's gifted-program outreach in the 1990s.
 
@@ -2589,7 +2565,7 @@ Transcript Snippet: They probably want you to work for the government. They prob
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10422
+Related Nodes: N-10395
 Tags: relevance:tangential
 Investigative Direction: Speculative; FOIA GATE program records could test it.
 
@@ -2605,7 +2581,7 @@ Transcript Snippet: I had no idea that we had this military base, underground mi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11242
+Related Nodes: N-11158
 Tags: relevance:context
 Investigative Direction: Check Camp Century history; the 1959 Project Iceworm scheme was cancelled and the base was not a launch base.
 
@@ -2636,7 +2612,7 @@ Transcript Snippet: she was a child who claims DARPA tested biosonar on her and 
 
 Anchored Artifacts: A-1642.2
 Mentions: N-467
-Related Nodes: N-10422
+Related Nodes: N-10395
 Tags: relevance:context
 Investigative Direction: Find Wallace's public statements and any DARPA documentation of the biosonar tests.
 
@@ -2685,7 +2661,7 @@ Transcript Snippet: again I will pursue that alibi in earnest I'm going to send 
 
 Anchored Artifacts: A-3036
 Mentions: N-2, N-3
-Related Nodes: N-10472
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Watch the Monday live episode for the promised update and any video from Erika.
 
@@ -2701,7 +2677,7 @@ Transcript Snippet: if you have more information about Fort Huachuca more tips a
 
 Anchored Artifacts: A-3040
 Mentions: N-3
-Related Nodes: N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Check that incoming tips are logged and followed up on subsequent episodes.
 

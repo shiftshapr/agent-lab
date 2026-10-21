@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq164
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-955, N-956, N-957, N-958, N-959, N-960, N-11422, N-11423, N-11424, N-11425
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-25, N-40, N-41, N-128, N-129, N-132, N-146, N-159, N-190, N-266, N-277, N-280, N-330, N-597, N-631, N-942, N-10000, N-10012, N-10062, N-10074, N-10537, N-10665, N-10687, N-10688, N-10715, N-10839, N-10864, N-10872, N-10874, N-11218, N-11263
+  - Tip-minted Nodes (catchup-2026-10-19): N-955, N-956, N-957, N-958, N-959, N-960, N-11338, N-11339, N-11340, N-11341
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-25, N-40, N-41, N-128, N-129, N-132, N-146, N-159, N-190, N-266, N-277, N-280, N-330, N-597, N-631, N-942, N-10000, N-10012, N-10059, N-10071, N-10492, N-10465, N-10625, N-10626, N-10651, N-10762, N-10785, N-10793, N-10795, N-11134, N-11179
   - Claim Range: C-14143–C-14228
   - (see registers)
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:11:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14162, N-955, N-10839*
+*Related: C-14162, N-955, N-10762*
 
 ---
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:29:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14203, N-10874*
+*Related: C-14203, N-10795*
 
 ---
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:40:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14214, N-960, N-11424*
+*Related: C-14214, N-960, N-11340*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:49:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14219, N-277, N-11425*
+*Related: C-14219, N-277, N-11341*
 
 ---
 
@@ -424,108 +424,108 @@ Peterson's employer and the site of the September 10 event.
 
 *Related: C-14150, C-14152, C-14153, C-14161*
 
-**N-10062** Orem, Utah
+**N-10059** Orem, Utah
 
 Part of Peterson's House district; the host cites Orem sources for the bag account.
 
 *Related: C-14154, C-14179*
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Clancy's police department; the host cites Provo sources.
 
 *Related: C-14171, C-14179*
 
-**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
+**N-10492** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Turek's clip says the necklace was on top of the bloodied bag.
 
 *Related: C-14186, C-14187*
 
-**N-10665** Erika Kirk Educational Credentials Discrepancy
+**N-10465** Erika Kirk Educational Credentials Discrepancy
 
 The host compares Zacharia's unconfirmed law degree to Erika Kirk's doctorate claim.
 
 *Related: C-14211, C-14213*
 
-**N-10687** Frank Turek CPR Claim Verification
+**N-10625** Frank Turek CPR Claim Verification
 
 The host questions Turek's CPR account given the bag in the back seat.
 
 *Related: C-14190*
 
-**N-10688** Frank Turek Clothing Disposal
+**N-10626** Frank Turek Clothing Disposal
 
 Turek's clip describes changing into scrubs and disposing of the bloodied bag.
 
 *Related: C-14188, C-14189*
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 The host recalls Neff's "marking time" account in Salt Lake City.
 
 *Related: C-14164*
 
-**N-10839** Independent Review of UVU Security Failures
+**N-10762** Independent Review of UVU Security Failures
 
 The host cites the after-action report on Peterson's location.
 
 *Related: C-14162, A-3383.1*
 
-**N-10864** Vanity Fair Erika Kirk Profile (Clara Molot)
+**N-10785** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 The host disputes Erika Kirk's tweet explaining why she sat down with Vanity Fair.
 
 *Related: C-14225*
 
-**N-10872** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
+**N-10793** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
 
 Raised in a viewer comment; the host promises to discuss it.
 
 *Related: C-14222*
 
-**N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction
+**N-10795** UVU Independent Review Unnamed Fire Captain CPR Redaction
 
 The host says the fire captain who gave CPR at Timpanogos still cannot be identified.
 
 *Related: C-14200, C-14201, C-14202, C-14203, A-3387.1*
 
-**N-11218** Timpanogos Regional Hospital
+**N-11134** Timpanogos Regional Hospital
 
 The host alleges Clancy was at Timpanogos shortly after Charlie Kirk arrived and was dispatched from there.
 
 *Related: C-14175, C-14176, C-14200*
 
-**N-11263** Utah Internet Crimes Against Children Task Force
+**N-11179** Utah Internet Crimes Against Children Task Force
 
 The host says Clancy was also on ICAC.
 
 *Related: C-14171*
 
-**N-11422** Val Peterson September 10 Whereabouts Question
+**N-11338** Val Peterson September 10 Whereabouts
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's question of where UVU vice president and retired brigadier general Val Peterson was on September 10, 2025, after the after-action report placed him about 45 minutes from campus at the time of the shooting; she notes Salt Lake City and National Guard facilities but says she has no idea whether he was there.
 
 *Related: C-14161, C-14162, C-14163, C-14165, N-955*
 
-**N-11423** Tyler Clancy Bloodied Bag Disposal Allegation
+**N-11339** Tyler Clancy Bloodied Bag Disposal Allegation
 
 Node Type: Topic
 The host's allegation, attributed to multiple Provo and Orem sources, that Provo officer Tyler Clancy carried Turning Point USA members or affiliates in his car on September 10, 2025 and disposed of a bloodied bag one of them left there, which she links to Frank Turek's account of asking a police officer to dispose of his bag.
 
 *Related: C-14177, C-14178, C-14179, C-14180, C-14181, C-14189, C-14191, N-957, N-7*
 
-**N-11424** Katie Zacharia Law Credential Question
+**N-11340** Katie Zacharia Lawyer Credential Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's and press reports' question of whether new White House press secretary Katie Zacharia graduated law school and passed a bar exam.
 
 *Related: C-14212, C-14213, C-14214, A-3388.2, N-960*
 
-**N-11425** Cornell 7 Case
+**N-11341** Cornell 7 Case
 
-Node Type: Topic
+Node Type: Event
 The Cornell fraternity party case involving allegations of a gang rape and a group text, on which the host gives her general opinion.
 
 *Related: C-14215, C-14216, C-14219, A-3389.1*
@@ -720,7 +720,7 @@ Transcript Snippet: he also currently serves in Utah's House of Representatives.
 
 Anchored Artifacts:
 Mentions: N-955
-Related Nodes: N-10062
+Related Nodes: N-10059
 Tags: relevance:context
 Investigative Direction: Utah House of Representatives member roster.
 
@@ -832,7 +832,7 @@ Transcript Snippet: on September 10th, Val Peterson was not at the university wh
 
 Anchored Artifacts:
 Mentions: N-955, N-1
-Related Nodes: N-10012, N-11422
+Related Nodes: N-10012, N-11338
 Tags: relevance:core
 Investigative Direction: UVU after-action report and Peterson's September 10 schedule.
 
@@ -848,7 +848,7 @@ Transcript Snippet: It tells us that at the time of the shooting, Peterson was a
 
 Anchored Artifacts: A-3383.1
 Mentions: N-955
-Related Nodes: N-10839, N-11422
+Related Nodes: N-10762, N-11338
 Tags: relevance:core
 Investigative Direction: The UVU after-action report and Peterson's phone records for September 10.
 
@@ -864,7 +864,7 @@ Transcript Snippet: do you know what actually is 45 minutes away from campus? Sa
 
 Anchored Artifacts:
 Mentions: N-955
-Related Nodes: N-11422
+Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: Peterson's location records for September 10 and Guard base visitor logs.
 
@@ -880,7 +880,7 @@ Transcript Snippet: Blake said he was just he didn't go with Charlie to the even
 
 Anchored Artifacts:
 Mentions: N-159, N-1
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Neff's own statements and location data for September 10.
 
@@ -896,7 +896,7 @@ Transcript Snippet: Also, just 15 minutes away in Draper, Utah is where the Nati
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11422
+Related Nodes: N-11338
 Tags: relevance:context
 Investigative Direction: Utah National Guard facility addresses.
 
@@ -992,7 +992,7 @@ Transcript Snippet: on September 10th, 2025, not only was he serving in the Hous
 
 Anchored Artifacts:
 Mentions: N-957
-Related Nodes: N-10074, N-11263
+Related Nodes: N-10071, N-11179
 Tags: relevance:core
 Investigative Direction: Provo Police Department personnel records for September 2025.
 
@@ -1008,7 +1008,7 @@ Transcript Snippet: Today he received the Lrand and Beth Baker award for his ser
 
 Anchored Artifacts: A-3384.2
 Mentions: N-957
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:context
 Investigative Direction: The Instagram post and the awarding organization's records.
 
@@ -1040,7 +1040,7 @@ Transcript Snippet: Tyler Clancy was in fact on duty at the as a Provo police of
 
 Anchored Artifacts:
 Mentions: N-957
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:core
 Investigative Direction: Provo Police Department duty rosters for September 10-11, 2025.
 
@@ -1056,7 +1056,7 @@ Transcript Snippet: He was allegedly at Timpanogos um hospital shortly after Cha
 
 Anchored Artifacts:
 Mentions: N-957
-Related Nodes: N-11218
+Related Nodes: N-11134
 Tags: relevance:core
 Investigative Direction: Timpanogos hospital security logs and Provo police dispatch records.
 
@@ -1072,7 +1072,7 @@ Transcript Snippet: it was Tyler Clancy who was dispatched from Timpanogos uh wi
 
 Anchored Artifacts:
 Mentions: N-957, N-2
-Related Nodes: N-11218
+Related Nodes: N-11134
 Tags: relevance:core
 Investigative Direction: Police dispatch records and airport arrival records for Erika Kirk on September 10.
 
@@ -1088,7 +1088,7 @@ Transcript Snippet: I'm told he had some Turning Point USA members, staff member
 
 Anchored Artifacts:
 Mentions: N-957
-Related Nodes: N-10000, N-11423
+Related Nodes: N-10000, N-11339
 Tags: relevance:core
 Investigative Direction: Provo police vehicle logs and statements from Turning Point staff on transport that day.
 
@@ -1104,7 +1104,7 @@ Transcript Snippet: one of those Turning Point members or affiliates, guests, um
 
 Anchored Artifacts:
 Mentions: N-957
-Related Nodes: N-10000, N-11423
+Related Nodes: N-10000, N-11339
 Tags: relevance:core
 Investigative Direction: Provo police evidence logs for September 10 and Clancy's own account.
 
@@ -1120,7 +1120,7 @@ Transcript Snippet: I am inclined to believe this account, which has been verifi
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10074, N-10062, N-11423
+Related Nodes: N-10071, N-10059, N-11339
 Tags: relevance:core
 Investigative Direction: Identities and depositions of the sources.
 
@@ -1136,7 +1136,7 @@ Transcript Snippet: he brought to my attention that a similar and potentially co
 
 Anchored Artifacts:
 Mentions: N-330, N-7
-Related Nodes: N-11423
+Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Turek's podcast appearance and Coleman's statements.
 
@@ -1152,7 +1152,7 @@ Transcript Snippet: has already admitted that it he gave his bloodied bag to a p
 
 Anchored Artifacts: A-3385.1
 Mentions: N-7
-Related Nodes: N-11423
+Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: The full Apostate Prophet podcast episode.
 
@@ -1232,7 +1232,7 @@ Transcript Snippet: his necklace, which we were looking for, was across the top 
 
 Anchored Artifacts: A-3385.1
 Mentions: N-7, N-1, N-2
-Related Nodes: N-10537
+Related Nodes: N-10492
 Supports: C-4213
 Tags: relevance:core
 Investigative Direction: Evidence logs on the necklace and Turek's earlier accounts.
@@ -1249,7 +1249,7 @@ Transcript Snippet: And the cop cop there was goes, "I'll take that." I go, "No,
 
 Anchored Artifacts: A-3385.1
 Mentions: N-7, N-2
-Related Nodes: N-10537
+Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Identity of the officer present at the vehicle release.
 
@@ -1265,7 +1265,7 @@ Transcript Snippet: In fact, everybody that was attending to Charlie was in scru
 
 Anchored Artifacts: A-3385.1
 Mentions: N-7, N-1
-Related Nodes: N-10688
+Related Nodes: N-10626
 Supports: C-10096
 Tags: relevance:core
 Investigative Direction: Hospital records of scrubs issued and photos from the evening.
@@ -1282,7 +1282,7 @@ Transcript Snippet: So, I just told the cop sitting next to me, "Can you dispose
 
 Anchored Artifacts: A-3385.1
 Mentions: N-7, N-2
-Related Nodes: N-10688, N-11423
+Related Nodes: N-10626, N-11339
 Tags: relevance:core
 Investigative Direction: Identity of the officer in Turek's vehicle and any police evidence intake of the bag.
 
@@ -1298,7 +1298,7 @@ Transcript Snippet: I know you're only doing CPR for like 30 seconds at the end 
 
 Anchored Artifacts:
 Mentions: N-7, N-266
-Related Nodes: N-10687
+Related Nodes: N-10625
 Tags: relevance:core
 Investigative Direction: Turek's and Harpole's full CPR accounts compared with vehicle photos.
 
@@ -1314,7 +1314,7 @@ Transcript Snippet: that he willfully threw out this bloodied bag. And I'm incli
 
 Anchored Artifacts:
 Mentions: N-957
-Related Nodes: N-11423
+Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Identity of the officer in Turek's car and Clancy's assignment records.
 
@@ -1458,7 +1458,7 @@ Transcript Snippet: we are still unable to determine who the fire captain was th
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10874, N-11218
+Related Nodes: N-10795, N-11134
 Supports: C-13858
 Tags: relevance:core
 Investigative Direction: Fire department shift records for September 10 and the unredacted review.
@@ -1475,7 +1475,7 @@ Transcript Snippet: the people that you're sending me this could be this person 
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10874
+Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: Provo and Orem fire department rosters for September 10, 2025.
 
@@ -1491,7 +1491,7 @@ Transcript Snippet: can't confirm that he was actually in an ambulance and jumpe
 
 Anchored Artifacts:
 Mentions: N-7, N-266
-Related Nodes: N-10874
+Related Nodes: N-10795
 Supports: C-13853
 Tags: relevance:core
 Investigative Direction: EMS run reports for ambulances at Timpanogos on September 10.
@@ -1508,7 +1508,7 @@ Transcript Snippet: if you know something please email us moretips@candaceowens.
 
 Anchored Artifacts: A-3387.1
 Mentions:
-Related Nodes: N-10874
+Related Nodes: N-10795
 Supports: C-13861
 Tags: relevance:core
 Investigative Direction: Tips received at moretips@candaceowens.com.
@@ -1637,7 +1637,7 @@ Transcript Snippet: It's like with Erika Kirk when Eric Kirk says that, you know
 
 Anchored Artifacts:
 Mentions: N-2, N-960
-Related Nodes: N-10665
+Related Nodes: N-10465
 Tags: relevance:core
 Investigative Direction: Degree-verification records for Erika Kirk.
 
@@ -1653,7 +1653,7 @@ Transcript Snippet: Well, Katie, they can't confirm that she graduated law schoo
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11424
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: Law school graduation records and bar admission databases.
 
@@ -1669,7 +1669,7 @@ Transcript Snippet: Well, I studied some law at uh Pepperdine University, same u
 
 Anchored Artifacts:
 Mentions: N-960, N-2
-Related Nodes: N-11424, N-10665
+Related Nodes: N-11340, N-10465
 Tags: relevance:context
 Investigative Direction: Pepperdine enrollment verification for both women.
 
@@ -1685,7 +1685,7 @@ Transcript Snippet: it reads in a statement said she quote practiced internation
 
 Anchored Artifacts: A-3388.2
 Mentions: N-960
-Related Nodes: N-11424
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: State bar admission records.
 
@@ -1701,7 +1701,7 @@ Transcript Snippet: a female character who agreed to have sexual relations with,
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11425
+Related Nodes: N-11341
 Tags: relevance:tangential
 Investigative Direction: Court filings and police reports in the Cornell case.
 
@@ -1717,7 +1717,7 @@ Transcript Snippet: then sent a text message to the entire frat house in a group
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11425
+Related Nodes: N-11341
 Tags: relevance:tangential
 Investigative Direction: The text messages entered in the case record.
 
@@ -1765,7 +1765,7 @@ Transcript Snippet: This is scumbag behavior and it should not be celebrated or 
 
 Anchored Artifacts: A-3389.1
 Mentions: N-277
-Related Nodes: N-11425
+Related Nodes: N-11341
 Tags: relevance:tangential
 Investigative Direction: The full Tim Dillon episode.
 
@@ -1813,7 +1813,7 @@ Transcript Snippet: we should talk more about the Brian Cole case.
 
 Anchored Artifacts: A-3390.1
 Mentions: N-25
-Related Nodes: N-10872
+Related Nodes: N-10793
 Tags: relevance:context
 Investigative Direction: Court docket for the Brian Cole Jr. case.
 
@@ -1861,7 +1861,7 @@ Transcript Snippet: when she tweets this thing of like why I sat down with Vanit
 
 Anchored Artifacts:
 Mentions: N-2, N-1
-Related Nodes: N-10864
+Related Nodes: N-10785
 Tags: relevance:core
 Investigative Direction: Erika Kirk's tweet and the Vanity Fair profile.
 
@@ -2257,7 +2257,7 @@ Confidence: high
 - Host says Clancy was the youngest Utah House member "since 1834" (00:14:20); kept as said, date not checked.
 - Producer Schuyler (00:01:03, 00:55:50) is not linked to the existing Schuyler node (alias "Charlie Schuyler"), whose identity is unclear, so no node cited.
 - Jake Paul and Jon Gruden are named only in the Zacharia clip and not minted as nodes.
-- The after-action report (A-3383.1) is treated as the UVU independent review (N-10839); the host calls it the "afteraction report".
+- The after-action report (A-3383.1) is treated as the UVU independent review (N-10762); the host calls it the "afteraction report".
 - DIA scan: "Candace Owens.com" at 00:00:32 is the host's skit about searching for a Monday episode, not a tip request – not a DIA beat. "Go to.com" merch plug at 00:57:29 is a merch beat, logged only as M-14.
 - Rejected claims (admission test): host's opinion that Leavitt was "gaslighting us at all times" (00:34:31); "America has fallen" (00:33:29); host's view that everyone in the Cornell case was "raised wrong" (00:44:26); viewer comment on plastic surgery among women in Trump's orbit (00:54:19) – opinion; rhetorical questions about CPR over a bag (00:22:53).
 - Possible cross-episode links left out: C-14178/C-14189 vs C-10162 (ep119, Harpole bloodied bag gift) – different bag and proposition; C-14164 vs earlier Neff "marking time" claims – not located by id in claims_index.

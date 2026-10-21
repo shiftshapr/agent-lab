@@ -236,7 +236,7 @@
           "related_nodes": [
             "N-1",
             "N-14",
-            "N-10473"
+            "N-10441"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -265,7 +265,7 @@
           "related_nodes": [
             "N-1",
             "N-7",
-            "N-10473"
+            "N-10441"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -320,7 +320,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10473"
+            "N-10441"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -455,7 +455,7 @@
           "related_nodes": [
             "N-2",
             "N-270",
-            "N-10470"
+            "N-10439"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -474,7 +474,7 @@
           "related_nodes": [
             "N-1",
             "N-7",
-            "N-10476"
+            "N-10444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -694,7 +694,7 @@
         "N-528",
         "N-529",
         "N-48",
-        "N-10474"
+        "N-10442"
       ]
     },
     {
@@ -720,7 +720,7 @@
       "related_nodes": [
         "N-4",
         "N-527",
-        "N-10475"
+        "N-10443"
       ]
     },
     {
@@ -741,7 +741,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-521",
-        "N-10475"
+        "N-10443"
       ]
     },
     {
@@ -933,8 +933,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10473",
-        "N-10476"
+        "N-10441",
+        "N-10444"
       ]
     },
     {
@@ -958,7 +958,7 @@
       "related_nodes": [
         "N-270",
         "N-1",
-        "N-10473"
+        "N-10441"
       ]
     },
     {
@@ -983,8 +983,8 @@
       "related_nodes": [
         "N-2",
         "N-14",
-        "N-10470",
-        "N-10473"
+        "N-10439",
+        "N-10441"
       ]
     },
     {
@@ -1005,7 +1005,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10473"
+        "N-10441"
       ]
     },
     {
@@ -1321,11 +1321,11 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10470",
-      "ref": "N-10470",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10439",
+      "ref": "N-10439",
       "name": "Dan Flood Message Format Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency between Erika Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 \"they're going to kill me\" text.",
       "related_artifacts": [
         "A-1726.1"
@@ -1342,14 +1342,16 @@
       "related_nodes": [
         "N-2",
         "N-270"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10318"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10471",
-      "ref": "N-10471",
-      "name": "Erika Kirk Sept 10 Alibi Verification",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10440",
+      "ref": "N-10440",
+      "name": "Erika Kirk September 10 Whereabouts Verification",
+      "type": "investigation_question",
       "description": "Host's claim that no one in Erika Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.",
       "related_artifacts": [
         "A-1726.2"
@@ -1364,18 +1366,22 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-10472"
-      ]
+        "N-10390"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10472",
-      "ref": "N-10472",
-      "name": "Fort Huachuca Alibi Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_question",
       "description": "Persistent target: host reports \"major problems\" verifying Erika Kirk's Fort Huachuca alibi; details pending.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6034",
+        "C-6068"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1383,15 +1389,17 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10471"
-      ]
+        "N-10440"
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10473",
-      "ref": "N-10473",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10441",
+      "ref": "N-10441",
       "name": "Charlie Kirk Sept 8–10 Timeline Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target for assembling verified public statements about Charlie Kirk's whereabouts Sept 8–10. Affected by Josh Hammer correction (Sept 9 text vs Sept 8), Sept 9 Zoom call, dinner with priest, \"kill me\" text, and Frank Turek's Sept 8 walk account.",
       "related_artifacts": [
         "A-1721.1",
@@ -1419,14 +1427,16 @@
         "N-7",
         "N-270",
         "N-98"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10024"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10474",
-      "ref": "N-10474",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10442",
+      "ref": "N-10442",
       "name": "Peter Thiel–Epstein Relationship Documentation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: amount and content of Thiel's email exchanges with Epstein per released documents.",
       "related_artifacts": [
         "A-1715.1",
@@ -1446,14 +1456,15 @@
         "N-9",
         "N-521",
         "N-527"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10475",
-      "ref": "N-10475",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10443",
+      "ref": "N-10443",
       "name": "J.D. Vance–Peter Thiel Political Exposure",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether and how Peter Thiel's Epstein emails affect J.D. Vance politically (per host's claim that this is \"plausibly the biggest scandal to come out of the emails\").",
       "related_artifacts": [
         "A-1715.1"
@@ -1467,14 +1478,16 @@
       "related_nodes": [
         "N-521",
         "N-4"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10442"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10476",
-      "ref": "N-10476",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10444",
+      "ref": "N-10444",
       "name": "Charlie Kirk Sept 8 Walk Companion Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether Charlie Kirk's Sept 8 walk at ~8 PM was with Frank Turek, an unrecognized tall person, or both (sequentially). Neighbor testimony to host suggests second possibility.",
       "related_artifacts": [
         "A-1722.2",
@@ -1492,7 +1505,9 @@
       "related_nodes": [
         "N-1",
         "N-7"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10441"
     },
     {
       "@type": "Person",
@@ -1655,8 +1670,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11389",
-      "ref": "N-11389",
+      "@id": "N-11305",
+      "ref": "N-11305",
       "name": "Palantir Technologies",
       "type": "organization",
       "description": "Data-analytics and defense contractor tied to Peter Thiel; the host says Palantir staff were put onto Fort Huachuca in July.",
@@ -1668,14 +1683,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11390",
-      "ref": "N-11390",
+      "@type": "Event",
+      "@id": "N-11306",
+      "ref": "N-11306",
       "name": "Kolvet and McCoy White House Meeting (Late January 2026)",
-      "type": "topic",
+      "type": "event",
       "description": "The host's claim that Andrew Kolvet, Mikey McCoy and his wife met the White House on the Thursday before this episode while the public was led to believe they were in Arizona.",
       "related_artifacts": [],
       "related_claims": [
@@ -1686,7 +1703,11 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2026-01",
+      "place": "N-10072"
     },
     {
       "@type": "Person",
@@ -1944,11 +1965,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says Erika is bringing bad people into.",
       "related_artifacts": [],
       "related_claims": [
@@ -1959,14 +1980,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Network of the Sept 8 Kirk segments.",
       "related_artifacts": [],
       "related_claims": [
@@ -1977,14 +2000,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "FBI named in the pizza code word claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1994,14 +2019,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Israeli intelligence service in the Epstein discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -2012,14 +2039,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent target for the Mossad-Epstein claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2030,14 +2059,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@type": "Place",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Venue of the alleged late-January meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -2047,14 +2077,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10117",
-      "ref": "N-10117",
+      "@type": "Topic",
+      "@id": "N-10113",
+      "ref": "N-10113",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The curse article and priest prayer account.",
       "related_artifacts": [],
       "related_claims": [
@@ -2066,14 +2098,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10122",
-      "ref": "N-10122",
+      "@type": "Organization",
+      "@id": "N-10117",
+      "ref": "N-10117",
       "name": "Jezebel",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Publisher of the witch's curse article.",
       "related_artifacts": [],
       "related_claims": [
@@ -2084,14 +2117,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Zoom call verification target.",
       "related_artifacts": [],
       "related_claims": [
@@ -2101,14 +2136,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10187",
-      "ref": "N-10187",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10179",
+      "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Hammer's account of the screenshot.",
       "related_artifacts": [],
       "related_claims": [
@@ -2118,14 +2154,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mikey McCoy's sightings versus Erika's.",
       "related_artifacts": [],
       "related_claims": [
@@ -2135,14 +2172,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "AmFest event context.",
       "related_artifacts": [],
       "related_claims": [
@@ -2152,14 +2190,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Macron lawsuit context.",
       "related_artifacts": [],
       "related_claims": [
@@ -2169,14 +2208,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent target for the file releases.",
       "related_artifacts": [],
       "related_claims": [
@@ -2198,14 +2238,15 @@
       "evidence_count": 0,
       "claim_count": 13,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The kill-me message.",
       "related_artifacts": [],
       "related_claims": [
@@ -2217,14 +2258,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10397",
-      "ref": "N-10397",
+      "@type": "Topic",
+      "@id": "N-10370",
+      "ref": "N-10370",
       "name": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Kirk's Korea trip.",
       "related_artifacts": [],
       "related_claims": [
@@ -2234,14 +2276,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10414",
-      "ref": "N-10414",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10387",
+      "ref": "N-10387",
       "name": "CERN Satantic Ritual Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "CERN ritual claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2251,32 +2294,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
-      "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
-      "description": "Existing topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6034",
-        "C-6068"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10480",
-      "ref": "N-10480",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10447",
+      "ref": "N-10447",
       "name": "Nimrod / Gilgamesh Remains Extraction Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Gilgamesh topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -2286,14 +2312,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10493",
-      "ref": "N-10493",
-      "name": "Pierre / French Donor Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10280",
+      "ref": "N-10280",
+      "name": "Pierre Dupont Donor Identity Verification Question",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -2303,14 +2330,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10694",
-      "ref": "N-10694",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -2320,14 +2348,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10701",
-      "ref": "N-10701",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10638",
+      "ref": "N-10638",
       "name": "Andrew Kolvet EEOB Presence / Kash Patel Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Kolvet and Patel context.",
       "related_artifacts": [],
       "related_claims": [
@@ -2338,14 +2367,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11011",
-      "ref": "N-11011",
+      "@type": "Topic",
+      "@id": "N-10931",
+      "ref": "N-10931",
       "name": "Macron Cease and Desist and Legal Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Macron legal fight.",
       "related_artifacts": [],
       "related_claims": [
@@ -2355,14 +2385,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11029",
-      "ref": "N-11029",
+      "@type": "Organization",
+      "@id": "N-10948",
+      "ref": "N-10948",
       "name": "CERN",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "CERN organization.",
       "related_artifacts": [],
       "related_claims": [
@@ -2372,14 +2403,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q31855"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11130",
-      "ref": "N-11130",
+      "@type": "Organization",
+      "@id": "N-11048",
+      "ref": "N-11048",
       "name": "B'nai B'rith",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization named in the host's claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2391,14 +2424,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11153",
-      "ref": "N-11153",
+      "@type": "Organization",
+      "@id": "N-11069",
+      "ref": "N-11069",
       "name": "Anti-Defamation League",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "ADL origin claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2408,14 +2443,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11156",
-      "ref": "N-11156",
+      "@type": "Topic",
+      "@id": "N-11072",
+      "ref": "N-11072",
       "name": "Leo Frank Case and ADL Origin Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "ADL origin claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2425,14 +2462,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11351",
-      "ref": "N-11351",
+      "@type": "Organization",
+      "@id": "N-11267",
+      "ref": "N-11267",
       "name": "Salem Media Group",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Network of the Charlie Kirk Show.",
       "related_artifacts": [],
       "related_claims": [
@@ -2442,7 +2480,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -2723,7 +2763,7 @@
         "A-1721.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [],
       "claim_timestamp": "00:39:29",
@@ -2744,7 +2784,7 @@
         "A-1721.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [],
       "claim_timestamp": "00:39:29",
@@ -2764,8 +2804,8 @@
         "A-1722.2"
       ],
       "related_nodes": [
-        "N-10473",
-        "N-10476"
+        "N-10441",
+        "N-10444"
       ],
       "tags": [],
       "claim_timestamp": "00:47:03",
@@ -2785,7 +2825,7 @@
         "A-1722.2"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [],
       "claim_timestamp": "00:47:26",
@@ -2823,7 +2863,7 @@
         "A-1726.1"
       ],
       "related_nodes": [
-        "N-10470"
+        "N-10439"
       ],
       "tags": [],
       "claim_timestamp": "00:44:45",
@@ -2844,7 +2884,7 @@
         "A-1726.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [],
       "claim_timestamp": "00:43:53",
@@ -2866,7 +2906,7 @@
         "A-1726.2"
       ],
       "related_nodes": [
-        "N-10476"
+        "N-10444"
       ],
       "tags": [],
       "claim_timestamp": "00:48:34",
@@ -2972,7 +3012,7 @@
       "claim": "The host says Erika told her Charlie had dinner with the family and a priest to pray over him on the evening of September 9, and that she was told this was related to a Jezebel article about an Etsy spell / witch's curse against him; the host says she does not believe that at all. The article is not displayed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [],
       "claim_timestamp": "00:42:15",
@@ -3129,7 +3169,7 @@
       "claim": "The host says Ulysses S. Grant 'notoriously expelled Jews from his military district, Tennessee, Mississippi, Kentucky', and that it had to do with what was being 'cooked up' at B'nai B'rith lodges.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11130"
+        "N-11048"
       ],
       "tags": [
         "relevance:tangential"
@@ -3150,9 +3190,9 @@
       "claim": "The host says B'nai B'rith subsequently became the ADL after 'the ritualistic murder of a Catholic girl named Mary Phagan', and that the pattern recurs on the same dates and holiday season throughout history.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11130",
-        "N-11153",
-        "N-11156"
+        "N-11048",
+        "N-11069",
+        "N-11072"
       ],
       "tags": [
         "relevance:tangential"
@@ -3193,7 +3233,7 @@
         "A-1715.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3216,7 +3256,7 @@
         "A-1715.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3239,7 +3279,7 @@
         "A-1715.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3262,7 +3302,7 @@
         "A-1715.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3282,7 +3322,7 @@
       "claim": "The host says Ben Shapiro's family ancestors and Bari Weiss were B'nai B'rith, and that this is why they differ from Dave Smith.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11130"
+        "N-11048"
       ],
       "tags": [
         "relevance:tangential"
@@ -3324,7 +3364,7 @@
       "claim": "The host says there are 900-plus Epstein emails referring to pizza 'in real ways' and invites viewers to search them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3345,7 +3385,7 @@
       "claim": "The host says Todd Blanche has already said they are 'sparing us the videos', and infers from this that there are graphic videos pertaining to death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3443,7 +3483,7 @@
       "claim": "The host says Jay-Z was mentioned in an Epstein email in the context of being with Harvey Weinstein watching somebody be assaulted, but she is waiting for more information because some emails reportedly arrived later when people flooded the FBI with reports.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:tangential"
@@ -3466,8 +3506,8 @@
       "claim": "The host says that when the CERN activity somebody caught on tape was shown, CERN 'came out and were like, Oh, we were just faking', which she compares to scientists dressing up and pretending to stab women before a statue of Shiva.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10414",
-        "N-11029"
+        "N-10387",
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -3506,8 +3546,8 @@
       "claim": "The host says not all of the files are being released and people still in power are being protected, which is why she found it 'super interesting' that Peter Thiel was thrown 'under the bus'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10474",
-        "N-10324"
+        "N-10442",
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3528,7 +3568,7 @@
       "claim": "The host says everyone knows Peter Thiel effectively funded JD Vance's career and probably had something to do with Vance getting the Netflix deal for Hillbilly Elegy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10475"
+        "N-10443"
       ],
       "tags": [
         "relevance:context"
@@ -3550,8 +3590,8 @@
       "claim": "The host says the Thiel emails are 'plausibly the biggest scandal' and the most consequential thing in the releases she can see so far, and 'ain't good for J. D. Vance', who she says is likely to run in 2028.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10475",
-        "N-10474"
+        "N-10443",
+        "N-10442"
       ],
       "tags": [
         "relevance:context"
@@ -3575,7 +3615,7 @@
         "A-1720.1"
       ],
       "related_nodes": [
-        "N-10474"
+        "N-10442"
       ],
       "tags": [
         "relevance:context"
@@ -3599,7 +3639,7 @@
         "A-1720.1"
       ],
       "related_nodes": [
-        "N-10474"
+        "N-10442"
       ],
       "tags": [
         "relevance:context"
@@ -3621,8 +3661,8 @@
       "claim": "The host says that 'Palantir boys' were put onto Fort Huachuca airbase in July, and that she will 'get into that later'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11389",
-        "N-10472"
+        "N-11305",
+        "N-10390"
       ],
       "tags": [
         "relevance:context"
@@ -3662,7 +3702,7 @@
       "claim": "The host says JD Vance 'is going to have to answer for this' and that she does not think he will make a statement on Peter Thiel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10475"
+        "N-10443"
       ],
       "tags": [
         "relevance:context"
@@ -3684,7 +3724,7 @@
       "claim": "The host says the emails show Epstein setting up meetings with Benjamin Netanyahu and Ehud Barak 'all over it', and making jokes about Robert Maxwell, and that she expects the Kushners to appear.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324",
+        "N-10303",
         "N-10023"
       ],
       "tags": [
@@ -3710,7 +3750,7 @@
       "claim": "The host says she expected to see names in the files that would bring her 'a little closer to solving the Charlie Kirk murder', and that the release is not near everything.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:core"
@@ -3731,7 +3771,7 @@
       "claim": "The host says Thomas Massie is demanding more release and that the files should be unredacted, especially passages about killing people or ritual acts on children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3752,9 +3792,9 @@
       "claim": "The host says that last week on Thursday Andrew Kolvet, 'alleged' Mikey McCoy and his wife went to meet with the White House while wanting the public to think they were in Arizona, and that she is looking for details of the meeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11390",
-        "N-10075",
-        "N-10701"
+        "N-11306",
+        "N-10072",
+        "N-10638"
       ],
       "tags": [
         "relevance:core"
@@ -3776,8 +3816,8 @@
       "claim": "The host says TPUSA ran an interview with Kash Patel on Charlie Kirk's show, 'supposed to be live every day', and suggests it was pre-recorded while the team was meeting top brass at the White House.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11390",
-        "N-10701"
+        "N-11306",
+        "N-10638"
       ],
       "tags": [
         "relevance:core"
@@ -3800,7 +3840,7 @@
       "claim": "The host says there is a lot about pageantry in the emails and that it seems Epstein was practically picking girls to win pageants.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3821,7 +3861,7 @@
       "claim": "The host says the names of some beauty queens have been conveniently redacted, that Epstein moved with Jean-Luc Brunel through industries like Victoria's Secret and Miss Universe, that she thinks that is how Trump is caught up and \"rinsed out\" of the files, and that \"we know this for a fact\" they trafficked through modeling organizations like M Model Management with Brunel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3847,7 +3887,7 @@
       "claim": "The host says Erika Kirk made clear she first and foremost wants Vance in the White House, and that this was a bizarre push at AmFest right away.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:context"
@@ -3869,8 +3909,7 @@
       "claim": "The host says her team has been working to verify Erika Kirk's Fort Huachuca alibi and, at 00:32:06 just before a sponsor break, that they are \"having some major problems\"; the details are deferred.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10472",
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -3891,7 +3930,7 @@
       "claim": "The host says Hillary Clinton in the WikiLeaks emails was asking, a few days before the Iraq invasion, to locate Gilgamesh's tomb, and that Gilgamesh is suspected to be Nimrod.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -3976,7 +4015,7 @@
         "A-1721.1"
       ],
       "related_nodes": [
-        "N-10187"
+        "N-10179"
       ],
       "tags": [
         "relevance:core"
@@ -4023,7 +4062,7 @@
         "A-3310.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4047,8 +4086,8 @@
         "A-3310.1"
       ],
       "related_nodes": [
-        "N-10473",
-        "N-10169"
+        "N-10441",
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -4076,7 +4115,7 @@
         "A-3310.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4097,7 +4136,7 @@
       "claim": "The host says Charlie Kirk was getting messages from Bob Shillman and 'everyone's pulling out their money' on September 9, and that Shillman 'takes out his money'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4122,9 +4161,9 @@
       "claim": "The host says that, according to Erika, Charlie Kirk had dinner on September 9 with Erika, the kids and a priest to pray over him, and that 'we are told' the prayer was related to a Jezebel article, which the host says she does not believe.",
       "anchored_artifacts": [],
       "related_nodes": [
+        "N-10113",
         "N-10117",
-        "N-10122",
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4149,7 +4188,7 @@
       "claim": "The host says Charlie Kirk said in the chat 'I want Candace back. I want to have her' and was also texting other people that he wanted her back, and that she has confirmed both on September 9.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4173,8 +4212,8 @@
       "claim": "The host sequences September 9 as: the Zoom call ends, Charlie has dinner with his family and a priest (which she says she has confirmed), and then messages Dan Flood and Andrew Kolvet that 'they're going to kill me'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10473",
-        "N-10340"
+        "N-10441",
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -4200,8 +4239,8 @@
       "claim": "The host says that Erika Kirk first said Charlie never texted Dan Flood and that she has his phone, after which the host answered that her source had access to Dan Flood's messages.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10470",
-        "N-10340"
+        "N-10439",
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -4227,7 +4266,7 @@
       "claim": "The host says Erika then admitted Dan Flood received a message but said it was on a Telegram chat that Charlie had set to clear, so she never saw it, which the host calls a lie because her source said it was an iMessage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10470"
+        "N-10439"
       ],
       "tags": [
         "relevance:core"
@@ -4254,8 +4293,8 @@
         "A-3311.1"
       ],
       "related_nodes": [
-        "N-11351",
-        "N-10473"
+        "N-11267",
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4278,8 +4317,8 @@
         "A-3311.1"
       ],
       "related_nodes": [
-        "N-10397",
-        "N-10473"
+        "N-10370",
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4303,7 +4342,7 @@
       ],
       "related_nodes": [
         "N-10006",
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4328,7 +4367,7 @@
       ],
       "related_nodes": [
         "N-10006",
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4352,8 +4391,8 @@
         "A-3311.1"
       ],
       "related_nodes": [
-        "N-10117",
-        "N-10122"
+        "N-10113",
+        "N-10117"
       ],
       "tags": [
         "relevance:core"
@@ -4376,7 +4415,7 @@
         "A-3311.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4399,7 +4438,7 @@
         "A-3311.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4423,7 +4462,7 @@
         "A-1726.2"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4447,8 +4486,8 @@
         "A-1726.2"
       ],
       "related_nodes": [
-        "N-10471",
-        "N-10198"
+        "N-10440",
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -4470,7 +4509,7 @@
       "claim": "The host says Erika Kirk says she collapsed in the parking lot but no one has seen that, and nobody in her building has; she adds that if she had screamed in a doctor's office with people in it, someone would say they heard a giant scream.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10471"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -4491,8 +4530,7 @@
       "claim": "The host says that no one can confirm seeing Erika Kirk on September 10, describing her as 'just giving me a very straightforward alibi and pretending like they didn't understand the instructions of this alibi for Fort Huachuca'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10472",
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -4513,8 +4551,8 @@
       "claim": "The host says she thinks Charlie Kirk was fearful of his life, that it was not about a Jezebel curse, and that his day reveals stress from pressure on him regarding Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10117",
-        "N-10473"
+        "N-10113",
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -4535,8 +4573,8 @@
       "claim": "The host says it follows that Charlie Kirk sent Andrew Kolvet and Dan Flood a message that 'they, meaning the Jews, were going to kill him', which she says is what she believes happened.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10473",
-        "N-10340"
+        "N-10441",
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -4562,8 +4600,8 @@
       "claim": "The host says that Erika Kirk is lying and covering for Dan Flood, that these are 'big lies', and that she will get to the bottom of why.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10694",
-        "N-10470"
+        "N-10632",
+        "N-10439"
       ],
       "tags": [
         "relevance:core"
@@ -4606,7 +4644,7 @@
       "claim": "The host says that, alongside the recent firings, there is a confirmed fact of a big money check coming in with a Pierre, and that Erika Kirk knows who Pierre is.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10493",
+        "N-10280",
         "N-10000"
       ],
       "tags": [
@@ -4653,8 +4691,8 @@
       "claim": "The host says that Brigitte Macron is suing her 'for knowing' and describes this as the new tactic of suing for knowing they are devil worshipers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11011",
-        "N-10270"
+        "N-10931",
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"

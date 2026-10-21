@@ -143,7 +143,7 @@
           ],
           "related_nodes": [
             "N-227",
-            "N-10228"
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,7 +163,7 @@
           ],
           "related_nodes": [
             "N-227",
-            "N-10228"
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -191,7 +191,7 @@
           ],
           "related_nodes": [
             "N-228",
-            "N-10228"
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,7 +263,7 @@
           ],
           "related_nodes": [
             "N-229",
-            "N-10231"
+            "N-10218"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -316,7 +316,7 @@
           ],
           "related_nodes": [
             "N-230",
-            "N-10232"
+            "N-10219"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,7 +344,7 @@
           "related_nodes": [
             "N-2",
             "N-211",
-            "N-10233"
+            "N-10220"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -373,8 +373,8 @@
             "N-2",
             "N-99",
             "N-231",
-            "N-10234",
-            "N-10235"
+            "N-10221",
+            "N-10222"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -549,7 +549,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ]
     },
     {
@@ -572,7 +572,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ]
     },
     {
@@ -599,7 +599,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-190",
-        "N-10234"
+        "N-10221"
       ]
     },
     {
@@ -643,7 +643,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10231"
+        "N-10218"
       ]
     },
     {
@@ -671,7 +671,7 @@
       "ref": "N-230",
       "name": "Kolby Sessions",
       "type": "person",
-      "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-10232.",
+      "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-10219.",
       "related_artifacts": [
         "A-1352.1"
       ],
@@ -684,7 +684,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10232"
+        "N-10219"
       ]
     },
     {
@@ -706,7 +706,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10234"
+        "N-10221"
       ]
     },
     {
@@ -724,7 +724,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10234"
+        "N-10221"
       ]
     },
     {
@@ -766,11 +766,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10228",
-      "ref": "N-10228",
-      "name": "UVU Event Approval Timeline Discrepancy",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10211",
+      "ref": "N-10211",
+      "name": "UVU Event Approval Timeline Anomaly",
+      "type": "investigation_question",
       "description": "Dispute over whether the UVU campus stop was \"approved\" in July or only \"requested,\" and over the typical timeline from request to event. Only Allie's side is artifact-anchored in this episode.",
       "related_artifacts": [
         "A-1347.1",
@@ -781,7 +781,10 @@
         "C-2447",
         "C-2448",
         "C-2453",
-        "C-2454"
+        "C-2454",
+        "C-2444",
+        "C-2446",
+        "C-2458"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -791,14 +794,15 @@
       "related_nodes": [
         "N-227",
         "N-228"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10229",
-      "ref": "N-10229",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10216",
+      "ref": "N-10216",
       "name": "Autopsy Report and Evidence Access Asymmetry",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Erika Kirk's stated direct access to the autopsy report and \"different evidence portions,\" contrasted with the public record of fragmented disclosures.",
       "related_artifacts": [
         "A-1346.2"
@@ -813,14 +817,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10230",
-      "ref": "N-10230",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10217",
+      "ref": "N-10217",
       "name": "Saint Michael Pendant / Charlie Catholic-Curious Status",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Whether Charlie Kirk was on a spiritual journey toward Catholicism at the time of his death. Erika Kirk's interview confirms the Saint Michael pendant and its personal significance; Allie Beth Stuckey's referenced private text exchange (mentioned in this episode but not displayed) is the principal counter-claim.",
       "related_artifacts": [
         "A-1346.3",
@@ -837,14 +842,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10100"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10231",
-      "ref": "N-10231",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10218",
+      "ref": "N-10218",
       "name": "TPUSA / Candace Owens NDA and Blexit Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Alyssa Cordova's speculation that an NDA exists between TPUSA and Candace Owens via the Blexit business arrangement.",
       "related_artifacts": [
         "A-1350.1"
@@ -859,14 +866,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-229"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10232",
-      "ref": "N-10232",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10219",
+      "ref": "N-10219",
       "name": "UVU Green Hoodie Person Identification (Resolved)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Kolby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.",
       "related_artifacts": [
         "A-1352.1"
@@ -881,14 +889,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-230"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10233",
-      "ref": "N-10233",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10220",
+      "ref": "N-10220",
       "name": "Priest Presence at Ole Miss Event",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host observation of a priest in backstage video at the University of Mississippi event alongside Watters and Kirk; also referenced as the same priest who accompanied Erika to the hospital after the shooting.",
       "related_artifacts": [
         "A-1353.1"
@@ -904,15 +913,16 @@
       "related_nodes": [
         "N-2",
         "N-211",
-        "N-10230"
-      ]
+        "N-10217"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10234",
-      "ref": "N-10234",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10221",
+      "ref": "N-10221",
       "name": "Charlie's Heart Still Beating Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tom Paul's viewer-mediated reference to Andrew Klavan's claim on the Alex Clark show that Charlie's heart was still beating, juxtaposed against statements that he died instantly / went instantly to heaven.",
       "related_artifacts": [
         "A-1354.1"
@@ -930,14 +940,15 @@
         "N-99",
         "N-2",
         "N-7"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10235",
-      "ref": "N-10235",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10222",
+      "ref": "N-10222",
       "name": "Erika–Charlie 2018 Israel Airport Meeting Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tom Paul's reference to Erika first seeing Charlie at an airport in Israel in May 2018 with her mom; host recalls possibly the embassy opening but expresses uncertainty.",
       "related_artifacts": [
         "A-1354.1"
@@ -950,7 +961,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1070,11 +1082,11 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
       "related_artifacts": [],
       "related_claims": [
@@ -1095,12 +1107,14 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
-      "@id": "N-11228",
-      "ref": "N-11228",
+      "@id": "N-11144",
+      "ref": "N-11144",
       "name": "Candace Podcast Ranking and Operations",
       "type": "topic",
       "description": "The host's account of the Candace podcast reaching number one worldwide, its lack of ad spend, small team and start-up conditions.",
@@ -1114,7 +1128,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1220,11 +1235,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Fox News; carried the Erika Kirk interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1235,7 +1250,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1297,11 +1314,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@type": "Topic",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tyler Robinson Prosecution Evidence Base; lone-actor question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1311,7 +1328,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1332,11 +1350,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10055",
-      "ref": "N-10055",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10052",
+      "ref": "N-10052",
       "name": "Federal Footage Sweep",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Federal Footage Sweep; footage withheld, per host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1347,14 +1365,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University; site of the contested event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1368,14 +1387,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10175",
-      "ref": "N-10175",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10168",
+      "ref": "N-10168",
       "name": "UVU Left-Side Footage Black Hole",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "UVU Left-Side Footage Black Hole; camera coverage question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1385,53 +1406,37 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10104",
-      "ref": "N-10104",
+      "@type": "Topic",
+      "@id": "N-10100",
+      "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Catholic Conversion Rumor; host's Catholic-curious account.",
       "related_artifacts": [],
       "related_claims": [
         "C-2428",
         "C-2429",
         "C-2472",
-        "C-2475"
+        "C-2475",
+        "C-2442"
       ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10164",
-      "ref": "N-10164",
-      "name": "Charlie Kirk Catholic Trajectory Verification",
-      "type": "investigation_target",
-      "description": "Charlie Kirk Catholic Trajectory Verification; Mass attendance and conversion.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2428",
-        "C-2429",
-        "C-2442"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10319",
-      "ref": "N-10319",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": ".30-06 Forensic Narrative Validity; host says the neck could not have stopped it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1441,14 +1446,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11104",
-      "ref": "N-11104",
+      "@type": "Organization",
+      "@id": "N-11022",
+      "ref": "N-11022",
       "name": "Liberty University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Liberty University; venue of Charlie's slated speaking slot.",
       "related_artifacts": [],
       "related_claims": [
@@ -1459,14 +1465,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11098",
-      "ref": "N-11098",
+      "@type": "Topic",
+      "@id": "N-11016",
+      "ref": "N-11016",
       "name": "Alex Clark WSJ Memorial Photo Controversy",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1477,7 +1485,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1531,28 +1540,9 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10224",
-      "ref": "N-10224",
-      "name": "UVU Event Approval Timeline Anomaly",
-      "type": "investigation_target",
-      "description": "UVU Event Approval Timeline Anomaly; booking lead-time.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2444",
-        "C-2446",
-        "C-2458"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
       "@type": "Organization",
-      "@id": "N-11229",
-      "ref": "N-11229",
+      "@id": "N-11145",
+      "ref": "N-11145",
       "name": "Yale Political Union",
       "type": "organization",
       "description": "Yale student debating society, which the host says has existed since 1934 and hosted the Lila Rose debate she cites.",
@@ -1565,7 +1555,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1585,11 +1577,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Discord; platform of the Fed Discord messages.",
       "related_artifacts": [],
       "related_claims": [
@@ -1599,14 +1591,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "FBI; the Feds in the Discord remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1616,7 +1610,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1636,11 +1632,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11014",
-      "ref": "N-11014",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10934",
+      "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "TPUSA Post-Assassination Merchandise Revenue Claim; T-shirts and revenue.",
       "related_artifacts": [],
       "related_claims": [
@@ -1651,12 +1647,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
-      "@id": "N-11230",
-      "ref": "N-11230",
+      "@id": "N-11146",
+      "ref": "N-11146",
       "name": "Alex Clark Tribute Episode Ad Dispute",
       "type": "topic",
       "description": "Dispute over whether Alex Clark skipped ads on Charlie tribute episodes and whether the host's podcast should be criticized for running ads.",
@@ -1669,7 +1666,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1689,11 +1687,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@type": "Topic",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA DOGE Department / Financial Audit; DOGE remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1703,14 +1701,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11171",
-      "ref": "N-11171",
+      "@type": "Topic",
+      "@id": "N-11087",
+      "ref": "N-11087",
       "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Kirk Internet DOGE Money-Tracing Effort; DOGE remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1720,14 +1719,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "TPUSA Faith / Christian Zionist Infiltration Question; donor-pressure framing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1737,14 +1737,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Egyptian Military Plane Tracking Investigation; cited as a prior nerve-hit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1754,14 +1755,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10432",
-      "ref": "N-10432",
+      "@type": "Topic",
+      "@id": "N-10402",
+      "ref": "N-10402",
       "name": "TPUSA Non-Disparagement Enforcement Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA Non-Disparagement Enforcement Campaign; NDA remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1771,7 +1773,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1791,11 +1794,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Frank Turek CPR Claim Verification; stage remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1805,7 +1808,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
       "@type": "Person",
@@ -1874,6 +1879,26 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2416",
+        "C-2469"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1958,7 +1983,7 @@
         "A-1346.2"
       ],
       "related_nodes": [
-        "N-10229"
+        "N-10216"
       ],
       "tags": [],
       "claim_timestamp": "00:12:21",
@@ -1977,7 +2002,7 @@
         "A-1346.3"
       ],
       "related_nodes": [
-        "N-10230"
+        "N-10217"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
@@ -1997,8 +2022,8 @@
         "A-1353.1"
       ],
       "related_nodes": [
-        "N-10233",
-        "N-10230"
+        "N-10220",
+        "N-10217"
       ],
       "tags": [],
       "claim_timestamp": "00:15:23",
@@ -2038,7 +2063,7 @@
         "A-1347.1"
       ],
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13",
@@ -2058,7 +2083,7 @@
         "A-1347.2"
       ],
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:36:03",
@@ -2077,7 +2102,7 @@
         "A-1347.2"
       ],
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:36:03",
@@ -2101,7 +2126,7 @@
         "A-1348.1"
       ],
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:37:49",
@@ -2120,7 +2145,7 @@
         "A-1348.1"
       ],
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:37:49",
@@ -2175,7 +2200,7 @@
         "A-1350.1"
       ],
       "related_nodes": [
-        "N-10231"
+        "N-10218"
       ],
       "tags": [],
       "claim_timestamp": "00:55:21",
@@ -2212,7 +2237,7 @@
         "A-1352.1"
       ],
       "related_nodes": [
-        "N-10232"
+        "N-10219"
       ],
       "tags": [],
       "claim_timestamp": "00:25:41",
@@ -2231,7 +2256,7 @@
         "A-1354.1"
       ],
       "related_nodes": [
-        "N-10234"
+        "N-10221"
       ],
       "tags": [],
       "claim_timestamp": "00:59:56",
@@ -2287,7 +2312,7 @@
       "claim": "The host says her podcast reached number one worldwide without promotion and that since it started a year and a half ago she has not spent a single dollar on advertising.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11228"
+        "N-11144"
       ],
       "tags": [
         "relevance:tangential"
@@ -2368,7 +2393,7 @@
       "claim": "The host says only four people work on the actual podcast every day and that the team has stayed small.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11228"
+        "N-11144"
       ],
       "tags": [
         "relevance:tangential"
@@ -2389,7 +2414,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10006",
-        "N-10233"
+        "N-10220"
       ],
       "tags": [
         "relevance:context"
@@ -2430,7 +2455,9 @@
       "label": "Host Says Memorial Event Was on the 21st After Correction",
       "claim": "The host says the memorial event was 10 or 11 days after the assassination, then says nine days, and after a correction from her director says it was on the 21st.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:context"
       ],
@@ -2451,7 +2478,7 @@
       "claim": "The host says she does not believe Tyler Robinson was the lone person involved, and says 'I don't even think this person that killed Charlie Kirk' before trailing off.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -2492,7 +2519,7 @@
       "claim": "The host says that, unlike Erika Kirk, none of the public has seen the autopsy report.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10229"
+        "N-10216"
       ],
       "tags": [
         "relevance:core"
@@ -2516,7 +2543,7 @@
       "claim": "The host says Tyler Bowyer said they have footage in 4K of everything from when Charlie was tweeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10055"
+        "N-10052"
       ],
       "tags": [
         "relevance:core"
@@ -2538,7 +2565,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10175"
+        "N-10168"
       ],
       "tags": [
         "relevance:core"
@@ -2558,7 +2585,7 @@
       "claim": "The host says the excuse given for not showing the public the footage was that it might impact the case, and that it never made sense to her given a manhunt was underway.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10055"
+        "N-10052"
       ],
       "tags": [
         "relevance:core"
@@ -2578,8 +2605,7 @@
       "claim": "The host says her tribute video said they were all hoping Charlie would take the step and become Catholic, giving no details, after which Christian Zionist influencers said it was untrue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10164"
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -2600,8 +2626,7 @@
       "claim": "The host says she said from the beginning that Charlie Kirk did not convert to Catholicism and that she only reported where he was on his spiritual journey.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10164"
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -2644,7 +2669,7 @@
       "claim": "The host says the feds are telling obvious lies, number one being that Charlie was shot by a .30-06 and the bullet was stopped when in a normal circumstance it would have decapitated him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:core"
@@ -2665,7 +2690,7 @@
       "claim": "The host says TPUSA has said Mikey McCoy will take over Charlie's Liberty University event, which is going to be sold out, and that TPUSA faith directors tell people he has what it takes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104",
+        "N-11022",
         "N-10000"
       ],
       "tags": [
@@ -2727,7 +2752,7 @@
       "claim": "The host says Alex Clark wanted to do the Wall Street Journal thing until the host caught a lie about what she said about Catholics.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11098"
+        "N-11016"
       ],
       "tags": [
         "relevance:context"
@@ -2750,7 +2775,7 @@
         "A-3021.1"
       ],
       "related_nodes": [
-        "N-10232"
+        "N-10219"
       ],
       "tags": [
         "relevance:context"
@@ -2813,8 +2838,8 @@
       "claim": "The host says she would have told Allie Beth Stuckey privately that Charlie was going to Mass sometimes daily, was going on Sundays, and died with the pendant.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10230",
-        "N-10164"
+        "N-10217",
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -2879,8 +2904,7 @@
       "claim": "The host says TPUSA campus events are booked the semester before and there is a long waiting list for Charlie, Candace or Don Jr.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10228",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -2921,8 +2945,7 @@
       "claim": "The host says that in her eight or nine semesters touring with Charlie it never happened that a college made a request over the summer when school was closed and TPUSA honored it immediately.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10228",
-        "N-10224",
+        "N-10211",
         "N-10012"
       ],
       "tags": [
@@ -2949,7 +2972,7 @@
         "A-3022.1"
       ],
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -2974,7 +2997,7 @@
       "claim": "The host says that students are often told to hold two possible dates and that the events were already approved and planning did not start when Charlie texted Stuckey.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ],
       "tags": [
         "relevance:context"
@@ -2996,7 +3019,7 @@
       "claim": "The host says she and Charlie would divide and conquer on the same day and that she checked and TPUSA held both the Auburn and South Alabama events this semester.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ],
       "tags": [
         "relevance:context"
@@ -3017,7 +3040,7 @@
       "claim": "The host says the Yale debate Lila Rose cited was with the Yale Political Union, which has existed since 1934 and runs like a well-oiled machine.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11229"
+        "N-11145"
       ],
       "tags": [
         "relevance:context"
@@ -3040,7 +3063,7 @@
         "A-3023.1"
       ],
       "related_nodes": [
-        "N-11229"
+        "N-11145"
       ],
       "tags": [
         "relevance:context"
@@ -3061,7 +3084,7 @@
       "claim": "The host says she can go through every semester from 2018 until 2024 to show when events were put together and will do it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10228"
+        "N-10211"
       ],
       "tags": [
         "relevance:context"
@@ -3081,8 +3104,7 @@
       "claim": "The host says it is possible someone made a phone call to make the event happen, and that the public wants to know who that somebody was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10228",
-        "N-10224",
+        "N-10211",
         "N-10012"
       ],
       "tags": [
@@ -3187,7 +3209,7 @@
       "claim": "The host says Alex Clark wore boots and stood outside for a Wall Street Journal photo a couple of days after Charlie died and tried to hard launch her podcast.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11098"
+        "N-11016"
       ],
       "tags": [
         "relevance:context"
@@ -3230,7 +3252,7 @@
       "claim": "The host says it is a fact that Mikey McCoy took over for Charlie, who was slated to speak at Liberty University.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104"
+        "N-11022"
       ],
       "tags": [
         "relevance:core"
@@ -3253,7 +3275,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:context"
@@ -3274,7 +3296,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11014"
+        "N-10934",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -3295,7 +3318,7 @@
       "claim": "The host says her tribute episode ran absolutely zero ads and she did not let YouTube run ads on it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11230"
+        "N-11146"
       ],
       "tags": [
         "relevance:context"
@@ -3315,7 +3338,7 @@
       "claim": "The host says Alex Clark did not decline the ads but postponed reading them and said she made them up later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11230"
+        "N-11146"
       ],
       "tags": [
         "relevance:context"
@@ -3339,7 +3362,7 @@
       "claim": "The host says Alex Clark is mad because she lied about the host on her podcast and the host called it out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -3360,8 +3383,8 @@
       "claim": "The host says Alex Clark's account of why Charlie wanted a DOGE, that they do one every year, cannot be right because DOGE did not exist before Elon Musk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
-        "N-11171"
+        "N-10127",
+        "N-11087"
       ],
       "tags": [
         "relevance:core"
@@ -3410,8 +3433,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10209",
-        "N-10104"
+        "N-10201",
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -3438,7 +3461,7 @@
         "A-3024.1"
       ],
       "related_nodes": [
-        "N-10228",
+        "N-10211",
         "N-10012",
         "N-10000"
       ],
@@ -3460,8 +3483,8 @@
       "claim": "The host says that when they send out all the dogs over something minor, like her saying the event came together too quickly, there is something there, as with the Egyptian planes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10228"
+        "N-10239",
+        "N-10211"
       ],
       "tags": [
         "relevance:context"
@@ -3481,7 +3504,7 @@
       "claim": "The host alleges Alyssa Cordova treats people badly while an NDA prevents them from speaking.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10432"
+        "N-10402"
       ],
       "tags": [
         "relevance:context"
@@ -3521,7 +3544,7 @@
       "claim": "The host says Erika Kirk, as next of kin, is privy to the prosecution and can see what evidence they actually have and what they are building their case on.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10229"
+        "N-10216"
       ],
       "tags": [
         "relevance:core"
@@ -3547,7 +3570,7 @@
         "A-1354.1"
       ],
       "related_nodes": [
-        "N-10235"
+        "N-10222"
       ],
       "tags": [
         "relevance:context"
@@ -3569,8 +3592,8 @@
       "claim": "The host says Frank Turek said on stage that he knew in the car that Charlie was gone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10234",
-        "N-10687"
+        "N-10221",
+        "N-10625"
       ],
       "tags": [
         "relevance:core"
@@ -3592,7 +3615,7 @@
       "claim": "The host says people asked how Charlie went into surgery given the explanation that he died instantly, and that maybe he still had a pulse.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10234"
+        "N-10221"
       ],
       "tags": [
         "relevance:core"
@@ -3634,7 +3657,7 @@
       "claim": "The host says that when her team came with her from the Daily Wire she told them she could not offer health insurance in the first year and that her husband pulled the business together.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11228"
+        "N-11144"
       ],
       "tags": [
         "relevance:tangential"

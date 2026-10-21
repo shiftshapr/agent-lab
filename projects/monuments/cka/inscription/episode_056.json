@@ -88,7 +88,7 @@
             "N-446",
             "N-447",
             "N-41",
-            "N-10409"
+            "N-10382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
           ],
           "related_nodes": [
             "N-799",
-            "N-10410"
+            "N-10383"
           ],
           "tags": [],
           "video_timestamp": "00:18:40",
@@ -140,7 +140,7 @@
           "related_nodes": [
             "N-799",
             "N-449",
-            "N-10410"
+            "N-10383"
           ],
           "tags": [],
           "video_timestamp": "00:21:42",
@@ -246,7 +246,7 @@
           "related_nodes": [
             "N-450",
             "N-451",
-            "N-10411"
+            "N-10384"
           ],
           "tags": [],
           "video_timestamp": "00:32:12",
@@ -262,7 +262,7 @@
           ],
           "related_nodes": [
             "N-451",
-            "N-10411"
+            "N-10384"
           ],
           "tags": [],
           "video_timestamp": "00:34:03",
@@ -278,7 +278,7 @@
           ],
           "related_nodes": [
             "N-451",
-            "N-10411"
+            "N-10384"
           ],
           "tags": [],
           "video_timestamp": "00:35:00",
@@ -327,7 +327,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10412"
+            "N-10385"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,7 +375,7 @@
             "C-4993"
           ],
           "related_nodes": [
-            "N-10962",
+            "N-10883",
             "N-452",
             "N-5"
           ],
@@ -408,11 +408,11 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10074",
-            "N-10309",
-            "N-10310",
-            "N-10539",
-            "N-11079",
+            "N-10071",
+            "N-10291",
+            "N-10292",
+            "N-10494",
+            "N-10997",
             "N-3",
             "N-305"
           ],
@@ -439,13 +439,13 @@
             "C-5040"
           ],
           "related_nodes": [
-            "N-10398",
-            "N-10411",
-            "N-11203",
+            "N-10371",
+            "N-10384",
+            "N-11119",
             "N-14",
             "N-2",
             "N-450",
-            "N-11340"
+            "N-11256"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -496,7 +496,7 @@
             "C-5063"
           ],
           "related_nodes": [
-            "N-10408",
+            "N-10381",
             "N-3"
           ],
           "tags": [],
@@ -549,7 +549,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10409"
+        "N-10382"
       ]
     },
     {
@@ -571,7 +571,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10409"
+        "N-10382"
       ]
     },
     {
@@ -594,7 +594,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-446",
-        "N-10409"
+        "N-10382"
       ]
     },
     {
@@ -619,7 +619,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-449",
-        "N-10410"
+        "N-10383"
       ]
     },
     {
@@ -650,7 +650,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-799",
-        "N-10410"
+        "N-10383"
       ]
     },
     {
@@ -673,7 +673,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-451",
-        "N-10411"
+        "N-10384"
       ]
     },
     {
@@ -698,7 +698,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-450",
-        "N-10411"
+        "N-10384"
       ]
     },
     {
@@ -798,11 +798,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10409",
-      "ref": "N-10409",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10382",
+      "ref": "N-10382",
       "name": "Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: pattern of elderly estates redirected to TPUSA-affiliated organizations, including a $25M estate (Alton C. Jennings) reportedly reassigned November 2023, four months before decedent's death at age 95.",
       "related_artifacts": [
         "A-1619.1"
@@ -822,14 +822,15 @@
         "N-446",
         "N-447",
         "N-41"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10410",
-      "ref": "N-10410",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10383",
+      "ref": "N-10383",
       "name": "TPUSA Board Member Military–Satanism Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: link between a TPUSA board member (Paul Vallely) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).",
       "related_artifacts": [
         "A-1620.1",
@@ -855,14 +856,15 @@
       "related_nodes": [
         "N-799",
         "N-449"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@type": "Topic",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigation target: cluster of twelve (rising to twenty-three expected) lawsuits against Harvest Christian Fellowship/Greg Laurie/Paul Havsgaard alleging abuse of children at a Romanian shelter.",
       "related_artifacts": [
         "A-1624.1",
@@ -882,14 +884,16 @@
       "related_nodes": [
         "N-450",
         "N-451"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10412",
-      "ref": "N-10412",
+      "@type": "Event",
+      "@id": "N-10385",
+      "ref": "N-10385",
       "name": "Erika Kirk June 19 Instagram Purge",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Persistent investigation target: reported deletion of 126 Instagram posts on June 19, framed in the master timeline as a possible pre-event secrecy action.",
       "related_artifacts": [
         "A-1626.1"
@@ -904,7 +908,10 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-19"
     },
     {
       "@type": "Person",
@@ -1235,11 +1242,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1252,14 +1259,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@type": "Place",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1273,14 +1282,17 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10309",
-      "ref": "N-10309",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10291",
+      "ref": "N-10291",
       "name": "Wedi Machmood Identity Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1290,14 +1302,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10310",
-      "ref": "N-10310",
+      "@type": "Event",
+      "@id": "N-10292",
+      "ref": "N-10292",
       "name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1311,14 +1325,19 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-05-27",
+      "place": "N-10071",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1328,14 +1347,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@type": "Topic",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1347,14 +1368,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10399",
-      "ref": "N-10399",
+      "@type": "Topic",
+      "@id": "N-10372",
+      "ref": "N-10372",
       "name": "Unification Church / Moon Inc. Financial Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1365,14 +1387,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@type": "Topic",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1383,14 +1406,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10402",
-      "ref": "N-10402",
+      "@type": "Topic",
+      "@id": "N-10375",
+      "ref": "N-10375",
       "name": "Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1400,14 +1424,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10408",
-      "ref": "N-10408",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10381",
+      "ref": "N-10381",
       "name": "Turning Point USA Estate Planning Solicitation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1419,14 +1444,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10413",
-      "ref": "N-10413",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10386",
+      "ref": "N-10386",
       "name": "Project Looking Glass Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1436,14 +1462,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1453,14 +1480,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@type": "Topic",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1475,14 +1504,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10670",
-      "ref": "N-10670",
+      "@type": "Topic",
+      "@id": "N-10610",
+      "ref": "N-10610",
       "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1492,14 +1522,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10962",
-      "ref": "N-10962",
+      "@type": "Place",
+      "@id": "N-10883",
+      "ref": "N-10883",
       "name": "Venezuela",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1509,14 +1540,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11079",
-      "ref": "N-11079",
+      "@type": "Event",
+      "@id": "N-10997",
+      "ref": "N-10997",
       "name": "Operation Midnight Hammer",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1527,14 +1560,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q645883",
+      "event_time": "2025-06-22"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11182",
-      "ref": "N-11182",
+      "@type": "Organization",
+      "@id": "N-11098",
+      "ref": "N-11098",
       "name": "TPUSA Crisis PR Team",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1544,14 +1580,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11203",
-      "ref": "N-11203",
+      "@type": "Event",
+      "@id": "N-11119",
+      "ref": "N-11119",
       "name": "Make Heaven Crowded Tour",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1561,14 +1600,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11238",
-      "ref": "N-11238",
+      "@type": "Organization",
+      "@id": "N-11154",
+      "ref": "N-11154",
       "name": "Temple of Set",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1579,12 +1620,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Place",
-      "@id": "N-11338",
-      "ref": "N-11338",
+      "@id": "N-11254",
+      "ref": "N-11254",
       "name": "Fort Huachuca",
       "type": "place",
       "description": "Army intelligence installation in Arizona that the host repeatedly returns to: she says Michael Aquino trained there, calls it the hub for intel operations, and links it to the Mitch Snow sighting account.",
@@ -1598,12 +1641,14 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q245016"
     },
     {
       "@type": "Topic",
-      "@id": "N-11339",
-      "ref": "N-11339",
+      "@id": "N-11255",
+      "ref": "N-11255",
       "name": "Military Base Recruitment and Prosecution-Immunity Allegation",
       "type": "topic",
       "description": "The host's account of what unnamed military sources told her: that foreign bases shield personnel from prosecution under government deals and that a woman recruiter posing as a casting director brings young women onto bases.",
@@ -1616,12 +1661,13 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
-      "@id": "N-11340",
-      "ref": "N-11340",
+      "@id": "N-11256",
+      "ref": "N-11256",
       "name": "Harvest Christian Fellowship",
       "type": "organization",
       "description": "California megachurch founded by Greg Laurie, the defendant in lawsuits over alleged abuse at a Romanian children's home and the host of the TPUSA Faith Make Heaven Crowded event that Erika Kirk is to join.",
@@ -1638,7 +1684,9 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -1687,7 +1735,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
@@ -1707,7 +1755,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:16:20",
@@ -1726,7 +1774,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:16:20",
@@ -1747,7 +1795,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -1766,7 +1814,7 @@
         "A-1620.1"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [],
       "claim_timestamp": "00:18:40",
@@ -1785,7 +1833,7 @@
         "A-1621.1"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [],
       "claim_timestamp": "00:21:13",
@@ -1805,7 +1853,7 @@
         "A-1622.2"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [],
       "claim_timestamp": "00:22:15",
@@ -1825,7 +1873,7 @@
         "A-1622.2"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [],
       "claim_timestamp": "00:22:47",
@@ -1844,7 +1892,7 @@
         "A-1623.1"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [],
       "claim_timestamp": "00:27:54",
@@ -1863,7 +1911,7 @@
         "A-1623.2"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [],
       "claim_timestamp": "00:27:54",
@@ -1882,7 +1930,7 @@
         "A-1624.1"
       ],
       "related_nodes": [
-        "N-10411"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:33:27",
@@ -1901,7 +1949,7 @@
         "A-1624.2"
       ],
       "related_nodes": [
-        "N-10411"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:34:03",
@@ -1920,7 +1968,7 @@
         "A-1624.3"
       ],
       "related_nodes": [
-        "N-10411"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:34:28",
@@ -1953,7 +2001,7 @@
         "A-1626.1"
       ],
       "related_nodes": [
-        "N-10412"
+        "N-10385"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24",
@@ -2072,7 +2120,7 @@
       "claim": "The host says that during June 2025, according to Tucker Carlson and others who have spoken about it, Charlie Kirk went head to head with Benjamin Netanyahu.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2095,7 +2143,7 @@
       "claim": "The host says Kirk lobbied President Trump in June not to get involved in Israel's war with Iran, saying any action should be limited to taking out the nuclear sites.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2117,7 +2165,7 @@
       "claim": "The host says Kirk was adamant that a war with Iran would not benefit the Trump campaign or the American people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2222,7 +2270,7 @@
         "A-3213.1"
       ],
       "related_nodes": [
-        "N-10962"
+        "N-10883"
       ],
       "tags": [
         "relevance:context"
@@ -2245,8 +2293,8 @@
         "A-3214.1"
       ],
       "related_nodes": [
-        "N-10310",
-        "N-10074"
+        "N-10292",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2268,8 +2316,8 @@
         "A-3214.1"
       ],
       "related_nodes": [
-        "N-10310",
-        "N-10074"
+        "N-10292",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2294,8 +2342,8 @@
         "A-3214.1"
       ],
       "related_nodes": [
-        "N-10310",
-        "N-10309"
+        "N-10292",
+        "N-10291"
       ],
       "tags": [
         "relevance:core"
@@ -2322,8 +2370,8 @@
         "A-3214.1"
       ],
       "related_nodes": [
-        "N-10074",
-        "N-10310"
+        "N-10071",
+        "N-10292"
       ],
       "tags": [
         "relevance:core"
@@ -2345,7 +2393,7 @@
         "A-3214.1"
       ],
       "related_nodes": [
-        "N-10310"
+        "N-10292"
       ],
       "tags": [
         "relevance:core"
@@ -2368,7 +2416,7 @@
       "claim": "The host says she has learned that Provo basically has a city underground, and she speculates it would be a good place to send a very important person out of Israel during wartime.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:context"
@@ -2388,7 +2436,7 @@
       "claim": "The host says there were some strange government cancellations in Provo during that period and defers the detail to a later Egyptian planes episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:context"
@@ -2410,8 +2458,8 @@
         "A-3214.1"
       ],
       "related_nodes": [
-        "N-11079",
-        "N-10539"
+        "N-10997",
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2436,7 +2484,7 @@
         "A-1626.1"
       ],
       "related_nodes": [
-        "N-10412"
+        "N-10385"
       ],
       "tags": [
         "relevance:core"
@@ -2461,7 +2509,7 @@
       "claim": "The host says the U.S. decided to bomb in a limited military exercise, after which everyone said the war with Iran was over and the people warning of a wider war were wrong, but she and her side insisted they were not wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11079"
+        "N-10997"
       ],
       "tags": [
         "relevance:context"
@@ -2481,7 +2529,7 @@
       "claim": "The host says that because Netanyahu wants what he wants, the June strikes were just a pause, and that people are now demanding the U.S. get more involved in Iran.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:context"
@@ -2520,7 +2568,7 @@
       "claim": "The host asserts that Charlie Kirk's assassination was obviously a good thing for Benjamin Netanyahu's war ambitions in Iran; she states a benefit and does not say here that Netanyahu was involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2542,9 +2590,9 @@
       "claim": "The host says that in the previous episode she speculated, because she is an enemy of the faith division, that TPUSA Faith was created in the image of the Moonies, which she calls a Korean cult.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
-        "N-10402",
-        "N-10399"
+        "N-10371",
+        "N-10375",
+        "N-10372"
       ],
       "tags": [
         "relevance:context"
@@ -2564,7 +2612,7 @@
       "claim": "The host says that after she questioned TPUSA's expansion into estate planning for the elderly, TPUSA used to want just a donation and now wants supporters to put it in their wills.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10408",
+        "N-10381",
         "N-10000"
       ],
       "tags": [
@@ -2588,7 +2636,7 @@
       "claim": "The host recounts that the assassin of former Japanese prime minister Shinzo Abe (transcribed \"Shinzo Abe\") said Abe was to blame because the assassin's mother gave all her money to the Unification Church, leaving the family without enough to eat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10399"
+        "N-10372"
       ],
       "tags": [
         "relevance:context"
@@ -2611,7 +2659,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10382"
       ],
       "tags": [
         "relevance:context"
@@ -2637,7 +2685,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10382"
       ],
       "tags": [
         "relevance:context"
@@ -2663,7 +2711,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10382"
       ],
       "tags": [
         "relevance:context"
@@ -2706,7 +2754,7 @@
         "A-1621.1"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [
         "relevance:context"
@@ -2729,7 +2777,7 @@
         "A-1621.1"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [
         "relevance:context"
@@ -2752,7 +2800,7 @@
         "A-1622.2"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [
         "relevance:context"
@@ -2795,8 +2843,8 @@
         "A-1622.1"
       ],
       "related_nodes": [
-        "N-11238",
-        "N-10410"
+        "N-11154",
+        "N-10383"
       ],
       "tags": [
         "relevance:context"
@@ -2816,7 +2864,7 @@
       "claim": "The host says the group Aquino describes follows the Egyptian Book of the Dead and believes it can make itself godlike by violating nature, and says part of their ritual is to harm the innocent because that is unnatural.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11238"
+        "N-11154"
       ],
       "tags": [
         "relevance:tangential"
@@ -2837,7 +2885,7 @@
       "claim": "The host says the people behind these practices have always been in power, have been backed by the bankers and are in charge of the military's psychological operations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [
         "relevance:tangential"
@@ -2859,7 +2907,7 @@
         "A-1623.2"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [
         "relevance:context"
@@ -2882,8 +2930,8 @@
       "claim": "The host says Michael Aquino was trained at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11338",
-        "N-10410"
+        "N-11254",
+        "N-10383"
       ],
       "tags": [
         "relevance:context"
@@ -2904,7 +2952,7 @@
       "claim": "The host says Fort Huachuca is the hub for intelligence operations and that many scandals have happened there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11338"
+        "N-11254"
       ],
       "tags": [
         "relevance:context"
@@ -2927,9 +2975,9 @@
       "claim": "The host says that her audience endured and survived a psychological operation when Mitch Snow said he saw Brian Harpole and Erika Kirk at Fort Huachuca on different days in the days before the assassination, which she links to the internet screaming at them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373",
-        "N-10417",
-        "N-11338"
+        "N-10347",
+        "N-10390",
+        "N-11254"
       ],
       "tags": [
         "relevance:core"
@@ -2978,10 +3026,10 @@
         "A-3215.1"
       ],
       "related_nodes": [
-        "N-11203",
-        "N-11340",
-        "N-10411",
-        "N-10398"
+        "N-11119",
+        "N-11256",
+        "N-10384",
+        "N-10371"
       ],
       "tags": [
         "relevance:core"
@@ -3005,7 +3053,7 @@
       "claim": "The host says Erika Kirk has Andrew Kolvet as her PR, and describes him as live-texting people and getting caught doing things behind the scenes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11182"
+        "N-11098"
       ],
       "tags": [
         "relevance:context"
@@ -3029,8 +3077,8 @@
         "A-1624.2"
       ],
       "related_nodes": [
-        "N-10411",
-        "N-11340"
+        "N-10384",
+        "N-11256"
       ],
       "tags": [
         "relevance:context"
@@ -3053,7 +3101,7 @@
       "claim": "The host says that Kolvet is from that area (she names Santa Barbara) and that the McCoys are from there as well, in the context of the Riverside, California Harvest church.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11340"
+        "N-11256"
       ],
       "tags": [
         "relevance:context"
@@ -3077,8 +3125,8 @@
         "A-1624.1"
       ],
       "related_nodes": [
-        "N-10411",
-        "N-11340"
+        "N-10384",
+        "N-11256"
       ],
       "tags": [
         "relevance:context"
@@ -3101,8 +3149,8 @@
         "A-1624.1"
       ],
       "related_nodes": [
-        "N-10411",
-        "N-11340"
+        "N-10384",
+        "N-11256"
       ],
       "tags": [
         "relevance:context"
@@ -3124,7 +3172,7 @@
       "claim": "The host says a group of South Korean women has filed an unprecedented lawsuit against the United States military over running a brothel where its forces are stationed in South Korea.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:tangential"
@@ -3144,8 +3192,8 @@
       "claim": "The host says military people, and people adjacent to the military, who go abroad are quite immune to prosecution because of a deal struck between governments allowing them to do whatever they want on their base; she says she reached out to people about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11339",
-        "N-10401"
+        "N-11255",
+        "N-10374"
       ],
       "tags": [
         "relevance:context"
@@ -3165,7 +3213,7 @@
       "claim": "The host says people she reached out to told her that those at the top of a military base typically send out a woman, like Ghislaine Maxwell, who finds young women who can be manipulated and describes herself as a casting director to bring them onto the base.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11339"
+        "N-11255"
       ],
       "tags": [
         "relevance:context"
@@ -3209,7 +3257,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -3231,8 +3279,8 @@
         "A-1624.1"
       ],
       "related_nodes": [
-        "N-10411",
-        "N-11340"
+        "N-10384",
+        "N-11256"
       ],
       "tags": [
         "relevance:context"
@@ -3277,7 +3325,7 @@
       "claim": "The host says Anthony Aguilar went on Tucker Carlson's show, was attacked, and spoke about Johnnie Moore and fake Gaza humanitarian aid that she says let Palestinian children and women be murdered.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10670"
+        "N-10610"
       ],
       "tags": [
         "relevance:tangential"
@@ -3378,7 +3426,7 @@
         "A-3217.1"
       ],
       "related_nodes": [
-        "N-10408"
+        "N-10381"
       ],
       "tags": [
         "relevance:context"
@@ -3401,7 +3449,7 @@
       "claim": "The host says people are not supposed to put their relatives in a home because these homes know what they are doing, and tells viewers to pay attention to relatives being cared for by caretakers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10408"
+        "N-10381"
       ],
       "tags": [
         "relevance:tangential"
@@ -3421,7 +3469,7 @@
       "claim": "The host says the CIA's Project Looking Glass used stolen Sumerian technology that allowed them to predict outcomes and that the technology stopped working in 2012, a topic she promises to cover the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10413"
+        "N-10386"
       ],
       "tags": [
         "relevance:tangential"

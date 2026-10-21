@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-901, N-11321
-  - Hole-minted Nodes (reintro-ep016): N-10176, N-10187, N-10206, N-10389, N-10424, N-10554, N-10598, N-10628, N-10641, N-10702, N-10735, N-10769
-  - Tip-minted Nodes (reintro-ep016): N-863, N-11013, N-11158
+  - Tip-minted Nodes (supplement_2026-10f): N-901, N-11237
+  - Hole-minted Nodes (reintro-ep016): N-10169, N-10179, N-10198, N-10362, N-10397, N-10507, N-10545, N-10574, N-10586, N-10669, N-10698
+  - Tip-minted Nodes (reintro-ep016): N-863, N-10933, N-11074
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1402–C-1510
-  - New Nodes Introduced: N-154, N-155, N-156, N-157, N-159, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
-  - Reused Nodes Appearing: N-153, N-4, N-5, N-11, N-27, N-30, N-38, N-46, N-49, N-50, N-82, N-99, N-118, N-125, N-201, N-204, N-10013, N-10018, N-10019, N-10032, N-10034, N-10041, N-10043, N-10044, N-10051, N-10056, N-10077, N-10085, N-10107, N-10118, N-10126, N-10133, N-10139, N-10143, N-10148, N-10151, N-10167, N-10270, N-10406, N-170
+  - New Nodes Introduced: N-154, N-155, N-156, N-157, N-159, N-10161, N-10162, N-10163, N-10164, N-10165, N-10166
+  - Reused Nodes Appearing: N-153, N-4, N-5, N-11, N-27, N-30, N-38, N-46, N-49, N-50, N-82, N-99, N-118, N-125, N-201, N-204, N-10013, N-10018, N-10019, N-10032, N-10033, N-10039, N-10040, N-10041, N-10048, N-10053, N-10074, N-10081, N-10103, N-10114, N-10121, N-10128, N-10134, N-10138, N-10143, N-10146, N-10160, N-10254, N-10379, N-170
 - **Episode Number:** Monument Episode 16 (Batch 6, Candace Ep 249)
 - **Channel / Creator:** @RealCandaceO (Candace Owens)
 - **Episode Date:** 2025-10-07
@@ -31,7 +31,7 @@
 
 - Artifact Families Introduced: A-1227, A-1228, A-1229, A-1230, A-1231, A-1232, A-1233, A-1234, A-1235
 - New Person Nodes Introduced: N-14, N-153, N-154, N-155, N-7, N-156, N-157, N-60, N-41, N-159
-- New Investigation Target Nodes Introduced: N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
+- New Investigation Target Nodes Introduced: N-10161, N-10162, N-10163, N-10164, N-10165, N-10166
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens); presumed-existing nodes for Tyler Robinson, Lance Twiggs, George Zinn (referred to by descriptive name; IDs not confirmed in ledger header)
 
 ---
@@ -299,7 +299,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (tip-stage)
-*Related: C-1471, N-3, George Zinn (existing node), N-10170*
+*Related: C-1471, N-3, George Zinn (existing node), N-10163*
 
 ---
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:07:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-1410, C-1412, C-1413, N-1, N-3, N-40, N-901, N-118, N-10206, N-11158*
+*Related: C-1410, C-1412, C-1413, N-1, N-3, N-40, N-901, N-118, N-10198, N-11074*
 
 ---
 
@@ -340,7 +340,7 @@ Video Timestamp: 00:12:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-1426, N-1, N-201, N-10206*
+*Related: C-1426, N-1, N-201, N-10198*
 
 ---
 
@@ -366,7 +366,7 @@ Video Timestamp: 00:26:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-1453, C-1454, C-1456, C-1457, C-1458, N-3, N-49, N-170, N-10176*
+*Related: C-1453, C-1454, C-1456, C-1457, C-1458, N-3, N-49, N-170, N-10169*
 
 ---
 
@@ -379,7 +379,7 @@ Video Timestamp: 00:57:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-1504, N-1, N-3, N-11321*
+*Related: C-1504, N-1, N-3, N-11237*
 
 ---
 
@@ -528,7 +528,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
+**N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
 
 Investigation target: verification of whether Lance Twiggs is the individual in the maroon shirt seen in the released imagery. Candace asserts his build is "nothing like Tyler Robinson's build" and hypothesizes Twiggs is the maroon-shirt wearer.
 
@@ -541,7 +541,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Investigation target: verification of Hammer's claim of a Zoom call with Charlie Kirk the night before Kirk's death, including attendee list and discussion content.
 
@@ -554,7 +554,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10170** George Zinn Federal Familial Connections (per tip)
+**N-10163** George Zinn Federal Familial Connections (per tip)
 
 Investigation target: verification of Candace's claim that Zinn has potential familial connections to a federal department.
 
@@ -567,7 +567,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10171** Tyler / Lance Apartment Lock Change Anomaly
+**N-10164** Tyler / Lance Apartment Lock Change Anomaly
 
 Investigation target: verification of the family's claim that apartment locks were illegally changed after the raid without their knowledge; identification of who authorized the change (Lance or federal actors).
 
@@ -580,7 +580,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10172** Multiple Decoys Theory (4 Decoys Named)
+**N-10165** Multiple Decoys Theory (4 Decoys Named)
 
 Investigation target: the structural theory advanced by Candace that the visible persons in the released imagery (George Zinn, "staircase guy," "maroon shirt guy," "Losee Center guy") are decoys rather than the shooter.
 
@@ -589,11 +589,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1235.4, N-10168, George Zinn (existing node)*
+*Related: A-1235.4, N-10161, George Zinn (existing node)*
 
 ---
 
-**N-10173** George Zinn Medical Payment Claim Verification
+**N-10166** George Zinn Hospital Payment Claim
 
 Investigation target: verification of the medical-staff-reported statement that Zinn claimed he was being paid to take responsibility for Kirk's death, with payment pending.
 
@@ -602,7 +602,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1235.4, C-1486, George Zinn (existing node), N-10170*
+*Related: A-1235.4, C-1486, George Zinn (existing node), N-10163*
 
 ---
 
@@ -838,7 +838,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10034** Lance Twiggs Family Allegations
+**N-10033** Lance Twiggs Family Allegations
 
 Existing topic reused for new claims in this episode.
 
@@ -846,7 +846,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10041** Note Under Keyboard Disposal
+**N-10039** Note Under Keyboard Disposal
 
 Existing topic reused for new claims in this episode.
 
@@ -854,7 +854,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10043** Two-Person Theory (Maroon vs Stairs)
+**N-10040** Two-Person Theory (Maroon vs Stairs)
 
 Existing topic reused for new claims in this episode.
 
@@ -862,7 +862,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10044** Lance Twiggs Protection Allegation
+**N-10041** Lance Twiggs Protection Allegation
 
 Existing topic reused for new claims in this episode.
 
@@ -870,7 +870,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -878,7 +878,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -886,7 +886,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Existing topic reused for new claims in this episode.
 
@@ -894,7 +894,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -902,7 +902,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10107** Crime Scene Pavers
+**N-10103** Crime Scene Pavers
 
 Existing topic reused for new claims in this episode.
 
@@ -910,7 +910,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10118** Candace UK Premonition / Husband Meeting
+**N-10114** Candace UK Premonition / Husband Meeting
 
 Existing topic reused for new claims in this episode.
 
@@ -918,7 +918,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10126** London / UK
+**N-10121** London / UK
 
 Existing topic reused for new claims in this episode.
 
@@ -926,7 +926,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10133** Federal Investigation Conduct Question
+**N-10128** Federal Investigation Conduct Question
 
 Existing topic reused for new claims in this episode.
 
@@ -934,7 +934,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Existing topic reused for new claims in this episode.
 
@@ -942,7 +942,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10143** Robinson Apartment Staging Allegation
+**N-10138** Robinson Apartment Staging Allegation
 
 Existing topic reused for new claims in this episode.
 
@@ -950,7 +950,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -958,7 +958,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10151** Mike Mitchell Undercover Role Verification
+**N-10146** Mike Mitchell Undercover Role Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -966,7 +966,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10167** Tyler Bowyer X Defense Pattern
+**N-10160** Tyler Bowyer X Defense Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -974,7 +974,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10176** Candace Kill Switch / Dead Man Switch
+**N-10169** Candace Kill Switch / Dead Man Switch
 
 Existing topic reused for new claims in this episode.
 
@@ -982,7 +982,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10187** Josh Hammer Text Messages Context
+**N-10179** Josh Hammer Text Messages Context
 
 Existing topic reused for new claims in this episode.
 
@@ -990,7 +990,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10206** TPUSA Text Chain Authenticity Verification
+**N-10198** TPUSA Text Chain Authenticity Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -998,7 +998,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing topic reused for new claims in this episode.
 
@@ -1006,7 +1006,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10389** Charlie Kirk Premonition Dreams
+**N-10362** Charlie Kirk Premonition Dreams
 
 Existing topic reused for new claims in this episode.
 
@@ -1014,7 +1014,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused for new claims in this episode.
 
@@ -1022,7 +1022,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10424** Nick Fuentes Federal Informant Allegation
+**N-10397** Nick Fuentes Federal Informant Allegation
 
 Existing topic reused for new claims in this episode.
 
@@ -1030,7 +1030,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10554** Andrew Kolvet 9/10 Flight Itinerary
+**N-10507** Andrew Kolvet 9/10 Flight Itinerary
 
 Existing topic reused for new claims in this episode.
 
@@ -1038,7 +1038,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10598** Lance Twiggs Federal Asset Question
+**N-10545** Lance Twiggs Federal Asset Question
 
 Existing topic reused for new claims in this episode.
 
@@ -1046,7 +1046,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+**N-10574** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 Existing topic reused for new claims in this episode.
 
@@ -1054,7 +1054,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10641** Andrew Kolvet Text Message Full Context Verification
+**N-10586** Andrew Kolvet Text Message Full Context Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -1062,15 +1062,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10702** Lance Twiggs Maroon Shirt Identification
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-1473*
-
----
-
-**N-10735** Rooftop Clothing Change Narrative
+**N-10669** Rooftop Clothing Change Narrative
 
 Existing topic reused for new claims in this episode.
 
@@ -1078,7 +1070,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10769** Losee Center Gun Verification Gap
+**N-10698** Losee Center Gun Verification Gap
 
 Existing topic reused for new claims in this episode.
 
@@ -1086,7 +1078,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11013** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification
+**N-10933** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -1094,7 +1086,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11158** Cult Accusation Against Candace Owens Audience
+**N-11074** Cult Accusation Against Candace Owens Audience
 
 Existing topic reused for new claims in this episode.
 
@@ -1110,9 +1102,9 @@ First named by the host at 00:07:45 in episode 16. Online commentator whose X po
 
 ---
 
-**N-11321** Kirk Security Team Name Identification
+**N-11237** Kirk Security Team Name Identification
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the host's statement that she holds the names of everyone on Charlie Kirk's security team, including people the earlier investigation could not identify.
 
 *Related: C-1504*
@@ -1381,7 +1373,7 @@ Claim: Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance
 
 Anchored Artifacts: A-1235.3
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10171
+Related Nodes: N-10164
 Investigative Direction: Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit).
 
 ---
@@ -1394,7 +1386,7 @@ Claim: Per a vetted tip relayed by Candace, George Zinn told multiple nurses and
 
 Anchored Artifacts: A-1235.4
 Mentions: N-3, N-42
-Related Nodes: N-10173
+Related Nodes: N-10166
 Investigative Direction: Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.
 
 ---
@@ -1407,7 +1399,7 @@ Claim: Per a tip relayed by Candace, George Zinn has potential familial connecti
 
 Anchored Artifacts: A-1235.5
 Mentions: N-3, N-42
-Related Nodes: N-10170
+Related Nodes: N-10163
 Investigative Direction: Identify which federal department is implicated; obtain any employment / family records.
 
 ---
@@ -1467,7 +1459,7 @@ Transcript Snippet: Charlie came to me and he told me that he was betrayed.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:context
 Investigative Direction: A dream cannot be checked; compare with the host's later statements naming who she thinks betrayed Kirk and with any witness accounts of Kirk's last days.
 
@@ -1513,7 +1505,7 @@ Transcript Snippet: They were making fake messages themselves.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10206
+Related Nodes: N-10198
 Tags: relevance:context
 Investigative Direction: Collect the fake-message posts and compare with Andrew Kolvet's later confirmation that the screen grab was authentic.
 
@@ -1529,7 +1521,7 @@ Transcript Snippet: First off, Candace has no credibility. Second, there's a bun
 
 Anchored Artifacts: A-3182.1
 Mentions: N-901, N-3, N-118
-Related Nodes: N-10206
+Related Nodes: N-10198
 Tags: relevance:context
 Investigative Direction: Pull the original Forbes post and its timestamp; check whether he later acknowledged the texts were authenticated by Andrew Kolvet.
 
@@ -1545,7 +1537,7 @@ Transcript Snippet: Lastly, even if the text messages were real, they mean liter
 
 Anchored Artifacts: A-3182.1
 Mentions: N-901, N-1, N-40
-Related Nodes: N-10206
+Related Nodes: N-10198
 Tags: relevance:context
 Investigative Direction: Pull the original post; compare with Andrew Kolvet's statement (C-1431 and C-1440) that the chain fits Kirk's known frustrations about Israel.
 
@@ -1561,7 +1553,7 @@ Transcript Snippet: I find it scary how Candace is building a literal cult. Soon
 
 Anchored Artifacts: A-3182.1
 Mentions: N-901, N-3
-Related Nodes: N-11158
+Related Nodes: N-11074
 Tags: relevance:context
 Investigative Direction: Pull the original post and any replies; this is an opinion attributed to Forbes and is recorded only as said.
 
@@ -1592,7 +1584,7 @@ Transcript Snippet: who is legally just, you know, not allowed to own a gun beca
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10628
+Related Nodes: N-10574
 Tags: relevance:tangential
 Investigative Direction: Look for court records of any firearm prohibition or involuntary hold concerning Loomer; the host cites none on air.
 
@@ -1608,7 +1600,7 @@ Transcript Snippet: It's going to be hilarious when she is sued by TPUSA in addi
 
 Anchored Artifacts: A-1227.4
 Mentions: N-60, N-82, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:context
 Investigative Direction: Pull the original Loomer post and check for any TPUSA legal filing against the host; the Macron suit is a separate matter.
 
@@ -1654,7 +1646,7 @@ Transcript Snippet: I have no idea while why why Megyn Kelly is being just abuse
 
 Anchored Artifacts: 
 Mentions: N-46, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Compare with the host's earlier claim (C-1153) that agents press Kelly to denounce her; find the original post.
 
@@ -1685,7 +1677,7 @@ Transcript Snippet: Nick Fuentes, our uh uh routine federal informant wrote writ
 
 Anchored Artifacts: A-1227.6
 Mentions: N-201
-Related Nodes: N-10424
+Related Nodes: N-10397
 Tags: relevance:context
 Investigative Direction: The host gives no evidence; look for any court or FOIA record or named source on the allegation, and treat it as unproven.
 
@@ -1701,7 +1693,7 @@ Transcript Snippet: why did she sit on this for four weeks and then censor the o
 
 Anchored Artifacts: A-1227.6
 Mentions: N-201, N-3
-Related Nodes: N-10206
+Related Nodes: N-10198
 Tags: relevance:context
 Investigative Direction: Obtain the uncensored chain from the host or from Kolvet's shared screen grab to see who was in it; compare with C-1352 (Josh Hammer named).
 
@@ -1717,7 +1709,7 @@ Transcript Snippet: Charlie Kirk said he had no choice to lead the pro-Israel ca
 
 Anchored Artifacts: A-3183.1
 Mentions: N-201, N-1
-Related Nodes: N-10206
+Related Nodes: N-10198
 Supports: C-1349
 Tags: relevance:context
 Investigative Direction: Pull the original Fuentes post and compare with the text chain wording on the lost donor money; identify the donor.
@@ -1764,7 +1756,7 @@ Transcript Snippet: First off, I'm not even inclined towards tech, but also woul
 
 Anchored Artifacts: A-1232.1
 Mentions: N-3
-Related Nodes: N-10206
+Related Nodes: N-10198
 Supports: C-1431
 Tags: relevance:core
 Investigative Direction: Kolvet's confirmation (C-1431) already authenticates the screen grab; ask him or TPUSA whether the full chain matches the one the host released.
@@ -1781,7 +1773,7 @@ Transcript Snippet: I first want to say the reason I have I didn't share that sc
 
 Anchored Artifacts: A-1228.1
 Mentions: N-14, N-1
-Related Nodes: N-10206, N-10641
+Related Nodes: N-10198, N-10586
 Tags: relevance:core
 Investigative Direction: Obtain the Charlie Kirk Show audio and date; ask Kolvet why he judged the exchange inconsistent with Kirk's public position.
 
@@ -1797,7 +1789,7 @@ Transcript Snippet: one of the criticisms we've been we've received is that we d
 
 Anchored Artifacts: A-1228.2
 Mentions: N-14, N-1
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to list the leads it has pursued and any investigators it hired; compare with the host's account of TPUSA hostility to her inquiries.
 
@@ -1813,7 +1805,7 @@ Transcript Snippet: I wasn't an eyewitness. I was not there. I flew to Utah imme
 
 Anchored Artifacts: A-1228.3
 Mentions: N-14
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Compare with flight and itinerary records for Kolvet on September 10 and 11, 2025 and with his later tarmac account.
 
@@ -1844,7 +1836,7 @@ Transcript Snippet: I will say that that text chain is consistent with public fr
 
 Anchored Artifacts: A-1228.4
 Mentions: N-14, N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: List the public occasions where Kirk voiced these frustrations and compare with the dated texts.
 
@@ -1860,7 +1852,7 @@ Transcript Snippet: Blake, you were in the trenches on a lot of this stuff becau
 
 Anchored Artifacts: A-1228.4
 Mentions: N-14, N-159, N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and Neff for the tour prep notes or messages about the Israel question.
 
@@ -1876,7 +1868,7 @@ Transcript Snippet: Uh it has to do with the broader question of people feeling 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Search the host's prior episodes for any statement attributing the killing to Israel; this is the host's own account of her position.
 
@@ -1923,7 +1915,7 @@ Transcript Snippet: make sure that Tyler Bowyer and Alex Clark get the internal 
 
 Anchored Artifacts: 
 Mentions: N-11, N-99, N-14, N-1
-Related Nodes: N-10167
+Related Nodes: N-10160
 Tags: relevance:core
 Investigative Direction: Collect Bowyer and Clark posts from the days before to see whether they attacked people asking questions.
 
@@ -1939,7 +1931,7 @@ Transcript Snippet: He had not expressed that to me. So I am telling you this ba
 
 Anchored Artifacts: A-1235.1
 Mentions: N-1, N-3
-Related Nodes: N-11013
+Related Nodes: N-10933
 Supports: C-1445
 Tags: relevance:core
 Investigative Direction: Ask the three sources, through the host, to go on the record or produce the written communication two of them reportedly hold.
@@ -1956,7 +1948,7 @@ Transcript Snippet: the reason that I waited to reveal the text messages is beca
 
 Anchored Artifacts: A-1227.6
 Mentions: N-3
-Related Nodes: N-10206
+Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Establish the date the host received the chain; the host has not published it on air. Compare with Fuentes's four-week question (C-1421).
 
@@ -1972,7 +1964,7 @@ Transcript Snippet: He has been spreading lies, saying that Charlie never flinch
 
 Anchored Artifacts: A-1234.1
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10187
+Related Nodes: N-10179
 Tags: relevance:context
 Investigative Direction: Collect Hammer's public statements since September 10 and compare with the chain in which he is a participant (C-1352).
 
@@ -1988,7 +1980,7 @@ Transcript Snippet: 48 hours before Josh Hammer was on that text thread.
 
 Anchored Artifacts: A-1232.1
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10187
+Related Nodes: N-10179
 Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Establish the dates of the messages in the chain; the host's phrasing is ambiguous, so confirm what the 48 hours measures.
@@ -2036,7 +2028,7 @@ Transcript Snippet: I went ahead this week and sent around a life insurance poli
 
 Anchored Artifacts: A-3185.1
 Mentions: N-3
-Related Nodes: N-10176
+Related Nodes: N-10169
 Tags: relevance:context
 Investigative Direction: Ask the host for the date and the number of recipients; the contents were not shown, and the package cannot be checked without them.
 
@@ -2082,7 +2074,7 @@ Transcript Snippet: if anything happens to me, they have my explicit permission 
 
 Anchored Artifacts: A-3185.1
 Mentions: N-3
-Related Nodes: N-10176
+Related Nodes: N-10169
 Tags: relevance:context
 Investigative Direction: Nothing to verify until a release occurs; ask the host whether the recipients are named.
 
@@ -2098,7 +2090,7 @@ Transcript Snippet: I highly recommend every single person that is out there tha
 
 Anchored Artifacts: A-3185.1
 Mentions: N-3
-Related Nodes: N-10176
+Related Nodes: N-10169
 Tags: relevance:tangential
 Investigative Direction: A recommendation that cannot be verified; recorded to track the dead man switch theme.
 
@@ -2114,7 +2106,7 @@ Transcript Snippet: I sent it to journalists, text messages, and screenshots to 
 
 Anchored Artifacts: A-3185.1
 Mentions: N-3, N-49, N-170
-Related Nodes: N-10176
+Related Nodes: N-10169
 Tags: relevance:context
 Investigative Direction: Ask Blumenthal and Tate or their staff whether they received the material; the host does not say what was sent to whom.
 
@@ -2145,7 +2137,7 @@ Transcript Snippet: he wasn't wearing body armor. And two, it doesn't deflect li
 
 Anchored Artifacts: A-1229.2
 Mentions: N-153, N-1
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-1116).
 
@@ -2161,7 +2153,7 @@ Transcript Snippet: people being interviewed saying, "Yeah, they came from my le
 
 Anchored Artifacts: A-1229.2
 Mentions: N-153, N-1
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1461).
 
@@ -2177,7 +2169,7 @@ Transcript Snippet: saliloquy of text messages that 22-year-olds don't send thei
 
 Anchored Artifacts: A-1229.2
 Mentions: N-153, N-40
-Related Nodes: N-10077
+Related Nodes: N-10074
 Supports: C-300
 Tags: relevance:core
 Investigative Direction: Compare the indictment text with Robinson's other messages and with linguistic analysis of the chain.
@@ -2194,7 +2186,7 @@ Transcript Snippet: The feds only lie to cover their own tracks. They are protec
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Supports: C-1325
 Tags: relevance:core
 Investigative Direction: The host names no specific lie in this passage; map it to the specific statements she disputes later in the episode.
@@ -2211,7 +2203,7 @@ Transcript Snippet: I actually believe that this was a military hit that involve
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10172
+Related Nodes: N-10165
 Tags: relevance:core
 Investigative Direction: The host presents it as a belief; look for any evidence she cites later and compare with her C-1181 hunch about a military operation by people from overseas.
 
@@ -2227,7 +2219,7 @@ Transcript Snippet: I believe that that day ran uh something akin to JFK's assas
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10172
+Related Nodes: N-10165
 Tags: relevance:core
 Investigative Direction: Identify the decoy persons and the footage she relies on; the host calls this a theory and a hunch.
 
@@ -2243,7 +2235,7 @@ Transcript Snippet: I do not believe, just so I'm clear here, that the person wh
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10043, N-10172
+Related Nodes: N-10040, N-10165
 Tags: relevance:core
 Investigative Direction: Obtain the FBI release metadata for the stairs photo and any earlier-dated copies.
 
@@ -2259,7 +2251,7 @@ Transcript Snippet: I do not believe that the person who ran across Losee roofto
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10172, N-10769
+Related Nodes: N-10165, N-10698
 Tags: relevance:core
 Investigative Direction: Obtain the rooftop footage, the ballistics trajectory report and the scene survey; compare with the rooftop-runner witness claims in episode 10.
 
@@ -2275,7 +2267,7 @@ Transcript Snippet: there are thus for a total of four decoys like George Zinn, 
 
 Anchored Artifacts: 
 Mentions: N-42, N-3
-Related Nodes: N-10172, N-10032
+Related Nodes: N-10165, N-10032
 Tags: relevance:core
 Investigative Direction: Ask the host to identify each decoy by footage time and to say who she thinks fired; verify each against official release materials.
 
@@ -2291,7 +2283,7 @@ Transcript Snippet: I think it's much more likely that Lance Twiggs is the one t
 
 Anchored Artifacts: 
 Mentions: N-54, N-40
-Related Nodes: N-10168, N-10702
+Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Compare heights and builds from known photographs of Twiggs and Robinson with the maroon-shirt footage, and confirm Twiggs's whereabouts that morning.
 
@@ -2307,7 +2299,7 @@ Transcript Snippet: I believe Tyler Robinson was involved and he was in fact dri
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10735, N-10019
+Related Nodes: N-10669, N-10019
 Tags: relevance:core
 Investigative Direction: Obtain vehicle, license plate reader and campus camera records for Robinson's movements on September 10.
 
@@ -2323,7 +2315,7 @@ Transcript Snippet: Tyler was seen at Dairy Queen and what was he seen doing? As
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10051
+Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Identify the source of the dumping sighting and any Dairy Queen or cemetery camera footage and receipts.
 
@@ -2339,7 +2331,7 @@ Transcript Snippet: Uh it's completely a nonsense to think that a person who had
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10051
+Related Nodes: N-10048
 Tags: relevance:context
 Investigative Direction: This is the host's inference; compare with the Dairy Queen photo time (C-403) and any physiology expert comment.
 
@@ -2355,7 +2347,7 @@ Transcript Snippet: It's why they are freaking out about that Dairy Queen leak b
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10051
+Related Nodes: N-10048
 Tags: relevance:context
 Investigative Direction: Identify who the host means by officials and whether any agency reaction to the leak is documented.
 
@@ -2371,7 +2363,7 @@ Transcript Snippet: So, I feel confident, or I shouldn't say completely confiden
 
 Anchored Artifacts: 
 Mentions: N-54, N-40
-Related Nodes: N-10598, N-10044, N-10013
+Related Nodes: N-10545, N-10041, N-10013
 Tags: relevance:core
 Investigative Direction: Look for records of any federal contact with Twiggs; the host labels this a guess and offers no document.
 
@@ -2387,7 +2379,7 @@ Transcript Snippet: the government lied when they said, uh, Lance, you know, I'm
 
 Anchored Artifacts: A-1235.2
 Mentions: N-41, N-54, N-40, N-3
-Related Nodes: N-10034
+Related Nodes: N-10033
 Contradicts: C-136
 Tags: relevance:core
 Investigative Direction: Obtain the press conference transcript, the search warrant return and bodycam or interview logs showing what Lance handed over and when he was released.
@@ -2404,7 +2396,7 @@ Transcript Snippet: They were going off of Mike, the mysterious detective Mike M
 
 Anchored Artifacts: 
 Mentions: N-125, N-40
-Related Nodes: N-10151
+Related Nodes: N-10146
 Tags: relevance:core
 Investigative Direction: Compare with episode 11 accounts of a retired detective's call and with the warrant affidavit and its timeline.
 
@@ -2420,7 +2412,7 @@ Transcript Snippet: Now, the feds are staging this entire operation. So, that wo
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10143, N-10041
+Related Nodes: N-10138, N-10039
 Tags: relevance:core
 Investigative Direction: Obtain the search warrant inventory and any chain of custody for the note, the photo metadata and the iCloud record.
 
@@ -2436,7 +2428,7 @@ Transcript Snippet: Lance has similarly been in an unknown known location since 
 
 Anchored Artifacts: A-1235.3
 Mentions: N-54
-Related Nodes: N-10044
+Related Nodes: N-10041
 Tags: relevance:core
 Investigative Direction: Check public sightings of Twiggs and any family statements about contact since the raid; compare with the family's account (C-1480).
 
@@ -2452,7 +2444,7 @@ Transcript Snippet: I never for a second thought the person that was in the maro
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10043, N-10168
+Related Nodes: N-10040, N-10161
 Supports: C-348
 Tags: relevance:core
 Investigative Direction: Compare gait, build and clothing in the maroon-shirt footage and the limping-person footage.
@@ -2469,7 +2461,7 @@ Transcript Snippet: it would be very interesting if the feds were going to pay G
 
 Anchored Artifacts: 
 Mentions: N-42, N-3
-Related Nodes: N-10173, N-10170
+Related Nodes: N-10166, N-10163
 Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Obtain any records of payment to Zinn and the tip source for his federal connections; the host says she has not yet confirmed the tip.
@@ -2486,7 +2478,7 @@ Transcript Snippet: Other people that they were questioning that they did not sh
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Ask the host for the number of such people and her sources; compare with FBI and county witness lists.
 
@@ -2502,7 +2494,7 @@ Transcript Snippet: they are not asking everyone to be silent because they are s
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Supports: C-1325
 Tags: relevance:core
 Investigative Direction: Identify any gag order, non-disclosure request or agency instruction to witnesses and compare with court dockets.
@@ -2549,7 +2541,7 @@ Transcript Snippet: And that event was when I first laid eyes on George. Not whe
 
 Anchored Artifacts: 
 Mentions: N-30, N-154, N-3
-Related Nodes: N-10118, N-10126
+Related Nodes: N-10114, N-10121
 Tags: relevance:tangential
 Investigative Direction: Compare with episode 9 claims on the UK trip and husband meeting (C-762, C-760). Note that draft claim C-1492 reads George here as Zinn, which the context does not support.
 
@@ -2595,7 +2587,7 @@ Transcript Snippet: a crime scene apparently completely destroyed in days and pl
 
 Anchored Artifacts: A-1231.1
 Mentions: N-154, N-155
-Related Nodes: N-10107
+Related Nodes: N-10103
 Supports: C-1465
 Tags: relevance:core
 Investigative Direction: Obtain UVU work orders and photographs of the site showing when cleanup and paving occurred.
@@ -2672,7 +2664,7 @@ Transcript Snippet: I do. I have everybody's names, the people that we couldn't 
 
 Anchored Artifacts: A-3186.1
 Mentions: N-3, N-1
-Related Nodes: N-11321
+Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Ask the host to publish the roster or give it to a named reviewer; compare against the security firm and personnel lists in episodes 13 and 60.
 
@@ -2688,7 +2680,7 @@ Transcript Snippet: as I showed you yesterday, you know, pastors that have been 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10139
+Related Nodes: N-10134
 Supports: C-1391
 Tags: relevance:context
 Investigative Direction: Review the pastor sermon clips from the prior episode and identify the pastors.
@@ -2720,7 +2712,7 @@ Transcript Snippet: He knew. He would know. He knew he was going to be killed.
 
 Anchored Artifacts: A-1233.1
 Mentions: N-1, N-7
-Related Nodes: N-11013
+Related Nodes: N-10933
 Supports: C-1445
 Tags: relevance:core
 Investigative Direction: Obtain the Turek podcast clip and the three sources' written communication; compare dates against the claim that Kirk feared being killed the day before.

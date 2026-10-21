@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 4b6e184f626db3b6b36ff537b80ba53f94d4abe1f21b413f75e391ab5ac5370a
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-876, N-11281
-  - Hole-minted Nodes (reintro-ep039): N-10397
-  - Tip-minted Nodes (reintro-ep039): N-11202
+  - Tip-minted Nodes (supplement_2026-10e): N-876, N-11197
+  - Hole-minted Nodes (reintro-ep039): N-10370
+  - Tip-minted Nodes (reintro-ep039): N-11118
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3408–C-3508
-  - New Nodes Introduced: N-291, N-292, N-293, N-294, N-295, N-296, N-297, N-299, N-300, N-10298, N-10300, N-10301, N-10302, N-10304, N-10305, N-10306
-  - Reused Nodes Appearing: N-1, N-11, N-37, N-10299, N-10303, N-5, N-7, N-8, N-9, N-17, N-22, N-36, N-82, N-227, N-228, N-279, N-10012, N-10132, N-10134, N-10224, N-10253, N-10265, N-10266, N-10269, N-10270, N-10273, N-10276, N-10279, N-10285, N-10286, N-10288, N-10289, N-10290, N-10291, N-10295, N-10342, N-10434, N-10870, N-11008, N-11235, N-11278, N-10456, N-11129
+  - New Nodes Introduced: N-291, N-292, N-293, N-294, N-295, N-296, N-297, N-299, N-300, N-10280, N-10282, N-10283, N-10284, N-10286, N-10287, N-10288
+  - Reused Nodes Appearing: N-1, N-11, N-37, N-10281, N-10285, N-5, N-7, N-8, N-9, N-17, N-22, N-36, N-82, N-227, N-228, N-279, N-10012, N-10127, N-10129, N-10211, N-10239, N-10249, N-10250, N-10253, N-10254, N-10257, N-10259, N-10262, N-10267, N-10268, N-10270, N-10271, N-10272, N-10273, N-10277, N-10320, N-10404, N-10791, N-10928, N-11151, N-11194, N-10425, N-11047
   - (see registers)
 
 # Episode 39 Analysis
@@ -39,7 +39,7 @@
 
 - Artifact Families Introduced: A-1480, A-1481, A-1482, A-1483, A-1484, A-1485, A-1486, A-1487, A-1488, A-2513
 - New Person Nodes Introduced: N-291, N-292, N-293, N-294, N-295, N-296, N-190, N-186, N-297, N-41, N-217, N-299, N-300, N-15
-- New Investigation Target Nodes Introduced: N-10298, N-10299, N-10300, N-10301, N-10302, N-10303, N-10304, N-10305, N-10306
+- New Investigation Target Nodes Introduced: N-10280, N-10281, N-10282, N-10283, N-10284, N-10285, N-10286, N-10287, N-10288
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -64,7 +64,7 @@ Video Timestamp: 00:06:34–00:10:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3415, C-3416, C-3420, C-3423, C-3424, C-3427, N-292, N-293, N-294, N-295, N-296, N-299, N-300, N-10306*
+*Related: C-3415, C-3416, C-3420, C-3423, C-3424, C-3427, N-292, N-293, N-294, N-295, N-296, N-299, N-300, N-10288*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:28:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3469, N-186, N-297, N-10298, N-10300*
+*Related: C-3469, N-186, N-297, N-10280, N-10282*
 
 **A-1486.2** Testimony from two TPUSA sources that the donor prospect was French American, named Pierre
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:30:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3475, N-186, N-10298*
+*Related: C-3475, N-186, N-10280*
 
 **A-1486.3** TPUSA sources identifying the donor prospect as Pierre Dupont after host mentioned the name on the prior episode
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:32:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3476, N-186, N-297, N-10298*
+*Related: C-3476, N-186, N-297, N-10280*
 
 **A-1486.4** Proof presented by a TPUSA source of a conversation in which Tyler Bowyer discussed TPUSA plans to roll out a program to build houses for first-time home buyers
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:47:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3495, N-186, N-41, N-10301, N-11*
+*Related: C-3495, N-186, N-41, N-10283, N-11*
 
 ---
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:37:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3480, N-10299*
+*Related: C-3480, N-10281*
 
 ---
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:33:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3477, N-10302, N-10305*
+*Related: C-3477, N-10284, N-10287*
 
 ---
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:10:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3430, C-3431, C-3432, N-3, N-186, N-10289, N-10288*
+*Related: C-3430, C-3431, C-3432, N-3, N-186, N-10271, N-10270*
 
 ---
 
@@ -261,7 +261,7 @@ Video Timestamp: 00:27:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3468, N-3, N-15, N-10300*
+*Related: C-3468, N-3, N-15, N-10282*
 
 ---
 
@@ -290,7 +290,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-3420, N-292, N-10303, N-10306*
+*Related: A-1480.1, C-3420, N-292, N-10285, N-10288*
 
 **N-292** Robert Richards IV
 
@@ -301,7 +301,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-3415, C-3416, C-3420, C-3423, N-293, N-300, N-10306*
+*Related: A-1480.1, C-3415, C-3416, C-3420, C-3423, N-293, N-300, N-10288*
 
 **N-300** Judge Jan Jurden
 
@@ -323,7 +323,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-3424, N-299, N-10306*
+*Related: A-1480.1, C-3424, N-299, N-10288*
 
 **N-299** David Schultz
 
@@ -345,7 +345,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-3427, N-296, N-10306*
+*Related: A-1480.1, C-3427, N-296, N-10288*
 
 **N-296** Christopher Moseley
 
@@ -356,7 +356,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1480.1, C-3427, N-295, N-10306*
+*Related: A-1480.1, C-3427, N-295, N-10288*
 
 **N-186** Stacy Sheridan
 
@@ -367,7 +367,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-41, N-10301, N-10304, N-11*
+*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-41, N-10283, N-10286, N-11*
 
 **N-297** Tyler Bowyer's brother (unnamed)
 
@@ -378,7 +378,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-41, N-10301, N-11*
+*Related: N-41, N-10283, N-11*
 
 **N-190** Mikey McCoy
 
@@ -413,7 +413,7 @@ Investigative Pressure: Low
 
 *Related: N-1*
 
-**N-10298** Pierre Dupont Donor Identity Verification Question
+**N-10280** Pierre Dupont Donor Identity Verification Question
 
 Persistent target: whether the "French-American Pierre" referenced by TPUSA sources is Pierre Dupont, and the nature of his reported donor relationship with TPUSA.
 
@@ -424,7 +424,7 @@ Investigative Pressure: High
 
 *Related: A-1486.1, A-1486.2, A-1486.3, C-3475, C-3476, N-186*
 
-**N-10299** TPUSA Egyptian Plane Story Suppression Attempt
+**N-10281** TPUSA Egyptian Plane Story Suppression Attempt
 
 Per federal source, TPUSA allegedly placed personal request to kill the Egyptian plane story.
 
@@ -435,7 +435,7 @@ Investigative Pressure: Medium
 
 *Related: A-1487.1, C-3480*
 
-**N-10300** Justin Streiff Post-Assassination Phone Call
+**N-10282** Justin Streiff Post-Assassination Phone Call
 
 Six TPUSA sources reported rumor that Streiff placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.
 
@@ -446,7 +446,7 @@ Investigative Pressure: High
 
 *Related: A-1486.1, C-3469, N-15*
 
-**N-10301** TPUSA Real Estate Program Allegation
+**N-10283** TPUSA Real Estate Program Allegation
 
 Per source testimony with supporting proof, Tyler Bowyer discussed TPUSA plans to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.
 
@@ -457,7 +457,7 @@ Investigative Pressure: Medium
 
 *Related: A-1486.4, C-3495, N-186, N-297, N-41, N-11*
 
-**N-10302** BB Net/Yahoo Offer to TPUSA
+**N-10284** BB Net/Yahoo Offer to TPUSA
 
 Per host narrative (not artifact-anchored), BB Net and Yahoo allegedly offered to take TPUSA to the next level in exchange for unspecified consideration; Charlie allegedly declined. Andrew Kolvet tip indirectly references "BB." Identity of BB unverified.
 
@@ -468,7 +468,7 @@ Investigative Pressure: Medium
 
 *Related: A-1488.1, N-1*
 
-**N-10303** Richards Layton & Finger Connection to Candace Lawsuit
+**N-10285** Richards Layton & Finger Connection to Candace Lawsuit
 
 Per host, the law firm whose retired founding partner is DuPont family (Robert H. Richards III) is the firm filing paperwork in Candace's McRonone lawsuit. Requires verification.
 
@@ -479,7 +479,7 @@ Investigative Pressure: Medium
 
 *Related: A-1480.1, N-293*
 
-**N-10304** Stacy Sheridan Registered Agent and LLC Question
+**N-10286** Stacy Sheridan Registered Agent and LLC Question
 
 Per host (not artifact-anchored), Stacy Sheridan's registered agent is at 919 North Market Street, Wilmington (same building as Brijit Lawyers); relevant LLC named as Cloverstone Ventures. Verification pending.
 
@@ -490,7 +490,7 @@ Investigative Pressure: Medium
 
 *Related: N-186*
 
-**N-10305** Andrew Kolvet "Lost Millions" Tip Verification
+**N-10287** Andrew Kolvet "Lost Millions" Tip Verification
 
 Per written tip from Andrew Kolvet family friend, Andrew stated Charlie lost millions by declining BB's offer. Andrew Kolvet described as acting "weird" per tipster.
 
@@ -499,9 +499,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1488.1, C-3477, N-10302*
+*Related: A-1488.1, C-3477, N-10284*
 
-**N-10306** DuPont Family Pattern of Crimes
+**N-10288** DuPont Family Pattern of Crimes
 
 Aggregating pattern: Richards IV rape conviction with no prison; John DuPont murder of David Schultz; Lisa Dean DuPont / Mosley murder for hire of Vegas prostitute.
 
@@ -660,7 +660,7 @@ Utah Valley University; host recounts when its chapter's event request and first
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 TPUSA DOGE audit; host recounts the September 2 email announcing it.
 
@@ -668,7 +668,7 @@ TPUSA DOGE audit; host recounts the September 2 email announcing it.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 Hamptons retreat; host recounts Kirk's description of it as an intervention.
 
@@ -676,7 +676,7 @@ Hamptons retreat; host recounts Kirk's description of it as an intervention.
 
 ---
 
-**N-10224** UVU Event Approval Timeline Anomaly
+**N-10211** UVU Event Approval Timeline Anomaly
 
 UVU event approval timeline; reused for the request, graphic and media-report timing.
 
@@ -684,7 +684,7 @@ UVU event approval timeline; reused for the request, graphic and media-report ti
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Egyptian plane tracking; reused for the Lincoln stop.
 
@@ -692,7 +692,7 @@ Egyptian plane tracking; reused for the Lincoln stop.
 
 ---
 
-**N-10265** 920 North King Street / 1 Rodney Square Federal Facility
+**N-10249** 920 North King Street / 1 Rodney Square Federal Facility
 
 920 North King Street federal facility; reused for the tip about hidden FBI offices.
 
@@ -700,7 +700,7 @@ Egyptian plane tracking; reused for the Lincoln stop.
 
 ---
 
-**N-10266** SUBTT Wilmington Visit Pattern
+**N-10250** SUBTT Wilmington Visit Pattern
 
 SU-BTT Wilmington visit pattern; reused for the planes' Wilmington stops.
 
@@ -708,7 +708,7 @@ SU-BTT Wilmington visit pattern; reused for the planes' Wilmington stops.
 
 ---
 
-**N-10269** Wilmington Airport Hangar Federal Connection
+**N-10253** Wilmington Airport Hangar Federal Connection
 
 Wilmington hangar federal connection; reused for the federal approval and Satys items.
 
@@ -716,7 +716,7 @@ Wilmington hangar federal connection; reused for the federal approval and Satys 
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Macron lawsuit Delaware venue question; reused for the law-firm and lawyer-address items.
 
@@ -724,7 +724,7 @@ Macron lawsuit Delaware venue question; reused for the law-firm and lawyer-addre
 
 ---
 
-**N-10273** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
+**N-10257** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
 
 Operation Valhalla timeline; reused for the Camp Ripley item.
 
@@ -732,7 +732,7 @@ Operation Valhalla timeline; reused for the Camp Ripley item.
 
 ---
 
-**N-10276** Nebraska–Egypt Trade Mission / BTT Plane Overlap
+**N-10259** Nebraska–Egypt Trade Mission / BTT Plane Overlap
 
 Nebraska-Egypt trade mission and plane overlap; reused for the Lincoln stops and Evnen meeting.
 
@@ -740,7 +740,7 @@ Nebraska-Egypt trade mission and plane overlap; reused for the Lincoln stops and
 
 ---
 
-**N-10279** Camp Ripley Training Center
+**N-10262** Camp Ripley Training Center
 
 Camp Ripley training center; reused for the Valhalla item.
 
@@ -748,7 +748,7 @@ Camp Ripley training center; reused for the Valhalla item.
 
 ---
 
-**N-10285** Bracebridge Complex French Connection
+**N-10267** Bracebridge Complex French Connection
 
 Bracebridge complex French connection; reused for the red crane site.
 
@@ -756,7 +756,7 @@ Bracebridge complex French connection; reused for the red crane site.
 
 ---
 
-**N-10286** Incyte Corporation French CEO
+**N-10268** Incyte Corporation French CEO
 
 Incyte French CEO; reused for the site the transcript calls Insight.
 
@@ -764,7 +764,7 @@ Incyte French CEO; reused for the site the transcript calls Insight.
 
 ---
 
-**N-10288** Wilmington Trust / T. Coleman du Pont
+**N-10270** Wilmington Trust / T. Coleman du Pont
 
 Wilmington Trust and T. Coleman du Pont; reused for the building owner at 500 Delaware Avenue.
 
@@ -772,7 +772,7 @@ Wilmington Trust and T. Coleman du Pont; reused for the building owner at 500 De
 
 ---
 
-**N-10289** Rodney Square / 500 Delaware Avenue Federal Cluster
+**N-10271** Rodney Square / 500 Delaware Avenue Federal Cluster
 
 Rodney Square and 500 Delaware Avenue federal cluster; reused for the FBI suite.
 
@@ -780,7 +780,7 @@ Rodney Square and 500 Delaware Avenue federal cluster; reused for the FBI suite.
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 French Foreign Legion US training August 2025; reused for the August 2 arrival.
 
@@ -788,7 +788,7 @@ French Foreign Legion US training August 2025; reused for the August 2 arrival.
 
 ---
 
-**N-10291** Operation Bright Star August–September 2025
+**N-10273** Operation Bright Star August–September 2025
 
 Operation Bright Star; reused for its start and end dates.
 
@@ -796,7 +796,7 @@ Operation Bright Star; reused for its start and end dates.
 
 ---
 
-**N-10295** YouTube Live Poll: Lawsuit as Government Operation
+**N-10277** YouTube Live Poll: Lawsuit as Government Operation
 
 YouTube live poll on the lawsuit; reused for the host's bankruptcy remark.
 
@@ -804,7 +804,7 @@ YouTube live poll on the lawsuit; reused for the host's bankruptcy remark.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Bibi Netanyahu TPUSA funding offer; reused for the offer claim.
 
@@ -812,7 +812,7 @@ Bibi Netanyahu TPUSA funding offer; reused for the offer claim.
 
 ---
 
-**N-10397** Charlie Kirk Korea Trip / Pastor Yoon Connection
+**N-10370** Charlie Kirk Korea Trip / Pastor Yoon Connection
 
 Charlie Kirk Korea trip; reused for the September timeline.
 
@@ -820,7 +820,7 @@ Charlie Kirk Korea trip; reused for the September timeline.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Charlie Kirk DOGE pre-death establishment; reused for the audit email.
 
@@ -828,7 +828,7 @@ Charlie Kirk DOGE pre-death establishment; reused for the audit email.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Kirk Netanyahu show refusal; reused for the declined-offer claim.
 
@@ -836,7 +836,7 @@ Kirk Netanyahu show refusal; reused for the declined-offer claim.
 
 ---
 
-**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
+**N-10791** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Yrefy sponsorship contracts; reused for the fall-tour sponsor claim.
 
@@ -844,7 +844,7 @@ Yrefy sponsorship contracts; reused for the fall-tour sponsor claim.
 
 ---
 
-**N-11008** Satys
+**N-10928** Satys
 
 Satys; reused for the shareholder and hangar items.
 
@@ -852,7 +852,7 @@ Satys; reused for the shareholder and hangar items.
 
 ---
 
-**N-11129** Freemasonry
+**N-11047** Freemasonry
 
 Freemasonry; reused for the host's Freemason remarks.
 
@@ -860,7 +860,7 @@ Freemasonry; reused for the host's Freemason remarks.
 
 ---
 
-**N-11202** Public Casket Footage and Memorial Spectacle
+**N-11118** Public Casket Footage and Memorial Spectacle
 
 Public casket footage and memorial spectacle; reused for Sheridan's casket filming.
 
@@ -868,7 +868,7 @@ Public casket footage and memorial spectacle; reused for Sheridan's casket filmi
 
 ---
 
-**N-11235** Female Jewish Donor Confrontation of Kirk After Tucker Speech
+**N-11151** Female Jewish Donor Confrontation of Kirk After Tucker Speech
 
 Female Jewish donor confrontation after Tucker speech; reused for donor reaction.
 
@@ -884,7 +884,7 @@ First named by the host at 00:05:25 in episode 39. Transcribed Eric Dupond Moret
 
 ---
 
-**N-11278** Ace Partners
+**N-11194** Ace Partners
 
 Node Type: Organization
 French and Israeli firm that the host says is the second largest shareholder of Satys, the company that leased the Wilmington hangar.
@@ -893,9 +893,9 @@ French and Israeli firm that the host says is the second largest shareholder of 
 
 ---
 
-**N-11281** April 2018 Syria Strikes
+**N-11197** April 2018 Syria Strikes
 
-Node Type: Topic
+Node Type: Event
 The April 13 and 14, 2018 US and French strikes on Syria that the host ties to Charlie Kirk's April 13, 2018 text about war.
 
 *Related: C-3487, C-3488, C-3489, C-3490*
@@ -913,7 +913,7 @@ Claim: Per a Vanity Fair article the host reads, Robert Richards IV was convicte
 Anchored Artifacts: A-1480.1
 Mentions: N-292
 
-Related Nodes: N-10306
+Related Nodes: N-10288
 
 Investigative Direction: Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account.
 
@@ -928,7 +928,7 @@ Claim: Per a Vanity Fair article the host reads, Judge Jan Jurden ruled that Rob
 Anchored Artifacts: A-1480.1
 Mentions: N-292, N-300
 
-Related Nodes: N-10306
+Related Nodes: N-10288
 
 Investigative Direction: Obtain the sentencing order or contemporaneous news coverage of the Jordan ruling.
 
@@ -943,7 +943,7 @@ Claim: Per a News Journal description the host reads, Robert H. Richards III, fa
 Anchored Artifacts: A-1480.1
 Mentions: N-292, N-293
 
-Related Nodes: N-10303
+Related Nodes: N-10285
 
 Investigative Direction: Cross-reference firm partnership records and Richards family genealogy.
 
@@ -958,7 +958,7 @@ Claim: Per a Vanity Fair article the host reads, Robert Richards IV also admitte
 Anchored Artifacts: A-1480.1
 Mentions: N-292
 
-Related Nodes: N-10306
+Related Nodes: N-10288
 
 Investigative Direction: Obtain the plea agreement and original charging documents.
 
@@ -973,7 +973,7 @@ Claim: Per a Vanity Fair article the host reads, John DuPont shot Olympic wrestl
 Anchored Artifacts: A-1480.1
 Mentions: N-294, N-299
 
-Related Nodes: N-10306
+Related Nodes: N-10288
 
 Investigative Direction: Confirm against public court records of the John DuPont criminal case.
 
@@ -988,7 +988,7 @@ Claim: Per Dominick Dunne's Vanity Fair reporting as the host relays it, it appe
 Anchored Artifacts: A-1480.1
 Mentions: N-295, N-296, N-294
 
-Related Nodes: N-10306
+Related Nodes: N-10288
 
 Investigative Direction: Locate contemporaneous court filings or the original Dominick Dunne Vanity Fair piece.
 
@@ -1075,7 +1075,7 @@ Claim: The host says, allegedly, that six people at Turning Point USA told her a
 Anchored Artifacts: A-1486.1
 Mentions: N-15, N-1
 
-Related Nodes: N-10298, N-10300
+Related Nodes: N-10280, N-10282
 
 Investigative Direction: Obtain phone records or sworn statements from the named TPUSA sources to identify the called party.
 
@@ -1090,7 +1090,7 @@ Claim: The host says TPUSA sources, whom she calls "these young women," told her
 Anchored Artifacts: A-1486.2
 Mentions:
 
-Related Nodes: N-10298
+Related Nodes: N-10280
 
 Investigative Direction: Obtain the underlying communications with the named TPUSA sources.
 
@@ -1105,7 +1105,7 @@ Claim: The host says that after she presented the DuPont family material the pre
 Anchored Artifacts: A-1486.3
 Mentions:
 
-Related Nodes: N-10298
+Related Nodes: N-10280
 
 Investigative Direction: Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures.
 
@@ -1120,7 +1120,7 @@ Claim: The host says, relaying what one of her sleuths told her, that Tyler Bowy
 Anchored Artifacts: A-1486.4
 Mentions: N-11
 
-Related Nodes: N-10301
+Related Nodes: N-10283
 
 Investigative Direction: Obtain the supporting proof documentation and any internal TPUSA planning materials.
 
@@ -1134,7 +1134,7 @@ Claim: A federal source told host that Turning Point USA put in a personal reque
 
 Anchored Artifacts: A-1487.1
 
-Related Nodes: N-10299
+Related Nodes: N-10281
 
 Investigative Direction: Identify the federal source and corroborate with any contemporaneous communications.
 
@@ -1149,7 +1149,7 @@ Claim: The host says that, allegedly, a close family friend of Andrew Kolvet tol
 Anchored Artifacts: A-1488.1
 Mentions: N-14, N-1, N-36
 
-Related Nodes: N-10302, N-10305
+Related Nodes: N-10284, N-10287
 
 Investigative Direction: Preserve the written tip; verify Andrew Kolvet's contemporaneous statements through independent corroboration.
 
@@ -1190,7 +1190,7 @@ Transcript Snippet: You Americans know nothing of your own history. Your country
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:tangential
 Investigative Direction: Identify the priest through the host; this is a historical opinion and can only be checked against the historical record of Freemason membership among the founders.
 
@@ -1206,7 +1206,7 @@ Transcript Snippet: Freemasons who caused all of those revolutions against reall
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:tangential
 Investigative Direction: Historical claim with no document shown; compare against standard histories of the European revolutions and Masonic involvement.
 
@@ -1222,7 +1222,7 @@ Transcript Snippet: was asserting that the FBI had these offices, these kind of 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10265, N-10289, N-10306
+Related Nodes: N-10249, N-10271, N-10288
 Tags: relevance:context
 Investigative Direction: Obtain the underlying Wilmington tip email from the host and check property records for the buildings housing FBI suites.
 
@@ -1238,7 +1238,7 @@ Transcript Snippet: people in Wilmington saying, uh, yeah, no, they own kind of 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10288, N-10306
+Related Nodes: N-10270, N-10288
 Tags: relevance:context
 Investigative Direction: Obtain the tip emails from Delaware and check property, hospital and school ownership records for DuPont family entities.
 
@@ -1270,7 +1270,7 @@ Transcript Snippet: Critics have since noted that such treatment is usually offe
 
 Anchored Artifacts: A-1480.1
 Mentions: N-292, N-300
-Related Nodes: N-10306
+Related Nodes: N-10288
 Tags: relevance:tangential
 Investigative Direction: Obtain the Vanity Fair article and the Delaware sentencing record to see who the critics were and whether the characterization holds.
 
@@ -1286,7 +1286,7 @@ Transcript Snippet: Richards, who is unemployed and supported by a trust fund, o
 
 Anchored Artifacts: A-1480.1
 Mentions: N-292
-Related Nodes: N-10306
+Related Nodes: N-10288
 Tags: relevance:tangential
 Investigative Direction: Pull the New Castle County deed for the Greenville property and the civil docket for the ex-wife's damages suit.
 
@@ -1302,7 +1302,7 @@ Transcript Snippet: his great-grandfather is the DuPont family patriarch Dupont 
 
 Anchored Artifacts: A-1480.1
 Mentions: N-292, N-293
-Related Nodes: N-10306
+Related Nodes: N-10288
 Tags: relevance:tangential
 Investigative Direction: Verify the genealogy against Richards family and DuPont family records and the cited registry entry.
 
@@ -1318,7 +1318,7 @@ Transcript Snippet: Hey Candace, is that the law firm that's filing the paperwor
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10303, N-10270
+Related Nodes: N-10285, N-10254
 Tags: relevance:context
 Investigative Direction: Check the Delaware court docket for counsel of record in Macron v. Owens and confirm the firm's name against the filings.
 
@@ -1334,7 +1334,7 @@ Transcript Snippet: the founding partner of that firm who's since retired is DuP
 
 Anchored Artifacts: A-1480.1
 Mentions: N-3, N-293
-Related Nodes: N-10303, N-10306
+Related Nodes: N-10285, N-10288
 Tags: relevance:context
 Investigative Direction: Compare the firm's founding history and partner roster with Richards and du Pont family genealogy; note the host's remark is inferential.
 
@@ -1350,7 +1350,7 @@ Transcript Snippet: that is what they specialize in, chemicals, chemicals that a
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10306
+Related Nodes: N-10288
 Tags: relevance:tangential
 Investigative Direction: Compare DuPont company defense contracts and historical munitions production with the host's characterization.
 
@@ -1366,7 +1366,7 @@ Transcript Snippet: was instead released on a $60,000 bail and eventually cpped 
 
 Anchored Artifacts: A-1480.1
 Mentions: N-292
-Related Nodes: N-10306
+Related Nodes: N-10288
 Tags: relevance:tangential
 Investigative Direction: Obtain the Delaware bail order and plea agreement in the Richards case.
 
@@ -1382,7 +1382,7 @@ Transcript Snippet: we've got Jeffrey Epstein's ties to France.
 
 Anchored Artifacts: 
 Mentions: N-9, N-3
-Related Nodes: N-10306
+Related Nodes: N-10288
 Tags: relevance:tangential
 Investigative Direction: Identify which documented Epstein ties to France the host means; compare with public reporting on Epstein's French contacts.
 
@@ -1415,7 +1415,7 @@ Transcript Snippet: we've got this FBI suite in this building that's actually ow
 
 Anchored Artifacts: A-3113.1
 Mentions: N-3
-Related Nodes: N-10289, N-10288
+Related Nodes: N-10271, N-10270
 Supports: C-3374
 Tags: relevance:context
 Investigative Direction: Check New Castle County property records and GSA lease records for 500 Delaware Avenue.
@@ -1432,7 +1432,7 @@ Transcript Snippet: Also in that building happens to be um Stacy Sheridan's regi
 
 Anchored Artifacts: A-3113.1
 Mentions: N-82, N-186
-Related Nodes: N-10304, N-10270
+Related Nodes: N-10286, N-10254
 Tags: relevance:context
 Investigative Direction: Pull Delaware Division of Corporations registered-agent filings for Sheridan's LLCs and identify the occupants of 919 North Market Street.
 
@@ -1448,7 +1448,7 @@ Transcript Snippet: this red crane at 1100 North King Street and that's BRC Brid
 
 Anchored Artifacts: A-3113.1
 Mentions: N-3
-Related Nodes: N-10285, N-10286
+Related Nodes: N-10267, N-10268
 Tags: relevance:context
 Investigative Direction: Confirm the tenant, address and CEO of the Bracebridge complex development; the transcript spells the company Insight, likely Incyte.
 
@@ -1464,7 +1464,7 @@ Transcript Snippet: which she was getting paid through. It could all be above bo
 
 Anchored Artifacts: 
 Mentions: N-186, N-3
-Related Nodes: N-10304
+Related Nodes: N-10286
 Tags: relevance:context
 Investigative Direction: Search Delaware corporate records for Cloverstone Ventures, its registered agent and members, and match payments against TPUSA filings.
 
@@ -1529,7 +1529,7 @@ Transcript Snippet: Stacy Sheridan is the one that was filming.
 
 Anchored Artifacts: 
 Mentions: N-186, N-1
-Related Nodes: N-11202
+Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Identify the photographer of the widely shared casket footage and the account that first posted it.
 
@@ -1545,7 +1545,7 @@ Transcript Snippet: She's eulogizing Charlie Kirk on stage. She is capturing int
 
 Anchored Artifacts: 
 Mentions: N-186, N-1
-Related Nodes: N-11202
+Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Confirm Sheridan's role in the memorial program and the White House observance from event programs and video.
 
@@ -1561,7 +1561,7 @@ Transcript Snippet: We learn about this French and Israeli uh ACE Partners being
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11278, N-11008, N-10269
+Related Nodes: N-11194, N-10928, N-10253
 Tags: relevance:core
 Investigative Direction: Obtain Satys shareholder registers or filings and verify ACE Partners' stake and ownership.
 
@@ -1577,7 +1577,7 @@ Transcript Snippet: We learn that that requires federal approval because it sits
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11008, N-10269
+Related Nodes: N-10928, N-10253
 Supports: C-3206
 Tags: relevance:core
 Investigative Direction: Check airport authority lease terms and any FAA or federal approval requirement for the hangar.
@@ -1610,7 +1610,7 @@ Transcript Snippet: He calls out Jeffrey Epstein. He says that people who serve 
 
 Anchored Artifacts: A-3114.1
 Mentions: N-22, N-9, N-37
-Related Nodes: N-11235
+Related Nodes: N-11151
 Supports: C-3183
 Tags: relevance:core
 Investigative Direction: Review the full video of the July 11 speech and contemporaneous donor reactions.
@@ -1627,7 +1627,7 @@ Transcript Snippet: it was 7 days later that the request came from uh to Turning
 
 Anchored Artifacts: A-3114.1
 Mentions: N-22, N-1
-Related Nodes: N-10012, N-10224
+Related Nodes: N-10012, N-10211
 Supports: C-3184
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA and UVU event request correspondence with timestamps.
@@ -1644,7 +1644,7 @@ Transcript Snippet: right after that, our Egyptian yellow plane flies to Lincoln
 
 Anchored Artifacts: A-3114.1
 Mentions: N-22
-Related Nodes: N-10276, N-10253
+Related Nodes: N-10259, N-10239
 Supports: C-3270
 Tags: relevance:core
 Investigative Direction: Compare flight-tracking records for the Lincoln landing with the Nebraska announcement date.
@@ -1661,7 +1661,7 @@ Transcript Snippet: who were these professionals that met with Secretary of Stat
 
 Anchored Artifacts: A-3114.1
 Mentions: N-279
-Related Nodes: N-10276
+Related Nodes: N-10259
 Supports: C-3271
 Tags: relevance:core
 Investigative Direction: File a Nebraska public-records request for the meeting calendar, attendee list and trade mission planning documents.
@@ -1678,7 +1678,7 @@ Transcript Snippet: then uh it departs Nebraska, the our yellow plains, and it h
 
 Anchored Artifacts: A-3114.1
 Mentions: 
-Related Nodes: N-10266, N-10276
+Related Nodes: N-10250, N-10259
 Supports: C-3268
 Tags: relevance:core
 Investigative Direction: Check flight-tracking logs for the Nebraska to Wilmington to Cairo legs of SU-BTT.
@@ -1712,7 +1712,7 @@ Transcript Snippet: Yrefy comes in as the number one sponsor of the Charlie Kirk
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1
-Related Nodes: N-10870
+Related Nodes: N-10791
 Tags: relevance:core
 Investigative Direction: Obtain the sponsorship contract and addendum and the date the tour sponsorship was announced.
 
@@ -1728,7 +1728,7 @@ Transcript Snippet: they are planning them at least a semester ahead and then it
 
 Anchored Artifacts: A-3114.1
 Mentions: N-3
-Related Nodes: N-10870
+Related Nodes: N-10791
 Tags: relevance:core
 Investigative Direction: Compare tour announcement dates for past TPUSA tours with the fall 2025 tour.
 
@@ -1760,7 +1760,7 @@ Transcript Snippet: Turning Point USA insisted upon that, the person that was or
 
 Anchored Artifacts: A-3114.1
 Mentions: N-8, N-1
-Related Nodes: N-10012, N-10224
+Related Nodes: N-10012, N-10211
 Tags: relevance:core
 Investigative Direction: Obtain the venue site-visit communications between TPUSA, UVU and event staff in early August.
 
@@ -1776,7 +1776,7 @@ Transcript Snippet: August 2nd is when we have our French legionnaires arriving 
 
 Anchored Artifacts: A-3114.1
 Mentions: 
-Related Nodes: N-10290
+Related Nodes: N-10272
 Supports: C-3352
 Tags: relevance:context
 Investigative Direction: Check French Army and US Army statements on the August 2025 Foreign Legion exercise in California.
@@ -1793,7 +1793,7 @@ Transcript Snippet: that Hampton's retreat which Charlie Kirk himself described 
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1
-Related Nodes: N-10134
+Related Nodes: N-10129
 Supports: C-3192
 Tags: relevance:core
 Investigative Direction: Collect accounts from attendees and any messages from Kirk describing the retreat.
@@ -1810,7 +1810,7 @@ Transcript Snippet: And we know that the influencers were paid for by Bill Ackma
 
 Anchored Artifacts: A-3114.1
 Mentions: N-37
-Related Nodes: N-10134
+Related Nodes: N-10129
 Tags: relevance:core
 Investigative Direction: Check attendee disclosures and Ackman statements on who paid for travel and lodging.
 
@@ -1826,7 +1826,7 @@ Transcript Snippet: BBNet and Yahoo calling Charlie and offering to take Turning
 
 Anchored Artifacts: A-3114.1
 Mentions: N-36, N-1
-Related Nodes: N-10302, N-10342
+Related Nodes: N-10284, N-10320
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Seek call logs, Netanyahu office statements and TPUSA donor records; ask Kolvet or Erika Kirk to confirm or deny.
@@ -1843,7 +1843,7 @@ Transcript Snippet: No one has denied that that this took place and Charlie decl
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1, N-36
-Related Nodes: N-10302, N-10456
+Related Nodes: N-10284, N-10425
 Supports: C-84
 Tags: relevance:core
 Investigative Direction: Check for any public denial by TPUSA, Netanyahu's office or the Hamptons attendees since the claim first aired.
@@ -1860,7 +1860,7 @@ Transcript Snippet: planes come back out and they're flying to Lincoln again. Th
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1
-Related Nodes: N-10266, N-10276
+Related Nodes: N-10250, N-10259
 Supports: C-3194
 Tags: relevance:core
 Investigative Direction: Verify SU-BTT landings in Lincoln, Omaha and Wilmington against flight-tracking data.
@@ -1877,7 +1877,7 @@ Transcript Snippet: We have our yellow planes then returning on the 24th again a
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1
-Related Nodes: N-10266
+Related Nodes: N-10250
 Tags: relevance:core
 Investigative Direction: Verify SU-BTT's August 24 departure path against flight-tracking data.
 
@@ -1893,7 +1893,7 @@ Transcript Snippet: operation Valhalla takes place between civilians and militar
 
 Anchored Artifacts: A-3114.1
 Mentions: 
-Related Nodes: N-10273, N-10279
+Related Nodes: N-10257, N-10262
 Tags: relevance:context
 Investigative Direction: Check the exercise dates and participants against organizer and Minnesota National Guard statements; the host's stated date range differs from earlier reporting.
 
@@ -1909,7 +1909,7 @@ Transcript Snippet: TPUSA, UVU, and a local BYU chapter share a graphic announci
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1
-Related Nodes: N-10012, N-10224
+Related Nodes: N-10012, N-10211
 Tags: relevance:core
 Investigative Direction: Retrieve the August 27 social media graphic and its post timestamps from TPUSA, UVU and BYU chapter accounts.
 
@@ -1925,7 +1925,7 @@ Transcript Snippet: On the 29th, we have Operation Brightar, which commences tha
 
 Anchored Artifacts: A-3114.1
 Mentions: 
-Related Nodes: N-10291
+Related Nodes: N-10273
 Supports: C-3354
 Tags: relevance:core
 Investigative Direction: Check CENTCOM and Egyptian Armed Forces statements for Bright Star 2025 start and end dates.
@@ -1942,7 +1942,7 @@ Transcript Snippet: On September 2nd, Charlie sends out the email asking for a D
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1, N-15, N-11
-Related Nodes: N-10132, N-10434
+Related Nodes: N-10127, N-10404
 Supports: C-896
 Tags: relevance:core
 Investigative Direction: Obtain the September 2 internal memo and its distribution list.
@@ -1959,7 +1959,7 @@ Transcript Snippet: we have the first known public going out in local media that
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1
-Related Nodes: N-10224
+Related Nodes: N-10211
 Tags: relevance:core
 Investigative Direction: Find the earliest local news item on the courtyard event and its publication time.
 
@@ -1975,7 +1975,7 @@ Transcript Snippet: Charlie is in Korea for a couple of days. He comes back on S
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1
-Related Nodes: N-10397
+Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Check Kirk's Korea itinerary and return flight times against TPUSA schedule records.
 
@@ -1991,7 +1991,7 @@ Transcript Snippet: And that's also happens to be the same day that that Operati
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1
-Related Nodes: N-10291
+Related Nodes: N-10273
 Supports: C-3354
 Tags: relevance:core
 Investigative Direction: Confirm the closing ceremony date of Bright Star 2025 in official statements.
@@ -2008,7 +2008,7 @@ Transcript Snippet: I'm wondering if Charlie put together the Doge account, and 
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1, N-36
-Related Nodes: N-10132, N-10434, N-10302
+Related Nodes: N-10127, N-10404, N-10284
 Tags: relevance:core
 Investigative Direction: Ask whoever drafted the DOGE audit memo and TPUSA finance staff what prompted it; no evidence of the link was offered.
 
@@ -2040,7 +2040,7 @@ Transcript Snippet: I'd like to know more about that. Can everybody try to figur
 
 Anchored Artifacts: A-3115.1
 Mentions: N-3, N-15
-Related Nodes: N-10300
+Related Nodes: N-10282
 Tags: relevance:core
 Investigative Direction: Obtain the responses the host received through the tip box and check them against TPUSA donor records.
 
@@ -2056,7 +2056,7 @@ Transcript Snippet: or like the $90 million that Turning Point USA raised in the
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10298
+Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Check TPUSA public statements and filings for the post-assassination fundraising total.
 
@@ -2072,7 +2072,7 @@ Transcript Snippet: just a handful of people were allowed to even know about thi
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10298, N-10300
+Related Nodes: N-10280, N-10282
 Tags: relevance:core
 Investigative Direction: Interview donations staff and the host's sources about who knew of the arrangement.
 
@@ -2088,7 +2088,7 @@ Transcript Snippet: people began to find out about this because of just an unfor
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10298, N-10300
+Related Nodes: N-10280, N-10282
 Tags: relevance:core
 Investigative Direction: Ask the sources what conversation they mean and how it was overheard or recorded.
 
@@ -2104,7 +2104,7 @@ Transcript Snippet: this happened so early following the assassination. I am tal
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10298
+Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Check the date of the host's messages with her sources against her Wyoming trip.
 
@@ -2120,7 +2120,7 @@ Transcript Snippet: they had said that they felt that Andrew Kolvet was acting w
 
 Anchored Artifacts: A-1488.1
 Mentions: N-14, N-3
-Related Nodes: N-10305
+Related Nodes: N-10287
 Supports: C-3477
 Tags: relevance:core
 Investigative Direction: Preserve the written tip and identify the family friend through the host's inbox.
@@ -2137,7 +2137,7 @@ Transcript Snippet: Obviously, it wouldn't be on this year's taxes. You're not g
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10298
+Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Review TPUSA's next Form 990 and Schedule B donor disclosures for the relevant period.
 
@@ -2218,7 +2218,7 @@ Transcript Snippet: the United States and France were carrying out a series of m
 
 Anchored Artifacts: A-1481.1
 Mentions: N-1
-Related Nodes: N-11281
+Related Nodes: N-11197
 Tags: relevance:context
 Investigative Direction: Check the April 13 and 14, 2018 US, UK and French strike announcements and the official chemical attack rationale.
 
@@ -2234,7 +2234,7 @@ Transcript Snippet: if Assad was telling the truth, and I believe he was, becaus
 
 Anchored Artifacts: A-1481.1
 Mentions: 
-Related Nodes: N-11281
+Related Nodes: N-11197
 Tags: relevance:tangential
 Investigative Direction: Compare the OPCW investigation of the Douma incident with the host's account; this is the host's belief, not a documented finding.
 
@@ -2250,7 +2250,7 @@ Transcript Snippet: France had said in a statement on that morning on April 14th
 
 Anchored Artifacts: A-1481.1
 Mentions: 
-Related Nodes: N-11281
+Related Nodes: N-11197
 Tags: relevance:context
 Investigative Direction: Check French presidency and foreign ministry statements of April 14, 2018.
 
@@ -2266,7 +2266,7 @@ Transcript Snippet: This is not the thing that's coming, but this is a preview o
 
 Anchored Artifacts: A-1481.1
 Mentions: N-1
-Related Nodes: N-11281
+Related Nodes: N-11197
 Tags: relevance:context
 Investigative Direction: Obtain the original 2018 text to confirm the exact wording, since the host paraphrases it.
 
@@ -2346,7 +2346,7 @@ Transcript Snippet: Tyler Bowyer has a younger brother who for 10 years has work
 
 Anchored Artifacts: 
 Mentions: N-11, N-297, N-1
-Related Nodes: N-10301
+Related Nodes: N-10283
 Tags: relevance:context
 Investigative Direction: Identify the brother by name and check TPUSA or affiliate payroll and housing-program records.
 
@@ -2362,7 +2362,7 @@ Transcript Snippet: Uh or was it Rob McCoy? Rob McCoy said that I think I think 
 
 Anchored Artifacts: 
 Mentions: N-1, N-7, N-17
-Related Nodes: N-10301
+Related Nodes: N-10283
 Tags: relevance:context
 Investigative Direction: Find the public statements by Turek and McCoy describing the plan and the notebooks.
 
@@ -2426,7 +2426,7 @@ Transcript Snippet: I am hopeful that Erika Kirk will issue a statement. I I thi
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10300, N-10298
+Related Nodes: N-10282, N-10280
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and Erika Kirk whether the post-assassination call and the donor arrangement occurred; watch for any statement.
 
@@ -2442,7 +2442,7 @@ Transcript Snippet: I think the federal government is trying to bankrupt me a th
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10295
+Related Nodes: N-10277
 Tags: relevance:context
 Investigative Direction: No evidence of federal direction offered; compare with the litigation record in the Macron suit.
 
@@ -2506,7 +2506,7 @@ Transcript Snippet: there are some good feds. There is an underground movement t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10299
+Related Nodes: N-10281
 Tags: relevance:context
 Investigative Direction: Ask the host which federal sources she counts as part of this movement; no individuals are named.
 
@@ -2690,7 +2690,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use global people ledger (N-291 onward)
-- [x] Non-person investigation targets use 1000 series (N-10298 onward)
+- [x] Non-person investigation targets use 1000 series (N-10280 onward)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly where appearing; uncertainty flagged
 - [x] Formatting consistent with protocol

@@ -33,7 +33,7 @@
             "C-7159"
           ],
           "related_nodes": [
-            "N-10546"
+            "N-10501"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,7 +244,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10545"
+            "N-10500"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -271,7 +271,7 @@
             "C-7196"
           ],
           "related_nodes": [
-            "N-10545"
+            "N-10500"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -321,7 +321,7 @@
           "description": "Video clip of Benjamin Netanyahu at the National Health Command Center, dated March 10",
           "related_claims": [],
           "related_nodes": [
-            "N-10544"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,7 +348,7 @@
             "C-7222"
           ],
           "related_nodes": [
-            "N-10544"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,7 +375,7 @@
             "C-7224"
           ],
           "related_nodes": [
-            "N-10544"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -403,7 +403,7 @@
             "C-7229"
           ],
           "related_nodes": [
-            "N-10544"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -430,7 +430,7 @@
             "C-7231"
           ],
           "related_nodes": [
-            "N-10544"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -496,11 +496,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10544",
-      "ref": "N-10544",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10499",
+      "ref": "N-10499",
       "name": "Netanyahu Death/Injury Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inquiry (held across multiple video artifacts in this episode) into whether Benjamin Netanyahu has been killed, injured, or replaced following a rumored March 10/11 Iranian strike.",
       "related_artifacts": [
         "A-1872.1",
@@ -524,14 +524,15 @@
       "evidence_count": 5,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10545",
-      "ref": "N-10545",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10500",
+      "ref": "N-10500",
       "name": "TPUSA Direction-of-Travel Discrepancy (Post-Charlie)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inquiry into whether post-assassination Turning Point USA messaging and leadership decisions align with Charlie Kirk's documented positions, anchored by the Arkansas chapter disaffiliation.",
       "related_artifacts": [
         "A-1869.1",
@@ -553,14 +554,16 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10498"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10546",
-      "ref": "N-10546",
+      "@type": "Topic",
+      "@id": "N-10501",
+      "ref": "N-10501",
       "name": "Joe Kent Resignation Aftermath Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Inquiry into the coordinated public response to Kent's resignation by Trump administration, sitting Republican officials, and right-wing commentators – possible pattern of criminalization-of-dissent.",
       "related_artifacts": [
         "A-1861.1",
@@ -587,7 +590,8 @@
       "claim_count": 8,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1189,11 +1193,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose Arkansas chapter disaffiliated and whose staff the host cites.",
       "related_artifacts": [],
       "related_claims": [
@@ -1204,14 +1208,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Family International and Epstein remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1221,14 +1227,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@type": "Place",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place the host cites in her account of harassment over the event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1238,14 +1245,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@type": "Topic",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Patel claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1263,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@type": "Topic",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Patel sex-trafficking remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1272,14 +1281,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@type": "Topic",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Patel and Kent claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1291,14 +1301,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@type": "Topic",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's remarks on Kelly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1310,14 +1321,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@type": "Topic",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Harvest claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1327,14 +1339,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10533",
-      "ref": "N-10533",
+      "@type": "Topic",
+      "@id": "N-10488",
+      "ref": "N-10488",
       "name": "Club America High School Pushback",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Sanders proclamation claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1344,14 +1358,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10534",
-      "ref": "N-10534",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10489",
+      "ref": "N-10489",
       "name": "Renee Crossman / United Hands Romania Cult Affiliation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's cult research claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1362,14 +1377,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@type": "Topic",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the June 2025 turning point.",
       "related_artifacts": [],
       "related_claims": [
@@ -1379,14 +1396,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@type": "Topic",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Hormuz and India claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1397,14 +1415,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10606",
-      "ref": "N-10606",
+      "@type": "Topic",
+      "@id": "N-10553",
+      "ref": "N-10553",
       "name": "Trump Iran Arms Admission Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Boeing 757 cash claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1414,14 +1433,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10956",
-      "ref": "N-10956",
+      "@type": "Organization",
+      "@id": "N-10877",
+      "ref": "N-10877",
       "name": "Catholics for Catholics",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization hosting the March 19 event where the host will interview Kent.",
       "related_artifacts": [],
       "related_claims": [
@@ -1433,14 +1453,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11035",
-      "ref": "N-11035",
-      "name": "TPUSA Employee Purge and Leak Hunt",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-11002",
+      "ref": "N-11002",
+      "name": "TPUSA Leak Hunt and Employee Firings",
+      "type": "topic",
       "description": "Existing topic reused for the host's staff-firing claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1451,14 +1473,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11228",
-      "ref": "N-11228",
+      "@type": "Topic",
+      "@id": "N-11144",
+      "ref": "N-11144",
       "name": "Candace Podcast Ranking and Operations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the chart claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1468,14 +1492,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11340",
-      "ref": "N-11340",
+      "@type": "Organization",
+      "@id": "N-11256",
+      "ref": "N-11256",
       "name": "Harvest Christian Fellowship",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says is being sued over Romanian children.",
       "related_artifacts": [],
       "related_claims": [
@@ -1485,7 +1510,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1545,8 +1572,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11396",
-      "ref": "N-11396",
+      "@id": "N-11312",
+      "ref": "N-11312",
       "name": "The Family International",
       "type": "organization",
       "description": "Religious group formerly called Children of God that the host says Renee Crossman belonged to and that she is researching.",
@@ -1562,7 +1589,9 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [
@@ -1576,7 +1605,7 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:04:57",
@@ -1595,7 +1624,7 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:04:57",
@@ -1614,7 +1643,7 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:04:57",
@@ -1633,7 +1662,7 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:06:10",
@@ -1653,7 +1682,7 @@
         "A-1862.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:07:42",
@@ -1673,7 +1702,7 @@
         "A-1862.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:09:23",
@@ -1692,7 +1721,7 @@
         "A-1863.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:14:29",
@@ -1712,7 +1741,7 @@
         "A-1864.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:14:40",
@@ -1732,7 +1761,7 @@
         "A-1864.2"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:16:10",
@@ -1752,7 +1781,7 @@
         "A-1865.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:15:07–00:15:58",
@@ -1774,7 +1803,7 @@
         "A-1866.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
@@ -1794,7 +1823,7 @@
         "A-1867.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:16:00",
@@ -1831,7 +1860,7 @@
         "A-1869.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:30:50",
@@ -1847,7 +1876,7 @@
         "A-1869.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:31:15",
@@ -1863,7 +1892,7 @@
         "A-1870.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:31:40",
@@ -1882,7 +1911,7 @@
         "A-1870.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:32:20",
@@ -1902,7 +1931,7 @@
         "A-1871.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:33:20",
@@ -1922,7 +1951,7 @@
         "A-1873.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:47:24",
@@ -1941,7 +1970,7 @@
         "A-1873.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:47:40",
@@ -1960,7 +1989,7 @@
         "A-1874.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:48:48",
@@ -1976,7 +2005,7 @@
         "A-1874.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:48:48",
@@ -1992,7 +2021,7 @@
         "A-1875.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:49:10",
@@ -2011,7 +2040,7 @@
         "A-1875.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:50:05",
@@ -2030,7 +2059,7 @@
         "A-1875.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:50:05",
@@ -2046,7 +2075,7 @@
         "A-1876.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:52:15",
@@ -2066,7 +2095,7 @@
         "A-1876.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:51:55",
@@ -2085,7 +2114,7 @@
         "A-1869.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:30:20",
@@ -2105,7 +2134,7 @@
         "A-1869.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:31:39",
@@ -2124,7 +2153,7 @@
         "A-1871.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:33:39",
@@ -2144,7 +2173,7 @@
         "A-1871.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:33:39",
@@ -2162,7 +2191,7 @@
       "claim": "The host says Trump asked India to send troops to keep the Strait of Hormuz open, and that India answered that it would not get involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -2183,7 +2212,7 @@
       "claim": "The host says Joe Kent's late wife, Shannon Kent, was killed by a suicide bomber while serving in Syria in January 2019 and was the first female combat death in Syria since combat operations against ISIS began.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -2204,7 +2233,7 @@
       "claim": "The host says Shannon Kent was also the first female US service member killed by enemy fire in more than three years up to that point.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -2227,7 +2256,7 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -2253,8 +2282,8 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-10546",
-        "N-10539"
+        "N-10501",
+        "N-10494"
       ],
       "tags": [
         "relevance:context"
@@ -2277,7 +2306,7 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -2303,7 +2332,7 @@
         "A-1862.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -2329,7 +2358,7 @@
         "A-1862.1"
       ],
       "related_nodes": [
-        "N-10606"
+        "N-10553"
       ],
       "tags": [
         "relevance:context"
@@ -2410,7 +2439,7 @@
         "A-1864.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -2437,7 +2466,7 @@
         "A-1865.1"
       ],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:context"
@@ -2460,7 +2489,7 @@
       "claim": "The host says she will interview Joe Kent that Thursday at the Catholics for Catholics event in Washington, DC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:context"
@@ -2481,7 +2510,7 @@
       "claim": "The host says the Catholics for Catholics event is not an anti-Zionist conference and was never billed as one, with Carrie Prejean Boller and the host speaking, and that critics have been emailing and calling to demand cancellations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:context"
@@ -2582,8 +2611,8 @@
       "claim": "The host says the organizer of Catholics for Catholics has been harassed because the event features someone who does not support what she calls mass murder in Gaza.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956",
-        "N-10063"
+        "N-10877",
+        "N-10060"
       ],
       "tags": [
         "relevance:context"
@@ -2604,7 +2633,7 @@
       "claim": "The host says Megyn Kelly's only apparent offense was telling the truth, and that what Kelly is going through now is what Charlie Kirk was going through at the end.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -2626,7 +2655,7 @@
       "claim": "The host says Charlie's wife Erika is at the helm of Turning Point USA while people recognize the organization reversing course on everything Charlie expressed that he believed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [
         "relevance:context"
@@ -2648,7 +2677,7 @@
       "claim": "The host says Joe Kent was one of the people who bumped heads with Kash Patel during the investigation into who killed Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ],
       "tags": [
         "relevance:core"
@@ -2673,8 +2702,8 @@
       "claim": "The host says Kash Patel blocked any investigation into whether foreign actors could have been involved in Charlie Kirk's killing, saying there was no evidence for that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202",
-        "N-10355"
+        "N-10194",
+        "N-10332"
       ],
       "tags": [
         "relevance:core"
@@ -2698,7 +2727,7 @@
       "claim": "The host says investigating foreign involvement would have shifted the investigation into Tulsi Gabbard's office, where Joe Kent was working.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ],
       "tags": [
         "relevance:core"
@@ -2719,7 +2748,7 @@
       "claim": "The host says Sarah Huckabee Sanders signed the proclamation on behalf of Club America, which she describes as Turning Point USA's push into high schools, with Erika Kirk beside her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10533"
+        "N-10488"
       ],
       "tags": [
         "relevance:context"
@@ -2744,7 +2773,7 @@
       "claim": "The host says the Arkansas chapter president, Dino Fantegrossi, has been with Turning Point USA for more than five years.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [
         "relevance:context"
@@ -2765,7 +2794,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11035"
+        "N-11002"
       ],
       "tags": [
         "relevance:context"
@@ -2788,7 +2817,7 @@
         "A-1870.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [
         "relevance:context"
@@ -2810,7 +2839,7 @@
         "A-1870.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [
         "relevance:context"
@@ -2836,7 +2865,7 @@
         "A-1871.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [
         "relevance:core"
@@ -2858,7 +2887,7 @@
         "A-1871.1"
       ],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [
         "relevance:context"
@@ -2883,7 +2912,7 @@
       "claim": "The host says she believes Dino Fantegrossi appeared on The Charlie Kirk Show after Kirk was assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10545"
+        "N-10500"
       ],
       "tags": [
         "relevance:context"
@@ -2943,7 +2972,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11035"
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -2963,8 +2992,8 @@
       "claim": "The host says the Erika series is paused because she is deep in research on the cult that Renee Crossman, with whom Erika partnered in Romania, belonged to.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10534",
-        "N-11396"
+        "N-10489",
+        "N-11312"
       ],
       "tags": [
         "relevance:context"
@@ -2989,8 +3018,8 @@
       "claim": "The host says the cult is The Family International, which was called Children of God before that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11396",
-        "N-10534"
+        "N-11312",
+        "N-10489"
       ],
       "tags": [
         "relevance:context"
@@ -3013,7 +3042,7 @@
       "claim": "The host says she has made contact with former members of the cult.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11396"
+        "N-11312"
       ],
       "tags": [
         "relevance:context"
@@ -3033,7 +3062,7 @@
       "claim": "The host says former members told her it is plausible that Erika Kirk could have been raised in the group.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11396"
+        "N-11312"
       ],
       "tags": [
         "relevance:context"
@@ -3054,7 +3083,7 @@
       "claim": "The host says she did not know there was a connection between the Family, which rebranded as the Family International, and Epstein.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11396",
+        "N-11312",
         "N-10023"
       ],
       "tags": [
@@ -3120,8 +3149,8 @@
       "claim": "The host says Erika Kirk is working with Harvest Church, which she says is currently being sued for trafficking children from Romania.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11340",
-        "N-10411"
+        "N-11256",
+        "N-10384"
       ],
       "tags": [
         "relevance:core"
@@ -3146,7 +3175,7 @@
       "claim": "The host says Kash Patel has said there is no evidence of any sex trafficking, in the context of the Epstein files.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3167,7 +3196,7 @@
       "claim": "The host says some people think Netanyahu might be dead, that it is not verified, and that weird videos are going around.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3189,7 +3218,7 @@
         "A-1872.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3209,7 +3238,7 @@
       "claim": "The host says a rumor circulated that Netanyahu was hit by an Iranian missile later on March 10 or on the 11th, and that this is not confirmed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3231,7 +3260,7 @@
         "A-1873.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3256,7 +3285,7 @@
         "A-1874.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3279,7 +3308,7 @@
         "A-1875.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3302,7 +3331,7 @@
       "claim": "The host says she does not know if Netanyahu is dead but thinks he may be injured, and wonders if the HD production is because of his face.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3325,7 +3354,7 @@
         "A-1876.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3348,7 +3377,7 @@
         "A-1876.1"
       ],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3370,7 +3399,7 @@
       "claim": "The host says, citing Schuyler, that Netanyahu was at an Air Force base that day greeting people while the show was live.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10544"
+        "N-10499"
       ],
       "tags": [
         "relevance:tangential"
@@ -3409,7 +3438,7 @@
       "claim": "The host says that wherever Megyn Kelly wants to speak, critics will call people and stalk her across years.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3430,7 +3459,7 @@
       "claim": "The host says she and Megyn Kelly disagree on Erika Kirk and that she does not harass Kelly for it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3471,7 +3500,7 @@
       "claim": "The host says she thinks Iran's foreign minister said the day before that the Strait of Hormuz is closed only for Zionists.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -3488,7 +3517,7 @@
       "claim": "The host says her show is back at the top of the charts globally, and that she thinks it is in a three-way tie with Joe Rogan and the Kill Tony podcast, at 3.2 million audio downloads daily.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11228"
+        "N-11144"
       ],
       "tags": [
         "relevance:tangential"

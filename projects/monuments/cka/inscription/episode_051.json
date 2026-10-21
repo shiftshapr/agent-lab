@@ -34,7 +34,7 @@
             "N-277",
             "N-1",
             "N-2",
-            "N-10376"
+            "N-10349"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -97,7 +97,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10376"
+            "N-10349"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -127,7 +127,7 @@
             "N-326",
             "N-2",
             "N-1",
-            "N-10377"
+            "N-10350"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -206,10 +206,10 @@
             "C-4484"
           ],
           "related_nodes": [
-            "N-10899",
+            "N-10820",
             "N-14",
             "N-2",
-            "N-10380"
+            "N-10353"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -237,7 +237,7 @@
           "related_nodes": [
             "N-361",
             "N-266",
-            "N-10375"
+            "N-10342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,8 +263,8 @@
             "C-4458"
           ],
           "related_nodes": [
-            "N-10900",
-            "N-10379"
+            "N-10821",
+            "N-10352"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -290,7 +290,7 @@
             "C-4511"
           ],
           "related_nodes": [
-            "N-10376",
+            "N-10349",
             "N-1"
           ],
           "tags": [],
@@ -309,9 +309,9 @@
             "C-4513"
           ],
           "related_nodes": [
-            "N-10899",
-            "N-10375",
-            "N-11001"
+            "N-10820",
+            "N-10342",
+            "N-10921"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -340,7 +340,7 @@
           "related_nodes": [
             "N-3",
             "N-217",
-            "N-10376"
+            "N-10349"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -394,7 +394,7 @@
           "related_nodes": [
             "N-3",
             "N-361",
-            "N-10327"
+            "N-10306"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -462,7 +462,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10376"
+        "N-10349"
       ]
     },
     {
@@ -484,7 +484,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ]
     },
     {
@@ -549,7 +549,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10377"
+        "N-10350"
       ]
     },
     {
@@ -590,7 +590,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10375"
+        "N-10342"
       ]
     },
     {
@@ -610,7 +610,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10375"
+        "N-10342"
       ]
     },
     {
@@ -633,11 +633,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10375",
-      "ref": "N-10375",
-      "name": "Fort Huachuca Sighting Verification",
-      "type": "investigation_target",
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "topic",
       "description": "Persistent target verifying Mitch Snow's claims about Brian Harpole at a top-brass meeting on the morning of September 9 and the Candlewood Inn sightings on September 8. Partial corroboration via the son's interview (A-1574) and Army sniper comment (A-1576.2).",
       "related_artifacts": [
         "A-1574.1",
@@ -645,7 +645,8 @@
       ],
       "related_claims": [
         "C-4480",
-        "C-4513"
+        "C-4513",
+        "C-4465"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -655,14 +656,16 @@
       "related_nodes": [
         "N-361",
         "N-266"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10376",
-      "ref": "N-10376",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10349",
+      "ref": "N-10349",
       "name": "AmFest Tent Recreation Approval Chain",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target tracking who approved the tent recreation at AmFest and whether attendees took informal organizing activity (selfies) with the replica.",
       "related_artifacts": [
         "A-1568.1",
@@ -681,14 +684,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10377",
-      "ref": "N-10377",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10350",
+      "ref": "N-10350",
       "name": "Hunter Kozak / Kozak Identity Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target verifying the correct spelling and identity of the UVU student introduced by Bari Weiss.",
       "related_artifacts": [
         "A-1570.1"
@@ -703,14 +707,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-326"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10378",
-      "ref": "N-10378",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10351",
+      "ref": "N-10351",
       "name": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target verifying whether Andrew Kolvet coordinated with Alex Jones, Paramount Tactical Valhalla, Ian Carroll, and others to discredit Mitch Snow.",
       "related_artifacts": [
         "A-1573.1"
@@ -725,14 +730,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10379",
-      "ref": "N-10379",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10352",
+      "ref": "N-10352",
       "name": "Daily Wire Social Media Reactivation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target verifying why the Daily Wire reactivated Candace's YouTube and Instagram and re-released her 2021 trailer on her own channels.",
       "related_artifacts": [
         "A-1575.1"
@@ -746,21 +752,29 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10900"
-      ]
+        "N-10821"
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10380",
-      "ref": "N-10380",
-      "name": "Erika Kirk September 8 Alibi",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10353",
+      "ref": "N-10353",
+      "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
+      "type": "investigation_question",
       "description": "Persistent target verifying whether Erika Kirk was at the Fort Huachuca Candlewood Inn on September 8, in light of Andrew Kolvet's written alibi instructions and the phone-call/dinner exchange referenced by host.",
       "related_artifacts": [
         "A-1573.1"
       ],
       "related_claims": [
-        "C-4484"
+        "C-4484",
+        "C-4466",
+        "C-4470",
+        "C-4483",
+        "C-4489",
+        "C-4503",
+        "C-4504",
+        "C-4505"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -769,12 +783,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10390"
     },
     {
       "@type": "Organization",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "organization",
       "description": "Source of the stream clip in which Andrew Kolvet's instructions were read aloud.",
@@ -791,12 +807,14 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "organization",
       "description": "Institution that re-released Candace's 2021 trailer on her social channels.",
@@ -812,9 +830,11 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10379"
+        "N-10352"
       ],
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -872,8 +892,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11001",
-      "ref": "N-11001",
+      "@id": "N-10921",
+      "ref": "N-10921",
       "name": "Valhalla VFT",
       "type": "organization",
       "description": "Military-commentary YouTube channel (\"the Valhalla guy\"), distinct from Gary Melton's Paramount Tactical.",
@@ -884,7 +904,9 @@
         "C-4513"
       ],
       "tags": [],
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q17558136"
     },
     {
       "@type": "Person",
@@ -1209,11 +1231,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10001",
       "ref": "N-10001",
       "name": "MK Ultra",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1223,14 +1245,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1242,14 +1265,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10116",
-      "ref": "N-10116",
+      "@type": "Topic",
+      "@id": "N-10112",
+      "ref": "N-10112",
       "name": "MK Ultra Continuity Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1259,14 +1284,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10001"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10134",
-      "ref": "N-10134",
+      "@type": "Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1276,14 +1303,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10282",
-      "ref": "N-10282",
+      "@type": "Organization",
+      "@id": "N-10265",
+      "ref": "N-10265",
       "name": "CBS News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,14 +1324,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10300",
-      "ref": "N-10300",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10282",
+      "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1310,14 +1343,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10305",
-      "ref": "N-10305",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10287",
+      "ref": "N-10287",
       "name": "Andrew Kolvet \"Lost Millions\" Tip Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1327,14 +1361,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10284"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10326",
-      "ref": "N-10326",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10305",
+      "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1344,14 +1380,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10327",
-      "ref": "N-10327",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10306",
+      "ref": "N-10306",
       "name": "Incident Report 861-1-2025-MPC446 FOIA Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1363,14 +1401,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10333",
-      "ref": "N-10333",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10312",
+      "ref": "N-10312",
       "name": "Candlewood Suites Hotel Security Footage (Sept 8, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1380,14 +1420,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10342"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1397,14 +1439,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1415,14 +1458,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1436,14 +1480,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10349",
-      "ref": "N-10349",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10327",
+      "ref": "N-10327",
       "name": "Bari Weiss CBS Interview Question Selection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1453,31 +1498,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
-      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-4465"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10371",
-      "ref": "N-10371",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10345",
+      "ref": "N-10345",
       "name": "Mark Amodei September 9 Alibi Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1487,14 +1516,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10372",
-      "ref": "N-10372",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10346",
+      "ref": "N-10346",
       "name": "Cabot Phillips Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1505,14 +1536,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1525,14 +1558,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10382",
-      "ref": "N-10382",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10355",
+      "ref": "N-10355",
       "name": "Mark Amodei House Committee Visual Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1543,14 +1578,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10345"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@type": "Topic",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1561,14 +1598,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@type": "Topic",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1578,14 +1616,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1597,14 +1636,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1616,55 +1657,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10477",
-      "ref": "N-10477",
-      "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-4466",
-        "C-4470",
-        "C-4483",
-        "C-4489",
-        "C-4503",
-        "C-4504",
-        "C-4505"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 7,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10643",
-      "ref": "N-10643",
-      "name": "Harpole Fort Huachuca Alibi Question",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-4514",
-        "C-4515"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10962",
-      "ref": "N-10962",
+      "@type": "Place",
+      "@id": "N-10883",
+      "ref": "N-10883",
       "name": "Venezuela",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1674,12 +1675,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Topic",
-      "@id": "N-11109",
-      "ref": "N-11109",
+      "@id": "N-11027",
+      "ref": "N-11027",
       "name": "Andrew Kolvet Rogue-Actor Explanation",
       "type": "topic",
       "description": "TPUSA's explanation, as the host reports Erika Kirk told her, that Andrew Kolvet went rogue on statements such as the Superman quote, and the host's later rejection of that explanation as coordinated.",
@@ -1693,7 +1696,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -1707,7 +1711,7 @@
         "A-1568.1"
       ],
       "related_nodes": [
-        "N-10376"
+        "N-10349"
       ],
       "tags": [],
       "claim_timestamp": "00:04:47",
@@ -1745,7 +1749,7 @@
         "A-1569.1"
       ],
       "related_nodes": [
-        "N-10376"
+        "N-10349"
       ],
       "tags": [],
       "claim_timestamp": "00:09:15",
@@ -1798,7 +1802,7 @@
         "A-1570.1"
       ],
       "related_nodes": [
-        "N-10377"
+        "N-10350"
       ],
       "tags": [],
       "claim_timestamp": "00:17:33",
@@ -1857,8 +1861,8 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-10380",
-        "N-10899"
+        "N-10353",
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:48:18",
@@ -1879,7 +1883,7 @@
         "A-1574.1"
       ],
       "related_nodes": [
-        "N-10375"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:45:37",
@@ -1898,8 +1902,8 @@
         "A-1575.1"
       ],
       "related_nodes": [
-        "N-10379",
-        "N-10900"
+        "N-10352",
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:30:51",
@@ -1918,7 +1922,7 @@
         "A-1576.1"
       ],
       "related_nodes": [
-        "N-10376"
+        "N-10349"
       ],
       "tags": [],
       "claim_timestamp": "01:06:25",
@@ -1937,15 +1941,15 @@
         "A-1576.2"
       ],
       "related_nodes": [
-        "N-10375",
-        "N-10899",
-        "N-11001"
+        "N-10342",
+        "N-10820",
+        "N-10921"
       ],
       "tags": [],
       "claim_timestamp": "01:08:04",
       "investigative_direction": "Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.",
       "mentions_person_refs": [
-        "N-10899"
+        "N-10820"
       ]
     },
     {
@@ -1958,8 +1962,8 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-10378",
-        "N-10899"
+        "N-10351",
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:49:10",
@@ -1977,8 +1981,8 @@
       "claim": "The host says the Daily Wire's reactivation of her old social media accounts and release of her old trailer did not happen because she allowed it and did not have her permission.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10379",
-        "N-10900"
+        "N-10352",
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -1998,7 +2002,7 @@
       "claim": "The host says Andrew Kolvet, the TPUSA spokesperson, has been working behind the scenes to have her smeared, and that he was caught orchestrating attacks on her through obscure YouTubers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ],
       "tags": [
         "relevance:core"
@@ -2019,7 +2023,7 @@
       "claim": "In a sarcastic paraphrase of TPUSA's position, the host says Ben Shapiro did not much like Charlie Kirk while he was alive but gave TPUSA a million dollars and so was given a main-stage AmFest slot right after Erika Kirk opened the event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10376"
+        "N-10349"
       ],
       "tags": [
         "relevance:context"
@@ -2044,7 +2048,7 @@
         "A-1569.1"
       ],
       "related_nodes": [
-        "N-10376"
+        "N-10349"
       ],
       "tags": [
         "relevance:core"
@@ -2067,7 +2071,7 @@
         "A-2835.1"
       ],
       "related_nodes": [
-        "N-10376"
+        "N-10349"
       ],
       "tags": [
         "relevance:core"
@@ -2091,9 +2095,9 @@
         "A-1570.1"
       ],
       "related_nodes": [
-        "N-10349",
-        "N-10377",
-        "N-10282"
+        "N-10327",
+        "N-10350",
+        "N-10265"
       ],
       "tags": [
         "relevance:core"
@@ -2121,7 +2125,7 @@
         "A-1570.1"
       ],
       "related_nodes": [
-        "N-10377"
+        "N-10350"
       ],
       "tags": [
         "relevance:core"
@@ -2181,8 +2185,8 @@
       "claim": "The host says that after being fired, her former employer followed her to events, called people to try to get her cancelled from speaking events, put pressure on people and brought lawsuits, and that it felt like being stalked by a crazy ex.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10416",
-        "N-10900"
+        "N-10389",
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -2204,9 +2208,9 @@
         "A-1575.1"
       ],
       "related_nodes": [
-        "N-10379",
-        "N-10385",
-        "N-10900"
+        "N-10352",
+        "N-10358",
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -2230,8 +2234,8 @@
       "claim": "The host says Madison Brandford is apparently a Daily Wire intern and that the Daily Wire is launching an iCarly-type show titled In the Know Know in which she will make fun of the host.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10385",
-        "N-10900"
+        "N-10358",
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -2255,7 +2259,7 @@
       ],
       "related_nodes": [
         "N-10001",
-        "N-10116"
+        "N-10112"
       ],
       "tags": [
         "relevance:context"
@@ -2301,8 +2305,7 @@
       "claim": "The host recounts that she was contacted by a man who was very certain he saw two people, Brian Harpole and Erika Kirk, at Fort Huachuca in the days before Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10375",
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -2329,9 +2332,9 @@
       "claim": "The host says Mitch saw Erika Kirk on the 8th leaving the Candlewood Inn [Candlewood Suites] hotel on Fort Huachuca, accompanied by someone who looked similar to Cabot Phillips.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10375",
-        "N-10333",
-        "N-10477"
+        "N-10342",
+        "N-10312",
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2356,9 +2359,9 @@
       "claim": "The host says Mitch is basically 100 percent certain he saw Brian Harpole at a top-brass meeting that took place on the morning of the 9th, concluding around 7:30 a.m.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10375",
-        "N-10373",
-        "N-10326"
+        "N-10342",
+        "N-10347",
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2383,8 +2386,8 @@
       "claim": "The host says Mitch saw a person resembling Cabot Phillips, a special-force type, the next day with Brian Harpole.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10372",
-        "N-10373"
+        "N-10346",
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -2411,7 +2414,7 @@
         "A-2836.1"
       ],
       "related_nodes": [
-        "N-10375"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -2435,8 +2438,8 @@
       "claim": "The host stresses that Mitch did not see Erika Kirk at the meeting on the morning of the 9th and says he alleged seeing her only the night before.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10375",
-        "N-10477"
+        "N-10342",
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2462,7 +2465,7 @@
         "A-1572.1"
       ],
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ],
       "tags": [
         "relevance:context"
@@ -2487,7 +2490,7 @@
       "claim": "The host says the Paramount Tactical account in Valhalla called Mitch and pretended to be a brother, like a brother in arms, in an exchange she dramatizes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ],
       "tags": [
         "relevance:core"
@@ -2507,7 +2510,7 @@
       "claim": "The host says Ian Carroll called her at the same time and urged her to come out against Mitch, saying Mitch was a fraud who was never in the military and that it would be bad for her otherwise.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ],
       "tags": [
         "relevance:core"
@@ -2529,7 +2532,7 @@
       "claim": "The host says a third party effectively threatened that big lawsuits were coming if she did not withdraw Mitch's platform, and that she told Ian Carroll no cease and desist had been sent.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ],
       "tags": [
         "relevance:core"
@@ -2550,7 +2553,7 @@
       "claim": "The host says the critics first said Mitch never served, then had to admit he was in the military, but said he was a really bad man who had abused women in the past, and brought those women onto their platform.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ],
       "tags": [
         "relevance:core"
@@ -2572,8 +2575,8 @@
         "A-2837.1"
       ],
       "related_nodes": [
-        "N-10327",
-        "N-10375"
+        "N-10306",
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -2599,7 +2602,7 @@
         "A-2837.1"
       ],
       "related_nodes": [
-        "N-10327"
+        "N-10306"
       ],
       "tags": [
         "relevance:core"
@@ -2621,7 +2624,7 @@
         "A-1574.1"
       ],
       "related_nodes": [
-        "N-10375"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -2646,8 +2649,8 @@
         "A-1574.1"
       ],
       "related_nodes": [
-        "N-10375",
-        "N-10327"
+        "N-10342",
+        "N-10306"
       ],
       "tags": [
         "relevance:core"
@@ -2669,7 +2672,7 @@
         "A-1574.1"
       ],
       "related_nodes": [
-        "N-10375"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -2694,8 +2697,7 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-10380",
-        "N-10477"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2717,7 +2719,7 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-10380"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2743,7 +2745,7 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-10380"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2768,7 +2770,7 @@
         "A-1572.1"
       ],
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ],
       "tags": [
         "relevance:core"
@@ -2795,8 +2797,7 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-10380",
-        "N-10477"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2817,7 +2818,7 @@
       "claim": "The host says that after her meeting with Erika Kirk she was left with the impression that Kolvet had gone rogue, as TPUSA's excuse was that she told the truth but Kolvet went rogue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11109"
+        "N-11027"
       ],
       "tags": [
         "relevance:core"
@@ -2839,8 +2840,8 @@
       "claim": "The host says TPUSA conceded that Kolvet did receive Charlie's text the night before, in which Charlie was worried about being killed, and that Erika did not know this information and was looking in his iMessages.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340",
-        "N-11109"
+        "N-10318",
+        "N-11027"
       ],
       "tags": [
         "relevance:core"
@@ -2865,9 +2866,9 @@
       "claim": "The host says Erika Kirk claims Kolvet went rogue and that the surgeon also went rogue and violated HIPAA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447",
-        "N-10341",
-        "N-11109"
+        "N-10416",
+        "N-10319",
+        "N-11027"
       ],
       "tags": [
         "relevance:core"
@@ -2888,8 +2889,8 @@
       "claim": "The host says her source says the surgeon did not violate HIPAA and never said the quote, but answered Kolvet's questions because Erika was on the phone in a three-way call, and that the Superman quotation came from Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447",
-        "N-10341"
+        "N-10416",
+        "N-10319"
       ],
       "tags": [
         "relevance:core"
@@ -2913,7 +2914,7 @@
       "claim": "The host says she abstained from telling the public that the quote came from Erika because she thought Erika might need to believe it after her husband died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447"
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -2934,8 +2935,8 @@
       "claim": "The host says that when she sat down with Erika Kirk, Erika conceded that she was at the Hamptons retreat, which the host had not known.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134",
-        "N-10446"
+        "N-10129",
+        "N-10415"
       ],
       "tags": [
         "relevance:core"
@@ -2959,8 +2960,8 @@
       "claim": "The host says Erika Kirk told her she was there when Bibi Netanyahu called.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
-        "N-10446"
+        "N-10320",
+        "N-10415"
       ],
       "tags": [
         "relevance:core"
@@ -2985,8 +2986,8 @@
       "claim": "The host says Erika told her that Netanyahu did call but the part about an offer to take Turning Point to the next level is not true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
-        "N-10446"
+        "N-10320",
+        "N-10415"
       ],
       "tags": [
         "relevance:core"
@@ -3011,7 +3012,7 @@
       "claim": "The host says her previously undisclosed source for the claim that Netanyahu offered to take Turning Point to the next level, and that Charlie Kirk said no, was Andrew Kolvet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -3037,7 +3038,7 @@
       "claim": "The host says another person, whose identity she will not reveal, confirmed the same thing and that Kolvet could not have known anything about that source.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -3061,8 +3062,8 @@
       "claim": "The host says she confirmed it a third time with someone very close to Kolvet who said Kolvet lost a lot of money when Charlie said no to Netanyahu.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
-        "N-10305"
+        "N-10320",
+        "N-10287"
       ],
       "tags": [
         "relevance:core"
@@ -3087,7 +3088,7 @@
       "claim": "The host says that immediately after the stream moment she reached out to Andrew Kolvet and to the TPUSA COO, telling them she was happy to communicate facts to her audience.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10378"
+        "N-10351"
       ],
       "tags": [
         "relevance:core"
@@ -3108,7 +3109,7 @@
       "claim": "The host says she had a phone call with Justin Streiff rather than Kolvet and told him she viewed the obscure-YouTuber alibi as a violation of their ceasefire.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10300"
+        "N-10282"
       ],
       "tags": [
         "relevance:core"
@@ -3132,8 +3133,7 @@
         "A-2838.1"
       ],
       "related_nodes": [
-        "N-10477",
-        "N-10380"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3158,7 +3158,7 @@
         "A-2838.1"
       ],
       "related_nodes": [
-        "N-10477"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3182,7 +3182,7 @@
         "A-2838.1"
       ],
       "related_nodes": [
-        "N-10477"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3204,8 +3204,8 @@
       "claim": "The host says Mitch gave descriptions of the people he saw and she then sent him faces; she was not contacted about Cabot Phillips or Mark Amodei initially.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10372",
-        "N-10382"
+        "N-10346",
+        "N-10355"
       ],
       "tags": [
         "relevance:core"
@@ -3231,8 +3231,8 @@
       "claim": "The host says she thinks she knows who the congressman Mitch saw was and that it was not Mark Amodei.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10371",
-        "N-10382"
+        "N-10345",
+        "N-10355"
       ],
       "tags": [
         "relevance:core"
@@ -3257,7 +3257,7 @@
       "claim": "The host says Israel openly said the Maduro operation was good for it and that Netanyahu had been calling Maduro anti-Semitic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10962",
+        "N-10883",
         "N-10026"
       ],
       "tags": [
@@ -3339,8 +3339,7 @@
       "claim": "The host says she has reached out to Brian Harpole four times and also to Dan Flood, and would accept an explanation with proof of where Harpole was on the morning of the 9th.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373",
-        "N-10643"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3365,8 +3364,7 @@
       "claim": "The host says that, at this stage, she believes it was Brian Harpole whom Mitch saw at Fort Huachuca on the morning of the 9th and otherwise cannot make sense of Kolvet's actions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373",
-        "N-10643"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"

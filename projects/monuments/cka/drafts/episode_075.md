@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-769, N-771, N-772, N-11128, N-11131, N-11132, N-11133
-  - Tip-minted Nodes (reintro-ep075): N-11072
+  - Tip-minted Nodes (supplement_2026-10b): N-769, N-771, N-772, N-11046, N-11049, N-11050, N-11051
+  - Tip-minted Nodes (reintro-ep075): N-10990
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-118, N-199, N-211, N-270, N-298, N-553, N-672, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-770, N-11129, N-10539
+  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-118, N-199, N-211, N-270, N-298, N-553, N-672, N-10000, N-10060, N-10109, N-10201, N-10303, N-10376, N-10379, N-10387, N-10388, N-10405, N-10416, N-10420, N-10466, N-10632, N-10826, N-10883, N-10889, N-11048, N-770, N-11047, N-10494
   - Claim Range: C-6704–C-6809
   - Hole-minted Nodes (wave1): N-324
-  - Hole-minted Nodes (w2_1-ep75): N-10856, N-10857, N-10858
+  - Hole-minted Nodes (w2_1-ep75): N-10777, N-10778, N-10779
   - (see registers)
 
 ## I. Meta-Data
@@ -31,7 +31,7 @@
 - Transcript Completeness Status: Complete (sections after [55:16] are comment reads; transcript ends at [01:09:02])
 - Analyst: Investigation Agent (Episode Analysis Protocol)
 - Analysis Date: 2026-03-11
-- Ledger Continuation: Beginning at A-2436 / C-6706 / N-324 (people) / N-10856 (targets)
+- Ledger Continuation: Beginning at A-2436 / C-6706 / N-324 (people) / N-10777 (targets)
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:10:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: Low (provenance unverifiable in episode; document mailed anonymously)
 
-*Related: C-6722, N-1 (Charlie Kirk), N-10857 (Freemason Bible authentication – reuse if exists)*
+*Related: C-6722, N-1 (Charlie Kirk), N-10778 (Freemason Bible authentication – reuse if exists)*
 
 **A-2439.2** Text excerpt from the document: "It has been correctly stated that symbolism constitutes the very essence of Freemasonry… A symbol or an emblem is an occult representation of something unknown or concealed by a sign or a thing that is known." Section titled "the science of symbolism explained."
 
@@ -347,7 +347,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10856** Pentagon Seating Geometry Claim (Investigation Target)
+**N-10777** Pentagon Seating Geometry Claim (Investigation Target)
 
 Persistent host claim that Charlie Kirk was "seated in the center of a pentagon when he was killed," which she derives by analogy from a pentagram illustration in the so-called "Freemason Bible." In this episode, the claim is host inference, not directly anchored to any artifact depicting the actual seating geometry at the September 10 event. Verification target: obtain and review contemporaneous photographs/video of the September 10 venue showing the actual configuration of the security perimeter and seating.
 
@@ -360,7 +360,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10857** "Freemason Bible" Document Authentication (Investigation Target)
+**N-10778** "Freemason Bible" Document Authentication (Investigation Target)
 
 The host's characterization of the mailed document as a "33rd degree Freemason Bible" originating from the estate auction of a deceased Oklahoma Freemason rests entirely on an unsigned handwritten cover letter. Authentication, provenance, and whether the document reflects mainstream Freemason belief vs. fringe material remains unestablished in-episode. Verification target: confirm document via independent Masonic-history scholars and cross-reference with known Masonic publishing.
 
@@ -373,7 +373,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10858** Erika Kirk Presidential Viability Narrative (Investigation Target)
+**N-10779** Erika Kirk Presidential Viability Narrative (Investigation Target)
 
 Aggregate target tracking whether TPUSA figures and adjacent commentators explicitly floated her viability as a candidate during 2025, prior to public statements she might herself make. This episode contributes three artifact-anchored data points (Bowyer, Turek, McQuaid) within the first ~3 weeks after September 10.
 
@@ -579,7 +579,7 @@ Turning Point USA; subject of the cease and desist, event cancellation and infil
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Existing topic reused for new claims in this episode.
 
@@ -587,7 +587,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10113** Beehive Code / School Underground Premonition
+**N-10109** Beehive Code / School Underground Premonition
 
 Existing topic reused for new claims in this episode.
 
@@ -595,7 +595,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 Existing topic reused for new claims in this episode.
 
@@ -603,7 +603,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for new claims in this episode.
 
@@ -611,7 +611,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10403** Erika Kirk Handler Thesis
+**N-10376** Erika Kirk Handler Thesis
 
 Existing topic reused for new claims in this episode.
 
@@ -619,7 +619,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused for new claims in this episode.
 
@@ -627,7 +627,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10414** CERN Satantic Ritual Claim
+**N-10387** CERN Satantic Ritual Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -635,7 +635,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10415** Charlie Kirk Premonition Pattern
+**N-10388** Charlie Kirk Premonition Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -643,7 +643,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -651,7 +651,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -659,7 +659,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10451** USS Liberty Incident Cover-up Investigation
+**N-10420** USS Liberty Incident Cover-up Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -667,7 +667,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Existing topic reused for new claims in this episode.
 
@@ -675,7 +675,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10694** Dan Flood Role and Behavior Assessment
+**N-10632** Dan Flood Role and Behavior Assessment
 
 Existing topic reused for new claims in this episode.
 
@@ -683,7 +683,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+**N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
 Existing topic reused for new claims in this episode.
 
@@ -691,7 +691,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10962** Venezuela
+**N-10883** Venezuela
 
 Existing topic reused for new claims in this episode.
 
@@ -699,7 +699,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 Existing topic reused for new claims in this episode.
 
@@ -707,7 +707,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11072** Cancelled TPUSA Event and Kanye France Trip
+**N-10990** Cancelled TPUSA Event and Kanye France Trip
 
 Existing topic reused for new claims in this episode.
 
@@ -755,7 +755,7 @@ First named by the host at 01:01:46 in episode 75. Pastor the host groups with C
 
 ---
 
-**N-11128** US and Israel Iran War Betrayal Thesis
+**N-11046** US and Israel Iran War Betrayal Thesis
 
 Node Type: Topic
 The host's argument that the 2026 US and Israeli campaign against Iran was engineered by Israel, that Trump betrayed America First, and that Charlie Kirk was its first casualty.
@@ -764,16 +764,16 @@ The host's argument that the 2026 US and Israeli campaign against Iran was engin
 
 ---
 
-**N-11129** Freemasonry
+**N-11047** Freemasonry
 
-Node Type: Topic
+Node Type: Organization
 The fraternal order and its symbolism, which the host studies and ties to her occult-influence thesis.
 
 *Related: C-6712, C-6717, C-6728*
 
 ---
 
-**N-11130** B'nai B'rith
+**N-11048** B'nai B'rith
 
 Node Type: Organization
 Jewish service organization the host calls the Jewish Freemason group and says has run the country since at least the Civil War.
@@ -782,7 +782,7 @@ Jewish service organization the host calls the Jewish Freemason group and says h
 
 ---
 
-**N-11131** Charlie Kirk Death as Spell Claim
+**N-11049** Charlie Kirk Death as Spell Claim
 
 Node Type: Topic
 The host's belief that the manner and broadcast of Charlie Kirk's death were meant to cast a spell and that he was sacrificed.
@@ -791,7 +791,7 @@ The host's belief that the manner and broadcast of Charlie Kirk's death were mea
 
 ---
 
-**N-10505** Erika Kirk Post-Assassination Conduct Composite
+**N-10466** Erika Kirk Post-Assassination Conduct Composite
 
 Node Type: Topic
 The host's list of Erika Kirk's behaviors after September 10: a raise for Dan Flood, a Times interview, office attendance with her children, claimed absence of fear and forgiveness of the accused.
@@ -800,7 +800,7 @@ The host's list of Erika Kirk's behaviors after September 10: a raise for Dan Fl
 
 ---
 
-**N-11132** Trump Response to Kirk Assassination
+**N-11050** Trump Response to Kirk Assassination
 
 Node Type: Topic
 The host's account of how many posts Trump made about Charlie Kirk, their content, and whether he called for an investigation.
@@ -809,9 +809,9 @@ The host's account of how many posts Trump made about Charlie Kirk, their conten
 
 ---
 
-**N-11133** Glyphosate and White Phosphorus Defense Production Act Order
+**N-11051** Glyphosate and White Phosphorus Defense Production Act Order
 
-Node Type: Topic
+Node Type: Thing
 The February 26 executive order invoking the Defense Production Act for glyphosate and the Washington Post's note on elemental phosphorus, and the host's tie to Israeli use of white phosphorus.
 
 *Related: C-6778, C-6779, C-6780*
@@ -864,7 +864,7 @@ Claim Timestamp: 00:10:30
 Claim: The host says the physical document she shows on camera contains, in its first pages, a pentagram with internal illustrations and the label "Place of sacrifice or worship" pointing to its center.
 
 Anchored Artifacts: A-2439.1
-Related Nodes: N-10857
+Related Nodes: N-10778
 Investigative Direction: Obtain the document or high-resolution photograph to verify the label and language; confirm publication origin.
 
 ---
@@ -876,7 +876,7 @@ Claim Timestamp: 00:16:55
 Claim: Per the document the host reads from, the text asserts that "symbolism constitutes the very essence of Freemasonry" and a separate section entitled "the science of symbolism explained" defines a symbol as "an occult representation of something unknown or concealed by a sign or a thing that is known."
 
 Anchored Artifacts: A-2439.2
-Related Nodes: N-10857
+Related Nodes: N-10778
 Investigative Direction: Verify the text matches a published Masonic source or whether it is idiosyncratic to this copy; consult Masonic historians.
 
 ---
@@ -889,7 +889,7 @@ Claim: Tyler Bowyer stated on camera that he had previously had conversations wi
 
 Anchored Artifacts: A-2440.1
 Mentions: N-11, N-1, N-2
-Related Nodes: N-10858
+Related Nodes: N-10779
 Investigative Direction: Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future.
 
 ---
@@ -902,7 +902,7 @@ Claim: In a clip the host says is from October 7, Frank Turek says he "used to s
 
 Anchored Artifacts: A-2441.1
 Mentions: N-7, N-2, N-4, N-1
-Related Nodes: N-10858
+Related Nodes: N-10779
 Investigative Direction: Identify the full program (radio/podcast); determine whether the comments were on-air or pre-produced.
 
 ---
@@ -915,7 +915,7 @@ Claim: In a clip the host plays, a speaker says Charlie left behind these bluepr
 
 Anchored Artifacts: A-2442.1
 Mentions: N-190, N-1, N-2
-Related Nodes: N-10858
+Related Nodes: N-10779
 Investigative Direction: Identify source program and date; determine what McQuaid claims the "blueprints" to be.
 
 ---
@@ -1028,7 +1028,7 @@ Transcript Snippet: Bill Ackman wants me imprisoned, apparently, for suggesting 
 Anchored Artifacts: 
 
 Mentions: N-37, N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Locate Ackman's posts from the weekend before March 9, 2026 and check whether he called for her prosecution or only shared others' posts.
 
@@ -1045,7 +1045,7 @@ Transcript Snippet: it is completely obvious to anyone that is paying attention 
 Anchored Artifacts: 
 
 Mentions: N-2, N-3
-Related Nodes: N-10858
+Related Nodes: N-10779
 Tags: relevance:core
 Investigative Direction: Compare with Erika Kirk's own public statements on running for office and any on-record answers to questions about a political future.
 
@@ -1062,7 +1062,7 @@ Transcript Snippet: People that practice occult magic are in this moment pushing
 Anchored Artifacts: 
 
 Mentions: N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:tangential
 Investigative Direction: No checkable record is offered; ask the host which named officials or groups she means and what practices she can document.
 
@@ -1127,7 +1127,7 @@ Transcript Snippet: when the world's leading nuclear physicists are caught cloak
 Anchored Artifacts: A-2852.1
 
 Mentions: N-3
-Related Nodes: N-10414
+Related Nodes: N-10387
 Supports: C-5110
 Tags: relevance:tangential
 Investigative Direction: Identify the source and date of the video or image and CERN's own statement about the 2016 staged ritual and the Shiva statue.
@@ -1145,7 +1145,7 @@ Transcript Snippet: that began because of a long organized Freemasonic effort to
 Anchored Artifacts: 
 
 Mentions: N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:tangential
 Investigative Direction: Check historians of science and Masonic history for any organized effort of this kind; no source is offered on air.
 
@@ -1178,7 +1178,7 @@ Transcript Snippet: no one can explain why or how I had the sense of dread in th
 Anchored Artifacts: 
 
 Mentions: N-1, N-3
-Related Nodes: N-10113
+Related Nodes: N-10109
 Supports: C-768
 Tags: relevance:core
 Investigative Direction: Compare with the dated Aug 30 to Sep 2 texts the host has cited and her husband's or staff's recollection of that week.
@@ -1196,7 +1196,7 @@ Transcript Snippet: Why the feeling was so overwhelming that I hired extra secur
 Anchored Artifacts: 
 
 Mentions: N-3, N-1
-Related Nodes: N-10113
+Related Nodes: N-10109
 Supports: C-768
 Tags: relevance:core
 Investigative Direction: Check publication dates of her show in the week before September 10, 2025 and ask the security contractor and school for dates.
@@ -1214,7 +1214,7 @@ Transcript Snippet: He said he knew from the moment he signed on the dotted line
 Anchored Artifacts: 
 
 Mentions: N-1
-Related Nodes: N-10415, N-10000
+Related Nodes: N-10388, N-10000
 Supports: C-1780
 Tags: relevance:core
 Investigative Direction: Obtain the dated messages or recordings in which Charlie said this and compare with the 2018 texts aired earlier in the series.
@@ -1232,7 +1232,7 @@ Transcript Snippet: because of my studying Sigmund Freud and looking into the fa
 Anchored Artifacts: 
 
 Mentions: N-50, N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:tangential
 Investigative Direction: Check Freud biographies for the Philippson or Jakob Freud family Bible and whether it is a Masonic book.
 
@@ -1249,7 +1249,7 @@ Transcript Snippet: a 33rd degree Freemason out in Oklahoma died, and all of his
 Anchored Artifacts: A-2439.1
 
 Mentions: N-3
-Related Nodes: N-10857
+Related Nodes: N-10778
 Tags: relevance:context
 Investigative Direction: Obtain the handwritten letter and envelope, identify the estate and auction, and ask the sender for the chain of custody.
 
@@ -1266,7 +1266,7 @@ Transcript Snippet: they went in and they burnt everything in it effectively, uh
 Anchored Artifacts: A-2439.1
 
 Mentions: N-3
-Related Nodes: N-10857
+Related Nodes: N-10778
 Tags: relevance:context
 Investigative Direction: Interview the sender, request photographs of the book's cover, title page and publisher imprint, and corroborate the account.
 
@@ -1283,7 +1283,7 @@ Transcript Snippet: it illustrates that a sacrifice must be made in the center o
 Anchored Artifacts: A-2439.1
 
 Mentions: N-3
-Related Nodes: N-10857
+Related Nodes: N-10778
 Tags: relevance:context
 Investigative Direction: Have independent Masonic historians read the page and say whether the 'Place of sacrifice or worship' label refers to a sacrifice or to a temple altar.
 
@@ -1300,7 +1300,7 @@ Transcript Snippet: how curious that Charlie was indeed seated in the center of 
 Anchored Artifacts: A-2853.1
 
 Mentions: N-1, N-3
-Related Nodes: N-10856
+Related Nodes: N-10777
 Tags: relevance:core
 Investigative Direction: Obtain a to-scale layout of the Utah Valley University courtyard, tent, stage and seating on September 10, 2025 and test whether it forms a five-sided figure around his seat.
 
@@ -1317,7 +1317,7 @@ Transcript Snippet: B'nai B'rith, the Jewish Freemason group, who I believe have
 Anchored Artifacts: 
 
 Mentions: N-3
-Related Nodes: N-11130
+Related Nodes: N-11048
 Tags: relevance:tangential
 Investigative Direction: No evidence is offered on air; check the organization's published history and membership against the claim of control.
 
@@ -1382,7 +1382,7 @@ Transcript Snippet: Freemasons worship Solomon as the master architect. They bel
 Anchored Artifacts: 
 
 Mentions: N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:tangential
 Investigative Direction: Check published Masonic ritual and Grand Lodge statements on the role of Solomon in the craft.
 
@@ -1431,7 +1431,7 @@ Transcript Snippet: I believe that the manner of Charlie's death Charlie's death
 Anchored Artifacts: 
 
 Mentions: N-1, N-3
-Related Nodes: N-11131
+Related Nodes: N-11049
 Tags: relevance:core
 Investigative Direction: This is a belief without cited evidence; any support would need evidence of who planned the event and why it was broadcast.
 
@@ -1481,7 +1481,7 @@ Transcript Snippet: A square is in Freemasonry an emblem or a symbol of morality
 Anchored Artifacts: A-2439.2
 
 Mentions: N-3
-Related Nodes: N-10857, N-10113
+Related Nodes: N-10778, N-10109
 Tags: relevance:context
 Investigative Direction: Compare with standard Masonic symbolism references to see whether these definitions match published sources.
 
@@ -1530,7 +1530,7 @@ Transcript Snippet: There was an ultimate goal of raising Erika's political prof
 Anchored Artifacts: 
 
 Mentions: N-2, N-11, N-3
-Related Nodes: N-10858
+Related Nodes: N-10779
 Supports: C-6740
 Tags: relevance:core
 Investigative Direction: Collect all TPUSA-side remarks about Erika's political future dated in the first weeks after September 10, 2025.
@@ -1564,7 +1564,7 @@ Transcript Snippet: I want her to be president and to be also the CEO and chairm
 Anchored Artifacts: A-2440.1
 
 Mentions: N-1, N-11, N-2, N-3
-Related Nodes: N-10858
+Related Nodes: N-10779
 Supports: C-5395
 Qualifies: C-6740
 Tags: relevance:core
@@ -1583,7 +1583,7 @@ Transcript Snippet: I don't know if you want to take it cuz I don't think you're
 Anchored Artifacts: A-2441.1
 
 Mentions: N-7, N-1, N-4
-Related Nodes: N-10858
+Related Nodes: N-10779
 Tags: relevance:context
 Investigative Direction: Identify the full October 7 program and check the context of Turek's remark about the 2028 ticket.
 
@@ -1600,7 +1600,7 @@ Transcript Snippet: I definitely thought maybe there would be a Vance Kirk ticke
 Anchored Artifacts: A-2442.1
 
 Mentions: N-190, N-4
-Related Nodes: N-10858
+Related Nodes: N-10779
 Tags: relevance:core
 Investigative Direction: Identify the program and date of the McQuaid clip and the speaker who prompted him.
 
@@ -1617,7 +1617,7 @@ Transcript Snippet: I think Elizabeth Lane read Erika correctly when she posited
 Anchored Artifacts: 
 
 Mentions: N-6, N-2, N-3
-Related Nodes: N-10505
+Related Nodes: N-10466
 Tags: relevance:core
 Investigative Direction: Find Elizabeth Lane's original statement and its date and context.
 
@@ -1634,7 +1634,7 @@ Transcript Snippet: offer a raise to Dan Flood, the security guard who failed Ch
 Anchored Artifacts: 
 
 Mentions: N-2, N-270, N-1, N-3
-Related Nodes: N-10694, N-10505
+Related Nodes: N-10632, N-10466
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA payroll or personnel records or a TPUSA statement on Flood's pay and title after September 10, 2025.
 
@@ -1651,7 +1651,7 @@ Transcript Snippet: offering and then giving an in-home interview to the New Yor
 Anchored Artifacts: 
 
 Mentions: N-2, N-3
-Related Nodes: N-10905, N-10968, N-10505
+Related Nodes: N-10826, N-10889, N-10466
 Supports: C-5609
 Tags: relevance:core
 Investigative Direction: Locate the published Times interview and its date and compare with the September 18, 2025 date noted earlier.
@@ -1669,7 +1669,7 @@ Transcript Snippet: The New York Times, a publication who her husband hated.
 Anchored Artifacts: 
 
 Mentions: N-1, N-2, N-3
-Related Nodes: N-10968
+Related Nodes: N-10889
 Tags: relevance:context
 Investigative Direction: Collect Charlie Kirk's recorded public statements about the Times.
 
@@ -1686,7 +1686,7 @@ Transcript Snippet: the least traumatizing part was the idea of raising her chil
 Anchored Artifacts: 
 
 Mentions: N-2, N-3
-Related Nodes: N-10905, N-10505
+Related Nodes: N-10826, N-10466
 Supports: C-5610
 Tags: relevance:core
 Investigative Direction: Read the Times interview text for the exact quote and context.
@@ -1704,7 +1704,7 @@ Transcript Snippet: she felt compelled to go into the office the same week and t
 Anchored Artifacts: 
 
 Mentions: N-2, N-3
-Related Nodes: N-10505
+Related Nodes: N-10466
 Tags: relevance:core
 Investigative Direction: Ask TPUSA staff and check dated posts or reports of Erika Kirk's office appearances in the week after September 10, 2025.
 
@@ -1721,7 +1721,7 @@ Transcript Snippet: she told Jesse Watters that she had zero fear. None at all.
 Anchored Artifacts: 
 
 Mentions: N-2, N-211, N-3
-Related Nodes: N-10505
+Related Nodes: N-10466
 Tags: relevance:core
 Investigative Direction: Pull the Fox News interview and check the exact words and date.
 
@@ -1738,7 +1738,7 @@ Transcript Snippet: she forgave the person who allegedly murdered her husband be
 Anchored Artifacts: 
 
 Mentions: N-2, N-40, N-3
-Related Nodes: N-10505
+Related Nodes: N-10466
 Supports: C-585
 Tags: relevance:core
 Investigative Direction: Compare the memorial date of the forgiveness statement with when charging documents and evidence were made public.
@@ -1756,7 +1756,7 @@ Transcript Snippet: Erika is so godly that she even helped to validate the impla
 Anchored Artifacts: 
 
 Mentions: N-2, N-40, N-3
-Related Nodes: N-10447, N-10505
+Related Nodes: N-10416, N-10466
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's dated public remarks on the wound and bullet and compare with the medical or ballistic record when released.
 
@@ -1773,7 +1773,7 @@ Transcript Snippet: She came up and crafted the Superman steel neck and all.
 Anchored Artifacts: 
 
 Mentions: N-2, N-3
-Related Nodes: N-10447
+Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Trace which person first stated in public that the neck stopped the bullet, with dates and recordings.
 
@@ -1790,7 +1790,7 @@ Transcript Snippet: 3 weeks after the guy's dead, she's out there with sparklers
 Anchored Artifacts: A-2444.1
 
 Mentions: N-277, N-2
-Related Nodes: N-10403
+Related Nodes: N-10376
 Tags: relevance:context
 Investigative Direction: Identify the event Dillon means and compare its date with the Charlie Kirk memorial and AmFest dates.
 
@@ -1807,7 +1807,7 @@ Transcript Snippet: This guy found all the laundered money and now he knows I'm 
 Anchored Artifacts: A-2444.1
 
 Mentions: N-277, N-2, N-1
-Related Nodes: N-10403
+Related Nodes: N-10376
 Qualifies: C-6757
 Tags: relevance:context
 Investigative Direction: Dillon frames this as a hypothetical; any support would need records of TPUSA funds Charlie may have traced.
@@ -1825,7 +1825,7 @@ Transcript Snippet: And I'm not saying any of that happened. I'm saying that's m
 Anchored Artifacts: A-2444.1
 
 Mentions: N-277
-Related Nodes: N-10403
+Related Nodes: N-10376
 Qualifies: C-6757
 Tags: relevance:context
 Investigative Direction: Obtain the full Tim Dillon episode and confirm the disclaimers on either side of the excerpt.
@@ -1859,7 +1859,7 @@ Transcript Snippet: one of those tweets that he dedicates Charlie Kirk is an AI 
 Anchored Artifacts: 
 
 Mentions: N-5, N-1, N-3
-Related Nodes: N-11132
+Related Nodes: N-11050
 Supports: C-5874
 Tags: relevance:core
 Investigative Direction: Pull Trump's Truth Social and X posts from September 10 to 20, 2025 and identify the post with the AI image and its date.
@@ -1877,7 +1877,7 @@ Transcript Snippet: Trump dedicates a total of two two tweets, three tweets at m
 Anchored Artifacts: 
 
 Mentions: N-5, N-1, N-3
-Related Nodes: N-11132
+Related Nodes: N-11050
 Tags: relevance:core
 Investigative Direction: Compile all Trump posts and public statements mentioning Charlie Kirk from September 10 to 30, 2025, noting any call for an investigation.
 
@@ -1894,7 +1894,7 @@ Transcript Snippet: Trump has shown more interest in debunking the mainstream me
 Anchored Artifacts: 
 
 Mentions: N-5, N-1, N-3
-Related Nodes: N-11132
+Related Nodes: N-11050
 Tags: relevance:context
 Investigative Direction: Compare dates and volume of Trump's posts on the balding story with his statements on the Kirk investigation.
 
@@ -1911,7 +1911,7 @@ Transcript Snippet: he promised low gas prices, that he promised no more forever
 Anchored Artifacts: 
 
 Mentions: N-5, N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Check campaign statements and current national gas price data.
 
@@ -1976,7 +1976,7 @@ Transcript Snippet: Trump's administration then delayed the release of and then 
 Anchored Artifacts: 
 
 Mentions: N-5, N-9, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Compile the dated administration statements and the release schedule of the files.
 
@@ -1993,7 +1993,7 @@ Transcript Snippet: He asked us famously, "Are we still talking about the Epstei
 Anchored Artifacts: 
 
 Mentions: N-5, N-9, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Supports: C-3643
 Tags: relevance:context
 Investigative Direction: Locate the video of Trump's remark and verify whether the second sentence was his or the host's addition.
@@ -2027,7 +2027,7 @@ Transcript Snippet: until Bibi Netanyahu said, "Venezuela's anti-Semitic." Then 
 Anchored Artifacts: A-2445.1
 
 Mentions: N-36, N-672, N-3
-Related Nodes: N-10962
+Related Nodes: N-10883
 Tags: relevance:context
 Investigative Direction: Find any Netanyahu statement about Venezuela before January 2026 and the dates of the operation against Maduro.
 
@@ -2044,7 +2044,7 @@ Transcript Snippet: your tax-paying dollars were sent to support the military op
 Anchored Artifacts: A-2445.1
 
 Mentions: N-3
-Related Nodes: N-10962
+Related Nodes: N-10883
 Tags: relevance:context
 Investigative Direction: Check the shipment headline's date and publication against the date of the operation.
 
@@ -2077,7 +2077,7 @@ Transcript Snippet: That is the cancer-causing agents that is in the weed killer
 Anchored Artifacts: A-2446.1
 
 Mentions: N-3
-Related Nodes: N-11133
+Related Nodes: N-11051
 Tags: relevance:context
 Investigative Direction: Check IARC, EPA and court findings on glyphosate and cancer risk; this is a contested scientific claim.
 
@@ -2094,7 +2094,7 @@ Transcript Snippet: guess Guess what is being used right now in Lebanon. Check o
 Anchored Artifacts: A-2447.1
 
 Mentions: N-3
-Related Nodes: N-11133
+Related Nodes: N-11051
 Qualifies: C-6781
 Tags: relevance:context
 Investigative Direction: Identify the headline's publisher and date and any rights-group findings about white phosphorus in southern Lebanon.
@@ -2112,7 +2112,7 @@ Transcript Snippet: I wonder where they're getting that from. Probably from the 
 Anchored Artifacts: A-2447.1
 
 Mentions: N-5, N-3
-Related Nodes: N-11133
+Related Nodes: N-11051
 Tags: relevance:context
 Investigative Direction: Check US arms transfer records for white phosphorus munitions to Israel and Bayer's role, if any.
 
@@ -2129,7 +2129,7 @@ Transcript Snippet: BB instructed Trump to bomb Iran almost immediately.
 Anchored Artifacts: 
 
 Mentions: N-36, N-5, N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Look for reporting on Netanyahu-Trump communications before the June 2025 strikes and the 2026 campaign.
 
@@ -2146,7 +2146,7 @@ Transcript Snippet: because Charlie Kirk was alive at that time, it was at first
 Anchored Artifacts: 
 
 Mentions: N-1, N-3
-Related Nodes: N-10539, N-11128
+Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: Compare the June 2025 strike scope with Charlie Kirk's stated opposition and any reporting on internal debate.
 
@@ -2163,7 +2163,7 @@ Transcript Snippet: the obstacle of Charlie Kirk was then subsequently removed, 
 Anchored Artifacts: 
 
 Mentions: N-1, N-3
-Related Nodes: N-10539, N-11128
+Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: No evidence of motive is offered; test against the actual investigation record into the shooting.
 
@@ -2180,7 +2180,7 @@ Transcript Snippet: We just murdered 150 Iranian schoolgirls between the ages of
 Anchored Artifacts: 
 
 Mentions: N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Check Iranian, UN and independent reporting on a strike on a girls' school, with casualty count and date.
 
@@ -2197,7 +2197,7 @@ Transcript Snippet: Norm Finkelstein informing me that Israel had a literal and 
 Anchored Artifacts: 
 
 Mentions: N-199, N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:context
 Investigative Direction: Check Finkelstein's published statements on the doctrine; the term is commonly used for periodic military operations, not random killings to limit population.
 
@@ -2214,7 +2214,7 @@ Transcript Snippet: making our way through the Jeffrey Epstein files, effectivel
 Anchored Artifacts: 
 
 Mentions: N-9, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:tangential
 Investigative Direction: Identify the specific documents in the released files and read the context of those conversations.
 
@@ -2248,7 +2248,7 @@ Transcript Snippet: Currently, we are neutralizing Iran's uh command and control
 Anchored Artifacts: A-2449.1
 
 Mentions: N-771
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Identify the interviewer, outlet and date of the full interview.
 
@@ -2265,7 +2265,7 @@ Transcript Snippet: we have Karoline Leavitt signaling that a a draft is not off
 Anchored Artifacts: A-2450.1
 
 Mentions: N-280, N-5, N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Qualifies: C-6793
 Tags: relevance:context
 Investigative Direction: Read the full briefing transcript for whether Leavitt addressed a draft directly.
@@ -2283,7 +2283,7 @@ Transcript Snippet: It's not part of the current plan right now, but the preside
 Anchored Artifacts: A-2450.1
 
 Mentions: N-280, N-5
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Pull the White House briefing transcript and date.
 
@@ -2300,7 +2300,7 @@ Transcript Snippet: that's why he took this historic action by launching Operati
 Anchored Artifacts: A-2450.1
 
 Mentions: N-280, N-5
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Check the Department of War or White House announcement naming Operation Epic Fury and its start date.
 
@@ -2317,7 +2317,7 @@ Transcript Snippet: They have killed and maimed thousands of American soldiers.
 Anchored Artifacts: A-2450.1
 
 Mentions: N-280
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Compare with Department of Defense casualty figures attributed to Iran-backed attacks.
 
@@ -2334,7 +2334,7 @@ Transcript Snippet: Israel got to get away with the Lavon Affair. Only Israel is
 Anchored Artifacts: 
 
 Mentions: N-3
-Related Nodes: N-10451
+Related Nodes: N-10420
 Tags: relevance:context
 Investigative Direction: Compare with the historical record and official inquiries on the Lavon Affair (1954) and the USS Liberty attack (1967).
 
@@ -2351,7 +2351,7 @@ Transcript Snippet: Just Operation Midnight Hammer. That's it. Now it's suddenly
 Anchored Artifacts: 
 
 Mentions: N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Compile dated administration statements on the limits of Operation Midnight Hammer and the later campaign.
 
@@ -2368,7 +2368,7 @@ Transcript Snippet: Bill was retweeting people who were stipulating that it's ac
 Anchored Artifacts: 
 
 Mentions: N-37, N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Capture Ackman's X activity from March 7 to 9, 2026 and check the relevant federal statute.
 
@@ -2402,7 +2402,7 @@ Transcript Snippet: when they sent me that cease and desist, they they wrote uh 
 Anchored Artifacts: 
 
 Mentions: N-3
-Related Nodes: N-10436, N-10000
+Related Nodes: N-10405, N-10000
 Supports: C-4301
 Tags: relevance:core
 Investigative Direction: Obtain the cease and desist letter and read its text on the infiltration claim.
@@ -2420,7 +2420,7 @@ Transcript Snippet: I pointed out the background of all of these pastors and Tur
 Anchored Artifacts: 
 
 Mentions: N-2, N-3
-Related Nodes: N-10436, N-10000
+Related Nodes: N-10405, N-10000
 Supports: C-4301
 Tags: relevance:core
 Investigative Direction: Compile the named pastors' and Erika's mother's documented military or defense ties with sources.
@@ -2438,7 +2438,7 @@ Transcript Snippet: many of us gave thousands of dollars through GiveSendGo so t
 Anchored Artifacts: A-2855.1
 
 Mentions: N-2, N-3
-Related Nodes: N-10505
+Related Nodes: N-10466
 Tags: relevance:context
 Investigative Direction: Locate the GiveSendGo campaign, its organizer, total raised and stated purpose.
 
@@ -2455,7 +2455,7 @@ Transcript Snippet: I think someone pointed out that I even missed that Elon Mus
 Anchored Artifacts: A-2855.1
 
 Mentions: N-118, N-2, N-3
-Related Nodes: N-10505
+Related Nodes: N-10466
 Tags: relevance:context
 Investigative Direction: Check the GiveSendGo donor list or Musk's public statements on a gift to the Kirk family.
 
@@ -2472,7 +2472,7 @@ Transcript Snippet: similarly you had this movement of people similar to the Chr
 Anchored Artifacts: 
 
 Mentions: N-772, N-3
-Related Nodes: N-10209
+Related Nodes: N-10201
 Tags: relevance:tangential
 Investigative Direction: No source is cited; compare historians' accounts of Frankism with the host's analogy.
 
@@ -2489,7 +2489,7 @@ Transcript Snippet: For property that was promised to a lot of these pastors by 
 Anchored Artifacts: 
 
 Mentions: N-3
-Related Nodes: N-10063, N-10209
+Related Nodes: N-10060, N-10201
 Tags: relevance:context
 Investigative Direction: Ask the host for the source; check reporting on any Gaza development plans naming pastors.
 
@@ -2522,7 +2522,7 @@ Transcript Snippet: have it on very good authority that they have had to cancel 
 Anchored Artifacts: A-2855.2
 
 Mentions: N-2, N-3
-Related Nodes: N-10000, N-11072
+Related Nodes: N-10000, N-10990
 Tags: relevance:core
 Investigative Direction: Ask venues and organizers for cancelled Erika Kirk bookings from fall 2025 through March 2026 and the reasons given.
 
@@ -2539,7 +2539,7 @@ Transcript Snippet: make sure you pray for Megyn Kelly. They've been attacking h
 Anchored Artifacts: 
 
 Mentions: N-46, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:tangential
 Investigative Direction: Compile recent attacks on Kelly by named outlets or figures and their dates.
 
@@ -2652,7 +2652,7 @@ Confidence: high
 - **Claim failed admission test – Framing Premise:** "I believe that Charlie Kirk was the first casualty of the war in Iran" (host framing premise, not artifact-anchored in this episode).
 - **Claim failed admission test – Framing Premise:** "He was betrayed. Charlie Kirk was the first casualty of the war in Iran. I'm certain of that" (host framing premise).
 - **Claim failed admission test – Framing Premise:** "It's my belief… that he was intentionally sacrificed" (host framing premise, supported only by analogy to A-2439.1, not by direct evidence).
-- **Claim failed admission test – Speculation / Interpretive Commentary:** "Charlie was indeed seated in the center of a pentagon when he was killed" (host inference; no in-episode artifact depicting actual seating geometry – flagged under investigation target N-10856).
+- **Claim failed admission test – Speculation / Interpretive Commentary:** "Charlie was indeed seated in the center of a pentagon when he was killed" (host inference; no in-episode artifact depicting actual seating geometry – flagged under investigation target N-10777).
 - **Claim failed admission test – Speculation:** "Only a psychopath could… offer a raise to Dan Flood… and give an in-home interview to the New York Times" (host psychological inference; no artifact shown in this episode).
 
 ---
@@ -2681,9 +2681,9 @@ Confidence: high
 **New Nodes Introduced:**
 - N-324 Father Ripperger
 - N-277 Tim Dillon
-- N-10856 Pentagon Seating Geometry Claim (investigation target)
-- N-10857 "Freemason Bible" Document Authentication (investigation target)
-- N-10858 Erika Kirk Presidential Viability Narrative (investigation target)
+- N-10777 Pentagon Seating Geometry Claim (investigation target)
+- N-10778 "Freemason Bible" Document Authentication (investigation target)
+- N-10779 Erika Kirk Presidential Viability Narrative (investigation target)
 
 **Existing Nodes Reused (illustrative):**
 - N-1 Charlie Kirk

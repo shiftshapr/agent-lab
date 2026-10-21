@@ -15,14 +15,14 @@
 - **Transcript SHA-256**: 67ab3083b0404df7c9507cf5fc4bd6362c3ea15854f1bf7fc1d747721c83de9f
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-11371
-  - Hole-minted Nodes (reintro-ep010): N-170, N-10324, N-10434, N-10537
-  - Tip-minted Nodes (reintro-ep010): N-11097
+  - Tip-minted Nodes (supplement_2026-10g): N-11287
+  - Hole-minted Nodes (reintro-ep010): N-170, N-10303, N-10404, N-10492
+  - Tip-minted Nodes (reintro-ep010): N-11015
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-836–C-947
   - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170, A-2520
-  - New Nodes Introduced: N-115, N-116, N-117, N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-10129, N-10130, N-10131, N-10132, N-10133, N-10135, N-10136, N-10137, N-10140
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-36, N-37, N-38, N-40, N-44, N-46, N-5, N-41, N-55, N-60, N-10000, N-10027, N-10062, N-10124, N-15, N-10139, N-10134, N-54, N-10018, N-10033, N-10052, N-10078, N-10100, N-10106, N-10117, N-10342, N-10345, N-10138
+  - New Nodes Introduced: N-115, N-116, N-117, N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-10124, N-10125, N-10126, N-10127, N-10128, N-10130, N-10131, N-10132, N-10135
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-36, N-37, N-38, N-40, N-44, N-46, N-5, N-41, N-55, N-60, N-10000, N-10027, N-10059, N-10119, N-15, N-10134, N-10129, N-54, N-10018, N-10016, N-10049, N-10075, N-10096, N-10102, N-10113, N-10320, N-10323, N-10133
 
 ## 2. Executive Summary
 
@@ -76,13 +76,13 @@ Confidence: high
 **A-1164.2** Testimonial from rooftop-footage filmer obtained by host via Twitter contact, claiming neither feds nor local police reached out to him prior to September 15
 Event Timestamp: 2025-09-15
 Video Timestamp: 00:13:53–00:14:20
-*Related: C-879, N-10124, N-10129*
+*Related: C-879, N-10119, N-10124*
 Transcript Snippet: He told me that neither the feds nor the local police had ever reached out to him. Never.
 Confidence: high
 
 **A-1164.3** Testimonial from second rooftop witness obtained by host, claiming he delivered footage to Orem Police Department on day one and was not contacted by feds until September 15
 Video Timestamp: 00:15:24–00:16:47
-*Related: C-883, N-10124, N-10129*
+*Related: C-883, N-10119, N-10124*
 Transcript Snippet: He walked in and gave the footage to the Orem Police Department… the feds never reached out to him until the 15th.
 Confidence: high
 
@@ -92,13 +92,13 @@ Confidence: high
 
 **A-1165.1** Xaviaer DuRousseau video clip played in episode, addressing Hamptons weekend and use of phrase 'moral blackmail' regarding Charlie Kirk
 Video Timestamp: 00:04:45–00:06:00
-*Related: C-847, C-848, N-115, N-10130*
+*Related: C-847, C-848, N-115, N-10125*
 Transcript Snippet: He said is it is moral blackmail if you say that somebody saying that a politician is bad that you're then empowering a terrorist organization.
 Confidence: high
 
 **A-1165.2** Xaviaer DuRousseau video clip explaining why photos from Hamptons weekend were not posted in real time (safety claim)
 Video Timestamp: 00:06:34–00:07:06
-*Related: C-861, C-862, N-115, N-10130*
+*Related: C-861, C-862, N-115, N-10125*
 Transcript Snippet: The reason we didn't post that in the real time was because of safety.
 Confidence: high
 
@@ -119,7 +119,7 @@ Uncertainty: Photo referenced on screen but full view not described; window clai
 
 **A-1167.1** Tip from young woman via comment section, alleging doorbell footage was only partially released and that additional footage shows alleged Tyler Robinson walking with unidentified woman and changing clothes
 Video Timestamp: 00:31:20–00:32:00
-*Related: C-917, N-40, N-10131, NODE_1010*
+*Related: C-917, N-40, N-10126, NODE_1010*
 Transcript Snippet: there was more footage which showed the person that they allege is Tyler Robinson walking with a woman who they don't know who that is and that he changes clothes.
 Confidence: low
 Uncertainty: Tip is uncorroborated; host says she has established contact with the source but full footage not shown in episode.
@@ -141,7 +141,7 @@ Confidence: high
 **A-1169.1** Public Instagram post by Emily (Saves America) dated August 6 stating she was in the Hamptons, cited as contradicting Xaviaer DuRousseau's safety-based secrecy claim
 Event Timestamp: 2025-08-06
 Video Timestamp: 00:07:17–00:07:49
-*Related: C-861, C-862, N-122, N-115, N-10130*
+*Related: C-861, C-862, N-122, N-115, N-10125*
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons… Sorry, I'm MIA. I'm in the Hamptons.
 Confidence: high
 
@@ -151,7 +151,7 @@ Confidence: high
 
 **A-1170.1** Bill Ackman essay response of 959 words referenced (not shown) in episode as a reply to Candace Owens' prior coverage of the Hamptons weekend and intervention pressure
 Video Timestamp: 00:03:05–00:03:46
-*Related: C-842, N-37, N-10130*
+*Related: C-842, N-37, N-10125*
 Transcript Snippet: Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.
 Confidence: medium
 Uncertainty: Essay referenced verbally with word count but not displayed in episode.
@@ -208,7 +208,7 @@ Video Timestamp: 00:40:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-936, C-937, N-10140, N-1*
+*Related: C-936, C-937, N-10135, N-1*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:43:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-941, N-10138*
+*Related: C-941, N-10133*
 
 ---
 
@@ -589,7 +589,7 @@ Subject organization of the financial concerns Charlie Kirk allegedly raised one
 
 ---
 
-**N-10129** Orem Police Department
+**N-10124** Orem Police Department
 
 Node Type: Organization
 Organization Kind: law_enforcement
@@ -599,7 +599,7 @@ Local Utah police department that received the second rooftop witness's footage 
 
 ---
 
-**N-10130** Department of Government Efficiency (DOGE)
+**N-10125** Department of Government Efficiency (DOGE)
 
 Node Type: Organization
 Organization Kind: government_program
@@ -609,7 +609,7 @@ Referenced as federal initiative by Musk/Ramaswamy and as the model for Charlie 
 
 ---
 
-**N-10124** Riverbend Ranch
+**N-10119** Riverbend Ranch
 
 Node Type: Organization
 Organization Kind: other
@@ -619,7 +619,7 @@ Organization that produced tribute video for Charlie Kirk, aired in episode.
 
 ---
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 Node Type: Organization
 Organization Kind: media_org
@@ -629,7 +629,7 @@ Media platform on which Xaviaer DuRousseau's Hamptons response video was publish
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Node Type: Topic
 Topic Kind: investigation_thread
@@ -639,9 +639,9 @@ Persistent thread on Charlie Kirk's pre-death financial concerns at TPUSA, ancho
 
 ---
 
-**N-10133** Federal Investigation Conduct Question
+**N-10128** Federal Investigation Conduct Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Open question of why federal authorities did not contact the two rooftop-footage witnesses until September 15, anchored by direct testimonials.
 
@@ -649,9 +649,9 @@ Open question of why federal authorities did not contact the two rooftop-footage
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
-Node Type: Topic
+Node Type: Event
 Topic Kind: narrative_pattern
 August 2025 weekend retreat at which pressure was reportedly applied to Charlie Kirk on Israel/Netanyahu positioning; characterized by Charlie as 'moral blackmail'.
 
@@ -659,9 +659,9 @@ August 2025 weekend retreat at which pressure was reportedly applied to Charlie 
 
 ---
 
-**N-10135** Doorbell Footage Completeness Question
+**N-10130** Doorbell Footage Completeness Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Tip-based investigation thread alleging that publicly released doorbell footage of Tyler Robinson is incomplete and shows him with an unidentified woman changing clothes.
 
@@ -671,9 +671,9 @@ Confidence: low
 
 ---
 
-**N-10136** Muzzle Flash Theory (Range Day Bro)
+**N-10131** Muzzle Flash Theory (Range Day Bro)
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Range Day Bro's claim that a muzzle flash is visible inside the flag hall; partially rebutted by host via window-doesn't-open argument.
 
@@ -681,9 +681,9 @@ Range Day Bro's claim that a muzzle flash is visible inside the flag hall; parti
 
 ---
 
-**N-10137** Suspicious Bush Theory (Range Day Bro)
+**N-10132** Suspicious Bush Theory (Range Day Bro)
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Range Day Bro's claim of a human-and-rifle-shaped outline in rooftop bushes; corroborated by host's ground photographs showing translucency.
 
@@ -691,9 +691,9 @@ Range Day Bro's claim of a human-and-rifle-shaped outline in rooftop bushes; cor
 
 ---
 
-**N-10138** Bullet Casing Engraving Pattern
+**N-10133** Bullet Casing Engraving Pattern
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Mentioned by commenters and host regarding markings on bullet casings at recent violent crimes; suggested by host and commenter Ben Autton to resemble 'government signature'.
 
@@ -701,7 +701,7 @@ Mentioned by commenters and host regarding markings on bullet casings at recent 
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -711,9 +711,9 @@ Host asserts this is 'a real thing' when discussing financially motivated pastor
 
 ---
 
-**N-10140** Amazon Pre-Event Book Listing (Sep 9)
+**N-10135** Amazon Pre-Event Book Listing (Sep 9)
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Commenter-referenced screenshot of an Amazon listing dated September 9, 2025 for a book about Charlie with accurate event details; host dismisses as Amazon 'technical error'.
 
@@ -731,7 +731,7 @@ NY region where the August 2025 weekend retreat was held; central to several cla
 
 ---
 
-**N-10062** Orem, Utah
+**N-10059** Orem, Utah
 
 Node Type: Place
 Place Kind: city
@@ -765,7 +765,7 @@ Existing topic reused for the host's restatement of the call and invitation.
 
 ---
 
-**N-10033** Hamptons Donor Pressure Investigation
+**N-10016** Hamptons Meeting Pressure Investigation
 
 Existing topic reused for the financial threats claim.
 
@@ -773,7 +773,7 @@ Existing topic reused for the financial threats claim.
 
 ---
 
-**N-10052** Doorbell-Cam Footage Provenance
+**N-10049** Doorbell-Cam Footage Provenance
 
 Existing topic reused for the doorbell footage tip.
 
@@ -781,7 +781,7 @@ Existing topic reused for the doorbell footage tip.
 
 ---
 
-**N-10078** TPUSA Financial Apparatus Investigation
+**N-10075** TPUSA Financial Apparatus Investigation
 
 Existing topic reused for the finance and leak claims.
 
@@ -789,7 +789,7 @@ Existing topic reused for the finance and leak claims.
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 Existing topic reused for the footage-release claims.
 
@@ -797,7 +797,7 @@ Existing topic reused for the footage-release claims.
 
 ---
 
-**N-10106** Moral Blackmail by Donors
+**N-10102** Moral Blackmail by Donors
 
 Existing topic reused for the moral blackmail remark and workshop framing.
 
@@ -805,7 +805,7 @@ Existing topic reused for the moral blackmail remark and workshop framing.
 
 ---
 
-**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+**N-10113** Jezebel/Etsy Hex on Charlie Kirk
 
 Existing topic reused for the host's hex and priest claim.
 
@@ -813,7 +813,7 @@ Existing topic reused for the host's hex and priest claim.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for Charlie's distrust of the feds.
 
@@ -821,7 +821,7 @@ Existing topic reused for Charlie's distrust of the feds.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for the offer claim.
 
@@ -829,7 +829,7 @@ Existing topic reused for the offer claim.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Existing topic reused for the Dillon and Hammer claims.
 
@@ -837,7 +837,7 @@ Existing topic reused for the Dillon and Hammer claims.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Existing topic reused for the September 2 announcement.
 
@@ -845,7 +845,7 @@ Existing topic reused for the September 2 announcement.
 
 ---
 
-**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
+**N-10492** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Existing topic reused for the necklace claim.
 
@@ -853,7 +853,7 @@ Existing topic reused for the necklace claim.
 
 ---
 
-**N-11097** TPUSA Post-Assassination Fundraising Claim
+**N-11015** TPUSA Post-Assassination Fundraising Claim
 
 Existing topic reused for the fundraising email claims.
 
@@ -861,7 +861,7 @@ Existing topic reused for the fundraising email claims.
 
 ---
 
-**N-11371** TPUSA Contractor Double-Dealing Allegation
+**N-11287** TPUSA Contractor Double-Dealing Allegation
 
 Node Type: Topic
 The host's report, from unnamed TPUSA sources, that contractors and other people around the organization took money both ways, earning commissions on both sides of contracts, which she links to Charlie's concern about disappearing money.
@@ -879,7 +879,7 @@ Claim: Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 th
 Transcript Snippet: In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.
 Anchored Artifacts: A-1162.1
 Mentions: N-1, N-15
-Related Nodes: N-10000, N-10130, N-10132
+Related Nodes: N-10000, N-10125, N-10127
 Confidence: high
 Investigative Direction: Obtain the original signed memo directly from TPUSA or insider sources; verify Streiff's actual scope of authority and the composition of the assembled team.
 
@@ -892,7 +892,7 @@ Claim: The host says that a week before his assassination Charlie Kirk expressed
 Transcript Snippet: a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA.
 Anchored Artifacts: A-1162.1
 Mentions: N-1
-Related Nodes: N-10000, N-10132
+Related Nodes: N-10000, N-10127
 Confidence: medium
 Uncertainty: Underlying insider testimony not directly presented in this episode; memo corroborates timing and organizational focus but not the exact motivation.
 Investigative Direction: Identify insiders, obtain contemporaneous communications, and confirm whether the DOGE team was actually stood up prior to September 10, 2025.
@@ -906,7 +906,7 @@ Claim: The host says that, from everything she could see in the photos, the wind
 Transcript Snippet: those windows don't open. So if it's coming from inside… then we should see broken glass.
 Anchored Artifacts: A-1163.1, A-1166.1
 Mentions: N-121
-Related Nodes: N-10136
+Related Nodes: N-10131
 Confidence: medium
 Uncertainty: Window-doesn't-open claim made by host based on photos; not independently verified.
 Investigative Direction: Obtain architectural plans or on-site verification of the flag hall windows' operability and check for any bullet or glass damage.
@@ -933,7 +933,7 @@ Claim: The host says she sent someone to photograph the bush from Range Day Bro'
 Transcript Snippet: I sent somebody there on the ground to get me pictures of that bush today… you can kind of see through it.
 Anchored Artifacts: A-1163.3
 Mentions: N-121
-Related Nodes: N-10137
+Related Nodes: N-10132
 Confidence: medium
 Investigative Direction: Obtain the ground photographs referenced, compare with original Range Day Bro stills, and rule out alternative explanations (foliage, lighting).
 
@@ -945,7 +945,7 @@ Claim Timestamp: 00:13:53
 Claim: The host says the individual who filmed the shooter running across the rooftop told her that neither the feds nor the local police had ever reached out to him.
 Transcript Snippet: He told me that neither the feds nor the local police had ever reached out to him. Never.
 Anchored Artifacts: A-1164.2
-Related Nodes: N-10133
+Related Nodes: N-10128
 Supports: C-883
 Confidence: high
 Investigative Direction: Confirm filmer's identity independently, obtain date-stamped communications or call logs, and verify the September 15 federal contact.
@@ -959,7 +959,7 @@ Claim: A second rooftop witness told the host's team he walked in and gave his f
 Transcript Snippet: He walked in and gave the footage to the Orem Police Department… the feds never reached out to him until the 15th.
 Anchored Artifacts: A-1164.3
 Mentions: N-41
-Related Nodes: N-10062, N-10129, N-10133
+Related Nodes: N-10059, N-10124, N-10128
 Supports: C-879
 Confidence: high
 Investigative Direction: Cross-reference Orem PD intake records, witness identity, and federal contact logs dated September 15.
@@ -974,7 +974,7 @@ Claim: The host says Xaviaer DuRousseau made a video addressing the Hamptons wee
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
-Related Nodes: N-10027, N-10134
+Related Nodes: N-10027, N-10129
 Confidence: medium
 Investigative Direction: Verify with primary recording or transcript of the actual weekend workshop; cross-check DuRousseau's characterization against other attendees.
 
@@ -987,7 +987,7 @@ Claim: C-847 spells the speaker's name 'Xaviaer DuRousseau'; the speaker is Xavi
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
-Related Nodes: N-10027, N-10134
+Related Nodes: N-10027, N-10129
 Revises: C-847
 Confidence: medium
 Investigative Direction: Read with C-847; match DuRousseau's video and channel records under the corrected spelling.
@@ -1001,7 +1001,7 @@ Claim: Host cites an Emily Saves America post dated August 6 stating she was in 
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons.
 Anchored Artifacts: A-1165.2, A-1169.1
 Mentions: N-115, N-122
-Related Nodes: N-10027, N-10134
+Related Nodes: N-10027, N-10129
 Confidence: high
 Investigative Direction: Verify the Instagram post date, contents, and whether it was posted during or after the weekend.
 
@@ -1014,7 +1014,7 @@ Claim: C-861's title spells the name 'Xaviaer DuRousseau'; the person is Xaviaer
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons.
 Anchored Artifacts: A-1165.2, A-1169.1
 Mentions: N-115, N-122
-Related Nodes: N-10027, N-10134
+Related Nodes: N-10027, N-10129
 Revises: C-861
 Confidence: high
 Investigative Direction: Read with C-861; verify the Instagram post date, contents, and whether it was posted during or after the weekend.
@@ -1028,7 +1028,7 @@ Claim: The host says a young woman tipped her in the previous day's comment sect
 Transcript Snippet: there was more footage which showed the person that they allege is Tyler Robinson walking with a woman… and that he changes clothes.
 Anchored Artifacts: A-1167.1
 Mentions: N-40
-Related Nodes: N-10135
+Related Nodes: N-10130
 Confidence: low
 Uncertainty: Tip-based; underlying footage not presented in this episode.
 Investigative Direction: Verify the tip with primary source; obtain the additional footage; identify the unnamed woman.
@@ -1043,7 +1043,7 @@ Claim: Host states that Bill Ackman replied to her prior coverage with a 959-wor
 Transcript Snippet: Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.
 Anchored Artifacts: A-1170.1
 Mentions: N-3, N-37
-Related Nodes: N-10134
+Related Nodes: N-10129
 Confidence: medium
 Uncertainty: Essay not displayed in this episode; word count and characterization are host assertions.
 Investigative Direction: Obtain the full 959-word essay, confirm word count, and analyze whether the host's characterization of omissions is accurate.
@@ -1060,7 +1060,7 @@ Transcript Snippet: And Bill Ackman replies with an essay, college essay.
 
 Anchored Artifacts: A-1170.1
 Mentions: N-37, N-3
-Related Nodes: N-10134
+Related Nodes: N-10129
 Confidence: medium
 Investigative Direction: Obtain Bill Ackman's 959-word essay and check whether it addresses the intervention allegation.
 
@@ -1166,7 +1166,7 @@ Transcript Snippet: I don't like that they have not yet been honest or forthcomi
 
 Anchored Artifacts: 
 Mentions: N-55, N-38, N-1, N-3
-Related Nodes: N-10345, N-10134
+Related Nodes: N-10323, N-10129
 Supports: C-239
 Tags: relevance:context
 Investigative Direction: Obtain Hammer's and Dillon's own public statements about the Hamptons weekend and compare them with the accounts of other attendees.
@@ -1183,7 +1183,7 @@ Transcript Snippet: I tell you about BB Netanyahu calling Charlie Kirk and invit
 
 Anchored Artifacts: 
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10018, N-10134
+Related Nodes: N-10018, N-10129
 Supports: C-82
 Tags: relevance:context
 Investigative Direction: Obtain Netanyahu's own account of the call (he told interviewers he phoned Kirk weeks before the shooting) and any contemporaneous message logs.
@@ -1200,7 +1200,7 @@ Transcript Snippet: my point about the quote unquote intervention which is how C
 
 Anchored Artifacts: 
 Mentions: N-1, N-37, N-3
-Related Nodes: N-10134
+Related Nodes: N-10129
 Supports: C-79
 Tags: relevance:context
 Investigative Direction: Find a first-hand source (message, recording or attendee) in which Charlie uses the word intervention about the weekend.
@@ -1217,7 +1217,7 @@ Transcript Snippet: my point about BB Netanyahu and the offer to take Turning Po
 
 Anchored Artifacts: 
 Mentions: N-36, N-3
-Related Nodes: N-10342, N-10000
+Related Nodes: N-10320, N-10000
 Tags: relevance:context
 Investigative Direction: Identify who relayed the offer to the host and obtain any written record of what was proposed and to whom.
 
@@ -1233,7 +1233,7 @@ Transcript Snippet: People thought that Charlie's ideas were trending in the wro
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10134
+Related Nodes: N-10129
 Tags: relevance:context
 Investigative Direction: Ask attendees of the Hamptons weekend and TPUSA donors which positions of Charlie's they objected to.
 
@@ -1249,7 +1249,7 @@ Transcript Snippet: which seems like there was some sort of a PR crisis going on
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10134
+Related Nodes: N-10129
 Tags: relevance:context
 Investigative Direction: Collect the timestamps of the response videos and tweets and compare them with when the weekend first became public.
 
@@ -1265,7 +1265,7 @@ Transcript Snippet: rather than answering messaged me to say I am speaking out a
 
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-3
-Related Nodes: N-10134
+Related Nodes: N-10129
 Tags: relevance:context
 Investigative Direction: Obtain the message exchange and the date of DuRousseau's video.
 
@@ -1281,7 +1281,7 @@ Transcript Snippet: but this was done in more of a workshop setting essentially 
 
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
-Related Nodes: N-10106, N-10134
+Related Nodes: N-10102, N-10129
 Tags: relevance:context
 Investigative Direction: Compare DuRousseau's workshop description with accounts from other attendees and with the agenda of the weekend.
 
@@ -1297,7 +1297,7 @@ Transcript Snippet: it talks about how Charlie raised up his phone and had writt
 
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1, N-36
-Related Nodes: N-10134
+Related Nodes: N-10129
 Tags: relevance:context
 Investigative Direction: Locate the article DuRousseau calls the hit piece and any draft or deleted post matching the description.
 
@@ -1313,7 +1313,7 @@ Transcript Snippet: If you do that, you're indirectly going to empower Hamas.
 
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
-Related Nodes: N-10106, N-10134
+Related Nodes: N-10102, N-10129
 Tags: relevance:context
 Investigative Direction: Identify the woman and corroborate the exchange with other attendees.
 
@@ -1329,7 +1329,7 @@ Transcript Snippet: you need to stop doing it emotionally. You need to do it log
 
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
-Related Nodes: N-10106, N-10134
+Related Nodes: N-10102, N-10129
 Tags: relevance:context
 Investigative Direction: Compare with Charlie's own words to Megyn Kelly the next day and with other attendees' recollections.
 
@@ -1345,7 +1345,7 @@ Transcript Snippet: they saw which way the wind was traveling in terms of his po
 
 Anchored Artifacts: 
 Mentions: N-38, N-55, N-1, N-36
-Related Nodes: N-10345, N-10134
+Related Nodes: N-10323, N-10129
 Supports: C-239
 Tags: relevance:context
 Investigative Direction: Corroborate the tone of the exchange with other attendees and with Dillon's and Hammer's own accounts.
@@ -1362,7 +1362,7 @@ Transcript Snippet: the day after this little weekend retreat where he vented to
 
 Anchored Artifacts: 
 Mentions: N-1, N-46
-Related Nodes: N-10134
+Related Nodes: N-10129
 Supports: C-254
 Tags: relevance:context
 Investigative Direction: Locate the Megyn Kelly recording the host says she has played several times and confirm its date.
@@ -1379,7 +1379,7 @@ Transcript Snippet: this weekend was kept hush hush which is extraordinarily unu
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10134, N-10000
+Related Nodes: N-10129, N-10000
 Tags: relevance:context
 Investigative Direction: Compare TPUSA's usual promotion of influencer events with the lack of coverage of this weekend.
 
@@ -1395,7 +1395,7 @@ Transcript Snippet: Xavier offered this explanation for why they didn't post abo
 
 Anchored Artifacts: 
 Mentions: N-115, N-3
-Related Nodes: N-10134, N-10000
+Related Nodes: N-10129, N-10000
 Tags: relevance:context
 Investigative Direction: Collect the first public posts from each attendee and compare them with the date the weekend first surfaced.
 
@@ -1411,7 +1411,7 @@ Transcript Snippet: The reason we didn't post that in the real time was because 
 
 Anchored Artifacts: A-1165.2
 Mentions: N-115
-Related Nodes: N-10134
+Related Nodes: N-10129
 Tags: relevance:context
 Investigative Direction: Check the dates of DuRousseau's Instagram photos and of other attendees' posts.
 
@@ -1427,7 +1427,7 @@ Transcript Snippet: you guys never connected to Turning Point USA publicly.
 
 Anchored Artifacts: A-1165.2
 Mentions: N-115, N-3
-Related Nodes: N-10134, N-10000, N-10027
+Related Nodes: N-10129, N-10000, N-10027
 Tags: relevance:context
 Investigative Direction: Review the captions and tags on the attendees' posts for any mention of TPUSA.
 
@@ -1443,7 +1443,7 @@ Transcript Snippet: Marissa has never always been open about the fact that she w
 
 Anchored Artifacts: A-2520.2
 Mentions: N-117, N-3
-Related Nodes: N-10131
+Related Nodes: N-10126
 Tags: relevance:context
 Investigative Direction: Check Streit's public biography and interviews for her IDF intelligence service.
 
@@ -1459,7 +1459,7 @@ Transcript Snippet: I don't like the fact that Charlie was literally facing fina
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10106, N-10033
+Related Nodes: N-10102, N-10016
 Supports: C-75
 Tags: relevance:context
 Investigative Direction: Identify which donors or groups made the threats, when, and in what form.
@@ -1476,7 +1476,7 @@ Transcript Snippet: is the fact that Turning Point will not release the footage.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10100
+Related Nodes: N-10000, N-10096
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to identify the footage in question and the stated reasons for withholding it.
 
@@ -1492,7 +1492,7 @@ Transcript Snippet: they see this footage of someone quickly remove the SD cards
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10100
+Related Nodes: N-10000, N-10096
 Tags: relevance:core
 Investigative Direction: Obtain the SD card removal footage and the chain-of-custody record for the cards.
 
@@ -1508,7 +1508,7 @@ Transcript Snippet: Last I checked, the feds cannot bring charges against you fo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10100
+Related Nodes: N-10000, N-10096
 Tags: relevance:core
 Investigative Direction: Obtain any request or instruction from law enforcement asking TPUSA not to release footage.
 
@@ -1524,7 +1524,7 @@ Transcript Snippet: Certainly Charlie didn't. He didn't believe we were getting 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Locate Charlie's own on-air statements about the Epstein files and federal disclosure.
 
@@ -1572,7 +1572,7 @@ Transcript Snippet: we haven't received any updates whatsoever on the raid that 
 
 Anchored Artifacts: 
 Mentions: N-54, N-40, N-3
-Related Nodes: N-10062
+Related Nodes: N-10059
 Tags: relevance:core
 Investigative Direction: Request the search warrant, return and any charging or non-charging decision concerning Lance.
 
@@ -1588,7 +1588,7 @@ Transcript Snippet: my instinct has always been that the feds injected themselve
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Establish the date and agency of the first federal involvement and compare it with the local lead roles.
 
@@ -1604,7 +1604,7 @@ Transcript Snippet: And now I feel as though we can almost establish that as a f
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Test the inference against the witness accounts and the federal contact records.
 
@@ -1620,7 +1620,7 @@ Transcript Snippet: the only video that exists of the shooter sprinting across t
 
 Anchored Artifacts: A-1164.1
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Survey all publicly known rooftop footage to test whether this is the only recording.
 
@@ -1636,7 +1636,7 @@ Transcript Snippet: I'm about to show it to you in a much clearer quality than y
 
 Anchored Artifacts: A-1164.1
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Compare the aired clip with the earlier viral versions and ask the filmer for the original file.
 
@@ -1652,7 +1652,7 @@ Transcript Snippet: Maybe that's the towel that we've been told about.
 
 Anchored Artifacts: A-1164.1
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Compare the object in the clip with the towel described in the charging documents and the Discord messages.
 
@@ -1668,7 +1668,7 @@ Transcript Snippet: It took me all of two hours uh to track down this footage,
 
 Anchored Artifacts: A-1164.2
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Identify the filmer and the Twitter contact and confirm the timeline of the outreach.
 
@@ -1684,7 +1684,7 @@ Transcript Snippet: You have one of two people who have a recording of the shoot
 
 Anchored Artifacts: A-1164.2
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Catalog the known recordings of the shooter and ask the FBI which witnesses it interviewed and when.
 
@@ -1700,7 +1700,7 @@ Transcript Snippet: meaning the metadata that exists, which will tell you the ex
 
 Anchored Artifacts: A-1164.2
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Ask the FBI whether it obtained the original file and metadata of the rooftop clip.
 
@@ -1716,7 +1716,7 @@ Transcript Snippet: "Somebody is on the roof." We spoke about that earlier this 
 
 Anchored Artifacts: A-1164.3
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Match this witness to the footage covered earlier in the week and to the Orem police intake record.
 
@@ -1732,7 +1732,7 @@ Transcript Snippet: I saw the person getting into the shooting position. You nev
 
 Anchored Artifacts: A-1164.3
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Supports: C-883
 Tags: relevance:core
 Investigative Direction: Obtain the witness's police report and the FBI contact record dated September 15.
@@ -1749,7 +1749,7 @@ Transcript Snippet: that looks to me like a cover up. Not like you're trying to 
 
 Anchored Artifacts: A-1164.2, A-1164.3
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Supports: C-879
 Tags: relevance:core
 Investigative Direction: Compare the witnesses' accounts with FBI interview logs and Orem police records of footage intake.
@@ -1766,7 +1766,7 @@ Transcript Snippet: this next piece that I have is in large part thanks to um a 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10132
+Related Nodes: N-10000, N-10127
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the volume and roles of the leakers and corroborate any documents received.
 
@@ -1798,7 +1798,7 @@ Transcript Snippet: so many people have reached out and they spoke about the fin
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10078
+Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Ask the host whether the sources include current employees, vendors or donors and what documents they provided.
 
@@ -1814,7 +1814,7 @@ Transcript Snippet: other journalists got really interested in this angle who we
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10078
+Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Identify the journalists and the forensic accountants and track the reports the host says will follow.
 
@@ -1830,7 +1830,7 @@ Transcript Snippet: an insider um who said that they were there and present when
 
 Anchored Artifacts: A-3278.1
 Mentions: N-1, N-3
-Related Nodes: N-10132, N-10000
+Related Nodes: N-10127, N-10000
 Supports: C-836
 Tags: relevance:core
 Investigative Direction: Identify the insider and the meeting at which Charlie voiced the concern, and obtain any notes or messages.
@@ -1847,7 +1847,7 @@ Transcript Snippet: but in terms of the accounting specifics, he trusted his lie
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10078
+Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Establish who ran fundraising and accounting under Charlie and what he reviewed.
 
@@ -1863,7 +1863,7 @@ Transcript Snippet: you're clearing $100 million a year, you got to have lieuten
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10078
+Related Nodes: N-10000, N-10075
 Tags: relevance:context
 Investigative Direction: Check TPUSA's Form 990 filings for annual revenue.
 
@@ -1879,7 +1879,7 @@ Transcript Snippet: the excuses that he was being given for the money disappeari
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10132, N-10000
+Related Nodes: N-10127, N-10000
 Supports: C-836
 Tags: relevance:core
 Investigative Direction: Obtain the proof the host says she holds and identify to whom Charlie put the questions.
@@ -1896,7 +1896,7 @@ Transcript Snippet: according to sources that the company was burning through ca
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10132, N-10000
+Related Nodes: N-10127, N-10000
 Supports: C-836
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's expenditure growth in 2025 with the claim that cash was being spent too quickly.
@@ -1913,7 +1913,7 @@ Transcript Snippet: Charlie surprised the company uh by announcing that he was p
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10434, N-10132, N-10130
+Related Nodes: N-10404, N-10127, N-10125
 Supports: C-896
 Tags: relevance:core
 Investigative Direction: Establish who received the announcement, how staff reacted and whether the DOGE team was ever staffed.
@@ -1947,7 +1947,7 @@ Transcript Snippet: all of these tips that we are receiving from insiders is acc
 
 Anchored Artifacts: A-1162.1
 Mentions: N-1, N-3
-Related Nodes: N-10132, N-10000
+Related Nodes: N-10127, N-10000
 Supports: C-836
 Tags: relevance:core
 Investigative Direction: Test whether the memo's efficiency language reflects a financial concern or routine reorganization by comparing with TPUSA staff accounts.
@@ -1964,7 +1964,7 @@ Transcript Snippet: there were a lot of contractors and people essentially who w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11371, N-10132, N-10000
+Related Nodes: N-11287, N-10127, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the contractors and review vendor contracts and payments for dual compensation.
 
@@ -1980,7 +1980,7 @@ Transcript Snippet: the preliminary findings are quite astonishing. Okay. And I 
 
 Anchored Artifacts: A-3278.2
 Mentions: N-3
-Related Nodes: N-10132, N-10078
+Related Nodes: N-10127, N-10075
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary findings and identify the accountants and their mandate.
 
@@ -1996,7 +1996,7 @@ Transcript Snippet: but also where the money was coming from, where the money wa
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10132, N-10000
+Related Nodes: N-10127, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the donors or companies Charlie questioned and the basis for his concern.
 
@@ -2012,7 +2012,7 @@ Transcript Snippet: Either speaking about companies that were kind of flooding t
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10132, N-10000
+Related Nodes: N-10127, N-10000
 Tags: relevance:context
 Investigative Direction: Identify the corporate donors and the influence they sought.
 
@@ -2028,7 +2028,7 @@ Transcript Snippet: It sounds like there were people who were effectively double
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11371, N-10132, N-10000
+Related Nodes: N-11287, N-10127, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the contracts and review whether any intermediary was paid by both the organization and the counterparty.
 
@@ -2044,7 +2044,7 @@ Transcript Snippet: I'm going to allow um the reports to come out next week that
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10132, N-10078
+Related Nodes: N-10127, N-10075
 Tags: relevance:core
 Investigative Direction: Monitor for the reports and identify their authors.
 
@@ -2060,7 +2060,7 @@ Transcript Snippet: I met the CEO of this company when I was with Charlie years 
 
 Anchored Artifacts: A-1168.1
 Mentions: N-3, N-1, N-123
-Related Nodes: N-10124
+Related Nodes: N-10119
 Tags: relevance:tangential
 Investigative Direction: Confirm the meeting date with Riverbend Ranch.
 
@@ -2076,7 +2076,7 @@ Transcript Snippet: you can see the same what appears to be the bullet coming do
 
 Anchored Artifacts: A-1163.1
 Mentions: N-121, N-3
-Related Nodes: N-10136
+Related Nodes: N-10131
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the original video, with the audio waveform, to test the alignment.
 
@@ -2092,7 +2092,7 @@ Transcript Snippet: So you'll see him circle the highlighted area right there an
 
 Anchored Artifacts: A-1163.2
 Mentions: N-121, N-1
-Related Nodes: N-10136
+Related Nodes: N-10131
 Tags: relevance:core
 Investigative Direction: Obtain the Marine friend's video and the autopsy or wound-description records.
 
@@ -2108,7 +2108,7 @@ Transcript Snippet: So in this footage you can clearly see that Charlie is shot 
 
 Anchored Artifacts: A-1163.2
 Mentions: N-121, N-1
-Related Nodes: N-10136
+Related Nodes: N-10131
 Tags: relevance:core
 Investigative Direction: Compare against the autopsy or medical findings on entry and exit wounds and against multiple-angle footage.
 
@@ -2124,7 +2124,7 @@ Transcript Snippet: the necklace goes first and it I'm if I'm looking at it, it 
 
 Anchored Artifacts: A-1163.2
 Mentions: N-121, N-1, N-3
-Related Nodes: N-10537
+Related Nodes: N-10492
 Supports: C-909
 Tags: relevance:core
 Investigative Direction: Obtain the frontal footage and the necklace itself, if recovered, to check the break point and timing.
@@ -2141,7 +2141,7 @@ Transcript Snippet: that window is from that zone which they call like the flag 
 
 Anchored Artifacts: A-1166.1
 Mentions: N-121, N-3
-Related Nodes: N-10136
+Related Nodes: N-10131
 Supports: C-912
 Tags: relevance:core
 Investigative Direction: Obtain a site plan of the UVU flag hall and the underpass and verify the filming position.
@@ -2158,7 +2158,7 @@ Transcript Snippet: this part I have not been able to debunk, but I am sending s
 
 Anchored Artifacts: A-1163.3
 Mentions: N-121, N-3
-Related Nodes: N-10137
+Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Obtain the host's on-site photographs and compare them with the original footage.
 
@@ -2174,7 +2174,7 @@ Transcript Snippet: this correlates with a human head and hair and a rifle in th
 
 Anchored Artifacts: A-1163.3
 Mentions: N-121
-Related Nodes: N-10137
+Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Compare the original unblurred photo with on-site photography from the same angle and lighting.
 
@@ -2190,7 +2190,7 @@ Transcript Snippet: that doorbell footage was intentionally presented to the pub
 
 Anchored Artifacts: A-1167.1
 Mentions: N-3
-Related Nodes: N-10135, N-10052
+Related Nodes: N-10130, N-10049
 Supports: C-917
 Tags: relevance:core
 Investigative Direction: Identify the tipster and the full doorbell footage and compare it with the released clip.
@@ -2207,7 +2207,7 @@ Transcript Snippet: I have established connection with that individual and it's 
 
 Anchored Artifacts: A-1167.1
 Mentions: N-3
-Related Nodes: N-10135
+Related Nodes: N-10130
 Tags: relevance:core
 Investigative Direction: Corroborate the tipster's identity and her access to the footage.
 
@@ -2223,7 +2223,7 @@ Transcript Snippet: a Utah person involved in that cover up, which is another pi
 
 Anchored Artifacts: A-1167.1
 Mentions: N-3
-Related Nodes: N-10135, N-10133
+Related Nodes: N-10130, N-10128
 Tags: relevance:core
 Investigative Direction: Identify the person and the role they played in the handling of the doorbell footage.
 
@@ -2239,7 +2239,7 @@ Transcript Snippet: a fundraising email and text messages went out and people fo
 
 Anchored Artifacts: A-3279.1
 Mentions: N-1, N-3
-Related Nodes: N-11097, N-10000
+Related Nodes: N-11015, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the emails and texts and their send dates and senders.
 
@@ -2271,7 +2271,7 @@ Transcript Snippet: those emails that you saw are tech that was not written by E
 
 Anchored Artifacts: A-3279.1
 Mentions: N-2, N-3
-Related Nodes: N-11097, N-10000
+Related Nodes: N-11015, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the TPUSA staff or vendor who authored and approved the messages.
 
@@ -2287,7 +2287,7 @@ Transcript Snippet: I've had fundraising emails go out with my face and my name 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11097
+Related Nodes: N-11015
 Tags: relevance:context
 Investigative Direction: Compare with known fundraising emails bearing the host's name.
 
@@ -2319,7 +2319,7 @@ Transcript Snippet: those decisions are not made by Erika that that's what it me
 
 Anchored Artifacts: A-3279.1
 Mentions: N-2, N-3
-Related Nodes: N-11097, N-10000
+Related Nodes: N-11015, N-10000
 Tags: relevance:core
 Investigative Direction: Identify who approves fundraising campaigns at TPUSA after September 10.
 
@@ -2335,7 +2335,7 @@ Transcript Snippet: This is a a woman who consulted a priest and prayed when she
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10117
+Related Nodes: N-10113
 Tags: relevance:core
 Investigative Direction: Identify the priest and the date, and compare with Erika's own accounts of the hex.
 
@@ -2426,7 +2426,7 @@ Transcript Snippet: I think there were a lot of pastors that were around Charlie
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10139, N-10078
+Related Nodes: N-10134, N-10075
 Tags: relevance:core
 Investigative Direction: Identify the pastors and review their financial ties to TPUSA and related funders.
 
@@ -2442,7 +2442,7 @@ Transcript Snippet: Operation Mocking Pastor is a real thing.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10139
+Related Nodes: N-10134
 Tags: relevance:core
 Investigative Direction: Ask the host to define the alleged operation and name the documents or sources behind it.
 
@@ -2473,7 +2473,7 @@ Transcript Snippet: which were pretty accurate, of what happened on the 10th. I 
 
 Anchored Artifacts: A-3276.1
 Mentions: N-1
-Related Nodes: N-10140
+Related Nodes: N-10135
 Supports: C-493
 Tags: relevance:core
 Investigative Direction: Obtain the Amazon listing history (page capture, ASIN record) and the publisher's account of the date error.
@@ -2490,7 +2490,7 @@ Transcript Snippet: I think Amazon came out and said that it was a technical err
 
 Anchored Artifacts: A-3276.1
 Mentions: N-3
-Related Nodes: N-10140
+Related Nodes: N-10135
 Tags: relevance:core
 Investigative Direction: Find Amazon's public statement and any publisher explanation of the listing date.
 
@@ -2506,7 +2506,7 @@ Transcript Snippet: You can send it to us tips. com. You're inundated, guys.
 
 Anchored Artifacts: A-3277.1
 Mentions: N-3
-Related Nodes: N-10133
+Related Nodes: N-10128
 Tags: relevance:context, calls_for_tips, submissions_to_candace
 Investigative Direction: Count the footage submissions received and which were verified.
 
@@ -2537,7 +2537,7 @@ Transcript Snippet: You and this both agree that that is very suspect. Like I sa
 
 Anchored Artifacts: A-3276.2
 Mentions: N-3
-Related Nodes: N-10138
+Related Nodes: N-10133
 Tags: relevance:core
 Investigative Direction: Compile the documented cases of inscribed casings and the investigating agencies' statements on them.
 

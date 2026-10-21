@@ -32,7 +32,7 @@
             "C-8378"
           ],
           "related_nodes": [
-            "N-10623"
+            "N-10569"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,8 +60,8 @@
             "C-8394"
           ],
           "related_nodes": [
-            "N-10623",
-            "N-10624"
+            "N-10569",
+            "N-10570"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -80,8 +80,8 @@
             "C-8391"
           ],
           "related_nodes": [
-            "N-10623",
-            "N-10624"
+            "N-10569",
+            "N-10570"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -106,7 +106,7 @@
             "C-8430"
           ],
           "related_nodes": [
-            "N-10624"
+            "N-10570"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,7 +123,7 @@
             "C-8434"
           ],
           "related_nodes": [
-            "N-10624"
+            "N-10570"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -148,7 +148,7 @@
             "C-8418"
           ],
           "related_nodes": [
-            "N-10625"
+            "N-10571"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -173,7 +173,7 @@
             "C-8420"
           ],
           "related_nodes": [
-            "N-10625"
+            "N-10571"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-8421"
           ],
           "related_nodes": [
-            "N-10625"
+            "N-10571"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,7 +207,7 @@
             "C-8422"
           ],
           "related_nodes": [
-            "N-10625"
+            "N-10571"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -232,7 +232,7 @@
             "C-8450"
           ],
           "related_nodes": [
-            "N-10629"
+            "N-10575"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -257,7 +257,7 @@
             "C-8441"
           ],
           "related_nodes": [
-            "N-10630"
+            "N-10576"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -282,7 +282,7 @@
             "C-8446"
           ],
           "related_nodes": [
-            "N-10628"
+            "N-10574"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -299,7 +299,7 @@
             "C-8455"
           ],
           "related_nodes": [
-            "N-10629"
+            "N-10575"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -324,7 +324,7 @@
             "C-8461"
           ],
           "related_nodes": [
-            "N-10629"
+            "N-10575"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -349,8 +349,8 @@
             "C-8465"
           ],
           "related_nodes": [
-            "N-10629",
-            "N-10631"
+            "N-10575",
+            "N-10577"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,7 +375,7 @@
             "C-8467"
           ],
           "related_nodes": [
-            "N-10631"
+            "N-10577"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
             "C-8453"
           ],
           "related_nodes": [
-            "N-10629"
+            "N-10575"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -464,7 +464,7 @@
           "description": "Comment by user \"Seven Sheets\": \"Grandpa's words sum it up for me. I pray for the family that is being put through this.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10633"
+            "N-10579"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -479,8 +479,8 @@
           "description": "Comment by user \"Always Be True\" questioning prosecution's lone-gunman theory and asking when location was disclosed",
           "related_claims": [],
           "related_nodes": [
-            "N-10633",
-            "N-10635"
+            "N-10579",
+            "N-10581"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -535,7 +535,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-341",
-            "N-10636"
+            "N-10551"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -552,7 +552,7 @@
             "C-8485"
           ],
           "related_nodes": [
-            "N-10634"
+            "N-10580"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -577,7 +577,7 @@
             "C-8405"
           ],
           "related_nodes": [
-            "N-10626"
+            "N-10572"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -644,11 +644,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10623",
-      "ref": "N-10623",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10569",
+      "ref": "N-10569",
       "name": "Defense Access to Tyler Robinson Phone Data",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent defense claim that they have not been able to access their client's phone or its contents.",
       "related_artifacts": [
         "A-1994.1",
@@ -663,14 +663,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10624",
-      "ref": "N-10624",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10570",
+      "ref": "N-10570",
       "name": "Defense Access to Firearm Evidence (Quantico)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Defense has never physically examined the firearm; rifle reportedly held at FBI Quantico facility in a state case.",
       "related_artifacts": [
         "A-1994.1",
@@ -685,14 +686,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10625",
-      "ref": "N-10625",
+      "@type": "Topic",
+      "@id": "N-10571",
+      "ref": "N-10571",
       "name": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Prosecution reportedly plans to present 35 exhibits at probable cause hearing.",
       "related_artifacts": [
         "A-1994.1"
@@ -702,14 +704,16 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Thing",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10626",
-      "ref": "N-10626",
+      "@type": "Event",
+      "@id": "N-10572",
+      "ref": "N-10572",
       "name": "Erika Kirk Speedy Trial Motion (January 16)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Host claims Erika Kirk filed victim's speedy trial motion in Utah on January 16; artifact referenced but not shown.",
       "related_artifacts": [
         "A-2006.1"
@@ -721,14 +725,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10627",
-      "ref": "N-10627",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10573",
+      "ref": "N-10573",
       "name": "Pinnacle High School Cancellation Reasons",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Discrepancy between Turning Point's stated reason (death threats) and host's claim that cancellation was driven by boycott.",
       "related_artifacts": [
         "A-1996.1",
@@ -746,14 +752,16 @@
       "evidence_count": 4,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10557"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10628",
-      "ref": "N-10628",
+      "@type": "Topic",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Allegations that Loomer was placed on involuntary psychiatric holds and is prohibited from owning weapons.",
       "related_artifacts": [
         "A-2000.1"
@@ -765,14 +773,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10629",
-      "ref": "N-10629",
+      "@type": "Topic",
+      "@id": "N-10575",
+      "ref": "N-10575",
       "name": "Laura Loomer Sexual Assault Allegations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Multiple men have publicly alleged Loomer assaulted them; includes Jacoby, an unnamed Brazilian volunteer (per Milo), and viral video of suggestive conduct.",
       "related_artifacts": [
         "A-1998.1",
@@ -790,14 +799,15 @@
       "evidence_count": 4,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10630",
-      "ref": "N-10630",
+      "@type": "Topic",
+      "@id": "N-10576",
+      "ref": "N-10576",
       "name": "Laura Loomer Identity Claims (Jewish Heritage)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host claim (and video artifact) disputing Loomer's publicly claimed Jewish identity.",
       "related_artifacts": [
         "A-1999.1"
@@ -809,14 +819,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10631",
-      "ref": "N-10631",
+      "@type": "Topic",
+      "@id": "N-10577",
+      "ref": "N-10577",
       "name": "George Farmer / Tracy Robinson $6,987 Incident",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Disputed incident; Laura Loomer's tweet alleged drunk driving with firearm; insurance record shows $6,987 payment.",
       "related_artifacts": [
         "A-2002.1",
@@ -830,14 +841,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10632",
-      "ref": "N-10632",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10578",
+      "ref": "N-10578",
       "name": "Tyler Robinson's Grandfather's Position vs. Family Narrative",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Discrepancy between public \"family turned him in\" framing and grandfather's on-record support.",
       "related_artifacts": [
         "A-1993.1"
@@ -852,14 +864,15 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10633",
-      "ref": "N-10633",
+      "@type": "Topic",
+      "@id": "N-10579",
+      "ref": "N-10579",
       "name": "Tyler Robinson Look-alike Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host speculation that multiple Tyler Robinson look-alikes were present; footages remain grainy.",
       "related_artifacts": [
         "A-1993.1",
@@ -871,14 +884,15 @@
       "evidence_count": 3,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10634",
-      "ref": "N-10634",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10580",
+      "ref": "N-10580",
       "name": "Tyler Robinson Roommate Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question raised by a viewer comment about Tyler Robinson's roommate's potential involvement.",
       "related_artifacts": [
         "A-2005.10"
@@ -890,14 +904,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10635",
-      "ref": "N-10635",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10581",
+      "ref": "N-10581",
       "name": "Lead-up Footage Absence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host reference to alleged absence of CCTV footage from days leading up to September 10.",
       "related_artifacts": [
         "A-2005.5"
@@ -907,24 +922,28 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10636",
-      "ref": "N-10636",
-      "name": "Victor Marx Suspicious Background",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10551",
+      "ref": "N-10551",
+      "name": "Victor Marx Background Verification",
+      "type": "investigation_question",
       "description": "Viewer-flagged concern about Victor Marx being first to leak Charlie Kirk's death; described as a \"licensed gun dealer with a shady past.\"",
       "related_artifacts": [
         "A-2005.9"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-8482"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1479,11 +1498,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1493,14 +1512,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1515,14 +1536,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10021",
       "ref": "N-10021",
       "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1533,14 +1556,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1553,14 +1577,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10034",
-      "ref": "N-10034",
+      "@type": "Topic",
+      "@id": "N-10033",
+      "ref": "N-10033",
       "name": "Lance Twiggs Family Allegations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1571,14 +1596,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1591,14 +1617,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1616,14 +1643,15 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10142",
-      "ref": "N-10142",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10137",
+      "ref": "N-10137",
       "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1633,14 +1661,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10168",
-      "ref": "N-10168",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10161",
+      "ref": "N-10161",
       "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1651,14 +1680,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@type": "Topic",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1669,14 +1700,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1686,14 +1718,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10271",
-      "ref": "N-10271",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10255",
+      "ref": "N-10255",
       "name": "Tyler Robinson Washington County Surveillance Footage Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1703,14 +1737,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10319",
-      "ref": "N-10319",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1722,14 +1757,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10360",
-      "ref": "N-10360",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10336",
+      "ref": "N-10336",
       "name": "Gun Discovery Procedure Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1739,14 +1775,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10487",
-      "ref": "N-10487",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10452",
+      "ref": "N-10452",
       "name": "Dream City Church Connection Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1756,14 +1793,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10570",
-      "ref": "N-10570",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10521",
+      "ref": "N-10521",
       "name": "Defense Discovery Dumping Strategy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1780,14 +1818,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10587",
-      "ref": "N-10587",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10535",
+      "ref": "N-10535",
       "name": "Trump Truth Social Post Pattern Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1802,14 +1842,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10590",
-      "ref": "N-10590",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10538",
+      "ref": "N-10538",
       "name": "Laura Loomer Influence on Trump Policy Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1821,14 +1862,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10535"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10598",
-      "ref": "N-10598",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10545",
+      "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1838,31 +1881,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10604",
-      "ref": "N-10604",
-      "name": "Victor Marx Background Verification",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-8482"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10607",
-      "ref": "N-10607",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10554",
+      "ref": "N-10554",
       "name": "UGA No-Show Security Threat Explanation Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1874,14 +1901,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10608",
-      "ref": "N-10608",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10555",
+      "ref": "N-10555",
       "name": "TPUSA UGA Event Crowd-Size Failure",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1892,14 +1920,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10610",
-      "ref": "N-10610",
+      "@type": "Topic",
+      "@id": "N-10557",
+      "ref": "N-10557",
       "name": "Pinnacle High School Parent Boycott",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1911,32 +1940,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10616",
-      "ref": "N-10616",
-      "name": "UGA Rally Cancellation Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-8412",
-        "C-8416"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10617",
-      "ref": "N-10617",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10563",
+      "ref": "N-10563",
       "name": "Secret Service Statement Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1946,14 +1958,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10554"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10640",
-      "ref": "N-10640",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10585",
+      "ref": "N-10585",
       "name": "Trump Truth Social Tweet Authorship/Origin",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1963,14 +1977,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10660",
-      "ref": "N-10660",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10602",
+      "ref": "N-10602",
       "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1981,14 +1996,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10665",
-      "ref": "N-10665",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10465",
+      "ref": "N-10465",
       "name": "Erika Kirk Educational Credentials Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1998,14 +2014,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10713",
-      "ref": "N-10713",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10649",
+      "ref": "N-10649",
       "name": "Tyler-Lance Text Message Extraction Source",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2017,14 +2034,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10770",
-      "ref": "N-10770",
-      "name": "Utah Valley Hospital File Anomaly",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10188",
+      "ref": "N-10188",
+      "name": "UVU Hospital Charlie Kirk Medical File Access Question",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2034,14 +2053,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10975",
-      "ref": "N-10975",
+      "@type": "Organization",
+      "@id": "N-10896",
+      "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2052,14 +2072,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11149",
-      "ref": "N-11149",
+      "@type": "Event",
+      "@id": "N-11065",
+      "ref": "N-11065",
       "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2075,14 +2097,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11218",
-      "ref": "N-11218",
+      "@type": "Organization",
+      "@id": "N-11134",
+      "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2093,12 +2117,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
       "@type": "Organization",
-      "@id": "N-11349",
-      "ref": "N-11349",
+      "@id": "N-11265",
+      "ref": "N-11265",
       "name": "State Bureau of Investigations (SBI)",
       "type": "organization",
       "description": "Organization the host and Kathy Nester call the SBI, which holds some physical evidence the defense reviewed and which the defense says is waiting for FBI discovery.",
@@ -2111,7 +2137,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -2131,11 +2159,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
-      "@id": "N-11350",
-      "ref": "N-11350",
+      "@type": "Event",
+      "@id": "N-11266",
+      "ref": "N-11266",
       "name": "Erika Kirk Dream City Church Trump Event Appearance",
-      "type": "topic",
+      "type": "event",
       "description": "Erika Kirk's Friday appearance opening for Trump at the Dream City Church in Phoenix, set against the canceled Georgia and Pinnacle High School events.",
       "related_artifacts": [],
       "related_claims": [
@@ -2147,7 +2175,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -2200,6 +2230,25 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -2213,7 +2262,7 @@
         "A-1993.1"
       ],
       "related_nodes": [
-        "N-10632"
+        "N-10578"
       ],
       "tags": [],
       "claim_timestamp": "00:04:32",
@@ -2249,7 +2298,7 @@
         "A-1993.1"
       ],
       "related_nodes": [
-        "N-10632"
+        "N-10578"
       ],
       "tags": [],
       "claim_timestamp": "00:05:39",
@@ -2268,8 +2317,8 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-10623",
-        "N-10624"
+        "N-10569",
+        "N-10570"
       ],
       "tags": [],
       "claim_timestamp": "00:10:02",
@@ -2288,7 +2337,7 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-10623"
+        "N-10569"
       ],
       "tags": [],
       "claim_timestamp": "00:11:37",
@@ -2307,7 +2356,7 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-10623"
+        "N-10569"
       ],
       "tags": [],
       "claim_timestamp": "00:12:20",
@@ -2327,7 +2376,7 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-10624"
+        "N-10570"
       ],
       "tags": [],
       "claim_timestamp": "00:15:13",
@@ -2346,7 +2395,7 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-10624"
+        "N-10570"
       ],
       "tags": [],
       "claim_timestamp": "00:15:13",
@@ -2365,7 +2414,7 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-10625"
+        "N-10571"
       ],
       "tags": [],
       "claim_timestamp": "00:11:37",
@@ -2420,7 +2469,7 @@
         "A-1996.1"
       ],
       "related_nodes": [
-        "N-10627"
+        "N-10573"
       ],
       "tags": [],
       "claim_timestamp": "00:24:50",
@@ -2439,7 +2488,7 @@
         "A-1997.1"
       ],
       "related_nodes": [
-        "N-10627"
+        "N-10573"
       ],
       "tags": [],
       "claim_timestamp": "00:26:35",
@@ -2458,7 +2507,7 @@
         "A-1997.2"
       ],
       "related_nodes": [
-        "N-10627"
+        "N-10573"
       ],
       "tags": [],
       "claim_timestamp": "00:26:35",
@@ -2477,7 +2526,7 @@
         "A-1997.3"
       ],
       "related_nodes": [
-        "N-10627"
+        "N-10573"
       ],
       "tags": [],
       "claim_timestamp": "00:26:35",
@@ -2496,7 +2545,7 @@
         "A-1998.1"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [],
       "claim_timestamp": "00:41:44",
@@ -2517,7 +2566,7 @@
         "A-1999.1"
       ],
       "related_nodes": [
-        "N-10630"
+        "N-10576"
       ],
       "tags": [],
       "claim_timestamp": "00:39:25",
@@ -2536,7 +2585,7 @@
         "A-2000.1"
       ],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [],
       "claim_timestamp": "00:40:15",
@@ -2556,7 +2605,7 @@
         "A-2000.2"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [],
       "claim_timestamp": "00:44:53",
@@ -2576,7 +2625,7 @@
         "A-2001.1"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [],
       "claim_timestamp": "00:47:42",
@@ -2596,7 +2645,7 @@
         "A-2002.1"
       ],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:48:26",
@@ -2617,7 +2666,7 @@
         "A-2003.1"
       ],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:49:11",
@@ -2636,7 +2685,7 @@
         "A-2004.1"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [],
       "claim_timestamp": "00:42:43",
@@ -2672,7 +2721,7 @@
         "A-2005.10"
       ],
       "related_nodes": [
-        "N-10634"
+        "N-10580"
       ],
       "tags": [],
       "claim_timestamp": "01:01:14",
@@ -2689,7 +2738,7 @@
       "claim": "The host states that on January 16, Erika Kirk filed an invocation of speedy trial rights in Utah, permitted under Utah's state victim-rights code.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10626"
+        "N-10572"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -2708,7 +2757,7 @@
         "A-1995.1"
       ],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [
         "relevance:context"
@@ -2729,7 +2778,7 @@
       "claim": "The host says the rifle was found after federal agents led rookie police officers to it once the bomb dogs had already searched that area, and that the bomb dogs had failed to detect it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10360"
+        "N-10336"
       ],
       "tags": [
         "relevance:core"
@@ -2751,7 +2800,7 @@
         "A-1993.1"
       ],
       "related_nodes": [
-        "N-10632"
+        "N-10578"
       ],
       "tags": [
         "relevance:core"
@@ -2774,7 +2823,7 @@
         "A-1993.1"
       ],
       "related_nodes": [
-        "N-10632"
+        "N-10578"
       ],
       "tags": [
         "relevance:context"
@@ -2858,7 +2907,7 @@
       "claim": "The host says Sheriff Brooksby admitted that Tyler Robinson was essentially coerced into turning himself in.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10142",
+        "N-10137",
         "N-10021"
       ],
       "tags": [
@@ -2881,7 +2930,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10021",
-        "N-10022"
+        "N-10022",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -2901,7 +2951,7 @@
       "claim": "The host says the rifle is a family heirloom that belonged to Tyler Robinson's grandfather before it was passed down to Tyler.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10632"
+        "N-10578"
       ],
       "tags": [
         "relevance:core"
@@ -2923,7 +2973,7 @@
         "A-1993.1"
       ],
       "related_nodes": [
-        "N-10632"
+        "N-10578"
       ],
       "tags": [
         "relevance:context"
@@ -2945,7 +2995,7 @@
         "A-1993.1"
       ],
       "related_nodes": [
-        "N-10632"
+        "N-10578"
       ],
       "tags": [
         "relevance:core"
@@ -2968,7 +3018,7 @@
       "claim": "The host says that beyond the point that the .30-06 did not go through, it also did not cause any significant damage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:core"
@@ -2991,8 +3041,8 @@
       "claim": "The host says that people in the hospital made early phone calls saying Charlie had almost no neck left, that she and others received such calls, and that this was a huge lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10660",
-        "N-10319"
+        "N-10602",
+        "N-10300"
       ],
       "tags": [
         "relevance:core"
@@ -3013,8 +3063,8 @@
       "claim": "The host says that outside of the wound Charlie was in very good shape, which she says is not what a .30-06 would do.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10660",
-        "N-10319"
+        "N-10602",
+        "N-10300"
       ],
       "tags": [
         "relevance:core"
@@ -3039,8 +3089,8 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-11149",
-        "N-10110"
+        "N-11065",
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3060,7 +3110,7 @@
       "claim": "The host says Erika Kirk publicly represented that she was confident Tyler Robinson was the shooter and told Bari Weiss yes, 100 percent.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3082,7 +3132,7 @@
       "claim": "The host says that when she asked Erika for the evidence behind her certainty, Erika phoned her lawyer, who explained that they had nothing more than the public had.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3103,8 +3153,8 @@
       "claim": "The host says that on December 15 Erika's lawyer told her the state was in the period of going out to find evidence and would then hand it over to Tyler Robinson's team so they could prepare before the probable cause hearing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110",
-        "N-10570"
+        "N-10106",
+        "N-10521"
       ],
       "tags": [
         "relevance:core"
@@ -3128,8 +3178,8 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10202",
-        "N-10570"
+        "N-10194",
+        "N-10521"
       ],
       "tags": [
         "relevance:core"
@@ -3152,9 +3202,9 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-10975",
+        "N-10896",
         "N-10014",
-        "N-10570"
+        "N-10521"
       ],
       "tags": [
         "relevance:core"
@@ -3176,9 +3226,9 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-10975",
+        "N-10896",
         "N-10014",
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3200,8 +3250,8 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-10570",
-        "N-10110"
+        "N-10521",
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3223,8 +3273,8 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-10110",
-        "N-10570"
+        "N-10106",
+        "N-10521"
       ],
       "tags": [
         "relevance:core"
@@ -3245,7 +3295,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10013",
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3267,8 +3317,8 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-10623",
-        "N-11149"
+        "N-10569",
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3290,7 +3340,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -3312,9 +3362,9 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-11349",
+        "N-11265",
         "N-10014",
-        "N-10570"
+        "N-10521"
       ],
       "tags": [
         "relevance:core"
@@ -3336,8 +3386,8 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-11349",
-        "N-10110"
+        "N-11265",
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3357,8 +3407,8 @@
       "claim": "The host says the prosecution, which she identifies with Erika's team because Erika is listed as the victim, is arguing against a continuance.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10626",
-        "N-11149"
+        "N-10572",
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3378,7 +3428,7 @@
       "claim": "The host says continuances are common courtesies early in a lawsuit and that in all of her own litigation experience, even between hostile lawyers, she has never seen the date not simply moved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10626"
+        "N-10572"
       ],
       "tags": [
         "relevance:context"
@@ -3398,8 +3448,8 @@
       "claim": "The host says the parties all agreed early on that they were happy to adjust the hearing date if the discovery was not met.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10626",
-        "N-10570"
+        "N-10572",
+        "N-10521"
       ],
       "tags": [
         "relevance:core"
@@ -3421,7 +3471,7 @@
         "A-2006.1"
       ],
       "related_nodes": [
-        "N-10626"
+        "N-10572"
       ],
       "tags": [
         "relevance:core"
@@ -3444,8 +3494,8 @@
       "claim": "The host says she believes the prosecution side wants to demand cameras inside the courtroom and deliver a show hearing while the defense cannot counter what is presented.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
-        "N-10626"
+        "N-11065",
+        "N-10572"
       ],
       "tags": [
         "relevance:core"
@@ -3465,8 +3515,8 @@
       "claim": "The host says she is in contact with many people throughout Utah and believes the prosecution, meaning Erika's team, wants a show trial without having handed over critical evidence before the probable cause hearing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
-        "N-10570"
+        "N-11065",
+        "N-10521"
       ],
       "tags": [
         "relevance:core"
@@ -3486,7 +3536,7 @@
       "claim": "The host says Tyler Robinson is a 22-year-old facing the death sentence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:context"
@@ -3526,8 +3576,8 @@
         "A-3262.1"
       ],
       "related_nodes": [
-        "N-11350",
-        "N-10487"
+        "N-11266",
+        "N-10452"
       ],
       "tags": [
         "relevance:core"
@@ -3548,9 +3598,8 @@
       "claim": "The host says Erika did not feel safe despite the Secret Service telling her she was perfectly safe in Georgia and got back on her plane even though she was already there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10607",
-        "N-10616",
-        "N-10617"
+        "N-10554",
+        "N-10563"
       ],
       "tags": [
         "relevance:core"
@@ -3573,8 +3622,8 @@
       "claim": "The host says that everyone knows the real reason Erika canceled the University of Georgia event was the crowd size.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10608",
-        "N-10607"
+        "N-10555",
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -3596,7 +3645,7 @@
         "A-3262.1"
       ],
       "related_nodes": [
-        "N-11350"
+        "N-11266"
       ],
       "tags": [
         "relevance:context"
@@ -3618,8 +3667,8 @@
         "A-3262.1"
       ],
       "related_nodes": [
-        "N-11350",
-        "N-10608"
+        "N-11266",
+        "N-10555"
       ],
       "tags": [
         "relevance:core"
@@ -3639,8 +3688,7 @@
       "claim": "The host says Erika canceled on JD Vance, and that this made him look like a fool.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10607",
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -3663,8 +3711,8 @@
         "A-1996.1"
       ],
       "related_nodes": [
-        "N-10627",
-        "N-10610"
+        "N-10573",
+        "N-10557"
       ],
       "tags": [
         "relevance:core"
@@ -3688,8 +3736,8 @@
         "A-1997.3"
       ],
       "related_nodes": [
-        "N-10610",
-        "N-10627"
+        "N-10557",
+        "N-10573"
       ],
       "tags": [
         "relevance:core"
@@ -3712,7 +3760,7 @@
       "claim": "The host says she showed viewers last week that parents were organizing on Facebook, and that she has never asked anybody to boycott or do anything with Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10610"
+        "N-10557"
       ],
       "tags": [
         "relevance:core"
@@ -3793,7 +3841,7 @@
       "claim": "The host says Erika says at times that she graduated summa cum laude and at other times that she graduated with other honors, and that nothing has been proven.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10665"
+        "N-10465"
       ],
       "tags": [
         "relevance:core"
@@ -3818,7 +3866,7 @@
         "A-1995.1"
       ],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [
         "relevance:context"
@@ -3840,7 +3888,7 @@
         "A-1995.1"
       ],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [
         "relevance:context"
@@ -3863,7 +3911,7 @@
         "A-1995.1"
       ],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [
         "relevance:context"
@@ -3886,8 +3934,8 @@
         "A-1995.1"
       ],
       "related_nodes": [
-        "N-10640",
-        "N-10587"
+        "N-10585",
+        "N-10535"
       ],
       "tags": [
         "relevance:context"
@@ -3909,7 +3957,7 @@
         "A-1995.2"
       ],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [
         "relevance:context"
@@ -3930,7 +3978,7 @@
       "claim": "The host says Laura Loomer claims she is Trump's number one adviser and speaks to him almost daily.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10590"
+        "N-10538"
       ],
       "tags": [
         "relevance:context"
@@ -3991,7 +4039,7 @@
       "claim": "The host says Loomer's identity as a feisty Jew is something she made up around 2019 and that Loomer told the host she was not Jewish.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10630"
+        "N-10576"
       ],
       "tags": [
         "relevance:context"
@@ -4015,7 +4063,7 @@
       "claim": "The host says Loomer was not raised in a temple and was not bat mitzvahed, and, noting that Loomer is Irish and English and that Judaism is matrilineal, says she is not Jewish.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10630"
+        "N-10576"
       ],
       "tags": [
         "relevance:context"
@@ -4040,7 +4088,7 @@
         "A-1999.1"
       ],
       "related_nodes": [
-        "N-10630"
+        "N-10576"
       ],
       "tags": [
         "relevance:context"
@@ -4060,7 +4108,7 @@
       "claim": "The host says Loomer cannot buy or own weapons because she was placed on two involuntary psychiatric holds by her own father, who allegedly is very fearful of her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [
         "relevance:context"
@@ -4084,7 +4132,7 @@
       "claim": "The host says Loomer has had multiple suicide attempts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [
         "relevance:context"
@@ -4104,7 +4152,7 @@
       "claim": "The host says Loomer recently tried to file an appeal with the FBI to reverse the ban on her owning weapons, and the FBI declined to remove it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628",
+        "N-10574",
         "N-10014"
       ],
       "tags": [
@@ -4127,7 +4175,7 @@
         "A-2000.1"
       ],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [
         "relevance:context"
@@ -4148,7 +4196,7 @@
       "claim": "The host says she is told by people in Melania Trump's circle that they believe the person most likely to harm Donald Trump would be Laura Loomer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10590"
+        "N-10538"
       ],
       "tags": [
         "relevance:context"
@@ -4170,7 +4218,7 @@
       "claim": "The host says Loomer often says she is going to commit suicide as a threat when she does not get what she wants.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [
         "relevance:context"
@@ -4190,7 +4238,7 @@
       "claim": "The host says Loomer has been repeatedly accused since the beginning of her career of raping and sexually assaulting men.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [
         "relevance:context"
@@ -4212,7 +4260,7 @@
         "A-1998.1"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [
         "relevance:context"
@@ -4235,7 +4283,7 @@
         "A-1998.1"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [
         "relevance:context"
@@ -4261,7 +4309,7 @@
         "A-2000.2"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [
         "relevance:context"
@@ -4287,7 +4335,7 @@
         "A-2000.2"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [
         "relevance:context"
@@ -4313,7 +4361,7 @@
         "A-2000.2"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [
         "relevance:context"
@@ -4339,7 +4387,7 @@
         "A-2000.2"
       ],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [
         "relevance:context"
@@ -4360,7 +4408,7 @@
       "claim": "The host says there are women who have spoken out and said that it is real and that Loomer has assaulted many men.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [
         "relevance:context"
@@ -4380,7 +4428,7 @@
       "claim": "The host says Loomer has never sued any of the people who put this information out and instead just blocks them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10629"
+        "N-10575"
       ],
       "tags": [
         "relevance:context"
@@ -4400,7 +4448,7 @@
       "claim": "The host says Loomer, when DeSantis was running, said things like Casey DeSantis is making up cancer, and that Trump and his campaign found that quite useful.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10590"
+        "N-10538"
       ],
       "tags": [
         "relevance:context"
@@ -4464,7 +4512,7 @@
         "A-2002.1"
       ],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [
         "relevance:context"
@@ -4488,7 +4536,7 @@
         "A-2003.1"
       ],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [
         "relevance:context"
@@ -4511,7 +4559,7 @@
         "A-2003.1"
       ],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [
         "relevance:context"
@@ -4535,7 +4583,7 @@
       "claim": "The host says her husband got into a fender bender pulling out of a parking lot on a rainy day in broad daylight at about noon.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [
         "relevance:context"
@@ -4556,7 +4604,7 @@
       "claim": "The host says there was no drinking involved, no DUI involved and no police called to the fender bender.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [
         "relevance:context"
@@ -4579,7 +4627,7 @@
         "A-2003.1"
       ],
       "related_nodes": [
-        "N-10631"
+        "N-10577"
       ],
       "tags": [
         "relevance:context"
@@ -4603,7 +4651,7 @@
       "claim": "The host says Trump should speak to his friend Roger Stone about Loomer's suicidal attempts, what she says and does, and the accounts she operates behind the scenes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [
         "relevance:context"
@@ -4645,8 +4693,8 @@
       "claim": "The host says that what Tyler Robinson actually did has certainly not yet been presented throughout the hearings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
-        "N-10110"
+        "N-11065",
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -4668,8 +4716,8 @@
         "A-2005.5"
       ],
       "related_nodes": [
-        "N-10633",
-        "N-10168"
+        "N-10579",
+        "N-10161"
       ],
       "tags": [
         "relevance:core"
@@ -4691,8 +4739,8 @@
         "A-2005.5"
       ],
       "related_nodes": [
-        "N-10635",
-        "N-10271"
+        "N-10581",
+        "N-10255"
       ],
       "tags": [
         "relevance:core"
@@ -4712,8 +4760,8 @@
       "claim": "The host says she is trying to understand whether the missing footage was taken by the feds as they took the inside of Timpanogos Hospital's footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239",
-        "N-11218"
+        "N-10226",
+        "N-11134"
       ],
       "tags": [
         "relevance:core"
@@ -4736,8 +4784,8 @@
       "claim": "The host suggests that maybe there is evidence that Charlie Kirk actually went to Utah Valley Hospital first, which she suggests may explain why the Timpanogos footage was taken.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10770",
-        "N-11218"
+        "N-10188",
+        "N-11134"
       ],
       "tags": [
         "relevance:core"
@@ -4777,8 +4825,7 @@
         "A-2005.9"
       ],
       "related_nodes": [
-        "N-10636",
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:core"
@@ -4804,8 +4851,8 @@
         "A-2005.10"
       ],
       "related_nodes": [
-        "N-10634",
-        "N-10168"
+        "N-10580",
+        "N-10161"
       ],
       "tags": [
         "relevance:core"
@@ -4828,7 +4875,7 @@
       "claim": "The host says she has spoken with Lance Twiggs's family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [
         "relevance:core"
@@ -4848,8 +4895,8 @@
       "claim": "The host says Lance Twiggs's family thinks there was something wrong with the fact that he was not questioned and was immediately let go.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034",
-        "N-10598"
+        "N-10033",
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -4872,8 +4919,8 @@
       "claim": "The host says it is important to get the data from the phones to make sure Lance Twiggs wasn't just texting from his phone and to see what time the messages went out, and asks why they never want to send the timestamps.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10077",
-        "N-10713"
+        "N-10074",
+        "N-10649"
       ],
       "tags": [
         "relevance:core"
@@ -4898,8 +4945,8 @@
         "A-3263.1"
       ],
       "related_nodes": [
-        "N-10077",
-        "N-10713"
+        "N-10074",
+        "N-10649"
       ],
       "tags": [
         "relevance:core"
@@ -4921,8 +4968,8 @@
         "A-3263.1"
       ],
       "related_nodes": [
-        "N-10077",
-        "N-10713"
+        "N-10074",
+        "N-10649"
       ],
       "tags": [
         "relevance:core"

@@ -593,7 +593,7 @@
             "N-1",
             "N-3",
             "N-5",
-            "N-10056"
+            "N-10053"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -623,7 +623,7 @@
             "N-3",
             "N-10020",
             "N-10024",
-            "N-10754"
+            "N-10684"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -675,7 +675,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10268"
+            "N-10252"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1241,7 +1241,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "organization_kind": "political_organization"
+      "organization_kind": "political_organization",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1262,7 +1264,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1286,7 +1290,9 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1308,7 +1314,9 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "educational_institution"
+      "organization_kind": "educational_institution",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
@@ -1330,7 +1338,9 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "platform_or_initiative"
+      "organization_kind": "platform_or_initiative",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1354,7 +1364,9 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "government_agency"
+      "organization_kind": "government_agency",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1375,14 +1387,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "organization_kind": "government_agency",
-      "uncertainty_note": "Transcript spells 'Mossad'; canonical Mossad."
+      "uncertainty_note": "Transcript spells 'Mossad'; canonical Mossad.",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10016",
       "ref": "N-10016",
       "name": "Hamptons Meeting Pressure Investigation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation thread on alleged Bill Ackman-led intervention against Kirk weeks before his death.",
       "related_artifacts": [
         "A-1091.1",
@@ -1397,7 +1411,9 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
       "@type": "Topic",
@@ -1414,14 +1430,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "topic_kind": "narrative_pattern",
-      "uncertainty_note": "No artifact directly shown; based on host assertion of personal communication."
+      "uncertainty_note": "No artifact directly shown; based on host assertion of personal communication.",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10017",
       "ref": "N-10017",
       "name": "Charlie Kirk May 2 Letter Misrepresentation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Discrepancy between Netanyahu's framing of the May 2 letter and host's claim that it actually expressed concern over Israel influence.",
       "related_artifacts": [
         "A-1083.1"
@@ -1435,14 +1452,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "topic",
+      "type": "event",
       "description": "Alleged phone call where Netanyahu invited Kirk to Israel weeks before his death; host frames it as a threat under pressure.",
       "related_artifacts": [
         "A-1082.1",
@@ -1457,14 +1475,16 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10019",
       "ref": "N-10019",
       "name": "Robinson Outfit Change Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Discrepancy between surveillance outfits (maroon vs black) and the 33-hour re-donning of the original outfit.",
       "related_artifacts": [
         "A-1088.1",
@@ -1480,14 +1500,16 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10020",
       "ref": "N-10020",
       "name": "Weapon Disassembly/Reassembly Claim",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "FBI narrative that the Mauser was disassembled on the rooftop, carried in backpack, and found reassembled in woods.",
       "related_artifacts": [
         "A-1087.1",
@@ -1503,14 +1525,16 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10021",
       "ref": "N-10021",
       "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Discrepancy between reported father/pastor-led turn-in and Governor Cox's statement that Robinson has not confessed.",
       "related_artifacts": [
         "A-1089.2",
@@ -1525,7 +1549,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1541,7 +1566,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1561,7 +1587,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1588,7 +1615,9 @@
       "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing",
+      "parent": "N-10045"
     },
     {
       "@type": "Topic",
@@ -1608,7 +1637,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
       "@type": "Place",
@@ -1630,7 +1660,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "place_kind": "country"
+      "place_kind": "country",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Place",
@@ -1648,7 +1680,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "place_kind": "region"
+      "place_kind": "region",
+      "schema_org": "Place"
     },
     {
       "@type": "Place",
@@ -1669,7 +1702,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "place_kind": "venue"
+      "place_kind": "venue",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
       "@type": "Person",
@@ -1689,11 +1724,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10037",
-      "ref": "N-10037",
+      "@type": "Topic",
+      "@id": "N-10036",
+      "ref": "N-10036",
       "name": "Bill Ackman Response Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused; Bill Ackman's response to the host's account of the Hamptons meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1706,14 +1741,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@type": "Topic",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused; dispute over how Netanyahu and others portray Kirk's stance on Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1725,14 +1762,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10097",
-      "ref": "N-10097",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10093",
+      "ref": "N-10093",
       "name": "George Zinn Arrest Location/Timing",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused; George Zinn's arrest and the timing of the in-custody announcement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1742,14 +1780,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10104",
-      "ref": "N-10104",
+      "@type": "Topic",
+      "@id": "N-10100",
+      "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused; claims that Charlie Kirk was moving toward Catholicism.",
       "related_artifacts": [],
       "related_claims": [
@@ -1761,14 +1800,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10106",
-      "ref": "N-10106",
+      "@type": "Topic",
+      "@id": "N-10102",
+      "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused; Kirk's reported sense of being morally blackmailed by donors.",
       "related_artifacts": [],
       "related_claims": [
@@ -1781,14 +1821,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10165",
-      "ref": "N-10165",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10158",
+      "ref": "N-10158",
       "name": "Campus Footage Release Strategy Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused; question of why only grainy campus footage was released.",
       "related_artifacts": [],
       "related_claims": [
@@ -1798,14 +1840,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused; pressure over who could speak at AmFest.",
       "related_artifacts": [],
       "related_claims": [
@@ -1820,14 +1863,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused; the funding offer from Netanyahu to Turning Point USA.",
       "related_artifacts": [],
       "related_claims": [
@@ -1837,14 +1881,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused; Seth Dillon's role at the Hamptons meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1856,14 +1901,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@type": "Topic",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused; Kirk's Catholic practice and trajectory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1875,14 +1922,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused; the Hamptons meeting and the Netanyahu funding offer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1893,14 +1941,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10754",
-      "ref": "N-10754",
+      "@type": "Topic",
+      "@id": "N-10684",
+      "ref": "N-10684",
       "name": "Rooftop Movement Tactical Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused; analysis of the shooter's movement across the rooftop.",
       "related_artifacts": [],
       "related_claims": [
@@ -1911,7 +1961,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -2660,7 +2711,7 @@
       ],
       "related_nodes": [
         "N-10006",
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:context"
@@ -2683,7 +2734,7 @@
         "A-3092.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:context"
@@ -2706,7 +2757,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025",
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:core"
@@ -2732,7 +2783,7 @@
       "related_nodes": [
         "N-10000",
         "N-10025",
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -2757,7 +2808,7 @@
       "claim": "The host says Charlie Kirk was pressed over how he could allow debates about Israel on the America Fest stage and how he could allow Dave Smith, whom she notes is Jewish, to take it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268",
+        "N-10252",
         "N-10025"
       ],
       "tags": [
@@ -2781,7 +2832,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025",
-        "N-10037"
+        "N-10036"
       ],
       "tags": [
         "relevance:core"
@@ -2805,7 +2856,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025",
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:context"
@@ -2828,7 +2879,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10016",
-        "N-10446"
+        "N-10415"
       ],
       "tags": [
         "relevance:core"
@@ -2853,7 +2904,7 @@
       "claim": "The host says Max Blumenthal went to Bill Ackman for comment and that Ackman said he had receipts and could show them but did not provide them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10037",
+        "N-10036",
         "N-10016"
       ],
       "tags": [
@@ -2897,7 +2948,7 @@
       "claim": "The host says she knows that Charlie Kirk was offered a ton of money in that moment, funding she says Netanyahu would have provided and with which, she guesses, Turning Point USA would have gone to an even higher level.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
+        "N-10320",
         "N-10018"
       ],
       "tags": [
@@ -2924,7 +2975,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10016",
-        "N-10446"
+        "N-10415"
       ],
       "tags": [
         "relevance:core"
@@ -2949,7 +3000,7 @@
         "A-1091.1"
       ],
       "related_nodes": [
-        "N-10037",
+        "N-10036",
         "N-10016"
       ],
       "tags": [
@@ -2974,7 +3025,7 @@
         "A-1092.1"
       ],
       "related_nodes": [
-        "N-10345",
+        "N-10323",
         "N-10016"
       ],
       "tags": [
@@ -3003,7 +3054,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10345"
+        "N-10323"
       ],
       "tags": [
         "relevance:core"
@@ -3025,7 +3076,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10016",
-        "N-10345"
+        "N-10323"
       ],
       "tags": [
         "relevance:core"
@@ -3067,8 +3118,8 @@
       "claim": "The host says she can tell viewers factually that Charlie Kirk was praying the rosary.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10350"
+        "N-10100",
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -3089,8 +3140,8 @@
       "claim": "The host says Charlie Kirk was going to Mass and that one of her last conversations with him was her joking that he should just make the last step.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10350"
+        "N-10100",
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -3111,8 +3162,8 @@
       "claim": "The host says that when she told Kirk to take the last step because he was too smart to be a Protestant, he answered \"Haha, you're speaking about uh Mary.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10350"
+        "N-10100",
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -3134,7 +3185,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025",
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -3156,7 +3207,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025",
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:core"
@@ -3178,7 +3229,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:core"
@@ -3201,7 +3252,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3224,7 +3275,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10016",
-        "N-10106",
+        "N-10102",
         "N-10025"
       ],
       "tags": [
@@ -3368,7 +3419,7 @@
       ],
       "related_nodes": [
         "N-10023",
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:context"
@@ -3528,7 +3579,7 @@
       ],
       "related_nodes": [
         "N-10024",
-        "N-10754"
+        "N-10684"
       ],
       "tags": [
         "relevance:core"
@@ -3552,7 +3603,7 @@
       ],
       "related_nodes": [
         "N-10020",
-        "N-10754"
+        "N-10684"
       ],
       "tags": [
         "relevance:core"
@@ -3596,7 +3647,7 @@
       "claim": "The host says George Zinn was arrested, was making noise and signaling that he had somehow shot Kirk, and that at 12:52 it was announced that the suspect was in custody; she describes him as a decoy and suggests more people were involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10097",
+        "N-10093",
         "N-10024"
       ],
       "tags": [
@@ -3666,7 +3717,7 @@
       "related_nodes": [
         "N-10012",
         "N-10028",
-        "N-10165"
+        "N-10158"
       ],
       "tags": [
         "relevance:core"
@@ -3730,7 +3781,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10022",
-        "N-10037"
+        "N-10036"
       ],
       "tags": [
         "relevance:context"
@@ -3920,7 +3971,7 @@
         "A-3095.1"
       ],
       "related_nodes": [
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:tangential"

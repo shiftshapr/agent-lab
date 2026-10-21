@@ -30,7 +30,7 @@
             "C-13070"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -416,11 +416,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10831",
-      "ref": "N-10831",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10754",
+      "ref": "N-10754",
       "name": "Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question of why individuals with specialized ICAC/SVU backgrounds were centrally positioned in handling the September 10 case (initial warrants, statement-taking).",
       "related_artifacts": [
         "A-2376.2",
@@ -435,14 +435,15 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10832",
-      "ref": "N-10832",
+      "@type": "Topic",
+      "@id": "N-10755",
+      "ref": "N-10755",
       "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent claim that a recurring pattern of trafficking / child sex abuse involvement exists across multiple TPUSA-adjacent individuals.",
       "related_artifacts": [
         "A-2382.1"
@@ -458,7 +459,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -674,11 +676,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet on Erika's media tour.",
       "related_artifacts": [],
       "related_claims": [
@@ -688,14 +690,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -705,14 +709,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "FBI, listed among agencies at the scene.",
       "related_artifacts": [],
       "related_claims": [
@@ -722,14 +728,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -739,14 +747,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place; referenced in the host's pressure and blackmail claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -757,14 +766,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -775,14 +786,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@type": "Topic",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -793,14 +805,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10129",
-      "ref": "N-10129",
+      "@type": "Organization",
+      "@id": "N-10124",
+      "ref": "N-10124",
       "name": "Orem Police Department",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Local police the host speculates the ICAC officer worked for.",
       "related_artifacts": [],
       "related_claims": [
@@ -810,14 +823,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10151",
-      "ref": "N-10151",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10146",
+      "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -827,14 +842,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -844,14 +860,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -861,14 +879,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@type": "Topic",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -878,14 +897,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -895,14 +915,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10410",
-      "ref": "N-10410",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10383",
+      "ref": "N-10383",
       "name": "TPUSA Board Member Military–Satanism Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -912,14 +933,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@type": "Topic",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Lawsuits over Romanian trafficking allegations against the church.",
       "related_artifacts": [],
       "related_claims": [
@@ -929,14 +951,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10421",
-      "ref": "N-10421",
+      "@type": "Topic",
+      "@id": "N-10394",
+      "ref": "N-10394",
       "name": "Buckman–TPUSA Donor Relationship Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -946,14 +970,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10435",
-      "ref": "N-10435",
-      "name": "Fort Huachuca Erika Kirk Location Investigation",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10390",
+      "ref": "N-10390",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Fort Huachuca reference.",
       "related_artifacts": [],
       "related_claims": [
@@ -963,14 +988,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10524",
-      "ref": "N-10524",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10481",
+      "ref": "N-10481",
       "name": "Faith Kates – Epstein Relationship Scope",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -980,14 +1007,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10609",
-      "ref": "N-10609",
+      "@type": "Topic",
+      "@id": "N-10556",
+      "ref": "N-10556",
       "name": "Marcus Wada Arms Trafficking and Biography Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -997,14 +1026,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10698",
-      "ref": "N-10698",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10635",
+      "ref": "N-10635",
       "name": "Next Model Management / MC2 Trafficking Connection to Erika Kirk",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the modeling apartments claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1015,14 +1045,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10725",
-      "ref": "N-10725",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10660",
+      "ref": "N-10660",
       "name": "Officer Bagley Body-Cam Battery Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1032,14 +1064,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10770",
-      "ref": "N-10770",
-      "name": "Utah Valley Hospital File Anomaly",
-      "type": "investigation_target",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10188",
+      "ref": "N-10188",
+      "name": "UVU Hospital Charlie Kirk Medical File Access Question",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1049,14 +1082,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@type": "Organization",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "YouTube channel the host says TPUSA used for a ballistics explanation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1066,14 +1100,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10969",
-      "ref": "N-10969",
+      "@type": "Event",
+      "@id": "N-10890",
+      "ref": "N-10890",
       "name": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1083,14 +1119,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-12"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11047",
-      "ref": "N-11047",
+      "@type": "Organization",
+      "@id": "N-10965",
+      "ref": "N-10965",
       "name": "All Things Possible Ministries",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Marx's charity.",
       "related_artifacts": [],
       "related_claims": [
@@ -1100,14 +1139,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q1530022"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11099",
-      "ref": "N-11099",
+      "@type": "Topic",
+      "@id": "N-11017",
+      "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1117,14 +1158,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11165",
-      "ref": "N-11165",
+      "@type": "Organization",
+      "@id": "N-11081",
+      "ref": "N-11081",
       "name": "Romanian Angels Project",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Erika's charity named in the trafficking spreadsheet.",
       "related_artifacts": [],
       "related_claims": [
@@ -1135,14 +1177,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11167",
-      "ref": "N-11167",
+      "@type": "Organization",
+      "@id": "N-11083",
+      "ref": "N-11083",
       "name": "Operation Underground Railroad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Anti-trafficking group the host says Beck funded.",
       "related_artifacts": [],
       "related_claims": [
@@ -1153,14 +1197,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11203",
-      "ref": "N-11203",
+      "@type": "Event",
+      "@id": "N-11119",
+      "ref": "N-11119",
       "name": "Make Heaven Crowded Tour",
-      "type": "investigation_target",
+      "type": "event",
       "description": "First TPUSA tour after Charlie's death.",
       "related_artifacts": [],
       "related_claims": [
@@ -1170,7 +1216,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -1956,8 +2004,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10989",
-      "ref": "N-10989",
+      "@id": "N-10909",
+      "ref": "N-10909",
       "name": "Soter Global Ministries",
       "type": "organization",
       "description": "501(c)(3) the host says provides medical care and training to orphans in Romania, Albania and Ukraine, co-founded by Philip Goldsberry Jr. (transcribed Sofur).",
@@ -1969,12 +2017,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q1530022"
     },
     {
       "@type": "Organization",
-      "@id": "N-11263",
-      "ref": "N-11263",
+      "@id": "N-11179",
+      "ref": "N-11179",
       "name": "Utah Internet Crimes Against Children Task Force",
       "type": "organization",
       "description": "State ICAC task force whose vest-wearing officer the host shows taking Mikey McCoy's statement; the host says it was established nationally by the Department of Justice and is run in Utah by the Attorney General's Office.",
@@ -1989,12 +2039,14 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11264",
-      "ref": "N-11264",
+      "@id": "N-11180",
+      "ref": "N-11180",
       "name": "Utah Attorney General's Office",
       "type": "organization",
       "description": "State office the host says runs the Utah ICAC and brought in Lance Twiggs for a second statement in April.",
@@ -2007,12 +2059,14 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
-      "@id": "N-11265",
-      "ref": "N-11265",
+      "@id": "N-11181",
+      "ref": "N-11181",
       "name": "The Bulwark",
       "type": "organization",
       "description": "Outlet the host credits (transcribed the bull work) with reporting on Matt Tardio's no contest plea.",
@@ -2025,7 +2079,29 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13098",
+        "C-13094"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -2071,7 +2147,8 @@
       "claim": "The host says Mike Mitchell was an undercover detective in internet sex crimes against children, and that in her opinion he is the linchpin to the entire case against Tyler Robinson because he persuaded the Robinson family to have Tyler surrender.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10831"
+        "N-10754",
+        "N-11360"
       ],
       "tags": [],
       "claim_timestamp": "00:11:09",
@@ -2089,7 +2166,7 @@
       "claim": "The host says Officer Christopher Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10831"
+        "N-10754"
       ],
       "tags": [],
       "claim_timestamp": "00:11:56",
@@ -2123,7 +2200,7 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-10831"
+        "N-10754"
       ],
       "tags": [],
       "claim_timestamp": "00:12:41–00:15:26",
@@ -2145,7 +2222,7 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-10831"
+        "N-10754"
       ],
       "tags": [],
       "claim_timestamp": "00:12:41–00:15:26",
@@ -2169,7 +2246,7 @@
         "A-2377.3"
       ],
       "related_nodes": [
-        "N-10831"
+        "N-10754"
       ],
       "tags": [],
       "claim_timestamp": "00:18:24–00:20:34",
@@ -2186,7 +2263,7 @@
       "claim": "The host says she is certain that the Utah ICAC works under, and is run by, the Utah Attorney General's Office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10831"
+        "N-10754"
       ],
       "tags": [],
       "claim_timestamp": "00:21:50",
@@ -2200,7 +2277,7 @@
       "claim": "The host says the federal Internet Crimes Against Children Task Force Program was established by the U.S. Department of Justice in 1998.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10831"
+        "N-10754"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24",
@@ -2299,7 +2376,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-10832"
+        "N-10755"
       ],
       "tags": [],
       "claim_timestamp": "00:03:34–00:08:18",
@@ -2315,7 +2392,9 @@
       "label": "Host Says Mike Mitchell Convinced the Robinson Household to Turn Tyler Robinson In Despite Robinson's Denial of Murder",
       "claim": "The host says Mike Mitchell convinced Matt Robinson's household to call Tyler and persuade him to peacefully surrender, despite Tyler's denial of involvement.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11360"
+      ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:09",
       "investigative_direction": "Verify Mitchell's role via investigative reporting and Robinson family statements.*",
@@ -2363,8 +2442,8 @@
       "claim": "The host asserts as opinion that the placement of ICAC / SVU personnel throughout the investigation reflects a deliberate federal control mechanism related to Epstein-era networks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10831",
-        "N-10832"
+        "N-10754",
+        "N-10755"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24–00:24:49",
@@ -2383,7 +2462,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-11165"
+        "N-11081"
       ],
       "tags": [
         "relevance:context"
@@ -2409,7 +2488,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-11165"
+        "N-11081"
       ],
       "tags": [
         "relevance:context"
@@ -2432,7 +2511,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-10435"
+        "N-10390"
       ],
       "tags": [
         "relevance:context"
@@ -2454,7 +2533,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-11203"
+        "N-11119"
       ],
       "tags": [
         "relevance:context"
@@ -2477,7 +2556,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-10411"
+        "N-10384"
       ],
       "tags": [
         "relevance:context"
@@ -2519,7 +2598,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2558,7 +2637,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-11167"
+        "N-11083"
       ],
       "tags": [
         "relevance:context"
@@ -2602,7 +2681,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [
         "relevance:context"
@@ -2645,7 +2724,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-11047"
+        "N-10965"
       ],
       "tags": [
         "relevance:context"
@@ -2687,7 +2766,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [
         "relevance:context"
@@ -2709,8 +2788,8 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-11167",
-        "N-10609"
+        "N-11083",
+        "N-10556"
       ],
       "tags": [
         "relevance:context"
@@ -2734,7 +2813,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-10989"
+        "N-10909"
       ],
       "tags": [
         "relevance:context"
@@ -2815,7 +2894,7 @@
       "claim": "The host says Mike Mitchell, the lynchpin of the case against Tyler Robinson in her opinion, is the one who claimed he recognized Tyler Robinson in the news because he used to mentor him in Boy Scouts, and then went to Matt Robinson's house.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10151"
+        "N-10146"
       ],
       "tags": [
         "relevance:core"
@@ -2859,7 +2938,7 @@
       "claim": "The host says Bagley's body camera footage failed him and did not capture the moment he found the screwdriver on the rooftop.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10725"
+        "N-10660"
       ],
       "tags": [
         "relevance:core"
@@ -2962,7 +3041,7 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-11263"
+        "N-11179"
       ],
       "tags": [
         "relevance:core"
@@ -3038,7 +3117,7 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-10770"
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -3124,7 +3203,7 @@
         "A-2376.1"
       ],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [
         "relevance:core"
@@ -3148,7 +3227,7 @@
         "A-2377.1"
       ],
       "related_nodes": [
-        "N-11263"
+        "N-11179"
       ],
       "tags": [
         "relevance:core"
@@ -3175,7 +3254,7 @@
         "A-2377.2"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -3201,7 +3280,7 @@
         "A-2377.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3222,7 +3301,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
-        "N-11263"
+        "N-11179"
       ],
       "tags": [
         "relevance:core"
@@ -3247,8 +3326,8 @@
         "A-2377.2"
       ],
       "related_nodes": [
-        "N-10129",
-        "N-11263"
+        "N-10124",
+        "N-11179"
       ],
       "tags": [
         "relevance:core"
@@ -3271,7 +3350,7 @@
       "claim": "The host says the same attorney general's office that controls the ICAC later brought in Lance for a second statement in April before recording the interview.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11264"
+        "N-11180"
       ],
       "tags": [
         "relevance:core"
@@ -3294,7 +3373,7 @@
       "claim": "The host says, as her strong opinion, that this looks like a control mechanism being directed by the feds, that it is one big group, and that for some reason the feds wanted them to have their hands everywhere in the case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10831"
+        "N-10754"
       ],
       "tags": [
         "relevance:core"
@@ -3334,7 +3413,7 @@
       "claim": "The host cites a phone call in which Trump yelled at Charlie Kirk for speaking about the Epstein case as part of the evidence for her theory.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10969"
+        "N-10890"
       ],
       "tags": [
         "relevance:core"
@@ -3399,7 +3478,7 @@
       "claim": "The host says people are lying about what Charlie was going through, about arguments he had the day before, and pretending he was not under pressure from Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3457,7 +3536,7 @@
       "claim": "The host says that until 2022 Utah's attorney general was David Leavitt (transcribed David O. Levit), that there were a few scandals, none proven, that he has not been found guilty of anything and says it was politicking.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11264"
+        "N-11180"
       ],
       "tags": [
         "relevance:context"
@@ -3546,7 +3625,7 @@
       "claim": "The host says people came to her saying Erika was working with a modeling agency and was in charge of modeling apartments in New York City that housed underage Eastern European models.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10698"
+        "N-10635"
       ],
       "tags": [
         "relevance:core"
@@ -3567,7 +3646,7 @@
       "claim": "The host says she emailed and asked for a statement before running the modeling-apartment episode, that a flat denial would have been easy, and that Erika chose not to respond or answer those allegations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10698"
+        "N-10635"
       ],
       "tags": [
         "relevance:core"
@@ -3588,7 +3667,7 @@
       "claim": "The host says Epstein frequented the office of a modeling agency run by Faith Kates, someone he was very close with, \"and or\" a modeling agency started by Jean-Luc Brunel (transcribed John Luke Brunell) of France, who she says was \"found suicided, as they say.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10524"
+        "N-10481"
       ],
       "tags": [
         "relevance:context"
@@ -3628,7 +3707,7 @@
       "claim": "The host says TPUSA used Paramount Tactical, presented as a former Green Beret, to explain why magic bullets might split in the air and bounce off of Charlie's neck.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -3790,7 +3869,7 @@
         "A-3085.1"
       ],
       "related_nodes": [
-        "N-11265"
+        "N-11181"
       ],
       "tags": [
         "relevance:context"
@@ -3815,7 +3894,7 @@
         "A-3085.1"
       ],
       "related_nodes": [
-        "N-11265"
+        "N-11181"
       ],
       "tags": [
         "relevance:context"
@@ -3976,7 +4055,7 @@
       "claim": "The host says the Israel lobby has the ability to get people cancelled, fired and debanked, as with Kanye, and says she herself was banned from Australia without ever committing a crime after lobbying over her statement that genocide is always wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11099"
+        "N-11017"
       ],
       "tags": [
         "relevance:tangential"
@@ -4236,7 +4315,7 @@
       "claim": "The host says that in the last few days Charlie was telling people he was going to bring her back, that he had made up his mind and was turning against Israel, and calls it just a fact.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"

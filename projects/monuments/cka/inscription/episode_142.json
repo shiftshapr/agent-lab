@@ -32,7 +32,7 @@
             "C-12226"
           ],
           "related_nodes": [
-            "N-10797"
+            "N-10721"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -50,7 +50,7 @@
             "C-12233"
           ],
           "related_nodes": [
-            "N-10800"
+            "N-10724"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -76,7 +76,7 @@
             "C-12226"
           ],
           "related_nodes": [
-            "N-10798"
+            "N-10722"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -102,7 +102,7 @@
             "C-12223"
           ],
           "related_nodes": [
-            "N-10799"
+            "N-10723"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,7 +152,7 @@
             "C-12243"
           ],
           "related_nodes": [
-            "N-10801"
+            "N-10725"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -178,7 +178,7 @@
             "C-12252"
           ],
           "related_nodes": [
-            "N-10802"
+            "N-10726"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -204,7 +204,7 @@
             "C-12259"
           ],
           "related_nodes": [
-            "N-10803"
+            "N-10727"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -252,7 +252,7 @@
           "description": "Comment by K. – Andrew Wilson debate at 1.75x speed",
           "related_claims": [],
           "related_nodes": [
-            "N-10804",
+            "N-10728",
             "N-18"
           ],
           "tags": [],
@@ -268,7 +268,7 @@
           "description": "Comment by Nikki – $100,000/hour humiliation",
           "related_claims": [],
           "related_nodes": [
-            "N-10804"
+            "N-10728"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -283,7 +283,7 @@
           "description": "Comment by Trillion – TPUSA PR strategy disaster",
           "related_claims": [],
           "related_nodes": [
-            "N-10804"
+            "N-10728"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -358,7 +358,7 @@
           "description": "Comment by Blackest Panther – Israel focus claim",
           "related_claims": [],
           "related_nodes": [
-            "N-10805"
+            "N-10729"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -388,7 +388,7 @@
           "description": "Comment by Anna – Text-message \"left\" contradiction",
           "related_claims": [],
           "related_nodes": [
-            "N-10806"
+            "N-10730"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -403,7 +403,7 @@
           "description": "Comment by Joey D. April – \"Debategate\" timeline entry",
           "related_claims": [],
           "related_nodes": [
-            "N-10804"
+            "N-10728"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -509,11 +509,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10162",
-      "ref": "N-10162",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10156",
+      "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact – flagged).",
       "related_artifacts": [],
       "related_claims": [
@@ -529,14 +529,16 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10797",
-      "ref": "N-10797",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10721",
+      "ref": "N-10721",
       "name": "Terryl Farnsworth Google-Hack Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: Farnsworth's claim of fearing Google hacking is contradicted by his same-day Google Drive usage.",
       "related_artifacts": [
         "A-2284.1"
@@ -550,14 +552,16 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question",
+      "parent": "N-10736"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10798",
-      "ref": "N-10798",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10722",
+      "ref": "N-10722",
       "name": "TPUSA Video Chain of Custody",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: discrepancy between flash-drive/Google-link delivery versus original SD cards.",
       "related_artifacts": [
         "A-2285.1"
@@ -570,14 +574,16 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question",
+      "parent": "N-10734"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10799",
-      "ref": "N-10799",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10723",
+      "ref": "N-10723",
       "name": "Back-Camera Footage Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: zoomed-in / cropped framing of the September 10 back-camera footage versus wide-angle convention.",
       "related_artifacts": [
         "A-2286.1"
@@ -589,14 +595,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10800",
-      "ref": "N-10800",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10724",
+      "ref": "N-10724",
       "name": "80704 Clip Origin Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: who clipped the three-minute segment of footage labeled 80704, and why only that camera was clipped.",
       "related_artifacts": [
         "A-2284.2"
@@ -608,14 +615,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10734"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10801",
-      "ref": "N-10801",
+      "@type": "Topic",
+      "@id": "N-10725",
+      "ref": "N-10725",
       "name": "Terryl Post-Removal Communications",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: identity of recipient and content of text message(s) sent by Farnsworth within minutes of removing the SD card.",
       "related_artifacts": [
         "A-2288.1"
@@ -627,14 +636,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10802",
-      "ref": "N-10802",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10726",
+      "ref": "N-10726",
       "name": "FBI Jurisdiction Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: procedural anomaly of FBI primary involvement in a Utah state-level homicide case.",
       "related_artifacts": [
         "A-2289.1"
@@ -646,14 +656,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10803",
-      "ref": "N-10803",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10727",
+      "ref": "N-10727",
       "name": "Tyler Robinson Identification Photo Distortion",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: alleged perspective/shrink manipulation of published Robinson identification photo.",
       "related_artifacts": [
         "A-2290.1"
@@ -665,14 +676,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10804",
-      "ref": "N-10804",
+      "@type": "Topic",
+      "@id": "N-10728",
+      "ref": "N-10728",
       "name": "TPUSA Debate PR Strategy",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: Turning Point USA's choice to deploy Andrew Kolvet in a public debate format.",
       "related_artifacts": [
         "A-2292.1",
@@ -685,14 +697,15 @@
       "evidence_count": 4,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10805",
-      "ref": "N-10805",
+      "@type": "Topic",
+      "@id": "N-10729",
+      "ref": "N-10729",
       "name": "Debate Israel Focus",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: observation that Andrew Kolvet's debate opening statement pivoted to Israel focus.",
       "related_artifacts": [
         "A-2293.5"
@@ -702,14 +715,15 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10806",
-      "ref": "N-10806",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10730",
+      "ref": "N-10730",
       "name": "Charlie Kirk Pre-Event Text Messages",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: timeline of when pre-September 10 text messages from Kirk were disclosed, and their content regarding fears of \"the left.\"",
       "related_artifacts": [
         "A-2293.7"
@@ -719,14 +733,15 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10807",
-      "ref": "N-10807",
+      "@type": "Topic",
+      "@id": "N-10731",
+      "ref": "N-10731",
       "name": "Independent Investigator Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: collaborative group of independent investigators including Nissi, Baron Coleman, Ian Carroll, Coach Colin.",
       "related_artifacts": [],
       "related_claims": [],
@@ -734,7 +749,8 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1172,11 +1188,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; organization at issue across the new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1189,14 +1205,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University; site of the event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1206,14 +1224,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Federal Bureau of Investigation; its custody and jurisdiction are questioned.",
       "related_artifacts": [],
       "related_claims": [
@@ -1223,14 +1243,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@type": "Event",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1244,14 +1266,19 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@type": "Topic",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1263,14 +1290,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1283,14 +1311,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1304,14 +1333,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@type": "Topic",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1322,14 +1353,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10611",
-      "ref": "N-10611",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10558",
+      "ref": "N-10558",
       "name": "Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1342,14 +1374,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10625",
-      "ref": "N-10625",
+      "@type": "Topic",
+      "@id": "N-10571",
+      "ref": "N-10571",
       "name": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1359,14 +1392,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1376,14 +1411,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10795",
-      "ref": "N-10795",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10719",
+      "ref": "N-10719",
       "name": "Wilson's Promised Release of \"Never-Before-Seen Messages\"",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1394,14 +1430,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10796",
-      "ref": "N-10796",
+      "@type": "Topic",
+      "@id": "N-10720",
+      "ref": "N-10720",
       "name": "Turning Point USA Organizational State (Post-Debate)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1412,14 +1449,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10808",
-      "ref": "N-10808",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10732",
+      "ref": "N-10732",
       "name": "Terryl SD Card-to-Laptop Transfer Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1429,14 +1467,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10734"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10810",
-      "ref": "N-10810",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10734",
+      "ref": "N-10734",
       "name": "SD Card Chain-of-Custody Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1452,14 +1492,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10991",
-      "ref": "N-10991",
+      "@type": "Organization",
+      "@id": "N-10911",
+      "ref": "N-10911",
       "name": "Visual Impulse",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Visual Impulse; Farnsworth's audio-visual company.",
       "related_artifacts": [],
       "related_claims": [
@@ -1472,14 +1513,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-10998",
-      "ref": "N-10998",
+      "@type": "InvestigationQuestion",
+      "@id": "N-10918",
+      "ref": "N-10918",
       "name": "Robert Golow Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1489,14 +1532,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-11066",
-      "ref": "N-11066",
+      "@type": "Topic",
+      "@id": "N-10984",
+      "ref": "N-10984",
       "name": "Wilson Debate Crucible Team Anonymity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1509,7 +1553,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1633,8 +1678,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11211",
-      "ref": "N-11211",
+      "@id": "N-11127",
+      "ref": "N-11127",
       "name": "Farnsworth Told Host He Discussed the Footage With Erika",
       "type": "topic",
       "description": "The host's account that Farnsworth said on the September 18 call that he spoke with Erika Kirk about the rear-camera footage specifically.",
@@ -1646,12 +1691,14 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10736"
     },
     {
       "@type": "Topic",
-      "@id": "N-11212",
-      "ref": "N-11212",
+      "@id": "N-11128",
+      "ref": "N-11128",
       "name": "Host Home Access and Bug Sweep",
       "type": "topic",
       "description": "The host's account that a Crowder-linked guest joined a show from her children's playroom without consent and that her husband had the house swept for bugs afterward.",
@@ -1664,7 +1711,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [
@@ -1678,8 +1726,8 @@
         "A-2284.1"
       ],
       "related_nodes": [
-        "N-10797",
-        "N-10798"
+        "N-10721",
+        "N-10722"
       ],
       "tags": [],
       "claim_timestamp": "00:05:47",
@@ -1698,7 +1746,7 @@
         "A-2284.1"
       ],
       "related_nodes": [
-        "N-10797"
+        "N-10721"
       ],
       "tags": [],
       "claim_timestamp": "00:04:56",
@@ -1719,7 +1767,7 @@
         "A-2285.1"
       ],
       "related_nodes": [
-        "N-10798"
+        "N-10722"
       ],
       "tags": [],
       "claim_timestamp": "00:12:35",
@@ -1739,7 +1787,7 @@
         "A-2286.1"
       ],
       "related_nodes": [
-        "N-10799"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:09:44",
@@ -1755,7 +1803,7 @@
         "A-2287.1"
       ],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:14:25",
@@ -1776,7 +1824,7 @@
         "A-2287.1"
       ],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:15:13",
@@ -1802,7 +1850,7 @@
         "A-2284.2"
       ],
       "related_nodes": [
-        "N-10800"
+        "N-10724"
       ],
       "tags": [],
       "claim_timestamp": "00:17:08",
@@ -1821,7 +1869,7 @@
         "A-2288.1"
       ],
       "related_nodes": [
-        "N-10801"
+        "N-10725"
       ],
       "tags": [],
       "claim_timestamp": "00:22:25",
@@ -1841,7 +1889,7 @@
         "A-2289.1"
       ],
       "related_nodes": [
-        "N-10802"
+        "N-10726"
       ],
       "tags": [],
       "claim_timestamp": "00:31:50",
@@ -1861,7 +1909,7 @@
         "A-2290.1"
       ],
       "related_nodes": [
-        "N-10803"
+        "N-10727"
       ],
       "tags": [],
       "claim_timestamp": "00:35:50",
@@ -1898,7 +1946,7 @@
         "A-2288.1"
       ],
       "related_nodes": [
-        "N-10801"
+        "N-10725"
       ],
       "tags": [],
       "claim_timestamp": "00:21:20",
@@ -1931,7 +1979,7 @@
       "claim": "The host says Steven Crowder had his CEO join his show from her children's playroom inside her home without her consent or knowledge. The transcript says only \"his CEO\" without naming the person.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11212"
+        "N-11128"
       ],
       "tags": [
         "relevance:tangential"
@@ -1952,9 +2000,9 @@
       "claim": "The host says Terryl Farnsworth, TPUSA's audio and visual lead who runs Visual Impulse, began taking down the camera behind Charlie Kirk less than four minutes after Charlie was hit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10100",
-        "N-10346",
-        "N-10991"
+        "N-10096",
+        "N-10324",
+        "N-10911"
       ],
       "tags": [
         "relevance:core"
@@ -1978,7 +2026,7 @@
       "claim": "The host says Farnsworth went up, recorded himself announcing that Charlie was dead, then went down and began removing the camera behind Charlie in particular.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10100"
+        "N-10096"
       ],
       "tags": [
         "relevance:core"
@@ -1999,7 +2047,7 @@
       "claim": "The host says she had known Farnsworth for years, reached out to him after the event, and at first assumed there was a reasonable explanation for the camera removal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [
         "relevance:context"
@@ -2020,7 +2068,7 @@
       "claim": "The host says that on the September 18 call Farnsworth said he did not want to share the back footage because he did not want Erika to see Charlie get hit in 4K, and offered increasingly bizarre reasons for not showing it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -2043,7 +2091,7 @@
       "claim": "The host says Farnsworth first said he did not know how to send the file, then admitted he knew how but did not want to for fear that Google might hack him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10797"
+        "N-10721"
       ],
       "tags": [
         "relevance:core"
@@ -2070,8 +2118,8 @@
         "A-2284.1"
       ],
       "related_nodes": [
-        "N-10799",
-        "N-10991"
+        "N-10723",
+        "N-10911"
       ],
       "tags": [
         "relevance:core"
@@ -2097,7 +2145,7 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10810"
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2119,7 +2167,7 @@
         "A-2284.1"
       ],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2141,8 +2189,8 @@
         "A-2992.1"
       ],
       "related_nodes": [
-        "N-10991",
-        "N-10998"
+        "N-10911",
+        "N-10918"
       ],
       "tags": [
         "relevance:core"
@@ -2164,8 +2212,8 @@
         "A-2992.1"
       ],
       "related_nodes": [
-        "N-10991",
-        "N-10799"
+        "N-10911",
+        "N-10723"
       ],
       "tags": [
         "relevance:core"
@@ -2188,7 +2236,7 @@
         "A-2992.1"
       ],
       "related_nodes": [
-        "N-10799"
+        "N-10723"
       ],
       "tags": [
         "relevance:core"
@@ -2213,7 +2261,7 @@
         "A-2286.1"
       ],
       "related_nodes": [
-        "N-10799"
+        "N-10723"
       ],
       "tags": [
         "relevance:core"
@@ -2240,8 +2288,8 @@
         "A-2285.1"
       ],
       "related_nodes": [
-        "N-10808",
-        "N-10810"
+        "N-10732",
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2267,7 +2315,7 @@
         "A-2284.2"
       ],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2292,8 +2340,8 @@
         "A-2287.1"
       ],
       "related_nodes": [
-        "N-10810",
-        "N-10202"
+        "N-10734",
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -2320,7 +2368,7 @@
         "A-2287.1"
       ],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2347,7 +2395,7 @@
         "A-2287.1"
       ],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2373,8 +2421,8 @@
         "A-2284.1"
       ],
       "related_nodes": [
-        "N-10800",
-        "N-10810"
+        "N-10724",
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2396,7 +2444,7 @@
         "A-2284.2"
       ],
       "related_nodes": [
-        "N-10800"
+        "N-10724"
       ],
       "tags": [
         "relevance:core"
@@ -2422,8 +2470,8 @@
         "A-2284.2"
       ],
       "related_nodes": [
-        "N-10799",
-        "N-10625"
+        "N-10723",
+        "N-10571"
       ],
       "tags": [
         "relevance:core"
@@ -2442,8 +2490,8 @@
         "A-2284.2"
       ],
       "related_nodes": [
-        "N-10800",
-        "N-10799"
+        "N-10724",
+        "N-10723"
       ],
       "tags": [
         "relevance:core"
@@ -2468,8 +2516,8 @@
         "A-2284.2"
       ],
       "related_nodes": [
-        "N-10100",
-        "N-10162"
+        "N-10096",
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2495,8 +2543,8 @@
         "A-2993.1"
       ],
       "related_nodes": [
-        "N-10100",
-        "N-10162"
+        "N-10096",
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2521,7 +2569,7 @@
         "A-2993.1"
       ],
       "related_nodes": [
-        "N-10100"
+        "N-10096"
       ],
       "tags": [
         "relevance:core"
@@ -2569,7 +2617,7 @@
         "A-2288.1"
       ],
       "related_nodes": [
-        "N-10801"
+        "N-10725"
       ],
       "tags": [
         "relevance:core"
@@ -2594,8 +2642,8 @@
         "A-2288.1"
       ],
       "related_nodes": [
-        "N-10346",
-        "N-10162"
+        "N-10324",
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2621,7 +2669,7 @@
       "claim": "The host says defense attorney Kathy Nester (transcribed Netor) asked questions and asserted that the defense does not know whether the footage was edited.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2641,8 +2689,8 @@
       "claim": "The host says she is being sued by Brian Harpole, needs the rear-camera footage, and will try to trace its custody and whether it was edited before being given to the FBI by Google link or flash drive.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651",
-        "N-10810"
+        "N-10593",
+        "N-10734"
       ],
       "tags": [
         "relevance:context"
@@ -2663,8 +2711,8 @@
       "claim": "The host says Farnsworth told her on the call that he spoke with Erika about that footage specifically, and that she has proof that this is what he told her, though she says he was lying a lot on the call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11211",
-        "N-10346"
+        "N-11127",
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -2686,7 +2734,7 @@
       "claim": "The host says the FBI is allowed to assist under the law but does not have jurisdiction over a state crime, and that SBI should have kept the SD card and could have handed the flash drive copy to the FBI.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10802",
+        "N-10726",
         "N-10014"
       ],
       "tags": [
@@ -2734,8 +2782,8 @@
         "A-2289.1"
       ],
       "related_nodes": [
-        "N-10802",
-        "N-10202"
+        "N-10726",
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -2762,8 +2810,8 @@
         "A-2289.1"
       ],
       "related_nodes": [
-        "N-10802",
-        "N-10202"
+        "N-10726",
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -2784,7 +2832,7 @@
       "claim": "The host says it is very strange that Kash Patel apparently shut down Joe Kent, who wanted to investigate whether there were foreign ties.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ],
       "tags": [
         "relevance:core"
@@ -2810,7 +2858,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10355"
+        "N-10332"
       ],
       "tags": [
         "relevance:context"
@@ -2832,7 +2880,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11066"
+        "N-10984"
       ],
       "tags": [
         "relevance:context"
@@ -2923,8 +2971,8 @@
       "claim": "The host says she only weighed in beginning in December, when Erika Kirk went on a press tour and explicitly shared something untrue: that the night before, Charlie was not sending messages saying he feared for his life.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340",
-        "N-10611"
+        "N-10318",
+        "N-10558"
       ],
       "tags": [
         "relevance:core"
@@ -2949,7 +2997,7 @@
       "claim": "The host says Erika Kirk described Charlie as so excited to do what he always does, so excited to go to UVU, that he couldn't sleep.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10611"
+        "N-10558"
       ],
       "tags": [
         "relevance:core"
@@ -2973,7 +3021,7 @@
       "claim": "The host says she has never known Charlie not to sleep over a tour stop at a place he had already been, and says it makes more sense that he could not sleep because he thought he would be killed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10611"
+        "N-10558"
       ],
       "tags": [
         "relevance:core"
@@ -2997,7 +3045,7 @@
       "claim": "The host says that when she says we she means independent investigators including Nissi, Baron Coleman, Ian Carroll and Coach Colin, and that they have likely made some errors but not knowingly, and wish to correct them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10807"
+        "N-10731"
       ],
       "tags": [
         "relevance:context"
@@ -3019,8 +3067,8 @@
       "claim": "The host says that by the end of the debate Andrew Wilson had become a conspiracy theorist who thought she was receiving text messages on her phone to remind her of the charges, and then thought she was receiving them through Signal or Telegram.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11066",
-        "N-10796"
+        "N-10984",
+        "N-10720"
       ],
       "tags": [
         "relevance:context"
@@ -3041,7 +3089,7 @@
       "claim": "The host says that in response to Wilson's suspicion she offered her phone to show there was no hidden messaging, as a demonstration that transparency debunks conspiracy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11066"
+        "N-10984"
       ],
       "tags": [
         "relevance:context"
@@ -3062,7 +3110,7 @@
       "claim": "The host says that when TPUSA finally shared some daylight, it chose Andrew Wilson and gave him a text message that has not been seen before.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10795"
+        "N-10719"
       ],
       "tags": [
         "relevance:core"
@@ -3083,7 +3131,7 @@
       "claim": "The host says the message is still never before seen because it has not been released, that Wilson is teasing it, and that knowing it exists and was in his hand is already helpful to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10795"
+        "N-10719"
       ],
       "tags": [
         "relevance:core"
@@ -3104,7 +3152,7 @@
       "claim": "The host says her husband George already had the house swept for bugs, as the first thing he did after they learned the Crowder crew had been in the house.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11212"
+        "N-11128"
       ],
       "tags": [
         "relevance:context"
@@ -3128,7 +3176,7 @@
         "A-2994.1"
       ],
       "related_nodes": [
-        "N-11066"
+        "N-10984"
       ],
       "tags": [
         "relevance:context"
@@ -3148,8 +3196,8 @@
       "claim": "The host says she knew Wilson was Turning Point's horse, citing TPUSA's statement that it had nothing to do with him and then his opening statement. She says no brain cell was split between Erika, Kolvet and Neff.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10804",
-        "N-10796"
+        "N-10728",
+        "N-10720"
       ],
       "tags": [
         "relevance:core"
@@ -3173,7 +3221,7 @@
       "claim": "The host says Andrew Wilson's debate opening statement started talking about Israel, which she finds strange.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10805"
+        "N-10729"
       ],
       "tags": [
         "relevance:context"
@@ -3193,7 +3241,7 @@
       "claim": "The host says that if Wilson had proven his claim of overwhelming evidence that Tyler Robinson did it, that would naturally absolve Israel, but he instead wanted to absolve Israel without proving the claim.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10805"
+        "N-10729"
       ],
       "tags": [
         "relevance:context"
@@ -3214,7 +3262,7 @@
       "claim": "Responding to a viewer comment, the host says that if the messages being handed over were of people Charlie felt threatened by or anything significant, the text that he feared the left would kill him would have been the first one handed over.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3238,8 +3286,8 @@
       "claim": "The host says TPUSA denied or stayed silent for four months and then had Erika deny the night-before messages on the Glenn Beck show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340",
-        "N-10611"
+        "N-10318",
+        "N-10558"
       ],
       "tags": [
         "relevance:core"
@@ -3264,7 +3312,7 @@
       "claim": "The host says that when the denial backfired, TPUSA said there were messages but that they say the left, and she calls the timeline suspicious in her opinion.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"

@@ -19,8 +19,8 @@
     "- **Model Version**: claude-manual-extract-seq103",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (skeleton): N-615, N-616, N-617, N-618, N-619, N-10920, N-10921",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-190, N-211, N-237, N-266, N-270, N-341, N-361, N-424, N-489, N-10000, N-10012, N-10026, N-10074, N-10340, N-10367, N-10388, N-10396, N-10450, N-10470, N-10472, N-10518, N-10547, N-10604, N-10605, N-10613, N-10618, N-10664, N-10899, N-10903, N-614, N-478, N-10922",
+    "  - Tip-minted Nodes (skeleton): N-615, N-616, N-617, N-618, N-619, N-10841, N-10842",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-190, N-211, N-237, N-266, N-270, N-341, N-361, N-424, N-489, N-10000, N-10012, N-10026, N-10071, N-10318, N-10342, N-10361, N-10369, N-10419, N-10439, N-10390, N-10477, N-10507, N-10551, N-10552, N-10560, N-10564, N-10606, N-10820, N-10824, N-614, N-478, N-10843",
     "  - Claim Range: C-9152–C-9208",
     "  - (see registers)",
     "",
@@ -85,7 +85,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9157, C-9158, N-1, N-341, N-10026, N-10618*"
+     "raw": "*Related: C-9157, C-9158, N-1, N-341, N-10026, N-10564*"
     },
     {
      "raw": ""
@@ -145,7 +145,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9163, C-9164, N-1, N-3, N-266, N-270, N-10396*"
+     "raw": "*Related: C-9163, C-9164, N-1, N-3, N-266, N-270, N-10369*"
     },
     {
      "raw": ""
@@ -188,7 +188,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9165, N-1, N-10012, N-10396*"
+     "raw": "*Related: C-9165, N-1, N-10012, N-10369*"
     },
     {
      "raw": ""
@@ -241,7 +241,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9168, C-9169, C-9170, C-9171, C-9172, C-9173, N-1, N-190, N-10000, N-10074, N-10547, N-10903*"
+     "raw": "*Related: C-9168, C-9169, C-9170, C-9171, C-9172, C-9173, N-1, N-190, N-10000, N-10071, N-10507, N-10824*"
     },
     {
      "raw": ""
@@ -301,7 +301,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9178, N-10920*"
+     "raw": "*Related: C-9178, N-10841*"
     },
     {
      "raw": ""
@@ -344,7 +344,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9179, N-10920*"
+     "raw": "*Related: C-9179, N-10841*"
     },
     {
      "raw": ""
@@ -387,7 +387,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9176, C-9180, N-616, N-617, N-618, N-10920*"
+     "raw": "*Related: C-9176, C-9180, N-616, N-617, N-618, N-10841*"
     },
     {
      "raw": ""
@@ -447,7 +447,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9191, N-2, N-3, N-10472*"
+     "raw": "*Related: C-9191, N-2, N-3, N-10390*"
     },
     {
      "raw": ""
@@ -490,7 +490,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9187, C-9188, C-9190, N-1, N-2, N-3, N-14, N-15, N-211, N-614, N-10450, N-10472, N-10899*"
+     "raw": "*Related: C-9187, C-9188, C-9190, N-1, N-2, N-3, N-14, N-15, N-211, N-614, N-10419, N-10390, N-10820*"
     },
     {
      "raw": ""
@@ -533,7 +533,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9189, C-9191, N-2, N-3, N-14, N-614, N-10472*"
+     "raw": "*Related: C-9189, C-9191, N-2, N-3, N-14, N-614, N-10390*"
     },
     {
      "raw": ""
@@ -576,7 +576,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9193, N-2, N-614, N-10472, N-10899*"
+     "raw": "*Related: C-9193, N-2, N-614, N-10390, N-10820*"
     },
     {
      "raw": ""
@@ -636,7 +636,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9196, C-9197, N-424, N-619, N-10000, N-10921*"
+     "raw": "*Related: C-9196, C-9197, N-424, N-619, N-10000, N-10842*"
     },
     {
      "raw": ""
@@ -679,7 +679,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9199, N-10921*"
+     "raw": "*Related: C-9199, N-10842*"
     },
     {
      "raw": ""
@@ -739,7 +739,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-1, N-10664*"
+     "raw": "*Related: N-1, N-10606*"
     },
     {
      "raw": ""
@@ -782,7 +782,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9202, N-1, N-2, N-489, N-10388*"
+     "raw": "*Related: C-9202, N-1, N-2, N-489, N-10361*"
     },
     {
      "raw": ""
@@ -825,7 +825,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9204, N-1, N-2, N-3, N-14, N-237, N-10340*"
+     "raw": "*Related: C-9204, N-1, N-2, N-3, N-14, N-237, N-10318*"
     },
     {
      "raw": ""
@@ -868,7 +868,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9206, N-3, N-10518*"
+     "raw": "*Related: C-9206, N-3, N-10477*"
     },
     {
      "raw": ""
@@ -911,7 +911,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9208, N-10920*"
+     "raw": "*Related: C-9208, N-10841*"
     },
     {
      "raw": ""
@@ -971,7 +971,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9206, N-3, N-10518*"
+     "raw": "*Related: C-9206, N-3, N-10477*"
     },
     {
      "raw": ""
@@ -1602,8 +1602,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10074",
-   "header": "**N-10074** Provo, Utah",
+   "id": "N-10071",
+   "header": "**N-10071** Provo, Utah",
    "label": "Provo, Utah",
    "lines": [
     {
@@ -1625,8 +1625,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10340",
-   "header": "**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "id": "N-10318",
+   "header": "**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
    "label": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
    "lines": [
     {
@@ -1648,8 +1648,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10367",
-   "header": "**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "id": "N-10342",
+   "header": "**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "label": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "lines": [
     {
@@ -1671,8 +1671,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10388",
-   "header": "**N-10388** Missing Money from Turning Point Action",
+   "id": "N-10361",
+   "header": "**N-10361** Missing Money from Turning Point Action",
    "label": "Missing Money from Turning Point Action",
    "lines": [
     {
@@ -1694,8 +1694,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10396",
-   "header": "**N-10396** Charis Bible College Security Coordination (Post-Assassination)",
+   "id": "N-10369",
+   "header": "**N-10369** Charis Bible College Security Coordination (Post-Assassination)",
    "label": "Charis Bible College Security Coordination (Post-Assassination)",
    "lines": [
     {
@@ -1717,8 +1717,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10450",
-   "header": "**N-10450** Fort Huachuca PR Response Coordination Question",
+   "id": "N-10419",
+   "header": "**N-10419** Fort Huachuca PR Response Coordination Question",
    "label": "Fort Huachuca PR Response Coordination Question",
    "lines": [
     {
@@ -1740,8 +1740,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10470",
-   "header": "**N-10470** Dan Flood Message Format Discrepancy",
+   "id": "N-10439",
+   "header": "**N-10439** Dan Flood Message Format Discrepancy",
    "label": "Dan Flood Message Format Discrepancy",
    "lines": [
     {
@@ -1763,9 +1763,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10472",
-   "header": "**N-10472** Fort Huachuca Alibi Investigation",
-   "label": "Fort Huachuca Alibi Investigation",
+   "id": "N-10390",
+   "header": "**N-10390** Fort Huachuca Erika Presence Investigation",
+   "label": "Fort Huachuca Erika Presence Investigation",
    "lines": [
     {
      "raw": ""
@@ -1786,8 +1786,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10518",
-   "header": "**N-10518** Erika Kirk Batman Colorado Theater Connection",
+   "id": "N-10477",
+   "header": "**N-10477** Erika Kirk Batman Colorado Theater Connection",
    "label": "Erika Kirk Batman Colorado Theater Connection",
    "lines": [
     {
@@ -1809,9 +1809,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10547",
-   "header": "**N-10547** September 10 Plane Logistics Discrepancy",
-   "label": "September 10 Plane Logistics Discrepancy",
+   "id": "N-10507",
+   "header": "**N-10507** Andrew Kolvet 9/10 Flight Itinerary",
+   "label": "Andrew Kolvet 9/10 Flight Itinerary",
    "lines": [
     {
      "raw": ""
@@ -1832,8 +1832,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10604",
-   "header": "**N-10604** Victor Marx Background Verification",
+   "id": "N-10551",
+   "header": "**N-10551** Victor Marx Background Verification",
    "label": "Victor Marx Background Verification",
    "lines": [
     {
@@ -1855,8 +1855,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10605",
-   "header": "**N-10605** Erika Kirk–Victor Marx Relationship Verification",
+   "id": "N-10552",
+   "header": "**N-10552** Erika Kirk–Victor Marx Relationship Verification",
    "label": "Erika Kirk–Victor Marx Relationship Verification",
    "lines": [
     {
@@ -1878,8 +1878,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10613",
-   "header": "**N-10613** Victor Marx / Corby Hall On-Air Interview Proposal",
+   "id": "N-10560",
+   "header": "**N-10560** Victor Marx / Corby Hall On-Air Interview Proposal",
    "label": "Victor Marx / Corby Hall On-Air Interview Proposal",
    "lines": [
     {
@@ -1901,8 +1901,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10618",
-   "header": "**N-10618** Victor Marx IDF / Israeli Defense Group Connection",
+   "id": "N-10564",
+   "header": "**N-10564** Victor Marx IDF / Israeli Defense Group Connection",
    "label": "Victor Marx IDF / Israeli Defense Group Connection",
    "lines": [
     {
@@ -1924,8 +1924,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10664",
-   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "id": "N-10606",
+   "header": "**N-10606** Charlie Kirk Aspen Audio Authenticity Question",
    "label": "Charlie Kirk Aspen Audio Authenticity Question",
    "lines": [
     {
@@ -1947,8 +1947,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10899",
-   "header": "**N-10899** Paramount Tactical",
+   "id": "N-10820",
+   "header": "**N-10820** Paramount Tactical",
    "label": "Paramount Tactical",
    "lines": [
     {
@@ -1970,8 +1970,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10903",
-   "header": "**N-10903** N582MM TPUSA-Associated Plane Flight Pattern",
+   "id": "N-10824",
+   "header": "**N-10824** N582MM TPUSA-Associated Plane Flight Pattern",
    "label": "N582MM TPUSA-Associated Plane Flight Pattern",
    "lines": [
     {
@@ -1979,7 +1979,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Investigation target",
@@ -1998,8 +1998,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10920",
-   "header": "**N-10920** Evergreen High School Shooting (September 10, 2025) Open Questions",
+   "id": "N-10841",
+   "header": "**N-10841** Evergreen High School Shooting (September 10, 2025) Open Questions",
    "label": "Evergreen High School Shooting (September 10, 2025) Open Questions",
    "lines": [
     {
@@ -2007,7 +2007,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Investigation target",
@@ -2026,8 +2026,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10921",
-   "header": "**N-10921** VFX LA",
+   "id": "N-10842",
+   "header": "**N-10842** VFX LA",
    "label": "VFX LA",
    "lines": [
     {
@@ -2053,8 +2053,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10922",
-   "header": "**N-10922** Superfeed",
+   "id": "N-10843",
+   "header": "**N-10843** Superfeed",
    "label": "Superfeed",
    "lines": [
     {
@@ -2180,7 +2180,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10613"
+     "v": "N-10560"
     },
     {
      "k": "Investigative Direction",
@@ -2238,7 +2238,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10604"
+     "v": "N-10551"
     },
     {
      "k": "Supports",
@@ -2300,7 +2300,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10605"
+     "v": "N-10552"
     },
     {
      "k": "Supports",
@@ -2362,7 +2362,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10604, N-10000"
+     "v": "N-10551, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -2419,7 +2419,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10618, N-10026"
+     "v": "N-10564, N-10026"
     },
     {
      "k": "Investigative Direction",
@@ -2476,7 +2476,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10618, N-10026"
+     "v": "N-10564, N-10026"
     },
     {
      "k": "Investigative Direction",
@@ -2646,7 +2646,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10518"
+     "v": "N-10477"
     },
     {
      "k": "Supports",
@@ -2708,7 +2708,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10396"
+     "v": "N-10369"
     },
     {
      "k": "Investigative Direction",
@@ -2765,7 +2765,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10396"
+     "v": "N-10369"
     },
     {
      "k": "Investigative Direction",
@@ -2822,7 +2822,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10396"
+     "v": "N-10369"
     },
     {
      "k": "Investigative Direction",
@@ -2879,7 +2879,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10396, N-10012"
+     "v": "N-10369, N-10012"
     },
     {
      "k": "Investigative Direction",
@@ -2937,7 +2937,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10396"
+     "v": "N-10369"
     },
     {
      "k": "Investigative Direction",
@@ -3048,7 +3048,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903, N-10000"
+     "v": "N-10824, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -3105,7 +3105,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903, N-10000, N-10074, N-10547"
+     "v": "N-10824, N-10000, N-10071, N-10507"
     },
     {
      "k": "Investigative Direction",
@@ -3162,7 +3162,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903"
+     "v": "N-10824"
     },
     {
      "k": "Investigative Direction",
@@ -3219,7 +3219,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903"
+     "v": "N-10824"
     },
     {
      "k": "Investigative Direction",
@@ -3276,7 +3276,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903, N-10074"
+     "v": "N-10824, N-10071"
     },
     {
      "k": "Investigative Direction",
@@ -3333,7 +3333,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903, N-10074"
+     "v": "N-10824, N-10071"
     },
     {
      "k": "Investigative Direction",
@@ -3391,7 +3391,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3449,7 +3449,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3506,7 +3506,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3564,7 +3564,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3617,7 +3617,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3670,7 +3670,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3727,7 +3727,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3785,7 +3785,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3839,7 +3839,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3893,7 +3893,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -3947,7 +3947,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -4001,7 +4001,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -4116,7 +4116,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10472, N-10450"
+     "v": "N-10820, N-10390, N-10419"
     },
     {
      "k": "Supports",
@@ -4177,7 +4177,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10472"
+     "v": "N-10820, N-10390"
     },
     {
      "k": "Supports",
@@ -4238,7 +4238,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10472"
+     "v": "N-10390"
     },
     {
      "k": "Supports",
@@ -4299,7 +4299,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10472"
+     "v": "N-10390"
     },
     {
      "k": "Investigative Direction",
@@ -4356,7 +4356,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10472"
+     "v": "N-10390"
     },
     {
      "k": "Investigative Direction",
@@ -4414,7 +4414,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10367"
+     "v": "N-10820, N-10342"
     },
     {
      "k": "Investigative Direction",
@@ -4471,7 +4471,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10472"
+     "v": "N-10820, N-10390"
     },
     {
      "k": "Supports",
@@ -4533,7 +4533,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10664"
+     "v": "N-10000, N-10606"
     },
     {
      "k": "Supports",
@@ -4595,7 +4595,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10921, N-10000"
+     "v": "N-10842, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -4652,7 +4652,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10921, N-10000"
+     "v": "N-10842, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -4709,7 +4709,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10921"
+     "v": "N-10842"
     },
     {
      "k": "Investigative Direction",
@@ -4767,7 +4767,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664"
+     "v": "N-10606"
     },
     {
      "k": "Supports",
@@ -4824,7 +4824,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10921"
+     "v": "N-10842"
     },
     {
      "k": "Investigative Direction",
@@ -4882,7 +4882,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10921, N-10664"
+     "v": "N-10842, N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -4940,7 +4940,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664"
+     "v": "N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -4997,7 +4997,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10388"
+     "v": "N-10361"
     },
     {
      "k": "Investigative Direction",
@@ -5055,7 +5055,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10922, N-10000, N-10388"
+     "v": "N-10843, N-10000, N-10361"
     },
     {
      "k": "Investigative Direction",
@@ -5112,7 +5112,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340"
+     "v": "N-10318"
     },
     {
      "k": "Supports",
@@ -5174,7 +5174,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340, N-10470"
+     "v": "N-10318, N-10439"
     },
     {
      "k": "Supports",
@@ -5235,7 +5235,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10518"
+     "v": "N-10477"
     },
     {
      "k": "Investigative Direction",
@@ -5342,7 +5342,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10920"
+     "v": "N-10841"
     },
     {
      "k": "Investigative Direction",
@@ -5800,9 +5800,9 @@
     "## 7. Optional Flags",
     "",
     "- **Artifacts referenced but not shown**: Victor Marx's Instagram reply to the host (01:59) and his video announcing Charlie Kirk's death are mentioned only. Trump's Time magazine post (00:01) is described, not shown. The September 10 flight data for N582MM (A-2568.1) is described with \"you can see\", but no on-screen text is read, so it carries Medium confidence. The Evergreen sheriff's document release and October 10 update are described, not shown.",
-    "- **Possible duplicate node**: N-10903 (N582MM TPUSA-Associated Plane Flight Pattern) matches N-10903 in staged episode 084, which also tracked N582MM's Pierre–Chicago–Provo route on September 10. That node has no global id in nodes.tsv yet, so the integrator should merge the two. Ep 084's placeholder claims on the same route (Baron Coleman's tracking) cannot be linked as Supports until they have global ids.",
+    "- **Possible duplicate node**: N-10824 (N582MM TPUSA-Associated Plane Flight Pattern) matches N-10824 in staged episode 084, which also tracked N582MM's Pierre–Chicago–Provo route on September 10. That node has no global id in nodes.tsv yet, so the integrator should merge the two. Ep 084's placeholder claims on the same route (Baron Coleman's tracking) cannot be linked as Supports until they have global ids.",
     "- **Inconsistency in the host's account**: she says Charlie Kirk used N582MM for \"basically all of 2023\" and then \"all through 2025\" (09:26–10:19). The tail number is first read as \"9582 MM\" and later as \"N582 MM\". Both are preserved as spoken.",
-    "- **Name matching**: \"Andrew Kolvet\", \"Andrew Cole\" and \"Andrew Kolvet\" are mapped to N-14 Andrew Kolvet. \"Justin Streiff\" maps to N-15 (alias). \"Jesse Watters\" maps to N-211. Gary Melton is also transcribed \"Gary Melton\" and \"Gary Melton\" and is minted as N-614; Paramount Tactical is matched to the org N-10899 Paramount Tactical Valhalla. \"Colby Hall\" (22:06) is taken as Corby Hall but is not cited. \"Victor Marx\" (22:50) is Victor Marx. \"Larry Loomer\" (00:01) is presumably Laura Loomer, but she is not cited. \"Dick Shirley\" (45:48) is presumably Nick Shirley, also not cited. \"Ericka\" is Erika Kirk.",
+    "- **Name matching**: \"Andrew Kolvet\", \"Andrew Cole\" and \"Andrew Kolvet\" are mapped to N-14 Andrew Kolvet. \"Justin Streiff\" maps to N-15 (alias). \"Jesse Watters\" maps to N-211. Gary Melton is also transcribed \"Gary Melton\" and \"Gary Melton\" and is minted as N-614; Paramount Tactical is matched to the org N-10820 Paramount Tactical Valhalla. \"Colby Hall\" (22:06) is taken as Corby Hall but is not cited. \"Victor Marx\" (22:50) is Victor Marx. \"Larry Loomer\" (00:01) is presumably Laura Loomer, but she is not cited. \"Dick Shirley\" (45:48) is presumably Nick Shirley, also not cited. \"Ericka\" is Erika Kirk.",
     "- **Name correction**: the host says \"Jessica Ghawi\" (\"I believe her name was\"); the Aurora victim who survived the 2012 Toronto Eaton Centre food-court shooting is Jessica Ghawi (Redfield), already node N-478 from episode 60. Transcript spelling kept in snippets; \"Jessica Ghawi\" is an alias.",
     "- **Transcription ambiguities**: \"Fort Wat Chuca\" is Fort Huachuca. \"Smith & Wesson.38\" is kept as written. \"Desmond Holly\" and \"Holly Desmond Holly\" refer to Desmond Holly. \"Matthew Silverstone\" (18:49) is taken as Matthew Silverstone. \"Delmer Martinez\" is Delmer Martinez. The email address is transcribed \"more tips@canasown. com\". \"Pride of Charlie\" (50:23) is probably the Bride of Charlie series. \"they act Superfeed\" is garbled.",
     "- **DIA scan**: one real hit, \"more tips@canasown. com\" at 53:58 (C-9206, A-2573.1, M-12). The 04:29 remark \"I received a few tips into our inbox\" relays tips already received rather than asking for or paying off a tip, and matches none of the scan phrases, so it is recorded only as C-9159, not as a DIA beat. The Candace Intelligence Agency merch phrase does not air (no M-14).",
@@ -5815,7 +5815,7 @@
     "  - The host's view that Charlie Kirk was fearful rather than excited the night before",
     "  - The host's suspicion that Erika Kirk was shown a deepfake",
     "- **Minor factual beats not inscribed**: Columbine and the Aurora Dark Knight shooting as Colorado background; Colorado ranked the healthiest state; Evergreen sitting in the same county as Columbine; Martinez's lack of cell reception; the sheriff's recent document dump; the viewer's donor-advised-fund theory (A-2572.2) and the host's disagreement with it; Mitt Romney's long relationship with Netanyahu (raised in answer to a comment); and the host's past tours with Charlie Kirk.",
-    "- **Cross-episode links left out**: C-9162 and C-9163 could relate to earlier Charis Bible College reporting (topic N-10396), but no matching claim was found in claims_index.tsv. C-9196 and C-9195 extend C-9057 but name a new company, so only C-9194 is linked.",
+    "- **Cross-episode links left out**: C-9162 and C-9163 could relate to earlier Charis Bible College reporting (topic N-10369), but no matching claim was found in claims_index.tsv. C-9196 and C-9195 extend C-9057 but name a new company, so only C-9194 is linked.",
     "- **Sponsor reads** (Pre-Born, SelectQuote, a home-loan sponsor) and merch and book-club promotion are excluded.",
     ""
    ]

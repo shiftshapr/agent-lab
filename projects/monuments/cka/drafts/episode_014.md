@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: 9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-791, N-792, N-793, N-794, N-11154, N-11155, N-11156, N-11157
-  - Hole-minted Nodes (reintro-ep014): N-310, N-10315, N-10662
-  - Tip-minted Nodes (reintro-ep014): N-707, N-11011, N-11059, N-11130
+  - Tip-minted Nodes (supplement_2026-10c): N-791, N-792, N-793, N-794, N-11070, N-11071, N-11072, N-11073
+  - Hole-minted Nodes (reintro-ep014): N-310, N-10296, N-10604
+  - Tip-minted Nodes (reintro-ep014): N-707, N-10931, N-10977, N-11048
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1237–C-1324
-  - New Nodes Introduced: N-143, N-144, N-145, N-146, N-147, N-148, N-149, N-10161
-  - Reused Nodes Appearing: N-6, N-9, N-42, N-46, N-50, N-61, N-75, N-82, N-93, N-118, N-128, N-132, N-10000, N-10012, N-10014, N-10025, N-10026, N-10056, N-10060, N-10095, N-10110, N-10129, N-10144, N-10148, N-10153, N-10158, N-10159, N-10160, N-10406, N-11153, N-10270, N-10324
+  - New Nodes Introduced: N-143, N-144, N-145, N-146, N-147, N-148, N-149, N-10155
+  - Reused Nodes Appearing: N-6, N-9, N-42, N-46, N-50, N-61, N-75, N-82, N-93, N-118, N-128, N-132, N-10000, N-10012, N-10014, N-10025, N-10026, N-10053, N-10057, N-10091, N-10106, N-10124, N-10139, N-10143, N-10148, N-10152, N-10153, N-10154, N-10379, N-11069, N-10254, N-10303
 - Channel / creator: @RealCandaceO · Candace Owens
 - Episode date: 2025-10-02
 - Source used for analysis: Transcript (cleaned YouTube captions, video context)
@@ -31,7 +31,7 @@
 Artifact Families Introduced: A-1209, A-1210, A-1211, A-1212, A-1213, A-1214, A-1215, A-1216, A-1217, A-1218, A-1219
 Claim Range: C-1251–C-1312
 New Nodes Introduced (people):  N-143, N-144, N-145, N-146, N-147, N-148, N-149
-New Nodes Introduced (targets): N-10158, N-10159, N-10160, N-10161
+New Nodes Introduced (targets): N-10152, N-10153, N-10154, N-10155
 Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), N-6 (Elizabeth Lane)
 
 ---
@@ -129,7 +129,7 @@ Confidence Level: High (read aloud verbatim)
 
 Verbatim quote captured by host: "James Comey wrote love letters to the ADL and embedded FBI agents with them. A group that ran disgraceful ops spying on Americans. That era is over. The FBI won't partner with political fronts masquerading as watchd[ogs]."
 
-*Related: C-1251, N-69, N-147, N-10158*
+*Related: C-1251, N-69, N-147, N-10152*
 
 ---
 
@@ -145,7 +145,7 @@ Confidence Level: High (read aloud)
 
 Verbatim quote captured by host includes: "As we prepare to observe the holiest day of the year on the Jewish calendar… ADL has deep respect for the Federal Bureau of Investigation and law enforcement officers at all levels across the country who work tirelessly every single day to protect all Americans regardless of their ancestry, religion, ethnicity, faith, political affiliation, or any other point of difference. In light of an unprecedented surge of anti-semitism, we remain more committed than ever to our core purpose to protect the Jewish people."
 
-*Related: C-1254, N-10158*
+*Related: C-1254, N-10152*
 
 ---
 
@@ -161,7 +161,7 @@ Confidence Level: Medium (read aloud; original thread not independently verified
 
 Verbatim quotes captured by host: "I gathered property records for the 19 different states that the ADL has a regional office established. The report reveals that in the state of Connecticut, the ADL shares an office space with the FBI." Also: "After reviewing the 19 ADL offices, we can see an alarming trend. 63% of the ADL's regional offices are located within various banking institutions. 42% are located within various law firms, ranging from immigration to criminal law… 10% are located in Jewish institutions."
 
-*Related: C-1257, C-1258, N-143, N-10158, N-10159*
+*Related: C-1257, C-1258, N-143, N-10152, N-10153*
 
 ---
 
@@ -177,7 +177,7 @@ Confidence Level: High (audio clip played in episode)
 
 Captured content includes Lane's description of approaching Utah firms for pro bono representation, the firms' reported initial willingness, the need for death-penalty-certified counsel, the inability to contact Robinson's family, the reported warning from a local attorney not to engage "the most powerful" Utah firms, the reported "rude response" from a large Utah firm asserting that "only Skordas is allowed to find a representation for Tyler Robinson," and Lane's characterization of the conduct as "highly unethical."
 
-*Related: C-1287, C-1290, N-6, N-148, N-149, N-10160*
+*Related: C-1287, C-1290, N-6, N-148, N-149, N-10154*
 
 ---
 
@@ -209,7 +209,7 @@ Confidence Level: High (clip played)
 
 Captured content includes the witness describing that the time for the suspect to reach a particular location "was way longer than it should have been" and speculation that "if the girl had given him stuff" there could be "an accomplice." Reference is also made to a still image from "Sam's across the street."
 
-*Related: C-1263, N-10161*
+*Related: C-1263, N-10155*
 
 ---
 
@@ -225,7 +225,7 @@ Confidence Level: High (clip played)
 
 Clip includes voice-over accounts from multiple witnesses (one referencing prayer, one referencing a Marine Corps habit of taking a knee, one referencing lack of metal detectors).
 
-*Related: C-1277, N-10161*
+*Related: C-1277, N-10155*
 
 ---
 
@@ -241,7 +241,7 @@ Confidence Level: High (read aloud verbatim)
 
 Verbatim quote: "I am not suicidal and I'm one of the happiest and healthiest people that you will meet. I have full faith in God and Jesus Christ is my Lord and Savior. As a sinner, I am only saved through his grace and mercy. With that said, if something happens to me, I ask you all to find out which foreign government or powerful people would take heinous actions to stop the information from coming out."
 
-*Related: C-1300, N-145, N-10161*
+*Related: C-1300, N-145, N-10155*
 
 ---
 
@@ -257,7 +257,7 @@ Confidence Level: High (clip played)
 
 Captured content includes Von stating: "I would never take my own life. I would never take my own life. Okay, you hear that? Israel, I would never take my own life." Additional content includes references to his faith, family, friends, and a stated desire to have a wife and children.
 
-*Related: C-1312, N-146, N-10161*
+*Related: C-1312, N-146, N-10155*
 
 ---
 
@@ -273,7 +273,7 @@ Confidence Level: Low
 
 Optional Flag: Artifact verbally referenced but not shown (proof referenced by host not displayed in episode)
 
-*Related: C-1259, N-10159*
+*Related: C-1259, N-10153*
 
 ---
 
@@ -512,7 +512,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing topic reused for the no-choice claim.
 
@@ -520,7 +520,7 @@ Existing topic reused for the no-choice claim.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Existing topic reused for the no-choice claim.
 
@@ -528,7 +528,7 @@ Existing topic reused for the no-choice claim.
 
 ---
 
-**N-10060** Good Morning America
+**N-10057** Good Morning America
 
 Program Barker spoke to per the host.
 
@@ -536,7 +536,7 @@ Program Barker spoke to per the host.
 
 ---
 
-**N-10095** 9/10 Eyewitness Pattern Investigation
+**N-10091** 9/10 Eyewitness Pattern Investigation
 
 Existing topic reused.
 
@@ -544,7 +544,7 @@ Existing topic reused.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing topic reused.
 
@@ -552,7 +552,7 @@ Existing topic reused.
 
 ---
 
-**N-10129** Orem Police Department
+**N-10124** Orem Police Department
 
 Employer of Bishop per the host.
 
@@ -560,7 +560,7 @@ Employer of Bishop per the host.
 
 ---
 
-**N-10144** Phil Lyman Proximity and Behavior Investigation
+**N-10139** Phil Lyman Proximity and Behavior Investigation
 
 Existing topic reused.
 
@@ -568,7 +568,7 @@ Existing topic reused.
 
 ---
 
-**N-10153** "Robbie Hild" Identity Verification
+**N-10148** "Robbie Hild" Identity Verification
 
 Existing topic reused for Hild's Cayman and Spain ties.
 
@@ -576,7 +576,7 @@ Existing topic reused for Hild's Cayman and Spain ties.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing topic reused.
 
@@ -584,7 +584,7 @@ Existing topic reused.
 
 ---
 
-**N-11011** Macron Cease and Desist and Legal Timeline
+**N-10931** Macron Cease and Desist and Legal Timeline
 
 Existing topic reused.
 
@@ -592,7 +592,7 @@ Existing topic reused.
 
 ---
 
-**N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event
+**N-10296** Mainstream Media Eyewitness Selection Pattern at UVU Event
 
 Existing topic reused.
 
@@ -600,7 +600,7 @@ Existing topic reused.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused.
 
@@ -608,7 +608,7 @@ Existing topic reused.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused.
 
@@ -616,7 +616,7 @@ Existing topic reused.
 
 ---
 
-**N-10662** 2025 FARA Propaganda Timeline Convergence
+**N-10604** 2025 FARA Propaganda Timeline Convergence
 
 Existing topic reused for the JFK FARA remark.
 
@@ -624,7 +624,7 @@ Existing topic reused for the JFK FARA remark.
 
 ---
 
-**N-11059** Russian-Speaking Turning Point Network
+**N-10977** Russian-Speaking Turning Point Network
 
 Existing topic reused for Ukrainian/Russian connections.
 
@@ -632,7 +632,7 @@ Existing topic reused for Ukrainian/Russian connections.
 
 ---
 
-**N-11130** B'nai B'rith
+**N-11048** B'nai B'rith
 
 Organization the host says gave rise to the ADL.
 
@@ -672,7 +672,7 @@ First named by the host at 00:46:04 in episode 14, via a viewer comment. Activis
 
 ---
 
-**N-11153** Anti-Defamation League
+**N-11069** Anti-Defamation League
 
 Node Type: Organization
 The ADL; the host says it was born of B'nai B'rith, lists Kirk, TPUSA and her, and worked with the FBI.
@@ -681,7 +681,7 @@ The ADL; the host says it was born of B'nai B'rith, lists Kirk, TPUSA and her, a
 
 ---
 
-**N-11154** Azov Battalion
+**N-11070** Azov Battalion
 
 Node Type: Organization
 Ukrainian unit (rendered 'Azov battalion') that the host says the ADL removed from its hate list.
@@ -690,7 +690,7 @@ Ukrainian unit (rendered 'Azov battalion') that the host says the ADL removed fr
 
 ---
 
-**N-11155** Bishop Orem Police Employment Claim
+**N-11071** Bishop Orem Police Employment Claim
 
 Node Type: Topic
 Host's claim that eyewitness Olivia Bishop works for the Orem Police Department as a records specialist, with surrounding staffing and corruption talk.
@@ -699,7 +699,7 @@ Host's claim that eyewitness Olivia Bishop works for the Orem Police Department 
 
 ---
 
-**N-11156** Leo Frank Case and ADL Origin Claim
+**N-11072** Leo Frank Case and ADL Origin Claim
 
 Node Type: Topic
 Host's account of the 1913 Frank case and her claim that the ADL was created to defend him.
@@ -708,7 +708,7 @@ Host's account of the 1913 Frank case and her claim that the ADL was created to 
 
 ---
 
-**N-11157** Host Trump Hotel Money Warning to Kirk
+**N-11073** Host Trump Hotel Money Warning to Kirk
 
 Node Type: Topic
 Host's recounted conversation with Kirk at the Trump Hotel in DC warning him about donor money.
@@ -728,7 +728,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1209.1, C-1251, N-10158*
+*Related: A-1209.1, C-1251, N-10152*
 
 ---
 
@@ -741,7 +741,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1211.1, C-1257, C-1258, N-10158, N-10159*
+*Related: A-1211.1, C-1257, C-1258, N-10152, N-10153*
 
 ---
 
@@ -769,7 +769,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1216.1, C-1300, N-10161*
+*Related: A-1216.1, C-1300, N-10155*
 
 ---
 
@@ -782,7 +782,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1217.1, C-1312, N-10161*
+*Related: A-1217.1, C-1312, N-10155*
 
 ---
 
@@ -795,7 +795,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1209.1, N-10158*
+*Related: A-1209.1, N-10152*
 
 ---
 
@@ -810,7 +810,7 @@ Investigative Pressure: High
 
 Optional Flag: Spelling preserved as transcribed ("Skordas"/"Skordas"/"Skordas" appear inconsistently in transcript; canonical spelling unknown).
 
-*Related: A-1212.1, C-1290, N-10160*
+*Related: A-1212.1, C-1290, N-10154*
 
 ---
 
@@ -836,13 +836,13 @@ Claim Count: 2 (this episode: C-1287, C-1290)
 Episode Count: 2
 Investigative Pressure: Medium
 
-*Related: A-1212.1, C-1287, C-1290, N-148, N-10160*
+*Related: A-1212.1, C-1287, C-1290, N-148, N-10154*
 
 ---
 
 ### Investigation Targets
 
-**N-10158** ADL–FBI Partnership Structure
+**N-10152** ADL–FBI Partnership Structure
 
 Persistent investigative target concerning the historical and operational relationship between the Anti-Defamation League and the FBI, including embedded agents, shared intelligence, shared office space, and the announced 2025-10-01 separation.
 
@@ -855,7 +855,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10159** Connecticut FBI Field Office Deployment Anomaly
+**N-10153** Connecticut FBI Field Office Deployment Anomaly
 
 Investigative target concerning the reported deployment of the FBI's Connecticut field office (rather than the closer Salt Lake City–area office) to UVU following the Charlie Kirk assassination, and the contemporaneous nexus with Connecticut-based ADL-FBI office sharing.
 
@@ -870,7 +870,7 @@ Optional Flag: A-1218.1 is a verbally referenced tip without on-screen source; c
 
 ---
 
-**N-10160** Tyler Robinson Defense Selection Anomaly
+**N-10154** Tyler Robinson Defense Selection Anomaly
 
 Persistent investigative target concerning the role of Utah state prosecutor Skordas in identifying defense counsel for Tyler Robinson, and Elizabeth Lane's reported difficulty in retaining independent pro bono counsel for Robinson.
 
@@ -883,7 +883,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10161** Witness and Public-Figure Demeanor Anomalies
+**N-10155** Witness and Public-Figure Demeanor Anomalies
 
 Persistent investigative target grouping witness-on-site anomalies (Lyman family timing/accomplice testimony; Bishop close-encounter sighting; USA Today witness compilation) with public-figure suicide-denial statements (MTG, Theo Von) as the host posits a coordinated pattern.
 
@@ -909,7 +909,7 @@ Claim: Per the post by FBI Director Kash Patel that the host reads, James Comey 
 Anchored Artifacts: A-1209.1
 Mentions: N-69, N-147
 
-Related Nodes: N-10158
+Related Nodes: N-10152
 
 Investigative Direction: Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship.
 
@@ -938,7 +938,7 @@ Claim: The host says she received a tip, which she says she has corroborated, th
 Anchored Artifacts: A-1218.1
 Mentions: N-1
 
-Related Nodes: N-10159
+Related Nodes: N-10153
 
 Investigative Direction: Obtain DOJ/FBI deployment records, on-scene credentialing logs, or official case-file documentation identifying which field offices contributed personnel to the UVU investigation.
 
@@ -955,7 +955,7 @@ Claim: Per a 2023 X thread by investigator Kyle Undercover, the ADL shares Conne
 Anchored Artifacts: A-1211.1
 Mentions: N-143
 
-Related Nodes: N-10159
+Related Nodes: N-10153
 
 Investigative Direction: Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation.
 
@@ -985,7 +985,7 @@ Claim: In a clip of the Redacted podcast the host plays, Elizabeth Lane says she
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-40
 
-Related Nodes: N-10160
+Related Nodes: N-10154
 
 Investigative Direction: Independently confirm Lane's account with the firms she contacted; obtain any written records of the reported communications.
 
@@ -1000,7 +1000,7 @@ Claim: In a clip of the Redacted podcast the host plays, Elizabeth Lane says a l
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-148, N-40
 
-Related Nodes: N-10160
+Related Nodes: N-10154
 
 Investigative Direction: Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.
 
@@ -1017,7 +1017,7 @@ Claim: In a news clip the host plays, Olivia Robertson Cobb Bishop describes a c
 Anchored Artifacts: A-1213.1
 Mentions: N-144
 
-Related Nodes: N-10161
+Related Nodes: N-10155
 
 Investigative Direction: Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence.
 
@@ -1045,7 +1045,7 @@ Claim: A USA Today or AP compilation clip features multiple witnesses describing
 
 Anchored Artifacts: A-1215.1
 
-Related Nodes: N-10161
+Related Nodes: N-10155
 
 Investigative Direction: Identify all named/unnamed witnesses in the clip; cross-reference their accounts against official charging documents and forensic evidence.
 
@@ -1104,7 +1104,7 @@ Transcript Snippet: we received a few tips regarding the woman who is missing fr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10161
+Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Obtain the footage and identify the woman; compare any named individual against the tip and her public statements.
 
@@ -1120,7 +1120,7 @@ Transcript Snippet: yesterday the FBI made a rather curious announcement. They a
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-11153, N-10158, N-10000, N-10014
+Related Nodes: N-11069, N-10152, N-10000, N-10014
 Supports: C-1225
 Tags: relevance:context
 Investigative Direction: Locate the ADL's extremism listing of Kirk/TPUSA and the FBI statement tying the break to it.
@@ -1137,7 +1137,7 @@ Transcript Snippet: The reality is the ADL was born out of a Jewish Freemason or
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11153, N-11130
+Related Nodes: N-11069, N-11048
 Tags: relevance:tangential
 Investigative Direction: Compare with the ADL's own founding history and B'nai B'rith records.
 
@@ -1153,7 +1153,7 @@ Transcript Snippet: but Sigmund Freud was a member of Bonai Barith.
 
 Anchored Artifacts: A-2905.1
 Mentions: N-50, N-3
-Related Nodes: N-11130
+Related Nodes: N-11048
 Tags: relevance:tangential
 Investigative Direction: Check Freud biographies for B'nai B'rith membership records (Vienna lodge).
 
@@ -1184,7 +1184,7 @@ Transcript Snippet: Well, because they put the organization together to defend a
 
 Anchored Artifacts: 
 Mentions: N-791, N-3
-Related Nodes: N-11153, N-11130, N-11156
+Related Nodes: N-11069, N-11048, N-11072
 Tags: relevance:tangential
 Investigative Direction: Compare ADL and B'nai B'rith founding records (1913) with the Frank case history; note the host's characterization is hers alone.
 
@@ -1200,7 +1200,7 @@ Transcript Snippet: And Mary Phagan was a 13-year-old girl who worked at his pen
 
 Anchored Artifacts: 
 Mentions: N-792, N-791
-Related Nodes: N-11156
+Related Nodes: N-11072
 Tags: relevance:tangential
 Investigative Direction: Check 1913 Georgia court and newspaper records of the Phagan case.
 
@@ -1216,7 +1216,7 @@ Transcript Snippet: he was so guilty of what happened that despite the fact that
 
 Anchored Artifacts: 
 Mentions: N-791
-Related Nodes: N-11156
+Related Nodes: N-11072
 Tags: relevance:tangential
 Investigative Direction: Review the 1913 trial record and appeals to the US Supreme Court.
 
@@ -1232,7 +1232,7 @@ Transcript Snippet: What happened then is that his buddies over at the Freemason
 
 Anchored Artifacts: 
 Mentions: N-791, N-3
-Related Nodes: N-11153, N-11130, N-11156
+Related Nodes: N-11069, N-11048, N-11072
 Supports: C-1242
 Tags: relevance:tangential
 Investigative Direction: Compare the host's chronology with the documented timing of the ADL's founding (1913) and Frank's 1915 lynching.
@@ -1249,7 +1249,7 @@ Transcript Snippet: there's a book called The Murder of Little Mary Phagan, and 
 
 Anchored Artifacts: A-2906.1
 Mentions: N-792, N-3
-Related Nodes: N-11156
+Related Nodes: N-11072
 Tags: relevance:tangential
 Investigative Direction: Confirm the book, its author and relationship to the victim.
 
@@ -1281,7 +1281,7 @@ Transcript Snippet: They label people who tell the truth extremists. They put th
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11153, N-10158, N-10014
+Related Nodes: N-11069, N-10152, N-10014
 Tags: relevance:context
 Investigative Direction: Obtain the ADL-FBI training and liaison records and the extremism listings.
 
@@ -1312,7 +1312,7 @@ Transcript Snippet: The neocons on the right side work arm in-armm with the ADL 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11153, N-10026, N-10025
+Related Nodes: N-11069, N-10026, N-10025
 Tags: relevance:context
 Investigative Direction: Identify the neocon figures and any documented name-sharing with the ADL.
 
@@ -1328,7 +1328,7 @@ Transcript Snippet: I think Elon Musk tweeted about Charlie Kirk and TPUSA being
 
 Anchored Artifacts: 
 Mentions: N-118, N-1
-Related Nodes: N-11153, N-10000
+Related Nodes: N-11069, N-10000
 Tags: relevance:context
 Investigative Direction: Find Musk's post and its date relative to Patel's announcement.
 
@@ -1344,7 +1344,7 @@ Transcript Snippet: Yes, the ADL was training FBI agents and sharing intelligenc
 
 Anchored Artifacts: 
 Mentions: N-69
-Related Nodes: N-11153, N-10158, N-10014
+Related Nodes: N-11069, N-10152, N-10014
 Supports: C-1251
 Tags: relevance:context
 Investigative Direction: Obtain FBI-ADL training agreements, course rosters and information-sharing records.
@@ -1361,7 +1361,7 @@ Transcript Snippet: they curiously removed the Azov battalion. They're carving s
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11153, N-11154
+Related Nodes: N-11069, N-11070
 Tags: relevance:context
 Investigative Direction: Check the ADL's Glossary of Extremism entry for Azov and its edit history.
 
@@ -1377,7 +1377,7 @@ Transcript Snippet: Candace Owens is on there, though. I'm sure you guys go to b
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11153
+Related Nodes: N-11069
 Tags: relevance:context
 Investigative Direction: Verify the ADL listing of Candace Owens.
 
@@ -1393,7 +1393,7 @@ Transcript Snippet: I received a rather stunning tip which I have been able to c
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10159, N-10014, N-10012
+Related Nodes: N-10153, N-10014, N-10012
 Supports: C-1259
 Tags: relevance:core
 Investigative Direction: Request the FBI's deployment roster for UVU and confirm which field offices sent personnel.
@@ -1410,7 +1410,7 @@ Transcript Snippet: That they had strange connections to the government or like 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10161, N-10095, N-10315
+Related Nodes: N-10155, N-10091, N-10296
 Tags: relevance:core
 Investigative Direction: Verify each named witness's employer, residence and affiliation from public records.
 
@@ -1426,7 +1426,7 @@ Transcript Snippet: I got that one tip from an individual, completely unrelated,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10161
+Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Request any such footage and the tipster's basis; compare against the Lyman family clip.
 
@@ -1442,7 +1442,7 @@ Transcript Snippet: Anyways, the name uh that we had received was it turned out 
 
 Anchored Artifacts: 
 Mentions: N-144, N-3
-Related Nodes: N-10161
+Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Confirm the tip's origin and whether other eyewitnesses reported seeing the limp.
 
@@ -1458,7 +1458,7 @@ Transcript Snippet: it's possible just to run the other side of things that this
 
 Anchored Artifacts: 
 Mentions: N-144, N-3
-Related Nodes: N-10161
+Related Nodes: N-10155
 Qualifies: C-1264
 Tags: relevance:core
 Investigative Direction: Review the footage the woman recorded and any police statement she gave.
@@ -1475,7 +1475,7 @@ Transcript Snippet: It turns out that she works for the Oram Police Department. 
 
 Anchored Artifacts: 
 Mentions: N-144, N-3
-Related Nodes: N-10129, N-11155
+Related Nodes: N-10124, N-11071
 Tags: relevance:core
 Investigative Direction: Confirm Bishop's employment with the Orem Police Department through department staffing records.
 
@@ -1491,7 +1491,7 @@ Transcript Snippet: in August, you're going to believe this, they kind of lost a
 
 Anchored Artifacts: A-2907.1
 Mentions: N-144
-Related Nodes: N-10129, N-11155
+Related Nodes: N-10124, N-11071
 Tags: relevance:core
 Investigative Direction: Locate the department's Facebook post and its staffing change roster for August 2025.
 
@@ -1507,7 +1507,7 @@ Transcript Snippet: we're hearing a lot of stuff about uh some plausible corrupt
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10129
+Related Nodes: N-10124
 Tags: relevance:core
 Investigative Direction: Identify the sources and any public records or complaints about Orem Police corruption.
 
@@ -1523,7 +1523,7 @@ Transcript Snippet: Another thing that we were able to learn is that she met up 
 
 Anchored Artifacts: 
 Mentions: N-144, N-3
-Related Nodes: N-10129, N-11155
+Related Nodes: N-10124, N-11071
 Tags: relevance:core
 Investigative Direction: Check Bishop's work schedule and leave records for September 10, 2025.
 
@@ -1539,7 +1539,7 @@ Transcript Snippet: She says that was it. She just wanted to speak right there. 
 
 Anchored Artifacts: 
 Mentions: N-144, N-3
-Related Nodes: N-10129, N-11155
+Related Nodes: N-10124, N-11071
 Tags: relevance:core
 Investigative Direction: Obtain the text exchange and any statement Bishop gave to investigators.
 
@@ -1555,7 +1555,7 @@ Transcript Snippet: Tiffany Barker, of course, she's with the nieces. Her sister
 
 Anchored Artifacts: 
 Mentions: N-75, N-61
-Related Nodes: N-10161
+Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Confirm Barker's family tie to Lyman's 2024 running mate and the nieces' identities.
 
@@ -1571,7 +1571,7 @@ Transcript Snippet: She spoke to Good Morning America in the we morning we hours
 
 Anchored Artifacts: 
 Mentions: N-75
-Related Nodes: N-10060
+Related Nodes: N-10057
 Tags: relevance:core
 Investigative Direction: Check GMA broadcast logs and booking records for the September 11 interview.
 
@@ -1587,7 +1587,7 @@ Transcript Snippet: He ran for Utah governor in 2024. He featured George Zinn on
 
 Anchored Artifacts: 
 Mentions: N-61, N-42
-Related Nodes: N-10144
+Related Nodes: N-10139
 Supports: C-1156
 Tags: relevance:core
 Investigative Direction: Archive the Lyman campaign site from 2024 and check for the Zinn endorsement.
@@ -1604,7 +1604,7 @@ Transcript Snippet: spoke to Alec Jones, Fox News, News Nation, really anybody t
 
 Anchored Artifacts: 
 Mentions: N-61, N-93
-Related Nodes: N-10144
+Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Catalog Lyman's media appearances after September 10.
 
@@ -1620,7 +1620,7 @@ Transcript Snippet: He wants me to know that he thinks I'm I'm shady, that I'm a
 
 Anchored Artifacts: 
 Mentions: N-61, N-3
-Related Nodes: N-10144
+Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Locate Lyman's public statements about the host.
 
@@ -1636,7 +1636,7 @@ Transcript Snippet: he works for Domo Incorporated. History is that he is a soft
 
 Anchored Artifacts: A-1215.1
 Mentions: N-310
-Related Nodes: N-10161
+Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Confirm the witness's identity and employment at Domo through LinkedIn and company records.
 
@@ -1652,7 +1652,7 @@ Transcript Snippet: He we learned was a software engineer from Austria. So, Aust
 
 Anchored Artifacts: 
 Mentions: N-132, N-128, N-61
-Related Nodes: N-10161
+Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Match the Gernot Ohner name to the previously identified Gernot Ohner and review the Shaner Instagram posts.
 
@@ -1668,7 +1668,7 @@ Transcript Snippet: well, he was also a gubernatorial candidate. He ran for gove
 
 Anchored Artifacts: A-1215.1
 Mentions: N-793
-Related Nodes: N-10161
+Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Check Utah 2024 gubernatorial filings for Scott Robbins.
 
@@ -1684,7 +1684,7 @@ Transcript Snippet: I guess all of these USA Today or AP, nobody asked them like
 
 Anchored Artifacts: A-1215.1
 Mentions: N-3
-Related Nodes: N-10161, N-10315
+Related Nodes: N-10155, N-10296
 Tags: relevance:context
 Investigative Direction: Review the original USA Today and AP witness interviews.
 
@@ -1700,7 +1700,7 @@ Transcript Snippet: none of them have reached out to me. Like, from the minute t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10161
+Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Document the host's public requests for witness contact and responses.
 
@@ -1716,7 +1716,7 @@ Transcript Snippet: We've got Robbie Hild in Spain. We've got Robbie Hild all ov
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10153
+Related Nodes: N-10148
 Tags: relevance:core
 Investigative Direction: Verify Hild's reported Cayman Islands and Spain ties through corporate and travel records.
 
@@ -1732,7 +1732,7 @@ Transcript Snippet: I think he was surrounded. I think he was infiltrated and th
 
 Anchored Artifacts: 
 Mentions: N-707, N-3
-Related Nodes: N-10662
+Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Compare with documented JFK-era records; note the FARA link is the host's characterization.
 
@@ -1748,7 +1748,7 @@ Transcript Snippet: It's his gun. There's weird stuff going on there. I don't be
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Review the charging documents, ballistic tie to the gun and Robinson's ownership records.
 
@@ -1764,7 +1764,7 @@ Transcript Snippet: if they're going to make that stick, then you got to have yo
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10160
+Related Nodes: N-10154
 Supports: C-1290
 Tags: relevance:core
 Investigative Direction: Review how Robinson's defense counsel was selected and any role of the prosecutor.
@@ -1781,7 +1781,7 @@ Transcript Snippet: we don't believe that what happened to Charlie Cork was remo
 
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-40, N-1
-Related Nodes: N-10160
+Related Nodes: N-10154
 Tags: relevance:core
 Investigative Direction: Identify the firm and obtain any written communication with Lane about the offer.
 
@@ -1797,7 +1797,7 @@ Transcript Snippet: do not get in touch with the firms in Utah that are the most
 
 Anchored Artifacts: A-1212.1
 Mentions: N-6
-Related Nodes: N-10160
+Related Nodes: N-10154
 Tags: relevance:core
 Investigative Direction: Identify the local lawyer and the firms Lane means.
 
@@ -1813,7 +1813,7 @@ Transcript Snippet: They started screaming on the phone and I was like why do yo
 
 Anchored Artifacts: A-1212.1
 Mentions: N-6
-Related Nodes: N-10160
+Related Nodes: N-10154
 Tags: relevance:core
 Investigative Direction: Identify the firm and call date.
 
@@ -1829,7 +1829,7 @@ Transcript Snippet: there is a lawyer who's qualified and he's actually very fam
 
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-40
-Related Nodes: N-10160
+Related Nodes: N-10154
 Tags: relevance:core
 Investigative Direction: Identify the New York lawyer and any consent request filed.
 
@@ -1845,7 +1845,7 @@ Transcript Snippet: So, what I know is that Skordas is running as a state prosec
 
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-148
-Related Nodes: N-10160
+Related Nodes: N-10154
 Supports: C-1290
 Tags: relevance:core
 Investigative Direction: Check Skordas's campaign site and official role; confirm spelling and title.
@@ -1862,7 +1862,7 @@ Transcript Snippet: this gang that's running everything, okay, they also are con
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10160
+Related Nodes: N-10154
 Tags: relevance:context
 Investigative Direction: Not independently testable; look for specific rulings or appointments.
 
@@ -1893,7 +1893,7 @@ Transcript Snippet: Never in the history of the world ever has there been a sitt
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10270, N-11011
+Related Nodes: N-10254, N-10931
 Tags: relevance:tangential
 Investigative Direction: Check for earlier suits by sitting heads of state against foreign journalists.
 
@@ -1909,7 +1909,7 @@ Transcript Snippet: Brigitte Macron has hired feds federal former federal prosec
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Related Nodes: N-10270, N-11011
+Related Nodes: N-10254, N-10931
 Tags: relevance:tangential
 Investigative Direction: Review the court docket for the Macron counsel appearances.
 
@@ -1940,7 +1940,7 @@ Transcript Snippet: I think actually it was the day that uh Charlie was killed, 
 
 Anchored Artifacts: 
 Mentions: N-9, N-1
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Check the congressional vote record for September 10, 2025 on the Epstein files.
 
@@ -1956,7 +1956,7 @@ Transcript Snippet: Taylor Green has been very loud about how she is against tha
 
 Anchored Artifacts: A-1216.1
 Mentions: N-145, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Supports: C-1300
 Tags: relevance:context
 Investigative Direction: Review Greene's public statements on the Epstein files.
@@ -1973,7 +1973,7 @@ Transcript Snippet: Why the ADL creates a list that features people like Charlie
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11153, N-10000
+Related Nodes: N-11069, N-10000
 Supports: C-1256
 Tags: relevance:context
 Investigative Direction: Verify the entries on the ADL's lists.
@@ -1990,7 +1990,7 @@ Transcript Snippet: show to you the the Ukrainian connections that are coming ac
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11059
+Related Nodes: N-10977
 Tags: relevance:context
 Investigative Direction: Identify the Ukrainian connections the host promises.
 
@@ -2006,7 +2006,7 @@ Transcript Snippet: the Catholic school shooting for no the person was scribblin
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11059
+Related Nodes: N-10977
 Tags: relevance:context
 Investigative Direction: Review the official evidence from the Annunciation Catholic School shooting.
 
@@ -2022,7 +2022,7 @@ Transcript Snippet: we did open another tips line uh because we need to we're ju
 
 Anchored Artifacts: A-2908.1
 Mentions: N-3
-Related Nodes: N-10153
+Related Nodes: N-10148
 Tags: relevance:core
 Investigative Direction: Confirm the tip address and track the volume of submissions; the Decentralized Intelligence Agency beat.
 
@@ -2068,7 +2068,7 @@ Transcript Snippet: And then they showed her a clip of me saying that it's not l
 
 Anchored Artifacts: 
 Mentions: N-46, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Find the Kelly appearance and the clip shown.
 
@@ -2132,7 +2132,7 @@ Transcript Snippet: If you have influence and you're speaking out against Israel
 
 Anchored Artifacts: A-1217.1
 Mentions: N-3
-Related Nodes: N-10161, N-10026
+Related Nodes: N-10155, N-10026
 Supports: C-1312
 Tags: relevance:context
 Investigative Direction: Collect similar public statements by other figures.
@@ -2149,7 +2149,7 @@ Transcript Snippet: the ADL after this episode is going to do what they do and u
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11153
+Related Nodes: N-11069
 Tags: relevance:context
 Investigative Direction: Check YouTube enforcement actions against the host in 2024 and any ADL involvement.
 
@@ -2165,7 +2165,7 @@ Transcript Snippet: I'm in the private security sector. I see a lot of investiga
 
 Anchored Artifacts: A-1219.6
 Mentions: N-3
-Related Nodes: N-10161
+Related Nodes: N-10155
 Tags: relevance:context
 Investigative Direction: Not verifiable; commenter's identity unknown.
 
@@ -2181,7 +2181,7 @@ Transcript Snippet: he was explicit that he was left with no choice but to becom
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10056, N-10148, N-10026
+Related Nodes: N-10053, N-10143, N-10026
 Tags: relevance:core
 Investigative Direction: Find Kirk's own statements or messages showing his stance.
 
@@ -2197,7 +2197,7 @@ Transcript Snippet: you have to be very careful who you take money from and what
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11157
+Related Nodes: N-11073
 Tags: relevance:core
 Investigative Direction: Date the Trump Hotel conversation and identify corroboration.
 
@@ -2213,7 +2213,7 @@ Transcript Snippet: It's starting. The hornets nest has been kicked. The bees ar
 
 Anchored Artifacts: 
 Mentions: N-46, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Find the articles after the October 1 episode targeting Kelly.
 
@@ -2229,7 +2229,7 @@ Transcript Snippet: I don't think Charlie believed that or saw that until it was
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11157
+Related Nodes: N-11073
 Supports: C-1317
 Tags: relevance:core
 Investigative Direction: Gather Kirk's later statements about donors.
@@ -2276,7 +2276,7 @@ Transcript Snippet: Mrs. Macron's got some pretty big balls. She's going to bank
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Supports: C-1297
 Tags: relevance:tangential
 Investigative Direction: Track costs and filings in the Macron suit.
@@ -2293,7 +2293,7 @@ Transcript Snippet: And the witness tree has gone silent, has never reached out 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10161
+Related Nodes: N-10155
 Supports: C-1279
 Tags: relevance:core
 Investigative Direction: Document witness outreach attempts.
@@ -2464,7 +2464,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
 - [x] People nodes use global people ledger; new IDs start at N-69
-- [x] Non-person investigation targets use 1000-series; new IDs start at N-10158
+- [x] Non-person investigation targets use 1000-series; new IDs start at N-10152
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly as transcribed, with uncertainty flags where applicable
 - [x] Formatting consistent across artifact, node, and claim registers

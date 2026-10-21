@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 939a276fa7153675fa4c129ca613874ab4780ba8fb986b1877810b00297f327b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-939, N-940, N-941, N-11396
-  - Hole-minted Nodes (reintro-ep080): N-10606
+  - Tip-minted Nodes (supplement_2026-10g): N-939, N-940, N-941, N-11312
+  - Hole-minted Nodes (reintro-ep080): N-10553
   - Tip-minted Nodes (reintro-ep080): N-598
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7150–C-7244
-  - New Nodes Introduced: N-10545, N-10546
-  - Reused Nodes Appearing: none, N-10544, N-5, N-9, N-14, N-46, N-68, N-69, N-159, N-190, N-268, N-274, N-329, N-553, N-582, N-590, N-10000, N-10023, N-10063, N-10202, N-10324, N-10355, N-10406, N-10411, N-10533, N-10534, N-10539, N-10541, N-10956, N-11035, N-11228, N-11340
+  - New Nodes Introduced: N-10500, N-10501
+  - Reused Nodes Appearing: none, N-10499, N-5, N-9, N-14, N-46, N-68, N-69, N-159, N-190, N-268, N-274, N-329, N-553, N-582, N-590, N-10000, N-10023, N-10060, N-10194, N-10303, N-10332, N-10379, N-10384, N-10488, N-10489, N-10494, N-10496, N-10877, N-11002, N-11144, N-11256
   - Hole-minted Nodes (remap-ep80): N-150
   - (see registers)
 
@@ -29,7 +29,7 @@ Claim Range: C-7153–C-7202
 
 New Person Nodes Introduced: none (Wave 2: local ids removed)
 
-New Investigation Target Nodes Introduced: N-10544, N-10545
+New Investigation Target Nodes Introduced: N-10499, N-10500
 
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
@@ -46,7 +46,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 - **Transcript completeness status:** Auto-captions cleaned; no music cues retained; cleaning flagged but no major omissions noted
 - **Analyst / agent name:** Investigative Analysis Agent
 - **Analysis date:** 2026-03-17
-- **Ledger continuation summary:** 16 new artifact families (A-1861–A-1876); 31 new claims (C-7153–C-7202); 15 new person nodes (local ids 1207 to 1221); 2 new investigation target nodes (N-10544–N-10545); existing nodes reused where applicable
+- **Ledger continuation summary:** 16 new artifact families (A-1861–A-1876); 31 new claims (C-7153–C-7202); 15 new person nodes (local ids 1207 to 1221); 2 new investigation target nodes (N-10499–N-10500); existing nodes reused where applicable
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:04:57–00:06:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7153, C-7154, C-7155, C-7159, N-10546*
+*Related: C-7153, C-7154, C-7155, C-7159, N-10501*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:31:39–00:31:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7190, C-7191, C-7189, C-7192, N-2, N-10545*
+*Related: C-7190, C-7191, C-7189, C-7192, N-2, N-10500*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:32:20–00:33:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7195, C-7196, N-10545*
+*Related: C-7195, C-7196, N-10500*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:46:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-? Netanyahu, N-10544*
+*Related: N-? Netanyahu, N-10499*
 
 ---
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:47:24–00:48:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7220, C-7222, N-10544*
+*Related: C-7220, C-7222, N-10499*
 
 ---
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:48:48–00:49:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7223, C-7224, N-10544*
+*Related: C-7223, C-7224, N-10499*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 00:50:05–00:51:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7227, C-7228, C-7229, N-? Netanyahu, N-10544*
+*Related: C-7227, C-7228, C-7229, N-? Netanyahu, N-10499*
 
 ---
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:53:23–00:54:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7232, C-7231, N-? Netanyahu, N-10544*
+*Related: C-7232, C-7231, N-? Netanyahu, N-10499*
 
 ---
 
@@ -320,7 +320,7 @@ Flag: Artifact verbally referenced but not shown
 
 ## IV. Node Register
 
-**N-10544** Netanyahu Death/Injury Status Verification
+**N-10499** Netanyahu Death/Injury Status Verification
 
 Persistent inquiry (held across multiple video artifacts in this episode) into whether Benjamin Netanyahu has been killed, injured, or replaced following a rumored March 10/11 Iranian strike.
 
@@ -333,7 +333,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10545** TPUSA Direction-of-Travel Discrepancy (Post-Charlie)
+**N-10500** TPUSA Direction-of-Travel Discrepancy (Post-Charlie)
 
 Persistent inquiry into whether post-assassination Turning Point USA messaging and leadership decisions align with Charlie Kirk's documented positions, anchored by the Arkansas chapter disaffiliation.
 
@@ -346,7 +346,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10546** Joe Kent Resignation Aftermath Pattern
+**N-10501** Joe Kent Resignation Aftermath Pattern
 
 Inquiry into the coordinated public response to Kent's resignation by Trump administration, sitting Republican officials, and right-wing commentators – possible pattern of criminalization-of-dissent.
 
@@ -584,7 +584,7 @@ Existing topic reused for the Family International and Epstein remark.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Place the host cites in her account of harassment over the event.
 
@@ -592,7 +592,7 @@ Place the host cites in her account of harassment over the event.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for the host's Patel claims.
 
@@ -600,7 +600,7 @@ Existing topic reused for the host's Patel claims.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for the Patel sex-trafficking remark.
 
@@ -608,7 +608,7 @@ Existing topic reused for the Patel sex-trafficking remark.
 
 ---
 
-**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
 
 Existing topic reused for the Patel and Kent claims.
 
@@ -616,7 +616,7 @@ Existing topic reused for the Patel and Kent claims.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused for the host's remarks on Kelly.
 
@@ -624,7 +624,7 @@ Existing topic reused for the host's remarks on Kelly.
 
 ---
 
-**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+**N-10384** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 Existing topic reused for the Harvest claim.
 
@@ -632,7 +632,7 @@ Existing topic reused for the Harvest claim.
 
 ---
 
-**N-10533** Club America High School Pushback
+**N-10488** Club America High School Pushback
 
 Existing topic reused for the Sanders proclamation claim.
 
@@ -640,7 +640,7 @@ Existing topic reused for the Sanders proclamation claim.
 
 ---
 
-**N-10534** Renee Crossman / United Hands Romania Cult Affiliation
+**N-10489** Renee Crossman / United Hands Romania Cult Affiliation
 
 Existing topic reused for the host's cult research claims.
 
@@ -648,7 +648,7 @@ Existing topic reused for the host's cult research claims.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Existing topic reused for the June 2025 turning point.
 
@@ -656,7 +656,7 @@ Existing topic reused for the June 2025 turning point.
 
 ---
 
-**N-10541** Strait of Hormuz / US-Iran War Context
+**N-10496** Strait of Hormuz / US-Iran War Context
 
 Existing topic reused for the Hormuz and India claims.
 
@@ -664,7 +664,7 @@ Existing topic reused for the Hormuz and India claims.
 
 ---
 
-**N-10606** Trump Iran Arms Admission Context
+**N-10553** Trump Iran Arms Admission Context
 
 Existing topic reused for the Boeing 757 cash claim.
 
@@ -672,7 +672,7 @@ Existing topic reused for the Boeing 757 cash claim.
 
 ---
 
-**N-10956** Catholics for Catholics
+**N-10877** Catholics for Catholics
 
 Organization hosting the March 19 event where the host will interview Kent.
 
@@ -680,7 +680,7 @@ Organization hosting the March 19 event where the host will interview Kent.
 
 ---
 
-**N-11035** TPUSA Employee Purge and Leak Hunt
+**N-11002** TPUSA Leak Hunt and Employee Firings
 
 Existing topic reused for the host's staff-firing claims.
 
@@ -688,7 +688,7 @@ Existing topic reused for the host's staff-firing claims.
 
 ---
 
-**N-11228** Candace Podcast Ranking and Operations
+**N-11144** Candace Podcast Ranking and Operations
 
 Existing topic reused for the chart claim.
 
@@ -696,7 +696,7 @@ Existing topic reused for the chart claim.
 
 ---
 
-**N-11340** Harvest Christian Fellowship
+**N-11256** Harvest Christian Fellowship
 
 Organization the host says is being sued over Romanian children.
 
@@ -728,7 +728,7 @@ First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and
 
 ---
 
-**N-11396** The Family International
+**N-11312** The Family International
 
 Node Type: Organization
 Religious group formerly called Children of God that the host says Renee Crossman belonged to and that she is researching.
@@ -748,7 +748,7 @@ Claim: Joe Kent's letter states he has resigned from the Director of the Nationa
 Anchored Artifacts: A-1861.1
 Mentions: N-209
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline.
 
@@ -763,7 +763,7 @@ Claim: Kent's resignation letter asserts that "Iran posed no imminent threat to 
 Anchored Artifacts: A-1861.1
 Mentions: N-209
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Compare Kent's stated threat assessment against publicly available U.S. intelligence community products and ODNI statements from the relevant period.
 
@@ -778,7 +778,7 @@ Claim: Kent's letter states that the U.S. started the war "due to pressure from 
 Anchored Artifacts: A-1861.1
 Mentions: N-209
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Verify Kent's specific allegations against any documented lobbying communications or pressure patterns referenced in his letter.
 
@@ -793,7 +793,7 @@ Claim: Kent's letter identifies him as a veteran who deployed to combat 11 times
 Anchored Artifacts: A-1861.1
 Mentions: N-209, N-940
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Verify Kent's DD-214-equivalent service record and Shannon Kent's military casualty record against publicly available DoD releases.
 
@@ -808,7 +808,7 @@ Claim: In a clip the host plays, President Trump, asked about Joe Kent's resigna
 Anchored Artifacts: A-1862.1
 Mentions: N-5, N-209
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Confirm exact wording against the full White House transcript or press pool video of the same appearance.
 
@@ -823,7 +823,7 @@ Claim: In a clip the host plays, President Trump defends the Iran campaign by re
 Anchored Artifacts: A-1862.1
 Mentions: N-5
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Confirm specific language against the official White House transcript of the appearance.
 
@@ -838,7 +838,7 @@ Claim: Per a post the host reads, Senator Lindsey Graham wrote that Kent's resig
 Anchored Artifacts: A-1863.1
 Mentions: N-209, N-452
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Verify the exact X post text against Graham's verified account at the timestamp indicated.
 
@@ -853,7 +853,7 @@ Claim: Per a post the host reads from Mark Levin, Levin speculated that Kent "wa
 Anchored Artifacts: A-1864.1
 Mentions: N-209, N-244
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation.
 
@@ -868,7 +868,7 @@ Claim: The host says Mark Levin called for the DOJ to open a criminal investigat
 Anchored Artifacts: A-1864.2
 Mentions: N-209, N-244
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Confirm against Levin's verified X account and monitor for any DOJ response.
 
@@ -883,7 +883,7 @@ Claim: Per a post the host reads, Laura Loomer called Kent's resignation 'so dis
 Anchored Artifacts: A-1865.1
 Mentions: N-5, N-49, N-60, N-209
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Verify Loomer's allegation against Shannon Kent's actual employment record (she is deceased per Kent's own letter); check for fact-check rebuttals.
 
@@ -898,7 +898,7 @@ Claim: Per a post the host reads, Alan Dershowitz referred to Kent as a "neo-Naz
 Anchored Artifacts: A-1866.1
 Mentions: N-209, N-534
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Confirm exact text against Dershowitz's verified X account.
 
@@ -913,7 +913,7 @@ Claim: The host says Taylor Budowich, in a tweet, described Kent as a "crazed eg
 Anchored Artifacts: A-1867.1
 Mentions: N-150, N-209
 
-Related Nodes: N-10546
+Related Nodes: N-10501
 
 Investigative Direction: Confirm exact text against Budowich's verified X account.
 
@@ -943,7 +943,7 @@ Claim: In a local news segment the host plays, the report says the Turning Point
 Anchored Artifacts: A-1869.1
 Mentions: 
 
-Related Nodes: N-10545
+Related Nodes: N-10500
 
 Investigative Direction: Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA.
 
@@ -957,7 +957,7 @@ Claim: In a local news clip the host plays, the University of Arkansas TPUSA cha
 
 Anchored Artifacts: A-1869.1
 
-Related Nodes: N-10545
+Related Nodes: N-10500
 
 Investigative Direction: Track the new organization's filings and any subsequent national TPUSA response.
 
@@ -972,7 +972,7 @@ Claim: The host says the chapter president, Dino Fantegrossi, published a letter
 Anchored Artifacts: A-1870.1
 Mentions: N-939
 
-Related Nodes: N-10545
+Related Nodes: N-10500
 
 Investigative Direction: Verify against Fantegrossi's verified Instagram account; confirm "unanimous" via any other executive board members' public statements.
 
@@ -987,7 +987,7 @@ Claim: The Dino Fantegrossi letter states that since Charlie Kirk's assassinatio
 Anchored Artifacts: A-1870.1
 Mentions: N-1, N-939
 
-Related Nodes: N-10545
+Related Nodes: N-10500
 
 Investigative Direction: Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions.
 
@@ -1002,7 +1002,7 @@ Claim: The host says Dino Fantegrossi was part of a Charlie Kirk sit-down in Jul
 Anchored Artifacts: A-1871.1
 Mentions: N-1, N-939
 
-Related Nodes: N-10545
+Related Nodes: N-10500
 
 Investigative Direction: Verify the date, venue, and Fantegrossi's participation against the original video; identify other participants.
 
@@ -1017,7 +1017,7 @@ Claim: In a clip the host plays, Treasury Secretary Scott Bessent is pulled mid-
 Anchored Artifacts: A-1873.1
 Mentions: N-598
 
-Related Nodes: N-10544
+Related Nodes: N-10499
 
 Investigative Direction: Confirm against full interview video; identify the original outlet and date of the interview.
 
@@ -1032,7 +1032,7 @@ Claim: Upon return from the Situation Room, Bessent publicly stated the presiden
 Anchored Artifacts: A-1873.1
 Mentions: N-598
 
-Related Nodes: N-10544
+Related Nodes: N-10499
 
 Investigative Direction: Confirm exact wording against interview transcript; cross-reference subsequent official Iran-mission updates.
 
@@ -1046,7 +1046,7 @@ Claim: The host says that on March 13, Reagan National (DCA), Dulles, Baltimore-
 
 Anchored Artifacts: A-1874.1
 
-Related Nodes: N-10544
+Related Nodes: N-10499
 
 Investigative Direction: Verify against FAA ground stop records and the four-airport claim against actual reported closures.
 
@@ -1060,7 +1060,7 @@ Claim: The host says the official explanation for the March 13 multi-airport shu
 
 Anchored Artifacts: A-1874.1
 
-Related Nodes: N-10544
+Related Nodes: N-10499
 
 Investigative Direction: Confirm against official FAA / airport authority statements; investigate whether "circuit board" specificity was ever provided.
 
@@ -1075,7 +1075,7 @@ Claim: The host says that, after a rumor that Netanyahu was hit by an Iranian mi
 Anchored Artifacts: A-1875.1
 Mentions: N-36
 
-Related Nodes: N-10544
+Related Nodes: N-10499
 
 Investigative Direction: Confirm against the official account's posting record; subject the video to forensic/AI-generation analysis.
 
@@ -1090,7 +1090,7 @@ Claim: The host says Netanyahu allegedly missed a Security Council meeting, whic
 Anchored Artifacts: A-1875.1
 Mentions: N-36
 
-Related Nodes: N-10544
+Related Nodes: N-10499
 
 Investigative Direction: Verify against official Israeli government / Knesset scheduling records.
 
@@ -1104,7 +1104,7 @@ Claim: The host says somebody noted that Yair Netanyahu, who she says normally t
 
 Anchored Artifacts: A-1875.1
 
-Related Nodes: N-10544
+Related Nodes: N-10499
 
 Investigative Direction: Pull Yair Netanyahu's full X/Twitter activity log for the relevant window to verify the claimed silence.
 
@@ -1119,7 +1119,7 @@ Claim: The host says Netanyahu posted another hyper-produced video of himself an
 Anchored Artifacts: A-1876.1
 Mentions: N-36, N-273
 
-Related Nodes: N-10544
+Related Nodes: N-10499
 
 Investigative Direction: Confirm posting timestamp against official channels; subject video to production analysis.
 
@@ -1134,7 +1134,7 @@ Claim: The host says Netanyahu no-showed a critical military council meeting on 
 Anchored Artifacts: A-1876.1
 Mentions: N-36
 
-Related Nodes: N-10544
+Related Nodes: N-10499
 
 Investigative Direction: Confirm against Israeli government press releases and Knesset/Prime Minister's Office daily schedule.
 
@@ -1149,7 +1149,7 @@ Claim: The host says Erika Kirk visited Arkansas shortly before the disaffiliati
 Anchored Artifacts: A-1869.1
 Mentions: N-2, N-580
 
-Related Nodes: N-10545
+Related Nodes: N-10500
 
 Investigative Direction: Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.
 
@@ -1164,7 +1164,7 @@ Claim: In a local news segment the host plays, the reporter says Governor Sarah 
 Anchored Artifacts: A-1869.1
 Mentions: N-580
 
-Related Nodes: N-10545
+Related Nodes: N-10500
 
 Investigative Direction: Obtain the actual proclamation text from the Arkansas Secretary of State's office.
 
@@ -1179,7 +1179,7 @@ Claim: In a clip the host plays from a July 2025 student discussion with Charlie
 Anchored Artifacts: A-1871.1
 Mentions: N-1, N-939
 
-Related Nodes: N-10545
+Related Nodes: N-10500
 
 Investigative Direction: Verify exact quotation against the full original audio/video recording.
 
@@ -1194,7 +1194,7 @@ Claim: In a clip the host plays, Charlie Kirk questions Senator Ted Cruz's use o
 Anchored Artifacts: A-1871.1
 Mentions: N-1, N-106
 
-Related Nodes: N-10545
+Related Nodes: N-10500
 
 Investigative Direction: Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz.
 
@@ -1210,7 +1210,7 @@ Transcript Snippet: he went over there to like, "Hey, can you guys send some tro
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10541
+Related Nodes: N-10496
 Tags: relevance:context
 Investigative Direction: Check Indian government statements and press reports of any US request for naval or troop help in the Strait of Hormuz and India's reply.
 
@@ -1226,7 +1226,7 @@ Transcript Snippet: Shannon was the first female combat combat death in Syria uh
 
 Anchored Artifacts: 
 Mentions: N-209, N-940
-Related Nodes: N-10546
+Related Nodes: N-10501
 Tags: relevance:context
 Investigative Direction: Check the Department of Defense casualty release and contemporaneous news reports on the January 2019 Manbij bombing for the date, cause and the 'first female' description.
 
@@ -1242,7 +1242,7 @@ Transcript Snippet: she was also the first female US service member that was kil
 
 Anchored Artifacts: 
 Mentions: N-209, N-940
-Related Nodes: N-10546
+Related Nodes: N-10501
 Tags: relevance:context
 Investigative Direction: Compare against DoD casualty lists of female service members killed by hostile fire from 2015 to 2019.
 
@@ -1258,7 +1258,7 @@ Transcript Snippet: high-ranking Israeli officials and influential members of th
 
 Anchored Artifacts: A-1861.1
 Mentions: N-209, N-5
-Related Nodes: N-10546
+Related Nodes: N-10501
 Supports: C-7155
 Tags: relevance:context
 Investigative Direction: Ask Kent or his office to identify the officials and outlets meant, and compare with the published text of the letter.
@@ -1275,7 +1275,7 @@ Transcript Snippet: Until June of 2025, you understood that the wars in the Midd
 
 Anchored Artifacts: A-1861.1
 Mentions: N-209, N-5
-Related Nodes: N-10546, N-10539
+Related Nodes: N-10501, N-10494
 Tags: relevance:context
 Investigative Direction: Compare the letter's June 2025 turning point with the June 2025 strikes on Iran and Charlie Kirk's June 2025 opposition to the war.
 
@@ -1291,7 +1291,7 @@ Transcript Snippet: This was a lie and is the same tactic the Israelis used to d
 
 Anchored Artifacts: A-1861.1
 Mentions: N-209
-Related Nodes: N-10546
+Related Nodes: N-10501
 Supports: C-7154, C-7155
 Tags: relevance:context
 Investigative Direction: Evaluate the letter's Iraq comparison against the 2002 to 2003 intelligence record and any Israeli government statements of that period.
@@ -1308,7 +1308,7 @@ Transcript Snippet: when I read his statement, I realized that it's a good thing
 
 Anchored Artifacts: A-1862.1
 Mentions: N-5, N-209
-Related Nodes: N-10546
+Related Nodes: N-10501
 Supports: C-7160
 Tags: relevance:context
 Investigative Direction: Verify wording against the White House pool video of the same exchange.
@@ -1325,7 +1325,7 @@ Transcript Snippet: Hundreds of millions of dollars in a Boeing 757. I think the
 
 Anchored Artifacts: A-1862.1
 Mentions: N-5
-Related Nodes: N-10606
+Related Nodes: N-10553
 Tags: relevance:context
 Investigative Direction: Compare with the documented 2016 US payments to Iran and Treasury and State Department records on the cash shipments.
 
@@ -1386,7 +1386,7 @@ Transcript Snippet: He's part of the radical isolationist woke right cabal.
 
 Anchored Artifacts: A-1864.1
 Mentions: N-244, N-209, N-5
-Related Nodes: N-10546
+Related Nodes: N-10501
 Supports: C-7169
 Tags: relevance:context
 Investigative Direction: Confirm exact wording against Levin's X account.
@@ -1403,7 +1403,7 @@ Transcript Snippet: I would fire everyone and teach them a lesson that they woul
 
 Anchored Artifacts: A-1865.1
 Mentions: N-60
-Related Nodes: N-10546
+Related Nodes: N-10501
 Supports: C-7170
 Tags: relevance:context
 Investigative Direction: Confirm exact wording against Loomer's X account.
@@ -1420,7 +1420,7 @@ Transcript Snippet: Joe Kent I'm going to be interviewing him this Thursday at t
 
 Anchored Artifacts: 
 Mentions: N-3, N-209
-Related Nodes: N-10956
+Related Nodes: N-10877
 Tags: relevance:context
 Investigative Direction: Check the Catholics for Catholics program for the March 19, 2026 event and whether the interview took place.
 
@@ -1436,7 +1436,7 @@ Transcript Snippet: They have just been emailing everyone calling everybody aski
 
 Anchored Artifacts: 
 Mentions: N-553, N-3
-Related Nodes: N-10956
+Related Nodes: N-10877
 Tags: relevance:context
 Investigative Direction: Ask the organizers for the cancellation emails and calls received, and check the published event agenda.
 
@@ -1512,7 +1512,7 @@ Transcript Snippet: the pain that they have put him through, the harassment that
 
 Anchored Artifacts: 
 Mentions: N-941, N-3
-Related Nodes: N-10956, N-10063
+Related Nodes: N-10877, N-10060
 Tags: relevance:context
 Investigative Direction: Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.
 
@@ -1528,7 +1528,7 @@ Transcript Snippet: she simply told the truth that what she is going through rig
 
 Anchored Artifacts: 
 Mentions: N-46, N-1, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Identify the specific campaign against Kelly the host means and compare with Kirk's reported Israel pressure in 2025.
 
@@ -1544,7 +1544,7 @@ Transcript Snippet: Erika's at the helm of the company. Charlie's wife is at the
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10545
+Related Nodes: N-10500
 Tags: relevance:context
 Investigative Direction: Compare TPUSA's public positions since September 2025 with Kirk's documented statements on Israel, Iran and donors.
 
@@ -1560,7 +1560,7 @@ Transcript Snippet: Joe Kent was one of the people who bumped heads with Kash Pa
 
 Anchored Artifacts: 
 Mentions: N-209, N-69, N-1
-Related Nodes: N-10355
+Related Nodes: N-10332
 Supports: C-4156
 Tags: relevance:core
 Investigative Direction: Compare with the New York Times reporting on Patel, Kent and Gabbard and ask Kent about the dispute on stage.
@@ -1577,7 +1577,7 @@ Transcript Snippet: Kash Patel blocked any investigation into whether or not for
 
 Anchored Artifacts: 
 Mentions: N-69, N-1
-Related Nodes: N-10202, N-10355
+Related Nodes: N-10194, N-10332
 Supports: C-4156
 Tags: relevance:core
 Investigative Direction: Obtain FBI and ODNI communications on any foreign-involvement tasking and Patel's public statements on foreign actors.
@@ -1594,7 +1594,7 @@ Transcript Snippet: Because that would have shifted the investigation into Tulsi
 
 Anchored Artifacts: 
 Mentions: N-329, N-209
-Related Nodes: N-10355
+Related Nodes: N-10332
 Tags: relevance:core
 Investigative Direction: Check ODNI and NCTC organizational reporting lines and whether either office was tasked on the Kirk case.
 
@@ -1610,7 +1610,7 @@ Transcript Snippet: Sarah Huckabee Sanders was signing the proclamation on behal
 
 Anchored Artifacts: 
 Mentions: N-580, N-2
-Related Nodes: N-10533
+Related Nodes: N-10488
 Supports: C-6996, C-7192
 Tags: relevance:context
 Investigative Direction: Obtain the signed Arkansas proclamation and the governor's schedule for the event.
@@ -1627,7 +1627,7 @@ Transcript Snippet: he's been with Turning Point USA for more than 5 years.
 
 Anchored Artifacts: 
 Mentions: N-939
-Related Nodes: N-10545
+Related Nodes: N-10500
 Tags: relevance:context
 Investigative Direction: Check chapter records and Fantegrossi's public history with TPUSA.
 
@@ -1643,7 +1643,7 @@ Transcript Snippet: These are people like the person who's working at Andrew Kol
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10000, N-11035
+Related Nodes: N-10000, N-11002
 Tags: relevance:context
 Investigative Direction: Identify the staffer through the host's source network; only confirmable through her sources.
 
@@ -1659,7 +1659,7 @@ Transcript Snippet: we have many grievances with Turning Point USA, which we wil
 
 Anchored Artifacts: A-1870.1
 Mentions: N-939
-Related Nodes: N-10545
+Related Nodes: N-10500
 Tags: relevance:context
 Investigative Direction: Verify the text against Fantegrossi's Instagram post and ask TPUSA whether it received the private grievances.
 
@@ -1675,7 +1675,7 @@ Transcript Snippet: Charlie Kirk cannot speak for himself anymore and we do not 
 
 Anchored Artifacts: A-1870.1
 Mentions: N-939, N-1
-Related Nodes: N-10545
+Related Nodes: N-10500
 Supports: C-7196
 Tags: relevance:context
 Investigative Direction: Verify the text against Fantegrossi's Instagram post.
@@ -1692,7 +1692,7 @@ Transcript Snippet: He sort of just sat up with a bunch of students and tried to
 
 Anchored Artifacts: A-1871.1
 Mentions: N-1
-Related Nodes: N-10545
+Related Nodes: N-10500
 Tags: relevance:core
 Investigative Direction: Identify the event, date and organizer of the July 2025 sit-down and any donor presentation that used it.
 
@@ -1708,7 +1708,7 @@ Transcript Snippet: And it's insulting that that money goes anywhere else becaus
 
 Anchored Artifacts: A-1871.1
 Mentions: N-939, N-1
-Related Nodes: N-10545
+Related Nodes: N-10500
 Supports: C-7201, C-7202
 Tags: relevance:context
 Investigative Direction: Verify the quote and the dollar figures exchanged in the original recording.
@@ -1725,7 +1725,7 @@ Transcript Snippet: He was also on the Charlie Kirk show. I believe he was on it
 
 Anchored Artifacts: 
 Mentions: N-939, N-1
-Related Nodes: N-10545
+Related Nodes: N-10500
 Tags: relevance:context
 Investigative Direction: Check Charlie Kirk Show episode listings for Fantegrossi after September 10, 2025.
 
@@ -1771,7 +1771,7 @@ Transcript Snippet: these employees who are fired for even asking simple questio
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11035
+Related Nodes: N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Identify the fired employees through the host's sources and obtain termination documents.
 
@@ -1787,7 +1787,7 @@ Transcript Snippet: the reason why we need to pause the series is because learni
 
 Anchored Artifacts: 
 Mentions: N-582, N-2, N-3
-Related Nodes: N-10534, N-11396
+Related Nodes: N-10489, N-11312
 Supports: C-7003
 Tags: relevance:context
 Investigative Direction: Review the Romanian reporting on Crossman and the host's resulting episodes.
@@ -1804,7 +1804,7 @@ Transcript Snippet: The Family International. Think like the Charles Manson, lik
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11396, N-10534
+Related Nodes: N-11312, N-10489
 Supports: C-7003
 Tags: relevance:context
 Investigative Direction: Confirm the Family International and Children of God name history from independent sources.
@@ -1821,7 +1821,7 @@ Transcript Snippet: I have made contact with ex-family members and it's getting 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11396
+Related Nodes: N-11312
 Tags: relevance:context
 Investigative Direction: Ask the host to identify the former members she spoke with, if willing.
 
@@ -1837,7 +1837,7 @@ Transcript Snippet: they had said it's plausible that Erika could have been rais
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-11396
+Related Nodes: N-11312
 Tags: relevance:context
 Investigative Direction: Compare with any public record of Erika Kirk's upbringing; the claim is the former members' view relayed by the host.
 
@@ -1853,7 +1853,7 @@ Transcript Snippet: I didn't know that there was a connection between the family
 
 Anchored Artifacts: 
 Mentions: N-9, N-3
-Related Nodes: N-11396, N-10023
+Related Nodes: N-11312, N-10023
 Tags: relevance:tangential
 Investigative Direction: Look for documented links between the Family International and Epstein; none are shown on air.
 
@@ -1900,7 +1900,7 @@ Transcript Snippet: it's fine that Erika's working uh with Harvest Church and th
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-11340, N-10411
+Related Nodes: N-11256, N-10384
 Supports: C-5042, C-5040
 Tags: relevance:core
 Investigative Direction: Pull the lawsuit dockets against Harvest Christian Fellowship and Erika Kirk's Harvest event commitments.
@@ -1917,7 +1917,7 @@ Transcript Snippet: Kash Patel, "No evidence of any sex trafficking."
 
 Anchored Artifacts: 
 Mentions: N-69, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Find Patel's actual statement on Epstein and sex trafficking evidence and compare wording.
 
@@ -1933,7 +1933,7 @@ Transcript Snippet: some people think BB Netanyahu might be dead. And it is not 
 
 Anchored Artifacts: 
 Mentions: N-36
-Related Nodes: N-10544
+Related Nodes: N-10499
 Tags: relevance:tangential
 Investigative Direction: Check official Israeli government schedules and statements for the period.
 
@@ -1949,7 +1949,7 @@ Transcript Snippet: on March 10th, the BB had a very verified visit.
 
 Anchored Artifacts: A-1872.1
 Mentions: N-36
-Related Nodes: N-10544
+Related Nodes: N-10499
 Tags: relevance:tangential
 Investigative Direction: Match the clip against official Israeli government release of the March 10 visit.
 
@@ -1965,7 +1965,7 @@ Transcript Snippet: there was a rumor that at some point later that day or on th
 
 Anchored Artifacts: 
 Mentions: N-36
-Related Nodes: N-10544
+Related Nodes: N-10499
 Tags: relevance:tangential
 Investigative Direction: Trace the origin of the rumor and compare with Israeli military and government statements.
 
@@ -1981,7 +1981,7 @@ Transcript Snippet: Very strange two-hour situation room gets pulled in again th
 
 Anchored Artifacts: A-1873.1
 Mentions: N-598
-Related Nodes: N-10544
+Related Nodes: N-10499
 Supports: C-7220
 Tags: relevance:tangential
 Investigative Direction: Check White House schedules for the Situation Room meeting length and attendees on March 12.
@@ -1997,7 +1997,7 @@ Claim: The host says officials said the shutdown was due to a strong odor coming
 Transcript Snippet: cuz there was a strong odor coming from the Potomac River. What? It was shut down for about two hours 20 minutes
 
 Anchored Artifacts: A-1874.1
-Related Nodes: N-10544
+Related Nodes: N-10499
 Supports: C-7223, C-7224
 Tags: relevance:tangential
 Investigative Direction: Check FAA ground stop logs and airport authority statements for the stated cause and duration.
@@ -2014,7 +2014,7 @@ Transcript Snippet: people thought that they saw six fingers some people dispute
 
 Anchored Artifacts: A-1875.1
 Mentions: N-36
-Related Nodes: N-10544
+Related Nodes: N-10499
 Supports: C-7227
 Tags: relevance:tangential
 Investigative Direction: Run frame-level forensic analysis of the posted video.
@@ -2031,7 +2031,7 @@ Transcript Snippet: I don't know if I think he's dead, but I think he's injured,
 
 Anchored Artifacts: 
 Mentions: N-36, N-3
-Related Nodes: N-10544
+Related Nodes: N-10499
 Tags: relevance:tangential
 Investigative Direction: Compare with verifiable public appearances of Netanyahu after March 11.
 
@@ -2047,7 +2047,7 @@ Transcript Snippet: Today I erased two names on the punch cards and you see how 
 
 Anchored Artifacts: A-1876.1
 Mentions: N-36, N-273
-Related Nodes: N-10544
+Related Nodes: N-10499
 Tags: relevance:tangential
 Investigative Direction: Check the original video from Netanyahu's account and the Hebrew and English captions.
 
@@ -2063,7 +2063,7 @@ Transcript Snippet: getting rid of these lunatics who would like to develop nucl
 
 Anchored Artifacts: A-1876.1
 Mentions: N-36, N-273, N-5
-Related Nodes: N-10544
+Related Nodes: N-10499
 Tags: relevance:tangential
 Investigative Direction: Verify wording against the original video.
 
@@ -2079,7 +2079,7 @@ Transcript Snippet: Where'd you say he was, Schuyler? Like at the Air Force base
 
 Anchored Artifacts: 
 Mentions: N-68, N-36
-Related Nodes: N-10544
+Related Nodes: N-10499
 Tags: relevance:tangential
 Investigative Direction: Check Israeli government releases for any air base visit on March 17.
 
@@ -2110,7 +2110,7 @@ Transcript Snippet: Anywhere Megan wants to speak they will call people, they wi
 
 Anchored Artifacts: 
 Mentions: N-46, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Identify specific calls or cancellations tied to Kelly events.
 
@@ -2126,7 +2126,7 @@ Transcript Snippet: Like Megan and I disagree as a point on Erika Kirk.
 
 Anchored Artifacts: 
 Mentions: N-46, N-2, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Compare with Kelly's public statements on Erika Kirk.
 
@@ -2156,7 +2156,7 @@ Claim: The host says she thinks Iran's foreign minister said the day before that
 Transcript Snippet: I think it was the foreign minister of Iran said yesterday the Hormuz is only closed for Zionists.
 
 Anchored Artifacts: 
-Related Nodes: N-10541
+Related Nodes: N-10496
 Tags: relevance:context
 Investigative Direction: Find the Iranian foreign ministry statement of March 16, 2026.
 
@@ -2172,7 +2172,7 @@ Transcript Snippet: I think I'm in a a three-way tie actually with uh, Joe Rogan
 
 Anchored Artifacts: 
 Mentions: N-3, N-268
-Related Nodes: N-11228
+Related Nodes: N-11144
 Tags: relevance:tangential
 Investigative Direction: Compare with Spotify, Apple and Podtrac chart data for mid-March 2026.
 
