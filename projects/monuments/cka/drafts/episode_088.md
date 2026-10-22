@@ -1413,6 +1413,8 @@ Anchored Artifacts:
 Mentions: N-3, N-40
 Related Nodes: N-10566
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-5
 Investigative Direction: Obtain firearms examiner reports on whether the barrel and cartridge cases link to this rifle.
 
 ---

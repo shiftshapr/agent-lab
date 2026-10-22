@@ -4032,6 +4032,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-5, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare Cox's statement against UVU surveillance and TMZ footage for consistency."
     },
@@ -4086,6 +4094,14 @@
     {
      "k": "Uncertainty",
      "v": "Footage shown but host notes timestamp uncertainty about FBI arrival claim."
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3"
     },
     {
      "k": "Investigative Direction",
@@ -4308,6 +4324,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain FBI evidence photos and chain of custody for recovered rifle."
     },
@@ -4354,6 +4378,14 @@
     {
      "k": "Confidence",
      "v": "high"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -7551,6 +7583,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the original rooftop footage with metadata and verify that the figure is the shooter and the time of the clip."
     },
@@ -7799,6 +7839,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the original FBI release with date and camera location, and build the timeline for the outfit change."
     },
@@ -7980,6 +8028,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
     },
     {
      "k": "Investigative Direction",
@@ -8352,6 +8408,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the message exhibits from the charging documents and compare timestamps with the shooting timeline."
     },
@@ -8413,6 +8477,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare with the ammunition and engravings described in the charging documents and recovered evidence."
     },
@@ -8472,6 +8544,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-7"
     },
     {
      "k": "Investigative Direction",

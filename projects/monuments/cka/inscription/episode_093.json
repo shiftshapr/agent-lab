@@ -2134,8 +2134,10 @@
       "claim_timestamp": "00:43:33",
       "investigative_direction": "Obtain the ATF summary in full (rather than partial readback) and any underlying laboratory report.",
       "mentions_person_refs": [],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -2153,8 +2155,10 @@
       "claim_timestamp": "00:43:51–00:44:37",
       "investigative_direction": "Obtain forensic report details on which class characteristics were matched and the exclusion criteria.",
       "mentions_person_refs": [],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",

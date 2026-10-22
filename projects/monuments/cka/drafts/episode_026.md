@@ -1786,6 +1786,8 @@ Mentions: N-1, N-3
 Related Nodes: N-10213, N-11018
 Supports: C-1971
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2
 Investigative Direction: Obtain the multi-angle footage and security team accounts of the first minute after the shot.
 
 ---

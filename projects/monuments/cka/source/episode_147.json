@@ -2620,6 +2620,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed."
     },
@@ -2670,6 +2678,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling."
     },
@@ -2714,6 +2730,14 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
     },
     {
      "k": "Investigative Direction",
@@ -2766,6 +2790,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-11"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the charging document to confirm the textual basis alleged for each count."
     },
@@ -2816,6 +2848,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed."
     },
@@ -2862,6 +2902,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify against the court's docket entry; track any subsequent plea amendments."
     },
@@ -2906,6 +2954,14 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
     },
     {
      "k": "Investigative Direction",
@@ -3356,6 +3412,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times."
     },
@@ -3754,6 +3818,14 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-11"
     },
     {
      "k": "Investigative Direction",
@@ -6375,6 +6447,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the full transcript of the Neff testimony and the hearing in which it was given."
     },
@@ -6922,6 +7002,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
     },
     {
      "k": "Investigative Direction",

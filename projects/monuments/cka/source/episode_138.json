@@ -5586,6 +5586,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the preliminary hearing transcript of Lance's testimony on motive and political discussions."
     },
@@ -5645,6 +5653,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
     },
     {
      "k": "Investigative Direction",

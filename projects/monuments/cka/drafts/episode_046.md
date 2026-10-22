@@ -1404,6 +1404,8 @@ Mentions: N-3, N-40
 Related Nodes: N-10021, N-10932, N-11360
 Supports: C-133
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-3, S-4, S-5
 Investigative Direction: Compare the probable cause statement and press briefings with the father's account of the call to authorities.
 
 ---
@@ -1438,6 +1440,8 @@ Mentions: N-3, N-40
 Related Nodes: N-10293, N-10236, N-11360
 Supports: C-114
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-5, S-7
 Investigative Direction: Obtain the booking photograph, arrest report and clothing inventory.
 
 ---

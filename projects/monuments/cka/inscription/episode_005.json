@@ -2636,8 +2636,10 @@
         "N-40",
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -2766,8 +2768,12 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-1",
+        "S-3",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -3112,8 +3118,11 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-1",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",

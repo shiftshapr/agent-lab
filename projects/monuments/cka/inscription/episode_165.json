@@ -1574,8 +1574,10 @@
       "mentions_person_refs": [
         "N-955"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2020,8 +2022,10 @@
       "mentions_person_refs": [
         "N-8"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",

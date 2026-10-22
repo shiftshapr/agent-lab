@@ -1963,8 +1963,11 @@
         "N-54",
         "N-135"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7",
+        "S-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -1985,8 +1988,10 @@
         "N-40",
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -2198,8 +2203,10 @@
         "N-224",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2627,8 +2634,10 @@
       "claim_timestamp": "00:23:38",
       "investigative_direction": "Obtain UVU's event safety plan and any medical-standby contract for the Sept 10 event.",
       "transcript_snippet": "It explains why there was unusually no ambulance on standby.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",

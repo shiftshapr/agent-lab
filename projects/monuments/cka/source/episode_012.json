@@ -5708,6 +5708,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the tour schedule and booking correspondence for both campuses showing who proposed the dates."
     },
@@ -6011,6 +6019,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",

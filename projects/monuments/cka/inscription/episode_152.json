@@ -2452,8 +2452,10 @@
       "mentions_person_refs": [
         "N-506"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -3011,8 +3013,10 @@
         "N-506",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -3059,8 +3063,10 @@
       "revises_claim_refs": [
         "C-11690"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",

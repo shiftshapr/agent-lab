@@ -2504,6 +2504,8 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10523, N-10896, N-10566
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the ATF laboratory report or court filing stating the bullet-to-rifle finding.
 
 ---

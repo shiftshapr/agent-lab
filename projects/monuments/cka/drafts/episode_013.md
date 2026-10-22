@@ -1200,6 +1200,8 @@ Mentions: N-1
 
 Related Nodes: N-10150
 
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Verify through official medical examiner channels or court filings.
 
 ---

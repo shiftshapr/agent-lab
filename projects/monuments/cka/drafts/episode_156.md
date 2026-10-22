@@ -694,6 +694,8 @@ Mentions: N-861
 
 Related Nodes: N-10776
 
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Pull the actual preliminary-hearing / probable-cause transcript and verify whether the testimony relied on partial-plate matching.
 
 ---
@@ -1717,6 +1719,8 @@ Mentions: N-3, N-861
 Related Nodes: N-10776
 Supports: C-13513
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Review the hearing testimony for each reference to partial plates.
 
 ---

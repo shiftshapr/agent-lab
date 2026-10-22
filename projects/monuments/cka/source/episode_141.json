@@ -5056,6 +5056,14 @@
      "v": "N-10986"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Read Utah Rule of Evidence 1102 and the preliminary-hearing rulings applying it."
     },
@@ -5221,6 +5229,14 @@
     {
      "k": "Mentions",
      "v": "N-3, N-40"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -6054,6 +6070,14 @@
      "v": "N-3, N-18, N-40"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-10"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check the Utah aggravated-murder statute and the charging document."
     },
@@ -6109,6 +6133,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10541"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
     },
     {
      "k": "Investigative Direction",

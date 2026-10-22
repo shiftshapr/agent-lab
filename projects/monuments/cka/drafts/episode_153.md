@@ -716,6 +716,8 @@ Claim: Per an Associated Press article the host shows, published September 22, 2
 Anchored Artifacts: A-2385.1
 Mentions: N-1
 Related Nodes: N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Cross-reference UVU board minutes and the AP wire story against UVU press releases from September 22, 2025.
 
 ---
@@ -758,6 +760,8 @@ Claim: Per the text message the host shows, Dan Flood told Chief Jeffrey Long th
 Anchored Artifacts: A-2387.1, A-2388.1
 Mentions: N-270, N-271
 Related Nodes: N-10758
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.
 
 ---
@@ -769,6 +773,8 @@ Claim: Per the text message the host shows, Chief Jeffrey Long responded to Dan 
 Anchored Artifacts: A-2387.1
 Mentions: N-270, N-271
 Related Nodes: N-10758
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Verify against UVU PD records and text-message metadata.
 
 ---
@@ -790,6 +796,8 @@ Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges UVU assigned only six campus police officers to the outdoor tour event that ultimately attracted approximately 3,000 attendees.
 Anchored Artifacts: A-2384.1
 Related Nodes: N-10759
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Cross-reference UVU PD staffing logs from September 10, 2025.
 
 ---
@@ -917,6 +925,8 @@ Claim Timestamp: 00:20:33
 Claim: The host says UVU has a grand total of 24 police officers available to cover its campus.
 Anchored Artifacts: A-2384.1 (referenced indirectly)
 Related Nodes: N-10759
+Verification: contradicted-by-record
+Verification Evidence: S-2
 Investigative Direction: Verify against UVU PD staffing rosters and Utah public-safety salary records.
 
 ---
@@ -927,6 +937,8 @@ Claim Timestamp: 00:16:22
 Claim: The host says she is told that on August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater, and that UVU acquiesced; she says this is not in the filing.
 Anchored Artifacts: A-2384.1
 Mentions: N-1, N-8
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Recover Microsoft Teams call metadata and any TPUSA event-planning emails.
 
 ---
@@ -958,6 +970,8 @@ Claim Timestamp: 00:18:53
 Claim: The host says members of Charlie's security team first arrived on the UVU campus at 9:00 AM on the morning of September 10, 2025.
 Anchored Artifacts: A-2384.1 (referenced indirectly)
 Mentions: N-1
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Compare against UVU PD visitor logs and hotel / travel records of the security detail.
 
 ---
@@ -1503,6 +1517,8 @@ Mentions: N-3
 Related Nodes: N-10000, N-11327
 Contradicts: C-13226
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain ticket platform records and the ticketing agreement.
 
 ---
@@ -1537,6 +1553,8 @@ Mentions: N-3, N-270, N-271
 Related Nodes: N-10590, N-10929
 Supports: C-3215
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the original thread with metadata.
 
 ---

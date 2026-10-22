@@ -5914,6 +5914,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Review UVU campus access logs, camera footage and the charging documents on how and when Robinson reached the campus."
     },

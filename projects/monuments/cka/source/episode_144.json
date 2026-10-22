@@ -2795,6 +2795,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2, S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel."
     },
@@ -4697,6 +4705,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10734, N-10735"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
     },
     {
      "k": "Investigative Direction",

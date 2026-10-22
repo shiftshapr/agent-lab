@@ -1129,6 +1129,8 @@ Mentions: N-3, N-40
 Related Nodes: N-10106
 Supports: C-166
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-11
 Investigative Direction: Read the Utah charging documents and probable-cause statement for the stated roof-drop time and its source.
 
 ---

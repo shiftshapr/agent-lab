@@ -1601,8 +1601,10 @@
         "N-40",
         "N-135"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -1625,8 +1627,10 @@
         "N-54",
         "N-135"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -1644,8 +1648,10 @@
       "claim_timestamp": "00:05:54",
       "investigative_direction": "Compare this on-record concession against the state's preserved theory of the case and any superseding indictment.",
       "mentions_person_refs": [],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -1666,8 +1672,11 @@
         "N-40",
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7",
+        "S-11"
+      ]
     },
     {
       "@type": "Claim",
@@ -1688,8 +1697,10 @@
         "N-40",
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -1707,8 +1718,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -1726,8 +1739,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -1916,8 +1931,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2089,8 +2106,11 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7",
+        "S-11"
+      ]
     },
     {
       "@type": "Claim",
@@ -3152,8 +3172,10 @@
         "N-1",
         "N-190"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3374,8 +3396,10 @@
         "N-54",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",

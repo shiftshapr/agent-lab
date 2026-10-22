@@ -2266,6 +2266,8 @@ Anchored Artifacts:
 Mentions: N-751, N-1, N-3
 Related Nodes: N-10012, N-10028
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.
 
 ---

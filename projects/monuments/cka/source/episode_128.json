@@ -5499,6 +5499,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare with the UVU and bystander video of the first minute after the shot, and ask O'Neill for his source on the SIM card and camera removal."
     },
@@ -6861,6 +6869,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
     },
     {
      "k": "Investigative Direction",
@@ -8411,6 +8427,14 @@
     {
      "k": "Tags",
      "v": "relevance:context"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",

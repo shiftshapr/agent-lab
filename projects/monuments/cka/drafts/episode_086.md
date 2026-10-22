@@ -685,6 +685,8 @@ Mentions: N-40
 
 Related Nodes: N-10523
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain full ATF case file and protocols referenced as outstanding in the filing; verify whether the conclusion is "inconclusive" or a definitive non-match.
 
 ---
@@ -966,6 +968,8 @@ Anchored Artifacts:
 Mentions: N-261
 Related Nodes: N-10000
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain TPUSA vendor contracts and prior event staffing records for the AV company.
 
 ---
@@ -1496,6 +1500,8 @@ Anchored Artifacts: A-1912.1
 Mentions: N-40
 Related Nodes: N-10106, N-10647
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-6
 Investigative Direction: Obtain the FBI and ATF DNA reports and the underlying electronic data.
 
 ---
@@ -1594,6 +1600,8 @@ Anchored Artifacts: A-1912.1
 Mentions: N-40
 Related Nodes: N-10986, N-11065
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-8
 Investigative Direction: Obtain the filed motion at page 22.
 
 ---

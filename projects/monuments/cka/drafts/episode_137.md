@@ -752,6 +752,8 @@ Mentions: N-506
 
 Related Nodes: N-10704
 
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given.
 
 ---
@@ -1358,6 +1360,8 @@ Mentions: N-506
 Related Nodes: N-10704
 Supports: C-10873
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain the full trial transcript of Bagley's cross-examination and the police department video he reviewed.
 
 ---
@@ -1375,6 +1379,8 @@ Mentions: N-506
 Related Nodes: N-10704
 Supports: C-11786
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Compare this exchange with the court record to confirm Bagley's final answer.
 
 ---

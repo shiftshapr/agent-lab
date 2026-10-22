@@ -931,6 +931,8 @@ Mentions: N-40
 
 Related Nodes: N-10541
 
+Verification: contradicted-by-record
+Verification Evidence: S-4, S-5, S-7
 Investigative Direction: Obtain the search warrant docket entry and verify exact time/date stamps.
 
 ---
@@ -1758,6 +1760,8 @@ Anchored Artifacts: A-2958.1
 Mentions: N-3, N-41, N-40, N-54
 Related Nodes: N-10013, N-10545
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the full search warrant affidavit and the photographs of the roommate's screen.
 
 ---
@@ -1774,6 +1778,8 @@ Anchored Artifacts: A-2958.1
 Mentions: N-3, N-41, N-40, N-54
 Related Nodes: N-10013
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-7
 Investigative Direction: Compare the affidavit's paraphrase with the full message thread released by the FBI.
 
 ---
@@ -1790,6 +1796,8 @@ Anchored Artifacts: A-2958.1
 Mentions: N-3, N-41, N-40, N-54
 Related Nodes: N-10013
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5, S-7
 Investigative Direction: Compare with the released text chain and with the bullet engraving evidence in the charging documents.
 
 ---

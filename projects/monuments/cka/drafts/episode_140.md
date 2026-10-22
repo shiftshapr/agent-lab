@@ -924,6 +924,8 @@ Mentions: N-40, N-860, N-861
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Obtain the full Agent Hull testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).
 
 ---
@@ -1151,6 +1153,8 @@ Anchored Artifacts: A-3078.1
 Mentions: N-40, N-54
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Compare the wording and timestamp of this message in the charging documents and the extracted text exhibits.
 
 ---
@@ -1295,6 +1299,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10012, N-11177
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3, S-7
 Investigative Direction: Request the Chick-fil-A surveillance footage and receipts from the prosecution or a records request.
 
 ---
@@ -1311,6 +1317,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11177
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Identify the footage or testimony establishing the black shirt and blue jeans and where he changed.
 
 ---
@@ -1343,6 +1351,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11177
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3, S-7
 Investigative Direction: Compare against the charging documents and any footage of the limp, hat and backpack.
 
 ---
@@ -1391,6 +1401,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10059, N-11177
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5, S-7
 Investigative Direction: Identify the vehicle-tracking, license-plate or camera evidence that places him back at Orem and the time.
 
 ---
@@ -1424,6 +1436,8 @@ Anchored Artifacts: A-2270.1
 Mentions: N-860
 Related Nodes: N-11177
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.
 
 ---
@@ -1520,6 +1534,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11177, N-11360
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain the arrest photographs and booking inventory of clothing.
 
 ---
@@ -1569,6 +1585,8 @@ Anchored Artifacts:
 Mentions: N-42
 Related Nodes: N-10093
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain police body-camera footage and reports of Zinn's statements at the scene and his charging papers.
 
 ---

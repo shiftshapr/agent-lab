@@ -3434,6 +3434,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-4, S-5, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the search warrant docket entry and verify exact time/date stamps."
     },
@@ -6586,6 +6594,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the full search warrant affidavit and the photographs of the roommate's screen."
     },
@@ -6647,6 +6663,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare the affidavit's paraphrase with the full message thread released by the FBI."
     },
@@ -6706,6 +6730,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-7"
     },
     {
      "k": "Investigative Direction",

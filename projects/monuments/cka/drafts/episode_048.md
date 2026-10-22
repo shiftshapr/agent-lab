@@ -1026,6 +1026,8 @@ Mentions: N-266
 
 Related Nodes: N-10305, N-10341
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Corroborate against any contemporaneous operational records and against the Operation Valhalla Strike timeline.
 
 ---

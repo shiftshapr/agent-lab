@@ -1120,6 +1120,8 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10144, N-10188
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2, S-12
 Investigative Direction: Identify the people who told the host this and compare against UV Hospital and EMS records.
 
 ---

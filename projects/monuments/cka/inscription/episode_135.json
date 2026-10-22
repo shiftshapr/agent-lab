@@ -1678,8 +1678,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -1721,8 +1723,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -1998,8 +2002,10 @@
         "N-894",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -2136,8 +2142,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -2439,8 +2447,10 @@
       "mentions_person_refs": [
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -3060,8 +3070,10 @@
       "revises_claim_refs": [
         "C-10646"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -3279,8 +3291,10 @@
       "mentions_person_refs": [
         "N-10698"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -3323,8 +3337,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",

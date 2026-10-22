@@ -1585,6 +1585,8 @@ Mentions: N-3, N-1, N-40
 Related Nodes: N-10000
 Supports: C-2004
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-3
 Investigative Direction: Review UVU campus access logs, camera footage and the charging documents on how and when Robinson reached the campus.
 
 ---

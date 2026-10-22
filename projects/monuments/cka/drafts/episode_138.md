@@ -1498,6 +1498,8 @@ Anchored Artifacts: A-2988.1
 Mentions: N-3, N-54, N-40, N-1
 Related Nodes: N-10748, N-10617
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the preliminary hearing transcript of Lance's testimony on motive and political discussions.
 
 ---
@@ -1514,6 +1516,8 @@ Anchored Artifacts: A-2988.1
 Mentions: N-3, N-54, N-40, N-1
 Related Nodes: N-10748, N-10617
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain Lance's preliminary hearing testimony and compare it with the text messages attributed to Tyler.
 
 ---

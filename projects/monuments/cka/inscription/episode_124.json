@@ -1977,8 +1977,10 @@
         "N-40",
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -1998,8 +2000,10 @@
         "N-1",
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -2014,8 +2018,10 @@
       "tags": [],
       "claim_timestamp": "00:20:59",
       "investigative_direction": "Obtain Ring camera footage and police interview transcripts for cross-verification.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2073,8 +2079,11 @@
       "tags": [],
       "claim_timestamp": "00:43:52",
       "investigative_direction": "Obtain certified copies of both exhibits for direct comparison.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-2",
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2111,8 +2120,10 @@
         "N-40",
         "N-773"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -2132,8 +2143,11 @@
       "mentions_person_refs": [
         "N-773"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-6",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -2154,8 +2168,11 @@
         "N-40",
         "N-773"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-6",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -2175,8 +2192,10 @@
       "mentions_person_refs": [
         "N-774"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -2238,8 +2257,12 @@
         "N-40",
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-1",
+        "S-5",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -2642,8 +2665,11 @@
         "N-3",
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-4",
+        "S-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -2689,8 +2715,11 @@
         "N-3",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-3",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -3153,8 +3182,10 @@
         "N-773",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -3179,8 +3210,10 @@
         "N-773",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -3297,8 +3330,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",

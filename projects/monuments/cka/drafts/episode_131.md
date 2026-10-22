@@ -980,6 +980,8 @@ Anchored Artifacts: A-2184.1
 Mentions: N-153, N-1
 
 
+Verification: contradicted-by-record
+Verification Evidence: S-7
 Investigative Direction: Cross-reference with official autopsy report (if released); obtain independent forensic analysis.
 
 ---

@@ -3413,6 +3413,14 @@
      "v": "medium"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Demand release of campus surveillance footage, drone footage, and Dodge Challenger parking-lot video for the 5:30 PM–midnight window."
     },
@@ -3463,6 +3471,14 @@
     {
      "k": "Confidence",
      "v": "high"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -3976,6 +3992,14 @@
      "v": "C-194"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the photograph of the note and Lance's full reply thread from the indictment exhibits or discovery."
     },
@@ -4033,6 +4057,14 @@
      "v": "N-10038, N-10059"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the full thread with device timestamps to place this message against the lockdown and manhunt."
     },
@@ -4088,6 +4120,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10038"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -4383,6 +4423,14 @@
      "v": "N-10038"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare the planning timeline in the texts with the 'weeks' of planning officials described and with any recorded scouting visits."
     },
@@ -4438,6 +4486,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10038"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -4847,6 +4903,14 @@
      "v": "C-175"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the September 11 FBI press conference video and the evidence log for the rifle's recovery location."
     },
@@ -5132,6 +5196,14 @@
      "v": "N-10022"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the exact text with its timestamp and match it to the FBI rifle photo release time."
     },
@@ -5191,6 +5263,14 @@
     {
      "k": "Supports",
      "v": "C-187"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -5307,6 +5387,14 @@
      "v": "N-10022"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-11"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the original text and its timestamp; check the father's voter and donation records against the claim."
     },
@@ -5366,6 +5454,14 @@
     {
      "k": "Supports",
      "v": "C-187"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-7"
     },
     {
      "k": "Investigative Direction",

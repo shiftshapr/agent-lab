@@ -933,6 +933,8 @@ Mentions: N-899, N-861
 
 Related Nodes: N-10773
 
+Verification: corroborated
+Verification Evidence: S-2, S-3
 Investigative Direction: Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match.
 
 Optional Flag: Claim failed admission test (Artifact Anchor) – claim retained with explicit flag for missing artifact; verify against source records before further inscription.
@@ -1396,6 +1398,8 @@ Anchored Artifacts: A-2414.1
 Mentions: N-40, N-3
 Related Nodes: N-10771, N-10019
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Obtain the filed September 15 warrant affidavit to verify the clothing description and compare it with the maroon-shirt reporting.
 
 ---
@@ -1413,6 +1417,8 @@ Mentions: N-860, N-40, N-3
 Related Nodes: N-10771
 Supports: C-12039
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3, S-7
 Investigative Direction: Obtain the hearing transcript and any Chick-fil-A transaction or camera records for the 10:09 a.m. to 11:00 a.m. window.
 
 ---

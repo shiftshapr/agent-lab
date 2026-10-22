@@ -1518,6 +1518,8 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10012, N-11133, N-10000
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the tour schedule and booking correspondence for both campuses showing who proposed the dates.
 
 ---
@@ -1598,6 +1600,8 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10763
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Check Utah event-safety rules and the event permit for medical-standby requirements, and ask UVU whether an ambulance was present.
 
 ---

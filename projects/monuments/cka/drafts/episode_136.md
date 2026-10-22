@@ -758,6 +758,8 @@ Anchored Artifacts: A-2224.2, A-2233.1
 Mentions: N-506
 Related Nodes: N-10660
 
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.
 
 ---
@@ -772,6 +774,8 @@ Anchored Artifacts: A-2224.1
 Mentions: N-506
 Related Nodes: N-10661
 
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.
 
 ---
@@ -786,6 +790,8 @@ Anchored Artifacts: A-2224.1, A-2233.1
 Mentions: N-506
 Related Nodes: N-10661
 
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.
 
 ---
@@ -1180,6 +1186,8 @@ Mentions: N-506
 Related Nodes: N-10321
 Supports: C-10866
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Compare the 12:44 arrival with the 12:47 bystander clip and with the preliminary-hearing transcript.
 
 ---

@@ -893,6 +893,8 @@ Mentions: N-506
 
 Related Nodes: N-10660
 
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain full Axon Body Cam 4 battery-log metadata for Bagley's device on Sept. 10, 2025, including dock-cycle history.
 
 ---
@@ -908,6 +910,8 @@ Mentions: N-506
 
 Related Nodes: N-10661
 
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Identify the badge-holder from rooftop footage, radio traffic logs, and officer roster records for Sept. 10, 2025.
 
 ---
@@ -923,6 +927,8 @@ Mentions: N-506
 
 Related Nodes: N-10661
 
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Locate the 20-minute footage gap referenced and obtain any UVU or law-enforcement video from that window.
 
 ---
@@ -952,6 +958,8 @@ Mentions: N-505
 
 Related Nodes: N-10654
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain Faumuina's September 22, 2025 crime-scene overview report and the seizure item numbers she could not recall.
 
 ---
@@ -967,6 +975,8 @@ Mentions: N-505
 
 Related Nodes: N-10654
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the FBI lab intake documentation for these items and the chain-of-custody record.
 
 ---
@@ -982,6 +992,8 @@ Mentions: N-505
 
 Related Nodes: N-10654
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Compare FBI/ATF lab notes to Faumuina's communication log and identify the party that actually conveyed the "not probative" determination.
 
 ---
@@ -997,6 +1009,8 @@ Mentions: N-776
 
 Related Nodes: N-10654
 
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Identify the bystander candidate; obtain the source of the "bystander" classification.
 
 ---
@@ -1012,6 +1026,8 @@ Mentions: N-776, N-1
 
 Related Nodes: N-10654
 
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Identify the lab employee who authored/added the "Kirk's detail" attribution; obtain that employee's written communication.
 
 ---
@@ -1027,6 +1043,8 @@ Mentions: N-3, N-505, N-776
 
 Related Nodes: N-10654
 
+Verification: corroborated
+Verification Evidence: S-3, S-5
 Investigative Direction: Locate the original handwritten or digital lab note and trace the attribution chain.
 
 ---
@@ -1201,6 +1219,8 @@ Anchored Artifacts:
 Mentions: N-506, N-3
 Related Nodes: N-10086, N-10665
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2, S-7
 Investigative Direction: Obtain Bagley's report and evidence log for the screwdriver recovery time and location, and the footage the influencers say they saw.
 
 ---
@@ -1218,6 +1238,8 @@ Mentions: N-506
 Related Nodes: N-10660
 Supports: C-10867
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain Bagley's device dock log and the UVU police body-cam retention records for September 10.
 
 ---
@@ -1252,6 +1274,8 @@ Mentions: N-506
 Related Nodes: N-10661
 Supports: C-10871
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Identify the armed person in civilian clothing from the body-cam frames and the radio log of who entered the building with Bagley.
 
 ---
@@ -1269,6 +1293,8 @@ Mentions: N-506
 Related Nodes: N-10704, N-10661
 Qualifies: C-10873
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain dispatch audio and CAD entries on the north-heading report and the roster of officers who cleared the building before 12:44.
 
 ---
@@ -1333,6 +1359,8 @@ Anchored Artifacts:
 Mentions: N-505, N-3
 Related Nodes: N-10012
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Confirm Faumuina's employing agency and title from the preliminary hearing record.
 
 ---
@@ -1350,6 +1378,8 @@ Mentions: N-505
 Related Nodes: N-10654
 Supports: C-10879
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Request all Faumuina reports from the hearing exhibit list, especially the September 22 overview and any report naming the library items.
 
 ---
@@ -1367,6 +1397,8 @@ Mentions: N-505
 Related Nodes: N-10654, N-10653
 Supports: C-10879
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the canvass notes and officer body-cam from the library bus stop showing who first flagged the items and when.
 
 ---
@@ -1384,6 +1416,8 @@ Mentions: N-505
 Related Nodes: N-10654
 Supports: C-10883
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the FBI lab request form and any later communication about the items from state investigators.
 
 ---
@@ -1401,6 +1435,8 @@ Mentions: N-505, N-3
 Related Nodes: N-10654
 Supports: C-10883
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Identify who made the unrelated determination, on what information, and where it is recorded in the state and FBI files.
 
 ---
@@ -1434,6 +1470,8 @@ Mentions: N-776
 Related Nodes: N-10654, N-10014
 Supports: C-10887
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Obtain the FBI lab DNA results, if any, for exhibit nine and the items from the backpack, with dates of processing.
 
 ---

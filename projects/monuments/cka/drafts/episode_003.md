@@ -881,6 +881,8 @@ Anchored Artifacts: A-1095.1
 Mentions: N-3, N-40
 Related Nodes: N-10029, N-10031, N-11360
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Verify surrender timestamp via sheriff's office records and forensic timeline.
 
 ---
@@ -893,6 +895,8 @@ Transcript Snippet: the DNA was consistent with Robinson that was found on the t
 Anchored Artifacts: A-1095.1
 Mentions: N-40
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1, S-7
 Investigative Direction: Obtain forensic lab reports for chain of custody and match thresholds.
 
 ---
@@ -906,6 +910,8 @@ Anchored Artifacts: A-1095.2
 Mentions: N-40
 Related Nodes: N-10012
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Compare indictment description to actual surveillance video frames; verify gait description against TMZ footage.
 
 ---
@@ -919,6 +925,8 @@ Anchored Artifacts: A-1095.2
 Mentions: N-40
 Related Nodes: N-10012
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Cross-check roof timestamp against shot-time audio forensics.
 
 ---
@@ -931,6 +939,8 @@ Transcript Snippet: investigators found a boltaction rifle wrapped in a towel
 Anchored Artifacts: A-1095.3
 Mentions: N-40
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Obtain crime scene photos and forensic report; verify rifle make/model and serial trace.
 
 ---
@@ -943,6 +953,8 @@ Transcript Snippet: Hey fascist catch...Oh Bella cow...if you read this you are 
 Anchored Artifacts: A-1095.4
 Mentions: N-40
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Request close-up images and chain of custody for the casings.
 
 ---
@@ -955,6 +967,8 @@ Transcript Snippet: she saw the photo of the shooter in the news and thought tha
 Anchored Artifacts: A-1095.5
 Mentions: N-40
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Verify timing of news publication vs. mother's call via phone and interview records.
 
 ---
@@ -967,6 +981,8 @@ Transcript Snippet: the rifle that was given to his son as a gift
 Anchored Artifacts: A-1095.6
 Mentions: N-40
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Verify gift provenance, family communications, and any self-harm implication statements.
 
 ---
@@ -980,6 +996,8 @@ Anchored Artifacts: A-1095.7
 Related Nodes: N-11360
 Mentions: N-40
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Confirm retired deputy's identity and role in surrender via sheriff records.
 
 ---
@@ -992,6 +1010,8 @@ Transcript Snippet: Robinson had become increasingly more political. He had star
 Anchored Artifacts: A-1095.5
 Mentions: N-40
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Compare against Robinson's social media history and family interviews.
 
 ---
@@ -1005,6 +1025,8 @@ Anchored Artifacts: A-1095.8, A-1095.9
 Mentions: N-40, N-54, N-1
 Related Nodes: N-10030
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Verify text and note timestamps and original device screenshots.
 
 ---
@@ -1031,6 +1053,8 @@ Transcript Snippet: Robinson began to date his roommate, which is a biological m
 Anchored Artifacts: A-1095.5, A-1095.9
 Mentions: N-40, N-54
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Verify roommate's stated identity and timeline.
 
 ---
@@ -1044,6 +1068,8 @@ Anchored Artifacts: A-1096.1, A-1097.1
 Mentions: N-42
 Related Nodes: N-10032
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain arrest affidavit and court records.
 
 ---
@@ -1455,6 +1481,8 @@ Anchored Artifacts: A-1095.1
 Mentions: N-40, N-54
 Related Nodes: N-10029
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-11
 Investigative Direction: Obtain the full probable cause statement and the recovered device logs showing any instruction to delete messages.
 
 ---
@@ -1471,6 +1499,8 @@ Anchored Artifacts: A-1095.1
 Mentions: N-40
 Related Nodes: N-10029
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-1, S-7
 Investigative Direction: Pull the charging document to confirm the count, the statute and the allegation that children were present.
 
 ---
@@ -1487,6 +1517,8 @@ Anchored Artifacts: A-1095.1
 Mentions: 
 Related Nodes: N-10012
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-2
 Investigative Direction: Identify the officer and obtain the incident report and body camera footage describing what he heard and when.
 
 ---
@@ -1503,6 +1535,8 @@ Anchored Artifacts: A-1095.2
 Mentions: N-40
 Related Nodes: N-10012
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Obtain the roof camera video and its embedded timestamps to verify the crawl, the dwell time and the exit direction.
 
 ---
@@ -1535,6 +1569,8 @@ Anchored Artifacts: A-1095.2
 Mentions: N-40
 Related Nodes: N-10012
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Review the full campus surveillance video and a gait analysis against the descriptions in the probable cause statement.
 
 ---
@@ -1583,6 +1619,8 @@ Anchored Artifacts: A-1095.2, A-1095.3
 Mentions: N-40
 Related Nodes: N-10012
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-11
 Investigative Direction: Review the camera angle showing the descent and any witness accounts of someone dropping from the roof.
 
 ---
@@ -1599,6 +1637,8 @@ Anchored Artifacts: A-1095.1
 Mentions: N-3
 Related Nodes: N-10012
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Confirm the dates and times of the FBI and Utah public releases of the surveillance photographs.
 
 ---
@@ -1615,6 +1655,8 @@ Anchored Artifacts: A-1095.5
 Mentions: N-40
 Related Nodes: 
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Check phone records for the mother's call and the son's location data for September 10 and 11.
 
 ---
@@ -1631,6 +1673,8 @@ Anchored Artifacts: A-1095.5
 Mentions: N-40, N-1
 Related Nodes: N-10012
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Obtain the mother's police interview and any dated communications mentioning the UVU event.
 
 ---
@@ -1647,6 +1691,8 @@ Anchored Artifacts: A-1095.6
 Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Obtain the father's interview and the sheriff's account of the conversation at the parents' home before the surrender.
 
 ---
@@ -1663,6 +1709,8 @@ Anchored Artifacts: A-1095.6
 Mentions: N-40, N-1
 Related Nodes: N-10022
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Obtain the parents' statements to investigators and any recorded jail or interview statements of the same wording.
 
 ---
@@ -1679,6 +1727,8 @@ Anchored Artifacts: A-1095.7
 Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Establish who gave this instruction (the parents or the family friend) from the interview records and whether any clothing was surrendered.
 
 ---
@@ -1695,6 +1745,8 @@ Anchored Artifacts: A-1095.7
 Mentions: N-40, N-54, N-3
 Related Nodes: N-10019, N-10022
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-7
 Investigative Direction: Find any search records for the disposal location and compare it with the discarded-clothing allegation in the overview.
 
 ---
@@ -1775,6 +1827,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Request the photograph, its metadata and the device it was found on in discovery.
 
 ---
@@ -1791,6 +1845,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
 Related Nodes: N-10074, N-10030
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Obtain the timestamped message log to place this text relative to the lockdown and the rifle recovery.
 
 ---
@@ -1807,6 +1863,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Obtain the unredacted message log with timestamps to verify the exchange and that no messages between these were omitted.
 
 ---
@@ -1823,6 +1881,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
 Related Nodes: N-10074, N-10030
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Match the wording to the first police detention (George Zinn or the other detained person) and to the lockdown times to date this message.
 
 ---
@@ -1839,6 +1899,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40, N-1
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5, S-7
 Investigative Direction: Compare this message with the motive Robinson reportedly gave his parents and obtain the message log.
 
 ---
@@ -1855,6 +1917,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5, S-7
 Investigative Direction: Cross-check the one-week planning claim with purchase, travel and device records from the preceding two weeks.
 
 ---
@@ -1871,6 +1935,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Establish where the rifle was recovered and where patrol cars were positioned, and when the area was swept.
 
 ---
@@ -1887,6 +1953,8 @@ Anchored Artifacts: A-1095.8, A-1095.6
 Mentions: N-40
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Trace the rifle's make, serial number and ownership history against the father's statement that it was a gift.
 
 ---
@@ -1903,6 +1971,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40
 Related Nodes: N-10019, N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Identify what Prince refers to and where the outfit change occurred, and obtain the original message text.
 
 ---
@@ -1936,6 +2006,8 @@ Anchored Artifacts: A-1095.8, A-1095.4
 Mentions: N-40
 Related Nodes: N-10133, N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Compare the quoted text with the casing inscriptions and obtain the message log.
 
 ---
@@ -1952,6 +2024,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-7
 Investigative Direction: Obtain Lance's device extraction to confirm what was deleted and what was recovered.
 
 ---
@@ -1968,6 +2042,8 @@ Anchored Artifacts: A-1095.8, A-1095.6
 Mentions: N-40
 Related Nodes: N-10074, N-10022
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Establish when the FBI released the rifle photo and compare with the father's call timing to date this message.
 
 ---
@@ -1984,6 +2060,8 @@ Anchored Artifacts: A-1095.8, A-1095.7
 Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Compare the message time with the surrender timeline and the parents' accounts.
 
 ---
@@ -2000,6 +2078,8 @@ Anchored Artifacts: A-1095.8, A-1095.7
 Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Identify the deputy and reconcile the neighbor in the text with the retired deputy family friend named in the surrender account.
 
 ---
@@ -2016,6 +2096,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-7
 Investigative Direction: Obtain Lance's police interview and any attorney contact records.
 
 ---

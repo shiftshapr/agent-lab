@@ -1704,6 +1704,8 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10106
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the ballistics report and the state's court filings on the recovered bullet and fragments.
 
 ---
@@ -1736,6 +1738,8 @@ Anchored Artifacts: A-3224.1
 Mentions: N-268, N-1
 Related Nodes: N-10106
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Compare against the autopsy and ballistics findings on wound path and exit.
 
 ---

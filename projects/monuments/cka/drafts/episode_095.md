@@ -785,6 +785,8 @@ Transcript Snippet: Charlie oddly is on a chair that is upon a platform that sea
 Anchored Artifacts: A-2539.1
 Mentions: N-1
 Related Nodes: N-10829, N-10000
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain TPUSA event-production specifications and staging orders for 2024–2025 tabling events.
 
 ---
@@ -1039,6 +1041,8 @@ Transcript Snippet: My dad wants photos of the rifle. He says grandpa wants to k
 Anchored Artifacts: A-2541.3
 Mentions: N-40
 Related Nodes: N-10074, N-10022
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Compare the message's timestamp with the time of the FBI's rifle-photo release.
 
 ---

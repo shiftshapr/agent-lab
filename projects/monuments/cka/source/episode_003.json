@@ -3289,6 +3289,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify surrender timestamp via sheriff's office records and forensic timeline."
     },
@@ -3335,6 +3343,14 @@
     {
      "k": "Confidence",
      "v": "high"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -3389,6 +3405,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare indictment description to actual surveillance video frames; verify gait description against TMZ footage."
     },
@@ -3441,6 +3465,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Cross-check roof timestamp against shot-time audio forensics."
     },
@@ -3487,6 +3519,14 @@
     {
      "k": "Confidence",
      "v": "high"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -3537,6 +3577,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Request close-up images and chain of custody for the casings."
     },
@@ -3585,6 +3633,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify timing of news publication vs. mother's call via phone and interview records."
     },
@@ -3631,6 +3687,14 @@
     {
      "k": "Confidence",
      "v": "high"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -3685,6 +3749,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm retired deputy's identity and role in surrender via sheriff records."
     },
@@ -3731,6 +3803,14 @@
     {
      "k": "Confidence",
      "v": "high"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -3783,6 +3863,14 @@
     {
      "k": "Confidence",
      "v": "high"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -3889,6 +3977,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify roommate's stated identity and timeline."
     },
@@ -3939,6 +4035,14 @@
     {
      "k": "Confidence",
      "v": "high"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",
@@ -5563,6 +5667,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-11"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the full probable cause statement and the recovered device logs showing any instruction to delete messages."
     },
@@ -5622,6 +5734,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -5685,6 +5805,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-2"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the officer and obtain the incident report and body camera footage describing what he heard and when."
     },
@@ -5744,6 +5872,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -5866,6 +6002,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -6051,6 +6195,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-11"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Review the camera angle showing the descent and any witness accounts of someone dropping from the roof."
     },
@@ -6110,6 +6262,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -6173,6 +6333,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check phone records for the mother's call and the son's location data for September 10 and 11."
     },
@@ -6232,6 +6400,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -6295,6 +6471,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the father's interview and the sheriff's account of the conversation at the parents' home before the surrender."
     },
@@ -6354,6 +6538,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -6417,6 +6609,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Establish who gave this instruction (the parents or the family friend) from the interview records and whether any clothing was surrendered."
     },
@@ -6476,6 +6676,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -6783,6 +6991,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Request the photograph, its metadata and the device it was found on in discovery."
     },
@@ -6842,6 +7058,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
     },
     {
      "k": "Investigative Direction",
@@ -6905,6 +7129,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the unredacted message log with timestamps to verify the exchange and that no messages between these were omitted."
     },
@@ -6964,6 +7196,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
     },
     {
      "k": "Investigative Direction",
@@ -7027,6 +7267,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare this message with the motive Robinson reportedly gave his parents and obtain the message log."
     },
@@ -7086,6 +7334,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -7149,6 +7405,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Establish where the rifle was recovered and where patrol cars were positioned, and when the area was swept."
     },
@@ -7210,6 +7474,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Trace the rifle's make, serial number and ownership history against the father's statement that it was a gift."
     },
@@ -7269,6 +7541,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
     },
     {
      "k": "Investigative Direction",
@@ -7397,6 +7677,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare the quoted text with the casing inscriptions and obtain the message log."
     },
@@ -7456,6 +7744,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -7519,6 +7815,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Establish when the FBI released the rifle photo and compare with the father's call timing to date this message."
     },
@@ -7578,6 +7882,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -7641,6 +7953,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the deputy and reconcile the neighbor in the text with the retired deputy family friend named in the surrender account."
     },
@@ -7700,6 +8020,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-7"
     },
     {
      "k": "Investigative Direction",

@@ -1617,6 +1617,8 @@ Anchored Artifacts:
 Mentions: N-3, N-159
 Related Nodes: N-10086
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2, S-3, S-5
 Investigative Direction: Review the exhibit list and item logs for any screwdriver recovered from the roof.
 
 ---
@@ -1665,6 +1667,8 @@ Mentions: N-3
 Related Nodes: N-10690
 Revises: C-11509, C-11568, C-11570
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Check the docket to confirm the filing party and date.
 
 ---
@@ -1862,6 +1866,8 @@ Mentions: N-3
 Related Nodes: N-10086, N-10698
 Contradicts: C-11580
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2, S-3
 Investigative Direction: Compare exhibits and property logs with that claim.
 
 ---
@@ -1955,6 +1961,8 @@ Transcript Snippet: Tyler Robinson is up for the death penalty.
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7, S-11
 Investigative Direction: Check the charging documents and prosecutor's notice regarding capital charges.
 
 ---

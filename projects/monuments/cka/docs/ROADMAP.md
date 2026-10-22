@@ -64,12 +64,12 @@ The full execution plan from here to a verified, published and promoted archive.
 
 | # | Task | Done when |
 |---|---|---|
-| 4.1 | **Source streams** with provenance and a tier. Tier 1: Utah v. Robinson docket and preliminary-hearing transcripts, public warrants, FOIA responses, ADS-B and FAA flight data, and official statements. Tier 2: reputable reporting | each stream has an ingest script, a manifest and a tier |
+| 4.1 | 🚧 2026-10-22: 13 Tier 1 sources fetched (`sources/manifest.json`, S-1..S-13: the Information, the preliminary and contempt hearings, County Attorney releases, the charging press conference, the UVU After-Action Report, the 2025-09-10 ADS-B archive); Tier 2, warrants and FOIA to come. **Source streams** with provenance and a tier. Tier 1: Utah v. Robinson docket and preliminary-hearing transcripts, public warrants, FOIA responses, ADS-B and FAA flight data, and official statements. Tier 2: reputable reporting | each stream has an ingest script, a manifest and a tier |
 | 4.1b | **Commentator speakers.** The Charlie Kirk Show (Kolvet, Neff), Erika Kirk interviews, Baron Coleman and other creators on either side, ingested like the host, as claims | their claims can be linked by Supports, Contradicts and Qualifies; never used as evidence |
 | 4.2 | **External monitors**: alerts on the court docket and on news for the key names, feeding the daily pipeline | alerts land as items in the pipeline |
 | 4.3 | **Open-questions register.** Promote each Investigative Direction into a tracked question: what's known, what would settle it, status, and linked tips | every core claim has its questions registered |
 | 4.4 | 🚧 2026-10-21: schema, CI check, inscriptions and companion done; 53 claims are `revised-by-host`; record-based statuses come with 4.5. **Verification status on claims** (POLICY §11): `unverified`, `corroborated`, `disputed`, `contradicted-by-record`, `revised-by-host`, each with cited evidence | schema in the drafts, inscriptions and companion; CI validates it |
-| 4.5 | **Verification linking pass.** Link each source-stream document to the claims it bears on, and set the statuses | every core claim has a status other than `unverified`, or an open question explaining why |
+| 4.5 | 🚧 2026-10-22 first pass (`audits/verification_record_2026-10-22/`): 4,046 quoted facts from S-1..S-12, 3,634 claims judged, 320 `corroborated` and 32 `contradicted-by-record` set, ledger in `ledger/verification_record.md`; ADS-B, Tier 2 and a wider-recall pass to come. **Verification linking pass.** Link each source-stream document to the claims it bears on, and set the statuses | every core claim has a status other than `unverified`, or an open question explaining why |
 
 ## Phase 5 — Revisions and contradictions (the site's lead feature)
 **Owner:** Claude (Opus) · **Gate:** Daveed samples the ledger

@@ -830,6 +830,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10686, N-10106
 Supports: C-8344
+Verification: contradicted-by-record
+Verification Evidence: S-5, S-7
 Investigative Direction: Obtain the forensic report on the rifle's firing status and any K9 alert records.
 
 ---

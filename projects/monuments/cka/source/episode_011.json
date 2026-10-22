@@ -5421,6 +5421,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2, S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check Robinson's phone location history, parking and ID records and campus camera footage for any earlier UVU visit. See the charging documents' account of how he reached the Losee Center roof."
     },
@@ -7511,6 +7519,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-4, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Washington County Sheriff's Office intake records and building logs for the evening of September 11, 2025; the full Brooksby press-conference video."
     },
@@ -8758,6 +8774,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-4"
     },
     {
      "k": "Investigative Direction",

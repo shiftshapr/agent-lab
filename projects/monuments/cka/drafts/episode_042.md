@@ -866,6 +866,8 @@ Mentions: N-40
 
 Related Nodes: N-10293
 
+Verification: corroborated
+Verification Evidence: S-3, S-7
 Investigative Direction: Cross-reference court filings and law enforcement exhibits confirming Robinson's attire on September 10.
 
 ---

@@ -2706,8 +2706,12 @@
         "N-3",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-3",
+        "S-4",
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -2765,8 +2769,11 @@
         "N-3",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-5",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",

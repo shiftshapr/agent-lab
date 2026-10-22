@@ -2427,6 +2427,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain full ATF case file and protocols referenced as outstanding in the filing; verify whether the conclusion is \"inconclusive\" or a definitive non-match."
     },
@@ -3481,6 +3489,14 @@
     {
      "k": "Tags",
      "v": "relevance:context"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
     },
     {
      "k": "Investigative Direction",
@@ -5504,6 +5520,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-6"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the FBI and ATF DNA reports and the underlying electronic data."
     },
@@ -5876,6 +5900,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-8"
     },
     {
      "k": "Investigative Direction",

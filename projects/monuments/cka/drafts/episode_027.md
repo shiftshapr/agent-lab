@@ -1110,6 +1110,8 @@ Mentions: N-227, N-1
 
 Related Nodes: N-10211
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email.
 
 ---

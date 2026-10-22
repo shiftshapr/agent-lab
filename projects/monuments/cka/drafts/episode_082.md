@@ -1633,6 +1633,8 @@ Related Nodes: N-10932
 Contradicts: C-3999
 Supports: C-3227
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-4
 Investigative Direction: Obtain the sheriff's, family friend and parents' accounts of the surrender.
 
 ---

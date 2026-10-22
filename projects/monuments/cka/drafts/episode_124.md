@@ -1138,6 +1138,8 @@ Mentions: N-40, N-54
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Cross-reference Lance's testimony with other witness identifications and the exhibits discussed.
 
 ---
@@ -1153,6 +1155,8 @@ Mentions: N-40, N-1, N-54
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Compare Lance's testimony against text messages introduced as A-2123.1.
 
 ---
@@ -1167,6 +1171,8 @@ Anchored Artifacts: A-2119.1
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Obtain Ring camera footage and police interview transcripts for cross-verification.
 
 ---
@@ -1213,6 +1219,8 @@ Anchored Artifacts: A-2121.2
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-2, S-3
 Investigative Direction: Obtain certified copies of both exhibits for direct comparison.
 
 ---
@@ -1242,6 +1250,8 @@ Mentions: N-40, N-773
 
 Related Nodes: N-10647
 
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Compare Caitlin Oliver's testimony against ATF report language and media headlines for accuracy of characterization.
 
 ---
@@ -1257,6 +1267,8 @@ Mentions: N-773
 
 Related Nodes: N-10647
 
+Verification: corroborated
+Verification Evidence: S-6, S-7
 Investigative Direction: Obtain the full DNA report to verify contributor counts and threshold interpretations.
 
 ---
@@ -1272,6 +1284,8 @@ Mentions: N-40, N-773
 
 Related Nodes: N-10647
 
+Verification: corroborated
+Verification Evidence: S-6, S-7
 Investigative Direction: Cross-reference degradation findings with handling/timeline assumptions in the prosecution's theory.
 
 ---
@@ -1287,6 +1301,8 @@ Mentions: N-774
 
 Related Nodes: N-10646
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Cross-reference measured diameter with .30-06 SAAMI specifications and the recovered rifle.
 
 ---
@@ -1332,6 +1348,8 @@ Mentions: N-40, N-54
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-1, S-5, S-7
 Investigative Direction: Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-10649).
 
 ---
@@ -1605,6 +1623,8 @@ Anchored Artifacts:
 Mentions: N-3, N-54
 Related Nodes: N-10617, N-10545
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-4, S-8
 Investigative Direction: Obtain the immunity or cooperation agreement and the hearing transcript rulings on hearsay and cross-examination of Lance Twiggs.
 
 ---
@@ -1637,6 +1657,8 @@ Anchored Artifacts:
 Mentions: N-3, N-40
 Related Nodes: N-10012, N-10028
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-3, S-7
 Investigative Direction: Establish Robinson's movements through campus access logs, parking records and phone location data.
 
 ---
@@ -1929,6 +1951,8 @@ Anchored Artifacts: A-2124.3
 Mentions: N-773, N-40
 Related Nodes: N-10896, N-10647
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-6
 Investigative Direction: Obtain the evidence photographs, collection notes and the identity of who performed the swabs.
 
 ---
@@ -1945,6 +1969,8 @@ Anchored Artifacts: A-2124.3
 Mentions: N-3, N-773, N-40
 Related Nodes: N-10647
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-6
 Investigative Direction: Collect the original media and official statements about DNA on the trigger and compare with the laboratory report wording.
 
 ---
@@ -2014,6 +2040,8 @@ Mentions: N-40
 Related Nodes: N-10012, N-10028
 Supports: C-10649
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Review Exhibit 12.4 and the witness's notes to see the basis for identifying each movement as Robinson.
 
 ---

@@ -808,6 +808,8 @@ Mentions: N-1
 
 Related Nodes: N-10697
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain dispatch logs, ambulance records, and witness statements to verify equipment availability and stabilization protocol.
 
 **C-11657** Nurse autopsy timeline analysis
@@ -834,6 +836,8 @@ Mentions: N-1
 
 Related Nodes: N-10697
 
+Verification: contradicted-by-record
+Verification Evidence: S-7
 Investigative Direction: Verify medical examiner's official report for documented entry/exit points and trajectory analysis; cross-reference with crime scene ballistics.
 
 **C-11664** Surgeon cervical spine finding
@@ -1035,6 +1039,8 @@ Anchored Artifacts:
 Mentions: N-894, N-1
 Related Nodes: N-10175
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Check the signature block of the Kirk autopsy report (once released) for the signing pathologist.
 
 ---
@@ -1131,6 +1137,8 @@ Anchored Artifacts: A-3145.1
 Mentions: N-40
 Related Nodes: N-10013, N-10021, N-11360
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Compare the read messages with the Discord records entered in the preliminary hearing and with Discord's own statements on the server.
 
 ---
@@ -1339,6 +1347,8 @@ Anchored Artifacts:
 Mentions: N-54
 Related Nodes: N-10714, N-10617
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Check the preliminary hearing transcript for the exact exchange on the name Luna.
 
 ---
@@ -1760,6 +1770,8 @@ Mentions:
 Related Nodes: N-10896, N-10523, N-11053
 Tags: relevance:core
 Revises: C-10646
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Check the preliminary hearing transcript for the ATF analyst's testimony on fragment count and usability.
 
 ---
@@ -1905,6 +1917,8 @@ Anchored Artifacts: A-2222.1
 Mentions: 
 Related Nodes: N-10684, N-10698
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Cite the analysis the host refers to and compare with the full witness recording.
 
 ---
@@ -1937,6 +1951,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10567
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Obtain the firearm identification and make and model from the charging documents and ATF trace.
 
 ---

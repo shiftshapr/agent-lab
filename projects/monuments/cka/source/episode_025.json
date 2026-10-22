@@ -4280,6 +4280,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Request UVU and TPUSA correspondence dated mid-July 2025 and the tour scheduling documents showing when UVU became stop one."
     },
@@ -4587,6 +4595,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",

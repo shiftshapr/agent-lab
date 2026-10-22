@@ -2938,8 +2938,11 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-2",
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -3783,8 +3786,11 @@
         "N-272",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-4",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -4298,8 +4304,11 @@
         "N-125",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-1",
+        "S-4"
+      ]
     },
     {
       "@type": "Claim",

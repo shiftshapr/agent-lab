@@ -1274,6 +1274,8 @@ Mentions: N-159
 Related Nodes: N-10986
 Supports: C-12152
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-3, S-4
 Investigative Direction: Retrieve the full Community Note text and compare it with Utah Rule 1102 and the defense filing.
 
 ---

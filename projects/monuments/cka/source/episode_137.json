@@ -2728,6 +2728,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given."
     },
@@ -5040,6 +5048,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the full trial transcript of Bagley's cross-examination and the police department video he reviewed."
     },
@@ -5103,6 +5119,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
     },
     {
      "k": "Investigative Direction",

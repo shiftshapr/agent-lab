@@ -982,6 +982,8 @@ Mentions: N-40
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Verify the magistrate's full name through Utah court records; obtain the written ruling once filed.
 
 ---
@@ -1941,6 +1943,8 @@ Anchored Artifacts:
 Mentions: N-3, N-40
 Related Nodes: N-11065
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Check the Utah Fourth District court docket for the hearing dates.
 
 ---
@@ -1958,6 +1962,8 @@ Mentions: N-3, N-40
 Related Nodes: N-11065
 Supports: C-12152
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Read Utah Rule of Evidence 1102 and Utah Const. art. I, sec. 12 on preliminary-hearing hearsay.
 
 ---
@@ -2023,6 +2029,8 @@ Mentions: N-40
 Related Nodes: N-11065
 Supports: C-12173
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7, S-10
 Investigative Direction: Check the charging information for the seven counts and the state's notice of intent regarding the death penalty.
 
 ---
@@ -2071,6 +2079,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11065, N-11066
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Read the prosecution's response to the motion to dismiss for the single-shot argument and the ballistic basis.
 
 ---
@@ -2087,6 +2097,8 @@ Anchored Artifacts:
 Mentions: N-40, N-1
 Related Nodes: N-10074, N-11065
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Compare the cited text messages in the probable cause statement with forensic extraction records.
 
 ---
@@ -2167,6 +2179,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11065
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7, S-11
 Investigative Direction: Confirm the count list in the amended information.
 
 ---
@@ -2183,6 +2197,8 @@ Anchored Artifacts:
 Mentions: N-40, N-1
 Related Nodes: N-11065
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-11
 Investigative Direction: Check the information and probable cause statement for the facts supporting the firearm-concealment count.
 
 ---
@@ -2199,6 +2215,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11065, N-10019
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7, S-11
 Investigative Direction: Compare the charged clothing with the video-documented outfit changes (see the outfit discrepancy topic).
 
 ---
@@ -2215,6 +2233,8 @@ Anchored Artifacts:
 Mentions: N-40, N-54
 Related Nodes: N-11065, N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7, S-11
 Investigative Direction: Check the charging document and text extraction for the 'delete this exchange' message.
 
 ---
@@ -2231,6 +2251,8 @@ Anchored Artifacts:
 Mentions: N-40, N-54
 Related Nodes: N-11065, N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5, S-11
 Investigative Direction: Check the charging document and text extraction for the message at issue.
 
 ---
@@ -2263,6 +2285,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11065
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7, S-11
 Investigative Direction: Read the defense brief on count seven and check whether any minors appear in crowd footage.
 
 ---

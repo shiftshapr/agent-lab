@@ -3475,8 +3475,11 @@
         "N-40",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-2",
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",

@@ -834,6 +834,8 @@ Anchored Artifacts:
 Mentions: N-955, N-1
 Related Nodes: N-10012, N-11338
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: UVU after-action report and Peterson's September 10 schedule.
 
 ---
@@ -850,6 +852,8 @@ Anchored Artifacts: A-3383.1
 Mentions: N-955
 Related Nodes: N-10762, N-11338
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: The UVU after-action report and Peterson's phone records for September 10.
 
 ---

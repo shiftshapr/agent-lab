@@ -1162,6 +1162,8 @@ Mentions: N-181, N-1, N-3
 Related Nodes: N-10211, N-10614, N-10012
 Supports: C-2282
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-12
 Investigative Direction: Request UVU and TPUSA correspondence dated mid-July 2025 and the tour scheduling documents showing when UVU became stop one.
 
 ---
@@ -1243,6 +1245,8 @@ Anchored Artifacts: A-1326.1
 Mentions: N-3
 Related Nodes: N-10211
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Pursue the Fox 13 appeal and any court-ordered release of the security plan to test whether one existed.
 
 ---

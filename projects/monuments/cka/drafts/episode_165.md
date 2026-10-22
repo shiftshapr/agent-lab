@@ -724,6 +724,8 @@ Anchored Artifacts:
 Mentions: N-955
 Related Nodes: N-10762, N-11338
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: The UVU independent review text on Peterson's location.
 
 ---
@@ -1029,6 +1031,8 @@ Mentions: N-8
 Related Nodes: N-10762
 Supports: C-3451
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: The UVU independent review's account of the venue call.
 
 ---

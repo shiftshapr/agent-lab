@@ -905,6 +905,8 @@ Anchored Artifacts: A-1104.2, A-1104.3, A-1104.4, A-1104.5, A-1104.6, A-1105.1, 
 Mentions: N-40
 Related Nodes: N-10038
 Confidence: medium
+Verification: corroborated
+Verification Evidence: S-2, S-5
 Investigative Direction: Demand release of campus surveillance footage, drone footage, and Dodge Challenger parking-lot video for the 5:30 PM–midnight window.
 
 ---
@@ -918,6 +920,8 @@ Anchored Artifacts: A-1104.4
 Mentions: N-40
 Related Nodes: N-10019
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-1, S-5, S-7
 Investigative Direction: Cross-reference text account with forensic recovery location of the rifle and any clothing/bush evidence.
 
 Tags: open_source_investigation
@@ -1048,6 +1052,8 @@ Anchored Artifacts: A-2710.1
 Mentions: N-54, N-40, N-1
 Related Nodes: N-10039
 Supports: C-194
+Verification: corroborated
+Verification Evidence: S-1, S-7
 Investigative Direction: Obtain the photograph of the note and Lance's full reply thread from the indictment exhibits or discovery.
 
 ---
@@ -1063,6 +1069,8 @@ Transcript Snippet: It shouldn't be long until I can come home, but I got to gra
 Anchored Artifacts: A-2710.2
 Mentions: N-40, N-54
 Related Nodes: N-10038, N-10059
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the full thread with device timestamps to place this message against the lockdown and manhunt.
 
 ---
@@ -1078,6 +1086,8 @@ Transcript Snippet: And Robin says, Robinson says, "I am. I'm sorry." And the ro
 Anchored Artifacts: A-2710.3, A-1104.2
 Mentions: N-54, N-40
 Related Nodes: N-10038
+Verification: corroborated
+Verification Evidence: S-5, S-7
 Investigative Direction: Obtain the complete unredacted exchange with timestamps from the indictment exhibits.
 
 ---
@@ -1155,6 +1165,8 @@ Transcript Snippet: Okay. He then says, "Yeah, I've been planning this for a bit
 Anchored Artifacts: A-2710.4
 Mentions: N-40
 Related Nodes: N-10038
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Compare the planning timeline in the texts with the 'weeks' of planning officials described and with any recorded scouting visits.
 
 ---
@@ -1170,6 +1182,8 @@ Transcript Snippet: I don't even know if that's if it had a serial number. Weird
 Anchored Artifacts: A-2710.5
 Mentions: N-40
 Related Nodes: N-10038
+Verification: corroborated
+Verification Evidence: S-5, S-7
 Investigative Direction: Trace the recovered rifle's serial number and ownership through ATF and family records.
 
 ---
@@ -1277,6 +1291,8 @@ Transcript Snippet: This morning, I can tell you that we have recovered what we 
 Anchored Artifacts: A-1105.1
 Related Nodes: N-10014
 Supports: C-175
+Verification: corroborated
+Verification Evidence: S-3, S-5
 Investigative Direction: Obtain the September 11 FBI press conference video and the evidence log for the rifle's recovery location.
 
 ---
@@ -1352,6 +1368,8 @@ Transcript Snippet: The feds released a photo of the rifle and it is very unique
 Anchored Artifacts: A-1104.7
 Mentions: N-40, N-54
 Related Nodes: N-10022
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Obtain the exact text with its timestamp and match it to the FBI rifle photo release time.
 
 ---
@@ -1368,6 +1386,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10022
 Supports: C-187
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Compare the indictment's account of the father's calls with phone records and the sheriff's office incident log.
 
 ---
@@ -1398,6 +1418,8 @@ Transcript Snippet: He writes, "Since Trump got into office, my dad has been pre
 Anchored Artifacts: A-1104.8
 Mentions: N-40, N-5
 Related Nodes: N-10022
+Verification: corroborated
+Verification Evidence: S-1, S-11
 Investigative Direction: Obtain the original text and its timestamp; check the father's voter and donation records against the claim.
 
 ---
@@ -1414,6 +1436,8 @@ Anchored Artifacts: A-1104.9
 Mentions: N-40, N-54
 Related Nodes: N-10022
 Supports: C-187
+Verification: corroborated
+Verification Evidence: S-5, S-7
 Investigative Direction: Obtain the sheriff's office record of the deputy neighbor's presence and the surrender time.
 
 ---

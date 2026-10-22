@@ -2272,8 +2272,12 @@
         "N-40",
         "N-41"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3",
+        "S-5",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -2297,8 +2301,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2393,8 +2399,11 @@
       "investigative_direction": "Obtain FBI evidence photos and chain of custody for recovered rifle.",
       "transcript_snippet": "The weapon, they say, was found in the woods and it was wrapped by a dark towel.",
       "confidence": "high",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -2416,8 +2425,11 @@
       "investigative_direction": "Confirm with FBI evidence inventory and forensics report.",
       "transcript_snippet": "A screwdriver was found on the roof… he undid perhaps undid this gun while he was on the rooftop.",
       "confidence": "high",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-2",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -3731,8 +3743,11 @@
         "N-3",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3",
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -3831,8 +3846,10 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -3904,8 +3921,10 @@
         "N-3",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -4058,8 +4077,11 @@
         "N-41",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-1",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -4083,8 +4105,12 @@
         "N-41",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-1",
+        "S-5",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -4109,8 +4135,11 @@
         "N-41",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",

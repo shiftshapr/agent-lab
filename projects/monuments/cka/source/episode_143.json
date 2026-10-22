@@ -4705,6 +4705,14 @@
      "v": "relevance:context"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-4"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Retrieve the full Community Note text and compare it with Utah Rule 1102 and the defense filing."
     },

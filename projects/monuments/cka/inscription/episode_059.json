@@ -3098,8 +3098,10 @@
         "N-266",
         "N-224"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",

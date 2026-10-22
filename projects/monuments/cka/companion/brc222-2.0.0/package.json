@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-21T23:45:16Z",
+  "generated_at": "2026-10-22T18:11:12Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -1687,7 +1687,7 @@
       "label": "No ambulance was on standby at the UVU event, unlike the host's own TPUSA tour events",
       "node_kind": "claim",
       "episode": 117,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3271,7 +3271,7 @@
       "label": "Host says she is being sued over the Harpole car-crash interview",
       "node_kind": "claim",
       "episode": 120,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3511,7 +3511,7 @@
       "label": "No ambulance was on standby",
       "node_kind": "claim",
       "episode": 120,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3551,7 +3551,7 @@
       "label": "Host Says Judge Graf Denied Motion to Compel Lance Twiggs In-Person Testimony",
       "node_kind": "claim",
       "episode": 120,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3567,7 +3567,7 @@
       "label": "Host Says Lance Twiggs Testimony Will Be Admitted as Recorded Statement",
       "node_kind": "claim",
       "episode": 120,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -5343,7 +5343,7 @@
       "label": "Frank Turek stated on a podcast that no exit wound was visible on the back of Charlie Kirk's neck",
       "node_kind": "claim",
       "episode": 122,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6703,7 +6703,7 @@
       "label": "Host Says Lance Twiggs Got Immunity and Was Not Cross-Examined Despite Hearsay Objections",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6719,7 +6719,7 @@
       "label": "Host Says Her Biggest Claim Was That Robinson Did Not Step Onto Campus",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6751,7 +6751,7 @@
       "label": "Lance Twiggs identified Tyler Robinson only by generic clothing items",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6775,7 +6775,7 @@
       "label": "Miss Noble reported seeing a bald man with three others driving the gray Challenger",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6823,7 +6823,7 @@
       "label": "Host Displays Tyler-Lance Text Messages Including Specific Phrases",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6887,7 +6887,7 @@
       "label": "Host Says Lance Twiggs Confirmed Tyler Robinson Was Not Political",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6903,7 +6903,7 @@
       "label": "Caitlin Oliver testified media \"DNA on the gun\" framing was scientifically indefensible",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6911,7 +6911,7 @@
       "label": "DNA samples from trigger/trigger guard were mixed samples with at least 4–7 contributors",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6943,7 +6943,7 @@
       "label": "Host Says Tyler Robinson's DNA on the Gun Was the Most Degraded of All Contributors",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6951,7 +6951,7 @@
       "label": "Oliver Testified the Trigger and Trigger Guard Were Swabbed Together",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6959,7 +6959,7 @@
       "label": "Host Says Media Claimed DNA on the Trigger but Oliver Admitted It Could Be the Trigger Guard",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6983,7 +6983,7 @@
       "label": "6A bullet jacket fragment diameter measured 286–301 thousandths of an inch",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -7015,7 +7015,7 @@
       "label": "Hearing Testimony Described Exhibit 12.4 as Movements by Vehicle and on Foot",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -7023,7 +7023,7 @@
       "label": "Witness in Hearing Clip Says Exhibit 12.1 Differs from 12.4 Only by Red Circles, Face Blurring, and Zoom",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8183,7 +8183,7 @@
       "label": "Clip Shows Sergeant Faumuina Not Remembering Telling the FBI Lab to Stop Testing",
       "node_kind": "claim",
       "episode": 126,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8191,7 +8191,7 @@
       "label": "Unattended Items Seized Near Library Bus Stop",
       "node_kind": "claim",
       "episode": 126,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8199,7 +8199,7 @@
       "label": "Faumuina Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab",
       "node_kind": "claim",
       "episode": 126,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8207,7 +8207,7 @@
       "label": "Faumuina Agrees DNA and Other Analysis Was Requested on the Items",
       "node_kind": "claim",
       "episode": 126,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8215,7 +8215,7 @@
       "label": "Faumuina Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes",
       "node_kind": "claim",
       "episode": 126,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8471,7 +8471,7 @@
       "label": "Host Cites Testimony of an Unfired .223 Round Found on the Science Building",
       "node_kind": "claim",
       "episode": 126,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8815,7 +8815,7 @@
       "label": "Viewer Comment Says Robinson's Texts Mention Questioning Someone in Similar Clothing After the Old Man's Arrest",
       "node_kind": "claim",
       "episode": 126,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8927,7 +8927,7 @@
       "label": "Host Says Bagley Reached the Roof at 12:44 and Found the Screwdriver",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8935,7 +8935,7 @@
       "label": "Officer Bagley Testified Body-Cam Footage Ended While on Rooftop",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8943,7 +8943,7 @@
       "label": "Bagley Testified He Did Not Re-Dock or Restart His Body Cam",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8975,7 +8975,7 @@
       "label": "Officer Bagley testified he did not know the identity of his rooftop companion",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8983,7 +8983,7 @@
       "label": "Bagley Testified He Brought a Backup Person Up the Stairs",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8991,7 +8991,7 @@
       "label": "Officer Bagley testified he did not review video footage between 12:23 and 12:44 for other rooftop presence",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8999,7 +8999,7 @@
       "label": "Bagley Testified Others Were Searching the Roof and He Learned of the Jump at the PD",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9031,7 +9031,7 @@
       "label": "Host Corrects Faumuina's Agency to the Utah Bureau of Investigations",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9039,7 +9039,7 @@
       "label": "Sergeant Faumuina testified backpack, jacket, and gloves were found at Fulton Library bus stop on shooter's route",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9055,7 +9055,7 @@
       "label": "Faumuina Testified She Wrote Nine or More Reports Including a September 22 Overview",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9063,7 +9063,7 @@
       "label": "Faumuina Testified Officers Found the Fulton Library Items Suspicious",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9071,7 +9071,7 @@
       "label": "Sergeant Faumuina testified items were sent to FBI lab for DNA processing",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9079,7 +9079,7 @@
       "label": "Sergeant Faumuina testified that testing was halted without her direct communication of the decision",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9087,7 +9087,7 @@
       "label": "Faumuina Testified No Further Information Existed When the Items Were Sent",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9095,7 +9095,7 @@
       "label": "Faumuina Agreed It Was Fair to Say the Items Were Determined Unrelated",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9111,7 +9111,7 @@
       "label": "FBI agent Amanda Bakker testified backpack was determined to be potentially left by a bystander",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9119,7 +9119,7 @@
       "label": "Bakker Testified the Items Were Initially Processed for DNA",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9127,7 +9127,7 @@
       "label": "Amanda Bakker testified lab notes attributed backpack to Kirk's detail via another lab employee's communication",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9143,7 +9143,7 @@
       "label": "Host stance: FBI \"bystander/Kirk's detail\" determination is unsubstantiated",
       "node_kind": "claim",
       "episode": 127,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9711,7 +9711,7 @@
       "label": "O'Neill Says Nobody Gave Kirk First Aid and Staff Were Pulling SIM Cards From Cameras",
       "node_kind": "claim",
       "episode": 128,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -9943,7 +9943,7 @@
       "label": "Host Says Faumuina Answered I Don't Recall on Signing Off on the FBI Not Testing the Backpack and Gloves",
       "node_kind": "claim",
       "episode": 128,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -10327,7 +10327,7 @@
       "label": "Host Says Harpole Spoke for Three Hours on the Shawn Ryan Show",
       "node_kind": "claim",
       "episode": 128,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -11631,7 +11631,7 @@
       "label": "Host Says Kirk Was Scheduled for Two Utah Events 20 Days Apart, UVU and USU",
       "node_kind": "claim",
       "episode": 12,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -12167,7 +12167,7 @@
       "label": "Host Says It Seemed Atypical That No Ambulance Was on Standby",
       "node_kind": "claim",
       "episode": 12,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -13063,7 +13063,7 @@
       "label": "Rob O'Neill States Bullet Trajectory Was Left-to-Right, Not Front-to-Back",
       "node_kind": "claim",
       "episode": 131,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -14135,7 +14135,7 @@
       "label": "Host Says Only Two People Were Detained, Zinn and Karashy",
       "node_kind": "claim",
       "episode": 133,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -14199,7 +14199,7 @@
       "label": "Host Says Robinson's Limp Disappears Once He Reaches the Rooftop",
       "node_kind": "claim",
       "episode": 133,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -14239,7 +14239,7 @@
       "label": "Host Says the Rifle Is a German 98 Mauser Family Heirloom",
       "node_kind": "claim",
       "episode": 133,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -14559,7 +14559,7 @@
       "label": "Governor Cox Stated Robinson Arrived at 8:29 AM",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15135,7 +15135,7 @@
       "label": "Host Says There Is No Evidence of a Screwdriver",
       "node_kind": "claim",
       "episode": 134,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15159,7 +15159,7 @@
       "label": "Host Says Her Producer Corrected That the Prosecution Filed the Memorandum",
       "node_kind": "claim",
       "episode": 134,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15287,7 +15287,7 @@
       "label": "Host Says There Is No Evidence of a Screwdriver or a Gun on the Lozi Rooftop",
       "node_kind": "claim",
       "episode": 134,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15343,7 +15343,7 @@
       "label": "Host Says Tyler Robinson Faces the Death Penalty",
       "node_kind": "claim",
       "episode": 134,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15415,7 +15415,7 @@
       "label": "Host Says Dr. Andrew Guajardo Signed Off on Charlie's Autopsy",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15479,7 +15479,7 @@
       "label": "Host Reads Alleged Discord Confession Messages Attributed to Robinson",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15543,7 +15543,7 @@
       "label": "Host Says Autopsy of Charlie Kirk Was Conducted",
       "node_kind": "claim",
       "episode": 13,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15615,7 +15615,7 @@
       "label": "Host Says Lance Twiggs Testified That He Goes by Luna",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15919,7 +15919,7 @@
       "label": "Host Says the ATF Testified Receiving Five Fragments, Four Unusable",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15927,7 +15927,7 @@
       "label": "Anesthesiologist scene equipment assessment",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16015,7 +16015,7 @@
       "label": "Surgeon trajectory assessment",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16039,7 +16039,7 @@
       "label": "Host Says the Rooftop Figure's Military Crawling Has Been Proven",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16079,7 +16079,7 @@
       "label": "Host Says the Alleged Weapon Was a German 98 Mauser",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16271,7 +16271,7 @@
       "label": "Officer Bagley could not identify the plainclothes man who went with him to the Losi rooftop",
       "node_kind": "claim",
       "episode": 136,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16279,7 +16279,7 @@
       "label": "Officer Bagley Testifies Plainclothes Man on Rooftop Had a Badge and a Handgun",
       "node_kind": "claim",
       "episode": 136,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16287,7 +16287,7 @@
       "label": "Officer Bagley's body cam ran 27 min 35 sec and ended on the Losi rooftop",
       "node_kind": "claim",
       "episode": 136,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16295,7 +16295,7 @@
       "label": "Host Says Bagley Testified to Reaching the Roof at 12:44 and Finding Screwdriver in Gravel",
       "node_kind": "claim",
       "episode": 136,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16335,7 +16335,7 @@
       "label": "Host Says Doorbell Cam at 11:49 AM Showed Person in Different Outfit",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -17103,7 +17103,7 @@
       "label": "Officer Bagley testified he did not review rooftop video between the suspect jumping off and his arrival",
       "node_kind": "claim",
       "episode": 137,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -17111,7 +17111,7 @@
       "label": "Bagley Testified He First Saw the Suspect Jump Off the Building When He Reviewed Video at the Police Department",
       "node_kind": "claim",
       "episode": 137,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -17119,7 +17119,7 @@
       "label": "Bagley Said He Did Not Notice Anybody on the Roof; Defense Put It to Him That He Did Not Review the Video",
       "node_kind": "claim",
       "episode": 137,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -17543,7 +17543,7 @@
       "label": "Host Says Lance Testified He Never Discussed LGBTQ Issues With Tyler",
       "node_kind": "claim",
       "episode": 138,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -17551,7 +17551,7 @@
       "label": "Host Says Lance Testified Tyler Never Mentioned Charlie Kirk to Him",
       "node_kind": "claim",
       "episode": 138,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -18111,7 +18111,7 @@
       "label": "Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -18599,7 +18599,7 @@
       "label": "Host Maintains Tyler Robinson Never Stepped Onto the UVU Campus and Says Her Claim Is Not Debunked",
       "node_kind": "claim",
       "episode": 139,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19231,7 +19231,7 @@
       "label": "Host Reads Alleged Robinson Message to Lance About Keeping the Secret Until Old Age",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19359,7 +19359,7 @@
       "label": "Host Says Police Say Robinson Went to Chick-fil-A With No Footage Released",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19375,7 +19375,7 @@
       "label": "Host Recounts Robinson Changing to a Long-Sleeve Black Shirt and Blue Jeans",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19391,7 +19391,7 @@
       "label": "Host Recounts Rifle Carried Into Pants and Limp Back Onto Campus",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19415,7 +19415,7 @@
       "label": "Host Recounts Return Drive to Orem to Retrieve the Rifle",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19431,7 +19431,7 @@
       "label": "Tyler Robinson's vehicle reportedly stopped and made contact with Officer Goforth during security detail",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19439,7 +19439,7 @@
       "label": "Hoole Audio Says the Vehicle Was Pulling Away East on 800 South",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19495,7 +19495,7 @@
       "label": "Host Says Robinson Was Still in the Same Shirt When Arrested",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19519,7 +19519,7 @@
       "label": "Host Says Zinn Said I Did It Before Coming Down",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -20367,7 +20367,7 @@
       "label": "Host says Utah's 1102 rule allows hearsay at the preliminary hearing stage",
       "node_kind": "claim",
       "episode": 141,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -20399,7 +20399,7 @@
       "label": "Host cites in the clip Robinson's Chick-fil-A stop as undercutting the LGBTQ-motive story",
       "node_kind": "claim",
       "episode": 141,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -20551,7 +20551,7 @@
       "label": "Played clip: host says aggravated murder is narrowly defined and carries a death sentence",
       "node_kind": "claim",
       "episode": 141,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -20559,7 +20559,7 @@
       "label": "Played clip: host lists the seven charges against Tyler Robinson",
       "node_kind": "claim",
       "episode": 141,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -20935,7 +20935,7 @@
       "label": "Per 1102 Statement Host Shows, Terryl Farnsworth Used Google Drive to Send Four Videos to SBI on September 10",
       "node_kind": "claim",
       "episode": 142,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -21023,7 +21023,7 @@
       "label": "TPUSA Initially Provided a Flash Drive and Google Links, Not Original SD Cards",
       "node_kind": "claim",
       "episode": 142,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -21719,7 +21719,7 @@
       "label": "Host Reads the Community Note: Preliminary Hearings Decide Only Probable Cause",
       "node_kind": "claim",
       "episode": 143,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -22407,7 +22407,7 @@
       "label": "Host Says Hull Testified Bricker Gathered All UVU Surveillance",
       "node_kind": "claim",
       "episode": 144,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -22423,7 +22423,7 @@
       "label": "Host Says Hearing Testimony Named the Utah County Attorney's Office as Maker of the Sizzle Reel",
       "node_kind": "claim",
       "episode": 144,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -22559,7 +22559,7 @@
       "label": "Host Says Rifle Was Found in Woods Wrapped in Dark Towel",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -23447,7 +23447,7 @@
       "label": "Screwdriver Found on Roof",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24335,7 +24335,7 @@
       "label": "FBI Photos Show the Suspect in a Stairwell in a Second Outfit",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24351,7 +24351,7 @@
       "label": "Host Says Judge Graf Was to Rule on Tyler Robinson Preliminary Hearing Decision on the Broadcast Date",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24359,7 +24359,7 @@
       "label": "Host Says the Preliminary Hearing Ran Across Five Days in Early July",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24367,7 +24367,7 @@
       "label": "Host Says Utah Rule 1102 Permits Reliable Hearsay at the Preliminary Hearing",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24399,7 +24399,7 @@
       "label": "Host Says Seven Charges Are Sought and Aggravated Murder Carries a Death Sentence",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24423,7 +24423,7 @@
       "label": "Host Says Prosecutors Argue Robinson Fired Only One Bullet Despite Having More Rounds",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24439,7 +24439,7 @@
       "label": "Host Says Alleged Texts Show a Single Target, Charlie Kirk",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24479,7 +24479,7 @@
       "label": "Host Says Count Two Is Felony Discharge of a Firearm",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24487,7 +24487,7 @@
       "label": "Host Says Count Three Is Obstruction for Allegedly Hiding the Firearm",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24495,7 +24495,7 @@
       "label": "Host Says Count Four Is Obstruction for Allegedly Hiding the Clothing Worn During the Shooting",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24503,7 +24503,7 @@
       "label": "Host Says Count Five Is Witness Tampering for Allegedly Telling Lance to Delete an Exchange",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24511,7 +24511,7 @@
       "label": "Host Says Count Six Is Witness Tampering for Allegedly Telling Lance Not to Speak to Police",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24535,7 +24535,7 @@
       "label": "Host Says Count Seven Is a Violent Offense in the Presence of a Child and the Defense Cites the Campus Setting",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24719,7 +24719,7 @@
       "label": "Host Says Judge Graf Issued Bindover Ruling After Preliminary Hearing",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24743,7 +24743,7 @@
       "label": "Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24751,7 +24751,7 @@
       "label": "Host Says Count 5 Is Witness Tampering for the \"Delete This Exchange\" Message",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24759,7 +24759,7 @@
       "label": "Host Says Judge Tied Count 6 Survival to the Existence of Count 5",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24767,7 +24767,7 @@
       "label": "In Ruling Clip Host Plays, Judge Says \"Ask for a Lawyer and Stay Silent\" Advice Is Lawful Standing Alone",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24775,7 +24775,7 @@
       "label": "In Arraignment Clip Host Plays, Tyler Robinson Pleads Not Guilty to All Counts",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24791,7 +24791,7 @@
       "label": "In Arraignment Clip Host Plays, Defense Waives Reading of the Information",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24895,7 +24895,7 @@
       "label": "Host Says UVU Security Vehicles Arrived Between 9:00 and 9:30 a.m. on 9/10",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25127,7 +25127,7 @@
       "label": "Neff Testifies the Security Team Went Into Action and Got Charlie Out",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25287,7 +25287,7 @@
       "label": "Novak Says the Evidence From Twiggs Is That He Identified as Non-Gender-Conforming and Was in a Relationship With Robinson",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25335,7 +25335,7 @@
       "label": "Host Says State Is Pursuing Sentence Enhancement Based on Political Motivation",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -26999,7 +26999,7 @@
       "label": "Host Says Robinson Was Reported Wearing the Maroon Outfit When Apprehended 33 Hours Later",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -28135,7 +28135,7 @@
       "label": "Host says Officer Bagley testified the black-shirt figure is the maroon-shirt figure because of sneakers",
       "node_kind": "claim",
       "episode": 151,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -28743,7 +28743,7 @@
       "label": "Host Says Officer Bagley Was the State's Preliminary Hearing Officer Who Found the Screwdriver, the Only Link to Tyler Robinson",
       "node_kind": "claim",
       "episode": 152,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -28759,7 +28759,7 @@
       "label": "Host Says the Screwdriver Does Not Show It Contains Tyler Robinson's DNA",
       "node_kind": "claim",
       "episode": 152,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -28775,7 +28775,7 @@
       "label": "Host Says Officer Bagley's Body Cam Footage Notoriously Went Off After About 25 Minutes",
       "node_kind": "claim",
       "episode": 152,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29551,7 +29551,7 @@
       "label": "Article the Host Reads Says UVU Launched Independent External Review September 22, 2025",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29719,7 +29719,7 @@
       "label": "Host Says Event Was Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29775,7 +29775,7 @@
       "label": "Host Says Charlie's Security Arrived at 9:00 AM Morning of Event",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29791,7 +29791,7 @@
       "label": "Notice of Claim Alleges Six Officers Assigned to Outdoor Event",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29839,7 +29839,7 @@
       "label": "Host Says UVU Has 24 Police Officers",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29919,7 +29919,7 @@
       "label": "Host Says TPUSA Controlled the Tickets",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29935,7 +29935,7 @@
       "label": "Text Message Identified Sorenson Staircase Roof Access",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29951,7 +29951,7 @@
       "label": "Host Says the Thread Asked for Either Controlled Access or One of TPUSA's Guys on the Roof",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29991,7 +29991,7 @@
       "label": "Chief Long Responded \"I got you covered\"",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -30511,7 +30511,7 @@
       "label": "Host Says the UVU Event Form Was Filled Out on July 18",
       "node_kind": "claim",
       "episode": 154,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -30543,7 +30543,7 @@
       "label": "Chief Jeff Long Said Six Officers Worked UVU and Kirk Had His Own Security",
       "node_kind": "claim",
       "episode": 154,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -30591,7 +30591,7 @@
       "label": "Redacted UVU Sender Suggested Fulton Library Quad on August 21",
       "node_kind": "claim",
       "episode": 154,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -30599,7 +30599,7 @@
       "label": "TPUSA Official Says Two UVU Medical Personnel Were On Site but No Ambulance",
       "node_kind": "claim",
       "episode": 154,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -31295,7 +31295,7 @@
       "label": "Miss Noble Testimony Described Dodge Challenger with Bald Driver and Two Backseat Occupants",
       "node_kind": "claim",
       "episode": 155,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -31479,7 +31479,7 @@
       "label": "Host Reads Warrant Description of Robinson's Clothing in the Garage Video",
       "node_kind": "claim",
       "episode": 155,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -31487,7 +31487,7 @@
       "label": "Host Says Hull's Hearing Account Has Robinson Eating at Chick-fil-A Before the Wooded Area",
       "node_kind": "claim",
       "episode": 155,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32463,7 +32463,7 @@
       "label": "Officer Goforth's Testimony Referenced a Partial License-Plate Match Process",
       "node_kind": "claim",
       "episode": 156,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32471,7 +32471,7 @@
       "label": "Host Says Officials Keep Describing Confirming Only the First Part of the Plate",
       "node_kind": "claim",
       "episode": 156,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32527,7 +32527,7 @@
       "label": "UVU engaged the Lake Forest Group almost immediately for a broad security review",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32543,7 +32543,7 @@
       "label": "TPUSA-linked individuals did not respond to UVU independent-review outreach",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32551,7 +32551,7 @@
       "label": "Review describes Dan Flood as the TPUSA security coordinator with Harpole and a contact of Chief Long",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32559,7 +32559,7 @@
       "label": "Review says Maycee Crofts joined the August 25 MEAC planning meeting online",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32567,7 +32567,7 @@
       "label": "Utah risk-management official urged TPUSA to have its people cooperate with the review",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32575,7 +32575,7 @@
       "label": "Review opinion: no UVU employee or agent acted in bad faith",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32583,7 +32583,7 @@
       "label": "Review says key event security decisions were deferred to TPUSA's field representative",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32591,7 +32591,7 @@
       "label": "Review says TPUSA's venue and ticketing choices limited UVU's control and attendance information",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32599,7 +32599,7 @@
       "label": "Review says UVU should have retained decision authority over venue, ticketing and access",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32631,7 +32631,7 @@
       "label": "July 10, 2025 courtyard request was initiated by TPUSA field rep Maycee Crofts",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32647,7 +32647,7 @@
       "label": "Club president's verbatim email says his TPUSA field representative asked him to book the courtyard",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32655,7 +32655,7 @@
       "label": "Review: July 18 event request described a Kirk appearance on current events with external ticketing",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32663,7 +32663,7 @@
       "label": "Review: club's annual TPUSA registration had to be completed before approval",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32671,7 +32671,7 @@
       "label": "Review: TPUSA told UVU 600 attendees and offered to connect UVUPD to its security",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32679,7 +32679,7 @@
       "label": "Review: Chief Long first learned of the event on August 21",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32703,7 +32703,7 @@
       "label": "Review: UVU free speech committee flagged expected protests citing the 2019 Kirk appearance",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32719,7 +32719,7 @@
       "label": "Review: TPUSA told UVU it would have about eight security personnel",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32727,7 +32727,7 @@
       "label": "Review: Chief Long requested contact with TPUSA security leadership on August 25",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32735,7 +32735,7 @@
       "label": "Review: free speech committee discussed possible EOC activation on August 25",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32743,7 +32743,7 @@
       "label": "Review: UVU formally approved the event on August 27",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32751,7 +32751,7 @@
       "label": "Review: anonymous caller demanded cancellation of the event",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32759,7 +32759,7 @@
       "label": "Review: UVU President Tuminez requested event planning updates on August 31",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32767,7 +32767,7 @@
       "label": "Review: on September 2 Chief Long had received no TPUSA security requests",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32775,7 +32775,7 @@
       "label": "Review: first Flood and Chief Long call on September 3 lasted 5 minutes 28 seconds",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32791,7 +32791,7 @@
       "label": "Review: Flood's September 3 concerns were arrival, departure and parking",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32799,7 +32799,7 @@
       "label": "TPUSA did not provide ticket totals to UVU police a week before the event",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32807,7 +32807,7 @@
       "label": "Review: September 8 TPUSA security concern was the pedestrian walkway above the canopy",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32823,7 +32823,7 @@
       "label": "Review: Dan Flood initiated the September 8 text exchange about the canopy area",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32831,7 +32831,7 @@
       "label": "Anonymous EMP-device threat was reported to SIAC on September 10 morning",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32847,7 +32847,7 @@
       "label": "Review: TPUSA security arrived on campus at 9:00 a.m.",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32855,7 +32855,7 @@
       "label": "Review: at 9:04 Dan Flood texted Chief Long that the rest of security had arrived",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32863,7 +32863,7 @@
       "label": "Review: additional Kirk staff arrived at 9:28 and 10:28",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32887,7 +32887,7 @@
       "label": "Review: UVU, not TPUSA, requested added officers after seeing the crowd at 11:00",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32895,7 +32895,7 @@
       "label": "Review: Chief Long's 10:49 request to meet Flood at 11:00 did not occur",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32903,7 +32903,7 @@
       "label": "Review: protesters at the Hall of Flags moved away and were blocked off with tape",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32911,7 +32911,7 @@
       "label": "Review: Chief Long set up a command post in the Fugal Gateway building with no TPUSA security present",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32919,7 +32919,7 @@
       "label": "Review: a fire chief performed CPR when Charlie Kirk reached the hospital",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32927,7 +32927,7 @@
       "label": "Crofts insisted on Fountain Courtyard at August 25 MEAC despite UVU concerns",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32935,7 +32935,7 @@
       "label": "Review: UVU suggested the Fulton Library, the quad or interior locations",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32943,7 +32943,7 @@
       "label": "Review: Crofts preferred TPUSA manage ticketing through its Phoenix national office; Robin Ebmeyer had reservations",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32967,7 +32967,7 @@
       "label": "Review: the club president's MEAC questionnaire contained answers straight from the TPUSA team",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32975,7 +32975,7 @@
       "label": "Review: questionnaire answers listed 600 attendees, no risk factors and no need for emergency medical services",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32983,7 +32983,7 @@
       "label": "Review: SIAC said the EMP tip was not credible because the tipster had been unreliable before",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32991,7 +32991,7 @@
       "label": "Review: verbatim Flood text asked for controlled access to student roof walkways",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33015,7 +33015,7 @@
       "label": "Review: Harpole said his first meeting on the event was August 24",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33023,7 +33023,7 @@
       "label": "Review: Harpole said Flood shared no specific threats during pre-event planning",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33031,7 +33031,7 @@
       "label": "Review: Harpole gave no indication he considered requesting a pre-event meeting with campus police",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33039,7 +33039,7 @@
       "label": "Review: Harpole said the venue looked horrible when his team arrived hours before",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33055,7 +33055,7 @@
       "label": "Harpole’s claim that UVU selected the venue is contradicted by the review",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33063,7 +33063,7 @@
       "label": "Review: Harpole said TPUSA's video team used little bitty drones before the event",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33079,7 +33079,7 @@
       "label": "Review: a drone from the Orem Police Department could have been requested but was not",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33087,7 +33087,7 @@
       "label": "Review: Officer Bagley first suggested going up to the Losee Center roof",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33095,7 +33095,7 @@
       "label": "Review: Bagley found a screwdriver and disturbed gravel consistent with a prone shooting position",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33119,7 +33119,7 @@
       "label": "Review: limited time between Chief Long learning of the event and the event date",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33127,7 +33127,7 @@
       "label": "Review: coordination with the TPUSA security team was very limited",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33143,7 +33143,7 @@
       "label": "Review: no dedicated real-time security video monitoring by UVUPD dispatch",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33151,7 +33151,7 @@
       "label": "Review: TPUSA never issued tickets and required only online registration",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33159,7 +33159,7 @@
       "label": "Review: no formal VIP credentialing, ticket verification or screening",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33399,7 +33399,7 @@
       "label": "Host says UVU police asked Crofts for a TPUSA security contact and none was provided",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -34111,7 +34111,7 @@
       "label": "Cox Says Discord Messages Told of a Rifle Drop Point, a Bush and a Towel",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -34855,7 +34855,7 @@
       "label": "Host says a formal request from the TPUSA UVU chapter was submitted July 18 and the event was set for UVU",
       "node_kind": "claim",
       "episode": 159,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -34999,7 +34999,7 @@
       "label": "Cox Says Messages Mentioned Engraving Bullets, a Scope and a Unique Rifle",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -35063,7 +35063,7 @@
       "label": "Host says TPUSA security was absent from the August 25 UVU major events call and Chief Long asked for a contact he did not get",
       "node_kind": "claim",
       "episode": 159,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -35071,7 +35071,7 @@
       "label": "Host says September 2 was the first mention found of Charlie speaking in UVU's courtyard, and Long reached Dan Flood on September 3",
       "node_kind": "claim",
       "episode": 159,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -35495,7 +35495,7 @@
       "label": "Host says Harpole's account has no CPR in the car or anywhere else",
       "node_kind": "claim",
       "episode": 160,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -35519,7 +35519,7 @@
       "label": "UVU review: Station 2 fire captain assisted CPR at hospital but is unnamed",
       "node_kind": "claim",
       "episode": 160,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -35879,7 +35879,7 @@
       "label": "Host says Discord is where Tyler Robinson's alleged confession was published",
       "node_kind": "claim",
       "episode": 161,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -35887,7 +35887,7 @@
       "label": "Cox Says Messages Mentioned Changing Outfits",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -36919,7 +36919,7 @@
       "label": "Harpole reads the message about student roof access near the event",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -36983,7 +36983,7 @@
       "label": "Kolvet says in a clip that Long's \"I got you covered\" was not the case",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37039,7 +37039,7 @@
       "label": "Host identifies Ebmeyer as UVU emergency management director",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37047,7 +37047,7 @@
       "label": "Review says Ebmeyer was at the meeting where Crofts insisted on an outdoor venue",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37063,7 +37063,7 @@
       "label": "Review says Crofts insisted on the courtyard and preferred TPUSA ticketing via Phoenix",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37071,7 +37071,7 @@
       "label": "Review says committee members including Ebmeyer kept expressing reservations",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37079,7 +37079,7 @@
       "label": "Review says Ebmeyer was absent on September 10 on a pre-scheduled vacation",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -38223,7 +38223,7 @@
       "label": "Host Says Peterson Was Not at UVU When Charlie Kirk Was Shot",
       "node_kind": "claim",
       "episode": 164,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -38231,7 +38231,7 @@
       "label": "After-Action Report Places Peterson About 45 Minutes From Campus",
       "node_kind": "claim",
       "episode": 164,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -38879,7 +38879,7 @@
       "label": "Host Says the Review Puts Val Peterson 45 Minutes Away on September 10",
       "node_kind": "claim",
       "episode": 165,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -39047,7 +39047,7 @@
       "label": "Host Says the UVU Review Says Maycee Crofts Wanted the Event in the Amphitheater",
       "node_kind": "claim",
       "episode": 165,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -40279,7 +40279,7 @@
       "label": "Host Seeks the Identity of the Fire Captain Who Performed CPR on Charlie at the Hospital",
       "node_kind": "claim",
       "episode": 166,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -40287,7 +40287,7 @@
       "label": "Host Believes the Fire Captain Was From Fire Station Two in Orem or Provo",
       "node_kind": "claim",
       "episode": 166,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -41999,7 +41999,7 @@
       "label": "George Zinn arrested for obstruction after decoy confession",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42471,7 +42471,7 @@
       "label": "Front Shot, No Exit",
       "node_kind": "claim",
       "episode": 18,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42495,7 +42495,7 @@
       "label": "Host Says Bullet Fragment Was Recovered From Charlie's Neck Near Shoulder Blade",
       "node_kind": "claim",
       "episode": 18,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42511,7 +42511,7 @@
       "label": "Host Says No .30-06 Projectile Appears on Charlie Kirk's Death Certificate",
       "node_kind": "claim",
       "episode": 18,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42535,7 +42535,7 @@
       "label": "Per Probable Cause Statement, Robinson Surrendered 33 Hours After Shooting",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42623,7 +42623,7 @@
       "label": "Indictment Says Robinson Hid the Gun, Discarded Clothing and Told Roommate to Delete Messages",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42711,7 +42711,7 @@
       "label": "Indictment Charges Count Six Because Children Were Present",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42799,7 +42799,7 @@
       "label": "Indictment Says an Officer Looked Up and Recognized a Rifle Sound From the Roof",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42887,7 +42887,7 @@
       "label": "Per Probable Cause Statement, Suspect Was on Roof by 12:15pm",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42903,7 +42903,7 @@
       "label": "Host Says the Bullet Entered the Front Left Lower Neck, Exploded the Artery and Did Not Exit",
       "node_kind": "claim",
       "episode": 18,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42975,7 +42975,7 @@
       "label": "Indictment Says Camera Showed Suspect Low Crawling Into a Prone Position and Fleeing Northeast",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -43151,7 +43151,7 @@
       "label": "Per Probable Cause Statement, Suspect Entered Campus at 11:51am in Dark American-Flag Shirt",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -43247,7 +43247,7 @@
       "label": "Indictment Says Suspect Walked With Little Bend in His Right Leg",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -43599,7 +43599,7 @@
       "label": "Indictment Says Suspect Climbed Down and Dropped the Item in a Controlled Fall",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -43687,7 +43687,7 @@
       "label": "Per Probable Cause Statement, Bolt-Action Rifle Wrapped in Towel Was Found in Wooded Area",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -43775,7 +43775,7 @@
       "label": "Per Probable Cause Statement, Cartridges Bore Inscriptions",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -43863,7 +43863,7 @@
       "label": "Per Probable Cause Statement, DNA Consistent with Robinson Was on Rifle Trigger",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -43951,7 +43951,7 @@
       "label": "Indictment Says Police Could Not Immediately Locate the Shooter and Published Surveillance Photos",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44039,7 +44039,7 @@
       "label": "Robinson mother recognized shooter from news photo",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44135,7 +44135,7 @@
       "label": "Mother Says She Called Robinson and He Said He Was Home Sick",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44223,7 +44223,7 @@
       "label": "Robinson shifted politically left over last year",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44311,7 +44311,7 @@
       "label": "Robinson dated roommate, biological male transitioning",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44399,7 +44399,7 @@
       "label": "Indictment Says Robinson Called the UVU Venue Stupid and Accused Kirk of Spreading Hate",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44487,7 +44487,7 @@
       "label": "Robinson father matched rifle to gifted weapon",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44575,7 +44575,7 @@
       "label": "Indictment Says Robinson Implied He Was the Shooter and Could Not Go to Jail",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44663,7 +44663,7 @@
       "label": "Indictment Says Robinson Told His Parents There Was Too Much Evil and Kirk Spread Too Much Hate",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44751,7 +44751,7 @@
       "label": "Per Probable Cause Statement, Family Friend Retired Deputy Facilitated Surrender",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44839,7 +44839,7 @@
       "label": "Indictment Says Robinson Was Told to Bring in the Clothes He Used",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -44927,7 +44927,7 @@
       "label": "Indictment Says Robinson Replied He Had Disposed of Clothes in a Different Area",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45375,7 +45375,7 @@
       "label": "Per Probable Cause Statement, Robinson Texted Lance About Keyboard Note",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45551,7 +45551,7 @@
       "label": "Indictment Says Police Found a Photograph of the Note",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45639,7 +45639,7 @@
       "label": "Indictment Quotes Robinson Saying He Still Had to Grab His Rifle",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45655,7 +45655,7 @@
       "label": "Host Says Charlie Was Given No First Aid and the Wound Was Not Secured",
       "node_kind": "claim",
       "episode": 21,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45727,7 +45727,7 @@
       "label": "Indictment Quotes Robinson Admitting to Lance He Was the Shooter",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45815,7 +45815,7 @@
       "label": "Indictment Quotes Robinson Saying Police Grabbed a Crazy Old Dude and He Had a Rifle Drop Point",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45919,7 +45919,7 @@
       "label": "Indictment Quotes Robinson Giving Hatred as His Reason",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45959,7 +45959,7 @@
       "label": "Host says Tyler Robinson was not on the Woodbury building or campus",
       "node_kind": "claim",
       "episode": 22,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46007,7 +46007,7 @@
       "label": "Indictment Quotes Robinson Saying He Planned the Shooting for a Bit Over a Week",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46095,7 +46095,7 @@
       "label": "Indictment Quotes Robinson Saying a Squad Car Was Parked Right by the Rifle",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46183,7 +46183,7 @@
       "label": "Indictment Quotes Robinson on Grandpa's Rifle and Its Serial Number",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46271,7 +46271,7 @@
       "label": "Indictment Quotes Robinson Saying He Left Something Called Prince in a Bush Where He Changed Outfits",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46447,7 +46447,7 @@
       "label": "Indictment Quotes Robinson Referring to Engraved Bullets and Messages as Mostly a Meme",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46503,7 +46503,7 @@
       "label": "Host Says Kirk Was Taken Out by Something Bigger Than TPUSA and Robinson Never Set Foot on Campus",
       "node_kind": "claim",
       "episode": 23,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46535,7 +46535,7 @@
       "label": "Indictment Quotes Robinson Telling Lance to Delete the Exchange",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46623,7 +46623,7 @@
       "label": "Indictment Quotes Robinson Saying the Feds Released a Unique Photo of the Rifle and His Dad Was Calling",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46711,7 +46711,7 @@
       "label": "Indictment Quotes Robinson Saying He Will Turn Himself In Willingly and His Dad Is Diehard MAGA",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46807,7 +46807,7 @@
       "label": "Indictment Quotes Robinson Saying a Neighbor Who Is a Deputy Was There",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46895,7 +46895,7 @@
       "label": "Indictment Quotes Robinson Telling Lance to Ask for a Lawyer and Stay Silent",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -48415,7 +48415,7 @@
       "label": "Host Says TPUSA Received UVU's Request on July 18 and Instantly Accepted It as Stop One",
       "node_kind": "claim",
       "episode": 25,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -48463,7 +48463,7 @@
       "label": "Host Suspects There Was No Security Plan at All",
       "node_kind": "claim",
       "episode": 25,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -49151,7 +49151,7 @@
       "label": "Host Says Kirk Was Given No First Aid After the Shot",
       "node_kind": "claim",
       "episode": 26,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -49887,7 +49887,7 @@
       "label": "Allie Beth Stuckey Asserts UVU Event Was Requested, Not Approved, in July",
       "node_kind": "claim",
       "episode": 27,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -50903,7 +50903,7 @@
       "label": "Host Says Others Told Her Charlie Was Definitely at UV Hospital",
       "node_kind": "claim",
       "episode": 29,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -54911,7 +54911,7 @@
       "label": "Host Describes Brian Harpole as Long-Term Kirk Security Who Ran to Charlie After the Shot",
       "node_kind": "claim",
       "episode": 34,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -54935,7 +54935,7 @@
       "label": "Harpole Says the Sorensen Center Was the Building in Front of the Losee Center",
       "node_kind": "claim",
       "episode": 34,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -54967,7 +54967,7 @@
       "label": "Harpole Says TPUSA Spent Thousands on Drones but Could Not Fly Them in Provo Airspace",
       "node_kind": "claim",
       "episode": 34,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -54975,7 +54975,7 @@
       "label": "Harpole Says UVU and Its Police Lacked Drones but Orem PD Has an Active Drone Unit",
       "node_kind": "claim",
       "episode": 34,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -55159,7 +55159,7 @@
       "label": "Host Reads Texts Saying Lance Photographed Note That Robinson Would Take Out Charlie Kirk",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -55247,7 +55247,7 @@
       "label": "Robinson Text Says He Is Stuck in Orem and Must Still Grab His Rifle",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -55335,7 +55335,7 @@
       "label": "Robinson Text Answers Lance's Question With I Am, I'm Sorry",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -55751,7 +55751,7 @@
       "label": "Brian Harpole Stated TPUSA Did Not Have Drones at the Event",
       "node_kind": "claim",
       "episode": 35,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -55871,7 +55871,7 @@
       "label": "Per Indictment Texts, Robinson Lingered Near Scene Hours After Shooting",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -55959,7 +55959,7 @@
       "label": "Robinson Text Says He Planned Over a Week and a Squad Car Sat by the Drop Spot",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56047,7 +56047,7 @@
       "label": "Host Says Robinson Text Wonders About a Serial Number on Grandpa's Rifle",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56135,7 +56135,7 @@
       "label": "Robinson Left Rifle in Bush After Changing Outfits",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56503,7 +56503,7 @@
       "label": "Host Says UVU Warned Turning Point About No Traffic Control but TPUSA Insisted",
       "node_kind": "claim",
       "episode": 36,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56719,7 +56719,7 @@
       "label": "Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorensen Center",
       "node_kind": "claim",
       "episode": 36,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56727,7 +56727,7 @@
       "label": "Harpole Says the Sorensen Center Is the Building in Front of the Losee Center",
       "node_kind": "claim",
       "episode": 36,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56743,7 +56743,7 @@
       "label": "Host Says Dan Flood Cared Mainly About Clear SUV Access Behind Charlie",
       "node_kind": "claim",
       "episode": 36,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56759,7 +56759,7 @@
       "label": "FBI Said a Believed Murder Weapon Was Recovered in a Wooded Area",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56823,7 +56823,7 @@
       "label": "Brooksby Statement: Friend Drove Tyler Robinson and Parents to Sheriff's Office",
       "node_kind": "claim",
       "episode": 36,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56855,7 +56855,7 @@
       "label": "KUTV Says Robinson Was Taken Into Custody in Washington County Less Than Two Days After the Shooting",
       "node_kind": "claim",
       "episode": 36,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -57199,7 +57199,7 @@
       "label": "Robinson Text Says the Feds Released a Unique Rifle Photo and Father Was Calling",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -57287,7 +57287,7 @@
       "label": "Host Says Indictment Has the Father Reporting Tyler Answered and Was Suicidal",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -57471,7 +57471,7 @@
       "label": "Robinson Text Says His Father Has Been Diehard MAGA Since Trump Took Office",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -57559,7 +57559,7 @@
       "label": "Robinson Text Says a Deputy Neighbor Is Present and He Will Turn Himself In",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -58815,7 +58815,7 @@
       "label": "Host Says TPUSA Insisted on the Amphitheater and Maycee Crofts Said Charlie Wanted It",
       "node_kind": "claim",
       "episode": 39,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -59463,7 +59463,7 @@
       "label": "Host Says Security Gave Charlie No First Aid",
       "node_kind": "claim",
       "episode": 40,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -61031,7 +61031,7 @@
       "label": "Tyler Robinson was wearing a maroon shirt at the event",
       "node_kind": "claim",
       "episode": 42,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -63327,7 +63327,7 @@
       "label": "Host Describes Robinson-Lance Texts as Minute-by-Minute Reports Including a Police Sweep",
       "node_kind": "claim",
       "episode": 5,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -63671,7 +63671,7 @@
       "label": "Host Says the Claim That Tyler Robinson Confessed and Turned Himself In Is Not What Happened",
       "node_kind": "claim",
       "episode": 46,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -63711,7 +63711,7 @@
       "label": "Host Says Tyler Robinson Was Not Arrested in a Maroon Shirt",
       "node_kind": "claim",
       "episode": 46,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -64135,7 +64135,7 @@
       "label": "Host Says Official Account Has Robinson Changing From Khaki Shorts and Maroon Shirt Entirely",
       "node_kind": "claim",
       "episode": 5,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -64959,7 +64959,7 @@
       "label": "Host Says Harpole's Shown Message Belonged to Flood and No Walk-Through Was Done",
       "node_kind": "claim",
       "episode": 47,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -64983,7 +64983,7 @@
       "label": "Kirk Show Speaker Reads Charging Document Saying Robinson Became More Political and Leaned Left",
       "node_kind": "claim",
       "episode": 47,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -64991,7 +64991,7 @@
       "label": "Kirk Show Reading Says Robinson Called the UVU Event a Stupid Venue and Accused Kirk of Spreading Hate",
       "node_kind": "claim",
       "episode": 47,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -65807,7 +65807,7 @@
       "label": "Harpole States UVU Event Intelligence Gathering Began August 24",
       "node_kind": "claim",
       "episode": 48,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -65823,7 +65823,7 @@
       "label": "Host Says the Indictment Shows Children Witnessed the Shooting",
       "node_kind": "claim",
       "episode": 5,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -70135,7 +70135,7 @@
       "label": "Harpole Says Pre-Planning for the Event Began on the 24th of the Month Prior",
       "node_kind": "claim",
       "episode": 54,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -73559,7 +73559,7 @@
       "label": "Host Says Credible Ballistics Experts Call the Front Wound an Exit Wound",
       "node_kind": "claim",
       "episode": 6,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -74439,7 +74439,7 @@
       "label": "Host Says Tuminez Was Not at UVU on the Day of the Assassination",
       "node_kind": "claim",
       "episode": 58,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -75207,7 +75207,7 @@
       "label": "Host Says Harpole Told Shawn Ryan There Were No Drones Because the University Denied the Request",
       "node_kind": "claim",
       "episode": 59,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -93879,7 +93879,7 @@
       "label": "Neff and Kolvet say Robinson's parents recognized the photo and helped him surrender",
       "node_kind": "claim",
       "episode": 82,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -94487,7 +94487,7 @@
       "label": "Host Says Officials Say the Bullet Cannot Be Matched to the Weapon and No One Explains Why It Did Not Exit",
       "node_kind": "claim",
       "episode": 83,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -94503,7 +94503,7 @@
       "label": "Clip Says the Round Was a .30-06 Big Enough to Kill a Moose With No Exit Wound",
       "node_kind": "claim",
       "episode": 83,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -94799,7 +94799,7 @@
       "label": "Host Says the Indictment Has Robinson Dropping Onto the Roof at 12:15 PM",
       "node_kind": "claim",
       "episode": 9,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -95879,7 +95879,7 @@
       "label": "Host Says Brooksby Was the Sheriff Who First Came Out on Robinson's Surrender",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96231,7 +96231,7 @@
       "label": "Friend drove Robinson and parents to Sheriff's office",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96455,7 +96455,7 @@
       "label": "Farnsworth's AV company has worked TPUSA events for over a decade",
       "node_kind": "claim",
       "episode": 86,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96847,7 +96847,7 @@
       "label": "Filing says DNA reports show mixtures of up to five or more individuals",
       "node_kind": "claim",
       "episode": 86,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96855,7 +96855,7 @@
       "label": "ATF Unable to Identify Bullet to Rifle",
       "node_kind": "claim",
       "episode": 86,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96935,7 +96935,7 @@
       "label": "Filing argues hearsay summaries violate due process and other amendments",
       "node_kind": "claim",
       "episode": 86,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -97767,7 +97767,7 @@
       "label": "Host Says the ATF Found the Bullet Comparison Inconclusive",
       "node_kind": "claim",
       "episode": 87,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -98295,7 +98295,7 @@
       "label": "Host Says There Is No Evidence the Rifle Was Fired",
       "node_kind": "claim",
       "episode": 88,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -99895,7 +99895,7 @@
       "label": "Search warrant records Tyler Robinson arriving at Washington County Sheriff's Office at 10:26 p.m. with parents",
       "node_kind": "claim",
       "episode": 90,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -99903,7 +99903,7 @@
       "label": "Cox Says Robinson's Roommate Showed Investigators Discord Messages",
       "node_kind": "claim",
       "episode": 90,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -99911,7 +99911,7 @@
       "label": "Cox Describes Messages About a Rifle Left in a Bush Wrapped in a Towel",
       "node_kind": "claim",
       "episode": 90,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -99927,7 +99927,7 @@
       "label": "Cox Says Messages Mentioned Engraving Bullets, a Scope and Changing Outfits",
       "node_kind": "claim",
       "episode": 90,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -102335,7 +102335,7 @@
       "label": "Host Says ATF Summary Found Cartridge Cases Matched Exhibit 1 Rifle",
       "node_kind": "claim",
       "episode": 93,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -102343,7 +102343,7 @@
       "label": "Bullet jacket fragments could not be excluded based on discernable class characteristics",
       "node_kind": "claim",
       "episode": 93,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -103743,7 +103743,7 @@
       "label": "Charlie sat on a chair on a raised platform, a new setup",
       "node_kind": "claim",
       "episode": 95,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -103895,7 +103895,7 @@
       "label": "Robinson message said the feds released a photo of the \"very unique\" rifle",
       "node_kind": "claim",
       "episode": 95,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -105039,7 +105039,7 @@
       "label": "Host Says a Drone-Training Pilot Told Her Drones Can Be Flown in Provo",
       "node_kind": "claim",
       "episode": 97,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -105223,7 +105223,7 @@
       "label": "Host Says Harpole Presented the Flood-Long Chain Using 'I'",
       "node_kind": "claim",
       "episode": 97,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -105231,7 +105231,7 @@
       "label": "Host Says Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole",
       "node_kind": "claim",
       "episode": 97,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -108751,7 +108751,7 @@
       "label": "Range Day Bro Says a Marine Friend's Video Shows the Angle of the Shot and an Entry and Exit Wound",
       "node_kind": "claim",
       "episode": 10,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -112591,7 +112591,7 @@
       "label": "Frank Turek and the security team took Charlie Kirk to the hospital",
       "node_kind": "claim",
       "episode": 108,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -112863,7 +112863,7 @@
       "label": "The sealing list includes the FBI DNA report on the towel and screwdriver",
       "node_kind": "claim",
       "episode": 108,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -113903,7 +113903,7 @@
       "label": "Source Says Robinson Has Never Stepped Foot on the UVU Campus",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -114023,7 +114023,7 @@
       "label": "Turning Point USA submitted a request for Charlie Kirk to speak at UVU on July 18, 2025",
       "node_kind": "claim",
       "episode": 110,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -114791,7 +114791,7 @@
       "label": "Brooksby Clip: Friend Drove Tyler and His Parents to His Office Within the Hour",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -116831,7 +116831,7 @@
       "label": "Host Names the Retired Friend as Former Deputy Mike Mitchell and Says Her Team Tried to Reach Him",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -116887,7 +116887,7 @@
       "label": "No evidence the rifle was fired on September 10",
       "node_kind": "claim",
       "episode": 116,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",

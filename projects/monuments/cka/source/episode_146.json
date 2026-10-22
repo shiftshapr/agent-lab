@@ -3526,6 +3526,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify the magistrate's full name through Utah court records; obtain the written ruling once filed."
     },
@@ -7184,6 +7192,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check the Utah Fourth District court docket for the hearing dates."
     },
@@ -7247,6 +7263,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3"
     },
     {
      "k": "Investigative Direction",
@@ -7497,6 +7521,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-10"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check the charging information for the seven counts and the state's notice of intent regarding the death penalty."
     },
@@ -7680,6 +7712,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Read the prosecution's response to the motion to dismiss for the single-shot argument and the ballistic basis."
     },
@@ -7739,6 +7779,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
     },
     {
      "k": "Investigative Direction",
@@ -8046,6 +8094,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-11"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm the count list in the amended information."
     },
@@ -8105,6 +8161,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-11"
     },
     {
      "k": "Investigative Direction",
@@ -8168,6 +8232,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-11"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare the charged clothing with the video-documented outfit changes (see the outfit discrepancy topic)."
     },
@@ -8229,6 +8301,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-11"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check the charging document and text extraction for the 'delete this exchange' message."
     },
@@ -8288,6 +8368,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-11"
     },
     {
      "k": "Investigative Direction",
@@ -8410,6 +8498,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-11"
     },
     {
      "k": "Investigative Direction",

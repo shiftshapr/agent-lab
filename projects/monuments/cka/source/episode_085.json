@@ -4862,6 +4862,14 @@
      "v": "N-10021"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-4, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify against court records and other accounts."
     },
@@ -8166,6 +8174,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-4"
     },
     {
      "k": "Investigative Direction",

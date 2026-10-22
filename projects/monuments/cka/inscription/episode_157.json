@@ -2644,8 +2644,10 @@
         "N-270",
         "N-10"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2694,8 +2696,10 @@
         "N-1",
         "N-10"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2718,8 +2722,10 @@
         "N-8",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2743,8 +2749,10 @@
         "N-224",
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2787,8 +2795,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2810,8 +2820,10 @@
         "N-270",
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2948,8 +2960,10 @@
         "N-10762",
         "N-10994"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2972,8 +2986,10 @@
         "N-266",
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2994,8 +3010,10 @@
       "mentions_person_refs": [
         "N-8"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3017,8 +3035,10 @@
       "mentions_person_refs": [
         "N-10762"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3037,8 +3057,10 @@
       "claim_timestamp": "00:09:31",
       "investigative_direction": "Compare the page 10 executive summary wording with the Kirk-family statement blaming UVU security.",
       "transcript_snippet": "It is the opinion of the project team based on our review of all available information that at no time during the events leading up to the assassination of Charlie Kirk",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3061,8 +3083,10 @@
       "mentions_person_refs": [
         "N-8"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3084,8 +3108,10 @@
       "mentions_person_refs": [
         "N-10762"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3107,8 +3133,10 @@
       "mentions_person_refs": [
         "N-10762"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3197,8 +3225,10 @@
         "N-10",
         "N-8"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3220,8 +3250,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3243,8 +3275,10 @@
       "mentions_person_refs": [
         "N-10614"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3263,8 +3297,10 @@
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Compare the 600-attendee figure and registration counts held by TPUSA National before the event.",
       "transcript_snippet": "at that time in response to UVU's questionnaire, TPUSA told them it was going to be 600 attendees.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3286,8 +3322,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3331,8 +3369,10 @@
         "N-1",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3370,8 +3410,10 @@
       "claim_timestamp": "00:22:35",
       "investigative_direction": "Obtain the MEAC record of the stated headcount and compare with the personnel TPUSA actually fielded on September 10.",
       "transcript_snippet": "TPOSA advised UVU that it would have approximately eight security personnel.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3392,8 +3434,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3415,8 +3459,10 @@
       "mentions_person_refs": [
         "N-10995"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3434,8 +3480,10 @@
       "claim_timestamp": "00:22:35",
       "investigative_direction": "Obtain the formal approval record, approver and date from UVU event services.",
       "transcript_snippet": "And then on the 27th is when it's formally approved.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3453,8 +3501,10 @@
       "claim_timestamp": "00:23:46",
       "investigative_direction": "Obtain the complaint log and any record of the anonymous call.",
       "transcript_snippet": "they had an anonymous caller that demanded that the event be cancelled.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3475,8 +3525,10 @@
       "mentions_person_refs": [
         "N-751"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3497,8 +3549,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3520,8 +3574,10 @@
         "N-270",
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3543,8 +3599,10 @@
         "N-270",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3568,8 +3626,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3621,8 +3681,10 @@
         "N-270",
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3665,8 +3727,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3689,8 +3753,10 @@
         "N-270",
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3709,8 +3775,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3755,8 +3823,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3778,8 +3848,10 @@
         "N-270",
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3795,8 +3867,10 @@
       "claim_timestamp": "00:33:21",
       "investigative_direction": "Compare the review's protester timeline with video of the Hall of Flags walkway between 11:20 and 11:30.",
       "transcript_snippet": "That's between 11:20 and 11:30 and that the protesters did move away and then the officers blocked them off with security tape",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3817,8 +3891,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3840,8 +3916,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3863,8 +3941,10 @@
       "supports_claim_refs": [
         "C-13566"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3886,8 +3966,10 @@
         "N-8",
         "N-750"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3932,8 +4014,10 @@
       "mentions_person_refs": [
         "N-10"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3955,8 +4039,10 @@
       "mentions_person_refs": [
         "N-10"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -3980,8 +4066,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4006,8 +4094,10 @@
         "N-270",
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4078,8 +4168,10 @@
       "mentions_person_refs": [
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4101,8 +4193,10 @@
         "N-266",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4124,8 +4218,10 @@
         "N-266",
         "N-270"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4146,8 +4242,10 @@
       "mentions_person_refs": [
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4173,8 +4271,10 @@
       "mentions_person_refs": [
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4196,8 +4296,10 @@
       "mentions_person_refs": [
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4218,8 +4320,10 @@
       "mentions_person_refs": [
         "N-506"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4240,8 +4344,10 @@
       "mentions_person_refs": [
         "N-506"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4307,8 +4413,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4331,8 +4439,10 @@
         "N-266",
         "N-270"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4350,8 +4460,10 @@
       "claim_timestamp": "00:51:54",
       "investigative_direction": "Review UVU camera system access logs and dispatch staffing for September 10.",
       "transcript_snippet": "There also was not a dedicated assignment for real-time security video monitoring by UVUPD dispatch personnel or others from another operational location during the event.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4369,8 +4481,10 @@
       "claim_timestamp": "00:51:54",
       "investigative_direction": "Obtain the registration platform data and communications showing what was shared with UVUPD.",
       "transcript_snippet": "we learned that Turning Point never actually issued any tickets",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -4392,8 +4506,10 @@
       "mentions_person_refs": [
         "N-10762"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -5012,8 +5128,10 @@
         "N-271",
         "N-10"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
