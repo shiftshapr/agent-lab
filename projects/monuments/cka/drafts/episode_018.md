@@ -894,6 +894,8 @@ Claim: The host says she is telling viewers 100% that Charlie Kirk was shot from
 Anchored Artifacts: A-1251.1
 Mentions: N-1, N-3
 Related Nodes: N-10172
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.
 
 ---
@@ -907,6 +909,8 @@ Claim: The host says that, as she has fact-checked with multiple sources, a bull
 Anchored Artifacts: A-1251.1
 Mentions: N-1, N-3
 Related Nodes: N-10172
+Verification: corroborated
+Verification Evidence: S-5, S-7
 Investigative Direction: Compare against autopsy report and forensic pathology images for exact fragment location.
 
 ---
@@ -920,6 +924,8 @@ Claim: The host says Charlie Kirk's death certificate does not reflect a recover
 Anchored Artifacts: A-1251.1
 Mentions: N-1, N-3
 Related Nodes: N-10172
+Verification: contradicted-by-record
+Verification Evidence: S-5, S-7
 Investigative Direction: Obtain a certified copy of the death certificate and the medical examiner's full report.
 
 ---
@@ -1931,6 +1937,8 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Related Nodes: N-10172
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain the autopsy wound description and imaging to test the entry location, laterality and fragment location the host gives.
 
 ---

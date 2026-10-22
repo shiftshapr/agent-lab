@@ -4136,6 +4136,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2, S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the people who told the host this and compare against UV Hospital and EMS records."
     },

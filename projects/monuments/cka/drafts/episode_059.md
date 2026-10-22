@@ -1817,6 +1817,8 @@ Mentions: N-266, N-224
 Related Nodes: N-10251, N-10012
 Supports: C-3106
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-12
 Investigative Direction: Compare Harpole's Shawn Ryan interview with UVU's drone authorization records and TPUSA's request.
 
 ---

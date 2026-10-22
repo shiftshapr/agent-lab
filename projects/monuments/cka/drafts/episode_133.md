@@ -975,6 +975,8 @@ Anchored Artifacts:
 Mentions: N-3, N-42, N-410
 Related Nodes: N-11060
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-3
 Investigative Direction: Request the full list of detentions and arrests from Utah County and federal agencies for September 10 to 12, 2025.
 
 ---
@@ -1104,6 +1106,8 @@ Anchored Artifacts: A-2198.1
 Mentions: N-3, N-40
 Related Nodes: N-10321
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3, S-7
 Investigative Direction: Compare gait before and after the rooftop frame by frame, with an independent gait or biomechanics expert.
 
 ---
@@ -1137,6 +1141,8 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10685
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3, S-7
 Investigative Direction: Check the charging documents and ATF records for the make, model and provenance of the recovered rifle.
 
 ---

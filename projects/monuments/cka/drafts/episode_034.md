@@ -1347,6 +1347,8 @@ Transcript Snippet: Brian Harpole is one of Charlie Kirk's long-term security me
 Anchored Artifacts: A-1428.1
 Mentions: N-266, N-1, N-224
 Related Nodes: N-10590
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the Harpole interview recording and event video showing his position at the time of the shot.
 
 ---
@@ -1392,6 +1394,8 @@ Transcript Snippet: for edification the Sorensen Center was the building in fron
 Anchored Artifacts: A-1428.2
 Mentions: N-266
 Related Nodes: N-10012, N-10698
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Check the UVU campus map for the position of the Sorensen Center relative to the Losee Center.
 
 ---
@@ -1437,6 +1441,8 @@ Transcript Snippet: I spent thousands of dollars on drones last year and one and
 Anchored Artifacts: A-1428.1
 Mentions: N-266
 Related Nodes: N-10251, N-10589
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Request FAA airspace authorization records for the UVU event and TPUSA's drone purchase and pilot licensing records.
 
 ---
@@ -1452,6 +1458,8 @@ Transcript Snippet: now the school could have flown drones, the PD, but they did
 Anchored Artifacts: A-1428.1
 Mentions: N-266
 Related Nodes: N-10124, N-10251, N-10589
+Verification: corroborated
+Verification Evidence: S-2, S-12
 Investigative Direction: Ask Orem PD whether its drone unit was requested for the September 10 event and obtain any mutual aid agreement.
 
 ---

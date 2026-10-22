@@ -5154,6 +5154,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-4, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare the probable cause statement and press briefings with the father's account of the call to authorities."
     },
@@ -5282,6 +5290,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-7"
     },
     {
      "k": "Investigative Direction",

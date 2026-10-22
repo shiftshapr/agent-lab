@@ -11175,6 +11175,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the original message metadata and any UVU security walk-through logs."
     },
@@ -11358,6 +11366,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Read the charging document passage in the court filing to confirm the wording."
     },
@@ -11417,6 +11433,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",

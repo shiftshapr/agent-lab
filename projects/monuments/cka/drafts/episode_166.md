@@ -2001,6 +2001,8 @@ Mentions: N-1
 Related Nodes: N-10795
 Supports: C-13858
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: The UVU Independent Review, and Orem / Provo Fire Department rosters and run reports for September 10, 2025.
 
 ---
@@ -2017,6 +2019,8 @@ Anchored Artifacts:
 Mentions:
 Related Nodes: N-10795, N-10059, N-10071
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Orem Fire Station 2 and Provo Fire Station 2 shift records for September 10, 2025.
 
 ---

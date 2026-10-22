@@ -1764,6 +1764,8 @@ Anchored Artifacts: A-3114.1
 Mentions: N-8, N-1
 Related Nodes: N-10012, N-10211
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the venue site-visit communications between TPUSA, UVU and event staff in early August.
 
 ---

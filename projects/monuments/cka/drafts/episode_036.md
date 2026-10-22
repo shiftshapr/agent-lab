@@ -950,6 +950,8 @@ Claim: In a clip the host plays, Brian Harpole presents what the host says is a 
 Anchored Artifacts: A-1448.1
 Mentions: N-266, N-270, N-271
 Related Nodes: N-10256
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures.
 
 ---
@@ -989,6 +991,8 @@ Claim: Washington County Sheriff Nate Brooksby, in his September 17, 2025 press 
 Anchored Artifacts: A-1449.1
 Mentions: N-272, N-40
 Related Nodes: N-10255
+Verification: corroborated
+Verification Evidence: S-3, S-4
 Investigative Direction: Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections.
 
 ---
@@ -1568,6 +1572,8 @@ Transcript Snippet: The school is telling them this is not a great place for you
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10000, N-10012, N-10229
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain UVU and TPUSA site-visit emails and security assessments from early August 2025.
 
 ---
@@ -1922,6 +1928,8 @@ Anchored Artifacts: A-1448.1
 Mentions: N-266
 Related Nodes: N-10028
 Supports: C-3215
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Check a UVU campus map for the position of the Sorensen Center relative to the Losee Center; the transcript spells the second building Lucy.
 
 ---
@@ -1952,6 +1960,8 @@ Transcript Snippet: the only thing that Dan Flood apparently cared about was mak
 Anchored Artifacts: 
 Mentions: N-270, N-1, N-3
 Related Nodes: N-10000, N-10246
+Verification: contradicted-by-record
+Verification Evidence: S-12
 Investigative Direction: Obtain the security plan and vehicle staging diagram; interview staff who attended the advance meetings.
 
 ---
@@ -2088,6 +2098,8 @@ Transcript Snippet: after Charlie Kirk's alleged shooter was taken into custody 
 Anchored Artifacts: A-1449.1
 Mentions: N-40
 Related Nodes: N-10029
+Verification: corroborated
+Verification Evidence: S-4, S-7
 Investigative Direction: Check the booking record and arrest timestamp against the September 10 shooting time.
 
 ---

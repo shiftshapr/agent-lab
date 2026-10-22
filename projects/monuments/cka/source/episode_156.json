@@ -2562,6 +2562,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Pull the actual preliminary-hearing / probable-cause transcript and verify whether the testimony relied on partial-plate matching."
     },
@@ -6453,6 +6461,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3"
     },
     {
      "k": "Investigative Direction",

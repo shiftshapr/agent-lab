@@ -1065,6 +1065,8 @@ Anchored Artifacts: A-1089.1
 Mentions: N-40, N-41
 Related Nodes: N-10012
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-3, S-5, S-7
 Investigative Direction: Compare Cox's statement against UVU surveillance and TMZ footage for consistency.
 
 ---
@@ -1079,6 +1081,8 @@ Mentions: N-40
 Related Nodes: N-10011, N-10019
 Confidence: medium
 Uncertainty: Footage shown but host notes timestamp uncertainty about FBI arrival claim.
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Obtain doorbell camera source and chain of custody; verify timestamp.
 
 ---
@@ -1134,6 +1138,8 @@ Anchored Artifacts: A-1093.1, A-1087.1
 Mentions: 
 Related Nodes: N-10014, N-10020
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-3, S-7
 Investigative Direction: Obtain FBI evidence photos and chain of custody for recovered rifle.
 
 ---
@@ -1146,6 +1152,8 @@ Transcript Snippet: A screwdriver was found on the roof… he undid perhaps undi
 Anchored Artifacts: A-1093.2, A-1089.4
 Related Nodes: N-10014, N-10020, N-10013
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-2, S-7
 Investigative Direction: Confirm with FBI evidence inventory and forensics report.
 
 ---
@@ -1981,6 +1989,8 @@ Anchored Artifacts: A-3093.1
 Mentions: N-3, N-1
 Related Nodes: N-10024, N-10684
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3, S-5
 Investigative Direction: Obtain the original rooftop footage with metadata and verify that the figure is the shooter and the time of the clip.
 
 ---
@@ -2046,6 +2056,8 @@ Anchored Artifacts: A-1094.1
 Mentions: N-3
 Related Nodes: N-10014, N-10019
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Obtain the original FBI release with date and camera location, and build the timeline for the outfit change.
 
 ---
@@ -2094,6 +2106,8 @@ Anchored Artifacts:
 Mentions: N-3, N-40
 Related Nodes: N-10019, N-10024
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain the arrest report or booking photo describing what Robinson was wearing and the time of arrest.
 
 ---
@@ -2191,6 +2205,8 @@ Mentions: N-41, N-40
 Related Nodes: N-10013, N-10020
 Supports: C-124
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-7
 Investigative Direction: Obtain the message exhibits from the charging documents and compare timestamps with the shooting timeline.
 
 ---
@@ -2207,6 +2223,8 @@ Anchored Artifacts: A-1089.4
 Mentions: N-41, N-40
 Related Nodes: N-10013
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5, S-7
 Investigative Direction: Compare with the ammunition and engravings described in the charging documents and recovered evidence.
 
 ---
@@ -2223,6 +2241,8 @@ Anchored Artifacts: A-1089.4
 Mentions: N-41, N-40
 Related Nodes: N-10013, N-10019
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5, S-7
 Investigative Direction: Obtain the message with its timestamp to place the outfit change in the timeline.
 
 ---

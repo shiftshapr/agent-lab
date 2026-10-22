@@ -1026,6 +1026,8 @@ Claim: The host reads the UVU independent review stating that Station 3 personne
 Anchored Artifacts: A-2476.1
 Mentions: N-1, N-8, N-10
 Related Nodes: N-10762, N-10780, N-10795
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Identify Station 2 captain on duty 2025-09-10 via official rosters / tips (moretips@candaceowens.com); compare naming criteria in the review.
 
 ---
@@ -1474,6 +1476,8 @@ Related Nodes: N-10636
 Supports: C-12856
 Contradicts: C-13858
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Re-listen to the Harpole interview to check whether he excluded hospital CPR or only CPR in the car.
 
 ---

@@ -3192,6 +3192,14 @@
      "v": "N-10653, N-10654"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody."
     },
@@ -3240,6 +3248,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10654"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
     },
     {
      "k": "Investigative Direction",
@@ -4369,6 +4385,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the hearing transcript and the evidence item log for the library bus stop seizures to establish the item count."
     },
@@ -4428,6 +4452,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
     },
     {
      "k": "Investigative Direction",
@@ -4493,6 +4525,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
     },
     {
      "k": "Investigative Direction",
@@ -5807,6 +5847,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-4"
     },
     {
      "k": "Investigative Direction",
@@ -7974,6 +8022,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-1, S-5"
     },
     {
      "k": "Investigative Direction",

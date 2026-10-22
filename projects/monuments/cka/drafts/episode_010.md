@@ -2094,6 +2094,8 @@ Anchored Artifacts: A-1163.2
 Mentions: N-121, N-1
 Related Nodes: N-10131
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-7
 Investigative Direction: Obtain the Marine friend's video and the autopsy or wound-description records.
 
 ---

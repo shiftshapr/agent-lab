@@ -1099,6 +1099,8 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Related Nodes: N-10621
 Supports: C-2363
+Verification: contradicted-by-record
+Verification Evidence: S-2
 Investigative Direction: Review the available footage and Harpole's own interview for any first-aid attempt.
 
 ---

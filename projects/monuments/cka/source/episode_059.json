@@ -6768,6 +6768,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare Harpole's Shawn Ryan interview with UVU's drone authorization records and TPUSA's request."
     },

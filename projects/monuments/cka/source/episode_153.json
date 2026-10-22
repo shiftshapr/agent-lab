@@ -2579,6 +2579,14 @@
      "v": "N-10762"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Cross-reference UVU board minutes and the AP wire story against UVU press releases from September 22, 2025."
     },
@@ -2747,6 +2755,14 @@
      "v": "N-10758"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list."
     },
@@ -2789,6 +2805,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10758"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",
@@ -2873,6 +2897,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10759"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
     },
     {
      "k": "Investigative Direction",
@@ -3383,6 +3415,14 @@
      "v": "N-10759"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify against UVU PD staffing rosters and Utah public-safety salary records."
     },
@@ -3421,6 +3461,14 @@
     {
      "k": "Mentions",
      "v": "N-1, N-8"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",
@@ -3545,6 +3593,14 @@
     {
      "k": "Mentions",
      "v": "N-1"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",
@@ -5634,6 +5690,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain ticket platform records and the ticketing agreement."
     },
@@ -5762,6 +5826,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",

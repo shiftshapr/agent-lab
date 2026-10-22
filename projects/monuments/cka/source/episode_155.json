@@ -3425,6 +3425,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2, S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match."
     },
@@ -5195,6 +5203,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the filed September 15 warrant affidavit to verify the clothing description and compare it with the maroon-shirt reporting."
     },
@@ -5258,6 +5274,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-7"
     },
     {
      "k": "Investigative Direction",

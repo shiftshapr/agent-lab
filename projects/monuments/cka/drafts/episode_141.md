@@ -1366,6 +1366,8 @@ Transcript Snippet: yeah, we allow this at this stage, it's probitative
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10986
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Read Utah Rule of Evidence 1102 and the preliminary-hearing rulings applying it.
 
 ---
@@ -1410,6 +1412,8 @@ Transcript Snippet: That he stopped and ate at Chick-fil-A, which if you are int
 
 Anchored Artifacts: A-2277.3
 Mentions: N-3, N-40
+Verification: corroborated
+Verification Evidence: S-3, S-7
 Investigative Direction: Establish from the hearing record or surveillance whether Robinson stopped at a Chick-fil-A that day.
 
 ---
@@ -1629,6 +1633,8 @@ Transcript Snippet: aggravated murder uh it's it's narrowly defined and it carri
 
 Anchored Artifacts: A-2277.4
 Mentions: N-3, N-18, N-40
+Verification: corroborated
+Verification Evidence: S-7, S-10
 Investigative Direction: Check the Utah aggravated-murder statute and the charging document.
 
 ---
@@ -1644,6 +1650,8 @@ Transcript Snippet: The second charge is the felony discharge of a weapon. Uh th
 Anchored Artifacts: A-2277.4
 Mentions: N-3, N-18, N-40
 Related Nodes: N-10541
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Compare with the charging information filed against Robinson.
 
 ---

@@ -1179,6 +1179,8 @@ Mentions: N-1
 
 Related Nodes: N-10614
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the actual UVU event submission paperwork; identify the requesting student organization.
 
 ---

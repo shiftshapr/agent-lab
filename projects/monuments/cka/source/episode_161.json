@@ -4429,6 +4429,14 @@
      "v": "relevance:context"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the Discord message records cited in the charging documents and the platform's preservation request."
     },

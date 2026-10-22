@@ -1072,6 +1072,8 @@ Anchored Artifacts: A-2820.1
 Mentions: N-1, N-3
 Related Nodes: N-11018
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2
 Investigative Direction: Review the close-up videos and medical records and interview the security team on first aid steps taken before transport.
 
 ---

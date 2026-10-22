@@ -1409,6 +1409,8 @@ Anchored Artifacts: A-3365.1
 Mentions: N-266, N-271
 Related Nodes: N-10619
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Original text message and building layout.
 
 ---
@@ -1521,6 +1523,8 @@ Anchored Artifacts: A-3366.1
 Mentions: N-14, N-271
 Related Nodes:
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Full Kolvet segment; text thread context on which roof was meant.
 
 ---
@@ -1634,6 +1638,8 @@ Anchored Artifacts:
 Mentions: N-750
 Related Nodes:
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: UVU staff directory.
 
 ---
@@ -1650,6 +1656,8 @@ Anchored Artifacts: A-3367.1
 Mentions: N-750, N-8
 Related Nodes: N-10762
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Independent review section on the major events committee meeting.
 
 ---
@@ -1666,6 +1674,8 @@ Anchored Artifacts: A-3367.1
 Mentions: N-8, N-1
 Related Nodes: N-10762, N-11131
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Independent review text and meeting minutes.
 
 ---
@@ -1682,6 +1692,8 @@ Anchored Artifacts: A-3367.1
 Mentions: N-750
 Related Nodes: N-10762
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Independent review text.
 
 ---
@@ -1698,6 +1710,8 @@ Anchored Artifacts: A-3367.2
 Mentions: N-750
 Related Nodes: N-10762
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Independent review page 73.
 
 ---

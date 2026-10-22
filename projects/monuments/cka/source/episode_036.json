@@ -3492,6 +3492,14 @@
      "v": "N-10256"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures."
     },
@@ -3640,6 +3648,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10255"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-4"
     },
     {
      "k": "Investigative Direction",
@@ -5848,6 +5864,14 @@
      "v": "N-10000, N-10012, N-10229"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain UVU and TPUSA site-visit emails and security assessments from early August 2025."
     },
@@ -7195,6 +7219,14 @@
      "v": "C-3215"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check a UVU campus map for the position of the Sorensen Center relative to the Losee Center; the transcript spells the second building Lucy."
     },
@@ -7307,6 +7339,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10000, N-10246"
+    },
+    {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",
@@ -7824,6 +7864,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10029"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-4, S-7"
     },
     {
      "k": "Investigative Direction",

@@ -1187,6 +1187,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10013, N-10021
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain the Discord message records cited in the charging documents and the platform's preservation request.
 
 ---

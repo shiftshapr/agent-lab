@@ -3523,6 +3523,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-8"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings."
     },
@@ -3577,6 +3585,14 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-8"
     },
     {
      "k": "Investigative Direction",
@@ -4156,6 +4172,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10593"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",
@@ -5332,6 +5356,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10763"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",

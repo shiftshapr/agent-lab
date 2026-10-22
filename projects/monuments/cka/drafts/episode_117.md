@@ -990,6 +990,8 @@ Transcript Snippet: it would explain why there was unusually no ambulance on sta
 Anchored Artifacts: A-2678.1
 Mentions: N-3
 Related Nodes: N-10763, N-10000
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the UVU event security and medical plan and TPUSA's past event contracts showing whether an ambulance was standard.
 
 ---

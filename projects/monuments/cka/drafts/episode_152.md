@@ -1280,6 +1280,8 @@ Mentions: N-506
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Verify via Bagley's body cam records disclosed in preliminary hearing exhibits.*
 
 *Optional Flag: Artifact verbally referenced but not shown.*
@@ -1661,6 +1663,8 @@ Transcript Snippet: But that was their only link to Tyler Robinson. The screwdri
 Anchored Artifacts: 
 Mentions: N-506, N-40
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-7
 Investigative Direction: Review preliminary hearing testimony and exhibits for what physical evidence ties the screwdriver to Robinson.
 
 ---
@@ -1694,6 +1698,8 @@ Anchored Artifacts:
 Mentions: N-40
 Tags: relevance:core
 Revises: C-11690
+Verification: contradicted-by-record
+Verification Evidence: S-7
 Investigative Direction: Obtain the lab reports and hearing testimony on DNA found on the screwdriver.
 
 ---

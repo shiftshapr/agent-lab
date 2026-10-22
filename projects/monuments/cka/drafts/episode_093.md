@@ -1141,6 +1141,8 @@ Anchored Artifacts: A-1990
 
 Related Nodes: N-10566
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the ATF summary in full (rather than partial readback) and any underlying laboratory report.
 
 ---
@@ -1155,6 +1157,8 @@ Anchored Artifacts: A-1990
 
 Related Nodes: N-10566
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain forensic report details on which class characteristics were matched and the exclusion criteria.
 
 ---

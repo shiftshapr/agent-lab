@@ -4641,6 +4641,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify via Bagley's body cam records disclosed in preliminary hearing exhibits.*"
     },
@@ -6086,6 +6094,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Review preliminary hearing testimony and exhibits for what physical evidence ties the screwdriver to Robinson."
     },
@@ -6210,6 +6226,14 @@
     {
      "k": "Revises",
      "v": "C-11690"
+    },
+    {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
     },
     {
      "k": "Investigative Direction",

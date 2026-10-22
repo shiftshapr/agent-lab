@@ -1584,6 +1584,8 @@ Claim Timestamp: 00:02:30
 Claim: In a clip of the Shawn Ryan interview the host plays, Brian Harpole says that for that Charlie Kirk event the hard conversations and information sharing started on the 24th of the month prior, with intelligence gathering beginning before that.
 Anchored Artifacts: A-1596.1
 Mentions: N-266, N-1, N-224
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the full Shawn Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.
 
 ---

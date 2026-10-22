@@ -1280,6 +1280,8 @@ Anchored Artifacts:
 Mentions: N-40, N-54
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the text exhibit from the court record and check the sequence and timestamps of each message.
 
 ---
@@ -1363,6 +1365,8 @@ Mentions: N-40
 Related Nodes: N-10019
 Supports: C-173
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-3, S-7
 Investigative Direction: Check the charging document and Cox's statements for the exact clothing described at each stage.
 
 ---
@@ -1588,6 +1592,8 @@ Anchored Artifacts: A-1114.1
 Mentions: N-3
 Related Nodes: N-10047
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-7
 Investigative Direction: Check the charging document for any reference to children present at the event.
 
 ---

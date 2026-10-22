@@ -1436,6 +1436,8 @@ Anchored Artifacts: A-3280.1
 Mentions: N-40
 Related Nodes: N-10140, N-10028
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2, S-3
 Investigative Direction: Check Robinson's phone location history, parking and ID records and campus camera footage for any earlier UVU visit. See the charging documents' account of how he reached the Losee Center roof.
 
 ---
@@ -1984,6 +1986,8 @@ Anchored Artifacts: A-1172.3
 Mentions: N-272, N-40
 Related Nodes: N-10932, N-10029
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-4, S-7
 Investigative Direction: Washington County Sheriff's Office intake records and building logs for the evening of September 11, 2025; the full Brooksby press-conference video.
 
 ---
@@ -2310,6 +2314,8 @@ Anchored Artifacts:
 Mentions: N-125, N-3
 Related Nodes: N-10136, N-10029
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-4
 Investigative Direction: Washington County Sheriff's Office personnel records; confirmation from court filings or Mitchell himself.
 
 ---

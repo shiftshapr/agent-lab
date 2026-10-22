@@ -3296,6 +3296,14 @@
      "v": "N-10172"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination."
     },
@@ -3346,6 +3354,14 @@
      "v": "N-10172"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare against autopsy report and forensic pathology images for exact fragment location."
     },
@@ -3394,6 +3410,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10172"
+    },
+    {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -7264,6 +7288,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
     },
     {
      "k": "Investigative Direction",

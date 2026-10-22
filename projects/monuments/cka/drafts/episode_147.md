@@ -739,6 +739,8 @@ Anchored Artifacts: A-2327, A-2328
 Mentions: N-40, N-135
 
 
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
 
 **C-12645** Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)
@@ -752,6 +754,8 @@ Mentions: N-40, N-54, N-135
 
 Related Nodes: N-10749
 
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.
 
 **C-12648** In Ruling Clip Host Plays, Judge Says "Ask for a Lawyer and Stay Silent" Advice Is Lawful Standing Alone
@@ -764,6 +768,8 @@ Anchored Artifacts: A-2327.1
 
 Related Nodes: N-10749
 
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Compare this on-record concession against the state's preserved theory of the case and any superseding indictment.
 
 **C-12646** Host Says Count 5 Is Witness Tampering for the "Delete This Exchange" Message
@@ -777,6 +783,8 @@ Mentions: N-40, N-54
 
 Related Nodes: N-10749
 
+Verification: corroborated
+Verification Evidence: S-7, S-11
 Investigative Direction: Obtain the charging document to confirm the textual basis alleged for each count.
 
 **C-12647** Host Says Judge Tied Count 6 Survival to the Existence of Count 5
@@ -790,6 +798,8 @@ Mentions: N-40, N-54
 
 Related Nodes: N-10749
 
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.
 
 **C-12649** In Arraignment Clip Host Plays, Tyler Robinson Pleads Not Guilty to All Counts
@@ -802,6 +812,8 @@ Anchored Artifacts: A-2328
 Mentions: N-40
 
 
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Verify against the court's docket entry; track any subsequent plea amendments.
 
 **C-12650** In Arraignment Clip Host Plays, Defense Waives Reading of the Information
@@ -814,6 +826,8 @@ Anchored Artifacts: A-2328
 Mentions: N-40
 
 
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information.
 
 **C-12677** Justin Davis sprinted to and opened the passenger door of a vehicle he did not arrive in
@@ -930,6 +944,8 @@ Mentions: N-1
 
 Related Nodes: N-10743
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.
 
 **C-12659** Two security team members remain unidentified
@@ -1034,6 +1050,8 @@ Mentions: N-40
 
 Related Nodes: N-10748
 
+Verification: corroborated
+Verification Evidence: S-7, S-11
 Investigative Direction: Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.
 
 **C-12712** Host Says State Has Not Identified Specific Kirk Statements Alleged to Be "Hateful"
@@ -1716,6 +1734,8 @@ Anchored Artifacts: A-2338
 Mentions: N-159, N-1, N-190
 Related Nodes: N-10651
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the full transcript of the Neff testimony and the hearing in which it was given.
 
 ---
@@ -1860,6 +1880,8 @@ Anchored Artifacts: A-2336
 Mentions: N-425, N-54, N-40
 Related Nodes: N-10748
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Check the hearing record for what Twiggs's evidence consisted of and whether it was hearsay.
 
 ---

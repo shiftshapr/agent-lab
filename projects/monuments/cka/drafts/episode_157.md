@@ -1439,6 +1439,8 @@ Mentions: N-8, N-266, N-270, N-10
 
 Related Nodes: N-10632, N-10762, N-10780
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation.
 
 ---
@@ -1469,6 +1471,8 @@ Mentions: N-8, N-1, N-10
 
 Related Nodes: N-10211, N-10614, N-10781
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.
 
 ---
@@ -1484,6 +1488,8 @@ Mentions: N-8, N-1
 
 Related Nodes: N-10229, N-10614, N-10781
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases.
 
 ---
@@ -1499,6 +1505,8 @@ Mentions: N-224, N-266
 
 Related Nodes: N-10229, N-10347, N-10783
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available.
 
 ---
@@ -1529,6 +1537,8 @@ Mentions: N-271
 
 Related Nodes: N-10782
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: FOIA/SIAC records for the tip text; correlate tip timing with any documented camera or power anomalies; assess tip credibility per SIAC disposition.
 
 ---
@@ -1544,6 +1554,8 @@ Mentions: N-270, N-271
 
 Related Nodes: N-10632, N-10762
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain ticket-platform export timestamps; compare to UVUPD incident action plan drafts; interview mutual-aid partners on whether informal notice occurred.
 
 ---
@@ -1634,6 +1646,8 @@ Transcript Snippet: essentially almost immediately UVU reached out to a third pa
 Anchored Artifacts: A-2451.1
 Mentions: 
 Related Nodes: N-10012, N-10762, N-10994
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain UVU's engagement letter or contract with Lake Forest Group and its date, scope and publication notice.
 
 ---
@@ -1649,6 +1663,8 @@ Transcript Snippet: Flood was was identified as the person who coordinated secur
 Anchored Artifacts: A-2802.5
 Mentions: N-270, N-266, N-271
 Related Nodes: N-10632
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Check the review's description of Flood's role against TPUSA staffing records and the Flood and Long phone and text logs.
 
 ---
@@ -1664,6 +1680,8 @@ Transcript Snippet: And she participated online in the major events assessment c
 Anchored Artifacts: A-2802.6
 Mentions: N-8
 Related Nodes: N-10995
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the MEAC Teams attendee log and any recording or minutes for August 25.
 
 ---
@@ -1679,6 +1697,8 @@ Transcript Snippet: a Utah riskmanagement official had communications with an ex
 Anchored Artifacts: A-2451.1
 Mentions: 
 Related Nodes: N-10780, N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Identify the Utah risk-management official and the TPUSA executive contacted, and obtain the dated correspondence.
 
 ---
@@ -1694,6 +1714,8 @@ Transcript Snippet: It is the opinion of the project team based on our review of
 Anchored Artifacts: A-2802.1
 Mentions: 
 Related Nodes: N-10762, N-10012
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Compare the page 10 executive summary wording with the Kirk-family statement blaming UVU security.
 
 ---
@@ -1709,6 +1731,8 @@ Transcript Snippet: However, several key event security decisions were deferred 
 Anchored Artifacts: A-2802.2
 Mentions: N-8
 Related Nodes: N-10995, N-10229, N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the MEAC process documents showing who held decision authority and the August 21 initiation record.
 
 ---
@@ -1724,6 +1748,8 @@ Transcript Snippet: Those decisions placed the event in an area that was more di
 Anchored Artifacts: A-2802.2
 Mentions: 
 Related Nodes: N-10229, N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Compare UVU's venue risk notes with the final attendance figures and TPUSA registration data.
 
 ---
@@ -1739,6 +1765,8 @@ Transcript Snippet: UVU should have retained decision-making authority over key 
 Anchored Artifacts: A-2802.2
 Mentions: 
 Related Nodes: N-10012, N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain UVU's event policy on who holds security decision authority for outside-organization events.
 
 ---
@@ -1800,6 +1828,8 @@ Anchored Artifacts: A-2802.3
 Mentions: N-10, N-8
 Related Nodes: N-10781, N-10614
 Supports: C-13532
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the original email with header metadata and the reply from club services.
 
 ---
@@ -1815,6 +1845,8 @@ Transcript Snippet: submits an event request and the event is described as an ap
 Anchored Artifacts: A-2802.4
 Mentions: N-1
 Related Nodes: N-10614, N-10781
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the July 18 event request form and its stated ticketing plan from UVU event services.
 
 ---
@@ -1830,6 +1862,8 @@ Transcript Snippet: On July 28th, the club's office advises that Turning Point U
 Anchored Artifacts: A-2802.4
 Mentions: 
 Related Nodes: N-10781, N-10614
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the club registration filing date and status history from UVU club services.
 
 ---
@@ -1845,6 +1879,8 @@ Transcript Snippet: at that time in response to UVU's questionnaire, TPUSA told 
 Anchored Artifacts: A-2802.4
 Mentions: 
 Related Nodes: N-10614, N-10632
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Compare the 600-attendee figure and registration counts held by TPUSA National before the event.
 
 ---
@@ -1860,6 +1896,8 @@ Transcript Snippet: the first time now it's been approved tentatively that Jeff 
 Anchored Artifacts: A-2802.4
 Mentions: N-271
 Related Nodes: N-10995, N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the August 21 event services email chain showing recipients and Chief Long's receipt.
 
 ---
@@ -1890,6 +1928,8 @@ Transcript Snippet: They have a free speech committee and they flag it because t
 Anchored Artifacts: A-2802.4
 Mentions: N-1, N-3
 Related Nodes: N-10996, N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the free speech committee's notes and the 2019 UVU event records showing protest activity.
 
 ---
@@ -1920,6 +1960,8 @@ Transcript Snippet: TPOSA advised UVU that it would have approximately eight sec
 Anchored Artifacts: A-2802.6
 Mentions: 
 Related Nodes: N-10995
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the MEAC record of the stated headcount and compare with the personnel TPUSA actually fielded on September 10.
 
 ---
@@ -1935,6 +1977,8 @@ Transcript Snippet: Chief Long requested contact with that security leadership.
 Anchored Artifacts: A-2802.6
 Mentions: N-271
 Related Nodes: N-10995
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain Chief Long's request and any reply recorded in UVU or UVUPD files.
 
 ---
@@ -1950,6 +1994,8 @@ Transcript Snippet: Then we learn that the free speech committee discussed possi
 Anchored Artifacts: A-2802.6
 Mentions: 
 Related Nodes: N-10996, N-10995
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain minutes showing the EOC discussion and any decision not to activate.
 
 ---
@@ -1965,6 +2011,8 @@ Transcript Snippet: And then on the 27th is when it's formally approved.
 Anchored Artifacts: A-2802.4
 Mentions: 
 Related Nodes: N-10614
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the formal approval record, approver and date from UVU event services.
 
 ---
@@ -1980,6 +2028,8 @@ Transcript Snippet: they had an anonymous caller that demanded that the event be
 Anchored Artifacts: A-2802.4
 Mentions: 
 Related Nodes: N-10996
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the complaint log and any record of the anonymous call.
 
 ---
@@ -1995,6 +2045,8 @@ Transcript Snippet: UVU President Tuminez requested updates regarding event plan
 Anchored Artifacts: A-2802.4
 Mentions: N-751
 Related Nodes: N-10012
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the president's office request and the response it received.
 
 ---
@@ -2010,6 +2062,8 @@ Transcript Snippet: we're a week away from this event and uh no sec I've receive
 Anchored Artifacts: A-2802.4
 Mentions: N-271
 Related Nodes: N-10995
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the September 2 Long message and any reply from Crofts or Flood.
 
 ---
@@ -2025,6 +2079,8 @@ Transcript Snippet: Dan Flood and Chief Long get on the phone for just five minu
 Anchored Artifacts: A-2802.4
 Mentions: N-270, N-271
 Related Nodes: N-10632
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the call detail records referenced by the review and any UVUPD notes of the call.
 
 ---
@@ -2040,6 +2096,8 @@ Transcript Snippet: They were really concerned about Charlie's SUV having a clea
 Anchored Artifacts: A-2802.4
 Mentions: N-270, N-1
 Related Nodes: N-10632
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Compare the September 3 call topics with the pre-event security plan, if any exists.
 
 ---
@@ -2056,6 +2114,8 @@ Anchored Artifacts: A-2802.4
 Mentions: N-1
 Related Nodes: N-10256
 Supports: C-3215
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the September 8 messages and student group message that prompted Flood's concern.
 
 ---
@@ -2088,6 +2148,8 @@ Anchored Artifacts: A-2802.9
 Mentions: N-270, N-271
 Related Nodes: N-10256
 Supports: C-3215
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the full text thread with timestamps from UVUPD.
 
 ---
@@ -2118,6 +2180,8 @@ Transcript Snippet: 9:00 a. m. the security arrives to campus.
 Anchored Artifacts: A-2802.5
 Mentions: N-271
 Related Nodes: N-10632
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the review's arrival log and any gate or parking records for the security team.
 
 ---
@@ -2133,6 +2197,8 @@ Transcript Snippet: At 9:04, uh Dan Flood texts Chief Long advising that the res
 Anchored Artifacts: A-2802.5, A-2802.9
 Mentions: N-270, N-271
 Related Nodes: N-10256
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the 9:04 text and the subsequent thread on the Hall of Flags walkway.
 
 ---
@@ -2148,6 +2214,8 @@ Transcript Snippet: Additional Charlie Kirk staff arrive onto campus at 9:28.
 Anchored Artifacts: A-2802.5
 Mentions: N-1
 Related Nodes: 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the staff call sheet and identify who arrived at 9:28 and 10:28.
 
 ---
@@ -2179,6 +2247,8 @@ Anchored Artifacts: A-2802.5
 Mentions: N-271
 Related Nodes: N-10762
 Qualifies: C-13551
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the 11:00 request and staffing records showing who asked for additional officers.
 
 ---
@@ -2194,6 +2264,8 @@ Transcript Snippet: at 10:49, uh, Chief Long texted Dan Flood to meet at the Hal
 Anchored Artifacts: A-2802.5
 Mentions: N-270, N-271
 Related Nodes: N-10256
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the 10:49 text and any reply from Flood explaining why the meeting did not occur.
 
 ---
@@ -2209,6 +2281,8 @@ Transcript Snippet: That's between 11:20 and 11:30 and that the protesters did m
 Anchored Artifacts: A-2802.5
 Mentions: 
 Related Nodes:
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Compare the review's protester timeline with video of the Hall of Flags walkway between 11:20 and 11:30.
 
 ---
@@ -2224,6 +2298,8 @@ Transcript Snippet: Chief Long goes up to the second floor of the Fugal Gateway 
 Anchored Artifacts: A-2802.5
 Mentions: N-271
 Related Nodes: N-10992
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the command post log and a floor plan with sight lines from the Fugal Gateway second floor.
 
 ---
@@ -2239,6 +2315,8 @@ Transcript Snippet: when they Charlie got to the hospital, there was a fire chie
 Anchored Artifacts: A-2802.5
 Mentions: N-1
 Related Nodes: N-10625, N-10636
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the review's emergency response section and hospital arrival records naming who performed CPR.
 
 ---
@@ -2255,6 +2333,8 @@ Anchored Artifacts: A-2802.6
 Mentions: 
 Related Nodes: N-10995, N-10229
 Supports: C-13566
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain MEAC participant statements naming who proposed each alternative site.
 
 ---
@@ -2270,6 +2350,8 @@ Transcript Snippet: She said that she preferred that TPUSA manage online ticketi
 Anchored Artifacts: A-2802.6
 Mentions: N-8, N-750
 Related Nodes: N-10995
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain Emer's statements to the review team on her reservations and the committee's decision rationale.
 
 ---
@@ -2300,6 +2382,8 @@ Transcript Snippet: indicating that it provided answers straight from the TPUSA 
 Anchored Artifacts: A-2802.7
 Mentions: N-10
 Related Nodes: N-10781
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the questionnaire and email with attachments and metadata.
 
 ---
@@ -2315,6 +2399,8 @@ Transcript Snippet: Straight from the TPUSA team, 600 attendees, primarily stude
 Anchored Artifacts: A-2802.7
 Mentions: N-10
 Related Nodes: N-10763, N-10781
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the questionnaire and compare its EMS answer with UVU's actual medical staffing on September 10.
 
 ---
@@ -2331,6 +2417,8 @@ Anchored Artifacts: A-2802.8
 Mentions: N-271
 Related Nodes: N-10782
 Supports: C-13555
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Request the SIAC response and the prior unreliable-tip history from Utah SIAC.
 
 ---
@@ -2347,6 +2435,8 @@ Anchored Artifacts: A-2802.9
 Mentions: N-270, N-271
 Related Nodes: N-10256
 Supports: C-3215
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the complete thread and the student group message Flood forwarded.
 
 ---
@@ -2393,6 +2483,8 @@ Transcript Snippet: Harpole stated that his first meeting to discuss September 1
 Anchored Artifacts: A-2802.10
 Mentions: N-266
 Related Nodes: N-10783
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Locate the Shawn Ryan timestamp for the August 24 statement and any TPUSA calendar records.
 
 ---
@@ -2408,6 +2500,8 @@ Transcript Snippet: Harpole stated that when he and his team arrived at UVU a fe
 Anchored Artifacts: A-2802.10
 Mentions: N-266, N-1
 Related Nodes: N-10783
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Locate the Shawn Ryan timestamp and check whether Harpole's team raised the concern to UVUPD that day.
 
 ---
@@ -2423,6 +2517,8 @@ Transcript Snippet: Flood did not share any specific security concerns or threat
 Anchored Artifacts: A-2802.10
 Mentions: N-266, N-270
 Related Nodes: N-10783
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Compare Harpole's statement with the Flood and Harpole communications for September 1 to 10.
 
 ---
@@ -2438,6 +2534,8 @@ Transcript Snippet: In the podcast, Harpole gave no indication that he considere
 Anchored Artifacts: A-2802.10
 Mentions: N-266
 Related Nodes: N-10783
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Ask UVUPD and Integrity Solutions for any record of a requested site walkthrough or briefing.
 
 ---
@@ -2454,6 +2552,8 @@ Anchored Artifacts: A-2802.11
 Mentions: N-266
 Related Nodes: N-10589, N-10783, N-10071
 Qualifies: C-3106
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the TPUSA video team's drone flight logs and FAA authorization for September 10.
 
 ---
@@ -2469,6 +2569,8 @@ Transcript Snippet: a drone from the neighboring Orem Police Department could ha
 Anchored Artifacts: A-2802.11
 Mentions: N-266
 Related Nodes: N-10124, N-10589
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Ask Orem Police for any record of a drone request or availability on September 10.
 
 ---
@@ -2484,6 +2586,8 @@ Transcript Snippet: Officer Bagley identified the elevated roof area of the Loy 
 Anchored Artifacts: A-2802.12
 Mentions: N-506
 Related Nodes: N-10660
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain Bagley's report and dispatch audio showing when he made the suggestion.
 
 ---
@@ -2499,6 +2603,8 @@ Transcript Snippet: he locates a screwdriver and an area of disturbed gravel on 
 Anchored Artifacts: A-2802.12
 Mentions: N-506
 Related Nodes: N-10660
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the evidence log and photographs of the screwdriver and gravel location.
 
 ---
@@ -2544,6 +2650,8 @@ Transcript Snippet: There was limited time between chief long first learning of 
 Anchored Artifacts: A-2802.13
 Mentions: N-271
 Related Nodes: N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Compare the August 21 notice date to UVU's normal lead time for major events.
 
 ---
@@ -2559,6 +2667,8 @@ Transcript Snippet: Coordination with TPUSA security team was very limited and d
 Anchored Artifacts: A-2802.13
 Mentions: N-266, N-270
 Related Nodes: N-10762, N-10632
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Request any briefing agenda, attendance or site walk records from UVUPD and TPUSA.
 
 ---
@@ -2574,6 +2684,8 @@ Transcript Snippet: There also was not a dedicated assignment for real-time secu
 Anchored Artifacts: A-2802.13
 Mentions: 
 Related Nodes: N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Review UVU camera system access logs and dispatch staffing for September 10.
 
 ---
@@ -2589,6 +2701,8 @@ Transcript Snippet: we learned that Turning Point never actually issued any tick
 Anchored Artifacts: A-2802.14
 Mentions: 
 Related Nodes: N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the registration platform data and communications showing what was shared with UVUPD.
 
 ---
@@ -2604,6 +2718,8 @@ Transcript Snippet: The review states that there was no formal credentiing proce
 Anchored Artifacts: A-2802.14
 Mentions: 
 Related Nodes: N-10993, N-10762
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the review's access control section and TPUSA wristband distribution records.
 
 ---
@@ -2999,6 +3115,8 @@ Transcript Snippet: UVU police ask her for a TPUSA security contact. None is pro
 Anchored Artifacts: A-2456.1
 Mentions: N-8, N-271, N-10
 Related Nodes: N-10995
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain UVUPD's requests to Crofts and Chilcutt and any replies.
 
 ---

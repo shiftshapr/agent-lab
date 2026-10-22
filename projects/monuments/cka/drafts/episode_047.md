@@ -2988,6 +2988,8 @@ Anchored Artifacts:
 Mentions: N-266, N-270, N-3
 Related Nodes: N-10256, N-10333
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the original message metadata and any UVU security walk-through logs.
 
 ---
@@ -3036,6 +3038,8 @@ Anchored Artifacts: A-1544.1
 Mentions: N-40
 Related Nodes: N-10316
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Read the charging document passage in the court filing to confirm the wording.
 
 ---
@@ -3052,6 +3056,8 @@ Anchored Artifacts: A-1544.1
 Mentions: N-40, N-1
 Related Nodes: N-10316, N-10012
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Read the charging document passage in the court filing to confirm the wording.
 
 ---

@@ -1333,6 +1333,8 @@ Claim: Sheriff Brooksby stated that within the hour, his friend drove Tyler Robi
 Anchored Artifacts: A-1908.2
 Mentions: N-40, N-272
 Related Nodes: N-10021
+Verification: corroborated
+Verification Evidence: S-4, S-7
 Investigative Direction: Verify against court records and other accounts.
 
 ---
@@ -2198,6 +2200,8 @@ Anchored Artifacts:
 Mentions: N-272, N-40
 Related Nodes: N-10029, N-11360
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3, S-4
 Investigative Direction: Check Brooksby's September 2025 press conferences and statements for his role and timing.
 
 ---

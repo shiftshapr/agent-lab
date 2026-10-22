@@ -1091,6 +1091,8 @@ Anchored Artifacts:
 Mentions: N-40, N-834, N-3
 Related Nodes: N-10028, N-10772
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2, S-3
 Investigative Direction: Charging documents and campus video establishing where Robinson was relative to the Woodbury Business Building.
 
 ---

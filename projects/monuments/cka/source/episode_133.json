@@ -3508,6 +3508,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Request the full list of detentions and arrests from Utah County and federal agencies for September 10 to 12, 2025."
     },
@@ -4000,6 +4008,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare gait before and after the rooftop frame by frame, with an independent gait or biomechanics expert."
     },
@@ -4124,6 +4140,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-7"
     },
     {
      "k": "Investigative Direction",

@@ -1819,8 +1819,11 @@
         "N-899",
         "N-861"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-2",
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2528,8 +2531,10 @@
         "N-40",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2557,8 +2562,11 @@
         "N-40",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3",
+        "S-7"
+      ]
     },
     {
       "@type": "Claim",

@@ -878,6 +878,8 @@ Claim: In a hearing clip the host plays, Sergeant Faumuina testifies that office
 Anchored Artifacts: A-2139.1
 Mentions: N-505
 Related Nodes: N-10653, N-10654
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody.
 
 ---
@@ -891,6 +893,8 @@ Claim: In a hearing clip the host plays, Sergeant Faumuina agrees that the seize
 Anchored Artifacts: A-2139.2
 Mentions: N-505
 Related Nodes: N-10654
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain FBI/ATF lab correspondence and UVU communications log for the testing discontinuation instruction.
 
 ---
@@ -1186,6 +1190,8 @@ Anchored Artifacts: A-2139.1
 Mentions: N-505
 Related Nodes: N-10653, N-10654
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the hearing transcript and the evidence item log for the library bus stop seizures to establish the item count.
 
 ---
@@ -1202,6 +1208,8 @@ Anchored Artifacts: A-2139.2
 Mentions: N-505
 Related Nodes: N-10654
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the FBI lab request forms and chain-of-custody sheets for the items to see which analyses were requested.
 
 ---
@@ -1219,6 +1227,8 @@ Mentions: N-505
 Related Nodes: N-10654, N-10896
 Qualifies: C-10782
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the FBI and ATF lab notes and reports referenced by the questioner, and the UVU communication that closed the testing request.
 
 ---
@@ -1564,6 +1574,8 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-11116, N-10685
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-4
 Investigative Direction: Locate the hearing testimony on the .223 round, its recovery location, chain of custody and any lab analysis.
 
 ---
@@ -2132,6 +2144,8 @@ Anchored Artifacts: A-2976.3
 Mentions: N-40
 Related Nodes: N-10095
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Find the cited Robinson text messages in the charging documents and identify who was interrogated.
 
 ---

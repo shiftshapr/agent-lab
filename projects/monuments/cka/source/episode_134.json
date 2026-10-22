@@ -6042,6 +6042,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2, S-3, S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Review the exhibit list and item logs for any screwdriver recovered from the roof."
     },
@@ -6223,6 +6231,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
     },
     {
      "k": "Investigative Direction",
@@ -6977,6 +6993,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2, S-3"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare exhibits and property logs with that claim."
     },
@@ -7329,6 +7353,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7, S-11"
     },
     {
      "k": "Investigative Direction",

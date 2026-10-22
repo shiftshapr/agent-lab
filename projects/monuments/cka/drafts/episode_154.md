@@ -1089,6 +1089,8 @@ Anchored Artifacts: A-2393.1
 Mentions: N-3
 Related Nodes: N-10012, N-10068, N-10763
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the UVU event request form and its submission metadata to confirm the date.
 
 ---
@@ -1155,6 +1157,8 @@ Anchored Artifacts: A-2393.1
 Mentions: N-271, N-1, N-3
 Related Nodes: N-10012, N-10763
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain the UVU police staffing plan and the press conference recording.
 
 ---
@@ -1187,6 +1191,8 @@ Anchored Artifacts: A-2393.1
 Mentions: N-3
 Related Nodes: N-10012, N-10028
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the unredacted UVU email and the reply to learn who suggested the move and why it was not adopted.
 
 ---
@@ -1204,6 +1210,8 @@ Mentions: N-3
 Related Nodes: N-10000, N-10068, N-10763
 Supports: C-13293
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Ask UVU for the identities and deployment of the two medical personnel and their incident log.
 
 ---

@@ -764,6 +764,8 @@ Transcript Snippet: Actually, Frank Chirico and the security team should have be
 
 Anchored Artifacts:
 Mentions: N-7, N-1
+Verification: corroborated
+Verification Evidence: S-2, S-12
 Investigative Direction: Obtain Timpanogos Hospital arrival records and the security team's call logs for September 10, 2025.
 
 ---
@@ -1227,6 +1229,8 @@ Transcript Snippet: Um here's 31. Case in point, the FBI DNA report, right? The 
 Anchored Artifacts: A-2606.4
 Mentions: N-40
 Related Nodes: N-10014, N-10707
+Verification: corroborated
+Verification Evidence: S-3, S-7
 Investigative Direction: Obtain the filing's exhibit list and the FBI laboratory report once unsealed.
 
 ---

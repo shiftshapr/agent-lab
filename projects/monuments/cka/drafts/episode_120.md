@@ -975,6 +975,8 @@ Mentions: N-40, N-54, N-135
 
 Related Nodes: N-10617
 
+Verification: corroborated
+Verification Evidence: S-7, S-8
 Investigative Direction: Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings.
 
 ---
@@ -990,6 +992,8 @@ Mentions: N-40, N-54
 
 Related Nodes: N-10617
 
+Verification: corroborated
+Verification Evidence: S-8
 Investigative Direction: Obtain the preliminary-hearing scheduling order and any associated evidentiary rulings to confirm the recorded-statement procedure and the recorded-statement transcript.
 
 ---
@@ -1142,6 +1146,8 @@ Transcript Snippet: according to Brian Harpole, who joined Shawn Ryan for a car 
 Anchored Artifacts: A-2085.1
 Mentions: N-266, N-224, N-3
 Related Nodes: N-10593
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the complaint and identify which statements about the Shawn Ryan interview are at issue.
 
 ---
@@ -1447,6 +1453,8 @@ Transcript Snippet: It explains why there was unusually no ambulance on standby.
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10763
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain UVU's event safety plan and any medical-standby contract for the Sept 10 event.
 
 ---

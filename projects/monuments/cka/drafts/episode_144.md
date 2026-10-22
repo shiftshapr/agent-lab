@@ -772,6 +772,8 @@ Mentions: N-3
 
 Related Nodes: N-10734, N-10735
 
+Verification: corroborated
+Verification Evidence: S-2, S-3
 Investigative Direction: Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.
 
 ---
@@ -1274,6 +1276,8 @@ Transcript Snippet: Sergeant Mark Bricker of the SBI was put in charge of gather
 Anchored Artifacts: A-2304.1
 Mentions: N-860, N-578, N-3
 Related Nodes: N-10734, N-10735
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain the preliminary hearing transcript for Hull's chain-of-custody testimony on surveillance collection.
 
 ---

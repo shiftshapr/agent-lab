@@ -1424,6 +1424,8 @@ Anchored Artifacts:
 Mentions: N-506, N-40
 Related Nodes: N-10040, N-10165
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2, S-3
 Investigative Direction: Pull Bagley's preliminary hearing testimony on how he linked the two figures.
 
 ---

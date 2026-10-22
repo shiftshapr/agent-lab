@@ -1487,6 +1487,8 @@ Anchored Artifacts: A-2153.1
 Mentions: N-153, N-1
 Related Nodes: N-10668
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2
 Investigative Direction: Compare with the UVU and bystander video of the first minute after the shot, and ask O'Neill for his source on the SIM card and camera removal.
 
 ---
@@ -1844,6 +1846,8 @@ Anchored Artifacts:
 Mentions: N-505, N-3
 Related Nodes: N-10654
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Pull Faumuina's testimony or interview where she said she did not recall and the evidence-handling forms.
 
 ---
@@ -2250,6 +2254,8 @@ Anchored Artifacts: A-2161.1
 Mentions: N-7, N-224, N-266
 Related Nodes: N-10619
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Check the Shawn Ryan Show episode length and date.
 
 ---

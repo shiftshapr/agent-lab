@@ -1041,6 +1041,8 @@ Mentions: N-266, N-224
 
 Related Nodes: N-10251
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording.
 
 ---
