@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 369,
+  "next_id": 370,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -3157,6 +3157,14 @@
       "definition": "",
       "context": "cka",
       "first_episode": 167
+    },
+    "M-369": {
+      "canonical_term": "(meme) Slender Man",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 168
     }
   },
   "types": {

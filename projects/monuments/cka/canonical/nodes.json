@@ -3,8 +3,8 @@
   "updated": "2026-10-08T20:15:25Z",
   "monument": "cka",
   "remap_note": "2026-10-13 (Daveed): ids compacted with no holes and no tombstones. Persons N-1..N-606, topic/org/place N-10000..N-10902; old to new ids in audits/id_compaction_2026-10-13/id_map.csv. Earlier remap history (BoC remap, batches 1-2, catch-up, waves 1-3) is in git history and the audits folders, which keep the ids of their time.",
-  "next_person_id": 972,
-  "next_investigation_id": 11362,
+  "next_person_id": 984,
+  "next_investigation_id": 11371,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -179,7 +179,9 @@
         164,
         165,
         166,
-        167
+        167,
+        168,
+        169
       ]
     },
     "N-2": {
@@ -337,7 +339,9 @@
         164,
         165,
         166,
-        167
+        167,
+        168,
+        169
       ]
     },
     "N-3": {
@@ -511,7 +515,9 @@
         164,
         165,
         166,
-        167
+        167,
+        168,
+        169
       ]
     },
     "N-4": {
@@ -549,7 +555,8 @@
         159,
         161,
         163,
-        164
+        164,
+        169
       ]
     },
     "N-5": {
@@ -649,7 +656,9 @@
         164,
         165,
         166,
-        167
+        167,
+        168,
+        169
       ]
     },
     "N-6": {
@@ -815,7 +824,8 @@
         157,
         159,
         160,
-        165
+        165,
+        169
       ]
     },
     "N-10": {
@@ -895,7 +905,8 @@
         157,
         162,
         166,
-        167
+        167,
+        168
       ]
     },
     "N-12": {
@@ -1168,7 +1179,8 @@
         158,
         159,
         161,
-        166
+        166,
+        169
       ]
     },
     "N-19": {
@@ -1288,7 +1300,9 @@
         156,
         157,
         158,
-        159
+        159,
+        168,
+        169
       ]
     },
     "N-23": {
@@ -1318,7 +1332,9 @@
         154,
         159,
         160,
-        164
+        164,
+        168,
+        169
       ]
     },
     "N-26": {
@@ -1428,7 +1444,8 @@
         152,
         158,
         161,
-        162
+        162,
+        169
       ]
     },
     "N-31": {
@@ -1475,7 +1492,8 @@
         99,
         104,
         106,
-        133
+        133,
+        168
       ]
     },
     "N-34": {
@@ -1485,7 +1503,8 @@
       "episodes": [
         1,
         28,
-        106
+        106,
+        168
       ]
     },
     "N-35": {
@@ -1781,7 +1800,9 @@
         162,
         164,
         166,
-        167
+        167,
+        168,
+        169
       ]
     },
     "N-41": {
@@ -2012,7 +2033,8 @@
         75,
         78,
         127,
-        131
+        131,
+        168
       ]
     },
     "N-51": {
@@ -2076,7 +2098,8 @@
         149,
         152,
         155,
-        156
+        156,
+        169
       ]
     },
     "N-55": {
@@ -2210,7 +2233,8 @@
         153,
         155,
         160,
-        162
+        162,
+        169
       ]
     },
     "N-61": {
@@ -2256,7 +2280,8 @@
       "episodes": [
         3,
         7,
-        50
+        50,
+        168
       ]
     },
     "N-65": {
@@ -2407,7 +2432,8 @@
         159,
         160,
         161,
-        166
+        166,
+        168
       ]
     },
     "N-70": {
@@ -2720,7 +2746,8 @@
         7,
         26,
         159,
-        166
+        166,
+        169
       ]
     },
     "N-96": {
@@ -3056,7 +3083,8 @@
       "episodes": [
         10,
         26,
-        161
+        161,
+        169
       ]
     },
     "N-120": {
@@ -3182,7 +3210,8 @@
         133,
         142,
         160,
-        162
+        162,
+        168
       ]
     },
     "N-131": {
@@ -3558,7 +3587,8 @@
         162,
         163,
         164,
-        165
+        165,
+        168
       ]
     },
     "N-160": {
@@ -3579,7 +3609,8 @@
       "aliases": [],
       "episodes": [
         17,
-        50
+        50,
+        168
       ]
     },
     "N-162": {
@@ -3610,7 +3641,8 @@
         124,
         129,
         139,
-        147
+        147,
+        169
       ]
     },
     "N-164": {
@@ -3970,7 +4002,8 @@
         161,
         163,
         164,
-        166
+        166,
+        168
       ]
     },
     "N-191": {
@@ -4113,7 +4146,8 @@
       "episodes": [
         139,
         147,
-        160
+        160,
+        169
       ]
     },
     "N-203": {
@@ -4269,7 +4303,8 @@
         102,
         104,
         109,
-        160
+        160,
+        168
       ]
     },
     "N-214": {
@@ -4436,7 +4471,8 @@
         158,
         162,
         163,
-        166
+        166,
+        169
       ]
     },
     "N-225": {
@@ -4478,7 +4514,8 @@
         39,
         46,
         83,
-        157
+        157,
+        169
       ]
     },
     "N-228": {
@@ -4561,7 +4598,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        29
+        29,
+        168
       ]
     },
     "N-237": {
@@ -5226,7 +5264,8 @@
         145,
         146,
         160,
-        161
+        161,
+        169
       ]
     },
     "N-282": {
@@ -5382,7 +5421,8 @@
         114,
         119,
         130,
-        161
+        161,
+        168
       ]
     },
     "N-299": {
@@ -5718,7 +5758,9 @@
         160,
         164,
         166,
-        167
+        167,
+        168,
+        169
       ]
     },
     "N-331": {
@@ -5994,7 +6036,8 @@
         "Robert F. Kennedy Junior"
       ],
       "episodes": [
-        161
+        161,
+        169
       ]
     },
     "N-359": {
@@ -6120,7 +6163,8 @@
         140,
         151,
         155,
-        160
+        160,
+        168
       ]
     },
     "N-367": {
@@ -6260,7 +6304,8 @@
         136,
         137,
         157,
-        159
+        159,
+        168
       ]
     },
     "N-379": {
@@ -7273,7 +7318,8 @@
         74,
         99,
         145,
-        148
+        148,
+        169
       ]
     },
     "N-487": {
@@ -7509,7 +7555,9 @@
         151,
         152,
         153,
-        157
+        157,
+        168,
+        169
       ]
     },
     "N-507": {
@@ -8103,7 +8151,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        76
+        76,
+        169
       ]
     },
     "N-571": {
@@ -10418,7 +10467,8 @@
       "aliases": [],
       "episodes": [
         94,
-        142
+        142,
+        168
       ]
     },
     "N-827": {
@@ -11418,7 +11468,9 @@
         164,
         165,
         166,
-        167
+        167,
+        168,
+        169
       ],
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
@@ -11550,7 +11602,8 @@
       "episodes": [
         1,
         62,
-        87
+        87,
+        168
       ],
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
@@ -11678,7 +11731,9 @@
         164,
         165,
         166,
-        167
+        167,
+        168,
+        169
       ],
       "schema_org": "CollegeOrUniversity",
       "wikidata_class": "Q3918"
@@ -11699,7 +11754,8 @@
         146,
         161,
         166,
-        167
+        167,
+        169
       ],
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
@@ -11743,7 +11799,8 @@
         139,
         142,
         151,
-        152
+        152,
+        168
       ],
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
@@ -12385,7 +12442,8 @@
         5,
         6,
         7,
-        126
+        126,
+        169
       ],
       "schema_org": "Thing",
       "parent": "N-10032"
@@ -12498,7 +12556,8 @@
         33,
         122,
         133,
-        148
+        148,
+        168
       ],
       "schema_org": "Thing"
     },
@@ -12750,7 +12809,8 @@
         133,
         154,
         159,
-        165
+        165,
+        168
       ],
       "schema_org": "LandmarksOrHistoricalBuildings",
       "wikidata_class": "Q41176"
@@ -12849,7 +12909,8 @@
         81,
         87,
         133,
-        160
+        160,
+        168
       ],
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
@@ -12938,7 +12999,9 @@
         134,
         137,
         141,
-        156
+        156,
+        168,
+        169
       ],
       "schema_org": "Question",
       "parent": "N-10106"
@@ -13237,7 +13300,8 @@
         134,
         137,
         144,
-        160
+        160,
+        168
       ],
       "schema_org": "Thing"
     },
@@ -13954,7 +14018,8 @@
         33,
         47,
         90,
-        167
+        167,
+        168
       ],
       "schema_org": "Thing"
     },
@@ -14330,7 +14395,8 @@
         62,
         63,
         68,
-        105
+        105,
+        169
       ],
       "schema_org": "Question"
     },
@@ -15800,7 +15866,8 @@
       "episodes": [
         43,
         105,
-        133
+        133,
+        168
       ],
       "schema_org": "Thing",
       "parent": "N-10058"
@@ -15877,7 +15944,8 @@
         157,
         159,
         160,
-        165
+        165,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -16296,7 +16364,8 @@
         111,
         112,
         120,
-        134
+        134,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -19036,7 +19105,8 @@
         124,
         138,
         139,
-        156
+        156,
+        169
       ],
       "schema_org": "Question"
     },
@@ -19143,7 +19213,8 @@
         92,
         93,
         94,
-        96
+        96,
+        169
       ],
       "schema_org": "Question"
     },
@@ -19186,7 +19257,8 @@
       "episodes": [
         81,
         92,
-        142
+        142,
+        169
       ],
       "schema_org": "Question"
     },
@@ -19460,7 +19532,8 @@
         109,
         111,
         112,
-        167
+        167,
+        169
       ],
       "schema_org": "Question"
     },
@@ -20207,7 +20280,8 @@
         120,
         122,
         124,
-        135
+        135,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -20478,7 +20552,8 @@
         137,
         141,
         152,
-        157
+        157,
+        168
       ],
       "schema_org": "Question"
     },
@@ -20764,7 +20839,9 @@
         127,
         133,
         135,
-        137
+        137,
+        168,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -20983,7 +21060,8 @@
       "aliases": [],
       "episodes": [
         127,
-        137
+        137,
+        168
       ],
       "schema_org": "Question"
     },
@@ -21477,7 +21555,9 @@
       "episodes": [
         151,
         166,
-        167
+        167,
+        168,
+        169
       ],
       "schema_org": "Event",
       "wikidata_class": "Q1656682",
@@ -21530,7 +21610,8 @@
         117,
         152,
         165,
-        167
+        167,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -21686,7 +21767,8 @@
       "type": "investigation_question",
       "aliases": [],
       "episodes": [
-        155
+        155,
+        169
       ],
       "schema_org": "Question",
       "parent": "N-10773"
@@ -21718,7 +21800,8 @@
         125,
         126,
         155,
-        156
+        156,
+        169
       ],
       "schema_org": "Question"
     },
@@ -21962,7 +22045,9 @@
         154,
         159,
         160,
-        164
+        164,
+        168,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -21973,7 +22058,8 @@
       "episodes": [
         153,
         154,
-        159
+        159,
+        168
       ],
       "schema_org": "Thing"
     },
@@ -22116,7 +22202,8 @@
         145,
         146,
         160,
-        161
+        161,
+        169
       ],
       "schema_org": "SocialMediaPosting"
     },
@@ -22185,7 +22272,9 @@
         157,
         158,
         160,
-        161
+        161,
+        168,
+        169
       ],
       "schema_org": "GovernmentOrganization",
       "wikidata_class": "Q43229"
@@ -22382,7 +22471,8 @@
         148,
         151,
         155,
-        159
+        159,
+        168
       ],
       "schema_org": "Organization",
       "wikidata_class": "Q4830453"
@@ -22652,7 +22742,8 @@
         118,
         122,
         161,
-        167
+        167,
+        168
       ],
       "schema_org": "Message",
       "parent": "N-10582"
@@ -22684,7 +22775,8 @@
         157,
         159,
         166,
-        167
+        167,
+        169
       ],
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
@@ -22843,7 +22935,8 @@
       "type": "organization",
       "aliases": [],
       "episodes": [
-        106
+        106,
+        168
       ],
       "schema_org": "Organization",
       "wikidata_class": "Q4830453"
@@ -24760,7 +24853,8 @@
         7,
         53,
         64,
-        98
+        98,
+        168
       ],
       "schema_org": "Thing"
     },
@@ -24890,7 +24984,8 @@
         89,
         93,
         128,
-        136
+        136,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -25098,7 +25193,8 @@
         138,
         139,
         146,
-        155
+        155,
+        168
       ],
       "schema_org": "Event",
       "wikidata_class": "Q1656682"
@@ -25641,7 +25737,8 @@
       "type": "investigation_question",
       "aliases": [],
       "episodes": [
-        126
+        126,
+        168
       ],
       "schema_org": "Question"
     },
@@ -26039,7 +26136,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        37
+        37,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -26646,7 +26744,8 @@
       "aliases": [],
       "episodes": [
         92,
-        167
+        167,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -26809,7 +26908,9 @@
         153,
         154,
         166,
-        167
+        167,
+        168,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -26837,7 +26938,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        155
+        155,
+        169
       ],
       "schema_org": "Thing"
     },
@@ -27282,7 +27384,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        139
+        139,
+        169
       ],
       "schema_org": "Thing",
       "parent": "N-11178"
@@ -27446,7 +27549,8 @@
         18,
         22,
         48,
-        160
+        160,
+        168
       ],
       "schema_org": "Thing"
     },
@@ -28155,7 +28259,8 @@
         164,
         165,
         166,
-        167
+        167,
+        168
       ]
     },
     "N-11338": {
@@ -28194,7 +28299,8 @@
         164,
         165,
         166,
-        167
+        167,
+        168
       ],
       "schema_org": "Question"
     },
@@ -28203,7 +28309,8 @@
       "type": "event",
       "aliases": [],
       "episodes": [
-        164
+        164,
+        169
       ],
       "schema_org": "Event",
       "wikidata_class": "Q1656682"
@@ -28546,6 +28653,181 @@
         140,
         143,
         152
+      ]
+    },
+    "N-972": {
+      "canonical_name": "Lee Harvey Oswald",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        48,
+        87,
+        168
+      ]
+    },
+    "N-973": {
+      "canonical_name": "Carl Bernstein",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        168
+      ]
+    },
+    "N-974": {
+      "canonical_name": "Loretta Cole",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        168
+      ]
+    },
+    "N-975": {
+      "canonical_name": "Kimberly Guilfoyle",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        168
+      ]
+    },
+    "N-976": {
+      "canonical_name": "Eric Deters",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        168
+      ]
+    },
+    "N-11362": {
+      "canonical_name": "Losee Rooftop Return Figure (\"Slender Man\") Identification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        168,
+        169
+      ]
+    },
+    "N-11363": {
+      "canonical_name": "Kimberly Guilfoyle Greece Ambassadorship Exit",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        168
+      ]
+    },
+    "N-977": {
+      "canonical_name": "Zee Cohen-Sanchez",
+      "type": "person",
+      "aliases": [
+        "Z Cohen"
+      ],
+      "episodes": [
+        169
+      ]
+    },
+    "N-978": {
+      "canonical_name": "Tammy Peters",
+      "type": "person",
+      "aliases": [
+        "Jamie Peters"
+      ],
+      "episodes": [
+        169
+      ]
+    },
+    "N-979": {
+      "canonical_name": "Michelle Obama",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-980": {
+      "canonical_name": "Amy Acton",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-981": {
+      "canonical_name": "Donna Arthur",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-982": {
+      "canonical_name": "Paul Gosar",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-983": {
+      "canonical_name": "Mary Trump",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-11364": {
+      "canonical_name": "Unfuck America Tour",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-11365": {
+      "canonical_name": "University of Nevada, Las Vegas",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-11366": {
+      "canonical_name": "Fayetteville Christian School",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-11367": {
+      "canonical_name": "CityView",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-11368": {
+      "canonical_name": "Tyler Robinson Trial-Setting Hearing Broadcast Ban",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-11369": {
+      "canonical_name": "Ramaswamy Campaign Amy Acton Mother Attack Ad",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        169
+      ]
+    },
+    "N-11370": {
+      "canonical_name": "Fort Bragg",
+      "type": "place",
+      "aliases": [],
+      "episodes": [
+        169
       ]
     }
   }

@@ -1026,11 +1026,13 @@
    "C-10859",
    "C-11666",
    "C-11787",
-   "C-11820"
+   "C-11820",
+   "C-14505",
+   "C-14595"
   ],
   "tips": [],
   "first_raised": "2025-09-15",
-  "last_raised": "2026-08-04"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-27",
@@ -1098,13 +1100,15 @@
    "C-11529",
    "C-11575",
    "C-11577",
-   "C-11590"
+   "C-11590",
+   "C-14521",
+   "C-14596"
   ],
   "tips": [
    "C-512"
   ],
   "first_raised": "2025-09-15",
-  "last_raised": "2026-07-29"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-28",
@@ -4718,11 +4722,12 @@
    "C-1216",
    "C-1219",
    "C-1230",
-   "C-1317"
+   "C-1317",
+   "C-14647"
   ],
   "tips": [],
   "first_raised": "2025-10-01",
-  "last_raised": "2025-10-02"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-155",
@@ -5251,11 +5256,12 @@
    "C-11986",
    "C-11987",
    "C-11991",
-   "C-12110"
+   "C-12110",
+   "C-14593"
   ],
   "tips": [],
   "first_raised": "2025-10-07",
-  "last_raised": "2026-08-10"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-175",
@@ -6241,11 +6247,12 @@
    "C-13116",
    "C-13117",
    "C-13118",
-   "C-13119"
+   "C-13119",
+   "C-14525"
   ],
   "tips": [],
   "first_raised": "2025-10-27",
-  "last_raised": "2026-09-15"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-214",
@@ -6264,11 +6271,12 @@
    "C-1743",
    "C-1900",
    "C-1904",
-   "C-1909"
+   "C-1909",
+   "C-14525"
   ],
   "tips": [],
   "first_raised": "2025-10-27",
-  "last_raised": "2025-10-28"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-215",
@@ -6395,11 +6403,12 @@
    "C-2057",
    "C-12513",
    "C-12514",
-   "C-12590"
+   "C-12590",
+   "C-14640"
   ],
   "tips": [],
   "first_raised": "2025-10-27",
-  "last_raised": "2026-09-01"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-220",
@@ -7297,11 +7306,12 @@
    "C-11543",
    "C-11544",
    "C-11545",
-   "C-11546"
+   "C-11546",
+   "C-14646"
   ],
   "tips": [],
   "first_raised": "2025-11-03",
-  "last_raised": "2026-07-29"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-254",
@@ -8653,11 +8663,12 @@
    "C-2773"
   ],
   "claims": [
-   "C-2773"
+   "C-2773",
+   "C-14640"
   ],
   "tips": [],
   "first_raised": "2025-11-13",
-  "last_raised": "2025-11-13"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-312",
@@ -20175,11 +20186,13 @@
    "C-8303",
    "C-8411",
    "C-8412",
-   "C-8586"
+   "C-8586",
+   "C-14585",
+   "C-14586"
   ],
   "tips": [],
   "first_raised": "2026-04-15",
-  "last_raised": "2026-04-29"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-806",
@@ -20231,13 +20244,14 @@
    "C-8411",
    "C-8417",
    "C-8419",
-   "C-8423"
+   "C-8423",
+   "C-14586"
   ],
   "tips": [
    "C-8233"
   ],
   "first_raised": "2026-04-15",
-  "last_raised": "2026-04-20"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-808",
@@ -20284,11 +20298,12 @@
    "C-8245"
   ],
   "claims": [
-   "C-8245"
+   "C-8245",
+   "C-14575"
   ],
   "tips": [],
   "first_raised": "2026-04-15",
-  "last_raised": "2026-04-15"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-811",
@@ -20359,11 +20374,12 @@
   "claims": [
    "C-8269",
    "C-8270",
-   "C-8275"
+   "C-8275",
+   "C-14589"
   ],
   "tips": [],
   "first_raised": "2026-04-15",
-  "last_raised": "2026-04-15"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-814",
@@ -20818,11 +20834,12 @@
   "claims": [
    "C-8580",
    "C-8586",
-   "C-8612"
+   "C-8612",
+   "C-14587"
   ],
   "tips": [],
   "first_raised": "2026-04-29",
-  "last_raised": "2026-04-29"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-833",
@@ -21660,11 +21677,12 @@
    "C-9102"
   ],
   "claims": [
-   "C-9102"
+   "C-9102",
+   "C-14585"
   ],
   "tips": [],
   "first_raised": "2026-05-11",
-  "last_raised": "2026-05-11"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-870",
@@ -23680,11 +23698,12 @@
    "C-10854",
    "C-10886",
    "C-10974",
-   "C-10977"
+   "C-10977",
+   "C-14513"
   ],
   "tips": [],
   "first_raised": "2026-07-15",
-  "last_raised": "2026-07-20"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-955",
@@ -23768,11 +23787,13 @@
    "C-11656",
    "C-11762",
    "C-11907",
-   "C-11940"
+   "C-11940",
+   "C-14521",
+   "C-14596"
   ],
   "tips": [],
   "first_raised": "2026-07-15",
-  "last_raised": "2026-08-06"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-958",
@@ -23885,13 +23906,14 @@
    "C-10838"
   ],
   "claims": [
-   "C-10838"
+   "C-10838",
+   "C-14599"
   ],
   "tips": [
    "C-10838"
   ],
   "first_raised": "2026-07-15",
-  "last_raised": "2026-07-15"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-964",
@@ -24075,11 +24097,12 @@
    "C-10864",
    "C-10968",
    "C-10969",
-   "C-11690"
+   "C-11690",
+   "C-14523"
   ],
   "tips": [],
   "first_raised": "2026-07-16",
-  "last_raised": "2026-08-03"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-972",
@@ -24116,11 +24139,14 @@
    "C-11721",
    "C-11782",
    "C-11784",
-   "C-11790"
+   "C-11790",
+   "C-14518",
+   "C-14519",
+   "C-14604"
   ],
   "tips": [],
   "first_raised": "2026-07-16",
-  "last_raised": "2026-08-04"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-973",
@@ -24142,14 +24168,15 @@
    "C-10870",
    "C-11708",
    "C-11785",
-   "C-11821"
+   "C-11821",
+   "C-14507"
   ],
   "tips": [
    "C-10870",
    "C-11821"
   ],
   "first_raised": "2026-07-16",
-  "last_raised": "2026-08-04"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-974",
@@ -24954,11 +24981,12 @@
    "C-11332",
    "C-11602",
    "C-11604",
-   "C-11618"
+   "C-11618",
+   "C-14593"
   ],
   "tips": [],
   "first_raised": "2026-07-23",
-  "last_raised": "2026-07-30"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1011",
@@ -25203,11 +25231,17 @@
    "C-11525",
    "C-11526",
    "C-11527",
-   "C-11578"
+   "C-11578",
+   "C-14502",
+   "C-14503",
+   "C-14509",
+   "C-14595",
+   "C-14597",
+   "C-14601"
   ],
   "tips": [],
   "first_raised": "2026-07-28",
-  "last_raised": "2026-07-29"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1023",
@@ -25479,11 +25513,12 @@
   ],
   "claims": [
    "C-11588",
-   "C-11589"
+   "C-11589",
+   "C-14551"
   ],
   "tips": [],
   "first_raised": "2026-07-29",
-  "last_raised": "2026-07-29"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-1036",
@@ -25784,11 +25819,26 @@
    "C-11697",
    "C-11788",
    "C-11789",
-   "C-11790"
+   "C-11790",
+   "C-14478",
+   "C-14504",
+   "C-14505",
+   "C-14506",
+   "C-14508",
+   "C-14509",
+   "C-14510",
+   "C-14511",
+   "C-14513",
+   "C-14514",
+   "C-14515",
+   "C-14518",
+   "C-14520",
+   "C-14594",
+   "C-14604"
   ],
   "tips": [],
   "first_raised": "2026-08-03",
-  "last_raised": "2026-08-04"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1050",
@@ -25803,11 +25853,13 @@
   ],
   "claims": [
    "C-11700",
-   "C-11870"
+   "C-11870",
+   "C-14478",
+   "C-14594"
   ],
   "tips": [],
   "first_raised": "2026-08-03",
-  "last_raised": "2026-08-05"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1051",
@@ -26200,11 +26252,12 @@
   ],
   "claims": [
    "C-11855",
-   "C-11856"
+   "C-11856",
+   "C-14520"
   ],
   "tips": [],
   "first_raised": "2026-08-05",
-  "last_raised": "2026-08-05"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-1070",
@@ -27694,11 +27747,12 @@
    "C-12718"
   ],
   "claims": [
-   "C-12718"
+   "C-12718",
+   "C-14525"
   ],
   "tips": [],
   "first_raised": "2026-09-02",
-  "last_raised": "2026-09-02"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-1138",
@@ -27774,11 +27828,13 @@
    "C-13441",
    "C-13460",
    "C-13465",
-   "C-13848"
+   "C-13848",
+   "C-14502",
+   "C-14503"
   ],
   "tips": [],
   "first_raised": "2026-09-02",
-  "last_raised": "2026-10-05"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-1141",
@@ -28601,11 +28657,12 @@
    "C-13046"
   ],
   "claims": [
-   "C-13046"
+   "C-13046",
+   "C-14646"
   ],
   "tips": [],
   "first_raised": "2026-09-14",
-  "last_raised": "2026-09-14"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1180",
@@ -28708,11 +28765,12 @@
   ],
   "claims": [
    "C-13095",
-   "C-13097"
+   "C-13097",
+   "C-14523"
   ],
   "tips": [],
   "first_raised": "2026-09-15",
-  "last_raised": "2026-09-15"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-1186",
@@ -28725,11 +28783,12 @@
    "C-13096"
   ],
   "claims": [
-   "C-13096"
+   "C-13096",
+   "C-14507"
   ],
   "tips": [],
   "first_raised": "2026-09-15",
-  "last_raised": "2026-09-15"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-1187",
@@ -28779,11 +28838,12 @@
    "C-13126",
    "C-14069",
    "C-14070",
-   "C-14071"
+   "C-14071",
+   "C-14591"
   ],
   "tips": [],
   "first_raised": "2026-09-15",
-  "last_raised": "2026-10-08"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1189",
@@ -29308,11 +29368,12 @@
    "C-13308",
    "C-13309",
    "C-13365",
-   "C-13888"
+   "C-13888",
+   "C-14647"
   ],
   "tips": [],
   "first_raised": "2026-09-17",
-  "last_raised": "2026-10-05"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1212",
@@ -29409,11 +29470,16 @@
   "claims": [
    "C-13373",
    "C-13374",
-   "C-13378"
+   "C-13378",
+   "C-14597",
+   "C-14598",
+   "C-14599",
+   "C-14600",
+   "C-14601"
   ],
   "tips": [],
   "first_raised": "2026-09-22",
-  "last_raised": "2026-09-22"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1216",
@@ -31048,11 +31114,12 @@
    "C-14332"
   ],
   "claims": [
-   "C-14332"
+   "C-14332",
+   "C-14589"
   ],
   "tips": [],
   "first_raised": "2026-10-15",
-  "last_raised": "2026-10-15"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1290",
@@ -31191,11 +31258,12 @@
    "C-14363",
    "C-14409",
    "C-14412",
-   "C-14416"
+   "C-14416",
+   "C-14563"
   ],
   "tips": [],
   "first_raised": "2026-10-15",
-  "last_raised": "2026-10-19"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1297",
@@ -31212,11 +31280,12 @@
   "claims": [
    "C-14354",
    "C-14412",
-   "C-14415"
+   "C-14415",
+   "C-14582"
   ],
   "tips": [],
   "first_raised": "2026-10-15",
-  "last_raised": "2026-10-19"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1298",
@@ -31266,11 +31335,12 @@
    "C-14360",
    "C-14363",
    "C-14407",
-   "C-14408"
+   "C-14408",
+   "C-14563"
   ],
   "tips": [],
   "first_raised": "2026-10-15",
-  "last_raised": "2026-10-19"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1300",
@@ -31310,11 +31380,12 @@
    "C-14359",
    "C-14414",
    "C-14416",
-   "C-14419"
+   "C-14419",
+   "C-14582"
   ],
   "tips": [],
   "first_raised": "2026-10-15",
-  "last_raised": "2026-10-19"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1302",
@@ -31329,11 +31400,12 @@
   ],
   "claims": [
    "C-14381",
-   "C-14470"
+   "C-14470",
+   "C-14551"
   ],
   "tips": [],
   "first_raised": "2026-10-15",
-  "last_raised": "2026-10-19"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-1303",
@@ -31491,11 +31563,12 @@
   ],
   "claims": [
    "C-14430",
-   "C-14435"
+   "C-14435",
+   "C-14552"
   ],
   "tips": [],
   "first_raised": "2026-10-19",
-  "last_raised": "2026-10-19"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-1310",
@@ -31508,11 +31581,12 @@
    "C-14431"
   ],
   "claims": [
-   "C-14431"
+   "C-14431",
+   "C-14587"
   ],
   "tips": [],
   "first_raised": "2026-10-19",
-  "last_raised": "2026-10-19"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1311",
@@ -31548,11 +31622,12 @@
   "claims": [
    "C-14433",
    "C-14434",
-   "C-14435"
+   "C-14435",
+   "C-14552"
   ],
   "tips": [],
   "first_raised": "2026-10-19",
-  "last_raised": "2026-10-19"
+  "last_raised": "2026-10-20"
  },
  {
   "id": "Q-1313",
@@ -31624,11 +31699,12 @@
   ],
   "claims": [
    "C-14462",
-   "C-14465"
+   "C-14465",
+   "C-14578"
   ],
   "tips": [],
   "first_raised": "2026-10-19",
-  "last_raised": "2026-10-19"
+  "last_raised": "2026-10-21"
  },
  {
   "id": "Q-1317",
@@ -31656,5 +31732,226 @@
   ],
   "first_raised": "2026-10-19",
   "last_raised": "2026-10-19"
+ },
+ {
+  "id": "Q-1318",
+  "topic": "Scripps bodycam releases",
+  "question": "How did Scripps News obtain the earlier police bodycam footage of Tyler Robinson and of Brian Cole Jr. that it published, and who released it?",
+  "known": "The host says the same 'bizarre' Scripps Media coincidence appears in the Robinson case and the case of Brian Cole Jr., the alleged DC pipe bomber (C-14479). The record says nothing yet.",
+  "settle": "Scripps News reports on each release, and the records requests or releasing agencies behind them.",
+  "status": "open",
+  "evidence": [
+   "C-14479"
+  ],
+  "claims": [
+   "C-14479"
+  ],
+  "tips": [],
+  "first_raised": "2026-10-20",
+  "last_raised": "2026-10-20"
+ },
+ {
+  "id": "Q-1319",
+  "topic": "rooftop footage gap",
+  "question": "Do UVU's camera-system logs show a gap in the Losee rooftop recording at about 12:40-12:42 p.m. on 2025-09-10, and was any footage deleted or never recorded?",
+  "known": "The host says the footage drops out for about a minute as the figure returns to the ledge at 12:40, then shows him leaving at 12:42, and suggests someone at the university with access wiped that minute (C-14516, C-14517, C-14522); she earlier said about a minute was removed from the prosecution's rooftop exhibit (C-10809). The record says nothing yet.",
+  "settle": "Native camera files, recording logs and access and deletion logs of the UVU camera system for 12:35-12:45 p.m. on 2025-09-10.",
+  "status": "open",
+  "evidence": [
+   "C-14516",
+   "C-14517",
+   "C-14522"
+  ],
+  "claims": [
+   "C-14516",
+   "C-14517",
+   "C-14522"
+  ],
+  "tips": [],
+  "first_raised": "2026-10-20",
+  "last_raised": "2026-10-20"
+ },
+ {
+  "id": "Q-1320",
+  "topic": "rooftop figure height",
+  "question": "How tall is the figure filmed on the Losee roof before and after the shot, and is that height consistent with Tyler Robinson's?",
+  "known": "The host calls the figure 'Slender Man' because he is extremely tall, says his tallness is factual, likens his build to the admissions-lot driver she calls Waluigi, and says Robinson is only 5'10\" (C-14512, C-14598, C-14602, C-14603). The record says nothing yet on either height.",
+  "settle": "A photogrammetric height estimate from calibrated rooftop footage and Robinson's booking record.",
+  "status": "open",
+  "evidence": [
+   "C-14512",
+   "C-14598",
+   "C-14602",
+   "C-14603"
+  ],
+  "claims": [
+   "C-14512",
+   "C-14598",
+   "C-14602",
+   "C-14603"
+  ],
+  "tips": [],
+  "first_raised": "2026-10-20",
+  "last_raised": "2026-10-21"
+ },
+ {
+  "id": "Q-1321",
+  "topic": "TPUSA event Q&A",
+  "question": "Has TPUSA told campus-event speakers not to take questions on Charlie Kirk's assassination or screened audience questions, and who makes up its event audiences?",
+  "known": "In a clip the host plays from a UNLV event, a TPUSA speaker answers Zee Cohen that his bosses told him he cannot take that topic (C-14561, C-14562); the host says emails tell her questions are screened and that audiences are donors, non-students and staff (C-14565, C-14566). The record says nothing yet.",
+  "settle": "TPUSA guidance to event speakers and hosts, question-submission procedures, the full unedited UNLV video, and ticketing or RSVP data.",
+  "status": "open",
+  "evidence": [
+   "C-14561",
+   "C-14562",
+   "C-14565",
+   "C-14566"
+  ],
+  "claims": [
+   "C-14561",
+   "C-14562",
+   "C-14565",
+   "C-14566"
+  ],
+  "tips": [
+   "C-14565"
+  ],
+  "first_raised": "2026-10-21",
+  "last_raised": "2026-10-21"
+ },
+ {
+  "id": "Q-1322",
+  "topic": "Erika school events",
+  "question": "What are the details of Erika Kirk's October 28, 2026 chapel visit to Fayetteville Christian School, including who initiated it, which students attend, whether families were consulted and what security is planned?",
+  "known": "The host says it is a K-12 campus, different from the Veterans Day school, and that parents emailed her the October 2 school email (C-14567, C-14568, C-14576, C-14577); per CityView, she will address junior high and high school students on civic engagement at a private event and some parents question safety and consultation (C-14569, C-14570, C-14571, C-14573, C-14574); per the email, her team reached out to invite the school to host a chapel service, limited to FCS families with extra security (C-14578, C-14579). The record says nothing yet.",
+  "settle": "The October 2 school email, the CityView article, the school's event announcement and security plan, and Erika Kirk's team's outreach records.",
+  "status": "open",
+  "evidence": [
+   "C-14567",
+   "C-14568",
+   "C-14569",
+   "C-14570",
+   "C-14571",
+   "C-14573",
+   "C-14574",
+   "C-14576",
+   "C-14577",
+   "C-14578",
+   "C-14579"
+  ],
+  "claims": [
+   "C-14567",
+   "C-14568",
+   "C-14569",
+   "C-14570",
+   "C-14571",
+   "C-14573",
+   "C-14574",
+   "C-14576",
+   "C-14577",
+   "C-14578",
+   "C-14579"
+  ],
+  "tips": [
+   "C-14576",
+   "C-14577"
+  ],
+  "first_raised": "2026-10-21",
+  "last_raised": "2026-10-21"
+ },
+ {
+  "id": "Q-1323",
+  "topic": "Erika school events",
+  "question": "Do the Christian schools hosting Erika Kirk in 2026 have military ties, such as to Fort Bragg near Fayetteville, and does the military or the Department of Defense arrange any of the bookings?",
+  "known": "The host says, as opinion, that the school appearances feel like a DoD military operation and guesses the military is the schools' common denominator; a viewer comment she reads notes Fort Bragg, home of the 8th Psychological Operations Group, is in Fayetteville (C-14588, C-14590, C-14650). The record says nothing yet.",
+  "settle": "Leadership and board backgrounds of the host schools, and booking records for Erika Kirk's school appearances.",
+  "status": "open",
+  "evidence": [
+   "C-14588",
+   "C-14590",
+   "C-14650"
+  ],
+  "claims": [
+   "C-14588",
+   "C-14590",
+   "C-14650"
+  ],
+  "tips": [],
+  "first_raised": "2026-10-21",
+  "last_raised": "2026-10-21"
+ },
+ {
+  "id": "Q-1324",
+  "topic": "Twiggs records",
+  "question": "Is there any investigative or court record involving Lance Twiggs, including any internet-crime matter, and did it bear on his role in the Robinson case?",
+  "known": "The host says she has wondered whether Twiggs was blackmailed by the state over an internet crime and, as opinion, that he may have helped set Robinson up as a patsy (C-14592, C-14593); she cites no supporting evidence. The record shows Twiggs received use immunity (S-4) but says nothing of any such matter.",
+  "settle": "Court and investigative records naming Lance Twiggs, and the terms of his immunity agreements.",
+  "status": "open",
+  "evidence": [
+   "C-14592",
+   "C-14593"
+  ],
+  "claims": [
+   "C-14592",
+   "C-14593"
+  ],
+  "tips": [],
+  "first_raised": "2026-10-21",
+  "last_raised": "2026-10-21"
+ },
+ {
+  "id": "Q-1325",
+  "topic": "court media access",
+  "question": "What media-access order did the court issue for the October 23, 2026 trial-setting hearing in State v. Robinson, why were video, audio and broadcast barred, and will transcripts be released?",
+  "known": "The host says the Friday hearing allows no video, audio or broadcast, that barring everyone is atypical for Utah hearings, and that Deseret News still photography is permitted (C-14606, C-14607, C-14608). The record says nothing yet.",
+  "settle": "The court's media order and pool arrangements for the hearing, and Utah's court media rules.",
+  "status": "open",
+  "evidence": [
+   "C-14606",
+   "C-14607",
+   "C-14608"
+  ],
+  "claims": [
+   "C-14606",
+   "C-14607",
+   "C-14608"
+  ],
+  "tips": [],
+  "first_raised": "2026-10-21",
+  "last_raised": "2026-10-21"
+ },
+ {
+  "id": "Q-1326",
+  "topic": "host's withheld evidence",
+  "question": "What further evidence does the host say she is holding until Tyler Robinson's trial, and when will it be released?",
+  "known": "The host says she has more evidence not yet shared and is holding it until trial so the state cannot change its times (C-14605). The record says nothing yet.",
+  "settle": "The host's later release of the material and its provenance.",
+  "status": "open",
+  "evidence": [
+   "C-14605"
+  ],
+  "claims": [
+   "C-14605"
+  ],
+  "tips": [],
+  "first_raised": "2026-10-21",
+  "last_raised": "2026-10-21"
+ },
+ {
+  "id": "Q-1327",
+  "topic": "Wilson debate",
+  "question": "Did the host's debate with Andrew Wilson address the case evidence, and what evidence did each side cite?",
+  "known": "The host says the debate did not hold the evidence discussion she hoped for and that her October 22, 2026 handoff episode with Baron will (C-14653). The record says nothing yet.",
+  "settle": "The full debate recording and the October 22, 2026 episode.",
+  "status": "open",
+  "evidence": [
+   "C-14653"
+  ],
+  "claims": [
+   "C-14653"
+  ],
+  "tips": [],
+  "first_raised": "2026-10-21",
+  "last_raised": "2026-10-21"
  }
 ]

@@ -2528,6 +2528,23 @@
       "schema_org": "Event",
       "wikidata_class": "Q1656682",
       "event_time": "2012"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-972",
+      "ref": "N-972",
+      "name": "Lee Harvey Oswald",
+      "type": "person",
+      "description": "Named by the host on the JFK assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7835"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -4595,7 +4612,8 @@
       "transcript_snippet": "cuz we all know who killed JFK. And it wasn't Lee Harvey Oswald.",
       "mentions_person_refs": [
         "N-3",
-        "N-707"
+        "N-707",
+        "N-972"
       ],
       "verification_status": "unverified",
       "verification_evidence": []
