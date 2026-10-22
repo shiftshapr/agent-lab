@@ -6,9 +6,16 @@
       "title": "State of Utah v. Tyler James Robinson (Fourth District Court, Utah County, case 251403576): filings",
       "tier": 1,
       "items": [
-        {"title": "Information (charging document), filed 2025-09-16", "date": "2025-09-16", "publisher": "Utah County Attorney's Office",
-         "url": "https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf",
-         "mirrors": ["https://www.documentcloud.org/documents/26099901-tjr-information-49872215e3/"], "format": "pdf"}
+        {
+          "title": "Information (charging document), filed 2025-09-16",
+          "date": "2025-09-16",
+          "publisher": "Utah County Attorney's Office",
+          "url": "https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf",
+          "mirrors": [
+            "https://www.documentcloud.org/documents/26099901-tjr-information-49872215e3/"
+          ],
+          "format": "pdf"
+        }
       ]
     },
     {
@@ -16,13 +23,55 @@
       "title": "State of Utah v. Tyler James Robinson: hearing transcripts (third-party transcription of public testimony, Rev.com)",
       "tier": 1,
       "items": [
-        {"title": "Preliminary hearing, day 1", "date": "2026-07-06", "publisher": "Rev.com (transcription)", "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson---day-1", "format": "html"},
-        {"title": "Preliminary hearing, day 2", "date": "2026-07-07", "publisher": "Rev.com (transcription)", "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-2", "format": "html"},
-        {"title": "Preliminary hearing, day 3", "date": "2026-07-08", "publisher": "Rev.com (transcription)", "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-3", "format": "html"},
-        {"title": "Preliminary hearing, day 4", "date": "2026-07-09", "publisher": "Rev.com (transcription)", "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4", "format": "html"},
-        {"title": "Preliminary hearing, day 5", "date": "2026-07-10", "publisher": "Rev.com (transcription)", "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5", "format": "html"},
-        {"title": "Preliminary hearing, closing arguments and bindover ruling", "date": "2026-09-01", "publisher": "Rev.com (transcription)", "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-final-preliminary-hearing", "format": "html"},
-        {"title": "Contempt hearing", "date": null, "publisher": "Rev.com (transcription)", "url": "https://www.rev.com/transcripts/tyler-robinson-comtempt-hearing", "format": "html"}
+        {
+          "title": "Preliminary hearing, day 1",
+          "date": "2026-07-06",
+          "publisher": "Rev.com (transcription)",
+          "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson---day-1",
+          "format": "html"
+        },
+        {
+          "title": "Preliminary hearing, day 2",
+          "date": "2026-07-07",
+          "publisher": "Rev.com (transcription)",
+          "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-2",
+          "format": "html"
+        },
+        {
+          "title": "Preliminary hearing, day 3",
+          "date": "2026-07-08",
+          "publisher": "Rev.com (transcription)",
+          "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-3",
+          "format": "html"
+        },
+        {
+          "title": "Preliminary hearing, day 4",
+          "date": "2026-07-09",
+          "publisher": "Rev.com (transcription)",
+          "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4",
+          "format": "html"
+        },
+        {
+          "title": "Preliminary hearing, day 5",
+          "date": "2026-07-10",
+          "publisher": "Rev.com (transcription)",
+          "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5",
+          "format": "html"
+        },
+        {
+          "title": "Preliminary hearing, closing arguments and bindover ruling",
+          "date": "2026-09-01",
+          "publisher": "Rev.com (transcription)",
+          "url": "https://www.rev.com/transcripts/ut-v-tyler-robinson-final-preliminary-hearing",
+          "format": "html"
+        },
+        {
+          "title": "Contempt hearing",
+          "date": null,
+          "publisher": "Rev.com (transcription)",
+          "url": "https://www.rev.com/transcripts/tyler-robinson-comtempt-hearing",
+          "format": "html"
+        }
       ]
     },
     {
@@ -30,9 +79,27 @@
       "title": "Official statements: Utah County Attorney, law enforcement press conferences",
       "tier": 1,
       "items": [
-        {"title": "Utah County Attorney press release on the UVU shooting", "date": "2025-09-10", "publisher": "Utah County Attorney's Office", "url": "https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf", "format": "pdf"},
-        {"title": "Utah County Attorney press release on Robinson's arrest and potential charges", "date": "2025-09-13", "publisher": "Utah County Attorney's Office", "url": "https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf", "format": "pdf"},
-        {"title": "Press conference: update on the Charlie Kirk shooter (transcript)", "date": "2025-09-12", "publisher": "Rev.com (transcription)", "url": "https://www.rev.com/transcripts/update-on-charlie-kirk-shooter", "format": "html"}
+        {
+          "title": "Utah County Attorney press release on the UVU shooting",
+          "date": "2025-09-10",
+          "publisher": "Utah County Attorney's Office",
+          "url": "https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf",
+          "format": "pdf"
+        },
+        {
+          "title": "Utah County Attorney press release on Robinson's arrest and potential charges",
+          "date": "2025-09-13",
+          "publisher": "Utah County Attorney's Office",
+          "url": "https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf",
+          "format": "pdf"
+        },
+        {
+          "title": "Press conference: update on the Charlie Kirk shooter (transcript)",
+          "date": "2025-09-12",
+          "publisher": "Rev.com (transcription)",
+          "url": "https://www.rev.com/transcripts/update-on-charlie-kirk-shooter",
+          "format": "html"
+        }
       ]
     },
     {
@@ -40,7 +107,13 @@
       "title": "Utah Valley University independent review: After-Action Report",
       "tier": 1,
       "items": [
-        {"title": "After-Action Report (158 pages)", "date": "2026-09-25", "publisher": "Utah Valley University", "url": "https://www.uvu.edu/externalreview/docs/after-action-report.pdf", "format": "pdf"}
+        {
+          "title": "After-Action Report (158 pages)",
+          "date": "2026-09-25",
+          "publisher": "Utah Valley University",
+          "url": "https://www.uvu.edu/externalreview/docs/after-action-report.pdf",
+          "format": "pdf"
+        }
       ]
     },
     {
@@ -48,7 +121,14 @@
       "title": "ADS-B flight data for 2025-09-10 (adsb.lol globe history, free public archive)",
       "tier": 1,
       "items": [
-        {"title": "adsb.lol globe history, 2025-09-10", "date": "2025-09-10", "publisher": "adsb.lol", "url": "https://github.com/adsblol/globe_history_2025/releases", "format": "adsb-release", "release_tag_contains": "2025.09.10"}
+        {
+          "title": "adsb.lol globe history, 2025-09-10",
+          "date": "2025-09-10",
+          "publisher": "adsb.lol",
+          "url": "https://github.com/adsblol/globe_history_2025/releases",
+          "format": "adsb-release",
+          "release_tag": "v2025.09.10-planes-readsb-prod-0"
+        }
       ]
     }
   ]

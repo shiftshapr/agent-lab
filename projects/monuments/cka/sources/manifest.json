@@ -195,7 +195,14 @@
    "publisher": "adsb.lol",
    "url": "https://github.com/adsblol/globe_history_2025/releases",
    "format": "adsb-release",
-   "error": "Extra data: line 2 column 1 (char 3736)"
+   "release_tag": "v2025.09.10-planes-readsb-prod-0",
+   "files": [
+    "v2025.09.10-planes-readsb-prod-0.tar.aa",
+    "v2025.09.10-planes-readsb-prod-0.tar.ab"
+   ],
+   "bytes": 3477626880,
+   "sha256": "e8bcee3f0fa80a9f25891a49d45431170e37b8d979da422ecf09fd2326aafe74",
+   "retrieved_at": "2026-10-22T02:24:10Z"
   }
  ]
 }

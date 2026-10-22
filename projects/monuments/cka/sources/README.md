@@ -11,6 +11,6 @@ Status, 2026-10-21:
     contempt hearing; Rev.com transcription of public testimony).
   - The 2025-09-12 press conference (S-11).
   - The UVU After-Action Report (S-12, 158 pages).
-  - The adsb.lol ADS-B archive for 2025-09-10 (S-13, 3.5 GB).
+- **Fetched:** the adsb.lol ADS-B archive for 2025-09-10 (S-13, 3.5 GB, two tar parts).
 - **Blocked:** the charging Information (S-1) and the County Attorney press releases (S-9, S-10). The County Attorney's
   site returns HTTP 503 and DocumentCloud blocks automated download. These need retrying, or a copy saved by hand.

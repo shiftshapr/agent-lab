@@ -91,10 +91,7 @@ def main() -> int:
                     if a.skip_large:
                         print(f"{sid}: skipped (large)")
                         continue
-                    tag = next(t for t in json.loads(subprocess.run(
-                        ["gh", "api", "--paginate", "repos/adsblol/globe_history_2025/releases", "--jq", "[.[].tag_name]"],
-                        capture_output=True, text=True, check=True).stdout.replace("][", ","))
-                        if it["release_tag_contains"] in t and t.endswith("-planes-readsb-prod-0"))
+                    tag = it["release_tag"]
                     subprocess.run(["gh", "release", "download", tag, "-R", "adsblol/globe_history_2025", "-D", str(sdir),
                                     "--skip-existing"], check=True)
                     parts = sorted(sdir.glob(f"{tag}.tar.*"))
