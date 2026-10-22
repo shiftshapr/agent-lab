@@ -734,6 +734,23 @@
     },
     {
       "@type": "Person",
+      "@id": "N-972",
+      "ref": "N-972",
+      "name": "Lee Harvey Oswald",
+      "type": "person",
+      "description": "The host quotes Piers Morgan saying JFK may really have just been shot by Lee Harvey Oswald.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4259"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
       "name": "Candace Owens",

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:10
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf
+- **Transcript SHA-256**: d64eebc408d3b4fb3e4b29c66b62367b87da29c9b6b88e25fe098e57d93a2a6b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-942, N-11314, N-11315
@@ -18,7 +18,7 @@
   - Claim Range: C-7758–C-7865
   - New Nodes Introduced: N-10525, N-10526, N-10528, N-10529, N-10530, N-10531
   - Hole-minted Nodes (wave3): N-411, N-412, N-413, N-414, N-415, N-416, N-417
-  - Reused Nodes Appearing: N-410, N-10148, N-28, N-10520, N-10527, N-10532, N-6, N-14, N-42, N-54, N-61, N-128, N-209, N-261, N-330, N-361, N-707, N-710, N-10000, N-10007, N-10012, N-10014, N-10032, N-10045, N-10062, N-10071, N-10073, N-10075, N-10079, N-10088, N-10102, N-10106, N-10139, N-10161, N-10176, N-10194, N-10166, N-10226, N-10239, N-10305, N-10316, N-10320, N-10324, N-10325, N-10331, N-10332, N-10342, N-10356, N-10415, N-10425, N-10458, N-10490, N-10494, N-10498, N-10505, N-10523, N-10524, N-10613, N-10896, N-11046, N-11124, N-11241
+  - Reused Nodes Appearing: N-410, N-10148, N-28, N-10520, N-10527, N-10532, N-6, N-14, N-42, N-54, N-61, N-128, N-209, N-261, N-330, N-361, N-707, N-710, N-10000, N-10007, N-10012, N-10014, N-10032, N-10045, N-10062, N-10071, N-10073, N-10075, N-10079, N-10088, N-10102, N-10106, N-10139, N-10161, N-10176, N-10194, N-10166, N-10226, N-10239, N-10305, N-10316, N-10320, N-10324, N-10325, N-10331, N-10332, N-10342, N-10356, N-10415, N-10425, N-10458, N-10490, N-10494, N-10498, N-10505, N-10523, N-10524, N-10613, N-10896, N-11046, N-11124, N-11241, N-972
   - (see registers)
 
 ---
@@ -2515,7 +2515,7 @@ Claim: The host says everyone knows who killed JFK and that it was not Lee Harve
 Transcript Snippet: cuz we all know who killed JFK. And it wasn't Lee Harvey Oswald.
 
 Anchored Artifacts: 
-Mentions: N-3, N-707
+Mentions: N-3, N-707, N-972
 Related Nodes: N-10079
 Tags: relevance:tangential
 Investigative Direction: Assertion without a named alternative; refer to the Warren Commission and HSCA findings.

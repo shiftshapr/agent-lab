@@ -1,0 +1,3798 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 168,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00-00:52:30",
+    "extraction_timestamp": "2026-10-21T23:07:38Z",
+    "model_version": "claude-manual-extract-seq168",
+    "transcript_sha256": "6813ed660d91923a8ebb7946d2e3a96f9577912dec90d368853694c5a0825682",
+    "analysis_date": "2026-10-21"
+  },
+  "executive_summary": "Episode 405 (2026-10-20). The host opens three shows before her maternity leave with the Brian Cole Jr. case. She says independent journalist Steve Baker and his team found CCTV footage from January 5, 2021 that, in her account, shows the real Brian Cole Jr. across town at 7:57 p.m. while the pipe-bomb suspect was on camera elsewhere. She plays clips about his shoes, a jacket still carrying a tag and a handmade Washington Football Team mask, and reads Baker's X post saying Cole's grandmother bought the jacket on her Kohl's card. She ties Scripps Media's release of old bodycam footage of both Cole and Tyler Robinson to the CIA's Operation Mockingbird, saying Carl Bernstein named Scripps among cooperating outlets.\n\nThe core segment is what the host calls exclusive UVU footage from September 10. She recalls Officer Bagley's preliminary-hearing testimony that he did not review video for anyone on the Losee rooftop between the jump at 12:23 p.m. and his arrival at 12:44 p.m. She then shows footage of a very tall figure she nicknames \"Slenderman\", who she believes is the same person who jumped off the roof. According to the host, he returns to the ledge around 12:36, lingers, goes back to the ledge at 12:40 when the footage blacks out for about a minute, and leaves at 12:42, less than a minute before Bagley arrives and finds the screwdriver. The host states as her opinion, not as fact, that the missing minute may show a screwdriver being dropped, and that Robinson did not shoot Charlie Kirk from the Losee rooftop.\n\nThe host also releases two more show trading cards (General McCoy and an FBI card). She answers Jeremy Boreing's X exchange with a viewer by reading from her Daily Wire firing document, which she says cites her tweet that no government has a right to commit genocide. She discusses Kimberly Guilfoyle's resignation as ambassador to Greece, including a report that she asked Eric Deters for $100,000 to pay off her credit card, and says she is \"team Kimberly\" given what she calls wider Trump-family corruption. Viewer comments cover Tyler Bowyer, Latvian bot farms, lawfare and the risk of executing an innocent Tyler Robinson.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3424",
+      "family_ref": "A-3424",
+      "bundle_name": "Viewer Comment Bundle (Opening)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3424.1",
+          "ref": "A-3424.1",
+          "description": "Viewer comment the host reads suggesting Nick Shirley investigate the vandalism of the Charlie Kirk statue",
+          "related_claims": [
+            "C-14476"
+          ],
+          "related_nodes": [
+            "N-213",
+            "N-10750",
+            "N-10000"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:00:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3425",
+      "family_ref": "A-3425",
+      "bundle_name": "Steve Baker Brian Cole Jr. Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3425.1",
+          "ref": "A-3425.1",
+          "description": "Clip the host plays analysing the January 5 suspect's heel, shoes and a jacket found in Brian Cole Jr.'s room",
+          "related_claims": [
+            "C-14493",
+            "C-14494"
+          ],
+          "related_nodes": [
+            "N-25",
+            "N-11362"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:07:27",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3425.2",
+          "ref": "A-3425.2",
+          "description": "Steve Baker X post on Brian Cole Jr.'s grandmother and the Kohl's jacket",
+          "related_claims": [
+            "C-14495",
+            "C-14496",
+            "C-14497"
+          ],
+          "related_nodes": [
+            "N-236",
+            "N-25",
+            "N-69",
+            "N-10014",
+            "N-11362"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3425.3",
+          "ref": "A-3425.3",
+          "description": "Clip the host plays on the suspect's maroon-and-gold face mask",
+          "related_claims": [
+            "C-14498",
+            "C-14499",
+            "C-14500"
+          ],
+          "related_nodes": [
+            "N-25",
+            "N-974",
+            "N-11362"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:09:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3426",
+      "family_ref": "A-3426",
+      "bundle_name": "Tyler Robinson Preliminary Hearing Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3426.1",
+          "ref": "A-3426.1",
+          "description": "Hearing clip of Kathy Nester questioning Officer Bagley on whether he reviewed the rooftop video",
+          "related_claims": [
+            "C-14507"
+          ],
+          "related_nodes": [
+            "N-506",
+            "N-826",
+            "N-11065",
+            "N-10704"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:38",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3426.2",
+          "ref": "A-3426.2",
+          "description": "Hearing clip of Officer Bagley testifying where he found the screwdriver on the Losee building",
+          "related_claims": [
+            "C-14521",
+            "C-14522"
+          ],
+          "related_nodes": [
+            "N-506",
+            "N-10086",
+            "N-11065"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:22:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3427",
+      "family_ref": "A-3427",
+      "bundle_name": "Exclusive UVU September 10 Losee Rooftop Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3427.1",
+          "ref": "A-3427.1",
+          "description": "Side-by-side still of the rooftop figure at 12:17 and the figure at 12:37",
+          "related_claims": [
+            "C-14511"
+          ],
+          "related_nodes": [
+            "N-11363",
+            "N-10012"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:16:32",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3427.2",
+          "ref": "A-3427.2",
+          "description": "Footage of the tall figure the host calls \"Slenderman\" walking with a backpack about 12 minutes after Charlie Kirk is hit",
+          "related_claims": [
+            "C-14513",
+            "C-14514",
+            "C-14515"
+          ],
+          "related_nodes": [
+            "N-11363"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3427.3",
+          "ref": "A-3427.3",
+          "description": "Footage of the figure walking up to the ledge at about 12:36",
+          "related_claims": [
+            "C-14516"
+          ],
+          "related_nodes": [
+            "N-11363"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3427.4",
+          "ref": "A-3427.4",
+          "description": "Footage of the figure walking back and forth around 12:38",
+          "related_claims": [
+            "C-14517"
+          ],
+          "related_nodes": [
+            "N-11363"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:56",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3427.5",
+          "ref": "A-3427.5",
+          "description": "Footage of the figure at the ledge at 12:40, a one-minute blackout, and the figure leaving the ledge at 12:42",
+          "related_claims": [
+            "C-14518",
+            "C-14519",
+            "C-14520"
+          ],
+          "related_nodes": [
+            "N-11363",
+            "N-11114",
+            "N-506"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:21:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3428",
+      "family_ref": "A-3428",
+      "bundle_name": "Show Trading Card Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3428.1",
+          "ref": "A-3428.1",
+          "description": "Show trading card \"General McCoy\" for Mikey McCoy",
+          "related_claims": [
+            "C-14527"
+          ],
+          "related_nodes": [
+            "N-190",
+            "N-159"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:38",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3428.2",
+          "ref": "A-3428.2",
+          "description": "Show trading card for the FBI director (transcribed \"FBI now\"), with the points \"33 33\" and \"See you in Valhalla. Rest now, brother.\"",
+          "related_claims": [
+            "C-14528"
+          ],
+          "related_nodes": [
+            "N-10014"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:31:11",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3429",
+      "family_ref": "A-3429",
+      "bundle_name": "Jeremy Boreing X Exchange Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3429.1",
+          "ref": "A-3429.1",
+          "description": "X thread between a user, Kelly Fuller, and Jeremy Boreing that the host reads",
+          "related_claims": [
+            "C-14530",
+            "C-14531",
+            "C-14532"
+          ],
+          "related_nodes": [
+            "N-366",
+            "N-3",
+            "N-130",
+            "N-330"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:33:54",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3430",
+      "family_ref": "A-3430",
+      "bundle_name": "Daily Wire Firing Document Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3430.1",
+          "ref": "A-3430.1",
+          "description": "Excerpt from the host's Daily Wire firing document, which the host shows and reads",
+          "related_claims": [
+            "C-14534",
+            "C-14535",
+            "C-14538"
+          ],
+          "related_nodes": [
+            "N-366",
+            "N-10821",
+            "N-11034"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3430.2",
+          "ref": "A-3430.2",
+          "description": "The host's tweet on genocide as included in the firing document",
+          "related_claims": [
+            "C-14536",
+            "C-14537"
+          ],
+          "related_nodes": [
+            "N-64",
+            "N-161",
+            "N-11034"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:36:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3431",
+      "family_ref": "A-3431",
+      "bundle_name": "Kimberly Guilfoyle Resignation Report Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3431.1",
+          "ref": "A-3431.1",
+          "description": "Host verbal reference to Axios reporting that Kimberly Guilfoyle was pushed out as ambassador to Greece",
+          "related_claims": [
+            "C-14541",
+            "C-14542",
+            "C-14543"
+          ],
+          "related_nodes": [
+            "N-975",
+            "N-10861",
+            "N-11364"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:54",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3432",
+      "family_ref": "A-3432",
+      "bundle_name": "Viewer Comment Bundle (Comments Segment)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3432.1",
+          "ref": "A-3432.1",
+          "description": "Viewer comment from \"Ali\" on Turning Point USA and Latvian bot farms",
+          "related_claims": [
+            "C-14549"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1",
+            "N-10000"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:46:29",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3432.2",
+          "ref": "A-3432.2",
+          "description": "Viewer comment from \"Earl's daughter\" on a pediatrician's Asperger advice",
+          "related_claims": [
+            "C-14553"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3432.3",
+          "ref": "A-3432.3",
+          "description": "Viewer comment from \"Blushing Chaos\" apologising for the X exchange with Jeremy Boreing",
+          "related_claims": [
+            "C-14554"
+          ],
+          "related_nodes": [
+            "N-366"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination victim. The host discusses footage after he is hit and says she does not believe he was shot from the Losee rooftop.",
+      "related_artifacts": [
+        "A-3432.1"
+      ],
+      "related_claims": [
+        "C-14514",
+        "C-14523",
+        "C-14524",
+        "C-14549",
+        "C-14551"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Named in a viewer comment about Latvian bot farms.",
+      "related_artifacts": [
+        "A-3432.1"
+      ],
+      "related_claims": [
+        "C-14549"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host. Discusses her maternity leave, her Daily Wire firing and her exclusive rooftop footage.",
+      "related_artifacts": [
+        "A-3429.1"
+      ],
+      "related_claims": [
+        "C-14475",
+        "C-14509",
+        "C-14529",
+        "C-14530",
+        "C-14533",
+        "C-14534",
+        "C-14536",
+        "C-14550",
+        "C-14555"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "The host criticises the Trump administration and family over corruption in the Guilfoyle segment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14542",
+        "C-14546"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "The host says he is blocking more people on X, following the statue story.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14548"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-25",
+      "ref": "N-25",
+      "name": "Brian Cole Jr.",
+      "type": "person",
+      "description": "Accused January 6 pipe bomber. The host presents Steve Baker's footage she says places him across town at the time of the drop-off.",
+      "related_artifacts": [
+        "A-3425.1",
+        "A-3425.2",
+        "A-3425.3"
+      ],
+      "related_claims": [
+        "C-14477",
+        "C-14480",
+        "C-14484",
+        "C-14485",
+        "C-14489",
+        "C-14490",
+        "C-14491",
+        "C-14492",
+        "C-14493",
+        "C-14494",
+        "C-14495",
+        "C-14496",
+        "C-14497",
+        "C-14498",
+        "C-14499",
+        "C-14500",
+        "C-14501",
+        "C-14502",
+        "C-14503"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 19,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-33",
+      "ref": "N-33",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "The host says Guilfoyle was given the Greece post allegedly because Don Jr. wanted her far away.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14540",
+        "C-14546"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused shooter. The host says she does not believe he was ever on the Losee rooftop and that the screwdriver is the only thing tying him to it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14479",
+        "C-14480",
+        "C-14503",
+        "C-14504",
+        "C-14505",
+        "C-14524",
+        "C-14526",
+        "C-14551"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-64",
+      "ref": "N-64",
+      "name": "Brian Mast",
+      "type": "person",
+      "description": "The host says her genocide tweet was in reference to his statements.",
+      "related_artifacts": [
+        "A-3430.2"
+      ],
+      "related_claims": [
+        "C-14537"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI director. The host says it appears he and Bongino blamed Cole, and that he has not commented on the new footage.",
+      "related_artifacts": [
+        "A-3425.2"
+      ],
+      "related_claims": [
+        "C-14477",
+        "C-14483",
+        "C-14497",
+        "C-14502",
+        "C-14503"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-130",
+      "ref": "N-130",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Named in the X post the host reads.",
+      "related_artifacts": [
+        "A-3429.1"
+      ],
+      "related_claims": [
+        "C-14530"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-159",
+      "ref": "N-159",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "The host credits him, sarcastically, with informing the audience that McCoy was directing the battle.",
+      "related_artifacts": [
+        "A-3428.1"
+      ],
+      "related_claims": [
+        "C-14527"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-161",
+      "ref": "N-161",
+      "name": "Yashar Ali",
+      "type": "person",
+      "description": "Journalist the host says called Brian Mast's statement genocidal language.",
+      "related_artifacts": [
+        "A-3430.2"
+      ],
+      "related_claims": [
+        "C-14537"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-190",
+      "ref": "N-190",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Subject of the \"General McCoy\" trading card.",
+      "related_artifacts": [
+        "A-3428.1"
+      ],
+      "related_claims": [
+        "C-14527"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-213",
+      "ref": "N-213",
+      "name": "Nick Shirley",
+      "type": "person",
+      "description": "A viewer jokingly suggests calling him to solve the statue vandalism.",
+      "related_artifacts": [
+        "A-3424.1"
+      ],
+      "related_claims": [
+        "C-14476"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-236",
+      "ref": "N-236",
+      "name": "Steve Baker",
+      "type": "person",
+      "description": "Independent journalist whose team the host credits with the Brian Cole Jr. alibi footage.",
+      "related_artifacts": [
+        "A-3425.2"
+      ],
+      "related_claims": [
+        "C-14481",
+        "C-14482",
+        "C-14489",
+        "C-14496",
+        "C-14497",
+        "C-14501"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-298",
+      "ref": "N-298",
+      "name": "Miriam Adelson",
+      "type": "person",
+      "description": "The host alleges she \"outright purchased the White House\".",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14545"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-330",
+      "ref": "N-330",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Named in the X post the host reads; referenced in the closing hot-dog bit.",
+      "related_artifacts": [
+        "A-3429.1"
+      ],
+      "related_claims": [
+        "C-14530"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-366",
+      "ref": "N-366",
+      "name": "Jeremy Boreing",
+      "type": "person",
+      "description": "Former Daily Wire CEO. The host answers his X exchange with a viewer by reading her firing document.",
+      "related_artifacts": [
+        "A-3429.1",
+        "A-3430.1",
+        "A-3432.3"
+      ],
+      "related_claims": [
+        "C-14529",
+        "C-14530",
+        "C-14531",
+        "C-14532",
+        "C-14533",
+        "C-14534",
+        "C-14539",
+        "C-14554",
+        "C-14555"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-378",
+      "ref": "N-378",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "The host says it appears he and Patel blamed Cole, and that he has gone on a blocking spree.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14477",
+        "C-14503"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-506",
+      "ref": "N-506",
+      "name": "Christopher Bagley",
+      "type": "person",
+      "description": "UVU officer who found the screwdriver. The host discusses his hearing testimony on not reviewing the video and his arrival on the roof.",
+      "related_artifacts": [
+        "A-3426.1",
+        "A-3426.2",
+        "A-3427.5"
+      ],
+      "related_claims": [
+        "C-14505",
+        "C-14506",
+        "C-14507",
+        "C-14508",
+        "C-14512",
+        "C-14520",
+        "C-14521",
+        "C-14522",
+        "C-14523"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-707",
+      "ref": "N-707",
+      "name": "John F. Kennedy",
+      "type": "person",
+      "description": "Referenced in the host's Oswald and Mockingbird aside.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14486"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-826",
+      "ref": "N-826",
+      "name": "Kathy Nester",
+      "type": "person",
+      "description": "Tyler Robinson's lawyer, who questioned Bagley at the preliminary hearing.",
+      "related_artifacts": [
+        "A-3426.1"
+      ],
+      "related_claims": [
+        "C-14505",
+        "C-14507",
+        "C-14523"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-960",
+      "ref": "N-960",
+      "name": "Katie Zacharia",
+      "type": "person",
+      "description": "The host compares the scrutiny of Guilfoyle with the scrutiny of Zacharia's résumé.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14547"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "Referenced in the viewer comments about the statue and the \"grifting vultures\".",
+      "related_artifacts": [
+        "A-3424.1",
+        "A-3432.1"
+      ],
+      "related_claims": [
+        "C-14476",
+        "C-14549"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "organization",
+      "description": "Source of the camera system the host says cut out at the ledge.",
+      "related_artifacts": [
+        "A-3427.1"
+      ],
+      "related_claims": [
+        "C-14505",
+        "C-14525"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "organization",
+      "description": "The host says the FBI will struggle to explain the Cole footage.",
+      "related_artifacts": [
+        "A-3425.2",
+        "A-3428.2"
+      ],
+      "related_claims": [
+        "C-14483",
+        "C-14497",
+        "C-14502",
+        "C-14503"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10058",
+      "ref": "N-10058",
+      "name": "CIA Operation Mockingbird",
+      "type": "topic",
+      "description": "The host links Scripps to the outlets Bernstein named.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14486",
+        "C-14487",
+        "C-14488"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "InvestigationQuestion",
+      "@id": "N-10086",
+      "ref": "N-10086",
+      "name": "Screwdriver Evidence Question",
+      "type": "investigation_question",
+      "description": "The screwdriver Bagley found and the host's theory about the missing minute.",
+      "related_artifacts": [
+        "A-3426.2"
+      ],
+      "related_claims": [
+        "C-14521",
+        "C-14522",
+        "C-14525",
+        "C-14526"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10106"
+    },
+    {
+      "@type": "InvestigationQuestion",
+      "@id": "N-10660",
+      "ref": "N-10660",
+      "name": "Officer Bagley Body-Cam Battery Anomaly",
+      "type": "investigation_question",
+      "description": "The host repeats that Bagley's body cam was not working.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14508"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
+    },
+    {
+      "@type": "InvestigationQuestion",
+      "@id": "N-10704",
+      "ref": "N-10704",
+      "name": "Officer Bagley Rooftop Video Review Question",
+      "type": "investigation_question",
+      "description": "The hearing exchange on whether Bagley reviewed the rooftop video.",
+      "related_artifacts": [
+        "A-3426.1"
+      ],
+      "related_claims": [
+        "C-14505",
+        "C-14506",
+        "C-14507",
+        "C-14523"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Question"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-10750",
+      "ref": "N-10750",
+      "name": "Statue Vandalism Investigation",
+      "type": "event",
+      "description": "Subject of the opening viewer comment and the Bowyer comment.",
+      "related_artifacts": [
+        "A-3424.1"
+      ],
+      "related_claims": [
+        "C-14476",
+        "C-14548"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2026-09-13"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10793",
+      "ref": "N-10793",
+      "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+      "type": "topic",
+      "description": "The host's framing of the Cole case and her claim that his confession was coerced.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14477",
+        "C-14478",
+        "C-14483",
+        "C-14484",
+        "C-14502",
+        "C-14503"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10794",
+      "ref": "N-10794",
+      "name": "Scripps Media Bodycam Pattern (Robinson + Cole)",
+      "type": "topic",
+      "description": "The host's Scripps Media coincidence across the Robinson and Cole cases.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14480",
+        "C-14485",
+        "C-14488"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10821",
+      "ref": "N-10821",
+      "name": "Daily Wire",
+      "type": "organization",
+      "description": "The host's former employer, whose firing document she reads.",
+      "related_artifacts": [
+        "A-3430.1"
+      ],
+      "related_claims": [
+        "C-14529",
+        "C-14533",
+        "C-14534"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10861",
+      "ref": "N-10861",
+      "name": "Axios",
+      "type": "organization",
+      "description": "The host says Axios reported Guilfoyle's exit.",
+      "related_artifacts": [
+        "A-3431.1"
+      ],
+      "related_claims": [
+        "C-14541"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11034",
+      "ref": "N-11034",
+      "name": "Candace Owens Daily Wire Firing Reasons",
+      "type": "topic",
+      "description": "The host's account of the reasons in her firing document.",
+      "related_artifacts": [
+        "A-3430.1",
+        "A-3430.2"
+      ],
+      "related_claims": [
+        "C-14529",
+        "C-14534",
+        "C-14535",
+        "C-14536",
+        "C-14538",
+        "C-14555"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "InvestigationQuestion",
+      "@id": "N-10597",
+      "ref": "N-10597",
+      "name": "Charlie Kirk Assassination Perpetrator Question",
+      "type": "investigation_question",
+      "description": "The host doubts that Robinson was on the Losee rooftop and says Charlie was not shot from it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14504",
+        "C-14524",
+        "C-14551"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Question"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10684",
+      "ref": "N-10684",
+      "name": "Rooftop Movement Tactical Analysis",
+      "type": "topic",
+      "description": "The host cites the athletic movement, military crawl and jump of the rooftop figure.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14504"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "InvestigationQuestion",
+      "@id": "N-11340",
+      "ref": "N-11340",
+      "name": "Katie Zacharia Lawyer Credential Question",
+      "type": "investigation_question",
+      "description": "Referenced in the host's comparison with Guilfoyle.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14547"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11065",
+      "ref": "N-11065",
+      "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+      "type": "event",
+      "description": "Source of the Bagley clips.",
+      "related_artifacts": [
+        "A-3426.1",
+        "A-3426.2"
+      ],
+      "related_claims": [
+        "C-14505",
+        "C-14507",
+        "C-14522"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
+    },
+    {
+      "@type": "InvestigationQuestion",
+      "@id": "N-11114",
+      "ref": "N-11114",
+      "name": "Rooftop Video Missing Minute Question",
+      "type": "investigation_question",
+      "description": "The one-minute blackout at the ledge at 12:40.",
+      "related_artifacts": [
+        "A-3427.5"
+      ],
+      "related_claims": [
+        "C-14518",
+        "C-14525"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "schema_org": "Question"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11229",
+      "ref": "N-11229",
+      "name": "Candace Owens Leave and Baron Coleman Substitute Hosting",
+      "type": "topic",
+      "description": "The host says three shows remain before her maternity leave.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14475"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-972",
+      "ref": "N-972",
+      "name": "Lee Harvey Oswald",
+      "type": "person",
+      "description": "The host cites him as \"the original American\" patsy in her Operation Mockingbird aside.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14486"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-973",
+      "ref": "N-973",
+      "name": "Carl Bernstein",
+      "type": "person",
+      "description": "First named by the host at 00:05:25 in episode 168. The host says the journalist revealed which publications worked for the CIA, Scripps among them.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14488"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-974",
+      "ref": "N-974",
+      "name": "Brian Cole Sr.",
+      "type": "person",
+      "description": "First named in a clip the host plays at 00:10:46 in episode 168 (\"Brian Senior\"). Father of Brian Cole Jr.",
+      "related_artifacts": [
+        "A-3425.3"
+      ],
+      "related_claims": [
+        "C-14500"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-975",
+      "ref": "N-975",
+      "name": "Kimberly Guilfoyle",
+      "type": "person",
+      "description": "First named by the host at 00:38:23 in episode 168. Former U.S. ambassador to Greece and Donald Trump Jr.'s former partner.",
+      "related_artifacts": [
+        "A-3431.1"
+      ],
+      "related_claims": [
+        "C-14540",
+        "C-14541",
+        "C-14542",
+        "C-14543",
+        "C-14544",
+        "C-14546",
+        "C-14547"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-976",
+      "ref": "N-976",
+      "name": "Eric Deters",
+      "type": "person",
+      "description": "First named by the host at 00:39:24 in episode 168 (transcribed \"Eric Deters\"). The person the host says Guilfoyle asked for $100,000.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14544"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11362",
+      "ref": "N-11362",
+      "name": "Brian Cole Jr. January 5 Alibi Footage",
+      "type": "topic",
+      "description": "Steve Baker's analysis of publicly released January 5, 2021 CCTV footage, which the host says shows the real Brian Cole Jr. across town at 7:57 p.m. while the pipe-bomb suspect was on camera elsewhere. It includes the shoes, the tagged Kohl's jacket his grandmother says she bought, the handmade Washington Football Team mask, and a height analysis.",
+      "related_artifacts": [
+        "A-3425.1",
+        "A-3425.2",
+        "A-3425.3"
+      ],
+      "related_claims": [
+        "C-14489",
+        "C-14490",
+        "C-14491",
+        "C-14492",
+        "C-14493",
+        "C-14494",
+        "C-14495",
+        "C-14496",
+        "C-14497",
+        "C-14498",
+        "C-14499",
+        "C-14500",
+        "C-14501"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 13,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-25",
+        "N-236"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11363",
+      "ref": "N-11363",
+      "name": "Losee Rooftop Return Figure (\"Slenderman\") Identification",
+      "type": "topic",
+      "description": "The host's exclusive UVU footage of a very tall figure, which she nicknames \"Slenderman\", returning to the Losee rooftop ledge between about 12:35 and 12:42 p.m. on September 10, 2025, before Officer Bagley arrived. The host believes it is the same person who jumped off the roof. The investigation target is the figure's identity and the one-minute footage blackout at the ledge.",
+      "related_artifacts": [
+        "A-3427.1",
+        "A-3427.2",
+        "A-3427.3",
+        "A-3427.4",
+        "A-3427.5"
+      ],
+      "related_claims": [
+        "C-14479",
+        "C-14509",
+        "C-14510",
+        "C-14511",
+        "C-14512",
+        "C-14513",
+        "C-14514",
+        "C-14515",
+        "C-14516",
+        "C-14517",
+        "C-14518",
+        "C-14519",
+        "C-14520",
+        "C-14523",
+        "C-14524",
+        "C-14525"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-506",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11364",
+      "ref": "N-11364",
+      "name": "Kimberly Guilfoyle Ambassadorship Resignation",
+      "type": "topic",
+      "description": "Kimberly Guilfoyle's October 2026 resignation as U.S. ambassador to Greece after the White House asked her to leave, following reports of misconduct, including Eric Deters' account that she sought $100,000 to pay off her credit card.",
+      "related_artifacts": [
+        "A-3431.1"
+      ],
+      "related_claims": [
+        "C-14540",
+        "C-14541",
+        "C-14542",
+        "C-14543",
+        "C-14544",
+        "C-14546",
+        "C-14547"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-975",
+        "N-976"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-34",
+      "ref": "N-34",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Referred to as \"Eric\"; named among those the host says betrayed Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-14475",
+      "ref": "C-14475",
+      "label": "Host Says Three Shows Remain Before Her Maternity Leave",
+      "claim": "The host says there are just three more shows before her maternity leave.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11229"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:06",
+      "investigative_direction": "The show's published episode schedule for the rest of the week.",
+      "transcript_snippet": "All right, you guys. Happy Tuesday. Just three more shows before maternity leave.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14476",
+      "ref": "C-14476",
+      "label": "A Viewer Comment Suggests Calling Nick Shirley Over the Statue Vandalism",
+      "claim": "A viewer comment the host reads says that Turning Point should call Nick Shirley to identify who vandalised the Charlie Kirk statue, because he \"can infiltrate any gang\".",
+      "anchored_artifacts": [
+        "A-3424.1"
+      ],
+      "related_nodes": [
+        "N-10750",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:22",
+      "investigative_direction": "TPUSA statements and police reports on the statue vandalism.",
+      "transcript_snippet": "I have an idea for Turning Point regarding the vandalism of the CK statue. It just came to me as I was sitting here listening to the show.",
+      "mentions_person_refs": [
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14477",
+      "ref": "C-14477",
+      "label": "Host Says It Appears Patel and Bongino Blamed Brian Cole Jr. for the Pipe Bombs",
+      "claim": "The host says Brian Cole Jr. is the black autistic young man whom it \"would appear\" Kash Patel and Dan Bongino blamed for the pipe bombs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10793"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:04",
+      "investigative_direction": "The FBI's December 2025 arrest announcement and the charging documents against Brian Cole Jr.",
+      "transcript_snippet": "That is the black autistic young man that it would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs.",
+      "mentions_person_refs": [
+        "N-25",
+        "N-69",
+        "N-378"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14478",
+      "ref": "C-14478",
+      "label": "Host Says the Pipe Bombs Were Dropped Off the Evening Before January 6",
+      "claim": "The host says somebody dropped off pipe bombs on January 5th, which she calls \"the evening of January 6th\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10793"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:12",
+      "investigative_direction": "The FBI's public timeline of the January 5, 2021 pipe-bomb placements at the RNC and DNC.",
+      "transcript_snippet": "January 5th, the evening of January 6th, somebody dropped off pipe bombs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14479",
+      "ref": "C-14479",
+      "label": "Host Says She Will Reveal Footage of Tyler Robinson's Alleged September 10 Actions",
+      "claim": "The host says she has footage regarding Tyler Robinson's alleged actions on September 10 that deeply complicates the official narrative.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:55",
+      "investigative_direction": "The footage shown later in the episode and UVU's full camera archive for September 10, 2025.",
+      "transcript_snippet": "And we've got some to reveal to you regarding Tyler Robinson's actions, alleged actions on September 10th. It's rather explosive.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14480",
+      "ref": "C-14480",
+      "label": "Host Cites a Scripps Media Coincidence in the Robinson and Cole Cases",
+      "claim": "The host says there is a \"bizarre\" Scripps Media coincidence in both the Tyler Robinson case and the case of Brian Cole Jr., the alleged DC pipe bomber.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10794"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:38",
+      "investigative_direction": "Scripps News reports releasing earlier bodycam footage of Tyler Robinson and Brian Cole Jr.",
+      "transcript_snippet": "this bizarre Scripps Media coincidence in the matter of Tyler Robinson also in the matter of Brian Cole Jr., the alleged DC uh pipe bomber",
+      "supports_claim_refs": [
+        "C-13817"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14481",
+      "ref": "C-14481",
+      "label": "Host Says Steve Baker Identified the Suspect as a Woman",
+      "claim": "The host says the Cole arrest came just as independent journalist Steve Baker was closing in on the person he believed dropped the pipe bombs, whom he identified as a woman.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10793"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:52",
+      "investigative_direction": "Steve Baker's published reporting on the pipe-bomb suspect before December 2025.",
+      "transcript_snippet": "just as uh independent journalist Steve Baker began closing in on the true suspect who he believed dropped the pipe bombs who he identified as a woman.",
+      "mentions_person_refs": [
+        "N-236",
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14482",
+      "ref": "C-14482",
+      "label": "Host Says Baker Determined the Suspect May Have Been a Capitol Police Officer",
+      "claim": "The host says Steve Baker also determined that the suspect may have been a Capitol Police officer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10793"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:09",
+      "investigative_direction": "Steve Baker's reporting and any Capitol Police response to it.",
+      "transcript_snippet": "Um and which he also determined may have been a Capitol police officer",
+      "mentions_person_refs": [
+        "N-236"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14483",
+      "ref": "C-14483",
+      "label": "Host Says Patel's Team Announced Cole's Arrest Last November or December",
+      "claim": "The host says Kash Patel and his team \"swooped in\" with the arrest last November or December. She says \"February 6th\" when she means January 6.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10793"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:18",
+      "investigative_direction": "The date of the FBI's announcement of Brian Cole Jr.'s arrest (December 2025).",
+      "transcript_snippet": "And the feds were responsible for February 6th. Kash Patel and the gang swooped in. This was last November, December.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14484",
+      "ref": "C-14484",
+      "label": "Host Says Cole Is a 30-Year-Old With No Prior Trouble",
+      "claim": "The host says the authorities presented a 30-year-old black autistic man who had never been in trouble as having tried, as his first crime, to blow up the RNC and DNC.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10793"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:32",
+      "investigative_direction": "Cole's criminal record and age as stated in the charging documents.",
+      "transcript_snippet": "it was this 30-year-old black autistic man who's never been in trouble, but decided as his first crime that he would attempt to blow up the RNC and the DNC",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14485",
+      "ref": "C-14485",
+      "label": "Host Says Scripps Media Instantly Released Old Traffic-Stop Footage of Cole",
+      "claim": "The host says Scripps Media instantly provided footage it had on hand of a previously unknown suspect, an obscure traffic stop from years ago that she says should have been automatically deleted.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10794"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:05",
+      "investigative_direction": "The date Scripps aired the Cole traffic-stop bodycam and the issuing department's retention policy.",
+      "transcript_snippet": "And in walks Scripps Media instantly providing the public with footage that they happen to have on hand of what is before then a totally unknown suspect to the world.",
+      "supports_claim_refs": [
+        "C-13360"
+      ],
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14486",
+      "ref": "C-14486",
+      "label": "Host Says a Viewer Tip Reminded Her of Oswald and Operation Mockingbird",
+      "claim": "The host says a viewer sent a tip reminding her of Lee Harvey Oswald, and that when the public questioned whether he shot JFK, the CIA engaged in Operation Mockingbird.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10058"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:04:30",
+      "investigative_direction": "Church Committee records on Operation Mockingbird.",
+      "transcript_snippet": "And then one of you guys sent me over a tip and reminded me that the original American psy of course Lee Harvey Oswald",
+      "mentions_person_refs": [
+        "N-972",
+        "N-707"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14487",
+      "ref": "C-14487",
+      "label": "Host Says the CIA Put American Journalists on Payroll",
+      "claim": "The host says that, as part of the operation, American journalists were put on payroll to repeat CIA talking points.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10058"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:05:05",
+      "investigative_direction": "Church Committee findings on CIA relationships with journalists.",
+      "transcript_snippet": "And they put American journalists on payroll to repeat their talking points as a part of that operation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14488",
+      "ref": "C-14488",
+      "label": "Host Says Carl Bernstein Listed Scripps Among Outlets Working for the CIA",
+      "claim": "The host says that when journalist Carl Bernstein revealed which publications worked on behalf of the CIA, Scripps was on the list, then as Scripps-Howard, and he named them explicitly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10058",
+        "N-10794"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:05:25",
+      "investigative_direction": "Carl Bernstein, \"The CIA and the Media\", Rolling Stone, October 1977.",
+      "transcript_snippet": "when it was revealed by journalist Carl Bernstein which publications were working on behalf of the CIA, Scripps Media was on the list.",
+      "mentions_person_refs": [
+        "N-973"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14489",
+      "ref": "C-14489",
+      "label": "Host Says Baker's Team Reviewed Hours of January 5 CCTV Footage",
+      "claim": "The host says Steve Baker and his team went through hours of publicly released CCTV footage from January 5, the night Cole allegedly dropped off the pipe bombs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:02",
+      "investigative_direction": "The CCTV footage released for January 5, 2021 and Baker's published analysis.",
+      "transcript_snippet": "Steve Baker and his team went through hours and hours of publicly released CCTV footage from January 5th",
+      "mentions_person_refs": [
+        "N-236",
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14490",
+      "ref": "C-14490",
+      "label": "Host Says Footage Shows Cole Across Town at 7:57 p.m. as the Suspect Was Elsewhere",
+      "claim": "The host says Baker's team found \"two Brian Coles\" at 7:57 p.m.: the real Brian on camera across town at the same time the pipe-bomb suspect was on camera elsewhere.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:19",
+      "investigative_direction": "Timestamped CCTV from both locations at 7:57 p.m. on January 5, 2021.",
+      "transcript_snippet": "They discovered two Brian Cole's at 7:57 p.m. They discovered that Brian was on camera across town, the real Brian, if you would,",
+      "mentions_person_refs": [
+        "N-25",
+        "N-236"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14491",
+      "ref": "C-14491",
+      "label": "Host Says Cole's Toe-Walking Is Likely a Symptom of His Autism",
+      "claim": "The host says Cole likely walks on his toes as a symptom of his autism, as many autistic people do.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:02",
+      "investigative_direction": "Family and medical accounts of Cole's gait compared with the suspect's footage.",
+      "transcript_snippet": "Brian Cole, and I would say this is likely as a symptom of his autism because we know that they a lot of people who are autistic will walk on their toes.",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14492",
+      "ref": "C-14492",
+      "label": "Host Says Baker's Team Identified Cole's Shoes and a Tagged Christmas Jacket",
+      "claim": "The host says Baker's team uniquely identified the shoes and a jacket Cole was wearing that still had tags on it from Christmas.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:12",
+      "investigative_direction": "Baker's frame-by-frame comparison and the physical jacket and shoes.",
+      "transcript_snippet": "He had on some shoes and they were able to uniquely identify the shoes as well as a jacket that he was wearing that still had tags on it from Christmas.",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14493",
+      "ref": "C-14493",
+      "label": "In a Clip, a Speaker Says the Shoes Were Retired When Cole's Mother Bought Him Crocs",
+      "claim": "In a clip the host plays, an unnamed speaker says the walker does not keep the heel inside the shoe, and that the shoes seen were retired right afterward because Cole's mother had just bought him his first pair of Crocs.",
+      "anchored_artifacts": [
+        "A-3425.1"
+      ],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:38",
+      "investigative_direction": "Identify the clip's speaker and the purchase record for the Crocs.",
+      "transcript_snippet": "These are the shoes that we believe uh that he's wearing right there that you're seeing in that shot because these shoes were retired immediately after because his mother had just bought him his first pair of Crocs.",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14494",
+      "ref": "C-14494",
+      "label": "In a Clip, a Speaker Says He Found the Tagged Jacket in Cole's Room",
+      "claim": "In a clip the host plays, the speaker says a jacket he found in Cole's room still has a tag hanging on it, and that the jacket on the hanger is not the one worn in the video.",
+      "anchored_artifacts": [
+        "A-3425.1"
+      ],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:06",
+      "investigative_direction": "Identify the clip's speaker and examine the jacket.",
+      "transcript_snippet": "This is a jacket I found in his room that still has a tag hanging on it.",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14495",
+      "ref": "C-14495",
+      "label": "Host Says Cole's Grandmother Identified the Jacket as Her Christmas Gift",
+      "claim": "The host says that when the detail was discovered, Brian Cole Jr.'s grandmother reached out to say it was her grandson, wearing the Kohl's jacket she bought him for Christmas a few weeks earlier.",
+      "anchored_artifacts": [
+        "A-3425.2"
+      ],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:15",
+      "investigative_direction": "Statement from Cole's grandmother and the Kohl's purchase record.",
+      "transcript_snippet": "Because when they discovered this detail, Brian Cole's grandmother reached out and said,",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14496",
+      "ref": "C-14496",
+      "label": "Per Steve Baker's X Post, Cole's Grandmother Phoned Him About the Jacket",
+      "claim": "Per the Steve Baker X post the host shows, Cole's grandmother phoned Baker to say the jacket in the video is the exact one she gave him for Christmas two weeks earlier, which explains the hanging tag.",
+      "anchored_artifacts": [
+        "A-3425.2"
+      ],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:34",
+      "investigative_direction": "Baker's X post and an interview with the grandmother.",
+      "transcript_snippet": "Brian Cole Jr.'s 's grandmother just phoned me saying that the jacket that her grandson was wearing in this video is the exact jacket that she had given him for Christmas only two weeks prior.",
+      "mentions_person_refs": [
+        "N-236",
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14497",
+      "ref": "C-14497",
+      "label": "Per Baker's Post, the FBI Can Get the Kohl's Purchase Record",
+      "claim": "Per the Steve Baker X post the host shows, the FBI should be able to get the purchase record from Kohl's, since Loretta recalls buying the jacket with other gifts on her Kohl's credit card. The post tells \"Director Kash\" to release Cole.",
+      "anchored_artifacts": [
+        "A-3425.2"
+      ],
+      "related_nodes": [
+        "N-10014",
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:46",
+      "investigative_direction": "Kohl's credit card transaction records for December 2020.",
+      "transcript_snippet": "The FBI should be able to get that purchase record from Kohl's immediately. Loretta recalls making that purchase along with other gifts using her Kohl's credit card.",
+      "mentions_person_refs": [
+        "N-236",
+        "N-69",
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14498",
+      "ref": "C-14498",
+      "label": "In a Clip, a Speaker Says the Mask Is the Maroon and Gold of the Old Redskins",
+      "claim": "In a clip the host plays, the speaker says the suspect's mask is the maroon and gold of the old Washington Redskins, and that in January 2021 the team was just the Washington Football Team.",
+      "anchored_artifacts": [
+        "A-3425.3"
+      ],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:38",
+      "investigative_direction": "Enhanced frames of the mask from the January 5 footage.",
+      "transcript_snippet": "But, uh, this mask is the maroon and gold of the old Washington Redskins.",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14499",
+      "ref": "C-14499",
+      "label": "In a Clip, a Speaker Says Cole's Mother Handmade All His Masks",
+      "claim": "In a clip the host plays, the speaker says Brian's mother handmade all of his masks from team-colour fabric, because he disliked surgical masks.",
+      "anchored_artifacts": [
+        "A-3425.3"
+      ],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:58",
+      "investigative_direction": "Other masks the mother made, and fabric purchase records.",
+      "transcript_snippet": "But here's what's most significant about the mask is that Brian's mother handmade all of his masks for him.",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14500",
+      "ref": "C-14500",
+      "label": "In a Clip, a Speaker Says Cole's Mother Cried When She Saw the Mask",
+      "claim": "In a clip the host plays, the speaker says, hoping \"Brian Senior\" will forgive him for not getting permission, that Brian's mother started crying when she saw the mask.",
+      "anchored_artifacts": [
+        "A-3425.3"
+      ],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:55",
+      "investigative_direction": "A statement from Cole's parents on the mask.",
+      "transcript_snippet": "I will tell you that when Brian's mother saw that mask she started crying.",
+      "mentions_person_refs": [
+        "N-25",
+        "N-974"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14501",
+      "ref": "C-14501",
+      "label": "Host Says Baker's Team Also Did a Height Analysis",
+      "claim": "The host says Baker's team went further and did a height analysis, and she says Baker was gaslit when he identified a female suspect.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:20",
+      "investigative_direction": "Baker's published height analysis compared with Cole's measured height.",
+      "transcript_snippet": "They even go further and they do a height analysis. It's It's worth following the work of Steve Steven Baker.",
+      "mentions_person_refs": [
+        "N-236",
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14502",
+      "ref": "C-14502",
+      "label": "Host Alleges Cole Was Forced Into False Testimony Under Torture",
+      "claim": "The host alleges, citing an earlier episode, that the authorities effectively forced Cole to give false testimony because he was being tortured.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10793",
+        "N-10014"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:52",
+      "investigative_direction": "The recording and transcript of Cole's FBI interview and any defense motion to suppress.",
+      "transcript_snippet": "They effectively forced him to give a false testimony because he was being tortured.",
+      "supports_claim_refs": [
+        "C-13814"
+      ],
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14503",
+      "ref": "C-14503",
+      "label": "Host Says Patel Has Not Commented, Bongino Is Blocking People, and Cole Is Still in Prison",
+      "claim": "The host says there is no comment yet from Kash Patel, Dan Bongino has gone on a blocking spree online, and Brian Cole is still in prison, like Tyler Robinson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10793"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:08",
+      "investigative_direction": "FBI statements on Baker's footage and Cole's detention status.",
+      "transcript_snippet": "No comment yet from Kash Patel. Dan Bongino has gone on a blocking spree online and Brian Cole is still in prison much like Tyler Robinson",
+      "mentions_person_refs": [
+        "N-69",
+        "N-378",
+        "N-25",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14504",
+      "ref": "C-14504",
+      "label": "Host Says She Does Not Believe Robinson Was Ever on the Losee Rooftop",
+      "claim": "The host says she does not believe Tyler Robinson was ever on the Losee rooftop on September 10, citing the athletic movement, the military crawl and the jump. She says Robinson is not known to be an athlete.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10684",
+        "N-10597"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:24",
+      "investigative_direction": "Full UVU rooftop footage compared with Robinson's physical profile.",
+      "transcript_snippet": "I do not believe that he was ever on the Losee rooftop on September 10th for a variety of reasons like uh the athletic nature of the person moving uh the military crawl jumping off of a rooftop.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14505",
+      "ref": "C-14505",
+      "label": "Host Says Nester Asked Bagley Whether He Checked UVU Cameras for Anyone on the Roof",
+      "claim": "The host says that at the preliminary hearing Tyler Robinson's lawyer Kathy Nester asked Officer Bagley whether he had checked the UVU cameras for anyone on the Losee rooftop after the alleged shot and before he went up.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11065",
+        "N-10704",
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:08",
+      "investigative_direction": "The preliminary hearing transcript of Bagley's cross-examination.",
+      "transcript_snippet": "she wanted to know if he had checked the cameras at UVU to see if anyone had been on the Losee rooftop after the alleged shot and before officer Bagley went up there.",
+      "mentions_person_refs": [
+        "N-506",
+        "N-826",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14506",
+      "ref": "C-14506",
+      "label": "Host Says the Suspect Jumped at 12:23 and Bagley Arrived at 12:44",
+      "claim": "The host says about 20 minutes passed between the suspect jumping off the rooftop at 12:23 p.m. and Officer Bagley arriving on it at 12:44 p.m.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10704"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:25",
+      "investigative_direction": "UVU camera timestamps and Bagley's testimony on his arrival time.",
+      "transcript_snippet": "in the approximate 20 minutes between when the suspect jumped off of the rooftop at 12:23 p.m.",
+      "mentions_person_refs": [
+        "N-506"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14507",
+      "ref": "C-14507",
+      "label": "In the Hearing Clip, Nester Confirms Bagley Did Not Review the Video",
+      "claim": "In the hearing clip the host plays, Kathy Nester puts it to Officer Bagley that he did not review the video to see whether anyone was on or disturbed the scene between the jump and his arrival. The host says no one checked the cameras.",
+      "anchored_artifacts": [
+        "A-3426.1"
+      ],
+      "related_nodes": [
+        "N-10704",
+        "N-11065"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:52",
+      "investigative_direction": "The hearing transcript and whether any investigator reviewed the 12:23–12:44 footage.",
+      "transcript_snippet": "So, you did not review the video to see if there was someone between you, that individual jumping off, and you coming on",
+      "mentions_person_refs": [
+        "N-826",
+        "N-506"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14508",
+      "ref": "C-14508",
+      "label": "Host Says Bagley's Body Cam Was Not Working",
+      "claim": "The host says it is known that Officer Bagley's body cam footage was not working when he found the evidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:10",
+      "investigative_direction": "Axon logs for Bagley's body camera on September 10, 2025.",
+      "transcript_snippet": "we know um that his body cam footage is not working.",
+      "mentions_person_refs": [
+        "N-506"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14509",
+      "ref": "C-14509",
+      "label": "Host Says She Can Exclusively Confirm Someone Returned to the Losee Rooftop Ledge",
+      "claim": "The host says she can exclusively confirm that someone did go back up onto the Losee rooftop, to the ledge, after the shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:42",
+      "investigative_direction": "The source and chain of custody of the host's UVU footage.",
+      "transcript_snippet": "And I can exclusively confirm here on this show that yes, someone did indeed go back up onto Losee rooftop to the ledge afterward.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14510",
+      "ref": "C-14510",
+      "label": "Host Says the Returning Figure Appears to Be the Same Person Who Jumped Off",
+      "claim": "The host says that in her assessment the returning figure appears to be the same individual who jumped onto and then off the rooftop.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:56",
+      "investigative_direction": "Forensic comparison of the two figures in the footage.",
+      "transcript_snippet": "it appears to me to be the very same individual who had jumped onto the rooftop and then jumped off of the rooftop."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14511",
+      "ref": "C-14511",
+      "label": "Per the Side-by-Side Still, the 12:17 and 12:37 Figures Are Nearly Identical",
+      "claim": "Per the side-by-side still the host shows, the figure at 12:17 and the figure at 12:37, after the alleged shot, are nearly identical. The host says they examined pixels and height.",
+      "anchored_artifacts": [
+        "A-3427.1"
+      ],
+      "related_nodes": [
+        "N-11363",
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:32",
+      "investigative_direction": "Independent photogrammetry of both frames.",
+      "transcript_snippet": "1217 on your left. 1237 after the alleged rooftop shot. Nearly identical. We took a look at the pixels. We took a look at the height.",
+      "mentions_person_refs": [
+        "N-10012"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14512",
+      "ref": "C-14512",
+      "label": "Host Says the Figure Returned to the Exact Spot and Lingered About Five Minutes",
+      "claim": "The host says 12:37 is about five minutes before Officer Bagley reached the roof, and that the figure returned to the exact spot and lingered there for about five minutes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:15",
+      "investigative_direction": "Continuous UVU footage of the ledge from 12:35 to 12:44.",
+      "transcript_snippet": "And this person who I believe returned to the exact spot. Um when he gets to that spot, he he actually lingers there for about 5 minutes.",
+      "mentions_person_refs": [
+        "N-506"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14513",
+      "ref": "C-14513",
+      "label": "Host Says They Nicknamed the Figure Slenderman Because He Is Extremely Tall",
+      "claim": "The host says her team nicknamed the figure \"Slenderman\" because he is extremely tall.",
+      "anchored_artifacts": [
+        "A-3427.2"
+      ],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:55",
+      "investigative_direction": "Height estimate of the figure against known rooftop features.",
+      "transcript_snippet": "We have nicknamed him Slenderman because he is extremely tall, which I'm going to also demonstrate to you."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14514",
+      "ref": "C-14514",
+      "label": "Host Says Footage 12 Minutes After Charlie Was Hit Shows the Tall Figure With a Backpack",
+      "claim": "The host says the footage she shows is from 12 minutes after Charlie was hit, and shows the figure's long legs and a backpack.",
+      "anchored_artifacts": [
+        "A-3427.2"
+      ],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:20",
+      "investigative_direction": "The camera's timestamp and the backpack's appearance in other footage.",
+      "transcript_snippet": "Here he is. Look at You can just You can just see how tall his legs are. You can see the backpack.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14515",
+      "ref": "C-14515",
+      "label": "Host Points Out a Dragging Leg in the Footage",
+      "claim": "The host says a slight dragging of the figure's leg is visible in the footage, and later suggests he may have been injured jumping off the roof.",
+      "anchored_artifacts": [
+        "A-3427.2"
+      ],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:46",
+      "investigative_direction": "Gait analysis of the figure across frames.",
+      "transcript_snippet": "we're going to talk about the the dragging of that leg that you slightly see there."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14516",
+      "ref": "C-14516",
+      "label": "Host Says the Figure Walks Up to the Ledge at About 12:36",
+      "claim": "The host says that at about 12:36 the figure walks up to the ledge that the alleged shooter hopped over and ducked behind.",
+      "anchored_artifacts": [
+        "A-3427.3"
+      ],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:22",
+      "investigative_direction": "UVU camera footage of the ledge at 12:36.",
+      "transcript_snippet": "Next up, at approximately 1236, he is going to walk up to the ledge."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14517",
+      "ref": "C-14517",
+      "label": "Host Says the Figure Walks Back and Forth Around 12:38",
+      "claim": "The host says the figure then walks back and forth around 12:38 and stays for a while.",
+      "anchored_artifacts": [
+        "A-3427.4"
+      ],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:08",
+      "investigative_direction": "UVU camera footage from 12:38.",
+      "transcript_snippet": "But we can tell you happens next. is that he sort of then walks back and forth around 12:38."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14518",
+      "ref": "C-14518",
+      "label": "Host Says the Footage Blacks Out for a Minute When the Figure Returns to the Ledge at 12:40",
+      "claim": "The host says the footage drops out when the figure goes back to the ledge at 12:40 and stays blacked out for a minute.",
+      "anchored_artifacts": [
+        "A-3427.5"
+      ],
+      "related_nodes": [
+        "N-11363",
+        "N-11114"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:40",
+      "investigative_direction": "UVU camera system logs for the 12:40–12:41 gap.",
+      "transcript_snippet": "the footage is going to have a dropout because what we know happens is he goes back to the ledge at 12:40.",
+      "mentions_person_refs": [
+        "N-11114"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14519",
+      "ref": "C-14519",
+      "label": "Host Says Footage Shows the Figure Leaving the Ledge at 12:42",
+      "claim": "The host says footage shows the figure departing the ledge at 12:42 p.m., a couple of minutes before Officer Bagley appears.",
+      "anchored_artifacts": [
+        "A-3427.5"
+      ],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:10",
+      "investigative_direction": "UVU camera footage at 12:42 and the figure's exit route.",
+      "transcript_snippet": "But what we do have is footage of him then departing the ledge at 12:42 p.m."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14520",
+      "ref": "C-14520",
+      "label": "Host Says Bagley Appeared on the Roof Less Than a Minute Later",
+      "claim": "The host says Officer Bagley appears on the rooftop less than a minute after the figure leaves the ledge.",
+      "anchored_artifacts": [
+        "A-3427.5"
+      ],
+      "related_nodes": [
+        "N-11363"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:55",
+      "investigative_direction": "Timestamps of Bagley's arrival in the UVU footage.",
+      "transcript_snippet": "Literally less than a minute later, Officer Bagley makes his premiere on the rooftop.",
+      "mentions_person_refs": [
+        "N-506"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14521",
+      "ref": "C-14521",
+      "label": "Host Says the First Thing Bagley Does Is Find a Screwdriver Over the Ledge",
+      "claim": "The host says the first thing Bagley does on the roof is find a screwdriver a few feet over the ledge.",
+      "anchored_artifacts": [
+        "A-3426.2"
+      ],
+      "related_nodes": [
+        "N-10086"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:16",
+      "investigative_direction": "Evidence logs and photographs of the screwdriver's location.",
+      "transcript_snippet": "And the first thing he does is he finds a screwdriver just a few feet over the ledge.",
+      "mentions_person_refs": [
+        "N-506"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14522",
+      "ref": "C-14522",
+      "label": "In the Hearing Clip, Bagley Says the Screwdriver Was About 10 or 15 Feet In",
+      "claim": "In the hearing clip the host plays, Officer Bagley testifies that the screwdriver was on the Losee building roof, about 10 or 15 feet in from where he hopped the rail.",
+      "anchored_artifacts": [
+        "A-3426.2"
+      ],
+      "related_nodes": [
+        "N-10086",
+        "N-11065"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:48",
+      "investigative_direction": "The hearing transcript and scene diagrams.",
+      "transcript_snippet": ">> About 10 or 15 feet in. Oh, that's really interesting.",
+      "mentions_person_refs": [
+        "N-506"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14523",
+      "ref": "C-14523",
+      "label": "Host Opines That Bagley, the Authorities and Nester Knew Someone Was Up There",
+      "claim": "The host says, explicitly as her opinion and not as fact, that Officer Bagley, the authorities and even Kathy Nester knew that the individual was in the critical area after Charlie was hit.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11363",
+        "N-10704"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:05",
+      "investigative_direction": "Defense discovery requests for rooftop footage and police reports.",
+      "transcript_snippet": "I think officer Bagley and the authorities and even Kathy Nester because people weren't sure why she was asking that question, a very specific question knew that that individual was up in that most critical area",
+      "mentions_person_refs": [
+        "N-506",
+        "N-826",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14524",
+      "ref": "C-14524",
+      "label": "Host Opines Slenderman Returned Because Charlie Was Not Shot From the Losee Rooftop",
+      "claim": "The host says it is her opinion that Slenderman returned to the scene because she does not believe Charlie was shot from the Losee rooftop, and that the person who jumped off made a critical error by leaving or forgetting to leave something.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11363",
+        "N-10597"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:28",
+      "investigative_direction": "Ballistic trajectory evidence and the medical examiner's report.",
+      "transcript_snippet": "What I think in my opinion is that Slenderman is returning to the scene of the non-rime because I do not believe Charlie was shot from Losee Rooftop.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14525",
+      "ref": "C-14525",
+      "label": "Host Says Someone With Access Appears to Have Wiped About a Minute of Footage",
+      "claim": "The host says it appears to her that someone with power at the university and access to the footage wiped about a minute after Slenderman reappears at the ledge. She speculates that the minute may show a screwdriver being tossed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11114",
+        "N-11363",
+        "N-10012",
+        "N-10086"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:25:12",
+      "investigative_direction": "UVU video management system audit logs and the access list.",
+      "transcript_snippet": "someone with a lot of power at the university potentially and with access to the footage thought it prudent to wipe that approximate minute after Slenderman reappears at the ledge.",
+      "mentions_person_refs": [
+        "N-11363",
+        "N-10012",
+        "N-10086"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14526",
+      "ref": "C-14526",
+      "label": "Host Says the Screwdriver Is the Only Thing Tying Robinson to the Rooftop",
+      "claim": "The host says the screwdriver is the only thing that has tied Tyler Robinson to the rooftop.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10086"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:25:32",
+      "investigative_direction": "The prosecution's evidence list linking Robinson to the Losee roof.",
+      "transcript_snippet": "Remember, the screwdriver is the only thing that has tied Tyler Robinson to the rooftop.",
+      "supports_claim_refs": [
+        "C-13095"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14527",
+      "ref": "C-14527",
+      "label": "Host Releases a \"General McCoy\" Trading Card",
+      "claim": "The host releases a show trading card of \"General McCoy\" (Mikey McCoy), saying Blake Neff informed the public that McCoy was directing the battle like a general.",
+      "anchored_artifacts": [
+        "A-3428.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:58",
+      "investigative_direction": "Blake Neff's earlier public account of McCoy's role on September 10.",
+      "transcript_snippet": "He was like a general directing the battle. Blake Neff informed us.",
+      "mentions_person_refs": [
+        "N-190",
+        "N-159"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14528",
+      "ref": "C-14528",
+      "label": "Host Releases an FBI Trading Card With \"33 33\" and \"See You in Valhalla\"",
+      "claim": "The host releases a second show card for the FBI director, with the points \"33 33\" and the line \"See you in Valhalla. Rest now, brother.\" She lists its weakness as country music sensations.",
+      "anchored_artifacts": [
+        "A-3428.2"
+      ],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:31:30",
+      "investigative_direction": "The FBI director's September 2025 posts quoted on the card.",
+      "transcript_snippet": "FBI now. I mean, obviously the points here are 33 33. See you in Valhalla. Rest now, brother."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14529",
+      "ref": "C-14529",
+      "label": "Host Says Boreing Fired Her and Gaslights About the Reasons",
+      "claim": "The host says former Daily Wire CEO Jeremy Boreing, involved in her life for three years, fired her because she said genocide is always wrong and is now gaslighting people about the reasons.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10821",
+        "N-11034"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:33:35",
+      "investigative_direction": "The Daily Wire's stated reasons for the March 2024 separation.",
+      "transcript_snippet": "it it's so stunning to me that he fired me and is now trying to gaslight people about the reasons that he fired me because I said genocide is always wrong.",
+      "supports_claim_refs": [
+        "C-13719"
+      ],
+      "mentions_person_refs": [
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14530",
+      "ref": "C-14530",
+      "label": "Per the X Thread, Kelly Fuller Wrote She Trusts Only Owens, Carroll and Coleman",
+      "claim": "Per the X thread the host shows, a user named Kelly Fuller wrote that she trusts only three people, Candace Owens, Ian Carroll and Baron Coleman, and Jeremy Boreing replied \"Tragic.\"",
+      "anchored_artifacts": [
+        "A-3429.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:05",
+      "investigative_direction": "The X thread and its timestamps.",
+      "transcript_snippet": "Kell Kelly Fuller wrote, \"At this point, I only trust three people. Candace Owens, Ian Carroll, and Baron Coleman.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-130",
+        "N-330",
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14531",
+      "ref": "C-14531",
+      "label": "Per the X Thread, the User Replied That Firing Someone Over Genocide Is Tragic",
+      "claim": "Per the X thread the host shows, the user replied, \"Tragic is firing someone for saying genocide is always wrong.\"",
+      "anchored_artifacts": [
+        "A-3429.1"
+      ],
+      "related_nodes": [
+        "N-11034"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:20",
+      "investigative_direction": "The X thread.",
+      "transcript_snippet": "Then she says, \"Tragic is firing someone for saying genocide is always wrong.\"",
+      "mentions_person_refs": [
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14532",
+      "ref": "C-14532",
+      "label": "Per the X Thread, Boreing Asked if the User Was Misleading or Brainwashed",
+      "claim": "Per the X thread the host shows, Jeremy Boreing replied that he wondered whether the user was deliberately misleading or truly brainwashed, adding that \"Candace is better at lying than most people are at discerning the truth.\"",
+      "anchored_artifacts": [
+        "A-3429.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:32",
+      "investigative_direction": "Boreing's X account.",
+      "transcript_snippet": "Jeremy Boreing comes back and he says, \"I wonder if you're being deliberately misleading or if you are truly brainwashed.\"",
+      "mentions_person_refs": [
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14533",
+      "ref": "C-14533",
+      "label": "Host Says Her Confidentiality Clause Allows Only a Proportionate Reply",
+      "claim": "The host says she called her lawyers, and that her confidentiality agreement with the Daily Wire lets one side respond only proportionately if the other violates it, so she may reply only on the genocide point.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10821"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:35:22",
+      "investigative_direction": "The terms of the Owens–Daily Wire separation agreement.",
+      "transcript_snippet": "we even have a clause for if someone violates uh the confidentiality that you can only respond proportionately.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14534",
+      "ref": "C-14534",
+      "label": "Host Says Her Firing Document Includes Her Genocide Tweet",
+      "claim": "The host shows what she says is her Daily Wire firing document and says it includes her tweet. She says she wishes the full documents could be released.",
+      "anchored_artifacts": [
+        "A-3430.1"
+      ],
+      "related_nodes": [
+        "N-10821",
+        "N-11034"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:35:58",
+      "investigative_direction": "The Daily Wire termination letter.",
+      "transcript_snippet": "I mean this is literally from my firing document. They put the tweet in there.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14535",
+      "ref": "C-14535",
+      "label": "Per the Firing Document, She Insinuated Israel Is Committing Genocide",
+      "claim": "Per the firing document the host shows, she had insinuated that Israel is committing a genocide and refused to explicitly deny that interpretation.",
+      "anchored_artifacts": [
+        "A-3430.1"
+      ],
+      "related_nodes": [
+        "N-11034"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:15",
+      "investigative_direction": "The Daily Wire termination letter.",
+      "transcript_snippet": "It says you have insinuated that you believe Israel is committing a genocide and refused to explicitly deny that interpretation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14536",
+      "ref": "C-14536",
+      "label": "Host Says Her Tweet Said No Government Has a Right to Commit Genocide",
+      "claim": "The host says what she actually tweeted was that no government anywhere has a right to commit a genocide and that there is no justification for one.",
+      "anchored_artifacts": [
+        "A-3430.2"
+      ],
+      "related_nodes": [
+        "N-11034"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:25",
+      "investigative_direction": "The host's X archive from November 2023.",
+      "transcript_snippet": "I said, \"No government anywhere has a right to commit a genocide ever. There's no justification for a genocide.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14537",
+      "ref": "C-14537",
+      "label": "Host Says the Tweet Responded to Brian Mast's Statement That Yashar Ali Called Genocidal",
+      "claim": "The host says the tweet responded to Brian Mast, who said there is no such thing as an innocent Palestinian life, a statement journalist Yashar Ali called genocidal language.",
+      "anchored_artifacts": [
+        "A-3430.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:50",
+      "investigative_direction": "Brian Mast's November 2023 House floor remarks and Yashar Ali's post.",
+      "transcript_snippet": "Uh, journalist Yashar Ali called it out and said, \"This is genocidal language.\" Where he said, \"There's no such thing as an innocent Palestinian life.\"",
+      "mentions_person_refs": [
+        "N-64",
+        "N-161"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14538",
+      "ref": "C-14538",
+      "label": "Per the Firing Document, She Posted About Christians Killed by Israel",
+      "claim": "Per the firing document the host shows, instead of reporting on the October 7 attacks she repeatedly posted about Christians being killed by Israel, which led some to conclude she is anti-Semitic.",
+      "anchored_artifacts": [
+        "A-3430.1"
+      ],
+      "related_nodes": [
+        "N-11034"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:37:08",
+      "investigative_direction": "The Daily Wire termination letter.",
+      "transcript_snippet": "you have repeatedly posted about Christians being killed by Israel, and you recognize that this has led some to conclude that you are anti-Semitic."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14539",
+      "ref": "C-14539",
+      "label": "Host Says Boreing Called Her the Mistress of Lies",
+      "claim": "The host says Jeremy Boreing called her \"the mistress of lies\".",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:00",
+      "investigative_direction": "Boreing's X posts or podcast.",
+      "transcript_snippet": "He called me the mistress of lies.",
+      "mentions_person_refs": [
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14540",
+      "ref": "C-14540",
+      "label": "Host Says Guilfoyle Got the Greece Post Allegedly Because Don Jr. Wanted Her Far Away",
+      "claim": "The host says that after Kimberly Guilfoyle and Donald Trump Jr. broke up, it was understood she was given the ambassadorship to Greece because Don Jr. allegedly wanted her as far away as possible.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11364"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:38",
+      "investigative_direction": "Reporting on Guilfoyle's December 2024 nomination.",
+      "transcript_snippet": "it was understood that she was given an ambassadorship to Greece because Don Jr. wanted her as far as possible allegedly um from him and his new relationship.",
+      "mentions_person_refs": [
+        "N-975",
+        "N-33"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14541",
+      "ref": "C-14541",
+      "label": "Host Says Axios Reported Guilfoyle Was Pushed Out as Ambassador",
+      "claim": "The host says Kimberly Guilfoyle has been pushed out as ambassador, as reported by Axios.",
+      "anchored_artifacts": [
+        "A-3431.1"
+      ],
+      "related_nodes": [
+        "N-10861",
+        "N-11364"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:54",
+      "investigative_direction": "The Axios report and the State Department announcement.",
+      "transcript_snippet": "Now, Kimberly Guilfoyle has been pushed out as the ambassador. It was reported by Axios and obviously everyone.",
+      "mentions_person_refs": [
+        "N-975"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14542",
+      "ref": "C-14542",
+      "label": "Host Says Guilfoyle Announced Her Resignation After the White House Asked",
+      "claim": "The host says Guilfoyle had to announce her resignation after the White House asked her to step down following reports about her conduct.",
+      "anchored_artifacts": [
+        "A-3431.1"
+      ],
+      "related_nodes": [
+        "N-11364"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:02",
+      "investigative_direction": "The White House press secretary's statement of October 2026.",
+      "transcript_snippet": "she had to announce her resignation after the White House basically asked her to sit down following reports",
+      "mentions_person_refs": [
+        "N-975"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14543",
+      "ref": "C-14543",
+      "label": "Host Says Reports Said Guilfoyle Sought Financial Favors",
+      "claim": "The host says reports said Guilfoyle was abusing the office, making deals and seeking financial favors to promote people's business interests.",
+      "anchored_artifacts": [
+        "A-3431.1"
+      ],
+      "related_nodes": [
+        "N-11364"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:12",
+      "investigative_direction": "Wall Street Journal and Axios reporting on the allegations.",
+      "transcript_snippet": "They said she was abusing the office, that she was making deals, that uh she was seeking financial favors to promote people's business interests.",
+      "mentions_person_refs": [
+        "N-975"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14544",
+      "ref": "C-14544",
+      "label": "Host Says Guilfoyle Wanted $100,000 From Eric Deters for Her Credit Card Bill",
+      "claim": "The host says one person, Eric Deters, came forward to say Guilfoyle wanted $100,000 from him to pay off her credit card bill before her Senate confirmation hearing and offered him access to the Trump administration.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11364"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:24",
+      "investigative_direction": "The Wall Street Journal report quoting Deters and Guilfoyle's lawyers' response.",
+      "transcript_snippet": "That one person explicitly came out to Eric Deters and said that she wanted $100,000 from him. She wanted him to pay off her credit card bill before her Senate confirmation hearing",
+      "mentions_person_refs": [
+        "N-975",
+        "N-976"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14545",
+      "ref": "C-14545",
+      "label": "Host Alleges Miriam Adelson Outright Purchased the White House",
+      "claim": "The host alleges that everyone is doing what Guilfoyle is accused of, saying Miriam Adelson \"outright purchased the White House\".",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:45",
+      "investigative_direction": "FEC records of Adelson's 2024 campaign contributions.",
+      "transcript_snippet": "Everyone like Miriam Adelson outright purchased the White House",
+      "mentions_person_refs": [
+        "N-298"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14546",
+      "ref": "C-14546",
+      "label": "Host Points to the Trump Brothers' Crypto Ventures, Which She Calls Scams",
+      "claim": "The host contrasts Guilfoyle with the Trump administration and points to what she calls the Trump brothers' \"crypto scams\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11364"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:18",
+      "investigative_direction": "Disclosures on Trump family crypto ventures.",
+      "transcript_snippet": "Look at what look at what the Trump brothers are doing with the crypto scams.",
+      "mentions_person_refs": [
+        "N-33",
+        "N-34",
+        "N-975"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14547",
+      "ref": "C-14547",
+      "label": "Host Compares Guilfoyle's Case to the Scrutiny of Katie Zacharia's Résumé",
+      "claim": "The host says the focus on Guilfoyle's AmEx card feels like when Katie Zacharia was targeted for lying about her résumé.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11340",
+        "N-11364"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:35",
+      "investigative_direction": "Coverage of Zacharia's credentials and exit.",
+      "transcript_snippet": "It feels like when they went after Katie Zacharia for lying about her resume.",
+      "mentions_person_refs": [
+        "N-960",
+        "N-975"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14548",
+      "ref": "C-14548",
+      "label": "Host Says Tyler Bowyer Is Blocking More People on X",
+      "claim": "After a viewer comment on Bowyer's statue explanation, the host says Tyler Bowyer is blocking more people on X.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10750"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:50",
+      "investigative_direction": "Screenshots from users Bowyer blocked.",
+      "transcript_snippet": "Tyler Bowyer is blocking more people on X. I am very [snorts] disappointed.",
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14549",
+      "ref": "C-14549",
+      "label": "A Viewer Comment Says the Latvian Bot Farms Failed to Conceal Erika's Lies",
+      "claim": "A viewer comment the host reads, from \"Ali\", says the host exposed the \"grifting vultures\" who now run Turning Point USA and that the Latvian bot farms failed to conceal Erika's lies.",
+      "anchored_artifacts": [
+        "A-3432.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:38",
+      "investigative_direction": "The host's earlier reporting on the alleged Latvian bot farm.",
+      "transcript_snippet": "The Latvian bot farms failed to conceal Erika's lies and betrayals.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14550",
+      "ref": "C-14550",
+      "label": "Host Says the Lawfare Against Her Is Meant to Exhaust Her",
+      "claim": "The host says opponents come after her nonstop, including through lawfare, which she says is meant to exhaust her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:50",
+      "investigative_direction": "Active lawsuits against the host.",
+      "transcript_snippet": "it's for the reason for, you know, fighting me the law fair. It's al meant to exhaust me.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14551",
+      "ref": "C-14551",
+      "label": "Host Says She Does Not Want the State to Execute a Potentially Innocent Robinson",
+      "claim": "The host says she has seen one innocent man, Charlie Kirk, \"executed by the state\", and that \"these people\" are going to execute another potentially innocent person, Tyler Robinson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10597"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:05",
+      "investigative_direction": "Utah County's notice of intent to seek the death penalty.",
+      "transcript_snippet": "they're going to they're going to execute another potentially innocent person for the crime of what they did.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14552",
+      "ref": "C-14552",
+      "label": "Host Says Persisting Led Her to Discover the Latvian Bot Farm",
+      "claim": "The host says that if she had not kept going, they would not have discovered the Latvian bot farm or connected the \"I want to go home\" pieces.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:48:05",
+      "investigative_direction": "The host's earlier evidence for the bot-farm claim.",
+      "transcript_snippet": "I guess again like if I didn't keep going, we wouldn't have discovered that Latvian bot farm",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14553",
+      "ref": "C-14553",
+      "label": "A Viewer Comment Says a Pediatrician Advised Keeping an Asperger Diagnosis Off Records",
+      "claim": "A viewer comment the host reads says a mother was told by her son's pediatrician never to put his Asperger diagnosis in his medical records because it would put a target on his back. The host says she believes it.",
+      "anchored_artifacts": [
+        "A-3432.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:48:55",
+      "investigative_direction": "None beyond the commenter's account.",
+      "transcript_snippet": "She took the results to his pediatrician who said the best thing she could do is never put it in his medical records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14554",
+      "ref": "C-14554",
+      "label": "A Viewer Comment Apologises for the X Drama With Boreing",
+      "claim": "A viewer comment the host reads, from \"Blushing Chaos\", apologises for the X drama, saying she was trying to show support. The host infers she wrote the \"I like Candace\" post Boreing reacted to.",
+      "anchored_artifacts": [
+        "A-3432.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:49:55",
+      "investigative_direction": "The X thread.",
+      "transcript_snippet": "My apologies for the ex drama that ensued today. I was trying to give you some love and support and it blew up.",
+      "mentions_person_refs": [
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14555",
+      "ref": "C-14555",
+      "label": "Host Gives Full Permission to Release Every Reason She Was Fired",
+      "claim": "The host says that if Boreing releases the entire firing documents, she has no objection and gives full permission for everyone to see every reason she was fired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11034"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:32",
+      "investigative_direction": "Whether the Daily Wire releases the termination documents.",
+      "transcript_snippet": "No holdups on on my end. You have my full permission to see every reason that I was fired.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-366"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-367",
+      "ref": "M-367",
+      "canonical_term": "The Gang Bangers Did It",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:00:15",
+          "speaker_node_ref": "N-3",
+          "quote": "I mean, this time regarding how we might help catch those pesky gang bangers over at TPUSA.",
+          "context": "Introduces a viewer comment on the statue vandalism, mocking Bowyer's gang-banger explanation.",
+          "confidence": "high",
+          "tags": [
+            "statue",
+            "TPUSA",
+            "Bowyer"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-346",
+      "ref": "M-346",
+      "canonical_term": "What Luck",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:03:52",
+          "speaker_node_ref": "N-3",
+          "quote": "I mean, what luck for the feds.",
+          "context": "Sarcasm about the Cole arrest arriving as the public noticed the facts did not line up.",
+          "confidence": "high",
+          "tags": [
+            "feds",
+            "Brian Cole Jr.",
+            "coincidence"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-189",
+      "ref": "M-189",
+      "canonical_term": "Mockingbirds",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:05:15",
+          "speaker_node_ref": "N-3",
+          "quote": "They're all kind of become these little mocking birds.",
+          "context": "Compares today's paid messengers with Operation Mockingbird journalists.",
+          "confidence": "high",
+          "tags": [
+            "Mockingbird",
+            "media",
+            "Scripps"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-74",
+      "ref": "M-74",
+      "canonical_term": "Believe Your Own Eyes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:05:12",
+          "speaker_node_ref": "N-3",
+          "quote": "telling us not to believe our own eyes.",
+          "context": "Describes alleged DoD-paid messengers.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "media"
+          ]
+        },
+        {
+          "episode": 168,
+          "video_timestamp": "00:26:50",
+          "speaker_node_ref": "N-3",
+          "quote": "It's not a fact, but the footage is factual. Your eyes are factual.",
+          "context": "Urges viewers to judge the Slenderman side-by-side for themselves.",
+          "confidence": "medium",
+          "tags": [
+            "rooftop",
+            "footage"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:05:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Don't ask any questions that makes you a conspiracy theorist. In fact, that's when they began really using the term conspiracy theorist.",
+          "context": "Oswald and Mockingbird aside.",
+          "confidence": "high",
+          "tags": [
+            "CIA",
+            "JFK"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:12:59",
+          "speaker_node_ref": "N-3",
+          "quote": "First, I want to jog your memory to a rather unbelievable moment of the preliminary hearing.",
+          "context": "Recalls Bagley's testimony on not reviewing the video.",
+          "confidence": "high",
+          "tags": [
+            "preliminary hearing",
+            "Bagley"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-311",
+      "ref": "M-311",
+      "canonical_term": "Think While It's Still Legal",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:26:50",
+          "speaker_node_ref": "N-3",
+          "quote": "You can look at that individual and you can think while it's still legal about why his foot, his axon body cam would unusually cut out",
+          "context": "Closing the Slenderman segment.",
+          "confidence": "high",
+          "tags": [
+            "rooftop",
+            "body cam"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-360",
+      "ref": "M-360",
+      "canonical_term": "Pokemon Stats",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:30:38",
+          "speaker_node_ref": "N-3",
+          "quote": "Look, our our hokey Pokemon cards, they're a hit. They're a smash hit. Everybody's trying to collect them all.",
+          "context": "Releases the General McCoy and FBI cards.",
+          "confidence": "high",
+          "tags": [
+            "cards",
+            "merch",
+            "McCoy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-123",
+      "ref": "M-123",
+      "canonical_term": "Magnificent Mikey McCoy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:31:11",
+          "speaker_node_ref": "N-3",
+          "quote": "extraordinary Mikey McCoy. The extraordinary Mikey McCoy. This is one to have.",
+          "context": "Stat list on the General McCoy card.",
+          "confidence": "high",
+          "tags": [
+            "McCoy",
+            "cards"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-340",
+      "ref": "M-340",
+      "canonical_term": "Thirty-Three Signaling",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:31:11",
+          "speaker_node_ref": "N-3",
+          "quote": "I mean, obviously the points here are 33 33.",
+          "context": "Points on the FBI trading card.",
+          "confidence": "high",
+          "tags": [
+            "33",
+            "FBI",
+            "cards"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-64",
+      "ref": "M-64",
+      "canonical_term": "Audacity of the Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:32:10",
+          "speaker_node_ref": "N-3",
+          "quote": "I return to this idea of the audacity of the gaslight.",
+          "context": "Opens the Boreing segment.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "Boreing"
+          ]
+        },
+        {
+          "episode": 168,
+          "video_timestamp": "00:35:01",
+          "speaker_node_ref": "N-3",
+          "quote": "It's the audacity of the gaslight.",
+          "context": "Boreing telling the user she is brainwashed.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "Boreing"
+          ]
+        },
+        {
+          "episode": 168,
+          "video_timestamp": "00:37:26",
+          "speaker_node_ref": "N-3",
+          "quote": "what we have covered again on repeat on this show is the audacity of the gaslight.",
+          "context": "On the firing documents.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "Daily Wire"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:32:43",
+          "speaker_node_ref": "N-3",
+          "quote": "he developed psychoanalytics to then gaslight the children into believing no, you're actually attracted to your parents.",
+          "context": "Book club aside on The Assault on Truth and Sigmund Freud.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "book club"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:33:35",
+          "speaker_node_ref": "N-3",
+          "quote": "the reasons that he fired me because I said genocide is always wrong.",
+          "context": "Reason she gives for her Daily Wire firing.",
+          "confidence": "high",
+          "tags": [
+            "Daily Wire",
+            "Boreing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:47:45",
+          "speaker_node_ref": "N-3",
+          "quote": "how they surrounded him, the Truman Show that surrounded him.",
+          "context": "On what was done to Charlie.",
+          "confidence": "high",
+          "tags": [
+            "Charlie Kirk",
+            "TPUSA"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-100",
+      "ref": "M-100",
+      "canonical_term": "Epstein Class",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:48:15",
+          "speaker_node_ref": "N-3",
+          "quote": "the global human trafficking and the Epstein class that's behind this",
+          "context": "The larger picture behind the case, in her view.",
+          "confidence": "high",
+          "tags": [
+            "Epstein",
+            "trafficking"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:46:10",
+          "speaker_node_ref": "N-3",
+          "quote": "Prayers for Canace and her family. Christ is king.",
+          "context": "Read from a viewer prayer request.",
+          "confidence": "high",
+          "tags": [
+            "viewer",
+            "prayer"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:48:40",
+          "speaker_node_ref": "N-3",
+          "quote": "Go Max. We have certainly been going Max.",
+          "context": "Read from a viewer comment, then echoed by the host.",
+          "confidence": "high",
+          "tags": [
+            "viewer",
+            "Charlie Kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-322",
+      "ref": "M-322",
+      "canonical_term": "Substitute Teachers",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:51:20",
+          "speaker_node_ref": "N-3",
+          "quote": "you can buy some of the new merch that we have, the substitute teacher merch, which is fantastic.",
+          "context": "Merch plug before her leave.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "Baron Coleman"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:51:30",
+          "speaker_node_ref": "N-3",
+          "quote": "Will not believe the fed slop.",
+          "context": "Merch slogan.",
+          "confidence": "high",
+          "tags": [
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-353",
+      "ref": "M-353",
+      "canonical_term": "Coleman Sandwich Clause",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 168,
+          "video_timestamp": "00:51:48",
+          "speaker_node_ref": "N-3",
+          "quote": "Baron is very much lying about that. And he he can't even discuss it on the show. Like I said, contractual obligations.",
+          "context": "Hot dog is not a sandwich bit about Baron Coleman's substitute hosting.",
+          "confidence": "high",
+          "tags": [
+            "Baron Coleman",
+            "hot dog",
+            "substitute"
+          ]
+        }
+      ]
+    }
+  ]
+}

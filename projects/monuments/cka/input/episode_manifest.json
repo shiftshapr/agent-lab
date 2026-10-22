@@ -2,15 +2,15 @@
   "monument": "cka",
   "channel": "@RealCandaceO",
   "corpus_cutoff_inclusive": "2025-09-11",
-  "generated_at_utc": "2026-10-20T16:35:43Z",
+  "generated_at_utc": "2026-10-21T23:00:16Z",
   "source": {
     "listing": "https://www.youtube.com/@RealCandaceO/streams",
     "publish_dates": "https://invidious.f5.si"
   },
   "counts": {
-    "manifest_entries": 167,
+    "manifest_entries": 168,
     "kirk_special": 2,
-    "numbered_show": 165
+    "numbered_show": 166
   },
   "episodes": [
     {
@@ -1682,6 +1682,16 @@
       "kind": "numbered_show",
       "notes": "title omits Ep number; 404 inferred from sequence after Ep 403",
       "seq": 167
+    },
+    {
+      "upload_date": "2026-10-20",
+      "youtube_id": "ihLQRXxIfjU",
+      "title": "EXCLUSIVE 9/10 Footage: Did \u201cTyler Robinson\u201d Return To The Losee Rooftop? Because Someone Did\u2026",
+      "url": "https://www.youtube.com/watch?v=ihLQRXxIfjU",
+      "candace_ep_number": 405,
+      "kind": "numbered_show",
+      "notes": "title omits Ep number; 405 inferred from sequence after Ep 404",
+      "seq": 168
     }
   ]
 }

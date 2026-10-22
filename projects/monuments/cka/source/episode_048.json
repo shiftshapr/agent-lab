@@ -15,11 +15,12 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:03:08",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63",
+    "- **Transcript SHA-256**: 1e66aa4944307e32821aa349873f75dbb239eb3185ccdb58faca719319dd0ee6",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-10938, N-10939, N-10940",
     "  - Hole-minted Nodes (reintro-ep048): N-10343",
+    "  - Tip-minted Nodes (reintro-ep048): N-972",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-4177–C-4274",
     "  - New Nodes Introduced: N-10335, N-10336, N-10337, N-10338, N-10339, N-10340",
@@ -2255,6 +2256,31 @@
     },
     {
      "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-972",
+   "header": "**N-972** Lee Harvey Oswald",
+   "label": "Lee Harvey Oswald",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "55:44 in episode 48. The host quotes Piers Morgan saying JFK may really have just been shot by Lee Harvey Oswald.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4259*"
     },
     {
      "raw": ""
@@ -8059,7 +8085,7 @@
     },
     {
      "k": "Mentions",
-     "v": "N-3, N-204"
+     "v": "N-3, N-204, N-972"
     },
     {
      "k": "Investigative Direction",

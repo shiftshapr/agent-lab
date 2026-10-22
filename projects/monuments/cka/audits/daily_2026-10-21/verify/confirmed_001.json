@@ -1,0 +1,7 @@
+[
+{"claim": "C-14481", "episode": 168, "decision": "accept", "fix": {"mentions": ["N-236", "N-25"]}, "note": "Claim names 'the Cole arrest' (Brian Cole Jr., N-25, introduced ep 154)."},
+{"claim": "C-14524", "episode": 168, "decision": "accept", "fix": {"mentions": ["N-3", "N-1"]}, "note": "Claim does not refer to Tyler Robinson; the jumper is the 'Slenderman' figure. Removing N-40 is the substantive change."},
+{"claim": "C-14528", "episode": 168, "decision": "accept", "fix": {"mentions": ["N-69"]}, "note": "Claim refers to 'the FBI director' quoting his Sept 2025 Valhalla post; that is Kash Patel (N-69). Mention only, no name fix in text."},
+{"claim": "C-14546", "episode": 168, "decision": "amend", "fix": {"mentions": ["N-33", "N-34", "N-975"]}, "note": "Remove N-5 as proposed; 'the Trump brothers' also refers to Eric Trump (N-34), so add him alongside Don Jr."},
+{"claim": "C-14549", "episode": 168, "decision": "accept", "fix": {"mentions": ["N-2"]}, "note": "Claim names Erika and TPUSA only; Charlie is not referred to in the claim text."}
+]

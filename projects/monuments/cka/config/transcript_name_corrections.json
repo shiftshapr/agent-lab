@@ -361,7 +361,8 @@
       "\\b(?:Kirk|Tyler) Carlson\\b",
       "Tucker Carlson",
       [
-        5
+        5,
+        168
       ]
     ],
     [
@@ -1013,7 +1014,8 @@
       "\\bBaggley\\b",
       "Bagley",
       [
-        153
+        153,
+        168
       ]
     ],
     [
@@ -3454,7 +3456,8 @@
         163,
         164,
         165,
-        166
+        166,
+        168
       ]
     ],
     [
@@ -3729,7 +3732,8 @@
       "Tyler Bowyer",
       [
         167,
-        11
+        11,
+        168
       ]
     ],
     [
@@ -3804,7 +3808,8 @@
       "\\bKatie Zachar(?:y|iah)\\b",
       "Katie Zacharia",
       [
-        167
+        167,
+        168
       ]
     ],
     [
@@ -3837,7 +3842,8 @@
       "\\b(?:canowens|kennace)\\.com\\b",
       "candaceowens.com",
       [
-        167
+        167,
+        168
       ]
     ],
     [
@@ -4893,7 +4899,8 @@
         154,
         159,
         160,
-        164
+        164,
+        168
       ]
     ],
     [
@@ -5914,7 +5921,8 @@
         136,
         137,
         157,
-        159
+        159,
+        168
       ]
     ],
     [
@@ -6319,7 +6327,8 @@
       "Kathy Nester",
       [
         94,
-        142
+        142,
+        168
       ]
     ],
     [
@@ -6501,6 +6510,115 @@
       "Austin Erickson",
       [
         30
+      ]
+    ],
+    [
+      "\\bBrian Kohl's\\b",
+      "Brian Cole's",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bscripts media\\b",
+      "Scripps Media",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bmockingb bird\\b",
+      "Mockingbird",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bDirector Cash\\b",
+      "Director Kash",
+      [
+        168
+      ]
+    ],
+    [
+      "\\blow seat rooftop\\b",
+      "Losee rooftop",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLoy rooftop\\b",
+      "Losee rooftop",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLoi rooftop\\b",
+      "Losee rooftop",
+      [
+        168
+      ]
+    ],
+    [
+      "\\b(?:Losi|Losy)\\b",
+      "Losee",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bJeremy Borne\\b",
+      "Jeremy Boreing",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bYar Ali\\b",
+      "Yashar Ali",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bKimberly (?:Gilfoil|Goofoil|Gilfeld|Gilffill)\\b",
+      "Kimberly Guilfoyle"
+    ],
+    [
+      "\\bEric Deers\\b",
+      "Eric Deters",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bAMX\\b",
+      "AmEx",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bMX card\\b",
+      "AmEx card",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLatian\\b",
+      "Latvian",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bTogei\\b",
+      "Togepi",
+      [
+        168
       ]
     ]
   ]
