@@ -1437,7 +1437,9 @@
       "transcript_snippet": "Um, what would have been Charlie Kirk's 33rd birthday. And I was thinking about that",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1456,7 +1458,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1477,7 +1481,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1497,7 +1503,9 @@
       "transcript_snippet": "he is indeed the chain snatcher. He will snatch evidence right from police hands.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1519,7 +1527,9 @@
       "mentions_person_refs": [
         "N-955",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1540,7 +1550,9 @@
       "transcript_snippet": "He had a lot of duties. He oversaw uh, EMS services at the UVU.",
       "mentions_person_refs": [
         "N-955"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1561,7 +1573,9 @@
       "transcript_snippet": "And the report tells us that no, actually he was 45 minutes away.",
       "mentions_person_refs": [
         "N-955"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1584,7 +1598,9 @@
       "mentions_person_refs": [
         "N-955",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1606,7 +1622,9 @@
       "transcript_snippet": "We confirmed from multiple sources with direct knowledge that he was golfing, actually, allegedly, out in Heber, Utah.",
       "mentions_person_refs": [
         "N-955"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1626,7 +1644,9 @@
       "transcript_snippet": "And one person claimed that he was actually taking part in a tournament. We found a few clubs and tournaments that could potentially match match that description",
       "mentions_person_refs": [
         "N-955"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1647,7 +1667,9 @@
       "mentions_person_refs": [
         "N-955",
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1667,7 +1689,9 @@
       "transcript_snippet": "because the governor publishes his schedule, um, onto the website, publicly. And that includes, in the past he has published instances where he participated in golf tournaments.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1689,7 +1713,9 @@
       "transcript_snippet": "the governor's official schedule did not list any commitments, not on the 10th, also not on the 9th.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1710,7 +1736,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1734,7 +1762,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1757,6 +1787,10 @@
       "mentions_person_refs": [
         "N-41",
         "N-957"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-14311"
       ]
     },
     {
@@ -1780,7 +1814,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-957"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1798,7 +1834,9 @@
       "transcript_snippet": "the Utah House of Reps, they're they work 45 days a year and he started in 2023.",
       "mentions_person_refs": [
         "N-957"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1820,7 +1858,9 @@
       "mentions_person_refs": [
         "N-955",
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1840,7 +1880,9 @@
       "transcript_snippet": "Twice actually in two different states. First on February 3rd, 2026 in Layton, Utah. Okay?",
       "mentions_person_refs": [
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1862,7 +1904,9 @@
       "transcript_snippet": "Charges were as follows. First-degree charge for enticing a minor into sexual activity.",
       "mentions_person_refs": [
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1884,7 +1928,9 @@
       "transcript_snippet": "He uh also uh the charge that he was charged with aggravated sexual exploitation.",
       "mentions_person_refs": [
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1906,7 +1952,9 @@
       "transcript_snippet": "Um it also includes distributing material harmful to a minor.",
       "mentions_person_refs": [
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1924,7 +1972,9 @@
       "transcript_snippet": "He's from Moscow, Idaho, where his father was a professor um at the University of Idaho.",
       "mentions_person_refs": [
         "N-955"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1944,7 +1994,9 @@
       "transcript_snippet": "Utah, back to the Petersons, collaborated with Idaho and he was additionally charged in Meridian, Idaho.",
       "mentions_person_refs": [
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1967,7 +2019,9 @@
       ],
       "mentions_person_refs": [
         "N-8"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1988,7 +2042,9 @@
       "mentions_person_refs": [
         "N-12",
         "N-8"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2006,7 +2062,9 @@
       "transcript_snippet": "By the way, just Val Peterson's dad, that's where they're from, Nampa, Idaho. Like born in Nampa, Idaho.",
       "mentions_person_refs": [
         "N-955"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2028,7 +2086,9 @@
       "transcript_snippet": "Val's brother Charles was additionally charged in Meridian with four counts of soliciting a child. Here is the article, which is available on the Idaho Attorney General's website.",
       "mentions_person_refs": [
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2051,7 +2111,9 @@
       "mentions_person_refs": [
         "N-962",
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2074,7 +2136,9 @@
       "transcript_snippet": "Investigators with the Attorney General's Internet Crimes Against Children, ICAC unit, arrested Charles Peterson, 52, on February 3rd, 2026, after receiving a request for assistance from the Lehi Police Department",
       "mentions_person_refs": [
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2097,7 +2161,9 @@
       "transcript_snippet": "The charges listed above are merely accusations, and the defendant is presumed innocent until and unless and unless proven guilty.",
       "mentions_person_refs": [
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2122,7 +2188,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2143,7 +2211,9 @@
       "transcript_snippet": "Why did the Epstein files require so many top-level meetings in the White House in the situation room?",
       "mentions_person_refs": [
         "N-10072"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2167,7 +2237,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2188,7 +2260,9 @@
       "mentions_person_refs": [
         "N-529",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2211,7 +2285,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2232,7 +2308,9 @@
       "transcript_snippet": "Club America, which is being administratively forced upon students who are not signing up for this club. It's assembly time and you got to go.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2252,7 +2330,9 @@
       "transcript_snippet": "We demonstrated that to you via his last company pitch, if you will, that he gave in front of investors in Aspen 3 weeks before his death.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2272,7 +2352,9 @@
       "transcript_snippet": "He wanted it to be like a debate club where kids signed up and wanted to have wanted to show up wanted to host people. He didn't want to mandate assemblies.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2296,7 +2378,9 @@
       ],
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2319,7 +2403,9 @@
       ],
       "mentions_person_refs": [
         "N-85"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2340,7 +2426,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2361,7 +2449,9 @@
       "transcript_snippet": "He was changing his mind. He had changed his mind regarding Israel. He was done with them.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2385,7 +2475,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2406,7 +2498,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2425,7 +2519,9 @@
       "mentions_person_refs": [
         "N-47",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2443,7 +2539,9 @@
       "transcript_snippet": "Jean-Luc Brunel who hung himself perhaps was suicided in a cell, French.",
       "mentions_person_refs": [
         "N-529"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2465,7 +2563,9 @@
         "N-3",
         "N-1",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2485,7 +2585,9 @@
       "transcript_snippet": "And that we acknowledge that Charlie was terrified in the end. He woke up one day and he realized that his life was a Truman Show.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2505,7 +2607,9 @@
       "transcript_snippet": "But I will say on a positive note that Charlie knew that death was coming. He knew that his death, though premature, would be tied to a wider awakening.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2523,7 +2627,9 @@
       "transcript_snippet": "You allegedly had three kids, some photos raising them, pregnant, in the hospital, birthday parties, nothing.",
       "mentions_person_refs": [
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2543,7 +2649,9 @@
       "transcript_snippet": "this this Katie Zacharia character, who is the new press secretary, I'm just watching people defend this",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2564,7 +2672,9 @@
       "mentions_person_refs": [
         "N-960",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2584,7 +2694,9 @@
       "transcript_snippet": "But Pepperdine confirmed that she went to the school, that's not in question. They confirmed that she got a degree.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2606,7 +2718,9 @@
       "transcript_snippet": ">> did you pass the bar exam? >> When I moved to China. That's her answer.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2629,7 +2743,9 @@
       "mentions_person_refs": [
         "N-960",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2647,7 +2763,9 @@
       "transcript_snippet": "Kelly Clarkson, who was the first American Idol winner back in 2002, 16 years old, who told she was a, you know, waitress, no connections",
       "mentions_person_refs": [
         "N-963"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2667,7 +2785,9 @@
       "transcript_snippet": "She's crashing out because she went to a store in Brooklyn called The Art of Play.",
       "mentions_person_refs": [
         "N-963"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2689,7 +2809,9 @@
       "transcript_snippet": "Can we show this automated bird that she wanted to buy and she was in the store for 4 minutes?",
       "mentions_person_refs": [
         "N-963"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2709,7 +2831,9 @@
       "transcript_snippet": "told her that it wasn't for sale because it wasn't. It's It's a fixed to their wall. It's obviously not for sale.",
       "mentions_person_refs": [
         "N-963"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2731,7 +2855,9 @@
       "transcript_snippet": "Just drove all the way to Brooklyn to check out this store I thought looked really rad and had a few things in mind to buy and literally was looked at as if I couldn't afford it",
       "mentions_person_refs": [
         "N-963"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2753,7 +2879,9 @@
       "transcript_snippet": "She tweeted this 15 minutes after she left the store. She's only there for 4 minutes and the guy has told her that it wasn't for sale.",
       "mentions_person_refs": [
         "N-963"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2773,7 +2901,9 @@
       "transcript_snippet": "But she's trying to pretend she was discriminated against and they released the video of what's happening in the store.",
       "mentions_person_refs": [
         "N-963"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2793,7 +2923,9 @@
       "transcript_snippet": "Now the owner's coming out saying that they're getting death threats. He's being dramatic about it. He was not there at the store when this took place.",
       "mentions_person_refs": [
         "N-963"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2814,7 +2946,9 @@
       "mentions_person_refs": [
         "N-964",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2835,7 +2969,9 @@
       "mentions_person_refs": [
         "N-964",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2858,7 +2994,9 @@
       "mentions_person_refs": [
         "N-964",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2881,7 +3019,9 @@
       "mentions_person_refs": [
         "N-964",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2902,7 +3042,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2922,7 +3064,9 @@
       "transcript_snippet": "Like I mean, then he will encourage others to sue you with their money.",
       "mentions_person_refs": [
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2943,7 +3087,9 @@
         "N-277",
         "N-146",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2964,7 +3110,9 @@
       "transcript_snippet": "what Charlie Kirk's world would have been had he accepted BB's offer of taking TPUSA to the next level",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2985,7 +3133,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3005,7 +3155,9 @@
       "transcript_snippet": "And now the the owner is trolling her and he says the word Molly the bird is now worth 15 million, which I do find to be kind of funny.",
       "mentions_person_refs": [
         "N-963"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3025,7 +3177,9 @@
       "transcript_snippet": "She and her eighth-grade classmates will be traveling to DC in a few weeks and she is insisting on her friends wearing her CIA T when they visit the White House.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3043,7 +3197,9 @@
       "transcript_snippet": "this baby has to be coming soon because guys, I can't even see like my eyesight is so bad and that's always my tell before I go into labor.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

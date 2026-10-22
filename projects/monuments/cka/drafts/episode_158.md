@@ -1714,6 +1714,8 @@ Anchored Artifacts: A-2465.1
 Mentions: N-3
 Related Nodes: N-10789, N-11007
 Supports: C-13705
+Verification: revised-by-host
+Verification Evidence: C-13794
 Investigative Direction: Check the archive.org capture date of the MySpace page.
 
 ---

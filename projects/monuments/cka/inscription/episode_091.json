@@ -1537,7 +1537,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1556,7 +1558,9 @@
         "N-341",
         "N-342",
         "N-344"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1575,7 +1579,9 @@
         "N-341",
         "N-342",
         "N-344"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1594,7 +1600,9 @@
         "N-341",
         "N-342",
         "N-344"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1611,7 +1619,9 @@
       "investigative_direction": "Verify purchase records with Fold AR and Lindale High School administration.",
       "mentions_person_refs": [
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1631,7 +1641,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1651,7 +1663,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1672,7 +1686,9 @@
         "N-341",
         "N-342",
         "N-422"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1693,7 +1709,9 @@
         "N-341",
         "N-342",
         "N-423"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1713,7 +1731,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1733,7 +1753,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1751,7 +1773,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1770,7 +1794,9 @@
         "N-341",
         "N-342",
         "N-344"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1789,7 +1815,9 @@
       "investigative_direction": "Verify the sale via Fold AR's bound book / ATF Form 4473 records.",
       "mentions_person_refs": [
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1808,7 +1836,9 @@
       "investigative_direction": "Verify with Midland Police Department records and the deputy's agency.",
       "mentions_person_refs": [
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1828,7 +1858,9 @@
       "investigative_direction": "Independently verify the email via ATF; identify the originating case and underlying crime.",
       "mentions_person_refs": [
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1850,7 +1882,9 @@
         "N-2",
         "N-341",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1871,7 +1905,9 @@
         "N-1",
         "N-2",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1891,7 +1927,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-422"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1910,7 +1948,9 @@
       "investigative_direction": "Obtain full transcript of the remarks; verify the operational chain Trump described.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1930,7 +1970,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-349"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1947,7 +1989,9 @@
       "tags": [],
       "claim_timestamp": "00:56:23",
       "investigative_direction": "Verify Marine Corps enlistment contract minimums through official Marine Corps publications.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1967,7 +2011,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1988,7 +2034,9 @@
       "investigative_direction": "Independently verify the host's confirmation of the email and the underlying timeline.",
       "mentions_person_refs": [
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2011,7 +2059,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2032,7 +2082,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2055,7 +2107,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2079,7 +2133,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2101,7 +2157,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2122,7 +2180,9 @@
       "transcript_snippet": "Justin Streiff did not write his own speech for the memorial, I'm told.",
       "mentions_person_refs": [
         "N-15"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2142,7 +2202,9 @@
       "transcript_snippet": "for months I have just been quietly working on my Egyptian plane timeline. Started with one plane, then I realized there was two planes, three planes, four planes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2163,7 +2225,9 @@
       "transcript_snippet": "Why do I feel like I'm I'm looking at trafficking of some description? I don't know if it's drugs, I don't know if it's weapons",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2183,7 +2247,9 @@
       "transcript_snippet": "how the planes foremost were stopping over in states and cities with military bases.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2209,7 +2275,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2231,7 +2299,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2252,7 +2322,9 @@
       "transcript_snippet": "Erika had the complete wrong reaction, or rather no reaction or concern or even mild interest in a foreign plane, two foreign planes that departed just before and just after her husband's assassination.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2274,7 +2346,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2297,7 +2371,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2319,7 +2395,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2339,7 +2417,9 @@
       "transcript_snippet": "he teaches an online educational course for Turning Point Faith entitled Freedom from Pornography.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2361,7 +2441,9 @@
         "N-341",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2385,7 +2467,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2410,7 +2494,9 @@
         "N-343",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2436,7 +2522,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2463,7 +2551,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2483,7 +2573,9 @@
       "transcript_snippet": "his real name is Vaughn Victor Kennedy. Well, he says it's Vaughn.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2503,7 +2595,9 @@
       "transcript_snippet": "by the time he was 17, he had lived in 17 homes and attended 14 schools.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2524,7 +2618,9 @@
       "mentions_person_refs": [
         "N-349",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2544,7 +2640,9 @@
       "transcript_snippet": "convicted of conspiracy in 1987 for attempting to import 1,400 lb of marijuana from Jamaica.",
       "mentions_person_refs": [
         "N-349"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2566,7 +2664,9 @@
         "N-724",
         "N-349",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2587,7 +2687,9 @@
       "mentions_person_refs": [
         "N-725",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2607,7 +2709,9 @@
       "transcript_snippet": "his grandfather, on his dad's side, killed his grandmother before he turned the gun on himself and committed suicide in public.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2630,7 +2734,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2651,7 +2757,9 @@
       "transcript_snippet": "he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2672,7 +2780,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2693,7 +2803,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-724"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2716,7 +2828,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2738,6 +2852,10 @@
         "N-726",
         "N-343",
         "N-341"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-9376"
       ]
     },
     {
@@ -2759,7 +2877,9 @@
       "mentions_person_refs": [
         "N-726",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2779,7 +2899,9 @@
       "transcript_snippet": "he openly admits that he punches holes in the walls of his house about uh once a year",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2799,7 +2921,9 @@
       "transcript_snippet": "He also openly states that he himself struggles with suicidal and homicidal tendencies.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2822,7 +2946,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-344"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2845,7 +2971,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2869,7 +2997,9 @@
         "N-342",
         "N-341",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2893,7 +3023,9 @@
         "N-342",
         "N-341",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2916,7 +3048,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2938,7 +3072,9 @@
       "transcript_snippet": "Victor Marx is effectively what he does is he pretends that he is going to summon and then extract information from demons that are inside of you.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2962,7 +3098,9 @@
         "N-342",
         "N-341",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2987,7 +3125,9 @@
         "N-341",
         "N-344",
         "N-640"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3013,7 +3153,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3036,7 +3178,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3059,7 +3203,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-344"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3082,7 +3228,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-344"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3106,7 +3254,9 @@
         "N-342",
         "N-341",
         "N-912"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3129,7 +3279,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3152,7 +3304,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3178,7 +3332,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3201,7 +3357,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3227,7 +3385,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3250,7 +3410,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3271,7 +3433,9 @@
       "transcript_snippet": "They are involved got involved in this case quickly, as we know, came back with the inconclusive trace on the Tyler Robinson gun.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3294,7 +3458,9 @@
       "transcript_snippet": "what it means is that they are seeking to identify the first retail purchase of a firearm that they have determined is involved in a crime.",
       "mentions_person_refs": [
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3317,7 +3483,9 @@
       "transcript_snippet": "Corby did, and mysteriously he heard nothing back. There was no follow-up.",
       "mentions_person_refs": [
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3340,7 +3508,9 @@
       "transcript_snippet": "And he picked up the phone, and he said, \"No, no, ATF never never contacted me.\"",
       "mentions_person_refs": [
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3363,7 +3533,9 @@
       "transcript_snippet": "he had checked some system that he has available and he has access to and that gun is is somehow not even reported as missing.",
       "mentions_person_refs": [
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3389,7 +3561,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3409,7 +3583,9 @@
       "transcript_snippet": "I'm looking into uh just some things about where he sold the gun and it's already quite interesting.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3430,7 +3606,9 @@
       "transcript_snippet": "our government, in case you didn't know this, has been implicated many times over in trafficking arms, doing arms deals overseas, the Taliban, ISIS, Al-Qaeda",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3456,7 +3634,9 @@
       ],
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3477,7 +3657,9 @@
       "transcript_snippet": "Victor Marx says he dealt with the Taliban. He dealt with ISIS.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3501,7 +3683,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3522,7 +3706,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3543,7 +3729,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3563,7 +3751,9 @@
       "transcript_snippet": "He's got a very checkered background and admits to being brain-damaged and has been caught lying extensively.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3584,7 +3774,9 @@
       "transcript_snippet": "Oh, Greg Laurie, yes, accused of trafficking. Church Harvest Church is being accused of trafficking people from Romania.",
       "mentions_person_refs": [
         "N-450"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3605,7 +3797,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-221"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3625,7 +3819,9 @@
       "transcript_snippet": "Compulsory to serve in the IDF. And people that are committing suicide when they come out because they are being sent to just mass murder children.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3645,7 +3841,9 @@
       "transcript_snippet": "And the Catholic Church has historically always stood in the way of this fringe Zionist belief that the world belongs to them and that they're chosen.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3668,7 +3866,9 @@
       "mentions_person_refs": [
         "N-913",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3690,7 +3890,9 @@
       "transcript_snippet": "there have been interviews where people have very heavily suggested that Victor Marx is just in fact a compulsive liar.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3712,7 +3914,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3738,7 +3942,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

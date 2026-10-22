@@ -1519,7 +1519,9 @@
       "investigative_direction": "Locate original tweet with timestamp; cross-check against TPUSA verified accounts; verify exact attribution.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1538,7 +1540,9 @@
       "investigative_direction": "Pull the original tweet with timestamp; confirm author and program URL.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1558,7 +1562,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-576"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1577,7 +1583,9 @@
         "N-2",
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1594,7 +1602,9 @@
       "investigative_direction": "Pull full Alex Clark episode and verify transcript against the trailer excerpt.",
       "mentions_person_refs": [
         "N-99"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1611,7 +1621,9 @@
       "investigative_direction": "Pull full Alex Clark episode; verify quotation against the trailer.",
       "mentions_person_refs": [
         "N-99"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1630,7 +1642,9 @@
         "N-266",
         "N-1",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1647,7 +1661,9 @@
       "investigative_direction": "Pull the full Boreing/Turek episode; compare to prior Turek statements on the car ride timeline.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1666,7 +1682,9 @@
         "N-897",
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1687,7 +1705,9 @@
         "N-1",
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1706,7 +1726,9 @@
       "investigative_direction": "Compare against any public Commit 100 signup metrics or TP Action disclosures.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1720,7 +1742,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:56–00:24:10",
-      "investigative_direction": "Forensically examine original footage; compare to published images of Tyler Robinson's known footwear and gait."
+      "investigative_direction": "Forensically examine original footage; compare to published images of Tyler Robinson's known footwear and gait.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1737,7 +1761,9 @@
       "investigative_direction": "Obtain uncropped / unenhanced source frames; biometric and clothing comparison.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1751,7 +1777,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:08–00:24:10",
-      "investigative_direction": "Gait analysis of unenhanced source footage; consultation with qualified forensic analyst."
+      "investigative_direction": "Gait analysis of unenhanced source footage; consultation with qualified forensic analyst.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1768,7 +1796,9 @@
       "investigative_direction": "Identify the source of the footage; confirm provenance; subpoena any chain-of-custody record for the SD cards / thumb drives.",
       "mentions_person_refs": [
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1782,7 +1812,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:55",
-      "investigative_direction": "Obtain original footage timestamps; review phone extraction records if available."
+      "investigative_direction": "Obtain original footage timestamps; review phone extraction records if available.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1807,7 +1839,9 @@
         "N-11",
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1824,7 +1858,9 @@
       "investigative_direction": "Note as host stance against displayed source; cross-reference with theological commentary.",
       "mentions_person_refs": [
         "N-99"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1843,7 +1879,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-897"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1864,7 +1902,9 @@
       "mentions_person_refs": [
         "N-246",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1885,7 +1925,9 @@
       "transcript_snippet": "they did erect a statue of Charlie in front of their campus. Two days later, they now claim without any positive evidence, by the way, that the left",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1914,7 +1956,9 @@
         "N-896",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1935,7 +1979,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-896"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1958,7 +2004,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-896"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1978,7 +2026,9 @@
       "transcript_snippet": "namely his sports coat that he had on at the restaurant event that took place in Salt Lake City and that had blood blood on it",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2000,7 +2050,9 @@
       "transcript_snippet": "Blake when he slid across the table may have got some explosive residue on him.",
       "mentions_person_refs": [
         "N-896"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2019,7 +2071,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2041,7 +2095,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2062,7 +2118,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2084,7 +2142,9 @@
         "N-366",
         "N-60",
         "N-610"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2108,7 +2168,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2128,7 +2190,9 @@
       "transcript_snippet": "he's now talking about how he's going to be touring with Turning Point USA Faith.",
       "mentions_person_refs": [
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2147,7 +2211,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2168,7 +2234,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2197,7 +2265,9 @@
         "N-897",
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2223,7 +2293,9 @@
         "N-7",
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2244,7 +2316,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2264,7 +2338,9 @@
         "N-7",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2286,7 +2362,9 @@
       "mentions_person_refs": [
         "N-506",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2309,7 +2387,9 @@
       "transcript_snippet": "according to the police warrants, this is approximately at 11:53 in the morning. So, we are talking 30 minutes before the sound of the explosive goes off.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2332,7 +2412,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2352,7 +2434,9 @@
       ],
       "claim_timestamp": "00:20:41",
       "investigative_direction": "Read the preliminary hearing transcript for the SBI witness's description of what media was received.",
-      "transcript_snippet": "the accounts that came from the SBI that testified about what they were handed that they were not handed the original SD cards but were rather given uh the um thumb drives."
+      "transcript_snippet": "the accounts that came from the SBI that testified about what they were handed that they were not handed the original SD cards but were rather given uh the um thumb drives.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2374,7 +2458,9 @@
       "transcript_snippet": "this is enough to infer that some evidence may have been tampered with.",
       "mentions_person_refs": [
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2401,7 +2487,9 @@
       ],
       "mentions_person_refs": [
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2509,9 @@
       "transcript_snippet": "They're now kind of trying to make it seem as though, oh, we actually were saying it could potentially be in his waistband and not um by his ankle.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2447,7 +2537,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2467,7 +2559,9 @@
       "transcript_snippet": "what took place at the hospital and why people were wearing scrubs when they returned. And that includes Frank Turek",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2493,7 +2587,9 @@
       "mentions_person_refs": [
         "N-99",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2510,7 +2606,9 @@
       ],
       "claim_timestamp": "00:33:59",
       "investigative_direction": "Sweeping historical assertion recorded as said; no case-specific check.",
-      "transcript_snippet": "They've never ever ever have has there ever been a period of even 5 years in this country since their founding period of one year where they were not up to no good."
+      "transcript_snippet": "They've never ever ever have has there ever been a period of even 5 years in this country since their founding period of one year where they were not up to no good.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2530,7 +2628,9 @@
       "transcript_snippet": "Charlie had a Superman neck. He ate vegetables. Oh, it was just another modernday Christian miracle.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2551,7 +2651,9 @@
       "mentions_person_refs": [
         "N-99",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2577,7 +2679,9 @@
         "N-99",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2598,7 +2702,9 @@
       "transcript_snippet": "they have extremely heavy surveillance all across Turning Point USA's campus. This is a campus, right? They have gates.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2618,7 +2724,9 @@
       ],
       "claim_timestamp": "00:39:10",
       "investigative_direction": "Check for any police bulletin or TPUSA footage release after the 13th.",
-      "transcript_snippet": "We're getting actually no information from TurningPoint as to uh who vandalized the statue. They're not looking, they're not seeking the public's help"
+      "transcript_snippet": "We're getting actually no information from TurningPoint as to uh who vandalized the statue. They're not looking, they're not seeking the public's help",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2636,7 +2744,9 @@
       ],
       "claim_timestamp": "00:39:25",
       "investigative_direction": "Confirm Turning Point Action's IRS tax status.",
-      "transcript_snippet": "Turning Point Action, which is not the 501c3 charitable arm, right? That's their 501c4."
+      "transcript_snippet": "Turning Point Action, which is not the 501c3 charitable arm, right? That's their 501c4.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2662,7 +2772,9 @@
       ],
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2685,7 +2797,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2710,7 +2824,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2731,7 +2847,9 @@
       "transcript_snippet": "I know they are upset about the rumors that she's stepping down, but I would say that's the first positive rumor",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2751,7 +2869,9 @@
       "transcript_snippet": "More tips at candacewowens. com about any of the footage that we showed today, about anything that you do know.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2773,7 +2893,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2797,7 +2919,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2821,7 +2945,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2839,7 +2965,9 @@
       "transcript_snippet": "I only have a few more weeks before this baby comes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2861,7 +2989,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2879,7 +3009,9 @@
       "transcript_snippet": "I just know he was scared and he marched on, but he he didn't know who to trust.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2899,7 +3031,9 @@
       "transcript_snippet": "And then when he suddenly looked up and said, \"What's going on with this company?\"",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

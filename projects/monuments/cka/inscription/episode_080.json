@@ -1612,7 +1612,9 @@
       "investigative_direction": "Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline.",
       "mentions_person_refs": [
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1631,7 +1633,9 @@
       "investigative_direction": "Compare Kent's stated threat assessment against publicly available U.S. intelligence community products and ODNI statements from the relevant period.",
       "mentions_person_refs": [
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1650,7 +1654,9 @@
       "investigative_direction": "Verify Kent's specific allegations against any documented lobbying communications or pressure patterns referenced in his letter.",
       "mentions_person_refs": [
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1670,7 +1676,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-940"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1690,7 +1698,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1709,7 +1719,9 @@
       "investigative_direction": "Confirm specific language against the official White House transcript of the appearance.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1729,7 +1741,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-452"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1749,7 +1763,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-244"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1769,7 +1785,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-244"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1791,7 +1809,9 @@
         "N-49",
         "N-60",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1811,7 +1831,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-534"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1831,7 +1853,9 @@
       "mentions_person_refs": [
         "N-150",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1848,7 +1872,9 @@
       "investigative_direction": "Confirm against the original Theo Von podcast episode and timestamp.",
       "mentions_person_refs": [
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1864,7 +1890,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:50",
-      "investigative_direction": "Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA."
+      "investigative_direction": "Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1880,7 +1908,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:31:15",
-      "investigative_direction": "Track the new organization's filings and any subsequent national TPUSA response."
+      "investigative_direction": "Track the new organization's filings and any subsequent national TPUSA response.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1899,7 +1929,9 @@
       "investigative_direction": "Verify against Fantegrossi's verified Instagram account; confirm \"unanimous\" via any other executive board members' public statements.",
       "mentions_person_refs": [
         "N-939"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1919,7 +1951,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-939"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1939,7 +1973,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-939"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1958,7 +1994,9 @@
       "investigative_direction": "Confirm against full interview video; identify the original outlet and date of the interview.",
       "mentions_person_refs": [
         "N-598"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1977,7 +2015,9 @@
       "investigative_direction": "Confirm exact wording against interview transcript; cross-reference subsequent official Iran-mission updates.",
       "mentions_person_refs": [
         "N-598"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1993,7 +2033,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:48:48",
-      "investigative_direction": "Verify against FAA ground stop records and the four-airport claim against actual reported closures."
+      "investigative_direction": "Verify against FAA ground stop records and the four-airport claim against actual reported closures.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2009,7 +2051,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:48:48",
-      "investigative_direction": "Confirm against official FAA / airport authority statements; investigate whether \"circuit board\" specificity was ever provided."
+      "investigative_direction": "Confirm against official FAA / airport authority statements; investigate whether \"circuit board\" specificity was ever provided.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2028,7 +2072,9 @@
       "investigative_direction": "Confirm against the official account's posting record; subject the video to forensic/AI-generation analysis.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2047,7 +2093,9 @@
       "investigative_direction": "Verify against official Israeli government / Knesset scheduling records.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2063,7 +2111,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:50:05",
-      "investigative_direction": "Pull Yair Netanyahu's full X/Twitter activity log for the relevant window to verify the claimed silence."
+      "investigative_direction": "Pull Yair Netanyahu's full X/Twitter activity log for the relevant window to verify the claimed silence.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2083,7 +2133,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-273"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2102,7 +2154,9 @@
       "investigative_direction": "Confirm against Israeli government press releases and Knesset/Prime Minister's Office daily schedule.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2122,7 +2176,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-580"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2141,7 +2197,9 @@
       "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office.",
       "mentions_person_refs": [
         "N-580"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2161,7 +2219,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-939"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2181,7 +2241,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-106"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2202,7 +2264,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2223,7 +2287,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-940"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2244,7 +2310,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-940"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2270,7 +2338,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2294,7 +2364,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2320,7 +2392,9 @@
       ],
       "mentions_person_refs": [
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2346,7 +2420,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2368,7 +2444,9 @@
       "transcript_snippet": "Hundreds of millions of dollars in a Boeing 757. I think there two of them. Loaded. They took the seats out and they put cash",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2388,7 +2466,9 @@
         "N-1",
         "N-590",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2406,7 +2486,9 @@
       "transcript_snippet": "The only country that has ever dropped nukes in the history of the world is us.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2427,7 +2509,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2454,7 +2538,9 @@
         "N-244",
         "N-209",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2479,7 +2565,9 @@
       ],
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2500,7 +2588,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2521,7 +2611,9 @@
       "mentions_person_refs": [
         "N-553",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2540,7 +2632,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2560,7 +2654,9 @@
       "transcript_snippet": "I believe that that will come here one day. I don't believe that uh that the Israeli leaders that they have any intention to to stop that.",
       "mentions_person_refs": [
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2580,7 +2676,9 @@
       "transcript_snippet": "I believe that if we don't speak up now that our children won't have the chance to speak up. Either by law or by worse.",
       "mentions_person_refs": [
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2601,7 +2699,9 @@
       "mentions_person_refs": [
         "N-146",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2623,7 +2723,9 @@
       "mentions_person_refs": [
         "N-941",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2645,7 +2747,9 @@
         "N-46",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2667,7 +2771,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2692,7 +2798,9 @@
         "N-209",
         "N-69",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2717,7 +2825,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2738,7 +2848,9 @@
       "mentions_person_refs": [
         "N-329",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2763,7 +2875,9 @@
       "mentions_person_refs": [
         "N-580",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2783,7 +2897,9 @@
       "transcript_snippet": "he's been with Turning Point USA for more than 5 years.",
       "mentions_person_refs": [
         "N-939"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2805,7 +2921,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2827,7 +2945,9 @@
       "transcript_snippet": "we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.",
       "mentions_person_refs": [
         "N-939"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2853,7 +2973,9 @@
       "mentions_person_refs": [
         "N-939",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2875,7 +2997,9 @@
       "transcript_snippet": "He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2902,7 +3026,9 @@
       "mentions_person_refs": [
         "N-939",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2923,7 +3049,9 @@
       "mentions_person_refs": [
         "N-939",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2943,7 +3071,9 @@
         "N-159",
         "N-190",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2961,7 +3091,9 @@
       "transcript_snippet": "No one can explain to me why these tapes were removed, why there's so many lies.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2982,7 +3114,9 @@
       "transcript_snippet": "these employees who are fired for even asking simple questions about, \"Hey, why does this feel weird?\"",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3008,7 +3142,9 @@
         "N-582",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3032,7 +3168,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3052,7 +3190,9 @@
       "transcript_snippet": "I have made contact with ex-family members and it's getting really interesting in terms of me just wanting to learn a bit more about this cult.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3073,7 +3213,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3095,7 +3237,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3116,7 +3260,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3139,7 +3285,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3165,7 +3313,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3186,7 +3336,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3206,7 +3358,9 @@
       "transcript_snippet": "some people think BB Netanyahu might be dead. And it is not verified, but there's some weird videos going around.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3228,7 +3382,9 @@
       "transcript_snippet": "on March 10th, the BB had a very verified visit.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3248,7 +3404,9 @@
       "transcript_snippet": "there was a rumor that at some point later that day or on the 11th, the next day, that he got hit with an Iranian missile.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3273,7 +3431,9 @@
       ],
       "mentions_person_refs": [
         "N-598"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3296,7 +3456,9 @@
       "supports_claim_refs": [
         "C-7223",
         "C-7224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3321,7 +3483,9 @@
       ],
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3342,7 +3506,12 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "revises_claim_refs": [
+        "C-7119"
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3365,7 +3534,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-273"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3389,7 +3560,9 @@
         "N-36",
         "N-273",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3410,7 +3583,9 @@
       "mentions_person_refs": [
         "N-68",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3428,7 +3603,9 @@
       "transcript_snippet": "The venue was concerned and they up security. Not one person showed up.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3449,7 +3626,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3471,7 +3650,9 @@
         "N-46",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3490,7 +3671,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3507,7 +3690,9 @@
       ],
       "claim_timestamp": "01:00:35",
       "investigative_direction": "Find the Iranian foreign ministry statement of March 16, 2026.",
-      "transcript_snippet": "I think it was the foreign minister of Iran said yesterday the Hormuz is only closed for Zionists."
+      "transcript_snippet": "I think it was the foreign minister of Iran said yesterday the Hormuz is only closed for Zionists.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3528,7 +3713,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-268"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3548,7 +3735,9 @@
         "N-273",
         "N-274",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3567,7 +3756,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3586,7 +3777,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

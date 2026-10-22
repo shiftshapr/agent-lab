@@ -1705,7 +1705,9 @@
       "investigative_direction": "Obtain primary recording and timestamp; verify quote against original source; confirm date of recording.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1723,7 +1725,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-452"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1743,7 +1747,9 @@
       "mentions_person_refs": [
         "N-445",
         "N-446"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1762,7 +1768,9 @@
       "investigative_direction": "Obtain probate court filings; verify valuation and date of will execution.",
       "mentions_person_refs": [
         "N-445"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1783,7 +1791,9 @@
         "N-446",
         "N-447",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1802,7 +1812,9 @@
       "investigative_direction": "Obtain probate records reflecting beneficiary designations; verify allocation.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1821,7 +1833,9 @@
       "investigative_direction": "Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.",
       "mentions_person_refs": [
         "N-799"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1841,7 +1855,9 @@
       "mentions_person_refs": [
         "N-799",
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1860,7 +1876,9 @@
       "investigative_direction": "Cross-check Aquino's published biographical statements; consult Church of Satan archives.",
       "mentions_person_refs": [
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1880,7 +1898,9 @@
       "investigative_direction": "Verify founding documents; cross-check Temple of Set records.",
       "mentions_person_refs": [
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1899,7 +1919,9 @@
       "investigative_direction": "Obtain SFPD case records (case number); verify closure status and stated reason.",
       "mentions_person_refs": [
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1918,7 +1940,9 @@
       "investigative_direction": "Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.",
       "mentions_person_refs": [
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1937,7 +1961,9 @@
       "investigative_direction": "Obtain court filings (case numbers, jurisdiction); verify plaintiff count.",
       "mentions_person_refs": [
         "N-450"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1956,7 +1982,9 @@
       "investigative_direction": "Obtain original complaint; verify specificity of allegations; confirm Havsgaard's status (former pastor/missionary).",
       "mentions_person_refs": [
         "N-451"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1972,7 +2000,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:28",
-      "investigative_direction": "Obtain law firm press release; track complaint filings in docket."
+      "investigative_direction": "Obtain law firm press release; track complaint filings in docket.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1989,7 +2019,9 @@
       "investigative_direction": "Cross-check obituary; verify cause of death and date.",
       "mentions_person_refs": [
         "N-187"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2008,7 +2040,9 @@
       "investigative_direction": "Obtain direct screenshot of Social Blade historical record; verify count and date; archive any recovered posts.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2026,7 +2060,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-452"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2043,7 +2079,9 @@
       "investigative_direction": "Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.",
       "mentions_person_refs": [
         "N-453"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2058,7 +2096,9 @@
       "investigative_direction": "Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**",
       "mentions_person_refs": [
         "N-305"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2070,7 +2110,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:59",
-      "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records."
+      "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2092,7 +2134,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2110,7 +2154,9 @@
       "transcript_snippet": "private equity buying a bunch of land. Then you have these unnatural disasters and suddenly land super cheap",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2133,7 +2179,9 @@
         "N-1",
         "N-22",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2155,7 +2203,9 @@
         "N-3",
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2179,7 +2229,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2199,7 +2251,9 @@
       "transcript_snippet": "It's time for us to close the chapter on the Iranian Ayatollah and his henchmen and start a new chapter in the Middle East.",
       "mentions_person_refs": [
         "N-452"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2220,7 +2274,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-452"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2239,7 +2295,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-452"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2258,7 +2316,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-452"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2281,7 +2341,9 @@
       "mentions_person_refs": [
         "N-452",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2304,7 +2366,9 @@
       "transcript_snippet": "in terms of the patterns that I'm seeing with the Egyptian planes, it gets there before their uh their A-lister arrives",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2330,7 +2394,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2358,7 +2424,9 @@
       "mentions_person_refs": [
         "N-305",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2381,7 +2449,9 @@
       "transcript_snippet": "but I have confirmed that those planes were in fact in Provo.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2406,7 +2476,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2426,7 +2498,9 @@
       "transcript_snippet": "I've learned Provo basically has a city underground.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2446,7 +2520,9 @@
       "transcript_snippet": "And there were some strange cancellations, but again, I'm going to save that uh government cancellations in Provo at that time",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2472,7 +2548,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2499,7 +2577,9 @@
         "N-3",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2519,7 +2599,9 @@
       "transcript_snippet": "we decide to bomb for a limited uh military exercise and everyone says the war with Iran is over.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2540,7 +2622,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2558,7 +2642,9 @@
       "transcript_snippet": "they're taking to the streets demanding freedom really CIA and MSA if you haven't done this literally in every country",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2580,7 +2666,9 @@
         "N-3",
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2602,7 +2690,9 @@
       "transcript_snippet": "I speculated uh because I am enemies with their faith division that it was in fact created in the image of the Mooney's cult, a Korean cult.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2626,7 +2716,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2647,7 +2739,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-444"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2673,7 +2767,9 @@
       "mentions_person_refs": [
         "N-445",
         "N-446"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2699,7 +2795,9 @@
       "mentions_person_refs": [
         "N-445",
         "N-446"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2724,7 +2822,9 @@
       ],
       "mentions_person_refs": [
         "N-445"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2742,7 +2842,9 @@
       "transcript_snippet": "I've never seen the bots say we shouldn't go to war ever.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2765,7 +2867,9 @@
       "mentions_person_refs": [
         "N-799",
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2788,7 +2892,9 @@
       "mentions_person_refs": [
         "N-449",
         "N-799"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2919,9 @@
       ],
       "mentions_person_refs": [
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2831,7 +2939,9 @@
       "transcript_snippet": "psychological operations, moonlanding, whenever you're ready. Uh, the Manson murders, whenever you're ready. All military.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2854,7 +2964,9 @@
       "transcript_snippet": "So the temple of set exists to uh explore the self the personality and we do this through the media of ancient Egyptian religion which we found to be the most sophisticated.",
       "mentions_person_refs": [
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2875,7 +2987,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2895,7 +3009,9 @@
       "transcript_snippet": "These people have always been in power. They've been backed by the bankers.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2920,7 +3036,9 @@
       ],
       "mentions_person_refs": [
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2942,7 +3060,9 @@
       "mentions_person_refs": [
         "N-449",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2965,7 +3085,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2993,7 +3115,9 @@
         "N-361",
         "N-266",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3014,7 +3138,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3043,7 +3169,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-450"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3065,7 +3193,9 @@
         "N-3",
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3091,7 +3221,9 @@
       ],
       "mentions_person_refs": [
         "N-451"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3113,7 +3245,9 @@
         "N-3",
         "N-14",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3137,7 +3271,9 @@
       "mentions_person_refs": [
         "N-450",
         "N-451"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3162,7 +3298,9 @@
         "N-450",
         "N-451",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3182,7 +3320,9 @@
       "transcript_snippet": "a bunch of South Korean women have filed a unprecedented lawsuit against United States military for the same thing for running a brothel where they are stationed in South in South Korea.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3203,7 +3343,9 @@
       "transcript_snippet": "they're quite immune uh to prosecution because that's the deal that gets struck that is struck up between the governments is like you can do whatever you want on your base",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3224,7 +3366,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-47"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3246,7 +3390,9 @@
         "N-3",
         "N-22",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3267,7 +3413,9 @@
       "transcript_snippet": "I am kind of concerned why all of these pastors who seem to be rehabilitating pedophiles are welcomed.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3291,7 +3439,9 @@
       "mentions_person_refs": [
         "N-450",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3315,7 +3465,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3338,7 +3490,9 @@
         "N-453",
         "N-22",
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3356,7 +3510,9 @@
       "transcript_snippet": "That's why they prefer the method of vaccines and making us sick and uh polluting the air and chemicals and things of that nature.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3375,7 +3531,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-170"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3395,7 +3553,9 @@
         "N-3",
         "N-170",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3414,7 +3574,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-170"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3439,7 +3601,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3459,7 +3623,9 @@
       "transcript_snippet": "You're not supposed to put them up in a home because these homes know what they're doing, okay?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3479,7 +3645,9 @@
       "transcript_snippet": "they stole some Samrian technology that allowed them to predict outcomes. And that technology stopped working in 2012.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

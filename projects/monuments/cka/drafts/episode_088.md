@@ -1525,6 +1525,8 @@ Anchored Artifacts: A-1934.1
 Mentions: N-3, N-2
 Related Nodes: N-10446, N-10449
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-11384
 Investigative Direction: Review Erika's Instagram archive for earlier posts featuring her mother.
 
 ---

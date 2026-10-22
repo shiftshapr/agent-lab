@@ -1479,6 +1479,8 @@ Mentions: N-2, N-14, N-1
 
 Related Nodes: N-10318
 
+Verification: revised-by-host
+Verification Evidence: C-4061
 Investigative Direction: Obtain the original message from Andrew Kolvet or his device records.
 
 ---
@@ -1596,6 +1598,7 @@ Anchored Artifacts: A-1539.1
 Mentions: N-190
 
 
+Revises: C-2676
 Investigative Direction: Verify against official identity records.
 
 ---
@@ -1657,6 +1660,8 @@ Mentions: N-3, N-14, N-36, N-1
 
 Related Nodes: N-10320
 
+Verification: revised-by-host
+Verification Evidence: C-5695
 Investigative Direction: Verify Andrew Kolvet's specific statement; clarify whether this is the same person as Andrew Kolvet.
 
 ---
@@ -2602,6 +2607,8 @@ Anchored Artifacts:
 Mentions: N-190, N-3
 Related Nodes: N-10214
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-4123
 Investigative Direction: Identify the third caller from the call logs; the host later corrects this identification.
 
 ---
@@ -2619,6 +2626,7 @@ Mentions: N-190, N-159, N-2, N-3
 Related Nodes: N-10214
 Supports: C-4101, C-4105
 Tags: relevance:core
+Revises: C-3030
 Investigative Direction: Align Mikey's and Neff's logs to the second against the shot time.
 
 ---
@@ -2635,6 +2643,8 @@ Anchored Artifacts:
 Mentions: N-190, N-217, N-3
 Related Nodes: N-10214
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-11087
 Investigative Direction: Check the call logs for the callback and duration.
 
 ---

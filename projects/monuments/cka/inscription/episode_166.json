@@ -1610,7 +1610,9 @@
       "transcript_snippet": "at least she's acknowledging that no, she is not an attorney",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1631,7 +1633,9 @@
       "transcript_snippet": "a recent arrest that Turning Point USA tried to scrub any affiliation from might help you understand why I feel that way",
       "mentions_person_refs": [
         "N-11350"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1656,7 +1660,9 @@
       "mentions_person_refs": [
         "N-11348",
         "N-11349"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1678,7 +1684,9 @@
       "transcript_snippet": "one of you guys emailed the tip line and noticed that actually the governor's office just made a mistake.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1700,7 +1708,9 @@
       "transcript_snippet": "someone just entered those two dates incorrectly. It's meant to be, instead of September 2nd and September 3rd, it's meant to be September 9th and September 10th.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1723,7 +1733,12 @@
       "mentions_person_refs": [
         "N-957",
         "N-41"
-      ]
+      ],
+      "revises_claim_refs": [
+        "C-14244"
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1744,7 +1759,9 @@
       "mentions_person_refs": [
         "N-957",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1767,7 +1784,9 @@
       "mentions_person_refs": [
         "N-957",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1787,7 +1806,9 @@
       "transcript_snippet": "We listened to his voice in other interviews. It certainly sounds a lot like him.",
       "mentions_person_refs": [
         "N-957"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1808,7 +1829,9 @@
       "transcript_snippet": "it was Officer Tyler Clancy who at some point that same day or evening, telling on whose tongue the story, disposed of a bloodied item that belonged to Turning Point USA or one of their affiliates.",
       "mentions_person_refs": [
         "N-957"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1829,7 +1852,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-957"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1850,7 +1875,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1870,7 +1897,9 @@
       "transcript_snippet": "mainly that he was not instructed to do so, but that he did so out of his own volition, on a whim, because the item had been left behind in his car.",
       "mentions_person_refs": [
         "N-957"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1887,7 +1916,9 @@
       ],
       "claim_timestamp": "00:05:15",
       "investigative_direction": "Provo Police Department evidence-handling policy.",
-      "transcript_snippet": "I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim."
+      "transcript_snippet": "I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1906,7 +1937,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1924,7 +1957,9 @@
       "transcript_snippet": "it was Governor Cox that was the one telling us instantly that this was a politically motivated assassination despite no evidence uh confirming that at that time.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1951,7 +1986,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1974,7 +2011,9 @@
       ],
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1998,7 +2037,9 @@
         "N-41",
         "N-955",
         "N-957"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2021,7 +2062,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-955"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2043,7 +2086,9 @@
       "transcript_snippet": "He was the keynote speaker at the Rally Connects Trade Show, um which was up in Mona at 9:00 a.m.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2065,7 +2110,9 @@
       "transcript_snippet": "We were able to find a photo of that on LinkedIn posted from the AV company that miked him, which corroborates that attendance.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2087,7 +2134,9 @@
       "transcript_snippet": "Um and then his next scheduled event was in Murray Park at 11:30 a.m.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2108,7 +2157,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-955"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2129,7 +2180,9 @@
       "mentions_person_refs": [
         "N-955",
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2148,7 +2201,9 @@
       "mentions_person_refs": [
         "N-955",
         "N-961"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2170,7 +2225,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2192,7 +2249,9 @@
       "mentions_person_refs": [
         "N-965",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2215,7 +2274,9 @@
       "transcript_snippet": "He was arrested for child pornography. Here is the headline which was published in the Bonner's Ferry Herald.",
       "mentions_person_refs": [
         "N-965"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2239,7 +2300,9 @@
       "transcript_snippet": "Taylor Dodd was arrested in early September on seven felony charges of child sexually exploitative material.",
       "mentions_person_refs": [
         "N-965"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2261,7 +2324,9 @@
       "transcript_snippet": "The images were downloaded in early April, according to court documents.",
       "mentions_person_refs": [
         "N-965"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2283,7 +2348,9 @@
       "transcript_snippet": "Documents contend that other apps were also used, such as Telegram, an instant messaging app, and Threads, a text-based social media app by Meta, to purchase and download images.",
       "mentions_person_refs": [
         "N-965"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2306,7 +2373,9 @@
       "mentions_person_refs": [
         "N-966",
         "N-965"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2328,7 +2397,9 @@
       "transcript_snippet": "Documents indicate that the ages allegedly ranged from 3 to 15.",
       "mentions_person_refs": [
         "N-965"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2350,7 +2421,9 @@
       "transcript_snippet": "according to court documents, he confessed that he purchased and watched the videos of child pornography, downloaded them, and saved them to his cell phone.",
       "mentions_person_refs": [
         "N-965"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2371,7 +2444,9 @@
       "transcript_snippet": "they tried to scrub their affiliation from the internet. So, there were a lot of broken links as we were trying to hunt down this information.",
       "mentions_person_refs": [
         "N-965"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2394,7 +2469,9 @@
       "transcript_snippet": "Thank you, by the way, to the sleuth that emailed us the lead.",
       "mentions_person_refs": [
         "N-965"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2417,7 +2494,9 @@
       "transcript_snippet": "they got a friend to go back and just scrub the words Club America from the article.",
       "mentions_person_refs": [
         "N-10000"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2440,7 +2519,9 @@
       "transcript_snippet": "Hello there, my name is Cora Nichols and I'm the vice president of Bonners Ferry's local that did say Club America homeschool hub.",
       "mentions_person_refs": [
         "N-10488"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2460,7 +2541,9 @@
       "transcript_snippet": "Turning Point Action is run by a sexual deviant, Tyler Bowyer.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2485,7 +2568,9 @@
         "N-1",
         "N-11",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2510,7 +2595,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2534,7 +2621,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2554,7 +2643,9 @@
       "transcript_snippet": "when I approached Justin Streiff about this this lead, he came back to me and said, \"No, this is not This is not true.",
       "mentions_person_refs": [
         "N-15"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2577,7 +2668,9 @@
         "N-11",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2600,7 +2693,9 @@
       "transcript_snippet": "At the very least we can establish that they're out of money. They They say they spent it all on on ballot chasing initiatives.",
       "mentions_person_refs": [
         "N-11348"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2621,7 +2716,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2646,7 +2743,9 @@
       ],
       "mentions_person_refs": [
         "N-10000"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2667,7 +2766,9 @@
       "transcript_snippet": "Bizarrely, they didn't want to share any of the surveillance footage with the public.",
       "mentions_person_refs": [
         "N-10000"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2693,7 +2794,9 @@
       "mentions_person_refs": [
         "N-10846",
         "N-11349"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2718,7 +2821,9 @@
       "transcript_snippet": "Turning Point USA's response was to direct people not to the tax-deductible uh charitable arm, the 501c3, but rather to Tyler Bowyer's Turning Point Action 501c4 arm.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2744,7 +2849,9 @@
       ],
       "mentions_person_refs": [
         "N-10750"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2767,7 +2874,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2784,7 +2893,9 @@
       ],
       "claim_timestamp": "00:21:42",
       "investigative_direction": "The Phoenix police case status on the statue vandalism.",
-      "transcript_snippet": "Update, the vandals who did this the tips apparently did not work. They have not caught the person."
+      "transcript_snippet": "Update, the vandals who did this the tips apparently did not work. They have not caught the person.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2810,7 +2921,9 @@
       ],
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2833,7 +2946,9 @@
       "transcript_snippet": "And because of that success we've burned through our financial resources faster than planned.",
       "mentions_person_refs": [
         "N-11348"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2855,7 +2970,9 @@
       "transcript_snippet": "which I will again say Justin Streiff disputes, but people um who work at Turning Point USA dispute what Justin Streiff says, it feels like they need money.",
       "mentions_person_refs": [
         "N-15"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2876,7 +2993,9 @@
       "transcript_snippet": "my instincts about the statue is that we're not being told the entire story um and that it was meant to be a fundraiser push",
       "mentions_person_refs": [
         "N-897"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2897,7 +3016,9 @@
       "mentions_person_refs": [
         "N-967",
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2917,7 +3038,9 @@
       "transcript_snippet": "But Karine Jean-Pierre, she's now come clean. She has come clean. She says it was a mix-up.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2937,7 +3060,9 @@
       "transcript_snippet": "Wall Street Journal broke the news that she did not pass the bar exam.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2958,7 +3083,9 @@
       "transcript_snippet": "she had consulted with Pepperdine's president as to how to identify herself. And she was told that as long as she didn't use the words attorney or esquire, she was okay to say that she was a lawyer.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2978,7 +3105,9 @@
       "transcript_snippet": "on her LinkedIn, she has herself listed as a general counsel.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3000,7 +3129,9 @@
       "transcript_snippet": "especially as a as a lawyer and a former corporate lawyer in China for 3 years.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3022,7 +3153,9 @@
       "transcript_snippet": "And and I mean, I am a lawyer and I'm a rigorous researcher, and I spent the better part of 2020 and 2021 researching this",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3046,7 +3179,9 @@
       "mentions_person_refs": [
         "N-960",
         "N-95"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3068,7 +3203,9 @@
       "transcript_snippet": "I had already pre-registered to take the bar, and I didn't want to withdraw from that, and we knew we would be moving out to China.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3090,7 +3227,9 @@
       "transcript_snippet": "The results are somewhat inconsequential because I knew I wouldn't need the bar in China",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3113,7 +3252,9 @@
       "transcript_snippet": "I was offered a job at a in an international practice division of a of a Chinese law firm called Jun He Law Firm.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3136,7 +3277,9 @@
       "transcript_snippet": "There's no Chinese bar. I had the enough credentials, which was my law degree, to be able to do this practice",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3159,7 +3302,9 @@
       "mentions_person_refs": [
         "N-960",
         "N-95"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3179,7 +3324,9 @@
       "transcript_snippet": "The bar is administered twice a year, according to just a little bit of research I did today.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3199,7 +3346,9 @@
       "transcript_snippet": "even if you have a baby, you can take you can take the bar exam. I checked. There doesn't seem to be any preclusions.",
       "mentions_person_refs": [
         "N-960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3220,7 +3369,9 @@
       "mentions_person_refs": [
         "N-591",
         "N-968"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3242,7 +3393,9 @@
       "transcript_snippet": "I would say in in America I would oppose the death penalty for very specific reason. Because right now the trend is this current government will use any power we give them against us.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3261,7 +3414,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3284,7 +3439,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-968"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3308,7 +3465,9 @@
         "N-5",
         "N-968",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3331,7 +3490,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-968"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3352,7 +3513,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3375,7 +3538,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3396,7 +3561,9 @@
       "transcript_snippet": "I do think they were going to employ AI Charlie. It was weird. I mean they were having discussions with people that do that kind of stuff.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3419,7 +3586,9 @@
       ],
       "mentions_person_refs": [
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3441,7 +3610,9 @@
         "N-266",
         "N-957",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3463,7 +3634,9 @@
       "transcript_snippet": "So, if you know if you have any information pertaining to Tyler Clancy, uh we would like to hear it.",
       "mentions_person_refs": [
         "N-957"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3484,7 +3657,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3506,7 +3681,9 @@
       "transcript_snippet": "please email us more tips at candaceowens.com and we still still are looking for information.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3531,7 +3708,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3554,7 +3733,9 @@
       "mentions_person_refs": [
         "N-10059",
         "N-10071"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3578,7 +3759,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3595,7 +3778,9 @@
       ],
       "claim_timestamp": "00:49:40",
       "investigative_direction": "Redactions in the UVU Independent Review, and a public-records request for the fire department's run report.",
-      "transcript_snippet": "I am told that this information is intentionally being hushed."
+      "transcript_snippet": "I am told that this information is intentionally being hushed.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3617,7 +3802,9 @@
       "transcript_snippet": "So, please email us if you know more more tips at candaceowens.com. Again, we want someone with direct knowledge",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

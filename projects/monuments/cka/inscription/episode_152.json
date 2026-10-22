@@ -2120,7 +2120,9 @@
       "investigative_direction": "Compare the aired audio against any independently circulating version; confirm timestamp of original cartoon source.*",
       "mentions_person_refs": [
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2137,7 +2139,9 @@
       "investigative_direction": "Locate the full source clip and verify date / context; cross-check with court biographical records.*",
       "mentions_person_refs": [
         "N-135"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2156,7 +2160,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-125"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2173,7 +2179,9 @@
       "investigative_direction": "Verify Bagley's personnel record with UVU police / Utah County Sheriff's Office.*",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2188,7 +2196,9 @@
       "investigative_direction": "Obtain New York Post article referenced and court records for George Zinn's case.*",
       "mentions_person_refs": [
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2210,7 +2220,9 @@
         "N-42",
         "N-330",
         "N-864"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2230,7 +2242,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-864"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2253,7 +2267,9 @@
       "investigative_direction": "Identify the specific officer via Utah ICAC roster; obtain the recorded statement through FOIA / public records request.*",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2267,7 +2283,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:50",
-      "investigative_direction": "Verify Utah ICAC administrative structure via Utah AG public materials.*"
+      "investigative_direction": "Verify Utah ICAC administrative structure via Utah AG public materials.*",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2281,7 +2299,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:24",
-      "investigative_direction": "Verify DOJ / OJJDP documentation of the 1998 ICAC program founding.*"
+      "investigative_direction": "Verify DOJ / OJJDP documentation of the 1998 ICAC program founding.*",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2296,7 +2316,9 @@
       "investigative_direction": "Obtain HSI whistleblower complaint / DOJ records pertaining to Leavitt.*",
       "mentions_person_refs": [
         "N-865"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2311,7 +2333,9 @@
       "investigative_direction": "Obtain the May–June 2022 Utah County Sheriff's Office press materials and any related filings.*",
       "mentions_person_refs": [
         "N-865"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2329,7 +2353,9 @@
       "investigative_direction": "Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*",
       "mentions_person_refs": [
         "N-587"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2373,9 @@
       "mentions_person_refs": [
         "N-832",
         "N-833"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2364,7 +2392,9 @@
         "N-194",
         "N-832",
         "N-833"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2383,7 +2413,9 @@
       "investigative_direction": "Verify each row of the spreadsheet against primary court / news records; document the precise nature of each \"connection\" (e.g., accusation vs. conviction vs. employment).*",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2402,7 +2434,9 @@
         "N-40",
         "N-125",
         "N-775"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2417,7 +2451,9 @@
       "investigative_direction": "Verify via Bagley's body cam records disclosed in preliminary hearing exhibits.*",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2432,7 +2468,9 @@
       "investigative_direction": "Pull George Zinn's Utah court records for sentencing outcomes.*",
       "mentions_person_refs": [
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2450,7 +2488,9 @@
       "investigative_direction": "Treat as framing premise – testable only via underlying placements (already inscribed above).*",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2476,7 +2516,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2499,7 +2541,9 @@
       "mentions_person_refs": [
         "N-687",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2521,7 +2565,9 @@
       "transcript_snippet": "David Frodsham. He was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring.",
       "mentions_person_refs": [
         "N-384"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2544,7 +2590,9 @@
       "mentions_person_refs": [
         "N-450",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2566,7 +2614,9 @@
       "transcript_snippet": "they were they are currently going through the court system being accused of trafficking children from Romania.",
       "mentions_person_refs": [
         "N-450"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2586,7 +2636,9 @@
       "transcript_snippet": "Andrew Piskadlo, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.",
       "mentions_person_refs": [
         "N-800"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2605,7 +2657,9 @@
       ],
       "claim_timestamp": "00:05:53",
       "investigative_direction": "Compile documented Calvary Chapel abuse cases and settlements to test whether the pattern is systemic.",
-      "transcript_snippet": "We have the Calvary Chapel Church. We've done episodes on this riddled with pastor abuse stories. It almost seems systemic like they are finding these shady characters and making them pastors."
+      "transcript_snippet": "We have the Calvary Chapel Church. We've done episodes on this riddled with pastor abuse stories. It almost seems systemic like they are finding these shady characters and making them pastors.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2625,7 +2679,9 @@
       "transcript_snippet": "Glenn Beck, his daughters were there. Um he was very much involved in the media on September 10th.",
       "mentions_person_refs": [
         "N-237"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2648,7 +2704,9 @@
       "mentions_person_refs": [
         "N-237",
         "N-325"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2669,7 +2727,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2692,7 +2752,9 @@
       "mentions_person_refs": [
         "N-799",
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2712,7 +2774,9 @@
       "transcript_snippet": "Uh accused of abusing children at the Army Child Development Center.",
       "mentions_person_refs": [
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2734,7 +2798,9 @@
       "transcript_snippet": "Victor Markx, obviously, you know, he says that he helps with human trafficking. Um profits from his supplement comp company go to his child trafficking charity, All Things Possible.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2754,7 +2820,9 @@
       "transcript_snippet": "Yako Buyans also runs a charity for child sex abuse. I don't know if his is called All Things Possible.",
       "mentions_person_refs": [
         "N-488"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2776,7 +2844,9 @@
       "transcript_snippet": "Nela Buckman, who they announced as the biggest donor to Turning Point USA ever, uh is extensively involved in the rescue of children who are sexually abused and trafficked.",
       "mentions_person_refs": [
         "N-460"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2801,7 +2871,9 @@
         "N-424",
         "N-487",
         "N-237"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2823,7 +2895,9 @@
       "transcript_snippet": "co-founding Soter Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.",
       "mentions_person_refs": [
         "N-685"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2842,7 +2916,9 @@
       "mentions_person_refs": [
         "N-135",
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2860,7 +2936,9 @@
       "transcript_snippet": "Before then, he was leading the special victim's unit at the Utah County's attorney attorney's office, who we're also going to discuss, before moving to Davis County Attorney's Office, where he continued handling physical and sexual abuse cases.",
       "mentions_person_refs": [
         "N-135"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2884,7 +2962,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-135"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2909,7 +2989,9 @@
         "N-125",
         "N-40",
         "N-775"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2928,7 +3010,9 @@
       "mentions_person_refs": [
         "N-506",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2951,7 +3035,9 @@
       ],
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2969,7 +3055,12 @@
       "transcript_snippet": "the screwdriver was proven really doesn't tell us that it's Tyler Robinson's DNA. I'm not going to get into that today.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "revises_claim_refs": [
+        "C-11690"
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2989,7 +3080,9 @@
       "transcript_snippet": "our decoy boy number one, George Zinn, who created a distraction by shouting, \"I did it. I did it.\" in the immediate aftermath of the explosive going off.",
       "mentions_person_refs": [
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3009,7 +3102,9 @@
       "transcript_snippet": "it leads many sensible people to wondering whether or not he was blackmailed into doing that, into jumping up and down and creating a distraction.",
       "mentions_person_refs": [
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3029,7 +3124,9 @@
       "transcript_snippet": "it's announced around 2:45 Utah local time that that Charlie has passed.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3054,7 +3151,9 @@
       ],
       "mentions_person_refs": [
         "N-864"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3080,7 +3179,9 @@
       "mentions_person_refs": [
         "N-864",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3105,7 +3206,9 @@
         "N-864",
         "N-42",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3127,7 +3230,9 @@
       "transcript_snippet": "we learned that the surveillance footage was also seized from Inter Mountain Health Utah Valley because they said that the perpetrator was driving around.",
       "mentions_person_refs": [
         "N-864"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3148,7 +3253,9 @@
       "mentions_person_refs": [
         "N-864",
         "N-775"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3168,7 +3275,9 @@
       "transcript_snippet": "George Zinn being the exception here as someone who was committing a crime against children. These people are all specializing in this throughout their career.",
       "mentions_person_refs": [
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3191,7 +3300,9 @@
       ],
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3215,7 +3326,9 @@
         "N-190",
         "N-367",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3242,7 +3355,9 @@
         "N-190",
         "N-159",
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3268,7 +3383,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3290,7 +3407,9 @@
       "transcript_snippet": "Obviously, if they wanted to race to go be with Charlie or to follow him, they had that option. They had their car.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3314,7 +3433,9 @@
       ],
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3340,7 +3461,9 @@
       ],
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3363,7 +3486,9 @@
       ],
       "mentions_person_refs": [
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3383,7 +3508,9 @@
       "transcript_snippet": "this feels like a control mechanism that's being directed by the feds. Like this is one big group. And for some reason, the feds wanted them in particular to have their hands everywhere in this case.",
       "supports_claim_refs": [
         "C-13123"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3403,7 +3530,9 @@
         "N-9",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3425,7 +3554,9 @@
         "N-5",
         "N-1",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3448,7 +3579,9 @@
         "N-22",
         "N-9",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3468,7 +3601,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3488,7 +3623,9 @@
       "transcript_snippet": "the people that are were lying about what Charlie was going through. There's no reason to lie about arguments that were being had the day before and pretending that he wasn't under pressure from Israel.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3508,7 +3645,9 @@
       "transcript_snippet": "We know that Epstein was Israel's guy. Okay, that that's too much coincidence for me.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3526,7 +3665,9 @@
       "transcript_snippet": "because people have sent us so many tips about uh various things that have gone on that have been controversial",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3546,7 +3687,9 @@
       "transcript_snippet": "the attorney general um of Utah was a man named David O. Levit. And there was a massive scandal.",
       "mentions_person_refs": [
         "N-865"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3564,7 +3707,9 @@
       "transcript_snippet": "He was seeking support connected to adopting a northern Native American child, a Cheyenne child, and he met with the tribal president and proposed a relationship between the tribe and Ukraine.",
       "mentions_person_refs": [
         "N-865"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3582,7 +3727,9 @@
       "transcript_snippet": "why is her mom doing so much stuff on Native American reservations?",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3600,7 +3747,9 @@
       "transcript_snippet": "The Utah County Sheriff's Office announced that there was an investigation into alleged ritualistic child sexual abuse and child trafficking dating back approximately uh between 1990 and 2010.",
       "supports_claim_refs": [
         "C-13137"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3615,7 +3764,9 @@
       ],
       "claim_timestamp": "00:29:26",
       "investigative_direction": "Review TPUSA's high school chapter program statements and school district policies.",
-      "transcript_snippet": "their insistence on wanting to have access to high school students. It it alarms me."
+      "transcript_snippet": "their insistence on wanting to have access to high school students. It it alarms me.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3636,7 +3787,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3657,7 +3810,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3679,7 +3834,9 @@
         "N-568",
         "N-529",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3697,7 +3854,9 @@
       "transcript_snippet": "the people that were working that day for Turning Point USA, we have found cases that are going on in the background that involve this same topic",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3714,7 +3873,9 @@
       ],
       "claim_timestamp": "00:35:04",
       "investigative_direction": "Review the TPUSA broadcast in which Paramount Tactical appears and check for any statement about bullet splitting.",
-      "transcript_snippet": "instantly we saw Turning Point USA uh using uh Paramount Tactical and like oh he's a former Green Beret so he's he can explain to you why magic bullets might split in the air"
+      "transcript_snippet": "instantly we saw Turning Point USA uh using uh Paramount Tactical and like oh he's a former Green Beret so he's he can explain to you why magic bullets might split in the air",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3733,7 +3894,9 @@
       "mentions_person_refs": [
         "N-587",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3756,7 +3919,9 @@
       "mentions_person_refs": [
         "N-587",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3775,7 +3940,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3799,7 +3966,9 @@
       "mentions_person_refs": [
         "N-587",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3819,7 +3988,9 @@
       "transcript_snippet": "He is a former Army Ranger sniper and explosives expert, and he's the host of Speak the Truth uh podcast.",
       "mentions_person_refs": [
         "N-587"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3836,7 +4007,9 @@
       ],
       "claim_timestamp": "00:38:36",
       "investigative_direction": "Review the preliminary hearing record on exhibit 11 and the court's order restricting media access.",
-      "transcript_snippet": "I believe it was exhibit 11 that the judge uh basically didn't allow to be seen by the news media during the preliminary hearing, but was shown privately in court."
+      "transcript_snippet": "I believe it was exhibit 11 that the judge uh basically didn't allow to be seen by the news media during the preliminary hearing, but was shown privately in court.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3857,7 +4030,9 @@
       "mentions_person_refs": [
         "N-587",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3882,7 +4057,9 @@
       ],
       "mentions_person_refs": [
         "N-587"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3904,7 +4081,9 @@
       "transcript_snippet": "Tardio's explanation was that the left-wing Antifa activists had plotted to get him stoned.",
       "mentions_person_refs": [
         "N-587"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3921,7 +4100,9 @@
       ],
       "claim_timestamp": "00:41:02",
       "investigative_direction": "A sweeping group claim; no checkable evidence is offered.",
-      "transcript_snippet": "you find this in their background because Israel is very good at blackmailing people."
+      "transcript_snippet": "you find this in their background because Israel is very good at blackmailing people.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3943,7 +4124,9 @@
       "mentions_person_refs": [
         "N-194",
         "N-832"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3966,7 +4149,9 @@
       ],
       "mentions_person_refs": [
         "N-832"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3989,7 +4174,9 @@
       ],
       "mentions_person_refs": [
         "N-832"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4008,7 +4195,9 @@
       "mentions_person_refs": [
         "N-833",
         "N-832"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4027,7 +4216,9 @@
       "mentions_person_refs": [
         "N-833",
         "N-832"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4045,7 +4236,9 @@
       "transcript_snippet": "I think there's only three um tour stops left.",
       "mentions_person_refs": [
         "N-833"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4066,7 +4259,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4085,7 +4280,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4103,7 +4300,9 @@
       "transcript_snippet": "He's now literally on top of a world doing a tour and still getting turned down by stadiums, but then just going to the ones that open their doors.",
       "mentions_person_refs": [
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4121,7 +4320,9 @@
       "transcript_snippet": "Justin Bieber is finally free and happy and he doesn't even care after he got sued for cancing the rest of his tour?",
       "mentions_person_refs": [
         "N-866"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4142,7 +4343,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-99"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4162,7 +4365,9 @@
       "transcript_snippet": "Tyler only limps in the video that we revealed yesterday. As he gets closer to where he's been told there is a camera, I noticed that as well.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4180,7 +4385,9 @@
       "transcript_snippet": "people were sort of fearful in the beginning about being a source or providing information.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4199,7 +4406,9 @@
       "mentions_person_refs": [
         "N-867",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4224,7 +4433,9 @@
         "N-3",
         "N-278",
         "N-237"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4242,7 +4453,9 @@
       "transcript_snippet": "being brought into an office and like questioned about that statement and then just totally told that. No, that's not what you meant.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4264,7 +4477,9 @@
         "N-154",
         "N-58",
         "N-204"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4285,7 +4500,9 @@
         "N-58",
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4305,7 +4522,9 @@
         "N-58",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4326,7 +4545,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4345,7 +4566,9 @@
       "mentions_person_refs": [
         "N-99",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

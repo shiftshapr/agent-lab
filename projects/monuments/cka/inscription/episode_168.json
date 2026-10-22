@@ -1635,7 +1635,9 @@
       "transcript_snippet": "All right, you guys. Happy Tuesday. Just three more shows before maternity leave.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1658,7 +1660,9 @@
       "transcript_snippet": "I have an idea for Turning Point regarding the vandalism of the CK statue. It just came to me as I was sitting here listening to the show.",
       "mentions_person_refs": [
         "N-213"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1680,7 +1684,9 @@
         "N-25",
         "N-69",
         "N-378"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1697,7 +1703,9 @@
       ],
       "claim_timestamp": "00:01:12",
       "investigative_direction": "The FBI's public timeline of the January 5, 2021 pipe-bomb placements at the RNC and DNC.",
-      "transcript_snippet": "January 5th, the evening of January 6th, somebody dropped off pipe bombs."
+      "transcript_snippet": "January 5th, the evening of January 6th, somebody dropped off pipe bombs.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1717,7 +1725,9 @@
       "transcript_snippet": "And we've got some to reveal to you regarding Tyler Robinson's actions, alleged actions on September 10th. It's rather explosive.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1741,7 +1751,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1762,7 +1774,9 @@
       "mentions_person_refs": [
         "N-236",
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1782,7 +1796,9 @@
       "transcript_snippet": "Um and which he also determined may have been a Capitol police officer",
       "mentions_person_refs": [
         "N-236"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1803,7 +1819,9 @@
       "transcript_snippet": "And the feds were responsible for February 6th. Kash Patel and the gang swooped in. This was last November, December.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1823,7 +1841,9 @@
       "transcript_snippet": "it was this 30-year-old black autistic man who's never been in trouble, but decided as his first crime that he would attempt to blow up the RNC and the DNC",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1846,7 +1866,9 @@
       ],
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1867,7 +1889,9 @@
       "mentions_person_refs": [
         "N-972",
         "N-707"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1884,7 +1908,9 @@
       ],
       "claim_timestamp": "00:05:05",
       "investigative_direction": "Church Committee findings on CIA relationships with journalists.",
-      "transcript_snippet": "And they put American journalists on payroll to repeat their talking points as a part of that operation."
+      "transcript_snippet": "And they put American journalists on payroll to repeat their talking points as a part of that operation.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1905,7 +1931,9 @@
       "transcript_snippet": "when it was revealed by journalist Carl Bernstein which publications were working on behalf of the CIA, Scripps Media was on the list.",
       "mentions_person_refs": [
         "N-973"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1926,7 +1954,9 @@
       "mentions_person_refs": [
         "N-236",
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1947,7 +1977,9 @@
       "mentions_person_refs": [
         "N-25",
         "N-236"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1967,7 +1999,9 @@
       "transcript_snippet": "Brian Cole, and I would say this is likely as a symptom of his autism because we know that they a lot of people who are autistic will walk on their toes.",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1987,7 +2021,9 @@
       "transcript_snippet": "He had on some shoes and they were able to uniquely identify the shoes as well as a jacket that he was wearing that still had tags on it from Christmas.",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2009,7 +2045,9 @@
       "transcript_snippet": "These are the shoes that we believe uh that he's wearing right there that you're seeing in that shot because these shoes were retired immediately after because his mother had just bought him his first pair of Crocs.",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2031,7 +2069,9 @@
       "transcript_snippet": "This is a jacket I found in his room that still has a tag hanging on it.",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2053,7 +2093,9 @@
       "transcript_snippet": "Because when they discovered this detail, Brian Cole's grandmother reached out and said,",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2076,7 +2118,9 @@
       "mentions_person_refs": [
         "N-236",
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2101,7 +2145,9 @@
         "N-236",
         "N-69",
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2123,7 +2169,9 @@
       "transcript_snippet": "But, uh, this mask is the maroon and gold of the old Washington Redskins.",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2145,7 +2193,9 @@
       "transcript_snippet": "But here's what's most significant about the mask is that Brian's mother handmade all of his masks for him.",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2168,7 +2218,9 @@
       "mentions_person_refs": [
         "N-25",
         "N-974"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2189,7 +2241,9 @@
       "mentions_person_refs": [
         "N-236",
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2213,7 +2267,9 @@
       ],
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2237,7 +2293,9 @@
         "N-378",
         "N-25",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2258,7 +2316,9 @@
       "transcript_snippet": "I do not believe that he was ever on the Losee rooftop on September 10th for a variety of reasons like uh the athletic nature of the person moving uh the military crawl jumping off of a rooftop.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2282,7 +2342,9 @@
         "N-506",
         "N-826",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2302,7 +2364,9 @@
       "transcript_snippet": "in the approximate 20 minutes between when the suspect jumped off of the rooftop at 12:23 p.m.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2326,7 +2390,9 @@
       "mentions_person_refs": [
         "N-826",
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2346,7 +2412,9 @@
       "transcript_snippet": "we know um that his body cam footage is not working.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2366,7 +2434,9 @@
       "transcript_snippet": "And I can exclusively confirm here on this show that yes, someone did indeed go back up onto Losee rooftop to the ledge afterward.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2383,7 +2453,9 @@
       ],
       "claim_timestamp": "00:15:56",
       "investigative_direction": "Forensic comparison of the two figures in the footage.",
-      "transcript_snippet": "it appears to me to be the very same individual who had jumped onto the rooftop and then jumped off of the rooftop."
+      "transcript_snippet": "it appears to me to be the very same individual who had jumped onto the rooftop and then jumped off of the rooftop.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2406,7 +2478,9 @@
       "transcript_snippet": "1217 on your left. 1237 after the alleged rooftop shot. Nearly identical. We took a look at the pixels. We took a look at the height.",
       "mentions_person_refs": [
         "N-10012"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2426,7 +2500,9 @@
       "transcript_snippet": "And this person who I believe returned to the exact spot. Um when he gets to that spot, he he actually lingers there for about 5 minutes.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2445,7 +2521,9 @@
       ],
       "claim_timestamp": "00:17:55",
       "investigative_direction": "Height estimate of the figure against known rooftop features.",
-      "transcript_snippet": "We have nicknamed him Slenderman because he is extremely tall, which I'm going to also demonstrate to you."
+      "transcript_snippet": "We have nicknamed him Slenderman because he is extremely tall, which I'm going to also demonstrate to you.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2467,7 +2545,9 @@
       "transcript_snippet": "Here he is. Look at You can just You can just see how tall his legs are. You can see the backpack.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2486,7 +2566,9 @@
       ],
       "claim_timestamp": "00:18:46",
       "investigative_direction": "Gait analysis of the figure across frames.",
-      "transcript_snippet": "we're going to talk about the the dragging of that leg that you slightly see there."
+      "transcript_snippet": "we're going to talk about the the dragging of that leg that you slightly see there.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2505,7 +2587,9 @@
       ],
       "claim_timestamp": "00:19:22",
       "investigative_direction": "UVU camera footage of the ledge at 12:36.",
-      "transcript_snippet": "Next up, at approximately 1236, he is going to walk up to the ledge."
+      "transcript_snippet": "Next up, at approximately 1236, he is going to walk up to the ledge.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2524,7 +2608,9 @@
       ],
       "claim_timestamp": "00:20:08",
       "investigative_direction": "UVU camera footage from 12:38.",
-      "transcript_snippet": "But we can tell you happens next. is that he sort of then walks back and forth around 12:38."
+      "transcript_snippet": "But we can tell you happens next. is that he sort of then walks back and forth around 12:38.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2547,7 +2633,9 @@
       "transcript_snippet": "the footage is going to have a dropout because what we know happens is he goes back to the ledge at 12:40.",
       "mentions_person_refs": [
         "N-11114"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2566,7 +2654,9 @@
       ],
       "claim_timestamp": "00:21:10",
       "investigative_direction": "UVU camera footage at 12:42 and the figure's exit route.",
-      "transcript_snippet": "But what we do have is footage of him then departing the ledge at 12:42 p.m."
+      "transcript_snippet": "But what we do have is footage of him then departing the ledge at 12:42 p.m.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2588,7 +2678,9 @@
       "transcript_snippet": "Literally less than a minute later, Officer Bagley makes his premiere on the rooftop.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2610,7 +2702,9 @@
       "transcript_snippet": "And the first thing he does is he finds a screwdriver just a few feet over the ledge.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2633,7 +2727,9 @@
       "transcript_snippet": ">> About 10 or 15 feet in. Oh, that's really interesting.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2656,7 +2752,9 @@
         "N-506",
         "N-826",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2678,7 +2776,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2703,7 +2803,9 @@
         "N-11363",
         "N-10012",
         "N-10086"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2726,7 +2828,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2747,7 +2851,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2766,7 +2872,9 @@
       ],
       "claim_timestamp": "00:31:30",
       "investigative_direction": "The FBI director's September 2025 posts quoted on the card.",
-      "transcript_snippet": "FBI now. I mean, obviously the points here are 33 33. See you in Valhalla. Rest now, brother."
+      "transcript_snippet": "FBI now. I mean, obviously the points here are 33 33. See you in Valhalla. Rest now, brother.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2791,7 +2899,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2814,7 +2924,9 @@
         "N-130",
         "N-330",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2836,7 +2948,9 @@
       "transcript_snippet": "Then she says, \"Tragic is firing someone for saying genocide is always wrong.\"",
       "mentions_person_refs": [
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2857,7 +2971,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2878,7 +2994,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2902,7 +3020,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2921,7 +3041,9 @@
       ],
       "claim_timestamp": "00:36:15",
       "investigative_direction": "The Daily Wire termination letter.",
-      "transcript_snippet": "It says you have insinuated that you believe Israel is committing a genocide and refused to explicitly deny that interpretation."
+      "transcript_snippet": "It says you have insinuated that you believe Israel is committing a genocide and refused to explicitly deny that interpretation.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2943,7 +3065,9 @@
       "transcript_snippet": "I said, \"No government anywhere has a right to commit a genocide ever. There's no justification for a genocide.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2964,7 +3088,9 @@
       "mentions_person_refs": [
         "N-64",
         "N-161"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2983,7 +3109,9 @@
       ],
       "claim_timestamp": "00:37:08",
       "investigative_direction": "The Daily Wire termination letter.",
-      "transcript_snippet": "you have repeatedly posted about Christians being killed by Israel, and you recognize that this has led some to conclude that you are anti-Semitic."
+      "transcript_snippet": "you have repeatedly posted about Christians being killed by Israel, and you recognize that this has led some to conclude that you are anti-Semitic.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3001,7 +3129,9 @@
       "transcript_snippet": "He called me the mistress of lies.",
       "mentions_person_refs": [
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3022,7 +3152,9 @@
       "mentions_person_refs": [
         "N-975",
         "N-33"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3045,7 +3177,9 @@
       "transcript_snippet": "Now, Kimberly Guilfoyle has been pushed out as the ambassador. It was reported by Axios and obviously everyone.",
       "mentions_person_refs": [
         "N-975"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3067,7 +3201,9 @@
       "transcript_snippet": "she had to announce her resignation after the White House basically asked her to sit down following reports",
       "mentions_person_refs": [
         "N-975"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3089,7 +3225,9 @@
       "transcript_snippet": "They said she was abusing the office, that she was making deals, that uh she was seeking financial favors to promote people's business interests.",
       "mentions_person_refs": [
         "N-975"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3110,7 +3248,9 @@
       "mentions_person_refs": [
         "N-975",
         "N-976"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3128,7 +3268,9 @@
       "transcript_snippet": "Everyone like Miriam Adelson outright purchased the White House",
       "mentions_person_refs": [
         "N-298"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3150,7 +3292,9 @@
         "N-33",
         "N-34",
         "N-975"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3172,7 +3316,9 @@
       "mentions_person_refs": [
         "N-960",
         "N-975"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3192,7 +3338,9 @@
       "transcript_snippet": "Tyler Bowyer is blocking more people on X. I am very [snorts] disappointed.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3214,7 +3362,9 @@
       "transcript_snippet": "The Latvian bot farms failed to conceal Erika's lies and betrayals.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3232,7 +3382,9 @@
       "transcript_snippet": "it's for the reason for, you know, fighting me the law fair. It's al meant to exhaust me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3253,7 +3405,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3271,7 +3425,9 @@
       "transcript_snippet": "I guess again like if I didn't keep going, we wouldn't have discovered that Latvian bot farm",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3288,7 +3444,9 @@
       ],
       "claim_timestamp": "00:48:55",
       "investigative_direction": "None beyond the commenter's account.",
-      "transcript_snippet": "She took the results to his pediatrician who said the best thing she could do is never put it in his medical records."
+      "transcript_snippet": "She took the results to his pediatrician who said the best thing she could do is never put it in his medical records.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3308,7 +3466,9 @@
       "transcript_snippet": "My apologies for the ex drama that ensued today. I was trying to give you some love and support and it blew up.",
       "mentions_person_refs": [
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3329,7 +3489,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

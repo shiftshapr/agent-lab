@@ -2291,6 +2291,7 @@ Mentions: N-3, N-5
 Related Nodes: 
 Supports: C-6786
 Tags: relevance:tangential
+Revises: C-7112
 Investigative Direction: Check official US and Iranian accounts of the strike and the later statements about it.
 
 ---

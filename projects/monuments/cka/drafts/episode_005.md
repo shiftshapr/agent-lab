@@ -881,6 +881,8 @@ Anchored Artifacts: A-1111.1
 Mentions: N-40
 Related Nodes: N-10012, N-10048, N-10059
 Confidence: medium
+Verification: revised-by-host
+Verification Evidence: C-4526, C-4530
 Investigative Direction: Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle.
 
 ---

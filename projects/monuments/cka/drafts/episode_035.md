@@ -1898,6 +1898,8 @@ Anchored Artifacts: A-1441.1
 Mentions: N-7, N-1, N-3
 Related Nodes: N-10636
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-10336
 Investigative Direction: Compare Turek's accounts of the SUV and hospital with other eyewitness statements.
 
 ---

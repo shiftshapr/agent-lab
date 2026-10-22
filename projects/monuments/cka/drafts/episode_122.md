@@ -1753,6 +1753,8 @@ Anchored Artifacts:
 Mentions: N-529, N-9
 Related Nodes: 
 Tags: relevance:context
+Verification: revised-by-host
+Verification Evidence: C-11486
 Investigative Direction: Locate the court or investigative document that describes the triplets allegation.
 
 ---
@@ -2403,6 +2405,7 @@ Anchored Artifacts:
 Mentions: N-573, N-2, N-3
 Related Nodes: N-10463
 Tags: relevance:core
+Revises: C-4433
 Investigative Direction: Identify Nicole Rothstein, her relation to Erika Kirk and any shared real estate ventures.
 
 ---

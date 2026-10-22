@@ -2452,7 +2452,9 @@
       "investigative_direction": "Pull official Flightradar / ADS-B archives for SUBTT across the cited dates; verify whether route and timing correlate with documented TPUSA / TPUSA Faith events as claimed.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2471,7 +2473,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:38",
-      "investigative_direction": "Verify Flightradar archive for SUBND on each cited date; cross-reference ground-time anomalies with TPUSA / TPUSA Faith event timing."
+      "investigative_direction": "Verify Flightradar archive for SUBND on each cited date; cross-reference ground-time anomalies with TPUSA / TPUSA Faith event timing.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2490,7 +2494,9 @@
       "investigative_direction": "Obtain the referenced internal TPUSA email through open-source verification or insider corroboration; cross-check TPUSA organizational filings and HR records.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2509,7 +2515,9 @@
       "investigative_direction": "Re-examine the original Instagram post metadata (post date, capture date) to resolve the dating discrepancy between host and producer.",
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2530,7 +2538,9 @@
       "investigative_direction": "Retrieve the cited article directly; confirm each enumerated allegation against underlying source documents and any subsequent legal filings.",
       "mentions_person_refs": [
         "N-205"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2546,7 +2556,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:10",
-      "investigative_direction": "Verify against FAA / airport maintenance logs whether a documented maintenance event is associated with the SUBND arrival."
+      "investigative_direction": "Verify against FAA / airport maintenance logs whether a documented maintenance event is associated with the SUBND arrival.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2563,7 +2575,9 @@
       "tags": [],
       "claim_timestamp": "00:39:39",
       "investigative_direction": "Cross-reference Provo airport manifest or charter operator records; locate and contact the referenced overseas source for further detail.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2582,7 +2596,9 @@
       "investigative_direction": "Verify against Flightradar archives; obtain Canadian / French ATC transit records and Cairo arrival logs to identify passengers.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2600,7 +2616,9 @@
       ],
       "tags": [],
       "claim_timestamp": "01:01:33",
-      "investigative_direction": "Verify via Google Trends / search-source attribution whether the cited tail-number search spike from Israeli IP ranges on September 8, 2025 is reproducible."
+      "investigative_direction": "Verify via Google Trends / search-source attribution whether the cited tail-number search spike from Israeli IP ranges on September 8, 2025 is reproducible.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2619,7 +2637,9 @@
       "investigative_direction": "Pull Flightradar / FAA archives for N102DZ on September 10, 2025; identify operator and registered owner; cross-reference with Scottsdale and Salt Lake City airport logs.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2636,7 +2656,9 @@
       "tags": [],
       "claim_timestamp": "00:43:20",
       "investigative_direction": "Verify the second-leg flight path; cross-check with Flightradar archives and FAA tracks.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2652,7 +2674,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:00",
-      "investigative_direction": "Confirm event details against contemporaneous news coverage; verify any documented role of Rob McCoy as pastor to the shooter's family."
+      "investigative_direction": "Confirm event details against contemporaneous news coverage; verify any documented role of Rob McCoy as pastor to the shooter's family.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2672,7 +2696,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2691,7 +2717,9 @@
       "investigative_direction": "Retrieve the underlying news article; verify the exact amount, date, and Osteen's official response.",
       "mentions_person_refs": [
         "N-207"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2712,7 +2740,9 @@
         "N-22",
         "N-9",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2732,7 +2762,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2752,7 +2784,9 @@
       "investigative_direction": "Verify existence of a Charlie Kirk \"Restaurantology Summit\" interview; cross-check with N102DZ passenger manifest if obtainable.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2773,7 +2807,9 @@
         "N-1",
         "N-14",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2792,7 +2828,9 @@
       "investigative_direction": "Locate any direct statement from Charlie Kirk regarding TPUSA funding opacity; verify the DOGE organizational structure and stated mission.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2851,9 @@
       "investigative_direction": "Verify each named pastor / figure's public silence or statements in the period following September 10, 2025.",
       "mentions_person_refs": [
         "N-208"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2834,7 +2874,9 @@
         "N-17",
         "N-205",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2856,7 +2898,9 @@
         "N-66",
         "N-205",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2874,7 +2918,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2891,7 +2937,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2908,7 +2956,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2929,7 +2979,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2954,7 +3006,9 @@
         "N-3",
         "N-1",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2975,7 +3029,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3000,7 +3056,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3024,7 +3082,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3049,7 +3109,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3073,7 +3135,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3100,7 +3164,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3124,7 +3190,9 @@
       "transcript_snippet": "Tail number SUBND, that's a Gulfstream 4. It's about 12 to 16 And tail number SUBTT, that's going to be our main one. That's our Falcon 7X.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3146,7 +3214,9 @@
       "transcript_snippet": "these are the four times that BTT, so if they're both SU, that BTT was here in 2022. That's the furthest that we can go back on Flightradar.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3170,7 +3240,9 @@
         "N-1",
         "N-709",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3193,7 +3265,9 @@
       "transcript_snippet": "Rob McCoy hosts the first ever Turning Point USA Faith Pastors Tour of Israel.",
       "mentions_person_refs": [
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3217,7 +3291,9 @@
       "mentions_person_refs": [
         "N-167",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3238,7 +3314,9 @@
         "N-1",
         "N-3",
         "N-193"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3262,7 +3340,9 @@
         "N-167",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3285,7 +3365,9 @@
       "mentions_person_refs": [
         "N-205",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3306,7 +3388,9 @@
       "mentions_person_refs": [
         "N-205",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3326,7 +3410,9 @@
       "transcript_snippet": "So, look him up on his biography and it tells us that he was born in Montana. He's a son of a dermatologist.",
       "mentions_person_refs": [
         "N-205"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3352,7 +3438,9 @@
       "mentions_person_refs": [
         "N-205",
         "N-906"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3375,7 +3463,9 @@
       "transcript_snippet": "February 28th, Sean Feucht announce it's announced that he's going to be heading up the Kingdom of the Capital Tour.",
       "mentions_person_refs": [
         "N-205"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3400,7 +3490,9 @@
       "transcript_snippet": "that plane gets to St. Louis Missouri and sure enough, Sean Feucht is there. TPUSA Faith is there.",
       "mentions_person_refs": [
         "N-205"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3423,7 +3515,9 @@
       "transcript_snippet": "Turning Point USA has their first ever Faith Pastor Summit. I spelled that wrong there. The Faith Pastor Summit and it's in Nashville and it's headed by Rob McCoy.",
       "mentions_person_refs": [
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3442,7 +3536,9 @@
       ],
       "claim_timestamp": "00:14:15",
       "investigative_direction": "Compare the summit dates with the Covenant School shooting date and review the status of the shooter's writings and FBI or police disclosures.",
-      "transcript_snippet": "And lo and behold, while they're here, there is a trans shooting. A traumatizing trans shooting in which the feds engage in a cover-up regarding, okay?"
+      "transcript_snippet": "And lo and behold, while they're here, there is a trans shooting. A traumatizing trans shooting in which the feds engage in a cover-up regarding, okay?",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3466,7 +3562,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3489,7 +3587,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3509,7 +3609,9 @@
       "transcript_snippet": "maybe these kind of random shootings that instantly get covered up, but always involve like an army veteran, aren't actually that random and maybe the military is involved in them.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3531,7 +3633,9 @@
       "transcript_snippet": "But then also, got close to the victim's family and the victim's family got upset with him.",
       "mentions_person_refs": [
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3550,7 +3654,9 @@
       ],
       "claim_timestamp": "00:17:04",
       "investigative_direction": "Confirm date against Metro Nashville Police records for the Covenant School shooting.",
-      "transcript_snippet": "March 27th, like I said, is when we have that trans shooting at Covenant Elementary School in Nashville."
+      "transcript_snippet": "March 27th, like I said, is when we have that trans shooting at Covenant Elementary School in Nashville.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3574,7 +3680,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-205"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3600,7 +3708,9 @@
       ],
       "mentions_person_refs": [
         "N-10199"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3623,7 +3733,9 @@
       "transcript_snippet": "And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capitol Tour event, which happens to be in Topeka, Kansas.",
       "mentions_person_refs": [
         "N-205"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3650,7 +3762,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3671,7 +3785,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3692,7 +3808,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3715,7 +3833,9 @@
       "transcript_snippet": "and it stays in Lincoln for a mysterious 5 days.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3741,7 +3861,9 @@
       ],
       "mentions_person_refs": [
         "N-10199"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3763,7 +3885,9 @@
       "transcript_snippet": "Charlie Kirk was speaking at the University of Kansas, okay? On April 3rd.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3785,7 +3909,9 @@
       "transcript_snippet": "that Charlie is in Omaha, Nebraska speaking at the Lord of Hosts Church.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3807,7 +3933,9 @@
       ],
       "claim_timestamp": "00:23:41",
       "investigative_direction": "Verify both tails at Provo in April 2024 from Flightradar and airport records and identify who met them.",
-      "transcript_snippet": "The planes are together again, you know, they're meeting up, they're kind of tracking each other and who's in the area?"
+      "transcript_snippet": "The planes are together again, you know, they're meeting up, they're kind of tracking each other and who's in the area?",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3829,7 +3957,9 @@
       "transcript_snippet": "So, he is doing an event at Salt Lake at the University of Utah. It's a prove me wrong event.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3852,7 +3982,9 @@
         "N-329",
         "N-209",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3877,7 +4009,9 @@
       ],
       "mentions_person_refs": [
         "N-205"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3898,7 +4032,9 @@
       "transcript_snippet": "People that were paying in cash, paying cash more than what the property was worth",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3920,7 +4056,9 @@
       "transcript_snippet": "Dave Smith is speaking. They're talking about Israel being a problem.",
       "mentions_person_refs": [
         "N-39"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3944,7 +4082,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3964,7 +4104,9 @@
       "transcript_snippet": "He is the one, like I said, that has he has hired every person around Charlie.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3982,7 +4124,9 @@
       ],
       "claim_timestamp": "00:32:39",
       "investigative_direction": "Compare TPUSA leadership and donor religious affiliations; the host gives no data for the sweeping characterization.",
-      "transcript_snippet": "Joke's on you if you think Turning Point USA is a Christian organization, it's a Mormon one, okay?"
+      "transcript_snippet": "Joke's on you if you think Turning Point USA is a Christian organization, it's a Mormon one, okay?",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4005,7 +4149,9 @@
         "N-3",
         "N-201",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4028,7 +4174,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4053,7 +4201,9 @@
         "N-55",
         "N-38",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4079,7 +4229,9 @@
       "mentions_person_refs": [
         "N-98",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4102,7 +4254,9 @@
       "transcript_snippet": "That happens July 11th and now our plane is coming back from Egypt, just 9 days later. It goes through Omaha, Nebraska at 11:37 a. m. It departs and it heads over to Lincoln, Nebraska and it stays there for 6 days.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4125,7 +4279,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4150,7 +4306,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4175,7 +4333,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4200,7 +4360,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4225,7 +4387,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4249,7 +4413,9 @@
       "transcript_snippet": "Um comes into Nebraska and again does that trip into Lincoln immediately.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4275,7 +4441,9 @@
       ],
       "mentions_person_refs": [
         "N-10071"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4300,7 +4468,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4322,7 +4492,9 @@
       "transcript_snippet": "There were two planes that we could find that right after Charlie gets shot scrambled uh and from Scottsdale, Arizona.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4344,7 +4516,9 @@
       "transcript_snippet": "And then Charlie gets shot at 12:23 and this plane scrambles.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4366,7 +4540,9 @@
       "transcript_snippet": "It's possible this plane picked up Erika.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4388,7 +4564,9 @@
       "transcript_snippet": "I don't know what Mikey McCoy's wife's name I think she said she was there. Mikey McCoy was there.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4410,7 +4588,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4432,7 +4612,9 @@
         "N-1",
         "N-17",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4455,7 +4637,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4478,7 +4662,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4502,7 +4688,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4523,7 +4711,9 @@
       "transcript_snippet": "Tyler Bowyer majored in Soviet studies. He's a fluent Russian speaker.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4543,7 +4733,9 @@
       "transcript_snippet": "it's very interesting that he was involved uh with orphanages in the Ukraine uh posted about helping Russian-speaking orphans or whatever it is years ago.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4564,7 +4756,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4585,7 +4779,9 @@
       "transcript_snippet": "Oh, Tyler Robinson's file adds up to 33. Oh, the Freemason Lodge in St. George or in Utah is number 33. It's like we get it, okay?",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4605,7 +4801,9 @@
       "transcript_snippet": "because I think the state of Israel is probably involved in what is happening at the border, in what is happening overseas. It is definitely involved in all these wars.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4626,7 +4824,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-907"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4646,7 +4846,9 @@
       "transcript_snippet": "you are probably noticing about now that they are mum on the topic of Charlie Kirk. They want to move on. They want to let it be known that it's just a trans shooter.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4666,7 +4868,9 @@
       "transcript_snippet": "they're acting real weird in the hours after Charlie's assassination, doing way too much.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4686,7 +4890,9 @@
       "transcript_snippet": "They're attacking Tucker Carlson because he's attacking Christian Zionism.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4710,7 +4916,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4729,7 +4937,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4751,7 +4961,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4772,7 +4984,9 @@
       "mentions_person_refs": [
         "N-208",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4792,7 +5006,9 @@
       "transcript_snippet": "So, Jack Hibbs was also a part of like a Turning Point USA Faith events, and I am looking at Turning Point USA Faith sideways.",
       "mentions_person_refs": [
         "N-208"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4815,7 +5031,9 @@
         "N-228",
         "N-208",
         "N-325"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4840,7 +5058,9 @@
         "N-205",
         "N-17",
         "N-208"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4860,7 +5080,9 @@
       "transcript_snippet": "to consider what I am telling you that there has definitely been an infiltration, and Christian Zionists are at the helm of it",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4882,7 +5104,9 @@
       "mentions_person_refs": [
         "N-199",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4903,7 +5127,9 @@
       "mentions_person_refs": [
         "N-199",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

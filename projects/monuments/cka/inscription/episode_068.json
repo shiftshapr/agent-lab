@@ -1559,7 +1559,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1579,7 +1581,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1601,7 +1605,9 @@
         "N-190",
         "N-489",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1621,7 +1627,9 @@
       "investigative_direction": "Locate Rob Skiba's published work (\"Babylon Rising\" et al.) and verify each factual component independently.",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1638,7 +1646,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:51",
-      "investigative_direction": "Locate the UN article by publication/year and verify quoted language."
+      "investigative_direction": "Locate the UN article by publication/year and verify quoted language.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1654,7 +1664,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:55",
-      "investigative_direction": "Locate the specific NBC News article and confirm."
+      "investigative_direction": "Locate the specific NBC News article and confirm.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1670,7 +1682,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:51",
-      "investigative_direction": "Locate the British Museum report and confirm quoted language and date range."
+      "investigative_direction": "Locate the British Museum report and confirm quoted language and date range.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1689,7 +1703,9 @@
       "investigative_direction": "Locate the specific BBC report and confirm date.",
       "mentions_person_refs": [
         "N-536"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1707,7 +1723,9 @@
       "mentions_person_refs": [
         "N-536",
         "N-537"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1724,7 +1742,9 @@
       "investigative_direction": "Reference the UN Security Council record / transcript.",
       "mentions_person_refs": [
         "N-538"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1741,7 +1761,9 @@
       "investigative_direction": "Locate the specific All Access clip for verification of exact wording.",
       "mentions_person_refs": [
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1761,7 +1783,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1784,7 +1808,9 @@
         "N-15",
         "N-489",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1802,7 +1828,9 @@
       "mentions_person_refs": [
         "N-539",
         "N-543"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1819,7 +1847,9 @@
       "investigative_direction": "Locate the tweet and verify exact wording and date.",
       "mentions_person_refs": [
         "N-540"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1836,7 +1866,9 @@
       ],
       "claim_timestamp": "00:03:21",
       "investigative_direction": "Identify the original 2001 broadcast and the FBI statement on the passport.",
-      "transcript_snippet": "the FBI announcing that it has found the passport of one of the hijackers who were on who was on board one of those two planes that hit the Twin Towers on Tuesday morning"
+      "transcript_snippet": "the FBI announcing that it has found the passport of one of the hijackers who were on who was on board one of those two planes that hit the Twin Towers on Tuesday morning",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1853,7 +1885,9 @@
       ],
       "claim_timestamp": "00:04:56",
       "investigative_direction": "Compare scholarly sources on any Gilgamesh and Nimrod identification.",
-      "transcript_snippet": "the epic of Gilgamesh of Aruk understood to be actually the story of Nimrod in the Bible"
+      "transcript_snippet": "the epic of Gilgamesh of Aruk understood to be actually the story of Nimrod in the Bible",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1877,7 +1911,9 @@
       ],
       "mentions_person_refs": [
         "N-536"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1897,7 +1933,9 @@
       "transcript_snippet": "set up our military base, Camp Alpha, right on top of ancient Babylon",
       "supports_claim_refs": [
         "C-6091"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1915,7 +1953,9 @@
       ],
       "claim_timestamp": "00:11:55",
       "investigative_direction": "Locate the original reports by Iraqi locals or archaeologists describing night digging.",
-      "transcript_snippet": "Locals reported that at night Americans were digging and they were extracting in military operations."
+      "transcript_snippet": "Locals reported that at night Americans were digging and they were extracting in military operations.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1930,7 +1970,9 @@
       ],
       "claim_timestamp": "00:13:08",
       "investigative_direction": "Check Masonic sources such as the Old Charges for Nimrod's role.",
-      "transcript_snippet": "In Masonic tradition, Nimrod is considered to be the first grandmaster even before Solomon."
+      "transcript_snippet": "In Masonic tradition, Nimrod is considered to be the first grandmaster even before Solomon.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1947,7 +1989,9 @@
       ],
       "claim_timestamp": "00:14:09",
       "investigative_direction": "Locate the State Department FOIA log entry and the requester.",
-      "transcript_snippet": "there was this still never quite explained FOIA request that went through um to the state department requesting documents pertaining to the resurrection chamber of Gilgamesh"
+      "transcript_snippet": "there was this still never quite explained FOIA request that went through um to the state department requesting documents pertaining to the resurrection chamber of Gilgamesh",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1968,7 +2012,9 @@
       "transcript_snippet": "I said I don't know when turning point just became a literal military operation, but indeed it did.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1989,7 +2035,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2011,7 +2059,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2034,7 +2084,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2056,7 +2108,9 @@
         "N-11",
         "N-489",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2075,7 +2129,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2095,7 +2151,9 @@
         "N-3",
         "N-2",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2116,7 +2174,9 @@
       "transcript_snippet": "December 16th 10 as actually when she hosted her first Zoom call with um as the new CEO and chairman",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2142,7 +2202,9 @@
         "N-190",
         "N-2",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2164,7 +2226,9 @@
         "N-190",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2191,7 +2255,9 @@
         "N-15",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2215,7 +2281,9 @@
         "N-15",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2237,7 +2305,9 @@
         "N-1",
         "N-489",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2262,7 +2332,9 @@
         "N-489",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2282,7 +2354,9 @@
       "transcript_snippet": "I am told that these treatments last between one to two hours.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2303,7 +2377,9 @@
       "transcript_snippet": "Charlie came back from Korea and Tokyo, his trip very late, almost early morning on September 8th, very late on the 7th.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2323,7 +2399,9 @@
       "transcript_snippet": "he's at home when he appears uh in his home studio for the Charlie Kirk show. He does not go to the office on this day",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2344,7 +2422,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2366,7 +2446,9 @@
         "N-7",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2386,7 +2468,9 @@
       "transcript_snippet": "I can't find a single person in this complex that they live that can verify that they saw Erika on this day and they know her.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2407,7 +2491,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2429,7 +2515,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2451,7 +2539,9 @@
         "N-15",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2472,7 +2562,9 @@
       "transcript_snippet": "a couple of days later they send me a cease and desist and they they mention Fort Huachuca.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2493,7 +2585,9 @@
       "transcript_snippet": "I do have the names of two different clinics, by the way, because they were two different clinics, the one on the 10th versus the one on the ETH.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2514,7 +2608,9 @@
       "transcript_snippet": "please email us more tips at candace Owens. com",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2534,7 +2630,9 @@
       "transcript_snippet": "I will be speaking at the Catholics for Catholics conference on March 19th in Washington DC.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2554,7 +2652,9 @@
       "transcript_snippet": "I was supposed to go on that tour in Australia, but I got blocked by the Zionist lobby of Australia.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2573,7 +2673,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2596,7 +2698,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2617,7 +2721,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2637,7 +2743,9 @@
       "transcript_snippet": "other Nazi breakfast foods besides blitzk eggs which may include luft waffles",
       "mentions_person_refs": [
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2659,7 +2767,9 @@
         "N-97",
         "N-497",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2681,7 +2791,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2699,7 +2811,9 @@
       "transcript_snippet": "you can buy an autographed bundle, hard copy, available of Make a Sandwich and Blackout, both hands signed by me",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2717,7 +2831,9 @@
       "transcript_snippet": "We've also merged our subscription tiers into one club canist tier for $1.99 a month or $120 for a year.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2740,7 +2856,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2761,7 +2879,9 @@
       "transcript_snippet": "You might know something. You can message me more tips.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2781,7 +2901,9 @@
       "transcript_snippet": "Ariel writes about the zooms. I don't understand why Erika kept saying we need to stay humble.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2799,7 +2921,9 @@
       "transcript_snippet": "Sigmund Freud outwardly said, \"I have to be Satan. I have to be Lucifer.",
       "mentions_person_refs": [
         "N-50"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2821,7 +2945,9 @@
         "N-199",
         "N-9",
         "N-534"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

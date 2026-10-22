@@ -1410,6 +1410,7 @@ Anchored Artifacts:
 Mentions: N-3, N-529, N-9
 Related Nodes: N-10688
 Tags: relevance:context
+Revises: C-10436, C-5213
 Investigative Direction: Check court filings and published reporting on Epstein's investment in MC2 and on the birthday allegation; the host herself is unsure of details.
 
 ---

@@ -1706,7 +1706,9 @@
       "investigative_direction": "Verify through Texas A&M University Police Department public records or alumni directories.",
       "mentions_person_refs": [
         "N-470"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1725,7 +1727,9 @@
       "investigative_direction": "Verify through official retirement records and state police licensing databases.",
       "mentions_person_refs": [
         "N-470"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1744,7 +1748,9 @@
       "investigative_direction": "Verify through Bosque County Sheriff's Office public records.",
       "mentions_person_refs": [
         "N-470"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1763,7 +1769,9 @@
       "investigative_direction": "Verify through FBI National Academy alumni records.",
       "mentions_person_refs": [
         "N-470"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1782,7 +1790,9 @@
       "investigative_direction": "Verify through military service records.",
       "mentions_person_refs": [
         "N-470"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1801,7 +1811,9 @@
       "investigative_direction": "Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area.",
       "mentions_person_refs": [
         "N-470"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1820,7 +1832,9 @@
       "investigative_direction": "Verify through Army Reserve official records.",
       "mentions_person_refs": [
         "N-470"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1839,7 +1853,9 @@
       "investigative_direction": "Verify through FBIA membership rolls.",
       "mentions_person_refs": [
         "N-470"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1860,7 +1876,9 @@
         "N-270",
         "N-470",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1879,7 +1897,9 @@
       "investigative_direction": "Verify through Allen Independent School District alumni records and the social media poster's identity.",
       "mentions_person_refs": [
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1898,7 +1918,9 @@
       "investigative_direction": "Verify through address records, property records, or voter registration.",
       "mentions_person_refs": [
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1917,7 +1939,9 @@
       "investigative_direction": "Identify the billionaire referenced and verify through security firm records or event vendor lists.",
       "mentions_person_refs": [
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1936,7 +1960,9 @@
       "investigative_direction": "Verify through public records.",
       "mentions_person_refs": [
         "N-471"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1955,7 +1981,9 @@
       "investigative_direction": "Verify through TDPS historical employment records.",
       "mentions_person_refs": [
         "N-471"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1974,7 +2002,9 @@
       "investigative_direction": "Verify through TDPS records.",
       "mentions_person_refs": [
         "N-471"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1993,7 +2023,9 @@
       "investigative_direction": "Verify through Erath County Sheriff's Office records.",
       "mentions_person_refs": [
         "N-471"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2011,7 +2043,9 @@
       "investigative_direction": "Confirm through legal records, TPUSA communications, and Gregorio's public statements.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2027,7 +2061,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:10",
-      "investigative_direction": "Reconcile this letter content with Andrew Kolvet's earlier statement (A-1649.1) and Frank Turek's earlier statement regarding drone footage viewed with Charlie Kirk."
+      "investigative_direction": "Reconcile this letter content with Andrew Kolvet's earlier statement (A-1649.1) and Frank Turek's earlier statement regarding drone footage viewed with Charlie Kirk.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2046,7 +2082,9 @@
       "investigative_direction": "Obtain the original TPUSA email in writing and reconcile with the contradiction presented in C-5312 and C-5307.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2067,7 +2105,9 @@
         "N-1",
         "N-2",
         "N-475"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2086,7 +2126,9 @@
       "investigative_direction": "Identify the specific China-based charity and verify scope and duration of her work.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2109,7 +2151,9 @@
         "N-474",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2126,7 +2170,9 @@
       "investigative_direction": "Verify through Israeli government or embassy announcements and locate the original Fox News article.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2145,7 +2191,9 @@
         "N-1",
         "N-270",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2159,7 +2207,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:15",
-      "investigative_direction": "Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records."
+      "investigative_direction": "Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2176,7 +2226,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2200,7 +2252,9 @@
         "N-1",
         "N-3",
         "N-707"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2223,7 +2277,9 @@
       "transcript_snippet": "which he claims is just one big massive money laundering operation from Israel to buy off cops here in America.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2242,7 +2298,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2264,7 +2322,9 @@
       "transcript_snippet": "It's a single night fundraiser for the American Cancer Society and it's massive to be clear. It's the world's largest single night fundraiser.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2286,7 +2346,9 @@
       "transcript_snippet": "which is the same exact idea but it benefits a different cancer center the Fred and Pamela Buffett cancer center.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2310,7 +2372,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2333,7 +2397,9 @@
       "mentions_person_refs": [
         "N-470",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2356,7 +2422,9 @@
       "mentions_person_refs": [
         "N-470",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2379,7 +2447,9 @@
       "mentions_person_refs": [
         "N-470",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2401,7 +2471,9 @@
       "transcript_snippet": "He was then the captain of police. And some of this is concurrent. So it's interesting for the University Park Police back down in Texas, chief deputy sheriff for Texas law enforcement.",
       "mentions_person_refs": [
         "N-470"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2424,7 +2496,9 @@
       "mentions_person_refs": [
         "N-470",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2444,7 +2518,9 @@
       "transcript_snippet": "We're learning that about Turning Point USA. The bigger the check you cut, uh, the more influence you have on their operations.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2467,7 +2543,9 @@
         "N-456",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2489,7 +2567,9 @@
       "mentions_person_refs": [
         "N-456",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2510,7 +2590,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2531,7 +2613,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2550,7 +2634,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2572,7 +2658,9 @@
       "mentions_person_refs": [
         "N-456",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2596,7 +2684,9 @@
         "N-332",
         "N-270",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2616,7 +2706,9 @@
       "transcript_snippet": "He also is from Dallas, Texas, working for the FBI on the elite hostage and rescue team. He was a supervisor on the Dallas joint terrorism task force",
       "mentions_person_refs": [
         "N-332"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2636,7 +2728,9 @@
       "transcript_snippet": "Greg was at least stationed in Budapest.",
       "mentions_person_refs": [
         "N-332"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2660,7 +2754,9 @@
       "mentions_person_refs": [
         "N-460",
         "N-461"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2686,7 +2782,9 @@
         "N-460",
         "N-461",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2708,7 +2806,9 @@
       "transcript_snippet": "Yeah, this dude has been in private security for at least 20 years. I had no idea he was running it for TPUSA.",
       "mentions_person_refs": [
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2731,7 +2831,9 @@
         "N-270",
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2751,7 +2853,9 @@
       "transcript_snippet": "Brian Harpole, you should know, was also born in Dallas, Texas.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2773,7 +2877,9 @@
       "transcript_snippet": "back in 2018 when he was running for county sheriff in Erath, Texas.",
       "mentions_person_refs": [
         "N-471"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2795,7 +2901,9 @@
       "transcript_snippet": "I was born in Denton, Texas, and grew up a quote unquote military brat, living in numerous states and Europe.",
       "mentions_person_refs": [
         "N-471"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2816,7 +2924,9 @@
       "mentions_person_refs": [
         "N-471",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2838,7 +2948,9 @@
       "transcript_snippet": "This is this corruption goes back to Dallas in the 60s.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2858,7 +2970,9 @@
         "N-217",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2877,7 +2991,9 @@
       "mentions_person_refs": [
         "N-472",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2899,7 +3015,9 @@
       "transcript_snippet": "Instead of answering my questions, it is the precursor to a lawsuit unless I change my statements.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2922,7 +3040,9 @@
       "mentions_person_refs": [
         "N-472",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2948,7 +3068,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2975,7 +3097,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2995,7 +3119,9 @@
       "claim_timestamp": "00:25:20",
       "investigative_direction": "Request the FAA authorization or waiver and flight log for the survey drone.",
       "transcript_snippet": "my drone pilot had already made all the necessary steps with the FAA to make sure that we could do that.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3016,7 +3142,9 @@
       "claim_timestamp": "00:25:30",
       "investigative_direction": "Identify the officer and agency; request body camera footage and incident logs from UVU police.",
       "transcript_snippet": "Immediately we were um law enforcement came up and said,",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3038,7 +3166,9 @@
       "transcript_snippet": "what we ended up having to do was leave campus. We flew the drone.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3061,7 +3191,9 @@
       "transcript_snippet": "It is a wide angle shot of the crowd from second floor.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3085,7 +3217,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3111,7 +3245,9 @@
       ],
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3134,7 +3270,9 @@
       "mentions_person_refs": [
         "N-472",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3157,7 +3295,9 @@
         "N-14",
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3180,7 +3320,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3206,7 +3348,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3229,7 +3373,9 @@
       "transcript_snippet": "and then began to um phase that into working with the Marine Corps um and the Army and then was able to uh work with a orphanage in Romania",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3252,7 +3398,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-475"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3278,7 +3426,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3302,7 +3452,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3325,7 +3477,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3346,7 +3500,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3370,7 +3526,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3391,7 +3549,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3411,7 +3571,9 @@
       "transcript_snippet": "Turning Point USA purged a bunch of their employees that they thought were giving me information and they weren't and so now they're giving me information.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3430,7 +3592,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3456,7 +3620,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3478,7 +3644,9 @@
       "transcript_snippet": "One person said to me that it was an intel base. I couldn't find that myself.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3499,7 +3667,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3524,7 +3694,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3542,7 +3714,9 @@
       "transcript_snippet": "They're controlling both sides and they're Satanists.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3568,7 +3742,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3598,7 +3774,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3620,7 +3798,9 @@
         "N-361",
         "N-330",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3640,7 +3820,9 @@
       "transcript_snippet": "we have all new fresh leaks from Turning Point USA.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

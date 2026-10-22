@@ -886,6 +886,8 @@ Anchored Artifacts: A-2207.1
 Mentions: N-1, N-40
 Related Nodes: N-10690
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-11567
 Investigative Direction: Pull the filed memorandum from the court docket and identify which party filed it and when.
 
 ---
@@ -1161,6 +1163,7 @@ Anchored Artifacts:
 Mentions: N-217, N-186, N-2, N-1
 Related Nodes: N-10193
 Tags: relevance:core
+Revises: C-5717
 Investigative Direction: Ask Elizabeth McCoy or Erika's team who filmed the casket video, and check the metadata of the posted clip.
 
 ---
@@ -1566,6 +1569,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10689, N-10193
 Tags: relevance:core
+Revises: C-1974
 Investigative Direction: Compare the family's stated reasons for the Catholic mass with the parish record.
 
 ---
@@ -1839,6 +1843,8 @@ Anchored Artifacts: A-2882.1
 Mentions: N-3
 Related Nodes: N-10086
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-11581
 Investigative Direction: Pull exhibits 12.1 and 12.4 from the hearing record.
 
 ---

@@ -1739,7 +1739,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1759,7 +1761,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1780,7 +1784,9 @@
         "N-3",
         "N-82",
         "N-377"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1802,7 +1808,9 @@
         "N-266",
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1823,7 +1831,9 @@
         "N-266",
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1842,7 +1852,9 @@
       "investigative_direction": "Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1858,7 +1870,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:28",
-      "investigative_direction": "Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies."
+      "investigative_direction": "Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1878,7 +1892,9 @@
       "mentions_person_refs": [
         "N-272",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1897,7 +1913,9 @@
         "N-22",
         "N-37",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1914,7 +1932,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1934,7 +1954,9 @@
       "transcript_snippet": "our source proved to us that it certainly wasn't established to provide any maintenance to those Egyptian planes and it was more than likely a front for something else.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1954,7 +1976,9 @@
         "N-1",
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1973,7 +1997,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1994,7 +2020,9 @@
         "N-22",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2013,7 +2041,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2031,7 +2061,9 @@
       "transcript_snippet": "now that we've gotten into the story and realize that virtually everybody there that day has these military ties",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2055,7 +2087,9 @@
       "mentions_person_refs": [
         "N-10253",
         "N-10250"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2077,7 +2111,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2096,6 +2132,10 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-3164"
       ]
     },
     {
@@ -2115,7 +2155,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2132,7 +2174,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2152,7 +2196,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2175,7 +2221,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2196,7 +2244,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2213,7 +2263,9 @@
       "mentions_person_refs": [
         "N-283",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2237,7 +2289,9 @@
       ],
       "mentions_person_refs": [
         "N-10253"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2256,7 +2310,9 @@
       "transcript_snippet": "the CEO who knows Emmanuel Macron, we've confirmed that, decides they're going to sign a two-year lease for an airport hanger to do what?",
       "mentions_person_refs": [
         "N-377"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2277,7 +2333,9 @@
       "transcript_snippet": "it's a French multinational company that specializes in the painting of aircrafts, and they plan to open for business in a hanger not far from Wilmington Airport come the new year.",
       "mentions_person_refs": [
         "N-10253"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2298,7 +2356,9 @@
       "mentions_person_refs": [
         "N-708",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2319,7 +2379,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-283"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2339,7 +2401,9 @@
       "transcript_snippet": "on January 31st I release the first episode of Becoming Brigitte.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2360,7 +2424,9 @@
       "mentions_person_refs": [
         "N-283",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2384,7 +2450,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2406,7 +2474,9 @@
         "N-5",
         "N-377",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2425,7 +2495,9 @@
       "mentions_person_refs": [
         "N-16",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2450,7 +2522,9 @@
         "N-5",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2466,7 +2540,9 @@
       "transcript_snippet": "I'll agree to be quiet about this for a while uh because it's not no longer relevant and I don't want like Christian men to be slaughtered um in Ukraine",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2485,7 +2561,9 @@
       "mentions_person_refs": [
         "N-377",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2507,7 +2585,9 @@
         "N-1",
         "N-22",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2528,7 +2608,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2547,6 +2629,10 @@
       "transcript_snippet": "BTT then comes in to from Cairo through Paris and lands in Omaha, Nebraska. And it's the longest stay actually that they have in Wilmington.",
       "mentions_person_refs": [
         "N-10239"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-3268"
       ]
     },
     {
@@ -2562,7 +2648,11 @@
       "tags": [],
       "claim_timestamp": "00:17:47",
       "investigative_direction": "Confirm arrival and departure times at Wilmington for SU-BTT from flight-tracking and airport records.",
-      "transcript_snippet": "They stay in Wilmington for six days. Okay, that happens to be from the 20th to the 26th."
+      "transcript_snippet": "They stay in Wilmington for six days. Okay, that happens to be from the 20th to the 26th.",
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-3269"
+      ]
     },
     {
       "@type": "Claim",
@@ -2583,7 +2673,9 @@
         "N-377",
         "N-82",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2602,7 +2694,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2619,7 +2713,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2639,7 +2735,9 @@
       "transcript_snippet": "The school is telling them this is not a great place for you to host this because we there's no traffic control here.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2663,7 +2761,9 @@
         "N-1",
         "N-37",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2685,6 +2785,10 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-4497"
       ]
     },
     {
@@ -2703,7 +2807,9 @@
       "transcript_snippet": "Charlie speaking on August 23rd. It again goes to through to Wilmington and it stays one night on August 23rd in Wilmington before heading back to Cairo.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2723,6 +2829,10 @@
       "transcript_snippet": "It's Paris Design Week and she's photographed uh with the Minister of Culture.",
       "mentions_person_refs": [
         "N-82"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-3388"
       ]
     },
     {
@@ -2742,7 +2852,9 @@
       "mentions_person_refs": [
         "N-82",
         "N-709"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2764,7 +2876,9 @@
       ],
       "mentions_person_refs": [
         "N-10276"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2782,7 +2896,9 @@
       "transcript_snippet": "I really don't think this was an Egyptianfilled plane.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2798,7 +2914,9 @@
       "transcript_snippet": "Jeffrey Epstein had a Saudi Arabian totally different identification, multiple passports and different names.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2820,7 +2938,9 @@
         "N-82",
         "N-377",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2840,7 +2960,9 @@
       "transcript_snippet": "whether or not it could have been Brigitte Macron that was involved in that Stanford experiment. This prisoner 2093 that was being protected.",
       "mentions_person_refs": [
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2859,7 +2981,9 @@
       "mentions_person_refs": [
         "N-283",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2878,7 +3002,9 @@
       "transcript_snippet": "involving maybe another step of the MK Ultra program being used to foster serial killers and to give serial killers new identities",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2899,7 +3025,9 @@
         "N-82",
         "N-283",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2919,7 +3047,9 @@
       "transcript_snippet": "as the tip proved to us yesterday, that wasn't the case. That was a front because that had not been operative from 2021 all the way forward to to the end of 2024.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2938,7 +3068,9 @@
       "transcript_snippet": "we learned that this is a building where there's cooperation uh between the feds uh homeland security and also contractors",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2956,7 +3088,9 @@
       "transcript_snippet": "the response in France has been to start to harass people who came out and tried to tell the story to effectively ruin their lives to go after their finances to debank them.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2972,7 +3106,9 @@
       "transcript_snippet": "the strange circumstances of some people who have tried to touch this story and we've covered this also in our series that wound up dead.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2991,7 +3127,9 @@
       "mentions_person_refs": [
         "N-42",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3009,7 +3147,9 @@
       "transcript_snippet": "We are receiving a bunch of tips about that company and we are going to chase down those leads",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3028,7 +3168,9 @@
       "transcript_snippet": "could you tell us who landed in Wilmington, Delaware? and we're settled over to 910 King. I think that would be a a good start.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3052,7 +3194,9 @@
         "N-266",
         "N-224",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3071,7 +3215,9 @@
       "transcript_snippet": "security people are getting fired or getting moved around at Turning Point and people's families are getting threatened and so people in the security apparatus are starting to speak",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3094,7 +3240,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3113,7 +3261,9 @@
       "transcript_snippet": "not only did Turning Point not walk the campus when they got there, I'm referring to the security",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3134,7 +3284,9 @@
         "N-270",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3153,7 +3305,9 @@
       "transcript_snippet": "All they cared about for whatever reason was the flag of halls controlled access in the flag of halls.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3172,7 +3326,9 @@
       "transcript_snippet": "there were only two videos of people really that saw the alleged shooter on the roof that sprinted off of Loi.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3193,7 +3349,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3212,7 +3370,9 @@
       "transcript_snippet": "both of those uh students or non- studentents were in the military, right? ROC.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3231,7 +3391,9 @@
       "transcript_snippet": "He was in the flag of Halls or the Hall of Flags, pardon me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3251,7 +3413,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3272,7 +3436,9 @@
       "transcript_snippet": "Washington County responded, saying there were no records responsive to the request, as Robinson did not go to the jail area. Our request for any holding room video was denied.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3294,7 +3460,9 @@
       "mentions_person_refs": [
         "N-272",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3314,7 +3482,9 @@
       "transcript_snippet": "after Charlie Kirk's alleged shooter was taken into custody in Washington County less than two days after the shooting.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3335,7 +3505,9 @@
       "transcript_snippet": "If in fact it has been destroyed and not preserved is very concerning. And if it has, then it's very concerning that they're telling you they don't have it.",
       "mentions_person_refs": [
         "N-10029"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3356,7 +3528,9 @@
       "transcript_snippet": "Washington County shared with me they don't believe the video was shared with anyone involved in the case.",
       "mentions_person_refs": [
         "N-10029"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3377,7 +3551,9 @@
       "transcript_snippet": "would be crucial for the defense work of mitigation.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3396,7 +3572,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3417,7 +3595,9 @@
         "N-40",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3437,7 +3617,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3456,7 +3638,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3472,7 +3656,9 @@
       "transcript_snippet": "Which is why we have been sharing everything as a a a form of insurance.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3492,7 +3678,9 @@
         "N-710",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3511,7 +3699,9 @@
       "mentions_person_refs": [
         "N-710",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3527,7 +3717,9 @@
       "transcript_snippet": "And no, I I've never been recruited by the government.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3547,7 +3739,9 @@
         "N-69",
         "N-329",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3565,7 +3759,9 @@
       "transcript_snippet": "Somebody who recently got shot accidentally by a 306 on a hunting trip sent me a photo to our tips box and it was shocking.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3585,7 +3781,9 @@
       "transcript_snippet": "I think we can confirm that there was no miracle bending bullet from the lossi center. A smaller weapon was used.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3604,7 +3802,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3623,7 +3823,9 @@
       "mentions_person_refs": [
         "N-67",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3641,7 +3843,9 @@
       "transcript_snippet": "if you have any tips, obviously email us more tips at candacewowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -2222,7 +2222,9 @@
         "N-377",
         "N-82",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2241,7 +2243,9 @@
         "N-1",
         "N-3",
         "N-290"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2262,7 +2266,9 @@
       "mentions_person_refs": [
         "N-284",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2279,7 +2285,9 @@
       "investigative_direction": "Obtain original Ministry press release with date and spokesperson; cross-reference with Tyler Robinson's known background; verify the formal French position via Élysée or Ministry press archives.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2299,7 +2307,9 @@
       "investigative_direction": "Confirm Camp Ripley as the relevant installation; identify whether Minot AFB personnel participated in a Camp Ripley exercise in late August 2025 via official press releases.",
       "mentions_person_refs": [
         "N-285"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2318,7 +2328,9 @@
       "tags": [],
       "claim_timestamp": "00:19:45",
       "investigative_direction": "Locate original France 24 article; verify whether the Ministry's denial extends to any Camp Ripley exercise or only to \"Camp Riley\" as named.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2337,7 +2349,9 @@
       "investigative_direction": "Verify Operation Bright Star 2025 dates via US Central Command or Egyptian military press releases; confirm exercise scope and participating units.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2354,7 +2368,9 @@
       "tags": [],
       "claim_timestamp": "00:22:30",
       "investigative_direction": "Locate original article; obtain official command-change notices; identify the six regiments and whether any are the 2nd Foreign Infantry Regiment.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2371,7 +2387,9 @@
       "tags": [],
       "claim_timestamp": "00:25:55",
       "investigative_direction": "Verify via Wilmington city historical archives; corroborate the Thomas Willing grid and 1790s French/Haitian refugee settlement pattern with academic historical sources.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2388,7 +2406,9 @@
       "tags": [],
       "claim_timestamp": "00:24:24",
       "investigative_direction": "Identify the specific federal agencies at 920 North King Street via public lease records; verify the attorneys-of-record for the Macron v. Owens Delaware filing and their physical address.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2407,7 +2427,9 @@
       "tags": [],
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Verify Bank of America's Bracebridge exit via Wilmington business filings or news archives; obtain Miriam Deed comment context (which public meeting or hearing).",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2426,7 +2448,9 @@
       "investigative_direction": "Verify Longwood Foundation founding date and founder via IRS Form 990 filings and du Pont family genealogical records.",
       "mentions_person_refs": [
         "N-288"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2443,7 +2467,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:29:23",
-      "investigative_direction": "Identify the specific Delaware legislation; obtain bill text and legislative history."
+      "investigative_direction": "Identify the specific Delaware legislation; obtain bill text and legislative history.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2462,7 +2488,9 @@
       "investigative_direction": "Verify Incyte CEO succession records via SEC filings; confirm Hoppenot's nationality and dates of service.",
       "mentions_person_refs": [
         "N-286"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2481,7 +2509,9 @@
       "investigative_direction": "Verify Wilmington Trust founding date and founder via corporate filings and historical records; cross-check the 1990 WSFS branch transfer.",
       "mentions_person_refs": [
         "N-289"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2498,7 +2528,9 @@
       "tags": [],
       "claim_timestamp": "00:32:37",
       "investigative_direction": "Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MG+M Delaware Avenue's suite location.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2515,7 +2547,9 @@
       "tags": [],
       "claim_timestamp": "00:38:00",
       "investigative_direction": "Verify the current Ace Partners portfolio and confirm Satys as a portfolio company; cross-reference Israeli corporate registry.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2534,7 +2568,12 @@
       "investigative_direction": "Verify via Paris Design Week official programming and French Ministry of Culture announcements.",
       "mentions_person_refs": [
         "N-82"
-      ]
+      ],
+      "revises_claim_refs": [
+        "C-3195"
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2553,7 +2592,9 @@
       "investigative_direction": "Verify via Élysée Palace official photo archive; cross-check date and location with Ukrainian presidential records.",
       "mentions_person_refs": [
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2574,7 +2615,9 @@
         "N-259",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2595,7 +2638,9 @@
         "N-282",
         "N-72",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2614,7 +2659,9 @@
       "investigative_direction": "Treat as audience-opinion snapshot only; not a factual claim. Useful for tracking audience sentiment, not as evidence of underlying claim.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2637,7 +2684,9 @@
         "N-3",
         "N-82",
         "N-875"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2660,7 +2709,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2682,7 +2733,9 @@
       "transcript_snippet": "I do not know who in the American government can be trusted since this source claims that our leaders are aware",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2705,7 +2758,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-283"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2732,7 +2787,9 @@
         "N-3",
         "N-377",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2755,7 +2812,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2775,7 +2834,9 @@
       "transcript_snippet": "I also said that the money ran through the elite gentlemen's club des Fontes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2795,7 +2856,9 @@
       "transcript_snippet": "the tweet alone had over 100,000 retweets and 45 million impressions on X alone",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2815,7 +2878,9 @@
         "N-3",
         "N-82",
         "N-377"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2838,7 +2903,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-377"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2861,7 +2928,9 @@
       "transcript_snippet": "Press the White House for a response, right? The White House is the ball's very firmly in their court and a week later, this is the official White House response.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2886,7 +2955,9 @@
       "transcript_snippet": "Did I report it to the White House? Of course, I reported it to the White House. Did I report to the FBI? Of course, I reported it to the FBI.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2910,7 +2981,9 @@
       "mentions_person_refs": [
         "N-290",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2934,7 +3007,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2957,7 +3032,9 @@
       "transcript_snippet": "but the FBI left me on red.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2981,7 +3058,9 @@
       "transcript_snippet": "No phone calls even from Utah's FBI branch have come in to me either.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3006,7 +3085,9 @@
       "transcript_snippet": "It was a joint exercise with civilians, which included um uh military men from the Minot Air Force Base.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3026,7 +3107,9 @@
         "N-3",
         "N-82",
         "N-875"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3048,7 +3131,9 @@
       "transcript_snippet": "the UVU students who attended said that they felt like they didn't recognize anybody that was there.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3069,7 +3154,9 @@
       "transcript_snippet": "It looks like they're almost trying not to interview any UVU students, right?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3095,7 +3182,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3118,7 +3207,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3142,7 +3233,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3167,7 +3260,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3193,7 +3288,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3218,7 +3315,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3242,7 +3341,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3266,7 +3367,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3285,7 +3388,9 @@
       ],
       "claim_timestamp": "00:28:40",
       "investigative_direction": "Check New Castle County property records and Wilmington commercial real estate coverage for the complex's size, builder and ownership history.",
-      "transcript_snippet": "It spans over 1 million square feet."
+      "transcript_snippet": "It spans over 1 million square feet.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3304,7 +3409,9 @@
       ],
       "claim_timestamp": "00:29:40",
       "investigative_direction": "Check DuPont corporate history for Kevlar's development; the military-tie assertion is general and would need specific contracts.",
-      "transcript_snippet": "they are the original manufacturers of Kevlar"
+      "transcript_snippet": "they are the original manufacturers of Kevlar",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3326,7 +3433,9 @@
       "transcript_snippet": "And that is also somehow owned by France.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3351,7 +3460,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3371,7 +3482,9 @@
       ],
       "claim_timestamp": "00:33:00",
       "investigative_direction": "Check Delaware permits and Incyte filings for ownership of the 1100 North King Street site.",
-      "transcript_snippet": "apparently a global biopharmaceutical company called Incyte owns it, okay?"
+      "transcript_snippet": "apparently a global biopharmaceutical company called Incyte owns it, okay?",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3394,7 +3507,9 @@
       "transcript_snippet": "On May 2024, they say that construction is expected to take about a year.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3421,7 +3536,9 @@
         "N-286",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3440,7 +3557,9 @@
       ],
       "claim_timestamp": "00:34:30",
       "investigative_direction": "Check federal procurement records (USAspending, VA contracts) for Incyte.",
-      "transcript_snippet": "is also plugged directly into the federal medical supply chains, which include our VA systems"
+      "transcript_snippet": "is also plugged directly into the federal medical supply chains, which include our VA systems",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3465,7 +3584,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3486,7 +3607,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3511,7 +3634,9 @@
         "N-3",
         "N-82",
         "N-875"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3531,7 +3656,9 @@
         "N-3",
         "N-82",
         "N-875"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3556,7 +3683,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3579,7 +3708,9 @@
       "transcript_snippet": "They are the second largest shareholder to Satys.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3604,7 +3735,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3627,7 +3760,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3649,7 +3784,9 @@
       "transcript_snippet": "Our first ever trans congressman, you guys, guess where? Wilmington, Delaware.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3672,7 +3809,9 @@
       "transcript_snippet": "which would explain why they never commented on the absurdity of a foreign nation coming after our speech",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3694,7 +3833,9 @@
         "N-3",
         "N-259",
         "N-282"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3716,7 +3857,9 @@
       "transcript_snippet": "I am still friends with every single one of my colleagues that I was friends when I went in there.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3743,7 +3886,9 @@
         "N-72",
         "N-282",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3762,7 +3907,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3789,7 +3936,9 @@
         "N-3",
         "N-14",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3813,7 +3962,9 @@
         "N-3",
         "N-40",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3831,7 +3982,9 @@
       "transcript_snippet": "I do believe that we are a run by the military",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3854,7 +4007,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3875,7 +4030,9 @@
       "transcript_snippet": "the fact that they didn't recognize anybody indicates that we might be looking at military regiments that were there.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3897,7 +4054,9 @@
       "transcript_snippet": "I think there were some national guard national guard regiments that were there, some French Foreign Legionnaires that were there and yes, some Israelis that were there",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3916,7 +4075,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-875"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3936,7 +4097,9 @@
         "N-3",
         "N-875",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

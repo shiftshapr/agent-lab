@@ -5392,6 +5392,18 @@
      "v": "relevance:core"
     },
     {
+     "k": "Qualifies",
+     "v": "C-5411"
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-7453"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Reconcile Erika Kirk's September 10 movements with flight arrival times at Provo."
     },
@@ -5947,6 +5959,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11534"
     },
     {
      "k": "Investigative Direction",

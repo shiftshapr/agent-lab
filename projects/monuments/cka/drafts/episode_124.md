@@ -1182,6 +1182,8 @@ Mentions: N-40
 
 Related Nodes: N-10645
 
+Verification: revised-by-host
+Verification Evidence: C-13461
 Investigative Direction: Obtain vehicle registration and VIN data for Tyler Robinson's Challenger to verify exhaust configuration.
 
 ---
@@ -1976,6 +1978,8 @@ Anchored Artifacts: A-2125.1
 Mentions: N-3, N-774, N-1
 Related Nodes: N-11053, N-10896, N-10646
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-11652
 Investigative Direction: Obtain the medical examiner's evidence log and the ATF receipt for fragments to reconcile seven recovered with four received.
 
 ---

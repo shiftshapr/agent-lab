@@ -1,0 +1,455 @@
+[
+ {
+  "later": "C-7574",
+  "earlier": "C-3381",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7580",
+  "earlier": "C-5818",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7585",
+  "earlier": "C-2933",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7605",
+  "earlier": "C-78",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7606",
+  "earlier": "C-2063",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7609",
+  "earlier": "C-7451",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7628",
+  "earlier": "C-999",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7635",
+  "earlier": "C-1958",
+  "relation": "qualifies",
+  "delta": "Earlier: Robinson didn't fire the shot (evidence overwhelming). Later: 99.9% certain he did not shoot from a rooftop by himself; she visibly steps back from 'did not shoot'.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7650",
+  "earlier": "C-7409",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7651",
+  "earlier": "C-7409",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7651",
+  "earlier": "C-7185",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7652",
+  "earlier": "C-1479",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7660",
+  "earlier": "C-1060",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7674",
+  "earlier": "C-7403",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7675",
+  "earlier": "C-2700",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7700",
+  "earlier": "C-6435",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7701",
+  "earlier": "C-4492",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7701",
+  "earlier": "C-5419",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7714",
+  "earlier": "C-755",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7716",
+  "earlier": "C-752",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7746",
+  "earlier": "C-7614",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7746",
+  "earlier": "C-7608",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7761",
+  "earlier": "C-3455",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7761",
+  "earlier": "C-4813",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7762",
+  "earlier": "C-892",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7771",
+  "earlier": "C-6747",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7777",
+  "earlier": "C-4157",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7806",
+  "earlier": "C-1122",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7819",
+  "earlier": "C-661",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-7821",
+  "earlier": "C-1085",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7821",
+  "earlier": "C-1280",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7831",
+  "earlier": "C-7736",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7831",
+  "earlier": "C-7725",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7869",
+  "earlier": "C-7545",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7869",
+  "earlier": "C-4413",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7875",
+  "earlier": "C-6189",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7875",
+  "earlier": "C-5452",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7878",
+  "earlier": "C-5396",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-7882",
+  "earlier": "C-5404",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7904",
+  "earlier": "C-7533",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7942",
+  "earlier": "C-4105",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-7942",
+  "earlier": "C-6196",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7947",
+  "earlier": "C-3638",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7947",
+  "earlier": "C-4061",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7983",
+  "earlier": "C-6765",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7992",
+  "earlier": "C-6011",
+  "relation": "revises",
+  "delta": "Earlier: Miriam Adelson is giving Trump $200 million. Later: Adelson gave Trump $100 million (announced ~July 2024).",
+  "confidence": "low"
+ },
+ {
+  "later": "C-7992",
+  "earlier": "C-1941",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8002",
+  "earlier": "C-2391",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8002",
+  "earlier": "C-3570",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8020",
+  "earlier": "C-4430",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8056",
+  "earlier": "C-342",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8056",
+  "earlier": "C-308",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8068",
+  "earlier": "C-7659",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8068",
+  "earlier": "C-7618",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8103",
+  "earlier": "C-4863",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8103",
+  "earlier": "C-6223",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8195",
+  "earlier": "C-4751",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8195",
+  "earlier": "C-5171",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8239",
+  "earlier": "C-8099",
+  "relation": "contradicts",
+  "delta": "Earlier: Trump said he thought the image showed himself as a Red Cross doctor. Later: Trump said he thought Jesus was a Red Cross doctor.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-8241",
+  "earlier": "C-7110",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8242",
+  "earlier": "C-7543",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8269",
+  "earlier": "C-4746",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8270",
+  "earlier": "C-8195",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8270",
+  "earlier": "C-7215",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8271",
+  "earlier": "C-4757",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8271",
+  "earlier": "C-1110",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8272",
+  "earlier": "C-4760",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8274",
+  "earlier": "C-4601",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8275",
+  "earlier": "C-5315",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8276",
+  "earlier": "C-5176",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8276",
+  "earlier": "C-5898",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-8306",
+  "earlier": "C-7482",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8306",
+  "earlier": "C-7481",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8344",
+  "earlier": "C-7403",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8350",
+  "earlier": "C-4292",
+  "relation": "supports",
+  "confidence": "high"
+ }
+]

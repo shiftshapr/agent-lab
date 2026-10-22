@@ -1798,7 +1798,9 @@
       "investigative_direction": "Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1817,7 +1819,9 @@
       "investigative_direction": "Obtain FBI/ATF lab correspondence and UVU communications log for the testing discontinuation instruction.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1834,7 +1838,9 @@
       "tags": [],
       "claim_timestamp": "00:17:10",
       "investigative_direction": "Compare witness description to rooftop video exhibits and to expert definitions of Individual Movement Technique (IMT).",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1851,7 +1857,9 @@
       "tags": [],
       "claim_timestamp": "00:18:26",
       "investigative_direction": "Cross-reference with police scanner descriptions and the 911 call (A-2141.1); obtain witness's filed written report.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1866,7 +1874,9 @@
       "tags": [],
       "claim_timestamp": "00:19:53",
       "investigative_direction": "Cross-reference with recovered weapon evidence and any unfired .223 round testimony referenced at 26:40.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1883,7 +1893,9 @@
       "tags": [],
       "claim_timestamp": "00:22:01",
       "investigative_direction": "Obtain full 911 transcript and dispatch records for the library area to verify caller statement and subsequent library lockdown.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1898,7 +1910,9 @@
       "tags": [],
       "claim_timestamp": "00:19:08",
       "investigative_direction": "Obtain police scanner audio archive and CAD logs from Sept 10 to verify initial dispatch descriptions.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1915,7 +1929,9 @@
       "tags": [],
       "claim_timestamp": "00:14:25",
       "investigative_direction": "Obtain prosecution witness list for Tyler Robinson trial; confirm whether witness was subpoenaed or deposed.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1934,7 +1950,9 @@
       "investigative_direction": "Verify Bank of America consultancy records and corroborate the 2011 firing and stated reason.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1955,7 +1973,9 @@
         "N-1",
         "N-46",
         "N-504"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1976,7 +1996,9 @@
       "mentions_person_refs": [
         "N-817",
         "N-104"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1995,7 +2017,9 @@
       "investigative_direction": "Obtain NewsNation transcript and verify Secret Service contact timeline with the Comperatore family.",
       "mentions_person_refs": [
         "N-817"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2014,7 +2038,9 @@
       "investigative_direction": "Obtain Time article in full; verify spend figures and named individuals (e.g., Eyal Yakoby).",
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2033,7 +2059,9 @@
       "investigative_direction": "Verify the $1.5M/day figure against the Time article text and any underlying contracts/filings cited.",
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2052,7 +2080,9 @@
       "investigative_direction": "Identify the vendor/contractor who produced the custom Carhartt shirt and the authorization chain for the custom order.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2076,7 +2106,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2097,7 +2129,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2118,7 +2152,9 @@
       "transcript_snippet": "I did happen to ask some Turning Point employees, former and current, if Cart Heart was one of their vendors and I was told no",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2142,7 +2178,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2163,7 +2201,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2185,7 +2225,9 @@
       "transcript_snippet": "just months after being fired from Cisco Systems in California over an anti-gay marriage book, Christian consultant Dr. Frank Turek was also given the boot from Bank of America.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2207,7 +2249,9 @@
       "transcript_snippet": "Other clients have included Coca-Cola, Home Depot, among others. The US Navy veteran was hired in May to present at a meeting of Bank of America's global business management analysis team, which is within the global wealth and investment management.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2230,7 +2274,9 @@
       "transcript_snippet": "Does that ring a bell? >> I don't remember. >> Uh those whatever was seized was sent to the FBI lab for processing. >> Yes.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2252,7 +2298,9 @@
       "transcript_snippet": "Was a decision at some time made and and you were requesting that both DNA and other type of analysis get done? >> Yes.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2278,7 +2326,9 @@
       ],
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2300,7 +2350,9 @@
       "transcript_snippet": "Just so you guys know, the library is not near Loews Center.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2324,7 +2376,9 @@
       "transcript_snippet": "Back in the early investigation, my early investigation, someone had told me specifically that they were there um by the bus stop, and they actually ended up making a report about having seen the alleged youth shooter, someone on the roof",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2346,7 +2400,9 @@
       "transcript_snippet": "I think it was literally like 85° in Utah.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2369,7 +2425,9 @@
       "transcript_snippet": "This individual told me that he spoke to students at the bus stop in front of a library and he also described the gun and he was able to do that because he happened to also be the only person who captured the gunman on Losee Center in a video as he began lying prone for the shot.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2391,7 +2449,9 @@
       "transcript_snippet": "I'm talking about the wide the most widely spread video of the shooter allegedly on the rooftop. This is He's the first one to have circulated that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2416,7 +2476,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2439,7 +2501,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2464,7 +2528,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2483,7 +2549,9 @@
       ],
       "claim_timestamp": "00:16:09",
       "investigative_direction": "Compare the clip's end time with the audio of the shot in other recordings to check the 5-second gap.",
-      "transcript_snippet": "about 5 seconds after I stopped recording is when that person fired."
+      "transcript_snippet": "about 5 seconds after I stopped recording is when that person fired.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2505,7 +2573,9 @@
       "transcript_snippet": "I saw heard everything but a muzzle flash. So, I didn't see a flash come from the edge of his gun, as you can [clears throat] see in the video. I couldn't see the gun at the time.",
       "supports_claim_refs": [
         "C-3714"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2524,7 +2594,9 @@
       ],
       "claim_timestamp": "00:16:09",
       "investigative_direction": "Obtain acoustic analysis of audio from several recordings of the shot and the ballistics report for the recovered rifle.",
-      "transcript_snippet": "it sounded more like a AR than a large bore hunting rifle."
+      "transcript_snippet": "it sounded more like a AR than a large bore hunting rifle.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2543,7 +2615,9 @@
       ],
       "claim_timestamp": "00:16:53",
       "investigative_direction": "Compare the video metadata of the witness's clip with the official 12:15 roof-access time in the charging documents.",
-      "transcript_snippet": "it was definitely not 12:15. It was It was uh 12:20 if anything. He was He was in our line of view for about 30 seconds total."
+      "transcript_snippet": "it was definitely not 12:15. It was It was uh 12:20 if anything. He was He was in our line of view for about 30 seconds total.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2562,7 +2636,9 @@
       ],
       "claim_timestamp": "00:17:47",
       "investigative_direction": "Match the witness's account of a 10-second approach with the roof video and any other camera angles.",
-      "transcript_snippet": "which is why I started recording because it was I assumed he was a security guard for the event."
+      "transcript_snippet": "which is why I started recording because it was I assumed he was a security guard for the event.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2581,7 +2657,9 @@
       ],
       "claim_timestamp": "00:18:26",
       "investigative_direction": "Compare against the court-shown rooftop video and the dispatch time of the first shots-fired call.",
-      "transcript_snippet": "And then firing, he was maybe on the ground for 5 more seconds before he stood up and absolutely sprinted off the roof."
+      "transcript_snippet": "And then firing, he was maybe on the ground for 5 more seconds before he stood up and absolutely sprinted off the roof.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2600,7 +2678,9 @@
       ],
       "claim_timestamp": "00:18:26",
       "investigative_direction": "Measure the distance from the witness's vantage location to the Losee Center roof edge using mapping and survey data.",
-      "transcript_snippet": "At the range we were at, we were about 175 yd from him."
+      "transcript_snippet": "At the range we were at, we were about 175 yd from him.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2622,7 +2702,9 @@
       "transcript_snippet": "I went back inside the perimeter and I ran to the command center and I showed them my video. I said, \"You guys have the wrong guy.",
       "mentions_person_refs": [
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2641,7 +2723,9 @@
       ],
       "claim_timestamp": "00:19:53",
       "investigative_direction": "Enhance the roof clip at the head region and compare with equipment recovered or listed in the evidence inventory.",
-      "transcript_snippet": "I thought he was wearing a black tactical helmet as well because [clears throat] he looked like he had a slightly larger head than than normal at that range."
+      "transcript_snippet": "I thought he was wearing a black tactical helmet as well because [clears throat] he looked like he had a slightly larger head than than normal at that range.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2662,7 +2746,9 @@
       "transcript_snippet": "Which by the way, they did gut if I'm correct, a minute out of the video that they showed in court.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2684,7 +2770,9 @@
       "transcript_snippet": "in terms of that route, going the Losee Center over to the library, which she makes very clear that's the route that the uh the shooter took.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2704,7 +2792,9 @@
       ],
       "claim_timestamp": "00:22:01",
       "investigative_direction": "Request UVU and Utah County 911 and CAD records for the library area on September 10 and the library lockdown order.",
-      "transcript_snippet": "there was a string of 911 calls about the library in particular, which is again, not close to the Losee Center. The library was actually subsequently placed onto a lockdown."
+      "transcript_snippet": "there was a string of 911 calls about the library in particular, which is again, not close to the Losee Center. The library was actually subsequently placed onto a lockdown.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2723,7 +2813,9 @@
       ],
       "claim_timestamp": "00:22:52",
       "investigative_direction": "Obtain the full 911 and dispatch recordings with timestamps to place these reports relative to the 12:23 shot.",
-      "transcript_snippet": "Gunshots heard near the library at UVU. They're trying to lock the library down now. So, gather >> She's saying they just got another report of shots fired at the UVU library."
+      "transcript_snippet": "Gunshots heard near the library at UVU. They're trying to lock the library down now. So, gather >> She's saying they just got another report of shots fired at the UVU library.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2744,7 +2836,9 @@
       "transcript_snippet": "there was also testimony about an a.223 round, unfired round, that was discovered on top of the science building.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2764,7 +2858,9 @@
       "transcript_snippet": "And when they were questioned about why they didn't really do anything about that they were they gave a ridiculous answer and that is correct. I should have pulled that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2786,7 +2882,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-105"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2911,9 @@
       "mentions_person_refs": [
         "N-817",
         "N-105"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2835,7 +2935,9 @@
         "N-3",
         "N-2",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2862,7 +2964,9 @@
       "mentions_person_refs": [
         "N-817",
         "N-104"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2884,7 +2988,9 @@
       "transcript_snippet": "And this was a political >> Oh, yeah. >> political >> Absolutely. Yep. >> Have you seen evidence to that?",
       "mentions_person_refs": [
         "N-817"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2907,7 +3013,9 @@
       "transcript_snippet": "Oh, I've been told things, but I've had something that happened with me that just afterwards and you're starting to put the pieces together, it just made total sense.",
       "mentions_person_refs": [
         "N-817"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2930,7 +3038,9 @@
       "mentions_person_refs": [
         "N-817",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2952,7 +3062,9 @@
         "N-3",
         "N-522",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2974,7 +3086,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3000,7 +3114,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3026,7 +3142,9 @@
       ],
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3050,7 +3168,9 @@
       "mentions_person_refs": [
         "N-818",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3072,7 +3192,9 @@
       "transcript_snippet": "And they he kind of he had to own that. These Yeah, they're being paid. We know who they are.",
       "mentions_person_refs": [
         "N-818"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3095,7 +3217,9 @@
       "transcript_snippet": "This is an article that is well worth read, talking about how the trends are obvious, because they're all using the same word at the exact same time, within seconds of each other.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3118,7 +3242,9 @@
       "transcript_snippet": "Brad Parscale was the owner or a part owner of the company Influencable.",
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3141,7 +3267,9 @@
       "transcript_snippet": "And that's when they essentially text everyone, they offer them money, and they say, \"Go out and say this and we'll pay you depending on how many people you get to retweet you, how big your your post is.",
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3163,7 +3291,9 @@
       "transcript_snippet": "under the agreement Parscale was meant to produce 100 original pieces of content each month and 80% of it was initially supposed to be aimed at Gen Z across TikTok, Instagram, YouTube",
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3189,7 +3319,9 @@
       ],
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3209,7 +3341,9 @@
       "transcript_snippet": "we're kind of looking for what I think could also be decoy Dodge Challengers uh to see if you guys rented that car out on the 9th, on the 10th",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3232,7 +3366,9 @@
       "transcript_snippet": "I would say that's another decoy person who was told to get onto the rooftop, timed it no perfectly coordinated.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3257,7 +3393,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3282,7 +3420,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3310,7 +3450,9 @@
         "N-3",
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3332,7 +3474,9 @@
         "N-3",
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3353,7 +3497,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3374,7 +3520,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3399,7 +3547,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3425,7 +3575,9 @@
         "N-3",
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3449,7 +3601,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3471,7 +3625,9 @@
       "transcript_snippet": "Where were you the morning of September 10th, Blake Neff? Why would I even remember such a thing?",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3490,7 +3646,9 @@
       ],
       "claim_timestamp": "00:47:13",
       "investigative_direction": "Check Carhartt's catalogue and customization services for a matching item.",
-      "transcript_snippet": "Carhartt is a Michigan company. I have plenty of their shirts and was at the Carhartt store in Detroit in around Christmas. I did not see the freedom shirt. Safe to say it was custom."
+      "transcript_snippet": "Carhartt is a Michigan company. I have plenty of their shirts and was at the Carhartt store in Detroit in around Christmas. I did not see the freedom shirt. Safe to say it was custom.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3509,7 +3667,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3528,7 +3688,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-452"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3550,7 +3712,9 @@
       "transcript_snippet": "in Tyler's text messages, he says that they interrogated someone in similar clothing after arresting some crazy old dude. But a description was not released until the following day and included a vest and a mask.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3573,7 +3737,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3593,7 +3759,9 @@
       "transcript_snippet": "It's going to be that Panguitch Steakhouse thing that's going to throw things for a loop, and there are receipts.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3614,7 +3782,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3637,7 +3807,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3660,7 +3832,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3683,7 +3857,9 @@
       "transcript_snippet": "Former US Army here. The person you spoke to is describing what is called individual movement technique, IMT.",
       "supports_claim_refs": [
         "C-10800"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3705,7 +3881,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3730,7 +3908,9 @@
         "N-3",
         "N-430",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

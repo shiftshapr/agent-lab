@@ -1369,7 +1369,9 @@
       "investigative_direction": "Obtain forensic analysis of vehicle interior; compare particle composition to known Charlie Kirk lapel microphone glass; subpoena vehicle evidence logs.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1385,7 +1387,9 @@
       "tags": [],
       "claim_timestamp": "00:06:11",
       "investigative_direction": "Obtain original high-resolution image; have forensic analyst examine blood pattern and origin.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1404,7 +1408,9 @@
       "investigative_direction": "Identify hanger; trace jacket chain of custody (see N-10642).",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1422,7 +1428,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1438,7 +1446,9 @@
       "tags": [],
       "claim_timestamp": "00:11:04",
       "investigative_direction": "Obtain higher-resolution images; consult medical/forensic experts on whether material is cardboard, gauze packaging, or other.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1454,7 +1464,9 @@
       "tags": [],
       "claim_timestamp": "00:16:00",
       "investigative_direction": "Obtain higher-resolution images; compare to medical emergency blanket specifications.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1472,7 +1484,9 @@
       "investigative_direction": "Cross-reference SantaMedical.com catalog with described medical equipment; verify against Harpole's interview statements.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1489,7 +1503,9 @@
       "investigative_direction": "Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as \"amazing\" and \"snapping into action.\"",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1507,7 +1523,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1523,7 +1541,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1541,7 +1561,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1561,7 +1583,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1579,7 +1603,9 @@
       "investigative_direction": "Monitor TPUSA official communications; if no response materializes, the absence itself becomes a documented investigative target.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1592,7 +1618,9 @@
       "tags": [],
       "claim_timestamp": "00:28:40",
       "investigative_direction": "Track for future episode disclosures; verify provenance of any additional photos when released.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1611,7 +1639,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1632,7 +1662,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1655,7 +1687,9 @@
         "N-266",
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1676,7 +1710,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1699,7 +1735,9 @@
         "N-40",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1720,7 +1758,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1743,7 +1783,9 @@
       "mentions_person_refs": [
         "N-681",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1764,7 +1806,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1788,7 +1832,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1811,7 +1857,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1834,7 +1882,9 @@
       ],
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1854,7 +1904,9 @@
       "transcript_snippet": "he went to Salt Lake City and he give gave an interview to restauranttology I think was the name of the company uh before he drove to Provo for this event.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1874,7 +1926,9 @@
       "transcript_snippet": "Obviously, he was in a t-shirt that stayed in the car.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1896,7 +1950,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1918,7 +1974,9 @@
       "transcript_snippet": "there is tempered shattered glass with white bits all over the center of this car and into the back seat",
       "supports_claim_refs": [
         "C-10534"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1942,7 +2000,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1962,7 +2022,9 @@
       ],
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Obtain higher-resolution images and a forensic read of the bags and the separate piece.",
-      "transcript_snippet": "the two bags, the Uber bags are are together um and on the other side and not that drenched."
+      "transcript_snippet": "the two bags, the Uber bags are are together um and on the other side and not that drenched.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1981,7 +2043,9 @@
       ],
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Enhance the image and compare against known items, including the missing shirt.",
-      "transcript_snippet": "somebody literally just said that to us in our marketing department. Said that looks like a shirt."
+      "transcript_snippet": "somebody literally just said that to us in our marketing department. Said that looks like a shirt.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2001,7 +2065,9 @@
       "transcript_snippet": "I did remember that Rick Cutler had something on his back when he was running in there",
       "mentions_person_refs": [
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2018,7 +2084,9 @@
       ],
       "claim_timestamp": "00:14:08",
       "investigative_direction": "Identify the item's brand and dimensions from higher-resolution images.",
-      "transcript_snippet": "Skylar is saying is that it could be a a pulse for what' you say for O2."
+      "transcript_snippet": "Skylar is saying is that it could be a a pulse for what' you say for O2.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2042,7 +2110,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2064,7 +2134,9 @@
       "transcript_snippet": "I'm assuming you're referring to that little cardboard piece that it could be a part of the shape charge but as you guys know I don't know anything about that stuff",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2088,7 +2160,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2108,7 +2182,9 @@
       "transcript_snippet": "I do not believe for a single second that that scene took place at the hospital",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2127,7 +2203,9 @@
       ],
       "claim_timestamp": "00:18:16",
       "investigative_direction": "Have a forensic lab compare the fragments with the vehicle's glazing and with a Rode-type microphone.",
-      "transcript_snippet": "It's definitely definitively not the car glass."
+      "transcript_snippet": "It's definitely definitively not the car glass.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2146,7 +2224,9 @@
       ],
       "claim_timestamp": "00:19:26",
       "investigative_direction": "Ask a materials expert whether a rode-type microphone's glass could carry adhesive and cling to clothing.",
-      "transcript_snippet": "I had no idea that this is sticky glass that there's an adhesive that is attached to it."
+      "transcript_snippet": "I had no idea that this is sticky glass that there's an adhesive that is attached to it.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2169,7 +2249,9 @@
       "mentions_person_refs": [
         "N-681",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2193,7 +2275,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2215,7 +2299,9 @@
       "transcript_snippet": "His neck was literally flopping. Okay, we have those images.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2237,7 +2323,9 @@
       "transcript_snippet": "they're concerned with his shirt almost like his shirt is actually almost it's coming up. You can see his torso.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2260,7 +2348,9 @@
       "transcript_snippet": "you would bunch up that shirt like it was a purse to make sure it wasn't seen by the public",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2280,7 +2370,9 @@
       "transcript_snippet": "because I've run this with Baron. I've run it with Tim.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2301,7 +2393,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2324,7 +2418,9 @@
       ],
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2345,7 +2441,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2367,7 +2465,9 @@
       "transcript_snippet": "I received an email last that you guys knew I was going to be a problem from the beginning.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2386,7 +2486,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2403,7 +2505,9 @@
       ],
       "claim_timestamp": "00:39:01",
       "investigative_direction": "Examine succession documents and corporate records showing who gained control and when.",
-      "transcript_snippet": "They had to they wanted to take over Turning Point USA. That's what I think anyway."
+      "transcript_snippet": "They had to they wanted to take over Turning Point USA. That's what I think anyway.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2424,7 +2528,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-606"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2445,7 +2551,9 @@
       "transcript_snippet": "Did you guys know that the butler shoot happened on a Saturday? On Saturdays, Charlie turned his phone off",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2468,7 +2576,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2490,7 +2600,9 @@
       "transcript_snippet": "we went down to our like our our complex has this big gym and I had my daughter in my arms and I just like turned to the television.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2508,7 +2620,9 @@
       "transcript_snippet": "Do I know more stuff? Yes, of course I do.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2527,7 +2641,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2546,7 +2662,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2568,7 +2686,9 @@
       "transcript_snippet": "how I was stunned by how quickly they moved toward acceptance",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2587,7 +2707,9 @@
       ],
       "claim_timestamp": "00:47:26",
       "investigative_direction": "Seek documented cases and official inquiries, which the commenter does not cite.",
-      "transcript_snippet": "The baby was then taken away for quote unquote testing by the doctors only to tell the mother a few hours later that her baby did not make it."
+      "transcript_snippet": "The baby was then taken away for quote unquote testing by the doctors only to tell the mother a few hours later that her baby did not make it.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2606,7 +2728,9 @@
       ],
       "claim_timestamp": "00:49:41",
       "investigative_direction": "Review all ground-level angles behind the table at the time of the shot.",
-      "transcript_snippet": "I am now revisiting that footage and we are going to spend time looking at that as well as we develop the witness tree"
+      "transcript_snippet": "I am now revisiting that footage and we are going to spend time looking at that as well as we develop the witness tree",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2627,7 +2751,9 @@
       "transcript_snippet": "I think Jon Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.",
       "mentions_person_refs": [
         "N-681"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2650,7 +2776,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2670,7 +2798,9 @@
       "transcript_snippet": "I heard the grape vine they did not even take the highway which was right there and they instead went on back roads",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2693,7 +2823,9 @@
       "transcript_snippet": "100% Israel incentivized a select few to take over TPUSA uh to kill Charlie and to get him out of the way. It's a sense that we all have.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2716,7 +2848,9 @@
         "N-3",
         "N-9",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2737,7 +2871,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2755,7 +2891,9 @@
       "transcript_snippet": "I get someone who was born into I he has an arranged marriage.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2773,7 +2911,9 @@
       "transcript_snippet": "It's actually July 13th. So, we will be off air until July 13th",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2792,7 +2932,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2812,7 +2954,9 @@
       "transcript_snippet": "I don't know what's going on with these data centers I don't know what's going on with Utah I don't know why they're so tied to Romania",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2834,7 +2978,9 @@
       "transcript_snippet": "If you guys want to compete uh continue to support us, send us emails tips@cennison. com. More tips at canennison. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2855,7 +3001,9 @@
       "transcript_snippet": "I protect people obviously don't want any person to lose their jobs. I have not had that situation happen.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

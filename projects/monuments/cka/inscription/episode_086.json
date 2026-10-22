@@ -1406,7 +1406,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:54",
-      "investigative_direction": "Obtain certified copy of the filed motion and confirm filing date and assigned judge."
+      "investigative_direction": "Obtain certified copy of the filed motion and confirm filing date and assigned judge.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1425,7 +1427,9 @@
       "investigative_direction": "Obtain full ATF case file and protocols referenced as outstanding in the filing; verify whether the conclusion is \"inconclusive\" or a definitive non-match.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1441,7 +1445,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:49",
-      "investigative_direction": "Obtain status filing or prosecutorial disclosure regarding timeline of FBI secondary analyses."
+      "investigative_direction": "Obtain status filing or prosecutorial disclosure regarding timeline of FBI secondary analyses.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1457,7 +1463,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:49",
-      "investigative_direction": "Cross-reference the FBI's 2005 NAS report and PCast/NIST forensic science reviews; confirm current formal FBI policy position on CBLA use."
+      "investigative_direction": "Cross-reference the FBI's 2005 NAS report and PCast/NIST forensic science reviews; confirm current formal FBI policy position on CBLA use.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1473,7 +1481,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:26",
-      "investigative_direction": "Obtain defense correspondence log and prosecution's transmission records to verify dates."
+      "investigative_direction": "Obtain defense correspondence log and prosecution's transmission records to verify dates.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1489,7 +1499,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:31:09",
-      "investigative_direction": "Obtain defense correspondence log and prosecution's transmission records to verify dates."
+      "investigative_direction": "Obtain defense correspondence log and prosecution's transmission records to verify dates.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1505,7 +1517,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:23:58",
-      "investigative_direction": "Cross-reference the filing's exhibit list and any hard-drive transmission log."
+      "investigative_direction": "Cross-reference the filing's exhibit list and any hard-drive transmission log.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1521,7 +1535,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:23:17",
-      "investigative_direction": "Cross-reference with case docket and prosecution's discovery log."
+      "investigative_direction": "Cross-reference with case docket and prosecution's discovery log.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1538,7 +1554,9 @@
       "investigative_direction": "Verify witness list filing and prosecution's stated intention to proceed without supporting expert testimony.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1558,7 +1576,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1578,7 +1598,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1594,7 +1616,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:52:00",
-      "investigative_direction": "Confirm base location via public military base directories; cross-reference flight manifests for July 14, 2025."
+      "investigative_direction": "Confirm base location via public military base directories; cross-reference flight manifests for July 14, 2025.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1608,7 +1632,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:58:46",
-      "investigative_direction": "Review standard hospital death-disclosure protocols; obtain Frank Turek's original statement context."
+      "investigative_direction": "Review standard hospital death-disclosure protocols; obtain Frank Turek's original statement context.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1625,7 +1651,9 @@
       "investigative_direction": "Identify and locate Frank Turek's original statement; reconcile with hospital staff logs.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1644,7 +1672,9 @@
         "N-7",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1664,7 +1694,9 @@
       "investigative_direction": "Review any FBI lab protocol authorizing CBLA reintroduction; compare to 2009 NAS forensic science recommendations.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1686,7 +1718,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1703,7 +1737,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1721,7 +1757,9 @@
       "transcript_snippet": "Charlie Kirk was shot on September 10th, 12:23 p. m. uh in the afternoon Mountain Time.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1746,7 +1784,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1766,7 +1806,9 @@
       "transcript_snippet": "the man who runs the audio-visual company that Turning Point employs, maybe you've used them for over a decade for their big events, and he's never goes to these college events",
       "mentions_person_refs": [
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1791,7 +1833,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1810,7 +1854,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1832,7 +1878,9 @@
         "N-261",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1853,7 +1901,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1875,7 +1925,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1898,7 +1950,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1921,7 +1975,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1946,7 +2002,9 @@
         "N-15",
         "N-30",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1968,7 +2026,9 @@
         "N-30",
         "N-15",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1990,7 +2050,9 @@
       "mentions_person_refs": [
         "N-15",
         "N-858"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2011,7 +2073,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2034,7 +2098,9 @@
         "N-14",
         "N-195",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2056,7 +2122,9 @@
         "N-2",
         "N-14",
         "N-195"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2077,7 +2145,9 @@
       "mentions_person_refs": [
         "N-195",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2100,7 +2170,9 @@
         "N-14",
         "N-195",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2124,7 +2196,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2145,7 +2219,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2166,7 +2242,9 @@
       "transcript_snippet": "It's cuz at some point the feds realized that their initial plan was completely ruined by the back footage that they They had to pivot.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2187,7 +2265,9 @@
       "transcript_snippet": "that family heirloom gun takes special bullets. In fact, I was told that there was no way the prosecution was going to be able to connect the bullets to that gun.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2208,7 +2288,9 @@
       "transcript_snippet": "Did they conduct that 33 hours later to see if Tyler Robinson had fired a weapon?",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2228,7 +2310,9 @@
       "transcript_snippet": "You remember the the bomb dogs went into the field where the weapon was found. I broke that story, and they didn't find the weapon.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2250,7 +2334,9 @@
       "transcript_snippet": "which my sources say they are convinced that the feds planted it when they arrived, was not fired on September 10th, okay?",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2274,7 +2360,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2295,7 +2383,9 @@
       "transcript_snippet": "I have spoken to SWAT, local police departments, sources close to the accused, UVU students, um people that work at UVU.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2317,7 +2407,9 @@
       "transcript_snippet": "I think we can all readily dismiss the repeated lie that Tyler Robinson confessed to his crime, right?",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2340,7 +2432,9 @@
       "mentions_person_refs": [
         "N-775",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2363,7 +2457,9 @@
       "transcript_snippet": "Mr. Robinson has diligently requested the disclosure of forensic case files and the data underlying the laboratory reports",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2386,7 +2482,9 @@
       "transcript_snippet": "informed the defense that they too were awaiting the files and we memorialized that for the state in our February 3rd letter",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2408,7 +2506,9 @@
       "transcript_snippet": "I do not find there's any prejudice in setting a date for a preliminary hearing. It's not set in stone. It certainly can be moved.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2432,7 +2532,9 @@
       "transcript_snippet": "validation studies, crucial electronic data files, the report, the case file for comparative bullet analysis, the the bullet lead analysis that is still in progress at the FBI",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2455,7 +2557,9 @@
       "transcript_snippet": "the state indicated that it intended to introduce the autopsy report into evidence without any supporting expert testimony.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2477,7 +2581,9 @@
       "transcript_snippet": "Please, I just want the case to be fast, she said on Fox News.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2500,7 +2606,9 @@
       "transcript_snippet": "both agencies recovered minute quantities of DNA on various items of evidence, which the reports opine consist of mixtures of up to five or more individuals.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2526,7 +2634,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2549,7 +2659,9 @@
       "transcript_snippet": "they're like, it doesn't matter. We're not going to We're not even going to bring up the ATF thing.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2569,7 +2681,9 @@
       "transcript_snippet": "analyzed trace elements, uh copper, arsenic in lead to link crime scene bullets to suspects. It was primarily used by the FBI from the 1980s until 2004",
       "supports_claim_refs": [
         "C-7738"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2586,7 +2700,9 @@
       ],
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Cite the specific exoneration cases involving bullet lead analysis.",
-      "transcript_snippet": "They literally put the wrong people in prison using this technology until it became so obvious that nobody would even stand trial and back it anymore."
+      "transcript_snippet": "They literally put the wrong people in prison using this technology until it became so obvious that nobody would even stand trial and back it anymore.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2605,7 +2721,9 @@
       ],
       "claim_timestamp": "00:41:49",
       "investigative_direction": "Identify the station, reporter and the case's court records, noting the transcript spelling of the surname.",
-      "transcript_snippet": "In 1991, 45-year-old Norma Jean Ates was found inside this home, shot to death seven times."
+      "transcript_snippet": "In 1991, 45-year-old Norma Jean Ates was found inside this home, shot to death seven times.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2628,7 +2746,9 @@
       "transcript_snippet": "the state cannot consistent with federal due process, uh the fourth and the eighth amendments and separate separation of powers",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2650,7 +2770,9 @@
       "transcript_snippet": "this is not our fault. We did not contribute to the delay resulting in the request.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2673,7 +2795,9 @@
       "transcript_snippet": "unless the materials that we are requesting have been produced to us by April 17th 2026, and if that does happen, then we can set a hearing um uh you know, 6 months out.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2696,7 +2820,9 @@
       "transcript_snippet": "You can't just send a PDF and then say we we got them.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2716,7 +2842,9 @@
       "transcript_snippet": "having had communication with Turning Point USA with their former employees about the lies that they were told",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2739,7 +2867,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2764,7 +2894,9 @@
         "N-597",
         "N-418",
         "N-674"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2787,7 +2919,9 @@
         "N-22",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2806,7 +2940,9 @@
       ],
       "claim_timestamp": "00:51:58",
       "investigative_direction": "Check public records of flights using Los Alamitos on July 14, 2025.",
-      "transcript_snippet": "It also is not visible to heavy traffic as the entrance to the base is located in a housing subdivision."
+      "transcript_snippet": "It also is not visible to heavy traffic as the entrance to the base is located in a housing subdivision.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2827,7 +2963,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2850,7 +2988,9 @@
         "N-6",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2872,7 +3012,9 @@
         "N-7",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2897,7 +3039,9 @@
         "N-2",
         "N-195",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2918,7 +3062,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

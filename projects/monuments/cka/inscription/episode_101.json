@@ -1656,7 +1656,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1675,7 +1677,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1699,7 +1703,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1718,7 +1724,9 @@
       "tags": [],
       "claim_timestamp": "00:01:56",
       "investigative_direction": "Pull the Show Faith by Works LLC registration statement and foreign-principal exhibit from the DOJ FARA database.",
-      "transcript_snippet": "Show Faith by Works LLC. That's that FARA registered propaganda arm of the Israeli Foreign Ministry."
+      "transcript_snippet": "Show Faith by Works LLC. That's that FARA registered propaganda arm of the Israeli Foreign Ministry.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1739,7 +1747,9 @@
       "transcript_snippet": "their stated goal to provide the October 7th experience. The October 7th experience coming to a church parking lot near you.",
       "supports_claim_refs": [
         "C-8837"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1756,7 +1766,9 @@
       "tags": [],
       "claim_timestamp": "00:02:40",
       "investigative_direction": "Identify the news report and underlying Israeli budget documents stating the $750 million figure.",
-      "transcript_snippet": "with the recent news that they will be upping the spend to what is like $750 million, almost a billion dollars."
+      "transcript_snippet": "with the recent news that they will be upping the spend to what is like $750 million, almost a billion dollars.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1777,7 +1789,9 @@
       "transcript_snippet": "They're going to build this trailer. They're going to use Hollywood set designers. Uh you're going to be able to reserve it.",
       "supports_claim_refs": [
         "C-8837"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1801,7 +1815,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1819,7 +1835,9 @@
       "transcript_snippet": "why are you in Why are you inside of the sheer curtains? That's That's the That's a pretty classic bridal shot.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1840,7 +1858,9 @@
       "transcript_snippet": "there's another video of Erika that comes out, and it's going viral, and she says that she wants to go home. Here it is. >> I just want to go home.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1859,7 +1879,9 @@
       "mentions_person_refs": [
         "N-606",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1878,7 +1900,9 @@
       "mentions_person_refs": [
         "N-607",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1898,7 +1922,9 @@
         "N-602",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1919,7 +1945,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1937,7 +1965,9 @@
       "transcript_snippet": "And to make the night even more of a spectacle, every single 10-person table had 10 bottles of wine.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1957,7 +1987,9 @@
       "transcript_snippet": "So, we put out that 10K bounty. We just wanted proof of who recorded it. And lo and behold, we got a couple of very interesting direct tips, people keen to collect the 10K.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1978,7 +2010,9 @@
       "transcript_snippet": "this person reached out almost instantly following our show with a very specific story with very specific names, and they offered to sign a sworn affidavit.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1996,7 +2030,9 @@
       "tags": [],
       "claim_timestamp": "00:12:03",
       "investigative_direction": "Once the name is released, check TPUSA vendor, contractor and event-staff records for the person.",
-      "transcript_snippet": "it is a person who appears to have done some work with Turning Point USA in the past."
+      "transcript_snippet": "it is a person who appears to have done some work with Turning Point USA in the past.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2014,7 +2050,9 @@
       "tags": [],
       "claim_timestamp": "00:12:52",
       "investigative_direction": "Obtain venue credential lists and hotel security footage for the exit corridor, and the recorder's device metadata.",
-      "transcript_snippet": "Apparently, this freelancing operative was positioned in advance with the specific instruction to take that exact video at that exact place at that exact time."
+      "transcript_snippet": "Apparently, this freelancing operative was positioned in advance with the specific instruction to take that exact video at that exact place at that exact time.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2032,7 +2070,9 @@
       "tags": [],
       "claim_timestamp": "00:12:52",
       "investigative_direction": "Trace the earliest shares of the clip across accounts and identify coordinated posting times among digital media teams.",
-      "transcript_snippet": "The operative was allegedly in communication with digital media teams, and the entire moment was staged, captured, and then intentionally shared amongst those digital media teams and their operatives"
+      "transcript_snippet": "The operative was allegedly in communication with digital media teams, and the entire moment was staged, captured, and then intentionally shared amongst those digital media teams and their operatives",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2050,7 +2090,9 @@
       "tags": [],
       "claim_timestamp": "00:12:52",
       "investigative_direction": "Obtain the full 30-second video with original metadata and compare it with the viral clip.",
-      "transcript_snippet": "We checked that. That is not AI. It is definitively an angle that other people have not seen."
+      "transcript_snippet": "We checked that. That is not AI. It is definitively an angle that other people have not seen.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2075,7 +2117,9 @@
       "mentions_person_refs": [
         "N-370",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2095,7 +2139,9 @@
       "transcript_snippet": "We'd better never again hear a peep from anyone complaining about a White House ballroom, huh?",
       "mentions_person_refs": [
         "N-222"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2115,7 +2161,9 @@
       "transcript_snippet": "The shooting made you think about a ballroom, Randy Fine, Andrew Kolvet? This is why the president needs to build the White House ballroom?",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2136,7 +2184,9 @@
       "mentions_person_refs": [
         "N-589",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2156,7 +2206,9 @@
       "transcript_snippet": "if you were a part of the digital team that received uh that video, sounds like there were a few people who received that video, uh you again, I will say 10K no questions asked.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2177,7 +2229,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2198,7 +2252,9 @@
       "mentions_person_refs": [
         "N-579",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2219,7 +2275,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2246,7 +2304,9 @@
         "N-298",
         "N-608",
         "N-609"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2270,7 +2330,9 @@
         "N-608",
         "N-609",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2292,7 +2354,9 @@
         "N-298",
         "N-5",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2312,7 +2376,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-610"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2329,7 +2395,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2415,9 @@
         "N-611",
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2364,7 +2434,9 @@
       "mentions_person_refs": [
         "N-193",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2382,7 +2454,9 @@
         "N-212",
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2404,7 +2478,9 @@
         "N-610",
         "N-30",
         "N-220"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2423,7 +2499,9 @@
       "mentions_person_refs": [
         "N-220",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2443,7 +2521,9 @@
       "transcript_snippet": "they wrote MAGA influencer house and habits marriage secrets revealed insiders blow the lid on explosive escort claims",
       "mentions_person_refs": [
         "N-610"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2462,7 +2542,9 @@
       "mentions_person_refs": [
         "N-610",
         "N-612"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2481,7 +2563,9 @@
       "mentions_person_refs": [
         "N-612",
         "N-610"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2501,7 +2585,9 @@
       "transcript_snippet": "So, the Daily Hit Mail did their due diligence. They went ahead and confirmed that the review was real, that it was his number.",
       "mentions_person_refs": [
         "N-610"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2521,7 +2607,9 @@
       "transcript_snippet": "Jessica Reed Kraus did not deny the incident, but she disputed the characterization of it",
       "mentions_person_refs": [
         "N-610"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2541,7 +2629,9 @@
       "transcript_snippet": "He said the number was his, but he wasn't really certain how it ended up on the Mr. Number app.",
       "mentions_person_refs": [
         "N-610"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2557,7 +2647,9 @@
       "transcript_snippet": "We need 12,000 more subscribers on YouTube to hit 6 million.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2579,7 +2671,9 @@
         "N-2",
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2598,7 +2692,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2620,7 +2716,9 @@
         "N-224",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2641,7 +2739,9 @@
         "N-1",
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2660,7 +2760,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2680,7 +2782,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2699,7 +2803,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2715,7 +2821,9 @@
       "transcript_snippet": "when they were calling for the boycott of um our merch, that it became our number one day of sales ever in the history of this show for merch.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2732,7 +2840,9 @@
       "mentions_person_refs": [
         "N-613",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2752,7 +2862,9 @@
       "transcript_snippet": "if you have any tips pertaining to the White House Correspondents Dinner 10K, no questions asked, even if you hate my guts.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

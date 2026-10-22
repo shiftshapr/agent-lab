@@ -51,6 +51,8 @@ def main() -> int:
     if not a.gates_only:
         for script, extra in ((CKA / "scripts" / "apply_name_corrections.py", []), (CKA / "scripts" / "sync_claim_tags.py", []),
                               (CKA / "scripts" / "sync_node_types.py", []),
+                              (CKA / "scripts" / "ledger" / "export_then_vs_now.py", []),
+                              (CKA / "scripts" / "verification" / "derive_status.py", []),
                               (MON / "scripts" / "cka_brc222_companion.py", [])):
             r = sh([py, str(script)] + extra)
             if r.returncode != 0:

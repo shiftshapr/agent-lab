@@ -1928,7 +1928,9 @@
       "tags": [],
       "claim_timestamp": "00:02:31–00:03:48",
       "investigative_direction": "Independent forensic examination of shard images for matching geometry to a Rode mic USB icon; obtain original Rode Rode mic reference images for side-by-side comparison.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1948,7 +1950,9 @@
       "investigative_direction": "Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1968,7 +1972,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1987,7 +1993,9 @@
       "investigative_direction": "Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2007,7 +2015,9 @@
       "investigative_direction": "Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2028,7 +2038,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2048,7 +2060,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2068,7 +2082,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2087,7 +2103,9 @@
       "investigative_direction": "Locate any recording where Frank Turek directly states disposal; cross-reference with hospital chain-of-custody records for patient-adjacent personal property.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2107,7 +2125,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2126,7 +2146,9 @@
       "investigative_direction": "Obtain original unaltered car interior photos with metadata for forensic chain-of-custody; conduct independent review of mark patterns.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2143,7 +2165,9 @@
       "tags": [],
       "claim_timestamp": "00:22:50–00:23:11",
       "investigative_direction": "Forensic testing of the bag (if available) for blood type, DNA, and explosive residue.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2165,7 +2189,9 @@
       "investigative_direction": "High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2182,7 +2208,9 @@
       "tags": [],
       "claim_timestamp": "00:41:49–00:42:51",
       "investigative_direction": "Obtain original Semafor article; verify any disclosed Highmount Capital relationship.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2201,7 +2229,9 @@
       "investigative_direction": "Verify original tweet timestamp and any subsequent clarification from Rubin.",
       "mentions_person_refs": [
         "N-32"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2218,7 +2248,9 @@
       "tags": [],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Obtain underlying source data for the chart; identify methodology.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2235,7 +2267,9 @@
       "investigative_direction": "Obtain full unedited Jubilee episode; verify clip is not edited deceptively.",
       "mentions_person_refs": [
         "N-32"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2252,7 +2286,9 @@
       "investigative_direction": "Verify against independent reporting on Gaza status as of debate date.",
       "mentions_person_refs": [
         "N-32"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2271,7 +2307,9 @@
       "investigative_direction": "Obtain Daily Wire financial disclosures (if any) and verify per-episode cost comparison to HBO's first Game of Thrones season.",
       "mentions_person_refs": [
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2290,7 +2328,9 @@
       "investigative_direction": "Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2309,7 +2349,9 @@
       "investigative_direction": "Same as C-10378.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2326,7 +2368,9 @@
       "tags": [],
       "claim_timestamp": "00:34:26–00:35:29",
       "investigative_direction": "Obtain current NHS source page directly; verify quoted text matches original.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2345,7 +2389,9 @@
       "investigative_direction": "Identify jurisdiction and DA office handling the case; obtain chain-of-custody records for returned items.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2364,7 +2410,9 @@
       "investigative_direction": "Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2386,7 +2434,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2408,7 +2458,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2429,7 +2481,9 @@
       "transcript_snippet": "I even had opticians emailing me to inform me that it was not possible for it to be sunglasses on the ground.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2453,7 +2507,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2477,7 +2533,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2500,7 +2558,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2521,7 +2581,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2541,7 +2603,9 @@
       "transcript_snippet": "These photos were never supposed to see the light of day.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2568,7 +2632,9 @@
         "N-487",
         "N-1",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2588,7 +2654,9 @@
       "transcript_snippet": "the hospital was about 8 minutes away if you look that up just on Google Maps.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2613,7 +2681,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2637,7 +2707,9 @@
         "N-266",
         "N-7",
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2663,7 +2735,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2686,7 +2760,9 @@
       "transcript_snippet": "And so I'm opening those with my mouth and and then put them down and then spreading it out a little bit",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2708,7 +2784,9 @@
       "transcript_snippet": "But those are sold at just 4 yd a roll. So why on earth did Brian have handy six rolls of dressing in his small medical bag",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2733,7 +2811,9 @@
         "N-7",
         "N-1",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2758,7 +2838,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2783,7 +2865,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2809,7 +2893,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2826,7 +2912,9 @@
       ],
       "claim_timestamp": "00:20:25",
       "investigative_direction": "Cite AHA CPR guidance on rotating rescuers and compression delivery.",
-      "transcript_snippet": "there's no such thing as we when it comes to the physical touch of CPR. One person conducts the CPR."
+      "transcript_snippet": "there's no such thing as we when it comes to the physical touch of CPR. One person conducts the CPR.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2852,7 +2940,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2875,7 +2965,9 @@
         "N-7",
         "N-487",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2898,7 +2990,9 @@
       "transcript_snippet": "All of the shattered road glass pieces that were on Charlie under him got wiped off of his body, brushed onto the floored the floor, right?",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2921,7 +3015,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2941,7 +3037,9 @@
       "transcript_snippet": "very same reason that they didn't put him into an ambulance, potentially, um is because they needed to remove Charlie's shirt",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2965,7 +3063,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2982,7 +3082,9 @@
       ],
       "claim_timestamp": "00:26:48",
       "investigative_direction": "Ask an explosives-trace expert how readily residue transfers by contact and how long it persists.",
-      "transcript_snippet": "residue is extremely contagious, so to speak. The microscopic particles are passed through even the most casual contact between two people"
+      "transcript_snippet": "residue is extremely contagious, so to speak. The microscopic particles are passed through even the most casual contact between two people",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2999,7 +3101,9 @@
       ],
       "claim_timestamp": "00:27:32",
       "investigative_direction": "Ask canine explosive-detection trainers for detection times.",
-      "transcript_snippet": "A bomb dog would have smelled that in 3 seconds, okay?"
+      "transcript_snippet": "A bomb dog would have smelled that in 3 seconds, okay?",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3022,7 +3126,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3046,7 +3152,9 @@
         "N-7",
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3072,7 +3180,9 @@
         "N-261",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3092,7 +3202,9 @@
       "transcript_snippet": "So many people reached out to me who have dissociative identity disorder or who had it, and all of them with the same stories.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3113,7 +3225,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3136,7 +3250,9 @@
       "mentions_person_refs": [
         "N-10001",
         "N-10112"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3157,7 +3273,9 @@
       "transcript_snippet": "there is a handler, so to speak, who has the key to get them to switch into different personalities.",
       "mentions_person_refs": [
         "N-10001"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3178,7 +3296,9 @@
       "transcript_snippet": "which we're seeing with her, where she just totally says something totally opposite and becomes different person.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3200,7 +3320,9 @@
         "N-3",
         "N-1",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3218,7 +3340,9 @@
       "transcript_snippet": "there's a chapter where he actually published, I think this was back in 2020 when he published his book, that Ukraine was a member of NATO.",
       "mentions_person_refs": [
         "N-32"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3243,7 +3367,9 @@
       "mentions_person_refs": [
         "N-10627",
         "N-11274"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3263,7 +3389,9 @@
       "transcript_snippet": "an organization that spent 2 years trying to bankrupt my family because I think genocide is always wrong.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3286,7 +3414,9 @@
       "transcript_snippet": "they spent $50 million on on just seven episodes.",
       "mentions_person_refs": [
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3309,7 +3439,9 @@
       "transcript_snippet": "more than $50 million, closer to 60, but at least they're finally admitting that it wasn't $10 million or $7 million as it had been reported in the past.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3332,7 +3464,9 @@
       "transcript_snippet": "That means they spent more per an episode than HBO spent on the first season of Game of Thrones.",
       "supports_claim_refs": [
         "C-8960"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3354,7 +3488,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-593"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3376,7 +3512,9 @@
       "mentions_person_refs": [
         "N-221",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3397,7 +3535,9 @@
       "transcript_snippet": "they were sort of like fake pumping their subscription numbers.",
       "mentions_person_refs": [
         "N-10627"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3415,7 +3555,9 @@
       "transcript_snippet": "I used to work in private equity which and that particular firm that I worked at in New York City specialized in distressed debt.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3436,7 +3578,9 @@
       "transcript_snippet": "He spends his time just throwing insults on Twitter aimed at 19-year-olds calling them Hitler and anti-Semites if they discuss something like the USS Liberty.",
       "mentions_person_refs": [
         "N-10420"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3459,7 +3603,9 @@
       "transcript_snippet": "We had 48 million in adjusted EBITDA.",
       "mentions_person_refs": [
         "N-10627"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3484,7 +3630,9 @@
       ],
       "mentions_person_refs": [
         "N-729"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3504,7 +3652,9 @@
       "transcript_snippet": "You guys know that she was smiling, of course, the whole time",
       "mentions_person_refs": [
         "N-729"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3525,7 +3675,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3548,7 +3700,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3566,7 +3720,9 @@
       "transcript_snippet": "She just Mia wasn't feeling it. Didn't pass the vibe check.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3587,7 +3743,9 @@
       "transcript_snippet": "she just kind of accidentally rhymed there when she said that",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3607,7 +3765,9 @@
       "transcript_snippet": "Life's tough, get a helmet, man. I'm too pregnant for this.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3626,7 +3786,9 @@
       "mentions_person_refs": [
         "N-919",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3648,7 +3810,9 @@
       "transcript_snippet": "there is a call from one of the police cars following Charlie's car, and they said it looked like someone was trying to jump out of the car.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3669,7 +3833,9 @@
       "transcript_snippet": "Brian briefly discussed in that Shawn Ryan interview how they caught a police tail.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3690,7 +3856,9 @@
       "transcript_snippet": "No one has taken raised their hand and said it was me. I would assume it would be Dan Flood.",
       "mentions_person_refs": [
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3714,7 +3882,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3735,7 +3905,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-665"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3755,7 +3927,9 @@
       "transcript_snippet": "Uh, email us at moretips@canesowns. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3780,7 +3954,9 @@
         "N-2",
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

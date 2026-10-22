@@ -1144,6 +1144,8 @@ Anchored Artifacts:
 Mentions: N-54, N-40, N-3
 Related Nodes: N-10617
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-13097
 Investigative Direction: Review the FBI DNA report on the screwdriver (listed in sealed exhibits) for the contributor profiles.
 
 ---
@@ -1857,6 +1859,7 @@ Anchored Artifacts:
 Mentions: N-14, N-159, N-3
 Related Nodes: N-10666, N-10000
 Tags: relevance:core
+Revises: C-11033
 Investigative Direction: Use the hotel registration and booking records the host says she has; test them against Neff's statements.
 
 ---

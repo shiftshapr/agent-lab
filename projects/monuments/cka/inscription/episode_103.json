@@ -1529,7 +1529,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1548,7 +1550,12 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "revises_claim_refs": [
+        "C-8632"
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1571,7 +1578,9 @@
         "N-341",
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1593,7 +1602,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1613,7 +1624,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1635,7 +1648,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1656,7 +1671,9 @@
       "transcript_snippet": "the relationships that we have with special forces commanders here with the IDF um are extensive and they are taking us to places",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1675,7 +1692,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1692,7 +1711,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1713,7 +1734,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1732,7 +1755,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1755,7 +1780,9 @@
         "N-270",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1777,7 +1804,9 @@
         "N-3",
         "N-1",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1798,7 +1827,9 @@
       "transcript_snippet": "the college had planned to host Kirk after one day after Wednesday's first stop of his American comeback tour at the Utah Valley University",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1816,7 +1847,9 @@
       "transcript_snippet": "the founder of it is this guy Andrew Wommack and you're thinking is he former military? Of course.",
       "mentions_person_refs": [
         "N-615"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1834,7 +1867,9 @@
         "N-1",
         "N-2",
         "N-211"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1856,7 +1891,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1879,7 +1916,9 @@
       "transcript_snippet": "Someone known to Turning Point USA most certainly did take that plane N582 MM. Uh and they got there to Provo eventually after the shooting.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1899,7 +1938,9 @@
       "transcript_snippet": "N582 MM, it is still tied to Paradise Jets, which the other plane is tied to as well, the one that he did take that day.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1919,7 +1960,9 @@
       "transcript_snippet": "you can see that 25 minutes before Charlie was shot, the plane departs Denver, Colorado. Um that's at 11:58 a. m. Mountain Time.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1937,7 +1980,9 @@
       "tags": [],
       "claim_timestamp": "00:11:05",
       "investigative_direction": "Obtain ADS-B and FBO records for N582MM's Chicago stop and Provo arrival, and the passengers boarded in Chicago.",
-      "transcript_snippet": "stayed in South Dakota for about 50 minutes before heading onward to Chicago, Illinois for what looks like a pickup, and then they went straight to Provo, Utah landing at 6:57 p. m."
+      "transcript_snippet": "stayed in South Dakota for about 50 minutes before heading onward to Chicago, Illinois for what looks like a pickup, and then they went straight to Provo, Utah landing at 6:57 p. m.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1955,7 +2000,9 @@
       "tags": [],
       "claim_timestamp": "00:12:07",
       "investigative_direction": "Pull N582MM's September 11, 2025 flight history.",
-      "transcript_snippet": "After it stayed overnight in Provo on September 10th, it then went back to Pierre, South Dakota."
+      "transcript_snippet": "After it stayed overnight in Provo on September 10th, it then went back to Pierre, South Dakota.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1973,7 +2020,9 @@
       "transcript_snippet": "on September 10th at almost the exact same time, down to the minute, that Charlie was shot, there was another shooting in Colorado at a high school, Evergreen High School.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1991,7 +2040,9 @@
       "transcript_snippet": "a 16-year-old student who attended Evergreen High School named Desmond Holly showed up to school with a Smith & Wesson.38 special revolver at 12:21.",
       "mentions_person_refs": [
         "N-616"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2013,7 +2064,9 @@
         "N-616",
         "N-617",
         "N-618"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2031,7 +2084,9 @@
       "transcript_snippet": "The sheriff's office has since confirmed that only the deputies were the witnesses to Holly shooting himself after they gave their commands.",
       "mentions_person_refs": [
         "N-616"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2048,7 +2103,9 @@
       "tags": [],
       "claim_timestamp": "00:15:37",
       "investigative_direction": "Request the Jefferson County 911 call log and recording for 12:22 on September 10, 2025.",
-      "transcript_snippet": "The call came in at 12:22, a full minute after the first shot was fired."
+      "transcript_snippet": "The call came in at 12:22, a full minute after the first shot was fired.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2065,7 +2122,9 @@
       "tags": [],
       "claim_timestamp": "00:17:11",
       "investigative_direction": "Obtain the October 10 sheriff's update and the list of responding mutual-aid agencies.",
-      "transcript_snippet": "The Jefferson County Sheriff's Office actually acknowledged this in their October 10th update and said that Jefferson County's deputies followed the protocol correctly"
+      "transcript_snippet": "The Jefferson County Sheriff's Office actually acknowledged this in their October 10th update and said that Jefferson County's deputies followed the protocol correctly",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2085,7 +2144,9 @@
       "transcript_snippet": "Martinez tells CBS Colorado he and another coworker were working a roofing job in Evergreen.",
       "mentions_person_refs": [
         "N-618"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2103,7 +2164,9 @@
       "transcript_snippet": "locals, who were very interested in this, began searching and they could not determine what house he and his coworkers were working on or what contractor they were working for.",
       "mentions_person_refs": [
         "N-618"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2118,7 +2181,9 @@
       "tags": [],
       "claim_timestamp": "00:22:50",
       "investigative_direction": "Request Jefferson County SRO assignment and leave records for September 2025.",
-      "transcript_snippet": "the deputy that was assigned to that role happened to be on medical leave at the time of the shooting."
+      "transcript_snippet": "the deputy that was assigned to that role happened to be on medical leave at the time of the shooting.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2133,7 +2198,9 @@
       "tags": [],
       "claim_timestamp": "00:22:50",
       "investigative_direction": "Locate the original media reports and the sheriff's first timeline.",
-      "transcript_snippet": "initially the reporting came out and said that the SRO deputy left Evergreen campus around 10:30 a. m. because he was responding to a nearby traffic crash."
+      "transcript_snippet": "initially the reporting came out and said that the SRO deputy left Evergreen campus around 10:30 a. m. because he was responding to a nearby traffic crash.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2148,7 +2215,9 @@
       "tags": [],
       "claim_timestamp": "00:23:39",
       "investigative_direction": "Obtain the deputy's CAD dispatch history for September 10, 2025.",
-      "transcript_snippet": "Then he was dispatched uh from Conifer High School uh to a car crash. And while en route to that car crash, that's when the call came in about the Evergreen shooting."
+      "transcript_snippet": "Then he was dispatched uh from Conifer High School uh to a car crash. And while en route to that car crash, that's when the call came in about the Evergreen shooting.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2163,7 +2232,9 @@
       "tags": [],
       "claim_timestamp": "00:24:23",
       "investigative_direction": "Request Colorado State Patrol and Jefferson County crash reports for the Conifer area on September 10, 2025.",
-      "transcript_snippet": "Location of the crash he was originally dispatched to was never publicly released."
+      "transcript_snippet": "Location of the crash he was originally dispatched to was never publicly released.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2183,7 +2254,9 @@
         "N-14",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2210,7 +2283,9 @@
         "N-2",
         "N-14",
         "N-614"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2236,7 +2311,9 @@
         "N-614",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2261,7 +2338,9 @@
         "N-614",
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2286,7 +2365,9 @@
         "N-14",
         "N-15",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2308,7 +2389,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2328,7 +2411,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-614"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2353,7 +2438,9 @@
       "mentions_person_refs": [
         "N-614",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2375,7 +2462,9 @@
       ],
       "mentions_person_refs": [
         "N-424"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2395,7 +2484,9 @@
       "mentions_person_refs": [
         "N-424",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2416,7 +2507,9 @@
       "transcript_snippet": "VFX Los Angeles. These guys uh were brought into Turning Point USA. Like I said, we can confirm that with Marcus Wada.",
       "mentions_person_refs": [
         "N-424"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2436,7 +2529,9 @@
       "transcript_snippet": "this project for Fanatics Collectibles, where we had to reproduce the unique timbre and intonation of the deceased baseball commentator Skip Caray.",
       "mentions_person_refs": [
         "N-619"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2459,7 +2554,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2476,7 +2573,9 @@
       "tags": [],
       "claim_timestamp": "00:40:43",
       "investigative_direction": "Archive the VFX LA demonstration video and its client attribution.",
-      "transcript_snippet": "We then cast two French actors with likeness matching their UK counterparts and recorded a plethora of what we call training footage to train our AI models for each."
+      "transcript_snippet": "We then cast two French actors with likeness matching their UK counterparts and recorded a plethora of what we call training footage to train our AI models for each.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2496,7 +2595,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2515,7 +2616,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2536,7 +2639,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2557,7 +2662,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2584,7 +2691,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2608,7 +2717,9 @@
         "N-270",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2629,7 +2740,9 @@
       "transcript_snippet": "Please do shoot us an email to more tips@canasown. com so I can have your information because uh I do have some questions about that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2645,7 +2758,9 @@
       "transcript_snippet": "The fact that she had just survived another shooting. Um missed it in a food court up in Canada.",
       "mentions_person_refs": [
         "N-478"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2662,7 +2777,9 @@
       "tags": [],
       "claim_timestamp": "00:53:58",
       "investigative_direction": "Obtain the mutual-aid agency roster from the Jefferson County Sheriff's Office after-action report.",
-      "transcript_snippet": "It was almost certainly the Clear Creek Sheriff Office working in collaboration. We don't have our own police department in Evergreen."
+      "transcript_snippet": "It was almost certainly the Clear Creek Sheriff Office working in collaboration. We don't have our own police department in Evergreen.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

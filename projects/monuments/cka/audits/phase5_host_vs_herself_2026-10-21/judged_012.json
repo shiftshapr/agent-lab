@@ -1,0 +1,460 @@
+[
+ {
+  "later": "C-10011",
+  "earlier": "C-9930",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10011",
+  "earlier": "C-8491",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10015",
+  "earlier": "C-7768",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10015",
+  "earlier": "C-4290",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10021",
+  "earlier": "C-9340",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10021",
+  "earlier": "C-9790",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10022",
+  "earlier": "C-9523",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10034",
+  "earlier": "C-7028",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10036",
+  "earlier": "C-7800",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10037",
+  "earlier": "C-7800",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10037",
+  "earlier": "C-7799",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9997",
+  "earlier": "C-7025",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10038",
+  "earlier": "C-8646",
+  "relation": "revises",
+  "delta": "Earlier: Farnsworth's selfie video announced Kirk dead about 2 minutes after he went down. Later: seconds after he died.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-10048",
+  "earlier": "C-10007",
+  "relation": "revises",
+  "delta": "Earlier: the police did not perform a GSR test on Tyler Robinson. Later: the feds did not conduct the GSR test.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-10050",
+  "earlier": "C-1123",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10050",
+  "earlier": "C-2286",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10051",
+  "earlier": "C-2415",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10053",
+  "earlier": "C-9982",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10058",
+  "earlier": "C-4588",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10067",
+  "earlier": "C-4746",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10067",
+  "earlier": "C-6843",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10074",
+  "earlier": "C-4743",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10074",
+  "earlier": "C-4746",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10075",
+  "earlier": "C-4749",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10077",
+  "earlier": "C-8195",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10077",
+  "earlier": "C-8270",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10078",
+  "earlier": "C-4752",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10079",
+  "earlier": "C-4753",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10079",
+  "earlier": "C-2154",
+  "relation": "revises",
+  "delta": "Earlier: Tyler Bowyer majored in Soviet studies. Later: he holds a degree in Russian studies.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10080",
+  "earlier": "C-4754",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10081",
+  "earlier": "C-8279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10082",
+  "earlier": "C-9497",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10082",
+  "earlier": "C-9733",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10084",
+  "earlier": "C-4567",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10084",
+  "earlier": "C-7694",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10091",
+  "earlier": "C-6162",
+  "relation": "qualifies",
+  "delta": "Earlier: flat assertion Epstein worked for the Rothschilds. Later: attributed to Epstein himself and his emails.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10091",
+  "earlier": "C-6869",
+  "relation": "qualifies",
+  "delta": "Earlier: Epstein worked directly for the Rothschilds. Later: he did so according to Epstein himself and his emails.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10100",
+  "earlier": "C-10021",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10105",
+  "earlier": "C-6834",
+  "relation": "revises",
+  "delta": "Earlier: Trump was 50% owner of Miss America with NBC Universal when Erika was crowned. Later: Trump co-owned Miss Universe with NBC Universal.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10106",
+  "earlier": "C-6851",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10109",
+  "earlier": "C-6828",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10119",
+  "earlier": "C-9913",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10120",
+  "earlier": "C-9910",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10121",
+  "earlier": "C-8341",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10123",
+  "earlier": "C-9915",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10140",
+  "earlier": "C-9879",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10143",
+  "earlier": "C-10021",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10143",
+  "earlier": "C-10100",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10161",
+  "earlier": "C-9146",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10161",
+  "earlier": "C-9553",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10164",
+  "earlier": "C-7022",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10165",
+  "earlier": "C-4584",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10169",
+  "earlier": "C-9992",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10169",
+  "earlier": "C-9991",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10173",
+  "earlier": "C-10068",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10173",
+  "earlier": "C-10062",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10189",
+  "earlier": "C-9908",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10189",
+  "earlier": "C-5688",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10209",
+  "earlier": "C-9675",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10227",
+  "earlier": "C-7029",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10229",
+  "earlier": "C-10161",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10233",
+  "earlier": "C-10102",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10235",
+  "earlier": "C-4190",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10235",
+  "earlier": "C-7768",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10236",
+  "earlier": "C-10096",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10253",
+  "earlier": "C-10048",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10253",
+  "earlier": "C-10007",
+  "relation": "revises",
+  "delta": "Earlier: the police did not perform a GSR test on Tyler Robinson. Later: the feds did not conduct the GSR test.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-10254",
+  "earlier": "C-10047",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10255",
+  "earlier": "C-10049",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10256",
+  "earlier": "C-10050",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10256",
+  "earlier": "C-2286",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10273",
+  "earlier": "C-6973",
+  "relation": "qualifies",
+  "delta": "Earlier: viewers sent a matching building owned by Mark Epstein. Later: she could not confirm it was Mark Epstein's building.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10277",
+  "earlier": "C-6837",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10279",
+  "earlier": "C-6929",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10279",
+  "earlier": "C-6478",
+  "relation": "supports",
+  "confidence": "high"
+ }
+]

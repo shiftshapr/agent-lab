@@ -844,6 +844,8 @@ Anchored Artifacts: A-1192.1, A-1192.2
 Mentions: N-61, N-128
 
 
+Verification: revised-by-host
+Verification Evidence: C-1082
 Investigative Direction: Archive Instagram and LinkedIn snapshots from prior to deletion/scrub; reconcile with Phil Lyman's later "cousin, not nephew" revision.
 
 ---

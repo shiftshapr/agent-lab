@@ -3684,6 +3684,14 @@
      "v": "N-10551"
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-9409"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain Marx's DD-214 for enlistment and separation dates."
     },
@@ -3849,6 +3857,10 @@
     {
      "k": "Mentions",
      "v": "N-726, N-343, N-341"
+    },
+    {
+     "k": "Revises",
+     "v": "C-8138"
     },
     {
      "k": "Investigative Direction",

@@ -1,0 +1,203 @@
+[
+ {
+  "later": "C-14306",
+  "earlier": "C-14281",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14306",
+  "earlier": "C-14206",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14311",
+  "earlier": "C-14244",
+  "relation": "revises",
+  "delta": "Earlier: Clancy's meeting with Gov. Cox was on September 2. Later: it was the evening of September 9, not September 2 as first reported.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14315",
+  "earlier": "C-14178",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14316",
+  "earlier": "C-14191",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14316",
+  "earlier": "C-10537",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14346",
+  "earlier": "C-13634",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14347",
+  "earlier": "C-2950",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14348",
+  "earlier": "C-9228",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14350",
+  "earlier": "C-9230",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14350",
+  "earlier": "C-6220",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14353",
+  "earlier": "C-13003",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14356",
+  "earlier": "C-11208",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14366",
+  "earlier": "C-14285",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14381",
+  "earlier": "C-8282",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14389",
+  "earlier": "C-14191",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14389",
+  "earlier": "C-8649",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14393",
+  "earlier": "C-14114",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14397",
+  "earlier": "C-14203",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14398",
+  "earlier": "C-14206",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14398",
+  "earlier": "C-14306",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14400",
+  "earlier": "C-13049",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14402",
+  "earlier": "C-14363",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-14405",
+  "earlier": "C-1831",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14405",
+  "earlier": "C-13633",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14444",
+  "earlier": "C-14247",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14450",
+  "earlier": "C-14161",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14450",
+  "earlier": "C-14330",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14454",
+  "earlier": "C-14282",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14454",
+  "earlier": "C-14366",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14456",
+  "earlier": "C-14281",
+  "relation": "none",
+  "confidence": "low"
+ },
+ {
+  "later": "C-14471",
+  "earlier": "C-13453",
+  "relation": "qualifies",
+  "delta": "Earlier: she hands everything over to Baron for maternity leave. Later: she will still pop in and join Baron for an episode or two.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14471",
+  "earlier": "C-13281",
+  "relation": "qualifies",
+  "delta": "Earlier: Baron takes over the principal show during her leave. Later: she will join him for an episode or two during the leave.",
+  "confidence": "medium"
+ }
+]

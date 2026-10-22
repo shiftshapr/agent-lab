@@ -68,7 +68,7 @@ The full execution plan from here to a verified, published and promoted archive.
 | 4.1b | **Commentator speakers.** The Charlie Kirk Show (Kolvet, Neff), Erika Kirk interviews, Baron Coleman and other creators on either side, ingested like the host, as claims | their claims can be linked by Supports, Contradicts and Qualifies; never used as evidence |
 | 4.2 | **External monitors**: alerts on the court docket and on news for the key names, feeding the daily pipeline | alerts land as items in the pipeline |
 | 4.3 | **Open-questions register.** Promote each Investigative Direction into a tracked question: what's known, what would settle it, status, and linked tips | every core claim has its questions registered |
-| 4.4 | **Verification status on claims** (POLICY §11): `unverified`, `corroborated`, `disputed`, `contradicted-by-record`, `revised-by-host`, each with cited evidence | schema in the drafts, inscriptions and companion; CI validates it |
+| 4.4 | 🚧 2026-10-21: schema, CI check, inscriptions and companion done; 53 claims are `revised-by-host`; record-based statuses come with 4.5. **Verification status on claims** (POLICY §11): `unverified`, `corroborated`, `disputed`, `contradicted-by-record`, `revised-by-host`, each with cited evidence | schema in the drafts, inscriptions and companion; CI validates it |
 | 4.5 | **Verification linking pass.** Link each source-stream document to the claims it bears on, and set the statuses | every core claim has a status other than `unverified`, or an open question explaining why |
 
 ## Phase 5 — Revisions and contradictions (the site's lead feature)
@@ -76,9 +76,9 @@ The full execution plan from here to a verified, published and promoted archive.
 
 | # | Task | Done when |
 |---|---|---|
-| 5.1 | For each person and topic, walk the claims in airing order and link real `Revises`, `Contradicts` and `Qualifies` across episodes (the host vs. herself) | each pair is in the ledger with both clips |
+| 5.1 | ✅ 2026-10-21 first pass (`audits/phase5_host_vs_herself_2026-10-21/`): 1,458 candidate pairs judged, 35 confirmed links added (31 Revises, 4 Qualifies). For each person and topic, walk the claims in airing order and link real `Revises`, `Contradicts` and `Qualifies` across episodes (the host vs. herself) | each pair is in the ledger with both clips |
 | 5.2 | Cross-source contradictions: the host vs. the court record and the flight data (Tier 1), and the host vs. other speakers (commentators, speaker-to-speaker) | linked; record conflicts set `contradicted-by-record` |
-| 5.3 | "Then vs. now" ledger export: a reviewable list of pairs with both clips, dates and the delta | Daveed reviews the top pairs that promotion will lead with, plus a random sample |
+| 5.3 | ✅ 2026-10-21 export (`ledger/then_vs_now.md`; 282 links, 87 host vs herself), awaiting Daveed's review. "Then vs. now" ledger export: a reviewable list of pairs with both clips, dates and the delta | Daveed reviews the top pairs that promotion will lead with, plus a random sample |
 
 ## Phase 6 — Adversarial re-audit
 **Owner:** Bill D and Transit · **Gate:** Daveed rules on the findings

@@ -2415,6 +2415,7 @@ Anchored Artifacts:
 Mentions: N-40, N-1, N-3
 Related Nodes: N-10106
 Tags: relevance:core
+Qualifies: C-1958
 Investigative Direction: Her evidence is not shown in this episode; the host offers to debate and to testify for the defense.
 
 ---

@@ -1453,6 +1453,9 @@ Anchored Artifacts:
 Mentions: N-14, N-2
 Related Nodes: N-10502
 Tags: relevance:core
+Qualifies: C-5411
+Verification: revised-by-host
+Verification Evidence: C-7453
 Investigative Direction: Reconcile Erika Kirk's September 10 movements with flight arrival times at Provo.
 
 ---
@@ -1599,6 +1602,8 @@ Anchored Artifacts:
 Mentions: N-186, N-1, N-3
 Related Nodes: N-11159
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-11534
 Investigative Direction: Locate any video of Charlie Kirk in the casket and identify who recorded and published it.
 
 ---

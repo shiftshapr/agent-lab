@@ -1432,7 +1432,9 @@
       "transcript_snippet": "we're allowed to receive answers to our very many questions from the CEO and chairman of a quarter billion dollar per annum charity.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1453,7 +1455,9 @@
       "mentions_person_refs": [
         "N-659",
         "N-178"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1476,7 +1480,9 @@
         "N-659",
         "N-663",
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1494,7 +1500,9 @@
       "transcript_snippet": "the family that just straight up said, \"We created the modern state of Israel out of whole cloth.\"",
       "mentions_person_refs": [
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1512,7 +1520,9 @@
       "transcript_snippet": "It's It's a super yacht appropriately named Planet Nine. Planet Nine, which is designed for heli-skiing adventures.",
       "mentions_person_refs": [
         "N-663"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1527,7 +1537,9 @@
       "tags": [],
       "claim_timestamp": "00:03:41",
       "investigative_direction": "Check the builder's published specifications for Planet Nine's helideck and helicopter.",
-      "transcript_snippet": "The helicopter, I will say that there's one drawback. The helicopter is only an eight-seater."
+      "transcript_snippet": "The helicopter, I will say that there's one drawback. The helicopter is only an eight-seater.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1542,7 +1554,9 @@
       "tags": [],
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Compare with the builder's or charter broker's specification sheet for Planet Nine.",
-      "transcript_snippet": "Planet Nine is five floors in total. But, worry not cuz you're like, \"That's a lot of stairs.\" It has two elevators. It accommodates 16 guests."
+      "transcript_snippet": "Planet Nine is five floors in total. But, worry not cuz you're like, \"That's a lot of stairs.\" It has two elevators. It accommodates 16 guests.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1558,7 +1572,9 @@
       "transcript_snippet": "Remember, vice is nice, but incest is best, said that Rothschild in France.",
       "mentions_person_refs": [
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1579,7 +1595,9 @@
       "mentions_person_refs": [
         "N-178",
         "N-663"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1600,7 +1618,9 @@
       "mentions_person_refs": [
         "N-178",
         "N-664"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1621,7 +1641,9 @@
       "mentions_person_refs": [
         "N-664",
         "N-663"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1641,7 +1663,9 @@
       "transcript_snippet": "but in 1950 1959 he visited alongside his Soviet marshal and they looked out at the bay and they discussed Albania's coastline in particular, the Sazan Island, as a strategic naval position.",
       "mentions_person_refs": [
         "N-668"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1662,7 +1686,9 @@
       "mentions_person_refs": [
         "N-669",
         "N-668"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1680,7 +1706,9 @@
       "transcript_snippet": "Hence the reason Trump has been obsessed with Iran, bombing Iran absent a vote from Congress, absent the American people on his side.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1700,7 +1728,9 @@
       "transcript_snippet": "But you know, look, my preference has always been take Kharg Island.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1718,7 +1748,9 @@
       "transcript_snippet": "That's the one that Ben Shapiro's been screaming about. We have to take Kharg Island.",
       "mentions_person_refs": [
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1738,7 +1770,9 @@
       "transcript_snippet": "We've taken millions and millions of barrels of oil out of Venezuela. We brought them to Houston and various other places, Louisiana.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1760,7 +1794,9 @@
       ],
       "mentions_person_refs": [
         "N-10026"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1783,7 +1819,9 @@
         "N-591",
         "N-670",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1805,7 +1843,9 @@
       "mentions_person_refs": [
         "N-591",
         "N-670"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1823,7 +1863,9 @@
       "transcript_snippet": "I noticed that he had a crucifix uh tattooed um on his right arm, so that I guess bars us from asking questions.",
       "mentions_person_refs": [
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1841,7 +1883,9 @@
       "transcript_snippet": "Here he is in October of 2025 in Malaysia. He went for a run with the troops.",
       "mentions_person_refs": [
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1861,7 +1905,9 @@
       "transcript_snippet": "From this War Department's view the national defense strategy we have right now, we are taking back our hemisphere.",
       "mentions_person_refs": [
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1882,7 +1928,9 @@
       "mentions_person_refs": [
         "N-591",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1900,7 +1948,9 @@
       "transcript_snippet": "I'd like to remind you, Laura Loomer is not legally allowed to own a weapon.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1920,7 +1970,9 @@
       "transcript_snippet": "Anyway, Larry went down to Gitmo as a Pentagon reporter. Totally sane times.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1943,7 +1995,9 @@
         "N-671",
         "N-672",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1964,7 +2018,9 @@
       "transcript_snippet": "So, to kind of bring it back home to while we're here, those options are all All those options are on the table.",
       "mentions_person_refs": [
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1982,7 +2038,9 @@
       "transcript_snippet": "And secondly, uh when he got down to Gitmo, I should mention he did another run. He did.",
       "mentions_person_refs": [
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1999,7 +2057,9 @@
       "tags": [],
       "claim_timestamp": "00:28:39",
       "investigative_direction": "Retrieve the Spectator US article, its author and publication date.",
-      "transcript_snippet": "this is a real headline that was published in Spectator US. Check this out. Bombing Iran is the perfect way to celebrate pride."
+      "transcript_snippet": "this is a real headline that was published in Spectator US. Check this out. Bombing Iran is the perfect way to celebrate pride.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2020,7 +2080,9 @@
       "transcript_snippet": "Tel Aviv's annual celebration of gayness has once again turned into an opportunity to bomb one of the world's most viciously anti-gay regimes,",
       "mentions_person_refs": [
         "N-10026"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2044,7 +2106,9 @@
         "N-159",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2070,7 +2134,9 @@
         "N-159",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2094,7 +2160,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2116,7 +2184,9 @@
         "N-14",
         "N-159",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2139,7 +2209,9 @@
         "N-14",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2157,7 +2229,9 @@
       "transcript_snippet": "They send out Blake Neff because he's not an official uh he's he's not at all actually an employee of Turning Point USA.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2175,7 +2249,9 @@
       "transcript_snippet": "The prime minister is considered the biggest anti-Albanian in the entire history of Albania. He is selling our land and sea to neighboring countries.",
       "mentions_person_refs": [
         "N-664"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2195,7 +2271,9 @@
       "transcript_snippet": "You did a whole article and brought in Daily Mail reporters and said you couldn't release it because you were protecting the donors. I revealed the donors' names yesterday.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2216,7 +2294,9 @@
       "transcript_snippet": "he has this article from Haaretz, that's an Israeli uh publication, and it says, \"What if Albania had become the Jewish state?\"",
       "mentions_person_refs": [
         "N-10026"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2231,7 +2311,9 @@
       "tags": [],
       "claim_timestamp": "00:39:38",
       "investigative_direction": "Consult histories of the 1903 Uganda Scheme and other proposed territories.",
-      "transcript_snippet": "Yeah, it wasn't just Albania they were looking at. They also went to look in Africa."
+      "transcript_snippet": "Yeah, it wasn't just Albania they were looking at. They also went to look in Africa.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2244,7 +2326,9 @@
       "tags": [],
       "claim_timestamp": "00:40:14",
       "investigative_direction": "Consult academic histories of the Khazar Khaganate's fall (e.g. Sviatoslav I's 965 campaign).",
-      "transcript_snippet": "Actually, it was two countries that took out the Khazarian Empire. It was Russia and Persia."
+      "transcript_snippet": "Actually, it was two countries that took out the Khazarian Empire. It was Russia and Persia.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2266,7 +2350,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2282,7 +2368,9 @@
       "transcript_snippet": "I was over in Russia when that whole thing broke, obviously, so I wasn't able to respond and share the video.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2304,7 +2392,9 @@
       "mentions_person_refs": [
         "N-433",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2326,7 +2416,9 @@
       "mentions_person_refs": [
         "N-433",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2439,9 @@
       "transcript_snippet": "He stops in Tucson, and then he goes to Fort Huachuca on the 8th.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2370,7 +2464,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2393,7 +2489,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -1394,6 +1394,7 @@ Anchored Artifacts: A-3030.1
 Related Nodes: N-10259, N-10239
 Supports: C-3185
 Tags: relevance:core
+Revises: C-3185
 Investigative Direction: Pull ADS-B and FAA records for SU-BTT's July 2025 Omaha and Lincoln movements.
 
 ---

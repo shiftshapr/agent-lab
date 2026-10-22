@@ -1023,6 +1023,8 @@ Transcript Snippet: He didn't even get hired to work with Charlie at all in any 
 Anchored Artifacts: 
 Mentions: N-159, N-1
 Related Nodes: N-10975, N-10006
+Verification: revised-by-host
+Verification Evidence: C-12638, C-12779
 Investigative Direction: Neff's employment history (Fox News departure, hiring date at Turning Point or the Charlie Kirk Show) from his own statements, press coverage and payroll or contract records.
 
 ---

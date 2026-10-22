@@ -1,0 +1,457 @@
+[
+ {
+  "later": "C-2326",
+  "earlier": "C-1913",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2364",
+  "earlier": "C-1971",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2398",
+  "earlier": "C-1396",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2410",
+  "earlier": "C-1809",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2414",
+  "earlier": "C-2240",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2436",
+  "earlier": "C-1376",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2463",
+  "earlier": "C-1376",
+  "relation": "revises",
+  "delta": "Earlier: WSJ photo shoot a literal week after Charlie's death, over the memorial at the office. Later: a couple of days after, standing outside.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-2466",
+  "earlier": "C-2267",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-2507",
+  "earlier": "C-1517",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2507",
+  "earlier": "C-2131",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2507",
+  "earlier": "C-1684",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2507",
+  "earlier": "C-855",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2507",
+  "earlier": "C-86",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2532",
+  "earlier": "C-2461",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2560",
+  "earlier": "C-1120",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2560",
+  "earlier": "C-1886",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2584",
+  "earlier": "C-2086",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2596",
+  "earlier": "C-2093",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2601",
+  "earlier": "C-2249",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2610",
+  "earlier": "C-2461",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2640",
+  "earlier": "C-2604",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2640",
+  "earlier": "C-2493",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2658",
+  "earlier": "C-935",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2675",
+  "earlier": "C-2093",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2675",
+  "earlier": "C-2094",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2681",
+  "earlier": "C-1684",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2690",
+  "earlier": "C-2169",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2700",
+  "earlier": "C-2248",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2708",
+  "earlier": "C-864",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2771",
+  "earlier": "C-2585",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2774",
+  "earlier": "C-2690",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2791",
+  "earlier": "C-543",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-2895",
+  "earlier": "C-2068",
+  "relation": "qualifies",
+  "delta": "Earlier: tweet flagged the Egyptian plane leaving on the morning of the assassination. Later: concedes the tweet got the time zone wrong by a couple of hours.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2933",
+  "earlier": "C-1574",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2952",
+  "earlier": "C-901",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2992",
+  "earlier": "C-2113",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-3103",
+  "earlier": "C-2377",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3155",
+  "earlier": "C-2933",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3155",
+  "earlier": "C-1574",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3163",
+  "earlier": "C-472",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3182",
+  "earlier": "C-2778",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3182",
+  "earlier": "C-2120",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3191",
+  "earlier": "C-2671",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3192",
+  "earlier": "C-2681",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3192",
+  "earlier": "C-79",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3193",
+  "earlier": "C-841",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3193",
+  "earlier": "C-2134",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3200",
+  "earlier": "C-2816",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3212",
+  "earlier": "C-3012",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3224",
+  "earlier": "C-130",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-3250",
+  "earlier": "C-3100",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3268",
+  "earlier": "C-3185",
+  "relation": "revises",
+  "delta": "Earlier: SUBTT's longest stay on the July trip was in Wilmington. Later (explicit correction): only one night in Wilmington; longest stretch was in Nebraska.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3277",
+  "earlier": "C-1873",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3277",
+  "earlier": "C-1875",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3278",
+  "earlier": "C-1879",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3278",
+  "earlier": "C-1878",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3279",
+  "earlier": "C-1860",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3285",
+  "earlier": "C-2690",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3285",
+  "earlier": "C-2774",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-3287",
+  "earlier": "C-1180",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-3328",
+  "earlier": "C-1930",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3351",
+  "earlier": "C-1655",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3357",
+  "earlier": "C-3052",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3358",
+  "earlier": "C-3168",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3359",
+  "earlier": "C-3167",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3361",
+  "earlier": "C-3159",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3361",
+  "earlier": "C-3255",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3381",
+  "earlier": "C-3200",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3383",
+  "earlier": "C-1930",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3388",
+  "earlier": "C-3195",
+  "relation": "revises",
+  "delta": "Earlier: Brigitte Macron opened Paris Design Week on September 3, 2025. Later: on (she believes) September 4.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3399",
+  "earlier": "C-2933",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3430",
+  "earlier": "C-3372",
+  "relation": "revises",
+  "delta": "Earlier: 500 North Delaware Ave (FBI) is somehow owned by France. Later: the FBI suite building is owned by the Wilmington Trust.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-3430",
+  "earlier": "C-3078",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-3437",
+  "earlier": "C-1720",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3439",
+  "earlier": "C-3386",
+  "relation": "supports",
+  "confidence": "medium"
+ }
+]

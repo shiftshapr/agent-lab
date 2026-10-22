@@ -1818,6 +1818,7 @@ Transcript Snippet: You look at her background, Miss Miss Universe and Miss page
 Anchored Artifacts: 
 Mentions: N-5, N-2, N-1
 Related Nodes: N-10908
+Revises: C-6834
 Investigative Direction: Match the dates of Erika Kirk's pageant titles against the Trump/NBC co-ownership period of the Miss Universe Organization.
 
 ---

@@ -882,6 +882,8 @@ Anchored Artifacts:
 Mentions: N-17
 Related Nodes: N-10159
 Tags: relevance:context
+Verification: revised-by-host
+Verification Evidence: C-4077
 Investigative Direction: Request TPUSA Faith contracts, speaker agreements or IRS Form 990 compensation disclosures showing payments to McCoy.
 
 ---
@@ -1120,6 +1122,8 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10193
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-11561
 Investigative Direction: Check parish and cemetery records, the funeral program and public notices for the rite and burial location.
 
 ---

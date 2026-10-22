@@ -1561,6 +1561,9 @@ Anchored Artifacts: A-2167.1
 Mentions: N-367, N-190, N-217, N-17
 Related Nodes: N-10674
 Tags: relevance:core
+Revises: C-4110
+Verification: revised-by-host
+Verification Evidence: C-12099
 Investigative Direction: Obtain the call detail record showing which number placed the Philip-McCoy call and when it started and ended.
 
 ---

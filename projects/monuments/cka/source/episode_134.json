@@ -3253,6 +3253,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11567"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Pull the filed memorandum from the court docket and identify which party filed it and when."
     },
@@ -4300,6 +4308,10 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Revises",
+     "v": "C-5717"
     },
     {
      "k": "Investigative Direction",
@@ -5847,6 +5859,10 @@
      "v": "relevance:core"
     },
     {
+     "k": "Revises",
+     "v": "C-1974"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare the family's stated reasons for the Catholic mass with the parish record."
     },
@@ -6886,6 +6902,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11581"
     },
     {
      "k": "Investigative Direction",

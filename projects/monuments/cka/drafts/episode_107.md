@@ -974,6 +974,8 @@ Transcript Snippet: At 18, Victor joined the Marine Corps, served for 2 years be
 Anchored Artifacts: 
 Mentions: N-341, N-3
 Related Nodes: N-10551
+Verification: revised-by-host
+Verification Evidence: C-9409
 Investigative Direction: Obtain Marx's DD-214 for enlistment and separation dates.
 
 ---
@@ -1018,6 +1020,7 @@ Transcript Snippet: In 2023, Eileen's brother, Kenneth Breining, tried to shoot 
 
 Anchored Artifacts: 
 Mentions: N-726, N-343, N-341
+Revises: C-8138
 Investigative Direction: Obtain the sheriff's incident report and court file for the 2023 shooting.
 
 ---

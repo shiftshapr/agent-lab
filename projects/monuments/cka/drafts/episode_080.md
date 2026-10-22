@@ -2033,6 +2033,7 @@ Anchored Artifacts:
 Mentions: N-36, N-3
 Related Nodes: N-10499
 Tags: relevance:tangential
+Revises: C-7119
 Investigative Direction: Compare with verifiable public appearances of Netanyahu after March 11.
 
 ---

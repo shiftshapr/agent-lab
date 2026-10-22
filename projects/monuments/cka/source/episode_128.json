@@ -4681,6 +4681,10 @@
      "raw": ""
     },
     {
+     "k": "Revises",
+     "v": "C-7806"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm via hospital press releases and board minutes."
     },
@@ -8956,6 +8960,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11750"
     },
     {
      "k": "Investigative Direction",

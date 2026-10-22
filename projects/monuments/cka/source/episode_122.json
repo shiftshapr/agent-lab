@@ -6501,6 +6501,14 @@
      "v": "relevance:context"
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11486"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Locate the court or investigative document that describes the triplets allegation."
     },
@@ -8979,6 +8987,10 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Revises",
+     "v": "C-4433"
     },
     {
      "k": "Investigative Direction",

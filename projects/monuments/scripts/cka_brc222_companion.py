@@ -176,6 +176,7 @@ class ClaimRec:
     qualifies: list[str] = field(default_factory=list)
     refutes: list[str] = field(default_factory=list)
     source: str = ""
+    verification_status: str = "unverified"
 
 
 @dataclass
@@ -327,6 +328,7 @@ def parse_inscription(path: Path) -> tuple[int, list[ClaimRec], list[ArtifactRec
                 body=str(cl.get("claim") or ""),
                 episode=episode,
                 anchored_artifacts=[str(x) for x in (cl.get("anchored_artifacts") or [])],
+                verification_status=str(cl.get("verification_status") or "unverified"),
                 revises=[str(x) for x in (cl.get("revises_claim_refs") or [])],
                 contradicts=[str(x) for x in (cl.get("contradicts_claim_refs") or [])],
                 supports=[str(x) for x in (cl.get("supports_claim_refs") or [])],
@@ -385,6 +387,7 @@ def merge_claims(primary: ClaimRec, secondary: ClaimRec) -> ClaimRec:
         qualifies=prefer(primary.qualifies, secondary.qualifies),
         refutes=prefer(primary.refutes, secondary.refutes),
         source=primary.source or secondary.source,
+        verification_status=(primary.verification_status if primary.verification_status != "unverified" else secondary.verification_status),
     )
 
 
@@ -427,6 +430,7 @@ def load_cka_corpus(cka_root: Path) -> tuple[dict[str, ClaimRec], dict[str, Arti
                         qualifies=c.qualifies or base.qualifies,
                         refutes=c.refutes or base.refutes,
                         source=c.source,
+                        verification_status=base.verification_status,
                     )
                 else:
                     claims[c.claim_id] = c
@@ -753,6 +757,7 @@ def build_package(
                 "label": c.label,
                 "node_kind": "claim",
                 "episode": c.episode,
+                "verification_status": c.verification_status,
             }
         )
     for a in sorted(artifacts.values(), key=lambda x: x.artifact_id):

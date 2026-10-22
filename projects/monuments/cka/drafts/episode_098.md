@@ -1472,6 +1472,8 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10821
 Tags: relevance:context
+Verification: revised-by-host
+Verification Evidence: C-8914
 Investigative Direction: Check dated announcements or reports on the Bentkey shutdown and the end of the sports programming.
 
 ---
