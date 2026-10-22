@@ -1026,6 +1026,7 @@ Mentions: N-3, N-1, N-22, N-36
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Locate Tucker Carlson's own accounts of his June 2025 conversations with Kirk and any message records between Kirk and Trump circle figures.
+Open Questions: Q-491
 
 ---
 
@@ -1042,6 +1043,7 @@ Mentions: N-3, N-1, N-5
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Seek contemporaneous reporting, Kirk show audio from June 2025, or Trump-circle accounts of Kirk's advice before the strikes.
+Open Questions: Q-491
 
 ---
 
@@ -1059,6 +1061,7 @@ Related Nodes: N-10494
 Supports: C-4987
 Tags: relevance:core
 Investigative Direction: Compare against the dated Kirk audio the host plays and against other recorded Kirk statements on Iran.
+Open Questions: Q-491
 
 ---
 
@@ -1151,6 +1154,7 @@ Mentions: N-3
 Related Nodes: N-10292, N-10071
 Tags: relevance:core
 Investigative Direction: Compare arrival dates of the SUBND and SUBTU aircraft at Provo and other U.S. stops across 2022 to 2025 flight data.
+Open Questions: Q-236
 
 ---
 
@@ -1168,6 +1172,7 @@ Related Nodes: N-10292, N-10071
 Supports: C-3623
 Tags: relevance:core
 Investigative Direction: Pull ADS-B Exchange and Flightradar24 history for SU-BTU for May and June 2025 and compare with any Provo airport logs.
+Open Questions: Q-492
 
 ---
 
@@ -1185,6 +1190,7 @@ Related Nodes: N-10292, N-10291
 Supports: C-3622, C-3623
 Tags: relevance:core
 Investigative Direction: Obtain the manifests or FBO records for both flights and the exact spelling of the passenger name on each.
+Open Questions: Q-492
 
 ---
 
@@ -1201,6 +1207,7 @@ Mentions: N-3
 Related Nodes: N-10071, N-10292
 Tags: relevance:core
 Investigative Direction: Ask the host for the confirming source; compare with Provo airport and FBO records.
+Open Questions: Q-492
 
 ---
 
@@ -1218,6 +1225,7 @@ Related Nodes: N-10292
 Qualifies: C-4995
 Tags: relevance:core
 Investigative Direction: Look for arrival records at DC-area airports for an Egyptian-registered aircraft between June 2 and June 4, 2025.
+Open Questions: Q-492
 
 ---
 
@@ -1267,6 +1275,7 @@ Related Nodes: N-10997, N-10494
 Supports: C-4985
 Tags: relevance:core
 Investigative Direction: Find dated Kirk show segments or messages from June 14 to 21, 2025 that show his position before the strikes.
+Open Questions: Q-491
 
 ---
 
@@ -1284,6 +1293,7 @@ Related Nodes: N-10385
 Supports: C-5005
 Tags: relevance:core
 Investigative Direction: Obtain the Social Blade history and any archived copies of the deleted posts; look for dated travel by the Kirks around June 19.
+Open Questions: Q-493
 
 ---
 
@@ -1347,6 +1357,7 @@ Mentions: N-3, N-1, N-36
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: This is an inference about who benefited; compare with documented Kirk and Netanyahu exchanges and with the host's earlier claims on Netanyahu's offer to Kirk.
+Open Questions: Q-6, Q-491
 
 ---
 
@@ -1641,6 +1652,7 @@ Related Nodes: N-10347, N-10390, N-11254
 Supports: C-4465
 Tags: relevance:core
 Investigative Direction: Clarify whether the host now regards the Snow account as disinformation or a coordinated pile-on; compare with her earlier statements on Snow's credibility and any corroboration of the sightings.
+Open Questions: Q-441
 
 ---
 
@@ -1674,6 +1686,7 @@ Related Nodes: N-11119, N-11256, N-10384, N-10371
 Supports: C-4751
 Tags: relevance:core
 Investigative Direction: Archive the TPUSA Faith tour page and Harvest event listing; confirm the date, venue and whether the event occurred.
+Open Questions: Q-494
 
 ---
 

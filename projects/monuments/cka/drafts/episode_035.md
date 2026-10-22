@@ -1117,6 +1117,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10239, N-10250
 Tags: relevance:core
 Investigative Direction: Obtain the original email with its received date and compare it with the first episode in which the host tied the Egyptian planes to Erika Kirk and Charlie Kirk.
+Open Questions: Q-236
 
 ---
 
@@ -1133,6 +1134,7 @@ Mentions: N-3
 Related Nodes: N-10250, N-10612
 Tags: relevance:core
 Investigative Direction: Pull the full SUBTT flight history from independent ADS-B and FAA sources and count Wilmington stops and ground times.
+Open Questions: Q-331
 
 ---
 
@@ -1150,6 +1152,7 @@ Related Nodes: N-10250, N-10071
 Supports: C-2139
 Tags: relevance:core
 Investigative Direction: Compare the September 4 Provo arrival record for SUBTT with the September 10 departure record to confirm it is the same airframe and passenger count.
+Open Questions: Q-277
 
 ---
 
@@ -1167,6 +1170,7 @@ Related Nodes: N-10250
 Supports: C-3052
 Tags: relevance:core
 Investigative Direction: Check the SUBTT wheels-down time at Wilmington against the shooting time established in the official timeline.
+Open Questions: Q-277
 
 ---
 
@@ -1183,6 +1187,7 @@ Mentions: N-3
 Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the agencies and offices consulted, or have independent sources with access to the same agencies test the email's premises.
+Open Questions: Q-315
 
 ---
 
@@ -1199,6 +1204,7 @@ Mentions: N-3
 Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Request the names, roles or agencies of the vetting sources, or independent corroboration of the email's central claims.
+Open Questions: Q-315
 
 ---
 
@@ -1215,6 +1221,7 @@ Mentions: N-3
 Related Nodes: N-10250, N-11076, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain Wilmington airport and hangar service records for SUBTT and compare with the flight timeline.
+Open Questions: Q-331
 
 ---
 
@@ -1231,6 +1238,7 @@ Mentions: N-3
 Related Nodes: N-10250
 Tags: relevance:core
 Investigative Direction: Ask CBP, FAA and Wilmington airport authorities how diplomatic arrivals are logged and whether SUBTT's September 10 arrival appears.
+Open Questions: Q-332
 
 ---
 
@@ -1247,6 +1255,7 @@ Mentions: N-3
 Related Nodes: N-11077
 Tags: relevance:core
 Investigative Direction: Identify the redacted entity from the original email and seek airport gate logs or vehicle access records.
+Open Questions: Q-332
 
 ---
 
@@ -1263,6 +1272,7 @@ Mentions: N-3
 Related Nodes: N-11077
 Tags: relevance:core
 Investigative Direction: Obtain Wilmington airport security and tenant rules on gate access for foreign government aircraft.
+Open Questions: Q-332
 
 ---
 
@@ -1279,6 +1289,7 @@ Mentions: N-3
 Related Nodes: N-11077, N-10249
 Tags: relevance:core
 Investigative Direction: Seek airport gate logs, camera footage or witness statements for vehicle movements at SUBTT's Wilmington arrival on September 10, 2025.
+Open Questions: Q-332
 
 ---
 
@@ -1311,6 +1322,7 @@ Mentions: N-3
 Related Nodes: N-11077
 Tags: relevance:core
 Investigative Direction: Seek Delaware DMV or toll-camera plate records for vehicles at the airport on September 10, 2025.
+Open Questions: Q-332
 
 ---
 
@@ -1327,6 +1339,7 @@ Mentions: N-3
 Related Nodes: N-10250, N-10249
 Tags: relevance:core
 Investigative Direction: Look for any record of where SUBTT passengers went after landing, such as hotel, ground transport or building access logs.
+Open Questions: Q-332
 
 ---
 
@@ -1343,6 +1356,7 @@ Mentions: N-3
 Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Seek on-record or documentary confirmation from any insider named in the email chain; treat the claim as unverified until then.
+Open Questions: Q-332
 
 ---
 
@@ -1360,6 +1374,7 @@ Related Nodes: N-10249, N-10832
 Supports: C-3068
 Tags: relevance:core
 Investigative Direction: Retrieve the Secret Service 2025 field office list and the DEA directory entry for Wilmington and compare addresses and suite numbers.
+Open Questions: Q-333
 
 ---
 
@@ -1377,6 +1392,7 @@ Related Nodes: N-10249
 Supports: C-3067
 Tags: relevance:core
 Investigative Direction: Review GSA lease and building tenant records for 920 North King Street from 1997 to date.
+Open Questions: Q-333
 
 ---
 
@@ -1426,6 +1442,7 @@ Related Nodes: N-10253, N-11076
 Supports: C-3073
 Tags: relevance:core
 Investigative Direction: Confirm the closure date through Dassault Falcon service-center listings and Wilmington airport tenant records.
+Open Questions: Q-334
 
 ---
 
@@ -1459,6 +1476,7 @@ Mentions: N-3
 Related Nodes: N-10253, N-11076, N-10250
 Tags: relevance:core
 Investigative Direction: Line up SUBTT's France stops and Wilmington stops against the January 2024 DRBA resolution and December 2024 SATYS announcement.
+Open Questions: Q-331, Q-334
 
 ---
 
@@ -1476,6 +1494,7 @@ Related Nodes: N-10249, N-10271, N-10014
 Supports: C-3068
 Tags: relevance:core
 Investigative Direction: Archive current and historical Google Business and FBI field office listings for both Wilmington addresses.
+Open Questions: Q-333
 
 ---
 
@@ -1493,6 +1512,7 @@ Related Nodes: N-10249, N-10832, N-10014
 Supports: C-3068
 Tags: relevance:core
 Investigative Direction: Survey federal multi-agency leased suites through GSA and agency directories to test whether the arrangement is unusual.
+Open Questions: Q-333
 
 ---
 
@@ -1559,6 +1579,7 @@ Mentions: N-3
 Related Nodes: N-11077, N-10249, N-10250
 Tags: relevance:core
 Investigative Direction: Seek camera, toll or witness evidence of vehicle movements between the airport and 920 North King Street on September 10, 2025.
+Open Questions: Q-332
 
 ---
 
@@ -1592,6 +1613,7 @@ Mentions: N-3
 Related Nodes: N-10612, N-10071, N-10250
 Tags: relevance:core
 Investigative Direction: Compile the dated SUBTT stops in each listed city from independent flight data and check for Egyptian diplomatic or business presence there.
+Open Questions: Q-335
 
 ---
 
@@ -1608,6 +1630,7 @@ Mentions: N-3
 Related Nodes: N-10249, N-10250
 Tags: relevance:core
 Investigative Direction: Test alternative explanations such as maintenance, fueling or crew rest against flight and ground-time data.
+Open Questions: Q-331
 
 ---
 
@@ -1624,6 +1647,7 @@ Mentions: N-69, N-3
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Establish what the host means by out, with the dated FBI personnel record, and what link she draws to the Wilmington site.
+Open Questions: Q-315, Q-336
 
 ---
 
@@ -1640,6 +1664,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10002
 Tags: relevance:core
 Investigative Direction: Ask the host which friends she means and what evidence of approval she relies on; no evidence is presented in this episode.
+Open Questions: Q-309
 
 ---
 
@@ -1656,6 +1681,7 @@ Mentions: N-3
 Related Nodes: N-10249, N-10250, N-10014, N-10832
 Tags: relevance:core
 Investigative Direction: Demand documentary proof tying SUBTT's passengers to the tenants at 920 North King Street.
+Open Questions: Q-332
 
 ---
 
@@ -1672,6 +1698,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Request any contracts, grants or budget lines the host believes fund such an operation; none is cited.
+Open Questions: Q-316, Q-322
 
 ---
 
@@ -1688,6 +1715,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10044, N-10002
 Tags: relevance:core
 Investigative Direction: Identify what Charlie Kirk is alleged to have learned, using his messages, meetings and the donor-pressure record.
+Open Questions: Q-337
 
 ---
 
@@ -1705,6 +1733,7 @@ Related Nodes: N-10241, N-10071
 Supports: C-2937, C-3009
 Tags: relevance:core
 Investigative Direction: Match the tail number and manifest of this flight, which the host later ties to T.W. Lewis, with FAA and FlightAware history.
+Open Questions: Q-338
 
 ---
 
@@ -1722,6 +1751,7 @@ Related Nodes: N-10241
 Supports: C-2937
 Tags: relevance:core
 Investigative Direction: Check the Santa Barbara turnaround time and passengers using airport and FBO records.
+Open Questions: Q-338
 
 ---
 
@@ -1738,6 +1768,7 @@ Mentions: N-3
 Related Nodes: N-10241, N-10000
 Tags: relevance:core
 Investigative Direction: Archive the foundation website and check Form 990 filings for grants to Turning Point USA.
+Open Questions: Q-338
 
 ---
 
@@ -1754,6 +1785,7 @@ Mentions: N-3
 Related Nodes: N-10241
 Tags: relevance:core
 Investigative Direction: Identify the tail number, operator and passengers for the Beechcraft departure.
+Open Questions: Q-339
 
 ---
 
@@ -1771,6 +1803,7 @@ Related Nodes: N-10979
 Supports: C-2144
 Tags: relevance:core
 Investigative Direction: Compare with the N102DZ flight records and the Restaurantology interview schedule.
+Open Questions: Q-325, Q-340
 
 ---
 
@@ -1788,6 +1821,7 @@ Related Nodes: N-10214, N-10241
 Supports: C-2145
 Tags: relevance:core
 Investigative Direction: Obtain the charter or ownership record, the passenger manifest and any records of who arranged the post-shooting routing.
+Open Questions: Q-212, Q-340
 
 ---
 
@@ -1821,6 +1855,7 @@ Related Nodes: N-10241
 Supports: C-2937
 Tags: relevance:core
 Investigative Direction: Identify the aircraft and passengers on the 2:19 p.m. Santa Barbara departure.
+Open Questions: Q-339
 
 ---
 
@@ -1837,6 +1872,7 @@ Mentions: N-3, N-14, N-186, N-217, N-11, N-2
 Related Nodes: N-10241
 Tags: relevance:core
 Investigative Direction: Match each named person to a specific flight with manifests or credible travel accounts; the host does not say which plane carried whom.
+Open Questions: Q-339, Q-341
 
 ---
 
@@ -1853,6 +1889,7 @@ Mentions: N-3, N-217
 Related Nodes: N-10214, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the source and timing of the account and compare with Mikey McCoy's post-shooting call log.
+Open Questions: Q-341
 
 ---
 
@@ -1869,6 +1906,7 @@ Mentions: N-3, N-190, N-217
 Related Nodes: N-10214, N-10000
 Tags: relevance:core
 Investigative Direction: Compare phone records with the 12:23 shooting time and map the HQ-to-airport drive time.
+Open Questions: Q-212, Q-341
 
 ---
 
@@ -1885,6 +1923,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: dia, relevance:core
 Investigative Direction: Collect and verify tips received through the tip line against interview transcripts and timestamps.
+Open Questions: Q-341
 
 ---
 
@@ -1903,6 +1942,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-10336
 Investigative Direction: Compare Turek's accounts of the SUV and hospital with other eyewitness statements.
+Open Questions: Q-228
 
 ---
 
@@ -1968,6 +2008,7 @@ Mentions: N-7, N-1
 Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Obtain the full clip and ask Turek whether he raised the concern with security staff.
+Open Questions: Q-342, Q-343
 
 ---
 
@@ -1986,6 +2027,7 @@ Supports: C-3110
 Contradicts: C-3106
 Tags: relevance:core
 Investigative Direction: Obtain drone logs, FAA airspace restrictions and TPUSA security records for September 10, 2025; reconcile with Harpole's statement that drones were not allowed.
+Open Questions: Q-342
 
 ---
 
@@ -2002,6 +2044,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10251
 Tags: relevance:core
 Investigative Direction: Publish the list with each item's source so every entry can be checked independently.
+Open Questions: Q-306
 
 ---
 
@@ -2019,6 +2062,7 @@ Related Nodes: N-10150, N-10216
 Supports: C-1162
 Tags: relevance:core
 Investigative Direction: Review the Utah statute on autopsy report release and any waiver or request Erika Kirk has filed.
+Open Questions: Q-149
 
 ---
 
@@ -2052,6 +2096,7 @@ Related Nodes: N-10172, N-10081
 Supports: C-3115
 Tags: relevance:core
 Investigative Direction: Compare the autopsy findings, recovered bullet and ATF analysis with the caliber alleged.
+Open Questions: Q-322
 
 ---
 
@@ -2069,6 +2114,7 @@ Related Nodes: N-10172, N-10081
 Supports: C-3115
 Tags: relevance:core
 Investigative Direction: Obtain the wound path from the autopsy, shot distance data and ballistic energy calculations for the alleged rifle and cartridge.
+Open Questions: Q-149, Q-322
 
 ---
 
@@ -2197,6 +2243,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10002
 Tags: relevance:core
 Investigative Direction: Ask the host what evidence indicates a decision-maker chose a public killing.
+Open Questions: Q-309
 
 ---
 
@@ -2213,6 +2260,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10002
 Tags: relevance:core
 Investigative Direction: Request evidence of any funded messaging campaign; none is cited.
+Open Questions: Q-316
 
 ---
 
@@ -2229,6 +2277,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10044
 Tags: relevance:core
 Investigative Direction: Identify the donors and dated communications showing anger or pressure, as in the host's earlier episodes.
+Open Questions: Q-6
 
 ---
 
@@ -2262,6 +2311,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask the host to specify who infiltrated TPUSA and by what means; no documents are shown here.
+Open Questions: Q-309, Q-337
 
 ---
 
@@ -2295,6 +2345,7 @@ Related Nodes: N-10044
 Supports: C-386
 Tags: relevance:core
 Investigative Direction: Seek the donor communications and dated threats that the host's sources describe.
+Open Questions: Q-6
 
 ---
 
@@ -2404,6 +2455,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Identify the people and dated messages in which the host warned Charlie.
+Open Questions: Q-344
 
 ---
 
@@ -2420,6 +2472,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10044
 Tags: relevance:core
 Investigative Direction: Compare with donor correspondence and TPUSA fundraising records.
+Open Questions: Q-6
 
 ---
 
@@ -2500,6 +2553,7 @@ Related Nodes: N-10253, N-10297
 Supports: C-3073
 Tags: relevance:core
 Investigative Direction: Trace SATYS ownership and any ties to French state entities, and compare the deal dates with SUBTT's France trips.
+Open Questions: Q-334
 
 ---
 
@@ -2516,6 +2570,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10297, N-10239
 Tags: relevance:core
 Investigative Direction: Ask the host to list the evidence supporting an international operation and test each piece independently.
+Open Questions: Q-309
 
 ---
 
@@ -2532,6 +2587,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10404, N-10127
 Tags: relevance:core
 Investigative Direction: Review Charlie Kirk's DOGE department plans and its audit scope.
+Open Questions: Q-308
 
 ---
 

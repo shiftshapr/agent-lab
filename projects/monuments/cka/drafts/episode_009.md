@@ -1083,6 +1083,7 @@ Related Nodes: N-10014, N-10105
 Supports: C-743
 Tags: relevance:core
 Investigative Direction: Identify the host's source and request FBI and Utah County Attorney communications about case closure (GRAMA or FOIA) to confirm or refute the stated rationale.
+Open Questions: Q-90
 
 ---
 
@@ -1099,6 +1100,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Identify and interview the roof-video filmer (the host has not named him); compare his account with the FBI's description of the suspect.
+Open Questions: Q-84
 
 ---
 
@@ -1115,6 +1117,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10095, N-10106
 Tags: relevance:core
 Investigative Direction: Verify the witness's firearms background through the host's source; the FBI's 302 or trial witness list would show whether he is slated to testify.
+Open Questions: Q-75, Q-84
 
 ---
 
@@ -1134,6 +1137,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-11
 Investigative Direction: Read the Utah charging documents and probable-cause statement for the stated roof-drop time and its source.
+Open Questions: Q-83
 
 ---
 
@@ -1153,6 +1157,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-3, S-5
 Investigative Direction: Check the court docket and defense filings for any statement or confession attributed to Robinson.
+Open Questions: Q-91
 
 ---
 
@@ -1169,6 +1174,7 @@ Mentions: N-3, N-37, N-40
 Related Nodes: N-10022, N-10021
 Tags: relevance:core
 Investigative Direction: Obtain the reward announcement, the sheriff's and Governor's timeline of the surrender, and the charging documents to compare with the host's recap.
+Open Questions: Q-34
 
 ---
 
@@ -1185,6 +1191,7 @@ Mentions: N-3
 Related Nodes: N-10014, N-10105
 Tags: relevance:core
 Investigative Direction: Treat as the host's inference; any support would have to come from FBI records or sourced documents showing advance warning, which the host does not cite.
+Open Questions: Q-21, Q-92
 
 ---
 
@@ -1202,6 +1209,7 @@ Related Nodes: N-10106
 Supports: C-756
 Tags: relevance:core
 Investigative Direction: Obtain the forensic print report in discovery or court filings and the count of unidentified latent prints.
+Open Questions: Q-93
 
 ---
 
@@ -1218,6 +1226,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Identify the unnamed ground-level sources; canvass the neighborhood and check the Cox statements and charging documents on where the rifle was left.
+Open Questions: Q-20, Q-21, Q-94
 
 ---
 
@@ -1235,6 +1244,7 @@ Related Nodes: N-10102
 Supports: C-715
 Tags: relevance:core
 Investigative Direction: Locate the clip aired in the previous episode and its original source and date; ask who pressured Kirk over the friendship.
+Open Questions: Q-6
 
 ---
 
@@ -1412,6 +1422,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Treat as the host's intuition; identify what, if anything, she was told and by whom.
+Open Questions: Q-21
 
 ---
 
@@ -1607,6 +1618,7 @@ Related Nodes: N-10108
 Supports: C-773
 Tags: relevance:core
 Investigative Direction: Evidence of more than one participant would be found in the investigative record; the host cites none here.
+Open Questions: Q-21
 
 ---
 
@@ -1740,6 +1752,7 @@ Related Nodes: N-10014, N-10105
 Supports: C-743
 Tags: relevance:core
 Investigative Direction: Name the journalists and the officials alleged to be pressured; request the relevant FBI communications.
+Open Questions: Q-92
 
 ---
 
@@ -1904,6 +1917,7 @@ Related Nodes: N-10113
 Supports: C-810
 Tags: relevance:core
 Investigative Direction: Ask the Kirk family or the priest, and compare against the Sept 9 evening timeline in other episodes.
+Open Questions: Q-95
 
 ---
 
@@ -1952,6 +1966,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Ask the host what record establishes more than one participant; compare with Kash Patel's remarks and the charging documents.
+Open Questions: Q-21
 
 ---
 
@@ -2141,6 +2156,7 @@ Related Nodes: N-10106
 Supports: C-829
 Tags: relevance:core
 Investigative Direction: Ask Natalie for the video; identify the filer and obtain the police intake record.
+Open Questions: Q-96
 
 ---
 
@@ -2158,6 +2174,7 @@ Related Nodes: N-10106
 Supports: C-829
 Tags: relevance:core, calls_for_tips
 Investigative Direction: Verify the video if sent; the tips address is spelled as transcribed and corrects to the show's candaceowens.com tips address.
+Open Questions: Q-96
 
 ---
 
@@ -2174,6 +2191,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10062, N-10106
 Tags: relevance:core
 Investigative Direction: Compare with the full set of releases from Caldera Engineering and the FBI.
+Open Questions: Q-96
 
 ---
 

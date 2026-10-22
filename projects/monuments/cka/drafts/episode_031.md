@@ -1334,6 +1334,7 @@ Anchored Artifacts:
 Mentions: N-7, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Compare the host's description with UVU event video and with Turek's own accounts of where he stood, who he helped move and when he reached the hospital.
+Open Questions: Q-228
 
 ---
 
@@ -1397,6 +1398,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compile the host's published timelines and her list of TPUSA discrepancies and check each against the primary records she cites.
+Open Questions: Q-306
 
 ---
 
@@ -1427,6 +1429,7 @@ Anchored Artifacts:
 Mentions: N-7, N-3
 Tags: relevance:core
 Investigative Direction: Ask the host's team for the invitation and any reply from Turek, and check whether he accepted or declined.
+Open Questions: Q-307
 
 ---
 
@@ -1444,6 +1447,7 @@ Related Nodes: N-10185, N-10404
 Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Request Mikey McCoy's call logs for September 10, 2025 and ask TPUSA to describe the DOGE committee Kirk reportedly planned.
+Open Questions: Q-212, Q-307, Q-308
 
 ---
 
@@ -1459,6 +1463,7 @@ Anchored Artifacts:
 Mentions: N-40, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Test the lone-shooter account against the Utah charging documents, rifle forensics and Robinson's surveillance record.
+Open Questions: Q-309
 
 ---
 
@@ -1475,6 +1480,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: List the specific statements the host calls lies and match each against the record she cites.
+Open Questions: Q-306, Q-307
 
 ---
 
@@ -1490,6 +1496,7 @@ Anchored Artifacts:
 Mentions: N-7, N-3
 Tags: relevance:core
 Investigative Direction: Compare with earlier episodes that questioned Turek's account (for example the CPR and hospital claims) to see whether this characterization holds.
+Open Questions: Q-228, Q-306
 
 ---
 
@@ -1956,6 +1963,7 @@ Mentions: N-3
 Related Nodes: N-10201, N-10237, N-10371
 Tags: relevance:core
 Investigative Direction: Establish dates for TPUSA Faith's formation, leadership and funding and compare with TPUSA's earlier programming.
+Open Questions: Q-310
 
 ---
 
@@ -1972,6 +1980,7 @@ Mentions: N-17, N-3
 Related Nodes: N-10159
 Tags: relevance:core
 Investigative Direction: List the specific McCoy statements the host says are false and the records that contradict them.
+Open Questions: Q-306
 
 ---
 
@@ -1988,6 +1997,7 @@ Mentions: N-3, N-22
 Related Nodes: N-10134
 Tags: relevance:core
 Investigative Direction: Collect the pastors' sermons and statements about Owens and Carlson and test the claim that Calvary Chapel pastors were the most frequent critics.
+Open Questions: Q-311
 
 ---
 
@@ -2005,6 +2015,7 @@ Related Nodes: N-10740
 Supports: C-2691
 Tags: relevance:core
 Investigative Direction: Gather UVU event footage and photographs of Butch Hibbs from September 10 and the days after and log where and when he appears.
+Open Questions: Q-302
 
 ---
 
@@ -2052,6 +2063,7 @@ Anchored Artifacts:
 Mentions: N-1, N-9, N-3
 Tags: relevance:core
 Investigative Direction: Review Kirk's Epstein segments in the months before September 2025 and any messages indicating pressure to stop.
+Open Questions: Q-312
 
 ---
 
@@ -2067,6 +2079,7 @@ Anchored Artifacts:
 Mentions: N-1, N-22, N-9
 Tags: relevance:core
 Investigative Direction: Find the message or recording in which Kirk told Carlson to go max on Epstein and date it.
+Open Questions: Q-312
 
 ---
 
@@ -2114,6 +2127,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10371
 Tags: relevance:core
 Investigative Direction: Pull Kirk's posts and show segments on Ukraine and TPUSA Faith's launch and growth dates to test the claimed sequence.
+Open Questions: Q-310
 
 ---
 
@@ -2129,6 +2143,7 @@ Anchored Artifacts: A-2828.1
 Mentions: N-205, N-3
 Tags: relevance:core
 Investigative Direction: Identify the September 30 article, confirm the person is Sean Feucht and review the funds allegations and any response.
+Open Questions: Q-313
 
 ---
 
@@ -2208,6 +2223,7 @@ Mentions: N-3
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Ask the host which agency or office received the material and when; compare the next episode's Egyptian plane disclosures with the flight records in earlier episodes.
+Open Questions: Q-314, Q-315
 
 ---
 
@@ -2223,6 +2239,7 @@ Anchored Artifacts:
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Identify the specific instances of government obstruction the host refers to and any requests that were refused.
+Open Questions: Q-316
 
 ---
 
@@ -2239,6 +2256,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Check TPUSA's Form 990 revenue figures and net assets for 2024 and 2025 against the $80 million figure.
+Open Questions: Q-317
 
 ---
 
@@ -2272,6 +2290,7 @@ Related Nodes: N-10252
 Supports: C-361
 Tags: relevance:core
 Investigative Direction: Identify the donors and the communication in which they made the demand, and compare with AmFest 2024 speaker lists.
+Open Questions: Q-6
 
 ---
 
@@ -2431,6 +2450,7 @@ Mentions: N-98, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Establish the donor identity (the transcript spells him Showman) and the amounts given to TPUSA, using disclosed donor records.
+Open Questions: Q-318
 
 ---
 
@@ -2492,6 +2512,7 @@ Mentions: N-67, N-3
 Contradicts: C-2810
 Tags: relevance:core
 Investigative Direction: Obtain the multi-angle footage and run a frame-by-frame review of the guards' hands in the first seconds after the shot.
+Open Questions: Q-155
 
 ---
 
@@ -2507,6 +2528,7 @@ Anchored Artifacts: A-2830.1
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Find footage from other angles that shows the guards at ground level and identify them from the event security roster.
+Open Questions: Q-155
 
 ---
 
@@ -2524,6 +2546,7 @@ Related Nodes: N-10103
 Supports: C-732
 Tags: relevance:core
 Investigative Direction: Obtain the UVU construction and paving records, dates and contractor invoices for the courtyard work.
+Open Questions: Q-177
 
 ---
 

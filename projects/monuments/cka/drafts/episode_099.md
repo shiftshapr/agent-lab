@@ -1517,6 +1517,7 @@ Related Nodes: N-10318
 Supports: C-3895
 Tags: relevance:core
 Investigative Direction: Obtain the text thread from Kolvet's and Flood's phones (or the Harpole lawsuit discovery) and confirm date, time and exact wording.
+Open Questions: Q-576
 
 ---
 
@@ -1533,6 +1534,7 @@ Mentions: N-266, N-1, N-3
 Related Nodes: N-10318, N-10593, N-11174
 Tags: relevance:core
 Investigative Direction: Review TPUSA's public explanation of the text and the Harpole case docket for any production of the thread.
+Open Questions: Q-576
 
 ---
 
@@ -1626,6 +1628,7 @@ Anchored Artifacts:
 Mentions: N-36, N-44, N-3
 Tags: relevance:core
 Investigative Direction: Ask Van Susteren and her producers whether the question was pre-arranged and obtain the booking correspondence; the tip source is unnamed.
+Open Questions: Q-858
 
 ---
 
@@ -1707,6 +1710,7 @@ Related Nodes: N-11268
 Supports: C-71
 Tags: relevance:core
 Investigative Direction: Pull Trump's September 10, 2025 post and its image from Truth Social or X archives.
+Open Questions: Q-281
 
 ---
 
@@ -1724,6 +1728,7 @@ Related Nodes: N-10143
 Supports: C-1138
 Tags: relevance:core
 Investigative Direction: Compare the group text of September 9 and other witness accounts of Kirk's stated position.
+Open Questions: Q-2
 
 ---
 
@@ -1773,6 +1778,7 @@ Related Nodes: N-10143
 Supports: C-1354
 Tags: relevance:core
 Investigative Direction: Compare Carlson's and Kelly's own on-air statements describing conversations with Kirk.
+Open Questions: Q-2
 
 ---
 
@@ -1789,6 +1795,7 @@ Mentions: N-55, N-1, N-3
 Related Nodes: N-10179
 Tags: relevance:core
 Investigative Direction: Collect Hammer's posts and interviews from September 10 to 20, 2025 and compare with the group text.
+Open Questions: Q-2, Q-146
 
 ---
 
@@ -1806,6 +1813,7 @@ Related Nodes: N-10179
 Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Obtain the group chat participant list from the screenshots the host published and compare with Hammer's public denials.
+Open Questions: Q-146
 
 ---
 
@@ -1886,6 +1894,7 @@ Mentions: N-14, N-1, N-3
 Related Nodes: N-11216, N-11269
 Tags: relevance:core
 Investigative Direction: Obtain Charlie Kirk Show LLC ownership or profit-interest records and ask Kolvet whether he holds a stake.
+Open Questions: Q-859
 
 ---
 
@@ -1902,6 +1911,7 @@ Mentions: N-159, N-14, N-3
 Related Nodes: N-11216, N-11269
 Tags: relevance:core
 Investigative Direction: Find Neff's statement about who pays him and payroll or contractor records for the show.
+Open Questions: Q-859
 
 ---
 
@@ -1934,6 +1944,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-11216
 Tags: relevance:core
 Investigative Direction: Ask TPUSA when Erika first used an office in the building; the host hedges with 'if I remember correctly'.
+Open Questions: Q-859
 
 ---
 
@@ -1950,6 +1961,7 @@ Mentions: N-14, N-1, N-36, N-3
 Related Nodes: N-10027, N-10425, N-10458
 Tags: relevance:core
 Investigative Direction: Identify the family source; compare the date with the Hamptons retreat dates in earlier episodes and TPUSA's itinerary.
+Open Questions: Q-860
 
 ---
 
@@ -1967,6 +1979,7 @@ Related Nodes: N-10287, N-10320, N-11269
 Supports: C-5370, C-4500
 Tags: relevance:core
 Investigative Direction: Identify the family and friends who heard it; compare with earlier tips and with any documents on Kolvet's income or equity.
+Open Questions: Q-859, Q-860
 
 ---
 
@@ -2031,6 +2044,7 @@ Related Nodes: N-10162
 Supports: C-1511
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's account of the call, the Zoom invitation and calendar records, and Rabbi Wolicki's statements (compare episodes 16 and 17).
+Open Questions: Q-146
 
 ---
 
@@ -2048,6 +2062,7 @@ Related Nodes: N-10318, N-10162
 Supports: C-1559, C-3895
 Tags: relevance:core
 Investigative Direction: Obtain message timestamps from the recipients' phones to fix the interval between the Zoom call and the texts.
+Open Questions: Q-576
 
 ---
 
@@ -2321,6 +2336,7 @@ Mentions: N-15, N-14, N-22, N-3
 Related Nodes: N-10282
 Tags: relevance:core
 Investigative Direction: Compare call logs for the host, her husband, Streiff, Kolvet and Carlson on September 10, 2025.
+Open Questions: Q-861
 
 ---
 
@@ -2337,6 +2353,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Establish who told her and her husband, and when, from call logs and messages; ask Carlson what he was told.
+Open Questions: Q-861, Q-862
 
 ---
 
@@ -2354,6 +2371,7 @@ Related Nodes: N-10602
 Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Compare with the autopsy summary and the Utah medical examiner's findings.
+Open Questions: Q-862
 
 ---
 
@@ -2371,6 +2389,7 @@ Related Nodes: N-10602
 Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Confirm open-casket viewing from memorial attendees and compare to the no-neck account.
+Open Questions: Q-862
 
 ---
 
@@ -2387,6 +2406,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Ask the people who relayed the account where it came from; the intent attribution is the host's inference.
+Open Questions: Q-861, Q-862
 
 ---
 
@@ -2403,6 +2423,7 @@ Mentions: N-261, N-3
 Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Review Farnsworth's statements and camera footage disclosures; the host does not say which lie she means.
+Open Questions: Q-574
 
 ---
 
@@ -2436,6 +2457,7 @@ Related Nodes: N-10190, N-10605
 Contradicts: C-2372
 Tags: relevance:core
 Investigative Direction: Compare Blake Neff's and TPUSA's accounts of McCoy's actions with hospital and call records.
+Open Questions: Q-863
 
 ---
 
@@ -2452,6 +2474,7 @@ Mentions: N-190, N-3
 Related Nodes: N-10190, N-10605
 Tags: relevance:core
 Investigative Direction: Identify hospital witnesses and compare with other accounts of McCoy's condition.
+Open Questions: Q-863
 
 ---
 
@@ -2468,6 +2491,7 @@ Mentions: N-15, N-3
 Supports: C-7288
 Tags: relevance:core
 Investigative Direction: Obtain flight manifests and booking records for the planes used on September 10, 2025 and ask Streiff.
+Open Questions: Q-864
 
 ---
 
@@ -2484,6 +2508,7 @@ Mentions: N-190, N-3
 Related Nodes: N-10605
 Tags: relevance:core
 Investigative Direction: Identify the source; check property transactions involving McCoy.
+Open Questions: Q-865
 
 ---
 
@@ -2581,6 +2606,7 @@ Mentions: N-1, N-40
 Related Nodes: N-11220
 Tags: relevance:core
 Investigative Direction: Compare with the memorial's content and TPUSA's communications plans.
+Open Questions: Q-866
 
 ---
 
@@ -2597,6 +2623,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare with the evidence gaps tracked on the Robinson node; this is the host's opinion stated as belief.
+Open Questions: Q-857
 
 ---
 
@@ -2613,6 +2640,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11271
 Tags: relevance:core
 Investigative Direction: The source is unnamed; confirm against medical and funeral records.
+Open Questions: Q-867
 
 ---
 
@@ -2629,6 +2657,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11271
 Tags: relevance:core
 Investigative Direction: Review any photographs or reports of the vehicle; the host does not say how she knows the amount of blood.
+Open Questions: Q-867
 
 ---
 

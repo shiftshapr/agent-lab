@@ -1250,6 +1250,7 @@ Related Nodes: N-10293
 Supports: C-3679
 Tags: relevance:core
 Investigative Direction: Identify the maroon-shirted attendees from event footage and compare them with military rosters or unit assignments.
+Open Questions: Q-351
 
 ---
 
@@ -1267,6 +1268,7 @@ Related Nodes: N-10293
 Supports: C-3681
 Tags: relevance:core
 Investigative Direction: Obtain the emails and verify the senders' service records and whether the practice they describe is documented doctrine.
+Open Questions: Q-351
 
 ---
 
@@ -1283,6 +1285,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Treat as a stated belief; test it against the maroon-shirt identifications and the Rawlinson service records.
+Open Questions: Q-347, Q-351
 
 ---
 
@@ -1299,6 +1302,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Compare audience age data from event footage, ticketing or UVU attendance counts with the host's impression.
+Open Questions: Q-897
 
 ---
 
@@ -1315,6 +1319,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Review the host's folders of audience stills and test whether the hat and sock patterns are statistically unusual for a campus event.
+Open Questions: Q-897
 
 ---
 
@@ -1348,6 +1353,7 @@ Mentions: N-3
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Identify the footage supplier (unnamed in this episode) and corroborate the son's attire from the supplied footage.
+Open Questions: Q-351
 
 ---
 
@@ -1364,6 +1370,7 @@ Mentions: N-3
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Collect clear stills of each maroon-shirted man and compare them to the host's athletic-build observation; identify them independently.
+Open Questions: Q-351
 
 ---
 
@@ -1380,6 +1387,7 @@ Mentions: N-3, N-814
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Trace how the cheering clip was amplified (accounts, dates, reach) and whether amplification was organic.
+Open Questions: Q-898
 
 ---
 
@@ -1397,6 +1405,7 @@ Related Nodes: N-10293
 Supports: C-10407
 Tags: relevance:core
 Investigative Direction: Locate Sprag's interview and compare his explanation with the clip.
+Open Questions: Q-898
 
 ---
 
@@ -1414,6 +1423,7 @@ Related Nodes: N-10293
 Supports: C-10410
 Tags: relevance:core
 Investigative Direction: Identify the companion and compare Sprag's stated age with public records.
+Open Questions: Q-898, Q-899
 
 ---
 
@@ -1430,6 +1440,7 @@ Mentions: N-3, N-814
 Related Nodes: N-11109
 Tags: relevance:core
 Investigative Direction: Obtain the court name-change record and compare it with the host's report.
+Open Questions: Q-899
 
 ---
 
@@ -1446,6 +1457,7 @@ Mentions: N-3, N-814
 Related Nodes: N-11109
 Tags: relevance:core
 Investigative Direction: Retrieve the name-change petition and its filing date from the relevant court.
+Open Questions: Q-899
 
 ---
 
@@ -1494,6 +1506,7 @@ Mentions: N-3, N-814
 Related Nodes: N-10634
 Tags: relevance:core
 Investigative Direction: Request Rawlinson's service record (DD-214 or National Guard personnel file) to confirm enlistment and promotion dates.
+Open Questions: Q-900
 
 ---
 
@@ -1559,6 +1572,7 @@ Related Nodes: N-10634
 Supports: C-10078
 Tags: relevance:core
 Investigative Direction: Obtain Nevada National Guard deployment orders or press releases for Lt. Col. Curtis Kolvet and the dates of his Romania service.
+Open Questions: Q-900, Q-901
 
 ---
 
@@ -1575,6 +1589,7 @@ Mentions: N-3, N-814
 Related Nodes: N-10634, N-11109
 Tags: relevance:core
 Investigative Direction: Obtain the host's message exchange with Rawlinson and Rawlinson's own statement on any Romania service.
+Open Questions: Q-900
 
 ---
 
@@ -1609,6 +1624,7 @@ Related Nodes: N-10293
 Supports: C-3547
 Tags: relevance:core
 Investigative Direction: Request unit rosters, orders or authorizations for any military personnel present at UVU on September 10.
+Open Questions: Q-347
 
 ---
 
@@ -1626,6 +1642,7 @@ Related Nodes: N-10374
 Supports: C-10073
 Tags: relevance:core
 Investigative Direction: Pull FAA registration history and passenger records for the aircraft the host calls Plane 888.
+Open Questions: Q-902
 
 ---
 
@@ -1643,6 +1660,7 @@ Related Nodes: N-10374
 Supports: C-10074
 Tags: relevance:core
 Investigative Direction: Obtain Romanian Angels project records and any Marine or Black Sea Rotational Force documentation of cooperation.
+Open Questions: Q-903
 
 ---
 
@@ -1659,6 +1677,7 @@ Mentions: N-11, N-3
 Related Nodes: N-10368
 Tags: relevance:core
 Investigative Direction: Find the earlier Bowyer statements the host references (she says 'we showed you that') and verify his Romania residence dates.
+Open Questions: Q-472
 
 ---
 
@@ -1676,6 +1695,7 @@ Related Nodes: N-10374
 Supports: C-10173
 Tags: relevance:core
 Investigative Direction: Obtain ministry filings and mission reports for Dr. Philip Goldsberry's Romania work.
+Open Questions: Q-904
 
 ---
 
@@ -1692,6 +1712,7 @@ Mentions: N-9, N-3
 Related Nodes: N-10374
 Tags: relevance:core
 Investigative Direction: Run a country-frequency count on the released Epstein email corpus and review any Romania trafficking evidence.
+Open Questions: Q-645
 
 ---
 
@@ -1708,6 +1729,7 @@ Mentions: N-5, N-1, N-9, N-3
 Related Nodes: N-10792
 Tags: relevance:core
 Investigative Direction: Identify the source (the host does not say) for Trump's displeasure and any Kirk statements on Epstein.
+Open Questions: Q-905
 
 ---
 
@@ -1790,6 +1812,7 @@ Mentions: N-529, N-815, N-9, N-3
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Check New York corporate records and press for the founders of Next Model Management; Faith Kates is usually named as its founder.
+Open Questions: Q-906
 
 ---
 
@@ -1806,6 +1829,7 @@ Mentions: N-529, N-815, N-568
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Obtain Next Model corporate formation records and ownership history.
+Open Questions: Q-906
 
 ---
 
@@ -1838,6 +1862,7 @@ Mentions: N-581, N-2, N-3
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Pull New York property records for Mark Epstein's Upper East Side holdings and compare with the building the host's sources describe.
+Open Questions: Q-907
 
 ---
 
@@ -1870,6 +1895,7 @@ Mentions: N-3
 Related Nodes: N-11110
 Tags: relevance:core
 Investigative Direction: Read the class action complaint for the specific pay-deduction allegations and percentages.
+Open Questions: Q-908
 
 ---
 
@@ -1887,6 +1913,7 @@ Related Nodes: N-11110, N-10478
 Supports: C-10114
 Tags: relevance:core
 Investigative Direction: Compare the complaint's covered period with any documentation of Erika Kirk's dates at Next.
+Open Questions: Q-654, Q-908
 
 ---
 
@@ -1935,6 +1962,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Treat as stated belief; test against the Erika Kirk and Charlie Kirk timeline of meeting, courtship and marriage records.
+Open Questions: Q-909
 
 ---
 
@@ -1969,6 +1997,7 @@ Related Nodes: N-10640
 Supports: C-10449
 Tags: relevance:core
 Investigative Direction: List the people who entered Kirk's circle and when, and test the infiltration theory against employment and donor records.
+Open Questions: Q-910
 
 ---
 
@@ -2001,6 +2030,7 @@ Mentions: N-3
 Related Nodes: N-10809, N-11111
 Tags: relevance:core
 Investigative Direction: Seek contracts, task orders or payments tying DoD funds to creators of content about the host.
+Open Questions: Q-911
 
 ---
 
@@ -2017,6 +2047,7 @@ Mentions: N-606, N-1, N-3
 Related Nodes: N-10809, N-11111
 Tags: relevance:core
 Investigative Direction: Request Department of War personnel or consulting records for Graham Allen and his dates of service.
+Open Questions: Q-912
 
 ---
 
@@ -2033,6 +2064,7 @@ Mentions: N-606, N-3
 Related Nodes: N-10000, N-11111
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and Allen to confirm or deny any relocation or engagement; look for contracts or payroll records.
+Open Questions: Q-912
 
 ---
 
@@ -2050,6 +2082,7 @@ Related Nodes: N-10809, N-10844
 Supports: C-9768
 Tags: relevance:core
 Investigative Direction: Obtain the email through the pending FOIA requests and confirm its origin and wording.
+Open Questions: Q-913
 
 ---
 
@@ -2067,6 +2100,7 @@ Related Nodes: N-10820, N-10858, N-10809
 Supports: C-9350
 Tags: relevance:core
 Investigative Direction: Check USAspending or DoD disbursement records for the payments to the Paramount Tactical entity.
+Open Questions: Q-911
 
 ---
 
@@ -2083,6 +2117,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10809
 Tags: relevance:core
 Investigative Direction: Treat as the host's conclusion; identify the specific evidence of military participation she relies on.
+Open Questions: Q-161, Q-347
 
 ---
 
@@ -2099,6 +2134,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare against the prosecution's evidence summary and defense filings.
+Open Questions: Q-161
 
 ---
 
@@ -2115,6 +2151,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Identify the documentary basis for a trafficking-ring motive; the host offers the Next Model and Epstein links as support.
+Open Questions: Q-905
 
 ---
 
@@ -2131,6 +2168,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Find the original Kirk statement (date, venue, recording) to confirm the wording.
+Open Questions: Q-914
 
 ---
 
@@ -2148,6 +2186,7 @@ Related Nodes: N-10636
 Supports: C-10094
 Tags: relevance:core
 Investigative Direction: Retrieve both Harpole podcast appearances and compare the exact words with Turek's.
+Open Questions: Q-915
 
 ---
 
@@ -2165,6 +2204,7 @@ Related Nodes: N-10636, N-10625
 Supports: C-10093
 Tags: relevance:core
 Investigative Direction: List each Turek appearance and the CPR wording used in each.
+Open Questions: Q-915
 
 ---
 
@@ -2181,6 +2221,7 @@ Mentions: N-7, N-1, N-3
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Obtain a vehicle interior diagram and witness descriptions of Kirk's position during the drive.
+Open Questions: Q-915, Q-916
 
 ---
 
@@ -2197,6 +2238,7 @@ Mentions: N-266, N-1, N-3
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Compare the host's 6-minute ride figure with the 8-minute figure used in other episodes and with the vehicle GPS or dispatch logs.
+Open Questions: Q-915, Q-917
 
 ---
 
@@ -2213,6 +2255,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Measure the interior of the same model SUV with a person of Kirk's height and test the host's claim.
+Open Questions: Q-915
 
 ---
 
@@ -2246,6 +2289,7 @@ Related Nodes: N-10809, N-10844
 Supports: C-9340
 Tags: relevance:core
 Investigative Direction: Track the FOIA outcome and any authenticated copy of the email.
+Open Questions: Q-913
 
 ---
 
@@ -2262,6 +2306,7 @@ Mentions: N-3
 Related Nodes: N-10809, N-10032
 Tags: relevance:core
 Investigative Direction: Obtain the email and any DoD media-amplification tasking that names these witnesses.
+Open Questions: Q-911, Q-913
 
 ---
 
@@ -2279,6 +2324,7 @@ Related Nodes: N-10615
 Supports: C-10246, C-10249
 Tags: relevance:core
 Investigative Direction: Transcribe all of Sara Tewell's interviews and compare the wording of each account.
+Open Questions: Q-892
 
 ---
 
@@ -2295,6 +2341,7 @@ Mentions: N-729, N-3
 Related Nodes: N-11112
 Tags: relevance:core
 Investigative Direction: Identify the family, the company and its Utah dispatch contracts from business filings and county contracts.
+Open Questions: Q-918
 
 ---
 
@@ -2311,6 +2358,7 @@ Mentions: N-729, N-816, N-3
 Related Nodes: N-11112, N-11113
 Tags: relevance:core
 Investigative Direction: Verify Carbyne's founders and any partnership or contract with the dispatch company the host means.
+Open Questions: Q-918
 
 ---
 
@@ -2327,6 +2375,7 @@ Mentions: N-3
 Related Nodes: N-10615
 Tags: relevance:core
 Investigative Direction: Build the promised witness tree with each witness's affiliations sourced.
+Open Questions: Q-919
 
 ---
 
@@ -2343,6 +2392,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10635
 Tags: relevance:core
 Investigative Direction: Count and triage the tips received on Erika Kirk and Next Model Management.
+Open Questions: Q-663
 
 ---
 
@@ -2360,6 +2410,7 @@ Related Nodes: N-10635, N-10462
 Supports: C-10114, C-10269
 Tags: relevance:core
 Investigative Direction: Obtain the named sources' statements and any documents (leases, payments) tying Erika Kirk to the apartments.
+Open Questions: Q-663
 
 ---
 
@@ -2376,6 +2427,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10635, N-10462
 Tags: relevance:core
 Investigative Direction: Compare the sources' dates with the New York licensing record for Erika Kirk.
+Open Questions: Q-656, Q-663
 
 ---
 
@@ -2392,6 +2444,7 @@ Mentions: N-2, N-1, N-3, N-68
 Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Check New York Department of State licensing records and Erika Kirk and Charlie Kirk's first-meeting date; the host herself is unsure of the year.
+Open Questions: Q-656, Q-909
 
 ---
 
@@ -2409,6 +2462,7 @@ Related Nodes: N-10463
 Tags: relevance:core
 Revises: C-4433
 Investigative Direction: Identify Nicole Rothstein, her relation to Erika Kirk and any shared real estate ventures.
+Open Questions: Q-656
 
 ---
 
@@ -2425,6 +2479,7 @@ Mentions: N-2, N-556, N-9, N-3
 Related Nodes: N-10463, N-10480
 Tags: relevance:core
 Investigative Direction: Re-check the Epstein email for Lynn de Rothschild's role at Corcoran; earlier episodes described her as president rather than founder.
+Open Questions: Q-656
 
 ---
 
@@ -2442,6 +2497,7 @@ Related Nodes: N-10463
 Supports: C-10279
 Tags: relevance:core
 Investigative Direction: Search Corcoran and MLS listing histories for any listing agent named Erika Frantzve or Kirk.
+Open Questions: Q-656
 
 ---
 
@@ -2458,6 +2514,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10463
 Tags: relevance:core
 Investigative Direction: Ask Corcoran about its hiring requirements for new agents in 2018 to 2019.
+Open Questions: Q-656
 
 ---
 
@@ -2555,6 +2612,7 @@ Related Nodes: N-10844, N-10637
 Supports: C-9791
 Tags: relevance:core
 Investigative Direction: Check the NSA FOIA portal response and the Department of War follow-up.
+Open Questions: Q-913
 
 ---
 
@@ -2571,6 +2629,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10637
 Tags: relevance:core
 Investigative Direction: Track the DHS, Secret Service and EOP FOIA responses for Erika Kirk's visit dates.
+Open Questions: Q-920
 
 ---
 
@@ -2588,6 +2647,7 @@ Related Nodes: N-10850
 Supports: C-9259
 Tags: relevance:core
 Investigative Direction: Review the Air Force Academy Board of Visitors appointment record and member qualifications.
+Open Questions: Q-921
 
 ---
 
@@ -2604,6 +2664,7 @@ Mentions: N-2, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Ask the venues and organizers the host has appeared at whether they received calls from Erika Kirk.
+Open Questions: Q-922
 
 ---
 
@@ -2621,6 +2682,7 @@ Related Nodes: N-10892, N-10637
 Supports: C-9959
 Tags: relevance:core
 Investigative Direction: Check the FBI FOIA queue status for the request and any later release.
+Open Questions: Q-923
 
 ---
 
@@ -2638,6 +2700,7 @@ Related Nodes: N-10637, N-10809
 Supports: C-9916
 Tags: relevance:core
 Investigative Direction: Obtain the FOIA correspondence showing the denial and queue position.
+Open Questions: Q-924
 
 ---
 
@@ -2655,6 +2718,7 @@ Related Nodes: N-10903, N-10259, N-10637
 Supports: C-9956
 Tags: relevance:core
 Investigative Direction: Match FAA/ADS-B data for the FBI plane with the Egyptian aircraft times and landing locations.
+Open Questions: Q-925
 
 ---
 
@@ -2672,6 +2736,7 @@ Related Nodes: N-10638, N-10303
 Supports: C-10108
 Tags: relevance:core
 Investigative Direction: Track the Secret Service and DHS visitor-log FOIA responses for the date.
+Open Questions: Q-553
 
 ---
 
@@ -2688,6 +2753,7 @@ Mentions: N-14, N-9, N-3
 Related Nodes: N-10303, N-10638
 Tags: relevance:core
 Investigative Direction: Pin the exact date of the Charlie Kirk Show episode and the Epstein files release.
+Open Questions: Q-553
 
 ---
 
@@ -2721,6 +2787,7 @@ Related Nodes: N-10272
 Supports: C-3576
 Tags: relevance:core
 Investigative Direction: Ask French and US authorities whether Legion personnel were in Utah on September 10.
+Open Questions: Q-347
 
 ---
 
@@ -2737,6 +2804,7 @@ Mentions: N-3
 Related Nodes: N-10272, N-10374
 Tags: relevance:core
 Investigative Direction: Check Foreign Legion deployments to Mihail Kogalniceanu air base.
+Open Questions: Q-926
 
 ---
 
@@ -2753,6 +2821,7 @@ Mentions: N-3
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Seek identifications of the maroon-shirted men and compare to name-change or alias records.
+Open Questions: Q-351
 
 ---
 
@@ -2769,6 +2838,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's recent hires with public military and NATO affiliations.
+Open Questions: Q-910
 
 ---
 
@@ -2801,6 +2871,7 @@ Mentions: N-3
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Collect and triage the identifications submitted for the maroon-shirted men.
+Open Questions: Q-351
 
 ---
 
@@ -2817,6 +2888,7 @@ Mentions: N-3
 Related Nodes: N-10103
 Tags: relevance:core
 Investigative Direction: Obtain FBI arrival logs and the UVU incident timeline to test the 'too early' claim.
+Open Questions: Q-927
 
 ---
 
@@ -2834,6 +2906,7 @@ Related Nodes: N-10818
 Supports: C-6863
 Tags: relevance:core
 Investigative Direction: Collect Erika Kirk's public replies to Project Constitution and any response to the host's inquiries.
+Open Questions: Q-663
 
 ---
 
@@ -2851,6 +2924,7 @@ Related Nodes: N-10226
 Supports: C-10015
 Tags: relevance:core
 Investigative Direction: Check defense discovery requests and FBI evidence logs for Timpanogos hospital footage.
+Open Questions: Q-928
 
 ---
 
@@ -2867,6 +2941,7 @@ Mentions: N-266, N-1, N-3
 Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Read the autopsy report for chest findings and ask the hospital whether defibrillation was attempted.
+Open Questions: Q-884, Q-929
 
 ---
 
@@ -2883,6 +2958,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10809
 Tags: relevance:core
 Investigative Direction: Treat as the host's stated opinion; seek documents showing the military's role in the event.
+Open Questions: Q-347
 
 ---
 
@@ -2899,6 +2975,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10217, N-10697
 Tags: relevance:core
 Investigative Direction: Examine autopsy photos and the pendant's condition for any injury tied to it.
+Open Questions: Q-929
 
 ---
 
@@ -2949,6 +3026,7 @@ Related Nodes: N-10161, N-10545
 Supports: C-10515
 Tags: relevance:core
 Investigative Direction: Request FBI and prosecution records about Twiggs's interviews and any protection arrangements.
+Open Questions: Q-174, Q-351
 
 ---
 
@@ -2966,6 +3044,7 @@ Related Nodes: N-10639
 Supports: C-10516
 Tags: relevance:core
 Investigative Direction: Check the living arrangement and access to Robinson's rifle or belongings in discovery.
+Open Questions: Q-822
 
 ---
 
@@ -3014,6 +3093,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Await autopsy and forensic evidence on the cause of death and any explosive residue.
+Open Questions: Q-930
 
 ---
 
@@ -3030,6 +3110,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10672, N-10636
 Tags: relevance:core
 Investigative Direction: Inventory SUV contents and compare to witness descriptions of care provided.
+Open Questions: Q-931
 
 ---
 
@@ -3046,6 +3127,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10629, N-10971
 Tags: relevance:core
 Investigative Direction: Ask Utah County officials who released the microphone and other items to Erika Kirk, and when.
+Open Questions: Q-932
 
 ---
 

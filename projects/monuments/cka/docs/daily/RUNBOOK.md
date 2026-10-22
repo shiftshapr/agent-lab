@@ -91,6 +91,15 @@ For names flagged as unresolved, check the HappyScribe transcript of the same ep
    rename the node directly.
 9. Run `finalize.py <seqs> --pytest`. Every gate must pass.
 
+### Open questions (ROADMAP 4.3)
+After finalize, `apply_register.py` reports "core claims without a question". Each new core claim must be linked to
+the register in `ledger/open_questions.json`, so give one Opus subagent the new core claims, with their Investigative
+Directions, and the register's questions on the same topics. For each claim it either links the claim to 1–3
+existing questions, or drafts a new question with topic, question, known, settle, status (`open` unless an S-id
+settles it), evidence, claims and tips, phrased neutrally. Write the result as a JSON list and run
+`python3 projects/monuments/cka/scripts/questions/apply_register.py --add FILE --strict`, which must exit 0. List the
+new questions in the audit README.
+
 ## T. Tweets (ROADMAP 1.5)
 `tweets_intake.py` has already fetched new @RealCandaceO posts into `tweets/tweets.jsonl` and built `WORK/tweets_pack`.
 1. Run one Opus subagent per `tweets_<NNN>.md` chunk with this prompt: "Follow `WORK/tweets_pack/PROMPT.md` for

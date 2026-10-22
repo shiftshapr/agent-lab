@@ -2920,7 +2920,10 @@
         "N-41"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1184"
+      ]
     },
     {
       "@type": "Claim",
@@ -2940,7 +2943,10 @@
         "N-135"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1184"
+      ]
     },
     {
       "@type": "Claim",
@@ -2993,7 +2999,10 @@
         "N-775"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-735"
+      ]
     },
     {
       "@type": "Claim",
@@ -3016,6 +3025,9 @@
       "verification_status": "contradicted-by-record",
       "verification_evidence": [
         "S-7"
+      ],
+      "open_questions": [
+        "Q-1185"
       ]
     },
     {
@@ -3041,7 +3053,10 @@
         "N-506"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1186"
+      ]
     },
     {
       "@type": "Claim",
@@ -3066,6 +3081,9 @@
       "verification_status": "contradicted-by-record",
       "verification_evidence": [
         "S-7"
+      ],
+      "open_questions": [
+        "Q-1185"
       ]
     },
     {
@@ -3088,7 +3106,10 @@
         "N-42"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-28"
+      ]
     },
     {
       "@type": "Claim",
@@ -3110,7 +3131,10 @@
         "N-42"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-28"
+      ]
     },
     {
       "@type": "Claim",
@@ -3132,7 +3156,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-218"
+      ]
     },
     {
       "@type": "Claim",
@@ -3159,7 +3186,10 @@
         "N-864"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1187"
+      ]
     },
     {
       "@type": "Claim",
@@ -3187,7 +3217,10 @@
         "N-40"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1187"
+      ]
     },
     {
       "@type": "Claim",
@@ -3214,7 +3247,11 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1176",
+        "Q-1187"
+      ]
     },
     {
       "@type": "Claim",
@@ -3238,7 +3275,10 @@
         "N-864"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1187"
+      ]
     },
     {
       "@type": "Claim",
@@ -3261,7 +3301,10 @@
         "N-775"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1187"
+      ]
     },
     {
       "@type": "Claim",
@@ -3283,7 +3326,10 @@
         "N-42"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1188"
+      ]
     },
     {
       "@type": "Claim",
@@ -3308,7 +3354,10 @@
         "N-190"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-213"
+      ]
     },
     {
       "@type": "Claim",
@@ -3334,7 +3383,10 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-213"
+      ]
     },
     {
       "@type": "Claim",
@@ -3363,7 +3415,11 @@
         "N-367"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-213",
+        "Q-1132"
+      ]
     },
     {
       "@type": "Claim",
@@ -3391,7 +3447,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-213"
+      ]
     },
     {
       "@type": "Claim",
@@ -3415,7 +3474,10 @@
         "N-190"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-213"
+      ]
     },
     {
       "@type": "Claim",
@@ -3441,7 +3503,10 @@
         "N-190"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1188"
+      ]
     },
     {
       "@type": "Claim",
@@ -3469,7 +3534,10 @@
         "N-190"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1188"
+      ]
     },
     {
       "@type": "Claim",
@@ -3494,7 +3562,10 @@
         "N-54"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1189"
+      ]
     },
     {
       "@type": "Claim",
@@ -3516,7 +3587,11 @@
         "C-13123"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1174",
+        "Q-1188"
+      ]
     },
     {
       "@type": "Claim",
@@ -3538,7 +3613,11 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1130",
+        "Q-1174"
+      ]
     },
     {
       "@type": "Claim",
@@ -3562,7 +3641,10 @@
         "N-9"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1130"
+      ]
     },
     {
       "@type": "Claim",
@@ -3587,7 +3669,10 @@
         "N-37"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1130"
+      ]
     },
     {
       "@type": "Claim",
@@ -3609,7 +3694,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1173"
+      ]
     },
     {
       "@type": "Claim",
@@ -3631,7 +3719,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1139"
+      ]
     },
     {
       "@type": "Claim",
@@ -3795,7 +3886,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1190"
+      ]
     },
     {
       "@type": "Claim",
@@ -3818,7 +3912,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1190"
+      ]
     },
     {
       "@type": "Claim",
@@ -3862,7 +3959,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1191"
+      ]
     },
     {
       "@type": "Claim",
@@ -3881,7 +3981,10 @@
       "investigative_direction": "Review the TPUSA broadcast in which Paramount Tactical appears and check for any statement about bullet splitting.",
       "transcript_snippet": "instantly we saw Turning Point USA uh using uh Paramount Tactical and like oh he's a former Green Beret so he's he can explain to you why magic bullets might split in the air",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1170"
+      ]
     },
     {
       "@type": "Claim",
@@ -3902,7 +4005,11 @@
         "N-40"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1140",
+        "Q-1170"
+      ]
     },
     {
       "@type": "Claim",
@@ -3927,7 +4034,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1192"
+      ]
     },
     {
       "@type": "Claim",
@@ -3948,7 +4058,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-172"
+      ]
     },
     {
       "@type": "Claim",
@@ -3974,7 +4087,12 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1192",
+        "Q-1193",
+        "Q-1194"
+      ]
     },
     {
       "@type": "Claim",
@@ -3996,7 +4114,10 @@
         "N-587"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1192"
+      ]
     },
     {
       "@type": "Claim",
@@ -4015,7 +4136,10 @@
       "investigative_direction": "Review the preliminary hearing record on exhibit 11 and the court's order restricting media access.",
       "transcript_snippet": "I believe it was exhibit 11 that the judge uh basically didn't allow to be seen by the news media during the preliminary hearing, but was shown privately in court.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1194"
+      ]
     },
     {
       "@type": "Claim",
@@ -4038,7 +4162,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1194"
+      ]
     },
     {
       "@type": "Claim",
@@ -4351,7 +4478,10 @@
         "N-99"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1195"
+      ]
     },
     {
       "@type": "Claim",
@@ -4373,7 +4503,10 @@
         "N-40"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-172"
+      ]
     },
     {
       "@type": "Claim",
@@ -4441,7 +4574,11 @@
         "N-237"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1193",
+        "Q-1195"
+      ]
     },
     {
       "@type": "Claim",
@@ -4553,7 +4690,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1196"
+      ]
     },
     {
       "@type": "Claim",

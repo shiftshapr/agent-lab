@@ -1169,6 +1169,7 @@ Related Nodes: N-10024
 Tags: relevance:core
 
 Investigative Direction: Check the host's later episodes for the promised timeline and compare it with official and video-derived timestamps.
+Open Questions: Q-69
 
 ---
 
@@ -1189,6 +1190,7 @@ Related Nodes: N-10032
 Tags: relevance:core
 
 Investigative Direction: Obtain the viewer photo and the video showing Zinn on the pathway; map his route against the transport car location.
+Open Questions: Q-28, Q-69
 
 ---
 
@@ -1209,6 +1211,7 @@ Related Nodes: N-10000
 Tags: relevance:core
 
 Investigative Direction: Identify who the host means; look for her later documents, sources or named employees supporting the betrayal claim.
+Open Questions: Q-40
 
 ---
 
@@ -1231,6 +1234,7 @@ Supports: C-376, C-501
 Tags: relevance:core
 
 Investigative Direction: Identify the man, obtain the footage he showed the host and the Friday episode's description of it.
+Open Questions: Q-63
 
 ---
 
@@ -1253,6 +1257,7 @@ Supports: C-516
 Tags: relevance:core
 
 Investigative Direction: Obtain the behind-camera footage and have a forensic pathologist assess blood visible on the back of the neck and the left hand.
+Open Questions: Q-64
 
 ---
 
@@ -1273,6 +1278,7 @@ Related Nodes: N-10319, N-10081
 Tags: relevance:core
 
 Investigative Direction: Obtain Kolvet's original post and any coroner or autopsy record stating where the bullet was recovered.
+Open Questions: Q-64
 
 ---
 
@@ -1293,6 +1299,7 @@ Related Nodes: N-10106
 Tags: relevance:core
 
 Investigative Direction: Ask prosecutors whether the original note is in evidence, and obtain the chain of custody and the photograph.
+Open Questions: Q-46
 
 ---
 
@@ -1313,6 +1320,7 @@ Related Nodes: N-10014
 Tags: relevance:core
 
 Investigative Direction: Retrieve Patel's original post and ask the FBI for any record about the hand-gesture line of inquiry.
+Open Questions: Q-20, Q-70
 
 ---
 
@@ -1333,6 +1341,7 @@ Related Nodes: N-10050, N-10012
 Tags: relevance:core
 
 Investigative Direction: Pull county property records for the house, its ownership and occupancy history.
+Open Questions: Q-71
 
 ---
 
@@ -1355,6 +1364,7 @@ Supports: C-527
 Tags: relevance:core
 
 Investigative Direction: Check corporate filings for the company, its ownership, and the witness's role and relation to the company.
+Open Questions: Q-72
 
 ---
 
@@ -1399,6 +1409,7 @@ Supports: C-605
 Tags: relevance:core, DIA
 
 Investigative Direction: Obtain the tip messages and UVU utility and site plans showing hatches or access boxes near the seating area.
+Open Questions: Q-73
 
 ---
 
@@ -1419,6 +1430,7 @@ Related Nodes: N-10083, N-10081
 Tags: relevance:core
 
 Investigative Direction: Obtain the autopsy wound trajectory and any ground-penetrating or site survey ruling out an access point.
+Open Questions: Q-27, Q-64, Q-73
 
 ---
 
@@ -1441,6 +1453,7 @@ Supports: C-605
 Tags: relevance:core
 
 Investigative Direction: Obtain UVU irrigation plans for the amphitheater area.
+Open Questions: Q-73
 
 ---
 
@@ -1823,6 +1836,7 @@ Mentions: N-3
 Tags: relevance:core
 
 Investigative Direction: Track which individuals or claims the host later names as involved.
+Open Questions: Q-21
 
 ---
 
@@ -1843,6 +1857,7 @@ Supports: C-375
 Tags: relevance:core, DIA
 
 Investigative Direction: The tip inbox itself; check the later episodes for tips the host says paid off.
+Open Questions: Q-21
 
 ---
 
@@ -1921,6 +1936,7 @@ Related Nodes: N-10083, N-10012
 Tags: relevance:core
 
 Investigative Direction: Obtain the official timeline of the rifle's recovery and any survey of UVU tunnels.
+Open Questions: Q-20, Q-73
 
 ---
 
@@ -1943,6 +1959,7 @@ Supports: C-605
 Tags: relevance:core
 
 Investigative Direction: Capture the UVU facilities webpage and its maintenance contacts.
+Open Questions: Q-73
 
 ---
 
@@ -1961,6 +1978,7 @@ Mentions: N-3, N-7
 Tags: relevance:core
 
 Investigative Direction: Compare with later claims the host makes about Turek.
+Open Questions: Q-74
 
 ---
 
@@ -2021,6 +2039,7 @@ Mentions: N-3
 Tags: relevance:core
 
 Investigative Direction: Ask for the ballistics and chain of custody for the recovered rifle.
+Open Questions: Q-75
 
 ---
 
@@ -2039,6 +2058,7 @@ Mentions: N-14, N-2
 Tags: relevance:core
 
 Investigative Direction: Find the Charlie Kirk Show episode where Kolvet said this and verify the quote.
+Open Questions: Q-76
 
 ---
 
@@ -2057,6 +2077,7 @@ Mentions: N-3, N-2, N-1
 Tags: relevance:core
 
 Investigative Direction: Compare with Erika's later statements on what she knew.
+Open Questions: Q-76
 
 ---
 
@@ -2077,6 +2098,7 @@ Related Nodes: N-10320
 Tags: relevance:core
 
 Investigative Direction: Watch the Alex Clark interview and see how Erika addresses the offer.
+Open Questions: Q-77
 
 ---
 
@@ -2099,6 +2121,7 @@ Supports: C-380
 Tags: relevance:core
 
 Investigative Direction: Identify the host's source and any financial record of the funding.
+Open Questions: Q-78
 
 ---
 
@@ -2119,6 +2142,7 @@ Related Nodes: N-10320
 Tags: relevance:core
 
 Investigative Direction: Ask Kirk's circle, Netanyahu's office and the Hamptons attendees about any offer.
+Open Questions: Q-77
 
 ---
 
@@ -2181,6 +2205,7 @@ Supports: C-269
 Tags: relevance:core
 
 Investigative Direction: Check donor filings and building naming records for the donor and dates.
+Open Questions: Q-60
 
 ---
 

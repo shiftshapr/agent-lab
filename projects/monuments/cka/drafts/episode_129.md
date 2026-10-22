@@ -1289,6 +1289,7 @@ Mentions: N-1
 Related Nodes: N-11134
 Tags: relevance:core
 Investigative Direction: Compare the 911 call and dispatch times, the vehicle's departure and arrival times, and the hospital's intake log to fix the length of the ride.
+Open Questions: Q-969
 
 ---
 
@@ -1305,6 +1306,7 @@ Mentions: N-3
 Related Nodes: N-10699, N-10672
 Tags: relevance:core
 Investigative Direction: Obtain the full-resolution original of the door photograph and the photographer's identity; ask a forensic photographer to assess the stain pattern on the door and handle.
+Open Questions: Q-991
 
 ---
 
@@ -1321,6 +1323,7 @@ Mentions: N-3
 Related Nodes: N-10699, N-10338
 Tags: relevance:core
 Investigative Direction: Check the EXIF data and the photo's source to date it; compare with the vehicle's later cleaning and resale record.
+Open Questions: Q-991
 
 ---
 
@@ -1337,6 +1340,7 @@ Mentions: N-266, N-3
 Related Nodes: N-10622, N-10643
 Tags: relevance:core
 Investigative Direction: Locate Harpole's own statement on who cut the shirt and with what; ask the hospital and investigators whether scissors were collected.
+Open Questions: Q-884
 
 ---
 
@@ -1353,6 +1357,7 @@ Mentions: N-3
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Obtain the rental company, tow and resale records for the SUV and any law enforcement release or hold documents.
+Open Questions: Q-991
 
 ---
 
@@ -1369,6 +1374,7 @@ Mentions: N-367, N-190, N-3
 Supports: C-10713
 Tags: relevance:core
 Investigative Direction: Check Philip's graduation date and TPUSA hiring paperwork or payroll start date.
+Open Questions: Q-992
 
 ---
 
@@ -1386,6 +1392,7 @@ Related Nodes: N-10979
 Supports: C-10705
 Tags: relevance:core
 Investigative Direction: Obtain the rental agreements for both SUVs and the passenger assignments for each leg of the day.
+Open Questions: Q-992
 
 ---
 
@@ -1402,6 +1409,7 @@ Mentions: N-159, N-367
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Ask Neff and Philip for their movements that morning and check vehicle GPS or toll records for the second SUV.
+Open Questions: Q-943, Q-992
 
 ---
 
@@ -1417,6 +1425,7 @@ Anchored Artifacts:
 Mentions: N-367, N-159
 Tags: relevance:core
 Investigative Direction: Identify the source of the driver detail and check it against the rental agreement and any footage of the second SUV.
+Open Questions: Q-992
 
 ---
 
@@ -1432,6 +1441,7 @@ Anchored Artifacts:
 Mentions: N-367, N-159, N-246, N-190, N-1
 Tags: relevance:core
 Investigative Direction: Verify each man's position against the stage footage and the seating and standing diagram of the tent.
+Open Questions: Q-993
 
 ---
 
@@ -1449,6 +1459,7 @@ Related Nodes: N-10214
 Supports: C-6107
 Tags: relevance:core
 Investigative Direction: Obtain authenticated call detail records for Mikey McCoy's phone for 12:23 to 12:35 Utah time.
+Open Questions: Q-212
 
 ---
 
@@ -1465,6 +1476,7 @@ Mentions: N-2, N-190
 Related Nodes: N-10826, N-10889
 Tags: relevance:core
 Investigative Direction: Obtain the New York Times interview text and compare its call timing with the call detail records.
+Open Questions: Q-212
 
 ---
 
@@ -1482,6 +1494,7 @@ Related Nodes: N-10214, N-10674
 Supports: C-4105, C-6107
 Tags: relevance:core
 Investigative Direction: Obtain the call detail record showing when the merge to Erika's number occurred.
+Open Questions: Q-212
 
 ---
 
@@ -1498,6 +1511,7 @@ Mentions: N-159, N-190, N-1
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Obtain footage placing Neff and McCoy together at 12:25 and compare with their recorded call times.
+Open Questions: Q-212
 
 ---
 
@@ -1514,6 +1528,7 @@ Mentions: N-159, N-190
 Related Nodes: N-10674
 Tags: relevance:core
 Investigative Direction: Obtain Neff's phone records for the call to his mother and compare its time and length with Mikey McCoy's call sequence.
+Open Questions: Q-212
 
 ---
 
@@ -1530,6 +1545,7 @@ Mentions: N-190, N-2, N-3
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Verify the length of the Mikey-to-Erika call in the call detail records.
+Open Questions: Q-212
 
 ---
 
@@ -1546,6 +1562,7 @@ Mentions: N-2, N-211
 Related Nodes: N-10826, N-10889
 Tags: relevance:core
 Investigative Direction: Check the Jesse Watters interview and the New York Times article for the exact words Erika used.
+Open Questions: Q-212
 
 ---
 
@@ -1565,6 +1582,7 @@ Revises: C-4110
 Verification: revised-by-host
 Verification Evidence: C-12099
 Investigative Direction: Obtain the call detail record showing which number placed the Philip-McCoy call and when it started and ended.
+Open Questions: Q-212
 
 ---
 
@@ -1581,6 +1599,7 @@ Mentions: N-367, N-159, N-190
 Related Nodes: N-10674, N-10743
 Tags: relevance:core
 Investigative Direction: Resolve which SUV each man entered using footage and statements, since the host elsewhere has Mikey in the SUV carrying Charlie.
+Open Questions: Q-992
 
 ---
 
@@ -1597,6 +1616,7 @@ Mentions: N-15, N-2, N-367, N-190, N-3
 Related Nodes: N-10282
 Tags: relevance:core
 Investigative Direction: Identify what Streiff and Erika told the host about this call and compare with the call records.
+Open Questions: Q-212
 
 ---
 
@@ -1614,6 +1634,7 @@ Related Nodes: N-11124
 Supports: C-2379
 Tags: relevance:core
 Investigative Direction: Compare Neff's stated 25-minute estimate with the broadcast time stamp and the 911 and hospital arrival logs.
+Open Questions: Q-969, Q-994
 
 ---
 
@@ -1630,6 +1651,7 @@ Mentions: N-330, N-159, N-367, N-190, N-504
 Related Nodes: N-11124
 Tags: relevance:core
 Investigative Direction: Obtain the unedited newsroom feed and review the men's demeanor and pace on entry.
+Open Questions: Q-994
 
 ---
 
@@ -1663,6 +1685,7 @@ Related Nodes: N-10877
 Supports: C-9778
 Tags: relevance:core
 Investigative Direction: Identify the priests contacted and obtain their accounts of the calls.
+Open Questions: Q-995
 
 ---
 
@@ -1679,6 +1702,7 @@ Mentions: N-2, N-163, N-3
 Related Nodes: N-10877
 Tags: relevance:core
 Investigative Direction: Ask Catholics for Catholics organizers and Walsh's team when and why his appearance changed and who communicated it.
+Open Questions: Q-995
 
 ---
 
@@ -1695,6 +1719,7 @@ Mentions: N-163, N-2, N-3
 Related Nodes: N-10877
 Tags: relevance:core
 Investigative Direction: Obtain the event program showing Walsh's original and final format and any messages explaining the change.
+Open Questions: Q-995
 
 ---
 
@@ -1711,6 +1736,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10877
 Tags: relevance:core
 Investigative Direction: Ask the event organizers and recipients of calls who called and from which office.
+Open Questions: Q-995
 
 ---
 
@@ -1727,6 +1753,7 @@ Mentions: N-2
 Related Nodes: N-10877
 Tags: relevance:core
 Investigative Direction: Identify the people Erika told and obtain their accounts or messages using the phrase.
+Open Questions: Q-995
 
 ---
 
@@ -1759,6 +1786,7 @@ Mentions: N-2, N-14, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain messages or accounts from people who received direction from Erika or Kolvet to attack the host.
+Open Questions: Q-996
 
 ---
 
@@ -1775,6 +1803,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10855
 Tags: relevance:core
 Investigative Direction: Identify advertisers who received calls and the TPUSA people who made them.
+Open Questions: Q-996
 
 ---
 
@@ -1808,6 +1837,7 @@ Related Nodes: N-10067, N-10606, N-10857
 Supports: C-9330
 Tags: relevance:core
 Investigative Direction: Obtain the Daily Mail's Aspen article and ask the reporter and TPUSA how and when the clip was shown.
+Open Questions: Q-997
 
 ---
 
@@ -1824,6 +1854,7 @@ Mentions: N-1, N-2
 Related Nodes: N-10606, N-10067
 Tags: relevance:core
 Investigative Direction: Compare the Daily Mail's description with the audio, the date of the Aspen retreat and the host's earlier account.
+Open Questions: Q-997
 
 ---
 
@@ -1839,6 +1870,7 @@ Anchored Artifacts: A-2164.1
 Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Compare each attribution in the article text to determine whether one or two sources are quoted.
+Open Questions: Q-997
 
 ---
 
@@ -1855,6 +1887,7 @@ Mentions: N-544, N-3
 Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.
+Open Questions: Q-997
 
 ---
 
@@ -1871,6 +1904,7 @@ Mentions: N-2, N-40
 Related Nodes: N-10315
 Tags: relevance:core
 Investigative Direction: Check court records and courtroom reporting for the date of Erika's first appearance in the same room as Robinson.
+Open Questions: Q-998
 
 ---
 
@@ -1887,6 +1921,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare against the evidence disclosed at the preliminary hearing and the prosecution's filings.
+Open Questions: Q-414
 
 ---
 
@@ -1903,6 +1938,7 @@ Mentions: N-2, N-278, N-40
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Check the CBS town hall transcript for Erika's statement on certainty and access to evidence.
+Open Questions: Q-961
 
 ---
 
@@ -1919,6 +1955,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Verify the quotation in the original Daily Mail article and the attribution to a family member.
+Open Questions: Q-998
 
 ---
 
@@ -1935,6 +1972,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Verify the quotation in the original Daily Mail article.
+Open Questions: Q-998
 
 ---
 
@@ -1952,6 +1990,7 @@ Related Nodes: N-10934
 Supports: C-9973
 Tags: relevance:core
 Investigative Direction: Search USPTO records for trademark applications by Erika Kirk with filing dates in late September 2025.
+Open Questions: Q-999
 
 ---
 
@@ -1968,6 +2007,7 @@ Mentions: N-3
 Related Nodes: N-11216, N-10934
 Tags: relevance:core
 Investigative Direction: Obtain the seller of record for the shirts, the LLC's accounts and TPUSA's Form 990 for the relevant year.
+Open Questions: Q-999
 
 ---
 
@@ -1984,6 +2024,7 @@ Mentions: N-1, N-14, N-3
 Related Nodes: N-11216
 Tags: relevance:core
 Investigative Direction: Check Utah and Arizona business filings for the LLC's members and any ownership disclosures.
+Open Questions: Q-999
 
 ---
 
@@ -2000,6 +2041,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10675
 Tags: relevance:core
 Investigative Direction: Verify the quotation in the original Daily Mail article.
+Open Questions: Q-998
 
 ---
 
@@ -2111,6 +2153,7 @@ Related Nodes: N-11361
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Review memorial footage and photographs for Erika's entrance and clothing.
+Open Questions: Q-962
 
 ---
 
@@ -2127,6 +2170,7 @@ Related Nodes: N-11361
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Locate the photographs and dated reports of the post-memorial dinner and who attended.
+Open Questions: Q-962
 
 ---
 
@@ -2143,6 +2187,7 @@ Mentions: N-2
 Related Nodes: N-11216, N-10934
 Tags: relevance:core
 Investigative Direction: Identify the Zoom call, its date and attendees, and obtain a recording or notes.
+Open Questions: Q-999
 
 ---
 
@@ -2255,6 +2300,7 @@ Mentions: N-333
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Obtain the segment and the specific issues Viva Frei refers to.
+Open Questions: Q-414
 
 ---
 
@@ -2379,6 +2425,7 @@ Mentions: N-60, N-97, N-266, N-3
 Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Check the docket of the Harpole filing for counsel of record and compare with counsel in the Shapiro matter.
+Open Questions: Q-837
 
 ---
 
@@ -2410,6 +2457,7 @@ Mentions: N-3
 Related Nodes: N-11134, N-10694
 Tags: relevance:core
 Investigative Direction: Ask the hospital and its IT provider for network or outage logs for September 10, 2025, and seek the staff in question.
+Open Questions: Q-1000
 
 ---
 
@@ -2426,6 +2474,7 @@ Mentions: N-3
 Related Nodes: N-11134
 Tags: relevance:core
 Investigative Direction: Review the tip inbox for submissions about Timpanogos photographs and timeline.
+Open Questions: Q-1000
 
 ---
 
@@ -2442,6 +2491,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Review the tip inbox for submissions from TPUSA employees.
+Open Questions: Q-996
 
 ---
 

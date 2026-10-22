@@ -1172,6 +1172,7 @@ Mentions: N-330, N-3
 Related Nodes: N-10654
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing transcript for the Faumuina and Baker testimony Coleman flagged and compare with the host's reading.
+Open Questions: Q-951
 
 ---
 
@@ -1188,6 +1189,7 @@ Mentions: N-69, N-40, N-3
 Related Nodes: N-10086, N-10014
 Tags: relevance:core
 Investigative Direction: Compare the dates of Patel's public DNA announcement, the earlier media leaks and the FBI lab report on the screwdriver.
+Open Questions: Q-971
 
 ---
 
@@ -1204,6 +1206,7 @@ Mentions: N-3
 Related Nodes: N-10086, N-10684
 Tags: relevance:core
 Investigative Direction: Obtain the eyewitness's recorded statements and any FBI interview notes for mention of a towel or screwdriver.
+Open Questions: Q-972
 
 ---
 
@@ -1222,6 +1225,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2, S-7
 Investigative Direction: Obtain Bagley's report and evidence log for the screwdriver recovery time and location, and the footage the influencers say they saw.
+Open Questions: Q-970, Q-972
 
 ---
 
@@ -1241,6 +1245,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Obtain Bagley's device dock log and the UVU police body-cam retention records for September 10.
+Open Questions: Q-973
 
 ---
 
@@ -1258,6 +1263,7 @@ Related Nodes: N-10660
 Supports: C-10869
 Tags: relevance:core
 Investigative Direction: Subpoena Axon evidence-system audit logs for Bagley's camera showing battery state, power-off events and upload times.
+Open Questions: Q-973
 
 ---
 
@@ -1277,6 +1283,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Identify the armed person in civilian clothing from the body-cam frames and the radio log of who entered the building with Bagley.
+Open Questions: Q-974
 
 ---
 
@@ -1296,6 +1303,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Obtain dispatch audio and CAD entries on the north-heading report and the roster of officers who cleared the building before 12:44.
+Open Questions: Q-974
 
 ---
 
@@ -1312,6 +1320,7 @@ Mentions: N-506, N-3
 Related Nodes: N-10665, N-10983
 Tags: relevance:core
 Investigative Direction: Identify which influencers attended the hearing and what footage they say they saw; compare with the exhibit list and the footage actually entered into evidence.
+Open Questions: Q-970
 
 ---
 
@@ -1328,6 +1337,7 @@ Mentions: N-3
 Related Nodes: N-10086
 Tags: relevance:core
 Investigative Direction: Review the evidence chain for the screwdriver: first officer to see it, photographs in place and any footage showing it on the roof before 12:44.
+Open Questions: Q-972
 
 ---
 
@@ -1344,6 +1354,7 @@ Mentions: N-3
 Related Nodes: N-10684, N-10086
 Tags: relevance:core
 Investigative Direction: Obtain the eyewitness video and any enhanced stills of the swung object and compare with the evidence inventory.
+Open Questions: Q-975
 
 ---
 
@@ -1381,6 +1392,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Request all Faumuina reports from the hearing exhibit list, especially the September 22 overview and any report naming the library items.
+Open Questions: Q-951
 
 ---
 
@@ -1400,6 +1412,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the canvass notes and officer body-cam from the library bus stop showing who first flagged the items and when.
+Open Questions: Q-952
 
 ---
 
@@ -1419,6 +1432,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the FBI lab request form and any later communication about the items from state investigators.
+Open Questions: Q-951
 
 ---
 
@@ -1438,6 +1452,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Identify who made the unrelated determination, on what information, and where it is recorded in the state and FBI files.
+Open Questions: Q-951
 
 ---
 
@@ -1454,6 +1469,7 @@ Mentions: N-3
 Related Nodes: N-10654
 Tags: relevance:core
 Investigative Direction: Compare the item descriptions in the lab inventory with the eyewitness video and statements about the shooter's clothing and gloves.
+Open Questions: Q-954, Q-955
 
 ---
 
@@ -1473,6 +1489,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3
 Investigative Direction: Obtain the FBI lab DNA results, if any, for exhibit nine and the items from the backpack, with dates of processing.
+Open Questions: Q-951
 
 ---
 
@@ -1490,6 +1507,7 @@ Related Nodes: N-10654
 Supports: C-10879
 Tags: relevance:core
 Investigative Direction: Check the Baker testimony transcript to see whether she said the items were initially treated as shooter-discarded or whether this is the host's inference.
+Open Questions: Q-951, Q-952
 
 ---
 
@@ -1507,6 +1525,7 @@ Related Nodes: N-10653, N-10654
 Supports: C-10890
 Tags: relevance:core
 Investigative Direction: Map the Fulton Library bus stop against the shooter route, the Losee Center and the security detail posts, and identify any detail member there.
+Open Questions: Q-952, Q-955
 
 ---
 
@@ -1539,6 +1558,7 @@ Mentions: N-3
 Related Nodes: N-10654, N-10653
 Tags: relevance:core
 Investigative Direction: Ask UVU, the transit authority and nearby buildings whether cameras covered the library bus stop and request retained footage.
+Open Questions: Q-955
 
 ---
 
@@ -1556,6 +1576,7 @@ Related Nodes: N-10662
 Supports: C-10895
 Tags: relevance:core
 Investigative Direction: Ask the hospital and county EMS for the pre-arrival notification procedure and the log of any notification for September 10.
+Open Questions: Q-894, Q-976
 
 ---
 
@@ -1573,6 +1594,7 @@ Related Nodes: N-10663
 Supports: C-10898
 Tags: relevance:core
 Investigative Direction: Identify the caller from the released 911 records and compare with each car occupant's account.
+Open Questions: Q-894
 
 ---
 
@@ -1590,6 +1612,7 @@ Related Nodes: N-10662, N-10630
 Supports: C-10895
 Tags: relevance:core
 Investigative Direction: Obtain the full Harpole interview and hospital arrival records to test his statement against the 911 pre-notification claim.
+Open Questions: Q-894, Q-976
 
 ---
 
@@ -1606,6 +1629,7 @@ Mentions: N-266, N-97
 Related Nodes: N-10648, N-10663
 Tags: relevance:core
 Investigative Direction: Identify who in the vehicle was on the phone with Shapiro's security and obtain the phone records for the ride.
+Open Questions: Q-894, Q-947
 
 ---
 
@@ -1622,6 +1646,7 @@ Mentions: N-3
 Related Nodes: N-10663
 Tags: relevance:core
 Investigative Direction: Compare dispatch time, vehicle departure time and hospital arrival time from CAD and EMS records.
+Open Questions: Q-894, Q-969
 
 ---
 
@@ -1639,6 +1664,7 @@ Related Nodes: N-10663, N-10630
 Supports: C-10898
 Tags: relevance:core
 Investigative Direction: Review the released 911 audio and logs for a call from the vehicle between 12:23 and 12:30 and publish the identifier of any matching call.
+Open Questions: Q-894
 
 ---
 
@@ -1737,6 +1763,7 @@ Mentions: N-7, N-208
 Related Nodes: N-10741, N-10664
 Tags: relevance:core
 Investigative Direction: Obtain Turek's and Hibbs's call records for the hospital period and compare with Hibbs's own account.
+Open Questions: Q-968
 
 ---
 
@@ -1754,6 +1781,7 @@ Related Nodes: N-10664
 Supports: C-10908
 Tags: relevance:core
 Investigative Direction: Obtain FaceTime call-detail records showing the order, start and end times of the wife and Spencer calls.
+Open Questions: Q-968
 
 ---
 
@@ -1770,6 +1798,7 @@ Mentions: N-777, N-7
 Related Nodes: N-10061, N-11056
 Tags: relevance:core
 Investigative Direction: Verify Zachary Turek's Joint Staff title and dates from Department of Defense directories or biographies.
+Open Questions: Q-968
 
 ---
 
@@ -1786,6 +1815,7 @@ Mentions: N-7, N-97, N-3
 Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Identify the updates relayed to the vehicle and who passed them on, using security communications logs and the occupants' accounts.
+Open Questions: Q-947
 
 ---
 
@@ -1803,6 +1833,7 @@ Related Nodes: N-10663, N-10809
 Supports: C-10897
 Tags: relevance:core
 Investigative Direction: Obtain Turek's outbound call log for September 10 to test whether he called 911 or his son.
+Open Questions: Q-894, Q-968
 
 ---
 
@@ -1835,6 +1866,7 @@ Mentions: N-682, N-1, N-3
 Related Nodes: N-10664
 Tags: relevance:core
 Investigative Direction: Obtain the call-detail records and duty rosters that would show where Spencer and his wife were and what they were doing at 2:23 p.m. Eastern.
+Open Questions: Q-968
 
 ---
 
@@ -1867,6 +1899,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's earliest posts from September 10 and 11 and check the exact wording and time.
+Open Questions: Q-977
 
 ---
 
@@ -1884,6 +1917,7 @@ Related Nodes: N-10664
 Supports: C-10909
 Tags: relevance:core
 Investigative Direction: Request FaceTime and carrier records for Turek, Spencer and the wife for 12:00 to 15:00 Mountain on September 10.
+Open Questions: Q-968
 
 ---
 
@@ -1900,6 +1934,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Identify the video, its source, time and location, and the surrender timeline from the sheriff and county attorney.
+Open Questions: Q-410
 
 ---
 
@@ -1916,6 +1951,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Determine whether any recording of a confession exists and which influencers claimed one before the hearing.
+Open Questions: Q-410
 
 ---
 
@@ -1933,6 +1969,7 @@ Related Nodes: N-10665
 Supports: C-10923
 Tags: relevance:core
 Investigative Direction: Obtain the chain of custody for the rooftop video, any enhancement logs and the version history between Bongino's September 15 remark and the hearing.
+Open Questions: Q-958, Q-970
 
 ---
 
@@ -2094,6 +2131,7 @@ Mentions: N-1, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: The host cites no document here; ask what evidence she holds for a ritual motive.
+Open Questions: Q-978
 
 ---
 
@@ -2223,6 +2261,7 @@ Related Nodes: N-10665, N-10983
 Supports: C-10923
 Tags: relevance:core
 Investigative Direction: Identify the leak and its source and compare the footage shown in court with the original at 12.4.
+Open Questions: Q-970
 
 ---
 
@@ -2255,6 +2294,7 @@ Mentions: N-46, N-3
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Check the court's scheduling order for the date of the September ruling and what it decides.
+Open Questions: Q-979
 
 ---
 
@@ -2335,6 +2375,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Ask the host to specify the military personnel, units or documents behind the position and track the trial evidence against it.
+Open Questions: Q-978
 
 ---
 

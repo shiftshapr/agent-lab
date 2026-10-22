@@ -1054,6 +1054,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10756
 Tags: relevance:core
 Investigative Direction: This rests on the host's source; ask the Kirk family or its lawyers when the suit was first discussed.
+Open Questions: Q-1197
 
 ---
 
@@ -1070,6 +1071,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10756
 Tags: relevance:core
 Investigative Direction: Compare with Erika's public statements on legal action since the shooting.
+Open Questions: Q-1197
 
 ---
 
@@ -1103,6 +1105,7 @@ Related Nodes: N-10762, N-10000
 Supports: C-13190
 Tags: relevance:core
 Investigative Direction: Obtain the review when released and compare its findings with the host's source.
+Open Questions: Q-1198
 
 ---
 
@@ -1120,6 +1123,7 @@ Related Nodes: N-10756, N-10762, N-10000
 Supports: C-13190
 Tags: relevance:core
 Investigative Direction: Compare the date the review was actually released with the notice date.
+Open Questions: Q-1198
 
 ---
 
@@ -1137,6 +1141,7 @@ Related Nodes: N-10590
 Supports: C-13189
 Tags: relevance:core
 Investigative Direction: Compare with security staffing at earlier tour stops.
+Open Questions: Q-1199
 
 ---
 
@@ -1154,6 +1159,7 @@ Related Nodes: N-10590
 Supports: C-13194
 Tags: relevance:core
 Investigative Direction: Verify the team roster and service records against the Harpole interview.
+Open Questions: Q-1199
 
 ---
 
@@ -1320,6 +1326,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Recover the Teams call recording or notes and the attendee list.
+Open Questions: Q-343
 
 ---
 
@@ -1387,6 +1394,7 @@ Related Nodes: N-10318
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the night-before messages and the recipient list; the host elsewhere names Kolvet and Flood as recipients.
+Open Questions: Q-1200
 
 ---
 
@@ -1404,6 +1412,7 @@ Related Nodes: N-10590, N-10012, N-10000
 Supports: C-13210
 Tags: relevance:core
 Investigative Direction: Obtain UVU PD correspondence with the campus club and with TPUSA staff before September 10.
+Open Questions: Q-1201
 
 ---
 
@@ -1454,6 +1463,7 @@ Mentions: N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Review crowd footage and ticket data for the affiliation of attendees.
+Open Questions: Q-1202
 
 ---
 
@@ -1470,6 +1480,7 @@ Mentions: N-3
 Related Nodes: N-10763
 Tags: relevance:core
 Investigative Direction: Obtain the notice paragraph and UVU EMS dispatch records.
+Open Questions: Q-1203
 
 ---
 
@@ -1487,6 +1498,7 @@ Related Nodes: N-10761, N-10763
 Supports: C-13220
 Tags: relevance:core
 Investigative Direction: Review scene video and EMS reports for contact between EMS and the vehicle.
+Open Questions: Q-1203
 
 ---
 
@@ -1503,6 +1515,7 @@ Mentions: N-3
 Related Nodes: N-10763, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain UVU's written event plan and any record of an ambulance on standby; note the host later asks why no ambulance was on standby.
+Open Questions: Q-1203
 
 ---
 
@@ -1522,6 +1535,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain ticket platform records and the ticketing agreement.
+Open Questions: Q-1204
 
 ---
 
@@ -1539,6 +1553,7 @@ Related Nodes: N-10256
 Supports: C-3214, C-8674
 Tags: relevance:core
 Investigative Direction: Compare the Shawn Ryan transcript with the thread participants.
+Open Questions: Q-1205
 
 ---
 
@@ -1558,6 +1573,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain the original thread with metadata.
+Open Questions: Q-1205
 
 ---
 
@@ -1577,6 +1593,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Locate the November 2025 episode and compare the map with the campus layout.
+Open Questions: Q-1205
 
 ---
 
@@ -1594,6 +1611,7 @@ Related Nodes: N-10929, N-10590
 Supports: C-3219, C-2313
 Tags: relevance:core
 Investigative Direction: Ask Flood and Long what concern prompted the thread.
+Open Questions: Q-1205
 
 ---
 
@@ -1613,6 +1631,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Verify the roof geometry between Sorenson, the Hall of Flags and the Losee Center.
+Open Questions: Q-1205
 
 ---
 
@@ -1631,6 +1650,7 @@ Supports: C-13235, C-13095
 Contradicts: C-13240
 Tags: relevance:core
 Investigative Direction: Obtain UVU PD assignment logs for Bagley on September 10.
+Open Questions: Q-1206
 
 ---
 
@@ -1648,6 +1668,7 @@ Related Nodes: N-10590
 Contradicts: C-13240
 Tags: relevance:core
 Investigative Direction: Obtain roof access logs and names of the security members on the roof.
+Open Questions: Q-1206
 
 ---
 
@@ -1664,6 +1685,7 @@ Mentions: N-3
 Related Nodes: N-10590
 Tags: relevance:core
 Investigative Direction: Identify the man in the still and obtain the footage; the surname is spelled Bracie and Bracley in the transcript.
+Open Questions: Q-1206
 
 ---
 
@@ -1714,6 +1736,7 @@ Related Nodes: N-10756, N-10762, N-10000
 Supports: C-13188, C-13191
 Tags: relevance:core
 Investigative Direction: Compare the review's findings and release date with the notice date.
+Open Questions: Q-1198
 
 ---
 
@@ -1730,6 +1753,7 @@ Mentions: N-3
 Related Nodes: N-10763, N-10762
 Tags: relevance:core
 Investigative Direction: Compare with the earlier statement that an ambulance was on standby.
+Open Questions: Q-1203
 
 ---
 
@@ -1761,6 +1785,7 @@ Mentions: N-3, N-270, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor records and TPUSA security payroll records.
+Open Questions: Q-505
 
 ---
 
@@ -1810,6 +1835,7 @@ Related Nodes: N-10757, N-10760
 Supports: C-13250
 Tags: relevance:core
 Investigative Direction: Request retention schedules from St. George PD and Utah records laws.
+Open Questions: Q-1207
 
 ---
 
@@ -1857,6 +1883,7 @@ Mentions: N-3
 Related Nodes: N-10760, N-10757
 Tags: relevance:core
 Investigative Direction: Check Utah Code 77-7a and St. George PD policy; the retention period may differ by agency.
+Open Questions: Q-1207
 
 ---
 
@@ -1873,6 +1900,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10757, N-10760
 Tags: relevance:core
 Investigative Direction: Request the 2022 incident report from St. George PD.
+Open Questions: Q-1208
 
 ---
 
@@ -1889,6 +1917,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10757
 Tags: relevance:core
 Investigative Direction: Obtain the incident report and report number.
+Open Questions: Q-1208
 
 ---
 
@@ -1905,6 +1934,7 @@ Mentions: N-3
 Related Nodes: N-10757
 Tags: relevance:core
 Investigative Direction: Obtain the incident report.
+Open Questions: Q-1208
 
 ---
 
@@ -1921,6 +1951,7 @@ Mentions: N-3
 Related Nodes: N-10757, N-10794
 Tags: relevance:core
 Investigative Direction: Submit records requests to St. George PD and Scripps on who requested and supplied the footage.
+Open Questions: Q-1207
 
 ---
 
@@ -1938,6 +1969,7 @@ Related Nodes: N-10757
 Supports: C-13260
 Tags: relevance:core
 Investigative Direction: Obtain any 2022 records requests naming Robinson.
+Open Questions: Q-1207
 
 ---
 
@@ -1954,6 +1986,7 @@ Mentions: N-3
 Related Nodes: N-10757
 Tags: relevance:core
 Investigative Direction: Search civil dockets for any suit arising from the 2022 crash.
+Open Questions: Q-1207
 
 ---
 
@@ -1970,6 +2003,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10757
 Tags: relevance:core
 Investigative Direction: Identify which speaker is Robinson from the full clip.
+Open Questions: Q-1208
 
 ---
 
@@ -2052,6 +2086,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10293, N-10794
 Tags: relevance:core
 Investigative Direction: Compare published photos of Robinson with the shirts he is shown wearing.
+Open Questions: Q-172, Q-1209
 
 ---
 
@@ -2068,6 +2103,7 @@ Mentions: N-3, N-40
 Related Nodes: N-11326, N-10794
 Tags: relevance:core
 Investigative Direction: Needs gait analysis of both clips; the host offers no direct evidence.
+Open Questions: Q-172
 
 ---
 
@@ -2100,6 +2136,7 @@ Mentions: N-3
 Related Nodes: N-10757
 Tags: relevance:core, dia
 Investigative Direction: Collect tips on St. George PD or Scripps sources.
+Open Questions: Q-1207
 
 ---
 
@@ -2116,6 +2153,7 @@ Mentions: N-3
 Related Nodes: N-10757
 Tags: relevance:core, dia
 Investigative Direction: Collect tips on St. George PD or Scripps sources.
+Open Questions: Q-1207
 
 ---
 
@@ -2337,6 +2375,7 @@ Related Nodes: N-10891
 Supports: C-9901, C-9972, C-10289
 Tags: relevance:core
 Investigative Direction: Compare with Tucker's account of the dinner.
+Open Questions: Q-1196
 
 ---
 
@@ -2353,6 +2392,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11086, N-10891
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA-IFCJ agreement.
+Open Questions: Q-1210
 
 ---
 
@@ -2369,6 +2409,7 @@ Mentions: N-3, N-49
 Related Nodes: N-11086
 Tags: relevance:core
 Investigative Direction: Find Blumenthal's report and the contract.
+Open Questions: Q-1210
 
 ---
 

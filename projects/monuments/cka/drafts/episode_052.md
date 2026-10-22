@@ -1117,6 +1117,7 @@ Related Nodes:
 Mentions: N-3, N-40
 Tags: relevance:core
 Investigative Direction: Obtain court and school records on Robinson's criminal history and ACT score to confirm or refute the host's description.
+Open Questions: Q-447
 
 ---
 
@@ -1134,6 +1135,7 @@ Related Nodes: N-10048
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Obtain the Dairy Queen transaction and camera records and the charging document's description of the post-shooting texts.
+Open Questions: Q-47, Q-56
 
 ---
 
@@ -1150,6 +1152,7 @@ Mentions: N-40
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Interview the three servers and obtain the itemised receipt and the restaurant's staffing roster for the night.
+Open Questions: Q-448
 
 ---
 
@@ -1167,6 +1170,7 @@ Related Nodes: N-10354
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Confirm with the restaurant and neighbouring businesses that no camera covered the bar or entrance on September 10, and obtain the card transaction record.
+Open Questions: Q-448
 
 ---
 
@@ -1182,6 +1186,7 @@ Anchored Artifacts:
 Mentions: N-3, N-40
 Tags: relevance:core
 Investigative Direction: Compare the host's recitation with the text messages released in the charging documents.
+Open Questions: Q-47
 
 ---
 
@@ -1199,6 +1204,7 @@ Related Nodes: N-10354, N-10014
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Request the FBI's tip log and any record of when and how it learned of the Panguitch purchase.
+Open Questions: Q-449
 
 ---
 
@@ -1215,6 +1221,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Interview the servers directly about Robinson's demeanor and obtain the phone records for his texting that evening.
+Open Questions: Q-415
 
 ---
 
@@ -1230,6 +1237,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2
 Tags: relevance:core
 Investigative Direction: Identify the lawyer and the date of the call; ask Erika Kirk's representatives to confirm the conversation.
+Open Questions: Q-423
 
 ---
 
@@ -1247,6 +1255,7 @@ Related Nodes: N-10048, N-10354
 Revises: C-403
 Tags: relevance:core
 Investigative Direction: Obtain the Dairy Queen transaction time, any camera timestamps and the photo metadata to fix the real time of the stop.
+Open Questions: Q-56
 
 ---
 
@@ -1264,6 +1273,7 @@ Related Nodes: N-10354, N-10014
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Ask the FBI and the restaurant whether the receipt was handed over and on what date.
+Open Questions: Q-448, Q-449
 
 ---
 
@@ -1280,6 +1290,7 @@ Mentions: N-69, N-3
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Retrieve the original Patel posts with their timestamps and compare with the host's 5:30 and 5:59 figures.
+Open Questions: Q-450
 
 ---
 
@@ -1296,6 +1307,7 @@ Mentions: N-40, N-54, N-3
 Related Nodes: N-10074, N-10024
 Tags: relevance:core
 Investigative Direction: Compare the host's 6:00 p.m. estimate with the message timestamps in the released Robinson-Lance chain.
+Open Questions: Q-47
 
 ---
 
@@ -1314,6 +1326,7 @@ Revises: C-403
 Supports: C-4526
 Tags: relevance:core
 Investigative Direction: Obtain the original photo's metadata and the Dairy Queen's transaction logs to resolve the time zone question.
+Open Questions: Q-56
 
 ---
 
@@ -1331,6 +1344,7 @@ Related Nodes: N-10354
 Supports: C-4518
 Tags: relevance:core
 Investigative Direction: Obtain the card transaction time and the server's account to confirm arrival and departure times.
+Open Questions: Q-448
 
 ---
 
@@ -1347,6 +1361,7 @@ Mentions: N-40, N-3
 Related Nodes: N-11033, N-10354
 Tags: relevance:core
 Investigative Direction: Identify the grandmother's residence and whether anyone saw Robinson or a vehicle there on the night of September 10.
+Open Questions: Q-451
 
 ---
 
@@ -1363,6 +1378,7 @@ Mentions: N-40, N-3
 Related Nodes: N-11033
 Tags: relevance:core
 Investigative Direction: Locate the grandmother's original public statement and its date and venue.
+Open Questions: Q-451
 
 ---
 
@@ -1379,6 +1395,7 @@ Mentions: N-3
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Check whether any nearby business responds with camera footage covering the restaurant on September 10.
+Open Questions: Q-448
 
 ---
 
@@ -1411,6 +1428,7 @@ Mentions: N-3, N-261
 Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Review the original footage of Farnsworth's actions in the minutes after the shot.
+Open Questions: Q-420
 
 ---
 
@@ -1428,6 +1446,7 @@ Related Nodes: N-10081
 Supports: C-516
 Tags: relevance:core
 Investigative Direction: Obtain the unedited back-view video and have a forensic pathologist assess wound path and bleeding.
+Open Questions: Q-64
 
 ---
 
@@ -1445,6 +1464,7 @@ Related Nodes: N-10672
 Supports: C-4291
 Tags: relevance:core
 Investigative Direction: Request the SUV chain-of-custody and impound records from Utah authorities and the FBI.
+Open Questions: Q-452
 
 ---
 
@@ -1462,6 +1482,7 @@ Related Nodes: N-10226
 Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Obtain the hospital's and the FBI's records of any camera or footage seizure.
+Open Questions: Q-453
 
 ---
 
@@ -1478,6 +1499,7 @@ Mentions: N-3, N-195
 Related Nodes: N-10335
 Tags: relevance:core
 Investigative Direction: Identify the person who received the DC call through hospital and FBI call logs.
+Open Questions: Q-453
 
 ---
 
@@ -1495,6 +1517,7 @@ Related Nodes: N-10416
 Supports: C-4180
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and Dr. Trotter's representatives for the source of the quotation.
+Open Questions: Q-421
 
 ---
 
@@ -1512,6 +1535,7 @@ Related Nodes: N-10318
 Supports: C-3533
 Tags: relevance:core
 Investigative Direction: Obtain the text thread from Kolvet, Flood or Erika Kirk and compare it to the host's description.
+Open Questions: Q-171
 
 ---
 
@@ -1529,6 +1553,7 @@ Related Nodes: N-10318
 Supports: C-4064, C-4543
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's team to confirm publicly what she told the host about the text.
+Open Questions: Q-171
 
 ---
 
@@ -1546,6 +1571,7 @@ Related Nodes: N-10320, N-10018
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's phone records for the Netanyahu call and statements by Erika Kirk on the offer.
+Open Questions: Q-77
 
 ---
 
@@ -1563,6 +1589,7 @@ Related Nodes: N-10320
 Supports: C-2134
 Tags: relevance:core
 Investigative Direction: Identify the independent source, directly or through the host, and the nature of their knowledge.
+Open Questions: Q-77
 
 ---
 
@@ -1580,6 +1607,7 @@ Related Nodes: N-10342
 Supports: C-3852
 Tags: relevance:core
 Investigative Direction: Obtain the incident report (861-1-2025-MPC446) through Fort Huachuca or a FOIA request.
+Open Questions: Q-445
 
 ---
 
@@ -1597,6 +1625,7 @@ Related Nodes: N-10239
 Supports: C-2917
 Tags: relevance:core
 Investigative Direction: Obtain flight-tracking logs and the document the host says is forthcoming.
+Open Questions: Q-236
 
 ---
 
@@ -1614,6 +1643,7 @@ Related Nodes: N-10972
 Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain police reports naming the officers who located the rifle and who directed them.
+Open Questions: Q-20
 
 ---
 
@@ -1632,6 +1662,7 @@ Qualifies: C-3476
 Tags: relevance:core
 Revises: C-3476
 Investigative Direction: Identify the donor behind the reported check through TPUSA donor records or sources.
+Open Questions: Q-454
 
 ---
 
@@ -1647,6 +1678,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1, N-40
 Tags: relevance:core
 Investigative Direction: Obtain the full forensic and ballistic record the prosecution relies on to evaluate the host's position.
+Open Questions: Q-414
 
 ---
 
@@ -1680,6 +1712,7 @@ Mentions: N-3, N-2
 Supports: C-4554
 Tags: relevance:core
 Investigative Direction: Obtain the host's request messages and the intermediary's replies.
+Open Questions: Q-441
 
 ---
 
@@ -1695,6 +1728,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2
 Tags: relevance:core
 Investigative Direction: Identify the intermediary and obtain a direct statement from Erika Kirk's side.
+Open Questions: Q-441
 
 ---
 
@@ -1711,6 +1745,7 @@ Mentions: N-3, N-266
 Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Ask Harpole through a representative whether he received the host's outreach.
+Open Questions: Q-391
 
 ---
 
@@ -1727,6 +1762,7 @@ Mentions: N-3, N-270, N-266
 Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Obtain the Flood-Harpole message record and Flood's September 8-9 location data.
+Open Questions: Q-391
 
 ---
 
@@ -1744,6 +1780,7 @@ Related Nodes: N-10345
 Supports: C-4351
 Tags: relevance:core
 Investigative Direction: Compare Amodei's public height and appearance with Mitch's recorded description.
+Open Questions: Q-442
 
 ---
 
@@ -1761,6 +1798,7 @@ Related Nodes: N-10345
 Supports: C-4351
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's own account of how he identified the photo and his stated confidence.
+Open Questions: Q-442
 
 ---
 
@@ -1778,6 +1816,7 @@ Related Nodes: N-10355, N-10345
 Supports: C-4416
 Tags: relevance:core
 Investigative Direction: Obtain the House Clerk's roll-call record for the date.
+Open Questions: Q-442
 
 ---
 
@@ -1794,6 +1833,7 @@ Mentions: N-3, N-361, N-2, N-266
 Related Nodes: N-10342, N-10347
 Tags: relevance:core
 Investigative Direction: Review Mitch's original contact with the host and what he said about each person.
+Open Questions: Q-441
 
 ---
 
@@ -1811,6 +1851,7 @@ Related Nodes: N-10305
 Supports: C-4336
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's full account and the identities of those in the meeting.
+Open Questions: Q-391
 
 ---
 
@@ -1827,6 +1868,7 @@ Mentions: N-3, N-261
 Related Nodes: N-10721, N-10324
 Tags: relevance:core
 Investigative Direction: Obtain a recording or notes of the call, and Farnsworth's account of what was said.
+Open Questions: Q-420
 
 ---
 
@@ -1843,6 +1885,7 @@ Mentions: N-3, N-261
 Related Nodes: N-10721
 Tags: relevance:core
 Investigative Direction: Ask Farnsworth to explain the statement and how the camera files were later handled.
+Open Questions: Q-420
 
 ---
 
@@ -1859,6 +1902,7 @@ Mentions: N-3, N-2, N-15, N-261
 Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk and Justin Streiff to confirm what was said about Farnsworth in the meeting.
+Open Questions: Q-419
 
 ---
 
@@ -1891,6 +1935,7 @@ Related Nodes: N-10081, N-10172
 Supports: C-4570
 Tags: relevance:core
 Investigative Direction: Obtain the full video and have independent analysts review it frame by frame.
+Open Questions: Q-64
 
 ---
 
@@ -1907,6 +1952,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10081, N-10172
 Tags: relevance:core
 Investigative Direction: Have a forensic pathologist review the video for the blood in the hand and its source.
+Open Questions: Q-64
 
 ---
 
@@ -1971,6 +2017,7 @@ Mentions: N-3, N-2, N-11
 Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's team to confirm the question and her answer.
+Open Questions: Q-419
 
 ---
 
@@ -1987,6 +2034,7 @@ Mentions: N-3, N-2, N-11, N-5
 Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Review rally footage and the public statements in which each described attending.
+Open Questions: Q-455
 
 ---
 
@@ -2003,6 +2051,7 @@ Mentions: N-3, N-2, N-11, N-489, N-5
 Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Review footage of the July 2015 Arizona rally and identify who stood where.
+Open Questions: Q-455
 
 ---
 
@@ -2019,6 +2068,7 @@ Mentions: N-3, N-2, N-11, N-5
 Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's representatives to confirm her account of how she met Bowyer.
+Open Questions: Q-455
 
 ---
 
@@ -2036,6 +2086,7 @@ Related Nodes: N-11028
 Supports: C-4581
 Tags: relevance:core
 Investigative Direction: Compare the memorial remarks with Erika Kirk's own accounts of how they met.
+Open Questions: Q-455
 
 ---
 
@@ -2052,6 +2103,7 @@ Mentions: N-3, N-2, N-11
 Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's team whether she located the old messages and what they show.
+Open Questions: Q-455
 
 ---
 
@@ -2068,6 +2120,7 @@ Mentions: N-3, N-2, N-11
 Related Nodes: N-11028, N-10356
 Tags: relevance:core
 Investigative Direction: Identify which senator or congressman Erika meant and any link to the Farnsworths.
+Open Questions: Q-455, Q-456
 
 ---
 
@@ -2084,6 +2137,7 @@ Mentions: N-3, N-261, N-11
 Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Check yearbooks and public records for the two families in Chandler.
+Open Questions: Q-456
 
 ---
 
@@ -2100,6 +2154,7 @@ Mentions: N-3, N-261, N-11
 Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Check Gilbert High School yearbooks and graduation lists.
+Open Questions: Q-456
 
 ---
 
@@ -2164,6 +2219,7 @@ Mentions: N-3, N-261, N-382, N-380, N-381
 Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Verify the Farnsworth family tree from Arizona public records and obituaries.
+Open Questions: Q-456
 
 ---
 
@@ -2231,6 +2287,7 @@ Related Nodes: N-10356
 Supports: C-4591
 Tags: relevance:core
 Investigative Direction: Confirm the family relationship with marriage and public records for Lori Frantzve.
+Open Questions: Q-457
 
 ---
 
@@ -2394,6 +2451,7 @@ Mentions: N-3, N-380, N-363, N-361
 Related Nodes: N-10345, N-10356
 Tags: relevance:core
 Investigative Direction: Show Mitch photos of Farnsworth and Amodei side by side and compare with his recorded description.
+Open Questions: Q-442
 
 ---
 
@@ -2410,6 +2468,7 @@ Mentions: N-3, N-361, N-380
 Related Nodes: N-10345, N-10356
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's own statement on the photo and whether he can place Farnsworth at the base.
+Open Questions: Q-442
 
 ---
 
@@ -2476,6 +2535,7 @@ Related Nodes: N-10242, N-10356
 Supports: C-2939
 Tags: relevance:core
 Investigative Direction: Verify the family relationship and Bert's role through corporate and marriage records.
+Open Questions: Q-456, Q-458
 
 ---
 
@@ -2748,6 +2808,7 @@ Mentions: N-3, N-2, N-489
 Related Nodes: N-11032
 Tags: relevance:core
 Investigative Direction: Search federal contract databases (SAM.gov, USASpending) for AZ Tech and E3 Tech and their Fort Huachuca testing work.
+Open Questions: Q-457
 
 ---
 
@@ -2765,6 +2826,7 @@ Related Nodes: N-11032
 Supports: C-4630
 Tags: relevance:core
 Investigative Direction: Locate the interview in which Erika Kirk says this and confirm the wording.
+Open Questions: Q-457
 
 ---
 

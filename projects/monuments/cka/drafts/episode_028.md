@@ -974,6 +974,7 @@ Mentions: N-3, N-2, N-97
 Related Nodes: N-10224
 Tags: relevance:core
 Investigative Direction: Trace the earliest accounts and posts pushing the 'Candace attacked Erika' framing and test the host's assertion of coordination with account-level and timing data.
+Open Questions: Q-290, Q-292
 
 ---
 
@@ -1069,6 +1070,7 @@ Mentions: N-46, N-97, N-3
 Related Nodes: N-10379
 Tags: relevance:core
 Investigative Direction: Compare with Kelly's later public statements on the Owens investigation, including those around the same tour stop.
+Open Questions: Q-292
 
 ---
 
@@ -1086,6 +1088,7 @@ Related Nodes: N-10224
 Contradicts: C-2504
 Tags: relevance:core
 Investigative Direction: Search the host's episode transcripts for any statement tying Seth Dillon to the killing, as opposed to the Hamptons pressure claims.
+Open Questions: Q-290
 
 ---
 
@@ -1103,6 +1106,7 @@ Related Nodes: N-10323, N-10016
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Compare Dillon's public statements about the Hamptons meeting with attendee accounts, emails and calendar records of the August 2025 retreat.
+Open Questions: Q-9
 
 ---
 
@@ -1119,6 +1123,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Review the host's earlier episodes for coverage of Erika's background to test the claim that she deliberately held it back.
+Open Questions: Q-290
 
 ---
 
@@ -1264,6 +1269,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Check TPUSA payroll, board and org records for Erika Kirk's role before September 10, 2025, including the September 2 internal memo.
+Open Questions: Q-258
 
 ---
 
@@ -1356,6 +1362,7 @@ Related Nodes: N-10102
 Supports: C-847
 Tags: relevance:core
 Investigative Direction: Find Kirk's own statements using the phrase moral blackmail and the context in which he used it.
+Open Questions: Q-6, Q-292
 
 ---
 
@@ -1487,6 +1494,7 @@ Related Nodes: N-10025
 Supports: C-73
 Tags: relevance:core
 Investigative Direction: Compare with Kirk's own statements about Israel-lobby pressure in the weeks before his death.
+Open Questions: Q-6, Q-292
 
 ---
 
@@ -1692,6 +1700,7 @@ Mentions: N-1, N-2, N-3
 Related Nodes: N-10025
 Tags: relevance:core
 Investigative Direction: Compile the public figures who have demanded the host stop or disavow the investigation and test their ties to Kirk.
+Open Questions: Q-6, Q-280, Q-290
 
 ---
 
@@ -1708,6 +1717,7 @@ Mentions: N-3
 Related Nodes: N-10026, N-10053
 Tags: relevance:core
 Investigative Direction: Find the dated Israeli official statements after September 10, 2025 denying involvement and compare timing with other governments' statements.
+Open Questions: Q-245
 
 ---
 
@@ -1723,6 +1733,7 @@ Anchored Artifacts: A-3026.1
 Mentions: N-97, N-1
 Tags: relevance:core
 Investigative Direction: Find Shapiro's post-assassination statement containing the bloodstained microphone line and its date.
+Open Questions: Q-293
 
 ---
 

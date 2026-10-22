@@ -1005,6 +1005,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Retain the first Next Model inquiry email and any reply or non-reply record to show the comment history.
+Open Questions: Q-654
 
 ---
 
@@ -1021,6 +1022,7 @@ Mentions: N-9
 Related Nodes: N-10478, N-10481
 Tags: relevance:core
 Investigative Direction: Obtain named eyewitnesses or visitor and email records placing Epstein at Next's offices and on what dates.
+Open Questions: Q-655
 
 ---
 
@@ -1038,6 +1040,7 @@ Related Nodes: N-10478
 Supports: C-6859
 Tags: relevance:core
 Investigative Direction: Check agency press and model-biography records for Kates's Eastern European signings and dates.
+Open Questions: Q-655
 
 ---
 
@@ -1054,6 +1057,7 @@ Mentions: N-568, N-9, N-886
 Related Nodes: N-11207
 Tags: relevance:core
 Investigative Direction: Verify Kates's Wilhelmina title and dates and the Wilhelmina founding record; test the host's claim that she knew Epstein in that period.
+Open Questions: Q-653
 
 ---
 
@@ -1070,6 +1074,7 @@ Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the donors, dates and amounts withdrawn from TPUSA in 2025 through donor records, filings or named sources.
+Open Questions: Q-6
 
 ---
 
@@ -1085,6 +1090,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Locate the recorded or written statements, or witnesses, to Kirk saying he was finished with the pro-Israel cause, with dates.
+Open Questions: Q-2
 
 ---
 
@@ -1131,6 +1137,7 @@ Anchored Artifacts:
 Mentions: N-2, N-55, N-1
 Tags: relevance:core
 Investigative Direction: Search Erika Kirk's public statements after Hammer's remarks for any reference to Hammer or to Charlie's Israel position.
+Open Questions: Q-2
 
 ---
 
@@ -1162,6 +1169,7 @@ Mentions: N-2
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Review Erika's published bios and interviews for any mention of employment at Next or another modeling agency.
+Open Questions: Q-654
 
 ---
 
@@ -1179,6 +1187,7 @@ Related Nodes: N-10478
 Supports: C-6860
 Tags: relevance:core
 Investigative Direction: Obtain the eyewitnesses' names, dates and the apartments they associate with Erika; seek corroborating emails or leases.
+Open Questions: Q-654, Q-663
 
 ---
 
@@ -1211,6 +1220,7 @@ Mentions: N-2
 Related Nodes: N-11208, N-10478
 Tags: relevance:core
 Investigative Direction: Identify the building through the eyewitnesses and check Manhattan property, lease and broker-of-record records for Erika's name.
+Open Questions: Q-663
 
 ---
 
@@ -1227,6 +1237,7 @@ Mentions: N-2
 Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Pin down the dates of the Next-office recollections and compare with the license issue date of October 24, 2018 from the NY Department of State record.
+Open Questions: Q-656
 
 ---
 
@@ -1243,6 +1254,7 @@ Mentions: N-2, N-573, N-574
 Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Ask the people who heard this to identify the family and the deals; look for deeds, listings or broker records tied to the Rothsteins.
+Open Questions: Q-663, Q-664
 
 ---
 
@@ -1259,6 +1271,7 @@ Mentions: N-2, N-573
 Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Confirm the shared residence and dates with leases or witnesses, and Nicole Rothstein's licensing and company records.
+Open Questions: Q-664
 
 ---
 
@@ -1275,6 +1288,7 @@ Mentions: N-574, N-2
 Related Nodes: N-11209
 Tags: relevance:core
 Investigative Direction: Check New York corporate filings and Win Haven's own materials for Rothstein's chairmanship and dates.
+Open Questions: Q-664
 
 ---
 
@@ -1305,6 +1319,7 @@ Anchored Artifacts:
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Collect casting and audition records and dates for The American Race and any dating show to place them against the real estate timeline.
+Open Questions: Q-651
 
 ---
 
@@ -1321,6 +1336,7 @@ Mentions: N-2
 Related Nodes: N-10483
 Tags: relevance:core
 Investigative Direction: Identify any developer employer or project Erika worked with in New York before her 2018 license.
+Open Questions: Q-656
 
 ---
 
@@ -1337,6 +1353,7 @@ Mentions: N-2
 Related Nodes: N-11082, N-11081
 Tags: relevance:core
 Investigative Direction: Pull IRS Form 990s and any USMC acknowledgment for Everyday Heroes and verify the China, Costa Rica and Constanta activities.
+Open Questions: Q-470, Q-665
 
 ---
 
@@ -1353,6 +1370,7 @@ Mentions: N-2
 Related Nodes: N-11022, N-10483
 Tags: relevance:core
 Investigative Direction: Check pageant and NCAA rosters and request Liberty enrollment confirmation for the Juris Master program.
+Open Questions: Q-644, Q-650, Q-665
 
 ---
 
@@ -1369,6 +1387,7 @@ Mentions: N-2
 Related Nodes: N-11022, N-10462
 Tags: relevance:core
 Investigative Direction: Build a dated timeline of each activity from licensing, enrollment, Everyday Heroes and Turning Point records and test for overlap; verify the 77-hour requirement with the NY Department of State.
+Open Questions: Q-665
 
 ---
 
@@ -1385,6 +1404,7 @@ Mentions: N-2
 Related Nodes: N-11081, N-10482
 Tags: relevance:core
 Investigative Direction: Find Erika's own recent statements describing Romanian Angels and compare them with the audition-tape description of opening and sustaining an orphanage.
+Open Questions: Q-470
 
 ---
 
@@ -1401,6 +1421,7 @@ Mentions: N-2
 Related Nodes: N-10482, N-11081
 Tags: relevance:core
 Investigative Direction: Establish which US base the host means and whether Romanian Angels' beneficiaries were housed at the center through Romanian child-protection or NGO records.
+Open Questions: Q-470
 
 ---
 
@@ -1417,6 +1438,7 @@ Mentions: N-572, N-2
 Related Nodes: N-10482
 Tags: relevance:core
 Investigative Direction: Identify which fact-checks the writer means and what they actually examined.
+Open Questions: Q-470
 
 ---
 
@@ -1433,6 +1455,7 @@ Mentions: N-11, N-2, N-1
 Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Collect each of Erika's and Bowyer's accounts of the first meeting and compare them.
+Open Questions: Q-455
 
 ---
 
@@ -1449,6 +1472,7 @@ Mentions: N-11, N-735
 Related Nodes: N-10368, N-10484
 Tags: relevance:core
 Investigative Direction: Establish the dates of the base setup, Frantzve's Romania posting and Bowyer's trip, which another node dates to 2011.
+Open Questions: Q-472, Q-646
 
 ---
 
@@ -1513,6 +1537,7 @@ Mentions: N-11, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Find lease, site-selection and board records showing who chose the Phoenix headquarters site.
+Open Questions: Q-614
 
 ---
 
@@ -1545,6 +1570,7 @@ Mentions: N-489, N-11, N-2
 Related Nodes: N-10843, N-10486
 Tags: relevance:core
 Investigative Direction: Pull Super Feed's Arizona Corporation Commission filings for directors and officers.
+Open Questions: Q-455, Q-666
 
 ---
 
@@ -1562,6 +1588,7 @@ Related Nodes: N-10000
 Supports: C-4823
 Tags: relevance:core
 Investigative Direction: Look for TPUSA or affiliated entity property purchases, LLC filings or real-estate program announcements and Bowyer's role.
+Open Questions: Q-481
 
 ---
 
@@ -1579,6 +1606,7 @@ Related Nodes: N-11087, N-10404
 Supports: C-3541
 Tags: relevance:core
 Investigative Direction: Obtain the memo or message creating the internal audit or DOGE effort and its date.
+Open Questions: Q-308
 
 ---
 
@@ -1595,6 +1623,7 @@ Mentions: N-575, N-11
 Related Nodes: N-10000, N-10485
 Tags: relevance:core
 Investigative Direction: Check business filings showing shared entities between Hoffman and Bowyer and Hoffman's TPUSA employment dates.
+Open Questions: Q-667
 
 ---
 
@@ -1611,6 +1640,7 @@ Mentions: N-575, N-1
 Related Nodes: N-10485
 Tags: relevance:core
 Investigative Direction: Confirm the introduction date and sponsors on the Arizona Legislature bill history for SB 1439.
+Open Questions: Q-668
 
 ---
 
@@ -1643,6 +1673,7 @@ Mentions:
 Related Nodes: N-10485
 Tags: relevance:core
 Investigative Direction: Check roll-call votes for SB 1439 on the Arizona Legislature site.
+Open Questions: Q-668
 
 ---
 
@@ -1707,6 +1738,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10000, N-10485
 Tags: relevance:core
 Investigative Direction: Determine the intended fund recipient from the bill's fund text and any TPUSA statement.
+Open Questions: Q-668
 
 ---
 
@@ -1723,6 +1755,7 @@ Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare the Charlie Kirk Show archive on YouTube and podcast platforms before and after September 2025 for removed episodes.
+Open Questions: Q-669
 
 ---
 
@@ -1739,6 +1772,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Find the dated public or private invitations and any TPUSA reply.
+Open Questions: Q-670
 
 ---
 
@@ -1787,6 +1821,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Look for dated public or private statements by Kirk on Zionism and Israel that show the convergence.
+Open Questions: Q-2
 
 ---
 
@@ -1802,6 +1837,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Identify the specific statements by Kirk and who he said was bullying him.
+Open Questions: Q-6
 
 ---
 

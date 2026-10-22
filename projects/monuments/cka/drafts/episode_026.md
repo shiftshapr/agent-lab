@@ -1241,6 +1241,7 @@ Related Nodes: N-10211, N-10012
 Supports: C-2281
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's campus-tour approval records for fall 2025 and compare request-to-approval intervals for other stops with UVU's.
+Open Questions: Q-266, Q-268
 
 ---
 
@@ -1289,6 +1290,7 @@ Mentions: N-1
 Related Nodes: N-10000, N-10211
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA event-planning SOPs or former tour staff accounts on approval lead times and rollover practice.
+Open Questions: Q-268
 
 ---
 
@@ -1305,6 +1307,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10211
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA and UVU correspondence on the request and approval; identify who approved it and when.
+Open Questions: Q-268
 
 ---
 
@@ -1321,6 +1324,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10012, N-10211
 Tags: relevance:core
 Investigative Direction: Obtain the fall 2025 tour schedule, including the second Utah campus stop and its booking date.
+Open Questions: Q-278
 
 ---
 
@@ -1337,6 +1341,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the source of Kirk's own words on faltering on the pro-Israel cause and document any takeover steps at TPUSA after September 10.
+Open Questions: Q-2, Q-21
 
 ---
 
@@ -1353,6 +1358,7 @@ Mentions: N-131, N-1, N-5
 Related Nodes: N-10191, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the memorial speaker list and transcript of the speeches.
+Open Questions: Q-279
 
 ---
 
@@ -1370,6 +1376,7 @@ Related Nodes: N-10186
 Supports: C-2263
 Tags: relevance:core
 Investigative Direction: Obtain McCoy's original statement and any notebook pages or provenance for the succession plan.
+Open Questions: Q-260
 
 ---
 
@@ -1386,6 +1393,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10186
 Tags: relevance:core
 Investigative Direction: Ask TPUSA for access to or custody records of the notebooks; check probate or estate filings for a will.
+Open Questions: Q-260
 
 ---
 
@@ -1402,6 +1410,7 @@ Mentions: N-1, N-22, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify who has publicly stated that Kirk would want this, and the exact words used.
+Open Questions: Q-280
 
 ---
 
@@ -1562,6 +1571,7 @@ Mentions: N-5, N-223, N-1
 Related Nodes: N-10535
 Tags: relevance:core
 Investigative Direction: Count Trump's Truth Social posts on Mamdani and on the Kirk investigation over the same period.
+Open Questions: Q-281
 
 ---
 
@@ -1578,6 +1588,7 @@ Mentions: N-5, N-1
 Related Nodes: N-10535
 Tags: relevance:core
 Investigative Direction: Search Trump's Truth Social posts since September 10 for any reference to investigating Kirk's murder.
+Open Questions: Q-281
 
 ---
 
@@ -1674,6 +1685,7 @@ Mentions: N-98, N-1, N-22
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain donor records or statements confirming a $2 million withdrawal and its stated reason.
+Open Questions: Q-60
 
 ---
 
@@ -1789,6 +1801,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2
 Investigative Direction: Obtain the multi-angle footage and security team accounts of the first minute after the shot.
+Open Questions: Q-231
 
 ---
 
@@ -1805,6 +1818,7 @@ Mentions: N-1
 Related Nodes: N-10213
 Tags: relevance:core
 Investigative Direction: Obtain the back and side footage and identify the guard and the equipment case.
+Open Questions: Q-282
 
 ---
 
@@ -1821,6 +1835,7 @@ Mentions: N-1, N-180
 Related Nodes: N-10213
 Tags: relevance:core
 Investigative Direction: Review post-shooting footage around the camera removal for the presence of the equipment box.
+Open Questions: Q-63, Q-282
 
 ---
 
@@ -1838,6 +1853,7 @@ Related Nodes: N-10213, N-11018
 Supports: C-1971
 Tags: relevance:core
 Investigative Direction: Obtain the security contract and footage timing of the first 30 seconds on the ground.
+Open Questions: Q-231
 
 ---
 
@@ -1855,6 +1871,7 @@ Related Nodes: N-10214
 Supports: C-1738
 Tags: relevance:core
 Investigative Direction: Obtain the full-length footage of Mikey McCoy's path and posture after the shot.
+Open Questions: Q-213
 
 ---
 
@@ -1871,6 +1888,7 @@ Mentions: N-159, N-190, N-1
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Obtain Neff's full interview and the video of his and McCoy's movements.
+Open Questions: Q-213
 
 ---
 
@@ -1887,6 +1905,7 @@ Mentions: N-159, N-190
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Compare Neff's account with footage tracking both men's positions.
+Open Questions: Q-213
 
 ---
 
@@ -1903,6 +1922,7 @@ Mentions: N-159, N-190, N-2
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain Neff's full interview and statements from others at the scene.
+Open Questions: Q-212
 
 ---
 
@@ -1919,6 +1939,7 @@ Mentions: N-159, N-190, N-2
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain Neff's full interview and ask other staff present whether the instruction was given.
+Open Questions: Q-212, Q-283
 
 ---
 
@@ -1935,6 +1956,7 @@ Mentions: N-190, N-159
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Obtain wide footage tracking both men's movements from the shot to the vehicles.
+Open Questions: Q-213
 
 ---
 
@@ -1951,6 +1973,7 @@ Mentions: N-190, N-2, N-159
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain call logs for Mikey McCoy and Erika Kirk covering the minutes after the shot.
+Open Questions: Q-212
 
 ---
 
@@ -1967,6 +1990,7 @@ Mentions: N-190, N-217
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Identify the host's source and obtain call logs for the three reported calls.
+Open Questions: Q-212, Q-242
 
 ---
 
@@ -1983,6 +2007,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10211
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA and UVU records on the event request and confirmation dates.
+Open Questions: Q-268
 
 ---
 
@@ -1999,6 +2024,7 @@ Mentions: N-159
 Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Locate Neff's statement on arrival time and compare with transport and hospital records.
+Open Questions: Q-224
 
 ---
 
@@ -2015,6 +2041,7 @@ Mentions: N-190, N-159, N-7
 Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Obtain hospital access logs and security records for who was admitted and when.
+Open Questions: Q-283
 
 ---
 
@@ -2031,6 +2058,7 @@ Mentions: N-3
 Related Nodes: N-10185, N-10208
 Tags: relevance:core
 Investigative Direction: Identify who has stated that releasing call logs or footage would harm the case.
+Open Questions: Q-284
 
 ---
 
@@ -2047,6 +2075,7 @@ Mentions: N-3
 Related Nodes: N-10185, N-10214
 Tags: relevance:core
 Investigative Direction: Obtain the call logs for the calls described by Neff and compare timing.
+Open Questions: Q-212
 
 ---
 
@@ -2064,6 +2093,7 @@ Related Nodes: N-10215
 Supports: C-2262
 Tags: relevance:core
 Investigative Direction: Document statements and role changes that elevated Mikey McCoy after September 10.
+Open Questions: Q-243
 
 ---
 
@@ -2080,6 +2110,7 @@ Mentions: N-1
 Related Nodes: N-10215, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the YouTube channel upload and scheduling history for September 2025.
+Open Questions: Q-285
 
 ---
 
@@ -2096,6 +2127,7 @@ Mentions: N-1, N-97, N-95, N-190, N-217
 Related Nodes: N-10215
 Tags: relevance:core
 Investigative Direction: Capture the channel's upload list as of the date the screenshot was taken.
+Open Questions: Q-285
 
 ---
 
@@ -2112,6 +2144,7 @@ Mentions: N-211, N-2, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Locate the Fox News airing date and transcript of the Watters interview with Erika Kirk.
+Open Questions: Q-255
 
 ---
 
@@ -2288,6 +2321,7 @@ Mentions: N-3
 Related Nodes: N-10070, N-10000, N-11143
 Tags: relevance:core
 Investigative Direction: Obtain donor, board and staffing records at TPUSA showing APAC or AIPAC-linked influence; follow the host's promised evidence.
+Open Questions: Q-286
 
 ---
 
@@ -2304,6 +2338,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10214, N-10190
 Tags: relevance:core
 Investigative Direction: Obtain footage and call records for a behavioral comparison against the witness accounts.
+Open Questions: Q-21, Q-212, Q-213
 
 ---
 
@@ -2320,6 +2355,7 @@ Mentions: N-3
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: None: interpretive assertion; would require the evidence of a military link to be produced.
+Open Questions: Q-21
 
 ---
 
@@ -2336,6 +2372,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: None: conditional inference by the host; no evidence offered on air.
+Open Questions: Q-21
 
 ---
 
@@ -2353,6 +2390,7 @@ Related Nodes: N-10212
 Supports: C-2295
 Tags: relevance:core
 Investigative Direction: Obtain the underlying phone-location data and official responses regarding the reported Israeli devices at UVU.
+Open Questions: Q-271
 
 ---
 
@@ -2369,6 +2407,7 @@ Mentions: N-69, N-3
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Identify the host's source and any corroborating FBI accounts.
+Open Questions: Q-287
 
 ---
 

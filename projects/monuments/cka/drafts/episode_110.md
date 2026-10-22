@@ -1287,6 +1287,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10611
 Tags: relevance:core
 Investigative Direction: Obtain the SAM702 flight manifest and passenger list for September 8-9, 2025 (FOIA, Air Mobility Command, Fort Huachuca flight operations).
+Open Questions: Q-854
 
 ---
 
@@ -1304,6 +1305,7 @@ Related Nodes: N-10425
 Supports: C-271
 Tags: relevance:core
 Investigative Direction: Ask Charlie Kirk Show staff or TPUSA for the booking request; look for contemporaneous reporting of Netanyahu's team approaching the Kirk show.
+Open Questions: Q-860
 
 ---
 
@@ -1385,6 +1387,7 @@ Mentions: N-1, N-36
 Related Nodes: N-10425, N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Obtain statements from Kirk's circle, Hamptons attendees or messages showing Kirk's stated reasons for declining the Netanyahu appearance.
+Open Questions: Q-2, Q-9, Q-860
 
 ---
 
@@ -1401,6 +1404,7 @@ Mentions: N-3
 Related Nodes: N-10612, N-10325
 Tags: relevance:core
 Investigative Direction: Pull ADS-B archive data for the Egyptian-registered Falcon aircraft she names and check for short Cairo round trips with transponder gaps.
+Open Questions: Q-426
 
 ---
 
@@ -1417,6 +1421,7 @@ Mentions: N-3
 Related Nodes: N-10612, N-10325
 Tags: relevance:core
 Investigative Direction: Reproduce the range calculation using the recorded departure and return times of the Cairo round trips.
+Open Questions: Q-426
 
 ---
 
@@ -1433,6 +1438,7 @@ Mentions: N-3
 Related Nodes: N-10612
 Tags: relevance:core
 Investigative Direction: Check flight-tracking history for the SU-BT* aircraft on October 7, 2023 (departure time from Cairo).
+Open Questions: Q-876
 
 ---
 
@@ -1449,6 +1455,7 @@ Mentions: N-3
 Related Nodes: N-10612
 Tags: relevance:core
 Investigative Direction: Check flight history and airport records for the aircraft in St. Louis in October 2023.
+Open Questions: Q-876
 
 ---
 
@@ -1465,6 +1472,7 @@ Mentions: N-3
 Related Nodes: N-10612
 Tags: relevance:core
 Investigative Direction: Check flight history for the aircraft around April 14, 2024; confirm the Paris stay length.
+Open Questions: Q-876
 
 ---
 
@@ -1528,6 +1536,7 @@ Mentions: N-266, N-361
 Related Nodes: N-10347, N-10342
 Tags: relevance:core
 Investigative Direction: Obtain Harpole's direct answer or contracting records for Fort Huachuca on September 8-9, 2025; reinterview the witness.
+Open Questions: Q-391
 
 ---
 
@@ -1560,6 +1569,7 @@ Mentions: N-3
 Related Nodes: N-10611, N-10305
 Tags: relevance:core
 Investigative Direction: Review flight-tracking and FOIA records of departures from Libby Army Airfield on September 9, 2025.
+Open Questions: Q-854
 
 ---
 
@@ -1576,6 +1586,7 @@ Mentions: N-433
 Related Nodes: N-10611
 Tags: relevance:core
 Investigative Direction: Obtain the SAM702 manifest and Hansell's travel calendar through FOIA; the host says her request is pending (see later episodes).
+Open Questions: Q-854
 
 ---
 
@@ -1653,6 +1664,7 @@ Mentions: N-437, N-14
 Related Nodes: N-10610
 Tags: relevance:core
 Investigative Direction: Check corporate records and bios for the Kairos Company and Kolvet's and Moore's roles.
+Open Questions: Q-877
 
 ---
 
@@ -1700,6 +1712,7 @@ Mentions: N-305
 Related Nodes: N-10292
 Tags: relevance:core
 Investigative Direction: Check flight tracking and any manifest for SU-BTU on May 27-June 2, 2025 and the passenger name.
+Open Questions: Q-878
 
 ---
 
@@ -1716,6 +1729,7 @@ Mentions: N-305, N-1
 Related Nodes: N-10292
 Tags: relevance:core
 Investigative Direction: Obtain passenger and handling records for the Egyptian aircraft at Wilmington on September 10, 2025.
+Open Questions: Q-878
 
 ---
 
@@ -1777,6 +1791,7 @@ Mentions: N-1, N-590, N-36
 Related Nodes: N-10613
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor logs or participants' accounts for June 18-19, 2025 and Weinstein's source for the dates.
+Open Questions: Q-879
 
 ---
 
@@ -1793,6 +1808,7 @@ Mentions: N-1
 Related Nodes: N-10613
 Tags: relevance:core
 Investigative Direction: Compare Trump's statements and actions between June 18 and June 21, 2025 with accounts of the meeting.
+Open Questions: Q-879
 
 ---
 
@@ -1842,6 +1858,7 @@ Related Nodes: N-10113, N-10118, N-10117
 Supports: C-810
 Tags: relevance:core
 Investigative Direction: Obtain Jezebel's published piece and Etsy order dates for the curse purchase to compare with June 18-19.
+Open Questions: Q-880
 
 ---
 
@@ -1858,6 +1875,7 @@ Mentions: N-17
 Related Nodes: N-10210
 Tags: relevance:core
 Investigative Direction: Check Calvary Chapel Thousand Oaks announcements and church records for McCoy's resignation date.
+Open Questions: Q-264
 
 ---
 
@@ -1890,6 +1908,7 @@ Mentions: N-22, N-9
 Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Watch the full speech video and check donor reaction reporting.
+Open Questions: Q-265
 
 ---
 
@@ -1922,6 +1941,7 @@ Mentions: N-2, N-665
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Find the retreat program or video and flight records for July 14, 2025.
+Open Questions: Q-881
 
 ---
 
@@ -1953,6 +1973,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10248
 Tags: relevance:core
 Investigative Direction: Obtain the recording or transcript of Erika's July 14 remarks.
+Open Questions: Q-881
 
 ---
 
@@ -1969,6 +1990,7 @@ Mentions: N-1
 Related Nodes: N-10614, N-10012
 Tags: relevance:core
 Investigative Direction: Compare the UVU event request timeline with TPUSA's other fall 2025 stops; ask TPUSA for typical lead times.
+Open Questions: Q-763
 
 ---
 
@@ -1985,6 +2007,7 @@ Related Nodes: N-10259, N-10612
 Supports: C-3268
 Tags: relevance:core
 Investigative Direction: Check SU-BTT flight history for the July 2025 Omaha and Lincoln legs.
+Open Questions: Q-876
 
 ---
 
@@ -2033,6 +2056,7 @@ Mentions: N-279
 Related Nodes: N-10259
 Tags: relevance:core
 Investigative Direction: Obtain the Nebraska Secretary of State's calendar and trade-mission announcement for July 2025 and names of the Egyptian participants.
+Open Questions: Q-365
 
 ---
 
@@ -2064,6 +2088,7 @@ Mentions: N-1
 Related Nodes: N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Compare with other accounts of the retreat dates (earlier episodes give August 4-5); obtain attendee schedules.
+Open Questions: Q-9
 
 ---
 
@@ -2080,6 +2105,7 @@ Mentions: N-1, N-46
 Related Nodes: N-10129
 Tags: relevance:core
 Investigative Direction: Review the Megyn Kelly Show episode with Kirk after the Hamptons weekend for the quoted remarks.
+Open Questions: Q-9
 
 ---
 
@@ -2111,6 +2137,7 @@ Mentions: N-1
 Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Obtain the group-chat message and its timestamp.
+Open Questions: Q-2, Q-146
 
 ---
 
@@ -2127,6 +2154,7 @@ Mentions: N-1, N-55
 Supports: C-1537
 Tags: relevance:core
 Investigative Direction: Obtain the Zoom invite and the text messages with timestamps from recipients.
+Open Questions: Q-146, Q-576
 
 ---
 
@@ -2142,6 +2170,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Obtain the actual messages; ask TPUSA to state where the rooftop explanation originated.
+Open Questions: Q-576
 
 ---
 
@@ -2248,6 +2277,7 @@ Mentions: N-3, N-1
 Related Nodes: N-11316
 Tags: relevance:core
 Investigative Direction: Obtain the host's earliest emails and Wayback/Apple Podcasts captures of the Charlie Kirk Show feed before and after November 3.
+Open Questions: Q-669
 
 ---
 
@@ -2264,6 +2294,7 @@ Mentions: N-2, N-1, N-46
 Related Nodes: N-10606, N-11316
 Tags: relevance:core
 Investigative Direction: Compare Charlie's public statements on women and work with the Aspen appointment story as Erika told it.
+Open Questions: Q-669, Q-868
 
 ---
 
@@ -2279,6 +2310,7 @@ Anchored Artifacts: A-3336.1
 Related Nodes: N-11316
 Tags: relevance:core
 Investigative Direction: Compare archived feeds and platform listings before and after November 2025 to identify removed episodes, tweets and Q&As.
+Open Questions: Q-669
 
 ---
 
@@ -2295,6 +2327,7 @@ Mentions: N-3
 Related Nodes: N-11316
 Tags: relevance:core
 Investigative Direction: Collect the emailed dead links and match them against platform archives.
+Open Questions: Q-669
 
 ---
 
@@ -2310,6 +2343,7 @@ Anchored Artifacts:
 Related Nodes: N-11316
 Tags: relevance:core
 Investigative Direction: Check Apple Podcasts' actual per-feed episode limits, and compare the Charlie Kirk Show feed history.
+Open Questions: Q-669
 
 ---
 
@@ -2341,6 +2375,7 @@ Anchored Artifacts: A-3334.1
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Track responses to the tip request; verify any archive link submitted.
+Open Questions: Q-669
 
 ---
 
@@ -2357,6 +2392,7 @@ Mentions: N-1, N-2, N-3
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Locate the 2022 Charlie Kirk Q&A video and transcript containing the remark and compare with the Aspen audio.
+Open Questions: Q-669, Q-849
 
 ---
 
@@ -2489,6 +2525,7 @@ Anchored Artifacts: A-3335.4
 Mentions: N-2, N-3
 Tags: relevance:core
 Investigative Direction: List Erika Kirk's media appearances since the Blake Neff exchange and compare with the host's account.
+Open Questions: Q-874
 
 ---
 
@@ -2520,6 +2557,7 @@ Anchored Artifacts: A-3335.4
 Mentions: N-2, N-14, N-3
 Tags: relevance:core
 Investigative Direction: Ask Kolvet whether he communicated with the host; the host holds the message history.
+Open Questions: Q-839
 
 ---
 

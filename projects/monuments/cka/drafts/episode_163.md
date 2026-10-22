@@ -693,6 +693,7 @@ Related Nodes: N-10651
 Supports: C-12665
 Tags: relevance:core
 Investigative Direction: Rental records for the second Denali and Neff's own account of his travel that day.
+Open Questions: Q-943
 
 ---
 
@@ -709,6 +710,7 @@ Mentions: N-159, N-367, N-1
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: UVU footage and phone location data for Neff and Philip between the shot and about 1:00 p.m.
+Open Questions: Q-943
 
 ---
 
@@ -726,6 +728,7 @@ Related Nodes: N-10190
 Supports: C-12691
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's call log for September 10 (time of first call to Erika Kirk).
+Open Questions: Q-212
 
 ---
 
@@ -742,6 +745,7 @@ Mentions: N-159, N-190, N-17, N-1
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's and Rob McCoy's call records for September 10.
+Open Questions: Q-212
 
 ---
 
@@ -758,6 +762,7 @@ Mentions: N-159, N-190
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: UVU scene footage of Mikey McCoy after the shooting.
+Open Questions: Q-212
 
 ---
 
@@ -774,6 +779,7 @@ Mentions: N-159, N-190, N-2
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Erika Kirk's call log showing who told her of the death.
+Open Questions: Q-820
 
 ---
 
@@ -806,6 +812,7 @@ Mentions:
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Rental agreements for the TPUSA vehicles at UVU on September 10.
+Open Questions: Q-1132
 
 ---
 
@@ -822,6 +829,7 @@ Mentions: N-951, N-952
 Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Rental and driver assignment records for the security vehicles.
+Open Questions: Q-1132
 
 ---
 
@@ -838,6 +846,7 @@ Mentions: N-492, N-367
 Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Rental and driver assignment records for the TPUSA vehicles.
+Open Questions: Q-1132
 
 ---
 
@@ -855,6 +864,7 @@ Related Nodes: N-11179
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Utah ICAC Task Force records and the statement itself.
+Open Questions: Q-1188
 
 ---
 
@@ -871,6 +881,7 @@ Mentions: N-954, N-190
 Related Nodes: N-11179
 Tags: relevance:core
 Investigative Direction: Utah ICAC Task Force personnel roster and separation records.
+Open Questions: Q-1188
 
 ---
 
@@ -887,6 +898,7 @@ Mentions: N-190
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's call log for the period after the ICAC statement.
+Open Questions: Q-1188
 
 ---
 
@@ -903,6 +915,7 @@ Mentions: N-159, N-367
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Time-stamped UVU footage of Neff and Philip between the shot and 1:00 p.m.
+Open Questions: Q-943
 
 ---
 
@@ -919,6 +932,7 @@ Mentions:
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Identity of the agencies and drivers of the white vehicles at UVU.
+Open Questions: Q-1252
 
 ---
 
@@ -935,6 +949,7 @@ Mentions: N-159, N-367, N-504
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Original unenhanced UVU footage and its time code.
+Open Questions: Q-1253
 
 ---
 
@@ -951,6 +966,7 @@ Mentions: N-271, N-159, N-504, N-367
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: UVU police records of Chief Long's location near 1:00 p.m.
+Open Questions: Q-1253
 
 ---
 
@@ -967,6 +983,7 @@ Mentions: N-159, N-367, N-504, N-896, N-953, N-951
 Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: UVU footage of the employee lot near 1:00 p.m.
+Open Questions: Q-1252
 
 ---
 
@@ -983,6 +1000,7 @@ Mentions:
 Related Nodes: N-10929, N-11335
 Tags: relevance:core
 Investigative Direction: UVU campus map and lot camera footage.
+Open Questions: Q-1252
 
 ---
 
@@ -999,6 +1017,7 @@ Mentions:
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Registration of the white vehicles parked at the UVU roundabout.
+Open Questions: Q-1252
 
 ---
 
@@ -1015,6 +1034,7 @@ Mentions: N-190, N-504, N-953, N-951
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Original footage frames behind the slideshow labels.
+Open Questions: Q-1252
 
 ---
 
@@ -1032,6 +1052,7 @@ Related Nodes:
 Supports: C-12588
 Tags: relevance:core
 Investigative Direction: Compare with earlier UVU footage of Danny Philip's backpack.
+Open Questions: Q-1252
 
 ---
 
@@ -1048,6 +1069,7 @@ Mentions: N-190, N-159, N-504, N-367, N-953, N-896, N-951
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Identity of the officers driving each white vehicle.
+Open Questions: Q-1252
 
 ---
 
@@ -1064,6 +1086,7 @@ Mentions: N-504, N-190, N-367, N-159, N-951
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Original UVU employee-lot footage.
+Open Questions: Q-1252
 
 ---
 
@@ -1080,6 +1103,7 @@ Mentions: N-190, N-159, N-367
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Roundabout camera footage and vehicle plates.
+Open Questions: Q-1252
 
 ---
 
@@ -1097,6 +1121,7 @@ Related Nodes: N-11134, N-11124, N-11335
 Supports: C-12686
 Tags: relevance:core
 Investigative Direction: Fox 5 Atlanta raw feed time code.
+Open Questions: Q-994
 
 ---
 
@@ -1113,6 +1138,7 @@ Mentions: N-1, N-5
 Related Nodes: N-11124
 Tags: relevance:core
 Investigative Direction: Fox 5 Atlanta broadcast archive for September 10.
+Open Questions: Q-994
 
 ---
 
@@ -1129,6 +1155,7 @@ Mentions:
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Tip responses; agency assignment records for Timpanogos on September 10.
+Open Questions: Q-1252
 
 ---
 
@@ -1145,6 +1172,7 @@ Mentions: N-953, N-896, N-951
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Security members' own accounts and phone location data after 1:00 p.m.
+Open Questions: Q-1254
 
 ---
 
@@ -1161,6 +1189,7 @@ Mentions: N-159
 Related Nodes: N-11124, N-11335
 Tags: relevance:core
 Investigative Direction: Timpanogos entrance footage after 1:10 p.m.
+Open Questions: Q-1254
 
 ---
 
@@ -1177,6 +1206,7 @@ Mentions:
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Rental return records and UVU impound or evidence logs.
+Open Questions: Q-1132
 
 ---
 
@@ -1194,6 +1224,7 @@ Related Nodes: N-11226
 Supports: C-12881
 Tags: relevance:core
 Investigative Direction: Evening UVU footage and Timpanogos scrubs issue records.
+Open Questions: Q-888
 
 ---
 
@@ -1210,6 +1241,7 @@ Mentions: N-951
 Related Nodes: N-11226
 Tags: relevance:core
 Investigative Direction: Evening UVU footage of Christopher Rhoades.
+Open Questions: Q-888
 
 ---
 
@@ -1227,6 +1259,7 @@ Related Nodes: N-10744
 Supports: C-12672
 Tags: relevance:core
 Investigative Direction: Sorensen building rooftop access logs and footage before 12:23 p.m.
+Open Questions: Q-1255
 
 ---
 
@@ -1243,6 +1276,7 @@ Mentions:
 Related Nodes: N-11226, N-11335
 Tags: relevance:core
 Investigative Direction: Timpanogos supply records for scrubs issued on September 10.
+Open Questions: Q-888, Q-1254
 
 ---
 
@@ -1259,6 +1293,7 @@ Mentions: N-504, N-367, N-190
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: TPUSA employment start dates for Walker and Philip.
+Open Questions: Q-1252, Q-1256
 
 ---
 
@@ -1275,6 +1310,7 @@ Mentions: N-951, N-1
 Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Rental agreements and security-contractor rosters for September 10.
+Open Questions: Q-1257
 
 ---
 
@@ -1291,6 +1327,7 @@ Mentions: N-951
 Related Nodes: N-10000, N-11337
 Tags: relevance:core
 Investigative Direction: FRG security staff listing.
+Open Questions: Q-1257
 
 ---
 
@@ -1307,6 +1344,7 @@ Mentions: N-951, N-266
 Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Texas private-security licensing records and Harpole's company rosters.
+Open Questions: Q-1257
 
 ---
 
@@ -1323,6 +1361,7 @@ Mentions: N-951
 Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Public records searches for Christopher Rhoades in private security.
+Open Questions: Q-1257
 
 ---
 
@@ -1339,6 +1378,7 @@ Mentions: N-951, N-3
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Tip responses.
+Open Questions: Q-1257
 
 ---
 
@@ -1355,6 +1395,7 @@ Mentions: N-159
 Related Nodes: N-10651, N-11335
 Tags: relevance:core
 Investigative Direction: Timeline from the shot to the 1:10 p.m. hospital arrival.
+Open Questions: Q-943
 
 ---
 
@@ -1371,6 +1412,7 @@ Mentions: N-7
 Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Publisher listing and publication date of the book.
+Open Questions: Q-1258
 
 ---
 
@@ -1387,6 +1429,7 @@ Mentions: N-7, N-1
 Related Nodes: N-11336, N-10664
 Tags: relevance:core
 Investigative Direction: Turek's call records for September 10.
+Open Questions: Q-882
 
 ---
 
@@ -1403,6 +1446,7 @@ Mentions: N-7, N-266, N-487
 Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Compare with Harpole's and the independent review's lists of SUV occupants.
+Open Questions: Q-882
 
 ---
 
@@ -1419,6 +1463,7 @@ Mentions: N-7, N-487, N-266, N-1
 Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Footage of the SUV departure and arrival at Timpanogos.
+Open Questions: Q-882
 
 ---
 
@@ -1435,6 +1480,7 @@ Mentions: N-7
 Related Nodes: N-11336, N-10763
 Tags: relevance:core
 Investigative Direction: Orem/Provo EMS dispatch logs for ambulances en route to UVU.
+Open Questions: Q-1259
 
 ---
 
@@ -1451,6 +1497,7 @@ Mentions: N-7, N-1
 Related Nodes: N-11336, N-10636
 Tags: relevance:core
 Investigative Direction: Turek's earlier interviews on the ride; Harpole's accounts.
+Open Questions: Q-231
 
 ---
 
@@ -1468,6 +1515,7 @@ Related Nodes: N-10636
 Supports: C-10672
 Tags: relevance:core
 Investigative Direction: Side-by-side of Harpole's Shawn Ryan account and the book text.
+Open Questions: Q-231
 
 ---
 
@@ -1484,6 +1532,7 @@ Mentions: N-266, N-224, N-1
 Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Shawn Ryan Show full interview.
+Open Questions: Q-882
 
 ---
 
@@ -1500,6 +1549,7 @@ Mentions: N-266, N-487
 Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Traffic camera or vehicle telematics for the route to Timpanogos.
+Open Questions: Q-882
 
 ---
 
@@ -1516,6 +1566,7 @@ Mentions: N-266, N-7, N-487
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Rick Cutler's own account of the ride.
+Open Questions: Q-231
 
 ---
 
@@ -1533,6 +1584,7 @@ Related Nodes: N-11336, N-10636
 Supports: C-12858
 Tags: relevance:core
 Investigative Direction: Timpanogos intake notes on CPR in progress at arrival.
+Open Questions: Q-231
 
 ---
 
@@ -1549,6 +1601,7 @@ Mentions: N-7
 Related Nodes: N-11134, N-10694
 Tags: relevance:core
 Investigative Direction: Timpanogos ER census and staffing for September 10.
+Open Questions: Q-1260
 
 ---
 
@@ -1565,6 +1618,7 @@ Mentions: N-7, N-1
 Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Timpanogos medical record of return of pulse.
+Open Questions: Q-1261
 
 ---
 
@@ -1582,6 +1636,7 @@ Related Nodes: N-10795, N-10762
 Supports: C-13853
 Tags: relevance:core
 Investigative Direction: Independent review's fire-captain passage and the fire department's run report.
+Open Questions: Q-1262
 
 ---
 
@@ -1598,6 +1653,7 @@ Mentions: N-7
 Related Nodes: N-10694, N-11134
 Tags: relevance:core
 Investigative Direction: Timpanogos patient-transfer and diversion records for September 10.
+Open Questions: Q-1260
 
 ---
 
@@ -1615,6 +1671,7 @@ Related Nodes: N-10621
 Supports: C-13856
 Tags: relevance:core
 Investigative Direction: Timpanogos staff accounts of who moved Charlie to the trauma room.
+Open Questions: Q-1261
 
 ---
 
@@ -1631,6 +1688,7 @@ Mentions: N-7, N-270
 Related Nodes: N-11336, N-10632
 Tags: relevance:core
 Investigative Direction: TPUSA–UVU security agreement and the independent review on responsibility for rooftops.
+Open Questions: Q-1263
 
 ---
 
@@ -1647,6 +1705,7 @@ Mentions: N-7, N-270
 Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Full Flood–Long text thread from September 8–10.
+Open Questions: Q-1245, Q-1263
 
 ---
 
@@ -1663,6 +1722,7 @@ Mentions: N-7, N-270, N-271, N-58
 Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Full Brandon Tatum interview with Turek.
+Open Questions: Q-1245
 
 ---
 
@@ -1679,6 +1739,7 @@ Mentions: N-270
 Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Time stamp of the first law-enforcement statement on the rooftop.
+Open Questions: Q-1245, Q-1264
 
 ---
 
@@ -1696,6 +1757,7 @@ Related Nodes: N-11336
 Supports: C-11393
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's call log and the charter record for Erika Kirk's flight.
+Open Questions: Q-1265
 
 ---
 
@@ -1712,6 +1774,7 @@ Mentions: N-7, N-1
 Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Time of death in the Timpanogos record.
+Open Questions: Q-218
 
 ---
 
@@ -1728,6 +1791,7 @@ Mentions: N-2, N-7
 Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Erika Kirk's call log for the call from the hospital.
+Open Questions: Q-820
 
 ---
 
@@ -1744,6 +1808,7 @@ Mentions: N-159, N-190, N-2, N-7
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Erika Kirk's own account of who told her.
+Open Questions: Q-820
 
 ---
 
@@ -1760,6 +1825,7 @@ Mentions: N-190
 Related Nodes: N-11124
 Tags: relevance:core
 Investigative Direction: Time of the surgeon's announcement vs the 1:10 p.m. arrival footage.
+Open Questions: Q-218, Q-994, Q-1265
 
 ---
 
@@ -1776,6 +1842,7 @@ Mentions: N-341, N-1
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Time stamp of Victor Marx's post.
+Open Questions: Q-218
 
 ---
 
@@ -1792,6 +1859,7 @@ Mentions: N-2, N-7, N-159
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Surgeon's and Erika Kirk's call records.
+Open Questions: Q-820
 
 ---
 
@@ -1809,6 +1877,7 @@ Related Nodes: N-10492
 Supports: C-13006
 Tags: relevance:core
 Investigative Direction: FBI evidence log for the SUV contents.
+Open Questions: Q-677
 
 ---
 
@@ -1825,6 +1894,7 @@ Mentions: N-7
 Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: The tip and any corroborating hospital accounts.
+Open Questions: Q-677
 
 ---
 
@@ -1842,6 +1912,7 @@ Related Nodes: N-10795
 Supports: C-13861
 Tags: relevance:core
 Investigative Direction: Tip responses; fire department run reports for Station 2.
+Open Questions: Q-1262
 
 ---
 
@@ -1858,6 +1929,7 @@ Mentions:
 Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: Station 2 shift roster for September 10.
+Open Questions: Q-1262
 
 ---
 
@@ -1874,6 +1946,7 @@ Mentions: N-190, N-159, N-367, N-951, N-896, N-953
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Roundabout footage and plate lookups.
+Open Questions: Q-1252
 
 ---
 
@@ -1890,6 +1963,7 @@ Mentions:
 Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Campus exit camera footage for the second white vehicle.
+Open Questions: Q-1254
 
 ---
 
@@ -2018,6 +2092,7 @@ Mentions: N-951
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Tip responses.
+Open Questions: Q-1257
 
 ---
 

@@ -1079,6 +1079,7 @@ Mentions: N-3, N-159
 Related Nodes: N-10651
 Tags: relevance:core, dia
 Investigative Direction: Obtain the prior episode's silver-alert segment and the tip-line inbox log for the period; establish where Neff was on September 10.
+Open Questions: Q-943
 
 ---
 
@@ -1095,6 +1096,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10658
 Tags: relevance:core
 Investigative Direction: Compare photographs of Kirk at earlier campus stops with the September 10 shirt and ask former TPUSA event staff how tour apparel was sourced.
+Open Questions: Q-950
 
 ---
 
@@ -1111,6 +1113,7 @@ Mentions: N-3
 Related Nodes: N-10658, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA vendor and purchasing records for apparel and ask the employees on record whether Carhartt ever supplied the organization.
+Open Questions: Q-950
 
 ---
 
@@ -1127,6 +1130,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10658
 Tags: relevance:core, dia
 Investigative Direction: Review the tips inbox for responses naming who ordered the custom Carhartt shirt.
+Open Questions: Q-950
 
 ---
 
@@ -1193,6 +1197,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the hearing transcript and the evidence item log for the library bus stop seizures to establish the item count.
+Open Questions: Q-951
 
 ---
 
@@ -1211,6 +1216,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the FBI lab request forms and chain-of-custody sheets for the items to see which analyses were requested.
+Open Questions: Q-951
 
 ---
 
@@ -1230,6 +1236,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the FBI and ATF lab notes and reports referenced by the questioner, and the UVU communication that closed the testing request.
+Open Questions: Q-951
 
 ---
 
@@ -1246,6 +1253,7 @@ Mentions: N-3
 Related Nodes: N-10653
 Tags: relevance:core
 Investigative Direction: Measure the walking distance from the Losee Center to the library bus stops and obtain the hearing testimony that set the route.
+Open Questions: Q-952
 
 ---
 
@@ -1262,6 +1270,7 @@ Mentions: N-3
 Related Nodes: N-10653, N-10655, N-10095
 Tags: relevance:core
 Investigative Direction: Identify the report this source filed and obtain it from UVU police or the FBI.
+Open Questions: Q-953, Q-954
 
 ---
 
@@ -1278,6 +1287,7 @@ Mentions: N-3
 Related Nodes: N-10654
 Tags: relevance:core
 Investigative Direction: Pull the National Weather Service hourly record for Orem, Utah on September 10, 2025.
+Open Questions: Q-955
 
 ---
 
@@ -1294,6 +1304,7 @@ Mentions: N-3
 Related Nodes: N-10295, N-10094
 Tags: relevance:core
 Investigative Direction: Reconcile with the other rooftop video (the host earlier said two roof videos exist) and obtain both files with metadata.
+Open Questions: Q-956
 
 ---
 
@@ -1310,6 +1321,7 @@ Mentions: N-3
 Related Nodes: N-10094
 Tags: relevance:core
 Investigative Direction: Trace the earliest posting of the clip and its spread across accounts, using platform timestamps.
+Open Questions: Q-956
 
 ---
 
@@ -1327,6 +1339,7 @@ Related Nodes: N-10295
 Supports: C-4095
 Tags: relevance:core
 Investigative Direction: Obtain the witness's dated communications with the host and any statements he gave to authorities to test consistency.
+Open Questions: Q-956
 
 ---
 
@@ -1343,6 +1356,7 @@ Mentions: N-3, N-42
 Related Nodes: N-10655
 Tags: relevance:core
 Investigative Direction: Request the UVU command center log and any written report from the afternoon of September 10 under public-records rules.
+Open Questions: Q-953
 
 ---
 
@@ -1360,6 +1374,7 @@ Related Nodes: N-10655
 Supports: C-3715
 Tags: relevance:core
 Investigative Direction: Confirm the witness's firearms-related occupation and whether either side has contacted him about testimony.
+Open Questions: Q-953
 
 ---
 
@@ -1375,6 +1390,7 @@ Anchored Artifacts: A-2140.1
 Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Compare the clip's end time with the audio of the shot in other recordings to check the 5-second gap.
+Open Questions: Q-26, Q-957
 
 ---
 
@@ -1391,6 +1407,7 @@ Related Nodes: N-10685
 Supports: C-3714
 Tags: relevance:core
 Investigative Direction: Review the roof clip frame by frame for any flash or smoke and compare with expert analysis of visual discharge indicators.
+Open Questions: Q-957
 
 ---
 
@@ -1406,6 +1423,7 @@ Anchored Artifacts: A-2140.1
 Related Nodes: N-10095
 Tags: relevance:core
 Investigative Direction: Obtain acoustic analysis of audio from several recordings of the shot and the ballistics report for the recovered rifle.
+Open Questions: Q-322
 
 ---
 
@@ -1421,6 +1439,7 @@ Anchored Artifacts: A-2140.1
 Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Compare the video metadata of the witness's clip with the official 12:15 roof-access time in the charging documents.
+Open Questions: Q-26
 
 ---
 
@@ -1436,6 +1455,7 @@ Anchored Artifacts: A-2140.1
 Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Match the witness's account of a 10-second approach with the roof video and any other camera angles.
+Open Questions: Q-26
 
 ---
 
@@ -1451,6 +1471,7 @@ Anchored Artifacts: A-2140.1
 Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Compare against the court-shown rooftop video and the dispatch time of the first shots-fired call.
+Open Questions: Q-26
 
 ---
 
@@ -1466,6 +1487,7 @@ Anchored Artifacts: A-2140.2
 Related Nodes: N-10095
 Tags: relevance:core
 Investigative Direction: Measure the distance from the witness's vantage location to the Losee Center roof edge using mapping and survey data.
+Open Questions: Q-956
 
 ---
 
@@ -1482,6 +1504,7 @@ Mentions: N-42
 Related Nodes: N-10655
 Tags: relevance:core
 Investigative Direction: Obtain command-center personnel names and any intake log or evidence receipt for the video shown that afternoon.
+Open Questions: Q-953
 
 ---
 
@@ -1497,6 +1520,7 @@ Anchored Artifacts: A-2140.2
 Related Nodes: N-10095
 Tags: relevance:core
 Investigative Direction: Enhance the roof clip at the head region and compare with equipment recovered or listed in the evidence inventory.
+Open Questions: Q-954
 
 ---
 
@@ -1513,6 +1537,7 @@ Mentions: N-3
 Related Nodes: N-11114, N-10571
 Tags: relevance:core
 Investigative Direction: Compare the video exhibit's running time shown in court with the original file's duration, and ask the court clerk for the exhibit log.
+Open Questions: Q-958
 
 ---
 
@@ -1529,6 +1554,7 @@ Mentions: N-505
 Related Nodes: N-10653
 Tags: relevance:core
 Investigative Direction: Obtain the hearing transcript passage where the route was established and the evidence the officers used to draw it.
+Open Questions: Q-952
 
 ---
 
@@ -1544,6 +1570,7 @@ Anchored Artifacts: A-2141.1
 Related Nodes: N-11115, N-10653
 Tags: relevance:core
 Investigative Direction: Request UVU and Utah County 911 and CAD records for the library area on September 10 and the library lockdown order.
+Open Questions: Q-959
 
 ---
 
@@ -1559,6 +1586,7 @@ Anchored Artifacts: A-2141.1
 Related Nodes: N-11115
 Tags: relevance:core
 Investigative Direction: Obtain the full 911 and dispatch recordings with timestamps to place these reports relative to the 12:23 shot.
+Open Questions: Q-959
 
 ---
 
@@ -1577,6 +1605,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-4
 Investigative Direction: Locate the hearing testimony on the .223 round, its recovery location, chain of custody and any lab analysis.
+Open Questions: Q-960
 
 ---
 
@@ -1593,6 +1622,7 @@ Mentions: N-3
 Related Nodes: N-11116
 Tags: relevance:core
 Investigative Direction: Read the hearing transcript for the officer's answer and the reported chain of custody for the round.
+Open Questions: Q-960
 
 ---
 
@@ -1642,6 +1672,7 @@ Mentions: N-3, N-2, N-278
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Retrieve the CBS town hall transcript and date and check what Erika Kirk said about trusting the investigation.
+Open Questions: Q-961
 
 ---
 
@@ -1723,6 +1754,7 @@ Mentions: N-3, N-522, N-2
 Related Nodes: N-10937
 Tags: relevance:core
 Investigative Direction: Identify any DOJ amplification of Erika Kirk and the Nicki Minaj interview the host references.
+Open Questions: Q-962
 
 ---
 
@@ -1739,6 +1771,7 @@ Mentions: N-3, N-2
 Supports: C-5734
 Tags: relevance:core
 Investigative Direction: Obtain the September 16 all-staff call recording referred to in the earlier claim and review the exchange.
+Open Questions: Q-962
 
 ---
 
@@ -1902,6 +1935,7 @@ Mentions: N-3
 Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Obtain rental and dealership records for grey Dodge Challengers in the Salt Lake and Utah County area for September 9 and 10.
+Open Questions: Q-963
 
 ---
 
@@ -1918,6 +1952,7 @@ Mentions: N-3
 Related Nodes: N-10032, N-10050
 Tags: relevance:core
 Investigative Direction: Reconcile with the court-shown rooftop video and the ballistics and audio analyses.
+Open Questions: Q-957
 
 ---
 
@@ -1935,6 +1970,7 @@ Related Nodes: N-10655
 Supports: C-3714
 Tags: relevance:core
 Investigative Direction: Compare against the audio of the recorded call and any statement the witness gave to authorities.
+Open Questions: Q-953, Q-957
 
 ---
 
@@ -1952,6 +1988,7 @@ Related Nodes: N-10685
 Supports: C-4093
 Tags: relevance:core
 Investigative Direction: Examine the roof clips for recoil and compare with the other witness accounts.
+Open Questions: Q-957
 
 ---
 
@@ -1969,6 +2006,7 @@ Related Nodes: N-10655, N-10095
 Supports: C-4282
 Tags: relevance:core
 Investigative Direction: Obtain the recovered rifle's make and caliber from the evidence list and compare with the witness's description.
+Open Questions: Q-322
 
 ---
 
@@ -1985,6 +2023,7 @@ Mentions: N-3, N-40, N-1
 Related Nodes: N-10032
 Tags: relevance:core
 Investigative Direction: Ask the prosecution what evidence places Robinson at the shooting position and obtain his campus location data.
+Open Questions: Q-31, Q-414
 
 ---
 
@@ -2001,6 +2040,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Seek surveillance and receipts from the Dairy Queen and any recovered clothing evidence linked to it.
+Open Questions: Q-933
 
 ---
 
@@ -2017,6 +2057,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10907
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report, the shirt's chain of custody and the surgeon's account of the wound.
+Open Questions: Q-930
 
 ---
 
@@ -2034,6 +2075,7 @@ Related Nodes: N-10334, N-10416
 Supports: C-5419
 Tags: relevance:core
 Investigative Direction: Compare the host's account of Erika's statements about the surgeon call with the surgeon's account and Kolvet's post.
+Open Questions: Q-964
 
 ---
 
@@ -2051,6 +2093,7 @@ Related Nodes: N-10334, N-10416
 Supports: C-4492
 Tags: relevance:core
 Investigative Direction: Find any on-record statement by Erika Kirk or TPUSA on who is responsible for the surgeon quote.
+Open Questions: Q-964
 
 ---
 
@@ -2084,6 +2127,7 @@ Mentions: N-159
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Identify the original program and date of the Neff clip and obtain the full exchange.
+Open Questions: Q-943
 
 ---
 
@@ -2147,6 +2191,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Find the cited Robinson text messages in the charging documents and identify who was interrogated.
+Open Questions: Q-965
 
 ---
 
@@ -2163,6 +2208,7 @@ Mentions: N-3, N-42
 Related Nodes: N-10095
 Tags: relevance:core
 Investigative Direction: Compare Zinn's arrest photos with the described rooftop attire.
+Open Questions: Q-954, Q-965
 
 ---
 
@@ -2179,6 +2225,7 @@ Mentions: N-3
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Obtain the steakhouse's receipts and surveillance for the date and compare with the official timeline.
+Open Questions: Q-966
 
 ---
 
@@ -2194,6 +2241,7 @@ Anchored Artifacts: A-2976.4
 Mentions: N-3, N-270
 Tags: relevance:core
 Investigative Direction: Identify the glasses model from clear photographs and confirm Flood's whereabouts when worn.
+Open Questions: Q-967
 
 ---
 
@@ -2210,6 +2258,7 @@ Mentions: N-3, N-7
 Related Nodes: N-10664
 Tags: relevance:core
 Investigative Direction: Request call logs and device records for the FaceTime call that Turek described.
+Open Questions: Q-968
 
 ---
 
@@ -2226,6 +2275,7 @@ Mentions: N-3, N-97
 Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Obtain vehicle telematics or driver identification for the 9/10 drive and the security contact log; the 'Ben' referent is unclear in the transcript.
+Open Questions: Q-947, Q-969
 
 ---
 
@@ -2242,6 +2292,7 @@ Related Nodes: N-10684
 Supports: C-10800
 Tags: relevance:core
 Investigative Direction: Ask Army doctrine experts to review the witness's description of bounding movement and the roof video.
+Open Questions: Q-26
 
 ---
 
@@ -2258,6 +2309,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10983, N-10571
 Tags: relevance:core
 Investigative Direction: Obtain the hearing schedule for day five and the list of influencers present and the exhibit shown.
+Open Questions: Q-414, Q-970
 
 ---
 

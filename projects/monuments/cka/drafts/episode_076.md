@@ -1181,6 +1181,7 @@ Mentions: N-2, N-5, N-3
 Related Nodes: N-10850
 Tags: relevance:core
 Investigative Direction: Obtain the White House or Air Force Academy announcement of the appointment and its date.
+Open Questions: Q-641
 
 ---
 
@@ -1197,6 +1198,7 @@ Mentions: N-2, N-591
 Related Nodes: N-10850
 Tags: relevance:core
 Investigative Direction: Check the Board of Visitors roster and its charter for membership size and who it reports to.
+Open Questions: Q-642
 
 ---
 
@@ -1213,6 +1215,7 @@ Mentions: N-3
 Related Nodes: N-10850
 Tags: relevance:core
 Investigative Direction: Compare against the statutory duties of the Air Force Academy Board of Visitors.
+Open Questions: Q-642
 
 ---
 
@@ -1228,6 +1231,7 @@ Anchored Artifacts:
 Mentions: N-1, N-2, N-3
 Tags: relevance:core
 Investigative Direction: Ask TPUSA for the recording or document in which Kirk is said to have made the remark.
+Open Questions: Q-634
 
 ---
 
@@ -1275,6 +1279,7 @@ Mentions: N-1, N-2
 Related Nodes: N-10850
 Tags: relevance:core
 Investigative Direction: Find the March 2025 appointment notice for Charlie Kirk and any press backlash.
+Open Questions: Q-641
 
 ---
 
@@ -1369,6 +1374,7 @@ Related Nodes: N-10479
 Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Request White House visitor logs and the identity of the host's correspondents.
+Open Questions: Q-553
 
 ---
 
@@ -1385,6 +1391,7 @@ Mentions: N-131, N-856, N-152, N-3
 Related Nodes: N-10479, N-10072
 Tags: relevance:core
 Investigative Direction: Verify the West Wing layout and who maintains offices off that lobby.
+Open Questions: Q-553
 
 ---
 
@@ -1401,6 +1408,7 @@ Mentions: N-3
 Related Nodes: N-10479
 Tags: relevance:core
 Investigative Direction: Check the January 29, 2026 cabinet meeting schedule and end time.
+Open Questions: Q-553
 
 ---
 
@@ -1418,6 +1426,7 @@ Related Nodes: N-10479
 Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the White House sources who asked her to release the information.
+Open Questions: Q-553
 
 ---
 
@@ -1434,6 +1443,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10479
 Tags: relevance:core
 Investigative Direction: Locate the host's January 29, 2026 reply on X and its timestamp.
+Open Questions: Q-553
 
 ---
 
@@ -1451,6 +1461,7 @@ Related Nodes: N-10479
 Supports: C-6828
 Tags: relevance:core
 Investigative Direction: Compare the episode audio metadata with the stated air time.
+Open Questions: Q-643
 
 ---
 
@@ -1485,6 +1496,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-10105
 Investigative Direction: Verify which pageant Erika won (the host also says Miss Arizona USA) and the ownership of that pageant in 2011.
+Open Questions: Q-644
 
 ---
 
@@ -1595,6 +1607,7 @@ Mentions: N-9, N-3
 Related Nodes: N-10374, N-10484
 Tags: relevance:core
 Investigative Direction: Search the Epstein email corpus for Romania model requests dated 2010.
+Open Questions: Q-645
 
 ---
 
@@ -1612,6 +1625,7 @@ Related Nodes: N-10910
 Supports: C-4745
 Tags: relevance:core
 Investigative Direction: Check Marine Corps records for the 2010 BSRF commander.
+Open Questions: Q-646
 
 ---
 
@@ -1628,6 +1642,7 @@ Mentions: N-687
 Related Nodes: N-10910, N-10374
 Tags: relevance:core
 Investigative Direction: Find the accusation source and any investigation of the Constanta rotation.
+Open Questions: Q-647
 
 ---
 
@@ -1644,6 +1659,7 @@ Mentions: N-11
 Related Nodes: N-10368, N-10910
 Tags: relevance:core
 Investigative Direction: Reconcile the 2010 date with earlier statements dating Bowyer's Romania work to 2011.
+Open Questions: Q-472
 
 ---
 
@@ -1660,6 +1676,7 @@ Mentions: N-9
 Related Nodes: N-11164
 Tags: relevance:core
 Investigative Direction: Check ASU and Origins Project donor records for Epstein gifts.
+Open Questions: Q-648
 
 ---
 
@@ -1676,6 +1693,7 @@ Mentions: N-11
 Related Nodes: N-11164
 Tags: relevance:core
 Investigative Direction: Obtain the governor's 2011 appointment record for Bowyer.
+Open Questions: Q-649
 
 ---
 
@@ -1692,6 +1710,7 @@ Mentions: N-2
 Related Nodes: N-11164
 Tags: relevance:core
 Investigative Direction: Check ASU enrollment dates and the Miss Arizona USA 2011 result.
+Open Questions: Q-644, Q-650
 
 ---
 
@@ -1709,6 +1728,7 @@ Related Nodes: N-10910, N-11081, N-11082
 Supports: C-4745
 Tags: relevance:core
 Investigative Direction: Obtain Everyday Heroes filings and Marine Corps press items on the project.
+Open Questions: Q-470
 
 ---
 
@@ -1726,6 +1746,7 @@ Related Nodes: N-11081, N-10374
 Supports: C-4746
 Tags: relevance:core
 Investigative Direction: Identify the source and status of any accusation against the colonel.
+Open Questions: Q-470, Q-647
 
 ---
 
@@ -1741,6 +1762,7 @@ Anchored Artifacts:
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Retrieve the archived tweets from 2014 and 2015.
+Open Questions: Q-651
 
 ---
 
@@ -1756,6 +1778,7 @@ Anchored Artifacts:
 Mentions: N-2, N-440, N-5
 Tags: relevance:core
 Investigative Direction: Find photos, credits or posts putting Erika with Burnett.
+Open Questions: Q-651
 
 ---
 
@@ -1771,6 +1794,7 @@ Anchored Artifacts:
 Mentions: N-2, N-5, N-1
 Tags: relevance:core
 Investigative Direction: Seek any record of an Erika and Trump meeting before 2018.
+Open Questions: Q-652
 
 ---
 
@@ -1804,6 +1828,7 @@ Mentions: N-568, N-9
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Confirm Kates' departure date and stated reason from Next Model Management announcements.
+Open Questions: Q-653
 
 ---
 
@@ -1820,6 +1845,7 @@ Mentions: N-568, N-9
 Related Nodes: N-10481
 Tags: relevance:core
 Investigative Direction: Find the post-2008 or post-2019 Kates email in the Epstein files.
+Open Questions: Q-653
 
 ---
 
@@ -1836,6 +1862,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Corroborate through Next Model staff or contracts.
+Open Questions: Q-654
 
 ---
 
@@ -1852,6 +1879,7 @@ Mentions: N-9
 Related Nodes: N-10635
 Tags: relevance:core
 Investigative Direction: Seek former Next staff accounts and the Epstein emails on Next.
+Open Questions: Q-655
 
 ---
 
@@ -1868,6 +1896,7 @@ Mentions: N-2
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Obtain visitor logs or testimony from Next staff; ask Erika Kirk's office.
+Open Questions: Q-654
 
 ---
 
@@ -1884,6 +1913,7 @@ Mentions: N-2, N-9, N-568
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Test against Epstein visitor and travel records for the same period.
+Open Questions: Q-655
 
 ---
 
@@ -1900,6 +1930,7 @@ Mentions: N-2
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's office for the nature of the meetings.
+Open Questions: Q-654
 
 ---
 
@@ -1917,6 +1948,7 @@ Related Nodes: N-10463
 Supports: C-6480
 Tags: relevance:core
 Investigative Direction: Check New York Department of State license records.
+Open Questions: Q-656
 
 ---
 
@@ -1933,6 +1965,7 @@ Mentions: N-571, N-2, N-9
 Related Nodes: N-10463
 Tags: relevance:core
 Investigative Direction: Verify Lehman's Corcoran role and the Epstein files reference.
+Open Questions: Q-656
 
 ---
 
@@ -1950,6 +1983,7 @@ Related Nodes: N-10463
 Supports: C-6467
 Tags: relevance:core
 Investigative Direction: Request Corcoran sales records and listings credited to Erika Kirk.
+Open Questions: Q-656
 
 ---
 
@@ -1966,6 +2000,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10463
 Tags: relevance:core
 Investigative Direction: Interview Corcoran agents about hiring requirements.
+Open Questions: Q-656
 
 ---
 
@@ -1999,6 +2034,7 @@ Mentions: N-2
 Related Nodes: N-11164
 Tags: relevance:core
 Investigative Direction: Ask ASU to confirm Erika Kirk's degree and honors; compare archived bios.
+Open Questions: Q-650
 
 ---
 
@@ -2032,6 +2068,7 @@ Related Nodes: N-10390
 Supports: C-4347
 Tags: relevance:core
 Investigative Direction: Obtain the Candlewood Suites footage and other records for September 8.
+Open Questions: Q-561
 
 ---
 
@@ -2048,6 +2085,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Seek ad spend, contractor payments or coordinated posting records.
+Open Questions: Q-657
 
 ---
 
@@ -2065,6 +2103,7 @@ Related Nodes: N-10353, N-11096
 Supports: C-4503
 Tags: relevance:core
 Investigative Direction: Obtain the original Erika statement and any corroborating witnesses or texts.
+Open Questions: Q-507, Q-561
 
 ---
 
@@ -2082,6 +2121,7 @@ Related Nodes: N-10353
 Supports: C-6878
 Tags: relevance:core
 Investigative Direction: Ask Turek who was at the Monday dinner.
+Open Questions: Q-658, Q-659
 
 ---
 
@@ -2098,6 +2138,7 @@ Mentions: N-1
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Obtain the group chat message and its timestamp.
+Open Questions: Q-660
 
 ---
 
@@ -2114,6 +2155,7 @@ Mentions: N-1
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Establish when the clip aired and whether it matches September 8.
+Open Questions: Q-660
 
 ---
 
@@ -2131,6 +2173,7 @@ Related Nodes: N-10353
 Supports: C-6886
 Tags: relevance:core
 Investigative Direction: Review Erika's posting history on X before September 8.
+Open Questions: Q-561, Q-661
 
 ---
 
@@ -2147,6 +2190,7 @@ Mentions: N-489, N-1
 Related Nodes: N-10441, N-10353
 Tags: relevance:core
 Investigative Direction: Identify the clinic and source for the alleged meeting.
+Open Questions: Q-561, Q-662
 
 ---
 
@@ -2163,6 +2207,7 @@ Mentions: N-2
 Related Nodes: N-10353, N-10441
 Tags: relevance:core
 Investigative Direction: Obtain Erika's stated timeline source and any phone location data.
+Open Questions: Q-561
 
 ---
 
@@ -2179,6 +2224,7 @@ Mentions: N-1, N-2
 Related Nodes: N-10353, N-10441
 Tags: relevance:core
 Investigative Direction: Request the original text messages with metadata.
+Open Questions: Q-561, Q-659
 
 ---
 
@@ -2195,6 +2241,7 @@ Mentions: N-1, N-2
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Seek neighbor or caregiver accounts of who was home that evening.
+Open Questions: Q-659
 
 ---
 
@@ -2212,6 +2259,7 @@ Related Nodes: N-10441
 Qualifies: C-6878
 Tags: relevance:core
 Investigative Direction: Match the Bears game clock with the challenge play and GG's wake-up in Turek's account.
+Open Questions: Q-659, Q-660
 
 ---
 
@@ -2229,6 +2277,7 @@ Related Nodes: N-10441, N-10444
 Qualifies: C-6878
 Tags: relevance:core
 Investigative Direction: Check the game end time and Turek's stated times for the walk.
+Open Questions: Q-658, Q-660
 
 ---
 
@@ -2245,6 +2294,7 @@ Mentions: N-1, N-7
 Related Nodes: N-10444, N-10441
 Tags: relevance:core
 Investigative Direction: Identify the neighbors who saw the walk and the tall man.
+Open Questions: Q-658
 
 ---
 
@@ -2261,6 +2311,7 @@ Mentions: N-7, N-1
 Related Nodes: N-10444
 Tags: relevance:core
 Investigative Direction: Interview the neighbor Charlie spoke with.
+Open Questions: Q-658
 
 ---
 
@@ -2277,6 +2328,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Canvass neighbors and store staff and check card or location data.
+Open Questions: Q-561, Q-659
 
 ---
 
@@ -2293,6 +2345,7 @@ Mentions: N-544, N-3
 Related Nodes: N-10451
 Tags: relevance:core
 Investigative Direction: Ask Tracy Martin's husband when he was with the children.
+Open Questions: Q-659
 
 ---
 
@@ -2309,6 +2362,7 @@ Mentions: N-361, N-2, N-3
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Compare the dates of the first Fort Huachuca mention, the host's publication and the legal letters.
+Open Questions: Q-561, Q-657
 
 ---
 

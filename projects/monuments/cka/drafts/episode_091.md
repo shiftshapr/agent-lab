@@ -1102,6 +1102,7 @@ Mentions: N-2, N-159
 Related Nodes: N-11262
 Tags: relevance:core
 Investigative Direction: Obtain drafts, document metadata or staff testimony on who wrote the September 12 address; ask Neff and TPUSA to confirm or deny.
+Open Questions: Q-796
 
 ---
 
@@ -1150,6 +1151,7 @@ Mentions: N-2, N-159
 Related Nodes: N-11262, N-11361
 Tags: relevance:core
 Investigative Direction: Identify the host's sources and obtain drafts or staff accounts of who wrote the memorial remarks.
+Open Questions: Q-796
 
 ---
 
@@ -1166,6 +1168,7 @@ Mentions: N-15
 Related Nodes: N-11262, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the speech drafts or ask the speechwriting staff who wrote Streiff's remarks.
+Open Questions: Q-796
 
 ---
 
@@ -1182,6 +1185,7 @@ Mentions: N-3
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Compare the host's published spreadsheet of tail numbers and dates against ADS-B and FAA records.
+Open Questions: Q-277
 
 ---
 
@@ -1198,6 +1202,7 @@ Mentions: N-3
 Related Nodes: N-10239, N-10304
 Tags: relevance:core
 Investigative Direction: Check customs and cargo records for the flights in question; the host states this only as an instinct.
+Open Questions: Q-277
 
 ---
 
@@ -1214,6 +1219,7 @@ Mentions: N-3
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Map each landing airport against nearby military installations using the flight logs.
+Open Questions: Q-277
 
 ---
 
@@ -1231,6 +1237,7 @@ Related Nodes: N-10239, N-10000, N-10371
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Overlay Charlie Kirk's 2023 and 2024 event calendar on the Egyptian plane landing dates and cities.
+Open Questions: Q-236
 
 ---
 
@@ -1247,6 +1254,7 @@ Mentions: N-1, N-190
 Related Nodes: N-10239, N-10259
 Tags: relevance:core
 Investigative Direction: List Charlie's Kansas, Nebraska and Missouri appearances in 2024 and match them to plane arrival dates.
+Open Questions: Q-236
 
 ---
 
@@ -1263,6 +1271,7 @@ Mentions: N-2
 Related Nodes: N-10239, N-10281
 Tags: relevance:core
 Investigative Direction: Collect Erika's public statements and any on-air remarks about the planes; this rests on the host's reading of her reaction.
+Open Questions: Q-277, Q-797
 
 ---
 
@@ -1279,6 +1288,7 @@ Mentions: N-2, N-209
 Related Nodes: N-10239, N-10281
 Tags: relevance:core
 Investigative Direction: Locate the specific Erika remarks the host calls jokes and check them for context.
+Open Questions: Q-797
 
 ---
 
@@ -1295,6 +1305,7 @@ Mentions: N-342, N-1
 Related Nodes: N-10560
 Tags: relevance:core
 Investigative Direction: Obtain the original email and call record from the host's team, and Hall's own account of what he fears.
+Open Questions: Q-798
 
 ---
 
@@ -1376,6 +1387,7 @@ Mentions: N-341, N-343, N-2, N-1
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Establish the date and location of the first Marx visit from the Instagram post metadata and the people who accompanied them.
+Open Questions: Q-799
 
 ---
 
@@ -1393,6 +1405,7 @@ Related Nodes: N-10552
 Supports: C-2430
 Tags: relevance:core
 Investigative Direction: Compare the video date with Erika's statement about her phone and check whether the object in her hand is a phone.
+Open Questions: Q-799
 
 ---
 
@@ -1410,6 +1423,7 @@ Related Nodes: N-10549, N-10304
 Supports: C-8155
 Tags: relevance:core
 Investigative Direction: Seek export-control filings or communications; Marx has denied this in a later episode, which this note does not rely on.
+Open Questions: Q-800
 
 ---
 
@@ -1993,6 +2007,7 @@ Mentions: N-40
 Related Nodes: N-10896, N-10523
 Tags: relevance:core
 Investigative Direction: Compare with ATF's public statements on the bullet and firearm comparison, which may differ from a trace.
+Open Questions: Q-801
 
 ---
 
@@ -2009,6 +2024,7 @@ Mentions: N-342
 Related Nodes: N-10896, N-10546
 Tags: relevance:core
 Investigative Direction: Obtain ATF's published description of the trace process and whether a trace request is issued only after a crime link is established.
+Open Questions: Q-798
 
 ---
 
@@ -2025,6 +2041,7 @@ Mentions: N-342
 Related Nodes: N-10546, N-10896
 Tags: relevance:core
 Investigative Direction: Obtain Hall's reply email and the ATF trace case number; file a FOIA request for the trace record.
+Open Questions: Q-798
 
 ---
 
@@ -2041,6 +2058,7 @@ Mentions: N-342
 Related Nodes: N-10546, N-10550
 Tags: relevance:core
 Investigative Direction: Identify the deputy and agency; ask the ATF whether it contacted the registered purchaser.
+Open Questions: Q-802
 
 ---
 
@@ -2057,6 +2075,7 @@ Mentions: N-342
 Related Nodes: N-10550, N-10546
 Tags: relevance:core
 Investigative Direction: Check NCIC and Midland police records for a stolen-firearm report on the serial number, via the deputy's agency or a records request.
+Open Questions: Q-802
 
 ---
 
@@ -2074,6 +2093,7 @@ Related Nodes: N-10546
 Supports: C-8182
 Tags: relevance:core
 Investigative Direction: Ask the host to publish redacted copies of the forwarded email and conversations so a third party can verify them.
+Open Questions: Q-798
 
 ---
 
@@ -2090,6 +2110,7 @@ Mentions: N-3
 Related Nodes: N-10550
 Tags: relevance:core
 Investigative Direction: Ask the host what she has found about the buyer and agency; follow up in later episodes.
+Open Questions: Q-802
 
 ---
 
@@ -2156,6 +2177,7 @@ Related Nodes: N-10000
 Supports: C-590
 Tags: relevance:core
 Investigative Direction: This is the host's stated theory; assess it against the evidence assembled in the series.
+Open Questions: Q-463, Q-803
 
 ---
 
@@ -2316,6 +2338,7 @@ Mentions: N-342, N-3
 Related Nodes: N-10560, N-10896
 Tags: relevance:core
 Investigative Direction: Watch for a later Hall interview and any ATF reply to the host's inquiry.
+Open Questions: Q-798
 
 ---
 
@@ -2333,6 +2356,7 @@ Related Nodes: N-10546, N-10550
 Qualifies: C-8182
 Tags: relevance:core
 Investigative Direction: Establish which crime, if any, the trace was tied to by FOIA to the ATF for the trace request.
+Open Questions: Q-798, Q-802
 
 ---
 

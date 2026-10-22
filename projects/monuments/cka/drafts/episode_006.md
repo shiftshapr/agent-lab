@@ -1262,6 +1262,7 @@ Mentions: N-3, N-1, N-83
 Related Nodes: N-10073, N-83
 Tags: relevance:core
 Investigative Direction: Review pre-shooting event footage and staff positions to confirm where the man stood relative to Kirk's seat and the back camera.
+Open Questions: Q-63
 
 ---
 
@@ -1279,6 +1280,7 @@ Related Nodes: N-83, N-10000, N-10073
 Supports: C-376
 Tags: relevance:core
 Investigative Direction: Ask the host which insider supplied the name and whether the identification was independently confirmed by TPUSA staff records or event credentials.
+Open Questions: Q-63
 
 ---
 
@@ -1295,6 +1297,7 @@ Mentions: N-3, N-83
 Related Nodes: N-83, N-10073
 Tags: relevance:core
 Investigative Direction: Obtain the host's text thread and call log with the man to confirm the timing and content of the first contact.
+Open Questions: Q-63
 
 ---
 
@@ -1327,6 +1330,7 @@ Mentions: N-3, N-1, N-83
 Related Nodes: N-83, N-10073
 Tags: relevance:core
 Investigative Direction: Compare the claimed seat to the seating chart and event footage from the left side of the tent; ask the man to confirm the account.
+Open Questions: Q-63
 
 ---
 
@@ -1343,6 +1347,7 @@ Mentions: N-3, N-83
 Related Nodes: N-83, N-10000, N-10073
 Tags: relevance:core
 Investigative Direction: Identify whom he called and obtain phone records or his own statement on the calls placed in the minutes after the shooting.
+Open Questions: Q-63
 
 ---
 
@@ -1359,6 +1364,7 @@ Mentions: N-3, N-83
 Related Nodes: N-83, N-10073, N-10014
 Tags: relevance:core
 Investigative Direction: Ask the FBI and TPUSA whether the camera and its card were handed over, when, and to whom, and obtain the chain-of-custody record.
+Open Questions: Q-63
 
 ---
 
@@ -1377,6 +1383,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-7
 Investigative Direction: Obtain the autopsy report and named ballistics experts' published analyses of the neck wound.
+Open Questions: Q-27, Q-64
 
 ---
 
@@ -1393,6 +1400,7 @@ Mentions: N-3
 Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Ask the host to publish the strongest of these messages with the senders' credentials for independent review of the trajectory.
+Open Questions: Q-27
 
 ---
 
@@ -1410,6 +1418,7 @@ Related Nodes: N-83, N-10000, N-10158
 Supports: C-379
 Tags: relevance:core
 Investigative Direction: Request TPUSA's written position on release of the back-camera footage and who holds ownership of it.
+Open Questions: Q-63
 
 ---
 
@@ -1426,6 +1435,7 @@ Mentions: N-3, N-2, N-1, N-83
 Related Nodes: N-83, N-10158
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's office whether she requested that the footage stay unreleased.
+Open Questions: Q-63
 
 ---
 
@@ -1442,6 +1452,7 @@ Mentions: N-3, N-83
 Related Nodes: N-83, N-11172
 Tags: relevance:core
 Investigative Direction: Obtain call records for the FaceTime session and ask whether any recording or screenshot of the screen exists.
+Open Questions: Q-63
 
 ---
 
@@ -1458,6 +1469,7 @@ Mentions: N-3
 Related Nodes: N-10081, N-10014
 Tags: relevance:core
 Investigative Direction: Search FBI and Utah press briefings from September 10 to 12, 2025 for statements that investigators were searching for a bullet.
+Open Questions: Q-65
 
 ---
 
@@ -1474,6 +1486,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10081, N-10014
 Tags: relevance:core
 Investigative Direction: Compare against the autopsy and the FBI lab report on whether a projectile was recovered from the body.
+Open Questions: Q-64, Q-65
 
 ---
 
@@ -1507,6 +1520,7 @@ Related Nodes: N-10078
 Supports: C-437
 Tags: relevance:core
 Investigative Direction: Review the host's prior episodes and posts for any statement attributing the assassination to a foreign government.
+Open Questions: Q-17
 
 ---
 
@@ -1524,6 +1538,7 @@ Related Nodes: N-10062, N-10051, N-10049, N-10011
 Supports: C-417
 Tags: relevance:core
 Investigative Direction: Pull property and employment records for residents of the street where the doorbell camera was installed and check employer listings.
+Open Questions: Q-23
 
 ---
 
@@ -1541,6 +1556,7 @@ Related Nodes: N-10062, N-10051
 Supports: C-415
 Tags: relevance:core
 Investigative Direction: Verify the couple's employment with Caldera Engineering through LinkedIn profiles and Utah business filings.
+Open Questions: Q-23
 
 ---
 
@@ -1758,6 +1774,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10044
 Tags: relevance:core
 Investigative Direction: Look for contemporaneous messages between Kirk, donors and TPUSA staff after the host's appearance.
+Open Questions: Q-6, Q-59
 
 ---
 
@@ -1775,6 +1792,7 @@ Related Nodes: N-10252, N-10044
 Supports: C-75
 Tags: relevance:core
 Investigative Direction: Obtain the AmFest speaker roster history and any messages telling the host she was removed and why.
+Open Questions: Q-6, Q-59
 
 ---
 
@@ -1825,6 +1843,7 @@ Related Nodes: N-10000
 Supports: C-390
 Tags: relevance:core
 Investigative Direction: Ask TPUSA staff, current or former, to come forward on the record; compare with the leak-hunt reports.
+Open Questions: Q-40
 
 ---
 
@@ -1842,6 +1861,7 @@ Related Nodes: N-10000, N-11143, N-10044
 Supports: C-476, C-482
 Tags: relevance:core
 Investigative Direction: Request the employees' accounts and any documents showing donor or sponsor influence over TPUSA operations before September 10.
+Open Questions: Q-7, Q-40
 
 ---
 
@@ -1859,6 +1879,7 @@ Related Nodes: N-10000
 Supports: C-384
 Tags: relevance:core
 Investigative Direction: Ask the host which evidence supports betrayal and who she means; look for the documents she says she has been given.
+Open Questions: Q-40
 
 ---
 
@@ -1875,6 +1896,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Review TPUSA and TPAction Form 990s, state filings and vendor payments for 2025.
+Open Questions: Q-7
 
 ---
 
@@ -1891,6 +1913,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Ask the host what was verified and how; follow up on the journalists she says she shared the names with.
+Open Questions: Q-7, Q-40
 
 ---
 
@@ -1925,6 +1948,7 @@ Supports: C-481
 Contradicts: C-479
 Tags: relevance:core
 Investigative Direction: Preview the full message history with metadata to establish the dates and frequency of contact.
+Open Questions: Q-15
 
 ---
 
@@ -1941,6 +1965,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA organizational changes, departures and NDAs from May 2025 through employees or LinkedIn history.
+Open Questions: Q-7
 
 ---
 
@@ -1990,6 +2015,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10076, N-10014
 Tags: relevance:core
 Investigative Direction: The transcript does not mark speaker turns; replay the audio to attribute the line, then request any evidence of federal involvement.
+Open Questions: Q-66
 
 ---
 
@@ -2119,6 +2145,7 @@ Mentions: N-3
 Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Get the Dairy Queen franchise's promotion calendar and compare the poster in the photo to the Superman and August promotions.
+Open Questions: Q-56
 
 ---
 
@@ -2135,6 +2162,7 @@ Mentions: N-3
 Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Ask the Dairy Queen franchise or its camera vendor about its actual retention period.
+Open Questions: Q-56
 
 ---
 
@@ -2152,6 +2180,7 @@ Related Nodes: N-11234, N-10048
 Supports: C-407
 Tags: relevance:core
 Investigative Direction: Search the cemetery and nearby cameras for clothing recovery; ask police whether any items were collected there.
+Open Questions: Q-42
 
 ---
 
@@ -2169,6 +2198,7 @@ Related Nodes: N-10050
 Supports: C-429
 Tags: relevance:core
 Investigative Direction: Obtain listing history and ownership of the vacant house and local witness accounts.
+Open Questions: Q-67
 
 ---
 
@@ -2185,6 +2215,7 @@ Mentions: N-3
 Related Nodes: N-10012, N-11284
 Tags: relevance:core
 Investigative Direction: Review UVU program partnerships with the intelligence community, including any CIA recruiting programs on campus.
+Open Questions: Q-68
 
 ---
 
@@ -2200,6 +2231,7 @@ Anchored Artifacts: A-3271.1
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Record tip volume and what follow-up the host reports in later episodes.
+Open Questions: Q-42, Q-56
 
 ---
 
@@ -2217,6 +2249,7 @@ Related Nodes: N-10027, N-10129
 Contradicts: C-458, C-533
 Tags: relevance:core
 Investigative Direction: Obtain the August 2025 Hamptons attendee list and Kolvet's travel records for those days.
+Open Questions: Q-9
 
 ---
 

@@ -1289,6 +1289,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Ask the host for the date, recipient and content of the report; ask the FBI to confirm receipt.
+Open Questions: Q-499
 
 ---
 
@@ -1512,6 +1513,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: No documents are cited; FOIA requests for records about Kirk's schooling and youth could test it.
+Open Questions: Q-500
 
 ---
 
@@ -1528,6 +1530,7 @@ Mentions: N-456, N-1
 Supports: C-5070
 Tags: relevance:core
 Investigative Direction: Ask TPUSA or Montgomery for the early security contract and who paid the invoices.
+Open Questions: Q-501
 
 ---
 
@@ -1544,6 +1547,7 @@ Mentions: N-456, N-332, N-270, N-266
 Related Nodes: N-10956, N-10398
 Tags: relevance:core
 Investigative Direction: Obtain the firm's Texas private security registration and staff lists; compare spelling with the Shaffer Security the host discusses in later episodes.
+Open Questions: Q-501
 
 ---
 
@@ -1560,6 +1564,7 @@ Mentions: N-332
 Related Nodes: N-10398
 Tags: relevance:core
 Investigative Direction: Verify through FBI career records, FOIA or Schaefer's own biography.
+Open Questions: Q-501
 
 ---
 
@@ -1610,6 +1615,7 @@ Related Nodes: N-10399, N-10394
 Supports: C-5182
 Tags: relevance:core
 Investigative Direction: Check property records in Comal County; compare dates with Erika Kirk's plane arrivals at New Braunfels.
+Open Questions: Q-502
 
 ---
 
@@ -1642,6 +1648,7 @@ Mentions: N-487, N-270, N-266, N-1
 Related Nodes: N-10398
 Tags: relevance:core
 Investigative Direction: Compile the home states and prior employers of each member of the September 10 security team.
+Open Questions: Q-484, Q-501
 
 ---
 
@@ -1658,6 +1665,7 @@ Mentions: N-266
 Related Nodes: N-10398
 Tags: relevance:core
 Investigative Direction: Verify through public records; note that Bobby Harpole's interview says he himself was born in Denton.
+Open Questions: Q-501
 
 ---
 
@@ -1801,6 +1809,7 @@ Related Nodes: N-10251
 Supports: C-3110
 Tags: relevance:core
 Investigative Direction: Locate Turek's original interview and compare it with UVU drone authorization records.
+Open Questions: Q-342
 
 ---
 
@@ -1820,6 +1829,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-12
 Investigative Direction: Compare Harpole's Shawn Ryan interview with UVU's drone authorization records and TPUSA's request.
+Open Questions: Q-342
 
 ---
 
@@ -1836,6 +1846,7 @@ Mentions:
 Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Request the FAA authorization or waiver and flight log for the survey drone.
+Open Questions: Q-342
 
 ---
 
@@ -1852,6 +1863,7 @@ Mentions:
 Related Nodes: N-10251, N-10012
 Tags: relevance:core
 Investigative Direction: Identify the officer and agency; request body camera footage and incident logs from UVU police.
+Open Questions: Q-342
 
 ---
 
@@ -1868,6 +1880,7 @@ Mentions: N-266
 Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Obtain the drone pilot's flight log, locations and timestamps for the survey.
+Open Questions: Q-342
 
 ---
 
@@ -1884,6 +1897,7 @@ Mentions: N-14
 Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Request the original image file with metadata and the events team member who took it.
+Open Questions: Q-342
 
 ---
 
@@ -1917,6 +1931,7 @@ Related Nodes: N-10820, N-10251
 Supports: C-5304
 Tags: relevance:core
 Investigative Direction: Read the letter text and compare it with Kolvet's account and UVU's drone records.
+Open Questions: Q-342
 
 ---
 
@@ -1949,6 +1964,7 @@ Mentions: N-14, N-7, N-3
 Related Nodes: N-10820, N-10251
 Tags: relevance:core
 Investigative Direction: Identify where and when Paramount Tactical made this statement.
+Open Questions: Q-342
 
 ---
 
@@ -1983,6 +1999,7 @@ Related Nodes: N-11082, N-10392
 Supports: C-5179
 Tags: relevance:core
 Investigative Direction: Obtain the charity's registration, Form 990 filings and grant recipients; confirm whether this is the same as Everyday Heroes Foundation.
+Open Questions: Q-471
 
 ---
 
@@ -1999,6 +2016,7 @@ Mentions: N-2
 Related Nodes: N-10374, N-10392
 Tags: relevance:core
 Investigative Direction: Identify the specific military units and the Romanian orphanage, and confirm dates and funds delivered.
+Open Questions: Q-470
 
 ---
 
@@ -2032,6 +2050,7 @@ Related Nodes: N-10392
 Supports: C-5312
 Tags: relevance:core
 Investigative Direction: Ask TPUSA or Erika Kirk for the videos and images from China, which would also date the stay.
+Open Questions: Q-490
 
 ---
 
@@ -2048,6 +2067,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11082, N-10392
 Tags: relevance:core
 Investigative Direction: Capture the real estate profile and its date; the host does not name the listing.
+Open Questions: Q-471, Q-490
 
 ---
 
@@ -2064,6 +2084,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10392
 Tags: relevance:core
 Investigative Direction: DIA beat; compare any viewer tips with Erika Kirk's own interview and TPUSA's two-week visit statement.
+Open Questions: Q-490
 
 ---
 
@@ -2112,6 +2133,7 @@ Anchored Artifacts: A-3307.1
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Wait for the host to show the message; verify sender and date against Kirk's phone records.
+Open Questions: Q-6
 
 ---
 
@@ -2128,6 +2150,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the dismissed employees through the host's sources and TPUSA separation records.
+Open Questions: Q-503, Q-504
 
 ---
 
@@ -2160,6 +2183,7 @@ Related Nodes: N-10632
 Supports: C-5323
 Tags: relevance:core
 Investigative Direction: Identify the event and date; request security staffing records and attendance confirmations.
+Open Questions: Q-505
 
 ---
 
@@ -2259,6 +2283,7 @@ Supports: C-5312
 Contradicts: C-5310, C-5180
 Tags: relevance:core
 Investigative Direction: Press TPUSA for the charity name and the dates of Erika's stay; the host's six-month figure comes from Charlie's remark.
+Open Questions: Q-490
 
 ---
 
@@ -2291,6 +2316,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Track the host's subsequent episodes for the promised leaks.
+Open Questions: Q-504
 
 ---
 

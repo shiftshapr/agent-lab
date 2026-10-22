@@ -991,6 +991,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the host's tip sources and any record (calendar, appointment, travel or phone data) placing Erika Kirk and her mother together or apart on the morning of September 10.
+Open Questions: Q-562
 
 ---
 
@@ -1540,6 +1541,7 @@ Related Nodes: N-10416
 Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's original statement and compare with the surgeon's and TPUSA's accounts.
+Open Questions: Q-421
 
 ---
 
@@ -1557,6 +1559,7 @@ Related Nodes: N-10416
 Supports: C-5690
 Tags: relevance:core
 Investigative Direction: Obtain call records and the surgeon's account; the host dates the call to the day of the funeral.
+Open Questions: Q-421
 
 ---
 
@@ -1573,6 +1576,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Review the surgeon's statements and any HIPAA consent given by the family.
+Open Questions: Q-536
 
 ---
 
@@ -1590,6 +1594,7 @@ Related Nodes: N-10318
 Supports: C-5452
 Tags: relevance:core
 Investigative Direction: Review the Glenn Beck interview for the exact wording.
+Open Questions: Q-534
 
 ---
 
@@ -1606,6 +1611,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Ask the host to clarify what she means (possession of the phone, or records from it) before relying on it.
+Open Questions: Q-534
 
 ---
 
@@ -1623,6 +1629,7 @@ Related Nodes: N-10318
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the text messages; TPUSA conceded Kolvet received the text, per earlier episodes.
+Open Questions: Q-534
 
 ---
 
@@ -1639,6 +1646,7 @@ Mentions: N-1, N-55
 Supports: C-1511
 Tags: relevance:core
 Investigative Direction: Compare with Josh Hammer's own account of the Zoom call (episode 67) and phone records.
+Open Questions: Q-208
 
 ---
 
@@ -1655,6 +1663,7 @@ Mentions: N-1
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Identify who gave this account and in which statement.
+Open Questions: Q-208, Q-534
 
 ---
 
@@ -1671,6 +1680,7 @@ Mentions: N-270, N-14, N-2, N-1
 Related Nodes: N-10439
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's statement naming the app.
+Open Questions: Q-559
 
 ---
 
@@ -1688,6 +1698,7 @@ Related Nodes: N-10439
 Supports: C-6053
 Tags: relevance:core
 Investigative Direction: Compare with the source cited in episode 67.
+Open Questions: Q-559
 
 ---
 
@@ -1706,6 +1717,7 @@ Supports: C-4104
 Tags: relevance:core
 Revises: C-3030
 Investigative Direction: Obtain Mikey McCoy's call log for the minutes after the shot.
+Open Questions: Q-212
 
 ---
 
@@ -1723,6 +1735,7 @@ Related Nodes: N-10317
 Supports: C-4109
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's public timeline with the call sequence.
+Open Questions: Q-212
 
 ---
 
@@ -1739,6 +1752,7 @@ Mentions: N-190, N-217, N-2
 Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Obtain the call log timestamps.
+Open Questions: Q-212
 
 ---
 
@@ -1755,6 +1769,7 @@ Mentions: N-2, N-190
 Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's original statement and compare it with the call log.
+Open Questions: Q-212
 
 ---
 
@@ -1772,6 +1787,7 @@ Related Nodes: N-10502, N-10071
 Supports: C-5702
 Tags: relevance:core
 Investigative Direction: Compare with the flight records for the two planes.
+Open Questions: Q-327
 
 ---
 
@@ -1788,6 +1804,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest or TPUSA's written confirmation.
+Open Questions: Q-327
 
 ---
 
@@ -1805,6 +1822,7 @@ Related Nodes: N-10502
 Supports: C-5705
 Tags: relevance:core
 Investigative Direction: Compare with the flight records showing roughly an hour between landings.
+Open Questions: Q-327
 
 ---
 
@@ -1820,6 +1838,7 @@ Anchored Artifacts:
 Mentions: N-1, N-46, N-3
 Tags: relevance:core
 Investigative Direction: Find the Megyn Kelly interview and the exact wording.
+Open Questions: Q-568
 
 ---
 
@@ -1835,6 +1854,7 @@ Anchored Artifacts:
 Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's tour remarks and the publisher's timeline.
+Open Questions: Q-568
 
 ---
 
@@ -1850,6 +1870,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Review the interview video for tone and context.
+Open Questions: Q-568
 
 ---
 
@@ -1865,6 +1886,7 @@ Anchored Artifacts:
 Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Review Erika Kirk's public statements and TPUSA's partnerships.
+Open Questions: Q-563
 
 ---
 
@@ -1881,6 +1903,7 @@ Mentions: N-544, N-2, N-3
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Obtain the tips themselves or independent confirmation of where Erika Kirk was on the morning of September 10.
+Open Questions: Q-569
 
 ---
 
@@ -1897,6 +1920,7 @@ Mentions: N-544
 Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Verify Martin's affiliation through church records or public posts.
+Open Questions: Q-569
 
 ---
 
@@ -1913,6 +1937,7 @@ Mentions: N-1
 Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Find the dates and recordings of Kirk's Dream City Church appearances.
+Open Questions: Q-570
 
 ---
 
@@ -1929,6 +1954,7 @@ Mentions: N-17
 Related Nodes: N-10371, N-10452
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA Faith's founding documents and the Wikipedia history discussed in episode 21.
+Open Questions: Q-570
 
 ---
 
@@ -1945,6 +1971,7 @@ Mentions: N-544, N-2, N-190, N-217
 Related Nodes: N-10440, N-10185
 Tags: relevance:core
 Investigative Direction: Same as the tips behind the alibi claim.
+Open Questions: Q-571
 
 ---
 
@@ -1961,6 +1988,7 @@ Mentions: N-2, N-489, N-3
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the source of the report and any appointment record for the mother's treatment.
+Open Questions: Q-562
 
 ---
 
@@ -1992,6 +2020,7 @@ Anchored Artifacts:
 Mentions: N-544, N-2, N-489
 Tags: relevance:core
 Investigative Direction: Locate the photograph and pageant-era records.
+Open Questions: Q-572
 
 ---
 
@@ -2055,6 +2084,7 @@ Mentions: N-2, N-489
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Obtain records of the mother's treatment on that date and of Erika Kirk's whereabouts.
+Open Questions: Q-562
 
 ---
 
@@ -2071,6 +2101,7 @@ Mentions: N-3, N-544
 Related Nodes: N-10440, N-10452
 Tags: relevance:core
 Investigative Direction: Review the tips received at the tip address.
+Open Questions: Q-571, Q-572, Q-573
 
 ---
 
@@ -2087,6 +2118,7 @@ Mentions: N-3
 Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Obtain recordings of the pastor's remarks after the assassination.
+Open Questions: Q-573
 
 ---
 
@@ -2167,6 +2199,7 @@ Related Nodes: N-10453, N-10239
 Supports: C-3620
 Tags: relevance:core
 Investigative Direction: Obtain ADS-B data for the Egyptian planes on September 10.
+Open Questions: Q-277
 
 ---
 
@@ -2183,6 +2216,7 @@ Mentions: N-3
 Related Nodes: N-10453
 Tags: relevance:core
 Investigative Direction: Speculation; any evidence would be in the ADS-B and communications logs.
+Open Questions: Q-277
 
 ---
 
@@ -2217,6 +2251,7 @@ Related Nodes: N-10239, N-10000, N-10371
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Compare the flight tracks with TPUSA Faith event dates.
+Open Questions: Q-236
 
 ---
 
@@ -2248,6 +2283,7 @@ Mentions: N-3
 Supports: C-4292
 Tags: relevance:core
 Investigative Direction: Find the official statement or court filing from the day before this episode.
+Open Questions: Q-75
 
 ---
 
@@ -2264,6 +2300,7 @@ Mentions: N-3
 Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain the K9 deployment reports.
+Open Questions: Q-20
 
 ---
 
@@ -2279,6 +2316,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Obtain the ballistics and autopsy findings on whether a bullet was recovered.
+Open Questions: Q-20, Q-64
 
 ---
 
@@ -2294,6 +2332,7 @@ Anchored Artifacts:
 Mentions: N-261, N-1
 Tags: relevance:core
 Investigative Direction: Obtain the camera operator's account and TPUSA's footage chain of custody.
+Open Questions: Q-64, Q-574
 
 ---
 

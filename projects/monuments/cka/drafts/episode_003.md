@@ -1385,6 +1385,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10129
 Tags: relevance:core
 Investigative Direction: Identify the employees through the host's sources and compare their accounts with TPUSA personnel records and event planning documents for the Hamptons weekend.
+Open Questions: Q-9, Q-40
 
 ---
 
@@ -1401,6 +1402,7 @@ Mentions: N-42, N-1, N-3
 Related Nodes: N-10032
 Tags: relevance:core
 Investigative Direction: Review the arrest video and witness statements to establish the sequence between the shot, Zinn's outburst and his arrest.
+Open Questions: Q-28
 
 ---
 
@@ -1417,6 +1419,7 @@ Mentions: N-42, N-3
 Related Nodes: N-10032
 Tags: relevance:core
 Investigative Direction: Obtain the arrest affidavit and booking report to confirm the sequence of the phone request, the medical treatment and the statutory degree of the obstruction charge.
+Open Questions: Q-28
 
 ---
 
@@ -1466,6 +1469,7 @@ Related Nodes:
 Supports: C-173
 Tags: relevance:core
 Investigative Direction: Compare each of Cox's press statements about the suspect, the outfit and the timeline with the probable cause statement and release a statement-by-statement comparison.
+Open Questions: Q-25
 
 ---
 
@@ -1484,6 +1488,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-11
 Investigative Direction: Obtain the full probable cause statement and the recovered device logs showing any instruction to delete messages.
+Open Questions: Q-41, Q-42
 
 ---
 
@@ -1502,6 +1507,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-1, S-7
 Investigative Direction: Pull the charging document to confirm the count, the statute and the allegation that children were present.
+Open Questions: Q-41
 
 ---
 
@@ -1520,6 +1526,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-2
 Investigative Direction: Identify the officer and obtain the incident report and body camera footage describing what he heard and when.
+Open Questions: Q-27, Q-43
 
 ---
 
@@ -1538,6 +1545,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Obtain the roof camera video and its embedded timestamps to verify the crawl, the dwell time and the exit direction.
+Open Questions: Q-26
 
 ---
 
@@ -1554,6 +1562,7 @@ Mentions: N-3
 Related Nodes: N-10020
 Tags: relevance:core
 Investigative Direction: Compare the indictment's description of the rifle and towel with earlier official statements about the weapon being disassembled and with the recovery photographs.
+Open Questions: Q-19
 
 ---
 
@@ -1572,6 +1581,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Review the full campus surveillance video and a gait analysis against the descriptions in the probable cause statement.
+Open Questions: Q-30
 
 ---
 
@@ -1588,6 +1598,7 @@ Mentions: N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Request release of the complete UVU surveillance video of the staircase and walkway for independent gait comparison.
+Open Questions: Q-29, Q-30, Q-31
 
 ---
 
@@ -1604,6 +1615,7 @@ Mentions: N-3
 Related Nodes: N-10011, N-10012
 Tags: relevance:core
 Investigative Direction: Identify the original source and capture time of the TMZ footage and match it to the university camera views.
+Open Questions: Q-23, Q-30, Q-31
 
 ---
 
@@ -1622,6 +1634,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-11
 Investigative Direction: Review the camera angle showing the descent and any witness accounts of someone dropping from the roof.
+Open Questions: Q-26
 
 ---
 
@@ -1640,6 +1653,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Confirm the dates and times of the FBI and Utah public releases of the surveillance photographs.
+Open Questions: Q-29
 
 ---
 
@@ -1658,6 +1672,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Check phone records for the mother's call and the son's location data for September 10 and 11.
+Open Questions: Q-44
 
 ---
 
@@ -1676,6 +1691,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Obtain the mother's police interview and any dated communications mentioning the UVU event.
+Open Questions: Q-44
 
 ---
 
@@ -1694,6 +1710,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Obtain the father's interview and the sheriff's account of the conversation at the parents' home before the surrender.
+Open Questions: Q-34, Q-44
 
 ---
 
@@ -1712,6 +1729,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Obtain the parents' statements to investigators and any recorded jail or interview statements of the same wording.
+Open Questions: Q-44
 
 ---
 
@@ -1730,6 +1748,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Establish who gave this instruction (the parents or the family friend) from the interview records and whether any clothing was surrendered.
+Open Questions: Q-34, Q-42
 
 ---
 
@@ -1748,6 +1767,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-7
 Investigative Direction: Find any search records for the disposal location and compare it with the discarded-clothing allegation in the overview.
+Open Questions: Q-42
 
 ---
 
@@ -1780,6 +1800,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: Ask the sources for the specific facts behind the wider-plot claim and test them against the indictment and the charging decisions.
+Open Questions: Q-21
 
 ---
 
@@ -1796,6 +1817,7 @@ Mentions: N-54, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Check Washington County and Utah County booking and custody records for any detention or interview of Lance Twiggs on September 11.
+Open Questions: Q-45
 
 ---
 
@@ -1814,6 +1836,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Obtain the photograph of the note that the indictment says police found and compare the wording with the quoted text.
+Open Questions: Q-46
 
 ---
 
@@ -1832,6 +1855,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Request the photograph, its metadata and the device it was found on in discovery.
+Open Questions: Q-46
 
 ---
 
@@ -1850,6 +1874,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Obtain the timestamped message log to place this text relative to the lockdown and the rifle recovery.
+Open Questions: Q-47
 
 ---
 
@@ -1868,6 +1893,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Obtain the unredacted message log with timestamps to verify the exchange and that no messages between these were omitted.
+Open Questions: Q-47
 
 ---
 
@@ -1886,6 +1912,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Match the wording to the first police detention (George Zinn or the other detained person) and to the lockdown times to date this message.
+Open Questions: Q-47, Q-48
 
 ---
 
@@ -1904,6 +1931,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5, S-7
 Investigative Direction: Compare this message with the motive Robinson reportedly gave his parents and obtain the message log.
+Open Questions: Q-47
 
 ---
 
@@ -1922,6 +1950,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5, S-7
 Investigative Direction: Cross-check the one-week planning claim with purchase, travel and device records from the preceding two weeks.
+Open Questions: Q-47
 
 ---
 
@@ -1940,6 +1969,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Establish where the rifle was recovered and where patrol cars were positioned, and when the area was swept.
+Open Questions: Q-20, Q-47
 
 ---
 
@@ -1958,6 +1988,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Trace the rifle's make, serial number and ownership history against the father's statement that it was a gift.
+Open Questions: Q-47, Q-49
 
 ---
 
@@ -1976,6 +2007,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Identify what Prince refers to and where the outfit change occurred, and obtain the original message text.
+Open Questions: Q-20, Q-33, Q-47
 
 ---
 
@@ -1993,6 +2025,7 @@ Related Nodes: N-10030, N-10074
 Supports: C-193
 Tags: relevance:core
 Investigative Direction: Plot the first public reports of the old man's detention and the similar-clothing interview against the lockdown timeline to bracket the message times.
+Open Questions: Q-48
 
 ---
 
@@ -2011,6 +2044,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Compare the quoted text with the casing inscriptions and obtain the message log.
+Open Questions: Q-38, Q-47
 
 ---
 
@@ -2029,6 +2063,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-7
 Investigative Direction: Obtain Lance's device extraction to confirm what was deleted and what was recovered.
+Open Questions: Q-47
 
 ---
 
@@ -2047,6 +2082,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Establish when the FBI released the rifle photo and compare with the father's call timing to date this message.
+Open Questions: Q-47, Q-48, Q-49
 
 ---
 
@@ -2065,6 +2101,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Compare the message time with the surrender timeline and the parents' accounts.
+Open Questions: Q-34, Q-47
 
 ---
 
@@ -2083,6 +2120,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Identify the deputy and reconcile the neighbor in the text with the retired deputy family friend named in the surrender account.
+Open Questions: Q-34, Q-47
 
 ---
 
@@ -2101,6 +2139,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-7
 Investigative Direction: Obtain Lance's police interview and any attorney contact records.
+Open Questions: Q-47
 
 ---
 
@@ -2117,6 +2156,7 @@ Mentions: N-67, N-40
 Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Compare the indictment's excerpts to the full message log in discovery for omitted sections.
+Open Questions: Q-50
 
 ---
 
@@ -2134,6 +2174,7 @@ Related Nodes: N-10074, N-10030
 Supports: C-193
 Tags: relevance:core
 Investigative Direction: Demand the complete, timestamped message log and compare it with the excerpts in the probable cause statement.
+Open Questions: Q-50
 
 ---
 
@@ -2150,6 +2191,7 @@ Mentions: N-54, N-3
 Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: Obtain Lance's police interview, the date of his device handover and any formal statements about his role.
+Open Questions: Q-36, Q-45
 
 ---
 
@@ -2166,6 +2208,7 @@ Mentions: N-54, N-3
 Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: This depends on the host's private tip box; the identity of the relatives would need to be confirmed with them directly.
+Open Questions: Q-45
 
 ---
 
@@ -2214,6 +2257,7 @@ Mentions: N-54, N-3
 Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: Ask the family for the specific facts behind the belief that more people were involved.
+Open Questions: Q-21, Q-45
 
 ---
 
@@ -2294,6 +2338,7 @@ Mentions: N-42, N-54, N-3
 Related Nodes: N-10032, N-10033, N-10034
 Tags: relevance:core
 Investigative Direction: This is the host's conclusion; test it by identifying any additional participants through charging documents, device extractions and witness lists.
+Open Questions: Q-21, Q-28
 
 ---
 
@@ -2326,6 +2371,7 @@ Mentions: N-2, N-3, N-30
 Related Nodes: N-10016, N-10044
 Tags: relevance:core
 Investigative Direction: Identify the donors and callers named by the host's sources and request any call logs or messages they are willing to share.
+Open Questions: Q-14
 
 ---
 
@@ -2342,6 +2388,7 @@ Mentions: N-38, N-3
 Related Nodes: N-10016, N-10323
 Tags: relevance:core
 Investigative Direction: Ask Seth Dillon and the recipients of any such calls to confirm or deny; the host cites no document.
+Open Questions: Q-14
 
 ---
 
@@ -2358,6 +2405,7 @@ Mentions: N-1, N-39, N-22, N-3
 Related Nodes: N-10044, N-10252, N-10016
 Tags: relevance:core
 Investigative Direction: Identify the donors and amounts at issue and obtain correspondence showing any withdrawal or threat tied to AmericaFest speakers.
+Open Questions: Q-6, Q-7
 
 ---
 
@@ -2390,6 +2438,7 @@ Mentions: N-56, N-1
 Related Nodes: N-10129, N-10016
 Tags: relevance:core
 Investigative Direction: Identify the attendees and obtain the invitation list, schedule and any messages sent by Arynne Wexler.
+Open Questions: Q-9
 
 ---
 
@@ -2406,6 +2455,7 @@ Mentions: N-1
 Related Nodes: N-10129, N-10016
 Tags: relevance:core
 Investigative Direction: Interview other attendees to corroborate the content of Kirk's presentation, and check Ackman's itinerary for the session.
+Open Questions: Q-9
 
 ---
 
@@ -2423,6 +2473,7 @@ Related Nodes: N-10323, N-10016
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Ask Seth Dillon and other attendees about the exchange; the host calls the example a paraphrase.
+Open Questions: Q-9, Q-13
 
 ---
 
@@ -2440,6 +2491,7 @@ Related Nodes: N-10016
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Ask Josh Hammer and attendees to confirm his reaction; the host says she heard it.
+Open Questions: Q-9
 
 ---
 
@@ -2472,6 +2524,7 @@ Mentions: N-3
 Related Nodes: N-10016, N-10012
 Tags: relevance:core
 Investigative Direction: Track whether the host later ties the Hamptons pressure to the shooting and compare with this disclaimer.
+Open Questions: Q-17
 
 ---
 
@@ -2489,6 +2542,7 @@ Related Nodes: N-10018
 Supports: C-83
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the callers, dates and the person she was told to speak to, and compare with Netanyahu's account of inviting Kirk.
+Open Questions: Q-5
 
 ---
 
@@ -2506,6 +2560,7 @@ Related Nodes: N-10036
 Qualifies: C-100
 Tags: relevance:core
 Investigative Direction: Check the prior episode transcript for exact words used about the Hamptons meeting and blackmail.
+Open Questions: Q-51
 
 ---
 
@@ -2522,6 +2577,7 @@ Mentions: N-37, N-1, N-3
 Related Nodes: N-10036
 Tags: relevance:core
 Investigative Direction: Retrieve Ackman's tweet and verify the wording and any quoted material.
+Open Questions: Q-10, Q-51
 
 ---
 
@@ -2539,6 +2595,7 @@ Related Nodes: N-10016
 Supports: C-100
 Tags: relevance:core
 Investigative Direction: Ask the host what file was presented, to whom and by whom; the sentence is ambiguous on air.
+Open Questions: Q-51
 
 ---
 
@@ -2587,6 +2644,7 @@ Mentions: N-37, N-36, N-1
 Related Nodes: N-10036, N-10320, N-10018
 Tags: relevance:core
 Investigative Direction: Search the 955-word tweet for any reference to Netanyahu, Israel invitations or funding offers.
+Open Questions: Q-10, Q-11
 
 ---
 
@@ -2604,6 +2662,7 @@ Related Nodes: N-10016, N-10129
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Find the recipients of Kirk's reflections about the intervention feeling and obtain any dated messages.
+Open Questions: Q-9, Q-12
 
 ---
 
@@ -2621,6 +2680,7 @@ Related Nodes: N-10018
 Supports: C-84
 Tags: relevance:core
 Investigative Direction: Obtain Netanyahu's public statements about the invitation and any messages between Netanyahu's office and Kirk.
+Open Questions: Q-5
 
 ---
 
@@ -2669,6 +2729,7 @@ Mentions: N-46, N-9, N-1
 Related Nodes: N-10023
 Tags: relevance:core
 Investigative Direction: Locate the Turning Point event conversation between Kelly and Kirk where Epstein and Mossad were discussed.
+Open Questions: Q-52
 
 ---
 
@@ -2717,6 +2778,7 @@ Mentions: N-1, N-46
 Related Nodes: N-10026, N-10016
 Tags: relevance:core
 Investigative Direction: Pull the full episode and Kirk's phone messages from the same period to see what private behavior he meant.
+Open Questions: Q-2, Q-52
 
 ---
 
@@ -2830,6 +2892,7 @@ Related Nodes: N-10035, N-10044
 Supports: C-269
 Tags: relevance:core
 Investigative Direction: Find where Kirk alluded to lost funding, such as show remarks or messages to staff.
+Open Questions: Q-7
 
 ---
 
@@ -2846,6 +2909,7 @@ Mentions: N-36, N-1, N-3
 Related Nodes: N-10425, N-10018
 Tags: relevance:core
 Investigative Direction: Review Netanyahu's podcast appearances for how he described his contact with Kirk, and any invitation to appear on the Charlie Kirk Show.
+Open Questions: Q-5, Q-53
 
 ---
 
@@ -2862,6 +2926,7 @@ Mentions: N-36, N-1, N-3
 Related Nodes: N-10018, N-10425
 Tags: relevance:core
 Investigative Direction: Match Netanyahu's own words in the podcast interviews with the host's characterization.
+Open Questions: Q-5
 
 ---
 
@@ -2878,6 +2943,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000, N-11143
 Tags: relevance:core
 Investigative Direction: Establish the changes in TPUSA's donor base, board and positions from 2024 to September 2025 that the host is describing.
+Open Questions: Q-2, Q-7, Q-18
 
 ---
 
@@ -2895,6 +2961,7 @@ Related Nodes: N-10044, N-10016
 Supports: C-74
 Tags: relevance:core
 Investigative Direction: Identify the people who told Kirk whom to host and obtain related messages.
+Open Questions: Q-2, Q-6
 
 ---
 
@@ -2911,6 +2978,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10016, N-10026
 Tags: relevance:core
 Investigative Direction: Collect post-assassination statements by Hamptons attendees and Israel-aligned commentators that frame Kirk as dying for Israel.
+Open Questions: Q-54
 
 ---
 
@@ -2927,6 +2995,7 @@ Mentions: N-37, N-3
 Related Nodes: N-10000, N-10129
 Tags: relevance:core
 Investigative Direction: Review TPUSA's event announcements for 2024 and 2025 for comparable closed weekend events, and identify the employee source.
+Open Questions: Q-9
 
 ---
 
@@ -3007,6 +3076,7 @@ Mentions: N-37, N-1, N-60
 Related Nodes: N-11282
 Tags: relevance:core
 Investigative Direction: Retrieve Ackman's post announcing the reward and confirm its terms, date and recipient.
+Open Questions: Q-55
 
 ---
 
@@ -3103,6 +3173,7 @@ Mentions: N-40, N-54, N-3
 Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Compare the quoted messages' grammar and punctuation with Robinson's verified earlier messages.
+Open Questions: Q-50
 
 ---
 
@@ -3119,6 +3190,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the complete text log and device extractions and have an independent examiner test their authenticity.
+Open Questions: Q-50
 
 ---
 
@@ -3135,6 +3207,7 @@ Mentions: N-3
 Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the native message database for forensic authentication of timestamps and sender metadata.
+Open Questions: Q-50
 
 ---
 
@@ -3151,6 +3224,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10133, N-10074
 Tags: relevance:core
 Investigative Direction: Compare the casing inscriptions and the text messages with Robinson's known writing and the recovered rifle's ammunition.
+Open Questions: Q-38, Q-50
 
 ---
 
@@ -3168,6 +3242,7 @@ Related Nodes: N-10133, N-10074
 Supports: C-193
 Tags: relevance:core
 Investigative Direction: Obtain the timestamped message log and forensic report on the casings.
+Open Questions: Q-38, Q-48, Q-50
 
 ---
 

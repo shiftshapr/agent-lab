@@ -1361,6 +1361,7 @@ Mentions: N-3, N-97, N-859, N-266
 Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Compare counsel of record on the Harpole filing with counsel in the host's Daily Wire arbitration filings.
+Open Questions: Q-837
 
 ---
 
@@ -1648,6 +1649,7 @@ Anchored Artifacts: A-3138.1
 Mentions: N-97, N-2, N-3
 Tags: relevance:core
 Investigative Direction: Locate the original Shapiro show episode and timestamp and any follow-up from Erika Kirk's side.
+Open Questions: Q-851
 
 ---
 
@@ -1727,6 +1729,7 @@ Mentions: N-97, N-1
 Supports: C-2514
 Tags: relevance:core
 Investigative Direction: Compare with the host's texts from Kirk about Shapiro and with Shapiro's public statements.
+Open Questions: Q-593
 
 ---
 
@@ -1743,6 +1746,7 @@ Mentions: N-97, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify any payment, donation or sponsorship from Shapiro or the Daily Wire to Turning Point after the assassination.
+Open Questions: Q-593
 
 ---
 
@@ -1806,6 +1810,7 @@ Related Nodes: N-10593
 Supports: C-2494
 Tags: relevance:core
 Investigative Direction: Seek communications between Shapiro's side, Erika Kirk's side and the Harpole lawyers.
+Open Questions: Q-851
 
 ---
 
@@ -1855,6 +1860,7 @@ Related Nodes: N-10598
 Supports: C-8771
 Tags: relevance:core
 Investigative Direction: Check the email's timestamp and the host's flight records against the commenter's account.
+Open Questions: Q-851
 
 ---
 
@@ -1871,6 +1877,7 @@ Mentions: N-3, N-859
 Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Obtain the demand letter and its date.
+Open Questions: Q-837
 
 ---
 
@@ -1887,6 +1894,7 @@ Mentions: N-859, N-97, N-60
 Related Nodes: N-10598, N-10593
 Tags: relevance:core
 Investigative Direction: Look for communications, payments or contacts between Loomer, Sarelson and the person who allegedly tried to hire a photographer.
+Open Questions: Q-851
 
 ---
 
@@ -2091,6 +2099,7 @@ Mentions: N-2, N-1
 Related Nodes: N-11361
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's own statements using that phrase.
+Open Questions: Q-855
 
 ---
 
@@ -2108,6 +2117,7 @@ Related Nodes: N-10595, N-10835
 Qualifies: C-8796
 Tags: relevance:core
 Investigative Direction: Ask Turning Point who supplied the memorial geotagging data.
+Open Questions: Q-550
 
 ---
 
@@ -2124,6 +2134,7 @@ Mentions: N-14, N-373
 Related Nodes: N-10582
 Tags: relevance:core
 Investigative Direction: Obtain the WHCD seating chart and table assignments.
+Open Questions: Q-856
 
 ---
 
@@ -2156,6 +2167,7 @@ Mentions: N-3
 Related Nodes: N-10595, N-10835
 Tags: relevance:core
 Investigative Direction: Identify the vendor Turning Point used for the memorial geotagging and compare with the FARA filing.
+Open Questions: Q-550
 
 ---
 
@@ -2172,6 +2184,7 @@ Mentions: N-1
 Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Dream City Church event calendar and Kirk's speaking dates.
+Open Questions: Q-550
 
 ---
 
@@ -2235,6 +2248,7 @@ Mentions: N-3, N-266, N-270
 Related Nodes: N-10593, N-10632
 Tags: relevance:core
 Investigative Direction: Review the host's earlier statements about Harpole and Flood and her outreach message to Harpole.
+Open Questions: Q-840
 
 ---
 
@@ -2250,6 +2264,7 @@ Anchored Artifacts:
 Mentions: N-3, N-266
 Tags: relevance:core
 Investigative Direction: Identify events or work where the host's team and Harpole's security overlapped.
+Open Questions: Q-840
 
 ---
 
@@ -2266,6 +2281,7 @@ Mentions: N-3, N-266, N-270, N-2
 Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Check discovery requests in the Harpole docket.
+Open Questions: Q-574
 
 ---
 
@@ -2283,6 +2299,7 @@ Related Nodes: N-10000
 Supports: C-1372, C-2423
 Tags: relevance:core
 Investigative Direction: Request the footage or confirm its custody with Turning Point and law enforcement.
+Open Questions: Q-574
 
 ---
 
@@ -2379,6 +2396,7 @@ Related Nodes: N-10597
 Supports: C-1958
 Tags: relevance:core
 Investigative Direction: Review the evidence record in the Robinson prosecution.
+Open Questions: Q-857
 
 ---
 

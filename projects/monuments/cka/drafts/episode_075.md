@@ -1048,6 +1048,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10779
 Tags: relevance:core
 Investigative Direction: Compare with Erika Kirk's own public statements on running for office and any on-record answers to questions about a political future.
+Open Questions: Q-628
 
 ---
 
@@ -1164,6 +1165,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Ask Savannah and the host's husband to confirm the exchange and its timing on September 10, 2025.
+Open Questions: Q-629
 
 ---
 
@@ -1182,6 +1184,7 @@ Related Nodes: N-10109
 Supports: C-768
 Tags: relevance:core
 Investigative Direction: Compare with the dated Aug 30 to Sep 2 texts the host has cited and her husband's or staff's recollection of that week.
+Open Questions: Q-629
 
 ---
 
@@ -1200,6 +1203,7 @@ Related Nodes: N-10109
 Supports: C-768
 Tags: relevance:core
 Investigative Direction: Check publication dates of her show in the week before September 10, 2025 and ask the security contractor and school for dates.
+Open Questions: Q-629
 
 ---
 
@@ -1218,6 +1222,7 @@ Related Nodes: N-10388, N-10000
 Supports: C-1780
 Tags: relevance:core
 Investigative Direction: Obtain the dated messages or recordings in which Charlie said this and compare with the 2018 texts aired earlier in the series.
+Open Questions: Q-630
 
 ---
 
@@ -1303,6 +1308,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10777
 Tags: relevance:core
 Investigative Direction: Obtain a to-scale layout of the Utah Valley University courtyard, tent, stage and seating on September 10, 2025 and test whether it forms a five-sided figure around his seat.
+Open Questions: Q-631
 
 ---
 
@@ -1434,6 +1440,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11049
 Tags: relevance:core
 Investigative Direction: This is a belief without cited evidence; any support would need evidence of who planned the event and why it was broadcast.
+Open Questions: Q-631, Q-632
 
 ---
 
@@ -1500,6 +1507,7 @@ Anchored Artifacts:
 Mentions: N-69, N-3
 Tags: relevance:core
 Investigative Direction: Collect Patel's dated statements and posts that use the 33 hours figure and check the capture-to-surrender timeline.
+Open Questions: Q-633
 
 ---
 
@@ -1516,6 +1524,7 @@ Anchored Artifacts:
 Mentions: N-11, N-2, N-3
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's own statement about how she met Bowyer and compare it with the host's earlier cited interviews.
+Open Questions: Q-455
 
 ---
 
@@ -1534,6 +1543,7 @@ Related Nodes: N-10779
 Supports: C-6740
 Tags: relevance:core
 Investigative Direction: Collect all TPUSA-side remarks about Erika's political future dated in the first weeks after September 10, 2025.
+Open Questions: Q-628, Q-634
 
 ---
 
@@ -1550,6 +1560,7 @@ Anchored Artifacts:
 Mentions: N-2, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's own account of why she did not travel to Utah and compare it with her itinerary and the tour schedule.
+Open Questions: Q-562
 
 ---
 
@@ -1569,6 +1580,7 @@ Supports: C-5395
 Qualifies: C-6740
 Tags: relevance:core
 Investigative Direction: Obtain the full Bowyer interview and check whether he said anything about CEO or chairman succession.
+Open Questions: Q-634
 
 ---
 
@@ -1603,6 +1615,7 @@ Mentions: N-190, N-4
 Related Nodes: N-10779
 Tags: relevance:core
 Investigative Direction: Identify the program and date of the McQuaid clip and the speaker who prompted him.
+Open Questions: Q-628
 
 ---
 
@@ -1620,6 +1633,7 @@ Mentions: N-6, N-2, N-3
 Related Nodes: N-10466
 Tags: relevance:core
 Investigative Direction: Find Elizabeth Lane's original statement and its date and context.
+Open Questions: Q-635
 
 ---
 
@@ -1637,6 +1651,7 @@ Mentions: N-2, N-270, N-1, N-3
 Related Nodes: N-10632, N-10466
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA payroll or personnel records or a TPUSA statement on Flood's pay and title after September 10, 2025.
+Open Questions: Q-505
 
 ---
 
@@ -1655,6 +1670,7 @@ Related Nodes: N-10826, N-10889, N-10466
 Supports: C-5609
 Tags: relevance:core
 Investigative Direction: Locate the published Times interview and its date and compare with the September 18, 2025 date noted earlier.
+Open Questions: Q-396
 
 ---
 
@@ -1690,6 +1706,7 @@ Related Nodes: N-10826, N-10466
 Supports: C-5610
 Tags: relevance:core
 Investigative Direction: Read the Times interview text for the exact quote and context.
+Open Questions: Q-396
 
 ---
 
@@ -1707,6 +1724,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10466
 Tags: relevance:core
 Investigative Direction: Ask TPUSA staff and check dated posts or reports of Erika Kirk's office appearances in the week after September 10, 2025.
+Open Questions: Q-636
 
 ---
 
@@ -1724,6 +1742,7 @@ Mentions: N-2, N-211, N-3
 Related Nodes: N-10466
 Tags: relevance:core
 Investigative Direction: Pull the Fox News interview and check the exact words and date.
+Open Questions: Q-396
 
 ---
 
@@ -1742,6 +1761,7 @@ Related Nodes: N-10466
 Supports: C-585
 Tags: relevance:core
 Investigative Direction: Compare the memorial date of the forgiveness statement with when charging documents and evidence were made public.
+Open Questions: Q-637
 
 ---
 
@@ -1759,6 +1779,7 @@ Mentions: N-2, N-40, N-3
 Related Nodes: N-10416, N-10466
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's dated public remarks on the wound and bullet and compare with the medical or ballistic record when released.
+Open Questions: Q-64, Q-638
 
 ---
 
@@ -1776,6 +1797,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Trace which person first stated in public that the neck stopped the bullet, with dates and recordings.
+Open Questions: Q-64, Q-638
 
 ---
 
@@ -1863,6 +1885,7 @@ Related Nodes: N-11050
 Supports: C-5874
 Tags: relevance:core
 Investigative Direction: Pull Trump's Truth Social and X posts from September 10 to 20, 2025 and identify the post with the AI image and its date.
+Open Questions: Q-281
 
 ---
 
@@ -1880,6 +1903,7 @@ Mentions: N-5, N-1, N-3
 Related Nodes: N-11050
 Tags: relevance:core
 Investigative Direction: Compile all Trump posts and public statements mentioning Charlie Kirk from September 10 to 30, 2025, noting any call for an investigation.
+Open Questions: Q-281
 
 ---
 
@@ -2149,6 +2173,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: Compare the June 2025 strike scope with Charlie Kirk's stated opposition and any reporting on internal debate.
+Open Questions: Q-491
 
 ---
 
@@ -2166,6 +2191,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: No evidence of motive is offered; test against the actual investigation record into the shooting.
+Open Questions: Q-639
 
 ---
 
@@ -2406,6 +2432,7 @@ Related Nodes: N-10405, N-10000
 Supports: C-4301
 Tags: relevance:core
 Investigative Direction: Obtain the cease and desist letter and read its text on the infiltration claim.
+Open Questions: Q-507
 
 ---
 
@@ -2424,6 +2451,7 @@ Related Nodes: N-10405, N-10000
 Supports: C-4301
 Tags: relevance:core
 Investigative Direction: Compile the named pastors' and Erika's mother's documented military or defense ties with sources.
+Open Questions: Q-619
 
 ---
 
@@ -2525,6 +2553,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10000, N-10990
 Tags: relevance:core
 Investigative Direction: Ask venues and organizers for cancelled Erika Kirk bookings from fall 2025 through March 2026 and the reasons given.
+Open Questions: Q-640
 
 ---
 

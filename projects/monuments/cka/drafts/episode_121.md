@@ -1202,6 +1202,7 @@ Related Nodes:
 Supports: C-8636
 Tags: relevance:core
 Investigative Direction: Pull the docket for Harpole's complaint and any amendment to see whether it was extended to cover this statement.
+Open Questions: Q-837
 
 ---
 
@@ -1218,6 +1219,7 @@ Mentions: N-266, N-7
 Related Nodes: N-10624, N-10636
 Tags: relevance:core
 Investigative Direction: Compare each man's recorded account of the ride side by side (CPR, door, positions, duration).
+Open Questions: Q-882
 
 ---
 
@@ -1250,6 +1252,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10641, N-10697
 Tags: relevance:core
 Investigative Direction: Obtain the Rode Rode mic product teardown and compare shard material, thickness and markings with the SUV photos.
+Open Questions: Q-883
 
 ---
 
@@ -1266,6 +1269,7 @@ Mentions: N-266, N-1
 Related Nodes: N-10621, N-10622
 Tags: relevance:core
 Investigative Direction: Obtain the ER and EMS records for who handled the shirt and where it went.
+Open Questions: Q-884
 
 ---
 
@@ -1282,6 +1286,7 @@ Mentions: N-266, N-1
 Related Nodes: N-10622, N-10697, N-10643
 Tags: relevance:core
 Investigative Direction: Establish the shirt's chain of custody and whether it was tested for explosive residue.
+Open Questions: Q-884
 
 ---
 
@@ -1298,6 +1303,7 @@ Mentions: N-266, N-1
 Related Nodes: N-10622
 Tags: relevance:core
 Investigative Direction: Compare ER intake photos and records with the car-interior photos for the shirt's location.
+Open Questions: Q-884
 
 ---
 
@@ -1314,6 +1320,7 @@ Mentions: N-3
 Related Nodes: N-10623
 Tags: relevance:core
 Investigative Direction: Determine who took and released the SUV interior photos and when.
+Open Questions: Q-885
 
 ---
 
@@ -1330,6 +1337,7 @@ Mentions: N-270, N-492, N-266, N-487, N-1, N-7
 Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Confirm seating with each occupant's first-hand account and the SUV photos.
+Open Questions: Q-882
 
 ---
 
@@ -1346,6 +1354,7 @@ Mentions: N-266
 Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Use traffic-camera, dispatch and phone-location times to fix departure and arrival to the minute.
+Open Questions: Q-886
 
 ---
 
@@ -1363,6 +1372,7 @@ Related Nodes: N-10624
 Supports: C-10321
 Tags: relevance:core
 Investigative Direction: Locate and preserve the departure footage and view the door at full resolution.
+Open Questions: Q-882
 
 ---
 
@@ -1379,6 +1389,7 @@ Mentions: N-266, N-7, N-487
 Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Ask Cutler and Turek independently what each did and said during the ride.
+Open Questions: Q-882
 
 ---
 
@@ -1396,6 +1407,7 @@ Related Nodes: N-10820, N-10633
 Supports: C-10326
 Tags: relevance:core
 Investigative Direction: Obtain the full Paramount Tactical interview and compare the dressing quantities in both accounts.
+Open Questions: Q-887
 
 ---
 
@@ -1412,6 +1424,7 @@ Mentions: N-266
 Related Nodes: N-10633, N-10820
 Tags: relevance:core
 Investigative Direction: Check the car-interior photos for torn hemostatic packaging and any bag or wrapper debris.
+Open Questions: Q-887
 
 ---
 
@@ -1428,6 +1441,7 @@ Mentions: N-266
 Related Nodes: N-10633
 Tags: relevance:core
 Investigative Direction: Check roll length by product and arithmetic: 36 ft is 12 yd, which is three 4-yard rolls, not six.
+Open Questions: Q-887
 
 ---
 
@@ -1445,6 +1459,7 @@ Related Nodes: N-10636
 Contradicts: C-10093
 Tags: relevance:core
 Investigative Direction: Ask a trauma or EMS instructor whether CPR is feasible in that seating position and obtain Turek's full statement.
+Open Questions: Q-882
 
 ---
 
@@ -1462,6 +1477,7 @@ Related Nodes: N-10636
 Supports: C-10094
 Tags: relevance:core
 Investigative Direction: Compare Harpole's and Turek's accounts with hospital intake notes on what resuscitation, if any, was reported.
+Open Questions: Q-882
 
 ---
 
@@ -1479,6 +1495,7 @@ Related Nodes: N-10626, N-10636
 Supports: C-10236
 Tags: relevance:core
 Investigative Direction: Establish who supplied the scrubs and when, and whether Turek's clothing was retained.
+Open Questions: Q-888
 
 ---
 
@@ -1496,6 +1513,7 @@ Related Nodes: N-10623
 Revises: C-3107
 Tags: relevance:core
 Investigative Direction: Review all footage of the loading of Charlie into the SUV for who carried him and when Turek boarded.
+Open Questions: Q-882, Q-888
 
 ---
 
@@ -1529,6 +1547,7 @@ Related Nodes: N-10626
 Supports: C-10236
 Tags: relevance:core
 Investigative Direction: Ask Turek and hospital staff who supplied scrubs and why.
+Open Questions: Q-888
 
 ---
 
@@ -1545,6 +1564,7 @@ Mentions: N-266, N-7, N-487, N-1
 Related Nodes: N-10622
 Tags: relevance:core
 Investigative Direction: Look for cut-fabric fragments or scissors in the car photos and compare with the shirt's cut pattern.
+Open Questions: Q-884
 
 ---
 
@@ -1561,6 +1581,7 @@ Mentions: N-1
 Related Nodes: N-10641, N-10623
 Tags: relevance:core
 Investigative Direction: Test whether shard distribution on the floor is consistent with debris brushed off a body.
+Open Questions: Q-883
 
 ---
 
@@ -1577,6 +1598,7 @@ Mentions: N-266, N-1
 Related Nodes: N-10633
 Tags: relevance:core
 Investigative Direction: Compare the quantity of dressing on the body at hospital intake with what was found in the car.
+Open Questions: Q-887
 
 ---
 
@@ -1593,6 +1615,7 @@ Mentions: N-1
 Related Nodes: N-10623
 Tags: relevance:core
 Investigative Direction: Establish whether an ambulance was requested or staged and who decided against it.
+Open Questions: Q-884, Q-889
 
 ---
 
@@ -1610,6 +1633,7 @@ Related Nodes: N-10226
 Supports: C-4190
 Tags: relevance:core
 Investigative Direction: Obtain the FBI evidence log for hospital camera seizures and its date and time.
+Open Questions: Q-884, Q-890
 
 ---
 
@@ -1658,6 +1682,7 @@ Mentions: N-7, N-1
 Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Compare Turek's 10 to 15 minutes with Harpole's 60-80-100 mph account and with timestamps for shot and arrival.
+Open Questions: Q-886
 
 ---
 
@@ -1674,6 +1699,7 @@ Mentions: N-7, N-190, N-2
 Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Compare with flight logs for the plane sent to Erika and her recorded arrival at the hospital.
+Open Questions: Q-864
 
 ---
 
@@ -1691,6 +1717,7 @@ Related Nodes: N-10324
 Supports: C-7690, C-9991
 Tags: relevance:core
 Investigative Direction: Obtain Farnsworth's own on-record account and any message to or from Erika about the cameras.
+Open Questions: Q-574
 
 ---
 
@@ -1723,6 +1750,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10628
 Tags: relevance:core
 Investigative Direction: A DID diagnosis cannot be made at a distance; obtain licensed clinical commentary.
+Open Questions: Q-891
 
 ---
 
@@ -1771,6 +1799,7 @@ Mentions: N-2
 Related Nodes: N-10628, N-10891
 Tags: relevance:core
 Investigative Direction: List the specific reversals (such as Israel positions) with dated sources and compare.
+Open Questions: Q-891
 
 ---
 
@@ -1997,6 +2026,7 @@ Related Nodes: N-10615
 Supports: C-10246, C-10249, C-10251
 Tags: relevance:core
 Investigative Direction: Compare Tool's three interviews.
+Open Questions: Q-892
 
 ---
 
@@ -2013,6 +2043,7 @@ Mentions: N-729
 Related Nodes: N-10615
 Tags: relevance:core
 Investigative Direction: Review the three interviews for demeanor; this is the host's characterization.
+Open Questions: Q-892
 
 ---
 
@@ -2029,6 +2060,7 @@ Mentions: N-266, N-1
 Related Nodes: N-10621
 Tags: relevance:core
 Investigative Direction: Compare the autopsy report with hospital records on whether a defibrillator was used.
+Open Questions: Q-862
 
 ---
 
@@ -2126,6 +2158,7 @@ Mentions: N-1
 Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Obtain police radio and CAD logs.
+Open Questions: Q-882
 
 ---
 
@@ -2142,6 +2175,7 @@ Mentions: N-266
 Related Nodes: N-10619, N-10624
 Tags: relevance:core
 Investigative Direction: Locate the passage in the interview and note the timestamp.
+Open Questions: Q-893
 
 ---
 
@@ -2158,6 +2192,7 @@ Mentions: N-270
 Related Nodes: N-10630, N-10663
 Tags: relevance:core
 Investigative Direction: Request the 911 and CAD records for calls from the convoy.
+Open Questions: Q-894, Q-895
 
 ---
 
@@ -2175,6 +2210,7 @@ Related Nodes: N-10632
 Revises: C-5343
 Tags: relevance:core
 Investigative Direction: Seek TPUSA personnel records or a Flood statement.
+Open Questions: Q-895
 
 ---
 
@@ -2191,6 +2227,7 @@ Mentions: N-2, N-665
 Related Nodes: N-10631
 Tags: relevance:core
 Investigative Direction: Find Erika's own statement of the two years and identify the pastor.
+Open Questions: Q-896
 
 ---
 
@@ -2207,6 +2244,7 @@ Mentions: N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Confirm the tip address and handling.
+Open Questions: Q-654
 
 ---
 
@@ -2224,6 +2262,7 @@ Related Nodes: N-10478
 Supports: C-9777
 Tags: relevance:core
 Investigative Direction: Obtain Next Model staff records.
+Open Questions: Q-654
 
 ---
 

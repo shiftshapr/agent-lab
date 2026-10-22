@@ -521,6 +521,7 @@ Mentions:
 Related Nodes: N-10750, N-11229
 Tags: relevance:core
 Investigative Direction: The source and date of the Tyler Bowyer DM exchange shown later in the episode.
+Open Questions: Q-1307
 
 ---
 
@@ -537,6 +538,7 @@ Mentions: N-3
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The show's tip correspondence about the statue update.
+Open Questions: Q-1307
 
 ---
 
@@ -570,6 +572,7 @@ Related Nodes: N-10846, N-10750
 Supports: C-14352
 Tags: relevance:core
 Investigative Direction: TPUSA and Turning Point Action announcements of the statue unveiling in September 2026.
+Open Questions: Q-1295
 
 ---
 
@@ -603,6 +606,7 @@ Mentions: N-11, N-2, N-1
 Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Erika Kirk's and TPUSA's public accounts of how she met Charlie Kirk.
+Open Questions: Q-455
 
 ---
 
@@ -635,6 +639,7 @@ Mentions: N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Erika Kirk's September 12, 2025 public address and its full transcript.
+Open Questions: Q-1299
 
 ---
 
@@ -651,6 +656,7 @@ Mentions:
 Related Nodes: N-10000, N-10582, N-10836
 Tags: relevance:core
 Investigative Direction: TPUSA emails and social posts in the days after the WHCD and after the statue vandalism.
+Open Questions: Q-1299
 
 ---
 
@@ -667,6 +673,7 @@ Mentions: N-1
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: Photos of the vandalized statue and the police report.
+Open Questions: Q-1296
 
 ---
 
@@ -684,6 +691,7 @@ Related Nodes: N-10000, N-10750
 Supports: C-14354
 Tags: relevance:core
 Investigative Direction: Phoenix police report on the vandalism and any TPUSA statement on suspect descriptions.
+Open Questions: Q-1298
 
 ---
 
@@ -700,6 +708,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: TPUSA's officer listings and board announcements.
+Open Questions: Q-258, Q-1298
 
 ---
 
@@ -716,6 +725,7 @@ Mentions:
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The date of the vandalism and TPUSA headquarters' camera coverage.
+Open Questions: Q-1296, Q-1297
 
 ---
 
@@ -732,6 +742,7 @@ Mentions: N-11
 Related Nodes: N-10750, N-10160
 Tags: relevance:core
 Investigative Direction: The original DM screenshots and the viewer who sent them.
+Open Questions: Q-1307
 
 ---
 
@@ -748,6 +759,7 @@ Mentions: N-11
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: Phoenix police case file on the statue vandalism.
+Open Questions: Q-1298, Q-1301, Q-1307
 
 ---
 
@@ -764,6 +776,7 @@ Mentions: N-11
 Related Nodes: N-10750, N-10160
 Tags: relevance:core
 Investigative Direction: The DM screenshots and any TPUSA surveillance footage of the incident.
+Open Questions: Q-1297, Q-1307
 
 ---
 
@@ -780,6 +793,7 @@ Mentions: N-11
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: Phoenix police case status for the statue vandalism.
+Open Questions: Q-1296, Q-1298, Q-1301
 
 ---
 
@@ -796,6 +810,7 @@ Mentions: N-11
 Related Nodes: N-10846, N-11348, N-10750
 Tags: relevance:core
 Investigative Direction: The Turning Point Action funds email and the organization's FEC filings.
+Open Questions: Q-1294, Q-1307
 
 ---
 
@@ -812,6 +827,7 @@ Mentions: N-11
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The statue's commissioning records and the sculptor's statements.
+Open Questions: Q-1295, Q-1307
 
 ---
 
@@ -828,6 +844,7 @@ Mentions: N-3
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: Whether any police or TPUSA statement has closed the vandalism case.
+Open Questions: Q-1301
 
 ---
 
@@ -861,6 +878,7 @@ Related Nodes: N-10801, N-10810
 Supports: C-13937
 Tags: relevance:core
 Investigative Direction: Wayback Machine captures of the Monster Lab domain and The Atlantic's reporting.
+Open Questions: Q-1238
 
 ---
 
@@ -877,6 +895,7 @@ Mentions: N-330
 Related Nodes: N-10801
 Tags: relevance:core
 Investigative Direction: The original Discord server archive Coleman used.
+Open Questions: Q-1308
 
 ---
 
@@ -893,6 +912,7 @@ Mentions: N-2
 Related Nodes: N-10801, N-10807, N-10013, N-11357
 Tags: relevance:core
 Investigative Direction: Monster Lab Discord rules channel and the operator's identity.
+Open Questions: Q-1238, Q-1308
 
 ---
 
@@ -909,6 +929,7 @@ Mentions: N-2, N-330
 Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The Discord message itself, its server and its author.
+Open Questions: Q-1308
 
 ---
 
@@ -925,6 +946,7 @@ Mentions: N-2
 Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The message timestamp and AmericaFest 2025 dates.
+Open Questions: Q-1308
 
 ---
 
@@ -941,6 +963,7 @@ Mentions: N-2
 Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The Discord replies and the moderator accounts that posted them.
+Open Questions: Q-1308
 
 ---
 
@@ -957,6 +980,7 @@ Mentions: N-2
 Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The Discord thread and server rules.
+Open Questions: Q-1308
 
 ---
 
@@ -973,6 +997,7 @@ Mentions: N-2
 Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The Discord messages showing the emoji reactions and "EK" instruction.
+Open Questions: Q-1308
 
 ---
 
@@ -989,6 +1014,7 @@ Mentions: N-2
 Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: Discord moderation logs and ban records for the campaign.
+Open Questions: Q-1308
 
 ---
 
@@ -1006,6 +1032,7 @@ Related Nodes: N-10844, N-10582
 Supports: C-9546
 Tags: relevance:core
 Investigative Direction: FOIA responses for the White House Military Office / Department of War email.
+Open Questions: Q-1309
 
 ---
 
@@ -1022,6 +1049,7 @@ Mentions: N-352, N-2
 Related Nodes: N-10582
 Tags: relevance:core
 Investigative Direction: Full footage of Erika Kirk leaving the WHCD and who filmed the clip.
+Open Questions: Q-1310
 
 ---
 
@@ -1039,6 +1067,7 @@ Related Nodes: N-10803, N-10801
 Supports: C-13981
 Tags: relevance:core
 Investigative Direction: Enclave and Key's client agreements with Monster Lab and The Atlantic's reporting.
+Open Questions: Q-1238, Q-1311
 
 ---
 
@@ -1055,6 +1084,7 @@ Mentions: N-2
 Related Nodes: N-10013, N-10801, N-10582
 Tags: relevance:core
 Investigative Direction: The Discord message, its date and the "anti-left" campaign listing.
+Open Questions: Q-1312
 
 ---
 
@@ -1071,6 +1101,7 @@ Mentions:
 Related Nodes: N-10801
 Tags: relevance:core
 Investigative Direction: Monster Lab campaign listings archived for spring 2026.
+Open Questions: Q-1312
 
 ---
 
@@ -1088,6 +1119,7 @@ Related Nodes: N-10844
 Supports: C-9267
 Tags: relevance:core
 Investigative Direction: The intercepted email's distribution list and any matching Monster Lab payout records.
+Open Questions: Q-1309, Q-1312
 
 ---
 
@@ -1105,6 +1137,7 @@ Related Nodes: N-10803, N-10812, N-10844
 Supports: C-13915
 Tags: relevance:core
 Investigative Direction: Monster Lab campaign funding records and Enclave and Key payments.
+Open Questions: Q-637, Q-1311
 
 ---
 
@@ -1218,6 +1251,7 @@ Related Nodes: N-10755
 Supports: C-14261
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's phone records and accounts of White House contacts in summer 2025.
+Open Questions: Q-1313
 
 ---
 
@@ -1234,6 +1268,7 @@ Mentions: N-955, N-961
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: UVU staff directory and Utah House member biography.
+Open Questions: Q-1267
 
 ---
 
@@ -1250,6 +1285,7 @@ Mentions: N-955, N-1
 Related Nodes: N-11134, N-11358
 Tags: relevance:core
 Investigative Direction: Val Peterson's Utah legislature biography and UVU profile.
+Open Questions: Q-1314
 
 ---
 
@@ -1282,6 +1318,7 @@ Mentions: N-955
 Related Nodes: N-11134, N-11358
 Tags: relevance:core
 Investigative Direction: Timpanogos Regional Hospital governing board records.
+Open Questions: Q-1314
 
 ---
 
@@ -1298,6 +1335,7 @@ Mentions:
 Related Nodes: N-11134, N-11358
 Tags: relevance:core
 Investigative Direction: HCA Healthcare / MountainStar disclosures of Timpanogos board members.
+Open Questions: Q-1315
 
 ---
 
@@ -1314,6 +1352,7 @@ Mentions: N-3
 Related Nodes: N-11134, N-11358
 Tags: relevance:core
 Investigative Direction: Tips received at moretips@candaceowens.com.
+Open Questions: Q-1315
 
 ---
 
@@ -1331,6 +1370,7 @@ Related Nodes: N-11338
 Supports: C-14330
 Tags: relevance:core
 Investigative Direction: Cox's September 10, 2025 calendar and golf course records.
+Open Questions: Q-1269
 
 ---
 
@@ -1347,6 +1387,7 @@ Mentions: N-41
 Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: The show's inquiry and any reply from the governor's office.
+Open Questions: Q-1269
 
 ---
 
@@ -1526,6 +1567,7 @@ Related Nodes: N-10488, N-11213
 Supports: C-14266
 Tags: relevance:core
 Investigative Direction: School invitations and TPUSA booking records for Erika Kirk school appearances.
+Open Questions: Q-1316
 
 ---
 
@@ -1542,6 +1584,7 @@ Mentions: N-2
 Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The parent emails and the school's event announcement.
+Open Questions: Q-1317
 
 ---
 
@@ -1558,6 +1601,7 @@ Mentions: N-2
 Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The school's event calendar.
+Open Questions: Q-1317
 
 ---
 
@@ -1574,6 +1618,7 @@ Mentions: N-2
 Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The school's flyer and chapel schedule.
+Open Questions: Q-1316, Q-1317
 
 ---
 
@@ -1590,6 +1635,7 @@ Mentions: N-2
 Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The unredacted flyer.
+Open Questions: Q-1317
 
 ---
 
@@ -1606,6 +1652,7 @@ Mentions: N-2
 Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The school's parent communication on the assembly.
+Open Questions: Q-1317
 
 ---
 
@@ -1639,6 +1686,7 @@ Related Nodes: N-10000, N-10750
 Supports: C-14358
 Tags: relevance:core
 Investigative Direction: TPUSA's reward announcements after the vandalism and after the assassination.
+Open Questions: Q-1300
 
 ---
 
@@ -1655,6 +1703,7 @@ Mentions: N-40
 Related Nodes: N-10812
 Tags: relevance:core
 Investigative Direction: The date of Erika Kirk's memorial forgiveness remarks against the September 15 clip seed.
+Open Questions: Q-637, Q-1302
 
 ---
 

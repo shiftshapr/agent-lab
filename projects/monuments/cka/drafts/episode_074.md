@@ -1504,6 +1504,7 @@ Mentions: N-3, N-330, N-2, N-564
 Related Nodes: N-10472
 Tags: relevance:core
 Investigative Direction: Pull Baron Coleman's episode and its view counts and compare his account with Nicey's video and Jillian's own posts.
+Open Questions: Q-612
 
 ---
 
@@ -1519,6 +1520,7 @@ Anchored Artifacts:
 Mentions: N-3, N-330, N-564
 Tags: relevance:core
 Investigative Direction: Obtain a signed account or call record from Jillian confirming the host's contact and what she said.
+Open Questions: Q-612
 
 ---
 
@@ -1580,6 +1582,7 @@ Mentions: N-563, N-564, N-565, N-2
 Supports: C-6600
 Tags: relevance:core
 Investigative Direction: Retrieve Jillian's original tweets with their timestamps and the sushi venue to confirm the sequence.
+Open Questions: Q-612
 
 ---
 
@@ -1596,6 +1599,7 @@ Mentions: N-563, N-564, N-2
 Qualifies: C-6604
 Tags: relevance:core
 Investigative Direction: Ask Jillian which account of the first meeting is correct and obtain Michigan rental records for the home Erika leased.
+Open Questions: Q-612
 
 ---
 
@@ -1612,6 +1616,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10392
 Tags: relevance:core
 Investigative Direction: Identify the named charities and dates in Erika's official biography and verify her role in each.
+Open Questions: Q-613
 
 ---
 
@@ -1643,6 +1648,7 @@ Mentions: N-563, N-564, N-2
 Supports: C-6608
 Tags: relevance:core
 Investigative Direction: Obtain the original tweet image and check whether the caption is a stock meme image and who sent it.
+Open Questions: Q-612
 
 ---
 
@@ -1658,6 +1664,7 @@ Anchored Artifacts: A-1781.7
 Mentions: N-563, N-564, N-2
 Tags: relevance:core
 Investigative Direction: Pull the April 3, 2014 tweets and the screenshot of the exchange to confirm context and who is in the picture.
+Open Questions: Q-612
 
 ---
 
@@ -1673,6 +1680,7 @@ Anchored Artifacts: A-1784.1, A-1784.2, A-1784.3
 Mentions: N-563, N-564, N-2
 Tags: relevance:core
 Investigative Direction: Retrieve the Instagram post and comment thread (or archive) from Jillian's account and confirm dates and authorship.
+Open Questions: Q-612
 
 ---
 
@@ -1689,6 +1697,7 @@ Mentions: N-3, N-2, N-564
 Supports: C-6611
 Tags: relevance:core
 Investigative Direction: Ask Jillian what the April 3 photo showed and what exactly Erika's text said and when.
+Open Questions: Q-612
 
 ---
 
@@ -1734,6 +1743,7 @@ Anchored Artifacts:
 Mentions: N-3, N-564, N-2
 Tags: relevance:core
 Investigative Direction: Obtain Jillian's own first-person account, ideally recorded, of how she felt about the attention.
+Open Questions: Q-612
 
 ---
 
@@ -1764,6 +1774,7 @@ Anchored Artifacts:
 Mentions: N-3, N-564, N-2
 Tags: relevance:core
 Investigative Direction: Confirm Jillian's birth year against the 15-years-old-in-2013 claim and obtain her statement in her own words.
+Open Questions: Q-612
 
 ---
 
@@ -1779,6 +1790,7 @@ Anchored Artifacts:
 Mentions: N-3, N-564, N-2
 Tags: relevance:core
 Investigative Direction: Identify Cheyenne and ask whether she had any contact with Erika after the first meeting.
+Open Questions: Q-612
 
 ---
 
@@ -1794,6 +1806,7 @@ Anchored Artifacts:
 Mentions: N-3, N-564, N-2
 Tags: relevance:core
 Investigative Direction: Ask Jillian for any evidence of in-person contact after September 2013 and compare against Erika's Michigan residence dates.
+Open Questions: Q-612
 
 ---
 
@@ -1811,6 +1824,7 @@ Related Nodes: N-10472
 Supports: C-6624
 Tags: relevance:core
 Investigative Direction: Ask Jillian for the messages in which Erika proposed the shoot and any photos or contacts from it.
+Open Questions: Q-612
 
 ---
 
@@ -1827,6 +1841,7 @@ Mentions: N-3, N-564, N-2, N-567
 Related Nodes: N-10472
 Tags: relevance:core
 Investigative Direction: Identify the photographer from Erika's Michigan or Arizona acquaintances and obtain the session date and any images.
+Open Questions: Q-612
 
 ---
 
@@ -1842,6 +1857,7 @@ Anchored Artifacts:
 Mentions: N-3, N-564, N-2
 Tags: relevance:core
 Investigative Direction: Ask Jillian's mother whether she knew of Erika or the photo session.
+Open Questions: Q-612
 
 ---
 
@@ -1858,6 +1874,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10755
 Tags: relevance:core
 Investigative Direction: Wait for the series and list each named charity and scandal with a primary source for the link.
+Open Questions: Q-613
 
 ---
 
@@ -1875,6 +1892,7 @@ Related Nodes: N-11166, N-10000
 Supports: C-4603
 Tags: relevance:core
 Investigative Direction: Map the TPUSA Phoenix address against Arizona Mills and find law-enforcement data supporting the trafficking characterization.
+Open Questions: Q-614
 
 ---
 
@@ -1891,6 +1909,7 @@ Mentions: N-3, N-11
 Related Nodes: N-11166, N-10000
 Tags: relevance:core
 Investigative Direction: Find the lease or purchase records and broker for the TPUSA headquarters and who signed.
+Open Questions: Q-614
 
 ---
 
@@ -1907,6 +1926,7 @@ Mentions: N-3, N-544, N-2
 Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Locate Tracy Martin's role in Dream City Church or Phoenix Dream Center in program records or filings.
+Open Questions: Q-572, Q-613
 
 ---
 
@@ -1939,6 +1959,7 @@ Mentions: N-3, N-186, N-854, N-9
 Related Nodes: N-11168
 Tags: relevance:core
 Investigative Direction: Obtain the resume, request Pepperdine employment confirmation, and check Starr's office staff lists for the period.
+Open Questions: Q-615
 
 ---
 
@@ -1955,6 +1976,7 @@ Mentions: N-3, N-186, N-854, N-9
 Related Nodes: N-11168
 Tags: relevance:core
 Investigative Direction: Document Starr's work for Epstein with dates and overlay it on Sheridan's claimed employment years.
+Open Questions: Q-615, Q-616
 
 ---
 
@@ -1970,6 +1992,7 @@ Anchored Artifacts:
 Mentions: N-3, N-186, N-489, N-2
 Tags: relevance:core
 Investigative Direction: Check birth, family or probate records and Erika's own statements on her mother and Sheridan's relationship to her.
+Open Questions: Q-617
 
 ---
 
@@ -1986,6 +2009,7 @@ Mentions: N-3, N-489
 Related Nodes: N-10409
 Tags: relevance:core
 Investigative Direction: Pull Desert Spirit Tech's corporate filing and identify the reservation and registered address.
+Open Questions: Q-618
 
 ---
 
@@ -2018,6 +2042,7 @@ Mentions: N-3
 Related Nodes: N-10409
 Tags: relevance:core
 Investigative Direction: Verify the filed address against county or tribal parcel records and physically check the location.
+Open Questions: Q-618
 
 ---
 
@@ -2034,6 +2059,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10342, N-10353
 Tags: relevance:core
 Investigative Direction: Identify the witness who reported a Fort Huachuca sighting and compare Erika's stated Sept 8 location with any records.
+Open Questions: Q-561
 
 ---
 
@@ -2065,6 +2091,7 @@ Mentions: N-3
 Supports: C-6646
 Tags: relevance:core
 Investigative Direction: Record the volume and content of tips received at the address after this appeal.
+Open Questions: Q-130
 
 ---
 
@@ -2080,6 +2107,7 @@ Anchored Artifacts: A-3058.1
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Log tips received and which of the listed questions they answer.
+Open Questions: Q-130
 
 ---
 
@@ -2177,6 +2205,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10513
 Tags: relevance:core
 Investigative Direction: Identify the employees who were told this and the source; compare with phone, vehicle and airport records for Sept 10.
+Open Questions: Q-562
 
 ---
 
@@ -2193,6 +2222,7 @@ Mentions: N-3, N-2, N-186, N-1
 Related Nodes: N-10513, N-10473
 Tags: relevance:core
 Investigative Direction: Canvass neighbors and the Scottsdale terminal for sightings and request airport and flight records.
+Open Questions: Q-562
 
 ---
 
@@ -2210,6 +2240,7 @@ Related Nodes: N-10293
 Supports: C-3547
 Tags: relevance:core
 Investigative Direction: Compare participant lists and unit affiliations of the maroon-shirt men with any military or federal rosters.
+Open Questions: Q-351, Q-619
 
 ---
 
@@ -2226,6 +2257,7 @@ Mentions: N-3
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Identify the maroon-shirted men and establish whether any shared an organization or instruction.
+Open Questions: Q-351
 
 ---
 
@@ -2259,6 +2291,7 @@ Related Nodes: N-10471
 Supports: C-6656
 Tags: relevance:core
 Investigative Direction: Pull the cited DOJ file, read the sit rep header, and identify the operation and issuing office.
+Open Questions: Q-620
 
 ---
 
@@ -2276,6 +2309,7 @@ Related Nodes: N-10293
 Supports: C-3547
 Tags: relevance:core
 Investigative Direction: Catalog attire across event footage to test the white-hat and sock-height patterns.
+Open Questions: Q-351
 
 ---
 
@@ -2293,6 +2327,7 @@ Related Nodes: N-10471
 Qualifies: C-6656
 Tags: relevance:core
 Investigative Direction: Request the redacted file under FOIA with a segregability review to identify the operation.
+Open Questions: Q-620
 
 ---
 
@@ -2309,6 +2344,7 @@ Mentions: N-3
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Check footage to see whether the maroon-shirt men attended alone and any shared transport or contact.
+Open Questions: Q-351
 
 ---
 
@@ -2325,6 +2361,7 @@ Mentions: N-3, N-1, N-2, N-237
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Compare dated screenshots of Charlie's last show with the December Beck broadcast background.
+Open Questions: Q-621
 
 ---
 
@@ -2341,6 +2378,7 @@ Mentions: N-3, N-2, N-237, N-1
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Pull the Beck interview video and transcribe Erika's exact wording and the camera shot of the desk.
+Open Questions: Q-622
 
 ---
 
@@ -2373,6 +2411,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10467, N-10469
 Tags: relevance:core
 Investigative Direction: Find the original statements from TPUSA or Erika about the toddler and the night of September 9 and the Fort Huachuca denial.
+Open Questions: Q-623
 
 ---
 
@@ -2389,6 +2428,7 @@ Mentions: N-3, N-1, N-190
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Establish by dated images exactly when the photo left the frame and who had studio access.
+Open Questions: Q-621
 
 ---
 
@@ -2406,6 +2446,7 @@ Related Nodes: N-10467
 Supports: C-2262
 Tags: relevance:core
 Investigative Direction: Collect TPUSA announcements on McCoy's role and media schedule for September 2025.
+Open Questions: Q-624
 
 ---
 
@@ -2422,6 +2463,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10934
 Tags: relevance:core
 Investigative Direction: Obtain a recording, transcript or attendee account of the September 22 call.
+Open Questions: Q-625
 
 ---
 
@@ -2438,6 +2480,7 @@ Mentions: N-3, N-190
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Ask McCoy or studio staff who moved the photo and when; compare dated studio shots.
+Open Questions: Q-621
 
 ---
 
@@ -2454,6 +2497,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Identify any witness, message or record from the evening of September 9 that supports or refutes an argument.
+Open Questions: Q-623
 
 ---
 
@@ -2807,6 +2851,7 @@ Anchored Artifacts: A-3060.1
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Tally tips received after this reminder against the open questions.
+Open Questions: Q-130
 
 ---
 
@@ -2885,6 +2930,7 @@ Mentions: N-3, N-259
 Related Nodes: N-11169, N-10133
 Tags: relevance:core
 Investigative Direction: Find Crowder's first publication of the bullet inscription details and his source.
+Open Questions: Q-626
 
 ---
 
@@ -2901,6 +2947,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Ask the defense team whether it has received or declined contact from the host.
+Open Questions: Q-627
 
 ---
 

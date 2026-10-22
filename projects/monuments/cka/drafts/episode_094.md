@@ -1462,6 +1462,7 @@ Mentions: N-3
 Related Nodes: N-10336
 Tags: relevance:core
 Investigative Direction: Obtain the incident log, K-9 deployment records and bodycam for the rifle discovery to establish who located it, when, and whether the area had been searched by dogs first.
+Open Questions: Q-20
 
 ---
 
@@ -1478,6 +1479,7 @@ Mentions: N-40, N-6
 Related Nodes: N-10578
 Tags: relevance:core
 Investigative Direction: Ask Lane to confirm the conversation took place and its date; identify the hearing break from the court schedule.
+Open Questions: Q-824
 
 ---
 
@@ -1511,6 +1513,7 @@ Related Nodes: N-10022
 Supports: C-130
 Tags: relevance:core
 Investigative Direction: Identify the lawyers who made the claim and the original source (sheriff statement, court filing or press report) for the turn-in account.
+Open Questions: Q-34
 
 ---
 
@@ -1527,6 +1530,7 @@ Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Compare the rifle photos released publicly before the surrender with the rifle in evidence and establish which image the family was shown.
+Open Questions: Q-34
 
 ---
 
@@ -1543,6 +1547,7 @@ Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Locate the journalists' interviews with the grandmother and any on-record statement by the father.
+Open Questions: Q-824
 
 ---
 
@@ -1559,6 +1564,7 @@ Mentions: N-272, N-40
 Related Nodes: N-10137, N-10021
 Tags: relevance:core
 Investigative Direction: Check Brooksby's press statements and recorded remarks for the wording the host paraphrases as coercion.
+Open Questions: Q-34
 
 ---
 
@@ -1575,6 +1581,7 @@ Mentions: N-40
 Related Nodes: N-10021, N-10022, N-11360
 Tags: relevance:core
 Investigative Direction: Obtain the sheriff's office account of the calls with the family and any warrant or planning records for an arrest team.
+Open Questions: Q-34
 
 ---
 
@@ -1591,6 +1598,7 @@ Mentions: N-40
 Related Nodes: N-10578
 Tags: relevance:core
 Investigative Direction: Check the ATF trace and any transfer or inheritance records for the rifle.
+Open Questions: Q-34, Q-801
 
 ---
 
@@ -1624,6 +1632,7 @@ Related Nodes: N-10578
 Supports: C-8374
 Tags: relevance:core
 Investigative Direction: Obtain a clean copy of the recording and a direct statement from the grandfather rather than relying on a garbled hallway audio.
+Open Questions: Q-824
 
 ---
 
@@ -1641,6 +1650,7 @@ Related Nodes: N-10300
 Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and death certificate wound description and compare it with documented .30-06 terminal ballistics.
+Open Questions: Q-825
 
 ---
 
@@ -1657,6 +1667,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10602, N-10300
 Tags: relevance:core
 Investigative Direction: The host declines to name the callers; ask for call logs or sworn recollections from the recipients and compare with the medical record.
+Open Questions: Q-825
 
 ---
 
@@ -1674,6 +1685,7 @@ Related Nodes: N-10602, N-10300
 Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Compare hospital and medical examiner descriptions of the neck and surrounding tissue.
+Open Questions: Q-825
 
 ---
 
@@ -1690,6 +1702,7 @@ Mentions: N-40
 Related Nodes: N-11065, N-10106
 Tags: relevance:core
 Investigative Direction: Read the continuance motion, the hearing transcript and the resulting order on the hearing date.
+Open Questions: Q-826
 
 ---
 
@@ -1706,6 +1719,7 @@ Mentions: N-2, N-278, N-40
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Pull the CBS interview with Bari Weiss and locate the exact exchange.
+Open Questions: Q-827
 
 ---
 
@@ -1722,6 +1736,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare with the host's earlier account of the sit-down with Erika; ask the lawyer or Erika's team whether they dispute the characterization.
+Open Questions: Q-827
 
 ---
 
@@ -1738,6 +1753,7 @@ Mentions: N-2, N-40
 Related Nodes: N-10106, N-10521
 Tags: relevance:core
 Investigative Direction: Establish the date and participants of the December 15 meeting and compare the described sequence with the actual discovery schedule.
+Open Questions: Q-827
 
 ---
 
@@ -1754,6 +1770,7 @@ Mentions: N-69, N-40
 Related Nodes: N-10014, N-10194, N-10521
 Tags: relevance:core
 Investigative Direction: Read the defense filings and any prosecution response to the discovery demands, and check which items are summary reports versus underlying data.
+Open Questions: Q-792
 
 ---
 
@@ -1770,6 +1787,7 @@ Mentions: N-425
 Related Nodes: N-10896, N-10014, N-10521
 Tags: relevance:core
 Investigative Direction: Check the docket for the dates of the ATF and FBI productions. The caption is garbled here, so confirm the sentence against the hearing audio.
+Open Questions: Q-792
 
 ---
 
@@ -1786,6 +1804,7 @@ Mentions: N-425
 Related Nodes: N-10896, N-10014, N-10106
 Tags: relevance:core
 Investigative Direction: Identify Mr. McBride's role and the two examinations (ATF and FBI laboratory work) from the hearing record and the lab reports.
+Open Questions: Q-75
 
 ---
 
@@ -1802,6 +1821,7 @@ Mentions: N-425
 Related Nodes: N-10521, N-10106
 Tags: relevance:core
 Investigative Direction: Compare the date of the DNA reports with the date they were first produced to the defense on the docket.
+Open Questions: Q-792
 
 ---
 
@@ -1818,6 +1838,7 @@ Mentions: N-40
 Related Nodes: N-10106, N-10521
 Tags: relevance:core
 Investigative Direction: Build a timeline of official statements from the shooting to the arrest and compare each with the evidence later produced.
+Open Questions: Q-792
 
 ---
 
@@ -1834,6 +1855,7 @@ Mentions: N-40
 Related Nodes: N-10013, N-10074
 Tags: relevance:core
 Investigative Direction: Collect the successive official descriptions (press conference, charging documents, search warrant) of the message platform and compare them.
+Open Questions: Q-791
 
 ---
 
@@ -1850,6 +1872,7 @@ Mentions: N-826, N-40
 Related Nodes: N-10569, N-11065
 Tags: relevance:core
 Investigative Direction: Check the state's witness list for the probable cause hearing once filed.
+Open Questions: Q-794
 
 ---
 
@@ -1866,6 +1889,7 @@ Mentions: N-69
 Related Nodes: N-10014, N-10194
 Tags: relevance:core
 Investigative Direction: Compare agency statements, press conferences and interview records on who conducted the witness and suspect interviews.
+Open Questions: Q-828
 
 ---
 
@@ -1882,6 +1906,7 @@ Mentions: N-69
 Related Nodes: N-11265, N-10014, N-10521
 Tags: relevance:core
 Investigative Direction: Confirm the SBI's role and its requests to the FBI from the discovery correspondence and hearing record.
+Open Questions: Q-792, Q-828
 
 ---
 
@@ -1898,6 +1923,7 @@ Mentions: N-826
 Related Nodes: N-11265, N-10106
 Tags: relevance:core
 Investigative Direction: Check the docket or any inspection log for the date and scope of the defense's physical evidence review.
+Open Questions: Q-792
 
 ---
 
@@ -1914,6 +1940,7 @@ Mentions: N-2
 Related Nodes: N-10572, N-11065
 Tags: relevance:core
 Investigative Direction: Read the prosecution's opposition to the continuance and identify whether the victim's counsel filed separately.
+Open Questions: Q-826
 
 ---
 
@@ -1946,6 +1973,7 @@ Mentions: N-40
 Related Nodes: N-10572, N-10521
 Tags: relevance:core
 Investigative Direction: Find the scheduling order or hearing transcript where the parties agreed to flexibility on the date.
+Open Questions: Q-826
 
 ---
 
@@ -1963,6 +1991,7 @@ Related Nodes: N-10572
 Supports: C-8405
 Tags: relevance:core
 Investigative Direction: Retrieve the January 16 filing and find precedent for victim-initiated speedy trial invocations under Utah's victim rights provisions.
+Open Questions: Q-826
 
 ---
 
@@ -1979,6 +2008,7 @@ Mentions: N-2
 Related Nodes: N-11065, N-10572
 Tags: relevance:core
 Investigative Direction: Read any motions on courtroom cameras and media access and note which party requested them.
+Open Questions: Q-826
 
 ---
 
@@ -1995,6 +2025,7 @@ Mentions: N-2
 Related Nodes: N-11065, N-10521
 Tags: relevance:core
 Investigative Direction: The host's sources are unnamed; compare the claim with the actual evidence produced to the defense by the hearing date.
+Open Questions: Q-792, Q-826
 
 ---
 
@@ -2042,6 +2073,7 @@ Mentions: N-2, N-5
 Related Nodes: N-11266, N-10452
 Tags: relevance:core
 Investigative Direction: Pull the event listing, the livestream and press coverage of the Dream City Church appearance and the Secret Service posture for it.
+Open Questions: Q-805, Q-807
 
 ---
 
@@ -2059,6 +2091,7 @@ Related Nodes: N-10554, N-10563
 Supports: C-8289
 Tags: relevance:core
 Investigative Direction: Compare the Secret Service and campus police statements with Erika's team's account and the flight records for her plane.
+Open Questions: Q-804, Q-805
 
 ---
 
@@ -2075,6 +2108,7 @@ Mentions: N-2
 Related Nodes: N-10555, N-10554
 Tags: relevance:core
 Investigative Direction: Compare ticketing and RSVP numbers for the event with TPUSA's stated reason for canceling.
+Open Questions: Q-806
 
 ---
 
@@ -2107,6 +2141,7 @@ Mentions: N-2
 Related Nodes: N-11266, N-10555
 Tags: relevance:core
 Investigative Direction: Identify the full source video, confirm the speaker is Erika Kirk and place the line in sequence with the rest of her remarks.
+Open Questions: Q-806
 
 ---
 
@@ -2123,6 +2158,7 @@ Mentions: N-2, N-4
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Check the planned Georgia event with Vance, and any public statement by Vance's office on the cancellation.
+Open Questions: Q-804
 
 ---
 
@@ -2139,6 +2175,7 @@ Mentions: N-2
 Related Nodes: N-10573, N-10557
 Tags: relevance:core
 Investigative Direction: Establish the email timestamp and the date of the Trump event and compare the two.
+Open Questions: Q-807
 
 ---
 
@@ -2156,6 +2193,7 @@ Related Nodes: N-10557, N-10573
 Supports: C-8234
 Tags: relevance:core
 Investigative Direction: Read the three cited articles in full and check whether any attributes the cancellation to a boycott as opposed to parent and student objections.
+Open Questions: Q-807
 
 ---
 
@@ -2173,6 +2211,7 @@ Related Nodes: N-10557
 Supports: C-8234
 Tags: relevance:core
 Investigative Direction: Review the host's prior episode and the Facebook group posts shown, and search for any host call for a boycott.
+Open Questions: Q-807
 
 ---
 
@@ -2203,6 +2242,7 @@ Anchored Artifacts:
 Mentions: N-2, N-3
 Tags: relevance:core
 Investigative Direction: The passage is the host's sarcastic hypothetical; look for the messages or witnesses she has elsewhere cited for the early attacks and the Catholic event.
+Open Questions: Q-817
 
 ---
 
@@ -2235,6 +2275,7 @@ Related Nodes: N-10465
 Supports: C-6871
 Tags: relevance:core
 Investigative Direction: Request the registrar's confirmation of Erika's degree and honors and compare the versions in her bios and interviews.
+Open Questions: Q-829
 
 ---
 
@@ -2831,6 +2872,7 @@ Anchored Artifacts: A-2005.1
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Ask the host which people and pieces she means and what documents or messages from that week support it.
+Open Questions: Q-463
 
 ---
 
@@ -2847,6 +2889,7 @@ Mentions: N-40
 Related Nodes: N-11065, N-10106
 Tags: relevance:core
 Investigative Direction: Review what was presented at each public hearing and compare it with the charging document.
+Open Questions: Q-75
 
 ---
 
@@ -2863,6 +2906,7 @@ Mentions: N-40
 Related Nodes: N-10579, N-10161
 Tags: relevance:core
 Investigative Direction: Request all UVU campus video and compare the maroon-shirt individuals frame by frame; the host calls this her own theory.
+Open Questions: Q-21
 
 ---
 
@@ -2879,6 +2923,7 @@ Mentions: N-3
 Related Nodes: N-10581, N-10255
 Tags: relevance:core
 Investigative Direction: File records requests for UVU and city camera retention policies and any investigative request for pre-September 10 footage.
+Open Questions: Q-830
 
 ---
 
@@ -2896,6 +2941,7 @@ Related Nodes: N-10226, N-11134
 Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Obtain hospital records of any federal seizure of camera footage and a chain-of-custody log.
+Open Questions: Q-757, Q-830
 
 ---
 
@@ -2912,6 +2958,7 @@ Mentions: N-1
 Related Nodes: N-10188, N-11134
 Tags: relevance:core
 Investigative Direction: Compare ambulance and dispatch records with hospital arrival logs for both hospitals.
+Open Questions: Q-757
 
 ---
 
@@ -2944,6 +2991,7 @@ Related Nodes: N-10551
 Supports: C-8316, C-8324
 Tags: relevance:core
 Investigative Direction: Pull the primary evidence on the timing of Marx's first announcement and his federal firearms license from ATF records.
+Open Questions: Q-800, Q-811
 
 ---
 
@@ -2961,6 +3009,7 @@ Related Nodes: N-10580, N-10161
 Supports: C-8485
 Tags: relevance:core
 Investigative Direction: Compare the roommate's whereabouts that day against the campus video and any statements he made to investigators.
+Open Questions: Q-21, Q-822
 
 ---
 
@@ -2977,6 +3026,7 @@ Mentions: N-54
 Related Nodes: N-10033
 Tags: relevance:core
 Investigative Direction: Identify the family members and the earlier episodes where the host described these conversations.
+Open Questions: Q-793
 
 ---
 
@@ -2994,6 +3044,7 @@ Related Nodes: N-10033, N-10545
 Supports: C-352
 Tags: relevance:core
 Investigative Direction: Find the interview records of Lance Twiggs and the dates he was questioned, released or not detained.
+Open Questions: Q-45
 
 ---
 
@@ -3011,6 +3062,7 @@ Related Nodes: N-10074, N-10649
 Supports: C-3998
 Tags: relevance:core
 Investigative Direction: Check the charging documents and exhibits for message timestamps and the metadata from the phone extractions.
+Open Questions: Q-791
 
 ---
 
@@ -3027,6 +3079,7 @@ Mentions: N-3
 Related Nodes: N-10074, N-10649
 Tags: relevance:core
 Investigative Direction: Watch the next episode for the producer's comparison of the original and the later versions, and collect each version of the messages as released.
+Open Questions: Q-831
 
 ---
 
@@ -3043,6 +3096,7 @@ Mentions: N-3
 Related Nodes: N-10074, N-10649
 Tags: relevance:core
 Investigative Direction: Collect each released version of the messages and diff them, noting dates of release.
+Open Questions: Q-831
 
 ---
 

@@ -1145,6 +1145,7 @@ Related Nodes: N-10224
 Supports: C-2641
 Tags: relevance:core
 Investigative Direction: Review Shapiro's posts, shows and statements from the days after the tour stop for any correction or retraction.
+Open Questions: Q-292
 
 ---
 
@@ -1162,6 +1163,7 @@ Related Nodes: N-10224
 Supports: C-2641
 Tags: relevance:core
 Investigative Direction: Obtain the full tour recording of the Shapiro stop to confirm the exchange and wording.
+Open Questions: Q-292
 
 ---
 
@@ -1179,6 +1181,7 @@ Related Nodes: N-10224
 Supports: C-2641
 Tags: relevance:core
 Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's wording.
+Open Questions: Q-292
 
 ---
 
@@ -1196,6 +1199,7 @@ Related Nodes: N-10224
 Supports: C-2644
 Tags: relevance:core
 Investigative Direction: Review Owens's public statements about Erika Kirk up to the date of the Kelly Q&A to test Kelly's characterization.
+Open Questions: Q-292
 
 ---
 
@@ -1259,6 +1263,7 @@ Related Nodes: N-10044
 Supports: C-254
 Tags: relevance:core
 Investigative Direction: Collect Kirk's own statements, texts and donor communications from July to September 2025 describing the pressure.
+Open Questions: Q-2, Q-6
 
 ---
 
@@ -1276,6 +1281,7 @@ Related Nodes: N-10998, N-10044
 Supports: C-2651
 Tags: relevance:core
 Investigative Direction: Obtain Tucker's full unedited remarks and any witness or recording from backstage at the July Student Action Summit.
+Open Questions: Q-296
 
 ---
 
@@ -1308,6 +1314,7 @@ Mentions: N-3, N-22, N-1
 Related Nodes: N-10000, N-10998
 Tags: relevance:core
 Investigative Direction: Request TPUSA's July 2025 Student Action Summit audio and video archive and ask whether it holds the backstage exchange.
+Open Questions: Q-296
 
 ---
 
@@ -1324,6 +1331,7 @@ Mentions: N-46, N-22, N-1
 Supports: C-2655
 Tags: relevance:core
 Investigative Direction: Preserve the original video with metadata and compare it with Carlson's account of the exchange.
+Open Questions: Q-296
 
 ---
 
@@ -1340,6 +1348,7 @@ Mentions: N-3, N-1, N-22
 Related Nodes: N-11151, N-10044, N-10998
 Tags: relevance:core
 Investigative Direction: Identify the donor and any witnesses from the host's source; the host has not named her.
+Open Questions: Q-6, Q-296
 
 ---
 
@@ -1371,6 +1380,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Collect TPUSA or ally statements asking that the organization not be scrutinized.
+Open Questions: Q-280
 
 ---
 
@@ -1387,6 +1397,7 @@ Mentions: N-190, N-17, N-3
 Related Nodes: N-10185, N-10190
 Tags: relevance:core
 Investigative Direction: Compare Rob McCoy's account with Mikey McCoy's phone call log for September 10, 2025.
+Open Questions: Q-212
 
 ---
 
@@ -1404,6 +1415,7 @@ Related Nodes: N-10324, N-10096
 Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Obtain police body-camera or CAD records showing whether any officer gave a camera or SD card instruction.
+Open Questions: Q-63
 
 ---
 
@@ -1421,6 +1433,7 @@ Related Nodes: N-10096, N-10156
 Contradicts: C-1358
 Tags: relevance:core
 Investigative Direction: Obtain the original Kolvet statement and any report of hat or equipment theft at the event.
+Open Questions: Q-63
 
 ---
 
@@ -1437,6 +1450,7 @@ Mentions: N-97, N-1, N-99
 Related Nodes: N-10982
 Tags: relevance:core
 Investigative Direction: Review the Alex Clark episode featuring Shapiro and documented Shapiro-Kirk disagreements.
+Open Questions: Q-248
 
 ---
 
@@ -1454,6 +1468,7 @@ Related Nodes: N-10127, N-10404, N-11087
 Supports: C-1387
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA audited financial statements and Form 990s for 2012 to 2024 and any internal DOGE memos.
+Open Questions: Q-249, Q-250
 
 ---
 
@@ -1470,6 +1485,7 @@ Mentions: N-190
 Related Nodes: N-10185, N-10190
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call log and the 911 call records for September 10, 2025.
+Open Questions: Q-212
 
 ---
 
@@ -1503,6 +1519,7 @@ Related Nodes: N-10229
 Supports: C-2668
 Tags: relevance:core
 Investigative Direction: Compare lead times of past TPUSA campus events using ticketing and promotion dates.
+Open Questions: Q-268
 
 ---
 
@@ -1520,6 +1537,7 @@ Related Nodes: N-10229, N-10000
 Supports: C-2668
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA travel and expense records and UVU campus-visit logs for early August 2025.
+Open Questions: Q-268
 
 ---
 
@@ -1539,6 +1557,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain UVU event-services emails and site-visit notes listing the venues offered.
+Open Questions: Q-270
 
 ---
 
@@ -1555,6 +1574,7 @@ Mentions: N-3
 Related Nodes: N-10229, N-10000
 Tags: relevance:core
 Investigative Direction: Receive tips and identify the TPUSA events staff who scouted UVU in August 2025.
+Open Questions: Q-270
 
 ---
 
@@ -1571,6 +1591,7 @@ Mentions: N-190, N-3
 Related Nodes: N-11149, N-10000, N-10229
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff listings and obtain the events department org chart for 2025.
+Open Questions: Q-242
 
 ---
 
@@ -1587,6 +1608,7 @@ Mentions: N-17, N-190, N-3
 Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Interview Thousand Oaks church members and check school and church records for Rob McCoy's children.
+Open Questions: Q-297
 
 ---
 
@@ -1605,6 +1627,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-4099
 Investigative Direction: Check birth, school and licensing records for the legal name of Rob McCoy's son.
+Open Questions: Q-297
 
 ---
 
@@ -1621,6 +1644,7 @@ Mentions: N-190, N-3
 Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Receive tips on Mikey McCoy's legal name.
+Open Questions: Q-297
 
 ---
 
@@ -1637,6 +1661,7 @@ Mentions: N-20, N-848, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Verify employment status of both brothers with TPUSA and review the host's file.
+Open Questions: Q-298
 
 ---
 
@@ -1653,6 +1678,7 @@ Mentions: N-20, N-848, N-1
 Related Nodes: N-10791, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the sponsorship contracts and identify who introduced the sponsor; transcript spelling 'Rei' is possibly Yrefy.
+Open Questions: Q-298
 
 ---
 
@@ -1670,6 +1696,7 @@ Related Nodes: N-10027, N-10323
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Compare the Ericksons' public statements about the Hamptons retreat with calendars, flight and attendee records.
+Open Questions: Q-9
 
 ---
 
@@ -1688,6 +1715,7 @@ Supports: C-79
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Locate Kirk's own description of the Hamptons event as an intervention and witnesses who heard it.
+Open Questions: Q-9
 
 ---
 
@@ -1704,6 +1732,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Not independently testable beyond the host's sources; look for corroborating reporting by other outlets.
+Open Questions: Q-299
 
 ---
 
@@ -1720,6 +1749,7 @@ Mentions: N-3
 Related Nodes: N-11148, N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Have a technical expert compare leaked TPUSA emails for per-recipient wording differences.
+Open Questions: Q-299
 
 ---
 
@@ -1751,6 +1781,7 @@ Mentions: N-3
 Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Confirm ownership and electronic health record systems of both hospitals from public records; the transcribed 'VDI' needs checking.
+Open Questions: Q-140
 
 ---
 
@@ -1767,6 +1798,7 @@ Mentions: N-3
 Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Ask both hospital systems or a health-records expert whether any records exchange existed in September 2025.
+Open Questions: Q-140
 
 ---
 
@@ -1783,6 +1815,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Obtain the Utah Valley Hospital access-audit log for the file and the nurse notification.
+Open Questions: Q-225
 
 ---
 
@@ -1799,6 +1832,7 @@ Mentions: N-3
 Related Nodes: N-10230
 Tags: relevance:core
 Investigative Direction: Interview the students and review set-up footage for the bush area.
+Open Questions: Q-300
 
 ---
 
@@ -1816,6 +1850,7 @@ Related Nodes: N-10230
 Supports: C-2690
 Tags: relevance:core
 Investigative Direction: Obtain the original video file with metadata and the source's account of when and where it was filmed.
+Open Questions: Q-300, Q-301
 
 ---
 
@@ -1833,6 +1868,7 @@ Related Nodes: N-10234
 Supports: C-2695
 Tags: relevance:core
 Investigative Direction: Identify Butch Hibbs's church and role from Calvary Chapel directories.
+Open Questions: Q-302
 
 ---
 
@@ -1849,6 +1885,7 @@ Mentions: N-246, N-1, N-190
 Related Nodes: N-10740, N-10230
 Tags: relevance:core
 Investigative Direction: Review arrival footage at the UVU drop-off area to confirm who was beside and behind Kirk.
+Open Questions: Q-302, Q-303
 
 ---
 
@@ -1864,6 +1901,7 @@ Anchored Artifacts: A-1383.1
 Mentions: N-7, N-1, N-246
 Tags: relevance:core
 Investigative Direction: Obtain Turek's full interview and arrival photos with metadata to establish the sequence.
+Open Questions: Q-302, Q-303
 
 ---
 
@@ -1880,6 +1918,7 @@ Mentions: N-246, N-208
 Related Nodes: N-10405
 Tags: relevance:core
 Investigative Direction: Search military service records for any Hibbs family members.
+Open Questions: Q-302, Q-304
 
 ---
 
@@ -2106,6 +2145,7 @@ Mentions: N-20, N-848, N-3, N-1
 Related Nodes: N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Not independently testable beyond the host's file; seek corroboration from other former TPUSA staff.
+Open Questions: Q-305
 
 ---
 

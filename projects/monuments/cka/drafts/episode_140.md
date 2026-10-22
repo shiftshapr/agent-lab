@@ -1138,6 +1138,7 @@ Anchored Artifacts:
 Mentions: N-40
 Tags: relevance:core
 Investigative Direction: Obtain Robinson's school transcripts or the court filing that states his GPA.
+Open Questions: Q-1082
 
 ---
 
@@ -1156,6 +1157,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Compare the wording and timestamp of this message in the charging documents and the extracted text exhibits.
+Open Questions: Q-107, Q-1068
 
 ---
 
@@ -1188,6 +1190,7 @@ Related Nodes: N-11176, N-10715
 Supports: C-12025
 Tags: relevance:core
 Investigative Direction: Establish who first distributed the maroon-shirt photos and when, and compare with the timing of the TMZ neighbor footage.
+Open Questions: Q-1076
 
 ---
 
@@ -1205,6 +1208,7 @@ Related Nodes: N-10715, N-10717
 Supports: C-12032
 Tags: relevance:core
 Investigative Direction: Review last week's episode stills against the full stairwell footage frame by frame.
+Open Questions: Q-1076, Q-1080
 
 ---
 
@@ -1220,6 +1224,7 @@ Anchored Artifacts:
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Ask the court and the prosecutors which exhibit was shown to the influencers and request the original-resolution file.
+Open Questions: Q-1081
 
 ---
 
@@ -1236,6 +1241,7 @@ Mentions: N-40
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Measure the subject against reference objects in the garage and compare with Robinson's booking height and weight.
+Open Questions: Q-1076
 
 ---
 
@@ -1251,6 +1257,7 @@ Anchored Artifacts: A-2267.1
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Obtain the stills' source file and metadata to confirm no processing was applied.
+Open Questions: Q-1081
 
 ---
 
@@ -1268,6 +1275,7 @@ Related Nodes: N-10011, N-11177, N-10049
 Supports: C-114
 Tags: relevance:core
 Investigative Direction: Obtain the neighbor-camera clip with its metadata and the charging documents' departure time for the drive from St. George.
+Open Questions: Q-1083
 
 ---
 
@@ -1284,6 +1292,7 @@ Mentions: N-40
 Related Nodes: N-10000, N-11177
 Tags: relevance:core
 Investigative Direction: Identify the employee in the witness list and obtain her statement to investigators.
+Open Questions: Q-1083
 
 ---
 
@@ -1302,6 +1311,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3, S-7
 Investigative Direction: Request the Chick-fil-A surveillance footage and receipts from the prosecution or a records request.
+Open Questions: Q-1083
 
 ---
 
@@ -1320,6 +1330,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Identify the footage or testimony establishing the black shirt and blue jeans and where he changed.
+Open Questions: Q-1084
 
 ---
 
@@ -1336,6 +1347,7 @@ Mentions: N-40
 Related Nodes: N-11177
 Tags: relevance:core
 Investigative Direction: Check the extracted message exhibit for the 11:28 Wordle message and its time zone.
+Open Questions: Q-1083
 
 ---
 
@@ -1354,6 +1366,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3, S-7
 Investigative Direction: Compare against the charging documents and any footage of the limp, hat and backpack.
+Open Questions: Q-75, Q-1084
 
 ---
 
@@ -1372,6 +1385,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Obtain the Dairy Queen photo with its metadata and the prosecution's account of where the clothing change occurred.
+Open Questions: Q-1084, Q-1085
 
 ---
 
@@ -1388,6 +1402,7 @@ Mentions: N-40
 Related Nodes: N-10354, N-10059, N-11177
 Tags: relevance:core
 Investigative Direction: Obtain the restaurant's receipt, timestamp and any camera footage and compare with the manhunt timeline.
+Open Questions: Q-1085
 
 ---
 
@@ -1406,6 +1421,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5, S-7
 Investigative Direction: Identify the vehicle-tracking, license-plate or camera evidence that places him back at Orem and the time.
+Open Questions: Q-1085
 
 ---
 
@@ -1423,6 +1439,7 @@ Related Nodes: N-11177
 Supports: C-12047
 Tags: relevance:core
 Investigative Direction: Obtain the full Hoole testimony transcript and the officer's report to determine who initiated the contact.
+Open Questions: Q-1086
 
 ---
 
@@ -1441,6 +1458,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3
 Investigative Direction: Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.
+Open Questions: Q-1086
 
 ---
 
@@ -1457,6 +1475,7 @@ Mentions: N-861
 Related Nodes: N-11177
 Tags: relevance:core
 Investigative Direction: Request the security officer's body-camera footage and report for the contact.
+Open Questions: Q-1086
 
 ---
 
@@ -1473,6 +1492,7 @@ Mentions: N-40, N-54
 Related Nodes: N-10049, N-11177
 Tags: relevance:core
 Investigative Direction: Compare the text-message times and doorbell footage metadata with the host's 1:35 a.m. departure estimate.
+Open Questions: Q-1085
 
 ---
 
@@ -1489,6 +1509,7 @@ Mentions: N-40
 Related Nodes: N-11177
 Tags: relevance:core
 Investigative Direction: Sum the drive legs from the charging documents and map-estimated times to check the host's totals.
+Open Questions: Q-1087
 
 ---
 
@@ -1505,6 +1526,7 @@ Mentions: N-40
 Related Nodes: N-11177
 Tags: relevance:core
 Investigative Direction: Obtain the Cedar City gas station footage, receipt and timestamp.
+Open Questions: Q-1087, Q-1088
 
 ---
 
@@ -1521,6 +1543,7 @@ Mentions: N-54, N-40
 Related Nodes: N-11177
 Tags: relevance:core
 Investigative Direction: Review Lance's statements to investigators and any witness-list summary of his expected testimony.
+Open Questions: Q-1089
 
 ---
 
@@ -1539,6 +1562,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Obtain the arrest photographs and booking inventory of clothing.
+Open Questions: Q-1090
 
 ---
 
@@ -1555,6 +1579,7 @@ Mentions: N-40
 Related Nodes: N-10048, N-10354, N-11177
 Tags: relevance:core
 Investigative Direction: Compare the indictment and hearing testimony with the Dairy Queen and Panguitch evidence.
+Open Questions: Q-173
 
 ---
 
@@ -1572,6 +1597,7 @@ Related Nodes: N-10716
 Supports: C-12059
 Tags: relevance:core
 Investigative Direction: Obtain the arrest video and high-resolution photographs the researcher used and their source.
+Open Questions: Q-80
 
 ---
 
@@ -1590,6 +1616,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain police body-camera footage and reports of Zinn's statements at the scene and his charging papers.
+Open Questions: Q-80
 
 ---
 
@@ -1607,6 +1634,7 @@ Related Nodes: N-10716
 Supports: C-12059
 Tags: dia, relevance:core
 Investigative Direction: Review the emails received at the tips address for identifications of the device.
+Open Questions: Q-80
 
 ---
 
@@ -2114,6 +2142,7 @@ Related Nodes: N-10214
 Supports: C-12096
 Tags: relevance:core
 Investigative Direction: Obtain the phone records or court exhibit showing the first call McCoy made and who received it.
+Open Questions: Q-212, Q-1091
 
 ---
 
@@ -2131,6 +2160,7 @@ Related Nodes: N-10214
 Supports: C-12096
 Tags: relevance:core
 Investigative Direction: Obtain the call-detail records for the calls among McCoy, Erika Kirk and others on September 10.
+Open Questions: Q-212
 
 ---
 
@@ -2148,6 +2178,7 @@ Related Nodes: N-10214
 Tags: relevance:core
 Revises: C-11087
 Investigative Direction: Obtain call logs and hospital-arrival records for McCoy and Phillip and the vehicle manifests for the convoy.
+Open Questions: Q-212, Q-994
 
 ---
 
@@ -2165,6 +2196,7 @@ Related Nodes: N-10190
 Supports: C-12096
 Tags: relevance:core
 Investigative Direction: List the public statements by TPUSA figures about McCoy's calls and compare them with phone records.
+Open Questions: Q-212, Q-1091
 
 ---
 
@@ -2275,6 +2307,7 @@ Related Nodes: N-10717, N-10715
 Supports: C-12108
 Tags: relevance:core
 Investigative Direction: Compare court exhibits on Robinson's handedness with the stair footage hand use.
+Open Questions: Q-1080, Q-1092
 
 ---
 
@@ -2291,6 +2324,7 @@ Mentions: N-54, N-40
 Related Nodes: N-10711
 Tags: relevance:core
 Investigative Direction: Review the forensic reports and any immunity agreement for Lance.
+Open Questions: Q-93, Q-174
 
 ---
 

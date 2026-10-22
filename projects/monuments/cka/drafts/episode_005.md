@@ -1249,6 +1249,7 @@ Related Nodes: N-10012
 Supports: C-128
 Tags: relevance:core
 Investigative Direction: Request the inventory of UVU campus cameras and the list of images released by the FBI and Utah authorities.
+Open Questions: Q-31
 
 ---
 
@@ -1265,6 +1266,7 @@ Mentions: N-40
 Related Nodes: N-10019
 Tags: relevance:core
 Investigative Direction: Ask the FBI and UVU police for vehicle footage of the Challenger, and compare with the indictment's description of the car.
+Open Questions: Q-24, Q-31
 
 ---
 
@@ -1283,6 +1285,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the text exhibit from the court record and check the sequence and timestamps of each message.
+Open Questions: Q-47, Q-48
 
 ---
 
@@ -1300,6 +1303,7 @@ Related Nodes: N-10074, N-10046
 Supports: C-398
 Tags: relevance:core
 Investigative Direction: Obtain the original message metadata and device extraction report; a forensic authorship comparison against Robinson's other writing would test the claim.
+Open Questions: Q-50
 
 ---
 
@@ -1332,6 +1336,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10048, N-10059
 Tags: relevance:core
 Investigative Direction: Obtain the tip submissions that contained the photo, with original files and send times, from the host's team.
+Open Questions: Q-56
 
 ---
 
@@ -1349,6 +1354,7 @@ Related Nodes: N-10019, N-10048
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Lay the official morning and shooting outfit descriptions from the indictment and Governor Cox's briefings beside the photo.
+Open Questions: Q-33, Q-56
 
 ---
 
@@ -1368,6 +1374,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-3, S-7
 Investigative Direction: Check the charging document and Cox's statements for the exact clothing described at each stage.
+Open Questions: Q-33
 
 ---
 
@@ -1384,6 +1391,7 @@ Mentions: N-40, N-54
 Related Nodes: N-10074, N-10048
 Tags: relevance:core
 Investigative Direction: Compare the text timestamps in any court exhibit with the claimed 6:38 p.m. photo time.
+Open Questions: Q-48, Q-56
 
 ---
 
@@ -1400,6 +1408,7 @@ Mentions: N-40
 Related Nodes: N-11234, N-10019
 Tags: relevance:core
 Investigative Direction: Identify the cemetery near the Dairy Queen, canvass for footage, and ask the FBI for the chain of custody of any recovered clothing.
+Open Questions: Q-42
 
 ---
 
@@ -1417,6 +1426,7 @@ Related Nodes: N-10011, N-10049
 Supports: C-114
 Tags: relevance:core
 Investigative Direction: Obtain the original TMZ broadcast and file with its embedded timestamp and publication time.
+Open Questions: Q-23
 
 ---
 
@@ -1449,6 +1459,7 @@ Mentions:
 Related Nodes: N-10049, N-10011
 Tags: relevance:core
 Investigative Direction: Locate the camera position and mounting height at the house and compare it with the TMZ frame.
+Open Questions: Q-23
 
 ---
 
@@ -1465,6 +1476,7 @@ Mentions: N-73
 Related Nodes: N-10011, N-10049
 Tags: relevance:core
 Investigative Direction: Establish the TMZ upload time against the Steel interview time and ask TMZ and the homeowner who supplied the footage.
+Open Questions: Q-23
 
 ---
 
@@ -1481,6 +1493,7 @@ Mentions: N-73
 Related Nodes: N-10047, N-10059
 Tags: relevance:core
 Investigative Direction: Check county voter and property records for the occupants of the parcel.
+Open Questions: Q-23
 
 ---
 
@@ -1529,6 +1542,7 @@ Mentions: N-74, N-40, N-54
 Related Nodes: N-10047, N-10055
 Tags: relevance:core
 Investigative Direction: Locate the townhouse in the BBC article and measure the distance from UVU and Orem.
+Open Questions: Q-57
 
 ---
 
@@ -1545,6 +1559,7 @@ Mentions: N-74
 Related Nodes: N-10055
 Tags: relevance:core
 Investigative Direction: Ask the BBC whether it holds the video and why it was not published; compare the article text with its quotation.
+Open Questions: Q-57
 
 ---
 
@@ -1561,6 +1576,7 @@ Mentions: N-74, N-40
 Related Nodes: N-10047, N-11360
 Tags: relevance:core
 Investigative Direction: Obtain the sheriff's and court record of the surrender time and compare with the BBC witness account.
+Open Questions: Q-32, Q-57
 
 ---
 
@@ -1577,6 +1593,7 @@ Mentions: N-54, N-74
 Related Nodes: N-10047
 Tags: relevance:core
 Investigative Direction: Obtain search warrant return times for the residence and compare with the BBC witness account.
+Open Questions: Q-45, Q-57
 
 ---
 
@@ -1595,6 +1612,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-7
 Investigative Direction: Check the charging document for any reference to children present at the event.
+Open Questions: Q-41
 
 ---
 
@@ -1643,6 +1661,7 @@ Mentions: N-40, N-54
 Related Nodes: N-10050, N-10032
 Tags: relevance:core
 Investigative Direction: The theory is unsupported on air; examine the device seizure reports and charges for any such material and compare with the Zinn decoy episode.
+Open Questions: Q-21
 
 ---
 
@@ -1675,6 +1694,7 @@ Mentions: N-3
 Related Nodes: N-10052
 Tags: relevance:core
 Investigative Direction: Confirm the show's correct tip address against the host's published site and treat inbound tips as unverified.
+Open Questions: Q-31
 
 ---
 
@@ -1772,6 +1792,7 @@ Related Nodes: N-10053
 Supports: C-72
 Tags: relevance:core
 Investigative Direction: Compare the content of the Kirk letter and any call records with Netanyahu's account.
+Open Questions: Q-5, Q-53
 
 ---
 
@@ -1789,6 +1810,7 @@ Related Nodes: N-10053, N-10026
 Contradicts: C-72
 Tags: relevance:core
 Investigative Direction: Obtain the full May letter text; the host has asked Netanyahu to publish it.
+Open Questions: Q-53
 
 ---
 
@@ -1822,6 +1844,7 @@ Related Nodes: N-10053, N-10026
 Contradicts: C-72
 Tags: relevance:core
 Investigative Direction: Obtain the letter itself; the quoted lines are only excerpts and the host says the context is omitted.
+Open Questions: Q-53
 
 ---
 
@@ -1855,6 +1878,7 @@ Related Nodes: N-10018, N-10026
 Supports: C-68
 Tags: relevance:core
 Investigative Direction: Obtain call logs or the Kirk team's account of the call and invitation.
+Open Questions: Q-5
 
 ---
 
@@ -1935,6 +1959,7 @@ Related Nodes: N-10053
 Supports: C-67
 Tags: relevance:core
 Investigative Direction: Ask the Prime Minister's office for the full letter and the date it was received.
+Open Questions: Q-53
 
 ---
 
@@ -1952,6 +1977,7 @@ Related Nodes: N-10018, N-10425
 Supports: C-84
 Tags: relevance:core
 Investigative Direction: Seek Kirk team or Netanyahu staff accounts of the invitation and the response.
+Open Questions: Q-5
 
 ---
 
@@ -1968,6 +1994,7 @@ Mentions: N-1, N-36, N-3
 Related Nodes: N-10425, N-10018
 Tags: relevance:core
 Investigative Direction: Find the message or call where Kirk is said to have said this and compare with reports that he refused a show appearance.
+Open Questions: Q-5
 
 ---
 
@@ -2000,6 +2027,7 @@ Mentions: N-3, N-37, N-1
 Related Nodes: N-10016, N-10027
 Tags: relevance:core
 Investigative Direction: Compare the host's earlier statements about blackmail with Ackman's published text exchange.
+Open Questions: Q-10, Q-51
 
 ---
 
@@ -2017,6 +2045,7 @@ Related Nodes: N-10016, N-10027
 Supports: C-100
 Tags: relevance:core
 Investigative Direction: Identify the attendee and the venue of the published statement.
+Open Questions: Q-12
 
 ---
 
@@ -2115,6 +2144,7 @@ Related Nodes: N-10000, N-10008, N-10003
 Supports: C-464
 Tags: relevance:core
 Investigative Direction: Retrieve the TPUSA statement and the YWLS program from that month.
+Open Questions: Q-58
 
 ---
 
@@ -2148,6 +2178,7 @@ Related Nodes: N-10025, N-10016
 Supports: C-74
 Tags: relevance:core
 Investigative Direction: Obtain the text messages or call logs showing the exchange between the host and Kirk.
+Open Questions: Q-6, Q-15
 
 ---
 
@@ -2180,6 +2211,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10252, N-10003
 Tags: relevance:core
 Investigative Direction: Compare against AmFest 2024 speaker lists and any message from the host to Kirk.
+Open Questions: Q-59
 
 ---
 
@@ -2212,6 +2244,7 @@ Related Nodes: N-10252, N-10025
 Supports: C-75
 Tags: relevance:core
 Investigative Direction: Compare with the AmFest speaker removal reporting and messages about Tucker Carlson and donors.
+Open Questions: Q-6
 
 ---
 
@@ -2229,6 +2262,7 @@ Related Nodes: N-10003, N-10085, N-10252
 Contradicts: C-462
 Tags: relevance:core
 Investigative Direction: Obtain messages or witnesses from Kirk's circle from the final week about the speaker roster.
+Open Questions: Q-15, Q-59
 
 ---
 
@@ -2246,6 +2280,7 @@ Related Nodes: N-10035, N-10000
 Supports: C-269
 Tags: relevance:core
 Investigative Direction: Identify the donor and the building and check naming or signage changes at TPUSA facilities.
+Open Questions: Q-6, Q-60
 
 ---
 
@@ -2263,6 +2298,7 @@ Related Nodes: N-10025, N-10016
 Supports: C-74
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's messages and calendar from September 8 to 10 and interview those present.
+Open Questions: Q-6
 
 ---
 
@@ -2279,6 +2315,7 @@ Mentions: N-1
 Related Nodes: N-10025, N-10016
 Tags: relevance:core
 Investigative Direction: Date the first donor messages to Kirk and compare with the AmFest 2024 period.
+Open Questions: Q-6
 
 ---
 
@@ -2295,6 +2332,7 @@ Mentions: N-1
 Related Nodes: N-10000, N-10498
 Tags: relevance:core
 Investigative Direction: Review TPUSA's financial filings and donor communications for spending and control changes after the assassination.
+Open Questions: Q-7, Q-18
 
 ---
 
@@ -2311,6 +2349,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10054, N-10035, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the memorial planning communications and ask TPUSA who made the speaker decisions.
+Open Questions: Q-61
 
 ---
 
@@ -2362,6 +2401,7 @@ Related Nodes: N-10003, N-10085
 Contradicts: C-462
 Tags: relevance:core
 Investigative Direction: Collect the host's and Kirk's message history and joint appearances through 2025.
+Open Questions: Q-15
 
 ---
 
@@ -2378,6 +2418,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10035
 Tags: relevance:core
 Investigative Direction: Obtain the sourcing from the host's team and examine TPUSA donor disclosures.
+Open Questions: Q-40
 
 ---
 
@@ -2490,6 +2531,7 @@ Mentions: N-3
 Related Nodes: N-10054, N-11361
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and the White House who set the speaker list for the event.
+Open Questions: Q-61
 
 ---
 
@@ -2553,6 +2595,7 @@ Related Nodes: N-10045
 Supports: C-494
 Tags: relevance:core
 Investigative Direction: Compare the timing of the posts comparing the artist to the FBI photo with the announcement of Robinson's arrest.
+Open Questions: Q-62
 
 ---
 

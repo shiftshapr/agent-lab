@@ -1115,6 +1115,7 @@ Mentions: N-3
 Related Nodes: N-10091, N-10000, N-10012
 Tags: relevance:core
 Investigative Direction: Build a list of every early eyewitness and video sharer, then check each for UVU enrollment and for government or TPUSA employment, donor or advertising ties.
+Open Questions: Q-72
 
 ---
 
@@ -1131,6 +1132,7 @@ Mentions: N-3
 Related Nodes: N-10062, N-10176, N-10091
 Tags: relevance:core
 Investigative Direction: Check property records for the block and the Caldera Engineering owner's holdings and the employer addresses of the witnesses; compare with the earlier Caldera findings.
+Open Questions: Q-71, Q-72
 
 ---
 
@@ -1147,6 +1149,7 @@ Mentions: N-3
 Related Nodes: N-10091, N-10012
 Tags: relevance:core
 Investigative Direction: Pull the press interviews from September 10 to 11 and verify the affiliation of each named witness against UVU enrollment records.
+Open Questions: Q-72
 
 ---
 
@@ -1195,6 +1198,7 @@ Mentions: N-75
 Related Nodes: N-10092
 Tags: relevance:core
 Investigative Direction: Ask Barker for the video or its metadata; compare against other crowd footage of the shot from that section.
+Open Questions: Q-79
 
 ---
 
@@ -1228,6 +1232,7 @@ Related Nodes: N-10092
 Supports: C-667
 Tags: relevance:core
 Investigative Direction: Request the footage Barker shared and the family's phone metadata; compare with the children's GMA statements about the artery.
+Open Questions: Q-79
 
 ---
 
@@ -1245,6 +1250,7 @@ Related Nodes: N-10093
 Supports: C-674
 Tags: relevance:core
 Investigative Direction: Frame-count the available videos against a synchronised audio of the shot to fix Zinn's position at each second.
+Open Questions: Q-80
 
 ---
 
@@ -1262,6 +1268,7 @@ Related Nodes: N-10093
 Supports: C-674
 Tags: relevance:core
 Investigative Direction: Verify against the original footage and body-cam of Zinn's arrest.
+Open Questions: Q-80
 
 ---
 
@@ -1279,6 +1286,7 @@ Related Nodes: N-10089, N-10097
 Supports: C-679
 Tags: relevance:core
 Investigative Direction: Identify the man in the blue shirt from event photos and the Wirefy roster; obtain the security team's account.
+Open Questions: Q-81
 
 ---
 
@@ -1313,6 +1321,7 @@ Related Nodes: N-10094
 Supports: C-681
 Tags: relevance:core
 Investigative Direction: Obtain the screenshot of the conversation the poster showed the host and identify the app and the sender.
+Open Questions: Q-82
 
 ---
 
@@ -1330,6 +1339,7 @@ Related Nodes: N-10088, N-10094, N-10091
 Supports: C-681
 Tags: relevance:core
 Investigative Direction: Verify enrollment and identity of both men with the witness, if he consents.
+Open Questions: Q-82
 
 ---
 
@@ -1347,6 +1357,7 @@ Related Nodes: N-10321, N-10014, N-10095
 Contradicts: C-166
 Tags: relevance:core
 Investigative Direction: Compare the FBI's published roof timeline with the witness's file metadata and any rooftop video with a timestamp.
+Open Questions: Q-83
 
 ---
 
@@ -1364,6 +1375,7 @@ Related Nodes: N-10321, N-10095
 Supports: C-685
 Tags: relevance:core
 Investigative Direction: Have a forensic examiner confirm the file's creation and modification times and device clock settings.
+Open Questions: Q-83
 
 ---
 
@@ -1381,6 +1393,7 @@ Related Nodes: N-10095
 Supports: C-685
 Tags: relevance:core
 Investigative Direction: Put the question to the witness through the host and compare his training claim and description with the other roof witnesses.
+Open Questions: Q-84
 
 ---
 
@@ -1398,6 +1411,7 @@ Related Nodes: N-10093, N-10095
 Supports: C-685
 Tags: relevance:core
 Investigative Direction: Identify the person on campus and any record of the witness's contact with campus police or the FBI that day.
+Open Questions: Q-80, Q-84, Q-85
 
 ---
 
@@ -1415,6 +1429,7 @@ Related Nodes: N-10014, N-10095
 Supports: C-689
 Tags: relevance:core
 Investigative Direction: Compare the recovered rifle's make and length with the witness's description of a shorter platform.
+Open Questions: Q-75, Q-84
 
 ---
 
@@ -1432,6 +1447,7 @@ Related Nodes: N-10014, N-10095
 Supports: C-685
 Tags: relevance:core
 Investigative Direction: Request the FBI's and Orem police intake records of witness statements on September 10 and 11.
+Open Questions: Q-85
 
 ---
 
@@ -1449,6 +1465,7 @@ Related Nodes: N-10319, N-10000
 Supports: C-595
 Tags: relevance:core
 Investigative Direction: Locate Kolvet's original statement and compare it with the coroner's and prosecutors' later descriptions of the bullet.
+Open Questions: Q-64
 
 ---
 
@@ -1731,6 +1748,7 @@ Related Nodes: N-10096, N-10000
 Supports: C-711
 Tags: relevance:core
 Investigative Direction: Identify the team member who removed the SD card, when it was handed to law enforcement, and by whom.
+Open Questions: Q-63
 
 ---
 
@@ -1748,6 +1766,7 @@ Related Nodes: N-10000, N-10102
 Supports: C-386, C-361
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's major donor list before and after September 2025 and review the threats in the host's evidence.
+Open Questions: Q-6
 
 ---
 
@@ -1765,6 +1784,7 @@ Related Nodes: N-10102
 Supports: C-715
 Tags: relevance:core
 Investigative Direction: Collect Charlie's recorded statements and donor messages about speaker approvals.
+Open Questions: Q-6
 
 ---
 
@@ -1798,6 +1818,7 @@ Related Nodes: N-10027, N-10102
 Supports: C-100
 Tags: relevance:core
 Investigative Direction: Obtain the host's message evidence that Charlie described the Hamptons meeting as moral blackmail.
+Open Questions: Q-6
 
 ---
 
@@ -1814,6 +1835,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10102
 Tags: relevance:core
 Investigative Direction: Identify who Charlie said this to and any record of the plan to re-host Candace.
+Open Questions: Q-6
 
 ---
 
@@ -1972,6 +1994,7 @@ Mentions: N-3, N-2, N-1
 Supports: C-587
 Tags: relevance:core
 Investigative Direction: Compare Erika's statement with the autopsy and medical timeline.
+Open Questions: Q-86
 
 ---
 
@@ -1989,6 +2012,7 @@ Related Nodes: N-10103
 Supports: C-732
 Tags: relevance:core
 Investigative Direction: Request UVU facilities and contractor records on the paver work and its funding source.
+Open Questions: Q-87
 
 ---
 
@@ -2006,6 +2030,7 @@ Related Nodes: N-11236, N-10104
 Supports: C-734
 Tags: relevance:core
 Investigative Direction: Ask the dispatch center and the scanner-feed platform when the Orem and Utah County feed was restricted and why.
+Open Questions: Q-88
 
 ---
 
@@ -2022,6 +2047,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10095, N-10014
 Tags: relevance:core
 Investigative Direction: File records requests for rooftop surveillance and video evidence and ask the court to disclose it.
+Open Questions: Q-84, Q-89
 
 ---
 
@@ -2039,6 +2065,7 @@ Related Nodes: N-10194
 Supports: C-388, C-737
 Tags: relevance:core
 Investigative Direction: Pull Patel's message and see whether it says more people are involved.
+Open Questions: Q-21, Q-70
 
 ---
 

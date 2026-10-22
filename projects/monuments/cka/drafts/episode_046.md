@@ -1077,6 +1077,7 @@ Mentions: N-3, N-2, N-278, N-237
 Related Nodes: N-11025
 Tags: relevance:core
 Investigative Direction: Identify who organized the Erika Kirk media rollout (CBS, Blaze TV) and any PR firm engaged by Turning Point USA.
+Open Questions: Q-404
 
 ---
 
@@ -1093,6 +1094,7 @@ Mentions: N-3
 Related Nodes: N-11025, N-10000
 Tags: relevance:core
 Investigative Direction: Compile the three framings as they appear across Erika Kirk, Turning Point USA and influencer statements with dates, to test whether the wording is coordinated.
+Open Questions: Q-404
 
 ---
 
@@ -1110,6 +1112,7 @@ Related Nodes: N-10172
 Supports: C-3562
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and ballistic findings on bullet caliber, path and whether the bullet was recovered.
+Open Questions: Q-64
 
 ---
 
@@ -1126,6 +1129,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10081, N-10172
 Tags: relevance:core
 Investigative Direction: Review the autopsy and medical-examiner description of the entry wound and the surgeon accounts of the wound.
+Open Questions: Q-64
 
 ---
 
@@ -1142,6 +1146,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10081, N-10172
 Tags: relevance:core
 Investigative Direction: Confirm from the autopsy report or official statements whether a downward ricochet into the abdomen is the stated trajectory.
+Open Questions: Q-64
 
 ---
 
@@ -1175,6 +1180,7 @@ Related Nodes: N-10313, N-10265
 Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Obtain CBS legal-review or production records for the town hall question set; none is shown on air.
+Open Questions: Q-405
 
 ---
 
@@ -1191,6 +1197,7 @@ Mentions: N-278, N-3, N-1
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Compare the question as aired with the unedited CBS broadcast and any Candace Owens revenue figures that are public.
+Open Questions: Q-405
 
 ---
 
@@ -1223,6 +1230,7 @@ Related Nodes: N-10185, N-10190
 Tags: relevance:core
 Qualifies: C-2661
 Investigative Direction: Compare Rob McCoy's statements about whom Mikey McCoy called first with Mikey McCoy's statement that his father was confused, and with call logs if released.
+Open Questions: Q-212
 
 ---
 
@@ -1239,6 +1247,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10172, N-10416, N-10000
 Tags: relevance:core
 Investigative Direction: Identify who first offered the strong-bones explanation and whether the surgeon or medical examiner endorsed it.
+Open Questions: Q-64
 
 ---
 
@@ -1255,6 +1264,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Collect Charlie Kirk's own public statements and private texts on Israel from 2024 and 2025 to compare with the statement.
+Open Questions: Q-2
 
 ---
 
@@ -1271,6 +1281,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10100, N-10328, N-10000
 Tags: relevance:core
 Investigative Direction: Find the original Turning Point USA or Alex Clark statement on Charlie's interest in Catholic architecture and compare with Charlie's documented Catholic inquiries.
+Open Questions: Q-406
 
 ---
 
@@ -1287,6 +1298,7 @@ Mentions: N-3, N-97, N-99
 Related Nodes: N-10224
 Tags: relevance:core
 Investigative Direction: Review the texts the host cited and Shapiro's original statement to compare dates and wording.
+Open Questions: Q-406
 
 ---
 
@@ -1320,6 +1332,7 @@ Related Nodes: N-10096, N-10156, N-10324
 Supports: C-3993
 Tags: relevance:core
 Investigative Direction: Obtain Terryl Farnsworth's own account on record and police statements on the SD card removal.
+Open Questions: Q-63
 
 ---
 
@@ -1337,6 +1350,7 @@ Related Nodes: N-10096, N-10156
 Supports: C-3527, C-711
 Tags: relevance:core
 Investigative Direction: Document which cameras had SD cards removed and which were left in place, with equipment logs.
+Open Questions: Q-63
 
 ---
 
@@ -1354,6 +1368,7 @@ Related Nodes: N-10404, N-10125
 Supports: C-3993, C-2136
 Tags: relevance:core
 Investigative Direction: Establish when the Turning Point USA internal DOGE was created and who proposed the name.
+Open Questions: Q-308
 
 ---
 
@@ -1371,6 +1386,7 @@ Related Nodes: N-10012
 Supports: C-3993
 Tags: relevance:core
 Investigative Direction: Compare Harpole's statement with UVU police and security coordination records for rooftops and the rear walkway.
+Open Questions: Q-407
 
 ---
 
@@ -1388,6 +1404,7 @@ Related Nodes: N-10030
 Supports: C-193, C-301
 Tags: relevance:core
 Investigative Direction: Obtain the full charging-document exhibits to see whether message metadata exists.
+Open Questions: Q-408
 
 ---
 
@@ -1407,6 +1424,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-3, S-4, S-5
 Investigative Direction: Compare the probable cause statement and press briefings with the father's account of the call to authorities.
+Open Questions: Q-34
 
 ---
 
@@ -1424,6 +1442,7 @@ Related Nodes: N-10048, N-10775
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Authenticate the Dairy Queen photo, its timestamp and any official acknowledgement of the stop.
+Open Questions: Q-173
 
 ---
 
@@ -1443,6 +1462,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-5, S-7
 Investigative Direction: Obtain the booking photograph, arrest report and clothing inventory.
+Open Questions: Q-409
 
 ---
 
@@ -1460,6 +1480,7 @@ Related Nodes: N-10932, N-11360
 Supports: C-969
 Tags: relevance:core
 Investigative Direction: Compare the father's and pastor's accounts of the call with the charging document language.
+Open Questions: Q-34
 
 ---
 
@@ -1476,6 +1497,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10255, N-10932
 Tags: relevance:core
 Investigative Direction: File records requests for surrender-site footage and the sheriff's office retention policy.
+Open Questions: Q-410
 
 ---
 
@@ -1493,6 +1515,7 @@ Related Nodes: N-10239, N-10000
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Cross-check flight-tracking data for the Egyptian-registered aircraft against Kirk and Turning Point USA event dates.
+Open Questions: Q-236
 
 ---
 
@@ -1509,6 +1532,7 @@ Mentions: N-3
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Identify the specific time-zone correction her critics cited and which flight or event it concerned.
+Open Questions: Q-398
 
 ---
 
@@ -1526,6 +1550,7 @@ Related Nodes: N-10313, N-10327, N-10000
 Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Compare the aired Saturday broadcast with the host's insider account of which questions were pre-submitted.
+Open Questions: Q-405
 
 ---
 
@@ -1558,6 +1583,7 @@ Mentions: N-3, N-326, N-1
 Related Nodes: N-10313, N-10350
 Tags: relevance:core
 Investigative Direction: Compare Kozak's identity with the questioner in the September 10 footage; note the existing Cosgrove and Kozak identity discrepancy topic.
+Open Questions: Q-411
 
 ---
 
@@ -1575,6 +1601,7 @@ Related Nodes: N-10313, N-10265
 Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Obtain the audience recruitment communications and question submission process from CBS or from attendees.
+Open Questions: Q-405
 
 ---
 
@@ -1591,6 +1618,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-11025
 Tags: relevance:core
 Investigative Direction: Verify the title, publisher and release date of the book and who is promoting it.
+Open Questions: Q-404
 
 ---
 
@@ -1607,6 +1635,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11025
 Tags: relevance:core
 Investigative Direction: Survey high-profile commentators for any explicit accusation to test the host's statement; compare with later statements by TPUSA allies.
+Open Questions: Q-412
 
 ---
 
@@ -1624,6 +1653,7 @@ Related Nodes: N-10014
 Supports: C-4016
 Tags: relevance:core
 Investigative Direction: The host offers no document; identify which department communications she regards as propaganda.
+Open Questions: Q-21
 
 ---
 
@@ -1672,6 +1702,7 @@ Related Nodes: N-10327, N-10313
 Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Seek the pre-submitted question list from CBS or Erika Kirk's team.
+Open Questions: Q-405
 
 ---
 
@@ -1689,6 +1720,7 @@ Related Nodes: N-10185
 Supports: C-1734, C-1741
 Tags: relevance:core
 Investigative Direction: Check whether any prosecutor or court has restricted release of the McCoy call log and under what rule.
+Open Questions: Q-212
 
 ---
 
@@ -1706,6 +1738,7 @@ Related Nodes: N-10239, N-10000
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Compile the event-by-event overlap of aircraft arrivals with Turning Point USA faith events.
+Open Questions: Q-236
 
 ---
 
@@ -1737,6 +1770,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Identify which additional participants the host believes were involved; no names are given in this segment.
+Open Questions: Q-21
 
 ---
 
@@ -1754,6 +1788,7 @@ Related Nodes: N-10048
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Locate the cemetery clothing recovery in police evidence logs.
+Open Questions: Q-413
 
 ---
 
@@ -1770,6 +1805,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10038, N-10028
 Tags: relevance:core
 Investigative Direction: Examine campus footage and any evidence placing Robinson on campus; the host gives no basis in this segment.
+Open Questions: Q-110
 
 ---
 
@@ -1786,6 +1822,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10158
 Tags: relevance:core
 Investigative Direction: Ask the prosecution or UVU which video of the shooter is held and whether a release would be restricted.
+Open Questions: Q-414
 
 ---
 
@@ -1803,6 +1840,7 @@ Related Nodes: N-10315
 Supports: C-4029
 Tags: relevance:core
 Investigative Direction: Review the courtroom video and reporters' descriptions of his demeanor.
+Open Questions: Q-415
 
 ---
 
@@ -1883,6 +1921,7 @@ Mentions: N-3, N-55, N-1
 Related Nodes: N-10179, N-10162
 Tags: relevance:core
 Investigative Direction: Compare Hammer's podcast statements with the text message the host released.
+Open Questions: Q-416
 
 ---
 
@@ -1899,6 +1938,7 @@ Mentions: N-3, N-99, N-1
 Related Nodes: N-10100, N-10328
 Tags: relevance:core
 Investigative Direction: Obtain the Alex Clark episode and compare with Charlie's documented Catholic contacts.
+Open Questions: Q-253
 
 ---
 
@@ -1916,6 +1956,7 @@ Related Nodes: N-10224
 Supports: C-3991
 Tags: relevance:core
 Investigative Direction: Compare Shapiro's statements with released texts between Charlie and the host about Shapiro.
+Open Questions: Q-416
 
 ---
 
@@ -1979,6 +2020,7 @@ Related Nodes: N-11026
 Supports: C-3984
 Tags: relevance:core
 Investigative Direction: Check whether Erika Kirk or Turning Point USA later named specific false statements.
+Open Questions: Q-417
 
 ---
 
@@ -1996,6 +2038,7 @@ Related Nodes: N-11025
 Supports: C-3984
 Tags: relevance:core
 Investigative Direction: Identify the accounts that repeated the "stop" line after the broadcast and whether they were coordinated or paid.
+Open Questions: Q-418
 
 ---
 
@@ -2074,6 +2117,7 @@ Related Nodes: N-10314, N-10293
 Supports: C-4050
 Tags: relevance:core
 Investigative Direction: Watch the Saturday broadcast for any maroon-shirt mention and check the host's military color claims against official records.
+Open Questions: Q-351
 
 ---
 

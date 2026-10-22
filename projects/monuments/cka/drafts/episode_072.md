@@ -1236,6 +1236,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-544
 Tags: relevance:core
 Investigative Direction: Confirm the friendship and its length through Tracy Martin's public history with Erika Kirk, such as dated photographs, posts or mutual acquaintances.
+Open Questions: Q-572
 
 ---
 
@@ -1252,6 +1253,7 @@ Mentions: N-3, N-2, N-544, N-217, N-190
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain the phone records or witness accounts of the McCoy calls to Erika on September 10 and identify who was physically present with her.
+Open Questions: Q-571
 
 ---
 
@@ -1267,6 +1269,7 @@ Anchored Artifacts:
 Mentions: N-3, N-544, N-2
 Tags: relevance:core
 Investigative Direction: Ask Tracy Martin or Erika Kirk's representatives directly whether Martin was with Erika on September 10; identify the host's source for the denial.
+Open Questions: Q-571
 
 ---
 
@@ -1283,6 +1286,7 @@ Mentions: N-3, N-544, N-552, N-2
 Related Nodes: N-10460
 Tags: relevance:core
 Investigative Direction: Verify the daughter's employment with Erika Kirk or TPUSA through payroll, event staffing lists or public tagging of her in Erika's posts.
+Open Questions: Q-588
 
 ---
 
@@ -1299,6 +1303,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Locate the interview in which Erika Kirk said she nearly attended UVU and check her stated reason and the Colorado event schedule.
+Open Questions: Q-591
 
 ---
 
@@ -1315,6 +1320,7 @@ Mentions: N-3, N-544, N-552
 Related Nodes: N-10464, N-10012
 Tags: relevance:core
 Investigative Direction: Interview the people in Martin's orbit who heard the explanation and obtain any messages in which the bad feeling or the change of plans was discussed.
+Open Questions: Q-588
 
 ---
 
@@ -1332,6 +1338,7 @@ Related Nodes: N-10143
 Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Obtain the full group-chat export and verify author, recipients and timestamps.
+Open Questions: Q-146
 
 ---
 
@@ -1348,6 +1355,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000, N-10252
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA staff messages in which Kirk discussed the AmFest roster and identify the recipients.
+Open Questions: Q-59
 
 ---
 
@@ -1364,6 +1372,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Identify the messages in which Kirk told staff he did not care about donor money and check their dates.
+Open Questions: Q-146
 
 ---
 
@@ -1381,6 +1390,7 @@ Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain the Zoom invitation or log and Wolicki's own account of the call time, participants and purpose.
+Open Questions: Q-208
 
 ---
 
@@ -1398,6 +1408,7 @@ Related Nodes: N-10179
 Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Obtain the chat export and member list to confirm Wolicki and Hammer were participants and when each message was sent.
+Open Questions: Q-146, Q-208
 
 ---
 
@@ -1414,6 +1425,7 @@ Mentions: N-3, N-55, N-2, N-1
 Related Nodes: N-10179
 Tags: relevance:core
 Investigative Direction: Ask Hammer and Erika Kirk to state on the record how they described the chat; compare to Hammer's released text messages.
+Open Questions: Q-419
 
 ---
 
@@ -1431,6 +1443,7 @@ Related Nodes: N-10162
 Supports: C-1551
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's and Wolicki's own statements about the purpose of the call and any talking-points material exchanged.
+Open Questions: Q-208
 
 ---
 
@@ -1448,6 +1461,7 @@ Related Nodes: N-10318
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the original texts from Flood's and Kolvet's devices with metadata.
+Open Questions: Q-576
 
 ---
 
@@ -1465,6 +1479,7 @@ Related Nodes: N-10113
 Supports: C-4064
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's interview statement on who 'they' referred to and compare it with the message text.
+Open Questions: Q-592
 
 ---
 
@@ -1482,6 +1497,7 @@ Related Nodes: N-10113
 Supports: C-1335
 Tags: relevance:core
 Investigative Direction: Identify the priest and the date and place of the visit from the original sources who told the account.
+Open Questions: Q-95
 
 ---
 
@@ -1498,6 +1514,7 @@ Mentions: N-3, N-552, N-1, N-159, N-190
 Related Nodes: N-10460
 Tags: relevance:core
 Investigative Direction: Obtain the September 10 travel and staffing roster for The Charlie Kirk Show and check whether the assistant was scheduled.
+Open Questions: Q-588
 
 ---
 
@@ -1515,6 +1532,7 @@ Related Nodes: N-10416
 Supports: C-4493
 Tags: relevance:core
 Investigative Direction: Obtain call records or Trotter's account of the funeral-day call and who initiated it.
+Open Questions: Q-64, Q-421
 
 ---
 
@@ -1532,6 +1550,7 @@ Related Nodes: N-10416
 Supports: C-4493
 Tags: relevance:core
 Investigative Direction: Compare Trotter's own account of what he said with Kolvet's post and identify who first used the phrase.
+Open Questions: Q-421
 
 ---
 
@@ -1548,6 +1567,7 @@ Mentions: N-3, N-2, N-14
 Related Nodes: N-10081, N-10172
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and surgical records on entry, exit and bleeding, and compare them with the footage.
+Open Questions: Q-64
 
 ---
 
@@ -1565,6 +1585,7 @@ Related Nodes: N-10416
 Supports: C-4542
 Tags: relevance:core
 Investigative Direction: Pull Kolvet's original post and Trotter's statements and compare their wording.
+Open Questions: Q-421
 
 ---
 
@@ -1581,6 +1602,7 @@ Mentions: N-3, N-2, N-237, N-1
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Locate the Glenn Beck interview segment and compare Erika Kirk's words with the texts.
+Open Questions: Q-576, Q-592
 
 ---
 
@@ -1597,6 +1619,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's statement about Telegram and the phone's installed apps and message logs.
+Open Questions: Q-577, Q-592
 
 ---
 
@@ -1613,6 +1636,7 @@ Mentions: N-3, N-2, N-270
 Related Nodes: N-10318, N-10439
 Tags: relevance:core
 Investigative Direction: Examine Flood's device message log for the platform, sender and timestamp of the text.
+Open Questions: Q-576
 
 ---
 
@@ -1629,6 +1653,7 @@ Mentions: N-3, N-2, N-36
 Related Nodes: N-10458, N-10415, N-10027
 Tags: relevance:core
 Investigative Direction: Identify other attendees of the Hamptons meeting and obtain Erika Kirk's public statements on the call.
+Open Questions: Q-77
 
 ---
 
@@ -1661,6 +1686,7 @@ Mentions: N-3, N-2, N-97
 Related Nodes: N-10252
 Tags: relevance:core
 Investigative Direction: Obtain the AmFest 2025 speaker schedule and sponsor arrangements for Shapiro's slot.
+Open Questions: Q-593
 
 ---
 
@@ -1677,6 +1703,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10889, N-10826
 Tags: relevance:core
 Investigative Direction: Retrieve the New York Times article and confirm the interview was held at the Kirk home.
+Open Questions: Q-594
 
 ---
 
@@ -1724,6 +1751,7 @@ Related Nodes: N-10359
 Supports: C-4447
 Tags: relevance:core
 Investigative Direction: Collect Kirk's messages and witnesses about Shapiro and the terms of Shapiro's AmFest appearance.
+Open Questions: Q-593
 
 ---
 
@@ -1740,6 +1768,7 @@ Mentions: N-3, N-1, N-36
 Related Nodes: N-10425
 Tags: relevance:core
 Investigative Direction: Find the show booking requests and the staff who handled the Netanyahu request.
+Open Questions: Q-583
 
 ---
 
@@ -1756,6 +1785,7 @@ Mentions: N-3, N-2, N-36, N-97
 Related Nodes: N-11161
 Tags: relevance:core
 Investigative Direction: Identify the production, venue and attendees through Palm Beach location bookings and the host's source.
+Open Questions: Q-595
 
 ---
 
@@ -1772,6 +1802,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Review Erika Kirk's public statements since September 2025 for any acknowledgment of Kirk's change of view on Israel.
+Open Questions: Q-2
 
 ---
 
@@ -1803,6 +1834,7 @@ Anchored Artifacts:
 Mentions: N-3, N-46, N-40
 Tags: relevance:core
 Investigative Direction: Quote Kelly's on-air statements about Tyler Robinson's guilt.
+Open Questions: Q-52
 
 ---
 
@@ -1849,6 +1881,7 @@ Anchored Artifacts: A-1768.1
 Mentions: N-204, N-3, N-2, N-82
 Tags: relevance:core
 Investigative Direction: Locate the Piers Morgan interview with Megyn Kelly and verify the exact question.
+Open Questions: Q-52
 
 ---
 
@@ -1864,6 +1897,7 @@ Anchored Artifacts: A-1768.1
 Mentions: N-46, N-3
 Tags: relevance:core
 Investigative Direction: Verify the clip and catalogue Kelly's past public criticism of the host.
+Open Questions: Q-52
 
 ---
 
@@ -1880,6 +1914,7 @@ Mentions: N-46, N-3, N-1
 Related Nodes: N-10379, N-10026
 Tags: relevance:core
 Investigative Direction: Identify who pressed Kelly and when, using her messages or public statements.
+Open Questions: Q-52
 
 ---
 
@@ -1896,6 +1931,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Interview members of Kirk's inner circle and collect any messages in which he expressed doubts.
+Open Questions: Q-2
 
 ---
 
@@ -1912,6 +1948,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify any paid influencer campaigns and funding sources through disclosures and FARA or FEC filings.
+Open Questions: Q-487
 
 ---
 
@@ -1944,6 +1981,7 @@ Mentions: N-559, N-557, N-2
 Related Nodes: N-10463
 Tags: relevance:core
 Investigative Direction: Verify Liebman's tenure and title with Corcoran Group press releases and New York filings.
+Open Questions: Q-596
 
 ---
 
@@ -1961,6 +1999,7 @@ Related Nodes: N-11028, N-10000
 Supports: C-6474
 Tags: relevance:core
 Investigative Direction: Collect the dated public tellings of the interview story and compare their details.
+Open Questions: Q-597
 
 ---
 
@@ -1978,6 +2017,7 @@ Related Nodes: N-11028, N-11361
 Supports: C-6472
 Tags: relevance:core
 Investigative Direction: Obtain the host's dated text messages with Bowyer and Charlie from 2018.
+Open Questions: Q-597
 
 ---
 
@@ -1994,6 +2034,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Publish or independently verify the dated text messages.
+Open Questions: Q-597
 
 ---
 
@@ -2010,6 +2051,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Confirm the date and location of the interview with Bowyer and contemporaneous messages.
+Open Questions: Q-597
 
 ---
 
@@ -2026,6 +2068,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Compare dated messages and New York Department of State license issuance records.
+Open Questions: Q-596
 
 ---
 
@@ -2043,6 +2086,7 @@ Related Nodes: N-10462
 Supports: C-6480
 Tags: relevance:core
 Investigative Direction: Request the New York Department of State license history for original issue date.
+Open Questions: Q-596
 
 ---
 
@@ -2059,6 +2103,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11162
 Tags: relevance:core
 Investigative Direction: Search business and trademark records for Proclaim Streetwear and its ownership.
+Open Questions: Q-598
 
 ---
 
@@ -2074,6 +2119,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-1
 Tags: relevance:core
 Investigative Direction: Reconstruct the date and venue from the host's messages and calendar.
+Open Questions: Q-597
 
 ---
 
@@ -2090,6 +2136,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11162
 Tags: relevance:core
 Investigative Direction: Pull USPTO and state LLC filings for Proclaim Streetwear and its filer.
+Open Questions: Q-598
 
 ---
 
@@ -2106,6 +2153,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11162, N-11022, N-10463
 Tags: relevance:core
 Investigative Direction: Verify Liberty enrollment dates, license dates and Corcoran affiliation dates.
+Open Questions: Q-596
 
 ---
 
@@ -2122,6 +2170,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10463
 Tags: relevance:core
 Investigative Direction: Retrieve the archived Corcoran page and compare it with sales records.
+Open Questions: Q-596
 
 ---
 
@@ -2138,6 +2187,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10483
 Tags: relevance:core
 Investigative Direction: Compare the host's early bios of Erika with TPUSA biographies.
+Open Questions: Q-596
 
 ---
 
@@ -2154,6 +2204,7 @@ Mentions: N-3, N-2, N-278
 Related Nodes: N-10348
 Tags: relevance:core
 Investigative Direction: Identify the reality show, its air date and cast listing.
+Open Questions: Q-599
 
 ---
 
@@ -2170,6 +2221,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11163, N-11164, N-11022, N-10465, N-10476
 Tags: relevance:core
 Investigative Direction: Request enrollment verification from each school, with Erika Kirk's consent or via public degree records.
+Open Questions: Q-600
 
 ---
 
@@ -2186,6 +2238,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10465
 Tags: relevance:core
 Investigative Direction: Solicit named classmates and roommates and test their accounts against school records.
+Open Questions: Q-600
 
 ---
 
@@ -2202,6 +2255,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10465
 Tags: relevance:core
 Investigative Direction: Track the tips received at the tip line and verify each source's claimed connection to Erika Kirk.
+Open Questions: Q-600
 
 ---
 
@@ -2218,6 +2272,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10392
 Tags: relevance:core
 Investigative Direction: Compare dated China residence evidence with enrollment dates at the schools.
+Open Questions: Q-490
 
 ---
 
@@ -2234,6 +2289,7 @@ Mentions: N-3, N-550, N-493
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Interview Aubrey Laitsch and obtain separation records and messages about the Uber ride questioning.
+Open Questions: Q-584
 
 ---
 
@@ -2250,6 +2306,7 @@ Mentions: N-3, N-550
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the second fired employee and obtain the termination notice.
+Open Questions: Q-584
 
 ---
 
@@ -2266,6 +2323,7 @@ Mentions: N-3, N-558, N-550
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the legal firm named and check whether any lawsuit or service was pending against Lich.
+Open Questions: Q-601
 
 ---
 
@@ -2282,6 +2340,7 @@ Mentions: N-3, N-558
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the investigator's license and client from the legal firm and state licensing board.
+Open Questions: Q-601
 
 ---
 
@@ -2297,6 +2356,7 @@ Anchored Artifacts:
 Mentions: N-3, N-14, N-550
 Tags: relevance:core
 Investigative Direction: Check the host's post and any TPUSA reply.
+Open Questions: Q-601
 
 ---
 
@@ -2313,6 +2373,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-11165
 Tags: relevance:core
 Investigative Direction: Check the GoFundMe page for its organizer, total and end date.
+Open Questions: Q-602
 
 ---
 
@@ -2329,6 +2390,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10280
 Tags: relevance:core
 Investigative Direction: Identify who 'Pierre' refers to and the alleged donations through donor filings.
+Open Questions: Q-579, Q-584
 
 ---
 
@@ -2345,6 +2407,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Interview former employees about what they were told about Kirk's presence in the office.
+Open Questions: Q-584
 
 ---
 
@@ -2362,6 +2425,7 @@ Related Nodes: N-10143
 Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Use the night-before messages to test the host's characterization.
+Open Questions: Q-146
 
 ---
 
@@ -2471,6 +2535,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: The offer is a conditional commitment; track whether any official statement is made and whether she retires.
+Open Questions: Q-603
 
 ---
 

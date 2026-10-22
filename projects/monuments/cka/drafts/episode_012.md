@@ -980,6 +980,7 @@ Mentions: N-3, N-61, N-128
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Obtain Shaner Broderick's original posts describing the two companions and the retrace video, and archive them before further deletion.
+Open Questions: Q-123
 
 ---
 
@@ -1014,6 +1015,7 @@ Related Nodes: N-10006, N-10139
 Supports: C-1014
 Tags: relevance:core
 Investigative Direction: Locate the Fox News interview and compare Lyman's stated arrival time with the doorbell-camera footage of his vehicle.
+Open Questions: Q-124
 
 ---
 
@@ -1030,6 +1032,7 @@ Mentions: N-128
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Identify which outlets published Broderick's map and how he determined the route.
+Open Questions: Q-94
 
 ---
 
@@ -1063,6 +1066,7 @@ Related Nodes: N-10139
 Supports: C-1038
 Tags: relevance:core
 Investigative Direction: Ask Nick and Lyman what, if anything, Lyman learned about the white vehicle and why that was a reason to visit on that Saturday.
+Open Questions: Q-125
 
 ---
 
@@ -1095,6 +1099,7 @@ Mentions: N-3
 Related Nodes: N-11083, N-10082
 Tags: relevance:core
 Investigative Direction: Identify the plane's owners from FAA records and find the image or report of the t-shirt that the host recalls.
+Open Questions: Q-126
 
 ---
 
@@ -1112,6 +1117,7 @@ Related Nodes: N-10139
 Contradicts: C-1081
 Tags: relevance:core
 Investigative Direction: Obtain Lyman family records or public genealogy showing the relationship; compare with Broderick's earlier posts.
+Open Questions: Q-127
 
 ---
 
@@ -1143,6 +1149,7 @@ Mentions: N-128, N-3
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Retrieve archived copies of the deleted pages and note the dates of deletion relative to the host's outreach.
+Open Questions: Q-128
 
 ---
 
@@ -1159,6 +1166,7 @@ Mentions: N-3, N-61, N-128
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Obtain the text thread showing each request and Lyman's replies.
+Open Questions: Q-129
 
 ---
 
@@ -1175,6 +1183,7 @@ Mentions: N-61, N-3
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Obtain the text thread with Lyman and ask Broderick who the two companions were.
+Open Questions: Q-123, Q-129
 
 ---
 
@@ -1191,6 +1200,7 @@ Mentions: N-3, N-128
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Review the tip-line log to confirm no identification arrived and test whether the two are from outside the United States.
+Open Questions: Q-123, Q-130
 
 ---
 
@@ -1207,6 +1217,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Compare the blue-hat man's height and build with the blurred stairs frame and with Robinson using a calibrated photogrammetric comparison.
+Open Questions: Q-112
 
 ---
 
@@ -1224,6 +1235,7 @@ Related Nodes: N-10142
 Supports: C-1091
 Tags: relevance:core
 Investigative Direction: Verify Gernot Ohner's nationality and Utah residency through public records and his employer.
+Open Questions: Q-123
 
 ---
 
@@ -1241,6 +1253,7 @@ Related Nodes: N-10141
 Supports: C-1022
 Tags: relevance:core
 Investigative Direction: Review the Alex Jones segment to determine whether Lyman himself drew that implication.
+Open Questions: Q-131
 
 ---
 
@@ -1257,6 +1270,7 @@ Mentions: N-3, N-61
 Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: Run audio analysis on the original file to count discrete shots and compare with the shot count in other recordings.
+Open Questions: Q-132
 
 ---
 
@@ -1273,6 +1287,7 @@ Mentions: N-61, N-93
 Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: Obtain the full Alex Jones interview and ask Lyman who told him about the video and which route he meant.
+Open Questions: Q-27, Q-94
 
 ---
 
@@ -1289,6 +1304,7 @@ Mentions: N-61, N-93, N-40
 Related Nodes: N-10141, N-10172
 Tags: relevance:core
 Investigative Direction: Compare Lyman's statement with the official account of where the rifle was recovered and with the evidence logs.
+Open Questions: Q-20
 
 ---
 
@@ -1305,6 +1321,7 @@ Mentions: N-61
 Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: Obtain the NewsNation segment and compare with Lyman's Alex Jones account of where the shot came from.
+Open Questions: Q-27
 
 ---
 
@@ -1321,6 +1338,7 @@ Mentions: N-61
 Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: Review the original video with clean audio to establish the order of the remark and the conversation.
+Open Questions: Q-131
 
 ---
 
@@ -1338,6 +1356,7 @@ Related Nodes: N-10141
 Supports: C-1101
 Tags: relevance:core
 Investigative Direction: Obtain enhanced audio of the exchange and, if possible, identify the two people to ask what they heard.
+Open Questions: Q-131
 
 ---
 
@@ -1355,6 +1374,7 @@ Related Nodes: N-10142
 Supports: C-1104
 Tags: relevance:core
 Investigative Direction: Have an independent facial examiner compare the two images and identify the person named on the Buzzards and Bees page.
+Open Questions: Q-123
 
 ---
 
@@ -1388,6 +1408,7 @@ Related Nodes: N-10136, N-10146
 Supports: C-1002
 Tags: relevance:core
 Investigative Direction: Obtain Mitchell's service record to reconcile a 1999 start with a 1999 article saying he had already worked internet cases for about a year.
+Open Questions: Q-133
 
 ---
 
@@ -1405,6 +1426,7 @@ Related Nodes: N-10146, N-10032
 Qualifies: C-1108
 Tags: relevance:core
 Investigative Direction: Establish what the fake bed messages were and who had authorship access, then test any link to Mitchell by records.
+Open Questions: Q-133, Q-134
 
 ---
 
@@ -1422,6 +1444,7 @@ Related Nodes: N-10032
 Supports: C-157
 Tags: relevance:core
 Investigative Direction: Pull the court filings and charging documents for Zinn's arrest and the device evidence.
+Open Questions: Q-135
 
 ---
 
@@ -1438,6 +1461,7 @@ Mentions: N-42, N-3
 Related Nodes: N-10032
 Tags: relevance:core
 Investigative Direction: Examine Zinn's phone, court filings and any police interview for evidence of coercion before or during the decoy episode.
+Open Questions: Q-28, Q-136
 
 ---
 
@@ -1454,6 +1478,7 @@ Mentions: N-3
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Search overseas social media and gothic-scene networks for the Provo prom attendee, and obtain the Buzzards and Bees page history.
+Open Questions: Q-123
 
 ---
 
@@ -1486,6 +1511,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Identify the specific advisers and decisions she suggests were part of a betrayal, and the documents that would show them.
+Open Questions: Q-137
 
 ---
 
@@ -1503,6 +1529,7 @@ Related Nodes: N-10099
 Supports: C-1115
 Tags: relevance:core
 Investigative Direction: Check autopsy and clothing evidence for any body armor, and the footage of Charlie before the event.
+Open Questions: Q-138
 
 ---
 
@@ -1521,6 +1548,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain the tour schedule and booking correspondence for both campuses showing who proposed the dates.
+Open Questions: Q-139
 
 ---
 
@@ -1537,6 +1565,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare earlier tour schedules for other states to test whether back-to-back scheduling is the norm.
+Open Questions: Q-139
 
 ---
 
@@ -1569,6 +1598,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11134, N-10144
 Tags: relevance:core
 Investigative Direction: Obtain trauma-center designations and drive-time data from the campus to the candidate hospitals, plus the EMS run sheet.
+Open Questions: Q-140
 
 ---
 
@@ -1585,6 +1615,7 @@ Mentions: N-134, N-3
 Related Nodes: N-11134, N-10144
 Tags: relevance:core
 Investigative Direction: Confirm the date and press release of the CEO announcement and his appointment dates.
+Open Questions: Q-141
 
 ---
 
@@ -1603,6 +1634,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Check Utah event-safety rules and the event permit for medical-standby requirements, and ask UVU whether an ambulance was present.
+Open Questions: Q-142
 
 ---
 
@@ -1619,6 +1651,7 @@ Mentions: N-134, N-1, N-3
 Related Nodes: N-11134, N-10000
 Tags: relevance:core
 Investigative Direction: Compare the hospital's press release date with the tour announcement date.
+Open Questions: Q-139, Q-141
 
 ---
 
@@ -1636,6 +1669,7 @@ Related Nodes: N-10073, N-10184
 Supports: C-376
 Tags: relevance:core
 Investigative Direction: Compare the camera-removal timing with the video timeline and obtain the footage showing it.
+Open Questions: Q-63
 
 ---
 
@@ -1652,6 +1686,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Establish the man's assigned role at the event and review stage footage of his position.
+Open Questions: Q-143
 
 ---
 
@@ -1668,6 +1703,7 @@ Mentions: N-3
 Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Obtain the footage of the call and, through lawful process, the call record to identify the recipient.
+Open Questions: Q-143
 
 ---
 
@@ -1684,6 +1720,7 @@ Mentions: N-3
 Related Nodes: N-10829, N-10073
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what the new AV setup was, where the feed went, and whether the feed was recorded.
+Open Questions: Q-122, Q-144
 
 ---
 
@@ -1700,6 +1737,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10053, N-10143
 Tags: relevance:core
 Investigative Direction: Gather Kirk's private messages, donor communications and on-air statements from 2025 showing his position.
+Open Questions: Q-2
 
 ---
 
@@ -1716,6 +1754,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000, N-10053
 Tags: relevance:core
 Investigative Direction: Ask TPUSA staff who heard Kirk state his position and whether any statements were recorded.
+Open Questions: Q-145
 
 ---
 
@@ -1733,6 +1772,7 @@ Related Nodes: N-10053
 Supports: C-1133
 Tags: relevance:core
 Investigative Direction: Obtain the letter and compare the number given with Kirk's known numbers and with Netanyahu's contact records.
+Open Questions: Q-53
 
 ---
 
@@ -1749,6 +1789,7 @@ Mentions: N-3
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Request the original message with headers or the postal record from the Prime Minister's office or TPUSA.
+Open Questions: Q-53
 
 ---
 
@@ -1765,6 +1806,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000, N-10044
 Tags: relevance:core
 Investigative Direction: Ask the host for the basis of her knowledge and cross-check with TPUSA donor and board correspondence.
+Open Questions: Q-6
 
 ---
 
@@ -1797,6 +1839,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10143, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the staff, donors and rabbi present and obtain contemporaneous notes, messages or testimony.
+Open Questions: Q-146
 
 ---
 
@@ -1813,6 +1856,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10044, N-10102
 Tags: relevance:core
 Investigative Direction: Seek witnesses and recordings of the statement and compare with Kirk's earlier remarks on donor pressure.
+Open Questions: Q-6
 
 ---
 
@@ -1829,6 +1873,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Obtain any scheduling or communications between Kirk and the host about a joint appearance.
+Open Questions: Q-147
 
 ---
 
@@ -1845,6 +1890,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the payday referred to and review TPUSA funding and donor pledges around September 2025.
+Open Questions: Q-148
 
 ---
 
@@ -1861,6 +1907,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10053, N-10044
 Tags: relevance:core
 Investigative Direction: Gather Kirk's statements and communications from the weeks before his death showing the pressure described.
+Open Questions: Q-2
 
 ---
 
@@ -1971,6 +2018,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report and medical records and compare with the paralysis narrative.
+Open Questions: Q-149
 
 ---
 
@@ -1988,6 +2036,7 @@ Related Nodes: N-10142
 Supports: C-1104
 Tags: relevance:core
 Investigative Direction: Identify the person via the Buzzards and Bees prom organizers and attendee lists.
+Open Questions: Q-123
 
 ---
 
@@ -2020,6 +2069,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Await the follow-up episode and compare with the autopsy and medical records.
+Open Questions: Q-149
 
 ---
 

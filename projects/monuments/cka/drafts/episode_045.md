@@ -821,6 +821,7 @@ Mentions: N-798, N-2, N-3
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.
+Open Questions: Q-396
 
 ---
 
@@ -869,6 +870,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Review the full Fox News clip and any reported threats or vandalism against Kirk-related sites.
+Open Questions: Q-396
 
 ---
 
@@ -885,6 +887,7 @@ Mentions: N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask TPUSA or Erika Kirk's office for a log of leads forwarded to law enforcement and the agencies that received them.
+Open Questions: Q-397
 
 ---
 
@@ -917,6 +920,7 @@ Mentions: N-2, N-46
 Related Nodes: N-10006, N-10889
 Tags: relevance:core
 Investigative Direction: Compile air dates of each appearance from network schedules and published transcripts.
+Open Questions: Q-396
 
 ---
 
@@ -933,6 +937,7 @@ Mentions: N-2, N-278
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Check CBS for the taping date and air date of the town hall.
+Open Questions: Q-396
 
 ---
 
@@ -949,6 +954,7 @@ Mentions:
 Related Nodes: N-10000, N-11015
 Tags: relevance:core
 Investigative Direction: Obtain event ticketing, pledge records or TPUSA statements on the Mar-a-Lago event proceeds.
+Open Questions: Q-373
 
 ---
 
@@ -965,6 +971,7 @@ Mentions: N-1
 Related Nodes: N-10000, N-11015
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA's Form 990 filings, donor disclosures and public fundraising statements.
+Open Questions: Q-373
 
 ---
 
@@ -998,6 +1005,7 @@ Mentions: N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Review the full Fox interview transcript and list any specific allegations Erika addressed.
+Open Questions: Q-307, Q-396
 
 ---
 
@@ -1047,6 +1055,7 @@ Related Nodes: N-10000
 Supports: C-2730
 Tags: relevance:core
 Investigative Direction: Obtain the list of 20 lies and test each against primary records.
+Open Questions: Q-398
 
 ---
 
@@ -1095,6 +1104,7 @@ Mentions: N-22, N-146
 Related Nodes: N-10014
 Tags: relevance:core
 Investigative Direction: Review the Theo Von episode for the full exchange and its release date.
+Open Questions: Q-21
 
 ---
 
@@ -1112,6 +1122,7 @@ Related Nodes: N-10239
 Qualifies: C-3923
 Tags: relevance:core
 Investigative Direction: Ask Carlson what basis he has for calling the Egyptian-registration claim true and whether he saw flight records.
+Open Questions: Q-399
 
 ---
 
@@ -1161,6 +1172,7 @@ Related Nodes: N-10239
 Supports: C-3923
 Tags: relevance:core
 Investigative Direction: Ask Carlson whether his confirmation came from government sources or from the host's published flight data.
+Open Questions: Q-399
 
 ---
 
@@ -1177,6 +1189,7 @@ Mentions: N-22, N-146
 Related Nodes: N-10014
 Tags: relevance:core
 Investigative Direction: Compare with the charging documents on whether any accomplice is alleged.
+Open Questions: Q-21
 
 ---
 
@@ -1193,6 +1206,7 @@ Mentions: N-22
 Related Nodes: N-10014
 Tags: relevance:core
 Investigative Direction: Review prosecution filings for any evidence of the suspect's radicalization path.
+Open Questions: Q-183
 
 ---
 
@@ -1225,6 +1239,7 @@ Mentions: N-2, N-278
 Related Nodes: N-11078, N-10239, N-10313
 Tags: relevance:core
 Investigative Direction: Obtain the CBS town hall footage and the photos Erika Kirk says prove she was pregnant and elsewhere.
+Open Questions: Q-236
 
 ---
 
@@ -1242,6 +1257,7 @@ Related Nodes: N-11078, N-10239
 Supports: C-3522
 Tags: relevance:core
 Investigative Direction: Check the host's earlier episodes on the planes to confirm she framed them as following, not carrying, Erika.
+Open Questions: Q-236
 
 ---
 
@@ -1258,6 +1274,7 @@ Mentions: N-2, N-278
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Obtain the town hall footage and exact wording of Weiss's question and Erika's answer.
+Open Questions: Q-396
 
 ---
 
@@ -1291,6 +1308,7 @@ Related Nodes:
 Supports: C-1540
 Tags: relevance:core
 Investigative Direction: Identify the source messages or communications behind each of these reported last statements.
+Open Questions: Q-400
 
 ---
 
@@ -1308,6 +1326,7 @@ Related Nodes: N-10305
 Qualifies: C-3836
 Tags: relevance:core
 Investigative Direction: Compare the host's raw call notes with the published account to confirm the rank given.
+Open Questions: Q-390
 
 ---
 
@@ -1341,6 +1360,7 @@ Related Nodes: N-10342
 Supports: C-3833
 Tags: relevance:core
 Investigative Direction: Request base access-control or visitor records for September 8-9, 2025.
+Open Questions: Q-386
 
 ---
 
@@ -1358,6 +1378,7 @@ Related Nodes: N-10305
 Qualifies: C-3944
 Tags: relevance:core
 Investigative Direction: Independently verify Adam Neff's identity and assignment through Army records.
+Open Questions: Q-401
 
 ---
 
@@ -1375,6 +1396,7 @@ Related Nodes: N-10305
 Supports: C-3944
 Tags: relevance:core
 Investigative Direction: Check Army records for Captain Adam Neff's unit and whether any 10th Mountain element was at Fort Huachuca on September 9, 2025.
+Open Questions: Q-401
 
 ---
 
@@ -1392,6 +1414,7 @@ Related Nodes: N-10305
 Supports: C-3945
 Tags: relevance:core
 Investigative Direction: Ask the host's sources to confirm the building through a trusted intermediary or public base maps.
+Open Questions: Q-389
 
 ---
 
@@ -1408,6 +1431,7 @@ Mentions: N-3, N-360
 Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: Have an independent party review the documentation and verify the hotel and time records.
+Open Questions: Q-386
 
 ---
 
@@ -1441,6 +1465,7 @@ Mentions: N-360
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Obtain the military police incident report and ask Captain Neff about the stated reason for detaining him.
+Open Questions: Q-392
 
 ---
 
@@ -1458,6 +1483,7 @@ Related Nodes: N-10305
 Supports: C-3840
 Tags: relevance:core
 Investigative Direction: Request the military police incident record for the detention start and end times.
+Open Questions: Q-392
 
 ---
 
@@ -1475,6 +1501,7 @@ Related Nodes: N-10305
 Supports: C-3836
 Tags: relevance:core
 Investigative Direction: Ask the witness on the record what he saw and why he drew that inference.
+Open Questions: Q-390
 
 ---
 
@@ -1492,6 +1519,7 @@ Related Nodes: N-10311
 Supports: C-3952
 Tags: relevance:core
 Investigative Direction: Obtain the ADS-B or flight-history records the team used to verify the tail number and dates.
+Open Questions: Q-402
 
 ---
 
@@ -1508,6 +1536,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10311
 Tags: relevance:core
 Investigative Direction: Pull flight-tracking history for El Paso departures on September 10, 2025.
+Open Questions: Q-402, Q-403
 
 ---
 
@@ -1525,6 +1554,7 @@ Related Nodes: N-10305, N-10311
 Supports: C-3833
 Tags: relevance:core
 Investigative Direction: Compare the tip's flight times against the witness's reported 7:37 AM entry and later detention.
+Open Questions: Q-390, Q-402
 
 ---
 
@@ -1558,6 +1588,7 @@ Related Nodes: N-10305
 Qualifies: C-3944
 Tags: relevance:core
 Investigative Direction: Have the witness identify the captain from an unlabeled photo array in a documented process.
+Open Questions: Q-401
 
 ---
 
@@ -1575,6 +1606,7 @@ Related Nodes: N-10311
 Qualifies: C-3952
 Tags: relevance:core
 Investigative Direction: Both times come from the same tipster email: at 00:44:18 the host reads "at 12:31 p.m. on September 9th, it flies from Fort Huachuca to El Paso"; at 00:47:10 the email's conclusion gives "leaving at 11:43 a.m.". A Fort Huachuca to El Paso Gulfstream V hop is about 45-50 minutes, so 11:43 is most likely the departure and 12:31 the El Paso arrival (or the tracker's leg time), not two conflicting departures. Confirm against ADS-B Exchange history for 99-044.
+Open Questions: Q-402
 
 ---
 
@@ -1591,6 +1623,7 @@ Mentions:
 Related Nodes: N-10311
 Tags: relevance:core
 Investigative Direction: Search historical flight data for other visits of tail 99-044 to Fort Huachuca.
+Open Questions: Q-402
 
 ---
 
@@ -1607,6 +1640,7 @@ Mentions: N-360, N-3
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Ask the witness what words and documents led him to call it a finalization meeting.
+Open Questions: Q-390
 
 ---
 
@@ -1624,6 +1658,7 @@ Related Nodes: N-10311
 Supports: C-3962
 Tags: relevance:core
 Investigative Direction: Obtain the full call-sign column from the flight log shown on screen.
+Open Questions: Q-402
 
 ---
 
@@ -1640,6 +1675,7 @@ Mentions: N-67
 Related Nodes: N-10311
 Tags: relevance:core
 Investigative Direction: Verify Venus call-sign usage against military flight-operations references.
+Open Questions: Q-402
 
 ---
 
@@ -1723,6 +1759,7 @@ Related Nodes: N-10272
 Supports: C-3576
 Tags: relevance:core
 Investigative Direction: Ask the FBI whether it has contacted the host about her information.
+Open Questions: Q-346, Q-382
 
 ---
 
@@ -1740,6 +1777,7 @@ Related Nodes: N-10239
 Supports: C-3619
 Tags: relevance:core
 Investigative Direction: Review public TPUSA and Charlie Kirk Show statements on the Egyptian planes.
+Open Questions: Q-236, Q-307
 
 ---
 
@@ -1757,6 +1795,7 @@ Related Nodes: N-10347
 Qualifies: C-3837
 Tags: relevance:core
 Investigative Direction: Seek independent corroboration of Harpole's presence at Fort Huachuca on September 9, 2025.
+Open Questions: Q-386, Q-390, Q-391
 
 ---
 
@@ -1773,6 +1812,7 @@ Mentions: N-360
 Related Nodes: N-10312
 Tags: relevance:core
 Investigative Direction: Ask the witness whom he believes he saw in the truck.
+Open Questions: Q-388
 
 ---
 
@@ -1789,6 +1829,7 @@ Mentions: N-3
 Related Nodes: N-10312
 Tags: relevance:core
 Investigative Direction: Check the tip inbox for submissions on Candlewood Suites footage.
+Open Questions: Q-388
 
 ---
 

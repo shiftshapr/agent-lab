@@ -1004,6 +1004,7 @@ Related Nodes: N-10699
 Supports: C-11062
 Tags: relevance:core
 Investigative Direction: Obtain the original photograph of the door compartment and the SUV's evidence inventory to establish what the object is.
+Open Questions: Q-1045
 
 ---
 
@@ -1020,6 +1021,7 @@ Mentions: N-190, N-1, N-3
 Related Nodes: N-10209
 Tags: relevance:core
 Investigative Direction: Obtain McCoy's full recording set for the week of September 10 and its metadata to establish provenance and filming dates.
+Open Questions: Q-1046
 
 ---
 
@@ -1037,6 +1039,7 @@ Related Nodes: N-10699, N-10636
 Supports: C-11065
 Tags: relevance:core
 Investigative Direction: Establish the seating chart of the SUV from the occupants' own accounts and any interior photographs.
+Open Questions: Q-882, Q-1045
 
 ---
 
@@ -1053,6 +1056,7 @@ Mentions: N-266
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Locate the Harpole interview where the nurse account is given and identify the nurse and hospital staff present.
+Open Questions: Q-882
 
 ---
 
@@ -1070,6 +1074,7 @@ Related Nodes: N-10636
 Supports: C-10324
 Tags: relevance:core
 Investigative Direction: Compare Harpole's and Cutler's own recorded accounts of who did what during the ride.
+Open Questions: Q-882, Q-1045
 
 ---
 
@@ -1086,6 +1091,7 @@ Mentions: N-487, N-7
 Related Nodes: N-10626
 Tags: relevance:core
 Investigative Direction: Ask hospital staff and the group to confirm who changed clothes, and obtain any hospital security video of the entrance.
+Open Questions: Q-1047
 
 ---
 
@@ -1102,6 +1108,7 @@ Mentions: N-487, N-3
 Related Nodes: N-10626, N-10014
 Tags: relevance:core
 Investigative Direction: Request FBI evidence-receipt records for clothing taken from Cutler and others at the hospital.
+Open Questions: Q-1047
 
 ---
 
@@ -1119,6 +1126,7 @@ Related Nodes: N-10636
 Supports: C-10231
 Tags: relevance:core
 Investigative Direction: Obtain ER staff statements and the hospital's trauma-bay record for who treated Kirk on arrival.
+Open Questions: Q-1042
 
 ---
 
@@ -1135,6 +1143,7 @@ Mentions: N-266, N-3
 Related Nodes: N-10619, N-10636
 Tags: relevance:core
 Investigative Direction: Pull the Shawn Ryan interview and transcribe Harpole's exact words about the medical response.
+Open Questions: Q-882, Q-1042
 
 ---
 
@@ -1153,6 +1162,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-13097
 Investigative Direction: Review the FBI DNA report on the screwdriver (listed in sealed exhibits) for the contributor profiles.
+Open Questions: Q-971
 
 ---
 
@@ -1170,6 +1180,7 @@ Related Nodes: N-10321
 Supports: C-644
 Tags: relevance:core
 Investigative Direction: Obtain the rifle's disassembly specifications and the exhibit photographs of the screwdriver and screw heads.
+Open Questions: Q-1048
 
 ---
 
@@ -1189,6 +1200,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Compare the 12:44 arrival with the 12:47 bystander clip and with the preliminary-hearing transcript.
+Open Questions: Q-972
 
 ---
 
@@ -1206,6 +1218,7 @@ Related Nodes: N-10661, N-10014
 Supports: C-11696
 Tags: relevance:core
 Investigative Direction: Obtain the scene access log and FBI arrival documents to test who was authorized on the rooftop at 12:44.
+Open Questions: Q-927, Q-1049
 
 ---
 
@@ -1223,6 +1236,7 @@ Related Nodes: N-10014, N-10071
 Supports: C-10507
 Tags: relevance:core
 Investigative Direction: Obtain FBI office addresses and the dispatch/arrival logs for September 10 to test the 16-minute figure.
+Open Questions: Q-927
 
 ---
 
@@ -1239,6 +1253,7 @@ Mentions: N-3
 Related Nodes: N-10014, N-10071
 Tags: relevance:core
 Investigative Direction: Confirm the Provo FBI resident-agency headcount and location through FBI records or FOIA.
+Open Questions: Q-927
 
 ---
 
@@ -1255,6 +1270,7 @@ Mentions: N-3, N-506
 Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Ask the host for the original submission, sender and metadata of the 12:47 bystander clip.
+Open Questions: Q-1050, Q-1051
 
 ---
 
@@ -1271,6 +1287,7 @@ Mentions: N-748, N-3
 Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Review the early scene footage for Robertson giving directions and compare to the incident command roster.
+Open Questions: Q-1052
 
 ---
 
@@ -1287,6 +1304,7 @@ Mentions: N-748
 Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.
+Open Questions: Q-1052
 
 ---
 
@@ -1303,6 +1321,7 @@ Mentions: N-506
 Related Nodes: N-10660
 Tags: relevance:core
 Investigative Direction: Obtain the UVU police body-camera model specifications and the device's battery and docking logs.
+Open Questions: Q-973
 
 ---
 
@@ -1319,6 +1338,7 @@ Mentions: N-748, N-261, N-506
 Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Interview officers at the scene about who directed the rooftop response and obtain the command roster.
+Open Questions: Q-1052
 
 ---
 
@@ -1399,6 +1419,7 @@ Mentions: N-748, N-3
 Related Nodes: N-10700
 Tags: relevance:core
 Investigative Direction: Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.
+Open Questions: Q-1053
 
 ---
 
@@ -1415,6 +1436,7 @@ Mentions: N-748, N-3
 Related Nodes: N-10700
 Tags: relevance:core
 Investigative Direction: Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.
+Open Questions: Q-1053
 
 ---
 
@@ -1431,6 +1453,7 @@ Mentions: N-3, N-748
 Related Nodes: N-10700
 Tags: relevance:core,DIA
 Investigative Direction: Review incoming tips about Robertson for named, checkable sources and corroborate before relying on them.
+Open Questions: Q-1053
 
 ---
 
@@ -1463,6 +1486,7 @@ Mentions: N-748, N-3
 Related Nodes: N-10661, N-10700
 Tags: relevance:core
 Investigative Direction: Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.
+Open Questions: Q-972, Q-1053
 
 ---
 
@@ -1576,6 +1600,7 @@ Related Nodes: N-11046, N-10494
 Supports: C-8010
 Tags: relevance:core
 Investigative Direction: This is an inference; it would need documentary evidence of a link between Kirk's Iran stance and the shooting.
+Open Questions: Q-17
 
 ---
 
@@ -1624,6 +1649,7 @@ Mentions: N-159, N-1, N-5, N-2
 Related Nodes: N-10494, N-10000
 Tags: relevance:core
 Investigative Direction: Locate Neff's statement (platform and date) and quote it in full.
+Open Questions: Q-491
 
 ---
 
@@ -1640,6 +1666,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10000, N-10494
 Tags: relevance:core
 Investigative Direction: Locate the original appearance and confirm the quote and date.
+Open Questions: Q-491
 
 ---
 
@@ -1656,6 +1683,7 @@ Mentions: N-1
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Source the original clip (date, outlet) and confirm context.
+Open Questions: Q-491
 
 ---
 
@@ -1672,6 +1700,7 @@ Mentions: N-1
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Source the original clip and confirm the date and surrounding remarks.
+Open Questions: Q-491
 
 ---
 
@@ -1688,6 +1717,7 @@ Mentions: N-1
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Source the original clip and confirm the date.
+Open Questions: Q-491
 
 ---
 
@@ -1705,6 +1735,7 @@ Related Nodes: N-10000
 Supports: C-4026
 Tags: relevance:core
 Investigative Direction: Compare the prosecution's exhibits placing Robinson on campus and any gender-identity evidence against the host's assertion.
+Open Questions: Q-110, Q-1054
 
 ---
 
@@ -1753,6 +1784,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10677
 Tags: relevance:core
 Investigative Direction: Identify the specific individuals and statements the host means; her named claims across episodes are the testable ones.
+Open Questions: Q-1055
 
 ---
 
@@ -1769,6 +1801,7 @@ Mentions: N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Compare the host's pre-hearing claims with the hearing transcript.
+Open Questions: Q-1056
 
 ---
 
@@ -1786,6 +1819,7 @@ Related Nodes: N-11224
 Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary-hearing exhibit list and transcript for any video depicting the shot.
+Open Questions: Q-938
 
 ---
 
@@ -1803,6 +1837,7 @@ Related Nodes: N-11224
 Supports: C-11532
 Tags: relevance:core
 Investigative Direction: Gather the original statements by influencers and TPUSA about the 4K footage and compare their wording.
+Open Questions: Q-1057
 
 ---
 
@@ -1820,6 +1855,7 @@ Related Nodes: N-11224
 Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Locate the original posts or broadcasts with the 4K claim and quote the speaker verbatim.
+Open Questions: Q-1057
 
 ---
 
@@ -1836,6 +1872,7 @@ Mentions: N-3
 Related Nodes: N-11224
 Tags: relevance:core
 Investigative Direction: Identify which video the host means and its source.
+Open Questions: Q-938
 
 ---
 
@@ -1869,6 +1906,7 @@ Related Nodes: N-10666, N-10000
 Tags: relevance:core
 Revises: C-11033
 Investigative Direction: Use the hotel registration and booking records the host says she has; test them against Neff's statements.
+Open Questions: Q-1058
 
 ---
 

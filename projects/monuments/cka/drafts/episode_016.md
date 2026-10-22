@@ -1762,6 +1762,7 @@ Related Nodes: N-10198
 Supports: C-1431
 Tags: relevance:core
 Investigative Direction: Kolvet's confirmation (C-1431) already authenticates the screen grab; ask him or TPUSA whether the full chain matches the one the host released.
+Open Questions: Q-146
 
 ---
 
@@ -1778,6 +1779,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10198, N-10586
 Tags: relevance:core
 Investigative Direction: Obtain the Charlie Kirk Show audio and date; ask Kolvet why he judged the exchange inconsistent with Kirk's public position.
+Open Questions: Q-146
 
 ---
 
@@ -1794,6 +1796,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to list the leads it has pursued and any investigators it hired; compare with the host's account of TPUSA hostility to her inquiries.
+Open Questions: Q-98
 
 ---
 
@@ -1810,6 +1813,7 @@ Mentions: N-14
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Compare with flight and itinerary records for Kolvet on September 10 and 11, 2025 and with his later tarmac account.
+Open Questions: Q-167
 
 ---
 
@@ -1825,6 +1829,7 @@ Anchored Artifacts: A-1228.3
 Mentions: N-14, N-1
 Tags: relevance:core
 Investigative Direction: Compare with later statements from Kolvet and other TPUSA staff about people who question the official account.
+Open Questions: Q-98
 
 ---
 
@@ -1841,6 +1846,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: List the public occasions where Kirk voiced these frustrations and compare with the dated texts.
+Open Questions: Q-145
 
 ---
 
@@ -1857,6 +1863,7 @@ Mentions: N-14, N-159, N-1
 Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and Neff for the tour prep notes or messages about the Israel question.
+Open Questions: Q-168
 
 ---
 
@@ -1873,6 +1880,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Search the host's prior episodes for any statement attributing the killing to Israel; this is the host's own account of her position.
+Open Questions: Q-169
 
 ---
 
@@ -1904,6 +1912,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Ask the host for named, on-the-record members of each group; compare with the Mappin letter (C-1501).
+Open Questions: Q-170
 
 ---
 
@@ -1920,6 +1929,7 @@ Mentions: N-11, N-99, N-14, N-1
 Related Nodes: N-10160
 Tags: relevance:core
 Investigative Direction: Collect Bowyer and Clark posts from the days before to see whether they attacked people asking questions.
+Open Questions: Q-98
 
 ---
 
@@ -1937,6 +1947,7 @@ Related Nodes: N-10933
 Supports: C-1445
 Tags: relevance:core
 Investigative Direction: Ask the three sources, through the host, to go on the record or produce the written communication two of them reportedly hold.
+Open Questions: Q-171
 
 ---
 
@@ -1953,6 +1964,7 @@ Mentions: N-3
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Establish the date the host received the chain; the host has not published it on air. Compare with Fuentes's four-week question (C-1421).
+Open Questions: Q-146
 
 ---
 
@@ -1986,6 +1998,7 @@ Related Nodes: N-10179
 Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Establish the dates of the messages in the chain; the host's phrasing is ambiguous, so confirm what the 48 hours measures.
+Open Questions: Q-145, Q-146
 
 ---
 
@@ -2001,6 +2014,7 @@ Anchored Artifacts: A-3184.1
 Mentions: N-55, N-1, N-36
 Tags: relevance:core
 Investigative Direction: Compare with the claim that Netanyahu's office released the letter weeks after Kirk's death (C-1133); ask Hammer how he read it in June or July.
+Open Questions: Q-53
 
 ---
 
@@ -2017,6 +2031,7 @@ Mentions: N-55, N-1, N-36
 Related Nodes: N-10018
 Tags: relevance:core
 Investigative Direction: Obtain the authenticated letter and check its opening line; compare with C-1133 and C-1134, which question its provenance.
+Open Questions: Q-53
 
 ---
 
@@ -2126,6 +2141,7 @@ Anchored Artifacts: A-1229.1
 Mentions: N-153, N-1, N-204
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy or surgeon account of the time of death and the hospital records; O'Neill's remark is a lay reading of the video.
+Open Questions: Q-149
 
 ---
 
@@ -2142,6 +2158,7 @@ Mentions: N-153, N-1
 Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-1116).
+Open Questions: Q-138
 
 ---
 
@@ -2158,6 +2175,7 @@ Mentions: N-153, N-1
 Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1461).
+Open Questions: Q-27
 
 ---
 
@@ -2175,6 +2193,7 @@ Related Nodes: N-10074
 Supports: C-300
 Tags: relevance:core
 Investigative Direction: Compare the indictment text with Robinson's other messages and with linguistic analysis of the chain.
+Open Questions: Q-134
 
 ---
 
@@ -2192,6 +2211,7 @@ Related Nodes: N-10128
 Supports: C-1325
 Tags: relevance:core
 Investigative Direction: The host names no specific lie in this passage; map it to the specific statements she disputes later in the episode.
+Open Questions: Q-151
 
 ---
 
@@ -2208,6 +2228,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10165
 Tags: relevance:core
 Investigative Direction: The host presents it as a belief; look for any evidence she cites later and compare with her C-1181 hunch about a military operation by people from overseas.
+Open Questions: Q-152
 
 ---
 
@@ -2224,6 +2245,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10165
 Tags: relevance:core
 Investigative Direction: Identify the decoy persons and the footage she relies on; the host calls this a theory and a hunch.
+Open Questions: Q-136, Q-152
 
 ---
 
@@ -2240,6 +2262,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10040, N-10165
 Tags: relevance:core
 Investigative Direction: Obtain the FBI release metadata for the stairs photo and any earlier-dated copies.
+Open Questions: Q-112
 
 ---
 
@@ -2256,6 +2279,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10165, N-10698
 Tags: relevance:core
 Investigative Direction: Obtain the rooftop footage, the ballistics trajectory report and the scene survey; compare with the rooftop-runner witness claims in episode 10.
+Open Questions: Q-27, Q-136
 
 ---
 
@@ -2272,6 +2296,7 @@ Mentions: N-42, N-3
 Related Nodes: N-10165, N-10032
 Tags: relevance:core
 Investigative Direction: Ask the host to identify each decoy by footage time and to say who she thinks fired; verify each against official release materials.
+Open Questions: Q-28, Q-136, Q-161
 
 ---
 
@@ -2288,6 +2313,7 @@ Mentions: N-54, N-40
 Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Compare heights and builds from known photographs of Twiggs and Robinson with the maroon-shirt footage, and confirm Twiggs's whereabouts that morning.
+Open Questions: Q-172
 
 ---
 
@@ -2304,6 +2330,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10669, N-10019
 Tags: relevance:core
 Investigative Direction: Obtain vehicle, license plate reader and campus camera records for Robinson's movements on September 10.
+Open Questions: Q-94, Q-173
 
 ---
 
@@ -2320,6 +2347,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Identify the source of the dumping sighting and any Dairy Queen or cemetery camera footage and receipts.
+Open Questions: Q-173
 
 ---
 
@@ -2368,6 +2396,7 @@ Mentions: N-54, N-40
 Related Nodes: N-10545, N-10041, N-10013
 Tags: relevance:core
 Investigative Direction: Look for records of any federal contact with Twiggs; the host labels this a guess and offers no document.
+Open Questions: Q-174
 
 ---
 
@@ -2385,6 +2414,7 @@ Related Nodes: N-10033
 Contradicts: C-136
 Tags: relevance:core
 Investigative Direction: Obtain the press conference transcript, the search warrant return and bodycam or interview logs showing what Lance handed over and when he was released.
+Open Questions: Q-174
 
 ---
 
@@ -2401,6 +2431,7 @@ Mentions: N-125, N-40
 Related Nodes: N-10146
 Tags: relevance:core
 Investigative Direction: Compare with episode 11 accounts of a retired detective's call and with the warrant affidavit and its timeline.
+Open Questions: Q-133, Q-175
 
 ---
 
@@ -2417,6 +2448,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10138, N-10039
 Tags: relevance:core
 Investigative Direction: Obtain the search warrant inventory and any chain of custody for the note, the photo metadata and the iCloud record.
+Open Questions: Q-175
 
 ---
 
@@ -2433,6 +2465,7 @@ Mentions: N-54
 Related Nodes: N-10041
 Tags: relevance:core
 Investigative Direction: Check public sightings of Twiggs and any family statements about contact since the raid; compare with the family's account (C-1480).
+Open Questions: Q-174
 
 ---
 
@@ -2450,6 +2483,7 @@ Related Nodes: N-10040, N-10161
 Supports: C-348
 Tags: relevance:core
 Investigative Direction: Compare gait, build and clothing in the maroon-shirt footage and the limping-person footage.
+Open Questions: Q-136, Q-172
 
 ---
 
@@ -2467,6 +2501,7 @@ Related Nodes: N-10166, N-10163
 Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Obtain any records of payment to Zinn and the tip source for his federal connections; the host says she has not yet confirmed the tip.
+Open Questions: Q-28
 
 ---
 
@@ -2483,6 +2518,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Ask the host for the number of such people and her sources; compare with FBI and county witness lists.
+Open Questions: Q-176
 
 ---
 
@@ -2500,6 +2536,7 @@ Related Nodes: N-10128
 Supports: C-1325
 Tags: relevance:core
 Investigative Direction: Identify any gag order, non-disclosure request or agency instruction to witnesses and compare with court dockets.
+Open Questions: Q-176
 
 ---
 
@@ -2593,6 +2630,7 @@ Related Nodes: N-10103
 Supports: C-1465
 Tags: relevance:core
 Investigative Direction: Obtain UVU work orders and photographs of the site showing when cleanup and paving occurred.
+Open Questions: Q-177
 
 ---
 
@@ -2669,6 +2707,7 @@ Mentions: N-3, N-1
 Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Ask the host to publish the roster or give it to a named reviewer; compare against the security firm and personnel lists in episodes 13 and 60.
+Open Questions: Q-156
 
 ---
 
@@ -2718,6 +2757,7 @@ Related Nodes: N-10933
 Supports: C-1445
 Tags: relevance:core
 Investigative Direction: Obtain the Turek podcast clip and the three sources' written communication; compare dates against the claim that Kirk feared being killed the day before.
+Open Questions: Q-171
 
 ---
 

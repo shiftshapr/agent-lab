@@ -950,6 +950,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Compile the specific federal statements the host considers false and test each against court filings and the charging documents.
+Open Questions: Q-151
 
 ---
 
@@ -966,6 +967,7 @@ Mentions: N-40, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Locate the original X post; compare TPUSA leaders' public statements on the official narrative and on forgiveness.
+Open Questions: Q-98
 
 ---
 
@@ -982,6 +984,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Collect the influencer statements that cite Erika's grief and any statement from Erika herself on questions about the case.
+Open Questions: Q-98
 
 ---
 
@@ -998,6 +1001,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare the host's earlier episodes with this one to see which TPUSA statements she previously let pass.
+Open Questions: Q-98
 
 ---
 
@@ -1078,6 +1082,7 @@ Mentions: N-1
 Related Nodes: N-10217
 Tags: relevance:core
 Investigative Direction: Check photographs and evidence inventories for the pendant and prior reporting that it was worn.
+Open Questions: Q-163
 
 ---
 
@@ -1094,6 +1099,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Identify the bishop and the publication that reported the visit; confirm the date and location.
+Open Questions: Q-163
 
 ---
 
@@ -1126,6 +1132,7 @@ Mentions: N-14, N-99, N-1, N-3
 Related Nodes: N-10000, N-10100
 Tags: relevance:core
 Investigative Direction: Establish what TPUSA staff knew about Kirk's mass attendance and when each statement was made.
+Open Questions: Q-163
 
 ---
 
@@ -1240,6 +1247,7 @@ Mentions: N-17, N-3, N-1
 Related Nodes: N-10159
 Tags: relevance:core
 Investigative Direction: Compare McCoy's full Instagram text with the host's interpretation.
+Open Questions: Q-98
 
 ---
 
@@ -1256,6 +1264,7 @@ Mentions: N-17, N-3
 Related Nodes: N-10159, N-10000
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff pages and filings for the family members and McCoy's faith division title.
+Open Questions: Q-164
 
 ---
 
@@ -1288,6 +1297,7 @@ Mentions: N-17, N-1, N-3
 Related Nodes: N-10157, N-10026
 Tags: relevance:core
 Investigative Direction: Authenticate the group chat and McCoy's participation; ask McCoy about what he knew.
+Open Questions: Q-145, Q-164
 
 ---
 
@@ -1304,6 +1314,7 @@ Mentions: N-17, N-1, N-3
 Related Nodes: N-10157
 Tags: relevance:core
 Investigative Direction: Forensic review of the chat export for membership, numbers and handles.
+Open Questions: Q-146
 
 ---
 
@@ -1320,6 +1331,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10016, N-10157
 Tags: relevance:core
 Investigative Direction: Compare attendees' accounts of the Hamptons meeting with the chat and other records.
+Open Questions: Q-9
 
 ---
 
@@ -1336,6 +1348,7 @@ Mentions: N-3
 Related Nodes: N-10157
 Tags: relevance:core
 Investigative Direction: Identify chat members' roles; the host has not named the rabbi.
+Open Questions: Q-146
 
 ---
 
@@ -1369,6 +1382,7 @@ Related Nodes: N-10096, N-10734
 Supports: C-711
 Tags: relevance:core
 Investigative Direction: Obtain video timing of the SD card removal and identify the staffer; compare against crime-scene entry logs.
+Open Questions: Q-63
 
 ---
 
@@ -1401,6 +1415,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10096, N-10734
 Tags: relevance:core
 Investigative Direction: Identify the staffer and role at TPUSA; the host later says she spoke with him.
+Open Questions: Q-63
 
 ---
 
@@ -1465,6 +1480,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10734
 Tags: relevance:core
 Investigative Direction: Ask the host which footage she saw and from whom; request TPUSA's retained footage inventory.
+Open Questions: Q-144
 
 ---
 
@@ -1498,6 +1514,7 @@ Related Nodes: N-10156
 Contradicts: C-711
 Tags: relevance:core
 Investigative Direction: Request UVU police and FBI records on any instruction to TPUSA staff; compare Bowyer's tweet with earlier statements.
+Open Questions: Q-63, Q-165
 
 ---
 
@@ -1530,6 +1547,7 @@ Mentions: N-11, N-40
 Related Nodes: N-10158
 Tags: relevance:core
 Investigative Direction: Locate the original post and any FOIA or evidence requests for this footage.
+Open Questions: Q-165
 
 ---
 
@@ -1547,6 +1565,7 @@ Related Nodes: N-10158
 Supports: C-353
 Tags: relevance:core
 Investigative Direction: Compare the FBI's manhunt-era releases with the footage inventory later cited by Bowyer.
+Open Questions: Q-165
 
 ---
 
@@ -1596,6 +1615,7 @@ Related Nodes: N-10127
 Supports: C-896
 Tags: relevance:core
 Investigative Direction: Compare the host's earlier on-air email with the September 2 memo and Clark's post.
+Open Questions: Q-101
 
 ---
 
@@ -1612,6 +1632,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11015, N-10000
 Tags: relevance:core
 Investigative Direction: Look for TPUSA and TP Action fundraising disclosures covering September 10-24, 2025.
+Open Questions: Q-148
 
 ---
 
@@ -1628,6 +1649,7 @@ Mentions: N-99, N-1, N-3
 Related Nodes: N-11016
 Tags: relevance:core
 Investigative Direction: Obtain the WSJ article, photographer credit and shoot date.
+Open Questions: Q-166
 
 ---
 
@@ -1644,6 +1666,7 @@ Mentions: N-99, N-1
 Related Nodes: N-11016
 Tags: relevance:core
 Investigative Direction: Check the WSJ original image and caption data.
+Open Questions: Q-166
 
 ---
 
@@ -1708,6 +1731,7 @@ Related Nodes: N-10127
 Supports: C-896
 Tags: relevance:core
 Investigative Direction: Compare the full memo against the portions the host aired.
+Open Questions: Q-101
 
 ---
 

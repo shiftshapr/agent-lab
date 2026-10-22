@@ -1282,6 +1282,7 @@ Related Nodes: N-10809, N-10021
 Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Collect the original statements from the named influencers that the father turned Robinson in over a confession and compare them with the plea record.
+Open Questions: Q-44, Q-91
 
 ---
 
@@ -1299,6 +1300,7 @@ Related Nodes: N-10021
 Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Identify the host's source for the father's account and look for any on-record statement by the Robinson family.
+Open Questions: Q-34, Q-44
 
 ---
 
@@ -1348,6 +1350,7 @@ Related Nodes: N-10021
 Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Locate the written parental statements, if any exist in the court record, and the posts first making the claim.
+Open Questions: Q-44
 
 ---
 
@@ -1365,6 +1368,7 @@ Related Nodes: N-10021
 Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Seek the probable-cause affidavit or police reports for the circumstances and timing of the surrender and any SWAT staging.
+Open Questions: Q-34
 
 ---
 
@@ -1381,6 +1385,7 @@ Mentions: N-40, N-54
 Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Compare earlier posts and shows by the influencers with this later framing; check the charging documents for any alleged confession to Twiggs.
+Open Questions: Q-47
 
 ---
 
@@ -1397,6 +1402,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10578
 Tags: relevance:core
 Investigative Direction: Find on-record statements from the parents and grandparents; the grandfather's courthouse remarks are covered in earlier episodes.
+Open Questions: Q-44, Q-91
 
 ---
 
@@ -1413,6 +1419,7 @@ Mentions: N-1, N-952
 Related Nodes: N-10743, N-11237
 Tags: relevance:core
 Investigative Direction: Match the named security members to vehicles using the security testimony, TPUSA staff lists and the video; confirm the spelling of Faria.
+Open Questions: Q-1132
 
 ---
 
@@ -1429,6 +1436,7 @@ Mentions: N-3
 Related Nodes: N-11237, N-10743
 Tags: relevance:core
 Investigative Direction: Check whether tips arrived identifying the men and whether later episodes name them.
+Open Questions: Q-1132
 
 ---
 
@@ -1445,6 +1453,7 @@ Mentions: N-492, N-270, N-266
 Related Nodes: N-10743
 Tags: relevance:core
 Investigative Direction: Cross-check the vehicle assignments against Harpole's and Flood's own accounts and against hospital arrival video.
+Open Questions: Q-1132
 
 ---
 
@@ -1461,6 +1470,7 @@ Mentions: N-492, N-1
 Related Nodes: N-10746, N-10624
 Tags: relevance:core
 Investigative Direction: Compare against testimony and hospital footage about who drove Kirk and in which vehicle.
+Open Questions: Q-1133
 
 ---
 
@@ -1477,6 +1487,7 @@ Mentions: N-1
 Related Nodes: N-10743, N-10979
 Tags: relevance:core
 Investigative Direction: Obtain security testimony on who traveled with Kirk and who was already at UVU.
+Open Questions: Q-1134
 
 ---
 
@@ -1493,6 +1504,7 @@ Mentions: N-1, N-190
 Related Nodes: N-10743, N-10744
 Tags: relevance:core
 Investigative Direction: Identify Christopher's full name and role through TPUSA security rosters and testimony.
+Open Questions: Q-1132, Q-1134
 
 ---
 
@@ -1509,6 +1521,7 @@ Mentions: N-367, N-159
 Related Nodes: N-10743, N-10651
 Tags: relevance:core
 Investigative Direction: Confirm seating from arrival video and from Neff's and Phillip's testimony.
+Open Questions: Q-1132
 
 ---
 
@@ -1525,6 +1538,7 @@ Mentions: N-159, N-367, N-1
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Compare Neff's testimony and public statements about his arrival with his itinerary records.
+Open Questions: Q-1134, Q-1135
 
 ---
 
@@ -1541,6 +1555,7 @@ Mentions: N-3
 Related Nodes: N-10743
 Tags: relevance:core
 Investigative Direction: Identify the Palisade's driver and registration from video and TPUSA vehicle records.
+Open Questions: Q-1132
 
 ---
 
@@ -1557,6 +1572,7 @@ Mentions: N-1, N-492
 Related Nodes: N-10745
 Tags: relevance:core
 Investigative Direction: Time the sequence from the shot to loading using the available footage.
+Open Questions: Q-1108, Q-1133
 
 ---
 
@@ -1574,6 +1590,7 @@ Related Nodes: N-10318
 Supports: C-12669
 Tags: relevance:core
 Investigative Direction: Identify who is making the claim and when it first appeared.
+Open Questions: Q-1134
 
 ---
 
@@ -1590,6 +1607,7 @@ Mentions: N-1
 Related Nodes: N-10744
 Tags: relevance:core
 Investigative Direction: Confirm Christopher's role on Kirk's detail from security testimony.
+Open Questions: Q-1134
 
 ---
 
@@ -1606,6 +1624,7 @@ Mentions: N-330, N-504, N-3
 Related Nodes: N-10744
 Tags: relevance:core
 Investigative Direction: Obtain the original TikTok post and uploader and verify date and location metadata.
+Open Questions: Q-1136
 
 ---
 
@@ -1622,6 +1641,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10743, N-11131
 Tags: relevance:core
 Investigative Direction: Compare headcount of the security team at UVU with prior campus events using security rosters and event photos.
+Open Questions: Q-1134
 
 ---
 
@@ -1638,6 +1658,7 @@ Mentions: N-492
 Related Nodes: N-10745
 Tags: relevance:core
 Investigative Direction: Ask Davis and Christopher where the keys were and who handed them over.
+Open Questions: Q-1108, Q-1133
 
 ---
 
@@ -1654,6 +1675,7 @@ Mentions:
 Related Nodes: N-10745
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the footage for any exchange of keys or request for them.
+Open Questions: Q-1108
 
 ---
 
@@ -1670,6 +1692,7 @@ Mentions: N-159, N-367, N-190
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Compare each of Neff's retellings with the footage and note when Phillip is and is not mentioned.
+Open Questions: Q-1135
 
 ---
 
@@ -1686,6 +1709,7 @@ Mentions:
 Related Nodes: N-11322
 Tags: relevance:core
 Investigative Direction: Review the parking footage to see who parked where and in what order.
+Open Questions: Q-1132
 
 ---
 
@@ -1703,6 +1727,7 @@ Related Nodes: N-10214
 Supports: C-2105
 Tags: relevance:core
 Investigative Direction: Check Neff's testimony and Erika Kirk's own accounts of who told her and when.
+Open Questions: Q-212
 
 ---
 
@@ -1719,6 +1744,7 @@ Mentions: N-504, N-159, N-367, N-190
 Related Nodes: N-10746, N-11124
 Tags: relevance:core
 Investigative Direction: Pull hospital arrival footage and testimony to confirm who arrived and in what vehicle.
+Open Questions: Q-994
 
 ---
 
@@ -1737,6 +1763,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain the full transcript of the Neff testimony and the hearing in which it was given.
+Open Questions: Q-1135
 
 ---
 
@@ -1753,6 +1780,7 @@ Mentions: N-159, N-190
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Compare against footage of Neff and McCoy in the first seconds after the shot.
+Open Questions: Q-1135
 
 ---
 
@@ -1769,6 +1797,7 @@ Mentions: N-159, N-190, N-2
 Related Nodes: N-10504
 Tags: relevance:core
 Investigative Direction: Check Neff's call log for the time and duration of the call.
+Open Questions: Q-212, Q-772
 
 ---
 
@@ -1785,6 +1814,7 @@ Mentions: N-159, N-190, N-17
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Check pastors' accounts for the time they first heard from McCoy's father and compare it with the call log.
+Open Questions: Q-212, Q-1118
 
 ---
 
@@ -1801,6 +1831,7 @@ Mentions: N-159, N-367
 Related Nodes: N-10746
 Tags: relevance:core
 Investigative Direction: Obtain rental records for the Denalis and identify who rented them.
+Open Questions: Q-1132, Q-1133
 
 ---
 
@@ -1865,6 +1896,7 @@ Mentions: N-425, N-1
 Related Nodes: N-10747, N-10748
 Tags: relevance:core
 Investigative Direction: Obtain the full hearing transcript to verify the wording and context.
+Open Questions: Q-183
 
 ---
 
@@ -1883,6 +1915,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Check the hearing record for what Twiggs's evidence consisted of and whether it was hearsay.
+Open Questions: Q-183
 
 ---
 
@@ -1899,6 +1932,7 @@ Mentions: N-425, N-1, N-40
 Related Nodes: N-10748
 Tags: relevance:core
 Investigative Direction: Read the defense filing on political expression and the statutory wording cited.
+Open Questions: Q-183
 
 ---
 
@@ -1947,6 +1981,7 @@ Mentions: N-40, N-1
 Related Nodes: N-10748
 Tags: relevance:core
 Investigative Direction: Check the political motivation filing for the statements used to support this argument.
+Open Questions: Q-183
 
 ---
 
@@ -1980,6 +2015,7 @@ Related Nodes: N-10190
 Supports: C-12717
 Tags: relevance:core
 Investigative Direction: Measure McCoy's head turn in frame-by-frame footage.
+Open Questions: Q-1137
 
 ---
 
@@ -2027,6 +2063,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Look for dated statements by Kirk linking his death to Turning Point USA.
+Open Questions: Q-1138
 
 ---
 
@@ -2043,6 +2080,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Identify what was signed and the source of the statement.
+Open Questions: Q-1138
 
 ---
 
@@ -2059,6 +2097,7 @@ Mentions: N-1, N-208
 Related Nodes: N-10741, N-10025
 Tags: relevance:core
 Investigative Direction: Identify who is meant and when each person first learned of Kirk's death.
+Open Questions: Q-1139
 
 ---
 
@@ -2074,6 +2113,7 @@ Anchored Artifacts: A-2340
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Ask the host for the basis; compare with the evidence record.
+Open Questions: Q-1140
 
 ---
 
@@ -2119,6 +2159,7 @@ Anchored Artifacts:
 Mentions: N-2, N-3
 Tags: relevance:core
 Investigative Direction: List the specific statements the host considers false and check for any corrections by Erika Kirk.
+Open Questions: Q-1141
 
 ---
 
@@ -2134,6 +2175,7 @@ Anchored Artifacts:
 Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Specify which of Kirk's expressed wishes the host has in mind and compare with Erika's actions.
+Open Questions: Q-1142
 
 ---
 
@@ -2167,6 +2209,7 @@ Related Nodes: N-10318
 Supports: C-12669, C-7278
 Tags: relevance:core
 Investigative Direction: Find the TPUSA-side statements that Kirk feared he would die and compare dates with Harpole's interview.
+Open Questions: Q-1143
 
 ---
 

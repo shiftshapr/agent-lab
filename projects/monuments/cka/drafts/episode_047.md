@@ -2019,6 +2019,7 @@ Mentions: N-3, N-15, N-2
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to confirm the ground rules of the meeting; compare with any later statement by Streiff or Erika Kirk.
+Open Questions: Q-419
 
 ---
 
@@ -2035,6 +2036,7 @@ Mentions: N-15, N-2, N-3
 Related Nodes: N-10000, N-11295
 Tags: relevance:core
 Investigative Direction: Locate the host's godforsaken company tweet and its date; ask TPUSA to confirm it was their main objection.
+Open Questions: Q-419
 
 ---
 
@@ -2052,6 +2054,7 @@ Related Nodes: N-10328
 Supports: C-692
 Tags: relevance:core
 Investigative Direction: Retrieve the Alex Clark and Kolvet interview and its promotional teases and check whether the host is named.
+Open Questions: Q-253, Q-417
 
 ---
 
@@ -2068,6 +2071,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10328, N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or TPUSA to confirm on the record that no one was authorized to call the Catholicism account a lie.
+Open Questions: Q-253
 
 ---
 
@@ -2084,6 +2088,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10000, N-11295
 Tags: relevance:core
 Investigative Direction: Check TPUSA's Form 990 and public statements for headcount; ask TPUSA whether it accepts the host's account of the admission.
+Open Questions: Q-417
 
 ---
 
@@ -2101,6 +2106,7 @@ Related Nodes: N-10318
 Contradicts: C-4063
 Tags: relevance:core
 Investigative Direction: Locate the Glenn Beck interview clip and compare Erika Kirk's wording with her later acknowledgment of the Kolvet and Flood messages.
+Open Questions: Q-171
 
 ---
 
@@ -2117,6 +2123,7 @@ Mentions: N-3, N-14, N-846
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Retrieve the Jimmy Dore episode and compare with Kolvet's own statements on the night-before text.
+Open Questions: Q-171
 
 ---
 
@@ -2133,6 +2140,7 @@ Mentions: N-270, N-3
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Identify the host's source for the Flood text and obtain the original message from Flood.
+Open Questions: Q-171
 
 ---
 
@@ -2150,6 +2158,7 @@ Related Nodes: N-10318
 Supports: C-4063
 Tags: relevance:core
 Investigative Direction: Ask TPUSA when the review of Charlie Kirk's device was done and by whom.
+Open Questions: Q-171
 
 ---
 
@@ -2167,6 +2176,7 @@ Related Nodes: N-10318
 Qualifies: C-4064
 Tags: relevance:core
 Investigative Direction: Obtain the original Flood message from his device or from TPUSA to settle the wording.
+Open Questions: Q-171
 
 ---
 
@@ -2183,6 +2193,7 @@ Mentions: N-2, N-278, N-3
 Related Nodes: N-10327, N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk to confirm her reasons on the record; review the CBS event video around the exchange.
+Open Questions: Q-405
 
 ---
 
@@ -2199,6 +2210,7 @@ Mentions: N-278, N-3
 Related Nodes: N-10327, N-10313
 Tags: relevance:core
 Investigative Direction: Obtain CBS production records or participant accounts on how the questions were chosen.
+Open Questions: Q-405
 
 ---
 
@@ -2215,6 +2227,7 @@ Mentions: N-2, N-278, N-3
 Related Nodes: N-10327
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk and CBS what advance notice she had of the questions.
+Open Questions: Q-405
 
 ---
 
@@ -2232,6 +2245,7 @@ Related Nodes: N-10324
 Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Obtain the host's recorded exchange with Farnsworth and compare his statements with TPUSA's account of the livestream test.
+Open Questions: Q-420
 
 ---
 
@@ -2248,6 +2262,7 @@ Mentions: N-11, N-261, N-3
 Related Nodes: N-10324, N-10160
 Tags: relevance:core
 Investigative Direction: Locate Bowyer's tweet and compare its timing with video showing when the camera came down and when police arrived.
+Open Questions: Q-420
 
 ---
 
@@ -2264,6 +2279,7 @@ Mentions: N-261, N-3
 Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Identify the officer or agent and obtain the chain of custody for the camera and its card.
+Open Questions: Q-420
 
 ---
 
@@ -2282,6 +2298,7 @@ Supports: C-4076
 Revises: C-1955
 Tags: relevance:core
 Investigative Direction: Check TPUSA and TPUSA Faith payroll, contract and filing records for any payments to Rob McCoy.
+Open Questions: Q-164
 
 ---
 
@@ -2298,6 +2315,7 @@ Mentions: N-17, N-3
 Related Nodes: N-10192, N-10326, N-11361
 Tags: relevance:core
 Investigative Direction: Review the Wikipedia edit history for the TPUSA Faith entry and the editor accounts that added McCoy.
+Open Questions: Q-164
 
 ---
 
@@ -2314,6 +2332,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10319
 Tags: relevance:core
 Investigative Direction: Locate the show segment where the host first made the no-blood remark and the Kolvet tweet that followed.
+Open Questions: Q-64
 
 ---
 
@@ -2330,6 +2349,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10319, N-10334
 Tags: relevance:core
 Investigative Direction: Obtain hospital visitor and staff records and TPUSA accounts of who was at the hospital.
+Open Questions: Q-421
 
 ---
 
@@ -2346,6 +2366,7 @@ Mentions: N-266, N-224, N-3
 Related Nodes: N-10783, N-10000
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and Shawn Ryan's production when and how the interview was arranged.
+Open Questions: Q-422
 
 ---
 
@@ -2362,6 +2383,7 @@ Mentions: N-266, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Confirm Harpole's current employment status with TPUSA.
+Open Questions: Q-422
 
 ---
 
@@ -2378,6 +2400,7 @@ Mentions: N-3, N-40, N-1
 Related Nodes: N-10316, N-11295
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what evidence it offered to support Robinson's guilt in the meeting.
+Open Questions: Q-414
 
 ---
 
@@ -2394,6 +2417,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10000, N-10012, N-10316
 Tags: relevance:core
 Investigative Direction: Ask UVU and TPUSA whether TPUSA was given access to campus camera systems and when.
+Open Questions: Q-414
 
 ---
 
@@ -2411,6 +2435,7 @@ Related Nodes: N-10316
 Supports: C-4086
 Tags: relevance:core
 Investigative Direction: Identify the lawyer and the party he represents; compare with public filings in the case.
+Open Questions: Q-414
 
 ---
 
@@ -2428,6 +2453,7 @@ Related Nodes: N-10316
 Supports: C-4086
 Tags: relevance:core
 Investigative Direction: Ask the lawyer to confirm the exchange; this can only be verified through the participants.
+Open Questions: Q-414
 
 ---
 
@@ -2445,6 +2471,7 @@ Related Nodes: N-10316
 Supports: C-4091
 Tags: relevance:core
 Investigative Direction: Check Utah victim-rights procedure and the court calendar for the May hearing.
+Open Questions: Q-423
 
 ---
 
@@ -2461,6 +2488,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10106, N-10316
 Tags: relevance:core
 Investigative Direction: Track the evidence presented at the preliminary hearing and compare it with the host's stated position.
+Open Questions: Q-414
 
 ---
 
@@ -2478,6 +2506,7 @@ Related Nodes: N-10316
 Supports: C-4095
 Tags: relevance:core
 Investigative Direction: Identify the witness and verify his occupation and his video.
+Open Questions: Q-424
 
 ---
 
@@ -2494,6 +2523,7 @@ Mentions: N-3
 Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Ask the witnesses and the Utah investigators whether any statement was taken.
+Open Questions: Q-424
 
 ---
 
@@ -2510,6 +2540,7 @@ Mentions: N-3
 Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Ask investigators whether a clearer video exists; compare with the lawyer's statement that there is nothing beyond the affidavit.
+Open Questions: Q-414, Q-424
 
 ---
 
@@ -2526,6 +2557,7 @@ Mentions: N-3, N-190
 Related Nodes: N-10214, N-11295
 Tags: relevance:core
 Investigative Direction: Obtain the call logs and a carrier record to confirm provenance.
+Open Questions: Q-212
 
 ---
 
@@ -2542,6 +2574,7 @@ Mentions: N-159, N-190, N-17
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Compare the Neff interview with the carrier records for Mikey's calls to his father.
+Open Questions: Q-212
 
 ---
 
@@ -2558,6 +2591,7 @@ Mentions: N-190, N-2, N-3
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Collect the public statements from TPUSA figures asserting that Mikey called Erika first.
+Open Questions: Q-212
 
 ---
 
@@ -2576,6 +2610,7 @@ Supports: C-4104
 Contradicts: C-1896
 Tags: relevance:core
 Investigative Direction: Compare the call-log sequence with Kolvet's account of the emergency-call training.
+Open Questions: Q-212
 
 ---
 
@@ -2592,6 +2627,7 @@ Mentions: N-159, N-3
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain Neff's call log and the shot time from timestamped video to fix the sequence.
+Open Questions: Q-425
 
 ---
 
@@ -2610,6 +2646,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-4123
 Investigative Direction: Identify the third caller from the call logs; the host later corrects this identification.
+Open Questions: Q-212
 
 ---
 
@@ -2628,6 +2665,7 @@ Supports: C-4101, C-4105
 Tags: relevance:core
 Revises: C-3030
 Investigative Direction: Align Mikey's and Neff's logs to the second against the shot time.
+Open Questions: Q-212, Q-425
 
 ---
 
@@ -2646,6 +2684,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-11087
 Investigative Direction: Check the call logs for the callback and duration.
+Open Questions: Q-212
 
 ---
 
@@ -2662,6 +2701,7 @@ Mentions: N-2, N-36, N-3
 Related Nodes: N-10320
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk and TPUSA business staff whether any Netanyahu funding approach was received.
+Open Questions: Q-77
 
 ---
 
@@ -2679,6 +2719,7 @@ Related Nodes: N-10101
 Supports: C-704
 Tags: relevance:core
 Investigative Direction: Retrieve the Alex Clark interview and compare Kolvet's wording with the host's account.
+Open Questions: Q-77
 
 ---
 
@@ -2696,6 +2737,7 @@ Related Nodes: N-10101, N-10320
 Supports: C-702
 Tags: relevance:core
 Investigative Direction: Search the host's published episodes for any use of the $150 million figure.
+Open Questions: Q-77
 
 ---
 
@@ -2712,6 +2754,7 @@ Mentions: N-36, N-1, N-3
 Related Nodes: N-10018, N-10320
 Tags: relevance:core
 Investigative Direction: Locate Netanyahu's public statement about the call and its date.
+Open Questions: Q-77
 
 ---
 
@@ -2729,6 +2772,7 @@ Related Nodes: N-10325, N-10239
 Qualifies: C-2917
 Tags: relevance:core
 Investigative Direction: Publish the spreadsheet and timeline with the date windows made explicit.
+Open Questions: Q-236
 
 ---
 
@@ -2746,6 +2790,7 @@ Related Nodes: N-10325, N-10000
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Overlay the planes' landing dates with TPUSA event dates in the promised interactive timeline.
+Open Questions: Q-236
 
 ---
 
@@ -2762,6 +2807,7 @@ Mentions: N-3
 Related Nodes: N-10325, N-10026
 Tags: relevance:core
 Investigative Direction: Review ADS-B and flight-plan records for the tail numbers to Israeli airports and transponder gaps.
+Open Questions: Q-426
 
 ---
 
@@ -2778,6 +2824,7 @@ Mentions: N-3
 Related Nodes: N-10325, N-10026
 Tags: relevance:core
 Investigative Direction: Check the following episode for the promised evidence and compare with flight-tracking records.
+Open Questions: Q-426
 
 ---
 
@@ -2795,6 +2842,7 @@ Related Nodes: N-10214
 Revises: C-4107
 Tags: relevance:core
 Investigative Direction: Identify the assistant named Danny and confirm his role with TPUSA.
+Open Questions: Q-212
 
 ---
 
@@ -2908,6 +2956,7 @@ Mentions: N-1, N-2, N-3
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk to describe her answer to the question.
+Open Questions: Q-21
 
 ---
 
@@ -2924,6 +2973,7 @@ Mentions: N-1, N-2, N-3
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk for her account; the transcript phrasing is garbled so the host's meaning should be confirmed.
+Open Questions: Q-419
 
 ---
 
@@ -2940,6 +2990,7 @@ Mentions: N-267, N-3
 Related Nodes: N-11203, N-10322
 Tags: relevance:core
 Investigative Direction: Check court dockets for any complaint against the host relating to security statements.
+Open Questions: Q-427
 
 ---
 
@@ -2957,6 +3008,7 @@ Related Nodes: N-10322
 Supports: C-4140
 Tags: relevance:core
 Investigative Direction: Review any messages between the host and Charlie Kirk about security and the host's security contracts.
+Open Questions: Q-428
 
 ---
 
@@ -2991,6 +3043,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain the original message metadata and any UVU security walk-through logs.
+Open Questions: Q-429, Q-430
 
 ---
 
@@ -3007,6 +3060,7 @@ Mentions: N-3
 Related Nodes: N-10330, N-10325
 Tags: relevance:core
 Investigative Direction: Track the host's following episode on Fort Huachuca and check against the Fort Huachuca records in other episodes.
+Open Questions: Q-431
 
 ---
 
@@ -3041,6 +3095,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Read the charging document passage in the court filing to confirm the wording.
+Open Questions: Q-432, Q-433
 
 ---
 
@@ -3059,6 +3114,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1
 Investigative Direction: Read the charging document passage in the court filing to confirm the wording.
+Open Questions: Q-432
 
 ---
 
@@ -3075,6 +3131,7 @@ Mentions: N-40
 Related Nodes: N-10321, N-10316
 Tags: relevance:core
 Investigative Direction: Obtain UVU roof access records and Robinson's prior campus visits.
+Open Questions: Q-434
 
 ---
 
@@ -3091,6 +3148,7 @@ Mentions: N-331, N-1
 Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's historical announcement lead times for other outdoor events.
+Open Questions: Q-368
 
 ---
 
@@ -3107,6 +3165,7 @@ Mentions: N-333, N-40, N-104, N-638
 Related Nodes: N-11298
 Tags: relevance:core
 Investigative Direction: Identify the speaker and compare the dates of the named individuals' alleged radicalization.
+Open Questions: Q-433
 
 ---
 
@@ -3123,6 +3182,7 @@ Mentions: N-333, N-42, N-40
 Related Nodes: N-11298, N-10093
 Tags: relevance:core
 Investigative Direction: Ask investigators whether Zin appears in any Discord records; the speaker says this is only a theory.
+Open Questions: Q-21, Q-28
 
 ---
 
@@ -3140,6 +3200,7 @@ Related Nodes: N-10331
 Supports: C-4158
 Tags: relevance:core
 Investigative Direction: Locate the host's earlier episode with the nurse account and the source for it.
+Open Questions: Q-28
 
 ---
 
@@ -3219,6 +3280,7 @@ Mentions: N-1, N-330, N-3
 Related Nodes: N-11296
 Tags: relevance:core
 Investigative Direction: Identify the source who saw the body at burial and compare with the autopsy and funeral-home accounts.
+Open Questions: Q-435
 
 ---
 
@@ -3235,6 +3297,7 @@ Mentions: N-330, N-3
 Related Nodes: N-10330
 Tags: relevance:core
 Investigative Direction: Review Coleman's video against the host's Fort Huachuca research.
+Open Questions: Q-431
 
 ---
 
@@ -3251,6 +3314,7 @@ Mentions: N-330, N-4, N-3
 Related Nodes: N-10330
 Tags: relevance:core
 Investigative Direction: Watch Coleman's episode to see exactly what he said about Vance.
+Open Questions: Q-431, Q-436
 
 ---
 
@@ -3267,6 +3331,7 @@ Mentions: N-4, N-330, N-3
 Related Nodes: N-10330
 Tags: relevance:core
 Investigative Direction: Identify the video of Vance the host relied on and match its date and location to the Fort Huachuca dates.
+Open Questions: Q-436
 
 ---
 
@@ -3315,6 +3380,7 @@ Mentions: N-3, N-1
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Watch later episodes for the matters the host says she raised privately.
+Open Questions: Q-419
 
 ---
 
@@ -3331,6 +3397,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk whether she or investigators have reviewed the messages on Charlie's devices.
+Open Questions: Q-171
 
 ---
 
@@ -3364,6 +3431,7 @@ Related Nodes: N-10328
 Supports: C-693
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or the parish about Charlie's attendance and any conversion steps.
+Open Questions: Q-253
 
 ---
 

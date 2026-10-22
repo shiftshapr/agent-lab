@@ -1077,6 +1077,7 @@ Mentions: N-410, N-69, N-3
 Related Nodes: N-11060, N-10529
 Tags: relevance:core
 Investigative Direction: Obtain the detention report, any release paperwork and the agency that held him; ask the FBI to confirm the length of the pause and who ordered it.
+Open Questions: Q-761, Q-762
 
 ---
 
@@ -1093,6 +1094,7 @@ Mentions: N-330, N-411, N-410, N-3
 Related Nodes: N-10533
 Tags: relevance:core
 Investigative Direction: Check Navy Reserve officer listings and any public biography of Ahmed Qureshi for rank and unit.
+Open Questions: Q-761
 
 ---
 
@@ -1109,6 +1111,7 @@ Mentions: N-361, N-3
 Related Nodes: N-10533, N-10305
 Tags: relevance:core
 Investigative Direction: Obtain Mitch Snow's account in his own words and any base visitor or lodging records for September 9, 2025.
+Open Questions: Q-390
 
 ---
 
@@ -1125,6 +1128,7 @@ Mentions: N-411, N-3, N-1
 Related Nodes: N-10533, N-10524
 Tags: relevance:core
 Investigative Direction: Verify the app's feature set from product documentation and whether any Utah venue or hospital layouts were ever built in it.
+Open Questions: Q-769
 
 ---
 
@@ -1173,6 +1177,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Compare the host's December episodes with this statement to see how her position changed.
+Open Questions: Q-419
 
 ---
 
@@ -1190,6 +1195,7 @@ Related Nodes: N-10318
 Supports: C-6549
 Tags: relevance:core
 Investigative Direction: Review the Glenn Beck interview and compare Erika's phone and texts statements with the texts the host says exist.
+Open Questions: Q-419, Q-756
 
 ---
 
@@ -1205,6 +1211,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-1, N-15
 Tags: relevance:core
 Investigative Direction: Check the host's earlier episodes for any statement about the CEO appointment before December 15.
+Open Questions: Q-419
 
 ---
 
@@ -1222,6 +1229,7 @@ Related Nodes: N-10857
 Supports: C-5396
 Tags: relevance:core
 Investigative Direction: Ask the participants in the December 15 meeting what was printed and whether a copy exists.
+Open Questions: Q-419
 
 ---
 
@@ -1238,6 +1246,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10857, N-10606
 Tags: relevance:core
 Investigative Direction: Find where and when Erika or TPUSA first said the video existed and compare with later statements about audio only.
+Open Questions: Q-770
 
 ---
 
@@ -1286,6 +1295,7 @@ Related Nodes: N-10401
 Supports: C-5404
 Tags: relevance:core
 Investigative Direction: Obtain the attendee list, agenda and venue records for the August 15 to 17 Aspen event.
+Open Questions: Q-771
 
 ---
 
@@ -1302,6 +1312,7 @@ Mentions: N-1, N-2, N-3
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Obtain the full original recording with metadata and have an independent audio examiner compare the passage with the surrounding speech.
+Open Questions: Q-770, Q-771
 
 ---
 
@@ -1318,6 +1329,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Commission forensic audio analysis of the clip for splices, room tone changes and level shifts.
+Open Questions: Q-770
 
 ---
 
@@ -1334,6 +1346,7 @@ Mentions: N-3, N-159, N-1, N-2
 Related Nodes: N-10857
 Tags: relevance:core
 Investigative Direction: Preserve the host's X reply and Neff's reply with timestamps.
+Open Questions: Q-770
 
 ---
 
@@ -1350,6 +1363,7 @@ Mentions: N-159, N-3
 Related Nodes: N-10857, N-10606
 Tags: relevance:core
 Investigative Direction: Preserve Neff's original post and ask TPUSA whether the video exists and why it has not been released.
+Open Questions: Q-770
 
 ---
 
@@ -1366,6 +1380,7 @@ Mentions: N-159, N-40, N-3
 Related Nodes: N-10647
 Tags: relevance:core
 Investigative Direction: Check the charging documents and court record for what Robinson's family reported and for the DNA findings on the rifle.
+Open Questions: Q-93, Q-161, Q-713
 
 ---
 
@@ -1398,6 +1413,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10647
 Tags: relevance:core
 Investigative Direction: Obtain the lab reports from the court record listing every DNA profile found on the rifle.
+Open Questions: Q-93
 
 ---
 
@@ -1416,6 +1432,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-5
 Investigative Direction: Obtain firearms examiner reports on whether the barrel and cartridge cases link to this rifle.
+Open Questions: Q-75
 
 ---
 
@@ -1448,6 +1465,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10401, N-10406
 Tags: relevance:core
 Investigative Direction: Ask other donors and TPUSA event staff how often succession questions arose at Aspen events.
+Open Questions: Q-771
 
 ---
 
@@ -1464,6 +1482,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10606, N-11010
 Tags: relevance:core
 Investigative Direction: This is the host's theory; test it by establishing when the audio was first mentioned and who had it.
+Open Questions: Q-770, Q-771
 
 ---
 
@@ -1481,6 +1500,7 @@ Related Nodes: N-10663
 Supports: C-4104
 Tags: relevance:core
 Investigative Direction: Obtain the 911 call records for the UVU address and compare with the host's phone sequence reporting.
+Open Questions: Q-772
 
 ---
 
@@ -1512,6 +1532,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2
 Tags: relevance:core
 Investigative Direction: Identify the recording, who made it and where it was published.
+Open Questions: Q-773
 
 ---
 
@@ -1530,6 +1551,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-11384
 Investigative Direction: Review Erika's Instagram archive for earlier posts featuring her mother.
+Open Questions: Q-774
 
 ---
 
@@ -1546,6 +1568,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10889, N-10826
 Tags: relevance:core
 Investigative Direction: Retrieve the original New York Times article and verify the wording.
+Open Questions: Q-736, Q-775
 
 ---
 
@@ -1562,6 +1585,7 @@ Mentions: N-2, N-190, N-3
 Related Nodes: N-10889, N-10826
 Tags: relevance:core
 Investigative Direction: Retrieve the original article and compare with the Watters account of the call.
+Open Questions: Q-212, Q-736
 
 ---
 
@@ -1578,6 +1602,7 @@ Mentions: N-2, N-190, N-211
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Compare with Mikey McCoy's call log and the 834 ms style phone timing material.
+Open Questions: Q-212, Q-776
 
 ---
 
@@ -1594,6 +1619,7 @@ Mentions: N-2, N-211, N-3
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Look for witnesses, security cameras and staff accounts for the parking lot on September 10.
+Open Questions: Q-776
 
 ---
 
@@ -1625,6 +1651,7 @@ Mentions: N-3
 Related Nodes: N-10445
 Tags: relevance:core
 Investigative Direction: Identify the facility, its licence type and services through state records.
+Open Questions: Q-775
 
 ---
 
@@ -1642,6 +1669,7 @@ Related Nodes: N-10449
 Qualifies: C-7534
 Tags: relevance:core
 Investigative Direction: Flag (clinic vs hospital): C-7534 (ep84) says Erika's mother was not in the hospital Sept 8-10; this claim places her at a treatment facility on Sept 8, and ep68/ep76 call it a Lyme-treatment clinic (C-6114, C-6885). Read as clinic, not hospital, so linked Qualifies rather than Contradicts. Authenticate the records through lawful channels.
+Open Questions: Q-774, Q-775
 
 ---
 
@@ -1658,6 +1686,7 @@ Mentions: N-3
 Related Nodes: N-10440
 Tags: relevance:core, dia
 Investigative Direction: Count and verify the tips received against named sources.
+Open Questions: Q-776
 
 ---
 
@@ -1674,6 +1703,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Obtain the texts and sender identities with consent.
+Open Questions: Q-776
 
 ---
 
@@ -1690,6 +1720,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Ask the facility and the original senders whether any staff physically assisted Erika.
+Open Questions: Q-776
 
 ---
 
@@ -1706,6 +1737,7 @@ Mentions: N-3
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Map the chain of who told whom to find any first-hand witness or the origin of the story.
+Open Questions: Q-776
 
 ---
 
@@ -1723,6 +1755,7 @@ Related Nodes: N-10440
 Supports: C-7917
 Tags: relevance:core
 Investigative Direction: Identify the doctor and obtain his or his office's account and appointment records.
+Open Questions: Q-776
 
 ---
 
@@ -1740,6 +1773,7 @@ Related Nodes: N-10440
 Supports: C-7917
 Tags: relevance:core
 Investigative Direction: Interview the friends who heard this and document the dates.
+Open Questions: Q-776
 
 ---
 
@@ -1757,6 +1791,7 @@ Related Nodes: N-10440
 Supports: C-7917
 Tags: relevance:core
 Investigative Direction: Seek the woman's response to the host's request for comment and any corroboration.
+Open Questions: Q-774
 
 ---
 
@@ -1773,6 +1808,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Publish or document the connection if the host can support it; check donor and employment records.
+Open Questions: Q-776
 
 ---
 
@@ -1789,6 +1825,7 @@ Mentions: N-3, N-2, N-489
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Seek written statements from witnesses and facility records about Erika and her mother on September 10.
+Open Questions: Q-774, Q-776
 
 ---
 
@@ -1805,6 +1842,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Canvass the parking lot's users and businesses and request any security camera footage.
+Open Questions: Q-776
 
 ---
 
@@ -1821,6 +1859,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core, dia
 Investigative Direction: Track what arrives through the tip line.
+Open Questions: Q-776
 
 ---
 
@@ -1999,6 +2038,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-5, S-7
 Investigative Direction: Obtain the autopsy report and trauma records to test the statement.
+Open Questions: Q-777
 
 ---
 
@@ -2015,6 +2055,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10646, N-11053
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and ATF reports describing the fragments with location and chain of custody.
+Open Questions: Q-64, Q-745
 
 ---
 
@@ -2031,6 +2072,7 @@ Mentions: N-3
 Related Nodes: N-10896
 Tags: relevance:core
 Investigative Direction: Check the docket for the defense's ATF discovery request and any court response.
+Open Questions: Q-750
 
 ---
 
@@ -2048,6 +2090,7 @@ Related Nodes: N-10214
 Supports: C-4104, C-4269
 Tags: relevance:core
 Investigative Direction: Obtain the call detail records for the relevant numbers.
+Open Questions: Q-212
 
 ---
 
@@ -2064,6 +2107,7 @@ Mentions: N-3, N-217, N-190
 Related Nodes: N-10317
 Tags: relevance:core
 Investigative Direction: Compare the earliest accounts of the call sequence with later ones.
+Open Questions: Q-212
 
 ---
 
@@ -2141,6 +2185,7 @@ Related Nodes: N-10318
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the texts the host references.
+Open Questions: Q-756
 
 ---
 
@@ -2157,6 +2202,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10406
 Tags: relevance:core
 Investigative Direction: Identify the donor and obtain her recollection.
+Open Questions: Q-771
 
 ---
 
@@ -2173,6 +2219,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10406
 Tags: relevance:core
 Investigative Direction: Compare to the audio and to Erika's account.
+Open Questions: Q-771
 
 ---
 
@@ -2189,6 +2236,7 @@ Mentions: N-3, N-489
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Await publication of the findings.
+Open Questions: Q-774
 
 ---
 
@@ -2205,6 +2253,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core, dia
 Investigative Direction: Track what arrives through the tip line.
+Open Questions: Q-776
 
 ---
 

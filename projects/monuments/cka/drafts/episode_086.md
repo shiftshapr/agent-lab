@@ -938,6 +938,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3, S-12
 Investigative Direction: Compare against the 911 log, CAD records and event video timestamps for the time of the shot.
+Open Questions: Q-241
 
 ---
 
@@ -955,6 +956,7 @@ Related Nodes: N-10096, N-10156
 Supports: C-1355
 Tags: relevance:core
 Investigative Direction: Obtain scene video showing Farnsworth's movements and the chain of custody of the SD card from that camera.
+Open Questions: Q-63
 
 ---
 
@@ -990,6 +992,7 @@ Related Nodes: N-10324, N-10096
 Supports: C-1361
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public explanation with the scene video showing which items were on the table and what was taken.
+Open Questions: Q-63
 
 ---
 
@@ -1006,6 +1009,7 @@ Mentions: N-261, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain the host's call log and any recording or notes of the September 17 call.
+Open Questions: Q-742
 
 ---
 
@@ -1022,6 +1026,7 @@ Mentions: N-261, N-2, N-1
 Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Ask Farnsworth to state under oath why he chose that camera and what instruction he acted on.
+Open Questions: Q-63, Q-742
 
 ---
 
@@ -1038,6 +1043,7 @@ Mentions: N-1, N-261
 Related Nodes: N-10096
 Tags: relevance:core
 Investigative Direction: Obtain the original back-camera file and compare it with the front and side footage.
+Open Questions: Q-743
 
 ---
 
@@ -1054,6 +1060,7 @@ Mentions: N-1, N-261
 Related Nodes: N-10081, N-10096
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report and the back-camera footage to establish whether there was an exit wound.
+Open Questions: Q-64, Q-743
 
 ---
 
@@ -1070,6 +1077,7 @@ Mentions: N-261, N-3
 Related Nodes: N-10721
 Tags: relevance:core
 Investigative Direction: Obtain the host's screen recording of the September 19 FaceTime and any call metadata.
+Open Questions: Q-742, Q-743
 
 ---
 
@@ -1086,6 +1094,7 @@ Mentions: N-261, N-3
 Related Nodes: N-11172
 Tags: relevance:core
 Investigative Direction: Compare the host's September 19 episode with the recorded FaceTime.
+Open Questions: Q-742, Q-743
 
 ---
 
@@ -1102,6 +1111,7 @@ Mentions: N-15, N-30, N-261
 Related Nodes: N-11172, N-10282
 Tags: relevance:core
 Investigative Direction: Obtain George Farmer's message log with Justin Streiff for September 20, 2025.
+Open Questions: Q-744
 
 ---
 
@@ -1118,6 +1128,7 @@ Mentions: N-30, N-15, N-3
 Related Nodes: N-11172
 Tags: relevance:core
 Investigative Direction: Obtain the husband's account and the message thread with Justin Streiff.
+Open Questions: Q-744
 
 ---
 
@@ -1134,6 +1145,7 @@ Mentions: N-15, N-858
 Related Nodes: N-10014, N-11172
 Tags: relevance:core
 Investigative Direction: Identify the host's source for this account and request FBI contact logs with TPUSA leadership for September 20, 2025.
+Open Questions: Q-744
 
 ---
 
@@ -1150,6 +1162,7 @@ Mentions: N-1, N-2
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Confirm the date and nature of the private burial with the funeral home or family spokesperson.
+Open Questions: Q-421
 
 ---
 
@@ -1166,6 +1179,7 @@ Mentions: N-2, N-14, N-195, N-1
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Obtain phone records for the Erika Kirk, Andrew Kolvet and Dr. Trotter call and ask Dr. Trotter to confirm who participated.
+Open Questions: Q-421
 
 ---
 
@@ -1182,6 +1196,7 @@ Mentions: N-2, N-14, N-195
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Obtain any recording or notes of the host's conversation with Erika Kirk on this point.
+Open Questions: Q-421
 
 ---
 
@@ -1198,6 +1213,7 @@ Mentions: N-195, N-2
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Ask Dr. Trotter or his counsel whether he authorized the call and whether any HIPAA complaint was filed.
+Open Questions: Q-421
 
 ---
 
@@ -1214,6 +1230,7 @@ Mentions: N-2, N-14, N-195, N-1
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Identify the host's source for who said what on the call and compare with Kolvet's September 20 post.
+Open Questions: Q-421, Q-745
 
 ---
 
@@ -1230,6 +1247,7 @@ Mentions: N-14, N-1, N-3
 Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Obtain the host's September 23 notes and ask Kolvet to confirm or deny the description.
+Open Questions: Q-64, Q-745
 
 ---
 
@@ -1246,6 +1264,7 @@ Mentions: N-266, N-14
 Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's September 20 post, his September 23 account and Harpole's statement against the autopsy report.
+Open Questions: Q-64, Q-745
 
 ---
 
@@ -1262,6 +1281,7 @@ Mentions: N-1
 Related Nodes: N-10014, N-10081
 Tags: relevance:core
 Investigative Direction: Seek federal communications between September 19 and 20, 2025 about the footage and the bullet account.
+Open Questions: Q-743, Q-745
 
 ---
 
@@ -1278,6 +1298,7 @@ Mentions: N-40
 Related Nodes: N-10567, N-10523
 Tags: relevance:core
 Investigative Direction: Identify the ammunition type recovered and required by the rifle and compare with ATF and FBI reports.
+Open Questions: Q-717, Q-746
 
 ---
 
@@ -1294,6 +1315,7 @@ Mentions: N-40
 Related Nodes: N-10973, N-10567
 Tags: relevance:core
 Investigative Direction: Check discovery and lab reports for any GSR swabs of Robinson's hands or clothing.
+Open Questions: Q-75, Q-747
 
 ---
 
@@ -1310,6 +1332,7 @@ Mentions: N-3
 Related Nodes: N-10972
 Tags: relevance:core
 Investigative Direction: Obtain K-9 deployment logs and handler reports for September 10 to 12, 2025.
+Open Questions: Q-20
 
 ---
 
@@ -1326,6 +1349,7 @@ Mentions: N-40
 Related Nodes: N-10336, N-10567, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain the recovery chain of custody, the bore and chamber residue findings and the timeline of who found the weapon.
+Open Questions: Q-20, Q-75, Q-748
 
 ---
 
@@ -1343,6 +1367,7 @@ Related Nodes: N-10106, N-10567
 Supports: C-756
 Tags: relevance:core
 Investigative Direction: Obtain the latent print report identifying the six sets and their donors.
+Open Questions: Q-20, Q-75, Q-93
 
 ---
 
@@ -1359,6 +1384,7 @@ Mentions: N-3
 Related Nodes: N-10014, N-10012
 Tags: relevance:core
 Investigative Direction: Ask the host to identify, even anonymously and with corroboration, which of these groups made the statements.
+Open Questions: Q-748
 
 ---
 
@@ -1375,6 +1401,7 @@ Mentions: N-40
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Check the record for any confession, including statements to family, police or the discord messages.
+Open Questions: Q-161, Q-713, Q-749
 
 ---
 
@@ -1407,6 +1434,7 @@ Mentions: N-40
 Related Nodes: N-10521, N-10532
 Tags: relevance:core
 Investigative Direction: Obtain the exhibits to the motion listing each discovery request and the state's responses.
+Open Questions: Q-750
 
 ---
 
@@ -1423,6 +1451,7 @@ Mentions: N-40
 Related Nodes: N-11173, N-10521
 Tags: relevance:core
 Investigative Direction: Obtain the January hearing transcript and the February 3, 2026 defense letter.
+Open Questions: Q-750
 
 ---
 
@@ -1439,6 +1468,7 @@ Mentions: N-40
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Obtain the December 11, 2025 hearing transcript or minute entry.
+Open Questions: Q-749
 
 ---
 
@@ -1455,6 +1485,7 @@ Mentions: N-40
 Related Nodes: N-10520, N-10570, N-10896
 Tags: relevance:core
 Investigative Direction: Obtain the filed motion and exhibits at page 11 and compare with later disclosures.
+Open Questions: Q-717, Q-750
 
 ---
 
@@ -1471,6 +1502,7 @@ Mentions: N-40
 Related Nodes: N-10521, N-10986
 Tags: relevance:core
 Investigative Direction: Obtain the filed motion at page 18 and the state's witness disclosure.
+Open Questions: Q-751
 
 ---
 
@@ -1487,6 +1519,7 @@ Mentions: N-2
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Locate the Fox News interview and quote in context.
+Open Questions: Q-752
 
 ---
 
@@ -1505,6 +1538,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-6
 Investigative Direction: Obtain the FBI and ATF DNA reports and the underlying electronic data.
+Open Questions: Q-93, Q-751
 
 ---
 
@@ -1524,6 +1558,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the ATF summary report and the filed motion at the firearm evidence paragraph.
+Open Questions: Q-717
 
 ---
 
@@ -1540,6 +1575,7 @@ Mentions: N-40
 Related Nodes: N-10523, N-10896
 Tags: relevance:core
 Investigative Direction: Obtain the March 12 conference notes between the parties.
+Open Questions: Q-717, Q-750, Q-751
 
 ---
 
@@ -1607,6 +1643,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-8
 Investigative Direction: Obtain the filed motion at page 22.
+Open Questions: Q-751
 
 ---
 
@@ -1623,6 +1660,7 @@ Mentions: N-40
 Related Nodes: N-10521
 Tags: relevance:core
 Investigative Direction: Obtain the defense correspondence exhibits attached to the motion.
+Open Questions: Q-750
 
 ---
 
@@ -1639,6 +1677,7 @@ Mentions: N-40
 Related Nodes: N-10986, N-11065
 Tags: relevance:core
 Investigative Direction: Obtain the filed motion's concluding request and the court's ruling.
+Open Questions: Q-749, Q-751
 
 ---
 
@@ -1655,6 +1694,7 @@ Mentions: N-40
 Related Nodes: N-10030, N-10532
 Tags: relevance:core
 Investigative Direction: Obtain the extraction reports and carrier records for the text messages cited by the state.
+Open Questions: Q-753
 
 ---
 
@@ -1671,6 +1711,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain corroboration from at least two former employees on the specific statements said to be lies.
+Open Questions: Q-306
 
 ---
 
@@ -1687,6 +1728,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Review the original APB post and the full emailed tip.
+Open Questions: Q-754
 
 ---
 
@@ -1703,6 +1745,7 @@ Mentions: N-2, N-597, N-418, N-674
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Obtain the flight manifest or FAA flight tracking record for July 14, 2025.
+Open Questions: Q-754
 
 ---
 
@@ -1719,6 +1762,7 @@ Mentions: N-1, N-22, N-36, N-3
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Obtain the date and transcript of the Tucker Carlson remarks and any documents showing a decision in that window.
+Open Questions: Q-491, Q-755
 
 ---
 
@@ -1751,6 +1795,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Ask the host for dated messages or notes of the conversations in which Charlie said this.
+Open Questions: Q-756
 
 ---
 
@@ -1767,6 +1812,7 @@ Mentions: N-6, N-1, N-3
 Related Nodes: N-10524, N-10188
 Tags: relevance:core
 Investigative Direction: Obtain hospital admission, ambulance and security records for both hospitals on September 10, 2025.
+Open Questions: Q-757, Q-758
 
 ---
 
@@ -1783,6 +1829,7 @@ Mentions: N-7, N-2, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain Turek's full account and the hospital's time of death record.
+Open Questions: Q-218
 
 ---
 
@@ -1800,6 +1847,7 @@ Related Nodes: N-10416
 Supports: C-7701
 Tags: relevance:core
 Investigative Direction: Obtain the host's notes of the conversation with Erika Kirk.
+Open Questions: Q-421
 
 ---
 
@@ -1816,6 +1864,7 @@ Mentions: N-14, N-330
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Seek documents or witnesses showing coordinated messaging among TPUSA leaders.
+Open Questions: Q-306, Q-748
 
 ---
 

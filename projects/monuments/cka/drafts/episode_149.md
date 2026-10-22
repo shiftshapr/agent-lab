@@ -1328,6 +1328,7 @@ Mentions: N-269
 Related Nodes: N-11323
 Tags: relevance:core
 Investigative Direction: Pull the earlier episode where the Chester Barnes and Integrity Solutions identification was made and check Integrity Solutions staff and contractor lists for any Barnes or Williams.
+Open Questions: Q-1161
 
 ---
 
@@ -1360,6 +1361,7 @@ Mentions: N-269
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Request Williams's DD-214 or Navy service record summary, or an authoritative biography confirming SEAL service.
+Open Questions: Q-1161
 
 ---
 
@@ -1377,6 +1379,7 @@ Related Nodes: N-11324
 Supports: C-12837
 Tags: relevance:core
 Investigative Direction: Check PGL corporate registrations, Texas filings and Williams's residence or work location in public business records.
+Open Questions: Q-1161
 
 ---
 
@@ -1393,6 +1396,7 @@ Mentions: N-3
 Related Nodes: N-10809, N-10937
 Tags: relevance:core
 Investigative Direction: Identify the source of the host's claim and any contracts, payments or communications between the Department of Defense and the influencers who criticized her.
+Open Questions: Q-1162
 
 ---
 
@@ -1442,6 +1446,7 @@ Related Nodes:
 Supports: C-1802
 Tags: relevance:core
 Investigative Direction: Review frame-by-frame event footage of Turek at the shot and the host's earlier episodes where she called his reaction normal.
+Open Questions: Q-228
 
 ---
 
@@ -1492,6 +1497,7 @@ Mentions: N-7, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Compare Turek's own stated reason for the Sept 8 walk across his interviews, and check Scottsdale location and phone records for the walk.
+Open Questions: Q-168
 
 ---
 
@@ -1509,6 +1515,7 @@ Related Nodes: N-10162
 Supports: C-12810, C-12819, C-1537
 Tags: relevance:core
 Investigative Direction: Obtain Zoom participant logs or invitations for the Sept 9 call and statements from each named attendee.
+Open Questions: Q-168
 
 ---
 
@@ -1526,6 +1533,7 @@ Related Nodes: N-10162
 Supports: C-6426
 Tags: relevance:core
 Investigative Direction: Verify the call time against Zoom logs and Hammer's and Wolicki's own accounts of when it occurred.
+Open Questions: Q-168
 
 ---
 
@@ -1542,6 +1550,7 @@ Mentions: N-55, N-1, N-3
 Related Nodes: N-10179
 Tags: relevance:core
 Investigative Direction: Compare Hammer's public statements on Charlie's Israel position with the released text message and its date.
+Open Questions: Q-768
 
 ---
 
@@ -1559,6 +1568,7 @@ Related Nodes: N-10143
 Supports: C-8873
 Tags: relevance:core
 Investigative Direction: Identify the message or statement by Charlie that the host treats as the announcement and its timestamp relative to the Zoom call.
+Open Questions: Q-768
 
 ---
 
@@ -1575,6 +1585,7 @@ Mentions: N-14, N-329, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Ask Gabbard's office for communications from Kolvet after Sept 10 and compare with the host's source for the account.
+Open Questions: Q-1156
 
 ---
 
@@ -1592,6 +1603,7 @@ Related Nodes:
 Supports: C-12808, C-1559
 Tags: relevance:core
 Investigative Direction: Obtain the texts and recipients with timestamps relative to the call and verify authenticity.
+Open Questions: Q-1143
 
 ---
 
@@ -1609,6 +1621,7 @@ Related Nodes:
 Supports: C-10464, C-10234
 Tags: relevance:core
 Investigative Direction: Compile all Harpole statements on CPR by date and outlet and compare with Turek's.
+Open Questions: Q-915
 
 ---
 
@@ -1625,6 +1638,7 @@ Mentions: N-1
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Locate the team statements about Charlie's legs hanging out and compare with footage of the SUV leaving the scene.
+Open Questions: Q-882, Q-1163
 
 ---
 
@@ -1642,6 +1656,7 @@ Related Nodes: N-10636
 Supports: C-10467, C-10468
 Tags: relevance:core
 Investigative Direction: Obtain the SUV interior dimensions, seat configuration and a reconstruction by a paramedic or emergency physician.
+Open Questions: Q-915
 
 ---
 
@@ -1659,6 +1674,7 @@ Related Nodes:
 Supports: C-10323
 Tags: relevance:core
 Investigative Direction: Pull the Shawn Ryan Show interview transcript and timestamp where Harpole describes the ride.
+Open Questions: Q-915
 
 ---
 
@@ -1675,6 +1691,7 @@ Mentions: N-7, N-266
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain the full original Turek statement and the date and outlet to compare with his earlier CPR claims.
+Open Questions: Q-915
 
 ---
 
@@ -1692,6 +1709,7 @@ Related Nodes:
 Supports: C-11572
 Tags: relevance:core
 Investigative Direction: Compare with Harpole's and the hospital's account of Charlie's vital signs on arrival.
+Open Questions: Q-915
 
 ---
 
@@ -1709,6 +1727,7 @@ Related Nodes:
 Supports: C-11626
 Tags: relevance:core
 Investigative Direction: Locate the Turek interview passage where he says Harpole was distracted and compare with Harpole's account.
+Open Questions: Q-915
 
 ---
 
@@ -1726,6 +1745,7 @@ Related Nodes:
 Supports: C-10333
 Tags: relevance:core
 Investigative Direction: Cross-check the Turek and Harpole accounts against any bodycam, dispatch or hospital arrival records of the ride.
+Open Questions: Q-915
 
 ---
 
@@ -1743,6 +1763,7 @@ Related Nodes: N-10626, N-11226
 Supports: C-10334
 Tags: relevance:core
 Investigative Direction: Obtain hospital records of scrub distribution and footage of Turek's clothing at the hospital.
+Open Questions: Q-888, Q-915
 
 ---
 
@@ -1760,6 +1781,7 @@ Related Nodes:
 Supports: C-10336, C-10335
 Tags: relevance:core
 Investigative Direction: Review the Farnsworth footage frame by frame of Turek entering the SUV.
+Open Questions: Q-882
 
 ---
 
@@ -1777,6 +1799,7 @@ Related Nodes:
 Supports: C-11624
 Tags: relevance:core
 Investigative Direction: Compare Harpole's and Cutler's own accounts of who did what in the SUV.
+Open Questions: Q-882
 
 ---
 
@@ -1793,6 +1816,7 @@ Mentions: N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain police dispatch logs and bodycam covering the SUV departure and any vehicle contact.
+Open Questions: Q-1163
 
 ---
 
@@ -1810,6 +1834,7 @@ Related Nodes:
 Supports: C-12569
 Tags: relevance:core
 Investigative Direction: Obtain the Turek and Hibbs call logs and FaceTime timestamps.
+Open Questions: Q-1118
 
 ---
 
@@ -1827,6 +1852,7 @@ Related Nodes:
 Supports: C-12572, C-12717
 Tags: relevance:core
 Investigative Direction: Obtain Hibbs's and McCoy's phone records for the call sequence on Sept 10.
+Open Questions: Q-1118
 
 ---
 
@@ -1844,6 +1870,7 @@ Related Nodes:
 Supports: C-12573
 Tags: relevance:core
 Investigative Direction: Compare the full FaceTime interview audio with Hibbs's own account.
+Open Questions: Q-1118
 
 ---
 
@@ -1860,6 +1887,7 @@ Mentions: N-266
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Locate the original eyewitness post and verify date, account identity and the claimed vantage point.
+Open Questions: Q-1164
 
 ---
 
@@ -1876,6 +1904,7 @@ Mentions:
 Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Verify the witness's presence through his original post metadata and any lot or camera footage.
+Open Questions: Q-1164
 
 ---
 
@@ -1893,6 +1922,7 @@ Related Nodes:
 Supports: C-10338
 Tags: relevance:core
 Investigative Direction: Match the witness's description to the hospital's exterior camera footage and the SUV layout.
+Open Questions: Q-888, Q-1164
 
 ---
 
@@ -1910,6 +1940,7 @@ Related Nodes: N-11226
 Supports: C-11597, C-10096
 Tags: relevance:core
 Investigative Direction: Obtain hospital supply logs and staff statements on who issued scrubs and when.
+Open Questions: Q-888
 
 ---
 
@@ -1926,6 +1957,7 @@ Mentions: N-3
 Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Ask the host for the provenance and chain of custody of the hospital footage when it is released.
+Open Questions: Q-1165
 
 ---
 
@@ -1943,6 +1975,7 @@ Related Nodes:
 Supports: C-12877
 Tags: relevance:core
 Investigative Direction: Confirm the driver and passenger list for the first SUV from footage and team statements.
+Open Questions: Q-882
 
 ---
 
@@ -1960,6 +1993,7 @@ Related Nodes:
 Supports: C-10335
 Tags: relevance:core
 Investigative Direction: Review the original footage frame by frame to confirm who enters the rear cargo area and when.
+Open Questions: Q-882
 
 ---
 
@@ -1976,6 +2010,7 @@ Mentions: N-270, N-487
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review footage of Charlie being carried to the SUV to establish who bore weight.
+Open Questions: Q-882
 
 ---
 
@@ -1992,6 +2027,7 @@ Mentions: N-896, N-492
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Confirm Davis's role at the hospital from footage and team statements.
+Open Questions: Q-882, Q-888
 
 ---
 
@@ -2008,6 +2044,7 @@ Mentions:
 Related Nodes: N-11226, N-10524
 Tags: relevance:core
 Investigative Direction: Request Timpanogos policies on scrub issue to non-staff and any log of scrubs issued Sept 10.
+Open Questions: Q-888
 
 ---
 
@@ -2024,6 +2061,7 @@ Mentions: N-266
 Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Obtain the hospital footage and staff statements on Harpole's conduct in the trauma bay.
+Open Questions: Q-1165
 
 ---
 
@@ -2072,6 +2110,7 @@ Mentions: N-190
 Related Nodes: N-11226
 Tags: relevance:core
 Investigative Direction: Obtain hospital records and statements from Mikey McCoy on whether he issued the scrubs.
+Open Questions: Q-888
 
 ---
 
@@ -2121,6 +2160,7 @@ Mentions:
 Related Nodes: N-10751, N-10524
 Tags: relevance:core
 Investigative Direction: Identify the physician through hospital staffing and records and ask the hospital whether any provider requested removal from the chart.
+Open Questions: Q-1166
 
 ---
 
@@ -2137,6 +2177,7 @@ Mentions:
 Related Nodes: N-10751, N-10527
 Tags: relevance:core
 Investigative Direction: Request hospital records of any name-removal or amendment request and the date it was made.
+Open Questions: Q-1166
 
 ---
 
@@ -2186,6 +2227,7 @@ Related Nodes: N-10354
 Supports: C-4518
 Tags: relevance:core
 Investigative Direction: Retrieve the January 6 episode and transcript of the owner conversation.
+Open Questions: Q-1167
 
 ---
 
@@ -2202,6 +2244,7 @@ Mentions:
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Map the dates of influencer posts attempting to debunk the receipt against the preliminary hearing date.
+Open Questions: Q-1162, Q-1167
 
 ---
 
@@ -2219,6 +2262,7 @@ Related Nodes: N-10809, N-10937
 Supports: C-12840
 Tags: relevance:core
 Investigative Direction: Obtain the payment records or contracts the host says she has found.
+Open Questions: Q-1162
 
 ---
 
@@ -2236,6 +2280,7 @@ Related Nodes:
 Supports: C-12391
 Tags: relevance:core
 Investigative Direction: Obtain the waiter interview and the receipt original from Dennison and confirm how he obtained them.
+Open Questions: Q-1167
 
 ---
 
@@ -2252,6 +2297,7 @@ Mentions:
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Collect the named debunking posts and what evidence each cited.
+Open Questions: Q-1167
 
 ---
 
@@ -2268,6 +2314,7 @@ Mentions:
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Interview the owner and the servers on shift to establish who personally served the customer.
+Open Questions: Q-1167
 
 ---
 
@@ -2300,6 +2347,7 @@ Mentions: N-18, N-40
 Related Nodes: N-11178, N-10354
 Tags: relevance:core
 Investigative Direction: Obtain the receipt image Wilson used and exemplars of Robinson's signature for comparison.
+Open Questions: Q-1167
 
 ---
 
@@ -2316,6 +2364,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Consult a forensic document examiner on whether electronic pad signatures are comparable to handwritten exemplars.
+Open Questions: Q-1167
 
 ---
 
@@ -2332,6 +2381,7 @@ Mentions: N-40, N-54
 Related Nodes: N-10059, N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the Robinson-Lance message timestamps and the cell-site or app metadata placing the sender.
+Open Questions: Q-1168
 
 ---
 
@@ -2348,6 +2398,7 @@ Mentions: N-40, N-54
 Related Nodes: N-10316, N-10074
 Tags: relevance:core
 Investigative Direction: Review the prosecution's exhibit list for corroborating evidence beyond the texts.
+Open Questions: Q-1140, Q-1168
 
 ---
 
@@ -2365,6 +2416,7 @@ Related Nodes: N-10074, N-10354
 Supports: C-12913
 Tags: relevance:core
 Investigative Direction: Obtain the receipt timestamp and the messages' device metadata to compare the locations.
+Open Questions: Q-1167, Q-1168
 
 ---
 
@@ -2381,6 +2433,7 @@ Mentions: N-899, N-40
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain Mrs. Noble's statement and any doorbell or street camera footage of the vehicle at 12:38 a.m.
+Open Questions: Q-1169
 
 ---
 
@@ -2413,6 +2466,7 @@ Mentions:
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Obtain the bank or card-network record of the transaction to remove reliance on witness memory.
+Open Questions: Q-1167
 
 ---
 
@@ -2430,6 +2484,7 @@ Related Nodes: N-10342
 Supports: C-8925
 Tags: relevance:core
 Investigative Direction: Obtain Snow's hotel folio and the military police incident record.
+Open Questions: Q-443
 
 ---
 
@@ -2446,6 +2501,7 @@ Mentions: N-361, N-2, N-266
 Related Nodes: N-10347, N-10342
 Tags: relevance:core
 Investigative Direction: Look for lobby camera footage, guest registration or third-party witnesses to corroborate Snow's sighting.
+Open Questions: Q-443
 
 ---
 
@@ -2462,6 +2518,7 @@ Mentions: N-40
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Compare the card-holder identity on the transaction record with Robinson's and obtain surveillance of the person at the restaurant.
+Open Questions: Q-1167
 
 ---
 
@@ -2494,6 +2551,7 @@ Mentions: N-40
 Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Watch the trial exhibit lists and defense disclosures for the card transaction record.
+Open Questions: Q-1167
 
 ---
 
@@ -2510,6 +2568,7 @@ Mentions: N-40
 Related Nodes: N-10532, N-10354
 Tags: relevance:core
 Investigative Direction: Check whether the defense subpoenaed card-network or merchant records for the Cowboy Smokehouse transaction.
+Open Questions: Q-1167
 
 ---
 
@@ -2558,6 +2617,7 @@ Mentions: N-159, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Identify who Blakey is (the host's wording suggests Blake Neff) and ask others in the lobby what was said.
+Open Questions: Q-1149
 
 ---
 
@@ -2608,6 +2668,7 @@ Related Nodes:
 Supports: C-1958, C-2296
 Tags: relevance:core
 Investigative Direction: Obtain the wound ballistics, recovered fragments and lab reports to determine the caliber used.
+Open Questions: Q-1170
 
 ---
 
@@ -2753,6 +2814,7 @@ Mentions: N-896, N-3
 Related Nodes: N-11226
 Tags: relevance:core, dia
 Investigative Direction: Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.
+Open Questions: Q-888
 
 ---
 
@@ -2769,6 +2831,7 @@ Mentions: N-896, N-487, N-3
 Related Nodes: 
 Tags: relevance:core, dia
 Investigative Direction: Check for any response from Harreff or Cutler to the standing offer.
+Open Questions: Q-888
 
 ---
 

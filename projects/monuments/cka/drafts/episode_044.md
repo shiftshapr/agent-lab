@@ -1027,6 +1027,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's travel itinerary, flight manifests and TPUSA event schedule for the Korea and Japan legs in early September 2025.
+Open Questions: Q-370
 
 ---
 
@@ -1043,6 +1044,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Establish who scheduled the Korea and Japan trip and when; compare the booking date with any internal TPUSA planning for the Utah event.
+Open Questions: Q-370
 
 ---
 
@@ -1075,6 +1077,7 @@ Mentions: N-3, N-318
 Related Nodes: 
 Tags: relevance:core, dia_beat
 Investigative Direction: Ask the host to disclose the tip email header and timestamp and the sender's relationship to Harry; confirm the call log time.
+Open Questions: Q-386
 
 ---
 
@@ -1091,6 +1094,7 @@ Mentions: N-3, N-318
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Ask the host which elements she verified and with what sources (base records, hotel records, court filings) and publish them.
+Open Questions: Q-386
 
 ---
 
@@ -1299,6 +1303,7 @@ Mentions: N-318
 Related Nodes: N-10307
 Tags: relevance:core
 Investigative Direction: Ask Harry for the town name (transcript 'Naco, Arizona') and any contemporaneous report to Army CID or Border Patrol of the approach.
+Open Questions: Q-387
 
 ---
 
@@ -1411,6 +1416,7 @@ Mentions: N-318
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Check Harry's airline, rental car and lodging records for the trip to Arizona in early September 2025.
+Open Questions: Q-386
 
 ---
 
@@ -1427,6 +1433,7 @@ Mentions: N-318
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Ask Harry who he now believes the woman was and obtain Candlewood Suites lobby footage and parking records for September 8, 2025.
+Open Questions: Q-388
 
 ---
 
@@ -1443,6 +1450,7 @@ Mentions: N-318
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Identify the soldiers and unit through Harry's description; check 10th Mountain Division presence in Sierra Vista in September 2025.
+Open Questions: Q-389
 
 ---
 
@@ -1459,6 +1467,7 @@ Mentions: N-318
 Related Nodes: N-11199, N-10305
 Tags: relevance:core
 Investigative Direction: Confirm through Department of Defense records that JTF-SB is the successor to JTF-6 and where its Fort Huachuca element was located in September 2025.
+Open Questions: Q-389
 
 ---
 
@@ -1475,6 +1484,7 @@ Mentions: N-318
 Related Nodes: N-11199, N-10305
 Tags: relevance:core
 Investigative Direction: Identify the building and its tenant organizations on Fort Huachuca for September 2025 through installation facility records.
+Open Questions: Q-389
 
 ---
 
@@ -1491,6 +1501,7 @@ Mentions: N-318
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Establish whether any senior JTF-SB or Army North leadership meeting was held at Fort Huachuca on September 9, 2025.
+Open Questions: Q-390
 
 ---
 
@@ -1507,6 +1518,7 @@ Mentions: N-318, N-266
 Related Nodes: N-10305, N-10308
 Tags: relevance:core
 Investigative Direction: Ask Harry for a photo lineup of the central figure; compare against public images of senior Army and TPUSA-linked figures.
+Open Questions: Q-390, Q-391
 
 ---
 
@@ -1523,6 +1535,7 @@ Mentions: N-318, N-266
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: FOIA the military police blotter and incident report for the timing of the call that preceded the escort.
+Open Questions: Q-391, Q-392
 
 ---
 
@@ -1539,6 +1552,7 @@ Mentions: N-318
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Identify the Fort Huachuca garrison commander on duty September 9, 2025 and request the incident report narrative.
+Open Questions: Q-392
 
 ---
 
@@ -1555,6 +1569,7 @@ Mentions: N-318, N-1
 Related Nodes: N-11204, N-10305
 Tags: relevance:core
 Investigative Direction: Verify Harry's rental return, boarding pass and connecting flight through Salt Lake City on September 10, 2025.
+Open Questions: Q-386
 
 ---
 
@@ -1571,6 +1586,7 @@ Mentions: N-318
 Related Nodes: N-11204
 Tags: relevance:core
 Investigative Direction: Compare with Salt Lake City airport passenger counts and flight-activity data for the morning of September 10, 2025.
+Open Questions: Q-386
 
 ---
 
@@ -1587,6 +1603,7 @@ Mentions: N-318
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: The incident report and any MP desk journal should record any hold decision.
+Open Questions: Q-392
 
 ---
 
@@ -1603,6 +1620,7 @@ Mentions: N-3, N-318
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Compare this host framing with her later 'a lot of coincidence' remark; ask whether she regards the encounter as unrelated to the assassination.
+Open Questions: Q-392
 
 ---
 
@@ -1619,6 +1637,7 @@ Mentions: N-3, N-159, N-319
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Check public records for any family relationship between Blake Neff and Army Captain Adam Neff and for any military service by Blake Neff.
+Open Questions: Q-393
 
 ---
 
@@ -1635,6 +1654,7 @@ Mentions: N-318, N-319
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Identify Captain Neff through the Fort Huachuca force-protection roster and ask him to confirm or deny.
+Open Questions: Q-392
 
 ---
 
@@ -1651,6 +1671,7 @@ Mentions: N-318, N-3
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Establish what operation, if any, was in planning at JTF-SB in September 2025; this is Harry's inference rather than an observed fact.
+Open Questions: Q-390
 
 ---
 
@@ -1667,6 +1688,7 @@ Mentions: N-318, N-1
 Related Nodes: N-10305, N-11361
 Tags: relevance:core
 Investigative Direction: Ask Harry to name or point out the people he recognized and compare with the September 9 whereabouts of those individuals.
+Open Questions: Q-390
 
 ---
 
@@ -1683,6 +1705,7 @@ Mentions: N-3, N-318
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Publish redacted copies or have an independent party review the documents, particularly the 1990 NDA and the personnel and award records.
+Open Questions: Q-386, Q-387
 
 ---
 
@@ -1700,6 +1723,7 @@ Related Nodes: N-10306
 Supports: C-3852
 Tags: relevance:core
 Investigative Direction: File the FOIA request for the incident report and the associated MP blotter entry.
+Open Questions: Q-392
 
 ---
 
@@ -1717,6 +1741,7 @@ Related Nodes: N-10306
 Supports: C-3852
 Tags: relevance:core
 Investigative Direction: Ask Fort Huachuca Provost Marshal whether the number is a valid MPC sequence format for 2025.
+Open Questions: Q-392
 
 ---
 
@@ -1733,6 +1758,7 @@ Mentions: N-3, N-318, N-270, N-1
 Related Nodes: N-10370, N-10305
 Tags: relevance:core
 Investigative Direction: Obtain Dan Flood's September 2025 itinerary and the Kirk party's Korea and Japan travel records.
+Open Questions: Q-370
 
 ---
 
@@ -1749,6 +1775,7 @@ Mentions: N-1
 Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Pull the Korea event date and the CNN Japan broadcast date to fix Kirk's location on each day.
+Open Questions: Q-370
 
 ---
 
@@ -1765,6 +1792,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Establish the original planned return date and who approved the Japan leg.
+Open Questions: Q-370
 
 ---
 
@@ -1781,6 +1809,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk party's return flight record and compare with arrival time in Arizona.
+Open Questions: Q-370
 
 ---
 
@@ -1798,6 +1827,7 @@ Related Nodes:
 Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host to document the alleged attempts and the agencies informed; the later Gaydamak segment appears to be this update.
+Open Questions: Q-380
 
 ---
 
@@ -1830,6 +1860,7 @@ Mentions: N-3
 Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Not testable directly; a FOIA to FBI and Army for records of the September 9 meeting would show whether it was known.
+Open Questions: Q-382
 
 ---
 
@@ -1944,6 +1975,7 @@ Related Nodes: N-10518, N-10026
 Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host for the dates and recipients of her reports to federal agencies.
+Open Questions: Q-382
 
 ---
 
@@ -1960,6 +1992,7 @@ Mentions: N-3, N-329
 Related Nodes: N-10518, N-10332
 Tags: relevance:core
 Investigative Direction: Ask ODNI for confirmation of any contact with the host or her representatives and the date.
+Open Questions: Q-382
 
 ---
 
@@ -2089,6 +2122,7 @@ Related Nodes: N-10518, N-10026
 Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host for the evidence tying a coordination to Israel and French intelligence beyond the tips she has described.
+Open Questions: Q-346
 
 ---
 
@@ -2218,6 +2252,7 @@ Mentions: N-3, N-69, N-1
 Related Nodes: N-10518, N-10194
 Tags: relevance:core
 Investigative Direction: Seek FBI statements on whether a French nexus was investigated; ask the host what she relies on to say they did know.
+Open Questions: Q-346, Q-382
 
 ---
 
@@ -2235,6 +2270,7 @@ Related Nodes: N-10000, N-10371, N-10405
 Supports: C-2771
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA Faith's staffing and funding records and the earlier claims of military-linked pastors.
+Open Questions: Q-394
 
 ---
 
@@ -2251,6 +2287,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-11201
 Tags: relevance:core
 Investigative Direction: Ask the host to name the hires; check TPUSA staff announcements and court records for the individuals.
+Open Questions: Q-394
 
 ---
 
@@ -2267,6 +2304,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-11201, N-10374
 Tags: relevance:core
 Investigative Direction: Identify the individuals and look for indictments or press on a Poland-to-Mexico weapons route.
+Open Questions: Q-394
 
 ---
 
@@ -2284,6 +2322,7 @@ Related Nodes: N-10318
 Supports: C-1559
 Tags: relevance:core
 Investigative Direction: Obtain the messages themselves, recipients and timestamps from the host's source or TPUSA.
+Open Questions: Q-385, Q-395
 
 ---
 
@@ -2316,6 +2355,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10304
 Tags: relevance:core
 Investigative Direction: Seek any investigative record showing a cartel link to Tyler Robinson or the shooting.
+Open Questions: Q-395
 
 ---
 

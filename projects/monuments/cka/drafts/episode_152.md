@@ -1601,6 +1601,7 @@ Anchored Artifacts:
 Mentions: N-135, N-41
 Tags: relevance:core
 Investigative Direction: Check the governor's appointment announcement date and Graf's judicial biography.
+Open Questions: Q-1184
 
 ---
 
@@ -1616,6 +1617,7 @@ Anchored Artifacts:
 Mentions: N-135
 Tags: relevance:core
 Investigative Direction: Obtain Graf's judicial nomination questionnaire or bio listing his prior offices and dates.
+Open Questions: Q-1184
 
 ---
 
@@ -1649,6 +1651,7 @@ Related Nodes: N-10146
 Supports: C-13094
 Tags: relevance:core
 Investigative Direction: Obtain Mitchell's statements, Boy Scout troop records and the Robinson family account of how he got involved.
+Open Questions: Q-735
 
 ---
 
@@ -1666,6 +1669,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-7
 Investigative Direction: Review preliminary hearing testimony and exhibits for what physical evidence ties the screwdriver to Robinson.
+Open Questions: Q-1185
 
 ---
 
@@ -1683,6 +1687,7 @@ Related Nodes: N-10660
 Supports: C-13099
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary hearing testimony and the camera's metadata on when recording stopped relative to the screwdriver discovery.
+Open Questions: Q-1186
 
 ---
 
@@ -1701,6 +1706,7 @@ Revises: C-11690
 Verification: contradicted-by-record
 Verification Evidence: S-7
 Investigative Direction: Obtain the lab reports and hearing testimony on DNA found on the screwdriver.
+Open Questions: Q-1185
 
 ---
 
@@ -1717,6 +1723,7 @@ Mentions: N-42
 Related Nodes: N-10032
 Tags: relevance:core
 Investigative Direction: Collect eyewitness video and police reports of Zinn's shouting and timing relative to the shot.
+Open Questions: Q-28
 
 ---
 
@@ -1733,6 +1740,7 @@ Mentions: N-42
 Related Nodes: N-10032
 Tags: relevance:core
 Investigative Direction: Review Zinn's interviews, charging documents and any statement on motive for the disruption.
+Open Questions: Q-28
 
 ---
 
@@ -1748,6 +1756,7 @@ Anchored Artifacts: A-2378.1
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Establish the official time of death announcement from hospital, university and TPUSA statements.
+Open Questions: Q-218
 
 ---
 
@@ -1765,6 +1774,7 @@ Related Nodes: N-11179
 Supports: C-13104
 Tags: relevance:core
 Investigative Direction: Pull the signed warrant returns and compare the timestamps with the death announcement and affidavit time.
+Open Questions: Q-1187
 
 ---
 
@@ -1782,6 +1792,7 @@ Related Nodes: N-10012
 Supports: C-13104
 Tags: relevance:core
 Investigative Direction: Obtain each warrant and return from the Utah courts and list items to be seized.
+Open Questions: Q-1187
 
 ---
 
@@ -1798,6 +1809,7 @@ Mentions: N-864, N-42, N-1
 Supports: C-13104
 Tags: relevance:core
 Investigative Direction: Locate the warrant covering Charlie's belongings and the inventory of what was seized and where it is held.
+Open Questions: Q-1176, Q-1187
 
 ---
 
@@ -1814,6 +1826,7 @@ Mentions: N-864
 Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Obtain the hospital footage warrant and affidavit rationale.
+Open Questions: Q-1187
 
 ---
 
@@ -1829,6 +1842,7 @@ Anchored Artifacts: A-2378.1
 Mentions: N-864, N-775
 Tags: relevance:core
 Investigative Direction: Obtain the residence search warrant and inventory.
+Open Questions: Q-1187
 
 ---
 
@@ -1844,6 +1858,7 @@ Anchored Artifacts: A-3084.1
 Mentions: N-42
 Tags: relevance:core
 Investigative Direction: Obtain the diagram source and verify each person's listed career against official bios.
+Open Questions: Q-1188
 
 ---
 
@@ -1860,6 +1875,7 @@ Mentions: N-190
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Obtain the full source footage, its origin and its camera location and time.
+Open Questions: Q-213
 
 ---
 
@@ -1876,6 +1892,7 @@ Mentions: N-190, N-367, N-2
 Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Compare the supplied call logs with phone-company records for the minutes around 12:23 pm.
+Open Questions: Q-213
 
 ---
 
@@ -1893,6 +1910,7 @@ Related Nodes: N-11179
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Identify vehicle occupants and seating via the footage, driver records and the transport timeline.
+Open Questions: Q-213, Q-1132
 
 ---
 
@@ -1910,6 +1928,7 @@ Related Nodes: N-10190
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Check the footage metadata time and compare with the hospital arrival time of McCoy and the group.
+Open Questions: Q-213
 
 ---
 
@@ -1926,6 +1945,7 @@ Mentions: N-190
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Reconstruct vehicle positions and movements from footage, Uber logs and departure times.
+Open Questions: Q-213
 
 ---
 
@@ -1943,6 +1963,7 @@ Related Nodes: N-10014, N-11179
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Obtain the multi-agency response roster and CAD logs for UVU on September 10.
+Open Questions: Q-1188
 
 ---
 
@@ -1960,6 +1981,7 @@ Related Nodes: N-10124, N-11179
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Identify the officer from the vest and footage, then request the statement report and agency assignment records.
+Open Questions: Q-1188
 
 ---
 
@@ -1977,6 +1999,7 @@ Related Nodes: N-11180
 Supports: C-13121
 Tags: relevance:core
 Investigative Direction: Obtain the April interview record and identify who in the AG's office conducted it.
+Open Questions: Q-1189
 
 ---
 
@@ -1993,6 +2016,7 @@ Related Nodes: N-10754
 Supports: C-13123
 Tags: relevance:core
 Investigative Direction: No documentary test exists yet; trace tasking orders for the ICAC and SVU personnel to see who directed their presence.
+Open Questions: Q-1174, Q-1188
 
 ---
 
@@ -2008,6 +2032,7 @@ Anchored Artifacts:
 Mentions: N-9, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Define what the reemergence refers to and trace the nonprofits and donors involved from 2018.
+Open Questions: Q-1130, Q-1174
 
 ---
 
@@ -2024,6 +2049,7 @@ Mentions: N-5, N-1, N-9
 Related Nodes: N-10890
 Tags: relevance:core
 Investigative Direction: Locate the call and its witnesses; compare with the host's earlier accounts of the July 12 call.
+Open Questions: Q-1130
 
 ---
 
@@ -2040,6 +2066,7 @@ Mentions: N-22, N-9, N-37
 Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Obtain the July 11 conference video and transcript of Carlson's remarks.
+Open Questions: Q-1130
 
 ---
 
@@ -2055,6 +2082,7 @@ Anchored Artifacts:
 Mentions: N-2, N-1, N-3
 Tags: relevance:core
 Investigative Direction: The host would need to state a mechanism or source; look at the timeline of Erika's introduction to Charlie and TPUSA.
+Open Questions: Q-1173
 
 ---
 
@@ -2071,6 +2099,7 @@ Mentions: N-1
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Collect statements from those present on September 9 and 10 and compare them with the host's sources.
+Open Questions: Q-1139
 
 ---
 
@@ -2194,6 +2223,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10635
 Tags: relevance:core
 Investigative Direction: Obtain documents showing Erika's role at the agency and the apartment arrangements; see earlier episodes' sourcing.
+Open Questions: Q-1190
 
 ---
 
@@ -2210,6 +2240,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10635
 Tags: relevance:core
 Investigative Direction: Obtain the host's outbound email and any reply or non-reply log.
+Open Questions: Q-1190
 
 ---
 
@@ -2241,6 +2272,7 @@ Anchored Artifacts:
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Await publication; the host would need to name the cases and individuals.
+Open Questions: Q-1191
 
 ---
 
@@ -2256,6 +2288,7 @@ Anchored Artifacts:
 Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Review the TPUSA broadcast in which Paramount Tactical appears and check for any statement about bullet splitting.
+Open Questions: Q-1170
 
 ---
 
@@ -2271,6 +2304,7 @@ Anchored Artifacts:
 Mentions: N-587, N-40
 Tags: relevance:core
 Investigative Direction: Establish when Tardio first appeared on TPUSA platforms and what his credentials are.
+Open Questions: Q-1140, Q-1170
 
 ---
 
@@ -2287,6 +2321,7 @@ Mentions: N-587, N-1
 Related Nodes: N-10026
 Tags: relevance:core
 Investigative Direction: Date the original post and compare with Tardio's travel records and TPUSA's coordination.
+Open Questions: Q-1192
 
 ---
 
@@ -2302,6 +2337,7 @@ Anchored Artifacts:
 Mentions: N-40, N-3
 Tags: relevance:core
 Investigative Direction: Obtain the original footage and the court exhibit and compare body measurements photogrammetrically.
+Open Questions: Q-172
 
 ---
 
@@ -2318,6 +2354,7 @@ Mentions: N-587, N-3
 Supports: C-13152
 Tags: relevance:core
 Investigative Direction: Find the episode of The Charlie Kirk Show and its air date; ask TPUSA whether anyone contacted the host.
+Open Questions: Q-1192, Q-1193, Q-1194
 
 ---
 
@@ -2333,6 +2370,7 @@ Anchored Artifacts: A-2380.1
 Mentions: N-587
 Tags: relevance:core
 Investigative Direction: Check Tardio's service record, noting the host calls him a former Green Beret.
+Open Questions: Q-1192
 
 ---
 
@@ -2347,6 +2385,7 @@ Transcript Snippet: I believe it was exhibit 11 that the judge uh basically didn
 Anchored Artifacts: A-2380.1
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing record on exhibit 11 and the court's order restricting media access.
+Open Questions: Q-1194
 
 ---
 
@@ -2362,6 +2401,7 @@ Anchored Artifacts: A-2380.1
 Mentions: N-587, N-3
 Tags: relevance:core
 Investigative Direction: Have independent video forensics experts assess the file's encoding history and the term lateral crawl.
+Open Questions: Q-1194
 
 ---
 
@@ -2579,6 +2619,7 @@ Anchored Artifacts: A-3086.1
 Mentions: N-2, N-99
 Tags: relevance:core
 Investigative Direction: Compare Erika's memorial forgiveness statement with later Alex Clark remarks on repentance.
+Open Questions: Q-1195
 
 ---
 
@@ -2594,6 +2635,7 @@ Anchored Artifacts: A-3086.2
 Mentions: N-40
 Tags: relevance:core
 Investigative Direction: Review the full released footage frame by frame for gait changes against camera positions.
+Open Questions: Q-172
 
 ---
 
@@ -2640,6 +2682,7 @@ Mentions: N-2, N-3, N-278, N-237
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Review each tour interview and match Erika's remarks to the host's earlier podcast statements.
+Open Questions: Q-1193, Q-1195
 
 ---
 
@@ -2716,6 +2759,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Identify the people Charlie spoke to in those days and obtain their accounts or messages.
+Open Questions: Q-1196
 
 ---
 

@@ -3472,7 +3472,10 @@
         "N-266"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-188"
+      ]
     },
     {
       "@type": "Claim",
@@ -3497,7 +3500,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-188"
+      ]
     },
     {
       "@type": "Claim",
@@ -3525,6 +3531,9 @@
       "verification_status": "corroborated",
       "verification_evidence": [
         "S-12"
+      ],
+      "open_questions": [
+        "Q-342"
       ]
     },
     {
@@ -3550,7 +3559,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-469"
+      ]
     },
     {
       "@type": "Claim",
@@ -3574,7 +3586,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-469"
+      ]
     },
     {
       "@type": "Claim",
@@ -3598,7 +3613,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-469"
+      ]
     },
     {
       "@type": "Claim",
@@ -3622,7 +3640,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-469"
+      ]
     },
     {
       "@type": "Claim",
@@ -3894,7 +3915,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-126"
+      ]
     },
     {
       "@type": "Claim",
@@ -3917,7 +3941,10 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-470"
+      ]
     },
     {
       "@type": "Claim",
@@ -3941,7 +3968,11 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-470",
+        "Q-471"
+      ]
     },
     {
       "@type": "Claim",
@@ -3964,7 +3995,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-470"
+      ]
     },
     {
       "@type": "Claim",
@@ -3986,7 +4020,10 @@
         "N-687"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-470"
+      ]
     },
     {
       "@type": "Claim",
@@ -4035,7 +4072,10 @@
         "N-687"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-470"
+      ]
     },
     {
       "@type": "Claim",
@@ -4059,7 +4099,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-472"
+      ]
     },
     {
       "@type": "Claim",
@@ -4178,7 +4221,10 @@
         "N-200"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-473"
+      ]
     },
     {
       "@type": "Claim",
@@ -4204,7 +4250,10 @@
         "N-200"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-473"
+      ]
     },
     {
       "@type": "Claim",
@@ -4251,7 +4300,10 @@
         "N-42"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-28"
+      ]
     },
     {
       "@type": "Claim",
@@ -4276,7 +4328,10 @@
         "N-42"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-28"
+      ]
     },
     {
       "@type": "Claim",
@@ -4342,7 +4397,10 @@
         "N-17"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-474"
+      ]
     },
     {
       "@type": "Claim",
@@ -4415,7 +4473,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-475"
+      ]
     },
     {
       "@type": "Claim",
@@ -4441,7 +4502,10 @@
         "N-325"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-476"
+      ]
     },
     {
       "@type": "Claim",
@@ -4510,7 +4574,10 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-477"
+      ]
     },
     {
       "@type": "Claim",
@@ -4532,7 +4599,10 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-477"
+      ]
     },
     {
       "@type": "Claim",
@@ -4552,7 +4622,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-478"
+      ]
     },
     {
       "@type": "Claim",
@@ -4572,7 +4645,10 @@
         "N-7"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-479"
+      ]
     },
     {
       "@type": "Claim",
@@ -4595,7 +4671,10 @@
         "N-682"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-479"
+      ]
     },
     {
       "@type": "Claim",
@@ -4617,7 +4696,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-350"
+      ]
     },
     {
       "@type": "Claim",
@@ -4637,7 +4719,10 @@
         "N-195"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-480"
+      ]
     },
     {
       "@type": "Claim",
@@ -4659,7 +4744,10 @@
         "N-176"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-480"
+      ]
     },
     {
       "@type": "Claim",
@@ -4680,7 +4768,10 @@
         "N-246"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-478"
+      ]
     },
     {
       "@type": "Claim",
@@ -5401,7 +5492,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-77"
+      ]
     },
     {
       "@type": "Claim",
@@ -5475,7 +5569,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-236"
+      ]
     },
     {
       "@type": "Claim",
@@ -5594,7 +5691,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-481"
+      ]
     },
     {
       "@type": "Claim",
@@ -5720,7 +5820,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-370"
+      ]
     },
     {
       "@type": "Claim",
@@ -5794,7 +5897,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-310"
+      ]
     },
     {
       "@type": "Claim",
@@ -5935,7 +6041,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-308"
+      ]
     },
     {
       "@type": "Claim",
@@ -6009,7 +6118,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-370"
+      ]
     },
     {
       "@type": "Claim",
@@ -6034,7 +6146,10 @@
         "N-190"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-370"
+      ]
     },
     {
       "@type": "Claim",
@@ -6062,7 +6177,10 @@
         "N-402"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-370"
+      ]
     },
     {
       "@type": "Claim",
@@ -6091,7 +6209,10 @@
         "N-402"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-370"
+      ]
     },
     {
       "@type": "Claim",
@@ -6143,7 +6264,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-482"
+      ]
     },
     {
       "@type": "Claim",
@@ -6166,7 +6290,11 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-463",
+        "Q-482"
+      ]
     },
     {
       "@type": "Claim",
@@ -6190,7 +6318,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-483"
+      ]
     },
     {
       "@type": "Claim",
@@ -6212,7 +6343,10 @@
         "N-487"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-484"
+      ]
     },
     {
       "@type": "Claim",
@@ -6233,7 +6367,11 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-463",
+        "Q-485"
+      ]
     },
     {
       "@type": "Claim",
@@ -6278,7 +6416,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-485"
+      ]
     },
     {
       "@type": "Claim",
@@ -6303,7 +6444,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-236"
+      ]
     },
     {
       "@type": "Claim",
@@ -6328,7 +6472,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-310"
+      ]
     },
     {
       "@type": "Claim",

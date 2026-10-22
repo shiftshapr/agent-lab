@@ -738,6 +738,7 @@ Mentions: N-1, N-3, N-30
 Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Ask the host and George for the date and circumstances of the conversation, and look for any message or call log from that morning.
+Open Questions: Q-218
 
 ---
 
@@ -754,6 +755,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10002
 Tags: relevance:core
 Investigative Direction: Ask the host what evidence supports the sense that the broadcast was intended; compare with platform moderation statements and viral spread timelines for the footage.
+Open Questions: Q-1171
 
 ---
 
@@ -770,6 +772,7 @@ Mentions: N-1
 Related Nodes: N-10002
 Tags: relevance:core
 Investigative Direction: Request moderation logs, takedown timelines and policy statements from Meta, TikTok and X for the first hours after the shooting; check whether they published any account of the failure.
+Open Questions: Q-1171
 
 ---
 
@@ -848,6 +851,7 @@ Mentions: N-154, N-155
 Supports: C-1497
 Tags: relevance:core
 Investigative Direction: Obtain the published letter and compare the wording; check Utah Valley University scene-release and cleanup records.
+Open Questions: Q-1172
 
 ---
 
@@ -924,6 +928,7 @@ Anchored Artifacts: A-2351.2
 Mentions: N-2, N-3
 Tags: relevance:core
 Investigative Direction: Ask the host what specific findings she means; map to the claims in the earlier registers.
+Open Questions: Q-1142
 
 ---
 
@@ -941,6 +946,7 @@ Related Nodes: N-10000
 Supports: C-12973
 Tags: relevance:core
 Investigative Direction: Obtain the full text thread and its date from the host; compare with TPUSA fundraising and growth reporting for the period.
+Open Questions: Q-1173
 
 ---
 
@@ -956,6 +962,7 @@ Anchored Artifacts: A-2351.2
 Mentions: N-1, N-2, N-3
 Tags: relevance:core
 Investigative Direction: Ask the host which partnerships she means; compare with Erika Kirk's dealings with people the host says opposed Charlie.
+Open Questions: Q-1142
 
 ---
 
@@ -988,6 +995,7 @@ Related Nodes: N-10362, N-10388
 Supports: C-12979
 Tags: relevance:core
 Investigative Direction: Look for a contemporaneous message, recording or third party who heard Kirk say this in April or May 2018.
+Open Questions: Q-1138
 
 ---
 
@@ -1004,6 +1012,7 @@ Mentions: N-1, N-2, N-3
 Related Nodes: N-10026
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's own telling of how she first saw Charlie; locate the 2018 Israel trip dates and flight records.
+Open Questions: Q-1173
 
 ---
 
@@ -1082,6 +1091,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10026, N-10053, N-10640
 Tags: relevance:core
 Investigative Direction: Compile documents or witnesses on pressure applied to Kirk about Israel; compare with the host's earlier claims about donor and Netanyahu contacts.
+Open Questions: Q-1145, Q-1174
 
 ---
 
@@ -1113,6 +1123,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10002
 Tags: relevance:core
 Investigative Direction: Identify who made the remark and what monster and decision they meant; compare with the host's other accounts of Kirk's last days.
+Open Questions: Q-1174, Q-1175
 
 ---
 
@@ -1175,6 +1186,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10002
 Tags: relevance:core
 Investigative Direction: Ask the host to name the people and show the evidence; this is an assertion of fact with no document presented in the episode.
+Open Questions: Q-1174
 
 ---
 
@@ -1191,6 +1203,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10388
 Tags: relevance:core
 Investigative Direction: Ask the host for the writing, its date and medium; compare with other Kirk messages the host has read.
+Open Questions: Q-1138
 
 ---
 

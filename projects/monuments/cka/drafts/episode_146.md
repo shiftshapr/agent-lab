@@ -1062,6 +1062,7 @@ Mentions: N-3, N-606, N-89
 Related Nodes: N-10000, N-10983
 Tags: relevance:core
 Investigative Direction: Compare courtroom pool footage and attendee lists from decision day against the July preliminary hearing sign-in or press seating.
+Open Questions: Q-1116
 
 ---
 
@@ -1078,6 +1079,7 @@ Mentions: N-186, N-544, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff and org records for Sheridan's title and Martin's contracted or informal PR role for Erika Kirk.
+Open Questions: Q-1117
 
 ---
 
@@ -1126,6 +1128,7 @@ Related Nodes: N-10190
 Supports: C-9930
 Tags: relevance:core
 Investigative Direction: Match the sequence against Mikey McCoy's phone records and the 911 call log.
+Open Questions: Q-212, Q-772
 
 ---
 
@@ -1143,6 +1146,7 @@ Related Nodes: N-10190
 Supports: C-12570
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call records to confirm any call to a Hibbs number and its time.
+Open Questions: Q-1118
 
 ---
 
@@ -1159,6 +1163,7 @@ Mentions: N-190, N-246, N-1
 Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Review UVU arrival and walk-in video to confirm Butch Hibbs' position relative to Charlie Kirk and Mikey McCoy.
+Open Questions: Q-302
 
 ---
 
@@ -1208,6 +1213,7 @@ Related Nodes: N-10740
 Supports: C-2695
 Tags: relevance:core
 Investigative Direction: Check Utah and California records for Burton Hibbs Jr. and any military service of the Hibbs family.
+Open Questions: Q-302
 
 ---
 
@@ -1337,6 +1343,7 @@ Related Nodes: N-10741
 Supports: C-9541
 Tags: relevance:core
 Investigative Direction: Retrieve the original Facebook post with its timestamp (the host notes in a later episode that it was taken down) and compare with the official announcement time.
+Open Questions: Q-1119
 
 ---
 
@@ -1353,6 +1360,7 @@ Mentions: N-7, N-208, N-246
 Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Ask UVU or TPUSA security staff whether Butch Hibbs was challenged at the event and what credential he held.
+Open Questions: Q-302
 
 ---
 
@@ -1386,6 +1394,7 @@ Related Nodes: N-10740
 Supports: C-12555
 Tags: relevance:core
 Investigative Direction: Obtain Jack Hibbs' and Charlie Kirk's phone and message records for the night of September 9 to check the relay.
+Open Questions: Q-302
 
 ---
 
@@ -1403,6 +1412,7 @@ Related Nodes: N-10143
 Supports: C-10208
 Tags: relevance:core
 Investigative Direction: Obtain the text messages the host has described in earlier episodes and confirm sender, recipients and timestamps.
+Open Questions: Q-171
 
 ---
 
@@ -1418,6 +1428,7 @@ Anchored Artifacts:
 Mentions: N-1, N-2, N-3
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's original statement and compare it with Charlie's overnight messages and activity.
+Open Questions: Q-607, Q-1102
 
 ---
 
@@ -1435,6 +1446,7 @@ Related Nodes: N-10143
 Supports: C-10764
 Tags: relevance:core
 Investigative Direction: Obtain the messages and recipients; the host has said she has seen related texts in earlier episodes.
+Open Questions: Q-171
 
 ---
 
@@ -1451,6 +1463,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Identify the rabbis and obtain Charlie Kirk's call logs for September 9 to confirm any calls.
+Open Questions: Q-607
 
 ---
 
@@ -1468,6 +1481,7 @@ Related Nodes: N-10162
 Supports: C-6040
 Tags: relevance:core
 Investigative Direction: Compare Josh Hammer's own account of the September 9 call with the host's summary and with who participated.
+Open Questions: Q-607
 
 ---
 
@@ -1500,6 +1514,7 @@ Mentions: N-208, N-246, N-788, N-1
 Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Obtain the full Starns audio and Butch Hibbs' phone records to establish when the call was placed and its duration.
+Open Questions: Q-1118
 
 ---
 
@@ -1516,6 +1531,7 @@ Mentions: N-208, N-246, N-7
 Related Nodes: N-10741
 Tags: relevance:core
 Investigative Direction: Reconcile Jack Hibbs' phone log against the two accounts to fix the order of the Butch and Turek calls.
+Open Questions: Q-1118
 
 ---
 
@@ -1533,6 +1549,7 @@ Related Nodes: N-10741
 Supports: C-10013
 Tags: relevance:core
 Investigative Direction: Match the FaceTime log with hospital arrival timing and hospital visitor and phone-use policies.
+Open Questions: Q-994, Q-1118
 
 ---
 
@@ -1550,6 +1567,7 @@ Related Nodes: N-10741
 Qualifies: C-12570
 Tags: relevance:core
 Investigative Direction: Compare Jack Hibbs' call history timestamps with Turek's and Mikey McCoy's logs.
+Open Questions: Q-1118
 
 ---
 
@@ -1567,6 +1585,7 @@ Related Nodes: N-10741
 Supports: C-12570
 Tags: relevance:core
 Investigative Direction: Establish the time and duration of the Mikey McCoy call to Jack Hibbs from call records.
+Open Questions: Q-1118
 
 ---
 
@@ -1584,6 +1603,7 @@ Related Nodes: N-10741
 Supports: C-10013
 Tags: relevance:core
 Investigative Direction: Ask for medical or ER records of the arrival and request Turek's account of what was on his clothing.
+Open Questions: Q-994, Q-1118
 
 ---
 
@@ -1600,6 +1620,7 @@ Mentions: N-208, N-246, N-1
 Related Nodes: N-10741
 Tags: relevance:core
 Investigative Direction: Obtain Jack Hibbs' outgoing call list for the minutes after Butch's call to see who he phoned.
+Open Questions: Q-1118
 
 ---
 
@@ -1617,6 +1638,7 @@ Related Nodes: N-10185
 Supports: C-11088
 Tags: relevance:core
 Investigative Direction: Re-examine the call-log artifact from the earlier episode and confirm call order, durations and counterparties.
+Open Questions: Q-212
 
 ---
 
@@ -1633,6 +1655,7 @@ Mentions: N-190, N-208, N-7
 Related Nodes: N-10185, N-10741
 Tags: relevance:core
 Investigative Direction: Check Mikey McCoy's call log for any call to a Hibbs number between 12:22 and 12:30.
+Open Questions: Q-1118
 
 ---
 
@@ -1649,6 +1672,7 @@ Mentions: N-190, N-17, N-208
 Related Nodes: N-10185, N-10248
 Tags: relevance:core
 Investigative Direction: Ask Calvary Chapel leaders whether a group call occurred and check merge-call entries in the logs.
+Open Questions: Q-1118
 
 ---
 
@@ -1666,6 +1690,7 @@ Related Nodes: N-10988
 Supports: C-8492, C-12366
 Tags: relevance:core
 Investigative Direction: Obtain the selfie video with metadata and the 911 call log to confirm Terryl's call history.
+Open Questions: Q-772, Q-1093
 
 ---
 
@@ -1683,6 +1708,7 @@ Related Nodes: N-10988
 Supports: C-12288
 Tags: relevance:core
 Investigative Direction: Seek the original SD card and a forensic image of Terryl's laptop to see whether files were accessed.
+Open Questions: Q-63, Q-1100
 
 ---
 
@@ -1700,6 +1726,7 @@ Related Nodes: N-10651
 Supports: C-10011
 Tags: relevance:core
 Investigative Direction: Match Neff's carrier records to the 911 call log, as established in earlier episodes.
+Open Questions: Q-772
 
 ---
 
@@ -1717,6 +1744,7 @@ Related Nodes: N-10663
 Supports: C-8491
 Tags: relevance:core
 Investigative Direction: Request 911 and dispatch records for all calls between 12:23 and 12:45 and match caller numbers.
+Open Questions: Q-772
 
 ---
 
@@ -1734,6 +1762,7 @@ Related Nodes: N-10648
 Supports: C-10667
 Tags: relevance:core
 Investigative Direction: Identify the SUV occupant from phone records and ask Shapiro's security team who was on the line.
+Open Questions: Q-947
 
 ---
 
@@ -1767,6 +1796,7 @@ Mentions: N-246, N-1
 Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Locate Butch Hibbs in pre-shot frames from multiple angles to check his position relative to Charlie and the tent.
+Open Questions: Q-302
 
 ---
 
@@ -1783,6 +1813,7 @@ Mentions: N-246, N-367
 Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Determine from video the backpack's size and contents if later opened or searched; the host only wonders what was in it.
+Open Questions: Q-302, Q-1120
 
 ---
 
@@ -1799,6 +1830,7 @@ Mentions: N-1, N-246, N-3
 Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Look for any instruction, message or planning document directing staff or guests to film; the host calls this speculation.
+Open Questions: Q-219
 
 ---
 
@@ -1815,6 +1847,7 @@ Mentions: N-246, N-1, N-208
 Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the full Butch Hibbs clip, plus his phone's call and recording metadata.
+Open Questions: Q-1118, Q-1121
 
 ---
 
@@ -1831,6 +1864,7 @@ Mentions: N-246
 Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Obtain the unedited clip and note total recording duration and any pause.
+Open Questions: Q-1121
 
 ---
 
@@ -1847,6 +1881,7 @@ Mentions: N-3
 Related Nodes: N-10742
 Tags: relevance:core
 Investigative Direction: Receive and vet tips on the attendee's identity; confirm the person's location in other UVU photos.
+Open Questions: Q-1122
 
 ---
 
@@ -1863,6 +1898,7 @@ Mentions: N-3
 Related Nodes: N-10742
 Tags: relevance:core
 Investigative Direction: Compile all UVU photos and video frames showing this person and note times and positions.
+Open Questions: Q-1122
 
 ---
 
@@ -1880,6 +1916,7 @@ Related Nodes: N-10740
 Supports: C-2878
 Tags: relevance:core
 Investigative Direction: Identify the news outlet, reporter and time of the interview and the original raw footage.
+Open Questions: Q-1121
 
 ---
 
@@ -1928,6 +1965,7 @@ Mentions: N-208, N-246, N-3
 Related Nodes: N-10740
 Tags: relevance:core
 Investigative Direction: Ask Jack and Butch Hibbs directly whether the recording exists and has been shared with law enforcement.
+Open Questions: Q-1121
 
 ---
 
@@ -1946,6 +1984,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Check the Utah Fourth District court docket for the hearing dates.
+Open Questions: Q-1123
 
 ---
 
@@ -1965,6 +2004,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3
 Investigative Direction: Read Utah Rule of Evidence 1102 and Utah Const. art. I, sec. 12 on preliminary-hearing hearsay.
+Open Questions: Q-1124
 
 ---
 
@@ -1981,6 +2021,7 @@ Mentions: N-54, N-40
 Related Nodes: N-10617, N-11065
 Tags: relevance:core
 Investigative Direction: Review the hearing record on Lance Twiggs' video testimony and any defense cross-exam rulings.
+Open Questions: Q-1125
 
 ---
 
@@ -1997,6 +2038,7 @@ Mentions: N-54
 Related Nodes: N-10617, N-11065
 Tags: relevance:core
 Investigative Direction: Review the video testimony to see whether the questioning was led and whether any objection was made.
+Open Questions: Q-1125
 
 ---
 
@@ -2013,6 +2055,7 @@ Mentions: N-506, N-860, N-40
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Read the hearing transcript of Bagley and Hull's testimony for the roadside-vehicle statement and its source.
+Open Questions: Q-1124, Q-1126
 
 ---
 
@@ -2032,6 +2075,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7, S-10
 Investigative Direction: Check the charging information for the seven counts and the state's notice of intent regarding the death penalty.
+Open Questions: Q-41
 
 ---
 
@@ -2048,6 +2092,7 @@ Mentions: N-40
 Related Nodes: N-11065, N-11066
 Tags: relevance:core
 Investigative Direction: Search Utah appellate decisions on the aggravated murder statute for single-victim convictions.
+Open Questions: Q-1127
 
 ---
 
@@ -2082,6 +2127,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Read the prosecution's response to the motion to dismiss for the single-shot argument and the ballistic basis.
+Open Questions: Q-1127
 
 ---
 
@@ -2100,6 +2146,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Compare the cited text messages in the probable cause statement with forensic extraction records.
+Open Questions: Q-183, Q-1127
 
 ---
 
@@ -2116,6 +2163,7 @@ Mentions: N-40
 Related Nodes: N-11065, N-11066
 Tags: relevance:core
 Investigative Direction: Read the state's response to the motion to dismiss and list the Pennsylvania cases it cites.
+Open Questions: Q-1127
 
 ---
 
@@ -2132,6 +2180,7 @@ Mentions: N-40
 Related Nodes: N-11066
 Tags: relevance:core
 Investigative Direction: Pull the cited Pennsylvania opinions to verify the facts the host summarizes.
+Open Questions: Q-1127
 
 ---
 
@@ -2182,6 +2231,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7, S-11
 Investigative Direction: Confirm the count list in the amended information.
+Open Questions: Q-41
 
 ---
 
@@ -2200,6 +2250,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-11
 Investigative Direction: Check the information and probable cause statement for the facts supporting the firearm-concealment count.
+Open Questions: Q-41
 
 ---
 
@@ -2218,6 +2269,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7, S-11
 Investigative Direction: Compare the charged clothing with the video-documented outfit changes (see the outfit discrepancy topic).
+Open Questions: Q-41, Q-1090
 
 ---
 
@@ -2236,6 +2288,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7, S-11
 Investigative Direction: Check the charging document and text extraction for the 'delete this exchange' message.
+Open Questions: Q-41
 
 ---
 
@@ -2254,6 +2307,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5, S-11
 Investigative Direction: Check the charging document and text extraction for the message at issue.
+Open Questions: Q-41
 
 ---
 
@@ -2270,6 +2324,7 @@ Mentions: N-40, N-54
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Read the defense motion to dismiss and the Utah witness tampering statute.
+Open Questions: Q-1128
 
 ---
 
@@ -2288,6 +2343,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7, S-11
 Investigative Direction: Read the defense brief on count seven and check whether any minors appear in crowd footage.
+Open Questions: Q-41, Q-1128, Q-1129
 
 ---
 
@@ -2305,6 +2361,7 @@ Related Nodes: N-11065
 Supports: C-12600
 Tags: relevance:core
 Investigative Direction: Read the motion to dismiss and the magistrate's written ruling when issued.
+Open Questions: Q-1128
 
 ---
 
@@ -2338,6 +2395,7 @@ Related Nodes: N-10809
 Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Obtain the emails and contracts referenced in earlier episodes and any FOIA responses.
+Open Questions: Q-1111
 
 ---
 
@@ -2354,6 +2412,7 @@ Mentions: N-606, N-3
 Related Nodes: N-10809, N-10000
 Tags: relevance:core
 Investigative Direction: Look for Department of War contracts or disclosure forms naming Allen and TPUSA payroll or contract records.
+Open Questions: Q-1111
 
 ---
 
@@ -2371,6 +2430,7 @@ Related Nodes: N-10890, N-10303
 Supports: C-9885, C-10092
 Tags: relevance:core
 Investigative Direction: Obtain call records or White House logs for Trump and Kirk in July 2025 and the content as described by the host's sources.
+Open Questions: Q-1130
 
 ---
 
@@ -2418,6 +2478,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10038
 Tags: relevance:core
 Investigative Direction: Review campus camera and phone-location evidence for Robinson's movements on September 10 in the prosecution exhibits.
+Open Questions: Q-1092
 
 ---
 
@@ -2450,6 +2511,7 @@ Mentions: N-40
 Related Nodes: N-10013, N-10521
 Tags: relevance:core
 Investigative Direction: Check the discovery logs and defense filings for the count of Discord messages produced.
+Open Questions: Q-792
 
 ---
 
@@ -2466,6 +2528,7 @@ Mentions: N-40
 Related Nodes: N-10521, N-10013
 Tags: relevance:core
 Investigative Direction: Find the court filing or hearing statement giving the 12.1 terabyte figure and the production timeline.
+Open Questions: Q-792
 
 ---
 
@@ -2562,6 +2625,7 @@ Related Nodes: N-10975
 Contradicts: C-10700
 Tags: relevance:core
 Investigative Direction: Check Neff's employment dates against payroll, bylines and his own account of his hiring (compare C-10700 and the employment-history topic).
+Open Questions: Q-1131
 
 ---
 

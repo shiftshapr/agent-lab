@@ -1148,6 +1148,7 @@ Related Nodes: N-10067, N-10675
 Supports: C-11104
 Tags: relevance:core
 Investigative Direction: Obtain the live Daily Mail article and its edit history to confirm the quotations remain and who is attributed.
+Open Questions: Q-998
 
 ---
 
@@ -1165,6 +1166,7 @@ Related Nodes: N-10067, N-10675
 Contradicts: C-11224
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public statements on the article with the Daily Mail's own account and any comment request it sent TPUSA.
+Open Questions: Q-998
 
 ---
 
@@ -1181,6 +1183,7 @@ Mentions: N-2, N-14, N-3
 Related Nodes: N-10067, N-10675
 Tags: relevance:core
 Investigative Direction: Identify the family friend and the Daily Mail reporter's sourcing; the host presents this as her inference, not a documented fact.
+Open Questions: Q-998
 
 ---
 
@@ -1213,6 +1216,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Find TPUSA staff listings, press releases or her contract showing her title and dates.
+Open Questions: Q-1004
 
 ---
 
@@ -1229,6 +1233,7 @@ Mentions: N-14, N-1, N-3, N-40
 Related Nodes: N-10003
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's original X post, its date and the Community Note attached to it (see C-11373).
+Open Questions: Q-1004
 
 ---
 
@@ -1246,6 +1251,7 @@ Related Nodes: N-10003
 Supports: C-1445
 Tags: relevance:core
 Investigative Direction: Re-examine the 2018 text and its metadata as shown in the earlier episode.
+Open Questions: Q-246, Q-1004
 
 ---
 
@@ -1263,6 +1269,7 @@ Related Nodes: N-10000, N-10003
 Supports: C-464
 Tags: relevance:core
 Investigative Direction: Obtain the contract, tour schedules or payment records, or TPUSA's confirmation of her tour dates.
+Open Questions: Q-1004
 
 ---
 
@@ -1280,6 +1287,7 @@ Related Nodes: N-10003
 Supports: C-11273
 Tags: relevance:core
 Investigative Direction: Compare the host's shared screenshots with the phone data held by Erika Kirk or a forensic copy; see C-11273 for the November 15, 2023 thread.
+Open Questions: Q-246
 
 ---
 
@@ -1296,6 +1304,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10358, N-10003
 Tags: relevance:core
 Investigative Direction: Locate the specific messages in the shared thread where Charlie names The Daily Wire and compare with Daily Wire's account.
+Open Questions: Q-246
 
 ---
 
@@ -1312,6 +1321,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10003
 Tags: relevance:core
 Investigative Direction: Identify the clips and dates of Charlie's public remarks.
+Open Questions: Q-1004
 
 ---
 
@@ -1328,6 +1338,7 @@ Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Seek donor correspondence, event invitation lists and TPUSA donor records for 2024-2025; the host names no donors in this passage.
+Open Questions: Q-6
 
 ---
 
@@ -1344,6 +1355,7 @@ Mentions: N-2, N-14, N-1
 Related Nodes: N-10586
 Tags: relevance:core
 Investigative Direction: Establish the custody of Charlie Kirk's phone and whether TPUSA or Erika has verified or denied the messages.
+Open Questions: Q-246
 
 ---
 
@@ -1359,6 +1371,7 @@ Anchored Artifacts: A-2982.1
 Mentions: N-14, N-3, N-5, N-82, N-1
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's post and the July 2025 clip, and compare any independent account of Charlie's reaction.
+Open Questions: Q-1014
 
 ---
 
@@ -1390,6 +1403,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10003
 Tags: relevance:core
 Investigative Direction: Find the August 2025 event video and transcript where Charlie makes the remark.
+Open Questions: Q-1004
 
 ---
 
@@ -1407,6 +1421,7 @@ Related Nodes: N-10681
 Supports: C-8542
 Tags: relevance:core
 Investigative Direction: Obtain the burial or cremation record, death certificate disposition field or funeral home confirmation.
+Open Questions: Q-816
 
 ---
 
@@ -1423,6 +1438,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Identify who filmed and released the casket footage, when, and with whose permission.
+Open Questions: Q-1015
 
 ---
 
@@ -1439,6 +1455,7 @@ Mentions: N-2, N-1
 Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Identify the videographer and the venue of the farewell footage.
+Open Questions: Q-1015
 
 ---
 
@@ -1456,6 +1473,7 @@ Related Nodes: N-10971, N-11118
 Supports: C-9750
 Tags: relevance:core
 Investigative Direction: Match the displayed photos to the Mar-a-Lago event and trace custody of the microphone; see C-9750.
+Open Questions: Q-1013
 
 ---
 
@@ -1488,6 +1506,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Identify the event where a replica tent was shown and who organized it.
+Open Questions: Q-1013
 
 ---
 
@@ -1521,6 +1540,7 @@ Mentions: N-798, N-2, N-1
 Related Nodes: N-10006, N-10681
 Tags: relevance:core
 Investigative Direction: Obtain the full Fox News segment and any pre-interview arrangements.
+Open Questions: Q-816
 
 ---
 
@@ -1537,6 +1557,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10000, N-10681
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's memorial plans, budget and timeline.
+Open Questions: Q-816
 
 ---
 
@@ -1553,6 +1574,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Check whether any threat or vandalism report involves the grave or burial site.
+Open Questions: Q-816
 
 ---
 
@@ -1569,6 +1591,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Find any corroboration of Charlie's stated burial wishes, such as family statements or estate documents.
+Open Questions: Q-816
 
 ---
 
@@ -1586,6 +1609,7 @@ Related Nodes: N-10630
 Supports: C-10102
 Tags: relevance:core
 Investigative Direction: Pull Harpole's court filing and compare its 911 statement with Utah dispatch and carrier records.
+Open Questions: Q-894
 
 ---
 
@@ -1603,6 +1627,7 @@ Related Nodes: N-10663
 Supports: C-10902
 Tags: relevance:core
 Investigative Direction: Repeat a GRAMA request for all 911 and CAD records for the 12:20-12:45 window and identify the independent reviewers.
+Open Questions: Q-894
 
 ---
 
@@ -1620,6 +1645,7 @@ Related Nodes: N-10663
 Supports: C-10897
 Tags: relevance:core
 Investigative Direction: Obtain phone records of the vehicle occupants for the transport window.
+Open Questions: Q-882, Q-894
 
 ---
 
@@ -1636,6 +1662,7 @@ Mentions: N-7, N-190, N-3
 Related Nodes: N-10630
 Tags: relevance:core
 Investigative Direction: Compare each occupant's account with call detail records and the vice president's office log.
+Open Questions: Q-882, Q-894
 
 ---
 
@@ -1669,6 +1696,7 @@ Related Nodes: N-10680
 Supports: C-11395
 Tags: relevance:core
 Investigative Direction: Obtain the 911 audio and carrier call-detail record for call duration and number of the calling handset.
+Open Questions: Q-894
 
 ---
 
@@ -1686,6 +1714,7 @@ Related Nodes: N-10680
 Supports: C-11395
 Tags: relevance:core
 Investigative Direction: Review the audio for road noise and compare with the SUV's reported speed on the route to Timpanogos Regional Hospital.
+Open Questions: Q-894
 
 ---
 
@@ -1735,6 +1764,7 @@ Related Nodes: N-10663, N-10680
 Supports: C-10233
 Tags: relevance:core
 Investigative Direction: Ask Utah County dispatch for the retention log of all calls in the time window, including any deletions or non-released audio.
+Open Questions: Q-894
 
 ---
 
@@ -1752,6 +1782,7 @@ Related Nodes: N-10663
 Supports: C-10102
 Tags: relevance:core
 Investigative Direction: Compare each occupant's phone call logs and sworn statements about who dialed.
+Open Questions: Q-894
 
 ---
 
@@ -1768,6 +1799,7 @@ Mentions: N-3
 Related Nodes: N-10663
 Tags: relevance:core
 Investigative Direction: Check subsequent episodes for the identification and its sourcing.
+Open Questions: Q-894
 
 ---
 
@@ -1926,6 +1958,7 @@ Mentions: N-14, N-493, N-494, N-3
 Related Nodes: N-10682, N-10072
 Tags: relevance:core
 Investigative Direction: White House visitor logs and the host's tweet timestamp; identify the tipster.
+Open Questions: Q-1016
 
 ---
 
@@ -1959,6 +1992,7 @@ Related Nodes: N-10682
 Contradicts: C-10109
 Tags: relevance:core
 Investigative Direction: Compare the Kirk Show recording metadata and Kolvet's travel records for January 29 with the earlier claim in C-10109.
+Open Questions: Q-1017
 
 ---
 
@@ -1991,6 +2025,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10682
 Tags: relevance:core
 Investigative Direction: Save the host's reply thread with timestamps and any later response from Kolvet.
+Open Questions: Q-1016
 
 ---
 
@@ -2023,6 +2058,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10672, N-10344
 Tags: relevance:core
 Investigative Direction: Locate the earlier episode where the SUV photos were shown and verify their provenance.
+Open Questions: Q-885
 
 ---
 
@@ -2039,6 +2075,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10682
 Tags: relevance:core
 Investigative Direction: Check the next episode for any receipt on the White House meeting.
+Open Questions: Q-1016
 
 ---
 
@@ -2055,6 +2092,7 @@ Mentions: N-14, N-493, N-494, N-3
 Related Nodes: N-10682, N-10072
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor and appointment logs for the named TPUSA executives for the week.
+Open Questions: Q-1016
 
 ---
 
@@ -2136,6 +2174,7 @@ Related Nodes: N-10003
 Supports: C-11364
 Tags: relevance:core
 Investigative Direction: Locate the earlier Kolvet post challenging her to show proof (see the 00:04:18 claim).
+Open Questions: Q-1003, Q-1004
 
 ---
 
@@ -2233,6 +2272,7 @@ Related Nodes: N-10000
 Supports: C-5094
 Tags: relevance:core
 Investigative Direction: Compare with the night-before group text (C-10089) and obtain the donor correspondence.
+Open Questions: Q-6, Q-1001
 
 ---
 
@@ -2250,6 +2290,7 @@ Related Nodes: N-10000
 Supports: C-5094
 Tags: relevance:core
 Investigative Direction: Identify who "they" refers to; the host does not name them here.
+Open Questions: Q-6, Q-1001
 
 ---
 
@@ -2266,6 +2307,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Request law-enforcement interview logs for TPUSA personnel and Erika Kirk.
+Open Questions: Q-1018
 
 ---
 
@@ -2299,6 +2341,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10021, N-10022, N-11065
 Tags: relevance:core
 Investigative Direction: Review the preliminary-hearing record and exhibit list for any confession or turn-in evidence.
+Open Questions: Q-34, Q-1012
 
 ---
 
@@ -2315,6 +2358,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11122
 Tags: relevance:core
 Investigative Direction: Identify the three rings from family photos and the one in the footage.
+Open Questions: Q-578
 
 ---
 
@@ -2348,6 +2392,7 @@ Mentions: N-14, N-5, N-3
 Supports: C-11373
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's posts before and after the Community Note.
+Open Questions: Q-1014
 
 ---
 

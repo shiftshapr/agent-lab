@@ -2284,7 +2284,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-1"
+      ]
     }
   ],
   "memes": [

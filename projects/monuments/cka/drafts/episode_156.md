@@ -830,6 +830,7 @@ Mentions: N-3
 Supports: C-13446
 Tags: relevance:core
 Investigative Direction: Compare the cropped clip from the prior episode with the wider version to see what the crop removed.
+Open Questions: Q-1226
 
 ---
 
@@ -847,6 +848,7 @@ Related Nodes: N-10781
 Supports: C-13446
 Tags: relevance:core
 Investigative Direction: Identify the person in red by the van through event photographs or attendee lists and confirm the clothing.
+Open Questions: Q-1226
 
 ---
 
@@ -862,6 +864,7 @@ Anchored Artifacts: A-2416.1
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Watch for the promised labeled version of the tent footage and check which people are named.
+Open Questions: Q-1226
 
 ---
 
@@ -877,6 +880,7 @@ Anchored Artifacts: A-2417.1
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Obtain the unblurred full-length footage and a list of who stood around the black SUV in the first minutes.
+Open Questions: Q-1226
 
 ---
 
@@ -893,6 +897,7 @@ Mentions: N-3
 Supports: C-13451
 Tags: relevance:core
 Investigative Direction: Identify each person recording near the black car and compare against later news interviews.
+Open Questions: Q-1226
 
 ---
 
@@ -940,6 +945,7 @@ Related Nodes: N-10048
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Trace the first publication of the Dairy Queen photo and its original source.
+Open Questions: Q-56
 
 ---
 
@@ -957,6 +963,7 @@ Related Nodes: N-10048, N-10775
 Qualifies: C-403
 Tags: relevance:core
 Investigative Direction: Identify who first read and relayed the 6:38 timestamp and obtain the Dairy Queen system settings.
+Open Questions: Q-56
 
 ---
 
@@ -974,6 +981,7 @@ Related Nodes: N-10354, N-10048
 Supports: C-4518
 Tags: relevance:core
 Investigative Direction: Obtain the Panguitch receipt and its time stamp and compare it against the Orem to Panguitch drive time.
+Open Questions: Q-56
 
 ---
 
@@ -990,6 +998,7 @@ Mentions: N-3
 Related Nodes: N-10775
 Tags: relevance:core
 Investigative Direction: Ask the franchise owner or manager about the camera clock settings and when they were last checked.
+Open Questions: Q-56
 
 ---
 
@@ -1006,6 +1015,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10775
 Tags: relevance:core
 Investigative Direction: Establish through footage or records where Tyler Robinson was on campus on September 10 and who the cemetery source was.
+Open Questions: Q-413, Q-1140
 
 ---
 
@@ -1022,6 +1032,7 @@ Mentions: N-3, N-40, N-54
 Related Nodes: N-10048, N-10161
 Tags: relevance:core
 Investigative Direction: Check the cemetery dumpsters and nearby cameras and compare the Dairy Queen photo subject with images of Lance Twiggs.
+Open Questions: Q-56, Q-413, Q-822
 
 ---
 
@@ -1037,6 +1048,7 @@ Anchored Artifacts:
 Mentions: N-3, N-40
 Tags: relevance:core
 Investigative Direction: Locate any footage or records that place Tyler Robinson on campus during the shooting.
+Open Questions: Q-1140
 
 ---
 
@@ -1054,6 +1066,7 @@ Related Nodes: N-10645
 Supports: C-13467
 Tags: relevance:core
 Investigative Direction: Identify the critics' stated rebuttal and compare it with the full set of garage footage.
+Open Questions: Q-1214
 
 ---
 
@@ -1071,6 +1084,7 @@ Related Nodes: N-10645
 Supports: C-13462
 Tags: relevance:core
 Investigative Direction: Ask for service or modification records for the Challenger and the source of the 33-hour window.
+Open Questions: Q-1214
 
 ---
 
@@ -1087,6 +1101,7 @@ Mentions: N-3
 Related Nodes: N-10048, N-10775
 Tags: relevance:core, dia, tip line
 Investigative Direction: Obtain the Dairy Queen police report, the footage and the text chain the host refers to.
+Open Questions: Q-56
 
 ---
 
@@ -1103,6 +1118,7 @@ Mentions: N-3, N-40
 Related Nodes: N-11067
 Tags: relevance:core
 Investigative Direction: Obtain the warrant text and the shopping-center camera footage for the 12:44 sighting.
+Open Questions: Q-1227
 
 ---
 
@@ -1119,6 +1135,7 @@ Mentions: N-3, N-188
 Related Nodes: N-11067
 Tags: relevance:core
 Investigative Direction: Ask Ryan Matta for the original source and date of the shopping-center sighting report.
+Open Questions: Q-1228
 
 ---
 
@@ -1135,6 +1152,7 @@ Mentions: N-3, N-40
 Related Nodes: N-11067, N-10774
 Tags: relevance:core
 Investigative Direction: Obtain the warrant applications to see what the car wash warrant cited as probable cause.
+Open Questions: Q-1228
 
 ---
 
@@ -1152,6 +1170,7 @@ Related Nodes: N-11067, N-10774
 Supports: C-13476
 Tags: relevance:core
 Investigative Direction: Obtain the shopping center surveillance footage cited in the narrative.
+Open Questions: Q-1227
 
 ---
 
@@ -1168,6 +1187,7 @@ Mentions: N-3
 Related Nodes: N-10735, N-10571
 Tags: relevance:core
 Investigative Direction: Compare the exhibits as shown at the hearing with the originals to confirm any aspect ratio or quality alteration.
+Open Questions: Q-1219
 
 ---
 
@@ -1185,6 +1205,7 @@ Related Nodes: N-10774, N-10773
 Supports: C-13475
 Tags: relevance:core
 Investigative Direction: Seek the Quick Quack footage and license plate capture through records requests or discovery.
+Open Questions: Q-1227
 
 ---
 
@@ -1201,6 +1222,7 @@ Mentions: N-3, N-54, N-40
 Related Nodes: N-11068
 Tags: relevance:core
 Investigative Direction: Request device and account login records for Tyler Robinson's accounts for September 10.
+Open Questions: Q-822, Q-1229
 
 ---
 
@@ -1217,6 +1239,7 @@ Mentions: N-3, N-54
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Check the court record for any immunity agreement or terms given to Lance Twiggs.
+Open Questions: Q-822
 
 ---
 
@@ -1233,6 +1256,7 @@ Mentions: N-3, N-40
 Related Nodes: N-11068, N-10774
 Tags: relevance:core
 Investigative Direction: Test reproducibility and check whether the warrant's route record was tagged to a device or account session.
+Open Questions: Q-1229
 
 ---
 
@@ -1250,6 +1274,7 @@ Related Nodes: N-10545
 Supports: C-352
 Tags: relevance:core
 Investigative Direction: Interview Lance's family and review the investigative record on his questioning.
+Open Questions: Q-822
 
 ---
 
@@ -1297,6 +1322,7 @@ Related Nodes: N-10774
 Supports: C-13475
 Tags: relevance:core
 Investigative Direction: Obtain the full warrant and the Quick Quack transaction records.
+Open Questions: Q-1227
 
 ---
 
@@ -1313,6 +1339,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10086
 Tags: relevance:core
 Investigative Direction: Check the charging documents and lab reports for the towel and screwdriver evidence.
+Open Questions: Q-1222
 
 ---
 
@@ -1329,6 +1356,7 @@ Mentions: N-3, N-188
 Related Nodes: N-11067
 Tags: relevance:core
 Investigative Direction: Reconstruct the chain of contacts from the original shopping center witness to Ryan Matta.
+Open Questions: Q-1228
 
 ---
 
@@ -1345,6 +1373,7 @@ Mentions: N-3
 Related Nodes: N-10774, N-11067
 Tags: relevance:core, dia, tip line
 Investigative Direction: Collect the emailed information on the Quick Quack car wash and the Mountain Shadows shopping center.
+Open Questions: Q-1227
 
 ---
 
@@ -1360,6 +1389,7 @@ Anchored Artifacts: A-2904.3
 Mentions: N-3
 Tags: relevance:core, dia, tip line
 Investigative Direction: Audit the tip inbox delivery failures the host describes.
+Open Questions: Q-56, Q-1227
 
 ---
 
@@ -1391,6 +1421,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10773, N-10645
 Tags: relevance:core
 Investigative Direction: Check Tyler Robinson's registration and VIN for the engine type.
+Open Questions: Q-1214
 
 ---
 
@@ -1408,6 +1439,7 @@ Related Nodes: N-10773, N-10645
 Supports: C-13462
 Tags: relevance:core
 Investigative Direction: Have a vehicle expert examine the wheels and exhaust in the garage footage.
+Open Questions: Q-1214
 
 ---
 
@@ -1577,6 +1609,7 @@ Mentions: N-3, N-2, N-18, N-1
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the video, its provenance and how it came to be released through Wilson.
+Open Questions: Q-1230
 
 ---
 
@@ -1593,6 +1626,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the donation email and compare its date with the note's origin.
+Open Questions: Q-1230
 
 ---
 
@@ -1624,6 +1658,7 @@ Mentions: N-3, N-2, N-46, N-22
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Check whether the Wilson video was offered as evidence of where Erika was on September 9.
+Open Questions: Q-1230
 
 ---
 
@@ -1640,6 +1675,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare with the host's earlier episodes on TPUSA to date this change of view.
+Open Questions: Q-1193
 
 ---
 
@@ -1656,6 +1692,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Watch for any filed suit by TPUSA against the host.
+Open Questions: Q-1193
 
 ---
 
@@ -1687,6 +1724,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10048, N-10774, N-11067
 Tags: relevance:core, dia, tip line
 Investigative Direction: Collect and triage tips on Dairy Queen, the shopping center and the car wash.
+Open Questions: Q-56, Q-1227
 
 ---
 
@@ -1722,6 +1760,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3
 Investigative Direction: Review the hearing testimony for each reference to partial plates.
+Open Questions: Q-1218
 
 ---
 
@@ -1738,6 +1777,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10776, N-10773
 Tags: relevance:core
 Investigative Direction: Obtain any garage footage showing the Challenger's plate.
+Open Questions: Q-1214
 
 ---
 
@@ -1754,6 +1794,7 @@ Mentions: N-3
 Related Nodes: N-10776, N-10773
 Tags: relevance:core
 Investigative Direction: Compare plate numbers in both vehicles' images against registration records.
+Open Questions: Q-1214
 
 ---
 

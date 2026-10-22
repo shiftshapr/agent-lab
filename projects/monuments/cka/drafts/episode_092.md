@@ -1392,6 +1392,7 @@ Related Nodes: N-10554
 Supports: C-8206
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's April 14, 2026 travel records or private-aviation flight data and the time the decision was communicated to TPUSA event staff.
+Open Questions: Q-804
 
 ---
 
@@ -1408,6 +1409,7 @@ Mentions: N-14, N-2
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain the full video of the UGA stage remarks and check who, if anyone, Kolvet named as the critics.
+Open Questions: Q-805
 
 ---
 
@@ -1440,6 +1442,7 @@ Mentions: N-14, N-887, N-2
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News segment and reporting on the Savanah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.
+Open Questions: Q-805
 
 ---
 
@@ -1473,6 +1476,7 @@ Mentions: N-2
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Collect earlier plane-tracking coverage of Erika Kirk's travel and compare it with her cancelled appearances.
+Open Questions: Q-805
 
 ---
 
@@ -1505,6 +1509,7 @@ Mentions:
 Related Nodes: N-10555, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the event registration page, ticket terms and registration counts.
+Open Questions: Q-806
 
 ---
 
@@ -1522,6 +1527,7 @@ Related Nodes: N-10555
 Supports: C-8221
 Tags: relevance:core
 Investigative Direction: Obtain the event's ticket registration totals and any internal TPUSA attendance projections.
+Open Questions: Q-806
 
 ---
 
@@ -1554,6 +1560,7 @@ Mentions: N-2, N-280, N-3
 Related Nodes: N-10555
 Tags: relevance:core
 Investigative Direction: Locate the DC event's registration and attendance data and ask the volunteers' sources for corroboration.
+Open Questions: Q-806
 
 ---
 
@@ -1571,6 +1578,7 @@ Related Nodes: N-10555, N-10000
 Supports: C-8221
 Tags: relevance:core
 Investigative Direction: Compare the UGA attendance estimate against TPUSA's other event turnout figures.
+Open Questions: Q-806
 
 ---
 
@@ -1604,6 +1612,7 @@ Related Nodes: N-10554
 Supports: C-8206
 Tags: relevance:core
 Investigative Direction: Compare the timestamp of Erika Kirk's X post with the start of the event and the stage announcement.
+Open Questions: Q-804
 
 ---
 
@@ -1653,6 +1662,7 @@ Related Nodes: N-10559
 Supports: C-8231
 Tags: relevance:core
 Investigative Direction: Obtain the school's communications and the time the Parent Alert was sent.
+Open Questions: Q-807
 
 ---
 
@@ -1669,6 +1679,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10559
 Tags: relevance:core
 Investigative Direction: Obtain parent and school-administration communications from the week of April 6 to April 13, 2026.
+Open Questions: Q-807
 
 ---
 
@@ -1701,6 +1712,7 @@ Mentions: N-4, N-1, N-887
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain the full Vance remarks and check whether the plural was scripted or an error.
+Open Questions: Q-21, Q-805
 
 ---
 
@@ -1779,6 +1791,7 @@ Mentions: N-2, N-598, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the Bessent letter and its recipient and date, and any Treasury statement about TPUSA finances.
+Open Questions: Q-808
 
 ---
 
@@ -1810,6 +1823,7 @@ Mentions: N-3
 Related Nodes: N-10073, N-10324
 Tags: relevance:core
 Investigative Direction: Obtain 911 call logs for the UVU shooting and timestamped footage of the camera removal.
+Open Questions: Q-809
 
 ---
 
@@ -1826,6 +1840,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11213, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain school district communications and student or parent accounts of mandatory attendance at TPUSA events.
+Open Questions: Q-810
 
 ---
 
@@ -1842,6 +1857,7 @@ Mentions: N-14, N-2
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain the Charlie Kirk Show segment and the Secret Service's statement on its role.
+Open Questions: Q-805
 
 ---
 
@@ -1858,6 +1874,7 @@ Mentions: N-14, N-2
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain itinerary or booking changes for the Georgia trip and the date they were made.
+Open Questions: Q-805
 
 ---
 
@@ -1875,6 +1892,7 @@ Related Nodes: N-10318
 Supports: C-3565
 Tags: relevance:core
 Investigative Direction: Obtain the security-team text thread from September 9, 2025 and identify who received the messages (transcript wording is garbled).
+Open Questions: Q-171
 
 ---
 
@@ -1939,6 +1957,7 @@ Mentions: N-341, N-1, N-3
 Related Nodes: N-10551
 Tags: relevance:core
 Investigative Direction: Find archived copies of the Marx post, its timestamp relative to the official announcement, and any deletion record.
+Open Questions: Q-811
 
 ---
 
@@ -2003,6 +2022,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask the host for the number of such offers and whether any tip has been verified.
+Open Questions: Q-584
 
 ---
 
@@ -2054,6 +2074,7 @@ Related Nodes: N-10374
 Supports: C-4755
 Tags: relevance:core
 Investigative Direction: Check the Maxfields' charity filings (Saprea) and the plane ownership records.
+Open Questions: Q-812
 
 ---
 
@@ -2070,6 +2091,7 @@ Mentions: N-687, N-2, N-3
 Related Nodes: N-11081, N-10374
 Tags: relevance:core
 Investigative Direction: Obtain Army and court records for the charge against Busher and any Romanian Angels staff or board listing.
+Open Questions: Q-813
 
 ---
 
@@ -2086,6 +2108,7 @@ Mentions: N-450, N-2, N-3
 Related Nodes: N-10384, N-10374
 Tags: relevance:core
 Investigative Direction: Review the lawsuit filings against Harvest Christian Fellowship and Erika Kirk's tour appearances with Laurie.
+Open Questions: Q-813
 
 ---
 
@@ -2103,6 +2126,7 @@ Related Nodes: N-10093
 Supports: C-4757
 Tags: relevance:core
 Investigative Direction: Obtain the Zinn charging documents and booking records.
+Open Questions: Q-135
 
 ---
 
@@ -2120,6 +2144,7 @@ Related Nodes: N-10304
 Supports: C-4760
 Tags: relevance:core
 Investigative Direction: Obtain Piscatello's public statements on the subject and the detention record.
+Open Questions: Q-814
 
 ---
 
@@ -2153,6 +2178,7 @@ Mentions: N-237, N-325, N-3
 Related Nodes: N-11083
 Tags: relevance:core
 Investigative Direction: Identify the source for the meeting claim and any record of Ballard's schedule on September 10, 2025.
+Open Questions: Q-815
 
 ---
 
@@ -2170,6 +2196,7 @@ Related Nodes: N-10392
 Supports: C-5178
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's earlier statements on China and any records of the charity she worked with.
+Open Questions: Q-813
 
 ---
 
@@ -2253,6 +2280,7 @@ Related Nodes: N-10556
 Supports: C-8261
 Tags: relevance:core
 Investigative Direction: Seek independent corroboration of Wada's testimony about arms trafficking in Poland.
+Open Questions: Q-803
 
 ---
 
@@ -2270,6 +2298,7 @@ Related Nodes: N-10122, N-10556
 Supports: C-8261
 Tags: relevance:core
 Investigative Direction: Capture Wada's LinkedIn page and compare the Poland residence with the dates in his TPUSA biography.
+Open Questions: Q-803
 
 ---
 
@@ -2286,6 +2315,7 @@ Mentions: N-3, N-1, N-40
 Supports: C-388
 Tags: relevance:core
 Investigative Direction: Review the court filings and forensic evidence for any additional participant.
+Open Questions: Q-21, Q-152
 
 ---
 
@@ -2302,6 +2332,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10681, N-10193
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's own public statements on the burial site.
+Open Questions: Q-816
 
 ---
 
@@ -2318,6 +2349,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Obtain the death certificate, cemetery or crematorium records, and funeral details.
+Open Questions: Q-816
 
 ---
 
@@ -2334,6 +2366,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11214
 Tags: relevance:core
 Investigative Direction: Identify the event organizers and anyone Erika Kirk contacted, and obtain the call or message records.
+Open Questions: Q-817
 
 ---
 
@@ -2350,6 +2383,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11098, N-10554
 Tags: relevance:core
 Investigative Direction: Identify the fired employees and compare their accounts with TPUSA's communications records.
+Open Questions: Q-584
 
 ---
 
@@ -2365,6 +2399,7 @@ Anchored Artifacts:
 Mentions: N-2, N-209, N-3
 Tags: relevance:core
 Investigative Direction: Find any public statement by Erika Kirk about Joe Kent and the date of the host's source.
+Open Questions: Q-797
 
 ---
 

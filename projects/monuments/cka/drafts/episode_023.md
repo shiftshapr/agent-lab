@@ -1569,6 +1569,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Compare the proof the host presents later in the episode (flight data, tips) against independent records; the claim is only testable through what she later shows.
+Open Questions: Q-17
 
 ---
 
@@ -1588,6 +1589,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-3
 Investigative Direction: Review UVU campus access logs, camera footage and the charging documents on how and when Robinson reached the campus.
+Open Questions: Q-17, Q-21, Q-110
 
 ---
 
@@ -1621,6 +1623,7 @@ Related Nodes: N-10199, N-10239
 Supports: C-2015
 Tags: relevance:core
 Investigative Direction: Obtain the ADS-B departure record for SUBTT from Provo on September 10, 2025 and its local departure time.
+Open Questions: Q-235
 
 ---
 
@@ -1638,6 +1641,7 @@ Related Nodes: N-10199, N-10239
 Supports: C-2016
 Tags: relevance:core
 Investigative Direction: Compare the host's original tweet, the correcting post and the Flightradar time-zone display for SUBTT on September 10, 2025.
+Open Questions: Q-235
 
 ---
 
@@ -1655,6 +1659,7 @@ Related Nodes: N-10199, N-10239
 Supports: C-2019, C-2139
 Tags: relevance:core
 Investigative Direction: Obtain passenger and crew declarations for the SUBTT arrival and departure at Provo, and identify the overseas source through the host.
+Open Questions: Q-233
 
 ---
 
@@ -1671,6 +1676,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10199, N-10071
 Tags: relevance:core
 Investigative Direction: Pull the Flightradar archive for SUBTT in April 2024 and Kirk's April 2024 Utah schedule to confirm the overlap.
+Open Questions: Q-236, Q-237
 
 ---
 
@@ -1688,6 +1694,7 @@ Related Nodes: N-10199, N-10200, N-10000
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Build a dated list of all U.S. arrivals of SUBTT and SUBND and test each against TPUSA's event calendar to measure the actual overlap rate versus chance.
+Open Questions: Q-236
 
 ---
 
@@ -1720,6 +1727,7 @@ Mentions: N-3
 Related Nodes: N-10199
 Tags: relevance:core
 Investigative Direction: Obtain FAA and customs overflight and landing records for SU-BTT for 2022 to extend the history beyond Flightradar's window.
+Open Questions: Q-237
 
 ---
 
@@ -1897,6 +1905,7 @@ Mentions: N-205
 Related Nodes: N-11246, N-10199, N-10200
 Tags: relevance:core
 Investigative Direction: Confirm the date, city and venue of the first Kingdom tour stop and compare with the SUBND and SUBTT St. Louis arrivals.
+Open Questions: Q-236
 
 ---
 
@@ -2025,6 +2034,7 @@ Mentions: N-17, N-205
 Related Nodes: N-11246, N-10199
 Tags: relevance:core
 Investigative Direction: Confirm the Jefferson City event date and venue and compare with SUBTT's April 1 St. Louis arrival.
+Open Questions: Q-236
 
 ---
 
@@ -2042,6 +2052,7 @@ Related Nodes: N-10250, N-10199
 Supports: C-2024
 Tags: relevance:core
 Investigative Direction: Check Flightradar and FAA records for SUBTT departures routed via Wilmington, Delaware.
+Open Questions: Q-237
 
 ---
 
@@ -2058,6 +2069,7 @@ Mentions: N-205
 Related Nodes: N-11246, N-10199
 Tags: relevance:core
 Investigative Direction: Confirm the Topeka event date and compare with SUBTT's Kansas landing and stay.
+Open Questions: Q-236
 
 ---
 
@@ -2075,6 +2087,7 @@ Related Nodes: N-11246, N-10199, N-10200
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Compare the plane visit dates with a complete TPUSA Faith event calendar to see whether the overlaps exceed chance.
+Open Questions: Q-236
 
 ---
 
@@ -2123,6 +2136,7 @@ Mentions: N-3
 Related Nodes: N-10203, N-10199
 Tags: relevance:core
 Investigative Direction: Obtain Lincoln Airport FBO and ramp records for SUBTT from February 9 to 14, 2024.
+Open Questions: Q-236, Q-237
 
 ---
 
@@ -2140,6 +2154,7 @@ Related Nodes: N-10250, N-10199
 Supports: C-2024
 Tags: relevance:core
 Investigative Direction: Check Flightradar and Wilmington airport records for SUBTT between February 14 and 16, 2024.
+Open Questions: Q-237
 
 ---
 
@@ -2156,6 +2171,7 @@ Mentions: N-1
 Related Nodes: N-10199
 Tags: relevance:core
 Investigative Direction: Confirm Kirk's University of Kansas event date and SUBTT's Wichita arrival date.
+Open Questions: Q-236
 
 ---
 
@@ -2188,6 +2204,7 @@ Mentions:
 Related Nodes: N-10199, N-10200, N-10071
 Tags: relevance:core
 Investigative Direction: Verify both tails at Provo in April 2024 from Flightradar and airport records and identify who met them.
+Open Questions: Q-237
 
 ---
 
@@ -2204,6 +2221,7 @@ Mentions: N-1
 Related Nodes: N-10120
 Tags: relevance:core
 Investigative Direction: Confirm the University of Utah event date and compare with the April 2024 arrivals at Provo.
+Open Questions: Q-236
 
 ---
 
@@ -2285,6 +2303,7 @@ Mentions: N-1, N-22
 Related Nodes: N-10053, N-10016
 Tags: relevance:core
 Investigative Direction: Seek confirmation from Carlson or backstage staff and any messages between Kirk and Carlson from July 2025.
+Open Questions: Q-238
 
 ---
 
@@ -2349,6 +2368,7 @@ Mentions: N-11, N-3
 Related Nodes: N-10026, N-10053, N-10000
 Tags: relevance:core
 Investigative Direction: Ask Bowyer or witnesses about the exchange and look for TPUSA statements on its Israel position.
+Open Questions: Q-6
 
 ---
 
@@ -2365,6 +2385,7 @@ Mentions: N-55, N-38, N-22
 Related Nodes: N-10016, N-10323
 Tags: relevance:core
 Investigative Direction: Collect Hammer's and Dillon's public posts and statements from July 11 to 13, 2025.
+Open Questions: Q-6
 
 ---
 
@@ -2382,6 +2403,7 @@ Related Nodes: N-10016
 Supports: C-2122
 Tags: relevance:core
 Investigative Direction: Identify the donors and obtain any messages to Kirk from July 11 to 13, 2025.
+Open Questions: Q-6
 
 ---
 
@@ -2398,6 +2420,7 @@ Mentions: N-22
 Related Nodes: N-10203, N-10199
 Tags: relevance:core
 Investigative Direction: Obtain Omaha and Lincoln airport records for SUBTT for July 20 to 26, 2025.
+Open Questions: Q-237
 
 ---
 
@@ -2415,6 +2438,7 @@ Related Nodes: N-10129
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Obtain the messages in which Kirk used the word intervention and identify the recipients.
+Open Questions: Q-9
 
 ---
 
@@ -2432,6 +2456,7 @@ Related Nodes: N-10323, N-10129
 Supports: C-2037
 Tags: relevance:core
 Investigative Direction: Interview attendees and compare with Dillon's published account of the Hamptons meeting.
+Open Questions: Q-9
 
 ---
 
@@ -2449,6 +2474,7 @@ Related Nodes: N-10018, N-10320
 Supports: C-84
 Tags: relevance:core
 Investigative Direction: Obtain Netanyahu's public statement on the call and any record from Kirk's side of his answer.
+Open Questions: Q-180
 
 ---
 
@@ -2483,6 +2509,7 @@ Related Nodes: N-10000, N-10204, N-11087
 Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA financial statements and banking flow data; test the insiders' description.
+Open Questions: Q-239
 
 ---
 
@@ -2499,6 +2526,7 @@ Mentions: N-3
 Related Nodes: N-10203, N-11012, N-10199
 Tags: relevance:core
 Investigative Direction: Obtain Omaha and Lincoln airport records for SUBTT from August 17, 2025 and compare with any official visits to Nebraska that week.
+Open Questions: Q-237
 
 ---
 
@@ -2516,6 +2544,7 @@ Related Nodes: N-10199, N-10071
 Supports: C-2025
 Tags: relevance:core
 Investigative Direction: Verify the Minot stop and Provo landing time from Flightradar and customs records.
+Open Questions: Q-235
 
 ---
 
@@ -2533,6 +2562,7 @@ Related Nodes: N-10199
 Supports: C-2139
 Tags: relevance:core
 Investigative Direction: Obtain crew and passenger declarations for the SUBTT departure on September 10, 2025.
+Open Questions: Q-233
 
 ---
 
@@ -2549,6 +2579,7 @@ Mentions: N-1
 Related Nodes: N-11245
 Tags: relevance:core
 Investigative Direction: Pull FAA and Flightradar histories for the Scottsdale aircraft that flew into Utah on September 10, 2025 and identify their operators.
+Open Questions: Q-240
 
 ---
 
@@ -2565,6 +2596,7 @@ Mentions: N-1
 Related Nodes: N-11245
 Tags: relevance:core
 Investigative Direction: Compare against the official time of the shooting from UVU police and 911 records.
+Open Questions: Q-241
 
 ---
 
@@ -2581,6 +2613,7 @@ Mentions: N-2
 Related Nodes: N-11245
 Tags: relevance:core
 Investigative Direction: Obtain the N102DZ operator, passenger list and Erika Kirk's September 10 travel itinerary.
+Open Questions: Q-240
 
 ---
 
@@ -2597,6 +2630,7 @@ Mentions: N-190
 Related Nodes: N-11245
 Tags: relevance:core
 Investigative Direction: Compare with Mikey McCoy's own accounts of where he and his wife were on September 10.
+Open Questions: Q-213, Q-240, Q-242
 
 ---
 
@@ -2613,6 +2647,7 @@ Mentions: N-190, N-1
 Related Nodes: N-10186, N-10000
 Tags: relevance:core
 Investigative Direction: Find TPUSA staff willing to describe succession planning for Mikey McCoy and compare with internal org charts.
+Open Questions: Q-243
 
 ---
 
@@ -2742,6 +2777,7 @@ Mentions: N-40
 Related Nodes: N-10031, N-11047
 Tags: relevance:core
 Investigative Direction: Check the factual basis of the 33 pairings (file number, lodge number); the numerology inference is not testable.
+Open Questions: Q-21, Q-244
 
 ---
 
@@ -2806,6 +2842,7 @@ Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compile the timeline of TPUSA public statements and posts from the hours after the shooting.
+Open Questions: Q-245
 
 ---
 
@@ -2839,6 +2876,7 @@ Related Nodes: N-10201, N-10053
 Supports: C-2042
 Tags: relevance:core
 Investigative Direction: Compare with the messages in which the host says Kirk wanted to leave the pro-Israel cause.
+Open Questions: Q-2
 
 ---
 
@@ -2855,6 +2893,7 @@ Mentions: N-3, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Ask the host to publish the unreleased messages with metadata so they can be authenticated.
+Open Questions: Q-246
 
 ---
 
@@ -2872,6 +2911,7 @@ Related Nodes:
 Supports: C-1992
 Tags: relevance:core
 Investigative Direction: Compare with dated messages or witnesses who heard Kirk say his life would be short.
+Open Questions: Q-247
 
 ---
 

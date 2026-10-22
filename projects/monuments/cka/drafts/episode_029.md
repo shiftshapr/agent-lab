@@ -1105,6 +1105,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10144, N-10226
 Tags: relevance:core
 Investigative Direction: Check the Utah trauma center designations for both hospitals and the distance from the UVU campus.
+Open Questions: Q-140
 
 ---
 
@@ -1123,6 +1124,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2, S-12
 Investigative Direction: Identify the people who told the host this and compare against UV Hospital and EMS records.
+Open Questions: Q-224
 
 ---
 
@@ -1139,6 +1141,7 @@ Mentions: N-3
 Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Identify the New York news crew present at Timpanogos and request its raw footage and logs.
+Open Questions: Q-224, Q-294
 
 ---
 
@@ -1155,6 +1158,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10024, N-10524
 Tags: relevance:core
 Investigative Direction: Obtain the ambulance or vehicle arrival log, hospital intake record and 911 timestamps for the Timpanogos arrival.
+Open Questions: Q-224
 
 ---
 
@@ -1172,6 +1176,7 @@ Related Nodes: N-10226, N-10527
 Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Ask the hospital and any federal agency for evidence receipts and chain-of-custody records for exterior and interior video.
+Open Questions: Q-294
 
 ---
 
@@ -1188,6 +1193,7 @@ Mentions: N-3
 Related Nodes: N-10524, N-10226
 Tags: relevance:core
 Investigative Direction: Check what, if anything, was later received and published in response to this request.
+Open Questions: Q-224
 
 ---
 
@@ -1317,6 +1323,7 @@ Mentions: N-1, N-240
 Related Nodes: N-10202
 Tags: relevance:core
 Investigative Direction: Look for public photos, posts or event appearances of Kirk with Wallnau and any Kirk remarks about the Seven Mountain Mandate.
+Open Questions: Q-295
 
 ---
 
@@ -1350,6 +1357,7 @@ Mentions: N-3
 Related Nodes: N-10371, N-10237
 Tags: relevance:core
 Investigative Direction: List the specific leads and sources the host has tied to Turning Point Faith across the series.
+Open Questions: Q-295
 
 ---
 
@@ -1431,6 +1439,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10371, N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Compare Turning Point event agendas over time and identify when faith programming expanded.
+Open Questions: Q-295
 
 ---
 
@@ -1447,6 +1456,7 @@ Mentions: N-240, N-17, N-3
 Related Nodes: N-10202, N-10371, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain donor or ministry records, Turning Point Faith budgets, or testimony from the faith-department sources.
+Open Questions: Q-295
 
 ---
 
@@ -1463,6 +1473,7 @@ Mentions: N-240, N-17, N-1
 Related Nodes: N-10371
 Tags: relevance:core
 Investigative Direction: Check tour announcements for Turning Point Faith stops featuring Wallnau and public statements by Wallnau about Kirk.
+Open Questions: Q-295
 
 ---
 
@@ -1688,6 +1699,7 @@ Mentions: N-97, N-46, N-3
 Related Nodes: N-10224, N-10379
 Tags: relevance:core
 Investigative Direction: Review the video of the stage exchange and identify the statement the host calls a lie.
+Open Questions: Q-292
 
 ---
 
@@ -1705,6 +1717,7 @@ Related Nodes: N-10982
 Supports: C-2515
 Tags: relevance:core
 Investigative Direction: Obtain the full text thread and compare with Shapiro's and Daily Wire's account of the relationship.
+Open Questions: Q-246, Q-248
 
 ---
 
@@ -1721,6 +1734,7 @@ Mentions: N-3
 Contradicts: C-2606
 Tags: relevance:core
 Investigative Direction: Forensic review of the original device thread and its metadata would settle authenticity.
+Open Questions: Q-246
 
 ---
 
@@ -1784,6 +1798,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Identify who the host means and match the statement to security and hospital timelines.
+Open Questions: Q-213, Q-231
 
 ---
 
@@ -1800,6 +1815,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10300, N-10416
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and forensic ballistics reports and expert statements on a .30-06 striking neck tissue.
+Open Questions: Q-272, Q-273
 
 ---
 
@@ -1817,6 +1833,7 @@ Related Nodes: N-10763, N-10000
 Supports: C-2363
 Tags: relevance:core
 Investigative Direction: Review Turning Point's security contract, event medical plan and UVU emergency-services approvals.
+Open Questions: Q-142, Q-231
 
 ---
 
@@ -1833,6 +1850,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10211
 Tags: relevance:core
 Investigative Direction: Compare her recollection of normal advance planning with the UVU event approval timeline.
+Open Questions: Q-268
 
 ---
 
@@ -1849,6 +1867,7 @@ Mentions: N-243, N-3
 Contradicts: C-2617
 Tags: relevance:core
 Investigative Direction: Compare the Grok post with the host's actual statements across the series.
+Open Questions: Q-290
 
 ---
 
@@ -1865,6 +1884,7 @@ Mentions: N-3
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Check the Wednesday, November 12, 2025 episode for the Egyptian aircraft findings.
+Open Questions: Q-277
 
 ---
 
@@ -2007,6 +2027,7 @@ Anchored Artifacts: A-2912.1
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Audit the volume and sources of tip-line submissions and how they were used on the show.
+Open Questions: Q-130
 
 ---
 
@@ -2024,6 +2045,7 @@ Related Nodes: N-10300
 Supports: C-2614
 Tags: relevance:core
 Investigative Direction: Same as the earlier claim: ballistic and autopsy findings.
+Open Questions: Q-272, Q-273
 
 ---
 
@@ -2040,6 +2062,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Check the court record and discovery for any clear image of Robinson on the UVU campus on September 10, 2025.
+Open Questions: Q-110
 
 ---
 
@@ -2057,6 +2080,7 @@ Related Nodes: N-10404, N-10127, N-10000, N-11087
 Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Obtain the internal memo and staff accounts of the DOGE department's creation and mandate.
+Open Questions: Q-250
 
 ---
 
@@ -2074,6 +2098,7 @@ Related Nodes: N-10075, N-10000
 Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Find staff or donor testimony and communications showing Kirk raised funding questions.
+Open Questions: Q-250
 
 ---
 
@@ -2091,6 +2116,7 @@ Related Nodes: N-10202, N-10371
 Supports: C-2586
 Tags: relevance:core
 Investigative Direction: Same as the earlier funding claim.
+Open Questions: Q-295
 
 ---
 
@@ -2107,6 +2133,7 @@ Mentions: N-3
 Related Nodes: N-10075, N-10000
 Tags: relevance:core
 Investigative Direction: Check the Friday, November 14, 2025 episode and guest.
+Open Questions: Q-249
 
 ---
 

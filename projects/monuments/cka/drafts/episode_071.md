@@ -1626,6 +1626,7 @@ Mentions: N-361, N-14, N-2
 Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Public statements by TPUSA or Kolvet about Snow's credibility and any coordinated posts.
+Open Questions: Q-441, Q-487
 
 ---
 
@@ -1642,6 +1643,7 @@ Mentions: N-361, N-2, N-364
 Related Nodes: N-10342, N-10346, N-10390
 Tags: relevance:core
 Investigative Direction: Hotel and base access records for September 8, 2025 and Snow's original account.
+Open Questions: Q-441
 
 ---
 
@@ -1658,6 +1660,7 @@ Mentions: N-361
 Related Nodes: N-11199, N-10342, N-10305
 Tags: relevance:core
 Investigative Direction: Fort Huachuca building-use records and JTF Southern Border schedules for September 8-9, 2025.
+Open Questions: Q-390
 
 ---
 
@@ -1674,6 +1677,7 @@ Mentions: N-361
 Related Nodes: N-11199, N-10342
 Tags: relevance:core
 Investigative Direction: Snow's detailed account and the unit's official status and location.
+Open Questions: Q-390
 
 ---
 
@@ -1753,6 +1757,7 @@ Mentions: N-551, N-544
 Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: Federal personnel directories or CBP press releases naming a Thomas Martin in that role; any link to Tracy Martin's husband.
+Open Questions: Q-587
 
 ---
 
@@ -1769,6 +1774,7 @@ Mentions: N-551
 Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: Web archive snapshots of the LinkedIn profile and other listings, with dates.
+Open Questions: Q-587
 
 ---
 
@@ -1832,6 +1838,7 @@ Mentions: N-551
 Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: Submitted tips on Thomas Martin's career and colleagues.
+Open Questions: Q-587
 
 ---
 
@@ -1848,6 +1855,7 @@ Mentions: N-551
 Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: The 2011 record the host cites and any later Southern Command roster entries.
+Open Questions: Q-587
 
 ---
 
@@ -1864,6 +1872,7 @@ Mentions: N-544, N-552, N-2
 Related Nodes: N-10460, N-10464
 Tags: relevance:core
 Investigative Direction: TPUSA or Erika Kirk staff listings, event credentials or employment records for the daughter.
+Open Questions: Q-588
 
 ---
 
@@ -1880,6 +1889,7 @@ Mentions: N-2
 Related Nodes: N-10385
 Tags: relevance:core
 Investigative Direction: Instagram archive captures before and after June 19, 2025 and post counts.
+Open Questions: Q-493
 
 ---
 
@@ -1960,6 +1970,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10385, N-10613
 Tags: relevance:core
 Investigative Direction: Date-stamped Instagram captures and the June 18 meeting record.
+Open Questions: Q-493
 
 ---
 
@@ -1976,6 +1987,7 @@ Mentions: N-49, N-1
 Related Nodes: N-10016, N-10027
 Tags: relevance:core
 Investigative Direction: Max Blumenthal's original report and its sourcing.
+Open Questions: Q-9
 
 ---
 
@@ -1991,6 +2003,7 @@ Anchored Artifacts:
 Related Nodes: N-10016, N-10461
 Tags: relevance:core
 Investigative Direction: The participants' statements and their dates.
+Open Questions: Q-9
 
 ---
 
@@ -2008,6 +2021,7 @@ Related Nodes: N-10016
 Supports: C-2037
 Tags: relevance:core
 Investigative Direction: Attendee accounts of who pressed Kirk and on what.
+Open Questions: Q-9
 
 ---
 
@@ -2120,6 +2134,7 @@ Mentions: N-38, N-1
 Related Nodes: N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Invitations and organizer records for the August 2025 Hamptons retreat.
+Open Questions: Q-9
 
 ---
 
@@ -2136,6 +2151,7 @@ Mentions: N-38
 Related Nodes: N-10016, N-10461
 Tags: relevance:core
 Investigative Direction: Kirk's own contemporaneous descriptions of the meeting versus Dillon's testimony.
+Open Questions: Q-9
 
 ---
 
@@ -2152,6 +2168,7 @@ Mentions: N-38, N-1
 Related Nodes: N-10129
 Tags: relevance:core
 Investigative Direction: Attendee list and the invitation process.
+Open Questions: Q-9
 
 ---
 
@@ -2168,6 +2185,7 @@ Mentions: N-38, N-1
 Related Nodes: N-10016, N-10461
 Tags: relevance:core
 Investigative Direction: Other attendees' accounts of Kirk's remarks on Israel and career consequences.
+Open Questions: Q-9
 
 ---
 
@@ -2200,6 +2218,7 @@ Mentions: N-38
 Related Nodes: N-10016, N-10461
 Tags: relevance:core
 Investigative Direction: The statements by attendees, with names and dates.
+Open Questions: Q-9
 
 ---
 
@@ -2266,6 +2285,7 @@ Related Nodes: N-10016
 Supports: C-715, C-847, C-454
 Tags: relevance:core
 Investigative Direction: The specific Kirk clips in which he uses the phrase 'morally blackmailed'.
+Open Questions: Q-589
 
 ---
 
@@ -2283,6 +2303,7 @@ Related Nodes: N-10016, N-10323
 Supports: C-2037
 Tags: relevance:core
 Investigative Direction: Kirk's statements naming who pressed him in the Hamptons.
+Open Questions: Q-589
 
 ---
 
@@ -2300,6 +2321,7 @@ Related Nodes: N-10461, N-10016
 Supports: C-6381
 Tags: relevance:core
 Investigative Direction: Dillon's earlier public statements on the Hamptons meeting versus the hearing testimony.
+Open Questions: Q-9
 
 ---
 
@@ -2317,6 +2339,7 @@ Related Nodes: N-10458, N-10018
 Supports: C-82
 Tags: relevance:core
 Investigative Direction: Phone records or eyewitness accounts of a Netanyahu call during the August 2025 Hamptons retreat.
+Open Questions: Q-77
 
 ---
 
@@ -2334,6 +2357,7 @@ Related Nodes: N-10016
 Supports: C-254, C-2227
 Tags: relevance:core
 Investigative Direction: Megyn Kelly's account of her August 6 conversation with Kirk.
+Open Questions: Q-52
 
 ---
 
@@ -2366,6 +2390,7 @@ Mentions: N-1, N-38
 Related Nodes: N-10461
 Tags: relevance:core
 Investigative Direction: Earlier statements by the participants about Kirk's position on Israel.
+Open Questions: Q-9
 
 ---
 
@@ -2382,6 +2407,7 @@ Mentions: N-1, N-36
 Related Nodes: N-10016, N-10458
 Tags: relevance:core
 Investigative Direction: The eyewitnesses' identities and accounts.
+Open Questions: Q-77
 
 ---
 
@@ -2398,6 +2424,7 @@ Mentions: N-2, N-36
 Related Nodes: N-10320, N-10415
 Tags: relevance:core
 Investigative Direction: Erika Kirk's own statement denying the offer, with date and venue.
+Open Questions: Q-77
 
 ---
 
@@ -2415,6 +2442,7 @@ Related Nodes: N-10320, N-10415
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Kolvet's on-air statement and its date.
+Open Questions: Q-77
 
 ---
 
@@ -2431,6 +2459,7 @@ Mentions: N-1, N-36
 Related Nodes: N-10425
 Tags: relevance:core
 Investigative Direction: Booking correspondence between Netanyahu's office and Kirk's show.
+Open Questions: Q-583
 
 ---
 
@@ -2448,6 +2477,7 @@ Related Nodes: N-10016
 Supports: C-1517
 Tags: relevance:core
 Investigative Direction: Attendee accounts distinguishing Dillon's and Hammer's roles.
+Open Questions: Q-9
 
 ---
 
@@ -2526,6 +2556,7 @@ Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Financial and succession documents showing what changed at TPUSA after Kirk's death.
+Open Questions: Q-590
 
 ---
 
@@ -2652,6 +2683,7 @@ Mentions: N-551, N-938
 Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: Submitted tips on Thomas Martin.
+Open Questions: Q-587
 
 ---
 

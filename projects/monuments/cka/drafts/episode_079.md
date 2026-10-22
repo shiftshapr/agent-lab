@@ -1524,6 +1524,7 @@ Mentions: N-97, N-46, N-2, N-1, N-3
 Related Nodes: N-10224
 Tags: relevance:core
 Investigative Direction: Retrieve Shapiro's original reply post and check whether it names the host or the accusation she is said to have made.
+Open Questions: Q-248
 
 ---
 
@@ -1541,6 +1542,7 @@ Related Nodes: N-10359, N-10982
 Supports: C-2208, C-7078
 Tags: relevance:core
 Investigative Direction: Identify the journalists and pieces the host alleges were commissioned and obtain her contemporaneous messages with Kirk about them.
+Open Questions: Q-248
 
 ---
 
@@ -1558,6 +1560,7 @@ Related Nodes: N-10498
 Supports: C-7078
 Tags: relevance:core
 Investigative Direction: Ask Yiannopoulos for the original post and the messages he says Kirk showed him; verify against Kirk's phone records.
+Open Questions: Q-248
 
 ---
 
@@ -1574,6 +1577,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10498, N-11046
 Tags: relevance:core
 Investigative Direction: Compare Kirk's pre-2025 and 2025 public statements on Israel and the host's private texts to date the alleged shift.
+Open Questions: Q-2
 
 ---
 
@@ -1590,6 +1594,7 @@ Mentions: N-1, N-3, N-97
 Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: Obtain device-level forensic verification of the thread and its date relative to the Shapiro table incident.
+Open Questions: Q-248
 
 ---
 
@@ -1622,6 +1627,7 @@ Mentions: N-3, N-1, N-97
 Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: Request a count and an independent forensic export of the thread; compare with earlier counts the host has given.
+Open Questions: Q-248
 
 ---
 
@@ -1639,6 +1645,7 @@ Related Nodes: N-10000, N-10498, N-10982
 Supports: C-7085
 Tags: relevance:core
 Investigative Direction: Collect TPUSA statements and speeches since September 2025 that describe Kirk's views on Shapiro and the Talmud.
+Open Questions: Q-671
 
 ---
 
@@ -1655,6 +1662,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10000, N-10498
 Tags: relevance:core
 Investigative Direction: Review TPUSA leadership communications under Erika Kirk on Kirk's Israel and Shapiro positions.
+Open Questions: Q-671
 
 ---
 
@@ -1672,6 +1680,7 @@ Related Nodes: N-10494, N-10613
 Supports: C-7087
 Tags: relevance:core
 Investigative Direction: Establish what direct contact, if any, Kirk had with Netanyahu in June 2025 and what Trump decided after the two White House days.
+Open Questions: Q-491
 
 ---
 
@@ -1688,6 +1697,7 @@ Mentions: N-590, N-1, N-5
 Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.
+Open Questions: Q-639
 
 ---
 
@@ -1704,6 +1714,7 @@ Mentions: N-590, N-1
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Obtain Weinstein's full post and identify which investigative product he judges inadequate.
+Open Questions: Q-639
 
 ---
 
@@ -1720,6 +1731,7 @@ Mentions: N-590, N-1
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.
+Open Questions: Q-630, Q-639
 
 ---
 
@@ -1801,6 +1813,7 @@ Related Nodes: N-10359, N-10252
 Supports: C-4366, C-2208
 Tags: relevance:core
 Investigative Direction: Identify the donors and the speakers the host says Shapiro tried to bar, with dated messages or call logs.
+Open Questions: Q-6, Q-248
 
 ---
 
@@ -1818,6 +1831,7 @@ Related Nodes: N-10000, N-10252
 Supports: C-4393
 Tags: relevance:core
 Investigative Direction: Obtain the AmFest 2025 program and the video of the opening remarks and the invitation chain for Shapiro.
+Open Questions: Q-671
 
 ---
 
@@ -1883,6 +1897,7 @@ Mentions: N-101, N-97, N-2, N-3
 Supports: C-7104
 Tags: relevance:core
 Investigative Direction: Obtain the full video of the public discussion with its date and venue.
+Open Questions: Q-671
 
 ---
 
@@ -2163,6 +2178,7 @@ Related Nodes: N-11046, N-10494
 Supports: C-7087
 Tags: relevance:core
 Investigative Direction: Seek polling on public belief about the motive for Kirk's killing.
+Open Questions: Q-639, Q-681
 
 ---
 
@@ -2324,6 +2340,7 @@ Mentions: N-3, N-40
 Related Nodes: N-11046
 Tags: relevance:core
 Investigative Direction: This is the host's characterization; test it against polling on belief in the official account.
+Open Questions: Q-639, Q-679, Q-681
 
 ---
 
@@ -2356,6 +2373,7 @@ Mentions: N-1, N-9, N-3
 Related Nodes: N-10000, N-10127, N-10494
 Tags: relevance:core
 Investigative Direction: Find Kirk's own recorded statements on each of the three positions, particularly the TPUSA audit.
+Open Questions: Q-308, Q-491, Q-639
 
 ---
 

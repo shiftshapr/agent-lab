@@ -1233,6 +1233,7 @@ Mentions: N-1, N-22, N-3
 Related Nodes: N-10025, N-10498
 Tags: relevance:core
 Investigative Direction: Locate the donor and activist messages to Kirk about Tucker Carlson's speaking slot and identify the senders.
+Open Questions: Q-6
 
 ---
 
@@ -1507,6 +1508,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1, N-97
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk–Owens messages the host cites and ask Shapiro or TPUSA of that era to respond.
+Open Questions: Q-248
 
 ---
 
@@ -1522,6 +1524,7 @@ Anchored Artifacts: A-3013.1
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Obtain and authenticate the messages; the host has not displayed them.
+Open Questions: Q-246
 
 ---
 
@@ -1537,6 +1540,7 @@ Anchored Artifacts: A-1315.1, A-3013.1
 Mentions: N-3, N-1, N-97, N-220, N-268
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk–Owens messages that record Shapiro's conversation with Kirk.
+Open Questions: Q-246, Q-248
 
 ---
 
@@ -1553,6 +1557,7 @@ Mentions: N-3, N-1, N-22
 Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk messages and internal TPUSA scheduling records about Tucker's stage appearances.
+Open Questions: Q-6
 
 ---
 
@@ -1569,6 +1574,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10016
 Tags: relevance:core
 Investigative Direction: Identify who entered the company and donor base through fundraising and what the host means by snakes.
+Open Questions: Q-249, Q-250
 
 ---
 
@@ -1584,6 +1590,7 @@ Anchored Artifacts:
 Mentions: N-3, N-163, N-1
 Tags: relevance:core
 Investigative Direction: Identify who reached out to Walsh and when; ask Walsh or the Daily Wire to confirm.
+Open Questions: Q-251
 
 ---
 
@@ -1599,6 +1606,7 @@ Anchored Artifacts:
 Mentions: N-3, N-163, N-97, N-1
 Tags: relevance:core
 Investigative Direction: Identify who set the condition and whether Shapiro appeared on the Charlie Kirk Show afterward.
+Open Questions: Q-251
 
 ---
 
@@ -1615,6 +1623,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10143, N-10025
 Tags: relevance:core
 Investigative Direction: Compile the Kirk messages and statements on Israel read on the show and confirm their authenticity.
+Open Questions: Q-2
 
 ---
 
@@ -1631,6 +1640,7 @@ Mentions: N-3, N-1, N-22
 Related Nodes: N-10143, N-10025
 Tags: relevance:core
 Investigative Direction: Identify the people the host calls the agent Smiths and the specific pressure on Kirk about Tucker.
+Open Questions: Q-2, Q-6
 
 ---
 
@@ -1647,6 +1657,7 @@ Related Nodes: N-11361
 Mentions: N-3, N-2, N-1
 Tags: relevance:core
 Investigative Direction: Check Erika Kirk's public interview record before 2025-11-03 against this statement.
+Open Questions: Q-252
 
 ---
 
@@ -1663,6 +1674,7 @@ Mentions: N-3, N-99, N-14, N-190, N-17
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Collect the host's prior episodes on each named person and the specific statements she calls lies.
+Open Questions: Q-253
 
 ---
 
@@ -1679,6 +1691,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Review Erika Kirk's public statements on Kirk's views on Israel.
+Open Questions: Q-2, Q-252
 
 ---
 
@@ -1727,6 +1740,7 @@ Mentions: N-3, N-1, N-46
 Related Nodes: N-10379
 Tags: relevance:core
 Investigative Direction: Review Megyn Kelly's accounts of her conversations with Kirk and ask her for any messages.
+Open Questions: Q-6
 
 ---
 
@@ -1742,6 +1756,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2
 Tags: relevance:core
 Investigative Direction: Locate the earlier episode where the host made the offer and any contact from Erika Kirk or her representatives.
+Open Questions: Q-254
 
 ---
 
@@ -1757,6 +1772,7 @@ Anchored Artifacts: A-1318.1
 Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Obtain the full Watters interview to confirm wording.
+Open Questions: Q-255
 
 ---
 
@@ -1773,6 +1789,7 @@ Mentions: N-2
 Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or prosecutors what material she was shown and when; compare with the court record.
+Open Questions: Q-256
 
 ---
 
@@ -1789,6 +1806,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10315
 Tags: relevance:core
 Investigative Direction: Utah court docket entries on the defendant's remote appearances and camera orders.
+Open Questions: Q-257
 
 ---
 
@@ -1805,6 +1823,7 @@ Mentions: N-3, N-2, N-15
 Related Nodes: N-11010
 Tags: relevance:core
 Investigative Direction: TPUSA announcements of leadership changes after September 2025 to confirm who held the CEO title before Erika Kirk.
+Open Questions: Q-258
 
 ---
 
@@ -1821,6 +1840,7 @@ Mentions: N-3, N-190, N-17
 Related Nodes: N-10208
 Tags: relevance:core
 Investigative Direction: Identify the video of Taryl the host refers to and the McCoy materials in question.
+Open Questions: Q-63, Q-243
 
 ---
 
@@ -1837,6 +1857,7 @@ Mentions: N-3, N-17
 Related Nodes: N-10208, N-10198
 Tags: relevance:core
 Investigative Direction: Obtain carrier call and text logs for the relevant timeframe and compare to McCoy's account.
+Open Questions: Q-212
 
 ---
 
@@ -1853,6 +1874,7 @@ Mentions: N-3, N-11, N-154, N-155
 Related Nodes: N-10160
 Tags: relevance:core
 Investigative Direction: Locate Bowyer's posts from the weekend of 2025-11-01 and confirm who called John Mappin a loser.
+Open Questions: Q-259
 
 ---
 
@@ -1885,6 +1907,7 @@ Mentions: N-3
 Related Nodes: N-10208, N-10044
 Tags: relevance:core
 Investigative Direction: Ask TPUSA whether any donors were removed and review its public statements.
+Open Questions: Q-259
 
 ---
 
@@ -1901,6 +1924,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Trace who first pushed the Catholic denial narrative among TPUSA-linked figures.
+Open Questions: Q-253
 
 ---
 
@@ -1949,6 +1973,7 @@ Mentions: N-3
 Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the court exhibits of the text chain and have a forensic linguist assess them.
+Open Questions: Q-134
 
 ---
 
@@ -2059,6 +2084,7 @@ Related Nodes: N-10198
 Supports: C-2209
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to confirm or deny the authenticity of the messages the host has published.
+Open Questions: Q-246
 
 ---
 
@@ -2139,6 +2165,7 @@ Mentions: N-3, N-1, N-201
 Supports: C-2189
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk–Owens messages from the period of the Fuentes interview.
+Open Questions: Q-246
 
 ---
 

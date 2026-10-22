@@ -1559,6 +1559,7 @@ Related Nodes: N-10582, N-10583
 Supports: C-8579
 Tags: relevance:core
 Investigative Direction: Obtain the full Coleman show segment and the hotel and press camera positions in the corridor.
+Open Questions: Q-832
 
 ---
 
@@ -1575,6 +1576,7 @@ Mentions: N-1, N-5
 Related Nodes: N-10582
 Tags: relevance:core
 Investigative Direction: Check WHCD attendance records for Charlie Kirk and for Trump's presidential terms.
+Open Questions: Q-833
 
 ---
 
@@ -1607,6 +1609,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10584
 Tags: relevance:core
 Investigative Direction: Pull Erika Kirk's post and the show schedule for that week.
+Open Questions: Q-834
 
 ---
 
@@ -1624,6 +1627,7 @@ Related Nodes: N-10584
 Supports: C-8583
 Tags: relevance:core
 Investigative Direction: Production metadata from the video and identification of the writer.
+Open Questions: Q-796
 
 ---
 
@@ -1640,6 +1644,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's UGA cancellation statements with Erika Kirk's WHCD attendance.
+Open Questions: Q-805, Q-832
 
 ---
 
@@ -1657,6 +1662,7 @@ Related Nodes: N-10582
 Supports: C-8581
 Tags: relevance:core
 Investigative Direction: Find Charlie Kirk show segments or posts mocking the WHCD.
+Open Questions: Q-833
 
 ---
 
@@ -1673,6 +1679,7 @@ Mentions: N-2, N-280
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain video of the Leavitt and Erika Kirk stage conversation and compare statements.
+Open Questions: Q-834
 
 ---
 
@@ -1721,6 +1728,7 @@ Mentions: N-159, N-2, N-3
 Related Nodes: N-10584
 Tags: relevance:core
 Investigative Direction: Identify who drafted the statement through script files, metadata or staff accounts.
+Open Questions: Q-796
 
 ---
 
@@ -1755,6 +1763,7 @@ Related Nodes: N-10587
 Contradicts: C-8596
 Tags: relevance:core
 Investigative Direction: Search the host's full archive for any explicit statement that Erika Kirk killed or arranged Charlie Kirk's death.
+Open Questions: Q-835
 
 ---
 
@@ -1771,6 +1780,7 @@ Mentions: N-159, N-3, N-2, N-1
 Related Nodes: N-10587
 Tags: relevance:core
 Investigative Direction: Locate Blake Neff's post making this argument.
+Open Questions: Q-835
 
 ---
 
@@ -1787,6 +1797,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10587
 Tags: relevance:core
 Investigative Direction: Identify the earlier episode and confirm the wording.
+Open Questions: Q-835
 
 ---
 
@@ -1804,6 +1815,7 @@ Related Nodes: N-10586, N-10000
 Supports: C-8601
 Tags: relevance:core
 Investigative Direction: Trace how the screenshot reached Kolvet and who at TPUSA had access to the thread.
+Open Questions: Q-584, Q-836
 
 ---
 
@@ -1821,6 +1833,7 @@ Related Nodes: N-10327, N-10586
 Supports: C-8604
 Tags: relevance:core
 Investigative Direction: Compare the date on the text message with the Erika Kirk and Bari Weiss CBS interview date.
+Open Questions: Q-836
 
 ---
 
@@ -1838,6 +1851,7 @@ Related Nodes: N-10586
 Supports: C-8604
 Tags: relevance:core
 Investigative Direction: Compare with Erika Kirk's or Justin Streiff's account of the meeting and the host's recordings or notes.
+Open Questions: Q-827, Q-836
 
 ---
 
@@ -1854,6 +1868,7 @@ Mentions: N-550, N-3
 Related Nodes: N-10506
 Tags: relevance:core
 Investigative Direction: Aubrey Laitsch's own account, and a comparison of the host's reporting against what Laitsch could have known.
+Open Questions: Q-584
 
 ---
 
@@ -1870,6 +1885,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10587
 Tags: relevance:core
 Investigative Direction: Identify which statements the host says were lies and test them against records.
+Open Questions: Q-827
 
 ---
 
@@ -1886,6 +1902,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Obtain the original Aspen recording and have its provenance and audio forensically examined.
+Open Questions: Q-771
 
 ---
 
@@ -1902,6 +1919,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Identify the donors and event; request the unreleased video from TPUSA.
+Open Questions: Q-771
 
 ---
 
@@ -1920,6 +1938,7 @@ Supports: C-8598
 Contradicts: C-8596
 Tags: relevance:core
 Investigative Direction: Cross-check the host's past episodes for any claim that Erika Kirk shot or arranged the killing.
+Open Questions: Q-835
 
 ---
 
@@ -1936,6 +1955,7 @@ Mentions: N-2, N-69, N-3
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Event photos of Erika Kirk and Kash Patel at the WHCD and the status of discovery requests in the Robinson case.
+Open Questions: Q-792, Q-828, Q-832
 
 ---
 
@@ -1953,6 +1973,7 @@ Related Nodes: N-10416, N-10334
 Supports: C-5419, C-4492
 Tags: relevance:core
 Investigative Direction: The surgeon's account of the call, phone records, and Erika Kirk's and Kolvet's statements.
+Open Questions: Q-820
 
 ---
 
@@ -1970,6 +1991,7 @@ Related Nodes: N-10606, N-10186
 Supports: C-5399
 Tags: relevance:core
 Investigative Direction: Identify the donors and the event; compare their accounts with the Aspen audio.
+Open Questions: Q-771
 
 ---
 
@@ -2003,6 +2025,7 @@ Related Nodes: N-10587
 Supports: C-8599
 Tags: relevance:core
 Investigative Direction: Compare Neff's and Kolvet's posts side by side.
+Open Questions: Q-834
 
 ---
 
@@ -2020,6 +2043,7 @@ Related Nodes: N-10416, N-10334
 Supports: C-5419
 Tags: relevance:core
 Investigative Direction: Phone records of the call and testimony from participants.
+Open Questions: Q-820
 
 ---
 

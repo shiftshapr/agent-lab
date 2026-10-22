@@ -1008,6 +1008,7 @@ Mentions: N-1
 Related Nodes: N-10696
 Tags: relevance:core
 Investigative Direction: Obtain the Utah Office of the Medical Examiner intake, start and finish times for the autopsy from the report or defense discovery.
+Open Questions: Q-1029
 
 ---
 
@@ -1042,6 +1043,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Check the signature block of the Kirk autopsy report (once released) for the signing pathologist.
+Open Questions: Q-1029
 
 ---
 
@@ -1058,6 +1060,7 @@ Mentions: N-190, N-1
 Related Nodes: N-10626, N-10695
 Tags: relevance:core
 Investigative Direction: Ask the hospital for scrub issue records and the security team members for a statement on how they obtained scrubs and who supplied them.
+Open Questions: Q-888
 
 ---
 
@@ -1074,6 +1077,7 @@ Mentions: N-1
 Related Nodes: N-10957, N-10694
 Tags: relevance:core
 Investigative Direction: Seek independent paperwork (shuttle bookings, Intermountain intake logs, staff testimony) that would confirm or refute the 10:00 a.m. emergency-room evacuation.
+Open Questions: Q-1036
 
 ---
 
@@ -1122,6 +1126,7 @@ Mentions: N-40
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Look for any court filing, discovery item or witness statement that documents Robinson's gender identity or furry involvement.
+Open Questions: Q-183
 
 ---
 
@@ -1140,6 +1145,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Compare the read messages with the Discord records entered in the preliminary hearing and with Discord's own statements on the server.
+Open Questions: Q-34, Q-1010
 
 ---
 
@@ -1156,6 +1162,7 @@ Mentions: N-54, N-40
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain the Twiggs interview recording or transcript and check the exact wording on gaming versus politics.
+Open Questions: Q-183
 
 ---
 
@@ -1172,6 +1179,7 @@ Mentions: N-40, N-54
 Related Nodes: N-10639, N-10013
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing testimony on Discord account ownership and device access.
+Open Questions: Q-93, Q-1010
 
 ---
 
@@ -1188,6 +1196,7 @@ Mentions: N-40
 Related Nodes: N-10567, N-10973
 Tags: relevance:core
 Investigative Direction: Obtain the firearms examiner report and the preliminary hearing testimony on barrel condition and test-firing.
+Open Questions: Q-1023
 
 ---
 
@@ -1350,6 +1359,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Check the preliminary hearing transcript for the exact exchange on the name Luna.
+Open Questions: Q-183, Q-1010
 
 ---
 
@@ -1430,6 +1440,7 @@ Mentions: N-7
 Related Nodes: N-10626
 Tags: relevance:core
 Investigative Direction: Find Turek's original account of the scrubs and ask the hospital whether it issues scrubs to visitors.
+Open Questions: Q-888
 
 ---
 
@@ -1446,6 +1457,7 @@ Mentions: N-266, N-487, N-7
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Obtain Harpole's preliminary hearing testimony and Turek's and Cutler's separate accounts and compare who did CPR.
+Open Questions: Q-882
 
 ---
 
@@ -1462,6 +1474,7 @@ Mentions: N-7, N-266
 Related Nodes: N-10636, N-10625
 Tags: relevance:core
 Investigative Direction: Compare Turek's public statements with Harpole's testimony on who performed CPR in the vehicle.
+Open Questions: Q-882, Q-888
 
 ---
 
@@ -1478,6 +1491,7 @@ Mentions: N-7, N-266, N-1
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Locate Turek's statement on the distraction explanation and the vehicle ride duration from dashcam or 911 timelines.
+Open Questions: Q-882
 
 ---
 
@@ -1494,6 +1508,7 @@ Mentions:
 Related Nodes: N-10338, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain the tow, impound and sale records for the transport vehicle and any evidence-hold notation.
+Open Questions: Q-1037
 
 ---
 
@@ -1510,6 +1525,7 @@ Mentions:
 Related Nodes: N-10695, N-10014
 Tags: relevance:core
 Investigative Direction: Defense discovery would show whether the clothing appears on any evidence inventory or chain-of-custody log.
+Open Questions: Q-888
 
 ---
 
@@ -1526,6 +1542,7 @@ Mentions: N-266
 Related Nodes: N-10524, N-10694
 Tags: relevance:core
 Investigative Direction: Identify the Timpanogos ER staff and patients present on September 10 and ask whether anyone observed Harpole's conduct.
+Open Questions: Q-1036, Q-1038
 
 ---
 
@@ -1542,6 +1559,7 @@ Mentions:
 Related Nodes: N-10694, N-10188
 Tags: relevance:core
 Investigative Direction: Seek Intermountain and Timpanogos transfer logs and electronic record audit trails for September 10, 2025.
+Open Questions: Q-1036
 
 ---
 
@@ -1559,6 +1577,7 @@ Related Nodes: N-10226
 Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Ask Timpanogos Hospital and the FBI whether footage was taken, when and under what legal process.
+Open Questions: Q-1036, Q-1038
 
 ---
 
@@ -1575,6 +1594,7 @@ Mentions: N-1
 Related Nodes: N-10957, N-10694
 Tags: relevance:core
 Investigative Direction: Obtain shuttle company bookings, Google satellite imagery, Intermountain intake records and staff testimony for the morning of September 10.
+Open Questions: Q-1036
 
 ---
 
@@ -1591,6 +1611,7 @@ Mentions: N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Track whether any emailed tip about the shuttle is cited in later episodes.
+Open Questions: Q-1036
 
 ---
 
@@ -1607,6 +1628,7 @@ Mentions: N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Track tip follow-up in later episodes.
+Open Questions: Q-1036
 
 ---
 
@@ -1623,6 +1645,7 @@ Mentions:
 Related Nodes: N-10694
 Tags: relevance:core
 Investigative Direction: Source credibility can only be tested by corroborating records; request the paperwork the host says would prove it.
+Open Questions: Q-1036
 
 ---
 
@@ -1640,6 +1663,7 @@ Related Nodes: N-10188
 Supports: C-1893
 Tags: relevance:core
 Investigative Direction: Re-examine the October 28 hospital message screenshot and identify its author and recipients.
+Open Questions: Q-225
 
 ---
 
@@ -1657,6 +1681,7 @@ Related Nodes: N-10188
 Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Have a records expert assess the re-displayed screenshot for authenticity and the fields shown.
+Open Questions: Q-225
 
 ---
 
@@ -1673,6 +1698,7 @@ Mentions: N-1
 Related Nodes: N-10188, N-10694
 Tags: relevance:core
 Investigative Direction: Compare the Epic audit trail on the Utah Valley record creation with the claimed September 10 bulk transfer.
+Open Questions: Q-225
 
 ---
 
@@ -1690,6 +1716,7 @@ Related Nodes: N-10188
 Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Obtain the unredacted screenshot metadata and the list of other patient entries from the original leaker.
+Open Questions: Q-225
 
 ---
 
@@ -1706,6 +1733,7 @@ Mentions: N-1
 Related Nodes: N-10216, N-10150
 Tags: relevance:core
 Investigative Direction: Obtain the prosecution filing and identify which autopsy findings it disclosed.
+Open Questions: Q-1039
 
 ---
 
@@ -1722,6 +1750,7 @@ Mentions: N-681, N-1
 Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Verify the emailer's board certification and obtain the full email.
+Open Questions: Q-930
 
 ---
 
@@ -1738,6 +1767,7 @@ Mentions: N-1
 Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Review frame-by-frame footage of the moment of impact with a trauma physician and ballistics expert.
+Open Questions: Q-1040, Q-1041
 
 ---
 
@@ -1754,6 +1784,7 @@ Mentions: N-1
 Related Nodes: N-10697, N-10690
 Tags: relevance:core
 Investigative Direction: Compare against the thoracic findings in the autopsy report once released.
+Open Questions: Q-930, Q-1041
 
 ---
 
@@ -1773,6 +1804,7 @@ Revises: C-10646
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Check the preliminary hearing transcript for the ATF analyst's testimony on fragment count and usability.
+Open Questions: Q-717
 
 ---
 
@@ -1789,6 +1821,7 @@ Mentions: N-1
 Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Obtain EMS and hospital records on resuscitation attempts and compare with the security team's accounts of CPR.
+Open Questions: Q-1042
 
 ---
 
@@ -1805,6 +1838,7 @@ Mentions: N-1
 Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Verify the email's author and compare the claim with security team statements and scene video.
+Open Questions: Q-930, Q-1043
 
 ---
 
@@ -1821,6 +1855,7 @@ Mentions:
 Related Nodes: N-10698, N-10684
 Tags: relevance:core
 Investigative Direction: Seek rooftop scene evidence, the recovered-rifle chain of custody and identification of the runner.
+Open Questions: Q-75, Q-957
 
 ---
 
@@ -1837,6 +1872,7 @@ Mentions: N-1
 Related Nodes: N-10697, N-10690
 Tags: relevance:core
 Investigative Direction: Verify the writer's role and ask trauma surgeons whether thoracic hemorrhage can accompany neck gunshot wounds; compare with the autopsy report.
+Open Questions: Q-930, Q-1041
 
 ---
 
@@ -1853,6 +1889,7 @@ Mentions: N-1, N-2
 Related Nodes: N-10696
 Tags: relevance:core
 Investigative Direction: Obtain morgue intake and transport logs for September 10-11 from the Utah medical examiner's office.
+Open Questions: Q-1029
 
 ---
 
@@ -1870,6 +1907,7 @@ Related Nodes: N-10696
 Supports: C-11657
 Tags: relevance:core
 Investigative Direction: Ask forensic pathologists and the Utah OME for its written cooling protocol.
+Open Questions: Q-1029
 
 ---
 
@@ -1886,6 +1924,7 @@ Mentions: N-1
 Related Nodes: N-10696
 Tags: relevance:core
 Investigative Direction: Cite forensic pathology references for decomposition onset and the OME's own autopsy timing practice.
+Open Questions: Q-1029
 
 ---
 
@@ -1902,6 +1941,7 @@ Mentions: N-1
 Related Nodes: N-10818, N-10907, N-10697
 Tags: relevance:core
 Investigative Direction: Find the Project Constitution podcast segment and compare with photographs of Charlie's mic pack placement.
+Open Questions: Q-930, Q-1041
 
 ---
 
@@ -1920,6 +1960,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Cite the analysis the host refers to and compare with the full witness recording.
+Open Questions: Q-26
 
 ---
 
@@ -1936,6 +1977,7 @@ Mentions: N-40
 Related Nodes: N-10567
 Tags: relevance:core
 Investigative Direction: Check the latent print and DNA reports for the rifle and the quality ranking of prints.
+Open Questions: Q-93
 
 ---
 
@@ -1954,6 +1996,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3
 Investigative Direction: Obtain the firearm identification and make and model from the charging documents and ATF trace.
+Open Questions: Q-75
 
 ---
 
@@ -1987,6 +2030,7 @@ Related Nodes: N-11220, N-11361
 Supports: C-5960
 Tags: relevance:core
 Investigative Direction: Review the memorial transcript and video for the exact words and any evidence Erika had been shown by that date.
+Open Questions: Q-1044
 
 ---
 
@@ -2003,6 +2047,7 @@ Mentions: N-2, N-40
 Related Nodes: N-11220
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's representatives and law enforcement what briefing, if any, she received before the memorial.
+Open Questions: Q-1044
 
 ---
 

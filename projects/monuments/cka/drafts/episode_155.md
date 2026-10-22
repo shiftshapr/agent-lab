@@ -995,6 +995,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Compare the towed vehicle's make, year, trim and body photographs with the admin-lot footage frames, ideally with an independent automotive identification.
+Open Questions: Q-1214
 
 ---
 
@@ -1011,6 +1012,7 @@ Mentions: N-3
 Related Nodes: N-10770, N-10773
 Tags: relevance:core
 Investigative Direction: Measure the driver's proportions in the admin-lot footage against known heights of persons of interest, if the original footage is released.
+Open Questions: Q-1215
 
 ---
 
@@ -1028,6 +1030,7 @@ Related Nodes: N-10770, N-10773
 Supports: C-13370
 Tags: relevance:core
 Investigative Direction: Obtain simultaneous timestamps from the garage and admin-lot cameras to show whether both subjects were on camera at the same moment.
+Open Questions: Q-1215
 
 ---
 
@@ -1044,6 +1047,7 @@ Mentions: N-3
 Related Nodes: N-10773, N-10038
 Tags: relevance:core
 Investigative Direction: Request the full UVU campus camera archive for 8:30 to 10:00 a.m. covering both vehicles and their occupants.
+Open Questions: Q-1216
 
 ---
 
@@ -1060,6 +1064,7 @@ Mentions: N-3
 Related Nodes: N-10038, N-11065
 Tags: relevance:core
 Investigative Direction: Read the preliminary hearing transcript for Hull's testimony on the TPUSA representative exchange and identify the employee asked.
+Open Questions: Q-1216
 
 ---
 
@@ -1076,6 +1081,7 @@ Mentions: N-3, N-860
 Related Nodes: N-10771
 Tags: relevance:core
 Investigative Direction: Compare the show's published timeline against both the September 15 warrant narrative and the hearing transcript to document which source supplied each entry.
+Open Questions: Q-1216
 
 ---
 
@@ -1093,6 +1099,7 @@ Related Nodes: N-10770, N-10773
 Supports: C-13370
 Tags: relevance:core
 Investigative Direction: Pull garage exit and admin-lot exit camera timestamps for both vehicles to confirm the near-simultaneous departures.
+Open Questions: Q-1215
 
 ---
 
@@ -1109,6 +1116,7 @@ Mentions: N-860, N-40, N-3
 Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits.
+Open Questions: Q-1216, Q-1217
 
 ---
 
@@ -1125,6 +1133,7 @@ Mentions: N-3
 Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Search discovery and neighborhood camera releases for any frame of the Challenger parked near campus on September 10.
+Open Questions: Q-1217
 
 ---
 
@@ -1141,6 +1150,7 @@ Mentions: N-861, N-3
 Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.
+Open Questions: Q-1218
 
 ---
 
@@ -1157,6 +1167,7 @@ Mentions: N-860, N-3
 Related Nodes: N-10771
 Tags: relevance:core
 Investigative Direction: Compare Hull's narration line by line with the released footage and note each point where the spoken description and the video disagree.
+Open Questions: Q-1219
 
 ---
 
@@ -1173,6 +1184,7 @@ Mentions: N-3
 Related Nodes: N-10773, N-10038
 Tags: relevance:core
 Investigative Direction: Obtain the full eight-minute top-level garage footage at native resolution for independent frame review.
+Open Questions: Q-1216
 
 ---
 
@@ -1190,6 +1202,7 @@ Related Nodes: N-10011, N-10038
 Supports: C-13388
 Tags: relevance:core
 Investigative Direction: Check the preliminary hearing exhibit list and Hull's testimony for any use of the TMZ 8:07 a.m. footage.
+Open Questions: Q-1217
 
 ---
 
@@ -1206,6 +1219,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10032, N-10773
 Tags: relevance:core
 Investigative Direction: Establish who selected the parking structure and arrival time, using Robinson's phone location data and campus gate or parking records.
+Open Questions: Q-1216, Q-1217
 
 ---
 
@@ -1222,6 +1236,7 @@ Mentions: N-3
 Related Nodes: N-10032, N-10773
 Tags: relevance:core
 Investigative Direction: Identify who drove the Challenger into the structure and test the decoy theory against Robinson's phone, purchase and message records.
+Open Questions: Q-1216
 
 ---
 
@@ -1239,6 +1254,7 @@ Related Nodes: N-10048
 Supports: C-12441
 Tags: relevance:core
 Investigative Direction: Search the cemetery and nearby trash receptacles for records of recovered clothing and obtain Dairy Queen camera footage and receipts.
+Open Questions: Q-56, Q-413
 
 ---
 
@@ -1254,6 +1270,7 @@ Anchored Artifacts:
 Mentions: N-40, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Compare the host's tampering theory against the charging documents and any evidence-tampering counts or investigative reports.
+Open Questions: Q-1140
 
 ---
 
@@ -1270,6 +1287,7 @@ Mentions: N-3
 Related Nodes: N-10048
 Tags: relevance:core, DIA
 Investigative Direction: Record tip volume and any follow-up in later episodes where the host cites emailed tips.
+Open Questions: Q-413
 
 ---
 
@@ -1286,6 +1304,7 @@ Mentions: N-40, N-54, N-3
 Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Match Lance Twiggs' phone location and activity records on September 10 against the campus vehicle footage.
+Open Questions: Q-822
 
 ---
 
@@ -1302,6 +1321,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10019, N-10321
 Tags: relevance:core
 Investigative Direction: Request the clothing evidence inventory and chain of custody for the black flag shirt and compare it to footage of the person who returned to campus.
+Open Questions: Q-1140, Q-1209
 
 ---
 
@@ -1318,6 +1338,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10019
 Tags: relevance:core
 Investigative Direction: Obtain the footwear evidence report and any survey of other Converse-wearing individuals on campus footage.
+Open Questions: Q-1140
 
 ---
 
@@ -1334,6 +1355,7 @@ Mentions: N-3
 Related Nodes: N-11231, N-10012
 Tags: relevance:core
 Investigative Direction: Obtain UVU room reservations, access logs and calendars for the morning of September 10 to see whether any meeting occurred.
+Open Questions: Q-1220
 
 ---
 
@@ -1351,6 +1373,7 @@ Related Nodes: N-10773
 Supports: C-13382
 Tags: relevance:core
 Investigative Direction: Obtain Miss Noble's statement, 911 or tip-line record and the neighborhood surveillance referenced in the warrants.
+Open Questions: Q-1221
 
 ---
 
@@ -1367,6 +1390,7 @@ Mentions: N-3
 Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Check rental agency records for grey Dodge Challengers rented around Salt Lake and Utah counties for September 9 to 11.
+Open Questions: Q-1221
 
 ---
 
@@ -1383,6 +1407,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10019, N-10321
 Tags: relevance:core
 Investigative Direction: Collect the dated early law-enforcement statements and later filings on clothing change location and screwdriver recovery location.
+Open Questions: Q-1209, Q-1222
 
 ---
 
@@ -1401,6 +1426,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3
 Investigative Direction: Obtain the filed September 15 warrant affidavit to verify the clothing description and compare it with the maroon-shirt reporting.
+Open Questions: Q-1209
 
 ---
 
@@ -1420,6 +1446,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3, S-7
 Investigative Direction: Obtain the hearing transcript and any Chick-fil-A transaction or camera records for the 10:09 a.m. to 11:00 a.m. window.
+Open Questions: Q-1083
 
 ---
 
@@ -1437,6 +1464,7 @@ Related Nodes: N-10771
 Supports: C-12041
 Tags: relevance:core
 Investigative Direction: Compare the 11:28 message metadata and device location against the claimed off-campus timeline.
+Open Questions: Q-1083
 
 ---
 
@@ -1453,6 +1481,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10019, N-10771
 Tags: relevance:core
 Investigative Direction: Request any camera footage of Robinson's vehicle or person off campus between 11:00 a.m. and the return to campus.
+Open Questions: Q-1083, Q-1209
 
 ---
 
@@ -1469,6 +1498,7 @@ Mentions: N-899, N-3
 Related Nodes: N-10771, N-10773
 Tags: relevance:core
 Investigative Direction: Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp.
+Open Questions: Q-1221
 
 ---
 
@@ -1487,6 +1517,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-7
 Investigative Direction: Obtain the autopsy report, ballistics and explosives-residue analysis, and the wound description from the treating surgeon.
+Open Questions: Q-272, Q-930
 
 ---
 
@@ -1503,6 +1534,7 @@ Mentions: N-3
 Related Nodes: N-10772, N-10012
 Tags: relevance:core
 Investigative Direction: Collect named eyewitness accounts and any photographs or video of the Woodbury building roof from September 10.
+Open Questions: Q-1223
 
 ---
 
@@ -1519,6 +1551,7 @@ Mentions: N-3
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Identify the arrest through UVU police or Orem and Provo booking records for September 11 and the stated charge.
+Open Questions: Q-1224
 
 ---
 
@@ -1536,6 +1569,7 @@ Related Nodes: N-11084, N-10772
 Supports: C-4755
 Tags: relevance:core
 Investigative Direction: Retrieve the Maxfield statement text and FAA registration history for the N88 aircraft including the Romania registration.
+Open Questions: Q-1225
 
 ---
 
@@ -1553,6 +1587,7 @@ Related Nodes: N-10772, N-10012
 Supports: C-2002
 Tags: relevance:core
 Investigative Direction: Check FAA registration and any LLC ownership filings for the aircraft to confirm co-owners.
+Open Questions: Q-1225
 
 ---
 
@@ -1586,6 +1621,7 @@ Related Nodes: N-10772, N-10012
 Supports: C-2003
 Tags: relevance:core
 Investigative Direction: Confirm the institute's naming and location in UVU records and the Baughs' status in the aircraft ownership records.
+Open Questions: Q-1223, Q-1225
 
 ---
 
@@ -1602,6 +1638,7 @@ Mentions: N-3
 Related Nodes: N-10772
 Tags: relevance:core, DIA
 Investigative Direction: Record tip volume and any follow-up in later episodes where the host cites emailed tips.
+Open Questions: Q-1223
 
 ---
 
@@ -1872,6 +1909,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Track which specific statements by people close to Kirk the host identifies as lies across later episodes.
+Open Questions: Q-1140
 
 ---
 

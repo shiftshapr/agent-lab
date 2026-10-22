@@ -677,6 +677,7 @@ Anchored Artifacts: A-3391.2
 Mentions: N-7
 Tags: relevance:core
 Investigative Direction: Police evidence logs and body camera footage for the handling of Charlie Kirk's chain on September 10, 2025.
+Open Questions: Q-677
 
 ---
 
@@ -693,6 +694,7 @@ Mentions: N-955, N-2
 Related Nodes: N-10012, N-10000
 Tags: relevance:core
 Investigative Direction: UVU faculty accounts; Peterson's public statements on the TPUSA event and its aftermath.
+Open Questions: Q-1267
 
 ---
 
@@ -709,6 +711,7 @@ Mentions: N-955
 Related Nodes: N-10012, N-10762
 Tags: relevance:core
 Investigative Direction: UVU organizational chart and the independent review's description of Peterson's portfolio.
+Open Questions: Q-1267
 
 ---
 
@@ -727,6 +730,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: The UVU independent review text on Peterson's location.
+Open Questions: Q-1269
 
 ---
 
@@ -743,6 +747,7 @@ Mentions: N-955, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: The tips received by the host's team; UVU faculty who can confirm the account.
+Open Questions: Q-1269
 
 ---
 
@@ -759,6 +764,7 @@ Mentions: N-955
 Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: Tee-time and tournament records at Heber-area golf clubs for September 10, 2025.
+Open Questions: Q-1269
 
 ---
 
@@ -775,6 +781,7 @@ Mentions: N-955
 Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: Heber-area golf tournament entry lists for September 10, 2025.
+Open Questions: Q-1269
 
 ---
 
@@ -791,6 +798,7 @@ Mentions: N-955, N-41
 Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: Governor's security detail logs and golf club records for September 10, 2025.
+Open Questions: Q-1269, Q-1280
 
 ---
 
@@ -823,6 +831,7 @@ Mentions: N-41
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The governor's office schedule records for September 9–10, 2025, via a GRAMA request.
+Open Questions: Q-1280
 
 ---
 
@@ -839,6 +848,7 @@ Mentions: N-41, N-1
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: Cox's interviews and press conferences after September 10, 2025.
+Open Questions: Q-1280
 
 ---
 
@@ -855,6 +865,7 @@ Mentions: N-41, N-3
 Related Nodes: N-11342, N-10072
 Tags: relevance:core
 Investigative Direction: Cox's public remarks on receiving the news; viewer submissions.
+Open Questions: Q-1280
 
 ---
 
@@ -1034,6 +1045,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: The UVU independent review's account of the venue call.
+Open Questions: Q-343
 
 ---
 
@@ -1146,6 +1158,7 @@ Related Nodes: N-10890, N-10303
 Supports: C-9885
 Tags: relevance:core
 Investigative Direction: The New York Times reporting on the July 12, 2025 call; call participants.
+Open Questions: Q-1130
 
 ---
 
@@ -1179,6 +1192,7 @@ Related Nodes: N-10478
 Supports: C-10768
 Tags: relevance:core
 Investigative Direction: Erika Kirk or TPUSA statement; Next Model Management staff.
+Open Questions: Q-1190
 
 ---
 
@@ -1212,6 +1226,7 @@ Related Nodes: N-10478
 Supports: C-10439
 Tags: relevance:core
 Investigative Direction: Lease records for model housing; former Next Model staff.
+Open Questions: Q-1190
 
 ---
 
@@ -1228,6 +1243,7 @@ Mentions: N-2
 Related Nodes: N-10000, N-10488
 Tags: relevance:core
 Investigative Direction: School district records of TPUSA assemblies and Club America enrollment.
+Open Questions: Q-1281
 
 ---
 
@@ -1244,6 +1260,7 @@ Mentions: N-1
 Related Nodes: N-10488
 Tags: relevance:core
 Investigative Direction: The Aspen donor event recording and attendee accounts.
+Open Questions: Q-1281
 
 ---
 
@@ -1260,6 +1277,7 @@ Mentions: N-1
 Related Nodes: N-10488
 Tags: relevance:core
 Investigative Direction: The Aspen pitch audio.
+Open Questions: Q-1281
 
 ---
 
@@ -1277,6 +1295,7 @@ Related Nodes: N-10303, N-10072
 Supports: C-10108
 Tags: relevance:core
 Investigative Direction: White House visitor logs and EEOB access records for that date.
+Open Questions: Q-553
 
 ---
 
@@ -1310,6 +1329,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10072
 Tags: relevance:core
 Investigative Direction: The host's tweet and its timestamp; White House visitor logs.
+Open Questions: Q-553
 
 ---
 
@@ -1326,6 +1346,7 @@ Mentions: N-1
 Related Nodes: N-10143, N-10026
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's private messages and statements from summer 2025.
+Open Questions: Q-2
 
 ---
 
@@ -1343,6 +1364,7 @@ Related Nodes: N-10272, N-10072
 Supports: C-10501
 Tags: relevance:core
 Investigative Direction: White House or DoD statements; foreign military training records for September 2025.
+Open Questions: Q-346
 
 ---
 
@@ -1421,6 +1443,7 @@ Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's private communications in summer 2025; testimony from close associates.
+Open Questions: Q-1282
 
 ---
 
@@ -1437,6 +1460,7 @@ Mentions: N-1
 Related Nodes: N-10388
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's recorded statements and messages anticipating his death.
+Open Questions: Q-1282
 
 ---
 
@@ -1802,6 +1826,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Autopsy report and ballistic analysis.
+Open Questions: Q-1283
 
 ---
 

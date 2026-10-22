@@ -1389,6 +1389,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Ask the host to document, privately or via an intermediary, the number and type of sources behind the neck-injury finding; compare with the autopsy and death-certificate record.
+Open Questions: Q-64, Q-191, Q-192
 
 ---
 
@@ -1406,6 +1407,7 @@ Related Nodes: N-10172
 Supports: C-595
 Tags: relevance:core
 Investigative Direction: Locate the original Kolvet tweet and compare it with the autopsy findings; ask the Utah medical examiner's office where the projectile was recovered.
+Open Questions: Q-64, Q-191
 
 ---
 
@@ -1422,6 +1424,7 @@ Mentions: N-3
 Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Establish when the host first received the finding, for example from her own messages with sources, and compare with earlier episodes that touched the bullet.
+Open Questions: Q-64, Q-192
 
 ---
 
@@ -1438,6 +1441,7 @@ Mentions: N-3
 Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Ask Utah and other state medical examiners whether weapon and projectile details are entered on death certificates, and pull Utah's death-certificate standards.
+Open Questions: Q-193
 
 ---
 
@@ -1454,6 +1458,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10172, N-10173
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy, wound-ballistics and projectile reports and have an independent forensic pathologist assess the wound and recovered fragment against the .30-06 and smaller calibers.
+Open Questions: Q-194
 
 ---
 
@@ -1470,6 +1475,7 @@ Mentions: N-3
 Related Nodes: N-10296, N-10091, N-10173
 Tags: relevance:core
 Investigative Direction: Collect named witness statements and any police interview summaries on the number of shots heard, and compare with which witnesses the networks interviewed.
+Open Questions: Q-195
 
 ---
 
@@ -1486,6 +1492,7 @@ Mentions: N-3
 Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Identify the witness and interview him about where he was standing and which direction the sound seemed to come from; get the full unedited clip.
+Open Questions: Q-27, Q-196
 
 ---
 
@@ -1502,6 +1509,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-11293
 Tags: relevance:core
 Investigative Direction: Obtain the private message exchange and identify who instructed the man and which TPUSA chapter had earlier been in trouble over media comments.
+Open Questions: Q-196, Q-197
 
 ---
 
@@ -1518,6 +1526,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-11293
 Tags: relevance:core
 Investigative Direction: Ask TPUSA for any message sent to chapters or volunteers about speaking to media on 9/10, and ask the people who received it.
+Open Questions: Q-197
 
 ---
 
@@ -1550,6 +1559,7 @@ Mentions: N-174, N-3
 Related Nodes: N-10174, N-10006
 Tags: relevance:core
 Investigative Direction: Compare the viral shoving footage with Cooper Brown's Fox News appearances to confirm the two are the same person.
+Open Questions: Q-198
 
 ---
 
@@ -1614,6 +1624,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10172, N-10173
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and ballistics findings and the audio of the shot sequence to test whether the audible rifle shot and the fatal wound match.
+Open Questions: Q-193, Q-194
 
 ---
 
@@ -1630,6 +1641,7 @@ Mentions: N-3, N-176
 Related Nodes: N-10175
 Tags: relevance:core
 Investigative Direction: Review the tip email for its basis and verify the examiner's career record independently.
+Open Questions: Q-199
 
 ---
 
@@ -1646,6 +1658,7 @@ Mentions: N-3, N-176
 Related Nodes: N-10175
 Tags: relevance:core
 Investigative Direction: Record tip volume and follow-up in later episodes where the host cites emailed tips about the examiner.
+Open Questions: Q-199
 
 ---
 
@@ -1662,6 +1675,7 @@ Mentions: N-3
 Related Nodes: N-10173, N-10165
 Tags: relevance:core
 Investigative Direction: Obtain acoustic analyses of the shot audio from multiple recordings and ask forensic audio experts whether more than one weapon discharge can be identified.
+Open Questions: Q-195
 
 ---
 
@@ -1678,6 +1692,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Map audience positions at the moment of the shot against the trajectory the host describes, using all available footage.
+Open Questions: Q-27
 
 ---
 
@@ -1694,6 +1709,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10723, N-10052
 Tags: relevance:core
 Investigative Direction: Establish the sequence in which each camera was removed or its card taken, from event staff, police logs and camera operator accounts.
+Open Questions: Q-63
 
 ---
 
@@ -1711,6 +1727,7 @@ Related Nodes: N-10184, N-10723
 Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Obtain statements from the investigating agency about whether anyone instructed removal of the camera or SD card, and compare with Bowyer's account.
+Open Questions: Q-63
 
 ---
 
@@ -1728,6 +1745,7 @@ Related Nodes: N-10168
 Supports: C-1566
 Tags: relevance:core
 Investigative Direction: Collect all video from the audience's left side and map camera fields of view across the tent area to confirm the gap.
+Open Questions: Q-181
 
 ---
 
@@ -1744,6 +1762,7 @@ Mentions: N-3
 Related Nodes: N-10062, N-10176, N-10296
 Tags: relevance:core
 Investigative Direction: Compile the list of media-interviewed witnesses and test each against employment or family ties to Caldera Engineering.
+Open Questions: Q-200
 
 ---
 
@@ -1777,6 +1796,7 @@ Related Nodes: N-10172, N-10173, N-10006
 Supports: C-1649
 Tags: relevance:core
 Investigative Direction: Pull the Fox News segments in which Chaffetz addresses shot distance and compare wording.
+Open Questions: Q-27, Q-201
 
 ---
 
@@ -1793,6 +1813,7 @@ Mentions: N-175
 Related Nodes: N-10172, N-10006
 Tags: relevance:core
 Investigative Direction: Confirm in the Fox transcripts that Chaffetz rejects the building theory; the building name is transcribed as Losee and is probably the Losee Center.
+Open Questions: Q-27, Q-201
 
 ---
 
@@ -1825,6 +1846,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10723, N-10172
 Tags: relevance:core
 Investigative Direction: Establish who controlled the back-camera footage and when it was first provided to investigators, and what the first official statements said about the recovered projectile.
+Open Questions: Q-63, Q-194, Q-202
 
 ---
 
@@ -1842,6 +1864,7 @@ Related Nodes: N-10723, N-10172
 Supports: C-516
 Tags: relevance:core
 Investigative Direction: Obtain the unedited rear-camera footage and have it reviewed frame by frame by a forensic video analyst.
+Open Questions: Q-203
 
 ---
 
@@ -1858,6 +1881,7 @@ Mentions: N-3
 Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Identify the positions of all people identified as armed or carrying on 9/10 and any alerts about a second weapon.
+Open Questions: Q-21, Q-27, Q-195
 
 ---
 
@@ -1874,6 +1898,7 @@ Mentions: N-174, N-3
 Related Nodes: N-10296, N-10012
 Tags: relevance:core
 Investigative Direction: Survey network coverage of 9/10 and count interviewees with verified UVU enrollment.
+Open Questions: Q-198, Q-204
 
 ---
 
@@ -1890,6 +1915,7 @@ Mentions: N-126, N-3
 Related Nodes: N-10296, N-10014
 Tags: relevance:core
 Investigative Direction: Interview Nick and other students about who approached them after the shooting, what was said and whether they identified themselves.
+Open Questions: Q-205
 
 ---
 
@@ -1906,6 +1932,7 @@ Mentions: N-126, N-3
 Related Nodes: N-10296
 Tags: relevance:core
 Investigative Direction: Collect other students' accounts of being approached and identify the people through badge, uniform or footage.
+Open Questions: Q-195, Q-205
 
 ---
 
@@ -1922,6 +1949,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10173, N-10168
 Tags: relevance:core
 Investigative Direction: Determine who sat or stood to Charlie's left in the audience and obtain all video of that area.
+Open Questions: Q-27, Q-181
 
 ---
 
@@ -1940,6 +1968,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Obtain the autopsy wound description and imaging to test the entry location, laterality and fragment location the host gives.
+Open Questions: Q-64, Q-191
 
 ---
 
@@ -2037,6 +2066,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10177
 Tags: relevance:core
 Investigative Direction: Pull ADS-B altitude and track data for N1098L on 9/10 to test the descent and loiter behavior.
+Open Questions: Q-206
 
 ---
 
@@ -2053,6 +2083,7 @@ Mentions: N-3
 Related Nodes: N-10178, N-10182
 Tags: relevance:core
 Investigative Direction: Obtain direct statements from the pilots and airport staff who contacted the host, and corroborate with FBO and FAA records.
+Open Questions: Q-207
 
 ---
 
@@ -2069,6 +2100,7 @@ Mentions: N-3
 Related Nodes: N-10182, N-10178, N-10014
 Tags: relevance:core
 Investigative Direction: Identify any federal agency presence at the FBO and ask for the records on the ramp activity that day.
+Open Questions: Q-207
 
 ---
 
@@ -2085,6 +2117,7 @@ Mentions: N-55, N-38, N-1
 Related Nodes: N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's original public statement and compare with attendee accounts of the retreat.
+Open Questions: Q-9
 
 ---
 
@@ -2101,6 +2134,7 @@ Mentions: N-55, N-1
 Related Nodes: N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Verify Hammer's statement and ask other attendees whether signed books were requested or distributed.
+Open Questions: Q-9
 
 ---
 
@@ -2117,6 +2151,7 @@ Mentions: N-55
 Related Nodes: N-10162, N-10179
 Tags: relevance:core
 Investigative Direction: Obtain call logs and message timestamps for Hammer and Charlie for 9/9 and compare with the retweet time.
+Open Questions: Q-208
 
 ---
 
@@ -2133,6 +2168,7 @@ Mentions: N-55, N-1, N-3
 Related Nodes: N-10162, N-10179
 Tags: relevance:core
 Investigative Direction: Compile Hammer's various accounts of the call's purpose and compare them with the text exchange.
+Open Questions: Q-208
 
 ---
 
@@ -2245,6 +2281,7 @@ Mentions: N-1, N-163, N-3
 Related Nodes: N-10179
 Tags: relevance:core
 Investigative Direction: Locate the full Charlie Kirk text thread containing that sentence and establish its date and recipient; it is not in the A-1256.1 exchange as read.
+Open Questions: Q-209
 
 ---
 
@@ -2325,6 +2362,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10172, N-10173
 Tags: relevance:core
 Investigative Direction: Compare the autopsy entry-wound description with the trajectory models posted by ballistics analysts.
+Open Questions: Q-27, Q-64
 
 ---
 
@@ -2341,6 +2379,7 @@ Mentions: N-3
 Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Review acoustic and physical evidence for a second discharge location.
+Open Questions: Q-27, Q-194, Q-195
 
 ---
 
@@ -2357,6 +2396,7 @@ Mentions: N-3
 Related Nodes: N-10172, N-10014
 Tags: relevance:core
 Investigative Direction: Ask the host to state the number and kind of sources behind the finding.
+Open Questions: Q-192
 
 ---
 
@@ -2372,6 +2412,7 @@ Anchored Artifacts: A-3284.3
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Record tip volume and follow-up in later episodes.
+Open Questions: Q-130
 
 ---
 
@@ -2402,6 +2443,7 @@ Anchored Artifacts: A-3284.3
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Record tip volume and follow-up in later episodes where the host cites emailed tips.
+Open Questions: Q-130
 
 ---
 

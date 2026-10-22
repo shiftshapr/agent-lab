@@ -932,6 +932,7 @@ Related Nodes: N-10661
 Supports: C-11702
 Tags: relevance:core
 Investigative Direction: Compare the host's identification of the companion in episode 136 with Bagley's testimony and the 12:47 PM bystander footage.
+Open Questions: Q-1051
 
 ---
 
@@ -947,6 +948,7 @@ Anchored Artifacts:
 Mentions: N-2, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Obtain the video or screenshots of the TPUSA corporate Zoom call and its date to test the six-day claim.
+Open Questions: Q-519
 
 ---
 
@@ -993,6 +995,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing exhibit list and discovery for any footage of the shooting or evidence linking the rifle to the scene.
+Open Questions: Q-75, Q-938
 
 ---
 
@@ -1009,6 +1012,7 @@ Mentions: N-40, N-125, N-3
 Related Nodes: N-10146
 Tags: relevance:core
 Investigative Direction: Check court filings and the Washington County statements for the surrender sequence and for who contacted Robinson's parents and the pastor.
+Open Questions: Q-34, Q-731
 
 ---
 
@@ -1024,6 +1028,7 @@ Anchored Artifacts:
 Mentions: N-40, N-3
 Tags: relevance:core
 Investigative Direction: Compare official statements and hearing testimony about Robinson's relationship with the host's characterization.
+Open Questions: Q-1054
 
 ---
 
@@ -1040,6 +1045,7 @@ Mentions: N-40, N-1, N-3
 Related Nodes: N-10580
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary hearing transcript of the roommate or partner testimony and check the exact words on politics and Kirk.
+Open Questions: Q-183
 
 ---
 
@@ -1055,6 +1061,7 @@ Anchored Artifacts:
 Mentions: N-1, N-40, N-3
 Tags: relevance:core
 Investigative Direction: List the host's evidence for the microphone theory and the prosecution's exhibits for the rooftop shot and compare them side by side.
+Open Questions: Q-930, Q-957
 
 ---
 
@@ -1071,6 +1078,7 @@ Mentions: N-7, N-1, N-3
 Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Find Turek's original interview or retelling and confirm the exact words about his fingers and the blood.
+Open Questions: Q-882, Q-1045
 
 ---
 
@@ -1087,6 +1095,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Obtain the 911 call audio and CAD record from Utah County dispatch and check for the phrase and the speakers.
+Open Questions: Q-894
 
 ---
 
@@ -1103,6 +1112,7 @@ Mentions: N-681, N-3
 Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Review John Bray's earlier demonstration and the microphone's materials to see whether the adhesive claim holds.
+Open Questions: Q-930, Q-1045
 
 ---
 
@@ -1119,6 +1129,7 @@ Mentions: N-783, N-1, N-3
 Related Nodes: N-10012, N-10702
 Tags: relevance:core
 Investigative Direction: Ask Senator Lee's office and TPUSA for the event invitation list and whether Lee was ever confirmed as an attendee.
+Open Questions: Q-1059
 
 ---
 
@@ -1135,6 +1146,7 @@ Mentions: N-783
 Related Nodes: N-10702
 Tags: relevance:core
 Investigative Direction: Check the Senate schedule and NDAA floor votes for the week of September 8, 2025 and any Lee office statement about the cancellation.
+Open Questions: Q-1059
 
 ---
 
@@ -1166,6 +1178,7 @@ Mentions: N-783, N-1, N-3
 Related Nodes: N-10702, N-10012
 Tags: relevance:core
 Investigative Direction: Ask UVU police and Senator Lee's office whether Lee's office was contacted after September 10, 2025 about a campus incident and what was said.
+Open Questions: Q-1060
 
 ---
 
@@ -1182,6 +1195,7 @@ Mentions: N-783, N-3
 Related Nodes: N-10702, N-10028
 Tags: relevance:core
 Investigative Direction: Request UVU security and police incident logs, radio traffic and any field-contact record for September 9, 2025.
+Open Questions: Q-1060
 
 ---
 
@@ -1198,6 +1212,7 @@ Mentions: N-783, N-3
 Related Nodes: N-10702
 Tags: relevance:core
 Investigative Direction: Ask Lee's Senate office whether any staff or security accompanied him to Utah events in September 2025.
+Open Questions: Q-1060
 
 ---
 
@@ -1214,6 +1229,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10702
 Tags: relevance:core
 Investigative Direction: Identify who at TPUSA, UVU and campus clubs had access to the attendee list before September 9.
+Open Questions: Q-1060
 
 ---
 
@@ -1230,6 +1246,7 @@ Mentions: N-783, N-3
 Related Nodes: N-10702
 Tags: relevance:core
 Investigative Direction: Ask UVU for camera coverage of the September 9 contact and a list of everyone who received the VIP attendee list.
+Open Questions: Q-1060
 
 ---
 
@@ -1293,6 +1310,7 @@ Anchored Artifacts:
 Mentions: N-378, N-69, N-2, N-3
 Tags: relevance:core
 Investigative Direction: Collect each named person's public transparency statements and test them against what has been released.
+Open Questions: Q-1061
 
 ---
 
@@ -1310,6 +1328,7 @@ Related Nodes: N-10703, N-10086
 Supports: C-11783
 Tags: relevance:core
 Investigative Direction: Identify the September 11, 2025 reports and their anonymous law-enforcement sources, and compare them with later official accounts.
+Open Questions: Q-972
 
 ---
 
@@ -1327,6 +1346,7 @@ Related Nodes: N-10703, N-10665
 Supports: C-10923
 Tags: relevance:core
 Investigative Direction: Retrieve the September 15, 2025 Patel and Bongino statements and compare them with the September 11 CNN wording.
+Open Questions: Q-972
 
 ---
 
@@ -1344,6 +1364,7 @@ Related Nodes: N-10660
 Supports: C-10867
 Tags: relevance:core
 Investigative Direction: Obtain the body cam model's warning-behavior specification and the Axon audit log for Bagley's device.
+Open Questions: Q-973
 
 ---
 
@@ -1363,6 +1384,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Obtain the full trial transcript of Bagley's cross-examination and the police department video he reviewed.
+Open Questions: Q-26
 
 ---
 
@@ -1382,6 +1404,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Compare this exchange with the court record to confirm Bagley's final answer.
+Open Questions: Q-1049
 
 ---
 
@@ -1398,6 +1421,7 @@ Mentions: N-506, N-3
 Related Nodes: N-10661, N-10704
 Tags: relevance:core
 Investigative Direction: Obtain rooftop video between the jump and 12:44 p.m. and identify anyone who appears on the Losee roof before Bagley.
+Open Questions: Q-1049
 
 ---
 
@@ -1414,6 +1438,7 @@ Mentions: N-506, N-3
 Related Nodes: N-10703, N-10661
 Tags: relevance:core
 Investigative Direction: Establish a time-stamped chain of custody for the screwdriver and who was on the roof before it was logged.
+Open Questions: Q-972, Q-1049
 
 ---
 
@@ -1431,6 +1456,7 @@ Related Nodes: N-10700
 Qualifies: C-11715
 Tags: relevance:core
 Investigative Direction: Obtain Robertson's San Bernardino employment separation records and the Brady list entry details.
+Open Questions: Q-1053
 
 ---
 
@@ -1448,6 +1474,7 @@ Related Nodes: N-11061
 Supports: C-11702
 Tags: relevance:core
 Investigative Direction: Obtain the USU police event-planning records and request logs for the planned USU Kirk event and the officers' September 10 assignment.
+Open Questions: Q-1051, Q-1062
 
 ---
 
@@ -1465,6 +1492,7 @@ Related Nodes: N-10661
 Supports: C-11692
 Tags: relevance:core
 Investigative Direction: Request the USU and UVU police reports from September 10 and the bystander video showing communication with the UVU chief.
+Open Questions: Q-1051, Q-1062
 
 ---
 
@@ -1496,6 +1524,7 @@ Mentions: N-506, N-748, N-3
 Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Check the trial recording for the moment Bagley says 'Allen' and the question asked.
+Open Questions: Q-1051
 
 ---
 
@@ -1513,6 +1542,7 @@ Related Nodes: N-10700
 Qualifies: C-11715
 Tags: relevance:core
 Investigative Direction: Confirm through a San Bernardino records request that his separation was voluntary and why a Brady entry exists.
+Open Questions: Q-1053
 
 ---
 
@@ -1562,6 +1592,7 @@ Related Nodes: N-10651, N-10666
 Supports: C-11025
 Tags: relevance:core
 Investigative Direction: Re-listen to Neff's original statements and compare his Orem and Salt Lake City versions with hotel records.
+Open Questions: Q-1058
 
 ---
 
@@ -1579,6 +1610,7 @@ Related Nodes: N-10651
 Supports: C-11026
 Tags: relevance:core
 Investigative Direction: Ask Neff and Philip for their September 10 itinerary and transportation records.
+Open Questions: Q-1058
 
 ---
 
@@ -1596,6 +1628,7 @@ Related Nodes: N-10666, N-10651
 Supports: C-11803
 Tags: relevance:core
 Investigative Direction: Obtain hotel registration or invoice records for the TPUSA party on September 10, 2025.
+Open Questions: Q-1058
 
 ---
 
@@ -1613,6 +1646,7 @@ Related Nodes: N-10666
 Supports: C-11803
 Tags: relevance:core
 Investigative Direction: Review the original sleuth post that matched the room background and what it says about Bowyer.
+Open Questions: Q-1058
 
 ---
 
@@ -1788,6 +1822,7 @@ Mentions: N-159, N-1, N-3
 Related Nodes: N-10975
 Tags: relevance:core
 Investigative Direction: Collect public evidence of Kirk's working relationship with Neff, such as texts, show credits and on-air mentions.
+Open Questions: Q-491
 
 ---
 
@@ -1821,6 +1856,7 @@ Related Nodes: N-10681, N-10193
 Supports: C-11819
 Tags: relevance:core
 Investigative Direction: Obtain burial or cremation records and funeral home statements for Charlie Kirk's funeral arrangements.
+Open Questions: Q-1063
 
 ---
 
@@ -1838,6 +1874,7 @@ Related Nodes: N-10684
 Supports: C-11460
 Tags: relevance:core
 Investigative Direction: Collect the TPUSA-aligned posts reacting to the footage and the 'baby could do that crawl' comment.
+Open Questions: Q-26
 
 ---
 
@@ -1854,6 +1891,7 @@ Mentions: N-3
 Related Nodes: N-10660
 Tags: relevance:core
 Investigative Direction: Ask UVU and USU police which officers on the rooftop wore body cams and obtain their footage logs.
+Open Questions: Q-973
 
 ---
 

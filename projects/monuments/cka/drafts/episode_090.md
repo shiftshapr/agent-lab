@@ -1025,6 +1025,7 @@ Mentions: N-3, N-364, N-2, N-361
 Related Nodes: N-10821, N-10346
 Tags: relevance:core
 Investigative Direction: Obtain Phillips's employment record and any statement from him or from the witness Mitch confirming or denying that the description matched him.
+Open Questions: Q-442
 
 ---
 
@@ -1041,6 +1042,7 @@ Mentions: N-3, N-364
 Related Nodes: N-10346
 Tags: relevance:core
 Investigative Direction: Obtain the host's text thread with Phillips and any later statement from Phillips about his whereabouts in September 2025.
+Open Questions: Q-442
 
 ---
 
@@ -1090,6 +1092,7 @@ Related Nodes: N-10000, N-10401, N-10606
 Supports: C-8028
 Tags: relevance:core
 Investigative Direction: Obtain the retreat date, attendee list and program to establish when and where the remark was said to be made.
+Open Questions: Q-771
 
 ---
 
@@ -1107,6 +1110,7 @@ Related Nodes: N-10000, N-10857
 Supports: C-8028
 Tags: relevance:core
 Investigative Direction: Ask Turning Point whether video exists and obtain the original recording with metadata.
+Open Questions: Q-770
 
 ---
 
@@ -1123,6 +1127,7 @@ Mentions: N-3, N-159
 Related Nodes: N-10000, N-10857
 Tags: relevance:core
 Investigative Direction: Locate the Neff statements (posts or messages) the host is paraphrasing and confirm the wording.
+Open Questions: Q-770
 
 ---
 
@@ -1139,6 +1144,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10027, N-10401
 Tags: relevance:core
 Investigative Direction: Compare earlier TPUSA and Erika Kirk statements for the claimed venue of the remark.
+Open Questions: Q-771
 
 ---
 
@@ -1156,6 +1162,7 @@ Related Nodes: N-10000, N-10406
 Supports: C-8029
 Tags: relevance:core
 Investigative Direction: Identify the donors through the host and compare their account with the AmFest remarks and the claimed venue.
+Open Questions: Q-771
 
 ---
 
@@ -1173,6 +1180,7 @@ Related Nodes: N-10544
 Supports: C-8031
 Tags: relevance:core
 Investigative Direction: Retrieve the Kolvet interview and search earlier public uses of the term Charlie GPT.
+Open Questions: Q-779
 
 ---
 
@@ -1206,6 +1214,7 @@ Related Nodes: N-10000, N-10544, N-10606
 Supports: C-8031
 Tags: relevance:core
 Investigative Direction: Ask Turning Point and its vendors whether any Charlie voice or AI product was commissioned, and request contracts or invoices.
+Open Questions: Q-771, Q-779
 
 ---
 
@@ -1223,6 +1232,7 @@ Related Nodes: N-10406
 Supports: C-8029
 Tags: relevance:core
 Investigative Direction: Obtain the dinner guest list and the schedule of Erika Kirk's movements in Aspen from attendees.
+Open Questions: Q-771
 
 ---
 
@@ -1239,6 +1249,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10857
 Tags: relevance:core
 Investigative Direction: Request the Aspen video from Turning Point and corroboration from additional attendees.
+Open Questions: Q-771
 
 ---
 
@@ -1256,6 +1267,7 @@ Related Nodes: N-10000, N-10606, N-10544
 Supports: C-8028
 Tags: relevance:core
 Investigative Direction: Forensic audio analysis of the Aspen clip; request the original device recording and chain of custody.
+Open Questions: Q-770, Q-779
 
 ---
 
@@ -1272,6 +1284,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10000, N-10606, N-10544
 Tags: relevance:core
 Investigative Direction: This is the host's inference; the test is authentication of the audio and its origin.
+Open Questions: Q-779
 
 ---
 
@@ -1288,6 +1301,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Collect the interviews where the single-mother description was used and compare with family and public records.
+Open Questions: Q-306
 
 ---
 
@@ -1304,6 +1318,7 @@ Mentions: N-3, N-1, N-97, N-2, N-14
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review Charlie-Ben communications and public statements (see earlier episode material) and ask Kolvet and Erika Kirk.
+Open Questions: Q-780
 
 ---
 
@@ -1353,6 +1368,7 @@ Mentions: N-3, N-14, N-1, N-97
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Retrieve the Times interview and check Kolvet's exact words about the Shapiro interview; ask Kolvet to confirm Charlie's reaction.
+Open Questions: Q-780
 
 ---
 
@@ -1369,6 +1385,7 @@ Mentions: N-3, N-97, N-603, N-163, N-14, N-1
 Related Nodes: N-10821
 Tags: relevance:core
 Investigative Direction: Obtain the booking communications between Daily Wire and the Charlie Kirk Show for the Walsh and Shapiro appearances.
+Open Questions: Q-780
 
 ---
 
@@ -1385,6 +1402,7 @@ Mentions: N-3, N-97, N-2
 Related Nodes: N-10821
 Tags: relevance:core
 Investigative Direction: Locate the Shapiro show segment and quote his statement on Erika suing.
+Open Questions: Q-781
 
 ---
 
@@ -1418,6 +1436,7 @@ Related Nodes: N-10875, N-10543
 Supports: C-8048
 Tags: relevance:core
 Investigative Direction: Obtain the emails and identify the senders; ask ADF to confirm or deny any coordination with Shapiro or Erika Kirk.
+Open Questions: Q-781
 
 ---
 
@@ -1435,6 +1454,7 @@ Related Nodes: N-10875, N-10821, N-10543
 Supports: C-8050
 Tags: relevance:core
 Investigative Direction: Compare ADF's published board list and Form 990 with the internal slide.
+Open Questions: Q-781
 
 ---
 
@@ -1452,6 +1472,7 @@ Related Nodes: N-10875, N-10543
 Supports: C-8050
 Tags: relevance:core
 Investigative Direction: Identify the ADF sources and obtain board minutes or communications on any litigation involving the host.
+Open Questions: Q-781
 
 ---
 
@@ -1500,6 +1521,7 @@ Mentions: N-3, N-38, N-97
 Related Nodes: N-10875, N-10543
 Tags: relevance:core
 Investigative Direction: Identify and independently interview the four ADF sources.
+Open Questions: Q-781
 
 ---
 
@@ -1517,6 +1539,7 @@ Related Nodes: N-10541, N-10024, N-11360
 Supports: C-8066
 Tags: relevance:core
 Investigative Direction: Obtain dispatch and text records from September 11 for Washington County law enforcement.
+Open Questions: Q-782
 
 ---
 
@@ -1533,6 +1556,7 @@ Mentions: N-3, N-41, N-40
 Related Nodes: N-10541
 Tags: relevance:core
 Investigative Direction: Compare booking photographs and property inventory with Cox's and police statements about clothing.
+Open Questions: Q-783
 
 ---
 
@@ -1549,6 +1573,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10922, N-10541
 Tags: relevance:core
 Investigative Direction: Check firearms retailers or private sales in the Warner Valley area for September 10 to 11, 2025, and any ATF trace records.
+Open Questions: Q-784
 
 ---
 
@@ -1565,6 +1590,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10922, N-10541
 Tags: relevance:core
 Investigative Direction: Reconstruct the sequence of calls between the Robinson family, the family friend and law enforcement on the evening of September 11.
+Open Questions: Q-735, Q-782
 
 ---
 
@@ -1581,6 +1607,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Obtain the Maverick surveillance footage and its time stamp.
+Open Questions: Q-785
 
 ---
 
@@ -1597,6 +1624,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Compare the Post's gun photo with the recovered rifle's serial number and make and model in court records.
+Open Questions: Q-786
 
 ---
 
@@ -1613,6 +1641,7 @@ Mentions: N-3, N-69, N-378, N-40
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Check Patel's and Bongino's travel logs and the time stamp of the FBI Salt Lake City post.
+Open Questions: Q-787
 
 ---
 
@@ -1630,6 +1659,7 @@ Related Nodes: N-10541, N-10024
 Supports: C-8059
 Tags: relevance:core
 Investigative Direction: Obtain the exhibit video and its metadata cited in the motion to establish the actual time of the interview.
+Open Questions: Q-788
 
 ---
 
@@ -1647,6 +1677,7 @@ Related Nodes: N-10541
 Supports: C-8059
 Tags: relevance:core
 Investigative Direction: Ask the defense or the court to clarify the date of the video exhibit; check the booking record for the date and time.
+Open Questions: Q-788
 
 ---
 
@@ -1663,6 +1694,7 @@ Mentions: N-3, N-272, N-125, N-40
 Related Nodes: N-10029, N-10541
 Tags: relevance:core
 Investigative Direction: Obtain the press conference transcript and the sheriff's office phone records for the call.
+Open Questions: Q-735
 
 ---
 
@@ -1679,6 +1711,7 @@ Mentions: N-3, N-272, N-810, N-125
 Related Nodes: N-10029
 Tags: relevance:core
 Investigative Direction: Obtain call logs and sheriff statements from both offices for the evening of September 11.
+Open Questions: Q-735
 
 ---
 
@@ -1697,6 +1730,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5, S-7
 Investigative Direction: Compare the press conference transcript with the 10:26 p.m. search warrant time and booking records.
+Open Questions: Q-788
 
 ---
 
@@ -1714,6 +1748,7 @@ Related Nodes: N-10031, N-11047
 Supports: C-162
 Tags: relevance:core
 Investigative Direction: Retrieve Patel's statement on the 33rd hour and compute the interval from the shooting to booking.
+Open Questions: Q-788
 
 ---
 
@@ -1747,6 +1782,7 @@ Related Nodes: N-10029, N-10255, N-10541
 Supports: C-8073
 Tags: relevance:core
 Investigative Direction: File a records request for the sheriff's office lobby and sally-port footage for September 11 and ask for the retention log.
+Open Questions: Q-788
 
 ---
 
@@ -1765,6 +1801,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the full search warrant affidavit and the photographs of the roommate's screen.
+Open Questions: Q-753
 
 ---
 
@@ -1783,6 +1820,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-7
 Investigative Direction: Compare the affidavit's paraphrase with the full message thread released by the FBI.
+Open Questions: Q-789
 
 ---
 
@@ -1801,6 +1839,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5, S-7
 Investigative Direction: Compare with the released text chain and with the bullet engraving evidence in the charging documents.
+Open Questions: Q-790
 
 ---
 
@@ -1818,6 +1857,7 @@ Related Nodes: N-10542, N-10617
 Supports: C-8084
 Tags: relevance:core
 Investigative Direction: Review defense discovery motions and rulings in the Robinson docket.
+Open Questions: Q-791, Q-792
 
 ---
 
@@ -1834,6 +1874,7 @@ Mentions: N-3, N-54, N-40
 Related Nodes: N-10545, N-10639
 Tags: relevance:core
 Investigative Direction: This is the host's inference; a records request for any informant or cooperation agreement with Twiggs, or a court filing disclosing one, would test it.
+Open Questions: Q-174
 
 ---
 
@@ -1851,6 +1892,7 @@ Related Nodes: N-10545
 Supports: C-352
 Tags: relevance:core
 Investigative Direction: Obtain booking and release records, or sheriff's statements on Twiggs's detention.
+Open Questions: Q-45
 
 ---
 
@@ -1868,6 +1910,7 @@ Related Nodes: N-10545
 Supports: C-217
 Tags: relevance:core
 Investigative Direction: Interview family members on the record and review property records for the townhome.
+Open Questions: Q-174, Q-793
 
 ---
 
@@ -1884,6 +1927,7 @@ Mentions: N-3, N-54
 Related Nodes: N-10545, N-10617
 Tags: relevance:core
 Investigative Direction: Check the preliminary hearing witness lists and public dockets for any testimony or statements from Twiggs.
+Open Questions: Q-174, Q-794
 
 ---
 
@@ -1900,6 +1944,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10542
 Tags: relevance:core
 Investigative Direction: Obtain the filing and check each listed item's disclosure date against the discovery log.
+Open Questions: Q-792
 
 ---
 
@@ -1916,6 +1961,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10542
 Tags: relevance:core
 Investigative Direction: Obtain the filing and the discovery log to confirm the October 2025 production date.
+Open Questions: Q-792
 
 ---
 
@@ -2064,6 +2110,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10401, N-10606
 Tags: relevance:core
 Investigative Direction: The host would need to publish the attendee list or identify the person who asked the question; an Aspen retreat guest list is the confirming record.
+Open Questions: Q-771
 
 ---
 
@@ -2080,6 +2127,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Gather the videos and emails the host cites and compare against recordings of the events.
+Open Questions: Q-795
 
 ---
 

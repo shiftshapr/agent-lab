@@ -1518,6 +1518,7 @@ Mentions: N-3, N-1, N-186
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Look for contemporaneous messages or witnesses to the host's warning and for Sheridan's hiring date.
+Open Questions: Q-344
 
 ---
 
@@ -1534,6 +1535,7 @@ Mentions: N-186, N-1
 Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Identify the photographer of the widely shared casket footage and the account that first posted it.
+Open Questions: Q-360
 
 ---
 
@@ -1550,6 +1552,7 @@ Mentions: N-186, N-1
 Related Nodes: N-11118
 Tags: relevance:core
 Investigative Direction: Confirm Sheridan's role in the memorial program and the White House observance from event programs and video.
+Open Questions: Q-361
 
 ---
 
@@ -1566,6 +1569,7 @@ Mentions: N-3
 Related Nodes: N-11194, N-10928, N-10253
 Tags: relevance:core
 Investigative Direction: Obtain Satys shareholder registers or filings and verify ACE Partners' stake and ownership.
+Open Questions: Q-334
 
 ---
 
@@ -1583,6 +1587,7 @@ Related Nodes: N-10928, N-10253
 Supports: C-3206
 Tags: relevance:core
 Investigative Direction: Check airport authority lease terms and any FAA or federal approval requirement for the hangar.
+Open Questions: Q-362
 
 ---
 
@@ -1599,6 +1604,7 @@ Mentions: N-22, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Ask Carlson to confirm; compare with the speech video and any prepared remarks.
+Open Questions: Q-265
 
 ---
 
@@ -1616,6 +1622,7 @@ Related Nodes: N-11151
 Supports: C-3183
 Tags: relevance:core
 Investigative Direction: Review the full video of the July 11 speech and contemporaneous donor reactions.
+Open Questions: Q-265
 
 ---
 
@@ -1633,6 +1640,7 @@ Related Nodes: N-10012, N-10211
 Supports: C-3184
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA and UVU event request correspondence with timestamps.
+Open Questions: Q-363
 
 ---
 
@@ -1650,6 +1658,7 @@ Related Nodes: N-10259, N-10239
 Supports: C-3270
 Tags: relevance:core
 Investigative Direction: Compare flight-tracking records for the Lincoln landing with the Nebraska announcement date.
+Open Questions: Q-363, Q-364, Q-365
 
 ---
 
@@ -1667,6 +1676,7 @@ Related Nodes: N-10259
 Supports: C-3271
 Tags: relevance:core
 Investigative Direction: File a Nebraska public-records request for the meeting calendar, attendee list and trade mission planning documents.
+Open Questions: Q-365
 
 ---
 
@@ -1684,6 +1694,7 @@ Related Nodes: N-10250, N-10259
 Supports: C-3268
 Tags: relevance:core
 Investigative Direction: Check flight-tracking logs for the Nebraska to Wilmington to Cairo legs of SU-BTT.
+Open Questions: Q-364
 
 ---
 
@@ -1701,6 +1712,7 @@ Related Nodes:
 Supports: C-2270
 Tags: relevance:core
 Investigative Direction: Obtain the McCoys' and Kirk family's posts and travel dates for the Maine trip.
+Open Questions: Q-366
 
 ---
 
@@ -1717,6 +1729,7 @@ Mentions: N-1
 Related Nodes: N-10791
 Tags: relevance:core
 Investigative Direction: Obtain the sponsorship contract and addendum and the date the tour sponsorship was announced.
+Open Questions: Q-367
 
 ---
 
@@ -1733,6 +1746,7 @@ Mentions: N-3
 Related Nodes: N-10791
 Tags: relevance:core
 Investigative Direction: Compare tour announcement dates for past TPUSA tours with the fall 2025 tour.
+Open Questions: Q-367
 
 ---
 
@@ -1767,6 +1781,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain the venue site-visit communications between TPUSA, UVU and event staff in early August.
+Open Questions: Q-343
 
 ---
 
@@ -1801,6 +1816,7 @@ Related Nodes: N-10129
 Supports: C-3192
 Tags: relevance:core
 Investigative Direction: Collect accounts from attendees and any messages from Kirk describing the retreat.
+Open Questions: Q-2, Q-9
 
 ---
 
@@ -1817,6 +1833,7 @@ Mentions: N-37
 Related Nodes: N-10129
 Tags: relevance:core
 Investigative Direction: Check attendee disclosures and Ackman statements on who paid for travel and lodging.
+Open Questions: Q-9
 
 ---
 
@@ -1834,6 +1851,7 @@ Related Nodes: N-10284, N-10320
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Seek call logs, Netanyahu office statements and TPUSA donor records; ask Kolvet or Erika Kirk to confirm or deny.
+Open Questions: Q-77
 
 ---
 
@@ -1851,6 +1869,7 @@ Related Nodes: N-10284, N-10425
 Supports: C-84
 Tags: relevance:core
 Investigative Direction: Check for any public denial by TPUSA, Netanyahu's office or the Hamptons attendees since the claim first aired.
+Open Questions: Q-77
 
 ---
 
@@ -1868,6 +1887,7 @@ Related Nodes: N-10250, N-10259
 Supports: C-3194
 Tags: relevance:core
 Investigative Direction: Verify SU-BTT landings in Lincoln, Omaha and Wilmington against flight-tracking data.
+Open Questions: Q-364
 
 ---
 
@@ -1884,6 +1904,7 @@ Mentions: N-1
 Related Nodes: N-10250
 Tags: relevance:core
 Investigative Direction: Verify SU-BTT's August 24 departure path against flight-tracking data.
+Open Questions: Q-364
 
 ---
 
@@ -1916,6 +1937,7 @@ Mentions: N-1
 Related Nodes: N-10012, N-10211
 Tags: relevance:core
 Investigative Direction: Retrieve the August 27 social media graphic and its post timestamps from TPUSA, UVU and BYU chapter accounts.
+Open Questions: Q-368
 
 ---
 
@@ -1933,6 +1955,7 @@ Related Nodes: N-10273
 Supports: C-3354
 Tags: relevance:core
 Investigative Direction: Check CENTCOM and Egyptian Armed Forces statements for Bright Star 2025 start and end dates.
+Open Questions: Q-369
 
 ---
 
@@ -1950,6 +1973,7 @@ Related Nodes: N-10127, N-10404
 Supports: C-896
 Tags: relevance:core
 Investigative Direction: Obtain the September 2 internal memo and its distribution list.
+Open Questions: Q-308
 
 ---
 
@@ -1966,6 +1990,7 @@ Mentions: N-1
 Related Nodes: N-10211
 Tags: relevance:core
 Investigative Direction: Find the earliest local news item on the courtyard event and its publication time.
+Open Questions: Q-368
 
 ---
 
@@ -1982,6 +2007,7 @@ Mentions: N-1
 Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Check Kirk's Korea itinerary and return flight times against TPUSA schedule records.
+Open Questions: Q-370
 
 ---
 
@@ -1999,6 +2025,7 @@ Related Nodes: N-10273
 Supports: C-3354
 Tags: relevance:core
 Investigative Direction: Confirm the closing ceremony date of Bright Star 2025 in official statements.
+Open Questions: Q-369
 
 ---
 
@@ -2015,6 +2042,7 @@ Mentions: N-1, N-36
 Related Nodes: N-10127, N-10404, N-10284
 Tags: relevance:core
 Investigative Direction: Ask whoever drafted the DOGE audit memo and TPUSA finance staff what prompted it; no evidence of the link was offered.
+Open Questions: Q-77, Q-308
 
 ---
 
@@ -2031,6 +2059,7 @@ Mentions: N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review the host's tip box submissions and corroborate with named former or current employees.
+Open Questions: Q-371
 
 ---
 
@@ -2047,6 +2076,7 @@ Mentions: N-3, N-15
 Related Nodes: N-10282
 Tags: relevance:core
 Investigative Direction: Obtain the responses the host received through the tip box and check them against TPUSA donor records.
+Open Questions: Q-372
 
 ---
 
@@ -2063,6 +2093,7 @@ Mentions: N-1
 Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Check TPUSA public statements and filings for the post-assassination fundraising total.
+Open Questions: Q-372, Q-373
 
 ---
 
@@ -2079,6 +2110,7 @@ Mentions:
 Related Nodes: N-10280, N-10282
 Tags: relevance:core
 Investigative Direction: Interview donations staff and the host's sources about who knew of the arrangement.
+Open Questions: Q-372
 
 ---
 
@@ -2095,6 +2127,7 @@ Mentions: N-3
 Related Nodes: N-10280, N-10282
 Tags: relevance:core
 Investigative Direction: Ask the sources what conversation they mean and how it was overheard or recorded.
+Open Questions: Q-372
 
 ---
 
@@ -2111,6 +2144,7 @@ Mentions: N-3
 Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Check the date of the host's messages with her sources against her Wyoming trip.
+Open Questions: Q-372
 
 ---
 
@@ -2128,6 +2162,7 @@ Related Nodes: N-10287
 Supports: C-3477
 Tags: relevance:core
 Investigative Direction: Preserve the written tip and identify the family friend through the host's inbox.
+Open Questions: Q-371
 
 ---
 
@@ -2144,6 +2179,7 @@ Mentions: N-3
 Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Review TPUSA's next Form 990 and Schedule B donor disclosures for the relevant period.
+Open Questions: Q-372, Q-373
 
 ---
 
@@ -2160,6 +2196,7 @@ Mentions: N-1, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Ask the host when and how Charlie said this and whether any message preserves it.
+Open Questions: Q-374
 
 ---
 
@@ -2193,6 +2230,7 @@ Related Nodes:
 Supports: C-1780
 Tags: relevance:core
 Investigative Direction: Obtain the original April 2018 message thread and verify the wording and timing.
+Open Questions: Q-374
 
 ---
 
@@ -2209,6 +2247,7 @@ Mentions: N-1, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Ask the host for the full 2018 thread and the earlier episodes where she shared the other messages.
+Open Questions: Q-374
 
 ---
 
@@ -2417,6 +2456,7 @@ Mentions: N-1, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Ask the host when Charlie said this and whether any message or witness records it.
+Open Questions: Q-374
 
 ---
 
@@ -2433,6 +2473,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10282, N-10280
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and Erika Kirk whether the post-assassination call and the donor arrangement occurred; watch for any statement.
+Open Questions: Q-307, Q-372
 
 ---
 
@@ -2465,6 +2506,7 @@ Mentions: N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review TPUSA statements responding to the host's questions on the donor and the planes.
+Open Questions: Q-307
 
 ---
 

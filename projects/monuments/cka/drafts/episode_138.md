@@ -1356,6 +1356,7 @@ Mentions: N-3, N-204, N-341, N-2
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Obtain the Piers Morgan interview and public records of Victor Marx's advisory role to Erika Kirk or TPUSA.
+Open Questions: Q-1064
 
 ---
 
@@ -1372,6 +1373,7 @@ Mentions: N-3, N-506
 Related Nodes: N-10709
 Tags: relevance:core
 Investigative Direction: Obtain Utah County Sheriff's Office personnel and assignment records for Christopher Bagley and his UVU hiring file.
+Open Questions: Q-1065
 
 ---
 
@@ -1389,6 +1391,7 @@ Related Nodes: N-10093
 Supports: C-157
 Tags: relevance:core
 Investigative Direction: Obtain the Zinn arrest record, charging documents and booking date to confirm the charge and compare with the confession episode.
+Open Questions: Q-135
 
 ---
 
@@ -1405,6 +1408,7 @@ Mentions: N-3, N-814
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Verify a legal name change and any court record concerning the father, and obtain the host's source for the confession.
+Open Questions: Q-1066
 
 ---
 
@@ -1422,6 +1426,7 @@ Related Nodes: N-10146
 Supports: C-1108
 Tags: relevance:core
 Investigative Direction: Match the detective's service record and photographs against the Boy Scouts leader Mike Mitchell and his Washington County retirement.
+Open Questions: Q-731
 
 ---
 
@@ -1455,6 +1460,7 @@ Related Nodes: N-10022, N-10707
 Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Compare the charging documents and the surrender timeline with the father's account to determine who initiated contact with police.
+Open Questions: Q-34
 
 ---
 
@@ -1471,6 +1477,7 @@ Mentions: N-3, N-37, N-14, N-775
 Related Nodes: N-10022, N-10036
 Tags: relevance:core
 Investigative Direction: Locate Kolvet's on-air or written statement and Ackman's original reward tweet.
+Open Questions: Q-34, Q-55
 
 ---
 
@@ -1487,6 +1494,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10707
 Tags: relevance:core
 Investigative Direction: Collect the influencers' original 4K video statements and compare them with exhibits entered at the preliminary hearing.
+Open Questions: Q-938, Q-1057
 
 ---
 
@@ -1505,6 +1513,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the preliminary hearing transcript of Lance's testimony on motive and political discussions.
+Open Questions: Q-183
 
 ---
 
@@ -1523,6 +1532,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain Lance's preliminary hearing testimony and compare it with the text messages attributed to Tyler.
+Open Questions: Q-183
 
 ---
 
@@ -1539,6 +1549,7 @@ Mentions: N-3, N-40, N-159
 Related Nodes: N-10020, N-10707
 Tags: relevance:core
 Investigative Direction: Obtain Neff's original and edited post and any exhibit list from the preliminary hearing.
+Open Questions: Q-938, Q-1057
 
 ---
 
@@ -1555,6 +1566,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10707
 Tags: relevance:core
 Investigative Direction: Obtain the car footage exhibits and the vehicle registration data presented at the preliminary hearing.
+Open Questions: Q-1067
 
 ---
 
@@ -1571,6 +1583,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10932
 Tags: relevance:core
 Investigative Direction: Compare the indictment and Utah County filings that describe a father reporting suicidal ideation.
+Open Questions: Q-1068
 
 ---
 
@@ -1587,6 +1600,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10932, N-10031
 Tags: relevance:core
 Investigative Direction: Identify the host's source and obtain the surrender timeline and any police communication log.
+Open Questions: Q-34
 
 ---
 
@@ -1604,6 +1618,7 @@ Related Nodes: N-10523, N-10300, N-10896
 Supports: C-11839
 Tags: relevance:core
 Investigative Direction: Obtain the ATF examiner's preliminary hearing testimony and lab report on caliber and class characteristics.
+Open Questions: Q-717
 
 ---
 
@@ -1621,6 +1636,7 @@ Related Nodes: N-10647, N-10707
 Supports: C-4292
 Tags: relevance:core
 Investigative Direction: Obtain the latent print and DNA report from the preliminary hearing record.
+Open Questions: Q-93
 
 ---
 
@@ -1637,6 +1653,7 @@ Mentions: N-3, N-40, N-54, N-775
 Related Nodes: N-10647, N-10545
 Tags: relevance:core
 Investigative Direction: Obtain the print comparison results naming each contributor.
+Open Questions: Q-93
 
 ---
 
@@ -1653,6 +1670,7 @@ Mentions: N-3, N-261
 Related Nodes: N-10732, N-10156, N-10734
 Tags: relevance:core
 Investigative Direction: Obtain the chain-of-custody log for the Farnsworth footage and the device type recorded by police.
+Open Questions: Q-673
 
 ---
 
@@ -1669,6 +1687,7 @@ Mentions: N-3, N-261
 Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Compare the original camera file metadata with the version entered into evidence.
+Open Questions: Q-673
 
 ---
 
@@ -1685,6 +1704,7 @@ Mentions: N-3, N-54
 Related Nodes: N-10649, N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary hearing exhibits showing the extraction of the messages.
+Open Questions: Q-107, Q-753
 
 ---
 
@@ -1701,6 +1721,7 @@ Mentions: N-3, N-54
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Review Lance's testimony on alibi and any immunity or cooperation agreement.
+Open Questions: Q-93, Q-174, Q-822
 
 ---
 
@@ -1717,6 +1738,7 @@ Mentions: N-3
 Related Nodes: N-10030
 Tags: relevance:core
 Investigative Direction: Obtain the exhibit images and the extraction report metadata.
+Open Questions: Q-753
 
 ---
 
@@ -1733,6 +1755,7 @@ Mentions: N-3
 Related Nodes: N-11123, N-10649, N-10026
 Tags: relevance:core
 Investigative Direction: Obtain the testimony identifying the extraction vendor and the extraction report.
+Open Questions: Q-753
 
 ---
 
@@ -1749,6 +1772,7 @@ Mentions: N-3, N-1, N-36
 Related Nodes: N-10026, N-10053
 Tags: relevance:core
 Investigative Direction: No evidence is offered on air; request any record supporting Israeli involvement, which the host does not supply.
+Open Questions: Q-17
 
 ---
 
@@ -1765,6 +1789,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10037
 Tags: relevance:core
 Investigative Direction: Obtain the full message text and run a linguistic comparison against Tyler's known writing.
+Open Questions: Q-107
 
 ---
 
@@ -1781,6 +1806,7 @@ Mentions: N-3, N-40, N-54
 Related Nodes: N-10649, N-10074
 Tags: relevance:core
 Investigative Direction: Request iCloud access logs and device identifiers for the message account.
+Open Questions: Q-107
 
 ---
 
@@ -1797,6 +1823,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10521, N-11065
 Tags: relevance:core
 Investigative Direction: Obtain defense discovery motions and the court's rulings before the hearing.
+Open Questions: Q-1069
 
 ---
 
@@ -1813,6 +1840,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10569, N-10986
 Tags: relevance:core
 Investigative Direction: Obtain the extension request and the transcript of the ruling on hearsay.
+Open Questions: Q-753, Q-1069
 
 ---
 
@@ -1829,6 +1857,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Obtain the court seating and press credential records for the preliminary hearing.
+Open Questions: Q-937
 
 ---
 
@@ -1845,6 +1874,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10937
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA payment and contract records for the influencers named.
+Open Questions: Q-1070
 
 ---
 
@@ -1862,6 +1892,7 @@ Related Nodes: N-10705
 Supports: C-11860
 Tags: relevance:core
 Investigative Direction: Locate the archived X Spaces recording and identify the host.
+Open Questions: Q-1071
 
 ---
 
@@ -1879,6 +1910,7 @@ Related Nodes: N-10610, N-10705
 Supports: C-11860
 Tags: relevance:core
 Investigative Direction: Identify the organizer, the Spaces recording and any public record of the files described.
+Open Questions: Q-1071
 
 ---
 
@@ -1895,6 +1927,7 @@ Mentions: N-3
 Related Nodes: N-10705
 Tags: relevance:core
 Investigative Direction: Obtain the original posts and any screenshots of the chat activity.
+Open Questions: Q-1071
 
 ---
 
@@ -1911,6 +1944,7 @@ Mentions: N-3
 Related Nodes: N-10705
 Tags: relevance:core
 Investigative Direction: Compare the member list against each account's observed activity.
+Open Questions: Q-1071
 
 ---
 
@@ -1927,6 +1961,7 @@ Mentions: N-3
 Related Nodes: N-10820, N-10705
 Tags: relevance:core
 Investigative Direction: Obtain the full member list from the original post and match handles to the accounts.
+Open Questions: Q-1071
 
 ---
 
@@ -1976,6 +2011,7 @@ Related Nodes: N-10705
 Contradicts: C-11869
 Tags: relevance:core
 Investigative Direction: Obtain the provenance of the rooftop video and car interior pictures from the host's tip submissions.
+Open Questions: Q-1050
 
 ---
 
@@ -1992,6 +2028,7 @@ Mentions: N-3, N-1, N-5
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: No evidence is offered; request any record of federal involvement in the shooting.
+Open Questions: Q-152
 
 ---
 
@@ -2008,6 +2045,7 @@ Mentions: N-3, N-5, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review public White House and DOJ statements and actions on the investigation.
+Open Questions: Q-1072
 
 ---
 
@@ -2024,6 +2062,7 @@ Mentions: N-3, N-159, N-367, N-190, N-504
 Related Nodes: N-11124, N-10524
 Tags: relevance:core
 Investigative Direction: Obtain hospital entry video and staff accounts of who arrived together and by what vehicle.
+Open Questions: Q-1073
 
 ---
 
@@ -2040,6 +2079,7 @@ Mentions: N-3, N-504, N-1
 Related Nodes: N-10658, N-10706
 Tags: relevance:core
 Investigative Direction: Obtain purchase or supply records for the shirt and Walker's employment start date.
+Open Questions: Q-1073
 
 ---
 
@@ -2265,6 +2305,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Pursue the specific biographical points the host has raised across episodes.
+Open Questions: Q-1055
 
 ---
 
@@ -2410,6 +2451,7 @@ Mentions: N-3, N-40
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Check the court docket for the September 1 date and the hearing outcome.
+Open Questions: Q-1074
 
 ---
 
@@ -2426,6 +2468,7 @@ Mentions: N-3, N-40, N-1
 Related Nodes: N-10707
 Tags: relevance:core
 Investigative Direction: Await trial evidence; this is the host's stated belief.
+Open Questions: Q-21, Q-957
 
 ---
 

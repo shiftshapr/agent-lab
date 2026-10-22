@@ -1224,6 +1224,7 @@ Related Nodes: N-10096, N-10324, N-10911
 Supports: C-1355
 Tags: relevance:core
 Investigative Direction: Compare the timestamp of the first shot with the timestamps of Farnsworth's own recording and of the camera-removal footage.
+Open Questions: Q-63
 
 ---
 
@@ -1240,6 +1241,7 @@ Mentions: N-261, N-1
 Related Nodes: N-10096
 Tags: relevance:core
 Investigative Direction: Obtain Farnsworth's self-recorded announcement and its metadata; sequence it against the camera-removal video.
+Open Questions: Q-63, Q-1093
 
 ---
 
@@ -1272,6 +1274,7 @@ Mentions: N-3, N-261, N-2, N-1
 Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Obtain the host's September 18 call recording or notes, and ask Farnsworth to confirm this stated reason.
+Open Questions: Q-1094
 
 ---
 
@@ -1289,6 +1292,7 @@ Related Nodes: N-10721
 Supports: C-4567, C-12215
 Tags: relevance:core
 Investigative Direction: Obtain the September 18 call recording; compare Farnsworth's two stated reasons for withholding the file.
+Open Questions: Q-1094
 
 ---
 
@@ -1306,6 +1310,7 @@ Related Nodes: N-10723, N-10911
 Supports: C-12223
 Tags: relevance:core
 Investigative Direction: Obtain the authenticated 1102 statement and TPUSA's camera plot for the UVU event.
+Open Questions: Q-1095
 
 ---
 
@@ -1322,6 +1327,7 @@ Mentions: N-261
 Related Nodes: N-10012, N-10734
 Tags: relevance:core
 Investigative Direction: Obtain the 1102 and ask SBI which version of each video it received and how authenticity was assessed.
+Open Questions: Q-1096, Q-1097
 
 ---
 
@@ -1338,6 +1344,7 @@ Mentions: N-261
 Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Identify the source of each of the four videos and the operator of any moving camera at the event.
+Open Questions: Q-1095, Q-1096
 
 ---
 
@@ -1354,6 +1361,7 @@ Mentions: N-700
 Related Nodes: N-10911, N-10918
 Tags: relevance:core
 Investigative Direction: Confirm camera operator assignments with Visual Impulse crew records or with Golow directly.
+Open Questions: Q-1095
 
 ---
 
@@ -1370,6 +1378,7 @@ Mentions: N-1, N-825
 Related Nodes: N-10911, N-10723
 Tags: relevance:core
 Investigative Direction: Confirm Jordan Wilson's role and camera position, and whether that camera's footage was among the four videos sent to SBI.
+Open Questions: Q-1095, Q-1098
 
 ---
 
@@ -1387,6 +1396,7 @@ Related Nodes: N-10723
 Supports: C-12223
 Tags: relevance:core
 Investigative Direction: Review rear-camera frames from earlier American Comeback Tour stops to establish the usual framing.
+Open Questions: Q-1095, Q-1098
 
 ---
 
@@ -1404,6 +1414,7 @@ Related Nodes: N-10723
 Supports: C-12223
 Tags: relevance:core
 Investigative Direction: Establish when and in what form Farnsworth showed the host the footage; obtain the file shown to her and its metadata.
+Open Questions: Q-1097
 
 ---
 
@@ -1421,6 +1432,7 @@ Related Nodes: N-10732, N-10734
 Supports: C-12226
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary-hearing transcript and forensic metadata of the flash-drive and Google-link copies to show how they were created.
+Open Questions: Q-1099
 
 ---
 
@@ -1438,6 +1450,7 @@ Related Nodes: N-10156
 Supports: C-3526
 Tags: relevance:core
 Investigative Direction: Collect TPUSA statements on the significance of the rear camera and compare them with the 1102 account of the 80704 clip.
+Open Questions: Q-1098
 
 ---
 
@@ -1455,6 +1468,7 @@ Related Nodes: N-10734, N-10194
 Supports: C-1358
 Tags: relevance:core
 Investigative Direction: Ask the FBI and SBI whether and when they took custody of any original SD card; compare with Agent Hull's testimony that the 1102 was collected, not the SD card.
+Open Questions: Q-63, Q-1099
 
 ---
 
@@ -1472,6 +1486,7 @@ Related Nodes: N-10156
 Supports: C-1357
 Tags: relevance:core
 Investigative Direction: Obtain the full Tucker Carlson segment; ask Kolvet and Farnsworth when and where the exchange took place.
+Open Questions: Q-63
 
 ---
 
@@ -1489,6 +1504,7 @@ Related Nodes: N-10156
 Supports: C-12228
 Tags: relevance:core
 Investigative Direction: Review Sept 10 footage of all camera positions to count how many cards Farnsworth removed and when.
+Open Questions: Q-63
 
 ---
 
@@ -1505,6 +1521,7 @@ Mentions: N-261
 Related Nodes: N-10724, N-10734
 Tags: relevance:core
 Investigative Direction: Obtain the 1102 and the four source files; compare durations and metadata with the 80704 clip.
+Open Questions: Q-1096
 
 ---
 
@@ -1522,6 +1539,7 @@ Related Nodes: N-10724
 Supports: C-12233
 Tags: relevance:core
 Investigative Direction: Obtain the metadata and creation log for clip 80704 and the identity of whoever produced it.
+Open Questions: Q-1097
 
 ---
 
@@ -1537,6 +1555,7 @@ Anchored Artifacts: A-2284.2
 Related Nodes: N-10723, N-10571
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary-hearing transcript for exhibits 12.1 and 12.4 and the objections raised about zoom and cropping.
+Open Questions: Q-1097
 
 ---
 
@@ -1554,6 +1573,7 @@ Related Nodes: N-10724, N-10723
 Supports: C-12233
 Tags: relevance:core
 Investigative Direction: Compare the 80704 clip frame by frame against the full rear-camera file to test for cropping or digital zoom.
+Open Questions: Q-1097
 
 ---
 
@@ -1571,6 +1591,7 @@ Related Nodes: N-10096, N-10156
 Supports: C-1355
 Tags: relevance:core
 Investigative Direction: Review footage of the other camera positions for any removal of cards from other cameras.
+Open Questions: Q-63
 
 ---
 
@@ -1588,6 +1609,7 @@ Related Nodes: N-10096, N-10156
 Supports: C-1361
 Tags: relevance:core
 Investigative Direction: Obtain the original unedited video and the timestamp of the removal.
+Open Questions: Q-63
 
 ---
 
@@ -1604,6 +1626,7 @@ Mentions: N-261
 Related Nodes: N-10096
 Tags: relevance:core
 Investigative Direction: Review the video frame by frame to document where Farnsworth looks and what is in his sight line.
+Open Questions: Q-63
 
 ---
 
@@ -1638,6 +1661,7 @@ Related Nodes: N-10725
 Supports: C-12243
 Tags: relevance:core
 Investigative Direction: Review the complete Sept 10 footage from all angles to confirm no other camera was touched in that period.
+Open Questions: Q-63, Q-1100
 
 ---
 
@@ -1656,6 +1680,7 @@ Supports: C-3994
 Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Ask UVU police, SBI and FBI whether any officer instructed Farnsworth to remove a card, and ask Bowyer for the source of his account.
+Open Questions: Q-63
 
 ---
 
@@ -1674,6 +1699,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.
+Open Questions: Q-1097
 
 ---
 
@@ -1706,6 +1732,7 @@ Mentions: N-3, N-261, N-2
 Related Nodes: N-11127, N-10324
 Tags: relevance:core
 Investigative Direction: Obtain the host's call recording; ask Erika Kirk and Farnsworth whether and when they discussed the rear-camera footage.
+Open Questions: Q-1094
 
 ---
 
@@ -1723,6 +1750,7 @@ Related Nodes: N-10726, N-10014
 Supports: C-12252
 Tags: relevance:core
 Investigative Direction: Obtain the written agreement or request under which the FBI assumed evidence custody and the legal basis cited.
+Open Questions: Q-828, Q-1099
 
 ---
 
@@ -1756,6 +1784,7 @@ Related Nodes: N-10726, N-10194
 Supports: C-12252
 Tags: relevance:core
 Investigative Direction: Locate Patel's original statement on the FBI's role and compare it with the FBI's actual deployment.
+Open Questions: Q-828
 
 ---
 
@@ -1772,6 +1801,7 @@ Mentions: N-827, N-69
 Related Nodes: N-10726, N-10194
 Tags: relevance:core
 Investigative Direction: Obtain Patel's travel records and the number of FBI personnel deployed to Utah in September 2025.
+Open Questions: Q-828
 
 ---
 
@@ -1789,6 +1819,7 @@ Related Nodes: N-10332
 Supports: C-7247, C-1966
 Tags: relevance:core
 Investigative Direction: Seek Joe Kent's on-record account and documents on the halted NCTC inquiry.
+Open Questions: Q-1101
 
 ---
 
@@ -1884,6 +1915,7 @@ Related Nodes: N-10318, N-10558
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's December 2025 press-tour statements on the night before and compare them with the text messages TPUSA later confirmed.
+Open Questions: Q-1102
 
 ---
 
@@ -1901,6 +1933,7 @@ Related Nodes: N-10558
 Supports: C-6433
 Tags: relevance:core
 Investigative Direction: Locate the Erika Kirk interview in which she says this and its date.
+Open Questions: Q-607, Q-1102
 
 ---
 
@@ -1918,6 +1951,7 @@ Related Nodes: N-10558
 Supports: C-6433
 Tags: relevance:core
 Investigative Direction: Collect accounts from people who traveled with Charlie about his sleep habits before tour stops.
+Open Questions: Q-607
 
 ---
 
@@ -1982,6 +2016,7 @@ Mentions: N-3, N-18
 Related Nodes: N-10719
 Tags: relevance:core
 Investigative Direction: Ask Wilson and TPUSA to release the text message and state its source and date.
+Open Questions: Q-1103
 
 ---
 
@@ -1998,6 +2033,7 @@ Mentions: N-3, N-18
 Related Nodes: N-10719
 Tags: relevance:core
 Investigative Direction: Watch for release of the message and compare it with the night-before messages TPUSA has acknowledged.
+Open Questions: Q-1103
 
 ---
 
@@ -2046,6 +2082,7 @@ Mentions: N-3, N-18, N-2, N-14, N-159
 Related Nodes: N-10728, N-10720
 Tags: relevance:core
 Investigative Direction: Collect TPUSA statements disclaiming Wilson and any communications or payments between TPUSA and Wilson or Crucible.
+Open Questions: Q-1104
 
 ---
 
@@ -2095,6 +2132,7 @@ Related Nodes: N-10318
 Supports: C-7265
 Tags: relevance:core
 Investigative Direction: Ask Joe Kent and Kolvet exactly which messages were provided to Kent and when.
+Open Questions: Q-171, Q-1101
 
 ---
 
@@ -2112,6 +2150,7 @@ Related Nodes: N-10318, N-10558
 Supports: C-5406, C-4491
 Tags: relevance:core
 Investigative Direction: Locate the Glenn Beck interview segment and any earlier TPUSA statements on the messages.
+Open Questions: Q-1102
 
 ---
 
@@ -2129,6 +2168,7 @@ Related Nodes: N-10318
 Supports: C-4064
 Tags: relevance:core
 Investigative Direction: Obtain the full text of the night-before messages and the dates TPUSA first acknowledged them.
+Open Questions: Q-171
 
 ---
 

@@ -1027,6 +1027,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10071, N-10196
 Tags: relevance:core
 Investigative Direction: Government or airport records of any Egyptian military personnel in Utah on September 10, 2025, and the basis for the host's claim.
+Open Questions: Q-233
 
 ---
 
@@ -1044,6 +1045,7 @@ Related Nodes: N-10195, N-10071
 Supports: C-2001
 Tags: relevance:core
 Investigative Direction: FlightRadar history of the plane showing the Kalispell stop duration and return track.
+Open Questions: Q-206
 
 ---
 
@@ -1094,6 +1096,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2, S-3
 Investigative Direction: Charging documents and campus video establishing where Robinson was relative to the Woodbury Business Building.
+Open Questions: Q-110, Q-234
 
 ---
 
@@ -1111,6 +1114,7 @@ Related Nodes: N-10197, N-10503
 Supports: C-2005
 Tags: relevance:core
 Investigative Direction: ADS-B and FlightRadar coverage records for N888KG after the 1:20 p.m. departure.
+Open Questions: Q-234
 
 ---
 
@@ -1128,6 +1132,7 @@ Related Nodes: N-10197
 Supports: C-2007
 Tags: relevance:core
 Investigative Direction: Flight logs and FAA records for N888KG's Provo-Page-Provo legs on September 10.
+Open Questions: Q-234
 
 ---
 
@@ -1144,6 +1149,7 @@ Mentions: N-94, N-200
 Related Nodes: N-10197
 Tags: relevance:core
 Investigative Direction: Utah or federal law-enforcement confirmation of whether the N888KG crew or passengers were interviewed.
+Open Questions: Q-234
 
 ---
 
@@ -1160,6 +1166,7 @@ Mentions: N-3, N-94, N-200
 Related Nodes: N-10197, N-10195
 Tags: relevance:core
 Investigative Direction: Identification of the pilots and airport staff, and any instruction given to airport personnel about the flight.
+Open Questions: Q-207
 
 ---
 
@@ -1176,6 +1183,7 @@ Mentions: N-3
 Related Nodes: N-10182, N-10071
 Tags: relevance:core
 Investigative Direction: FBO arrival records and ramp logs for Provo for September 10, 2025.
+Open Questions: Q-207
 
 ---
 
@@ -1209,6 +1217,7 @@ Related Nodes: N-10196, N-10199
 Supports: C-2015
 Tags: relevance:core
 Investigative Direction: FlightRadar or FAA records of SU-BTT's US arrivals from September 2024 to September 2025.
+Open Questions: Q-235
 
 ---
 
@@ -1226,6 +1235,7 @@ Related Nodes: N-10775, N-10199
 Supports: C-2015
 Tags: relevance:core
 Investigative Direction: Original FlightRadar record of SU-BTT's Provo departure time in UTC and local time.
+Open Questions: Q-235
 
 ---
 
@@ -1259,6 +1269,7 @@ Related Nodes: N-10196
 Supports: C-2021
 Tags: relevance:core
 Investigative Direction: Verification of the tipster's identity and relationship to the flight, without exposing the source.
+Open Questions: Q-233
 
 ---
 
@@ -1276,6 +1287,7 @@ Related Nodes: N-10196, N-10281
 Supports: C-2021
 Tags: relevance:core
 Investigative Direction: Passenger and crew manifests and customs records for SU-BTT on September 4 and 10-11, 2025.
+Open Questions: Q-233
 
 ---
 
@@ -1292,6 +1304,7 @@ Mentions: N-3, N-69
 Related Nodes: N-10194, N-10196
 Tags: relevance:core
 Investigative Direction: Any FBI or DOJ public statement about the purpose of SU-BTT's Provo visit.
+Open Questions: Q-233
 
 ---
 
@@ -1309,6 +1322,7 @@ Related Nodes: N-10258, N-10260, N-10071
 Supports: C-2024
 Tags: relevance:core
 Investigative Direction: FlightRadar business-account history for SU-BTT, September 2025.
+Open Questions: Q-235
 
 ---
 
@@ -1326,6 +1340,7 @@ Related Nodes: N-10196
 Qualifies: C-2022
 Tags: relevance:core
 Investigative Direction: Follow-up with the tipster on the mission's nature, and any official explanation.
+Open Questions: Q-233
 
 ---
 
@@ -1359,6 +1374,7 @@ Mentions: N-3
 Related Nodes: N-10196, N-10071
 Tags: relevance:core
 Investigative Direction: Tips received at the address on the Egyptian flight and its passengers.
+Open Questions: Q-233
 
 ---
 
@@ -1426,6 +1442,7 @@ Related Nodes: N-10179
 Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Hammer's public statements about Charlie's Israel views compared with the text-chain messages.
+Open Questions: Q-6, Q-209
 
 ---
 
@@ -1459,6 +1476,7 @@ Related Nodes: N-10323, N-10027
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Attendee accounts of the Hamptons summit and Seth Dillon's statements about it.
+Open Questions: Q-9
 
 ---
 
@@ -1508,6 +1526,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10143, N-10053
 Tags: relevance:core
 Investigative Direction: The source of Charlie's reported statement two days before his death (messages or recorded remarks).
+Open Questions: Q-209
 
 ---
 
@@ -1524,6 +1543,7 @@ Mentions: N-3, N-38, N-1, N-36
 Related Nodes: N-10129
 Tags: relevance:core
 Investigative Direction: Calendar, travel and attendee records for the Hamptons gathering in early August 2025.
+Open Questions: Q-9
 
 ---
 
@@ -1541,6 +1561,7 @@ Related Nodes: N-10252, N-10000
 Supports: C-362
 Tags: relevance:core
 Investigative Direction: The text-chain messages showing Charlie's instruction to keep Tucker on the roster.
+Open Questions: Q-59
 
 ---
 
@@ -1558,6 +1579,7 @@ Related Nodes: N-10102, N-10252
 Supports: C-715
 Tags: relevance:core
 Investigative Direction: The original episode or message from which the clip is drawn and its source text.
+Open Questions: Q-59, Q-186
 
 ---
 
@@ -1608,6 +1630,7 @@ Related Nodes: N-10323, N-10044
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Text-chain messages and Hamptons attendee accounts documenting the pressure.
+Open Questions: Q-6, Q-9
 
 ---
 
@@ -1657,6 +1680,7 @@ Mentions: N-3, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: The statements by those she names later, compared against the evidence she holds.
+Open Questions: Q-219
 
 ---
 
@@ -1673,6 +1697,7 @@ Mentions: N-3, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Identification of the individuals the host has in mind and her evidence.
+Open Questions: Q-219
 
 ---
 
@@ -1705,6 +1730,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Later statements by the host on a shooter and on the betrayal question.
+Open Questions: Q-21, Q-219
 
 ---
 
@@ -1739,6 +1765,7 @@ Related Nodes: N-10177, N-10195
 Qualifies: C-2001
 Tags: relevance:core
 Investigative Direction: FlightRadar track for N1098L around 9:35 to 10:05 a.m. Mountain time.
+Open Questions: Q-206
 
 ---
 
@@ -1756,6 +1783,7 @@ Related Nodes: N-10000, N-10044, N-10436
 Supports: C-1993
 Tags: relevance:core
 Investigative Direction: Erika Kirk and TPUSA's donor communications about Tucker Carlson's future appearances.
+Open Questions: Q-6
 
 ---
 

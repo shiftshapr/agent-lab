@@ -1107,6 +1107,7 @@ Mentions: N-3
 Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Obtain the footage and identify the woman; compare any named individual against the tip and her public statements.
+Open Questions: Q-150
 
 ---
 
@@ -1397,6 +1398,7 @@ Related Nodes: N-10153, N-10014, N-10012
 Supports: C-1259
 Tags: relevance:core
 Investigative Direction: Request the FBI's deployment roster for UVU and confirm which field offices sent personnel.
+Open Questions: Q-158
 
 ---
 
@@ -1413,6 +1415,7 @@ Mentions: N-3
 Related Nodes: N-10155, N-10091, N-10296
 Tags: relevance:core
 Investigative Direction: Verify each named witness's employer, residence and affiliation from public records.
+Open Questions: Q-72
 
 ---
 
@@ -1429,6 +1432,7 @@ Mentions: N-3
 Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Request any such footage and the tipster's basis; compare against the Lyman family clip.
+Open Questions: Q-150
 
 ---
 
@@ -1445,6 +1449,7 @@ Mentions: N-144, N-3
 Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Confirm the tip's origin and whether other eyewitnesses reported seeing the limp.
+Open Questions: Q-150, Q-159
 
 ---
 
@@ -1462,6 +1467,7 @@ Related Nodes: N-10155
 Qualifies: C-1264
 Tags: relevance:core
 Investigative Direction: Review the footage the woman recorded and any police statement she gave.
+Open Questions: Q-150
 
 ---
 
@@ -1478,6 +1484,7 @@ Mentions: N-144, N-3
 Related Nodes: N-10124, N-11071
 Tags: relevance:core
 Investigative Direction: Confirm Bishop's employment with the Orem Police Department through department staffing records.
+Open Questions: Q-159
 
 ---
 
@@ -1494,6 +1501,7 @@ Mentions: N-144
 Related Nodes: N-10124, N-11071
 Tags: relevance:core
 Investigative Direction: Locate the department's Facebook post and its staffing change roster for August 2025.
+Open Questions: Q-160
 
 ---
 
@@ -1510,6 +1518,7 @@ Mentions: N-3
 Related Nodes: N-10124
 Tags: relevance:core
 Investigative Direction: Identify the sources and any public records or complaints about Orem Police corruption.
+Open Questions: Q-160
 
 ---
 
@@ -1526,6 +1535,7 @@ Mentions: N-144, N-3
 Related Nodes: N-10124, N-11071
 Tags: relevance:core
 Investigative Direction: Check Bishop's work schedule and leave records for September 10, 2025.
+Open Questions: Q-159
 
 ---
 
@@ -1542,6 +1552,7 @@ Mentions: N-144, N-3
 Related Nodes: N-10124, N-11071
 Tags: relevance:core
 Investigative Direction: Obtain the text exchange and any statement Bishop gave to investigators.
+Open Questions: Q-159
 
 ---
 
@@ -1558,6 +1569,7 @@ Mentions: N-75, N-61
 Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Confirm Barker's family tie to Lyman's 2024 running mate and the nieces' identities.
+Open Questions: Q-72
 
 ---
 
@@ -1574,6 +1586,7 @@ Mentions: N-75
 Related Nodes: N-10057
 Tags: relevance:core
 Investigative Direction: Check GMA broadcast logs and booking records for the September 11 interview.
+Open Questions: Q-72
 
 ---
 
@@ -1591,6 +1604,7 @@ Related Nodes: N-10139
 Supports: C-1156
 Tags: relevance:core
 Investigative Direction: Archive the Lyman campaign site from 2024 and check for the Zinn endorsement.
+Open Questions: Q-28
 
 ---
 
@@ -1639,6 +1653,7 @@ Mentions: N-310
 Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Confirm the witness's identity and employment at Domo through LinkedIn and company records.
+Open Questions: Q-72
 
 ---
 
@@ -1655,6 +1670,7 @@ Mentions: N-132, N-128, N-61
 Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Match the Gernot Ohner name to the previously identified Gernot Ohner and review the Shaner Instagram posts.
+Open Questions: Q-72, Q-123, Q-127
 
 ---
 
@@ -1671,6 +1687,7 @@ Mentions: N-793
 Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Check Utah 2024 gubernatorial filings for Scott Robbins.
+Open Questions: Q-72
 
 ---
 
@@ -1703,6 +1720,7 @@ Mentions: N-3
 Related Nodes: N-10155
 Tags: relevance:core
 Investigative Direction: Document the host's public requests for witness contact and responses.
+Open Questions: Q-72
 
 ---
 
@@ -1719,6 +1737,7 @@ Mentions: N-3
 Related Nodes: N-10148
 Tags: relevance:core
 Investigative Direction: Verify Hild's reported Cayman Islands and Spain ties through corporate and travel records.
+Open Questions: Q-123
 
 ---
 
@@ -1751,6 +1770,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Review the charging documents, ballistic tie to the gun and Robinson's ownership records.
+Open Questions: Q-161
 
 ---
 
@@ -1768,6 +1788,7 @@ Related Nodes: N-10154
 Supports: C-1290
 Tags: relevance:core
 Investigative Direction: Review how Robinson's defense counsel was selected and any role of the prosecutor.
+Open Questions: Q-162
 
 ---
 
@@ -1784,6 +1805,7 @@ Mentions: N-6, N-40, N-1
 Related Nodes: N-10154
 Tags: relevance:core
 Investigative Direction: Identify the firm and obtain any written communication with Lane about the offer.
+Open Questions: Q-162
 
 ---
 
@@ -1800,6 +1822,7 @@ Mentions: N-6
 Related Nodes: N-10154
 Tags: relevance:core
 Investigative Direction: Identify the local lawyer and the firms Lane means.
+Open Questions: Q-162
 
 ---
 
@@ -1816,6 +1839,7 @@ Mentions: N-6
 Related Nodes: N-10154
 Tags: relevance:core
 Investigative Direction: Identify the firm and call date.
+Open Questions: Q-162
 
 ---
 
@@ -1832,6 +1856,7 @@ Mentions: N-6, N-40
 Related Nodes: N-10154
 Tags: relevance:core
 Investigative Direction: Identify the New York lawyer and any consent request filed.
+Open Questions: Q-162
 
 ---
 
@@ -1849,6 +1874,7 @@ Related Nodes: N-10154
 Supports: C-1290
 Tags: relevance:core
 Investigative Direction: Check Skordas's campaign site and official role; confirm spelling and title.
+Open Questions: Q-162
 
 ---
 
@@ -2025,6 +2051,7 @@ Mentions: N-3
 Related Nodes: N-10148
 Tags: relevance:core
 Investigative Direction: Confirm the tip address and track the volume of submissions; the Decentralized Intelligence Agency beat.
+Open Questions: Q-130
 
 ---
 
@@ -2184,6 +2211,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10053, N-10143, N-10026
 Tags: relevance:core
 Investigative Direction: Find Kirk's own statements or messages showing his stance.
+Open Questions: Q-2
 
 ---
 
@@ -2200,6 +2228,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11073
 Tags: relevance:core
 Investigative Direction: Date the Trump Hotel conversation and identify corroboration.
+Open Questions: Q-154
 
 ---
 
@@ -2233,6 +2262,7 @@ Related Nodes: N-11073
 Supports: C-1317
 Tags: relevance:core
 Investigative Direction: Gather Kirk's later statements about donors.
+Open Questions: Q-6
 
 ---
 
@@ -2297,6 +2327,7 @@ Related Nodes: N-10155
 Supports: C-1279
 Tags: relevance:core
 Investigative Direction: Document witness outreach attempts.
+Open Questions: Q-72
 
 ---
 
