@@ -8,11 +8,12 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:03:08
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63
+- **Transcript SHA-256**: 1e66aa4944307e32821aa349873f75dbb239eb3185ccdb58faca719319dd0ee6
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-10938, N-10939, N-10940
   - Hole-minted Nodes (reintro-ep048): N-10343
+  - Tip-minted Nodes (reintro-ep048): N-972
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4177–C-4274
   - New Nodes Introduced: N-10335, N-10336, N-10337, N-10338, N-10339, N-10340
@@ -613,6 +614,14 @@ Subject of the assassination story; his care at the hospital and the vehicle are
 Charlie's wife; discussed regarding the hospital, the PR blitz and the Mikey call.
 
 *Related: C-4186, C-4187, C-4270, C-4271*
+
+---
+
+**N-972** Lee Harvey Oswald
+
+First named by the host at 00:55:44 in episode 48, quoting Piers Morgan on the JFK assassination.
+
+*Related: C-4259*
 
 ---
 
@@ -2160,7 +2169,7 @@ Claim: The host says Piers Morgan peaked when he said maybe JFK really was just 
 Transcript Snippet: But he peaked when he said, "Maybe JFK really was just shot by Lee Harvey Oswald."
 
 Anchored Artifacts: A-2742.1
-Mentions: N-3, N-204
+Mentions: N-3, N-204, N-972
 Investigative Direction: Check the interview transcript for Morgan's exact words.
 
 ---

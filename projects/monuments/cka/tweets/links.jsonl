@@ -3401,3 +3401,12 @@
 {"id": "2112695343263727958", "unlinked": "unclear", "note": "Bare timestamp + video link; thread of UVU Losee Rooftop footage (parent 2112693968500847101), but post itself names nothing."}
 {"id": "2112696267285418078", "unlinked": "unclear", "note": "Bare timestamp + video link; thread of UVU Losee Rooftop footage (parent 2112693968500847101), but post itself names nothing."}
 {"id": "2112697275336310812", "unlinked": "unclear", "note": "Bare timestamp + video link; thread of UVU Losee Rooftop footage (parent 2112693968500847101), but post itself names nothing."}
+{"id": "2113031874238951804", "claims": ["C-14598", "C-14612", "C-14631", "C-14569", "C-14614"], "relation": "same_allegation", "nodes": ["N-119", "N-11369", "N-2", "N-10488", "N-227", "N-11362", "N-10770", "N-11232"], "note": "Episode 169 rundown: Vivek ad, school revolt over Erika visit, Stuckey on TikTok/horror, Slender Man resembling Waluigi."}
+{"id": "2113071499305447667", "nodes": ["N-9", "N-11232"], "note": "General commentary on Republican Party and Epstein; no matching recorded proposition."}
+{"id": "2113075004900266161", "nodes": ["N-10000"], "note": "Jab at Chicks on Right and TPUSA about blocking her."}
+{"id": "2113077964015370699", "unlinked": "reply_chatter"}
+{"id": "2113118985189302489", "nodes": ["N-2", "N-1", "N-10000", "N-11295", "N-10857", "N-10937"], "note": "Denies Erika offered to show her Charlie's autopsy at their meeting; says only an Aspen transcript was offered and she declined."}
+{"id": "2113265874937221379", "nodes": ["N-2", "N-10000", "N-11295"], "note": "Says autopsy was never discussed at the meeting; calls the rumor a TPUSA PR error by hosted influencers."}
+{"id": "2113266412789563808", "unlinked": "reply_chatter"}
+{"id": "2113286220038164902", "nodes": ["N-330", "N-11295"], "note": "Blames an influencer, not 'her', for the autopsy-offer rumor."}
+{"id": "2113385267247599849", "claims": ["C-14653", "C-14558"], "relation": "follow_up", "nodes": ["N-330", "N-11229", "N-10045", "N-10707", "N-10000"], "note": "Update: announces the promised handoff episode with Baron Coleman covering case evidence and timelines."}

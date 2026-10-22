@@ -6502,6 +6502,131 @@
       [
         30
       ]
+    ],
+    [
+      "\\bBrian Coole\\b",
+      "Brian Cole",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bTaylor Robinson\\b",
+      "Tyler Robinson",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLozi seat rooftop\\b",
+      "Losee Center rooftop",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLowsey\\b",
+      "Losee",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLosi\\b",
+      "Losee",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLussi\\b",
+      "Losee",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bCole's (jacket|credit card)\\b",
+      "Kohl's \\1",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bfrom Cole's\\b",
+      "from Kohl's",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bDirector Cash\\b",
+      "Director Kash",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bBlake enough\\b",
+      "Blake Neff",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bEric Deeters\\b",
+      "Eric Deters"
+    ],
+    [
+      "\\bKatie Zakharyia\\b",
+      "Katie Zacharia"
+    ],
+    [
+      "\\bLoeffler\\b",
+      "Losee",
+      [
+        169
+      ]
+    ],
+    [
+      "\\bZ Cohen\\b",
+      "Zee Cohen",
+      [
+        169
+      ]
+    ],
+    [
+      "\\bAli Sokki\\b",
+      "Allie Stuckey"
+    ],
+    [
+      "\\bErica\\b",
+      "Erika",
+      [
+        168,
+        169
+      ]
+    ],
+    [
+      "\\bgoing into Mitch\\b",
+      "going into midterms",
+      [
+        169
+      ]
+    ],
+    [
+      "\\bDarla Arthur\\b",
+      "Donna Arthur",
+      [
+        169
+      ]
+    ],
+    [
+      "\\band I may me act as my mother\\b",
+      "and I'm Amy Acton's mother",
+      [
+        169
+      ]
     ]
   ]
 }
