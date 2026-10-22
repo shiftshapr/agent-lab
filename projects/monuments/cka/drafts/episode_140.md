@@ -1369,6 +1369,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10048, N-11177
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain the Dairy Queen photo with its metadata and the prosecution's account of where the clothing change occurred.
 
 ---

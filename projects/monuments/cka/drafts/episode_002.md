@@ -2188,6 +2188,8 @@ Anchored Artifacts: A-1089.4
 Mentions: N-41, N-40
 Related Nodes: N-10013, N-10021
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the investigators' photos of the roommate's screen from the charging documents and verify the account name.
 
 ---

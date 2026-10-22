@@ -1044,6 +1044,8 @@ Transcript Snippet: who were on the scene, who arrived on the scene around 1:30,
 Anchored Artifacts: A-2304.1
 Mentions: N-860, N-3
 Related Nodes: N-10734
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Check the preliminary hearing transcript for Hull's stated arrival time.
 
 ---

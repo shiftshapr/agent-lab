@@ -1173,6 +1173,8 @@ Anchored Artifacts: A-1990
 
 Related Nodes: N-10566
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Track subsequent filings and any defense challenges to microscopic comparison methodology under Daubert/Frye standards.
 
 ---
@@ -2075,6 +2077,8 @@ Anchored Artifacts: A-3137.1
 Mentions: N-1
 Related Nodes: N-10590, N-10000
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain UVU and campus police correspondence on the site selection and any security recommendations.
 
 ---

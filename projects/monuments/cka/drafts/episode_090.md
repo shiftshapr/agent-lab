@@ -1694,6 +1694,8 @@ Anchored Artifacts:
 Mentions: N-3, N-272, N-40, N-69
 Related Nodes: N-10029, N-10541, N-10031
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5, S-7
 Investigative Direction: Compare the press conference transcript with the 10:26 p.m. search warrant time and booking records.
 
 ---

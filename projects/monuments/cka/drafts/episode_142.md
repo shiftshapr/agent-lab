@@ -1671,6 +1671,8 @@ Anchored Artifacts:
 Mentions: N-826
 Related Nodes: N-10734
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-2
 Investigative Direction: Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.
 
 ---

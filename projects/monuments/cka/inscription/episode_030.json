@@ -2093,8 +2093,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2111,8 +2113,10 @@
       "tags": [],
       "claim_timestamp": "00:19:14",
       "investigative_direction": "Obtain UVU event-services correspondence and any internal Turning Point USA event-planning records reflecting the recommendation and override.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
@@ -2896,8 +2900,10 @@
       "mentions_person_refs": [
         "N-10012"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",

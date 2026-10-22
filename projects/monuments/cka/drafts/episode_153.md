@@ -1317,6 +1317,8 @@ Mentions: N-3, N-8
 Related Nodes: N-11327, N-10012
 Supports: C-3191, C-2669
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Recover the Teams call recording or notes and the attendee list.
 
 ---
@@ -1572,6 +1574,8 @@ Mentions: N-3, N-266, N-224
 Related Nodes: N-10590, N-10929
 Supports: C-3997
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Locate the November 2025 episode and compare the map with the campus layout.
 
 ---
@@ -1606,6 +1610,8 @@ Mentions: N-3, N-266
 Related Nodes: N-10758, N-10590
 Supports: C-13233
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Verify the roof geometry between Sorenson, the Hall of Flags and the Losee Center.
 
 ---

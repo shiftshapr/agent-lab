@@ -10058,6 +10058,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-2, S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Request hospital and traffic-camera footage and 911 logs for the route and arrival."
     },

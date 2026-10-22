@@ -1708,6 +1708,8 @@ Mentions: N-3, N-40
 Related Nodes: N-10012
 Supports: C-10623
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Obtain the Nest and Ring video with metadata and the police interview with the woman who captured it.
 
 ---
@@ -1806,6 +1808,8 @@ Anchored Artifacts: A-2123.1
 Mentions: N-3, N-40
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1, S-5
 Investigative Direction: Compare the message text with other statements about Robinson's state of mind from family and the roommate.
 
 ---

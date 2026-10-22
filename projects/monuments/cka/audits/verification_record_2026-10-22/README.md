@@ -69,3 +69,26 @@ four (C-1971, C-2364, C-3524, C-10954) held for review.
   Rev labels "Richard Novak").
 - **Not yet done:** the ADS-B traces, Tier 2 reporting, and the open-questions register (4.3) that 4.5's
   done-condition needs for the claims still `unverified`.
+
+## Wider-recall pass (same day)
+
+**Candidates.** `wide_build.py` re-matched 3,566 claims about the case that were still unverified, skipping claims
+that open with an opinion verb. Each claim got up to 20 facts:
+- its first-pass 8;
+- the next-ranked facts (TF-IDF ≥ 0.12);
+- the evidence of up to 3 already-verified claims with similar wording (cosine ≥ 0.3), for 251 claims.
+
+**Judging.** 48 Opus reviewers worked under a stricter prompt that already applies POLICY 11's `disputed` rule
+(`PROMPT_judge_wide.md`). They proposed 79 statuses: 64 corroborated and 15 contradicted. 38 of the 79 were claims the
+first confirm pass had rejected.
+
+**Confirmation.** 4 Opus reviewers checked all 79 (`PROMPT_confirm_wide.md`). Each item showed the earlier rejection
+reason, which could be overturned only if the newly cited facts answered it. The result: 33 corroborated,
+5 contradicted-by-record, 41 rejected (`rejected_wide.json`). On operator review I also rejected C-12360, whose
+corroboration rested on the record's silence.
+
+**Applied.** 36 new statuses. One more claim keeps `revised-by-host`. Totals now: **351 corroborated,
+37 contradicted-by-record**, 53 revised-by-host, 14,033 unverified.
+
+Yield was about 1 in 100 claims re-judged. The remaining unverified claims about the case are mostly opinion, theory,
+or matters the record does not cover, so they belong in the open-questions register (4.3).

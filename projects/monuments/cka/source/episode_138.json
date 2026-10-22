@@ -4224,6 +4224,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured."
     },
@@ -4962,6 +4970,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10707"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
     },
     {
      "k": "Investigative Direction",

@@ -7552,6 +7552,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5, S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the autopsy report and trauma records to test the statement."
     },

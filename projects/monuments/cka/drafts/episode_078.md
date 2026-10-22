@@ -2083,6 +2083,8 @@ Anchored Artifacts: A-1842.4
 Mentions: N-1
 Related Nodes: N-10490
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Compare with the autopsy report and any official statement on entry and exit wounds.
 
 ---

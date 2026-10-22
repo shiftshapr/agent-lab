@@ -1945,6 +1945,8 @@ Transcript Snippet: Guess who didn't attend this meeting? Not a single member of
 Anchored Artifacts: A-2802.6
 Mentions: 
 Related Nodes: N-10995, N-10229
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the MEAC attendee list and confirm whether any TPUSA security representative was invited.
 
 ---
@@ -3253,6 +3255,8 @@ Transcript Snippet: They're willing to speak to CBS News, ABC News, official spo
 Anchored Artifacts: A-2451.1
 Mentions: N-270
 Related Nodes: N-10780
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: List TPUSA interviews with CBS and ABC and compare dates to the review outreach window.
 
 ---

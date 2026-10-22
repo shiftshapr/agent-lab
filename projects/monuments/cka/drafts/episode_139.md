@@ -1785,6 +1785,8 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10081, N-10602
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-7
 Investigative Direction: Obtain the autopsy report and ballistic findings on wound track and exit.
 
 ---

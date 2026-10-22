@@ -1811,6 +1811,8 @@ Anchored Artifacts: A-1095.8
 Mentions: N-1, N-3
 Related Nodes: N-10074
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Obtain the photograph of the note that the indictment says police found and compare the wording with the quoted text.
 
 ---

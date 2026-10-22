@@ -1023,6 +1023,8 @@ Mentions: N-1
 
 Related Nodes: N-10229
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain the underlying local Utah news article and any UVU/Turning Point USA correspondence regarding the request date.
 
 ---
@@ -1037,6 +1039,8 @@ Anchored Artifacts: A-1387.1
 
 Related Nodes: N-10229
 
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain UVU event-services correspondence and any internal Turning Point USA event-planning records reflecting the recommendation and override.
 
 ---
@@ -1532,6 +1536,8 @@ Mentions:
 Related Nodes: N-10229, N-10012
 Supports: C-2669
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Obtain UVU event-services emails and site-visit notes listing the venues offered.
 
 ---

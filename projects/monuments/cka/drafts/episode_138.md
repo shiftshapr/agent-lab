@@ -1138,6 +1138,8 @@ Mentions: N-40, N-54
 
 Related Nodes: N-10707, N-10708
 
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured.
 
 ---
@@ -1335,6 +1337,8 @@ Transcript Snippet: We were told that Tyler Robinson's gun was officially tied t
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-1
 Related Nodes: N-10707
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the ATF examiner's preliminary-hearing testimony and the lab report on the fragments.
 
 ---

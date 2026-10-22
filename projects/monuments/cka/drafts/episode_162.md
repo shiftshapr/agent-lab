@@ -1427,6 +1427,8 @@ Anchored Artifacts: A-3365.1
 Mentions: N-266, N-271
 Related Nodes: N-10619
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Text thread showing the reply and its sender and recipient.
 
 ---

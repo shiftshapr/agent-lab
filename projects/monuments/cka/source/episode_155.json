@@ -5532,6 +5532,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-7"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the autopsy report, ballistics and explosives-residue analysis, and the wound description from the treating surgeon."
     },

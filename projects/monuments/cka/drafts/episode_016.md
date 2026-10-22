@@ -1169,6 +1169,8 @@ Claim: Former Navy SEAL Robert J. O'Neill, on the Piers Morgan Show, stated the 
 
 Anchored Artifacts: A-1229.1
 Mentions: N-1, N-153
+Verification: contradicted-by-record
+Verification Evidence: S-7
 Investigative Direction: Obtain the full unedited Kirk video and a forensic pathologist review to determine wound entry/exit characteristics independently of O'Neill's lay assessment.
 
 ---

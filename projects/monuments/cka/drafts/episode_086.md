@@ -935,6 +935,8 @@ Anchored Artifacts:
 Mentions: N-1
 Related Nodes: 
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-3, S-12
 Investigative Direction: Compare against the 911 log, CAD records and event video timestamps for the time of the shot.
 
 ---
@@ -1519,6 +1521,8 @@ Mentions: N-40
 Related Nodes: N-10523, N-10896
 Supports: C-7731
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain the ATF summary report and the filed motion at the firearm evidence paragraph.
 
 ---
