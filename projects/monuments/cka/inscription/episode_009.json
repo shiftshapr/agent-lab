@@ -1971,8 +1971,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -2252,8 +2254,11 @@
         "N-3",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "contradicted-by-record",
+      "verification_evidence": [
+        "S-3",
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",

@@ -1591,6 +1591,8 @@ Anchored Artifacts:
 Mentions: 
 Related Nodes: N-11131, N-10762
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Review UVU police communication logs and the review's account of contact with the TPUSA team.
 
 ---

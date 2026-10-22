@@ -1714,6 +1714,8 @@ Transcript Snippet: And he says they were both wearing Converse sneakers.
 Anchored Artifacts: 
 Mentions: N-3, N-18, N-40
 Related Nodes: N-10316
+Verification: corroborated
+Verification Evidence: S-3
 Investigative Direction: Read the preliminary-hearing transcript on shoe identification and Wilson's tweet.
 
 ---

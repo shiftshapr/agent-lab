@@ -1860,6 +1860,8 @@ Anchored Artifacts: A-1555.1
 Mentions: N-266
 Related Nodes: N-10305
 Qualifies: C-4238
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Ask Harpole's firm for the date of the first intelligence product and the first conference call.
 
 ---

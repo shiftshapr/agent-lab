@@ -3665,6 +3665,14 @@
      "v": "low"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain forensic ballistics report from court filings."
     },
@@ -4349,6 +4357,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-5"
     },
     {
      "k": "Investigative Direction",

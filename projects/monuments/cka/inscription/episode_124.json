@@ -2794,8 +2794,10 @@
         "N-3",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2954,8 +2956,11 @@
         "N-3",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-1",
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",

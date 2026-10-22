@@ -3365,6 +3365,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-3, S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare against the 911 log, CAD records and event video timestamps for the time of the shot."
     },
@@ -5591,6 +5599,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-5"
     },
     {
      "k": "Investigative Direction",

@@ -972,6 +972,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10106
 Confidence: low
+Verification: corroborated
+Verification Evidence: S-5
 Investigative Direction: Obtain forensic ballistics report from court filings.
 
 ---
@@ -1148,6 +1150,8 @@ Mentions: N-3, N-40
 Related Nodes: N-10021
 Supports: C-133
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-3, S-5
 Investigative Direction: Check the court docket and defense filings for any statement or confession attributed to Robinson.
 
 ---

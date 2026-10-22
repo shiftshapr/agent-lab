@@ -1996,6 +1996,8 @@ Anchored Artifacts: A-1938.2
 Mentions: N-3, N-1
 Related Nodes: N-10566
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-5, S-7
 Investigative Direction: Obtain the autopsy report and trauma records to test the statement.
 
 ---

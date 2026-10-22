@@ -2670,6 +2670,8 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10144, N-11134
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-2, S-12
 Investigative Direction: Request hospital and traffic-camera footage and 911 logs for the route and arrival.
 
 ---

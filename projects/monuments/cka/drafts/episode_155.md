@@ -1484,6 +1484,8 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10416, N-10895
 Tags: relevance:core
+Verification: contradicted-by-record
+Verification Evidence: S-7
 Investigative Direction: Obtain the autopsy report, ballistics and explosives-residue analysis, and the wound description from the treating surgeon.
 
 ---

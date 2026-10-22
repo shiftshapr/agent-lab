@@ -1011,6 +1011,8 @@ Transcript Snippet: They recognized photos of the suspect, which were released b
 Anchored Artifacts: A-2541.1
 Mentions: N-159, N-3, N-40
 Related Nodes: N-10022
+Verification: corroborated
+Verification Evidence: S-1
 Investigative Direction: Compare the charging document's account with the FBI's public releases on September 11–12, 2025.
 
 ---

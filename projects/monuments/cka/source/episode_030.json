@@ -3772,6 +3772,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the underlying local Utah news article and any UVU/Turning Point USA correspondence regarding the request date."
     },
@@ -3822,6 +3830,14 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",
@@ -5704,6 +5720,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",

@@ -4926,6 +4926,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Recover the Teams call recording or notes and the attendee list."
     },
@@ -5901,6 +5909,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Locate the November 2025 episode and compare the map with the campus layout."
     },
@@ -6029,6 +6045,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-12"
     },
     {
      "k": "Investigative Direction",

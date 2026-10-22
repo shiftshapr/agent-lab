@@ -1853,6 +1853,8 @@ Anchored Artifacts: A-1596.1
 Mentions: N-266, N-3
 Related Nodes: N-10589, N-10251
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-12
 Investigative Direction: Check the Shawn Ryan interview for the drone remark and compare with UVU drone authorization records and TPUSA's later statements on drones.
 
 ---

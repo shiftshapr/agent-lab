@@ -2176,8 +2176,10 @@
       "claim_timestamp": "00:44:37–00:45:48",
       "investigative_direction": "Track subsequent filings and any defense challenges to microscopic comparison methodology under Daubert/Frye standards.",
       "mentions_person_refs": [],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -3611,8 +3613,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-12"
+      ]
     },
     {
       "@type": "Claim",
