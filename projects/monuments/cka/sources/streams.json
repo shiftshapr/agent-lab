@@ -12,7 +12,8 @@
           "publisher": "Utah County Attorney's Office",
           "url": "https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf",
           "mirrors": [
-            "https://www.documentcloud.org/documents/26099901-tjr-information-49872215e3/"
+            "https://www.documentcloud.org/documents/26099901-tjr-information-49872215e3/",
+            "https://web.archive.org/web/20251228064839id_/https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf"
           ],
           "format": "pdf"
         }
@@ -84,14 +85,20 @@
           "date": "2025-09-10",
           "publisher": "Utah County Attorney's Office",
           "url": "https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf",
-          "format": "pdf"
+          "format": "pdf",
+          "mirrors": [
+            "https://web.archive.org/web/20260106220625id_/https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf"
+          ]
         },
         {
           "title": "Utah County Attorney press release on Robinson's arrest and potential charges",
           "date": "2025-09-13",
           "publisher": "Utah County Attorney's Office",
           "url": "https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf",
-          "format": "pdf"
+          "format": "pdf",
+          "mirrors": [
+            "https://web.archive.org/web/20251114001520id_/https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf"
+          ]
         },
         {
           "title": "Press conference: update on the Charlie Kirk shooter (transcript)",

@@ -9,7 +9,13 @@
    "publisher": "Utah County Attorney's Office",
    "url": "https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf",
    "format": "pdf",
-   "error": "all URLs failed"
+   "fetched_from": "https://web.archive.org/web/20251228064839id_/https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf",
+   "file": "S-1.pdf",
+   "bytes": 280715,
+   "sha256": "a6d21a94317ccedc564d19e0ed660843f8050b806cc16added2acbc1d9813886",
+   "text_file": "S-1.txt",
+   "text_words": 3711,
+   "retrieved_at": "2026-10-22T17:47:52Z"
   },
   {
    "id": "S-2",
@@ -139,7 +145,13 @@
    "publisher": "Utah County Attorney's Office",
    "url": "https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf",
    "format": "pdf",
-   "error": "all URLs failed"
+   "fetched_from": "https://web.archive.org/web/20260106220625id_/https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf",
+   "file": "S-9.pdf",
+   "bytes": 100978,
+   "sha256": "431761d2d2969a04aa9d4461d7739fcfb0dfef7af744f83c4cf4dbc1c73908ce",
+   "text_file": "S-9.txt",
+   "text_words": 227,
+   "retrieved_at": "2026-10-22T17:47:57Z"
   },
   {
    "id": "S-10",
@@ -150,7 +162,13 @@
    "publisher": "Utah County Attorney's Office",
    "url": "https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf",
    "format": "pdf",
-   "error": "all URLs failed"
+   "fetched_from": "https://web.archive.org/web/20251114001520id_/https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf",
+   "file": "S-10.pdf",
+   "bytes": 349353,
+   "sha256": "61a6ea999b24199e8aa7b852cd184d64563024ef1f3d7dc2627a0cc8c7be8eeb",
+   "text_file": "S-10.txt",
+   "text_words": 921,
+   "retrieved_at": "2026-10-22T17:47:58Z"
   },
   {
    "id": "S-11",
