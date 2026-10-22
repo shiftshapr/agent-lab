@@ -915,6 +915,7 @@ Mentions: N-190, N-1, N-3
 Related Nodes: N-10186
 Tags: relevance:core
 Investigative Direction: Compare the shooting-day footage of Mikey McCoy's location and movements with the host's statement.
+Open Questions: Q-213
 
 ---
 
@@ -932,6 +933,7 @@ Related Nodes: N-10186, N-11361
 Supports: C-2260
 Tags: relevance:core
 Investigative Direction: Collect the memorial speeches and TPUSA announcements naming Mikey McCoy's future role and test whether the language was coordinated.
+Open Questions: Q-243
 
 ---
 
@@ -949,6 +951,7 @@ Related Nodes: N-10186
 Supports: C-2263
 Tags: relevance:core
 Investigative Direction: Obtain the full Faith Forward Show recording and check the question asked and the answer given in sequence.
+Open Questions: Q-260
 
 ---
 
@@ -965,6 +968,7 @@ Mentions: N-190, N-1, N-3
 Related Nodes: N-10186, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the insiders through the host's sources and ask TPUSA staff who worked with Mikey McCoy after September 10 to confirm or deny.
+Open Questions: Q-243
 
 ---
 
@@ -981,6 +985,7 @@ Mentions: N-190, N-3
 Related Nodes: N-10186, N-11022
 Tags: relevance:core
 Investigative Direction: Check Liberty University convocation and event listings for Mikey McCoy appearances and who invited him.
+Open Questions: Q-261
 
 ---
 
@@ -998,6 +1003,7 @@ Related Nodes: N-10186
 Supports: C-2260
 Tags: relevance:core
 Investigative Direction: This is the host's inference; test it against Turning Point USA succession communications and statements by those who spoke to Mikey McCoy.
+Open Questions: Q-243
 
 ---
 
@@ -1015,6 +1021,7 @@ Related Nodes: N-10209
 Supports: C-2268
 Tags: relevance:core
 Investigative Direction: Ask AV staff and prior trip organizers who miced Charlie on earlier trips and who was on the Korea trip.
+Open Questions: Q-262
 
 ---
 
@@ -1032,6 +1039,7 @@ Related Nodes: N-10209
 Supports: C-2270
 Tags: relevance:core
 Investigative Direction: Identify who filmed the viral clip through its first posting and metadata, and confirm that the McCoys shot it.
+Open Questions: Q-263
 
 ---
 
@@ -1048,6 +1056,7 @@ Mentions: N-3, N-190, N-217
 Related Nodes: N-10209
 Tags: relevance:core
 Investigative Direction: Obtain the original upload date and file metadata of the family footage and the date range of the joint summer trip.
+Open Questions: Q-263
 
 ---
 
@@ -1113,6 +1122,7 @@ Related Nodes: N-10210, N-11023
 Supports: C-2277
 Tags: relevance:core
 Investigative Direction: Check the January 2025 church announcement and the Ventura County Star article for the exact dates.
+Open Questions: Q-264
 
 ---
 
@@ -1129,6 +1139,7 @@ Mentions: N-17, N-3
 Related Nodes: N-10210
 Tags: relevance:core
 Investigative Direction: Check county property records for Rob McCoy's holdings in Thousand Oaks, Coronado and the Phoenix area.
+Open Questions: Q-264
 
 ---
 
@@ -1146,6 +1157,7 @@ Related Nodes: N-10000
 Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Review the video of Tucker Carlson's July 11, 2025 TPUSA speech for the remarks about foreign armies and Ackman.
+Open Questions: Q-265
 
 ---
 
@@ -1165,6 +1177,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-12
 Investigative Direction: Request UVU and TPUSA correspondence dated mid-July 2025 and the tour scheduling documents showing when UVU became stop one.
+Open Questions: Q-266
 
 ---
 
@@ -1181,6 +1194,7 @@ Mentions: N-219, N-40
 Related Nodes: N-10211, N-10012
 Tags: relevance:core
 Investigative Direction: Follow the Fox 13 records appeal and the state records ruling on the UVU security plan.
+Open Questions: Q-267
 
 ---
 
@@ -1198,6 +1212,7 @@ Related Nodes: N-10211, N-10012
 Supports: C-2282
 Tags: relevance:core
 Investigative Direction: Compare the UVU form with University of Utah event application forms and the UVU records request log.
+Open Questions: Q-267
 
 ---
 
@@ -1214,6 +1229,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10211, N-10614
 Tags: relevance:core
 Investigative Direction: Compare typical lead times between request and event across prior tour stops using TPUSA's own scheduling records.
+Open Questions: Q-268
 
 ---
 
@@ -1230,6 +1246,7 @@ Mentions: N-3
 Related Nodes: N-10763
 Tags: relevance:core
 Investigative Direction: Check the Utah statute or UVU policy on standby medical services for large events and UVU's records on EMS staffing.
+Open Questions: Q-142
 
 ---
 
@@ -1248,6 +1265,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Pursue the Fox 13 appeal and any court-ordered release of the security plan to test whether one existed.
+Open Questions: Q-267, Q-269
 
 ---
 
@@ -1264,6 +1282,7 @@ Mentions: N-3
 Related Nodes: N-10229
 Tags: relevance:core
 Investigative Direction: Check UVU room reservations and event booking records for an indoor venue for September 10 before the move outdoors.
+Open Questions: Q-270
 
 ---
 
@@ -1346,6 +1365,7 @@ Related Nodes: N-10212
 Supports: C-2295
 Tags: relevance:core
 Investigative Direction: Find the Village Crazy Lady post and its date and compare its details with the host's.
+Open Questions: Q-271
 
 ---
 
@@ -1363,6 +1383,7 @@ Related Nodes: N-10212
 Supports: C-2295
 Tags: relevance:core
 Investigative Direction: Ask the FBI, NSA and White House press office whether they will confirm or deny the existence of 12 Israel-opened phone accounts at UVU on September 10.
+Open Questions: Q-271
 
 ---
 
@@ -1380,6 +1401,7 @@ Related Nodes: N-10045
 Supports: C-594
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy findings and ballistic evidence on wound track, exit wound and bullet recovery.
+Open Questions: Q-272, Q-273
 
 ---
 
@@ -1476,6 +1498,7 @@ Related Nodes: N-10166
 Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Obtain hospital intake records and arrest and booking photographs showing injuries.
+Open Questions: Q-28
 
 ---
 
@@ -1570,6 +1593,7 @@ Mentions: N-3
 Related Nodes: N-10929
 Tags: relevance:core
 Investigative Direction: Find the student's Facebook reel and verify its date, location and who was in the room.
+Open Questions: Q-274
 
 ---
 
@@ -1586,6 +1610,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10929
 Tags: relevance:core
 Investigative Direction: Obtain UVU building schedules and access logs for the Hall of Flags on September 10.
+Open Questions: Q-274
 
 ---
 
@@ -1602,6 +1627,7 @@ Mentions: N-3
 Related Nodes: N-10929, N-10653
 Tags: relevance:core
 Investigative Direction: Identify the videographer and the vantage point of the running-figure footage and confirm the building location.
+Open Questions: Q-275
 
 ---
 
@@ -1618,6 +1644,7 @@ Mentions: N-3
 Related Nodes: N-11021, N-10239
 Tags: relevance:core
 Investigative Direction: Request the TikTok enforcement notices and moderation reasons for the flagged videos.
+Open Questions: Q-276, Q-277
 
 ---
 

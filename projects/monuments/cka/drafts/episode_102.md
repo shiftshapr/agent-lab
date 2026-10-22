@@ -1327,6 +1327,7 @@ Mentions: N-1
 Related Nodes: N-10857, N-10606, N-10000
 Tags: relevance:core
 Investigative Direction: Ask TPUSA for the original camera footage and metadata of the Aspen presentation and whether any video of the statement exists.
+Open Questions: Q-849
 
 ---
 
@@ -1343,6 +1344,7 @@ Mentions: N-159
 Related Nodes: N-10857, N-10606
 Tags: relevance:core
 Investigative Direction: Find Blake Neff's own public or private statement expressing this concern, including its date and audience.
+Open Questions: Q-849
 
 ---
 
@@ -1359,6 +1361,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10606
 Tags: relevance:core
 Investigative Direction: Identify who at TPUSA mentioned the video to the host's team, when, and in what message or call.
+Open Questions: Q-849
 
 ---
 
@@ -1375,6 +1378,7 @@ Mentions: N-2, N-46
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Review the Megyn Kelly interview with Erika Kirk for her account of watching the video and compare it with any released footage.
+Open Questions: Q-849
 
 ---
 
@@ -1391,6 +1395,7 @@ Mentions: N-1, N-2
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Compile Charlie Kirk's recorded statements on women and work and compare them with the appointment statement.
+Open Questions: Q-868
 
 ---
 
@@ -1438,6 +1443,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Obtain the donor call list and call records from the hospital day and identify who placed each call.
+Open Questions: Q-863
 
 ---
 
@@ -1454,6 +1460,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Review the AmFest 2025 stream and program for the audio cue, who cleared it, and its source file.
+Open Questions: Q-849
 
 ---
 
@@ -1470,6 +1477,7 @@ Mentions: N-159
 Related Nodes: N-10857
 Tags: relevance:core
 Investigative Direction: Locate Blake Neff's original subway comparison and any TPUSA statement tying it to the non-release of the video.
+Open Questions: Q-849
 
 ---
 
@@ -1791,6 +1799,7 @@ Related Nodes: N-10000
 Supports: C-5707
 Tags: relevance:core
 Investigative Direction: Obtain the recording or leaked audio of the TPUSA staff Zoom call and locate the emoji exchange.
+Open Questions: Q-519
 
 ---
 
@@ -1919,6 +1928,7 @@ Mentions: N-4, N-2
 Supports: C-8303
 Tags: relevance:core
 Investigative Direction: Identify the event and review Vance's remarks and Erika Kirk's stated reason for not attending.
+Open Questions: Q-869
 
 ---
 
@@ -1936,6 +1946,7 @@ Related Nodes: N-10606
 Supports: C-9050
 Tags: relevance:core
 Investigative Direction: Forensic audio analysis of the released clip and the original Aspen recording, and testimony from event staff and the donors present.
+Open Questions: Q-849
 
 ---
 
@@ -1952,6 +1963,7 @@ Mentions: N-1
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Compile dated Charlie Kirk clips on women and work to test whether his stated position changed.
+Open Questions: Q-868
 
 ---
 
@@ -1999,6 +2011,7 @@ Mentions: N-361, N-3
 Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: The host's original email and call log would show who made first contact.
+Open Questions: Q-443
 
 ---
 
@@ -2016,6 +2029,7 @@ Related Nodes: N-10342
 Supports: C-4347, C-4470
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's account with hotel and base records for September 8 and 9, 2025.
+Open Questions: Q-870
 
 ---
 
@@ -2033,6 +2047,7 @@ Related Nodes: N-10347
 Supports: C-4467
 Tags: relevance:core
 Investigative Direction: Request Fort Huachuca police call logs for September 9, 2025.
+Open Questions: Q-391
 
 ---
 
@@ -2049,6 +2064,7 @@ Mentions: N-361, N-2, N-266
 Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: Candlewood hotel records and security footage for September 8, 2025.
+Open Questions: Q-870
 
 ---
 
@@ -2082,6 +2098,7 @@ Mentions: N-3, N-266, N-2
 Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: Rewatch the host's first Mitch segment to confirm Erika was not named.
+Open Questions: Q-840, Q-842
 
 ---
 
@@ -2099,6 +2116,7 @@ Related Nodes: N-10342
 Supports: C-3901
 Tags: relevance:core
 Investigative Direction: Pull the Fox News broadcast and match its date to the host's first Mitch segment.
+Open Questions: Q-871
 
 ---
 
@@ -2115,6 +2133,7 @@ Mentions: N-2, N-278, N-3
 Related Nodes: N-10327
 Tags: relevance:core
 Investigative Direction: Obtain the full CBS interview and the cut clip.
+Open Questions: Q-871
 
 ---
 
@@ -2131,6 +2150,7 @@ Mentions: N-2, N-278, N-3
 Related Nodes: N-10327
 Tags: relevance:core
 Investigative Direction: Identify the source of the host's later information and any CBS or TPUSA communications about the question.
+Open Questions: Q-871
 
 ---
 
@@ -2146,6 +2166,7 @@ Anchored Artifacts:
 Mentions: N-15, N-3
 Tags: relevance:core
 Investigative Direction: Obtain the Streiff email, its date and content.
+Open Questions: Q-872
 
 ---
 
@@ -2162,6 +2183,7 @@ Mentions: N-130, N-361, N-3
 Related Nodes: N-10921, N-10820
 Tags: relevance:core
 Investigative Direction: Obtain the threatening messages, the call record with Ian Carroll and the date of each.
+Open Questions: Q-843
 
 ---
 
@@ -2178,6 +2200,7 @@ Mentions: N-361, N-3
 Related Nodes: N-10921, N-10820
 Tags: relevance:core
 Investigative Direction: Obtain the written threat and identify its sender.
+Open Questions: Q-843
 
 ---
 
@@ -2195,6 +2218,7 @@ Related Nodes: N-10347
 Supports: C-4419
 Tags: relevance:core
 Investigative Direction: Produce the host's message to Harpole and its timestamp.
+Open Questions: Q-844
 
 ---
 
@@ -2212,6 +2236,7 @@ Related Nodes: N-10347
 Supports: C-4558
 Tags: relevance:core
 Investigative Direction: The message thread would show delivery and any reply.
+Open Questions: Q-844
 
 ---
 
@@ -2228,6 +2253,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Obtain the scheduling messages for the December 15 meeting.
+Open Questions: Q-419
 
 ---
 
@@ -2245,6 +2271,7 @@ Related Nodes: N-10820
 Supports: C-5700
 Tags: relevance:core
 Investigative Direction: Review the broadcast and TPUSA's channels for the date and time Paramount Tactical was featured.
+Open Questions: Q-843
 
 ---
 
@@ -2262,6 +2289,7 @@ Related Nodes: N-10783
 Supports: C-9034
 Tags: relevance:core
 Investigative Direction: Compare with Harpole's statements about whether TPUSA approved his Shawn Ryan appearance.
+Open Questions: Q-419, Q-873
 
 ---
 
@@ -2278,6 +2306,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: The host's notes or recording of the meeting would identify the statements.
+Open Questions: Q-419
 
 ---
 
@@ -2294,6 +2323,7 @@ Mentions: N-15, N-3, N-361
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: The host's notes and any witnesses to the question.
+Open Questions: Q-419, Q-872
 
 ---
 
@@ -2310,6 +2340,7 @@ Mentions: N-361, N-3
 Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: The episode's air date and the host's publication log.
+Open Questions: Q-842, Q-870
 
 ---
 
@@ -2327,6 +2358,7 @@ Related Nodes: N-10921, N-10820
 Supports: C-5699
 Tags: relevance:core
 Investigative Direction: Obtain the Valhalla messages and their metadata.
+Open Questions: Q-843
 
 ---
 
@@ -2344,6 +2376,7 @@ Related Nodes: N-10820, N-10921
 Supports: C-4473
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's account and any recording of the calls.
+Open Questions: Q-843
 
 ---
 
@@ -2360,6 +2393,7 @@ Mentions: N-361, N-3
 Related Nodes: N-10820, N-10921
 Tags: relevance:core
 Investigative Direction: Compare their messages to the host with their calls to Mitch.
+Open Questions: Q-843
 
 ---
 
@@ -2377,6 +2411,7 @@ Related Nodes: N-10820
 Supports: C-8941
 Tags: relevance:core
 Investigative Direction: Review the Paramount Tactical stream for the moment the message was read.
+Open Questions: Q-441
 
 ---
 
@@ -2393,6 +2428,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Identify the host's source for the knowledge; do not identify the children.
+Open Questions: Q-441
 
 ---
 
@@ -2410,6 +2446,7 @@ Related Nodes: N-10820
 Supports: C-5698
 Tags: relevance:core
 Investigative Direction: The host's phone and message records would show whether any text was sent.
+Open Questions: Q-441, Q-874
 
 ---
 
@@ -2426,6 +2463,7 @@ Mentions: N-2, N-14, N-3
 Related Nodes: N-11098
 Tags: relevance:core
 Investigative Direction: Identify the crisis PR firm and its contract date.
+Open Questions: Q-419, Q-875
 
 ---
 
@@ -2443,6 +2481,7 @@ Related Nodes: N-11228, N-11098
 Supports: C-5701
 Tags: relevance:core
 Investigative Direction: Compare with Kolvet's public roles on TPUSA broadcasts after the meeting.
+Open Questions: Q-419, Q-875
 
 ---
 
@@ -2460,6 +2499,7 @@ Related Nodes: N-11027
 Supports: C-5419
 Tags: relevance:core
 Investigative Direction: Compare Erika's rogue account with the Kolvet to Paramount Tactical messages.
+Open Questions: Q-419, Q-843
 
 ---
 
@@ -2477,6 +2517,7 @@ Related Nodes: N-10342
 Supports: C-4409
 Tags: relevance:core
 Investigative Direction: Obtain and authenticate Mitch's videos and metadata.
+Open Questions: Q-443
 
 ---
 
@@ -2494,6 +2535,7 @@ Related Nodes: N-10342
 Supports: C-4409, C-3947
 Tags: relevance:core
 Investigative Direction: Candlewood reservation records and military ID tag verification.
+Open Questions: Q-443
 
 ---
 
@@ -2526,6 +2568,7 @@ Mentions: N-266
 Related Nodes: N-10783, N-10347
 Tags: relevance:core
 Investigative Direction: Compare the filing's factual statements with the record.
+Open Questions: Q-391, Q-837
 
 ---
 
@@ -2542,6 +2585,7 @@ Mentions: N-266, N-3
 Related Nodes: N-10783
 Tags: relevance:core
 Investigative Direction: Read the complaint paragraph on the alibi and compare with the host's account.
+Open Questions: Q-837, Q-853
 
 ---
 
@@ -2559,6 +2603,7 @@ Related Nodes: N-10783
 Supports: C-8658, C-8657
 Tags: relevance:core
 Investigative Direction: Compare the airing dates of the host's first Harpole mention and the Shawn Ryan interview.
+Open Questions: Q-837, Q-840
 
 ---
 
@@ -2575,6 +2620,7 @@ Mentions: N-266, N-3
 Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: The message thread would show the count; earlier episodes gave smaller numbers.
+Open Questions: Q-844
 
 ---
 
@@ -2591,6 +2637,7 @@ Mentions: N-266
 Related Nodes: N-10347, N-10783
 Tags: relevance:core
 Investigative Direction: Check the court docket for any submitted alibi evidence.
+Open Questions: Q-853
 
 ---
 

@@ -1479,6 +1479,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10096
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to identify the footage in question and the stated reasons for withholding it.
+Open Questions: Q-97, Q-98
 
 ---
 
@@ -1495,6 +1496,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000, N-10096
 Tags: relevance:core
 Investigative Direction: Obtain the SD card removal footage and the chain-of-custody record for the cards.
+Open Questions: Q-63, Q-97
 
 ---
 
@@ -1511,6 +1513,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10096
 Tags: relevance:core
 Investigative Direction: Obtain any request or instruction from law enforcement asking TPUSA not to release footage.
+Open Questions: Q-97
 
 ---
 
@@ -1575,6 +1578,7 @@ Mentions: N-54, N-40, N-3
 Related Nodes: N-10059
 Tags: relevance:core
 Investigative Direction: Request the search warrant, return and any charging or non-charging decision concerning Lance.
+Open Questions: Q-99
 
 ---
 
@@ -1591,6 +1595,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Establish the date and agency of the first federal involvement and compare it with the local lead roles.
+Open Questions: Q-92
 
 ---
 
@@ -1607,6 +1612,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Test the inference against the witness accounts and the federal contact records.
+Open Questions: Q-92
 
 ---
 
@@ -1623,6 +1629,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Survey all publicly known rooftop footage to test whether this is the only recording.
+Open Questions: Q-82
 
 ---
 
@@ -1639,6 +1646,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Compare the aired clip with the earlier viral versions and ask the filmer for the original file.
+Open Questions: Q-82
 
 ---
 
@@ -1655,6 +1663,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Compare the object in the clip with the towel described in the charging documents and the Discord messages.
+Open Questions: Q-84
 
 ---
 
@@ -1671,6 +1680,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Identify the filmer and the Twitter contact and confirm the timeline of the outreach.
+Open Questions: Q-82
 
 ---
 
@@ -1687,6 +1697,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Catalog the known recordings of the shooter and ask the FBI which witnesses it interviewed and when.
+Open Questions: Q-82, Q-85
 
 ---
 
@@ -1703,6 +1714,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Ask the FBI whether it obtained the original file and metadata of the rooftop clip.
+Open Questions: Q-83, Q-85
 
 ---
 
@@ -1719,6 +1731,7 @@ Mentions: N-3
 Related Nodes: N-10128
 Tags: relevance:core
 Investigative Direction: Match this witness to the footage covered earlier in the week and to the Orem police intake record.
+Open Questions: Q-82, Q-85
 
 ---
 
@@ -1736,6 +1749,7 @@ Related Nodes: N-10128
 Supports: C-883
 Tags: relevance:core
 Investigative Direction: Obtain the witness's police report and the FBI contact record dated September 15.
+Open Questions: Q-85
 
 ---
 
@@ -1753,6 +1767,7 @@ Related Nodes: N-10128
 Supports: C-879
 Tags: relevance:core
 Investigative Direction: Compare the witnesses' accounts with FBI interview logs and Orem police records of footage intake.
+Open Questions: Q-85, Q-92
 
 ---
 
@@ -1769,6 +1784,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10127
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the volume and roles of the leakers and corroborate any documents received.
+Open Questions: Q-100
 
 ---
 
@@ -1785,6 +1801,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Interview current and former TPUSA staff about changes in priorities after September 10.
+Open Questions: Q-100
 
 ---
 
@@ -1801,6 +1818,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Ask the host whether the sources include current employees, vendors or donors and what documents they provided.
+Open Questions: Q-100
 
 ---
 
@@ -1817,6 +1835,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Identify the journalists and the forensic accountants and track the reports the host says will follow.
+Open Questions: Q-100
 
 ---
 
@@ -1834,6 +1853,7 @@ Related Nodes: N-10127, N-10000
 Supports: C-836
 Tags: relevance:core
 Investigative Direction: Identify the insider and the meeting at which Charlie voiced the concern, and obtain any notes or messages.
+Open Questions: Q-100
 
 ---
 
@@ -1850,6 +1870,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10000, N-10075
 Tags: relevance:core
 Investigative Direction: Establish who ran fundraising and accounting under Charlie and what he reviewed.
+Open Questions: Q-100
 
 ---
 
@@ -1883,6 +1904,7 @@ Related Nodes: N-10127, N-10000
 Supports: C-836
 Tags: relevance:core
 Investigative Direction: Obtain the proof the host says she holds and identify to whom Charlie put the questions.
+Open Questions: Q-100
 
 ---
 
@@ -1900,6 +1922,7 @@ Related Nodes: N-10127, N-10000
 Supports: C-836
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's expenditure growth in 2025 with the claim that cash was being spent too quickly.
+Open Questions: Q-100
 
 ---
 
@@ -1917,6 +1940,7 @@ Related Nodes: N-10404, N-10127, N-10125
 Supports: C-896
 Tags: relevance:core
 Investigative Direction: Establish who received the announcement, how staff reacted and whether the DOGE team was ever staffed.
+Open Questions: Q-101
 
 ---
 
@@ -1934,6 +1958,7 @@ Related Nodes: N-10000
 Supports: C-896
 Tags: relevance:core
 Investigative Direction: Obtain the memo and compare Streiff's described role with TPUSA's filings and staff listings.
+Open Questions: Q-101
 
 ---
 
@@ -1951,6 +1976,7 @@ Related Nodes: N-10127, N-10000
 Supports: C-836
 Tags: relevance:core
 Investigative Direction: Test whether the memo's efficiency language reflects a financial concern or routine reorganization by comparing with TPUSA staff accounts.
+Open Questions: Q-100, Q-101
 
 ---
 
@@ -1967,6 +1993,7 @@ Mentions: N-3
 Related Nodes: N-11287, N-10127, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the contractors and review vendor contracts and payments for dual compensation.
+Open Questions: Q-100
 
 ---
 
@@ -1983,6 +2010,7 @@ Mentions: N-3
 Related Nodes: N-10127, N-10075
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary findings and identify the accountants and their mandate.
+Open Questions: Q-100
 
 ---
 
@@ -1999,6 +2027,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10127, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the donors or companies Charlie questioned and the basis for his concern.
+Open Questions: Q-100
 
 ---
 
@@ -2031,6 +2060,7 @@ Mentions: N-3
 Related Nodes: N-11287, N-10127, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the contracts and review whether any intermediary was paid by both the organization and the counterparty.
+Open Questions: Q-100
 
 ---
 
@@ -2047,6 +2077,7 @@ Mentions: N-3
 Related Nodes: N-10127, N-10075
 Tags: relevance:core
 Investigative Direction: Monitor for the reports and identify their authors.
+Open Questions: Q-100
 
 ---
 
@@ -2079,6 +2110,7 @@ Mentions: N-121, N-3
 Related Nodes: N-10131
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the original video, with the audio waveform, to test the alignment.
+Open Questions: Q-27
 
 ---
 
@@ -2097,6 +2129,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-7
 Investigative Direction: Obtain the Marine friend's video and the autopsy or wound-description records.
+Open Questions: Q-64
 
 ---
 
@@ -2113,6 +2146,7 @@ Mentions: N-121, N-1
 Related Nodes: N-10131
 Tags: relevance:core
 Investigative Direction: Compare against the autopsy or medical findings on entry and exit wounds and against multiple-angle footage.
+Open Questions: Q-27, Q-64
 
 ---
 
@@ -2130,6 +2164,7 @@ Related Nodes: N-10492
 Supports: C-909
 Tags: relevance:core
 Investigative Direction: Obtain the frontal footage and the necklace itself, if recovered, to check the break point and timing.
+Open Questions: Q-64, Q-102
 
 ---
 
@@ -2147,6 +2182,7 @@ Related Nodes: N-10131
 Supports: C-912
 Tags: relevance:core
 Investigative Direction: Obtain a site plan of the UVU flag hall and the underpass and verify the filming position.
+Open Questions: Q-27, Q-82
 
 ---
 
@@ -2163,6 +2199,7 @@ Mentions: N-121, N-3
 Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Obtain the host's on-site photographs and compare them with the original footage.
+Open Questions: Q-27
 
 ---
 
@@ -2179,6 +2216,7 @@ Mentions: N-121
 Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Compare the original unblurred photo with on-site photography from the same angle and lighting.
+Open Questions: Q-27
 
 ---
 
@@ -2196,6 +2234,7 @@ Related Nodes: N-10130, N-10049
 Supports: C-917
 Tags: relevance:core
 Investigative Direction: Identify the tipster and the full doorbell footage and compare it with the released clip.
+Open Questions: Q-96
 
 ---
 
@@ -2212,6 +2251,7 @@ Mentions: N-3
 Related Nodes: N-10130
 Tags: relevance:core
 Investigative Direction: Corroborate the tipster's identity and her access to the footage.
+Open Questions: Q-96
 
 ---
 
@@ -2228,6 +2268,7 @@ Mentions: N-3
 Related Nodes: N-10130, N-10128
 Tags: relevance:core
 Investigative Direction: Identify the person and the role they played in the handling of the doorbell footage.
+Open Questions: Q-21, Q-96
 
 ---
 
@@ -2244,6 +2285,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11015, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the emails and texts and their send dates and senders.
+Open Questions: Q-103
 
 ---
 
@@ -2276,6 +2318,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11015, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the TPUSA staff or vendor who authored and approved the messages.
+Open Questions: Q-103
 
 ---
 
@@ -2308,6 +2351,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare with Erika Kirk's later statements and the host's later assessments of them.
+Open Questions: Q-104
 
 ---
 
@@ -2324,6 +2368,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11015, N-10000
 Tags: relevance:core
 Investigative Direction: Identify who approves fundraising campaigns at TPUSA after September 10.
+Open Questions: Q-103
 
 ---
 
@@ -2340,6 +2385,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10113
 Tags: relevance:core
 Investigative Direction: Identify the priest and the date, and compare with Erika's own accounts of the hex.
+Open Questions: Q-95
 
 ---
 
@@ -2431,6 +2477,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10134, N-10075
 Tags: relevance:core
 Investigative Direction: Identify the pastors and review their financial ties to TPUSA and related funders.
+Open Questions: Q-78
 
 ---
 
@@ -2447,6 +2494,7 @@ Mentions: N-3
 Related Nodes: N-10134
 Tags: relevance:core
 Investigative Direction: Ask the host to define the alleged operation and name the documents or sources behind it.
+Open Questions: Q-78
 
 ---
 
@@ -2479,6 +2527,7 @@ Related Nodes: N-10135
 Supports: C-493
 Tags: relevance:core
 Investigative Direction: Obtain the Amazon listing history (page capture, ASIN record) and the publisher's account of the date error.
+Open Questions: Q-105
 
 ---
 
@@ -2495,6 +2544,7 @@ Mentions: N-3
 Related Nodes: N-10135
 Tags: relevance:core
 Investigative Direction: Find Amazon's public statement and any publisher explanation of the listing date.
+Open Questions: Q-105
 
 ---
 
@@ -2542,6 +2592,7 @@ Mentions: N-3
 Related Nodes: N-10133
 Tags: relevance:core
 Investigative Direction: Compile the documented cases of inscribed casings and the investigating agencies' statements on them.
+Open Questions: Q-38
 
 ---
 
@@ -2557,6 +2608,7 @@ Anchored Artifacts: A-3276.4
 Mentions: N-2, N-3
 Tags: relevance:core
 Investigative Direction: Compare with any message exchange between Erika and the host and with Erika's later public statements about the host.
+Open Questions: Q-104
 
 ---
 
@@ -2572,6 +2624,7 @@ Anchored Artifacts:
 Mentions: N-2, N-3
 Tags: relevance:core
 Investigative Direction: Check the platform and date on which Erika's account started following the host.
+Open Questions: Q-104
 
 ---
 
@@ -2602,6 +2655,7 @@ Anchored Artifacts:
 Mentions: N-2, N-3, N-1
 Tags: relevance:core
 Investigative Direction: Compare with later Erika Kirk statements and the host's later claims about inconsistencies.
+Open Questions: Q-104
 
 ---
 

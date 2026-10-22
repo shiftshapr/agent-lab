@@ -1337,6 +1337,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: The host names no payer or recipient; ask her to identify any offer made to her or others and any documentation of it.
+Open Questions: Q-1144
 
 ---
 
@@ -1354,6 +1355,7 @@ Related Nodes: N-10320, N-10000
 Supports: C-4114, C-3193
 Tags: relevance:core
 Investigative Direction: Confirm with Kolvet or the other sources the host has cited in earlier episodes what exactly was offered and when.
+Open Questions: Q-1145
 
 ---
 
@@ -1371,6 +1373,7 @@ Related Nodes: N-10320
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Identify the table, attendees and date of the meeting where offers were allegedly made (the host elsewhere points to the Hamptons retreat).
+Open Questions: Q-1145
 
 ---
 
@@ -1447,6 +1450,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Ask which individuals she means and whether she has made specific invitations.
+Open Questions: Q-1146
 
 ---
 
@@ -1542,6 +1546,7 @@ Related Nodes: N-10651
 Supports: C-11071, C-10711
 Tags: relevance:core
 Investigative Direction: Rental agreement, vehicle GPS or security footage showing who rode in the second vehicle.
+Open Questions: Q-1132
 
 ---
 
@@ -1558,6 +1563,7 @@ Mentions: N-367, N-159, N-1
 Related Nodes: N-10979, N-10651
 Tags: relevance:core
 Investigative Direction: Event attendee list, green-room footage and the restaurant's own video of the morning.
+Open Questions: Q-1147
 
 ---
 
@@ -1575,6 +1581,7 @@ Related Nodes: N-10651
 Supports: C-10708, C-10711, C-10710
 Tags: relevance:core
 Investigative Direction: Compare Neff's own audio account with phone location records and Philip's statements.
+Open Questions: Q-1132
 
 ---
 
@@ -1590,6 +1597,7 @@ Anchored Artifacts: A-2346.1
 Mentions: N-159, N-3, N-1
 Tags: relevance:core
 Investigative Direction: Locate the original Neff post and its timestamp.
+Open Questions: Q-1148
 
 ---
 
@@ -1638,6 +1646,7 @@ Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's public accounts of Kirk's final weeks with the text messages and timelines the host has aired.
+Open Questions: Q-1146
 
 ---
 
@@ -1655,6 +1664,7 @@ Related Nodes: N-10059
 Supports: C-12773
 Tags: relevance:core
 Investigative Direction: Obtain the Deseret News article and identify who the unnamed speaker was.
+Open Questions: Q-1149
 
 ---
 
@@ -1703,6 +1713,7 @@ Mentions: N-159, N-3, N-1
 Related Nodes: N-10059
 Tags: relevance:core
 Investigative Direction: Establish the timing of the waiting-room conversation against the hospital pronouncement and the manhunt timeline.
+Open Questions: Q-218, Q-1149
 
 ---
 
@@ -1719,6 +1730,7 @@ Mentions: N-159, N-367
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Ask Neff or the Deseret News who was in the waiting room.
+Open Questions: Q-1149
 
 ---
 
@@ -1735,6 +1747,7 @@ Mentions: N-159, N-14, N-1
 Supports: C-10764
 Tags: relevance:core
 Investigative Direction: Establish what Kolvet told colleagues on September 9 and 10 about Kirk's fears; the host's 'Andrew' is read here as Kolvet.
+Open Questions: Q-1143, Q-1149
 
 ---
 
@@ -1751,6 +1764,7 @@ Mentions: N-3
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Compare with charging documents on Robinson's record and the number of shots and casings recovered.
+Open Questions: Q-195, Q-1140
 
 ---
 
@@ -1766,6 +1780,7 @@ Anchored Artifacts: A-2347.1
 Mentions: N-159, N-3, N-1
 Tags: relevance:core
 Investigative Direction: Inference only; the unnamed waiting-room speaker would need to be identified to test it.
+Open Questions: Q-1149
 
 ---
 
@@ -1783,6 +1798,7 @@ Related Nodes: N-10889
 Supports: C-12785
 Tags: relevance:core
 Investigative Direction: Confirm the paywall status and publication date of the op-ed.
+Open Questions: Q-1150
 
 ---
 
@@ -1799,6 +1815,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10826, N-10889
 Tags: relevance:core
 Investigative Direction: Date the New York Times interview and confirm the location and that it was the first such interview.
+Open Questions: Q-1151
 
 ---
 
@@ -1815,6 +1832,7 @@ Mentions: N-1
 Related Nodes: N-10889
 Tags: relevance:core
 Investigative Direction: Search New York Times opinion archives for any byline by Kirk.
+Open Questions: Q-1152
 
 ---
 
@@ -1832,6 +1850,7 @@ Related Nodes: N-10889
 Supports: C-12789
 Tags: relevance:core
 Investigative Direction: Identify the original show episode and date of the clip.
+Open Questions: Q-1152
 
 ---
 
@@ -1848,6 +1867,7 @@ Mentions: N-2
 Related Nodes: N-10809, N-10000
 Tags: relevance:core
 Investigative Direction: Identify any formal agreements or events between TPUSA and the Department of War.
+Open Questions: Q-1142
 
 ---
 
@@ -1864,6 +1884,7 @@ Mentions: N-2, N-1
 Supports: C-12785
 Tags: relevance:core
 Investigative Direction: Compare with flight records and other accounts of when Erika left Utah and arrived in Phoenix.
+Open Questions: Q-1150, Q-1153
 
 ---
 
@@ -1879,6 +1900,7 @@ Anchored Artifacts: A-2348.1
 Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Check the Cubs schedule for the evening of September 9, 2025 and other accounts of Kirk's last night at home.
+Open Questions: Q-1148, Q-1150
 
 ---
 
@@ -1896,6 +1918,7 @@ Related Nodes: N-10000
 Supports: C-12793
 Tags: relevance:core
 Investigative Direction: Compare the transcripts of Erika's first speech and the TPUSA conference call with the op-ed passage.
+Open Questions: Q-1150, Q-1154
 
 ---
 
@@ -1942,6 +1965,7 @@ Mentions: N-2, N-211
 Supports: C-12800
 Tags: relevance:core
 Investigative Direction: Compare the op-ed text with the Watters interview transcript.
+Open Questions: Q-1150, Q-1154
 
 ---
 
@@ -1958,6 +1982,7 @@ Mentions: N-2, N-1
 Supports: C-12800
 Tags: relevance:core
 Investigative Direction: Compare the op-ed with the memorial speech transcript.
+Open Questions: Q-1150, Q-1154
 
 ---
 
@@ -1973,6 +1998,7 @@ Anchored Artifacts:
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Identify the Zoom call and obtain the recording or attendee accounts.
+Open Questions: Q-1154
 
 ---
 
@@ -1989,6 +2015,7 @@ Mentions: N-2, N-211
 Supports: C-5841
 Tags: relevance:core
 Investigative Direction: Check the Watters interview transcript for the sleep remarks.
+Open Questions: Q-1154
 
 ---
 
@@ -2021,6 +2048,7 @@ Mentions: N-2
 Supports: C-12804
 Tags: relevance:core
 Investigative Direction: Confirm the final paragraph in the published op-ed.
+Open Questions: Q-1150
 
 ---
 
@@ -2037,6 +2065,7 @@ Mentions: N-237, N-2
 Related Nodes: N-10012, N-10000
 Tags: relevance:core
 Investigative Direction: Check the official anniversary event program for speakers and date.
+Open Questions: Q-1155
 
 ---
 
@@ -2054,6 +2083,7 @@ Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain the released text messages and Zoom call logs to confirm message times against the call.
+Open Questions: Q-168, Q-1143
 
 ---
 
@@ -2070,6 +2100,7 @@ Mentions: N-7
 Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Find Turek's public description of the call and identify the two officials.
+Open Questions: Q-168
 
 ---
 
@@ -2087,6 +2118,7 @@ Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain attendee lists or invitations for the call from the participants.
+Open Questions: Q-168
 
 ---
 
@@ -2104,6 +2136,7 @@ Related Nodes: N-10162
 Supports: C-10759, C-11205
 Tags: relevance:core
 Investigative Direction: Compare timestamps of Kirk's pro-Israel message with the Zoom start time.
+Open Questions: Q-768
 
 ---
 
@@ -2119,6 +2152,7 @@ Anchored Artifacts:
 Mentions: N-2, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Date the host's conversation with Erika and compare it with Erika's later public accounts.
+Open Questions: Q-768, Q-1141
 
 ---
 
@@ -2135,6 +2169,7 @@ Mentions: N-2
 Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Compare Erika's earlier and later accounts of where she was and what she knew during the call.
+Open Questions: Q-1141, Q-1153
 
 ---
 
@@ -2150,6 +2185,7 @@ Anchored Artifacts:
 Mentions: N-14, N-329
 Tags: relevance:core
 Investigative Direction: Identify Andrew Cooper, whom the host names only by this spelling, and confirm what he provided to the DNI's office.
+Open Questions: Q-1156
 
 ---
 
@@ -2165,6 +2201,7 @@ Anchored Artifacts: A-2350.1
 Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Collect Erika's interview statements about Kirk's mood on September 9.
+Open Questions: Q-1148
 
 ---
 
@@ -2181,6 +2218,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: List Kirk's prior UVU appearances and dates.
+Open Questions: Q-1148
 
 ---
 
@@ -2197,6 +2235,7 @@ Mentions: N-1
 Related Nodes: N-10729, N-10162
 Tags: relevance:core
 Investigative Direction: Establish the call time in Israel and who said it was debate preparation.
+Open Questions: Q-168
 
 ---
 
@@ -2213,6 +2252,7 @@ Mentions: N-55, N-1
 Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Find Hammer's public statement describing the call and its purpose.
+Open Questions: Q-168
 
 ---
 
@@ -2229,6 +2269,7 @@ Mentions: N-7, N-55
 Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Ask Turek and Hammer what advice was given on the call.
+Open Questions: Q-168
 
 ---
 
@@ -2245,6 +2286,7 @@ Mentions: N-14, N-2
 Related Nodes: N-10193, N-11361
 Tags: relevance:core
 Investigative Direction: Find Kolvet's original statement about who arranged the fireworks.
+Open Questions: Q-1157
 
 ---
 
@@ -2262,6 +2304,7 @@ Related Nodes: N-10193
 Supports: C-4446
 Tags: relevance:core
 Investigative Direction: Identify who selected the outfit and the program planned for the memorial.
+Open Questions: Q-1157
 
 ---
 
@@ -2294,6 +2337,7 @@ Related Nodes: N-10599
 Supports: C-12823
 Tags: relevance:core
 Investigative Direction: Confirm the release date from the producers.
+Open Questions: Q-1158
 
 ---
 
@@ -2309,6 +2353,7 @@ Anchored Artifacts: A-2350.5
 Related Nodes: N-10599
 Tags: relevance:core
 Investigative Direction: Check SEC filings and press releases on any acquisition of Salem Media Group.
+Open Questions: Q-1159
 
 ---
 
@@ -2325,6 +2370,7 @@ Related Nodes: N-10599, N-10604, N-10835
 Supports: C-8842
 Tags: relevance:core
 Investigative Direction: FARA database entries for Clock Tower X and Show Faith by Works naming Salem outlets as targets.
+Open Questions: Q-1160
 
 ---
 
@@ -2340,6 +2386,7 @@ Anchored Artifacts: A-2900.1
 Related Nodes: N-10604, N-10599
 Tags: relevance:core
 Investigative Direction: FARA filings naming the Israeli Ministry of Foreign Affairs as principal and the contract amounts.
+Open Questions: Q-1160
 
 ---
 
@@ -2357,6 +2404,7 @@ Related Nodes: N-10599
 Supports: C-8843
 Tags: relevance:core
 Investigative Direction: Salem Media officer listings and Parscale's role in the Clock Tower X filings.
+Open Questions: Q-1160
 
 ---
 
@@ -2372,6 +2420,7 @@ Anchored Artifacts: A-2350.5
 Related Nodes: N-10835, N-10599
 Tags: relevance:core
 Investigative Direction: Review the documentary's funding disclosures once released.
+Open Questions: Q-1158, Q-1160
 
 ---
 
@@ -2388,6 +2437,7 @@ Mentions: N-1
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Identify what offers are meant and any evidence of their refusal.
+Open Questions: Q-1145
 
 ---
 

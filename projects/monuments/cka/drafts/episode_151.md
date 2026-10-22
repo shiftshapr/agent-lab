@@ -1154,6 +1154,7 @@ Related Nodes: N-11226
 Supports: C-12881, C-12877, C-12880
 Tags: relevance:core
 Investigative Direction: Obtain the UVU-return footage, hospital visitor and scrub-issue records, and any statement from Harreff on when and why he changed.
+Open Questions: Q-888
 
 ---
 
@@ -1170,6 +1171,7 @@ Mentions: N-7, N-896
 Related Nodes: N-11226
 Tags: relevance:core
 Investigative Direction: Find Turek's original statement about scrubs being handed out and ask Timpanogos Hospital whether scrubs were given to non-patients that day.
+Open Questions: Q-888
 
 ---
 
@@ -1186,6 +1188,7 @@ Mentions: N-1, N-896
 Related Nodes: N-10492, N-10971, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain the FBI evidence inventory for the necklace, the microphone and clothing items collected on September 10.
+Open Questions: Q-1176
 
 ---
 
@@ -1202,6 +1205,7 @@ Mentions: N-1
 Related Nodes: N-10014
 Tags: relevance:core
 Investigative Direction: Confirm with the family or TPUSA when the coat was returned and whether any agency examined it.
+Open Questions: Q-1147, Q-1176
 
 ---
 
@@ -1218,6 +1222,7 @@ Mentions: N-896
 Related Nodes: N-10103, N-10895, N-11226
 Tags: relevance:core
 Investigative Direction: Ask which agency collected clothing from people near Charlie and whether swabs for residue were taken.
+Open Questions: Q-1172, Q-1176
 
 ---
 
@@ -1233,6 +1238,7 @@ Anchored Artifacts:
 Mentions: N-7, N-3
 Tags: relevance:core
 Investigative Direction: Identify the photo set, its source and the date the host released it.
+Open Questions: Q-885
 
 ---
 
@@ -1361,6 +1367,7 @@ Related Nodes: N-10636
 Supports: C-12858, C-12856
 Tags: relevance:core
 Investigative Direction: Establish where in the SUV Turek sat and whether the seats allowed access to Charlie from there.
+Open Questions: Q-882, Q-915
 
 ---
 
@@ -1378,6 +1385,7 @@ Related Nodes: N-10636
 Supports: C-12858, C-12856
 Tags: relevance:core
 Investigative Direction: Reconstruct seating and positioning in the SUV from photos and interviews with those aboard.
+Open Questions: Q-915
 
 ---
 
@@ -1394,6 +1402,7 @@ Mentions: N-266, N-3
 Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Pull the Harpole complaint and docket to confirm the claims pleaded.
+Open Questions: Q-837
 
 ---
 
@@ -1409,6 +1418,7 @@ Anchored Artifacts:
 Mentions: N-7, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Review the host's prior statements about Turek for any such suggestion.
+Open Questions: Q-1146
 
 ---
 
@@ -1427,6 +1437,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2, S-3
 Investigative Direction: Pull Bagley's preliminary hearing testimony on how he linked the two figures.
+Open Questions: Q-1177
 
 ---
 
@@ -1443,6 +1454,7 @@ Mentions: N-40
 Related Nodes: N-10038
 Tags: relevance:core
 Investigative Direction: Read the warrant affidavits for the stated time of the footage and the time of the shot.
+Open Questions: Q-766
 
 ---
 
@@ -1459,6 +1471,7 @@ Mentions: N-40
 Supports: C-13029
 Tags: relevance:core
 Investigative Direction: Obtain unenhanced footage for independent analysis of carry position and gait.
+Open Questions: Q-766
 
 ---
 
@@ -1475,6 +1488,7 @@ Mentions:
 Related Nodes: N-10734, N-10096
 Tags: relevance:core
 Investigative Direction: Read the preliminary hearing transcript for the SBI witness's description of what media was received.
+Open Questions: Q-1178
 
 ---
 
@@ -1491,6 +1505,7 @@ Mentions: N-261
 Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Request the evidence-seizure record for Farnsworth's laptop and storage media.
+Open Questions: Q-1178
 
 ---
 
@@ -1508,6 +1523,7 @@ Related Nodes: N-10721, N-10014
 Supports: C-12216, C-4567
 Tags: relevance:core
 Investigative Direction: Check preliminary-hearing testimony and Google Drive share logs for the send date and recipient.
+Open Questions: Q-1178
 
 ---
 
@@ -1523,6 +1539,7 @@ Anchored Artifacts: A-2371.1
 Mentions: N-40
 Tags: relevance:core
 Investigative Direction: Find the official statements on where the gun was carried and when they changed.
+Open Questions: Q-766
 
 ---
 
@@ -1540,6 +1557,7 @@ Related Nodes: N-10165, N-10040
 Supports: C-13025
 Tags: relevance:core
 Investigative Direction: Identify the figure through independent comparison with known images and campus camera paths.
+Open Questions: Q-766
 
 ---
 
@@ -1556,6 +1574,7 @@ Mentions: N-7
 Related Nodes: N-11226
 Tags: relevance:core
 Investigative Direction: Check footage of Turek on return to UVU for scrubs and ask him directly.
+Open Questions: Q-888
 
 ---
 
@@ -1604,6 +1623,7 @@ Mentions: N-1
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Trace who first described the neck wound as a miracle and the medical basis claimed.
+Open Questions: Q-1170
 
 ---
 
@@ -1636,6 +1656,7 @@ Related Nodes: N-10100
 Supports: C-1972
 Tags: relevance:core
 Investigative Direction: Compare the host's tribute wording with the Clark and Kolvet episode and any attendance records.
+Open Questions: Q-1179
 
 ---
 
@@ -1732,6 +1753,7 @@ Related Nodes: N-10785
 Supports: C-13058
 Tags: relevance:core
 Investigative Direction: Check Vanity Fair's publication of the Erika Kirk article and the date of the host's contact.
+Open Questions: Q-1180
 
 ---
 
@@ -1748,6 +1770,7 @@ Mentions: N-2
 Related Nodes: N-11227, N-10000
 Tags: relevance:core
 Investigative Direction: Look for reporting or TPUSA board statements on a change in leadership.
+Open Questions: Q-1181
 
 ---
 
@@ -1763,6 +1786,7 @@ Anchored Artifacts: A-3162.1
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Count and triage tips received at the moretips address.
+Open Questions: Q-766
 
 ---
 
@@ -1779,6 +1803,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10751, N-10524
 Tags: relevance:core
 Investigative Direction: Identify the surgical team from hospital records and corroborate the recusal with a second source.
+Open Questions: Q-1166
 
 ---
 
@@ -1795,6 +1820,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10752, N-10524
 Tags: relevance:core
 Investigative Direction: Verify the nurse's employment and presence, and compare with the surgical record.
+Open Questions: Q-1182
 
 ---
 
@@ -1812,6 +1838,7 @@ Related Nodes: N-10593
 Supports: C-13023
 Tags: relevance:core
 Investigative Direction: Check the docket for the lawsuits referred to and any protective orders.
+Open Questions: Q-837
 
 ---
 
@@ -1843,6 +1870,7 @@ Mentions: N-1, N-3
 Supports: C-6424
 Tags: relevance:core
 Investigative Direction: Collect the messages and witnesses referencing Kirk wanting the host back.
+Open Questions: Q-1183
 
 ---
 
@@ -1858,6 +1886,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Identify messages or witnesses showing Kirk's state of mind and distrust in the final weeks.
+Open Questions: Q-1143
 
 ---
 
@@ -1874,6 +1903,7 @@ Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Find witnesses or messages in which Kirk questioned TPUSA's operations before September 10.
+Open Questions: Q-1175
 
 ---
 

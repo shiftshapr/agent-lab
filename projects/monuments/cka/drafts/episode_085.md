@@ -1442,6 +1442,7 @@ Related Nodes: N-10518, N-10297
 Supports: C-7587
 Tags: relevance:core
 Investigative Direction: Locate the November 2025 posts and episodes where the host first made the DGSE claim and compare the wording with this restatement; ask French authorities whether DGSE personnel were abroad on September 10, 2025.
+Open Questions: Q-346
 
 ---
 
@@ -1458,6 +1459,7 @@ Mentions: N-3
 Related Nodes: N-11047, N-10297
 Tags: relevance:core
 Investigative Direction: Identify every official or TPUSA figure who used the number 33 publicly and when; compare to ordinary coincidence rates (33 hours of manhunt, date and time counts).
+Open Questions: Q-244
 
 ---
 
@@ -1490,6 +1492,7 @@ Mentions: N-1
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Identify the speaker and source of the clip (press conference or interview) and the full sentence about the 33 minutes; the transcript does not name the speaker.
+Open Questions: Q-244, Q-709
 
 ---
 
@@ -1506,6 +1509,7 @@ Mentions: N-1
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Identify the speakers in the clip; compare with Kash Patel and Governor Cox press-conference transcripts for the 33-hour phrasing.
+Open Questions: Q-244
 
 ---
 
@@ -1522,6 +1526,7 @@ Mentions: N-40, N-3
 Related Nodes: N-11047
 Tags: relevance:core
 Investigative Direction: Check the Grand Lodge of Utah's list of lodges for the St. George lodge number and location; confirm that Robinson was taken to St. George (the Washington County Sheriff's Office).
+Open Questions: Q-244
 
 ---
 
@@ -1603,6 +1608,7 @@ Related Nodes: N-10297, N-10518
 Supports: C-3275
 Tags: relevance:core
 Investigative Direction: Ask the host for the date, recipients and content of the FBI and White House submissions; check FBI tip-line and FOIA records.
+Open Questions: Q-346
 
 ---
 
@@ -1700,6 +1706,7 @@ Mentions: N-1, N-36, N-3
 Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: Compare with documented Kirk statements against an Iran war in June 2025 and the June 18 White House meeting.
+Open Questions: Q-639
 
 ---
 
@@ -1716,6 +1723,7 @@ Mentions: N-7, N-190, N-17, N-3
 Related Nodes: N-10405
 Tags: relevance:core
 Investigative Direction: Compile verifiable military service and intelligence-career records for Turek, the McCoys and others named; separate documented service from the host's inference.
+Open Questions: Q-119
 
 ---
 
@@ -1732,6 +1740,7 @@ Mentions: N-69, N-3
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Pull Patel's September 2025 statements and posts and count uses of 33 (hours, minutes) against the actual timeline.
+Open Questions: Q-244
 
 ---
 
@@ -1748,6 +1757,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11046, N-10494
 Tags: relevance:core
 Investigative Direction: This is the host's thesis; test it against dated evidence of Kirk's Iran-war opposition and the timing of US action.
+Open Questions: Q-639
 
 ---
 
@@ -1764,6 +1774,7 @@ Mentions: N-14, N-3
 Supports: C-1185
 Tags: relevance:core
 Investigative Direction: Ask Kolvet whether he warned the host of a list; look for texts or witnesses to the exchange.
+Open Questions: Q-328
 
 ---
 
@@ -1780,6 +1791,7 @@ Mentions: N-3
 Related Nodes: N-10518
 Tags: relevance:core
 Investigative Direction: Ask the host for the basis of the alleged DGSE hit and whether any threat was reported to law enforcement.
+Open Questions: Q-328, Q-346
 
 ---
 
@@ -1797,6 +1809,7 @@ Related Nodes: N-10518
 Supports: C-7587
 Tags: relevance:core
 Investigative Direction: Check whether the French Ministry or Elysee commented; an earlier supplement notes a French Ministry denial about Robinson's Foreign Legion service (C-3349).
+Open Questions: Q-346
 
 ---
 
@@ -1829,6 +1842,7 @@ Mentions: N-3
 Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Ask the host which footage or tips show Australian or Russian personnel; none is shown in this episode.
+Open Questions: Q-346
 
 ---
 
@@ -1845,6 +1859,7 @@ Mentions: N-2, N-278, N-3
 Related Nodes: N-10327
 Tags: relevance:core
 Investigative Direction: Establish the recording date of the Weiss interview and the date of the host's meeting with Erika to confirm the 72-hour interval.
+Open Questions: Q-726
 
 ---
 
@@ -1863,6 +1878,7 @@ Supports: C-7406
 Contradicts: C-7593
 Tags: relevance:core
 Investigative Direction: Identify the lawyer who attended the meeting and obtain his account or notes; compare to Erika's on-air statement that she had seen the autopsy report and the case.
+Open Questions: Q-685, Q-726
 
 ---
 
@@ -1879,6 +1895,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10216
 Tags: relevance:core
 Investigative Direction: Check the case calendar (preliminary hearing, discovery deadlines) for a May 2026 milestone matching the lawyer's statement.
+Open Questions: Q-685, Q-714
 
 ---
 
@@ -1895,6 +1912,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10216
 Tags: relevance:core
 Investigative Direction: No evidence of coaching is shown; seek communications or staff accounts about preparation for the Weiss interview.
+Open Questions: Q-685, Q-726
 
 ---
 
@@ -1911,6 +1929,7 @@ Mentions: N-7, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Find video of Turek's recent UVU event and the Q&A exchange; identify the audience member's account.
+Open Questions: Q-27, Q-727
 
 ---
 
@@ -1927,6 +1946,7 @@ Mentions: N-7, N-190, N-2
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Match with call logs for Mikey McCoy at the hospital and with hospital staff accounts of who questioned the doctors.
+Open Questions: Q-212, Q-693
 
 ---
 
@@ -1944,6 +1964,7 @@ Related Nodes: N-10282
 Contradicts: C-7601
 Tags: relevance:core
 Investigative Direction: Obtain charter requests and flight-booking records for the Scottsdale-to-Provo plane to show who arranged it.
+Open Questions: Q-693
 
 ---
 
@@ -1960,6 +1981,7 @@ Mentions: N-2, N-186, N-597, N-3
 Related Nodes: N-10466
 Tags: relevance:core
 Investigative Direction: Ask Erika's family whether they were called that day and when; check phone records or statements.
+Open Questions: Q-704
 
 ---
 
@@ -1976,6 +1998,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10998, N-10522
 Tags: relevance:core
 Investigative Direction: Check the Charlie Kirk Show July 14, 2025 episode, SAS schedule and Kirk's travel records for the July 13-14 timeline.
+Open Questions: Q-728
 
 ---
 
@@ -2025,6 +2048,7 @@ Mentions: N-37, N-22, N-9, N-3
 Related Nodes: N-10027, N-10415
 Tags: relevance:core
 Investigative Direction: Match the summit date, attendee list and what Kirk asked about Epstein with the host's earlier Hamptons accounts and other attendees.
+Open Questions: Q-729
 
 ---
 
@@ -2041,6 +2065,7 @@ Mentions: N-2, N-597, N-674, N-3
 Related Nodes: N-10522, N-10998
 Tags: relevance:core
 Investigative Direction: Request the flight record for the July 14, 2025 trip (tail number, manifest, destination) and any Long Beach event or meeting.
+Open Questions: Q-728
 
 ---
 
@@ -2057,6 +2082,7 @@ Mentions: N-597, N-190, N-3
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff listings or LinkedIn for LoCastro's title and reporting line.
+Open Questions: Q-722
 
 ---
 
@@ -2073,6 +2099,7 @@ Mentions: N-674, N-3
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Request his DD-214-equivalent public record or Marine Security Guard unit history; verify through public military records.
+Open Questions: Q-119
 
 ---
 
@@ -2089,6 +2116,7 @@ Mentions: N-674, N-3
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Check public Marine and LinkedIn records for the Chile posting and the helicopter attack squadron assignment.
+Open Questions: Q-119
 
 ---
 
@@ -2105,6 +2133,7 @@ Mentions: N-674, N-3
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Check Arizona PI licensing and business records for the firm, and ASU graduation records.
+Open Questions: Q-119
 
 ---
 
@@ -2121,6 +2150,7 @@ Mentions: N-674, N-3
 Related Nodes: N-10000, N-10405
 Tags: relevance:core
 Investigative Direction: Check his LinkedIn or TPUSA job postings for these roles and dates.
+Open Questions: Q-119
 
 ---
 
@@ -2137,6 +2167,7 @@ Mentions: N-2, N-674, N-418, N-597, N-190, N-3
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Verify the manifest of the July 14 flight and Niekerk's role as Erika's security.
+Open Questions: Q-728
 
 ---
 
@@ -2153,6 +2184,7 @@ Mentions: N-2, N-674, N-418, N-3
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Check FAA flight data for the same-day round trip, and ask who met them in Long Beach.
+Open Questions: Q-728
 
 ---
 
@@ -2169,6 +2201,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11046
 Tags: relevance:core
 Investigative Direction: Name the individuals or interests alleged; the host offers no document in this episode.
+Open Questions: Q-639
 
 ---
 
@@ -2203,6 +2236,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3, S-4
 Investigative Direction: Check Brooksby's September 2025 press conferences and statements for his role and timing.
+Open Questions: Q-34, Q-730
 
 ---
 
@@ -2219,6 +2253,7 @@ Mentions: N-272, N-3
 Related Nodes: N-10029, N-11313
 Tags: relevance:core
 Investigative Direction: Check the Washington County Commission's appointment of an interim sheriff and the 2026 candidate filings.
+Open Questions: Q-730
 
 ---
 
@@ -2253,6 +2288,7 @@ Supports: C-1481
 Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Request the charging documents and any signed statements; compare with the Governor's 'confessed or implied' wording and the probable-cause affidavit.
+Open Questions: Q-713
 
 ---
 
@@ -2270,6 +2306,7 @@ Related Nodes: N-10021
 Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Check the probable-cause statement and docket for any recorded or signed admission, and for a statement by Robinson's father.
+Open Questions: Q-713
 
 ---
 
@@ -2287,6 +2324,7 @@ Related Nodes: N-10021, N-10136
 Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Seek the source and any corroborating witnesses; compare with Brooksby's statement that Robinson had suicidal ideation and was talked down by his parents.
+Open Questions: Q-34, Q-713
 
 ---
 
@@ -2304,6 +2342,7 @@ Related Nodes: N-10136
 Supports: C-1106
 Tags: relevance:core
 Investigative Direction: Check Scouting leadership rosters and Mitchell's retirement record against the host's earlier findings.
+Open Questions: Q-731
 
 ---
 
@@ -2321,6 +2360,7 @@ Related Nodes: N-10021
 Supports: C-976
 Tags: relevance:core
 Investigative Direction: Seek the source and any second witness to the conversation at the house; compare with Brooksby's account of the negotiation.
+Open Questions: Q-34
 
 ---
 
@@ -2338,6 +2378,7 @@ Related Nodes: N-10255, N-11360
 Supports: C-7402
 Tags: relevance:core
 Investigative Direction: Request the Washington County Sheriff's Office records on surveillance and body-camera footage for the surrender, and any retention policy explanation.
+Open Questions: Q-410
 
 ---
 
@@ -2355,6 +2396,7 @@ Related Nodes: N-10972, N-10336
 Supports: C-7403
 Tags: relevance:core
 Investigative Direction: Request K-9 deployment logs and chain-of-custody for the rifle; identify firsthand witnesses.
+Open Questions: Q-20
 
 ---
 
@@ -2371,6 +2413,7 @@ Mentions: N-3
 Related Nodes: N-10972
 Tags: relevance:core
 Investigative Direction: Interview local law enforcement participants; compare timestamped dispatch and CAD records with federal statements about the gun's location.
+Open Questions: Q-20
 
 ---
 
@@ -2388,6 +2431,7 @@ Related Nodes: N-10972
 Supports: C-7404
 Tags: relevance:core
 Investigative Direction: Obtain K-9 unit logs and search maps showing which areas the dogs covered.
+Open Questions: Q-20
 
 ---
 
@@ -2404,6 +2448,7 @@ Mentions: N-3
 Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Identify which images she means (the interior of Robinson's car) and when they first aired; ask her to document their provenance.
+Open Questions: Q-732
 
 ---
 
@@ -2421,6 +2466,7 @@ Related Nodes: N-10106
 Tags: relevance:core
 Qualifies: C-1958
 Investigative Direction: Her evidence is not shown in this episode; the host offers to debate and to testify for the defense.
+Open Questions: Q-21, Q-27
 
 ---
 
@@ -2454,6 +2500,7 @@ Related Nodes: N-10021
 Supports: C-976
 Tags: relevance:core
 Investigative Direction: Compare the full Brooksby press-conference transcript with the host's reading; he refers to an unnamed friend, not Mitchell, in the clips played.
+Open Questions: Q-34
 
 ---
 
@@ -2470,6 +2517,7 @@ Mentions: N-272
 Related Nodes: N-10021, N-10029
 Tags: relevance:core
 Investigative Direction: Identify the friend and the religious association; compare with the court documents describing him as a retired Washington County deputy.
+Open Questions: Q-34
 
 ---
 
@@ -2486,6 +2534,7 @@ Mentions: N-272, N-40, N-3
 Related Nodes: N-10137, N-10021
 Tags: relevance:core
 Investigative Direction: Reconcile the two statements in the full transcript of Brooksby's remarks and ask why the friend would relay the suicide concern.
+Open Questions: Q-34
 
 ---
 
@@ -2503,6 +2552,7 @@ Related Nodes: N-10146
 Supports: C-1108
 Tags: relevance:core
 Investigative Direction: Check the 1999 Salt Lake County article and Mitchell's career record against the host's earlier findings.
+Open Questions: Q-731
 
 ---
 
@@ -2519,6 +2569,7 @@ Mentions: N-125, N-40, N-3
 Related Nodes: N-10136
 Tags: relevance:core
 Investigative Direction: No evidence is offered; seek records of any federal contact with Mitchell before the surrender.
+Open Questions: Q-21, Q-731
 
 ---
 
@@ -2536,6 +2587,7 @@ Related Nodes: N-10022
 Supports: C-1481
 Tags: relevance:core
 Investigative Direction: Check any on-record statements by Matt Robinson or his lawyers and the court documents on what he told investigators.
+Open Questions: Q-713
 
 ---
 
@@ -2552,6 +2604,7 @@ Mentions: N-775, N-40, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Identify the sources; compare the staircase photos with known photos of Robinson; check affidavit language on recognition.
+Open Questions: Q-712
 
 ---
 
@@ -2568,6 +2621,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10148
 Tags: relevance:core
 Investigative Direction: Compare the staircase image to publicly posted photos of the named person; this is a visual comparison by the host, not an identification by investigators.
+Open Questions: Q-712
 
 ---
 
@@ -2584,6 +2638,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Trace the original source of each press claim (Fox, Cox, FBI) to see whether federal officials were the origin.
+Open Questions: Q-712, Q-733
 
 ---
 
@@ -2600,6 +2655,7 @@ Mentions: N-69, N-3, N-410
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Review Patel's posts on September 10-11, 2025 about an early detention and release, and the person involved.
+Open Questions: Q-734
 
 ---
 
@@ -2617,6 +2673,7 @@ Related Nodes: N-10332
 Supports: C-7247
 Tags: relevance:core
 Investigative Direction: Review Kent's statements and the New York Times reporting on the Patel-Kent exchange (C-1966, C-1967).
+Open Questions: Q-688
 
 ---
 
@@ -2633,6 +2690,7 @@ Mentions: N-209, N-69, N-3
 Related Nodes: N-10332, N-10000
 Tags: relevance:core
 Investigative Direction: List Patel's appearances on the Charlie Kirk Show since September 2025 and TPUSA's public statements about Kent.
+Open Questions: Q-687
 
 ---
 
@@ -2649,6 +2707,7 @@ Mentions: N-41, N-40, N-3
 Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Check Cox's September 11-12 statements for his sources and whether he said he attended the surrender.
+Open Questions: Q-733
 
 ---
 
@@ -2666,6 +2725,7 @@ Related Nodes: N-10021, N-11360
 Supports: C-7656
 Tags: relevance:core
 Investigative Direction: Review the video of the Cox and Patel press conference for the exact language used on confession.
+Open Questions: Q-713, Q-733
 
 ---
 
@@ -2682,6 +2742,7 @@ Mentions: N-41, N-40
 Related Nodes: N-10021, N-10012
 Tags: relevance:core
 Investigative Direction: Request Utah County Sheriff and FBI logs of when the tip from Washington County was received.
+Open Questions: Q-733
 
 ---
 
@@ -2699,6 +2760,7 @@ Related Nodes: N-10021, N-11360
 Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Compare to full transcripts of Brooksby's press conferences (C-3227, C-3229).
+Open Questions: Q-713, Q-735
 
 ---
 
@@ -2715,6 +2777,7 @@ Mentions: N-272, N-125, N-775, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Find where Brooksby said this; it does not appear in the two clips played in this episode.
+Open Questions: Q-735
 
 ---
 
@@ -2731,6 +2794,7 @@ Mentions: N-125, N-775, N-3
 Related Nodes: N-10136, N-10022
 Tags: relevance:core
 Investigative Direction: Find any public statement by Mitchell for the Robinson family and any police-station statement signed by him.
+Open Questions: Q-735
 
 ---
 
@@ -2747,6 +2811,7 @@ Mentions: N-272, N-40
 Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Review the full press conference for context and compare with C-7663.
+Open Questions: Q-713
 
 ---
 
@@ -2811,6 +2876,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10412
 Tags: relevance:core
 Investigative Direction: Check the NYT article date and text for the quoted remarks.
+Open Questions: Q-736
 
 ---
 
@@ -2827,6 +2893,7 @@ Mentions: N-99, N-3
 Related Nodes: N-10412
 Tags: relevance:core
 Investigative Direction: Find the original Alex Clark interview or post with these words; the host paraphrases and gives no clip.
+Open Questions: Q-737
 
 ---
 
@@ -2860,6 +2927,7 @@ Related Nodes: N-10124, N-10501
 Supports: C-1268
 Tags: relevance:core
 Investigative Direction: Check Orem Police staffing changes since September 2025 and Joe Kent's resignation date.
+Open Questions: Q-738
 
 ---
 
@@ -2876,6 +2944,7 @@ Mentions: N-3
 Related Nodes: N-10972, N-10523
 Tags: relevance:core
 Investigative Direction: Check the FBI/ATF lab reports and court filings for the number of latent prints on the rifle.
+Open Questions: Q-93
 
 ---
 
@@ -2893,6 +2962,7 @@ Related Nodes: N-10523, N-10567, N-10972
 Supports: C-7403
 Tags: relevance:core
 Investigative Direction: Review the ATF ballistics comparison finding and any later report; the ATF finding is described as inconclusive in an existing node.
+Open Questions: Q-20, Q-75, Q-717
 
 ---
 
@@ -2942,6 +3012,7 @@ Mentions: N-610, N-14, N-3
 Related Nodes: N-10840
 Tags: relevance:core
 Investigative Direction: Find direct communications or reporting linking Reed Kraus and Kolvet; compare with the host's earlier claims.
+Open Questions: Q-739
 
 ---
 
@@ -2974,6 +3045,7 @@ Mentions: N-22, N-14, N-3, N-1
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Check her phone call and text records for September 10, 2025; she invites publication of phone records as a standard.
+Open Questions: Q-740
 
 ---
 
@@ -3037,6 +3109,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11049, N-10113
 Tags: relevance:core
 Investigative Direction: Identify the site, registrant and hosting records via WHOIS and the Internet Archive; the host did not give the URL on air.
+Open Questions: Q-741
 
 ---
 
@@ -3053,6 +3126,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11049, N-10113
 Tags: relevance:core
 Investigative Direction: Find the original source of the priest account (the earlier episode attributes it to a Megyn Kelly relay) and verify through the priest or witnesses.
+Open Questions: Q-741
 
 ---
 

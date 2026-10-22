@@ -1490,6 +1490,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2
 Investigative Direction: Compare with the UVU and bystander video of the first minute after the shot, and ask O'Neill for his source on the SIM card and camera removal.
+Open Questions: Q-231, Q-980
 
 ---
 
@@ -1507,6 +1508,7 @@ Related Nodes: N-10668
 Supports: C-1465
 Tags: relevance:core
 Investigative Direction: Obtain UVU or contractor records of when the paving at the scene was done.
+Open Questions: Q-981
 
 ---
 
@@ -1539,6 +1541,7 @@ Mentions: N-944, N-153, N-1
 Related Nodes: N-10668
 Tags: relevance:core
 Investigative Direction: Ask Holt what he saw that supports an explosion and compare with the autopsy and wound descriptions.
+Open Questions: Q-930
 
 ---
 
@@ -1587,6 +1590,7 @@ Mentions: N-41, N-40, N-3
 Related Nodes: N-10669
 Tags: relevance:core
 Investigative Direction: Compare the dates of Robinson's arrest and the text message seizure with the September 12 briefing.
+Open Questions: Q-982
 
 ---
 
@@ -1603,6 +1607,7 @@ Mentions: N-41, N-3
 Related Nodes: N-10669, N-10019
 Tags: relevance:core
 Investigative Direction: Check the charging documents and photos for the two garments Cox meant.
+Open Questions: Q-982
 
 ---
 
@@ -1637,6 +1642,7 @@ Related Nodes: N-10086
 Supports: C-644
 Tags: relevance:core
 Investigative Direction: Obtain the full Newsmax interview and compare with the evidence photo of the screwdriver and the rifle's fasteners.
+Open Questions: Q-983
 
 ---
 
@@ -1653,6 +1659,7 @@ Mentions: N-3
 Related Nodes: N-10086, N-10698
 Tags: relevance:core
 Investigative Direction: Review the investigative record on where and when the rifle was assembled.
+Open Questions: Q-983
 
 ---
 
@@ -1669,6 +1676,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10086, N-10703
 Tags: relevance:core
 Investigative Direction: Obtain the FBI DNA report on the screwdriver and its chain of custody. (Speculation framed as a question by the host.)
+Open Questions: Q-971, Q-972
 
 ---
 
@@ -1686,6 +1694,7 @@ Related Nodes: N-10086
 Supports: C-125
 Tags: relevance:core
 Investigative Direction: Locate Patel's original statement about the screwdriver and DNA and the date it was made.
+Open Questions: Q-971, Q-983
 
 ---
 
@@ -1702,6 +1711,7 @@ Mentions: N-378
 Related Nodes: N-10086
 Tags: relevance:core
 Investigative Direction: Review Bongino's other September 15 appearance for what he withheld and the reason he gave.
+Open Questions: Q-970
 
 ---
 
@@ -1718,6 +1728,7 @@ Mentions: N-378
 Related Nodes: N-10665
 Tags: relevance:core
 Investigative Direction: Establish when Bongino visited the roof and which camera he meant.
+Open Questions: Q-970
 
 ---
 
@@ -1734,6 +1745,7 @@ Mentions: N-89, N-606, N-3
 Related Nodes: N-10665
 Tags: relevance:core
 Investigative Direction: Identify when and by whom the footage was shown to the influencers and compare the resolution with the September releases.
+Open Questions: Q-970
 
 ---
 
@@ -1750,6 +1762,7 @@ Mentions: N-3
 Related Nodes: N-11318, N-10019
 Tags: relevance:core
 Investigative Direction: Obtain the source's original recording and statement and compare it with the released rooftop footage.
+Open Questions: Q-954
 
 ---
 
@@ -1766,6 +1779,7 @@ Mentions: N-3
 Related Nodes: N-11318
 Tags: relevance:core
 Investigative Direction: Enhance the released rooftop frames and compare with the towel recovered with the rifle. (Theory of the host, not a finding.)
+Open Questions: Q-975
 
 ---
 
@@ -1783,6 +1797,7 @@ Related Nodes: N-11318, N-10032
 Supports: C-1470
 Tags: relevance:core
 Investigative Direction: Compare the runner's timeline against the shot time and the recovery location of the rifle. (Theory of the host, not a finding.)
+Open Questions: Q-957
 
 ---
 
@@ -1799,6 +1814,7 @@ Mentions: N-3
 Related Nodes: N-11318
 Tags: relevance:core
 Investigative Direction: Ask the FBI and Utah investigators for contact logs of witnesses who submitted rooftop video.
+Open Questions: Q-953, Q-954
 
 ---
 
@@ -1815,6 +1831,7 @@ Mentions: N-3
 Related Nodes: N-11318, N-10654
 Tags: relevance:core
 Investigative Direction: Map the location of the recovered items against the bus stop and the runner's route. (Theory of the host, not a finding.)
+Open Questions: Q-955, Q-975
 
 ---
 
@@ -1831,6 +1848,7 @@ Mentions: N-505, N-3
 Related Nodes: N-10654
 Tags: relevance:core
 Investigative Direction: Obtain the evidence log showing who recovered the backpack, gloves and jacket and when.
+Open Questions: Q-955
 
 ---
 
@@ -1849,6 +1867,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Pull Faumuina's testimony or interview where she said she did not recall and the evidence-handling forms.
+Open Questions: Q-951
 
 ---
 
@@ -1881,6 +1900,7 @@ Mentions: N-505, N-3
 Related Nodes: N-10670
 Tags: relevance:core
 Investigative Direction: Request Utah DPS employment history and certification records for Faumuina for 2013–2018.
+Open Questions: Q-984
 
 ---
 
@@ -1897,6 +1917,7 @@ Mentions: N-505, N-3
 Related Nodes: N-10670
 Tags: relevance:core
 Investigative Direction: Request Weber State employment records and Utah POST certifications for Faumuina.
+Open Questions: Q-984
 
 ---
 
@@ -1913,6 +1934,7 @@ Mentions: N-505, N-3
 Related Nodes: N-10670
 Tags: relevance:core
 Investigative Direction: Check the Utah state salary database for Faumuina's pay and rank by year.
+Open Questions: Q-984
 
 ---
 
@@ -1929,6 +1951,7 @@ Mentions: N-3
 Related Nodes: N-10667, N-11221
 Tags: relevance:core
 Investigative Direction: Confirm the appointment date and appointee through the Utah Department of Health and Human Services.
+Open Questions: Q-985
 
 ---
 
@@ -1945,6 +1968,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10667
 Tags: relevance:core
 Investigative Direction: Build a table of Utah and federal appointments from 2024 to September 2025 with dates and appointing authorities.
+Open Questions: Q-985
 
 ---
 
@@ -1962,6 +1986,7 @@ Related Nodes: N-10667
 Supports: C-1121
 Tags: relevance:core
 Investigative Direction: Confirm the prior Salt Lake City special agent in charge, the date he left and Bowles's previous posting.
+Open Questions: Q-985
 
 ---
 
@@ -2123,6 +2148,7 @@ Mentions: N-1, N-3
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Ask the host for the specific evidence tying Israel to the assassination; this is a stated belief. (A stated belief, not a finding.)
+Open Questions: Q-978
 
 ---
 
@@ -2156,6 +2182,7 @@ Related Nodes: N-10636
 Supports: C-10094
 Tags: relevance:core
 Investigative Direction: Obtain the unedited Shawn Ryan audio and compare with Harpole's sworn statements.
+Open Questions: Q-915
 
 ---
 
@@ -2173,6 +2200,7 @@ Related Nodes: N-10625, N-10636
 Supports: C-10093
 Tags: relevance:core
 Investigative Direction: Compare with the ambulance and hospital arrival times and the length of the ride in dispatch logs.
+Open Questions: Q-915, Q-969
 
 ---
 
@@ -2189,6 +2217,7 @@ Mentions: N-7, N-266
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Compare Harpole's account of the last minute of the ride with Turek's.
+Open Questions: Q-915
 
 ---
 
@@ -2222,6 +2251,7 @@ Related Nodes: N-10636
 Supports: C-10327
 Tags: relevance:core
 Investigative Direction: Compare Harpole's interview and deposition statements about what he was doing in the car.
+Open Questions: Q-915
 
 ---
 
@@ -2239,6 +2269,7 @@ Related Nodes: N-10625
 Supports: C-10332
 Tags: relevance:core
 Investigative Direction: Identify who first said the door was open because of Kirk's legs and compare with the layout of the vehicle seats.
+Open Questions: Q-915
 
 ---
 
@@ -2273,6 +2304,7 @@ Mentions: N-3
 Related Nodes: N-10666, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA group booking, folio or expense records for September 10.
+Open Questions: Q-986
 
 ---
 
@@ -2289,6 +2321,7 @@ Mentions: N-159
 Related Nodes: N-10666, N-10651
 Tags: relevance:core
 Investigative Direction: Obtain the first interview recording or notes and compare with the second.
+Open Questions: Q-943
 
 ---
 
@@ -2305,6 +2338,7 @@ Mentions: N-159
 Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Compare with Neff's flight and return travel records for September 10 and 11.
+Open Questions: Q-943
 
 ---
 
@@ -2321,6 +2355,7 @@ Mentions: N-159
 Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Get TPUSA's lodging list for the trip and the hotel's guest records through legal process.
+Open Questions: Q-986
 
 ---
 
@@ -2337,6 +2372,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Identify the clothing purchases (stores, times, cardholders) referred to by the host.
+Open Questions: Q-986
 
 ---
 
@@ -2353,6 +2389,7 @@ Mentions: N-159, N-1, N-3
 Related Nodes: N-10666, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the flight manifest and TPUSA's travel list for September 9 and 10.
+Open Questions: Q-986
 
 ---
 
@@ -2369,6 +2406,7 @@ Mentions: N-4, N-3
 Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Check the Vice President's September 10 and 11 schedule and Secret Service advance plans. (Speculation by the host.)
+Open Questions: Q-986
 
 ---
 
@@ -2385,6 +2423,7 @@ Mentions: N-3
 Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Record the tip volume and whether a hotel is later identified. (DIA tip line request.)
+Open Questions: Q-986
 
 ---
 
@@ -2403,6 +2442,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-11750
 Investigative Direction: Obtain the FBI hotel booking records and TPUSA group lodging records.
+Open Questions: Q-986
 
 ---
 
@@ -2419,6 +2459,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the staffer, the date of the firing and the statements the host says were lies.
+Open Questions: Q-987
 
 ---
 
@@ -2451,6 +2492,7 @@ Mentions: N-14, N-688, N-3
 Related Nodes: N-10671
 Tags: relevance:core
 Investigative Direction: Find the account the Lt. Col. was replying to and what it claimed.
+Open Questions: Q-988
 
 ---
 
@@ -2467,6 +2509,7 @@ Mentions: N-688
 Related Nodes: N-10671
 Tags: relevance:core
 Investigative Direction: Verify the unit, dates and orders for the trip through the Army or the National Guard.
+Open Questions: Q-988
 
 ---
 
@@ -2483,6 +2526,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10671
 Tags: relevance:core
 Investigative Direction: Pull Andrew Kolvet's reply on X with its date.
+Open Questions: Q-988
 
 ---
 
@@ -2499,6 +2543,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10671, N-10390
 Tags: relevance:core
 Investigative Direction: Check Kolvet's residence history and earlier public mentions of Fort Huachuca by him or the Frantzve family. (Host's inference, not a document.)
+Open Questions: Q-988
 
 ---
 
@@ -2531,6 +2576,7 @@ Mentions: N-97, N-3
 Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Wait for the promised identification this week and check it against the September 10 call timeline.
+Open Questions: Q-989
 
 ---
 
@@ -2547,6 +2593,7 @@ Mentions: N-3
 Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Check the following episodes of this week for the promised disclosure.
+Open Questions: Q-989
 
 ---
 
@@ -2595,6 +2642,7 @@ Mentions: N-40, N-3
 Related Nodes: N-11321, N-10243, N-10255
 Tags: relevance:core
 Investigative Direction: Request the camera inventory and retained footage for Utah County from Flock, UDOT and UVU.
+Open Questions: Q-31
 
 ---
 
@@ -2612,6 +2660,7 @@ Related Nodes: N-11318
 Supports: C-1470
 Tags: relevance:core
 Investigative Direction: Check whether any recorded video or audio places the rooftop man at the moment of the shot. (Belief of the host, not a finding.)
+Open Questions: Q-957
 
 ---
 
@@ -2629,6 +2678,7 @@ Related Nodes: N-10668
 Supports: C-10953
 Tags: relevance:core
 Investigative Direction: Commission an independent forensic analysis of the shirt motion in the published footage.
+Open Questions: Q-930
 
 ---
 
@@ -2645,6 +2695,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Monitor trial filings and witness lists for any TPUSA employee who claims to have seen Robinson before the shooting. (A prediction by the host.)
+Open Questions: Q-414
 
 ---
 
@@ -2661,6 +2712,7 @@ Mentions: N-3
 Related Nodes: N-10356, N-10324
 Tags: relevance:core
 Investigative Direction: Obtain records of who removed the cameras at the site and who authorized it.
+Open Questions: Q-980
 
 ---
 
@@ -2710,6 +2762,7 @@ Related Nodes: N-10086
 Supports: C-644
 Tags: relevance:core
 Investigative Direction: Test the recovered screwdriver against the rifle's fasteners.
+Open Questions: Q-983
 
 ---
 
@@ -2726,6 +2779,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Locate the clip, its date and the exact words Erika Kirk used.
+Open Questions: Q-491
 
 ---
 
@@ -2743,6 +2797,7 @@ Related Nodes: N-10494, N-11046
 Supports: C-7248
 Tags: relevance:core
 Investigative Direction: Collect the specific statements by Carlson, Weinstein and Kent and their dates.
+Open Questions: Q-491
 
 ---
 
@@ -2759,6 +2814,7 @@ Mentions: N-2, N-11, N-1, N-3
 Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Trace Erika Kirk's relationships and roles with Bowyer and the Farnsworths before and after the marriage. (Host's thesis.)
+Open Questions: Q-990
 
 ---
 
@@ -2775,6 +2831,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: List the individuals the host means and document Charlie Kirk's own statements about each.
+Open Questions: Q-990
 
 ---
 

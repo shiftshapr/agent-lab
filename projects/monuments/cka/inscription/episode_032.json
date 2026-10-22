@@ -2799,7 +2799,11 @@
         "N-257"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-309",
+        "Q-317"
+      ]
     },
     {
       "@type": "Claim",
@@ -2999,7 +3003,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-310"
+      ]
     },
     {
       "@type": "Claim",
@@ -3064,7 +3071,10 @@
         "N-246"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-300"
+      ]
     },
     {
       "@type": "Claim",
@@ -3088,7 +3098,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-319"
+      ]
     },
     {
       "@type": "Claim",
@@ -3110,7 +3123,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-155"
+      ]
     },
     {
       "@type": "Claim",
@@ -3134,7 +3150,11 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-155",
+        "Q-316"
+      ]
     },
     {
       "@type": "Claim",
@@ -3157,7 +3177,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-320"
+      ]
     },
     {
       "@type": "Claim",
@@ -3180,7 +3203,10 @@
         "N-258"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-301"
+      ]
     },
     {
       "@type": "Claim",
@@ -3205,7 +3231,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-319"
+      ]
     },
     {
       "@type": "Claim",
@@ -3230,7 +3259,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-319"
+      ]
     },
     {
       "@type": "Claim",
@@ -3256,7 +3288,10 @@
         "N-246"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-319"
+      ]
     },
     {
       "@type": "Claim",
@@ -3282,7 +3317,11 @@
         "N-246"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-302",
+        "Q-321"
+      ]
     },
     {
       "@type": "Claim",
@@ -3307,7 +3346,11 @@
         "N-246"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-302",
+        "Q-322"
+      ]
     },
     {
       "@type": "Claim",
@@ -3418,7 +3461,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-306"
+      ]
     },
     {
       "@type": "Claim",
@@ -3441,7 +3487,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-306"
+      ]
     },
     {
       "@type": "Claim",
@@ -3511,7 +3560,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-6"
+      ]
     }
   ],
   "memes": [

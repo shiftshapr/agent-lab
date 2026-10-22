@@ -893,6 +893,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Confirm the call date and invitee list through TPUSA internal calendar invitations or the leaked recording's metadata.
+Open Questions: Q-518
 
 ---
 
@@ -925,6 +926,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare the figure against TPUSA and Turning Point Action donation disclosures, Form 990 filings and any public statements by the organization.
+Open Questions: Q-510
 
 ---
 
@@ -941,6 +943,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10000, N-10408, N-10456
 Tags: relevance:core
 Investigative Direction: Obtain termination notices or severance paperwork for staff who worked on the memorial and check the stated reasons and dates.
+Open Questions: Q-503, Q-518
 
 ---
 
@@ -973,6 +976,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Verify the call date from recording metadata or the Zoom invitation and identify who recorded and leaked it.
+Open Questions: Q-519
 
 ---
 
@@ -989,6 +993,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Establish the date, venue and attendee list of the funeral mass through the church or TPUSA statements.
+Open Questions: Q-520
 
 ---
 
@@ -1005,6 +1010,7 @@ Mentions: N-3
 Related Nodes: N-10193, N-10000
 Tags: relevance:core
 Investigative Direction: Identify which donors attended the funeral mass and how invitations were issued.
+Open Questions: Q-520
 
 ---
 
@@ -1037,6 +1043,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10826, N-10889
 Tags: relevance:core
 Investigative Direction: Locate the original New York Times article and confirm the wording and the date of the interview.
+Open Questions: Q-521
 
 ---
 
@@ -1069,6 +1076,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10193, N-11361
 Tags: relevance:core
 Investigative Direction: Confirm the funeral mass date, time and venue through the church or contemporaneous reporting.
+Open Questions: Q-520
 
 ---
 
@@ -1101,6 +1109,7 @@ Mentions: N-3, N-2, N-217, N-190
 Related Nodes: N-11361
 Tags: relevance:core
 Investigative Direction: Identify the restaurant and attendees via receipts, reservations or the host's email source.
+Open Questions: Q-522
 
 ---
 
@@ -1117,6 +1126,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the full 15-minute recording and compare the aired excerpts against it for context.
+Open Questions: Q-519
 
 ---
 
@@ -1133,6 +1143,7 @@ Mentions: N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare the stated voter registration and merch figures with TPUSA sales data and later disclosures.
+Open Questions: Q-523
 
 ---
 
@@ -1149,6 +1160,7 @@ Mentions: N-2
 Related Nodes: N-10000, N-10408, N-11361
 Tags: relevance:core
 Investigative Direction: Interview staff who worked on the memorial about hours and sleep, and compare with payroll or badge records.
+Open Questions: Q-524
 
 ---
 
@@ -1165,6 +1177,7 @@ Mentions: N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Establish whether internal TPUSA conflicts existed at the time and who the message was aimed at.
+Open Questions: Q-519
 
 ---
 
@@ -1197,6 +1210,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Compare the call's stated work pace with TPUSA event and staffing records after September 10.
+Open Questions: Q-519
 
 ---
 
@@ -1213,6 +1227,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare the claimed chapter requests and new donors with TPUSA's own later statements, filings and donor-platform data.
+Open Questions: Q-523
 
 ---
 
@@ -1245,6 +1260,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10000, N-10412
 Tags: relevance:core
 Investigative Direction: Interview employees who were on the call, preferably on the record, about how the paid time off message was received.
+Open Questions: Q-524
 
 ---
 
@@ -1261,6 +1277,7 @@ Mentions: N-2, N-1, N-15
 Related Nodes: N-10413
 Tags: relevance:core
 Investigative Direction: Ask Justin Streiff and TPUSA board members to confirm the 2030 planning conversations and the timing of his COO appointment.
+Open Questions: Q-525
 
 ---
 
@@ -1277,6 +1294,7 @@ Mentions: N-2, N-15
 Related Nodes: N-10413, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain board minutes and executive team announcements on the 2030 plan.
+Open Questions: Q-525
 
 ---
 
@@ -1293,6 +1311,7 @@ Mentions: N-2
 Related Nodes: N-10000, N-10412
 Tags: relevance:core
 Investigative Direction: Compare Erika's tone on this call with her public statements from the same period.
+Open Questions: Q-519
 
 ---
 
@@ -1309,6 +1328,7 @@ Mentions: N-3, N-2, N-186
 Related Nodes: N-10000, N-10408
 Tags: relevance:core
 Investigative Direction: Interview former staff about Erika's office attendance in September 2025, and check badge or calendar records and Sheridan's role at TPUSA.
+Open Questions: Q-526
 
 ---
 
@@ -1356,6 +1376,7 @@ Mentions: N-3, N-1, N-456
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare with published founding accounts of TPUSA and Charlie Kirk's own statements on West Point.
+Open Questions: Q-498
 
 ---
 
@@ -1387,6 +1408,7 @@ Mentions: N-3, N-456
 Related Nodes: N-10203
 Tags: relevance:core
 Investigative Direction: Obtain Montgomery's military service record, obituary and Nebraska residence history.
+Open Questions: Q-527
 
 ---
 
@@ -1403,6 +1425,7 @@ Mentions: N-3, N-456, N-1
 Related Nodes: N-11040
 Tags: relevance:core
 Investigative Direction: Establish when and why Montgomery moved to the Chicago area using public records and obituaries.
+Open Questions: Q-527
 
 ---
 
@@ -1595,6 +1618,7 @@ Related Nodes: N-11040, N-10395
 Supports: C-5073
 Tags: relevance:core
 Investigative Direction: Seek confirmation from Charlie's family or school records; the host relays a private conversation.
+Open Questions: Q-528
 
 ---
 
@@ -1675,6 +1699,7 @@ Mentions: N-3, N-495
 Related Nodes: N-10414, N-10201
 Tags: relevance:core
 Investigative Direction: Locate the Brave Report posts and Moore's own statements on her background.
+Open Questions: Q-529
 
 ---
 
@@ -1691,6 +1716,7 @@ Mentions: N-495, N-22, N-767
 Related Nodes: N-10414, N-10201
 Tags: relevance:core
 Investigative Direction: Identify the date of the Tampa conference and compare the account with video of Carlson's and Bachmann's sessions.
+Open Questions: Q-529, Q-530
 
 ---
 
@@ -1707,6 +1733,7 @@ Mentions: N-495, N-767, N-1, N-22
 Related Nodes: N-10414, N-10201
 Tags: relevance:core
 Investigative Direction: Review the Tampa conference footage for the booing, walkouts and any remarks by Charlie Kirk afterward.
+Open Questions: Q-529, Q-530
 
 ---
 
@@ -1849,6 +1876,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10392
 Tags: relevance:core
 Investigative Direction: Compare Erika's recorded statements about China with her documented residences; the host presents this as a lie.
+Open Questions: Q-531
 
 ---
 
@@ -1864,6 +1892,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2
 Tags: relevance:core
 Investigative Direction: Locate Erika's original statement and any clarification; test it against known relationships in the period.
+Open Questions: Q-531
 
 ---
 
@@ -1880,6 +1909,7 @@ Mentions: N-3, N-14, N-2
 Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Review the earlier episode on the Paramount Tactical tweet and Kolvet's response.
+Open Questions: Q-532
 
 ---
 
@@ -1896,6 +1926,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10408
 Tags: relevance:core
 Investigative Direction: Interview former employees about access to Erika; the host relays second-hand accounts.
+Open Questions: Q-526
 
 ---
 
@@ -1928,6 +1959,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA's donor breakdown in Form 990 filings and public disclosures.
+Open Questions: Q-533
 
 ---
 
@@ -1975,6 +2007,7 @@ Mentions: N-3, N-14, N-270, N-2, N-1
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Ask Kolvet, Flood and the FBI when Erika was told of Charlie's night-before messages and fears.
+Open Questions: Q-534
 
 ---
 
@@ -1991,6 +2024,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-11361
 Tags: relevance:core
 Investigative Direction: Identify the restaurant and the host's source for the account of the dinner.
+Open Questions: Q-522
 
 ---
 

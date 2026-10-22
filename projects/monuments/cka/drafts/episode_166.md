@@ -615,6 +615,7 @@ Mentions:
 Related Nodes: N-10000, N-11350
 Tags: relevance:core
 Investigative Direction: Archived versions of the local article and TPUSA / Club America chapter pages for Bonners Ferry, Idaho.
+Open Questions: Q-1281, Q-1284
 
 ---
 
@@ -631,6 +632,7 @@ Mentions:
 Related Nodes: N-10846, N-11348, N-11349
 Tags: relevance:core
 Investigative Direction: The Turning Point Action donor email itself and Turning Point Action / Turning Point PAC FEC filings for September–October 2026.
+Open Questions: Q-1285
 
 ---
 
@@ -647,6 +649,7 @@ Mentions: N-41
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The governor's office's published schedule release for September 8–14, 2025.
+Open Questions: Q-1280
 
 ---
 
@@ -663,6 +666,7 @@ Mentions: N-41
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The governor's office's confirmation of the dates, and the original schedule release for September 8–14, 2025.
+Open Questions: Q-1280
 
 ---
 
@@ -680,6 +684,7 @@ Related Nodes: N-11342
 Tags: relevance:core
 Revises: C-14244
 Investigative Direction: The governor's calendar and visitor log for September 9, 2025, and Clancy's own schedule.
+Open Questions: Q-1286
 
 ---
 
@@ -696,6 +701,7 @@ Mentions: N-957, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Provo Police Department dispatch and assignment records for September 10, 2025.
+Open Questions: Q-1271
 
 ---
 
@@ -712,6 +718,7 @@ Mentions: N-957, N-2
 Related Nodes: N-10071
 Tags: relevance:core
 Investigative Direction: Provo police radio recordings for September 10, 2025, and identification of the speaker and of "Sergeant DePay".
+Open Questions: Q-1271
 
 ---
 
@@ -728,6 +735,7 @@ Mentions: N-957
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Voice comparison with Clancy's public interviews, and the radio call sign log.
+Open Questions: Q-1271
 
 ---
 
@@ -744,6 +752,7 @@ Mentions: N-957
 Related Nodes: N-11339, N-10000
 Tags: relevance:core
 Investigative Direction: Provo police evidence and property logs for September 10, 2025, and the statements of Clancy and witnesses.
+Open Questions: Q-1266
 
 ---
 
@@ -760,6 +769,7 @@ Mentions: N-7, N-957
 Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Turek's interview in which he describes the bag, and Clancy's account.
+Open Questions: Q-1266
 
 ---
 
@@ -776,6 +786,7 @@ Mentions: N-7, N-1
 Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Turek's recorded interview, and the vehicle occupants' accounts of the ride to Timpanogos / Utah Valley hospital.
+Open Questions: Q-1266
 
 ---
 
@@ -792,6 +803,7 @@ Mentions: N-957
 Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Interviews with the people Clancy reportedly told, and any Provo police report on the item.
+Open Questions: Q-1266
 
 ---
 
@@ -808,6 +820,7 @@ Mentions:
 Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Provo Police Department evidence-handling policy.
+Open Questions: Q-1266
 
 ---
 
@@ -824,6 +837,7 @@ Mentions: N-41, N-1
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Personnel assignments in the state agencies on the case, and promotions after September 10, 2025.
+Open Questions: Q-1275
 
 ---
 
@@ -840,6 +854,7 @@ Mentions: N-41
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Cox's press conferences and statements of September 10–12, 2025.
+Open Questions: Q-1287
 
 ---
 
@@ -857,6 +872,7 @@ Related Nodes: N-10012
 Supports: C-10961, C-10963
 Tags: relevance:core
 Investigative Direction: Video of the September 12, 2025 press conference and the timeline of the surveillance footage review.
+Open Questions: Q-1288
 
 ---
 
@@ -874,6 +890,7 @@ Related Nodes:
 Supports: C-10961
 Tags: relevance:core
 Investigative Direction: The charging documents and surveillance footage on the suspect's clothing.
+Open Questions: Q-1288
 
 ---
 
@@ -890,6 +907,7 @@ Mentions: N-41, N-955, N-957
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: Golf-course tee-time records for the morning of September 10, 2025, and the governor's security detail logs.
+Open Questions: Q-1269, Q-1280, Q-1286
 
 ---
 
@@ -906,6 +924,7 @@ Mentions: N-41, N-955
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The published schedule for September 10, 2025.
+Open Questions: Q-1269, Q-1280
 
 ---
 
@@ -922,6 +941,7 @@ Mentions: N-41
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The Rally Connects 2025 event program and attendee photos.
+Open Questions: Q-1280
 
 ---
 
@@ -938,6 +958,7 @@ Mentions: N-41
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The LinkedIn post and its timestamp, and the AV company's records.
+Open Questions: Q-1280
 
 ---
 
@@ -954,6 +975,7 @@ Mentions: N-41
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: Utah DEQ records or photos of the September 10, 2025 staff picnic.
+Open Questions: Q-1280
 
 ---
 
@@ -970,6 +992,7 @@ Mentions: N-41, N-955
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: Golf-course tee sheets for early September 10, 2025, and the travel time to Mona.
+Open Questions: Q-1269, Q-1280
 
 ---
 
@@ -986,6 +1009,7 @@ Mentions: N-955, N-41
 Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The governor's office response to the host's inquiry, and records of Val Peterson's whereabouts on September 10, 2025.
+Open Questions: Q-1269
 
 ---
 
@@ -1018,6 +1042,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10000, N-10488
 Tags: relevance:core
 Investigative Direction: Background checks and court records for TPUSA and TPUSA Faith staff.
+Open Questions: Q-1289
 
 ---
 
@@ -1162,6 +1187,7 @@ Mentions: N-965
 Related Nodes: N-10000, N-11350
 Tags: relevance:core
 Investigative Direction: Wayback Machine captures of Club America / TPUSA chapter pages naming Dodd.
+Open Questions: Q-1290
 
 ---
 
@@ -1178,6 +1204,7 @@ Mentions: N-965
 Related Nodes: N-11350, N-10000
 Tags: relevance:core
 Investigative Direction: The tip email and its source material.
+Open Questions: Q-1290
 
 ---
 
@@ -1194,6 +1221,7 @@ Mentions:
 Related Nodes: N-11350, N-10000
 Tags: relevance:core
 Investigative Direction: Archived versions of the letter to the editor, and the newspaper's edit log.
+Open Questions: Q-1290
 
 ---
 
@@ -1226,6 +1254,7 @@ Mentions: N-11
 Related Nodes: N-10846
 Tags: relevance:core
 Investigative Direction: The basis for the host's allegation, and court or police records if any exist.
+Open Questions: Q-509
 
 ---
 
@@ -1243,6 +1272,7 @@ Related Nodes: N-10846
 Supports: C-13634
 Tags: relevance:core
 Investigative Direction: The donors McCoy reportedly told, and Charlie Kirk's September 2025 personnel emails.
+Open Questions: Q-1291
 
 ---
 
@@ -1260,6 +1290,7 @@ Related Nodes: N-10404, N-10361, N-10846
 Supports: C-9202
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's September 2, 2025 email on the DOGE audit, and Turning Point Action's audited financials.
+Open Questions: Q-466, Q-1292
 
 ---
 
@@ -1277,6 +1308,7 @@ Related Nodes: N-10361
 Supports: C-9202, C-9228
 Tags: relevance:core
 Investigative Direction: Turning Point Action Form 990 and audit reports for 2024–2025.
+Open Questions: Q-466
 
 ---
 
@@ -1293,6 +1325,7 @@ Mentions: N-15
 Related Nodes: N-10361
 Tags: relevance:core
 Investigative Direction: Streiff's response to the host on the record, and Turning Point Action's financial statements.
+Open Questions: Q-466
 
 ---
 
@@ -1309,6 +1342,7 @@ Mentions: N-489, N-11, N-2, N-1
 Related Nodes: N-10846
 Tags: relevance:core
 Investigative Direction: Business filings and organizational records linking Lori Frantzve and Tyler Bowyer.
+Open Questions: Q-1293
 
 ---
 
@@ -1325,6 +1359,7 @@ Mentions:
 Related Nodes: N-10846, N-11348
 Tags: relevance:core
 Investigative Direction: FEC and IRS filings for Turning Point Action and its PAC, covering September 2026.
+Open Questions: Q-1294
 
 ---
 
@@ -1341,6 +1376,7 @@ Mentions: N-11, N-1
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: TPUSA posts and video of the statue unveiling.
+Open Questions: Q-1295
 
 ---
 
@@ -1358,6 +1394,7 @@ Related Nodes: N-10750, N-10000
 Supports: C-13047, C-13003
 Tags: relevance:core
 Investigative Direction: The Phoenix police report on the statue vandalism.
+Open Questions: Q-1296
 
 ---
 
@@ -1374,6 +1411,7 @@ Mentions:
 Related Nodes: N-10750, N-10000
 Tags: relevance:core
 Investigative Direction: TPUSA headquarters security footage, and police requests for it.
+Open Questions: Q-1297, Q-1298
 
 ---
 
@@ -1390,6 +1428,7 @@ Mentions:
 Related Nodes: N-10750, N-10846, N-11349
 Tags: relevance:core
 Investigative Direction: TPUSA and Turning Point Action social posts in the 72 hours after the vandalism.
+Open Questions: Q-1299
 
 ---
 
@@ -1406,6 +1445,7 @@ Mentions: N-11
 Related Nodes: N-10000, N-10846, N-11349, N-10750
 Tags: relevance:core
 Investigative Direction: The donation links in TPUSA's posts after the vandalism.
+Open Questions: Q-1299
 
 ---
 
@@ -1423,6 +1463,7 @@ Related Nodes: N-11349, N-10750
 Supports: C-13052
 Tags: relevance:core
 Investigative Direction: The source broadcast of the clip, and Commit 100 sign-up numbers.
+Open Questions: Q-1299
 
 ---
 
@@ -1439,6 +1480,7 @@ Mentions: N-1, N-2
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The reward announcement, and police tip records.
+Open Questions: Q-1300
 
 ---
 
@@ -1455,6 +1497,7 @@ Mentions:
 Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The Phoenix police case status on the statue vandalism.
+Open Questions: Q-1301
 
 ---
 
@@ -1472,6 +1515,7 @@ Related Nodes: N-11349, N-10750
 Supports: C-13053
 Tags: relevance:core
 Investigative Direction: Bowyer's X post archive.
+Open Questions: Q-1299
 
 ---
 
@@ -1488,6 +1532,7 @@ Mentions:
 Related Nodes: N-10846, N-11348
 Tags: relevance:core
 Investigative Direction: The original email, and Turning Point Action's cash-on-hand filings.
+Open Questions: Q-1294
 
 ---
 
@@ -1504,6 +1549,7 @@ Mentions: N-15
 Related Nodes: N-10361, N-10000, N-11348
 Tags: relevance:core
 Investigative Direction: Interviews with TPUSA staff, and Turning Point Action financial statements.
+Open Questions: Q-466, Q-1291
 
 ---
 
@@ -1520,6 +1566,7 @@ Mentions: N-897
 Related Nodes: N-10750, N-10846
 Tags: relevance:core
 Investigative Direction: The police vandalism report, the surveillance footage, and donation inflows after the incident.
+Open Questions: Q-1296, Q-1299
 
 ---
 
@@ -1808,6 +1855,7 @@ Mentions: N-1, N-40
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Evidence at Robinson's preliminary hearing and trial on co-conspirators.
+Open Questions: Q-1302
 
 ---
 
@@ -1888,6 +1936,7 @@ Mentions: N-2, N-1
 Related Nodes: N-11355
 Tags: relevance:core
 Investigative Direction: TPUSA announcements promising unreleased Charlie Kirk material, and what was released.
+Open Questions: Q-1303
 
 ---
 
@@ -1904,6 +1953,7 @@ Mentions: N-1
 Related Nodes: N-11355, N-10000
 Tags: relevance:core
 Investigative Direction: TPUSA vendor contracts for AI voice or likeness services, and the people in those meetings.
+Open Questions: Q-1304
 
 ---
 
@@ -1921,6 +1971,7 @@ Related Nodes:
 Supports: C-10162
 Tags: relevance:core
 Investigative Direction: The Shawn Ryan Show episode with Brian Harpole.
+Open Questions: Q-1305
 
 ---
 
@@ -1937,6 +1988,7 @@ Mentions: N-266, N-957, N-7
 Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Accounts from Harpole, Turek and Clancy of each bag's chain of custody.
+Open Questions: Q-1266, Q-1305
 
 ---
 
@@ -1953,6 +2005,7 @@ Mentions: N-957
 Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Clancy's response to the host's request for comment.
+Open Questions: Q-1266
 
 ---
 
@@ -1969,6 +2022,7 @@ Mentions: N-41, N-1
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Utah state appointment and promotion records for October 2025.
+Open Questions: Q-1306
 
 ---
 
@@ -1985,6 +2039,7 @@ Mentions: N-3
 Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: The tip inbox, and any formal bounty announcement.
+Open Questions: Q-1306
 
 ---
 
@@ -2004,6 +2059,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: The UVU Independent Review, and Orem / Provo Fire Department rosters and run reports for September 10, 2025.
+Open Questions: Q-1262
 
 ---
 
@@ -2022,6 +2078,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Orem Fire Station 2 and Provo Fire Station 2 shift records for September 10, 2025.
+Open Questions: Q-1262
 
 ---
 
@@ -2039,6 +2096,7 @@ Related Nodes: N-10795
 Supports: C-13853
 Tags: relevance:core
 Investigative Direction: Turek's and Harpole's interview transcripts.
+Open Questions: Q-1262
 
 ---
 
@@ -2055,6 +2113,7 @@ Mentions:
 Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: Redactions in the UVU Independent Review, and a public-records request for the fire department's run report.
+Open Questions: Q-1262
 
 ---
 
@@ -2071,6 +2130,7 @@ Mentions: N-3
 Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: The tip inbox.
+Open Questions: Q-1262
 
 ---
 

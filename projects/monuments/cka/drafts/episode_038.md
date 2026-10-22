@@ -1445,6 +1445,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10297, N-10272, N-10012
 Tags: relevance:core
 Investigative Direction: Ask the French Ministry of the Armed Forces and Utah authorities whether any Foreign Legion personnel entered the United States for or around September 10, 2025; obtain UVU event staffing and credential lists.
+Open Questions: Q-346, Q-347, Q-354
 
 ---
 
@@ -1461,6 +1462,7 @@ Mentions: N-3
 Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Obtain the host's original post and any record of what the source told her about US government awareness; ask the host which US officials she contacted.
+Open Questions: Q-314
 
 ---
 
@@ -1494,6 +1496,7 @@ Related Nodes: N-10297
 Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host's source for the transfer records; any bank or transfer document would confirm or refute the amount and the payer.
+Open Questions: Q-354
 
 ---
 
@@ -1511,6 +1514,7 @@ Related Nodes: N-10297
 Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host's source to identify the two individuals; check French and Canadian travel and law enforcement records only if a name is supplied.
+Open Questions: Q-355
 
 ---
 
@@ -1527,6 +1531,7 @@ Mentions: N-3
 Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Identify the club the host means (the name is as transcribed) and request membership or banking records from the host's source.
+Open Questions: Q-354
 
 ---
 
@@ -1573,6 +1578,7 @@ Mentions: N-3, N-377
 Related Nodes: N-11196
 Tags: relevance:core
 Investigative Direction: Search Elysee communique archives and French press for any reaction between November 25 and December 1, 2025.
+Open Questions: Q-356
 
 ---
 
@@ -1589,6 +1595,7 @@ Mentions: N-3
 Related Nodes: N-10072, N-11196
 Tags: relevance:core
 Investigative Direction: Check White House press briefings and statements between November 25 and December 1, 2025 for any comment on the host's claim.
+Open Questions: Q-356
 
 ---
 
@@ -1605,6 +1612,7 @@ Mentions: N-3
 Related Nodes: N-10072, N-10014, N-10084, N-11196
 Tags: relevance:core
 Investigative Direction: Request the host's report records (dates, recipients, channels) and FOIA the FBI and counterterrorism intake logs for late November 2025.
+Open Questions: Q-314
 
 ---
 
@@ -1637,6 +1645,7 @@ Mentions: N-3, N-5
 Related Nodes: N-10072, N-11196
 Tags: relevance:core
 Investigative Direction: Ask the host for the White House reply and its date; request the correspondence record from the White House.
+Open Questions: Q-314
 
 ---
 
@@ -1653,6 +1662,7 @@ Mentions: N-3
 Related Nodes: N-10014, N-11196
 Tags: relevance:core
 Investigative Direction: Ask the host who received the text and when; FBI records of any contact from the host in late November 2025 would confirm or refute it.
+Open Questions: Q-314
 
 ---
 
@@ -1669,6 +1679,7 @@ Mentions: N-3
 Related Nodes: N-10014, N-10145, N-11196
 Tags: relevance:core
 Investigative Direction: Ask the FBI Salt Lake City field office whether anyone attempted to contact the host after November 25, 2025.
+Open Questions: Q-314
 
 ---
 
@@ -1685,6 +1696,7 @@ Mentions: N-3
 Related Nodes: N-10257, N-10262, N-10260, N-10272
 Tags: relevance:core
 Investigative Direction: Obtain Minnesota National Guard and Air Force press releases on Operation Valhalla at Camp Ripley, with dates, units and civilian participants.
+Open Questions: Q-345
 
 ---
 
@@ -1716,6 +1728,7 @@ Mentions: N-3
 Related Nodes: N-10012, N-10140, N-11195
 Tags: relevance:core
 Investigative Direction: Interview attending UVU students and compare the event announcement timing with TPUSA's social posts and UVU event records.
+Open Questions: Q-348
 
 ---
 
@@ -1732,6 +1745,7 @@ Mentions: N-3
 Related Nodes: N-10012, N-11195
 Tags: relevance:core
 Investigative Direction: Survey national coverage from September 10-14, 2025 for on-record interviews with UVU students and compare to adults interviewed.
+Open Questions: Q-348
 
 ---
 
@@ -1765,6 +1779,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10196, N-10250, N-10071
 Tags: relevance:core
 Investigative Direction: Pull SU-BTT ADS-B and FAA flight records for September 10, 2025 for departure time, origin and destination.
+Open Questions: Q-277
 
 ---
 
@@ -1782,6 +1797,7 @@ Related Nodes: N-10928, N-10253
 Supports: C-3168
 Tags: relevance:core
 Investigative Direction: Obtain the hangar lease, Delaware filings and Satys investment announcements to confirm the amount, term and stated purpose.
+Open Questions: Q-334
 
 ---
 
@@ -1799,6 +1815,7 @@ Related Nodes: N-10928, N-10931
 Supports: C-3167
 Tags: relevance:core
 Investigative Direction: Compare the cease-and-desist date with the Satys announcement and lease execution dates in public filings.
+Open Questions: Q-334
 
 ---
 
@@ -1816,6 +1833,7 @@ Related Nodes: N-10249, N-10253
 Supports: C-3300
 Tags: relevance:core
 Investigative Direction: Identify the source's basis (witness, video or vehicle records) and check airport ground-transport and security logs for September 10, 2025.
+Open Questions: Q-332
 
 ---
 
@@ -1833,6 +1851,7 @@ Related Nodes: N-10249
 Supports: C-3360
 Tags: relevance:core
 Investigative Direction: Review GSA lease and federal tenant records for 920 North King Street to identify which agencies occupy it.
+Open Questions: Q-333
 
 ---
 
@@ -2009,6 +2028,7 @@ Related Nodes: N-11193
 Supports: C-3178, C-3179
 Tags: relevance:core
 Investigative Direction: Identify the callers and dates through the host's phone records; compare with the February 25-26 calls she previously described.
+Open Questions: Q-357
 
 ---
 
@@ -2089,6 +2109,7 @@ Mentions: N-3
 Related Nodes: N-10928, N-11194
 Tags: relevance:core
 Investigative Direction: Check Satys shareholder disclosures and Ace Partners' portfolio page.
+Open Questions: Q-334
 
 ---
 
@@ -2122,6 +2143,7 @@ Mentions: N-3, N-82
 Related Nodes: N-10276
 Tags: relevance:core
 Investigative Direction: Review Elysee schedules, press photos and French news for any appearance by Brigitte Macron between September 5 and 10, 2025.
+Open Questions: Q-357
 
 ---
 
@@ -2201,6 +2223,7 @@ Mentions: N-3, N-72, N-282, N-1
 Related Nodes: N-10003, N-10279, N-10056
 Tags: relevance:core
 Investigative Direction: Review the PBD episode for Bolling's exact words about 2017 and compare with Kirk and Owens messages and appearances after 2017.
+Open Questions: Q-358
 
 ---
 
@@ -2233,6 +2256,7 @@ Related Nodes: N-10930
 Supports: C-1574
 Tags: relevance:core
 Investigative Direction: Obtain the host's and Kolvet's phone records for September 10, 2025 and ask Kolvet to describe the call.
+Open Questions: Q-328
 
 ---
 
@@ -2249,6 +2273,7 @@ Mentions: N-3, N-40, N-22
 Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Review charging documents and public filings for any mention of a list of targets; ask prosecutors whether one exists.
+Open Questions: Q-328
 
 ---
 
@@ -2296,6 +2321,7 @@ Mentions: N-3
 Related Nodes: N-10012, N-11195
 Tags: relevance:core
 Investigative Direction: Request UVU and Utah National Guard deployment and credential records for September 10, 2025.
+Open Questions: Q-347, Q-348
 
 ---
 
@@ -2312,6 +2338,7 @@ Mentions: N-3
 Related Nodes: N-10012, N-10212, N-10272
 Tags: relevance:core
 Investigative Direction: Obtain the cell-site data behind the 12 phones claim and Utah National Guard activation orders for September 10, 2025.
+Open Questions: Q-346, Q-347, Q-359
 
 ---
 

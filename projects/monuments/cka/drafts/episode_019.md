@@ -1413,6 +1413,7 @@ Mentions: N-3, N-11, N-14, N-186
 Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Seek on-record statements from Bowyer, Kolvet and Sheridan on whether they accept the lone-shooter account.
+Open Questions: Q-210
 
 ---
 
@@ -1445,6 +1446,7 @@ Mentions: N-17, N-190
 Related Nodes: N-10186
 Tags: relevance:core
 Investigative Direction: Obtain the full recording of the sermon and confirm which son is quoted and what plan is meant.
+Open Questions: Q-211
 
 ---
 
@@ -1477,6 +1479,7 @@ Mentions: N-17, N-190, N-1
 Related Nodes: N-10214, N-10190
 Tags: relevance:core
 Investigative Direction: Obtain McCoy's phone records for the call time and compare them with the host's phone-timing analysis (C-1734).
+Open Questions: Q-211, Q-212
 
 ---
 
@@ -1493,6 +1496,7 @@ Mentions: N-17, N-190
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Re-listen to the sermon to settle whether McCoy meant Mikey or Charlie; compare to event footage of Mikey's clothing.
+Open Questions: Q-211, Q-213
 
 ---
 
@@ -1509,6 +1513,7 @@ Mentions: N-190, N-1
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Map Mikey McCoy's position from stage and crowd footage and the UVU site plan.
+Open Questions: Q-213
 
 ---
 
@@ -1525,6 +1530,7 @@ Mentions: N-17
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Check the sermon audio wording (the clip reads "I'm watching" in the transcript) and ask McCoy what he was watching.
+Open Questions: Q-211
 
 ---
 
@@ -1542,6 +1548,7 @@ Related Nodes: N-10214
 Supports: C-1734
 Tags: relevance:core
 Investigative Direction: Obtain the raw frame-level footage with audio sync and test whether a speed-dial is possible in that interval.
+Open Questions: Q-212
 
 ---
 
@@ -1558,6 +1565,7 @@ Mentions: N-190
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Locate the camera angle showing both positions and confirm the elapsed time between the two sightings.
+Open Questions: Q-213
 
 ---
 
@@ -1574,6 +1582,7 @@ Mentions: N-190
 Related Nodes: N-10214, N-10581
 Tags: relevance:core
 Investigative Direction: Request the host's angle folder and verify the claim against independent footage compilations.
+Open Questions: Q-212
 
 ---
 
@@ -1591,6 +1600,7 @@ Related Nodes: N-10185
 Supports: C-1741
 Tags: relevance:core
 Investigative Direction: Authenticate the footage clock against the 12:23 p.m. figure and request Mikey McCoy's call log for that time.
+Open Questions: Q-212
 
 ---
 
@@ -1607,6 +1617,7 @@ Mentions: N-190, N-14
 Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Search McCoy's and TPUSA's channels for any statement on the call; ask them directly.
+Open Questions: Q-214
 
 ---
 
@@ -1655,6 +1666,7 @@ Mentions: N-3, N-1, N-180
 Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Ask other TPUSA speakers and stage crews whether an AV operator normally stood beside the speaker at tour stops.
+Open Questions: Q-215
 
 ---
 
@@ -1672,6 +1684,7 @@ Related Nodes: N-10184, N-10073
 Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Play the host's recording of the call and list each change he describes.
+Open Questions: Q-215
 
 ---
 
@@ -1688,6 +1701,7 @@ Mentions: N-3, N-180
 Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Obtain the recording, its date and the host's call notes; ask the camera man to confirm the call.
+Open Questions: Q-202
 
 ---
 
@@ -1704,6 +1718,7 @@ Mentions: N-180, N-2
 Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Compare with Erika Kirk's and the FBI's statements about who took custody of the camera footage.
+Open Questions: Q-202
 
 ---
 
@@ -1720,6 +1735,7 @@ Mentions: N-180, N-2
 Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Ask the camera man and Erika Kirk's office whether the footage was withheld for that reason.
+Open Questions: Q-202
 
 ---
 
@@ -1736,6 +1752,7 @@ Mentions: N-3, N-1, N-180
 Related Nodes: N-10723, N-10184
 Tags: relevance:core
 Investigative Direction: Obtain the camera man's rear-camera footage and review what it shows of Charlie's neck and clothing.
+Open Questions: Q-203
 
 ---
 
@@ -1752,6 +1769,7 @@ Mentions: N-180
 Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Ask TPUSA's counsel and the camera man whether lawyers advised on release.
+Open Questions: Q-202
 
 ---
 
@@ -1768,6 +1786,7 @@ Mentions: N-180
 Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Check the camera man's contract with TPUSA on footage ownership and who he coordinated with.
+Open Questions: Q-202
 
 ---
 
@@ -1784,6 +1803,7 @@ Mentions: N-180
 Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Play the recording and ask the camera man to explain the file-size reason.
+Open Questions: Q-202
 
 ---
 
@@ -1800,6 +1820,7 @@ Mentions: N-180
 Related Nodes: N-10184, N-10073
 Tags: relevance:core
 Investigative Direction: Play the recording and confirm the exact wording.
+Open Questions: Q-202
 
 ---
 
@@ -1817,6 +1838,7 @@ Related Nodes: N-10184, N-10214
 Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Identify the Arizona ops and obtain call logs for the camera man's phone at the time of the shooting.
+Open Questions: Q-216
 
 ---
 
@@ -1834,6 +1856,7 @@ Related Nodes: N-10184, N-11011
 Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Check prior tour-stop production records for any Arizona remote-watch team and identify the two operators.
+Open Questions: Q-215, Q-216
 
 ---
 
@@ -1867,6 +1890,7 @@ Related Nodes: N-10324, N-10160
 Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Retrieve Bowyer's tweet and compare it with the camera man's footage and any police statement on camera removal.
+Open Questions: Q-63
 
 ---
 
@@ -1883,6 +1907,7 @@ Mentions: N-180, N-190, N-1
 Related Nodes: N-10184, N-10190
 Tags: relevance:core
 Investigative Direction: Cross-check both men's positions across angles of the tent area.
+Open Questions: Q-213, Q-215
 
 ---
 
@@ -1899,6 +1924,7 @@ Mentions: N-180, N-1
 Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Review the rear-camera and selfie footage for his path and distance.
+Open Questions: Q-215
 
 ---
 
@@ -1915,6 +1941,7 @@ Mentions: N-180
 Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Locate the spot on the UVU site plan and compare with the selfie background.
+Open Questions: Q-217
 
 ---
 
@@ -1931,6 +1958,7 @@ Mentions: N-180, N-1
 Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Compare the selfie timestamp with the first public or medical declarations of death.
+Open Questions: Q-217, Q-218
 
 ---
 
@@ -1947,6 +1975,7 @@ Mentions: N-180
 Related Nodes: N-10073, N-10324
 Tags: relevance:core
 Investigative Direction: Time the selfie file's end against footage of the camera takedown.
+Open Questions: Q-63, Q-217
 
 ---
 
@@ -2062,6 +2091,7 @@ Mentions: N-190, N-1
 Related Nodes: N-10730, N-10362
 Tags: relevance:core
 Investigative Direction: Ask McCoy and TPUSA whether they hold Kirk's phone data and will confirm the thread.
+Open Questions: Q-186
 
 ---
 
@@ -2142,6 +2172,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: The host does not name the betrayers here; request her specific allegations.
+Open Questions: Q-219
 
 ---
 
@@ -2174,6 +2205,7 @@ Mentions: N-3
 Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Ask the host which stages and which people she means, and what basis she has.
+Open Questions: Q-21, Q-219
 
 ---
 
@@ -2190,6 +2222,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Track the Robinson prosecution record against the host's claim that it is not true justice.
+Open Questions: Q-21
 
 ---
 
@@ -2254,6 +2287,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10003
 Tags: relevance:core
 Investigative Direction: Compare the host's message records with Charlie against the 2017 claim; see the host's own statements in earlier episodes.
+Open Questions: Q-15
 
 ---
 
@@ -2302,6 +2336,7 @@ Mentions: N-190
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Review stage-side footage of the crowd, Mikey McCoy and Frank Turek in the seconds after the shot.
+Open Questions: Q-213
 
 ---
 

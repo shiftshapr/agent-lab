@@ -1551,6 +1551,7 @@ Mentions: N-3, N-1, N-737, N-257
 Related Nodes: N-11191
 Tags: relevance:core
 Investigative Direction: Treat as a theory: check who gained control of TPUSA, and of the other listed estates, after each death.
+Open Questions: Q-309, Q-317
 
 ---
 
@@ -1679,6 +1680,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10237, N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Compare TPUSA mission statements and programming over time, and identify the memorial speaker.
+Open Questions: Q-310
 
 ---
 
@@ -1725,6 +1727,7 @@ Mentions: N-3, N-246
 Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Identify the eyewitnesses and match their accounts to video of Butch Hibbs at the bush.
+Open Questions: Q-300
 
 ---
 
@@ -1741,6 +1744,7 @@ Mentions: N-3
 Related Nodes: N-10236
 Tags: relevance:core
 Investigative Direction: Match the clip's face and clothing to event attendee lists and viewer tips.
+Open Questions: Q-319
 
 ---
 
@@ -1757,6 +1761,7 @@ Mentions: N-3
 Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Review multi-angle video of the seconds after the shot for who directed the crowd.
+Open Questions: Q-155
 
 ---
 
@@ -1773,6 +1778,7 @@ Mentions: N-3
 Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Identify the people in the clip and the clip's source and timecode.
+Open Questions: Q-155, Q-316
 
 ---
 
@@ -1789,6 +1795,7 @@ Mentions: N-3
 Related Nodes: N-10236, N-10293
 Tags: relevance:core
 Investigative Direction: Obtain UVU police dispatch or BOLO records mentioning a maroon shirt.
+Open Questions: Q-320
 
 ---
 
@@ -1805,6 +1812,7 @@ Mentions: N-3, N-258
 Related Nodes: N-10236
 Tags: relevance:core
 Investigative Direction: Check Samir's public posts and the first outlets that aired his footage.
+Open Questions: Q-301
 
 ---
 
@@ -1821,6 +1829,7 @@ Mentions: N-3
 Related Nodes: N-10236
 Tags: relevance:core,dia
 Investigative Direction: Review incoming tips and any identification of the man in the maroon shirt.
+Open Questions: Q-319
 
 ---
 
@@ -1837,6 +1846,7 @@ Mentions: N-3
 Related Nodes: N-10236
 Tags: relevance:core,dia
 Investigative Direction: Check the tip inbox volume and outcome for the maroon-shirt appeal.
+Open Questions: Q-319
 
 ---
 
@@ -1853,6 +1863,7 @@ Mentions: N-3, N-246
 Related Nodes: N-10132, N-10236
 Tags: relevance:core
 Investigative Direction: Identify the second man in the photo and its time and source.
+Open Questions: Q-319
 
 ---
 
@@ -1870,6 +1881,7 @@ Related Nodes: N-10132
 Supports: C-2774
 Tags: relevance:core
 Investigative Direction: Compile the post-shooting videos with timestamps and ask UVU police who authorized entry.
+Open Questions: Q-302, Q-321
 
 ---
 
@@ -1886,6 +1898,7 @@ Mentions: N-3, N-246
 Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Identify the interviewee and the outlet; compare with acoustic analysis of the recorded shot.
+Open Questions: Q-302, Q-322
 
 ---
 
@@ -1965,6 +1978,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10237, N-10100, N-10000
 Tags: relevance:core
 Investigative Direction: List the specific TPUSA statements about Kirk's Catholic interest and compare with evidence.
+Open Questions: Q-306
 
 ---
 
@@ -1981,6 +1995,7 @@ Mentions: N-3
 Related Nodes: N-10237, N-10000
 Tags: relevance:core
 Investigative Direction: Catalog the TPUSA statements the host calls lies and her debunking of each.
+Open Questions: Q-306
 
 ---
 
@@ -2028,6 +2043,7 @@ Mentions: N-3, N-1
 Supports: C-2657
 Tags: relevance:core
 Investigative Direction: Watch the next episode for the named donor and compare with the earlier claims.
+Open Questions: Q-6
 
 ---
 

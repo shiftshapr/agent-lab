@@ -867,6 +867,7 @@ Related Nodes:
 Supports: C-4278
 Tags: relevance:core
 Investigative Direction: Ask the host which items were withheld and on what dates they were received.
+Open Questions: Q-885
 
 ---
 
@@ -883,6 +884,7 @@ Mentions: N-266, N-7, N-3
 Related Nodes: N-10000, N-10636
 Tags: relevance:core
 Investigative Direction: List the specific statements by Harpole and Turek the host says are false and the records that would refute them.
+Open Questions: Q-915, Q-916
 
 ---
 
@@ -899,6 +901,7 @@ Mentions: N-7, N-266
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Compare the transcripts of Turek's and Harpole's interviews point by point on duration, CPR and who did what in the vehicle.
+Open Questions: Q-915, Q-916
 
 ---
 
@@ -916,6 +919,7 @@ Related Nodes:
 Supports: C-10516
 Tags: relevance:core
 Investigative Direction: Test against the prosecution's rooftop evidence, forensic reports and any footage placing Robinson on the roof.
+Open Questions: Q-161
 
 ---
 
@@ -932,6 +936,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Check the Dairy Queen photo, receipts, and the recovered clothing and chain of custody in the prosecution file.
+Open Questions: Q-933
 
 ---
 
@@ -948,6 +953,7 @@ Mentions: N-681, N-1
 Related Nodes: N-10697, N-10907, N-10641
 Tags: relevance:core
 Investigative Direction: Obtain Jon Bray's written analysis and the source photos he supplied.
+Open Questions: Q-930, Q-934
 
 ---
 
@@ -965,6 +971,7 @@ Related Nodes:
 Supports: C-4278
 Tags: relevance:core
 Investigative Direction: Establish when the host received the full photo set and from whom.
+Open Questions: Q-885
 
 ---
 
@@ -982,6 +989,7 @@ Related Nodes: N-10344, N-10616
 Supports: C-4276
 Tags: relevance:core
 Investigative Direction: Identify who offered the sunglasses and blood-drops explanations and in what posts or broadcasts.
+Open Questions: Q-934
 
 ---
 
@@ -999,6 +1007,7 @@ Related Nodes: N-10641
 Supports: C-10557
 Tags: relevance:core
 Investigative Direction: Review every public statement by Turek, Harpole and TPUSA for any mention of the shirt being lifted or cut in the car.
+Open Questions: Q-884
 
 ---
 
@@ -1016,6 +1025,7 @@ Related Nodes:
 Supports: C-10340
 Tags: relevance:core
 Investigative Direction: Compare seating positions from Harpole and Turek accounts and test the bag for blood sources.
+Open Questions: Q-916, Q-935
 
 ---
 
@@ -1048,6 +1058,7 @@ Mentions: N-1
 Related Nodes: N-10643
 Tags: relevance:core
 Investigative Direction: Trace the t-shirt through the hospital, the vehicle and evidence logs; compare with Harpole's claim he cut the shirt off at the hospital.
+Open Questions: Q-884, Q-932
 
 ---
 
@@ -1064,6 +1075,7 @@ Mentions: N-7, N-2
 Related Nodes: N-10626, N-10642
 Tags: relevance:core
 Investigative Direction: Locate the Turek statement about changing clothes and compare with the jacket's return to Erika's apartment.
+Open Questions: Q-932
 
 ---
 
@@ -1081,6 +1093,7 @@ Related Nodes: N-10641
 Supports: C-10534
 Tags: relevance:core
 Investigative Direction: Obtain full-resolution originals and have a forensic examiner map the glass distribution.
+Open Questions: Q-934
 
 ---
 
@@ -1098,6 +1111,7 @@ Related Nodes: N-10624
 Supports: C-10322
 Tags: relevance:core
 Investigative Direction: Reconstruct the route and timing from 911, dispatch and hospital arrival records.
+Open Questions: Q-917
 
 ---
 
@@ -1114,6 +1128,7 @@ Mentions:
 Related Nodes: N-10650
 Tags: relevance:core
 Investigative Direction: Obtain higher-resolution images and a forensic read of the bags and the separate piece.
+Open Questions: Q-935
 
 ---
 
@@ -1146,6 +1161,7 @@ Mentions: N-487
 Related Nodes: N-10650
 Tags: relevance:core
 Investigative Direction: Review footage of Cutler entering the vehicle for what he carried.
+Open Questions: Q-935
 
 ---
 
@@ -1178,6 +1194,7 @@ Mentions: N-266, N-224
 Related Nodes: N-10820, N-10783
 Tags: relevance:core
 Investigative Direction: Locate the exact Harpole statement in the Paramount Tactical and Shawn Ryan interviews.
+Open Questions: Q-931
 
 ---
 
@@ -1194,6 +1211,7 @@ Mentions: N-3
 Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Obtain an independent explosives or ordnance expert opinion on the piece and the foil.
+Open Questions: Q-930, Q-935
 
 ---
 
@@ -1211,6 +1229,7 @@ Related Nodes: N-10626
 Supports: C-10463
 Tags: relevance:core
 Investigative Direction: Compare with Turek's CPR claims, Harpole's shirt-cutting claim and hospital records.
+Open Questions: Q-884, Q-915
 
 ---
 
@@ -1227,6 +1246,7 @@ Mentions: N-3
 Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Establish where the shirt was removed using hospital intake records and the Harpole and Turek accounts.
+Open Questions: Q-884
 
 ---
 
@@ -1243,6 +1263,7 @@ Mentions:
 Related Nodes: N-10641
 Tags: relevance:core
 Investigative Direction: Have a forensic lab compare the fragments with the vehicle's glazing and with a Rode-type microphone.
+Open Questions: Q-934
 
 ---
 
@@ -1259,6 +1280,7 @@ Mentions:
 Related Nodes: N-10641
 Tags: relevance:core
 Investigative Direction: Ask a materials expert whether a rode-type microphone's glass could carry adhesive and cling to clothing.
+Open Questions: Q-934
 
 ---
 
@@ -1275,6 +1297,7 @@ Mentions: N-681, N-1
 Related Nodes: N-10641
 Tags: relevance:core
 Investigative Direction: Obtain Bray's photos with metadata and compare against the UVU stage footage.
+Open Questions: Q-934
 
 ---
 
@@ -1292,6 +1315,7 @@ Related Nodes: N-10593
 Supports: C-10229
 Tags: relevance:core
 Investigative Direction: Pull the Harpole complaint and docket to confirm claims and filing date.
+Open Questions: Q-837, Q-936
 
 ---
 
@@ -1308,6 +1332,7 @@ Mentions: N-1
 Related Nodes: N-11052
 Tags: relevance:core
 Investigative Direction: Obtain the full sequence of frames and have a trauma clinician assess handling.
+Open Questions: Q-936
 
 ---
 
@@ -1324,6 +1349,7 @@ Mentions: N-1
 Related Nodes: N-11052
 Tags: relevance:core
 Investigative Direction: Identify each carrier and review all angles of the carry for the shirt position.
+Open Questions: Q-936
 
 ---
 
@@ -1340,6 +1366,7 @@ Mentions: N-1
 Related Nodes: N-11052, N-10641
 Tags: relevance:core
 Investigative Direction: Examine the footage of the carry and of Charlie's shirt for debris and compare with the later car photos.
+Open Questions: Q-934, Q-936
 
 ---
 
@@ -1372,6 +1399,7 @@ Mentions: N-190, N-2
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Find the podium remarks and the original statement and compare with hospital witnesses.
+Open Questions: Q-863
 
 ---
 
@@ -1389,6 +1417,7 @@ Related Nodes: N-10190
 Supports: C-10569
 Tags: relevance:core
 Investigative Direction: Identify the host's source and any hospital staff who saw Mikey McCoy that day.
+Open Questions: Q-863
 
 ---
 
@@ -1405,6 +1434,7 @@ Mentions: N-190, N-1
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Compare with McCoy's call log and phone call timing in the other investigative targets.
+Open Questions: Q-863
 
 ---
 
@@ -1453,6 +1483,7 @@ Mentions:
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Examine succession documents and corporate records showing who gained control and when.
+Open Questions: Q-590
 
 ---
 
@@ -1613,6 +1644,7 @@ Mentions:
 Related Nodes: N-10641
 Tags: relevance:core
 Investigative Direction: Review all ground-level angles behind the table at the time of the shot.
+Open Questions: Q-919
 
 ---
 
@@ -1629,6 +1661,7 @@ Mentions: N-681
 Related Nodes: N-10641, N-10697
 Tags: relevance:core
 Investigative Direction: Compare Bray's evidence compilation with the prosecution's exhibits.
+Open Questions: Q-161, Q-930
 
 ---
 
@@ -1646,6 +1679,7 @@ Related Nodes: N-10624
 Supports: C-10322
 Tags: relevance:core
 Investigative Direction: Obtain police dispatch logs and bodycam from the pursuing units.
+Open Questions: Q-893
 
 ---
 
@@ -1662,6 +1696,7 @@ Mentions: N-3
 Related Nodes: N-10624
 Tags: relevance:core
 Investigative Direction: Obtain GPS or CAD data for the vehicle's route to the hospital.
+Open Questions: Q-917
 
 ---
 
@@ -1678,6 +1713,7 @@ Mentions: N-1
 Related Nodes: N-10026, N-10000
 Tags: relevance:core
 Investigative Direction: The commenter offers no evidence; look for funding or communication records of any such incentive.
+Open Questions: Q-590
 
 ---
 

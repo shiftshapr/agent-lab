@@ -1080,6 +1080,7 @@ Related Nodes: N-10404, N-10127
 Supports: C-3541
 Tags: relevance:core
 Investigative Direction: Obtain the internal TPUSA memo or email that requested the DOGE and its date, and compare with the host's earlier reporting.
+Open Questions: Q-308
 
 ---
 
@@ -1096,6 +1097,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10402
 Tags: relevance:core
 Investigative Direction: Obtain the executed speaking agreement and the termination correspondence to confirm who terminated, when, and the original term.
+Open Questions: Q-506
 
 ---
 
@@ -1112,6 +1114,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10402
 Tags: relevance:core
 Investigative Direction: Obtain the December 15, 2025 exchange in which the statement was allegedly made.
+Open Questions: Q-507
 
 ---
 
@@ -1128,6 +1131,7 @@ Mentions: N-3, N-2, N-15
 Related Nodes: N-11096
 Tags: relevance:core
 Investigative Direction: Obtain the date, attendees and any notes or recording of the Owens, Erika Kirk and Streiff meeting.
+Open Questions: Q-508
 
 ---
 
@@ -1145,6 +1149,7 @@ Related Nodes: N-11096
 Supports: C-4491
 Tags: relevance:core
 Investigative Direction: Identify which specific points the host says were conceded and obtain any notes or recording of the meeting.
+Open Questions: Q-508
 
 ---
 
@@ -1161,6 +1166,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10402, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain any damages calculation or demand TPUSA later serves, and compare with the letter's claim of substantial and continuing injury.
+Open Questions: Q-507
 
 ---
 
@@ -1177,6 +1183,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10402, N-10000
 Tags: relevance:core
 Investigative Direction: Compare the letter's description with the actual non-disparagement clause text in the executed agreement.
+Open Questions: Q-506
 
 ---
 
@@ -1193,6 +1200,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10402, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain call, text and meeting logs between Owens and TPUSA executives for December 2025 to January 2026.
+Open Questions: Q-508
 
 ---
 
@@ -1210,6 +1218,7 @@ Related Nodes: N-11096
 Contradicts: C-5444
 Tags: relevance:core
 Investigative Direction: Obtain the host's communications log with TPUSA and identify the single contact and the one meeting.
+Open Questions: Q-508
 
 ---
 
@@ -1226,6 +1235,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10402
 Tags: relevance:core
 Investigative Direction: Identify the specific statements TPUSA considers reckless and intentional breaches.
+Open Questions: Q-507
 
 ---
 
@@ -1243,6 +1253,7 @@ Related Nodes: N-11096, N-10402
 Supports: C-4490
 Tags: relevance:core
 Investigative Direction: Compile the host's published list of lies and TPUSA's responses to each item, with dates.
+Open Questions: Q-306
 
 ---
 
@@ -1259,6 +1270,7 @@ Mentions: N-3, N-266, N-14
 Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Compile each TPUSA statement on drones with its date and speaker and compare them side by side.
+Open Questions: Q-342
 
 ---
 
@@ -1277,6 +1289,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-5455
 Investigative Direction: Obtain the Erika Kirk interview with Glenn Beck and the exact words used about Charlie's night-before messages.
+Open Questions: Q-171
 
 ---
 
@@ -1295,6 +1308,7 @@ Supports: C-4491
 Contradicts: C-5452
 Tags: relevance:core
 Investigative Direction: Obtain the night-before messages themselves, the app used and TPUSA's written explanation of why it was not disclosed earlier.
+Open Questions: Q-171
 
 ---
 
@@ -1312,6 +1326,7 @@ Related Nodes: N-11096
 Supports: C-2435
 Tags: relevance:core
 Investigative Direction: Identify the evidence behind the host's characterization and any records TPUSA could cite to rebut it.
+Open Questions: Q-509
 
 ---
 
@@ -1328,6 +1343,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Ask the host which individuals she means and what documents support the statement.
+Open Questions: Q-306
 
 ---
 
@@ -1344,6 +1360,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the dated request messages and TPUSA's replies to establish the sequence of requests and responses.
+Open Questions: Q-441
 
 ---
 
@@ -1360,6 +1377,7 @@ Mentions: N-3
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the exact request wording and what TPUSA sent instead.
+Open Questions: Q-441
 
 ---
 
@@ -1376,6 +1394,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10000, N-10846
 Tags: relevance:core
 Investigative Direction: Locate the on-air or written admission the letter refers to as a flood of allegations.
+Open Questions: Q-507
 
 ---
 
@@ -1392,6 +1411,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compile the specific statements the host classes as lies and the documents that show each is false.
+Open Questions: Q-306
 
 ---
 
@@ -1408,6 +1428,7 @@ Mentions: N-3
 Related Nodes: N-10403, N-10000
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA Form 990 filings and audited financials if the host later covers finances in depth.
+Open Questions: Q-510
 
 ---
 
@@ -1424,6 +1445,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-11096
 Tags: relevance:core
 Investigative Direction: Identify which individuals she regards as taking over TPUSA and the records she has used on their backgrounds.
+Open Questions: Q-306
 
 ---
 
@@ -1456,6 +1478,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain counsel's reply to the cease and desist letter and any settlement communications.
+Open Questions: Q-506
 
 ---
 
@@ -1472,6 +1495,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Watch for any GoFundMe launch and TPUSA's response to the price offer.
+Open Questions: Q-506
 
 ---
 
@@ -2014,6 +2038,7 @@ Mentions: N-3
 Related Nodes: N-11002, N-10402
 Tags: relevance:core
 Investigative Direction: Ask the host which new sources have come forward and what documents they have supplied.
+Open Questions: Q-503
 
 ---
 
@@ -2030,6 +2055,7 @@ Mentions: N-3
 Related Nodes: N-11002
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA headcount or termination records for the period.
+Open Questions: Q-503
 
 ---
 
@@ -2046,6 +2072,7 @@ Mentions: N-3, N-159, N-14
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Record any acceptance or refusal of the invitation by Neff or Kolvet.
+Open Questions: Q-508
 
 ---
 
@@ -2062,6 +2089,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the texts Kolvet allegedly sent to third parties about the host.
+Open Questions: Q-487
 
 ---
 
@@ -2079,6 +2107,7 @@ Related Nodes: N-10000
 Supports: C-4491
 Tags: relevance:core
 Investigative Direction: Obtain notes or a recording of the meeting.
+Open Questions: Q-508
 
 ---
 
@@ -2125,6 +2154,7 @@ Mentions: N-3
 Related Nodes: N-11096
 Tags: relevance:core
 Investigative Direction: Watch any filed suit for discovery requests to TPUSA custodians.
+Open Questions: Q-507
 
 ---
 
@@ -2157,6 +2187,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain counsel's reply letter and TPUSA's response.
+Open Questions: Q-506
 
 ---
 

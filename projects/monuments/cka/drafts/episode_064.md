@@ -1094,6 +1094,7 @@ Related Nodes: N-10000, N-10417
 Supports: C-5737
 Tags: relevance:core
 Investigative Direction: Obtain the full recording of the September 16 call and search the transcript for the phrase 'grieves differently'; compare with the first public use by TPUSA-aligned accounts.
+Open Questions: Q-519
 
 ---
 
@@ -1143,6 +1144,7 @@ Related Nodes: N-11002, N-10456
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Obtain the names of the separated employees (from the host or former staff) and TPUSA separation records to test whether any leaked to the host.
+Open Questions: Q-503
 
 ---
 
@@ -1159,6 +1161,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11098
 Tags: relevance:core
 Investigative Direction: Identify the PR firm or agency engaged by TPUSA and any messages or contracts showing Erika Kirk approved statements about the host.
+Open Questions: Q-535
 
 ---
 
@@ -1176,6 +1179,7 @@ Related Nodes: N-10416, N-10319
 Supports: C-4542
 Tags: relevance:core
 Investigative Direction: Compare the host's notes or recording of the private meeting with Erika Kirk against Kolvet's surgeon post and any statement from Dr. Trotter.
+Open Questions: Q-421
 
 ---
 
@@ -1192,6 +1196,7 @@ Mentions: N-2, N-14, N-195, N-3
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Obtain the recording or notes of the private meeting and any hospital HIPAA complaint or response regarding Dr. Trotter.
+Open Questions: Q-536
 
 ---
 
@@ -1209,6 +1214,7 @@ Related Nodes: N-10416, N-10319
 Supports: C-4425
 Tags: relevance:core
 Investigative Direction: Obtain call records for the three-way call and the surgeon's account, and compare with the wording of Kolvet's post.
+Open Questions: Q-421
 
 ---
 
@@ -1226,6 +1232,7 @@ Related Nodes: N-10416
 Supports: C-5690
 Tags: relevance:core
 Investigative Direction: Look for messages between Kolvet and Erika Kirk around the surgeon call that show who authorized the post.
+Open Questions: Q-535
 
 ---
 
@@ -1243,6 +1250,7 @@ Related Nodes: N-10416
 Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Interview the surgeon or his intermediary and obtain phone records for the day of the call.
+Open Questions: Q-421
 
 ---
 
@@ -1259,6 +1267,7 @@ Mentions: N-3, N-2, N-36
 Related Nodes: N-10027, N-10415
 Tags: relevance:core
 Investigative Direction: Obtain the attendee list and travel records for the August 2025 Hamptons retreat and the call log for the Netanyahu call.
+Open Questions: Q-77
 
 ---
 
@@ -1276,6 +1285,7 @@ Related Nodes: N-10320, N-10415
 Supports: C-4114
 Tags: relevance:core
 Investigative Direction: Obtain the two confirming sources' accounts (anonymized if necessary) and Kolvet's original statement.
+Open Questions: Q-77
 
 ---
 
@@ -1293,6 +1303,7 @@ Related Nodes: N-10415
 Contradicts: C-4114
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's account with Kolvet's and with the May 2025 letter released by Netanyahu's office.
+Open Questions: Q-77
 
 ---
 
@@ -1310,6 +1321,7 @@ Related Nodes: N-10027, N-10415
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's original account and any contemporaneous messages in which Charlie Kirk characterized the summit.
+Open Questions: Q-12
 
 ---
 
@@ -1326,6 +1338,7 @@ Mentions: N-3, N-2, N-14
 Related Nodes: N-10419
 Tags: relevance:core
 Investigative Direction: Identify who drafted and approved the Fort Huachuca response and obtain the messages coordinating it.
+Open Questions: Q-532
 
 ---
 
@@ -1342,6 +1355,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10820, N-10419
 Tags: relevance:core
 Investigative Direction: Obtain communications between TPUSA and Paramount Tactical and the date of the host's meeting with Erika Kirk.
+Open Questions: Q-532
 
 ---
 
@@ -1374,6 +1388,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10820, N-10000
 Tags: relevance:core
 Investigative Direction: Find the Charlie Kirk Show episode with Paramount Tactical and its air date relative to the host's meeting.
+Open Questions: Q-532
 
 ---
 
@@ -1390,6 +1405,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10419
 Tags: relevance:core
 Investigative Direction: Identify the livestream in which Kolvet was seen messaging and the content and timing of the message.
+Open Questions: Q-535
 
 ---
 
@@ -1406,6 +1422,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10502, N-10071, N-10507
 Tags: relevance:core
 Investigative Direction: Obtain airport video, flight records and eyewitness accounts of the September 10 tarmac meeting at Provo.
+Open Questions: Q-327
 
 ---
 
@@ -1422,6 +1439,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10507, N-10502
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest for Kolvet's September 10 flight to Provo.
+Open Questions: Q-327
 
 ---
 
@@ -1438,6 +1456,7 @@ Mentions: N-2, N-14, N-3
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Compare with the manifest and eyewitness accounts; ask Erika Kirk's office to confirm or deny.
+Open Questions: Q-327
 
 ---
 
@@ -1457,6 +1476,7 @@ Qualifies: C-5411
 Verification: revised-by-host
 Verification Evidence: C-7453
 Investigative Direction: Reconcile Erika Kirk's September 10 movements with flight arrival times at Provo.
+Open Questions: Q-327
 
 ---
 
@@ -1473,6 +1493,7 @@ Mentions: N-14, N-2
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Obtain hospital entrance accounts from staff present on September 10, 2025.
+Open Questions: Q-537
 
 ---
 
@@ -1489,6 +1510,7 @@ Mentions: N-14, N-2, N-1, N-3
 Related Nodes: N-11010, N-10920
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA board minutes or written consent recording the date of the CEO vote.
+Open Questions: Q-538
 
 ---
 
@@ -1506,6 +1528,7 @@ Related Nodes: N-11010
 Supports: C-5710
 Tags: relevance:core
 Investigative Direction: Obtain the board resolution and any record of when Erika Kirk agreed to be nominated.
+Open Questions: Q-538
 
 ---
 
@@ -1538,6 +1561,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11159
 Tags: relevance:core
 Investigative Direction: Obtain accounts from Erika Kirk's relatives and hospital staff on who accompanied her on September 10.
+Open Questions: Q-539
 
 ---
 
@@ -1587,6 +1611,7 @@ Related Nodes: N-11159, N-10513
 Supports: C-5713
 Tags: relevance:core
 Investigative Direction: Confirm Sheridan's travel to Utah via flight records or staff accounts.
+Open Questions: Q-539, Q-540
 
 ---
 
@@ -1605,6 +1630,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-11534
 Investigative Direction: Locate any video of Charlie Kirk in the casket and identify who recorded and published it.
+Open Questions: Q-360
 
 ---
 
@@ -1621,6 +1647,7 @@ Mentions: N-186, N-2, N-1
 Related Nodes: N-11159
 Tags: relevance:core
 Investigative Direction: Review the arrival footage and photos at the airport to identify who stood beside Erika Kirk.
+Open Questions: Q-360, Q-539
 
 ---
 
@@ -1654,6 +1681,7 @@ Related Nodes: N-11159
 Supports: C-5713
 Tags: relevance:core
 Investigative Direction: Interview hospital personnel or review visitor logs for who accompanied Erika Kirk.
+Open Questions: Q-539
 
 ---
 
@@ -1670,6 +1698,7 @@ Mentions: N-186, N-2, N-3
 Related Nodes: N-11159
 Tags: relevance:core
 Investigative Direction: Identify the source and date of the car clip and who filmed it.
+Open Questions: Q-360, Q-539
 
 ---
 
@@ -1686,6 +1715,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10456
 Tags: relevance:core
 Investigative Direction: Obtain statements from current and former employees about workplace conditions after September 10.
+Open Questions: Q-524
 
 ---
 
@@ -1703,6 +1733,7 @@ Related Nodes: N-10000, N-10456
 Supports: C-5602
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's post-assassination fundraising totals with separation dates and numbers.
+Open Questions: Q-533
 
 ---
 
@@ -1720,6 +1751,7 @@ Related Nodes: N-10324
 Supports: C-5723
 Tags: relevance:core
 Investigative Direction: Confirm Farnsworth's role in removing the cameras from earlier reporting and the camera records.
+Open Questions: Q-63
 
 ---
 
@@ -1736,6 +1768,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Verify wording against the unedited recording of the call.
+Open Questions: Q-519
 
 ---
 
@@ -1752,6 +1785,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Verify wording against the unedited recording of the call.
+Open Questions: Q-519
 
 ---
 
@@ -1768,6 +1802,7 @@ Mentions: N-2
 Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Verify wording against the unedited recording and identify the person Erika names as 'Justin'.
+Open Questions: Q-519
 
 ---
 
@@ -1802,6 +1837,7 @@ Related Nodes: N-11002, N-10456
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Identify the employee and obtain her account and any termination paperwork.
+Open Questions: Q-503
 
 ---
 
@@ -1819,6 +1855,7 @@ Related Nodes: N-10417
 Supports: C-5728
 Tags: relevance:core
 Investigative Direction: Compare the audio with later separation records to test the sincerity of the job-security promise.
+Open Questions: Q-503
 
 ---
 
@@ -1836,6 +1873,7 @@ Related Nodes: N-10456, N-11002
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Obtain a count and list of separations with dates and stated reasons.
+Open Questions: Q-503
 
 ---
 
@@ -1852,6 +1890,7 @@ Mentions: N-2
 Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Verify wording against the unedited recording.
+Open Questions: Q-519
 
 ---
 
@@ -1884,6 +1923,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000, N-10934
 Tags: relevance:core
 Investigative Direction: Obtain employee accounts and any internal messages asking for weekend merchandise work.
+Open Questions: Q-524
 
 ---
 
@@ -1901,6 +1941,7 @@ Related Nodes: N-10000, N-10456
 Supports: C-5722
 Tags: relevance:core
 Investigative Direction: Obtain statements from the employees who spoke to the host.
+Open Questions: Q-524
 
 ---
 
@@ -1918,6 +1959,7 @@ Related Nodes: N-11098
 Supports: C-5687
 Tags: relevance:core
 Investigative Direction: Obtain the host's sources' documents or messages showing Erika Kirk directing PR statements.
+Open Questions: Q-535
 
 ---
 
@@ -1935,6 +1977,7 @@ Related Nodes: N-10416
 Supports: C-5690
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public statements with the surgeon's account and call records.
+Open Questions: Q-421, Q-535
 
 ---
 
@@ -1952,6 +1995,7 @@ Related Nodes: N-10416
 Supports: C-4425
 Tags: relevance:core
 Investigative Direction: Obtain phone records for the September 20, 2025 date and the timing of Kolvet's post.
+Open Questions: Q-421
 
 ---
 
@@ -1968,6 +2012,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10319, N-10416
 Tags: relevance:core
 Investigative Direction: Match the time stamp of Kolvet's X post to the host's episode release time.
+Open Questions: Q-421
 
 ---
 
@@ -1985,6 +2030,7 @@ Related Nodes: N-10456, N-10408
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Identify Marina's exact title and the employees allegedly dismissed after remarks overheard by drivers.
+Open Questions: Q-541
 
 ---
 
@@ -2002,6 +2048,7 @@ Related Nodes: N-11096, N-10000
 Supports: C-5604
 Tags: relevance:core
 Investigative Direction: Obtain the cease and desist letter and its date and demands.
+Open Questions: Q-507
 
 ---
 
@@ -2527,6 +2574,7 @@ Related Nodes: N-10000
 Supports: C-5634
 Tags: relevance:core
 Investigative Direction: Obtain employee accounts of Erika Kirk's daily presence and role in September 2025.
+Open Questions: Q-526
 
 ---
 
@@ -2544,6 +2592,7 @@ Related Nodes: N-10000, N-11002
 Supports: C-5335
 Tags: relevance:core
 Investigative Direction: Identify the employee and obtain termination records.
+Open Questions: Q-503
 
 ---
 
@@ -2561,6 +2610,7 @@ Related Nodes:
 Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Compare the host's notes of the meeting with later verified facts.
+Open Questions: Q-535
 
 ---
 
@@ -2578,6 +2628,7 @@ Related Nodes: N-10416
 Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Identify the other sources and compare their accounts with Erika Kirk's.
+Open Questions: Q-535
 
 ---
 
@@ -2594,6 +2645,7 @@ Mentions: N-3, N-1
 Related Nodes: N-11096, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the tour agreement and the cease and desist letter and compare their wording.
+Open Questions: Q-507
 
 ---
 
@@ -2642,6 +2694,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Find footage or photos of the caged mic and the fundraiser dinner with the place setting.
+Open Questions: Q-542
 
 ---
 

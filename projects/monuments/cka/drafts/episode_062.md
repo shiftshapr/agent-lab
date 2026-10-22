@@ -879,6 +879,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000, N-11015
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA and Turning Point Action financial filings and donation reports for September 2025 onward to confirm or refute the 250 million dollar figure.
+Open Questions: Q-510
 
 ---
 
@@ -896,6 +897,7 @@ Related Nodes: N-10044, N-10201
 Supports: C-2122
 Tags: relevance:core
 Investigative Direction: Identify the donors and the communications (texts, emails, call logs) in which funding was threatened to Charlie Kirk in 2025.
+Open Questions: Q-6
 
 ---
 
@@ -913,6 +915,7 @@ Related Nodes: N-10998
 Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Compare the July 2025 Student Action Summit schedule and later donor communications with the timing of the reported donor backlash.
+Open Questions: Q-6, Q-265
 
 ---
 
@@ -930,6 +933,7 @@ Related Nodes: N-10023
 Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Find the full video of Carlson's July 2025 speech and verify the quoted passage and the biographical facts about Epstein.
+Open Questions: Q-265
 
 ---
 
@@ -947,6 +951,7 @@ Related Nodes: N-10015, N-10023
 Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Find the full video of the speech; check which former Israeli prime minister Carlson referred to and the documentation of that residence.
+Open Questions: Q-265
 
 ---
 
@@ -964,6 +969,7 @@ Related Nodes: N-10318, N-10252
 Supports: C-2046
 Tags: relevance:core
 Investigative Direction: Obtain the September 9, 2025 text thread and its recipient list from one of the employees on it; compare with the earlier-shown text about inviting her.
+Open Questions: Q-511
 
 ---
 
@@ -981,6 +987,7 @@ Related Nodes: N-10252, N-10026
 Supports: C-3163, C-2791
 Tags: relevance:core
 Investigative Direction: Identify who decided against the invitation and when, through AmFest speaker-planning records and the staff on the September 9 text.
+Open Questions: Q-511
 
 ---
 
@@ -1030,6 +1037,7 @@ Related Nodes: N-10407
 Supports: C-5535
 Tags: relevance:core
 Investigative Direction: Independent confirmation of the message's authenticity from a recipient or from Charlie Kirk's phone records.
+Open Questions: Q-512
 
 ---
 
@@ -1047,6 +1055,7 @@ Related Nodes: N-10407
 Supports: C-5534
 Tags: relevance:core
 Investigative Direction: Obtain the original message and metadata to identify the sender and confirm the wording.
+Open Questions: Q-512
 
 ---
 
@@ -1095,6 +1104,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10407, N-10044
 Tags: relevance:core
 Investigative Direction: Find Charlie's replies to the donor, or accounts from people he spoke to about the message.
+Open Questions: Q-512
 
 ---
 
@@ -1143,6 +1153,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10407
 Tags: relevance:core
 Investigative Direction: Ask TPUSA directly whether it has identified the sender and whether it has any record of the message.
+Open Questions: Q-512
 
 ---
 
@@ -1160,6 +1171,7 @@ Related Nodes: N-10000, N-11002
 Supports: C-5511
 Tags: relevance:core
 Investigative Direction: Obtain termination records, headcount data and employee accounts to establish who was let go, when, and on what stated grounds.
+Open Questions: Q-503
 
 ---
 
@@ -1192,6 +1204,7 @@ Mentions: N-489, N-387, N-490, N-491, N-2
 Related Nodes: N-10409
 Tags: relevance:core
 Investigative Direction: Search state corporation records for every entity listing Frantzve, Guinta, Lyle Reams or Shelly Reams as members or agents.
+Open Questions: Q-513
 
 ---
 
@@ -1256,6 +1269,7 @@ Mentions: N-489, N-3
 Related Nodes: N-10904, N-11093
 Tags: relevance:core
 Investigative Direction: Verify Frantzve's employer or contractor status in 2017 and the date she moved to Arizona.
+Open Questions: Q-477, Q-513
 
 ---
 
@@ -1288,6 +1302,7 @@ Mentions: N-3
 Related Nodes: N-10411, N-11093
 Tags: relevance:core
 Investigative Direction: Check Pinal County and Gila River Indian Community address records and the Arizona Corporation Commission filing for the listed address.
+Open Questions: Q-513
 
 ---
 
@@ -1305,6 +1320,7 @@ Related Nodes: N-11095, N-10411
 Supports: C-5550
 Tags: relevance:core
 Investigative Direction: Obtain Generation Seven Farms' registration and any tribal business licence, and map its address.
+Open Questions: Q-513
 
 ---
 
@@ -1418,6 +1434,7 @@ Related Nodes: N-11096, N-10405, N-10000
 Supports: C-5453, C-5431
 Tags: relevance:core
 Investigative Direction: Obtain the text of the letter and compare its listed statements with the host's earlier episodes.
+Open Questions: Q-507, Q-514
 
 ---
 
@@ -1468,6 +1485,7 @@ Related Nodes: N-10405, N-10189
 Supports: C-5563
 Tags: relevance:core
 Investigative Direction: Determine whether 'that background' in the tweet means military service, and how many TPUSA staff have it.
+Open Questions: Q-514
 
 ---
 
@@ -1484,6 +1502,7 @@ Mentions: N-3
 Related Nodes: N-10408, N-11002
 Tags: relevance:core
 Investigative Direction: Obtain direct statements from TPUSA or from the fired staff on the reasons given.
+Open Questions: Q-503
 
 ---
 
@@ -1501,6 +1520,7 @@ Related Nodes: N-10408
 Supports: C-5568
 Tags: relevance:core
 Investigative Direction: Identify the employee and the CMO and confirm with them whether the Uber conversation took place.
+Open Questions: Q-515
 
 ---
 
@@ -1550,6 +1570,7 @@ Related Nodes: N-11015, N-10000
 Supports: C-5524
 Tags: relevance:core
 Investigative Direction: Obtain the source's basis for the figure and match it against TPUSA financial filings.
+Open Questions: Q-510
 
 ---
 
@@ -1566,6 +1587,7 @@ Mentions: N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Interview current and former TPUSA staff about access to Erika Kirk.
+Open Questions: Q-516
 
 ---
 
@@ -1583,6 +1605,7 @@ Related Nodes: N-10408, N-11002
 Supports: C-5568
 Tags: relevance:core
 Investigative Direction: Confirm with the employee the dates and what Kolvet said in the meeting.
+Open Questions: Q-515
 
 ---
 
@@ -1600,6 +1623,7 @@ Related Nodes: N-10408
 Supports: C-5578
 Tags: relevance:core
 Investigative Direction: Obtain the full recording and identify the employee and the date.
+Open Questions: Q-503
 
 ---
 
@@ -1648,6 +1672,7 @@ Mentions: N-494
 Related Nodes: N-10408
 Tags: relevance:core
 Investigative Direction: Identify Dylan and Justin; the recording gives no surnames.
+Open Questions: Q-503
 
 ---
 
@@ -1664,6 +1689,7 @@ Mentions: N-494
 Related Nodes: N-10408
 Tags: relevance:core
 Investigative Direction: Ask the employee what 'that whole GC situation' and the job refer to, and corroborate with others in the office.
+Open Questions: Q-503
 
 ---
 
@@ -1713,6 +1739,7 @@ Related Nodes: N-10408
 Supports: C-5568
 Tags: relevance:core
 Investigative Direction: Confirm Marina Minas's role at TPUSA and her connection to the Uber conversation.
+Open Questions: Q-515
 
 ---
 
@@ -1729,6 +1756,7 @@ Mentions: N-3
 Related Nodes: N-10408
 Tags: relevance:core
 Investigative Direction: Identify the employee and who arranged the Zoom meeting; the host's wording is unclear about who it was set up by.
+Open Questions: Q-517
 
 ---
 
@@ -1746,6 +1774,7 @@ Related Nodes: N-10408
 Supports: C-5586
 Tags: relevance:core
 Investigative Direction: Confirm directly with the employee.
+Open Questions: Q-517
 
 ---
 
@@ -1763,6 +1792,7 @@ Related Nodes: N-11002, N-10408
 Supports: C-5511
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what monitoring software it installed and whether any investigation of leaks was carried out.
+Open Questions: Q-517
 
 ---
 
@@ -1892,6 +1922,7 @@ Related Nodes: N-11015, N-10000
 Supports: C-5524, C-5573
 Tags: relevance:core
 Investigative Direction: Obtain the underlying financial statements for the period.
+Open Questions: Q-510
 
 ---
 

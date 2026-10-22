@@ -1420,6 +1420,7 @@ Mentions: N-1
 Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Map hospital distances from the campus and compare published trauma-level designations of the nearer hospitals with the hospital used.
+Open Questions: Q-140
 
 ---
 
@@ -1436,6 +1437,7 @@ Mentions: N-3, N-1, N-134
 Related Nodes: N-10144
 Tags: relevance:core,dia
 Investigative Direction: Obtain the surgical team roster from the hospital or the death certificate and records through the family.
+Open Questions: Q-141
 
 ---
 
@@ -1452,6 +1454,7 @@ Mentions: N-3, N-128
 Related Nodes: N-11190
 Tags: relevance:core
 Investigative Direction: Compare archived captures of his accounts against the current state and ask him directly why he deleted them.
+Open Questions: Q-128
 
 ---
 
@@ -1468,6 +1471,7 @@ Mentions: N-3
 Related Nodes: N-10049, N-10130
 Tags: relevance:core
 Investigative Direction: Retrieve the earlier paid message and the tipster's identity, and compare her description with the doorbell footage released by TMZ.
+Open Questions: Q-150
 
 ---
 
@@ -1516,6 +1520,7 @@ Mentions: N-3
 Related Nodes: N-10011, N-10049
 Tags: relevance:core
 Investigative Direction: Establish TMZ's first publication time and source for the doorbell footage.
+Open Questions: Q-23
 
 ---
 
@@ -1532,6 +1537,7 @@ Mentions: N-3, N-142, N-128
 Related Nodes: N-10147, N-10014
 Tags: relevance:core
 Investigative Direction: Confirm the aunt's identity and whether she gave footage to the FBI and, if so, which files.
+Open Questions: Q-150
 
 ---
 
@@ -1548,6 +1554,7 @@ Mentions: N-3
 Related Nodes: N-10014, N-10147
 Tags: relevance:core
 Investigative Direction: Review FBI press briefings from September 10 to 12 for any mention of a second person.
+Open Questions: Q-150, Q-151
 
 ---
 
@@ -1564,6 +1571,7 @@ Mentions: N-3, N-61
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Obtain the text or message exchange between the host and Phil Lyman.
+Open Questions: Q-129
 
 ---
 
@@ -1580,6 +1588,7 @@ Mentions: N-3, N-61, N-129
 Related Nodes: N-10006, N-10011, N-10141
 Tags: relevance:core
 Investigative Direction: Pull the Fox News segment and compare Lyman's statements about where he was with the footage timeline.
+Open Questions: Q-23, Q-124
 
 ---
 
@@ -1596,6 +1605,7 @@ Mentions: N-3, N-61
 Related Nodes: N-10011, N-10049
 Tags: relevance:core
 Investigative Direction: Ask TMZ about its source and check the footage's chain of custody.
+Open Questions: Q-23
 
 ---
 
@@ -1612,6 +1622,7 @@ Mentions: N-3
 Related Nodes: N-10147
 Tags: relevance:core,dia
 Investigative Direction: Cross-check submissions to the tip line against the footage and the Lyman family network.
+Open Questions: Q-150
 
 ---
 
@@ -1627,6 +1638,7 @@ Anchored Artifacts: A-3100.3
 Mentions: N-3
 Tags: relevance:core,dia
 Investigative Direction: Confirm whether a second tip line was opened in later episodes.
+Open Questions: Q-130
 
 ---
 
@@ -1643,6 +1655,7 @@ Mentions: N-3, N-128
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Identify the Austrian national and verify his link to the Lyman family.
+Open Questions: Q-123
 
 ---
 
@@ -1659,6 +1672,7 @@ Mentions: N-61, N-128
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Compare Lyman's statements on who the two people were across interviews and messages.
+Open Questions: Q-123
 
 ---
 
@@ -1675,6 +1689,7 @@ Mentions: N-3
 Related Nodes: N-10148, N-10142
 Tags: relevance:core
 Investigative Direction: Verify the Robbie Hild identity through school, social media and residence records.
+Open Questions: Q-123
 
 ---
 
@@ -1707,6 +1722,7 @@ Mentions: N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Identify any documentary evidence for foreign operatives; none is cited on air.
+Open Questions: Q-152
 
 ---
 
@@ -1945,6 +1961,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10026
 Tags: relevance:core
 Investigative Direction: Obtain and authenticate the text messages.
+Open Questions: Q-153
 
 ---
 
@@ -1977,6 +1994,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10379
 Tags: relevance:core
 Investigative Direction: Corroborate through Charlie's messages or associates describing similar pressure.
+Open Questions: Q-6
 
 ---
 
@@ -2039,6 +2057,7 @@ Mentions: N-46, N-1
 Related Nodes: N-10379
 Tags: relevance:core
 Investigative Direction: Identify when and to whom Charlie expressed this.
+Open Questions: Q-6
 
 ---
 
@@ -2134,6 +2153,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10026, N-10053
 Tags: relevance:core
 Investigative Direction: Establish the dates and participants of the trip.
+Open Questions: Q-2, Q-154
 
 ---
 
@@ -2150,6 +2170,7 @@ Mentions: N-1
 Related Nodes: N-10026, N-10143
 Tags: relevance:core
 Investigative Direction: Corroborate with Charlie's messages and public statements.
+Open Questions: Q-2
 
 ---
 
@@ -2181,6 +2202,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10003
 Tags: relevance:core
 Investigative Direction: Compare with public statements by either to check for disputes.
+Open Questions: Q-154
 
 ---
 
@@ -2197,6 +2219,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11187
 Tags: relevance:core
 Investigative Direction: Review event video of the security team's reaction and TPUSA's security plan.
+Open Questions: Q-155
 
 ---
 
@@ -2213,6 +2236,7 @@ Mentions: N-1
 Related Nodes: N-10000, N-11187
 Tags: relevance:core
 Investigative Direction: Review TPUSA contracts and payments to the security vendor.
+Open Questions: Q-156
 
 ---
 
@@ -2322,6 +2346,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10819, N-10017
 Tags: relevance:core
 Investigative Direction: Authenticate the letter and trace its release.
+Open Questions: Q-53, Q-154
 
 ---
 
@@ -2338,6 +2363,7 @@ Mentions: N-3, N-1
 Related Nodes: N-11188, N-10075
 Tags: relevance:core
 Investigative Direction: Identify the laptop custodian and access logs.
+Open Questions: Q-157
 
 ---
 
@@ -2354,6 +2380,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask which people.
+Open Questions: Q-137
 
 ---
 
@@ -2401,6 +2428,7 @@ Anchored Artifacts: A-3100.4
 Mentions: N-3
 Tags: dia, relevance:core
 Investigative Direction: Review tip line submissions.
+Open Questions: Q-130
 
 ---
 

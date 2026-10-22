@@ -984,6 +984,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Obtain the messages or calls between Kolvet and the YouTubers or Alex Jones that the host says exist, and ask Kolvet and TPUSA to confirm or deny the contact.
+Open Questions: Q-437
 
 ---
 
@@ -1016,6 +1017,7 @@ Mentions: N-217, N-3
 Related Nodes: N-10349
 Tags: relevance:core
 Investigative Direction: Identify the TPUSA insiders the host messaged and obtain the exchange; ask TPUSA and Elizabeth McCoy who approved displaying the tent at AmFest.
+Open Questions: Q-438
 
 ---
 
@@ -1032,6 +1034,7 @@ Mentions: N-2, N-217, N-190
 Related Nodes: N-10349
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what Erika Kirk knew about the tent display and when; look for AmFest planning emails or approvals involving Elizabeth McCoy.
+Open Questions: Q-438
 
 ---
 
@@ -1049,6 +1052,7 @@ Related Nodes: N-10327, N-10350, N-10265
 Supports: C-4454
 Tags: relevance:core
 Investigative Direction: Ask CBS and the event producers who proposed and approved the Hunter Kozak segment and obtain the run-of-show for the interview.
+Open Questions: Q-439
 
 ---
 
@@ -1065,6 +1069,7 @@ Mentions: N-326, N-1, N-3
 Related Nodes: N-10350
 Tags: relevance:core
 Investigative Direction: Review UVU event video of the question-and-answer exchange to confirm the topic of Cosgrove's question and its timing relative to the shot.
+Open Questions: Q-440
 
 ---
 
@@ -1193,6 +1198,7 @@ Related Nodes: N-10342
 Supports: C-4316
 Tags: relevance:core
 Investigative Direction: Verify Mitch Snow's base access and the dates through gate, hotel and incident records; test each identification independently.
+Open Questions: Q-391, Q-441
 
 ---
 
@@ -1210,6 +1216,7 @@ Related Nodes: N-10342, N-10312, N-10353
 Supports: C-4347
 Tags: relevance:core
 Investigative Direction: Obtain Candlewood Suites registration and security footage for September 8 and Erika Kirk's own whereabouts records for that date.
+Open Questions: Q-441
 
 ---
 
@@ -1227,6 +1234,7 @@ Related Nodes: N-10342, N-10347, N-10305
 Supports: C-4348, C-4413
 Tags: relevance:core
 Investigative Direction: Compare Harpole's travel records and phone location data for the morning of September 9 with the JTF building meeting window.
+Open Questions: Q-391
 
 ---
 
@@ -1244,6 +1252,7 @@ Related Nodes: N-10346, N-10347
 Supports: C-4426
 Tags: relevance:core
 Investigative Direction: Check Cabot Phillips's whereabouts, work schedule and travel on September 8 and 9 against Mitch's description.
+Open Questions: Q-442
 
 ---
 
@@ -1261,6 +1270,7 @@ Related Nodes: N-10342
 Supports: C-4409
 Tags: relevance:core
 Investigative Direction: Ask the host to publish or independently authenticate the receipts, hotel booking and base-access records.
+Open Questions: Q-391, Q-443
 
 ---
 
@@ -1278,6 +1288,7 @@ Related Nodes: N-10342, N-10353
 Qualifies: C-4466
 Tags: relevance:core
 Investigative Direction: Test the Erika identification separately from the Harpole identification, using hotel and security records.
+Open Questions: Q-441
 
 ---
 
@@ -1311,6 +1322,7 @@ Mentions: N-361
 Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's account and any recording of the call; ask Paramount Tactical to state what was said.
+Open Questions: Q-444
 
 ---
 
@@ -1327,6 +1339,7 @@ Mentions: N-130, N-361, N-3
 Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Ask Ian Carroll to confirm or deny the call and its content; obtain any call logs or messages from the host.
+Open Questions: Q-443, Q-444
 
 ---
 
@@ -1343,6 +1356,7 @@ Mentions: N-130, N-3
 Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Identify the third party and any legal correspondence; confirm whether any cease and desist letter was received.
+Open Questions: Q-427, Q-444
 
 ---
 
@@ -1359,6 +1373,7 @@ Mentions: N-361
 Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Obtain Mitch Snow's military service record and the streams in which his past was discussed.
+Open Questions: Q-443
 
 ---
 
@@ -1376,6 +1391,7 @@ Related Nodes: N-10306, N-10342
 Supports: C-3852
 Tags: relevance:core
 Investigative Direction: Obtain incident report 861-1-2025-MPC446 through FOIA and authenticate it with the Fort Huachuca provost office.
+Open Questions: Q-445
 
 ---
 
@@ -1392,6 +1408,7 @@ Mentions: N-361
 Related Nodes: N-10306
 Tags: relevance:core
 Investigative Direction: Compare the report's license number format with Washington state license formats and request the official report.
+Open Questions: Q-445
 
 ---
 
@@ -1409,6 +1426,7 @@ Related Nodes: N-10342
 Supports: C-4480
 Tags: relevance:core
 Investigative Direction: Identify the stream and the son and obtain the unedited interview to check what he said about the September 9 call.
+Open Questions: Q-445
 
 ---
 
@@ -1425,6 +1443,7 @@ Mentions: N-361
 Related Nodes: N-10342, N-10306
 Tags: relevance:core
 Investigative Direction: Compare this description with the incident report and Mitch's own account of the canine and bomb-threat encounter.
+Open Questions: Q-445
 
 ---
 
@@ -1442,6 +1461,7 @@ Related Nodes: N-10342
 Supports: C-4316
 Tags: relevance:core
 Investigative Direction: Corroborate the son's September 9 call with military police records and phone logs.
+Open Questions: Q-445
 
 ---
 
@@ -1458,6 +1478,7 @@ Mentions: N-2
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Watch the full stream and compare the dates in the alibi material with the dates in Mitch's allegation.
+Open Questions: Q-437, Q-441
 
 ---
 
@@ -1475,6 +1496,7 @@ Related Nodes: N-10353
 Supports: C-4484
 Tags: relevance:core
 Investigative Direction: Obtain the unedited stream and the original notes; cross-check the day's schedule with TPUSA and Fox records.
+Open Questions: Q-441
 
 ---
 
@@ -1492,6 +1514,7 @@ Related Nodes: N-10353
 Supports: C-4484
 Tags: relevance:core
 Investigative Direction: Obtain the image and its metadata and test the timestamp, time zone and date.
+Open Questions: Q-441
 
 ---
 
@@ -1509,6 +1532,7 @@ Related Nodes: N-10351
 Supports: C-4487
 Tags: relevance:core
 Investigative Direction: Obtain Jones's statement and any messages between Jones and Kolvet; ask both to confirm contact.
+Open Questions: Q-437
 
 ---
 
@@ -1525,6 +1549,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Compare Mitch's allegation (the 8th, evening) with the dates the alibi material addresses.
+Open Questions: Q-441
 
 ---
 
@@ -1541,6 +1566,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-11027
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's statement with Kolvet's public posts; ask TPUSA to clarify what Kolvet did without authorization.
+Open Questions: Q-417
 
 ---
 
@@ -1558,6 +1584,7 @@ Related Nodes: N-10318, N-11027
 Supports: C-4063
 Tags: relevance:core
 Investigative Direction: Obtain the text and Erika's account of when she saw Kirk's phone; compare with TPUSA's public statement.
+Open Questions: Q-171
 
 ---
 
@@ -1574,6 +1601,7 @@ Mentions: N-2, N-14
 Related Nodes: N-10416, N-10319, N-11027
 Tags: relevance:core
 Investigative Direction: Obtain Erika's statements on the surgeon call and any hospital privacy review.
+Open Questions: Q-421
 
 ---
 
@@ -1591,6 +1619,7 @@ Related Nodes: N-10416, N-10319
 Supports: C-4425
 Tags: relevance:core
 Investigative Direction: Obtain call records for the three-way call and the surgeon's account via a representative.
+Open Questions: Q-421
 
 ---
 
@@ -1607,6 +1636,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Nothing to verify beyond the host's statement; compare with her earlier episode on the surgeon quote.
+Open Questions: Q-421
 
 ---
 
@@ -1624,6 +1654,7 @@ Related Nodes: N-10129, N-10415
 Supports: C-3192
 Tags: relevance:core
 Investigative Direction: Obtain the attendee list and any photos from the August 2025 Hamptons retreat.
+Open Questions: Q-77
 
 ---
 
@@ -1641,6 +1672,7 @@ Related Nodes: N-10320, N-10415
 Supports: C-82
 Tags: relevance:core
 Investigative Direction: Seek independent confirmation of the call from Netanyahu's office or other attendees.
+Open Questions: Q-77
 
 ---
 
@@ -1658,6 +1690,7 @@ Related Nodes: N-10320, N-10415
 Contradicts: C-3193
 Tags: relevance:core
 Investigative Direction: Compare Erika's denial with the host's three sources and any donor accounts.
+Open Questions: Q-77
 
 ---
 
@@ -1675,6 +1708,7 @@ Related Nodes: N-10320
 Supports: C-4114
 Tags: relevance:core
 Investigative Direction: Ask Kolvet whether he told the host this; look for contemporaneous messages.
+Open Questions: Q-77
 
 ---
 
@@ -1692,6 +1726,7 @@ Related Nodes: N-10320
 Supports: C-4118
 Tags: relevance:core
 Investigative Direction: Only the host can test this source; seek other attendees of the dinner.
+Open Questions: Q-77
 
 ---
 
@@ -1709,6 +1744,7 @@ Related Nodes: N-10320, N-10287
 Supports: C-3477
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and those close to him about any financial interest tied to the offer.
+Open Questions: Q-77
 
 ---
 
@@ -1725,6 +1761,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to confirm the outreach and obtain the messages.
+Open Questions: Q-437
 
 ---
 
@@ -1741,6 +1778,7 @@ Mentions: N-15, N-3, N-14
 Related Nodes: N-10282
 Tags: relevance:core
 Investigative Direction: Ask Streiff and TPUSA to confirm the call and the existence of a ceasefire.
+Open Questions: Q-437
 
 ---
 
@@ -1757,6 +1795,7 @@ Mentions: N-15, N-2, N-1, N-361
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Obtain the message with metadata unredacted and check its timestamp against Mitch's allegation.
+Open Questions: Q-441
 
 ---
 
@@ -1773,6 +1812,7 @@ Mentions: N-15, N-3, N-2
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Request the unredacted message or screen recording and have the contact identified.
+Open Questions: Q-441
 
 ---
 
@@ -1789,6 +1829,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to supply the unredacted alibi message and its metadata.
+Open Questions: Q-441
 
 ---
 
@@ -1806,6 +1847,7 @@ Related Nodes: N-10346, N-10355
 Supports: C-4421
 Tags: relevance:core
 Investigative Direction: Obtain the photo lineup sets and how many faces were shown to test for suggestion.
+Open Questions: Q-442
 
 ---
 
@@ -1823,6 +1865,7 @@ Related Nodes: N-10345, N-10355
 Qualifies: C-4351
 Tags: relevance:core
 Investigative Direction: Ask the host to name the congressman she believes it was; test that person's schedule for September 9.
+Open Questions: Q-442
 
 ---
 
@@ -1886,6 +1929,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Look for Kirk's final private messages or conversations that would reflect his state of mind.
+Open Questions: Q-446
 
 ---
 
@@ -1903,6 +1947,7 @@ Related Nodes: N-10347
 Supports: C-4419
 Tags: relevance:core
 Investigative Direction: Ask Harpole and Flood for proof of their location on the morning of September 9.
+Open Questions: Q-391
 
 ---
 
@@ -1920,6 +1965,7 @@ Related Nodes: N-10347
 Supports: C-4348
 Tags: relevance:core
 Investigative Direction: Obtain Harpole's travel and location records for September 9.
+Open Questions: Q-391
 
 ---
 

@@ -1822,6 +1822,7 @@ Mentions: N-266
 Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Obtain the full Shawn Ryan interview and the security company's operating procedures to confirm the app-based, decentralized command description.
+Open Questions: Q-188
 
 ---
 
@@ -1838,6 +1839,7 @@ Mentions: N-266, N-3
 Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Review the Shawn Ryan interview transcript for the rooftop remark and compare with UVU police operational plans for the September 10 event.
+Open Questions: Q-188
 
 ---
 
@@ -1856,6 +1858,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Check the Shawn Ryan interview for the drone remark and compare with UVU drone authorization records and TPUSA's later statements on drones.
+Open Questions: Q-342
 
 ---
 
@@ -1872,6 +1875,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Identify the tipster through the host and obtain the Charis Bible College event booking and security planning records for September 11, 2025.
+Open Questions: Q-469
 
 ---
 
@@ -1888,6 +1892,7 @@ Mentions: N-1
 Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Request Woodland Park police and Charis Bible College records or announcements about the September 11 vigil and who convened the meeting.
+Open Questions: Q-469
 
 ---
 
@@ -1904,6 +1909,7 @@ Mentions: N-3
 Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Obtain the event security plan, any permits, and police liaison correspondence for the Woodland Park event from the venue or city.
+Open Questions: Q-469
 
 ---
 
@@ -1920,6 +1926,7 @@ Mentions: N-3
 Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Ask the Woodland Park police department for a record of resources deployed to the September 11 vigil and when the request was made.
+Open Questions: Q-469
 
 ---
 
@@ -2096,6 +2103,7 @@ Mentions: N-3
 Related Nodes: N-11090, N-10195
 Tags: relevance:core
 Investigative Direction: Pull the aircraft's registration history from the FAA and Romanian civil aviation registries and match the tail number to the Provo flight.
+Open Questions: Q-126
 
 ---
 
@@ -2112,6 +2120,7 @@ Mentions: N-2
 Related Nodes: N-11081, N-10374
 Tags: relevance:core
 Investigative Direction: Locate the Romanian Angels project's own announcements and registration documents to confirm its start and end dates.
+Open Questions: Q-470
 
 ---
 
@@ -2128,6 +2137,7 @@ Mentions: N-489, N-2
 Related Nodes: N-11082, N-11081
 Tags: relevance:core
 Investigative Direction: Obtain Arizona Corporation Commission and IRS filings for the Everyday Heroes Foundation naming its founder and officers.
+Open Questions: Q-470, Q-471
 
 ---
 
@@ -2144,6 +2154,7 @@ Mentions: N-3
 Related Nodes: N-11081, N-10374
 Tags: relevance:core
 Investigative Direction: Find press releases or photographs documenting the Romanian Angels arrangement with the military in Romania.
+Open Questions: Q-470
 
 ---
 
@@ -2160,6 +2171,7 @@ Mentions: N-687
 Related Nodes: N-11081
 Tags: relevance:core
 Investigative Direction: Locate Romanian Angels thank-you posts or news coverage naming Colonel Busher and the dates of cooperation.
+Open Questions: Q-470
 
 ---
 
@@ -2193,6 +2205,7 @@ Related Nodes: N-11081
 Qualifies: C-4747
 Tags: relevance:core
 Investigative Direction: Search news archives for the Busher allegation for any mention of Romanian Angels, Erika Frantzve or Lori Frantzve.
+Open Questions: Q-470
 
 ---
 
@@ -2209,6 +2222,7 @@ Mentions: N-11, N-3
 Related Nodes: N-10368, N-10374
 Tags: relevance:core
 Investigative Direction: Find Bowyer's own biography, mission trip records or Romanian government statements describing the 2011 visit.
+Open Questions: Q-472
 
 ---
 
@@ -2290,6 +2304,7 @@ Related Nodes: N-11084
 Supports: C-4599
 Tags: relevance:core
 Investigative Direction: Check FAA registration for N888KG and Saprea's nonprofit filings naming Derek and Shelaine Maxfield.
+Open Questions: Q-473
 
 ---
 
@@ -2307,6 +2322,7 @@ Related Nodes: N-11083
 Supports: C-4599
 Tags: relevance:core
 Investigative Direction: Archive the Maxfields' social media profile photos and compare with Operation Underground merchandise.
+Open Questions: Q-473
 
 ---
 
@@ -2340,6 +2356,7 @@ Related Nodes: N-10093
 Supports: C-157
 Tags: relevance:core
 Investigative Direction: Obtain the Zinn charging documents and probable cause statement describing the images charge.
+Open Questions: Q-28
 
 ---
 
@@ -2357,6 +2374,7 @@ Related Nodes: N-10166
 Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Obtain Utah Valley Hospital staff statements or police reports recording what Zinn said about payment.
+Open Questions: Q-28
 
 ---
 
@@ -2405,6 +2423,7 @@ Mentions: N-17
 Related Nodes: N-10232
 Tags: relevance:core
 Investigative Direction: Identify the individual and any court or church records on his placement in homes through Calvary Chapel.
+Open Questions: Q-474
 
 ---
 
@@ -2454,6 +2473,7 @@ Mentions: N-237, N-1
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Review Beck's September 10 broadcasts and any statement about his family's presence at UVU.
+Open Questions: Q-475
 
 ---
 
@@ -2471,6 +2491,7 @@ Related Nodes: N-10139
 Supports: C-4600
 Tags: relevance:core
 Investigative Direction: Seek Lyman's or Ballard's public posts or schedules for the days after September 10, 2025.
+Open Questions: Q-476
 
 ---
 
@@ -2519,6 +2540,7 @@ Mentions: N-2
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's own statements on her parents' work and federal contract records for the parents' companies.
+Open Questions: Q-477
 
 ---
 
@@ -2535,6 +2557,7 @@ Mentions: N-2
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Identify Erika Kirk's father's employment history through public filings or Raytheon contractor listings.
+Open Questions: Q-477
 
 ---
 
@@ -2550,6 +2573,7 @@ Anchored Artifacts:
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Compile service records and defense contracts for members of the Farnsworth family.
+Open Questions: Q-478
 
 ---
 
@@ -2565,6 +2589,7 @@ Anchored Artifacts:
 Mentions: N-7
 Tags: relevance:core
 Investigative Direction: Check Turek's published biography for his Navy service dates and role.
+Open Questions: Q-479
 
 ---
 
@@ -2581,6 +2606,7 @@ Mentions: N-7, N-682
 Related Nodes: N-10664
 Tags: relevance:core
 Investigative Direction: Verify Frank Turek III's Joint Staff position and Spencer Turek's service through public directories or records.
+Open Questions: Q-479
 
 ---
 
@@ -2597,6 +2623,7 @@ Mentions: N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Identify the aircraft from the transcript's garbled name and pull its ADS-B track for September 10, 2025.
+Open Questions: Q-350
 
 ---
 
@@ -2612,6 +2639,7 @@ Anchored Artifacts:
 Mentions: N-195
 Tags: relevance:core
 Investigative Direction: Check Trotter's published biography and FAA airman records.
+Open Questions: Q-480
 
 ---
 
@@ -2628,6 +2656,7 @@ Mentions: N-176
 Related Nodes: N-10175
 Tags: relevance:core
 Investigative Direction: Look for Amaro's military service record or Utah Office of the Medical Examiner biography.
+Open Questions: Q-480
 
 ---
 
@@ -2643,6 +2672,7 @@ Anchored Artifacts:
 Mentions: N-208, N-246
 Tags: relevance:core
 Investigative Direction: Seek public records of Butch Hibbs' and Butch Sr.'s military service.
+Open Questions: Q-478
 
 ---
 
@@ -3115,6 +3145,7 @@ Related Nodes: N-10320
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Identify the host's sources for the offer and any documents, messages or witnesses confirming its terms.
+Open Questions: Q-77
 
 ---
 
@@ -3165,6 +3196,7 @@ Related Nodes: N-10239, N-10371
 Supports: C-4004
 Tags: relevance:core
 Investigative Direction: Compare the Egyptian aircraft tracking data with TPUSA Faith event calendars and pastor travel.
+Open Questions: Q-236
 
 ---
 
@@ -3245,6 +3277,7 @@ Mentions: N-11, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Look for TPUSA real estate programs, entities or announcements and the host's tip source.
+Open Questions: Q-481
 
 ---
 
@@ -3327,6 +3360,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's travel itinerary and event schedule for the Korea and Japan trip in September 2025.
+Open Questions: Q-370
 
 ---
 
@@ -3375,6 +3409,7 @@ Mentions: N-17, N-205, N-3
 Related Nodes: N-10371, N-10201
 Tags: relevance:core
 Investigative Direction: Find the TPUSA Faith pastor summit schedule, speaker list and funding sources.
+Open Questions: Q-310
 
 ---
 
@@ -3471,6 +3506,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11087, N-10000
 Tags: relevance:core
 Investigative Direction: Find the internal TPUSA document or announcement of the "internet DOGE" effort (see C-2136) and what it examined.
+Open Questions: Q-308
 
 ---
 
@@ -3520,6 +3556,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Obtain the Japan itinerary, host organizations and stated purpose of Kirk's Tokyo stop.
+Open Questions: Q-370
 
 ---
 
@@ -3536,6 +3573,7 @@ Mentions: N-1, N-3, N-17, N-190
 Related Nodes: N-10370
 Tags: relevance:core
 Investigative Direction: Find who invited Kirk to Build Up Korea and any correspondence between the McCoys and the organizers.
+Open Questions: Q-370
 
 ---
 
@@ -3553,6 +3591,7 @@ Related Nodes: N-10370
 Supports: C-4850
 Tags: relevance:core
 Investigative Direction: Obtain the Build Up Korea program and Kirk's flight records and compare with the Korean court record for Yoon's arrest.
+Open Questions: Q-370
 
 ---
 
@@ -3570,6 +3609,7 @@ Related Nodes: N-10370
 Supports: C-4851
 Tags: relevance:core
 Investigative Direction: Find Kirk's posts or shows after the Seoul trip in which he discussed Pastor Yoon.
+Open Questions: Q-370
 
 ---
 
@@ -3603,6 +3643,7 @@ Related Nodes: N-11091, N-10320, N-10000
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Identify any documented offer, term sheet or donor proposal presented to Kirk and any witness to it.
+Open Questions: Q-482
 
 ---
 
@@ -3619,6 +3660,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11091
 Tags: relevance:core
 Investigative Direction: Identify who was told of any such offer and whether any financial gain accrued to TPUSA leaders after Kirk's death.
+Open Questions: Q-463, Q-482
 
 ---
 
@@ -3634,6 +3676,7 @@ Anchored Artifacts: A-2923.1
 Mentions: N-270, N-487, N-1
 Tags: relevance:core
 Investigative Direction: Review UVU footage timestamps of Flood's gestures and Cutler's movements relative to the shot.
+Open Questions: Q-483
 
 ---
 
@@ -3649,6 +3692,7 @@ Anchored Artifacts: A-2923.1
 Mentions: N-487
 Tags: relevance:core
 Investigative Direction: Compile Cutler's employment, military and family background from public records.
+Open Questions: Q-484
 
 ---
 
@@ -3664,6 +3708,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Seek the evidentiary record she relies on for coordination and the people implicated.
+Open Questions: Q-463, Q-485
 
 ---
 
@@ -3694,6 +3739,7 @@ Anchored Artifacts: A-2923.2
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Track whether the host later advances a specific method theory.
+Open Questions: Q-485
 
 ---
 
@@ -3710,6 +3756,7 @@ Mentions: N-3
 Related Nodes: N-10239, N-10371
 Tags: relevance:core
 Investigative Direction: Compare her earlier episodes on the Egyptian planes with the trafficking suggestion.
+Open Questions: Q-236
 
 ---
 
@@ -3726,6 +3773,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10371
 Tags: relevance:core
 Investigative Direction: Compare TPUSA Faith's launch date with the organization's earlier messaging.
+Open Questions: Q-310
 
 ---
 

@@ -999,6 +999,7 @@ Related Nodes: N-10734
 Supports: C-10084, C-12215
 Tags: relevance:core
 Investigative Direction: Compare the host's account of the conversation with Farnsworth with the Google Drive transmission records for the September 10 videos.
+Open Questions: Q-1094, Q-1105
 
 ---
 
@@ -1015,6 +1016,7 @@ Mentions: N-3, N-261
 Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Identify who made the statement and ask the SBI and Utah authorities whether any instruction not to release the footage was given.
+Open Questions: Q-1106
 
 ---
 
@@ -1046,6 +1048,7 @@ Mentions: N-261, N-1
 Related Nodes: N-10732
 Tags: relevance:core
 Investigative Direction: Establish from witness statements and video who first pronounced Charlie dead and at what time.
+Open Questions: Q-63, Q-1093
 
 ---
 
@@ -1063,6 +1066,7 @@ Related Nodes: N-10732
 Supports: C-12241
 Tags: relevance:core
 Investigative Direction: Establish when and from whom the host obtained the footage and the date of her conversation with Farnsworth.
+Open Questions: Q-1107
 
 ---
 
@@ -1080,6 +1084,7 @@ Related Nodes: N-10732
 Supports: C-12288
 Tags: relevance:core
 Investigative Direction: Identify the government-side source and check the footage timestamp against the laptop opening.
+Open Questions: Q-1100, Q-1107
 
 ---
 
@@ -1096,6 +1101,7 @@ Mentions: N-3, N-785, N-1
 Related Nodes: N-10732
 Tags: relevance:core
 Investigative Direction: Confirm Schamberger's role in carrying Charlie to the vehicle from other video and witness accounts.
+Open Questions: Q-1108
 
 ---
 
@@ -1113,6 +1119,7 @@ Related Nodes: N-10732
 Supports: C-12243
 Tags: relevance:core
 Investigative Direction: Obtain the full unedited footage and the phone records identifying who Farnsworth was texting and what was done on the laptop.
+Open Questions: Q-1100
 
 ---
 
@@ -1130,6 +1137,7 @@ Related Nodes: N-10096, N-10734
 Supports: C-12228, C-1358
 Tags: relevance:core
 Investigative Direction: Locate Kolvet's original statement and compare it with Bowyer's different account of why the cards were removed.
+Open Questions: Q-63, Q-1100
 
 ---
 
@@ -1146,6 +1154,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10096
 Tags: relevance:core
 Investigative Direction: Identify who told the host the camera was unremarkable and compare with Farnsworth's and Kolvet's accounts of why it was taken first.
+Open Questions: Q-1098
 
 ---
 
@@ -1162,6 +1171,7 @@ Mentions: N-261
 Related Nodes: N-10733, N-10986
 Tags: relevance:core
 Investigative Direction: Obtain Farnsworth's statement and check what it says about each camera's assignment and coverage.
+Open Questions: Q-1095
 
 ---
 
@@ -1179,6 +1189,7 @@ Related Nodes: N-10733
 Supports: C-12296
 Tags: relevance:core
 Investigative Direction: Time-stamp the camera fall and Farnsworth's arrival in the original footage.
+Open Questions: Q-63
 
 ---
 
@@ -1211,6 +1222,7 @@ Mentions: N-2, N-237, N-1
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Obtain the Glenn Beck interview and compare Erika's statement with the night-before messages the host describes.
+Open Questions: Q-1102
 
 ---
 
@@ -1227,6 +1239,7 @@ Mentions: N-2
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Check whether Erika Kirk or TPUSA has issued any correction of the Glenn Beck statement.
+Open Questions: Q-1102
 
 ---
 
@@ -1390,6 +1403,7 @@ Related Nodes: N-10000
 Supports: C-585
 Tags: relevance:core
 Investigative Direction: Compile TPUSA and Erika Kirk public statements about Robinson's guilt after the memorial.
+Open Questions: Q-1109
 
 ---
 
@@ -1405,6 +1419,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-18
 Tags: relevance:core
 Investigative Direction: Review the host's prior episodes and the debate transcript for any explicit accusation of this kind.
+Open Questions: Q-290
 
 ---
 
@@ -1437,6 +1452,7 @@ Mentions: N-3, N-2, N-40
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's public statements on Robinson with the timing of the hearing.
+Open Questions: Q-1109
 
 ---
 
@@ -1469,6 +1485,7 @@ Mentions: N-3, N-40, N-18
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Find the primary source for the claim that the parents turned Robinson in and check it against the probable-cause documents.
+Open Questions: Q-44
 
 ---
 
@@ -1485,6 +1502,7 @@ Mentions: N-3, N-125, N-40
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Read the charging document and probable-cause statement for the sourcing of the identification and the parents' statements.
+Open Questions: Q-1110
 
 ---
 
@@ -1502,6 +1520,7 @@ Related Nodes: N-10022
 Supports: C-3227
 Tags: relevance:core
 Investigative Direction: Obtain Brooksby's original statement or interview and its date.
+Open Questions: Q-1110
 
 ---
 
@@ -1518,6 +1537,7 @@ Mentions: N-125
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Establish from the sheriff's statement and affidavits who accompanied Robinson to the sheriff's office and who visited the family first.
+Open Questions: Q-1110
 
 ---
 
@@ -1535,6 +1555,7 @@ Related Nodes: N-10022
 Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Seek on-record confirmation from the Robinson family or counsel of what Matt Robinson said and when.
+Open Questions: Q-44, Q-1110
 
 ---
 
@@ -1551,6 +1572,7 @@ Mentions: N-786, N-125
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Pull the charging document and confirm the signing prosecutor.
+Open Questions: Q-1110
 
 ---
 
@@ -1568,6 +1590,7 @@ Related Nodes: N-10146
 Supports: C-1108
 Tags: relevance:core
 Investigative Direction: Verify Mitchell's scouting role and undercover assignments from employment records and the cited 1999 reporting.
+Open Questions: Q-731
 
 ---
 
@@ -1584,6 +1607,7 @@ Mentions: N-125
 Related Nodes: N-10146
 Tags: relevance:core
 Investigative Direction: Confirm Mitchell's church role through church records or public listings.
+Open Questions: Q-731
 
 ---
 
@@ -1601,6 +1625,7 @@ Related Nodes: N-10022
 Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Compare the host's earlier episodes on Mitchell with the Trump clip.
+Open Questions: Q-1110
 
 ---
 
@@ -1680,6 +1705,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Compare against the motive evidence in the prosecution's filings.
+Open Questions: Q-183
 
 ---
 
@@ -1743,6 +1769,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Identify the specific federal statements the host considers false and test them against the case record.
+Open Questions: Q-151
 
 ---
 
@@ -1789,6 +1816,7 @@ Mentions: N-261, N-3
 Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Seek the legal standard for evidence tampering and who owned the SD cards and cameras.
+Open Questions: Q-1099
 
 ---
 
@@ -1806,6 +1834,7 @@ Related Nodes: N-10734
 Supports: C-12216, C-12215
 Tags: relevance:core
 Investigative Direction: Obtain SBI correspondence showing the date and content of the first Google link and compare with the September 10 transmissions.
+Open Questions: Q-1105
 
 ---
 
@@ -1822,6 +1851,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10723
 Tags: relevance:core
 Investigative Direction: Compare the full back-camera view with what was given to the SBI.
+Open Questions: Q-1098
 
 ---
 
@@ -1839,6 +1869,7 @@ Related Nodes: N-10723
 Supports: C-12233
 Tags: relevance:core
 Investigative Direction: Obtain the statement and the file metadata for each video provided to the SBI.
+Open Questions: Q-1096
 
 ---
 

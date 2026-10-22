@@ -1350,6 +1350,7 @@ Related Nodes: N-10587
 Supports: C-8689
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's April 29 statement and compare its exact wording to the host's prior published statements.
+Open Questions: Q-835
 
 ---
 
@@ -1367,6 +1368,7 @@ Related Nodes: N-10593
 Supports: C-8637
 Tags: relevance:core
 Investigative Direction: Obtain the pre-filing email and the host's lawyers' correspondence log to confirm that no earlier retraction request exists.
+Open Questions: Q-837
 
 ---
 
@@ -1399,6 +1401,7 @@ Mentions: N-3, N-266
 Related Nodes: N-10763, N-11055
 Tags: relevance:core
 Investigative Direction: Collect event run-of-show or medical-staffing documents from prior TPUSA events and the UVU event to compare ambulance provisions.
+Open Questions: Q-142
 
 ---
 
@@ -1416,6 +1419,7 @@ Related Nodes: N-10592, N-10933
 Supports: C-3565
 Tags: relevance:core
 Investigative Direction: Obtain the night-before text thread and its recipients; ask security leadership to confirm or deny receipt.
+Open Questions: Q-171
 
 ---
 
@@ -1432,6 +1436,7 @@ Mentions: N-3, N-266
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Search the episode transcripts cited in the complaint for the phrase 'criminal negligence' or equivalent wording.
+Open Questions: Q-837
 
 ---
 
@@ -1448,6 +1453,7 @@ Mentions: N-3, N-266, N-261
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review the full episode transcript for any reference to Harpole or the security detail.
+Open Questions: Q-837, Q-838
 
 ---
 
@@ -1464,6 +1470,7 @@ Mentions: N-261, N-1
 Related Nodes: N-10736
 Tags: relevance:core
 Investigative Direction: Obtain Farnsworth's selfie video with its original upload time and compare it to the shot time and first official confirmation.
+Open Questions: Q-838
 
 ---
 
@@ -1480,6 +1487,7 @@ Mentions: N-190, N-261, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Identify any video in which Mikey McCoy announces the death and compare timing to first confirmation.
+Open Questions: Q-838
 
 ---
 
@@ -1496,6 +1504,7 @@ Mentions: N-3, N-266, N-1
 Related Nodes: N-10633
 Tags: relevance:core
 Investigative Direction: Compare the quoted line with the full 'The Great Exodus from Utah' transcript.
+Open Questions: Q-837
 
 ---
 
@@ -1513,6 +1522,7 @@ Related Nodes: N-10589
 Supports: C-3110
 Tags: relevance:core
 Investigative Direction: Obtain the original Turek interview audio and the drone footage or text messages he describes.
+Open Questions: Q-342
 
 ---
 
@@ -1532,6 +1542,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Check FAA Part 107 airspace authorization records for the UVU campus and any waiver requests filed for the event.
+Open Questions: Q-342
 
 ---
 
@@ -1598,6 +1609,7 @@ Related Nodes:
 Supports: C-8662
 Tags: relevance:core
 Investigative Direction: Obtain the host's phone log and the text exchange with Kolvet from that day.
+Open Questions: Q-839
 
 ---
 
@@ -1615,6 +1627,7 @@ Related Nodes:
 Supports: C-8658
 Tags: relevance:core
 Investigative Direction: Audit September 2025 episodes for any naming of Harpole or Flood.
+Open Questions: Q-840
 
 ---
 
@@ -1647,6 +1660,7 @@ Mentions: N-3, N-266, N-224
 Related Nodes: N-10783, N-10619
 Tags: relevance:core
 Investigative Direction: Compare the Shawn Ryan interview statements with the independent review findings and the host's first on-air reaction.
+Open Questions: Q-840, Q-841
 
 ---
 
@@ -1663,6 +1677,7 @@ Mentions: N-3, N-266, N-361
 Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Locate the episode that first mentioned the Fort Huachuca sighting and reconcile its date with the host's statement that she first named Harpole on November 19.
+Open Questions: Q-391, Q-840, Q-842
 
 ---
 
@@ -1679,6 +1694,7 @@ Mentions: N-3, N-361
 Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Confirm the air date of the solo episode and the sequence relative to the Mitch Snow interview.
+Open Questions: Q-842
 
 ---
 
@@ -1695,6 +1711,7 @@ Mentions: N-3, N-361, N-266
 Related Nodes: N-10820, N-10921, N-10593
 Tags: relevance:core
 Investigative Direction: Obtain the messages the host received from the intermediaries and ask Paramount Tactical and Valhalla VFT whether they relayed a Harpole warning.
+Open Questions: Q-843
 
 ---
 
@@ -1711,6 +1728,7 @@ Mentions: N-3, N-266, N-361
 Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Identify the intermediaries and any written message conveying the lawsuit threat, with dates.
+Open Questions: Q-843
 
 ---
 
@@ -1728,6 +1746,7 @@ Related Nodes:
 Supports: C-4514
 Tags: relevance:core
 Investigative Direction: Obtain the full message log to Harpole and Flood and compare the count with the three messages quoted on air.
+Open Questions: Q-844
 
 ---
 
@@ -1745,6 +1764,7 @@ Related Nodes:
 Supports: C-8669
 Tags: relevance:core
 Investigative Direction: Read points 54 to 59 of the complaint to confirm the acknowledgment of receipt.
+Open Questions: Q-844
 
 ---
 
@@ -1761,6 +1781,7 @@ Mentions: N-3, N-266, N-361
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Compare the host's outreach messages with the complaint's exclusive-content rationale.
+Open Questions: Q-844
 
 ---
 
@@ -1780,6 +1801,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Compare the Shawn Ryan audio with the Flood and Long messages to find the exact wording used.
+Open Questions: Q-841
 
 ---
 
@@ -1797,6 +1819,7 @@ Related Nodes: N-10347
 Supports: C-8679
 Tags: relevance:core
 Investigative Direction: Compile every on-air statement by the host on whether Harpole was identified and compare them to the complaint's characterization.
+Open Questions: Q-837
 
 ---
 
@@ -1814,6 +1837,7 @@ Related Nodes: N-10347
 Supports: C-8678
 Tags: relevance:core
 Investigative Direction: Obtain the full Mitch Snow interview and verify the clip is in context and its date.
+Open Questions: Q-391, Q-443
 
 ---
 
@@ -1830,6 +1854,7 @@ Mentions: N-3, N-361
 Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Obtain the metadata files and the identities of the Fort Huachuca sources used to confirm the location.
+Open Questions: Q-443
 
 ---
 
@@ -1847,6 +1872,7 @@ Related Nodes: N-10347
 Supports: C-4407
 Tags: relevance:core
 Investigative Direction: Obtain the incident report and any base logs naming Captain Neff on the morning described.
+Open Questions: Q-443
 
 ---
 
@@ -1895,6 +1921,7 @@ Mentions: N-3
 Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Ask the host's counsel for correspondence with Harpole's lawyer over the past two years.
+Open Questions: Q-837
 
 ---
 
@@ -1927,6 +1954,7 @@ Mentions: N-3, N-261, N-266
 Related Nodes: N-11174, N-10736
 Tags: relevance:core
 Investigative Direction: Seek the footage through discovery or a subpoena in the Harpole action and identify its custodians.
+Open Questions: Q-574
 
 ---
 
@@ -1943,6 +1971,7 @@ Mentions: N-330, N-3, N-2
 Related Nodes: N-10586, N-10587
 Tags: relevance:core
 Investigative Direction: Obtain the full text exchange and its recipient, and Erika Kirk's statement referencing it.
+Open Questions: Q-845
 
 ---
 
@@ -1959,6 +1988,7 @@ Mentions: N-3, N-2, N-209
 Related Nodes: N-10501
 Tags: relevance:core
 Investigative Direction: Collect posts by Erika Kirk's team attacking Joe Kent and compare to his public remarks on foreign influence.
+Open Questions: Q-846
 
 ---
 
@@ -1976,6 +2006,7 @@ Related Nodes: N-10334
 Supports: C-4180
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's attributions to Dr. Trotter with his own statements.
+Open Questions: Q-847
 
 ---
 
@@ -1992,6 +2023,7 @@ Mentions: N-3, N-2, N-14
 Related Nodes: N-10319, N-10334
 Tags: relevance:core
 Investigative Direction: Obtain the host's December 15 meeting notes or recording and Kolvet's drafting records for the statement.
+Open Questions: Q-419, Q-848
 
 ---
 
@@ -2009,6 +2041,7 @@ Related Nodes: N-10606, N-10406
 Supports: C-8029
 Tags: relevance:core
 Investigative Direction: Identify the donors present at the Aspen event and obtain on-record statements about whether Kirk named Erika.
+Open Questions: Q-849
 
 ---
 
@@ -2025,6 +2058,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Request the original recording with metadata and the venue and date of capture from TPUSA.
+Open Questions: Q-849
 
 ---
 
@@ -2041,6 +2075,7 @@ Mentions: N-3, N-14, N-278
 Related Nodes: N-10586
 Tags: relevance:core
 Investigative Direction: Obtain the full private chat between the host and Kolvet and its date.
+Open Questions: Q-839
 
 ---
 
@@ -2057,6 +2092,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10586
 Tags: relevance:core
 Investigative Direction: Request that Kolvet or TPUSA publish the full chat and verify its completeness.
+Open Questions: Q-839
 
 ---
 
@@ -2073,6 +2109,7 @@ Mentions: N-3, N-14, N-2
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Obtain the December 15 meeting notes and any recording, plus Kolvet's statement making the insinuation.
+Open Questions: Q-419
 
 ---
 
@@ -2089,6 +2126,7 @@ Mentions: N-3, N-2, N-14
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk whether the host made this disclosure on December 15 and identify the third party.
+Open Questions: Q-419, Q-850
 
 ---
 
@@ -2105,6 +2143,7 @@ Mentions: N-3, N-190, N-14, N-550
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Identify the third-party intermediary and obtain the message; ask McCoy to confirm or deny.
+Open Questions: Q-850
 
 ---
 
@@ -2121,6 +2160,7 @@ Mentions: N-3, N-14, N-550
 Related Nodes: N-10506
 Tags: relevance:core
 Investigative Direction: Ask Kolvet to specify the information attributed to Aubrey Laitsch and compare it against the host's published material.
+Open Questions: Q-850
 
 ---
 
@@ -2332,6 +2372,7 @@ Mentions: N-3, N-859, N-60
 Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Review the lawyer's public posting history for Loomer retweets and their dates relative to the filing.
+Open Questions: Q-851
 
 ---
 
@@ -2380,6 +2421,7 @@ Mentions: N-266
 Related Nodes: N-10589, N-10012
 Tags: relevance:core
 Investigative Direction: Request the UVU drone authorization form records for the event under GRAMA.
+Open Questions: Q-852
 
 ---
 
@@ -2396,6 +2438,7 @@ Mentions: N-3, N-266
 Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Ask Harpole's counsel for dated receipts, location data or travel records for the morning of September 9.
+Open Questions: Q-853
 
 ---
 
@@ -2412,6 +2455,7 @@ Mentions: N-3, N-266
 Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Obtain the flight records the host refers to and verify the times, routes and the source of the records.
+Open Questions: Q-853
 
 ---
 
@@ -2428,6 +2472,7 @@ Mentions: N-3, N-361
 Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Identify the specific flights the host means and check them against Harpole's travel records.
+Open Questions: Q-853, Q-854
 
 ---
 
@@ -2445,6 +2490,7 @@ Related Nodes: N-10347
 Qualifies: C-8662
 Tags: relevance:core
 Investigative Direction: Compare this statement with her September 2025 defense of the security team and with later episodes on Harpole.
+Open Questions: Q-840
 
 ---
 

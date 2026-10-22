@@ -895,6 +895,7 @@ Mentions: N-3, N-14, N-493, N-15, N-494, N-36
 Related Nodes: N-10682, N-10072
 Tags: relevance:core
 Investigative Direction: Obtain the White House visitor or scheduling records for the week of the Netanyahu visit and ask TPUSA and the White House to confirm or deny the meeting.
+Open Questions: Q-1016
 
 ---
 
@@ -911,6 +912,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10682, N-10072
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public denial with White House scheduling records and any cancellation notice for the meeting.
+Open Questions: Q-1016
 
 ---
 
@@ -943,6 +945,7 @@ Mentions: N-3
 Related Nodes: N-11057
 Tags: relevance:core
 Investigative Direction: Compare the still released during the manhunt with the court exhibit footage and ask the FBI when the clearer footage was available.
+Open Questions: Q-1019
 
 ---
 
@@ -960,6 +963,7 @@ Related Nodes: N-11060, N-10071
 Supports: C-7772
 Tags: relevance:core
 Investigative Direction: Obtain Provo and Utah County police records, any search or arrest warrant, and FBI interview records for the Karashy detention.
+Open Questions: Q-1020
 
 ---
 
@@ -978,6 +982,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-3
 Investigative Direction: Request the full list of detentions and arrests from Utah County and federal agencies for September 10 to 12, 2025.
+Open Questions: Q-1020
 
 ---
 
@@ -995,6 +1000,7 @@ Related Nodes: N-11060
 Supports: C-7866
 Tags: relevance:core
 Investigative Direction: Check DoD contract awards, SAM.gov and company filings for the Karashy family's app company and any Fort Huachuca work.
+Open Questions: Q-1021
 
 ---
 
@@ -1011,6 +1017,7 @@ Mentions: N-3
 Related Nodes: N-10295, N-10684
 Tags: relevance:core
 Investigative Direction: Obtain the witness's police report and original iPhone file, and the exhibit list from the preliminary hearing.
+Open Questions: Q-953, Q-1022
 
 ---
 
@@ -1027,6 +1034,7 @@ Mentions: N-3
 Related Nodes: N-10655, N-10295
 Tags: relevance:core
 Investigative Direction: Check the preliminary hearing witness lists and exhibits, and ask the witness whether investigators contacted him.
+Open Questions: Q-953
 
 ---
 
@@ -1043,6 +1051,7 @@ Mentions: N-3, N-40, N-1
 Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Review the released Robinson text exchanges and the charging documents for any discussion of politics, Kirk or LGBTQ topics.
+Open Questions: Q-183
 
 ---
 
@@ -1075,6 +1084,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10684
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or her representatives what she told the host about the hearing; compare with the host's earlier accounts.
+Open Questions: Q-1012
 
 ---
 
@@ -1091,6 +1101,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Obtain the rifle's specifications and exhibit photos, and test whether such a rifle could be carried in the jeans shown in court footage.
+Open Questions: Q-1022, Q-1023
 
 ---
 
@@ -1109,6 +1120,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3, S-7
 Investigative Direction: Compare gait before and after the rooftop frame by frame, with an independent gait or biomechanics expert.
+Open Questions: Q-1022
 
 ---
 
@@ -1126,6 +1138,7 @@ Related Nodes: N-10685, N-10295
 Supports: C-11465
 Tags: relevance:core
 Investigative Direction: Obtain the witness's police statement and audio the host previously aired, and a firearms expert opinion on recoil visible at that distance.
+Open Questions: Q-27, Q-953, Q-1023
 
 ---
 
@@ -1144,6 +1157,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3, S-7
 Investigative Direction: Check the charging documents and ATF records for the make, model and provenance of the recovered rifle.
+Open Questions: Q-1023
 
 ---
 
@@ -1160,6 +1174,7 @@ Mentions: N-3
 Related Nodes: N-10316, N-10896
 Tags: relevance:core
 Investigative Direction: Read the preliminary hearing transcript for the firearms examiner's testimony on barrel condition.
+Open Questions: Q-1023
 
 ---
 
@@ -1176,6 +1191,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10316, N-10896
 Tags: relevance:core
 Investigative Direction: Read the ATF latent print testimony and report from the preliminary hearing, including the identification of the five other print sets.
+Open Questions: Q-93
 
 ---
 
@@ -1192,6 +1208,7 @@ Mentions: N-3
 Related Nodes: N-10972, N-10686
 Tags: relevance:core
 Investigative Direction: Obtain K9 deployment logs and handler reports from the Pleasant Grove and Utah County agencies.
+Open Questions: Q-1024
 
 ---
 
@@ -1209,6 +1226,7 @@ Related Nodes: N-10972, N-10686
 Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain K9 search logs, times and areas searched on September 10, 2025.
+Open Questions: Q-1024
 
 ---
 
@@ -1225,6 +1243,7 @@ Mentions: N-3
 Related Nodes: N-10939, N-10686, N-10972
 Tags: relevance:core
 Investigative Direction: Request the dogs' names, health and handler logs and compare with the host's earlier episode 48 claims about Freya.
+Open Questions: Q-1024
 
 ---
 
@@ -1241,6 +1260,7 @@ Mentions: N-3
 Related Nodes: N-10686, N-10687
 Tags: relevance:core
 Investigative Direction: Obtain the incident reports and body-camera footage of the gun recovery and the identity of the federal agent who gave the instruction.
+Open Questions: Q-20, Q-1025
 
 ---
 
@@ -1257,6 +1277,7 @@ Mentions: N-3, N-779
 Related Nodes: N-10687, N-10938
 Tags: relevance:core
 Investigative Direction: Obtain the police report identifying the discovering officers and Pleasant Grove police hiring records.
+Open Questions: Q-20
 
 ---
 
@@ -1273,6 +1294,7 @@ Mentions: N-3, N-779, N-780
 Related Nodes: N-10687, N-11058
 Tags: relevance:core
 Investigative Direction: Verify Foster Curtiss's NCIS and Inspector General career through public records, and confirm the father-son relationship.
+Open Questions: Q-1026
 
 ---
 
@@ -1305,6 +1327,7 @@ Mentions: N-3, N-780
 Related Nodes: N-11059, N-11058
 Tags: relevance:core
 Investigative Direction: Check City of Richmond announcements and local news from June 2025 on the interim inspector general appointment.
+Open Questions: Q-1026
 
 ---
 
@@ -1321,6 +1344,7 @@ Mentions: N-3, N-781
 Related Nodes: N-11059
 Tags: relevance:core
 Investigative Direction: Find the June 2025 Richmond local news reports and city statements on Osuna's departure.
+Open Questions: Q-1026
 
 ---
 
@@ -1337,6 +1361,7 @@ Mentions: N-3, N-779, N-780
 Related Nodes: N-10687, N-11059
 Tags: relevance:core
 Investigative Direction: Compare dates of the Curtis job changes with the gun discovery and with the host's list of new personnel.
+Open Questions: Q-20, Q-1026
 
 ---
 
@@ -1451,6 +1476,7 @@ Related Nodes: N-10481
 Supports: C-10114
 Tags: relevance:core
 Investigative Direction: Obtain the comment request and any reply, and the former Next staff accounts of Erika Kirk's role.
+Open Questions: Q-1027
 
 ---
 
@@ -1467,6 +1493,7 @@ Mentions: N-3, N-33, N-2
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Check court attendance reports and photographs of the hearings for Trump Jr.'s presence.
+Open Questions: Q-1028
 
 ---
 
@@ -1484,6 +1511,7 @@ Related Nodes: N-10404, N-10127, N-10000
 Supports: C-3541, C-3542, C-9512
 Tags: relevance:core
 Investigative Direction: Obtain the September 2, 2025 internal memo on the audit, any engagement records, and TPUSA's statement on its status.
+Open Questions: Q-308
 
 ---
 
@@ -1548,6 +1576,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10216
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy chain of custody and attendee list from the Utah medical examiner.
+Open Questions: Q-1029
 
 ---
 
@@ -1565,6 +1594,7 @@ Related Nodes: N-10972
 Supports: C-4221
 Tags: relevance:core
 Investigative Direction: Obtain dispatch and tasking logs for SWAT, marshals and K9 units on September 10, 2025.
+Open Questions: Q-20, Q-1024, Q-1025
 
 ---
 
@@ -1613,6 +1643,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Check prosecution witness lists for any Turning Point employee who reports contact with Robinson.
+Open Questions: Q-1030
 
 ---
 

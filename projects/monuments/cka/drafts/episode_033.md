@@ -1227,6 +1227,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10239, N-10071, N-11250
 Tags: relevance:core
 Investigative Direction: Retrieve the host's October 11 post and its edit history, and compare the stated departure time with ADS-B Exchange records for the plane.
+Open Questions: Q-277
 
 ---
 
@@ -1319,6 +1320,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Check TPUSA filings, payroll or board records for any role held by Erika Kirk before September 10, 2025.
+Open Questions: Q-323
 
 ---
 
@@ -1351,6 +1353,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Retrieve the earlier plane document the host refers to and compare its stated basis for 'tracking Charlie' with the later claim that the planes tracked Erika.
+Open Questions: Q-236
 
 ---
 
@@ -1367,6 +1370,7 @@ Mentions: N-261, N-3
 Related Nodes: N-10096, N-10156
 Tags: relevance:core
 Investigative Direction: Compare Farnsworth's event assignments across other 2025 campus tour stops using TPUSA event staffing records, photos and travel records.
+Open Questions: Q-324
 
 ---
 
@@ -1383,6 +1387,7 @@ Mentions: N-261, N-1, N-3
 Related Nodes: N-10096
 Tags: relevance:core
 Investigative Direction: Ask Farnsworth or TPUSA for the staffing roster of the first events after September 10 to test whether he was absent.
+Open Questions: Q-324
 
 ---
 
@@ -1399,6 +1404,7 @@ Mentions: N-261, N-3
 Related Nodes: N-10096, N-10156, N-10734
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's chain-of-custody record for the SD cards and the names of anyone who handled them on September 10.
+Open Questions: Q-324
 
 ---
 
@@ -1416,6 +1422,7 @@ Related Nodes: N-11249, N-10239
 Supports: C-2909
 Tags: relevance:core
 Investigative Direction: Obtain Charlie's September 10 itinerary and the scheduling emails for the Andrew K. Smith interview to see who requested the Salt Lake City stop and why.
+Open Questions: Q-325
 
 ---
 
@@ -1463,6 +1470,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11249
 Tags: relevance:core
 Investigative Direction: Check FAA/ADS-B records for the Kirk charter's arrival time and airport, and compare with TPUSA's published itinerary.
+Open Questions: Q-325
 
 ---
 
@@ -1479,6 +1487,7 @@ Mentions: N-263, N-2, N-1, N-3
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Review the sleuth's email and method (kept anonymous by the host) and test the overlaps against independent flight and location records.
+Open Questions: Q-236
 
 ---
 
@@ -1511,6 +1520,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Ask the host for the non-US rows of the spreadsheet and verify each against foreign flight records and Erika Kirk's published travel.
+Open Questions: Q-236
 
 ---
 
@@ -1527,6 +1537,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10239, N-10200
 Tags: relevance:core
 Investigative Direction: Compare ADS-B Exchange and FlightAware departures for SU-BTT and SU-BND on September 10, 2025.
+Open Questions: Q-277
 
 ---
 
@@ -1559,6 +1570,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10239, N-11250
 Tags: relevance:core
 Investigative Direction: Resolve the UTC-to-local conversion (see the daylight-saving correction later in the episode) and compare with the official time of the shot, about 12:23 p.m. local.
+Open Questions: Q-277
 
 ---
 
@@ -1607,6 +1619,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10281, N-10239
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to state whether anyone in the organization knew of or dealt with the Egyptian aircraft, and identify the basis for the host's statement.
+Open Questions: Q-326
 
 ---
 
@@ -1623,6 +1636,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10071
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's later public accounts of arriving at Provo with what the host says he told her that day.
+Open Questions: Q-327
 
 ---
 
@@ -1640,6 +1654,7 @@ Related Nodes: N-10244
 Supports: C-2931
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and Tucker Carlson to confirm the conversation, and request call logs for the host and Kolvet on September 10.
+Open Questions: Q-328
 
 ---
 
@@ -1656,6 +1671,7 @@ Mentions: N-22, N-14, N-3
 Related Nodes: N-10244
 Tags: relevance:core
 Investigative Direction: Ask Tucker Carlson to confirm the call and its timing; phone records for September 10 would fix the sequence.
+Open Questions: Q-328
 
 ---
 
@@ -1673,6 +1689,7 @@ Related Nodes: N-10244
 Supports: C-2931
 Tags: relevance:core
 Investigative Direction: Ask Kolvet which agency or person passed on the warning; request any FBI or Utah DPS threat notification related to the host or Tucker Carlson.
+Open Questions: Q-328
 
 ---
 
@@ -1705,6 +1722,7 @@ Mentions: N-3
 Related Nodes: N-10241
 Tags: relevance:core
 Investigative Direction: Decentralized Intelligence Agency tip call: review the tip inbox for submissions about N560TW and corroborate any named witnesses before publication.
+Open Questions: Q-329
 
 ---
 
@@ -1721,6 +1739,7 @@ Mentions: N-3
 Related Nodes: N-10242, N-10012
 Tags: relevance:core
 Investigative Direction: Decentralized Intelligence Agency tip call: collect and authenticate any photos or footage showing the four plates near UVU on or before September 10.
+Open Questions: Q-330
 
 ---
 
@@ -1833,6 +1852,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10404, N-10127
 Tags: relevance:core
 Investigative Direction: Locate the source of Charlie's statement about a TPUSA DOGE and its date, and compare with the September 2, 2025 internal memo.
+Open Questions: Q-308
 
 ---
 
@@ -1867,6 +1887,7 @@ Related Nodes: N-10127, N-10404
 Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Identify the host's basis (conversations with Charlie, messages) and any written evidence that Charlie asked for tracing of donor funds.
+Open Questions: Q-308
 
 ---
 
@@ -2077,6 +2098,7 @@ Related Nodes: N-11250, N-10239
 Contradicts: C-2927, C-2924
 Tags: relevance:core
 Investigative Direction: Utah was on Mountain Daylight Time on September 10, 2025 (UTC minus 6); recompute the SUBND windows from the raw UTC values and re-test the '17 minutes after the shot' statement.
+Open Questions: Q-277
 
 ---
 
@@ -2168,6 +2190,7 @@ Mentions: N-3
 Related Nodes: N-10242, N-10243
 Tags: relevance:core
 Investigative Direction: Decentralized Intelligence Agency tip call: log submissions that reference the four plates and corroborate through Flock or other records before any publication.
+Open Questions: Q-316, Q-330
 
 ---
 

@@ -1636,6 +1636,7 @@ Mentions: N-3, N-1, N-36
 Related Nodes: N-10415, N-10320
 Tags: relevance:core
 Investigative Direction: Collect TPUSA's public statements since 2025-09-10 and check whether any mentions the Netanyahu call; ask TPUSA whether lawyers or a PR firm reviewed them.
+Open Questions: Q-77, Q-306
 
 ---
 
@@ -1652,6 +1653,7 @@ Mentions: N-3, N-1, N-36
 Related Nodes: N-10415, N-10458
 Tags: relevance:core
 Investigative Direction: Establish whether the Hamptons gathering and the Netanyahu call were one event or two (host elsewhere calls the Hamptons event a summit or meeting); obtain attendee accounts and Kirk's phone records.
+Open Questions: Q-77
 
 ---
 
@@ -1669,6 +1671,7 @@ Related Nodes: N-10415, N-10320
 Supports: C-2130
 Tags: relevance:core
 Investigative Direction: Identify who Kirk described the call to and obtain their account; compare with Hamptons attendees' accounts and Kirk's messages from August 2025.
+Open Questions: Q-77
 
 ---
 
@@ -1686,6 +1689,7 @@ Related Nodes: N-10320, N-10000
 Supports: C-2134, C-654
 Tags: relevance:core
 Investigative Direction: Obtain the source of the offer (host elsewhere names Andrew Kolvet) and any TPUSA or Israeli government records of a funding proposal.
+Open Questions: Q-77
 
 ---
 
@@ -1718,6 +1722,7 @@ Mentions: N-3, N-1, N-36
 Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: Collect Kirk's June 2025 public and private statements on Iran and Netanyahu's contacts with him.
+Open Questions: Q-491
 
 ---
 
@@ -1734,6 +1739,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10498, N-10494, N-10000
 Tags: relevance:core
 Investigative Direction: Compare TPUSA statements and events since September 2025 on Iran and Israel with Kirk's recorded positions before his death.
+Open Questions: Q-759
 
 ---
 
@@ -1750,6 +1756,7 @@ Mentions: N-3
 Related Nodes: N-10239, N-10325, N-10071
 Tags: relevance:core
 Investigative Direction: Obtain the flight-tracking records for the Egyptian-registered aircraft and the host's spreadsheet to see which legs touch Israel and Provo.
+Open Questions: Q-426
 
 ---
 
@@ -1766,6 +1773,7 @@ Mentions: N-3
 Related Nodes: N-10524, N-11124
 Tags: relevance:core
 Investigative Direction: Seek accounts from Timpanogos ER patients, visitors and staff present on 2025-09-10 and the hospital's visitor and admission logs.
+Open Questions: Q-760
 
 ---
 
@@ -1782,6 +1790,7 @@ Mentions: N-3, N-69
 Related Nodes: N-10226, N-10194
 Tags: relevance:core
 Investigative Direction: Obtain the FBI evidence receipt or legal process for the hospital footage and Patel's travel record for 2025-09-10.
+Open Questions: Q-760
 
 ---
 
@@ -1814,6 +1823,7 @@ Mentions: N-3, N-6
 Related Nodes: N-11241, N-10524
 Tags: relevance:core
 Investigative Direction: Obtain lockdown orders, hospital security logs and Orem and Provo police dispatch records for 2025-09-10.
+Open Questions: Q-758
 
 ---
 
@@ -1845,6 +1855,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10524, N-11115
 Tags: relevance:core
 Investigative Direction: Find the first public statement giving this reason (police, hospital or FBI) and the source of the hospital-to-hospital report.
+Open Questions: Q-758
 
 ---
 
@@ -1861,6 +1872,7 @@ Mentions: N-3, N-410
 Related Nodes: N-10529, N-11060
 Tags: relevance:core
 Investigative Direction: Obtain the police scanner audio and CAD log for 2025-09-10 and the detention record naming the young man.
+Open Questions: Q-758, Q-761
 
 ---
 
@@ -1877,6 +1889,7 @@ Mentions: N-3, N-69, N-410
 Related Nodes: N-10194, N-10529
 Tags: relevance:core
 Investigative Direction: Compare the detention time of the young man with Patel's 4:21 p.m. post and any search-scaling decisions by Utah agencies.
+Open Questions: Q-761, Q-762
 
 ---
 
@@ -1893,6 +1906,7 @@ Mentions: N-3, N-410, N-42
 Related Nodes: N-10032, N-10529
 Tags: relevance:core
 Investigative Direction: Obtain booking and release records for both men and establish whether any evidence links their detentions to one another.
+Open Questions: Q-28, Q-761
 
 ---
 
@@ -1910,6 +1924,7 @@ Related Nodes: N-10166, N-10331
 Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Identify hospital staff or patients who heard Zin and obtain any incident or police report of the statement.
+Open Questions: Q-28
 
 ---
 
@@ -1926,6 +1941,7 @@ Mentions: N-3
 Related Nodes: N-10032
 Tags: relevance:core
 Investigative Direction: Identify the officers quoted, their dispatch assignments and radio traffic on 2025-09-10.
+Open Questions: Q-762
 
 ---
 
@@ -1942,6 +1958,7 @@ Mentions: N-3, N-69
 Related Nodes: N-10194, N-10529
 Tags: relevance:core
 Investigative Direction: Obtain search-operation logs showing when roadblocks and patrols were stood down after the 4:21 p.m. post and re-established after 5:59 p.m.
+Open Questions: Q-762
 
 ---
 
@@ -1958,6 +1975,7 @@ Mentions: N-3, N-361
 Related Nodes: N-10305, N-10342
 Tags: relevance:core
 Investigative Direction: Re-interview Mitch Snow on the meeting date, location and participants; request Fort Huachuca visitor and meeting records for September 8 to 9, 2025.
+Open Questions: Q-390
 
 ---
 
@@ -1990,6 +2008,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10239, N-10305, N-10528
 Tags: relevance:core
 Investigative Direction: Pull flight-tracking records for the September 9 and 10 aircraft from Fort Huachuca and identify their Texas origins or destinations.
+Open Questions: Q-390
 
 ---
 
@@ -2086,6 +2105,7 @@ Mentions: N-3, N-330
 Related Nodes: N-10012, N-10528
 Tags: relevance:core
 Investigative Direction: Obtain UVU and TPUSA records of when the event was first scheduled and the date of the first booking or contract.
+Open Questions: Q-763
 
 ---
 
@@ -2102,6 +2122,7 @@ Mentions: N-3, N-330, N-1
 Related Nodes: N-10528, N-10045
 Tags: relevance:core
 Investigative Direction: Ask Coleman which records support the March to April and June to July estimates.
+Open Questions: Q-755
 
 ---
 
@@ -2310,6 +2331,7 @@ Mentions: N-3, N-942, N-128
 Related Nodes: N-10148, N-10139
 Tags: relevance:core
 Investigative Direction: Locate the original episode and the photo of Hild with the Lyman relative; confirm the person's identity (the host later spells the name Hill and Hild).
+Open Questions: Q-764
 
 ---
 
@@ -2327,6 +2349,7 @@ Related Nodes: N-10062, N-10176, N-10139
 Supports: C-1018
 Tags: relevance:core
 Investigative Direction: Pull Utah County property records for the block and Caldera Engineering's ownership and employee ties.
+Open Questions: Q-765
 
 ---
 
@@ -2343,6 +2366,7 @@ Mentions: N-3, N-40, N-54
 Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Identify which footage is meant and compare the figure's build with photos of Lance Twiggs and Tyler Robinson.
+Open Questions: Q-161, Q-766
 
 ---
 
@@ -2377,6 +2401,7 @@ Related Nodes: N-10148, N-10139
 Supports: C-1073, C-1046
 Tags: relevance:core
 Investigative Direction: Archive the Instagram posts with timestamps and compare against the official evidence log for the footprint.
+Open Questions: Q-765
 
 ---
 
@@ -2393,6 +2418,7 @@ Mentions: N-3
 Related Nodes: N-10316, N-10106
 Tags: relevance:core
 Investigative Direction: Identify the court filing or probable-cause document released on 2026-03-31 and check what it says about a footprint.
+Open Questions: Q-765
 
 ---
 
@@ -2409,6 +2435,7 @@ Mentions: N-3, N-942, N-28
 Related Nodes: N-10530, N-10148
 Tags: relevance:core
 Investigative Direction: Collect viewer tips on Hild-Romney marriage records or genealogy and verify with public records.
+Open Questions: Q-764
 
 ---
 
@@ -2425,6 +2452,7 @@ Mentions: N-3, N-942
 Related Nodes: N-10148, N-10530
 Tags: relevance:core
 Investigative Direction: Track subsequent episodes for new findings on Hild's identity and family ties.
+Open Questions: Q-764
 
 ---
 
@@ -2507,6 +2535,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the ATF laboratory report or court filing stating the bullet-to-rifle finding.
+Open Questions: Q-717
 
 ---
 
@@ -2539,6 +2568,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10106, N-10316
 Tags: relevance:core
 Investigative Direction: Identify the 'they' and the evidence the host believes shows knowledge of innocence; compare with the prosecution's evidence disclosures.
+Open Questions: Q-161, Q-713, Q-748
 
 ---
 
@@ -2603,6 +2633,7 @@ Mentions: N-3, N-1, N-5
 Related Nodes: N-10494, N-10613
 Tags: relevance:core
 Investigative Direction: Find the source of Kirk's statement to Trump (Kirk's own words, aides, or Trump's account) and its date.
+Open Questions: Q-491
 
 ---
 
@@ -2635,6 +2666,7 @@ Mentions: N-3
 Related Nodes: N-10325, N-10239, N-10071
 Tags: relevance:core
 Investigative Direction: Release the flight-by-flight table and cross-check each Israel-to-Provo leg with dated conflict events.
+Open Questions: Q-426
 
 ---
 
@@ -2651,6 +2683,7 @@ Mentions: N-3, N-36
 Related Nodes: N-10325, N-10071
 Tags: relevance:core
 Investigative Direction: Check Netanyahu's documented whereabouts on the dates of the relevant flights.
+Open Questions: Q-426
 
 ---
 
@@ -2668,6 +2701,7 @@ Related Nodes: N-10325, N-10239
 Supports: C-7842
 Tags: relevance:core
 Investigative Direction: Publish the spreadsheet and test the alignment statistically against a dated list of attacks on Israel.
+Open Questions: Q-426
 
 ---
 
@@ -2700,6 +2734,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10532, N-10106
 Tags: relevance:core
 Investigative Direction: Read the defense's discovery motions for requests about forensic technology and chain of custody.
+Open Questions: Q-750
 
 ---
 
@@ -2717,6 +2752,7 @@ Related Nodes: N-10324, N-10073
 Supports: C-501
 Tags: relevance:core
 Investigative Direction: Compare the video of the camera removal with Farnsworth's account and the crime-scene log.
+Open Questions: Q-63
 
 ---
 
@@ -2733,6 +2769,7 @@ Mentions: N-3, N-2, N-261, N-1
 Related Nodes: N-10490, N-10324
 Tags: relevance:core
 Investigative Direction: Clarify who spoke to Erika, when, and what was said (Farnsworth's account, Erika's account, text or call logs).
+Open Questions: Q-742
 
 ---
 
@@ -2749,6 +2786,7 @@ Mentions: N-3, N-261
 Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Identify the phone call or video the host means, its date and who recorded it.
+Open Questions: Q-742
 
 ---
 
@@ -2829,6 +2867,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10079, N-10498
 Tags: relevance:core
 Investigative Direction: Define the 'they' and the operation alleged; identify any documents about narrative management after September 10.
+Open Questions: Q-748, Q-759
 
 ---
 
@@ -2845,6 +2884,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10498, N-10425
 Tags: relevance:core
 Investigative Direction: Trace who first reported the 'Shabbat Shalom' last words and compare with witnesses' accounts.
+Open Questions: Q-767
 
 ---
 
@@ -2862,6 +2902,7 @@ Related Nodes: N-10102, N-10498
 Supports: C-1138, C-1557, C-2042
 Tags: relevance:core
 Investigative Direction: Obtain the full message and its date and recipients from the original chat.
+Open Questions: Q-768
 
 ---
 
@@ -2878,6 +2919,7 @@ Mentions: N-3, N-209, N-14, N-2
 Related Nodes: N-10505, N-10332
 Tags: relevance:core
 Investigative Direction: Collect TPUSA statements about Joe Kent and the timing relative to Kent's resignation.
+Open Questions: Q-738
 
 ---
 
@@ -2895,6 +2937,7 @@ Related Nodes: N-10102, N-10415
 Supports: C-715, C-454, C-2045
 Tags: relevance:core
 Investigative Direction: Identify the donors and the messages or witnesses supporting each element, especially any record of conditions on who he could speak to.
+Open Questions: Q-768
 
 ---
 
@@ -2911,6 +2954,7 @@ Mentions: N-3, N-2, N-1, N-707
 Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: List Charlie's pre-death positions versus TPUSA positions after September 2025 on Israel, Iran and donors.
+Open Questions: Q-759
 
 ---
 

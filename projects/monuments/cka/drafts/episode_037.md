@@ -1222,6 +1222,7 @@ Related Nodes: N-10928
 Supports: C-3210
 Tags: relevance:core
 Investigative Direction: Identify who at Satys the tipsters name and obtain the Satys hangar lease and any work orders for the Wilmington facility.
+Open Questions: Q-334
 
 ---
 
@@ -1239,6 +1240,7 @@ Related Nodes: N-10341, N-10258, N-10239, N-10071
 Supports: C-3258
 Tags: relevance:core
 Investigative Direction: Compare the exercise dates and Minot AFB transient records with the SU-BTT September 4 flight log.
+Open Questions: Q-335, Q-345
 
 ---
 
@@ -1268,6 +1270,7 @@ Anchored Artifacts:
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Identify the government sources or offices the host's informant refers to; look for any official acknowledgement of internal discussion on the planes.
+Open Questions: Q-316
 
 ---
 
@@ -1284,6 +1287,7 @@ Mentions: N-1
 Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Lay out what the planes' flights prove or disprove relative to the September 10 timeline.
+Open Questions: Q-277, Q-309
 
 ---
 
@@ -1301,6 +1305,7 @@ Related Nodes: N-10249, N-10250, N-10071
 Supports: C-3052
 Tags: relevance:core
 Investigative Direction: Obtain passenger and ground-transport records for the SU-BTT September 10 Wilmington arrival and any visitor log for 920 North King Street.
+Open Questions: Q-277, Q-332
 
 ---
 
@@ -1317,6 +1322,7 @@ Related Nodes: N-10260, N-10258
 Supports: C-3257
 Tags: relevance:core
 Investigative Direction: Ask the host for the sources used to verify the email claims; cross-check Minot AFB and FBI field office listings.
+Open Questions: Q-315, Q-345
 
 ---
 
@@ -1379,6 +1385,7 @@ Related Nodes: N-10031, N-10257
 Supports: C-3266
 Tags: relevance:core
 Investigative Direction: Compare the full press conference transcript with the 33-hour surrender timeline and ask the FBI the source of the Valhalla phrasing.
+Open Questions: Q-336, Q-345
 
 ---
 
@@ -1396,6 +1403,7 @@ Supports: C-3185
 Tags: relevance:core
 Revises: C-3185
 Investigative Direction: Pull ADS-B and FAA records for SU-BTT's July 2025 Omaha and Lincoln movements.
+Open Questions: Q-335
 
 ---
 
@@ -1412,6 +1420,7 @@ Related Nodes: N-10250
 Revises: C-3186
 Tags: relevance:core
 Investigative Direction: Check flight-tracking logs for the actual Wilmington arrival and departure dates on the July trip.
+Open Questions: Q-331
 
 ---
 
@@ -1429,6 +1438,7 @@ Related Nodes: N-10259
 Supports: C-3271
 Tags: relevance:core
 Investigative Direction: Match the announcement date to SU-BTT's Nebraska dates and request the Nebraska Secretary of State's meeting calendar for July 2025.
+Open Questions: Q-335
 
 ---
 
@@ -1446,6 +1456,7 @@ Related Nodes: N-10259
 Supports: C-3271
 Tags: relevance:core
 Investigative Direction: Obtain the Nebraska delegation schedule and meetings with Egyptian officials in July 2025.
+Open Questions: Q-335
 
 ---
 
@@ -1479,6 +1490,7 @@ Related Nodes: N-10341, N-10257
 Supports: C-3262
 Tags: relevance:core
 Investigative Direction: Establish whether the 891st had any link to Utah, Wilmington or Provo; the date gap alone proves no causation.
+Open Questions: Q-345
 
 ---
 
@@ -1494,6 +1506,7 @@ Anchored Artifacts:
 Related Nodes: N-10272
 Tags: relevance:core
 Investigative Direction: Seek documentation of Foreign Legion personnel or exercises in the United States in August and September 2025.
+Open Questions: Q-346, Q-347
 
 ---
 
@@ -1524,6 +1537,7 @@ Mentions: N-195
 Related Nodes: N-10189, N-10334
 Tags: relevance:core
 Investigative Direction: Check medical licensing and residency records for Dr. Lee Trotter.
+Open Questions: Q-149, Q-304
 
 ---
 
@@ -1540,6 +1554,7 @@ Mentions: N-176
 Related Nodes: N-10189, N-10175
 Tags: relevance:core
 Investigative Direction: Verify Dr. Amaro's reserve or active-duty military status and rank.
+Open Questions: Q-149, Q-304
 
 ---
 
@@ -1556,6 +1571,7 @@ Mentions: N-14
 Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Verify the rank and service of Kolvet's brother and cousin via military records or statements.
+Open Questions: Q-304
 
 ---
 
@@ -1572,6 +1588,7 @@ Mentions: N-7
 Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Verify Turek's Navy service and his sons' service records.
+Open Questions: Q-304
 
 ---
 
@@ -1588,6 +1605,7 @@ Mentions: N-17
 Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Check the McCoy family's naval service records and any ship names; reconcile with the host's earlier statement that his father ran psychological operations.
+Open Questions: Q-304
 
 ---
 
@@ -1603,6 +1621,7 @@ Anchored Artifacts:
 Related Nodes: N-10094
 Tags: relevance:core
 Investigative Direction: Have a firearms or biomechanics expert time the movement frame by frame.
+Open Questions: Q-26
 
 ---
 
@@ -1619,6 +1638,7 @@ Related Nodes: N-10094, N-10295
 Supports: C-3222
 Tags: relevance:core
 Investigative Direction: Trace the upload chain of the running video to its first public post and identify the filmer.
+Open Questions: Q-26, Q-301
 
 ---
 
@@ -1635,6 +1655,7 @@ Related Nodes: N-10094
 Supports: C-3222
 Tags: relevance:core
 Investigative Direction: Identify the filmer of the pre-shot video and confirm any military or instructor background.
+Open Questions: Q-26, Q-301
 
 ---
 
@@ -1652,6 +1673,7 @@ Related Nodes: N-10740
 Supports: C-2695
 Tags: relevance:core
 Investigative Direction: Ask Jack Hibbs or TPUSA whether the call occurred and when; compare with Butch Hibbs's own account.
+Open Questions: Q-302
 
 ---
 
@@ -1667,6 +1689,7 @@ Anchored Artifacts:
 Related Nodes: N-11152, N-10012
 Tags: relevance:core
 Investigative Direction: Obtain UVU and TPUSA promotion records, poster dates and ticketing data to see when and how the event was announced.
+Open Questions: Q-347, Q-348
 
 ---
 
@@ -1683,6 +1706,7 @@ Mentions: N-40, N-849
 Related Nodes: N-125
 Tags: relevance:core
 Investigative Direction: Locate the photos and verify the identity of the uncle and his relationship to the Robinson family.
+Open Questions: Q-349
 
 ---
 
@@ -1699,6 +1723,7 @@ Mentions: N-40, N-125
 Related Nodes: N-10136, N-10146
 Tags: relevance:core
 Investigative Direction: Establish whether Mike Mitchell is related to the Robinson family and what, if any, Ukraine connection he has.
+Open Questions: Q-349
 
 ---
 
@@ -1714,6 +1739,7 @@ Anchored Artifacts:
 Related Nodes: N-10239, N-10012
 Tags: relevance:core
 Investigative Direction: Compile FAA flight data for aircraft over Orem on September 10 and check operators and contracts.
+Open Questions: Q-277, Q-350
 
 ---
 
@@ -1730,6 +1756,7 @@ Mentions: N-40
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Catalog the maroon-shirted individuals in crowd footage and identify them; compare with a baseline of shirt colors.
+Open Questions: Q-351
 
 ---
 
@@ -1761,6 +1788,7 @@ Mentions: N-307
 Related Nodes: N-10132, N-10230
 Tags: relevance:core
 Investigative Direction: Verify the identification through event footage and ask Kasparian to account for his position; the host does not allege wrongdoing.
+Open Questions: Q-352
 
 ---
 
@@ -1777,6 +1805,7 @@ Mentions: N-307, N-1
 Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Capture the archived September 10 post and later posts by Kasparian and family members.
+Open Questions: Q-352
 
 ---
 
@@ -1793,6 +1822,7 @@ Mentions: N-307
 Related Nodes: N-10090
 Tags: relevance:core
 Investigative Direction: Verify the father's LDS temple role through Church records or announcements.
+Open Questions: Q-352
 
 ---
 
@@ -1808,6 +1838,7 @@ Anchored Artifacts:
 Mentions: N-307
 Tags: relevance:core
 Investigative Direction: Request the host's sourcing on the father's alleged Middle East ties.
+Open Questions: Q-352
 
 ---
 
@@ -1824,6 +1855,7 @@ Mentions: N-307
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Confirm via footage the shirt color and the person's identity.
+Open Questions: Q-351, Q-352
 
 ---
 
@@ -1839,6 +1871,7 @@ Anchored Artifacts:
 Related Nodes: N-11152
 Tags: relevance:core
 Investigative Direction: Collect dated photographs and social posts showing when promotion began.
+Open Questions: Q-347, Q-348
 
 ---
 
@@ -1854,6 +1887,7 @@ Anchored Artifacts:
 Related Nodes: N-11152, N-10189
 Tags: relevance:core
 Investigative Direction: Identify each livestream account at the event and research the operators' backgrounds.
+Open Questions: Q-301
 
 ---
 
@@ -1869,6 +1903,7 @@ Anchored Artifacts:
 Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Request the host's verification trail for the 920 North King claim.
+Open Questions: Q-315
 
 ---
 
@@ -1885,6 +1920,7 @@ Related Nodes: N-10928, N-10245, N-10249
 Supports: C-2986
 Tags: relevance:core
 Investigative Direction: Obtain Satys hangar logs and any escort records for foreign aircraft at Wilmington.
+Open Questions: Q-332
 
 ---
 
@@ -1900,6 +1936,7 @@ Anchored Artifacts:
 Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Confirm which agencies are tenants at 920 North King Street and 1 Rodney Square.
+Open Questions: Q-333
 
 ---
 
@@ -2060,6 +2097,7 @@ Mentions: N-3, N-1
 Supports: C-3155
 Tags: relevance:core
 Investigative Direction: Identify who told her about the list and when; compare with Kolvet's reported September 10 warning.
+Open Questions: Q-328
 
 ---
 
@@ -2075,6 +2113,7 @@ Anchored Artifacts: A-3032.1
 Mentions: N-69
 Tags: relevance:core
 Investigative Direction: Specify which Patel statements the host considers false and test each against the record.
+Open Questions: Q-316, Q-336
 
 ---
 
@@ -2090,6 +2129,7 @@ Anchored Artifacts: A-3032.2
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Cross-check with the autopsy, hospital and funeral records the host cites.
+Open Questions: Q-149
 
 ---
 
@@ -2120,6 +2160,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Ask the host to specify whom she means by contacts who viewed the body, within source-protection limits.
+Open Questions: Q-149
 
 ---
 
@@ -2149,6 +2190,7 @@ Anchored Artifacts: A-3033.1
 Related Nodes: N-10249, N-10285
 Tags: relevance:core
 Investigative Direction: Identify who Kittis is and which law firm occupies the office; compare with the Richards Layton & Finger connection.
+Open Questions: Q-353
 
 ---
 
@@ -2164,6 +2206,7 @@ Anchored Artifacts: A-3033.1
 Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Ask the host which parts were withheld and why, and obtain the full letter.
+Open Questions: Q-315
 
 ---
 
@@ -2180,6 +2223,7 @@ Mentions: N-3
 Related Nodes: N-10254, N-10285
 Tags: relevance:core
 Investigative Direction: Review Delaware court filings for counsel of record and local-counsel arrangements.
+Open Questions: Q-353
 
 ---
 
@@ -2196,6 +2240,7 @@ Mentions: N-3
 Related Nodes: N-10285
 Tags: relevance:core
 Investigative Direction: Compare the host's filings in other states for the same pattern.
+Open Questions: Q-353
 
 ---
 

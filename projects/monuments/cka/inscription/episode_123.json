@@ -1664,7 +1664,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-885"
+      ]
     },
     {
       "@type": "Claim",
@@ -1689,7 +1692,11 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-915",
+        "Q-916"
+      ]
     },
     {
       "@type": "Claim",
@@ -1712,7 +1719,11 @@
         "N-266"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-915",
+        "Q-916"
+      ]
     },
     {
       "@type": "Claim",
@@ -1737,7 +1748,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-161"
+      ]
     },
     {
       "@type": "Claim",
@@ -1760,7 +1774,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-933"
+      ]
     },
     {
       "@type": "Claim",
@@ -1785,7 +1802,11 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-930",
+        "Q-934"
+      ]
     },
     {
       "@type": "Claim",
@@ -1808,7 +1829,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-885"
+      ]
     },
     {
       "@type": "Claim",
@@ -1834,7 +1858,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-934"
+      ]
     },
     {
       "@type": "Claim",
@@ -1859,7 +1886,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-884"
+      ]
     },
     {
       "@type": "Claim",
@@ -1884,7 +1914,11 @@
         "N-7"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-916",
+        "Q-935"
+      ]
     },
     {
       "@type": "Claim",
@@ -1928,7 +1962,11 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-884",
+        "Q-932"
+      ]
     },
     {
       "@type": "Claim",
@@ -1952,7 +1990,10 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-932"
+      ]
     },
     {
       "@type": "Claim",
@@ -1976,7 +2017,10 @@
         "C-10534"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-934"
+      ]
     },
     {
       "@type": "Claim",
@@ -2002,7 +2046,10 @@
         "N-266"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-917"
+      ]
     },
     {
       "@type": "Claim",
@@ -2024,7 +2071,10 @@
       "investigative_direction": "Obtain higher-resolution images and a forensic read of the bags and the separate piece.",
       "transcript_snippet": "the two bags, the Uber bags are are together um and on the other side and not that drenched.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-935"
+      ]
     },
     {
       "@type": "Claim",
@@ -2067,7 +2117,10 @@
         "N-487"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-935"
+      ]
     },
     {
       "@type": "Claim",
@@ -2112,7 +2165,10 @@
         "N-224"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-931"
+      ]
     },
     {
       "@type": "Claim",
@@ -2136,7 +2192,11 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-930",
+        "Q-935"
+      ]
     },
     {
       "@type": "Claim",
@@ -2162,7 +2222,11 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-884",
+        "Q-915"
+      ]
     },
     {
       "@type": "Claim",
@@ -2184,7 +2248,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-884"
+      ]
     },
     {
       "@type": "Claim",
@@ -2205,7 +2272,10 @@
       "investigative_direction": "Have a forensic lab compare the fragments with the vehicle's glazing and with a Rode-type microphone.",
       "transcript_snippet": "It's definitely definitively not the car glass.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-934"
+      ]
     },
     {
       "@type": "Claim",
@@ -2226,7 +2296,10 @@
       "investigative_direction": "Ask a materials expert whether a rode-type microphone's glass could carry adhesive and cling to clothing.",
       "transcript_snippet": "I had no idea that this is sticky glass that there's an adhesive that is attached to it.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-934"
+      ]
     },
     {
       "@type": "Claim",
@@ -2251,7 +2324,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-934"
+      ]
     },
     {
       "@type": "Claim",
@@ -2277,7 +2353,11 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-837",
+        "Q-936"
+      ]
     },
     {
       "@type": "Claim",
@@ -2301,7 +2381,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-936"
+      ]
     },
     {
       "@type": "Claim",
@@ -2325,7 +2408,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-936"
+      ]
     },
     {
       "@type": "Claim",
@@ -2350,7 +2436,11 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-934",
+        "Q-936"
+      ]
     },
     {
       "@type": "Claim",
@@ -2395,7 +2485,10 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-863"
+      ]
     },
     {
       "@type": "Claim",
@@ -2420,7 +2513,10 @@
         "N-190"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-863"
+      ]
     },
     {
       "@type": "Claim",
@@ -2443,7 +2539,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-863"
+      ]
     },
     {
       "@type": "Claim",
@@ -2507,7 +2606,10 @@
       "investigative_direction": "Examine succession documents and corporate records showing who gained control and when.",
       "transcript_snippet": "They had to they wanted to take over Turning Point USA. That's what I think anyway.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-590"
+      ]
     },
     {
       "@type": "Claim",
@@ -2730,7 +2832,10 @@
       "investigative_direction": "Review all ground-level angles behind the table at the time of the shot.",
       "transcript_snippet": "I am now revisiting that footage and we are going to spend time looking at that as well as we develop the witness tree",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-919"
+      ]
     },
     {
       "@type": "Claim",
@@ -2753,7 +2858,11 @@
         "N-681"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-161",
+        "Q-930"
+      ]
     },
     {
       "@type": "Claim",
@@ -2778,7 +2887,10 @@
         "N-266"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-893"
+      ]
     },
     {
       "@type": "Claim",
@@ -2800,7 +2912,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-917"
+      ]
     },
     {
       "@type": "Claim",
@@ -2825,7 +2940,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-590"
+      ]
     },
     {
       "@type": "Claim",

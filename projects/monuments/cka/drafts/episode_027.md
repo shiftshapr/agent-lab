@@ -1397,6 +1397,7 @@ Anchored Artifacts:
 Mentions: N-2, N-40
 Tags: relevance:core
 Investigative Direction: Pull the memorial-service video and transcript for the forgiveness statement and its timing.
+Open Questions: Q-279
 
 ---
 
@@ -1429,6 +1430,7 @@ Mentions: N-3, N-40, N-1
 Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Compare with the prosecution's evidence base and any filings naming co-participants.
+Open Questions: Q-21
 
 ---
 
@@ -1461,6 +1463,7 @@ Related Nodes: N-10216
 Supports: C-2421
 Tags: relevance:core
 Investigative Direction: Check whether the Utah autopsy record has been released or sealed.
+Open Questions: Q-273
 
 ---
 
@@ -1477,6 +1480,7 @@ Mentions: N-3, N-11
 Related Nodes: N-10052
 Tags: relevance:core
 Investigative Direction: Find Bowyer's original statement and ask TPUSA what 4K footage exists and who holds it.
+Open Questions: Q-288
 
 ---
 
@@ -1493,6 +1497,7 @@ Mentions: N-3
 Related Nodes: N-10012, N-10168
 Tags: relevance:core
 Investigative Direction: Identify who made the claim and obtain the UVU camera inventory and retention records.
+Open Questions: Q-288
 
 ---
 
@@ -1509,6 +1514,7 @@ Mentions: N-3
 Related Nodes: N-10052
 Tags: relevance:core
 Investigative Direction: Find the official statements giving the reason and the timing of any footage releases during the manhunt.
+Open Questions: Q-284, Q-288
 
 ---
 
@@ -1525,6 +1531,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Check the tribute video and the influencers' responses against what was said.
+Open Questions: Q-253
 
 ---
 
@@ -1541,6 +1548,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Ask Charlie's priests and Church records whether he was baptized or received into the Church.
+Open Questions: Q-253
 
 ---
 
@@ -1557,6 +1565,7 @@ Mentions: N-2
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Compare with Erika's public posting and contact record in the weeks after September 10.
+Open Questions: Q-252, Q-255
 
 ---
 
@@ -1573,6 +1582,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10300
 Tags: relevance:core
 Investigative Direction: Obtain the ballistics report, caliber finding and wound description from the official record.
+Open Questions: Q-272, Q-273
 
 ---
 
@@ -1589,6 +1599,7 @@ Mentions: N-3, N-190, N-1
 Related Nodes: N-11022, N-10000
 Tags: relevance:core
 Investigative Direction: Find the Liberty University convocation schedule and any TPUSA announcement of McCoy as replacement.
+Open Questions: Q-261
 
 ---
 
@@ -1684,6 +1695,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Collect dated interviews and posts from TPUSA staff on September 11-12.
+Open Questions: Q-289
 
 ---
 
@@ -1701,6 +1713,7 @@ Related Nodes: N-10217, N-10100
 Supports: C-2427
 Tags: relevance:core
 Investigative Direction: Ask the priests and parishes involved for attendance records; examine the pendant in evidence inventory.
+Open Questions: Q-253
 
 ---
 
@@ -1748,6 +1761,7 @@ Mentions: N-3, N-33, N-1
 Related Nodes: N-10211
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA event-booking lead times for past semesters; the host offers semester-by-semester emails.
+Open Questions: Q-268
 
 ---
 
@@ -1780,6 +1794,7 @@ Related Nodes: N-10211, N-10012
 Supports: C-2447
 Tags: relevance:core
 Investigative Direction: Obtain the UVU request email, its dates, and TPUSA's calendar entry date.
+Open Questions: Q-266, Q-268
 
 ---
 
@@ -1797,6 +1812,7 @@ Related Nodes: N-10211
 Supports: C-2447
 Tags: relevance:core
 Investigative Direction: Obtain the full screenshot with date and sender; confirm the Auburn and South Alabama event dates.
+Open Questions: Q-268
 
 ---
 
@@ -1893,6 +1909,7 @@ Mentions: N-3
 Related Nodes: N-10211, N-10012
 Tags: relevance:core
 Investigative Direction: Identify who at TPUSA or UVU approved the event and when.
+Open Questions: Q-266, Q-268
 
 ---
 
@@ -1925,6 +1942,7 @@ Mentions: N-3, N-227, N-40
 Related Nodes: N-10013, N-10014
 Tags: relevance:core
 Investigative Direction: Find the Stuckey clip and confirm her wording.
+Open Questions: Q-134
 
 ---
 
@@ -1987,6 +2005,7 @@ Mentions: N-3, N-190, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the father's and TPUSA people's statements, with dates.
+Open Questions: Q-243
 
 ---
 
@@ -2003,6 +2022,7 @@ Mentions: N-3, N-190, N-1
 Related Nodes: N-11022
 Tags: relevance:core
 Investigative Direction: Confirm via Liberty University's convocation schedule and event coverage.
+Open Questions: Q-261
 
 ---
 
@@ -2100,6 +2120,7 @@ Mentions: N-3, N-99, N-118, N-1
 Related Nodes: N-10127, N-11087
 Tags: relevance:core
 Investigative Direction: Find Clark's original statement and any pre-2025 TPUSA financial-audit unit.
+Open Questions: Q-250
 
 ---
 
@@ -2117,6 +2138,7 @@ Related Nodes: N-10000
 Supports: C-2476
 Tags: relevance:core
 Investigative Direction: Review earlier episodes for the host's exact words about McCoy.
+Open Questions: Q-290
 
 ---
 
@@ -2134,6 +2156,7 @@ Related Nodes: N-10000, N-10201, N-10100
 Supports: C-2476
 Tags: relevance:core
 Investigative Direction: Seek donor communications about Charlie's Catholic interest; the host frames the preceding clause sarcastically.
+Open Questions: Q-253, Q-286
 
 ---
 
@@ -2150,6 +2173,7 @@ Mentions: N-3
 Related Nodes: N-10211, N-10012, N-10000
 Tags: relevance:core
 Investigative Direction: Follow up on any tips received about the UVU event request.
+Open Questions: Q-266, Q-268
 
 ---
 
@@ -2214,6 +2238,7 @@ Related Nodes: N-10216
 Supports: C-2421
 Tags: relevance:core
 Investigative Direction: Check the Utah victim-rights statute on access to evidence for next of kin.
+Open Questions: Q-256
 
 ---
 
@@ -2246,6 +2271,7 @@ Mentions: N-3, N-7, N-1
 Related Nodes: N-10221, N-10625
 Tags: relevance:core
 Investigative Direction: Find the stage remarks by Turek and compare with accounts of Charlie's care.
+Open Questions: Q-224, Q-291
 
 ---
 
@@ -2262,6 +2288,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10221
 Tags: relevance:core
 Investigative Direction: Obtain hospital and EMS records on pulse, time of death and any surgery.
+Open Questions: Q-291
 
 ---
 

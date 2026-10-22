@@ -595,6 +595,7 @@ Mentions: N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Filings in the lawsuits against the host and the timing of when she received the information.
+Open Questions: Q-1266, Q-1267
 
 ---
 
@@ -627,6 +628,7 @@ Mentions: N-40
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Recordings or posts of the individual's statement about the Robinson jury pool.
+Open Questions: Q-1268
 
 ---
 
@@ -659,6 +661,7 @@ Mentions: N-955
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: UVU staff directory and Peterson's official title.
+Open Questions: Q-1267
 
 ---
 
@@ -675,6 +678,7 @@ Mentions: N-955
 Related Nodes: N-10000, N-10012
 Tags: relevance:core
 Investigative Direction: UVU faculty accounts and internal communications on the Turning Point event.
+Open Questions: Q-1267
 
 ---
 
@@ -837,6 +841,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: UVU after-action report and Peterson's September 10 schedule.
+Open Questions: Q-1269
 
 ---
 
@@ -855,6 +860,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: The UVU after-action report and Peterson's phone records for September 10.
+Open Questions: Q-1269
 
 ---
 
@@ -871,6 +877,7 @@ Mentions: N-955
 Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: Peterson's location records for September 10 and Guard base visitor logs.
+Open Questions: Q-1269
 
 ---
 
@@ -887,6 +894,7 @@ Mentions: N-159, N-1
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Neff's own statements and location data for September 10.
+Open Questions: Q-943
 
 ---
 
@@ -999,6 +1007,7 @@ Mentions: N-957
 Related Nodes: N-10071, N-11179
 Tags: relevance:core
 Investigative Direction: Provo Police Department personnel records for September 2025.
+Open Questions: Q-1270
 
 ---
 
@@ -1031,6 +1040,7 @@ Mentions: N-957, N-3
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Clancy's response, if any, and the outreach record.
+Open Questions: Q-1270
 
 ---
 
@@ -1047,6 +1057,7 @@ Mentions: N-957
 Related Nodes: N-10071
 Tags: relevance:core
 Investigative Direction: Provo Police Department duty rosters for September 10-11, 2025.
+Open Questions: Q-1270
 
 ---
 
@@ -1063,6 +1074,7 @@ Mentions: N-957
 Related Nodes: N-11134
 Tags: relevance:core
 Investigative Direction: Timpanogos hospital security logs and Provo police dispatch records.
+Open Questions: Q-1271
 
 ---
 
@@ -1079,6 +1091,7 @@ Mentions: N-957, N-2
 Related Nodes: N-11134
 Tags: relevance:core
 Investigative Direction: Police dispatch records and airport arrival records for Erika Kirk on September 10.
+Open Questions: Q-1271
 
 ---
 
@@ -1095,6 +1108,7 @@ Mentions: N-957
 Related Nodes: N-10000, N-11339
 Tags: relevance:core
 Investigative Direction: Provo police vehicle logs and statements from Turning Point staff on transport that day.
+Open Questions: Q-1271
 
 ---
 
@@ -1111,6 +1125,7 @@ Mentions: N-957
 Related Nodes: N-10000, N-11339
 Tags: relevance:core
 Investigative Direction: Provo police evidence logs for September 10 and Clancy's own account.
+Open Questions: Q-1266
 
 ---
 
@@ -1127,6 +1142,7 @@ Mentions: N-3
 Related Nodes: N-10071, N-10059, N-11339
 Tags: relevance:core
 Investigative Direction: Identities and depositions of the sources.
+Open Questions: Q-1266
 
 ---
 
@@ -1143,6 +1159,7 @@ Mentions: N-330, N-7
 Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Turek's podcast appearance and Coleman's statements.
+Open Questions: Q-1266
 
 ---
 
@@ -1159,6 +1176,7 @@ Mentions: N-7
 Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: The full Apostate Prophet podcast episode.
+Open Questions: Q-1266
 
 ---
 
@@ -1175,6 +1193,7 @@ Mentions: N-7
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: The podcast's publication date.
+Open Questions: Q-1272
 
 ---
 
@@ -1191,6 +1210,7 @@ Mentions: N-7, N-190, N-597, N-4, N-1
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Flight records of the vice president's aircraft on September 10.
+Open Questions: Q-1273
 
 ---
 
@@ -1207,6 +1227,7 @@ Mentions: N-7
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Police vehicle processing records for the SUV.
+Open Questions: Q-1274
 
 ---
 
@@ -1223,6 +1244,7 @@ Mentions: N-7, N-1
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Crime-scene photos of the vehicle interior.
+Open Questions: Q-1274
 
 ---
 
@@ -1240,6 +1262,7 @@ Related Nodes: N-10492
 Supports: C-4213
 Tags: relevance:core
 Investigative Direction: Evidence logs on the necklace and Turek's earlier accounts.
+Open Questions: Q-677
 
 ---
 
@@ -1256,6 +1279,7 @@ Mentions: N-7, N-2
 Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Identity of the officer present at the vehicle release.
+Open Questions: Q-677
 
 ---
 
@@ -1273,6 +1297,7 @@ Related Nodes: N-10626
 Supports: C-10096
 Tags: relevance:core
 Investigative Direction: Hospital records of scrubs issued and photos from the evening.
+Open Questions: Q-888
 
 ---
 
@@ -1289,6 +1314,7 @@ Mentions: N-7, N-2
 Related Nodes: N-10626, N-11339
 Tags: relevance:core
 Investigative Direction: Identity of the officer in Turek's vehicle and any police evidence intake of the bag.
+Open Questions: Q-1266
 
 ---
 
@@ -1305,6 +1331,7 @@ Mentions: N-7, N-266
 Related Nodes: N-10625
 Tags: relevance:core
 Investigative Direction: Turek's and Harpole's full CPR accounts compared with vehicle photos.
+Open Questions: Q-231, Q-1266
 
 ---
 
@@ -1321,6 +1348,7 @@ Mentions: N-957
 Related Nodes: N-11339
 Tags: relevance:core
 Investigative Direction: Identity of the officer in Turek's car and Clancy's assignment records.
+Open Questions: Q-1266
 
 ---
 
@@ -1337,6 +1365,7 @@ Mentions: N-41, N-957
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Governor's office appointment records and their timing.
+Open Questions: Q-1275
 
 ---
 
@@ -1385,6 +1414,7 @@ Mentions: N-957, N-128
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Social media connections and BYU lacrosse rosters.
+Open Questions: Q-1276
 
 ---
 
@@ -1401,6 +1431,7 @@ Mentions: N-128, N-942, N-132
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Archived copy of Broderick's Instagram post.
+Open Questions: Q-1277
 
 ---
 
@@ -1417,6 +1448,7 @@ Mentions: N-128
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Archived post images and the location of the footprints.
+Open Questions: Q-1277
 
 ---
 
@@ -1433,6 +1465,7 @@ Mentions: N-957, N-128, N-942
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: BYU men's lacrosse rosters and the source of the photo.
+Open Questions: Q-1276
 
 ---
 
@@ -1466,6 +1499,7 @@ Related Nodes: N-10795, N-11134
 Supports: C-13858
 Tags: relevance:core
 Investigative Direction: Fire department shift records for September 10 and the unredacted review.
+Open Questions: Q-1262
 
 ---
 
@@ -1482,6 +1516,7 @@ Mentions:
 Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: Provo and Orem fire department rosters for September 10, 2025.
+Open Questions: Q-1262
 
 ---
 
@@ -1499,6 +1534,7 @@ Related Nodes: N-10795
 Supports: C-13853
 Tags: relevance:core
 Investigative Direction: EMS run reports for ambulances at Timpanogos on September 10.
+Open Questions: Q-1262
 
 ---
 
@@ -1516,6 +1552,7 @@ Related Nodes: N-10795
 Supports: C-13861
 Tags: relevance:core
 Investigative Direction: Tips received at moretips@candaceowens.com.
+Open Questions: Q-1262
 
 ---
 
@@ -1644,6 +1681,7 @@ Mentions: N-2, N-960
 Related Nodes: N-10465
 Tags: relevance:core
 Investigative Direction: Degree-verification records for Erika Kirk.
+Open Questions: Q-1278
 
 ---
 
@@ -1836,6 +1874,7 @@ Mentions: N-1, N-2
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's recorded statements on September 9, 2025.
+Open Questions: Q-2
 
 ---
 
@@ -1852,6 +1891,7 @@ Mentions: N-2, N-1
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Statements from Erika Kirk's staff on who runs her account.
+Open Questions: Q-1279
 
 ---
 
@@ -1868,6 +1908,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10785
 Tags: relevance:core
 Investigative Direction: Erika Kirk's tweet and the Vanity Fair profile.
+Open Questions: Q-1279
 
 ---
 

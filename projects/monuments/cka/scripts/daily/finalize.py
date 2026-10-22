@@ -54,6 +54,7 @@ def main() -> int:
                               (CKA / "scripts" / "ledger" / "export_then_vs_now.py", []),
                               (CKA / "scripts" / "verification" / "apply_record.py", []),
                               (CKA / "scripts" / "verification" / "derive_status.py", []),
+                              (CKA / "scripts" / "questions" / "apply_register.py", []),
                               (MON / "scripts" / "cka_brc222_companion.py", [])):
             r = sh([py, str(script)] + extra)
             if r.returncode != 0:

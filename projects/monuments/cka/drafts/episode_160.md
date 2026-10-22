@@ -1149,6 +1149,7 @@ Related Nodes: N-10762, N-10797
 Supports: C-13837
 Tags: relevance:core
 Investigative Direction: Compare the timing of each pushed narrative against the release dates of the UVU review and Epstein-file news.
+Open Questions: Q-1198
 
 ---
 
@@ -1362,6 +1363,7 @@ Related Nodes: N-10053, N-10026
 Supports: C-12560
 Tags: relevance:core
 Investigative Direction: Obtain the donor texts and messages the host has cited about Charlie leaving the pro-Israel cause.
+Open Questions: Q-1196
 
 ---
 
@@ -1378,6 +1380,7 @@ Mentions: N-40
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare the prosecution's evidence list at the preliminary hearing against the host's assessment.
+Open Questions: Q-1140
 
 ---
 
@@ -1394,6 +1397,7 @@ Mentions: N-2
 Related Nodes: N-10797
 Tags: relevance:core
 Investigative Direction: Collect early public reaction posts from the days after the assassination to test the host's account.
+Open Questions: Q-1232
 
 ---
 
@@ -1411,6 +1415,7 @@ Related Nodes: N-10061, N-10797
 Supports: C-13837
 Tags: relevance:core
 Investigative Direction: Ask which record would show Pentagon involvement in the case and what the host means by covering tracks.
+Open Questions: Q-1231
 
 ---
 
@@ -1427,6 +1432,7 @@ Mentions: N-3, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Index the earlier episodes where the car photos and tour comparisons were shown.
+Open Questions: Q-224
 
 ---
 
@@ -1459,6 +1465,7 @@ Mentions: N-3
 Related Nodes: N-10762, N-10795
 Tags: relevance:core
 Investigative Direction: Map attack posts against the review's release date.
+Open Questions: Q-1198
 
 ---
 
@@ -1479,6 +1486,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Re-listen to the Harpole interview to check whether he excluded hospital CPR or only CPR in the car.
+Open Questions: Q-915
 
 ---
 
@@ -1495,6 +1503,7 @@ Mentions: N-266, N-1
 Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Compare Harpole's interview wording with hospital staff and bodycam accounts.
+Open Questions: Q-915
 
 ---
 
@@ -1512,6 +1521,7 @@ Related Nodes: N-10664
 Supports: C-12569
 Tags: relevance:core
 Investigative Direction: Obtain Hibbs and Turek call logs and any recording of the FaceTime.
+Open Questions: Q-1118
 
 ---
 
@@ -1528,6 +1538,7 @@ Mentions:
 Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: Obtain the full dispatch log and audio from the dispatch center.
+Open Questions: Q-224
 
 ---
 
@@ -1544,6 +1555,7 @@ Mentions: N-1
 Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: Review incoming tips for roster or dispatch records naming the Station 2 captain.
+Open Questions: Q-915
 
 ---
 
@@ -1576,6 +1588,7 @@ Mentions: N-1
 Related Nodes: N-11131, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA security roster and service records, and compare with the 12-member count cited in an earlier episode.
+Open Questions: Q-1199
 
 ---
 
@@ -1594,6 +1607,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Review UVU police communication logs and the review's account of contact with the TPUSA team.
+Open Questions: Q-1201
 
 ---
 
@@ -1611,6 +1625,7 @@ Related Nodes: N-11131, N-10762, N-10000
 Supports: C-13551
 Tags: relevance:core
 Investigative Direction: Check the review's ticketing and crowd-estimate exchange between TPUSA and UVUPD.
+Open Questions: Q-1204
 
 ---
 
@@ -1628,6 +1643,7 @@ Related Nodes: N-10000, N-10590
 Supports: C-3012
 Tags: relevance:core
 Investigative Direction: Compile TPUSA statements blaming Long and compare with the review findings.
+Open Questions: Q-1198
 
 ---
 
@@ -1645,6 +1661,7 @@ Related Nodes: N-10590
 Supports: C-13235
 Tags: relevance:core
 Investigative Direction: Compare with the actual Flood and Long text thread and the review's rooftop findings.
+Open Questions: Q-1205
 
 ---
 
@@ -1661,6 +1678,7 @@ Mentions: N-7, N-271, N-1
 Related Nodes: N-10590
 Tags: relevance:core
 Investigative Direction: Check the team's actual arrival and advance-visit timeline against the review.
+Open Questions: Q-1201
 
 ---
 
@@ -1677,6 +1695,7 @@ Mentions: N-7, N-1
 Related Nodes: N-10229
 Tags: relevance:core
 Investigative Direction: Ask whether any pre-event message or witness confirms Turek's statement.
+Open Questions: Q-343
 
 ---
 
@@ -1694,6 +1713,7 @@ Related Nodes: N-11131, N-10000, N-10762
 Supports: C-13528
 Tags: relevance:core
 Investigative Direction: Locate the attendance figures TPUSA gave UVUPD and compare with actual attendance.
+Open Questions: Q-1204
 
 ---
 
@@ -1710,6 +1730,7 @@ Mentions:
 Related Nodes: N-10229, N-10000, N-10762
 Tags: relevance:core
 Investigative Direction: Check the review's venue-recommendation exchange.
+Open Questions: Q-343
 
 ---
 
@@ -1903,6 +1924,7 @@ Mentions: N-3, N-1
 Related Nodes: N-11132
 Tags: relevance:core
 Investigative Direction: Obtain the text messages and compare with unfollow timing and the book announcement.
+Open Questions: Q-1211
 
 ---
 

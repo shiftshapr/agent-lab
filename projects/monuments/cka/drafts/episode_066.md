@@ -835,6 +835,7 @@ Mentions: N-2, N-14, N-3
 Related Nodes: N-10000, N-11098
 Tags: relevance:core
 Investigative Direction: Identify the crisis PR firm and its engagement date through TPUSA filings, press reports or the host's sources; ask TPUSA to confirm or deny the hire.
+Open Questions: Q-535
 
 ---
 
@@ -917,6 +918,7 @@ Related Nodes: N-11361
 Supports: C-5911
 Tags: relevance:core
 Investigative Direction: Obtain the full transcript of the memorial speech and count the personal references to Charlie Kirk against the organizational references.
+Open Questions: Q-543
 
 ---
 
@@ -933,6 +935,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the transcript of Erika Kirk's first public speech beside Charlie's chair and check for the organizational calls to action the host describes.
+Open Questions: Q-543
 
 ---
 
@@ -966,6 +969,7 @@ Mentions: N-2, N-514
 Supports: C-5917
 Tags: relevance:core
 Investigative Direction: Confirm with the hospital chaplaincy, the parish or Erika Kirk's team whether the priest was present at the hospital and officiated at the private funeral.
+Open Questions: Q-95, Q-520
 
 ---
 
@@ -1029,6 +1033,7 @@ Anchored Artifacts: A-1706.1
 Mentions: N-514, N-1, N-2
 Tags: relevance:core
 Investigative Direction: Ask the donor for the messages the priest showed her and compare with the September 9 group-chat text shown at 00:23:14.
+Open Questions: Q-95
 
 ---
 
@@ -1044,6 +1049,7 @@ Anchored Artifacts: A-1706.1
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Identify Erika Kirk's security detail and companion that morning through the parish and the donor; check the Monday schedule.
+Open Questions: Q-544
 
 ---
 
@@ -1061,6 +1067,7 @@ Related Nodes: N-10436
 Supports: C-5917
 Tags: relevance:core
 Investigative Direction: Ask the donor to confirm in writing who tapped her and how she learned the woman's name, since the email as read does not name her.
+Open Questions: Q-544
 
 ---
 
@@ -1076,6 +1083,7 @@ Anchored Artifacts: A-1706.1
 Mentions: N-2, N-1, N-514
 Tags: relevance:core
 Investigative Direction: Check Charlie Kirk's mass attendance with the parish; the email reads Father Don while the host calls the priest Father Blank, so confirm the name.
+Open Questions: Q-95
 
 ---
 
@@ -1092,6 +1100,7 @@ Mentions: N-186, N-3
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Ask the donor to confirm Sheridan was the woman who tapped her; review Sheridan's role in TPUSA donor relations through staff accounts.
+Open Questions: Q-540, Q-544
 
 ---
 
@@ -1108,6 +1117,7 @@ Mentions: N-3
 Related Nodes: N-10436, N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Look for pre-memorial donor lists or briefing notes; the donor's account of how she got in (00:23:14) is the test of whether she was pre-identified.
+Open Questions: Q-545
 
 ---
 
@@ -1124,6 +1134,7 @@ Mentions: N-186
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Obtain Sheridan's job description and any donor-profile documents from former TPUSA staff; ask TPUSA to describe her role.
+Open Questions: Q-540
 
 ---
 
@@ -1140,6 +1151,7 @@ Mentions: N-186, N-1
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Ask former TPUSA event staff to describe the donor hand-off routine at events; check the host's earlier references to this in ep 19 (C-1723).
+Open Questions: Q-540
 
 ---
 
@@ -1156,6 +1168,7 @@ Mentions: N-3
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Obtain the host's reply and the donor's response in writing to confirm the donor's own conclusion.
+Open Questions: Q-546
 
 ---
 
@@ -1172,6 +1185,7 @@ Mentions: N-3
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: The donor is unnamed on air; verify her wealth through the host's sources without naming her publicly.
+Open Questions: Q-546
 
 ---
 
@@ -1188,6 +1202,7 @@ Mentions: N-1, N-2, N-514
 Supports: C-5936
 Tags: relevance:core
 Investigative Direction: Obtain the original screenshot or forward from the donor and verify its provenance and metadata.
+Open Questions: Q-547
 
 ---
 
@@ -1203,6 +1218,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Compare with the host's earlier release of Charlie Kirk texts and any verse-bearing messages; Erika Kirk has said Charlie sent verses.
+Open Questions: Q-547
 
 ---
 
@@ -1219,6 +1235,7 @@ Mentions: N-57, N-1
 Related Nodes: N-10056
 Tags: relevance:core
 Investigative Direction: Identify the marketing conference and the attendees; ask the donor which contacts there introduced her to TPUSA.
+Open Questions: Q-545
 
 ---
 
@@ -1235,6 +1252,7 @@ Mentions:
 Related Nodes: N-10436, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the donor's introduction text thread (A-1709.1 shows part of it) to identify the intermediary and the TPUSA contact.
+Open Questions: Q-545
 
 ---
 
@@ -1251,6 +1269,7 @@ Mentions: N-515, N-1
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Identify the TPUSA staffer and the sender of the text from the donor's screenshot; check the staffer's travel with Charlie.
+Open Questions: Q-545
 
 ---
 
@@ -1268,6 +1287,7 @@ Related Nodes: N-10438, N-11361
 Supports: C-5941
 Tags: relevance:core
 Investigative Direction: Obtain the full text; check Erika Kirk's reported threat environment and who raised the memorial funds.
+Open Questions: Q-545, Q-548
 
 ---
 
@@ -1285,6 +1305,7 @@ Related Nodes: N-10435, N-11361
 Supports: C-1155
 Tags: relevance:core
 Investigative Direction: Obtain stadium booking and White House correspondence on the memorial venue through records requests.
+Open Questions: Q-548
 
 ---
 
@@ -1301,6 +1322,7 @@ Mentions: N-3
 Related Nodes: N-10435
 Tags: relevance:core
 Investigative Direction: Track whether tips about the RV show or cancellation emails are cited in later episodes.
+Open Questions: Q-548, Q-549
 
 ---
 
@@ -1317,6 +1339,7 @@ Mentions: N-3
 Related Nodes: N-10595, N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Look for TPUSA privacy policies, ticketing terms and any ad-tech or data-broker disclosures tied to the memorial geofence.
+Open Questions: Q-550
 
 ---
 
@@ -1333,6 +1356,7 @@ Mentions: N-514, N-3
 Related Nodes: N-10437
 Tags: relevance:core
 Investigative Direction: Check the parish bulletin and mass schedule; note the host dates the donor's Monday mass to September 10 though the memorial was on a Sunday, so confirm which date she means.
+Open Questions: Q-95
 
 ---
 
@@ -1350,6 +1374,7 @@ Related Nodes: N-10436
 Supports: C-5917
 Tags: relevance:core
 Investigative Direction: Ask Sheridan and Erika Kirk's team whether the approach was requested; the host offers this as inference.
+Open Questions: Q-544
 
 ---
 
@@ -1381,6 +1406,7 @@ Mentions: N-2
 Related Nodes: N-10436, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the fundraiser; compare with the later Chicago meeting text (A-1713.1).
+Open Questions: Q-544
 
 ---
 
@@ -1397,6 +1423,7 @@ Mentions: N-2
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Obtain the full text thread and ask Erika Kirk's team whether she spoke about the donor.
+Open Questions: Q-546
 
 ---
 
@@ -1462,6 +1489,7 @@ Related Nodes: N-10436
 Supports: C-5952
 Tags: relevance:core
 Investigative Direction: Obtain the texts with dates; confirm no donation was made.
+Open Questions: Q-546
 
 ---
 
@@ -1478,6 +1506,7 @@ Mentions: N-3
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Test the targeting claim against TPUSA's donor-outreach procedures.
+Open Questions: Q-546
 
 ---
 
@@ -1494,6 +1523,7 @@ Mentions: N-2, N-40, N-3
 Supports: C-1326
 Tags: relevance:core
 Investigative Direction: Compare the wording of Erika Kirk's memorial statement with the host's characterization.
+Open Questions: Q-543
 
 ---
 
@@ -1511,6 +1541,7 @@ Related Nodes: N-11002, N-10456, N-10000
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Identify the employees and the Uber driver incident through the host's sources and TPUSA termination records.
+Open Questions: Q-541
 
 ---
 
@@ -1622,6 +1653,7 @@ Mentions: N-2, N-14, N-3
 Supports: C-5906
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's team whether a replacement for Kolvet was discussed; check Kolvet's role in later episodes.
+Open Questions: Q-535
 
 ---
 
@@ -1639,6 +1671,7 @@ Related Nodes: N-10820
 Supports: C-4488, C-5675
 Tags: relevance:core
 Investigative Direction: Obtain communications between Kolvet, Paramount Tactical and Alex Jones; the host says she has confirmed the Alex Jones contact elsewhere.
+Open Questions: Q-532
 
 ---
 
@@ -1655,6 +1688,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10408, N-11002
 Tags: relevance:core
 Investigative Direction: The sentence is garbled; identify which firings the host means and ask the fired staff to confirm Kolvet's role.
+Open Questions: Q-503, Q-535
 
 ---
 
@@ -1703,6 +1737,7 @@ Mentions: N-14
 Related Nodes: N-11099
 Tags: relevance:core
 Investigative Direction: Identify the Kolvet statement about Catholic faith that the donor saw, probably in the Alex Clark interview.
+Open Questions: Q-551
 
 ---
 
@@ -1719,6 +1754,7 @@ Mentions: N-2, N-14, N-99, N-3
 Related Nodes: N-11099
 Tags: relevance:core
 Investigative Direction: Obtain the Alex Clark interview and the host's recording or notes of what Erika Kirk said about it.
+Open Questions: Q-551
 
 ---
 
@@ -1735,6 +1771,7 @@ Mentions: N-14, N-2, N-99
 Related Nodes: N-11099
 Tags: relevance:core
 Investigative Direction: Identify the former staffer and obtain any screenshot of the texts; ask Kolvet and Erika Kirk's team to confirm or deny.
+Open Questions: Q-551
 
 ---
 

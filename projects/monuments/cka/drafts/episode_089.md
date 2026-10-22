@@ -766,6 +766,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Ask the host which evidence supports a decision-maker acting on Kirk's influence; this is an inference, not a documented motive.
+Open Questions: Q-748
 
 ---
 
@@ -1191,6 +1192,7 @@ Anchored Artifacts: A-1944.1
 Mentions: N-14, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Ask Kolvet to confirm or deny that he told the host this account.
+Open Questions: Q-778
 
 ---
 
@@ -1225,6 +1227,7 @@ Related Nodes: N-10537
 Supports: C-7990
 Tags: relevance:core
 Investigative Direction: Check the host's own messages or notes from spring 2024 for the date of the discussion.
+Open Questions: Q-778
 
 ---
 
@@ -1242,6 +1245,7 @@ Related Nodes: N-10537
 Supports: C-7993
 Tags: relevance:core
 Investigative Direction: Only the two named witnesses are asserted present; ask Kolvet directly.
+Open Questions: Q-778
 
 ---
 
@@ -1448,6 +1452,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10496, N-11046
 Tags: relevance:core
 Investigative Direction: The host labels this her opinion; ask what record ties the killing to the Iran conflict, which began after his death.
+Open Questions: Q-748, Q-755
 
 ---
 
@@ -1555,6 +1560,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Ask the host which specific people are meant; none was named here.
+Open Questions: Q-748
 
 ---
 
@@ -1570,6 +1576,7 @@ Anchored Artifacts:
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Check the following episode for the findings she says she is holding back.
+Open Questions: Q-748
 
 ---
 

@@ -1564,6 +1564,7 @@ Related Nodes: N-10332
 Supports: C-4156
 Tags: relevance:core
 Investigative Direction: Compare with the New York Times reporting on Patel, Kent and Gabbard and ask Kent about the dispute on stage.
+Open Questions: Q-682
 
 ---
 
@@ -1581,6 +1582,7 @@ Related Nodes: N-10194, N-10332
 Supports: C-4156
 Tags: relevance:core
 Investigative Direction: Obtain FBI and ODNI communications on any foreign-involvement tasking and Patel's public statements on foreign actors.
+Open Questions: Q-682
 
 ---
 
@@ -1597,6 +1599,7 @@ Mentions: N-329, N-209
 Related Nodes: N-10332
 Tags: relevance:core
 Investigative Direction: Check ODNI and NCTC organizational reporting lines and whether either office was tasked on the Kirk case.
+Open Questions: Q-682
 
 ---
 
@@ -1695,6 +1698,7 @@ Mentions: N-1
 Related Nodes: N-10500
 Tags: relevance:core
 Investigative Direction: Identify the event, date and organizer of the July 2025 sit-down and any donor presentation that used it.
+Open Questions: Q-2, Q-6
 
 ---
 
@@ -1743,6 +1747,7 @@ Anchored Artifacts:
 Mentions: N-159, N-190, N-3
 Tags: relevance:core
 Investigative Direction: List the specific questions put to TPUSA and its responses.
+Open Questions: Q-679, Q-683
 
 ---
 
@@ -1758,6 +1763,7 @@ Anchored Artifacts:
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Identify which tapes the host means (the transcript does not say) and compare with the camera and SD card removal claims in earlier episodes.
+Open Questions: Q-675, Q-679
 
 ---
 
@@ -1774,6 +1780,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Identify the fired employees through the host's sources and obtain termination documents.
+Open Questions: Q-683
 
 ---
 
@@ -1871,6 +1878,7 @@ Anchored Artifacts: A-3323.1
 Mentions: N-2, N-3
 Tags: relevance:core
 Investigative Direction: Identify the X account and the audio, and check whether the host's channel ever published it.
+Open Questions: Q-684
 
 ---
 
@@ -1887,6 +1895,7 @@ Mentions: N-2, N-1, N-3
 Supports: C-5439
 Tags: relevance:core
 Investigative Direction: Compare with the full interview and the host's earlier accounts of the meeting.
+Open Questions: Q-685
 
 ---
 
@@ -1904,6 +1913,7 @@ Related Nodes: N-11256, N-10384
 Supports: C-5042, C-5040
 Tags: relevance:core
 Investigative Direction: Pull the lawsuit dockets against Harvest Christian Fellowship and Erika Kirk's Harvest event commitments.
+Open Questions: Q-686
 
 ---
 

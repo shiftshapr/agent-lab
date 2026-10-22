@@ -1040,6 +1040,7 @@ Mentions: N-3, N-1, N-270, N-2
 Related Nodes: N-10956, N-10730
 Tags: relevance:core
 Investigative Direction: Obtain the host's text messages to Charlie Kirk warning about the security firm and Dan Flood; compare with her earlier claims about Shaffer Security.
+Open Questions: Q-575
 
 ---
 
@@ -1071,6 +1072,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2
 Tags: relevance:core
 Investigative Direction: Pin down the date and location of the four-hour hotel meeting and which statements by Erika the host now says were false.
+Open Questions: Q-419
 
 ---
 
@@ -1087,6 +1089,7 @@ Mentions: N-3, N-2, N-14
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Look for documents, payments or messages showing Erika Kirk's authorization of the campaign against the host; the host offers no artifact here.
+Open Questions: Q-487
 
 ---
 
@@ -1102,6 +1105,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1, N-2
 Tags: relevance:core
 Investigative Direction: Compare TPUSA-aligned public statements that the two had not spoken since 2019 with the host's call and message records with Charlie Kirk.
+Open Questions: Q-15, Q-487
 
 ---
 
@@ -1118,6 +1122,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: Establish custody of Charlie Kirk's phone after September 10 and whether the messages the host showed earlier match the device's records.
+Open Questions: Q-576, Q-577
 
 ---
 
@@ -1134,6 +1139,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: The host has not released these messages; ask her team to publish them or have a forensic examiner verify their metadata.
+Open Questions: Q-576
 
 ---
 
@@ -1150,6 +1156,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10117, N-10113, N-10730
 Tags: relevance:core
 Investigative Direction: Identify the priest and the dates of any call, and obtain the written messages in which Charlie Kirk expressed fear of being killed.
+Open Questions: Q-95, Q-576
 
 ---
 
@@ -1197,6 +1204,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10826
 Tags: relevance:core
 Investigative Direction: Locate the interview (the host's source for the wedding band detail is not named) and confirm Erika Kirk's exact words.
+Open Questions: Q-578
 
 ---
 
@@ -1213,6 +1221,7 @@ Mentions: N-3, N-15, N-2
 Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Obtain the written exchange in which Streiff denied knowing Pierre and the document the host says contradicts it.
+Open Questions: Q-579
 
 ---
 
@@ -1230,6 +1239,7 @@ Related Nodes: N-10280
 Supports: C-3475
 Tags: relevance:core
 Investigative Direction: Seek calendars, travel or visitor records showing a meeting between Erika Kirk or Streiff and a donor named Pierre after September 10.
+Open Questions: Q-580
 
 ---
 
@@ -1247,6 +1257,7 @@ Related Nodes: N-10280, N-10298
 Supports: C-3475
 Tags: relevance:core
 Investigative Direction: Obtain the host's documents on the deal; confirm Pierre's identity and compare with TPUSA donor and pledge records.
+Open Questions: Q-581
 
 ---
 
@@ -1263,6 +1274,7 @@ Mentions: N-3, N-15, N-801
 Related Nodes: N-10280, N-10000
 Tags: relevance:core
 Investigative Direction: Identification as Don Orrico (Florida-based major-gifts fundraiser, formerly Mackinac Center director of strategic partnerships, Estero FL) is by name match; confirm his TPUSA role and obtain call records for the alleged calls.
+Open Questions: Q-580
 
 ---
 
@@ -1279,6 +1291,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Establish when Pierre first learned of the shooting (call logs, messages) and whether he had given to TPUSA before September 10.
+Open Questions: Q-582
 
 ---
 
@@ -1295,6 +1308,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Check TPUSA financial statements and donor disclosures for large gifts received after September 2025.
+Open Questions: Q-581
 
 ---
 
@@ -1311,6 +1325,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10272, N-10297, N-10280, N-10072
 Tags: relevance:core
 Investigative Direction: Obtain the host's inquiry to the White House and any response; compare with her earlier French Foreign Legion claims.
+Open Questions: Q-346
 
 ---
 
@@ -1328,6 +1343,7 @@ Related Nodes: N-11102, N-10298, N-10026
 Supports: C-4550
 Tags: relevance:core
 Investigative Direction: Verify whether Pierre Falcone had any contact with TPUSA officials after September 10; the host offers only a guess here.
+Open Questions: Q-346, Q-579
 
 ---
 
@@ -1344,6 +1360,7 @@ Mentions: N-3, N-2, N-36
 Related Nodes: N-10239, N-10320
 Tags: relevance:core
 Investigative Direction: Identify which of Erika Kirk's statements the host says were false and what evidence ties them to Netanyahu.
+Open Questions: Q-17, Q-277
 
 ---
 
@@ -1360,6 +1377,7 @@ Mentions: N-3, N-14, N-36, N-1, N-2
 Related Nodes: N-10458, N-10320, N-10027, N-10415
 Tags: relevance:core
 Investigative Direction: Seek attendee lists, photos or staff accounts of the Hamptons dinner and Kolvet's own statements about the offer.
+Open Questions: Q-77
 
 ---
 
@@ -1376,6 +1394,7 @@ Mentions: N-3, N-2, N-36, N-1
 Related Nodes: N-10018
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's public statement about the Netanyahu call and the letter, and compare with the host's Hamptons account.
+Open Questions: Q-77
 
 ---
 
@@ -1392,6 +1411,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10027, N-10415
 Tags: relevance:core
 Investigative Direction: Collect the influencer posts denying the Hamptons dinner and compare them with any attendee records.
+Open Questions: Q-9, Q-487
 
 ---
 
@@ -1424,6 +1444,7 @@ Mentions: N-3, N-14, N-1, N-36
 Related Nodes: N-10425
 Tags: relevance:core
 Investigative Direction: Ask Kolvet or show staff to confirm whether a Netanyahu appearance was requested and declined.
+Open Questions: Q-583
 
 ---
 
@@ -1456,6 +1477,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10026, N-10297, N-10280
 Tags: relevance:core
 Investigative Direction: This is the host's inference; no evidence is shown. Test by seeking the documents she says she holds on Pierre and the Netanyahu offer.
+Open Questions: Q-17, Q-582
 
 ---
 
@@ -1472,6 +1494,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10457
 Tags: relevance:core
 Investigative Direction: Obtain the evidence the host says contradicts Erika Kirk's account and compare with flight, phone and appointment records.
+Open Questions: Q-562
 
 ---
 
@@ -1488,6 +1511,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10457, N-10449
 Tags: relevance:core
 Investigative Direction: Find where Erika Kirk made the statement about her mother's treatment and the treatment's date and location.
+Open Questions: Q-562
 
 ---
 
@@ -1505,6 +1529,7 @@ Related Nodes: N-10502
 Supports: C-5410
 Tags: relevance:core
 Investigative Direction: Compare with Kolvet's public statements and airport or aircraft records for arrival times on the tarmac.
+Open Questions: Q-327
 
 ---
 
@@ -1521,6 +1546,7 @@ Mentions: N-3, N-2, N-14
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Pull tail numbers and landing and wheels-down times for both flights to Provo on September 10 and test the one-hour gap.
+Open Questions: Q-327
 
 ---
 
@@ -1537,6 +1563,7 @@ Mentions: N-3
 Related Nodes: N-10239, N-10503
 Tags: relevance:core
 Investigative Direction: Examine ADS-B and transponder logs for the Egyptian aircraft around September 10, 2025 and the Delaware departure the host mentions.
+Open Questions: Q-277
 
 ---
 
@@ -1585,6 +1612,7 @@ Mentions: N-3, N-550, N-2
 Related Nodes: N-10456
 Tags: relevance:core
 Investigative Direction: Collect accounts from other fired employees about the stated and unstated reasons for their dismissals.
+Open Questions: Q-584
 
 ---
 
@@ -1649,6 +1677,7 @@ Mentions: N-3
 Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Follow up on tips received about the donor Pierre and verify identity and residence.
+Open Questions: Q-579
 
 ---
 
@@ -1665,6 +1694,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Wait for the promised material the following week and test it against the people and organizations she names.
+Open Questions: Q-585
 
 ---
 
@@ -1682,6 +1712,7 @@ Related Nodes: N-10280
 Supports: C-3475
 Tags: relevance:core
 Investigative Direction: Same as the earlier Pierre claims: obtain the written proof and records of meetings.
+Open Questions: Q-579
 
 ---
 
@@ -1713,6 +1744,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask Kolvet about the remark and its context; the host does not say when or where he said it.
+Open Questions: Q-586
 
 ---
 
@@ -1761,6 +1793,7 @@ Mentions: N-3, N-550
 Related Nodes: N-10456
 Tags: relevance:core
 Investigative Direction: Confirm the fiance's employment and dismissal with Laitsch or TPUSA records.
+Open Questions: Q-584
 
 ---
 
@@ -1793,6 +1826,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: A forensic examination of the iMessage database on Charlie Kirk's phone and the recipients' devices would show whether the messages existed and were deleted.
+Open Questions: Q-576
 
 ---
 
@@ -1809,6 +1843,7 @@ Mentions: N-3, N-270, N-14, N-2
 Related Nodes: N-10318, N-10730
 Tags: relevance:core
 Investigative Direction: Ask Flood and Kolvet whether they received the text and whether they informed Erika Kirk.
+Open Questions: Q-576
 
 ---
 

@@ -1375,6 +1375,7 @@ Mentions: N-54, N-3
 Related Nodes: N-11224
 Tags: relevance:core
 Investigative Direction: Identify which influencers saw the 4K footage and obtain their accounts of what it showed.
+Open Questions: Q-937, Q-1057
 
 ---
 
@@ -1594,6 +1595,7 @@ Mentions: N-1, N-2, N-3
 Related Nodes: N-10000, N-10971
 Tags: relevance:core
 Investigative Direction: Identify the fundraiser, obtain event footage showing the encased microphone and TPUSA's reported total.
+Open Questions: Q-1013
 
 ---
 
@@ -1707,6 +1709,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Compare the host's reading with the prosecution's ballistic and trajectory evidence presented at the preliminary hearing.
+Open Questions: Q-21, Q-957
 
 ---
 
@@ -1723,6 +1726,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the highest-quality footage of the moment of impact, ideally the 4K version.
+Open Questions: Q-1040
 
 ---
 
@@ -1739,6 +1743,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the necklace in the footage and the physical condition of the necklace as recovered.
+Open Questions: Q-1040
 
 ---
 
@@ -1755,6 +1760,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Consult independent ballistics experts on the 30-06 round's expected effect and compare with the recorded movement.
+Open Questions: Q-1040
 
 ---
 
@@ -1770,6 +1776,7 @@ Anchored Artifacts:
 Mentions: N-270, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Review the footage of Flood's movements at the moment of impact and ask Flood or TPUSA security for an account.
+Open Questions: Q-1040
 
 ---
 
@@ -1788,6 +1795,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Obtain the autopsy report and ballistic findings on wound track and exit.
+Open Questions: Q-1041
 
 ---
 
@@ -1804,6 +1812,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10344, N-10672
 Tags: relevance:core
 Investigative Direction: Obtain photographs, inventory and lab analysis of the shards, and the SUV's chain of custody.
+Open Questions: Q-1075
 
 ---
 
@@ -1820,6 +1829,7 @@ Mentions: N-3
 Related Nodes: N-10014, N-10672
 Tags: relevance:core
 Investigative Direction: Obtain the SUV's title, sale and cleaning records and any FBI evidence-release paperwork.
+Open Questions: Q-1075
 
 ---
 
@@ -1836,6 +1846,7 @@ Mentions: N-3
 Related Nodes: N-10630, N-10680, N-10663
 Tags: relevance:core
 Investigative Direction: File a records request for the 911 call log and audio retention records and identify who made the call.
+Open Questions: Q-894
 
 ---
 
@@ -1852,6 +1863,7 @@ Mentions: N-89, N-2, N-3
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Confirm the invitation with Erika Kirk's office, Johnson, or the court's attendee records.
+Open Questions: Q-937
 
 ---
 
@@ -1883,6 +1895,7 @@ Mentions: N-89, N-40, N-3
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing transcript for any mention of statements from Tyler Robinson's parents.
+Open Questions: Q-34
 
 ---
 
@@ -1900,6 +1913,7 @@ Related Nodes: N-10040, N-10161, N-10011
 Supports: C-348
 Tags: relevance:core
 Investigative Direction: Compare the maroon-shirt person against verified images of Tyler Robinson and obtain the TMZ original footage.
+Open Questions: Q-1076
 
 ---
 
@@ -1919,6 +1933,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2, S-3
 Investigative Direction: Obtain campus access, parking and vehicle records and verified imagery placing Tyler Robinson on campus on September 10, 2025.
+Open Questions: Q-110
 
 ---
 
@@ -1936,6 +1951,7 @@ Related Nodes: N-10040
 Qualifies: C-11954
 Tags: relevance:core
 Investigative Direction: Identify the host's source for Robinson's presence near campus and any vehicle or phone-location records.
+Open Questions: Q-110, Q-1076
 
 ---
 
@@ -1953,6 +1969,7 @@ Related Nodes: N-10040
 Supports: C-348
 Tags: relevance:core
 Investigative Direction: Side-by-side comparison of the two staircase figures' build, gait and clothing from the best available footage.
+Open Questions: Q-1076
 
 ---
 
@@ -1969,6 +1986,7 @@ Mentions: N-3
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Obtain UVU's camera placement map and ask the students for a written or recorded account.
+Open Questions: Q-1077
 
 ---
 
@@ -1985,6 +2003,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Overlay UVU's camera locations on the campus map and measure whether an alternate route avoided all cameras.
+Open Questions: Q-1077
 
 ---
 
@@ -2001,6 +2020,7 @@ Mentions: N-54, N-3
 Related Nodes: N-11278
 Tags: relevance:core
 Investigative Direction: Obtain the lab reports and preliminary hearing testimony on DNA found on the towel and the rifle.
+Open Questions: Q-93
 
 ---
 
@@ -2017,6 +2037,7 @@ Mentions: N-54, N-40, N-3
 Related Nodes: N-11278, N-10647
 Tags: relevance:core
 Investigative Direction: Obtain the DNA lab report quantifying degradation and contributor proportions for each profile.
+Open Questions: Q-93
 
 ---
 
@@ -2033,6 +2054,7 @@ Mentions: N-54, N-3
 Related Nodes: N-11278
 Tags: relevance:core
 Investigative Direction: Obtain the search-warrant inventory and any purchase or ownership records for the Dremel.
+Open Questions: Q-1078
 
 ---
 
@@ -2099,6 +2121,7 @@ Mentions: N-775, N-40, N-54, N-3
 Related Nodes: N-10138
 Tags: relevance:core
 Investigative Direction: Identify the source of the dog bed account and check search-warrant photographs of Tyler's room.
+Open Questions: Q-113
 
 ---
 
@@ -2131,6 +2154,7 @@ Mentions: N-775, N-40, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Compare the host's source with public accounts of what Matt Robinson told investigators.
+Open Questions: Q-34
 
 ---
 
@@ -2163,6 +2187,7 @@ Mentions: N-54, N-3
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Obtain Lance's statements to investigators and any phone, camera or location records for September 10.
+Open Questions: Q-822
 
 ---
 
@@ -2179,6 +2204,7 @@ Mentions: N-54, N-3
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Ask investigators or the court record whether Lance's phone, location and camera data were reviewed.
+Open Questions: Q-822
 
 ---
 
@@ -2196,6 +2222,7 @@ Related Nodes: N-10039
 Supports: C-303
 Tags: relevance:core
 Investigative Direction: Obtain Lance's statement about the note and the chain of custody of the photograph.
+Open Questions: Q-1079
 
 ---
 
@@ -2212,6 +2239,7 @@ Mentions: N-3
 Related Nodes: N-11224, N-10711
 Tags: relevance:core
 Investigative Direction: Obtain the 4K version from the influencers or the prosecution and review hand and pocket use.
+Open Questions: Q-1076, Q-1080
 
 ---
 
@@ -2228,6 +2256,7 @@ Mentions: N-3
 Related Nodes: N-11224
 Tags: relevance:core
 Investigative Direction: Ask the influencers who viewed the 4K footage what the maroon-shirt figure was doing with his phone.
+Open Questions: Q-1057, Q-1081
 
 ---
 
@@ -2244,6 +2273,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10717
 Tags: relevance:core
 Investigative Direction: Find the specific legal filing that states Tyler Robinson's handedness.
+Open Questions: Q-1080
 
 ---
 
@@ -2260,6 +2290,7 @@ Mentions: N-40, N-3
 Related Nodes: N-10717
 Tags: relevance:core
 Investigative Direction: Collect the public Facebook photos and catalog hand use.
+Open Questions: Q-1080
 
 ---
 
@@ -2276,6 +2307,7 @@ Mentions: N-54, N-3
 Related Nodes: N-10711
 Tags: relevance:core
 Investigative Direction: Catalog a larger set of dated photos of Lance for hand use.
+Open Questions: Q-1080
 
 ---
 
@@ -2292,6 +2324,7 @@ Mentions: N-54, N-3
 Related Nodes: N-10711
 Tags: relevance:core
 Investigative Direction: Locate the selfies and confirm that the images are not mirrored.
+Open Questions: Q-1080
 
 ---
 
@@ -2308,6 +2341,7 @@ Mentions: N-3
 Related Nodes: N-11224, N-10014
 Tags: relevance:core
 Investigative Direction: Compare the public clip with the 4K original and identify who processed the public version.
+Open Questions: Q-1081
 
 ---
 
@@ -2325,6 +2359,7 @@ Related Nodes: N-10041
 Supports: C-338
 Tags: relevance:core
 Investigative Direction: Obtain police transport logs and Lance's statements on the night he was questioned.
+Open Questions: Q-174
 
 ---
 
@@ -2341,6 +2376,7 @@ Mentions: N-54, N-3
 Related Nodes: N-10041, N-10014
 Tags: relevance:core
 Investigative Direction: Seek confirmation from the FBI, Lance's family or court filings about relocation costs.
+Open Questions: Q-174
 
 ---
 
@@ -2406,6 +2442,7 @@ Mentions: N-54, N-3
 Related Nodes: N-10545, N-10617
 Tags: relevance:core
 Investigative Direction: Seek any court, FOIA or source documentation of a relationship between Lance and a federal agency.
+Open Questions: Q-174
 
 ---
 
@@ -2609,6 +2646,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10705, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the chat's membership list and screenshots from the host's source.
+Open Questions: Q-1071
 
 ---
 
@@ -2625,6 +2663,7 @@ Mentions: N-3
 Related Nodes: N-10820, N-10705
 Tags: relevance:core
 Investigative Direction: Obtain the chat's membership list and screenshots from the host's source.
+Open Questions: Q-1071
 
 ---
 
@@ -2657,6 +2696,7 @@ Mentions: N-3
 Related Nodes: N-11224
 Tags: relevance:core
 Investigative Direction: Compare resolution and provenance of the public footage with the 4K version shown to influencers.
+Open Questions: Q-1081
 
 ---
 
@@ -2704,6 +2744,7 @@ Mentions: N-3
 Related Nodes: N-10705
 Tags: relevance:core
 Investigative Direction: Obtain screenshots of the chat and identify the participants.
+Open Questions: Q-1071
 
 ---
 

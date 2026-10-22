@@ -1278,6 +1278,7 @@ Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's own public statements and any call logs or invitations for the pre-assassination call with Kirk.
+Open Questions: Q-168
 
 ---
 
@@ -1294,6 +1295,7 @@ Mentions: N-55, N-1
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Collect Hammer's post-assassination posts and interviews making the claim, and compare them with Kirk's own recorded statements on Israel.
+Open Questions: Q-2
 
 ---
 
@@ -1326,6 +1328,7 @@ Mentions: N-55, N-22, N-3, N-1
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Find the Hammer post, identify which letter he meant (compare the May letter attributed to Kirk), and establish who gave him access and when.
+Open Questions: Q-53
 
 ---
 
@@ -1342,6 +1345,7 @@ Mentions: N-55, N-1, N-3
 Related Nodes: N-10016, N-10027
 Tags: relevance:core
 Investigative Direction: Compare Hammer's public account of the Hamptons meeting with attendee statements, photos and event records.
+Open Questions: Q-9, Q-145
 
 ---
 
@@ -1359,6 +1363,7 @@ Related Nodes: N-10323, N-10027
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Interview Hamptons attendees and obtain any messages in which Dillon or Hammer pressed Kirk on Israel.
+Open Questions: Q-6, Q-9
 
 ---
 
@@ -1375,6 +1380,7 @@ Mentions: N-55, N-1, N-3
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Identify Hammer's own statements and the call or messages that show he knew Kirk's views were shifting.
+Open Questions: Q-145
 
 ---
 
@@ -1440,6 +1446,7 @@ Related Nodes: N-10167, N-10171
 Supports: C-1528
 Tags: relevance:core
 Investigative Direction: Search Hammer's show transcripts, media appearances and posts from August 22 to September 9 for death penalty or public execution language.
+Open Questions: Q-178
 
 ---
 
@@ -1473,6 +1480,7 @@ Related Nodes: N-10167, N-10162
 Supports: C-1529
 Tags: relevance:core
 Investigative Direction: Verify the exact post times from Hammer's archive and compare them with the reported start time of the Zoom call.
+Open Questions: Q-168, Q-178
 
 ---
 
@@ -1523,6 +1531,7 @@ Related Nodes: N-10025, N-10102
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Obtain the group chat messages and any Hammer-to-Kirk communications from August and September 2025.
+Open Questions: Q-6
 
 ---
 
@@ -1540,6 +1549,7 @@ Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain the Zoom invitation, attendee list and duration, and the account of any Kirk producers on the call.
+Open Questions: Q-168
 
 ---
 
@@ -1556,6 +1566,7 @@ Mentions: N-55, N-1
 Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Identify the producers and the friend on the call and ask each to confirm the participants and the agenda.
+Open Questions: Q-168
 
 ---
 
@@ -1634,6 +1645,7 @@ Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Verify the call duration and time against Zoom records, phone logs and the New York Post report.
+Open Questions: Q-168
 
 ---
 
@@ -1651,6 +1663,7 @@ Related Nodes: N-10157, N-10198, N-10016
 Supports: C-1353, C-1352
 Tags: relevance:core
 Investigative Direction: Obtain the participant list and messages of the group chat and confirm Wolicki's membership.
+Open Questions: Q-9, Q-145
 
 ---
 
@@ -1667,6 +1680,7 @@ Mentions: N-36, N-1, N-3
 Related Nodes: N-10018
 Tags: relevance:core
 Investigative Direction: Re-read the released letter text for any statement about contact details, and obtain call records for the invitation call.
+Open Questions: Q-5, Q-53
 
 ---
 
@@ -1684,6 +1698,7 @@ Related Nodes: N-10018
 Supports: C-82, C-84
 Tags: relevance:core
 Investigative Direction: Obtain Netanyahu's office and Kirk-side accounts of the invitation call, dates and any follow-up.
+Open Questions: Q-5
 
 ---
 
@@ -1700,6 +1715,7 @@ Mentions: N-164, N-1
 Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Ask Wolicki for the form and volume of that contact (calls, messages) and corroborate with Kirk-side records.
+Open Questions: Q-179
 
 ---
 
@@ -1732,6 +1748,7 @@ Related Nodes: N-10053
 Supports: C-1551
 Tags: relevance:core
 Investigative Direction: Obtain the invitation list for the meeting and the account of each attendee.
+Open Questions: Q-168
 
 ---
 
@@ -1749,6 +1766,7 @@ Related Nodes: N-10170, N-10025
 Supports: C-555
 Tags: relevance:core
 Investigative Direction: Request the text messages in full, with metadata, for independent authentication.
+Open Questions: Q-153
 
 ---
 
@@ -1765,6 +1783,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Collect Kirk statements and messages from summer 2025 touching on Israel's public image.
+Open Questions: Q-2
 
 ---
 
@@ -1782,6 +1801,7 @@ Related Nodes: N-10157, N-10102
 Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Examine the original chat messages and verify the wording attributed to Kirk.
+Open Questions: Q-2
 
 ---
 
@@ -1799,6 +1819,7 @@ Related Nodes: N-10157, N-10198
 Supports: C-1349, C-1350
 Tags: relevance:core
 Investigative Direction: Obtain the chat export and verify the exact date and time of the message.
+Open Questions: Q-146
 
 ---
 
@@ -1816,6 +1837,7 @@ Related Nodes: N-10157, N-10162
 Supports: C-1352, C-1353
 Tags: relevance:core
 Investigative Direction: Reconcile the chat timeline with the Zoom time and the identity of the two participants.
+Open Questions: Q-168
 
 ---
 
@@ -1832,6 +1854,7 @@ Mentions: N-1, N-55, N-3
 Related Nodes: N-10170, N-10592
 Tags: relevance:core
 Investigative Direction: Identify the recipients and obtain the texts with timestamps.
+Open Questions: Q-171
 
 ---
 
@@ -1865,6 +1888,7 @@ Related Nodes: N-10025
 Supports: C-254
 Tags: relevance:core
 Investigative Direction: Find Kelly's statements about Kirk's pressure and ask her which individuals she meant.
+Open Questions: Q-6
 
 ---
 
@@ -1881,6 +1905,7 @@ Mentions: N-3, N-22, N-1
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Review the host's and Carlson's past episodes for any statements asserting Israeli involvement.
+Open Questions: Q-169
 
 ---
 
@@ -1897,6 +1922,7 @@ Mentions: N-3, N-36, N-1
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Catalogue the specific statements by Netanyahu and allies that the host regards as lies.
+Open Questions: Q-17, Q-180
 
 ---
 
@@ -1913,6 +1939,7 @@ Mentions: N-36, N-1, N-3
 Related Nodes: N-10053, N-10120
 Tags: relevance:core
 Investigative Direction: Identify the Netanyahu statement and its time and compare with the time of Kirk's death.
+Open Questions: Q-180
 
 ---
 
@@ -1929,6 +1956,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10168
 Tags: relevance:core
 Investigative Direction: Compare the highlighted section with the UVU courtyard layout and collect any received footage.
+Open Questions: Q-181
 
 ---
 
@@ -1946,6 +1974,7 @@ Related Nodes: N-10168
 Supports: C-1565
 Tags: relevance:core
 Investigative Direction: Record the volume and usefulness of emailed UVU footage in later episodes where the host cites it.
+Open Questions: Q-130, Q-181
 
 ---
 
@@ -1962,6 +1991,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask whether any staff will go on record and document what information has been provided.
+Open Questions: Q-182
 
 ---
 
@@ -2009,6 +2039,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Compare against the prosecution's stated motive and the evidence offered for it.
+Open Questions: Q-183
 
 ---
 
@@ -2025,6 +2056,7 @@ Mentions: N-3, N-22, N-1
 Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Ask the host to identify, or at least describe, the callers and who they said was the source.
+Open Questions: Q-184
 
 ---
 
@@ -2041,6 +2073,7 @@ Mentions: N-3, N-22
 Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Ask Carlson to confirm the call and what was said.
+Open Questions: Q-184
 
 ---
 
@@ -2057,6 +2090,7 @@ Mentions: N-3, N-22
 Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Ask the host which agencies, if any, the callers named.
+Open Questions: Q-184
 
 ---
 
@@ -2073,6 +2107,7 @@ Mentions: N-1, N-3, N-22
 Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Treat as the host's interpretation; examine the autopsy and ballistics record for the wound location.
+Open Questions: Q-64
 
 ---
 
@@ -2090,6 +2125,7 @@ Related Nodes: N-10169
 Supports: C-1584
 Tags: relevance:core
 Investigative Direction: Review the October 7 episode for the host's first description of the kill switch.
+Open Questions: Q-185
 
 ---
 
@@ -2138,6 +2174,7 @@ Related Nodes: N-10169
 Supports: C-1584
 Tags: relevance:core
 Investigative Direction: Ask recipients to confirm they hold the package and its release conditions.
+Open Questions: Q-185
 
 ---
 
@@ -2170,6 +2207,7 @@ Mentions: N-93, N-3, N-1
 Related Nodes: N-10170, N-10592
 Tags: relevance:core
 Investigative Direction: Request the texts with metadata and confirm dates.
+Open Questions: Q-171, Q-186
 
 ---
 
@@ -2219,6 +2257,7 @@ Mentions: N-93, N-1
 Related Nodes: N-10053, N-10170
 Tags: relevance:core
 Investigative Direction: Ask Jones for his source and compare with the texts the host says she holds.
+Open Questions: Q-17, Q-171
 
 ---
 
@@ -2282,6 +2321,7 @@ Mentions: N-3
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Catalogue the specific acts of cover-up and lying the host cites in earlier episodes.
+Open Questions: Q-17
 
 ---
 
@@ -2298,6 +2338,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11135, N-10590
 Tags: relevance:core
 Investigative Direction: Check corporate and procurement records for the security contractor's ownership and Kirk's or TPUSA's stake.
+Open Questions: Q-187
 
 ---
 
@@ -2314,6 +2355,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11135, N-10590
 Tags: relevance:core
 Investigative Direction: Obtain the security plan, contracts and event site sweep records for the Utah Valley University event.
+Open Questions: Q-188
 
 ---
 
@@ -2330,6 +2372,7 @@ Mentions: N-154, N-155, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Locate the Mappins' published letter and compare it with the letter described in earlier episodes.
+Open Questions: Q-189
 
 ---
 
@@ -2362,6 +2405,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Find TPUSA public statements describing cooperation with federal investigators.
+Open Questions: Q-190
 
 ---
 
@@ -2410,6 +2454,7 @@ Related Nodes: N-10102
 Supports: C-361
 Tags: relevance:core
 Investigative Direction: Establish who tried to block the host's AmFest slot and obtain Kirk-side messages about it.
+Open Questions: Q-59
 
 ---
 

@@ -1049,6 +1049,7 @@ Mentions: N-3
 Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Ask the host for the source and date of the alleged threat; check for any law-enforcement or court record of it.
+Open Questions: Q-380
 
 ---
 
@@ -1065,6 +1066,7 @@ Mentions: N-3, N-69, N-46
 Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Check for any public denial by the Elysee, the White House or the FBI of the alleged threat; obtain the full Kelly/Patel segment.
+Open Questions: Q-380, Q-381
 
 ---
 
@@ -1081,6 +1083,7 @@ Mentions: N-3, N-69
 Related Nodes: N-10297, N-10194
 Tags: relevance:core
 Investigative Direction: Ask the host whether she sent the FBI any submission and when; request any FBI correspondence log.
+Open Questions: Q-382
 
 ---
 
@@ -1097,6 +1100,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Identify the proof the host refers to; compare with her earlier episodes making the France claim.
+Open Questions: Q-346
 
 ---
 
@@ -1113,6 +1117,7 @@ Mentions: N-69, N-40, N-46
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Check the full interview transcript for Patel's exact words on whether Robinson acted alone.
+Open Questions: Q-21, Q-381
 
 ---
 
@@ -1144,6 +1149,7 @@ Mentions: N-3, N-312
 Related Nodes: N-10298, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the tipster and any meeting record (calendar, travel, photos) linking Falcone to TPUSA or Turning Point Action.
+Open Questions: Q-384
 
 ---
 
@@ -1160,6 +1166,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10304
 Tags: relevance:core
 Investigative Direction: Ask the host for any documentary basis; none is offered in this episode.
+Open Questions: Q-383
 
 ---
 
@@ -1177,6 +1184,7 @@ Related Nodes: N-10298, N-10000
 Supports: C-3764
 Tags: relevance:core
 Investigative Direction: Check Arizona property records, corporate filings and Forbes-type wealth listings for Falcone.
+Open Questions: Q-384
 
 ---
 
@@ -1350,6 +1358,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10318, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the messages or phone records for the night of September 9, 2025; identify the donor and the staffer.
+Open Questions: Q-385
 
 ---
 
@@ -1366,6 +1375,7 @@ Mentions: N-1, N-270
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Obtain the message thread between Kirk and Flood and the device records, subject to legal process.
+Open Questions: Q-385
 
 ---
 
@@ -1383,6 +1393,7 @@ Related Nodes: N-10318
 Supports: C-3768
 Tags: relevance:core
 Investigative Direction: Identify who knew; seek on-record statements from the people the host says are silent.
+Open Questions: Q-385
 
 ---
 
@@ -1590,6 +1601,7 @@ Related Nodes: N-10300
 Supports: C-3783
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy findings and official wound description to compare against the host's assertion.
+Open Questions: Q-64
 
 ---
 
@@ -1607,6 +1619,7 @@ Related Nodes: N-10318
 Supports: C-3769
 Tags: relevance:core
 Investigative Direction: Identify who spoke with Kirk the night of September 9, 2025 and seek their accounts.
+Open Questions: Q-385
 
 ---
 
@@ -1654,6 +1667,7 @@ Anchored Artifacts:
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Track the TPUSA announcement and the planned response event cited by the AZ Master Baker comment.
+Open Questions: Q-307
 
 ---
 
@@ -1700,6 +1714,7 @@ Related Nodes: N-10000
 Supports: C-390
 Tags: relevance:core
 Investigative Direction: Corroborate through on-record statements or documents from current or former TPUSA staff.
+Open Questions: Q-371
 
 ---
 

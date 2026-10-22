@@ -1414,6 +1414,7 @@ Mentions: N-3, N-2, N-89, N-606, N-58, N-1
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Obtain the hearing attendance and seating list and any invitation messages from Erika Kirk's office to the named influencers.
+Open Questions: Q-937
 
 ---
 
@@ -1430,6 +1431,7 @@ Mentions: N-3, N-89, N-2
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Locate Benny Johnson's original post or video stating that Erika Kirk asked him to attend.
+Open Questions: Q-937
 
 ---
 
@@ -1462,6 +1464,7 @@ Mentions: N-3, N-40, N-54, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Compare the motive narrative against the indictment, the charging documents and Lance Twiggs's hearing testimony on politics.
+Open Questions: Q-183
 
 ---
 
@@ -1478,6 +1481,7 @@ Mentions: N-3, N-40
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Collect the official statements promising footage of the shot and check whether any such footage was entered as an exhibit.
+Open Questions: Q-938
 
 ---
 
@@ -1494,6 +1498,7 @@ Mentions: N-3, N-2, N-278, N-40
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review the Erika Kirk interview with Bari Weiss and any earlier Erika Kirk statements about having seen evidence.
+Open Questions: Q-939
 
 ---
 
@@ -1510,6 +1515,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10647
 Tags: relevance:core
 Investigative Direction: Compare earlier official and media statements about prints and DNA with the ATF laboratory reports.
+Open Questions: Q-93
 
 ---
 
@@ -1527,6 +1533,7 @@ Related Nodes: N-10022
 Supports: C-4295
 Tags: relevance:core
 Investigative Direction: Obtain the Washington County Sheriff's Office arrest narrative and search warrant records on how and with whom Robinson arrived.
+Open Questions: Q-34
 
 ---
 
@@ -1543,6 +1550,7 @@ Mentions: N-3, N-125, N-40
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Interview Mike Mitchell or the Robinson family about the surrender; obtain police records of who contacted the family before Robinson went in.
+Open Questions: Q-34
 
 ---
 
@@ -1560,6 +1568,7 @@ Related Nodes:
 Supports: C-10636
 Tags: relevance:core
 Investigative Direction: Pull voter registration and donation records for the Robinson household and compare with Lance Twiggs's testimony.
+Open Questions: Q-183
 
 ---
 
@@ -1576,6 +1585,7 @@ Mentions: N-3, N-40, N-1
 Related Nodes: N-10523
 Tags: relevance:core
 Investigative Direction: Obtain ATF test-fire and bullet comparison reports and the chain of custody for the rifle.
+Open Questions: Q-75
 
 ---
 
@@ -1608,6 +1618,7 @@ Mentions: N-3, N-54, N-40
 Related Nodes: N-10545, N-10639
 Tags: relevance:core
 Investigative Direction: Look for court filings or records on any agreement with Lance Twiggs and on the alleged dark web activity; no document has been shown on air.
+Open Questions: Q-174, Q-822
 
 ---
 
@@ -1626,6 +1637,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-4, S-8
 Investigative Direction: Obtain the immunity or cooperation agreement and the hearing transcript rulings on hearsay and cross-examination of Lance Twiggs.
+Open Questions: Q-174
 
 ---
 
@@ -1642,6 +1654,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Compare the host's published decoy footage with campus video entered at the hearing to count distinct individuals in similar clothing.
+Open Questions: Q-940
 
 ---
 
@@ -1660,6 +1673,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-3, S-7
 Investigative Direction: Establish Robinson's movements through campus access logs, parking records and phone location data.
+Open Questions: Q-110
 
 ---
 
@@ -1676,6 +1690,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10028
 Tags: relevance:core
 Investigative Direction: Review Exhibit 12.4 frame by frame and any other exhibit offered to place Robinson on campus.
+Open Questions: Q-110, Q-941
 
 ---
 
@@ -1711,6 +1726,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3
 Investigative Direction: Obtain the Nest and Ring video with metadata and the police interview with the woman who captured it.
+Open Questions: Q-942
 
 ---
 
@@ -1727,6 +1743,7 @@ Mentions: N-3, N-159, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Review the Blake Neff X live and compare his account of September 10 with receipts, photos and location records.
+Open Questions: Q-943
 
 ---
 
@@ -1744,6 +1761,7 @@ Related Nodes: N-10354
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Obtain the Panguitch restaurant receipt and card transaction record and the establishment's own timestamps.
+Open Questions: Q-448
 
 ---
 
@@ -1760,6 +1778,7 @@ Mentions: N-3, N-40, N-54
 Related Nodes: N-10074, N-10354
 Tags: relevance:core
 Investigative Direction: Obtain the full carrier and device records for both phones to establish where each handset was when each message was sent.
+Open Questions: Q-47, Q-448
 
 ---
 
@@ -1777,6 +1796,7 @@ Related Nodes: N-10074
 Supports: C-193, C-301
 Tags: relevance:core
 Investigative Direction: Obtain the extraction report and native message database showing time fields for each message.
+Open Questions: Q-47
 
 ---
 
@@ -1793,6 +1813,7 @@ Mentions: N-3, N-54
 Related Nodes: N-10649, N-10074
 Tags: relevance:core
 Investigative Direction: Identify the extraction vendor and the examiner named in the forensic report; the host names no company.
+Open Questions: Q-753
 
 ---
 
@@ -1811,6 +1832,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5
 Investigative Direction: Compare the message text with other statements about Robinson's state of mind from family and the roommate.
+Open Questions: Q-47
 
 ---
 
@@ -1827,6 +1849,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Have independent linguists compare the messages with Robinson's known writing; obtain the authentic original message database.
+Open Questions: Q-47
 
 ---
 
@@ -1843,6 +1866,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Collect tip-line submissions and agency records on the K9 deployment time at the scene for comparison with message content.
+Open Questions: Q-944
 
 ---
 
@@ -1860,6 +1884,7 @@ Related Nodes: N-10022
 Supports: C-4295
 Tags: relevance:core
 Investigative Direction: Review the hearing witness list and transcripts for any testimony by deputies or family on the first statements.
+Open Questions: Q-34
 
 ---
 
@@ -1876,6 +1901,7 @@ Mentions: N-3, N-54
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Obtain the latent print and DNA reports itemizing the items on which Lance Twiggs's prints or DNA were found.
+Open Questions: Q-93
 
 ---
 
@@ -1892,6 +1918,7 @@ Mentions: N-3, N-54, N-1
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Check the roommate's phone, building access and other records for activity before 1 p.m. that day.
+Open Questions: Q-822
 
 ---
 
@@ -1908,6 +1935,7 @@ Mentions: N-3, N-773, N-40
 Related Nodes: N-10896
 Tags: relevance:core
 Investigative Direction: Compare the dates of the influencer videos with Oliver's testimony and the court's rulings on release of video.
+Open Questions: Q-938
 
 ---
 
@@ -1924,6 +1952,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10896
 Tags: relevance:core
 Investigative Direction: Read the cross-examination transcript and the ATF DNA report to see whether this statement was made and what it applied to.
+Open Questions: Q-93
 
 ---
 
@@ -1940,6 +1969,7 @@ Mentions: N-3, N-773, N-54, N-775, N-40
 Related Nodes: N-10896
 Tags: relevance:core
 Investigative Direction: Obtain the DNA report listing contributor counts and any reference samples compared, including the father's.
+Open Questions: Q-93
 
 ---
 
@@ -1958,6 +1988,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-6
 Investigative Direction: Obtain the evidence photographs, collection notes and the identity of who performed the swabs.
+Open Questions: Q-93
 
 ---
 
@@ -1976,6 +2007,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-6
 Investigative Direction: Collect the original media and official statements about DNA on the trigger and compare with the laboratory report wording.
+Open Questions: Q-93
 
 ---
 
@@ -1993,6 +2025,7 @@ Related Nodes: N-10647, N-10639
 Supports: C-10642
 Tags: relevance:core
 Investigative Direction: Ask independent forensic DNA experts to review the degradation finding and storage and handling conditions of the rifle.
+Open Questions: Q-93, Q-822
 
 ---
 
@@ -2011,6 +2044,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-11652
 Investigative Direction: Obtain the medical examiner's evidence log and the ATF receipt for fragments to reconcile seven recovered with four received.
+Open Questions: Q-717
 
 ---
 
@@ -2028,6 +2062,7 @@ Related Nodes: N-10646, N-10523
 Supports: C-10647
 Tags: relevance:core
 Investigative Direction: Check SAAMI specifications and Carner's report on whether fragment diameter ranges permit a .30-06 bullet.
+Open Questions: Q-717
 
 ---
 
@@ -2047,6 +2082,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3
 Investigative Direction: Review Exhibit 12.4 and the witness's notes to see the basis for identifying each movement as Robinson.
+Open Questions: Q-941
 
 ---
 
@@ -2064,6 +2100,7 @@ Related Nodes: N-10983
 Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Obtain the court order on public release of the video and the hearing record of what was shown in the gallery.
+Open Questions: Q-938
 
 ---
 
@@ -2097,6 +2134,7 @@ Related Nodes:
 Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Check the hearing record for a 20 minute exhibit and compare with the Exhibit 12.1 runtime and Court TV coverage.
+Open Questions: Q-938
 
 ---
 
@@ -2113,6 +2151,7 @@ Mentions: N-89, N-2
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Find any message or statement from Erika Kirk's team requesting the influencers' public messaging.
+Open Questions: Q-937
 
 ---
 
@@ -2129,6 +2168,7 @@ Mentions: N-3, N-89, N-40
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Collect the later statements by Benny Johnson and others describing the footage and compare with their first posts.
+Open Questions: Q-938
 
 ---
 
@@ -2146,6 +2186,7 @@ Related Nodes: N-10983
 Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Determine who attended the day five viewing and whether the footage shown in the gallery matches any filed exhibit.
+Open Questions: Q-938
 
 ---
 
@@ -2162,6 +2203,7 @@ Mentions: N-3, N-89
 Related Nodes: N-10937
 Tags: relevance:core
 Investigative Direction: Search FARA registrations and payment records for the influencers named; no document is cited on air.
+Open Questions: Q-945
 
 ---
 
@@ -2178,6 +2220,7 @@ Mentions: N-3, N-54, N-40
 Related Nodes: N-10545, N-10617
 Tags: relevance:core
 Investigative Direction: Obtain the DNA report quantifying each contributor's share and any statement of the prosecution on Lance Twiggs's status.
+Open Questions: Q-93, Q-174
 
 ---
 
@@ -2194,6 +2237,7 @@ Mentions: N-3, N-1, N-97, N-14
 Related Nodes: N-10359
 Tags: relevance:core
 Investigative Direction: Collect statements from Kirk's associates and past exchanges between Kirk and Shapiro to test the relationship claim.
+Open Questions: Q-593
 
 ---
 
@@ -2226,6 +2270,7 @@ Mentions: N-3, N-97, N-2, N-1
 Related Nodes: N-10000, N-10821
 Tags: relevance:core
 Investigative Direction: Look for TPUSA donor records or announcements of a Shapiro or Daily Wire gift and its date.
+Open Questions: Q-593
 
 ---
 
@@ -2242,6 +2287,7 @@ Mentions: N-3, N-163, N-97
 Related Nodes: N-10821
 Tags: relevance:core
 Investigative Direction: Establish Shapiro's whereabouts and Walsh's call timing for the date; the host defers details to another episode.
+Open Questions: Q-593
 
 ---
 
@@ -2259,6 +2305,7 @@ Related Nodes: N-10821
 Supports: C-8731, C-8636
 Tags: relevance:core
 Investigative Direction: Review the complaint's signature block for counsel of record and their relationship to Shapiro.
+Open Questions: Q-837
 
 ---
 
@@ -2292,6 +2339,7 @@ Related Nodes: N-10678, N-10648
 Supports: C-10667
 Tags: relevance:core
 Investigative Direction: Establish where Shapiro was and with whom at the time; compare with his schedule and the host's bounty request.
+Open Questions: Q-946, Q-947
 
 ---
 
@@ -2308,6 +2356,7 @@ Mentions: N-3, N-266, N-1
 Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Compare Harpole's account of treatment with his lawsuit filing, interviews and any photographs or video from the vehicle.
+Open Questions: Q-931, Q-947
 
 ---
 
@@ -2324,6 +2373,7 @@ Mentions: N-3, N-487, N-1
 Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Interview Cutler and review vehicle video or photographs to confirm his position and use of his phone.
+Open Questions: Q-916, Q-947
 
 ---
 
@@ -2340,6 +2390,7 @@ Mentions: N-3, N-7, N-266, N-1
 Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Compare Frank Turek's and Brian Harpole's recorded accounts of what was done in the vehicle.
+Open Questions: Q-915
 
 ---
 
@@ -2356,6 +2407,7 @@ Mentions: N-3, N-492, N-97
 Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Obtain vehicle telematics, GPS or dashcam data for the transport and Davis's phone records.
+Open Questions: Q-916, Q-917, Q-947
 
 ---
 
@@ -2372,6 +2424,7 @@ Mentions: N-3, N-7, N-97
 Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Ask Turek for his call log and statement about the FaceTime call during the transport.
+Open Questions: Q-916, Q-947
 
 ---
 
@@ -2389,6 +2442,7 @@ Related Nodes: N-10663, N-10630
 Supports: C-8491, C-9178
 Tags: relevance:core
 Investigative Direction: Obtain the CAD log and all 911 audio for the incident and match callers to numbers.
+Open Questions: Q-894
 
 ---
 
@@ -2406,6 +2460,7 @@ Related Nodes: N-10648, N-10678
 Supports: C-10667
 Tags: relevance:core
 Investigative Direction: Establish the timestamp of the first Shapiro-side call and compare it with the first public posts of the video.
+Open Questions: Q-894, Q-947
 
 ---
 
@@ -2422,6 +2477,7 @@ Mentions: N-3, N-97, N-1
 Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Identify Shapiro's security provider and personnel and their backgrounds from licensing or public records.
+Open Questions: Q-947
 
 ---
 
@@ -2439,6 +2495,7 @@ Related Nodes: N-10458
 Supports: C-3154
 Tags: relevance:core
 Investigative Direction: Pin down the exact Kolvet statement and when it was made; the host's follow-up questions are speculation.
+Open Questions: Q-586
 
 ---
 
@@ -2456,6 +2513,7 @@ Related Nodes: N-10458, N-10018
 Supports: C-251
 Tags: relevance:core
 Investigative Direction: Obtain statements from others present at the Hamptons gathering and records of the call.
+Open Questions: Q-77
 
 ---
 
@@ -2472,6 +2530,7 @@ Mentions: N-3, N-37, N-36, N-1
 Related Nodes: N-10458, N-10027
 Tags: relevance:core
 Investigative Direction: Establish who arranged the call, its date and length, from phone records and attendees; the transcript here is garbled.
+Open Questions: Q-77
 
 ---
 
@@ -2488,6 +2547,7 @@ Mentions: N-3
 Related Nodes: N-11054, N-10648
 Tags: relevance:core
 Investigative Direction: Publish the tip and the underlying photo or witness; identify which image the host is describing.
+Open Questions: Q-935
 
 ---
 
@@ -2520,6 +2580,7 @@ Mentions: N-3, N-14, N-54, N-40
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Find the Kolvet statements about Lance Twiggs the commenter refers to.
+Open Questions: Q-174
 
 ---
 
@@ -2537,6 +2598,7 @@ Related Nodes: N-10354
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Obtain the waiter's account and the restaurant's order and payment times.
+Open Questions: Q-448
 
 ---
 
@@ -2569,6 +2631,7 @@ Mentions: N-3
 Related Nodes: N-11055, N-10630
 Tags: relevance:core
 Investigative Direction: Get an independent trauma or EMS opinion on first-aid priorities for such an injury.
+Open Questions: Q-931
 
 ---
 
@@ -2585,6 +2648,7 @@ Mentions: N-3, N-266
 Related Nodes: N-11055
 Tags: relevance:core
 Investigative Direction: Check Utah EMS licensing records and the National Registry for Harpole's credential history.
+Open Questions: Q-948
 
 ---
 
@@ -2602,6 +2666,7 @@ Related Nodes: N-11055
 Supports: C-8636
 Tags: relevance:core
 Investigative Direction: Review the complaint's causes of action and the host's answer for the incompetence statements at issue.
+Open Questions: Q-837, Q-936, Q-947
 
 ---
 
@@ -2618,6 +2683,7 @@ Mentions: N-3, N-1
 Related Nodes: N-11055, N-10630
 Tags: relevance:core
 Investigative Direction: Identify the specific photographs and have a medical expert assess hand placement.
+Open Questions: Q-936
 
 ---
 
@@ -2634,6 +2700,7 @@ Mentions: N-3, N-40, N-54
 Related Nodes: N-10048, N-10028
 Tags: relevance:core
 Investigative Direction: Compare the host's statement with her earlier positions on the Dairy Queen photo and the campus presence.
+Open Questions: Q-110, Q-933
 
 ---
 
@@ -2650,6 +2717,7 @@ Mentions: N-3, N-2
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review the host's past statements on Erika Kirk for any call to harm; the record is her own broadcasts.
+Open Questions: Q-949
 
 ---
 
@@ -2666,6 +2734,7 @@ Mentions: N-3, N-2
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: This is host speculation; no document or source is cited on air.
+Open Questions: Q-949
 
 ---
 

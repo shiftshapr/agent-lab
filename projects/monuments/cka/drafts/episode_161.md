@@ -1139,6 +1139,7 @@ Related Nodes: N-10739
 Supports: C-11329
 Tags: relevance:core
 Investigative Direction: Compare the autopsy and ballistic reports with .30-06 energy tables and the video of his movement.
+Open Questions: Q-272
 
 ---
 
@@ -1172,6 +1173,7 @@ Related Nodes: N-10809, N-10804
 Supports: C-12507
 Tags: relevance:core
 Investigative Direction: Identify any PR firm contracts that touch the clipping platforms and Pounds' special government employee pay records.
+Open Questions: Q-1233
 
 ---
 
@@ -1272,6 +1274,7 @@ Mentions: N-354
 Related Nodes: N-10810, N-10013
 Tags: relevance:core
 Investigative Direction: Read the published Atlantic article and its sourcing note.
+Open Questions: Q-1234
 
 ---
 
@@ -1288,6 +1291,7 @@ Mentions: N-2
 Related Nodes: N-10807
 Tags: relevance:core
 Investigative Direction: Check the Atlantic article for who supplied videos and whether the friend is identified.
+Open Questions: Q-1234
 
 ---
 
@@ -1336,6 +1340,7 @@ Mentions: N-354
 Related Nodes: N-10810, N-10013
 Tags: relevance:core
 Investigative Direction: Confirm with the reporter how access was granted and what was visible.
+Open Questions: Q-1234
 
 ---
 
@@ -1352,6 +1357,7 @@ Mentions: N-351, N-354, N-1
 Related Nodes: N-10802, N-10810
 Tags: relevance:core
 Investigative Direction: Locate the Servius video and its upload date.
+Open Questions: Q-1234
 
 ---
 
@@ -1369,6 +1375,7 @@ Related Nodes: N-10812
 Supports: C-13915
 Tags: relevance:core
 Investigative Direction: Compare Google Drive upload dates with the date of the memorial speech and first campaign payouts.
+Open Questions: Q-1232
 
 ---
 
@@ -1385,6 +1392,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10812
 Tags: relevance:core
 Investigative Direction: Obtain the Google Drive file list and compare with the clips in circulation Sept 10-20.
+Open Questions: Q-1232
 
 ---
 
@@ -1401,6 +1409,7 @@ Mentions: N-352, N-353
 Related Nodes: N-10803
 Tags: relevance:core
 Investigative Direction: Check Nevada corporate filings for Enclave and Key officers.
+Open Questions: Q-1235
 
 ---
 
@@ -1417,6 +1426,7 @@ Mentions: N-352
 Related Nodes: N-10803
 Tags: relevance:core
 Investigative Direction: Request the specific inaccuracies and the full Enclave and Key statement.
+Open Questions: Q-1234
 
 ---
 
@@ -1433,6 +1443,7 @@ Mentions: N-352, N-2
 Related Nodes: N-11182, N-10000
 Tags: relevance:core
 Investigative Direction: Collect photos and guest lists for each event.
+Open Questions: Q-1235
 
 ---
 
@@ -1449,6 +1460,7 @@ Mentions: N-352, N-2, N-69
 Related Nodes: N-11182, N-10844
 Tags: relevance:core
 Investigative Direction: Identify everyone visible in the exit video and who recorded it.
+Open Questions: Q-1235
 
 ---
 
@@ -1465,6 +1477,7 @@ Mentions: N-352, N-69, N-1
 Related Nodes: N-10803
 Tags: relevance:core
 Investigative Direction: Watch the Bring the Juice interview and request any Patel contact logs.
+Open Questions: Q-1235
 
 ---
 
@@ -1513,6 +1526,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10802, N-10810
 Tags: relevance:core
 Investigative Direction: Obtain the campaign rule sheet listing banned and approved subjects.
+Open Questions: Q-1234
 
 ---
 
@@ -1545,6 +1559,7 @@ Mentions: N-14, N-352
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Identify the flight and passenger manifest she refers to.
+Open Questions: Q-1235
 
 ---
 
@@ -1561,6 +1576,7 @@ Mentions:
 Related Nodes: N-10803
 Tags: relevance:core
 Investigative Direction: Check Romanian company registries for Enclave and Key entities.
+Open Questions: Q-1234
 
 ---
 
@@ -1610,6 +1626,7 @@ Related Nodes: N-10805, N-10801
 Supports: C-13935
 Tags: relevance:core
 Investigative Direction: Pull WHOIS history and CDX captures for the domain.
+Open Questions: Q-1234
 
 ---
 
@@ -1643,6 +1660,7 @@ Related Nodes: N-10805
 Supports: C-13935
 Tags: relevance:core
 Investigative Direction: Ask Internet Archive whether captures were restricted and on whose request.
+Open Questions: Q-1234
 
 ---
 
@@ -1659,6 +1677,7 @@ Mentions:
 Related Nodes: N-10801
 Tags: relevance:core
 Investigative Direction: Search state LLC filings and DBA registrations for the trade names.
+Open Questions: Q-1234
 
 ---
 
@@ -1756,6 +1775,7 @@ Related Nodes: N-10000, N-10801
 Contradicts: C-13914
 Tags: relevance:core
 Investigative Direction: Document flight records and campaign payments linked to TPUSA.
+Open Questions: Q-1234, Q-1235
 
 ---
 
@@ -1772,6 +1792,7 @@ Mentions: N-2
 Related Nodes: N-11183
 Tags: relevance:core
 Investigative Direction: Collect Erika's statements and staff reports about political plans.
+Open Questions: Q-1236
 
 ---
 
@@ -1789,6 +1810,7 @@ Related Nodes: N-11183
 Supports: C-13723
 Tags: relevance:core
 Investigative Direction: Establish the board appointment date and the site's go-live date.
+Open Questions: Q-1234, Q-1236
 
 ---
 
@@ -1805,6 +1827,7 @@ Mentions:
 Related Nodes: N-11184
 Tags: relevance:core
 Investigative Direction: Pull WHOIS registration history for vancekirk.com.
+Open Questions: Q-1236
 
 ---
 
@@ -1838,6 +1861,7 @@ Related Nodes: N-10662, N-10795
 Contradicts: C-10895
 Tags: relevance:core
 Investigative Direction: Obtain dispatch audio and hospital intake logs with times.
+Open Questions: Q-224
 
 ---
 
@@ -1854,6 +1878,7 @@ Mentions: N-3
 Related Nodes: N-10805
 Tags: relevance:core
 Investigative Direction: Track tips on Wayback captures.
+Open Questions: Q-1237
 
 ---
 
@@ -1871,6 +1896,7 @@ Related Nodes: N-10805
 Supports: C-13935
 Tags: relevance:core
 Investigative Direction: Recover archived September 12 pages from other sources.
+Open Questions: Q-1237
 
 ---
 
@@ -1951,6 +1977,7 @@ Mentions: N-3
 Related Nodes: N-10801
 Tags: relevance:core
 Investigative Direction: Collect corporate documents for Monster Lab.
+Open Questions: Q-1238
 
 ---
 

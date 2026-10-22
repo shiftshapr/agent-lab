@@ -1269,6 +1269,7 @@ Mentions: N-439, N-1, N-3
 Related Nodes: N-11079, N-10375
 Tags: relevance:core
 Investigative Direction: Obtain Falkirk Center founding and wind-down records, Liberty University board minutes and dated reporting on Falwell Jr.'s exit to test whether the center's end is linked to Kirk's later fortunes.
+Open Questions: Q-486
 
 ---
 
@@ -1285,6 +1286,7 @@ Mentions: N-3, N-1, N-361
 Related Nodes: N-11299
 Tags: relevance:core
 Investigative Direction: Compare the dated public statements and posts behind each named narrative with the host's timeline of when each appeared and who first amplified it.
+Open Questions: Q-441, Q-487
 
 ---
 
@@ -1317,6 +1319,7 @@ Mentions: N-3
 Related Nodes: N-11299, N-10377
 Tags: relevance:core
 Investigative Direction: Identify the accounts that first pushed the dream-mocking narrative and any link to TPUSA staff or contractors.
+Open Questions: Q-487
 
 ---
 
@@ -1383,6 +1386,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10377
 Tags: relevance:core
 Investigative Direction: Not independently testable; compare with the host's other accounts of the dream across episodes for consistency.
+Open Questions: Q-463
 
 ---
 
@@ -1400,6 +1404,7 @@ Related Nodes: N-10377
 Supports: C-2980, C-1405
 Tags: relevance:core
 Investigative Direction: Compare this version of the dream with the host's earlier accounts for any change in who or how many are said to have betrayed him.
+Open Questions: Q-463
 
 ---
 
@@ -1416,6 +1421,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10377
 Tags: relevance:core
 Investigative Direction: Date the dream against the date of the text to Kolvet (A-1607.1) to confirm the sequence the host describes.
+Open Questions: Q-463, Q-488
 
 ---
 
@@ -1447,6 +1453,7 @@ Mentions: N-14, N-3, N-1
 Related Nodes: N-11299, N-10351
 Tags: relevance:core
 Investigative Direction: Identify what 'caught red-handed' refers to (likely earlier episodes on Kolvet's contacts with YouTubers) and obtain the underlying messages or records.
+Open Questions: Q-487
 
 ---
 
@@ -1462,6 +1469,7 @@ Anchored Artifacts: A-3302.1
 Mentions: N-14, N-3
 Tags: relevance:core
 Investigative Direction: Only the host's sources can confirm; ask whether either has gone on record or can be corroborated by documents.
+Open Questions: Q-488
 
 ---
 
@@ -1574,6 +1582,7 @@ Related Nodes: N-10371, N-10375
 Supports: C-4818
 Tags: relevance:core
 Investigative Direction: This is an interpretation; test against TPUSA Faith's founding documents, memorial programming and statements describing Kirk's legacy.
+Open Questions: Q-310
 
 ---
 
@@ -1769,6 +1778,7 @@ Mentions: N-1
 Related Nodes: N-11022
 Tags: relevance:core
 Investigative Direction: Ask the source what 'what they did to Charlie' refers to and which pastors and statements are meant.
+Open Questions: Q-463
 
 ---
 
@@ -1835,6 +1845,7 @@ Related Nodes: N-11080, N-10000
 Supports: C-4735
 Tags: relevance:core
 Investigative Direction: Check Kolvet's LinkedIn history, Kairos Company staff listings and TPUSA hiring announcements for titles and dates.
+Open Questions: Q-489
 
 ---
 
@@ -1951,6 +1962,7 @@ Related Nodes: N-11069, N-11239
 Supports: C-1823
 Tags: relevance:core
 Investigative Direction: Obtain donor communications and the dated sequence of the 2018 and later antisemitism controversies to test the alleged pattern.
+Open Questions: Q-487
 
 ---
 
@@ -2354,6 +2366,7 @@ Mentions: N-1
 Related Nodes: N-10025
 Tags: relevance:core
 Investigative Direction: A statement of belief about motive; tie to documented pressure on Kirk over Israel from earlier episodes.
+Open Questions: Q-6, Q-485
 
 ---
 
@@ -2385,6 +2398,7 @@ Mentions: N-2
 Related Nodes: N-11079, N-10376
 Tags: relevance:core
 Investigative Direction: Check Falkirk Center fellow rosters and Erika Kirk's own bios for the fellowship.
+Open Questions: Q-486
 
 ---
 
@@ -2402,6 +2416,7 @@ Related Nodes: N-11079, N-10376
 Qualifies: C-4959
 Tags: relevance:core
 Investigative Direction: Seek Falkirk founding accounts and Kirk-era interviews on who proposed the center.
+Open Questions: Q-486
 
 ---
 
@@ -2418,6 +2433,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11302
 Tags: relevance:core
 Investigative Direction: Gather Erika Kirk's own bios and interviews on China and Costa Rica and check dates, employers and charities named.
+Open Questions: Q-490
 
 ---
 
@@ -2434,6 +2450,7 @@ Mentions: N-2, N-3
 Related Nodes: N-11302
 Tags: relevance:core
 Investigative Direction: Track later episodes for the promised episode and for any request for comment sent to Erika Kirk.
+Open Questions: Q-490
 
 ---
 
@@ -2573,6 +2590,7 @@ Anchored Artifacts: A-1613.7
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Track whether the host repeats or revises this stance in later episodes.
+Open Questions: Q-485
 
 ---
 

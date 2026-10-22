@@ -939,6 +939,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Reconstruct Charlie Kirk's September 9 schedule from calendar entries, badge records and staff accounts.
+Open Questions: Q-560
 
 ---
 
@@ -955,6 +956,7 @@ Mentions: N-3, N-1, N-2, N-270, N-190, N-7
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Identify which of these phones or phone logs were seized, imaged or returned, through search warrants, court dockets or law enforcement statements.
+Open Questions: Q-604
 
 ---
 
@@ -971,6 +973,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Compare the September 8 broadcast time with the Tokyo return flight arrival time and the show's published episode listing.
+Open Questions: Q-560
 
 ---
 
@@ -987,6 +990,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain Fort Huachuca visitor logs and the SAM702 passenger manifest for September 8 to 9, 2025 to confirm or refute Erika Kirk's presence.
+Open Questions: Q-441
 
 ---
 
@@ -1019,6 +1023,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10889, N-10826
 Tags: relevance:core
 Investigative Direction: Obtain the New York Times article and compare Erika Kirk's quoted statement about leaving Charlie's belongings untouched with later accounts.
+Open Questions: Q-594
 
 ---
 
@@ -1035,6 +1040,7 @@ Mentions: N-3, N-2, N-237
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Confirm whether any earlier interview or video by Erika Kirk was recorded in the home office before December 12, 2025.
+Open Questions: Q-605
 
 ---
 
@@ -1051,6 +1057,7 @@ Mentions: N-3, N-2, N-237
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Review the full Beck interview to see which items on the desk Erika handles and whether she describes sorting them.
+Open Questions: Q-605
 
 ---
 
@@ -1098,6 +1105,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10467, N-10000
 Tags: relevance:core
 Investigative Direction: Collect the TPUSA fundraising emails and speech transcripts using 'my Charlie' to test the host's account of a coordinated messaging strategy.
+Open Questions: Q-605
 
 ---
 
@@ -1114,6 +1122,7 @@ Mentions: N-3, N-2, N-159
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the host's source for Neff's authorship and compare the speech text with Neff's known writing and any drafts shared with TPUSA staff.
+Open Questions: Q-606
 
 ---
 
@@ -1130,6 +1139,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA donor emails and letters sent after September 10, 2025 and check for the phrase.
+Open Questions: Q-606
 
 ---
 
@@ -1146,6 +1156,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare the board resolution on Erika Kirk's appointment with the timing of the messaging campaign.
+Open Questions: Q-590
 
 ---
 
@@ -1178,6 +1189,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Look for any footage, photos or staff accounts of the home office between September 8 and December 12, 2025 that show when the frame left the shelf.
+Open Questions: Q-605
 
 ---
 
@@ -1194,6 +1206,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Seek any corroboration of the 2:45 a.m. waking, such as smart-home, phone or device activity logs.
+Open Questions: Q-607
 
 ---
 
@@ -1210,6 +1223,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Ask whether any witness or record places Charlie in the daughter's room that night.
+Open Questions: Q-607
 
 ---
 
@@ -1226,6 +1240,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Check the personal effects inventory from the hospital or medical examiner to see whether the ring and necklace were on Charlie.
+Open Questions: Q-578, Q-607
 
 ---
 
@@ -1258,6 +1273,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10469, N-10507
 Tags: relevance:core
 Investigative Direction: Compare the 6:30 a.m. departure with the flight plan and manifest for the September 10 trip to Utah.
+Open Questions: Q-607, Q-608
 
 ---
 
@@ -1290,6 +1306,7 @@ Mentions: N-3, N-2, N-211
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Obtain the uncut Fox News interview footage or ask Fox for the unedited transcript of the answer.
+Open Questions: Q-609
 
 ---
 
@@ -1306,6 +1323,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Identify the friend, the dinner location and time, and any receipts or witnesses.
+Open Questions: Q-95, Q-560
 
 ---
 
@@ -1321,6 +1339,7 @@ Anchored Artifacts: A-1775.2
 Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Compare with supplier accounts of the campus-tour vests and ask security staff whether a vest was offered or declined.
+Open Questions: Q-138
 
 ---
 
@@ -1337,6 +1356,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Verify Erika Kirk's whereabouts on September 8 to 10 against the Phoenix account, and the Colorado State event listing.
+Open Questions: Q-562, Q-591
 
 ---
 
@@ -1352,6 +1372,7 @@ Anchored Artifacts: A-1775.2
 Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Confirm the Thursday event, its location and Erika's planned travel from TPUSA scheduling records.
+Open Questions: Q-591
 
 ---
 
@@ -1368,6 +1389,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10469, N-11004
 Tags: relevance:core
 Investigative Direction: Identify the priest and obtain his account of the visit, including who was present and what was discussed.
+Open Questions: Q-95
 
 ---
 
@@ -1384,6 +1406,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10252, N-10318
 Tags: relevance:core
 Investigative Direction: Identify the recipients of these communications and obtain the messages or call records from September 9, 2025.
+Open Questions: Q-146
 
 ---
 
@@ -1400,6 +1423,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Seek participants in the September 9 conversations and compare accounts with phone logs and calendar entries.
+Open Questions: Q-2, Q-607
 
 ---
 
@@ -1416,6 +1440,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-11004
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's public statements on the marriage with accounts from friends, staff and the priest.
+Open Questions: Q-610
 
 ---
 
@@ -1432,6 +1457,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Obtain the messages themselves with sender and recipient metadata, and identify each recipient.
+Open Questions: Q-576
 
 ---
 
@@ -1448,6 +1474,7 @@ Mentions: N-237, N-2, N-1
 Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Ask Beck's team where the priest meeting detail came from and whether Erika's staff briefed it.
+Open Questions: Q-95
 
 ---
 
@@ -1495,6 +1522,7 @@ Mentions: N-3, N-270
 Related Nodes: N-10439, N-10318
 Tags: relevance:core
 Investigative Direction: Obtain the carrier and iCloud records for Dan Flood's iMessage thread with Charlie Kirk.
+Open Questions: Q-576
 
 ---
 
@@ -1511,6 +1539,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10468
 Tags: relevance:core
 Investigative Direction: File a records request for the chain of custody of Charlie Kirk's phone.
+Open Questions: Q-577
 
 ---
 
@@ -1717,6 +1746,7 @@ Related Nodes: N-10318
 Supports: C-1341
 Tags: relevance:core
 Investigative Direction: Publish or authenticate the text messages with Charlie Kirk dating the pivot.
+Open Questions: Q-15
 
 ---
 
@@ -2033,6 +2063,7 @@ Mentions: N-3
 Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Obtain the Charis Bible College event contract, security plan and communications with TPUSA.
+Open Questions: Q-611
 
 ---
 
@@ -2049,6 +2080,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare against the exhibits and testimony from the preliminary hearing and the charging documents.
+Open Questions: Q-414
 
 ---
 
@@ -2065,6 +2097,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare with the host's earlier account of her private interview with Erika.
+Open Questions: Q-419
 
 ---
 

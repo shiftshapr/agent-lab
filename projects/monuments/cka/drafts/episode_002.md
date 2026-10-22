@@ -1266,6 +1266,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10005
 Tags: relevance:core
 Investigative Direction: Locate the earlier episode where the host first hinted at the transformation and the attacks she cites; document what Kirk said or did that she treats as evidence.
+Open Questions: Q-2
 
 ---
 
@@ -1297,6 +1298,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10025
 Tags: relevance:core
 Investigative Direction: Ask for the messages or conversations from which the host draws this conclusion; compare with Kirk's public statements in the Megyn Kelly clip.
+Open Questions: Q-2
 
 ---
 
@@ -1312,6 +1314,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1, N-36
 Tags: relevance:core
 Investigative Direction: Compare the time stamp of Netanyahu's first post about the shooting against other world leaders and TPUSA's own first statements.
+Open Questions: Q-3
 
 ---
 
@@ -1327,6 +1330,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-36
 Tags: relevance:core
 Investigative Direction: Check the full transcript of Erika Kirk's remarks for any mention of Netanyahu or Israel.
+Open Questions: Q-4
 
 ---
 
@@ -1359,6 +1363,7 @@ Mentions: N-36, N-1
 Related Nodes: N-10018, N-10006
 Tags: relevance:core
 Investigative Direction: Obtain phone records or an Israeli or TPUSA scheduling record for the call and for the invitation.
+Open Questions: Q-5
 
 ---
 
@@ -1424,6 +1429,7 @@ Related Nodes: N-10025, N-10252
 Supports: C-73
 Tags: relevance:core
 Investigative Direction: Identify who told Kirk which speakers to exclude; request messages or emails from TPUSA staff and donors.
+Open Questions: Q-6
 
 ---
 
@@ -1441,6 +1447,7 @@ Related Nodes: N-10000, N-10025, N-10102
 Supports: C-73
 Tags: relevance:core
 Investigative Direction: Obtain the text messages the host says she can release and corroborate with donor communications to TPUSA.
+Open Questions: Q-6, Q-7
 
 ---
 
@@ -1473,6 +1480,7 @@ Mentions: N-3, N-37, N-1, N-22
 Related Nodes: N-10025, N-10036
 Tags: relevance:core
 Investigative Direction: Obtain Ackman's communications with Kirk or TPUSA after the AmFest stage remarks.
+Open Questions: Q-8
 
 ---
 
@@ -1506,6 +1514,7 @@ Related Nodes: N-10016, N-10415
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Identify attendees of the Hamptons meeting and obtain their account or contemporaneous messages.
+Open Questions: Q-9
 
 ---
 
@@ -1522,6 +1531,7 @@ Mentions: N-3, N-37, N-49
 Related Nodes: N-10036, N-10016
 Tags: relevance:core
 Investigative Direction: Ask Blumenthal for the exchange with Ackman and ask Ackman to publish the receipts he referred to.
+Open Questions: Q-10
 
 ---
 
@@ -1555,6 +1565,7 @@ Related Nodes: N-10320, N-10018
 Supports: C-84
 Tags: relevance:core
 Investigative Direction: Identify the source of the offer and the amount; obtain messages sent after the meeting that reference it.
+Open Questions: Q-11
 
 ---
 
@@ -1572,6 +1583,7 @@ Related Nodes: N-10016, N-10415
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Obtain the messages sent immediately after the meeting that the host says are circulating and verify their date and sender.
+Open Questions: Q-11, Q-12
 
 ---
 
@@ -1588,6 +1600,7 @@ Mentions: N-1, N-3, N-37
 Related Nodes: N-10036, N-10016
 Tags: relevance:core
 Investigative Direction: Archive the Ackman tweet with its timestamp and compare with the host's account of the meeting.
+Open Questions: Q-9, Q-10
 
 ---
 
@@ -1605,6 +1618,7 @@ Related Nodes: N-10323, N-10016
 Supports: C-79
 Tags: relevance:core
 Investigative Direction: Ask Dillon whether he attended the Hamptons meeting and whether he disputes the host's description.
+Open Questions: Q-5, Q-9, Q-13
 
 ---
 
@@ -1621,6 +1635,7 @@ Mentions: N-3, N-38
 Related Nodes: N-10000, N-10323
 Tags: relevance:core
 Investigative Direction: Ask TPUSA staff and Dillon about calls between them in the days after the shooting.
+Open Questions: Q-14
 
 ---
 
@@ -1637,6 +1652,7 @@ Mentions: N-3, N-38
 Related Nodes: N-10016, N-10323
 Tags: relevance:core
 Investigative Direction: Identify the two other attendees the host says she contacted and whether any of them has since spoken.
+Open Questions: Q-9
 
 ---
 
@@ -1653,6 +1669,7 @@ Mentions: N-3
 Related Nodes: N-10016, N-10027
 Tags: relevance:core
 Investigative Direction: Identify the leak source through the host's sources; check later attendee statements.
+Open Questions: Q-9
 
 ---
 
@@ -1717,6 +1734,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10025, N-10102
 Tags: relevance:core
 Investigative Direction: Ask the host to name the donors and release the messages she says document the pressure.
+Open Questions: Q-6, Q-15
 
 ---
 
@@ -1733,6 +1751,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10025, N-10252
 Tags: relevance:core
 Investigative Direction: Identify the speakers and the donors involved; compare with AmFest speaker lists and removals.
+Open Questions: Q-6
 
 ---
 
@@ -1749,6 +1768,7 @@ Mentions: N-3, N-1, N-22
 Related Nodes: N-10000, N-10252
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to confirm whether audio of Kirk's pre-stage exchange with Carlson exists and to release it.
+Open Questions: Q-16
 
 ---
 
@@ -1765,6 +1785,7 @@ Mentions: N-3, N-36, N-1
 Related Nodes: N-10026, N-10053
 Tags: relevance:core
 Investigative Direction: Record the host's later statements on Israeli involvement to see whether this position changes.
+Open Questions: Q-17
 
 ---
 
@@ -1781,6 +1802,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10016, N-10102, N-10025
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's post-meeting messages that the host says contain this sentiment and identify who received them.
+Open Questions: Q-2, Q-12
 
 ---
 
@@ -1894,6 +1916,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10000, N-10025
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the senders and release the messages she says she will publish.
+Open Questions: Q-18
 
 ---
 
@@ -1910,6 +1933,7 @@ Mentions: N-43
 Related Nodes: N-10020, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain the FBI's stated account of the rifle's disassembly and a firearms expert assessment of the time needed.
+Open Questions: Q-19
 
 ---
 
@@ -1927,6 +1951,7 @@ Related Nodes: N-10020, N-10014
 Supports: C-124
 Tags: relevance:core
 Investigative Direction: Obtain the FBI photo of the recovered rifle and the evidence log describing its condition when found.
+Open Questions: Q-19, Q-20
 
 ---
 
@@ -1943,6 +1968,7 @@ Mentions: N-3
 Related Nodes: N-10014, N-10024
 Tags: relevance:core
 Investigative Direction: Find the FBI statement or briefing in which this was said and its date.
+Open Questions: Q-21, Q-22
 
 ---
 
@@ -1974,6 +2000,7 @@ Mentions: N-3, N-40, N-41
 Related Nodes: N-10011, N-10024
 Tags: relevance:core
 Investigative Direction: Obtain the original TMZ video with metadata and the UVU parking and surveillance records for the Challenger.
+Open Questions: Q-23, Q-24, Q-25
 
 ---
 
@@ -1992,6 +2019,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3, S-5
 Investigative Direction: Obtain the original rooftop footage with metadata and verify that the figure is the shooter and the time of the clip.
+Open Questions: Q-26, Q-27
 
 ---
 
@@ -2009,6 +2037,7 @@ Related Nodes: N-10020, N-10684
 Supports: C-125
 Tags: relevance:core
 Investigative Direction: Obtain the official timeline of disassembly and the frame-by-frame rooftop footage.
+Open Questions: Q-19, Q-26
 
 ---
 
@@ -2025,6 +2054,7 @@ Mentions: N-3, N-43
 Related Nodes: N-10020
 Tags: relevance:core
 Investigative Direction: Collect expert firearms analyses of the Mauser's field-strip time.
+Open Questions: Q-19
 
 ---
 
@@ -2041,6 +2071,7 @@ Mentions: N-3, N-42
 Related Nodes: N-10093, N-10024
 Tags: relevance:core
 Investigative Direction: Obtain police dispatch logs, arrest records and video for Zinn and the 12:52 announcement.
+Open Questions: Q-21, Q-28
 
 ---
 
@@ -2059,6 +2090,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-3
 Investigative Direction: Obtain the original FBI release with date and camera location, and build the timeline for the outfit change.
+Open Questions: Q-29
 
 ---
 
@@ -2075,6 +2107,7 @@ Mentions: N-3
 Related Nodes: N-10019, N-10014
 Tags: relevance:core
 Investigative Direction: Review the stairwell photos in full resolution to see whether the clothing shows a concealed object.
+Open Questions: Q-29, Q-30
 
 ---
 
@@ -2091,6 +2124,7 @@ Mentions: N-3
 Related Nodes: N-10012, N-10028, N-10158
 Tags: relevance:core
 Investigative Direction: Obtain the UVU camera inventory and the authorities' reasons for withholding higher-resolution footage.
+Open Questions: Q-31
 
 ---
 
@@ -2109,6 +2143,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Obtain the arrest report or booking photo describing what Robinson was wearing and the time of arrest.
+Open Questions: Q-32, Q-33
 
 ---
 
@@ -2125,6 +2160,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Identify the pastor and the official account of how Robinson came into custody.
+Open Questions: Q-34
 
 ---
 
@@ -2157,6 +2193,7 @@ Mentions: N-41, N-40, N-45
 Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Obtain the original reporting and any messages in which Robinson allegedly admitted it to acquaintances.
+Open Questions: Q-35
 
 ---
 
@@ -2173,6 +2210,7 @@ Mentions: N-41, N-40
 Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Identify who is cooperating from court filings and statements from the prosecutor.
+Open Questions: Q-36
 
 ---
 
@@ -2191,6 +2229,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the investigators' photos of the roommate's screen from the charging documents and verify the account name.
+Open Questions: Q-37
 
 ---
 
@@ -2210,6 +2249,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-7
 Investigative Direction: Obtain the message exhibits from the charging documents and compare timestamps with the shooting timeline.
+Open Questions: Q-20, Q-37
 
 ---
 
@@ -2228,6 +2268,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-5, S-7
 Investigative Direction: Compare with the ammunition and engravings described in the charging documents and recovered evidence.
+Open Questions: Q-37, Q-38
 
 ---
 
@@ -2246,6 +2287,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5, S-7
 Investigative Direction: Obtain the message with its timestamp to place the outfit change in the timeline.
+Open Questions: Q-33, Q-37
 
 ---
 
@@ -2262,6 +2304,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10019
 Tags: relevance:core
 Investigative Direction: Identify the classmate through the host's source and corroborate with other classmates or photos from the days around the shooting.
+Open Questions: Q-33
 
 ---
 
@@ -2294,6 +2337,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Find video or eyewitness accounts of anyone cheering at UVU after the shooting.
+Open Questions: Q-39
 
 ---
 
@@ -2403,6 +2447,7 @@ Mentions: N-3
 Supports: C-152
 Tags: relevance:core
 Investigative Direction: Record tip volume and any follow-up in later episodes where the host cites emailed tips.
+Open Questions: Q-21, Q-31
 
 ---
 

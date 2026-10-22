@@ -980,6 +980,7 @@ Mentions: N-11, N-394, N-3
 Related Nodes: N-10846, N-10360
 Tags: relevance:core
 Investigative Direction: Obtain Turning Point Action employment records for Austin Smith and who approved his hiring.
+Open Questions: Q-459
 
 ---
 
@@ -996,6 +997,7 @@ Mentions: N-11, N-1
 Related Nodes: N-10000, N-10360
 Tags: relevance:core
 Investigative Direction: Map the hiring chain of Charlie Kirk's staff and security against Bowyer's role using TPUSA org charts and former staff accounts.
+Open Questions: Q-459
 
 ---
 
@@ -1336,6 +1338,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10358
 Tags: relevance:core
 Investigative Direction: This is the host's inference; identify any statement by Charlie Kirk that he wanted to leave a group or arrangement.
+Open Questions: Q-21, Q-460
 
 ---
 
@@ -1352,6 +1355,7 @@ Mentions: N-97, N-1, N-3
 Related Nodes: N-11036
 Tags: relevance:core
 Investigative Direction: The host offers no specific evidence here; seek any communications or meetings of Shapiro on or after September 10, 2025 (see also the lunch-meeting topic).
+Open Questions: Q-461
 
 ---
 
@@ -1368,6 +1372,7 @@ Mentions: N-97, N-1
 Related Nodes: N-11036, N-10359
 Tags: relevance:core
 Investigative Direction: Look for concrete Shapiro actions toward TPUSA after September 10, 2025 (offers, donor outreach, statements) that support the host's reading.
+Open Questions: Q-461
 
 ---
 
@@ -1688,6 +1693,7 @@ Mentions: N-1
 Related Nodes: N-10000, N-10359
 Tags: relevance:core
 Investigative Direction: Identify the specific appointments, donors or actions the host regards as a takeover.
+Open Questions: Q-461
 
 ---
 
@@ -1900,6 +1906,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Obtain the full thread of messages with Charlie Kirk about dreams.
+Open Questions: Q-460
 
 ---
 
@@ -1933,6 +1940,7 @@ Related Nodes: N-10362, N-10000
 Supports: C-4702
 Tags: relevance:core
 Investigative Direction: Obtain the messages showing Kirk linking his expected death to Turning Point.
+Open Questions: Q-460
 
 ---
 
@@ -1949,6 +1957,7 @@ Mentions: N-3, N-1, N-270, N-266
 Related Nodes: N-10953
 Tags: relevance:core
 Investigative Direction: Obtain the text and its date, and identify who arranged Kirk's security in TPUSA's early years.
+Open Questions: Q-428
 
 ---
 
@@ -1966,6 +1975,7 @@ Related Nodes: N-10362, N-10395
 Supports: C-4702
 Tags: relevance:core
 Investigative Direction: Obtain the texts from early 2018 and any identification of the older man.
+Open Questions: Q-460
 
 ---
 
@@ -1999,6 +2009,7 @@ Related Nodes: N-10362
 Supports: C-4702
 Tags: relevance:core
 Investigative Direction: Obtain the original text thread and date.
+Open Questions: Q-462
 
 ---
 
@@ -2016,6 +2027,7 @@ Related Nodes: N-10362
 Supports: C-3534
 Tags: relevance:core
 Investigative Direction: The host offers no specific betrayal here; identify any documentary evidence that the people closest to Kirk acted against him.
+Open Questions: Q-463
 
 ---
 
@@ -2032,6 +2044,7 @@ Mentions: N-11, N-3
 Related Nodes: N-10360, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the source and obtain the written account and any messages showing a job offer tied to a favor.
+Open Questions: Q-464
 
 ---
 
@@ -2048,6 +2061,7 @@ Mentions: N-394
 Related Nodes: N-10363
 Tags: relevance:core
 Investigative Direction: Check Arizona legislature and secretary of state records for Smith's term and resignation date.
+Open Questions: Q-465
 
 ---
 
@@ -2064,6 +2078,7 @@ Mentions: N-394
 Related Nodes: N-10846, N-10000, N-10363
 Tags: relevance:core
 Investigative Direction: Obtain the original article and confirm Smith's dates at Turning Point Action.
+Open Questions: Q-465, Q-466
 
 ---
 
@@ -2080,6 +2095,7 @@ Mentions: N-3
 Related Nodes: N-10846, N-10361, N-10000
 Tags: relevance:core
 Investigative Direction: Compare Turning Point Action's FEC and IRS filings with the tipster's claim; the host says it is not yet confirmed.
+Open Questions: Q-466
 
 ---
 
@@ -2097,6 +2113,7 @@ Related Nodes: N-10000, N-10361
 Supports: C-3541
 Tags: relevance:core
 Investigative Direction: Obtain the September 2025 internal memo and DOGE records.
+Open Questions: Q-308
 
 ---
 
@@ -2114,6 +2131,7 @@ Related Nodes: N-10000
 Supports: C-3542
 Tags: relevance:core
 Investigative Direction: Identify what Kirk learned in the days before September 10, 2025, via staff accounts and his communications.
+Open Questions: Q-308, Q-467
 
 ---
 
@@ -2224,6 +2242,7 @@ Mentions: N-3, N-1
 Supports: C-4721
 Tags: relevance:core
 Investigative Direction: Catalogue which tips have been independently verified and which findings came from them.
+Open Questions: Q-468
 
 ---
 

@@ -2112,7 +2112,10 @@
         "N-159"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-943"
+      ]
     },
     {
       "@type": "Claim",
@@ -2135,7 +2138,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-950"
+      ]
     },
     {
       "@type": "Claim",
@@ -2158,7 +2164,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-950"
+      ]
     },
     {
       "@type": "Claim",
@@ -2184,7 +2193,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-950"
+      ]
     },
     {
       "@type": "Claim",
@@ -2282,6 +2294,9 @@
       "verification_status": "corroborated",
       "verification_evidence": [
         "S-5"
+      ],
+      "open_questions": [
+        "Q-951"
       ]
     },
     {
@@ -2308,6 +2323,9 @@
       "verification_status": "corroborated",
       "verification_evidence": [
         "S-5"
+      ],
+      "open_questions": [
+        "Q-951"
       ]
     },
     {
@@ -2338,6 +2356,9 @@
       "verification_status": "corroborated",
       "verification_evidence": [
         "S-5"
+      ],
+      "open_questions": [
+        "Q-951"
       ]
     },
     {
@@ -2362,7 +2383,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-952"
+      ]
     },
     {
       "@type": "Claim",
@@ -2388,7 +2412,11 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-953",
+        "Q-954"
+      ]
     },
     {
       "@type": "Claim",
@@ -2412,7 +2440,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-955"
+      ]
     },
     {
       "@type": "Claim",
@@ -2437,7 +2468,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-956"
+      ]
     },
     {
       "@type": "Claim",
@@ -2461,7 +2495,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-956"
+      ]
     },
     {
       "@type": "Claim",
@@ -2488,7 +2525,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-956"
+      ]
     },
     {
       "@type": "Claim",
@@ -2513,7 +2553,10 @@
         "N-42"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-953"
+      ]
     },
     {
       "@type": "Claim",
@@ -2540,7 +2583,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-953"
+      ]
     },
     {
       "@type": "Claim",
@@ -2561,7 +2607,11 @@
       "investigative_direction": "Compare the clip's end time with the audio of the shot in other recordings to check the 5-second gap.",
       "transcript_snippet": "about 5 seconds after I stopped recording is when that person fired.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-26",
+        "Q-957"
+      ]
     },
     {
       "@type": "Claim",
@@ -2585,7 +2635,10 @@
         "C-3714"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-957"
+      ]
     },
     {
       "@type": "Claim",
@@ -2606,7 +2659,10 @@
       "investigative_direction": "Obtain acoustic analysis of audio from several recordings of the shot and the ballistics report for the recovered rifle.",
       "transcript_snippet": "it sounded more like a AR than a large bore hunting rifle.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-322"
+      ]
     },
     {
       "@type": "Claim",
@@ -2627,7 +2683,10 @@
       "investigative_direction": "Compare the video metadata of the witness's clip with the official 12:15 roof-access time in the charging documents.",
       "transcript_snippet": "it was definitely not 12:15. It was It was uh 12:20 if anything. He was He was in our line of view for about 30 seconds total.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-26"
+      ]
     },
     {
       "@type": "Claim",
@@ -2648,7 +2707,10 @@
       "investigative_direction": "Match the witness's account of a 10-second approach with the roof video and any other camera angles.",
       "transcript_snippet": "which is why I started recording because it was I assumed he was a security guard for the event.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-26"
+      ]
     },
     {
       "@type": "Claim",
@@ -2669,7 +2731,10 @@
       "investigative_direction": "Compare against the court-shown rooftop video and the dispatch time of the first shots-fired call.",
       "transcript_snippet": "And then firing, he was maybe on the ground for 5 more seconds before he stood up and absolutely sprinted off the roof.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-26"
+      ]
     },
     {
       "@type": "Claim",
@@ -2690,7 +2755,10 @@
       "investigative_direction": "Measure the distance from the witness's vantage location to the Losee Center roof edge using mapping and survey data.",
       "transcript_snippet": "At the range we were at, we were about 175 yd from him.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-956"
+      ]
     },
     {
       "@type": "Claim",
@@ -2714,7 +2782,10 @@
         "N-42"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-953"
+      ]
     },
     {
       "@type": "Claim",
@@ -2735,7 +2806,10 @@
       "investigative_direction": "Enhance the roof clip at the head region and compare with equipment recovered or listed in the evidence inventory.",
       "transcript_snippet": "I thought he was wearing a black tactical helmet as well because [clears throat] he looked like he had a slightly larger head than than normal at that range.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-954"
+      ]
     },
     {
       "@type": "Claim",
@@ -2758,7 +2832,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-958"
+      ]
     },
     {
       "@type": "Claim",
@@ -2782,7 +2859,10 @@
         "N-505"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-952"
+      ]
     },
     {
       "@type": "Claim",
@@ -2804,7 +2884,10 @@
       "investigative_direction": "Request UVU and Utah County 911 and CAD records for the library area on September 10 and the library lockdown order.",
       "transcript_snippet": "there was a string of 911 calls about the library in particular, which is again, not close to the Losee Center. The library was actually subsequently placed onto a lockdown.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-959"
+      ]
     },
     {
       "@type": "Claim",
@@ -2825,7 +2908,10 @@
       "investigative_direction": "Obtain the full 911 and dispatch recordings with timestamps to place these reports relative to the 12:23 shot.",
       "transcript_snippet": "Gunshots heard near the library at UVU. They're trying to lock the library down now. So, gather >> She's saying they just got another report of shots fired at the UVU library.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-959"
+      ]
     },
     {
       "@type": "Claim",
@@ -2850,6 +2936,9 @@
       "verification_status": "corroborated",
       "verification_evidence": [
         "S-4"
+      ],
+      "open_questions": [
+        "Q-960"
       ]
     },
     {
@@ -2872,7 +2961,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-960"
+      ]
     },
     {
       "@type": "Claim",
@@ -2949,7 +3041,10 @@
         "N-278"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-961"
+      ]
     },
     {
       "@type": "Claim",
@@ -3076,7 +3171,10 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-962"
+      ]
     },
     {
       "@type": "Claim",
@@ -3100,7 +3198,10 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-962"
+      ]
     },
     {
       "@type": "Claim",
@@ -3355,7 +3456,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-963"
+      ]
     },
     {
       "@type": "Claim",
@@ -3380,7 +3484,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-957"
+      ]
     },
     {
       "@type": "Claim",
@@ -3407,7 +3514,11 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-953",
+        "Q-957"
+      ]
     },
     {
       "@type": "Claim",
@@ -3434,7 +3545,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-957"
+      ]
     },
     {
       "@type": "Claim",
@@ -3464,7 +3578,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-322"
+      ]
     },
     {
       "@type": "Claim",
@@ -3488,7 +3605,11 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-31",
+        "Q-414"
+      ]
     },
     {
       "@type": "Claim",
@@ -3511,7 +3632,10 @@
         "N-40"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-933"
+      ]
     },
     {
       "@type": "Claim",
@@ -3534,7 +3658,10 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-930"
+      ]
     },
     {
       "@type": "Claim",
@@ -3561,7 +3688,10 @@
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-964"
+      ]
     },
     {
       "@type": "Claim",
@@ -3589,7 +3719,10 @@
         "N-14"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-964"
+      ]
     },
     {
       "@type": "Claim",
@@ -3639,7 +3772,10 @@
         "N-159"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-943"
+      ]
     },
     {
       "@type": "Claim",
@@ -3729,6 +3865,9 @@
       "verification_evidence": [
         "S-1",
         "S-5"
+      ],
+      "open_questions": [
+        "Q-965"
       ]
     },
     {
@@ -3754,7 +3893,11 @@
         "N-42"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-954",
+        "Q-965"
+      ]
     },
     {
       "@type": "Claim",
@@ -3776,7 +3919,10 @@
         "N-3"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-966"
+      ]
     },
     {
       "@type": "Claim",
@@ -3799,7 +3945,10 @@
         "N-270"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-967"
+      ]
     },
     {
       "@type": "Claim",
@@ -3824,7 +3973,10 @@
         "N-7"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-968"
+      ]
     },
     {
       "@type": "Claim",
@@ -3849,7 +4001,11 @@
         "N-97"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-947",
+        "Q-969"
+      ]
     },
     {
       "@type": "Claim",
@@ -3874,7 +4030,10 @@
         "C-10800"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-26"
+      ]
     },
     {
       "@type": "Claim",
@@ -3898,7 +4057,11 @@
         "N-40"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "open_questions": [
+        "Q-414",
+        "Q-970"
+      ]
     },
     {
       "@type": "Claim",

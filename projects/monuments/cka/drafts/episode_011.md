@@ -1195,6 +1195,7 @@ Related Nodes: N-10137
 Contradicts: C-973
 Tags: relevance:core
 Investigative Direction: Compare Washington County Sheriff's Office and court records of the surrender call (the 'suicidal ideations' remark) against the host's source. Ask whether the source can document the family's account.
+Open Questions: Q-106
 
 ---
 
@@ -1211,6 +1212,7 @@ Mentions: N-3
 Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: The source is unnamed and nothing was shown. Ask the host to describe how the source was vetted, or have the source go on record or provide documents.
+Open Questions: Q-34, Q-56, Q-107
 
 ---
 
@@ -1227,6 +1229,7 @@ Mentions: N-3
 Related Nodes: N-10048
 Tags: relevance:core, framed-as-question
 Investigative Direction: Ask the host to say what the 'withheld' information is. Ask the Dairy Queen's staff or owners whether law enforcement has been watching the store. FBI and Utah County records of the Dairy Queen photo handling would also help.
+Open Questions: Q-56
 
 ---
 
@@ -1244,6 +1247,7 @@ Related Nodes: N-10021
 Supports: C-133
 Tags: relevance:core
 Investigative Direction: Check the charging documents and court filings for any confession or admission. Check Robinson's plea status and any statements by his defense counsel.
+Open Questions: Q-91
 
 ---
 
@@ -1260,6 +1264,7 @@ Mentions: N-40
 Related Nodes: N-10133
 Tags: relevance:core
 Investigative Direction: Compare with the casing engraving evidence in the charging documents and with Robinson's defense filings. Ask the host's source for corroboration.
+Open Questions: Q-38, Q-49
 
 ---
 
@@ -1276,6 +1281,7 @@ Mentions: N-40
 Related Nodes: N-11288
 Tags: relevance:core
 Investigative Direction: Check hunting and fishing licence records, firearm purchase records and Robinson's social media posts. Ask the Robinson family's counsel.
+Open Questions: Q-49
 
 ---
 
@@ -1292,6 +1298,7 @@ Mentions: N-40
 Related Nodes: N-11288
 Tags: relevance:core
 Investigative Direction: Look for the rifle's make, serial number and ownership history in the ATF trace and the charging documents. Check public statements by the Robinson family or their counsel about how the gun came to Tyler.
+Open Questions: Q-49
 
 ---
 
@@ -1323,6 +1330,7 @@ Mentions: N-40
 Related Nodes: N-10037, N-10649
 Tags: relevance:core
 Investigative Direction: Request the forensic extraction reports for the messages and the device they came from. Check for any defense motion challenging the messages' authenticity.
+Open Questions: Q-107
 
 ---
 
@@ -1339,6 +1347,7 @@ Mentions: N-40
 Related Nodes: N-10037
 Tags: relevance:core
 Investigative Direction: Review a larger sample of Robinson's recorded and written speech for use of 'vehicle'. The 2022 bodycam clip aired later in the episode (A-1171.1) is one data point.
+Open Questions: Q-107
 
 ---
 
@@ -1355,6 +1364,7 @@ Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Look for public statements by the Robinson parents or their counsel on their view of Tyler's guilt. Compare with the media accounts, including statements by Governor Cox.
+Open Questions: Q-108
 
 ---
 
@@ -1371,6 +1381,7 @@ Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Trace the original media and official source for the father-phones-friend narrative (the Cox press briefings and reporting).
+Open Questions: Q-34
 
 ---
 
@@ -1388,6 +1399,7 @@ Related Nodes: N-10022
 Supports: C-187
 Tags: relevance:core
 Investigative Direction: Identify the retired deputy or detective through court records and the sheriff's office. Compare the call timeline with Brooksby's press-conference account (A-1172.1).
+Open Questions: Q-34, Q-109
 
 ---
 
@@ -1405,6 +1417,7 @@ Related Nodes: N-10137
 Supports: C-976
 Tags: relevance:core
 Investigative Direction: Compare with Brooksby's statement that Tyler was 'fearful of a SWAT team hit' (A-1172.3) and with the surrender timeline in the charging documents and sheriff's logs.
+Open Questions: Q-34
 
 ---
 
@@ -1421,6 +1434,7 @@ Mentions: N-1, N-40
 Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Look for sworn statements from the family friend, the parents and responding officers describing the conversation. The source is unnamed, so these records are the only route to corroboration.
+Open Questions: Q-34, Q-91
 
 ---
 
@@ -1439,6 +1453,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2, S-3
 Investigative Direction: Check Robinson's phone location history, parking and ID records and campus camera footage for any earlier UVU visit. See the charging documents' account of how he reached the Losee Center roof.
+Open Questions: Q-110
 
 ---
 
@@ -1455,6 +1470,7 @@ Mentions: N-40
 Related Nodes: N-11133, N-10012
 Tags: relevance:core
 Investigative Direction: Check university admissions and enrollment records, subject to FERPA, and the reporting that first stated his Utah State admission.
+Open Questions: Q-110
 
 ---
 
@@ -1471,6 +1487,7 @@ Mentions: N-1, N-40
 Related Nodes: N-10140, N-10028, N-10321
 Tags: relevance:core
 Investigative Direction: Review the prosecution's account of how Robinson accessed and traversed the roofs, and any earlier recorded visits to the campus. Interview UVU students and staff on whether the roof route was known.
+Open Questions: Q-110
 
 ---
 
@@ -1487,6 +1504,7 @@ Mentions: N-40
 Related Nodes: N-10048
 Tags: relevance:core
 Investigative Direction: Compare with the Dairy Queen 6:38 photo timestamp reconciliation and the Washington County surveillance footage. Ask for the source's specifics on where Robinson was near the campus.
+Open Questions: Q-56, Q-110
 
 ---
 
@@ -1503,6 +1521,7 @@ Mentions: N-40
 Related Nodes: N-10137
 Tags: relevance:core
 Investigative Direction: Compare with Brooksby's press-conference account and the sheriff's arrest log. Ask whether any SWAT or tactical team was staged at the Robinson home.
+Open Questions: Q-34, Q-106
 
 ---
 
@@ -1519,6 +1538,7 @@ Mentions: N-272
 Related Nodes: N-10137
 Tags: relevance:core
 Investigative Direction: Obtain the unedited clip and the call logs for the 8:02 p.m. call the sheriff described.
+Open Questions: Q-34, Q-109
 
 ---
 
@@ -1535,6 +1555,7 @@ Mentions: N-272
 Related Nodes: N-10029, N-10137
 Tags: relevance:core
 Investigative Direction: Obtain the unedited press-conference audio to confirm whether Brooksby said 'voluntarily' or 'involuntarily'. Identify the friend's religious association with the family (court filings named him).
+Open Questions: Q-34, Q-109
 
 ---
 
@@ -1567,6 +1588,7 @@ Mentions: N-126, N-61
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Obtain phone records or messages showing the call. Ask the host to confirm the date. Lyman's own account of why he joined the call would help.
+Open Questions: Q-114
 
 ---
 
@@ -1583,6 +1605,7 @@ Mentions: N-75, N-1
 Related Nodes: N-10057
 Tags: relevance:core
 Investigative Direction: Ask Barker to share the original files with metadata. Check the Good Morning America segment and her public Instagram for the footage.
+Open Questions: Q-79
 
 ---
 
@@ -1599,6 +1622,7 @@ Mentions: N-126, N-75
 Related Nodes: N-11289, N-10139
 Tags: relevance:core
 Investigative Direction: Trace the photo's origin through the earliest social media posts and its metadata. Ask Nick and the Barker family how the image reached Nick.
+Open Questions: Q-115
 
 ---
 
@@ -1616,6 +1640,7 @@ Related Nodes: N-10057, N-10139
 Supports: C-669
 Tags: relevance:core
 Investigative Direction: Check Utah election filings for Lyman's 2024 running mate. Ask ABC / Good Morning America how the Barker segment was booked.
+Open Questions: Q-116
 
 ---
 
@@ -1632,6 +1657,7 @@ Mentions: N-61
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Ask the host for the source of this. Look for Lyman's press statements and posts on September 10, and who he communicated with that day.
+Open Questions: Q-114
 
 ---
 
@@ -1648,6 +1674,7 @@ Mentions: N-61
 Related Nodes: N-10011, N-10139, N-10141
 Tags: relevance:core
 Investigative Direction: Obtain the TMZ neighborhood-camera footage with its original timestamps, and compare against Lyman's account and the official timeline of the shooter's route.
+Open Questions: Q-96, Q-117
 
 ---
 
@@ -1664,6 +1691,7 @@ Mentions: N-129, N-61
 Related Nodes: N-10141, N-10139
 Tags: relevance:core
 Investigative Direction: Reconcile the two numbers by timestamping the TMZ footage and Lyman's vehicle location data. Ask Lyman's office which figure is right.
+Open Questions: Q-117
 
 ---
 
@@ -1680,6 +1708,7 @@ Mentions: N-61, N-129
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Identify the property owner and the date and time of Lyman's return. Check police records for the backyard search at that address.
+Open Questions: Q-117
 
 ---
 
@@ -1712,6 +1741,7 @@ Mentions: N-61, N-93
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Ask Lyman who showed or described this video and obtain it. Compare with the official account of Robinson's escape route.
+Open Questions: Q-94, Q-114
 
 ---
 
@@ -1728,6 +1758,7 @@ Mentions: N-61, N-93
 Related Nodes: N-10300, N-10139
 Tags: relevance:core
 Investigative Direction: Compare with the FBI's chain of custody and photographs of the rifle recovery and the charging documents. Ask Lyman the basis for this belief.
+Open Questions: Q-20, Q-75
 
 ---
 
@@ -1744,6 +1775,7 @@ Mentions: N-61, N-93, N-40
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Obtain the unedited Alex Jones segment. Clarify with Lyman what he is questioning.
+Open Questions: Q-21, Q-94
 
 ---
 
@@ -1760,6 +1792,7 @@ Mentions: N-3, N-61
 Related Nodes: N-10141, N-10139
 Tags: relevance:core
 Investigative Direction: Place Lyman using event video, photographs and his phone-location data, and compare the three accounts (east end, next to the stage, 'up top').
+Open Questions: Q-114
 
 ---
 
@@ -1776,6 +1809,7 @@ Mentions: N-3, N-61
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Ask the host or Lyman's office whether the request was made and whether Lyman holds any video of the day.
+Open Questions: Q-114
 
 ---
 
@@ -1792,6 +1826,7 @@ Mentions: N-3, N-61
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Look for Lyman's public statements responding to questions about the case, and for the Nick visit described elsewhere (C-1038).
+Open Questions: Q-114, Q-118
 
 ---
 
@@ -1808,6 +1843,7 @@ Mentions: N-3
 Related Nodes: N-11290, N-10045
 Tags: relevance:core
 Investigative Direction: Ask the host which leads she is working on and which facts support the military reading, and compare with the documented military-adjacent personnel around the event.
+Open Questions: Q-119
 
 ---
 
@@ -1840,6 +1876,7 @@ Mentions: N-3, N-272
 Related Nodes: N-10137
 Tags: relevance:core
 Investigative Direction: Review the unedited press-conference video and compare with the sheriff's account of the call.
+Open Questions: Q-34
 
 ---
 
@@ -1856,6 +1893,7 @@ Mentions: N-75
 Related Nodes: N-10057
 Tags: relevance:core
 Investigative Direction: Review Barker's Instagram explanation and her timeline for the Good Morning America appearance.
+Open Questions: Q-79, Q-116
 
 ---
 
@@ -1889,6 +1927,7 @@ Related Nodes: N-10044
 Supports: C-96
 Tags: relevance:core
 Investigative Direction: Compile the donor names reported in Kirk's texts and in reporting about the pressure campaign. Ask TPUSA staff whether they will comment.
+Open Questions: Q-6
 
 ---
 
@@ -1922,6 +1961,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10697, N-10907, N-10971
 Tags: relevance:core
 Investigative Direction: Obtain the original UVU event video from multiple angles, and the post-shooting photographs of the microphone's location on Kirk. Ask a forensic video analyst to compare frames.
+Open Questions: Q-102
 
 ---
 
@@ -1938,6 +1978,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10697, N-10907
 Tags: relevance:core
 Investigative Direction: Ask a weapons or ballistics expert how a microphone would behave under such force, and compare with the frame-by-frame video.
+Open Questions: Q-102
 
 ---
 
@@ -1955,6 +1996,7 @@ Related Nodes: N-10907, N-10971
 Supports: C-98
 Tags: relevance:core
 Investigative Direction: Review the event video of the microphone being placed on Kirk and the sound crew's account. Compare with other TPUSA events.
+Open Questions: Q-121
 
 ---
 
@@ -1971,6 +2013,7 @@ Mentions: N-3
 Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Hold the host to specifics: list each 'first time' item once revealed and check it against prior TPUSA events.
+Open Questions: Q-122
 
 ---
 
@@ -1989,6 +2032,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-4, S-7
 Investigative Direction: Washington County Sheriff's Office intake records and building logs for the evening of September 11, 2025; the full Brooksby press-conference video.
+Open Questions: Q-34
 
 ---
 
@@ -2005,6 +2049,7 @@ Mentions: N-272, N-40
 Related Nodes: N-10932
 Tags: relevance:core
 Investigative Direction: Timing of the FBI's public release of the suspect images and rifle photo versus the 8:02 call; full Brooksby press-conference recording.
+Open Questions: Q-34
 
 ---
 
@@ -2022,6 +2067,7 @@ Related Nodes: N-10137, N-10932
 Supports: C-969
 Tags: relevance:core
 Investigative Direction: Compare Brooksby's full press-conference statements with the probable cause affidavit and any later court testimony on Tyler Robinson's state when he surrendered.
+Open Questions: Q-106
 
 ---
 
@@ -2038,6 +2084,7 @@ Mentions: N-40, N-3
 Related Nodes: N-11359, N-10932
 Tags: relevance:core
 Investigative Direction: Any statement from the Robinson family or their counsel; US Marshals or FBI victim-witness records on protective placement of the family.
+Open Questions: Q-111
 
 ---
 
@@ -2119,6 +2166,7 @@ Related Nodes: N-10074, N-10037
 Supports: C-571
 Tags: relevance:core
 Investigative Direction: Forensic extraction reports for the Robinson-Twiggs messages produced in discovery (N-10649); the defense's challenge to their provenance.
+Open Questions: Q-107
 
 ---
 
@@ -2135,6 +2183,7 @@ Mentions: N-40
 Related Nodes: N-11057, N-10040
 Tags: relevance:core
 Investigative Direction: Unblurred original surveillance frames from UVU; FBI Salt Lake City release notes for the stills.
+Open Questions: Q-108, Q-112
 
 ---
 
@@ -2151,6 +2200,7 @@ Mentions: N-40, N-3
 Related Nodes: N-11057, N-10579
 Tags: relevance:core
 Investigative Direction: Photogrammetric height estimate from the stairwell stills against Robinson's booking height.
+Open Questions: Q-112
 
 ---
 
@@ -2168,6 +2218,7 @@ Related Nodes: N-11057
 Supports: C-353
 Tags: relevance:core
 Investigative Direction: FOIA or court discovery for the native UVU surveillance video behind the FBI stills.
+Open Questions: Q-89, Q-112
 
 ---
 
@@ -2184,6 +2235,7 @@ Mentions: N-40
 Related Nodes: N-10138
 Tags: relevance:core
 Investigative Direction: Search-warrant return and evidence photos from the apartment search; the family's own account through counsel.
+Open Questions: Q-113
 
 ---
 
@@ -2201,6 +2253,7 @@ Related Nodes: N-10033
 Supports: C-216, C-226
 Tags: relevance:core
 Investigative Direction: County property records for the St. George unit; lease or rent records.
+Open Questions: Q-99
 
 ---
 
@@ -2218,6 +2271,7 @@ Related Nodes: N-10041, N-10029
 Supports: C-338
 Tags: relevance:core
 Investigative Direction: Search-warrant filings and police reports for the apartment raid; any official statement on Lance Twiggs's status.
+Open Questions: Q-99
 
 ---
 
@@ -2234,6 +2288,7 @@ Mentions: N-40, N-54
 Related Nodes: N-10138
 Tags: relevance:core
 Investigative Direction: Police evidence photos of the bedroom at the time of the search, compared with later photos or the family's account.
+Open Questions: Q-113
 
 ---
 
@@ -2251,6 +2306,7 @@ Related Nodes: N-10033
 Supports: C-335
 Tags: relevance:core
 Investigative Direction: Direct statements from both families; note the Robinson account reaches the host through a third party.
+Open Questions: Q-99, Q-108
 
 ---
 
@@ -2267,6 +2323,7 @@ Mentions: N-272, N-125
 Related Nodes: N-10136, N-10029
 Tags: relevance:core
 Investigative Direction: Court filings naming the retired deputy; media coverage of the surrender that withheld the name.
+Open Questions: Q-109
 
 ---
 
@@ -2283,6 +2340,7 @@ Mentions: N-272, N-125
 Related Nodes: N-10029
 Tags: relevance:core
 Investigative Direction: Charging documents and probable cause statement in State v. Robinson describing the retired Washington County deputy.
+Open Questions: Q-34, Q-109
 
 ---
 
@@ -2299,6 +2357,7 @@ Mentions: N-272, N-125
 Related Nodes: N-10136
 Tags: relevance:core
 Investigative Direction: Full press-conference Q&A recording to confirm Brooksby's exact answer.
+Open Questions: Q-109
 
 ---
 
@@ -2317,6 +2376,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-1, S-4
 Investigative Direction: Washington County Sheriff's Office personnel records; confirmation from court filings or Mitchell himself.
+Open Questions: Q-109
 
 ---
 
@@ -2333,6 +2393,7 @@ Mentions: N-125, N-40
 Related Nodes: N-10090, N-10136
 Tags: relevance:core
 Investigative Direction: Local Scouting or ward records; Brooksby's statement that the friend knows the family "through religious association" (C-974).
+Open Questions: Q-109
 
 ---
 
@@ -2349,6 +2410,7 @@ Mentions: N-125, N-3
 Related Nodes: N-10136
 Tags: relevance:core
 Investigative Direction: Brooksby's description of the friend as a "family friend" and neighbor; no address is to be recorded.
+Open Questions: Q-109
 
 ---
 
@@ -2365,6 +2427,7 @@ Mentions: N-272, N-125
 Related Nodes: N-10136
 Tags: relevance:core
 Investigative Direction: Date of the Washington County Sheriff's Office retirement post; Mitchell's official separation date.
+Open Questions: Q-109
 
 ---
 
@@ -2381,6 +2444,7 @@ Mentions: N-125, N-3
 Related Nodes: N-10136
 Tags: relevance:core, dia
 Investigative Direction: Tips received at the tips address on Mitchell.
+Open Questions: Q-109
 
 ---
 
@@ -2430,6 +2494,7 @@ Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: TPUSA public statements on the investigation after September 10, 2025.
+Open Questions: Q-98
 
 ---
 
@@ -2446,6 +2511,7 @@ Mentions: N-61
 Related Nodes: N-10139, N-10141
 Tags: relevance:core
 Investigative Direction: None required; this hedge frames claims C-1029 to C-1054.
+Open Questions: Q-114
 
 ---
 
@@ -2462,6 +2528,7 @@ Mentions: N-61, N-75, N-41
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: The host's emails and messages from Barker and the Shamway sender; spelling of the Shamway surname to be confirmed.
+Open Questions: Q-118
 
 ---
 
@@ -2510,6 +2577,7 @@ Mentions: N-3
 Related Nodes: N-11290, N-10929
 Tags: relevance:core
 Investigative Direction: Identities and service records of the rooftop spotter and the Hall of Flags witness as given in charging documents and media interviews.
+Open Questions: Q-72, Q-119
 
 ---
 
@@ -2526,6 +2594,7 @@ Mentions: N-3
 Related Nodes: N-10019
 Tags: relevance:core, dia
 Investigative Direction: The live-chat record of the paid message; any neighborhood camera footage from the house the tipster named.
+Open Questions: Q-94, Q-96
 
 ---
 
@@ -2542,6 +2611,7 @@ Mentions: N-61
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Utah County property records for the named house; whether "Lyman Branch" is an owner's name or a branch of the Lyman family (see Doubts). No address to be recorded.
+Open Questions: Q-96, Q-120
 
 ---
 
@@ -2590,6 +2660,7 @@ Mentions: N-126, N-61
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Nick's messages from Lyman; Lyman's own account of the visit.
+Open Questions: Q-118
 
 ---
 
@@ -2638,6 +2709,7 @@ Mentions: N-11, N-61, N-41, N-126
 Related Nodes: N-10000, N-10139
 Tags: relevance:core
 Investigative Direction: Communications between Phil Lyman and Tyler Bowyer; Bowyer's and Lyman's public statements.
+Open Questions: Q-118
 
 ---
 
@@ -2654,6 +2726,7 @@ Mentions: N-61, N-41, N-126
 Related Nodes: N-11133, N-10000, N-10139
 Tags: relevance:core
 Investigative Direction: The TPUSA Utah State University event schedule (autumn 2025) and Cox's appearance there.
+Open Questions: Q-118
 
 ---
 
@@ -2670,6 +2743,7 @@ Mentions: N-61, N-126
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Nick's call log with the host; Lyman's own account.
+Open Questions: Q-118
 
 ---
 
@@ -2686,6 +2760,7 @@ Mentions: N-61
 Related Nodes: N-10139
 Tags: relevance:core, dia
 Investigative Direction: The original tips-box message and its date.
+Open Questions: Q-120
 
 ---
 
@@ -2702,6 +2777,7 @@ Mentions: N-126, N-61
 Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: Any photos or video Lyman took on September 10, 2025, with metadata.
+Open Questions: Q-114
 
 ---
 
@@ -2718,6 +2794,7 @@ Mentions: N-61, N-126
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Text messages between Lyman and Nick.
+Open Questions: Q-114
 
 ---
 
@@ -2734,6 +2811,7 @@ Mentions: N-61, N-126, N-971
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Identify Taylor Hansen and whether he or she holds Lyman's September 10 photos; Nick's call log.
+Open Questions: Q-114
 
 ---
 
@@ -2766,6 +2844,7 @@ Mentions: N-61, N-128
 Related Nodes: N-11190, N-10139
 Tags: relevance:core
 Investigative Direction: Archived captures of Shaner Broderick's Instagram before and after the change; the host's sent messages.
+Open Questions: Q-120
 
 ---
 
@@ -2782,6 +2861,7 @@ Mentions: N-61
 Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: The host's message to Lyman and its read receipt; the snippet is under 8 words because the beat is one sentence.
+Open Questions: Q-120
 
 ---
 
@@ -2798,6 +2878,7 @@ Mentions: N-128, N-61, N-1
 Related Nodes: N-10139, N-10142
 Tags: relevance:core, dia
 Investigative Direction: Archived copy of the nephew's walkthrough video and post; identities of the two companions (N-10142).
+Open Questions: Q-120
 
 ---
 

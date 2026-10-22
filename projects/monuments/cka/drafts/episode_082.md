@@ -1022,6 +1022,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-330
 Tags: relevance:core
 Investigative Direction: Identify the released audio clip, who first posted it and the evidence that the voice was or was not Erika Kirk.
+Open Questions: Q-684
 
 ---
 
@@ -1038,6 +1039,7 @@ Mentions: N-330, N-2
 Related Nodes: N-10787
 Tags: relevance:core
 Investigative Direction: Locate the Alo jumpsuit exchange and any TPUSA or Erika Kirk response to it; compare with responses to the Santa Barbara departure allegation.
+Open Questions: Q-702
 
 ---
 
@@ -1054,6 +1056,7 @@ Mentions: N-330
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Review Coleman's three shows and check whether TPUSA, Andrew Kolvet or Erika Kirk publicly addressed the Santa Barbara departure allegation.
+Open Questions: Q-702
 
 ---
 
@@ -1070,6 +1073,7 @@ Mentions: N-3
 Related Nodes: N-10508
 Tags: relevance:core
 Investigative Direction: Because the source is withheld, corroborate through independent records (Hopkinson staff, FBO logs) rather than the source.
+Open Questions: Q-703
 
 ---
 
@@ -1086,6 +1090,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Canvass for witnesses, CCTV and phone records at each location Erika Kirk has said she visited on September 10, 2025.
+Open Questions: Q-704
 
 ---
 
@@ -1102,6 +1107,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the clinic or hospital and parking lot, request security footage and any 911 or ambulance record for September 10, 2025.
+Open Questions: Q-704
 
 ---
 
@@ -1118,6 +1124,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the priest and entourage members and obtain terminal sign-in, ramp or CCTV records from Scottsdale FBOs.
+Open Questions: Q-705
 
 ---
 
@@ -1134,6 +1141,7 @@ Mentions: N-3, N-2, N-217
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Locate Elizabeth McCoy's post and the date and wording of Erika Kirk's own account of where she took the doctor's call.
+Open Questions: Q-706
 
 ---
 
@@ -1150,6 +1158,7 @@ Mentions: N-3
 Related Nodes: N-10508
 Tags: relevance:core
 Investigative Direction: Check Hopkinson's business registration, Arizona and Canadian corporate filings and the address it publishes.
+Open Questions: Q-703
 
 ---
 
@@ -1166,6 +1175,7 @@ Mentions: N-3
 Related Nodes: N-10508, N-11105
 Tags: relevance:core
 Investigative Direction: Verify the tenants and building footprints at 14600 N Aircraft Drive through Scottsdale Airport leasing and county parcel records.
+Open Questions: Q-703
 
 ---
 
@@ -1182,6 +1192,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify where and to whom Erika Kirk said this and whether any recording or witness account exists.
+Open Questions: Q-701
 
 ---
 
@@ -1198,6 +1209,7 @@ Mentions: N-3, N-14, N-2, N-330
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain FAA/ADSB records for Santa Barbara and Scottsdale departures on September 10, 2025 and manifests or charter invoices for each leg.
+Open Questions: Q-692
 
 ---
 
@@ -1214,6 +1226,7 @@ Mentions: N-3, N-14, N-2
 Related Nodes: N-10510
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's account to the host with any on-record statement by Andrew Kolvet naming the plane he took.
+Open Questions: Q-692
 
 ---
 
@@ -1230,6 +1243,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10510
 Tags: relevance:core
 Investigative Direction: Find Kolvet's public statement describing a massive plane to himself and match it to a tail number.
+Open Questions: Q-692
 
 ---
 
@@ -1246,6 +1260,7 @@ Mentions: N-3, N-550, N-15, N-14, N-1
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the full Aubrey/Justin thread with carrier timestamps and the company-wide email it refers to.
+Open Questions: Q-697
 
 ---
 
@@ -1262,6 +1277,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the original message with its timestamp and compare its wording with the 3:26 p.m. "on the plane" message.
+Open Questions: Q-695
 
 ---
 
@@ -1279,6 +1295,7 @@ Related Nodes: N-10507
 Revises: C-7296
 Tags: relevance:core
 Investigative Direction: Obtain the Telegram messages and call log between Aubrey and Andrew Kolvet for the afternoon of September 10, 2025.
+Open Questions: Q-695
 
 ---
 
@@ -1311,6 +1328,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10507, N-10510
 Tags: relevance:core
 Investigative Direction: Establish the tail numbers and Wi-Fi equipment of each plane Kolvet flew on September 10, 2025.
+Open Questions: Q-692, Q-707
 
 ---
 
@@ -1327,6 +1345,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Ask the aircraft owner or operator whether the G5 had a Wi-Fi subscription active on September 10, 2025.
+Open Questions: Q-707
 
 ---
 
@@ -1359,6 +1378,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10507
 Tags: relevance:core, DIA
 Investigative Direction: Review the tips inbox for responses from past passengers about the G5's Wi-Fi.
+Open Questions: Q-707
 
 ---
 
@@ -1376,6 +1396,7 @@ Related Nodes: N-10509
 Supports: C-7377
 Tags: relevance:core
 Investigative Direction: Identify the guest interviewed on September 9, 2025 and confirm from the show archive whether it was Ben Shapiro.
+Open Questions: Q-708
 
 ---
 
@@ -1392,6 +1413,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10509
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's text thread with Charlie Kirk for the morning of September 10, 2025 and the hour-two pre-record.
+Open Questions: Q-709
 
 ---
 
@@ -1408,6 +1430,7 @@ Mentions: N-3, N-14, N-1
 Related Nodes: N-10509
 Tags: relevance:core
 Investigative Direction: Compare message timestamps with the 12:23 p.m. shooting time and review whether the hour-two content addressed monogamy.
+Open Questions: Q-709
 
 ---
 
@@ -1488,6 +1511,7 @@ Mentions: N-3, N-213
 Related Nodes: N-10509
 Tags: relevance:core
 Investigative Direction: Check whether Shirley responded publicly or privately and compare with the show's upload and live-stream records.
+Open Questions: Q-710
 
 ---
 
@@ -1504,6 +1528,7 @@ Mentions: N-3
 Related Nodes: N-10509
 Tags: relevance:core, DIA
 Investigative Direction: Review the tip line for responses about the September 10 live show.
+Open Questions: Q-710
 
 ---
 
@@ -1520,6 +1545,7 @@ Mentions: N-3, N-2, N-11
 Related Nodes: N-10360
 Tags: relevance:core
 Investigative Direction: Obtain Bowyer's travel records and a first-person account of his September 10 location.
+Open Questions: Q-711
 
 ---
 
@@ -1536,6 +1562,7 @@ Mentions: N-3, N-14, N-1
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the manifest for Charlie Kirk's plane for September 10, 2025.
+Open Questions: Q-692, Q-696
 
 ---
 
@@ -1552,6 +1579,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10510, N-10507
 Tags: relevance:core
 Investigative Direction: Pull ADSB arrival data for the Santa Barbara-to-Provo flight and compare with Erika Kirk's account of when Andrew arrived.
+Open Questions: Q-692
 
 ---
 
@@ -1568,6 +1596,7 @@ Mentions: N-3, N-14, N-2
 Related Nodes: N-10144, N-10502
 Tags: relevance:core
 Investigative Direction: Compare the sources of the host's entrance account with hospital staff and security accounts.
+Open Questions: Q-327
 
 ---
 
@@ -1616,6 +1645,7 @@ Mentions: N-159, N-14, N-40, N-1
 Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Obtain the lab reports on DNA, caliber and casings from the case file.
+Open Questions: Q-75
 
 ---
 
@@ -1636,6 +1666,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-4
 Investigative Direction: Obtain the sheriff's, family friend and parents' accounts of the surrender.
+Open Questions: Q-34, Q-712
 
 ---
 
@@ -1652,6 +1683,7 @@ Mentions: N-159, N-14, N-40
 Related Nodes: N-10932, N-11360
 Tags: relevance:core
 Investigative Direction: Obtain the charging documents describing the digital messages and any parental statements.
+Open Questions: Q-713
 
 ---
 
@@ -1668,6 +1700,7 @@ Mentions: N-14, N-40
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Compare the May hearing exhibits with what Neff described.
+Open Questions: Q-75, Q-714
 
 ---
 
@@ -1684,6 +1717,7 @@ Mentions: N-14, N-40, N-209
 Related Nodes: N-10501
 Tags: relevance:core
 Investigative Direction: Identify which officials have said this on the record and to which journalists.
+Open Questions: Q-715
 
 ---
 
@@ -1701,6 +1735,7 @@ Related Nodes: N-10932, N-11360
 Supports: C-4003, C-4293
 Tags: relevance:core
 Investigative Direction: Check the court docket for arraignment status and request the surrender recording.
+Open Questions: Q-410, Q-716
 
 ---
 
@@ -1718,6 +1753,7 @@ Related Nodes: N-10567
 Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain the ATF and lab findings on whether the rifle was fired and the bomb dog search records.
+Open Questions: Q-20, Q-75, Q-717
 
 ---
 
@@ -1735,6 +1771,7 @@ Related Nodes: N-10567, N-10336
 Supports: C-4549
 Tags: relevance:core
 Investigative Direction: Obtain the officers' reports on who found the rifle and what directions they were given.
+Open Questions: Q-20
 
 ---
 
@@ -1767,6 +1804,7 @@ Mentions: N-3, N-2, N-14
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's statements in the December meeting with later statements by TPUSA about new evidence.
+Open Questions: Q-685
 
 ---
 
@@ -1816,6 +1854,7 @@ Related Nodes: N-10332
 Supports: C-7247
 Tags: relevance:core
 Investigative Direction: Compare with Kent's own account of the NCTC investigation being halted.
+Open Questions: Q-688
 
 ---
 
@@ -1832,6 +1871,7 @@ Mentions: N-3, N-2
 Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Document the date of the meeting and any evidence TPUSA later publishes.
+Open Questions: Q-685
 
 ---
 
@@ -1894,6 +1934,7 @@ Anchored Artifacts: A-2944.3
 Mentions: N-3, N-2, N-159, N-14, N-1
 Tags: relevance:core
 Investigative Direction: Find the original statement by a TPUSA spokesperson in the days after September 10 and the donor identity.
+Open Questions: Q-718
 
 ---
 
@@ -1909,6 +1950,7 @@ Anchored Artifacts:
 Mentions: N-3, N-496
 Tags: relevance:core
 Investigative Direction: Check board and donor records and the call log for Erika Kirk.
+Open Questions: Q-718
 
 ---
 
@@ -1941,6 +1983,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2
 Tags: relevance:core
 Investigative Direction: Identify which emoji messages, Zoom call and merch the host means.
+Open Questions: Q-719
 
 ---
 

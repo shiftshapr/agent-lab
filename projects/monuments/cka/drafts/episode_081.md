@@ -1002,6 +1002,7 @@ Mentions: N-3, N-209, N-2
 Related Nodes: N-10501, N-10505
 Tags: relevance:core
 Investigative Direction: Identify which Kent statement the host means and whether any TPUSA officer has tied the attacks on Kent to it.
+Open Questions: Q-687
 
 ---
 
@@ -1018,6 +1019,7 @@ Mentions: N-209, N-1
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Obtain FBI statements or inter-agency correspondence on the transfer of the investigation to Utah authorities and the NCTC's stand-down.
+Open Questions: Q-688
 
 ---
 
@@ -1034,6 +1036,7 @@ Mentions: N-209
 Related Nodes: N-10194, N-10501
 Tags: relevance:core
 Investigative Direction: Ask Kent, or review any NCTC tasking records he is free to release, for what leads were left open when the stand-down occurred.
+Open Questions: Q-688
 
 ---
 
@@ -1050,6 +1053,7 @@ Mentions: N-209, N-1
 Related Nodes: N-10053, N-10157
 Tags: relevance:core
 Investigative Direction: Compare Kent's characterization with the full authenticated text of the leaked group-chat messages and the donors involved.
+Open Questions: Q-2
 
 ---
 
@@ -1082,6 +1086,7 @@ Mentions: N-209, N-69, N-3
 Related Nodes: N-10194, N-10332
 Tags: relevance:core
 Investigative Direction: Obtain the full Carlson interview transcript and any FBI or Patel response specifying which leads were not pursued.
+Open Questions: Q-688
 
 ---
 
@@ -1147,6 +1152,7 @@ Mentions: N-209, N-2, N-99, N-3
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Ask Clark or TPUSA for the specific statements or messages by Kent that they say degraded Erika; search Kent's public record for any such remark.
+Open Questions: Q-687
 
 ---
 
@@ -1179,6 +1185,7 @@ Mentions: N-209, N-2, N-3
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: The host's source records and Kent's own account are the only checks; ask Kent and Loomer for any evidence of the alleged leak.
+Open Questions: Q-689
 
 ---
 
@@ -1195,6 +1202,7 @@ Mentions: N-14
 Related Nodes: N-10157, N-10198
 Tags: relevance:core
 Investigative Direction: Obtain the full Charlie Kirk Show segment, identify the speaker, and verify the membership of the nine-person group chat.
+Open Questions: Q-689
 
 ---
 
@@ -1211,6 +1219,7 @@ Mentions: N-14
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Find the earlier Kolvet broadcast where he said he gave the messages to someone in government and compare his wording with this account.
+Open Questions: Q-689
 
 ---
 
@@ -1227,6 +1236,7 @@ Mentions: N-14, N-209, N-3
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what verification was done; the host denies the chain, so compare with her account of how she obtained the chat.
+Open Questions: Q-689
 
 ---
 
@@ -1243,6 +1253,7 @@ Mentions: N-14, N-209
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Ask Kolvet who told him Kent could be trusted and what messages he exchanged with Kent about the screen grabs.
+Open Questions: Q-689
 
 ---
 
@@ -1291,6 +1302,7 @@ Mentions: N-14, N-209
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Date Kolvet's exchange with Kent and the first public appearance of the screen grabs to establish the gap.
+Open Questions: Q-689
 
 ---
 
@@ -1307,6 +1319,7 @@ Mentions: N-14, N-209
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Compare with the claim in the earlier clip that TPUSA verified Kent as the source; ask TPUSA to reconcile the two statements.
+Open Questions: Q-689
 
 ---
 
@@ -1323,6 +1336,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10198, N-10505
 Tags: relevance:core
 Investigative Direction: Obtain any messages or call records between the host and Kolvet that mention the chat; ask the other people Kolvet allegedly told.
+Open Questions: Q-689
 
 ---
 
@@ -1355,6 +1369,7 @@ Mentions: N-3, N-46, N-22, N-1
 Related Nodes: N-10143, N-10053
 Tags: relevance:core
 Investigative Direction: Gather the on-air statements by each of the three and the corroborating texts and witnesses about Charlie's evolving position.
+Open Questions: Q-2
 
 ---
 
@@ -1387,6 +1402,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10157, N-10318, N-10198
 Tags: relevance:core
 Investigative Direction: Find the TPUSA or Hammer statements acknowledging the pre-assassination communication, with dates, to confirm the admission and its timing.
+Open Questions: Q-690
 
 ---
 
@@ -1403,6 +1419,7 @@ Mentions: N-1, N-14, N-2, N-3
 Related Nodes: N-10318, N-10558
 Tags: relevance:core
 Investigative Direction: Obtain the texts to security and Kolvet and Erika Kirk's original public denial to compare wording and dates.
+Open Questions: Q-171
 
 ---
 
@@ -1436,6 +1453,7 @@ Mentions: N-164, N-1
 Related Nodes: N-10053, N-10143
 Tags: relevance:core
 Investigative Direction: Identify the rabbi (the host names Rabbi Wolicki a minute later in the show), find the original statement and compare it with the pre-assassination texts.
+Open Questions: Q-2, Q-691
 
 ---
 
@@ -1452,6 +1470,7 @@ Mentions: N-164, N-15, N-14, N-1
 Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Obtain call logs or calendar entries for September 5 and ask Wolicki, Streiff and Kolvet what the call covered.
+Open Questions: Q-691
 
 ---
 
@@ -1484,6 +1503,7 @@ Mentions: N-14, N-3, N-1
 Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the host's notes or messages from the September 10 conversations and the flight manifests for all TPUSA-related flights into Provo that day.
+Open Questions: Q-692
 
 ---
 
@@ -1500,6 +1520,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Seek airport footage of the Provo tarmac on September 10 and any other account of the meeting between Kolvet and Erika Kirk.
+Open Questions: Q-327
 
 ---
 
@@ -1516,6 +1537,7 @@ Mentions: N-14, N-1, N-3
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: The conversation exists only in the host's memory; ask Kolvet to state which plane he took and compare with manifests.
+Open Questions: Q-692
 
 ---
 
@@ -1532,6 +1554,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's successive public and private accounts of his travel and the wife's flight, with manifests.
+Open Questions: Q-692
 
 ---
 
@@ -1548,6 +1571,7 @@ Mentions: N-3, N-2, N-15, N-14
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Obtain the recording or notes of the host's interview with Erika Kirk and Streiff for the plane questions.
+Open Questions: Q-693
 
 ---
 
@@ -1564,6 +1588,7 @@ Mentions: N-15, N-14, N-3
 Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Request the charter booking records Streiff arranged and the passenger lists for each leg.
+Open Questions: Q-693
 
 ---
 
@@ -1580,6 +1605,7 @@ Mentions: N-15, N-14, N-3
 Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the text message from Streiff to the host with its date and compare it with manifests and his in-person answer.
+Open Questions: Q-693
 
 ---
 
@@ -1596,6 +1622,7 @@ Mentions: N-2, N-3, N-14
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk whether she recalls the wife being present at the tarmac meeting.
+Open Questions: Q-327, Q-693
 
 ---
 
@@ -1612,6 +1639,7 @@ Mentions: N-2, N-14, N-3
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Establish when Erika Kirk landed in Provo, when she arrived at the hospital, and when Kolvet's plane landed.
+Open Questions: Q-327, Q-694
 
 ---
 
@@ -1628,6 +1656,7 @@ Mentions: N-14, N-1, N-3
 Related Nodes: N-10507, N-10502
 Tags: relevance:core
 Investigative Direction: Obtain the manifest and flight track for Charlie's plane (Scottsdale to Provo) and Kolvet's boarding record.
+Open Questions: Q-692
 
 ---
 
@@ -1661,6 +1690,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Find Kolvet's own public statement of this itinerary and the FAA record of the Santa Barbara departure.
+Open Questions: Q-692
 
 ---
 
@@ -1677,6 +1707,7 @@ Mentions: N-3
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Check the chat export's time-zone metadata to confirm the offset and the corrected times.
+Open Questions: Q-695
 
 ---
 
@@ -1693,6 +1724,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Check the chat export for the message and compare with TPUSA's first public confirmation time.
+Open Questions: Q-695
 
 ---
 
@@ -1709,6 +1741,7 @@ Mentions: N-15, N-14, N-493, N-550
 Related Nodes: N-10506
 Tags: relevance:core
 Investigative Direction: Verify the member list from the chat export.
+Open Questions: Q-695
 
 ---
 
@@ -1741,6 +1774,7 @@ Mentions: N-14
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Identify who Morgan is and confirm the request and the 3:25 reply in the chat export.
+Open Questions: Q-695
 
 ---
 
@@ -1773,6 +1807,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Match the chat times with the flight track and manifest of Charlie's plane.
+Open Questions: Q-692, Q-696
 
 ---
 
@@ -1789,6 +1824,7 @@ Mentions: N-2, N-11, N-217, N-186
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest and FAA track for the Scottsdale to Provo flight.
+Open Questions: Q-696
 
 ---
 
@@ -1805,6 +1841,7 @@ Mentions: N-493, N-550, N-14
 Related Nodes: N-10506, N-10507
 Tags: relevance:core
 Investigative Direction: Ask Aubrey or Marina for the call content; the wording is the host's paraphrase.
+Open Questions: Q-697
 
 ---
 
@@ -1870,6 +1907,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the staff email with header timestamp and compare with the first public announcement.
+Open Questions: Q-697
 
 ---
 
@@ -1886,6 +1924,7 @@ Mentions: N-550, N-14
 Related Nodes: N-10507, N-10506
 Tags: relevance:core
 Investigative Direction: Check the full chat export for the 3:49 message and its recipient.
+Open Questions: Q-697
 
 ---
 
@@ -1902,6 +1941,7 @@ Mentions: N-15, N-14
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Confirm the 3:52 message in the chat export and ask Streiff what he knew of Kolvet's whereabouts.
+Open Questions: Q-695
 
 ---
 
@@ -1918,6 +1958,7 @@ Mentions: N-14
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Confirm the 4:25 message in the chat export and compare with Kolvet's stated location and flight time.
+Open Questions: Q-695
 
 ---
 
@@ -1935,6 +1976,7 @@ Related Nodes: N-10503, N-10239
 Supports: C-2924
 Tags: relevance:core
 Investigative Direction: Match the ADS-B record for the Egyptian aircraft at Provo on September 10 with any TPUSA or airport account.
+Open Questions: Q-277
 
 ---
 
@@ -1967,6 +2009,7 @@ Mentions: N-159, N-190, N-2, N-17
 Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call log for the minutes after the shot and the full Neff interview.
+Open Questions: Q-212
 
 ---
 
@@ -1983,6 +2026,7 @@ Mentions: N-15, N-14
 Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Confirm the message and its timestamp in the chat export; ask Streiff who AK was on the ground from.
+Open Questions: Q-695
 
 ---
 
@@ -1999,6 +2043,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10089, N-10507
 Tags: relevance:core
 Investigative Direction: Identify the tail number of the Yrefy-sponsored plane and the booking company; compare with the host's interview notes.
+Open Questions: Q-698
 
 ---
 
@@ -2031,6 +2076,7 @@ Mentions:
 Related Nodes: N-10503, N-10089
 Tags: relevance:core
 Investigative Direction: Overlay the ADS-B timestamps for the Yrefy plane's landings and the Egyptian aircraft's transponding.
+Open Questions: Q-277, Q-698
 
 ---
 
@@ -2128,6 +2174,7 @@ Mentions: N-2, N-268
 Related Nodes: N-10079, N-10376
 Tags: relevance:core
 Investigative Direction: Identify the documentary, its producer, who appears in it and any CIA statement on its production.
+Open Questions: Q-699
 
 ---
 
@@ -2145,6 +2192,7 @@ Related Nodes: N-11032
 Supports: C-4630
 Tags: relevance:core
 Investigative Direction: Find the source video, its date and sponsor, and Erika's mother's company filings on EMP work.
+Open Questions: Q-700
 
 ---
 
@@ -2161,6 +2209,7 @@ Mentions: N-3, N-1, N-209
 Related Nodes: N-10143, N-10053
 Tags: relevance:core
 Investigative Direction: Seek independent corroboration of the host's conversations with Charlie, such as messages or witnesses.
+Open Questions: Q-2
 
 ---
 
@@ -2210,6 +2259,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10558
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's own statement saying she felt no fear and its date.
+Open Questions: Q-701
 
 ---
 
@@ -2242,6 +2292,7 @@ Mentions: N-3, N-209, N-14
 Related Nodes: N-10505, N-10198
 Tags: relevance:core
 Investigative Direction: The host's own communications records would be the check; ask Kent and Kolvet to confirm the sequence.
+Open Questions: Q-689
 
 ---
 
@@ -2274,6 +2325,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10157, N-10318, N-10053
 Tags: relevance:core
 Investigative Direction: Compare the pre-assassination group-chat exchange with later public statements by its participants.
+Open Questions: Q-2
 
 ---
 

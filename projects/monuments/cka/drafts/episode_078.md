@@ -1429,6 +1429,7 @@ Related Nodes: N-10478
 Supports: C-6857, C-6860
 Tags: relevance:core
 Investigative Direction: Identify the sources and obtain their statements; match the white building to property-management records for Next Model Management apartments.
+Open Questions: Q-663
 
 ---
 
@@ -1445,6 +1446,7 @@ Mentions: N-581, N-9
 Related Nodes: N-10487, N-10478
 Tags: relevance:core
 Investigative Direction: Pull New York City property records (ACRIS) for the building viewers identified and its ownership chain; confirm the street address and whether it is 301 East 66th Street.
+Open Questions: Q-663
 
 ---
 
@@ -1701,6 +1703,7 @@ Related Nodes: N-10479, N-10303
 Supports: C-6833, C-6825
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor logs for the day before the Epstein file release showing Kolvet and other TPUSA attendees.
+Open Questions: Q-553
 
 ---
 
@@ -1718,6 +1721,7 @@ Related Nodes: N-10479
 Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Obtain the episode's air time and metadata and communications between Patel's office and TPUSA about the show.
+Open Questions: Q-643
 
 ---
 
@@ -1735,6 +1739,7 @@ Related Nodes: N-10479
 Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Compare the live show audio and call-in metadata with the participants' physical locations that day.
+Open Questions: Q-643
 
 ---
 
@@ -1928,6 +1933,7 @@ Anchored Artifacts: A-2523.1
 Mentions: N-2, N-211, N-1
 Tags: relevance:core
 Investigative Direction: Obtain the full Fox News interview and confirm the quoted passage and date.
+Open Questions: Q-396
 
 ---
 
@@ -1943,6 +1949,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Ask the host to name the individuals she means and compare with TPUSA leadership appointments since September 10.
+Open Questions: Q-671
 
 ---
 
@@ -1958,6 +1965,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Ask the host for the evidence underlying the occult-ceremony claim; no document is cited in the episode.
+Open Questions: Q-631, Q-632
 
 ---
 
@@ -1973,6 +1981,7 @@ Anchored Artifacts: A-1841.2
 Related Nodes: N-10491
 Tags: relevance:core
 Investigative Direction: Find the TPUSA or witness account of the gauze and supplies used in the transport vehicle.
+Open Questions: Q-672
 
 ---
 
@@ -1988,6 +1997,7 @@ Anchored Artifacts: A-1841.3
 Related Nodes: N-10491
 Tags: relevance:core
 Investigative Direction: Have the photo compared against Instaclot packaging and obtain the original image with metadata.
+Open Questions: Q-672
 
 ---
 
@@ -2003,6 +2013,7 @@ Anchored Artifacts: A-1841.3
 Related Nodes: N-10491
 Tags: relevance:core
 Investigative Direction: Obtain all vehicle interior photos and the inventory of medical supplies used on September 10.
+Open Questions: Q-672
 
 ---
 
@@ -2020,6 +2031,7 @@ Related Nodes: N-10324, N-10736
 Supports: C-4567
 Tags: relevance:core
 Investigative Direction: Obtain the call record or the host's notes of the call and Farnsworth's own account of file handling.
+Open Questions: Q-673
 
 ---
 
@@ -2036,6 +2048,7 @@ Mentions: N-261, N-489
 Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Identify the relationship and any business records linking the Farnsworth family and Lori Frantzve from 2013.
+Open Questions: Q-674
 
 ---
 
@@ -2052,6 +2065,7 @@ Mentions: N-261
 Related Nodes: N-10736, N-11127
 Tags: relevance:core
 Investigative Direction: Find the TPUSA statement that it lacked the footage and compare with Farnsworth's account of what he held and shared.
+Open Questions: Q-673, Q-675
 
 ---
 
@@ -2068,6 +2082,7 @@ Mentions: N-1
 Related Nodes: N-10490
 Tags: relevance:core
 Investigative Direction: Obtain the unedited footage and have a forensic video analyst examine the shirt frame by frame.
+Open Questions: Q-673, Q-676
 
 ---
 
@@ -2086,6 +2101,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Compare with the autopsy report and any official statement on entry and exit wounds.
+Open Questions: Q-64
 
 ---
 
@@ -2103,6 +2119,7 @@ Related Nodes: N-10492
 Supports: C-4213
 Tags: relevance:core
 Investigative Direction: Locate Frank Turek's original telling and compare it with the earlier necklace account.
+Open Questions: Q-677
 
 ---
 
@@ -2119,6 +2136,7 @@ Mentions: N-7, N-1
 Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Request FBI evidence logs for the vehicle search and any item list that includes the necklace.
+Open Questions: Q-677
 
 ---
 
@@ -2136,6 +2154,7 @@ Related Nodes: N-10492
 Supports: C-5407
 Tags: relevance:core
 Investigative Direction: Collect each public Erika account of the necklace and its return and compare them.
+Open Questions: Q-677
 
 ---
 
@@ -2153,6 +2172,7 @@ Related Nodes: N-10490
 Supports: C-7031
 Tags: relevance:core
 Investigative Direction: Ask a forensic pathologist to review the footage and the autopsy for the direction of blood travel.
+Open Questions: Q-64, Q-676
 
 ---
 
@@ -2169,6 +2189,7 @@ Mentions: N-681
 Related Nodes: N-10907, N-10492
 Tags: relevance:core
 Investigative Direction: Obtain Bray's written analysis of the clasp and what was attached behind it.
+Open Questions: Q-677, Q-678
 
 ---
 
@@ -2185,6 +2206,7 @@ Mentions: N-681
 Related Nodes: N-10641, N-10907
 Tags: relevance:core
 Investigative Direction: Compare the van interior photos with the Rode microphone model and identify the glass fragments.
+Open Questions: Q-678
 
 ---
 
@@ -2201,6 +2223,7 @@ Mentions: N-1
 Related Nodes: N-10490
 Tags: relevance:core
 Investigative Direction: Have analysts enhance the footage for any blood on the table, clothing or microphone.
+Open Questions: Q-676
 
 ---
 
@@ -2248,6 +2271,7 @@ Mentions: N-11, N-2, N-489
 Related Nodes: N-10843
 Tags: relevance:core
 Investigative Direction: Pull Turning Point Action FEC disbursements to Superfeed and Superfeed's ownership records.
+Open Questions: Q-666
 
 ---
 
@@ -2477,6 +2501,7 @@ Anchored Artifacts:
 Mentions: N-1
 Tags: relevance:core
 Investigative Direction: Ask the host to specify which official statements she holds to be false and which agencies she means.
+Open Questions: Q-679
 
 ---
 
@@ -2508,6 +2533,7 @@ Mentions: N-681
 Related Nodes: N-10906, N-10697
 Tags: relevance:core
 Investigative Direction: Obtain Bray's published work on the explosion and the microphone theory.
+Open Questions: Q-678
 
 ---
 
@@ -2588,6 +2614,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10478
 Tags: relevance:core, dia
 Investigative Direction: Check whether any model or employee responses are aired in later episodes and whether they corroborate the property-management claim.
+Open Questions: Q-663
 
 ---
 
@@ -2637,6 +2664,7 @@ Related Nodes: N-10297, N-10272
 Supports: C-4266
 Tags: relevance:core
 Investigative Direction: Request any White House or State Department statement on French personnel in the United States on September 10, 2025.
+Open Questions: Q-680
 
 ---
 

@@ -839,6 +839,7 @@ Mentions: N-2, N-40, N-1
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Locate the original interview in which Erika Kirk was asked this question and confirm date and outlet.
+Open Questions: Q-1012
 
 ---
 
@@ -855,6 +856,7 @@ Mentions: N-3, N-2, N-40, N-1
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare the host's private interview with Erika to the evidence presented at the preliminary hearing.
+Open Questions: Q-1012
 
 ---
 
@@ -871,6 +873,7 @@ Mentions: N-3
 Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Obtain the released video and its provenance; compare with the preliminary hearing exhibits.
+Open Questions: Q-953
 
 ---
 
@@ -889,6 +892,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-11567
 Investigative Direction: Pull the filed memorandum from the court docket and identify which party filed it and when.
+Open Questions: Q-1031, Q-1032
 
 ---
 
@@ -905,6 +909,7 @@ Mentions: N-3
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Identify which influencers attended the preliminary hearing and who invited them; compare their public accounts with the exhibits.
+Open Questions: Q-937, Q-1012
 
 ---
 
@@ -921,6 +926,7 @@ Mentions: N-3
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Find who coordinated influencer attendance at the hearing and any instructions given to them.
+Open Questions: Q-937, Q-1012
 
 ---
 
@@ -937,6 +943,7 @@ Mentions: N-3, N-267
 Related Nodes: N-10165, N-10698
 Tags: relevance:core
 Investigative Direction: Compare the rooftop footage frame by frame with the position, angle and timing of the fatal shot.
+Open Questions: Q-27
 
 ---
 
@@ -953,6 +960,7 @@ Mentions: N-3
 Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Have a ballistics expert assess whether muzzle blast would disturb roof gravel at that position and distance.
+Open Questions: Q-27
 
 ---
 
@@ -969,6 +977,7 @@ Mentions: N-3
 Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Interview the person who recorded the rooftop video and review the raw file for any weapon.
+Open Questions: Q-953, Q-1022
 
 ---
 
@@ -985,6 +994,7 @@ Mentions: N-159, N-40
 Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Check the docket for the defense motion seeking to limit public release of the rooftop exhibit.
+Open Questions: Q-1033
 
 ---
 
@@ -1002,6 +1012,7 @@ Related Nodes: N-10691
 Qualifies: C-11521
 Tags: relevance:core
 Investigative Direction: Ask the prosecution and court whether a second rooftop angle exists in the exhibit list.
+Open Questions: Q-1033
 
 ---
 
@@ -1018,6 +1029,7 @@ Mentions: N-159, N-40
 Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Measure resolvable detail in the rooftop clip at the camera-to-subject distance.
+Open Questions: Q-1022
 
 ---
 
@@ -1034,6 +1046,7 @@ Mentions: N-159, N-40
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Obtain the campus footage exhibits and any statement from Tyler Robinson's parents about identification.
+Open Questions: Q-1022
 
 ---
 
@@ -1051,6 +1064,7 @@ Related Nodes: N-10106
 Contradicts: C-11525
 Tags: relevance:core
 Investigative Direction: Check charging documents and hearing testimony for any parental identification from footage.
+Open Questions: Q-1022
 
 ---
 
@@ -1067,6 +1081,7 @@ Mentions: N-3, N-159, N-40
 Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Review the car-arrival footage exhibit and any plate or vehicle-match analysis.
+Open Questions: Q-1022
 
 ---
 
@@ -1083,6 +1098,7 @@ Mentions: N-159, N-1
 Related Nodes: N-10690
 Tags: relevance:core
 Investigative Direction: Compare the autopsy's wound trajectory description with the rooftop and Charlie's seat positions.
+Open Questions: Q-27, Q-1031
 
 ---
 
@@ -1099,6 +1115,7 @@ Mentions: N-159
 Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Consult a firearms expert on visible recoil of a rifle fired prone from a rooftop.
+Open Questions: Q-27
 
 ---
 
@@ -1116,6 +1133,7 @@ Related Nodes: N-10691
 Supports: C-11530
 Tags: relevance:core
 Investigative Direction: Identify the show and speakers, and obtain the court exhibit list to see whether a second angle was admitted.
+Open Questions: Q-1033
 
 ---
 
@@ -1132,6 +1150,7 @@ Mentions: N-3, N-40
 Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Collect the influencers' original posts describing the footage as 4K and identifying Tyler.
+Open Questions: Q-937, Q-1033
 
 ---
 
@@ -1148,6 +1167,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Collect early TPUSA and family statements and posts about Charlie's body, transport and viewing.
+Open Questions: Q-1034
 
 ---
 
@@ -1165,6 +1185,7 @@ Related Nodes: N-10193
 Tags: relevance:core
 Revises: C-5717
 Investigative Direction: Ask Elizabeth McCoy or Erika's team who filmed the casket video, and check the metadata of the posted clip.
+Open Questions: Q-1015
 
 ---
 
@@ -1181,6 +1202,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Check the casket video's capture time and location against the Sept 10 to 12 travel records.
+Open Questions: Q-1015
 
 ---
 
@@ -1198,6 +1220,7 @@ Related Nodes: N-10193
 Supports: C-3906
 Tags: relevance:core
 Investigative Direction: Compare the post date with the capture date and where the casket was on each day.
+Open Questions: Q-1015, Q-1034
 
 ---
 
@@ -1214,6 +1237,7 @@ Mentions: N-1
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Confirm the date, church and officiant of the funeral mass from parish and TPUSA announcements.
+Open Questions: Q-520, Q-1034
 
 ---
 
@@ -1230,6 +1254,7 @@ Mentions: N-3
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Obtain parish schedule and accounts from parishioners who saw the hearse.
+Open Questions: Q-520
 
 ---
 
@@ -1278,6 +1303,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Compile TPUSA's early statements on Charlie's faith and their timing.
+Open Questions: Q-253
 
 ---
 
@@ -1295,6 +1321,7 @@ Related Nodes: N-10328
 Supports: C-11541
 Tags: relevance:core
 Investigative Direction: Obtain the full Alex Clark interview.
+Open Questions: Q-253
 
 ---
 
@@ -1311,6 +1338,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Obtain the unedited recording and Kolvet's and Erika's messages during the taping.
+Open Questions: Q-253
 
 ---
 
@@ -1328,6 +1356,7 @@ Related Nodes: N-10193
 Qualifies: C-11541
 Tags: relevance:core
 Investigative Direction: Establish the recording date of the Alex Clark episode against the Sept 20 funeral mass.
+Open Questions: Q-253, Q-520
 
 ---
 
@@ -1344,6 +1373,7 @@ Mentions: N-3
 Related Nodes: N-10689
 Tags: relevance:core
 Investigative Direction: Identify what in the tip has been independently verified and by whom.
+Open Questions: Q-1034
 
 ---
 
@@ -1360,6 +1390,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10689, N-10692
 Tags: relevance:core
 Investigative Direction: Ask Hansen Mortuary whether it was asked to host or arrange a mock burial; obtain the text messages the host says she read.
+Open Questions: Q-816, Q-1034
 
 ---
 
@@ -1376,6 +1407,7 @@ Mentions: N-3
 Related Nodes: N-10689
 Tags: relevance:core
 Investigative Direction: Obtain or have an independent party review the text messages the host describes.
+Open Questions: Q-1034
 
 ---
 
@@ -1392,6 +1424,7 @@ Mentions: N-3
 Related Nodes: N-10689, N-10692
 Tags: relevance:core
 Investigative Direction: Identify which funeral homes or churches TPUSA contacted and what was requested.
+Open Questions: Q-816, Q-1034
 
 ---
 
@@ -1408,6 +1441,7 @@ Mentions: N-2
 Related Nodes: N-10193, N-10220
 Tags: relevance:core
 Investigative Direction: Identify the priest and the arrangements made between the family and the parish.
+Open Questions: Q-95, Q-520
 
 ---
 
@@ -1424,6 +1458,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10220
 Tags: relevance:core
 Investigative Direction: Check flight and travel records for the priest and for Erika's family members on Sept 10 to 11.
+Open Questions: Q-95
 
 ---
 
@@ -1441,6 +1476,7 @@ Related Nodes: N-10220
 Supports: C-2426
 Tags: relevance:core
 Investigative Direction: Review event footage and credential lists for the priest at Ole Miss.
+Open Questions: Q-95
 
 ---
 
@@ -1457,6 +1493,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Interview attendees of the funeral mass about the casket's condition.
+Open Questions: Q-520
 
 ---
 
@@ -1473,6 +1510,7 @@ Mentions: N-1
 Related Nodes: N-10681, N-10193
 Tags: relevance:core
 Investigative Direction: Identify the cemetery and attendees and obtain interment permits.
+Open Questions: Q-520, Q-816
 
 ---
 
@@ -1489,6 +1527,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Request cemetery plot, grave opening and interment records.
+Open Questions: Q-816
 
 ---
 
@@ -1506,6 +1545,7 @@ Related Nodes: N-10681
 Supports: C-3904
 Tags: relevance:core
 Investigative Direction: Interview attendees about what they were told at the cemetery and who told them.
+Open Questions: Q-816
 
 ---
 
@@ -1522,6 +1562,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Ask funeral attendees whether any witnessed interment.
+Open Questions: Q-816
 
 ---
 
@@ -1538,6 +1579,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10689
 Tags: relevance:core
 Investigative Direction: Identify the friend and the cemetery or church role in the ceremony.
+Open Questions: Q-816
 
 ---
 
@@ -1554,6 +1596,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Seek cremation authorization or death certificate disposition fields.
+Open Questions: Q-816
 
 ---
 
@@ -1571,6 +1614,7 @@ Related Nodes: N-10689, N-10193
 Tags: relevance:core
 Revises: C-1974
 Investigative Direction: Compare the family's stated reasons for the Catholic mass with the parish record.
+Open Questions: Q-816
 
 ---
 
@@ -1602,6 +1646,7 @@ Anchored Artifacts:
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Track which later episodes release the material she says is being held back.
+Open Questions: Q-816
 
 ---
 
@@ -1620,6 +1665,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2, S-3, S-5
 Investigative Direction: Review the exhibit list and item logs for any screwdriver recovered from the roof.
+Open Questions: Q-972
 
 ---
 
@@ -1636,6 +1682,7 @@ Mentions: N-506, N-159
 Related Nodes: N-10660, N-10086
 Tags: relevance:core
 Investigative Direction: Obtain Bagley's body-cam records and activation logs for that day.
+Open Questions: Q-972
 
 ---
 
@@ -1670,6 +1717,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Check the docket to confirm the filing party and date.
+Open Questions: Q-1031, Q-1032
 
 ---
 
@@ -1686,6 +1734,7 @@ Mentions: N-14, N-1
 Related Nodes: N-10319, N-10690
 Tags: relevance:core
 Investigative Direction: Find Kolvet's earlier description and compare to the autopsy trajectory.
+Open Questions: Q-1031
 
 ---
 
@@ -1703,6 +1752,7 @@ Related Nodes: N-10690
 Qualifies: C-11570
 Tags: relevance:core
 Investigative Direction: Ask an independent forensic pathologist whether post-mortem hemorrhage of this kind can occur.
+Open Questions: Q-1006, Q-1031
 
 ---
 
@@ -1719,6 +1769,7 @@ Mentions: N-7, N-1
 Related Nodes: N-10625
 Tags: relevance:core
 Investigative Direction: Obtain Turek's original statement and the CPR timeline.
+Open Questions: Q-1006
 
 ---
 
@@ -1735,6 +1786,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10690
 Tags: relevance:core
 Investigative Direction: Locate Erika's statement and compare it with medical and EMS timelines.
+Open Questions: Q-1006
 
 ---
 
@@ -1751,6 +1803,7 @@ Mentions: N-1
 Related Nodes: N-10690
 Tags: relevance:core
 Investigative Direction: Review the hospital records and treatment timeline.
+Open Questions: Q-1006, Q-1031
 
 ---
 
@@ -1767,6 +1820,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10697, N-10690
 Tags: relevance:core
 Investigative Direction: Examine the microphone, shirt and chest injuries for blast or impact evidence.
+Open Questions: Q-27, Q-1031
 
 ---
 
@@ -1783,6 +1837,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10690, N-10697
 Tags: relevance:core
 Investigative Direction: Review autopsy photographs and external examination notes.
+Open Questions: Q-1031
 
 ---
 
@@ -1800,6 +1855,7 @@ Related Nodes: N-10698
 Supports: C-11517
 Tags: relevance:core
 Investigative Direction: Reconstruct the shot geometry and compare with the rooftop footage.
+Open Questions: Q-27
 
 ---
 
@@ -1816,6 +1872,7 @@ Mentions: N-3
 Related Nodes: N-10165, N-10698
 Tags: relevance:core
 Investigative Direction: Identify the rooftop person and any military or contractor ties.
+Open Questions: Q-1022
 
 ---
 
@@ -1832,6 +1889,7 @@ Mentions: N-3
 Related Nodes: N-10655
 Tags: relevance:core
 Investigative Direction: Ask the prosecution and the witnesses whether any contact has occurred.
+Open Questions: Q-953
 
 ---
 
@@ -1850,6 +1908,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-11581
 Investigative Direction: Pull exhibits 12.1 and 12.4 from the hearing record.
+Open Questions: Q-972
 
 ---
 
@@ -1869,6 +1928,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2, S-3
 Investigative Direction: Compare exhibits and property logs with that claim.
+Open Questions: Q-972
 
 ---
 
@@ -1885,6 +1945,7 @@ Mentions: N-159, N-367, N-3
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Review Neff's accounts of Sept 10 against vehicle and driver records.
+Open Questions: Q-943
 
 ---
 
@@ -1901,6 +1962,7 @@ Mentions: N-3, N-14, N-1
 Supports: C-4881
 Tags: relevance:core
 Investigative Direction: Obtain the text and any reply from Kolvet.
+Open Questions: Q-1003
 
 ---
 
@@ -1964,6 +2026,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7, S-11
 Investigative Direction: Check the charging documents and prosecutor's notice regarding capital charges.
+Open Questions: Q-1035
 
 ---
 
@@ -1979,6 +2042,7 @@ Anchored Artifacts:
 Mentions: N-159, N-3, N-40
 Tags: relevance:core
 Investigative Direction: Locate Neff's original statements calling for conviction.
+Open Questions: Q-1035
 
 ---
 
@@ -1995,6 +2059,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10690, N-10697
 Tags: relevance:core
 Investigative Direction: Have a physicist or forensic expert analyze the shot video.
+Open Questions: Q-27
 
 ---
 

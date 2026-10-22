@@ -1003,6 +1003,7 @@ Related Nodes: N-10289
 Supports: C-3610
 Tags: relevance:core
 Investigative Direction: Pull the timestamp of Neff's invitation post on X and compare it with when the host first responded publicly.
+Open Questions: Q-375
 
 ---
 
@@ -1019,6 +1020,7 @@ Mentions: N-159, N-1, N-3
 Related Nodes: N-10289, N-10000
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA's earlier statements and staff messages about whether and when it chose not to respond.
+Open Questions: Q-376
 
 ---
 
@@ -1035,6 +1037,7 @@ Mentions: N-159
 Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Obtain the Wednesday show audio and any internal scheduling messages showing when December 15 was chosen.
+Open Questions: Q-375
 
 ---
 
@@ -1051,6 +1054,7 @@ Mentions: N-159, N-3
 Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Compare with the text of the original Wednesday statement to see whether in-person attendance was stated then.
+Open Questions: Q-375
 
 ---
 
@@ -1067,6 +1071,7 @@ Mentions: N-159, N-3
 Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Find the host's earlier public statement or message using the phrase and compare it with the December announcement.
+Open Questions: Q-375
 
 ---
 
@@ -1083,6 +1088,7 @@ Mentions: N-159, N-3
 Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Check whether TPUSA sent the host or her team any direct notice before the public post.
+Open Questions: Q-375
 
 ---
 
@@ -1099,6 +1105,7 @@ Mentions: N-14, N-159
 Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Watch the December 5 Charlie Kirk Show video to confirm whether Kolvet appeared remotely.
+Open Questions: Q-375
 
 ---
 
@@ -1132,6 +1139,7 @@ Related Nodes: N-10289, N-10000
 Supports: C-3668
 Tags: relevance:core
 Investigative Direction: Compare the original December 3 statement and TPUSA posts for any mention of an in-person condition or a deadline.
+Open Questions: Q-375
 
 ---
 
@@ -1165,6 +1173,7 @@ Related Nodes: N-10289
 Supports: C-3668
 Tags: relevance:core
 Investigative Direction: Obtain the original statement text and video to verify the wording.
+Open Questions: Q-375
 
 ---
 
@@ -1182,6 +1191,7 @@ Related Nodes: N-10289
 Supports: C-3655
 Tags: relevance:core
 Investigative Direction: Obtain the statement text and check whether it used the word Antifa for the host's audience.
+Open Questions: Q-376
 
 ---
 
@@ -1198,6 +1208,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Ask TPUSA whether Erika Kirk was to appear at the December 15 live stream.
+Open Questions: Q-375
 
 ---
 
@@ -1245,6 +1256,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Tags: relevance:core
 Investigative Direction: Treat as the host's stated belief; nothing in this passage is documented evidence.
+Open Questions: Q-21
 
 ---
 
@@ -1291,6 +1303,7 @@ Mentions: N-1, N-908, N-3
 Supports: C-3674
 Tags: relevance:core
 Investigative Direction: Treat as the host's belief; the analogy itself is not evidence.
+Open Questions: Q-21
 
 ---
 
@@ -1307,6 +1320,7 @@ Mentions: N-3
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Catalog each frame the host showed and match the people to named attendees.
+Open Questions: Q-351
 
 ---
 
@@ -1323,6 +1337,7 @@ Mentions: N-3
 Related Nodes: N-11251, N-10293
 Tags: relevance:core
 Investigative Direction: Identify the TikTok user and preserve his submission record to the FBI; confirm with him whether a deletion request was made.
+Open Questions: Q-377
 
 ---
 
@@ -1339,6 +1354,7 @@ Mentions: N-3, N-307
 Related Nodes: N-11251, N-10293
 Tags: relevance:core
 Investigative Direction: Obtain the original footage and its metadata from the individual.
+Open Questions: Q-351
 
 ---
 
@@ -1372,6 +1388,7 @@ Mentions: N-307, N-1, N-3
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Compare with the host's later statements about Kasparian.
+Open Questions: Q-378
 
 ---
 
@@ -1388,6 +1405,7 @@ Mentions: N-307
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Review crowd footage for companions of Kasparian.
+Open Questions: Q-378
 
 ---
 
@@ -1405,6 +1423,7 @@ Related Nodes: N-10293
 Qualifies: C-3690
 Tags: relevance:core
 Investigative Direction: Retrieve the original post with metadata to settle which time applies and the time zone.
+Open Questions: Q-378
 
 ---
 
@@ -1421,6 +1440,7 @@ Mentions: N-307, N-1
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Track Kasparian's position through crowd footage in the two minutes before 12:23.
+Open Questions: Q-378
 
 ---
 
@@ -1454,6 +1474,7 @@ Mentions: N-3
 Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Identify each maroon-shirted attendee and test whether their footage coincides with key angles.
+Open Questions: Q-351
 
 ---
 
@@ -1487,6 +1508,7 @@ Related Nodes: N-10293
 Supports: C-3696
 Tags: relevance:core
 Investigative Direction: Locate both people in the same frame of the footage and photo.
+Open Questions: Q-378
 
 ---
 
@@ -1504,6 +1526,7 @@ Related Nodes: N-10293
 Supports: C-3693
 Tags: relevance:core
 Investigative Direction: Map the earliest uploads of the main videos to the accounts of the people in maroon.
+Open Questions: Q-351
 
 ---
 
@@ -1520,6 +1543,7 @@ Mentions: N-3
 Related Nodes: N-10293
 Tags: dia, relevance:core
 Investigative Direction: Reconcile tips received with the host's later identifications.
+Open Questions: Q-351
 
 ---
 
@@ -1536,6 +1560,7 @@ Mentions: N-310, N-3
 Related Nodes: N-10296
 Tags: relevance:core
 Investigative Direction: Check public professional profiles for Bierer's employer history and location.
+Open Questions: Q-379
 
 ---
 
@@ -1553,6 +1578,7 @@ Related Nodes: N-10296
 Supports: C-3704
 Tags: relevance:core
 Investigative Direction: Request footage from attendees who recognize Bierer.
+Open Questions: Q-379
 
 ---
 
@@ -1586,6 +1612,7 @@ Mentions: N-310
 Related Nodes: N-10296
 Tags: relevance:core
 Investigative Direction: Obtain the full PBS segment and the date it aired.
+Open Questions: Q-379
 
 ---
 
@@ -1679,6 +1706,7 @@ Mentions: N-3
 Related Nodes: N-10295
 Tags: relevance:core
 Investigative Direction: Obtain the video with metadata; the host does not say whether 12:23 is a clock or video time.
+Open Questions: Q-82
 
 ---
 
@@ -1695,6 +1723,7 @@ Mentions: N-3
 Related Nodes: N-10295
 Tags: relevance:core
 Investigative Direction: Compare with earlier episodes where an eyewitness described tactical gear and confirm whether it is the same person.
+Open Questions: Q-82
 
 ---
 
@@ -1711,6 +1740,7 @@ Mentions: N-3
 Related Nodes: N-10295
 Tags: relevance:core
 Investigative Direction: Ask the filmer directly what his video does and does not show.
+Open Questions: Q-82
 
 ---
 
@@ -1728,6 +1758,7 @@ Related Nodes: N-10295
 Qualifies: C-3719
 Tags: relevance:core
 Investigative Direction: Check the Robinson docket and witness lists for the filmer.
+Open Questions: Q-82
 
 ---
 
@@ -1777,6 +1808,7 @@ Related Nodes: N-10289
 Contradicts: C-3723
 Tags: relevance:core
 Investigative Direction: Review the host's replies and any direct messages from December 3 to 5 for any refusal.
+Open Questions: Q-375
 
 ---
 
@@ -1855,6 +1887,7 @@ Mentions: N-159, N-3
 Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Time the Wednesday segment to test the ten-minute claim.
+Open Questions: Q-376
 
 ---
 
@@ -1872,6 +1905,7 @@ Related Nodes: N-10289
 Supports: C-3655
 Tags: relevance:core
 Investigative Direction: Ask TPUSA who drafted and who approved the statement.
+Open Questions: Q-376
 
 ---
 

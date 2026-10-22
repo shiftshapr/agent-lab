@@ -1379,6 +1379,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain Erika's or TPUSA's on-record denial of the sighting and the specific content of what is disputed.
+Open Questions: Q-441
 
 ---
 
@@ -1395,6 +1396,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10390, N-10391
 Tags: relevance:core
 Investigative Direction: Locate the teaser footage and verify filming locations against production records for November Renaissance.
+Open Questions: Q-495
 
 ---
 
@@ -1411,6 +1413,7 @@ Mentions: N-361, N-3
 Related Nodes: N-10390, N-10000
 Tags: relevance:core
 Investigative Direction: Collect the TPUSA-side posts and statements about Mitch Snow's personal life and compare their dates with the first Fort Huachuca coverage.
+Open Questions: Q-441
 
 ---
 
@@ -1444,6 +1447,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's actual on-air or posted statement and quote it in full to test the host's characterization.
+Open Questions: Q-441
 
 ---
 
@@ -1460,6 +1464,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10390, N-10353
 Tags: relevance:core
 Investigative Direction: Identify the post, its date and the date metadata on the photo, and compare with the Sept 8 to Sept 10 alibi window.
+Open Questions: Q-441
 
 ---
 
@@ -1476,6 +1481,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10390, N-10391
 Tags: relevance:core
 Investigative Direction: Obtain the sources' names or documents showing the 2010 to 2013 production timeline; compare with the Kickstarter dates.
+Open Questions: Q-495
 
 ---
 
@@ -1508,6 +1514,7 @@ Mentions: N-459, N-2, N-3
 Related Nodes: N-10391
 Tags: relevance:core
 Investigative Direction: Ask the sources for the basis of the closeness claim; look for Haugen and Erika in joint photos, posts or cast lists.
+Open Questions: Q-495
 
 ---
 
@@ -1620,6 +1627,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Find Kolvet's original statement about Erika's familiarity with the base and test it against the poster and Kickstarter evidence.
+Open Questions: Q-495
 
 ---
 
@@ -1668,6 +1676,7 @@ Mentions: N-2, N-361, N-3
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Seek on-record confirmation from the sources; their friendship with Erika is asserted only through the host.
+Open Questions: Q-495
 
 ---
 
@@ -1684,6 +1693,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10390, N-10305
 Tags: relevance:core
 Investigative Direction: Recover the deleted post from archives or screenshots and confirm the date of the sighting it described.
+Open Questions: Q-441
 
 ---
 
@@ -1700,6 +1710,7 @@ Mentions: N-361, N-3
 Related Nodes: N-10390, N-10342
 Tags: relevance:core
 Investigative Direction: Ask the host to disclose how independence from Mitch Snow was established; compare the two accounts' details.
+Open Questions: Q-441
 
 ---
 
@@ -1716,6 +1727,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10390, N-10305
 Tags: relevance:core
 Investigative Direction: Identify the chat and the order; check Fort Huachuca airspace or UAS notices for September 9, 2025.
+Open Questions: Q-441
 
 ---
 
@@ -1732,6 +1744,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10390, N-10342
 Tags: relevance:core
 Investigative Direction: Request documentation of the verification method, such as duty verification, which the host has not shown.
+Open Questions: Q-441
 
 ---
 
@@ -1748,6 +1761,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10390, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the video Erika sent and the host's example request; check metadata to date the footage.
+Open Questions: Q-441
 
 ---
 
@@ -1815,6 +1829,7 @@ Related Nodes: N-11083, N-10139
 Supports: C-4766
 Tags: relevance:core
 Investigative Direction: Corroborate Lyman's meeting with Ballard on September 11, 2025 through schedules, photos or statements.
+Open Questions: Q-476
 
 ---
 
@@ -2251,6 +2266,7 @@ Mentions: N-751, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Check the UVU announcement and its date.
+Open Questions: Q-496
 
 ---
 
@@ -2269,6 +2285,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.
+Open Questions: Q-497
 
 ---
 
@@ -2605,6 +2622,7 @@ Anchored Artifacts: A-3039
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Retrieve the text message(s) from the earlier episode and read the missile reference verbatim.
+Open Questions: Q-462
 
 ---
 
@@ -2654,6 +2672,7 @@ Related Nodes: N-10000
 Supports: C-5071
 Tags: relevance:core
 Investigative Direction: Check Montgomery's military service record and TPUSA founding documents.
+Open Questions: Q-498
 
 ---
 
@@ -2670,6 +2689,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Watch the Monday live episode for the promised update and any video from Erika.
+Open Questions: Q-441
 
 ---
 
@@ -2686,6 +2706,7 @@ Mentions: N-3
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Check that incoming tips are logged and followed up on subsequent episodes.
+Open Questions: Q-441
 
 ---
 

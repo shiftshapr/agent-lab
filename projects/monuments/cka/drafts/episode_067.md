@@ -2130,6 +2130,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10303
 Tags: relevance:core
 Investigative Direction: Ask the host which names she expected and why; check any Epstein-release names that overlap with the Kirk investigation.
+Open Questions: Q-552
 
 ---
 
@@ -2162,6 +2163,7 @@ Mentions: N-3, N-14, N-190
 Related Nodes: N-11306, N-10072, N-10638
 Tags: relevance:core
 Investigative Direction: Request White House visitor logs for late January 2026 and ask TPUSA for the meeting purpose; check the names as transcribed (see Doubts).
+Open Questions: Q-553
 
 ---
 
@@ -2178,6 +2180,7 @@ Mentions: N-3, N-69, N-1, N-14
 Related Nodes: N-11306, N-10638
 Tags: relevance:core
 Investigative Direction: Compare the air date and time of the Patel episode with the White House meeting date; check the show's published run-of-show.
+Open Questions: Q-553
 
 ---
 
@@ -2243,6 +2246,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Follow the later episodes in which the host details the alibi problems; obtain the alibi's claimed dates, location and witnesses.
+Open Questions: Q-441
 
 ---
 
@@ -2322,6 +2326,7 @@ Related Nodes: N-10179
 Supports: C-1975
 Tags: relevance:core
 Investigative Direction: Compare Hammer's description with the full chat screenshot and its timestamps.
+Open Questions: Q-554
 
 ---
 
@@ -2353,6 +2358,7 @@ Mentions: N-3, N-1, N-936
 Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Get the Fox News air log or video of the Will Cain Show appearance and its origin location.
+Open Questions: Q-555
 
 ---
 
@@ -2370,6 +2376,7 @@ Related Nodes: N-10441, N-10162
 Supports: C-6040
 Tags: relevance:core
 Investigative Direction: Obtain the chat screenshot metadata, Hammer's calendar or Zoom logs, and Kirk's phone records for September 9.
+Open Questions: Q-208, Q-554
 
 ---
 
@@ -2386,6 +2393,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Find the nail salon or appointment record for September 9 and ask Erika which time she meant.
+Open Questions: Q-441
 
 ---
 
@@ -2403,6 +2411,7 @@ Related Nodes: N-10441
 Supports: C-1975
 Tags: relevance:core
 Investigative Direction: Get Shillman's donation records and the chat export; ask Shillman or TPUSA when funds were withdrawn.
+Open Questions: Q-554
 
 ---
 
@@ -2420,6 +2429,7 @@ Related Nodes: N-10113, N-10117, N-10441
 Supports: C-5409
 Tags: relevance:core
 Investigative Direction: Identify the priest and ask for his account; compare with the earlier Megyn Kelly report of a priest praying over the Kirks.
+Open Questions: Q-95, Q-556
 
 ---
 
@@ -2437,6 +2447,7 @@ Related Nodes: N-10441
 Supports: C-718
 Tags: relevance:core
 Investigative Direction: Obtain the chat export and the recipients of the separate messages; ask the host for the names of the recipients.
+Open Questions: Q-557
 
 ---
 
@@ -2454,6 +2465,7 @@ Related Nodes: N-10441, N-10318
 Supports: C-1559
 Tags: relevance:core
 Investigative Direction: Establish the timestamp of the 'kill me' message and of the dinner from device records and witnesses.
+Open Questions: Q-558
 
 ---
 
@@ -2471,6 +2483,7 @@ Related Nodes: N-10439, N-10318
 Supports: C-3768
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's original public or private statement denying the message and the date it was made.
+Open Questions: Q-559
 
 ---
 
@@ -2488,6 +2501,7 @@ Related Nodes: N-10439
 Supports: C-6053
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's statement about the Telegram chat and Dan Flood's device logs; compare with the source's iMessage claim.
+Open Questions: Q-559
 
 ---
 
@@ -2504,6 +2518,7 @@ Mentions: N-3, N-1
 Related Nodes: N-11267, N-10441
 Tags: relevance:core
 Investigative Direction: Get the Salem Network broadcast log and the episode's recorded origin metadata for September 8.
+Open Questions: Q-560
 
 ---
 
@@ -2520,6 +2535,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10370, N-10441
 Tags: relevance:core
 Investigative Direction: Get the flight records and landing time for Kirk's return from Korea; compare with the host's earlier statements about his Asia trip dates.
+Open Questions: Q-370
 
 ---
 
@@ -2536,6 +2552,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10006, N-10441
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News booking record and the time of the segment.
+Open Questions: Q-560
 
 ---
 
@@ -2552,6 +2569,7 @@ Mentions: N-3, N-1, N-689
 Related Nodes: N-10006, N-10441
 Tags: relevance:core
 Investigative Direction: Get the air date and origin location of the segment from Fox News.
+Open Questions: Q-560
 
 ---
 
@@ -2568,6 +2586,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10113, N-10117
 Tags: relevance:core
 Investigative Direction: Check the Jezebel article's publication date and time; the priest dinner is placed on September 9 elsewhere.
+Open Questions: Q-556
 
 ---
 
@@ -2584,6 +2603,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Obtain Erika's stated itinerary for September 8 and any receipts, parking or building access logs.
+Open Questions: Q-561
 
 ---
 
@@ -2600,6 +2620,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Obtain the text-message thread for September 8 and its timestamps.
+Open Questions: Q-561
 
 ---
 
@@ -2616,6 +2637,7 @@ Mentions: N-3, N-1, N-2
 Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Obtain written, named statements from the residents and the building's security and elevator logs for September 8-10.
+Open Questions: Q-558
 
 ---
 
@@ -2632,6 +2654,7 @@ Mentions: N-3, N-2, N-190
 Related Nodes: N-10440, N-10190
 Tags: relevance:core
 Investigative Direction: Canvass building residents and review lobby and garage camera footage for September 10, 2025.
+Open Questions: Q-562
 
 ---
 
@@ -2648,6 +2671,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the doctor's office and parking lot Erika named and interview staff and patients present on September 10.
+Open Questions: Q-562
 
 ---
 
@@ -2664,6 +2688,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the written alibi instructions and the host's exchange with Erika about Fort Huachuca.
+Open Questions: Q-441
 
 ---
 
@@ -2680,6 +2705,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10113, N-10441
 Tags: relevance:core
 Investigative Direction: Treat as the host's stated belief; test it against the group-chat export and witnesses to Kirk's mood on September 9.
+Open Questions: Q-556
 
 ---
 
@@ -2697,6 +2723,7 @@ Related Nodes: N-10441, N-10318
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the exact wording of the message from Kolvet or Flood; the host's reading of 'they' is her inference and not stated in the message as reported.
+Open Questions: Q-534
 
 ---
 
@@ -2713,6 +2740,7 @@ Mentions: N-3, N-2, N-270
 Related Nodes: N-10632, N-10439
 Tags: relevance:core
 Investigative Direction: Compare Erika's statements about the message with Dan Flood's own account and device records.
+Open Questions: Q-534
 
 ---
 
@@ -2729,6 +2757,7 @@ Mentions: N-3, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask the host to name the people and the payments; review TPUSA donor and hiring disclosures.
+Open Questions: Q-563
 
 ---
 
@@ -2746,6 +2775,7 @@ Related Nodes: N-10280, N-10000
 Supports: C-3475, C-4550
 Tags: relevance:core
 Investigative Direction: Identify the donor and check TPUSA donation records and any press reports tying a Pierre to recent gifts.
+Open Questions: Q-563
 
 ---
 

@@ -1092,6 +1092,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain the UVU event request form and its submission metadata to confirm the date.
+Open Questions: Q-1204
 
 ---
 
@@ -1109,6 +1110,7 @@ Related Nodes: N-10068, N-10763
 Supports: C-13295
 Tags: relevance:core
 Investigative Direction: Obtain the ABC News article and University of Utah April 2024 event attendance records.
+Open Questions: Q-1204
 
 ---
 
@@ -1125,6 +1127,7 @@ Mentions: N-3
 Related Nodes: N-10012, N-10763
 Tags: relevance:core
 Investigative Direction: Review TPUSA and UVU promotion records for the September 10 event, including social posts and flyers.
+Open Questions: Q-1204
 
 ---
 
@@ -1142,6 +1145,7 @@ Related Nodes: N-10000, N-10012, N-10068, N-10763
 Contradicts: C-13294
 Tags: relevance:core
 Investigative Direction: Compare the early July and July 18 dates against the UVU form record and TPUSA's statement to ABC.
+Open Questions: Q-1204
 
 ---
 
@@ -1160,6 +1164,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2
 Investigative Direction: Obtain the UVU police staffing plan and the press conference recording.
+Open Questions: Q-1204
 
 ---
 
@@ -1176,6 +1181,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Compare crowd footage from September 10 with footage of the host's earlier UVU event; seek attendee demographics.
+Open Questions: Q-1202
 
 ---
 
@@ -1194,6 +1200,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain the unredacted UVU email and the reply to learn who suggested the move and why it was not adopted.
+Open Questions: Q-343
 
 ---
 
@@ -1213,6 +1220,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Ask UVU for the identities and deployment of the two medical personnel and their incident log.
+Open Questions: Q-1203
 
 ---
 
@@ -1229,6 +1237,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10068, N-10763
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA security roster and equipment list for September 10 and compare to the reported 12.
+Open Questions: Q-1199
 
 ---
 
@@ -1246,6 +1255,7 @@ Related Nodes: N-11230, N-10763
 Supports: C-13293
 Tags: relevance:core
 Investigative Direction: Compare the November 2025 ABC statement with the language of the current filing.
+Open Questions: Q-1203
 
 ---
 
@@ -1262,6 +1272,7 @@ Mentions: N-3
 Related Nodes: N-11230, N-10763
 Tags: relevance:core
 Investigative Direction: Obtain the filing and its date, defendants and the exact ambulance allegation.
+Open Questions: Q-1197, Q-1203
 
 ---
 
@@ -1280,6 +1291,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-13308, C-13309, C-13365
 Investigative Direction: Locate Kolvet's public statements on the end of the friendship and their dates.
+Open Questions: Q-1211
 
 ---
 
@@ -1297,6 +1309,7 @@ Related Nodes: N-10003
 Contradicts: C-13307
 Tags: relevance:core
 Investigative Direction: Wedding guest lists, photos and travel records for August 2019.
+Open Questions: Q-1211
 
 ---
 
@@ -1314,6 +1327,7 @@ Related Nodes: N-10003, N-10072
 Contradicts: C-13307
 Tags: relevance:core
 Investigative Direction: White House event records and coverage of the October 2019 summit.
+Open Questions: Q-1211
 
 ---
 
@@ -1330,6 +1344,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10003, N-10765
 Tags: relevance:core
 Investigative Direction: Authenticate the November 2019 Charlie-Candace texts the host refers to.
+Open Questions: Q-1212
 
 ---
 
@@ -1362,6 +1377,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10765
 Tags: relevance:core
 Investigative Direction: Examine the screenshot's date format and any Telegram export from November 2019 for the forwarded message.
+Open Questions: Q-1212
 
 ---
 
@@ -1378,6 +1394,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10765
 Tags: relevance:core
 Investigative Direction: Obtain the full text thread and trace the original source of the message Kolvet forwarded.
+Open Questions: Q-1212
 
 ---
 
@@ -1394,6 +1411,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10765
 Tags: relevance:core
 Investigative Direction: Confirm from the thread that "Charlie's girlfriend" is Erika Frantzve and how she came to the posts.
+Open Questions: Q-1212
 
 ---
 
@@ -1427,6 +1445,7 @@ Related Nodes: N-10003, N-10765
 Supports: C-13307
 Tags: relevance:core
 Investigative Direction: Match Kolvet's 2025 statements to the 2019 forwarded text wording.
+Open Questions: Q-1212
 
 ---
 
@@ -1443,6 +1462,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10765
 Tags: relevance:core
 Investigative Direction: Retrieve the Vox article from November 2019 and check every outbound link for the 4plebs thread.
+Open Questions: Q-1212
 
 ---
 
@@ -1556,6 +1576,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-11228
 Tags: relevance:core
 Investigative Direction: Identify TPUSA staff who can say who handled Erika's media in August 2025 and under what role.
+Open Questions: Q-1213
 
 ---
 
@@ -1573,6 +1594,7 @@ Related Nodes: N-11228
 Supports: C-13331
 Tags: relevance:core
 Investigative Direction: Talk to former TPUSA communications staff about the media policy for Erika Kirk and TPUSA Faith.
+Open Questions: Q-1213
 
 ---
 
@@ -1944,6 +1966,7 @@ Mentions: N-2, N-14, N-1, N-3
 Related Nodes: N-10003, N-10765
 Tags: relevance:core
 Investigative Direction: Check the 2019 thread to see who first attributed the posts to the Groypers.
+Open Questions: Q-1212
 
 ---
 
@@ -1961,6 +1984,7 @@ Related Nodes: N-10003
 Contradicts: C-13307
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's 2019 groyper explanation with his 2025 public statements.
+Open Questions: Q-1211, Q-1212
 
 ---
 

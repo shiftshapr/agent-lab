@@ -1298,6 +1298,7 @@ Related Nodes: N-10003
 Supports: C-11213
 Tags: relevance:core
 Investigative Direction: Collect Kolvet's public statements on the Kirk and Owens friendship and set them against the messages the host reads in this episode.
+Open Questions: Q-996
 
 ---
 
@@ -1314,6 +1315,7 @@ Mentions: N-14, N-1, N-97, N-3
 Related Nodes: N-10003
 Tags: relevance:core
 Investigative Direction: Retrieve the original tweet and its timestamp from X to confirm the exact wording.
+Open Questions: Q-246, Q-996
 
 ---
 
@@ -1346,6 +1348,7 @@ Related Nodes: N-10003
 Supports: C-719
 Tags: relevance:core
 Investigative Direction: Compare with the November 15, 2023 thread and the public clips of Kirk defending the host.
+Open Questions: Q-246
 
 ---
 
@@ -1377,6 +1380,7 @@ Mentions: N-3, N-14, N-1
 Related Nodes: N-10003
 Tags: relevance:core
 Investigative Direction: Find the Kolvet statement on the Charlie Kirk Show or X that contains the terrified and 2019 language.
+Open Questions: Q-996
 
 ---
 
@@ -1409,6 +1413,7 @@ Mentions: N-1, N-3
 Supports: C-11273
 Tags: relevance:core
 Investigative Direction: Compare with Kirk's public X post from November 15, 2023.
+Open Questions: Q-246
 
 ---
 
@@ -1424,6 +1429,7 @@ Anchored Artifacts: A-2180.1
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Verify exact wording against device-extracted SMS records; ask who 'the Jews' Kirk referred to, since the text as read gives no names.
+Open Questions: Q-246
 
 ---
 
@@ -1439,6 +1445,7 @@ Anchored Artifacts: A-2180.1
 Mentions: N-1, N-3, N-22
 Tags: relevance:core
 Investigative Direction: Verify against device-extracted SMS records; identify the 'cabal' Kirk meant.
+Open Questions: Q-246
 
 ---
 
@@ -1454,6 +1461,7 @@ Anchored Artifacts: A-2180.1
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Verify against device-extracted SMS records; find the public accusations of Hamas ties against Kirk that he refers to.
+Open Questions: Q-1001
 
 ---
 
@@ -1469,6 +1477,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1, N-38
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk and Owens messages that name Seth Dillon, which the host says she holds.
+Open Questions: Q-6, Q-13
 
 ---
 
@@ -1501,6 +1510,7 @@ Related Nodes: N-10252
 Supports: C-2791
 Tags: relevance:core
 Investigative Direction: Obtain the host's text messages with Kolvet from late 2024 and identify which donors were reported as pressured.
+Open Questions: Q-1002, Q-1003
 
 ---
 
@@ -1534,6 +1544,7 @@ Related Nodes: N-10016
 Supports: C-1142
 Tags: relevance:core
 Investigative Direction: Identify the donors and the dates of the pressure, using donor correspondence or named sources.
+Open Questions: Q-6
 
 ---
 
@@ -1565,6 +1576,7 @@ Mentions: N-3, N-1
 Supports: C-1140, C-1557
 Tags: relevance:core
 Investigative Direction: Obtain the messages from September 9 to 10, 2025 and their recipients; note that earlier episodes put the announcement at under 48 hours.
+Open Questions: Q-1001
 
 ---
 
@@ -1581,6 +1593,7 @@ Mentions: N-3, N-97, N-1
 Supports: C-11212
 Tags: relevance:core
 Investigative Direction: Obtain the date and the record of any donation or payment from Shapiro to TPUSA.
+Open Questions: Q-593
 
 ---
 
@@ -1597,6 +1610,7 @@ Mentions: N-3, N-14, N-2, N-97, N-1
 Supports: C-6444
 Tags: relevance:core
 Investigative Direction: Obtain the run of show and speaker approvals for the event, and ask whether speeches were pre-submitted.
+Open Questions: Q-593, Q-1004, Q-1005
 
 ---
 
@@ -1612,6 +1626,7 @@ Anchored Artifacts:
 Mentions: N-3, N-97, N-22, N-46, N-1
 Tags: relevance:core
 Investigative Direction: Obtain the pre-submitted speech text and the TPUSA approval correspondence.
+Open Questions: Q-1005
 
 ---
 
@@ -1629,6 +1644,7 @@ Related Nodes: N-10648, N-10678
 Supports: C-10900
 Tags: relevance:core
 Investigative Direction: Identify Shapiro's security personnel and Kirk's security in the car and obtain their phone records.
+Open Questions: Q-1006
 
 ---
 
@@ -1645,6 +1661,7 @@ Mentions: N-3, N-97
 Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Ask the host what verification steps were taken and whether the source gave documents.
+Open Questions: Q-946
 
 ---
 
@@ -1661,6 +1678,7 @@ Mentions: N-3, N-97, N-920
 Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Ask the host's source for the woman's identity; this can be tested only through that source.
+Open Questions: Q-946
 
 ---
 
@@ -1677,6 +1695,7 @@ Mentions: N-3, N-97, N-1
 Related Nodes: N-10678, N-11276
 Tags: relevance:core
 Investigative Direction: Obtain the Reagan Library event listing and its cancellation notice for September 10, 2025.
+Open Questions: Q-946, Q-1007
 
 ---
 
@@ -1693,6 +1712,7 @@ Mentions: N-3, N-920
 Related Nodes: N-10678, N-10203, N-10259
 Tags: relevance:core
 Investigative Direction: Check public biographies, Omaha Jewish community publications and university records for the person's age, residence and degree.
+Open Questions: Q-1008
 
 ---
 
@@ -1709,6 +1729,7 @@ Mentions: N-3, N-920
 Related Nodes: N-10678, N-11048
 Tags: relevance:core
 Investigative Direction: Check B'nai B'rith International's officer and board listings; the host later describes board roles, so the exact title needs checking.
+Open Questions: Q-1008
 
 ---
 
@@ -1775,6 +1796,7 @@ Mentions: N-3, N-920
 Related Nodes: N-10678, N-11048
 Tags: relevance:core
 Investigative Direction: Check B'nai B'rith International annual reports and award announcements for 2011 to 2019.
+Open Questions: Q-1008
 
 ---
 
@@ -1791,6 +1813,7 @@ Mentions: N-3, N-920
 Related Nodes: N-10678, N-11048, N-11275
 Tags: relevance:core
 Investigative Direction: Locate the 2022 report and the Chabad Lubavitch of Nebraska board listing.
+Open Questions: Q-1008
 
 ---
 
@@ -1823,6 +1846,7 @@ Mentions: N-3, N-97, N-920
 Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Look up Jewish Federation of Omaha event and donor listings for the named people.
+Open Questions: Q-946, Q-1008
 
 ---
 
@@ -1838,6 +1862,7 @@ Anchored Artifacts:
 Mentions: N-3, N-97, N-1
 Tags: relevance:core
 Investigative Direction: Ask what the half-million-dollar check was, who paid it and when; the host does not specify.
+Open Questions: Q-593
 
 ---
 
@@ -1853,6 +1878,7 @@ Anchored Artifacts: A-3249.1
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Track tip-line submissions that follow this call.
+Open Questions: Q-946
 
 ---
 
@@ -1870,6 +1896,7 @@ Related Nodes: N-10675, N-10067
 Supports: C-11224
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's post and the Daily Mail article and compare them.
+Open Questions: Q-998
 
 ---
 
@@ -1887,6 +1914,7 @@ Related Nodes: N-10067, N-10675
 Supports: C-11233
 Tags: relevance:core
 Investigative Direction: Check the Daily Mail page history and correspondence requesting a correction.
+Open Questions: Q-998
 
 ---
 
@@ -1904,6 +1932,7 @@ Related Nodes: N-10675
 Supports: C-11222
 Tags: relevance:core
 Investigative Direction: Obtain the emails and the proof offered, and ask the Daily Mail whether the source was Tracy Martin.
+Open Questions: Q-998
 
 ---
 
@@ -1935,6 +1964,7 @@ Anchored Artifacts:
 Mentions: N-3, N-544, N-2
 Tags: relevance:core
 Investigative Direction: Ask Tracy Martin for her account; no recording is stated to exist.
+Open Questions: Q-1009
 
 ---
 
@@ -1951,6 +1981,7 @@ Mentions: N-3, N-544
 Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Check the date of the Paramount Tactical show against the host's episode in which she guessed Martin.
+Open Questions: Q-998, Q-1009
 
 ---
 
@@ -1981,6 +2012,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2
 Tags: relevance:core
 Investigative Direction: Identify the Erika appearance and transcript; check whether the host ever made the accusation she is said to have made.
+Open Questions: Q-405
 
 ---
 
@@ -1997,6 +2029,7 @@ Mentions: N-3, N-2, N-278
 Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Obtain CBS town hall production records on question approval.
+Open Questions: Q-405
 
 ---
 
@@ -2060,6 +2093,7 @@ Anchored Artifacts: A-2184.1
 Mentions: N-3, N-153
 Tags: relevance:core
 Investigative Direction: Obtain the full text exchange and have a linguist assess it.
+Open Questions: Q-1010
 
 ---
 
@@ -2136,6 +2170,7 @@ Mentions: N-3, N-2, N-1
 Related Nodes: N-11120, N-11361
 Tags: relevance:core
 Investigative Direction: Identify the host's source and obtain a copy of any NDA signed at the burial.
+Open Questions: Q-1011
 
 ---
 
@@ -2183,6 +2218,7 @@ Mentions: N-3, N-1
 Supports: C-1557
 Tags: relevance:core
 Investigative Direction: Compile the host's prior releases of SUV photos and Kirk texts.
+Open Questions: Q-246, Q-885, Q-1001
 
 ---
 
@@ -2199,6 +2235,7 @@ Mentions: N-3
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Compare hearing testimony with the host's earlier claims.
+Open Questions: Q-1012
 
 ---
 
@@ -2215,6 +2252,7 @@ Mentions: N-3, N-2
 Supports: C-3913
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA fundraising reports for the event.
+Open Questions: Q-1013
 
 ---
 
@@ -2247,6 +2285,7 @@ Mentions: N-3, N-38, N-1
 Related Nodes: N-10027, N-10323
 Tags: relevance:core
 Investigative Direction: Gather accounts from attendees of the Hamptons retreat.
+Open Questions: Q-6, Q-13
 
 ---
 
@@ -2263,6 +2302,7 @@ Mentions: N-3, N-38, N-1
 Related Nodes: N-10323
 Tags: relevance:core
 Investigative Direction: Obtain the messages the host says she holds.
+Open Questions: Q-13
 
 ---
 
@@ -2280,6 +2320,7 @@ Related Nodes: N-10675
 Supports: C-11109
 Tags: relevance:core
 Investigative Direction: Ask the Daily Mail whether and to whom it sent the comment request.
+Open Questions: Q-998
 
 ---
 

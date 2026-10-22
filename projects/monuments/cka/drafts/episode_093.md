@@ -1282,6 +1282,7 @@ Mentions: N-341, N-3, N-1
 Related Nodes: N-10568
 Tags: relevance:core
 Investigative Direction: Archive captures (Wayback, screenshots with timestamps) of the post and its deletion time; ask Marx when and why it was removed.
+Open Questions: Q-811
 
 ---
 
@@ -1299,6 +1300,7 @@ Related Nodes: N-10563, N-10554
 Supports: C-8289
 Tags: relevance:core
 Investigative Direction: Obtain the full CBS article and Secret Service on-record statement; ask TPUSA to produce the threat messages it relied on.
+Open Questions: Q-805
 
 ---
 
@@ -1316,6 +1318,7 @@ Related Nodes: N-10554
 Supports: C-8294
 Tags: relevance:core
 Investigative Direction: Identify the tipster and obtain flight-tracking and airport records placing Erika's aircraft in Athens.
+Open Questions: Q-804
 
 ---
 
@@ -1365,6 +1368,7 @@ Related Nodes: N-10554
 Supports: C-8294
 Tags: relevance:core
 Investigative Direction: Obtain airport FBO and Secret Service records showing which terminal each aircraft used at Athens-Ben Epps.
+Open Questions: Q-804
 
 ---
 
@@ -1382,6 +1386,7 @@ Related Nodes: N-10554
 Supports: C-8297
 Tags: relevance:core
 Investigative Direction: Cross-check ADS-B tracks of the Vance aircraft with Vance's phone and schedule records; ask the Vice President's office when he learned Erika might not appear.
+Open Questions: Q-804
 
 ---
 
@@ -1398,6 +1403,7 @@ Mentions: N-19, N-2, N-3
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain full event video showing the opening remarks and any backstage or green-room access logs.
+Open Questions: Q-804
 
 ---
 
@@ -1415,6 +1421,7 @@ Related Nodes: N-10554
 Supports: C-8294
 Tags: relevance:core
 Investigative Direction: Obtain event photos and video of Kolvet's attire and any staffer accounts of where Erika was between 2:40 and 6:39.
+Open Questions: Q-804
 
 ---
 
@@ -1431,6 +1438,7 @@ Mentions: N-4, N-2
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Ask the Vice President's office what threat information he was given and by whom.
+Open Questions: Q-805
 
 ---
 
@@ -1448,6 +1456,7 @@ Related Nodes: N-10554, N-10563
 Supports: C-8301
 Tags: relevance:core
 Investigative Direction: Obtain the full Vance remarks and ask the Secret Service whether it advised on Erika's cancellation.
+Open Questions: Q-805
 
 ---
 
@@ -1465,6 +1474,7 @@ Related Nodes: N-10554
 Supports: C-8294
 Tags: relevance:core
 Investigative Direction: Pull flight-tracking records of the Erika aircraft departing Athens and its destination.
+Open Questions: Q-804
 
 ---
 
@@ -1481,6 +1491,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10877
 Tags: relevance:core
 Investigative Direction: Identify the people who received the calls and obtain their accounts and any call logs or messages.
+Open Questions: Q-817
 
 ---
 
@@ -1530,6 +1541,7 @@ Mentions: N-594, N-2, N-3, N-1
 Related Nodes: N-10067, N-10554
 Tags: relevance:core
 Investigative Direction: Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.
+Open Questions: Q-818
 
 ---
 
@@ -1563,6 +1575,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10412, N-10067
 Tags: relevance:core
 Investigative Direction: Identify the insider; collect the advice Erika reportedly received about her public appearances.
+Open Questions: Q-818
 
 ---
 
@@ -1580,6 +1593,7 @@ Related Nodes: N-10568
 Supports: C-8316
 Tags: relevance:core
 Investigative Direction: Locate the Marx video and comment thread and the Glenn Beck post, and compare their timestamps.
+Open Questions: Q-811
 
 ---
 
@@ -1596,6 +1610,7 @@ Mentions: N-341, N-3
 Related Nodes: N-10568
 Tags: relevance:core
 Investigative Direction: Obtain the original screenshots with metadata and confirm the timezone conversion to 1:13 p.m. Mountain.
+Open Questions: Q-811
 
 ---
 
@@ -1613,6 +1628,7 @@ Related Nodes: N-10568
 Supports: C-8316
 Tags: relevance:core
 Investigative Direction: Fix the shooting time (about 12:23 MT) against the Marx post metadata; ask Marx for his source.
+Open Questions: Q-811
 
 ---
 
@@ -1630,6 +1646,7 @@ Related Nodes: N-10568
 Supports: C-8316
 Tags: relevance:core
 Investigative Direction: Confirm the time of Trump's Truth Social or X announcement and the earliest confirmed public reports of death.
+Open Questions: Q-819
 
 ---
 
@@ -1646,6 +1663,7 @@ Mentions: N-36, N-1, N-341, N-5
 Related Nodes: N-10568
 Tags: relevance:core
 Investigative Direction: Retrieve the time of Netanyahu's statement or post about the shooting and compare it with the first official US confirmation.
+Open Questions: Q-819
 
 ---
 
@@ -1662,6 +1680,7 @@ Mentions: N-2, N-341
 Related Nodes: N-10568
 Tags: relevance:core
 Investigative Direction: Obtain Erika's call logs and the hospital timeline for when she was told, and compare against the Marx post time.
+Open Questions: Q-811, Q-820
 
 ---
 
@@ -1679,6 +1698,7 @@ Related Nodes: N-10568
 Supports: C-8321
 Tags: relevance:core
 Investigative Direction: Receive and verify any tip about Safadi or Sarfati; plot it on the minute-by-minute timeline.
+Open Questions: Q-819
 
 ---
 
@@ -1696,6 +1716,7 @@ Related Nodes: N-10568
 Supports: C-8321
 Tags: relevance:core
 Investigative Direction: Verify who Amir Tsarfati or Sarfati is, his church roles and any IDF service, from public records and the tipster.
+Open Questions: Q-819
 
 ---
 
@@ -1713,6 +1734,7 @@ Related Nodes: N-10560
 Supports: C-8260
 Tags: relevance:core
 Investigative Direction: Preserve the host's message records to Marx and any reply; ask Marx's representatives to confirm.
+Open Questions: Q-811, Q-821
 
 ---
 
@@ -1730,6 +1752,7 @@ Related Nodes: N-10560
 Supports: C-8258
 Tags: relevance:core
 Investigative Direction: Obtain the message or public statement in which Marx set these conditions.
+Open Questions: Q-821
 
 ---
 
@@ -1747,6 +1770,7 @@ Related Nodes: N-10560
 Supports: C-8327
 Tags: relevance:core
 Investigative Direction: Locate the full interview and compare with Corby Hall's account of the visit.
+Open Questions: Q-821
 
 ---
 
@@ -1763,6 +1787,7 @@ Mentions: N-342, N-341
 Related Nodes: N-10548
 Tags: relevance:core
 Investigative Direction: Obtain Corby Hall's full account and any documents showing the Israel sale request.
+Open Questions: Q-800
 
 ---
 
@@ -1779,6 +1804,7 @@ Mentions: N-342, N-341
 Related Nodes: N-10549
 Tags: relevance:core
 Investigative Direction: Obtain Corby Hall's account and any written exchange about Haiti; ask federal export-control authorities whether any inquiry exists.
+Open Questions: Q-800
 
 ---
 
@@ -1796,6 +1822,7 @@ Related Nodes: N-10564
 Supports: C-8332
 Tags: relevance:core
 Investigative Direction: Authenticate the message with full thread metadata; ask Marx whether he sent it.
+Open Questions: Q-800, Q-821
 
 ---
 
@@ -1813,6 +1840,7 @@ Related Nodes: N-10564, N-10547
 Supports: C-8332
 Tags: relevance:core
 Investigative Direction: Authenticate the thread; obtain any term sheet or patent-purchase offers connected to Fold AR.
+Open Questions: Q-800
 
 ---
 
@@ -1830,6 +1858,7 @@ Related Nodes: N-10568
 Supports: C-8316
 Tags: relevance:core
 Investigative Direction: Establish Marx's source through his own statement, call logs or the people who contacted him on September 10.
+Open Questions: Q-811
 
 ---
 
@@ -1847,6 +1876,7 @@ Related Nodes: N-10560
 Supports: C-8258
 Tags: relevance:core
 Investigative Direction: Track whether Marx accepts any of the offered formats.
+Open Questions: Q-811, Q-821
 
 ---
 
@@ -1930,6 +1960,7 @@ Related Nodes: N-10567, N-10106
 Supports: C-8344
 Tags: relevance:core
 Investigative Direction: Review the ATF and state lab disclosures for residue, bore and swab testing of the rifle and of Robinson.
+Open Questions: Q-75
 
 ---
 
@@ -1946,6 +1977,7 @@ Mentions: N-54, N-40, N-3
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Obtain Twiggs' statements, devices and any informant or agency relationship records; test through discovery.
+Open Questions: Q-174, Q-822
 
 ---
 
@@ -1963,6 +1995,7 @@ Related Nodes: N-10972, N-10567, N-10545
 Supports: C-8344
 Tags: relevance:core
 Investigative Direction: Establish the rifle's chain of custody and location in the days before September 10; obtain bomb dog deployment records.
+Open Questions: Q-20, Q-75
 
 ---
 
@@ -1979,6 +2012,7 @@ Mentions: N-3
 Related Nodes: N-10566
 Tags: relevance:core
 Investigative Direction: Compare the defense filing with the ATF summary text and any discovery cover letters.
+Open Questions: Q-792
 
 ---
 
@@ -1996,6 +2030,7 @@ Related Nodes: N-10106
 Supports: C-756
 Tags: relevance:core
 Investigative Direction: Obtain the latent print examination report and the identification of each print set.
+Open Questions: Q-93
 
 ---
 
@@ -2012,6 +2047,7 @@ Mentions: N-707, N-3
 Related Nodes: N-10566
 Tags: relevance:core
 Investigative Direction: Identify which comparison techniques the host means and any published validation or challenges to them.
+Open Questions: Q-75
 
 ---
 
@@ -2028,6 +2064,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11046, N-10494
 Tags: relevance:core
 Investigative Direction: Establish Kirk's documented position on Iran and who inside the administration or its backers objected to it.
+Open Questions: Q-152
 
 ---
 
@@ -2045,6 +2082,7 @@ Related Nodes: N-10632
 Supports: C-3217
 Tags: relevance:core
 Investigative Direction: Obtain Flood's advance-work records and the accounts of UVU and TPUSA staff about any site walk-through.
+Open Questions: Q-823
 
 ---
 
@@ -2062,6 +2100,7 @@ Related Nodes: N-10632
 Supports: C-3218
 Tags: relevance:core
 Investigative Direction: Obtain the event security plan and the vehicle staging and exit route documents.
+Open Questions: Q-823
 
 ---
 
@@ -2080,6 +2119,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain UVU and campus police correspondence on the site selection and any security recommendations.
+Open Questions: Q-343
 
 ---
 
@@ -2097,6 +2137,7 @@ Related Nodes: N-10318
 Supports: C-5406
 Tags: relevance:core
 Investigative Direction: Obtain the night-before text thread from Kirk's or Flood's phone.
+Open Questions: Q-171
 
 ---
 
@@ -2114,6 +2155,7 @@ Related Nodes: N-10632
 Supports: C-5343
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA compensation and payroll records for Flood and the date the bonus or raise was offered.
+Open Questions: Q-823
 
 ---
 

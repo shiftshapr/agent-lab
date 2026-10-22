@@ -1087,6 +1087,7 @@ Related Nodes: N-10502
 Supports: C-7429
 Tags: relevance:core
 Investigative Direction: Compare Turek's podcast estimate with flight-tracking and FBO records for every aircraft that landed at Provo on September 10, 2025.
+Open Questions: Q-327, Q-694
 
 ---
 
@@ -1103,6 +1104,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10507, N-10289
 Tags: relevance:core
 Investigative Direction: Obtain the aircraft's Wi-Fi provider logs or Kolvet's message timestamps for the flight window.
+Open Questions: Q-695, Q-707
 
 ---
 
@@ -1119,6 +1121,7 @@ Mentions: N-14, N-3
 Related Nodes: N-10507, N-10289
 Tags: relevance:core
 Investigative Direction: Compare the host's calendar graphic with the recorded broadcast times of the Charlie Kirk Show on September 10, 2025.
+Open Questions: Q-695, Q-710
 
 ---
 
@@ -1151,6 +1154,7 @@ Mentions: N-2, N-14, N-3
 Related Nodes: N-10502, N-10507
 Tags: relevance:core
 Investigative Direction: Pull the landing time of the Provo arrival that carried Kolvet from flight-tracking data.
+Open Questions: Q-692
 
 ---
 
@@ -1167,6 +1171,7 @@ Mentions: N-3
 Related Nodes: N-10071, N-11134, N-10502
 Tags: relevance:core
 Investigative Direction: Measure the route time and check police escort and road-closure records for the afternoon of September 10, 2025.
+Open Questions: Q-694
 
 ---
 
@@ -1184,6 +1189,7 @@ Related Nodes: N-10502, N-11134
 Supports: C-7425
 Tags: relevance:core
 Investigative Direction: Obtain hospital visitor logs, security video and any police escort records showing when Erika arrived.
+Open Questions: Q-694
 
 ---
 
@@ -1201,6 +1207,7 @@ Related Nodes: N-10502
 Supports: C-7423
 Tags: relevance:core
 Investigative Direction: Ask Turek whether his 4:00 p.m. estimate was based on a clock reading or text timestamps, and compare with hospital records.
+Open Questions: Q-694
 
 ---
 
@@ -1218,6 +1225,7 @@ Related Nodes: N-10502
 Supports: C-5410, C-5702
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's own account and any photos or video of the arrival to test the tarmac hug.
+Open Questions: Q-327
 
 ---
 
@@ -1234,6 +1242,7 @@ Mentions: N-14, N-2, N-3
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: List each Kolvet-versus-Erika discrepancy raised so far and the document that settled it.
+Open Questions: Q-692, Q-720
 
 ---
 
@@ -1250,6 +1259,7 @@ Mentions: N-2, N-14, N-3
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Obtain phone records for Erika and Kolvet for September 10, 2025 showing calls between them.
+Open Questions: Q-720
 
 ---
 
@@ -1282,6 +1292,7 @@ Related Nodes: N-10000, N-10517
 Supports: C-7432
 Tags: relevance:core
 Investigative Direction: Obtain office badge or access logs for September 10, 2025 and witness statements from staff present.
+Open Questions: Q-721
 
 ---
 
@@ -1299,6 +1310,7 @@ Related Nodes: N-10185, N-10190
 Supports: C-7439
 Tags: relevance:core
 Investigative Direction: Identify which 'Frank' the host means and obtain Mikey McCoy's call records for the minutes after the shot.
+Open Questions: Q-212
 
 ---
 
@@ -1331,6 +1343,7 @@ Related Nodes: N-10000, N-10517
 Supports: C-7432
 Tags: relevance:core
 Investigative Direction: Ask Streiff and TPUSA's counsel where they were and who told them at the time of the shot.
+Open Questions: Q-721
 
 ---
 
@@ -1347,6 +1360,7 @@ Mentions: N-494, N-15, N-3
 Related Nodes: N-10846
 Tags: relevance:core
 Investigative Direction: Obtain building access records and staff accounts of who was in the Turning Point Action building at 12:23 p.m. MST.
+Open Questions: Q-721
 
 ---
 
@@ -1379,6 +1393,7 @@ Mentions: N-2, N-11, N-3
 Related Nodes: N-10502, N-10517
 Tags: relevance:core
 Investigative Direction: Obtain passenger manifests for the private flights into Provo on September 10, 2025.
+Open Questions: Q-696, Q-711
 
 ---
 
@@ -1395,6 +1410,7 @@ Mentions: N-11, N-3
 Related Nodes: N-10517
 Tags: relevance:core
 Investigative Direction: Collect any dated text, photo or witness account placing Bowyer at the Scottsdale office on September 10, 2025.
+Open Questions: Q-711
 
 ---
 
@@ -1427,6 +1443,7 @@ Mentions: N-217, N-2, N-1, N-3
 Related Nodes: N-10517, N-10182
 Tags: relevance:core
 Investigative Direction: Obtain FBO sign-in records and airport security video showing arrival order at the Scottsdale airport.
+Open Questions: Q-706, Q-721
 
 ---
 
@@ -1444,6 +1461,7 @@ Related Nodes: N-10449, N-10517
 Supports: C-6283
 Tags: relevance:core
 Investigative Direction: Obtain medical appointment records or witnesses for Erika's mother on September 10, 2025.
+Open Questions: Q-704
 
 ---
 
@@ -1461,6 +1479,7 @@ Related Nodes: N-10513, N-10517
 Supports: C-7441
 Tags: relevance:core
 Investigative Direction: Seek witnesses, FBO staff and security footage that place Erika or Sheridan at the airport that afternoon.
+Open Questions: Q-705
 
 ---
 
@@ -1478,6 +1497,7 @@ Related Nodes: N-11260, N-10182, N-10517
 Contradicts: C-7450
 Tags: relevance:core
 Investigative Direction: Obtain statements from others in the terminal and FBO staff, and compare with Erika's own account of who told her.
+Open Questions: Q-706
 
 ---
 
@@ -1494,6 +1514,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-11260, N-10517
 Tags: relevance:core
 Investigative Direction: Request the hospital's call log and Erika's phone records for the time Charlie was pronounced dead.
+Open Questions: Q-706
 
 ---
 
@@ -1510,6 +1531,7 @@ Mentions: N-597, N-190, N-2, N-3
 Related Nodes: N-11124, N-10517
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest of the aircraft that carried Erika's party to Provo.
+Open Questions: Q-696, Q-705, Q-722
 
 ---
 
@@ -1527,6 +1549,7 @@ Related Nodes: N-11124
 Supports: C-7351
 Tags: relevance:core
 Investigative Direction: Identify the priest and obtain his own account of how he travelled to Utah.
+Open Questions: Q-696, Q-705
 
 ---
 
@@ -1544,6 +1567,7 @@ Related Nodes: N-11124, N-10502
 Contradicts: C-5705
 Tags: relevance:core
 Investigative Direction: Compare Elizabeth McCoy's account with Kolvet's tarmac account and with timestamps of the party's hospital arrival.
+Open Questions: Q-327, Q-722
 
 ---
 
@@ -1560,6 +1584,7 @@ Mentions: N-597, N-217, N-1, N-3
 Related Nodes: N-11261, N-10338
 Tags: relevance:core
 Investigative Direction: Establish who held custody of the vehicle at the hospital and whether anyone was allowed inside it.
+Open Questions: Q-722, Q-723
 
 ---
 
@@ -1576,6 +1601,7 @@ Mentions: N-217, N-3
 Related Nodes: N-10787, N-11261
 Tags: relevance:core
 Investigative Direction: Trace Elizabeth McCoy's movements and purchases after leaving the hospital on September 10, 2025.
+Open Questions: Q-721
 
 ---
 
@@ -1592,6 +1618,7 @@ Mentions: N-7, N-3
 Related Nodes: N-11261, N-10338
 Tags: relevance:core
 Investigative Direction: Find the Turek statement about agents guarding and taping off the SUV and compare with chain-of-custody records.
+Open Questions: Q-723
 
 ---
 
@@ -1608,6 +1635,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11261
 Tags: relevance:core
 Investigative Direction: Ask Kirk's travel staff what he carried on the September 10 trip and whether items were later retrieved.
+Open Questions: Q-723
 
 ---
 
@@ -1624,6 +1652,7 @@ Mentions: N-3
 Related Nodes: N-10508, N-10514
 Tags: relevance:core
 Investigative Direction: Verify the employee's employment and role with Hopkinson Aircraft and any contact with Erika on September 10, 2025.
+Open Questions: Q-703
 
 ---
 
@@ -1640,6 +1669,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10508, N-10514, N-10517
 Tags: relevance:core
 Investigative Direction: Obtain the source of the claim that Erika was at the Hopkinson building and any facility visitor records.
+Open Questions: Q-703
 
 ---
 
@@ -1672,6 +1702,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10514, N-10517
 Tags: relevance:core
 Investigative Direction: Obtain the friend's text and ask the contact directly what he saw and where.
+Open Questions: Q-703, Q-706
 
 ---
 
@@ -1689,6 +1720,7 @@ Related Nodes: N-10514, N-10517
 Supports: C-7463
 Tags: relevance:core
 Investigative Direction: Ask the mutual friend who first relayed that the contact saw Erika, and seek the contact's on-record statement.
+Open Questions: Q-703
 
 ---
 
@@ -1707,6 +1739,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5
 Investigative Direction: Obtain the ballistics report and the state's court filings on the recovered bullet and fragments.
+Open Questions: Q-717
 
 ---
 
@@ -1741,6 +1774,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Compare against the autopsy and ballistics findings on wound path and exit.
+Open Questions: Q-322
 
 ---
 
@@ -1757,6 +1791,7 @@ Mentions: N-268, N-209
 Related Nodes: N-10501, N-10332
 Tags: relevance:core
 Investigative Direction: Check Joe Kent's resignation letter and public statements on any instruction to stop investigating.
+Open Questions: Q-688
 
 ---
 
@@ -1773,6 +1808,7 @@ Mentions: N-40, N-268
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Review the court record for any statement by Robinson and for any recorded jail or court audio.
+Open Questions: Q-713
 
 ---
 
@@ -1789,6 +1825,7 @@ Mentions: N-40, N-268
 Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Locate the yogurt shop footage, its timestamp and its source, and compare with the shooting time.
+Open Questions: Q-724
 
 ---
 
@@ -1969,6 +2006,7 @@ Related Nodes: N-10515
 Contradicts: C-7485
 Tags: relevance:core
 Investigative Direction: Review the host's posts and episodes from September 10 to 12, 2025 for any mention of Erika by name.
+Open Questions: Q-725
 
 ---
 
@@ -2098,6 +2136,7 @@ Related Nodes: N-10505
 Supports: C-3399, C-2931
 Tags: relevance:core
 Investigative Direction: Obtain the host's call log with Kolvet from September 10 and any record of the warning.
+Open Questions: Q-328
 
 ---
 
@@ -2114,6 +2153,7 @@ Mentions: N-2, N-209, N-14, N-3
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Compare with the host's notes from her meeting with Erika and any other account of that exchange.
+Open Questions: Q-689
 
 ---
 
@@ -2163,6 +2203,7 @@ Related Nodes: N-10513
 Supports: C-7441
 Tags: relevance:core
 Investigative Direction: Collect dated sightings, texts or building access records for Sheridan on September 10, 2025.
+Open Questions: Q-705
 
 ---
 
@@ -2180,6 +2221,7 @@ Related Nodes: N-10449, N-10517
 Supports: C-7447
 Tags: relevance:core
 Investigative Direction: Compare Erika's account of where she was with records for her mother and any witnesses.
+Open Questions: Q-704
 
 ---
 

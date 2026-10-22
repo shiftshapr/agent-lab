@@ -1295,6 +1295,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10002
 Tags: relevance:core
 Investigative Direction: The host does not specify which footage; the public videos of the September 10, 2025 shooting are the candidates.
+Open Questions: Q-1
 
 ---
 

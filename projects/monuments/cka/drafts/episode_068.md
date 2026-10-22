@@ -1023,6 +1023,7 @@ Mentions: N-3
 Related Nodes: N-10000, N-10189
 Tags: relevance:core
 Investigative Direction: Document the military service records of TPUSA staff and associates.
+Open Questions: Q-564
 
 ---
 
@@ -1039,6 +1040,7 @@ Mentions: N-2, N-489
 Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Verify any military service or contracting history for Erika Kirk and Lori Frantzve.
+Open Questions: Q-564
 
 ---
 
@@ -1055,6 +1057,7 @@ Mentions: N-489, N-3
 Related Nodes: N-10409, N-10410
 Tags: relevance:core
 Investigative Direction: Pull Secretary of State filings for every entity listing Lori Frantzve as officer or agent.
+Open Questions: Q-565
 
 ---
 
@@ -1071,6 +1074,7 @@ Mentions: N-489, N-2
 Related Nodes: N-10000, N-10843, N-10595
 Tags: relevance:core
 Investigative Direction: Check board and officer records for Superfeed and related TPUSA vendors.
+Open Questions: Q-550, Q-565
 
 ---
 
@@ -1087,6 +1091,7 @@ Mentions: N-11, N-489, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask TPUSA staff and Bowyer about their dealings with Lori Frantzve.
+Open Questions: Q-565
 
 ---
 
@@ -1117,6 +1122,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-489
 Tags: relevance:core
 Investigative Direction: Compare with the host's earlier accounts of the private meeting with Erika.
+Open Questions: Q-565
 
 ---
 
@@ -1150,6 +1156,7 @@ Related Nodes: N-10445, N-10214
 Supports: C-6107
 Tags: relevance:core
 Investigative Direction: Obtain the account of the parking lot collapse and the name of the facility.
+Open Questions: Q-562
 
 ---
 
@@ -1166,6 +1173,7 @@ Mentions: N-190, N-1, N-2
 Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Find the original source of the claim that Charlie trained McCoy on emergency calls.
+Open Questions: Q-212
 
 ---
 
@@ -1183,6 +1191,7 @@ Related Nodes: N-10353
 Supports: C-6112
 Tags: relevance:core
 Investigative Direction: Obtain the full Streiff thread with timestamps.
+Open Questions: Q-566
 
 ---
 
@@ -1199,6 +1208,7 @@ Mentions: N-15, N-2, N-3
 Related Nodes: N-10445
 Tags: relevance:core
 Investigative Direction: Examine any images in the Streiff messages and their metadata.
+Open Questions: Q-566
 
 ---
 
@@ -1215,6 +1225,7 @@ Mentions: N-1, N-489, N-3
 Related Nodes: N-10449
 Tags: relevance:core
 Investigative Direction: Verify any Charlie-funded European medical trips for Lori Frantzve.
+Open Questions: Q-567
 
 ---
 
@@ -1231,6 +1242,7 @@ Mentions: N-1, N-489, N-2, N-3
 Related Nodes: N-10449, N-10353, N-10441
 Tags: relevance:core
 Investigative Direction: Obtain clinic records or witness accounts for September 8 visits.
+Open Questions: Q-567
 
 ---
 
@@ -1263,6 +1275,7 @@ Mentions: N-1
 Related Nodes: N-10370, N-10441
 Tags: relevance:core
 Investigative Direction: Obtain flight and landing records for the return from Asia.
+Open Questions: Q-370
 
 ---
 
@@ -1279,6 +1292,7 @@ Mentions: N-1
 Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Check the Sept 8 show metadata and studio location.
+Open Questions: Q-560
 
 ---
 
@@ -1295,6 +1309,7 @@ Mentions: N-1, N-489
 Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Reconstruct Charlie's Sept 8 schedule against that window.
+Open Questions: Q-560, Q-567
 
 ---
 
@@ -1311,6 +1326,7 @@ Mentions: N-7, N-1, N-2
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Obtain Turek's original statement and its date.
+Open Questions: Q-561
 
 ---
 
@@ -1327,6 +1343,7 @@ Mentions: N-2
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Interview residents and review building access records.
+Open Questions: Q-561
 
 ---
 
@@ -1343,6 +1360,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Find where Erika or TPUSA stated the dinner account.
+Open Questions: Q-441
 
 ---
 
@@ -1359,6 +1377,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10353, N-10390
 Tags: relevance:core
 Investigative Direction: Locate independent evidence of Erika's Sept 8 location.
+Open Questions: Q-561
 
 ---
 
@@ -1375,6 +1394,7 @@ Mentions: N-15, N-2, N-3
 Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Obtain the thread and identify the fan sighting.
+Open Questions: Q-566
 
 ---
 
@@ -1391,6 +1411,7 @@ Mentions: N-3
 Related Nodes: N-11096, N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the letter, its sender and its date.
+Open Questions: Q-507
 
 ---
 
@@ -1407,6 +1428,7 @@ Mentions: N-3
 Related Nodes: N-10449, N-10353
 Tags: relevance:core
 Investigative Direction: Request records for both named clinics.
+Open Questions: Q-567
 
 ---
 
@@ -1422,6 +1444,7 @@ Anchored Artifacts: A-3046.1
 Mentions: N-3
 Tags: relevance:core, dia
 Investigative Direction: Review tips received at the tip address.
+Open Questions: Q-562
 
 ---
 
@@ -1593,6 +1616,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10889, N-10252
 Tags: relevance:core
 Investigative Direction: Compile who bought AmFest speaking slots and Charlie's past statements on them.
+Open Questions: Q-563
 
 ---
 
@@ -1608,6 +1632,7 @@ Anchored Artifacts: A-3046.2
 Mentions: N-3
 Tags: relevance:core, dia
 Investigative Direction: Review the tip inbox.
+Open Questions: Q-563
 
 ---
 

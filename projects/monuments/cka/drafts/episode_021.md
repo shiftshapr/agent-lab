@@ -835,6 +835,7 @@ Related Nodes: N-10192
 Supports: C-1947
 Tags: relevance:core
 Investigative Direction: Pull the revision of the TPUSA Wikipedia article saved on 11 September 2025 and compare the exact wording and cited sources with what the host read.
+Open Questions: Q-230
 
 ---
 
@@ -851,6 +852,7 @@ Mentions: N-1, N-3
 Related Nodes: N-11019, N-10192
 Tags: relevance:core
 Investigative Direction: Search the host's saved messages with Charlie Kirk for the Wikipedia-cleanup contact, and compare Wikipedia edit histories of TPUSA pages for paid-editor disclosures.
+Open Questions: Q-230
 
 ---
 
@@ -867,6 +869,7 @@ Mentions: N-2, N-17, N-1
 Related Nodes: N-10192
 Tags: relevance:core
 Investigative Direction: Compare the Wikipedia edit timestamp of 10:34 PM ET on 11 September 2025 with the TPUSA announcement of Erika Kirk as CEO and with the date Kirk's body returned to Arizona.
+Open Questions: Q-230
 
 ---
 
@@ -932,6 +935,7 @@ Mentions: N-40, N-1
 Related Nodes: N-10300
 Tags: relevance:core
 Investigative Direction: Compare the host's cited evidence with the charging documents, the ballistics report and the recovered rifle record.
+Open Questions: Q-21, Q-110, Q-194
 
 ---
 
@@ -1010,6 +1014,7 @@ Mentions: N-69, N-1
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Request FBI organizational records or congressional testimony describing who has access to the Kirk case file.
+Open Questions: Q-229
 
 ---
 
@@ -1026,6 +1031,7 @@ Mentions: N-209, N-329, N-3
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the evidence behind the suspicion of foreign involvement, and compare with the Kent inquiry reported by the New York Times.
+Open Questions: Q-17
 
 ---
 
@@ -1057,6 +1063,7 @@ Mentions: N-14, N-1
 Related Nodes: N-11018
 Tags: relevance:core
 Investigative Direction: Find Kolvet's original statement and who heard Charlie say it; ask security and staff whether any such instruction existed.
+Open Questions: Q-226
 
 ---
 
@@ -1075,6 +1082,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2
 Investigative Direction: Review the close-up videos and medical records and interview the security team on first aid steps taken before transport.
+Open Questions: Q-231
 
 ---
 
@@ -1127,6 +1135,7 @@ Tags: relevance:core
 Verification: revised-by-host
 Verification Evidence: C-11561
 Investigative Direction: Check parish and cemetery records, the funeral program and public notices for the rite and burial location.
+Open Questions: Q-232
 
 ---
 
@@ -1190,6 +1199,7 @@ Mentions: N-33, N-46, N-2
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Obtain the unedited Kelly interview and ask Don Jr. which people and what information he based his confidence on.
+Open Questions: Q-210
 
 ---
 

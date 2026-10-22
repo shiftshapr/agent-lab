@@ -699,6 +699,7 @@ Mentions: N-159, N-2, N-1
 Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: Full X Space recording to confirm the exact wording.
+Open Questions: Q-1239
 
 ---
 
@@ -731,6 +732,7 @@ Mentions: N-159, N-2, N-1
 Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: Identify the X Space participant who raised the slip; full recording.
+Open Questions: Q-1239
 
 ---
 
@@ -747,6 +749,7 @@ Mentions: N-159
 Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: Compare the recorded word in the X Space audio with Neff's recollection.
+Open Questions: Q-1239
 
 ---
 
@@ -795,6 +798,7 @@ Mentions: N-14, N-46
 Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: The Megyn Kelly Show episode with Kolvet in September 2025.
+Open Questions: Q-1240
 
 ---
 
@@ -844,6 +848,7 @@ Related Nodes: N-10803, N-10808, N-10000
 Supports: C-13931
 Tags: relevance:core
 Investigative Direction: Enclave and Key corporate filings in the U.S. and Romania; Google Drive links in Monster Lab campaigns.
+Open Questions: Q-1234
 
 ---
 
@@ -877,6 +882,7 @@ Mentions: N-2, N-352
 Related Nodes: N-10812
 Tags: relevance:core
 Investigative Direction: Atlantic reporting and campaign drive timestamps for September 15, 2025.
+Open Questions: Q-1234, Q-1238
 
 ---
 
@@ -1313,6 +1319,7 @@ Related Nodes: N-10801, N-10812
 Supports: C-13937
 Tags: relevance:core
 Investigative Direction: Monster Lab client list and campaign start dates.
+Open Questions: Q-1234
 
 ---
 
@@ -1345,6 +1352,7 @@ Mentions: N-271
 Related Nodes: N-10012, N-11333
 Tags: relevance:core
 Investigative Direction: UVU announcement or personnel records on Long's departure.
+Open Questions: Q-1241
 
 ---
 
@@ -1362,6 +1370,7 @@ Related Nodes: N-10000, N-10762
 Supports: C-13866
 Tags: relevance:core
 Investigative Direction: TPUSA public statements on Long compared with the independent review.
+Open Questions: Q-1242
 
 ---
 
@@ -1378,6 +1387,7 @@ Mentions: N-266, N-224, N-271
 Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Original text thread between Dan Flood and Chief Long.
+Open Questions: Q-841
 
 ---
 
@@ -1394,6 +1404,7 @@ Mentions: N-266, N-224, N-271
 Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Full Shawn Ryan Show episode and text timestamps.
+Open Questions: Q-841
 
 ---
 
@@ -1412,6 +1423,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Original text message and building layout.
+Open Questions: Q-841
 
 ---
 
@@ -1430,6 +1442,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Text thread showing the reply and its sender and recipient.
+Open Questions: Q-841
 
 ---
 
@@ -1446,6 +1459,7 @@ Mentions: N-266
 Related Nodes: N-10762, N-10783, N-10256
 Tags: relevance:core
 Investigative Direction: Independent review passages on the text exchange.
+Open Questions: Q-841
 
 ---
 
@@ -1462,6 +1476,7 @@ Mentions: N-270, N-266
 Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Any public statement by Dan Flood.
+Open Questions: Q-1243
 
 ---
 
@@ -1478,6 +1493,7 @@ Mentions: N-2
 Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Erika Kirk's statements on prior threats; TPUSA internal review.
+Open Questions: Q-1244
 
 ---
 
@@ -1494,6 +1510,7 @@ Mentions: N-7
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Turek's recorded statements on when he received the message.
+Open Questions: Q-1245
 
 ---
 
@@ -1510,6 +1527,7 @@ Mentions: N-14, N-271
 Related Nodes: N-11005
 Tags: relevance:core
 Investigative Direction: Date of the Kolvet segment versus the notice of intent filing date.
+Open Questions: Q-1242
 
 ---
 
@@ -1528,6 +1546,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Full Kolvet segment; text thread context on which roof was meant.
+Open Questions: Q-841, Q-1242
 
 ---
 
@@ -1544,6 +1563,7 @@ Mentions: N-271, N-270
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: TPUSA internal access to the Flood text thread; dates of public statements.
+Open Questions: Q-1242, Q-1243, Q-1246
 
 ---
 
@@ -1560,6 +1580,7 @@ Mentions: N-271, N-3
 Related Nodes: N-11333
 Tags: relevance:core
 Investigative Direction: Any legal filing by Long.
+Open Questions: Q-1246
 
 ---
 
@@ -1577,6 +1598,7 @@ Related Nodes: N-10000, N-11131
 Supports: C-13871
 Tags: relevance:core
 Investigative Direction: Independent review on ticket counts and staffing changes on September 10.
+Open Questions: Q-1247
 
 ---
 
@@ -1593,6 +1615,7 @@ Mentions: N-271
 Related Nodes: N-10762
 Tags: relevance:core
 Investigative Direction: Independent review on UVU PD staffing adjustments.
+Open Questions: Q-1247
 
 ---
 
@@ -1625,6 +1648,7 @@ Mentions: N-750
 Related Nodes: N-10012, N-11333
 Tags: relevance:core
 Investigative Direction: UVU personnel records or announcement.
+Open Questions: Q-1248
 
 ---
 
@@ -1661,6 +1685,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Independent review section on the major events committee meeting.
+Open Questions: Q-343
 
 ---
 
@@ -1679,6 +1704,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Independent review text and meeting minutes.
+Open Questions: Q-343
 
 ---
 
@@ -1697,6 +1723,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Independent review text.
+Open Questions: Q-343
 
 ---
 
@@ -1715,6 +1742,7 @@ Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Independent review page 73.
+Open Questions: Q-1249
 
 ---
 
@@ -1731,6 +1759,7 @@ Mentions: N-750
 Related Nodes: N-11333
 Tags: relevance:core
 Investigative Direction: UVU personnel records on the nature of the departures.
+Open Questions: Q-1241, Q-1248
 
 ---
 
@@ -1747,6 +1776,7 @@ Mentions: N-271, N-750
 Related Nodes: N-10012, N-11333
 Tags: relevance:core
 Investigative Direction: Interviews with UVU staff.
+Open Questions: Q-1241, Q-1248
 
 ---
 
@@ -1941,6 +1971,7 @@ Related Nodes: N-10810, N-10812, N-10802
 Supports: C-13915
 Tags: relevance:core
 Investigative Direction: The Atlantic article and drive upload timestamps.
+Open Questions: Q-1234
 
 ---
 
@@ -1957,6 +1988,7 @@ Mentions: N-2, N-17
 Related Nodes: N-10812
 Tags: relevance:core
 Investigative Direction: Accounts of Erika Kirk's activities in the days after September 10, 2025.
+Open Questions: Q-1250
 
 ---
 
@@ -2005,6 +2037,7 @@ Mentions: N-14, N-46
 Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: The Megyn Kelly Show episode from September 18, 2025.
+Open Questions: Q-1240
 
 ---
 
@@ -2037,6 +2070,7 @@ Mentions: N-2
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Source and context of the quoted Erika Kirk remark.
+Open Questions: Q-1250
 
 ---
 
@@ -2054,6 +2088,7 @@ Related Nodes:
 Supports: C-13950
 Tags: relevance:core
 Investigative Direction: Erika Kirk's public statements on political ambitions.
+Open Questions: Q-1251
 
 ---
 

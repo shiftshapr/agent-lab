@@ -1637,6 +1637,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Find earlier statements by Kirk or those close to him about dreams of an early death, and the host's dated messages with him on the subject.
+Open Questions: Q-220
 
 ---
 
@@ -1882,6 +1883,7 @@ Anchored Artifacts:
 Mentions: N-3, N-11, N-1
 Tags: relevance:core
 Investigative Direction: Establish Bowyer's role in early introductions from Kirk-era donor and staff records.
+Open Questions: Q-221
 
 ---
 
@@ -1897,6 +1899,7 @@ Anchored Artifacts:
 Mentions: N-3, N-11, N-1, N-14
 Tags: relevance:core
 Investigative Direction: Check TPUSA hiring dates for Kolvet and the fundraising staff and who recommended them.
+Open Questions: Q-221
 
 ---
 
@@ -2434,6 +2437,7 @@ Mentions: N-3
 Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Ask the host to specify which statement about the rifle or bullet she considers false and compare with official records.
+Open Questions: Q-194
 
 ---
 
@@ -2450,6 +2454,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10602, N-10416
 Tags: relevance:core
 Investigative Direction: Compare with the autopsy findings and the surgeon and Kolvet descriptions of the wound.
+Open Questions: Q-191
 
 ---
 
@@ -2466,6 +2471,7 @@ Mentions: N-3, N-14
 Related Nodes: N-10319
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's tweet and identify the surgeon quoted.
+Open Questions: Q-191, Q-222
 
 ---
 
@@ -2481,6 +2487,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1, N-195
 Tags: relevance:core
 Investigative Direction: Confirm the treating surgeon's identity through hospital statements.
+Open Questions: Q-222
 
 ---
 
@@ -2497,6 +2504,7 @@ Mentions: N-3, N-195
 Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Check Trotter's published training history or board certification.
+Open Questions: Q-222
 
 ---
 
@@ -2513,6 +2521,7 @@ Mentions: N-3, N-195
 Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Check Air Force or Reserve records and FAA airman registry for a matching individual before drawing any conclusion.
+Open Questions: Q-222
 
 ---
 
@@ -2545,6 +2554,7 @@ Mentions: N-3, N-176
 Related Nodes: N-10175, N-10189
 Tags: relevance:core
 Investigative Direction: Check Army Reserve or Medical Corps listings for the medical examiner's rank and her biography.
+Open Questions: Q-199
 
 ---
 
@@ -2592,6 +2602,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10189
 Tags: relevance:core
 Investigative Direction: Ask the host to name who she means and compare with event staffing and security rosters.
+Open Questions: Q-21
 
 ---
 
@@ -2607,6 +2618,7 @@ Anchored Artifacts:
 Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Compile the interviews given by UVU students on September 10 and their affiliations.
+Open Questions: Q-204
 
 ---
 
@@ -2639,6 +2651,7 @@ Mentions: N-3
 Related Nodes: N-10144, N-11134, N-11241
 Tags: relevance:core
 Investigative Direction: Check the trauma-center designations and distances for both hospitals from the Orem campus.
+Open Questions: Q-140
 
 ---
 
@@ -2655,6 +2668,7 @@ Mentions: N-3
 Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Check Utah event permits and the university's emergency-medical requirements for the September 10 event.
+Open Questions: Q-223
 
 ---
 
@@ -2673,6 +2687,7 @@ Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2, S-12
 Investigative Direction: Request hospital and traffic-camera footage and 911 logs for the route and arrival.
+Open Questions: Q-224
 
 ---
 
@@ -2689,6 +2704,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10188, N-11241
 Tags: relevance:core
 Investigative Direction: Seek on-the-record confirmation from the tipster and from hospital staff on duty.
+Open Questions: Q-224, Q-225
 
 ---
 
@@ -2705,6 +2721,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10188, N-11241
 Tags: relevance:core
 Investigative Direction: Seek on-the-record confirmation and compare with the time of death announced publicly.
+Open Questions: Q-218, Q-225
 
 ---
 
@@ -2722,6 +2739,7 @@ Related Nodes: N-10188, N-11241
 Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Verify the sender is real medical staff and request the hospital's response.
+Open Questions: Q-225
 
 ---
 
@@ -2739,6 +2757,7 @@ Related Nodes: N-10188, N-11241
 Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Ask for the screenshot with metadata and the hospital's confirmation of whether a record exists.
+Open Questions: Q-225
 
 ---
 
@@ -2755,6 +2774,7 @@ Mentions: N-3, N-195
 Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Check Trotter's hospital privileges at both facilities.
+Open Questions: Q-222, Q-225
 
 ---
 
@@ -2771,6 +2791,7 @@ Mentions: N-3
 Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Confirm the correct address is moretips@candaceowens.com and review what the host reports back.
+Open Questions: Q-225
 
 ---
 
@@ -2788,6 +2809,7 @@ Related Nodes: N-10188, N-11241
 Qualifies: C-1885
 Tags: relevance:core
 Investigative Direction: Identify the hospital system that holds the alleged record and request confirmation.
+Open Questions: Q-225
 
 ---
 
@@ -2804,6 +2826,7 @@ Mentions: N-3
 Related Nodes: N-10188, N-11134, N-11241
 Tags: relevance:core
 Investigative Direction: Ask both hospitals and the Utah health-information exchange whether records are shared.
+Open Questions: Q-225
 
 ---
 
@@ -2836,6 +2859,7 @@ Mentions: N-3, N-190, N-182, N-130, N-181
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Establish who first posted the video and when.
+Open Questions: Q-214
 
 ---
 
@@ -2884,6 +2908,7 @@ Related Nodes: N-10190
 Contradicts: C-1901
 Tags: relevance:core
 Investigative Direction: Compare the camera geometry in the video with the known placement of the barrier, stage and questioner.
+Open Questions: Q-213, Q-214
 
 ---
 
@@ -2900,6 +2925,7 @@ Mentions: N-3, N-190, N-1
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Use the full event video to fix Mikey's position relative to Charlie and the questioner.
+Open Questions: Q-213
 
 ---
 
@@ -2917,6 +2943,7 @@ Related Nodes: N-10190
 Qualifies: C-1901
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the available video for the phone's position.
+Open Questions: Q-212
 
 ---
 
@@ -2933,6 +2960,7 @@ Mentions: N-3, N-190
 Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Review the clip for how long the hands stay at the ears and whether he lowers his body.
+Open Questions: Q-213
 
 ---
 
@@ -2950,6 +2978,7 @@ Related Nodes: N-10190
 Qualifies: C-1896
 Tags: relevance:core
 Investigative Direction: Ask McCoy and other staff whether Kirk gave such instructions, and check the call log sequence.
+Open Questions: Q-226
 
 ---
 
@@ -2966,6 +2995,7 @@ Mentions: N-3, N-14, N-190
 Related Nodes: N-10605
 Tags: relevance:core
 Investigative Direction: Check whether McCoy has since made any public statement on the sequence of events.
+Open Questions: Q-214
 
 ---
 
@@ -3014,6 +3044,7 @@ Mentions: N-3, N-131, N-1
 Related Nodes: N-10191
 Tags: relevance:core
 Investigative Direction: Check the memorial program for the list of speakers and who selected them.
+Open Questions: Q-227
 
 ---
 
@@ -3030,6 +3061,7 @@ Mentions: N-7, N-1
 Related Nodes: N-10625
 Tags: relevance:core
 Investigative Direction: Compare with Turek's later accounts of his actions on September 10 and the other witnesses.
+Open Questions: Q-228
 
 ---
 
@@ -3092,6 +3124,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Compare with the charging documents and evidence presented against the accused.
+Open Questions: Q-21
 
 ---
 
@@ -3354,6 +3387,7 @@ Mentions: N-3, N-5, N-69
 Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Check the event guest list and the White House schedule.
+Open Questions: Q-229
 
 ---
 
@@ -3369,6 +3403,7 @@ Anchored Artifacts:
 Mentions: N-3, N-33
 Tags: relevance:core
 Investigative Direction: Locate any Don Jr. statement on the official narrative.
+Open Questions: Q-210
 
 ---
 

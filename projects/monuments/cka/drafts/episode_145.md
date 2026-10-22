@@ -949,6 +949,7 @@ Related Nodes: N-10809, N-10738, N-11111
 Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Department of War payroll, personal-services contract and special government employee records for the individuals the host names later in the episode; any official statement from the department.
+Open Questions: Q-1111
 
 ---
 
@@ -1088,6 +1089,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: The specific public statements by TPUSA figures about Kirk's friendships and beliefs; the host's message history with Kirk.
+Open Questions: Q-1112
 
 ---
 
@@ -1135,6 +1137,7 @@ Mentions: N-2, N-1, N-3
 Related Nodes: N-10222
 Tags: relevance:core
 Investigative Direction: Date of the Erika Kirk and Charlie Kirk first meeting versus the date of the London event (May 2018); each side's own accounts.
+Open Questions: Q-1112
 
 ---
 
@@ -1150,6 +1153,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: The host's texts or notes from 2018 with Kirk about the dreams; Kirk's own public remarks about them.
+Open Questions: Q-1112
 
 ---
 
@@ -1420,6 +1424,7 @@ Related Nodes: N-11111, N-10738
 Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Funding and contract records for the accounts the host names; the Department of War contracts and SGE appointments referenced later in the episode.
+Open Questions: Q-1104, Q-1111, Q-1113
 
 ---
 
@@ -1452,6 +1457,7 @@ Related Nodes: N-10000
 Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Catalogue of TPUSA-aligned posts, articles and reports aimed at the host in the week of the hearing and any shared authorship or funding.
+Open Questions: Q-1113
 
 ---
 
@@ -1529,6 +1535,7 @@ Mentions: N-14, N-281
 Supports: C-12498
 Tags: relevance:core
 Investigative Direction: Timestamps for the Pounds thread and Kolvet's repost; any direct messages between them.
+Open Questions: Q-1113
 
 ---
 
@@ -1560,6 +1567,7 @@ Mentions: N-37, N-281
 Supports: C-12499
 Tags: relevance:core
 Investigative Direction: Post dates for the Pounds thread and Ackman's repost.
+Open Questions: Q-1113
 
 ---
 
@@ -1577,6 +1585,7 @@ Related Nodes: N-10738
 Supports: C-12501
 Tags: relevance:core
 Investigative Direction: Pounds' original post and any later edits or deletions; State Department comment.
+Open Questions: Q-1114
 
 ---
 
@@ -1593,6 +1602,7 @@ Mentions: N-928, N-159
 Supports: C-12504
 Tags: relevance:core
 Investigative Direction: Neff's own post calling her his friend, and the photograph shown; their public association.
+Open Questions: Q-1114
 
 ---
 
@@ -1610,6 +1620,7 @@ Related Nodes: N-10000, N-10738
 Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Any official contact between TPUSA and the State Department; FOIA to State Public Diplomacy for communications with TPUSA staff.
+Open Questions: Q-1114
 
 ---
 
@@ -1627,6 +1638,7 @@ Related Nodes: N-10806, N-10809
 Supports: C-12507
 Tags: relevance:core
 Investigative Direction: Pounds' appointment letter and SGE service dates against the dates of the NCRI report and her thread.
+Open Questions: Q-1111
 
 ---
 
@@ -1672,6 +1684,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: The host's earliest posts and messages from September 10 and 11, 2025.
+Open Questions: Q-219
 
 ---
 
@@ -1688,6 +1701,7 @@ Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: The episodes aired in the following week (episodes 146 onward) to see what was revealed.
+Open Questions: Q-219
 
 ---
 
@@ -1704,6 +1718,7 @@ Mentions: N-3
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: The compiled September 10 alibis from TPUSA staff and any later changes to them.
+Open Questions: Q-1115
 
 ---
 
@@ -1878,6 +1893,7 @@ Mentions: N-18
 Related Nodes: N-11178, N-10000
 Tags: relevance:core
 Investigative Direction: Wilson's engagement terms and any payments by TPUSA; related to the debate training engagement node.
+Open Questions: Q-1104
 
 ---
 
@@ -1894,6 +1910,7 @@ Mentions: N-1, N-3
 Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: Obtain the recipients' September 9, 2025 messages; the host does not name the recipients in this episode.
+Open Questions: Q-171
 
 ---
 
@@ -1909,6 +1926,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Message and call records between the host and Kirk after October 7, 2023; the host does not say who the people are.
+Open Questions: Q-1112
 
 ---
 
