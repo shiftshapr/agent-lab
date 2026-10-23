@@ -6,7 +6,7 @@
 |-------|-------|
 | vocabulary | 2.0.0 (2026-10-07) |
 | vocab source | https://brc222.org/vocabulary.json |
-| generated_at (UTC) | 2026-10-22T18:54:14Z |
+| generated_at (UTC) | 2026-10-23T05:22:22Z |
 | bridges | 31488 |
 | revises candidate rows | 5056 (both terms per edge) |
 | revises heuristic primary | {'isQualifiedBy': 2509, 'extends': 19} |

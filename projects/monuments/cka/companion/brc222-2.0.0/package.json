@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-22T18:54:14Z",
+  "generated_at": "2026-10-23T05:22:22Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -46055,7 +46055,7 @@
       "label": "Host Says Egyptian Air Force Plane SU-BTT Arrived at Provo September 4 and Departed September 10",
       "node_kind": "claim",
       "episode": 22,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46439,7 +46439,7 @@
       "label": "Host identifies N1098L as the LSA LLC plane that flew to Montana and turned around",
       "node_kind": "claim",
       "episode": 22,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -46455,7 +46455,7 @@
       "label": "Mark says N1098L was in Idaho when Charlie was shot, about 20 minutes out",
       "node_kind": "claim",
       "episode": 22,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -47199,7 +47199,7 @@
       "label": "Host Says N102DZ Flew Scottsdale to Salt Lake City at 7:12 AM on Day of Assassination",
       "node_kind": "claim",
       "episode": 23,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -47207,7 +47207,7 @@
       "label": "Host Says N102DZ Left Salt Lake City Around 1:00 PM on Day of Assassination, Then Turned Around After 15 Minutes in Scottsdale",
       "node_kind": "claim",
       "episode": 23,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -54239,7 +54239,7 @@
       "label": "N560TW Made a Round-Trip Flight Scottsdale–Provo–Santa Barbara–Scottsdale on September 10",
       "node_kind": "claim",
       "episode": 33,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -60319,7 +60319,7 @@
       "label": "Host Says SU-BND (Blue Plane) Was Transponding at Duncan Aviation on September 10 and Did Not Go Anywhere",
       "node_kind": "claim",
       "episode": 41,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -76263,7 +76263,7 @@
       "label": "Host Says Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes",
       "node_kind": "claim",
       "episode": 60,
-      "verification_status": "unverified"
+      "verification_status": "contradicted-by-record"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -93807,7 +93807,7 @@
       "label": "N40JD plane departed Scottsdale approximately one hour after Charlie Kirk was shot and landed at Provo at 2:29 PM MST",
       "node_kind": "claim",
       "episode": 82,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -109655,7 +109655,7 @@
       "label": "N582MM departed Denver at 11:58 a.m. and landed at Pierre at 12:56 p.m. Mountain Time",
       "node_kind": "claim",
       "episode": 103,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
