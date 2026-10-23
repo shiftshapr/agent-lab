@@ -3638,6 +3638,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "contradicted-by-record"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-13"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes."
     },

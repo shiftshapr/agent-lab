@@ -1,0 +1,367 @@
+{
+ "source": "S-13",
+ "date": "2025-09-10 (UTC day: 2025-09-09 18:00 to 2025-09-10 18:00 MDT)",
+ "shot": "18:23:28Z (12:23:28 MDT)",
+ "note": "Derived from adsb.lol globe history (ODbL). Times are UTC; MDT = UTC-6, Arizona (MST) = UTC-7. Individual owners are omitted.",
+ "aircraft": {
+  "01003e": {
+   "r": "SU-BND",
+   "t": "GLF4",
+   "desc": "GULFSTREAM 4",
+   "ownOp": null,
+   "legs": [
+    "on ground KPVU Provo (1 km) 16:05Z / 10:05 MDT .. 17:34Z / 11:34 MDT",
+    "KPVU Provo (1 km) 19:40Z / 13:40 MDT -> KPVU Provo (1 km) 20:29Z / 14:29 MDT; max alt 4525 ft; 142 pts",
+    "on ground KPVU Provo (1 km) 20:29Z / 14:29 MDT .. 20:29Z / 14:29 MDT"
+   ]
+  },
+  "0101d3": {
+   "r": "SU-BTT",
+   "t": "FA7X",
+   "desc": "DASSAULT Falcon 7X",
+   "ownOp": null,
+   "legs": [
+    "KPVU Provo (1 km) 13:07Z / 07:07 MDT -> KILG Wilmington (2 km) 16:50Z / 10:50 MDT; max alt 41025 ft; 1229 pts"
+   ]
+  },
+  "a00c85": {
+   "r": "N102DZ",
+   "t": "GLF5",
+   "desc": "GULFSTREAM 5",
+   "ownOp": "GV 555 LLC",
+   "legs": [
+    "KSDL Scottsdale (0 km) 14:01Z / 08:01 MDT -> KSLC Salt Lake City (1 km) 15:23Z / 09:23 MDT; max alt 36025 ft; 576 pts",
+    "KSLC Salt Lake City (2 km) 18:58Z / 12:58 MDT -> KSDL Scottsdale (0 km) 20:11Z / 14:11 MDT; max alt 41025 ft; 549 pts",
+    "KSDL Scottsdale (0 km) 20:11Z / 14:11 MDT -> KPVU Provo (1 km) 21:30Z / 15:30 MDT; max alt 36050 ft; 592 pts",
+    "on ground KPVU Provo (1 km) 21:30Z / 15:30 MDT .. 21:32Z / 15:32 MDT",
+    "KPVU Provo (0 km) 22:05Z / 16:05 MDT -> (34.214,-119.090) 23:47Z / 17:47 MDT; max alt 47075 ft; 791 pts",
+    "on ground (34.214,-119.090) 23:47Z / 17:47 MDT .. 23:47Z / 17:47 MDT"
+   ]
+  },
+  "a0299e": {
+   "r": "N1098L",
+   "t": "GLEX",
+   "desc": "BOMBARDIER BD-700 Global 6000/6500",
+   "ownOp": "LASAI AVIATION II LLC",
+   "legs": [
+    "(47.811,-114.065) 00:00Z / 18:00 MDT -> (48.330,-114.236) 00:11Z / 18:11 MDT; max alt 12500 ft; 155 pts",
+    "(48.301,-114.266) 01:10Z / 19:10 MDT -> (32.742,-107.568) 03:20Z / 21:20 MDT; max alt 43050 ft; 515 pts",
+    "(32.680,-107.135) 13:59Z / 07:59 MDT -> (48.295,-114.272) 16:34Z / 10:34 MDT; max alt 38025 ft; 799 pts",
+    "(48.310,-114.256) 17:27Z / 11:27 MDT -> (32.776,-105.086) 20:08Z / 14:08 MDT; max alt 43025 ft; 873 pts",
+    "(32.305,-108.763) 21:36Z / 15:36 MDT -> (34.347,-114.085) 22:17Z / 16:17 MDT; max alt 40025 ft; 182 pts",
+    "(34.766,-114.693) 22:39Z / 16:39 MDT -> (36.608,-121.563) 23:40Z / 17:40 MDT; max alt 38050 ft; 348 pts"
+   ]
+  },
+  "a4ab14": {
+   "r": "N40JD",
+   "t": "PRM1",
+   "desc": "RAYTHEON 390 Premier 1",
+   "ownOp": "NUP AVIATION LLC",
+   "legs": [
+    "KSDL Scottsdale (0 km) 19:09Z / 13:09 MDT -> KPVU Provo (1 km) 20:29Z / 14:29 MDT; max alt 34025 ft; 558 pts",
+    "on ground KPVU Provo (1 km) 20:29Z / 14:29 MDT .. 20:32Z / 14:32 MDT",
+    "KPVU Provo (0 km) 21:01Z / 15:01 MDT -> (38.459,-111.979) 21:35Z / 15:35 MDT; max alt 35025 ft; 323 pts",
+    "(36.268,-111.775) 21:55Z / 15:55 MDT -> KSDL Scottsdale (0 km) 22:26Z / 16:26 MDT; max alt 30025 ft; 312 pts",
+    "on ground KSDL Scottsdale (0 km) 22:26Z / 16:26 MDT .. 22:28Z / 16:28 MDT"
+   ]
+  },
+  "a728a8": {
+   "r": "N560TW",
+   "t": "C56X",
+   "desc": "CESSNA 560XL Citation XLS",
+   "ownOp": "T W LEWIS-AVIATION LLC",
+   "legs": [
+    "KSDL Scottsdale (0 km) 14:48Z / 08:48 MDT -> KPVU Provo (1 km) 16:07Z / 10:07 MDT; max alt 34025 ft; 596 pts",
+    "KPVU Provo (1 km) 16:07Z / 10:07 MDT -> KSBA Santa Barbara (1 km) 18:11Z / 12:11 MDT; max alt 36025 ft; 935 pts",
+    "KSBA Santa Barbara (1 km) 18:11Z / 12:11 MDT -> KSDL Scottsdale (0 km) 19:43Z / 13:43 MDT; max alt 33025 ft; 933 pts",
+    "on ground KSDL Scottsdale (0 km) 19:43Z / 13:43 MDT .. 19:45Z / 13:45 MDT"
+   ]
+  },
+  "a77e75": {
+   "r": "N582MM",
+   "t": "LJ60",
+   "desc": "LEARJET 60",
+   "ownOp": "DOJA CONTRACTING LLC, TK ENTERPRISES LLC, JRO AVIATION LLC",
+   "legs": [
+    "(39.909,-105.111) 17:39Z / 11:39 MDT -> KPIR Pierre (1 km) 18:55Z / 12:55 MDT; max alt 39000 ft; 634 pts",
+    "KPIR Pierre (1 km) 19:40Z / 13:40 MDT -> KPWK Chicago Exec (3 km) 21:04Z / 15:04 MDT; max alt 39000 ft; 554 pts",
+    "KPWK Chicago Exec (1 km) 22:00Z / 16:00 MDT -> (41.733,-105.545) 23:59Z / 17:59 MDT; max alt 40025 ft; 569 pts"
+   ]
+  },
+  "ac3c75": {
+   "r": "N888KG",
+   "t": "CL30",
+   "desc": "BOMBARDIER BD-100 Challenger 300",
+   "ownOp": "N888KG LLC",
+   "legs": [
+    "KPVU Provo (0 km) 19:06Z / 13:06 MDT -> (38.408,-111.656) 19:30Z / 13:30 MDT; max alt 31025 ft; 372 pts",
+    "(38.585,-111.465) 20:47Z / 14:47 MDT -> KPVU Provo (4 km) 21:04Z / 15:04 MDT; max alt 30025 ft; 235 pts",
+    "KPVU Provo (4 km) 21:04Z / 15:04 MDT -> KPVU Provo (0 km) 21:05Z / 15:05 MDT; max alt 4525 ft; 13 pts",
+    "on ground KPVU Provo (0 km) 21:05Z / 15:05 MDT .. 21:07Z / 15:07 MDT"
+   ]
+  }
+ },
+ "within_10km_of_UVU_pm20min_of_shot": [
+  {
+   "icao": "a16c15",
+   "r": "N191CA",
+   "type": "C172",
+   "operator": "CSA AIRCRAFT LEASING LLC",
+   "closest_km": 0.2,
+   "at": "18:04:47Z",
+   "alt_ft": 6550
+  },
+  {
+   "icao": "a0191d",
+   "r": "N105UV",
+   "type": "DA40",
+   "operator": "UTAH VALLEY UNIVERSITY",
+   "closest_km": 0.8,
+   "at": "18:18:31Z",
+   "alt_ft": 5475
+  },
+  {
+   "icao": "a44eb5",
+   "r": "N377KH",
+   "type": "P28A",
+   "operator": "GENERATION INVESTMENTS LLC",
+   "closest_km": 0.9,
+   "at": "18:27:15Z",
+   "alt_ft": 5500
+  },
+  {
+   "icao": "a4743e",
+   "r": "N3862M",
+   "type": "P28A",
+   "operator": "N3862M LLC",
+   "closest_km": 2.5,
+   "at": "18:39:12Z",
+   "alt_ft": 6375
+  },
+  {
+   "icao": "a6a32f",
+   "r": "N527CP",
+   "type": "SR22",
+   "operator": "BIMSKI HOLDINGS LLC",
+   "closest_km": 2.7,
+   "at": "18:17:12Z",
+   "alt_ft": 10000
+  },
+  {
+   "icao": "aa8c49",
+   "r": "N779US",
+   "type": "DA40",
+   "operator": "UTAH VALLEY UNIVERSITY",
+   "closest_km": 2.8,
+   "at": "18:10:58Z",
+   "alt_ft": 5200
+  },
+  {
+   "icao": "ad2898",
+   "r": "N947QS",
+   "type": "C68A",
+   "operator": "AIR CBA LLC, CLEARING SKIES LLC",
+   "closest_km": 3.0,
+   "at": "18:07:57Z",
+   "alt_ft": 41000
+  },
+  {
+   "icao": "a5dcf1",
+   "r": "N477UV",
+   "type": "PA44",
+   "operator": "UTAH VALLEY UNIVERSITY",
+   "closest_km": 4.2,
+   "at": "18:39:57Z",
+   "alt_ft": 5200
+  },
+  {
+   "icao": "a6335d",
+   "r": "N499UV",
+   "type": "PA44",
+   "operator": "UTAH VALLEY UNIVERSITY",
+   "closest_km": 4.3,
+   "at": "18:29:06Z",
+   "alt_ft": 5025
+  },
+  {
+   "icao": "c086da",
+   "r": "C-GZBT",
+   "type": "P28A",
+   "operator": null,
+   "closest_km": 4.3,
+   "at": "18:15:47Z",
+   "alt_ft": 5125
+  },
+  {
+   "icao": "a21b44",
+   "r": "N235BZ",
+   "type": "BCS3",
+   "operator": "WILMINGTON TRUST CO TRUSTEE",
+   "closest_km": 4.3,
+   "at": "18:23:19Z",
+   "alt_ft": 5025
+  },
+  {
+   "icao": "a7c14d",
+   "r": "N59906",
+   "type": "PA31",
+   "operator": "MARC INC",
+   "closest_km": 4.3,
+   "at": "18:04:18Z",
+   "alt_ft": 5025
+  },
+  {
+   "icao": "a12701",
+   "r": "N1732S",
+   "type": "C172",
+   "operator": "CAREER PILOT TRAINING LLC",
+   "closest_km": 4.3,
+   "at": "18:17:38Z",
+   "alt_ft": 5050
+  },
+  {
+   "icao": "ad37b9",
+   "r": "N9505L",
+   "type": "AA5",
+   "operator": null,
+   "closest_km": 4.3,
+   "at": "18:26:34Z",
+   "alt_ft": 5000
+  },
+  {
+   "icao": "a25ea2",
+   "r": "N25177",
+   "type": "C172",
+   "operator": "TEXTRON AVIATION INC",
+   "closest_km": 4.3,
+   "at": "18:38:44Z",
+   "alt_ft": 5125
+  },
+  {
+   "icao": "a9f5ec",
+   "r": "N7407W",
+   "type": "P28A",
+   "operator": null,
+   "closest_km": 4.3,
+   "at": "18:25:10Z",
+   "alt_ft": 5000
+  },
+  {
+   "icao": "aa2e0b",
+   "r": "N755QS",
+   "type": "CL35",
+   "operator": "NETJETS SALES INC, AJS AVIATION LLC, BOYNTON TRAIL LLC",
+   "closest_km": 4.3,
+   "at": "18:13:59Z",
+   "alt_ft": 5000
+  },
+  {
+   "icao": "a56b7d",
+   "r": "N44858",
+   "type": "P28A",
+   "operator": "SWAZ AVIATION LLC",
+   "closest_km": 4.3,
+   "at": "18:28:05Z",
+   "alt_ft": 5000
+  },
+  {
+   "icao": "a06697",
+   "r": "N125DG",
+   "type": "C25B",
+   "operator": "FUGAL AVIATION LLC",
+   "closest_km": 5.4,
+   "at": "18:13:12Z",
+   "alt_ft": "ground"
+  },
+  {
+   "icao": "a5aa00",
+   "r": "N464RT",
+   "type": "P46T",
+   "operator": null,
+   "closest_km": 5.4,
+   "at": "18:35:55Z",
+   "alt_ft": "ground"
+  },
+  {
+   "icao": "a2dafe",
+   "r": "N283VC",
+   "type": "PC12",
+   "operator": "SUNRIDGE AVIATION LLC",
+   "closest_km": 5.4,
+   "at": "18:39:40Z",
+   "alt_ft": "ground"
+  },
+  {
+   "icao": "a258be",
+   "r": "N250NV",
+   "type": "A320",
+   "operator": "SUNRISE ASSET MANAGEMENT LLC",
+   "closest_km": 5.7,
+   "at": "18:43:25Z",
+   "alt_ft": "ground"
+  },
+  {
+   "icao": "a106bf",
+   "r": "N1651C",
+   "type": "C172",
+   "operator": "CE-172 AIRCRAFT LLC",
+   "closest_km": 6.0,
+   "at": "18:08:21Z",
+   "alt_ft": 4425
+  },
+  {
+   "icao": "a02e09",
+   "r": "N110UV",
+   "type": "DA40",
+   "operator": "UTAH VALLEY UNIVERSITY",
+   "closest_km": 6.5,
+   "at": "18:32:17Z",
+   "alt_ft": "ground"
+  },
+  {
+   "icao": "a1eb50",
+   "r": "N22237",
+   "type": "C172",
+   "operator": "AVIATION TRAINING LLC",
+   "closest_km": 6.5,
+   "at": "18:34:11Z",
+   "alt_ft": 4475
+  },
+  {
+   "icao": "a2519f",
+   "r": "N249BZ",
+   "type": "BCS3",
+   "operator": null,
+   "closest_km": 7.2,
+   "at": "18:05:55Z",
+   "alt_ft": "ground"
+  },
+  {
+   "icao": "a8d635",
+   "r": "N669FR",
+   "type": null,
+   "operator": "FRONTIER AIRLINES INC.",
+   "closest_km": 8.6,
+   "at": "18:07:04Z",
+   "alt_ft": 17950
+  },
+  {
+   "icao": "ac3ea3",
+   "r": "N8885Q",
+   "type": "B38M",
+   "operator": "SOUTHWEST AIRLINES CO",
+   "closest_km": 8.7,
+   "at": "18:19:45Z",
+   "alt_ft": 17875
+  },
+  {
+   "icao": "a3e5f5",
+   "r": "N350MW",
+   "type": "AS50",
+   "operator": "MOUNTAIN WEST HELICOPTERS LLC",
+   "closest_km": 9.5,
+   "at": "18:43:23Z",
+   "alt_ft": 5050
+  }
+ ]
+}

@@ -991,6 +991,8 @@ Mentions: N-2, N-11, N-217, N-14
 
 Related Nodes: N-10400
 
+Verification: contradicted-by-record
+Verification Evidence: S-13
 Investigative Direction: Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes.
 
 ---

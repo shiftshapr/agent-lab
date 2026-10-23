@@ -971,6 +971,8 @@ Anchored Artifacts: A-1422.1
 
 Related Nodes: N-10241
 
+Verification: corroborated
+Verification Evidence: S-13
 Investigative Direction: Independently verify the N560TW flight track via FAA or ADSB records; identify passengers via manifest if obtainable.
 
 ---

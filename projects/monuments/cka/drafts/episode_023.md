@@ -1379,6 +1379,8 @@ Claim: The host says N102DZ (G5 private jet) departed Scottsdale for Salt Lake C
 Anchored Artifacts: A-1309.1
 Mentions: N-1
 Related Nodes: N-10199
+Verification: corroborated
+Verification Evidence: S-13
 Investigative Direction: Pull Flightradar / FAA archives for N102DZ on September 10, 2025; identify operator and registered owner; cross-reference with Scottsdale and Salt Lake City airport logs.
 
 ---
@@ -1389,6 +1391,8 @@ Claim Timestamp: 00:43:20
 Claim: The host says N102DZ left Salt Lake City and headed to Scottsdale at about 1:00 PM local on September 10, 2025, was on the ground in Scottsdale for only about 15 minutes, and then turned around and flew out again.
 Anchored Artifacts: A-1309.1
 Related Nodes: N-10199
+Verification: corroborated
+Verification Evidence: S-13
 Investigative Direction: Verify the second-leg flight path; cross-check with Flightradar archives and FAA tracks.
 
 ---

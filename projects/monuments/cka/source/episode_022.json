@@ -3303,6 +3303,14 @@
      "v": "N-10196"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-13"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications."
     },
@@ -6602,6 +6610,14 @@
      "v": "relevance:context"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-13"
+    },
+    {
      "k": "Investigative Direction",
      "v": "FAA registration of N1098L and its owner LSA LLC, and any link to defense contractors."
     },
@@ -6665,6 +6681,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-13"
     },
     {
      "k": "Investigative Direction",
