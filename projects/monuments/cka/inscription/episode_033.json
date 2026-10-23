@@ -1906,8 +1906,10 @@
       "claim_timestamp": "00:26:19–00:27:30",
       "investigative_direction": "Independently verify the N560TW flight track via FAA or ADSB records; identify passengers via manifest if obtainable.",
       "mentions_person_refs": [],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-13"
+      ]
     },
     {
       "@type": "Claim",

@@ -2638,8 +2638,10 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-13"
+      ]
     },
     {
       "@type": "Claim",
@@ -2657,8 +2659,10 @@
       "claim_timestamp": "00:43:20",
       "investigative_direction": "Verify the second-leg flight path; cross-check with Flightradar archives and FAA tracks.",
       "mentions_person_refs": [],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-13"
+      ]
     },
     {
       "@type": "Claim",

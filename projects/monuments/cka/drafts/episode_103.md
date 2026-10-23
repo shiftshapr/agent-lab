@@ -848,6 +848,8 @@ Transcript Snippet: you can see that 25 minutes before Charlie was shot, the pla
 Anchored Artifacts: A-2568.1
 Mentions: N-1
 Related Nodes: N-10824
+Verification: corroborated
+Verification Evidence: S-13
 Investigative Direction: Pull ADS-B history for N582MM on September 10, 2025 and identify the Pierre arrival facility.
 
 ---

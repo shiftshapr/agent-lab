@@ -847,6 +847,8 @@ Anchored Artifacts:
 Mentions: N-3, N-1, N-260
 Related Nodes: N-260, N-10200, N-10071
 Supports: C-2924
+Verification: corroborated
+Verification Evidence: S-13
 Investigative Direction: Pull the September 10, 2025 ADS-B and FBO records for SU-BND to confirm the ground transponder pings and the lack of departure.
 
 ---

@@ -1972,8 +1972,10 @@
       "claim_timestamp": "00:12:53",
       "investigative_direction": "Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.",
       "mentions_person_refs": [],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-13"
+      ]
     },
     {
       "@type": "Claim",
@@ -3440,8 +3442,10 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-13"
+      ]
     },
     {
       "@type": "Claim",
@@ -3469,8 +3473,10 @@
         "N-67",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-13"
+      ],
       "open_questions": [
         "Q-206"
       ]

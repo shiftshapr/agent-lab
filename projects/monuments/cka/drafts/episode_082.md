@@ -868,6 +868,8 @@ Mentions: N-1
 
 Related Nodes: N-10511
 
+Verification: corroborated
+Verification Evidence: S-13
 Investigative Direction: Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest.
 
 ---

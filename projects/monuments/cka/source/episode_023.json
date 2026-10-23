@@ -5115,6 +5115,14 @@
      "v": "N-10199"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-13"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Pull Flightradar / FAA archives for N102DZ on September 10, 2025; identify operator and registered owner; cross-reference with Scottsdale and Salt Lake City airport logs."
     },
@@ -5153,6 +5161,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10199"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-13"
     },
     {
      "k": "Investigative Direction",

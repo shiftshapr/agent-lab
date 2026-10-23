@@ -895,6 +895,8 @@ Claim: The host says FlightRadar data shows Egyptian Air Force plane SU-BTT arri
 Anchored Artifacts: A-1292.1
 Mentions:
 Related Nodes: N-10196
+Verification: corroborated
+Verification Evidence: S-13
 Investigative Direction: Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.
 
 **C-2024** Host Says SU-BTT's Three-Year Routing Pattern Runs Through Paris to Air Force Base Cities
@@ -1747,6 +1749,8 @@ Mentions: N-3
 Related Nodes: N-10177, N-11138
 Supports: C-2058
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-13
 Investigative Direction: FAA registration of N1098L and its owner LSA LLC, and any link to defense contractors.
 
 ---
@@ -1764,6 +1768,8 @@ Mentions: N-67, N-1
 Related Nodes: N-10177, N-10195
 Qualifies: C-2001
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-13
 Investigative Direction: FlightRadar track for N1098L around 9:35 to 10:05 a.m. Mountain time.
 Open Questions: Q-206
 
