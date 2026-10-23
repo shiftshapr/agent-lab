@@ -4017,6 +4017,48 @@
   "claim_text": "The host says flight data shows N582MM departed Denver at 11:58 a.m. Mountain Time, 25 minutes before Charlie Kirk was shot, and landed at a military base in Pierre, South Dakota, at 12:56 p.m."
  },
  {
+  "claim": "C-9172",
+  "status": "corroborated",
+  "note": "ADS-B shows N582MM on the ground at Pierre for about 45 minutes (S-13: 12:55-13:40 MDT), then flying to Chicago Executive, and (S-14) landing at Provo at 00:57Z on 11 September (18:57 MDT on 10 September), where it stayed until the next morning.",
+  "evidence": [
+   {
+    "sid": "S-13",
+    "loc": "hex a77e75, 18:55:45Z-21:04Z",
+    "kind": "flight_data",
+    "speaker": "adsb.lol globe history (readsb)",
+    "fact": "N582MM stayed about 45 minutes at Pierre and flew to Chicago Executive (KPWK).",
+    "quote": "a77e75 N582MM: last point 18:55:45Z KPIR; takeoff 19:40:52Z KPIR; 21:04:05Z at 42.135,-87.913 (KPWK); takeoff ~22:00Z westbound"
+   },
+   {
+    "sid": "S-14",
+    "loc": "hex a77e75, 2025-09-11 00:57Z",
+    "kind": "flight_data",
+    "speaker": "adsb.lol globe history (readsb)",
+    "fact": "N582MM landed at Provo at 18:57 MDT on 2025-09-10 and next took off at 08:08 MDT on 2025-09-11.",
+    "quote": "a77e75 N582MM LJ60: landing 2025-09-11 00:57Z at KPVU; next takeoff 14:08Z KPVU"
+   }
+  ],
+  "episode": 103,
+  "claim_text": "The host says N582MM stayed in South Dakota about 50 minutes, flew to Chicago for an apparent pickup, then landed in Provo at 6:57 p.m. and stayed overnight."
+ },
+ {
+  "claim": "C-9173",
+  "status": "corroborated",
+  "note": "ADS-B (S-14) shows N582MM leaving Provo at 14:08Z on 11 September (08:08 MDT) after the overnight stop and landing at Pierre, South Dakota at about 15:47Z (09:47 MDT).",
+  "evidence": [
+   {
+    "sid": "S-14",
+    "loc": "hex a77e75, 2025-09-11 14:08Z-15:47Z",
+    "kind": "flight_data",
+    "speaker": "adsb.lol globe history (readsb)",
+    "fact": "N582MM flew Provo to Pierre on the morning of 2025-09-11.",
+    "quote": "a77e75 N582MM: takeoff 2025-09-11 14:08Z KPVU; landing ~15:47Z at KPIR"
+   }
+  ],
+  "episode": 103,
+  "claim_text": "The host says that after staying overnight in Provo on September 10, N582MM flew back to Pierre, South Dakota."
+ },
+ {
   "claim": "C-9501",
   "status": "corroborated",
   "note": "The UVU After-Action Report (S-12, p. 52) and Agent Hull (S-2, 05:58:03) confirm Kirk's security team transported him to Timpanogos Hospital; Turek's role is not covered.",

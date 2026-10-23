@@ -1,0 +1,66 @@
+{
+ "source": "S-14",
+ "date": "2025-09-11 (UTC day: 2025-09-10 18:00 to 2025-09-11 18:00 MDT)",
+ "note": "Derived from adsb.lol globe history (ODbL). Times are UTC; MDT = UTC-6. Individual owners are omitted.",
+ "aircraft": {
+  "0101d3": {
+   "r": "SU-BTT",
+   "t": "FA7X",
+   "desc": "DASSAULT Falcon 7X",
+   "ownOp": null,
+   "legs": [
+    "KILG Wilmington (1 km) 11:55Z / 05:55 MDT -> (45.489,-58.589) 13:37Z / 07:37 MDT; max alt 39125 ft; 552 pts",
+    "(46.677,-52.138) 14:07Z / 08:07 MDT -> (46.698,-52.006) 14:08Z / 08:08 MDT; max alt 41000 ft; 4 pts",
+    "(47.910,-8.163) 17:17Z / 11:17 MDT -> (35.454,23.934) 20:21Z / 14:21 MDT; max alt 43025 ft; 580 pts",
+    "(34.166,27.566) 20:45Z / 14:45 MDT -> (30.052,31.359) 21:35Z / 15:35 MDT; max alt 43025 ft; 263 pts"
+   ]
+  },
+  "a00c85": {
+   "r": "N102DZ",
+   "t": "GLF5",
+   "desc": "GULFSTREAM 5",
+   "ownOp": "GV 555 LLC",
+   "legs": [
+    "(34.214,-119.094) 00:21Z / 18:21 MDT -> KPVU Provo (0 km) 01:31Z / 19:31 MDT; max alt 41025 ft; 696 pts",
+    "on ground KPVU Provo (0 km) 01:31Z / 19:31 MDT .. 01:33Z / 19:33 MDT",
+    "KPVU Provo (0 km) 15:54Z / 09:54 MDT -> KSDL Scottsdale (24 km) 17:15Z / 11:15 MDT; max alt 37000 ft; 637 pts",
+    "on ground KSDL Scottsdale (24 km) 17:15Z / 11:15 MDT .. 17:20Z / 11:20 MDT"
+   ]
+  },
+  "a0299e": {
+   "r": "N1098L",
+   "t": "GLEX",
+   "desc": "BOMBARDIER BD-700 Global 6000/6500",
+   "ownOp": "LASAI AVIATION II LLC",
+   "legs": [
+    "(36.664,-121.642) 00:53Z / 18:53 MDT -> (33.447,-108.686) 03:02Z / 21:02 MDT; max alt 41050 ft; 700 pts"
+   ]
+  },
+  "a4ab14": {
+   "r": "N40JD",
+   "t": "PRM1",
+   "desc": "RAYTHEON 390 Premier 1",
+   "ownOp": "NUP AVIATION LLC",
+   "legs": [
+    "on ground KSDL Scottsdale (0 km) 20:24Z / 14:24 MDT .. 20:38Z / 14:38 MDT",
+    "KSDL Scottsdale (0 km) 21:03Z / 15:03 MDT -> (34.055,-117.584) 22:02Z / 16:02 MDT; max alt 30025 ft; 475 pts",
+    "(34.055,-117.595) 22:52Z / 16:52 MDT -> KSDL Scottsdale (0 km) 23:43Z / 17:43 MDT; max alt 29025 ft; 504 pts",
+    "on ground KSDL Scottsdale (0 km) 23:43Z / 17:43 MDT .. 23:46Z / 17:46 MDT"
+   ]
+  },
+  "a77e75": {
+   "r": "N582MM",
+   "t": "LJ60",
+   "desc": "LEARJET 60",
+   "ownOp": "DOJA CONTRACTING LLC, TK ENTERPRISES LLC, JRO AVIATION LLC",
+   "legs": [
+    "(41.722,-105.591) 00:00Z / 18:00 MDT -> KPVU Provo (0 km) 00:57Z / 18:57 MDT; max alt 40025 ft; 325 pts",
+    "on ground KPVU Provo (0 km) 00:57Z / 18:57 MDT .. 00:59Z / 18:59 MDT",
+    "KPVU Provo (0 km) 14:08Z / 08:08 MDT -> KPIR Pierre (1 km) 15:47Z / 09:47 MDT; max alt 40000 ft; 702 pts",
+    "KPIR Pierre (1 km) 16:25Z / 10:25 MDT -> (35.553,-97.646) 17:49Z / 11:49 MDT; max alt 40000 ft; 523 pts",
+    "(35.524,-97.646) 18:45Z / 12:45 MDT -> (29.751,-98.090) 19:42Z / 13:42 MDT; max alt 40000 ft; 600 pts",
+    "(29.732,-98.068) 21:21Z / 15:21 MDT -> (42.318,-113.130) 23:59Z / 17:59 MDT; max alt 40025 ft; 706 pts"
+   ]
+  }
+ }
+}

@@ -3291,6 +3291,14 @@
      "v": "N-10824, N-10071"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-13, S-14"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain ADS-B and FBO records for N582MM's Chicago stop and Provo arrival, and the passengers boarded in Chicago."
     },
@@ -3346,6 +3354,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10824, N-10071"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-14"
     },
     {
      "k": "Investigative Direction",

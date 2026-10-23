@@ -865,6 +865,8 @@ Transcript Snippet: stayed in South Dakota for about 50 minutes before heading o
 Anchored Artifacts: A-2568.1
 Mentions: 
 Related Nodes: N-10824, N-10071
+Verification: corroborated
+Verification Evidence: S-13, S-14
 Investigative Direction: Obtain ADS-B and FBO records for N582MM's Chicago stop and Provo arrival, and the passengers boarded in Chicago.
 
 ---
@@ -880,6 +882,8 @@ Transcript Snippet: After it stayed overnight in Provo on September 10th, it the
 Anchored Artifacts: A-2568.1
 Mentions: 
 Related Nodes: N-10824, N-10071
+Verification: corroborated
+Verification Evidence: S-14
 Investigative Direction: Pull N582MM's September 11, 2025 flight history.
 
 ---
