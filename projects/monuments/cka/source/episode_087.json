@@ -4500,6 +4500,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-80, S-85"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify the tweet's exact timestamp and confirm the subject's identity against law enforcement records."
     },
@@ -4554,6 +4562,14 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-80, S-85"
     },
     {
      "k": "Investigative Direction",

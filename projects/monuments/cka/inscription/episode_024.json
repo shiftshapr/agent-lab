@@ -2163,8 +2163,10 @@
         "N-2",
         "N-211"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -3306,8 +3308,10 @@
       "mentions_person_refs": [
         "N-2"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-71"
+      ],
       "open_questions": [
         "Q-256"
       ]
@@ -3546,8 +3550,10 @@
         "N-2",
         "N-211"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-71"
+      ]
     },
     {
       "@type": "Claim",

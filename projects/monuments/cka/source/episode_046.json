@@ -3199,6 +3199,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-72, S-83, S-91"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm the verbatim exchange against the published CBS video and check whether the question appears in any released pre-production packet."
     },
@@ -5845,6 +5853,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-72"
     },
     {
      "k": "Investigative Direction",

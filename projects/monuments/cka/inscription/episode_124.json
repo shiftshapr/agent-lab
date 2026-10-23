@@ -3531,8 +3531,10 @@
       "mentions_person_refs": [
         "N-89"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-87"
+      ],
       "open_questions": [
         "Q-938"
       ]

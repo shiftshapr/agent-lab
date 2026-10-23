@@ -2573,8 +2573,11 @@
         "N-69",
         "N-410"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-80",
+        "S-85"
+      ]
     },
     {
       "@type": "Claim",
@@ -2595,8 +2598,11 @@
         "N-69",
         "N-410"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-80",
+        "S-85"
+      ]
     },
     {
       "@type": "Claim",

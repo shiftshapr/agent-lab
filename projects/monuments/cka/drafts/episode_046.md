@@ -888,6 +888,8 @@ Anchored Artifacts: A-1533.1, A-1533.2
 Mentions: N-2, N-3, N-278
 
 
+Verification: corroborated
+Verification Evidence: S-72, S-83, S-91
 Investigative Direction: Confirm the verbatim exchange against the published CBS video and check whether the question appears in any released pre-production packet.
 
 ---
@@ -1584,6 +1586,8 @@ Anchored Artifacts: A-1533.5
 Mentions: N-3, N-326, N-1
 Related Nodes: N-10313, N-10350
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-72
 Investigative Direction: Compare Kozak's identity with the questioner in the September 10 footage; note the existing Cosgrove and Kozak identity discrepancy topic.
 Open Questions: Q-411
 

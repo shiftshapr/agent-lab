@@ -6429,6 +6429,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-78"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check Neff's testimony and Erika Kirk's own accounts of who told her and when."
     },
@@ -7073,6 +7081,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-68"
     },
     {
      "k": "Investigative Direction",

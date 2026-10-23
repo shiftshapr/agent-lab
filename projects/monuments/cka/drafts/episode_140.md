@@ -1291,6 +1291,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10000, N-11177
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-84
 Investigative Direction: Identify the employee in the witness list and obtain her statement to investigators.
 Open Questions: Q-1083
 

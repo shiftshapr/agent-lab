@@ -2143,6 +2143,8 @@ Anchored Artifacts:
 Mentions: N-211, N-2, N-3
 Related Nodes: 
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-71
 Investigative Direction: Locate the Fox News airing date and transcript of the Watters interview with Erika Kirk.
 Open Questions: Q-255
 

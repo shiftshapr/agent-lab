@@ -1005,6 +1005,8 @@ Claim: In a clip the host plays, Nate Brooksby says that during the initial call
 Anchored Artifacts: A-1172.2
 Mentions: N-272, N-40
 Related Nodes: N-10137
+Verification: corroborated
+Verification Evidence: S-107, S-108
 Investigative Direction: Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.
 
 **C-976** Brooksby stated Tyler Robinson came in willingly out of fear of being shot by law enforcement
@@ -1051,6 +1053,8 @@ Claim: The host says it is confusing that Nate Brooksby tells us Tyler is suicid
 Anchored Artifacts: A-1172.2, A-1172.3
 Mentions: N-272, N-40
 Related Nodes: N-10137
+Verification: corroborated
+Verification Evidence: S-107, S-108
 Investigative Direction: Seek clarification from Brooksby or from the Washington County Sheriff's Office on which account is operative.
 
 **C-1014** Phil Lyman Says He Parked in the TMZ Footage Driveway About 10 Minutes Before the Shooter Walked By

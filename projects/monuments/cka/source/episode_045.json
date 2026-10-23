@@ -3084,6 +3084,14 @@
      "v": "relevance:context"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-72, S-91"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check the publisher's announcement for the book title, subject and release date."
     },
@@ -4449,6 +4457,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-91"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare with the charging documents on whether any accomplice is alleged."
     },
@@ -4772,6 +4788,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-83, S-91"
     },
     {
      "k": "Investigative Direction",

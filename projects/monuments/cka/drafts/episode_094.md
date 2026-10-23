@@ -1176,6 +1176,8 @@ Anchored Artifacts: A-1994.1
 
 Related Nodes: N-10571
 
+Verification: corroborated
+Verification Evidence: S-110
 Investigative Direction: Obtain probable cause hearing exhibit list when filed.
 
 ---

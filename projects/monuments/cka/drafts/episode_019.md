@@ -1512,6 +1512,8 @@ Anchored Artifacts:
 Mentions: N-190, N-1
 Related Nodes: N-10190
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-78
 Investigative Direction: Map Mikey McCoy's position from stage and crowd footage and the UVU site plan.
 Open Questions: Q-213
 

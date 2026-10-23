@@ -1289,6 +1289,8 @@ Anchored Artifacts:
 Mentions: N-69, N-3
 Related Nodes: N-10024
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-80, S-85
 Investigative Direction: Retrieve the original Patel posts with their timestamps and compare with the host's 5:30 and 5:59 figures.
 Open Questions: Q-450
 

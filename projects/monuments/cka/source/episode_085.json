@@ -4770,6 +4770,14 @@
      "v": "N-10021"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-107, S-108"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify against other sources."
     },
@@ -4818,6 +4826,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10021, N-11360"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-107, S-108"
     },
     {
      "k": "Investigative Direction",

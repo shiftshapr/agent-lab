@@ -2149,6 +2149,8 @@ Transcript Snippet: Oh, yeah, I did sit down with Piers Morgan this morning.
 
 Anchored Artifacts: A-2742.1
 Mentions: N-3, N-204
+Verification: corroborated
+Verification Evidence: S-90
 Investigative Direction: Find the published Piers Morgan interview and its date.
 
 ---

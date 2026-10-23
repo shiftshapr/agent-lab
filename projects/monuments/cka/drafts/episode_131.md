@@ -1248,6 +1248,8 @@ Anchored Artifacts: A-2182.1
 Mentions: N-389, N-97, N-1, N-3
 Supports: C-4665
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-98
 Investigative Direction: Obtain the full AmFest December 2025 recording of Bannon's remarks and check whether the sentence is in the original audio.
 
 ---

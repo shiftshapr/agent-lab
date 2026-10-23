@@ -3201,8 +3201,10 @@
         "N-190",
         "N-2"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-78"
+      ],
       "open_questions": [
         "Q-212"
       ]
@@ -3475,8 +3477,10 @@
         "N-425",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-68"
+      ],
       "open_questions": [
         "Q-183"
       ]

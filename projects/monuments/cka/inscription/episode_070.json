@@ -1638,8 +1638,10 @@
       "mentions_person_refs": [
         "N-550"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-79"
+      ]
     },
     {
       "@type": "Claim",
@@ -1661,8 +1663,10 @@
         "N-550",
         "N-14"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-79"
+      ]
     },
     {
       "@type": "Claim",
@@ -1683,8 +1687,10 @@
         "N-550",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-79"
+      ]
     },
     {
       "@type": "Claim",

@@ -916,6 +916,8 @@ Transcript Snippet: The cries of this widow will echo around the world like a ba
 Anchored Artifacts: A-1081.1
 Mentions: N-1, N-2, N-3
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-77
 Investigative Direction: Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.
 
 ---

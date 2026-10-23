@@ -1152,6 +1152,8 @@ Transcript Snippet: And we then know Kash Patel tweets that the subject in custo
 Anchored Artifacts: A-2711.2
 Mentions: N-69
 Related Nodes: N-10093
+Verification: corroborated
+Verification Evidence: S-80, S-85
 Investigative Direction: Retrieve the Kash Patel X post and its timestamp and match it to the release of the first detained man.
 
 ---

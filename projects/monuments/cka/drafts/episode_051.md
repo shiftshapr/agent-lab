@@ -1068,6 +1068,8 @@ Anchored Artifacts: A-1570.1
 Mentions: N-326, N-1, N-3
 Related Nodes: N-10350
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-72
 Investigative Direction: Review UVU event video of the question-and-answer exchange to confirm the topic of Cosgrove's question and its timing relative to the shot.
 Open Questions: Q-440
 

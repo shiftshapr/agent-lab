@@ -1049,6 +1049,8 @@ Mentions: N-2, N-211
 
 Related Nodes: N-10208
 
+Verification: corroborated
+Verification Evidence: S-71
 Investigative Direction: Verify by reviewing the full Jesse Watters interview once aired and any subsequent court filings on the camera question.
 
 ---
@@ -1788,6 +1790,8 @@ Anchored Artifacts: A-1318.1
 Mentions: N-2
 Related Nodes: N-10316
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-71
 Investigative Direction: Ask Erika Kirk or prosecutors what material she was shown and when; compare with the court record.
 Open Questions: Q-256
 
@@ -1940,6 +1944,8 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-211
 Related Nodes: N-10006, N-11025
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-71
 Investigative Direction: Fox News airing schedule for the interview.
 
 ---

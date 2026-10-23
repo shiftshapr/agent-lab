@@ -2303,6 +2303,8 @@ Anchored Artifacts:
 Mentions: N-2, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-73
 Investigative Direction: Verify Erika Kirk's titles and the date they took effect.
 
 ---
