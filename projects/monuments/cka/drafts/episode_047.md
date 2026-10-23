@@ -1525,6 +1525,8 @@ Anchored Artifacts: A-1540.1
 
 Related Nodes: N-10316
 
+Verification: corroborated
+Verification Evidence: S-19, S-38, S-55
 Investigative Direction: Confirm hearing date through Utah state court docket.
 
 ---
@@ -1720,6 +1722,8 @@ Mentions: N-14, N-1
 
 Related Nodes: N-10319
 
+Verification: corroborated
+Verification Evidence: S-28
 Investigative Direction: Verify the original tweet content and the surgeon's identity.
 
 ---

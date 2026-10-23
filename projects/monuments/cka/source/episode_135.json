@@ -2833,6 +2833,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58, S-59"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain official preliminary hearing transcript from Utah court records and compare to the played audio."
     },
@@ -5455,6 +5463,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58"
     },
     {
      "k": "Investigative Direction",

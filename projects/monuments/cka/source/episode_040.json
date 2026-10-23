@@ -2658,6 +2658,14 @@
      "v": "N-159, N-1"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-49"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal."
     },
@@ -2702,6 +2710,14 @@
     {
      "k": "Mentions",
      "v": "N-159"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-49"
     },
     {
      "k": "Investigative Direction",
@@ -3249,6 +3265,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10000"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-49"
     },
     {
      "k": "Investigative Direction",
@@ -4731,6 +4755,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10075"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-49"
     },
     {
      "k": "Investigative Direction",

@@ -950,6 +950,8 @@ Claim: Trump's Truth Social post called Candace Owens "an extremely low IQ indiv
 Anchored Artifacts: A-2007.1
 Mentions: N-3, N-5
 Related Nodes: N-10585
+Verification: corroborated
+Verification Evidence: S-66
 Investigative Direction: Verify the post on Truth Social directly and confirm timestamp; identify authorship via platform logs.
 
 **C-8573** Washington Post reported Secret Service officers fired at WHCD suspect

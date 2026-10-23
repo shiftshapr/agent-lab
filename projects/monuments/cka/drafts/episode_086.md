@@ -670,6 +670,8 @@ Anchored Artifacts: A-1912.1
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-38, S-55
 Investigative Direction: Obtain certified copy of the filed motion and confirm filing date and assigned judge.
 
 ---
@@ -701,6 +703,8 @@ Anchored Artifacts: A-1912.1
 
 Related Nodes: N-10520
 
+Verification: corroborated
+Verification Evidence: S-38
 Investigative Direction: Obtain status filing or prosecutorial disclosure regarding timeline of FBI secondary analyses.
 
 ---
@@ -1433,6 +1437,8 @@ Anchored Artifacts: A-1912.1
 Mentions: N-40
 Related Nodes: N-10521, N-10532
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-38
 Investigative Direction: Obtain the exhibits to the motion listing each discovery request and the state's responses.
 Open Questions: Q-750
 

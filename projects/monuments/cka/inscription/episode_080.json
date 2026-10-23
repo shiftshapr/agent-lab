@@ -1613,8 +1613,10 @@
       "mentions_person_refs": [
         "N-209"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-47"
+      ]
     },
     {
       "@type": "Claim",
@@ -1634,8 +1636,10 @@
       "mentions_person_refs": [
         "N-209"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-47"
+      ]
     },
     {
       "@type": "Claim",

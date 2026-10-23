@@ -946,6 +946,8 @@ Claim: Brian Harpole states in his account that he got on top of Charlie on a gu
 Anchored Artifacts: A-2094.1
 Mentions: N-266
 Related Nodes: N-10621, N-10622
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony.
 
 **C-10321** Brian Harpole States Car Door Was Open During Hospital Transport
@@ -957,6 +959,8 @@ Claim: Brian Harpole states that the car door behind him remained open during th
 Anchored Artifacts: A-2094.2
 Mentions: N-266, N-487
 Related Nodes: N-10624
+Verification: corroborated
+Verification Evidence: S-58, S-59
 Investigative Direction: Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.
 
 **C-10322** Brian Harpole States Speeds of 60–80–100 mph During Transport
@@ -979,6 +983,8 @@ Claim: Brian Harpole states he applied approximately 36 ft (12 yd) of dressing, 
 Anchored Artifacts: A-2094.3, A-2094.4
 Mentions: N-266
 Related Nodes: N-10633
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification.
 
 **C-10323** Brian Harpole States Frank Turek Was Praying in Backseat During Transport
@@ -990,6 +996,8 @@ Claim: In a clip the host plays, Brian Harpole says Frank Turek was praying out 
 Anchored Artifacts: A-2094.2
 Mentions: N-266, N-7
 Related Nodes: N-10624, N-10625
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech.
 
 **C-10324** Brian Harpole States Rick Cutler Physically Held Him During Transport
@@ -1001,6 +1009,8 @@ Claim: Brian Harpole states that Rick Cutler reached across and held onto him so
 Anchored Artifacts: A-2094.2
 Mentions: N-266, N-487
 Related Nodes: N-10624
+Verification: corroborated
+Verification Evidence: S-58, S-59
 Investigative Direction: Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.
 
 **C-10348** Frank Turek States He Changed into Hospital Scrubs

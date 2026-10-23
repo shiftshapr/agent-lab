@@ -2203,6 +2203,8 @@ Mentions: N-7, N-3
 Related Nodes: N-10636, N-10625
 Supports: C-10093
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-27
 Investigative Direction: List each Turek appearance and the CPR wording used in each.
 Open Questions: Q-915
 

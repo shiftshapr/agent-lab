@@ -916,6 +916,8 @@ Mentions: N-40
 
 Related Nodes: N-10545
 
+Verification: corroborated
+Verification Evidence: S-16
 Investigative Direction: Retrieve the original Discord statement and The Hill article for exact text.
 
 ---
@@ -1710,6 +1712,8 @@ Anchored Artifacts:
 Mentions: N-3, N-272, N-810, N-125
 Related Nodes: N-10029
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Obtain call logs and sheriff statements from both offices for the evening of September 11.
 Open Questions: Q-735
 

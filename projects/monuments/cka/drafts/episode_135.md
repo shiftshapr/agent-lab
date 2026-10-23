@@ -769,6 +769,8 @@ Mentions: N-1, N-266
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-58, S-59
 Investigative Direction: Obtain official preliminary hearing transcript from Utah court records and compare to the played audio.
 
 **C-11647** Anesthesiologist wound-pattern assessment
@@ -1456,6 +1458,8 @@ Anchored Artifacts:
 Mentions: N-266, N-487, N-7
 Related Nodes: N-10636
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Obtain Harpole's preliminary hearing testimony and Turek's and Cutler's separate accounts and compare who did CPR.
 Open Questions: Q-882
 

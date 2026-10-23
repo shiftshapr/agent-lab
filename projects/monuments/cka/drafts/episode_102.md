@@ -2115,6 +2115,8 @@ Mentions: N-2, N-798, N-3
 Related Nodes: N-10342
 Supports: C-3901
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-36
 Investigative Direction: Pull the Fox News broadcast and match its date to the host's first Mitch segment.
 Open Questions: Q-871
 

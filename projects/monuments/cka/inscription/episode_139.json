@@ -3715,8 +3715,11 @@
         "N-54",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-32",
+        "S-40"
+      ],
       "open_questions": [
         "Q-1078"
       ]
@@ -3979,8 +3982,11 @@
         "N-54",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-17",
+        "S-40"
+      ],
       "open_questions": [
         "Q-1079"
       ]

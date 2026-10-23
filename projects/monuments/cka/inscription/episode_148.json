@@ -3294,8 +3294,10 @@
         "N-164",
         "N-55"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-15"
+      ],
       "open_questions": [
         "Q-168"
       ]
@@ -3425,8 +3427,10 @@
         "N-2",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-26"
+      ],
       "open_questions": [
         "Q-1148"
       ]

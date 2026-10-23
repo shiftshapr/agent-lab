@@ -4529,6 +4529,14 @@
      "sep": ":"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-65"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm with FBI 302 forms or other official records; interview both owner and server directly."
     },
@@ -4661,6 +4669,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10006"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-65"
     },
     {
      "k": "Investigative Direction",

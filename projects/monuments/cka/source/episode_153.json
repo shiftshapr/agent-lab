@@ -2535,6 +2535,14 @@
      "v": "N-10756"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-60"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents."
     },
@@ -3029,6 +3037,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10759"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-60"
     },
     {
      "k": "Investigative Direction",
@@ -4883,6 +4899,14 @@
     {
      "k": "Tags",
      "v": "relevance:context"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-60"
     },
     {
      "k": "Investigative Direction",

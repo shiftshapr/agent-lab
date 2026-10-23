@@ -986,6 +986,8 @@ Claim Timestamp: 00:09:06
 Claim: In a clip the host plays, Nate Brooksby says that at 8:02 p.m. a friend who has been retired a few years, whom the host describes as a former detective, called to say he knew who the Charlie Kirk shooter was.
 Anchored Artifacts: A-1172.1
 Mentions: N-272, N-125
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a "retired Washington County deputy").
 
 **C-996** Brooksby Says He Withheld the Retired Deputy's Identity to Protect Him
@@ -1012,6 +1014,8 @@ Claim: In a clip the host plays, Brooksby says Tyler's arrival at his office was
 Anchored Artifacts: A-1172.3
 Mentions: N-272, N-40
 Related Nodes: N-10137
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim.
 
 **C-980** Lance's Instagram posts establish a romantic relationship with Tyler Robinson
@@ -1380,6 +1384,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-18, S-33
 Investigative Direction: Trace the original media and official source for the father-phones-friend narrative (the Cox press briefings and reporting).
 Open Questions: Q-34
 
@@ -1554,6 +1560,8 @@ Anchored Artifacts: A-1172.1
 Mentions: N-272
 Related Nodes: N-10029, N-10137
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Obtain the unedited press-conference audio to confirm whether Brooksby said 'voluntarily' or 'involuntarily'. Identify the friend's religious association with the family (court filings named him).
 Open Questions: Q-34, Q-109
 
@@ -2048,6 +2056,8 @@ Anchored Artifacts: A-1172.3
 Mentions: N-272, N-40
 Related Nodes: N-10932
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Timing of the FBI's public release of the suspect images and rifle photo versus the 8:02 call; full Brooksby press-conference recording.
 Open Questions: Q-34
 
@@ -2339,6 +2349,8 @@ Anchored Artifacts: A-1172.1
 Mentions: N-272, N-125
 Related Nodes: N-10029
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-18, S-61
 Investigative Direction: Charging documents and probable cause statement in State v. Robinson describing the retired Washington County deputy.
 Open Questions: Q-34, Q-109
 

@@ -3217,8 +3217,10 @@
         "N-1",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-26"
+      ],
       "open_questions": [
         "Q-736",
         "Q-775"
@@ -3248,8 +3250,10 @@
         "N-190",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-26"
+      ],
       "open_questions": [
         "Q-212",
         "Q-736"
@@ -3308,8 +3312,10 @@
         "N-211",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-44"
+      ],
       "open_questions": [
         "Q-776"
       ]

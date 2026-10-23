@@ -830,6 +830,8 @@ Claim: The host says Erika Kirk said in her Jesse Watters interview that she wan
 
 Anchored Artifacts: A-1746.1
 Mentions: N-1, N-2, N-211
+Verification: corroborated
+Verification Evidence: S-44
 Investigative Direction: Locate unedited Watters interview footage and confirm the bedroom-arrangement quote.
 
 **C-6284** Erika told Jesse Watters she landed in Utah and went straight to the hospital
@@ -1203,6 +1205,8 @@ Anchored Artifacts:
 Mentions: N-3, N-1, N-2
 Related Nodes: N-10826
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-44
 Investigative Direction: Locate the interview (the host's source for the wedding band detail is not named) and confirm Erika Kirk's exact words.
 Open Questions: Q-578
 
@@ -1510,6 +1514,8 @@ Anchored Artifacts: A-2932.1
 Mentions: N-3, N-2
 Related Nodes: N-10457, N-10449
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-26, S-44
 Investigative Direction: Find where Erika Kirk made the statement about her mother's treatment and the treatment's date and location.
 Open Questions: Q-562
 

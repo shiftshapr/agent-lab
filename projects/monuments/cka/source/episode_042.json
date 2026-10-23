@@ -7268,6 +7268,14 @@
      "v": "relevance:context"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-49"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check CBS announcements for the Weiss interview date."
     },
@@ -7327,6 +7335,14 @@
     {
      "k": "Tags",
      "v": "relevance:context"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-49"
     },
     {
      "k": "Investigative Direction",

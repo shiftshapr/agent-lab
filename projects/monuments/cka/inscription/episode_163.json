@@ -2964,8 +2964,10 @@
         "N-266",
         "N-487"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58"
+      ],
       "open_questions": [
         "Q-882"
       ]
@@ -3111,8 +3113,11 @@
         "N-224",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58",
+        "S-59"
+      ],
       "open_questions": [
         "Q-882"
       ]
@@ -3139,8 +3144,10 @@
         "N-266",
         "N-487"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58"
+      ],
       "open_questions": [
         "Q-882"
       ]
@@ -3168,8 +3175,11 @@
         "N-7",
         "N-487"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58",
+        "S-59"
+      ],
       "open_questions": [
         "Q-231"
       ]
@@ -3341,8 +3351,10 @@
       "mentions_person_refs": [
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58"
+      ],
       "open_questions": [
         "Q-1261"
       ]

@@ -792,6 +792,8 @@ Mentions: N-2, N-1
 
 Related Nodes: N-10469
 
+Verification: corroborated
+Verification Evidence: S-44
 Investigative Direction: Obtain the original Fox News segment; check whether jewelry handling on the night before is corroborated by any other witness or by luggage/clothing evidence.
 
 ---
@@ -1222,6 +1224,8 @@ Anchored Artifacts: A-1775.1
 Mentions: N-2, N-1
 Related Nodes: N-10469
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-44
 Investigative Direction: Ask whether any witness or record places Charlie in the daughter's room that night.
 Open Questions: Q-607
 
@@ -1239,6 +1243,8 @@ Anchored Artifacts: A-1775.1
 Mentions: N-2, N-1
 Related Nodes: N-10469
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-44
 Investigative Direction: Check the personal effects inventory from the hospital or medical examiner to see whether the ring and necklace were on Charlie.
 Open Questions: Q-578, Q-607
 
@@ -1338,6 +1344,8 @@ Transcript Snippet: Charlie, have you ever thought about wearing a vest? He woul
 Anchored Artifacts: A-1775.2
 Mentions: N-2, N-1
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-44
 Investigative Direction: Compare with supplier accounts of the campus-tour vests and ask security staff whether a vest was offered or declined.
 Open Questions: Q-138
 
@@ -1355,6 +1363,8 @@ Anchored Artifacts: A-1775.2
 Mentions: N-2, N-1
 Related Nodes: N-10390
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Verify Erika Kirk's whereabouts on September 8 to 10 against the Phoenix account, and the Colorado State event listing.
 Open Questions: Q-562, Q-591
 

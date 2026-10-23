@@ -3209,6 +3209,14 @@
      "v": "N-1, N-2"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-64"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify the full text/transcript of Erika's speech against published recording."
     },
@@ -3255,6 +3263,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10000, N-10081"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-28"
     },
     {
      "k": "Investigative Direction",
@@ -3399,6 +3415,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10014"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-16"
     },
     {
      "k": "Investigative Direction",
@@ -4976,6 +5000,14 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-16"
     },
     {
      "k": "Investigative Direction",

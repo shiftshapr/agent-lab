@@ -1699,6 +1699,8 @@ Anchored Artifacts: A-2792.3
 Mentions: N-3, N-40
 Related Nodes: N-10354
 Supports: C-4518
+Verification: corroborated
+Verification Evidence: S-65
 Investigative Direction: Locate the owner's interview and any FBI report on the restaurant contact.
 
 ---

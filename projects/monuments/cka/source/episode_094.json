@@ -4078,6 +4078,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-39"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status."
     },
@@ -6674,6 +6682,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-39"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check the docket for the dates of the ATF and FBI productions. The caption is garbled here, so confirm the sentence against the hearing audio."
     },
@@ -7647,6 +7663,14 @@
     {
      "k": "Tags",
      "v": "relevance:context"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-31, S-41"
     },
     {
      "k": "Investigative Direction",

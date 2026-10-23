@@ -1866,8 +1866,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-33"
+      ]
     },
     {
       "@type": "Claim",
@@ -2549,8 +2551,10 @@
       "supports_claim_refs": [
         "C-141"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -2931,8 +2935,10 @@
       "mentions_person_refs": [
         "N-5"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-52"
+      ]
     },
     {
       "@type": "Claim",

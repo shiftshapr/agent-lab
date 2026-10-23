@@ -781,6 +781,8 @@ Transcript Snippet: I'm currently being sued by Brian Harpole, head of Charlie's
 Anchored Artifacts:
 Mentions: N-266, N-3
 Related Nodes: N-10593
+Verification: corroborated
+Verification Evidence: S-58, S-59, S-66
 Investigative Direction: Pull the complaint and docket in Harpole's defamation suit against the host.
 
 ---

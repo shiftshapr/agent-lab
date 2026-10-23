@@ -1549,8 +1549,10 @@
         "N-271",
         "N-751"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-60"
+      ]
     },
     {
       "@type": "Claim",
@@ -1783,8 +1785,10 @@
       "tags": [],
       "claim_timestamp": "00:19:44",
       "investigative_direction": "Retrieve Tuminez's contemporaneous internal communications and PD shift logs.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-60"
+      ]
     },
     {
       "@type": "Claim",
@@ -2564,8 +2568,10 @@
         "N-3",
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-60"
+      ]
     },
     {
       "@type": "Claim",

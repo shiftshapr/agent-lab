@@ -547,6 +547,8 @@ Anchored Artifacts: A-2355.1
 Mentions: N-3, N-5
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-66
 Investigative Direction: Locate the original tweet via archive. *Artifact verbally referenced but not shown in episode.*
 
 ---

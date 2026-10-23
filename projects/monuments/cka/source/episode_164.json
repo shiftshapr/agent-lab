@@ -4766,6 +4766,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-27"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Crime-scene photos of the vehicle interior."
     },
@@ -4833,6 +4841,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-27"
     },
     {
      "k": "Investigative Direction",

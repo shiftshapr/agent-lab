@@ -1838,6 +1838,8 @@ Anchored Artifacts: A-1596.1
 Mentions: N-266, N-3
 Related Nodes: N-10619
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-45
 Investigative Direction: Review the Shawn Ryan interview transcript for the rooftop remark and compare with UVU police operational plans for the September 10 event.
 Open Questions: Q-188
 
@@ -2355,6 +2357,8 @@ Mentions: N-42
 Related Nodes: N-10093
 Supports: C-157
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-30
 Investigative Direction: Obtain the Zinn charging documents and probable cause statement describing the images charge.
 Open Questions: Q-28
 
@@ -3359,6 +3363,8 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10370
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-50
 Investigative Direction: Obtain Kirk's travel itinerary and event schedule for the Korea and Japan trip in September 2025.
 Open Questions: Q-370
 

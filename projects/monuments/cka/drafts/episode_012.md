@@ -1443,6 +1443,8 @@ Mentions: N-42, N-3
 Related Nodes: N-10032
 Supports: C-157
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-30
 Investigative Direction: Pull the court filings and charging documents for Zinn's arrest and the device evidence.
 Open Questions: Q-135
 

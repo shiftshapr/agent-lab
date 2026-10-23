@@ -1556,6 +1556,8 @@ Anchored Artifacts: A-2191.1
 Mentions: N-2, N-1
 Related Nodes: N-10000, N-10681
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-36
 Investigative Direction: Obtain TPUSA's memorial plans, budget and timeline.
 Open Questions: Q-816
 
@@ -1573,6 +1575,8 @@ Anchored Artifacts: A-2191.1
 Mentions: N-2, N-1
 Related Nodes: N-10681
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-36
 Investigative Direction: Check whether any threat or vandalism report involves the grave or burial site.
 Open Questions: Q-816
 

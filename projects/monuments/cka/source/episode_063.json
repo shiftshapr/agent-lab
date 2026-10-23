@@ -3213,6 +3213,14 @@
      "v": "N-2"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-26"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify NYT byline, interview location, and publication date; compare with NYT editorial logs and any contemporaneous NYT reporter commentary."
     },
@@ -3964,6 +3972,14 @@
      "v": "relevance:context"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-26"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm the children's ages in the published article and against other reporting."
     },
@@ -4088,6 +4104,14 @@
     {
      "k": "Tags",
      "v": "relevance:context"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-57, S-64"
     },
     {
      "k": "Investigative Direction",

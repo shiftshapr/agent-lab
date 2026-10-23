@@ -2107,8 +2107,10 @@
         "N-272",
         "N-125"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-61"
+      ]
     },
     {
       "@type": "Claim",
@@ -2172,8 +2174,10 @@
         "N-272",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-61"
+      ]
     },
     {
       "@type": "Claim",
@@ -2867,8 +2871,11 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-18",
+        "S-33"
+      ],
       "open_questions": [
         "Q-34"
       ]
@@ -3154,8 +3161,10 @@
       "mentions_person_refs": [
         "N-272"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-61"
+      ],
       "open_questions": [
         "Q-34",
         "Q-109"
@@ -3961,8 +3970,10 @@
         "N-272",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-61"
+      ],
       "open_questions": [
         "Q-34"
       ]
@@ -4446,8 +4457,11 @@
         "N-272",
         "N-125"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-18",
+        "S-61"
+      ],
       "open_questions": [
         "Q-34",
         "Q-109"

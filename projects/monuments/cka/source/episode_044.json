@@ -3787,6 +3787,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-50"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain Kirk's travel itinerary, flight manifests and TPUSA event schedule for the Korea and Japan legs in early September 2025."
     },
@@ -6642,6 +6650,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-50"
     },
     {
      "k": "Investigative Direction",

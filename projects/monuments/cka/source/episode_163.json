@@ -5542,6 +5542,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare with Harpole's and the independent review's lists of SUV occupants."
     },
@@ -5871,6 +5879,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58, S-59"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Shawn Ryan Show full interview."
     },
@@ -5936,6 +5952,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Traffic camera or vehicle telematics for the route to Timpanogos."
     },
@@ -5999,6 +6023,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58, S-59"
     },
     {
      "k": "Investigative Direction",
@@ -6403,6 +6435,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58"
     },
     {
      "k": "Investigative Direction",

@@ -915,6 +915,8 @@ Mentions: N-266, N-1, N-224
 
 Related Nodes: N-10643
 
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Obtain Shawn Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.
 
 ---
@@ -1164,6 +1166,8 @@ Anchored Artifacts: A-2085.1
 Mentions: N-266, N-1
 Related Nodes: N-10622
 Supports: C-10230
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Obtain Timpanogos Hospital triage and ER records for the arrival, including who took patient information and when the shirt was removed.
 
 ---
@@ -1179,6 +1183,8 @@ Transcript Snippet: stood outside uh the room and held guard on the outside door
 Anchored Artifacts: A-2085.1
 Mentions: N-266
 Related Nodes: N-10622
+Verification: corroborated
+Verification Evidence: S-58, S-59
 Investigative Direction: Interview ER staff on duty about whether an unauthorized person directed care or guarded the door; obtain the hospital security log.
 
 ---
@@ -1545,6 +1551,8 @@ Transcript Snippet: Robinson's team, therefore, argued that they should be allow
 Anchored Artifacts: A-2092.1
 Mentions: N-40, N-54
 Related Nodes: N-10617
+Verification: corroborated
+Verification Evidence: S-31, S-41
 Investigative Direction: Obtain the defense motion and the State's response from the docket.
 
 ---

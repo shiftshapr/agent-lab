@@ -1874,8 +1874,10 @@
         "N-1",
         "N-224"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58"
+      ]
     },
     {
       "@type": "Claim",
@@ -2231,8 +2233,10 @@
         "N-266",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58"
+      ]
     },
     {
       "@type": "Claim",
@@ -2253,8 +2257,11 @@
       "mentions_person_refs": [
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58",
+        "S-59"
+      ]
     },
     {
       "@type": "Claim",
@@ -2763,8 +2770,11 @@
         "N-40",
         "N-54"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-31",
+        "S-41"
+      ]
     },
     {
       "@type": "Claim",

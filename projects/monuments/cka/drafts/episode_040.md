@@ -750,6 +750,8 @@ Claim: In the video statement, TPUSA asserted that Charlie personally reviewed a
 
 Anchored Artifacts: A-1489.1
 Mentions: N-159, N-1
+Verification: corroborated
+Verification Evidence: S-49
 Investigative Direction: Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal.
 
 ---
@@ -762,6 +764,8 @@ Claim: In the video statement, TPUSA asserted that the organization has never mi
 
 Anchored Artifacts: A-1489.1
 Mentions: N-159
+Verification: corroborated
+Verification Evidence: S-49
 Investigative Direction: Verify filing history against IRS Form 990 public records.
 
 ---
@@ -905,6 +909,8 @@ Transcript Snippet: Blake Neff, by the way, is the producer of the Charlie Kirk 
 Anchored Artifacts: 
 Mentions: N-159, N-14, N-3
 Related Nodes: N-10000
+Verification: corroborated
+Verification Evidence: S-49
 Investigative Direction: Check Blake Neff's and Andrew Kolvet's published TPUSA titles and roles on the Charlie Kirk Show.
 
 ---
@@ -1295,6 +1301,8 @@ Transcript Snippet: Charlie made sure the organization was audited by a third pa
 Anchored Artifacts: A-1489.1
 Mentions: N-159, N-1
 Related Nodes: N-10075
+Verification: corroborated
+Verification Evidence: S-49
 Investigative Direction: Obtain TPUSA's annual audited financial statements and auditor name.
 
 ---

@@ -1058,6 +1058,8 @@ Anchored Artifacts: A-1965.1, A-1966.1
 Mentions: N-2, N-4
 
 
+Verification: corroborated
+Verification Evidence: S-57
 Investigative Direction: Confirm via TPUSA event listing, UGA/Akins Ford Arena booking records, and contemporaneous press releases.
 
 ---
@@ -1089,6 +1091,8 @@ Contradicts: C-8289
 
 Related Nodes: N-10554, N-10559
 
+Verification: corroborated
+Verification Evidence: S-56
 Investigative Direction: Obtain audio/video of the announcement; verify whether the announcement was scripted or extemporaneous.
 
 ---
@@ -1104,6 +1108,8 @@ Mentions: N-2, N-14
 
 Related Nodes: N-10554, N-10562
 
+Verification: corroborated
+Verification Evidence: S-57
 Investigative Direction: Obtain the full Fox News segment; identify which TPUSA security contractor is referenced.
 
 ---
@@ -1150,6 +1156,8 @@ Contradicts: C-8289
 
 Related Nodes: N-10554, N-10558
 
+Verification: corroborated
+Verification Evidence: S-57
 Investigative Direction: Obtain timestamp of post relative to the on-stage announcement; verify whether the post was authored by Kirk personally.
 
 ---
@@ -1441,6 +1449,8 @@ Anchored Artifacts: A-1967.1
 Mentions: N-14, N-887, N-2
 Related Nodes: N-10554
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-57
 Investigative Direction: Obtain the Fox News segment and reporting on the Savanah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.
 Open Questions: Q-805
 
@@ -2125,6 +2135,8 @@ Mentions: N-42, N-3
 Related Nodes: N-10093
 Supports: C-4757
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-30
 Investigative Direction: Obtain the Zinn charging documents and booking records.
 Open Questions: Q-135
 

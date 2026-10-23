@@ -1186,6 +1186,8 @@ Mentions: N-36, N-1, N-3
 Related Nodes: N-10018, N-10129
 Supports: C-82
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-42
 Investigative Direction: Obtain Netanyahu's own account of the call (he told interviewers he phoned Kirk weeks before the shooting) and any contemporaneous message logs.
 
 ---

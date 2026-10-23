@@ -2053,6 +2053,8 @@ Anchored Artifacts:
 Mentions: N-54, N-3
 Related Nodes: N-11278
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-32, S-40
 Investigative Direction: Obtain the search-warrant inventory and any purchase or ownership records for the Dremel.
 Open Questions: Q-1078
 
@@ -2221,6 +2223,8 @@ Mentions: N-54, N-3
 Related Nodes: N-10039
 Supports: C-303
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-17, S-40
 Investigative Direction: Obtain Lance's statement about the note and the chain of custody of the photograph.
 Open Questions: Q-1079
 

@@ -1106,6 +1106,8 @@ Anchored Artifacts: A-1243.1
 Mentions: N-164, N-1
 Related Nodes: N-10016
 
+Verification: corroborated
+Verification Evidence: S-15, S-45
 Investigative Direction: Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records.
 
 ---

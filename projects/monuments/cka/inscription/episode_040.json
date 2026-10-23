@@ -1579,8 +1579,10 @@
         "N-159",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-49"
+      ]
     },
     {
       "@type": "Claim",
@@ -1598,8 +1600,10 @@
       "mentions_person_refs": [
         "N-159"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-49"
+      ]
     },
     {
       "@type": "Claim",
@@ -1825,8 +1829,10 @@
         "N-14",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-49"
+      ]
     },
     {
       "@type": "Claim",
@@ -2400,8 +2406,10 @@
         "N-159",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-49"
+      ]
     },
     {
       "@type": "Claim",

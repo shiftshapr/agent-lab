@@ -561,6 +561,8 @@ Transcript Snippet: Trump suddenly posting my face on Time magazine calling me t
 
 Anchored Artifacts:
 Mentions: N-5, N-3
+Verification: corroborated
+Verification Evidence: S-66
 Investigative Direction: Locate Trump's Truth Social or X post with the Time magazine image and its date.
 
 ---
@@ -788,6 +790,8 @@ Transcript Snippet: Charlie was due to meet up as we learned with Erika at Color
 
 Anchored Artifacts:
 Mentions: N-1, N-2, N-211
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Review Erika Kirk's Jesse Watters interview transcript and TPUSA's announced tour schedule for Colorado State University.
 
 ---

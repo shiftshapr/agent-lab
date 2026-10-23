@@ -1403,6 +1403,8 @@ Anchored Artifacts: A-3365.1
 Mentions: N-266, N-224, N-271
 Related Nodes: N-10619
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-45
 Investigative Direction: Full Shawn Ryan Show episode and text timestamps.
 Open Questions: Q-841
 
@@ -1614,6 +1616,8 @@ Anchored Artifacts:
 Mentions: N-271
 Related Nodes: N-10762
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-46
 Investigative Direction: Independent review on UVU PD staffing adjustments.
 Open Questions: Q-1247
 
@@ -1631,6 +1635,8 @@ Anchored Artifacts:
 Mentions: N-266, N-3
 Related Nodes:
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-66
 Investigative Direction: Harpole v. Owens court docket.
 
 ---

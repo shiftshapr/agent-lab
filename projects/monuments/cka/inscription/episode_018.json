@@ -1731,8 +1731,10 @@
       "mentions_person_refs": [
         "N-14"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-28"
+      ]
     },
     {
       "@type": "Claim",

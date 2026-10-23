@@ -726,6 +726,8 @@ Mentions: N-3
 
 Related Nodes: N-10402
 
+Verification: corroborated
+Verification Evidence: S-66
 Investigative Direction: Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date.
 
 ---
@@ -741,6 +743,8 @@ Mentions: N-1, N-3
 
 Related Nodes: N-10402
 
+Verification: corroborated
+Verification Evidence: S-66
 Investigative Direction: Compare the prohibited scope articulated in the letter with Owens's prior on-air statements to identify specific statements TPUSA considers actionable.
 
 ---

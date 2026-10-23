@@ -1694,6 +1694,8 @@ Anchored Artifacts: A-2477.1
 Mentions: N-7, N-1
 Related Nodes: N-10229
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-27
 Investigative Direction: Ask whether any pre-event message or witness confirms Turek's statement.
 Open Questions: Q-343
 

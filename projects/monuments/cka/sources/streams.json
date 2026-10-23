@@ -145,6 +145,377 @@
           "release_tag": "v2025.09.11-planes-readsb-prod-0"
         }
       ]
+    },
+    {
+      "id": "tier2-reporting",
+      "title": "Tier 2 reporting: wire services, national outlets and Utah newsrooms (approved 2026-10-23)",
+      "tier": 2,
+      "items": [
+        {
+          "title": "Fox News: Charlie Kirk remembered as friend of Israel, allies slam conspiracy theories",
+          "date": "2025-09-18",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/world/charlie-kirk-remembered-friend-israel-allies-slam-conspiracy-theories",
+          "format": "html"
+        },
+        {
+          "title": "KATV / The National News Desk (Sinclair): FBI investigating 'possibility of accomplices' in Kirk assassination, Patel says",
+          "date": "2025-09-22",
+          "publisher": "KATV / The National News Desk (Sinclair)",
+          "url": "https://katv.com/news/nation-world/fbi-investigating-possibility-of-accomplices-in-charlie-kirk-assassination-director-kash-patel-says-utah-valley-university-shooting-orem-suspect-tyler-robinson-discord-chats",
+          "format": "html"
+        },
+        {
+          "title": "CBS News: Suspect in Charlie Kirk's killing confessed in a text exchange with his roommate, prosecutor says",
+          "date": "2025-09-16",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/suspect-charlie-kirk-killing-confessed-text-exchange-roommate",
+          "format": "html"
+        },
+        {
+          "title": "Salt Lake Tribune: Tyler Robinson's parents recognized son as Charlie Kirk's suspected killer, charges say",
+          "date": "2025-09-17",
+          "publisher": "Salt Lake Tribune",
+          "url": "https://www.sltrib.com/news/2025/09/17/tyler-robinsons-parents-recognized",
+          "format": "html"
+        },
+        {
+          "title": "Deseret News: Inside the newly unsealed warrants in the Charlie Kirk killing case",
+          "date": "2026-04-10",
+          "publisher": "Deseret News",
+          "url": "https://www.deseret.com/utah/2026/04/10/tyler-robinson-unsealed-search-warrant-documents-charlie-kirk-killing-admission-lance-twiggs/",
+          "format": "html"
+        },
+        {
+          "title": "KSL: Videos, autopsy report submitted at Robinson prelim despite flurry of hearsay objections",
+          "date": "2026-07-06",
+          "publisher": "KSL",
+          "url": "https://www.ksl.com/article/news/utah/police-and-courts/videos-autopsy-report-submitted-at-robinson-prelim-despite-flurry-of-hearsay-objections/51594777",
+          "format": "html"
+        },
+        {
+          "title": "CNN (via KEYT): Takeaways from the preliminary hearing for Charlie Kirk's accused killer",
+          "date": "2026-07-11",
+          "publisher": "CNN (via KEYT)",
+          "url": "https://keyt.com/news/national-world/cnn-national/2026/07/11/takeaways-from-the-preliminary-hearing-for-charlie-kirks-accused-killer/",
+          "format": "html"
+        },
+        {
+          "title": "KUTV (via KJZZ): High-powered rifle recovered in wooded area after Charlie Kirk shooting",
+          "date": "2025-09-11",
+          "publisher": "KUTV (via KJZZ)",
+          "url": "https://kjzz.com/news/local/suspect-in-charlie-kirk-shooting-blended-in-to-college-setting",
+          "format": "html"
+        },
+        {
+          "title": "Associated Press (via KSAT): Prosecutors play video in court of suspect in Charlie Kirk's shooting after he turned himself in",
+          "date": "2026-07-08",
+          "publisher": "Associated Press (via KSAT)",
+          "url": "https://www.ksat.com/news/politics/2026/07/08/dna-evidence-from-charlie-kirk-assassination-disputed-by-defendants-lawyers/",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Erika Kirk shares update after private in-person meeting with Candace Owens",
+          "date": "2025-12-15",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/erika-kirk-shares-update-after-private-in-person-meeting-candace-owens",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Charlie Kirk had 'no fear' going into Utah event where he was assassinated, friend says",
+          "date": "2025-09-11",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/politics/charlie-kirk-had-no-fear-going-utah-event-where-he-assassinated-friend-says",
+          "format": "html"
+        },
+        {
+          "title": "New York Times (via Boston Globe): For Erika Kirk, a husband's life cut short by violence he seemed to foresee",
+          "date": "2025-09-21",
+          "publisher": "New York Times (via Boston Globe)",
+          "url": "https://www.bostonglobe.com/2025/09/21/nation/erika-kirk-husbands-life-cut-short-by-violence-he-seemed-foresee",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Charlie Kirk's final moments emotionally detailed by mentor Frank Turek: 'He was with Jesus already'",
+          "date": "2025-09-18",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/charlie-kirks-final-moments-emotionally-detailed-mentor-frank-turek-he-jesus-already",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Charlie Kirk ally reveals 'absolute miracle' that may have saved lives during fatal shooting",
+          "date": "2025-09-20",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/charlie-kirk-ally-reveals-absolute-miracle-may-have-saved-lives-during-fatal-shooting",
+          "format": "html"
+        },
+        {
+          "title": "ABC4 Utah: 'He just got shot in the middle of his speech': Frantic 911 calls after Charlie Kirk was shot on UVU campus",
+          "date": null,
+          "publisher": "ABC4 Utah",
+          "url": "https://www.abc4.com/news/charlie-kirk-shooting/frantic-911-call-charlie-kirk-shot-uvu/amp",
+          "format": "html"
+        },
+        {
+          "title": "KSL: Man who distracted police during Charlie Kirk shooting faces criminal charges",
+          "date": "2025-09-20",
+          "publisher": "KSL",
+          "url": "https://www.ksl.com/article/news/utah/police-and-courts/man-who-distracted-police-during-charlie-kirk-shooting-faces-criminal-charges/51378176",
+          "format": "html"
+        },
+        {
+          "title": "Deseret News (KSL): Prosecutors oppose effort to make Tyler Robinson roommate appear at prelim",
+          "date": "2026-06-17",
+          "publisher": "Deseret News (KSL)",
+          "url": "https://www.deseret.com/utah/2026/06/17/prosecutors-oppose-effort-to-make-tyler-robinson-roomate-appear-at-prelim/",
+          "format": "html"
+        },
+        {
+          "title": "Deseret News: Charlie Kirk's assassination: Here's what we learned after a week of court hearings",
+          "date": "2026-07-10",
+          "publisher": "Deseret News",
+          "url": "https://www.deseret.com/politics/2026/07/10/tyler-robinson-preliminary-hearing-charlie-kirk-assassination-utah-court/",
+          "format": "html"
+        },
+        {
+          "title": "Associated Press (via ABC7): Tyler Robinson said he killed Charlie Kirk because he 'spreads too much hate': Officials",
+          "date": "2025-09-16",
+          "publisher": "Associated Press (via ABC7)",
+          "url": "https://abc7news.com/post/tyler-robinson-suspect-charlie-kirk-shooting-face-charges-tuesday-before-first-court-hearing/17826170/",
+          "format": "html"
+        },
+        {
+          "title": "Deseret News (KSL): 'This isn't a close case,' state tells judge in Tyler Robinson case",
+          "date": "2026-07-29",
+          "publisher": "Deseret News (KSL)",
+          "url": "https://www.deseret.com/utah/2026/07/29/this-is-a-close-case-state-tells-judge-in-tyler-robinson-case/",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Surveillance video timeline tracks accused Charlie Kirk assassin across UVU campus before fatal rooftop shot",
+          "date": "2026-07-12",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/surveillance-video-timeline-tracks-accused-charlie-kirk-assassin-uvu-campus-fatal-rooftop-shot",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Erika Kirk pushes back at online conspiracy theories about husband's death",
+          "date": "2025-12-10",
+          "publisher": "Fox News",
+          "url": "https://noticias.foxnews.com/media/erika-kirk-pushes-back-online-conspiracy-theories-about-husbands-death.print",
+          "format": "html"
+        },
+        {
+          "title": "KUTV: Prosecutors say evidence 'overwhelming' to send Tyler Robinson case to trial",
+          "date": "2026-07-29",
+          "publisher": "KUTV",
+          "url": "https://kutv.com/news/local/prosecutors-say-evidence-overwhelming-to-send-tyler-robinson-case-to-trial",
+          "format": "html"
+        },
+        {
+          "title": "KSL: Tyler Robinson wants preliminary hearing pushed back, citing substantial evidence to review",
+          "date": "2026-03-30",
+          "publisher": "KSL",
+          "url": "https://www.ksl.com/article/51474999/tyler-robinson-wants-preliminary-hearing-pushed-back-citing-substantial-evidence-to-review",
+          "format": "html"
+        },
+        {
+          "title": "ABC4: Tyler Robinson appears in court for evidentiary hearing, arguments heard over barring media from courtroom",
+          "date": "2026-04-17",
+          "publisher": "ABC4",
+          "url": "https://www.abc4.com/news/charlie-kirk-shooting/tyler-robinson-evidentiary-hearing/amp/",
+          "format": "html"
+        },
+        {
+          "title": "KSL: State rests in Tyler Robinson preliminary hearing, expected to wrap up Friday",
+          "date": "2026-07-09",
+          "publisher": "KSL",
+          "url": "https://www.ksl.com/article/51595867",
+          "format": "html"
+        },
+        {
+          "title": "KSL: Prosecutors oppose effort to make Tyler Robinson roommate appear at prelim",
+          "date": "2026-06-17",
+          "publisher": "KSL",
+          "url": "https://www.ksl.com/article/51512909/prosecutors-oppose-effort-to-make-tyler-robinson-roommate-appear-at-prelim",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Netanyahu calls Charlie Kirk 'once-in-a-generation' figure, says he will think of him for 'all my life'",
+          "date": "2025-09-11",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/netanyahu-calls-assassinated-charlie-kirk-once-in-a-generation-figure-emotional-tribute",
+          "format": "html"
+        },
+        {
+          "title": "KUTV (The National News Desk): Before his assassination, Kirk urged Israel to adopt Trump tactics to sway young Americans",
+          "date": "2025-09-29",
+          "publisher": "KUTV (The National News Desk)",
+          "url": "https://kutv.com/news/nation-world/before-his-assassination-kirk-urged-israel-to-adopt-trump-tactics-to-sway-young-americans",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Erika Kirk recalls last moments with Charlie before his 'horror movie' murder, addresses assassination video",
+          "date": "2025-11-05",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/erika-kirk-recalls-last-moments-charlie-before-his-horror-movie-murder-addresses-assassination-video",
+          "format": "html"
+        },
+        {
+          "title": "Salt Lake Tribune: UVU police chief promised to secure rooftops, head of Charlie Kirk's security team says",
+          "date": "2025-11-18",
+          "publisher": "Salt Lake Tribune",
+          "url": "https://www.sltrib.com/news/education/2025/11/18/uvu-police-chief-promised-secure",
+          "format": "html"
+        },
+        {
+          "title": "Salt Lake Tribune: New report: Utah Valley University tried to warn Charlie Kirk's staff of risks, but team ignored concerns",
+          "date": "2026-09-25",
+          "publisher": "Salt Lake Tribune",
+          "url": "https://www.sltrib.com/news/education/2026/09/25/new-report-utah-valley-university/",
+          "format": "html"
+        },
+        {
+          "title": "Deseret News: What an ex-Trump administration official's comments could mean for the trial of Tyler Robinson",
+          "date": "2026-03-27",
+          "publisher": "Deseret News",
+          "url": "https://www.deseret.com/utah/2026/03/27/joe-kent-comments-on-tyler-robinson-case-testify-in-trial-charlie-kirk-assassination/",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Pastor recalls last moments with Charlie Kirk: 'American martyr'",
+          "date": "2025-09-11",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/politics/pastor-recalls-last-moments-charlie-kirk-american-martyr",
+          "format": "html"
+        },
+        {
+          "title": "CBS News: Treasury Dept. tells Erika Kirk Turning Point USA not under investigation, following social media rumors",
+          "date": "2025-12-09",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/treasury-dept-erika-kirk-turning-point-usa-not-under-investigation/",
+          "format": "html"
+        },
+        {
+          "title": "NBC News: Charlie Kirk was spreading his conservative message in Asia days before he was killed",
+          "date": "2025-09-12",
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/world/asia/charlie-kirk-was-spreading-conservative-message-asia-days-was-killed-rcna230759",
+          "format": "html"
+        },
+        {
+          "title": "Salt Lake Tribune: Witnesses: Here's what they saw when Charlie Kirk was gunned down at Utah Valley University",
+          "date": "2025-09-10",
+          "publisher": "Salt Lake Tribune",
+          "url": "https://www.sltrib.com/news/2025/09/10/eyewitnesses-recount-shooting/",
+          "format": "html"
+        },
+        {
+          "title": "CBS News: Timeline of the fatal shooting of Charlie Kirk",
+          "date": "2025-09-12",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/timeline-charlie-kirk-fatal-shooting/",
+          "format": "html"
+        },
+        {
+          "title": "ABC7 Chicago (with ABC News): Erika Kirk elected as new CEO for Turning Point USA after husband's death",
+          "date": "2025-09-18",
+          "publisher": "ABC7 Chicago (with ABC News)",
+          "url": "https://abc7chicago.com/post/erika-kirk-elected-new-ceo-turning-point-usa-husbands-death/17842393/",
+          "format": "html"
+        },
+        {
+          "title": "KUTV (The National News Desk): Candace Owens drops alleged audio of Erika Kirk five days after husband's assassination",
+          "date": "2026-01-29",
+          "publisher": "KUTV (The National News Desk)",
+          "url": "https://kutv.com/news/nation-world/candace-owens-drops-alleged-audio-of-erika-kirk-five-days-after-husbands-assassination-charlie-kirk-turning-point-usa-israel",
+          "format": "html"
+        },
+        {
+          "title": "KUTV: Damaged bullet jacket, fragments tested in inconclusive ballistic report in Kirk killing",
+          "date": "2026-04-16",
+          "publisher": "KUTV",
+          "url": "https://kutv.com/news/local/damaged-bullet-jacket-fragments-tested-in-inconclusive-ballistic-report-in-kirk-killing",
+          "format": "html"
+        },
+        {
+          "title": "CBS News (CBS Atlanta): Secret Service determines no credible threats to UGA rally after Erika Kirk's cancellation, source says",
+          "date": "2026-04-15",
+          "publisher": "CBS News (CBS Atlanta)",
+          "url": "https://www.cbsnews.com/atlanta/news/secret-service-no-credible-threats-turning-point-uga-rally-erika-kirk/",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Turning Point spokesperson describes 'chilling moment' Erika Kirk was sidelined from JD Vance event",
+          "date": "2026-04-15",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/media/turning-point-spokesperson-describes-chilling-moment-erika-kirk-sidelined-jd-vance-event",
+          "format": "html"
+        },
+        {
+          "title": "KSL: Security chief recounts on podcast harrowing moments after Charlie Kirk was shot",
+          "date": "2025-11-19",
+          "publisher": "KSL",
+          "url": "https://www.ksl.com/article/news/utah/security-chief-recounts-charlie-kirk-shot/51588629",
+          "format": "html"
+        },
+        {
+          "title": "Salt Lake Tribune: 'I heard that bullet': Charlie Kirk's security chief recounts the fatal shooting and what happened next",
+          "date": "2025-11-19",
+          "publisher": "Salt Lake Tribune",
+          "url": "https://www.sltrib.com/news/2025/11/19/charlie-kirks-security-chief/",
+          "format": "html"
+        },
+        {
+          "title": "KSL: Kirk family puts UVU on notice it intends to sue",
+          "date": "2026-09-16",
+          "publisher": "KSL",
+          "url": "https://www.ksl.com/article/51624717/kirk-family-puts-uvu-on-notice-they-intend-to-sue",
+          "format": "html"
+        },
+        {
+          "title": "CBS News: Charlie Kirk's accused assassin feared being shot by police and agreed to peaceful surrender, sheriff says",
+          "date": "2025-09-17",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/tyler-robinson-feared-swat-being-shot-washington-county-sheriff",
+          "format": "html"
+        },
+        {
+          "title": "KSL: Videos, autopsy report submitted at Robinson prelim despite flurry of hearsay objections",
+          "date": "2026-07-06",
+          "publisher": "KSL",
+          "url": "https://www.ksl.com/article/51594777/videos-medical-examiners-report-submitted-at-robinson-prelim-despite-flurry-of-hearsay-objections",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: New video appears to show alleged Charlie Kirk assassin near campus hours before shooting",
+          "date": "2025-09-14",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/new-video-appears-show-alleged-charlie-kirk-assassin-near-campus-hours-before-shooting",
+          "format": "html"
+        },
+        {
+          "title": "Deseret News: Utah governor is not running for president, but he's out to save the country — with a new book",
+          "date": "2026-08-31",
+          "publisher": "Deseret News",
+          "url": "https://www.deseret.com/politics/2026/08/31/utah-governor-cox-book-on-political-violence-at-anniversary-of-charlie-kirk-about-biden-pardoning-trump/",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: One of Tyler Robinson's last meals as a free man may have been a steak dinner — medium rare",
+          "date": "2026-01-17",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/one-tyler-robinson-last-meals-free-man-may-have-been-steak-dinner-medium-rare",
+          "format": "html"
+        },
+        {
+          "title": "The New York Times (via Salt Lake Tribune): Charlie Kirk's former security chief sues Candace Owens for defamation",
+          "date": "2026-05-01",
+          "publisher": "The New York Times (via Salt Lake Tribune)",
+          "url": "https://www.sltrib.com/news/2026/05/01/charlie-kirks-former-security/",
+          "format": "html"
+        }
+      ]
     }
   ]
 }

@@ -1081,6 +1081,8 @@ Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10217
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Check photographs and evidence inventories for the pendant and prior reporting that it was worn.
 Open Questions: Q-163
 

@@ -1108,6 +1108,8 @@ Anchored Artifacts:
 Mentions: N-3, N-2
 Related Nodes: N-10440
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-44
 Investigative Direction: Identify the clinic or hospital and parking lot, request security footage and any 911 or ambulance record for September 10, 2025.
 Open Questions: Q-704
 

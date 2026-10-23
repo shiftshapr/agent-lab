@@ -2914,8 +2914,12 @@
       "tags": [],
       "claim_timestamp": "00:19:00",
       "investigative_direction": "Confirm hearing date through Utah state court docket.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-19",
+        "S-38",
+        "S-55"
+      ]
     },
     {
       "@type": "Claim",
@@ -3210,8 +3214,10 @@
         "N-14",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-28"
+      ]
     },
     {
       "@type": "Claim",

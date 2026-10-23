@@ -1790,6 +1790,8 @@ Anchored Artifacts: A-3224.1
 Mentions: N-268, N-209
 Related Nodes: N-10501, N-10332
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-47
 Investigative Direction: Check Joe Kent's resignation letter and public statements on any instruction to stop investigating.
 Open Questions: Q-688
 

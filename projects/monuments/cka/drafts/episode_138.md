@@ -1737,6 +1737,8 @@ Anchored Artifacts: A-2988.3
 Mentions: N-3
 Related Nodes: N-10030
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-33
 Investigative Direction: Obtain the exhibit images and the extraction report metadata.
 Open Questions: Q-753
 

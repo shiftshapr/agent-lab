@@ -1326,6 +1326,8 @@ Transcript Snippet: The FBI is aware of this. The FBI took a statement from the 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10354
+Verification: corroborated
+Verification Evidence: S-65
 Investigative Direction: Request confirmation from the FBI or the owner that a statement was taken, and when.
 
 ---

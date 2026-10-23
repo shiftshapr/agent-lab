@@ -2117,6 +2117,8 @@ Mentions: N-164, N-55
 Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-15
 Investigative Direction: Obtain attendee lists or invitations for the call from the participants.
 Open Questions: Q-168
 
@@ -2200,6 +2202,8 @@ Transcript Snippet: Erika, when she gave interviews thereafter, uh said that Cha
 Anchored Artifacts: A-2350.1
 Mentions: N-2, N-1
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Collect Erika's interview statements about Kirk's mood on September 9.
 Open Questions: Q-1148
 

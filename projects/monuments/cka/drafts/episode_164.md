@@ -1243,6 +1243,8 @@ Anchored Artifacts: A-3385.1
 Mentions: N-7, N-1
 Related Nodes:
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-27
 Investigative Direction: Crime-scene photos of the vehicle interior.
 Open Questions: Q-1274
 
@@ -1261,6 +1263,8 @@ Mentions: N-7, N-1, N-2
 Related Nodes: N-10492
 Supports: C-4213
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-27
 Investigative Direction: Evidence logs on the necklace and Turek's earlier accounts.
 Open Questions: Q-677
 

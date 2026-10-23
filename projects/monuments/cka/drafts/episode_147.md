@@ -1469,6 +1469,8 @@ Anchored Artifacts: A-3347.1
 Mentions: N-492, N-1
 Related Nodes: N-10746, N-10624
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Compare against testimony and hospital footage about who drove Kirk and in which vehicle.
 Open Questions: Q-1133
 

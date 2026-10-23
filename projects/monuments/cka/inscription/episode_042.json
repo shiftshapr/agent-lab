@@ -3300,8 +3300,10 @@
         "N-278",
         "N-2"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-49"
+      ]
     },
     {
       "@type": "Claim",
@@ -3325,8 +3327,10 @@
         "N-2",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-49"
+      ]
     },
     {
       "@type": "Claim",

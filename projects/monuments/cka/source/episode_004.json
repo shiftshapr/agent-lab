@@ -3253,6 +3253,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-33"
+    },
+    {
      "k": "Investigative Direction",
      "v": "FOIA or subpoena the underlying device data and Discord metadata to recover timestamps."
     },
@@ -4846,6 +4854,14 @@
      "v": "C-141"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-16"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain Discord's statement and any law-enforcement request records regarding the Robinson-Twigs account."
     },
@@ -5865,6 +5881,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10006"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-52"
     },
     {
      "k": "Investigative Direction",

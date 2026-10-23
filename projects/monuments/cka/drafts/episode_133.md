@@ -1492,6 +1492,8 @@ Anchored Artifacts:
 Mentions: N-3, N-33, N-2
 Related Nodes: 
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-20, S-32
 Investigative Direction: Check court attendance reports and photographs of the hearings for Trump Jr.'s presence.
 Open Questions: Q-1028
 

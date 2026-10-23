@@ -1207,6 +1207,8 @@ Claim: Per the host's account, the server contacted the owner after believing he
 Anchored Artifacts: A-2433.1
 Mentions:
 Related Nodes:
+Verification: corroborated
+Verification Evidence: S-65
 Investigative Direction: Confirm with FBI 302 forms or other official records; interview both owner and server directly.
 
 ---
@@ -1240,6 +1242,8 @@ Claim: Fox News published a piece characterizing the alleged Cowboy Smokehouse m
 Anchored Artifacts: A-2433.3
 Mentions: N-40
 Related Nodes: N-10006
+Verification: corroborated
+Verification Evidence: S-65
 Investigative Direction: Retrieve the original article from Fox News archives; verify URL and publication date.
 
 ---

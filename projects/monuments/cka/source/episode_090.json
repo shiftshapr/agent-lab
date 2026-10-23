@@ -3378,6 +3378,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-16"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Retrieve the original Discord statement and The Hill article for exact text."
     },
@@ -6407,6 +6415,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-61"
     },
     {
      "k": "Investigative Direction",
