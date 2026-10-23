@@ -1479,6 +1479,8 @@ Mentions: N-3, N-40
 Related Nodes: N-10932, N-11360
 Supports: C-969
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-33, S-61
 Investigative Direction: Compare the father's and pastor's accounts of the call with the charging document language.
 Open Questions: Q-34
 

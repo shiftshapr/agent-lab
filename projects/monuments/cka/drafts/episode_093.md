@@ -1022,6 +1022,8 @@ Mentions: N-4, N-14, N-2
 
 Related Nodes: N-10554
 
+Verification: corroborated
+Verification Evidence: S-56
 Investigative Direction: Obtain full unedited UGA rally footage and any subsequent Vance press gaggle transcripts for corroboration.
 
 ---
@@ -1455,6 +1457,8 @@ Mentions: N-4, N-2
 Related Nodes: N-10554, N-10563
 Supports: C-8301
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-56
 Investigative Direction: Obtain the full Vance remarks and ask the Secret Service whether it advised on Erika's cancellation.
 Open Questions: Q-805
 

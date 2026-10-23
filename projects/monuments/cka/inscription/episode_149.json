@@ -2281,8 +2281,10 @@
       "claim_timestamp": "00:33:40",
       "investigative_direction": "Confirm with FBI 302 forms or other official records; interview both owner and server directly.",
       "mentions_person_refs": [],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -2341,8 +2343,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-65"
+      ]
     },
     {
       "@type": "Claim",

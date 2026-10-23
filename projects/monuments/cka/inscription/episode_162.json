@@ -2920,8 +2920,10 @@
         "N-224",
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-45"
+      ],
       "open_questions": [
         "Q-841"
       ]
@@ -3246,8 +3248,10 @@
       "mentions_person_refs": [
         "N-271"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-46"
+      ],
       "open_questions": [
         "Q-1247"
       ]
@@ -3270,8 +3274,10 @@
         "N-266",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-66"
+      ]
     },
     {
       "@type": "Claim",

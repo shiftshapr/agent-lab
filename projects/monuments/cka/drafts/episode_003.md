@@ -1083,6 +1083,8 @@ Anchored Artifacts: A-1096.1
 Mentions: N-42
 Related Nodes: N-10032
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-30
 Investigative Direction: Confirm booking details and court filings; verify device forensic report.
 
 ---
@@ -2745,6 +2747,8 @@ Anchored Artifacts: A-1099.1
 Mentions: N-1, N-46
 Related Nodes: N-10026
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-15
 Investigative Direction: Compile Kirk's public statements and speeches on Israel for comparison with this self-description.
 
 ---

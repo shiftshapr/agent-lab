@@ -847,6 +847,8 @@ Mentions: N-1, N-246, N-208
 
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-48
 Investigative Direction: Confirm UVU event seating assignments, verify whether the seat location matches photographs, and corroborate with event staff or seating manifests.
 
 ---
@@ -1427,6 +1429,8 @@ Transcript Snippet: Charlie's not sleeping Erika says says it's cuz he was just 
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-3
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Find Erika Kirk's original statement and compare it with Charlie's overnight messages and activity.
 Open Questions: Q-607, Q-1102
 
@@ -1513,6 +1517,8 @@ Anchored Artifacts: A-2323.1
 Mentions: N-208, N-246, N-788, N-1
 Related Nodes: N-10740
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-48
 Investigative Direction: Obtain the full Starns audio and Butch Hibbs' phone records to establish when the call was placed and its duration.
 Open Questions: Q-1118
 
@@ -2020,6 +2026,8 @@ Anchored Artifacts:
 Mentions: N-54, N-40
 Related Nodes: N-10617, N-11065
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-23, S-40, S-41
 Investigative Direction: Review the hearing record on Lance Twiggs' video testimony and any defense cross-exam rulings.
 Open Questions: Q-1125
 

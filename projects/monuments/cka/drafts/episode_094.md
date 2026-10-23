@@ -1100,6 +1100,8 @@ Mentions: N-425
 
 Related Nodes: N-10569, N-10570
 
+Verification: corroborated
+Verification Evidence: S-39
 Investigative Direction: Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status.
 
 ---
@@ -1786,6 +1788,8 @@ Anchored Artifacts: A-1994.1
 Mentions: N-425
 Related Nodes: N-10896, N-10014, N-10521
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-39
 Investigative Direction: Check the docket for the dates of the ATF and FBI productions. The caption is garbled here, so confirm the sentence against the hearing audio.
 Open Questions: Q-792
 
@@ -2041,6 +2045,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11065
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-31, S-41
 Investigative Direction: Check the notice of intent to seek the death penalty in the charging documents.
 
 ---

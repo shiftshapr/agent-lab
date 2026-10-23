@@ -708,6 +708,8 @@ Mentions: N-22, N-1, N-209
 
 Related Nodes: N-10507
 
+Verification: corroborated
+Verification Evidence: S-47
 Investigative Direction: Compare Kent's claims against any FBI/NCTC public statements; review case-file jurisdiction transfers to Utah authorities.
 
 ---

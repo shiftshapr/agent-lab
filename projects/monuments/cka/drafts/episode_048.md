@@ -951,6 +951,8 @@ Mentions: N-7
 
 Related Nodes: N-10338
 
+Verification: corroborated
+Verification Evidence: S-27
 Investigative Direction: Verify against any chain-of-custody documentation for Charlie's personal effects.
 
 ---
@@ -2292,6 +2294,8 @@ Transcript Snippet: It was 4 and 1/2 hour meeting.
 Anchored Artifacts: A-2743.2
 Mentions: N-3
 Supports: C-4056
+Verification: corroborated
+Verification Evidence: S-24
 Investigative Direction: Confirm the meeting length against attendee accounts.
 
 ---

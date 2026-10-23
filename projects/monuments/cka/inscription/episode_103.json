@@ -1530,8 +1530,10 @@
         "N-5",
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-66"
+      ]
     },
     {
       "@type": "Claim",
@@ -1868,8 +1870,10 @@
         "N-2",
         "N-211"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-26"
+      ]
     },
     {
       "@type": "Claim",

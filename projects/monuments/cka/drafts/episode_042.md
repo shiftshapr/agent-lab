@@ -1936,6 +1936,8 @@ Transcript Snippet: Bari Weiss is interviewing Erika Kirk on December 13th.
 Anchored Artifacts: A-3205.4
 Mentions: N-278, N-2
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-49
 Investigative Direction: Check CBS announcements for the Weiss interview date.
 
 ---
@@ -1952,6 +1954,8 @@ Anchored Artifacts:
 Mentions: N-278, N-2, N-3
 Supports: C-3732
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-49
 Investigative Direction: Confirm the venue and date of the interview.
 
 ---

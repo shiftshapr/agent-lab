@@ -7675,6 +7675,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-32, S-40"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the search-warrant inventory and any purchase or ownership records for the Dremel."
     },
@@ -8315,6 +8323,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-17, S-40"
     },
     {
      "k": "Investigative Direction",

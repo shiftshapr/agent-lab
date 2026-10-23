@@ -1026,6 +1026,8 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10370
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-50
 Investigative Direction: Obtain Kirk's travel itinerary, flight manifests and TPUSA event schedule for the Korea and Japan legs in early September 2025.
 Open Questions: Q-370
 
@@ -1774,6 +1776,8 @@ Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10370
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-50
 Investigative Direction: Pull the Korea event date and the CNN Japan broadcast date to fix Kirk's location on each day.
 Open Questions: Q-370
 

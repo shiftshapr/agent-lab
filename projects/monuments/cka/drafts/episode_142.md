@@ -1932,6 +1932,8 @@ Mentions: N-2, N-1
 Related Nodes: N-10558
 Supports: C-6433
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Locate the Erika Kirk interview in which she says this and its date.
 Open Questions: Q-607, Q-1102
 

@@ -3482,6 +3482,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-27"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify against any chain-of-custody documentation for Charlie's personal effects."
     },
@@ -8573,6 +8581,14 @@
     {
      "k": "Supports",
      "v": "C-4056"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-24"
     },
     {
      "k": "Investigative Direction",

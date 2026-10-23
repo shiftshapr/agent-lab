@@ -1476,6 +1476,8 @@ Anchored Artifacts: A-1428.1
 Mentions: N-266
 Related Nodes: N-10124, N-10589
 Supports: C-3019
+Verification: corroborated
+Verification Evidence: S-45
 Investigative Direction: Obtain the Orem PD and UVU mutual aid agreement and any call logs from September 2025.
 
 ---

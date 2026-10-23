@@ -1519,8 +1519,10 @@
       "mentions_person_refs": [
         "N-69"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-52"
+      ]
     },
     {
       "@type": "Claim",
@@ -1990,8 +1992,11 @@
       "mentions_person_refs": [
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58",
+        "S-59"
+      ],
       "open_questions": [
         "Q-882"
       ]
@@ -2021,8 +2026,10 @@
         "N-487",
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58"
+      ],
       "open_questions": [
         "Q-882",
         "Q-1045"

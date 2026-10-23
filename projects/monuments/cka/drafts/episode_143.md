@@ -1353,6 +1353,8 @@ Anchored Artifacts:
 Mentions: N-266, N-3
 Related Nodes: N-10593
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-66
 Investigative Direction: Pull the Harpole complaint and the host's motion to dismiss from the court docket.
 
 ---

@@ -824,6 +824,8 @@ Anchored Artifacts: A-2677.2
 Mentions: N-7, N-1
 Related Nodes: N-10492
 Supports: C-4213
+Verification: corroborated
+Verification Evidence: S-27
 Investigative Direction: Identify the source interview for the clip, and request police evidence logs showing whether the necklace was sought, logged or released.
 
 ---
@@ -1639,6 +1641,8 @@ Transcript Snippet: We were giving him CPR but nothing was happening.
 Anchored Artifacts: A-2686.1
 Mentions: N-7, N-1
 Related Nodes: N-10636, N-10625
+Verification: corroborated
+Verification Evidence: S-27
 Investigative Direction: Compare Turek's account with hospital intake records and the UVU independent review on care given in transit.
 
 ---
@@ -1821,6 +1825,8 @@ Anchored Artifacts:
 Mentions: N-5, N-2, N-1
 Related Nodes: N-10908
 Revises: C-6834
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Match the dates of Erika Kirk's pageant titles against the Trump/NBC co-ownership period of the Miss Universe Organization.
 
 ---

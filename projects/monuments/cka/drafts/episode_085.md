@@ -1294,6 +1294,8 @@ Claim: Sheriff Brooksby stated that at 8:02 PM on September 11th he received a c
 Anchored Artifacts: A-1908.1
 Mentions: N-272
 Related Nodes: N-10021
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Identify the individual via court filings.
 
 ---
@@ -1348,6 +1350,8 @@ Claim: Sheriff Brooksby stated Tyler Robinson was fearful of a SWAT team hit on 
 Anchored Artifacts: A-1908.2
 Mentions: N-40, N-272
 Related Nodes: N-10021
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Compare with Cox's framing of an outright confession (C-7656).
 
 ---
@@ -1360,6 +1364,8 @@ Claim: A New York Times article reports that Mr. Kirk's chartered plane traveled
 
 Anchored Artifacts: A-1909.1
 Mentions: N-1, N-2
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Verify against other reporting on timing.
 
 ---
@@ -2499,6 +2505,8 @@ Mentions: N-272, N-125, N-40, N-3
 Related Nodes: N-10021
 Supports: C-976
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Compare the full Brooksby press-conference transcript with the host's reading; he refers to an unnamed friend, not Mitchell, in the clips played.
 Open Questions: Q-34
 
@@ -2516,6 +2524,8 @@ Anchored Artifacts: A-1908.1
 Mentions: N-272
 Related Nodes: N-10021, N-10029
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Identify the friend and the religious association; compare with the court documents describing him as a retired Washington County deputy.
 Open Questions: Q-34
 
@@ -2810,6 +2820,8 @@ Anchored Artifacts: A-1908.2
 Mentions: N-272, N-40
 Related Nodes: N-10021
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-61
 Investigative Direction: Review the full press conference for context and compare with C-7663.
 Open Questions: Q-713
 

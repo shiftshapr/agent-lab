@@ -3299,6 +3299,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain Shawn Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account."
     },
@@ -4243,6 +4251,14 @@
      "v": "C-10230"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain Timpanogos Hospital triage and ER records for the arrival, including who took patient information and when the shirt was removed."
     },
@@ -4298,6 +4314,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10622"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-58, S-59"
     },
     {
      "k": "Investigative Direction",
@@ -5711,6 +5735,14 @@
     {
      "k": "Related Nodes",
      "v": "N-10617"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-31, S-41"
     },
     {
      "k": "Investigative Direction",

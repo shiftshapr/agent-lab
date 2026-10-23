@@ -1809,6 +1809,8 @@ Mentions: N-36, N-1
 Related Nodes: N-10053, N-10026
 Contradicts: C-72
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-42
 Investigative Direction: Obtain the full May letter text; the host has asked Netanyahu to publish it.
 Open Questions: Q-53
 

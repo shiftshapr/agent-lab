@@ -1339,6 +1339,8 @@ Anchored Artifacts:
 Mentions: N-266, N-3
 Related Nodes: N-10622, N-10643
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Locate Harpole's own statement on who cut the shirt and with what; ask the hospital and investigators whether scissors were collected.
 Open Questions: Q-884
 

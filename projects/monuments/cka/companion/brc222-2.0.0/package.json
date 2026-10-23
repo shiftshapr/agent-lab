@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-23T05:49:55Z",
+  "generated_at": "2026-10-23T16:10:35Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -1583,7 +1583,7 @@
       "label": "Clip: Charlie Kirk's necklace was found draped over a bag in the car, and police had been looking for it",
       "node_kind": "claim",
       "episode": 117,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -2063,7 +2063,7 @@
       "label": "Frank Turek says they gave Charlie Kirk CPR in the car",
       "node_kind": "claim",
       "episode": 117,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -2175,7 +2175,7 @@
       "label": "Trump co-owned the Miss Universe organization with NBC Universal during Erika Kirk's pageant years",
       "node_kind": "claim",
       "episode": 117,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3287,7 +3287,7 @@
       "label": "Harpole Claims He Cut Charlie Kirk's Shirt Off at Hospital",
       "node_kind": "claim",
       "episode": 120,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3295,7 +3295,7 @@
       "label": "Harpole says he put Charlie on a gurney, gave patient information and cut the shirt for the defibrillator",
       "node_kind": "claim",
       "episode": 120,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3303,7 +3303,7 @@
       "label": "Harpole says he discussed drugs and defibrillation with staff and then guarded the door",
       "node_kind": "claim",
       "episode": 120,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3583,7 +3583,7 @@
       "label": "Defense argued without cross-examination the statement is hearsay",
       "node_kind": "claim",
       "episode": 120,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -4023,7 +4023,7 @@
       "label": "Brian Harpole Says He Got on Top of Charlie in ER to Cut Shirt",
       "node_kind": "claim",
       "episode": 121,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -4095,7 +4095,7 @@
       "label": "Brian Harpole States Car Door Was Open During Hospital Transport",
       "node_kind": "claim",
       "episode": 121,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -4111,7 +4111,7 @@
       "label": "Brian Harpole States Frank Turek Was Praying in Backseat During Transport",
       "node_kind": "claim",
       "episode": 121,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -4119,7 +4119,7 @@
       "label": "Brian Harpole States Rick Cutler Physically Held Him During Transport",
       "node_kind": "claim",
       "episode": 121,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -4135,7 +4135,7 @@
       "label": "Brian Harpole States He Used 36 ft of Dressing on Charlie's Neck",
       "node_kind": "claim",
       "episode": 121,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -5367,7 +5367,7 @@
       "label": "Host Says Turek Has Claimed on Multiple Shows That He Did CPR",
       "node_kind": "claim",
       "episode": 122,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -10727,7 +10727,7 @@
       "label": "Host Says Brian Harpole Said He Cut Charlie's Shirt and Asks Whose Scissors He Used",
       "node_kind": "claim",
       "episode": 129,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -11015,7 +11015,7 @@
       "label": "Host Says George Zinn Was Arrested With Child Abuse Images on His Phone",
       "node_kind": "claim",
       "episode": 12,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -13559,7 +13559,7 @@
       "label": "Erika Says TPUSA Will Build a Museum-Style Memorial for Charlie",
       "node_kind": "claim",
       "episode": 132,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -13567,7 +13567,7 @@
       "label": "Erika Says She Fears a Secular Revolutionary Destroying Charlie's Grave",
       "node_kind": "claim",
       "episode": 132,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -13671,7 +13671,7 @@
       "label": "Host Says TMZ Footage at 8:07 AM Showed Person in Maroon Shirt",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -14463,7 +14463,7 @@
       "label": "Host Says Don Trump Jr. Has Been Entering the Courthouse With Erika",
       "node_kind": "claim",
       "episode": 133,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -14887,7 +14887,7 @@
       "label": "Sky News Reports Kirk's Body En Route to Hansen Mortuary",
       "node_kind": "claim",
       "episode": 134,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15215,7 +15215,7 @@
       "label": "Host Says Erika Said Charlie Died Instantly",
       "node_kind": "claim",
       "episode": 134,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15671,7 +15671,7 @@
       "label": "Host Says Harpole Described Doing All the Work While Cutler Held Him and Turek Prayed",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15735,7 +15735,7 @@
       "label": "Harpole Account of ER Actions in Played Clip",
       "node_kind": "claim",
       "episode": 135,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16191,7 +16191,7 @@
       "label": "Host Says Harpole Told of a Nurse Wiping Blood From His Face",
       "node_kind": "claim",
       "episode": 136,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16199,7 +16199,7 @@
       "label": "Host Recounts Being Told Cutler Only Held Harpole in the Car",
       "node_kind": "claim",
       "episode": 136,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -16303,7 +16303,7 @@
       "label": "FBI agents arrived at UVU at 12:39 PM, 16 minutes after the 12:23 PM shooting",
       "node_kind": "claim",
       "episode": 136,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -17223,7 +17223,7 @@
       "label": "Host Says Kirk Was Shot at 12:23 PM on September 10",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -17679,7 +17679,7 @@
       "label": "Host Says the Presented Text Messages Had No Timestamps",
       "node_kind": "claim",
       "episode": 138,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -18663,7 +18663,7 @@
       "label": "Host Says the Dremel Used to Carve the Bullets Belonged to Lance Twiggs",
       "node_kind": "claim",
       "episode": 139,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -18775,7 +18775,7 @@
       "label": "Host Recounts That Lance Said He Photographed the Keyboard Note and Then Burned It",
       "node_kind": "claim",
       "episode": 139,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -20583,7 +20583,7 @@
       "label": "Host says the restaurant server contacted the FBI and recognized Robinson on the news",
       "node_kind": "claim",
       "episode": 141,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -21343,7 +21343,7 @@
       "label": "Host Says Erika Kirk Described Charlie as So Excited About UVU That He Could Not Sleep",
       "node_kind": "claim",
       "episode": 142,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -21751,7 +21751,7 @@
       "label": "Host Says She Filed a Dismissal Against Brian Harpole's Lawsuit",
       "node_kind": "claim",
       "episode": 143,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -22463,7 +22463,7 @@
       "label": "Host Says the FBI Took a Statement From the Restaurant Owner",
       "node_kind": "claim",
       "episode": 144,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -23999,7 +23999,7 @@
       "label": "Host Says Erika Attributed Charlie's Sleeplessness the Night Before to Excitement",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24039,7 +24039,7 @@
       "label": "Butch Hibbs attended UVU 9/10 with a front-row seat arranged through Charlie Kirk",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24047,7 +24047,7 @@
       "label": "Jack Hibbs Tells Todd Starnes That His Brother Phoned Him With Screaming Audible",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24375,7 +24375,7 @@
       "label": "Host Says Lance Twiggs Could Submit Video Testimony Without Cross-Examination by the Defense",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24887,7 +24887,7 @@
       "label": "Host Says Justin Davis Is the Driver Who Takes Charlie to the Hospital",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -26215,7 +26215,7 @@
       "label": "Host Says Rabbi Wolicki and Josh Hammer Were Also on the Zoom Call",
       "node_kind": "claim",
       "episode": 148,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -26255,7 +26255,7 @@
       "label": "Host Says Erika Told Interviewers Charlie Was Excited the Night Before",
       "node_kind": "claim",
       "episode": 148,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -27023,7 +27023,7 @@
       "label": "Fox News covered the Cowboy Smokehouse story",
       "node_kind": "claim",
       "episode": 149,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -27087,7 +27087,7 @@
       "label": "The Cowboy Smokehouse owner contacted the FBI after the server identified the suspect",
       "node_kind": "claim",
       "episode": 149,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -27767,7 +27767,7 @@
       "label": "Donald Trump posted a tweet featuring a mock Time magazine cover calling Candace Owens \"most vile person of the year\"",
       "node_kind": "claim",
       "episode": 150,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29511,7 +29511,7 @@
       "label": "Notice of Claim Filed Against Utah, UVU PD, Chief Long, Tuminez, and Unknown Others",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29711,7 +29711,7 @@
       "label": "Notice Says UVU Police Did Not Conduct a Risk Assessment or Hold a Security Briefing",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29815,7 +29815,7 @@
       "label": "Notice of Claim Alleges Request for Additional Officers Denied",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -30831,7 +30831,7 @@
       "label": "Host Says Kirk Wore Saint Michael Pendant When He Died",
       "node_kind": "claim",
       "episode": 15,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -35631,7 +35631,7 @@
       "label": "Turek says he told Charlie he disliked the venue because of the many buildings",
       "node_kind": "claim",
       "episode": 160,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -36911,7 +36911,7 @@
       "label": "Harpole says in a clip they have correspondence with the chief from the Monday before",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37015,7 +37015,7 @@
       "label": "Host says Long called in more officers on the day",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37023,7 +37023,7 @@
       "label": "Host says Harpole is suing her",
       "node_kind": "claim",
       "episode": 162,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37671,7 +37671,7 @@
       "label": "Discord States No Evidence of Planning on Platform",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37711,7 +37711,7 @@
       "label": "Turek's Book Names Charlie's Security in the SUV as Justin, Dan, Brian and Rick",
       "node_kind": "claim",
       "episode": 163,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37751,7 +37751,7 @@
       "label": "In Harpole's Clip, Charlie's Leg Kept the Door From Closing as He Did the Medical",
       "node_kind": "claim",
       "episode": 163,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37759,7 +37759,7 @@
       "label": "In Harpole's Clip, Justin Drove 60 to 100 and Rick Held Him",
       "node_kind": "claim",
       "episode": 163,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37775,7 +37775,7 @@
       "label": "In Harpole's Clip, Frank and Rick Were Praying While He Worked",
       "node_kind": "claim",
       "episode": 163,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -37823,7 +37823,7 @@
       "label": "Host Recalls Harpole Found the Room, Cut the Shirt and Readied the Defibrillator",
       "node_kind": "claim",
       "episode": 163,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -38431,7 +38431,7 @@
       "label": "Turek Clip Says Charlie Lay on His Bag, Which Was Full of Blood",
       "node_kind": "claim",
       "episode": 164,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -38439,7 +38439,7 @@
       "label": "Turek Clip Says Charlie's Necklace Was on Top of the Bag",
       "node_kind": "claim",
       "episode": 164,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -39607,7 +39607,7 @@
       "label": "Turek Said Charlie's Body Had Been on Top of the Bag in the Car",
       "node_kind": "claim",
       "episode": 166,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -41927,7 +41927,7 @@
       "label": "Wolicki Stated Charlie Called the Pre-Tour Meeting Himself for the Purpose of Preparing Israel Talking Points",
       "node_kind": "claim",
       "episode": 17,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42087,7 +42087,7 @@
       "label": "Article Says Zinn Booked on Child Abuse Image Charge",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42463,7 +42463,7 @@
       "label": "Surgeon Quoted on Bullet Stopped",
       "node_kind": "claim",
       "episode": 18,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45295,7 +45295,7 @@
       "label": "Host Says Brigitte Macron Was Born Jean-Michel Trogneux and Transitioned",
       "node_kind": "claim",
       "episode": 20,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -51063,7 +51063,7 @@
       "label": "Kirk Says on the Clip He Has a Bulletproof Record Defending Israel",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -54895,7 +54895,7 @@
       "label": "Host Says Indictment Text Messages Lack Timestamps",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -54991,7 +54991,7 @@
       "label": "Harpole Says Orem PD Told Him It Had a Mutual Aid Agreement With the School",
       "node_kind": "claim",
       "episode": 34,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -55807,7 +55807,7 @@
       "label": "Turek Says He Told Charlie He Did Not Like the Place Because of the Buildings",
       "node_kind": "claim",
       "episode": 35,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56671,7 +56671,7 @@
       "label": "Host Says Discord Later Stated the Messages Were Not Coordinated on Its Server",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -58263,7 +58263,7 @@
       "label": "Trump Told Fox and Friends He Had the Suspect in Custody With a High Degree of Certainty",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -59351,7 +59351,7 @@
       "label": "Neff Is Producer of the Charlie Kirk Show, Kolvet Is Spokesperson",
       "node_kind": "claim",
       "episode": 40,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -59575,7 +59575,7 @@
       "label": "Neff Says Charlie Had TPUSA Audited by a Third Party Every Year",
       "node_kind": "claim",
       "episode": 40,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -59583,7 +59583,7 @@
       "label": "TPUSA asserted Charlie personally reviewed and signed off on every bill paid by the organization",
       "node_kind": "claim",
       "episode": 40,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -59591,7 +59591,7 @@
       "label": "TPUSA asserted the organization has never missed a 990 deadline",
       "node_kind": "claim",
       "episode": 40,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -61311,7 +61311,7 @@
       "label": "Commenter Says Bari Weiss Interviews Erika Kirk on December 13",
       "node_kind": "claim",
       "episode": 42,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -61319,7 +61319,7 @@
       "label": "Host Says She Saw News of Weiss Sitting Down with Erika",
       "node_kind": "claim",
       "episode": 42,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -61919,7 +61919,7 @@
       "label": "Host Says Kirk's Final Asia Trip Was His First, Korea Then Japan",
       "node_kind": "claim",
       "episode": 44,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -62399,7 +62399,7 @@
       "label": "Host Says Kirk Was at a Korea Event on September 6 and on CNN Japan on September 7",
       "node_kind": "claim",
       "episode": 44,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -62815,7 +62815,7 @@
       "label": "Host Says Erika Kirk Gave Live Fox News Interview With Harris Faulkner on the Conspiracies",
       "node_kind": "claim",
       "episode": 45,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -62839,7 +62839,7 @@
       "label": "Erika Kirk requests public privacy on Charlie Kirk's burial location",
       "node_kind": "claim",
       "episode": 45,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -62847,7 +62847,7 @@
       "label": "Erika Kirk Says She Fears a Secular Revolutionary Destroying the Grave",
       "node_kind": "claim",
       "episode": 45,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -62871,7 +62871,7 @@
       "label": "Erika Kirk Says TPUSA Sends Every Lead to the Authorities",
       "node_kind": "claim",
       "episode": 45,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -62879,7 +62879,7 @@
       "label": "Erika Kirk Says Critics Make Hundreds and Thousands of Dollars Per Episode",
       "node_kind": "claim",
       "episode": 45,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -63719,7 +63719,7 @@
       "label": "Host Says Suicidal Intent and Fear of Being Shot Cannot Both Explain the Surrender",
       "node_kind": "claim",
       "episode": 46,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -64407,7 +64407,7 @@
       "label": "Andrew Kolvet posted surgeon \"man of steel\" bullet description",
       "node_kind": "claim",
       "episode": 47,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -64503,7 +64503,7 @@
       "label": "Host Says Probable Cause Hearing Is Scheduled for May",
       "node_kind": "claim",
       "episode": 47,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -65591,7 +65591,7 @@
       "label": "Turek States Charlie's Necklace Was on His Bag in Vehicle",
       "node_kind": "claim",
       "episode": 48,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -66071,7 +66071,7 @@
       "label": "Host Says the Meeting Lasted Four and a Half Hours",
       "node_kind": "claim",
       "episode": 48,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -67247,7 +67247,7 @@
       "label": "Netanyahu Says Kirk's Letter Called Advocating for Israel One of His Greatest Joys",
       "node_kind": "claim",
       "episode": 5,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -70143,7 +70143,7 @@
       "label": "Host Says Harpole Described Chief of Police Conversation Over Rooftop Coverage",
       "node_kind": "claim",
       "episode": 54,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -70415,7 +70415,7 @@
       "label": "Host Says Zinn Had Pornographic Images of Children on His Phone",
       "node_kind": "claim",
       "episode": 54,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -71055,7 +71055,7 @@
       "label": "Host Says Kirk's Last Trip Went From Korea to Japan",
       "node_kind": "claim",
       "episode": 54,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -74431,7 +74431,7 @@
       "label": "Host Says Astrid Tuminez Has Just Stepped Down as UVU President",
       "node_kind": "claim",
       "episode": 58,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -76415,7 +76415,7 @@
       "label": "TPUSA cease and desist letter sent approximately January 19–20, 2026",
       "node_kind": "claim",
       "episode": 61,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -76671,7 +76671,7 @@
       "label": "TPUSA demands cessation of statements implying TPUSA involvement in Kirk assassination",
       "node_kind": "claim",
       "episode": 61,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -77991,7 +77991,7 @@
       "label": "Erika Kirk gave an in-person NYT interview on September 18, 2025",
       "node_kind": "claim",
       "episode": 63,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -78023,7 +78023,7 @@
       "label": "NYT Article Describes Erika Left to Care for a Three-Year-Old Daughter and a One-Year-Old Son",
       "node_kind": "claim",
       "episode": 63,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -78039,7 +78039,7 @@
       "label": "Host Places the Public Memorial at State Farm Stadium on September 21",
       "node_kind": "claim",
       "episode": 63,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -80127,7 +80127,7 @@
       "label": "Host Says Erika Kirk Publicly Forgave Charlie's Killer at Memorial",
       "node_kind": "claim",
       "episode": 7,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -80839,7 +80839,7 @@
       "label": "Kolvet stated lack of exit wound was a miracle",
       "node_kind": "claim",
       "episode": 7,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -81279,7 +81279,7 @@
       "label": "Kash Patel committed FBI to exhaustive investigation",
       "node_kind": "claim",
       "episode": 7,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -81367,7 +81367,7 @@
       "label": "Patel's tweet lists hand gestures and weapon transport among investigated theories",
       "node_kind": "claim",
       "episode": 7,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -83815,7 +83815,7 @@
       "label": "Host Says Erika Said Charlie Grabbed His Wedding Band the Next Morning",
       "node_kind": "claim",
       "episode": 70,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -83823,7 +83823,7 @@
       "label": "Erika told Jesse Watters she sent Charlie to sleep in daughter's room",
       "node_kind": "claim",
       "episode": 70,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -83983,7 +83983,7 @@
       "label": "Host Says Erika's Account Was That She Accompanied Her Mother to Treatment",
       "node_kind": "claim",
       "episode": 70,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -86183,7 +86183,7 @@
       "label": "Erika stated Charlie removed his wedding ring the night before and retrieved it from the bathroom the next morning",
       "node_kind": "claim",
       "episode": 73,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -86199,7 +86199,7 @@
       "label": "Erika Says She Sent Charlie to Sleep in the Daughter's Room",
       "node_kind": "claim",
       "episode": 73,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -86207,7 +86207,7 @@
       "label": "Erika Says Charlie Took His Ring and Necklace From the Bathroom and Left Without a Kiss",
       "node_kind": "claim",
       "episode": 73,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -86255,7 +86255,7 @@
       "label": "Erika Says Charlie Had Looked Into Wearing a Vest",
       "node_kind": "claim",
       "episode": 73,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -86271,7 +86271,7 @@
       "label": "Fox Segment Says Erika Stayed in Phoenix to Care for Her Mother",
       "node_kind": "claim",
       "episode": 73,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -87679,7 +87679,7 @@
       "label": "Kirk Wrote Netanyahu a Letter on May 2",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -89455,7 +89455,7 @@
       "label": "Netanyahu Says Kirk Was Excited to Walk in the Footsteps of Jesus",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -91719,7 +91719,7 @@
       "label": "Kent Resignation Effective Day of Letter",
       "node_kind": "claim",
       "episode": 80,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -91727,7 +91727,7 @@
       "label": "Kent: Iran Posed No Imminent Threat",
       "node_kind": "claim",
       "episode": 80,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -92551,7 +92551,7 @@
       "label": "Joe Kent stated FBI halted NCTC investigation of Charlie Kirk assassination",
       "node_kind": "claim",
       "episode": 81,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -93471,7 +93471,7 @@
       "label": "Host says there were no witnesses to Erika's alleged collapse in a parking lot",
       "node_kind": "claim",
       "episode": 82,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -94511,7 +94511,7 @@
       "label": "Clip Says Joe Kent Was Told to Stop His Investigation and Then Resigned",
       "node_kind": "claim",
       "episode": 83,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -95087,7 +95087,7 @@
       "label": "New York Times reported Erika Kirk was in the hospital with her mother",
       "node_kind": "claim",
       "episode": 84,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -95111,7 +95111,7 @@
       "label": "New York Times: Charlie Kirk was pronounced dead while Erika was airborne",
       "node_kind": "claim",
       "episode": 84,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -95295,7 +95295,7 @@
       "label": "Tyler Robinson has not entered a plea or been arraigned",
       "node_kind": "claim",
       "episode": 84,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96015,7 +96015,7 @@
       "label": "Host Says Brooksby Tells the Truth About How Robinson Was Turned In",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96023,7 +96023,7 @@
       "label": "Brooksby received call from retired detective friend at 8:02 PM",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96055,7 +96055,7 @@
       "label": "Brooksby Clip: Friend Said He Knew the Family Through Religious Association",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96239,7 +96239,7 @@
       "label": "Brooksby Clip: Tyler Knew Capture Was Inevitable With His Picture and the Gun on the News",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96247,7 +96247,7 @@
       "label": "Brooksby stated Robinson feared SWAT team or being shot",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96295,7 +96295,7 @@
       "label": "Erika Kirk was on plane when Charlie was pronounced dead",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96727,7 +96727,7 @@
       "label": "Per Filing Host Reads, Defense Moves to Continue Preliminary Hearing",
       "node_kind": "claim",
       "episode": 86,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96775,7 +96775,7 @@
       "label": "Defense says it has requested forensic case files since September 30",
       "node_kind": "claim",
       "episode": 86,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96879,7 +96879,7 @@
       "label": "Per Filing Host Reads, FBI Conducting Second Comparative Bullet and Bullet Lead Analyses",
       "node_kind": "claim",
       "episode": 86,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -98399,7 +98399,7 @@
       "label": "NYT Wrote That Erika Planned to Go to Utah but Her Mother Had Treatment in Phoenix",
       "node_kind": "claim",
       "episode": 88,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -98415,7 +98415,7 @@
       "label": "NYT Quoted Erika Saying She Knew the Words Before McCoy Screamed Them",
       "node_kind": "claim",
       "episode": 88,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -98447,7 +98447,7 @@
       "label": "Erika Told Watters She Collapsed in the Parking Lot",
       "node_kind": "claim",
       "episode": 88,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -99847,7 +99847,7 @@
       "label": "Host Says Brooksby Then Called Utah County Sheriff Mike Smith About the Call",
       "node_kind": "claim",
       "episode": 90,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -99919,7 +99919,7 @@
       "label": "Discord publicly stated no evidence Robinson planned the incident on Discord",
       "node_kind": "claim",
       "episode": 90,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -101071,7 +101071,7 @@
       "label": "Host Says Erika Kirk Was Scheduled to Appear at UGA with VP JD Vance",
       "node_kind": "claim",
       "episode": 92,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -101095,7 +101095,7 @@
       "label": "Andrew Kolvet Cited Security Threats as Reason for Erika's UGA No-Show",
       "node_kind": "claim",
       "episode": 92,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -101143,7 +101143,7 @@
       "label": "TPUSA Security Team Declined to Guarantee Erika's Safety",
       "node_kind": "claim",
       "episode": 92,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -101151,7 +101151,7 @@
       "label": "Kolvet Cites Savanah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA",
       "node_kind": "claim",
       "episode": 92,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -101247,7 +101247,7 @@
       "label": "Erika Kirk Stated Cancellation Followed Security Team Recommendation",
       "node_kind": "claim",
       "episode": 92,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -101655,7 +101655,7 @@
       "label": "Host Says George Zinn Was Arrested With Pornographic Images of Children",
       "node_kind": "claim",
       "episode": 92,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -101927,7 +101927,7 @@
       "label": "JD Vance stated on stage he was worried about cancellation \"2 hours ago\"",
       "node_kind": "claim",
       "episode": 93,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -101943,7 +101943,7 @@
       "label": "Vance Said He Spoke to the Secret Service and Let Erika Do What She Needed",
       "node_kind": "claim",
       "episode": 93,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -102679,7 +102679,7 @@
       "label": "Richard Novak States Defense Lacks Forensic Data Files",
       "node_kind": "claim",
       "episode": 94,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -102695,7 +102695,7 @@
       "label": "Novak Says the Defense Does Not Know Why the ATF Took Until the Last Three Weeks and the FBI Still Has Not Produced Its Data",
       "node_kind": "claim",
       "episode": 94,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -102703,7 +102703,7 @@
       "label": "Host Says Netanyahu Called Charlie and Invited Him to Israel",
       "node_kind": "claim",
       "episode": 10,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -102879,7 +102879,7 @@
       "label": "Host Says Robinson, 22, Is Facing the Death Sentence",
       "node_kind": "claim",
       "episode": 94,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -104103,7 +104103,7 @@
       "label": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
       "node_kind": "claim",
       "episode": 96,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -104895,7 +104895,7 @@
       "label": "Harpole Filed 69-Page Defamation Lawsuit Against Candace Owens",
       "node_kind": "claim",
       "episode": 97,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -109151,7 +109151,7 @@
       "label": "Host Says Erika Went on Harris Faulkner the Next Day Fired Up About Conspiracy Theories",
       "node_kind": "claim",
       "episode": 102,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -109487,7 +109487,7 @@
       "label": "Trump posted the host's face on a Time magazine cover calling her the most vile person of the year",
       "node_kind": "claim",
       "episode": 103,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -109615,7 +109615,7 @@
       "label": "Charlie Kirk was due to meet Erika Kirk at Colorado State University in Fort Collins",
       "node_kind": "claim",
       "episode": 103,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -112599,7 +112599,7 @@
       "label": "Host is being sued by Brian Harpole, head of Charlie Kirk's security team",
       "node_kind": "claim",
       "episode": 108,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -113551,7 +113551,7 @@
       "label": "Host Says the Media Story Was That the Father Realized His Son Was Guilty and Phoned a Friend to Persuade Him to Surrender",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -114439,7 +114439,7 @@
       "label": "Brooksby Says a Retired Friend Called at 8:02 p.m. Saying He Knew Who the Shooter Was",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -114703,7 +114703,7 @@
       "label": "Brooksby Clip: Friend Knows the Family Through Religious Association and Was Trying to Get Tyler to Come In",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -114879,7 +114879,7 @@
       "label": "Brooksby stated Tyler Robinson came in willingly out of fear of being shot by law enforcement",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -114967,7 +114967,7 @@
       "label": "Brooksby Clip: Tyler Knew Capture Was Inevitable Given His Picture and the Gun in the News",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -116567,7 +116567,7 @@
       "label": "Brooksby Clip: The Caller Was a Retired Detective Who Worked for Him for Many Years",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",

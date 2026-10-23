@@ -5920,6 +5920,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-26"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Retrieve the original New York Times article and verify the wording."
     },
@@ -5983,6 +5991,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-26"
     },
     {
      "k": "Investigative Direction",
@@ -6113,6 +6129,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-44"
     },
     {
      "k": "Investigative Direction",

@@ -619,6 +619,8 @@ Anchored Artifacts: A-1525.1
 Related Nodes:
 Mentions: N-2, N-1
 
+Verification: corroborated
+Verification Evidence: S-36
 Investigative Direction: Verify burial location and date through cemetery or estate records; cross-check with Milo Yiannopoulos' claim that Charlie has not yet been buried.
 
 ---
@@ -820,6 +822,8 @@ Anchored Artifacts:
 Mentions: N-798, N-2, N-3
 Related Nodes: N-10006
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-36
 Investigative Direction: Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.
 Open Questions: Q-396
 
@@ -869,6 +873,8 @@ Anchored Artifacts: A-1525.1
 Mentions: N-2, N-1
 Related Nodes: N-10193
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-36
 Investigative Direction: Review the full Fox News clip and any reported threats or vandalism against Kirk-related sites.
 Open Questions: Q-396
 
@@ -886,6 +892,8 @@ Anchored Artifacts: A-1525.2
 Mentions: N-2
 Related Nodes: N-10000
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-36
 Investigative Direction: Ask TPUSA or Erika Kirk's office for a log of leads forwarded to law enforcement and the agencies that received them.
 Open Questions: Q-397
 
@@ -903,6 +911,8 @@ Anchored Artifacts: A-1525.2
 Mentions: N-2
 Related Nodes: N-10000
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-36
 Investigative Direction: Review the full clip; revenue claims about named creators could be checked against platform payout disclosures.
 
 ---

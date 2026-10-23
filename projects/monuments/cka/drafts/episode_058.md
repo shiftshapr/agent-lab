@@ -2265,6 +2265,8 @@ Anchored Artifacts:
 Mentions: N-751, N-3
 Related Nodes: N-10012
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-60
 Investigative Direction: Check the UVU announcement and its date.
 Open Questions: Q-496
 

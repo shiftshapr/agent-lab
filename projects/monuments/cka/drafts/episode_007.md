@@ -860,6 +860,8 @@ Transcript Snippet: She arrived at forgiveness and she did it in front of the en
 Anchored Artifacts: A-1134.1, A-1134.2
 Related Nodes: N-11361
 Mentions: N-1, N-2
+Verification: corroborated
+Verification Evidence: S-64
 Investigative Direction: Verify the full text/transcript of Erika's speech against published recording.
 
 ---
@@ -872,6 +874,8 @@ Transcript Snippet: The fact that there wasn't an exit wound is probably another
 Anchored Artifacts: A-1135.1
 Mentions: N-14
 Related Nodes: N-10000, N-10081
+Verification: corroborated
+Verification Evidence: S-28
 Investigative Direction: Obtain the original Kolvet tweet and verify timestamp; seek surgeon identity.
 
 ---
@@ -908,6 +912,8 @@ Transcript Snippet: The full weight of America's law enforcement agencies are ac
 Anchored Artifacts: A-1137.1
 Mentions: N-69, N-1
 Related Nodes: N-10014
+Verification: corroborated
+Verification Evidence: S-16
 Investigative Direction: Retrieve the original Patel tweet and archive; cross-reference FBI press releases.
 
 Tags: open_source_investigation
@@ -1319,6 +1325,8 @@ Related Nodes: N-10014
 
 Tags: relevance:core
 
+Verification: corroborated
+Verification Evidence: S-16
 Investigative Direction: Retrieve Patel's original post and ask the FBI for any record about the hand-gesture line of inquiry.
 Open Questions: Q-20, Q-70
 

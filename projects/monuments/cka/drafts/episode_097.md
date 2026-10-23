@@ -986,6 +986,8 @@ Anchored Artifacts: A-2015.1
 Mentions: N-3, N-266
 
 
+Verification: corroborated
+Verification Evidence: S-66
 Investigative Direction: Obtain the filed complaint and PACER docket to verify the exact count and nature of causes of action.
 
 ---

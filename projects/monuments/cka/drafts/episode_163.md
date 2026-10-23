@@ -1445,6 +1445,8 @@ Anchored Artifacts: A-3376.1
 Mentions: N-7, N-266, N-487
 Related Nodes: N-11336
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Compare with Harpole's and the independent review's lists of SUV occupants.
 Open Questions: Q-882
 
@@ -1531,6 +1533,8 @@ Anchored Artifacts: A-3377.1
 Mentions: N-266, N-224, N-1
 Related Nodes: N-10619
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58, S-59
 Investigative Direction: Shawn Ryan Show full interview.
 Open Questions: Q-882
 
@@ -1548,6 +1552,8 @@ Anchored Artifacts: A-3377.1
 Mentions: N-266, N-487
 Related Nodes: N-10619
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Traffic camera or vehicle telematics for the route to Timpanogos.
 Open Questions: Q-882
 
@@ -1565,6 +1571,8 @@ Anchored Artifacts: A-3377.1
 Mentions: N-266, N-7, N-487
 Related Nodes: N-10636
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58, S-59
 Investigative Direction: Rick Cutler's own account of the ride.
 Open Questions: Q-231
 
@@ -1670,6 +1678,8 @@ Mentions: N-266
 Related Nodes: N-10621
 Supports: C-13856
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Timpanogos staff accounts of who moved Charlie to the trauma room.
 Open Questions: Q-1261
 

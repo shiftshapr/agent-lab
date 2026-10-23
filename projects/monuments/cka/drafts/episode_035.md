@@ -2007,6 +2007,8 @@ Anchored Artifacts: A-1441.1
 Mentions: N-7, N-1
 Related Nodes: N-10251
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-27
 Investigative Direction: Obtain the full clip and ask Turek whether he raised the concern with security staff.
 Open Questions: Q-342, Q-343
 

@@ -865,6 +865,8 @@ Anchored Artifacts: A-1104.1, A-1104.2, A-1104.7, A-1104.8, A-1104.9, A-1104.10,
 Mentions: N-40
 Related Nodes: N-10030, N-10043
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-33
 Investigative Direction: FOIA or subpoena the underlying device data and Discord metadata to recover timestamps.
 
 Tags: open_source_investigation
@@ -1276,6 +1278,8 @@ Transcript Snippet: And by the way, we know that Discord is going to later say t
 Anchored Artifacts: A-1106.3
 Related Nodes: N-10013, N-10030
 Supports: C-141
+Verification: corroborated
+Verification Evidence: S-16
 Investigative Direction: Obtain Discord's statement and any law-enforcement request records regarding the Robinson-Twigs account.
 
 ---
@@ -1544,6 +1548,8 @@ Transcript Snippet: but I think uh with a high degree of certainty we have him. 
 Anchored Artifacts: A-1105.3
 Mentions: N-5
 Related Nodes: N-10006
+Verification: corroborated
+Verification Evidence: S-52
 Investigative Direction: Retrieve the Fox and Friends segment with air time.
 
 ---

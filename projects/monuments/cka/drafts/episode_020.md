@@ -3246,6 +3246,8 @@ Anchored Artifacts: A-1280.1
 Mentions: N-3, N-82
 Related Nodes: N-10254
 Tags: relevance:tangential
+Verification: corroborated
+Verification Evidence: S-66
 Investigative Direction: Review French civil-status records and the court record in the Delaware defamation case.
 
 ---

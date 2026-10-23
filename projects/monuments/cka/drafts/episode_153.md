@@ -705,6 +705,8 @@ Claim: The host says Charlie Kirk's family has filed a notice of claim against t
 Anchored Artifacts: A-2384.1
 Mentions: N-1, N-271, N-751
 Related Nodes: N-10756
+Verification: corroborated
+Verification Evidence: S-60
 Investigative Direction: Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents.
 
 ---
@@ -829,6 +831,8 @@ Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that the request for additional officers was denied.
 Anchored Artifacts: A-2384.1
 Related Nodes: N-10759
+Verification: corroborated
+Verification Evidence: S-60
 Investigative Direction: Retrieve Tuminez's contemporaneous internal communications and PD shift logs.
 
 ---
@@ -1306,6 +1310,8 @@ Anchored Artifacts: A-2384.1
 Mentions: N-3, N-271
 Related Nodes: N-10590, N-10012
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-60
 Investigative Direction: Ask UVU PD for any written risk assessment or briefing record for September 10, 2025.
 
 ---

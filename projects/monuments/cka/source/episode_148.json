@@ -7926,6 +7926,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-15"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain attendee lists or invitations for the call from the participants."
     },
@@ -8241,6 +8249,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-26"
     },
     {
      "k": "Investigative Direction",

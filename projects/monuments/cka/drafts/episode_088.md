@@ -1567,6 +1567,8 @@ Anchored Artifacts: A-2946.1
 Mentions: N-2, N-1, N-3
 Related Nodes: N-10889, N-10826
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Retrieve the original New York Times article and verify the wording.
 Open Questions: Q-736, Q-775
 
@@ -1584,6 +1586,8 @@ Anchored Artifacts: A-1930.1
 Mentions: N-2, N-190, N-3
 Related Nodes: N-10889, N-10826
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Retrieve the original article and compare with the Watters account of the call.
 Open Questions: Q-212, Q-736
 
@@ -1618,6 +1622,8 @@ Anchored Artifacts: A-1931.1
 Mentions: N-2, N-211, N-3
 Related Nodes: N-10440
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-44
 Investigative Direction: Look for witnesses, security cameras and staff accounts for the parking lot on September 10.
 Open Questions: Q-776
 

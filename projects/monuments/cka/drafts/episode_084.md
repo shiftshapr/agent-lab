@@ -999,6 +999,8 @@ Anchored Artifacts: A-2530.1
 Mentions: N-2
 Related Nodes: N-10826, N-10449, N-10445
 Supports: C-6106
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Retrieve the published New York Times article and any correction history.
 
 ---
@@ -1048,6 +1050,8 @@ Transcript Snippet: It says Mr. Kirk's chartered plane traveled back to Scottsda
 Anchored Artifacts: A-2530.1
 Mentions: N-1, N-2
 Related Nodes: N-10826, N-10440
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Contact the New York Times reporter for interview notes and check the article's correction log.
 
 ---
@@ -1366,6 +1370,8 @@ Anchored Artifacts:
 
 Mentions: N-40
 Related Nodes: N-10106
+Verification: corroborated
+Verification Evidence: S-23, S-35
 Investigative Direction: Check the Utah County court docket for Tyler Robinson's case status as of March 26, 2026.
 
 ---

@@ -785,6 +785,8 @@ Anchored Artifacts:
 Mentions: N-7, N-1
 Related Nodes: N-11339
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-27
 Investigative Direction: Turek's recorded interview, and the vehicle occupants' accounts of the ride to Timpanogos / Utah Valley hospital.
 Open Questions: Q-1266
 

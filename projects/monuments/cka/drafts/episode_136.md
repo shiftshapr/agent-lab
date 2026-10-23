@@ -744,6 +744,8 @@ Anchored Artifacts: A-2226.1
 Mentions: N-69
 Related Nodes:
 
+Verification: corroborated
+Verification Evidence: S-52
 Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bongino interview transcripts.
 
 ---
@@ -1055,6 +1057,8 @@ Anchored Artifacts:
 Mentions: N-266
 Related Nodes: N-10636
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58, S-59
 Investigative Direction: Locate the Harpole interview where the nurse account is given and identify the nurse and hospital staff present.
 Open Questions: Q-882
 
@@ -1073,6 +1077,8 @@ Mentions: N-487, N-266
 Related Nodes: N-10636
 Supports: C-10324
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-58
 Investigative Direction: Compare Harpole's and Cutler's own recorded accounts of who did what during the ride.
 Open Questions: Q-882, Q-1045
 

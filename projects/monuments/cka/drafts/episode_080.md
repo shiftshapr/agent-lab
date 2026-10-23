@@ -750,6 +750,8 @@ Mentions: N-209
 
 Related Nodes: N-10501
 
+Verification: corroborated
+Verification Evidence: S-47
 Investigative Direction: Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline.
 
 ---
@@ -765,6 +767,8 @@ Mentions: N-209
 
 Related Nodes: N-10501
 
+Verification: corroborated
+Verification Evidence: S-47
 Investigative Direction: Compare Kent's stated threat assessment against publicly available U.S. intelligence community products and ODNI statements from the relevant period.
 
 ---

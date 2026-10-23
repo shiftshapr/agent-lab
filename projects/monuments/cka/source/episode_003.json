@@ -4097,6 +4097,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-30"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm booking details and court filings; verify device forensic report."
     },
@@ -10508,6 +10516,14 @@
     {
      "k": "Tags",
      "v": "relevance:context"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-15"
     },
     {
      "k": "Investigative Direction",

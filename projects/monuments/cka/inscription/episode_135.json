@@ -1615,8 +1615,11 @@
         "N-1",
         "N-266"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58",
+        "S-59"
+      ]
     },
     {
       "@type": "Claim",
@@ -2626,8 +2629,10 @@
         "N-487",
         "N-7"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-58"
+      ],
       "open_questions": [
         "Q-882"
       ]

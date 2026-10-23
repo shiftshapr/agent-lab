@@ -2371,6 +2371,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-38, S-55"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain certified copy of the filed motion and confirm filing date and assigned judge."
     },
@@ -2485,6 +2493,14 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-38"
     },
     {
      "k": "Investigative Direction",
@@ -5268,6 +5284,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-38"
     },
     {
      "k": "Investigative Direction",

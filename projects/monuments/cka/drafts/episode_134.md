@@ -700,6 +700,8 @@ Mentions: N-1
 
 Related Nodes: N-10692
 
+Verification: corroborated
+Verification Evidence: S-26, S-27
 Investigative Direction: Cross-reference Sky News broadcast archive; confirm mortuary receipt and timing against Hansen Mortuary records.
 
 ---
@@ -1785,6 +1787,8 @@ Anchored Artifacts:
 Mentions: N-2, N-1
 Related Nodes: N-10690
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-44
 Investigative Direction: Locate Erika's statement and compare it with medical and EMS timelines.
 Open Questions: Q-1006
 

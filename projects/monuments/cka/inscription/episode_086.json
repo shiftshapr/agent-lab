@@ -1407,8 +1407,11 @@
       "tags": [],
       "claim_timestamp": "00:19:54",
       "investigative_direction": "Obtain certified copy of the filed motion and confirm filing date and assigned judge.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-38",
+        "S-55"
+      ]
     },
     {
       "@type": "Claim",
@@ -1448,8 +1451,10 @@
       "tags": [],
       "claim_timestamp": "00:38:49",
       "investigative_direction": "Obtain status filing or prosecutorial disclosure regarding timeline of FBI secondary analyses.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-38"
+      ]
     },
     {
       "@type": "Claim",
@@ -2562,8 +2567,10 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-38"
+      ],
       "open_questions": [
         "Q-750"
       ]

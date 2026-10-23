@@ -4712,6 +4712,14 @@
      "v": "N-10021"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-61"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the individual via court filings."
     },
@@ -4920,6 +4928,14 @@
      "v": "N-10021"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-61"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare with Cox's framing of an outright confession (C-7656)."
     },
@@ -4964,6 +4980,14 @@
     {
      "k": "Mentions",
      "v": "N-1, N-2"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-26"
     },
     {
      "k": "Investigative Direction",
@@ -9327,6 +9351,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-61"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare the full Brooksby press-conference transcript with the host's reading; he refers to an unnamed friend, not Mitchell, in the clips played."
     },
@@ -9390,6 +9422,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-61"
     },
     {
      "k": "Investigative Direction",
@@ -10515,6 +10555,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-61"
     },
     {
      "k": "Investigative Direction",

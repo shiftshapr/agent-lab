@@ -952,6 +952,8 @@ Claim: Per Andrew Kolvet's tweet the host reads, the surgeon stated the bullet s
 Anchored Artifacts: A-1251.1
 Mentions: N-14
 Related Nodes: N-10172
+Verification: corroborated
+Verification Evidence: S-28
 Investigative Direction: Identify the named surgeon (if given) and confirm statement through independent medical record review.
 
 ---

@@ -863,6 +863,8 @@ Claim Timestamp: 00:06:10
 Claim: The episode presents that Erika Kirk gave an in-person interview to the New York Times at her and Charlie's condo on September 18, 2025 – eight days after Charlie's public assassination.
 Anchored Artifacts: A-1679.1
 Mentions: N-2
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Verify NYT byline, interview location, and publication date; compare with NYT editorial logs and any contemporaneous NYT reporter commentary.
 
 ---
@@ -1059,6 +1061,8 @@ Anchored Artifacts: A-1679.1
 Mentions: N-2
 Related Nodes: N-10826, N-10889
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-26
 Investigative Direction: Confirm the children's ages in the published article and against other reporting.
 
 ---
@@ -1092,6 +1096,8 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Related Nodes: N-11361
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-57, S-64
 Investigative Direction: Verify against stadium and event records and contemporaneous coverage (publicly documented).
 
 ---

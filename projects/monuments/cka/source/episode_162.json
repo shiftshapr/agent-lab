@@ -5377,6 +5377,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-45"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Full Shawn Ryan Show episode and text timestamps."
     },
@@ -6195,6 +6203,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-46"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Independent review on UVU PD staffing adjustments."
     },
@@ -6260,6 +6276,14 @@
     {
      "k": "Tags",
      "v": "relevance:context"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-66"
     },
     {
      "k": "Investigative Direction",

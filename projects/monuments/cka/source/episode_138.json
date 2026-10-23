@@ -6503,6 +6503,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-33"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the exhibit images and the extraction report metadata."
     },

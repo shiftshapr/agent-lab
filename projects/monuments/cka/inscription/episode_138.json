@@ -3332,8 +3332,10 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-33"
+      ],
       "open_questions": [
         "Q-753"
       ]

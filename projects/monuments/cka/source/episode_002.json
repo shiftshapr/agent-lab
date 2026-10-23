@@ -3540,6 +3540,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-42"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain full text of the May 2 letter and verify against Netanyahu's quoted excerpt."
     },
@@ -3980,6 +3988,14 @@
      "v": "high"
     },
     {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-63"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain timestamped original TMZ footage and verify chain of custody."
     },
@@ -4158,6 +4174,14 @@
     {
      "k": "Uncertainty",
      "v": "Time universally reported; not anchored to specific shown artifact in this episode (rooftop footage shown but no formal doc)."
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-21"
     },
     {
      "k": "Investigative Direction",
@@ -4542,6 +4566,14 @@
     {
      "k": "Confidence",
      "v": "high"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-16"
     },
     {
      "k": "Investigative Direction",
@@ -5255,6 +5287,14 @@
     {
      "k": "Tags",
      "v": "relevance:context"
+    },
+    {
+     "k": "Verification",
+     "v": "corroborated"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "S-42"
     },
     {
      "k": "Investigative Direction",

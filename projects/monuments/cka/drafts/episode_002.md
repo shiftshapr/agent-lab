@@ -942,6 +942,8 @@ Anchored Artifacts: A-1082.1, A-1083.1
 Mentions: N-36, N-1
 Related Nodes: N-10017
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-42
 Investigative Direction: Obtain full text of the May 2 letter and verify against Netanyahu's quoted excerpt.
 
 ---
@@ -1052,6 +1054,8 @@ Anchored Artifacts: A-1088.1
 Mentions: N-40
 Related Nodes: N-10011, N-10012, N-10028
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-63
 Investigative Direction: Obtain timestamped original TMZ footage and verify chain of custody.
 
 ---
@@ -1097,6 +1101,8 @@ Mentions: N-1
 Related Nodes: N-10024
 Confidence: high
 Uncertainty: Time universally reported; not anchored to specific shown artifact in this episode (rooftop footage shown but no formal doc).
+Verification: corroborated
+Verification Evidence: S-21
 Investigative Direction: Cross-reference official timeline and autopsy report.
 
 Tags: open_source_investigation
@@ -1193,6 +1199,8 @@ Anchored Artifacts: A-1090.1
 Mentions: N-40
 Related Nodes: N-10013
 Confidence: high
+Verification: corroborated
+Verification Evidence: S-16
 Investigative Direction: Obtain full Discord statement and any subsequent updates.
 
 ---
@@ -1379,6 +1387,8 @@ Anchored Artifacts: A-1082.1
 Mentions: N-36, N-1
 Related Nodes: N-10006
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-42
 Investigative Direction: Compare with Kirk's own public statements about visiting Israel and with TPUSA's trip planning.
 
 ---
