@@ -1964,6 +1964,8 @@ Anchored Artifacts: A-1948.2, A-2959.1
 Mentions: N-3, N-40
 Related Nodes: N-10542
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-110
 Investigative Direction: Obtain the filing and the discovery log to confirm the October 2025 production date.
 Open Questions: Q-792
 

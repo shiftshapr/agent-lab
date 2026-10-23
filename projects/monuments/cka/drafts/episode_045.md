@@ -841,6 +841,8 @@ Anchored Artifacts:
 Mentions: N-1, N-2
 Related Nodes: N-10006
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-72, S-91
 Investigative Direction: Check the publisher's announcement for the book title, subject and release date.
 
 ---
@@ -1198,6 +1200,8 @@ Anchored Artifacts: A-2919.2
 Mentions: N-22, N-146
 Related Nodes: N-10014
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-91
 Investigative Direction: Compare with the charging documents on whether any accomplice is alleged.
 Open Questions: Q-21
 
@@ -1283,6 +1287,8 @@ Anchored Artifacts:
 Mentions: N-2, N-278
 Related Nodes: N-10313
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-83, S-91
 Investigative Direction: Obtain the town hall footage and exact wording of Weiss's question and Erika's answer.
 Open Questions: Q-396
 

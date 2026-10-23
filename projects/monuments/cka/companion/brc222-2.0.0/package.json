@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-23T16:10:35Z",
+  "generated_at": "2026-10-23T17:38:58Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -3079,7 +3079,7 @@
       "label": "Tucker Carlson: Charlie was most likely murdered for his evolving views on Israel",
       "node_kind": "claim",
       "episode": 119,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3119,7 +3119,7 @@
       "label": "Blake Neff tweeted that Tucker is lying and Robinson acted out of transgender radicalism",
       "node_kind": "claim",
       "episode": 119,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -3591,7 +3591,7 @@
       "label": "Twiggs now lives out of state",
       "node_kind": "claim",
       "episode": 120,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -7063,7 +7063,7 @@
       "label": "Benny Johnson Said the Court Played 20 Minutes of High-Definition Security Footage",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -12463,7 +12463,7 @@
       "label": "Bannon Clip Says Shapiro Will Make a Move on Turning Point Out of Envy of Charlie",
       "node_kind": "claim",
       "episode": 131,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -13351,7 +13351,7 @@
       "label": "Host Says She Was Turning Point USA's Communications Director",
       "node_kind": "claim",
       "episode": 132,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -19351,7 +19351,7 @@
       "label": "Host Expects a TPUSA Employee to Testify About Robinson's Approach",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25095,7 +25095,7 @@
       "label": "Host Says Mikey McCoy as Chief of Staff Was Tasked With Updating Erika Kirk",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25279,7 +25279,7 @@
       "label": "Novak Tells the Court It Is True Kirk Spoke Hatefully of Certain Groups",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25879,7 +25879,7 @@
       "label": "Blake Neff Reported Discussing Candace Owens's Anticipated Reaction in Hospital Waiting Room on September 10",
       "node_kind": "claim",
       "episode": 148,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25887,7 +25887,7 @@
       "label": "Blake Neff Stated Charlie Kirk Was Aware of Owens's Theories About France's First Lady Being Transgender",
       "node_kind": "claim",
       "episode": 148,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25895,7 +25895,7 @@
       "label": "Blake Neff Described Some of Candace Owens's Views as \"Weird Stuff About Jewish Cults\"",
       "node_kind": "claim",
       "episode": 148,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25903,7 +25903,7 @@
       "label": "Blake Neff Stated TPUSA Reduced Involvement With Owens Around 2024 Due to Her Views",
       "node_kind": "claim",
       "episode": 148,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -30519,7 +30519,7 @@
       "label": "Per ABC News Report, UVU Attendance Estimate Progressed 200 to 600 to 1,500 to About 3,000",
       "node_kind": "claim",
       "episode": 154,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -30575,7 +30575,7 @@
       "label": "TPUSA Official Tells ABC the Form Was Submitted in Early July With 200 Plus Selected",
       "node_kind": "claim",
       "episode": 154,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -30583,7 +30583,7 @@
       "label": "TPUSA Statement to ABC News Framed UVU Event as Open-to-Public / Unticketed Prove Me Wrong Format",
       "node_kind": "claim",
       "episode": 154,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -30607,7 +30607,7 @@
       "label": "TPUSA Official Said 12 Security With a Full Medical Kit Explained No Ambulance",
       "node_kind": "claim",
       "episode": 154,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -43535,7 +43535,7 @@
       "label": "Host Says Mikey McCoy Was Behind the Tent When Charlie Was Shot",
       "node_kind": "claim",
       "episode": 19,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45071,7 +45071,7 @@
       "label": "Host Says Mikey Is Behind Charlie in the Video, Not Beside Him",
       "node_kind": "claim",
       "episode": 20,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -47967,7 +47967,7 @@
       "label": "Erika Kirk Opposes Courtroom Camera Ban",
       "node_kind": "claim",
       "episode": 24,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -47975,7 +47975,7 @@
       "label": "Erika Says She Has Seen What the Case Is Built On and There Is Nothing to Hide",
       "node_kind": "claim",
       "episode": 24,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -48055,7 +48055,7 @@
       "label": "Host Says Erika's Watters Interview Premieres in Two Days on Fox News",
       "node_kind": "claim",
       "episode": 24,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -49351,7 +49351,7 @@
       "label": "Host Says Jesse Watters Interview With Erika Kirk Was About to Air",
       "node_kind": "claim",
       "episode": 26,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -54471,7 +54471,7 @@
       "label": "Erika Kirk Assumed CEO Role on September 18, 2025",
       "node_kind": "claim",
       "episode": 33,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -54919,7 +54919,7 @@
       "label": "Host Says Harpole Attributes the Lack of Rooftop Security to UVU Police Chief Jeff Long",
       "node_kind": "claim",
       "episode": 34,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -55783,7 +55783,7 @@
       "label": "Host Says Kash Patel Tweeted That the Subject in Custody Was Released",
       "node_kind": "claim",
       "episode": 4,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -56695,7 +56695,7 @@
       "label": "Host Says Harpole Told Shawn Ryan the Fault Lay With UVU Police Chief Long",
       "node_kind": "claim",
       "episode": 36,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -62823,7 +62823,7 @@
       "label": "Host Says Charlie Kirk's Posthumous Book About the Sabbath Is Coming Out",
       "node_kind": "claim",
       "episode": 45,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -63071,7 +63071,7 @@
       "label": "Tucker Carlson Questions That the Suspect Acted Alone",
       "node_kind": "claim",
       "episode": 45,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -63119,7 +63119,7 @@
       "label": "Host Says Erika Kirk Answered Bari Weiss's Conspiracy Question With Stop",
       "node_kind": "claim",
       "episode": 45,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -63543,7 +63543,7 @@
       "label": "Erika Kirk directed \"Stop\" to Candace Owens in CBS town hall",
       "node_kind": "claim",
       "episode": 46,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -63767,7 +63767,7 @@
       "label": "Host Says Hunter Kozak Asked Charlie Kirk the Last Question and Was Seated at the Town Hall",
       "node_kind": "claim",
       "episode": 46,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -65031,7 +65031,7 @@
       "label": "Charlie Kirk Show Speaker Identifies Andrew Sypher as TPUSA Head of Field",
       "node_kind": "claim",
       "episode": 47,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -65983,7 +65983,7 @@
       "label": "Host Says She Sat Down with Piers Morgan That Morning",
       "node_kind": "claim",
       "episode": 48,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -67199,7 +67199,7 @@
       "label": "Shapiro's speech also faulted Tucker Carlson and Megyn Kelly for not condemning the host",
       "node_kind": "claim",
       "episode": 50,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -67719,7 +67719,7 @@
       "label": "Host Says Kozak Asked Kirk a Question About Transgenderism Before Kirk Died",
       "node_kind": "claim",
       "episode": 51,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -68383,7 +68383,7 @@
       "label": "Host Timeline Has the 5:30 Press Conference and Patel's 5:59 Tweet That the Subject Was Released",
       "node_kind": "claim",
       "episode": 52,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -69599,7 +69599,7 @@
       "label": "Bannon Says Shapiro Has Always Been Envious of Charlie Kirk",
       "node_kind": "claim",
       "episode": 53,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -72167,7 +72167,7 @@
       "label": "Megyn Kelly stated she was called a coward by Ben Shapiro at Turning Point Amfest event",
       "node_kind": "claim",
       "episode": 55,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -78791,7 +78791,7 @@
       "label": "Erika Kirk Addressed Nation with Public Remarks",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -84023,7 +84023,7 @@
       "label": "Aubrey Laitsch publicly identified herself as former TPUSA PR manager, recently terminated",
       "node_kind": "claim",
       "episode": 70,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -84047,7 +84047,7 @@
       "label": "Aubrey Laitsch stated termination meeting involved Uber-driver conversation",
       "node_kind": "claim",
       "episode": 70,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -84063,7 +84063,7 @@
       "label": "Aubrey Laitsch expressed belief termination was retaliation for narrative-dissent",
       "node_kind": "claim",
       "episode": 70,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -85519,7 +85519,7 @@
       "label": "Piers Morgan Called Candace's Erika Kirk and Macron Coverage Regrettable in the Clip",
       "node_kind": "claim",
       "episode": 72,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -93263,7 +93263,7 @@
       "label": "Host Says Aubrey Denies Venting to the Uber Driver While the Driver Says They Vented",
       "node_kind": "claim",
       "episode": 81,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -95047,7 +95047,7 @@
       "label": "President Trump announced the death on Truth Social at 2:40",
       "node_kind": "claim",
       "episode": 84,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96031,7 +96031,7 @@
       "label": "Brooksby told Robinson had suicidal ideations",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96047,7 +96047,7 @@
       "label": "Robinson's parents convinced him not to go to remote area",
       "node_kind": "claim",
       "episode": 85,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -97271,7 +97271,7 @@
       "label": "Kash Patel Declared Subject in Custody ~4 Hours After Shooting",
       "node_kind": "claim",
       "episode": 87,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -97295,7 +97295,7 @@
       "label": "Same Subject Released After Interrogation ~90 Minutes Later",
       "node_kind": "claim",
       "episode": 87,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -100007,7 +100007,7 @@
       "label": "Host Reads State Filing Passage Saying the Rifle DNA Report and Most Evidence Went to the Defense in October 2025",
       "node_kind": "claim",
       "episode": 90,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -100831,7 +100831,7 @@
       "label": "Host Says the ATF Previously Reported an Inconclusive Trace on the Tyler Robinson Gun",
       "node_kind": "claim",
       "episode": 91,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -101935,7 +101935,7 @@
       "label": "Vance Said on Stage That Erika Had Received Some Threats",
       "node_kind": "claim",
       "episode": 93,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -102719,7 +102719,7 @@
       "label": "Host Says Prosecution Plans 35 Exhibits at Probable Cause Hearing",
       "node_kind": "claim",
       "episode": 94,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -109999,7 +109999,7 @@
       "label": "Host Says Erika Is CEO and Chairman of a Company That Got Bigger Than Charlie",
       "node_kind": "claim",
       "episode": 10,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -114255,7 +114255,7 @@
       "label": "Host Says Brooksby's Suicidal-Ideation Account Confusingly Conflicts With Her Source",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -114615,7 +114615,7 @@
       "label": "Brooksby stated Tyler Robinson had suicidal ideations during the initial phone call",
       "node_kind": "claim",
       "episode": 11,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",

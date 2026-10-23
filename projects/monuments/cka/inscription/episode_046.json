@@ -1900,8 +1900,12 @@
         "N-3",
         "N-278"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-72",
+        "S-83",
+        "S-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -3041,8 +3045,10 @@
         "N-326",
         "N-1"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-72"
+      ],
       "open_questions": [
         "Q-411"
       ]

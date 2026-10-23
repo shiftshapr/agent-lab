@@ -1078,6 +1078,8 @@ Mentions: N-1, N-2, N-472
 
 Related Nodes: N-10240
 
+Verification: corroborated
+Verification Evidence: S-77, S-78, S-114
 Investigative Direction: Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records.
 
 ---

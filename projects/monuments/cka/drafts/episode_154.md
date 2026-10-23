@@ -776,6 +776,8 @@ Mentions: N-3
 
 Related Nodes: N-10763
 
+Verification: corroborated
+Verification Evidence: S-92
 Investigative Direction: Obtain UVU planning documents directly; verify timing of each revision; identify whether any "1,500" update exists in any retained form.
 
 ---
@@ -791,6 +793,8 @@ Mentions: N-3
 
 Related Nodes: N-10763, N-10766
 
+Verification: corroborated
+Verification Evidence: S-92
 Investigative Direction: Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events.
 
 ---
@@ -1144,6 +1148,8 @@ Mentions: N-3
 Related Nodes: N-10000, N-10012, N-10068, N-10763
 Contradicts: C-13294
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-92
 Investigative Direction: Compare the early July and July 18 dates against the UVU form record and TPUSA's statement to ABC.
 Open Questions: Q-1204
 
@@ -1236,6 +1242,8 @@ Anchored Artifacts: A-2393.1
 Mentions: N-3
 Related Nodes: N-10000, N-10068, N-10763
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-92
 Investigative Direction: Obtain the TPUSA security roster and equipment list for September 10 and compare to the reported 12.
 Open Questions: Q-1199
 

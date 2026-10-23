@@ -1897,6 +1897,8 @@ Anchored Artifacts:
 Mentions: N-266, N-224, N-271
 Related Nodes: N-10783, N-10256
 Supports: C-3214
+Verification: corroborated
+Verification Evidence: S-94
 Investigative Direction: Review the full Shawn Ryan interview and compare Harpole's statements about UVU police with the text exchange.
 
 ---

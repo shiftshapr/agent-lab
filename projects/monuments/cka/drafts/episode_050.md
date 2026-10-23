@@ -1392,6 +1392,8 @@ Anchored Artifacts: A-1561.1
 Mentions: N-97, N-46, N-22
 Related Nodes: N-10379
 Supports: C-4393
+Verification: corroborated
+Verification Evidence: S-97, S-98
 Investigative Direction: Obtain the full speech video to confirm wording and the passages naming Carlson and Kelly.
 
 ---

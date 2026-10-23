@@ -1568,6 +1568,8 @@ Transcript Snippet: Twigs now lives out of state, but the judge has ruled that t
 Anchored Artifacts: A-2092.1
 Mentions: N-54
 Related Nodes: N-10617
+Verification: corroborated
+Verification Evidence: S-100
 Investigative Direction: Check the filings for any representation about Twiggs' residence and his availability to testify.
 
 ---

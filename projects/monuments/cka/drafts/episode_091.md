@@ -2006,6 +2006,8 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10896, N-10523
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-95, S-106
 Investigative Direction: Compare with ATF's public statements on the bullet and firearm comparison, which may differ from a trace.
 Open Questions: Q-801
 

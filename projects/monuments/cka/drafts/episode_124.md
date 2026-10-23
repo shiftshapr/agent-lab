@@ -2133,6 +2133,8 @@ Mentions: N-89
 Related Nodes: 
 Supports: C-10653
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-87
 Investigative Direction: Check the hearing record for a 20 minute exhibit and compare with the Exhibit 12.1 runtime and Court TV coverage.
 Open Questions: Q-938
 

@@ -1933,6 +1933,8 @@ Mentions: N-331
 
 Related Nodes: N-10321
 
+Verification: corroborated
+Verification Evidence: S-78
 Investigative Direction: Verify Andrew Sypher's official TPUSA title.
 
 ---

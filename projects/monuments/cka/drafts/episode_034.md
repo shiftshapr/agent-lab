@@ -1364,6 +1364,8 @@ Transcript Snippet: Brian offers up that the lack of security on the rooftop can
 Anchored Artifacts: A-1428.1
 Mentions: N-266, N-271
 Related Nodes: N-10590, N-10012
+Verification: corroborated
+Verification Evidence: S-94
 Investigative Direction: Obtain UVU police and TPUSA advance-team documents allocating rooftop responsibility.
 
 ---

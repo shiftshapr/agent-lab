@@ -2438,8 +2438,10 @@
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Obtain probable cause hearing exhibit list when filed.",
       "mentions_person_refs": [],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-110"
+      ]
     },
     {
       "@type": "Claim",

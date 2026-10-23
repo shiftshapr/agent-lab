@@ -1728,6 +1728,8 @@ Mentions: N-190, N-2
 Related Nodes: N-10214
 Supports: C-2105
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-78
 Investigative Direction: Check Neff's testimony and Erika Kirk's own accounts of who told her and when.
 Open Questions: Q-212
 
@@ -1897,6 +1899,8 @@ Anchored Artifacts: A-2336
 Mentions: N-425, N-1
 Related Nodes: N-10747, N-10748
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-68
 Investigative Direction: Obtain the full hearing transcript to verify the wording and context.
 Open Questions: Q-183
 

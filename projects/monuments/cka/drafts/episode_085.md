@@ -1309,6 +1309,8 @@ Claim: Sheriff Brooksby stated he was told that Tyler Robinson had potential sui
 Anchored Artifacts: A-1908.1
 Mentions: N-40, N-272
 Related Nodes: N-10021
+Verification: corroborated
+Verification Evidence: S-107, S-108
 Investigative Direction: Verify against other sources.
 
 ---
@@ -1322,6 +1324,8 @@ Claim: Sheriff Brooksby stated Robinson's parents convinced him not to go to the
 Anchored Artifacts: A-1908.1
 Mentions: N-272, N-40
 Related Nodes: N-10021, N-11360
+Verification: corroborated
+Verification Evidence: S-107, S-108
 Investigative Direction: Cross-reference with subsequent reporting.
 
 ---

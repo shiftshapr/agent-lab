@@ -937,6 +937,8 @@ Transcript Snippet: Uh at 2:40, President Trump announces that Charlie has died 
 Anchored Artifacts: A-2528.1
 Mentions: N-5, N-1
 Related Nodes: N-10535
+Verification: corroborated
+Verification Evidence: S-85
 Investigative Direction: Confirm the archived timestamp of the Truth Social post.
 
 ---

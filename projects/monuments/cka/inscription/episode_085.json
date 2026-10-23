@@ -2615,8 +2615,11 @@
         "N-40",
         "N-272"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-107",
+        "S-108"
+      ]
     },
     {
       "@type": "Claim",
@@ -2638,8 +2641,11 @@
         "N-272",
         "N-40"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-107",
+        "S-108"
+      ]
     },
     {
       "@type": "Claim",

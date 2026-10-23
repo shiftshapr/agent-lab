@@ -904,6 +904,8 @@ Anchored Artifacts: A-2347.1
 Mentions: N-1, N-159, N-3
 
 
+Verification: corroborated
+Verification Evidence: S-89
 Investigative Direction: Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other "members" present.
 
 ---
@@ -918,6 +920,8 @@ Anchored Artifacts: A-2347.1
 Mentions: N-159, N-3, N-1
 
 
+Verification: corroborated
+Verification Evidence: S-89
 Investigative Direction: Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.
 
 ---
@@ -932,6 +936,8 @@ Anchored Artifacts: A-2347.1
 Mentions: N-159, N-3
 
 
+Verification: corroborated
+Verification Evidence: S-89
 Investigative Direction: Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing.
 
 ---
@@ -947,6 +953,8 @@ Mentions: N-159, N-3
 
 Related Nodes: N-10000
 
+Verification: corroborated
+Verification Evidence: S-89
 Investigative Direction: Verify the exact Neff statement in the Deseret News article; corroborate against TPUSA's public posture and timeline around 2024.
 
 ---

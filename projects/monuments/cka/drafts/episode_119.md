@@ -1447,6 +1447,8 @@ Transcript Snippet: believe he was most likely murdered for his evolving views o
 Anchored Artifacts: A-2704.1
 Mentions: N-22, N-1
 Related Nodes: N-10143, N-10053
+Verification: corroborated
+Verification Evidence: S-89
 Investigative Direction: Compare with charging documents and Tyler Robinson's alleged motive evidence.
 
 ---
@@ -1508,6 +1510,8 @@ Transcript Snippet: Actually, those of us who knew Charlie best, a group that do
 Anchored Artifacts: A-2705.1
 Mentions: N-159, N-22, N-40, N-1
 Related Nodes: N-10053
+Verification: corroborated
+Verification Evidence: S-89
 Investigative Direction: Archive Blake Neff's tweet and confirm his prior employment with Tucker Carlson.
 
 ---

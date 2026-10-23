@@ -1233,6 +1233,8 @@ Mentions: N-1, N-69, N-410
 
 Related Nodes: N-10529
 
+Verification: corroborated
+Verification Evidence: S-80, S-85
 Investigative Direction: Verify the tweet's exact timestamp and confirm the subject's identity against law enforcement records.
 
 ---
@@ -1248,6 +1250,8 @@ Mentions: N-69, N-410
 
 Related Nodes: N-10529
 
+Verification: corroborated
+Verification Evidence: S-80, S-85
 Investigative Direction: Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of "Zachariah Qureshi."
 
 ---

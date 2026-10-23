@@ -1439,6 +1439,8 @@ Anchored Artifacts: A-1983
 Mentions: N-4, N-2
 Related Nodes: N-10554
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-76
 Investigative Direction: Ask the Vice President's office what threat information he was given and by whom.
 Open Questions: Q-805
 

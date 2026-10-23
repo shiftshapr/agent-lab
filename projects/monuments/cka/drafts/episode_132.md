@@ -1215,6 +1215,8 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-78
 Investigative Direction: Find TPUSA staff listings, press releases or her contract showing her title and dates.
 Open Questions: Q-1004
 

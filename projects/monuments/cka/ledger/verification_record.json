@@ -1,5 +1,22 @@
 [
  {
+  "claim": "C-57",
+  "status": "corroborated",
+  "note": "NBC News (S-77) quotes Erika Kirk saying \"My husband's mission will not end, not even for a moment,\" matching her framing of his mission continuing.",
+  "evidence": [
+   {
+    "sid": "S-77",
+    "loc": "para 83",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Erika Kirk said her husband Charlie Kirk's mission will not end, not even for a moment.",
+    "quote": "“My husband’s mission will not end, not even for a moment.”"
+   }
+  ],
+  "episode": 2,
+  "claim_text": "In a clip the host plays, Erika Kirk says that the movement her husband built will not die and frames his mission as continuing after his death."
+ },
+ {
   "claim": "C-67",
   "status": "corroborated",
   "note": "Fox News (S-42) reports Netanyahu said Kirk wrote him a letter on May 2 and quoted its line about advocating for Israel being one of his greatest joys as a Christian.",
@@ -1560,6 +1577,31 @@
   "claim_text": "The host reads a text exchange in which Lance asks whether Robinson was the one who did it and Robinson answers \"I am. I'm sorry,\" after which the roommate says he thought they caught the person."
  },
  {
+  "claim": "C-311",
+  "status": "corroborated",
+  "note": "KUTV (S-85) and NBC News (S-80) report Kash Patel posted that \"the subject in custody has been released after an interrogation by law enforcement\"; the 'mistake' remark is the host's opinion.",
+  "evidence": [
+   {
+    "sid": "S-85",
+    "loc": "para 48",
+    "kind": "tier2_attributed",
+    "speaker": "Kash Patel",
+    "fact": "Kash Patel posted at 5:59 p.m. that the subject in custody had been released after interrogation.",
+    "quote": "5:59 p.m.: Patel posts on social media: \"The subject in custody has been released after an interrogation by law enforcement."
+   },
+   {
+    "sid": "S-80",
+    "loc": "para 88",
+    "kind": "tier2_reported",
+    "speaker": "NBC News",
+    "fact": "NBC News reported Kash Patel posted at 7:59 p.m. that the subject in custody had been released after interrogation.",
+    "quote": "at 7:59 p.m., he posted a follow-up message saying the “subject in custody has been released after an interrogation by law enforcement.”"
+   }
+  ],
+  "episode": 4,
+  "claim_text": "The host says that on her timeline Kash Patel tweets that the subject in custody has been released and that the investigation continues, which she calls a mistake."
+ },
+ {
   "claim": "C-312",
   "status": "corroborated",
   "note": "Agent Davis read the text about planning to grab the rifle from the drop point before the area was locked down (S-5 02:43:05), and Agent Hull testified (S-2 06:34:55) Robinson was back on campus late that evening into the early hours of September 11.",
@@ -2193,6 +2235,23 @@
   "claim_text": "In the clip, Range Day Bro says a video made by a Marine friend shows the angle the shot came from and the circled area of Charlie's neck, with an exit wound following a split second after as from an entry and exit wound."
  },
  {
+  "claim": "C-921",
+  "status": "corroborated",
+  "note": "CBS News (S-73) reports Erika Kirk is chairman and CEO of Turning Point USA; 'got bigger than Charlie' is the host's opinion.",
+  "evidence": [
+   {
+    "sid": "S-73",
+    "loc": "para 96",
+    "kind": "tier2_reported",
+    "speaker": "CBS News",
+    "fact": "CBS News reported that Erika Kirk is chairman and CEO of Turning Point USA.",
+    "quote": "Erika Kirk is the chairman and CEO of the Turning Point USA."
+   }
+  ],
+  "episode": 10,
+  "claim_text": "The host says Erika is stepping into a role as CEO and chairman of a company that, by everything she understands and from having been there, got bigger than Charlie."
+ },
+ {
   "claim": "C-961",
   "status": "corroborated",
   "note": "The Salt Lake Tribune (S-18) reports Robinson's parents convinced him to turn himself in, and AP (S-33) cites charging documents saying his father agreed the surveillance image looked like his son, matching the narrative the host recounts.",
@@ -2251,6 +2310,31 @@
   "claim_text": "The host says that, according to her source, Tyler Robinson has never even stepped foot on the UVU campus."
  },
  {
+  "claim": "C-969",
+  "status": "corroborated",
+  "note": "The Daily Herald (S-107, S-108) reports Sheriff Nate Brooksby said Robinson had \"suicidal ideations\" and feared being shot by police; the host's source's contrary account is not verified.",
+  "evidence": [
+   {
+    "sid": "S-107",
+    "loc": "para 68",
+    "kind": "tier2_attributed",
+    "speaker": "Nate Brooksby",
+    "fact": "Nate Brooksby said Tyler Robinson had suicidal ideations and feared a SWAT team would invade his house or that police would shoot him.",
+    "quote": "Robinson had some “suicidal ideations” and feared a SWAT team would invade his house or that he would be shot by police."
+   },
+   {
+    "sid": "S-108",
+    "loc": "para 27",
+    "kind": "tier2_attributed",
+    "speaker": "Nate Brooksby",
+    "fact": "Nate Brooksby said Tyler Robinson feared a SWAT team hit on his house or being shot by law enforcement.",
+    "quote": "He was fearful of a SWAT team hit on his house, or he was fearful of being shot by law enforcement,"
+   }
+  ],
+  "episode": 11,
+  "claim_text": "The host says it is confusing that Nate Brooksby tells us Tyler is suicidal, when her source says Tyler is not suicidal and went to the police station so as not to risk being shot."
+ },
+ {
   "claim": "C-971",
   "status": "corroborated",
   "note": "S-61 reports Sheriff Nate Brooksby said a friend, a retired detective who worked for him for years, called him on Sept. 11 to say who the alleged shooter was (the 8:02 p.m. time is not reported).",
@@ -2274,6 +2358,31 @@
   ],
   "episode": 11,
   "claim_text": "In a clip the host plays, Nate Brooksby says that at 8:02 p.m. a friend who has been retired a few years, whom the host describes as a former detective, called to say he knew who the Charlie Kirk shooter was."
+ },
+ {
+  "claim": "C-973",
+  "status": "corroborated",
+  "note": "The Daily Herald (S-108, S-107) reports Brooksby said Robinson had \"suicidal ideations\" and his parents talked him out of going to a remote area of Washington County.",
+  "evidence": [
+   {
+    "sid": "S-108",
+    "loc": "para 26",
+    "kind": "tier2_attributed",
+    "speaker": "Nate Brooksby",
+    "fact": "Nate Brooksby said Tyler Robinson's parents talked him out of going to a remote area of Washington County where he potentially was going to kill himself.",
+    "quote": "Robinson's parents talked him out of going to a remote area of Washington County, where he potentially was going to kill himself"
+   },
+   {
+    "sid": "S-107",
+    "loc": "para 68",
+    "kind": "tier2_attributed",
+    "speaker": "Nate Brooksby",
+    "fact": "Nate Brooksby said Tyler Robinson had suicidal ideations and feared a SWAT team would invade his house or that police would shoot him.",
+    "quote": "Robinson had some “suicidal ideations” and feared a SWAT team would invade his house or that he would be shot by police."
+   }
+  ],
+  "episode": 11,
+  "claim_text": "In a clip the host plays, Nate Brooksby says that during the initial call \"some information was provided\" about Tyler \"potentially having some suicidal ideations\" and a remote area of Washington County, and that the parents convinced him not to do that."
  },
  {
   "claim": "C-974",
@@ -2694,6 +2803,23 @@
   "claim_text": "The host says the bullet went straight into the front left lower side of Charlie's neck, essentially exploded his artery and did not exit the back, but that a bullet fragment was found there."
  },
  {
+  "claim": "C-1732",
+  "status": "corroborated",
+  "note": "Deseret News (S-78) reports chief of staff Mikey McCoy was \"just behind his boss when the bullet hit.\"",
+  "evidence": [
+   {
+    "sid": "S-78",
+    "loc": "para 81",
+    "kind": "tier2_reported",
+    "speaker": "Deseret News",
+    "fact": "Deseret News reported that chief of staff Mikey McCoy was just behind Charlie Kirk when the bullet hit and provided Erika Kirk updates by phone from the hospital.",
+    "quote": "For Kirk’s chief of staff, Mikey McCoy, the experience of being there, just behind his boss when the bullet hit, and being on the phone with Erika providing updates from the hospital"
+   }
+  ],
+  "episode": 19,
+  "claim_text": "The host says Mikey McCoy was behind the tent when Charlie got shot."
+ },
+ {
   "claim": "C-1888",
   "status": "contradicted-by-record",
   "note": "The After-Action Report records Orem Fire Station Three passing the TPUSA SUV carrying Kirk to Timpanogos Hospital and radioing it in (S-12 p. 22), and a Station Two fire captain assisting with CPR at the hospital (p. 52); Agent Hull testified that Kirk was pronounced dead there (S-2 05:59:17).",
@@ -2725,6 +2851,23 @@
   ],
   "episode": 20,
   "claim_text": "The host says there is no footage or other indication of the drive to, or the arrival at, Timpanogos Hospital."
+ },
+ {
+  "claim": "C-1905",
+  "status": "corroborated",
+  "note": "Deseret News (S-78) reports Mikey McCoy was \"just behind his boss when the bullet hit,\" i.e. behind Kirk rather than beside him.",
+  "evidence": [
+   {
+    "sid": "S-78",
+    "loc": "para 81",
+    "kind": "tier2_reported",
+    "speaker": "Deseret News",
+    "fact": "Deseret News reported that chief of staff Mikey McCoy was just behind Charlie Kirk when the bullet hit and provided Erika Kirk updates by phone from the hospital.",
+    "quote": "For Kirk’s chief of staff, Mikey McCoy, the experience of being there, just behind his boss when the bullet hit, and being on the phone with Erika providing updates from the hospital"
+   }
+  ],
+  "episode": 20,
+  "claim_text": "The host says that in this video Mikey McCoy is not standing to the side of Charlie but is behind him."
  },
  {
   "claim": "C-1930",
@@ -2912,6 +3055,81 @@
   "claim_text": "The host says N102DZ left Salt Lake City and headed to Scottsdale at about 1:00 PM local on September 10, 2025, was on the ground in Scottsdale for only about 15 minutes, and then turned around and flew out again."
  },
  {
+  "claim": "C-2230",
+  "status": "corroborated",
+  "note": "Fox News (S-71) reports that in her Jesse Watters interview Erika Kirk urged keeping cameras in the courtroom, saying \"We deserve to have cameras in there.\"",
+  "evidence": [
+   {
+    "sid": "S-71",
+    "loc": "para 177",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Erika Kirk said cameras should be allowed in the courtroom for transparency.",
+    "quote": "\"We deserve to have cameras in there. Why not be transparent?\" she asked."
+   },
+   {
+    "sid": "S-71",
+    "loc": "para 172",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reported that Erika Kirk is urging a judge to keep news cameras in the courtroom for the trial of Tyler Robinson.",
+    "quote": "Kirk is also urging a judge to keep news cameras in the courtroom for the trial of her husband’s accused killer, Tyler Robinson."
+   },
+   {
+    "sid": "S-71",
+    "loc": "para 156",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reported that Turning Point USA CEO Erika Kirk gave her first TV interview since her husband's assassination to Fox News' Jesse Watters.",
+    "quote": "Turning Point USA CEO Erika Kirk opened up to Fox News’ Jesse Watters in her first TV interview since her husband's assassination"
+   }
+  ],
+  "episode": 24,
+  "claim_text": "In a preview clip of her Jesse Watters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating \"We deserve to have cameras in there … Let everyone see what true evil is.\""
+ },
+ {
+  "claim": "C-2231",
+  "status": "corroborated",
+  "note": "Fox News (S-71) quotes Erika Kirk: \"There's nothing to hide. I know there's not because I've seen what the case is built on.\"",
+  "evidence": [
+   {
+    "sid": "S-71",
+    "loc": "para 178",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Erika Kirk said she has seen what the case against Tyler Robinson is built on and that there is nothing to hide.",
+    "quote": "\"There's nothing to hide. I know there's not because I've seen what the case is built on."
+   }
+  ],
+  "episode": 24,
+  "claim_text": "In the preview clip, Erika Kirk says there is nothing to hide, that she knows this because she has seen what the case is built on."
+ },
+ {
+  "claim": "C-2240",
+  "status": "corroborated",
+  "note": "Fox News (S-71) reports Erika Kirk's Jesse Watters interview would air Wednesday, Nov. 5, 2025, two days after this episode.",
+  "evidence": [
+   {
+    "sid": "S-71",
+    "loc": "para 159",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reported that Erika Kirk's interview with Jesse Watters was recorded in the studio of The Charlie Kirk Show and aired Wednesday, Nov. 5, 2025.",
+    "quote": "an exclusive interview with Fox News' Jesse Watters that will air Wednesday, Nov. 5"
+   },
+   {
+    "sid": "S-71",
+    "loc": "para 156",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reported that Turning Point USA CEO Erika Kirk gave her first TV interview since her husband's assassination to Fox News' Jesse Watters.",
+    "quote": "Turning Point USA CEO Erika Kirk opened up to Fox News’ Jesse Watters in her first TV interview since her husband's assassination"
+   }
+  ],
+  "episode": 24,
+  "claim_text": "The host says the Erika Kirk interview with Jesse Watters is going to premiere in two days on Fox News."
+ },
+ {
   "claim": "C-2281",
   "status": "contradicted-by-record",
   "note": "The After-Action Report shows the request started with a July 10 email from TPUSA to UVU, sent by the UVU TPUSA club president at a TPUSA field representative's request, and that the club submitted the July 18 formal request to UVU (S-12 pp. 18, 41, 48), not a request from UVU to TPUSA.",
@@ -2985,6 +3203,23 @@
   ],
   "episode": 26,
   "claim_text": "The host says Charlie Kirk was never rendered any first aid immediately, that the security team did not put gauze or a hand on the wound, and that his neck was not held when they carried him to the car."
+ },
+ {
+  "claim": "C-2387",
+  "status": "corroborated",
+  "note": "Fox News (S-71) reports Erika Kirk's Jesse Watters interview would air Wednesday, Nov. 5, 2025, the date of this episode.",
+  "evidence": [
+   {
+    "sid": "S-71",
+    "loc": "para 159",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reported that Erika Kirk's interview with Jesse Watters was recorded in the studio of The Charlie Kirk Show and aired Wednesday, Nov. 5, 2025.",
+    "quote": "an exclusive interview with Fox News' Jesse Watters that will air Wednesday, Nov. 5"
+   }
+  ],
+  "episode": 26,
+  "claim_text": "The host says a much anticipated interview between Jesse Watters and Erika Kirk was due to drop that night and that she would be watching."
  },
  {
   "claim": "C-2447",
@@ -3129,6 +3364,39 @@
   "claim_text": "Host reports that tail N560TW departed Scottsdale, Arizona on September 10 and landed at Provo at 10:06 a.m., then departed for Santa Barbara and later returned to Scottsdale by 12:44 p.m."
  },
  {
+  "claim": "C-2963",
+  "status": "corroborated",
+  "note": "Deseret News (S-78) reports Erika Kirk was named Turning Point USA CEO on Sept. 18, NBC News (S-77) reports the appointment, and Fox News (S-114) dates the killing to Sept. 10, 2025.",
+  "evidence": [
+   {
+    "sid": "S-78",
+    "loc": "para 87",
+    "kind": "tier2_reported",
+    "speaker": "Deseret News",
+    "fact": "Deseret News reported Mikey McCoy remains chief of staff under Erika Kirk, who was named Turning Point USA CEO on September 18, 2025.",
+    "quote": "He continues to work as chief of staff under Erika, who was named CEO of Turning Point USA on Sept. 18."
+   },
+   {
+    "sid": "S-77",
+    "loc": "para 38",
+    "kind": "tier2_reported",
+    "speaker": "NBC News",
+    "fact": "NBC News reported on September 18, 2025 that Erika Kirk was named CEO of Turning Point USA, the organization founded and led by Charlie Kirk until his assassination.",
+    "quote": "Erika Kirk has been named CEO of Turning Point USA, the conservative youth organization founded and led by her husband, Charlie Kirk , until his assassination last week."
+   },
+   {
+    "sid": "S-114",
+    "loc": "para 169",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "A Fox News caption says Turning Point USA CEO Charlie Kirk was killed on Sept. 10, 2025, at a Utah Valley University event.",
+    "quote": "Turning Point USA CEO Charlie Kirk was killed on Sept. 10, 2025, during an event at Utah Valley University."
+   }
+  ],
+  "episode": 33,
+  "claim_text": "In the \"Wolves and Finance\" video the host plays, the presenter says Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025, 8 days after Charlie Kirk was murdered."
+ },
+ {
   "claim": "C-3011",
   "status": "corroborated",
   "note": "The After-Action Report (S-12 p. 47) identifies Brian Harpole as head of the security team working for TPUSA on September 10 and records his Shawn Ryan Podcast appearance (SRS #254); 'long-term' and his position on the day are not addressed.",
@@ -3152,6 +3420,31 @@
   ],
   "episode": 34,
   "claim_text": "The host describes Brian Harpole as one of Charlie Kirk's long-term security team members, who on the day was standing front right of Charlie with a bag across him and ran over to him, and says his interview was with Shawn Ryan."
+ },
+ {
+  "claim": "C-3012",
+  "status": "corroborated",
+  "note": "The outlet (S-94) quotes Brian Harpole saying the police chief told him \"I got you covered\" about the roof and that they relied on police and no one was up there.",
+  "evidence": [
+   {
+    "sid": "S-94",
+    "loc": "para 158",
+    "kind": "tier2_attributed",
+    "speaker": "Brian Harpole",
+    "fact": "Brian Harpole said the police chief told him 'I got you covered' about the roof.",
+    "quote": "\"We were told the roof was covered,\" Harpole said. \"The chief said, ‘I got you covered.’ I took him at his word."
+   },
+   {
+    "sid": "S-94",
+    "loc": "para 159",
+    "kind": "tier2_attributed",
+    "speaker": "Brian Harpole",
+    "fact": "Brian Harpole said his team relied on police and no one was on the roof.",
+    "quote": "we relied on the police, and no one was up there.\""
+   }
+  ],
+  "episode": 34,
+  "claim_text": "The host says that in the interview Brian Harpole offers that the lack of security on the rooftop can be attributed to UVU police chief Jeff Long."
  },
  {
   "claim": "C-3014",
@@ -3311,6 +3604,39 @@
   ],
   "episode": 36,
   "claim_text": "The host says that in early August Turning Point was scouting the UVU location, the school told them it was not a great place because there was no traffic control, and Turning Point and headquarters employees insisted it was the best location, which was Charlie Kirk's preferred one."
+ },
+ {
+  "claim": "C-3212",
+  "status": "corroborated",
+  "note": "The outlet (S-94) reports Harpole told The Shawn Ryan Show the chief said the roof was covered and that his team relied on police; 'explain things away' is the host's characterisation.",
+  "evidence": [
+   {
+    "sid": "S-94",
+    "loc": "para 157",
+    "kind": "tier2_attributed",
+    "speaker": "Brian Harpole",
+    "fact": "Brian Harpole told 'The Shawn Ryan Show' his team repeatedly raised concerns about rooftop exposure, drone restrictions and staffing gaps before Sept. 10.",
+    "quote": "told \"The Shawn Ryan Show\" his team repeatedly raised concerns about rooftop exposure, drone restrictions and staffing gaps in the days before the Sept. 10 event."
+   },
+   {
+    "sid": "S-94",
+    "loc": "para 158",
+    "kind": "tier2_attributed",
+    "speaker": "Brian Harpole",
+    "fact": "Brian Harpole said the police chief told him 'I got you covered' about the roof.",
+    "quote": "\"We were told the roof was covered,\" Harpole said. \"The chief said, ‘I got you covered.’ I took him at his word."
+   },
+   {
+    "sid": "S-94",
+    "loc": "para 159",
+    "kind": "tier2_attributed",
+    "speaker": "Brian Harpole",
+    "fact": "Brian Harpole said his team relied on police and no one was on the roof.",
+    "quote": "we relied on the police, and no one was up there.\""
+   }
+  ],
+  "episode": 36,
+  "claim_text": "The host says Brian Harpole sat down with Shawn Ryan and tried to explain things away, saying it was actually the fault of the UVU police and Chief Long."
  },
  {
   "claim": "C-3215",
@@ -3731,6 +4057,31 @@
   "claim_text": "The host says Erika Kirk gave a live interview with Harris Faulkner on Fox News in which she addressed what the host calls the \"conspiracy theories.\""
  },
  {
+  "claim": "C-3902",
+  "status": "corroborated",
+  "note": "CBS News (S-91, S-72) reports Charlie Kirk's posthumous Sabbath book 'Stop, in the Name of God' was released days before Erika Kirk's Bari Weiss town hall.",
+  "evidence": [
+   {
+    "sid": "S-91",
+    "loc": "para 67",
+    "kind": "tier2_attributed",
+    "speaker": "CBS News",
+    "fact": "CBS News posted that the Weiss interview came days after the posthumous release of Charlie Kirk's last book, 'Stop, in the Name of God.'",
+    "quote": "Just days after the posthumous release of her husband's last book, \"Stop, in the Name of God: Why Honoring the…"
+   },
+   {
+    "sid": "S-72",
+    "loc": "para 105",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Erika Kirk referenced Charlie Kirk's new book, \"Stop, in the Name of God: Why Honoring the Sabbath Will Transform Your Life.\"",
+    "quote": "referencing his new book, \"Stop, in the Name of God: Why Honoring the Sabbath Will Transform Your Life,\""
+   }
+  ],
+  "episode": 45,
+  "claim_text": "The host says Charlie Kirk's posthumous book, which she describes as being about the Sabbath, is about to be released and that Erika Kirk is sitting down with news anchors as it comes out."
+ },
+ {
   "claim": "C-3904",
   "status": "corroborated",
   "note": "Fox News (S-36) quotes Erika Kirk on 'Outnumbered' asking 'Can I have one thing?' about her husband's grave and saying a memorial will be built at TPUSA; 'museum style' is not quoted.",
@@ -3815,6 +4166,81 @@
   "claim_text": "In the Fox clip Erika Kirk says people going after those she loves are making hundreds and thousands of dollars every single episode."
  },
  {
+  "claim": "C-3930",
+  "status": "corroborated",
+  "note": "Deseret News (S-91) reports Tucker Carlson has voiced skepticism that Tyler Robinson carried out the crime alone.",
+  "evidence": [
+   {
+    "sid": "S-91",
+    "loc": "para 81",
+    "kind": "tier2_reported",
+    "speaker": "Deseret News",
+    "fact": "The Deseret News reports Candace Owens and Tucker Carlson have voiced distrust of the FBI and skepticism that Tyler Robinson acted alone.",
+    "quote": "Owens and others, including conservative commentator Tucker Carlson have vocalized their distrust with the FBI and remain skeptical that Robinson allegedly carried out the crime alone."
+   }
+  ],
+  "episode": 45,
+  "claim_text": "In the Theo Von clip Tucker Carlson says he does not accept as a default that the suspect acted alone and says that has to be proven."
+ },
+ {
+  "claim": "C-3936",
+  "status": "corroborated",
+  "note": "The outlets (S-91, S-83) report that when Bari Weiss asked what she would say to Owens and others spreading the claims, Erika Kirk replied \"Stop.\"",
+  "evidence": [
+   {
+    "sid": "S-91",
+    "loc": "para 64",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Asked by CBS News' Bari Weiss what she would say to Candace Owens, Erika Kirk replied, 'Stop.'",
+    "quote": "In a response to a question from CBS News’ Bari Weiss about what she would say to Owens, Kirk replied, “Stop. That’s it. That’s all I have to say. Stop.”"
+   },
+   {
+    "sid": "S-83",
+    "loc": "para 44",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Erika Kirk told CBS News' Bari Weiss that her message to Candace Owens was simply to stop.",
+    "quote": "She also had simple yet clear words for the people spreading such claims: “Stop. That’s it. That’s all I have to say. Stop.”"
+   }
+  ],
+  "episode": 45,
+  "claim_text": "The host says that when Bari Weiss asked about the conspiracies and what Erika would say to those voicing them, Erika Kirk answered \"Stop.\""
+ },
+ {
+  "claim": "C-3984",
+  "status": "corroborated",
+  "note": "CBS News (S-72) and other outlets (S-91, S-83) quote Erika Kirk telling Bari Weiss: \"Stop. That's it. That's all I have to say. Stop.\"",
+  "evidence": [
+   {
+    "sid": "S-72",
+    "loc": "para 130",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Erika Kirk's message to Candace Owens and others making the claims was \"Stop.\"",
+    "quote": "\"Stop. That's it. That's all I have to say. Stop.\""
+   },
+   {
+    "sid": "S-91",
+    "loc": "para 64",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Asked by CBS News' Bari Weiss what she would say to Candace Owens, Erika Kirk replied, 'Stop.'",
+    "quote": "In a response to a question from CBS News’ Bari Weiss about what she would say to Owens, Kirk replied, “Stop. That’s it. That’s all I have to say. Stop.”"
+   },
+   {
+    "sid": "S-83",
+    "loc": "para 44",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Erika Kirk told CBS News' Bari Weiss that her message to Candace Owens was simply to stop.",
+    "quote": "She also had simple yet clear words for the people spreading such claims: “Stop. That’s it. That’s all I have to say. Stop.”"
+   }
+  ],
+  "episode": 46,
+  "claim_text": "During a Bari Weiss CBS town hall, when asked what she wanted to say to Candace Owens and others \"putting these lies out into the world,\" Erika Kirk responded: \"Stop. That's it. That's all I have to say. Stop.\""
+ },
+ {
   "claim": "C-3999",
   "status": "contradicted-by-record",
   "note": "Agents Hull (S-3, 01:51:41) and Davis (S-5, 02:50:14; S-4, 37:16) testified that Robinson turned himself in on September 11, 2025, contrary to the host's denial.",
@@ -3896,6 +4322,39 @@
   ],
   "episode": 46,
   "claim_text": "The host says officials claimed Tyler Robinson was suicidal and also turned himself in because he was afraid of being shot by police, and asks how both can be true."
+ },
+ {
+  "claim": "C-4008",
+  "status": "corroborated",
+  "note": "CBS News (S-72) reports Hunter Kozak, the last person to debate Charlie Kirk, was an invited guest at the town hall and asked Erika Kirk a question.",
+  "evidence": [
+   {
+    "sid": "S-72",
+    "loc": "para 95",
+    "kind": "tier2_reported",
+    "speaker": "CBS News",
+    "fact": "CBS News reported that Utah Valley University student Hunter Kozak was the last person to speak to Charlie Kirk and was an invited guest at the town hall.",
+    "quote": "Utah Valley University student Hunter Kozak, who was the last person to speak to Charlie Kirk"
+   },
+   {
+    "sid": "S-72",
+    "loc": "para 114",
+    "kind": "tier2_reported",
+    "speaker": "CBS News",
+    "fact": "CBS News reported that Hunter Kozak was the last person to debate Charlie Kirk before he was shot.",
+    "quote": "Kozak was the last person to debate Charlie Kirk before he was shot."
+   },
+   {
+    "sid": "S-72",
+    "loc": "para 115",
+    "kind": "tier2_attributed",
+    "speaker": "Hunter Kozak",
+    "fact": "At the CBS News town hall Hunter Kozak asked Erika Kirk whether she would condemn the violent rhetoric of Donald Trump.",
+    "quote": "\"Will you condemn the violent rhetoric of Donald Trump, the most powerful and influential person on earth?\""
+   }
+  ],
+  "episode": 46,
+  "claim_text": "The host says CBS brought out Hunter Kozak, who asked the last question to Charlie Kirk."
  },
  {
   "claim": "C-4080",
@@ -4007,6 +4466,23 @@
   "claim_text": "The Charlie Kirk Show reading of the charging document says that in one conversation before the shooting, Robinson said Charlie Kirk would hold an event at UVU, called it a stupid venue, and accused Kirk of spreading hate."
  },
  {
+  "claim": "C-4150",
+  "status": "corroborated",
+  "note": "Deseret News (S-78) reports Andrew Sypher is Turning Point USA's chief field officer.",
+  "evidence": [
+   {
+    "sid": "S-78",
+    "loc": "para 127",
+    "kind": "tier2_reported",
+    "speaker": "Deseret News",
+    "fact": "Deseret News reported that Turning Point USA chief field officer Andrew Sypher planned another 150-200 fall events, but Justin Streiff and Erika Kirk wanted closer to 400.",
+    "quote": "Andrew Sypher, Turning Point USA’s chief field officer, had planned to push for another 150-200 in the fall. Then he was approached by Streiff and Erika: they wanted the number to be closer to 400."
+   }
+  ],
+  "episode": 47,
+  "claim_text": "In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Sypher as TPUSA's head of field."
+ },
+ {
   "claim": "C-4213",
   "status": "corroborated",
   "note": "Fox News (S-27) reports Frank Turek said Kirk's missing cross necklace was found draped over Turek's computer bag from the drive to the hospital; the police-officer exchange is not covered.",
@@ -4082,6 +4558,39 @@
   "claim_text": "In the clip, Brian Harpole says the process started before the 24th with intelligence gathering, while the hard conversations, information sharing, conference calls and data sheets started on the 24th of the prior month."
  },
  {
+  "claim": "C-4258",
+  "status": "corroborated",
+  "note": "Fox News (S-90) reports Owens did an hour-long Piers Morgan Uncensored interview on Wednesday, Dec. 17, 2025; the every-year remark is not covered.",
+  "evidence": [
+   {
+    "sid": "S-90",
+    "loc": "para 159",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reports that Piers Morgan accused Candace Owens on Dec. 17, 2025, of profiting from Charlie Kirk conspiracy theories and compared her to Alex Jones.",
+    "quote": "Piers Morgan on Wednesday accused podcaster Candace Owens of profiting from conspiracy theories about the assassination of Turning Point USA founder Charlie Kirk , comparing her to Alex Jones"
+   },
+   {
+    "sid": "S-90",
+    "loc": "para 160",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reports that Candace Owens appeared on Piers Morgan Uncensored days after a private meeting with Erika Kirk.",
+    "quote": "Owens joined \"Piers Morgan Uncensored\" for a combative, yet civil conversation days after Owens' private meeting with Erika Kirk."
+   },
+   {
+    "sid": "S-90",
+    "loc": "para 159",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reports that Piers Morgan's interview with Candace Owens lasted about an hour.",
+    "quote": "in a tense, hour-long interview."
+   }
+  ],
+  "episode": 48,
+  "claim_text": "The host says she sat down with Piers Morgan that morning, as they do at the end of every year."
+ },
+ {
   "claim": "C-4268",
   "status": "corroborated",
   "note": "Fox News (S-24) quotes Owens describing an 'extremely productive 4 1/2 hour meeting' with Erika Kirk.",
@@ -4097,6 +4606,114 @@
   ],
   "episode": 48,
   "claim_text": "Answering a commenter, the host says the meeting she described the previous day was a four and a half hour meeting and she had an hour to relate what was said."
+ },
+ {
+  "claim": "C-4395",
+  "status": "corroborated",
+  "note": "Deseret News (S-97) and NBC News (S-98) report Shapiro at AmericaFest accused Kelly of cowardice for not condemning Owens and said \"Tucker Carlson is not an excuse to go silent on Candace's targeting of TPUSA\"; the 'young mother' detail is not covered.",
+  "evidence": [
+   {
+    "sid": "S-97",
+    "loc": "para 45",
+    "kind": "tier2_attributed",
+    "speaker": "Ben Shapiro",
+    "fact": "The Deseret News reports Shapiro accused Kelly of cowardice for not condemning Owens, who has peddled unsubstantiated theories about Kirk's death.",
+    "quote": "On Thursday, Shapiro accused Kelly of cowardice for not condemning podcaster Candace Owens, who has peddled unsubstantiated theories surrounding Charlie Kirk’s death."
+   },
+   {
+    "sid": "S-97",
+    "loc": "para 63",
+    "kind": "tier2_attributed",
+    "speaker": "Ben Shapiro",
+    "fact": "Ben Shapiro said Tucker Carlson is not an excuse to go silent on Candace Owens' targeting of TPUSA.",
+    "quote": "“So no, Tucker Carlson is not an excuse to go silent on Candace’s targeting of TPUSA.”"
+   },
+   {
+    "sid": "S-98",
+    "loc": "para 39",
+    "kind": "tier2_reported",
+    "speaker": "NBC News",
+    "fact": "NBC News reports Shapiro ripped into Carlson, Bannon, Owens, Kelly and Fuentes on opening night.",
+    "quote": "Podcaster Ben Shapiro, speaking on the AmericaFest convention's opening night Thursday, ripped into right-wing broadcasters Tucker Carlson, Steve Bannon, Candace Owens and Megyn Kelly, as well as white nationalist Nick Fuentes."
+   }
+  ],
+  "episode": 50,
+  "claim_text": "In the AmFest audio, Ben Shapiro says Megyn Kelly, whom he calls a friend, is shying away from condemning the host by calling her a young mother, and tells Tucker Carlson that going silent on her is no excuse."
+ },
+ {
+  "claim": "C-4453",
+  "status": "corroborated",
+  "note": "CBS News (S-72) reports Hunter Kozak was the last person to debate and speak to Charlie Kirk before he was shot; the 'stress out' remark and question topic are not covered.",
+  "evidence": [
+   {
+    "sid": "S-72",
+    "loc": "para 114",
+    "kind": "tier2_reported",
+    "speaker": "CBS News",
+    "fact": "CBS News reported that Hunter Kozak was the last person to debate Charlie Kirk before he was shot.",
+    "quote": "Kozak was the last person to debate Charlie Kirk before he was shot."
+   },
+   {
+    "sid": "S-72",
+    "loc": "para 95",
+    "kind": "tier2_reported",
+    "speaker": "CBS News",
+    "fact": "CBS News reported that Utah Valley University student Hunter Kozak was the last person to speak to Charlie Kirk and was an invited guest at the town hall.",
+    "quote": "Utah Valley University student Hunter Kozak, who was the last person to speak to Charlie Kirk"
+   }
+  ],
+  "episode": 51,
+  "claim_text": "The host says Hunter Kozak was the last person on Earth who tried to stress out Charlie Kirk, asking him a stupid question about transgenderism, before Kirk died."
+ },
+ {
+  "claim": "C-4528",
+  "status": "corroborated",
+  "note": "KUTV (S-85) and NBC News (S-80) report Patel posted at 5:59 p.m. MT that the subject in custody had been released, after a 4:21 p.m. post saying the subject was in custody; the 5:30 press conference is not covered.",
+  "evidence": [
+   {
+    "sid": "S-85",
+    "loc": "para 48",
+    "kind": "tier2_attributed",
+    "speaker": "Kash Patel",
+    "fact": "Kash Patel posted at 5:59 p.m. that the subject in custody had been released after interrogation.",
+    "quote": "5:59 p.m.: Patel posts on social media: \"The subject in custody has been released after an interrogation by law enforcement."
+   },
+   {
+    "sid": "S-85",
+    "loc": "para 46",
+    "kind": "tier2_attributed",
+    "speaker": "Kash Patel",
+    "fact": "Kash Patel posted at 4:21 p.m. that the subject in Charlie Kirk's shooting was in custody.",
+    "quote": "4:21 p.m.: Patel says on social media that \"the subject for the horrific shooting today that took the life of Charlie Kirk is now in custody.\""
+   },
+   {
+    "sid": "S-80",
+    "loc": "para 88",
+    "kind": "tier2_reported",
+    "speaker": "NBC News",
+    "fact": "NBC News reported Kash Patel posted at 7:59 p.m. that the subject in custody had been released after interrogation.",
+    "quote": "at 7:59 p.m., he posted a follow-up message saying the “subject in custody has been released after an interrogation by law enforcement.”"
+   }
+  ],
+  "episode": 52,
+  "claim_text": "In her updated timeline the host places a press conference at 5:30 and, at 5:59, a Kash Patel tweet saying the subject in custody had been released after an earlier erroneous tweet that they had him, with the investigation continuing."
+ },
+ {
+  "claim": "C-4665",
+  "status": "corroborated",
+  "note": "NBC News (S-98) reports Bannon at AmericaFest accused Shapiro of wanting to take over Turning Point USA; the envy motive and the host calling it fact are not covered.",
+  "evidence": [
+   {
+    "sid": "S-98",
+    "loc": "para 43",
+    "kind": "tier2_attributed",
+    "speaker": "Steve Bannon",
+    "fact": "Steve Bannon accused Shapiro of wanting to take over TPUSA.",
+    "quote": "accusing Shapiro of wanting to take over Turning Point USA and putting Israel's interests ahead of the United States."
+   }
+  ],
+  "episode": 53,
+  "claim_text": "In the Amfest clip, Steve Bannon says Shapiro will make a move on Turning Point because he has always been envious of Charlie Kirk, and the host calls it fact."
  },
  {
   "claim": "C-4725",
@@ -4222,6 +4839,31 @@
   ],
   "episode": 54,
   "claim_text": "The host says that after Charlie Kirk went to Korea and met a pastor who was then arrested, he went to Japan, and she asks what Kirk had to do with Korea."
+ },
+ {
+  "claim": "C-4954",
+  "status": "corroborated",
+  "note": "Deseret News (S-97) and NBC News (S-98) report Shapiro, on AmericaFest's opening night, accused Kelly of cowardice for not condemning Candace Owens.",
+  "evidence": [
+   {
+    "sid": "S-97",
+    "loc": "para 45",
+    "kind": "tier2_attributed",
+    "speaker": "Ben Shapiro",
+    "fact": "The Deseret News reports Shapiro accused Kelly of cowardice for not condemning Owens, who has peddled unsubstantiated theories about Kirk's death.",
+    "quote": "On Thursday, Shapiro accused Kelly of cowardice for not condemning podcaster Candace Owens, who has peddled unsubstantiated theories surrounding Charlie Kirk’s death."
+   },
+   {
+    "sid": "S-98",
+    "loc": "para 39",
+    "kind": "tier2_reported",
+    "speaker": "NBC News",
+    "fact": "NBC News reports Shapiro ripped into Carlson, Bannon, Owens, Kelly and Fuentes on opening night.",
+    "quote": "Podcaster Ben Shapiro, speaking on the AmericaFest convention's opening night Thursday, ripped into right-wing broadcasters Tucker Carlson, Steve Bannon, Candace Owens and Megyn Kelly, as well as white nationalist Nick Fuentes."
+   }
+  ],
+  "episode": 55,
+  "claim_text": "Megyn Kelly stated in interview that Ben Shapiro called her a coward at the Turning Point Amfest event in December for her refusal to denounce Candace Owens."
  },
  {
   "claim": "C-5208",
@@ -4468,6 +5110,106 @@
   "claim_text": "The host says Erika Kirk had said she was accompanying her mother as she received a treatment on the morning of September 10."
  },
  {
+  "claim": "C-6288",
+  "status": "corroborated",
+  "note": "KUTV (S-79) reports former Turning Point USA employee Aubrey Laitsch said in a video on X she was terminated roughly three weeks earlier; her title and 2021 start are not covered.",
+  "evidence": [
+   {
+    "sid": "S-79",
+    "loc": "para 33",
+    "kind": "tier2_attributed",
+    "speaker": "Aubrey Laitsch",
+    "fact": "Aubrey Laitsch said in a 12-minute video on X that she was terminated roughly three weeks before February 5, 2026.",
+    "quote": "In a 12-minute video on X, Laitsch said she was terminated roughly three weeks ago."
+   },
+   {
+    "sid": "S-79",
+    "loc": "para 29",
+    "kind": "tier2_reported",
+    "speaker": "KUTV (The National News Desk)",
+    "fact": "KUTV reported Candace Owens on February 5, 2026 shared a video of a former Turning Point USA employee who claims she was fired for criticizing Erika Kirk.",
+    "quote": "Podcaster Candace Owens on Thursday shared a video of a former Turning Point USA employee who claims they were terminated for being critical of Erika Kirk."
+   }
+  ],
+  "episode": 70,
+  "claim_text": "In a video the host plays, Aubrey Laitsch identifies herself as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks before posting."
+ },
+ {
+  "claim": "C-6290",
+  "status": "corroborated",
+  "note": "KUTV (S-79) reports Laitsch said a TPUSA executive's Uber driver relayed an employee's remarks and identified her as that employee, which she denied; the meeting attendees are not covered.",
+  "evidence": [
+   {
+    "sid": "S-79",
+    "loc": "para 33",
+    "kind": "tier2_attributed",
+    "speaker": "Aubrey Laitsch",
+    "fact": "Aubrey Laitsch said a Turning Point USA executive was told by an Uber driver that his daughter's employee friend said the group was going downhill and nobody liked Erika Kirk.",
+    "quote": "an executive at Turning Point USA had a conversation with an uber driver who told him that his daughter was friends with an employee who said the organization was going downhill and that nobody liked Erika Kirk"
+   },
+   {
+    "sid": "S-79",
+    "loc": "para 35",
+    "kind": "tier2_attributed",
+    "speaker": "Aubrey Laitsch",
+    "fact": "Aubrey Laitsch said the Uber driver identified her as the employee, which she denied.",
+    "quote": "Laitsch said the uber driver told the CEO that the employee who was friends with his daughter was her, which Laitsch denied."
+   }
+  ],
+  "episode": 70,
+  "claim_text": "Aubrey Laitsch's video states she was brought into a meeting with Andrew Kolvet and Marina Minas and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to \"Aubrey.\""
+ },
+ {
+  "claim": "C-6292",
+  "status": "corroborated",
+  "note": "KUTV (S-79) quotes Laitsch: \"I just have a gut feeling that I was terminated from Turning Point because I am questioning the narrative\" of Kirk's assassination.",
+  "evidence": [
+   {
+    "sid": "S-79",
+    "loc": "para 40",
+    "kind": "tier2_attributed",
+    "speaker": "Aubrey Laitsch",
+    "fact": "Aubrey Laitsch said she has a gut feeling she was fired from Turning Point USA for questioning the narrative of Charlie Kirk's assassination.",
+    "quote": "“I just have a gut feeling that I was terminated from Turning Point because I am questioning the narrative of what happened to my role model and CEO, Charlie Kirk on the day of his assassination,”"
+   }
+  ],
+  "episode": 70,
+  "claim_text": "Aubrey Laitsch's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment."
+ },
+ {
+  "claim": "C-6456",
+  "status": "corroborated",
+  "note": "Fox News (S-90) reports Piers Morgan accused Owens of profiting from Kirk conspiracy theories, told her they were making her very wealthy and said she could be \"spewing bulls---\"; the Macron reference is not covered.",
+  "evidence": [
+   {
+    "sid": "S-90",
+    "loc": "para 159",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reports that Piers Morgan accused Candace Owens on Dec. 17, 2025, of profiting from Charlie Kirk conspiracy theories and compared her to Alex Jones.",
+    "quote": "Piers Morgan on Wednesday accused podcaster Candace Owens of profiting from conspiracy theories about the assassination of Turning Point USA founder Charlie Kirk , comparing her to Alex Jones"
+   },
+   {
+    "sid": "S-90",
+    "loc": "para 165",
+    "kind": "tier2_attributed",
+    "speaker": "Piers Morgan",
+    "fact": "Piers Morgan told Candace Owens her claims were making her very wealthy.",
+    "quote": "It’s making you very wealthy. You’re getting millions and millions of people coming in,"
+   },
+   {
+    "sid": "S-90",
+    "loc": "para 197",
+    "kind": "tier2_attributed",
+    "speaker": "Piers Morgan",
+    "fact": "Piers Morgan suggested Candace Owens could be guilty of spewing falsehoods to the public.",
+    "quote": "Morgan retorted that she could perhaps be guilty of \"spewing bulls--- to the public.\""
+   }
+  ],
+  "episode": 72,
+  "claim_text": "In the Piers Morgan clip, Morgan says that some of what Candace Owens has been doing in relation to Erika Kirk and Brigitte Macron is regrettable conspiracy theory nonsense for clicks and money."
+ },
+ {
   "claim": "C-6530",
   "status": "corroborated",
   "note": "Fox News (S-44) quotes Erika Kirk saying that on the morning he left Charlie came in, grabbed his wedding ring and necklace, and left.",
@@ -4637,6 +5379,31 @@
   "claim_text": "Joe Kent told Tucker Carlson that the National Counterterrorism Center was stopped by the FBI from investigating the Charlie Kirk assassination."
  },
  {
+  "claim": "C-7327",
+  "status": "corroborated",
+  "note": "KUTV (S-79) reports Aubrey Laitsch saying the Uber driver identified her as the employee who complained, which she denied.",
+  "evidence": [
+   {
+    "sid": "S-79",
+    "loc": "para 35",
+    "kind": "tier2_attributed",
+    "speaker": "Aubrey Laitsch",
+    "fact": "Aubrey Laitsch said the Uber driver identified her as the employee, which she denied.",
+    "quote": "Laitsch said the uber driver told the CEO that the employee who was friends with his daughter was her, which Laitsch denied."
+   },
+   {
+    "sid": "S-79",
+    "loc": "para 33",
+    "kind": "tier2_attributed",
+    "speaker": "Aubrey Laitsch",
+    "fact": "Aubrey Laitsch said a Turning Point USA executive was told by an Uber driver that his daughter's employee friend said the group was going downhill and nobody liked Erika Kirk.",
+    "quote": "an executive at Turning Point USA had a conversation with an uber driver who told him that his daughter was friends with an employee who said the organization was going downhill and that nobody liked Erika Kirk"
+   }
+  ],
+  "episode": 81,
+  "claim_text": "The host says Aubrey said she never vented to the Uber driver, whereas the Uber driver says they did."
+ },
+ {
   "claim": "C-7350",
   "status": "corroborated",
   "note": "Fox News (S-44) quotes Erika Kirk saying she sprinted out of her mother's treatment center and collapsed in the parking lot; the host's remarks on witnesses, an ambulance and her reticence are commentary not checked.",
@@ -4771,6 +5538,23 @@
   "claim_text": "In the played clip, a speaker says Joe Kent said they were told to stop their investigation and that it would be handled, and that he then resigned."
  },
  {
+  "claim": "C-7528",
+  "status": "corroborated",
+  "note": "KUTV's timeline (S-85) reports that at 2:40 p.m. Trump announced on social media that Kirk had died.",
+  "evidence": [
+   {
+    "sid": "S-85",
+    "loc": "para 44",
+    "kind": "tier2_attributed",
+    "speaker": "Donald Trump",
+    "fact": "KUTV reports that President Donald Trump announced on social media at 2:40 p.m. that Charlie Kirk had died.",
+    "quote": "2:40 p.m.: Trump announces on social media that Kirk has died."
+   }
+  ],
+  "episode": 84,
+  "claim_text": "The host's timeline states President Trump announced Charlie Kirk's death via a Truth Social post at 2:40."
+ },
+ {
   "claim": "C-7532",
   "status": "corroborated",
   "note": "The New York Times interview piece (S-26) reports Erika Kirk was sitting in her mother's hospital room when McCoy's number appeared on Sept. 10, which is what the host says it reported.",
@@ -4903,6 +5687,56 @@
   ],
   "episode": 85,
   "claim_text": "Sheriff Brooksby stated that at 8:02 PM on September 11th he received a call from a friend who was a retired detective; court documents refer to this individual as a \"retired Washington County deputy.\""
+ },
+ {
+  "claim": "C-7639",
+  "status": "corroborated",
+  "note": "KSL (S-107, S-108) reports Sheriff Brooksby saying Robinson had suicidal ideations and was headed to a remote area of Washington County where he might kill himself.",
+  "evidence": [
+   {
+    "sid": "S-107",
+    "loc": "para 68",
+    "kind": "tier2_attributed",
+    "speaker": "Nate Brooksby",
+    "fact": "Nate Brooksby said Tyler Robinson had suicidal ideations and feared a SWAT team would invade his house or that police would shoot him.",
+    "quote": "Robinson had some “suicidal ideations” and feared a SWAT team would invade his house or that he would be shot by police."
+   },
+   {
+    "sid": "S-108",
+    "loc": "para 26",
+    "kind": "tier2_attributed",
+    "speaker": "Nate Brooksby",
+    "fact": "Nate Brooksby said Tyler Robinson's parents talked him out of going to a remote area of Washington County where he potentially was going to kill himself.",
+    "quote": "Robinson's parents talked him out of going to a remote area of Washington County, where he potentially was going to kill himself"
+   }
+  ],
+  "episode": 85,
+  "claim_text": "Sheriff Brooksby stated he was told that Tyler Robinson had potential suicidal ideations and was en route to a remote area in Washington County."
+ },
+ {
+  "claim": "C-7640",
+  "status": "corroborated",
+  "note": "KSL (S-107, S-108) reports Brooksby saying Robinson's parents talked him out of going to the remote area and said they would stand by him if he surrendered peacefully.",
+  "evidence": [
+   {
+    "sid": "S-108",
+    "loc": "para 26",
+    "kind": "tier2_attributed",
+    "speaker": "Nate Brooksby",
+    "fact": "Nate Brooksby said Tyler Robinson's parents talked him out of going to a remote area of Washington County where he potentially was going to kill himself.",
+    "quote": "Robinson's parents talked him out of going to a remote area of Washington County, where he potentially was going to kill himself"
+   },
+   {
+    "sid": "S-107",
+    "loc": "para 69",
+    "kind": "tier2_attributed",
+    "speaker": "Nate Brooksby",
+    "fact": "Nate Brooksby said Tyler Robinson's parents conveyed they would stand by him and help him if he surrendered peacefully.",
+    "quote": "Robinson’s parents conveyed that they would “stand by him and help him” if he surrendered peacefully"
+   }
+  ],
+  "episode": 85,
+  "claim_text": "Sheriff Brooksby stated Robinson's parents convinced him not to go to the remote area and conveyed they would help him surrender peacefully."
  },
  {
   "claim": "C-7641",
@@ -5229,6 +6063,56 @@
   ],
   "episode": 86,
   "claim_text": "The host reads the filing as asserting that in a capital case the state cannot, consistent with due process and the Fourth and Eighth Amendments and separation of powers, rely on hearsay summary reports, and she says the defense has repeatedly asked for the underlying science."
+ },
+ {
+  "claim": "C-7779",
+  "status": "corroborated",
+  "note": "KUTV (S-85) reports Patel's 'subject ... now in custody' post at 4:21 p.m. local time, and NBC News (S-80) gives the same post as 6:21 p.m. Eastern.",
+  "evidence": [
+   {
+    "sid": "S-85",
+    "loc": "para 46",
+    "kind": "tier2_attributed",
+    "speaker": "Kash Patel",
+    "fact": "Kash Patel posted at 4:21 p.m. that the subject in Charlie Kirk's shooting was in custody.",
+    "quote": "4:21 p.m.: Patel says on social media that \"the subject for the horrific shooting today that took the life of Charlie Kirk is now in custody.\""
+   },
+   {
+    "sid": "S-80",
+    "loc": "para 88",
+    "kind": "tier2_reported",
+    "speaker": "NBC News",
+    "fact": "NBC News reported Kash Patel posted on X at 6:21 p.m. on September 10, 2025 that the subject in Charlie Kirk's killing was in custody.",
+    "quote": "Patel posted on X at 6:21 p.m. that “the subject” in Kirk’s killing was “in custody.”"
+   }
+  ],
+  "episode": 87,
+  "claim_text": "Per the X post the host shows, Kash Patel wrote that the subject for the shooting that took the life of Charlie Kirk was now in custody; the host says he posted it at 4:21 p.m. Mountain time, almost exactly four hours after Charlie was shot."
+ },
+ {
+  "claim": "C-7781",
+  "status": "corroborated",
+  "note": "KUTV (S-85) reports Patel's 'released after an interrogation' post at 5:59 p.m. local time, and NBC News (S-80) gives it as 7:59 p.m. Eastern.",
+  "evidence": [
+   {
+    "sid": "S-85",
+    "loc": "para 48",
+    "kind": "tier2_attributed",
+    "speaker": "Kash Patel",
+    "fact": "Kash Patel posted at 5:59 p.m. that the subject in custody had been released after interrogation.",
+    "quote": "5:59 p.m.: Patel posts on social media: \"The subject in custody has been released after an interrogation by law enforcement."
+   },
+   {
+    "sid": "S-80",
+    "loc": "para 88",
+    "kind": "tier2_reported",
+    "speaker": "NBC News",
+    "fact": "NBC News reported Kash Patel posted at 7:59 p.m. that the subject in custody had been released after interrogation.",
+    "quote": "at 7:59 p.m., he posted a follow-up message saying the “subject in custody has been released after an interrogation by law enforcement.”"
+   }
+  ],
+  "episode": 87,
+  "claim_text": "Per the X post the host shows, Kash Patel wrote that the subject in custody had been released after an interrogation by law enforcement; the host says he posted it at 5:59 PM the same day and that no further explanation was given."
  },
  {
   "claim": "C-7834",
@@ -5564,6 +6448,48 @@
   "claim_text": "In a clip the host plays, Governor Spencer Cox says the messages also referred to engraving bullets, a scope and the rifle being unique, and that the contact Tyler said he had changed outfits."
  },
  {
+  "claim": "C-8086",
+  "status": "corroborated",
+  "note": "FOX 13 (S-110) reports the Utah County Attorney's filing saying most preliminary-hearing evidence, including the DNA report on the rifle, was given to the defense in October 2025.",
+  "evidence": [
+   {
+    "sid": "S-110",
+    "loc": "para 49",
+    "kind": "tier2_attributed",
+    "speaker": "Utah County Attorney’s Office",
+    "fact": "Prosecutors say most preliminary hearing evidence, including the DNA report on the rifle found at the scene, was provided to the defense in October 2025.",
+    "quote": "including the DNA report regarding the rifle found at the scene, was provided to the defense in October of 2025."
+   }
+  ],
+  "episode": 90,
+  "claim_text": "The filing passage read aloud says most of the evidence to be presented at the preliminary hearing, including the DNA report regarding the rifle found at the scene, was provided to the defense in October of 2025."
+ },
+ {
+  "claim": "C-8179",
+  "status": "corroborated",
+  "note": "Deseret News (S-106) quotes the public ATF report saying the bullet-to-rifle comparison was inconclusive, and CBS News (S-95) reports the ballistics results were inconclusive.",
+  "evidence": [
+   {
+    "sid": "S-106",
+    "loc": "para 46",
+    "kind": "tier2_attributed",
+    "speaker": "ATF report",
+    "fact": "The ATF report, now public, states the result of the bullet-to-rifle comparison was inconclusive.",
+    "quote": "The result of the comparison was inconclusive,” per the ATF report, now made publicly available."
+   },
+   {
+    "sid": "S-95",
+    "loc": "para 113",
+    "kind": "tier2_reported",
+    "speaker": "CBS News (with AP)",
+    "fact": "CBS News reports ballistics tying a bullet fragment from Kirk's body to the rifle were inconclusive.",
+    "quote": "Authorities sought to tie the fragment to the suspected murder weapon, but the results were inconclusive."
+   }
+  ],
+  "episode": 91,
+  "claim_text": "The host says the ATF got involved in the Kirk case quickly and came back with an inconclusive trace on the Tyler Robinson gun."
+ },
+ {
   "claim": "C-8205",
   "status": "corroborated",
   "note": "Fox News (S-57) reports Erika Kirk was scheduled to appear with JD Vance at the Turning Point USA event in Athens, and she wrote on X she was looking forward to the University of Georgia event with Vance.",
@@ -5705,6 +6631,23 @@
   ],
   "episode": 93,
   "claim_text": "JD Vance told Andrew on stage that \"about 2 hours ago… I was a little worried that we were going to have to cancel the event because Erika was not going to come.\""
+ },
+ {
+  "claim": "C-8302",
+  "status": "corroborated",
+  "note": "KUTV (S-76) quotes JD Vance at the Georgia event saying 'I know that she did get some threats' about Erika Kirk.",
+  "evidence": [
+   {
+    "sid": "S-76",
+    "loc": "para 30",
+    "kind": "tier2_attributed",
+    "speaker": "JD Vance",
+    "fact": "JD Vance said Erika Kirk received threats and that about two hours before the Georgia event he worried it would have to be canceled because she was not coming.",
+    "quote": "I know that she did get some threats, and, you know, about two hours ago, I was a little worried we were going to have to cancel the event because Erika was not going to come"
+   }
+  ],
+  "episode": 93,
+  "claim_text": "J.D. Vance says on stage that he loves Erika and knows she got some threats."
  },
  {
   "claim": "C-8303",
@@ -5880,6 +6823,23 @@
   ],
   "episode": 94,
   "claim_text": "Richard Novak says he is aware of no reason why the ATF provided its data only within the last three weeks and why the FBI still has not provided its data."
+ },
+ {
+  "claim": "C-8391",
+  "status": "corroborated",
+  "note": "FOX 13 (S-110) reports prosecutors saying they gave the defense a list of approximately 35 exhibits they intend to offer at the preliminary hearing.",
+  "evidence": [
+   {
+    "sid": "S-110",
+    "loc": "para 48",
+    "kind": "tier2_attributed",
+    "speaker": "Utah County Attorney’s Office",
+    "fact": "Prosecutors say they gave Tyler Robinson's defense their witness list and a list of approximately 35 exhibits for the preliminary hearing in March 2026.",
+    "quote": "Prosecutors say they provided the defense with their witness list and “a list of approximately 35 exhibits it intends to offer” at the hearing in March."
+   }
+  ],
+  "episode": 94,
+  "claim_text": "The host says the prosecution is planning to present 35 exhibits at the probable cause hearing."
  },
  {
   "claim": "C-8409",
@@ -6426,6 +7386,40 @@
   "claim_text": "The host says Erika Kirk's pageant background dates from when Trump co-owned the Miss Universe organization with NBC Universal. She suggests Erika knew Trump before Charlie Kirk did."
  },
  {
+  "claim": "C-10207",
+  "status": "corroborated",
+  "note": "Deseret News (S-89) reports Tucker Carlson saying Kirk was most likely murdered for his evolving views on Israel, not his views on transgenderism.",
+  "evidence": [
+   {
+    "sid": "S-89",
+    "loc": "para 73",
+    "kind": "tier2_attributed",
+    "speaker": "Tucker Carlson",
+    "fact": "Tucker Carlson said on a podcast in June 2026 that Charlie Kirk was most likely murdered for his evolving views on Israel, not his opinions on transgenderism.",
+    "quote": "he was most likely murdered for his evolving views on Israel."
+   }
+  ],
+  "episode": 119,
+  "claim_text": "Tucker Carlson says that he and most people who knew Charlie Kirk well believe Charlie was most likely murdered for his evolving views on Israel, not for his views on transgenderism."
+ },
+ {
+  "claim": "C-10211",
+  "status": "corroborated",
+  "note": "Deseret News (S-89) quotes Blake Neff saying those who knew Charlie best think Tyler Robinson did it, motivated by transgender radicalism, and 'Tucker is lying.'",
+  "evidence": [
+   {
+    "sid": "S-89",
+    "loc": "para 75",
+    "kind": "tier2_attributed",
+    "speaker": "Blake Neff",
+    "fact": "Blake Neff disputed Tucker Carlson, saying those who knew Charlie Kirk best believe Tyler Robinson did it, motivated by transgender radicalism.",
+    "quote": "those of us who knew Charlie best, a group that doesn’t include Tucker, do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker is lying."
+   }
+  ],
+  "episode": 119,
+  "claim_text": "The host reads a tweet by Blake Neff, who she says formerly worked for Tucker Carlson, saying those who knew Charlie best think Tyler Robinson did it, motivated by transgender radicalism, and that \"Tucker is lying.\""
+ },
+ {
   "claim": "C-10229",
   "status": "corroborated",
   "note": "The UVU After-Action Report (S-12, p. 47) confirms Harpole appeared on the Shawn Ryan Podcast (SRS #254) on November 17, 2025; the lawsuit and characterisation are not covered.",
@@ -6624,6 +7618,23 @@
   ],
   "episode": 120,
   "claim_text": "The host says Robinson's team argued they should be able to cross-examine Twiggs, otherwise his recorded statement is hearsay."
+ },
+ {
+  "claim": "C-10265",
+  "status": "corroborated",
+  "note": "Fox News (S-100) reports Robinson's partner, Lance Twiggs, has since moved out of state and retained an attorney.",
+  "evidence": [
+   {
+    "sid": "S-100",
+    "loc": "para 185",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News reported that Lance Twiggs had moved out of state and retained an attorney.",
+    "quote": "While the partner has since moved out of state and retained an attorney"
+   }
+  ],
+  "episode": 120,
+  "claim_text": "The host says Twiggs now lives out of state."
  },
  {
   "claim": "C-10313",
@@ -7183,6 +8194,31 @@
   ],
   "episode": 124,
   "claim_text": "In a hearing clip the host plays, a witness testifies that Exhibit 12.1 differs from Exhibit 12.4 only by (1) red circles/ovals highlighting individuals, (2) face blurring of parking garage bystanders, and (3) zoom in/out on the rooftop segment."
+ },
+ {
+  "claim": "C-10656",
+  "status": "corroborated",
+  "note": "Fox News (S-87) reports Benny Johnson saying courtroom attendees gasped when the high-definition footage was played; the 20-minute length is not reported.",
+  "evidence": [
+   {
+    "sid": "S-87",
+    "loc": "para 165",
+    "kind": "tier2_attributed",
+    "speaker": "Benny Johnson",
+    "fact": "Benny Johnson said courtroom attendees gasped when the footage was played for Charlie Kirk's family.",
+    "quote": "Johnson said attendees inside the courtroom gasped when the video was played for the victim's family."
+   },
+   {
+    "sid": "S-87",
+    "loc": "para 166",
+    "kind": "tier2_attributed",
+    "speaker": "Benny Johnson",
+    "fact": "Benny Johnson said high-definition footage showed Tyler Robinson stalking Charlie Kirk on a campus Robinson did not attend.",
+    "quote": "We saw high-definition footage of Tyler Robinson stalking Charlie Kirk around the campus, a campus he didn't attend."
+   }
+  ],
+  "episode": 124,
+  "claim_text": "Benny Johnson says the judge played all 20 minutes of the high-definition security footage and the whole courthouse gasped when it was over."
  },
  {
   "claim": "C-10782",
@@ -7879,6 +8915,23 @@
   "claim_text": "The host says Brian Harpole said he cut Charlie Kirk's shirt, and she asks whose scissors were used, whether they were hospital scissors, and whether the feds seized them."
  },
  {
+  "claim": "C-11263",
+  "status": "corroborated",
+  "note": "NBC News (S-98) reports Bannon at AmericaFest accusing Shapiro of wanting to take over Turning Point USA; the envy motive is not reported.",
+  "evidence": [
+   {
+    "sid": "S-98",
+    "loc": "para 43",
+    "kind": "tier2_attributed",
+    "speaker": "Steve Bannon",
+    "fact": "Steve Bannon accused Shapiro of wanting to take over TPUSA.",
+    "quote": "accusing Shapiro of wanting to take over Turning Point USA and putting Israel's interests ahead of the United States."
+   }
+  ],
+  "episode": 131,
+  "claim_text": "In the AmFest clip, Steve Bannon says that Ben Shapiro will make a move on Turning Point because he has always been envious of Charlie Kirk. The host says she has marked those words."
+ },
+ {
   "claim": "C-11330",
   "status": "contradicted-by-record",
   "note": "The bindover ruling finds the bullet went front to back, only slightly left to right, and did not exit Kirk's body (S-7 07:46:29).",
@@ -7902,6 +8955,23 @@
   ],
   "episode": 131,
   "claim_text": "In a Newsmax audio clip, Rob O'Neill states the shot \"went left to right, not from front to back,\" and asserts an exit wound on Charlie Kirk's left-hand side."
+ },
+ {
+  "claim": "C-11363",
+  "status": "corroborated",
+  "note": "Deseret News (S-78) identifies Candace Owens as a onetime communications director at Turning Point USA.",
+  "evidence": [
+   {
+    "sid": "S-78",
+    "loc": "para 97",
+    "kind": "tier2_reported",
+    "speaker": "Deseret News",
+    "fact": "Deseret News identified Candace Owens as a onetime Turning Point USA communications director; Andrew Kolvet dismissed her accusations against Turning Point USA as an IQ test.",
+    "quote": "podcaster Candace Owens, the onetime communications director at Turning Point USA. Kolvet dismissed her endless accusations and insinuations against Turning Point USA as “an IQ test.”"
+   }
+  ],
+  "episode": 132,
+  "claim_text": "The host says people were asking what Turning Point USA was because she was its communications director."
  },
  {
   "claim": "C-11387",
@@ -8890,6 +9960,23 @@
   ],
   "episode": 140,
   "claim_text": "The host says Tyler Robinson allegedly wrote in the confession messages to Lance that he had hoped to keep the secret until he died of old age, which she says undercuts the suicide narrative."
+ },
+ {
+  "claim": "C-12038",
+  "status": "corroborated",
+  "note": "Fox News (S-84) reports investigators allege Robinson made contact with Turning Point USA representatives on campus; what he asked is not reported.",
+  "evidence": [
+   {
+    "sid": "S-84",
+    "loc": "para 190",
+    "kind": "tier2_attributed",
+    "speaker": "investigators",
+    "fact": "Investigators allege Tyler Robinson made contact with some Turning Point USA representatives on campus.",
+    "quote": "Robinson allegedly made contact with some Turning Point USA representatives on campus."
+   }
+  ],
+  "episode": 140,
+  "claim_text": "The host says Robinson allegedly approached a Turning Point employee on campus, that he apparently asked whether it was where the Charlie Kirk event would be, and that she looks forward to hearing the employee testify."
  },
  {
   "claim": "C-12039",
@@ -10030,6 +11117,23 @@
   "claim_text": "The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., independently of Charlie Kirk, while he was at the restaurantology event in Salt Lake City."
  },
  {
+  "claim": "C-12685",
+  "status": "corroborated",
+  "note": "Deseret News (S-78) reports chief of staff Mikey McCoy was on the phone with Erika Kirk giving her updates from the hospital.",
+  "evidence": [
+   {
+    "sid": "S-78",
+    "loc": "para 81",
+    "kind": "tier2_reported",
+    "speaker": "Deseret News",
+    "fact": "Deseret News reported that chief of staff Mikey McCoy was just behind Charlie Kirk when the bullet hit and provided Erika Kirk updates by phone from the hospital.",
+    "quote": "For Kirk’s chief of staff, Mikey McCoy, the experience of being there, just behind his boss when the bullet hit, and being on the phone with Erika providing updates from the hospital"
+   }
+  ],
+  "episode": 147,
+  "claim_text": "The host says that, as she says they were told, Mikey McCoy as Kirk's chief of staff was tasked with giving updates to Kirk's wife."
+ },
+ {
   "claim": "C-12689",
   "status": "corroborated",
   "note": "The After-Action Report says the TPUSA security team evacuated Charlie Kirk from the area immediately (S-12 p. 49).",
@@ -10045,6 +11149,23 @@
   ],
   "episode": 147,
   "claim_text": "In testimony played on air, Blake Neff says he and Mikey leaving was not abandoning Charlie because Charlie had a security team that left immediately into action and got Charlie out."
+ },
+ {
+  "claim": "C-12705",
+  "status": "corroborated",
+  "note": "KSL (S-68) reports defense attorney Richard Novak saying in closing that Kirk 'spoke hatefully' of certain people at his rallies.",
+  "evidence": [
+   {
+    "sid": "S-68",
+    "loc": "para 39",
+    "kind": "tier2_reported",
+    "speaker": "KSL",
+    "fact": "KSL reported that defense attorney Richard Novak said in closing that Charlie Kirk spoke hatefully of certain people during his rallies.",
+    "quote": "he mentioned that Kirk \"spoke hatefully\" of certain people during his rallies"
+   }
+  ],
+  "episode": 147,
+  "claim_text": "Defense counsel Richard Novak says in the audio played that it is true Mr. Kirk spoke hatefully of certain groups of people, including people who do not have traditional gender identities, are not strictly heterosexual, or have sexual relationships out of marriage."
  },
  {
   "claim": "C-12706",
@@ -10087,6 +11208,74 @@
   ],
   "episode": 147,
   "claim_text": "The host says the state is pursuing sentence enhancements on the theory that Charlie Kirk was targeted for his political or religious beliefs, with the \"some hate just can't be negotiated\" text as the central anchor."
+ },
+ {
+  "claim": "C-12773",
+  "status": "corroborated",
+  "note": "Deseret News (S-89) reports Neff remembers sitting in the Orem hospital waiting room on Sept. 10 talking about how Candace Owens would react to Charlie's death.",
+  "evidence": [
+   {
+    "sid": "S-89",
+    "loc": "para 68",
+    "kind": "tier2_attributed",
+    "speaker": "Blake Neff",
+    "fact": "Blake Neff recalled discussing in the Orem hospital waiting room on Sept. 10, 2025, how Candace Owens would react to Charlie Kirk's death.",
+    "quote": "Neff remembers sitting in the waiting room at the Orem, Utah, hospital where Kirk was taken on Sept. 10 and talking about how podcaster Candace Owens would react to Charlie’s death."
+   }
+  ],
+  "episode": 148,
+  "claim_text": "According to a Deseret News profile piece the host reads, Blake Neff remembers sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10 and talking about how podcaster Candace Owens would react to Charlie's death."
+ },
+ {
+  "claim": "C-12774",
+  "status": "corroborated",
+  "note": "Deseret News (S-89, para 69) quotes Neff saying \"Charlie was aware\" of Owens' theories about France's first lady being transgender.",
+  "evidence": [
+   {
+    "sid": "S-89",
+    "loc": "para 69",
+    "kind": "tier2_attributed",
+    "speaker": "Blake Neff",
+    "fact": "Blake Neff told the Deseret News that Charlie Kirk was aware of Candace Owens' theories about France's first lady and of what Neff called 'weird stuff about Jewish cults'.",
+    "quote": "He said, “Charlie was aware” of Owens’ theories about France’s first lady being transgender, as well as what he described as “weird stuff about Jewish cults,”"
+   }
+  ],
+  "episode": 148,
+  "claim_text": "According to the Deseret News profile, Blake Neff stated Charlie Kirk was aware of Candace Owens's theories about France's first lady being transgender."
+ },
+ {
+  "claim": "C-12775",
+  "status": "corroborated",
+  "note": "Deseret News (S-89, para 69) reports Neff described some of Owens' views as \"weird stuff about Jewish cults.\"",
+  "evidence": [
+   {
+    "sid": "S-89",
+    "loc": "para 69",
+    "kind": "tier2_attributed",
+    "speaker": "Blake Neff",
+    "fact": "Blake Neff told the Deseret News that Charlie Kirk was aware of Candace Owens' theories about France's first lady and of what Neff called 'weird stuff about Jewish cults'.",
+    "quote": "He said, “Charlie was aware” of Owens’ theories about France’s first lady being transgender, as well as what he described as “weird stuff about Jewish cults,”"
+   }
+  ],
+  "episode": 148,
+  "claim_text": "According to the Deseret News profile, Blake Neff described some of Candace Owens's views as \"weird stuff about Jewish cults.\""
+ },
+ {
+  "claim": "C-12776",
+  "status": "corroborated",
+  "note": "Deseret News (S-89) reports Neff said some of Owens' views were part of the reason TPUSA had become less involved with her around 2024.",
+  "evidence": [
+   {
+    "sid": "S-89",
+    "loc": "para 69",
+    "kind": "tier2_attributed",
+    "speaker": "Blake Neff",
+    "fact": "Blake Neff said Charlie Kirk was aware of Candace Owens's theories and that some of her views were part of why TPUSA became less involved with her around 2024.",
+    "quote": "some of her views were part of the reason TPUSA had become less involved with Owens around 2024."
+   }
+  ],
+  "episode": 148,
+  "claim_text": "According to the Deseret News profile, Blake Neff stated that some of Candace Owens's views were part of the reason Turning Point USA had become less involved with Owens around 2024."
  },
  {
   "claim": "C-12810",
@@ -10634,6 +11823,47 @@
   "claim_text": "The host says, reading the ABC report, that the TPUSA chapter at UVU filled out the form to host the event in mid July, on July 18."
  },
  {
+  "claim": "C-13295",
+  "status": "corroborated",
+  "note": "ABC News (S-92) reports the head count went from 200 to 600, a TPUSA official said it was later updated to 1,500-2,000, and UVU's police chief and TPUSA put attendance at about or over 3,000.",
+  "evidence": [
+   {
+    "sid": "S-92",
+    "loc": "para 34",
+    "kind": "tier2_reported",
+    "speaker": "ABC News",
+    "fact": "ABC News reports the UVU documents show the expected head count was initially 200 before being increased to 600.",
+    "quote": "showing that initially, the expected \"head count\" was 200 people before that number was increased to 600."
+   },
+   {
+    "sid": "S-92",
+    "loc": "para 45",
+    "kind": "tier2_attributed",
+    "speaker": "Turning Point USA official",
+    "fact": "A Turning Point USA official said later conversations with school officials updated the attendance estimate to 1,500 to 2,000.",
+    "quote": "Subsequent conversations between school officials and TPUSA's Safety Team updated that estimate to 1,500 - 2,000 based on more recent Prove Me Wrong campus events."
+   },
+   {
+    "sid": "S-92",
+    "loc": "para 24",
+    "kind": "tier2_attributed",
+    "speaker": "Jeffrey Long",
+    "fact": "UVU Police Chief Jeffrey Long told reporters there were probably over 3,000 people in attendance.",
+    "quote": "\"We had probably over 3,000 people who were in attendance,\" UVU Police Chief Jeffrey Long told reporters"
+   },
+   {
+    "sid": "S-92",
+    "loc": "para 45",
+    "kind": "tier2_attributed",
+    "speaker": "Turning Point USA official",
+    "fact": "A Turning Point USA official said the events are unticketed and open to the public, and police and coordinators estimated attendance at about 3,000.",
+    "quote": "The events are un-ticketed and open to the public, including those just walking by, but PD and event coordinators estimated the attendance at approximately 3,000."
+   }
+  ],
+  "episode": 154,
+  "claim_text": "Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in a later conversation the host says was undocumented), with actual attendance of about 3,000."
+ },
+ {
   "claim": "C-13298",
   "status": "corroborated",
   "note": "Bagley testified six UVU officers worked the event and that Kirk had his own security team present (S-2 02:44:36, 02:46:51); the attendance figure is not addressed.",
@@ -10657,6 +11887,40 @@
   ],
   "episode": 154,
   "claim_text": "The host reads that Chief Jeff Long told reporters there were probably over 3,000 people in attendance, that six officers worked the event and that Kirk had his own security team."
+ },
+ {
+  "claim": "C-13300",
+  "status": "corroborated",
+  "note": "ABC News (S-92) quotes a TPUSA official saying that on an online form submitted in early July a UVU chapter member selected \"200+\" as the max attendance.",
+  "evidence": [
+   {
+    "sid": "S-92",
+    "loc": "para 45",
+    "kind": "tier2_attributed",
+    "speaker": "Turning Point USA official",
+    "fact": "A Turning Point USA official said a TPUSA UVU chapter member selected '200+' as the maximum attendance on UVU's online form in early July.",
+    "quote": "a TPUSA UVU chapter member selected \"200+\" as the max attendance option available on the school's online form."
+   }
+  ],
+  "episode": 154,
+  "claim_text": "The host reads a TPUSA official's statement to ABC News that on an online form submitted in early July a chapter member selected 200 plus as the maximum attendance."
+ },
+ {
+  "claim": "C-13301",
+  "status": "corroborated",
+  "note": "ABC News (S-92) quotes a TPUSA official saying the events are un-ticketed and open to the public; the host's no-crowd-control remark is her own opinion and is not corroborated.",
+  "evidence": [
+   {
+    "sid": "S-92",
+    "loc": "para 45",
+    "kind": "tier2_attributed",
+    "speaker": "Turning Point USA official",
+    "fact": "A Turning Point USA official said the events are unticketed and open to the public, and police and coordinators estimated attendance at about 3,000.",
+    "quote": "The events are un-ticketed and open to the public, including those just walking by, but PD and event coordinators estimated the attendance at approximately 3,000."
+   }
+  ],
+  "episode": 154,
+  "claim_text": "Per a Turning Point USA official's statement to ABC News that the host reads, the UVU event was styled as open-to-public and unticketed, comparable to prior \"Prove Me Wrong\" campus events; the host adds that such events have no crowd control."
  },
  {
   "claim": "C-13302",
@@ -10699,6 +11963,23 @@
   ],
   "episode": 154,
   "claim_text": "The host reads that a TPUSA official told ABC News two UVU emergency medical personnel were on site but not an ambulance."
+ },
+ {
+  "claim": "C-13304",
+  "status": "corroborated",
+  "note": "ABC News (S-92) quotes a TPUSA official saying the Safety Team staffed up to 12 security on site (up from usual 8-9), ex-military and law enforcement equipped with a full emergency medical kit and field dressing expertise.",
+  "evidence": [
+   {
+    "sid": "S-92",
+    "loc": "para 74",
+    "kind": "tier2_attributed",
+    "speaker": "Turning Point USA official",
+    "fact": "A Turning Point USA official said TPUSA's Safety Team had 12 security personnel on site, up from the usual 8 to 9.",
+    "quote": "\"TPUSA's Safety Team staffed up for the event to 12 security on site (up from usual 8-9)"
+   }
+  ],
+  "episode": 154,
+  "claim_text": "The host reads the TPUSA official's statement that the safety team was staffed up to 12 security, up from the usual 8 to 9, of ex-military and law enforcement trained and equipped with a full emergency medical kit and field dressing expertise."
  },
  {
   "claim": "C-13382",

@@ -37,3 +37,33 @@ officials state.
 
 **Not reachable.** AP, Reuters, NYT, WSJ and CNN's own sites blocked the research agents. Where possible, their
 stories were cited through syndicated copies on station or newspaper sites; the `outlet` field marks each.
+
+## Round 2 (same day)
+
+**Research.** The same research prompt was used, plus `already_have.txt`, the round 1 articles, which could be
+cited but weren't fetched again. It covered the next 100 most-raised open questions. Agents found 48 new articles,
+all from outlets on the POLICY 11 list (`candidates_round2.md`). Daveed approved all 48, fetched as S-67..S-114,
+about 91k words.
+
+**Register.**
+- 90 attributed research findings were added to 56 questions.
+- 24 reporting conflicts were added to their questions (`conflicts_round2.json`, 40 in all; 16 involve non-core claims).
+
+**Verification.**
+- **Extraction:** 6 extraction agents pulled 1,114 verbatim facts.
+- **Matching:** they were matched to 1,554 unverified claims.
+- **Judging:** 18 judges proposed 88 corroborations and 1 disputed.
+- **Confirmation:** 3 confirm agents kept 58. They saw both the court-record rejections and round 1's rejections
+  (`rejected_round2.json`). Claims rejected again include:
+  - C-3015, the roof-access texts
+  - C-8373, the grandfather's rifle
+  - C-12052, the Cedar City sequence
+  - C-9102, the Vance "lecture"
+- **The proposed dispute, C-326, was rejected.** The charging documents say Robinson's mother recognised him and
+  Patel says his father did; both can be true.
+- **Operator review:** I rejected C-11906, a prediction that a ruling would come around Sept. 1. I also replaced a
+  truncated quote for C-12774 and C-12775 (Neff on Owens' theories) with the exact sentence from S-89 para 69.
+
+**Applied.** 57 corroborated.
+
+**Totals now:** 578 corroborated, 38 contradicted-by-record, 53 revised-by-host, 13,805 unverified.

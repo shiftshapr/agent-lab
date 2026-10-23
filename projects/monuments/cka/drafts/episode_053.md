@@ -1404,6 +1404,8 @@ Anchored Artifacts: A-1591.1
 Mentions: N-389, N-97, N-1, N-3
 Related Nodes: N-10359, N-10000
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-98
 Investigative Direction: Obtain the full Amfest Bannon speech and any corroborating statements by those who knew Kirk and Shapiro.
 
 ---

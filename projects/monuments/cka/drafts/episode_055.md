@@ -1067,6 +1067,8 @@ Mentions: N-3, N-46, N-97
 
 Related Nodes: N-10379
 
+Verification: corroborated
+Verification Evidence: S-97, S-98
 Investigative Direction: Obtain video of Amfest remarks; verify date, exact wording, and surrounding context.
 
 ---

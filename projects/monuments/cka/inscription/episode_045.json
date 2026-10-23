@@ -1657,8 +1657,11 @@
         "N-1",
         "N-2"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-72",
+        "S-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -2194,8 +2197,10 @@
         "N-22",
         "N-146"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-91"
+      ],
       "open_questions": [
         "Q-21"
       ]
@@ -2329,8 +2334,11 @@
         "N-2",
         "N-278"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": [],
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-83",
+        "S-91"
+      ],
       "open_questions": [
         "Q-396"
       ]

@@ -853,6 +853,8 @@ Claim: In a video the host plays, Aubrey Laitsch identifies herself as the forme
 
 Anchored Artifacts: A-1747.1
 Mentions: N-550
+Verification: corroborated
+Verification Evidence: S-79
 Investigative Direction: Verify Laitsch's employment dates and termination date via TPUSA / ATK records.
 
 **C-6290** Aubrey Laitsch stated termination meeting involved Uber-driver conversation
@@ -864,6 +866,8 @@ Claim: Aubrey Laitsch's video states she was brought into a meeting with Andrew 
 Anchored Artifacts: A-1747.1
 Mentions: N-493, N-550, N-14
 Related Nodes: N-10456
+Verification: corroborated
+Verification Evidence: S-79
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
 **C-6292** Aubrey Laitsch expressed belief termination was retaliation for narrative-dissent
@@ -875,6 +879,8 @@ Claim: Aubrey Laitsch's video states her personal belief that she was terminated
 Anchored Artifacts: A-1747.1
 Mentions: N-550, N-1
 Related Nodes: N-10456
+Verification: corroborated
+Verification Evidence: S-79
 Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Laitsch's stated belief; seek additional former-employee testimony.
 
 **C-6291** Aubrey Laitsch video names Andrew Kolvet and Marina Minas at termination meeting

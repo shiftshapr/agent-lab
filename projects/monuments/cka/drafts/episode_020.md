@@ -2924,6 +2924,8 @@ Anchored Artifacts: A-3196.1
 Mentions: N-3, N-190, N-1
 Related Nodes: N-10190
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-78
 Investigative Direction: Use the full event video to fix Mikey's position relative to Charlie and the questioner.
 Open Questions: Q-213
 

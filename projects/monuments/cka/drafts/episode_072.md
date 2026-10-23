@@ -1880,6 +1880,8 @@ Transcript Snippet: I do think is really regrettable, kind of conspiracy theory 
 Anchored Artifacts: A-1768.1
 Mentions: N-204, N-3, N-2, N-82
 Tags: relevance:core
+Verification: corroborated
+Verification Evidence: S-90
 Investigative Direction: Locate the Piers Morgan interview with Megyn Kelly and verify the exact question.
 Open Questions: Q-52
 

@@ -2126,6 +2126,8 @@ Anchored Artifacts:
 Mentions: N-550
 Related Nodes: N-10506
 Tags: relevance:context
+Verification: corroborated
+Verification Evidence: S-79
 Investigative Direction: Locate the Uber driver and any statement from him; ask Aubrey for her account.
 
 ---
