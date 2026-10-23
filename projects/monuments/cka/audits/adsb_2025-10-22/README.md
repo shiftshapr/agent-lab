@@ -45,3 +45,21 @@ closest approach to UVU. SU-BTU and N8724A are not in the day's data.
 **Next.**
 - **The 2025-09-11 file:** needed for evening Mountain-time flights, including N582MM to Provo.
 - **C-37A 99-044 (Sept 7–8):** needs the 9/7–9/9 files.
+
+## 2025-09-11 file (S-14, same day)
+The local disk filled during the download, so the incomplete parts were deleted and `scan.py url …` streamed the
+release (3,684,116,480 bytes; per-part sha256 in the manifest) straight from GitHub without saving it. It scanned
+78,194 traces and kept 410 (`sources/adsb/2025-09-11_summary.json`).
+
+**Corroborated (2):**
+- **C-9172:** N582MM landed at Provo at 18:57 MDT on 10 September and stayed overnight.
+- **C-9173:** it flew back to Pierre at 08:08 MDT on 11 September.
+
+**Other findings (register):**
+- **N102DZ:** returned to Provo at 19:31 MDT on 10 September and left for the Phoenix area at 09:54 MDT on
+  11 September.
+- **SU-BTT:** left Wilmington for Cairo at 05:55 MDT on 11 September.
+- **SU-BND:** made no flight.
+- **Register updates:** Q-235, Q-240 and Q-332 updated.
+
+Totals now: 362 corroborated, 38 contradicted-by-record.

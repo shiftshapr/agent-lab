@@ -11,6 +11,8 @@ Status, 2026-10-22: all 13 sources fetched.
 - The 2025-09-16 press conference announcing the charges (S-11).
 - The UVU After-Action Report (S-12, 158 pages).
 - The adsb.lol ADS-B archive for 2025-09-10 (S-13, 3.5 GB, two tar parts).
+- The adsb.lol ADS-B archive for 2025-09-11 (S-14, 3.7 GB), streamed from GitHub and scanned without saving because
+  the local disk was full; the manifest keeps per-part sha256 and the extracted traces are kept privately.
 - The charging Information (S-1, 10 pages) and the County Attorney press releases (S-9, S-10). The County Attorney's
   site returns HTTP 503 and DocumentCloud blocks automated download, so these came from Internet Archive captures of
   the original URLs (listed as mirrors in `streams.json`; `fetched_from` in the manifest).

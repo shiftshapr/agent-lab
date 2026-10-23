@@ -135,6 +135,14 @@
           "url": "https://github.com/adsblol/globe_history_2025/releases",
           "format": "adsb-release",
           "release_tag": "v2025.09.10-planes-readsb-prod-0"
+        },
+        {
+          "title": "adsb.lol globe history, 2025-09-11 (UTC; covers the evening of 2025-09-10 Mountain time)",
+          "date": "2025-09-11",
+          "publisher": "adsb.lol",
+          "url": "https://github.com/adsblol/globe_history_2025/releases#v2025.09.11",
+          "format": "adsb-release",
+          "release_tag": "v2025.09.11-planes-readsb-prod-0"
         }
       ]
     }

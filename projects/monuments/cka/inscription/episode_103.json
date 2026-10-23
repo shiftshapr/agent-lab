@@ -1983,8 +1983,11 @@
       "claim_timestamp": "00:11:05",
       "investigative_direction": "Obtain ADS-B and FBO records for N582MM's Chicago stop and Provo arrival, and the passengers boarded in Chicago.",
       "transcript_snippet": "stayed in South Dakota for about 50 minutes before heading onward to Chicago, Illinois for what looks like a pickup, and then they went straight to Provo, Utah landing at 6:57 p. m.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-13",
+        "S-14"
+      ]
     },
     {
       "@type": "Claim",
@@ -2003,8 +2006,10 @@
       "claim_timestamp": "00:12:07",
       "investigative_direction": "Pull N582MM's September 11, 2025 flight history.",
       "transcript_snippet": "After it stayed overnight in Provo on September 10th, it then went back to Pierre, South Dakota.",
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "corroborated",
+      "verification_evidence": [
+        "S-14"
+      ]
     },
     {
       "@type": "Claim",

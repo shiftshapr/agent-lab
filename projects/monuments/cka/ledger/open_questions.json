@@ -6789,7 +6789,7 @@
   "id": "Q-235",
   "topic": "SU-BTT Sept 2025 track",
   "question": "What was SU-BTT's routing in September 2025, and at what local time did it depart Provo on 2025-09-10?",
-  "known": "The host says it flew Cairo-Paris-Minot-Provo, landing 2025-09-04 at 12:46, and left Provo at 7:14 a.m. local on 9/10, after earlier misreading UTC as Mountain time (C-2025, C-2140, C-2016, C-2068, C-2070); she says it had been to the US only twice in the prior year (C-2014). The record says nothing yet. ADS-B (S-13): SU-BTT took off from Provo at 07:14 MDT on 2025-09-10 and flew to Wilmington, Delaware (last point 16:50Z).",
+  "known": "The host says it flew Cairo-Paris-Minot-Provo, landing 2025-09-04 at 12:46, and left Provo at 7:14 a.m. local on 9/10, after earlier misreading UTC as Mountain time (C-2025, C-2140, C-2016, C-2068, C-2070); she says it had been to the US only twice in the prior year (C-2014). The record says nothing yet. ADS-B (S-13): SU-BTT took off from Provo at 07:14 MDT on 2025-09-10 and flew to Wilmington, Delaware (last point 16:50Z). ADS-B (S-14): SU-BTT left Wilmington at 05:55 MDT on 2025-09-11 and flew to Cairo, arriving about 15:35 MDT.",
   "settle": "Flightradar24/ADS-B history and FAA/CBP records for SU-BTT, with UTC and local times.",
   "status": "partly-answered",
   "evidence": [
@@ -6799,7 +6799,8 @@
    "C-2068",
    "C-2070",
    "C-2014",
-   "S-13"
+   "S-13",
+   "S-14"
   ],
   "claims": [
    "C-2014",
@@ -6956,14 +6957,15 @@
   "id": "Q-240",
   "topic": "Scottsdale aircraft",
   "question": "Which aircraft flew between Scottsdale, Arizona and Utah on 2025-09-10 after the shooting, who operated them, and who was aboard (including N102DZ)?",
-  "known": "The host says her team found two planes from Scottsdale that flew in right after the shooting and that she does not know who was aboard, speculating it may have carried Erika Kirk (C-2143, C-2147, C-2148). The record says nothing yet. ADS-B (S-13): after the shot, N40JD took off from Scottsdale at 12:27 MST and landed at Provo at 14:29 MDT; N102DZ left Scottsdale at 13:31 MST, landed at Provo at 15:30 MDT and left again at 16:10 MDT for Camarillo. Operators and passengers are not in the data.",
+  "known": "The host says her team found two planes from Scottsdale that flew in right after the shooting and that she does not know who was aboard, speculating it may have carried Erika Kirk (C-2143, C-2147, C-2148). The record says nothing yet. ADS-B (S-13): after the shot, N40JD took off from Scottsdale at 12:27 MST and landed at Provo at 14:29 MDT; N102DZ left Scottsdale at 13:31 MST, landed at Provo at 15:30 MDT and left again at 16:10 MDT for Camarillo. Operators and passengers are not in the data. ADS-B (S-14): N102DZ returned from Camarillo to Provo at 19:31 MDT on 2025-09-10 and left Provo at 09:54 MDT on 2025-09-11 for the Phoenix area.",
   "settle": "FAA and ADS-B/Flightradar traces for N102DZ and the other Scottsdale aircraft on 2025-09-10, operator registrations, and passenger manifests.",
   "status": "partly-answered",
   "evidence": [
    "C-2143",
    "C-2147",
    "C-2148",
-   "S-13"
+   "S-13",
+   "S-14"
   ],
   "claims": [
    "C-2143",
@@ -9153,9 +9155,9 @@
   "id": "Q-332",
   "topic": "Wilmington arrival",
   "question": "How was SU-BTT's 2025-09-10 arrival at Wilmington processed, who met it, and where did its passengers go?",
-  "known": "The tip email read by the host says the arrival was handled in a diplomatic category, federal or unmarked vehicles with swapped plates met it and drove to 920 North King Street within an hour, and admits no footage exists (C-3059, C-3060, C-3061, C-3062, C-3064, C-3065, C-3066, C-3084); the host says a foreign dignitary was escorted there (C-3255, C-3300, C-3361, C-3091). The record has no verification note on this yet.",
+  "known": "The tip email read by the host says the arrival was handled in a diplomatic category, federal or unmarked vehicles with swapped plates met it and drove to 920 North King Street within an hour, and admits no footage exists (C-3059, C-3060, C-3061, C-3062, C-3064, C-3065, C-3066, C-3084); the host says a foreign dignitary was escorted there (C-3255, C-3300, C-3361, C-3091). The record has no verification note on this yet. ADS-B (S-14): SU-BTT stayed overnight at Wilmington and left at 11:55Z on 2025-09-11 for Cairo. Who met it and where passengers went are not in the data.",
   "settle": "CBP and ILG records for the arrival, airport gate and vehicle-access logs, camera footage, and any visitor log for 920 North King Street.",
-  "status": "open",
+  "status": "partly-answered",
   "evidence": [
    "C-3059",
    "C-3060",
@@ -9168,7 +9170,8 @@
    "C-3300",
    "C-3361",
    "C-3091",
-   "C-3255"
+   "C-3255",
+   "S-14"
   ],
   "claims": [
    "C-3059",

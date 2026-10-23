@@ -18,7 +18,7 @@ def near(la, lo):
 def t(x): u = dt.datetime.fromtimestamp(x, dt.timezone.utc); return f"{u:%H:%M}Z / {u.astimezone(MDT):%H:%M} MDT"
 out = {}
 for f in sorted(glob.glob(f'{D}/*.json')):
-    if f.endswith('near_provo_uvu.json'): continue
+    if f.endswith(('near_provo_uvu.json', 'legs.json', 'stream_provenance.json')): continue
     d = json.load(open(f)); r = (d.get('r') or '').upper(); ts = d['timestamp']
     pts = [p for p in d.get('trace', []) if p[1] is not None]
     if not pts: continue

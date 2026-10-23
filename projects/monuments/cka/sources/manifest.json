@@ -221,6 +221,29 @@
    "bytes": 3477626880,
    "sha256": "e8bcee3f0fa80a9f25891a49d45431170e37b8d979da422ecf09fd2326aafe74",
    "retrieved_at": "2026-10-22T02:24:10Z"
+  },
+  {
+   "id": "S-14",
+   "stream": "adsb-2025-09-10",
+   "tier": 1,
+   "title": "adsb.lol globe history, 2025-09-11 (UTC; covers the evening of 2025-09-10 Mountain time)",
+   "date": "2025-09-11",
+   "publisher": "adsb.lol",
+   "url": "https://github.com/adsblol/globe_history_2025/releases#v2025.09.11",
+   "format": "adsb-release",
+   "release_tag": "v2025.09.11-planes-readsb-prod-0",
+   "files": [
+    "v2025.09.11-planes-readsb-prod-0.tar.aa",
+    "v2025.09.11-planes-readsb-prod-0.tar.ab"
+   ],
+   "bytes": 3684116480,
+   "sha256": "c96dcaeaf08b76b4f7b524cb6d1b16560f3d1116da8c546371c4a027d540ecf3",
+   "part_sha256": [
+    "e10cfb9de3a18112ce17019d7fa6e0e3a76ac35f2e9a64470949fe13f71150bd",
+    "a68e57c33eb89421fcce69719ac55807d9055f8a3afa2d95b5d4ac8504604bce"
+   ],
+   "storage": "streamed from GitHub and scanned without saving (local disk full); extracted traces kept privately",
+   "retrieved_at": "2026-10-23T05:49:28Z"
   }
  ]
 }

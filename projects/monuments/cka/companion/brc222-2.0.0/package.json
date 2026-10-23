@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-23T05:22:22Z",
+  "generated_at": "2026-10-23T05:49:55Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -109663,7 +109663,7 @@
       "label": "N582MM went Pierre–Chicago–Provo, landing at 6:57 p.m. and staying overnight",
       "node_kind": "claim",
       "episode": 103,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -109671,7 +109671,7 @@
       "label": "After overnighting in Provo, N582MM returned to Pierre, South Dakota",
       "node_kind": "claim",
       "episode": 103,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
