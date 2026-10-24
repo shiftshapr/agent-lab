@@ -1495,6 +1495,25 @@
       "investigative_pressure": "medium",
       "schema_org": "Question",
       "parent": "N-10305"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-972",
+      "ref": "N-972",
+      "name": "Lee Harvey Oswald",
+      "type": "person",
+      "description": "First named by the host at 00:55:44 in episode 48, quoting Piers Morgan on the JFK assassination.",
+      "related_artifacts": [
+        "A-2742.1"
+      ],
+      "related_claims": [
+        "C-4259"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -3290,7 +3309,8 @@
       "transcript_snippet": "But he peaked when he said, \"Maybe JFK really was just shot by Lee Harvey Oswald.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-204"
+        "N-204",
+        "N-972"
       ],
       "verification_status": "unverified",
       "verification_evidence": []

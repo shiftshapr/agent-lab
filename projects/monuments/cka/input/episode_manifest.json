@@ -2,15 +2,15 @@
   "monument": "cka",
   "channel": "@RealCandaceO",
   "corpus_cutoff_inclusive": "2025-09-11",
-  "generated_at_utc": "2026-10-20T16:35:43Z",
+  "generated_at_utc": "2026-10-23T23:00:17Z",
   "source": {
     "listing": "https://www.youtube.com/@RealCandaceO/streams",
     "publish_dates": "https://invidious.f5.si"
   },
   "counts": {
-    "manifest_entries": 167,
+    "manifest_entries": 170,
     "kirk_special": 2,
-    "numbered_show": 165
+    "numbered_show": 168
   },
   "episodes": [
     {
@@ -1682,6 +1682,36 @@
       "kind": "numbered_show",
       "notes": "title omits Ep number; 404 inferred from sequence after Ep 403",
       "seq": 167
+    },
+    {
+      "upload_date": "2026-10-20",
+      "youtube_id": "ihLQRXxIfjU",
+      "title": "EXCLUSIVE 9/10 Footage: Did \u201cTyler Robinson\u201d Return To The Losee Rooftop? Because Someone Did\u2026",
+      "url": "https://www.youtube.com/watch?v=ihLQRXxIfjU",
+      "candace_ep_number": 405,
+      "kind": "numbered_show",
+      "notes": "title omits Ep number; 405 inferred from sequence after Ep 404",
+      "seq": 168
+    },
+    {
+      "upload_date": "2026-10-21",
+      "youtube_id": "ZxlvNO8OVmc",
+      "title": "Hocus Pocus! Republican\u2019s Bizarre Midterm Message, Erika\u2019s Creepy K-12 Tour, And UVU\u2019s Slender Man.",
+      "url": "https://www.youtube.com/watch?v=ZxlvNO8OVmc",
+      "candace_ep_number": 406,
+      "kind": "numbered_show",
+      "notes": "title omits Ep number; 406 inferred from sequence after Ep 405",
+      "seq": 169
+    },
+    {
+      "upload_date": "2026-10-23",
+      "youtube_id": "IAVSN4vuCx0",
+      "title": "Candace Owens x Baron Coleman: The Real UVU Review. | Ep 407",
+      "url": "https://www.youtube.com/watch?v=IAVSN4vuCx0",
+      "candace_ep_number": 407,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 170
     }
   ]
 }

@@ -3401,3 +3401,25 @@
 {"id": "2112695343263727958", "unlinked": "unclear", "note": "Bare timestamp + video link; thread of UVU Losee Rooftop footage (parent 2112693968500847101), but post itself names nothing."}
 {"id": "2112696267285418078", "unlinked": "unclear", "note": "Bare timestamp + video link; thread of UVU Losee Rooftop footage (parent 2112693968500847101), but post itself names nothing."}
 {"id": "2112697275336310812", "unlinked": "unclear", "note": "Bare timestamp + video link; thread of UVU Losee Rooftop footage (parent 2112693968500847101), but post itself names nothing."}
+{"id": "2113031874238951804", "claims": ["C-14602", "C-14620", "C-14564", "C-14585", "C-14604"], "relation": "same_allegation", "nodes": ["N-119", "N-11372", "N-11232", "N-2", "N-11213", "N-227", "N-11373", "N-11362", "N-11363"], "note": "Episode 169 rundown: Vivek ad, school revolt over Erika visit, Stuckey on TikTok/horror, Losee rooftop Slender Man."}
+{"id": "2113071499305447667", "nodes": ["N-9", "N-11232"]}
+{"id": "2113075004900266161", "nodes": ["N-10000"]}
+{"id": "2113077964015370699", "unlinked": "reply_chatter"}
+{"id": "2113118985189302489", "claims": ["C-14819", "C-14815", "C-14821", "C-14823", "C-14822"], "relation": "same_allegation", "nodes": ["N-2", "N-1", "N-10000", "N-11378", "N-11295", "N-10857"], "note": "Denies Erika offered autopsy; says only a typed transcript of the Aspen remarks was offered."}
+{"id": "2113265874937221379", "claims": ["C-14819", "C-14815"], "relation": "same_allegation", "nodes": ["N-10000", "N-11378"]}
+{"id": "2113266412789563808", "unlinked": "reply_chatter"}
+{"id": "2113286220038164902", "claims": ["C-14815", "C-14820"], "relation": "follow_up", "nodes": ["N-330", "N-11378"], "note": "Extends: attributes the autopsy-offer story to the influencer lying rather than to Erika."}
+{"id": "2113385267247599849", "claims": ["C-14640"], "relation": "same_allegation", "nodes": ["N-3", "N-330", "N-11229", "N-10000"], "note": "Announces episode 170, the handoff with Baron Coleman before maternity leave."}
+{"id": "2113445647701467568", "nodes": ["N-159", "N-2", "N-330", "N-10000"], "note": "Says she would fire Blake Neff; no matching archived claim."}
+{"id": "2113446090381144553", "nodes": ["N-159", "N-10000"]}
+{"id": "2113448693126840791", "nodes": ["N-330", "N-11229"]}
+{"id": "2113455368055427473", "unlinked": "reply_chatter"}
+{"id": "2113459325868056861", "nodes": ["N-10000"]}
+{"id": "2113459548308770839", "nodes": ["N-181", "N-330"]}
+{"id": "2113476291852988633", "nodes": ["N-178"]}
+{"id": "2113633546128478438", "claims": ["C-14819", "C-14815", "C-14816"], "relation": "same_allegation", "nodes": ["N-1", "N-11378"]}
+{"id": "2113667548915065226", "claims": ["C-14634", "C-14852", "C-14851"], "relation": "same_allegation", "nodes": ["N-25", "N-236", "N-10793"]}
+{"id": "2113692175955276203", "unlinked": "off_topic"}
+{"id": "2113693888217293061", "unlinked": "off_topic"}
+{"id": "2113700485009986044", "unlinked": "unclear"}
+{"id": "2113705786585301470", "nodes": ["N-5"]}

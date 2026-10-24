@@ -1243,7 +1243,8 @@
       "\\bTaylor Robinson\\b",
       "Tyler Robinson",
       [
-        87
+        87,
+        168
       ]
     ],
     [
@@ -3454,7 +3455,10 @@
         163,
         164,
         165,
-        166
+        166,
+        168,
+        169,
+        170
       ]
     ],
     [
@@ -4364,7 +4368,8 @@
         160,
         161,
         162,
-        165
+        165,
+        170
       ]
     ],
     [
@@ -6501,6 +6506,237 @@
       "Austin Erickson",
       [
         30
+      ]
+    ],
+    [
+      "\\bBrian Coole\\b",
+      "Brian Cole",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLozi seat rooftop\\b",
+      "Losee Center rooftop",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLowsey\\b",
+      "Losee",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bLosi\\b",
+      "Losee",
+      [
+        168,
+        170
+      ]
+    ],
+    [
+      "\\bLussi\\b",
+      "Losee",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bDirector Cash\\b",
+      "Director Kash",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bBlake enough\\b",
+      "Blake Neff",
+      [
+        168
+      ]
+    ],
+    [
+      "\\bEric Deeters\\b",
+      "Eric Deters"
+    ],
+    [
+      "\\bKatie Zakharyia\\b",
+      "Katie Zacharia"
+    ],
+    [
+      "\\bLoeffler\\b",
+      "Losee",
+      [
+        169
+      ]
+    ],
+    [
+      "\\bZ Cohen\\b",
+      "Zee Cohen",
+      [
+        169
+      ]
+    ],
+    [
+      "\\bAli Sokki\\b",
+      "Allie Stuckey"
+    ],
+    [
+      "\\bgoing into Mitch\\b",
+      "going into midterms",
+      [
+        169
+      ]
+    ],
+    [
+      "\\bDarla Arthur\\b",
+      "Donna Arthur",
+      [
+        169
+      ]
+    ],
+    [
+      "\\band I may me act as my mother\\b",
+      "and I'm Amy Acton's mother",
+      [
+        169
+      ]
+    ],
+    [
+      "\\bAmanda Baker\\b",
+      "Amanda Bakker",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bAlex Bruce Witz\\b",
+      "Alex Bruesewitz"
+    ],
+    [
+      "\\bRobbie Starbucks\\b",
+      "Robby Starbuck"
+    ],
+    [
+      "\\bJennifer Fuina Fuina\\b",
+      "Jennifer Faumuina",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bSamantha Carer\\b",
+      "Samantha Karner",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bChristopher Baggley\\b",
+      "Christopher Bagley",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bAgent David Hall\\b",
+      "Agent David Hull",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bDavid Hall who is the co-lead\\b",
+      "David Hull who is the co-lead",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bAgent Ho\\b",
+      "Agent Hull",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bAndrew Kobet\\b",
+      "Andrew Kolvet",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bXavier Bousard\\b",
+      "Xavier Poussard",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bWolf in Finance, Wolves in Finance\\b",
+      "Wolves and Finance",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bLatafia\\b",
+      "Latvia",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bbed slot\\b",
+      "fed slop",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bcandacewowens\\.com\\b",
+      "candaceowens.com",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bcanowens\\.com\\b",
+      "candaceowens.com",
+      [
+        170
+      ]
+    ],
+    [
+      "\\brooftop at Lozi\\b",
+      "rooftop at Losee",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bLoi (Rooftop|Center)\\b",
+      "Losee \\1",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bLoy Rooftop\\b",
+      "Losee Rooftop",
+      [
+        170
+      ]
+    ],
+    [
+      "\\bTammy Peters\\b",
+      "Tammi Peters",
+      [
+        169
       ]
     ]
   ]
