@@ -38400,5 +38400,4920 @@
   "mentions_new": [],
   "relevance": "context",
   "responds_to_host": false
+ },
+ {
+  "id": "CC-2250",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Uncle Tom",
+  "speaker_node": null,
+  "timestamp": "00:03:14",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=194s",
+  "claim": "In the X Space audio played on the show, Uncle Tom says Rob Noerr told him he was 80% sure it was Tyler Robinson, and he wanted to ask Rob for his evidence for the 20% he is not sure about.",
+  "snippet": "if you remember, he told me he was 80% sure that it was Tyler. So, I wanted to know his evidence for the 20% that he's not sure.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [
+   "Rob Noerr"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2251",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "00:08:20",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=500s",
+  "claim": "Rob Noerr says Uncle Tom's side wants to dismiss all the evidence in the Tyler Robinson case as hearsay or the work of corrupt officials, lumping it together and ignoring it.",
+  "snippet": "they want to just dismiss all of the evidences, hearsay, or corrupt officials, etc., etc. And so we could just lump all the evidence together and ignore it.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [
+   "Uncle Tom"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2252",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "00:09:57",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=597s",
+  "claim": "Rob Noerr says that when he asked Uncle Tom where he gets his evidence that Tyler Robinson was involved, Tom's answer was \"the feds\", even though Tom calls others fed sloppers.",
+  "snippet": "When I ask him for where does he get evidence for his position that Tyler Robinson was involved, he just didn't pull the trigger. What's his answer? The feds.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [
+   "Uncle Tom"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2253",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:11:08",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=668s",
+  "claim": "Gary Melton says that more than a year after the assassination, Uncle Tom's side, despite covering it nonstop, still cannot produce a single piece of evidence.",
+  "snippet": "We're over a year past and they've been covering this non-stop. They He has like freaking 50 people in there in the echo chamber every single night and yet they still cannot produce one single piece of evidence",
+  "mentions": [],
+  "mentions_new": [
+   "Uncle Tom"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2254",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:11:51",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=711s",
+  "claim": "Gary Melton says his side is not trying to silence anyone; they are saying Candace Owens is lying.",
+  "snippet": "No, no, no, no. We're saying you're lying. We're saying that Candace Owens is lying. We're we're not trying to silence you.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2255",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:12:18",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=738s",
+  "claim": "Gary Melton says he and others on his side have gone to UVU, talked to dozens of eyewitnesses and built a 3D model of the scene, unlike the other side.",
+  "snippet": "Have you talked to dozens of freaking you know actual eyewitnesses? Have you done I don't know things like a 3D model of that so you can see if there's any other like those are things that I've done",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2256",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "00:13:19",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=799s",
+  "claim": "Rob Noerr says the case narrative will lose steam and Candace Owens is already moving on to the next outrage, such as the Lindsay Clancy case or the \"Cornell 7\".",
+  "snippet": "The problem is eventually it'll lose steam and they have to move on to the next outreach. You're already seeing it. Well, now it's the Lindsey Clancy stuff or the Cornell 7 with Candace",
+  "mentions": [
+   "N-3",
+   "N-202"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2257",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "00:13:39",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=819s",
+  "claim": "Rob Noerr says Baron Coleman is laying the groundwork for Charlie Kirk to become a villain, saying that if evidence shows Charlie criticized Candace Owens that would make him a liar, and raising maybe Charlie was a criminal or knew of human trafficking at Turning Point.",
+  "snippet": "you already hear Baron saying, \"Well, if they release evidence that Charlie said things critical of Candace, that would make him a liar.",
+  "mentions": [
+   "N-1",
+   "N-3",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2258",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "00:14:17",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=857s",
+  "claim": "Rob Noerr says Candace Owens' side claims, without evidence, that Erika Kirk, a grieving widow, must be involved, is part of Project Monarch, is a Manchurian candidate and is crying fake tears.",
+  "snippet": "when you start to say here's this person Erica Kirk a grieving widow she must be involved she's involved in project monarch she's a manurion candidate",
+  "mentions": [
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2259",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "00:14:42",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=882s",
+  "claim": "Rob Noerr says that when Andrew Wilson paid $300,000 and asked Candace Owens for her evidence, she backtracked, saying her claim that Erika Kirk should be in jail meant jail in Monopoly and that \"complicit\" meant complicit in thinking Tyler Robinson did it.",
+  "snippet": "Andrew Wilson pays $300,000. Okay, Candace, where's your evidence? And all she does is backtrack. Oh, no. No. When I said she should be in jail, I meant be in jail in in Monopoly.",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-18",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2260",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "00:15:09",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=909s",
+  "claim": "Rob Noerr says people found a picture of a man at UVU they thought looked like his friend Max Pacheco, then looked up other people named Pacheco and claimed they were Max's parents.",
+  "snippet": "Well, now they find a picture of some guy they think looks like Max that was at UVU. Then they're looking up people with the last name Pacheco.",
+  "mentions": [],
+  "mentions_new": [
+   "Max Pacheco"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2261",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "00:15:54",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=954s",
+  "claim": "Rob Noerr says the recent lawsuit against Candace Owens by a private citizen names Owens, her company, George Farmer's company and Jane and John Doe 1 through 10, whom he expects to be the online people who accused the plaintiff.",
+  "snippet": "if you look at the top of that case, it says Candace Owens, her company, George Farmer's company, and then it says Jane and John Doe 1 through 10.",
+  "mentions": [
+   "N-3",
+   "N-30"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2262",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "00:16:08",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=968s",
+  "claim": "Rob Noerr says the plaintiff, Robbie Hill, a young man who went to a rally, was accused of connections to Russia or the Azov Battalion, had to move, and his life is in tatters.",
+  "snippet": "Robbie Hill, that's the name. They were they were accusing this dude like they're just asking questions but they're like maybe he has connections to Russia or the AOV battalion",
+  "mentions": [],
+  "mentions_new": [
+   "Robbie Hill"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2263",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:17:09",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=1029s",
+  "claim": "Gary Melton says that two weeks earlier people circulated pictures of a woman in the UVU crowd, claiming she was his wife and that they were involved, though she looks nothing like his wife.",
+  "snippet": "And I two weeks ago they were passing around pictures of my wife saying that she was in the crowd at UVU and we were involved further",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2264",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Uncle Tom",
+  "speaker_node": null,
+  "timestamp": "00:20:42",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=1242s",
+  "claim": "In the X Space audio played on the show, Uncle Tom says he did not raise the \"quintillion\" DNA figure in the debate because there is no proof of it.",
+  "snippet": "Yeah, but what about quintilian the DNA and the quintilian whatever. And so, um, because he has no proof of that. There is no proof of that.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2265",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:42:31",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=2551s",
+  "claim": "Gary Melton says he does not say Tyler Robinson is guilty, but that all the evidence points to him, and he would switch his stance if given evidence of someone else.",
+  "snippet": "What I say is that all the evidence points to he's the one that did it. And what I've also said time and time again is provide me evidence of somebody else",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2266",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:48:00",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=2880s",
+  "claim": "Gary Melton says people on the other side, including Kelly Raybond and Elizabeth Lane, released information about contracts he has.",
+  "snippet": "people people on your side, Kelly Raybond, uh, Elizabeth Lane, and many people, many other people have released information about contracts that I have and put it all over",
+  "mentions": [
+   "N-6"
+  ],
+  "mentions_new": [
+   "Kelly Raybond"
+  ],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2267",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Rob Noerr",
+  "speaker_node": null,
+  "timestamp": "01:02:03",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=3723s",
+  "claim": "Rob Noerr says Candace Owens may suggest Erika Kirk is somehow involved, but when she finally debated and was asked for her evidence she backtracked (\"jail\" meant Monopoly, \"complicit\" meant thinking Tyler did it), which is accusing someone of a crime without evidence.",
+  "snippet": "So, I'm not saying, for example, that Candace Owens can't suggest that Erica Kirk is involved somehow, fine. But when she gets the chance to finally be in a debate and present her evidence and she backtracks",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2268",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Max Pacheco",
+  "speaker_node": null,
+  "timestamp": "01:07:29",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=4049s",
+  "claim": "In the X Space audio played on the show, Max says Uncle Tom apologized over DMs that people were saying Max was at UVU on September 10, but then justified people digging into his personal life as a result of high-profile assassinations.",
+  "snippet": "you said that people digging into my personal life was just a result of high-profile assassinations. You justified after deming how sorry you were that people were saying that I was at UV on September.",
+  "mentions": [],
+  "mentions_new": [
+   "Uncle Tom"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2269",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Uncle Tom",
+  "speaker_node": null,
+  "timestamp": "01:11:32",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=4292s",
+  "claim": "In the X Space audio played on the show, Uncle Tom says he has verifiable evidence that private citizens are being doxed at large scale by people presenting themselves as \"fed sloppers\", who may be paid to do it.",
+  "snippet": "what I'm telling you is we have verifiable proof evidence uh that uh at a large scale private citizens are being doxed uh by people proposing that they're fed sloppers.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2270",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Max Pacheco",
+  "speaker_node": null,
+  "timestamp": "01:17:16",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=4636s",
+  "claim": "In the X Space audio played on the show, Max says he was not at the UVU event and had nothing to do with Turning Point the previous year or with anything surrounding the assassination.",
+  "snippet": "It doesn't apply to me because I wasn't there. I had nothing to do with Turning Point last year. I had nothing to do with anything surrounding assassination.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2271",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Joah",
+  "speaker_node": null,
+  "timestamp": "01:22:45",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=4965s",
+  "claim": "In the X Space audio played on the show, Joah says Tyler Robinson, on trial, is still innocent, and accuses Rob Noerr of trying to convince the world he is guilty because he worries the Republican party is being broken up.",
+  "snippet": "This guy who's on trial at the moment is still innocent. You're trying to convince the world that he's innocent, guilty, because you're worried that the Republican party is being broken up.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [
+   "Rob Noerr"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2272",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Uncle Tom",
+  "speaker_node": null,
+  "timestamp": "01:26:14",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5174s",
+  "claim": "In the X Space audio played on the show, Uncle Tom says paid operatives are going to dox private citizens in a coordinated way through large group chats, and no truther group chat has been exposed.",
+  "snippet": "there's like a paid initiative operatives that are 100% going to dox private citizens in a coordinated fashion. They obviously um they're in group chats, large group chats.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2273",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:27:08",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5228s",
+  "claim": "Gary Melton says Uncle Tom's claim that there are no truther group chats is false: there are Discord and group chats, and people send him material from them.",
+  "snippet": "There's plenty of There's Discord chats. There's group chats. You're a liar. I have evidence of this. I have I have people sending me stuff from those group chats.",
+  "mentions": [],
+  "mentions_new": [
+   "Uncle Tom"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2274",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:30:05",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5405s",
+  "claim": "Gary Melton says he has seen Candace Owens dox a witness in the trial and go after her uncle, and dox multiple non-public people attached to TPUSA, and that she is being sued over doxing.",
+  "snippet": "I've seen Candace Owens dox a freaking uh uh a witness in the trial go after her uncle. I've seen her dox multiple people that are attached to TP USA that are not public personas",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2275",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Veil (The Veiled Reckoning)",
+  "speaker_node": null,
+  "timestamp": "01:31:29",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5489s",
+  "claim": "In the X Space audio played on the show, Veil (The Veiled Reckoning) says she was doxed by Sean Campbell and that when she tagged Gary Melton about it he replied \"lmao\".",
+  "snippet": "The context of the post was that I got doxed by Sean Campbell.",
+  "mentions": [
+   "N-614"
+  ],
+  "mentions_new": [
+   "Sean Campbell"
+  ],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2276",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:33:49",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5629s",
+  "claim": "Gary Melton says Baron Coleman doxed his producer, a domestic-violence survivor with restraining orders, used a 13-year-old post to indirectly accuse her of hiring a hitman, and tied her to the Epstein files.",
+  "snippet": "he doxed my my producer who is a domestic violence uh uh survivor who has multiple restraining orders on people. Then he went out and got a 13-year-old post, accused her indirectly of hiring a hitman",
+  "mentions": [
+   "N-9",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2277",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:38:28",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5908s",
+  "claim": "In the X Space audio played on the show, Baron Coleman disputes that he doxed Gary Melton's producer Jen, saying he found her name when he pulled up her LinkedIn, which listed her as \"Jen the producer\".",
+  "snippet": "Did you see where I pulled up her LinkedIn and it said Jen the producer?",
+  "mentions": [
+   "N-614"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2278",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:43:28",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=6208s",
+  "claim": "Gary Melton says Baron Coleman claimed his producer Jen is connected to Epstein because of a 2018 SHOT Show photo with the founder of SEAL Team 6, and accused her of stolen valor though the nickname \"GI Jen\" came from her military-advocacy podcast.",
+  "snippet": "she took a picture with this guy and then in 2018 and now Baron Coleman in 2026 is saying that she is connected to Epstein through him because of a picture at Shot Show with this guy.",
+  "mentions": [
+   "N-9",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2279",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Jen (Gary Melton's producer)",
+  "speaker_node": null,
+  "timestamp": "01:47:26",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=6446s",
+  "claim": "In the X Space audio played on the show, Jen tells Baron Coleman he read on his show that she was a domestic-violence survivor, kept making false claims, and painted her in a way that led his audience to go after her.",
+  "snippet": "you read on your show that I was a survivor of domestic violence and you continued throughout your podcast making false claims",
+  "mentions": [
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2280",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:54:06",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=6846s",
+  "claim": "Gary Melton says Baron Coleman is on a sworn affidavit admitting he created a whisper campaign to prejudice a jury, and had to file a corrected affidavit after his own partner testified against him.",
+  "snippet": "He is on a sworn affidavit saying that he created a whisper campaign to prejudice a jury of the witch that he lied about before.",
+  "mentions": [
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2281",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:55:02",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=6902s",
+  "claim": "Gary Melton says Baron Coleman used Google Trends to claim Paramount Tactical was searched in Israel in June 2025, and that Gary could not reproduce any of those searches because Google Trends adds random noise.",
+  "snippet": "when he's going on there and pulling up Google Trends about Paramount Tactical that I was searched in Israel.",
+  "mentions": [
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2282",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:59:18",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=7158s",
+  "claim": "Gary Melton says he thinks narratives that Charlie Kirk was killed by his own government are heavily boosted by foreign bot farms, making their views largely artificial.",
+  "snippet": "I think if you put out a certain message that's anti-semitic that is divisive on the right that's saying that Charlie Kirk was killed by his own government or whatever else you are going to get views",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2283",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:11:43",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=7903s",
+  "claim": "Gary Melton says he rejects a viewer's claim that Baron Coleman is paid by the Russian government until evidence is shown, but that there is a lot of Russian influence exploiting Charlie Kirk's death.",
+  "snippet": "there's definitely a lot of Russian influences taking place in this country when it comes to utilizing hijacking and exploiting the death of Charlie Kirk.",
+  "mentions": [
+   "N-1",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2284",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Kimberly",
+  "speaker_node": null,
+  "timestamp": "02:12:48",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=7968s",
+  "claim": "Kimberly says the commentator Muppet has taken about 300 people from the UVU videos, found their names, matched them to their pictures and posted them on his Facebook.",
+  "snippet": "300 I think people so far he's taken from the UBU videos and found their names and connected their names with their picture and post him on his Facebook.",
+  "mentions": [],
+  "mentions_new": [
+   "Muppet (Muppet Master)"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2285",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:14:29",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8069s",
+  "claim": "Gary Melton says Muppet finds UVU attendees in crowd pictures, runs them through databases and facial recognition and posts their information, and that he may have called this terrorist behavior.",
+  "snippet": "He puts them across databases, facial recognition, finds these people, posts their information all over the place.",
+  "mentions": [],
+  "mentions_new": [
+   "Muppet (Muppet Master)"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2286",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:15:16",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8116s",
+  "claim": "Gary Melton says Candace Owens has painted a target on everyone at the event, even college students in maroon shirts, who have been investigated, background-checked and run through facial recognition.",
+  "snippet": "Candace is has painted the target on every person, even young kids that are in college that have a maroon shirt.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2287",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:15:31",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8131s",
+  "claim": "Gary Melton says there is no evidence that anyone other than Tyler Robinson was involved, and he would pivot if given such evidence.",
+  "snippet": "can't come to grips with the fact that there's no evidence that anyone other than Tyler Robinson and I'll happily explore that.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2288",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:18:27",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8307s",
+  "claim": "Gary Melton says Tyler Robinson's text messages are not hearsay, contrary to what the other side keeps saying.",
+  "snippet": "These people are still saying that the text messages from Tyler Robinson are hearsay. are not hearsay. The text messages, Tyler Robinson's text messages are not hearsay.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2289",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:18:48",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8328s",
+  "claim": "Gary Melton says the text messages, once verified, plus the fact that Tyler Robinson's parents turned him in and will testify, are enough to convict him even without video or DNA.",
+  "snippet": "What you need is the text messages, which will be verified as true. And then what you need is the fact that the parents turned them in, and they will end up testifying.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2290",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:19:05",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8345s",
+  "claim": "Gary Melton says the recovered rifle matches the projectile found in Charlie Kirk and has Tyler Robinson's DNA on it, and Robinson's DNA is also on a screwdriver (later in the show he says the round is not a direct match to the rifle).",
+  "snippet": "We have a weapon. It matches with the projectile that was found in Charlie Kirk. What a coinky dink. Corroborating evidence. And then we have Tyler Robinson's DNA on that.",
+  "mentions": [
+   "N-1",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2291",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:19:38",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8378s",
+  "claim": "Gary Melton says it is known that Tyler Robinson went into the Sorensen building and ate at the Chick-fil-A, where cameras will show him, and license-plate readers will place his car around campus.",
+  "snippet": "when you go into the Sorenson building, we know that he went in there and ate at the Chick-fil-A. Folks, there's cameras all over the place.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2292",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:20:11",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8411s",
+  "claim": "Gary Melton says Tyler Robinson stated in a text message \"If I can get my rifle, I will have left no evidence\" and then tried to get back to the rifle, which had already been found.",
+  "snippet": "He is so stupid that he actually stated in a text message, \"If I can get my rifle, I will have left no evidence.\"",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2293",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:20:41",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8441s",
+  "claim": "Gary Melton says Lance Twiggs' evidence at the preliminary hearing was hearsay only because he was not there to be cross-examined, and Twiggs will give the same testimony in person at trial, so it will be admissible.",
+  "snippet": "It was it was hearsay because he wasn't there and the defense wasn't able to um uh wasn't wasn't able to uh oh god uh cross-examine him. Right. But he's going to have that exact same testimony in person.",
+  "mentions": [
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2294",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:24:00",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8640s",
+  "claim": "Gary Melton says the targeting of Erika Kirk should be the largest case of stochastic terrorism ever, since she took over for Charlie Kirk and millions now believe she killed her husband and is a child trafficker.",
+  "snippet": "I've said this about Erica Kirk like this should be the largest case of stochastic terrorism that we've ever seen because we already know that Erica Kirk is a great risk because she took over for Charlie Kirk.",
+  "mentions": [
+   "N-1",
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2295",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:29:09",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8949s",
+  "claim": "Gary Melton says Ian Carroll and Valhalla pushed the false claim that the pictured rifle was a stock photo rather than an evidence photo; he agrees the rifle's look is explained by sporterizing old military rifles.",
+  "snippet": "this is you know uh Ian Carol and Valhalla they were pushing this thing that it was the stock it was a stock uh photo and it wasn't an evidence photo which was absolutely bonkers",
+  "mentions": [
+   "N-130"
+  ],
+  "mentions_new": [
+   "Valhalla"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2296",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Meat Hands",
+  "speaker_node": null,
+  "timestamp": "02:30:43",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9043s",
+  "claim": "Meat Hands says there are military reports of .50 BMG anti-materiel rounds stopping in a body, and reports of .30-06 rounds not passing through a body at various distances, so claims the shot should have passed through or decapitated Charlie Kirk are false.",
+  "snippet": "Real quick, Google, has there ever been a report of 30 odd six not passing through a body? Yes.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2297",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:32:16",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9136s",
+  "claim": "Gary Melton says backyard ballistics tests with meat cannot replicate the shot on Charlie Kirk from 138 yards given the bullet and rifle variables, and the exact impact point is not even known.",
+  "snippet": "And then you think that every time that you shot that round from 138 yards, it would hit in the exact same place that it hit Charlie",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2298",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:34:11",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9251s",
+  "claim": "Gary Melton mocks the claim that the person on the rooftop used military movements, showing a side-by-side of a soldier and a baby doing the same lateral crawl.",
+  "snippet": "Do want to show you uh side by side so you can actually see a real military man do that um um alongside this person on the rooftop.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2299",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:38:17",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9497s",
+  "claim": "Gary Melton says the claim that Tyler Robinson's car had quad exhaust tips (and the fog-light claim) is a frame-rate artifact: when the car pulls away in line with the camera it clearly has single tips, which hoaxers like Diligent Dennison obscure.",
+  "snippet": "the moment that the vehicle starts pulling away in direct line with it, it clearly shows that they are single tipped exhausts, but they don't show that and they obscure that intentionally",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [
+   "Diligent Dennison"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2300",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:38:32",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9512s",
+  "claim": "Gary Melton says the \"penguin receipt\" and the alleged Facebook DMs from Tyler Robinson's father Matt Robinson are hoaxes.",
+  "snippet": "now we're talking about these uh alleged text message or DMs uh on Facebook from um Tyler Robinson's father, Matt Robinson. Like these are all hoaxes",
+  "mentions": [
+   "N-40",
+   "N-775"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2301",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:45:35",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9935s",
+  "claim": "Gary Melton says Andrew Wilson paying $300,000 to debate Candace Owens was what was needed to show outsiders what she is saying, bringing new people into the fight against her.",
+  "snippet": "why would you pay $300,000? I think unfortunately that's exactly what was needed to get the attention and for people to actually see this",
+  "mentions": [
+   "N-3",
+   "N-18"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2302",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:49:28",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10168s",
+  "claim": "Gary Melton says his position is not that it was 100% a .30-06, but that it is far from impossible, given case studies and the .30-06 found in the woods.",
+  "snippet": "I constantly hear Gary, you are saying that 100% that it's a 30 odd six. That's not my position.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2303",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:50:06",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10206s",
+  "claim": "Gary Melton says the recovered round is not a direct match to the rifle but is a .30-caliber round consistent with a .30-06, the ATF report is otherwise inconclusive, and that this proves there was no conspiracy because a faked report would have been conclusive.",
+  "snippet": "It's not a direct match to the rifle, but it's definitely a 30 caliber round that is congruent with it being used with a 300 6. Other than that, that is inconclusive",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2304",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Viva Dave",
+  "speaker_node": null,
+  "timestamp": "02:52:37",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10357s",
+  "claim": "Viva Dave says Alex Jones first said he had shot a pig with a .300 Win Mag and the round did not exit, so a less powerful .30-06 might not exit Charlie Kirk, though Jones later said it was definitely not a .30-06.",
+  "snippet": "I've shot a pig with a 300 Win Mag, which is significantly more powerful than a 306 for those people that aren't gun nuts like Gary and I, right? Uh, and the round did not exit the pig body.",
+  "mentions": [
+   "N-1",
+   "N-93"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2305",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:53:47",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10427s",
+  "claim": "Gary Melton says a man argued to him that the exploding-mic theory was real using a claymore mine analogy, which Gary rejects because of the claymore's back blast.",
+  "snippet": "He was telling me why the exploding mic was real because and then he uses a claymore mine.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2306",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Eternal Abyss",
+  "speaker_node": null,
+  "timestamp": "02:56:44",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10604s",
+  "claim": "Eternal Abyss, who says he has digital-forensics experience, says Candace Owens' claims that metadata could have been changed or edited fail because digital forensic software detects manipulated metadata, images and video.",
+  "snippet": "Yeah, metadata can be manipulated, but guess what? Digital forensic software will detect that.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2307",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:59:34",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10774s",
+  "claim": "Gary Melton says the defense does not have Tyler Robinson's physical phone, which the feds hold, but has had the Cellebrite extraction since March, which shows anything deleted or altered.",
+  "snippet": "They don't have the actual cell phone. The feds still have that. But the defense has actually had the Cellbride extraction since March.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2308",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "03:01:01",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10861s",
+  "claim": "Gary Melton, citing defense attorney Andrea Burkhart, says that if the phone data gave Tyler Robinson an alibi or showed altered texts, the defense would have raised it at the preliminary hearing to defeat probable cause rather than leave him jailed for 18 months.",
+  "snippet": "if Tyler Robinson has an alibi and the defense can present that at the preliminary hearing, guess what? There's no probable cause.",
+  "mentions": [
+   "N-40",
+   "N-749"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2309",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "03:01:47",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10907s",
+  "claim": "Gary Melton says conspiracy promoters are already hedging by implying Tyler Robinson is not declaring his innocence for some reason, and are saying the defense is in on it.",
+  "snippet": "they've implied this already that there's there's some pot some potential that there's a reason that Tyler Robinson is not declaring his own innocence for one reason or another.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2310",
+  "kid": "K-041",
+  "date": "2026-10-16",
+  "speaker": "Savage Leroy",
+  "speaker_node": null,
+  "timestamp": "03:05:08",
+  "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM&t=11108s",
+  "claim": "Savage Leroy describes the theories pushed by figures like Stu Peters and Ian Carroll, a \"Hades\" airplane, generals, Raytheon and the president in a gun-running scheme with Tyler Robinson, as elaborate and easy to pick apart.",
+  "snippet": "we have this whole thing where it's, you know, a Hades airplane in the sky and we have generals involved and Rathon and, you know, the president's in a gun running scheme with Tyler Robinson",
+  "mentions": [
+   "N-40",
+   "N-130"
+  ],
+  "mentions_new": [
+   "Stu Peters"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2311",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:01:30",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=90s",
+  "claim": "Raees Mohamed says the May ruling in the Upchurch case matters for Brian Harpole's case because Candace Owens could argue that Harpole's public-facing security role and later media appearances made him a limited purpose public figure, which would require him to prove actual malice.",
+  "snippet": "Owens could argue that Harpole's public-facing security role and then subsequent media appearances made him a limited purpose public figure",
+  "mentions": [
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [
+   "Ryan Upchurch"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2312",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:02:02",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=122s",
+  "claim": "Raees Mohamed says a federal judge in Tennessee ruled in the Upchurch case that being pulled into a nationally publicized tragedy does not automatically make someone a public figure, and that Candace Owens now faces a defamation suit in a similar jurisdiction on similar facts.",
+  "snippet": "A federal judge in Tennessee basically ruled that being pulled into a nationally published tragedy doesn't automatically make you a public figure.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [
+   "Ryan Upchurch"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2313",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:04:12",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=252s",
+  "claim": "Raees Mohamed says Candace Owens is 'Scooby-Dooing' the case, trying to play investigator, and that he thinks she crossed the line into making factual statements.",
+  "snippet": "She's Scooby-Dooing this whole case trying to play investigator and I I think she did cross the line um making factual statements.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2314",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:04:41",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=281s",
+  "claim": "Gary Melton says Candace Owens was given exculpatory information, essentially an alibi for Brian Harpole, at her meeting with Erika Kirk on December 14th or 15th.",
+  "snippet": "Candace was given exculpatory information essentially, given an alibi. Uh uh with her meeting with Erica Kirk on December 14th or 15th, I forget which day it was.",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2315",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:05:15",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=315s",
+  "claim": "Gary Melton says that at the meeting Erika Kirk told Candace Owens that Brian Harpole sounded like he was talking about suing her over the Fort Huachuca episode, and that on December 18th or 19th Owens aired another episode with Mitch Snow that restated all the original claims and added some.",
+  "snippet": "on December 18th or 19th uh she airs another episode with uh Mitch Snow that basically restates all the original claims and and then some additional ones.",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-266",
+   "N-361"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2316",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:05:52",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=352s",
+  "claim": "Raees Mohamed says that, put another way, Candace Owens had knowledge that certain statements she published about Brian Harpole were likely false.",
+  "snippet": "Candace Owens had knowledge that certain statements she published about Brian Harpole were likely false.",
+  "mentions": [
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2317",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:12:45",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=765s",
+  "claim": "Raees Mohamed says he certainly does not think Candace Owens will successfully argue that Robbie Hild, a Utah resident and BYU graduate suing her, is a public figure.",
+  "snippet": "I certainly don't think that she's going to successfully argue that Hild is a is a public figure.",
+  "mentions": [
+   "N-3",
+   "N-942"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2318",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:17:27",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1047s",
+  "claim": "Raees Mohamed says Candace Owens' supporters' argument that only Mitch Snow made the claims will not work: if anything Mitch Snow might have a defense, because the person who says a statement on a show carries the liability.",
+  "snippet": "If you're the publisher like if you said a statement on a show you as the speaker are going to carry liability.",
+  "mentions": [
+   "N-3",
+   "N-361"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2319",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:17:58",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1078s",
+  "claim": "Gary Melton says that at the very beginning of her first Fort Huachuca episode Candace Owens said she did not know how it could lead to anything other than a full confession from the government about its involvement in the Charlie Kirk assassination.",
+  "snippet": "at the very beginning of that first episode she said after today I do not know how this leads to anything other than a full confession from the government",
+  "mentions": [
+   "N-1",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2320",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:19:18",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1158s",
+  "claim": "Gary Melton says Candace Owens' claim that Joe Kent vetted Mitch Snow is misleading: Joe Kent did what Gary would do, and Mitch Snow sent him documents saying he is a Green Beret, which is about the extent of it.",
+  "snippet": "Joe Kent did exactly what I would do. And Mitch Snow sent him some documents that said, \"Hey, he's a Green Beret.\"",
+  "mentions": [
+   "N-3",
+   "N-209",
+   "N-361"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2321",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:21:22",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1282s",
+  "claim": "Gary Melton says that on December 16th or 17th, after her meeting with Erika Kirk, Candace Owens texted Brian Harpole two or three times saying she had heard he was potentially suing her over the Fort Huachuca story.",
+  "snippet": "she started texting Rob Harpole and said, \"Hey, I heard that you were potentially suing me uh over the story at Fort Huachuca.",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2322",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:21:58",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1318s",
+  "claim": "Gary Melton says Candace Owens had Brian Harpole's phone number before the first Fort Huachuca story on December 8th or 9th but never texted him until after she heard he had an alibi and was potentially suing her.",
+  "snippet": "you had his phone number and you never bothered to text him and it wasn't till after after that you heard that he number one had an alibi",
+  "mentions": [
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2323",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:25:24",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1524s",
+  "claim": "Gary Melton says that in her motions to dismiss in the Krone case and the Harpole case Candace Owens responded that she is not a journalist but an entertainer and a commentator on YouTube, even though she calls her show an investigation.",
+  "snippet": "she has responded with I'm not a journalist. I'm just an entertainer and I'm just a commentator on YouTube.",
+  "mentions": [
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [
+   "Krone"
+  ],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2324",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:25:33",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1533s",
+  "claim": "Raees Mohamed says Candace Owens' inconsistent statements about being an investigator versus an entertainer could be used to impeach her credibility.",
+  "snippet": "The inconsistent statement could be used to impeach her credibility.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2325",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:27:27",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1647s",
+  "claim": "Raees Mohamed says that at a comedy show in Phoenix Dave Chappelle said Candace Owens sent him a video text trying to drum up support.",
+  "snippet": "Dave Chappelle gets on stage and he goes, \"Candace Owens sent him a video text.\" And in the video text said,",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [
+   "Dave Chappelle"
+  ],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2326",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:28:58",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1738s",
+  "claim": "Gary Melton says some of Candace Owens' large-account followers have posted lists of the people they go to for facts on the Charlie Kirk case, with Candace Owens first.",
+  "snippet": "say \"These are the people that I go to for facts on the Charlie Kirk case.\" And you know, like Candace Owens is the first one.",
+  "mentions": [
+   "N-1",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2327",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:29:49",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1789s",
+  "claim": "Gary Melton says the lawsuit against Candace Owens includes many comments from her comment section showing viewers reached the conclusion she wanted.",
+  "snippet": "they actually include a lot of comments from her comment section in the lawsuit.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2328",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:31:34",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1894s",
+  "claim": "Gary Melton says Mitch Snow said there was a 95% to 99% chance he saw Erika Kirk and Brian Harpole, which Gary calls pretty definitive.",
+  "snippet": "He said that it was only a 95% to 99% chance that he saw Erica Kirk and Brian Harpole.",
+  "mentions": [
+   "N-2",
+   "N-266",
+   "N-361"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2329",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:32:10",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=1930s",
+  "claim": "Raees Mohamed says Mitch Snow saying he was 95% to 99% certain is dangerous for him because it sounds like a very strong factual accusation.",
+  "snippet": "saying that you're 95% to 99% certain is actually dangerous. I'll tell you why it's dangerous for for Mitch Snow.",
+  "mentions": [
+   "N-361"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2330",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:33:52",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2032s",
+  "claim": "Gary Melton says Mitch Snow claimed a gift for remembering faces, put his certainty that it was Brian Harpole at 95 to 99%, and gave the same range for recalling Erika Kirk on location.",
+  "snippet": "And then he gave the same range when he was recalling Eric Kirk on location.",
+  "mentions": [
+   "N-2",
+   "N-266",
+   "N-361"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2331",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:39:26",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2366s",
+  "claim": "Gary Melton says Baron Coleman said, almost as a direct quote, that Charlie Kirk was electrocuted, something blew up on his chest, he was dragged off and thrown in a car still alive, his neck was manually broken and a pre-fired bullet was shoved into the hole in his neck, and then called it his opinion.",
+  "snippet": "they they dragged him off, they threw him in a car, uh he was still alive, they manually broke his neck, and then shoved a freaking pre-fired bullet",
+  "mentions": [
+   "N-1",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2332",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:40:13",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2413s",
+  "claim": "Raees Mohamed says that in 16 years of defamation and First Amendment practice he is not aware of a single published case holding that saying 'in my opinion' or 'allegedly' makes a speaker scot-free.",
+  "snippet": "I am not aware of a single case that takes the position that's published, that's authoritative, that says, \"If you just say, in my opinion or allegedly, you are scot-free.\"",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2333",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:41:52",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2512s",
+  "claim": "Gary Melton says Baron Coleman is a lawyer barred in multiple states and, in his opinion, more vicious, malicious and predatory than Candace Owens.",
+  "snippet": "This is uh Baron Coleman. He was a he's is a lawyer, he's a barred lawyer in multiple states.",
+  "mentions": [
+   "N-3",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2334",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:42:31",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2551s",
+  "claim": "In a clip played on the show, Baron Coleman says that if Charlie Kirk supposedly died at the scene, as Frank Turek and Brian Harpole described, they could have folded him up and closed the door, and asks why they risked someone falling out of the car at highway speeds.",
+  "snippet": "If he supposedly died at the scene just fold him up and close the door. Why are you risking someone falling out of the car at highway speeds?",
+  "mentions": [
+   "N-1",
+   "N-7",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2335",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:42:58",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2578s",
+  "claim": "Gary Melton says Brian Harpole said that when he saw Charlie Kirk he thought he was dead, but the team still did everything they could to try to save his life.",
+  "snippet": "Brian Harpole said, \"Look, when I saw Charlie I thought he was dead.\" But of course they're still going to do everything they can",
+  "mentions": [
+   "N-1",
+   "N-266",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2336",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:43:19",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2599s",
+  "claim": "In a clip played on the show, Baron Coleman says there were three police reports during the 12-minute drive of someone hanging out of the car that police thought was a victim.",
+  "snippet": "12 minutes and you got multiple three police reports of someone hanging out of the car and they think it's a victim.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2337",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:44:07",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2647s",
+  "claim": "In a clip played on the show, Baron Coleman says Brian Harpole on the Shawn Ryan show and Frank Turek on the Megyn Kelly show described holding each other in the car with the door open, and that this sounds to him like they were setting up a story to pre-empt people discovering the 911 calls.",
+  "snippet": "No, that sounds to me like you guys were setting up a story that you knew we would eventually trip over these calls and you guys wanted to um pre-empt.",
+  "mentions": [
+   "N-7",
+   "N-46",
+   "N-224",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2338",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:44:43",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2683s",
+  "claim": "In a clip played on the show, Baron Coleman says the movement of Charlie Kirk's t-shirt is inconsistent with a gunshot to the neck and that the way his hands gripped the microphone looks to him like he was electrocuted.",
+  "snippet": "Um his hands, the way they grip the microphone, um looks to me like he got electrocuted.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2339",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:45:40",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2740s",
+  "claim": "Gary Melton says Baron Coleman's claim of an electromagnetic pull on Charlie Kirk's ring is false because a body does not generate an electromagnetic field when electrocuted, and the ring is probably non-ferrous.",
+  "snippet": "Folks, your body doesn't generate an electromagnetic field, especially with a ring, which is probably non-ferrous to begin with,",
+  "mentions": [
+   "N-1",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2340",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:46:09",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2769s",
+  "claim": "In a clip played on the show, Baron Coleman says a medical report shows Charlie Kirk had a broken series of vertebrae from C1 or C2 down to C7 or T1, plus wounds on his arm resembling a taser or puncture wound.",
+  "snippet": "then you have this this medical report of a broken series of vertebrae from the C1 or 2 all the way down to the C7 or T1.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2341",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:46:30",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2790s",
+  "claim": "In a clip played on the show, Baron Coleman says his working hypothesis is that Charlie Kirk was attacked several ways and his neck was then broken in the car, with a 0% chance he left Orem, Utah alive.",
+  "snippet": "and then we're going to break his neck in the car and he's not walking out of this alive. There's a 0% chance he leaves Orm Utah alive",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2342",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:47:07",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2827s",
+  "claim": "In a clip played on the show, Baron Coleman says what police described on the way to the hospital sounds to him like a man fighting back and struggling.",
+  "snippet": "what the police are describing on the way to the hospital is a guy fighting back. A guy a a guy struggling is what it sounds like to me.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2343",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:47:33",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2853s",
+  "claim": "Gary Melton says that in a different episode Baron Coleman said he believes the security team pre-fired a round, pulled it from a pocket and stuffed it into the wound, while calling it his theory or opinion.",
+  "snippet": "He says he believes that the security team pre-fired a round pulled it out of his pocket and stuffed it into the wound",
+  "mentions": [
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2344",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:49:18",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2958s",
+  "claim": "Gary Melton says Baron Coleman sent him a text threatening to sue him.",
+  "snippet": "he's also he's also sent me a text threatening to sue me and a couple of other things.",
+  "mentions": [
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2345",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:49:50",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=2990s",
+  "claim": "Raees Mohamed says the obvious alternative explanation for what Baron Coleman described is that in a life-threatening emergency the security team prioritized reaching the hospital and continuing first aid.",
+  "snippet": "in a life-threatening emergency, the security team might have prioritized, oh, I don't know, reaching the hospital and continuing first aid",
+  "mentions": [
+   "N-1",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2346",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:51:51",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3111s",
+  "claim": "Gary Melton says Charlie Kirk was murdered around 12:23 and by about noon the next day was on the tarmac being loaded onto Air Force One, and that Baron Coleman argued no proper autopsy could have been done in that time.",
+  "snippet": "So by the next day around noon, he is now on the tarmac being loaded up uh by Air Force One.",
+  "mentions": [
+   "N-1",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2347",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:52:34",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3154s",
+  "claim": "Gary Melton says Baron Coleman pushed the autopsy narrative for over 10 months while getting about 500,000 views per episode, and that several pathologists reached out to him to debunk it.",
+  "snippet": "Well, he pushes this for over 10 months. Over 10 months this guy had gets 500,000 views per episode.",
+  "mentions": [
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2348",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:53:28",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3208s",
+  "claim": "Gary Melton says forensic pathologist Joseph Scott Morgan told Baron Coleman an autopsy for one gunshot wound takes 2 to 4 hours and it was plausible to have Charlie Kirk on the tarmac 12 or 13 hours later.",
+  "snippet": "Do you think it's plausible that they have him on the tarmac the next day 12 hours 13 hours later?\" He's like, \"Yeah, no problem.\"",
+  "mentions": [
+   "N-1",
+   "N-330"
+  ],
+  "mentions_new": [
+   "Joseph Scott Morgan"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2349",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:54:59",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3299s",
+  "claim": "Gary Melton says law enforcement and a fire truck followed the SUV carrying Charlie Kirk with a door open at about 60 mph, and police talked about it on the radio.",
+  "snippet": "these like law enforcement and also a fire truck ends up following them cuz they load them up in the SUV.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2350",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:55:32",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3332s",
+  "claim": "Gary Melton says Baron Coleman's ultimate claim is that Charlie Kirk was still alive and the security team was finishing him off inside the car.",
+  "snippet": "what really he's saying is this is a man that's fighting for his life cuz his ultimately what he says is that Charlie Kirk is still alive and they're finishing him off inside the car.",
+  "mentions": [
+   "N-1",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2351",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:56:05",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3365s",
+  "claim": "Raees Mohamed says that, per Brian Harpole's first-hand account on the Shawn Ryan show, Charlie Kirk's height and positioning prevented the SUV's rear door from closing.",
+  "snippet": "According to his account, Kirk's height and positioning prevented the SUV's rear door from closing.",
+  "mentions": [
+   "N-1",
+   "N-224",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2352",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:56:18",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3378s",
+  "claim": "Raees Mohamed says Brian Harpole also said the driver left immediately while another security operator held onto Harpole so he would not fall out as he gave Charlie Kirk first aid.",
+  "snippet": "Harpole also said that the driver immediately departed. He left right away. It was an emergency. While another security operator held onto Harpole to prevent him from falling out",
+  "mentions": [
+   "N-1",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2353",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "00:58:48",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3528s",
+  "claim": "Raees Mohamed says the claim in the Baron Coleman clip that Brian Harpole and Frank Turek were setting up a story because they knew the calls would be discovered implies knowledge, foresight and coordination and is a great candidate for a defamation lawsuit.",
+  "snippet": "That implies knowledge and foresight and coordination. That to me is a great candidate for a defamation lawsuit.",
+  "mentions": [
+   "N-7",
+   "N-266",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2354",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:00:12",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3612s",
+  "claim": "Gary Melton says he can show hundreds of clips implying the assassination was planned, coordinated and known by everybody on Charlie Kirk's security team, with further implications that TPUSA and Israel were involved.",
+  "snippet": "the overall implication is that this was planned, coordinated, and known by everybody on on Charlie Kirk's security team. It's further implied that TPUSA was involved,",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2355",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:02:29",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3749s",
+  "claim": "Gary Melton says he has yet to see any legitimate evidence that anyone other than Tyler Robinson was involved.",
+  "snippet": "I have yet to see any sort of legitimate evidence whatsoever that anyone else was involved.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2356",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:04:39",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=3879s",
+  "claim": "Raees Mohamed says the judge in the Tyler Robinson criminal case is excellent and has made exceptional rulings.",
+  "snippet": "I do not view the Tyler Robinson criminal trial, which by the way the judge is excellent, exceptional, has made exceptional rulings in that case,",
+  "mentions": [
+   "N-40",
+   "N-135"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2357",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:08:29",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4109s",
+  "claim": "Gary Melton says Tyler Robinson's text and Discord messages contain essentially 11 confessions, plus other recorded statements such as 'you'll be able to see me in security footage, UVU'.",
+  "snippet": "these text messages there's essentially 11 confessions uh that's included in those text messages and or Discord messages.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2358",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:09:37",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4177s",
+  "claim": "Gary Melton says the text messages were handed over to the defense in March.",
+  "snippet": "And and they were handed over and those were actually handed over to the defense in March.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2359",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:10:16",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4216s",
+  "claim": "Raees Mohamed says Judge Graf has ruled that prosecutors presented enough evidence to proceed on all seven counts, and the text messages were central to that ruling.",
+  "snippet": "Judge Graph has ruled already that prosecutors presented enough evidence to proceed on all seven counts, right?",
+  "mentions": [
+   "N-40",
+   "N-135"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2360",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:10:28",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4228s",
+  "claim": "Raees Mohamed says that according to testimony Lance Twiggs asked Tyler Robinson whether he was the one who did it, and prosecutors said Robinson answered that he was.",
+  "snippet": "according to testimony, Twiggs asked Robinson whether he was the one who did it, right?",
+  "mentions": [
+   "N-40",
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2361",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:10:46",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4246s",
+  "claim": "Raees Mohamed says that, according to investigators, Tyler Robinson allegedly posted in a Discord chat room that it was him at UVU, about an hour before turning himself in.",
+  "snippet": "I think Tyler Robinson allegedly posted in Discord chat room that it was him at UVU according to investigators.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2362",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:10:55",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4255s",
+  "claim": "Raees Mohamed says the roommate allegedly gave the text messages to investigators himself, which matters for the fabrication theory.",
+  "snippet": "the roommate allegedly provided the text messages to investigators himself, which matters for the fabrication theory.",
+  "mentions": [
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2363",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:11:44",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4304s",
+  "claim": "Raees Mohamed says Lance Twiggs' phone came from a civilian, not an evidence locker, so any fake messages would have had to be planted consistently on both his and Robinson's phones.",
+  "snippet": "So, Twig's phone came from a civilian, not out of an evidence locker. So, the fake would have to have been planted on his phone and Robinson's phone consistently.",
+  "mentions": [
+   "N-40",
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2364",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:13:35",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4415s",
+  "claim": "Raees Mohamed says authorities say DNA consistent with Tyler Robinson's was found on the trigger, the fired casings, two unfired cartridges and the towel around the rifle.",
+  "snippet": "authorities say DNA consistent with Robinson's was found on the trigger, the fired casings, two unfired cartridges, and the towel around the rifle.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2365",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:14:38",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4478s",
+  "claim": "Raees Mohamed says the government may have altered evidence in past cases but he does not think this is one of those situations.",
+  "snippet": "The government may have done those things in the past. I mean, there there's cases I'm sure we could think of. Uh I don't think this is one one those situations.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2366",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:15:00",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4500s",
+  "claim": "Gary Melton says defense lawyer Andrea Burkhart said fabricated texts would be a defense lawyer's dream and would be front and center at the preliminary hearing.",
+  "snippet": "this would be a defense lawyer's dream that we have the government or the state or whomever fabricating this evidence.",
+  "mentions": [
+   "N-749"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2367",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:15:21",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4521s",
+  "claim": "Gary Melton says the defense called two witnesses at the preliminary hearing, the ATF ballistics expert and the DNA expert.",
+  "snippet": "They called the ATF ballistics expert and actually called the DNA expert up there.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2368",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:17:25",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4645s",
+  "claim": "Raees Mohamed says, citing a commentator, that the FBI examiner put the towel at roughly 95% Robinson and 5% Twiggs, and gives an 89% and 11% split for the screwdriver.",
+  "snippet": "One commentator noted the FBI examiner put the towel at roughly 95% Robinson and 5% Twiggs.",
+  "mentions": [
+   "N-40",
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2369",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:19:14",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4754s",
+  "claim": "Gary Melton says phone location data will show the device messaging from UVU while the other device was about 3 and a half hours away in Washington County, Utah.",
+  "snippet": "this device that was messaging this device that was 3 and 1/2 hours away was at this location at UVU,",
+  "mentions": [
+   "N-40",
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2370",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:21:10",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4870s",
+  "claim": "Gary Melton says Baron Coleman has repeated Candace Owens' claims and added a technical layer of investigation on top, which could make him an easier defamation target.",
+  "snippet": "Baron Coleman has spent most of the time not only parodying exactly what she said, but adding a technical layer of investigat- investigation on top of that.",
+  "mentions": [
+   "N-3",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2371",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:21:45",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=4905s",
+  "claim": "Gary Melton says that if TPUSA and Erika Kirk sue Candace Owens he would be shocked if people like Baron Coleman were not included.",
+  "snippet": "if and when if TPUSA and Erica Kirk end up launching a lawsuit against Candace Owens, I would be shocked if other people like Baron Coleman weren't included.",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2372",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:23:29",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5009s",
+  "claim": "Raees Mohamed says Candace Owens has called Brian Harpole a murderer and a conspirator and said it was all a plan, so liability could be an eight-figure verdict.",
+  "snippet": "In the case of Bryan Harpole, Candace Owens has actually called him a murderer, a conspirator. That this was all a plan.",
+  "mentions": [
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2373",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:23:57",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5037s",
+  "claim": "Raees Mohamed says Brian Harpole's case is in the Middle District of Tennessee, in federal district court on diversity.",
+  "snippet": "The case is in the Middle District of Tennessee, right? Based on diversity in the District Court.",
+  "mentions": [
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2374",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:25:00",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5100s",
+  "claim": "Raees Mohamed says Brian Harpole's case could produce a 10 to 20 million dollar plus jury verdict.",
+  "snippet": "So, this could be a 10 million 20 million plus jury verdict, you know?",
+  "mentions": [
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2375",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:25:31",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5131s",
+  "claim": "Gary Melton says Brian Harpole, his family and his kids have received death threats.",
+  "snippet": "I know he's him and his family, his kids, and everybody else have received death threats.",
+  "mentions": [
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2376",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Raees Mohamed",
+  "speaker_node": null,
+  "timestamp": "01:27:08",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5228s",
+  "claim": "Raees Mohamed says he thinks the defamation cases against Candace Owens are at least a year away from any settlement.",
+  "snippet": "I think we're at least a year away from any sort of settlement.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2377",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:30:10",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5410s",
+  "claim": "Gary Melton says people on TPUSA's radar who received cease-and-desist letters, including Wolves and Finance, are continuing rather than ceasing.",
+  "snippet": "all these people that are on the radar of TPUSA and have received cease and desists um and yet more or less continue they're not they're not ceasing or desisting.",
+  "mentions": [
+   "N-472"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2378",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:34:17",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5657s",
+  "claim": "Gary Melton says criticism of Erika Kirk and TPUSA was mild until the December 8th Fort Huachuca episode, after which Brian Harpole was defamed and Candace Owens ramped up against Erika Kirk, who was named in the conspiracy in the December 18th or 19th episode.",
+  "snippet": "it was after the December 8th Fort Huachuca episode that obviously Bryan Harrell was defamed and then she really ramped things up against Erica Kirk.",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2379",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:34:54",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5694s",
+  "claim": "Gary Melton says he expects a lawsuit around December 8th that ties the December 8th episode to the December 18th or 19th episode.",
+  "snippet": "So, I think December 8th I would expect to see a lawsuit drop because they're going to tie that December 8th episode in with the December 18th or 19th episode",
+  "mentions": [
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2380",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:37:08",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5828s",
+  "claim": "Gary Melton says Baron Coleman's narrative that Tyler Robinson was in custody at 6:25 p.m. on September 11th is demonstrably false.",
+  "snippet": "this narrative that he's created that Tyler Robinson was actually in custody at 6:25 p.m. on September 11th. It's demonstrably false.",
+  "mentions": [
+   "N-40",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2381",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:37:26",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5846s",
+  "claim": "Gary Melton says Baron Coleman's motive is to convince his audience that a multi-agency conspiracy fabricated Tyler Robinson's Discord confession sent at 7:57 p.m.",
+  "snippet": "there's a larger multi-agency conspiracy that fabricated the Discord message, the Discord confession, that went out at 7:57 p.m.",
+  "mentions": [
+   "N-40",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2382",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:38:15",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5895s",
+  "claim": "In a clip played on the show, Baron Coleman says the official narrative is that Tyler Robinson turned himself in at the Washington County Sheriff's office at 9:00 p.m., that he does not know if he did or not, and that people wrongly say he claims with certainty that he didn't.",
+  "snippet": "That's when Tyler Robinson allegedly turned himself in. I don't know if he did or not. A lot of people say I claim or I state with certainty that he didn't.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2383",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:38:47",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5927s",
+  "claim": "In a clip played on the show, Gary Melton says Baron Coleman posted on April 8th that Tyler Robinson was in custody at 6:25 p.m. Utah time on September 11th, 2025, and that anyone saying otherwise was 'fed slop'.",
+  "snippet": "Tyler Robinson was in custody at 6:25 p.m. Utah time on September 11th, 2025.\" That seems like quite a bit of certainty there.",
+  "mentions": [
+   "N-40",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2384",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:39:16",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5956s",
+  "claim": "In a clip played on the show, Gary Melton says Baron Coleman posted on May 11th that he had confirmed Tyler Robinson was in custody at the Washington County Sheriff's Office at 6:50 on September 11th, 2025.",
+  "snippet": "Tyler Robinson was, also in all caps, in custody at the Washington County Sheriff's Office at 6:50 on September 11th, 2025.",
+  "mentions": [
+   "N-40",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2385",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:39:55",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=5995s",
+  "claim": "In a clip played on the show, Gary Melton says court documents before the preliminary hearing showed Tyler Robinson was in custody after 9:00 p.m., and the arrest affidavit says he was not officially arrested until 4:00 a.m.",
+  "snippet": "Even the arrest affidavit said he wasn't in custody or officially arrested till 04:00 a.m.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2386",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:40:20",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6020s",
+  "claim": "In a clip played on the show, Gary Melton says Baron Coleman posted on June 27th that if Tyler Robinson was Mirandized at 6:25 p.m. on 9/11 it means a multi-agency cover-up at the highest levels of government.",
+  "snippet": "If he was Mirandized at 6:25 p.m. on 9/11, it means a multi-agency cover-up involving the very highest levels of government.\"",
+  "mentions": [
+   "N-40",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2387",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:42:44",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6164s",
+  "claim": "In a clip played on the show, Gary Melton says Tyler Robinson's official arrest was at 4:00 a.m. on September 12th and multiple testimonies and court documents confirm the attempted interrogation was at 6:25 p.m. on the 12th.",
+  "snippet": "We have multiple testimonies and court documents confirming the attempted interrogation wasn't until 6:25 p.m. on the 12th.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2388",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:43:23",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6203s",
+  "claim": "In a clip played on the show, Gary Melton says Baron Coleman's narrative started from page 20 of the motion to exclude cameras, which says that on the evening of his arrest Tyler Robinson declined to be interviewed without an attorney, and that the evening of his arrest was September 12th.",
+  "snippet": "Page 20 indicates that on the evening of his arrest, Tyler Robinson declined to be interviewed without having an attorney present.",
+  "mentions": [
+   "N-40",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2389",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:44:16",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6256s",
+  "claim": "In a clip played on the show, per an article Gary Melton shows, a Washington County deputy attorney said the evening of Robinson's arrest was September 12th because he was never arrested in Washington County but nearly 4 hours north in Provo.",
+  "snippet": "the alleged assassin was never actually arrested in Washington County, but nearly 4 hours north in Provo.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2390",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:44:33",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6273s",
+  "claim": "In a clip played on the show, Gary Melton says Sheriff Nate Brooksby's original press conference showed Tyler Robinson was not in custody until after 9:00 p.m.",
+  "snippet": "we have more evidence going all the way back to Sheriff Brookesby's original press conference that he wasn't in custody until after 9:00 p.m.,",
+  "mentions": [
+   "N-40",
+   "N-272"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2391",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Brian Davis",
+  "speaker_node": "N-786",
+  "timestamp": "01:45:24",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6324s",
+  "claim": "In a clip of preliminary hearing testimony played on the show, Brian Davis says he was told Tyler Robinson arrived at the Washington County Sheriff's Office about 9:00 p.m. that evening, with his parents and a family friend.",
+  "snippet": "I was told he arrived there about 9:00 p.m.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2392",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "JBC",
+  "speaker_node": null,
+  "timestamp": "01:49:36",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6576s",
+  "claim": "JBC says that on haveibeenflocked.com Tyler Robinson's license plate returned two search results, one in Juab County, Utah (on or about September 12th around 7:30 a.m.) and one in Kennewick, Washington.",
+  "snippet": "people threw in Taylor Robinson's license plate and it returned two results. One in Juab County, Utah and another one in Kennewick, Washington.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2393",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "JBC",
+  "speaker_node": null,
+  "timestamp": "01:50:57",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6657s",
+  "claim": "JBC says haveibeenflocked.com is not an official source and does not search actual Flock systems, but aggregates and redacts FOIA records.",
+  "snippet": "It's not like an official source. They're not searching actual Flock systems. They're taking basically FOIA requests",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2394",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "JBC",
+  "speaker_node": null,
+  "timestamp": "01:53:39",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6819s",
+  "claim": "JBC says the Flock search operator was listed as 'S. Kin', that he did not see an S. Kin in Kennewick PD, and that Kennewick reportedly no longer uses Flock.",
+  "snippet": "I didn't see an S.Kin in Kennewick PD, but this also would have been about a year or so ago,",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2395",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Basic",
+  "speaker_node": null,
+  "timestamp": "01:54:10",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6850s",
+  "claim": "Basic says he called the Kennewick PD and Officer Richardson told him they stopped using the Flock system the summer before Charlie Kirk was killed and use a separate internal system.",
+  "snippet": "I called the Kennewick PD and I spoke with an Officer Richardson, and he basically explained to me that they stopped using the Flock system the summer before Charlie Kirk was killed.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [
+   "Officer Richardson (Kennewick PD)"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2396",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Basic",
+  "speaker_node": null,
+  "timestamp": "01:55:23",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6923s",
+  "claim": "Basic says Sergeant Ken Malone, whom people tried to tie to the 'S. Kin' search log, told him he did not work for Kennewick PD at the time and that they did not use Flock.",
+  "snippet": "He didn't work for Kennewick PD at the time and the same thing. They didn't use Flock and it's not him",
+  "mentions": [],
+  "mentions_new": [
+   "Ken Malone"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2397",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Basic",
+  "speaker_node": null,
+  "timestamp": "01:56:02",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=6962s",
+  "claim": "Basic says that if Baron Coleman's information is correct another Flock hit came from a federal employee, and it is very possible the hits came from federal agencies, especially if there were already threats on Charlie Kirk's life.",
+  "snippet": "So, it's very possible that these hits could have came from the feds, especially if uh, there were already um, uh, threats on Charlie's life.",
+  "mentions": [
+   "N-1",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2398",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Nate Brooksby",
+  "speaker_node": "N-272",
+  "timestamp": "01:57:08",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=7028s",
+  "claim": "In a clip played on the show, Sheriff Nate Brooksby says that at exactly 8:02 p.m. on the 11th he received a call from a friend who is a retired detective that worked for him for many years.",
+  "snippet": "at exactly 8:02 on the 11th, I received a call from a friend of mine who happens to be a retired detective that worked for me for many years.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2399",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Nate Brooksby",
+  "speaker_node": "N-272",
+  "timestamp": "01:57:53",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=7073s",
+  "claim": "In a clip played on the show, Nate Brooksby says the retired detective told him he knew who Charlie Kirk's shooter was, knew the family through religious association, and that he was in Washington County.",
+  "snippet": "I know who I know who Charlie Kirk's shooter is. Um I I know the family through religious association. And uh he's in he's in Washington County now.",
+  "mentions": [
+   "N-1",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2400",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Nate Brooksby",
+  "speaker_node": "N-272",
+  "timestamp": "01:58:19",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=7099s",
+  "claim": "In a clip played on the show, Nate Brooksby says that after the 1 minute 41 second call he immediately called Sheriff Mike Smith in Utah County, who was at the incident command.",
+  "snippet": "I immediately called Sheriff Mike Smith in Utah County, who I knew was at the incident command in uh Utah County.",
+  "mentions": [
+   "N-810"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2401",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:58:48",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=7128s",
+  "claim": "Gary Melton says that by about 8:05 p.m. law enforcement knew exactly who Tyler Robinson was and would have been looking up his vehicles and plates.",
+  "snippet": "Like basically by 8:05 by 8:05 law enforcement knows exactly who this guy is.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2402",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:59:32",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=7172s",
+  "claim": "Gary Melton says the claim that the plate searches happened before anyone knew who Tyler Robinson was is a total lie.",
+  "snippet": "And it was before anyone even knew who Tyler Robinson was. That's a That's a total lie.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2403",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "JBC",
+  "speaker_node": null,
+  "timestamp": "02:05:31",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=7531s",
+  "claim": "JBC says the haveibeenflocked data has many discrepancies, the 8:37 timestamp does not exist for the operator's queries, and from an analyst's view the information is garbage.",
+  "snippet": "from an analyst point of view, this information is just garbage. There's nothing to be believed here or to validate.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2404",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:01:41",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=7301s",
+  "claim": "Gary Melton says the 47G initiative includes multiple universities across Utah, not just UVU, and is about pushing Utah's aerospace industry.",
+  "snippet": "it doesn't just include UVU. It includes multiple universities all across Utah. And it has to do with the aerospace",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2405",
+  "kid": "K-042",
+  "date": "2026-10-20",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:04:03",
+  "url": "https://www.youtube.com/watch?v=We-CGZfSRGE&t=7443s",
+  "claim": "Gary Melton says Travis Nylocks posted that the planes may be training platforms not outfitted with ISR capabilities, though Gary does not know if that is true.",
+  "snippet": "Nylocks posted some things saying that those are potentially training platforms and not actually outfitted with the ISR capabilities to begin with.",
+  "mentions": [],
+  "mentions_new": [
+   "Travis Nylocks"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2406",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:02:52",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=172s",
+  "claim": "Gary Melton says Candace Owens released new footage showing people on the walkway between the computer science building and the Losee building.",
+  "snippet": "the new footage that was released by Candace Owens that shows people on the walkway of the Losi building in between the computer science building and the Losi building",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2407",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:03:11",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=191s",
+  "claim": "Gary Melton says Josh Carr had an interview with Erika Kirk and released information about Erika Kirk's meeting with Candace Owens.",
+  "snippet": "Josh Carr just had a interview with Erica Kirk and there was some definitely some interesting information that he released regarding that specifically with Erica's meeting with Candace Owens",
+  "mentions": [
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [
+   "Josh Carr"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2408",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:03:53",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=233s",
+  "claim": "Gary Melton says Steve Baker is pushing the idea that Brian Cole Jr. was framed, and that new footage of Brian Cole Jr. has not been authenticated other than by his grandmother saying it is him.",
+  "snippet": "Now Steve Baker is pushing the idea that this is indeed a frame job by Brian Cole. And folks, I'm I'm indifferent on this.",
+  "mentions": [
+   "N-25",
+   "N-236"
+  ],
+  "mentions_new": [],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2409",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:05:38",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=338s",
+  "claim": "Gary Melton says Candace Owens' episode presented exclusive 9/10 footage asking whether Tyler Robinson returned to the Losee rooftop.",
+  "snippet": "Here we have Candace Owens from yesterday. Uh, the footage is exclusive 910 footage. Did Tyler Robinson return to the Losi rooftop?",
+  "mentions": [
+   "N-3",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2410",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "00:06:13",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=373s",
+  "claim": "In a clip played on the show, Candace Owens says she believes the person in the footage is the same person who was on the rooftop, citing a nearly identical build, the height and the placement 20 minutes apart.",
+  "snippet": "why do I believe this is the very same person that was just on the rooftop I just demonstrated to you? Aside from that nearly identical build and the height and the placement 20 minutes apart",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2411",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "00:06:38",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=398s",
+  "claim": "In a clip played on the show, Candace Owens says they nicknamed the person 'Slenderman' and believe he is the same individual who jumped off the Losee building minutes after Charlie Kirk was hit.",
+  "snippet": "this person who we have nicknamed Slenderman and who we believe is the same individual that jumped off the Loi minutes after Charlie is hit",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2412",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:06:56",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=416s",
+  "claim": "Gary Melton says Candace Owens' footage has an overlaid video timer that is not the original timestamp, and that Robinson-innocence believers would call such an overlay BS if it appeared in prosecution footage.",
+  "snippet": "Number one, she's overlaid a video timer. All right, so the actual time that she is is up there. This is not the the the original time stamp that we have on there.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2413",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:07:39",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=459s",
+  "claim": "Gary Melton says the footage shows about four people walking on the walkway from the computer science building toward the Losee Center building, which runs into the rail the shooter allegedly crossed.",
+  "snippet": "I believe four people walking on the walkway from the computer science building that goes toward the Losi Center building, which runs right into the rail that uh allegedly the shooter crossed over.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2414",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:08:20",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=500s",
+  "claim": "Gary Melton says the zoomed image is so blown out and pixelated the person's legs look transparent, and that the person looks thinner and taller than the person seen jumping off the Losee Center roof.",
+  "snippet": "this person actually does look thinner and taller than even um what we see of the person jumping off the low center roof.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2415",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "00:09:49",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=589s",
+  "claim": "In a clip played on the show, Candace Owens says at approximately 12:36 the person walks up to the ledge that the 'quote unquote Tyler Robinson shooter' hopped over and ducked down at.",
+  "snippet": "At approximately 12:36, he is going to walk up to the ledge. Um, the ledge that we know that the quote unquote Tyler Robinson shooter hopped over and ducked down for a bit.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2416",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:10:28",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=628s",
+  "claim": "Gary Melton says the shooter likely smuggled a firearm in his pants and reassembled it at the ledge, which he calls more reasonable than the person who jumped off the roof returning to the scene, as Candace Owens suggests.",
+  "snippet": "this person that likely smuggled a firearm in his pants and then needed to reassemble it, that's that's a bridge too far apparently.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2417",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:10:42",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=642s",
+  "claim": "Gary Melton agrees the footage is after Charlie Kirk was hit: it is 12:36 and Kirk was shot at 12:23.",
+  "snippet": "Which is true. This is 1236. He was shot at 12:23.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2418",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:10:52",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=652s",
+  "claim": "Gary Melton says four additional people come up the stairs and head away from the Losee Center roof toward the computer science building.",
+  "snippet": "four additional people come up those stairs and headed in the opposite direction away from the Losi center roof toward the computer science building.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2419",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:11:14",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=674s",
+  "claim": "Gary Melton says, as pure speculation, the person walking to the railing looks like someone talking on the phone.",
+  "snippet": "As this person is walking over to that railing, like what I see is it almost looks like somebody that's talking on the phone",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2420",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:13:00",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=780s",
+  "claim": "Gary Melton says the earlier campus footage of Tyler Robinson was clear enough for family members and friends, including Lance Twiggs, to identify him, and is ten times clearer than Candace Owens' footage, which comes from the same camera.",
+  "snippet": "including Lance Twigs, who said the last two definitely do look like Tyler Robinson. That footage is 10 times clearer than anything that we have here.",
+  "mentions": [
+   "N-3",
+   "N-40",
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2421",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "00:13:57",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=837s",
+  "claim": "In a clip played on the show, Candace Owens says the person goes back to the ledge at 12:40, stands over it again, and then the footage blacks out.",
+  "snippet": "he goes back to the ledge at 12:40. He's standing over it again and then the footage just blacks out.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2422",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:14:18",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=858s",
+  "claim": "Gary Melton says he does not know where Candace Owens got the footage and that the blackout in her copy does not mean the original footage is blacked out.",
+  "snippet": "I don't know what that means. It just blacks out. It doesn't mean that this the the the original footage is blacked out.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2423",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "00:15:00",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=900s",
+  "claim": "In a clip played on the show, Candace Owens says footage shows the person departing the ledge at 12:42 p.m., a couple of minutes before Officer Bagley appears on the Losee rooftop.",
+  "snippet": "footage of him then departing the ledge at 12:42 p.m. You'll note we are just a couple of minutes from when Officer Bagley is now going to appear on Losi rooftop.",
+  "mentions": [
+   "N-506"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2424",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:15:23",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=923s",
+  "claim": "Gary Melton asks why Candace Owens does not show the footage of Officer Bagley coming up to the roof and allegedly discovering a screwdriver.",
+  "snippet": "Why doesn't she show the footage of Officer Baggley coming up to the roof and allegedly discovering a screwdriver?",
+  "mentions": [
+   "N-3",
+   "N-506"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2425",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:16:01",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=961s",
+  "claim": "Gary Melton says the UVU after-action review identified that nobody knew how to operate the alert system and the first Rave alert was not issued until 12:42.",
+  "snippet": "they have this alert system that nobody knew how to operate and it wasn't until 12:42 the first rave alert issued.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2426",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:16:16",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=976s",
+  "claim": "Gary Melton says the first alert text to students said a single shot was fired on campus toward a visiting speaker, police were investigating and a suspect was in custody, without telling students to do anything.",
+  "snippet": "A single shot was fired on campus toward a visitor uh visiting speaker. Police are investigating now. Suspect in custody. So it doesn't tell them to do anything.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2427",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:16:41",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1001s",
+  "claim": "Gary Melton says it was almost a full 20 minutes after the 12:23 shot before the school alerted anyone, and there was no mass alert system in place.",
+  "snippet": "It's almost a full 20 minutes afterwards that this school actually even alerts anyone. Anyone.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2428",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:17:16",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1036s",
+  "claim": "Gary Melton says the people on the walkway appear to be students leaving class who, from their body language, were unaware of what had happened in the courtyard.",
+  "snippet": "it looks like to me from the body language they're completely unaware of what just took place in the courtyard.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2429",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Honest Ash",
+  "speaker_node": null,
+  "timestamp": "00:18:40",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1120s",
+  "claim": "Honest Ash says she does not yet find anything in Candace Owens' new video compelling and agrees the man looks like he is walking around on a phone.",
+  "snippet": "I don't know if I find anything from it compelling yet. I agree with you that it looks like he's walking around on a phone.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2430",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:20:48",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1248s",
+  "claim": "Gary Melton says there were six law enforcement officers on campus that day, not a couple dozen.",
+  "snippet": "No, there was six. >> Trying to manage >> there was six on campus that day,",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2431",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:21:58",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1318s",
+  "claim": "Gary Melton says he mapped the location: the person at the rail was 28 ft from the shooter's position, 618 ft from Charlie Kirk's position and about 425 ft from the back of the courtyard.",
+  "snippet": "That location is 28 ft from the shooters position 618 ft from Charlie's position and about 425 ft from the very back of the courtyard.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2432",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:22:12",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1332s",
+  "claim": "Gary Melton says there is no line of sight from that position to the courtyard and people inside the computer science building would not hear the gunshots.",
+  "snippet": "You cannot see the courtyard from that position. It's not even you can't even it's close like you all you see is over 200 feet of roof",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2433",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Kitty Hawk",
+  "speaker_node": null,
+  "timestamp": "00:23:30",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1410s",
+  "claim": "Kitty Hawk says that, per the OMPD, the person arrested the day after the assassination, whom Diligent Denizen claimed had a rifle, actually had a toy wooden axe.",
+  "snippet": "the person that was arrested the day after assassination saying that the person had a rifle. >> Yeah. I It was actually not a rifle. I found out it was actually a toy wooden axe.",
+  "mentions": [
+   "N-365"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2434",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Honest Ash",
+  "speaker_node": null,
+  "timestamp": "00:27:04",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1624s",
+  "claim": "Honest Ash says the videos Candace Owens shows are what she has been provided, so if she did not show the rest, that is the clip she received.",
+  "snippet": "So the videos that Candace shows, that's what she's been provided.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2435",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Josh Carr",
+  "speaker_node": null,
+  "timestamp": "00:29:05",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1745s",
+  "claim": "In a clip played on the show, Josh Carr says Candace Owens became involved in Charlie Kirk's Blexit and was 'kind of the DEI hire' to move Blexit forward.",
+  "snippet": "Candace became involved in that, and she was kind of the DEI hire for Charlie to uh essentially move Blexit forward.",
+  "mentions": [
+   "N-1",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2436",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Josh Carr",
+  "speaker_node": null,
+  "timestamp": "00:29:34",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1774s",
+  "claim": "In a clip played on the show, Josh Carr says Candace Owens had some ownership in Blexit that had to be paid out over time, so through complicated contractual arrangements she was still on payroll until very recently.",
+  "snippet": "And so there were some complicated contractual things where Candace was still on payroll. And uh that has been very recent.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2437",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Josh Carr",
+  "speaker_node": null,
+  "timestamp": "00:30:00",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1800s",
+  "claim": "In a clip played on the show, Josh Carr says Erika Kirk told them Candace Owens brought her cousin, who slept in the corner, to their meeting, and that the meeting was very cordial.",
+  "snippet": "She said that Candace had like brought her cousin who was like sleeping in the corner, which was super weird. Um, she said that their meeting was actually very cordial.",
+  "mentions": [
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2438",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Josh Carr",
+  "speaker_node": null,
+  "timestamp": "00:30:10",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1810s",
+  "claim": "In a clip played on the show, Josh Carr says Erika Kirk told them she brought TPUSA's finances and Mikey McCoy's passport to the meeting to prove to Candace Owens she was mistaken.",
+  "snippet": "Erica told us that she brought the finances of TPS USA to prove to Candace that she was mistaken.",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-190"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2439",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:30:38",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1838s",
+  "claim": "Gary Melton says Candace Owens was at the time pushing that Mikey McCoy was not his real name or something along those lines.",
+  "snippet": "Candace at the time was pushing that Mikey McCoy was not his real name or something along those lines.",
+  "mentions": [
+   "N-3",
+   "N-190"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2440",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:31:19",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1879s",
+  "claim": "Gary Melton says that when people like Baron Coleman and Candace Owens are brought real answers, such as the autopsy, they reject them because the narrative is more valuable than the truth.",
+  "snippet": "whether it's Baron Coleman, Candace Owens, or these other people, when you bring them real information and you bring them answers, real legitimate answers to their questions, they reject it.",
+  "mentions": [
+   "N-3",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2441",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Josh Carr",
+  "speaker_node": null,
+  "timestamp": "00:31:44",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1904s",
+  "claim": "In a clip played on the show, Josh Carr says Erika Kirk brought Charlie Kirk's autopsy to the meeting and Candace Owens did not even want to see it.",
+  "snippet": "And Candace didn't even want to see the autopsy. So all of that was at the disposal of Candace at the time",
+  "mentions": [
+   "N-1",
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2442",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Josh Carr",
+  "speaker_node": null,
+  "timestamp": "00:32:00",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=1920s",
+  "claim": "In a clip played on the show, Josh Carr says Erika Kirk said Candace Owens had never been angry with her or mean to her before, and their relationship was like an acquaintance.",
+  "snippet": "Erica also said that Candace had never been angry with her or mean to her in the past.",
+  "mentions": [
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2443",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Honest Ash",
+  "speaker_node": null,
+  "timestamp": "00:34:00",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2040s",
+  "claim": "Honest Ash says Josh Carr's account is second-hand, that they do not hear it from Erika Kirk or from Andrew Kolvet as TPUSA spokesperson, and that Josh Carr could be lying.",
+  "snippet": "We don't hear it from Erica or Andrew Kovette being, you know, somebody who's supposed to be a spokesperson for Turning Point USA. So, he could just be lying",
+  "mentions": [
+   "N-2",
+   "N-14"
+  ],
+  "mentions_new": [
+   "Josh Carr"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2444",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:34:54",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2094s",
+  "claim": "Gary Melton says, citing Candace Owens' own statement, that she received Brian Harpole's flight information at the Erika Kirk meeting and the next day started texting Harpole, because Erika Kirk relayed Harpole was probably going to sue her.",
+  "snippet": "We do know that Candace received Brian Harpool's flight information at that meeting. And then the next day, she starts texting Brian Harpool for information about this",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2445",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:35:16",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2116s",
+  "claim": "Gary Melton says Candace Owens had a duty to tell viewers before her 18th interview with Mitch Snow that Erika Kirk had given her that information, and only disclosed it days later in a space.",
+  "snippet": "I'm going to have this interview with Mitch Snow on the 18th. Uh, and we're going to talk to him, but and this is his story, but I just want you to know that I did meet with Erica Kirk",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-361"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2446",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Missy",
+  "speaker_node": null,
+  "timestamp": "00:37:41",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2261s",
+  "claim": "Missy says she remembers Candace Owens' podcast after the Erika Kirk meeting, when her fans were criticizing her for siding with Erika Kirk.",
+  "snippet": "I specifically remember it because all of her fans were giving her crap because they thought she would they were she was sing for Erica.",
+  "mentions": [
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2447",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Missy",
+  "speaker_node": null,
+  "timestamp": "00:38:53",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2333s",
+  "claim": "Missy says she supposes Candace Owens, with fans angry at her for siding with Erika Kirk, took the opportunity to 'go full throttle'.",
+  "snippet": "I suppose she took the opportunity because all the fans, all of her fans in the chat were getting mad at her about siding with Erica on a few things.",
+  "mentions": [
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2448",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:40:38",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2438s",
+  "claim": "Gary Melton says Candace Owens' show did not tell viewers no alert had gone out, and the student walking off at 12:42 could have been reacting to the alert sent at that moment.",
+  "snippet": "It wasn't until literally we see that, excuse me, that student was actually walking off right at 12:42 that the alert went out.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2449",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:41:27",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2487s",
+  "claim": "Gary Melton says there is some conflicting information between what Brian Harpole said and what the UVU report said, though he does not know how accurate the report is.",
+  "snippet": "There's some conflicting information uh based on what Brian Harpole said with what this report said. uh I don't know how accurate that report is",
+  "mentions": [
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2450",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:42:22",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2542s",
+  "claim": "Gary Melton says UVU was required by its own process to have a security assessment, a line-of-sight assessment and an emergency action plan done before the event was approved, and none of that was done.",
+  "snippet": "they were required by their own process to have a security assessment done a line of sight assessment done an emergency action plan done before an event is even approved. None of that was done.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2451",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:43:00",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2580s",
+  "claim": "Gary Melton says UVU set up no entry control point, and if UVU approved the event for 600 people and 3,000 showed up, that was on UVU.",
+  "snippet": "if if UVU approved this for 600 people and 3,000 showed up, that was on UVU to like, hey, you know what? We only we only set up for 600 people.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2452",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:43:39",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2619s",
+  "claim": "Per the UVU after-action review Gary Melton reads on the show, key finding one is that UVU has strong foundational policy and procedures but implementation was significantly inconsistent before and during the September 10 TPUSA event.",
+  "snippet": "UVU has strong foundational policy and procedures but imple but implementation was significantly inconsistent before and during the September 10th TPUSA event.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2453",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:44:33",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2673s",
+  "claim": "Per the UVU after-action review Gary Melton reads, several key event security decisions were deferred to TPUSA field representatives even though UVU staff raised concerns about the outdoor fountain courtyard venue and TPUSA's ticketing process.",
+  "snippet": "several key event security decisions were deferred to TPUSA field representatives even though UVU staff members raised concerns, including concerns related to holding the event in the outdoor fountain courtyard area and using TPUSA's ticketing process.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2454",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:45:03",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2703s",
+  "claim": "Per the UVU after-action review Gary Melton reads, UVU should have retained decision-making authority over venue selection, ticketing, access control and other security conditions because the event was on its campus.",
+  "snippet": "UVU should have retained decision-making authority over key security related issues, including venue selection, ticketing, access control, and other conditions necessary to support campus safety.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2455",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:45:57",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2757s",
+  "claim": "Gary Melton says UVU had no responsibility to protect Charlie Kirk, only the students, and that TPUSA's close protection detail was not set up to address long-range threats; the venue is supposed to keep people off its roofs.",
+  "snippet": "Their security close protection detail was not set up to to mitigate or address long range threats like that.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2456",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:47:07",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2827s",
+  "claim": "Per the UVU after-action review Gary Melton reads, key finding three is that protective operations and line-of-sight planning were not sufficiently formalized for the outdoor venue.",
+  "snippet": "Uh key finding number three, protective operations and line of sight planning were not sufficiently formalized for the outdoor venue",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2457",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:47:41",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2861s",
+  "claim": "Gary Melton agrees with Kitty Hawk that Candace Owens is disregarding UVU's role, saying she did not go through any of the review's key findings in any significant way.",
+  "snippet": "She she didn't go through any of the key findings in any significant way because if she had, you would see that these are all of UVU's uh security issues",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2458",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:48:08",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2888s",
+  "claim": "Per the UVU after-action review Gary Melton reads, a prior active assailant tabletop exercise had identified communication and situational awareness problems, and similar issues resurfaced on September 10.",
+  "snippet": "A prior active asalent tabletop exercise had identified communication and situational awareness challenges involving the EOC",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2459",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:49:28",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=2968s",
+  "claim": "Per the UVU after-action review Gary Melton reads, UVU's existing security technology was used more as a post-incident investigative resource than as a real-time situational awareness tool.",
+  "snippet": "the existing technology was used more effectively as a post incident investigative resource than as a real time situational awareness tool.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2460",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:51:06",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3066s",
+  "claim": "Per the UVU after-action review Gary Melton reads, UVUPD staffing appears limited compared with the scale and complexity of the university's operations.",
+  "snippet": "The UVUPD staffing appears limited when compared to the scale and complexity of university's operations and event environment.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2461",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:51:36",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3096s",
+  "claim": "Gary Melton says not one of the review's 10 key findings relates to TPUSA, because security was not TPUSA's responsibility.",
+  "snippet": "So those are the 10 key findings. The 10 key findings. Not one of them relates to TPUSA and that's because it's not their responsibility.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2462",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:54:23",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3263s",
+  "claim": "Gary Melton says the text messages, Tyler Robinson being three and a half hours from home, his parents turning him in and their recorded statements are enough alone to convince a jury of guilt.",
+  "snippet": "the fact that Tyler Robinson was three and a half hours away from his home the text message and the fact that his parents turned him in",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2463",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:55:39",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3339s",
+  "claim": "Gary Melton says the one thing not matched was the projectile to the firearm, which was called inconclusive.",
+  "snippet": "the one thing they didn't fake was matching the projectile to the firearm. It's like that's the one thing that they were like, you know what, we're going to say this is inconclusive.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2464",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:55:51",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3351s",
+  "claim": "Gary Melton says the bullet was still 30 caliber with five rifling, matching a family of rifles per testimony, and a 30-06 was there.",
+  "snippet": "It was still a 30 caliber. It was still five rifling. They had a family of rifles that it would actually go with uh that was testified to.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2465",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:56:10",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3370s",
+  "claim": "Gary Melton says he is still open to the idea that Tyler Robinson was radicalized or that other people were involved in the planning.",
+  "snippet": "I'm still open to the idea that he was radicalized or there was other people involved on the planning of this.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2466",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:00:29",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3629s",
+  "claim": "Gary Melton says Baron Coleman's narrative that Tyler Robinson was in custody before 6:25 p.m. on the 11th is not supported by anything and that Coleman is now backtracking on it.",
+  "snippet": "the idea that Tyler Robinson was in custody before 6:25 p.m. on the 11th. It's not supported by anything.",
+  "mentions": [
+   "N-40",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2467",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Mindy",
+  "speaker_node": null,
+  "timestamp": "01:01:28",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3688s",
+  "claim": "Mindy says multiple people posted on X that they are dropping subscriptions to Baron Coleman and Candace Owens, tired of the constant attacks on TPUSA and Erika Kirk.",
+  "snippet": "multiple people posted that they are dropping subscriptions from Baron, from Candace. Um, that they're tired of the repeat of the constant attacking of TPUSA.",
+  "mentions": [
+   "N-3",
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2468",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:03:45",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3825s",
+  "claim": "Gary Melton says Baron Coleman was run out of Alabama for lying, started a whisper campaign to prejudice a jury, and was fired from a radio station.",
+  "snippet": "he's such a liar that he was ran out of Alabama. Those are facts. Go look it up.",
+  "mentions": [
+   "N-330"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2469",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:06:28",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=3988s",
+  "claim": "Gary Melton says claims that he said Mitch Snow was not there, and that this was a narrative fed to him by TPUSA, are false, since he said all along that Mitch Snow was there.",
+  "snippet": "you said that Mitch Snow wasn't there and his son proved it even though the entire time you were saying that Mitch Snow was there.",
+  "mentions": [
+   "N-361"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2470",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:14:20",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=4460s",
+  "claim": "Gary Melton says the claim that the text messages are hearsay is false and that the defense has had the text messages and the Cellebrite information since March.",
+  "snippet": "They they had the text messages. They had the celebrate information since March.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2471",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:14:25",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=4465s",
+  "claim": "Gary Melton says it is documented that investigators found a holster, not a handgun in a holster.",
+  "snippet": "Oh, they found a they found a handgun in a holster.\" No, they didn't. They found a holster. This is this is documented.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2472",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:18:31",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=4711s",
+  "claim": "Gary Melton says Candace Owens said she wanted to be sued for discovery but is now trying to get the lawsuits dismissed.",
+  "snippet": "I thought I thought Candace wanted these lawsuits and now she's trying to get them dismissed. That seems sus.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2473",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:21:00",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=4860s",
+  "claim": "Gary Melton says Candace Owens now faces three lawsuits: from the Macrons, Robbie Hild and Brian Harpole.",
+  "snippet": "What The Mcron Mcron. >> Yep. Got it. >> Mcronone Hild and Harpole.",
+  "mentions": [
+   "N-3",
+   "N-82",
+   "N-266",
+   "N-377",
+   "N-942"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2474",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:21:11",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=4871s",
+  "claim": "Gary Melton says Candace Owens will lose the Harpole and Hild cases badly, may settle the Hild case, and that Harpole will not settle because it is about principle.",
+  "snippet": "she's going to lose those cases so bad, [snorts] there's a potential she might settle the Hild case. May I don't think she's going to I don't think Harpole is going to settle with her",
+  "mentions": [
+   "N-3",
+   "N-266",
+   "N-942"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2475",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:22:03",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=4923s",
+  "claim": "Gary Melton says the beard lawyer stated malice is substantiated by Candace Owens withholding information from viewers, and that she drove them to conclude Brian Harpole was part of the conspiracy.",
+  "snippet": "she withheld that information from reviewers and drove them to a conclusion that he was indeed part of the uh the conspiracy.",
+  "mentions": [
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2476",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gil",
+  "speaker_node": null,
+  "timestamp": "01:22:31",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=4951s",
+  "claim": "Gil says for defamation the public-figure question concerns the victim, so what matters is whether Brian Harpole qualifies as a public figure, not Candace Owens.",
+  "snippet": "So it doesn't matter that Candace is a public figure. It matters whether or not Brian Hartull >> Yes. >> qualifies as a public figure.",
+  "mentions": [
+   "N-3",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2477",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:24:52",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=5092s",
+  "claim": "Gary Melton says, citing two lawyers including Andrea Burkhart, that what Candace Owens did to Brian Harpole was far worse than what Ryan Upchurch did in the similar Tennessee ruling, so she will lose unless it is thrown out on a technicality.",
+  "snippet": "what Brian Harpole did to or Eric uh Candace Owens did to Brian Harpull was far worse than anything that Ryan Upurk did.",
+  "mentions": [
+   "N-3",
+   "N-266",
+   "N-749"
+  ],
+  "mentions_new": [
+   "Ryan Upchurch"
+  ],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2478",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:25:17",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=5117s",
+  "claim": "Gary Melton says he attended the motion to dismiss in the Macron case, the judge's decision should come soon, and there is more ammunition to throw out that case than the Harpole case.",
+  "snippet": "I went to the motion to dismiss. Um the judge's decision decision should be coming out pretty soon on that.",
+  "mentions": [
+   "N-82",
+   "N-377"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2479",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Missy",
+  "speaker_node": null,
+  "timestamp": "01:28:30",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=5310s",
+  "claim": "Missy says the judges in the Tennessee Harpole case recused themselves because of Candace Owens' new lawyer, a conflict of interest related to a case he had.",
+  "snippet": "so the recusals were because of the new lawyer that she that she has. That's why it's being recused.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2480",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:31:06",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=5466s",
+  "claim": "Gary Melton says the search for Tyler Robinson in 'Kenowick County' (as transcribed) was after 8 p.m. Pacific, well after he was in custody, and that his name was released to law enforcement around 8:02 Mountain time.",
+  "snippet": "His name was actually released to law enforcement around 8:02 or something like that uh there in uh mountain time.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2481",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:34:06",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=5646s",
+  "claim": "Gary Melton says he went to UVU intending to prove law enforcement wrong but could not, and everything checked out.",
+  "snippet": "I'm here to prove the law law enforcement is incorrect on this. That's what I tried to do and I couldn't.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2482",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:35:00",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=5700s",
+  "claim": "Gary Melton says it is much more common than people think for a 30-06 not to exit, and he can name four people other than Charlie Kirk shot with a 30-06 at closer range with no exit wound.",
+  "snippet": "I can name four without including Charlie Kirk that was shot with a 300 six much closer than Charlie Kirk was shot with and we don't have an exit wound.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2483",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:36:18",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=5778s",
+  "claim": "Gary Melton says the spine absorbs energy and that the soft-point Core-Lokt cup-and-core bullet is designed not to exit.",
+  "snippet": "the reality of of using a core locked bullet, a soft point cup and core bullet that is designed to not exit.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2484",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gil",
+  "speaker_node": null,
+  "timestamp": "01:37:05",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=5825s",
+  "claim": "Gil says he defers to experts on ballistics and that the general consensus seems to be that the 30-06 not exiting is totally plausible.",
+  "snippet": "here it seems pretty fair to say that the general consensus is this is totally plausible. on the 30 odd sense.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2485",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:37:26",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=5846s",
+  "claim": "Gary Melton says there is no other shooter or gun anywhere and the 30-caliber bullet matches the family of rifles that would be a 30-06.",
+  "snippet": "There was no there's no other shooter anywhere. There's no other gun anywhere. We have a 30 caliber bullet that matches the family of rifles that would be a 300 6.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2486",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Razor",
+  "speaker_node": null,
+  "timestamp": "01:50:50",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=6650s",
+  "claim": "Razor says the Candace Owens and Andrew Tate connection is pretty close, and that people accuse Harvey Weinstein of paying Candace Owens hundreds of thousands of dollars to plead his case.",
+  "snippet": "Candace Owens seems to be in some ways a mercenary, just like people are accusing Harvey Weinstein of paying her hundreds of thousands of dollars",
+  "mentions": [
+   "N-3",
+   "N-170"
+  ],
+  "mentions_new": [
+   "Harvey Weinstein"
+  ],
+  "relevance": "context",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2487",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Kagio",
+  "speaker_node": null,
+  "timestamp": "01:58:10",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7090s",
+  "claim": "Kagio says the gun YouTuber OneShot TV shot a ballistic dummy through the forehead with a soft-point Remington Core-Lokt round and it barely penetrated the gel block behind the skull.",
+  "snippet": "he shot it right through the forehead and then the the corlock round barely penetrated the ballistic gel behind the skull.",
+  "mentions": [],
+  "mentions_new": [
+   "OneShot TV"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2488",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:59:38",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7178s",
+  "claim": "Gary Melton cites Martin Luther King, Chuck Ritter and Shane Hill as cases with similar ballistic outcomes at much closer distances.",
+  "snippet": "I mean we can look at Martin Luther King. We can look at Chuck Ritter. You can look at Shane Hill like case after case after case where",
+  "mentions": [],
+  "mentions_new": [
+   "Martin Luther King Jr.",
+   "Chuck Ritter",
+   "Shane Hill"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2489",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:06:58",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7618s",
+  "claim": "Per the Candace Owens tweet Gary Melton reads on the show, Candace Owens states that at no point during or after their meeting did Erika Kirk allow her to see Charlie Kirk's autopsy.",
+  "snippet": "At no point during or after our meeting did Erica Kirk ever allow me to see Charlie Kirk's autopsy.",
+  "mentions": [
+   "N-1",
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2490",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:07:10",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7630s",
+  "claim": "Per the Candace Owens tweet Gary Melton reads, the only document Erika Kirk offered was a transcript from Charlie Kirk's Aspen event, alleged as proof he passed the organization to her, which Candace Owens declined to read.",
+  "snippet": "The only document Erica offered to allow me to view was a type transcript from Charlie's Aspen event, which she alleged was proof Charlie passed the organization onto her.",
+  "mentions": [
+   "N-1",
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2491",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Kevin",
+  "speaker_node": null,
+  "timestamp": "02:07:58",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7678s",
+  "claim": "Kevin says if Tyler Robinson is innocent, he has never said where he was or what he was doing on September 10, even over a year later.",
+  "snippet": "if Robinson's innocent, then why hasn't he ever said where he was or what he was doing on September 10th?",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2492",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:08:45",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7725s",
+  "claim": "Gary Melton says lawyers on his show (Andrea Burkhart, the beard lawyer, Gil and Rakita Law) said that if the defense could prove Robinson was not there, he would not be in jail and it would have come up at the preliminary hearing.",
+  "snippet": "If they had some sort of defense to prove that he wasn't there and his phone would show that, other evidence would show that, then he wouldn't be in jail right now.",
+  "mentions": [
+   "N-40",
+   "N-749"
+  ],
+  "mentions_new": [
+   "Rakita Law"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2493",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:09:22",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7762s",
+  "claim": "Gary Melton says at the preliminary hearing the defense was not trying to prove innocence but to mitigate aggravating factors and keep Robinson off death row, and that he has admitted to it.",
+  "snippet": "They're trying to mitigate the factors, the aggravating factors, and try to get him off of death row because that's what it is.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2494",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:10:57",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7857s",
+  "claim": "Gary Melton says Tyler Robinson's parents are on record in the charging documents making extremely incriminating statements.",
+  "snippet": "they're on record in the charging documents saying extremely extremely incriminating statements.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2495",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:12:00",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7920s",
+  "claim": "Gary Melton says clearer footage is likely to come, noting Robinson was at Chick-fil-A, where there are two cameras, and there are cameras throughout the Sorensen Center.",
+  "snippet": "We're most likely going to see much clearer footage. Uh he was at Chick-fil-A. There's two cameras in there.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2496",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:12:35",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=7955s",
+  "claim": "Gary Melton says he still has questions whether Lance Twiggs had any foreknowledge, describing him as isolated and never reciprocating Tyler Robinson's affection in the texts.",
+  "snippet": "I still have questions of whether or not Lance Twigs had any fornowledge of this.",
+  "mentions": [
+   "N-40",
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2497",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:15:43",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=8143s",
+  "claim": "Gary Melton says search warrants show the chat rooms Robinson used are being investigated, and the responses there indicated surprise.",
+  "snippet": "And if if the responses from those chat rooms indicated anything, it was surprise, right?",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2498",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:16:35",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=8195s",
+  "claim": "Gary Melton says he thinks groups like 764 and O9A are probably covers for Russian intelligence manipulation operations that radicalize people online.",
+  "snippet": "I think those are covers I think those are probably actually like Russian intelligence that are running uh manipulation operations",
+  "mentions": [],
+  "mentions_new": [
+   "764",
+   "O9A"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2499",
+  "kid": "K-043",
+  "date": "2026-10-22",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "02:17:37",
+  "url": "https://www.youtube.com/watch?v=dLzIWuMng7U&t=8257s",
+  "claim": "Gary Melton says the evidence suggests Tyler Robinson was the person on the roof who pulled the trigger, and the text messages on both devices and Apple's network have been confirmed legitimate.",
+  "snippet": "the evidence all suggests that, you know, Tyler Robinson was indeed the person on that roof. He was indeed the person that pulled that trigger.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2500",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:02:05",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=125s",
+  "claim": "Gary Melton says he downloaded the original FBI file of the rooftop footage, broke it into lossless PNG frames and reassembled it so it plays at its native 10 frames per second.",
+  "snippet": "I reassembled it so that it's playing at the native 10 frames per second.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2501",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Zoe",
+  "speaker_node": null,
+  "timestamp": "00:03:45",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=225s",
+  "claim": "Zoe says that in her opinion there is no other way to explain what is seen in the FBI rooftop footage than it being a strap.",
+  "snippet": "in my opinion, uh I think there's there's no other way around it. I don't know how else to explain it other than it being a strap.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2502",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:05:25",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=325s",
+  "claim": "Gary Melton says, against people who said a young civilian could not jump down from the roof without breaking his legs, that the drop is approximately 10 to 11 feet.",
+  "snippet": "we're talking about a I don't know, somewhere between a 10 and 11 foot drop approximately, but regardless.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2503",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:06:05",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=365s",
+  "claim": "Gary Melton says the runner's shadow disappears on the white roof surface because the camera's lack of dynamic range blows it out.",
+  "snippet": "because of the lack of dynamic range on these cameras, his shadow goes away because it's just blown out.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2504",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:06:35",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=395s",
+  "claim": "Gary Melton says there would be no way to see a strap (potentially a rifle sling) about an eighth of an inch thick and one inch wide in the rooftop footage, since the runner's legs and arms are themselves blown out.",
+  "snippet": "I don't think there would be any way to see a strap that's an eighth eighth inch thick and like one inch wide.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2505",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "CJ",
+  "speaker_node": null,
+  "timestamp": "00:09:15",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=555s",
+  "claim": "CJ says his enhanced version of the video from the FBI's website shows an arm going down, not a strap.",
+  "snippet": "you can see a little bit more going on with an arm going down, not a strap.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2506",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "CJ",
+  "speaker_node": null,
+  "timestamp": "00:10:20",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=620s",
+  "claim": "CJ says he does not think it is a strap; he thinks the rifle's stock is at one point in the frame and the barrel is going up.",
+  "snippet": "I think the stock is right here. All right. And I think that the barrel is going up this way.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2507",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:22:45",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=1365s",
+  "claim": "Gary Melton says the military teaches the parachute landing fall (PLF), rolling to disperse weight, which is not what the runner did on landing.",
+  "snippet": "in the military, we're taught something called the PLF, which is parachute landing fall",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2508",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:23:15",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=1395s",
+  "claim": "Gary Melton says, against claims that only a professional would land like this, that the runner simply crumpled to the ground and was lucky not to break something.",
+  "snippet": "But this is not what you want to do. This is just crumpling to the freaking ground. And he is lucky that he didn't break something.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2509",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:25:05",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=1505s",
+  "claim": "Gary Melton says the footage shows a rigid object under the towel, 90 degrees to the runner's body, with a rigid portion sticking into the ground on landing, whether the barrel or the buttstock.",
+  "snippet": "we have a rigid portion that is actually sticking into the ground right now, whether that's the barrel or the buttstock.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2510",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:27:30",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=1650s",
+  "claim": "Gary Melton says a 1-inch barrel cannot be seen in this footage; the object is visible only because a large dark towel gives it a larger footprint.",
+  "snippet": "The only reason that we can see it is because we have a large towel with that's dark that provides a a a larger footprint",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2511",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:28:35",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=1715s",
+  "claim": "Gary Melton says the rifle probably weighs six or seven pounds, a scope adds from a couple of ounces up to two pounds, and he doesn't think it is more than eight pounds.",
+  "snippet": "I don't think it's more than eight eight pounds. We'll just say that",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2512",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Blake Bednarz",
+  "speaker_node": "N-600",
+  "timestamp": "00:28:40",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=1720s",
+  "claim": "Blake Bednarz says a rifle with a scope could not make the movements the man makes as he runs up to the edge of the roof.",
+  "snippet": "is is not going to be able to do the movements from what this guy is doing as he runs up to the edge.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2513",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:31:52",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=1912s",
+  "claim": "Asked whether the rooftop runner is Tyler Robinson, Gary Melton says he has no reason to believe it is anyone else.",
+  "snippet": "Sure. I don't have any reason to believe it's anyone else.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2514",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Blake Bednarz",
+  "speaker_node": "N-600",
+  "timestamp": "00:32:30",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=1950s",
+  "claim": "Blake Bednarz says the rooftop runner is athletic and that he can look at Tyler Robinson and tell he can't move like that.",
+  "snippet": "I can just look at Tyler and tell you he can't move like that.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2515",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Blake Bednarz",
+  "speaker_node": "N-600",
+  "timestamp": "00:36:15",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=2175s",
+  "claim": "Blake Bednarz says the person on the roof could not be seen by anyone uncontrolled, and that the man on the sidewalk was controlled and there for the specific reason of catching the man lying prone on the roof.",
+  "snippet": "The guy on the sidewalk is controlled. The guy on the sidewalk was there for a specific reason.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2516",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Blake Bednarz",
+  "speaker_node": "N-600",
+  "timestamp": "00:37:00",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=2220s",
+  "claim": "Blake Bednarz says the man who filmed the rooftop was prepositioned, arguing he had to be there within seconds given the window of opportunity.",
+  "snippet": "Bro, tell me the window of opportunity for the guy to have taken the video. Do have you calculated it?",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2517",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:46:55",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=2815s",
+  "claim": "Gary Melton says he thinks the line seen near the runner on the ground is more likely a barrel than anything else, and that while a strap doesn't make sense he cannot rule it out completely given the poor footage.",
+  "snippet": "I think it's more likely that it's a barrel than anything else. [snorts] But this is really crappy footage.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2518",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:49:45",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=2985s",
+  "claim": "Gary Melton says nothing indicates how old the recovered rifle is, and that its black synthetic stock was manufactured in the early 1990s and is a replacement.",
+  "snippet": "I can tell you when it was manufactured, the black synthetic stock was early 90s, '92, 94.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2519",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:51:15",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=3075s",
+  "claim": "Gary Melton says it is speculation that the Mauser is a World War II rifle, since Mausers could be bought new from the late 1940s on and can be bought now.",
+  "snippet": "You can go buy a mouser right now. You could You could have went and bought a mouser at any point in time from like the 40s",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2520",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:55:25",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=3325s",
+  "claim": "Gary Melton says he thinks the man in the prosecution's stairwell image had at least the barrel down his pant leg, with the stock probably separated.",
+  "snippet": "I think that he has a barrel at least down that leg.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2521",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "00:57:20",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=3440s",
+  "claim": "Gary Melton says Tyler Robinson's jeans are baggier, not skinny jeans, and as a skinnier man he would have more room to hide the rifle.",
+  "snippet": "if you actually look at Tyler Robinson's pants, they're baggier than they're not skinny jeans by any stretch of the mean.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2522",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Blake Bednarz",
+  "speaker_node": "N-600",
+  "timestamp": "01:00:00",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=3600s",
+  "claim": "Blake Bednarz says the man on the roof lay prone for about 28 seconds before firing and was already set when the bystanders started filming.",
+  "snippet": "He was he was laying in a prone for what, 28 seconds before he fired the shot. Gary, these guys, he's already set.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2523",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Blake Bednarz",
+  "speaker_node": "N-600",
+  "timestamp": "01:00:30",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=3630s",
+  "claim": "Blake Bednarz says he still holds his view of how far back the man on the roof was, says the spot is 170 yards away, and proposes lying on the roof with Gary Melton wearing GoPros to show the line of sight.",
+  "snippet": "Uh, I do. Yeah. Yeah. This is 170 yards away. This is 170 yards away. And here's why, guys.",
+  "mentions": [
+   "N-614"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2524",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "01:05:00",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=3900s",
+  "claim": "In a clip played on the show, Candace Owens says the man who recorded the bystander footage, whom she tracked down, described the person on the rooftop as in all black and tactical gear, possibly wearing a helmet.",
+  "snippet": "He described an individual, like I said, in all black and in tactical gear, possibly wearing a helmet.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2525",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "01:05:10",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=3910s",
+  "claim": "In a clip played on the show, Candace Owens says that after police arrested George Zinn, the witness walked to the UVU command center and filed a report saying that was not the guy because he was too old.",
+  "snippet": "he walked over to the UVU command center and filed a report and said, \"That's not the guy.",
+  "mentions": [
+   "N-42"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2526",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "01:05:23",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=3923s",
+  "claim": "In a clip played on the show, Candace Owens says the feds contacted the witness only once, a few days later, and he has never been called by the prosecution.",
+  "snippet": "The feds only contacted him once a few days later. He has never been called by the prosecution.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2527",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:07:40",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=4060s",
+  "claim": "Gary Melton says he thinks the person seen in the prone position on the roof is Tyler Robinson.",
+  "snippet": "Agreed. I think that's I think that's Tyler Robinson that we see right there.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2528",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:08:15",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=4095s",
+  "claim": "Gary Melton says, measuring on Google Earth, that the computer science building camera is about 230 feet from where a possible barrel line was seen and about 538 feet from the man on the roof.",
+  "snippet": "It was [sighs] tell right here approximately. 538 feet.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2529",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:09:58",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=4198s",
+  "claim": "Gary Melton says the person who came to the railing about 12 minutes after the shot was not the same person, likely students getting out of class, since the first UVU alert did not go out until 12:42.",
+  "snippet": "I think it's students getting out of class. They had no idea that anything had taken place because the alert didn't even go out from the UVU until 12:42.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2530",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:15:55",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=4555s",
+  "claim": "Gary Melton says the man on the roof is very likely looking through an optic, and it is very plausible that the top of his head is visible but the gun is not.",
+  "snippet": "I think he's very much looking through an optic right now. And it's very plausible that we can see the top of his head, but we can't see the gun.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2531",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:18:50",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=4730s",
+  "claim": "Gary Melton says the bobbing movement described by the witness in Candace Owens' video could be him seeing part of the man's body during the lateral crawl, going up and down while crawling on one arm; he calls this speculation.",
+  "snippet": "what he's describing here is just me again speculating based on what we saw from the tactical crawl the lateral crawl is he saw some portion of his body up higher.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2532",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:22:35",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=4955s",
+  "claim": "Gary Melton says the witness in Candace Owens' video could not distinguish at about 200 yards whether the man wore tactical gear or a face mask; all you can see is black, and he has stood at that spot.",
+  "snippet": "I don't know how you would distinguish at 200 yards whether he had tactical gear on whatsoever. All you can see is black at that distance.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2533",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:23:05",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=4985s",
+  "claim": "Gary Melton says no one could tell from 200 yards away what model of rifle a person had, such as whether it was an AR-15.",
+  "snippet": "from 200 yards away. You wouldn't be able to tell what what model of rifle it is. No, there's no way.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2534",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:26:30",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=5190s",
+  "claim": "Gary Melton says that if the witness thought the man on the roof was law enforcement in an overwatch position, his brain would overlay tactical gear on him; he calls this speculation.",
+  "snippet": "if you already think that this guy is law enforcement that's in an overwatch position for security, like your brain is going to overlay tactical gear on this guy",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2535",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:28:10",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=5290s",
+  "claim": "Gary Melton says that when he went to UVU for the one-year Charlie Kirk memorial, SWAT snipers were positioned on the roofs, including the Losee or Sorenson building.",
+  "snippet": "There were SWAT up on the Losi or the Sorenson building as well.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2536",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:30:00",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=5400s",
+  "claim": "Gary Melton says there is no possible way the witness could say the rifle looked smaller than the recovered Mauser, given the distance.",
+  "snippet": "I still contend absolutely no way possible he can make that statement given the distance.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2537",
+  "kid": "K-044",
+  "date": "2026-10-24",
+  "speaker": "Gary Melton",
+  "speaker_node": "N-614",
+  "timestamp": "01:33:00",
+  "url": "https://www.youtube.com/watch?v=_OCja7lI-1s&t=5580s",
+  "claim": "Gary Melton says it makes no sense that, if the bystanders were in on it, they would give a witness account that contradicts the official narrative.",
+  "snippet": "doesn't make sense to me that if the inference here is that these guys are in on it, why would they uh contradict the narrative?",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
  }
 ]

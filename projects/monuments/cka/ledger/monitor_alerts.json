@@ -2604,9 +2604,10 @@
   "url": "https://www.youtube.com/watch?v=_OCja7lI-1s",
   "video_id": "_OCja7lI-1s",
   "seen": "2026-10-24",
-  "status": "triaged",
-  "triage": "Paramount Tactical (Gary Melton) debate on whether Tyler Robinson was on the roof (Q-1022, Q-957). Melton is not one of the four pilot speaker groups.",
-  "candidate": true
+  "status": "approved",
+  "triage": "Paramount Tactical (Gary Melton) debate on whether Tyler Robinson was on the roof (Q-1022, Q-957). Melton is not one of the four pilot speaker groups. Approved 2026-10-24; added as K-044.",
+  "candidate": true,
+  "commentary": "K-044"
  },
  {
   "kind": "youtube",
@@ -2618,9 +2619,10 @@
   "url": "https://www.youtube.com/watch?v=dLzIWuMng7U",
   "video_id": "dLzIWuMng7U",
   "seen": "2026-10-24",
-  "status": "triaged",
-  "triage": "Paramount Tactical live: claims that Robinson was framed (Q-309). Melton is not one of the four pilot speaker groups.",
-  "candidate": true
+  "status": "approved",
+  "triage": "Paramount Tactical live: claims that Robinson was framed (Q-309). Melton is not one of the four pilot speaker groups. Approved 2026-10-24; added as K-043.",
+  "candidate": true,
+  "commentary": "K-043"
  },
  {
   "kind": "youtube",
@@ -2632,9 +2634,10 @@
   "url": "https://www.youtube.com/watch?v=We-CGZfSRGE",
   "video_id": "We-CGZfSRGE",
   "seen": "2026-10-24",
-  "status": "triaged",
-  "triage": "Paramount Tactical with a lawyer on Candace Owens and defamation (Q-837). Responds to the host directly.",
-  "candidate": true
+  "status": "approved",
+  "triage": "Paramount Tactical with a lawyer on Candace Owens and defamation (Q-837). Responds to the host directly. Approved 2026-10-24; added as K-042.",
+  "candidate": true,
+  "commentary": "K-042"
  },
  {
   "kind": "youtube",
@@ -2646,8 +2649,9 @@
   "url": "https://www.youtube.com/watch?v=TmZuHDT1_QM",
   "video_id": "TmZuHDT1_QM",
   "seen": "2026-10-24",
-  "status": "triaged",
-  "triage": "Paramount Tactical debate on the conspiracy theories about the case.",
-  "candidate": true
+  "status": "approved",
+  "triage": "Paramount Tactical debate on the conspiracy theories about the case. Approved 2026-10-24; added as K-041.",
+  "candidate": true,
+  "commentary": "K-041"
  }
 ]

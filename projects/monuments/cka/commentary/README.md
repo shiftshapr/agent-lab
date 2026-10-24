@@ -20,7 +20,10 @@ Blake Neff), 12 with Erika Kirk, 9 with Brian Harpole and Frank Turek, and 5 fro
 
 **Additions.**
 - 2026-10-24: Baron Coleman Ep 187–189 (K-038..K-040), approved from the commentator-channel monitor
-  (`audits/commentators_2026-10-24/`). That brings the series to 40 videos, 2,249 claims and 571 links.
+  (`audits/commentators_2026-10-24/`).
+- 2026-10-24: Paramount Tactical (Gary Melton) shows K-041..K-044, also from the monitor. These are multi-speaker
+  debates and lives; lines whose speaker could not be told were skipped. That brings the series to 44 videos,
+  2,537 claims and 623 links.
 - `scripts/commentary/render.py` re-renders `claims.md`.
 
 **Method.** The method and prompts are in `audits/commentators_2026-10-23/`.
