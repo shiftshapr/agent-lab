@@ -5,9 +5,10 @@ Opus reviewers score each sampled claim (see docs/qa/QA_PROMPT.md); qa_report.py
 
   --since REF   sample the claims added since git REF (one batch)
   --all         sample the whole archive (baseline)
+  --claims FILE build items for the claim ids listed in FILE (one per line; e.g. a risk-weighted stratum), no sampling
 
 Usage (from agent-lab root):
-  python3 projects/monuments/cka/scripts/qa/qa_pack.py OUT_DIR (--since REF | --all) [--rate 0.025] [--seed N] [--chunk 25]
+  python3 projects/monuments/cka/scripts/qa/qa_pack.py OUT_DIR (--since REF | --all | --claims FILE) [--rate 0.025] [--seed N] [--chunk 25]
 """
 
 from __future__ import annotations
@@ -56,6 +57,7 @@ def main() -> int:
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--since")
     g.add_argument("--all", action="store_true")
+    g.add_argument("--claims", type=Path)
     ap.add_argument("--rate", type=float, default=0.025)
     ap.add_argument("--seed", type=int, default=20261014)
     ap.add_argument("--chunk", type=int, default=25)
@@ -73,9 +75,13 @@ def main() -> int:
                                  cwd=CKA).stdout
             now = {c: b for c, b in now.items() if c not in claims_of(old)}
         pool += [(ep, c, b) for c, b in now.items()]
-    rng = random.Random(args.seed)
-    n = max(1, round(len(pool) * args.rate)) if pool else 0
-    sample = sorted(rng.sample(pool, n), key=lambda x: (x[0], int(x[1][2:])))
+    if args.claims:
+        want = set(args.claims.read_text().split())
+        sample = sorted((p for p in pool if p[1] in want), key=lambda x: (x[0], int(x[1][2:])))
+    else:
+        rng = random.Random(args.seed)
+        n = max(1, round(len(pool) * args.rate)) if pool else 0
+        sample = sorted(rng.sample(pool, n), key=lambda x: (x[0], int(x[1][2:])))
 
     args.out.mkdir(parents=True, exist_ok=True)
     meta = []
@@ -94,7 +100,7 @@ def main() -> int:
             meta.append({"claim": cid, "episode": ep, "chunk": i // args.chunk + 1})
         (args.out / f"items_{i // args.chunk + 1:02d}.md").write_text("\n".join(parts), encoding="utf-8")
     (args.out / "sample.json").write_text(json.dumps({"pool": len(pool), "rate": args.rate, "seed": args.seed,
-                                                      "since": args.since, "sample": meta}, indent=1) + "\n")
+                                                      "since": args.since, "claims": str(args.claims) if args.claims else None, "sample": meta}, indent=1) + "\n")
     print(f"pool {len(pool)} claims; sampled {len(sample)} into {(len(sample) + args.chunk - 1) // args.chunk} chunks")
     return 0
 
