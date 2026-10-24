@@ -1,6 +1,6 @@
 # Commentator claims (ROADMAP 4.1b)
 
-**2249 claims** from 40 videos (59 hours) by commentators on the Charlie Kirk case, with **571 links** to Candace Owens' archived claims: 144 contradict hers, 385 support, 42 qualify.
+**2537 claims** from 44 videos (68 hours) by commentators on the Charlie Kirk case, with **623 links** to Candace Owens' archived claims: 173 contradict hers, 403 support, 47 qualify.
 
 - Claims are recorded **as said**, with a timestamped YouTube link and a verbatim snippet. They are never evidence: a link records that two speakers agree or disagree, not who is right (POLICY 11).
 - Relevance tags: core / context / tangential. ↩ marks a claim the speaker addresses to Owens.
@@ -51,6 +51,11 @@
   - [K-038](#k-038) 2026-10-12 · DEEP Undercover in Clipping Campaigns - Ep 187 · 82 claims, 14 links
   - [K-039](#k-039) 2026-10-19 · HIDDEN Police Searches Revealed!  Whose Vehicles Were Those? - Ep 188 · 76 claims, 21 links
   - [K-040](#k-040) 2026-10-20 · Wading Into the Fire of Leah Files and Shawn Ryan; Evidence of Tyler Robinson Ac · 52 claims, 12 links
+- **Paramount Tactical (Gary Melton)**
+  - [K-041](#k-041) 2026-10-16 · The Charlie Kirk Conspiracy Machine's Fraud Is Unraveling | Rob Noerr VS Uncle T · 61 claims, 11 links
+  - [K-042](#k-042) 2026-10-20 · CANDACE OWENS: LIES, LIES & DEFAMATION | RAEES MOHAMED, ESQ. (BEARD LAWYER) ANSW · 95 claims, 14 links
+  - [K-043](#k-043) 2026-10-22 · Brian Cole Jr. & Tyler Robinson: Framed? Does New Evidence Prove They're Patsies · 94 claims, 18 links
+  - [K-044](#k-044) 2026-10-24 · Charlie Kirk Conspiracy Debate With Blake Bednarz - Was It Tyler Robinson On The · 38 claims, 9 links
 
 # Charlie Kirk Show
 
@@ -5859,3 +5864,701 @@
     _Both say the Charlie Kirk statue vandalism footage has not been released._
 - **CC-2249** [03:23:00](https://www.youtube.com/watch?v=MtogX3pzfBM&t=12180s) · context · **Baron Coleman**: Baron Coleman says Tyler Robinson's defense can state alternative possible causes of Charlie Kirk's death (e.g. devices under his shirt) only with a good-faith basis, or it would be reprimanded.  
   > "Can this Can this defense state alternative possible causes of death? Sure. Sure. They would have to have um a good faith basis to do so or they would be reprimanded."
+
+# Paramount Tactical (Gary Melton)
+
+## K-041
+**[The Charlie Kirk Conspiracy Machine's Fraud Is Unraveling | Rob Noerr VS Uncle Tom DEBATE](https://www.youtube.com/watch?v=TmZuHDT1_QM)** · Paramount Tactical · 2026-10-16 · 195 min · scope: full video (multi-speaker; unattributable lines skipped)
+
+- **CC-2250** [00:03:14](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=194s) · context · **Uncle Tom**: In the X Space audio played on the show, Uncle Tom says Rob Noerr told him he was 80% sure it was Tyler Robinson, and he wanted to ask Rob for his evidence for the 20% he is not sure about.  
+  > "if you remember, he told me he was 80% sure that it was Tyler. So, I wanted to know his evidence for the 20% that he's not sure."
+- **CC-2251** [00:08:20](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=500s) · context · **Rob Noerr**: Rob Noerr says Uncle Tom's side wants to dismiss all the evidence in the Tyler Robinson case as hearsay or the work of corrupt officials, lumping it together and ignoring it.  
+  > "they want to just dismiss all of the evidences, hearsay, or corrupt officials, etc., etc. And so we could just lump all the evidence together and ignore it."
+- **CC-2252** [00:09:57](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=597s) · context · **Rob Noerr**: Rob Noerr says that when he asked Uncle Tom where he gets his evidence that Tyler Robinson was involved, Tom's answer was "the feds", even though Tom calls others fed sloppers.  
+  > "When I ask him for where does he get evidence for his position that Tyler Robinson was involved, he just didn't pull the trigger. What's his answer? The feds."
+- **CC-2253** [00:11:08](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=668s) · context · **Gary Melton**: Gary Melton says that more than a year after the assassination, Uncle Tom's side, despite covering it nonstop, still cannot produce a single piece of evidence.  
+  > "We're over a year past and they've been covering this non-stop. They He has like freaking 50 people in there in the echo chamber every single night and yet they still cannot produce one single piece of evidence"
+- **CC-2254** [00:11:51](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=711s) · context ↩ · **Gary Melton**: Gary Melton says his side is not trying to silence anyone; they are saying Candace Owens is lying.  
+  > "No, no, no, no. We're saying you're lying. We're saying that Candace Owens is lying. We're we're not trying to silence you."
+- **CC-2255** [00:12:18](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=738s) · context · **Gary Melton**: Gary Melton says he and others on his side have gone to UVU, talked to dozens of eyewitnesses and built a 3D model of the scene, unlike the other side.  
+  > "Have you talked to dozens of freaking you know actual eyewitnesses? Have you done I don't know things like a 3D model of that so you can see if there's any other like those are things that I've done"
+- **CC-2256** [00:13:19](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=799s) · context ↩ · **Rob Noerr**: Rob Noerr says the case narrative will lose steam and Candace Owens is already moving on to the next outrage, such as the Lindsay Clancy case or the "Cornell 7".  
+  > "The problem is eventually it'll lose steam and they have to move on to the next outreach. You're already seeing it. Well, now it's the Lindsey Clancy stuff or the Cornell 7 with Candace"
+- **CC-2257** [00:13:39](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=819s) · core ↩ · **Rob Noerr**: Rob Noerr says Baron Coleman is laying the groundwork for Charlie Kirk to become a villain, saying that if evidence shows Charlie criticized Candace Owens that would make him a liar, and raising maybe Charlie was a criminal or knew of human trafficking at Turning Point.  
+  > "you already hear Baron saying, "Well, if they release evidence that Charlie said things critical of Candace, that would make him a liar."
+- **CC-2258** [00:14:17](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=857s) · core ↩ · **Rob Noerr**: Rob Noerr says Candace Owens' side claims, without evidence, that Erika Kirk, a grieving widow, must be involved, is part of Project Monarch, is a Manchurian candidate and is crying fake tears.  
+  > "when you start to say here's this person Erica Kirk a grieving widow she must be involved she's involved in project monarch she's a manurion candidate"
+- **CC-2259** [00:14:42](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=882s) · core ↩ · **Rob Noerr**: Rob Noerr says that when Andrew Wilson paid $300,000 and asked Candace Owens for her evidence, she backtracked, saying her claim that Erika Kirk should be in jail meant jail in Monopoly and that "complicit" meant complicit in thinking Tyler Robinson did it.  
+  > "Andrew Wilson pays $300,000. Okay, Candace, where's your evidence? And all she does is backtrack. Oh, no. No. When I said she should be in jail, I meant be in jail in in Monopoly."
+- **CC-2260** [00:15:09](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=909s) · core · **Rob Noerr**: Rob Noerr says people found a picture of a man at UVU they thought looked like his friend Max Pacheco, then looked up other people named Pacheco and claimed they were Max's parents.  
+  > "Well, now they find a picture of some guy they think looks like Max that was at UVU. Then they're looking up people with the last name Pacheco."
+- **CC-2261** [00:15:54](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=954s) · context ↩ · **Rob Noerr**: Rob Noerr says the recent lawsuit against Candace Owens by a private citizen names Owens, her company, George Farmer's company and Jane and John Doe 1 through 10, whom he expects to be the online people who accused the plaintiff.  
+  > "if you look at the top of that case, it says Candace Owens, her company, George Farmer's company, and then it says Jane and John Doe 1 through 10."
+- **CC-2262** [00:16:08](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=968s) · context · **Rob Noerr**: Rob Noerr says the plaintiff, Robbie Hill, a young man who went to a rally, was accused of connections to Russia or the Azov Battalion, had to move, and his life is in tatters.  
+  > "Robbie Hill, that's the name. They were they were accusing this dude like they're just asking questions but they're like maybe he has connections to Russia or the AOV battalion"
+- **CC-2263** [00:17:09](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=1029s) · core · **Gary Melton**: Gary Melton says that two weeks earlier people circulated pictures of a woman in the UVU crowd, claiming she was his wife and that they were involved, though she looks nothing like his wife.  
+  > "And I two weeks ago they were passing around pictures of my wife saying that she was in the crowd at UVU and we were involved further"
+- **CC-2264** [00:20:42](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=1242s) · core · **Uncle Tom**: In the X Space audio played on the show, Uncle Tom says he did not raise the "quintillion" DNA figure in the debate because there is no proof of it.  
+  > "Yeah, but what about quintilian the DNA and the quintilian whatever. And so, um, because he has no proof of that. There is no proof of that."
+- **CC-2265** [00:42:31](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=2551s) · context · **Gary Melton**: Gary Melton says he does not say Tyler Robinson is guilty, but that all the evidence points to him, and he would switch his stance if given evidence of someone else.  
+  > "What I say is that all the evidence points to he's the one that did it. And what I've also said time and time again is provide me evidence of somebody else"
+- **CC-2266** [00:48:00](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=2880s) · tangential · **Gary Melton**: Gary Melton says people on the other side, including Kelly Raybond and Elizabeth Lane, released information about contracts he has.  
+  > "people people on your side, Kelly Raybond, uh, Elizabeth Lane, and many people, many other people have released information about contracts that I have and put it all over"
+- **CC-2267** [01:02:03](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=3723s) · core ↩ · **Rob Noerr**: Rob Noerr says Candace Owens may suggest Erika Kirk is somehow involved, but when she finally debated and was asked for her evidence she backtracked ("jail" meant Monopoly, "complicit" meant thinking Tyler did it), which is accusing someone of a crime without evidence.  
+  > "So, I'm not saying, for example, that Candace Owens can't suggest that Erica Kirk is involved somehow, fine. But when she gets the chance to finally be in a debate and present her evidence and she backtracks"
+- **CC-2268** [01:07:29](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=4049s) · context · **Max Pacheco**: In the X Space audio played on the show, Max says Uncle Tom apologized over DMs that people were saying Max was at UVU on September 10, but then justified people digging into his personal life as a result of high-profile assassinations.  
+  > "you said that people digging into my personal life was just a result of high-profile assassinations. You justified after deming how sorry you were that people were saying that I was at UV on September."
+- **CC-2269** [01:11:32](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=4292s) · context · **Uncle Tom**: In the X Space audio played on the show, Uncle Tom says he has verifiable evidence that private citizens are being doxed at large scale by people presenting themselves as "fed sloppers", who may be paid to do it.  
+  > "what I'm telling you is we have verifiable proof evidence uh that uh at a large scale private citizens are being doxed uh by people proposing that they're fed sloppers."
+- **CC-2270** [01:17:16](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=4636s) · core · **Max Pacheco**: In the X Space audio played on the show, Max says he was not at the UVU event and had nothing to do with Turning Point the previous year or with anything surrounding the assassination.  
+  > "It doesn't apply to me because I wasn't there. I had nothing to do with Turning Point last year. I had nothing to do with anything surrounding assassination."
+- **CC-2271** [01:22:45](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=4965s) · context · **Joah**: In the X Space audio played on the show, Joah says Tyler Robinson, on trial, is still innocent, and accuses Rob Noerr of trying to convince the world he is guilty because he worries the Republican party is being broken up.  
+  > "This guy who's on trial at the moment is still innocent. You're trying to convince the world that he's innocent, guilty, because you're worried that the Republican party is being broken up."
+- **CC-2272** [01:26:14](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5174s) · context · **Uncle Tom**: In the X Space audio played on the show, Uncle Tom says paid operatives are going to dox private citizens in a coordinated way through large group chats, and no truther group chat has been exposed.  
+  > "there's like a paid initiative operatives that are 100% going to dox private citizens in a coordinated fashion. They obviously um they're in group chats, large group chats."
+- **CC-2273** [01:27:08](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5228s) · context · **Gary Melton**: Gary Melton says Uncle Tom's claim that there are no truther group chats is false: there are Discord and group chats, and people send him material from them.  
+  > "There's plenty of There's Discord chats. There's group chats. You're a liar. I have evidence of this. I have I have people sending me stuff from those group chats."
+- **CC-2274** [01:30:05](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5405s) · core ↩ · **Gary Melton**: Gary Melton says he has seen Candace Owens dox a witness in the trial and go after her uncle, and dox multiple non-public people attached to TPUSA, and that she is being sued over doxing.  
+  > "I've seen Candace Owens dox a freaking uh uh a witness in the trial go after her uncle. I've seen her dox multiple people that are attached to TP USA that are not public personas"
+- **CC-2275** [01:31:29](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5489s) · tangential · **Veil (The Veiled Reckoning)**: In the X Space audio played on the show, Veil (The Veiled Reckoning) says she was doxed by Sean Campbell and that when she tagged Gary Melton about it he replied "lmao".  
+  > "The context of the post was that I got doxed by Sean Campbell."
+- **CC-2276** [01:33:49](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5629s) · context · **Gary Melton**: Gary Melton says Baron Coleman doxed his producer, a domestic-violence survivor with restraining orders, used a 13-year-old post to indirectly accuse her of hiring a hitman, and tied her to the Epstein files.  
+  > "he doxed my my producer who is a domestic violence uh uh survivor who has multiple restraining orders on people. Then he went out and got a 13-year-old post, accused her indirectly of hiring a hitman"
+- **CC-2277** [01:38:28](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=5908s) · context · **Baron Coleman**: In the X Space audio played on the show, Baron Coleman disputes that he doxed Gary Melton's producer Jen, saying he found her name when he pulled up her LinkedIn, which listed her as "Jen the producer".  
+  > "Did you see where I pulled up her LinkedIn and it said Jen the producer?"
+- **CC-2278** [01:43:28](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=6208s) · context · **Gary Melton**: Gary Melton says Baron Coleman claimed his producer Jen is connected to Epstein because of a 2018 SHOT Show photo with the founder of SEAL Team 6, and accused her of stolen valor though the nickname "GI Jen" came from her military-advocacy podcast.  
+  > "she took a picture with this guy and then in 2018 and now Baron Coleman in 2026 is saying that she is connected to Epstein through him because of a picture at Shot Show with this guy."
+- **CC-2279** [01:47:26](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=6446s) · tangential · **Jen (Gary Melton's producer)**: In the X Space audio played on the show, Jen tells Baron Coleman he read on his show that she was a domestic-violence survivor, kept making false claims, and painted her in a way that led his audience to go after her.  
+  > "you read on your show that I was a survivor of domestic violence and you continued throughout your podcast making false claims"
+- **CC-2280** [01:54:06](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=6846s) · context · **Gary Melton**: Gary Melton says Baron Coleman is on a sworn affidavit admitting he created a whisper campaign to prejudice a jury, and had to file a corrected affidavit after his own partner testified against him.  
+  > "He is on a sworn affidavit saying that he created a whisper campaign to prejudice a jury of the witch that he lied about before."
+- **CC-2281** [01:55:02](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=6902s) · tangential · **Gary Melton**: Gary Melton says Baron Coleman used Google Trends to claim Paramount Tactical was searched in Israel in June 2025, and that Gary could not reproduce any of those searches because Google Trends adds random noise.  
+  > "when he's going on there and pulling up Google Trends about Paramount Tactical that I was searched in Israel."
+- **CC-2282** [01:59:18](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=7158s) · context · **Gary Melton**: Gary Melton says he thinks narratives that Charlie Kirk was killed by his own government are heavily boosted by foreign bot farms, making their views largely artificial.  
+  > "I think if you put out a certain message that's anti-semitic that is divisive on the right that's saying that Charlie Kirk was killed by his own government or whatever else you are going to get views"
+- **CC-2283** [02:11:43](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=7903s) · context · **Gary Melton**: Gary Melton says he rejects a viewer's claim that Baron Coleman is paid by the Russian government until evidence is shown, but that there is a lot of Russian influence exploiting Charlie Kirk's death.  
+  > "there's definitely a lot of Russian influences taking place in this country when it comes to utilizing hijacking and exploiting the death of Charlie Kirk."
+- **CC-2284** [02:12:48](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=7968s) · core · **Kimberly**: Kimberly says the commentator Muppet has taken about 300 people from the UVU videos, found their names, matched them to their pictures and posted them on his Facebook.  
+  > "300 I think people so far he's taken from the UBU videos and found their names and connected their names with their picture and post him on his Facebook."
+- **CC-2285** [02:14:29](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8069s) · core · **Gary Melton**: Gary Melton says Muppet finds UVU attendees in crowd pictures, runs them through databases and facial recognition and posts their information, and that he may have called this terrorist behavior.  
+  > "He puts them across databases, facial recognition, finds these people, posts their information all over the place."
+- **CC-2286** [02:15:16](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8116s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens has painted a target on everyone at the event, even college students in maroon shirts, who have been investigated, background-checked and run through facial recognition.  
+  > "Candace is has painted the target on every person, even young kids that are in college that have a maroon shirt."
+- **CC-2287** [02:15:31](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8131s) · core · **Gary Melton**: Gary Melton says there is no evidence that anyone other than Tyler Robinson was involved, and he would pivot if given such evidence.  
+  > "can't come to grips with the fact that there's no evidence that anyone other than Tyler Robinson and I'll happily explore that."
+  - ✗ contradicts [C-4024](https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=1987s) (2025-12-11): The host says she thinks Tyler Robinson was involved that day and that multiple people were obviously involved.  
+    _Melton says there is no evidence anyone besides Robinson was involved; the host says multiple people were obviously involved._
+- **CC-2288** [02:18:27](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8307s) · core · **Gary Melton**: Gary Melton says Tyler Robinson's text messages are not hearsay, contrary to what the other side keeps saying.  
+  > "These people are still saying that the text messages from Tyler Robinson are hearsay. are not hearsay. The text messages, Tyler Robinson's text messages are not hearsay."
+- **CC-2289** [02:18:48](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8328s) · core · **Gary Melton**: Gary Melton says the text messages, once verified, plus the fact that Tyler Robinson's parents turned him in and will testify, are enough to convict him even without video or DNA.  
+  > "What you need is the text messages, which will be verified as true. And then what you need is the fact that the parents turned them in, and they will end up testifying."
+  - ✗ contradicts [C-10609](https://www.youtube.com/watch?v=EtLHqDbxqks&t=616s) (2026-07-13): The host says she maintained that Tyler Robinson's parents did not turn him in, and calls the parents-turned-him-in story a mainstreamed lie.  
+    _Melton says Robinson's parents turned him in; the host calls that a mainstreamed lie._
+  - ✗ contradicts [C-4295](https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=484s) (2025-12-18): The host says, flagging it as her own reading, that her investigation found that the story that Tyler Robinson's parents turned him in and did the right thing is false.  
+    _Melton relies on the parents turning Robinson in; the host says her investigation found that story false._
+- **CC-2290** [02:19:05](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8345s) · core · **Gary Melton**: Gary Melton says the recovered rifle matches the projectile found in Charlie Kirk and has Tyler Robinson's DNA on it, and Robinson's DNA is also on a screwdriver (later in the show he says the round is not a direct match to the rifle).  
+  > "We have a weapon. It matches with the projectile that was found in Charlie Kirk. What a coinky dink. Corroborating evidence. And then we have Tyler Robinson's DNA on that."
+  - ✗ contradicts [C-13097](https://www.youtube.com/watch?v=kn1E0scy9Wc&t=667s) (2026-09-15): The host says the screwdriver was proven not to tell us it is Tyler Robinson's DNA, though she declines to go into it that day.  
+    _Melton says Robinson's DNA is on the screwdriver; the host says the screwdriver does not show it is Robinson's DNA._
+  - ✓ supports [C-11690](https://www.youtube.com/watch?v=AH1KVKkweUE&t=563s) (2026-08-03): The host says the screwdriver found on the rooftop has Lance Twiggs's DNA alongside Tyler Robinson's DNA.  
+    _Both say Robinson's DNA is on the rooftop screwdriver._
+- **CC-2291** [02:19:38](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8378s) · core · **Gary Melton**: Gary Melton says it is known that Tyler Robinson went into the Sorensen building and ate at the Chick-fil-A, where cameras will show him, and license-plate readers will place his car around campus.  
+  > "when you go into the Sorenson building, we know that he went in there and ate at the Chick-fil-A. Folks, there's cameras all over the place."
+  - ✗ contradicts [C-4026](https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=1987s) (2025-12-11): The host says she does not believe Tyler Robinson was on campus that day.  
+    _Melton places Robinson in the Sorensen building and Chick-fil-A; the host says she does not believe Robinson was on campus that day._
+- **CC-2292** [02:20:11](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8411s) · core · **Gary Melton**: Gary Melton says Tyler Robinson stated in a text message "If I can get my rifle, I will have left no evidence" and then tried to get back to the rifle, which had already been found.  
+  > "He is so stupid that he actually stated in a text message, "If I can get my rifle, I will have left no evidence.""
+- **CC-2293** [02:20:41](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8441s) · core · **Gary Melton**: Gary Melton says Lance Twiggs' evidence at the preliminary hearing was hearsay only because he was not there to be cross-examined, and Twiggs will give the same testimony in person at trial, so it will be admissible.  
+  > "It was it was hearsay because he wasn't there and the defense wasn't able to um uh wasn't wasn't able to uh oh god uh cross-examine him. Right. But he's going to have that exact same testimony in person."
+  - ✓ supports [C-12603](https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1884s) (2026-09-01): The host says it is permitted for Lance Twiggs to submit video testimony and that the defense is not able to cross-examine him.  
+    _Both say the defense could not cross-examine Lance Twiggs on his preliminary-hearing testimony._
+  - ≈ qualifies [C-10615](https://www.youtube.com/watch?v=EtLHqDbxqks&t=769s) (2026-07-13): The host says every piece of evidence the influencers push relies on Lance Twiggs, who she says was immediately granted immunity by the feds and was not allowed to be cross-examined at this hearing even though arguments were made that his testimony amounted to hearsay.  
+    _Melton agrees Twiggs was not cross-examined at the hearing but says he will testify in person at trial._
+- **CC-2294** [02:24:00](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8640s) · core · **Gary Melton**: Gary Melton says the targeting of Erika Kirk should be the largest case of stochastic terrorism ever, since she took over for Charlie Kirk and millions now believe she killed her husband and is a child trafficker.  
+  > "I've said this about Erica Kirk like this should be the largest case of stochastic terrorism that we've ever seen because we already know that Erica Kirk is a great risk because she took over for Charlie Kirk."
+- **CC-2295** [02:29:09](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=8949s) · core · **Gary Melton**: Gary Melton says Ian Carroll and Valhalla pushed the false claim that the pictured rifle was a stock photo rather than an evidence photo; he agrees the rifle's look is explained by sporterizing old military rifles.  
+  > "this is you know uh Ian Carol and Valhalla they were pushing this thing that it was the stock it was a stock uh photo and it wasn't an evidence photo which was absolutely bonkers"
+- **CC-2296** [02:30:43](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9043s) · core · **Meat Hands**: Meat Hands says there are military reports of .50 BMG anti-materiel rounds stopping in a body, and reports of .30-06 rounds not passing through a body at various distances, so claims the shot should have passed through or decapitated Charlie Kirk are false.  
+  > "Real quick, Google, has there ever been a report of 30 odd six not passing through a body? Yes."
+- **CC-2297** [02:32:16](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9136s) · core · **Gary Melton**: Gary Melton says backyard ballistics tests with meat cannot replicate the shot on Charlie Kirk from 138 yards given the bullet and rifle variables, and the exact impact point is not even known.  
+  > "And then you think that every time that you shot that round from 138 yards, it would hit in the exact same place that it hit Charlie"
+- **CC-2298** [02:34:11](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9251s) · core · **Gary Melton**: Gary Melton mocks the claim that the person on the rooftop used military movements, showing a side-by-side of a soldier and a baby doing the same lateral crawl.  
+  > "Do want to show you uh side by side so you can actually see a real military man do that um um alongside this person on the rooftop."
+- **CC-2299** [02:38:17](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9497s) · core · **Gary Melton**: Gary Melton says the claim that Tyler Robinson's car had quad exhaust tips (and the fog-light claim) is a frame-rate artifact: when the car pulls away in line with the camera it clearly has single tips, which hoaxers like Diligent Dennison obscure.  
+  > "the moment that the vehicle starts pulling away in direct line with it, it clearly shows that they are single tipped exhausts, but they don't show that and they obscure that intentionally"
+- **CC-2300** [02:38:32](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9512s) · core · **Gary Melton**: Gary Melton says the "penguin receipt" and the alleged Facebook DMs from Tyler Robinson's father Matt Robinson are hoaxes.  
+  > "now we're talking about these uh alleged text message or DMs uh on Facebook from um Tyler Robinson's father, Matt Robinson. Like these are all hoaxes"
+  - ✗ contradicts [C-12175](https://www.youtube.com/watch?v=E7P2ShoYDUA&t=2970s) (2026-08-17): The host says she spoke to the owner, who told her he pulled the receipt and that it was Tyler Robinson's receipt, so she put the steakhouse visit on her timeline.  
+    _Melton calls the Panguitch receipt a hoax; the host says the owner told her it was Robinson's receipt._
+- **CC-2301** [02:45:35](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=9935s) · context ↩ · **Gary Melton**: Gary Melton says Andrew Wilson paying $300,000 to debate Candace Owens was what was needed to show outsiders what she is saying, bringing new people into the fight against her.  
+  > "why would you pay $300,000? I think unfortunately that's exactly what was needed to get the attention and for people to actually see this"
+- **CC-2302** [02:49:28](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10168s) · core · **Gary Melton**: Gary Melton says his position is not that it was 100% a .30-06, but that it is far from impossible, given case studies and the .30-06 found in the woods.  
+  > "I constantly hear Gary, you are saying that 100% that it's a 30 odd six. That's not my position."
+- **CC-2303** [02:50:06](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10206s) · core · **Gary Melton**: Gary Melton says the recovered round is not a direct match to the rifle but is a .30-caliber round consistent with a .30-06, the ATF report is otherwise inconclusive, and that this proves there was no conspiracy because a faked report would have been conclusive.  
+  > "It's not a direct match to the rifle, but it's definitely a 30 caliber round that is congruent with it being used with a 300 6. Other than that, that is inconclusive"
+  - ✓ supports [C-7834](https://www.youtube.com/watch?v=rupRLXmSndU&t=2010s) (2026-04-01): The host says the ATF says its bullet comparison is inconclusive, which she calls the best they could do.  
+    _Both say the ATF bullet-to-rifle comparison was inconclusive._
+  - ✗ contradicts [C-1617](https://www.youtube.com/watch?v=pc3pxRyNFZk&t=362s) (2025-10-09): The host says Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.  
+    _Melton says a .30-caliber round consistent with a .30-06 was recovered; the host says no .30-06 bullet was recovered from Kirk's body._
+- **CC-2304** [02:52:37](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10357s) · core · **Viva Dave**: Viva Dave says Alex Jones first said he had shot a pig with a .300 Win Mag and the round did not exit, so a less powerful .30-06 might not exit Charlie Kirk, though Jones later said it was definitely not a .30-06.  
+  > "I've shot a pig with a 300 Win Mag, which is significantly more powerful than a 306 for those people that aren't gun nuts like Gary and I, right? Uh, and the round did not exit the pig body."
+- **CC-2305** [02:53:47](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10427s) · core · **Gary Melton**: Gary Melton says a man argued to him that the exploding-mic theory was real using a claymore mine analogy, which Gary rejects because of the claymore's back blast.  
+  > "He was telling me why the exploding mic was real because and then he uses a claymore mine."
+- **CC-2306** [02:56:44](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10604s) · core ↩ · **Eternal Abyss**: Eternal Abyss, who says he has digital-forensics experience, says Candace Owens' claims that metadata could have been changed or edited fail because digital forensic software detects manipulated metadata, images and video.  
+  > "Yeah, metadata can be manipulated, but guess what? Digital forensic software will detect that."
+- **CC-2307** [02:59:34](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10774s) · core · **Gary Melton**: Gary Melton says the defense does not have Tyler Robinson's physical phone, which the feds hold, but has had the Cellebrite extraction since March, which shows anything deleted or altered.  
+  > "They don't have the actual cell phone. The feds still have that. But the defense has actually had the Cellbride extraction since March."
+- **CC-2308** [03:01:01](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10861s) · core · **Gary Melton**: Gary Melton, citing defense attorney Andrea Burkhart, says that if the phone data gave Tyler Robinson an alibi or showed altered texts, the defense would have raised it at the preliminary hearing to defeat probable cause rather than leave him jailed for 18 months.  
+  > "if Tyler Robinson has an alibi and the defense can present that at the preliminary hearing, guess what? There's no probable cause."
+- **CC-2309** [03:01:47](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=10907s) · core · **Gary Melton**: Gary Melton says conspiracy promoters are already hedging by implying Tyler Robinson is not declaring his innocence for some reason, and are saying the defense is in on it.  
+  > "they've implied this already that there's there's some pot some potential that there's a reason that Tyler Robinson is not declaring his own innocence for one reason or another."
+- **CC-2310** [03:05:08](https://www.youtube.com/watch?v=TmZuHDT1_QM&t=11108s) · context · **Savage Leroy**: Savage Leroy describes the theories pushed by figures like Stu Peters and Ian Carroll, a "Hades" airplane, generals, Raytheon and the president in a gun-running scheme with Tyler Robinson, as elaborate and easy to pick apart.  
+  > "we have this whole thing where it's, you know, a Hades airplane in the sky and we have generals involved and Rathon and, you know, the president's in a gun running scheme with Tyler Robinson"
+
+## K-042
+**[CANDACE OWENS: LIES, LIES & DEFAMATION | RAEES MOHAMED, ESQ. (BEARD LAWYER) ANSWERS YOUR QUESTIONS)](https://www.youtube.com/watch?v=We-CGZfSRGE)** · Paramount Tactical · 2026-10-20 · 133 min · scope: full video (multi-speaker; unattributable lines skipped)
+
+- **CC-2311** [00:01:30](https://www.youtube.com/watch?v=We-CGZfSRGE&t=90s) · context · **Raees Mohamed**: Raees Mohamed says the May ruling in the Upchurch case matters for Brian Harpole's case because Candace Owens could argue that Harpole's public-facing security role and later media appearances made him a limited purpose public figure, which would require him to prove actual malice.  
+  > "Owens could argue that Harpole's public-facing security role and then subsequent media appearances made him a limited purpose public figure"
+- **CC-2312** [00:02:02](https://www.youtube.com/watch?v=We-CGZfSRGE&t=122s) · context · **Raees Mohamed**: Raees Mohamed says a federal judge in Tennessee ruled in the Upchurch case that being pulled into a nationally publicized tragedy does not automatically make someone a public figure, and that Candace Owens now faces a defamation suit in a similar jurisdiction on similar facts.  
+  > "A federal judge in Tennessee basically ruled that being pulled into a nationally published tragedy doesn't automatically make you a public figure."
+- **CC-2313** [00:04:12](https://www.youtube.com/watch?v=We-CGZfSRGE&t=252s) · context ↩ · **Raees Mohamed**: Raees Mohamed says Candace Owens is 'Scooby-Dooing' the case, trying to play investigator, and that he thinks she crossed the line into making factual statements.  
+  > "She's Scooby-Dooing this whole case trying to play investigator and I I think she did cross the line um making factual statements."
+- **CC-2314** [00:04:41](https://www.youtube.com/watch?v=We-CGZfSRGE&t=281s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens was given exculpatory information, essentially an alibi for Brian Harpole, at her meeting with Erika Kirk on December 14th or 15th.  
+  > "Candace was given exculpatory information essentially, given an alibi. Uh uh with her meeting with Erica Kirk on December 14th or 15th, I forget which day it was."
+  - ✗ contradicts [C-9128](https://www.youtube.com/watch?v=KpxIBWkNsSs&t=3057s) (2026-05-11): The host says she interviewed Mitch on the 18th because she had messaged Brian Harpole and Erika did not give her an alibi for him, and Mitch said he saw Erika on the 8th.  
+    _Melton says Erika Kirk gave the host an alibi for Harpole at their December meeting; the host says Erika did not give her one._
+  - ✗ contradicts [C-10124](https://www.youtube.com/watch?v=3QJqtW_NOSI&t=620s) (2026-06-18): The host says neither Brian Harpole nor Erika Kirk has given a clear alibi. She says Andrew Kolvet offered children as Erika's and then retracted that, and Paramount Tactical said the children were not Erika's.  
+    _Melton says the host received alibi information for Harpole; the host says Harpole has given no clear alibi._
+- **CC-2315** [00:05:15](https://www.youtube.com/watch?v=We-CGZfSRGE&t=315s) · core ↩ · **Gary Melton**: Gary Melton says that at the meeting Erika Kirk told Candace Owens that Brian Harpole sounded like he was talking about suing her over the Fort Huachuca episode, and that on December 18th or 19th Owens aired another episode with Mitch Snow that restated all the original claims and added some.  
+  > "on December 18th or 19th uh she airs another episode with uh Mitch Snow that basically restates all the original claims and and then some additional ones."
+  - ✓ supports [C-8667](https://www.youtube.com/watch?v=69A8TzAGHlU&t=1289s) (2026-04-30): The host says that before she did the interview, Brian Harpole was telling people to say he would sue her if she interviewed Mitch Snow.  
+    _Both say the host was warned before the Mitch Snow interview that Brian Harpole would sue her._
+  - ✓ supports [C-9128](https://www.youtube.com/watch?v=KpxIBWkNsSs&t=3057s) (2026-05-11): The host says she interviewed Mitch on the 18th because she had messaged Brian Harpole and Erika did not give her an alibi for him, and Mitch said he saw Erika on the 8th.  
+    _Both put the Mitch Snow interview on December 18, after the meeting with Erika Kirk._
+- **CC-2316** [00:05:52](https://www.youtube.com/watch?v=We-CGZfSRGE&t=352s) · context ↩ · **Raees Mohamed**: Raees Mohamed says that, put another way, Candace Owens had knowledge that certain statements she published about Brian Harpole were likely false.  
+  > "Candace Owens had knowledge that certain statements she published about Brian Harpole were likely false."
+- **CC-2317** [00:12:45](https://www.youtube.com/watch?v=We-CGZfSRGE&t=765s) · context · **Raees Mohamed**: Raees Mohamed says he certainly does not think Candace Owens will successfully argue that Robbie Hild, a Utah resident and BYU graduate suing her, is a public figure.  
+  > "I certainly don't think that she's going to successfully argue that Hild is a is a public figure."
+- **CC-2318** [00:17:27](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1047s) · context ↩ · **Raees Mohamed**: Raees Mohamed says Candace Owens' supporters' argument that only Mitch Snow made the claims will not work: if anything Mitch Snow might have a defense, because the person who says a statement on a show carries the liability.  
+  > "If you're the publisher like if you said a statement on a show you as the speaker are going to carry liability."
+- **CC-2319** [00:17:58](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1078s) · core ↩ · **Gary Melton**: Gary Melton says that at the very beginning of her first Fort Huachuca episode Candace Owens said she did not know how it could lead to anything other than a full confession from the government about its involvement in the Charlie Kirk assassination.  
+  > "at the very beginning of that first episode she said after today I do not know how this leads to anything other than a full confession from the government"
+- **CC-2320** [00:19:18](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1158s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens' claim that Joe Kent vetted Mitch Snow is misleading: Joe Kent did what Gary would do, and Mitch Snow sent him documents saying he is a Green Beret, which is about the extent of it.  
+  > "Joe Kent did exactly what I would do. And Mitch Snow sent him some documents that said, "Hey, he's a Green Beret.""
+- **CC-2321** [00:21:22](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1282s) · core ↩ · **Gary Melton**: Gary Melton says that on December 16th or 17th, after her meeting with Erika Kirk, Candace Owens texted Brian Harpole two or three times saying she had heard he was potentially suing her over the Fort Huachuca story.  
+  > "she started texting Rob Harpole and said, "Hey, I heard that you were potentially suing me uh over the story at Fort Huachuca."
+- **CC-2322** [00:21:58](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1318s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens had Brian Harpole's phone number before the first Fort Huachuca story on December 8th or 9th but never texted him until after she heard he had an alibi and was potentially suing her.  
+  > "you had his phone number and you never bothered to text him and it wasn't till after after that you heard that he number one had an alibi"
+- **CC-2323** [00:25:24](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1524s) · context ↩ · **Gary Melton**: Gary Melton says that in her motions to dismiss in the Krone case and the Harpole case Candace Owens responded that she is not a journalist but an entertainer and a commentator on YouTube, even though she calls her show an investigation.  
+  > "she has responded with I'm not a journalist. I'm just an entertainer and I'm just a commentator on YouTube."
+- **CC-2324** [00:25:33](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1533s) · context ↩ · **Raees Mohamed**: Raees Mohamed says Candace Owens' inconsistent statements about being an investigator versus an entertainer could be used to impeach her credibility.  
+  > "The inconsistent statement could be used to impeach her credibility."
+- **CC-2325** [00:27:27](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1647s) · tangential · **Raees Mohamed**: Raees Mohamed says that at a comedy show in Phoenix Dave Chappelle said Candace Owens sent him a video text trying to drum up support.  
+  > "Dave Chappelle gets on stage and he goes, "Candace Owens sent him a video text." And in the video text said,"
+- **CC-2326** [00:28:58](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1738s) · context · **Gary Melton**: Gary Melton says some of Candace Owens' large-account followers have posted lists of the people they go to for facts on the Charlie Kirk case, with Candace Owens first.  
+  > "say "These are the people that I go to for facts on the Charlie Kirk case." And you know, like Candace Owens is the first one."
+- **CC-2327** [00:29:49](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1789s) · context ↩ · **Gary Melton**: Gary Melton says the lawsuit against Candace Owens includes many comments from her comment section showing viewers reached the conclusion she wanted.  
+  > "they actually include a lot of comments from her comment section in the lawsuit."
+- **CC-2328** [00:31:34](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1894s) · core · **Gary Melton**: Gary Melton says Mitch Snow said there was a 95% to 99% chance he saw Erika Kirk and Brian Harpole, which Gary calls pretty definitive.  
+  > "He said that it was only a 95% to 99% chance that he saw Erica Kirk and Brian Harpole."
+  - ✓ supports [C-9109](https://www.youtube.com/watch?v=KpxIBWkNsSs&t=2718s) (2026-05-11): The host says Mitch was clear that he saw both Brian Harpole and Erika, and that he saw Erika on the 8th and she was not leaving a meeting.  
+    _Both say Mitch Snow was near-certain he saw both Brian Harpole and Erika Kirk._
+- **CC-2329** [00:32:10](https://www.youtube.com/watch?v=We-CGZfSRGE&t=1930s) · context · **Raees Mohamed**: Raees Mohamed says Mitch Snow saying he was 95% to 99% certain is dangerous for him because it sounds like a very strong factual accusation.  
+  > "saying that you're 95% to 99% certain is actually dangerous. I'll tell you why it's dangerous for for Mitch Snow."
+- **CC-2330** [00:33:52](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2032s) · core · **Gary Melton**: Gary Melton says Mitch Snow claimed a gift for remembering faces, put his certainty that it was Brian Harpole at 95 to 99%, and gave the same range for recalling Erika Kirk on location.  
+  > "And then he gave the same range when he was recalling Eric Kirk on location."
+- **CC-2331** [00:39:26](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2366s) · core · **Gary Melton**: Gary Melton says Baron Coleman said, almost as a direct quote, that Charlie Kirk was electrocuted, something blew up on his chest, he was dragged off and thrown in a car still alive, his neck was manually broken and a pre-fired bullet was shoved into the hole in his neck, and then called it his opinion.  
+  > "they they dragged him off, they threw him in a car, uh he was still alive, they manually broke his neck, and then shoved a freaking pre-fired bullet"
+- **CC-2332** [00:40:13](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2413s) · context · **Raees Mohamed**: Raees Mohamed says that in 16 years of defamation and First Amendment practice he is not aware of a single published case holding that saying 'in my opinion' or 'allegedly' makes a speaker scot-free.  
+  > "I am not aware of a single case that takes the position that's published, that's authoritative, that says, "If you just say, in my opinion or allegedly, you are scot-free.""
+- **CC-2333** [00:41:52](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2512s) · context · **Gary Melton**: Gary Melton says Baron Coleman is a lawyer barred in multiple states and, in his opinion, more vicious, malicious and predatory than Candace Owens.  
+  > "This is uh Baron Coleman. He was a he's is a lawyer, he's a barred lawyer in multiple states."
+- **CC-2334** [00:42:31](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2551s) · core · **Baron Coleman**: In a clip played on the show, Baron Coleman says that if Charlie Kirk supposedly died at the scene, as Frank Turek and Brian Harpole described, they could have folded him up and closed the door, and asks why they risked someone falling out of the car at highway speeds.  
+  > "If he supposedly died at the scene just fold him up and close the door. Why are you risking someone falling out of the car at highway speeds?"
+- **CC-2335** [00:42:58](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2578s) · core · **Gary Melton**: Gary Melton says Brian Harpole said that when he saw Charlie Kirk he thought he was dead, but the team still did everything they could to try to save his life.  
+  > "Brian Harpole said, "Look, when I saw Charlie I thought he was dead." But of course they're still going to do everything they can"
+- **CC-2336** [00:43:19](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2599s) · core · **Baron Coleman**: In a clip played on the show, Baron Coleman says there were three police reports during the 12-minute drive of someone hanging out of the car that police thought was a victim.  
+  > "12 minutes and you got multiple three police reports of someone hanging out of the car and they think it's a victim."
+  - ✓ supports [C-12866](https://www.youtube.com/watch?v=bpXkPHpz9po&t=826s) (2026-09-09): The host says police came to the vehicle because Charlie's feet were hanging out.  
+    _Both say police responded to the SUV because Charlie Kirk was hanging out of it._
+- **CC-2337** [00:44:07](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2647s) · core · **Baron Coleman**: In a clip played on the show, Baron Coleman says Brian Harpole on the Shawn Ryan show and Frank Turek on the Megyn Kelly show described holding each other in the car with the door open, and that this sounds to him like they were setting up a story to pre-empt people discovering the 911 calls.  
+  > "No, that sounds to me like you guys were setting up a story that you knew we would eventually trip over these calls and you guys wanted to um pre-empt."
+- **CC-2338** [00:44:43](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2683s) · core · **Baron Coleman**: In a clip played on the show, Baron Coleman says the movement of Charlie Kirk's t-shirt is inconsistent with a gunshot to the neck and that the way his hands gripped the microphone looks to him like he was electrocuted.  
+  > "Um his hands, the way they grip the microphone, um looks to me like he got electrocuted."
+- **CC-2339** [00:45:40](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2740s) · core · **Gary Melton**: Gary Melton says Baron Coleman's claim of an electromagnetic pull on Charlie Kirk's ring is false because a body does not generate an electromagnetic field when electrocuted, and the ring is probably non-ferrous.  
+  > "Folks, your body doesn't generate an electromagnetic field, especially with a ring, which is probably non-ferrous to begin with,"
+- **CC-2340** [00:46:09](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2769s) · core · **Baron Coleman**: In a clip played on the show, Baron Coleman says a medical report shows Charlie Kirk had a broken series of vertebrae from C1 or C2 down to C7 or T1, plus wounds on his arm resembling a taser or puncture wound.  
+  > "then you have this this medical report of a broken series of vertebrae from the C1 or 2 all the way down to the C7 or T1."
+- **CC-2341** [00:46:30](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2790s) · core · **Baron Coleman**: In a clip played on the show, Baron Coleman says his working hypothesis is that Charlie Kirk was attacked several ways and his neck was then broken in the car, with a 0% chance he left Orem, Utah alive.  
+  > "and then we're going to break his neck in the car and he's not walking out of this alive. There's a 0% chance he leaves Orm Utah alive"
+- **CC-2342** [00:47:07](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2827s) · core · **Baron Coleman**: In a clip played on the show, Baron Coleman says what police described on the way to the hospital sounds to him like a man fighting back and struggling.  
+  > "what the police are describing on the way to the hospital is a guy fighting back. A guy a a guy struggling is what it sounds like to me."
+- **CC-2343** [00:47:33](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2853s) · core · **Gary Melton**: Gary Melton says that in a different episode Baron Coleman said he believes the security team pre-fired a round, pulled it from a pocket and stuffed it into the wound, while calling it his theory or opinion.  
+  > "He says he believes that the security team pre-fired a round pulled it out of his pocket and stuffed it into the wound"
+- **CC-2344** [00:49:18](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2958s) · context · **Gary Melton**: Gary Melton says Baron Coleman sent him a text threatening to sue him.  
+  > "he's also he's also sent me a text threatening to sue me and a couple of other things."
+- **CC-2345** [00:49:50](https://www.youtube.com/watch?v=We-CGZfSRGE&t=2990s) · core · **Raees Mohamed**: Raees Mohamed says the obvious alternative explanation for what Baron Coleman described is that in a life-threatening emergency the security team prioritized reaching the hospital and continuing first aid.  
+  > "in a life-threatening emergency, the security team might have prioritized, oh, I don't know, reaching the hospital and continuing first aid"
+- **CC-2346** [00:51:51](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3111s) · core · **Gary Melton**: Gary Melton says Charlie Kirk was murdered around 12:23 and by about noon the next day was on the tarmac being loaded onto Air Force One, and that Baron Coleman argued no proper autopsy could have been done in that time.  
+  > "So by the next day around noon, he is now on the tarmac being loaded up uh by Air Force One."
+- **CC-2347** [00:52:34](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3154s) · context · **Gary Melton**: Gary Melton says Baron Coleman pushed the autopsy narrative for over 10 months while getting about 500,000 views per episode, and that several pathologists reached out to him to debunk it.  
+  > "Well, he pushes this for over 10 months. Over 10 months this guy had gets 500,000 views per episode."
+- **CC-2348** [00:53:28](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3208s) · core · **Gary Melton**: Gary Melton says forensic pathologist Joseph Scott Morgan told Baron Coleman an autopsy for one gunshot wound takes 2 to 4 hours and it was plausible to have Charlie Kirk on the tarmac 12 or 13 hours later.  
+  > "Do you think it's plausible that they have him on the tarmac the next day 12 hours 13 hours later?" He's like, "Yeah, no problem.""
+  - ✗ contradicts [C-11594](https://www.youtube.com/watch?v=iB-YtO3UZOg&t=50s) (2026-07-30): The host says Charlie Kirk's autopsy was performed in the middle of the night and was finished in a couple of hours, which she calls the fastest autopsy ever.  
+    _The host calls a couple-of-hours autopsy the fastest ever; Melton cites a pathologist saying 2 to 4 hours is normal for one gunshot wound._
+- **CC-2349** [00:54:59](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3299s) · core · **Gary Melton**: Gary Melton says law enforcement and a fire truck followed the SUV carrying Charlie Kirk with a door open at about 60 mph, and police talked about it on the radio.  
+  > "these like law enforcement and also a fire truck ends up following them cuz they load them up in the SUV."
+  - ✓ supports [C-10320](https://www.youtube.com/watch?v=sKuYLNx3iRo&t=643s) (2026-06-24): The host says that in footage of the SUV pulling out, the door can be seen ajar, which fits Harpole's statement that the door was not closed.  
+    _Both say the SUV carrying Charlie Kirk drove off with a door open._
+- **CC-2350** [00:55:32](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3332s) · core · **Gary Melton**: Gary Melton says Baron Coleman's ultimate claim is that Charlie Kirk was still alive and the security team was finishing him off inside the car.  
+  > "what really he's saying is this is a man that's fighting for his life cuz his ultimately what he says is that Charlie Kirk is still alive and they're finishing him off inside the car."
+- **CC-2351** [00:56:05](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3365s) · core · **Raees Mohamed**: Raees Mohamed says that, per Brian Harpole's first-hand account on the Shawn Ryan show, Charlie Kirk's height and positioning prevented the SUV's rear door from closing.  
+  > "According to his account, Kirk's height and positioning prevented the SUV's rear door from closing."
+- **CC-2352** [00:56:18](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3378s) · core · **Raees Mohamed**: Raees Mohamed says Brian Harpole also said the driver left immediately while another security operator held onto Harpole so he would not fall out as he gave Charlie Kirk first aid.  
+  > "Harpole also said that the driver immediately departed. He left right away. It was an emergency. While another security operator held onto Harpole to prevent him from falling out"
+- **CC-2353** [00:58:48](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3528s) · context · **Raees Mohamed**: Raees Mohamed says the claim in the Baron Coleman clip that Brian Harpole and Frank Turek were setting up a story because they knew the calls would be discovered implies knowledge, foresight and coordination and is a great candidate for a defamation lawsuit.  
+  > "That implies knowledge and foresight and coordination. That to me is a great candidate for a defamation lawsuit."
+- **CC-2354** [01:00:12](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3612s) · core · **Gary Melton**: Gary Melton says he can show hundreds of clips implying the assassination was planned, coordinated and known by everybody on Charlie Kirk's security team, with further implications that TPUSA and Israel were involved.  
+  > "the overall implication is that this was planned, coordinated, and known by everybody on on Charlie Kirk's security team. It's further implied that TPUSA was involved,"
+- **CC-2355** [01:02:29](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3749s) · core · **Gary Melton**: Gary Melton says he has yet to see any legitimate evidence that anyone other than Tyler Robinson was involved.  
+  > "I have yet to see any sort of legitimate evidence whatsoever that anyone else was involved."
+  - ✗ contradicts [C-4024](https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=1987s) (2025-12-11): The host says she thinks Tyler Robinson was involved that day and that multiple people were obviously involved.  
+    _Melton says there is no legitimate evidence anyone besides Robinson was involved; the host says multiple people obviously were._
+- **CC-2356** [01:04:39](https://www.youtube.com/watch?v=We-CGZfSRGE&t=3879s) · core · **Raees Mohamed**: Raees Mohamed says the judge in the Tyler Robinson criminal case is excellent and has made exceptional rulings.  
+  > "I do not view the Tyler Robinson criminal trial, which by the way the judge is excellent, exceptional, has made exceptional rulings in that case,"
+- **CC-2357** [01:08:29](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4109s) · core · **Gary Melton**: Gary Melton says Tyler Robinson's text and Discord messages contain essentially 11 confessions, plus other recorded statements such as 'you'll be able to see me in security footage, UVU'.  
+  > "these text messages there's essentially 11 confessions uh that's included in those text messages and or Discord messages."
+- **CC-2358** [01:09:37](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4177s) · core · **Gary Melton**: Gary Melton says the text messages were handed over to the defense in March.  
+  > "And and they were handed over and those were actually handed over to the defense in March."
+  - ✗ contradicts [C-10267](https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1631s) (2026-06-23): The host says the defense has not been given access to Robinson's text messages to confirm they are real or were sent from his phone.  
+    _Melton says the texts went to the defense in March; the host says in June the defense had no access to them._
+- **CC-2359** [01:10:16](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4216s) · core · **Raees Mohamed**: Raees Mohamed says Judge Graf has ruled that prosecutors presented enough evidence to proceed on all seven counts, and the text messages were central to that ruling.  
+  > "Judge Graph has ruled already that prosecutors presented enough evidence to proceed on all seven counts, right?"
+  - ✓ supports [C-12642](https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=144s) (2026-09-02): The host says Judge Graf ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.  
+    _Both say Judge Graf ruled the state's evidence was enough to bind Robinson over for trial._
+- **CC-2360** [01:10:28](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4228s) · core · **Raees Mohamed**: Raees Mohamed says that according to testimony Lance Twiggs asked Tyler Robinson whether he was the one who did it, and prosecutors said Robinson answered that he was.  
+  > "according to testimony, Twiggs asked Robinson whether he was the one who did it, right?"
+- **CC-2361** [01:10:46](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4246s) · core · **Raees Mohamed**: Raees Mohamed says that, according to investigators, Tyler Robinson allegedly posted in a Discord chat room that it was him at UVU, about an hour before turning himself in.  
+  > "I think Tyler Robinson allegedly posted in Discord chat room that it was him at UVU according to investigators."
+- **CC-2362** [01:10:55](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4255s) · core · **Raees Mohamed**: Raees Mohamed says the roommate allegedly gave the text messages to investigators himself, which matters for the fabrication theory.  
+  > "the roommate allegedly provided the text messages to investigators himself, which matters for the fabrication theory."
+- **CC-2363** [01:11:44](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4304s) · core · **Raees Mohamed**: Raees Mohamed says Lance Twiggs' phone came from a civilian, not an evidence locker, so any fake messages would have had to be planted consistently on both his and Robinson's phones.  
+  > "So, Twig's phone came from a civilian, not out of an evidence locker. So, the fake would have to have been planted on his phone and Robinson's phone consistently."
+- **CC-2364** [01:13:35](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4415s) · core · **Raees Mohamed**: Raees Mohamed says authorities say DNA consistent with Tyler Robinson's was found on the trigger, the fired casings, two unfired cartridges and the towel around the rifle.  
+  > "authorities say DNA consistent with Robinson's was found on the trigger, the fired casings, two unfired cartridges, and the towel around the rifle."
+- **CC-2365** [01:14:38](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4478s) · core · **Raees Mohamed**: Raees Mohamed says the government may have altered evidence in past cases but he does not think this is one of those situations.  
+  > "The government may have done those things in the past. I mean, there there's cases I'm sure we could think of. Uh I don't think this is one one those situations."
+- **CC-2366** [01:15:00](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4500s) · core · **Gary Melton**: Gary Melton says defense lawyer Andrea Burkhart said fabricated texts would be a defense lawyer's dream and would be front and center at the preliminary hearing.  
+  > "this would be a defense lawyer's dream that we have the government or the state or whomever fabricating this evidence."
+- **CC-2367** [01:15:21](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4521s) · core · **Gary Melton**: Gary Melton says the defense called two witnesses at the preliminary hearing, the ATF ballistics expert and the DNA expert.  
+  > "They called the ATF ballistics expert and actually called the DNA expert up there."
+- **CC-2368** [01:17:25](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4645s) · core · **Raees Mohamed**: Raees Mohamed says, citing a commentator, that the FBI examiner put the towel at roughly 95% Robinson and 5% Twiggs, and gives an 89% and 11% split for the screwdriver.  
+  > "One commentator noted the FBI examiner put the towel at roughly 95% Robinson and 5% Twiggs."
+  - ≈ qualifies [C-11959](https://www.youtube.com/watch?v=d7VsbEIWkP8&t=1213s) (2026-08-06): The host says Lance Twiggs has his DNA on the towel and on the rifle.  
+    _The host says Twiggs's DNA is on the towel; Mohamed cites the examiner putting it at about 5% Twiggs and 95% Robinson._
+- **CC-2369** [01:19:14](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4754s) · core · **Gary Melton**: Gary Melton says phone location data will show the device messaging from UVU while the other device was about 3 and a half hours away in Washington County, Utah.  
+  > "this device that was messaging this device that was 3 and 1/2 hours away was at this location at UVU,"
+- **CC-2370** [01:21:10](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4870s) · context ↩ · **Gary Melton**: Gary Melton says Baron Coleman has repeated Candace Owens' claims and added a technical layer of investigation on top, which could make him an easier defamation target.  
+  > "Baron Coleman has spent most of the time not only parodying exactly what she said, but adding a technical layer of investigat- investigation on top of that."
+- **CC-2371** [01:21:45](https://www.youtube.com/watch?v=We-CGZfSRGE&t=4905s) · context · **Gary Melton**: Gary Melton says that if TPUSA and Erika Kirk sue Candace Owens he would be shocked if people like Baron Coleman were not included.  
+  > "if and when if TPUSA and Erica Kirk end up launching a lawsuit against Candace Owens, I would be shocked if other people like Baron Coleman weren't included."
+- **CC-2372** [01:23:29](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5009s) · core ↩ · **Raees Mohamed**: Raees Mohamed says Candace Owens has called Brian Harpole a murderer and a conspirator and said it was all a plan, so liability could be an eight-figure verdict.  
+  > "In the case of Bryan Harpole, Candace Owens has actually called him a murderer, a conspirator. That this was all a plan."
+- **CC-2373** [01:23:57](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5037s) · context · **Raees Mohamed**: Raees Mohamed says Brian Harpole's case is in the Middle District of Tennessee, in federal district court on diversity.  
+  > "The case is in the Middle District of Tennessee, right? Based on diversity in the District Court."
+- **CC-2374** [01:25:00](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5100s) · context · **Raees Mohamed**: Raees Mohamed says Brian Harpole's case could produce a 10 to 20 million dollar plus jury verdict.  
+  > "So, this could be a 10 million 20 million plus jury verdict, you know?"
+- **CC-2375** [01:25:31](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5131s) · core · **Gary Melton**: Gary Melton says Brian Harpole, his family and his kids have received death threats.  
+  > "I know he's him and his family, his kids, and everybody else have received death threats."
+- **CC-2376** [01:27:08](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5228s) · context · **Raees Mohamed**: Raees Mohamed says he thinks the defamation cases against Candace Owens are at least a year away from any settlement.  
+  > "I think we're at least a year away from any sort of settlement."
+- **CC-2377** [01:30:10](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5410s) · context · **Gary Melton**: Gary Melton says people on TPUSA's radar who received cease-and-desist letters, including Wolves and Finance, are continuing rather than ceasing.  
+  > "all these people that are on the radar of TPUSA and have received cease and desists um and yet more or less continue they're not they're not ceasing or desisting."
+- **CC-2378** [01:34:17](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5657s) · core ↩ · **Gary Melton**: Gary Melton says criticism of Erika Kirk and TPUSA was mild until the December 8th Fort Huachuca episode, after which Brian Harpole was defamed and Candace Owens ramped up against Erika Kirk, who was named in the conspiracy in the December 18th or 19th episode.  
+  > "it was after the December 8th Fort Huachuca episode that obviously Bryan Harrell was defamed and then she really ramped things up against Erica Kirk."
+- **CC-2379** [01:34:54](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5694s) · context ↩ · **Gary Melton**: Gary Melton says he expects a lawsuit around December 8th that ties the December 8th episode to the December 18th or 19th episode.  
+  > "So, I think December 8th I would expect to see a lawsuit drop because they're going to tie that December 8th episode in with the December 18th or 19th episode"
+- **CC-2380** [01:37:08](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5828s) · core · **Gary Melton**: Gary Melton says Baron Coleman's narrative that Tyler Robinson was in custody at 6:25 p.m. on September 11th is demonstrably false.  
+  > "this narrative that he's created that Tyler Robinson was actually in custody at 6:25 p.m. on September 11th. It's demonstrably false."
+- **CC-2381** [01:37:26](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5846s) · core · **Gary Melton**: Gary Melton says Baron Coleman's motive is to convince his audience that a multi-agency conspiracy fabricated Tyler Robinson's Discord confession sent at 7:57 p.m.  
+  > "there's a larger multi-agency conspiracy that fabricated the Discord message, the Discord confession, that went out at 7:57 p.m."
+- **CC-2382** [01:38:15](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5895s) · core · **Baron Coleman**: In a clip played on the show, Baron Coleman says the official narrative is that Tyler Robinson turned himself in at the Washington County Sheriff's office at 9:00 p.m., that he does not know if he did or not, and that people wrongly say he claims with certainty that he didn't.  
+  > "That's when Tyler Robinson allegedly turned himself in. I don't know if he did or not. A lot of people say I claim or I state with certainty that he didn't."
+  - ✓ supports [C-11441](https://www.youtube.com/watch?v=HZvwbfePe7o&t=2644s) (2026-07-27): The host says it has not been proven that Tyler Robinson confessed and turned himself in and that his dad turned him in, and that none of that was presented at the preliminary hearing.  
+    _Both say it is not established that Robinson actually turned himself in._
+- **CC-2383** [01:38:47](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5927s) · core · **Gary Melton**: In a clip played on the show, Gary Melton says Baron Coleman posted on April 8th that Tyler Robinson was in custody at 6:25 p.m. Utah time on September 11th, 2025, and that anyone saying otherwise was 'fed slop'.  
+  > "Tyler Robinson was in custody at 6:25 p.m. Utah time on September 11th, 2025." That seems like quite a bit of certainty there."
+- **CC-2384** [01:39:16](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5956s) · core · **Gary Melton**: In a clip played on the show, Gary Melton says Baron Coleman posted on May 11th that he had confirmed Tyler Robinson was in custody at the Washington County Sheriff's Office at 6:50 on September 11th, 2025.  
+  > "Tyler Robinson was, also in all caps, in custody at the Washington County Sheriff's Office at 6:50 on September 11th, 2025."
+- **CC-2385** [01:39:55](https://www.youtube.com/watch?v=We-CGZfSRGE&t=5995s) · core · **Gary Melton**: In a clip played on the show, Gary Melton says court documents before the preliminary hearing showed Tyler Robinson was in custody after 9:00 p.m., and the arrest affidavit says he was not officially arrested until 4:00 a.m.  
+  > "Even the arrest affidavit said he wasn't in custody or officially arrested till 04:00 a.m."
+- **CC-2386** [01:40:20](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6020s) · core · **Gary Melton**: In a clip played on the show, Gary Melton says Baron Coleman posted on June 27th that if Tyler Robinson was Mirandized at 6:25 p.m. on 9/11 it means a multi-agency cover-up at the highest levels of government.  
+  > "If he was Mirandized at 6:25 p.m. on 9/11, it means a multi-agency cover-up involving the very highest levels of government.""
+- **CC-2387** [01:42:44](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6164s) · core · **Gary Melton**: In a clip played on the show, Gary Melton says Tyler Robinson's official arrest was at 4:00 a.m. on September 12th and multiple testimonies and court documents confirm the attempted interrogation was at 6:25 p.m. on the 12th.  
+  > "We have multiple testimonies and court documents confirming the attempted interrogation wasn't until 6:25 p.m. on the 12th."
+- **CC-2388** [01:43:23](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6203s) · core · **Gary Melton**: In a clip played on the show, Gary Melton says Baron Coleman's narrative started from page 20 of the motion to exclude cameras, which says that on the evening of his arrest Tyler Robinson declined to be interviewed without an attorney, and that the evening of his arrest was September 12th.  
+  > "Page 20 indicates that on the evening of his arrest, Tyler Robinson declined to be interviewed without having an attorney present."
+- **CC-2389** [01:44:16](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6256s) · core · **Gary Melton**: In a clip played on the show, per an article Gary Melton shows, a Washington County deputy attorney said the evening of Robinson's arrest was September 12th because he was never arrested in Washington County but nearly 4 hours north in Provo.  
+  > "the alleged assassin was never actually arrested in Washington County, but nearly 4 hours north in Provo."
+- **CC-2390** [01:44:33](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6273s) · core · **Gary Melton**: In a clip played on the show, Gary Melton says Sheriff Nate Brooksby's original press conference showed Tyler Robinson was not in custody until after 9:00 p.m.  
+  > "we have more evidence going all the way back to Sheriff Brookesby's original press conference that he wasn't in custody until after 9:00 p.m.,"
+  - ✓ supports [C-8069](https://www.youtube.com/watch?v=eLgD5yUVbko&t=2310s) (2026-04-13): The host says that according to Sheriff Nate Brooksby's press conference Tyler arrived at the police station at 9:00, which she says does not track with the other times, and that Kash Patel later said Robinson was booked in the 33rd hour.  
+    _Both say Sheriff Brooksby's press conference put Robinson at the station at about 9:00 p.m._
+- **CC-2391** [01:45:24](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6324s) · core · **Brian Davis**: In a clip of preliminary hearing testimony played on the show, Brian Davis says he was told Tyler Robinson arrived at the Washington County Sheriff's Office about 9:00 p.m. that evening, with his parents and a family friend.  
+  > "I was told he arrived there about 9:00 p.m."
+- **CC-2392** [01:49:36](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6576s) · core · **JBC**: JBC says that on haveibeenflocked.com Tyler Robinson's license plate returned two search results, one in Juab County, Utah (on or about September 12th around 7:30 a.m.) and one in Kennewick, Washington.  
+  > "people threw in Taylor Robinson's license plate and it returned two results. One in Juab County, Utah and another one in Kennewick, Washington."
+- **CC-2393** [01:50:57](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6657s) · core · **JBC**: JBC says haveibeenflocked.com is not an official source and does not search actual Flock systems, but aggregates and redacts FOIA records.  
+  > "It's not like an official source. They're not searching actual Flock systems. They're taking basically FOIA requests"
+- **CC-2394** [01:53:39](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6819s) · core · **JBC**: JBC says the Flock search operator was listed as 'S. Kin', that he did not see an S. Kin in Kennewick PD, and that Kennewick reportedly no longer uses Flock.  
+  > "I didn't see an S.Kin in Kennewick PD, but this also would have been about a year or so ago,"
+- **CC-2395** [01:54:10](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6850s) · core · **Basic**: Basic says he called the Kennewick PD and Officer Richardson told him they stopped using the Flock system the summer before Charlie Kirk was killed and use a separate internal system.  
+  > "I called the Kennewick PD and I spoke with an Officer Richardson, and he basically explained to me that they stopped using the Flock system the summer before Charlie Kirk was killed."
+- **CC-2396** [01:55:23](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6923s) · core · **Basic**: Basic says Sergeant Ken Malone, whom people tried to tie to the 'S. Kin' search log, told him he did not work for Kennewick PD at the time and that they did not use Flock.  
+  > "He didn't work for Kennewick PD at the time and the same thing. They didn't use Flock and it's not him"
+- **CC-2397** [01:56:02](https://www.youtube.com/watch?v=We-CGZfSRGE&t=6962s) · core · **Basic**: Basic says that if Baron Coleman's information is correct another Flock hit came from a federal employee, and it is very possible the hits came from federal agencies, especially if there were already threats on Charlie Kirk's life.  
+  > "So, it's very possible that these hits could have came from the feds, especially if uh, there were already um, uh, threats on Charlie's life."
+- **CC-2398** [01:57:08](https://www.youtube.com/watch?v=We-CGZfSRGE&t=7028s) · core · **Nate Brooksby**: In a clip played on the show, Sheriff Nate Brooksby says that at exactly 8:02 p.m. on the 11th he received a call from a friend who is a retired detective that worked for him for many years.  
+  > "at exactly 8:02 on the 11th, I received a call from a friend of mine who happens to be a retired detective that worked for me for many years."
+- **CC-2399** [01:57:53](https://www.youtube.com/watch?v=We-CGZfSRGE&t=7073s) · core · **Nate Brooksby**: In a clip played on the show, Nate Brooksby says the retired detective told him he knew who Charlie Kirk's shooter was, knew the family through religious association, and that he was in Washington County.  
+  > "I know who I know who Charlie Kirk's shooter is. Um I I know the family through religious association. And uh he's in he's in Washington County now."
+- **CC-2400** [01:58:19](https://www.youtube.com/watch?v=We-CGZfSRGE&t=7099s) · core · **Nate Brooksby**: In a clip played on the show, Nate Brooksby says that after the 1 minute 41 second call he immediately called Sheriff Mike Smith in Utah County, who was at the incident command.  
+  > "I immediately called Sheriff Mike Smith in Utah County, who I knew was at the incident command in uh Utah County."
+- **CC-2401** [01:58:48](https://www.youtube.com/watch?v=We-CGZfSRGE&t=7128s) · core · **Gary Melton**: Gary Melton says that by about 8:05 p.m. law enforcement knew exactly who Tyler Robinson was and would have been looking up his vehicles and plates.  
+  > "Like basically by 8:05 by 8:05 law enforcement knows exactly who this guy is."
+- **CC-2402** [01:59:32](https://www.youtube.com/watch?v=We-CGZfSRGE&t=7172s) · core · **Gary Melton**: Gary Melton says the claim that the plate searches happened before anyone knew who Tyler Robinson was is a total lie.  
+  > "And it was before anyone even knew who Tyler Robinson was. That's a That's a total lie."
+- **CC-2403** [02:05:31](https://www.youtube.com/watch?v=We-CGZfSRGE&t=7531s) · core · **JBC**: JBC says the haveibeenflocked data has many discrepancies, the 8:37 timestamp does not exist for the operator's queries, and from an analyst's view the information is garbage.  
+  > "from an analyst point of view, this information is just garbage. There's nothing to be believed here or to validate."
+- **CC-2404** [02:01:41](https://www.youtube.com/watch?v=We-CGZfSRGE&t=7301s) · context · **Gary Melton**: Gary Melton says the 47G initiative includes multiple universities across Utah, not just UVU, and is about pushing Utah's aerospace industry.  
+  > "it doesn't just include UVU. It includes multiple universities all across Utah. And it has to do with the aerospace"
+- **CC-2405** [02:04:03](https://www.youtube.com/watch?v=We-CGZfSRGE&t=7443s) · core · **Gary Melton**: Gary Melton says Travis Nylocks posted that the planes may be training platforms not outfitted with ISR capabilities, though Gary does not know if that is true.  
+  > "Nylocks posted some things saying that those are potentially training platforms and not actually outfitted with the ISR capabilities to begin with."
+
+## K-043
+**[Brian Cole Jr. & Tyler Robinson: Framed? Does New Evidence Prove They're Patsies? | X Space & LIVE](https://www.youtube.com/watch?v=dLzIWuMng7U)** · Paramount Tactical · 2026-10-22 · 141 min · scope: full video (multi-speaker; unattributable lines skipped)
+
+- **CC-2406** [00:02:52](https://www.youtube.com/watch?v=dLzIWuMng7U&t=172s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens released new footage showing people on the walkway between the computer science building and the Losee building.  
+  > "the new footage that was released by Candace Owens that shows people on the walkway of the Losi building in between the computer science building and the Losi building"
+- **CC-2407** [00:03:11](https://www.youtube.com/watch?v=dLzIWuMng7U&t=191s) · context · **Gary Melton**: Gary Melton says Josh Carr had an interview with Erika Kirk and released information about Erika Kirk's meeting with Candace Owens.  
+  > "Josh Carr just had a interview with Erica Kirk and there was some definitely some interesting information that he released regarding that specifically with Erica's meeting with Candace Owens"
+- **CC-2408** [00:03:53](https://www.youtube.com/watch?v=dLzIWuMng7U&t=233s) · tangential · **Gary Melton**: Gary Melton says Steve Baker is pushing the idea that Brian Cole Jr. was framed, and that new footage of Brian Cole Jr. has not been authenticated other than by his grandmother saying it is him.  
+  > "Now Steve Baker is pushing the idea that this is indeed a frame job by Brian Cole. And folks, I'm I'm indifferent on this."
+- **CC-2409** [00:05:38](https://www.youtube.com/watch?v=dLzIWuMng7U&t=338s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens' episode presented exclusive 9/10 footage asking whether Tyler Robinson returned to the Losee rooftop.  
+  > "Here we have Candace Owens from yesterday. Uh, the footage is exclusive 910 footage. Did Tyler Robinson return to the Losi rooftop?"
+- **CC-2410** [00:06:13](https://www.youtube.com/watch?v=dLzIWuMng7U&t=373s) · core · **Candace Owens**: In a clip played on the show, Candace Owens says she believes the person in the footage is the same person who was on the rooftop, citing a nearly identical build, the height and the placement 20 minutes apart.  
+  > "why do I believe this is the very same person that was just on the rooftop I just demonstrated to you? Aside from that nearly identical build and the height and the placement 20 minutes apart"
+- **CC-2411** [00:06:38](https://www.youtube.com/watch?v=dLzIWuMng7U&t=398s) · core · **Candace Owens**: In a clip played on the show, Candace Owens says they nicknamed the person 'Slenderman' and believe he is the same individual who jumped off the Losee building minutes after Charlie Kirk was hit.  
+  > "this person who we have nicknamed Slenderman and who we believe is the same individual that jumped off the Loi minutes after Charlie is hit"
+- **CC-2412** [00:06:56](https://www.youtube.com/watch?v=dLzIWuMng7U&t=416s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens' footage has an overlaid video timer that is not the original timestamp, and that Robinson-innocence believers would call such an overlay BS if it appeared in prosecution footage.  
+  > "Number one, she's overlaid a video timer. All right, so the actual time that she is is up there. This is not the the the original time stamp that we have on there."
+- **CC-2413** [00:07:39](https://www.youtube.com/watch?v=dLzIWuMng7U&t=459s) · core ↩ · **Gary Melton**: Gary Melton says the footage shows about four people walking on the walkway from the computer science building toward the Losee Center building, which runs into the rail the shooter allegedly crossed.  
+  > "I believe four people walking on the walkway from the computer science building that goes toward the Losi Center building, which runs right into the rail that uh allegedly the shooter crossed over."
+- **CC-2414** [00:08:20](https://www.youtube.com/watch?v=dLzIWuMng7U&t=500s) · core ↩ · **Gary Melton**: Gary Melton says the zoomed image is so blown out and pixelated the person's legs look transparent, and that the person looks thinner and taller than the person seen jumping off the Losee Center roof.  
+  > "this person actually does look thinner and taller than even um what we see of the person jumping off the low center roof."
+- **CC-2415** [00:09:49](https://www.youtube.com/watch?v=dLzIWuMng7U&t=589s) · core · **Candace Owens**: In a clip played on the show, Candace Owens says at approximately 12:36 the person walks up to the ledge that the 'quote unquote Tyler Robinson shooter' hopped over and ducked down at.  
+  > "At approximately 12:36, he is going to walk up to the ledge. Um, the ledge that we know that the quote unquote Tyler Robinson shooter hopped over and ducked down for a bit."
+- **CC-2416** [00:10:28](https://www.youtube.com/watch?v=dLzIWuMng7U&t=628s) · core ↩ · **Gary Melton**: Gary Melton says the shooter likely smuggled a firearm in his pants and reassembled it at the ledge, which he calls more reasonable than the person who jumped off the roof returning to the scene, as Candace Owens suggests.  
+  > "this person that likely smuggled a firearm in his pants and then needed to reassemble it, that's that's a bridge too far apparently."
+- **CC-2417** [00:10:42](https://www.youtube.com/watch?v=dLzIWuMng7U&t=642s) · core ↩ · **Gary Melton**: Gary Melton agrees the footage is after Charlie Kirk was hit: it is 12:36 and Kirk was shot at 12:23.  
+  > "Which is true. This is 1236. He was shot at 12:23."
+  - ✓ supports [C-118](https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2567s) (2025-09-15): The host says Charlie Kirk was shot at 12:23 PM on September 10, 2025.  
+    _Both say Charlie Kirk was shot at 12:23 p.m._
+- **CC-2418** [00:10:52](https://www.youtube.com/watch?v=dLzIWuMng7U&t=652s) · core ↩ · **Gary Melton**: Gary Melton says four additional people come up the stairs and head away from the Losee Center roof toward the computer science building.  
+  > "four additional people come up those stairs and headed in the opposite direction away from the Losi center roof toward the computer science building."
+- **CC-2419** [00:11:14](https://www.youtube.com/watch?v=dLzIWuMng7U&t=674s) · core ↩ · **Gary Melton**: Gary Melton says, as pure speculation, the person walking to the railing looks like someone talking on the phone.  
+  > "As this person is walking over to that railing, like what I see is it almost looks like somebody that's talking on the phone"
+- **CC-2420** [00:13:00](https://www.youtube.com/watch?v=dLzIWuMng7U&t=780s) · core ↩ · **Gary Melton**: Gary Melton says the earlier campus footage of Tyler Robinson was clear enough for family members and friends, including Lance Twiggs, to identify him, and is ten times clearer than Candace Owens' footage, which comes from the same camera.  
+  > "including Lance Twigs, who said the last two definitely do look like Tyler Robinson. That footage is 10 times clearer than anything that we have here."
+  - ✗ contradicts [C-2632](https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=3232s) (2025-11-10): The host says they will not show a clear picture of Tyler Robinson on campus that day despite all the cameras, which would do a lot.  
+    _The host says no clear picture of Robinson on campus has been shown; Melton says the released footage was clear enough for family and Twiggs to identify him._
+- **CC-2421** [00:13:57](https://www.youtube.com/watch?v=dLzIWuMng7U&t=837s) · core · **Candace Owens**: In a clip played on the show, Candace Owens says the person goes back to the ledge at 12:40, stands over it again, and then the footage blacks out.  
+  > "he goes back to the ledge at 12:40. He's standing over it again and then the footage just blacks out."
+- **CC-2422** [00:14:18](https://www.youtube.com/watch?v=dLzIWuMng7U&t=858s) · core ↩ · **Gary Melton**: Gary Melton says he does not know where Candace Owens got the footage and that the blackout in her copy does not mean the original footage is blacked out.  
+  > "I don't know what that means. It just blacks out. It doesn't mean that this the the the original footage is blacked out."
+- **CC-2423** [00:15:00](https://www.youtube.com/watch?v=dLzIWuMng7U&t=900s) · core · **Candace Owens**: In a clip played on the show, Candace Owens says footage shows the person departing the ledge at 12:42 p.m., a couple of minutes before Officer Bagley appears on the Losee rooftop.  
+  > "footage of him then departing the ledge at 12:42 p.m. You'll note we are just a couple of minutes from when Officer Bagley is now going to appear on Losi rooftop."
+- **CC-2424** [00:15:23](https://www.youtube.com/watch?v=dLzIWuMng7U&t=923s) · core ↩ · **Gary Melton**: Gary Melton asks why Candace Owens does not show the footage of Officer Bagley coming up to the roof and allegedly discovering a screwdriver.  
+  > "Why doesn't she show the footage of Officer Baggley coming up to the roof and allegedly discovering a screwdriver?"
+- **CC-2425** [00:16:01](https://www.youtube.com/watch?v=dLzIWuMng7U&t=961s) · core · **Gary Melton**: Gary Melton says the UVU after-action review identified that nobody knew how to operate the alert system and the first Rave alert was not issued until 12:42.  
+  > "they have this alert system that nobody knew how to operate and it wasn't until 12:42 the first rave alert issued."
+- **CC-2426** [00:16:16](https://www.youtube.com/watch?v=dLzIWuMng7U&t=976s) · core · **Gary Melton**: Gary Melton says the first alert text to students said a single shot was fired on campus toward a visiting speaker, police were investigating and a suspect was in custody, without telling students to do anything.  
+  > "A single shot was fired on campus toward a visitor uh visiting speaker. Police are investigating now. Suspect in custody. So it doesn't tell them to do anything."
+- **CC-2427** [00:16:41](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1001s) · core · **Gary Melton**: Gary Melton says it was almost a full 20 minutes after the 12:23 shot before the school alerted anyone, and there was no mass alert system in place.  
+  > "It's almost a full 20 minutes afterwards that this school actually even alerts anyone. Anyone."
+- **CC-2428** [00:17:16](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1036s) · core ↩ · **Gary Melton**: Gary Melton says the people on the walkway appear to be students leaving class who, from their body language, were unaware of what had happened in the courtyard.  
+  > "it looks like to me from the body language they're completely unaware of what just took place in the courtyard."
+- **CC-2429** [00:18:40](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1120s) · core · **Honest Ash**: Honest Ash says she does not yet find anything in Candace Owens' new video compelling and agrees the man looks like he is walking around on a phone.  
+  > "I don't know if I find anything from it compelling yet. I agree with you that it looks like he's walking around on a phone."
+- **CC-2430** [00:20:48](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1248s) · core · **Gary Melton**: Gary Melton says there were six law enforcement officers on campus that day, not a couple dozen.  
+  > "No, there was six. >> Trying to manage >> there was six on campus that day,"
+- **CC-2431** [00:21:58](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1318s) · core ↩ · **Gary Melton**: Gary Melton says he mapped the location: the person at the rail was 28 ft from the shooter's position, 618 ft from Charlie Kirk's position and about 425 ft from the back of the courtyard.  
+  > "That location is 28 ft from the shooters position 618 ft from Charlie's position and about 425 ft from the very back of the courtyard."
+- **CC-2432** [00:22:12](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1332s) · core ↩ · **Gary Melton**: Gary Melton says there is no line of sight from that position to the courtyard and people inside the computer science building would not hear the gunshots.  
+  > "You cannot see the courtyard from that position. It's not even you can't even it's close like you all you see is over 200 feet of roof"
+- **CC-2433** [00:23:30](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1410s) · context · **Kitty Hawk**: Kitty Hawk says that, per the OMPD, the person arrested the day after the assassination, whom Diligent Denizen claimed had a rifle, actually had a toy wooden axe.  
+  > "the person that was arrested the day after assassination saying that the person had a rifle. >> Yeah. I It was actually not a rifle. I found out it was actually a toy wooden axe."
+- **CC-2434** [00:27:04](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1624s) · core ↩ · **Honest Ash**: Honest Ash says the videos Candace Owens shows are what she has been provided, so if she did not show the rest, that is the clip she received.  
+  > "So the videos that Candace shows, that's what she's been provided."
+- **CC-2435** [00:29:05](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1745s) · context · **Josh Carr**: In a clip played on the show, Josh Carr says Candace Owens became involved in Charlie Kirk's Blexit and was 'kind of the DEI hire' to move Blexit forward.  
+  > "Candace became involved in that, and she was kind of the DEI hire for Charlie to uh essentially move Blexit forward."
+  - ✗ contradicts [C-40](https://www.youtube.com/watch?v=_dRaEO47-co&t=1023s) (2025-09-11): The host says Charlie was right by her side when she started Blexit.  
+    _Carr says Candace joined Charlie Kirk's Blexit to move it forward; the host says she started Blexit._
+- **CC-2436** [00:29:34](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1774s) · core · **Josh Carr**: In a clip played on the show, Josh Carr says Candace Owens had some ownership in Blexit that had to be paid out over time, so through complicated contractual arrangements she was still on payroll until very recently.  
+  > "And so there were some complicated contractual things where Candace was still on payroll. And uh that has been very recent."
+- **CC-2437** [00:30:00](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1800s) · core · **Josh Carr**: In a clip played on the show, Josh Carr says Erika Kirk told them Candace Owens brought her cousin, who slept in the corner, to their meeting, and that the meeting was very cordial.  
+  > "She said that Candace had like brought her cousin who was like sleeping in the corner, which was super weird. Um, she said that their meeting was actually very cordial."
+- **CC-2438** [00:30:10](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1810s) · core · **Josh Carr**: In a clip played on the show, Josh Carr says Erika Kirk told them she brought TPUSA's finances and Mikey McCoy's passport to the meeting to prove to Candace Owens she was mistaken.  
+  > "Erica told us that she brought the finances of TPS USA to prove to Candace that she was mistaken."
+  - ✓ supports [C-4098](https://www.youtube.com/watch?v=es7PWdFGoFI&t=1387s) (2025-12-16): The host says TPUSA brought Mikey McCoy's call logs and other paperwork to answer and explain certain things, which is why she calls the meeting productive.  
+    _Both say Erika Kirk's side brought documents, including McCoy-related records, to the meeting to answer the host._
+- **CC-2439** [00:30:38](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1838s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens was at the time pushing that Mikey McCoy was not his real name or something along those lines.  
+  > "Candace at the time was pushing that Mikey McCoy was not his real name or something along those lines."
+- **CC-2440** [00:31:19](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1879s) · core ↩ · **Gary Melton**: Gary Melton says that when people like Baron Coleman and Candace Owens are brought real answers, such as the autopsy, they reject them because the narrative is more valuable than the truth.  
+  > "whether it's Baron Coleman, Candace Owens, or these other people, when you bring them real information and you bring them answers, real legitimate answers to their questions, they reject it."
+- **CC-2441** [00:31:44](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1904s) · core · **Josh Carr**: In a clip played on the show, Josh Carr says Erika Kirk brought Charlie Kirk's autopsy to the meeting and Candace Owens did not even want to see it.  
+  > "And Candace didn't even want to see the autopsy. So all of that was at the disposal of Candace at the time"
+- **CC-2442** [00:32:00](https://www.youtube.com/watch?v=dLzIWuMng7U&t=1920s) · core · **Josh Carr**: In a clip played on the show, Josh Carr says Erika Kirk said Candace Owens had never been angry with her or mean to her before, and their relationship was like an acquaintance.  
+  > "Erica also said that Candace had never been angry with her or mean to her in the past."
+- **CC-2443** [00:34:00](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2040s) · core · **Honest Ash**: Honest Ash says Josh Carr's account is second-hand, that they do not hear it from Erika Kirk or from Andrew Kolvet as TPUSA spokesperson, and that Josh Carr could be lying.  
+  > "We don't hear it from Erica or Andrew Kovette being, you know, somebody who's supposed to be a spokesperson for Turning Point USA. So, he could just be lying"
+- **CC-2444** [00:34:54](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2094s) · core ↩ · **Gary Melton**: Gary Melton says, citing Candace Owens' own statement, that she received Brian Harpole's flight information at the Erika Kirk meeting and the next day started texting Harpole, because Erika Kirk relayed Harpole was probably going to sue her.  
+  > "We do know that Candace received Brian Harpool's flight information at that meeting. And then the next day, she starts texting Brian Harpool for information about this"
+- **CC-2445** [00:35:16](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2116s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens had a duty to tell viewers before her 18th interview with Mitch Snow that Erika Kirk had given her that information, and only disclosed it days later in a space.  
+  > "I'm going to have this interview with Mitch Snow on the 18th. Uh, and we're going to talk to him, but and this is his story, but I just want you to know that I did meet with Erica Kirk"
+- **CC-2446** [00:37:41](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2261s) · core ↩ · **Missy**: Missy says she remembers Candace Owens' podcast after the Erika Kirk meeting, when her fans were criticizing her for siding with Erika Kirk.  
+  > "I specifically remember it because all of her fans were giving her crap because they thought she would they were she was sing for Erica."
+- **CC-2447** [00:38:53](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2333s) · core ↩ · **Missy**: Missy says she supposes Candace Owens, with fans angry at her for siding with Erika Kirk, took the opportunity to 'go full throttle'.  
+  > "I suppose she took the opportunity because all the fans, all of her fans in the chat were getting mad at her about siding with Erica on a few things."
+- **CC-2448** [00:40:38](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2438s) · core ↩ · **Gary Melton**: Gary Melton says Candace Owens' show did not tell viewers no alert had gone out, and the student walking off at 12:42 could have been reacting to the alert sent at that moment.  
+  > "It wasn't until literally we see that, excuse me, that student was actually walking off right at 12:42 that the alert went out."
+- **CC-2449** [00:41:27](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2487s) · core · **Gary Melton**: Gary Melton says there is some conflicting information between what Brian Harpole said and what the UVU report said, though he does not know how accurate the report is.  
+  > "There's some conflicting information uh based on what Brian Harpole said with what this report said. uh I don't know how accurate that report is"
+- **CC-2450** [00:42:22](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2542s) · core · **Gary Melton**: Gary Melton says UVU was required by its own process to have a security assessment, a line-of-sight assessment and an emergency action plan done before the event was approved, and none of that was done.  
+  > "they were required by their own process to have a security assessment done a line of sight assessment done an emergency action plan done before an event is even approved. None of that was done."
+  - ✓ supports [C-2287](https://www.youtube.com/watch?v=Qfwr08Ebczo&t=1180s) (2025-11-04): The host says that because UVU will not release the security plan, she is pretty sure the event was an extraordinary first-time situation in which there was no security plan.  
+    _Both say UVU had no security plan or assessment for the event._
+- **CC-2451** [00:43:00](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2580s) · core · **Gary Melton**: Gary Melton says UVU set up no entry control point, and if UVU approved the event for 600 people and 3,000 showed up, that was on UVU.  
+  > "if if UVU approved this for 600 people and 3,000 showed up, that was on UVU to like, hey, you know what? We only we only set up for 600 people."
+- **CC-2452** [00:43:39](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2619s) · core · **Gary Melton**: Per the UVU after-action review Gary Melton reads on the show, key finding one is that UVU has strong foundational policy and procedures but implementation was significantly inconsistent before and during the September 10 TPUSA event.  
+  > "UVU has strong foundational policy and procedures but imple but implementation was significantly inconsistent before and during the September 10th TPUSA event."
+- **CC-2453** [00:44:33](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2673s) · core · **Gary Melton**: Per the UVU after-action review Gary Melton reads, several key event security decisions were deferred to TPUSA field representatives even though UVU staff raised concerns about the outdoor fountain courtyard venue and TPUSA's ticketing process.  
+  > "several key event security decisions were deferred to TPUSA field representatives even though UVU staff members raised concerns, including concerns related to holding the event in the outdoor fountain courtyard area and using TPUSA's ticketing process."
+  - ✓ supports [C-2669](https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=1154s) (2025-11-12): The host says she learned that UVU communicated to Turning Point USA that the outdoor amphitheater was not advisable for safety reasons, and that Turning Point USA nonetheless insisted on the outdoor venue.  
+    _Both say UVU raised safety concerns about the outdoor venue but TPUSA's choice prevailed._
+- **CC-2454** [00:45:03](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2703s) · core · **Gary Melton**: Per the UVU after-action review Gary Melton reads, UVU should have retained decision-making authority over venue selection, ticketing, access control and other security conditions because the event was on its campus.  
+  > "UVU should have retained decision-making authority over key security related issues, including venue selection, ticketing, access control, and other conditions necessary to support campus safety."
+- **CC-2455** [00:45:57](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2757s) · core · **Gary Melton**: Gary Melton says UVU had no responsibility to protect Charlie Kirk, only the students, and that TPUSA's close protection detail was not set up to address long-range threats; the venue is supposed to keep people off its roofs.  
+  > "Their security close protection detail was not set up to to mitigate or address long range threats like that."
+- **CC-2456** [00:47:07](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2827s) · core · **Gary Melton**: Per the UVU after-action review Gary Melton reads, key finding three is that protective operations and line-of-sight planning were not sufficiently formalized for the outdoor venue.  
+  > "Uh key finding number three, protective operations and line of sight planning were not sufficiently formalized for the outdoor venue"
+- **CC-2457** [00:47:41](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2861s) · core ↩ · **Gary Melton**: Gary Melton agrees with Kitty Hawk that Candace Owens is disregarding UVU's role, saying she did not go through any of the review's key findings in any significant way.  
+  > "She she didn't go through any of the key findings in any significant way because if she had, you would see that these are all of UVU's uh security issues"
+- **CC-2458** [00:48:08](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2888s) · core · **Gary Melton**: Per the UVU after-action review Gary Melton reads, a prior active assailant tabletop exercise had identified communication and situational awareness problems, and similar issues resurfaced on September 10.  
+  > "A prior active asalent tabletop exercise had identified communication and situational awareness challenges involving the EOC"
+- **CC-2459** [00:49:28](https://www.youtube.com/watch?v=dLzIWuMng7U&t=2968s) · core · **Gary Melton**: Per the UVU after-action review Gary Melton reads, UVU's existing security technology was used more as a post-incident investigative resource than as a real-time situational awareness tool.  
+  > "the existing technology was used more effectively as a post incident investigative resource than as a real time situational awareness tool."
+- **CC-2460** [00:51:06](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3066s) · core · **Gary Melton**: Per the UVU after-action review Gary Melton reads, UVUPD staffing appears limited compared with the scale and complexity of the university's operations.  
+  > "The UVUPD staffing appears limited when compared to the scale and complexity of university's operations and event environment."
+- **CC-2461** [00:51:36](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3096s) · core · **Gary Melton**: Gary Melton says not one of the review's 10 key findings relates to TPUSA, because security was not TPUSA's responsibility.  
+  > "So those are the 10 key findings. The 10 key findings. Not one of them relates to TPUSA and that's because it's not their responsibility."
+- **CC-2462** [00:54:23](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3263s) · core · **Gary Melton**: Gary Melton says the text messages, Tyler Robinson being three and a half hours from home, his parents turning him in and their recorded statements are enough alone to convince a jury of guilt.  
+  > "the fact that Tyler Robinson was three and a half hours away from his home the text message and the fact that his parents turned him in"
+  - ✗ contradicts [C-12653](https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=535s) (2026-09-02): The host says influencers told the audience that Tyler Robinson confessed to his parents when he got home and that his parents admitted this in written statements supporting the prosecution, and that she has said none of this is true.  
+    _Melton cites the parents turning Robinson in and their statements; the host says the claims about the parents' admissions are untrue._
+- **CC-2463** [00:55:39](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3339s) · core · **Gary Melton**: Gary Melton says the one thing not matched was the projectile to the firearm, which was called inconclusive.  
+  > "the one thing they didn't fake was matching the projectile to the firearm. It's like that's the one thing that they were like, you know what, we're going to say this is inconclusive."
+  - ✓ supports [C-7834](https://www.youtube.com/watch?v=rupRLXmSndU&t=2010s) (2026-04-01): The host says the ATF says its bullet comparison is inconclusive, which she calls the best they could do.  
+    _Both say the projectile-to-firearm comparison was inconclusive._
+- **CC-2464** [00:55:51](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3351s) · core · **Gary Melton**: Gary Melton says the bullet was still 30 caliber with five rifling, matching a family of rifles per testimony, and a 30-06 was there.  
+  > "It was still a 30 caliber. It was still five rifling. They had a family of rifles that it would actually go with uh that was testified to."
+  - ✗ contradicts [C-1617](https://www.youtube.com/watch?v=pc3pxRyNFZk&t=362s) (2025-10-09): The host says Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.  
+    _Melton says the recovered bullet was .30 caliber, fitting the .30-06 family; the host says no .30-06 bullet was recovered from Kirk._
+- **CC-2465** [00:56:10](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3370s) · core · **Gary Melton**: Gary Melton says he is still open to the idea that Tyler Robinson was radicalized or that other people were involved in the planning.  
+  > "I'm still open to the idea that he was radicalized or there was other people involved on the planning of this."
+- **CC-2466** [01:00:29](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3629s) · core · **Gary Melton**: Gary Melton says Baron Coleman's narrative that Tyler Robinson was in custody before 6:25 p.m. on the 11th is not supported by anything and that Coleman is now backtracking on it.  
+  > "the idea that Tyler Robinson was in custody before 6:25 p.m. on the 11th. It's not supported by anything."
+- **CC-2467** [01:01:28](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3688s) · context ↩ · **Mindy**: Mindy says multiple people posted on X that they are dropping subscriptions to Baron Coleman and Candace Owens, tired of the constant attacks on TPUSA and Erika Kirk.  
+  > "multiple people posted that they are dropping subscriptions from Baron, from Candace. Um, that they're tired of the repeat of the constant attacking of TPUSA."
+- **CC-2468** [01:03:45](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3825s) · context · **Gary Melton**: Gary Melton says Baron Coleman was run out of Alabama for lying, started a whisper campaign to prejudice a jury, and was fired from a radio station.  
+  > "he's such a liar that he was ran out of Alabama. Those are facts. Go look it up."
+- **CC-2469** [01:06:28](https://www.youtube.com/watch?v=dLzIWuMng7U&t=3988s) · context · **Gary Melton**: Gary Melton says claims that he said Mitch Snow was not there, and that this was a narrative fed to him by TPUSA, are false, since he said all along that Mitch Snow was there.  
+  > "you said that Mitch Snow wasn't there and his son proved it even though the entire time you were saying that Mitch Snow was there."
+- **CC-2470** [01:14:20](https://www.youtube.com/watch?v=dLzIWuMng7U&t=4460s) · core · **Gary Melton**: Gary Melton says the claim that the text messages are hearsay is false and that the defense has had the text messages and the Cellebrite information since March.  
+  > "They they had the text messages. They had the celebrate information since March."
+  - ✗ contradicts [C-10267](https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1631s) (2026-06-23): The host says the defense has not been given access to Robinson's text messages to confirm they are real or were sent from his phone.  
+    _Melton says the defense has had the texts and Cellebrite data since March; the host says the defense had no access to the texts._
+- **CC-2471** [01:14:25](https://www.youtube.com/watch?v=dLzIWuMng7U&t=4465s) · core · **Gary Melton**: Gary Melton says it is documented that investigators found a holster, not a handgun in a holster.  
+  > "Oh, they found a they found a handgun in a holster." No, they didn't. They found a holster. This is this is documented."
+- **CC-2472** [01:18:31](https://www.youtube.com/watch?v=dLzIWuMng7U&t=4711s) · context ↩ · **Gary Melton**: Gary Melton says Candace Owens said she wanted to be sued for discovery but is now trying to get the lawsuits dismissed.  
+  > "I thought I thought Candace wanted these lawsuits and now she's trying to get them dismissed. That seems sus."
+- **CC-2473** [01:21:00](https://www.youtube.com/watch?v=dLzIWuMng7U&t=4860s) · context ↩ · **Gary Melton**: Gary Melton says Candace Owens now faces three lawsuits: from the Macrons, Robbie Hild and Brian Harpole.  
+  > "What The Mcron Mcron. >> Yep. Got it. >> Mcronone Hild and Harpole."
+  - ✓ supports [C-13065](https://www.youtube.com/watch?v=O4Zw3bCALjU&t=3176s) (2026-09-14): The host says she has pending lawsuits with Brian Harpole and will not share some material because of them.  
+    _Both say Brian Harpole has a pending lawsuit against the host._
+- **CC-2474** [01:21:11](https://www.youtube.com/watch?v=dLzIWuMng7U&t=4871s) · context ↩ · **Gary Melton**: Gary Melton says Candace Owens will lose the Harpole and Hild cases badly, may settle the Hild case, and that Harpole will not settle because it is about principle.  
+  > "she's going to lose those cases so bad, [snorts] there's a potential she might settle the Hild case. May I don't think she's going to I don't think Harpole is going to settle with her"
+- **CC-2475** [01:22:03](https://www.youtube.com/watch?v=dLzIWuMng7U&t=4923s) · context ↩ · **Gary Melton**: Gary Melton says the beard lawyer stated malice is substantiated by Candace Owens withholding information from viewers, and that she drove them to conclude Brian Harpole was part of the conspiracy.  
+  > "she withheld that information from reviewers and drove them to a conclusion that he was indeed part of the uh the conspiracy."
+- **CC-2476** [01:22:31](https://www.youtube.com/watch?v=dLzIWuMng7U&t=4951s) · context · **Gil**: Gil says for defamation the public-figure question concerns the victim, so what matters is whether Brian Harpole qualifies as a public figure, not Candace Owens.  
+  > "So it doesn't matter that Candace is a public figure. It matters whether or not Brian Hartull >> Yes. >> qualifies as a public figure."
+- **CC-2477** [01:24:52](https://www.youtube.com/watch?v=dLzIWuMng7U&t=5092s) · context ↩ · **Gary Melton**: Gary Melton says, citing two lawyers including Andrea Burkhart, that what Candace Owens did to Brian Harpole was far worse than what Ryan Upchurch did in the similar Tennessee ruling, so she will lose unless it is thrown out on a technicality.  
+  > "what Brian Harpole did to or Eric uh Candace Owens did to Brian Harpull was far worse than anything that Ryan Upurk did."
+- **CC-2478** [01:25:17](https://www.youtube.com/watch?v=dLzIWuMng7U&t=5117s) · context · **Gary Melton**: Gary Melton says he attended the motion to dismiss in the Macron case, the judge's decision should come soon, and there is more ammunition to throw out that case than the Harpole case.  
+  > "I went to the motion to dismiss. Um the judge's decision decision should be coming out pretty soon on that."
+- **CC-2479** [01:28:30](https://www.youtube.com/watch?v=dLzIWuMng7U&t=5310s) · context · **Missy**: Missy says the judges in the Tennessee Harpole case recused themselves because of Candace Owens' new lawyer, a conflict of interest related to a case he had.  
+  > "so the recusals were because of the new lawyer that she that she has. That's why it's being recused."
+- **CC-2480** [01:31:06](https://www.youtube.com/watch?v=dLzIWuMng7U&t=5466s) · core · **Gary Melton**: Gary Melton says the search for Tyler Robinson in 'Kenowick County' (as transcribed) was after 8 p.m. Pacific, well after he was in custody, and that his name was released to law enforcement around 8:02 Mountain time.  
+  > "His name was actually released to law enforcement around 8:02 or something like that uh there in uh mountain time."
+- **CC-2481** [01:34:06](https://www.youtube.com/watch?v=dLzIWuMng7U&t=5646s) · core · **Gary Melton**: Gary Melton says he went to UVU intending to prove law enforcement wrong but could not, and everything checked out.  
+  > "I'm here to prove the law law enforcement is incorrect on this. That's what I tried to do and I couldn't."
+- **CC-2482** [01:35:00](https://www.youtube.com/watch?v=dLzIWuMng7U&t=5700s) · core · **Gary Melton**: Gary Melton says it is much more common than people think for a 30-06 not to exit, and he can name four people other than Charlie Kirk shot with a 30-06 at closer range with no exit wound.  
+  > "I can name four without including Charlie Kirk that was shot with a 300 six much closer than Charlie Kirk was shot with and we don't have an exit wound."
+  - ≈ qualifies [C-1612](https://www.youtube.com/watch?v=pc3pxRyNFZk&t=217s) (2025-10-09): The host says she is telling viewers 100% that Charlie Kirk was shot from the front and the bullet did not exit, and that she has fact-checked this from multiple sources.  
+    _Both say the bullet did not exit, but Melton says that is common for a .30-06, which undercuts the host's inference from it._
+- **CC-2483** [01:36:18](https://www.youtube.com/watch?v=dLzIWuMng7U&t=5778s) · core · **Gary Melton**: Gary Melton says the spine absorbs energy and that the soft-point Core-Lokt cup-and-core bullet is designed not to exit.  
+  > "the reality of of using a core locked bullet, a soft point cup and core bullet that is designed to not exit."
+- **CC-2484** [01:37:05](https://www.youtube.com/watch?v=dLzIWuMng7U&t=5825s) · core · **Gil**: Gil says he defers to experts on ballistics and that the general consensus seems to be that the 30-06 not exiting is totally plausible.  
+  > "here it seems pretty fair to say that the general consensus is this is totally plausible. on the 30 odd sense."
+- **CC-2485** [01:37:26](https://www.youtube.com/watch?v=dLzIWuMng7U&t=5846s) · core · **Gary Melton**: Gary Melton says there is no other shooter or gun anywhere and the 30-caliber bullet matches the family of rifles that would be a 30-06.  
+  > "There was no there's no other shooter anywhere. There's no other gun anywhere. We have a 30 caliber bullet that matches the family of rifles that would be a 300 6."
+  - ✗ contradicts [C-1617](https://www.youtube.com/watch?v=pc3pxRyNFZk&t=362s) (2025-10-09): The host says Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.  
+    _Melton says a .30-caliber bullet matching the .30-06 family was recovered; the host says no .30-06 bullet was recovered from Kirk._
+- **CC-2486** [01:50:50](https://www.youtube.com/watch?v=dLzIWuMng7U&t=6650s) · context ↩ · **Razor**: Razor says the Candace Owens and Andrew Tate connection is pretty close, and that people accuse Harvey Weinstein of paying Candace Owens hundreds of thousands of dollars to plead his case.  
+  > "Candace Owens seems to be in some ways a mercenary, just like people are accusing Harvey Weinstein of paying her hundreds of thousands of dollars"
+- **CC-2487** [01:58:10](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7090s) · context · **Kagio**: Kagio says the gun YouTuber OneShot TV shot a ballistic dummy through the forehead with a soft-point Remington Core-Lokt round and it barely penetrated the gel block behind the skull.  
+  > "he shot it right through the forehead and then the the corlock round barely penetrated the ballistic gel behind the skull."
+  - ≈ qualifies [C-3782](https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1966s) (2025-12-08): In a video the host plays, YouTuber Jesse Kege of One Shot TV, after introducing a 180gr FMJ and a 150gr Hornady ballistic tip .30-06 round, fires at a ballistic dummy whose head falls off and penetrates the water jugs placed behind it; the host cites this as showing what the round would have done to Charlie Kirk.  
+    _The host uses a One Shot TV test to show what the round would do; Kagio says the same channel's soft-point test barely penetrated past the skull._
+- **CC-2488** [01:59:38](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7178s) · context · **Gary Melton**: Gary Melton cites Martin Luther King, Chuck Ritter and Shane Hill as cases with similar ballistic outcomes at much closer distances.  
+  > "I mean we can look at Martin Luther King. We can look at Chuck Ritter. You can look at Shane Hill like case after case after case where"
+- **CC-2489** [02:06:58](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7618s) · core · **Gary Melton**: Per the Candace Owens tweet Gary Melton reads on the show, Candace Owens states that at no point during or after their meeting did Erika Kirk allow her to see Charlie Kirk's autopsy.  
+  > "At no point during or after our meeting did Erica Kirk ever allow me to see Charlie Kirk's autopsy."
+- **CC-2490** [02:07:10](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7630s) · core · **Gary Melton**: Per the Candace Owens tweet Gary Melton reads, the only document Erika Kirk offered was a transcript from Charlie Kirk's Aspen event, alleged as proof he passed the organization to her, which Candace Owens declined to read.  
+  > "The only document Erica offered to allow me to view was a type transcript from Charlie's Aspen event, which she alleged was proof Charlie passed the organization onto her."
+- **CC-2491** [02:07:58](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7678s) · core · **Kevin**: Kevin says if Tyler Robinson is innocent, he has never said where he was or what he was doing on September 10, even over a year later.  
+  > "if Robinson's innocent, then why hasn't he ever said where he was or what he was doing on September 10th?"
+- **CC-2492** [02:08:45](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7725s) · core · **Gary Melton**: Gary Melton says lawyers on his show (Andrea Burkhart, the beard lawyer, Gil and Rakita Law) said that if the defense could prove Robinson was not there, he would not be in jail and it would have come up at the preliminary hearing.  
+  > "If they had some sort of defense to prove that he wasn't there and his phone would show that, other evidence would show that, then he wouldn't be in jail right now."
+- **CC-2493** [02:09:22](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7762s) · core · **Gary Melton**: Gary Melton says at the preliminary hearing the defense was not trying to prove innocence but to mitigate aggravating factors and keep Robinson off death row, and that he has admitted to it.  
+  > "They're trying to mitigate the factors, the aggravating factors, and try to get him off of death row because that's what it is."
+- **CC-2494** [02:10:57](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7857s) · core · **Gary Melton**: Gary Melton says Tyler Robinson's parents are on record in the charging documents making extremely incriminating statements.  
+  > "they're on record in the charging documents saying extremely extremely incriminating statements."
+  - ✗ contradicts [C-12653](https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=535s) (2026-09-02): The host says influencers told the audience that Tyler Robinson confessed to his parents when he got home and that his parents admitted this in written statements supporting the prosecution, and that she has said none of this is true.  
+    _Melton says the parents made incriminating statements recorded in the charging documents; the host says claims of the parents' written admissions are untrue._
+- **CC-2495** [02:12:00](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7920s) · core · **Gary Melton**: Gary Melton says clearer footage is likely to come, noting Robinson was at Chick-fil-A, where there are two cameras, and there are cameras throughout the Sorensen Center.  
+  > "We're most likely going to see much clearer footage. Uh he was at Chick-fil-A. There's two cameras in there."
+  - ✓ supports [C-12039](https://www.youtube.com/watch?v=5zgkrOaCCj4&t=944s) (2026-08-10): The host says that according to police Robinson went to Chick-fil-A on campus, and that no footage of this has been shown or explained.  
+    _Both say Robinson reportedly went to the campus Chick-fil-A and the footage has not yet been shown._
+- **CC-2496** [02:12:35](https://www.youtube.com/watch?v=dLzIWuMng7U&t=7955s) · core · **Gary Melton**: Gary Melton says he still has questions whether Lance Twiggs had any foreknowledge, describing him as isolated and never reciprocating Tyler Robinson's affection in the texts.  
+  > "I still have questions of whether or not Lance Twigs had any fornowledge of this."
+- **CC-2497** [02:15:43](https://www.youtube.com/watch?v=dLzIWuMng7U&t=8143s) · core · **Gary Melton**: Gary Melton says search warrants show the chat rooms Robinson used are being investigated, and the responses there indicated surprise.  
+  > "And if if the responses from those chat rooms indicated anything, it was surprise, right?"
+- **CC-2498** [02:16:35](https://www.youtube.com/watch?v=dLzIWuMng7U&t=8195s) · context · **Gary Melton**: Gary Melton says he thinks groups like 764 and O9A are probably covers for Russian intelligence manipulation operations that radicalize people online.  
+  > "I think those are covers I think those are probably actually like Russian intelligence that are running uh manipulation operations"
+- **CC-2499** [02:17:37](https://www.youtube.com/watch?v=dLzIWuMng7U&t=8257s) · core · **Gary Melton**: Gary Melton says the evidence suggests Tyler Robinson was the person on the roof who pulled the trigger, and the text messages on both devices and Apple's network have been confirmed legitimate.  
+  > "the evidence all suggests that, you know, Tyler Robinson was indeed the person on that roof. He was indeed the person that pulled that trigger."
+  - ✗ contradicts [C-4092](https://www.youtube.com/watch?v=es7PWdFGoFI&t=1225s) (2025-12-16): The host says she is very confident, opposite to her well-paid peers, that she does not believe Tyler Robinson pulled the trigger, until the state shows more than the affidavit.  
+    _Melton says the evidence shows Robinson pulled the trigger; the host says she does not believe he did._
+  - ✗ contradicts [C-1285](https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=1657s) (2025-10-02): The host says she is not saying Robinson is guilty of nothing, that it is his gun and weird things are going on, but she does not believe he pulled the trigger.  
+    _Melton says Robinson pulled the trigger; the host says she does not believe he did._
+
+## K-044
+**[Charlie Kirk Conspiracy Debate With Blake Bednarz - Was It Tyler Robinson On The Roof?](https://www.youtube.com/watch?v=_OCja7lI-1s)** · Paramount Tactical · 2026-10-24 · 96 min · scope: full video (multi-speaker; unattributable lines skipped)
+
+- **CC-2500** [00:02:05](https://www.youtube.com/watch?v=_OCja7lI-1s&t=125s) · core · **Gary Melton**: Gary Melton says he downloaded the original FBI file of the rooftop footage, broke it into lossless PNG frames and reassembled it so it plays at its native 10 frames per second.  
+  > "I reassembled it so that it's playing at the native 10 frames per second."
+- **CC-2501** [00:03:45](https://www.youtube.com/watch?v=_OCja7lI-1s&t=225s) · core · **Zoe**: Zoe says that in her opinion there is no other way to explain what is seen in the FBI rooftop footage than it being a strap.  
+  > "in my opinion, uh I think there's there's no other way around it. I don't know how else to explain it other than it being a strap."
+- **CC-2502** [00:05:25](https://www.youtube.com/watch?v=_OCja7lI-1s&t=325s) · core · **Gary Melton**: Gary Melton says, against people who said a young civilian could not jump down from the roof without breaking his legs, that the drop is approximately 10 to 11 feet.  
+  > "we're talking about a I don't know, somewhere between a 10 and 11 foot drop approximately, but regardless."
+- **CC-2503** [00:06:05](https://www.youtube.com/watch?v=_OCja7lI-1s&t=365s) · core · **Gary Melton**: Gary Melton says the runner's shadow disappears on the white roof surface because the camera's lack of dynamic range blows it out.  
+  > "because of the lack of dynamic range on these cameras, his shadow goes away because it's just blown out."
+- **CC-2504** [00:06:35](https://www.youtube.com/watch?v=_OCja7lI-1s&t=395s) · core · **Gary Melton**: Gary Melton says there would be no way to see a strap (potentially a rifle sling) about an eighth of an inch thick and one inch wide in the rooftop footage, since the runner's legs and arms are themselves blown out.  
+  > "I don't think there would be any way to see a strap that's an eighth eighth inch thick and like one inch wide."
+- **CC-2505** [00:09:15](https://www.youtube.com/watch?v=_OCja7lI-1s&t=555s) · core · **CJ**: CJ says his enhanced version of the video from the FBI's website shows an arm going down, not a strap.  
+  > "you can see a little bit more going on with an arm going down, not a strap."
+- **CC-2506** [00:10:20](https://www.youtube.com/watch?v=_OCja7lI-1s&t=620s) · core · **CJ**: CJ says he does not think it is a strap; he thinks the rifle's stock is at one point in the frame and the barrel is going up.  
+  > "I think the stock is right here. All right. And I think that the barrel is going up this way."
+- **CC-2507** [00:22:45](https://www.youtube.com/watch?v=_OCja7lI-1s&t=1365s) · core · **Gary Melton**: Gary Melton says the military teaches the parachute landing fall (PLF), rolling to disperse weight, which is not what the runner did on landing.  
+  > "in the military, we're taught something called the PLF, which is parachute landing fall"
+- **CC-2508** [00:23:15](https://www.youtube.com/watch?v=_OCja7lI-1s&t=1395s) · core · **Gary Melton**: Gary Melton says, against claims that only a professional would land like this, that the runner simply crumpled to the ground and was lucky not to break something.  
+  > "But this is not what you want to do. This is just crumpling to the freaking ground. And he is lucky that he didn't break something."
+- **CC-2509** [00:25:05](https://www.youtube.com/watch?v=_OCja7lI-1s&t=1505s) · core · **Gary Melton**: Gary Melton says the footage shows a rigid object under the towel, 90 degrees to the runner's body, with a rigid portion sticking into the ground on landing, whether the barrel or the buttstock.  
+  > "we have a rigid portion that is actually sticking into the ground right now, whether that's the barrel or the buttstock."
+  - ✗ contradicts [C-10975](https://www.youtube.com/watch?v=N4uM8Jdr410&t=865s) (2026-07-20): The host says she thinks the blurry object that officials said was a towel in the rooftop runner's hand was likely a black jacket, and that the towel story was needed to match the rifle found wrapped in a towel.  
+    _Melton says the runner carried a towel with a rigid rifle part under it; the host says the object was likely a black jacket, not a towel._
+  - ✗ contradicts [C-10877](https://www.youtube.com/watch?v=mLvJqdxS-FY&t=851s) (2026-07-16): The host says that, based on the eyewitness account from the person who recorded him, she thinks the shooter had no towel and that what is seen swinging is a bag that officials are calling a towel.  
+    _Melton says the runner held a towel over a rigid rifle part; the host says there was no towel, only a bag._
+- **CC-2510** [00:27:30](https://www.youtube.com/watch?v=_OCja7lI-1s&t=1650s) · core · **Gary Melton**: Gary Melton says a 1-inch barrel cannot be seen in this footage; the object is visible only because a large dark towel gives it a larger footprint.  
+  > "The only reason that we can see it is because we have a large towel with that's dark that provides a a a larger footprint"
+- **CC-2511** [00:28:35](https://www.youtube.com/watch?v=_OCja7lI-1s&t=1715s) · core · **Gary Melton**: Gary Melton says the rifle probably weighs six or seven pounds, a scope adds from a couple of ounces up to two pounds, and he doesn't think it is more than eight pounds.  
+  > "I don't think it's more than eight eight pounds. We'll just say that"
+- **CC-2512** [00:28:40](https://www.youtube.com/watch?v=_OCja7lI-1s&t=1720s) · core · **Blake Bednarz**: Blake Bednarz says a rifle with a scope could not make the movements the man makes as he runs up to the edge of the roof.  
+  > "is is not going to be able to do the movements from what this guy is doing as he runs up to the edge."
+- **CC-2513** [00:31:52](https://www.youtube.com/watch?v=_OCja7lI-1s&t=1912s) · core · **Gary Melton**: Asked whether the rooftop runner is Tyler Robinson, Gary Melton says he has no reason to believe it is anyone else.  
+  > "Sure. I don't have any reason to believe it's anyone else."
+  - ✗ contradicts [C-13394](https://www.youtube.com/watch?v=6XfDqKTdFKg&t=998s) (2026-09-22): The host says she does not believe Robinson ever changed on September 10 into a black long-sleeve shirt with an American flag, and does not believe he was on the rooftop.  
+    _Melton identifies the rooftop runner as Robinson; the host says she does not believe Robinson was on the rooftop._
+  - ✗ contradicts [C-4026](https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=1987s) (2025-12-11): The host says she does not believe Tyler Robinson was on campus that day.  
+    _Melton identifies the rooftop runner as Robinson; the host says Robinson was not on campus that day._
+- **CC-2514** [00:32:30](https://www.youtube.com/watch?v=_OCja7lI-1s&t=1950s) · core · **Blake Bednarz**: Blake Bednarz says the rooftop runner is athletic and that he can look at Tyler Robinson and tell he can't move like that.  
+  > "I can just look at Tyler and tell you he can't move like that."
+- **CC-2515** [00:36:15](https://www.youtube.com/watch?v=_OCja7lI-1s&t=2175s) · core · **Blake Bednarz**: Blake Bednarz says the person on the roof could not be seen by anyone uncontrolled, and that the man on the sidewalk was controlled and there for the specific reason of catching the man lying prone on the roof.  
+  > "The guy on the sidewalk is controlled. The guy on the sidewalk was there for a specific reason."
+- **CC-2516** [00:37:00](https://www.youtube.com/watch?v=_OCja7lI-1s&t=2220s) · core · **Blake Bednarz**: Blake Bednarz says the man who filmed the rooftop was prepositioned, arguing he had to be there within seconds given the window of opportunity.  
+  > "Bro, tell me the window of opportunity for the guy to have taken the video. Do have you calculated it?"
+- **CC-2517** [00:46:55](https://www.youtube.com/watch?v=_OCja7lI-1s&t=2815s) · core · **Gary Melton**: Gary Melton says he thinks the line seen near the runner on the ground is more likely a barrel than anything else, and that while a strap doesn't make sense he cannot rule it out completely given the poor footage.  
+  > "I think it's more likely that it's a barrel than anything else. [snorts] But this is really crappy footage."
+- **CC-2518** [00:49:45](https://www.youtube.com/watch?v=_OCja7lI-1s&t=2985s) · core · **Gary Melton**: Gary Melton says nothing indicates how old the recovered rifle is, and that its black synthetic stock was manufactured in the early 1990s and is a replacement.  
+  > "I can tell you when it was manufactured, the black synthetic stock was early 90s, '92, 94."
+- **CC-2519** [00:51:15](https://www.youtube.com/watch?v=_OCja7lI-1s&t=3075s) · core · **Gary Melton**: Gary Melton says it is speculation that the Mauser is a World War II rifle, since Mausers could be bought new from the late 1940s on and can be bought now.  
+  > "You can go buy a mouser right now. You could You could have went and bought a mouser at any point in time from like the 40s"
+  - ≈ qualifies [C-11463](https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=730s) (2026-07-28): The host says the gun is supposed to be a German 98 Mauser family heirloom used in World War I and World War II that would take the shooter's shoulder out when fired.  
+    _The host calls the Mauser a WWI/WWII heirloom; Melton says that is speculation because Mausers have been sold new since the 1940s._
+- **CC-2520** [00:55:25](https://www.youtube.com/watch?v=_OCja7lI-1s&t=3325s) · core · **Gary Melton**: Gary Melton says he thinks the man in the prosecution's stairwell image had at least the barrel down his pant leg, with the stock probably separated.  
+  > "I think that he has a barrel at least down that leg."
+  - ✗ contradicts [C-127](https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2811s) (2025-09-15): The host says that, because the person can be seen bending one leg in one photo and the other leg in another, she infers there is no weapon in his pant leg.  
+    _Melton says the stairwell figure had the barrel down his pant leg; the host says there was no weapon in his pant leg._
+- **CC-2521** [00:57:20](https://www.youtube.com/watch?v=_OCja7lI-1s&t=3440s) · core · **Gary Melton**: Gary Melton says Tyler Robinson's jeans are baggier, not skinny jeans, and as a skinnier man he would have more room to hide the rifle.  
+  > "if you actually look at Tyler Robinson's pants, they're baggier than they're not skinny jeans by any stretch of the mean."
+  - ✗ contradicts [C-11458](https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=493s) (2026-07-28): The host says the gun is a minimum of 3'6" fully assembled, that Tyler Robinson's phone is visible in his right pocket, and that carrying the gun in his skinny jeans onto the roof does not pass the sniff test.  
+    _The host says Robinson wore skinny jeans that could not hide the rifle; Melton says his jeans were baggy enough to._
+- **CC-2522** [01:00:00](https://www.youtube.com/watch?v=_OCja7lI-1s&t=3600s) · core · **Blake Bednarz**: Blake Bednarz says the man on the roof lay prone for about 28 seconds before firing and was already set when the bystanders started filming.  
+  > "He was he was laying in a prone for what, 28 seconds before he fired the shot. Gary, these guys, he's already set."
+- **CC-2523** [01:00:30](https://www.youtube.com/watch?v=_OCja7lI-1s&t=3630s) · core · **Blake Bednarz**: Blake Bednarz says he still holds his view of how far back the man on the roof was, says the spot is 170 yards away, and proposes lying on the roof with Gary Melton wearing GoPros to show the line of sight.  
+  > "Uh, I do. Yeah. Yeah. This is 170 yards away. This is 170 yards away. And here's why, guys."
+- **CC-2524** [01:05:00](https://www.youtube.com/watch?v=_OCja7lI-1s&t=3900s) · core · **Candace Owens**: In a clip played on the show, Candace Owens says the man who recorded the bystander footage, whom she tracked down, described the person on the rooftop as in all black and tactical gear, possibly wearing a helmet.  
+  > "He described an individual, like I said, in all black and in tactical gear, possibly wearing a helmet."
+- **CC-2525** [01:05:10](https://www.youtube.com/watch?v=_OCja7lI-1s&t=3910s) · core · **Candace Owens**: In a clip played on the show, Candace Owens says that after police arrested George Zinn, the witness walked to the UVU command center and filed a report saying that was not the guy because he was too old.  
+  > "he walked over to the UVU command center and filed a report and said, "That's not the guy."
+- **CC-2526** [01:05:23](https://www.youtube.com/watch?v=_OCja7lI-1s&t=3923s) · core · **Candace Owens**: In a clip played on the show, Candace Owens says the feds contacted the witness only once, a few days later, and he has never been called by the prosecution.  
+  > "The feds only contacted him once a few days later. He has never been called by the prosecution."
+- **CC-2527** [01:07:40](https://www.youtube.com/watch?v=_OCja7lI-1s&t=4060s) · core · **Gary Melton**: Gary Melton says he thinks the person seen in the prone position on the roof is Tyler Robinson.  
+  > "Agreed. I think that's I think that's Tyler Robinson that we see right there."
+  - ✗ contradicts [C-13394](https://www.youtube.com/watch?v=6XfDqKTdFKg&t=998s) (2026-09-22): The host says she does not believe Robinson ever changed on September 10 into a black long-sleeve shirt with an American flag, and does not believe he was on the rooftop.  
+    _Melton says the prone figure on the roof is Robinson; the host says she does not believe Robinson was on the rooftop._
+  - ✗ contradicts [C-4026](https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=1987s) (2025-12-11): The host says she does not believe Tyler Robinson was on campus that day.  
+    _Melton says the prone figure on the roof is Robinson; the host says Robinson was not on campus that day._
+- **CC-2528** [01:08:15](https://www.youtube.com/watch?v=_OCja7lI-1s&t=4095s) · core · **Gary Melton**: Gary Melton says, measuring on Google Earth, that the computer science building camera is about 230 feet from where a possible barrel line was seen and about 538 feet from the man on the roof.  
+  > "It was [sighs] tell right here approximately. 538 feet."
+- **CC-2529** [01:09:58](https://www.youtube.com/watch?v=_OCja7lI-1s&t=4198s) · core · **Gary Melton**: Gary Melton says the person who came to the railing about 12 minutes after the shot was not the same person, likely students getting out of class, since the first UVU alert did not go out until 12:42.  
+  > "I think it's students getting out of class. They had no idea that anything had taken place because the alert didn't even go out from the UVU until 12:42."
+- **CC-2530** [01:15:55](https://www.youtube.com/watch?v=_OCja7lI-1s&t=4555s) · core · **Gary Melton**: Gary Melton says the man on the roof is very likely looking through an optic, and it is very plausible that the top of his head is visible but the gun is not.  
+  > "I think he's very much looking through an optic right now. And it's very plausible that we can see the top of his head, but we can't see the gun."
+- **CC-2531** [01:18:50](https://www.youtube.com/watch?v=_OCja7lI-1s&t=4730s) · core ↩ · **Gary Melton**: Gary Melton says the bobbing movement described by the witness in Candace Owens' video could be him seeing part of the man's body during the lateral crawl, going up and down while crawling on one arm; he calls this speculation.  
+  > "what he's describing here is just me again speculating based on what we saw from the tactical crawl the lateral crawl is he saw some portion of his body up higher."
+- **CC-2532** [01:22:35](https://www.youtube.com/watch?v=_OCja7lI-1s&t=4955s) · core ↩ · **Gary Melton**: Gary Melton says the witness in Candace Owens' video could not distinguish at about 200 yards whether the man wore tactical gear or a face mask; all you can see is black, and he has stood at that spot.  
+  > "I don't know how you would distinguish at 200 yards whether he had tactical gear on whatsoever. All you can see is black at that distance."
+- **CC-2533** [01:23:05](https://www.youtube.com/watch?v=_OCja7lI-1s&t=4985s) · core ↩ · **Gary Melton**: Gary Melton says no one could tell from 200 yards away what model of rifle a person had, such as whether it was an AR-15.  
+  > "from 200 yards away. You wouldn't be able to tell what what model of rifle it is. No, there's no way."
+- **CC-2534** [01:26:30](https://www.youtube.com/watch?v=_OCja7lI-1s&t=5190s) · core ↩ · **Gary Melton**: Gary Melton says that if the witness thought the man on the roof was law enforcement in an overwatch position, his brain would overlay tactical gear on him; he calls this speculation.  
+  > "if you already think that this guy is law enforcement that's in an overwatch position for security, like your brain is going to overlay tactical gear on this guy"
+- **CC-2535** [01:28:10](https://www.youtube.com/watch?v=_OCja7lI-1s&t=5290s) · context · **Gary Melton**: Gary Melton says that when he went to UVU for the one-year Charlie Kirk memorial, SWAT snipers were positioned on the roofs, including the Losee or Sorenson building.  
+  > "There were SWAT up on the Losi or the Sorenson building as well."
+- **CC-2536** [01:30:00](https://www.youtube.com/watch?v=_OCja7lI-1s&t=5400s) · core ↩ · **Gary Melton**: Gary Melton says there is no possible way the witness could say the rifle looked smaller than the recovered Mauser, given the distance.  
+  > "I still contend absolutely no way possible he can make that statement given the distance."
+- **CC-2537** [01:33:00](https://www.youtube.com/watch?v=_OCja7lI-1s&t=5580s) · core · **Gary Melton**: Gary Melton says it makes no sense that, if the bystanders were in on it, they would give a witness account that contradicts the official narrative.  
+  > "doesn't make sense to me that if the inference here is that these guys are in on it, why would they uh contradict the narrative?"
