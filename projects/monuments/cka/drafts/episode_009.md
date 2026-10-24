@@ -12,7 +12,7 @@
 - **Video Timestamp Range**: 00:00:00–00:47:35
 - **Extraction Timestamp (UTC)**: 2026-09-23T21:00:52Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 7933bf7ce0c35c6791d8a7f52049abb35b4faf23776ec6f24d74301e973fe27f
+- **Transcript SHA-256**: 875c500c897be4aa9185c5a5bfee97e90405b0cadb855acaad4e05a2f9efe914
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11285, N-11286
@@ -819,7 +819,7 @@ Investigative Direction: Treat as host hypothesis; separate documented MK Ultra 
 Tags: open_source_investigation
 ---
 
-**C-790** Existence of 80-page Crooks online-history document
+**C-790** Host says she has an 80-page Crooks online-history document
 
 Claim Timestamp: 00:22:24
 Claim: The host says she has an 80-page document, scraped before the feds removed it, of all the accounts Thomas Crooks made and the statements he made, which she may post on her website after handing it to legal.
@@ -937,7 +937,7 @@ Investigative Direction: Obtain original video from Natalie; verify identity of 
 Tags: calls_for_tips
 ---
 
-**C-743** FBI pressuring Utah to close Kirk case
+**C-743** Host's source says FBI is pressuring Utah to close Kirk case
 
 Claim Timestamp: 00:01:42
 Claim: Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.
@@ -950,7 +950,7 @@ Investigative Direction: Identify and corroborate the source; FOIA communication
 
 ---
 
-**C-745** No video shows Tyler Robinson firing weapon
+**C-745** Host asserts no video shows Tyler Robinson firing weapon
 
 Claim Timestamp: 00:03:01
 Claim: Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.
@@ -963,7 +963,7 @@ Investigative Direction: Confirm via court filings, prosecution discovery, and p
 
 ---
 
-**C-751** Bullet too fragmented to match Tyler's rifle
+**C-751** Host's source says bullet too fragmented to match Tyler's rifle
 
 Claim Timestamp: 00:05:30
 Claim: Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.
@@ -978,7 +978,7 @@ Investigative Direction: Obtain forensic ballistics report from court filings.
 
 ---
 
-**C-749** FBI lacks footage of rifle reaching the roof
+**C-749** Host's source says FBI lacks footage of rifle reaching the roof
 
 Claim Timestamp: 00:04:40
 Claim: Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.
@@ -991,7 +991,7 @@ Investigative Direction: Verify against indictment and discovery materials.
 
 ---
 
-**C-756** Multiple sets of prints on Robinson rifle
+**C-756** Host's source says multiple sets of prints on Robinson rifle
 
 Claim Timestamp: 00:07:58
 Claim: Host's source says prints other than Tyler Robinson's were also on the rifle.
@@ -2104,7 +2104,6 @@ Transcript Snippet: Warwick Spiller writes, "The name of the Mormon church is th
 Anchored Artifacts: A-3274.1
 Mentions: N-3
 Related Nodes: N-10110
-Qualifies: C-776
 Tags: relevance:tangential
 Investigative Direction: Check the church's style guidance on its official name.
 
@@ -2136,7 +2135,7 @@ Transcript Snippet: Going back to the bee stuff, you said the beehive represents
 Anchored Artifacts: A-3274.3
 Mentions: N-3
 Related Nodes: N-10110
-Contradicts: C-777
+Qualifies: C-777
 Tags: relevance:tangential
 Investigative Direction: Utah and church historical sources on the emblem's meaning.
 

@@ -1500,7 +1500,7 @@
       "@type": "Claim",
       "@id": "C-6520",
       "ref": "C-6520",
-      "label": "Wedding photo absent from same background during Dec 12, 2025 Glenn Beck interview",
+      "label": "Host Says Wedding Photo Was Absent From Background During Dec 12, 2025 Glenn Beck Interview",
       "claim": "The host says the wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025.",
       "anchored_artifacts": [
         "A-1774.1",
@@ -3513,7 +3513,8 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:50:05",
       "investigative_direction": "The allegation is a viewer comment read on air and is unverified; seek documentary evidence before treating it as established.",

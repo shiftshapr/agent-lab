@@ -1839,7 +1839,7 @@
       "@type": "Claim",
       "@id": "C-12566",
       "ref": "C-12566",
-      "label": "Butch Hibbs attended UVU 9/10 with a front-row seat arranged through Charlie Kirk",
+      "label": "Jack Hibbs Says Butch Hibbs Got a Front-Row Seat at UVU 9/10 Directly From Charlie Kirk",
       "claim": "In a Fox News audio interview, Jack Hibbs stated that his brother Butch received a front-row seat to the UVU event directly from Charlie Kirk.",
       "anchored_artifacts": [
         "A-2323.1",
@@ -1905,7 +1905,7 @@
       "@type": "Claim",
       "@id": "C-12589",
       "ref": "C-12589",
-      "label": "Butch Hibbs recorded footage on his phone within seconds of the shooting",
+      "label": "Host Says Footage Shows Butch Hibbs Recording on His Phone Within Seconds of the Shooting",
       "claim": "The host says never-before-seen footage she plays shows Butch Hibbs briefly dipping down, presumably to open his camera app, and recording multiple angles of the scene within seconds of the shot, while remaining in place near the tent.",
       "anchored_artifacts": [
         "A-2324.1"
@@ -1971,7 +1971,7 @@
       "@type": "Claim",
       "@id": "C-12576",
       "ref": "C-12576",
-      "label": "Jack Hibbs placed the prayer-chain timing at approximately 12:30 PM Utah, roughly seven minutes after the shooting",
+      "label": "Jack Hibbs Placed Prayer Chain at About 12:30 PM Utah; Host Calculates About Seven Minutes After Shooting",
       "claim": "Per Jack Hibbs's account, a prayer chain was underway at approximately 12:30 PM Utah time, which the host calculates as only about seven minutes after Charlie Kirk was shot.",
       "anchored_artifacts": [
         "A-2322.2"
@@ -2054,7 +2054,7 @@
       "@type": "Claim",
       "@id": "C-12579",
       "ref": "C-12579",
-      "label": "A prayer chain / coordinated Calvary Chapel communication may have begun during the active emergency window",
+      "label": "Host Suggests a Calvary Chapel Call May Have Begun During the Active Emergency Window",
       "claim": "The host says it seems implausible that Mikey McCoy called Pastor Jack Hibbs before 12:30 given his call logs, and suggests that perhaps there was a Calvary Chapel conference call.",
       "anchored_artifacts": [
         "A-2322.1",
@@ -2859,7 +2859,8 @@
         "N-10234"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:13:20",
       "investigative_direction": "Check Calvary Chapel Utah church listings and filings for Butch or Burton Hibbs.",

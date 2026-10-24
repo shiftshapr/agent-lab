@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–01:15:43
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352
+- **Transcript SHA-256**: b83ef93e5c4cc127cab45e6f2ad676c8f2ef7dfe1f21b6b8759ca0c8adbcbaeb
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-11135
@@ -1068,7 +1068,7 @@ Investigative Direction: Cross-check with post timestamp against major news outl
 
 ---
 
-**C-1540** Hammer Stated in JTV Interview That Charlie's Last Words to Him Concerned Plugging Hammer's Book
+**C-1540** Hammer Said in JTV Interview What He Thinks Were Charlie's Last Words to Him Concerned Plugging His Book
 
 Claim Timestamp: 00:22:12
 

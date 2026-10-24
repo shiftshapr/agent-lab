@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:00:43
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 3d4ae642f2e941bfd1fa196ba14e9aaeb18407acfcfbcad82179e0cc50d07169
+- **Transcript SHA-256**: 02f658ebad28aa455fa7e418c07fc2262947459b833fb03900db907dde5f3f5c
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-919, N-11273, N-11274
@@ -927,7 +927,7 @@ Existing node reused for new claims in this episode.
 
 ## 5. Claim Register
 
-**C-10310** USB Logo Identified on Car Glass Shard
+**C-10310** Viewer Email Identifies USB Logo on Car Glass Shard
 
 Claim Timestamp: 00:02:31–00:03:48
 
@@ -1046,7 +1046,7 @@ Mentions: N-7, N-261
 Related Nodes: N-10623
 Investigative Direction: Obtain the original unedited Terryl Farnsworth video; preserve metadata for chain-of-custody purposes.
 
-**C-10339** Car Backseat Photos Show Blood Wipe Marks on Leather
+**C-10339** Host Says Car Backseat Photos Show What Looks Like Blood Wipe Marks on Leather
 
 Claim Timestamp: 00:22:17–00:23:11
 
@@ -1067,7 +1067,7 @@ Anchored Artifacts: A-2096.3
 Related Nodes: N-10623
 Investigative Direction: Forensic testing of the bag (if available) for blood type, DNA, and explosive residue.
 
-**C-10330** Single 4x4 Dressing Pack Visible in Car Floor Photos
+**C-10330** Host Says Single 4x4 Dressing Pack Visible in Car Floor Photos
 
 Claim Timestamp: 00:16:18–00:16:50
 
@@ -1109,7 +1109,7 @@ Anchored Artifacts: A-2100.2
 Related Nodes: N-10627
 Investigative Direction: Obtain underlying source data for the chart; identify methodology.
 
-**C-10360** Dave Rubin Unable to Identify a Trump Economic Metric on Jubilee
+**C-10360** Host Says Dave Rubin Was Unable to Identify a Trump Economic Metric on Jubilee
 
 Claim Timestamp: 00:38:45–00:39:25
 
@@ -1403,7 +1403,7 @@ Open Questions: Q-882
 
 ---
 
-**C-10328** Harpole Repeated the 36 ft Story to Paramount Tactical
+**C-10328** Host Says Harpole Repeated the 36 ft Story to Paramount Tactical
 
 Claim Timestamp: 00:14:33
 

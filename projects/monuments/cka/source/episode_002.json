@@ -19,7 +19,7 @@
     "- **Video Timestamp Range**: 00:00:00–01:09:54",
     "- **Extraction Timestamp (UTC)**: 2026-09-23T19:31:50Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: 818e179fe5957d7201c93616a5845536cad30d2182c1c2b188bf22e92d275abd",
+    "- **Transcript SHA-256**: ada53737ea86aadf8beaf032416528cb61190535e074d84d32f0fe6c4b67cd8e",
     "",
     "- **Episode Ledger Summary**:",
     "  - Hole-minted Nodes (reintro-ep002): N-10036, N-10053, N-10093, N-10100, N-10102, N-10158, N-10252, N-10320, N-10323, N-10328, N-10415, N-10684",
@@ -3573,8 +3573,8 @@
   {
    "kind": "claim",
    "id": "C-72",
-   "header": "**C-72** May 2 Letter Actually Expressed Concern Over Israel Influence",
-   "label": "May 2 Letter Actually Expressed Concern Over Israel Influence",
+   "header": "**C-72** Host Asserts May 2 Letter Expressed Concern Over Israel Influence",
+   "label": "Host Asserts May 2 Letter Expressed Concern Over Israel Influence",
    "lines": [
     {
      "raw": ""
@@ -3685,8 +3685,8 @@
   {
    "kind": "claim",
    "id": "C-79",
-   "header": "**C-79** Bill Ackman Staged Intervention Against Kirk in Hamptons",
-   "label": "Bill Ackman Staged Intervention Against Kirk in Hamptons",
+   "header": "**C-79** Host Says She Is Told Bill Ackman Staged Intervention Against Kirk in Hamptons",
+   "label": "Host Says She Is Told Bill Ackman Staged Intervention Against Kirk in Hamptons",
    "lines": [
     {
      "raw": ""
@@ -3797,8 +3797,8 @@
   {
    "kind": "claim",
    "id": "C-84",
-   "header": "**C-84** Kirk Declined Netanyahu's Israel Funding and Invitation",
-   "label": "Kirk Declined Netanyahu's Israel Funding and Invitation",
+   "header": "**C-84** Host Asserts Kirk Declined Netanyahu's Israel Funding and Invitation",
+   "label": "Host Asserts Kirk Declined Netanyahu's Israel Funding and Invitation",
    "lines": [
     {
      "raw": ""
@@ -3905,8 +3905,8 @@
   {
    "kind": "claim",
    "id": "C-105",
-   "header": "**C-105** Kirk Stated Epstein Was Israeli Intelligence Blackmail Asset",
-   "label": "Kirk Stated Epstein Was Israeli Intelligence Blackmail Asset",
+   "header": "**C-105** Kirk Clip: Epstein Was Possibly a Creation of Mossad or Other Intelligence for Blackmail",
+   "label": "Kirk Clip: Epstein Was Possibly a Creation of Mossad or Other Intelligence for Blackmail",
    "lines": [
     {
      "raw": ""
@@ -4213,8 +4213,8 @@
   {
    "kind": "claim",
    "id": "C-86",
-   "header": "**C-86** Seth Dillon and Bill Ackman Have Not Publicly Disputed Hamptons Narrative",
-   "label": "Seth Dillon and Bill Ackman Have Not Publicly Disputed Hamptons Narrative",
+   "header": "**C-86** Host Says Seth Dillon and Bill Ackman Have Not Disputed Her Hamptons Account",
+   "label": "Host Says Seth Dillon and Bill Ackman Have Not Disputed Her Hamptons Account",
    "lines": [
     {
      "raw": ""
@@ -4381,8 +4381,8 @@
   {
    "kind": "claim",
    "id": "C-125",
-   "header": "**C-125** Screwdriver Found on Roof",
-   "label": "Screwdriver Found on Roof",
+   "header": "**C-125** Host Says She Was Told a Screwdriver Was Found on Roof",
+   "label": "Host Says She Was Told a Screwdriver Was Found on Roof",
    "lines": [
     {
      "raw": ""
@@ -4489,8 +4489,8 @@
   {
    "kind": "claim",
    "id": "C-133",
-   "header": "**C-133** Robinson Has Not Confessed to Authorities",
-   "label": "Robinson Has Not Confessed to Authorities",
+   "header": "**C-133** Cox Says Robinson Has Not Confessed to Authorities",
+   "label": "Cox Says Robinson Has Not Confessed to Authorities",
    "lines": [
     {
      "raw": ""
@@ -7223,10 +7223,6 @@
      "v": "N-10023, N-10015"
     },
     {
-     "k": "Qualifies",
-     "v": "C-105"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -7695,8 +7691,8 @@
   {
    "kind": "claim",
    "id": "C-119",
-   "header": "**C-119** Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks",
-   "label": "Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks",
+   "header": "**C-119** Host Says Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks",
+   "label": "Host Says Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks",
    "lines": [
     {
      "raw": ""
@@ -7967,8 +7963,8 @@
   {
    "kind": "claim",
    "id": "C-126",
-   "header": "**C-126** FBI Photos Show the Suspect in a Stairwell in a Second Outfit",
-   "label": "FBI Photos Show the Suspect in a Stairwell in a Second Outfit",
+   "header": "**C-126** Host Says FBI Photos Show the Suspect in a Stairwell in a Second Outfit",
+   "label": "Host Says FBI Photos Show the Suspect in a Stairwell in a Second Outfit",
    "lines": [
     {
      "raw": ""

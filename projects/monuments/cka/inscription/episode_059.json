@@ -1861,7 +1861,7 @@
       "@type": "Claim",
       "@id": "C-5264",
       "ref": "C-5264",
-      "label": "Dan Flood's parents are from Illinois in the same area where Charlie Kirk was raised",
+      "label": "Host Says Dan Flood's Parents Are From Illinois in the Area Where Charlie Kirk Was Raised",
       "claim": "Host states that both of Dan Flood's mother and father are from Illinois, in the same area Charlie Kirk grew up.",
       "anchored_artifacts": [
         "A-1643.1"
@@ -1884,7 +1884,7 @@
       "@type": "Claim",
       "@id": "C-5277",
       "ref": "C-5277",
-      "label": "Dan Flood grew up in Allen Texas and graduated high school there",
+      "label": "Host Says Dan Flood Grew Up in Allen Texas and Graduated High School There",
       "claim": "A social media post the host reads, from a self-described childhood friend, says he went to middle and high school with Dan Flood, whom the host says is from Allen, Texas and graduated high school there.",
       "anchored_artifacts": [
         "A-1644.1"
@@ -1905,7 +1905,7 @@
       "@type": "Claim",
       "@id": "C-5275",
       "ref": "C-5275",
-      "label": "Dan Flood resides in New Braunfels Texas",
+      "label": "Host Says Dan Flood Resides in New Braunfels Texas",
       "claim": "Host states it as a confirmable fact that Dan Flood lives in New Braunfels, Texas.",
       "anchored_artifacts": [
         "A-1644.1"
@@ -1926,7 +1926,7 @@
       "@type": "Claim",
       "@id": "C-5278",
       "ref": "C-5278",
-      "label": "Dan Flood previously worked security for a Dallas billionaire at the Cattleman's Ball",
+      "label": "Childhood Friend Says Dan Flood Did Security for a Dallas Billionaire at the Cattleman's Ball",
       "claim": "The childhood friend's social media post states he last saw Dan Flood \"doing security for some Dallas billionaire at the Cattleman's Ball.\"",
       "anchored_artifacts": [
         "A-1644.1"
@@ -2031,7 +2031,7 @@
       "@type": "Claim",
       "@id": "C-5292",
       "ref": "C-5292",
-      "label": "Turning Point USA sent a cease-and-desist letter to Zach De Gregorio at the Wolves and Finance YouTube channel",
+      "label": "Zach De Gregorio of Wolves and Finance Says He Received a TPUSA Cease-and-Desist Letter",
       "claim": "In a clip the host plays, Zach De Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled \"Demand to cease and desist defamatory comments\" and reads from it.",
       "anchored_artifacts": [
         "A-1648.1",
@@ -3869,7 +3869,8 @@
         "N-10342"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:47:55",
       "investigative_direction": "Treat the allegation as unverified and attributed only to the commenter; check court records before any use.",

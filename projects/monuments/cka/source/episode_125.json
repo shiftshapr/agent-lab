@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:55:47",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 2d8a535e348680bde91bd9e251254cedc97656a8880bb2edfe4356e92aed4629",
+    "- **Transcript SHA-256**: e63b81bd31780754c1a5f9738bf0b0de8c3470d031dac95780ea0d3f54c61238",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-731, N-732, N-734, N-736, N-10976, N-10978",
@@ -3288,6 +3288,10 @@
      "raw": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship."
     },
@@ -3449,8 +3453,8 @@
   {
    "kind": "claim",
    "id": "C-10760",
-   "header": "**C-10760** Andrew Kolvet Conceded Charlie Kirk Declined Having Netanyahu on Show",
-   "label": "Andrew Kolvet Conceded Charlie Kirk Declined Having Netanyahu on Show",
+   "header": "**C-10760** Andrew Kolvet Says They Declined Having Netanyahu on Charlie Kirk's Show",
+   "label": "Andrew Kolvet Says They Declined Having Netanyahu on Charlie Kirk's Show",
    "lines": [
     {
      "raw": ""
@@ -3547,8 +3551,8 @@
   {
    "kind": "claim",
    "id": "C-10695",
-   "header": "**C-10695** Emails From Fashion, Sewing and Medical Senders Identified Object as Shirt Remains",
-   "label": "Emails From Fashion, Sewing and Medical Senders Identified Object as Shirt Remains",
+   "header": "**C-10695** Host Says Emailers From Fashion, Sewing and Medical Fields Insisted Object Was Shirt Remains",
+   "label": "Host Says Emailers From Fashion, Sewing and Medical Fields Insisted Object Was Shirt Remains",
    "lines": [
     {
      "raw": ""
@@ -3669,8 +3673,8 @@
   {
    "kind": "claim",
    "id": "C-10697",
-   "header": "**C-10697** Coleman Says Kirk's Shirt Was 100% Polyester",
-   "label": "Coleman Says Kirk's Shirt Was 100% Polyester",
+   "header": "**C-10697** Coleman Thinks Kirk's Shirt Was 100% Polyester",
+   "label": "Coleman Thinks Kirk's Shirt Was 100% Polyester",
    "lines": [
     {
      "raw": ""
@@ -3779,8 +3783,8 @@
   {
    "kind": "claim",
    "id": "C-10700",
-   "header": "**C-10700** Blake Neff Hired in 2022 After Leaving Fox News",
-   "label": "Blake Neff Hired in 2022 After Leaving Fox News",
+   "header": "**C-10700** Host Says Blake Neff Was Hired in 2022 After Leaving Fox News",
+   "label": "Host Says Blake Neff Was Hired in 2022 After Leaving Fox News",
    "lines": [
     {
      "raw": ""
@@ -3844,8 +3848,8 @@
   {
    "kind": "claim",
    "id": "C-10701",
-   "header": "**C-10701** Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him",
-   "label": "Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him",
+   "header": "**C-10701** Host Says Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him",
+   "label": "Host Says Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him",
    "lines": [
     {
      "raw": ""
@@ -3954,8 +3958,8 @@
   {
    "kind": "claim",
    "id": "C-10703",
-   "header": "**C-10703** MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center",
-   "label": "MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center",
+   "header": "**C-10703** Host Says MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center",
+   "label": "Host Says MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center",
    "lines": [
     {
      "raw": ""
@@ -4064,8 +4068,8 @@
   {
    "kind": "claim",
    "id": "C-10705",
-   "header": "**C-10705** Mikey McCoy Rented Two SUVs; First Carried Charlie, McCoy, Turek and McGovern",
-   "label": "Mikey McCoy Rented Two SUVs; First Carried Charlie, McCoy, Turek and McGovern",
+   "header": "**C-10705** Host Says Mikey McCoy Rented Two SUVs; First Carried Charlie, McCoy, Turek and McGovern",
+   "label": "Host Says Mikey McCoy Rented Two SUVs; First Carried Charlie, McCoy, Turek and McGovern",
    "lines": [
     {
      "raw": ""
@@ -4121,8 +4125,8 @@
   {
    "kind": "claim",
    "id": "C-10706",
-   "header": "**C-10706** Kirk Flew Into Salt Lake City, Not Provo, for Restaurant Event and Andrew Smith Interview",
-   "label": "Kirk Flew Into Salt Lake City, Not Provo, for Restaurant Event and Andrew Smith Interview",
+   "header": "**C-10706** Host Says Kirk Flew Into Salt Lake City, Not Provo, for Restaurant Event and Andrew Smith Interview",
+   "label": "Host Says Kirk Flew Into Salt Lake City, Not Provo, for Restaurant Event and Andrew Smith Interview",
    "lines": [
     {
      "raw": ""
@@ -4296,8 +4300,8 @@
   {
    "kind": "claim",
    "id": "C-10712",
-   "header": "**C-10712** McCoy Was on the Phone With Danny Philip Before and After the Shooting",
-   "label": "McCoy Was on the Phone With Danny Philip Before and After the Shooting",
+   "header": "**C-10712** Host Says McCoy Was on the Phone With Danny Philip Before and After the Shooting",
+   "label": "Host Says McCoy Was on the Phone With Danny Philip Before and After the Shooting",
    "lines": [
     {
      "raw": ""
@@ -4353,8 +4357,8 @@
   {
    "kind": "claim",
    "id": "C-10713",
-   "header": "**C-10713** Danny Philip Graduated College in May 2025 and Was Hired Straight Out for Charlie's Staff",
-   "label": "Danny Philip Graduated College in May 2025 and Was Hired Straight Out for Charlie's Staff",
+   "header": "**C-10713** Host Says Danny Philip Graduated College in May 2025 and Was Hired Straight Out for Charlie's Staff",
+   "label": "Host Says Danny Philip Graduated College in May 2025 and Was Hired Straight Out for Charlie's Staff",
    "lines": [
     {
      "raw": ""
@@ -4406,8 +4410,8 @@
   {
    "kind": "claim",
    "id": "C-10714",
-   "header": "**C-10714** Danny Philip Was Charlie's Assistant, Interned the Prior Summer, and Flew Private to Salt Lake City",
-   "label": "Danny Philip Was Charlie's Assistant, Interned the Prior Summer, and Flew Private to Salt Lake City",
+   "header": "**C-10714** Host Says Danny Philip Was Charlie's Assistant, Interned the Prior Summer, and Flew Private to Salt Lake City",
+   "label": "Host Says Danny Philip Was Charlie's Assistant, Interned the Prior Summer, and Flew Private to Salt Lake City",
    "lines": [
     {
      "raw": ""
@@ -4727,6 +4731,10 @@
      "v": "C-10720"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "The host's email from Patrick (headers, date, full text) and Patrick's relationship to Danny Philip."
     },
@@ -5029,8 +5037,8 @@
   {
    "kind": "claim",
    "id": "C-10726",
-   "header": "**C-10726** Tyler Bowyer Speaks Russian and Majored in Russian Studies, as Did Philip's Father",
-   "label": "Tyler Bowyer Speaks Russian and Majored in Russian Studies, as Did Philip's Father",
+   "header": "**C-10726** Host Says Tyler Bowyer Speaks Russian and Majored in Russian Studies, as Did Philip's Father",
+   "label": "Host Says Tyler Bowyer Speaks Russian and Majored in Russian Studies, as Did Philip's Father",
    "lines": [
     {
      "raw": ""
@@ -5204,8 +5212,8 @@
   {
    "kind": "claim",
    "id": "C-10730",
-   "header": "**C-10730** Stephen Phillip Was a Vice President at Bank of America Merrill Lynch Chicago",
-   "label": "Stephen Phillip Was a Vice President at Bank of America Merrill Lynch Chicago",
+   "header": "**C-10730** Host Says Stephen Phillip Is a Vice President at Bank of America Merrill Lynch Chicago",
+   "label": "Host Says Stephen Phillip Is a Vice President at Bank of America Merrill Lynch Chicago",
    "lines": [
     {
      "raw": ""
@@ -5265,8 +5273,8 @@
   {
    "kind": "claim",
    "id": "C-10733",
-   "header": "**C-10733** Erika's Cousin Dennis Frantzve Showed Her Around Romania With the Black Sea Rotational Force",
-   "label": "Erika's Cousin Dennis Frantzve Showed Her Around Romania With the Black Sea Rotational Force",
+   "header": "**C-10733** Host Says Erika's Cousin Dennis Frantzve Showed Her Around Romania and the Black Sea Rotational Force",
+   "label": "Host Says Erika's Cousin Dennis Frantzve Showed Her Around Romania and the Black Sea Rotational Force",
    "lines": [
     {
      "raw": ""
@@ -5326,8 +5334,8 @@
   {
    "kind": "claim",
    "id": "C-10734",
-   "header": "**C-10734** Bank of America Was Sued Over Managing Leon Black's Wealth in the Epstein Case",
-   "label": "Bank of America Was Sued Over Managing Leon Black's Wealth in the Epstein Case",
+   "header": "**C-10734** Host Says Bank of America Was Sued Over Managing Leon Black's Wealth in the Epstein Case",
+   "label": "Host Says Bank of America Was Sued Over Managing Leon Black's Wealth in the Epstein Case",
    "lines": [
     {
      "raw": ""
@@ -5383,8 +5391,8 @@
   {
    "kind": "claim",
    "id": "C-10735",
-   "header": "**C-10735** Bank of America Moved $170 Million to Epstein and Was Sued for Not Flagging It",
-   "label": "Bank of America Moved $170 Million to Epstein and Was Sued for Not Flagging It",
+   "header": "**C-10735** Host Says Bank of America Moved $170 Million to Epstein and Was Sued for Not Flagging It",
+   "label": "Host Says Bank of America Moved $170 Million to Epstein and Was Sued for Not Flagging It",
    "lines": [
     {
      "raw": ""
@@ -5896,8 +5904,8 @@
   {
    "kind": "claim",
    "id": "C-10744",
-   "header": "**C-10744** Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board",
-   "label": "Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board",
+   "header": "**C-10744** Host Says Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board",
+   "label": "Host Says Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board",
    "lines": [
     {
      "raw": ""

@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00-00:51:14",
     "- **Extraction Timestamp (UTC)**: 2026-10-19T22:30:00Z",
-    "- **Transcript SHA-256**: ff02ec52b5f178bb11692331d4f7a49be8bcb3a964069692849d0006dc7efad3",
+    "- **Transcript SHA-256**: f4b14dcd2a6777e8487b8a5bd39f988d2b8f904514bb0db7ddd6bb406f2daee3",
     "- **Model Version**: claude-manual-extract-seq166",
     "",
     "- **Episode Ledger Summary**:",
@@ -4357,7 +4357,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4418,7 +4418,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4696,8 +4696,8 @@
   {
    "kind": "claim",
    "id": "C-14344",
-   "header": "**C-14344** Letter to the Editor Originally Named a Club America Homeschool Hub",
-   "label": "Letter to the Editor Originally Named a Club America Homeschool Hub",
+   "header": "**C-14344** Host Says Letter to the Editor Originally Named a Club America Homeschool Hub",
+   "label": "Host Says Letter to the Editor Originally Named a Club America Homeschool Hub",
    "lines": [
     {
      "raw": ""
@@ -6407,8 +6407,8 @@
   {
    "kind": "claim",
    "id": "C-14370",
-   "header": "**C-14370** Supercut Has Zacharia Saying \"I Am a Lawyer\" and Citing Her Research on Fauci",
-   "label": "Supercut Has Zacharia Saying \"I Am a Lawyer\" and Citing Her Research on Fauci",
+   "header": "**C-14370** Supercut Has Zacharia Saying \"I Am a Lawyer\" and \"a Rigorous Researcher\"",
+   "label": "Supercut Has Zacharia Saying \"I Am a Lawyer\" and \"a Rigorous Researcher\"",
    "lines": [
     {
      "raw": ""

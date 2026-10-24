@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:51:59
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: e212815bd237d77e5c89e294f4374f950a75b0d1dfe19a747008a4f9ef4bfdb9
+- **Transcript SHA-256**: 289215e96c90ea12a27c5b91edaf48d57ad8b59b5dca48186bc08e6fbd0922e1
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11222, N-11223, N-11224, N-11225
@@ -734,7 +734,7 @@ Investigative Direction: Cross-check the McCoy footage against police inventory 
 
 ---
 
-**C-11696** FBI agents arrived at UVU at 12:39 PM, 16 minutes after the 12:23 PM shooting
+**C-11696** Kash Patel Says FBI Agents Arrived at UVU at 12:39 PM, 16 Minutes After the 12:23 PM Shooting
 
 Claim Timestamp: 00:13:11
 
@@ -812,7 +812,7 @@ Investigative Direction: Authenticate the bystander clip's timestamp and origina
 
 ---
 
-**C-11702** Red-hat man on Losi rooftop identified as Allan Robertson of USU PD
+**C-11702** Muppet Masher Post Identifies Red-Hat Man on Losi Rooftop as Allan Robertson of USU PD
 
 Claim Timestamp: 00:16:28
 
@@ -826,7 +826,7 @@ Investigative Direction: Verify Robertson's identification through facial compar
 
 ---
 
-**C-11705** Blue-shirt man on Losi rooftop identified as Christopher Hawk
+**C-11705** Muppet Masher Post Identifies Blue-Shirt Man on Losi Rooftop as Christopher Hawk
 
 Claim Timestamp: 00:18:30
 
@@ -840,7 +840,7 @@ Investigative Direction: Verify Hawk's presence and role through credential reco
 
 ---
 
-**C-11703** Allan Robertson joined the USU police force the summer before the Kirk shooting
+**C-11703** Host Says Allan Robertson Joined the USU Police Force the Summer Before the Kirk Shooting
 
 Claim Timestamp: 00:16:47
 
@@ -878,6 +878,8 @@ Anchored Artifacts: A-2229.1
 Mentions: N-748
 Related Nodes: N-10700
 
+Verification: revised-by-host
+Verification Evidence: C-11791, C-11796
 Investigative Direction: Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels.
 
 ---
@@ -896,7 +898,7 @@ Investigative Direction: Verify the non-compliance notation through Brady List's
 
 ---
 
-**C-11727** US Central Command officer emailed a request for creative and unconventional ideas to pressure Iran
+**C-11727** CNN Reports US Central Command Officer Emailed a Request for Creative and Unconventional Ideas to Pressure Iran
 
 Claim Timestamp: 00:34:33
 
@@ -1440,7 +1442,7 @@ Transcript Snippet: it is definitely what I would assert is a plausibility uh th
 Anchored Artifacts: A-2229.1
 Mentions: N-748, N-3
 Related Nodes: N-10700
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.
 Open Questions: Q-1053
 
@@ -1910,7 +1912,6 @@ Anchored Artifacts:
 Mentions: N-14, N-159, N-3
 Related Nodes: N-10666, N-10000
 Tags: relevance:core
-Revises: C-11033
 Investigative Direction: Use the hotel registration and booking records the host says she has; test them against Neff's statements.
 Open Questions: Q-1058
 

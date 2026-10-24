@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:09:02",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107",
+    "- **Transcript SHA-256**: 6969acf30e690dfa513f1b1c557216f8857275094643e2238559c0647ff677cf",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-769, N-771, N-772, N-11046, N-11049, N-11050, N-11051",
@@ -3114,6 +3114,10 @@
      "v": "N-324"
     },
     {
+     "k": "Qualifies",
+     "v": "C-6732"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the full source interview (date, program, outlet) and review for context outside the excerpt."
     },
@@ -3223,8 +3227,8 @@
   {
    "kind": "claim",
    "id": "C-6740",
-   "header": "**C-6740** Tyler Bowyer, ~12 days after the assassination, said Charlie privately believed Erika would be president",
-   "label": "Tyler Bowyer, ~12 days after the assassination, said Charlie privately believed Erika would be president",
+   "header": "**C-6740** Tyler Bowyer said Charlie privately believed Erika would be president someday",
+   "label": "Tyler Bowyer said Charlie privately believed Erika would be president someday",
    "lines": [
     {
      "raw": ""
@@ -3419,8 +3423,8 @@
   {
    "kind": "claim",
    "id": "C-6776",
-   "header": "**C-6776** Headline indicates Venezuela sent first oil shipment to Israel after U.S. action against Maduro",
-   "label": "Headline indicates Venezuela sent first oil shipment to Israel after U.S. action against Maduro",
+   "header": "**C-6776** Host reads headline on Venezuela's first oil shipment to Israel, says Israel benefited after Maduro's removal",
+   "label": "Host reads headline on Venezuela's first oil shipment to Israel, says Israel benefited after Maduro's removal",
    "lines": [
     {
      "raw": ""
@@ -5393,10 +5397,6 @@
      "v": "N-324, N-1, N-3"
     },
     {
-     "k": "Qualifies",
-     "v": "C-6734"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -6809,10 +6809,6 @@
      "v": "N-10376"
     },
     {
-     "k": "Qualifies",
-     "v": "C-6757"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -6875,10 +6871,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10376"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-6757"
     },
     {
      "k": "Tags",
@@ -7897,10 +7889,6 @@
      "v": "N-11051"
     },
     {
-     "k": "Qualifies",
-     "v": "C-6781"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -8415,10 +8403,6 @@
     {
      "k": "Mentions",
      "v": "N-771, N-3"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-6790"
     },
     {
      "k": "Tags",

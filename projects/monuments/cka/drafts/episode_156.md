@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:55:05
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
+- **Transcript SHA-256**: f3550431718d5d4887bbd49f702199b347c19dd6f67e125f197d901bd765b135
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-790, N-11067, N-11068
@@ -634,7 +634,6 @@ Mentions: N-40
 
 Related Nodes: N-10645
 
-Revises: C-10621
 Investigative Direction: Confirm exhaust configuration against additional Fox News footage and any independent images of Tyler Robinson's vehicle; compare against VIN or registration records.
 
 ---
@@ -653,7 +652,7 @@ Investigative Direction: Compare against a full video walkthrough of the parking
 
 ---
 
-**C-13475** Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released
+**C-13475** Quick Quack Car Wash footage was obtained by investigators; host says it was never publicly released
 
 Claim Timestamp: 00:18:05
 
@@ -683,7 +682,7 @@ Investigative Direction: Obtain the underlying warrant to verify the quoted lang
 
 ---
 
-**C-13513** Officer Goforth's Testimony Referenced a Partial License-Plate Match Process
+**C-13513** Host Says Officer Goforth's Testimony Referenced a Partial License-Plate Match
 
 Claim Timestamp: 00:53:00
 
@@ -728,7 +727,7 @@ Investigative Direction: Compare facial recognition / clothing across the post-i
 
 ---
 
-**C-13459** Dairy Queen surveillance timestamp of 6:38 PM may have been recorded in UTC rather than Mountain Standard Time
+**C-13459** Host hypothesizes Dairy Queen 6:38 PM timestamp was recorded in UTC rather than Mountain time
 
 Claim Timestamp: 00:09:41
 
@@ -742,7 +741,7 @@ Investigative Direction: Subpoena or otherwise obtain the Dairy Queen surveillan
 
 ---
 
-**C-13469** Tyler Robinson's sneakers in Dairy Queen surveillance photo do not appear to be Converse brand
+**C-13469** Host says Tyler Robinson's sneakers in Dairy Queen photo do not appear to be Converse brand
 
 Claim Timestamp: 00:13:31
 
@@ -772,7 +771,7 @@ Investigative Direction: Obtain independent forensic / dealership records on bot
 
 ---
 
-**C-13463** Cemetery contains two large dumpsters in the middle
+**C-13463** Tipster says cemetery contains two large dumpsters in the middle
 
 Claim Timestamp: 00:10:34
 
@@ -1288,7 +1287,7 @@ Transcript Snippet: at least moderately involved in the furry community
 
 Anchored Artifacts: 
 Mentions: N-3, N-54
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the earlier aired material on Lance's online avatar name and its source.
 
 ---

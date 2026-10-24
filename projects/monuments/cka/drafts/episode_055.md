@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:08
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
+- **Transcript SHA-256**: 4b49e442002812d5bb38c5ce573fad1c9aef57add69099dc69a26819fbda606b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-932, N-11299, N-11300, N-11301, N-11302
@@ -877,7 +877,7 @@ Investigative Direction: Obtain verification of the text exchange; identify the 
 
 ---
 
-**C-4883** Andrew Kolvet Never Replied to the Dream Text From Candace Owens
+**C-4883** Host Says Andrew Kolvet Never Replied to Her Dream Text
 
 Claim Timestamp: 00:08:04
 
@@ -981,7 +981,7 @@ Investigative Direction: Identify the original venue and date of this speech; ve
 
 ---
 
-**C-4932** Sun Myung Moon declared Ron Godwin as one of three disciples
+**C-4932** Host Presents Sun Myung Moon Quotation Declaring Ron Godwin One of Three Disciples
 
 Claim Timestamp: 00:25:34–00:26:20
 
@@ -1011,7 +1011,7 @@ Investigative Direction: Retrieve primary source; verify whether this directive 
 
 ---
 
-**C-4946** A Likud party representative declared Tucker Carlson and Candace Owens enemies of Israel in a Knesset speech
+**C-4946** Likud Member Calls Tucker Carlson and Candace Owens "a New Enemy Rising From Within" in Knesset Speech
 
 Claim Timestamp: 00:34:41–00:35:36
 
@@ -1201,7 +1201,7 @@ Investigative Direction: Verify the cited statistic against peer-reviewed studie
 ---
 
 
-**C-4911** Mark Burnett named as Johnnie Moore's Hollywood employer
+**C-4911** Host Says Johnnie Moore Went to Hollywood in 2015 to Work With Mark Burnett
 
 Claim Timestamp: 00:19:23–00:20:09
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Verify employment relationship through public records o
 
 ---
 
-**C-4913** Mark Burnett became chairperson of MGM and acquired Summerhouse
+**C-4913** Host Says MGM Acquired Summerhouse When Mark Burnett Became Chairperson
 
 Claim Timestamp: 00:20:09
 
@@ -1229,7 +1229,7 @@ Investigative Direction: Verify MGM chairmanship and Summerhouse acquisition thr
 
 ---
 
-**C-4947** Murder plot against Candace Owens discovered on September 10, still in courts
+**C-4947** Host Says Murder Plot Against Her Was Discovered on September 10 and Is Still in Courts
 
 Claim Timestamp: 00:35:36
 
@@ -1244,7 +1244,7 @@ Investigative Direction: Identify the court proceeding, jurisdiction, and any pu
 
 ---
 
-**C-4893** Turning Point USA soliciting 401ks, property, and estate/will inclusions
+**C-4893** Host Says Turning Point USA Solicits 401ks, Property, and Estate/Will Inclusions
 
 Claim Timestamp: 00:11:59–00:12:48
 
@@ -1647,7 +1647,7 @@ Transcript Snippet: They had brainwashed his mother in her old age, brainwashed 
 Anchored Artifacts: 
 Mentions: N-444, N-443
 Related Nodes: N-10372, N-10375
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check trial reporting on the shooter's family finances and the siblings' circumstances; the host notes this is not a justification.
 
 ---
@@ -1697,7 +1697,7 @@ Anchored Artifacts: A-3299.1
 Mentions: N-439
 Related Nodes: N-11022, N-11300
 Supports: C-4739
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review Falwell Jr.'s own public statements on the affair and the 2020 board and Liberty documents on his departure.
 
 ---

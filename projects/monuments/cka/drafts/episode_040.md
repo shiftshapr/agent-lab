@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:05:42
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4
+- **Transcript SHA-256**: b931b312fc9f5763d8cbbcc1a520c85ec5076a9bfd88991a11272bf81dfabdab
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-711, N-712, N-10935
@@ -1168,6 +1168,7 @@ Transcript Snippet: I didn't say that he abused him. I didn't say it was not con
 Anchored Artifacts: 
 Mentions: N-3, N-11
 Related Nodes: N-10360
+Tags: relevance:tangential
 Investigative Direction: Compare with the earlier episode where the host first raised the Bowyer allegation.
 
 ---
@@ -1198,6 +1199,7 @@ Transcript Snippet: people that are currently um working for Turning Point USA w
 Anchored Artifacts: A-2732.1
 Mentions: N-3, N-11
 Related Nodes: N-10360, N-10000
+Tags: relevance:tangential
 Investigative Direction: Unverified allegation from unnamed sources; seek independent corroboration and a response from Bowyer.
 
 ---
@@ -1474,7 +1476,7 @@ Investigative Direction: Not independently verifiable; ask TPUSA for volume or e
 
 ---
 
-**C-3552** Neff Says TPUSA Should Not Answer Questions About Tunnels or Egyptian Planes
+**C-3552** Neff Says TPUSA Should Not Have to Answer Questions About Tunnels or Egyptian Planes
 
 Claim Timestamp: 00:21:20
 
@@ -1946,7 +1948,6 @@ Transcript Snippet: we also know that there's been a lot of discussion about Ukr
 Anchored Artifacts: A-1493.1
 Mentions: N-3, N-5, N-377
 Related Nodes: N-10290
-Qualifies: C-3588
 Investigative Direction: Ask the Elysee and the White House for the call readout.
 
 ---

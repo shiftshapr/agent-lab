@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:29:06
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3
+- **Transcript SHA-256**: 7539165169e8b443c7f7950212e5c62bed632637d0a9031328c78b8cde6801a2
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-747, N-10987
@@ -1246,7 +1246,6 @@ Anchored Artifacts: A-2793.1
 Mentions: N-1, N-2, N-237, N-18
 Related Nodes: N-10468
 Supports: C-9204
-Revises: C-12143
 Investigative Direction: Identify the clip's source (the December 2025 Glenn Beck interview or the debate's played clips) and confirm the speaker.
 
 ---
@@ -1775,7 +1774,6 @@ Transcript Snippet: You said positive evidence 47 times.
 
 Anchored Artifacts: A-2278.1
 Mentions: N-18, N-2
-Qualifies: C-12153
 Investigative Direction: Count actual uses in the debate transcript; the count in the video is satire.
 
 ---

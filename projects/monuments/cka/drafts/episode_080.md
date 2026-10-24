@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:09:32
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 939a276fa7153675fa4c129ca613874ab4780ba8fb986b1877810b00297f327b
+- **Transcript SHA-256**: 94aa5cd6620c442c6e76a63973a5c6c589d50cce6464bbab88475e8ded2c5479
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-939, N-940, N-941, N-11312
@@ -1085,7 +1085,7 @@ Investigative Direction: Confirm against the official account's posting record; 
 
 ---
 
-**C-7228** Netanyahu Misses Security Council Meeting
+**C-7228** Host Says Netanyahu Allegedly Missed a Security Council Meeting
 
 Claim Timestamp: 00:50:05
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Verify against official Israeli government / Knesset sc
 
 ---
 
-**C-7229** Yair Netanyahu Social Media Silence Pattern
+**C-7229** Host Says Yair Netanyahu Went Silent on Social Media for 7 Days
 
 Claim Timestamp: 00:50:05
 
@@ -2046,8 +2046,8 @@ Transcript Snippet: I don't know if I think he's dead, but I think he's injured,
 Anchored Artifacts: 
 Mentions: N-36, N-3
 Related Nodes: N-10499
+Qualifies: C-7119
 Tags: relevance:tangential
-Revises: C-7119
 Investigative Direction: Compare with verifiable public appearances of Netanyahu after March 11.
 
 ---

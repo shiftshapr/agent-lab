@@ -18,7 +18,7 @@
     "- **Video Timestamp Range**: 00:00:00–00:23:48",
     "- **Extraction Timestamp (UTC)**: 2026-09-23T18:42:21Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356",
+    "- **Transcript SHA-256**: 61ad7d71c1084e8e89cc6a9f701146f3016371aa3fb523dbb3022c6b732e9315",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-929, N-11280, N-11281",
@@ -1746,8 +1746,8 @@
   {
    "kind": "claim",
    "id": "C-28",
-   "header": "**C-28** Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane",
-   "label": "Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane",
+   "header": "**C-28** Host says Charlie and Candace drove 8 hours to DC during a hurricane, she thinks from NC or SC",
+   "label": "Host says Charlie and Candace drove 8 hours to DC during a hurricane, she thinks from NC or SC",
    "lines": [
     {
      "raw": ""
@@ -1910,8 +1910,8 @@
   {
    "kind": "claim",
    "id": "C-37",
-   "header": "**C-37** Charlie was egged by Antifa at a Philadelphia restaurant",
-   "label": "Charlie was egged by Antifa at a Philadelphia restaurant",
+   "header": "**C-37** Host says Charlie was egged by Antifa at a Philadelphia restaurant",
+   "label": "Host says Charlie was egged by Antifa at a Philadelphia restaurant",
    "lines": [
     {
      "raw": ""
@@ -2178,8 +2178,8 @@
   {
    "kind": "claim",
    "id": "C-18",
-   "header": "**C-18** Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
-   "label": "Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
+   "header": "**C-18** Host says Don Jr. and, she thinks, Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
+   "label": "Host says Don Jr. and, she thinks, Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
    "lines": [
     {
      "raw": ""

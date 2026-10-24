@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:56:07",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:30:27Z",
-    "- **Transcript SHA-256**: 6a70160ad25b0671d6727882cdd16b59ea5327ccea326b1fd84e733d4157fb26",
+    "- **Transcript SHA-256**: 4a36c30237a86619f309287eca28e68a60aa5224fb52e4e593eb6d95244b6cfe",
     "- **Model Version**: claude-manual-extract-seq103",
     "",
     "- **Episode Ledger Summary**:",
@@ -2191,10 +2191,6 @@
      "v": "N-10560"
     },
     {
-     "k": "Revises",
-     "v": "C-8632"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Check the host's Instagram direct-message thread with Victor Marx and any later scheduled appearance."
     },
@@ -2212,8 +2208,8 @@
   {
    "kind": "claim",
    "id": "C-9154",
-   "header": "**C-9154** Victor Marx was the first documented public person to announce Charlie Kirk's death",
-   "label": "Victor Marx was the first documented public person to announce Charlie Kirk's death",
+   "header": "**C-9154** Host Says Victor Marx Was the First Documented Public Person to Announce Charlie Kirk's Death",
+   "label": "Host Says Victor Marx Was the First Documented Public Person to Announce Charlie Kirk's Death",
    "lines": [
     {
      "raw": ""
@@ -2274,8 +2270,8 @@
   {
    "kind": "claim",
    "id": "C-9155",
-   "header": "**C-9155** Victor Marx hugged Erika Kirk in her home after she flew back to Arizona",
-   "label": "Victor Marx hugged Erika Kirk in her home after she flew back to Arizona",
+   "header": "**C-9155** Host Says Victor Marx Hugged Erika Kirk in Her Home After She Flew Back to Arizona",
+   "label": "Host Says Victor Marx Hugged Erika Kirk in Her Home After She Flew Back to Arizona",
    "lines": [
     {
      "raw": ""
@@ -2336,8 +2332,8 @@
   {
    "kind": "claim",
    "id": "C-9156",
-   "header": "**C-9156** Charlie Kirk and Victor Marx had a falling out and unfollowed each other",
-   "label": "Charlie Kirk and Victor Marx had a falling out and unfollowed each other",
+   "header": "**C-9156** Host's TPUSA Sources Say Charlie Kirk and Victor Marx Had a Falling Out and Unfollowed Each Other",
+   "label": "Host's TPUSA Sources Say Charlie Kirk and Victor Marx Had a Falling Out and Unfollowed Each Other",
    "lines": [
     {
      "raw": ""
@@ -2394,8 +2390,8 @@
   {
    "kind": "claim",
    "id": "C-9157",
-   "header": "**C-9157** Marx's last public appearance with Charlie Kirk was an October 2023 report from Israel",
-   "label": "Marx's last public appearance with Charlie Kirk was an October 2023 report from Israel",
+   "header": "**C-9157** Host Says Marx's Last Public Appearance With Charlie Kirk Appears to Be an October 2023 Report From Israel",
+   "label": "Host Says Marx's Last Public Appearance With Charlie Kirk Appears to Be an October 2023 Report From Israel",
    "lines": [
     {
      "raw": ""
@@ -2620,8 +2616,8 @@
   {
    "kind": "claim",
    "id": "C-9161",
-   "header": "**C-9161** A friend of Erika Kirk was at the Aurora theater shooting",
-   "label": "A friend of Erika Kirk was at the Aurora theater shooting",
+   "header": "**C-9161** Host Says a Friend of Erika Kirk Was at the Aurora Theater Shooting",
+   "label": "Host Says a Friend of Erika Kirk Was at the Aurora Theater Shooting",
    "lines": [
     {
      "raw": ""
@@ -2682,8 +2678,8 @@
   {
    "kind": "claim",
    "id": "C-9162",
-   "header": "**C-9162** No security plan was in place for Charlie Kirk's September 11 Charis Bible College event",
-   "label": "No security plan was in place for Charlie Kirk's September 11 Charis Bible College event",
+   "header": "**C-9162** Host Says No Security Plan Was in Place for Charlie Kirk's September 11 Charis Bible College Event",
+   "label": "Host Says No Security Plan Was in Place for Charlie Kirk's September 11 Charis Bible College Event",
    "lines": [
     {
      "raw": ""
@@ -2911,8 +2907,8 @@
   {
    "kind": "claim",
    "id": "C-9166",
-   "header": "**C-9166** Charis Bible College founder Andrew Wommack is former military",
-   "label": "Charis Bible College founder Andrew Wommack is former military",
+   "header": "**C-9166** Host Says Charis Bible College Founder Andrew Wommack Is Former Military",
+   "label": "Host Says Charis Bible College Founder Andrew Wommack Is Former Military",
    "lines": [
     {
      "raw": ""
@@ -3031,8 +3027,8 @@
   {
    "kind": "claim",
    "id": "C-9168",
-   "header": "**C-9168** N582MM became Charlie Kirk's main plane after Mikey McCoy became chief of staff",
-   "label": "N582MM became Charlie Kirk's main plane after Mikey McCoy became chief of staff",
+   "header": "**C-9168** Host Says N582MM Became Charlie Kirk's Main Plane After Mikey McCoy Became Chief of Staff",
+   "label": "Host Says N582MM Became Charlie Kirk's Main Plane After Mikey McCoy Became Chief of Staff",
    "lines": [
     {
      "raw": ""
@@ -3088,8 +3084,8 @@
   {
    "kind": "claim",
    "id": "C-9169",
-   "header": "**C-9169** Someone known to TPUSA flew N582MM to Provo after the shooting",
-   "label": "Someone known to TPUSA flew N582MM to Provo after the shooting",
+   "header": "**C-9169** Host Says Someone Known to TPUSA Flew N582MM to Provo After the Shooting",
+   "label": "Host Says Someone Known to TPUSA Flew N582MM to Provo After the Shooting",
    "lines": [
     {
      "raw": ""
@@ -3145,8 +3141,8 @@
   {
    "kind": "claim",
    "id": "C-9170",
-   "header": "**C-9170** N582MM is tied to Paradise Jets, like the plane Charlie Kirk took that day",
-   "label": "N582MM is tied to Paradise Jets, like the plane Charlie Kirk took that day",
+   "header": "**C-9170** Host Says N582MM Is Tied to Paradise Jets, Like the Plane Charlie Kirk Took That Day",
+   "label": "Host Says N582MM Is Tied to Paradise Jets, Like the Plane Charlie Kirk Took That Day",
    "lines": [
     {
      "raw": ""
@@ -3202,8 +3198,8 @@
   {
    "kind": "claim",
    "id": "C-9171",
-   "header": "**C-9171** N582MM departed Denver at 11:58 a.m. and landed at Pierre at 12:56 p.m. Mountain Time",
-   "label": "N582MM departed Denver at 11:58 a.m. and landed at Pierre at 12:56 p.m. Mountain Time",
+   "header": "**C-9171** Host Says Flight Data Shows N582MM Departed Denver at 11:58 a.m. and Landed at Pierre at 12:56 p.m.",
+   "label": "Host Says Flight Data Shows N582MM Departed Denver at 11:58 a.m. and Landed at Pierre at 12:56 p.m.",
    "lines": [
     {
      "raw": ""
@@ -3267,8 +3263,8 @@
   {
    "kind": "claim",
    "id": "C-9172",
-   "header": "**C-9172** N582MM went Pierre–Chicago–Provo, landing at 6:57 p.m. and staying overnight",
-   "label": "N582MM went Pierre–Chicago–Provo, landing at 6:57 p.m. and staying overnight",
+   "header": "**C-9172** Host Says N582MM Went Pierre–Chicago–Provo, Landing at 6:57 p.m. and Staying Overnight",
+   "label": "Host Says N582MM Went Pierre–Chicago–Provo, Landing at 6:57 p.m. and Staying Overnight",
    "lines": [
     {
      "raw": ""
@@ -3332,8 +3328,8 @@
   {
    "kind": "claim",
    "id": "C-9173",
-   "header": "**C-9173** After overnighting in Provo, N582MM returned to Pierre, South Dakota",
-   "label": "After overnighting in Provo, N582MM returned to Pierre, South Dakota",
+   "header": "**C-9173** Host Says N582MM Returned to Pierre, South Dakota, After Overnighting in Provo",
+   "label": "Host Says N582MM Returned to Pierre, South Dakota, After Overnighting in Provo",
    "lines": [
     {
      "raw": ""
@@ -3397,8 +3393,8 @@
   {
    "kind": "claim",
    "id": "C-9174",
-   "header": "**C-9174** The Evergreen High School shooting happened at almost the same minute as the Charlie Kirk shooting",
-   "label": "The Evergreen High School shooting happened at almost the same minute as the Charlie Kirk shooting",
+   "header": "**C-9174** Host Says the Evergreen High School Shooting Happened at Almost the Same Minute as Charlie Kirk's",
+   "label": "Host Says the Evergreen High School Shooting Happened at Almost the Same Minute as Charlie Kirk's",
    "lines": [
     {
      "raw": ""
@@ -3513,8 +3509,8 @@
   {
    "kind": "claim",
    "id": "C-9176",
-   "header": "**C-9176** Holly shot Matthew Silverstone at South Olive Road and Buffalo Park Road; Delmer Martinez filmed it",
-   "label": "Holly shot Matthew Silverstone at South Olive Road and Buffalo Park Road; Delmer Martinez filmed it",
+   "header": "**C-9176** Host Says Holly Shot Matthew Silverstone at an Intersection and Delmer Martinez Filmed It",
+   "label": "Host Says Holly Shot Matthew Silverstone at an Intersection and Delmer Martinez Filmed It",
    "lines": [
     {
      "raw": ""
@@ -3791,8 +3787,8 @@
   {
    "kind": "claim",
    "id": "C-9181",
-   "header": "**C-9181** Locals could not find the house or contractor Martinez was working for",
-   "label": "Locals could not find the house or contractor Martinez was working for",
+   "header": "**C-9181** Host Says Locals Could Not Find the House or Contractor Martinez Was Working For",
+   "label": "Host Says Locals Could Not Find the House or Contractor Martinez Was Working For",
    "lines": [
     {
      "raw": ""
@@ -3849,8 +3845,8 @@
   {
    "kind": "claim",
    "id": "C-9182",
-   "header": "**C-9182** Evergreen's assigned school resource officer was on medical leave; a Conifer deputy was filling in",
-   "label": "Evergreen's assigned school resource officer was on medical leave; a Conifer deputy was filling in",
+   "header": "**C-9182** Host Says Evergreen's School Resource Officer Was on Medical Leave, With a Conifer Deputy Filling In",
+   "label": "Host Says Evergreen's School Resource Officer Was on Medical Leave, With a Conifer Deputy Filling In",
    "lines": [
     {
      "raw": ""
@@ -4011,8 +4007,8 @@
   {
    "kind": "claim",
    "id": "C-9185",
-   "header": "**C-9185** The crash the SRO was dispatched to has never been documented",
-   "label": "The crash the SRO was dispatched to has never been documented",
+   "header": "**C-9185** Host Says the Crash the SRO Was Dispatched to Has Never Been Documented",
+   "label": "Host Says the Crash the SRO Was Dispatched to Has Never Been Documented",
    "lines": [
     {
      "raw": ""
@@ -4123,8 +4119,8 @@
   {
    "kind": "claim",
    "id": "C-9187",
-   "header": "**C-9187** Erika Kirk and Kolvet coordinated with Gary Melton to air a Fort Huachuca alibi",
-   "label": "Erika Kirk and Kolvet coordinated with Gary Melton to air a Fort Huachuca alibi",
+   "header": "**C-9187** Host Alleges Erika Kirk and Kolvet Coordinated With Gary Melton to Air a Fort Huachuca Alibi",
+   "label": "Host Alleges Erika Kirk and Kolvet Coordinated With Gary Melton to Air a Fort Huachuca Alibi",
    "lines": [
     {
      "raw": ""
@@ -4539,8 +4535,8 @@
   {
    "kind": "claim",
    "id": "C-9194",
-   "header": "**C-9194** Marcus Wada uses AI voices in TPUSA donor presentations",
-   "label": "Marcus Wada uses AI voices in TPUSA donor presentations",
+   "header": "**C-9194** Host Says Marcus Wada Uses AI Voices in TPUSA Donor Presentations",
+   "label": "Host Says Marcus Wada Uses AI Voices in TPUSA Donor Presentations",
    "lines": [
     {
      "raw": ""
@@ -4601,8 +4597,8 @@
   {
    "kind": "claim",
    "id": "C-9195",
-   "header": "**C-9195** Marcus Wada met with Hollywood AI deepfake companies after Charlie Kirk's death",
-   "label": "Marcus Wada met with Hollywood AI deepfake companies after Charlie Kirk's death",
+   "header": "**C-9195** Host Says Marcus Wada Met With Hollywood AI Deepfake Companies After Charlie Kirk's Death",
+   "label": "Host Says Marcus Wada Met With Hollywood AI Deepfake Companies After Charlie Kirk's Death",
    "lines": [
     {
      "raw": ""
@@ -4659,8 +4655,8 @@
   {
    "kind": "claim",
    "id": "C-9196",
-   "header": "**C-9196** The Hollywood AI company TPUSA met with is VFX LA",
-   "label": "The Hollywood AI company TPUSA met with is VFX LA",
+   "header": "**C-9196** Host Names VFX LA as the Hollywood AI Company Brought Into TPUSA Through Marcus Wada",
+   "label": "Host Names VFX LA as the Hollywood AI Company Brought Into TPUSA Through Marcus Wada",
    "lines": [
     {
      "raw": ""
@@ -4888,8 +4884,8 @@
   {
    "kind": "claim",
    "id": "C-9200",
-   "header": "**C-9200** Kolvet said TPUSA met with deepfake vendors offering Charlie Kirk content and declined",
-   "label": "Kolvet said TPUSA met with deepfake vendors offering Charlie Kirk content and declined",
+   "header": "**C-9200** Host Says Kolvet Acknowledged TPUSA Met With Deepfake Vendors Offering Charlie Kirk Content and Declined",
+   "label": "Host Says Kolvet Acknowledged TPUSA Met With Deepfake Vendors Offering Charlie Kirk Content and Declined",
    "lines": [
     {
      "raw": ""
@@ -5061,8 +5057,8 @@
   {
    "kind": "claim",
    "id": "C-9203",
-   "header": "**C-9203** Superfeed, with Lori Frantzve and Tyler Bowyer on its board, powers the TPUSA app",
-   "label": "Superfeed, with Lori Frantzve and Tyler Bowyer on its board, powers the TPUSA app",
+   "header": "**C-9203** Host Says Superfeed, With Lori Frantzve and Tyler Bowyer on Its Board, Powers the TPUSA App",
+   "label": "Host Says Superfeed, With Lori Frantzve and Tyler Bowyer on Its Board, Powers the TPUSA App",
    "lines": [
     {
      "raw": ""
@@ -5180,8 +5176,8 @@
   {
    "kind": "claim",
    "id": "C-9205",
-   "header": "**C-9205** Charlie Kirk's night-before message to Dan Flood was an iMessage, not Telegram",
-   "label": "Charlie Kirk's night-before message to Dan Flood was an iMessage, not Telegram",
+   "header": "**C-9205** Host Says Charlie Kirk's Night-Before Message to Dan Flood Was an iMessage, Not Telegram",
+   "label": "Host Says Charlie Kirk's Night-Before Message to Dan Flood Was an iMessage, Not Telegram",
    "lines": [
     {
      "raw": ""
@@ -5299,8 +5295,8 @@
   {
    "kind": "claim",
    "id": "C-9207",
-   "header": "**C-9207** An Aurora theater victim had survived an earlier shooting at a Canadian food court",
-   "label": "An Aurora theater victim had survived an earlier shooting at a Canadian food court",
+   "header": "**C-9207** Host Says an Aurora Theater Victim Had Survived an Earlier Shooting at a Canadian Food Court",
+   "label": "Host Says an Aurora Theater Victim Had Survived an Earlier Shooting at a Canadian Food Court",
    "lines": [
     {
      "raw": ""

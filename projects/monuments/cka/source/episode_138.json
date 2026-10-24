@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:03:14",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89",
+    "- **Transcript SHA-256**: 66d91812fc4cd0fba9bbb43c27ce9e6de29806a2b1723926dfecb8845235cfca",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-821, N-822, N-823, N-824, N-11123, N-11125, N-11126",
@@ -4129,8 +4129,8 @@
   {
    "kind": "claim",
    "id": "C-11863",
-   "header": "**C-11863** Group Chat Members Shared Candace Owens' Home Address",
-   "label": "Group Chat Members Shared Candace Owens' Home Address",
+   "header": "**C-11863** Shady Lady Katie Post Says Group Chat Members Shared Candace Owens' Home Address",
+   "label": "Shady Lady Katie Post Says Group Chat Members Shared Candace Owens' Home Address",
    "lines": [
     {
      "raw": ""
@@ -4305,8 +4305,8 @@
   {
    "kind": "claim",
    "id": "C-11883",
-   "header": "**C-11883** Miami-Dade Sheriff's Deputies Responded to Perez Hilton's Residence for Live-Streamed Self-Harm",
-   "label": "Miami-Dade Sheriff's Deputies Responded to Perez Hilton's Residence for Live-Streamed Self-Harm",
+   "header": "**C-11883** NBC Reports Miami-Dade Deputies Responded to Perez Hilton's Residence Over Reported Live-Streamed Self-Harm",
+   "label": "NBC Reports Miami-Dade Deputies Responded to Perez Hilton's Residence Over Reported Live-Streamed Self-Harm",
    "lines": [
     {
      "raw": ""
@@ -4915,6 +4915,10 @@
      "v": "N-10707"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare the influencer statements on the list against charging documents and hearing testimony."
     },
@@ -5172,7 +5176,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5237,7 +5241,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

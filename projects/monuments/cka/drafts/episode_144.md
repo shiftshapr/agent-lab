@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:10:13
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
+- **Transcript SHA-256**: 6876b9fdcf368d47abaab608197975d99b261e20858176e248a9b19c579bb52c
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-749, N-10988, N-10991
@@ -866,7 +866,7 @@ Investigative Direction: Obtain the full unedited segment; note any surrounding 
 
 ---
 
-**C-12428** Andrew Kolvet briefed Candace on Bill Ackman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood
+**C-12428** Host Says Andrew Kolvet Briefed Her on Bill Ackman Summit, BB Netanyahu Letter, and Charlie's Texts to Dan Flood
 
 Claim Timestamp: 00:50:35
 
@@ -892,7 +892,6 @@ Transcript Snippet: on the 12th, you were the one that was telling me about the 
 Anchored Artifacts: A-2308.1, A-2308.2
 Mentions: N-37, N-14
 Related Nodes: N-10737
-Revises: C-12428
 Confidence: medium
 Investigative Direction: Read with C-12428; match the text-message exports under the corrected spelling Bill Ackman.
 
@@ -1462,7 +1461,7 @@ Transcript Snippet: I said well it's not attributable to Adolf Hitler because Ad
 Anchored Artifacts: A-2306.2
 Mentions: N-3
 Related Nodes: N-10989
-Contradicts: C-12396
+Qualifies: C-12396
 Investigative Direction: Compare the host's full answer on the original clip with Kolvet's paraphrase.
 
 ---
@@ -1527,7 +1526,7 @@ Investigative Direction: Retrieve Neff's tweet, the community note and the item 
 
 ---
 
-**C-12404** Kolvet Says They Were Friends in 2018 and Part of 2019 but It Ended Badly
+**C-12404** Kolvet Says He Thinks They Were Friends in 2018 and Part of 2019 but It Ended Badly
 
 Claim Timestamp: 00:37:31
 
@@ -1648,7 +1647,7 @@ Investigative Direction: Date the first meeting and job offer from messages or c
 
 ---
 
-**C-12413** Kolvet Says She Cancelled an Event the Day Before and Went to France With Kanye
+**C-12413** Kolvet Says He Thinks She Cancelled an Event the Day Before and Went to France With Kanye
 
 Claim Timestamp: 00:45:14
 

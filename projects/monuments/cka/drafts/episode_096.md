@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:21:28
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf
+- **Transcript SHA-256**: ffb365e17a2214a74de551976fbef66bc8a7ad149a9b25b20c955c1211f92875
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-812, N-813
@@ -1076,7 +1076,7 @@ Anchored Artifacts: A-2010.1
 Mentions: N-261, N-1
 Investigative Direction: Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.
 
-**C-8601** Andrew Kolvet presented a text message screenshot
+**C-8601** Host Says Andrew Kolvet Presented a Text Message Screenshot
 
 Claim Timestamp: 00:51:23
 
@@ -1119,7 +1119,7 @@ Anchored Artifacts: A-2012.1
 Mentions: N-3, N-60
 Investigative Direction: Verify the source recording; identify context and any other parties present.
 
-**C-8621** Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points
+**C-8621** Laura Loomer Asked Whether SPLC Paid Candace $500K to Plagiarize David Duke
 
 Claim Timestamp: 01:03:21
 
@@ -1129,7 +1129,7 @@ Anchored Artifacts: A-2012.2
 Mentions: N-3, N-60
 Investigative Direction: Verify the tweet directly; cross-reference SPLC public records; verify any financial relationship.
 
-**C-8624** Laura Loomer claimed Candace was at anti-Trump summit in Rome
+**C-8624** Laura Loomer Asked Whether Candace Was at a Secret Anti-Trump Summit in Rome
 
 Claim Timestamp: 01:04:56
 
@@ -1159,7 +1159,7 @@ Anchored Artifacts: A-2013.1
 Mentions: N-3, N-5
 Investigative Direction: Verify the original August 2019 tweet directly on Candace's Twitter/X account.
 
-**C-8554** Candace was sick in 2016 from toxic mold exposure in her apartment
+**C-8554** Candace Says She Was Sick in 2016 From Toxic Mold Exposure in Her Apartment
 
 Claim Timestamp: 00:06:45
 
@@ -1510,7 +1510,7 @@ Anchored Artifacts: A-2008.1, A-2008.2
 Mentions: N-369
 Related Nodes: N-10582
 Supports: C-8574
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Official incident report, ballistic findings and the Washington Post surveillance footage.
 
 ---
@@ -1762,7 +1762,6 @@ Transcript Snippet: Candace Owens never once made the explicit claim that you mu
 Anchored Artifacts: A-2964.1
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10587
-Contradicts: C-8596
 Tags: relevance:core
 Investigative Direction: Search the host's full archive for any explicit statement that Erika Kirk killed or arranged Charlie Kirk's death.
 Open Questions: Q-835
@@ -2167,7 +2166,7 @@ Transcript Snippet: No, I did not see Aubrey. I did not see Nick Fuentes. I did 
 
 Anchored Artifacts: A-2012.3
 Mentions: N-550, N-201, N-372, N-3
-Contradicts: C-8624
+Qualifies: C-8624
 Tags: relevance:context
 Investigative Direction: Travel records or statements from the three named people.
 
@@ -2232,8 +2231,6 @@ Anchored Artifacts:
 Mentions: N-341, N-3
 Related Nodes: N-10560
 Tags: relevance:context
-Verification: revised-by-host
-Verification Evidence: C-9153
 Investigative Direction: The host's Instagram messages and Marx's response, if any.
 
 ---

@@ -1531,7 +1531,7 @@
       "@type": "Claim",
       "@id": "C-9489",
       "ref": "C-9489",
-      "label": "Thomas Massie lost his Kentucky primary",
+      "label": "Host Says Thomas Massie Lost His Kentucky Primary",
       "claim": "The host says Thomas Massie lost in Kentucky.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1717,7 +1717,7 @@
       "@type": "Claim",
       "@id": "C-9497",
       "ref": "C-9497",
-      "label": "Eileen Marx mentors Erika Kirk",
+      "label": "Host Says Marx Told Her Eileen Marx Mentors Erika Kirk",
       "claim": "The host says Victor Marx told her during the interview that his wife Eileen mentors Erika Kirk and that the two became very close.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1739,7 +1739,7 @@
       "@type": "Claim",
       "@id": "C-9498",
       "ref": "C-9498",
-      "label": "Marx's team took over Charlie Kirk's security apparatus 48 hours later in Phoenix",
+      "label": "Host Says Marx Told Her His Team Took Over the Security Apparatus in Phoenix 48 Hours Later",
       "claim": "The host says Victor Marx told her his team took over the security apparatus in Phoenix a mere 48 hours after the shooting because the existing team was tired and stressed.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -1801,7 +1801,7 @@
       "@type": "Claim",
       "@id": "C-9501",
       "ref": "C-9501",
-      "label": "Frank Turek and the security team took Charlie Kirk to the hospital",
+      "label": "Host says Frank Turek and the security team took Charlie Kirk to the hospital",
       "claim": "The host says Frank Turek and the security team took Charlie Kirk to the hospital and so should have been first to know he was dead.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -1873,7 +1873,7 @@
       "@type": "Claim",
       "@id": "C-9504",
       "ref": "C-9504",
-      "label": "Victor Marx went to Erika and Charlie Kirk's home in the first two days",
+      "label": "Host says Victor Marx went to Erika and Charlie Kirk's home in the first two days",
       "claim": "In the interview the host says Victor Marx was among the first, in the first two days, to go to Erika and Charlie Kirk's home to comfort her.",
       "anchored_artifacts": [
         "A-2600.2"
@@ -1920,7 +1920,7 @@
       "@type": "Claim",
       "@id": "C-9506",
       "ref": "C-9506",
-      "label": "Marx texted Erika Kirk that \"they just wanted Charlie\"",
+      "label": "Marx says he texted Erika Kirk that \"they just wanted Charlie\"",
       "claim": "Victor Marx says he texted Erika Kirk that nobody was going to kill her or the children and that \"They just wanted Charlie.\" The host, who says the text was sent while Erika was at the hospital, asks who \"they\" are.",
       "anchored_artifacts": [
         "A-2600.3"
@@ -1967,7 +1967,7 @@
       "@type": "Claim",
       "@id": "C-9508",
       "ref": "C-9508",
-      "label": "Erika Kirk told multiple people she and Charlie were to sign updated end-of-life documents on September 15",
+      "label": "Host says Erika Kirk told people she and Charlie were to sign updated end-of-life documents on September 15",
       "claim": "The host says that, according to sources she trusts and evidence she holds, Erika Kirk told multiple people in the weeks after the assassination that she and Charlie Kirk had an appointment to sign updated end-of-life documents on September 15. The host notes Erika may have lied.",
       "anchored_artifacts": [
         "A-2603.1"
@@ -2013,7 +2013,7 @@
       "@type": "Claim",
       "@id": "C-9510",
       "ref": "C-9510",
-      "label": "Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children",
+      "label": "Host is told Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children",
       "claim": "The host says she is told Charlie Kirk already had a corporate life insurance policy that included a $10 million payout for Erika Kirk and the children.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2055,7 +2055,7 @@
       "@type": "Claim",
       "@id": "C-9512",
       "ref": "C-9512",
-      "label": "Charlie Kirk's DOGE internal audit was cancelled after his death",
+      "label": "Host says Charlie Kirk's DOGE internal audit was cancelled after his death",
       "claim": "The host says Charlie Kirk set up a DOGE internal audit to locate the alleged missing $10 million and that it was cancelled after his death.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2078,7 +2078,7 @@
       "@type": "Claim",
       "@id": "C-9513",
       "ref": "C-9513",
-      "label": "Charlie Kirk texted those closest to him \"They're going to kill me\"",
+      "label": "Host says Charlie Kirk texted those closest to him \"They're going to kill me\"",
       "claim": "The host says Charlie Kirk texted those closest to him that \"They're going to kill me\" and that he thought he would be killed the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2117,7 +2117,7 @@
       "@type": "Claim",
       "@id": "C-9515",
       "ref": "C-9515",
-      "label": "Andrew Kolvet ran Charlie Kirk's Twitter",
+      "label": "Host says Andrew Kolvet ran Charlie Kirk's Twitter",
       "claim": "The host says Andrew Kolvet was running Charlie Kirk's Twitter account, as part of her point that people around Kirk had access to everything.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2138,7 +2138,7 @@
       "@type": "Claim",
       "@id": "C-9516",
       "ref": "C-9516",
-      "label": "Mikey McCoy had Charlie Kirk's laptop",
+      "label": "Host says Mikey McCoy had Charlie Kirk's laptop",
       "claim": "The host says Mikey McCoy had Charlie Kirk's laptop and that everyone had access to Kirk's everything because he was too trusting.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2157,13 +2157,15 @@
       "@type": "Claim",
       "@id": "C-9517",
       "ref": "C-9517",
-      "label": "Kouri Richins was found guilty of murdering her husband after a grief book tour",
+      "label": "Host says Kouri Richins was found guilty of murdering her husband after a grief book tour",
       "claim": "The host says Utah widow Kouri Richins was found guilty of murdering her husband, who died of an overdose. She says Richins had written a children's grief book, Are You With Me, and promoted it on a public tour.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10865"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:24:28",
       "investigative_direction": "Check the Summit County, Utah court record for the verdict in State v. Kouri Richins.",
       "transcript_snippet": "the one in Utah, ironically, who was found guilty of murdering her husband out in but but like not instantly.",
@@ -2221,13 +2223,15 @@
       "@type": "Claim",
       "@id": "C-9520",
       "ref": "C-9520",
-      "label": "Eric Richins covertly transferred his estate to his sister before his death",
+      "label": "Host says Eric Richins covertly transferred his estate to his sister before his death",
       "claim": "The host says Eric Richins covertly transferred his entire estate and business interests into his sister's name a few weeks before he was murdered, out of fear that his wife would kill him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10865"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:26:29",
       "investigative_direction": "Review trial testimony and estate filings in the Richins case.",
       "transcript_snippet": "her husband, uh Eric Richens, also her victim, gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away",
@@ -2242,7 +2246,7 @@
       "@type": "Claim",
       "@id": "C-9521",
       "ref": "C-9521",
-      "label": "Kouri Richins attempted to change the beneficiary of her husband's life insurance",
+      "label": "Court heard Kouri Richins attempted to change the beneficiary of her husband's life insurance",
       "claim": "The host says the court heard that Kouri Richins tried to change the beneficiary of her husband's corporate life insurance so that she would receive 100% of the payout.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2311,7 +2315,7 @@
       "@type": "Claim",
       "@id": "C-9524",
       "ref": "C-9524",
-      "label": "Erika Kirk was written in as an \"emotional asset\" just over an hour after shots were fired",
+      "label": "Host says Erika Kirk was written in as an \"emotional asset\" just over an hour after shots were fired",
       "claim": "The host says White House Correspondents' Dinner communications wrote Erika Kirk in as an \"emotional asset\" just over an hour after shots were fired, focused on making sure that video was number one in the morning.",
       "anchored_artifacts": [
         "A-2605.1"
@@ -2333,7 +2337,7 @@
       "@type": "Claim",
       "@id": "C-9525",
       "ref": "C-9525",
-      "label": "TPUSA offered the Daily Mail a private screening of the disputed video",
+      "label": "Host says TPUSA offered the Daily Mail a private screening of the disputed video",
       "claim": "The host says TPUSA went to the Daily Mail offering to host a private screening, perhaps on Zoom, to show that the disputed video was real.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2352,7 +2356,7 @@
       "@type": "Claim",
       "@id": "C-9526",
       "ref": "C-9526",
-      "label": "Erika Kirk walked out to only the audio of the video",
+      "label": "Host says Erika Kirk walked out to only the audio of the video",
       "claim": "The host says TPUSA told people the video existed and then had Erika Kirk walk out to just its audio.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2417,7 +2421,7 @@
       "@type": "Claim",
       "@id": "C-9529",
       "ref": "C-9529",
-      "label": "The Robinson defense still has not received its discovery requests",
+      "label": "Host says the Robinson defense still has not received its discovery requests",
       "claim": "The host says that as the preliminary hearing approaches, the defense still has not received its discovery requests, while the state and victim Erika Kirk want to present evidence not yet provided to the defense.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2613,7 +2617,7 @@
       "@type": "Claim",
       "@id": "C-9538",
       "ref": "C-9538",
-      "label": "Joe Rogan recorded a standalone apology for the first time in his show's history",
+      "label": "Host says Joe Rogan recorded a standalone apology for the first time in his show's history",
       "claim": "The host says Joe Rogan did something he had never done in his show's history by recording an apology about Theo Von. In the clip Rogan says he had already apologized to Theo.",
       "anchored_artifacts": [
         "A-2607.3"
@@ -2656,7 +2660,7 @@
       "@type": "Claim",
       "@id": "C-9540",
       "ref": "C-9540",
-      "label": "Marx's post came around when Erika learned of the death and just before Kolvet did",
+      "label": "Host and viewer say Marx's post came around when Erika learned of the death and just before Kolvet did",
       "claim": "Agreeing with a viewer, the host says Victor Marx's Instagram post came at about the time Erika Kirk learned of the death and slightly before Andrew Kolvet did. She says this signals that someone at the hospital, perhaps the security team or Erika, told him.",
       "anchored_artifacts": [
         "A-2608.2"
@@ -2702,7 +2706,7 @@
       "@type": "Claim",
       "@id": "C-9542",
       "ref": "C-9542",
-      "label": "Ed Gallrein had no crowd at his victory party",
+      "label": "Host says Ed Gallrein had no crowd at his victory party",
       "claim": "The host says Ed Gallrein had no crowd at his victory party and had the camera zoomed in on his face to hide it.",
       "anchored_artifacts": [],
       "related_nodes": [

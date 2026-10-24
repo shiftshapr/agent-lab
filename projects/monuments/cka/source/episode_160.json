@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00-00:58:52",
     "- **Extraction Timestamp (UTC)**: 2026-10-06T18:30:00Z",
-    "- **Transcript SHA-256**: 24d90a160bd049729eeb3c14c85fbb5fb98847e2f37c82b3d1ec5cd543177375",
+    "- **Transcript SHA-256**: 400453172c8dc0798aab0f6f41a14d74003898de8c418da5e4aecbb616bed6da",
     "- **Model Version**: grok-manual-extract-seq160",
     "",
     "- **Episode Ledger Summary**:",
@@ -3617,8 +3617,8 @@
   {
    "kind": "claim",
    "id": "C-13834",
-   "header": "**C-13834** Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein",
-   "label": "Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein",
+   "header": "**C-13834** Host says Las Vegas 2017 coverage was displaced within five days by MeToo / Weinstein",
+   "label": "Host says Las Vegas 2017 coverage was displaced within five days by MeToo / Weinstein",
    "lines": [
     {
      "raw": ""
@@ -3657,8 +3657,8 @@
   {
    "kind": "claim",
    "id": "C-13836",
-   "header": "**C-13836** Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest",
-   "label": "Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest",
+   "header": "**C-13836** Host says Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest",
+   "label": "Host says Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest",
    "lines": [
     {
      "raw": ""
@@ -3701,8 +3701,8 @@
   {
    "kind": "claim",
    "id": "C-13845",
-   "header": "**C-13845** U.S. filicide is rare and majority male; epidemic framing lacks statistical basis",
-   "label": "U.S. filicide is rare and majority male; epidemic framing lacks statistical basis",
+   "header": "**C-13845** Host argues U.S. filicide is rare and majority male and epidemic framing lacks statistical basis",
+   "label": "Host argues U.S. filicide is rare and majority male and epidemic framing lacks statistical basis",
    "lines": [
     {
      "raw": ""
@@ -3772,6 +3772,10 @@
      "v": "N-10762, N-10780, N-10795"
     },
     {
+     "k": "Contradicts",
+     "v": "C-13855"
+    },
+    {
      "k": "Verification",
      "v": "corroborated"
     },
@@ -3797,8 +3801,8 @@
   {
    "kind": "claim",
    "id": "C-13853",
-   "header": "**C-13853** Neither Turek nor Harpole mentions a fire captain performing CPR",
-   "label": "Neither Turek nor Harpole mentions a fire captain performing CPR",
+   "header": "**C-13853** Host says neither Turek nor Harpole mentions a fire captain performing CPR",
+   "label": "Host says neither Turek nor Harpole mentions a fire captain performing CPR",
    "lines": [
     {
      "raw": ""
@@ -3841,8 +3845,8 @@
   {
    "kind": "claim",
    "id": "C-13859",
-   "header": "**C-13859** Dispatch redirected ladder 33 and engine 34 toward Timpanogos ~12:30",
-   "label": "Dispatch redirected ladder 33 and engine 34 toward Timpanogos ~12:30",
+   "header": "**C-13859** Host times dispatch audio redirecting ladder 33 and engine 34 toward Timpanogos to ~12:30",
+   "label": "Host times dispatch audio redirecting ladder 33 and engine 34 toward Timpanogos to ~12:30",
    "lines": [
     {
      "raw": ""
@@ -3929,8 +3933,8 @@
   {
    "kind": "claim",
    "id": "C-13874",
-   "header": "**C-13874** Whistleblower Simon Andriesz dies after flagging Howard Lutnick Epstein ties",
-   "label": "Whistleblower Simon Andriesz dies after flagging Howard Lutnick Epstein ties",
+   "header": "**C-13874** Host reports whistleblower Simon Andriesz died after flagging Howard Lutnick Epstein ties",
+   "label": "Host reports whistleblower Simon Andriesz died after flagging Howard Lutnick Epstein ties",
    "lines": [
     {
      "raw": ""
@@ -5527,10 +5531,6 @@
     {
      "k": "Supports",
      "v": "C-12856"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-13858"
     },
     {
      "k": "Tags",

@@ -2568,7 +2568,8 @@
         "N-10074"
       ],
       "tags": [
-        "open_source_investigation"
+        "open_source_investigation",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:44:30",
       "investigative_direction": "Verify authenticity of released text chain via independent forensic analysis and metadata.",

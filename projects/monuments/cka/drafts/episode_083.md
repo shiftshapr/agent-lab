@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:23
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: af9d7478540e605b0d93fec65bec36ded2c5822785e3273b1e7fd2f45e84709d
+- **Transcript SHA-256**: 712ec7258b4d638504ed7da8a44255ee5daa7b74497619551df1dbfb6f59bd37
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-910, N-911, N-11260, N-11261
@@ -815,7 +815,7 @@ Related Nodes: N-10502
 
 Investigative Direction: Obtain the full Frank Turek podcast episode audio and verify the exact quoted time estimate and context.
 
-**C-7419** Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific
+**C-7419** Host Says Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific
 
 Claim Timestamp: 00:03:30
 
@@ -867,7 +867,7 @@ Related Nodes:
 
 Investigative Direction: Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records.
 
-**C-7441** Stacy Sheridan Was Not at TPUSA Offices on September 10
+**C-7441** Host Says Stacy Sheridan Was Not at TPUSA Offices on September 10
 
 Claim Timestamp: 00:14:00
 
@@ -984,7 +984,7 @@ Related Nodes: N-10515
 
 Investigative Direction: Verify the cited Russia Today coverage and assess the inferential link.
 
-**C-7492** Yair Netanyahu Retweeted the Alexis Wilkins Thread
+**C-7492** Host Says Yair Netanyahu Was First to Retweet the Alexis Wilkins Thread
 
 Claim Timestamp: 00:39:43
 
@@ -1564,7 +1564,6 @@ Transcript Snippet: Mikey's assistant Katherine got sick on the plane overwhelme
 Anchored Artifacts: A-1902.2
 Mentions: N-597, N-217, N-190, N-14, N-3
 Related Nodes: N-11124, N-10502
-Contradicts: C-5705
 Tags: relevance:core
 Investigative Direction: Compare Elizabeth McCoy's account with Kolvet's tarmac account and with timestamps of the party's hospital arrival.
 Open Questions: Q-327, Q-722

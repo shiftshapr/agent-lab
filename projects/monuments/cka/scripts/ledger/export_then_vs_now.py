@@ -10,6 +10,8 @@ the delta. `ledger/then_vs_now.json` is the master. On re-export it keeps each p
 Usage (from agent-lab root):
   python3 projects/monuments/cka/scripts/ledger/export_then_vs_now.py [--deltas FILE]
   (--deltas: JSON list of {"later", "earlier", "delta"} to fill in deltas for new pairs)
+`config/host_voice_overrides.json` ({claim id: true|false}) overrides the text heuristic for whether a claim is the
+host's own words (set from the Phase 6 audit).
 """
 
 from __future__ import annotations
@@ -38,6 +40,8 @@ def main() -> int:
     ap.add_argument("--deltas", type=Path)
     a = ap.parse_args()
     man = {e["seq"]: e for e in json.loads((CKA / "input" / "episode_manifest.json").read_text(encoding="utf-8"))["episodes"]}
+    ovp = CKA / "config" / "host_voice_overrides.json"
+    override = json.loads(ovp.read_text(encoding="utf-8")) if ovp.exists() else {}
     claims, links = {}, []
     for seq in sorted(man):
         if not cs.src_path(seq).exists():
@@ -48,7 +52,7 @@ def main() -> int:
                                 "date": man[seq]["upload_date"], "timestamp": cs.field(it, "Claim Timestamp"),
                                 "clip": f"https://youtu.be/{man[seq]['youtube_id']}?t={secs(cs.field(it, 'Claim Timestamp'))}",
                                 "claim": text, "snippet": cs.field(it, "Transcript Snippet") or "",
-                                "host_voice": text.startswith("The host ") and not OTHER_VOICE.search(text)}
+                                "host_voice": override.get(it["id"], text.startswith("The host ") and not OTHER_VOICE.search(text))}
             for key, rel in KEYS.items():
                 for old in re.findall(r"C-\d+", cs.field(it, key) or ""):
                     links.append((it["id"], old, rel))

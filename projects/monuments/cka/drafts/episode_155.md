@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:09
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce
+- **Transcript SHA-256**: 1a109814b849c6c50e808016cb2439b652a8f2d22a5ec96084b57760efc47ab6
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-898, N-900, N-11231, N-11232
@@ -1717,7 +1717,7 @@ Transcript Snippet: The only thing that he got wrong in that assessment is that 
 Anchored Artifacts: A-2406.1
 Mentions: N-897, N-366, N-3
 Related Nodes: N-10389
-Contradicts: C-13420
+Qualifies: C-13420
 Tags: relevance:tangential
 Investigative Direction: Compare Boreing's podcast sponsorship and TPUSA ties against the host's stalking characterization.
 

@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:49:46",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:29:50Z",
-    "- **Transcript SHA-256**: ccf10ed3135945b4632fcb8875e55be10686f8a85b8369476b094195759b7066",
+    "- **Transcript SHA-256**: 9bd6bd690e39aca84f4eddfc7ef161fb5152912f3b67adfb662761889760d025",
     "- **Model Version**: claude-manual-extract-seq104",
     "",
     "- **Episode Ledger Summary**:",
@@ -1692,8 +1692,8 @@
   {
    "kind": "claim",
    "id": "C-9209",
-   "header": "**C-9209** White House attempted to rescind a communications email sent shortly after the WHCD shooting",
-   "label": "White House attempted to rescind a communications email sent shortly after the WHCD shooting",
+   "header": "**C-9209** Host Says White House Attempted to Rescind an Email Sent Shortly After the WHCD Shooting",
+   "label": "Host Says White House Attempted to Rescind an Email Sent Shortly After the WHCD Shooting",
    "lines": [
     {
      "raw": ""
@@ -1811,8 +1811,8 @@
   {
    "kind": "claim",
    "id": "C-9211",
-   "header": "**C-9211** WHCD shooting began at 8:36 p.m. Eastern, with Secret Service officers firing",
-   "label": "WHCD shooting began at 8:36 p.m. Eastern, with Secret Service officers firing",
+   "header": "**C-9211** Host Says WHCD Shooting Began at 8:36 p.m. Eastern, With Secret Service Officers Firing",
+   "label": "Host Says WHCD Shooting Began at 8:36 p.m. Eastern, With Secret Service Officers Firing",
    "lines": [
     {
      "raw": ""
@@ -1991,8 +1991,8 @@
   {
    "kind": "claim",
    "id": "C-9214",
-   "header": "**C-9214** Department of Defense uses a canary tactic to trace leakers of emails",
-   "label": "Department of Defense uses a canary tactic to trace leakers of emails",
+   "header": "**C-9214** Host's Team Says Department of Defense Uses a Canary Tactic to Trace Email Leakers",
+   "label": "Host's Team Says Department of Defense Uses a Canary Tactic to Trace Email Leakers",
    "lines": [
     {
      "raw": ""
@@ -2048,8 +2048,8 @@
   {
    "kind": "claim",
    "id": "C-9215",
-   "header": "**C-9215** TPUSA implemented a similar canary email process after Charlie Kirk's assassination",
-   "label": "TPUSA implemented a similar canary email process after Charlie Kirk's assassination",
+   "header": "**C-9215** Host Says TPUSA Implemented a Similar Canary Email Process After Charlie Kirk's Assassination",
+   "label": "Host Says TPUSA Implemented a Similar Canary Email Process After Charlie Kirk's Assassination",
    "lines": [
     {
      "raw": ""
@@ -2106,8 +2106,8 @@
   {
    "kind": "claim",
    "id": "C-9216",
-   "header": "**C-9216** Steven Cheung, Ryan Rippeon and Gustav Anderly were copied on the email",
-   "label": "Steven Cheung, Ryan Rippeon and Gustav Anderly were copied on the email",
+   "header": "**C-9216** Host Says Steven Cheung, Ryan Rippeon and Gustav Anderly Were Copied on the Email",
+   "label": "Host Says Steven Cheung, Ryan Rippeon and Gustav Anderly Were Copied on the Email",
    "lines": [
     {
      "raw": ""
@@ -2163,8 +2163,8 @@
   {
    "kind": "claim",
    "id": "C-9217",
-   "header": "**C-9217** Gustav Anderly is an information systems manager at the White House Communications Agency",
-   "label": "Gustav Anderly is an information systems manager at the White House Communications Agency",
+   "header": "**C-9217** Host Says Gustav Anderly Is Listed as Information Systems Manager at the White House Communications Agency",
+   "label": "Host Says Gustav Anderly Is Listed as Information Systems Manager at the White House Communications Agency",
    "lines": [
     {
      "raw": ""
@@ -2445,8 +2445,8 @@
   {
    "kind": "claim",
    "id": "C-9222",
-   "header": "**C-9222** Recipients were ordered in multiple emails to delete the original",
-   "label": "Recipients were ordered in multiple emails to delete the original",
+   "header": "**C-9222** Host Is Told Recipients Were Ordered in Multiple Emails to Delete the Original",
+   "label": "Host Is Told Recipients Were Ordered in Multiple Emails to Delete the Original",
    "lines": [
     {
      "raw": ""
@@ -2498,8 +2498,8 @@
   {
    "kind": "claim",
    "id": "C-9223",
-   "header": "**C-9223** The rest of the email covered routine security messaging",
-   "label": "The rest of the email covered routine security messaging",
+   "header": "**C-9223** Host Says the Rest of the Email Covered Routine Security Messaging",
+   "label": "Host Says the Rest of the Email Covered Routine Security Messaging",
    "lines": [
     {
      "raw": ""
@@ -2608,8 +2608,8 @@
   {
    "kind": "claim",
    "id": "C-9225",
-   "header": "**C-9225** Justin Streiff was promoted to COO seven days before Charlie Kirk was assassinated",
-   "label": "Justin Streiff was promoted to COO seven days before Charlie Kirk was assassinated",
+   "header": "**C-9225** Host Says Justin Streiff Was Promoted to COO Seven Days Before Charlie Kirk Was Assassinated",
+   "label": "Host Says Justin Streiff Was Promoted to COO Seven Days Before Charlie Kirk Was Assassinated",
    "lines": [
     {
      "raw": ""
@@ -2724,8 +2724,8 @@
   {
    "kind": "claim",
    "id": "C-9227",
-   "header": "**C-9227** Charlie Kirk announced the audit at the same time he promoted Justin Streiff",
-   "label": "Charlie Kirk announced the audit at the same time he promoted Justin Streiff",
+   "header": "**C-9227** Host Says Charlie Kirk Announced the Audit in the Same Email Promoting Justin Streiff",
+   "label": "Host Says Charlie Kirk Announced the Audit in the Same Email Promoting Justin Streiff",
    "lines": [
     {
      "raw": ""
@@ -2902,8 +2902,8 @@
   {
    "kind": "claim",
    "id": "C-9230",
-   "header": "**C-9230** Turning Point Action is headed by Tyler Bowyer and its super-feed back door pays Lori Frantzve",
-   "label": "Turning Point Action is headed by Tyler Bowyer and its super-feed back door pays Lori Frantzve",
+   "header": "**C-9230** Host Says Turning Point Action Is Headed by Tyler Bowyer and Its Super-Feed Back Door Pays Lori Frantzve",
+   "label": "Host Says Turning Point Action Is Headed by Tyler Bowyer and Its Super-Feed Back Door Pays Lori Frantzve",
    "lines": [
     {
      "raw": ""
@@ -2960,8 +2960,8 @@
   {
    "kind": "claim",
    "id": "C-9231",
-   "header": "**C-9231** Charlie Kirk set up an internal DOGE separate from the annual accountants' audit",
-   "label": "Charlie Kirk set up an internal DOGE separate from the annual accountants' audit",
+   "header": "**C-9231** Host Says Charlie Kirk Set Up an Internal DOGE Separate From the Annual Accountants' Audit",
+   "label": "Host Says Charlie Kirk Set Up an Internal DOGE Separate From the Annual Accountants' Audit",
    "lines": [
     {
      "raw": ""
@@ -3079,8 +3079,8 @@
   {
    "kind": "claim",
    "id": "C-9233",
-   "header": "**C-9233** Streiff sought to at least double the \"Stop in the Name of God\" print order",
-   "label": "Streiff sought to at least double the \"Stop in the Name of God\" print order",
+   "header": "**C-9233** Host Says Streiff Allegedly Sought to at Least Double the \"Stop in the Name of God\" Print Order",
+   "label": "Host Says Streiff Allegedly Sought to at Least Double the \"Stop in the Name of God\" Print Order",
    "lines": [
     {
      "raw": ""
@@ -3193,8 +3193,8 @@
   {
    "kind": "claim",
    "id": "C-9235",
-   "header": "**C-9235** Erika Kirk's takeover of the board and CEO role was decided within 48 hours",
-   "label": "Erika Kirk's takeover of the board and CEO role was decided within 48 hours",
+   "header": "**C-9235** Host Says Erika Kirk's Takeover of the Board and CEO Role Was Decided Within 48 Hours",
+   "label": "Host Says Erika Kirk's Takeover of the Board and CEO Role Was Decided Within 48 Hours",
    "lines": [
     {
      "raw": ""
@@ -3251,8 +3251,8 @@
   {
    "kind": "claim",
    "id": "C-9236",
-   "header": "**C-9236** Justin Streiff also runs Winning Team Publishing, founded by Sergio Gor and Don Jr.",
-   "label": "Justin Streiff also runs Winning Team Publishing, founded by Sergio Gor and Don Jr.",
+   "header": "**C-9236** Host Says Justin Streiff Also Runs Winning Team Publishing, Founded by Sergio Gor and Don Jr.",
+   "label": "Host Says Justin Streiff Also Runs Winning Team Publishing, Founded by Sergio Gor and Don Jr.",
    "lines": [
     {
      "raw": ""
@@ -3309,8 +3309,8 @@
   {
    "kind": "claim",
    "id": "C-9237",
-   "header": "**C-9237** Justin Streiff receives money from Winning Team Publishing",
-   "label": "Justin Streiff receives money from Winning Team Publishing",
+   "header": "**C-9237** Host Says Justin Streiff Receives Money From Winning Team Publishing",
+   "label": "Host Says Justin Streiff Receives Money From Winning Team Publishing",
    "lines": [
     {
      "raw": ""
@@ -3367,8 +3367,8 @@
   {
    "kind": "claim",
    "id": "C-9238",
-   "header": "**C-9238** Sergio Gor was White House deputy chief of staff and exchanged staff with Charlie Kirk's office",
-   "label": "Sergio Gor was White House deputy chief of staff and exchanged staff with Charlie Kirk's office",
+   "header": "**C-9238** Host Says Sergio Gor Was Deputy Chief of Staff and Exchanged Staff With Charlie Kirk's Office",
+   "label": "Host Says Sergio Gor Was Deputy Chief of Staff and Exchanged Staff With Charlie Kirk's Office",
    "lines": [
     {
      "raw": ""
@@ -3425,8 +3425,8 @@
   {
    "kind": "claim",
    "id": "C-9239",
-   "header": "**C-9239** Sergio Gor was second in command to Susie Wiles before being pushed out",
-   "label": "Sergio Gor was second in command to Susie Wiles before being pushed out",
+   "header": "**C-9239** Host Says Sergio Gor Was Second in Command to Susie Wiles Before Being Pushed Out",
+   "label": "Host Says Sergio Gor Was Second in Command to Susie Wiles Before Being Pushed Out",
    "lines": [
     {
      "raw": ""
@@ -3582,6 +3582,10 @@
      "v": "N-10848"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the source of the rumor; treat as unverified and seek on-record confirmation or denial."
     },
@@ -3599,8 +3603,8 @@
   {
    "kind": "claim",
    "id": "C-9242",
-   "header": "**C-9242** Erika Kirk flew to Washington for Gor's ambassador ceremony",
-   "label": "Erika Kirk flew to Washington for Gor's ambassador ceremony",
+   "header": "**C-9242** Host Says Erika Kirk Flew to Washington for Gor's Ambassador Ceremony",
+   "label": "Host Says Erika Kirk Flew to Washington for Gor's Ambassador Ceremony",
    "lines": [
     {
      "raw": ""
@@ -4228,8 +4232,8 @@
   {
    "kind": "claim",
    "id": "C-9253",
-   "header": "**C-9253** TPUSA is now paying university chapter leaders not to close chapters",
-   "label": "TPUSA is now paying university chapter leaders not to close chapters",
+   "header": "**C-9253** Host Says TPUSA Is Apparently Now Paying University Chapter Leaders Not to Close Chapters",
+   "label": "Host Says TPUSA Is Apparently Now Paying University Chapter Leaders Not to Close Chapters",
    "lines": [
     {
      "raw": ""

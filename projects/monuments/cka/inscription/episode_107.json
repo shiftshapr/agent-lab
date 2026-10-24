@@ -1546,7 +1546,9 @@
         "A-2508.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Obtain original social media posts via archived captures; verify timeline of board letter and retraction.",
       "mentions_person_refs": [
@@ -1769,7 +1771,7 @@
       "@type": "Claim",
       "@id": "C-9360",
       "ref": "C-9360",
-      "label": "White House press team has not answered about the email",
+      "label": "Host Says White House Press Team Has Not Answered About the Email",
       "claim": "The host says the White House press team is not responding to her question about whether an email is real.",
       "anchored_artifacts": [
         "A-2771.1"
@@ -1857,13 +1859,15 @@
       "@type": "Claim",
       "@id": "C-9366",
       "ref": "C-9366",
-      "label": "Marx's birth name is Von Victor Kennedy",
+      "label": "Host Says Marx's Birth Name Is Von Victor Kennedy",
       "claim": "The host says Victor Marx's real birth name is Von Victor Kennedy and that he has told stories of abuse by his stepfather Gloyce Dean Kennedy beginning at age 3.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10551"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:02:31",
       "investigative_direction": "Obtain birth or name-change records and compare with Marx's own account.",
       "transcript_snippet": "I've already told you his real name is Von Victor Kennedy. That's his birth name, at least.",
@@ -1878,7 +1882,7 @@
       "@type": "Claim",
       "@id": "C-9367",
       "ref": "C-9367",
-      "label": "Marx's stepfather served in army counterintelligence and pled guilty to a drug smuggling conspiracy",
+      "label": "Host Says Marx's Stepfather Served in Army Counterintelligence and Pled Guilty to a Drug Smuggling Conspiracy",
       "claim": "The host says Gloyce Dean Kennedy served in the army doing counterintelligence and pled guilty to conspiracy to run an international marijuana smuggling ring out of Jamaica.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1941,7 +1945,7 @@
       "@type": "Claim",
       "@id": "C-9370",
       "ref": "C-9370",
-      "label": "Marx's biological father spent time in a mental hospital for homicidal tendencies",
+      "label": "Host Says Marx's Biological Father Spent Time in a Mental Hospital for Homicidal Tendencies",
       "claim": "The host says Marx's biological father spent time in a mental hospital for homicidal tendencies, something she says Marx has said he also experienced.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1962,7 +1966,7 @@
       "@type": "Claim",
       "@id": "C-9371",
       "ref": "C-9371",
-      "label": "Marx's grandfather killed his grandmother in a public murder-suicide",
+      "label": "Host Says Marx's Grandfather Killed His Grandmother in a Public Murder-Suicide",
       "claim": "The host says Victor Marx's grandfather killed his grandmother in a public murder-suicide.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1982,7 +1986,7 @@
       "@type": "Claim",
       "@id": "C-9372",
       "ref": "C-9372",
-      "label": "Marx lived in 17 homes and attended 14 schools by age 17",
+      "label": "Host Says Marx Lived in 17 Homes and Attended 14 Schools by Age 17",
       "claim": "The host says that by age 17 Marx had lived in 17 homes and attended 14 schools and was involved with drugs, fights and theft in high school.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2025,7 +2029,7 @@
       "@type": "Claim",
       "@id": "C-9374",
       "ref": "C-9374",
-      "label": "Marx married Eileen Breining Marx at 23 and has five children",
+      "label": "Host Says Marx Married Eileen Breining Marx at 23 and Has Five Children",
       "claim": "The host says Marx married Eileen Breining Marx at age 23 and that they went on to have five children and grandchildren.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2046,7 +2050,7 @@
       "@type": "Claim",
       "@id": "C-9375",
       "ref": "C-9375",
-      "label": "Marx and his brother began All Things Possible Ministries in 2003",
+      "label": "Host Says Marx and His Brother Began All Things Possible Ministries in 2003",
       "claim": "The host says that in 2003 Victor Marx and his brother began All Things Possible Ministries.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2066,7 +2070,7 @@
       "@type": "Claim",
       "@id": "C-9376",
       "ref": "C-9376",
-      "label": "Eileen's brother Kenneth Breining tried to shoot Marx in 2023",
+      "label": "Host Says Eileen's Brother Kenneth Breining Tried to Shoot Marx in 2023",
       "claim": "The host says that in 2023 Eileen's brother, Kenneth Breining, tried to shoot Victor Marx on Marx's property and that Marx survived.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2089,11 +2093,13 @@
       "@type": "Claim",
       "@id": "C-9377",
       "ref": "C-9377",
-      "label": "Kenneth Breining later killed his own girlfriend",
+      "label": "Host Says Kenneth Breining Later Killed His Own Girlfriend",
       "claim": "The host says Eileen's brother would go on to kill his own girlfriend.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:05:19",
       "investigative_direction": "Obtain the homicide case record naming Kenneth Breining and the victim.",
       "transcript_snippet": "but Eileen's brother would go on to kill his own girlfriend.",
@@ -2108,7 +2114,7 @@
       "@type": "Claim",
       "@id": "C-9378",
       "ref": "C-9378",
-      "label": "Marx announced his candidacy on October 1 and teased it at Charlie Kirk's memorial",
+      "label": "Host Says Marx Announced His Candidacy on October 1 and Teased It at Charlie Kirk's Memorial",
       "claim": "The host says Marx announced his candidacy for governor of Colorado on October 1 and began teasing the run at the memorial service for Charlie Kirk four days after Charlie's death.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2364,7 +2370,9 @@
       "related_nodes": [
         "N-10967"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:09",
       "investigative_direction": "Obtain any police or court filings by Holly Chalmers and the border records for her crossing.",
       "transcript_snippet": "a young woman named Holly Chalmers or Chalmers accused him of kidnapping her across state lines and of exploiting her.",
@@ -2385,7 +2393,9 @@
       "related_nodes": [
         "N-10967"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Compare Marx's account with Canadian police records on the boyfriend and Holly's own statements.",
       "transcript_snippet": "Victor Marx claims that he was actually rescuing her from her pedophile boyfriend.",
@@ -2406,7 +2416,9 @@
       "related_nodes": [
         "N-10551"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Identify the board and obtain the letter; ask the board whether it received one.",
       "transcript_snippet": "Victor Marx's own son wrote a letter to the board on a company that Victor was a part of accusing his father of abusing both him and his sister.",
@@ -2476,7 +2488,9 @@
       "related_nodes": [
         "N-10551"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:13:38",
       "investigative_direction": "Identify and interview the family members and obtain any written statements.",
       "transcript_snippet": "He was not forced to kill anybody, that there are no bodies in the backyards of their farms",
@@ -2550,7 +2564,9 @@
       "related_nodes": [
         "N-10968"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:18:17",
       "investigative_direction": "Locate the statement Marx cites and any corresponding El Paso County Sheriff or FBI report.",
       "transcript_snippet": "has filled out a statement both with local authorities and FBI that he is homicidal, and he told her and her husband that he had plans to kill me.",
@@ -2598,7 +2614,9 @@
       "related_nodes": [
         "N-10968"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:19:19",
       "investigative_direction": "Ask the FBI and El Paso County Sheriff's Office to confirm whether any inquiry or warrant exists for Hall.",
       "transcript_snippet": "this gentleman is being sought by the FBI and El Paso County Sheriff Department",
@@ -2877,7 +2895,9 @@
       "related_nodes": [
         "N-10551"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:45",
       "investigative_direction": "Identify Charmaine and ask whether she has spoken publicly.",
       "transcript_snippet": "she is my half sister who is the daughter of the abuser",
@@ -3940,7 +3960,9 @@
       "related_nodes": [
         "N-10967"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:04:41",
       "investigative_direction": "Locate the couple's video and check its post date.",
       "transcript_snippet": "have video that they just posted yesterday of Holly telling the truth about what we did to help her.",
@@ -3963,7 +3985,9 @@
       "related_nodes": [
         "N-10967"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:04:41",
       "investigative_direction": "Check Canadian court and police records on the boyfriend; no named allegation should be treated as established here.",
       "transcript_snippet": "it was Holly's pedophile who groomed this girl since she was 13, had sex with her at 15.",

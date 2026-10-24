@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:01:48
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:47:03Z
-- **Transcript SHA-256**: e6631efb5c1de758a5027b0a338c5879d9a3b405459184882e1a73551571dc34
+- **Transcript SHA-256**: 0f25350a3fae768642a7ca9ed6db8d24fb478152f9551aae687543d7764f28c1
 - **Model Version**: claude-manual-extract-seq119
 
 - **Episode Ledger Summary**:
@@ -762,7 +762,7 @@ Investigative Direction: Search the host's episodes and posts before Harpole's S
 
 ---
 
-**C-10162** Brian Harpole offered Shawn Ryan Charlie Kirk's bloodied bag as a gift
+**C-10162** Host Says Shawn Ryan's Team Told Her Brian Harpole Offered Charlie Kirk's Bloodied Bag as a Gift
 
 Claim Timestamp: 00:05:24
 
@@ -777,7 +777,7 @@ Investigative Direction: Ask Shawn Ryan and his production staff to confirm the 
 
 ---
 
-**C-10163** An Erika Kirk booking with the Shawn Ryan Show was arranged through Terryl Farnsworth
+**C-10163** Host Says Shawn Ryan's Team Was Arranging an Erika Kirk Booking Through Terryl Farnsworth
 
 Claim Timestamp: 00:05:24
 
@@ -791,7 +791,7 @@ Investigative Direction: Obtain booking correspondence between the Shawn Ryan Sh
 
 ---
 
-**C-10164** Terryl Farnsworth announced Charlie's death on camera, took down the camera and runs the AV company
+**C-10164** Host Says Terryl Farnsworth Announced Charlie's Death on Camera, Took Down the Camera and Runs the AV Company
 
 Claim Timestamp: 00:06:37
 
@@ -807,7 +807,7 @@ Investigative Direction: Obtain Visual Impulse's corporate records and the origi
 
 ---
 
-**C-10165** The Farnsworth family grew up with Tyler Bowyer's family in Chandler, Arizona
+**C-10165** Host Says the Farnsworth Family Grew Up With Tyler Bowyer's Family in Chandler, Arizona
 
 Claim Timestamp: 00:06:37
 
@@ -822,7 +822,7 @@ Investigative Direction: Check Chandler-area high school yearbooks and alumni re
 
 ---
 
-**C-10166** Eddie Farnsworth helped bring Lori Frantzve into Arizona government contracts before Erika met Charlie
+**C-10166** Host Says Eddie Farnsworth Helped Bring Lori Frantzve Into Arizona Government Contracts Before Erika Met Charlie
 
 Claim Timestamp: 00:06:37
 
@@ -853,7 +853,7 @@ Investigative Direction: Check Maricopa County parcel records for TPUSA-owned or
 
 ---
 
-**C-10168** Charlie Kirk had Terryl Farnsworth's team removed from his building on July 24
+**C-10168** Host Says Charlie Kirk Had Terryl Farnsworth's Team Removed From His Building on July 24
 
 Claim Timestamp: 00:08:08
 
@@ -884,7 +884,7 @@ Investigative Direction: Obtain the full recording of the September 16, 2025 sta
 
 ---
 
-**C-10170** Farnsworth's footage showed nothing gory because the bullet did not exit
+**C-10170** Host Says Farnsworth's Footage Showed Nothing Gory Because the Bullet Did Not Exit
 
 Claim Timestamp: 00:09:55
 
@@ -913,7 +913,7 @@ Investigative Direction: Await the host's disclosure of the name and the basis o
 
 ---
 
-**C-10172** Brian Farnsworth is Terryl Farnsworth's brother and was on the Visual Impulse team
+**C-10172** Host's Graphic Identifies Brian Farnsworth as Terryl Farnsworth's Brother on the Visual Impulse Team
 
 Claim Timestamp: 00:09:55
 
@@ -928,7 +928,7 @@ Investigative Direction: Confirm the September 10 crew roster with Visual Impuls
 
 ---
 
-**C-10173** Philip Goldsberry Jr.'s father is a pastor who started a charity in Romania
+**C-10173** Host Says Philip Goldsberry Jr.'s Father Is a Pastor Who Started a Charity in Romania
 
 Claim Timestamp: 00:10:49
 
@@ -943,7 +943,7 @@ Investigative Direction: Look up the charity's registration and officers in US a
 
 ---
 
-**C-10174** Parker Edwards went to the same high school as Terryl Farnsworth
+**C-10174** Host Says Parker Edwards Went to the Same High School as Terryl Farnsworth
 
 Claim Timestamp: 00:10:49
 
@@ -973,7 +973,7 @@ Investigative Direction: Check Visual Impulse employment records and ASU enrollm
 
 ---
 
-**C-10176** Robert Golow was hired in 2024 when the redundant microphone was introduced
+**C-10176** Host Says She Was Told Robert Golow Was Hired in 2024 When the Redundant Microphone Was Introduced
 
 Claim Timestamp: 00:11:31
 
@@ -988,7 +988,7 @@ Investigative Direction: Obtain Visual Impulse hiring records for Golow and the 
 
 ---
 
-**C-10177** Golow stood next to Farnsworth when Charlie was hit, then ran off
+**C-10177** Host Says Golow Stood Next to Farnsworth When Charlie Was Hit, Then Ran Off
 
 Claim Timestamp: 00:12:22
 
@@ -1033,7 +1033,7 @@ Investigative Direction: Compile all September 10 eyewitness media interviews an
 
 ---
 
-**C-10180** Eyewitness Tiffany Barker worked on Phil Lyman's campaign
+**C-10180** Host Thinks Eyewitness Tiffany Barker Worked on Phil Lyman's Campaign
 
 Claim Timestamp: 00:13:48
 
@@ -1124,7 +1124,7 @@ Investigative Direction: Obtain forensic examination of both microphones and the
 
 ---
 
-**C-10186** Chest-wound witnesses spoke to NBC News
+**C-10186** Host Says Chest-Wound Witnesses Spoke to NBC News
 
 Claim Timestamp: 00:16:34
 
@@ -1139,7 +1139,7 @@ Investigative Direction: Request NBC News's sourcing for its September 10 eyewit
 
 ---
 
-**C-10187** Farnsworth took only the SD card and left the camera, contrary to the theft explanation
+**C-10187** Host Alleges Farnsworth Took Only the SD Card and Left the Camera, Rejecting the Theft Explanation
 
 Claim Timestamp: 00:18:23
 
@@ -1185,7 +1185,7 @@ Investigative Direction: Compare Erika Kirk's statement about Kolvet going rogue
 
 ---
 
-**C-10190** Erika's succession story shifted; Charlie never put the CEO plan in his will
+**C-10190** Host Says Erika's Succession Story Shifted and Charlie Never Put the CEO Plan in His Will
 
 Claim Timestamp: 00:20:00
 
@@ -1230,7 +1230,7 @@ Investigative Direction: Check Tootsie Roll Industries SEC filings on ownership 
 
 ---
 
-**C-10193** ChatGPT listed Erika Kirk as an example of spousal CEO succession
+**C-10193** Host Says ChatGPT Listed Erika Kirk as an Example of Spousal CEO Succession
 
 Claim Timestamp: 00:24:13
 
@@ -1484,7 +1484,7 @@ Investigative Direction: Obtain the recipient, time and full text of the message
 
 ---
 
-**C-10210** New witnesses at 4 a.m. the next day said Charlie was shot in the neck
+**C-10210** Host Alleges New Witnesses at 4 a.m. the Next Day Said Charlie Was Shot in the Neck
 
 Claim Timestamp: 00:44:16
 
@@ -1559,7 +1559,7 @@ Investigative Direction: Collect TPUSA-affiliated statements describing Loomer a
 
 ---
 
-**C-10215** Mikey McCoy and Stacy Sheridan coached Erika Kirk on her lines
+**C-10215** Host Asserts Mikey McCoy and Stacy Sheridan Coached Erika Kirk on Her Lines
 
 Claim Timestamp: 00:52:51
 
@@ -1619,7 +1619,7 @@ Investigative Direction: Compare event footage from 2017–2023 and 2024–2025 
 
 ---
 
-**C-10219** The microphone never went into evidence and was used at a Mar-a-Lago fundraiser
+**C-10219** Host Says the Microphone Never Went Into Evidence and Was Used at a Mar-a-Lago Fundraiser
 
 Claim Timestamp: 00:55:43
 
@@ -1634,7 +1634,7 @@ Investigative Direction: Obtain the Utah County evidence inventory and photos fr
 
 ---
 
-**C-10220** Charlie Kirk's phone was quickly returned to Erika instead of kept in evidence
+**C-10220** Host Says Charlie Kirk's Phone Was Quickly Returned to Erika Instead of Kept in Evidence
 
 Claim Timestamp: 00:55:43
 
@@ -1663,7 +1663,7 @@ Investigative Direction: Archive Erika Kirk's Father's Day 2026 post and its emb
 
 ---
 
-**C-10222** Erika Kirk has never attended any of Tyler Robinson's hearings
+**C-10222** Host Says Erika Kirk Has Never Attended Any of Tyler Robinson's Hearings
 
 Claim Timestamp: 00:58:50
 

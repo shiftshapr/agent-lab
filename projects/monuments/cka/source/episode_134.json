@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:54:33",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 498191448f0429779cb41d878bd4596c8d20c9fdcbb3d3ef271dbb2b7b27e70a",
+    "- **Transcript SHA-256**: c464124782aabee3281b6be3e451de25d96c28e5852651768b2c72cb86a511fe",
     "",
     "- **Episode Ledger Summary**:",
     "  - Claim Range: C-11506–C-11592",
@@ -3732,10 +3732,6 @@
      "v": "N-10691"
     },
     {
-     "k": "Qualifies",
-     "v": "C-11521"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -6039,10 +6035,6 @@
      "v": "relevance:core"
     },
     {
-     "k": "Revises",
-     "v": "C-1974"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Compare the family's stated reasons for the Catholic mass with the parish record."
     },
@@ -6422,7 +6414,7 @@
     },
     {
      "k": "Revises",
-     "v": "C-11509, C-11568, C-11570"
+     "v": "C-11509"
     },
     {
      "k": "Tags",
@@ -6561,10 +6553,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10690"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-11570"
     },
     {
      "k": "Tags",
@@ -7124,8 +7112,8 @@
   {
    "kind": "claim",
    "id": "C-11580",
-   "header": "**C-11580** Prosecution Cites Exhibits 12.1 and 12.4 as Proof of a Screwdriver",
-   "label": "Prosecution Cites Exhibits 12.1 and 12.4 as Proof of a Screwdriver",
+   "header": "**C-11580** Host Says Prosecution Cited Exhibits 12.1 and 12.4 as Proof of a Screwdriver",
+   "label": "Host Says Prosecution Cited Exhibits 12.1 and 12.4 as Proof of a Screwdriver",
    "lines": [
     {
      "raw": ""
@@ -7166,14 +7154,6 @@
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-11581"
     },
     {
      "k": "Investigative Direction",
@@ -7235,10 +7215,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10086, N-10698"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-11580"
     },
     {
      "k": "Tags",

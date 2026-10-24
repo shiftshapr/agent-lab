@@ -2683,7 +2683,7 @@
       "@type": "Claim",
       "@id": "C-13730",
       "ref": "C-13730",
-      "label": "Erika sought “big hitters” donor lists via Dominate 2.0 Telegram before Mar-a-Lago fundraising",
+      "label": "Host says leaked Dominate 2.0 Telegram messages show Erika seeking \"big hitters\" donor lists",
       "claim": "The host says leaked Telegram messages show Erika asking who the big hitters are and requesting a full donor list to make notes, with staff replying with new six-figure donors sorted by MGO, and treats this as ending the pure grieving-widow narrative.",
       "anchored_artifacts": [
         "A-2466.1"
@@ -2730,7 +2730,7 @@
       "@type": "Claim",
       "@id": "C-13755",
       "ref": "C-13755",
-      "label": "July 25 2025 Yrefy addendum paid ~$1.25M more solely for Charlie’s fall campus tour",
+      "label": "July 25 2025 Yrefy addendum added ~$1.25M for Charlie's fall campus tour sponsorship",
       "claim": "Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot; host ties timing to donor pullouts (e.g., Bob Shillman) and a tip that Yrefy offered to make up the lost money; Laine Schoneberger spoke ~5 minutes at UVU.",
       "anchored_artifacts": [
         "A-2468.1",
@@ -2755,7 +2755,7 @@
       "@type": "Claim",
       "@id": "C-13760",
       "ref": "C-13760",
-      "label": "Feb–Aug 2025 events form a suspicious concurrent timeline around Charlie, Epstein, and UVU",
+      "label": "Host argues Feb-Aug 2025 events around Charlie, Epstein, and UVU form a non-coincidental timeline",
       "claim": "Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram purge/UVU drill, July Netanyahu visit + college-video archive + July 10 UVU ask, SAS Epstein blowup/donor exits, Charlie’s Epstein walk-back, Egyptian planes, Hamptons BB call, and Yrefy addendum are non-coincidental when plotted together.",
       "anchored_artifacts": [
         "A-2469.1"
@@ -2784,7 +2784,7 @@
       "@type": "Claim",
       "@id": "C-13780",
       "ref": "C-13780",
-      "label": "White House held repeated Epstein-files situation-room meetings (often without Trump) beside Candace’s Epstein series",
+      "label": "Host, citing NYT, says White House held repeated Epstein-files situation-room meetings, often without Trump",
       "claim": "Citing NYT/Haberman–Swan reporting, host lists mid-July and August meetings on Epstein files with Vance, Wiles, Patel, Bondi, Blanche, and others; notes Trump’s absence and temporal adjacency to Candace Epstein episodes and Charlie’s walk-back/scolding.",
       "anchored_artifacts": [
         "A-2470.1"
@@ -2830,7 +2830,9 @@
       "related_nodes": [
         "N-10793"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:17",
       "investigative_direction": "Obtain full interrogation recordings/transcripts and defense filings; Brian Cole Jr. is person N-25.",
       "mentions_person_refs": [
@@ -2892,7 +2894,7 @@
       "@type": "Claim",
       "@id": "C-13825",
       "ref": "C-13825",
-      "label": "Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account",
+      "label": "Viewer and host source claim Erika's Telegram American-flag contact may be a shared Charlie account",
       "claim": "Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kolvet/friendly media.",
       "anchored_artifacts": [
         "A-2473.1",
@@ -2942,7 +2944,7 @@
       "@type": "Claim",
       "@id": "C-13723",
       "ref": "C-13723",
-      "label": "Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours",
+      "label": "Host says Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours",
       "claim": "The host says Vanity Fair confirmed on the Monday that Erika assumed her husband's position as CEO and chairman within 48 hours of his death.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2980,10 +2982,8 @@
         "N-496",
         "N-2"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-13725"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4094,7 +4094,7 @@
       "@type": "Claim",
       "@id": "C-13778",
       "ref": "C-13778",
-      "label": "Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel",
+      "label": "Host says Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel",
       "claim": "The host says that on July 14 Erika Kirk traveled aboard a private flight to Long Beach, California and spoke at James Kaddis's Calvary Chapel church for the Women's Summer of Psalms retreat.",
       "anchored_artifacts": [
         "A-2469.1"
@@ -4285,7 +4285,7 @@
       "@type": "Claim",
       "@id": "C-13787",
       "ref": "C-13787",
-      "label": "House Oversight voted July 23 to subpoena Epstein files, coinciding with a second situation-room meeting",
+      "label": "House Oversight voted July 23 to subpoena Epstein files; host says it coincided with a second situation-room meeting",
       "claim": "The host says the second situation-room meeting coincided with the House oversight vote on July 23 to subpoena the Epstein files, which she says surprised the administration.",
       "anchored_artifacts": [
         "A-2470.1"
@@ -4355,7 +4355,7 @@
       "@type": "Claim",
       "@id": "C-13790",
       "ref": "C-13790",
-      "label": "Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat",
+      "label": "Host says Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat",
       "claim": "The host says that on August 3 Charlie and Erika landed in Bedford, New York for the Hamptons retreat.",
       "anchored_artifacts": [
         "A-2469.1"
@@ -4603,7 +4603,7 @@
       "@type": "Claim",
       "@id": "C-13800",
       "ref": "C-13800",
-      "label": "Erika had a photo shoot with the children and Charlie at the Biltmore on August 14, organized with TPUSA's CMO",
+      "label": "Host says Erika had a photo shoot with the children and Charlie at the Biltmore on August 14",
       "claim": "The host says that on August 14 Erika had a photo shoot with the children and Charlie at the Biltmore Hotel, with TPUSA's CMO Marina involved in organizing it.",
       "anchored_artifacts": [
         "A-2469.1"
@@ -4920,7 +4920,9 @@
       "related_nodes": [
         "N-10793"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:42",
       "investigative_direction": "Check the arrest affidavit and press reports for the arrest date, location and employer.",
       "transcript_snippet": "And they descended upon his home, by the way, back in December of 2025. He lives with his mother and other family members.",

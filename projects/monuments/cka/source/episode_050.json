@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:01:34",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: d0819324ac9bf4a628c1d097391bbba74d4957e0b633e777ad84956f4db99630",
+    "- **Transcript SHA-256**: c458f1930451b80a2687b2d52de5ccdbe2a143f13767fc7d9ce7e38419b55297",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-715, N-10943, N-10944, N-10945",
@@ -2991,8 +2991,8 @@
   {
    "kind": "claim",
    "id": "C-4381",
-   "header": "**C-4381** Daily Wire Held a Town Hall–Style Firing Event for Candace Owens with Ben Shapiro Appearing Electronically",
-   "label": "Daily Wire Held a Town Hall–Style Firing Event for Candace Owens with Ben Shapiro Appearing Electronically",
+   "header": "**C-4381** Host Says Daily Wire Fired Her at a Town Hall–Style Event With Ben Shapiro Appearing Electronically",
+   "label": "Host Says Daily Wire Fired Her at a Town Hall–Style Event With Ben Shapiro Appearing Electronically",
    "lines": [
     {
      "raw": ""
@@ -3211,8 +3211,8 @@
   {
    "kind": "claim",
    "id": "C-4418",
-   "header": "**C-4418** Brian Harpole's Travel Logs Permit Attendance at the Fort Huachuca Morning Meeting",
-   "label": "Brian Harpole's Travel Logs Permit Attendance at the Fort Huachuca Morning Meeting",
+   "header": "**C-4418** Host Says Brian Harpole's Travel Logs Show He Could Have Made the Fort Huachuca Morning Meeting",
+   "label": "Host Says Brian Harpole's Travel Logs Show He Could Have Made the Fort Huachuca Morning Meeting",
    "lines": [
     {
      "raw": ""
@@ -3274,8 +3274,8 @@
   {
    "kind": "claim",
    "id": "C-4409",
-   "header": "**C-4409** Mitch's Base Access, Hotel Booking, and NDA Paperwork Have Been Independently Verified",
-   "label": "Mitch's Base Access, Hotel Booking, and NDA Paperwork Have Been Independently Verified",
+   "header": "**C-4409** Host Says Her Team Verified Mitch's Base Access, Hotel Booking, and NDA Paperwork",
+   "label": "Host Says Her Team Verified Mitch's Base Access, Hotel Booking, and NDA Paperwork",
    "lines": [
     {
      "raw": ""
@@ -3457,8 +3457,8 @@
   {
    "kind": "claim",
    "id": "C-4364",
-   "header": "**C-4364** Shapiro was absent from AmFest lists for years and returned in 2024",
-   "label": "Shapiro was absent from AmFest lists for years and returned in 2024",
+   "header": "**C-4364** Host Says Shapiro Was Absent From AmFest Lists for Years and Returned in 2024",
+   "label": "Host Says Shapiro Was Absent From AmFest Lists for Years and Returned in 2024",
    "lines": [
     {
      "raw": ""
@@ -4406,8 +4406,8 @@
   {
    "kind": "claim",
    "id": "C-4382",
-   "header": "**C-4382** Steven Crowder obtained the town hall video",
-   "label": "Steven Crowder obtained the town hall video",
+   "header": "**C-4382** Host Says Steven Crowder Somehow Obtained the Town Hall Video",
+   "label": "Host Says Steven Crowder Somehow Obtained the Town Hall Video",
    "lines": [
     {
      "raw": ""
@@ -5812,10 +5812,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10312, N-10305"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-4409"
     },
     {
      "k": "Investigative Direction",

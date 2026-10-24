@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:07:17",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b",
+    "- **Transcript SHA-256**: 7f1ff5de09d7d6f35f37c126895cdbce30f26f4ecc279cb3f0c28bc259fa4883",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-845, N-846, N-11144, N-11145, N-11146",
@@ -3835,8 +3835,8 @@
   {
    "kind": "claim",
    "id": "C-2426",
-   "header": "**C-2426** Priest Visible in Backstage Video at Ole Miss Event Behind Jesse Watters and Erika Kirk",
-   "label": "Priest Visible in Backstage Video at Ole Miss Event Behind Jesse Watters and Erika Kirk",
+   "header": "**C-2426** Host Says a Priest Is Visible in Backstage Ole Miss Video Behind Jesse Watters and Erika Kirk",
+   "label": "Host Says a Priest Is Visible in Backstage Ole Miss Video Behind Jesse Watters and Erika Kirk",
    "lines": [
     {
      "raw": ""
@@ -4092,10 +4092,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10211"
-    },
-    {
-     "k": "Revises",
-     "v": "C-2448"
     },
     {
      "k": "Confidence",
@@ -7692,7 +7688,7 @@
      "v": "N-11146"
     },
     {
-     "k": "Contradicts",
+     "k": "Qualifies",
      "v": "C-2468"
     },
     {

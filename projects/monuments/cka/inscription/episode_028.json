@@ -1350,7 +1350,7 @@
       "@type": "Claim",
       "@id": "C-2511",
       "ref": "C-2511",
-      "label": "Boreing Invited Fuentes Onto Daily Wire Shows",
+      "label": "HuffPost Says Boreing Would Be Thrilled to Have Fuentes on a Daily Wire Show",
       "claim": "According to the read-aloud HuffPost article, Jeremy Boreing said on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.",
       "anchored_artifacts": [
         "A-1358.1",
@@ -1371,7 +1371,7 @@
       "@type": "Claim",
       "@id": "C-2515",
       "ref": "C-2515",
-      "label": "Candace–Charlie Text Exchange Documents Shapiro's Behavior",
+      "label": "Host Reads Candace–Charlie Texts About Treating Shapiro Like Noise",
       "claim": "In text messages the host reads between herself and Charlie Kirk, Kirk tells her she is bigger than Ben Shapiro now, says they have to treat him like noise, that, in a Game of Thrones reference, Shapiro is sending his \"incestuous brother\" to go try and kill them, and that he views Owens as Kirk's \"slave 100%\"; the host separately says Shapiro was going on people's shows talking down about her and Kirk and sent his YAF boys and National Review peeps after them.",
       "anchored_artifacts": [
         "A-1360.1",
@@ -1403,7 +1403,9 @@
       "related_nodes": [
         "N-10225"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:25:16–00:27:36",
       "investigative_direction": "Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.",
       "mentions_person_refs": [
@@ -1537,7 +1539,7 @@
       "@type": "Claim",
       "@id": "C-2497",
       "ref": "C-2497",
-      "label": "Shapiro–Carlson Private Text Exchange After Kirk's Death",
+      "label": "Shapiro Says He Texted Carlson Proposing a Joint Show and His Outreach Went Unanswered",
       "claim": "In a clip the host plays, Ben Shapiro says he texted Tucker Carlson proposing a joint show on the \"DSA threat,\" that Carlson replied he would spend \"the next week or two\" thinking about how to be most effective, and that his repeated outreach afterward went unanswered.",
       "anchored_artifacts": [
         "A-1357.1"
@@ -1734,7 +1736,7 @@
       "@type": "Claim",
       "@id": "C-2501",
       "ref": "C-2501",
-      "label": "Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country",
+      "label": "Clip: Speaker Says Mamdani Said He Would Stay in New York When Asked Which Foreign Country He Would Visit",
       "claim": "In the played clip, a speaker says that in the New York City mayoral debate all the candidates were asked which foreign country they would visit and, the speaker thinks, most said Israel, while Mamdani said he would stay in New York.",
       "anchored_artifacts": [
         "A-1356.2"
@@ -1934,7 +1936,7 @@
       "@type": "Claim",
       "@id": "C-2513",
       "ref": "C-2513",
-      "label": "Clip: Fuentes Tells Boring That Shapiro Cannot Say 'Christ Is King'",
+      "label": "Clip: Fuentes Says Guys Like Shapiro Will Not Say 'Christ Is King'",
       "claim": "In the played X Space audio, Nick Fuentes says he dislikes that guys like Shapiro will not say 'Christ is king' or 'America first' and that he thinks they forfeit their ability to lead.",
       "anchored_artifacts": [
         "A-1359.1"

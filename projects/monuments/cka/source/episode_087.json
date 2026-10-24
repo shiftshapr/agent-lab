@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:10",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf",
+    "- **Transcript SHA-256**: d64eebc408d3b4fb3e4b29c66b62367b87da29c9b6b88e25fe098e57d93a2a6b",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-942, N-11314, N-11315",
@@ -4405,8 +4405,8 @@
   {
    "kind": "claim",
    "id": "C-7766",
-   "header": "**C-7766** Romney–Netanyahu Friendship Dated to 1976 at Boston Consulting Group",
-   "label": "Romney–Netanyahu Friendship Dated to 1976 at Boston Consulting Group",
+   "header": "**C-7766** NYT Dates Romney–Netanyahu Friendship to 1976; Host Says Both Were at Boston Consulting Group",
+   "label": "NYT Dates Romney–Netanyahu Friendship to 1976; Host Says Both Were at Boston Consulting Group",
    "lines": [
     {
      "raw": ""
@@ -5090,8 +5090,8 @@
   {
    "kind": "claim",
    "id": "C-7795",
-   "header": "**C-7795** Qureshi and Henderson Families Lived in Same House, Keller, Texas",
-   "label": "Qureshi and Henderson Families Lived in Same House, Keller, Texas",
+   "header": "**C-7795** Host Says Qureshi and Henderson Families Lived in Same House, Keller, Texas",
+   "label": "Host Says Qureshi and Henderson Families Lived in Same House, Keller, Texas",
    "lines": [
     {
      "raw": ""
@@ -5185,14 +5185,6 @@
      "raw": ""
     },
     {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-10996"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Confirm via Timpanogos press releases, LinkedIn, or Utah business filings."
     },
@@ -5267,8 +5259,8 @@
   {
    "kind": "claim",
    "id": "C-7809",
-   "header": "**C-7809** Andrew Zenger Attended BYU Jerusalem",
-   "label": "Andrew Zenger Attended BYU Jerusalem",
+   "header": "**C-7809** Host Says Andrew Zenger Attended BYU Jerusalem",
+   "label": "Host Says Andrew Zenger Attended BYU Jerusalem",
    "lines": [
     {
      "raw": ""
@@ -5323,8 +5315,8 @@
   {
    "kind": "claim",
    "id": "C-7810",
-   "header": "**C-7810** BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth",
-   "label": "BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth",
+   "header": "**C-7810** Host Says Source Told Her BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth",
+   "label": "Host Says Source Told Her BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth",
    "lines": [
     {
      "raw": ""
@@ -5379,8 +5371,8 @@
   {
    "kind": "claim",
    "id": "C-7815",
-   "header": "**C-7815** Metro One Talent Is the CIA's Recruiting Vendor",
-   "label": "Metro One Talent Is the CIA's Recruiting Vendor",
+   "header": "**C-7815** Host Says Metro One Talent Is the CIA's Recruiting Vendor",
+   "label": "Host Says Metro One Talent Is the CIA's Recruiting Vendor",
    "lines": [
     {
      "raw": ""
@@ -5543,8 +5535,8 @@
   {
    "kind": "claim",
    "id": "C-7852",
-   "header": "**C-7852** Turning Point Sent Fundraising Texts Within 48 Hours of Death",
-   "label": "Turning Point Sent Fundraising Texts Within 48 Hours of Death",
+   "header": "**C-7852** Host Says Turning Point Sent Fundraising Texts Within 48 Hours of Death",
+   "label": "Host Says Turning Point Sent Fundraising Texts Within 48 Hours of Death",
    "lines": [
     {
      "raw": ""
@@ -5686,6 +5678,10 @@
      "raw": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation."
     },
@@ -5817,8 +5813,8 @@
   {
    "kind": "claim",
    "id": "C-7857",
-   "header": "**C-7857** BYU Recruits CIA Talent From Hawaii and Jerusalem Campuses",
-   "label": "BYU Recruits CIA Talent From Hawaii and Jerusalem Campuses",
+   "header": "**C-7857** Host Says CIA Recruits BYU Talent From Hawaii and Jerusalem Campuses",
+   "label": "Host Says CIA Recruits BYU Talent From Hawaii and Jerusalem Campuses",
    "lines": [
     {
      "raw": ""
@@ -7050,7 +7046,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -7119,7 +7115,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

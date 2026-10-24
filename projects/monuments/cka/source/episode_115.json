@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:15",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:45:06Z",
-    "- **Transcript SHA-256**: 952c6f05d2d61d649495b71cadb69caf9ac1a32c1f7f7c66e26f14a918444dd4",
+    "- **Transcript SHA-256**: ffa4621e380ef14dbbd9c3bbabc372fcfd62bdd0d3f6c429e8c8c048c8d904ef",
     "- **Model Version**: claude-manual-extract-seq115",
     "",
     "- **Episode Ledger Summary**:",
@@ -2553,8 +2553,8 @@
   {
    "kind": "claim",
    "id": "C-9931",
-   "header": "**C-9931** Erika Kirk gave Dan Flood a raise after the assassination",
-   "label": "Erika Kirk gave Dan Flood a raise after the assassination",
+   "header": "**C-9931** Host says Erika Kirk gave Dan Flood a raise after the assassination",
+   "label": "Host says Erika Kirk gave Dan Flood a raise after the assassination",
    "lines": [
     {
      "raw": ""
@@ -2783,8 +2783,8 @@
   {
    "kind": "claim",
    "id": "C-9935",
-   "header": "**C-9935** Well perforating requires PETN",
-   "label": "Well perforating requires PETN",
+   "header": "**C-9935** Host says well perforating requires PETN",
+   "label": "Host says well perforating requires PETN",
    "lines": [
     {
      "raw": ""
@@ -2882,6 +2882,10 @@
      "v": "N-10893, N-10895"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the source of the confession account and any ATF or employer record of missing explosives in 2022."
     },
@@ -2938,6 +2942,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10896, N-10893"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -3015,8 +3023,8 @@
   {
    "kind": "claim",
    "id": "C-9939",
-   "header": "**C-9939** Liti's confidant was Corey Comperatore",
-   "label": "Liti's confidant was Corey Comperatore",
+   "header": "**C-9939** Host says Liti's confidant was Corey Comperatore",
+   "label": "Host says Liti's confidant was Corey Comperatore",
    "lines": [
     {
      "raw": ""
@@ -3073,8 +3081,8 @@
   {
    "kind": "claim",
    "id": "C-9940",
-   "header": "**C-9940** An unknown woman escorted the Comperatore family to the front at Butler",
-   "label": "An unknown woman escorted the Comperatore family to the front at Butler",
+   "header": "**C-9940** Host says an unknown woman escorted the Comperatore family to the front at Butler",
+   "label": "Host says an unknown woman escorted the Comperatore family to the front at Butler",
    "lines": [
     {
      "raw": ""
@@ -3193,8 +3201,8 @@
   {
    "kind": "claim",
    "id": "C-9942",
-   "header": "**C-9942** Liti was Facebook friends with members of the Crooks family",
-   "label": "Liti was Facebook friends with members of the Crooks family",
+   "header": "**C-9942** Host says Liti was Facebook friends with members of the Crooks family",
+   "label": "Host says Liti was Facebook friends with members of the Crooks family",
    "lines": [
     {
      "raw": ""
@@ -3888,8 +3896,8 @@
   {
    "kind": "claim",
    "id": "C-9954",
-   "header": "**C-9954** Trump is satisfied with the Butler investigation and wants it shut down",
-   "label": "Trump is satisfied with the Butler investigation and wants it shut down",
+   "header": "**C-9954** Host says Trump is satisfied with the Butler investigation and wants it shut down",
+   "label": "Host says Trump is satisfied with the Butler investigation and wants it shut down",
    "lines": [
     {
      "raw": ""
@@ -3950,8 +3958,8 @@
   {
    "kind": "claim",
    "id": "C-9955",
-   "header": "**C-9955** The Comperatore family is not satisfied with the Butler investigation",
-   "label": "The Comperatore family is not satisfied with the Butler investigation",
+   "header": "**C-9955** Host says the Comperatore family is not satisfied with the Butler investigation",
+   "label": "Host says the Comperatore family is not satisfied with the Butler investigation",
    "lines": [
     {
      "raw": ""
@@ -4008,8 +4016,8 @@
   {
    "kind": "claim",
    "id": "C-9956",
-   "header": "**C-9956** An FBI plane landed in Salt Lake City on September 8, 2025",
-   "label": "An FBI plane landed in Salt Lake City on September 8, 2025",
+   "header": "**C-9956** Host says an FBI plane landed in Salt Lake City on September 8, 2025",
+   "label": "Host says an FBI plane landed in Salt Lake City on September 8, 2025",
    "lines": [
     {
      "raw": ""
@@ -4065,8 +4073,8 @@
   {
    "kind": "claim",
    "id": "C-9957",
-   "header": "**C-9957** Charlie Kirk first went to Salt Lake City on the morning of September 10",
-   "label": "Charlie Kirk first went to Salt Lake City on the morning of September 10",
+   "header": "**C-9957** Host says Charlie Kirk first went to Salt Lake City on the morning of September 10",
+   "label": "Host says Charlie Kirk first went to Salt Lake City on the morning of September 10",
    "lines": [
     {
      "raw": ""
@@ -4123,8 +4131,8 @@
   {
    "kind": "claim",
    "id": "C-9958",
-   "header": "**C-9958** The FBI plane flew Richmond to Salt Lake City and left an hour later",
-   "label": "The FBI plane flew Richmond to Salt Lake City and left an hour later",
+   "header": "**C-9958** Host says the FBI plane flew Richmond to Salt Lake City and left an hour later",
+   "label": "Host says the FBI plane flew Richmond to Salt Lake City and left an hour later",
    "lines": [
     {
      "raw": ""
@@ -4237,8 +4245,8 @@
   {
    "kind": "claim",
    "id": "C-9960",
-   "header": "**C-9960** Taxpayers pay for Kash Patel's girlfriend's security",
-   "label": "Taxpayers pay for Kash Patel's girlfriend's security",
+   "header": "**C-9960** Host says taxpayers pay for Kash Patel's girlfriend's security",
+   "label": "Host says taxpayers pay for Kash Patel's girlfriend's security",
    "lines": [
     {
      "raw": ""
@@ -4981,8 +4989,8 @@
   {
    "kind": "claim",
    "id": "C-9973",
-   "header": "**C-9973** Erika Kirk filed CK trademarks soon after Charlie's death",
-   "label": "Erika Kirk filed CK trademarks soon after Charlie's death",
+   "header": "**C-9973** Host believes Erika Kirk filed CK trademarks soon after Charlie's death",
+   "label": "Host believes Erika Kirk filed CK trademarks soon after Charlie's death",
    "lines": [
     {
      "raw": ""
@@ -5038,8 +5046,8 @@
   {
    "kind": "claim",
    "id": "C-9974",
-   "header": "**C-9974** Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children",
-   "label": "Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children",
+   "header": "**C-9974** Host says Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children",
+   "label": "Host says Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children",
    "lines": [
     {
      "raw": ""

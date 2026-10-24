@@ -2103,7 +2103,7 @@
       "@type": "Claim",
       "@id": "C-8601",
       "ref": "C-8601",
-      "label": "Andrew Kolvet presented a text message screenshot",
+      "label": "Host Says Andrew Kolvet Presented a Text Message Screenshot",
       "claim": "The host says Andrew Kolvet publicly presented a screenshot of a text message exchange involving Candace Owens as supporting evidence for Erika Kirk's murder claim.",
       "anchored_artifacts": [
         "A-2011.1"
@@ -2193,7 +2193,7 @@
       "@type": "Claim",
       "@id": "C-8621",
       "ref": "C-8621",
-      "label": "Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points",
+      "label": "Laura Loomer Asked Whether SPLC Paid Candace $500K to Plagiarize David Duke",
       "claim": "The host says Laura Loomer reported that Candace Owens was potentially paid half a million dollars by the Southern Poverty Law Center to communicate David Duke talking points, framed as \"Was the SPLC paying Candace Owens 500K a year to plagiarize David Duke?\"",
       "anchored_artifacts": [
         "A-2012.2"
@@ -2213,7 +2213,7 @@
       "@type": "Claim",
       "@id": "C-8624",
       "ref": "C-8624",
-      "label": "Laura Loomer claimed Candace was at anti-Trump summit in Rome",
+      "label": "Laura Loomer Asked Whether Candace Was at a Secret Anti-Trump Summit in Rome",
       "claim": "Laura Loomer tweeted a question whether Candace Owens, Nick Fuentes, and Aubrey Laitsch, who all \"suddenly appeared in Rome\", were converging for a \"secret anti-Trump summit\", adding that she suspects it is funded by foreign dark money and citing a source that Aubrey approached conservatives about a paid propaganda trip to Qatar.",
       "anchored_artifacts": [
         "A-2012.3",
@@ -2276,7 +2276,7 @@
       "@type": "Claim",
       "@id": "C-8554",
       "ref": "C-8554",
-      "label": "Candace was sick in 2016 from toxic mold exposure in her apartment",
+      "label": "Candace Says She Was Sick in 2016 From Toxic Mold Exposure in Her Apartment",
       "claim": "Candace stated that in 2016 she became ill with severe symptoms including eczema, hair loss, and cognitive impairment after a toxic mold exposure in her apartment from an HVAC leak.",
       "anchored_artifacts": [
         "A-2013.1"
@@ -2783,7 +2783,8 @@
         "N-10582"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:28:18",
       "investigative_direction": "Official incident report, ballistic findings and the Washington Post surveillance footage.",
@@ -3965,10 +3966,8 @@
         "N-341",
         "N-3"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-9153"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",

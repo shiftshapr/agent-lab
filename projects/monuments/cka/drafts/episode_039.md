@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:59:43
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 4b6e184f626db3b6b36ff537b80ba53f94d4abe1f21b413f75e391ab5ac5370a
+- **Transcript SHA-256**: 2eb03f93210c2a8472b0b8593dc8c1e87d4f0ecb8a3bd412b95ebeb6722f89ab
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-876, N-11197
@@ -915,6 +915,7 @@ Mentions: N-292
 
 Related Nodes: N-10288
 
+Tags: relevance:tangential
 Investigative Direction: Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account.
 
 ---
@@ -990,6 +991,7 @@ Mentions: N-295, N-296, N-294
 
 Related Nodes: N-10288
 
+Tags: relevance:tangential
 Investigative Direction: Locate contemporaneous court filings or the original Dominick Dunne Vanity Fair piece.
 
 ---
@@ -1142,7 +1144,7 @@ Investigative Direction: Identify the federal source and corroborate with any co
 
 ---
 
-**C-3477** Andrew Kolvet family friend tip on Charlie losing millions declining BB's offer
+**C-3477** Host Says Kolvet Family Friend Allegedly Tipped That Charlie Lost Millions Declining BB's Offer
 
 Claim Timestamp: 00:33:15
 

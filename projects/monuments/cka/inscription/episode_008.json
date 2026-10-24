@@ -1757,7 +1757,7 @@
       "@type": "Claim",
       "@id": "C-669",
       "ref": "C-669",
-      "label": "GMA reached Tiffany Barker via Phil Lyman political channel",
+      "label": "Host says Tiffany Barker intimated GMA reached her via Phil Lyman political channel",
       "claim": "The host says Tiffany Barker intimated that Good Morning America's outreach was a political connection: her sister ran as lieutenant governor alongside Phil Lyman, and GMA reached out to Phil Lyman and somehow ended up with her sister's children and her.",
       "anchored_artifacts": [
         "A-1146.1"
@@ -1837,7 +1837,7 @@
       "@type": "Claim",
       "@id": "C-674",
       "ref": "C-674",
-      "label": "George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed",
+      "label": "Host's Timeline Puts George Zinn's Arrest ~1:48 After Shot Near Charlie's SUV",
       "claim": "Per the host's timeline, ~40 seconds from the shot until Charlie is brought to the SUV and ~1:08 later George Zinn is in handcuffs in the same SUV zone.",
       "anchored_artifacts": [
         "A-1148.1",
@@ -1862,7 +1862,7 @@
       "@type": "Claim",
       "@id": "C-672",
       "ref": "C-672",
-      "label": "George Zinn's pants fell independently of arrest",
+      "label": "Host says footage shows George Zinn's pants fell before any arrest",
       "claim": "Host shows on-screen footage of Zinn's pants falling while he was walking in a dispersing crowd, prior to any arrest contact.",
       "anchored_artifacts": [
         "A-1148.2"
@@ -1887,7 +1887,7 @@
       "@type": "Claim",
       "@id": "C-676",
       "ref": "C-676",
-      "label": "Handcuffs photo shared by Utah TPUSA advertiser",
+      "label": "Host says handcuffs photo was shared by Utah TPUSA advertiser",
       "claim": "Host says the viral handcuffs photo was shared by a Utah-based individual who advertises with Turning Point USA.",
       "anchored_artifacts": [
         "A-1148.4"
@@ -1935,7 +1935,7 @@
       "@type": "Claim",
       "@id": "C-681",
       "ref": "C-681",
-      "label": "Roof video chain routed through Chicago-based intermediaries",
+      "label": "Host traces roof video chain to Chicago-based intermediaries",
       "claim": "Host traces the viral roof footage through the account that posted it, a pair of Chicago numbers sent via the poster's friend that go nowhere, and an Aaron with a Chicago number.",
       "anchored_artifacts": [
         "A-1150.1"
@@ -2063,7 +2063,7 @@
       "@type": "Claim",
       "@id": "C-711",
       "ref": "C-711",
-      "label": "SD cards removed by TPUSA affiliate to prevent theft/loss",
+      "label": "Kolvet thinks SD cards were removed by TPUSA team to prevent theft",
       "claim": "In a clip the host plays, Kolvet says he thinks the team took the SD cards because, even in the shock, they understood the cameras would be evidence and wanted to keep them from being stolen, so law enforcement could get them.",
       "anchored_artifacts": [
         "A-1151.3"
@@ -2159,7 +2159,7 @@
       "@type": "Claim",
       "@id": "C-670",
       "ref": "C-670",
-      "label": "Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman",
+      "label": "Host Says Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman",
       "claim": "Host says Tiffany Barker told her that her sister ran as lieutenant governor alongside Phil Lyman.",
       "anchored_artifacts": [
         "A-1146.1"
@@ -2182,7 +2182,7 @@
       "@type": "Claim",
       "@id": "C-737",
       "ref": "C-737",
-      "label": "Kash Patel indicated more parties involved than Robinson alone",
+      "label": "Host says Kash Patel indicated more parties involved than Robinson alone",
       "claim": "Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2249,7 +2249,7 @@
       "@type": "Claim",
       "@id": "C-659",
       "ref": "C-659",
-      "label": "Charlie was not wearing an earpiece",
+      "label": "Host says she verified Charlie was not wearing an earpiece",
       "claim": "Host states she verified Charlie was not wearing an earpiece; what appears to be one is his necklace.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2270,7 +2270,7 @@
       "@type": "Claim",
       "@id": "C-660",
       "ref": "C-660",
-      "label": "Charlie was not wearing a bulletproof vest",
+      "label": "Host says she verified Charlie was not wearing a bulletproof vest",
       "claim": "Host states she verified Charlie was not wearing a vest, and a prior vest supplier had stopped providing them.",
       "anchored_artifacts": [],
       "related_nodes": [

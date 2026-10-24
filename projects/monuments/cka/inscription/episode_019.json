@@ -1599,7 +1599,7 @@
       "@type": "Claim",
       "@id": "C-1734",
       "ref": "C-1734",
-      "label": "Mikey McCoy Phone-to-Ear Timing Measured at 834 Milliseconds",
+      "label": "Host Says Mikey McCoy Phone-to-Ear Timing Is 834 Milliseconds",
       "claim": "The host says that in a slowed-down clip it is exactly 834 milliseconds from when the shot is heard until Mikey McCoy puts his phone to his ear.",
       "anchored_artifacts": [
         "A-1261.1"
@@ -1931,7 +1931,7 @@
       "@type": "Claim",
       "@id": "C-1765",
       "ref": "C-1765",
-      "label": "Camera Operator Brought into TPUSA by Tyler Bowyer",
+      "label": "Host States Camera Operator Was Brought into TPUSA by Tyler Bowyer",
       "claim": "Host states the camera operator was brought into TPUSA by Tyler Bowyer.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -1968,7 +1968,7 @@
       "@type": "Claim",
       "@id": "C-1723",
       "ref": "C-1723",
-      "label": "Stacy Sheridan Brought into TPUSA by Tyler Bowyer",
+      "label": "Host States Stacy Sheridan Was Brought into TPUSA by Tyler Bowyer",
       "claim": "Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to handle big-donor relations.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2042,7 +2042,7 @@
       "@type": "Claim",
       "@id": "C-1798",
       "ref": "C-1798",
-      "label": "Tyler Robinson Court Appearance via Zoom Without Face Visibility",
+      "label": "Commenter Says Tyler Robinson Appeared in Court via Zoom Without Showing His Face",
       "claim": "Joshua Steves commenter states Tyler Robinson appeared in court via Zoom \"without having to show his face.\"",
       "anchored_artifacts": [
         "A-1269.5"

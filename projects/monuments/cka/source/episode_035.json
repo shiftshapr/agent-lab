@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:56:40",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 1ad209fbac97054099e9ed002c95c5fad552959675fdc3534eced317ed9c4aab",
+    "- **Transcript SHA-256**: 3155ebea493455f0ff6fd03a8045326f1045a0a2ae0adcb9fecc16ea887a00be",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-11076, N-11077",
@@ -3896,8 +3896,8 @@
   {
    "kind": "claim",
    "id": "C-3115",
-   "header": "**C-3115** Brian Harpole Repeated the 3,000 lbs of Energy Bullet-Trajectory Description",
-   "label": "Brian Harpole Repeated the 3,000 lbs of Energy Bullet-Trajectory Description",
+   "header": "**C-3115** Host Says Brian Harpole Doubled Down on the 3,000 lbs of Energy Bullet Description",
+   "label": "Host Says Brian Harpole Doubled Down on the 3,000 lbs of Energy Bullet Description",
    "lines": [
     {
      "raw": ""
@@ -4238,8 +4238,8 @@
   {
    "kind": "claim",
    "id": "C-3053",
-   "header": "**C-3053** Plane Departing Provo on Sept 10 Was the One That Brought the Egyptians Six Days Earlier",
-   "label": "Plane Departing Provo on Sept 10 Was the One That Brought the Egyptians Six Days Earlier",
+   "header": "**C-3053** Host Says Plane Departing Provo on Sept 10 Was the One That Brought the Egyptians Six Days Earlier",
+   "label": "Host Says Plane Departing Provo on Sept 10 Was the One That Brought the Egyptians Six Days Earlier",
    "lines": [
     {
      "raw": ""
@@ -4307,8 +4307,8 @@
   {
    "kind": "claim",
    "id": "C-3055",
-   "header": "**C-3055** Wilmington Landing About 2.5 Hours Before the Shooting",
-   "label": "Wilmington Landing About 2.5 Hours Before the Shooting",
+   "header": "**C-3055** Host Says SUBTT Landed in Wilmington About 2.5 Hours Before the Shooting",
+   "label": "Host Says SUBTT Landed in Wilmington About 2.5 Hours Before the Shooting",
    "lines": [
     {
      "raw": ""
@@ -6460,8 +6460,8 @@
   {
    "kind": "claim",
    "id": "C-3094",
-   "header": "**C-3094** Cessna Citation Flew Scottsdale to Provo Departing 8:00 a.m.",
-   "label": "Cessna Citation Flew Scottsdale to Provo Departing 8:00 a.m.",
+   "header": "**C-3094** Host Says Cessna Citation Flew Scottsdale to Provo Departing 8:00 a.m.",
+   "label": "Host Says Cessna Citation Flew Scottsdale to Provo Departing 8:00 a.m.",
    "lines": [
     {
      "raw": ""
@@ -6529,8 +6529,8 @@
   {
    "kind": "claim",
    "id": "C-3095",
-   "header": "**C-3095** Cessna Citation Returned to Scottsdale at 12:44 p.m.",
-   "label": "Cessna Citation Returned to Scottsdale at 12:44 p.m.",
+   "header": "**C-3095** Host Says Cessna Citation Returned to Scottsdale at 12:44 p.m.",
+   "label": "Host Says Cessna Citation Returned to Scottsdale at 12:44 p.m.",
    "lines": [
     {
      "raw": ""
@@ -7631,10 +7631,6 @@
     {
      "k": "Supports",
      "v": "C-3110"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-3106"
     },
     {
      "k": "Tags",

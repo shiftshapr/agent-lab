@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:07:14
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006
+- **Transcript SHA-256**: 49bb8812fd6ae9e3147d2174e752eb2d45114cfab421719751d29cdfca4b5c41
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-879, N-880, N-881, N-882, N-883, N-884, N-885, N-11205, N-11206
@@ -715,7 +715,7 @@ Lawsuit the host says Nicola Peltz brought against a mobile dog-grooming company
 
 ## 5. Claim Register
 
-**C-5431** TPUSA cease and desist letter sent approximately January 19–20, 2026
+**C-5431** Host Says She Received a TPUSA Cease and Desist Letter Around January 20, 2026
 
 Claim Timestamp: 00:00:05
 
@@ -1290,8 +1290,6 @@ Anchored Artifacts: A-1661.1
 Mentions: N-2, N-1, N-237
 Related Nodes: N-10318
 Tags: relevance:core
-Verification: revised-by-host
-Verification Evidence: C-5455
 Investigative Direction: Obtain the Erika Kirk interview with Glenn Beck and the exact words used about Charlie's night-before messages.
 Open Questions: Q-171
 
@@ -1309,7 +1307,6 @@ Anchored Artifacts: A-1661.1
 Mentions: N-1, N-2, N-270, N-3
 Related Nodes: N-10318
 Supports: C-4491
-Contradicts: C-5452
 Tags: relevance:core
 Investigative Direction: Obtain the night-before messages themselves, the app used and TPUSA's written explanation of why it was not disclosed earlier.
 Open Questions: Q-171

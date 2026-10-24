@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:54:39
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: fe75ca00c3ec2d7898bbeee433de0d6e98b126fb899e15735450cf108ba10f1b
+- **Transcript SHA-256**: 15b64fe151fa0e4d5bc03ee21ab76d913387899a0c44f001e059c69e975d3fa8
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-706, N-10926, N-10927
@@ -1663,6 +1663,7 @@ Transcript Snippet: Bob Coy, the one from Fort Lauderdale who got into a little 
 Anchored Artifacts: 
 Mentions: N-756, N-17, N-36
 Related Nodes: N-10232
+Tags: relevance:tangential
 Investigative Direction: Review court records and contemporaneous news reports on Bob Coy's resignation and allegations.
 
 ---

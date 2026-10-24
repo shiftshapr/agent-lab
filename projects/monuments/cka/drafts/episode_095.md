@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:45
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:30:39Z
-- **Transcript SHA-256**: 1c2893d4ba31a7ea4741fc8d1e8ae31e1893e4014c6f34889114ddfea981d077
+- **Transcript SHA-256**: 63b3ed78a5b402c99b41fe5c01251c12ad1f68e3d167591f8f1bb1261b2adb6a
 - **Model Version**: claude-manual-extract-seq095
 
 - **Episode Ledger Summary**:
@@ -534,7 +534,7 @@ Investigation target: when and why Turning Point USA began seating Charlie Kirk 
 
 ## 5. Claim Register
 
-**C-8490** Terryl took down the back footage about four minutes after Charlie was struck
+**C-8490** Host Says Terryl Took Down the Back Footage About Four Minutes After Charlie Was Struck
 
 Claim Timestamp: 00:01:22
 
@@ -564,7 +564,7 @@ Investigative Direction: Obtain Utah County and UVU 911 call logs for September 
 
 ---
 
-**C-8492** Terryl recorded a selfie video after the shooting
+**C-8492** Host Says Terryl Recorded a Selfie Video After the Shooting
 
 Claim Timestamp: 00:02:17
 
@@ -579,7 +579,7 @@ Investigative Direction: Archive the original selfie video with its metadata and
 
 ---
 
-**C-8493** Nicci found the footage shown on FaceTime was likely edited
+**C-8493** Host Says Nicci Found the Footage Shown on FaceTime Was Likely Edited
 
 Claim Timestamp: 00:02:17
 
@@ -609,7 +609,7 @@ Investigative Direction: Collect TPUSA livestream archives for each 2025 tour st
 
 ---
 
-**C-8495** UVU footage either zoomed that day or cropped afterwards
+**C-8495** Nicci Says UVU Footage Was Either Zoomed That Day or Cropped Afterwards
 
 Claim Timestamp: 00:03:36
 
@@ -639,7 +639,7 @@ Investigative Direction: Produce the host's call logs with Terryl Farnsworth for
 
 ---
 
-**C-8497** Terryl agreed on September 19 to show the footage after citing Erika
+**C-8497** Host Says Terryl Agreed on September 19 to Show the Footage
 
 Claim Timestamp: 00:05:16
 
@@ -654,7 +654,7 @@ Investigative Direction: Obtain Terryl's messages with the host and with Erika K
 
 ---
 
-**C-8498** The "YOLO" drive on Terryl's desktop is likely the camera's SD card
+**C-8498** Host Suspects the "YOLO" Drive on Terryl's Desktop Is the Camera's SD Card
 
 Claim Timestamp: 00:06:17
 
@@ -699,7 +699,7 @@ Investigative Direction: Obtain Terryl's communications with Erika Kirk on Septe
 
 ---
 
-**C-8501** Charlie Kirk's phone was not given to the feds
+**C-8501** Host Says Charlie Kirk's Phone Was Not Given to the Feds
 
 Claim Timestamp: 00:08:21
 
@@ -714,7 +714,7 @@ Investigative Direction: Request FBI and Utah evidence inventories listing devic
 
 ---
 
-**C-8502** Terryl took the footage back to Scottsdale
+**C-8502** Host Says Terryl Took the Footage Back to Scottsdale
 
 Claim Timestamp: 00:09:05
 
@@ -759,7 +759,7 @@ Investigative Direction: Subpoena the native back-camera file and compare its fi
 
 ---
 
-**C-8505** Turning Point has the unzoomed footage
+**C-8505** Host Says Turning Point Has the Unzoomed Footage
 
 Claim Timestamp: 00:10:51
 
@@ -774,7 +774,7 @@ Investigative Direction: Defense subpoena to TPUSA for all camera media recorded
 
 ---
 
-**C-8506** Charlie sat on a chair on a raised platform, a new setup
+**C-8506** Host Says Charlie Sat on a Chair on a Raised Platform, a New Setup
 
 Claim Timestamp: 00:11:36
 
@@ -791,7 +791,7 @@ Investigative Direction: Obtain TPUSA event-production specifications and stagin
 
 ---
 
-**C-8507** The camera behind Charlie's head first appeared in 2025
+**C-8507** Host's Team Found No Camera Behind Charlie's Head Before 2025
 
 Claim Timestamp: 00:13:42
 
@@ -806,7 +806,7 @@ Investigative Direction: Crowdsource and date every TPUSA tabling video to find 
 
 ---
 
-**C-8508** No camera behind Charlie's head on the 2024 Brainwashed tour
+**C-8508** Host Says No Camera Behind Charlie's Head on the 2024 Brainwashed Tour
 
 Claim Timestamp: 00:14:37
 
@@ -821,7 +821,7 @@ Investigative Direction: Verify the dates and locations of the photos against TP
 
 ---
 
-**C-8509** The new camera arrived with the Yrefy sponsorship deal
+**C-8509** Host Says the New Camera Seems to Have Arrived With the Yrefy Sponsorship Deal
 
 Claim Timestamp: 00:15:38
 
@@ -835,7 +835,7 @@ Investigative Direction: Compare the Yrefy sponsorship contract dates and delive
 
 ---
 
-**C-8510** Lori Frantzve and Larry Guinta pursued a patent-pending interchangeable-caliber gun
+**C-8510** Tip Says Lori Frantzve and Larry Guinta Pursued a Patent-Pending Interchangeable-Caliber Gun
 
 Claim Timestamp: 00:16:43
 
@@ -850,7 +850,7 @@ Investigative Direction: Search USPTO records for interchangeable-caliber revolv
 
 ---
 
-**C-8511** Victor Marx wanted the Fold AR patent for Israel
+**C-8511** Host Says Victor Marx Wanted the Fold AR Patent for Israel
 
 Claim Timestamp: 00:16:43
 
@@ -865,7 +865,7 @@ Investigative Direction: Obtain Marx–Hall correspondence on the proposed acqui
 
 ---
 
-**C-8512** Lori and Larry met the patent holders at a Salt Lake City expo and offered their G-Tech angel investor
+**C-8512** Tip Alleges Lori and Larry Met the Patent Holders at a Salt Lake City Expo and Offered Their G-Tech Angel Investor
 
 Claim Timestamp: 00:18:04
 
@@ -880,7 +880,7 @@ Investigative Direction: Identify the 2016 Salt Lake City expo's exhibitor list 
 
 ---
 
-**C-8513** Late-2016 Scottsdale dinner with Lori, Larry and the would-be gun company owners
+**C-8513** Tip Says Lori, Larry and the Would-Be Gun Company Owners Dined in Scottsdale in Late 2016
 
 Claim Timestamp: 00:18:04
 
@@ -895,7 +895,7 @@ Investigative Direction: Interview the patent holders and identify the restauran
 
 ---
 
-**C-8514** Lori and Larry offered access to government contracts
+**C-8514** Tip Says Lori and Larry Offered Access to Government Contracts
 
 Claim Timestamp: 00:18:04
 
@@ -910,7 +910,7 @@ Investigative Direction: Search federal contracting databases for awards to Lori
 
 ---
 
-**C-8515** Erika Frantzve arrived unannounced at the dinner
+**C-8515** Tip Says Erika Frantzve Arrived Unannounced at the Dinner
 
 Claim Timestamp: 00:19:11
 
@@ -940,7 +940,7 @@ Investigative Direction: Interview the tipster about the exact words used and th
 
 ---
 
-**C-8517** Erika was dating Cabot Phillips, not Charlie Kirk, at the time
+**C-8517** Host Says Erika Was Dating Cabot Phillips, Not Charlie Kirk, at the Time
 
 Claim Timestamp: 00:20:24
 
@@ -955,7 +955,7 @@ Investigative Direction: Establish dates of Erika Frantzve's relationship with C
 
 ---
 
-**C-8518** The patent holder later had a lawsuit with Victor Marx
+**C-8518** Host Says the Patent Holder Later Had a Lawsuit With Victor Marx
 
 Claim Timestamp: 00:21:34
 
@@ -970,7 +970,7 @@ Investigative Direction: Search state and federal court dockets for litigation b
 
 ---
 
-**C-8519** Jeffrey Epstein began his career in weapons trafficking
+**C-8519** Host Asserts Jeffrey Epstein Began His Career in Weapons Trafficking
 
 Claim Timestamp: 00:22:26
 
@@ -1081,7 +1081,7 @@ Investigative Direction: Archive Neff's statement and Erika Kirk's Megyn Kelly i
 
 ---
 
-**C-8526** TPUSA put up a recreation of the tent Charlie died under for selfies
+**C-8526** Host Says TPUSA Put Up a Recreation of the Tent Charlie Died Under for Selfies
 
 Claim Timestamp: 00:32:07
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Retrieve the 2019 Spectator article and confirm the quo
 
 ---
 
-**C-8530** People in Melania's circle say Loomer is the person most likely to harm Trump
+**C-8530** Host Says People in Melania's Circle Call Loomer the Person Most Likely to Harm Trump
 
 Claim Timestamp: 00:36:45
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Identify any on-record source from Melania Trump's staf
 
 ---
 
-**C-8531** Laura Loomer is not allowed to own guns
+**C-8531** Host Says Laura Loomer Is Not Allowed to Own Guns
 
 Claim Timestamp: 00:36:45
 
@@ -1226,7 +1226,7 @@ Investigative Direction: Archive the Truth Social post and its date.
 
 ---
 
-**C-8536** The Robinson judge was appointed by Governor Cox
+**C-8536** Host Says the Robinson Judge Was Appointed by Governor Cox
 
 Claim Timestamp: 00:43:49
 
@@ -1240,7 +1240,7 @@ Investigative Direction: Check the Utah judicial appointment record for the pres
 
 ---
 
-**C-8537** 600,000 files were dumped on the defense in March
+**C-8537** Host Says 600,000 Files Were Dumped on the Defense in March
 
 Claim Timestamp: 00:44:48
 
@@ -1256,7 +1256,7 @@ Investigative Direction: Review the court's discovery orders and the defense's c
 
 ---
 
-**C-8538** Judge earlier assured the defense a trial date could be moved
+**C-8538** Host Says Judge Earlier Assured the Defense a Trial Date Could Be Moved
 
 Claim Timestamp: 00:44:48
 
@@ -1271,7 +1271,7 @@ Investigative Direction: Obtain the hearing transcript in which the date was set
 
 ---
 
-**C-8539** Erika's "one thing for my kids" reply to Fox News on the burial location
+**C-8539** Host Says Erika Gave a "One Thing for My Kids" Reply to Fox News on the Burial Location
 
 Claim Timestamp: 00:47:03
 
@@ -1287,7 +1287,7 @@ Investigative Direction: Archive the Fox News interview segment with its air dat
 
 ---
 
-**C-8540** Erika moved Charlie's body a couple of times
+**C-8540** Host Says Erika Moved Charlie's Body a Couple of Times
 
 Claim Timestamp: 00:47:03
 
@@ -1302,7 +1302,7 @@ Investigative Direction: Obtain Utah and Arizona burial-transit permits and fune
 
 ---
 
-**C-8541** Charlie's body first went to a burial and cremation service
+**C-8541** Host Says Charlie's Body First Went to a Burial and Cremation Service
 
 Claim Timestamp: 00:48:09
 
@@ -1346,7 +1346,7 @@ Investigative Direction: Follow up on whether the footage was submitted and auth
 
 ---
 
-**C-8544** New sentences, including the "pooch" line, were added to Robinson's messages
+**C-8544** Host Says New Sentences, Including the "Pooch" Line, Were Added to Robinson's Messages
 
 Claim Timestamp: 00:51:43
 
@@ -1361,7 +1361,7 @@ Investigative Direction: Compare the message text in the original charging docum
 
 ---
 
-**C-8545** Kash Patel is suing The Atlantic over a report that he is a drunk
+**C-8545** Host Thinks Kash Patel Is Suing The Atlantic Over a Report That He Is a Drunk
 
 Claim Timestamp: 00:52:39
 
@@ -1375,7 +1375,7 @@ Investigative Direction: Check federal and state dockets for a Patel v. The Atla
 
 ---
 
-**C-8546** Victor Marx declined to join Corby Hall; Hall interview to air next day
+**C-8546** Host Says Victor Marx Declined to Join Corby Hall; Hall Interview to Air Next Day
 
 Claim Timestamp: 00:54:47
 

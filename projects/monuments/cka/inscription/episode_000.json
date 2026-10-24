@@ -1,0 +1,50 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 0,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Video + Transcript",
+    "transcript_completeness": "Full"
+  },
+  "executive_summary": "Ledger baseline for CKA Batch 1 remap (BoC monument eps 9–18 → CKA seq 1–10). Preserves first-introduction order from the Bride of Charlie demo corpus without re-ingesting series eps 1–8.",
+  "artifacts": [],
+  "nodes": [],
+  "claims": [],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-4",
+      "ref": "M-4",
+      "canonical_term": "synergy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 0,
+          "video_timestamp": "00:16:10",
+          "speaker_node_ref": "N-3",
+          "quote": "There's just so much synergy here.",
+          "context": "Host sarcastically noting pattern of coincidences between Tyler Bowyer's military and academic timeline and Erika's enrollment",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "pattern_observation"
+          ]
+        },
+        {
+          "episode": 0,
+          "video_timestamp": "00:22:44",
+          "speaker_node_ref": "N-3",
+          "quote": "Yeah. Erika, you know, there is just so much synergy building, right?",
+          "context": "Host again noting apparent coincidences between Kolvets, Frantzves, and Bowyers in Romania",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "pattern_observation"
+          ]
+        }
+      ]
+    }
+  ]
+}

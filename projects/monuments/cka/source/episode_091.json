@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:58:49",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 1df74cccac475e4c487a7870fcec07e5418c1bc8bbaa2b6db88833fb27d1cace",
+    "- **Transcript SHA-256**: 5187fd533506063dbe2a5a4129ae66fb8cafc5f0ce63452fbabf52e6ef23468c",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-912, N-913, N-11262, N-11263, N-11264",
@@ -2835,8 +2835,8 @@
   {
    "kind": "claim",
    "id": "C-8155",
-   "header": "**C-8155** Victor Marx Requested 50 Rifles for Haiti Mission (Late Fall 2024)",
-   "label": "Victor Marx Requested 50 Rifles for Haiti Mission (Late Fall 2024)",
+   "header": "**C-8155** Corby Hall Statement Says Victor Marx Requested 50 Rifles for Haiti Mission (Late Fall 2024)",
+   "label": "Corby Hall Statement Says Victor Marx Requested 50 Rifles for Haiti Mission (Late Fall 2024)",
    "lines": [
     {
      "raw": ""
@@ -3003,8 +3003,8 @@
   {
    "kind": "claim",
    "id": "C-8166",
-   "header": "**C-8166** Marx Discussed Fold AR Acquisition with Sig Sauer / Daniel Horner",
-   "label": "Marx Discussed Fold AR Acquisition with Sig Sauer / Daniel Horner",
+   "header": "**C-8166** Corby Hall Statement Says Marx Discussed Fold AR Acquisition with Sig Sauer / Daniel Horner",
+   "label": "Corby Hall Statement Says Marx Discussed Fold AR Acquisition with Sig Sauer / Daniel Horner",
    "lines": [
     {
      "raw": ""
@@ -3397,8 +3397,8 @@
   {
    "kind": "claim",
    "id": "C-8178",
-   "header": "**C-8178** ATF Trace Initiated on Fold AR SN 02735 on September 10, 2025",
-   "label": "ATF Trace Initiated on Fold AR SN 02735 on September 10, 2025",
+   "header": "**C-8178** Host Says ATF Trace Was Initiated on Fold AR SN 02735 on September 10, 2025",
+   "label": "Host Says ATF Trace Was Initiated on Fold AR SN 02735 on September 10, 2025",
    "lines": [
     {
      "raw": ""
@@ -8788,10 +8788,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10546, N-10550"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-8182"
     },
     {
      "k": "Tags",

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:51:06
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:36:20Z
-- **Transcript SHA-256**: 581ac54f84c04c6827df73e35e73178ffe05b80e6ec32ddecc27200006bd5897
+- **Transcript SHA-256**: 414093191237576a630e03b5874f9e0a21cd9800eacaf381197d0cbfc8a0dea9
 - **Model Version**: claude-manual-extract-seq106
 
 - **Episode Ledger Summary**:
@@ -611,7 +611,7 @@ Investigative Direction: Check the release date of the full interview on the hos
 
 ---
 
-**C-9316** COVID vaccine incentives included free Krispy Kreme donuts, beer and joints
+**C-9316** Host Shows Headlines on COVID Vaccine Incentives Including Free Krispy Kreme Donuts, Beer and Joints
 
 Claim Timestamp: 00:08:50
 
@@ -624,7 +624,7 @@ Investigative Direction: Locate the original 2021 news reports and corporate ann
 
 ---
 
-**C-9317** Turning Point USA is paying chapter leaders to stay on
+**C-9317** Host Says Turning Point USA Is Paying Chapter Leaders to Stay On
 
 Claim Timestamp: 00:09:38
 
@@ -638,7 +638,7 @@ Investigative Direction: Obtain TPUSA chapter-leader stipend or retention polici
 
 ---
 
-**C-9318** Study linked dark triad personality traits to lower COVID vaccine uptake
+**C-9318** Host Says Study Linked Dark Triad Personality Traits to Lower COVID Vaccine Uptake
 
 Claim Timestamp: 00:12:15
 
@@ -699,7 +699,7 @@ Investigative Direction: Forensic analysis of the released Aspen audio and of th
 
 ---
 
-**C-9322** Turning Point USA itself released the Aspen audio
+**C-9322** Host Says Turning Point USA Itself Released the Aspen Audio
 
 Claim Timestamp: 00:13:55
 
@@ -729,7 +729,7 @@ Investigative Direction: Compile the host's dated on-air and online requests for
 
 ---
 
-**C-9324** TPUSA screened the Aspen footage privately for Daily Mail journalists
+**C-9324** Host Says TPUSA Screened the Aspen Footage Privately for Daily Mail Journalists
 
 Claim Timestamp: 00:15:03
 
@@ -744,7 +744,7 @@ Investigative Direction: Obtain the Daily Mail article and ask the Daily Mail an
 
 ---
 
-**C-9325** The Daily Mail article is paywalled and does not include the video
+**C-9325** Host Says the Daily Mail Article Is Paywalled and Does Not Include the Video
 
 Claim Timestamp: 00:15:03
 
@@ -758,7 +758,7 @@ Investigative Direction: Review the published Daily Mail article for embedded me
 
 ---
 
-**C-9326** The Daily Mail article does not say how its journalists saw the footage
+**C-9326** Host Says the Daily Mail Article Does Not Say How Its Journalists Saw the Footage
 
 Claim Timestamp: 00:16:03
 
@@ -787,7 +787,7 @@ Investigative Direction: Identify the board member and obtain the relevant estat
 
 ---
 
-**C-9328** Charlie Kirk's corporate will did not name Erika as CEO
+**C-9328** Host Argues Charlie Kirk's Corporate Will Did Not Name Erika as CEO
 
 Claim Timestamp: 00:17:32
 
@@ -846,7 +846,7 @@ Investigative Direction: Ask TPUSA whether a redacted version (donor face and qu
 
 ---
 
-**C-9332** TPUSA used the Aspen audio as Erika Kirk's AmFest walkout music
+**C-9332** Host Says TPUSA Used the Aspen Audio as Erika Kirk's AmFest Walkout Music
 
 Claim Timestamp: 00:20:47
 
@@ -936,7 +936,7 @@ Investigative Direction: Obtain the Daily Mail's request-for-comment email and t
 
 ---
 
-**C-9338** Blake Neff replied that he does not care about his ratio
+**C-9338** Host Says Blake Neff Replied That He Does Not Care About His Ratio
 
 Claim Timestamp: 00:25:11
 
@@ -950,7 +950,7 @@ Investigative Direction: Archive the exchange on X.
 
 ---
 
-**C-9339** WHCD email went out about an hour after the shooting
+**C-9339** Host Says WHCD Email Went Out About an Hour After the Shooting
 
 Claim Timestamp: 00:29:07
 
@@ -995,7 +995,7 @@ Investigative Direction: Archive Marc Caputo's post and the White House backgrou
 
 ---
 
-**C-9342** Graham Allen, Andrew Kolvet and Blake Neff promoted the Axios denial
+**C-9342** Host Says Graham Allen, Andrew Kolvet and Blake Neff Promoted the Axios Denial
 
 Claim Timestamp: 00:30:43
 
@@ -1115,7 +1115,7 @@ Investigative Direction: Show the recipient line of the sent follow-up email.
 
 ---
 
-**C-9350** Paramount Tactical was paid by the Department of Defense 14 days after the assassination
+**C-9350** Host Says Paramount Tactical Was Paid by the Department of Defense 14 Days After the Assassination
 
 Claim Timestamp: 00:37:55
 
@@ -1130,7 +1130,7 @@ Investigative Direction: Pull the award records from USAspending.gov or FPDS for
 
 ---
 
-**C-9351** Brian Harpole chose Paramount Tactical for an interview and TPUSA platformed him
+**C-9351** Host Says Brian Harpole Chose Paramount Tactical for an Interview and TPUSA Platformed Him
 
 Claim Timestamp: 00:37:55
 
@@ -1145,7 +1145,7 @@ Investigative Direction: Establish the date of the Harpole interview on Paramoun
 
 ---
 
-**C-9352** The children in the alibi photo given to Paramount Tactical are not Erika Kirk's
+**C-9352** Host Says the Children in the Alibi Photo Given to Paramount Tactical Are Not Erika Kirk's
 
 Claim Timestamp: 00:37:55
 
@@ -1161,7 +1161,7 @@ Investigative Direction: Identify the children and the date and place of the ali
 
 ---
 
-**C-9353** Paramount Tactical received $39,000 and $151,000 from the DoD in September 2025
+**C-9353** Host Says Paramount Tactical Received $39,000 and $151,000 From the DoD in September 2025
 
 Claim Timestamp: 00:38:39
 
@@ -1176,7 +1176,7 @@ Investigative Direction: Retrieve both contract award records, the awarding offi
 
 ---
 
-**C-9354** Paramount Tactical does not manufacture its own gear
+**C-9354** Host Says Paramount Tactical Does Not Manufacture Its Own Gear
 
 Claim Timestamp: 00:38:39
 
@@ -1191,7 +1191,7 @@ Investigative Direction: Review Paramount Tactical's product catalog and the con
 
 ---
 
-**C-9355** "Decoy boy number two's" father received a large DoD contract before the assassination
+**C-9355** Host Says "Decoy Boy Number Two's" Father Received a Large DoD Contract Before the Assassination
 
 Claim Timestamp: 00:39:34
 
@@ -1207,7 +1207,7 @@ Investigative Direction: Pull Built Inc. federal award records for 2025.
 
 ---
 
-**C-9356** TPUSA deleted the old catalog of Charlie Kirk's campus footage
+**C-9356** Host Says TPUSA Deleted the Old Catalog of Charlie Kirk's Campus Footage
 
 Claim Timestamp: 00:45:28
 
@@ -1222,7 +1222,7 @@ Investigative Direction: Compare archived snapshots of TPUSA and Charlie Kirk ch
 
 ---
 
-**C-9357** Erika Kirk used emojis six days after the assassination
+**C-9357** Host Says Erika Kirk Used Emojis Six Days After the Assassination
 
 Claim Timestamp: 00:46:15
 

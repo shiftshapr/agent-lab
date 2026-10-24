@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00-00:49:15
 - **Extraction Timestamp (UTC)**: 2026-10-19T21:17:21Z
-- **Transcript SHA-256**: 0d71b4adc9a75dcf5c1c75c4b961ff5c2117ac83456673d22d2a9c1c7cf0474f
+- **Transcript SHA-256**: 91e055db94436c28f6a4fede2aa184b6930f021fa94cfee82288a3a309217952
 - **Model Version**: claude-manual-extract-seq165
 
 - **Episode Ledger Summary**:
@@ -1139,7 +1139,7 @@ Transcript Snippet: The charges listed above are merely accusations, and the def
 Anchored Artifacts: A-3393.2
 Mentions: N-961
 Related Nodes: N-11344, N-10755
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Case disposition records in Utah and Idaho.
 
 ---

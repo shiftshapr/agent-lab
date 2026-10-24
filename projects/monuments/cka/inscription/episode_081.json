@@ -1750,7 +1750,7 @@
       "@type": "Claim",
       "@id": "C-7296",
       "ref": "C-7296",
-      "label": "Kolvet unavailable 1:30pm–3:25pm Utah time in PR chat",
+      "label": "Kolvet sent no message 1:30pm–3:25pm Utah time in PR chat",
       "claim": "Per the Sept 10 PR text chain the host shows, Andrew Kolvet sent no message from 1:30 p.m. until 3:25 p.m. Utah time, a period the host says he should have been available because communications is his job.",
       "anchored_artifacts": [
         "A-1881.1"
@@ -1879,7 +1879,7 @@
       "@type": "Claim",
       "@id": "C-7319",
       "ref": "C-7319",
-      "label": "Blake Neff's \"I put that phone away\" implies second phone",
+      "label": "Host says Blake Neff's \"I put that phone away\" implies a second phone",
       "claim": "Blake Neff, describing his call to his mother after the shooting, used the phrasing \"I put that phone away,\" which host interprets as implying possession of two phones.",
       "anchored_artifacts": [
         "A-1882.1"

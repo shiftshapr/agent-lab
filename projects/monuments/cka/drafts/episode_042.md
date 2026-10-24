@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:59
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 3c1f69671097bccc2394ca45fe92d4ded01f6adc3908c9f3aa68a3f9797749b9
+- **Transcript SHA-256**: 9acbb951f54006c097e1465295013f2a6a7cb43c83b6afdddcfc087972134b4f
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-908, N-11251
@@ -662,7 +662,7 @@ Investigative Direction: Compare this stated rationale against any prior TPUSA l
 
 ---
 
-**C-3668** Blake Neff's prior "sincere" Phoenix invitation did not require in-person attendance
+**C-3668** Host Says Blake Neff's Prior "Sincere" Phoenix Invitation Did Not Require In-Person Attendance
 
 Claim Timestamp: 00:11:14
 
@@ -691,7 +691,7 @@ Investigative Direction: Obtain the full released track and verify publication d
 
 ---
 
-**C-3678** UVU school colors are green and white, not maroon
+**C-3678** Host Says UVU Contact Told Her School Colors Are Green and White, Not Maroon
 
 Claim Timestamp: 00:20:07
 
@@ -750,7 +750,7 @@ Investigative Direction: Cross-reference third-party Apple Podcasts tracking ser
 
 ---
 
-**C-3704** PBS featured Emmanuel Bierer as eyewitness in Salt Lake City
+**C-3704** Host Says PBS Featured Emmanuel Bierer as Eyewitness Filmed in Salt Lake City
 
 Claim Timestamp: 00:32:42–00:33:55
 
@@ -780,7 +780,7 @@ Investigative Direction: Obtain the original full-length footage to confirm the 
 
 ---
 
-**C-3691** Jacob Kasparian recorded the event on his phone
+**C-3691** Host Says Footage Shows Jacob Kasparian Recording the Event on His Phone
 
 Claim Timestamp: 00:25:00–00:25:35
 
@@ -825,7 +825,7 @@ Investigative Direction: Obtain the full Adam Bartholomew livestream VOD and met
 
 ---
 
-**C-3696** Carrie Bartholomew confirmed via tweet she was in the courtyard during the shot
+**C-3696** Host Says Carrie Bartholomew's Tweet Confirms She Was in the Courtyard During the Shot
 
 Claim Timestamp: 00:27:30–00:28:00
 
@@ -855,7 +855,7 @@ Investigative Direction: Review the full Bartholomew livestream timeline and any
 
 ---
 
-**C-3700** Tyler Robinson was wearing a maroon shirt at the event
+**C-3700** Host Says Tyler Robinson Was Wearing a Maroon Shirt at the Event
 
 Claim Timestamp: 00:28:44
 
@@ -1420,7 +1420,6 @@ Transcript Snippet: he had posted himself earlier that day at either 8:42 a. m. 
 Anchored Artifacts: A-1505.4
 Mentions: N-307
 Related Nodes: N-10293
-Qualifies: C-3690
 Tags: relevance:core
 Investigative Direction: Retrieve the original post with metadata to settle which time applies and the time zone.
 Open Questions: Q-378
@@ -1755,7 +1754,6 @@ Transcript Snippet: There's only two people that have cameras of this person on 
 Anchored Artifacts: A-1509.1
 Mentions: N-40, N-3
 Related Nodes: N-10295
-Qualifies: C-3719
 Tags: relevance:core
 Investigative Direction: Check the Robinson docket and witness lists for the filmer.
 Open Questions: Q-82

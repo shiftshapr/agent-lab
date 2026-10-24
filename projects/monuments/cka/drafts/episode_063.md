@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:59:06
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1
+- **Transcript SHA-256**: e9cb80bb60fb9ca41720a20776d186fb125b3fbca83ae0f37d711b9a3f8db957
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-765, N-766, N-768, N-11041, N-11042, N-11043, N-11045
@@ -1237,7 +1237,7 @@ Open Questions: Q-523
 
 ---
 
-**C-5627** Erika Says 50,000 Hat Orders and Over 20,000 AmFest Registrations
+**C-5627** Erika Says She Thinks There Are 50,000-Plus Hat Orders and Over 20,000 AmFest Registrations
 
 Claim Timestamp: 00:18:49
 

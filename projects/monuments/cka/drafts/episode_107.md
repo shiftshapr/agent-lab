@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:38:11
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5
+- **Transcript SHA-256**: 3f25d740260416ef998481d15873d73319c8cfa037117e6b9fcac6e4e5753734
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-727, N-728, N-10965, N-10966, N-10967, N-10968, N-10969, N-10970
@@ -685,6 +685,7 @@ Claim Timestamp: 00:11:03
 Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; the host says she later recanted many of the allegations, which friends who emailed the show attribute to financial pressure, a claim the host says she cannot confirm.
 Anchored Artifacts: A-2508.1
 Mentions: N-341, N-347
+Tags: relevance:tangential
 Investigative Direction: Obtain original social media posts via archived captures; verify timeline of board letter and retraction.
 
 ---
@@ -798,7 +799,7 @@ Investigative Direction: Compare original website text against archived snapshot
 
 ---
 
-**C-9360** White House press team has not answered about the email
+**C-9360** Host Says White House Press Team Has Not Answered About the Email
 
 Claim Timestamp: 00:00:01
 
@@ -858,7 +859,7 @@ Investigative Direction: Compare Marx's campaign filing date and his own stateme
 
 ---
 
-**C-9366** Marx's birth name is Von Victor Kennedy
+**C-9366** Host Says Marx's Birth Name Is Von Victor Kennedy
 
 Claim Timestamp: 00:02:31
 
@@ -869,11 +870,12 @@ Transcript Snippet: I've already told you his real name is Von Victor Kennedy. T
 Anchored Artifacts: 
 Mentions: N-341, N-349
 Related Nodes: N-10551
+Tags: relevance:tangential
 Investigative Direction: Obtain birth or name-change records and compare with Marx's own account.
 
 ---
 
-**C-9367** Marx's stepfather served in army counterintelligence and pled guilty to a drug smuggling conspiracy
+**C-9367** Host Says Marx's Stepfather Served in Army Counterintelligence and Pled Guilty to a Drug Smuggling Conspiracy
 
 Claim Timestamp: 00:03:25
 
@@ -918,7 +920,7 @@ Investigative Direction: Find public records, martial arts directories or interv
 
 ---
 
-**C-9370** Marx's biological father spent time in a mental hospital for homicidal tendencies
+**C-9370** Host Says Marx's Biological Father Spent Time in a Mental Hospital for Homicidal Tendencies
 
 Claim Timestamp: 00:03:25
 
@@ -933,7 +935,7 @@ Investigative Direction: Look for commitment or hospital records, or Marx's own 
 
 ---
 
-**C-9371** Marx's grandfather killed his grandmother in a public murder-suicide
+**C-9371** Host Says Marx's Grandfather Killed His Grandmother in a Public Murder-Suicide
 
 Claim Timestamp: 00:04:19
 
@@ -948,7 +950,7 @@ Investigative Direction: Search local news archives and death records for the in
 
 ---
 
-**C-9372** Marx lived in 17 homes and attended 14 schools by age 17
+**C-9372** Host Says Marx Lived in 17 Homes and Attended 14 Schools by Age 17
 
 Claim Timestamp: 00:04:19
 
@@ -980,7 +982,7 @@ Investigative Direction: Obtain Marx's DD-214 for enlistment and separation date
 
 ---
 
-**C-9374** Marx married Eileen Breining Marx at 23 and has five children
+**C-9374** Host Says Marx Married Eileen Breining Marx at 23 and Has Five Children
 
 Claim Timestamp: 00:04:19
 
@@ -995,7 +997,7 @@ Investigative Direction: Check marriage records and Marx's published biography.
 
 ---
 
-**C-9375** Marx and his brother began All Things Possible Ministries in 2003
+**C-9375** Host Says Marx and His Brother Began All Things Possible Ministries in 2003
 
 Claim Timestamp: 00:05:19
 
@@ -1010,7 +1012,7 @@ Investigative Direction: Check IRS Form 990 and state incorporation filings for 
 
 ---
 
-**C-9376** Eileen's brother Kenneth Breining tried to shoot Marx in 2023
+**C-9376** Host Says Eileen's Brother Kenneth Breining Tried to Shoot Marx in 2023
 
 Claim Timestamp: 00:05:19
 
@@ -1025,7 +1027,7 @@ Investigative Direction: Obtain the sheriff's incident report and court file for
 
 ---
 
-**C-9377** Kenneth Breining later killed his own girlfriend
+**C-9377** Host Says Kenneth Breining Later Killed His Own Girlfriend
 
 Claim Timestamp: 00:05:19
 
@@ -1035,11 +1037,12 @@ Transcript Snippet: but Eileen's brother would go on to kill his own girlfriend.
 
 Anchored Artifacts: 
 Mentions: N-726, N-343
+Tags: relevance:tangential
 Investigative Direction: Obtain the homicide case record naming Kenneth Breining and the victim.
 
 ---
 
-**C-9378** Marx announced his candidacy on October 1 and teased it at Charlie Kirk's memorial
+**C-9378** Host Says Marx Announced His Candidacy on October 1 and Teased It at Charlie Kirk's Memorial
 
 Claim Timestamp: 00:05:19
 
@@ -1219,6 +1222,7 @@ Transcript Snippet: a young woman named Holly Chalmers or Chalmers accused him o
 Anchored Artifacts: 
 Mentions: N-345, N-341
 Related Nodes: N-10967
+Tags: relevance:tangential
 Investigative Direction: Obtain any police or court filings by Holly Chalmers and the border records for her crossing.
 
 ---
@@ -1234,6 +1238,7 @@ Transcript Snippet: Victor Marx claims that he was actually rescuing her from he
 Anchored Artifacts: 
 Mentions: N-345, N-341
 Related Nodes: N-10967
+Tags: relevance:tangential
 Investigative Direction: Compare Marx's account with Canadian police records on the boyfriend and Holly's own statements.
 
 ---
@@ -1249,6 +1254,7 @@ Transcript Snippet: Victor Marx's own son wrote a letter to the board on a compa
 Anchored Artifacts: 
 Mentions: N-346, N-341, N-347
 Related Nodes: N-10551
+Tags: relevance:tangential
 Investigative Direction: Identify the board and obtain the letter; ask the board whether it received one.
 
 ---
@@ -1294,6 +1300,7 @@ Transcript Snippet: He was not forced to kill anybody, that there are no bodies 
 Anchored Artifacts: A-2773.1
 Mentions: N-349, N-341
 Related Nodes: N-10551
+Tags: relevance:tangential
 Investigative Direction: Identify and interview the family members and obtain any written statements.
 
 ---
@@ -1340,6 +1347,7 @@ Transcript Snippet: has filled out a statement both with local authorities and F
 Anchored Artifacts: A-2774.1
 Mentions: N-341, N-342
 Related Nodes: N-10968
+Tags: relevance:tangential
 Investigative Direction: Locate the statement Marx cites and any corresponding El Paso County Sheriff or FBI report.
 
 ---
@@ -1371,6 +1379,7 @@ Transcript Snippet: this gentleman is being sought by the FBI and El Paso County
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342
 Related Nodes: N-10968
+Tags: relevance:tangential
 Investigative Direction: Ask the FBI and El Paso County Sheriff's Office to confirm whether any inquiry or warrant exists for Hall.
 
 ---
@@ -1554,6 +1563,7 @@ Transcript Snippet: she is my half sister who is the daughter of the abuser
 Anchored Artifacts: A-2510.1
 Mentions: N-349, N-341
 Related Nodes: N-10551
+Tags: relevance:tangential
 Investigative Direction: Identify Charmaine and ask whether she has spoken publicly.
 
 ---
@@ -1782,7 +1792,7 @@ Transcript Snippet: He still follows me. He was following me.
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
 Related Nodes: N-10552
-Contradicts: C-9156
+Qualifies: C-9156
 Investigative Direction: Check archived captures of Charlie Kirk's Instagram following list.
 
 ---
@@ -2104,7 +2114,6 @@ Transcript Snippet: We've helped. We've provided trauma relief and some we've de
 Anchored Artifacts: A-2510.1
 Mentions: N-341
 Related Nodes: N-10814, N-10965
-Contradicts: C-9454
 Investigative Direction: Ask for documented counts of persons rescued versus assisted.
 
 ---
@@ -2240,6 +2249,7 @@ Transcript Snippet: have video that they just posted yesterday of Holly telling 
 Anchored Artifacts: A-2777.2
 Mentions: N-341, N-345
 Related Nodes: N-10967
+Tags: relevance:tangential
 Investigative Direction: Locate the couple's video and check its post date.
 
 ---
@@ -2255,6 +2265,7 @@ Transcript Snippet: it was Holly's pedophile who groomed this girl since she was
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-345
 Related Nodes: N-10967
+Tags: relevance:tangential
 Investigative Direction: Check Canadian court and police records on the boyfriend; no named allegation should be treated as established here.
 
 ---
@@ -2394,7 +2405,6 @@ Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342
 Related Nodes: N-10548
 Supports: C-8324
-Contradicts: C-8169
 Investigative Direction: Check ATF licensing records and the Fold AR communications Hall supplied.
 
 ---

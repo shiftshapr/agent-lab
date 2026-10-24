@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:52:35
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: cd9e59e9564d3269c2ae61263c05f67dbccdca4b58de59c5ca01c69abc42da57
+- **Transcript SHA-256**: 4d02fe018128c7f8dc912756b6880dc4b14aeac6f7ba45846b8da51ec210b7f7
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11254, N-11255, N-11256
@@ -785,6 +785,7 @@ Claim: The host says, per the lawsuit (which she notes contains only allegations
 Anchored Artifacts: A-1619.1
 Mentions: N-445, N-446
 Related Nodes: N-10382
+Tags: relevance:tangential
 Investigative Direction: Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.
 
 **C-5016** Host Says Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death
@@ -906,9 +907,10 @@ Claim: The host says the allegations against Paul Havsgaard at the Bucharest chi
 Anchored Artifacts: A-1624.2
 Mentions: N-451
 Related Nodes: N-10384
+Tags: relevance:tangential
 Investigative Direction: Obtain original complaint; verify specificity of allegations; confirm Havsgaard's status (former pastor/missionary).
 
-**C-5047** Twenty-Three Former Residents Expected to File Complaints
+**C-5047** Law Firm Says It Expects Twenty-Three Former Residents to File Complaints
 
 Claim Timestamp: 00:34:28
 
@@ -960,7 +962,7 @@ Anchored Artifacts: A-1627.1
 Mentions: N-453
 Investigative Direction: Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.
 
-**C-4995** Anchor Plane Arrived in Provo May 23; SUBTU Followed May 27 With Wed Mahmoud Aboard
+**C-4995** Host Says Anchor Plane Arrived in Provo May 23; SUBTU Followed May 27 With Wed Mahmoud Aboard
 
 Claim Timestamp: 00:09:14
 
@@ -968,6 +970,8 @@ Claim: The host says, per her master timeline, that an anchor plane landed in Pr
 
 Anchored Artifacts: (no direct artifact displayed in this episode – host references her previously shown timeline)
 Mentions: N-305
+Verification: revised-by-host
+Verification Evidence: C-5001
 Investigative Direction: Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**
 
 **C-4999** Host Asserts Iran–Israel 12-Day War Commenced June 13 Following Plane Departures
@@ -1222,7 +1226,7 @@ Transcript Snippet: Maybe it went to DC. That plane could have actually gone to 
 Anchored Artifacts: A-3214.1
 Mentions: N-3
 Related Nodes: N-10292
-Qualifies: C-4995
+Revises: C-4995
 Tags: relevance:core
 Investigative Direction: Look for arrival records at DC-area airports for an Egyptian-registered aircraft between June 2 and June 4, 2025.
 Open Questions: Q-492
@@ -1422,7 +1426,7 @@ Anchored Artifacts: A-1619.1
 Mentions: N-445, N-446
 Related Nodes: N-10382
 Supports: C-5014
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the December 2024 petition and confirm the pleaded dates for the decline and the caretaker's hiring.
 
 ---
@@ -1439,7 +1443,7 @@ Anchored Artifacts: A-1619.1
 Mentions: N-445, N-446
 Related Nodes: N-10382
 Supports: C-5014
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the petition and any response from Manley Senior or the recipients; confirm the case outcome.
 
 ---
@@ -1718,7 +1722,7 @@ Anchored Artifacts: A-1624.2
 Mentions: N-451
 Related Nodes: N-10384, N-11256
 Supports: C-2598
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the September complaint (court, case number, plaintiffs) and Havsgaard's employment history with Harvest.
 
 ---

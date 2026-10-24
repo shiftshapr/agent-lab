@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:15
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:45:06Z
-- **Transcript SHA-256**: 952c6f05d2d61d649495b71cadb69caf9ac1a32c1f7f7c66e26f14a918444dd4
+- **Transcript SHA-256**: ffa4621e380ef14dbbd9c3bbabc372fcfd62bdd0d3f6c429e8c8c048c8d904ef
 - **Model Version**: claude-manual-extract-seq115
 
 - **Episode Ledger Summary**:
@@ -672,7 +672,7 @@ Investigative Direction: Obtain Mikey McCoy's call log for September 10, 2025 an
 
 ---
 
-**C-9931** Erika Kirk gave Dan Flood a raise after the assassination
+**C-9931** Host says Erika Kirk gave Dan Flood a raise after the assassination
 
 Claim Timestamp: 00:05:42
 
@@ -732,7 +732,7 @@ Investigative Direction: Confirm Liti's employment and role through Surefire Wir
 
 ---
 
-**C-9935** Well perforating requires PETN
+**C-9935** Host says well perforating requires PETN
 
 Claim Timestamp: 00:07:51
 
@@ -758,6 +758,7 @@ Transcript Snippet: Allegedly, Mark Liti had confessed to his longtime high scho
 Anchored Artifacts:
 Mentions: N-675
 Related Nodes: N-10893, N-10895
+Tags: relevance:tangential
 Investigative Direction: Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.
 
 ---
@@ -773,6 +774,7 @@ Transcript Snippet: The ATF was apparently investigating for this, investigating
 Anchored Artifacts:
 Mentions: N-675, N-677
 Related Nodes: N-10896, N-10893
+Tags: relevance:tangential
 Investigative Direction: FOIA the ATF for any 2022 investigation into explosives missing from Surefire Wireline or involving Mark Liti.
 
 ---
@@ -792,7 +794,7 @@ Investigative Direction: Confirm the driving distance between Kittanning and the
 
 ---
 
-**C-9939** Liti's confidant was Corey Comperatore
+**C-9939** Host says Liti's confidant was Corey Comperatore
 
 Claim Timestamp: 00:10:45
 
@@ -807,7 +809,7 @@ Investigative Direction: Confirm the friendship through school records, social m
 
 ---
 
-**C-9940** An unknown woman escorted the Comperatore family to the front at Butler
+**C-9940** Host says an unknown woman escorted the Comperatore family to the front at Butler
 
 Claim Timestamp: 00:10:45
 
@@ -838,7 +840,7 @@ Investigative Direction: Check the autopsy and the FBI's Butler investigative fi
 
 ---
 
-**C-9942** Liti was Facebook friends with members of the Crooks family
+**C-9942** Host says Liti was Facebook friends with members of the Crooks family
 
 Claim Timestamp: 00:11:53
 
@@ -1018,7 +1020,7 @@ Investigative Direction: Check US arms-transfer records and human rights reports
 
 ---
 
-**C-9954** Trump is satisfied with the Butler investigation and wants it shut down
+**C-9954** Host says Trump is satisfied with the Butler investigation and wants it shut down
 
 Claim Timestamp: 00:23:20
 
@@ -1034,7 +1036,7 @@ Investigative Direction: Collect Trump's and Bongino's public statements on the 
 
 ---
 
-**C-9955** The Comperatore family is not satisfied with the Butler investigation
+**C-9955** Host says the Comperatore family is not satisfied with the Butler investigation
 
 Claim Timestamp: 00:23:20
 
@@ -1049,7 +1051,7 @@ Investigative Direction: Seek public statements from Corey Comperatore's widow o
 
 ---
 
-**C-9956** An FBI plane landed in Salt Lake City on September 8, 2025
+**C-9956** Host says an FBI plane landed in Salt Lake City on September 8, 2025
 
 Claim Timestamp: 00:27:35
 
@@ -1064,7 +1066,7 @@ Investigative Direction: Identify the tail number and pull ADS-B history and FAA
 
 ---
 
-**C-9957** Charlie Kirk first went to Salt Lake City on the morning of September 10
+**C-9957** Host says Charlie Kirk first went to Salt Lake City on the morning of September 10
 
 Claim Timestamp: 00:27:35
 
@@ -1079,7 +1081,7 @@ Investigative Direction: Obtain flight records for Kirk's September 10, 2025 arr
 
 ---
 
-**C-9958** The FBI plane flew Richmond to Salt Lake City and left an hour later
+**C-9958** Host says the FBI plane flew Richmond to Salt Lake City and left an hour later
 
 Claim Timestamp: 00:28:20
 
@@ -1109,7 +1111,7 @@ Investigative Direction: Obtain the FBI FOIA tracking number and submission date
 
 ---
 
-**C-9960** Taxpayers pay for Kash Patel's girlfriend's security
+**C-9960** Host says taxpayers pay for Kash Patel's girlfriend's security
 
 Claim Timestamp: 00:30:05
 
@@ -1303,7 +1305,7 @@ Investigative Direction: Seek Tucker Carlson's on-record account of the dinner.
 
 ---
 
-**C-9973** Erika Kirk filed CK trademarks soon after Charlie's death
+**C-9973** Host believes Erika Kirk filed CK trademarks soon after Charlie's death
 
 Claim Timestamp: 00:46:55
 
@@ -1318,7 +1320,7 @@ Investigative Direction: Search USPTO records for "Charlie Kirk" and "CK" marks 
 
 ---
 
-**C-9974** Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children
+**C-9974** Host says Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children
 
 Claim Timestamp: 00:46:55
 

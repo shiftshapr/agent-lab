@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:21
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731
+- **Transcript SHA-256**: 7a8bc2a823591cc75db7e5976aa582ec74ca25508f4f32d90a7f932d78958b53
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-716, N-10946, N-10947, N-10948, N-10949, N-10950, N-10951, N-10952
@@ -680,7 +680,7 @@ The host's account that Charlie Kirk had required, orchestrated security (Shaffe
 
 ## 5. Claim Register
 
-**C-5083** Project Looking Glass described as future-timeline viewing device shut down at 2012 convergence
+**C-5083** Be Inspired Clip Relays Bill Wood's Account of Project Looking Glass Supposedly Viewing Future Timelines
 
 Claim Timestamp: 00:13:05
 
@@ -768,7 +768,7 @@ Investigative Direction: Locate the Daily Wire video directly on its original pu
 
 ---
 
-**C-5118** Pompeo advocates history-book framing that excludes Gaza victim focus
+**C-5118** Pompeo Says History Books Should Not Write About "the Victims of Gaza"
 
 Claim Timestamp: 00:43:34
 
@@ -812,7 +812,7 @@ Investigative Direction: Locate the specific text messages in which Charlie make
 
 ---
 
-**C-5123** Carly's father was an MP investigating pentagrams on a military base in 1982
+**C-5123** Viewer Carly Says Her Father Was an MP Investigating Pentagrams on a Military Base in 1982
 
 Claim Timestamp: 00:47:28
 
@@ -826,7 +826,7 @@ Investigative Direction: Identify the military base, the "Lieutenant Aquino" ref
 
 ---
 
-**C-5130** ICE agents receive training and recruitment from Israel / IDF
+**C-5130** Commenter Claims Some ICE Agents Receive Training and Recruitment From Israel/IDF
 
 Claim Timestamp: 00:51:51
 
@@ -886,7 +886,7 @@ Investigative Direction: Check the host's earliest dated communications and join
 
 ---
 
-**C-5070** Charlie required security at all times and it was orchestrated by Bill Montgomery
+**C-5070** Host Says Charlie Was Required to Have Security at All Times, Arranged by Bill Montgomery
 
 Claim Timestamp: 00:02:53
 
@@ -916,7 +916,7 @@ Investigative Direction: Check Turning Point USA founding documents, early IRS f
 
 ---
 
-**C-5072** Charlie texted that he was not allowed to go anywhere and felt important
+**C-5072** Host Says Charlie Texted That He Was Not Allowed to Go Anywhere and Felt Important
 
 Claim Timestamp: 00:02:53
 

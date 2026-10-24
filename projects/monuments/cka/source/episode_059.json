@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:48:40",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: ec70297e4ea4475efe0ea007480a67fe4d47488724c965ac8c0dee4be928d6a0",
+    "- **Transcript SHA-256**: 4ef1a09fefe615bae8471ccb4fdccd6eb837b021afc756d110ed1fe7242d968b",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-11303, N-11304",
@@ -3598,8 +3598,8 @@
   {
    "kind": "claim",
    "id": "C-5264",
-   "header": "**C-5264** Dan Flood's parents are from Illinois in the same area where Charlie Kirk was raised",
-   "label": "Dan Flood's parents are from Illinois in the same area where Charlie Kirk was raised",
+   "header": "**C-5264** Host Says Dan Flood's Parents Are From Illinois in the Area Where Charlie Kirk Was Raised",
+   "label": "Host Says Dan Flood's Parents Are From Illinois in the Area Where Charlie Kirk Was Raised",
    "lines": [
     {
      "raw": ""
@@ -3654,8 +3654,8 @@
   {
    "kind": "claim",
    "id": "C-5277",
-   "header": "**C-5277** Dan Flood grew up in Allen Texas and graduated high school there",
-   "label": "Dan Flood grew up in Allen Texas and graduated high school there",
+   "header": "**C-5277** Host Says Dan Flood Grew Up in Allen Texas and Graduated High School There",
+   "label": "Host Says Dan Flood Grew Up in Allen Texas and Graduated High School There",
    "lines": [
     {
      "raw": ""
@@ -3710,8 +3710,8 @@
   {
    "kind": "claim",
    "id": "C-5275",
-   "header": "**C-5275** Dan Flood resides in New Braunfels Texas",
-   "label": "Dan Flood resides in New Braunfels Texas",
+   "header": "**C-5275** Host Says Dan Flood Resides in New Braunfels Texas",
+   "label": "Host Says Dan Flood Resides in New Braunfels Texas",
    "lines": [
     {
      "raw": ""
@@ -3766,8 +3766,8 @@
   {
    "kind": "claim",
    "id": "C-5278",
-   "header": "**C-5278** Dan Flood previously worked security for a Dallas billionaire at the Cattleman's Ball",
-   "label": "Dan Flood previously worked security for a Dallas billionaire at the Cattleman's Ball",
+   "header": "**C-5278** Childhood Friend Says Dan Flood Did Security for a Dallas Billionaire at the Cattleman's Ball",
+   "label": "Childhood Friend Says Dan Flood Did Security for a Dallas Billionaire at the Cattleman's Ball",
    "lines": [
     {
      "raw": ""
@@ -4046,8 +4046,8 @@
   {
    "kind": "claim",
    "id": "C-5292",
-   "header": "**C-5292** Turning Point USA sent a cease-and-desist letter to Zach De Gregorio at the Wolves and Finance YouTube channel",
-   "label": "Turning Point USA sent a cease-and-desist letter to Zach De Gregorio at the Wolves and Finance YouTube channel",
+   "header": "**C-5292** Zach De Gregorio of Wolves and Finance Says He Received a TPUSA Cease-and-Desist Letter",
+   "label": "Zach De Gregorio of Wolves and Finance Says He Received a TPUSA Cease-and-Desist Letter",
    "lines": [
     {
      "raw": ""
@@ -8540,7 +8540,7 @@
     },
     {
      "k": "Contradicts",
-     "v": "C-5310, C-5180"
+     "v": "C-5310"
     },
     {
      "k": "Tags",
@@ -8609,7 +8609,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

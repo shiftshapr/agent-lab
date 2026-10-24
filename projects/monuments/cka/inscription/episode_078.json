@@ -2232,7 +2232,7 @@
       "@type": "Claim",
       "@id": "C-6976",
       "ref": "C-6976",
-      "label": "Epstein's address book labeled certain apartments as \"apartments for models\"",
+      "label": "NY Post says Epstein's address book labeled certain apartments as \"apartments for models\"",
       "claim": "Per the displayed NY Post article, some apartments in the 301 East 66th Street building were labeled in Jeffrey Epstein's address book as \"apartments for models.\"",
       "anchored_artifacts": [
         "A-1835.1"
@@ -2360,7 +2360,7 @@
       "@type": "Claim",
       "@id": "C-7005",
       "ref": "C-7005",
-      "label": "Children of God founder David Berg advocated sexual relations with minors",
+      "label": "Romanian article says Children of God founder David Berg advocated sexual relations with minors",
       "claim": "Per the displayed Romanian investigative article, Children of God founder David Berg claimed incest and sex involving minors were permitted; the article states Berg made his daughter Faithy a sexual partner when she reached age 12.",
       "anchored_artifacts": [
         "A-1839.1"
@@ -2426,7 +2426,7 @@
       "@type": "Claim",
       "@id": "C-7024",
       "ref": "C-7024",
-      "label": "9/10 video shows Charlie's necklace with magnet clasp still attached after impact",
+      "label": "Host says 9/10 video shows Charlie's necklace with magnet clasp still attached after impact",
       "claim": "The host says the displayed video shows Charlie Kirk's necklace whipping upward first after impact, and that the magnet clasp is still on him.",
       "anchored_artifacts": [
         "A-1842.1",
@@ -2449,7 +2449,7 @@
       "@type": "Claim",
       "@id": "C-7031",
       "ref": "C-7031",
-      "label": "9/10 video shows no blood traveling backward from Charlie's position",
+      "label": "Host says 9/10 video shows no blood traveling backward from Charlie's position",
       "claim": "Per the displayed video, the host says no blood is seen heading backward from Charlie Kirk after he is hit, which she says instantly felt wrong for the .30-06 account.",
       "anchored_artifacts": [
         "A-1842.2"
@@ -2622,7 +2622,7 @@
       "@type": "Claim",
       "@id": "C-7035",
       "ref": "C-7035",
-      "label": "9/10 video shows Dan pushing Charlie to the ground",
+      "label": "9/10 video shows a man the host identifies as Dan pushing Charlie to the ground",
       "claim": "Per the displayed video, an individual the host identifies as \"Dan\" is observed pushing Charlie Kirk to the ground after he is hit.",
       "anchored_artifacts": [
         "A-1842.2"
@@ -3423,7 +3423,8 @@
         "N-11081"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:22:23",
       "investigative_direction": "Find Crossman's own statements about cult membership and confirm no public accusation of misconduct exists.",
@@ -3509,7 +3510,7 @@
       "@type": "Claim",
       "@id": "C-7014",
       "ref": "C-7014",
-      "label": "Clip Has Erika Telling Watters Charlie Would Say No to Returning to Earth",
+      "label": "Clip Has Erika Telling Watters She Believes Charlie Would Say No to Returning to Earth",
       "claim": "In the clip from her Jesse Watters interview, Erika Kirk says she believes that if the Lord gave Charlie the option to return and exchange his death for what it will catalyze, he would say no.",
       "anchored_artifacts": [
         "A-2523.1"

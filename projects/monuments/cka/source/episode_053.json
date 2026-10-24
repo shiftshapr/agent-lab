@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:59:35",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: af4744c44da3466f3376062abb7dec86912b17b312a767e95c3978bb41f3a9e8",
+    "- **Transcript SHA-256**: 726e94d3525a6a493afe4f653c379214341a8e54753b1831392da07a39f4da51",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-11036, N-11037, N-11038",
@@ -2728,8 +2728,8 @@
   {
    "kind": "claim",
    "id": "C-4643",
-   "header": "**C-4643** Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
-   "label": "Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
+   "header": "**C-4643** Maggie Wegner Says Daily Wire Auditioned Her for Solo Show Two Days After Ben Shapiro's Amfest Speech",
+   "label": "Maggie Wegner Says Daily Wire Auditioned Her for Solo Show Two Days After Ben Shapiro's Amfest Speech",
    "lines": [
     {
      "raw": ""
@@ -2784,8 +2784,8 @@
   {
    "kind": "claim",
    "id": "C-4645",
-   "header": "**C-4645** Audition Script and AI Video Content Targeted Candace Owens",
-   "label": "Audition Script and AI Video Content Targeted Candace Owens",
+   "header": "**C-4645** Maggie Wegner Says Audition Script and AI Video Targeted Candace Owens",
+   "label": "Maggie Wegner Says Audition Script and AI Video Targeted Candace Owens",
    "lines": [
     {
      "raw": ""

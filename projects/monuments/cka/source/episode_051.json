@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:09:51",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 027972826917e7ed3d60ede399594503c96a505a5fc947c067de3c3bc5488af4",
+    "- **Transcript SHA-256**: c83654b4a43af916488ae266dbea35d2ad80ba335c2ec64ded34bd6126af3fab",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-11027",
@@ -3342,8 +3342,8 @@
   {
    "kind": "claim",
    "id": "C-4458",
-   "header": "**C-4458** Daily Wire reactivated Candace's old YouTube and Instagram and re-released her 2021 joining trailer",
-   "label": "Daily Wire reactivated Candace's old YouTube and Instagram and re-released her 2021 joining trailer",
+   "header": "**C-4458** Host Says Daily Wire Reactivated Her Old YouTube and Instagram and Re-Released Her 2021 Joining Trailer",
+   "label": "Host Says Daily Wire Reactivated Her Old YouTube and Instagram and Re-Released Her 2021 Joining Trailer",
    "lines": [
     {
      "raw": ""
@@ -3442,8 +3442,8 @@
   {
    "kind": "claim",
    "id": "C-4513",
-   "header": "**C-4513** Army sniper comment criticizes Paramount Tactical Valhalla as an embarrassment to veterans",
-   "label": "Army sniper comment criticizes Paramount Tactical Valhalla as an embarrassment to veterans",
+   "header": "**C-4513** Retired Army Law Enforcement Commenter Calls Paramount Tactical Valhalla an Embarrassment to Veterans",
+   "label": "Retired Army Law Enforcement Commenter Calls Paramount Tactical Valhalla an Embarrassment to Veterans",
    "lines": [
     {
      "raw": ""
@@ -4816,10 +4816,6 @@
      "v": "N-10342, N-10353"
     },
     {
-     "k": "Qualifies",
-     "v": "C-4466"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -5146,7 +5142,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6355,10 +6351,6 @@
      "v": "N-10320, N-10415"
     },
     {
-     "k": "Contradicts",
-     "v": "C-3193"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -7025,7 +7017,7 @@
      "v": "N-10345, N-10355"
     },
     {
-     "k": "Qualifies",
+     "k": "Contradicts",
      "v": "C-4351"
     },
     {

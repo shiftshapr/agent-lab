@@ -2477,7 +2477,7 @@
       "@type": "Claim",
       "@id": "C-10991",
       "ref": "C-10991",
-      "label": "Jennifer Faumuina completed Utah DPS post-training on May 20, 2013",
+      "label": "Jennifer Faumuina Apparently Appears in Utah DPS Post-Training Photo Dated May 20, 2013",
       "claim": "Per the training photo the host shows, Jennifer Faumuina apparently appears in a Utah Department of Public Safety post-training session dated May 20, 2013, alongside Beau Mason.",
       "anchored_artifacts": [
         "A-2157.3"
@@ -2497,7 +2497,7 @@
       "@type": "Claim",
       "@id": "C-10986",
       "ref": "C-10986",
-      "label": "Jennifer Faumuina volunteered as a Utah trooper for crowd control at the 2016 RNC in Ohio",
+      "label": "Host Says a 2016 Article Shows Jennifer Faumuina Volunteered for Crowd Control at the 2016 RNC in Ohio",
       "claim": "The host says a 2016 article shows Jennifer Faumuina among the volunteer troopers providing crowd control at the Republican National Convention in Ohio.",
       "anchored_artifacts": [
         "A-2157.4"
@@ -2535,7 +2535,7 @@
       "@type": "Claim",
       "@id": "C-10992",
       "ref": "C-10992",
-      "label": "Faumuina and Beau Mason Photographed Together on May 20, 2013",
+      "label": "Faumuina and Beau Mason Apparently Photographed Together on May 20, 2013",
       "claim": "Per the training photo the host shows, Jennifer Faumuina and Beau Mason apparently appear together in a May 20, 2013 Utah DPS post-training session.",
       "anchored_artifacts": [
         "A-2157.3"
@@ -2663,7 +2663,7 @@
       "@type": "Claim",
       "@id": "C-11001",
       "ref": "C-11001",
-      "label": "Robert Bohls began his career at the Provo Police Department in the early 2000s",
+      "label": "2004 Article Says Robert Bohls Served With the Provo Police Department Before the Military and FBI",
       "claim": "A 2004 article identifies Robert Bohls as having served with the Provo Police Department before joining the military and later the FBI.",
       "anchored_artifacts": [
         "A-2159.1"
@@ -2682,7 +2682,7 @@
       "@type": "Claim",
       "@id": "C-11003",
       "ref": "C-11003",
-      "label": "Misiona Faumuina died in 1995 in Hawaii from injuries sustained in a gang-related beating",
+      "label": "Host Says Misiona Faumuina Died in 1995 in Hawaii After a Beating in a Reported Gang Initiation",
       "claim": "The host says Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.",
       "anchored_artifacts": [
         "A-2160.1"
@@ -4455,10 +4455,8 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-11750"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-986"
       ]

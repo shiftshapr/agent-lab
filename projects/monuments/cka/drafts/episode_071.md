@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:52:22
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 97c9fdd97666fe21235e0b78f317b571904b8f5954ceecd3a37e07ce8587fefb
+- **Transcript SHA-256**: c68132e22117225566aa69a023626ddd635e3f97c0564948ba7aad529cb894c8
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-937, N-938, N-11307, N-11308, N-11309, N-11310, N-11311
@@ -1273,7 +1273,7 @@ Investigative Direction: Obtain full text and verify direct quote attribution.
 
 ---
 
-**C-6356** Tracy's Daughter Scheduled at UVU September 10
+**C-6356** Host Says Tracy Martin Told Friends Her Daughter Was Supposed to Be at UVU September 10
 
 Claim Timestamp: 00:24:52
 
@@ -1421,7 +1421,7 @@ Investigative Direction: Verify any actual book project matching this descriptio
 
 ---
 
-**C-6404** Charlie Kirk Parents Have Not Reached Out to Candace
+**C-6404** Host Says Charlie Kirk's Parents Have Not Reached Out to Candace
 
 Claim Timestamp: 00:45:37
 

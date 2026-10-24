@@ -1980,7 +1980,7 @@
       "@type": "Claim",
       "@id": "C-6825",
       "ref": "C-6825",
-      "label": "Kolvet and McCoy in the West Wing During Fake-Live Kirk Show",
+      "label": "Host's Tweet Says Kolvet, and Possibly McCoy, Were in the West Wing During Fake-Live Kirk Show",
       "claim": "According to a tweet the host says she published, sourced to White House personnel, Andrew Kolvet was in the West Wing on January 29, 2026 while the Charlie Kirk Show presented a pre-recorded interview with Kash Patel as live; the tweet says it is unconfirmed but believed that Mikey McCoy and his wife Elizabeth accompanied him.",
       "anchored_artifacts": [
         "A-1810.1"
@@ -2004,7 +2004,7 @@
       "@type": "Claim",
       "@id": "C-6828",
       "ref": "C-6828",
-      "label": "Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live",
+      "label": "Host Says Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live",
       "claim": "The host says the Charlie Kirk Show episode with Kash Patel was pre-recorded and Andrew Kolvet presented it as though it were live, rather than Patel phoning in live.",
       "anchored_artifacts": [
         "A-1810.1"
@@ -2068,7 +2068,7 @@
       "@type": "Claim",
       "@id": "C-6858",
       "ref": "C-6858",
-      "label": "Epstein Invited to Kates Son's Bar Mitzvah",
+      "label": "Tipster Says Epstein Was Invited to Kates Son's Bar Mitzvah",
       "claim": "The host says a tipster told her that Faith Kates invited Jeffrey Epstein to her son's bar mitzvah, pointing to an email.",
       "anchored_artifacts": [
         "A-1812.2"
@@ -2130,7 +2130,7 @@
       "@type": "Claim",
       "@id": "C-6863",
       "ref": "C-6863",
-      "label": "No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours",
+      "label": "Host Says Erika Kirk and Kolvet Did Not Respond to Her Next Model Management Inquiry",
       "claim": "The host says she emailed Erika Kirk, copying TPUSA spokesperson Andrew Kolvet, asking specifically about the nature of Erika's meetings at Next Model Management NYC, and received no response (\"crickets\").",
       "anchored_artifacts": [
         "A-1815.1"
@@ -2153,7 +2153,7 @@
       "@type": "Claim",
       "@id": "C-6882",
       "ref": "C-6882",
-      "label": "Jezebel Article on Charlie Kirk Witch's Curse Published 9:49 AM AZ Sept 8",
+      "label": "Host Says Jezebel Article on Charlie Kirk Witch's Curse Was Published 9:49 AM AZ Sept 8",
       "claim": "The host says a Jezebel.com article regarding a \"witch's curse\" on Charlie Kirk's life appeared at 9:49 AM Arizona time on September 8, 2025.",
       "anchored_artifacts": [
         "A-1816.1"
@@ -2259,7 +2259,7 @@
       "@type": "Claim",
       "@id": "C-6899",
       "ref": "C-6899",
-      "label": "Blake Neff Confirms Rumble Version of Charlie Kirk Episode Uncut",
+      "label": "Producer Relays That Blake Neff Confirmed Rumble Version of Charlie Kirk Episode Is Uncut",
       "claim": "A message relayed via the host's producer says Blake Neff confirmed the full Charlie Kirk podcast episode, including Neff's own comments about Erika, remains intact on Rumble; only the Twitter stream version was trimmed.",
       "anchored_artifacts": [
         "A-1821.1",
@@ -2342,7 +2342,7 @@
       "@type": "Claim",
       "@id": "C-6810",
       "ref": "C-6810",
-      "label": "Trump Appoints Erika Kirk to Air Force Academy Board",
+      "label": "Host Says Trump Appointed Erika Kirk to Air Force Academy Board",
       "claim": "The host says President Trump has appointed Erika Kirk to the Air Force Academy's board.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3059,7 +3059,8 @@
         "N-10374"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:18:38",
       "investigative_direction": "Find the accusation source and any investigation of the Constanta rotation.",
@@ -3217,7 +3218,8 @@
         "N-10374"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:19:25",
       "investigative_direction": "Identify the source and status of any accusation against the colonel.",
@@ -3934,7 +3936,8 @@
         "N-10353"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:38:58",
       "investigative_direction": "Identify the clinic and source for the alleged meeting.",

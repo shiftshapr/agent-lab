@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:48:40
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: ec70297e4ea4475efe0ea007480a67fe4d47488724c965ac8c0dee4be928d6a0
+- **Transcript SHA-256**: 4ef1a09fefe615bae8471ccb4fdccd6eb837b021afc756d110ed1fe7242d968b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11303, N-11304
@@ -980,7 +980,7 @@ Investigative Direction: Verify through FBIA membership rolls.
 
 ---
 
-**C-5264** Dan Flood's parents are from Illinois in the same area where Charlie Kirk was raised
+**C-5264** Host Says Dan Flood's Parents Are From Illinois in the Area Where Charlie Kirk Was Raised
 
 Claim Timestamp: 00:10:23
 
@@ -995,7 +995,7 @@ Investigative Direction: Cross-reference Illinois address records for Robert Flo
 
 ---
 
-**C-5277** Dan Flood grew up in Allen Texas and graduated high school there
+**C-5277** Host Says Dan Flood Grew Up in Allen Texas and Graduated High School There
 
 Claim Timestamp: 00:12:58
 
@@ -1010,7 +1010,7 @@ Investigative Direction: Verify through Allen Independent School District alumni
 
 ---
 
-**C-5275** Dan Flood resides in New Braunfels Texas
+**C-5275** Host Says Dan Flood Resides in New Braunfels Texas
 
 Claim Timestamp: 00:12:43
 
@@ -1025,7 +1025,7 @@ Investigative Direction: Verify through address records, property records, or vo
 
 ---
 
-**C-5278** Dan Flood previously worked security for a Dallas billionaire at the Cattleman's Ball
+**C-5278** Childhood Friend Says Dan Flood Did Security for a Dallas Billionaire at the Cattleman's Ball
 
 Claim Timestamp: 00:13:36
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Verify through Erath County Sheriff's Office records.
 
 ---
 
-**C-5292** Turning Point USA sent a cease-and-desist letter to Zach De Gregorio at the Wolves and Finance YouTube channel
+**C-5292** Zach De Gregorio of Wolves and Finance Says He Received a TPUSA Cease-and-Desist Letter
 
 Claim Timestamp: 00:20:50
 
@@ -2280,7 +2280,7 @@ Anchored Artifacts: A-1653.7
 Mentions: N-2, N-3
 Related Nodes: N-10392
 Supports: C-5312
-Contradicts: C-5310, C-5180
+Contradicts: C-5310
 Tags: relevance:core
 Investigative Direction: Press TPUSA for the charity name and the dates of Erika's stay; the host's six-month figure comes from Charlie's remark.
 Open Questions: Q-490
@@ -2298,7 +2298,7 @@ Transcript Snippet: she was doing the whole Mitch Snow abused women 20 years ago
 Anchored Artifacts: 
 Mentions: N-361, N-330, N-3
 Related Nodes: N-10342
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Treat the allegation as unverified and attributed only to the commenter; check court records before any use.
 
 ---

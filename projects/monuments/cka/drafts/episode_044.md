@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:57:27
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 4b44fcbfa9593db0051351dbb92918f4843655b202e7f32c7919dca51311b3f6
+- **Transcript SHA-256**: 6521c43fbddeab720a6cb0ae59707a1930cd8fad7a69aa1a783cdb30a0730dd1
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-877, N-878, N-11198, N-11199, N-11200, N-11201, N-11202, N-11204
@@ -827,7 +827,7 @@ Investigative Direction: Pull Candlewood Suites Fort Huachuca guest log for Sept
 
 ---
 
-**C-3833** Harry entered a temporary JTF-SB headquarters on Fort Huachuca on September 9, 2025 at approximately 7:37 AM
+**C-3833** Host Says Harry Told Her He Entered a Temporary JTF-SB Headquarters at About 7:37 AM on September 9, 2025
 
 Claim Timestamp: 00:18:57–00:20:14
 
@@ -842,7 +842,7 @@ Investigative Direction: Cross-reference base access logs and incident report 86
 
 ---
 
-**C-3836** Harry observed approximately 12–13 lieutenant colonels / colonels at the JTF-SB meeting on September 9, 2025
+**C-3836** Host Says Harry Saw About 12–13 Lieutenant Colonels and Colonels at the JTF-SB Meeting
 
 Claim Timestamp: 00:20:14–00:34:46
 
@@ -853,11 +853,13 @@ Mentions: N-318
 
 Related Nodes: N-10305
 
+Verification: revised-by-host
+Verification Evidence: C-3939
 Investigative Direction: Verify through FOIA of incident report 861-1-2025-MPC446 and any meeting attendance logs.
 
 ---
 
-**C-3837** Harry identified Brian Harpole among those exiting the JTF-SB meeting on September 9, 2025
+**C-3837** Host Says Harry Allegedly Identified Brian Harpole Exiting the JTF-SB Meeting on September 9, 2025
 
 Claim Timestamp: 00:20:14–00:22:18
 
@@ -887,7 +889,7 @@ Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captai
 
 ---
 
-**C-3852** Incident report 861-1-2025-MPC446 was generated in connection with Harry's September 9, 2025 encounter at Fort Huachuca
+**C-3852** Host Says Harry Was Given Incident Report 861-1-2025-MPC446 After His Fort Huachuca Encounter
 
 Claim Timestamp: 00:28:13
 
@@ -956,6 +958,7 @@ Mentions: N-313, N-320, N-321, N-322
 
 Related Nodes: N-10309, N-10310, N-10823
 
+Tags: relevance:tangential
 Investigative Direction: Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications.
 
 ---
@@ -970,6 +973,7 @@ Anchored Artifacts: A-1524.1
 Mentions: N-267, N-3
 
 
+Contradicts: C-3881
 Investigative Direction: Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored.
 
 ---
@@ -1944,7 +1948,7 @@ Transcript Snippet: if you're a real estate agent, they said he was um shopping 
 Anchored Artifacts: 
 Mentions: N-320
 Related Nodes: N-10309
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the real estate agents and check Williamson County property records for any purchase by a Jonathan Schmidt.
 
 ---
@@ -2107,7 +2111,7 @@ Transcript Snippet: And I do not believe he's legally allowed to be in this coun
 Anchored Artifacts: 
 Mentions: N-3, N-320
 Related Nodes: N-10309
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Immigration status can be checked only by DHS; ask Root Brands for work-authorization verification (I-9/E-Verify) documentation.
 
 ---
@@ -2141,7 +2145,6 @@ Transcript Snippet: now is trying to signal to the public that I don't have secu
 Anchored Artifacts: 
 Mentions: N-3, N-267
 Related Nodes: N-11203
-Contradicts: C-3882
 Tags: relevance:context
 Investigative Direction: Ask the host to describe her security arrangements; compare with Pool's statements about visiting her home.
 

@@ -1507,7 +1507,7 @@
       "@type": "Claim",
       "@id": "C-11696",
       "ref": "C-11696",
-      "label": "FBI agents arrived at UVU at 12:39 PM, 16 minutes after the 12:23 PM shooting",
+      "label": "Kash Patel Says FBI Agents Arrived at UVU at 12:39 PM, 16 Minutes After the 12:23 PM Shooting",
       "claim": "Per a Kash Patel public statement played in the episode, the first FBI agents arrived at UVU with chiefs of police at 12:39 PM, 16 minutes after the 12:23 PM shooting, and secured the scene.",
       "anchored_artifacts": [
         "A-2226.1"
@@ -1621,7 +1621,7 @@
       "@type": "Claim",
       "@id": "C-11702",
       "ref": "C-11702",
-      "label": "Red-hat man on Losi rooftop identified as Allan Robertson of USU PD",
+      "label": "Muppet Masher Post Identifies Red-Hat Man on Losi Rooftop as Allan Robertson of USU PD",
       "claim": "Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.",
       "anchored_artifacts": [
         "A-2234.1",
@@ -1643,7 +1643,7 @@
       "@type": "Claim",
       "@id": "C-11705",
       "ref": "C-11705",
-      "label": "Blue-shirt man on Losi rooftop identified as Christopher Hawk",
+      "label": "Muppet Masher Post Identifies Blue-Shirt Man on Losi Rooftop as Christopher Hawk",
       "claim": "Per the same Muppet Masher identification, the blue-shirt man walking near the Losi rooftop was identified as Christopher Hawk.",
       "anchored_artifacts": [
         "A-2234.1",
@@ -1665,7 +1665,7 @@
       "@type": "Claim",
       "@id": "C-11703",
       "ref": "C-11703",
-      "label": "Allan Robertson joined the USU police force the summer before the Kirk shooting",
+      "label": "Host Says Allan Robertson Joined the USU Police Force the Summer Before the Kirk Shooting",
       "claim": "The host says Allan Robertson had just joined the USU police force the summer before the September 2025 shooting, and shows a Facebook announcement that he had joined.",
       "anchored_artifacts": [
         "A-2228.1"
@@ -1717,8 +1717,11 @@
       "mentions_person_refs": [
         "N-748"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-11791",
+        "C-11796"
+      ]
     },
     {
       "@type": "Claim",
@@ -1745,7 +1748,7 @@
       "@type": "Claim",
       "@id": "C-11727",
       "ref": "C-11727",
-      "label": "US Central Command officer emailed a request for creative and unconventional ideas to pressure Iran",
+      "label": "CNN Reports US Central Command Officer Emailed a Request for Creative and Unconventional Ideas to Pressure Iran",
       "claim": "A CNN report described an email from a senior US Central Command intelligence-branch officer, sent on a Wednesday to a broad group of military analysts, soliciting new creative and unconventional ideas for pressuring Iran.",
       "anchored_artifacts": [
         "A-2230.1"
@@ -2601,7 +2604,8 @@
         "N-10700"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:24:53",
       "investigative_direction": "Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.",

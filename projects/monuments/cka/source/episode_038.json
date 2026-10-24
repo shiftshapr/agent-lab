@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:02:01",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268",
+    "- **Transcript SHA-256**: 332dd0815255016b13b0be7c7c733b05bd77a8e2a237f0aca56e7511264bd8b4",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10e): N-875, N-11193, N-11194, N-11195, N-11196",
@@ -4661,8 +4661,8 @@
   {
    "kind": "claim",
    "id": "C-3365",
-   "header": "**C-3365** French Street Name Dates From 1790s Refugee Settlement",
-   "label": "French Street Name Dates From 1790s Refugee Settlement",
+   "header": "**C-3365** Source Email Says French Street Name Dates From 1790s Refugee Settlement",
+   "label": "Source Email Says French Street Name Dates From 1790s Refugee Settlement",
    "lines": [
     {
      "raw": ""
@@ -4707,8 +4707,8 @@
   {
    "kind": "claim",
    "id": "C-3360",
-   "header": "**C-3360** Three federal agencies operate at 920 North King Street, Wilmington",
-   "label": "Three federal agencies operate at 920 North King Street, Wilmington",
+   "header": "**C-3360** Host Says Three Federal Agencies Operate at 920 North King Street, Wilmington",
+   "label": "Host Says Three Federal Agencies Operate at 920 North King Street, Wilmington",
    "lines": [
     {
      "raw": ""
@@ -4753,8 +4753,8 @@
   {
    "kind": "claim",
    "id": "C-3366",
-   "header": "**C-3366** Bank of America vacated Bracebridge Complex in 2018",
-   "label": "Bank of America vacated Bracebridge Complex in 2018",
+   "header": "**C-3366** Source Email Says Bank of America Vacated Bracebridge Complex in 2018",
+   "label": "Source Email Says Bank of America Vacated Bracebridge Complex in 2018",
    "lines": [
     {
      "raw": ""
@@ -4849,8 +4849,8 @@
   {
    "kind": "claim",
    "id": "C-3368",
-   "header": "**C-3368** 2024 legislation provided support to Longwood Foundation",
-   "label": "2024 legislation provided support to Longwood Foundation",
+   "header": "**C-3368** Source Email Says 2024 Legislation Provided Support to Longwood Foundation",
+   "label": "Source Email Says 2024 Legislation Provided Support to Longwood Foundation",
    "lines": [
     {
      "raw": ""
@@ -4899,8 +4899,8 @@
   {
    "kind": "claim",
    "id": "C-3376",
-   "header": "**C-3376** Hervé Hoppenot served as long-time CEO of Incyte",
-   "label": "Hervé Hoppenot served as long-time CEO of Incyte",
+   "header": "**C-3376** Source Email Says Hervé Hoppenot Served as Long-Time CEO of Incyte",
+   "label": "Source Email Says Hervé Hoppenot Served as Long-Time CEO of Incyte",
    "lines": [
     {
      "raw": ""
@@ -4999,8 +4999,8 @@
   {
    "kind": "claim",
    "id": "C-3374",
-   "header": "**C-3374** FBI presence at 500 North Delaware Avenue",
-   "label": "FBI presence at 500 North Delaware Avenue",
+   "header": "**C-3374** Source Email Says FBI Apparently Has a Suite at 500 North Delaware Avenue",
+   "label": "Source Email Says FBI Apparently Has a Suite at 500 North Delaware Avenue",
    "lines": [
     {
      "raw": ""
@@ -5122,10 +5122,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10276"
-    },
-    {
-     "k": "Revises",
-     "v": "C-3195"
     },
     {
      "k": "Investigative Direction",

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:55:47
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 2d8a535e348680bde91bd9e251254cedc97656a8880bb2edfe4356e92aed4629
+- **Transcript SHA-256**: e63b81bd31780754c1a5f9738bf0b0de8c3470d031dac95780ea0d3f54c61238
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-731, N-732, N-734, N-736, N-10976, N-10978
@@ -884,6 +884,7 @@ Mentions: N-367, N-502, N-503
 
 Related Nodes: N-10652
 
+Tags: relevance:tangential
 Investigative Direction: Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.
 
 **C-10727** Host Says Stephen Phillip Worked at Bank of America Merrill Lynch Chicago
@@ -925,7 +926,7 @@ Related Nodes: N-10652
 
 Investigative Direction: Employment records, military transition records, and public corporate directories would verify the claim.
 
-**C-10760** Andrew Kolvet Conceded Charlie Kirk Declined Having Netanyahu on Show
+**C-10760** Andrew Kolvet Says They Declined Having Netanyahu on Charlie Kirk's Show
 
 Claim Timestamp: 00:41:46
 
@@ -951,7 +952,7 @@ Investigative Direction: Obtain the full NCRI report text; review methodology an
 
 ---
 
-**C-10695** Emails From Fashion, Sewing and Medical Senders Identified Object as Shirt Remains
+**C-10695** Host Says Emailers From Fashion, Sewing and Medical Fields Insisted Object Was Shirt Remains
 
 Claim Timestamp: 00:02:30
 
@@ -983,7 +984,7 @@ Investigative Direction: Verify the sender's credentials and have a burn special
 
 ---
 
-**C-10697** Coleman Says Kirk's Shirt Was 100% Polyester
+**C-10697** Coleman Thinks Kirk's Shirt Was 100% Polyester
 
 Claim Timestamp: 00:05:55
 
@@ -1012,7 +1013,7 @@ Investigative Direction: Compare dated public statements by Kolvet and Neff befo
 
 ---
 
-**C-10700** Blake Neff Hired in 2022 After Leaving Fox News
+**C-10700** Host Says Blake Neff Was Hired in 2022 After Leaving Fox News
 
 Claim Timestamp: 00:09:26
 
@@ -1029,7 +1030,7 @@ Investigative Direction: Neff's employment history (Fox News departure, hiring d
 
 ---
 
-**C-10701** Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him
+**C-10701** Host Says Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him
 
 Claim Timestamp: 00:09:26
 
@@ -1058,7 +1059,7 @@ Investigative Direction: Retrieve Neff's original post from X with its timestamp
 
 ---
 
-**C-10703** MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center
+**C-10703** Host Says MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center
 
 Claim Timestamp: 00:10:11
 
@@ -1087,7 +1088,7 @@ Investigative Direction: Neff's biography, Marine Corps or contractor records of
 
 ---
 
-**C-10705** Mikey McCoy Rented Two SUVs; First Carried Charlie, McCoy, Turek and McGovern
+**C-10705** Host Says Mikey McCoy Rented Two SUVs; First Carried Charlie, McCoy, Turek and McGovern
 
 Claim Timestamp: 00:11:42
 
@@ -1102,7 +1103,7 @@ Investigative Direction: Salt Lake City rental agreement(s) in McCoy's name and 
 
 ---
 
-**C-10706** Kirk Flew Into Salt Lake City, Not Provo, for Restaurant Event and Andrew Smith Interview
+**C-10706** Host Says Kirk Flew Into Salt Lake City, Not Provo, for Restaurant Event and Andrew Smith Interview
 
 Claim Timestamp: 00:11:42
 
@@ -1148,7 +1149,7 @@ Investigative Direction: Phone location data, SUV telematics and rental records 
 
 ---
 
-**C-10712** McCoy Was on the Phone With Danny Philip Before and After the Shooting
+**C-10712** Host Says McCoy Was on the Phone With Danny Philip Before and After the Shooting
 
 Claim Timestamp: 00:16:38
 
@@ -1163,7 +1164,7 @@ Investigative Direction: Mikey McCoy's carrier call detail records for September
 
 ---
 
-**C-10713** Danny Philip Graduated College in May 2025 and Was Hired Straight Out for Charlie's Staff
+**C-10713** Host Says Danny Philip Graduated College in May 2025 and Was Hired Straight Out for Charlie's Staff
 
 Claim Timestamp: 00:16:38
 
@@ -1177,7 +1178,7 @@ Investigative Direction: Turning Point USA hiring and payroll records for Philip
 
 ---
 
-**C-10714** Danny Philip Was Charlie's Assistant, Interned the Prior Summer, and Flew Private to Salt Lake City
+**C-10714** Host Says Danny Philip Was Charlie's Assistant, Interned the Prior Summer, and Flew Private to Salt Lake City
 
 Claim Timestamp: 00:17:27
 
@@ -1262,6 +1263,7 @@ Anchored Artifacts: A-2783.1
 Mentions: N-502, N-1, N-3, N-367
 Related Nodes: N-10976
 Supports: C-10720
+Tags: relevance:tangential
 Investigative Direction: The host's email from Patrick (headers, date, full text) and Patrick's relationship to Danny Philip.
 
 ---
@@ -1341,7 +1343,7 @@ Investigative Direction: Archived copies of the father's LinkedIn profile and Ar
 
 ---
 
-**C-10726** Tyler Bowyer Speaks Russian and Majored in Russian Studies, as Did Philip's Father
+**C-10726** Host Says Tyler Bowyer Speaks Russian and Majored in Russian Studies, as Did Philip's Father
 
 Claim Timestamp: 00:22:09
 
@@ -1387,7 +1389,7 @@ Investigative Direction: Family statements, church or adoption announcements by 
 
 ---
 
-**C-10730** Stephen Phillip Was a Vice President at Bank of America Merrill Lynch Chicago
+**C-10730** Host Says Stephen Phillip Is a Vice President at Bank of America Merrill Lynch Chicago
 
 Claim Timestamp: 00:23:55
 
@@ -1403,7 +1405,7 @@ Investigative Direction: Bank of America Merrill Lynch directory or FINRA broker
 
 ---
 
-**C-10733** Erika's Cousin Dennis Frantzve Showed Her Around Romania With the Black Sea Rotational Force
+**C-10733** Host Says Erika's Cousin Dennis Frantzve Showed Her Around Romania and the Black Sea Rotational Force
 
 Claim Timestamp: 00:24:41
 
@@ -1419,7 +1421,7 @@ Investigative Direction: Romania trip records, Erika Kirk's own accounts of the 
 
 ---
 
-**C-10734** Bank of America Was Sued Over Managing Leon Black's Wealth in the Epstein Case
+**C-10734** Host Says Bank of America Was Sued Over Managing Leon Black's Wealth in the Epstein Case
 
 Claim Timestamp: 00:25:34
 
@@ -1434,7 +1436,7 @@ Investigative Direction: Court filings in the Epstein victims' suit against Bank
 
 ---
 
-**C-10735** Bank of America Moved $170 Million to Epstein and Was Sued for Not Flagging It
+**C-10735** Host Says Bank of America Moved $170 Million to Epstein and Was Sued for Not Flagging It
 
 Claim Timestamp: 00:26:18
 
@@ -1569,7 +1571,7 @@ Investigative Direction: The original NCRI report with its date, and any Kirk pu
 
 ---
 
-**C-10744** Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board
+**C-10744** Host Says Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board
 
 Claim Timestamp: 00:32:32
 

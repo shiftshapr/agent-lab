@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:59:41
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 96bdf8580abb4cedfb15c84e3fc6f2b56488e802cc03c0adb8c91e6d3d6c96f2
+- **Transcript SHA-256**: 0b01f9bf38336b1c72bae82beeb86d630226c9ad841f53a3be6ffb894688760b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11272
@@ -978,7 +978,7 @@ Investigative Direction: Locate TPUSA's original release of the clip; obtain tim
 
 ---
 
-**C-9057** Marcus Wada provides AI voice services for TPUSA presentations
+**C-9057** Source Says Marcus Wada Provides AI Voice Services for TPUSA Presentations
 
 Claim Timestamp: 00:07:32
 
@@ -993,7 +993,7 @@ Investigative Direction: Verify Wada's TPUSA employment and the scope of his AI 
 
 ---
 
-**C-9058** TPUSA typically uses AI-cloned voice of Pastor John Amanchukwu in presentations
+**C-9058** Source Says TPUSA Typically Uses AI-Cloned Voice of Pastor John Amanchukwu in Presentations
 
 Claim Timestamp: 00:07:32
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Obtain archived LinkedIn captures showing both versions
 
 ---
 
-**C-9075** ASU did not offer international relations degree in 2012
+**C-9075** Researchers Say ASU Did Not Offer an International Relations Degree in 2012
 
 Claim Timestamp: 00:18:59
 
@@ -1205,7 +1205,7 @@ Investigative Direction: Locate the original alibi photo and Andrew Kolvet's acc
 
 ---
 
-**C-9135** Paramount Tactical admitted the Fort Huachuca alibi photo boy is not Erika Kirk's son
+**C-9135** Host Says Paramount Tactical Admitted the Fort Huachuca Alibi Photo Boy Is Not Erika Kirk's Son
 
 Claim Timestamp: 00:52:24
 
@@ -1220,7 +1220,7 @@ Investigative Direction: Locate Paramount Tactical's specific admission statemen
 
 ---
 
-**C-9136** Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla
+**C-9136** Host Says Andrew Kolvet Coordinated Erika Alibi Pushback With Paramount Tactical and Valhalla
 
 Claim Timestamp: 00:52:24
 
@@ -2393,7 +2393,7 @@ Transcript Snippet: they were telling me the opposite or trying to tell me the o
 Anchored Artifacts: 
 Mentions: N-361, N-3
 Related Nodes: N-10820, N-10921
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Compare their messages to the host with their calls to Mitch.
 Open Questions: Q-843
 

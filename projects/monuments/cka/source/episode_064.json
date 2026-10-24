@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:08:55",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234",
+    "- **Transcript SHA-256**: 46f40ae46f4ba81b70c55c9648f2ee89a7e350249d937dfc76a4a60f7b0bc17e",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-853, N-11159, N-11160",
@@ -3404,8 +3404,8 @@
   {
    "kind": "claim",
    "id": "C-5708",
-   "header": "**C-5708** TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote",
-   "label": "TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote",
+   "header": "**C-5708** Host Says TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote",
+   "label": "Host Says TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote",
    "lines": [
     {
      "raw": ""
@@ -3450,8 +3450,8 @@
   {
    "kind": "claim",
    "id": "C-5709",
-   "header": "**C-5709** TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained",
-   "label": "TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained",
+   "header": "**C-5709** TPUSA Board Letter Invoked Ecclesiastes and Framed the Moment as a Test From God",
+   "label": "TPUSA Board Letter Invoked Ecclesiastes and Framed the Moment as a Test From God",
    "lines": [
     {
      "raw": ""
@@ -3496,8 +3496,8 @@
   {
    "kind": "claim",
    "id": "C-5750",
-   "header": "**C-5750** Jeremy Boreing Described Hiring Candace Owens as His \"Biggest Professional Mistake\"",
-   "label": "Jeremy Boreing Described Hiring Candace Owens as His \"Biggest Professional Mistake\"",
+   "header": "**C-5750** Jeremy Boreing Said Hiring Candace Owens Was \"Probably\" His Biggest Professional Mistake",
+   "label": "Jeremy Boreing Said Hiring Candace Owens Was \"Probably\" His Biggest Professional Mistake",
    "lines": [
     {
      "raw": ""
@@ -4810,10 +4810,6 @@
      "v": "N-10415"
     },
     {
-     "k": "Contradicts",
-     "v": "C-4114"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -5470,14 +5466,6 @@
     {
      "k": "Qualifies",
      "v": "C-5411"
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-7453"
     },
     {
      "k": "Investigative Direction",
@@ -6748,8 +6736,8 @@
   {
    "kind": "claim",
    "id": "C-5732",
-   "header": "**C-5732** Erika Closed the Main Address Saying She Felt Blessed and Honored",
-   "label": "Erika Closed the Main Address Saying She Felt Blessed and Honored",
+   "header": "**C-5732** Erika Says She Feels Blessed and Honored",
+   "label": "Erika Says She Feels Blessed and Honored",
    "lines": [
     {
      "raw": ""

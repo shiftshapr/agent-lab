@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:29",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 95f8b851983eeb6236c86655647510896988e621e75778a3c5ea5286c4493c32",
+    "- **Transcript SHA-256**: b1eda451402b2a7a29f8da245b73cb7160cdd14ebc9de423cfb6c3af8f0474c6",
     "",
     "- **Episode Ledger Summary**:",
     "  - Hole-minted Nodes (reintro-ep068): ",
@@ -2850,8 +2850,8 @@
   {
    "kind": "claim",
    "id": "C-6103",
-   "header": "**C-6103** Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
-   "label": "Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
+   "header": "**C-6103** Host Says Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
+   "label": "Host Says Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
    "lines": [
     {
      "k": "Claim Timestamp",
@@ -2891,8 +2891,8 @@
   {
    "kind": "claim",
    "id": "C-6105",
-   "header": "**C-6105** Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown",
-   "label": "Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown",
+   "header": "**C-6105** Host Says Sept 7, 2025 Erika Kirk Post Showed Mother Appearing Vulnerable With Countdown",
+   "label": "Host Says Sept 7, 2025 Erika Kirk Post Showed Mother Appearing Vulnerable With Countdown",
    "lines": [
     {
      "k": "Claim Timestamp",
@@ -3318,8 +3318,8 @@
   {
    "kind": "claim",
    "id": "C-6112",
-   "header": "**C-6112** Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick",
-   "label": "Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick",
+   "header": "**C-6112** Host Says Justin Streiff Texted Her That Erika's Mother Was Very Sick",
+   "label": "Host Says Justin Streiff Texted Her That Erika's Mother Was Very Sick",
    "lines": [
     {
      "k": "Claim Timestamp",
@@ -3379,6 +3379,10 @@
      "v": "N-539, N-543"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify via Delaware court records and contemporaneous news coverage."
     },
@@ -3396,8 +3400,8 @@
   {
    "kind": "claim",
    "id": "C-6138",
-   "header": "**C-6138** Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
-   "label": "Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
+   "header": "**C-6138** Host Says Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
+   "label": "Host Says Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
    "lines": [
     {
      "k": "Claim Timestamp",
@@ -5868,8 +5872,8 @@
   {
    "kind": "claim",
    "id": "C-6134",
-   "header": "**C-6134** Shapiro clip says Candace told Bassem Youssef about his childhood",
-   "label": "Shapiro clip says Candace told Bassem Youssef about his childhood",
+   "header": "**C-6134** Shapiro clip says Candace told Bassem Youssef she thinks something bad happened in his childhood",
+   "label": "Shapiro clip says Candace told Bassem Youssef she thinks something bad happened in his childhood",
    "lines": [
     {
      "raw": ""

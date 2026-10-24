@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:54:28
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 4e547f289a22113447c93d2ca9fef0dd0e07226713c206cab6e09945e3c02cb8
+- **Transcript SHA-256**: 3c3dfb6d8b79e5a27bbaa14fec7d123b7ae9585e48e579b6d923070cff0c3995
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11061
@@ -847,7 +847,7 @@ Investigative Direction: Request the team's fact-check documentation; cross-refe
 
 ---
 
-**C-11819** Some Catholic funeral homes in Arizona offer cremation services, contrary to standard Catholic doctrine
+**C-11819** Candace Owens Says Some Catholic Funeral Homes in Arizona Offer Cremation, Contrary to Catholic Doctrine
 
 Claim Timestamp: 00:49:05
 
@@ -1453,7 +1453,7 @@ Transcript Snippet: He said he abs absolutely was not let go or transferred over
 Anchored Artifacts: A-2885.1
 Mentions: N-748, N-3
 Related Nodes: N-10700
-Qualifies: C-11715
+Revises: C-11715
 Tags: relevance:core
 Investigative Direction: Obtain Robertson's San Bernardino employment separation records and the Brady list entry details.
 Open Questions: Q-1053
@@ -1539,7 +1539,7 @@ Transcript Snippet: by all accounts, it seems like he left by on his own valitio
 Anchored Artifacts: A-2885.1
 Mentions: N-748, N-3
 Related Nodes: N-10700
-Qualifies: C-11715
+Revises: C-11715
 Tags: relevance:core
 Investigative Direction: Confirm through a San Bernardino records request that his separation was voluntary and why a Brady entry exists.
 Open Questions: Q-1053
@@ -1714,7 +1714,7 @@ Investigative Direction: Retrieve the original press-conference recordings for b
 
 ---
 
-**C-11809** Sky Clip Says an Analyst Spotted the School in 2019 but the Change Was Not Passed Up the Chain
+**C-11809** Sky Clip Says an Analyst Reportedly Spotted the School in 2019 but It Was Not Passed Up the Chain
 
 Claim Timestamp: 00:39:34
 

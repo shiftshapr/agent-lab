@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:52:35",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: cd9e59e9564d3269c2ae61263c05f67dbccdca4b58de59c5ca01c69abc42da57",
+    "- **Transcript SHA-256**: 4d02fe018128c7f8dc912756b6880dc4b14aeac6f7ba45846b8da51ec210b7f7",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-11254, N-11255, N-11256",
@@ -2883,6 +2883,10 @@
      "v": "N-10382"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition."
     },
@@ -3367,6 +3371,10 @@
      "v": "N-10384"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain original complaint; verify specificity of allegations; confirm Havsgaard's status (former pastor/missionary)."
     },
@@ -3378,8 +3386,8 @@
   {
    "kind": "claim",
    "id": "C-5047",
-   "header": "**C-5047** Twenty-Three Former Residents Expected to File Complaints",
-   "label": "Twenty-Three Former Residents Expected to File Complaints",
+   "header": "**C-5047** Law Firm Says It Expects Twenty-Three Former Residents to File Complaints",
+   "label": "Law Firm Says It Expects Twenty-Three Former Residents to File Complaints",
    "lines": [
     {
      "raw": ""
@@ -3586,8 +3594,8 @@
   {
    "kind": "claim",
    "id": "C-4995",
-   "header": "**C-4995** Anchor Plane Arrived in Provo May 23; SUBTU Followed May 27 With Wed Mahmoud Aboard",
-   "label": "Anchor Plane Arrived in Provo May 23; SUBTU Followed May 27 With Wed Mahmoud Aboard",
+   "header": "**C-4995** Host Says Anchor Plane Arrived in Provo May 23; SUBTU Followed May 27 With Wed Mahmoud Aboard",
+   "label": "Host Says Anchor Plane Arrived in Provo May 23; SUBTU Followed May 27 With Wed Mahmoud Aboard",
    "lines": [
     {
      "raw": ""
@@ -3613,6 +3621,14 @@
     {
      "k": "Mentions",
      "v": "N-305"
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-5001"
     },
     {
      "k": "Investigative Direction",
@@ -4586,7 +4602,7 @@
      "v": "N-10292"
     },
     {
-     "k": "Qualifies",
+     "k": "Revises",
      "v": "C-4995"
     },
     {
@@ -5351,7 +5367,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5416,7 +5432,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6481,7 +6497,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–00:58:50
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
+- **Transcript SHA-256**: 73410cc1c733ea79734f5e34c2412cc89227f73dbbd66197224181afafb32722
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-931, N-11294
@@ -816,7 +816,7 @@ The host's theory that handlers were sent out after Kanye West's 2018 tweet to b
 
 ## V. Claim Register
 
-**C-1734** Mikey McCoy Phone-to-Ear Timing Measured at 834 Milliseconds
+**C-1734** Host Says Mikey McCoy Phone-to-Ear Timing Is 834 Milliseconds
 
 Claim Timestamp: 00:10:34–00:11:27
 
@@ -1053,7 +1053,7 @@ Investigative Direction: Obtain any written cease-and-desist or formal litigatio
 
 ---
 
-**C-1765** Camera Operator Brought into TPUSA by Tyler Bowyer
+**C-1765** Host States Camera Operator Was Brought into TPUSA by Tyler Bowyer
 
 Claim Timestamp: 00:23:56
 
@@ -1081,7 +1081,7 @@ Investigative Direction: Verify via TPUSA organizational records.
 
 ---
 
-**C-1723** Stacy Sheridan Brought into TPUSA by Tyler Bowyer
+**C-1723** Host States Stacy Sheridan Was Brought into TPUSA by Tyler Bowyer
 
 Claim Timestamp: 00:04:39
 
@@ -1138,7 +1138,7 @@ Investigative Direction: Locate original comment thread.
 
 ---
 
-**C-1798** Tyler Robinson Court Appearance via Zoom Without Face Visibility
+**C-1798** Commenter Says Tyler Robinson Appeared in Court via Zoom Without Showing His Face
 
 Claim Timestamp: 00:53:26
 

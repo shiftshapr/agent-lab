@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:55:28
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864
+- **Transcript SHA-256**: 6ff9bd2435a4d7bdf8bfade5d0b74e9cf5d6040c3fbefb141fcaa54b04d36435
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-708, N-10928
@@ -889,7 +889,7 @@ Persistent investigative target on how Tyler Robinson came into custody, includi
 
 ## 5. Claim Register
 
-**C-3176** White House Contacted Candace Owens via Charlie Kirk About Macron Topic (Feb 24, 2025)
+**C-3176** Charlie Kirk Texted Candace Owens That the White House Asked Him to Call Her (Feb 24, 2025)
 
 Claim Timestamp: 00:12:20
 
@@ -928,7 +928,7 @@ Investigative Direction: Obtain the underlying court filings and motion-to-dismi
 
 ---
 
-**C-3214** Brian Harpole Presented Flood–Long Text Exchange as His Own Communication
+**C-3214** Host Asserts Brian Harpole Presented Flood–Long Text Exchange as His Own Communication
 
 Claim Timestamp: 00:34:36
 
@@ -1606,8 +1606,6 @@ Anchored Artifacts:
 Mentions: N-36, N-1
 Related Nodes: N-10320
 Supports: C-84
-Verification: revised-by-host
-Verification Evidence: C-4497
 Investigative Direction: Identify the host's source for the offer and any written record of the offer and its refusal.
 
 ---
@@ -1638,8 +1636,6 @@ Transcript Snippet: It's Paris Design Week and she's photographed uh with the Mi
 Anchored Artifacts: A-2726.1
 Mentions: N-82
 Related Nodes: N-10276
-Verification: revised-by-host
-Verification Evidence: C-3388
 Investigative Direction: Obtain the dated photographs of the September 3 event and the Paris departure record for SU-BTT on September 4.
 
 ---
@@ -1851,6 +1847,7 @@ Transcript Snippet: Whether you're talking about George Zinn or the person that 
 Anchored Artifacts: 
 Mentions: N-42, N-3
 Related Nodes: N-10232
+Tags: relevance:tangential
 Investigative Direction: Cross-check each named person against court records for abuse allegations or convictions.
 
 ---

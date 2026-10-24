@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:00:18
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: d8ac9dcae0b91121530d5b459c0a6eaf3c4d712dba6ebd3a7938c49f5956f34e
+- **Transcript SHA-256**: 5b28f4a30639ede9594247b7782f07098479825b364c157c9f115b1fe135a73f
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-729, N-730, N-10974
@@ -951,7 +951,7 @@ Investigative Direction: Obtain original local-media footage and timestamp; docu
 
 ---
 
-**C-10251** Sara Tewell's ABC Interview Asserted Shooter at ~200 Yards
+**C-10251** Sara Tewell's ABC Interview Said She Thought the Shooter Was About 200 Yards Away
 
 Claim Timestamp: 00:21:43
 
@@ -1060,7 +1060,7 @@ Investigative Direction: Obtain original Miss Arizona-era signed documents from 
 
 ---
 
-**C-10224** TPUSA moved to sell the "freedom shirt" for $59.99 after Charlie's death
+**C-10224** Host Says TPUSA Moved to Sell the "Freedom Shirt" for $59.99 After Charlie's Death
 
 Claim Timestamp: 00:01:11
 
@@ -1090,7 +1090,7 @@ Investigative Direction: Locate Coleman's early posts or videos on the shirt and
 
 ---
 
-**C-10226** Soil was dug out and the site repaved within days
+**C-10226** Host Says Soil Was Dug Out and the Site Repaved Within Days
 
 Claim Timestamp: 00:03:41
 
@@ -1106,7 +1106,7 @@ Investigative Direction: Obtain UVU facilities work orders and the paving contra
 
 ---
 
-**C-10227** Necklace was sought by the feds and Frank Turek and then given to the widow
+**C-10227** Host Says the Necklace Was Sought by the Feds and Frank Turek and Then Given to the Widow
 
 Claim Timestamp: 00:03:41
 
@@ -1121,7 +1121,7 @@ Investigative Direction: Identify who recovered the necklace, any evidence log e
 
 ---
 
-**C-10228** Handheld microphone was not kept in evidence and went on display
+**C-10228** Host Says the Handheld Microphone Was Not Kept in Evidence and Went on Display
 
 Claim Timestamp: 00:04:26
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Compare Harpole's earlier statements on CPR with the Sh
 
 ---
 
-**C-10235** Kash Patel took the cameras from inside the hospital
+**C-10235** Host Says Kash Patel Took the Cameras From Inside the Hospital
 
 Claim Timestamp: 00:09:30
 
@@ -1265,7 +1265,7 @@ Investigative Direction: Check the State's exhibit and evidence lists in the Rob
 
 ---
 
-**C-10238** The SUV was towed, cleaned and auctioned expeditiously
+**C-10238** Host Says the SUV Was Towed, Cleaned and Auctioned Expeditiously
 
 Claim Timestamp: 00:12:20
 
@@ -1358,7 +1358,7 @@ Investigative Direction: Compare with the event video to establish the topic bei
 
 ---
 
-**C-10248** Sara Tewell's two interviews were at about 1:17 p.m. and 2:08 p.m.
+**C-10248** Host Says Sara Tewell's Two Interviews Were at About 1:17 p.m. and 2:08 p.m.
 
 Claim Timestamp: 00:19:54
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Measure the distance from the courtyard seat to the Los
 
 ---
 
-**C-10252** Bomb dogs were kept away from the scene
+**C-10252** Host Says Bomb Dogs Were Kept Away From the Scene
 
 Claim Timestamp: 00:22:45
 
@@ -1403,7 +1403,7 @@ Investigative Direction: Obtain UVU/Utah DPS incident logs showing whether and w
 
 ---
 
-**C-10253** No standard gunshot residue test was done on Tyler Robinson
+**C-10253** Host Says No Standard Gunshot Residue Test Was Done on Tyler Robinson
 
 Claim Timestamp: 00:22:45
 
@@ -1433,7 +1433,7 @@ Investigative Direction: Review the State's disclosed footage and witness list f
 
 ---
 
-**C-10255** Farnsworth violated the crime scene to remove the back footage
+**C-10255** Host Says Farnsworth Violated the Crime Scene to Remove the Back Footage
 
 Claim Timestamp: 00:22:45
 
@@ -1448,7 +1448,7 @@ Investigative Direction: Obtain the original camera files, chain-of-custody reco
 
 ---
 
-**C-10256** No ambulance was on standby
+**C-10256** Host Says No Ambulance Was on Standby
 
 Claim Timestamp: 00:23:38
 
@@ -1465,7 +1465,7 @@ Investigative Direction: Obtain UVU's event safety plan and any medical-standby 
 
 ---
 
-**C-10257** Erika was quick to forgive Tyler Robinson
+**C-10257** Host Says Erika Was Quick to Forgive Tyler Robinson
 
 Claim Timestamp: 00:23:38
 
@@ -1480,7 +1480,7 @@ Investigative Direction: Locate the original memorial-service remarks and compar
 
 ---
 
-**C-10258** Evidence against Robinson comes through a roommate's text confession
+**C-10258** Host Says the Only Clear Evidence Against Robinson Is a Roommate's Text Confession
 
 Claim Timestamp: 00:24:46
 
@@ -1510,7 +1510,7 @@ Investigative Direction: Check the charging documents and affidavit for the note
 
 ---
 
-**C-10261** Twiggs was not held for questioning by the FBI
+**C-10261** Host Says Twiggs Was Not Held for Questioning by the FBI
 
 Claim Timestamp: 00:25:38
 
@@ -1525,7 +1525,7 @@ Investigative Direction: Obtain FBI and county records of any interview or deten
 
 ---
 
-**C-10263** Prosecutors will represent Erika as the listed victim
+**C-10263** Host Says Prosecutors Will Represent Erika as the Listed Victim
 
 Claim Timestamp: 00:26:28
 
@@ -1589,7 +1589,7 @@ Investigative Direction: Read the written ruling for the court's reasoning on ad
 
 ---
 
-**C-10267** Defense has not been given access to the text messages to verify them
+**C-10267** Host Says the Defense Has Not Been Given Access to the Text Messages to Verify Them
 
 Claim Timestamp: 00:27:11
 
@@ -1635,7 +1635,7 @@ Investigative Direction: Identify the building and obtain leasing, agency and li
 
 ---
 
-**C-10270** Faith Kates appears throughout Epstein's emails
+**C-10270** Host Says Faith Kates Appears Throughout Epstein's Emails
 
 Claim Timestamp: 00:33:03
 
@@ -1651,7 +1651,7 @@ Investigative Direction: Search the released Epstein email set for Kates and qua
 
 ---
 
-**C-10271** Epstein hung out at the agency's office regularly
+**C-10271** Host Says Epstein Hung Out at the Agency's Office Regularly
 
 Claim Timestamp: 00:33:03
 
@@ -1696,7 +1696,7 @@ Investigative Direction: Check New York property records for buildings owned by 
 
 ---
 
-**C-10274** TPUSA did not respond to a request for comment
+**C-10274** Host Says TPUSA Did Not Respond to a Request for Comment
 
 Claim Timestamp: 00:33:58
 
@@ -1758,7 +1758,7 @@ Investigative Direction: Cite court findings and released documents regarding Br
 
 ---
 
-**C-10278** Faith Kates stood by Epstein after his conviction
+**C-10278** Host Says Faith Kates Stood by Epstein After His Conviction
 
 Claim Timestamp: 00:35:30
 
@@ -1864,7 +1864,7 @@ Investigative Direction: Obtain the emails with the senders' relation to Erika a
 
 ---
 
-**C-10286** Erika was 24 when she was Miss Arizona
+**C-10286** Host Says Erika Was 24 When She Was Miss Arizona
 
 Claim Timestamp: 00:39:46
 
@@ -1890,8 +1890,6 @@ Transcript Snippet: In January, she's telling employees via a conference call sh
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-10974
-Verification: revised-by-host
-Verification Evidence: C-10288
 Investigative Direction: Obtain a recording or transcript of the January all-staff call.
 
 ---
@@ -1907,7 +1905,6 @@ Transcript Snippet: Fast forward to June, she's now angry on stage telling donor
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-10974
-Contradicts: C-10287
 Investigative Direction: Obtain video of the June donor event and compare the statements with the January call.
 
 ---
@@ -1928,7 +1925,7 @@ Investigative Direction: Obtain Tucker Carlson's own account of the Maine dinner
 
 ---
 
-**C-10290** Erika is now radically pro-Israel and welcomed Shapiro to open AmFest
+**C-10290** Host Says Erika Is Now Radically Pro-Israel and Welcomed Shapiro to Open AmFest
 
 Claim Timestamp: 00:42:01
 
@@ -1944,7 +1941,7 @@ Investigative Direction: Cite the AmFest schedule/video showing Shapiro's openin
 
 ---
 
-**C-10291** Erika's ex-boyfriends did not recognize her
+**C-10291** Host Says Erika's Ex-Boyfriends Did Not Recognize Her
 
 Claim Timestamp: 00:42:45
 
@@ -2020,7 +2017,7 @@ Investigative Direction: Interview the woman and obtain her contemporaneous acco
 
 ---
 
-**C-10296** The woman brought a relic from Chicago and later found Erika presenting as Judeo-Christian
+**C-10296** Host Says the Woman Brought a Relic From Chicago and Later Found Erika Presenting as Judeo-Christian
 
 Claim Timestamp: 00:45:58
 

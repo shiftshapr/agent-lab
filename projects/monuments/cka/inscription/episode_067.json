@@ -2510,7 +2510,7 @@
       "@type": "Claim",
       "@id": "C-5989",
       "ref": "C-5989",
-      "label": "Epstein Emails Mention Israel Twice as Much as Trump",
+      "label": "TikTok Compilation Says Epstein Files Mention Israel Twice as Much as Trump",
       "claim": "Per the TikTok contrarian compilation, Israel is mentioned twice as much as Donald Trump across the released Epstein documents.",
       "anchored_artifacts": [
         "A-1715.1"
@@ -2530,7 +2530,7 @@
       "@type": "Claim",
       "@id": "C-5990",
       "ref": "C-5990",
-      "label": "Epstein Told Roger Schank Jews Create Wealth Through Financial Manipulation",
+      "label": "Compilation Says Epstein Told Roger Schank Jews Create Wealth Through Financial Manipulation",
       "claim": "Per the compilation, in a discussion with Jewish-American academic and hedge fund worker Roger Schank, Epstein stated that Jews create vast fortunes by manipulating markets, creating financial speculation, and exploiting labor.",
       "anchored_artifacts": [
         "A-1715.1"
@@ -2585,7 +2585,7 @@
       "@type": "Claim",
       "@id": "C-5987",
       "ref": "C-5987",
-      "label": "Epstein Emailed That He Works for the Rothschilds",
+      "label": "Host Says Epstein Emailed That He Works for the Rothschilds",
       "claim": "The host says that, according to him, Jeffrey Epstein wrote in an email that he works on behalf of the Rothschilds, and that he is saying \"those are my bosses, the Rothschilds.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2609,7 +2609,9 @@
         "A-1716.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:16:29",
       "investigative_direction": "Obtain the unredacted email from DOJ sources; cross-check with prior News Group Newspapers reporting on Susan Hamblin.",
       "mentions_person_refs": [
@@ -2630,7 +2632,9 @@
         "A-1716.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:16:29",
       "investigative_direction": "Verify the litigation through court records (UK).",
       "mentions_person_refs": [
@@ -2705,7 +2709,7 @@
       "@type": "Claim",
       "@id": "C-6010",
       "ref": "C-6010",
-      "label": "Naftali Bennett Cites Pollard 1987 as Last Mossad US Operation",
+      "label": "Ben Shapiro Says Naftali Bennett Told Him Pollard 1987 Was Last Mossad US Operation",
       "claim": "In a clip the host plays, Ben Shapiro says former Israeli PM Naftali Bennett told him that the Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.",
       "anchored_artifacts": [
         "A-1718.1"
@@ -2877,7 +2881,7 @@
       "@type": "Claim",
       "@id": "C-5998",
       "ref": "C-5998",
-      "label": "WikiLeaks Email From Kathryn Tate to Podesta References Pizza-Related Handkerchief",
+      "label": "Host Reads WikiLeaks Email to Podesta She Attributes to Kathryn Tate, Referencing Pizza-Related Handkerchief",
       "claim": "The host reads an email she says was sent to John Podesta by Kathryn Tate, published by WikiLeaks, saying a realtor found a handkerchief, \"I think it has a map that seems pizza-related\", and mentioning \"weird specific orders of pizza and hot dogs.\"",
       "anchored_artifacts": [
         "A-1723.1"

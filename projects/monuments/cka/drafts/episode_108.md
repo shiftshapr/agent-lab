@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:57:23
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:37:06Z
-- **Transcript SHA-256**: dd4e700c56736dbdc3d3959df1b6fe1418bfbdd897bf28c5b3e11ae9accc8d98
+- **Transcript SHA-256**: 32ae60c75d4aa021adebe4f4adaf352f9a2a551b9a0958dafd7c2d484c7cc87b
 - **Model Version**: claude-manual-extract-seq108
 
 - **Episode Ledger Summary**:
@@ -577,7 +577,7 @@ The communication in which, per the host, Erika Kirk was "written in as an emoti
 
 ## 5. Claim Register
 
-**C-9489** Thomas Massie lost his Kentucky primary
+**C-9489** Host Says Thomas Massie Lost His Kentucky Primary
 
 Claim Timestamp: 00:00:00
 
@@ -697,7 +697,7 @@ Investigative Direction: Obtain Instagram deletion metadata for the post and any
 
 ---
 
-**C-9497** Eileen Marx mentors Erika Kirk
+**C-9497** Host Says Marx Told Her Eileen Marx Mentors Erika Kirk
 
 Claim Timestamp: 00:07:31
 
@@ -712,7 +712,7 @@ Investigative Direction: Review the full Marx interview and public records of Ei
 
 ---
 
-**C-9498** Marx's team took over Charlie Kirk's security apparatus 48 hours later in Phoenix
+**C-9498** Host Says Marx Told Her His Team Took Over the Security Apparatus in Phoenix 48 Hours Later
 
 Claim Timestamp: 00:07:31
 
@@ -754,7 +754,7 @@ Investigative Direction: Verify the message timestamp and compare it with when t
 
 ---
 
-**C-9501** Frank Turek and the security team took Charlie Kirk to the hospital
+**C-9501** Host says Frank Turek and the security team took Charlie Kirk to the hospital
 
 Claim Timestamp: 00:11:12
 
@@ -802,7 +802,7 @@ Investigative Direction: Obtain the letter and any subsequent subpoena for Marx'
 
 ---
 
-**C-9504** Victor Marx went to Erika and Charlie Kirk's home in the first two days
+**C-9504** Host says Victor Marx went to Erika and Charlie Kirk's home in the first two days
 
 Claim Timestamp: 00:12:44
 
@@ -832,7 +832,7 @@ Investigative Direction: Identify who asked Marx's team to provide security and 
 
 ---
 
-**C-9506** Marx texted Erika Kirk that "they just wanted Charlie"
+**C-9506** Marx says he texted Erika Kirk that "they just wanted Charlie"
 
 Claim Timestamp: 00:14:49
 
@@ -862,7 +862,7 @@ Investigative Direction: Confirm the letter's recipient and date through the hos
 
 ---
 
-**C-9508** Erika Kirk told multiple people she and Charlie were to sign updated end-of-life documents on September 15
+**C-9508** Host says Erika Kirk told people she and Charlie were to sign updated end-of-life documents on September 15
 
 Claim Timestamp: 00:16:26
 
@@ -892,7 +892,7 @@ Investigative Direction: Review the Megyn Kelly interview transcript for Erika K
 
 ---
 
-**C-9510** Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children
+**C-9510** Host is told Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children
 
 Claim Timestamp: 00:20:57
 
@@ -922,7 +922,7 @@ Investigative Direction: Interview the people Kirk told and review TPUSA financi
 
 ---
 
-**C-9512** Charlie Kirk's DOGE internal audit was cancelled after his death
+**C-9512** Host says Charlie Kirk's DOGE internal audit was cancelled after his death
 
 Claim Timestamp: 00:22:52
 
@@ -938,7 +938,7 @@ Investigative Direction: Obtain TPUSA internal memos on the audit or DOGE depart
 
 ---
 
-**C-9513** Charlie Kirk texted those closest to him "They're going to kill me"
+**C-9513** Host says Charlie Kirk texted those closest to him "They're going to kill me"
 
 Claim Timestamp: 00:22:52
 
@@ -967,7 +967,7 @@ Investigative Direction: Identify who heard Kirk say this and when, and obtain a
 
 ---
 
-**C-9515** Andrew Kolvet ran Charlie Kirk's Twitter
+**C-9515** Host says Andrew Kolvet ran Charlie Kirk's Twitter
 
 Claim Timestamp: 00:23:50
 
@@ -982,7 +982,7 @@ Investigative Direction: Obtain X account login and session records for @charlie
 
 ---
 
-**C-9516** Mikey McCoy had Charlie Kirk's laptop
+**C-9516** Host says Mikey McCoy had Charlie Kirk's laptop
 
 Claim Timestamp: 00:24:28
 
@@ -996,7 +996,7 @@ Investigative Direction: Establish custody of Kirk's laptop and devices before a
 
 ---
 
-**C-9517** Kouri Richins was found guilty of murdering her husband after a grief book tour
+**C-9517** Host says Kouri Richins was found guilty of murdering her husband after a grief book tour
 
 Claim Timestamp: 00:24:28
 
@@ -1007,6 +1007,7 @@ Transcript Snippet: the one in Utah, ironically, who was found guilty of murderi
 Anchored Artifacts:
 Mentions: N-635
 Related Nodes: N-10865
+Tags: relevance:tangential
 Investigative Direction: Check the Summit County, Utah court record for the verdict in State v. Kouri Richins.
 
 ---
@@ -1041,7 +1042,7 @@ Investigative Direction: Check the arrest date in Summit County, Utah records ag
 
 ---
 
-**C-9520** Eric Richins covertly transferred his estate to his sister before his death
+**C-9520** Host says Eric Richins covertly transferred his estate to his sister before his death
 
 Claim Timestamp: 00:26:29
 
@@ -1052,11 +1053,12 @@ Transcript Snippet: her husband, uh Eric Richens, also her victim, gratefully an
 Anchored Artifacts:
 Mentions: N-636, N-635
 Related Nodes: N-10865
+Tags: relevance:tangential
 Investigative Direction: Review trial testimony and estate filings in the Richins case.
 
 ---
 
-**C-9521** Kouri Richins attempted to change the beneficiary of her husband's life insurance
+**C-9521** Court heard Kouri Richins attempted to change the beneficiary of her husband's life insurance
 
 Claim Timestamp: 00:27:25
 
@@ -1101,7 +1103,7 @@ Investigative Direction: Track the FOIA request number and statutory response de
 
 ---
 
-**C-9524** Erika Kirk was written in as an "emotional asset" just over an hour after shots were fired
+**C-9524** Host says Erika Kirk was written in as an "emotional asset" just over an hour after shots were fired
 
 Claim Timestamp: 00:32:07
 
@@ -1116,7 +1118,7 @@ Investigative Direction: Obtain the original email with headers and timestamps a
 
 ---
 
-**C-9525** TPUSA offered the Daily Mail a private screening of the disputed video
+**C-9525** Host says TPUSA offered the Daily Mail a private screening of the disputed video
 
 Claim Timestamp: 00:32:07
 
@@ -1131,7 +1133,7 @@ Investigative Direction: Review the Daily Mail article describing the screening 
 
 ---
 
-**C-9526** Erika Kirk walked out to only the audio of the video
+**C-9526** Host says Erika Kirk walked out to only the audio of the video
 
 Claim Timestamp: 00:33:12
 
@@ -1175,7 +1177,7 @@ Investigative Direction: Retrieve the AP and NewsNation articles and compare the
 
 ---
 
-**C-9529** The Robinson defense still has not received its discovery requests
+**C-9529** Host says the Robinson defense still has not received its discovery requests
 
 Claim Timestamp: 00:34:43
 
@@ -1308,7 +1310,7 @@ Investigative Direction: Retrieve Theo Von's post and its timestamp.
 
 ---
 
-**C-9538** Joe Rogan recorded a standalone apology for the first time in his show's history
+**C-9538** Host says Joe Rogan recorded a standalone apology for the first time in his show's history
 
 Claim Timestamp: 00:41:33
 
@@ -1336,7 +1338,7 @@ Investigative Direction: Search USPTO filings for "Charlie Kirk" marks and their
 
 ---
 
-**C-9540** Marx's post came around when Erika learned of the death and just before Kolvet did
+**C-9540** Host and viewer say Marx's post came around when Erika learned of the death and just before Kolvet did
 
 Claim Timestamp: 00:52:19
 
@@ -1366,7 +1368,7 @@ Investigative Direction: Timestamp Jack Hibbs's earliest public statements and i
 
 ---
 
-**C-9542** Ed Gallrein had no crowd at his victory party
+**C-9542** Host says Ed Gallrein had no crowd at his victory party
 
 Claim Timestamp: 00:55:09
 

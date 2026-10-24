@@ -1789,7 +1789,7 @@
       "@type": "Claim",
       "@id": "C-2917",
       "ref": "C-2917",
-      "label": "Documented Overlaps Between Egyptian Aircraft and Erika Kirk's Locations",
+      "label": "Spreadsheet Shown by Host Lists Overlaps Between Egyptian Aircraft and Erika Kirk's Locations",
       "claim": "A spreadsheet the host shows, built on research by a viewer she calls a \"mommy sleuth\", displays 68 overlap instances (the host later says she has added more, making 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.",
       "anchored_artifacts": [
         "A-1419.1",
@@ -1894,7 +1894,7 @@
       "@type": "Claim",
       "@id": "C-2937",
       "ref": "C-2937",
-      "label": "N560TW Made a Round-Trip Flight Scottsdale–Provo–Santa Barbara–Scottsdale on September 10",
+      "label": "Host Says N560TW Flew Scottsdale–Provo–Santa Barbara–Scottsdale on September 10",
       "claim": "Host reports that tail N560TW departed Scottsdale, Arizona on September 10 and landed at Provo at 10:06 a.m., then departed for Santa Barbara and later returned to Scottsdale by 12:44 p.m.",
       "anchored_artifacts": [
         "A-1422.1"
@@ -1939,7 +1939,7 @@
       "@type": "Claim",
       "@id": "C-2940",
       "ref": "C-2940",
-      "label": "Four Specific License Plates Identified as Rental Vehicles",
+      "label": "Host Reads Four License Plates She Associates With the Rental Vehicles",
       "claim": "Host reads four specific license plates associated with the rental vehicles: T09 2Zs (silver 2025 Toyota RAV4, Utah), CWN N872 (white 2025 Toyota Camry, Arizona), TN12KM (white 2023 Toyota RAV4, Utah), and Z923DA (black 2025 Toyota 4Runner, Utah).",
       "anchored_artifacts": [
         "A-1421.1",
@@ -1960,7 +1960,7 @@
       "@type": "Claim",
       "@id": "C-2947",
       "ref": "C-2947",
-      "label": "Three of Four TPUSA-Related 990 Forms Missing for FY2024",
+      "label": "Wolves and Finance Video Says Three of Four TPUSA-Related 990 Forms Missing for FY2024",
       "claim": "\"Wolves and Finance\" YouTube video asserts that for fiscal year 2024, the IRS Form 990 is posted for Turning Point USA but is missing for Turning Point Action, Turning Point Endowment, and America's Turning Point.",
       "anchored_artifacts": [
         "A-1420.1"
@@ -2025,7 +2025,7 @@
       "@type": "Claim",
       "@id": "C-2965",
       "ref": "C-2965",
-      "label": "TPUSA 501(c)(3) Arm Reduced Staff by 33% While Salary Costs Increased",
+      "label": "Video Cited by Host Says TPUSA 501(c)(3) Arm Cut Staff by 33% While Salary Costs Increased",
       "claim": "The host says the \"Wolves and Finance\" video, which she did not show, states that Turning Point USA's 501(c)(3) arm cut staff by 33% while the cost of salaries went up, which she agrees looks suspicious.",
       "anchored_artifacts": [
         "A-1420.2"
@@ -2046,7 +2046,7 @@
       "@type": "Claim",
       "@id": "C-2963",
       "ref": "C-2963",
-      "label": "Erika Kirk Assumed CEO Role on September 18, 2025",
+      "label": "Wolves and Finance Video Says Erika Kirk Assumed CEO Role on September 18, 2025",
       "claim": "In the \"Wolves and Finance\" video the host plays, the presenter says Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025, 8 days after Charlie Kirk was murdered.",
       "anchored_artifacts": [
         "A-1420.1"
@@ -2135,7 +2135,9 @@
       "claim": "The host praises \"mommy sleuth(s)\" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:14:51",
       "investigative_direction": "Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.",
       "transcript_snippet": "...tail number S U B N D, the blue plane. A pregnant mommy sleuth who was locked into this investigation discovered something that me and my team had missed. I consi...",
@@ -2155,7 +2157,9 @@
       "claim": "Crediting the pregnant mommy sleuth whose urgent email corrected her plane-tracking analysis, the host says \"I consider her obviously and all of you to be my decentralized intelligence agents,\" casting the tipster and the whole audience as agents of the Decentralized Intelligence Agency.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:14:51",
       "investigative_direction": "Preserve as brand / network framing claim (M-12 alias \"decentralized intelligence agents\"); identity of the tipster stays protected.",
       "transcript_snippet": "...I consider her obviously and all of you to be my decentralized intelligence agents. Anyway, she sent me a rather urgent email and I'm obviously protecting her identity for for, you know, reasons that are clear...",
@@ -2171,7 +2175,7 @@
       "@type": "Claim",
       "@id": "C-2909",
       "ref": "C-2909",
-      "label": "Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City",
+      "label": "Host Says Andrew K. Smith Interview Was Ostensible Reason Charlie Kirk Flew Into Salt Lake City",
       "claim": "Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning \"restaurantology\" interview with Andrew K. Smith, whom she describes as a person nobody really knows and a managing director of a restaurant fund.",
       "anchored_artifacts": [
         "A-1424.2"

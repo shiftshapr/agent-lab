@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:59",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 3c1f69671097bccc2394ca45fe92d4ded01f6adc3908c9f3aa68a3f9797749b9",
+    "- **Transcript SHA-256**: 9acbb951f54006c097e1465295013f2a6a7cb43c83b6afdddcfc087972134b4f",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-908, N-11251",
@@ -2431,8 +2431,8 @@
   {
    "kind": "claim",
    "id": "C-3668",
-   "header": "**C-3668** Blake Neff's prior \"sincere\" Phoenix invitation did not require in-person attendance",
-   "label": "Blake Neff's prior \"sincere\" Phoenix invitation did not require in-person attendance",
+   "header": "**C-3668** Host Says Blake Neff's Prior \"Sincere\" Phoenix Invitation Did Not Require In-Person Attendance",
+   "label": "Host Says Blake Neff's Prior \"Sincere\" Phoenix Invitation Did Not Require In-Person Attendance",
    "lines": [
     {
      "raw": ""
@@ -2539,8 +2539,8 @@
   {
    "kind": "claim",
    "id": "C-3678",
-   "header": "**C-3678** UVU school colors are green and white, not maroon",
-   "label": "UVU school colors are green and white, not maroon",
+   "header": "**C-3678** Host Says UVU Contact Told Her School Colors Are Green and White, Not Maroon",
+   "label": "Host Says UVU Contact Told Her School Colors Are Green and White, Not Maroon",
    "lines": [
     {
      "raw": ""
@@ -2759,8 +2759,8 @@
   {
    "kind": "claim",
    "id": "C-3704",
-   "header": "**C-3704** PBS featured Emmanuel Bierer as eyewitness in Salt Lake City",
-   "label": "PBS featured Emmanuel Bierer as eyewitness in Salt Lake City",
+   "header": "**C-3704** Host Says PBS Featured Emmanuel Bierer as Eyewitness Filmed in Salt Lake City",
+   "label": "Host Says PBS Featured Emmanuel Bierer as Eyewitness Filmed in Salt Lake City",
    "lines": [
     {
      "raw": ""
@@ -2871,8 +2871,8 @@
   {
    "kind": "claim",
    "id": "C-3691",
-   "header": "**C-3691** Jacob Kasparian recorded the event on his phone",
-   "label": "Jacob Kasparian recorded the event on his phone",
+   "header": "**C-3691** Host Says Footage Shows Jacob Kasparian Recording the Event on His Phone",
+   "label": "Host Says Footage Shows Jacob Kasparian Recording the Event on His Phone",
    "lines": [
     {
      "raw": ""
@@ -3039,8 +3039,8 @@
   {
    "kind": "claim",
    "id": "C-3696",
-   "header": "**C-3696** Carrie Bartholomew confirmed via tweet she was in the courtyard during the shot",
-   "label": "Carrie Bartholomew confirmed via tweet she was in the courtyard during the shot",
+   "header": "**C-3696** Host Says Carrie Bartholomew's Tweet Confirms She Was in the Courtyard During the Shot",
+   "label": "Host Says Carrie Bartholomew's Tweet Confirms She Was in the Courtyard During the Shot",
    "lines": [
     {
      "raw": ""
@@ -3151,8 +3151,8 @@
   {
    "kind": "claim",
    "id": "C-3700",
-   "header": "**C-3700** Tyler Robinson was wearing a maroon shirt at the event",
-   "label": "Tyler Robinson was wearing a maroon shirt at the event",
+   "header": "**C-3700** Host Says Tyler Robinson Was Wearing a Maroon Shirt at the Event",
+   "label": "Host Says Tyler Robinson Was Wearing a Maroon Shirt at the Event",
    "lines": [
     {
      "raw": ""
@@ -5297,10 +5297,6 @@
      "v": "N-10293"
     },
     {
-     "k": "Qualifies",
-     "v": "C-3690"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -6575,10 +6571,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10295"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-3719"
     },
     {
      "k": "Tags",

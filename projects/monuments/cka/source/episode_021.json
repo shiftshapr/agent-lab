@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:57:35",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d",
+    "- **Transcript SHA-256**: a163f2f1c02c8e98cc8a6998b8aabd4cd3f7742a148233cf51445bcfecbed223",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-754, N-11018, N-11019",
@@ -2503,8 +2503,8 @@
   {
    "kind": "claim",
    "id": "C-1967",
-   "header": "**C-1967** Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry",
-   "label": "Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry",
+   "header": "**C-1967** Host Says Kash Patel Apparently Met With Wiles, Kent, Gabbard and, She Thinks, JD Vance on the Inquiry",
+   "label": "Host Says Kash Patel Apparently Met With Wiles, Kent, Gabbard and, She Thinks, JD Vance on the Inquiry",
    "lines": [
     {
      "raw": ""
@@ -4183,14 +4183,6 @@
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-11561"
     },
     {
      "k": "Investigative Direction",

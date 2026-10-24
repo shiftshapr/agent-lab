@@ -3293,7 +3293,7 @@
       "@type": "Claim",
       "@id": "C-11580",
       "ref": "C-11580",
-      "label": "Prosecution Cites Exhibits 12.1 and 12.4 as Proof of a Screwdriver",
+      "label": "Host Says Prosecution Cited Exhibits 12.1 and 12.4 as Proof of a Screwdriver",
       "claim": "The host says that at the court hearing the prosecution asserted the defendant used a screwdriver and cited exhibits 12.1 and 12.4 as proof.",
       "anchored_artifacts": [
         "A-2882.1"
@@ -3310,10 +3310,8 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-11581"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-972"
       ]

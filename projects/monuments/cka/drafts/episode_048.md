@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:03:08
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63
+- **Transcript SHA-256**: 1e66aa4944307e32821aa349873f75dbb239eb3185ccdb58faca719319dd0ee6
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-10938, N-10939, N-10940
@@ -1034,7 +1034,7 @@ Investigative Direction: Corroborate against any contemporaneous operational rec
 
 ---
 
-**C-4219** Owens Possesses Six Photographs of Transport Vehicle Interior
+**C-4219** Owens Says She Possesses Six Photographs of Transport Vehicle Interior
 
 Claim Timestamp: 00:30:33
 
@@ -1119,7 +1119,7 @@ Transcript Snippet: never once did Dr. Lee Trotter say that Charlie's neck was s
 Anchored Artifacts: 
 Mentions: N-195, N-14, N-1
 Related Nodes: N-10334
-Qualifies: C-4179
+Contradicts: C-4179
 Investigative Direction: Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Kolvet.
 
 ---
@@ -1165,7 +1165,7 @@ Transcript Snippet: What he communicated is that it was likely a frangible bulle
 Anchored Artifacts: 
 Mentions: N-195, N-14, N-3
 Related Nodes: N-10334
-Qualifies: C-4179
+Contradicts: C-4179
 Investigative Direction: Ask Kolvet and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.
 
 ---
@@ -1181,7 +1181,6 @@ Transcript Snippet: Well, Andrew also told us that the bullet did ricochet. So, 
 Anchored Artifacts: 
 Mentions: N-14, N-3
 Related Nodes: N-10334
-Qualifies: C-4179
 Investigative Direction: Quote Kolvet's exact wording on ricochet from his X thread and compare with the wound description in any official report.
 
 ---
@@ -1861,7 +1860,6 @@ Transcript Snippet: it started before that with the the intelligence gathering a
 Anchored Artifacts: A-1555.1
 Mentions: N-266
 Related Nodes: N-10305
-Qualifies: C-4238
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Ask Harpole's firm for the date of the first intelligence product and the first conference call.

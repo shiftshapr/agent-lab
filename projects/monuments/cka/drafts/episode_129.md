@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:07:03
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 513786cea1d5039b5eb51ed6d5c02f0d15ecee4cdc48adb287369585a1185a6a
+- **Transcript SHA-256**: 1e559007a203dd6529b1c0c41bcc3a291ced6b8ddd40c4b679a06867e5374708
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep129): N-10694, N-10699, N-10743
@@ -949,7 +949,7 @@ Investigative Direction: Cross-reference against courtroom reporting and any Eri
 
 ---
 
-**C-11125** Daily Mail reports Erika would rather not give Candace "an ounce of her energy" and "likes even Tyler Robinson more than she likes Candace"
+**C-11125** Daily Mail Source Says Erika Won't Give Candace "an Ounce of Her Energy" and Likes Even Tyler Robinson More
 
 Claim Timestamp: 00:36:27
 
@@ -963,7 +963,7 @@ Investigative Direction: Verify quoted statements with original article; identif
 
 ---
 
-**C-11062** New photograph shows an unidentified object in the left rear door compartment of the SUV that multiple independent observers identify as a glove
+**C-11062** Host and Others Identify Object in SUV's Left Rear Door Compartment Photo as a Glove
 
 Claim Timestamp: 00:03:30
 
@@ -1047,6 +1047,7 @@ Mentions: N-367, N-217, N-190, N-17
 
 Related Nodes: N-10674
 
+Contradicts: C-11084
 Investigative Direction: Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV.
 
 ---
@@ -1059,7 +1060,7 @@ Claim: In a clip the host plays, Blake Neff describes Mikey McCoy as immediately
 
 Anchored Artifacts: A-2168.1
 Mentions: N-190, N-159, N-2
-Contradicts: C-4104, C-11088
+Contradicts: C-4104
 
 Related Nodes: N-10674
 
@@ -1067,7 +1068,7 @@ Investigative Direction: Reconcile with phone log evidence (which suggests Eliza
 
 ---
 
-**C-11092** Local news captured the group walking into Timpanogos Regional Hospital at approximately 1:02 PM local time
+**C-11092** Local News Shows Group Walking Into Timpanogos Regional Hospital; Host Dates It to About 1:02 PM
 
 Claim Timestamp: 00:18:17
 
@@ -1202,7 +1203,7 @@ Investigative Direction: Confirm segment on Charlie Kirk Show's platform archive
 
 ---
 
-**C-11142** Charlie Kirk publicly criticized the Alex Jones verdict and warned it would be used as a censorship blueprint against others
+**C-11142** Charlie Kirk Called the Alex Jones Case "Patient Zero for Lawfare Strategies" and Warned of Precedent
 
 Claim Timestamp: 00:50:38
 
@@ -2030,7 +2031,7 @@ Open Questions: Q-999
 
 ---
 
-**C-11119** Daily Mail Quotes Erika as Offended Candace Would Use Her Husband's Death to Make a Buck
+**C-11119** Daily Mail Says Erika Is Offended Candace Would Use Her Husband's Death to Make a Buck
 
 Claim Timestamp: 00:33:38
 

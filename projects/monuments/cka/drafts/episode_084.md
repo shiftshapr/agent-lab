@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:38
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:21:43Z
-- **Transcript SHA-256**: 066882f635eb36caacf85a0b1abd2baa97dfc0f0575f065972db7d5293e11285
+- **Transcript SHA-256**: ed4a23b335e423205248cb7dfdca1dff076afeedde0b2b19fbf76003669beadd
 - **Model Version**: claude-manual-extract-seq084
 
 - **Episode Ledger Summary**:
@@ -602,7 +602,7 @@ Investigation target: an unverified tip that Frank Turek changed his schedule at
 
 ## 5. Claim Register
 
-**C-7507** TPUSA-associated plane spent time at Fort Huachuca after the assassination
+**C-7507** Host says TPUSA-associated plane spent time at Fort Huachuca after the assassination
 
 Claim Timestamp: 00:00:01
 
@@ -711,7 +711,7 @@ Investigative Direction: Obtain the full recording of the host's phone call with
 
 ---
 
-**C-7514** Roughly 40-minute window in which the TPUSA core team did not know Charlie Kirk had died
+**C-7514** Host says there was a roughly 40-minute window in which the TPUSA core team did not know Kirk had died
 
 Claim Timestamp: 00:04:23
 
@@ -757,7 +757,7 @@ Investigative Direction: Produce the original message thread with device timesta
 
 ---
 
-**C-7517** Kolvet texted at 1:19 p.m. Utah time that Charlie had a pulse
+**C-7517** Host says Kolvet told her at 1:19 p.m. Utah time that Charlie had a pulse
 
 Claim Timestamp: 00:05:12
 
@@ -819,7 +819,7 @@ Investigative Direction: Obtain Scottsdale Airport FBO visitor logs and footage 
 
 ---
 
-**C-7521** Charlie Kirk's pilot was named Jamie and may be from Texas
+**C-7521** Host says Charlie Kirk's pilot was named Jamie and may be from Texas
 
 Claim Timestamp: 00:11:05
 
@@ -865,7 +865,7 @@ Investigative Direction: Compare the host's recollection of her meeting with Eri
 
 ---
 
-**C-7524** Unexplained flight from Page, Arizona to Provo on September 10
+**C-7524** Host says a flight went from Page, Arizona to Provo on September 10
 
 Claim Timestamp: 00:13:38
 
@@ -896,7 +896,7 @@ Investigative Direction: Obtain the TPUSA PR group chat messages with timestamps
 
 ---
 
-**C-7526** Justin Streiff emailed staff the death announcement at 2:27
+**C-7526** Host says Justin Streiff emailed staff the death announcement at 2:27
 
 Claim Timestamp: 00:13:38
 
@@ -926,7 +926,7 @@ Investigative Direction: Obtain ADS-B departure data and manifest for Charlie Ki
 
 ---
 
-**C-7528** President Trump announced the death on Truth Social at 2:40
+**C-7528** Host's timeline says President Trump announced the death on Truth Social at 2:40
 
 Claim Timestamp: 00:14:28
 
@@ -943,7 +943,7 @@ Investigative Direction: Confirm the archived timestamp of the Truth Social post
 
 ---
 
-**C-7529** Police scanner: Erika, Elizabeth, Tyler, Stacy Sheridan and Cat escorted to Timpanogos Hospital
+**C-7529** Host says police scanner indicates Erika, Elizabeth, Tyler, Stacy Sheridan and Cat were to be escorted to Timpanogos
 
 Claim Timestamp: 00:14:28
 
@@ -1025,7 +1025,7 @@ Investigative Direction: Archive Erika Kirk's Instagram post history to confirm 
 
 ---
 
-**C-7534** Erika Kirk's mother was not in the hospital September 8 through 10
+**C-7534** Host asserts Erika Kirk's mother was not in the hospital September 8 through 10
 
 Claim Timestamp: 00:18:14
 
@@ -1088,7 +1088,7 @@ Investigative Direction: Archive the original Instagram post with its date and a
 
 ---
 
-**C-7538** Erika Kirk's New York Times account of Charlie's departure differs from later accounts
+**C-7538** Host says Erika Kirk's New York Times account of Charlie's departure differs from later accounts
 
 Claim Timestamp: 00:21:45
 
@@ -1131,7 +1131,7 @@ Investigative Direction: Archive the Grok reply on X with its timestamp.
 
 ---
 
-**C-7541** Ted Cruz tweeted that the skit was "beneath contempt"
+**C-7541** Host says Ted Cruz tweeted that the skit was "beneath contempt"
 
 Claim Timestamp: 00:30:29
 
@@ -1159,7 +1159,7 @@ Investigative Direction: Archive Kolvet's comment with its timestamp and the pos
 
 ---
 
-**C-7543** Scott Bessent issued a letter saying Turning Point is in great financial standing
+**C-7543** Host says Scott Bessent issued a letter saying Turning Point is in great financial standing
 
 Claim Timestamp: 00:31:19
 
@@ -1208,7 +1208,7 @@ Investigative Direction: Obtain Fort Huachuca visitor access logs and Brian Harp
 
 ---
 
-**C-7546** The TPUSA-associated plane flew Pierre to Chicago to Provo on September 10
+**C-7546** Baron Coleman says a TPUSA-associated plane flew Pierre to Chicago to Provo on September 10
 
 Claim Timestamp: 00:34:43
 
@@ -1223,7 +1223,7 @@ Investigative Direction: Pull ADS-B data for N582MM on September 10, 2025 and th
 
 ---
 
-**C-7547** The plane flew Atlanta to Fort Huachuca on October 4 and stayed all day
+**C-7547** Baron Coleman says the plane flew Atlanta to Fort Huachuca and stayed all day; host dates it October 4
 
 Claim Timestamp: 00:35:40
 
@@ -1238,7 +1238,7 @@ Investigative Direction: Pull ADS-B data and Libby Army Airfield / Sierra Vista 
 
 ---
 
-**C-7548** Security team including Butch Hibbs was in Montana on October 5
+**C-7548** Baron Coleman says security team including Butch Hibbs was in Montana on October 5
 
 Claim Timestamp: 00:36:02
 
@@ -1253,7 +1253,7 @@ Investigative Direction: Obtain flight data for the Kalispell-to-Bozeman private
 
 ---
 
-**C-7549** Charlie Kirk's parents were flown on Air Force Two, not the Chicago plane
+**C-7549** Host says Charlie Kirk's parents were flown on Air Force Two, not the Chicago plane
 
 Claim Timestamp: 00:37:00
 
@@ -1268,7 +1268,7 @@ Investigative Direction: Confirm Air Force Two movements on September 10, 2025 a
 
 ---
 
-**C-7550** The plane's tail number is N582MM
+**C-7550** Host identifies the plane's tail number as N582MM
 
 Claim Timestamp: 00:38:31
 
@@ -1283,7 +1283,7 @@ Investigative Direction: Look up N582MM in the FAA registry for owner, operator 
 
 ---
 
-**C-7551** The Egyptian planes are back in Provo
+**C-7551** Host says the Egyptian planes are back in Provo
 
 Claim Timestamp: 00:38:31
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Pull current ADS-B tracking for the Egyptian-registered
 
 ---
 
-**C-7552** Kolvet blames Joe Kent for the text leak but told many people about the text
+**C-7552** Host says Kolvet blames Joe Kent for the text leak but told many people about the text
 
 Claim Timestamp: 00:42:22
 
@@ -1315,7 +1315,7 @@ Investigative Direction: Identify everyone Kolvet shared the text with and when,
 
 ---
 
-**C-7553** Stacy Sheridan lives in the same complex as Charlie and Erika Kirk
+**C-7553** Host confirms viewer claim that Stacy Sheridan lives in the same complex as Charlie and Erika Kirk
 
 Claim Timestamp: 00:42:58
 
@@ -1340,6 +1340,7 @@ Transcript Snippet: they showed an insurance claim that somebody made for $6,000
 Anchored Artifacts: A-2536.1
 Mentions: N-30, N-3
 Related Nodes: N-10577
+Tags: relevance:tangential
 Investigative Direction: Identify the author and source documents of the piece and the claimant on the insurance record.
 
 ---
@@ -1360,7 +1361,7 @@ Investigative Direction: Obtain Frank Turek's speaking calendar and travel recor
 
 ---
 
-**C-7556** Tyler Robinson has not entered a plea or been arraigned
+**C-7556** Host says Tyler Robinson has not entered a plea or been arraigned
 
 Claim Timestamp: 00:49:50
 

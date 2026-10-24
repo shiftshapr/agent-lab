@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:48:02
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b
+- **Transcript SHA-256**: aefdde721aab743d0c8f1fa1c5919cc8a898042c738124c7dec342691e42db34
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-801, N-11100, N-11101
@@ -812,7 +812,7 @@ Anchored Artifacts: A-1744.1
 Mentions: N-2, N-3
 Investigative Direction: Compare TPUSA public statements over time against the footage-release history to assess whether Erika's stated goal of transparency aligns with prior organizational behavior.
 
-**C-6260** NYT article contains Erika's "adrenal glands were just going off" quote
+**C-6260** Host Says Erika Told the NYT Charlie's "Adrenal Glands Were Just Going Off"
 
 Claim Timestamp: 00:09:50–00:10:21
 

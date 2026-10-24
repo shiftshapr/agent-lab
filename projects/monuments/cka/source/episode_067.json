@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:01:11",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a",
+    "- **Transcript SHA-256**: 176a215955ee7f152c2925059d2e2a076d5015aa1043a52070712ab26e6ddece",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-933, N-934, N-935, N-936, N-11305, N-11306",
@@ -4435,8 +4435,8 @@
   {
    "kind": "claim",
    "id": "C-5989",
-   "header": "**C-5989** Epstein Emails Mention Israel Twice as Much as Trump",
-   "label": "Epstein Emails Mention Israel Twice as Much as Trump",
+   "header": "**C-5989** TikTok Compilation Says Epstein Files Mention Israel Twice as Much as Trump",
+   "label": "TikTok Compilation Says Epstein Files Mention Israel Twice as Much as Trump",
    "lines": [
     {
      "raw": ""
@@ -4487,8 +4487,8 @@
   {
    "kind": "claim",
    "id": "C-5990",
-   "header": "**C-5990** Epstein Told Roger Schank Jews Create Wealth Through Financial Manipulation",
-   "label": "Epstein Told Roger Schank Jews Create Wealth Through Financial Manipulation",
+   "header": "**C-5990** Compilation Says Epstein Told Roger Schank Jews Create Wealth Through Financial Manipulation",
+   "label": "Compilation Says Epstein Told Roger Schank Jews Create Wealth Through Financial Manipulation",
    "lines": [
     {
      "raw": ""
@@ -4643,8 +4643,8 @@
   {
    "kind": "claim",
    "id": "C-5987",
-   "header": "**C-5987** Epstein Emailed That He Works for the Rothschilds",
-   "label": "Epstein Emailed That He Works for the Rothschilds",
+   "header": "**C-5987** Host Says Epstein Emailed That He Works for the Rothschilds",
+   "label": "Host Says Epstein Emailed That He Works for the Rothschilds",
    "lines": [
     {
      "raw": ""
@@ -4730,6 +4730,10 @@
      "raw": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the unredacted email from DOJ sources; cross-check with prior News Group Newspapers reporting on Susan Hamblin."
     },
@@ -4780,6 +4784,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4955,8 +4963,8 @@
   {
    "kind": "claim",
    "id": "C-6010",
-   "header": "**C-6010** Naftali Bennett Cites Pollard 1987 as Last Mossad US Operation",
-   "label": "Naftali Bennett Cites Pollard 1987 as Last Mossad US Operation",
+   "header": "**C-6010** Ben Shapiro Says Naftali Bennett Told Him Pollard 1987 Was Last Mossad US Operation",
+   "label": "Ben Shapiro Says Naftali Bennett Told Him Pollard 1987 Was Last Mossad US Operation",
    "lines": [
     {
      "raw": ""
@@ -5387,8 +5395,8 @@
   {
    "kind": "claim",
    "id": "C-5998",
-   "header": "**C-5998** WikiLeaks Email From Kathryn Tate to Podesta References Pizza-Related Handkerchief",
-   "label": "WikiLeaks Email From Kathryn Tate to Podesta References Pizza-Related Handkerchief",
+   "header": "**C-5998** Host Reads WikiLeaks Email to Podesta She Attributes to Kathryn Tate, Referencing Pizza-Related Handkerchief",
+   "label": "Host Reads WikiLeaks Email to Podesta She Attributes to Kathryn Tate, Referencing Pizza-Related Handkerchief",
    "lines": [
     {
      "raw": ""
@@ -7029,10 +7037,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10023, N-10015"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-6009"
     },
     {
      "k": "Tags",

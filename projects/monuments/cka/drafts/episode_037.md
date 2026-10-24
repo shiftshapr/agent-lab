@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:47:03
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367
+- **Transcript SHA-256**: 8687830a962ecb3b161ec3380b2d65a3d9baa98bc97989d9937752df6c9b4896
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-849, N-11152
@@ -1049,7 +1049,7 @@ Investigative Direction: Verify against official USAF fact sheets.
 
 ---
 
-**C-3251** Charlie Kirk Identified Julius Caesar as a Favorite Pre-1850 Historical Figure
+**C-3251** Charlie Kirk Named Julius Caesar Among His Favorite Historical Figures
 
 Claim Timestamp: 00:01:47
 
@@ -1107,7 +1107,7 @@ Investigative Direction: Verify via Minot AFB public site and FBI field office d
 
 ---
 
-**C-3258** 891st MSFS Just Completed Operation Valhalla Before BTT's Minot Stopover
+**C-3258** Tipster Email Says 891st MSFS Had Just Completed Operation Valhalla Before BTT's Minot Stopover
 
 Claim Timestamp: 00:06:30
 
@@ -1470,7 +1470,6 @@ Transcript Snippet: I also minor correction I think yesterday I said that Tucker
 
 Anchored Artifacts: A-3030.1
 Mentions: N-22
-Revises: C-3183
 Tags: relevance:context
 Investigative Direction: Confirm the date of Carlson's Turning Point speech against the event program and video.
 
@@ -1721,7 +1720,7 @@ Transcript Snippet: Is this the Mitchell that allegedly convinced him to turn hi
 Anchored Artifacts: 
 Mentions: N-40, N-125
 Related Nodes: N-10136, N-10146
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Establish whether Mike Mitchell is related to the Robinson family and what, if any, Ukraine connection he has.
 Open Questions: Q-349
 

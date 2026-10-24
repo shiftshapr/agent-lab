@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:47:48",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:39:36Z",
-    "- **Transcript SHA-256**: 284494e41be2a4e0d3496dd36da9a63186261daf51e052dbe0b6d145c6781632",
+    "- **Transcript SHA-256**: 926f85a05129dd7908c6f1dfc749b6d4afac8d6b1cc14f4fe8159a69585d5506",
     "- **Model Version**: claude-manual-extract-seq113",
     "",
     "- **Episode Ledger Summary**:",
@@ -2074,8 +2074,8 @@
   {
    "kind": "claim",
    "id": "C-9818",
-   "header": "**C-9818** Erika Kirk is CEO and chairman of a quarter-billion-dollar-per-year charity",
-   "label": "Erika Kirk is CEO and chairman of a quarter-billion-dollar-per-year charity",
+   "header": "**C-9818** Host calls Erika Kirk CEO and chairman of a quarter-billion-dollar-per-year charity",
+   "label": "Host calls Erika Kirk CEO and chairman of a quarter-billion-dollar-per-year charity",
    "lines": [
     {
      "raw": ""
@@ -2189,8 +2189,8 @@
   {
    "kind": "claim",
    "id": "C-9820",
-   "header": "**C-9820** The boat Ivanka Trump jumped off was owned by a Rothschild",
-   "label": "The boat Ivanka Trump jumped off was owned by a Rothschild",
+   "header": "**C-9820** Host says the boat Ivanka Trump jumped off was owned by a Rothschild",
+   "label": "Host says the boat Ivanka Trump jumped off was owned by a Rothschild",
    "lines": [
     {
      "raw": ""
@@ -2651,8 +2651,8 @@
   {
    "kind": "claim",
    "id": "C-9828",
-   "header": "**C-9828** The Albanian prime minister who did the deal was on the boat; the deal is under corruption scrutiny",
-   "label": "The Albanian prime minister who did the deal was on the boat; the deal is under corruption scrutiny",
+   "header": "**C-9828** Host says the Albanian prime minister who did the deal was on the boat; links it to corruption scrutiny",
+   "label": "Host says the Albanian prime minister who did the deal was on the boat; links it to corruption scrutiny",
    "lines": [
     {
      "raw": ""
@@ -2822,8 +2822,8 @@
   {
    "kind": "claim",
    "id": "C-9831",
-   "header": "**C-9831** Trump is bombing Iran without a vote from Congress",
-   "label": "Trump is bombing Iran without a vote from Congress",
+   "header": "**C-9831** Host says Trump is bombing Iran without a vote from Congress",
+   "label": "Host says Trump is bombing Iran without a vote from Congress",
    "lines": [
     {
      "raw": ""
@@ -3052,8 +3052,8 @@
   {
    "kind": "claim",
    "id": "C-9835",
-   "header": "**C-9835** Venezuelan oil was immediately shipped to Israel",
-   "label": "Venezuelan oil was immediately shipped to Israel",
+   "header": "**C-9835** Host says headlines reported Venezuelan oil was immediately shipped to Israel",
+   "label": "Host says headlines reported Venezuelan oil was immediately shipped to Israel",
    "lines": [
     {
      "raw": ""
@@ -3287,8 +3287,8 @@
   {
    "kind": "claim",
    "id": "C-9839",
-   "header": "**C-9839** Hegseth stages runs with troops abroad",
-   "label": "Hegseth stages runs with troops abroad",
+   "header": "**C-9839** Host says Hegseth ran with troops abroad",
+   "label": "Host says Hegseth ran with troops abroad",
    "lines": [
     {
      "raw": ""
@@ -3402,8 +3402,8 @@
   {
    "kind": "claim",
    "id": "C-9841",
-   "header": "**C-9841** Hegseth went to Guantanamo Bay with Laura Loomer",
-   "label": "Hegseth went to Guantanamo Bay with Laura Loomer",
+   "header": "**C-9841** Host says Hegseth went to Guantanamo Bay with Laura Loomer",
+   "label": "Host says Hegseth went to Guantanamo Bay with Laura Loomer",
    "lines": [
     {
      "raw": ""
@@ -3459,8 +3459,8 @@
   {
    "kind": "claim",
    "id": "C-9842",
-   "header": "**C-9842** Laura Loomer is not legally allowed to own a weapon",
-   "label": "Laura Loomer is not legally allowed to own a weapon",
+   "header": "**C-9842** Host asserts Laura Loomer is not legally allowed to own a weapon",
+   "label": "Host asserts Laura Loomer is not legally allowed to own a weapon",
    "lines": [
     {
      "raw": ""
@@ -4155,8 +4155,8 @@
   {
    "kind": "claim",
    "id": "C-9854",
-   "header": "**C-9854** Blake Neff is not a TPUSA employee",
-   "label": "Blake Neff is not a TPUSA employee",
+   "header": "**C-9854** Host says Blake Neff is not a TPUSA employee",
+   "label": "Host says Blake Neff is not a TPUSA employee",
    "lines": [
     {
      "raw": ""
@@ -4446,8 +4446,8 @@
   {
    "kind": "claim",
    "id": "C-9859",
-   "header": "**C-9859** Russia and Persia ended the Khazar Empire",
-   "label": "Russia and Persia ended the Khazar Empire",
+   "header": "**C-9859** Host asserts Russia and Persia ended the Khazar Empire",
+   "label": "Host asserts Russia and Persia ended the Khazar Empire",
    "lines": [
     {
      "raw": ""
@@ -4736,8 +4736,8 @@
   {
    "kind": "claim",
    "id": "C-9864",
-   "header": "**C-9864** Hansell stopped in Tucson and went to Fort Huachuca on September 8",
-   "label": "Hansell stopped in Tucson and went to Fort Huachuca on September 8",
+   "header": "**C-9864** Host says Hansell stopped in Tucson and went to Fort Huachuca on September 8",
+   "label": "Host says Hansell stopped in Tucson and went to Fort Huachuca on September 8",
    "lines": [
     {
      "raw": ""
@@ -4855,8 +4855,8 @@
   {
    "kind": "claim",
    "id": "C-9866",
-   "header": "**C-9866** Erika Kirk has not provided an alibi; Paramount Tactical debunked the one offered",
-   "label": "Erika Kirk has not provided an alibi; Paramount Tactical debunked the one offered",
+   "header": "**C-9866** Host says Erika Kirk has not provided an alibi and Paramount Tactical debunked the one offered",
+   "label": "Host says Erika Kirk has not provided an alibi and Paramount Tactical debunked the one offered",
    "lines": [
     {
      "raw": ""

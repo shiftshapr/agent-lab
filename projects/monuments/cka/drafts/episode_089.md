@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:49:26
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: f014080d358c9ccfe42ed712aeffc49e3166ec2829366ab1f4e0556561329eb5
+- **Transcript SHA-256**: d8daa6dfe46359b7df0871e2047346ac85db3e1a5397a4a75f5e696b2ff12b05
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep089): N-10673
@@ -648,7 +648,7 @@ Investigative Direction: Obtain the original Loomer audio/video (e.g., X post, R
 
 ---
 
-**C-7990** Charlie Kirk Told Candace Owens He and Andrew Kolvet Were Present at a Meeting in Which Miriam Adelson Offered Trump $100M for West Bank Annexation
+**C-7990** Candace Owens Says Charlie Kirk Told Her Miriam Adelson Offered Trump $100M for West Bank Annexation
 
 Claim Timestamp: 00:29:16–00:31:16
 
@@ -801,7 +801,7 @@ Investigative Direction: Obtain the archived Truth Social post and compare the w
 
 ---
 
-**C-7958** Trump Post Said Tucker Carlson Was Broken After Fox and Needs a Psychiatrist
+**C-7958** Trump Post Said Tucker Carlson Was Broken After Fox and Perhaps Should See a Psychiatrist
 
 Claim Timestamp: 00:07:19
 
@@ -1158,7 +1158,6 @@ Transcript Snippet: That could mean Clinton-style blackmail against Trump or som
 Anchored Artifacts: A-1942.1
 Mentions: N-22, N-5, N-3
 Related Nodes: N-10026
-Qualifies: C-7985
 Tags: relevance:context
 Investigative Direction: Retrieve the original letter; the letter itself marks this as unestablished.
 

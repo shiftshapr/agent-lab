@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:05:03",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: e1354996fe0dca09feb5fcf6281cba63b17e90513ca05526f293f355bf11437c",
+    "- **Transcript SHA-256**: 0098ad76e77bd607063eb22423bcb3dd357af3bff1f091b1d50e339ea6a99e04",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-858, N-11173",
@@ -2396,8 +2396,8 @@
   {
    "kind": "claim",
    "id": "C-7731",
-   "header": "**C-7731** ATF Unable to Identify Bullet to Rifle",
-   "label": "ATF Unable to Identify Bullet to Rifle",
+   "header": "**C-7731** Defense Filing Says ATF Was Unable to Identify Bullet to Rifle",
+   "label": "Defense Filing Says ATF Was Unable to Identify Bullet to Rifle",
    "lines": [
     {
      "raw": ""
@@ -3337,8 +3337,8 @@
   {
    "kind": "claim",
    "id": "C-7685",
-   "header": "**C-7685** Kirk shot at 12:23 p.m. Mountain Time on September 10",
-   "label": "Kirk shot at 12:23 p.m. Mountain Time on September 10",
+   "header": "**C-7685** Host says Kirk was shot at 12:23 p.m. Mountain Time on September 10",
+   "label": "Host says Kirk was shot at 12:23 p.m. Mountain Time on September 10",
    "lines": [
     {
      "raw": ""
@@ -3410,8 +3410,8 @@
   {
    "kind": "claim",
    "id": "C-7686",
-   "header": "**C-7686** Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot",
-   "label": "Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot",
+   "header": "**C-7686** Host says Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot",
+   "label": "Host says Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot",
    "lines": [
     {
      "raw": ""
@@ -3479,8 +3479,8 @@
   {
    "kind": "claim",
    "id": "C-7687",
-   "header": "**C-7687** Farnsworth's AV company has worked TPUSA events for over a decade",
-   "label": "Farnsworth's AV company has worked TPUSA events for over a decade",
+   "header": "**C-7687** Host says Farnsworth's AV company may have worked TPUSA events for over a decade",
+   "label": "Host says Farnsworth's AV company may have worked TPUSA events for over a decade",
    "lines": [
     {
      "raw": ""

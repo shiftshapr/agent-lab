@@ -1725,7 +1725,7 @@
       "@type": "Claim",
       "@id": "C-3176",
       "ref": "C-3176",
-      "label": "White House Contacted Candace Owens via Charlie Kirk About Macron Topic (Feb 24, 2025)",
+      "label": "Charlie Kirk Texted Candace Owens That the White House Asked Him to Call Her (Feb 24, 2025)",
       "claim": "The displayed text exchange documents Charlie Kirk informing Candace Owens that \"the White House\" asked him to call her, with Kirk characterizing himself as \"just the messenger here, but it's important.\"",
       "anchored_artifacts": [
         "A-1445.1"
@@ -1792,7 +1792,7 @@
       "@type": "Claim",
       "@id": "C-3214",
       "ref": "C-3214",
-      "label": "Brian Harpole Presented Flood–Long Text Exchange as His Own Communication",
+      "label": "Host Asserts Brian Harpole Presented Flood–Long Text Exchange as His Own Communication",
       "claim": "Host asserts Brian Harpole described the Dan Flood–Jeff Long text exchange using phrasing consistent with presenting it as his own correspondence, rather than identifying it as a Flood–Long exchange.",
       "anchored_artifacts": [
         "A-1447.1",
@@ -2793,10 +2793,8 @@
         "N-36",
         "N-1"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-4497"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2837,10 +2835,8 @@
       "mentions_person_refs": [
         "N-82"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-3388"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3127,7 +3123,9 @@
       "related_nodes": [
         "N-10232"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:28:44",
       "investigative_direction": "Cross-check each named person against court records for abuse allegations or convictions.",
       "transcript_snippet": "Whether you're talking about George Zinn or the person that jumped up and screamed or the pastors the Calvary Chapel",

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:54:33
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 498191448f0429779cb41d878bd4596c8d20c9fdcbb3d3ef271dbb2b7b27e70a
+- **Transcript SHA-256**: c464124782aabee3281b6be3e451de25d96c28e5852651768b2c72cb86a511fe
 
 - **Episode Ledger Summary**:
   - Claim Range: C-11506–C-11592
@@ -1011,7 +1011,6 @@ Transcript Snippet: I've never heard anybody make the claim that there's another
 Anchored Artifacts: A-2212.1
 Mentions: N-159, N-3
 Related Nodes: N-10691
-Qualifies: C-11521
 Tags: relevance:core
 Investigative Direction: Ask the prosecution and court whether a second rooftop angle exists in the exhibit list.
 Open Questions: Q-1033
@@ -1614,7 +1613,6 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10689, N-10193
 Tags: relevance:core
-Revises: C-1974
 Investigative Direction: Compare the family's stated reasons for the Catholic mass with the parish record.
 Open Questions: Q-816
 
@@ -1714,7 +1712,7 @@ Transcript Snippet: It was in fact my producer corrected the prosecution that fi
 Anchored Artifacts: A-2207.1
 Mentions: N-3
 Related Nodes: N-10690
-Revises: C-11509, C-11568, C-11570
+Revises: C-11509
 Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-7
@@ -1751,7 +1749,6 @@ Transcript Snippet: You can do a cursory search and determine that your heart an
 Anchored Artifacts: A-2207.1
 Mentions: N-3, N-1
 Related Nodes: N-10690
-Qualifies: C-11570
 Tags: relevance:core
 Investigative Direction: Ask an independent forensic pathologist whether post-mortem hemorrhage of this kind can occur.
 Open Questions: Q-1006, Q-1031
@@ -1897,7 +1894,7 @@ Open Questions: Q-953
 
 ---
 
-**C-11580** Prosecution Cites Exhibits 12.1 and 12.4 as Proof of a Screwdriver
+**C-11580** Host Says Prosecution Cited Exhibits 12.1 and 12.4 as Proof of a Screwdriver
 
 Claim Timestamp: 00:38:01
 
@@ -1909,8 +1906,6 @@ Anchored Artifacts: A-2882.1
 Mentions: N-3
 Related Nodes: N-10086
 Tags: relevance:core
-Verification: revised-by-host
-Verification Evidence: C-11581
 Investigative Direction: Pull exhibits 12.1 and 12.4 from the hearing record.
 Open Questions: Q-972
 
@@ -1927,7 +1922,6 @@ Transcript Snippet: We have seen no evidence of either a screwdriver or a gun on
 Anchored Artifacts: A-2882.1
 Mentions: N-3
 Related Nodes: N-10086, N-10698
-Contradicts: C-11580
 Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-2, S-3

@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:18",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5",
+    "- **Transcript SHA-256**: 9a8819abf16ed51ab5c2a2ce94930c2b3526099a64ce7fc82ea215cbe151cf94",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-785, N-786, N-787, N-11063",
@@ -2956,8 +2956,8 @@
   {
    "kind": "claim",
    "id": "C-12285",
-   "header": "**C-12285** Farnsworth Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
-   "label": "Farnsworth Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
+   "header": "**C-12285** Host Says Footage Shows Farnsworth Pocketing SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes",
+   "label": "Host Says Footage Shows Farnsworth Pocketing SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes",
    "lines": [
     {
      "raw": ""
@@ -3006,8 +3006,8 @@
   {
    "kind": "claim",
    "id": "C-12288",
-   "header": "**C-12288** Farnsworth Subsequently Inserted That SD Card Into His Laptop",
-   "label": "Farnsworth Subsequently Inserted That SD Card Into His Laptop",
+   "header": "**C-12288** Host Says Farnsworth Appears to Have Inserted That SD Card Into His Laptop",
+   "label": "Host Says Farnsworth Appears to Have Inserted That SD Card Into His Laptop",
    "lines": [
     {
      "raw": ""
@@ -3056,8 +3056,8 @@
   {
    "kind": "claim",
    "id": "C-12296",
-   "header": "**C-12296** Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
-   "label": "Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
+   "header": "**C-12296** Host Says Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
+   "label": "Host Says Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
    "lines": [
     {
      "raw": ""
@@ -3206,8 +3206,8 @@
   {
    "kind": "claim",
    "id": "C-12325",
-   "header": "**C-12325** Mike Mitchell Is Identified in Trump's Account as Both a Person Involved in Law Enforcement and a Person of Faith / Minister",
-   "label": "Mike Mitchell Is Identified in Trump's Account as Both a Person Involved in Law Enforcement and a Person of Faith / Minister",
+   "header": "**C-12325** Host Maps Trump's Description of a Law Enforcement Officer and Minister to Mike Mitchell",
+   "label": "Host Maps Trump's Description of a Law Enforcement Officer and Minister to Mike Mitchell",
    "lines": [
     {
      "raw": ""
@@ -5916,7 +5916,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

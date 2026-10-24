@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:10
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf
+- **Transcript SHA-256**: d64eebc408d3b4fb3e4b29c66b62367b87da29c9b6b88e25fe098e57d93a2a6b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-942, N-11314, N-11315
@@ -1207,7 +1207,7 @@ The host reads that the RNC altered 2012 convention rules to bind delegates and 
 
 ## V. Claim Register
 
-**C-7766** Romney–Netanyahu Friendship Dated to 1976 at Boston Consulting Group
+**C-7766** NYT Dates Romney–Netanyahu Friendship to 1976; Host Says Both Were at Boston Consulting Group
 
 Claim Timestamp: 00:03:21–00:04:22
 
@@ -1390,7 +1390,7 @@ Investigative Direction: Obtain full unedited video of the Easter remarks; docum
 
 ---
 
-**C-7795** Qureshi and Henderson Families Lived in Same House, Keller, Texas
+**C-7795** Host Says Qureshi and Henderson Families Lived in Same House, Keller, Texas
 
 Claim Timestamp: 00:16:55–00:17:51
 
@@ -1416,8 +1416,6 @@ Mentions: N-134
 
 Related Nodes: N-10527
 
-Verification: revised-by-host
-Verification Evidence: C-10996
 Investigative Direction: Confirm via Timpanogos press releases, LinkedIn, or Utah business filings.
 
 ---
@@ -1437,7 +1435,7 @@ Investigative Direction: Verify via Medical City Healthcare press releases or Li
 
 ---
 
-**C-7809** Andrew Zenger Attended BYU Jerusalem
+**C-7809** Host Says Andrew Zenger Attended BYU Jerusalem
 
 Claim Timestamp: 00:24:39
 
@@ -1452,7 +1450,7 @@ Investigative Direction: Confirm via BYU Jerusalem Center enrollment records or 
 
 ---
 
-**C-7810** BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth
+**C-7810** Host Says Source Told Her BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth
 
 Claim Timestamp: 00:24:39–00:25:43
 
@@ -1467,7 +1465,7 @@ Investigative Direction: Obtain corroborating documentation; on-screen artifact 
 
 ---
 
-**C-7815** Metro One Talent Is the CIA's Recruiting Vendor
+**C-7815** Host Says Metro One Talent Is the CIA's Recruiting Vendor
 
 Claim Timestamp: 00:26:30
 
@@ -1511,7 +1509,7 @@ Investigative Direction: Confirm via BYU athletics records and class roster.
 
 ---
 
-**C-7852** Turning Point Sent Fundraising Texts Within 48 Hours of Death
+**C-7852** Host Says Turning Point Sent Fundraising Texts Within 48 Hours of Death
 
 Claim Timestamp: 00:44:25–00:45:16
 
@@ -1550,6 +1548,7 @@ Mentions: N-942
 
 Related Nodes: N-10148, N-10530
 
+Tags: relevance:tangential
 Investigative Direction: Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation.
 
 ---
@@ -1584,7 +1583,7 @@ Investigative Direction: Verify via Romney 2012 campaign staff biographies.
 
 ---
 
-**C-7857** BYU Recruits CIA Talent From Hawaii and Jerusalem Campuses
+**C-7857** Host Says CIA Recruits BYU Talent From Hawaii and Jerusalem Campuses
 
 Claim Timestamp: 00:47:08–00:48:01
 
@@ -1908,7 +1907,7 @@ Transcript Snippet: we should start to think of Zachariah Qureshi as decoy boy n
 Anchored Artifacts: 
 Mentions: N-3, N-410, N-42
 Related Nodes: N-10032, N-10529
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Obtain booking and release records for both men and establish whether any evidence links their detentions to one another.
 Open Questions: Q-28, Q-761
 
@@ -1926,7 +1925,7 @@ Anchored Artifacts:
 Mentions: N-3, N-42
 Related Nodes: N-10166, N-10331
 Supports: C-1486
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Identify hospital staff or patients who heard Zin and obtain any incident or police report of the statement.
 Open Questions: Q-28
 

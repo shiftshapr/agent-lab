@@ -2447,7 +2447,7 @@
       "@type": "Claim",
       "@id": "C-8430",
       "ref": "C-8430",
-      "label": "Trump Truth Social Post: \"Dying Fast\"",
+      "label": "Truth Social Post Under Trump's Name: \"Dying Fast\"",
       "claim": "Per a Truth Social post under Donald Trump's name that the host reads, he hears Candace Owens, Megyn Kelly, and Tucker Carlson are \"dying fast\" and \"were fake MAGA\"; the host says she does not think Trump writes these posts.",
       "anchored_artifacts": [
         "A-1995.1"
@@ -2469,7 +2469,7 @@
       "@type": "Claim",
       "@id": "C-8434",
       "ref": "C-8434",
-      "label": "Trump Follow-up Post Mentions \"Mentally Ill\"",
+      "label": "Host Thinks Follow-up Trump Post Called Her \"Mentally Ill\"",
       "claim": "The host says a follow-up Trump Truth Social post, she thinks, called her mentally ill.",
       "anchored_artifacts": [
         "A-1995.2"
@@ -2581,7 +2581,9 @@
       "related_nodes": [
         "N-10575"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:44",
       "investigative_direction": "Verify Jacoby's tweet directly; check for any legal filings or counter-statements.",
       "mentions_person_refs": [
@@ -2691,7 +2693,9 @@
       "related_nodes": [
         "N-10577"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:26",
       "investigative_direction": "Verify tweet and any linked court filings; check Davidson County court records.",
       "mentions_person_refs": [
@@ -2714,7 +2718,9 @@
       "related_nodes": [
         "N-10577"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:11",
       "investigative_direction": "Pull the underlying court filing in Davidson County, Tennessee.",
       "mentions_person_refs": [
@@ -2788,7 +2794,7 @@
       "@type": "Claim",
       "@id": "C-8405",
       "ref": "C-8405",
-      "label": "Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16",
+      "label": "Host Says Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16",
       "claim": "The host states that on January 16, Erika Kirk filed an invocation of speedy trial rights in Utah, permitted under Utah's state victim-rights code.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -4888,7 +4894,8 @@
         "N-10577"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:11",
       "investigative_direction": "Pull the court or insurance record that shows the payee and compare with the host's account.",
@@ -4913,7 +4920,8 @@
         "N-10577"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:11",
       "investigative_direction": "Retrieve the underlying Davidson County filing and the insurer's payment record.",

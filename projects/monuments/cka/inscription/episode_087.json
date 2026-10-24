@@ -2535,7 +2535,7 @@
       "@type": "Claim",
       "@id": "C-7766",
       "ref": "C-7766",
-      "label": "Romney–Netanyahu Friendship Dated to 1976 at Boston Consulting Group",
+      "label": "NYT Dates Romney–Netanyahu Friendship to 1976; Host Says Both Were at Boston Consulting Group",
       "claim": "Per the 2012 New York Times article the host shows, a friendship between Mitt Romney and Benjamin Netanyahu dates to 1976; the host says they both worked at the Boston Consulting Group then.",
       "anchored_artifacts": [
         "A-1917.1"
@@ -2795,7 +2795,7 @@
       "@type": "Claim",
       "@id": "C-7795",
       "ref": "C-7795",
-      "label": "Qureshi and Henderson Families Lived in Same House, Keller, Texas",
+      "label": "Host Says Qureshi and Henderson Families Lived in Same House, Keller, Texas",
       "claim": "The host says the Qureshi and Henderson families lived in the same house in Keller, Texas; she offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2829,10 +2829,8 @@
       "mentions_person_refs": [
         "N-134"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-10996"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2855,7 +2853,7 @@
       "@type": "Claim",
       "@id": "C-7809",
       "ref": "C-7809",
-      "label": "Andrew Zenger Attended BYU Jerusalem",
+      "label": "Host Says Andrew Zenger Attended BYU Jerusalem",
       "claim": "The host says Andrew Zenger attended BYU Jerusalem and was there during the Mitt Romney presidential election season.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2875,7 +2873,7 @@
       "@type": "Claim",
       "@id": "C-7810",
       "ref": "C-7810",
-      "label": "BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth",
+      "label": "Host Says Source Told Her BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth",
       "claim": "The host says an unnamed person told her the BYU Jerusalem Center is where elite Mormon youth are approached by their teachers to work for the CIA; she adds that the program director is Israeli and says she knows this for a fact.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2891,7 +2889,7 @@
       "@type": "Claim",
       "@id": "C-7815",
       "ref": "C-7815",
-      "label": "Metro One Talent Is the CIA's Recruiting Vendor",
+      "label": "Host Says Metro One Talent Is the CIA's Recruiting Vendor",
       "claim": "The host says the CIA uses a company called Metro One Talent to interview and bring on board young recruits such as those from BYU Jerusalem.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2950,7 +2948,7 @@
       "@type": "Claim",
       "@id": "C-7852",
       "ref": "C-7852",
-      "label": "Turning Point Sent Fundraising Texts Within 48 Hours of Death",
+      "label": "Host Says Turning Point Sent Fundraising Texts Within 48 Hours of Death",
       "claim": "The host says someone sent her Turning Point USA fundraising text messages, sent about 48 hours after Charlie Kirk's death, that began \"Hi, I'm Erika and for Charlie's legacy, please give\".",
       "anchored_artifacts": [
         "A-1926.1"
@@ -2998,7 +2996,9 @@
         "N-10148",
         "N-10530"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:29:45",
       "investigative_direction": "Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation.",
       "mentions_person_refs": [
@@ -3049,7 +3049,7 @@
       "@type": "Claim",
       "@id": "C-7857",
       "ref": "C-7857",
-      "label": "BYU Recruits CIA Talent From Hawaii and Jerusalem Campuses",
+      "label": "Host Says CIA Recruits BYU Talent From Hawaii and Jerusalem Campuses",
       "claim": "The host says the CIA plucks students from BYU's Hawaii campus in particular and approaches students at BYU Jerusalem about working for the CIA, while saying she is not saying everyone who goes to BYU is in the CIA.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3557,7 +3557,8 @@
         "N-10529"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:06:41",
       "investigative_direction": "Obtain booking and release records for both men and establish whether any evidence links their detentions to one another.",
@@ -3586,7 +3587,8 @@
         "N-10331"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:33",
       "investigative_direction": "Identify hospital staff or patients who heard Zin and obtain any incident or police report of the statement.",

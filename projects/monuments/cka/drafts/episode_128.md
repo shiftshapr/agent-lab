@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:54:15
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c
+- **Transcript SHA-256**: 122958184de3beb6efcba7ff87df8be6167804fae65aec3d713a709de8373f58
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-943, N-944, N-11318, N-11319, N-11320, N-11321
@@ -1170,7 +1170,7 @@ Investigative Direction: Confirm against Weber State graduation records or alumn
 
 ---
 
-**C-10991** Jennifer Faumuina completed Utah DPS post-training on May 20, 2013
+**C-10991** Jennifer Faumuina Apparently Appears in Utah DPS Post-Training Photo Dated May 20, 2013
 
 Claim Timestamp: 00:19:40
 
@@ -1185,7 +1185,7 @@ Investigative Direction: Verify through DPS academy records and class photograph
 
 ---
 
-**C-10986** Jennifer Faumuina volunteered as a Utah trooper for crowd control at the 2016 RNC in Ohio
+**C-10986** Host Says a 2016 Article Shows Jennifer Faumuina Volunteered for Crowd Control at the 2016 RNC in Ohio
 
 Claim Timestamp: 00:17:45
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Request Utah state salary records to verify employment 
 
 ---
 
-**C-10992** Faumuina and Beau Mason Photographed Together on May 20, 2013
+**C-10992** Faumuina and Beau Mason Apparently Photographed Together on May 20, 2013
 
 Claim Timestamp: 00:19:40
 
@@ -1271,7 +1271,6 @@ Mentions: N-134
 
 Related Nodes: N-10667
 
-Revises: C-7806
 Investigative Direction: Confirm via hospital press releases and board minutes.
 
 ---
@@ -1306,7 +1305,7 @@ Investigative Direction: Confirm via FBI press releases and internal personnel a
 
 ---
 
-**C-11001** Robert Bohls began his career at the Provo Police Department in the early 2000s
+**C-11001** 2004 Article Says Robert Bohls Served With the Provo Police Department Before the Military and FBI
 
 Claim Timestamp: 00:22:12
 
@@ -1321,7 +1320,7 @@ Investigative Direction: Cross-reference Provo PD rosters and 2004 article conte
 
 ---
 
-**C-11003** Misiona Faumuina died in 1995 in Hawaii from injuries sustained in a gang-related beating
+**C-11003** Host Says Misiona Faumuina Died in 1995 in Hawaii After a Beating in a Reported Gang Initiation
 
 Claim Timestamp: 00:23:20
 
@@ -2439,8 +2438,6 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10666, N-10000
 Tags: relevance:core
-Verification: revised-by-host
-Verification Evidence: C-11750
 Investigative Direction: Obtain the FBI hotel booking records and TPUSA group lodging records.
 Open Questions: Q-986
 

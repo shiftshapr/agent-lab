@@ -16,7 +16,7 @@
     "- **Video Timestamp Range**: 00:00:00–01:04:08",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: 85c009a9696e6d09206abec6ccb733f9bd4c300b70a081ff0aa259cf4d192e45",
+    "- **Transcript SHA-256**: 59eea04af213cea7fdebaf2ea7edd178a68b80f9dcd504fe3ab5900ed899b22b",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-11016",
@@ -2830,10 +2830,6 @@
      "v": "N-11"
     },
     {
-     "k": "Contradicts",
-     "v": "C-1358"
-    },
-    {
      "raw": ""
     },
     {
@@ -2978,10 +2974,6 @@
     {
      "k": "Mentions",
      "v": "N-14, N-22"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-1363"
     },
     {
      "raw": ""
@@ -3359,8 +3351,8 @@
   {
    "kind": "claim",
    "id": "C-1352",
-   "header": "**C-1352** Josh Hammer identified as group chat participant",
-   "label": "Josh Hammer identified as group chat participant",
+   "header": "**C-1352** Host identifies Josh Hammer as group chat participant",
+   "label": "Host identifies Josh Hammer as group chat participant",
    "lines": [
     {
      "raw": ""
@@ -5704,10 +5696,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10156"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-711"
     },
     {
      "k": "Tags",

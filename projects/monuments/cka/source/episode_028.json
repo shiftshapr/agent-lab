@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:54:53",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26",
+    "- **Transcript SHA-256**: 81e5ab6edb6fe005e5afc675635b9c0befa94273be7707900549cdbebde3fd5c",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-847, N-11147",
@@ -2795,8 +2795,8 @@
   {
    "kind": "claim",
    "id": "C-2511",
-   "header": "**C-2511** Boreing Invited Fuentes Onto Daily Wire Shows",
-   "label": "Boreing Invited Fuentes Onto Daily Wire Shows",
+   "header": "**C-2511** HuffPost Says Boreing Would Be Thrilled to Have Fuentes on a Daily Wire Show",
+   "label": "HuffPost Says Boreing Would Be Thrilled to Have Fuentes on a Daily Wire Show",
    "lines": [
     {
      "raw": ""
@@ -2852,8 +2852,8 @@
   {
    "kind": "claim",
    "id": "C-2515",
-   "header": "**C-2515** Candace–Charlie Text Exchange Documents Shapiro's Behavior",
-   "label": "Candace–Charlie Text Exchange Documents Shapiro's Behavior",
+   "header": "**C-2515** Host Reads Candace–Charlie Texts About Treating Shapiro Like Noise",
+   "label": "Host Reads Candace–Charlie Texts About Treating Shapiro Like Noise",
    "lines": [
     {
      "raw": ""
@@ -2945,6 +2945,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -3296,8 +3300,8 @@
   {
    "kind": "claim",
    "id": "C-2497",
-   "header": "**C-2497** Shapiro–Carlson Private Text Exchange After Kirk's Death",
-   "label": "Shapiro–Carlson Private Text Exchange After Kirk's Death",
+   "header": "**C-2497** Shapiro Says He Texted Carlson Proposing a Joint Show and His Outreach Went Unanswered",
+   "label": "Shapiro Says He Texted Carlson Proposing a Joint Show and His Outreach Went Unanswered",
    "lines": [
     {
      "raw": ""
@@ -3766,8 +3770,8 @@
   {
    "kind": "claim",
    "id": "C-2501",
-   "header": "**C-2501** Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country",
-   "label": "Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country",
+   "header": "**C-2501** Clip: Speaker Says Mamdani Said He Would Stay in New York When Asked Which Foreign Country He Would Visit",
+   "label": "Clip: Speaker Says Mamdani Said He Would Stay in New York When Asked Which Foreign Country He Would Visit",
    "lines": [
     {
      "raw": ""
@@ -4200,10 +4204,6 @@
      "v": "N-10821"
     },
     {
-     "k": "Qualifies",
-     "v": "C-2510"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -4225,8 +4225,8 @@
   {
    "kind": "claim",
    "id": "C-2513",
-   "header": "**C-2513** Clip: Fuentes Tells Boring That Shapiro Cannot Say 'Christ Is King'",
-   "label": "Clip: Fuentes Tells Boring That Shapiro Cannot Say 'Christ Is King'",
+   "header": "**C-2513** Clip: Fuentes Says Guys Like Shapiro Will Not Say 'Christ Is King'",
+   "label": "Clip: Fuentes Says Guys Like Shapiro Will Not Say 'Christ Is King'",
    "lines": [
     {
      "raw": ""

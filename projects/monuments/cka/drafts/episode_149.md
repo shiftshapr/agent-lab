@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:25
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: d083233973ad6e9fb8ef03f80dd5b5b650e1276ba782aca655d4b16cef72c1cd
+- **Transcript SHA-256**: b3c51c08a4630d281e872ddc980fdcd024670576b213cbe6fcfeed2653b0b727
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11323, N-11324, N-11325
@@ -1013,6 +1013,7 @@ Claim Timestamp: 00:02:11
 Claim: The host says Pepper Williams was one of four people on the TPUSA team on the ground on September 10 whose families were involved in the same industry: global freight, trucking, and global shipping.
 Anchored Artifacts: A-2426.1
 Mentions: N-269
+Tags: relevance:tangential
 Investigative Direction: Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.
 
 ---
@@ -1178,7 +1179,7 @@ Investigative Direction: Identify the underlying source(s) raising the host's co
 
 ---
 
-**C-12918** If the receipt is confirmed, Tyler Robinson could not have made it back to Orem before ~1:47 AM
+**C-12918** Host's timeline: if the receipt is confirmed, Tyler Robinson could not have reached Orem before ~1:47 AM
 
 Claim Timestamp: 00:36:05
 Claim: Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM - which would make multiple earlier events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.
@@ -1189,7 +1190,7 @@ Investigative Direction: Cross-reference cell tower data, surveillance footage, 
 
 ---
 
-**C-12908** The Cowboy Smokehouse has received harassment (bad reviews) since July
+**C-12908** Host says the Cowboy Smokehouse has apparently been harassed with bad reviews since July
 
 Claim Timestamp: 00:33:40
 Claim: The host states that, apparently, since July the restaurant has been "severely harassed" with bad reviews, characterizing the activity as "completely psychotic."
@@ -1200,7 +1201,7 @@ Investigative Direction: Document the review pattern (volume, timing, account or
 
 ---
 
-**C-12909** The Cowboy Smokehouse owner contacted the FBI after the server identified the suspect
+**C-12909** Host says Cowboy Smokehouse owner contacted the FBI after the server believed he served the suspect
 
 Claim Timestamp: 00:33:40
 Claim: Per the host's account, the server contacted the owner after believing he had served the suspect; the owner then contacted the FBI.
@@ -1983,7 +1984,7 @@ Open Questions: Q-882
 
 ---
 
-**C-12879** Footage Shows Turek Getting Into the Boot of the SUV
+**C-12879** Host Says Footage Shows Turek Getting Into the Boot of the SUV
 
 Claim Timestamp: 00:19:48
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:37
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 4dbfcb2b5d8419ada71b8eeaa37232158deb146c1e17f4f75d308b3b4968a1d7
+- **Transcript SHA-256**: 5c061c70344cb85d18f76df0c88173ad93dc5fb031384ffa55e9939f79e10a61
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11316, N-11317
@@ -962,7 +962,7 @@ Investigative Direction: Retrieve original Financial Times article and Project A
 
 ---
 
-**C-9627** Project Aurora evolved into a $4M consulting contract
+**C-9627** Project Aurora reportedly evolved into a $4M consulting contract
 
 Claim Timestamp: 00:16:20
 
@@ -977,7 +977,7 @@ Investigative Direction: Confirm $4M figure against leaked internal documents re
 
 ---
 
-**C-9628** Project Aurora proposed a $9,000-per-person voluntary departure for ~500,000 Palestinians
+**C-9628** Project Aurora model proposed $9,000 per person to relocate ~500,000 Palestinians outside Gaza
 
 Claim Timestamp: 00:16:50
 
@@ -1019,7 +1019,7 @@ Investigative Direction: Verify cost ranges against FT-published leaked document
 
 ---
 
-**C-9633** BCG dismissed two senior partners in July 2025 after the Financial Times story
+**C-9633** BCG dismissed two partners in July 2025 after the Financial Times story
 
 Claim Timestamp: 00:18:30
 
@@ -1138,7 +1138,7 @@ Investigative Direction: Cross-check name and role against French archival recor
 
 ---
 
-**C-9693** Mitt Romney Operated a "Pierre Delecto" Burner X/Twitter Account
+**C-9693** Viewers and Host Say Mitt Romney Operated a "Pierre Delecto" Burner X/Twitter Account
 
 Claim Timestamp: 00:46:50
 
@@ -1168,7 +1168,7 @@ Investigative Direction: Obtain archived screenshots of Erika Kirk's Instagram a
 
 ---
 
-**C-9663** Turning Point USA submitted a request for Charlie Kirk to speak at UVU on July 18, 2025
+**C-9663** Utah news says Turning Point USA submitted a request for Charlie Kirk to speak at UVU on July 18, 2025
 
 Claim Timestamp: 00:31:50
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Verify BCG employment for both Romney and Netanyahu via
 
 ---
 
-**C-9613** Bain Capital was founded by Mitt Romney with Robert Maxwell as a seed investor
+**C-9613** Host says Bain Capital was founded by Mitt Romney with Robert Maxwell as a seed investor
 
 Claim Timestamp: 00:10:30
 

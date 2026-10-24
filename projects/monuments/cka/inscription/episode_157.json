@@ -2678,7 +2678,7 @@
       "@type": "Claim",
       "@id": "C-13532",
       "ref": "C-13532",
-      "label": "July 10, 2025 courtyard request was initiated by TPUSA field rep Maycee Crofts",
+      "label": "Review: July 10, 2025 courtyard request came from TPUSA field rep, whom host identifies as Maycee Crofts",
       "claim": "The independent-review timeline states that on July 10, 2025, at the request of TPUSA's field representative (whom the host identifies as Maycee Crofts), the UVU club president was asked to request that Charlie Kirk speak in the courtyard, characterized by the host as a reversal of normal TPUSA chapter event-request practice.",
       "anchored_artifacts": [
         "A-2451.2"
@@ -2781,7 +2781,7 @@
       "@type": "Claim",
       "@id": "C-13555",
       "ref": "C-13555",
-      "label": "Anonymous EMP-device threat was reported to SIAC on September 10 morning",
+      "label": "Review: Chief Long reported anonymous EMP-device threat to SIAC on September 10",
       "claim": "Per the review as read by the host, Chief Jeff Long contacted Utah SIAC on September 10 regarding an anonymous threat referencing an electromagnetic-pulse device that a suspect might use at the event.",
       "anchored_artifacts": [
         "A-2454.1"
@@ -2829,7 +2829,7 @@
       "@type": "Claim",
       "@id": "C-13595",
       "ref": "C-13595",
-      "label": "July 2025 personal/political pressures coincide with UVU booking start",
+      "label": "Host presents July 2025 pressures on Charlie Kirk as backdrop to UVU booking start",
       "claim": "Host presents Charlie Kirk's July–August 2025 pressures (Epstein-coverage walk-back July 14; Erika travel; formal UVU request July 18; sponsorship addendum July 25; Egyptian-plane movements; August Hamptons retreat), later adding June events (White House/BB confrontation, Erika's Instagram purge) in reply to a viewer comment, as a concurrent backdrop to the July 10 HQ-driven UVU courtyard request, saying something happened in July while noting some facts on her timeline may not be relevant.",
       "anchored_artifacts": [
         "A-2456.1"
@@ -2854,7 +2854,7 @@
       "@type": "Claim",
       "@id": "C-13626",
       "ref": "C-13626",
-      "label": "Maycee Crofts’s uncle Kip Crofts had a sexual-abuse case dismissed shortly before/around related public attention",
+      "label": "News clip: criminal case against Kip Crofts, identified as Maycee Crofts's uncle, was dismissed",
       "claim": "Host presents news-clip reporting that the criminal case against former coach Kip Crofts (identified as Maycee Crofts’s uncle) was dismissed, lifting no-contact restrictions; offered as biographical background while discussing who directed the UVU courtyard insistence–not as proof of UVU-event causation.",
       "anchored_artifacts": [
         "A-2457.1"
@@ -2862,7 +2862,9 @@
       "related_nodes": [
         "N-10781"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:12:05",
       "investigative_direction": "Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”",
       "mentions_person_refs": [
@@ -2942,7 +2944,7 @@
       "@type": "Claim",
       "@id": "C-13520",
       "ref": "C-13520",
-      "label": "UVU engaged the Lake Forest Group almost immediately for a broad security review",
+      "label": "Host says UVU engaged the Lake Forest Group almost immediately for a broad security review",
       "claim": "The host says UVU almost immediately engaged a third party, the Lake Forest Group, to conduct a broad review of the security protocols for September 10, opening the campus and police to interviews.",
       "anchored_artifacts": [
         "A-2451.1"
@@ -3807,7 +3809,7 @@
       "@type": "Claim",
       "@id": "C-13561",
       "ref": "C-13561",
-      "label": "Review: UVU, not TPUSA, requested added officers after seeing the crowd at 11:00",
+      "label": "Review: Chief Long requested added officers after seeing the crowd at 11:00; host says TPUSA did not",
       "claim": "The host reads that at 11:00 a.m. Chief Long requested additional UVUPD staffing after observing the crowd size, and the host says TPUSA did not request more people.",
       "anchored_artifacts": [
         "A-2802.5"
@@ -4282,7 +4284,7 @@
       "@type": "Claim",
       "@id": "C-13583",
       "ref": "C-13583",
-      "label": "Review: a drone from the Orem Police Department could have been requested but was not",
+      "label": "Review: a drone from the Orem Police Department could have been requested; host says it was not",
       "claim": "The host reads the review's statement that if the team had concerns about the venue, a drone from the neighboring Orem Police Department could have been requested, and the host says it was not requested.",
       "anchored_artifacts": [
         "A-2802.11"
@@ -4385,7 +4387,9 @@
       "related_nodes": [
         "N-10709"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:15",
       "investigative_direction": "Verify Bagley's assignment history and the other officers' backgrounds from personnel records.",
       "transcript_snippet": "They're all, they all kind of have this background history in sex crimes.",
@@ -4845,7 +4849,7 @@
       "@type": "Claim",
       "@id": "C-13608",
       "ref": "C-13608",
-      "label": "Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End",
+      "label": "Host Says Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End",
       "claim": "The host says Yrefy came in as number one sponsor for a Charlie Kirk fall tour on July 25 even though it had already signed a contract in January covering events through the end of the year.",
       "anchored_artifacts": [
         "A-2456.1"
@@ -5190,7 +5194,9 @@
         "A-2804.4"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:09:15",
       "investigative_direction": "Verify through obituaries and Idaho public records.",
       "transcript_snippet": "her her father had passed suddenly and um that her family was involved in law enforcement in Idaho",
@@ -5214,7 +5220,9 @@
       "related_nodes": [
         "N-10764"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:10:04",
       "investigative_direction": "Obtain the Canyon County warrant, docket and arrest record.",
       "transcript_snippet": "A warrant was issued charging Kip Crofts, so that's her dad's brother, with sexual abuse of a minor.",
@@ -5235,7 +5243,9 @@
         "A-2804.4"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:10:04",
       "investigative_direction": "Obtain the charging documents describing the alleged 2024 incident.",
       "transcript_snippet": "He was accused of touching himself in a classroom while watching explicit adult content in 2024.",
@@ -5277,7 +5287,9 @@
         "A-2457.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:12:05",
       "investigative_direction": "Identify the news outlet and broadcast date of the clip and match the details to the court record.",
       "transcript_snippet": "The case centered on allegations that Crofts exposed himself while watching explicit material in a Caldwell High School classroom with a 14-year-old student present.",

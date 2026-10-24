@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:01:57",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329",
+    "- **Transcript SHA-256**: 386e1d820db45e0e357fe745972b60ac3dada14f91c0a0016205487e1c7f521b",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-756, N-757, N-758, N-759, N-760, N-761, N-762, N-763, N-11024",
@@ -4867,6 +4867,10 @@
      "v": "N-1"
     },
     {
+     "k": "Contradicts",
+     "v": "C-2807"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain and analyze all available footage of the immediate post-shot interval from multiple angles; compare against official event security rosters; cross-reference with any forensic evidence collection from the scene."
     },
@@ -5756,10 +5760,6 @@
      "v": "N-11024"
     },
     {
-     "k": "Contradicts",
-     "v": "C-2748"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -6444,7 +6444,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6749,7 +6749,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6871,7 +6871,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6993,7 +6993,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -9499,10 +9499,6 @@
     {
      "k": "Mentions",
      "v": "N-67, N-3"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-2810"
     },
     {
      "k": "Tags",

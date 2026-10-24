@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:39",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:29:39Z",
-    "- **Transcript SHA-256**: 9caf7f4e6900b57aa8316245f9dee50f6b95263f387bc66ce213bb573aaa6fe6",
+    "- **Transcript SHA-256**: 274820f33c7f869dbbd869340c3fa45acfdf77a54ce3f2d23a7e7c18df506b99",
     "- **Model Version**: claude-manual-extract-seq105",
     "",
     "- **Episode Ledger Summary**:",
@@ -1949,8 +1949,8 @@
   {
    "kind": "claim",
    "id": "C-9255",
-   "header": "**C-9255** White House Military Office email instructed immediate amplification of Erika Kirk",
-   "label": "White House Military Office email instructed immediate amplification of Erika Kirk",
+   "header": "**C-9255** Host Says White House Military Office Email Instructed Immediate Amplification of Erika Kirk",
+   "label": "Host Says White House Military Office Email Instructed Immediate Amplification of Erika Kirk",
    "lines": [
     {
      "raw": ""
@@ -2006,8 +2006,8 @@
   {
    "kind": "claim",
    "id": "C-9256",
-   "header": "**C-9256** Trump has survived three shooting assassination attempts in under two years",
-   "label": "Trump has survived three shooting assassination attempts in under two years",
+   "header": "**C-9256** Host Questions That Trump Survived Three Shooting Assassination Attempts in Under Two Years",
+   "label": "Host Questions That Trump Survived Three Shooting Assassination Attempts in Under Two Years",
    "lines": [
     {
      "raw": ""
@@ -2064,8 +2064,8 @@
   {
    "kind": "claim",
    "id": "C-9257",
-   "header": "**C-9257** Putin has been president for 22 years without comparable shooting attempts",
-   "label": "Putin has been president for 22 years without comparable shooting attempts",
+   "header": "**C-9257** Host Says Putin Has Been President for 22 Years Without Comparable Shooting Attempts",
+   "label": "Host Says Putin Has Been President for 22 Years Without Comparable Shooting Attempts",
    "lines": [
     {
      "raw": ""
@@ -2180,8 +2180,8 @@
   {
    "kind": "claim",
    "id": "C-9259",
-   "header": "**C-9259** Erika Kirk was appointed to the Air Force Academy Board of Visitors",
-   "label": "Erika Kirk was appointed to the Air Force Academy Board of Visitors",
+   "header": "**C-9259** Host Says Erika Kirk Was Appointed to the Air Force Academy Board of Visitors",
+   "label": "Host Says Erika Kirk Was Appointed to the Air Force Academy Board of Visitors",
    "lines": [
     {
      "raw": ""
@@ -2238,8 +2238,8 @@
   {
    "kind": "claim",
    "id": "C-9260",
-   "header": "**C-9260** Erika Kirk visited the West Wing just before the WHCD shooting",
-   "label": "Erika Kirk visited the West Wing just before the WHCD shooting",
+   "header": "**C-9260** Host Says Erika Kirk Visited the West Wing Just Before the WHCD Shooting",
+   "label": "Host Says Erika Kirk Visited the West Wing Just Before the WHCD Shooting",
    "lines": [
     {
      "raw": ""
@@ -2358,8 +2358,8 @@
   {
    "kind": "claim",
    "id": "C-9262",
-   "header": "**C-9262** The WHCD shooting took place at 8:39 p.m. Eastern",
-   "label": "The WHCD shooting took place at 8:39 p.m. Eastern",
+   "header": "**C-9262** Host Says the WHCD Shooting Took Place at 8:39 p.m. Eastern",
+   "label": "Host Says the WHCD Shooting Took Place at 8:39 p.m. Eastern",
    "lines": [
     {
      "raw": ""
@@ -2421,8 +2421,8 @@
   {
    "kind": "claim",
    "id": "C-9263",
-   "header": "**C-9263** Sara Sidner of CNN uploaded the Erika Kirk video at 9:25 p.m.",
-   "label": "Sara Sidner of CNN uploaded the Erika Kirk video at 9:25 p.m.",
+   "header": "**C-9263** Host Says Sara Sidner of CNN Uploaded the Erika Kirk Video at 9:25 p.m.",
+   "label": "Host Says Sara Sidner of CNN Uploaded the Erika Kirk Video at 9:25 p.m.",
    "lines": [
     {
      "raw": ""
@@ -2483,8 +2483,8 @@
   {
    "kind": "claim",
    "id": "C-9264",
-   "header": "**C-9264** About 25 minutes later the email went to the wrong internal teams",
-   "label": "About 25 minutes later the email went to the wrong internal teams",
+   "header": "**C-9264** Host Says About 25 Minutes Later the Email Went to the Wrong Internal Teams",
+   "label": "Host Says About 25 Minutes Later the Email Went to the Wrong Internal Teams",
    "lines": [
     {
      "raw": ""
@@ -2711,8 +2711,8 @@
   {
    "kind": "claim",
    "id": "C-9268",
-   "header": "**C-9268** Email expected aligned outside commentators to amplify set themes",
-   "label": "Email expected aligned outside commentators to amplify set themes",
+   "header": "**C-9268** Host Says Email Expected Aligned Outside Commentators to Amplify Set Themes",
+   "label": "Host Says Email Expected Aligned Outside Commentators to Amplify Set Themes",
    "lines": [
     {
      "raw": ""
@@ -2769,8 +2769,8 @@
   {
    "kind": "claim",
    "id": "C-9269",
-   "header": "**C-9269** Email was delivered from the White House Communications Agency domain",
-   "label": "Email was delivered from the White House Communications Agency domain",
+   "header": "**C-9269** Host Says Email Was Delivered From the White House Communications Agency Domain",
+   "label": "Host Says Email Was Delivered From the White House Communications Agency Domain",
    "lines": [
     {
      "raw": ""
@@ -2885,8 +2885,8 @@
   {
    "kind": "claim",
    "id": "C-9271",
-   "header": "**C-9271** Email went to Karoline Leavitt's press office and national security teams",
-   "label": "Email went to Karoline Leavitt's press office and national security teams",
+   "header": "**C-9271** Host Says Email Went to Karoline Leavitt's Press Office and National Security Teams",
+   "label": "Host Says Email Went to Karoline Leavitt's Press Office and National Security Teams",
    "lines": [
     {
      "raw": ""
@@ -2942,8 +2942,8 @@
   {
    "kind": "claim",
    "id": "C-9272",
-   "header": "**C-9272** Steven Cheung and Richard Smale were on the email",
-   "label": "Steven Cheung and Richard Smale were on the email",
+   "header": "**C-9272** Host Says Steven Cheung and Richard Smale Were on the Email",
+   "label": "Host Says Steven Cheung and Richard Smale Were on the Email",
    "lines": [
     {
      "raw": ""
@@ -2999,8 +2999,8 @@
   {
    "kind": "claim",
    "id": "C-9273",
-   "header": "**C-9273** Gustav Anderly and Ryan Rippeon, military communications staff, were on the email",
-   "label": "Gustav Anderly and Ryan Rippeon, military communications staff, were on the email",
+   "header": "**C-9273** Host Says Gustav Anderly and Ryan Rippeon, Military Communications Staff, Were on the Email",
+   "label": "Host Says Gustav Anderly and Ryan Rippeon, Military Communications Staff, Were on the Email",
    "lines": [
     {
      "raw": ""
@@ -3056,8 +3056,8 @@
   {
    "kind": "claim",
    "id": "C-9274",
-   "header": "**C-9274** Michaela Mott of the Navy was on the email",
-   "label": "Michaela Mott of the Navy was on the email",
+   "header": "**C-9274** Host Says Michaela Mott of the Navy Was on the Email",
+   "label": "Host Says Michaela Mott of the Navy Was on the Email",
    "lines": [
     {
      "raw": ""
@@ -3229,8 +3229,8 @@
   {
    "kind": "claim",
    "id": "C-9277",
-   "header": "**C-9277** White House press conference took place at 10:33 p.m.",
-   "label": "White House press conference took place at 10:33 p.m.",
+   "header": "**C-9277** Host Says White House Press Conference Took Place at 10:33 p.m.",
+   "label": "Host Says White House Press Conference Took Place at 10:33 p.m.",
    "lines": [
     {
      "raw": ""
@@ -3460,8 +3460,8 @@
   {
    "kind": "claim",
    "id": "C-9281",
-   "header": "**C-9281** Stratos AI data center will cover more than 40,000 acres in Box Elder County",
-   "label": "Stratos AI data center will cover more than 40,000 acres in Box Elder County",
+   "header": "**C-9281** Guardian Says Stratos AI Data Center Will Cover More Than 40,000 Acres in Box Elder County",
+   "label": "Guardian Says Stratos AI Data Center Will Cover More Than 40,000 Acres in Box Elder County",
    "lines": [
     {
      "raw": ""
@@ -3518,8 +3518,8 @@
   {
    "kind": "claim",
    "id": "C-9282",
-   "header": "**C-9282** The data center will need about 9 gigawatts, more than Utah consumes",
-   "label": "The data center will need about 9 gigawatts, more than Utah consumes",
+   "header": "**C-9282** Guardian Says the Data Center Will Need About 9 Gigawatts, More Than Utah Consumes",
+   "label": "Guardian Says the Data Center Will Need About 9 Gigawatts, More Than Utah Consumes",
    "lines": [
     {
      "raw": ""
@@ -3576,8 +3576,8 @@
   {
    "kind": "claim",
    "id": "C-9283",
-   "header": "**C-9283** County commissioners approved the project despite thousands of objections",
-   "label": "County commissioners approved the project despite thousands of objections",
+   "header": "**C-9283** Guardian Says County Commissioners Approved the Project Despite Thousands of Objections",
+   "label": "Guardian Says County Commissioners Approved the Project Despite Thousands of Objections",
    "lines": [
     {
      "raw": ""
@@ -3805,8 +3805,8 @@
   {
    "kind": "claim",
    "id": "C-9287",
-   "header": "**C-9287** Authorities can remotely shut down many newer cars",
-   "label": "Authorities can remotely shut down many newer cars",
+   "header": "**C-9287** Host Says Authorities Can Remotely Shut Down Many Newer Cars",
+   "label": "Host Says Authorities Can Remotely Shut Down Many Newer Cars",
    "lines": [
     {
      "raw": ""
@@ -3980,8 +3980,8 @@
   {
    "kind": "claim",
    "id": "C-9290",
-   "header": "**C-9290** Erika Kirk urged people to sign up for TPUSA 48 hours after the assassination",
-   "label": "Erika Kirk urged people to sign up for TPUSA 48 hours after the assassination",
+   "header": "**C-9290** Host Says Erika Kirk Urged People to Sign Up for TPUSA 48 Hours After the Assassination",
+   "label": "Host Says Erika Kirk Urged People to Sign Up for TPUSA 48 Hours After the Assassination",
    "lines": [
     {
      "raw": ""
@@ -4038,8 +4038,8 @@
   {
    "kind": "claim",
    "id": "C-9291",
-   "header": "**C-9291** Donors present say Charlie Kirk never made the appointment statement",
-   "label": "Donors present say Charlie Kirk never made the appointment statement",
+   "header": "**C-9291** Host Says Donors Present Say Charlie Kirk Never Made the Appointment Statement",
+   "label": "Host Says Donors Present Say Charlie Kirk Never Made the Appointment Statement",
    "lines": [
     {
      "raw": ""
@@ -4448,8 +4448,8 @@
   {
    "kind": "claim",
    "id": "C-9298",
-   "header": "**C-9298** The boycott led to the show's biggest day of merch sales",
-   "label": "The boycott led to the show's biggest day of merch sales",
+   "header": "**C-9298** Host Says the Boycott Led to the Show's Biggest Day of Merch Sales",
+   "label": "Host Says the Boycott Led to the Show's Biggest Day of Merch Sales",
    "lines": [
     {
      "raw": ""
@@ -4629,8 +4629,8 @@
   {
    "kind": "claim",
    "id": "C-9301",
-   "header": "**C-9301** People who know the daughter say the girl in the photo is not hers",
-   "label": "People who know the daughter say the girl in the photo is not hers",
+   "header": "**C-9301** Host Says People Who Know the Daughter Say the Girl in the Photo Is Not Hers",
+   "label": "Host Says People Who Know the Daughter Say the Girl in the Photo Is Not Hers",
    "lines": [
     {
      "raw": ""
@@ -4743,8 +4743,8 @@
   {
    "kind": "claim",
    "id": "C-9303",
-   "header": "**C-9303** Gary Melton served as a Green Beret",
-   "label": "Gary Melton served as a Green Beret",
+   "header": "**C-9303** Host Says Gary Melton Served as a Green Beret",
+   "label": "Host Says Gary Melton Served as a Green Beret",
    "lines": [
     {
      "raw": ""
@@ -4862,8 +4862,8 @@
   {
    "kind": "claim",
    "id": "C-9305",
-   "header": "**C-9305** A 22-foot golden Trump statue was unveiled at a Florida golf course",
-   "label": "A 22-foot golden Trump statue was unveiled at a Florida golf course",
+   "header": "**C-9305** Host Says a 22-Foot Golden Trump Statue Was Unveiled at a Florida Golf Course",
+   "label": "Host Says a 22-Foot Golden Trump Statue Was Unveiled at a Florida Golf Course",
    "lines": [
     {
      "raw": ""
@@ -4919,8 +4919,8 @@
   {
    "kind": "claim",
    "id": "C-9306",
-   "header": "**C-9306** Pastor John Mark Burns defended the statue",
-   "label": "Pastor John Mark Burns defended the statue",
+   "header": "**C-9306** Host Says Pastor John Mark Burns Defended the Statue",
+   "label": "Host Says Pastor John Mark Burns Defended the Statue",
    "lines": [
     {
      "raw": ""
@@ -4976,8 +4976,8 @@
   {
    "kind": "claim",
    "id": "C-9307",
-   "header": "**C-9307** Hasidic Jewish donors financially backed the statue",
-   "label": "Hasidic Jewish donors financially backed the statue",
+   "header": "**C-9307** Host Believes Hasidic Jewish Donors Financially Backed the Statue",
+   "label": "Host Believes Hasidic Jewish Donors Financially Backed the Statue",
    "lines": [
     {
      "raw": ""
@@ -5033,8 +5033,8 @@
   {
    "kind": "claim",
    "id": "C-9308",
-   "header": "**C-9308** Matthew Shupe does PR for Harmeet Dhillon and Dhillon Law Group",
-   "label": "Matthew Shupe does PR for Harmeet Dhillon and Dhillon Law Group",
+   "header": "**C-9308** Host Describes Matthew Shupe as a PR Agent for Harmeet Dhillon and Dhillon Law Group",
+   "label": "Host Describes Matthew Shupe as a PR Agent for Harmeet Dhillon and Dhillon Law Group",
    "lines": [
     {
      "raw": ""
@@ -5091,8 +5091,8 @@
   {
    "kind": "claim",
    "id": "C-9309",
-   "header": "**C-9309** Harmeet Dhillon sat with Andrew Kolvet at the WHCD",
-   "label": "Harmeet Dhillon sat with Andrew Kolvet at the WHCD",
+   "header": "**C-9309** Host Says Harmeet Dhillon Sat With Andrew Kolvet at the WHCD",
+   "label": "Host Says Harmeet Dhillon Sat With Andrew Kolvet at the WHCD",
    "lines": [
     {
      "raw": ""

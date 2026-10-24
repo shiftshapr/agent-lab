@@ -3119,7 +3119,7 @@
       "@type": "Claim",
       "@id": "C-4846",
       "ref": "C-4846",
-      "label": "Women's Federation made a $3.5 million grant to Christian Heritage Foundation in 1995 that helped bail out Liberty University",
+      "label": "Women's Federation Made $3.5 Million Grant in 1995 to Foundation That Later Bought Liberty University Debt",
       "claim": "Per the 1997 Washington Post article the host reads, the Women's Federation made a $3.5 million grant to the Christian Heritage Foundation in 1995, which later bought a portion of Liberty University's debt.",
       "anchored_artifacts": [
         "A-1599.3"
@@ -3220,7 +3220,7 @@
       "@type": "Claim",
       "@id": "C-4845",
       "ref": "C-4845",
-      "label": "Moon-affiliated American Freedom Coalition provided approximately $5 million and personnel to support Oliver North during Iran-Contra",
+      "label": "Former Members Say Unificationists Gave ~$5 Million to Coalition That Backed Oliver North in Iran-Contra",
       "claim": "Per the 1997 Washington Post article, former church members said Unificationists provided about $5 million and the personnel that gave the American Freedom Coalition its grassroots strength; the coalition built popular support for Colonel Oliver North during the Iran-Contra probe.",
       "anchored_artifacts": [
         "A-1599.7"
@@ -3241,7 +3241,7 @@
       "@type": "Claim",
       "@id": "C-4844",
       "ref": "C-4844",
-      "label": "Japan provides an estimated 70% of Unification Church wealth",
+      "label": "Church Observers Estimate Japan Provides as Much as 70% of Unification Church Wealth",
       "claim": "Per the 1997 Washington Post article, Japan (not Korea) provides the bulk of Unification Church wealth, estimated at as much as 70% by church observers.",
       "anchored_artifacts": [
         "A-1599.8"
@@ -3281,7 +3281,7 @@
       "@type": "Claim",
       "@id": "C-4814",
       "ref": "C-4814",
-      "label": "Sun Myung Moon and Unification Church assisted the CIA in Iran-Contra and later bailed out Liberty University in mid-1990s",
+      "label": "Email Tip Says Sun Myung Moon's Unification Church Assisted the CIA in Iran-Contra and Bailed Out Liberty",
       "claim": "Per an email tip, Sun Myung Moon and his Unification Church organizations (including CAUSA and The Washington Times) assisted the CIA in Iran-Contra efforts and later bailed out Liberty University in the mid-1990s for approximately $20–40 million.",
       "anchored_artifacts": [
         "A-1602.1"
@@ -3347,7 +3347,7 @@
       "@type": "Claim",
       "@id": "C-4779",
       "ref": "C-4779",
-      "label": "Liberty Godparent Home residents were locked in rooms 24 hours a day with restricted contact in mid-1990s",
+      "label": "Former Resident Says Liberty Godparent Home Locked Residents in Rooms 24 Hours a Day in Mid-1990s",
       "claim": "Per the recorded phone call with an anonymous former resident, the Liberty Godparent Home locked residents in their rooms 24 hours a day and did not allow visitors when she was a resident circa 1994.",
       "anchored_artifacts": [
         "A-1604.1"
@@ -3368,7 +3368,7 @@
       "@type": "Claim",
       "@id": "C-4786",
       "ref": "C-4786",
-      "label": "Liberty Godparent Home residents were coerced to give up babies for adoption",
+      "label": "Former Resident Says Liberty Godparent Home Residents Were Coerced to Give Up Babies for Adoption",
       "claim": "Per the recorded phone call, residents of the Liberty Godparent Home were pressured and coerced to place their babies for adoption, with adoption-folder selections presented under time pressure.",
       "anchored_artifacts": [
         "A-1604.1"
@@ -4268,7 +4268,8 @@
         "N-10671"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:14:53",
       "investigative_direction": "Pull the federal or Arizona charging documents against David Frodsham and the associated news coverage.",
@@ -4320,7 +4321,8 @@
         "N-10166"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Obtain Utah Valley Hospital staff statements or police reports recording what Zinn said about payment.",
@@ -5528,7 +5530,7 @@
       "@type": "Claim",
       "@id": "C-4816",
       "ref": "C-4816",
-      "label": "Emailer Links Liberty University to the Fort Huachuca Drug-Smuggling Base",
+      "label": "Emailer Asks How Liberty University Might Connect to Fort Huachuca, Which He Calls a Drug-Smuggling Base",
       "claim": "The host says the Iran-Contra email tipster's reason for writing was to ask how Liberty University might be connected to Fort Huachuca, which he describes as a drug smuggling military base.",
       "anchored_artifacts": [
         "A-1602.1"

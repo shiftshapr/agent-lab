@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:11
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 35b1a7b16ba70042ea415c7ad92b025f859141e457801a624a03258614a87ceb
+- **Transcript SHA-256**: 0b69cad72ea7775dadb423db962f29c7c96463a8760ebff16ba9b1f32d93b1c5
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-779, N-780, N-781, N-782, N-11058, N-11059
@@ -1292,7 +1292,7 @@ Transcript Snippet: His father's name is Foster Curtiss. Foster lives in Virgini
 Anchored Artifacts: A-2874.1
 Mentions: N-3, N-779, N-780
 Related Nodes: N-10687, N-11058
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Verify Foster Curtiss's NCIS and Inspector General career through public records, and confirm the father-son relationship.
 Open Questions: Q-1026
 
@@ -1441,7 +1441,7 @@ Anchored Artifacts:
 Mentions: N-3, N-529, N-9
 Related Nodes: N-10688
 Tags: relevance:context
-Revises: C-10436, C-5213
+Revises: C-5213, C-10436
 Investigative Direction: Check court filings and published reporting on Epstein's investment in MC2 and on the birthday allegation; the host herself is unsure of details.
 
 ---

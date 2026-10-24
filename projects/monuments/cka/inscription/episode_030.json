@@ -2079,7 +2079,7 @@
       "@type": "Claim",
       "@id": "C-2668",
       "ref": "C-2668",
-      "label": "UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18",
+      "label": "Local Utah News Says UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18",
       "claim": "According to local Utah news cited by the host, the UVU Turning Point chapter requested Charlie Kirk as a speaker on July 18.",
       "anchored_artifacts": [
         "A-1387.1"
@@ -3006,7 +3006,8 @@
         "N-10229"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:20:57",
       "investigative_direction": "Check TPUSA staff listings and obtain the events department org chart for 2025.",
@@ -3068,10 +3069,8 @@
         "N-190",
         "N-3"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-4099"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-297"
       ]

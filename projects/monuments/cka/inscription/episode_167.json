@@ -2697,7 +2697,8 @@
         "N-10012"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:19:36",
       "investigative_direction": "UVU staff directory and Utah House member biography.",

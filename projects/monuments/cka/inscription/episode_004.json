@@ -1957,7 +1957,7 @@
       "@type": "Claim",
       "@id": "C-315",
       "ref": "C-315",
-      "label": "Robinson Left Rifle in Bush After Changing Outfits",
+      "label": "Robinson's Text Says He Left Rifle in Bush After Changing Outfits",
       "claim": "Robinson's text states he changed outfits and left the rifle (referred to as 'Prince') wrapped in a towel in a bush.",
       "anchored_artifacts": [
         "A-1104.4"
@@ -1986,7 +1986,7 @@
       "@type": "Claim",
       "@id": "C-338",
       "ref": "C-338",
-      "label": "Lance Twiggs Released Suspiciously Fast After Apartment Raid",
+      "label": "Host Says She Was Told Lance Twiggs Was Allegedly Released Fast After Apartment Raid",
       "claim": "The host says she has been told that Lance Twiggs was released to his parents (\"allegedly\") while his apartment was being raided and his electronics seized, and she argues he would normally be detained for at least 24 hours.",
       "anchored_artifacts": [
         "A-1104.9",
@@ -1996,7 +1996,9 @@
       "related_nodes": [
         "N-10041"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:26:12",
       "investigative_direction": "Obtain the arrest/release log for Lance Twiggs and the inventory of seized devices; compare with standard 24-hour detention practice.",
       "transcript_snippet": "Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?",
@@ -2066,13 +2068,15 @@
       "@type": "Claim",
       "@id": "C-351",
       "ref": "C-351",
-      "label": "Lance Twiggs's Mother Holds Stanford BS in Psychology",
+      "label": "Host Says Lance Twiggs's Mother Holds Stanford BS in Psychology",
       "claim": "The host says Lance Twiggs's mother received a bachelor of science in psychology from Stanford University, says it seems a running theme in 'fed ops' that there is psychology somewhere in the family, and says she is not saying the mother has anything to do with anything.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10042"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:23",
       "investigative_direction": "Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations.",
       "transcript_snippet": "I already don't like that mom… received a bachelor of science from Stanford University in psychology.",
@@ -2089,7 +2093,7 @@
       "@type": "Claim",
       "@id": "C-361",
       "ref": "C-361",
-      "label": "Donors Pressured Charlie Over Tucker Speaking Slot",
+      "label": "Tucker Says Donors Pressured Charlie Over Tucker Speaking Slot",
       "claim": "In a clip the host plays, Tucker Carlson says that a small, very intense group of donors tormented Charlie Kirk until the day he died and that two days before he died Charlie lost a $2 million donation because he had publicly pledged to bring Carlson to the next Turning Point conference in December.",
       "anchored_artifacts": [
         "A-1107.1",
@@ -2588,7 +2592,7 @@
       "@type": "Claim",
       "@id": "C-323",
       "ref": "C-323",
-      "label": "NY Post Published Its Exclusive at 9:21 AM Mountain Time After the FBI Press Conference",
+      "label": "Host Says NY Post Published Its Exclusive at 9:21 AM Mountain Time After the FBI Press Conference",
       "claim": "The host says the New York Post published its exclusive with the gun photo and the details about the bullet inscriptions at 9:21 a.m. Mountain Time, about two hours after the first FBI press conference, and she suspects the paper acts as a fed outlet.",
       "anchored_artifacts": [
         "A-1106.1"
@@ -2610,7 +2614,7 @@
       "@type": "Claim",
       "@id": "C-324",
       "ref": "C-324",
-      "label": "FBI Salt Lake City Released Static Stills of the Stairs Figure Seven Minutes Later",
+      "label": "Host Says FBI Salt Lake City Released Static Stills of the Stairs Figure Seven Minutes Later",
       "claim": "The host says that seven minutes after the NY Post article, FBI Salt Lake City released static images of the alleged shooter walking up the stairs, at around 10:00 a.m. Mountain Time.",
       "anchored_artifacts": [
         "A-1105.4"
@@ -2868,7 +2872,9 @@
       "related_nodes": [
         "N-10033"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:24:49",
       "investigative_direction": "Obtain the search warrant return and the booking and release records for Lance.",
       "transcript_snippet": "it's matching. Okay, so I'm I'm feeling good about this. We'll say allegedly, but I'm feeling good about this.",

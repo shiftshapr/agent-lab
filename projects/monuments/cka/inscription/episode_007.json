@@ -2138,7 +2138,7 @@
       "@type": "Claim",
       "@id": "C-620",
       "ref": "C-620",
-      "label": "Released text messages were from 2023, not recent",
+      "label": "Host asserts released text messages were from 2023, not recent",
       "claim": "Host asserts the released text messages dated to 2023 based on context (Brian Mast comment, AmFest dispute) and were undated to obscure that fact.",
       "anchored_artifacts": [
         "A-1141.1",

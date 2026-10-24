@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:07:20",
     "- **Extraction Timestamp (UTC)**: 2026-10-02T20:40:00Z",
-    "- **Transcript SHA-256**: 022d4f12740713037a1e34d8c7a3f460558cfd3ae1badcd1d4c1565a058eb7cf",
+    "- **Transcript SHA-256**: 95af29fcb9462cc4d1e29db8ea5070b25ccc110a02b04b952bcc0f2adea45b39",
     "- **Model Version**: grok-manual-extract-seq158",
     "",
     "- **Episode Ledger Summary**:",
@@ -2891,8 +2891,8 @@
   {
    "kind": "claim",
    "id": "C-13651",
-   "header": "**C-13651** Erika declined substantive Israel/BB answers despite CEO role",
-   "label": "Erika declined substantive Israel/BB answers despite CEO role",
+   "header": "**C-13651** Erika said she lacks bandwidth on Israel/BB; host argues a CEO needs an opinion",
+   "label": "Erika said she lacks bandwidth on Israel/BB; host argues a CEO needs an opinion",
    "lines": [
     {
      "raw": ""
@@ -2947,8 +2947,8 @@
   {
    "kind": "claim",
    "id": "C-13658",
-   "header": "**C-13658** Erika directed the Aloe Yoga clothing run the night/morning after the assassination",
-   "label": "Erika directed the Aloe Yoga clothing run the night/morning after the assassination",
+   "header": "**C-13658** Profile says Erika had a TPUSA staffer buy Aloe clothing the morning after the assassination",
+   "label": "Profile says Erika had a TPUSA staffer buy Aloe clothing the morning after the assassination",
    "lines": [
     {
      "raw": ""
@@ -3003,8 +3003,8 @@
   {
    "kind": "claim",
    "id": "C-13662",
-   "header": "**C-13662** “Only thing that fit” glitter-suit explanation conflicts with other public outfits",
-   "label": "“Only thing that fit” glitter-suit explanation conflicts with other public outfits",
+   "header": "**C-13662** Host disputes Erika's \"only thing that fit\" glitter-suit explanation, citing other public outfits",
+   "label": "Host disputes Erika's \"only thing that fit\" glitter-suit explanation, citing other public outfits",
    "lines": [
     {
      "raw": ""
@@ -3227,8 +3227,8 @@
   {
    "kind": "claim",
    "id": "C-13692",
-   "header": "**C-13692** After UVU review fallout, smear narrative flipped to a fabricated lesbian/Zionist package",
-   "label": "After UVU review fallout, smear narrative flipped to a fabricated lesbian/Zionist package",
+   "header": "**C-13692** Host asserts smear narrative flipped to a fabricated lesbian/Zionist package after UVU review fallout",
+   "label": "Host asserts smear narrative flipped to a fabricated lesbian/Zionist package after UVU review fallout",
    "lines": [
     {
      "raw": ""
@@ -3339,8 +3339,8 @@
   {
    "kind": "claim",
    "id": "C-13710",
-   "header": "**C-13710** Bill Ackman Amplified the Smear Package and Later Deleted the Tweet",
-   "label": "Bill Ackman Amplified the Smear Package and Later Deleted the Tweet",
+   "header": "**C-13710** Host Asserts Bill Ackman Amplified the Smear Package and Later Deleted the Tweet",
+   "label": "Host Asserts Bill Ackman Amplified the Smear Package and Later Deleted the Tweet",
    "lines": [
     {
      "raw": ""
@@ -3955,7 +3955,7 @@
      "v": "N-11000, N-10190"
     },
     {
-     "k": "Contradicts",
+     "k": "Qualifies",
      "v": "C-13655"
     },
     {
@@ -5874,10 +5874,6 @@
     {
      "k": "Related Nodes",
      "v": "N-11006"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-13695"
     },
     {
      "k": "Investigative Direction",

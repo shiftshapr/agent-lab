@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:18
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84
+- **Transcript SHA-256**: a423455b89fefdbcdbf052ec103ba501a70c1473e31dbe896c09e71d7c0b1c96
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-848, N-11148, N-11149, N-11150, N-11151
@@ -1012,7 +1012,7 @@ Investigative Direction: Obtain the original photograph with EXIF metadata and a
 
 ---
 
-**C-2668** UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18
+**C-2668** Local Utah News Says UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18
 
 Claim Timestamp: 00:19:14
 
@@ -1589,7 +1589,7 @@ Transcript Snippet: I know, by the way, that Mikey McCoy's wife is one of the ev
 Anchored Artifacts: 
 Mentions: N-190, N-3
 Related Nodes: N-11149, N-10000, N-10229
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Check TPUSA staff listings and obtain the events department org chart for 2025.
 Open Questions: Q-242
 
@@ -1624,8 +1624,6 @@ Anchored Artifacts:
 Mentions: N-190, N-3
 Related Nodes: N-11149
 Tags: relevance:core
-Verification: revised-by-host
-Verification Evidence: C-4099
 Investigative Direction: Check birth, school and licensing records for the legal name of Rob McCoy's son.
 Open Questions: Q-297
 
@@ -2160,7 +2158,6 @@ Transcript Snippet: he wrote death. He meant defcon 3 because it's a defensive p
 Anchored Artifacts: A-1389.1
 Mentions: N-27, N-3
 Related Nodes: N-10004
-Qualifies: C-2715
 Tags: relevance:tangential
 Investigative Direction: Retrieve the original tweet and Kanye's follow-up explanations to settle the exact wording.
 

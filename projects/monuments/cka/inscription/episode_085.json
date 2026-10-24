@@ -2339,7 +2339,7 @@
       "@type": "Claim",
       "@id": "C-7576",
       "ref": "C-7576",
-      "label": "Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators",
+      "label": "Host Says Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Led the Alleged Conspiracy",
       "claim": "The host says Jean-Luc Bagur was a ringleader of the alleged conspiracy, alongside fellow Freemasons Frédéric Vaglio and Daniel Beaulieu.",
       "anchored_artifacts": [
         "A-1903.1"
@@ -2347,7 +2347,9 @@
       "related_nodes": [
         "N-10519"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Verify role assignments via French court documents.",
       "mentions_person_refs": [
@@ -2362,7 +2364,7 @@
       "@type": "Claim",
       "@id": "C-7578",
       "ref": "C-7578",
-      "label": "Daniel Beaulieu Attempted Suicide in Prison",
+      "label": "Host Says Daniel Beaulieu Had an Apparent Suicide Attempt in Prison",
       "claim": "The host says Daniel Beaulieu, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify.",
       "anchored_artifacts": [
         "A-1903.1"
@@ -2445,7 +2447,7 @@
       "@type": "Claim",
       "@id": "C-7600",
       "ref": "C-7600",
-      "label": "Stacy Sheridan and Katherine Locastro identified as with Erika",
+      "label": "Frank Turek says Stacy Sheridan and Katherine Locastro were with Erika",
       "claim": "Frank Turek stated that Stacy Sheridan and Katherine Locastro were with Erika Kirk when she was informed of Charlie Kirk's death.",
       "anchored_artifacts": [
         "A-1905.1"
@@ -2625,7 +2627,7 @@
       "@type": "Claim",
       "@id": "C-7640",
       "ref": "C-7640",
-      "label": "Robinson's parents convinced him not to go to remote area",
+      "label": "Sheriff Brooksby says Robinson's parents convinced him not to go to remote area",
       "claim": "Sheriff Brooksby stated Robinson's parents convinced him not to go to the remote area and conveyed they would help him surrender peacefully.",
       "anchored_artifacts": [
         "A-1908.1"
@@ -2651,7 +2653,7 @@
       "@type": "Claim",
       "@id": "C-7661",
       "ref": "C-7661",
-      "label": "Friend drove Robinson and parents to Sheriff's office",
+      "label": "Sheriff Brooksby says friend drove Robinson and parents to Sheriff's office",
       "claim": "Sheriff Brooksby stated that within the hour, his friend drove Tyler Robinson and his parents to Brooksby's office, where Robinson was greeted by plainclothes detectives.",
       "anchored_artifacts": [
         "A-1908.2"
@@ -2700,7 +2702,7 @@
       "@type": "Claim",
       "@id": "C-7669",
       "ref": "C-7669",
-      "label": "Erika Kirk was on plane when Charlie was pronounced dead",
+      "label": "NYT reports Erika Kirk was on plane when Charlie was pronounced dead",
       "claim": "A New York Times article reports that Mr. Kirk's chartered plane traveled back to Scottsdale to ferry his wife to Provo, and that he was pronounced dead as she was airborne.",
       "anchored_artifacts": [
         "A-1909.1"
@@ -2760,7 +2762,7 @@
       "@type": "Claim",
       "@id": "C-7619",
       "ref": "C-7619",
-      "label": "Brooksby resignation occurred on a Friday",
+      "label": "Host says Brooksby resignation occurred on a Friday",
       "claim": "The host states Brooksby's resignation occurred on a Friday and that no public statement was given.",
       "anchored_artifacts": [
         "A-1910.1"
@@ -3156,7 +3158,8 @@
         "N-10519"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Check French court reporting for the hitmen's statements naming Balou as the source of the government claim.",
@@ -4621,7 +4624,8 @@
         "N-10136"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:37:12",
       "investigative_direction": "No evidence is offered; seek records of any federal contact with Mitchell before the surrender.",

@@ -1621,7 +1621,7 @@
       "@type": "Claim",
       "@id": "C-1612",
       "ref": "C-1612",
-      "label": "Front Shot, No Exit",
+      "label": "Host Says Front Shot, No Exit",
       "claim": "The host says she is telling viewers 100% that Charlie Kirk was shot from the front and the bullet did not exit, and that she has fact-checked this from multiple sources.",
       "anchored_artifacts": [
         "A-1251.1"
@@ -1758,7 +1758,7 @@
       "@type": "Claim",
       "@id": "C-1626",
       "ref": "C-1626",
-      "label": "Pusher Not TPUSA or UVU Affiliated",
+      "label": "Host Says Pusher Was Not TPUSA or UVU Affiliated",
       "claim": "The host says she determined the man who physically pushed/shoved the witness in the viral clip was not a Turning Point USA employee, UVU student, or TPUSA student, but was brought in as a volunteer.",
       "anchored_artifacts": [
         "A-1252.1",
@@ -1969,7 +1969,7 @@
       "@type": "Claim",
       "@id": "C-1664",
       "ref": "C-1664",
-      "label": "Israeli Individual Listed as Caldera Founder",
+      "label": "Uncorroborated Listing Names Israeli Individual as Caldera Founder",
       "claim": "The host says someone emailed them a link, which she says was real, listing an Israeli individual as the founder of Caldera Engineering, though she says they have not been able to corroborate it and the listing may be an internet scraping error.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2017,7 +2017,7 @@
       "@type": "Claim",
       "@id": "C-1669",
       "ref": "C-1669",
-      "label": "Caldera Early Trademark Lawyer – Tyler Bowyer Connection",
+      "label": "Host Says Caldera Early Trademark Lawyer Has Tyler Bowyer Connection",
       "claim": "The host says the lawyer Caldera Engineering used for trademark purposes in Arizona in its early years, per early documents she reviewed, is a lawyer Tyler Bowyer of Turning Point USA introduced her to and whom she has worked with.",
       "anchored_artifacts": [],
       "related_nodes": [

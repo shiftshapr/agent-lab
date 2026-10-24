@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–00:51:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 485249b3a83122df784d65092a124fe221777e005fc429793ac75572c8a2611c
+- **Transcript SHA-256**: ad6fef898ca94ec89f96e57db1809d67b68f0e3e1ec6aa33eda480db85098ea5
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11185, N-11186, N-11187, N-11188, N-11189
@@ -1402,7 +1402,7 @@ Transcript Snippet: other locals told us that George Zinn, for whatever reason, 
 
 Anchored Artifacts: A-1197.1
 Mentions: N-42, N-61
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Interview the locals and check county and state Republican event records for George Zinn's attendance.
 
 ---

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:05:03
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: e1354996fe0dca09feb5fcf6281cba63b17e90513ca05526f293f355bf11437c
+- **Transcript SHA-256**: 0098ad76e77bd607063eb22423bcb3dd357af3bff1f091b1d50e339ea6a99e04
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-858, N-11173
@@ -676,7 +676,7 @@ Investigative Direction: Obtain certified copy of the filed motion and confirm f
 
 ---
 
-**C-7731** ATF Unable to Identify Bullet to Rifle
+**C-7731** Defense Filing Says ATF Was Unable to Identify Bullet to Rifle
 
 Claim Timestamp: 00:37:11
 
@@ -927,7 +927,7 @@ Investigative Direction: Obtain the timeline and work orders for the repaving of
 
 ---
 
-**C-7685** Kirk shot at 12:23 p.m. Mountain Time on September 10
+**C-7685** Host says Kirk was shot at 12:23 p.m. Mountain Time on September 10
 
 Claim Timestamp: 00:02:18
 
@@ -946,7 +946,7 @@ Open Questions: Q-241
 
 ---
 
-**C-7686** Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot
+**C-7686** Host says Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot
 
 Claim Timestamp: 00:02:18
 
@@ -964,7 +964,7 @@ Open Questions: Q-63
 
 ---
 
-**C-7687** Farnsworth's AV company has worked TPUSA events for over a decade
+**C-7687** Host says Farnsworth's AV company may have worked TPUSA events for over a decade
 
 Claim Timestamp: 00:02:18
 

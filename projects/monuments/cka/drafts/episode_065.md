@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:48:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 6ce4e769b4497ca6b87095c77c991401a54f9ef0556891c273b7e28ec46bef36
+- **Transcript SHA-256**: c4ed4721079c7b715f6beaa089a02aff1c5bddd8027e948d1eb548b8c2dc4f38
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-719, N-720, N-721, N-722, N-10958, N-10959, N-10960, N-10961, N-10962, N-10963, N-10964
@@ -1209,7 +1209,7 @@ Investigative Direction: Obtain the original San Diego Union Tribune publication
 
 ---
 
-**C-5881** Candace Owens Phil Tourney Interview Received Approximately 7 Million Views
+**C-5881** Host Says Her Phil Tourney Interview Received Approximately 7 Million Views
 
 Claim Timestamp: 01:22:31
 
@@ -1238,7 +1238,7 @@ Investigative Direction: Verify with public records / naturalization records if 
 
 ---
 
-**C-5824** Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face
+**C-5824** Youssef Says Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face
 
 Claim Timestamp: 00:15:48
 
@@ -1268,7 +1268,7 @@ Investigative Direction: Verify the book's actual contents against published edi
 
 ---
 
-**C-5891** 24-Hour Gag Order on *By Way of Deception* in 1992
+**C-5891** Youssef Says *By Way of Deception* Faced a 24-Hour Gag Order in 1992
 
 Claim Timestamp: 01:28:11
 
@@ -1283,7 +1283,7 @@ Investigative Direction: Verify with publishing industry records and court recor
 
 ---
 
-**C-5826** *Till Kingdom Come* Documentary Features Pastors Telling Children Jews Are More Special
+**C-5826** Youssef Says *Till Kingdom Come* Documentary Shows Pastors Telling Children Jews Are More Special
 
 Claim Timestamp: 00:22:05
 
@@ -1298,7 +1298,7 @@ Investigative Direction: Obtain the documentary and verify the specific clips an
 
 ---
 
-**C-5837** Charlie Kirk Did Not Allow Benjamin Netanyahu on Show in August
+**C-5837** Host Says Charlie Kirk Did Not Allow Benjamin Netanyahu on His Show in August
 
 Claim Timestamp: 00:30:06
 
@@ -1313,7 +1313,7 @@ Investigative Direction: Cross-check with Turning Point USA published guest list
 
 ---
 
-**C-5880** New York Times Preparing a Piece on USS Liberty
+**C-5880** Host Says New York Times Is Preparing a Piece on USS Liberty
 
 Claim Timestamp: 01:22:18
 
@@ -1354,12 +1354,11 @@ Transcript Snippet: And I was even nominated to be Anti-Semite of the year 2024,
 Anchored Artifacts: A-1691.1
 Mentions: N-497, N-3
 Related Nodes: N-10421
-Revises: C-5800
 Investigative Direction: Re-listen to the clip and identify the award body or the show segment; confirm who the 2024 nominee and winner were in the clip's framing.
 
 ---
 
-**C-5803** Miss Rachel named as a nominee for Anti-Semite of the Year
+**C-5803** Speaker Says Miss Rachel Was a Nominee for Anti-Semite of the Year
 
 Claim Timestamp: 00:00:54
 
@@ -2008,7 +2007,7 @@ Investigative Direction: Compare against demographic data on World War II deaths
 
 ---
 
-**C-5849** Youssef says the Hagana blew up the ship Patria with Jewish refugees at Haifa
+**C-5849** Youssef says the Hagana blew up a ship carrying Jewish refugees at Haifa
 
 Claim Timestamp: 00:39:15
 

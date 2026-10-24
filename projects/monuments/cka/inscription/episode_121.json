@@ -1916,7 +1916,7 @@
       "@type": "Claim",
       "@id": "C-10310",
       "ref": "C-10310",
-      "label": "USB Logo Identified on Car Glass Shard",
+      "label": "Viewer Email Identifies USB Logo on Car Glass Shard",
       "claim": "A viewer email identifies a USB logo on one of the glass shards recovered from the SUV backseat floor, rotated to align with the Rode mic USB icon shown in a promotional image.",
       "anchored_artifacts": [
         "A-2093.1",
@@ -2145,7 +2145,7 @@
       "@type": "Claim",
       "@id": "C-10339",
       "ref": "C-10339",
-      "label": "Car Backseat Photos Show Blood Wipe Marks on Leather",
+      "label": "Host Says Car Backseat Photos Show What Looks Like Blood Wipe Marks on Leather",
       "claim": "Photographs of the SUV backseat show what the host says looks like someone wiped their hands with blood on the leather seat; she attributes it to Frank Turek, the only backseat occupant.",
       "anchored_artifacts": [
         "A-2096.2"
@@ -2185,7 +2185,7 @@
       "@type": "Claim",
       "@id": "C-10330",
       "ref": "C-10330",
-      "label": "Single 4x4 Dressing Pack Visible in Car Floor Photos",
+      "label": "Host Says Single 4x4 Dressing Pack Visible in Car Floor Photos",
       "claim": "The host says the car floor photos show one opened 4x4 EMS quick clot dressing pack, which she compares with a product image, and that she would expect to see more opened packs given Brian Harpole's claimed use of multiple packs.",
       "anchored_artifacts": [
         "A-2094.4",
@@ -2268,7 +2268,7 @@
       "@type": "Claim",
       "@id": "C-10360",
       "ref": "C-10360",
-      "label": "Dave Rubin Unable to Identify a Trump Economic Metric on Jubilee",
+      "label": "Host Says Dave Rubin Was Unable to Identify a Trump Economic Metric on Jubilee",
       "claim": "In a Jubilee clip the host plays, Dave Rubin is asked to name one metric (GDP, unemployment, inflation) that Trump has made better and answers about the big beautiful bill and tariffs; the host says he 'had not one point that he could deliver'.",
       "anchored_artifacts": [
         "A-2099.1"
@@ -2760,7 +2760,7 @@
       "@type": "Claim",
       "@id": "C-10328",
       "ref": "C-10328",
-      "label": "Harpole Repeated the 36 ft Story to Paramount Tactical",
+      "label": "Host Says Harpole Repeated the 36 ft Story to Paramount Tactical",
       "claim": "The host says Brian Harpole repeated his account of 36 ft of dressing in a separate interview with Paramount Tactical.",
       "anchored_artifacts": [
         "A-2094.4"

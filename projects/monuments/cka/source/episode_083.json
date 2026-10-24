@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:23",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: af9d7478540e605b0d93fec65bec36ded2c5822785e3273b1e7fd2f45e84709d",
+    "- **Transcript SHA-256**: 712ec7258b4d638504ed7da8a44255ee5daa7b74497619551df1dbfb6f59bd37",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-910, N-911, N-11260, N-11261",
@@ -2979,8 +2979,8 @@
   {
    "kind": "claim",
    "id": "C-7419",
-   "header": "**C-7419** Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific",
-   "label": "Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific",
+   "header": "**C-7419** Host Says Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific",
+   "label": "Host Says Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific",
    "lines": [
     {
      "raw": ""
@@ -3182,8 +3182,8 @@
   {
    "kind": "claim",
    "id": "C-7441",
-   "header": "**C-7441** Stacy Sheridan Was Not at TPUSA Offices on September 10",
-   "label": "Stacy Sheridan Was Not at TPUSA Offices on September 10",
+   "header": "**C-7441** Host Says Stacy Sheridan Was Not at TPUSA Offices on September 10",
+   "label": "Host Says Stacy Sheridan Was Not at TPUSA Offices on September 10",
    "lines": [
     {
      "raw": ""
@@ -3633,8 +3633,8 @@
   {
    "kind": "claim",
    "id": "C-7492",
-   "header": "**C-7492** Yair Netanyahu Retweeted the Alexis Wilkins Thread",
-   "label": "Yair Netanyahu Retweeted the Alexis Wilkins Thread",
+   "header": "**C-7492** Host Says Yair Netanyahu Was First to Retweet the Alexis Wilkins Thread",
+   "label": "Host Says Yair Netanyahu Was First to Retweet the Alexis Wilkins Thread",
    "lines": [
     {
      "raw": ""
@@ -5847,10 +5847,6 @@
     {
      "k": "Related Nodes",
      "v": "N-11124, N-10502"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-5705"
     },
     {
      "k": "Tags",

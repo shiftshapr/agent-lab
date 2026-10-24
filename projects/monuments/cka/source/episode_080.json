@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:09:32",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 939a276fa7153675fa4c129ca613874ab4780ba8fb986b1877810b00297f327b",
+    "- **Transcript SHA-256**: 94aa5cd6620c442c6e76a63973a5c6c589d50cce6464bbab88475e8ded2c5479",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-939, N-940, N-941, N-11312",
@@ -3940,8 +3940,8 @@
   {
    "kind": "claim",
    "id": "C-7228",
-   "header": "**C-7228** Netanyahu Misses Security Council Meeting",
-   "label": "Netanyahu Misses Security Council Meeting",
+   "header": "**C-7228** Host Says Netanyahu Allegedly Missed a Security Council Meeting",
+   "label": "Host Says Netanyahu Allegedly Missed a Security Council Meeting",
    "lines": [
     {
      "raw": ""
@@ -3996,8 +3996,8 @@
   {
    "kind": "claim",
    "id": "C-7229",
-   "header": "**C-7229** Yair Netanyahu Social Media Silence Pattern",
-   "label": "Yair Netanyahu Social Media Silence Pattern",
+   "header": "**C-7229** Host Says Yair Netanyahu Went Silent on Social Media for 7 Days",
+   "label": "Host Says Yair Netanyahu Went Silent on Social Media for 7 Days",
    "lines": [
     {
      "raw": ""
@@ -7595,12 +7595,12 @@
      "v": "N-10499"
     },
     {
-     "k": "Tags",
-     "v": "relevance:tangential"
+     "k": "Qualifies",
+     "v": "C-7119"
     },
     {
-     "k": "Revises",
-     "v": "C-7119"
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

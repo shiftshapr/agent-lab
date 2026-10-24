@@ -19,7 +19,7 @@
     "- **Video Timestamp Range**: 00:00:00–00:53:10",
     "- **Extraction Timestamp (UTC)**: 2026-09-23T19:38:45Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: cbb9e2999e01f3fb5d31c3a20cfcda260ac22c9115d386f6ca88119e0d45131e",
+    "- **Transcript SHA-256**: fbdd8b5eb6ee96b26f1c79aaafbfc1821533eafc17b5378a850f17b3654ee96f",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-930, N-11283, N-11284",
@@ -3848,10 +3848,6 @@
      "v": "N-37, N-3, N-57, N-72"
     },
     {
-     "k": "Contradicts",
-     "v": "C-531"
-    },
-    {
      "k": "Confidence",
      "v": "medium"
     },
@@ -3906,10 +3902,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10000"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-540"
     },
     {
      "k": "Confidence",
@@ -4425,7 +4417,7 @@
     },
     {
      "k": "Contradicts",
-     "v": "C-534"
+     "v": "C-534, C-538"
     },
     {
      "k": "Confidence",
@@ -4496,7 +4488,7 @@
     },
     {
      "k": "Tags",
-     "v": "open_source_investigation"
+     "v": "open_source_investigation, relevance:tangential"
     },
     {
      "raw": "---"
@@ -6182,10 +6174,6 @@
      "v": "N-10062, N-10071, N-10077"
     },
     {
-     "k": "Qualifies",
-     "v": "C-527"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -6375,10 +6363,6 @@
     {
      "k": "Supports",
      "v": "C-459, C-461"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-534"
     },
     {
      "k": "Tags",
@@ -6574,10 +6558,6 @@
     {
      "k": "Supports",
      "v": "C-460"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-540"
     },
     {
      "k": "Tags",
@@ -8576,7 +8556,7 @@
     },
     {
      "k": "Contradicts",
-     "v": "C-458, C-533"
+     "v": "C-533"
     },
     {
      "k": "Tags",

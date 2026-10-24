@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:59:41",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 96bdf8580abb4cedfb15c84e3fc6f2b56488e802cc03c0adb8c91e6d3d6c96f2",
+    "- **Transcript SHA-256**: 0b01f9bf38336b1c72bae82beeb86d630226c9ad841f53a3be6ffb894688760b",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-11272",
@@ -3614,8 +3614,8 @@
   {
    "kind": "claim",
    "id": "C-9057",
-   "header": "**C-9057** Marcus Wada provides AI voice services for TPUSA presentations",
-   "label": "Marcus Wada provides AI voice services for TPUSA presentations",
+   "header": "**C-9057** Source Says Marcus Wada Provides AI Voice Services for TPUSA Presentations",
+   "label": "Source Says Marcus Wada Provides AI Voice Services for TPUSA Presentations",
    "lines": [
     {
      "raw": ""
@@ -3670,8 +3670,8 @@
   {
    "kind": "claim",
    "id": "C-9058",
-   "header": "**C-9058** TPUSA typically uses AI-cloned voice of Pastor John Amanchukwu in presentations",
-   "label": "TPUSA typically uses AI-cloned voice of Pastor John Amanchukwu in presentations",
+   "header": "**C-9058** Source Says TPUSA Typically Uses AI-Cloned Voice of Pastor John Amanchukwu in Presentations",
+   "label": "Source Says TPUSA Typically Uses AI-Cloned Voice of Pastor John Amanchukwu in Presentations",
    "lines": [
     {
      "raw": ""
@@ -4071,8 +4071,8 @@
   {
    "kind": "claim",
    "id": "C-9075",
-   "header": "**C-9075** ASU did not offer international relations degree in 2012",
-   "label": "ASU did not offer international relations degree in 2012",
+   "header": "**C-9075** Researchers Say ASU Did Not Offer an International Relations Degree in 2012",
+   "label": "Researchers Say ASU Did Not Offer an International Relations Degree in 2012",
    "lines": [
     {
      "raw": ""
@@ -4463,8 +4463,8 @@
   {
    "kind": "claim",
    "id": "C-9135",
-   "header": "**C-9135** Paramount Tactical admitted the Fort Huachuca alibi photo boy is not Erika Kirk's son",
-   "label": "Paramount Tactical admitted the Fort Huachuca alibi photo boy is not Erika Kirk's son",
+   "header": "**C-9135** Host Says Paramount Tactical Admitted the Fort Huachuca Alibi Photo Boy Is Not Erika Kirk's Son",
+   "label": "Host Says Paramount Tactical Admitted the Fort Huachuca Alibi Photo Boy Is Not Erika Kirk's Son",
    "lines": [
     {
      "raw": ""
@@ -4519,8 +4519,8 @@
   {
    "kind": "claim",
    "id": "C-9136",
-   "header": "**C-9136** Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla",
-   "label": "Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla",
+   "header": "**C-9136** Host Says Andrew Kolvet Coordinated Erika Alibi Pushback With Paramount Tactical and Valhalla",
+   "label": "Host Says Andrew Kolvet Coordinated Erika Alibi Pushback With Paramount Tactical and Valhalla",
    "lines": [
     {
      "raw": ""
@@ -8996,7 +8996,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

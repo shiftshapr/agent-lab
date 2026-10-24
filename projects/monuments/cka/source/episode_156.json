@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:55:05",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d",
+    "- **Transcript SHA-256**: f3550431718d5d4887bbd49f702199b347c19dd6f67e125f197d901bd765b135",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-790, N-11067, N-11068",
@@ -2338,10 +2338,6 @@
      "raw": ""
     },
     {
-     "k": "Revises",
-     "v": "C-10621"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Confirm exhaust configuration against additional Fox News footage and any independent images of Tyler Robinson's vehicle; compare against VIN or registration records."
     },
@@ -2411,8 +2407,8 @@
   {
    "kind": "claim",
    "id": "C-13475",
-   "header": "**C-13475** Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released",
-   "label": "Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released",
+   "header": "**C-13475** Quick Quack Car Wash footage was obtained by investigators; host says it was never publicly released",
+   "label": "Quick Quack Car Wash footage was obtained by investigators; host says it was never publicly released",
    "lines": [
     {
      "raw": ""
@@ -2523,8 +2519,8 @@
   {
    "kind": "claim",
    "id": "C-13513",
-   "header": "**C-13513** Officer Goforth's Testimony Referenced a Partial License-Plate Match Process",
-   "label": "Officer Goforth's Testimony Referenced a Partial License-Plate Match Process",
+   "header": "**C-13513** Host Says Officer Goforth's Testimony Referenced a Partial License-Plate Match",
+   "label": "Host Says Officer Goforth's Testimony Referenced a Partial License-Plate Match",
    "lines": [
     {
      "raw": ""
@@ -2692,8 +2688,8 @@
   {
    "kind": "claim",
    "id": "C-13459",
-   "header": "**C-13459** Dairy Queen surveillance timestamp of 6:38 PM may have been recorded in UTC rather than Mountain Standard Time",
-   "label": "Dairy Queen surveillance timestamp of 6:38 PM may have been recorded in UTC rather than Mountain Standard Time",
+   "header": "**C-13459** Host hypothesizes Dairy Queen 6:38 PM timestamp was recorded in UTC rather than Mountain time",
+   "label": "Host hypothesizes Dairy Queen 6:38 PM timestamp was recorded in UTC rather than Mountain time",
    "lines": [
     {
      "raw": ""
@@ -2744,8 +2740,8 @@
   {
    "kind": "claim",
    "id": "C-13469",
-   "header": "**C-13469** Tyler Robinson's sneakers in Dairy Queen surveillance photo do not appear to be Converse brand",
-   "label": "Tyler Robinson's sneakers in Dairy Queen surveillance photo do not appear to be Converse brand",
+   "header": "**C-13469** Host says Tyler Robinson's sneakers in Dairy Queen photo do not appear to be Converse brand",
+   "label": "Host says Tyler Robinson's sneakers in Dairy Queen photo do not appear to be Converse brand",
    "lines": [
     {
      "raw": ""
@@ -2856,8 +2852,8 @@
   {
    "kind": "claim",
    "id": "C-13463",
-   "header": "**C-13463** Cemetery contains two large dumpsters in the middle",
-   "label": "Cemetery contains two large dumpsters in the middle",
+   "header": "**C-13463** Tipster says cemetery contains two large dumpsters in the middle",
+   "label": "Tipster says cemetery contains two large dumpsters in the middle",
    "lines": [
     {
      "raw": ""
@@ -4827,7 +4823,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

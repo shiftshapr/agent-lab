@@ -19,7 +19,7 @@
     "- **Video Timestamp Range**: 00:00:00–01:17:18",
     "- **Extraction Timestamp (UTC)**: 2026-09-23T19:32:56Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: e1b15b2a8fcf52fde2e90b2f4cb476301947917bf0f6bb881e03dc384f5ccc53",
+    "- **Transcript SHA-256**: a497ca885b29cc4aa5cc9515d1aa10cd4470d192da446693a27e1fa3831fb25a",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (wave4-events): N-11360",
@@ -3602,8 +3602,8 @@
   {
    "kind": "claim",
    "id": "C-179",
-   "header": "**C-179** Robinson mother recognized shooter from news photo",
-   "label": "Robinson mother recognized shooter from news photo",
+   "header": "**C-179** Robinson mother told police news photo of shooter looked like her son",
+   "label": "Robinson mother told police news photo of shooter looked like her son",
    "lines": [
     {
      "raw": ""
@@ -3658,8 +3658,8 @@
   {
    "kind": "claim",
    "id": "C-184",
-   "header": "**C-184** Robinson father matched rifle to gifted weapon",
-   "label": "Robinson father matched rifle to gifted weapon",
+   "header": "**C-184** Robinson father believed rifle matched gifted weapon",
+   "label": "Robinson father believed rifle matched gifted weapon",
    "lines": [
     {
      "raw": ""
@@ -3774,8 +3774,8 @@
   {
    "kind": "claim",
    "id": "C-181",
-   "header": "**C-181** Robinson shifted politically left over last year",
-   "label": "Robinson shifted politically left over last year",
+   "header": "**C-181** Robinson mother told police he shifted politically left over last year",
+   "label": "Robinson mother told police he shifted politically left over last year",
    "lines": [
     {
      "raw": ""
@@ -3946,8 +3946,8 @@
   {
    "kind": "claim",
    "id": "C-182",
-   "header": "**C-182** Robinson dated roommate, biological male transitioning",
-   "label": "Robinson dated roommate, biological male transitioning",
+   "header": "**C-182** Robinson mother told police he dated roommate, biological male transitioning",
+   "label": "Robinson mother told police he dated roommate, biological male transitioning",
    "lines": [
     {
      "raw": ""
@@ -4002,8 +4002,8 @@
   {
    "kind": "claim",
    "id": "C-156",
-   "header": "**C-156** George Zinn arrested for obstruction after decoy confession",
-   "label": "George Zinn arrested for obstruction after decoy confession",
+   "header": "**C-156** George Zinn arrested for obstruction after implying he was the shooter",
+   "label": "George Zinn arrested for obstruction after implying he was the shooter",
    "lines": [
     {
      "raw": ""
@@ -4529,6 +4529,10 @@
      "v": "Family statement relayed by host, not on the record."
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Corroborate with other family members or contemporaneous records."
     },
@@ -4579,6 +4583,10 @@
     {
      "k": "Confidence",
      "v": "medium"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4729,6 +4737,10 @@
      "v": "medium"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify property ownership via county records; obtain lease or payment records."
     },
@@ -4846,8 +4858,8 @@
   {
    "kind": "claim",
    "id": "C-239",
-   "header": "**C-239** Seth Dillon and Josh Hammer pressured Charlie at retreat",
-   "label": "Seth Dillon and Josh Hammer pressured Charlie at retreat",
+   "header": "**C-239** Host says Seth Dillon and Josh Hammer pressured Charlie at retreat",
+   "label": "Host says Seth Dillon and Josh Hammer pressured Charlie at retreat",
    "lines": [
     {
      "raw": ""
@@ -4902,8 +4914,8 @@
   {
    "kind": "claim",
    "id": "C-269",
-   "header": "**C-269** Top Jewish donors pulled funding and demanded name removal from building",
-   "label": "Top Jewish donors pulled funding and demanded name removal from building",
+   "header": "**C-269** Host says sources report top Jewish donors pulled funding and demanded name removal from building",
+   "label": "Host says sources report top Jewish donors pulled funding and demanded name removal from building",
    "lines": [
     {
      "raw": ""
@@ -5113,8 +5125,8 @@
   {
    "kind": "claim",
    "id": "C-278",
-   "header": "**C-278** Hamptons Attendee Ring Debate Around Sarah Stock",
-   "label": "Hamptons Attendee Ring Debate Around Sarah Stock",
+   "header": "**C-278** Host Recalls Ring Debate Around Hamptons Attendee She Believes Was Sarah Stock",
+   "label": "Host Recalls Ring Debate Around Hamptons Attendee She Believes Was Sarah Stock",
    "lines": [
     {
      "raw": ""
@@ -5391,8 +5403,8 @@
   {
    "kind": "claim",
    "id": "C-158",
-   "header": "**C-158** Zinn Was Evasive About Giving Police His Cell Phone",
-   "label": "Zinn Was Evasive About Giving Police His Cell Phone",
+   "header": "**C-158** Article Says Zinn Was Evasive About Giving Police His Cell Phone",
+   "label": "Article Says Zinn Was Evasive About Giving Police His Cell Phone",
    "lines": [
     {
      "raw": ""
@@ -5497,7 +5509,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6958,7 +6970,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -10287,8 +10299,8 @@
   {
    "kind": "claim",
    "id": "C-255",
-   "header": "**C-255** Megyn Kelly Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause",
-   "label": "Megyn Kelly Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause",
+   "header": "**C-255** Speaker, Apparently Megyn Kelly, Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause",
+   "label": "Speaker, Apparently Megyn Kelly, Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause",
    "lines": [
     {
      "raw": ""

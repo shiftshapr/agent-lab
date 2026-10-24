@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:02:51",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 509201122ed79de97e030313c375fbcb13502e612ab382589b777bb8300a1cb2",
+    "- **Transcript SHA-256**: 2103f83880b2192459eaed0530daf6e61cfdc9198123edac8b341411852a9061",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-834, N-11136, N-11137, N-11138",
@@ -3873,8 +3873,8 @@
   {
    "kind": "claim",
    "id": "C-2000",
-   "header": "**C-2000** Military plane landed in Kalispell for under an hour before returning to Texas",
-   "label": "Military plane landed in Kalispell for under an hour before returning to Texas",
+   "header": "**C-2000** Host says military plane landed in Kalispell for under an hour before returning to Texas",
+   "label": "Host says military plane landed in Kalispell for under an hour before returning to Texas",
    "lines": [
     {
      "raw": ""
@@ -3942,8 +3942,8 @@
   {
    "kind": "claim",
    "id": "C-2002",
-   "header": "**C-2002** Maxfield plane co-owned by Casey Baugh",
-   "label": "Maxfield plane co-owned by Casey Baugh",
+   "header": "**C-2002** Host says Maxfield plane is co-owned by Casey Baugh",
+   "label": "Host says Maxfield plane is co-owned by Casey Baugh",
    "lines": [
     {
      "raw": ""
@@ -4003,8 +4003,8 @@
   {
    "kind": "claim",
    "id": "C-2003",
-   "header": "**C-2003** Casey Baugh's name is on an institute at UVU's Woodbury Building",
-   "label": "Casey Baugh's name is on an institute at UVU's Woodbury Building",
+   "header": "**C-2003** Host says Casey Baugh's name is on an institute at UVU's Woodbury Building",
+   "label": "Host says Casey Baugh's name is on an institute at UVU's Woodbury Building",
    "lines": [
     {
      "raw": ""
@@ -4381,7 +4381,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4933,8 +4933,8 @@
   {
    "kind": "claim",
    "id": "C-2025",
-   "header": "**C-2025** SU-BTT 2025 routing: Cairo, Paris, Minot, then Provo",
-   "label": "SU-BTT 2025 routing: Cairo, Paris, Minot, then Provo",
+   "header": "**C-2025** Host says SU-BTT 2025 routing was Cairo, Paris, Minot, then Provo",
+   "label": "Host says SU-BTT 2025 routing was Cairo, Paris, Minot, then Provo",
    "lines": [
     {
      "raw": ""
@@ -6220,10 +6220,6 @@
      "v": ""
     },
     {
-     "k": "Qualifies",
-     "v": "C-2051"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -6673,10 +6669,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10177, N-10195"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-2001"
     },
     {
      "k": "Tags",

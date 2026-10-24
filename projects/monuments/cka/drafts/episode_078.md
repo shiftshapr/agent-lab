@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:03:02
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 087c555f00ceb818cad608ff21e33df7adf9a91188c74d073eebdf7ac801be48
+- **Transcript SHA-256**: ae22f07a554996773f3a4fce1a323ff75fe6eb941ea5f1ef0087beb7f9637f6d
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11258, N-11259
@@ -1116,7 +1116,7 @@ Investigative Direction: Obtain the full NY Post article and underlying unsealed
 
 ---
 
-**C-6976** Epstein's address book labeled certain apartments as "apartments for models"
+**C-6976** NY Post says Epstein's address book labeled certain apartments as "apartments for models"
 
 Claim Timestamp: 00:04:48
 
@@ -1192,7 +1192,7 @@ Investigative Direction: Identify the interview source and date; obtain statemen
 
 ---
 
-**C-7005** Children of God founder David Berg advocated sexual relations with minors
+**C-7005** Romanian article says Children of God founder David Berg advocated sexual relations with minors
 
 Claim Timestamp: 00:19:25
 
@@ -1231,7 +1231,7 @@ Investigative Direction: Obtain high-resolution originals; have forensic imaging
 
 ---
 
-**C-7024** 9/10 video shows Charlie's necklace with magnet clasp still attached after impact
+**C-7024** Host says 9/10 video shows Charlie's necklace with magnet clasp still attached after impact
 
 Claim Timestamp: 00:34:11
 
@@ -1244,7 +1244,7 @@ Investigative Direction: Compare video frame-by-frame to the multiple conflictin
 
 ---
 
-**C-7031** 9/10 video shows no blood traveling backward from Charlie's position
+**C-7031** Host says 9/10 video shows no blood traveling backward from Charlie's position
 
 Claim Timestamp: 00:36:56
 
@@ -1348,7 +1348,7 @@ Investigative Direction: Verify Antonio Placement Center in Constanta exists as 
 
 ---
 
-**C-7035** 9/10 video shows Dan pushing Charlie to the ground
+**C-7035** 9/10 video shows a man the host identifies as Dan pushing Charlie to the ground
 
 Claim Timestamp: 00:38:21
 
@@ -1787,7 +1787,6 @@ Transcript Snippet: our contact who was at the base in Constanța is no longer t
 Anchored Artifacts: A-3220.1
 Mentions: N-2, N-582
 Related Nodes: N-11081, N-10489
-Qualifies: C-6997
 Tags: relevance:context
 Investigative Direction: Obtain the full interview audio and transcript to settle who 'the people who are there' refers to and whether children are discussed.
 
@@ -1868,7 +1867,7 @@ Transcript Snippet: Renee Crossman, Erika's partner on Romanian Angels, who the 
 Anchored Artifacts: 
 Mentions: N-582, N-2
 Related Nodes: N-10489, N-11081
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find Crossman's own statements about cult membership and confirm no public accusation of misconduct exists.
 
 ---
@@ -1921,7 +1920,7 @@ Investigative Direction: Review event photos and coverage of Erika's public appe
 
 ---
 
-**C-7014** Clip Has Erika Telling Watters Charlie Would Say No to Returning to Earth
+**C-7014** Clip Has Erika Telling Watters She Believes Charlie Would Say No to Returning to Earth
 
 Claim Timestamp: 00:24:35
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:02:51
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 509201122ed79de97e030313c375fbcb13502e612ab382589b777bb8300a1cb2
+- **Transcript SHA-256**: 2103f83880b2192459eaed0530daf6e61cfdc9198123edac8b341411852a9061
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-834, N-11136, N-11137, N-11138
@@ -1033,7 +1033,7 @@ Open Questions: Q-233
 
 ---
 
-**C-2000** Military plane landed in Kalispell for under an hour before returning to Texas
+**C-2000** Host says military plane landed in Kalispell for under an hour before returning to Texas
 
 Claim Timestamp: 00:03:01
 
@@ -1051,7 +1051,7 @@ Open Questions: Q-206
 
 ---
 
-**C-2002** Maxfield plane co-owned by Casey Baugh
+**C-2002** Host says Maxfield plane is co-owned by Casey Baugh
 
 Claim Timestamp: 00:03:53
 
@@ -1067,7 +1067,7 @@ Investigative Direction: FAA aircraft registration and ownership records for the
 
 ---
 
-**C-2003** Casey Baugh's name is on an institute at UVU's Woodbury Building
+**C-2003** Host says Casey Baugh's name is on an institute at UVU's Woodbury Building
 
 Claim Timestamp: 00:05:14
 
@@ -1166,7 +1166,7 @@ Transcript Snippet: Even airport personnel had been instructed to lie actually.
 Anchored Artifacts: 
 Mentions: N-3, N-94, N-200
 Related Nodes: N-10197, N-10195
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Identification of the pilots and airport staff, and any instruction given to airport personnel about the flight.
 Open Questions: Q-207
 
@@ -1310,7 +1310,7 @@ Open Questions: Q-233
 
 ---
 
-**C-2025** SU-BTT 2025 routing: Cairo, Paris, Minot, then Provo
+**C-2025** Host says SU-BTT 2025 routing was Cairo, Paris, Minot, then Provo
 
 Claim Timestamp: 00:18:38
 
@@ -1647,7 +1647,6 @@ Transcript Snippet: Okay, it wasn't on Piers Morgan, right, Schuyler?
 Anchored Artifacts: A-1295.3
 Mentions: N-3, N-38, N-68, N-204
 Related Nodes: 
-Qualifies: C-2051
 Tags: relevance:context
 Investigative Direction: The original broadcast and date of the Seth Dillon clip about Nick Fuentes.
 
@@ -1766,7 +1765,6 @@ Transcript Snippet: here's a screenshot of where that plane was at the moment Ch
 Anchored Artifacts: A-3008.1
 Mentions: N-67, N-1
 Related Nodes: N-10177, N-10195
-Qualifies: C-2001
 Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-13

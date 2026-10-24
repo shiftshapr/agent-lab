@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:02:41
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
+- **Transcript SHA-256**: 284a7f39186cfa1b395bef9a8717ed9aa040df4304bd70ce52275cbeffe7c14b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-850, N-851, N-852, N-11153, N-11155, N-11156, N-11157, N-11158
@@ -1187,8 +1187,6 @@ Mentions: N-15, N-2, N-3
 
 Related Nodes: N-10392
 
-Verification: revised-by-host
-Verification Evidence: C-5181, C-5331
 Investigative Direction: Obtain the direct message or email text from Justin Streiff; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.
 
 **C-5181** Host Says Justin Streiff Told Her Erika Never Lived in China
@@ -1202,7 +1200,6 @@ Transcript Snippet: And he replied that she never lived in China.
 Anchored Artifacts: A-1637.1
 Mentions: N-15, N-2, N-3
 Related Nodes: N-10392
-Revises: C-5180
 Confidence: medium
 Investigative Direction: Read with C-5180; request the reply under the corrected spelling Justin Streiff.
 
@@ -1253,7 +1250,7 @@ Investigative Direction: Verify Buckman's credit against the film's production f
 
 ---
 
-**C-5182** Plane Formerly Used by Charlie, Now Used by Erika, Has Visited New Braunfels TX and Idaho
+**C-5182** Host Says Plane Formerly Charlie's, Now Apparently Erika's, Frequently Visits New Braunfels TX and Idaho
 
 Claim Timestamp: 00:18:20
 
@@ -1309,6 +1306,7 @@ Mentions: N-469
 
 Related Nodes: N-10395
 
+Tags: relevance:tangential
 Investigative Direction: Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation.
 
 ---
@@ -1794,7 +1792,7 @@ Mentions: N-450, N-451, N-3
 Related Nodes: N-10384, N-10374
 Supports: C-4751
 Supports: C-2598
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull the court docket of the Harvest Christian Fellowship Romania litigation for the allegations and status.
 
 ---

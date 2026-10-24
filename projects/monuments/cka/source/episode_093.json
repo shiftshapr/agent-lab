@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:58:01",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: a1f3c6dfa924e1a32b03c50b03b00f101fbd284665dcd6d81eb0bac4b30dbf95",
+    "- **Transcript SHA-256**: 09fe552c3cfcdaff42c1fb85bcdf55d657b2f8fe7dbd508f068967502f7dc9e3",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10e): N-890",
@@ -3570,8 +3570,8 @@
   {
    "kind": "claim",
    "id": "C-8289",
-   "header": "**C-8289** Secret Service determined no credible threats to UGA rally",
-   "label": "Secret Service determined no credible threats to UGA rally",
+   "header": "**C-8289** CBS Source Says Secret Service Found No Credible Threats to UGA Rally",
+   "label": "CBS Source Says Secret Service Found No Credible Threats to UGA Rally",
    "lines": [
     {
      "raw": ""
@@ -3597,10 +3597,6 @@
     {
      "k": "Mentions",
      "v": "N-4"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-8208, C-8225"
     },
     {
      "raw": ""
@@ -3686,8 +3682,8 @@
   {
    "kind": "claim",
    "id": "C-8297",
-   "header": "**C-8297** JD Vance plane circled above North Carolina 3:53 PM–4:34 PM",
-   "label": "JD Vance plane circled above North Carolina 3:53 PM–4:34 PM",
+   "header": "**C-8297** Host Says JD Vance's Plane Circled From 3:53 PM Until Landing at 4:34 PM",
+   "label": "Host Says JD Vance's Plane Circled From 3:53 PM Until Landing at 4:34 PM",
    "lines": [
     {
      "raw": ""
@@ -3806,8 +3802,8 @@
   {
    "kind": "claim",
    "id": "C-8316",
-   "header": "**C-8316** Victor Marx publicly announced Charlie Kirk's death at 1:13 PM Mountain Time on September 10, 2025",
-   "label": "Victor Marx publicly announced Charlie Kirk's death at 1:13 PM Mountain Time on September 10, 2025",
+   "header": "**C-8316** Host Says Victor Marx Posted Charlie Was \"In Heaven\" at 1:13 PM Mountain Time",
+   "label": "Host Says Victor Marx Posted Charlie Was \"In Heaven\" at 1:13 PM Mountain Time",
    "lines": [
     {
      "raw": ""
@@ -3862,8 +3858,8 @@
   {
    "kind": "claim",
    "id": "C-8324",
-   "header": "**C-8324** Victor Marx holds a Class 1 Federal Firearms License",
-   "label": "Victor Marx holds a Class 1 Federal Firearms License",
+   "header": "**C-8324** Victor Marx Group LLC Holds a Class 1 FFL, per Public Lookups",
+   "label": "Victor Marx Group LLC Holds a Class 1 FFL, per Public Lookups",
    "lines": [
     {
      "raw": ""
@@ -4089,8 +4085,8 @@
   {
    "kind": "claim",
    "id": "C-8334",
-   "header": "**C-8334** Text message conversation occurred in April 2025",
-   "label": "Text message conversation occurred in April 2025",
+   "header": "**C-8334** Host Believes Text Message Conversation Occurred in April 2025",
+   "label": "Host Believes Text Message Conversation Occurred in April 2025",
    "lines": [
     {
      "raw": ""
@@ -4145,8 +4141,8 @@
   {
    "kind": "claim",
    "id": "C-8342",
-   "header": "**C-8342** Robert Maxwell provided $2 million toward Bain Capital's initial $37 million fund",
-   "label": "Robert Maxwell provided $2 million toward Bain Capital's initial $37 million fund",
+   "header": "**C-8342** Host Says LA Times Reported Robert Maxwell Provided $2 Million Toward Bain Capital's Initial Fund",
+   "label": "Host Says LA Times Reported Robert Maxwell Provided $2 Million Toward Bain Capital's Initial Fund",
    "lines": [
     {
      "raw": ""
@@ -4634,10 +4630,6 @@
      "v": "N-2"
     },
     {
-     "k": "Contradicts",
-     "v": "C-8289"
-    },
-    {
      "raw": ""
     },
     {
@@ -4665,8 +4657,8 @@
   {
    "kind": "claim",
    "id": "C-8344",
-   "header": "**C-8344** Contradiction – Bomb dogs reportedly did not detect recent firing on recovered rifle",
-   "label": "Contradiction – Bomb dogs reportedly did not detect recent firing on recovered rifle",
+   "header": "**C-8344** Host Says Dogs Did Not Detect Recent Firing on Recovered Rifle",
+   "label": "Host Says Dogs Did Not Detect Recent Firing on Recovered Rifle",
    "lines": [
     {
      "raw": ""

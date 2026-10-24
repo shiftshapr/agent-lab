@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:58:01
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a1f3c6dfa924e1a32b03c50b03b00f101fbd284665dcd6d81eb0bac4b30dbf95
+- **Transcript SHA-256**: 09fe552c3cfcdaff42c1fb85bcdf55d657b2f8fe7dbd508f068967502f7dc9e3
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-890
@@ -965,7 +965,7 @@ First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was
 
 ## 5. Claim Register
 
-**C-8289** Secret Service determined no credible threats to UGA rally
+**C-8289** CBS Source Says Secret Service Found No Credible Threats to UGA Rally
 
 Claim Timestamp: 00:02:09
 
@@ -973,7 +973,6 @@ Claim: Per the CBS News article the host shows, a person familiar with the matte
 
 Anchored Artifacts: A-1981.1
 Mentions: N-4
-Contradicts: C-8208, C-8225
 
 Related Nodes: N-10563, N-10554
 
@@ -996,7 +995,7 @@ Investigative Direction: Obtain FAA flight logs, airport records, and Secret Ser
 
 ---
 
-**C-8297** JD Vance plane circled above North Carolina 3:53 PM–4:34 PM
+**C-8297** Host Says JD Vance's Plane Circled From 3:53 PM Until Landing at 4:34 PM
 
 Claim Timestamp: 00:08:44–00:09:45
 
@@ -1028,7 +1027,7 @@ Investigative Direction: Obtain full unedited UGA rally footage and any subseque
 
 ---
 
-**C-8316** Victor Marx publicly announced Charlie Kirk's death at 1:13 PM Mountain Time on September 10, 2025
+**C-8316** Host Says Victor Marx Posted Charlie Was "In Heaven" at 1:13 PM Mountain Time
 
 Claim Timestamp: 00:24:00–00:25:01
 
@@ -1043,7 +1042,7 @@ Investigative Direction: Archive the post screenshots (cited as having been rece
 
 ---
 
-**C-8324** Victor Marx holds a Class 1 Federal Firearms License
+**C-8324** Victor Marx Group LLC Holds a Class 1 FFL, per Public Lookups
 
 Claim Timestamp: 00:29:30–00:30:28
 
@@ -1103,7 +1102,7 @@ Investigative Direction: Authenticate the text-message screenshots (metadata, de
 
 ---
 
-**C-8334** Text message conversation occurred in April 2025
+**C-8334** Host Believes Text Message Conversation Occurred in April 2025
 
 Claim Timestamp: 00:37:17–00:38:02
 
@@ -1118,7 +1117,7 @@ Investigative Direction: Obtain message timestamps to confirm date precisely.
 
 ---
 
-**C-8342** Robert Maxwell provided $2 million toward Bain Capital's initial $37 million fund
+**C-8342** Host Says LA Times Reported Robert Maxwell Provided $2 Million Toward Bain Capital's Initial Fund
 
 Claim Timestamp: 00:40:43
 
@@ -1249,7 +1248,6 @@ Claim: The host says Erika Kirk's stated reason for canceling, a very credible t
 
 Anchored Artifacts: A-1981.1 (Secret Service side); A-1991.1 (insider side acknowledging non-security factors)
 Mentions: N-2
-Contradicts: C-8289
 
 Related Nodes: N-10554, N-10563
 
@@ -1257,7 +1255,7 @@ Investigative Direction: Resolve by obtaining either Erika Kirk's underlying thr
 
 ---
 
-**C-8344** Contradiction – Bomb dogs reportedly did not detect recent firing on recovered rifle
+**C-8344** Host Says Dogs Did Not Detect Recent Firing on Recovered Rifle
 
 Claim Timestamp: 00:42:19–00:43:08
 

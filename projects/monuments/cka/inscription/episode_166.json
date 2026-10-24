@@ -2447,7 +2447,8 @@
         "N-11350"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:13:05",
       "investigative_direction": "The officer's probable-cause affidavit.",
@@ -2472,7 +2473,8 @@
         "N-11350"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:13:20",
       "investigative_direction": "The court documents in the Dodd case.",
@@ -2593,7 +2595,7 @@
       "@type": "Claim",
       "@id": "C-14344",
       "ref": "C-14344",
-      "label": "Letter to the Editor Originally Named a Club America Homeschool Hub",
+      "label": "Host Says Letter to the Editor Originally Named a Club America Homeschool Hub",
       "claim": "Per the letter the host shows, the writer introduced herself as vice president of Bonners Ferry's local homeschool hub. The host says the text originally said \"Club America\" and was removed so they could pretend they were not affiliated.",
       "anchored_artifacts": [
         "A-3402.2"
@@ -3289,7 +3291,7 @@
       "@type": "Claim",
       "@id": "C-14370",
       "ref": "C-14370",
-      "label": "Supercut Has Zacharia Saying \"I Am a Lawyer\" and Citing Her Research on Fauci",
+      "label": "Supercut Has Zacharia Saying \"I Am a Lawyer\" and \"a Rigorous Researcher\"",
       "claim": "In the supercut, Zacharia says \"I am a lawyer and I'm a rigorous researcher\". In other clips she says \"I'm a lawyer\" and refers to making a case \"because that's what we do as lawyers\".",
       "anchored_artifacts": [
         "A-3405.1"

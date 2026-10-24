@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:02:57
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 5eb7035303a9a0f0c01956d1da545d902c17401379f1f211ba96808ff60e689b
+- **Transcript SHA-256**: 2e57fb41d3d95029e041aa70b2c350ebdd67ae37ae9c3ff653a0b79f5c26f555
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-891, N-892, N-893, N-11215
@@ -1248,7 +1248,7 @@ Investigative Direction: Pull archived Sarelson X timeline via Wayback Machine t
 
 ---
 
-**C-8731** Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law
+**C-8731** Jacob William Roth Is Listed as a Partner on the Harpole Lawsuit; Host Thinks He Is Ben Shapiro's Brother-in-Law
 
 Claim Timestamp: 00:01:15
 
@@ -1278,7 +1278,7 @@ Investigative Direction: Pull archived Roth X timeline.
 
 ---
 
-**C-8803** FARA filing's church targeting list overlaps with Turning Point-affiliated churches (Calvary Chapel, Dream City Church)
+**C-8803** Host Says FARA Filing's Church List Overlaps With Turning Point-Affiliated Churches
 
 Claim Timestamp: 00:45:07
 
@@ -1291,7 +1291,7 @@ Related Nodes: N-10595
 
 ---
 
-**C-8806** Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials
+**C-8806** Donation Comment Hopes the Harpole Case Could Enable Discovery of Underlying Materials
 
 Claim Timestamp: 00:49:25
 
@@ -1327,7 +1327,7 @@ Transcript Snippet: accusing my husband of hiding a hit-and-run, having hit a ma
 Anchored Artifacts: 
 Mentions: N-3, N-30
 Related Nodes: N-10577
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the original posts making the doxing, money-hiding and hit-and-run accusations and any police or court record of the alleged incident.
 
 ---

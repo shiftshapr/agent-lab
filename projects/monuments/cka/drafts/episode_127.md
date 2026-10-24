@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:08:28
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a00c93c3de8fb9fe25ca93a10cae28c73ff062257c969ca7726819b14b4093e7
+- **Transcript SHA-256**: 336ad997895840199f775108c6fda3288fdc3f48f5fb17bd28343d8d2259339e
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-776, N-777, N-778, N-11056
@@ -1064,7 +1064,7 @@ Investigative Direction: Obtain call-detail records (timestamps, duration, devic
 
 ---
 
-**C-10909** Frank Turek Corrects Himself From Hotel to Hospital on FaceTime Duration
+**C-10909** Frank Turek Says Hotel, Then Hospital, While Denying He Claimed 9 Hours on FaceTime
 
 Claim Timestamp: 00:35:42–00:38:14
 
@@ -1298,7 +1298,6 @@ Transcript Snippet: there was people up there looking for an individual that ran
 Anchored Artifacts: A-2146.2
 Mentions: N-506
 Related Nodes: N-10704, N-10661
-Qualifies: C-10873
 Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-2

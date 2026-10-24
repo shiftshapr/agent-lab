@@ -1707,7 +1707,7 @@
       "@type": "Claim",
       "@id": "C-8921",
       "ref": "C-8921",
-      "label": "Harpole's lawyers have begun sending preservation orders",
+      "label": "Host Says Harpole's Lawyers Have Begun Sending Preservation Orders",
       "claim": "The host says lawyers for Brian Harpole, in his defamation suit against her, have begun sending out preservation orders instructing recipients not to delete texts, Signal messages, emails or other communications.",
       "anchored_artifacts": [
         "A-2544.1"
@@ -1963,7 +1963,7 @@
       "@type": "Claim",
       "@id": "C-8932",
       "ref": "C-8932",
-      "label": "Bednarz was served a preservation order by Dhillon Law Group, not sued",
+      "label": "Host Says Bednarz Told Her He Was Served a Preservation Order by Dhillon Law Group, Not Sued",
       "claim": "The host says Blake Bednarz contacted her and told her that Dhillon Law Group had served him a preservation order rather than a lawsuit, because the firm believes he may hold material that could help its defamation case against her.",
       "anchored_artifacts": [
         "A-2544.2"
@@ -2029,7 +2029,7 @@
       "@type": "Claim",
       "@id": "C-8935",
       "ref": "C-8935",
-      "label": "Bednarz shifted to pushing Harpole material in December",
+      "label": "Host Says Bednarz Shifted to Pushing Harpole Material in December",
       "claim": "The host says Bednarz never sent the long footage he promised. She says that in December, around when Fort Huachuca was being discussed, he began sending her material about Brian Harpole and demanding that she present it.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2106,7 +2106,9 @@
       "related_nodes": [
         "N-10820"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:15:30",
       "investigative_direction": "Authenticate the message and its sender, and check court records before relying on any allegation about Mitch Snow's past.",
       "transcript_snippet": "We can do it the hard way and tie her to a con artist with a horrible history of abuse against women and children and raising uh 130,000 dollars for him.",
@@ -2219,7 +2221,7 @@
       "@type": "Claim",
       "@id": "C-8943",
       "ref": "C-8943",
-      "label": "Erika's photo alibi sent via Kolvet showed the wrong dates",
+      "label": "Host Says Erika's Photo Alibi Sent via Kolvet Showed the Wrong Dates",
       "claim": "The host shows a photo she says Erika Kirk sent Andrew Kolvet as an alibi, of herself covering her phone with her children. The host says it carried the wrong dates.",
       "anchored_artifacts": [
         "A-2550.1"
@@ -2343,7 +2345,7 @@
       "@type": "Claim",
       "@id": "C-8948",
       "ref": "C-8948",
-      "label": "The Kirks' September 9 dinner was with Father Klein",
+      "label": "Host Says the Kirks' September 9 Dinner Was With Father Klein",
       "claim": "The host says she knows the Kirks had dinner together on the night of September 9 because it was with Father Klein.",
       "anchored_artifacts": [
         "A-2549.2"
@@ -2366,7 +2368,7 @@
       "@type": "Claim",
       "@id": "C-8949",
       "ref": "C-8949",
-      "label": "Paramount Tactical's Gary confirmed Kolvet's messages referred to the 9th",
+      "label": "Host Says Paramount Tactical's Gary Confirmed Kolvet's Messages Referred to the 9th",
       "claim": "The host says Gary of Paramount Tactical confirmed to her that Andrew Kolvet's messages concerned Erika Kirk's schedule on September 9, not September 8.",
       "anchored_artifacts": [
         "A-2549.2"
@@ -2460,7 +2462,7 @@
       "@type": "Claim",
       "@id": "C-8953",
       "ref": "C-8953",
-      "label": "Boreing used Alyssa Cordova to pass material to Ian Miles Cheong",
+      "label": "Host Alleges Boreing Used Alyssa Cordova to Pass Material to Ian Miles Cheong",
       "claim": "The host alleges that while she was at the Daily Wire, Jeremy Boreing used Alyssa Cordova to send material to Ian Miles Cheong to attack his enemies.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2563,7 +2565,9 @@
       "related_nodes": [
         "N-10577"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:58",
       "investigative_direction": "Search Davidson County (Nashville) arrest and court records for August 2023 and confirm the identity of any George Farmer named.",
       "transcript_snippet": "public records and documents have surfaced alleging that Candace's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident.",
@@ -2627,7 +2631,7 @@
       "@type": "Claim",
       "@id": "C-8960",
       "ref": "C-8960",
-      "label": "Pendragon drove the Daily Wire into the ground financially",
+      "label": "Host Says Pendragon Drove the Daily Wire Into the Ground Financially",
       "claim": "The host says revenue growth is not profit. She says Jeremy Boreing's Pendragon project, which she calls a tremendous financial risk that not even Disney Studios would have invested tens of millions of dollars in, drove the Daily Wire into the ground financially after the success of Matt Walsh's documentaries.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2650,7 +2654,7 @@
       "@type": "Claim",
       "@id": "C-8961",
       "ref": "C-8961",
-      "label": "Boreing stepped aside as CEO to shoot Pendragon in Hungary",
+      "label": "Host Says Boreing Stepped Aside as CEO to Shoot Pendragon in Hungary",
       "claim": "The host says Boreing temporarily stepped down as CEO and went to Hungary to shoot Pendragon, so no one would have contacted him about her husband during that period.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2671,7 +2675,7 @@
       "@type": "Claim",
       "@id": "C-8962",
       "ref": "C-8962",
-      "label": "George Farmer introduced the Daily Wire's interim CEO to London investors",
+      "label": "Host Says George Farmer Introduced the Daily Wire's Interim CEO to London Investors",
       "claim": "The host says her husband traveled to London with the Daily Wire's interim CEO, Caleb Robinson, and introduced the company to his and his father's circle of investors.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2738,7 +2742,7 @@
       "@type": "Claim",
       "@id": "C-8965",
       "ref": "C-8965",
-      "label": "The New York Post, and then lower-rung outlets, declined to publish",
+      "label": "Host Says the New York Post, and Then Lower-Rung Outlets, Declined to Publish",
       "claim": "The host says the New York Post declined to publish the report after looking into it, and that lower-tier outlets, possibly including the Daily Beast, also declined because they could not confirm it.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2786,7 +2790,9 @@
       "related_nodes": [
         "N-10577"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:39:18",
       "investigative_direction": "Compare Loomer's posts with the insurance record and any court or police records involving Tracy Robinson.",
       "transcript_snippet": "Citing and naming a person, remember Tracy Robinson, this is the hit-and-run victim, claiming that we paid to cover up three drunken arrest instances.",
@@ -2822,7 +2828,7 @@
       "@type": "Claim",
       "@id": "C-8969",
       "ref": "C-8969",
-      "label": "Loomer is tagging DHS leadership to investigate George Farmer",
+      "label": "Host Says Loomer Is Tagging DHS Leadership to Investigate George Farmer",
       "claim": "The host says Laura Loomer is tagging DHS, including Secretary of Homeland Security Markwayne Mullin, to urge an investigation of George for violating federal law.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2916,7 +2922,9 @@
         "N-10833",
         "N-10821"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:46:20",
       "investigative_direction": "Obtain the arrest record, charging documents and docket for Zachary Lewis.",
       "transcript_snippet": "he's been accused of distributing pornography of pre-pubescent kids in the process of soliciting other minors.",
@@ -2930,7 +2938,7 @@
       "@type": "Claim",
       "@id": "C-8974",
       "ref": "C-8974",
-      "label": "Zachary Lewis worked in the Daily Wire's kids department",
+      "label": "Host Says Zachary Lewis Worked in the Daily Wire's Kids Department",
       "claim": "The host says Lewis worked in the Daily Wire's kids department (Bentkey), where kids' shows were filmed with children.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2958,7 +2966,9 @@
         "N-10833",
         "N-10821"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:13",
       "investigative_direction": "Establish Lewis's termination date from Daily Wire records or statements and compare it with his arrest date.",
       "transcript_snippet": "I am told that he was not immediately dismissed from The Daily Wire, allegedly.",
@@ -2972,7 +2982,7 @@
       "@type": "Claim",
       "@id": "C-8976",
       "ref": "C-8976",
-      "label": "Six felony counts are pending against Lewis",
+      "label": "Host Says Six Felony Counts Are Pending Against Lewis",
       "claim": "The host says six felony counts are pending against Lewis before a judge, and that she has posted the case details on her X feed.",
       "anchored_artifacts": [
         "A-2554.1"
@@ -3016,7 +3026,7 @@
       "@type": "Claim",
       "@id": "C-8978",
       "ref": "C-8978",
-      "label": "Brett Cooper declined a Lady Ballers role that involved licking Boreing's face",
+      "label": "Host Says Brett Cooper Declined a Lady Ballers Role That Involved Licking Boreing's Face",
       "claim": "The host says Boreing wrote Lady Ballers with a role for Brett Cooper that involved licking his face, and that she declined it.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3088,7 +3098,9 @@
       "related_nodes": [
         "N-10833"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:53:28",
       "investigative_direction": "Establish what Daily Wire leadership knew about the Lewis case and when, and Boreing's role over the kids department at the time.",
       "transcript_snippet": "But while that accusation is terrible, it has nothing to do with me.",

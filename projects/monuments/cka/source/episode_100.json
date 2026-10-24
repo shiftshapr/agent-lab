@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:08:59",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:30:15Z",
-    "- **Transcript SHA-256**: b431db12fe6cfaee417ec617c35007447f9925f4319f577ec5e0dc347f7bba8f",
+    "- **Transcript SHA-256**: 88e6fc395487f149b440a7ab55c47b0a5fa87e997676d4fb0042c41f63affef2",
     "- **Model Version**: claude-manual-extract-seq100",
     "",
     "- **Episode Ledger Summary**:",
@@ -2292,8 +2292,8 @@
   {
    "kind": "claim",
    "id": "C-8921",
-   "header": "**C-8921** Harpole's lawyers have begun sending preservation orders",
-   "label": "Harpole's lawyers have begun sending preservation orders",
+   "header": "**C-8921** Host Says Harpole's Lawyers Have Begun Sending Preservation Orders",
+   "label": "Host Says Harpole's Lawyers Have Begun Sending Preservation Orders",
    "lines": [
     {
      "raw": ""
@@ -2924,8 +2924,8 @@
   {
    "kind": "claim",
    "id": "C-8932",
-   "header": "**C-8932** Bednarz was served a preservation order by Dhillon Law Group, not sued",
-   "label": "Bednarz was served a preservation order by Dhillon Law Group, not sued",
+   "header": "**C-8932** Host Says Bednarz Told Her He Was Served a Preservation Order by Dhillon Law Group, Not Sued",
+   "label": "Host Says Bednarz Told Her He Was Served a Preservation Order by Dhillon Law Group, Not Sued",
    "lines": [
     {
      "raw": ""
@@ -3092,8 +3092,8 @@
   {
    "kind": "claim",
    "id": "C-8935",
-   "header": "**C-8935** Bednarz shifted to pushing Harpole material in December",
-   "label": "Bednarz shifted to pushing Harpole material in December",
+   "header": "**C-8935** Host Says Bednarz Shifted to Pushing Harpole Material in December",
+   "label": "Host Says Bednarz Shifted to Pushing Harpole Material in December",
    "lines": [
     {
      "raw": ""
@@ -3303,6 +3303,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10820"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -3565,8 +3569,8 @@
   {
    "kind": "claim",
    "id": "C-8943",
-   "header": "**C-8943** Erika's photo alibi sent via Kolvet showed the wrong dates",
-   "label": "Erika's photo alibi sent via Kolvet showed the wrong dates",
+   "header": "**C-8943** Host Says Erika's Photo Alibi Sent via Kolvet Showed the Wrong Dates",
+   "label": "Host Says Erika's Photo Alibi Sent via Kolvet Showed the Wrong Dates",
    "lines": [
     {
      "raw": ""
@@ -3855,8 +3859,8 @@
   {
    "kind": "claim",
    "id": "C-8948",
-   "header": "**C-8948** The Kirks' September 9 dinner was with Father Klein",
-   "label": "The Kirks' September 9 dinner was with Father Klein",
+   "header": "**C-8948** Host Says the Kirks' September 9 Dinner Was With Father Klein",
+   "label": "Host Says the Kirks' September 9 Dinner Was With Father Klein",
    "lines": [
     {
      "raw": ""
@@ -3908,8 +3912,8 @@
   {
    "kind": "claim",
    "id": "C-8949",
-   "header": "**C-8949** Paramount Tactical's Gary confirmed Kolvet's messages referred to the 9th",
-   "label": "Paramount Tactical's Gary confirmed Kolvet's messages referred to the 9th",
+   "header": "**C-8949** Host Says Paramount Tactical's Gary Confirmed Kolvet's Messages Referred to the 9th",
+   "label": "Host Says Paramount Tactical's Gary Confirmed Kolvet's Messages Referred to the 9th",
    "lines": [
     {
      "raw": ""
@@ -4138,8 +4142,8 @@
   {
    "kind": "claim",
    "id": "C-8953",
-   "header": "**C-8953** Boreing used Alyssa Cordova to pass material to Ian Miles Cheong",
-   "label": "Boreing used Alyssa Cordova to pass material to Ian Miles Cheong",
+   "header": "**C-8953** Host Alleges Boreing Used Alyssa Cordova to Pass Material to Ian Miles Cheong",
+   "label": "Host Alleges Boreing Used Alyssa Cordova to Pass Material to Ian Miles Cheong",
    "lines": [
     {
      "raw": ""
@@ -4408,6 +4412,10 @@
      "v": "N-10577"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Search Davidson County (Nashville) arrest and court records for August 2023 and confirm the identity of any George Farmer named."
     },
@@ -4540,8 +4548,8 @@
   {
    "kind": "claim",
    "id": "C-8960",
-   "header": "**C-8960** Pendragon drove the Daily Wire into the ground financially",
-   "label": "Pendragon drove the Daily Wire into the ground financially",
+   "header": "**C-8960** Host Says Pendragon Drove the Daily Wire Into the Ground Financially",
+   "label": "Host Says Pendragon Drove the Daily Wire Into the Ground Financially",
    "lines": [
     {
      "raw": ""
@@ -4598,8 +4606,8 @@
   {
    "kind": "claim",
    "id": "C-8961",
-   "header": "**C-8961** Boreing stepped aside as CEO to shoot Pendragon in Hungary",
-   "label": "Boreing stepped aside as CEO to shoot Pendragon in Hungary",
+   "header": "**C-8961** Host Says Boreing Stepped Aside as CEO to Shoot Pendragon in Hungary",
+   "label": "Host Says Boreing Stepped Aside as CEO to Shoot Pendragon in Hungary",
    "lines": [
     {
      "raw": ""
@@ -4656,8 +4664,8 @@
   {
    "kind": "claim",
    "id": "C-8962",
-   "header": "**C-8962** George Farmer introduced the Daily Wire's interim CEO to London investors",
-   "label": "George Farmer introduced the Daily Wire's interim CEO to London investors",
+   "header": "**C-8962** Host Says George Farmer Introduced the Daily Wire's Interim CEO to London Investors",
+   "label": "Host Says George Farmer Introduced the Daily Wire's Interim CEO to London Investors",
    "lines": [
     {
      "raw": ""
@@ -4830,8 +4838,8 @@
   {
    "kind": "claim",
    "id": "C-8965",
-   "header": "**C-8965** The New York Post, and then lower-rung outlets, declined to publish",
-   "label": "The New York Post, and then lower-rung outlets, declined to publish",
+   "header": "**C-8965** Host Says the New York Post, and Then Lower-Rung Outlets, Declined to Publish",
+   "label": "Host Says the New York Post, and Then Lower-Rung Outlets, Declined to Publish",
    "lines": [
     {
      "raw": ""
@@ -4987,6 +4995,10 @@
      "v": "N-10577"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare Loomer's posts with the insurance record and any court or police records involving Tracy Robinson."
     },
@@ -5062,8 +5074,8 @@
   {
    "kind": "claim",
    "id": "C-8969",
-   "header": "**C-8969** Loomer is tagging DHS leadership to investigate George Farmer",
-   "label": "Loomer is tagging DHS leadership to investigate George Farmer",
+   "header": "**C-8969** Host Says Loomer Is Tagging DHS Leadership to Investigate George Farmer",
+   "label": "Host Says Loomer Is Tagging DHS Leadership to Investigate George Farmer",
    "lines": [
     {
      "raw": ""
@@ -5329,6 +5341,10 @@
      "v": "N-10833, N-10821"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the arrest record, charging documents and docket for Zachary Lewis."
     },
@@ -5346,8 +5362,8 @@
   {
    "kind": "claim",
    "id": "C-8974",
-   "header": "**C-8974** Zachary Lewis worked in the Daily Wire's kids department",
-   "label": "Zachary Lewis worked in the Daily Wire's kids department",
+   "header": "**C-8974** Host Says Zachary Lewis Worked in the Daily Wire's Kids Department",
+   "label": "Host Says Zachary Lewis Worked in the Daily Wire's Kids Department",
    "lines": [
     {
      "raw": ""
@@ -5445,6 +5461,10 @@
      "v": "N-10833, N-10821"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Establish Lewis's termination date from Daily Wire records or statements and compare it with his arrest date."
     },
@@ -5462,8 +5482,8 @@
   {
    "kind": "claim",
    "id": "C-8976",
-   "header": "**C-8976** Six felony counts are pending against Lewis",
-   "label": "Six felony counts are pending against Lewis",
+   "header": "**C-8976** Host Says Six Felony Counts Are Pending Against Lewis",
+   "label": "Host Says Six Felony Counts Are Pending Against Lewis",
    "lines": [
     {
      "raw": ""
@@ -5577,8 +5597,8 @@
   {
    "kind": "claim",
    "id": "C-8978",
-   "header": "**C-8978** Brett Cooper declined a Lady Ballers role that involved licking Boreing's face",
-   "label": "Brett Cooper declined a Lady Ballers role that involved licking Boreing's face",
+   "header": "**C-8978** Host Says Brett Cooper Declined a Lady Ballers Role That Involved Licking Boreing's Face",
+   "label": "Host Says Brett Cooper Declined a Lady Ballers Role That Involved Licking Boreing's Face",
    "lines": [
     {
      "raw": ""
@@ -5779,6 +5799,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10833"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

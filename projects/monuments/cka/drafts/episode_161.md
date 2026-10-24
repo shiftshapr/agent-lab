@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00-01:12:42
 - **Extraction Timestamp (UTC)**: 2026-10-07T15:30:00Z
-- **Transcript SHA-256**: f08cf480290560da50615af509c0d856b367a6b6b09d150f0f30475d26c77440
+- **Transcript SHA-256**: ec9f6b25131bcc554425db9429a9d65dc6781e56b5534b1d8c8fdcff45ee077b
 - **Model Version**: grok-manual-extract-seq161
 
 - **Episode Ledger Summary**:
@@ -874,7 +874,6 @@ Transcript Snippet: her thread was instantly boosted by the likes of Andrew Kolv
 Anchored Artifacts: A-2497.1
 Mentions: N-37, N-14, N-281
 Related Nodes: N-10806
-Revises: C-13892
 Confidence: medium
 Investigative Direction: Read with C-13892; archive the boosting posts under the corrected spelling Bill Ackman.
 
@@ -914,14 +913,13 @@ Investigative Direction: Hash-preserve campaign screenshots and Discord message 
 
 ---
 
-**C-13904** Discord pivoted $75k to make Andrew Wilson look good vs Candace
+**C-13904** Discord messages show $75k pool clipping Candace vs Andrew Wilson debate only where Candace looks bad
 
 Claim Timestamp: 00:12:06
 Claim: Per the Elephant Clipping Discord messages the host shows, after the August 14 Candace vs Andrew Wilson debate the instructions shifted for one week to a $75,000 pool clipping only that debate, allowing Candace only where she looks bad and Turning Point looks good; the host notes TPUSA publicly said it had nothing to do with the debate.
 Anchored Artifacts: A-2498.1
 Mentions: N-18, N-3
 Related Nodes: N-10802, N-10000, N-10013
-Contradicts: C-13914
 Investigative Direction: Align Discord timestamps with TPUSA public denial statements.
 
 ---
@@ -955,12 +953,11 @@ Claim: The host reads Andrew Kolvet telling the Atlantic he can "pretty much gua
 Anchored Artifacts: A-2499.1
 Mentions: N-14
 Related Nodes: N-10000, N-10807, N-10813
-Contradicts: C-13904
 Investigative Direction: Compare Kolvet statement to Discord TPUSA campaign language and Enclave drive metadata.
 
 ---
 
-**C-13915** Erika Kirk clips uploaded to campaign drives September 15 2025 via Enclave staff
+**C-13915** Erika Kirk clips uploaded to campaign drives September 15 2025, apparently by Enclave staff
 
 Claim Timestamp: 00:21:21
 Claim: Per the Atlantic account the host highlights, Google Drive folders for the TPUSA-linked campaign contained mostly Erika Kirk videos uploaded September 15, 2025 (five days after Charlie's assassination), and the campaigns' drive folders were filled with files uploaded by what appear to be Enclave and Key employees Jules Katz, Benjamin Goodman, and Jack O'Hara, with Blake Wynn as Enclave CEO.
@@ -982,7 +979,7 @@ Investigative Direction: Timeline deletions vs reporter emails; recover drive re
 
 ---
 
-**C-13935** Wayback Machine shows only loading for Monster Lab captures from September 12 2025
+**C-13935** Host says Wayback Machine shows only loading for Monster Lab captures from September 12 2025
 
 Claim Timestamp: 00:41:06
 Claim: The host says Wayback Machine has captures of Monster Lab from September 12, 2025 forward, but every capture shows only a loading state, which she has never seen before and treats as a wipe preventing confirmation of the first live campaign (assumes September 12 go-live after August 3 splash-only).
@@ -1072,7 +1069,6 @@ Transcript Snippet: You had I told you Bill Ackman who was on the board of Howar
 Anchored Artifacts: A-2500.1
 Mentions: N-37
 Related Nodes: N-10808
-Revises: C-13941
 Confidence: medium
 Investigative Direction: Read with C-13941; confirm Bill Ackman's Howard Hughes board role from corporate filings.
 

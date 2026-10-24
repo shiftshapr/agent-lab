@@ -1920,7 +1920,7 @@
       "@type": "Claim",
       "@id": "C-9980",
       "ref": "C-9980",
-      "label": "Charlie Kirk always preferred a single handheld microphone",
+      "label": "Host says Charlie Kirk always preferred a handheld microphone",
       "claim": "The host says Charlie Kirk's preference was always to use a handheld microphone and that when they toured together both requested two handhelds; she says she never had two mics on her when touring with Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1988,7 +1988,7 @@
       "@type": "Claim",
       "@id": "C-9983",
       "ref": "C-9983",
-      "label": "A shaped charge can act directionally like a bullet",
+      "label": "Host says a shaped charge can act directionally like a bullet",
       "claim": "The host says the theorized explosive would be a shaped charge, typically in a copper or lead capsule, which directs the blast so that it functions like a bullet without a bullet's power; she credits Jon Bray with explaining the idea.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2009,7 +2009,7 @@
       "@type": "Claim",
       "@id": "C-9984",
       "ref": "C-9984",
-      "label": "Bomb dogs on scene were not brought to where Charlie Kirk sat",
+      "label": "Host says bomb dogs on scene were not brought to where Charlie Kirk sat",
       "claim": "The host says bomb dogs were available on scene but were not brought to where Charlie Kirk was seated, and were instead taken to the field where Tyler Robinson's gun was later recovered.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2031,7 +2031,7 @@
       "@type": "Claim",
       "@id": "C-9985",
       "ref": "C-9985",
-      "label": "Bomb dogs can detect trace explosives for up to 10 days",
+      "label": "Host says bomb dogs can detect trace explosives for up to 10 days",
       "claim": "The host says bomb dogs can smell trace amounts of explosives, fired-weapon or bomb residue for up to 10 days, even after rain.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2048,7 +2048,7 @@
       "@type": "Claim",
       "@id": "C-9986",
       "ref": "C-9986",
-      "label": "No evidence the rifle was fired on September 10",
+      "label": "Host says there is no evidence the rifle was fired on September 10",
       "claim": "The host says there is no evidence that the recovered rifle was fired on September 10 and that this, in her belief, is why the bomb dogs did not locate it.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2147,7 +2147,7 @@
       "@type": "Claim",
       "@id": "C-9990",
       "ref": "C-9990",
-      "label": "A .30-06 round would have nearly decapitated Charlie Kirk",
+      "label": "Host asserts a .30-06 round would have nearly decapitated Charlie Kirk",
       "claim": "The host asserts that a .30-06 bullet would have nearly decapitated Charlie Kirk, citing people who emailed her about ricochet injuries.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2214,7 +2214,7 @@
       "@type": "Claim",
       "@id": "C-9993",
       "ref": "C-9993",
-      "label": "Outside the front wound, Charlie Kirk's body was in very good condition",
+      "label": "Host says that outside the front wound, Charlie Kirk's body was in very good condition",
       "claim": "The host says the back footage shows the projectile did not cause blood to spatter backwards, and that she has confirmed that, apart from the front-facing wound and the artery it hit, Charlie Kirk was in very good condition.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2256,7 +2256,7 @@
       "@type": "Claim",
       "@id": "C-9995",
       "ref": "C-9995",
-      "label": "A .30-06 can pierce most bulletproof glass but 20 g of PETN cannot",
+      "label": "Host says a .30-06 can pierce most bulletproof glass but 20 g of PETN cannot",
       "claim": "The host says that, per her research, a .30-06 can cut through most bulletproof glass while a PETN charge of about 20 g cannot, despite leaving a similar diameter.",
       "anchored_artifacts": [
         "A-2670.1"
@@ -2279,7 +2279,7 @@
       "@type": "Claim",
       "@id": "C-9996",
       "ref": "C-9996",
-      "label": "Terryl Farnsworth was instructed to take the SD card from the back camera",
+      "label": "Host says Terryl Farnsworth was instructed to take the SD card from the back camera",
       "claim": "The host says Terryl Farnsworth was specifically instructed to take the SD card from the camera behind Charlie Kirk's head, which she says was the only angle that would have shown he did not die from a .30-06 wound.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2349,7 +2349,7 @@
       "@type": "Claim",
       "@id": "C-9999",
       "ref": "C-9999",
-      "label": "The transport SUV was towed, cleaned, towed again and put up for resale",
+      "label": "Host says the transport SUV was towed, cleaned, towed again and put up for resale",
       "claim": "The host says the feds had the SUV that carried Charlie Kirk towed, cleaned, towed again and resold or put up for resale. She says that, according to Frank Turek, they got everything they needed at the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2371,7 +2371,7 @@
       "@type": "Claim",
       "@id": "C-10000",
       "ref": "C-10000",
-      "label": "Shards appear in the captain chair where Charlie Kirk's body was placed",
+      "label": "Host says shards appear in the captain chair where Charlie Kirk's body was placed",
       "claim": "The host says Charlie Kirk's body was pulled into the captain chair behind the driver's seat, and that the photos show shards behind that chair, in the third row and in the crevices of the seats.",
       "anchored_artifacts": [
         "A-2671.1"
@@ -2501,7 +2501,7 @@
       "@type": "Claim",
       "@id": "C-10006",
       "ref": "C-10006",
-      "label": "Five other sets of prints are on Tyler Robinson's rifle",
+      "label": "Host says five other sets of prints are on Tyler Robinson's rifle",
       "claim": "The host says that besides Tyler Robinson's prints, five other sets of prints are on the rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2524,7 +2524,7 @@
       "@type": "Claim",
       "@id": "C-10007",
       "ref": "C-10007",
-      "label": "Police did not perform a gunshot residue test on Tyler Robinson",
+      "label": "Host says police did not perform a gunshot residue test on Tyler Robinson",
       "claim": "The host says the police did not perform a basic gunshot residue test on Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2565,7 +2565,7 @@
       "@type": "Claim",
       "@id": "C-10009",
       "ref": "C-10009",
-      "label": "TPUSA staff went to Charlie Kirk's favorite restaurant after the memorial",
+      "label": "Host says TPUSA staff went to Charlie Kirk's favorite restaurant after the memorial",
       "claim": "The host says the TPUSA team looked refreshed at the memorial, where Alex Clark wore a hat as if going to polo, and went to Charlie Kirk's favorite restaurant afterward, giggling.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2707,7 +2707,7 @@
       "@type": "Claim",
       "@id": "C-10015",
       "ref": "C-10015",
-      "label": "Kash Patel instructed the feds to take the hospital footage",
+      "label": "Host says Kash Patel instructed the feds to take the hospital footage",
       "claim": "The host says that when Kash Patel arrived on the scene he instructed federal agents to take the hospital footage.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2923,7 +2923,7 @@
       "@type": "Claim",
       "@id": "C-10025",
       "ref": "C-10025",
-      "label": "FBI has held documents requested by Tyler Robinson's defense since September",
+      "label": "Host says FBI has held documents requested by Tyler Robinson's defense since September",
       "claim": "In her reply to the FBI, the host says the documents Tyler Robinson's defense team has been requesting have been in the FBI's possession since September.",
       "anchored_artifacts": [
         "A-2674.3"
@@ -2971,7 +2971,7 @@
       "@type": "Claim",
       "@id": "C-10027",
       "ref": "C-10027",
-      "label": "DOJ staged influencers holding effectively empty Epstein binders",
+      "label": "Host says DOJ had influencers pose with effectively empty Epstein binders",
       "claim": "The host says the Department of Justice held an event at which influencers were photographed holding effectively empty Epstein binders.",
       "anchored_artifacts": [
         "A-2674.6"
@@ -3059,7 +3059,7 @@
       "@type": "Claim",
       "@id": "C-10031",
       "ref": "C-10031",
-      "label": "VA gives veterans drugs that are illegal in Russia",
+      "label": "Host says VA gives veterans drugs she says are illegal in Russia",
       "claim": "The host says the VA tells veterans with treatable brain clots that they have PTSD and gives them Xanax and drugs she says are illegal in Russia.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3148,7 +3148,7 @@
       "@type": "Claim",
       "@id": "C-10035",
       "ref": "C-10035",
-      "label": "The necklace broke before Charlie Kirk reacted to the wound",
+      "label": "Host says the necklace broke before Charlie Kirk reacted to the wound",
       "claim": "The host says slowed footage shows Charlie Kirk's necklace breaking before he reacts to the wound, which she says fits a mic exploding under his shirt.",
       "anchored_artifacts": [
         "A-2676.2"
@@ -3171,7 +3171,7 @@
       "@type": "Claim",
       "@id": "C-10037",
       "ref": "C-10037",
-      "label": "Connor Henderson was interning in the Timpanogos ER",
+      "label": "Host says Connor Henderson was interning in the Timpanogos ER",
       "claim": "The host says Connor Henderson was interning in the emergency department at Timpanogos and is a long-time friend of \"decoy boy number two,\" Zachariah Qureshi; both attended BYU at the same time.",
       "anchored_artifacts": [
         "A-2676.3"
@@ -3180,7 +3180,9 @@
         "N-10529",
         "N-10088"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:09:55",
       "investigative_direction": "Confirm Connor Henderson's Timpanogos internship dates and whether he worked September 10.",
       "transcript_snippet": "and then we find out that Connor was working at the hospital, Timpanogos, interning in the emergency department",
@@ -3198,7 +3200,7 @@
       "@type": "Claim",
       "@id": "C-10036",
       "ref": "C-10036",
-      "label": "Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House",
+      "label": "Host Says Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House",
       "claim": "The host says Zachariah Qureshi's father was one half of the Built organization along with a Henderson, and that their sons lived in the same house at some point and interned together at Built.",
       "anchored_artifacts": [
         "A-2676.3"

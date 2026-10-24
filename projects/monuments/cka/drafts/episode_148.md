@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:59:47
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a2dc76d34975c9abe510df358ab1de54f418f9e78f0eceb43fa1e5c1aa410541
+- **Transcript SHA-256**: 80e2c1a3d2e520492a8f1b517f619e2c53de97be8f5ccfe1c259ef60b8760b7f
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-789
@@ -1071,7 +1071,7 @@ Investigative Direction: Identify the original episode and date of the clip; ver
 
 ---
 
-**C-12823** Salem Media and "Waterstone" Are Releasing a Charlie Kirk Documentary Titled "Can You Hear Me Now?"
+**C-12823** Viewer Comment Says Salem Media and "Waterstone" Are Releasing a Charlie Kirk Documentary "Can You Hear Me Now?"
 
 Claim Timestamp: 00:56:42
 
@@ -1702,7 +1702,7 @@ Transcript Snippet: He himself says that he didn't join Charlie's team until wha
 
 Anchored Artifacts: 
 Mentions: N-159, N-1
-Contradicts: C-10700
+Revises: C-10700
 Tags: relevance:context
 Investigative Direction: Neff's own statement of his hire date versus the 2022 hire date reported earlier; check Fox News departure and TPUSA records.
 

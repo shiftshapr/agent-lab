@@ -2625,7 +2625,7 @@
       "@type": "Claim",
       "@id": "C-1893",
       "ref": "C-1893",
-      "label": "A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals",
+      "label": "Host displays a hospital internal message restricting a trauma patient's chart to two named individuals",
       "claim": "Host displays a hospital internal message (received per host at 20:08; she later says she meant Utah Valley Hospital, not UVU) stating that, due to a media event that led to a trauma patient, only \"Deborah\" and the sender, \"Jacob Blank,\" are allowed in the chart.",
       "anchored_artifacts": [
         "A-1278.1"
@@ -2647,7 +2647,7 @@
       "@type": "Claim",
       "@id": "C-1885",
       "ref": "C-1885",
-      "label": "A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025",
+      "label": "Host says tips indicate a Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025",
       "claim": "The host says she received tips that Charlie was at UVU and an email from someone on the UVU medical staff saying they were certain he was there, with his entry in the UVU system and an internal message restricting access to the file (A-1278.1), while saying there could be a logical explanation she has not found; she later corrects UVU to Utah Valley Hospital.",
       "anchored_artifacts": [
         "A-1278.1"
@@ -2693,7 +2693,7 @@
       "@type": "Claim",
       "@id": "C-1861",
       "ref": "C-1861",
-      "label": "The McCoy orbit is tied to the NAR-aligned Ziklag donor network",
+      "label": "George Webb ties Rob McCoy to the NAR-aligned Ziklag donor network",
       "claim": "In a clip the host plays, George Webb says Rob McCoy is \"kind of the NAR push for Charlie,\" that Charlie was meeting with NAR, and that NAR were the \"$25 million and above\" Christian-right donors, the organization being Ziklag.",
       "anchored_artifacts": [
         "A-1279.1"
@@ -2716,7 +2716,7 @@
       "@type": "Claim",
       "@id": "C-1928",
       "ref": "C-1928",
-      "label": "Brigitte Macron is registered on French tax forms as \"Jean-Michel\" male",
+      "label": "Host says Brigitte Macron is registered on French tax forms as \"Jean-Michel\" male",
       "claim": "The host says Brigitte Macron is listed on French tax forms as Jean-Michel and as male, and cites a government official, Mr. Bromet, who recounted that she was stunned to learn her legal name had been changed when she logged into her personal tax account.",
       "anchored_artifacts": [
         "A-1280.1"

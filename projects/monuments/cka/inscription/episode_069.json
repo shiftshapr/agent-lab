@@ -1528,7 +1528,7 @@
       "@type": "Claim",
       "@id": "C-6180",
       "ref": "C-6180",
-      "label": "Steve Quayle asserts human genome project aimed at genetic markers to \"reanimate\" Nimrod/Gilgamesh",
+      "label": "Steve Quayle says he was told the human genome project seeks markers letting spirits \"reanimate\" host bodies",
       "claim": "Steve Quayle says on Omega Man Radio that the point of the Gilgamesh dig was to extract the DNA, and that he has also been told the human genome project aims to locate genetic markers that would let disembodied spirits reanimate their host body.",
       "anchored_artifacts": [
         "A-1740.1"
@@ -1684,7 +1684,7 @@
       "@type": "Claim",
       "@id": "C-6241",
       "ref": "C-6241",
-      "label": "AZ Masterbaker comment posits COVID tests were instruments of DNA collection for identifying Nimrod's descendants",
+      "label": "AZ Masterbaker comment believes COVID tests collected DNA, maybe to find Nimrod's descendants",
       "claim": "A viewer comment (AZ Masterbaker) says it fully believes the COVID tests were just to collect DNA, so their accuracy did not matter, and that maybe the DNA collection is to find Nimrod's descendants. The host agrees it is interesting.",
       "anchored_artifacts": [
         "A-1743.5"
@@ -3106,7 +3106,8 @@
         "N-10440"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:26:54",
       "investigative_direction": "Obtain the tips themselves or independent confirmation of where Erika Kirk was on the morning of September 10.",
@@ -3210,7 +3211,8 @@
         "N-10185"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:27:48",
       "investigative_direction": "Same as the tips behind the alibi claim.",

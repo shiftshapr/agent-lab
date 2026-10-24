@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:52:19
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:35:51Z
-- **Transcript SHA-256**: 236fef943cef52f96fb592632078d6db31c6860180f563aebb89ad68873b8fa5
+- **Transcript SHA-256**: a2528198728f1d5c6611d68bb86eada5fd46c5f47d4b952a40b859ccf1244589
 - **Model Version**: claude-manual-extract-seq109
 
 - **Episode Ledger Summary**:
@@ -655,7 +655,7 @@ Investigative Direction: Federal charging documents and trial record in the Ryan
 
 ---
 
-**C-9545** Another White House shooting incident this weekend; the perpetrator fired and was killed
+**C-9545** Host says another White House shooting incident this weekend; the perpetrator fired and was killed
 
 Claim Timestamp: 00:03:18
 
@@ -700,7 +700,7 @@ Investigative Direction: The White House press office's written reply to the hos
 
 ---
 
-**C-9548** Multiple DOD offices have access to the distribution lists
+**C-9548** Host says multiple DOD offices have access to the distribution lists
 
 Claim Timestamp: 00:05:12
 
@@ -715,7 +715,7 @@ Investigative Direction: DOD and White House Communications Agency documentation
 
 ---
 
-**C-9549** Steven Cheung was copied on the original email and did not answer the follow-up
+**C-9549** Host says Steven Cheung was copied on the original email and did not answer the follow-up
 
 Claim Timestamp: 00:05:12
 
@@ -821,7 +821,7 @@ Investigative Direction: Fort Huachuca military police call logs and the attende
 
 ---
 
-**C-9556** Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.
+**C-9556** Host says Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.
 
 Claim Timestamp: 00:09:42
 
@@ -838,7 +838,7 @@ Investigative Direction: ADS-B and FAA flight records for the aircraft using cal
 
 ---
 
-**C-9557** Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City
+**C-9557** Host says Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City
 
 Claim Timestamp: 00:09:42
 
@@ -883,7 +883,7 @@ Investigative Direction: The Department of War public schedule and photos of the
 
 ---
 
-**C-9560** No indication where Kash Patel was on September 9
+**C-9560** Host says there is no indication where Kash Patel was on September 9
 
 Claim Timestamp: 00:12:02
 
@@ -913,7 +913,7 @@ Investigative Direction: The FOIA request and its tracking number with the Air F
 
 ---
 
-**C-9562** Gabrielle Cuccia was fired as Pentagon chief correspondent after criticizing Hegseth's press rules
+**C-9562** Cuccia says she was fired as Pentagon chief correspondent after criticizing Hegseth's press rules
 
 Claim Timestamp: 00:13:30
 
@@ -958,7 +958,7 @@ Investigative Direction: NSC staff directory for a director of cognitive advanta
 
 ---
 
-**C-9565** The script was for an AI-generated video on behalf of the White House, NSC and Gorka
+**C-9565** Cuccia says she was told the script was for an AI-generated video for the White House, NSC and Gorka
 
 Claim Timestamp: 00:16:30
 
@@ -988,7 +988,7 @@ Investigative Direction: The full Cuccia thread text and any VFT documents refer
 
 ---
 
-**C-9567** Cuccia was given a Dropbox of VFT research with seven folders
+**C-9567** Cuccia says she was given a Dropbox of VFT research with seven folders
 
 Claim Timestamp: 00:16:30
 
@@ -1018,7 +1018,7 @@ Investigative Direction: The VFT reports in the Dropbox folders and their stated
 
 ---
 
-**C-9569** VFT collected polling on Joe Kent's resignation
+**C-9569** Cuccia says VFT collected polling on Joe Kent's resignation
 
 Claim Timestamp: 00:17:38
 
@@ -1063,7 +1063,7 @@ Investigative Direction: The exact passage in the VFT report and whether any gov
 
 ---
 
-**C-9572** VFT internal comments: undermine Fuentes's Christian identity; get Matt Walsh or Michael Knowles to publish
+**C-9572** Cuccia: VFT internal comments say undermine Fuentes's Christian identity; get Walsh or Knowles to publish
 
 Claim Timestamp: 00:21:20
 
@@ -1108,7 +1108,7 @@ Investigative Direction: The NCRI "Christ is King" report's author list, partner
 
 ---
 
-**C-9575** TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination
+**C-9575** Host says TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination
 
 Claim Timestamp: 00:21:20
 
@@ -1123,7 +1123,7 @@ Investigative Direction: TPUSA and Charlie Kirk Show posts and segments about Jo
 
 ---
 
-**C-9576** VFT data compiles information on JD Vance's 2028 run and advises politicians
+**C-9576** Cuccia says VFT data compiles information on JD Vance's 2028 run and advises politicians
 
 Claim Timestamp: 00:22:35
 
@@ -1138,7 +1138,7 @@ Investigative Direction: The VFT 2028 file and any VFT engagements with campaign
 
 ---
 
-**C-9577** VFT documents discuss burner profiles, burner ad accounts and troll content briefs
+**C-9577** Cuccia says VFT documents discuss burner profiles, burner ad accounts and troll content briefs
 
 Claim Timestamp: 00:23:55
 
@@ -1273,7 +1273,7 @@ Investigative Direction: Daily Mail reporting referencing a TPUSA screening of t
 
 ---
 
-**C-9586** Audio of the appointment was played as Erika Kirk's walkout music at AmFest
+**C-9586** Host says audio of the appointment was played as Erika Kirk's walkout music at AmFest
 
 Claim Timestamp: 00:35:01
 
@@ -1349,7 +1349,7 @@ Investigative Direction: Kolvet's response to Schreiber and any TPUSA spending i
 
 ---
 
-**C-9591** Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause
+**C-9591** Host says Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause
 
 Claim Timestamp: 00:40:10
 
@@ -1365,7 +1365,7 @@ Investigative Direction: The original September 9, 2025 message and its recipien
 
 ---
 
-**C-9592** Netanyahu went on Fox News the day after the assassination to deny involvement
+**C-9592** Host mockingly says Netanyahu went on Fox News the day after the assassination to deny involvement
 
 Claim Timestamp: 00:40:55
 
@@ -1395,7 +1395,7 @@ Investigative Direction: Public appearances and posts showing contact between Er
 
 ---
 
-**C-9594** Erika Kirk had someone in Kanye West's circle leaking to her
+**C-9594** Host says Erika Kirk had someone in Kanye West's circle leaking to her
 
 Claim Timestamp: 00:46:31
 
@@ -1410,7 +1410,7 @@ Investigative Direction: Communications between Erika Kirk and members of Kanye 
 
 ---
 
-**C-9595** AIPAC spent money to remove Thomas Massie
+**C-9595** Host says Charlie Kirk would not have appreciated AIPAC spending money to remove Thomas Massie
 
 Claim Timestamp: 00:47:37
 

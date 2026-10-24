@@ -1272,7 +1272,7 @@
       "@type": "Claim",
       "@id": "C-9209",
       "ref": "C-9209",
-      "label": "White House attempted to rescind a communications email sent shortly after the WHCD shooting",
+      "label": "Host Says White House Attempted to Rescind an Email Sent Shortly After the WHCD Shooting",
       "claim": "The host says she has learned that the White House attempted to rescind a communications email that went out shortly after the White House Correspondents' Dinner shooting.",
       "anchored_artifacts": [
         "A-2574.1"
@@ -1321,7 +1321,7 @@
       "@type": "Claim",
       "@id": "C-9211",
       "ref": "C-9211",
-      "label": "WHCD shooting began at 8:36 p.m. Eastern, with Secret Service officers firing",
+      "label": "Host Says WHCD Shooting Began at 8:36 p.m. Eastern, With Secret Service Officers Firing",
       "claim": "The host says the WHCD shooting took place at 8:36 p.m. Eastern, which she describes as when \"the Secret Service began firing at one another.\"",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1390,7 +1390,7 @@
       "@type": "Claim",
       "@id": "C-9214",
       "ref": "C-9214",
-      "label": "Department of Defense uses a canary tactic to trace leakers of emails",
+      "label": "Host's Team Says Department of Defense Uses a Canary Tactic to Trace Email Leakers",
       "claim": "The host says her team determined that the Department of Defense uses a \"canary\" tactic that gives each recipient a slightly varied email so leaks can be traced, which is why she will not show the email.",
       "anchored_artifacts": [
         "A-2574.1"
@@ -1413,7 +1413,7 @@
       "@type": "Claim",
       "@id": "C-9215",
       "ref": "C-9215",
-      "label": "TPUSA implemented a similar canary email process after Charlie Kirk's assassination",
+      "label": "Host Says TPUSA Implemented a Similar Canary Email Process After Charlie Kirk's Assassination",
       "claim": "The host says Turning Point USA similarly implemented a canary email process shortly after Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1433,7 +1433,7 @@
       "@type": "Claim",
       "@id": "C-9216",
       "ref": "C-9216",
-      "label": "Steven Cheung, Ryan Rippeon and Gustav Anderly were copied on the email",
+      "label": "Host Says Steven Cheung, Ryan Rippeon and Gustav Anderly Were Copied on the Email",
       "claim": "The host says Steven Cheung, Ryan Rippeon and Gustav Anderly were among those copied on the White House Military Office email.",
       "anchored_artifacts": [
         "A-2574.1"
@@ -1458,7 +1458,7 @@
       "@type": "Claim",
       "@id": "C-9217",
       "ref": "C-9217",
-      "label": "Gustav Anderly is an information systems manager at the White House Communications Agency",
+      "label": "Host Says Gustav Anderly Is Listed as Information Systems Manager at the White House Communications Agency",
       "claim": "The host says Gustav Anderly is listed as information systems manager at the White House Communications Agency in Arlington, Virginia.",
       "anchored_artifacts": [
         "A-2574.1"
@@ -1565,7 +1565,7 @@
       "@type": "Claim",
       "@id": "C-9222",
       "ref": "C-9222",
-      "label": "Recipients were ordered in multiple emails to delete the original",
+      "label": "Host Is Told Recipients Were Ordered in Multiple Emails to Delete the Original",
       "claim": "The host says she is told the White House then sent multiple emails ordering recipients to delete the original, and that more IT staff were brought in.",
       "anchored_artifacts": [
         "A-2574.2"
@@ -1585,7 +1585,7 @@
       "@type": "Claim",
       "@id": "C-9223",
       "ref": "C-9223",
-      "label": "The rest of the email covered routine security messaging",
+      "label": "Host Says the Rest of the Email Covered Routine Security Messaging",
       "claim": "The host says the email's other sections covered approved messages that the President and Vice President were secured, the absence of foreign threats, and monitoring of misinformation and adversarial state media framing.",
       "anchored_artifacts": [
         "A-2574.1"
@@ -1628,7 +1628,7 @@
       "@type": "Claim",
       "@id": "C-9225",
       "ref": "C-9225",
-      "label": "Justin Streiff was promoted to COO seven days before Charlie Kirk was assassinated",
+      "label": "Host Says Justin Streiff Was Promoted to COO Seven Days Before Charlie Kirk Was Assassinated",
       "claim": "The host says Justin Streiff's chief operating officer position at Turning Point USA was new, and that he was promoted to it just seven days before Charlie Kirk was assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1672,7 +1672,7 @@
       "@type": "Claim",
       "@id": "C-9227",
       "ref": "C-9227",
-      "label": "Charlie Kirk announced the audit at the same time he promoted Justin Streiff",
+      "label": "Host Says Charlie Kirk Announced the Audit in the Same Email Promoting Justin Streiff",
       "claim": "The host says Charlie Kirk announced the TPUSA audit in the same email in which he promoted Justin Streiff.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1740,7 +1740,7 @@
       "@type": "Claim",
       "@id": "C-9230",
       "ref": "C-9230",
-      "label": "Turning Point Action is headed by Tyler Bowyer and its super-feed back door pays Lori Frantzve",
+      "label": "Host Says Turning Point Action Is Headed by Tyler Bowyer and Its Super-Feed Back Door Pays Lori Frantzve",
       "claim": "The host says Turning Point Action is headed by Tyler Bowyer and that the \"super feed back door\" it built pays Lori Frantzve, Erika Kirk's mother.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1764,7 +1764,7 @@
       "@type": "Claim",
       "@id": "C-9231",
       "ref": "C-9231",
-      "label": "Charlie Kirk set up an internal DOGE separate from the annual accountants' audit",
+      "label": "Host Says Charlie Kirk Set Up an Internal DOGE Separate From the Annual Accountants' Audit",
       "claim": "The host says Charlie Kirk established a \"Doge\" to audit the organization internally, distinct from the yearly accountants' audit, and gives her opinion that he realized money was \"evaporating.\"",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1812,7 +1812,7 @@
       "@type": "Claim",
       "@id": "C-9233",
       "ref": "C-9233",
-      "label": "Streiff sought to at least double the \"Stop in the Name of God\" print order",
+      "label": "Host Says Streiff Allegedly Sought to at Least Double the \"Stop in the Name of God\" Print Order",
       "claim": "The host says that hours after Charlie Kirk died, Streiff allegedly told the printer they would need to at least double a previously planned order of, she thinks, roughly 25,000–50,000 copies of Charlie's upcoming book \"Stop in the Name of God.\"",
       "anchored_artifacts": [
         "A-2576.1"
@@ -1859,7 +1859,7 @@
       "@type": "Claim",
       "@id": "C-9235",
       "ref": "C-9235",
-      "label": "Erika Kirk's takeover of the board and CEO role was decided within 48 hours",
+      "label": "Host Says Erika Kirk's Takeover of the Board and CEO Role Was Decided Within 48 Hours",
       "claim": "The host says the decision on Erika Kirk taking over the board and the CEO role was made within 48 hours of Charlie Kirk's death.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1881,7 +1881,7 @@
       "@type": "Claim",
       "@id": "C-9236",
       "ref": "C-9236",
-      "label": "Justin Streiff also runs Winning Team Publishing, founded by Sergio Gor and Don Jr.",
+      "label": "Host Says Justin Streiff Also Runs Winning Team Publishing, Founded by Sergio Gor and Don Jr.",
       "claim": "The host says Justin Streiff also runs Winning Team Publishing, a conservative book publisher started by Sergio Gor and Donald Trump Jr., as a second full-time job.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1903,7 +1903,7 @@
       "@type": "Claim",
       "@id": "C-9237",
       "ref": "C-9237",
-      "label": "Justin Streiff receives money from Winning Team Publishing",
+      "label": "Host Says Justin Streiff Receives Money From Winning Team Publishing",
       "claim": "The host says Justin Streiff receives money from Winning Team Publishing and, she imagines, would stand to benefit greatly from high book sales, which she later says could be a conflict of interest.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1923,7 +1923,7 @@
       "@type": "Claim",
       "@id": "C-9238",
       "ref": "C-9238",
-      "label": "Sergio Gor was White House deputy chief of staff and exchanged staff with Charlie Kirk's office",
+      "label": "Host Says Sergio Gor Was Deputy Chief of Staff and Exchanged Staff With Charlie Kirk's Office",
       "claim": "The host says Sergio Gor was White House deputy chief of staff at the time of Charlie Kirk's death, and that she was told employees moved between Charlie's office and Gor's office.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1945,7 +1945,7 @@
       "@type": "Claim",
       "@id": "C-9239",
       "ref": "C-9239",
-      "label": "Sergio Gor was second in command to Susie Wiles before being pushed out",
+      "label": "Host Says Sergio Gor Was Second in Command to Susie Wiles Before Being Pushed Out",
       "claim": "The host says Sergio Gor was second in command to Susie Wiles and was \"unceremoniously kicked out.\"",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1995,7 +1995,9 @@
       "related_nodes": [
         "N-10848"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:22:23",
       "investigative_direction": "Identify the source of the rumor; treat as unverified and seek on-record confirmation or denial.",
       "transcript_snippet": "Then somebody found out about Sergio Gor and another a donor's son. Some sort of a relationship, I was told.",
@@ -2009,7 +2011,7 @@
       "@type": "Claim",
       "@id": "C-9242",
       "ref": "C-9242",
-      "label": "Erika Kirk flew to Washington for Gor's ambassador ceremony",
+      "label": "Host Says Erika Kirk Flew to Washington for Gor's Ambassador Ceremony",
       "claim": "The host says Erika Kirk flew to Washington, D.C., to attend Sergio Gor being named ambassador to India, and spoke at the event.",
       "anchored_artifacts": [
         "A-2577.1"
@@ -2265,7 +2267,7 @@
       "@type": "Claim",
       "@id": "C-9253",
       "ref": "C-9253",
-      "label": "TPUSA is now paying university chapter leaders not to close chapters",
+      "label": "Host Says TPUSA Is Apparently Now Paying University Chapter Leaders Not to Close Chapters",
       "claim": "The host says TPUSA is apparently now paying university chapter leaders to keep chapters from closing, which she says was not done while Charlie Kirk was alive.",
       "anchored_artifacts": [],
       "related_nodes": [

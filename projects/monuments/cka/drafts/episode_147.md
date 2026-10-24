@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:05:34
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: db9aacd73c214666d6ea30eb8af985ba56f6e0ed6eeeeaaef2eeae0d410df01e
+- **Transcript SHA-256**: 88b6b55f35b87892d6b438bc9c46960efacc5614ade31a35856ae263f1116211
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11322
@@ -830,7 +830,7 @@ Verification: corroborated
 Verification Evidence: S-7
 Investigative Direction: Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information.
 
-**C-12677** Justin Davis sprinted to and opened the passenger door of a vehicle he did not arrive in
+**C-12677** Host Says Justin Davis Sprinted to and Opened the Passenger Door of a Vehicle He Did Not Arrive In
 
 Claim Timestamp: 00:20:06
 
@@ -869,7 +869,7 @@ Related Nodes: N-10743
 
 Investigative Direction: Compare frame-by-frame footage against cell-phone metadata / call detail records; obtain McCoy's own account.
 
-**C-12680** A backpack was ejected from the trunk of Kirk's vehicle
+**C-12680** Host Says a Backpack Fell or Was Tossed From the Trunk of Kirk's Vehicle
 
 Claim Timestamp: 00:22:38
 
@@ -882,7 +882,7 @@ Related Nodes: N-10745
 
 Investigative Direction: Identify the bag's owner; obtain receipt / loss-property reports if any.
 
-**C-12669** Kirk communicated the night before 9/10 that he feared for his life
+**C-12669** Host Says Kirk Communicated the Night Before 9/10 That He Feared for His Life
 
 Claim Timestamp: 00:16:16
 
@@ -948,7 +948,7 @@ Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.
 
-**C-12659** Two security team members remain unidentified
+**C-12659** Two security team members remain unidentified by the host
 
 Claim Timestamp: 00:12:13
 
@@ -987,7 +987,7 @@ Related Nodes: N-10747
 
 Investigative Direction: This is a host-stance claim; verification would require Walsh's reply or retraction.
 
-**C-12701** Viva Frei echoed the same political-assassination framing
+**C-12701** Host says Viva Frei echoed the same political-assassination framing
 
 Claim Timestamp: 00:40:25
 
@@ -1067,7 +1067,7 @@ Related Nodes: N-10748
 
 Investigative Direction: Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration.
 
-**C-12714** Defense page 32 asserts inference-upon-inference as to political motivation
+**C-12714** Defense page 32 says no evidence of political expressions; host says it argues inference upon inference
 
 Claim Timestamp: 00:48:38
 
@@ -1093,7 +1093,7 @@ Related Nodes: N-10748
 
 Investigative Direction: Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification.
 
-**C-12687** Blake Neff's testimony describes a 20-second window from "active shooter" to "all clear"
+**C-12687** Blake Neff testified he concluded within ~15-20 seconds the shooter was likely stopped
 
 Claim Timestamp: 00:28:14
 
@@ -1120,7 +1120,7 @@ Related Nodes: N-10746
 
 Investigative Direction: Obtain Erika Kirk's call detail records; verify call timing and duration.
 
-**C-12717** "Mikey said there's so much blood" claim traces to Hibbs / Turek, not McCoy
+**C-12717** Host says "so much blood" claim traces to Hibbs / Turek, not McCoy
 
 Claim Timestamp: 00:54:25
 
@@ -1159,7 +1159,7 @@ Related Nodes:
 
 Investigative Direction: Identify the original source(s) of the Mitchell-confession claim; obtain Mike Mitchell's own on-record account.
 
-**C-12652** Bill Ackman "million dollars" narrative was dropped
+**C-12652** Host asserts Bill Ackman "million dollars" narrative was dropped
 
 Claim Timestamp: 00:08:25
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:46:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd
+- **Transcript SHA-256**: bc353eb57c4ba7319c67b6075b1d518679903d1d6319ee5102144b3cce457fc1
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-11092, N-11093, N-11094, N-11095, N-11097
@@ -674,7 +674,7 @@ Catholic AI answer engine advertised in a sponsor read.
 
 ## 5. Claim Register
 
-**C-5534** Charlie Kirk received a text-message pressure campaign from a self-identified Christian Zionist donor
+**C-5534** Host Says Charlie Kirk Received a Pressure Text From a Christian Zionist Donor
 
 Claim Timestamp: 00:07:27
 
@@ -790,7 +790,7 @@ Investigative Direction: Obtain the termination documentation referenced in the 
 
 ---
 
-**C-5579** The terminated employee had worked 80–90 hour weeks immediately prior to termination
+**C-5579** Terminated Employee Says She Worked 80–90 Hour Weeks Before Termination
 
 Claim Timestamp: 00:27:24
 
@@ -820,7 +820,7 @@ Investigative Direction: Obtain HR personnel file to confirm or refute the absen
 
 ---
 
-**C-5568** An Andrew Kolvet-led office confrontation was triggered by an Uber-driver's reported conversation
+**C-5568** Host Says Andrew Kolvet Led an Office Confrontation Over an Uber Driver's Reported Conversation
 
 Claim Timestamp: 00:22:28
 
@@ -835,7 +835,7 @@ Investigative Direction: Identify the CMO named and obtain any internal investig
 
 ---
 
-**C-5586** A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved
+**C-5586** Host Alleges a Part-Time TPUSA Employee Was Fired at Home by the General Counsel After a Fake Zoom Meeting
 
 Claim Timestamp: 00:32:06
 
@@ -1186,7 +1186,7 @@ Transcript Snippet: we received a very interesting tip which unfortunately means
 Anchored Artifacts: 
 Mentions: N-3, N-489, N-387
 Related Nodes: N-10409
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Ask the host to publish the list and the tip; verify each entry against court records.
 
 ---

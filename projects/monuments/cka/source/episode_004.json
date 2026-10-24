@@ -19,7 +19,7 @@
     "- **Video Timestamp Range**: 00:00:00–01:08:51",
     "- **Extraction Timestamp (UTC)**: 2026-09-23T19:33:39Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: 01827eb532b7317b128eba25a70f6def2108e8ca79fdbe46bd399b76d5e2e53f",
+    "- **Transcript SHA-256**: dc82dd580410f8d42ff0fa3f2ce24ad330685ca7648da9c866f49714b25fa2de",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-10922, N-10923, N-10924, N-10925",
@@ -3446,8 +3446,8 @@
   {
    "kind": "claim",
    "id": "C-315",
-   "header": "**C-315** Robinson Left Rifle in Bush After Changing Outfits",
-   "label": "Robinson Left Rifle in Bush After Changing Outfits",
+   "header": "**C-315** Robinson's Text Says He Left Rifle in Bush After Changing Outfits",
+   "label": "Robinson's Text Says He Left Rifle in Bush After Changing Outfits",
    "lines": [
     {
      "raw": ""
@@ -3510,8 +3510,8 @@
   {
    "kind": "claim",
    "id": "C-338",
-   "header": "**C-338** Lance Twiggs Released Suspiciously Fast After Apartment Raid",
-   "label": "Lance Twiggs Released Suspiciously Fast After Apartment Raid",
+   "header": "**C-338** Host Says She Was Told Lance Twiggs Was Allegedly Released Fast After Apartment Raid",
+   "label": "Host Says She Was Told Lance Twiggs Was Allegedly Released Fast After Apartment Raid",
    "lines": [
     {
      "raw": ""
@@ -3543,6 +3543,10 @@
     {
      "k": "Confidence",
      "v": "medium"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -3674,8 +3678,8 @@
   {
    "kind": "claim",
    "id": "C-351",
-   "header": "**C-351** Lance Twiggs's Mother Holds Stanford BS in Psychology",
-   "label": "Lance Twiggs's Mother Holds Stanford BS in Psychology",
+   "header": "**C-351** Host Says Lance Twiggs's Mother Holds Stanford BS in Psychology",
+   "label": "Host Says Lance Twiggs's Mother Holds Stanford BS in Psychology",
    "lines": [
     {
      "raw": ""
@@ -3713,6 +3717,10 @@
      "v": "Degree claim not independently sourced; presented as host assertion."
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations."
     },
@@ -3730,8 +3738,8 @@
   {
    "kind": "claim",
    "id": "C-361",
-   "header": "**C-361** Donors Pressured Charlie Over Tucker Speaking Slot",
-   "label": "Donors Pressured Charlie Over Tucker Speaking Slot",
+   "header": "**C-361** Tucker Says Donors Pressured Charlie Over Tucker Speaking Slot",
+   "label": "Tucker Says Donors Pressured Charlie Over Tucker Speaking Slot",
    "lines": [
     {
      "raw": ""
@@ -3811,10 +3819,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10044"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-361"
     },
     {
      "k": "Confidence",
@@ -4952,8 +4956,8 @@
   {
    "kind": "claim",
    "id": "C-323",
-   "header": "**C-323** NY Post Published Its Exclusive at 9:21 AM Mountain Time After the FBI Press Conference",
-   "label": "NY Post Published Its Exclusive at 9:21 AM Mountain Time After the FBI Press Conference",
+   "header": "**C-323** Host Says NY Post Published Its Exclusive at 9:21 AM Mountain Time After the FBI Press Conference",
+   "label": "Host Says NY Post Published Its Exclusive at 9:21 AM Mountain Time After the FBI Press Conference",
    "lines": [
     {
      "raw": ""
@@ -5009,8 +5013,8 @@
   {
    "kind": "claim",
    "id": "C-324",
-   "header": "**C-324** FBI Salt Lake City Released Static Stills of the Stairs Figure Seven Minutes Later",
-   "label": "FBI Salt Lake City Released Static Stills of the Stairs Figure Seven Minutes Later",
+   "header": "**C-324** Host Says FBI Salt Lake City Released Static Stills of the Stairs Figure Seven Minutes Later",
+   "label": "Host Says FBI Salt Lake City Released Static Stills of the Stairs Figure Seven Minutes Later",
    "lines": [
     {
      "raw": ""
@@ -5659,7 +5663,7 @@
      "v": "N-10021"
     },
     {
-     "k": "Contradicts",
+     "k": "Qualifies",
      "v": "C-162"
     },
     {
@@ -5718,6 +5722,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10033"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -7277,10 +7285,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10044"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-361"
     },
     {
      "k": "Investigative Direction",

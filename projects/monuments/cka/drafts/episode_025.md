@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:51:05
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 47a250b4a7d456b87206c9f6ac24514ef27c6643b47dd4ad849208b1da6b7ce1
+- **Transcript SHA-256**: 7e60cf661a434b8dfdc88afa81f6fbf64b10496564c78c1bb4fc5045cd4cdda1
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-755, N-11020, N-11022, N-11023
@@ -815,7 +815,7 @@ Investigative Direction: File records requests for the full UVU event applicatio
 
 ---
 
-**C-2280** Rob McCoy Listed His Coronado Home for Sale on August 24, 2025
+**C-2280** Host Says Rob McCoy Listed His Coronado Home for Sale on August 24, 2025
 
 Claim Timestamp: 00:15:50
 
@@ -869,6 +869,7 @@ Mentions: N-42
 
 Related Nodes: N-10166
 
+Tags: relevance:tangential
 Investigative Direction: Obtain hospital records, witness statements, and any source documentation for the alleged George Zinn statement; verify Zinn's presence at the event and his subsequent activities.
 
 ---
@@ -1108,7 +1109,7 @@ Investigative Direction: Identify who describes the church as a cult online and 
 
 ---
 
-**C-2276** Rob McCoy's Step Down Was Announced Publicly in January After 17 Years
+**C-2276** Host Says Rob McCoy's Step Down Was Announced Publicly in January After 17 Years
 
 Claim Timestamp: 00:14:28
 

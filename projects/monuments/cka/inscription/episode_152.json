@@ -2191,7 +2191,9 @@
       "claim": "The host says that, after George Zinn's arrest, child pornography pertaining to a 5-year-old was discovered on his phone, and that he was sentenced for child sex crimes; she cites the New York Post as having covered it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:12:07",
       "investigative_direction": "Obtain New York Post article referenced and court records for George Zinn's case.*",
       "mentions_person_refs": [
@@ -2341,14 +2343,16 @@
       "@type": "Claim",
       "@id": "C-13152",
       "ref": "C-13152",
-      "label": "Matt Tardio pled no contest October 2025 to felony coercion and misdemeanor harassment in an incident captured by surveillance at an ICE facility",
+      "label": "Host, citing Bulwark, says Matt Tardio pled no contest to felony coercion over an October 2025 ICE-facility incident",
       "claim": "The host says, citing a Bulwark report, that Matt Tardio pleaded no contest in Portland to felony coercion and misdemeanor harassment over an incident she dates to last October, October 2025, and that the alleged conduct was captured by surveillance cameras at the ICE facility.",
       "anchored_artifacts": [
         "A-2379.1",
         "A-2380.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:56–00:41:02",
       "investigative_direction": "Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*",
       "mentions_person_refs": [
@@ -2408,7 +2412,9 @@
       "related_nodes": [
         "N-10755"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:34–00:08:18",
       "investigative_direction": "Verify each row of the spreadsheet against primary court / news records; document the precise nature of each \"connection\" (e.g., accusation vs. conviction vs. employment).*",
       "mentions_person_refs": [
@@ -2465,7 +2471,9 @@
       "claim": "The host says George Zinn, who she says shouted \"I did it\" in the immediate aftermath of the September 10 explosive, was sentenced for child sex crimes after his arrest.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:12:41",
       "investigative_direction": "Pull George Zinn's Utah court records for sentencing outcomes.*",
       "mentions_person_refs": [
@@ -2535,7 +2543,8 @@
         "N-11081"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:03:34",
       "investigative_direction": "Find the primary accusation records or reporting on Busher and any Romanian Angels documents naming him.",
@@ -2560,7 +2569,8 @@
         "N-10390"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:04:40",
       "investigative_direction": "Identify the person under the correct spelling and pull the Fort Huachuca charging documents or reporting.",
@@ -3097,7 +3107,8 @@
         "N-10032"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:11:56",
       "investigative_direction": "Collect eyewitness video and police reports of Zinn's shouting and timing relative to the shot.",
@@ -3317,7 +3328,8 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:16:49",
       "investigative_direction": "Obtain the diagram source and verify each person's listed career against official bios.",
@@ -4180,7 +4192,8 @@
         "N-11181"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:40:11",
       "investigative_direction": "Obtain the Bulwark report, the Portland police report and the court docket.",

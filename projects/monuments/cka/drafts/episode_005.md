@@ -12,7 +12,7 @@
 - **Video Timestamp Range**: 00:00:00–00:59:53
 - **Extraction Timestamp (UTC)**: 2026-09-23T19:35:49Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: b704370251f8857dac366787278287738cc424dfb3e336d044bdb3646f0f1310
+- **Transcript SHA-256**: 3c54f485ddc9f77dd38fb96d550cded70a8ef40d498d9069478de56d5a67e021
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (wave4-events): N-11361
@@ -882,7 +882,7 @@ Mentions: N-40
 Related Nodes: N-10012, N-10048, N-10059
 Confidence: medium
 Verification: revised-by-host
-Verification Evidence: C-4526, C-4530
+Verification Evidence: C-4526
 Investigative Direction: Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle.
 
 ---
@@ -975,7 +975,6 @@ Transcript Snippet: When's the last time she was at a Turning Point event? Uh, n
 Anchored Artifacts: A-1116.1
 Mentions: N-3, N-72
 Related Nodes: N-10000, N-10053, N-10054, N-10056
-Contradicts: C-464
 Confidence: high
 Investigative Direction: Compare PBD clip against TPUSA published tour / speaker schedules from 2024–2025.
 
@@ -1007,7 +1006,6 @@ Transcript Snippet: But anyways, Ackman published these private text messages
 Anchored Artifacts: A-1117.1
 Mentions: N-37, N-1, N-3
 Related Nodes: N-10027, N-10053
-Revises: C-455
 Confidence: medium
 Investigative Direction: Read with C-455; obtain the text exchange as published by Bill Ackman.
 
@@ -1142,7 +1140,6 @@ Transcript Snippet: a very quiet breakup where she got too rabbit hole for him.
 Anchored Artifacts: A-1116.1
 Mentions: N-1, N-3, N-72
 Related Nodes: N-10000, N-10053
-Contradicts: C-464
 Confidence: high
 Investigative Direction: Verify Bowling's claim against TPUSA internal communications and Kirk's own public statements in the months before death.
 
@@ -1843,7 +1840,6 @@ Transcript Snippet: He told me, "The Holy Land is so important to my life, it pa
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-1
 Related Nodes: N-10053, N-10026
-Contradicts: C-72
 Tags: relevance:core
 Investigative Direction: Obtain the letter itself; the quoted lines are only excerpts and the host says the context is omitted.
 Open Questions: Q-53
@@ -2383,7 +2379,6 @@ Transcript Snippet: Has there been any communication between there hasn't been a
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10067, N-10003, N-10085
-Contradicts: C-464
 Tags: relevance:context
 Investigative Direction: Retrieve the Daily Mail article and compare its sourcing with messages and appearances between Kirk and Owens.
 

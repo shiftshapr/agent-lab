@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:49:39",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e",
+    "- **Transcript SHA-256**: 7b2402fffd8785f420deb726dfe6482e2a6782d4e31f111f9b6c3d54b579e480",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-819, N-820, N-11121, N-11122",
@@ -3435,8 +3435,8 @@
   {
    "kind": "claim",
    "id": "C-11371",
-   "header": "**C-11371** Kolvet publicly disputed authenticity of text messages shared by Candace Owens",
-   "label": "Kolvet publicly disputed authenticity of text messages shared by Candace Owens",
+   "header": "**C-11371** Kolvet Said He Had No Idea Whether Text Messages Shared by Candace Owens Were Authentic",
+   "label": "Kolvet Said He Had No Idea Whether Text Messages Shared by Candace Owens Were Authentic",
    "lines": [
     {
      "raw": ""
@@ -3613,8 +3613,8 @@
   {
    "kind": "claim",
    "id": "C-11405",
-   "header": "**C-11405** Pastor Russell denounced named political opponents in sermon",
-   "label": "Pastor Russell denounced named political opponents in sermon",
+   "header": "**C-11405** Pastor Russell Denounced Unnamed \"Muslim-Funded Ex-Fox News Personalities\" and Others in Sermon",
+   "label": "Pastor Russell Denounced Unnamed \"Muslim-Funded Ex-Fox News Personalities\" and Others in Sermon",
    "lines": [
     {
      "raw": ""
@@ -5706,12 +5706,12 @@
      "v": "N-10449"
     },
     {
-     "k": "Tags",
-     "v": "relevance:context"
+     "k": "Contradicts",
+     "v": "C-7533"
     },
     {
-     "k": "Revises",
-     "v": "C-7533, C-7904"
+     "k": "Tags",
+     "v": "relevance:context"
     },
     {
      "k": "Investigative Direction",

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:15:06
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 54326bf303ba2cba298d77e6856541d4369aa89e3a7bd9e071e08bfc83a58bce
+- **Transcript SHA-256**: 73c3a4df484044e4a7412a2ba824a918ea81ac5919cdcdea676cc0a5e8636e55
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-10941, N-10942
@@ -588,7 +588,7 @@ Investigative Direction: Obtain official DoD documentation confirming Fort Huach
 
 ---
 
-**C-4318** "Mitch" Subject to ~35-Year Gag Order Related to 1990 JTF6 Drug Tunnel Discovery
+**C-4318** Host and "Mitch" Say He Was Under a ~35-Year Gag Order After a JTF6 Drug Tunnel Discovery
 
 Claim Timestamp: 00:26:10–00:37:00
 
@@ -602,7 +602,7 @@ Investigative Direction: Review any court filings or legal correspondence refere
 
 ---
 
-**C-4316** "Mitch" Physically Present at Fort Huachuca on September 8–9, 2025
+**C-4316** Host Says Metadata Confirms "Mitch" Was at Fort Huachuca on September 8–9, 2025
 
 Claim Timestamp: 00:19:30
 
@@ -677,7 +677,7 @@ Investigative Direction: Cross-check Congressman Amodei's official schedule and 
 
 ---
 
-**C-4306** Fort Huachuca Class Taught by Bruce Bevins on Infiltrating Christian Organizations via Covert Psychological Operations
+**C-4306** Viewer Email Says a Soldier Described a Fort Huachuca Class on Infiltrating Christian Organizations
 
 Claim Timestamp: 00:14:48–00:17:53
 
@@ -798,7 +798,7 @@ Investigative Direction: Review the Utah charging documents and any public filin
 
 ---
 
-**C-4280** Surgeon never confirmed a .30-06 or a steel neck
+**C-4280** Host Says Surgeon Never Confirmed a .30-06 or a Steel Neck
 
 Claim Timestamp: 00:04:13
 
@@ -813,7 +813,7 @@ Investigative Direction: Obtain the surgeon's own public statements or interview
 
 ---
 
-**C-4281** Lone rooftop eyewitness not contacted by lawyers or investigators
+**C-4281** Host Says Lone Rooftop Eyewitness Not Contacted by Lawyers or Investigators
 
 Claim Timestamp: 00:04:13
 
@@ -843,7 +843,7 @@ Investigative Direction: Interview the witness on the record, confirm his instru
 
 ---
 
-**C-4283** Rooftop figure wore black tactical gear and a face mask and looked professional
+**C-4283** Host Says Rooftop Eyewitness Described Black Tactical Gear, a Face Mask, and a Professional Look
 
 Claim Timestamp: 00:05:09
 
@@ -858,7 +858,7 @@ Investigative Direction: Compare the eyewitness's description with the clothing 
 
 ---
 
-**C-4284** Bomb dogs were unable to find the weapon in the field where it was found
+**C-4284** Host Says Bomb Dogs Were Unable to Find the Weapon in the Field Where It Was Found
 
 Claim Timestamp: 00:05:09
 
@@ -873,7 +873,7 @@ Investigative Direction: Obtain K-9 deployment logs and incident reports for the
 
 ---
 
-**C-4285** Federal agents directed local officers to the weapon
+**C-4285** Host Says Federal Agents Directed Local Officers to the Weapon
 
 Claim Timestamp: 00:05:09
 
@@ -888,7 +888,7 @@ Investigative Direction: Request the recovery report, officer statements and evi
 
 ---
 
-**C-4286** Dogs were not given the weapon's scent to trace it back to the roof
+**C-4286** Host Says Dogs Were Not Given the Weapon's Scent to Trace It Back to the Roof
 
 Claim Timestamp: 00:05:09
 
@@ -903,7 +903,7 @@ Investigative Direction: Ask the investigating agencies whether any scent-trail 
 
 ---
 
-**C-4287** Terryl Farnsworth raced to remove the camera behind Charlie's head
+**C-4287** Host Says Terryl Farnsworth Raced to Remove the Camera Behind Charlie's Head
 
 Claim Timestamp: 00:05:57
 
@@ -934,7 +934,7 @@ Investigative Direction: Obtain the camera's retained footage and compare it wit
 
 ---
 
-**C-4289** Federal agents prevented the surgeon from returning to the operating room
+**C-4289** Host Says Federal Agents Prevented the Surgeon From Returning to the Operating Room
 
 Claim Timestamp: 00:06:40
 
@@ -949,7 +949,7 @@ Investigative Direction: Identify the surgeon and hospital staff who could confi
 
 ---
 
-**C-4290** Federal agents removed the hospital surveillance footage
+**C-4290** Host Says Federal Agents Removed the Hospital Surveillance Footage
 
 Claim Timestamp: 00:07:19
 
@@ -964,7 +964,7 @@ Investigative Direction: Request the hospital's records of any footage seizure o
 
 ---
 
-**C-4291** Vehicle that took Charlie to the hospital was not impounded
+**C-4291** Host Says Vehicle That Took Charlie to the Hospital Was Not Impounded
 
 Claim Timestamp: 00:07:19
 
@@ -995,7 +995,7 @@ Investigative Direction: Obtain the latent-print and DNA reports filed by the Ut
 
 ---
 
-**C-4293** Footage of Tyler Robinson turning himself in is apparently missing
+**C-4293** Host Says Footage of Tyler Robinson Turning Himself In Is Apparently Missing
 
 Claim Timestamp: 00:08:04
 
@@ -1085,7 +1085,7 @@ Investigative Direction: List the specific Calvary Chapel pastors the host has n
 
 ---
 
-**C-4299** Rob McCoy interview with a man who went to prison and was given access to children
+**C-4299** Host Says Rob McCoy Interviewed a Man Who Apparently Went to Prison and Was Given Access to Children
 
 Claim Timestamp: 00:10:03
 
@@ -1397,6 +1397,7 @@ Transcript Snippet: they destroyed every layer of your life fed your name to the
 Anchored Artifacts: A-1558.3
 Mentions: N-361, N-3
 Related Nodes: N-10942
+Tags: relevance:tangential
 Investigative Direction: Obtain the court filings, name-change records and the government's response to Mitch's complaints.
 
 ---
@@ -1461,7 +1462,7 @@ Investigative Direction: Obtain the case captions and docket numbers from the ho
 
 ---
 
-**C-4329** Mitch went to Fort Huachuca to get the original records and learn why the FBI was not updated on his status
+**C-4329** Mitch Says He Went to Fort Huachuca to Get the Original Records and Learn Why the FBI Was Not Updated
 
 Claim Timestamp: 00:35:09
 

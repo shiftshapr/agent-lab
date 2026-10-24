@@ -1657,7 +1657,7 @@
       "@type": "Claim",
       "@id": "C-11273",
       "ref": "C-11273",
-      "label": "November 15, 2023 Charlie Kirk / Candace Owens Text Thread Documents Daily Wire Pressure Campaign",
+      "label": "Host Says November 15, 2023 Kirk–Owens Text Thread Reflects a Daily Wire Pressure Campaign",
       "claim": "Introducing a snippet of a November 15, 2023 text thread between Charlie Kirk and Candace Owens, dated when Ben Shapiro began his attacks on her, the host says there was a coordinated effort from inside the Daily Wire after October 7 to privately pressure and smear anyone not repeating the narrative on Israel, beginning the Christ is King scandal.",
       "anchored_artifacts": [
         "A-2180.1"
@@ -3515,7 +3515,8 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:32:08",
       "investigative_direction": "Ask Tracy Martin for her account; no recording is stated to exist.",

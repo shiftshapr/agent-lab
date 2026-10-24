@@ -2146,7 +2146,7 @@
       "@type": "Claim",
       "@id": "C-6604",
       "ref": "C-6604",
-      "label": "Erika and Jillian First Connected Through a Rent-Payment Encounter",
+      "label": "Host Says, per Jillian, Erika and Jillian First Connected Through a Rent-Payment Encounter",
       "claim": "The host says, relaying what Jillian Falcon told her, that Jillian met Erika Kirk at a door over a payment for rent, and that the two somehow exchanged numbers during that rent arrangement, though Jillian does not recall how.",
       "anchored_artifacts": [
         "A-1780.1"
@@ -2410,7 +2410,7 @@
       "@type": "Claim",
       "@id": "C-6656",
       "ref": "C-6656",
-      "label": "Among ~40 DOJ file mentions of \"color of the day,\" the file for the day of Charlie Kirk's assassination is the only one with the color redacted",
+      "label": "TikTok source says only the DOJ \"color of the day\" file for Kirk's assassination day has the color redacted",
       "claim": "Episode presents that, per a TikTok source, the speaker located ~40 DOJ file results containing the phrase \"color of the day,\" and the file corresponding to the day of Charlie Kirk's assassination was the only one in which the color itself was redacted.",
       "anchored_artifacts": [
         "A-1786.1"
@@ -2452,7 +2452,7 @@
       "@type": "Claim",
       "@id": "C-6668",
       "ref": "C-6668",
-      "label": "Mikey McCoy was already occupying Charlie Kirk's home studio in the days and weeks after the assassination",
+      "label": "Episode presents Mikey McCoy as using Charlie Kirk's home studio after the assassination",
       "claim": "Episode presents that Mikey McCoy was using Charlie Kirk's home studio post-assassination, with evidence drawn from his Real America's Voice interview on 2025-11-08 and his Fox News/Martha MacCallum interview on 2025-09-22.",
       "anchored_artifacts": [
         "A-1788.1",
@@ -3228,7 +3228,8 @@
         "N-10452"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:19:03",
       "investigative_direction": "Locate Tracy Martin's role in Dream City Church or Phoenix Dream Center in program records or filings.",

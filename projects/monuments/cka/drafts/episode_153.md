@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:05:36
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 255df2ef72af812fba530a694f3369c63ecb1dc93d6c3d5d64b7ca555bbad9c1
+- **Transcript SHA-256**: 42f38162ca43096f27854a76c3969d8596fa40a192a73b0a80717b8f354e137c
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-945, N-946, N-947, N-11326, N-11327
@@ -1006,7 +1006,6 @@ Claim Timestamp: 00:33:33
 Claim: The notice of claim concludes that "the UVU party's omissions, actions and misconduct led to Mr. Kirk's death" and asserts both a state-created danger claim under the U.S. Constitution's due process clause and a traditional wrongful death claim under Utah law.
 Anchored Artifacts: A-2384.1
 Mentions: N-1
-Contradicts: C-13293
 Related Nodes: N-10756
 Investigative Direction: Track subsequent civil complaint filings with the Utah Attorney General's office.
 
@@ -1653,7 +1652,6 @@ Anchored Artifacts:
 Mentions: N-3, N-506, N-271, N-270
 Related Nodes: N-10590
 Supports: C-13235, C-13095
-Contradicts: C-13240
 Tags: relevance:core
 Investigative Direction: Obtain UVU PD assignment logs for Bagley on September 10.
 Open Questions: Q-1206
@@ -1671,7 +1669,6 @@ Transcript Snippet: And additionally, members of Charlie's security team were al
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-270
 Related Nodes: N-10590
-Contradicts: C-13240
 Tags: relevance:core
 Investigative Direction: Obtain roof access logs and names of the security members on the roof.
 Open Questions: Q-1206
@@ -1723,6 +1720,8 @@ Transcript Snippet: Chief Long's text message did not invite or even allow Turni
 Anchored Artifacts: A-2384.1
 Mentions: N-3, N-271
 Related Nodes: N-10590, N-10758
+Qualifies: C-13236
+Contradicts: C-13237
 Tags: relevance:context
 Investigative Direction: Read page six of the filed notice and compare with the roof access actually given to TPUSA security.
 

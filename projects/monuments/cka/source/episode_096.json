@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:21:28",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf",
+    "- **Transcript SHA-256**: ffb365e17a2214a74de551976fbef66bc8a7ad149a9b25b20c955c1211f92875",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-812, N-813",
@@ -3976,8 +3976,8 @@
   {
    "kind": "claim",
    "id": "C-8601",
-   "header": "**C-8601** Andrew Kolvet presented a text message screenshot",
-   "label": "Andrew Kolvet presented a text message screenshot",
+   "header": "**C-8601** Host Says Andrew Kolvet Presented a Text Message Screenshot",
+   "label": "Host Says Andrew Kolvet Presented a Text Message Screenshot",
    "lines": [
     {
      "raw": ""
@@ -4148,8 +4148,8 @@
   {
    "kind": "claim",
    "id": "C-8621",
-   "header": "**C-8621** Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points",
-   "label": "Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points",
+   "header": "**C-8621** Laura Loomer Asked Whether SPLC Paid Candace $500K to Plagiarize David Duke",
+   "label": "Laura Loomer Asked Whether SPLC Paid Candace $500K to Plagiarize David Duke",
    "lines": [
     {
      "raw": ""
@@ -4188,8 +4188,8 @@
   {
    "kind": "claim",
    "id": "C-8624",
-   "header": "**C-8624** Laura Loomer claimed Candace was at anti-Trump summit in Rome",
-   "label": "Laura Loomer claimed Candace was at anti-Trump summit in Rome",
+   "header": "**C-8624** Laura Loomer Asked Whether Candace Was at a Secret Anti-Trump Summit in Rome",
+   "label": "Laura Loomer Asked Whether Candace Was at a Secret Anti-Trump Summit in Rome",
    "lines": [
     {
      "raw": ""
@@ -4308,8 +4308,8 @@
   {
    "kind": "claim",
    "id": "C-8554",
-   "header": "**C-8554** Candace was sick in 2016 from toxic mold exposure in her apartment",
-   "label": "Candace was sick in 2016 from toxic mold exposure in her apartment",
+   "header": "**C-8554** Candace Says She Was Sick in 2016 From Toxic Mold Exposure in Her Apartment",
+   "label": "Candace Says She Was Sick in 2016 From Toxic Mold Exposure in Her Apartment",
    "lines": [
     {
      "raw": ""
@@ -5665,7 +5665,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6632,10 +6632,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10587"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-8596"
     },
     {
      "k": "Tags",
@@ -8193,7 +8189,7 @@
      "v": "N-550, N-201, N-372, N-3"
     },
     {
-     "k": "Contradicts",
+     "k": "Qualifies",
      "v": "C-8624"
     },
     {
@@ -8442,14 +8438,6 @@
     {
      "k": "Tags",
      "v": "relevance:context"
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-9153"
     },
     {
      "k": "Investigative Direction",

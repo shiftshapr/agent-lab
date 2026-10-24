@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:01:56
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd
+- **Transcript SHA-256**: 782e131aa6f15350a9ec49ebccd18f210bfb4cf4b9c7d643b59640512312254b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-887, N-888, N-889, N-11213, N-11214
@@ -1064,7 +1064,7 @@ Investigative Direction: Confirm via TPUSA event listing, UGA/Akins Ford Arena b
 
 ---
 
-**C-8206** UGA TPUSA Staff Uninformed of Erika's Absence
+**C-8206** Host Says UGA TPUSA Staff Had Not Been Told of Erika's Absence
 
 Claim Timestamp: 00:02:28
 
@@ -1087,7 +1087,6 @@ Claim: In a clip the host plays, Andrew Kolvet announces on stage at the UGA eve
 
 Anchored Artifacts: A-1966.1
 Mentions: N-2, N-14
-Contradicts: C-8289
 
 Related Nodes: N-10554, N-10559
 
@@ -1097,7 +1096,7 @@ Investigative Direction: Obtain audio/video of the announcement; verify whether 
 
 ---
 
-**C-8213** TPUSA Security Team Declined to Guarantee Erika's Safety
+**C-8213** Kolvet Says TPUSA Security Team Declined to Guarantee Erika's Safety
 
 Claim Timestamp: 00:07:17
 
@@ -1114,7 +1113,7 @@ Investigative Direction: Obtain the full Fox News segment; identify which TPUSA 
 
 ---
 
-**C-8246** Kolvet Retroactively Reclassified High School Cancellation as Security-Driven
+**C-8246** Kolvet Says High School Event Was Also Cancelled Over Online Chatter
 
 Claim Timestamp: 00:31:13
 
@@ -1152,7 +1151,6 @@ Claim: Erika Kirk posted on X that she cancelled because she "takes [her] securi
 
 Anchored Artifacts: A-1970.1
 Mentions: N-2
-Contradicts: C-8289
 
 Related Nodes: N-10554, N-10558
 
@@ -1222,7 +1220,7 @@ Investigative Direction: Obtain original email to determine whether "September" 
 
 ---
 
-**C-8221** Akins Ford Arena Less Than 25% Filled for VP Event
+**C-8221** Reporter Says Akins Ford Arena Was Less Than 25% Filled for VP Event
 
 Claim Timestamp: 00:13:42
 
@@ -1327,7 +1325,7 @@ Investigative Direction: Obtain full webpage capture; identify the firm and conf
 
 ---
 
-**C-8211** Erika Kirk's Public Stance Reversed from Fearlessness to Security-Based Cancellation
+**C-8211** Host Asks What Changed After Erika Kirk Said She Was Not Afraid, Then Cancelled Over Security
 
 Claim Timestamp: 00:06:30
 
@@ -1353,11 +1351,12 @@ Mentions: N-14, N-424
 
 Related Nodes: N-10556
 
+Tags: relevance:tangential
 Investigative Direction: Identify at least one named corroborating source; cross-reference LinkedIn history (A-1976.1) for prior Poland-based employment.
 
 ---
 
-**C-8247** TPUSA Public Explanation Sequence Internally Inconsistent
+**C-8247** Host Says TPUSA's Public Explanation Sequence Kept Changing
 
 Claim Timestamp: 00:31:13
 
@@ -1917,7 +1916,7 @@ Transcript Snippet: very public back forth that went on where she was accusing h
 Anchored Artifacts: 
 Mentions: N-341, N-3
 Related Nodes: N-10551
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the daughter's original public statements and the retraction.
 
 ---
@@ -2048,7 +2047,7 @@ Anchored Artifacts: A-1980.1
 Mentions: N-424, N-3
 Related Nodes: N-10556
 Supports: C-8261
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the brother and obtain a first-hand account of what Wada said to colleagues.
 
 ---
@@ -2290,7 +2289,7 @@ Anchored Artifacts: A-3132.1
 Mentions: N-424, N-3
 Related Nodes: N-10556
 Supports: C-8261
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Seek independent corroboration of Wada's testimony about arms trafficking in Poland.
 Open Questions: Q-803
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 95f8b851983eeb6236c86655647510896988e621e75778a3c5ea5286c4493c32
+- **Transcript SHA-256**: b1eda451402b2a7a29f8da245b73cb7160cdd14ebc9de423cfb6c3af8f0474c6
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep068): 
@@ -762,7 +762,7 @@ Existing topic reused for the cease-and-desist claim.
 
 ## V. Claim Register
 
-**C-6103** Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day
+**C-6103** Host Says Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day
 Claim Timestamp: 00:23:15
 Claim: The host says Erika Kirk had not posted anything about her mother on Instagram since April 2022 (a post the host believes was for Mother's Day) until the Sept 7, 2025 post.
 Anchored Artifacts: A-1727.1
@@ -772,7 +772,7 @@ Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 
 ---
 
-**C-6105** Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown
+**C-6105** Host Says Sept 7, 2025 Erika Kirk Post Showed Mother Appearing Vulnerable With Countdown
 Claim Timestamp: 00:24:00
 Claim: The host says that on Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading "10 days until September 16th."
 Anchored Artifacts: A-1727.2
@@ -876,7 +876,7 @@ Investigative Direction: Obtain call log records or corroborating witness / phon
 
 ---
 
-**C-6112** Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick
+**C-6112** Host Says Justin Streiff Texted Her That Erika's Mother Was Very Sick
 Claim Timestamp: 00:26:30
 Claim: The host says Justin Streiff told her in text messages that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.
 Anchored Artifacts: A-1735.1
@@ -891,11 +891,12 @@ Claim Timestamp: 00:47:06
 Claim: A viewer comment the host reads says Jill Biden's ex-husband, whom it names as Bill Richardson, was indicted for first-degree murder of his ex-wife; the host, reading an article, corrects the name to William Stevenson, 77, of Wilmington, married to Jill Biden 1970 to 1975, and says the woman was found unresponsive in the living room and life-saving measures were unsuccessful.
 Anchored Artifacts: A-1736.1
 Mentions: N-539, N-543
+Tags: relevance:tangential
 Investigative Direction: Verify via Delaware court records and contemporaneous news coverage.
 
 ---
 
-**C-6138** Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia
+**C-6138** Host Says Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia
 Claim Timestamp: 00:44:50
 Claim: The host says Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.
 Anchored Artifacts: A-1737.1
@@ -1542,7 +1543,7 @@ Investigative Direction: View the All Access video segment.
 
 ---
 
-**C-6134** Shapiro clip says Candace told Bassem Youssef about his childhood
+**C-6134** Shapiro clip says Candace told Bassem Youssef she thinks something bad happened in his childhood
 
 Claim Timestamp: 00:40:16
 

@@ -1423,7 +1423,7 @@
       "@type": "Claim",
       "@id": "C-5431",
       "ref": "C-5431",
-      "label": "TPUSA cease and desist letter sent approximately January 19–20, 2026",
+      "label": "Host Says She Received a TPUSA Cease and Desist Letter Around January 20, 2026",
       "claim": "The host says she received a cease and desist letter from Turning Point USA, her first legal letter of 2026, when it was 20 days into January.",
       "anchored_artifacts": [
         "A-1661.1"
@@ -2311,10 +2311,8 @@
         "N-1",
         "N-237"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-5455"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-171"
       ]

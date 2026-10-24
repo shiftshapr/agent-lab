@@ -11,7 +11,7 @@
 - **Video Timestamp Range**: 00:00:00–00:23:48
 - **Extraction Timestamp (UTC)**: 2026-09-23T18:42:21Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356
+- **Transcript SHA-256**: 61ad7d71c1084e8e89cc6a9f701146f3016371aa3fb523dbb3022c6b732e9315
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-929, N-11280, N-11281
@@ -470,7 +470,7 @@ Investigative Direction: Verify the Yeezys gift claim against Kanye West's publi
 
 ---
 
-**C-28** Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane
+**C-28** Host says Charlie and Candace drove 8 hours to DC during a hurricane, she thinks from NC or SC
 
 Claim Timestamp: 00:12:40
 Claim: The host says that when flights were cancelled during a hurricane, she and Charlie Kirk rented a car and drove 8 hours to reach DC by morning, and that she thinks it was in North or South Carolina.
@@ -511,7 +511,7 @@ Investigative Direction: Corroborate via TPUSA staff schedules or published Fox 
 Tags: open_source_investigation
 ---
 
-**C-37** Charlie was egged by Antifa at a Philadelphia restaurant
+**C-37** Host says Charlie was egged by Antifa at a Philadelphia restaurant
 
 Claim Timestamp: 00:15:20
 Claim: The host says she and Charlie Kirk were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, and she then plays a video clip of the moment.
@@ -578,7 +578,7 @@ Investigative Direction: Cross-reference any other contemporaneous accounts of t
 Tags: open_source_investigation
 ---
 
-**C-18** Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate
+**C-18** Host says Don Jr. and, she thinks, Eric Trump gave Charlie Kirk a suit-fitting gift certificate
 
 Claim Timestamp: 00:08:10
 Claim: The host recounts that Don Jr., and she thinks Eric Trump, teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.

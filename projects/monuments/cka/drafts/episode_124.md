@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:23:19
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 448a8189da2e8602111e8248d8480ad1e223b659b46e8eae9f2d0987ad1dd63b
+- **Transcript SHA-256**: 0e1db4762b14d57daa4ec94d621923e32ba14702a904e57cf694e1122770ad0e
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-773, N-774, N-11054
@@ -1127,7 +1127,7 @@ Investigative Direction: Compare pre-hearing narrative claims against actual pre
 
 ---
 
-**C-10620** Lance Twiggs identified Tyler Robinson only by generic clothing items
+**C-10620** Lance Twiggs Testified Person Looked Like Robinson Based on Shoes, Sunglasses, Jeans and Hat
 
 Claim Timestamp: 00:17:15
 
@@ -1161,7 +1161,7 @@ Investigative Direction: Compare Lance's testimony against text messages introdu
 
 ---
 
-**C-10623** Miss Noble reported seeing a bald man with three others driving the gray Challenger
+**C-10623** Host Says Miss Noble Reported Seeing a Bald Man With Three Others Driving the Gray Challenger
 
 Claim Timestamp: 00:20:59
 
@@ -1188,8 +1188,6 @@ Mentions: N-40
 
 Related Nodes: N-10645
 
-Verification: revised-by-host
-Verification Evidence: C-13461
 Investigative Direction: Obtain vehicle registration and VIN data for Tyler Robinson's Challenger to verify exhaust configuration.
 
 ---
@@ -1322,7 +1320,7 @@ Investigative Direction: Compare Johnson's claim against Court TV leaked footage
 
 ---
 
-**C-10667** Ben Shapiro's security received live updates during Charlie's transport
+**C-10667** Ben Shapiro Says His Security Received Live Updates During Charlie's Transport
 
 Claim Timestamp: 01:01:37
 
@@ -1462,7 +1460,7 @@ Transcript Snippet: in a burning rage over LGBTQ rights, particularly trans righ
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-54, N-1
 Related Nodes: 
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Compare the motive narrative against the indictment, the charging documents and Lance Twiggs's hearing testimony on politics.
 Open Questions: Q-183
 
@@ -1616,7 +1614,7 @@ Transcript Snippet: I also have suggested heavily from the beginning that Lance 
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-40
 Related Nodes: N-10545, N-10639
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Look for court filings or records on any agreement with Lance Twiggs and on the alleged dark web activity; no document has been shown on air.
 Open Questions: Q-174, Q-822
 

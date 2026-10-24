@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:02:01
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268
+- **Transcript SHA-256**: 332dd0815255016b13b0be7c7c733b05bd77a8e2a237f0aca56e7511264bd8b4
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-875, N-11193, N-11194, N-11195, N-11196
@@ -1239,7 +1239,7 @@ Investigative Direction: Locate original article; obtain official command-change
 
 ---
 
-**C-3365** French Street Name Dates From 1790s Refugee Settlement
+**C-3365** Source Email Says French Street Name Dates From 1790s Refugee Settlement
 
 Claim Timestamp: 00:25:55
 
@@ -1251,7 +1251,7 @@ Investigative Direction: Verify via Wilmington city historical archives; corrobo
 
 ---
 
-**C-3360** Three federal agencies operate at 920 North King Street, Wilmington
+**C-3360** Host Says Three Federal Agencies Operate at 920 North King Street, Wilmington
 
 Claim Timestamp: 00:24:24
 
@@ -1263,7 +1263,7 @@ Investigative Direction: Identify the specific federal agencies at 920 North Kin
 
 ---
 
-**C-3366** Bank of America vacated Bracebridge Complex in 2018
+**C-3366** Source Email Says Bank of America Vacated Bracebridge Complex in 2018
 
 Claim Timestamp: 00:28:30
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Verify Longwood Foundation founding date and founder vi
 
 ---
 
-**C-3368** 2024 legislation provided support to Longwood Foundation
+**C-3368** Source Email Says 2024 Legislation Provided Support to Longwood Foundation
 
 Claim Timestamp: 00:29:23
 
@@ -1301,7 +1301,7 @@ Investigative Direction: Identify the specific Delaware legislation; obtain bill
 
 ---
 
-**C-3376** Hervé Hoppenot served as long-time CEO of Incyte
+**C-3376** Source Email Says Hervé Hoppenot Served as Long-Time CEO of Incyte
 
 Claim Timestamp: 00:33:11
 
@@ -1327,7 +1327,7 @@ Investigative Direction: Verify Wilmington Trust founding date and founder via c
 
 ---
 
-**C-3374** FBI presence at 500 North Delaware Avenue
+**C-3374** Source Email Says FBI Apparently Has a Suite at 500 North Delaware Avenue
 
 Claim Timestamp: 00:32:37
 
@@ -1360,7 +1360,6 @@ Claim: The host says she believes Brigitte Macron opened Paris Design Week on Se
 Anchored Artifacts: A-1475.1
 Mentions: N-82
 Related Nodes: N-10276
-Revises: C-3195
 Investigative Direction: Verify via Paris Design Week official programming and French Ministry of Culture announcements.
 
 ---

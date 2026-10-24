@@ -1686,7 +1686,7 @@
       "@type": "Claim",
       "@id": "C-790",
       "ref": "C-790",
-      "label": "Existence of 80-page Crooks online-history document",
+      "label": "Host says she has an 80-page Crooks online-history document",
       "claim": "The host says she has an 80-page document, scraped before the feds removed it, of all the accounts Thomas Crooks made and the statements he made, which she may post on her website after handing it to legal.",
       "anchored_artifacts": [
         "A-1156.1"
@@ -1912,7 +1912,7 @@
       "@type": "Claim",
       "@id": "C-743",
       "ref": "C-743",
-      "label": "FBI pressuring Utah to close Kirk case",
+      "label": "Host's source says FBI is pressuring Utah to close Kirk case",
       "claim": "Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1935,7 +1935,7 @@
       "@type": "Claim",
       "@id": "C-745",
       "ref": "C-745",
-      "label": "No video shows Tyler Robinson firing weapon",
+      "label": "Host asserts no video shows Tyler Robinson firing weapon",
       "claim": "Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1957,7 +1957,7 @@
       "@type": "Claim",
       "@id": "C-751",
       "ref": "C-751",
-      "label": "Bullet too fragmented to match Tyler's rifle",
+      "label": "Host's source says bullet too fragmented to match Tyler's rifle",
       "claim": "Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1980,7 +1980,7 @@
       "@type": "Claim",
       "@id": "C-749",
       "ref": "C-749",
-      "label": "FBI lacks footage of rifle reaching the roof",
+      "label": "Host's source says FBI lacks footage of rifle reaching the roof",
       "claim": "Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2003,7 +2003,7 @@
       "@type": "Claim",
       "@id": "C-756",
       "ref": "C-756",
-      "label": "Multiple sets of prints on Robinson rifle",
+      "label": "Host's source says multiple sets of prints on Robinson rifle",
       "claim": "Host's source says prints other than Tyler Robinson's were also on the rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
