@@ -18,6 +18,11 @@ verification record cites a `CC-` claim.
 **Pilot (2026-10-23).** It covers 37 videos (about 49 hours): 11 from the Charlie Kirk Show (Andrew Kolvet,
 Blake Neff), 12 with Erika Kirk, 9 with Brian Harpole and Frank Turek, and 5 from Baron Coleman.
 
+**Additions.**
+- 2026-10-24: Baron Coleman Ep 187–189 (K-038..K-040), approved from the commentator-channel monitor
+  (`audits/commentators_2026-10-24/`). That brings the series to 40 videos, 2,249 claims and 571 links.
+- `scripts/commentary/render.py` re-renders `claims.md`.
+
 **Method.** The method and prompts are in `audits/commentators_2026-10-23/`.
 
 **Scope limits.** Baron Coleman episodes are covered in full for the first half only. From the superchat half, only

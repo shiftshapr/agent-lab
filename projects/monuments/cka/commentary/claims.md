@@ -1,16 +1,13 @@
-# Commentator claims: pilot (ROADMAP 4.1b, 2026-10-23)
+# Commentator claims (ROADMAP 4.1b)
 
-**2039 claims** from 37 videos (49 hours) by commentators on the Charlie Kirk case, with **524 links** to Candace Owens' archived claims: 143 contradict hers, 344 support, 37 qualify. 377 claims have at least one link.
+**2249 claims** from 40 videos (59 hours) by commentators on the Charlie Kirk case, with **571 links** to Candace Owens' archived claims: 144 contradict hers, 385 support, 42 qualify.
 
-- Claims are recorded **as said**, with a timestamped YouTube link and a verbatim snippet. They are never evidence: a link records that two speakers agree or disagree, not who is right.
-- Links were proposed by 27 reviewers and checked by 12 strict reviewers (664 proposed, 140 rejected: mostly host claims that only replay the same commentator or a guest's words, and loose topic matches).
-- Baron Coleman: first half of each episode in full; from the superchat half only his own new case claims.
-- Two re-uploaded segments were de-duplicated (45 claims). Relevance tags: core / context / tangential. ↩ marks a claim the speaker addresses to Owens.
-
-**Most claims by speaker:** Baron Coleman 456, Frank Turek 341, Erika Kirk 315, Brian Harpole 234, Blake Neff 160, Andrew Kolvet 156, Candace Owens 54, Gary Melton 45, Jeremy Boreing 43, Brandon Tatum 32
+- Claims are recorded **as said**, with a timestamped YouTube link and a verbatim snippet. They are never evidence: a link records that two speakers agree or disagree, not who is right (POLICY 11).
+- Relevance tags: core / context / tangential. ↩ marks a claim the speaker addresses to Owens.
+- Method and audits: `audits/commentators_2026-10-23/` (pilot) and later `audits/commentators_*` folders.
 
 ## Contents
-- **Charlie Kirk Show (Andrew Kolvet, Blake Neff)**
+- **Charlie Kirk Show**
   - [K-001](#k-001) 2025-09-11 · “Charlie Died a Martyr”: Blake Neff’s Firsthand Account from Salt Lake City · 15 claims, 2 links
   - [K-005](#k-005) 2025-10-07 · The Leaked Text Messages. · 28 claims, 10 links
   - [K-006](#k-006) 2025-10-27 · Setting the Record Straight: The Viral “Mikey” Video, What Really Happened · 19 claims, 9 links
@@ -51,11 +48,14 @@
   - [K-021](#k-021) 2025-12-29 · Candace Owens Vindicated; Mitch Snow Confirmed at Ft Huachuca on Sept 9; Why the · 94 claims, 23 links
   - [K-029](#k-029) 2026-08-17 · Candace Owens v. Smoke Boy; After Action Report  of Most Expensive Debate in His · 109 claims, 30 links
   - [K-034](#k-034) 2026-09-21 · Charlie Kirk's Autopsy, Egyptian Planes & Erika Kirk's Darkest Secret | Baron Co · 97 claims, 45 links
+  - [K-038](#k-038) 2026-10-12 · DEEP Undercover in Clipping Campaigns - Ep 187 · 82 claims, 14 links
+  - [K-039](#k-039) 2026-10-19 · HIDDEN Police Searches Revealed!  Whose Vehicles Were Those? - Ep 188 · 76 claims, 21 links
+  - [K-040](#k-040) 2026-10-20 · Wading Into the Fire of Leah Files and Shawn Ryan; Evidence of Tyler Robinson Ac · 52 claims, 12 links
 
-# Charlie Kirk Show (Andrew Kolvet, Blake Neff)
+# Charlie Kirk Show
 
 ## K-001
-**[“Charlie Died a Martyr”: Blake Neff’s Firsthand Account from Salt Lake City](https://www.youtube.com/watch?v=UfLVg59DA6c)** · Real America's Voice · 2025-09-11 · 11 min
+**[“Charlie Died a Martyr”: Blake Neff’s Firsthand Account from Salt Lake City](https://www.youtube.com/watch?v=UfLVg59DA6c)** · Real America's Voice · 2025-09-11 · 11 min · scope: full video
 
 - **CC-1** [00:02:52](https://www.youtube.com/watch?v=UfLVg59DA6c&t=172s) · core · **Blake Neff**: Blake Neff says that after the shooting he talked to other members of the team and several of them said they had experienced some sort of unsettling feeling beforehand.  
   > "after it happened, I talked to some other members of the team and several of us did say we we experienced some sort of unsettling feeling."
@@ -93,7 +93,7 @@
   > "hey Jack, here's this this fiveh hour course that I'm doing on the book of Genesis. You got to you got to listen to all five hours"
 
 ## K-005
-**[The Leaked Text Messages.](https://www.youtube.com/watch?v=6VzyGCRB4B8)** · Charlie Kirk · 2025-10-07 · 24 min
+**[The Leaked Text Messages.](https://www.youtube.com/watch?v=6VzyGCRB4B8)** · Charlie Kirk · 2025-10-07 · 24 min · scope: full video
 
 - **CC-132** [00:00:05](https://www.youtube.com/watch?v=6VzyGCRB4B8&t=5s) · core ↩ · **Andrew Kolvet**: Andrew Kolvet says the group text chain released by Candace Owens is authentic and was a screen grab he had shared with people.  
   > "a group text chain that has been made known uh and released uh by Candace Owens. And I just want to address it headon because uh you know that was a text grab a screen grab that I had shared"
@@ -173,7 +173,7 @@
   > "There is a suspect. Apparently, they have a real good case. And, you know, I don't know cuz I'm not involved in all those conversations,"
 
 ## K-006
-**[Setting the Record Straight: The Viral “Mikey” Video, What Really Happened](https://www.youtube.com/watch?v=X2h5XbLhDJ0)** · Real America's Voice · 2025-10-27 · 10 min
+**[Setting the Record Straight: The Viral “Mikey” Video, What Really Happened](https://www.youtube.com/watch?v=X2h5XbLhDJ0)** · Real America's Voice · 2025-10-27 · 10 min · scope: full video
 
 - **CC-160** [00:01:30](https://www.youtube.com/watch?v=X2h5XbLhDJ0&t=90s) · core · **Blake Neff**: Blake Neff says a viral video attacks Mikey McCoy, Charlie Kirk's chief of staff, claiming from a few seconds of clips that he allegedly had a nonchalant or calm reaction to Charlie Kirk's murder; Neff says he cannot remember the maker's name.  
   > "They are attacking him claiming, based on a few seconds of clips, that he allegedly has like a nonchalant or calm reaction to Charlie's murder."
@@ -233,7 +233,7 @@
   > "that everyone has to slow up to get through this little narrow choke point to get out of the area."
 
 ## K-011
-**[Addressing the Lies About Charlie Kirk’s Murder | Official TPUSA Response](https://www.youtube.com/watch?v=06piPvy2duc)** · Real America's Voice · 2025-12-03 · 21 min
+**[Addressing the Lies About Charlie Kirk’s Murder | Official TPUSA Response](https://www.youtube.com/watch?v=06piPvy2duc)** · Real America's Voice · 2025-12-03 · 21 min · scope: full video
 
 - **CC-570** [00:00:40](https://www.youtube.com/watch?v=06piPvy2duc&t=40s) · core ↩ · **Blake Neff**: Blake Neff says that since Charlie Kirk's murder Candace Owens has leveled a flood of allegations against people at Turning Point USA, Turning Point Action and people who work for The Charlie Kirk Show, including Charlie's closest friends and most dedicated employees.  
   > "Candace Owens has leveled a flood of allegations against people at Turning Point USA, people at Turning Point Action, and people who work for this show."
@@ -321,7 +321,7 @@
   > "what Charlie had to put up with in private that he never complained about. He never complained about to me certainly, and I was one of his closest associates."
 
 ## K-022
-**[Charlie Kirk’s Legacy & Brutal Honesty on Candace Owens & Tucker | Andrew Kolvet](https://www.youtube.com/watch?v=DO7_eNpBJK8)** · The Rubin Report · 2026-03-17 · 34 min
+**[Charlie Kirk’s Legacy & Brutal Honesty on Candace Owens & Tucker | Andrew Kolvet](https://www.youtube.com/watch?v=DO7_eNpBJK8)** · The Rubin Report · 2026-03-17 · 34 min · scope: full video
 
 - **CC-1123** [00:01:48](https://www.youtube.com/watch?v=DO7_eNpBJK8&t=108s) · context · **Dave Rubin**: Dave Rubin introduces Andrew Kolvet as the executive producer and co-host of the Charlie Kirk Show.  
   > "I'm Dave Rubin and joining me today is the executive producer and co-host of the Charlie Kirk Show, Andrew Colvett."
@@ -401,7 +401,7 @@
   > "We are uh hiring hundreds and hundreds of people at Turning Point Action right now uh to chase ballots in Arizona, and Nevada, and New Hampshire."
 
 ## K-024
-**[Andrew Kolvet Takes a Flame Thrower to Candace’s Evil Lies](https://www.youtube.com/watch?v=NiT8NWoQtO4)** · Charlie Kirk · 2026-05-04 · 10 min
+**[Andrew Kolvet Takes a Flame Thrower to Candace’s Evil Lies](https://www.youtube.com/watch?v=NiT8NWoQtO4)** · Charlie Kirk · 2026-05-04 · 10 min · scope: full video
 
 - **CC-1224** [00:00:38](https://www.youtube.com/watch?v=NiT8NWoQtO4&t=38s) · core ↩ · **Andrew Kolvet**: Andrew Kolvet says Erika Kirk said in a speech she gave on Wednesday that she has been accused by Candace Owens of killing her husband.  
   > "Erica's speech uh that she gave on Wednesday and where she said that she's been accused of killing her husband by Candace Owens."
@@ -435,7 +435,7 @@
   > "I think what Erica is pointing out is when you have people recklessly fanning flames of hate, that is the step towards where people decide actually we're okay with we're okay with dialing back freedom of speech."
 
 ## K-028
-**[KIRK ASSASSINATION DEBATE EXPLODES BETWEEN CANDACE OWENS & ANDREW WILSON | CHARLIE KIRK SHOW](https://www.youtube.com/watch?v=NjH8XaLWr-8)** · Real America's Voice · 2026-08-17 · 120 min
+**[KIRK ASSASSINATION DEBATE EXPLODES BETWEEN CANDACE OWENS & ANDREW WILSON | CHARLIE KIRK SHOW](https://www.youtube.com/watch?v=NjH8XaLWr-8)** · Real America's Voice · 2026-08-17 · 120 min · scope: full video
 
 - **CC-1399** [00:22:25](https://www.youtube.com/watch?v=NjH8XaLWr-8&t=1345s) · context · **Andrew Kolvet**: Andrew Kolvet says the people who have harassed Erika Kirk and Turning Point USA overlap heavily with the people now defending Lindsay Clancy, a mother who killed three of her children, and that the overlap is shocking.  
   > "It is like the ven diagram of people that have harassed Erica and harassed Turning Point to are now defending a mom who murdered three of her kids is shocking."
@@ -525,7 +525,7 @@
   > "No, Tyler Robinson, they're going to convict him, right? They found their psy. They're going to make it work."
 
 ## K-030
-**[Candace Owens Brings "IT" But Refuses to Reveal What "IT" Is](https://www.youtube.com/watch?v=coEx7P7EPNY)** · Charlie Kirk · 2026-08-18 · 26 min
+**[Candace Owens Brings "IT" But Refuses to Reveal What "IT" Is](https://www.youtube.com/watch?v=coEx7P7EPNY)** · Charlie Kirk · 2026-08-18 · 26 min · scope: full video
 
 - **CC-1543** [00:03:55](https://www.youtube.com/watch?v=coEx7P7EPNY&t=235s) · core · **Viva Frei**: Viva Frei says debating whether the evidence against Tyler Robinson is overwhelming is premature because the case is at the preliminary hearing stage, the evidence has not all been produced or tested, and Robinson is innocent unless proven guilty.  
   > "I don't think it's an appropriate discussion to have right now as to the overwhelming nature of the evidence cuz we're at the stage of the preliminary hearings"
@@ -571,7 +571,7 @@
   > "it's remarkable to then tell someone this woman has been talking basically exclusively on this topic for a year."
 
 ## K-031
-**[It's Time: What Candace Owens Told Me 5 Days After Charlie Kirks Murder](https://www.youtube.com/watch?v=S2OLxcMBOSQ)** · Charlie Kirk · 2026-08-20 · 51 min
+**[It's Time: What Candace Owens Told Me 5 Days After Charlie Kirks Murder](https://www.youtube.com/watch?v=S2OLxcMBOSQ)** · Charlie Kirk · 2026-08-20 · 51 min · scope: full video
 
 - **CC-1561** [00:00:58](https://www.youtube.com/watch?v=S2OLxcMBOSQ&t=58s) · core ↩ · **Blake Neff**: Blake Neff says he arrived at Turning Point in late 2022 and moved out in 2023, was with Charlie Kirk for close to three years, and has never met or had a conversation with Candace Owens; he says that speaks to how close she was to Charlie, since he met most of the people Charlie was close with.  
   > "late 22, moved out here in 23, that >> I have never met Candace Owens and don't know her."
@@ -689,7 +689,7 @@
   > "we hire actual full-time employees and now we've launched it in three different states. We're in Arizona, Nevada, Arizon uh uh and New Hampshire."
 
 ## K-032
-**[Charlie Kirk’s Producer Andrew Kolvet Opens Up About Candace Owens & TPUSA](https://www.youtube.com/watch?v=Z-3K79aDvSU)** · Chicks on the Right · 2026-08-22 · 53 min
+**[Charlie Kirk’s Producer Andrew Kolvet Opens Up About Candace Owens & TPUSA](https://www.youtube.com/watch?v=Z-3K79aDvSU)** · Chicks on the Right · 2026-08-22 · 53 min · scope: full video
 
 - **CC-1607** [00:02:05](https://www.youtube.com/watch?v=Z-3K79aDvSU&t=125s) · context · **Andrew Kolvet**: Andrew Kolvet says Turning Point USA runs an organization with 1,200 employees across its different groups and has to plan everything it is doing for 9/10 (the anniversary of Charlie Kirk's assassination).  
   > "running an organization with 1,200 employees across the different groups and we've got to plan uh everything that we're doing for 910"
@@ -813,7 +813,7 @@
   > "I'm stealing that line from Tucker. I saw him backstage and he said he said the Holy Spirit is humming like a tuning fork."
 
 ## K-035
-**[Charlie Kirk's Producer on Candace's Evil Campaign—and How Tucker Enables It | Ep. 61 w/ Blake Neff](https://www.youtube.com/watch?v=mxnJdi7SxBw)** · Jeremy Boreing · 2026-09-22 · 129 min
+**[Charlie Kirk's Producer on Candace's Evil Campaign—and How Tucker Enables It | Ep. 61 w/ Blake Neff](https://www.youtube.com/watch?v=mxnJdi7SxBw)** · Jeremy Boreing · 2026-09-22 · 129 min · scope: full video
 
 - **CC-1833** [00:00:55](https://www.youtube.com/watch?v=mxnJdi7SxBw&t=55s) · core · **Jeremy Boreing**: Jeremy Boreing says Blake Neff was standing 20 feet from Charlie Kirk when Kirk was assassinated at UVU.  
   > "You were standing 20 ft from Charlie Kirk when he was assassinated at UVU."
@@ -1025,7 +1025,7 @@
 # Erika Kirk
 
 ## K-002
-**[FULL: Erika Kirk speaks for the first time since husband Charlie Kirk's assassination](https://www.youtube.com/watch?v=aaxy9qipKJU)** · LiveNOW from FOX · 2025-09-13 · 17 min
+**[FULL: Erika Kirk speaks for the first time since husband Charlie Kirk's assassination](https://www.youtube.com/watch?v=aaxy9qipKJU)** · LiveNOW from FOX · 2025-09-13 · 17 min · scope: full video
 
 - **CC-16** [00:00:08](https://www.youtube.com/watch?v=aaxy9qipKJU&t=8s) · core · **Erika Kirk**: Erika Kirk says local, state and federal law enforcement worked tirelessly to capture her husband's assassin so that he can be brought to justice.  
   > "I first want to thank the local, state, and federal law enforce enforcement who worked tirelessly to capture my husband's assassin so that he can be brought to justice."
@@ -1059,7 +1059,7 @@
   > "who wrote him an email every single day during his radio show. He read all of them. All of them."
 
 ## K-004
-**[Full speech: Erika Kirk speaks at husband Charlie Kirk's memorial](https://www.youtube.com/watch?v=YgbvGlWW3vw)** · USA TODAY · 2025-09-21 · 30 min
+**[Full speech: Erika Kirk speaks at husband Charlie Kirk's memorial](https://www.youtube.com/watch?v=YgbvGlWW3vw)** · USA TODAY · 2025-09-21 · 30 min · scope: full video
 
 - **CC-110** [00:02:25](https://www.youtube.com/watch?v=YgbvGlWW3vw&t=145s) · context · **Erika Kirk**: Erika Kirk says that two years earlier, at AmericaFest 2023, a few miles from the memorial venue, Charlie Kirk gave an unscripted speech at the TPUSA Faith event about his submission to the will of God, and she did not know in advance what he would say.  
   > "Just a few miles from here, two years ago at America Fest 2023, Charlie delivered a speech on stage for our TPUSA faith event."
@@ -1107,7 +1107,7 @@
   > "He was 18 years old, a man barely out of high school, running around the halls of the RNC without a dollar in his pocket and a single contact in his phone."
 
 ## K-007
-**[Erika Kirk's Full Interview With Jesse Watters](https://www.youtube.com/watch?v=jSYZMWXesAw)** · Charlie Kirk · 2025-11-06 · 59 min
+**[Erika Kirk's Full Interview With Jesse Watters](https://www.youtube.com/watch?v=jSYZMWXesAw)** · Charlie Kirk · 2025-11-06 · 59 min · scope: full video
 
 - **CC-179** [00:03:26](https://www.youtube.com/watch?v=jSYZMWXesAw&t=206s) · context · **Jesse Watters**: Jesse Watters says Charlie and Erika Kirk first met through their mutual friend Tyler Bowyer, now COO of Turning Point.  
   > "Charlie and Erica first met through their mutual friend, the now COO of Turning Point, Tyler Ber."
@@ -1229,7 +1229,7 @@
   > "And no one's left. No one's been fired. No, there's been no rivalry. There's been no coup. There's been no internal takeover."
 
 ## K-009
-**[Erika Kirk on Continuing Charlie's Mission, Marriage, and Prayer, Plus Walter Kirn on UFOs and TDS](https://www.youtube.com/watch?v=wuChzINlHk4)** · Megyn Kelly · 2025-11-24 · 119 min
+**[Erika Kirk on Continuing Charlie's Mission, Marriage, and Prayer, Plus Walter Kirn on UFOs and TDS](https://www.youtube.com/watch?v=wuChzINlHk4)** · Megyn Kelly · 2025-11-24 · 119 min · scope: full video
 
 - **CC-387** [00:00:27](https://www.youtube.com/watch?v=wuChzINlHk4&t=27s) · context · **Megyn Kelly**: Megyn Kelly says her tour was announced before Charlie Kirk's death, that he was supposed to join them in Bakersfield, California, and that after he was murdered they debated whether to still go.  
   > "You guys know we announced this tour before Charlie and he was supposed to be with us in Bakersfield, California, and then he was murdered"
@@ -1351,7 +1351,7 @@
   > "Charlie didn't care if you went to college. He actually preferred that you didn't. He'd hire you right out of high school."
 
 ## K-012
-**[Erika Kirk on Why She Forgave Her Husband's Killer | 2025 Dealbook Summit](https://www.youtube.com/watch?v=GPPNy_Zz4KU)** · The New York Times · 2025-12-03 · 40 min
+**[Erika Kirk on Why She Forgave Her Husband's Killer | 2025 Dealbook Summit](https://www.youtube.com/watch?v=GPPNy_Zz4KU)** · The New York Times · 2025-12-03 · 40 min · scope: full video
 
 - **CC-603** [00:01:07](https://www.youtube.com/watch?v=GPPNy_Zz4KU&t=67s) · context · **Andrew Ross Sorkin**: Andrew Ross Sorkin says Charlie Kirk founded Turning Point USA at age 18 and grew it to more than 4,000 chapters across high schools and college campuses.  
   > "At age 18, Charlie founded Turning Point USA, grew the organization to more than 4,000 chapters across high schools and college campuses."
@@ -1429,7 +1429,7 @@
   > "unfortunately, it took him being murdered. But um I'll never forget seeing the photo of Elon and the president shaking hands and Elon them putting on X for Charlie."
 
 ## K-014
-**[Erika Kirk on life without Charlie Kirk | Brian Kilmeade Show](https://www.youtube.com/watch?v=4FM3WQXlR68)** · Fox News · 2025-12-09 · 60 min
+**[Erika Kirk on life without Charlie Kirk | Brian Kilmeade Show](https://www.youtube.com/watch?v=4FM3WQXlR68)** · Fox News · 2025-12-09 · 60 min · scope: full video
 
 - **CC-638** [00:00:02](https://www.youtube.com/watch?v=4FM3WQXlR68&t=2s) · context · **Brian Kilmeade**: Brian Kilmeade introduces Erika Kirk as Turning Point USA CEO and says she wrote the foreword to her husband Charlie Kirk's book 'Stop in the Name of God: Why Honoring the Sabbath Will Transform Your Life'.  
   > "But it's my privilege to bring in Erica Kirk, Turning Point USA CEO. And um uh she wrote the forward to Charlie Kirk, her husband's book"
@@ -1485,7 +1485,7 @@
   > "I I I hope so. There has to be a consequence for people who know. I mean, look at think about it. She says the the entire uh space program is a myth."
 
 ## K-015
-**['EVIL': Erika Kirk pushes back on conspiracies about husband's death](https://www.youtube.com/watch?v=9l3WtWi-2jM)** · Fox News · 2025-12-10 · 6 min
+**['EVIL': Erika Kirk pushes back on conspiracies about husband's death](https://www.youtube.com/watch?v=9l3WtWi-2jM)** · Fox News · 2025-12-10 · 6 min · scope: full video
 
 - **CC-663** [00:00:55](https://www.youtube.com/watch?v=9l3WtWi-2jM&t=55s) · context · **Erika Kirk**: Erika Kirk says Turning Point USA will build a memorial for Charlie Kirk, public for the world to see and basically museum style.  
   > "We will be building the most beautiful memorial for my husband at Turning Point USA. And it will be for the world to see."
@@ -1509,7 +1509,7 @@
   > "if you want to find and pick me apart, go right ahead. I do not care. I don't. This was happening before Charlie was murdered."
 
 ## K-017
-**[Erika Kirk Responds to Online Rumors & Personal Stories of Charlie's Life | NEW INTERVIEW](https://www.youtube.com/watch?v=Z42TZ9-Aqak)** · BlazeTV · 2025-12-12 · 18 min
+**[Erika Kirk Responds to Online Rumors & Personal Stories of Charlie's Life | NEW INTERVIEW](https://www.youtube.com/watch?v=Z42TZ9-Aqak)** · BlazeTV · 2025-12-12 · 18 min · scope: full video
 
 - **CC-785** [00:00:08](https://www.youtube.com/watch?v=Z42TZ9-Aqak&t=8s) · context · **Glenn Beck**: Glenn Beck says the day before the interview was the three-month anniversary of Charlie Kirk's assassination.  
   > "Yesterday was the threemonth uh anniversary of Charlie's assassination. And here's why I had to check. It's only been 3 months."
@@ -1561,7 +1561,7 @@
   > "If we didn't show the behind the scenes of everything that happened and all that stuff, they would have still said, "Why didn't you show behind the scenes?""
 
 ## K-018
-**[Extended: A Town Hall with Erika Kirk](https://www.youtube.com/watch?v=DrxaGpaKMuc)** · CBS News · 2025-12-14 · 66 min
+**[Extended: A Town Hall with Erika Kirk](https://www.youtube.com/watch?v=DrxaGpaKMuc)** · CBS News · 2025-12-14 · 66 min · scope: full video
 
 - **CC-806** [00:02:26](https://www.youtube.com/watch?v=DrxaGpaKMuc&t=146s) · core · **Bari Weiss**: Bari Weiss says that three months earlier Erika Kirk's husband, Charlie Kirk, was assassinated on a college campus in Utah.  
   > "Three months ago, Erica Kirk's husband, Charlie, was assassinated on a college campus in Utah."
@@ -1711,7 +1711,7 @@
   > "I mean, yeah, I competed in a pageant. I honestly did not like the pageant world. I didn't I didn't like the pride that came with that."
 
 ## K-020
-**[Erika Kirk's Full Speech From AMFEST 2025](https://www.youtube.com/watch?v=p-lu3nHENzA)** · Charlie Kirk · 2025-12-27 · 23 min
+**[Erika Kirk's Full Speech From AMFEST 2025](https://www.youtube.com/watch?v=p-lu3nHENzA)** · Charlie Kirk · 2025-12-27 · 23 min · scope: full video
 
 - **CC-1006** [00:00:46](https://www.youtube.com/watch?v=p-lu3nHENzA&t=46s) · context · **Charlie Kirk**: In a clip played before the speech, Charlie Kirk says he wants to make Turning Point so big that it can survive beyond just the founder, since many organizations collapse as soon as a founder leaves.  
   > "let's make turning point so big that it can survive beyond just the founder. A lot of organizations and groups, as soon as a founder leaves, it just kind of collapses."
@@ -1763,7 +1763,7 @@
   > "So, you may not agree with everyone on this stage this weekend, and that's okay. Welcome to America. [cheering] Charlie would have welcomed that."
 
 ## K-026
-**[Erika Kirk's Full Speech at CLS 2026](https://www.youtube.com/watch?v=pM6Nvrj_en4)** · Turning Point USA · 2026-07-12 · 50 min
+**[Erika Kirk's Full Speech at CLS 2026](https://www.youtube.com/watch?v=pM6Nvrj_en4)** · Turning Point USA · 2026-07-12 · 50 min · scope: full video
 
 - **CC-1302** [00:00:45](https://www.youtube.com/watch?v=pM6Nvrj_en4&t=45s) · context · **Erika Kirk**: Erika Kirk says she and her son and daughter have watched Charlie Kirk's speech from this stage last year many times, and that this event (the Chapter Leadership Summit) was the final event on her husband's calendar.  
   > "I can't tell you how many times my son and daughter have watched that speech. This event is the final event that was on my husband's calendar."
@@ -1821,7 +1821,7 @@
   > "That's how we keep Charlie's legacy alive. And that's how we honor Erica, the leader of this organization"
 
 ## K-037
-**[You Think You Know Erika Kirk, But Do You “Know Know” Her?](https://www.youtube.com/watch?v=EazyGp_ciSY)** · Chicks on the Right · 2026-10-22 · 100 min
+**[You Think You Know Erika Kirk, But Do You “Know Know” Her?](https://www.youtube.com/watch?v=EazyGp_ciSY)** · Chicks on the Right · 2026-10-22 · 100 min · scope: full video
 
 - **CC-1996** [00:02:22](https://www.youtube.com/watch?v=EazyGp_ciSY&t=142s) · core · **Erika Kirk**: Erika Kirk says that, contrary to claims that TPUSA is a small office, it has hundreds of employees and six buildings.  
   > "Some people think that what Charlie built was either a flash in the pan or just some small, you know, office with 20 employees. We have hundreds of employees. We have six buildings."
@@ -1927,7 +1927,7 @@
 # Brian Harpole and Frank Turek
 
 ## K-003
-**[The Greatness of Charlie Kirk: An Eyewitness Account of His Life and Martyrdom](https://www.youtube.com/watch?v=rVaxvKtw5NQ)** · Cross Examined · 2025-09-17 · 75 min
+**[The Greatness of Charlie Kirk: An Eyewitness Account of His Life and Martyrdom](https://www.youtube.com/watch?v=rVaxvKtw5NQ)** · Cross Examined · 2025-09-17 · 75 min · scope: full video
 
 - **CC-31** [00:00:03](https://www.youtube.com/watch?v=rVaxvKtw5NQ&t=3s) · core · **Frank Turek**: Frank Turek says he was with Charlie Kirk when Kirk was murdered the previous week.  
   > "Many of you know I was with my dear friend Charlie Kirk when he was murdered last week."
@@ -2125,7 +2125,7 @@
   > "I want to be I want to be remembered for for courage for my faith. That that would be the most important thing."
 
 ## K-008
-**[Brian Harpole - Groundbreaking Evidence From Charlie Kirk’s Head of Security | SRS #254](https://www.youtube.com/watch?v=S0fmq1zffGw)** · Shawn Ryan Show · 2025-11-17 · 168 min
+**[Brian Harpole - Groundbreaking Evidence From Charlie Kirk’s Head of Security | SRS #254](https://www.youtube.com/watch?v=S0fmq1zffGw)** · Shawn Ryan Show · 2025-11-17 · 168 min · scope: full video
 
 - **CC-233** [00:00:10](https://www.youtube.com/watch?v=S0fmq1zffGw&t=10s) · core · **Shawn Ryan**: Shawn Ryan says Brian Harpole was in charge of the security detail and the company when Charlie Kirk was assassinated, two months and one day before the interview.  
   > "so you were in charge of the security detail and the company um, when [gasps] Charlie Kirk was assassinated"
@@ -2521,7 +2521,7 @@
   > "you got this huge power vacuum going on now and I'm sure it's it's it's defecting it."
 
 ## K-010
-**[Brian Harpole Interview: Charlie Kirk - What Really Happened](https://www.youtube.com/watch?v=2whSU4FlzX0)** · Paramount Tactical · 2025-11-26 · 201 min
+**[Brian Harpole Interview: Charlie Kirk - What Really Happened](https://www.youtube.com/watch?v=2whSU4FlzX0)** · Paramount Tactical · 2025-11-26 · 201 min · scope: full video
 
 - **CC-439** [00:10:20](https://www.youtube.com/watch?v=2whSU4FlzX0&t=620s) · core · **Gary Melton**: Gary Melton says the claim that the event was advertised only two days before (September 9), so only an insider could plan it, is false: TPUSA announced the event on August 27 and on that day or shortly after announced it would be held in the UVU courtyard.  
   > "the truth is TPUSA announced this event on August 27th and on that day or shortly thereafter um it was announced it was going to be held in the UVU courtyard"
@@ -2859,7 +2859,7 @@
   > "I think that's so much easier than putting four different shooters up or trying to use drones with laser beams."
 
 ## K-013
-**[Frank Turek Responds to TPUSA's Candace Owens Invitation](https://www.youtube.com/watch?v=tDnctR1RD6M)** · Cross Examined · 2025-12-04 · 21 min
+**[Frank Turek Responds to TPUSA's Candace Owens Invitation](https://www.youtube.com/watch?v=tDnctR1RD6M)** · Cross Examined · 2025-12-04 · 21 min · scope: full video
 
 - **CC-634** [00:07:10](https://www.youtube.com/watch?v=tDnctR1RD6M&t=430s) · core ↩ · **Blake Neff**: Blake Neff says there will soon be a live stream in Phoenix addressing the false accusations against Charlie Kirk's family, friends and Turning Point staff, and that Candace Owens is sincerely welcome to participate at the Phoenix studio.  
   > "If Candace is available, we would sincerely welcome her participation in that live stream at our studio here in Phoenix. At this point, we believe the ball is back in her court."
@@ -2871,7 +2871,7 @@
   > "It comes out December 9th. It's called Stop in the Name of God: Why Honoring the Sabbath will transform your life."
 
 ## K-023
-**["I Was Next to Charlie Kirk When it Happened" - Frank Turek Speaks Out | Apostate Prophet](https://www.youtube.com/watch?v=BYKbQ67vhOs)** · Apostate Prophet · 2026-04-09 · 69 min
+**["I Was Next to Charlie Kirk When it Happened" - Frank Turek Speaks Out | Apostate Prophet](https://www.youtube.com/watch?v=BYKbQ67vhOs)** · Apostate Prophet · 2026-04-09 · 69 min · scope: full video
 
 - **CC-1157** [00:06:19](https://www.youtube.com/watch?v=BYKbQ67vhOs&t=379s) · core · **Frank Turek**: Frank Turek says he was standing next to Charlie Kirk when he was shot because the two were working together to improve their answers on college campuses, and Kirk wanted Turek to coach him.  
   > "that's one reason I was standing next to Charlie when he was shot because he and I were working together to try and improve our answers on a college campus"
@@ -3041,7 +3041,7 @@
   > "So maybe it was uh the the Islamists that got him and who also paid Candace and others to destroy the whole issue and blame it on the Jews instead"
 
 ## K-025
-**[Frank Addresses Candace Owens’ Conspiracy Theories](https://www.youtube.com/watch?v=pcJnveRUE4k)** · Cross Examined · 2026-07-08 · 66 min
+**[Frank Addresses Candace Owens’ Conspiracy Theories](https://www.youtube.com/watch?v=pcJnveRUE4k)** · Cross Examined · 2026-07-08 · 66 min · scope: full video
 
 - **CC-1236** [00:04:48](https://www.youtube.com/watch?v=pcJnveRUE4k&t=288s) · context ↩ · **Frank Turek**: Frank Turek says much of an emailed quote (that Candace Owens made up conspiracies and false accusations to deflect from Tyler Robinson and is instigating people against Erika Kirk and TPUSA) is true, but that no evidence was provided that Candace Owens was involved in the murder.  
   > "She has and still is instigating people against Erica and TPUSA." unquote. Now, much of what was said in that quote is true."
@@ -3215,7 +3215,7 @@
   > "So, as I'm recording this, it's July 3rd. So, by the time this airs, the pre-trial hearing will be underway."
 
 ## K-027
-**[Frank Turek Responds to Candace Owens' Claims | Frank Turek](https://www.youtube.com/watch?v=WT_9waRkns4)** · Alisa Childers · 2026-07-19 · 65 min
+**[Frank Turek Responds to Candace Owens' Claims | Frank Turek](https://www.youtube.com/watch?v=WT_9waRkns4)** · Alisa Childers · 2026-07-19 · 65 min · scope: full video
 
 - **CC-1328** [00:00:25](https://www.youtube.com/watch?v=WT_9waRkns4&t=25s) · core · **Alisa Childers**: Alisa Childers says Frank Turek, a friend and mentor of Charlie Kirk, was with Kirk on the day he died and was in the van on the way to the hospital.  
   > "Frank was a friend and mentor of Charlie's. was with Charlie on the day that he died. He was in the van on the way to the hospital,"
@@ -3405,7 +3405,7 @@
   > "the most obvious cause of the murder was a radicalized leftist who ironically thought Charlie Kirk was a fascist."
 
 ## K-033
-**[He Rode With Charlie Kirk to the Hospital. One Year Later, The Full Story  | Ep. 58 w/ Frank Turek](https://www.youtube.com/watch?v=4Ulllbu_lPM)** · Jeremy Boreing · 2026-09-10 · 137 min
+**[He Rode With Charlie Kirk to the Hospital. One Year Later, The Full Story  | Ep. 58 w/ Frank Turek](https://www.youtube.com/watch?v=4Ulllbu_lPM)** · Jeremy Boreing · 2026-09-10 · 137 min · scope: full video
 
 - **CC-1660** [00:04:05](https://www.youtube.com/watch?v=4Ulllbu_lPM&t=245s) · context · **Frank Turek**: Frank Turek says his last real deep conversation with Charlie Kirk was on a walk two nights before the murder, Monday night September 8, when Charlie spontaneously raised three issues: Islam and government, the evidence for Christianity, and the family.  
   > "And um that night, September 8th, Monday night, he brought up three issues spontaneously."
@@ -3597,7 +3597,7 @@
   > "You think it's a drone when in fact there was a building above us, a walkway where somebody could have just had their phone over and it gave us an aerial shot."
 
 ## K-036
-**[Frank Turek DROPS NEW DETAILS About Charlie Kirk’s Final Moments](https://www.youtube.com/watch?v=ghMo7bMpLmM)** · The Officer Tatum · 2026-10-05 · 88 min
+**[Frank Turek DROPS NEW DETAILS About Charlie Kirk’s Final Moments](https://www.youtube.com/watch?v=ghMo7bMpLmM)** · The Officer Tatum · 2026-10-05 · 88 min · scope: full video
 
 - **CC-1919** [00:01:47](https://www.youtube.com/watch?v=ghMo7bMpLmM&t=107s) · context · **Frank Turek**: Frank Turek says Erika Kirk was a CEO of two companies before she ever met Charlie Kirk.  
   > "Erica was a CEO of two companies before she ever met Charlie. Erica is a brilliant woman and a woman focused on Christ."
@@ -3837,7 +3837,7 @@
 # Baron Coleman
 
 ## K-016
-**[Corroborating Candace Owens on the HIGH Level Gov't Meeting the Day before Charlie Kirk Died - #28](https://www.youtube.com/watch?v=OlOFcktnfO4)** · Baron Coleman · 2025-12-11 · 176 min
+**[Corroborating Candace Owens on the HIGH Level Gov't Meeting the Day before Charlie Kirk Died - #28](https://www.youtube.com/watch?v=OlOFcktnfO4)** · Baron Coleman · 2025-12-11 · 176 min · scope: first half in full; superchat half: host's own new case claims only
 
 - **CC-673** [00:02:20](https://www.youtube.com/watch?v=OlOFcktnfO4&t=140s) · core · **Baron Coleman**: Baron Coleman says that since Charlie Kirk's death the federal government, Utah police and TPUSA employees have engaged in one of the most intense propaganda campaigns in recent memory.  
   > "First, the federal government, Utah police, and TPUSA employees have engaged in one of the most intense propaganda campaigns in recent memory."
@@ -4175,7 +4175,7 @@
   > "Yeah, the question that we don't doubt that the question is whether he's related to Rob McCoy. I say no."
 
 ## K-019
-**[Baron and Candace Owens Collab? Erika Kirk Meeting Debrief of Debrief; Frank Turek Wrong Again - #32](https://www.youtube.com/watch?v=G3NKHLrT3sY)** · Baron Coleman · 2025-12-18 · 208 min
+**[Baron and Candace Owens Collab? Erika Kirk Meeting Debrief of Debrief; Frank Turek Wrong Again - #32](https://www.youtube.com/watch?v=G3NKHLrT3sY)** · Baron Coleman · 2025-12-18 · 208 min · scope: first half in full; superchat half: host's own new case claims only
 
 - **CC-870** [00:03:30](https://www.youtube.com/watch?v=G3NKHLrT3sY&t=210s) · core · **Baron Coleman**: Baron Coleman says that on Sunday night of this week it was learned that Erika Kirk had invited Candace Owens to an in-person meeting to discuss Candace's allegations related to the investigation.  
   > "On Sunday night of this week, we learned that Erica Kirk had invited Candace Owens to sit down for an in-person meeting to discuss Candace's allegations"
@@ -4527,7 +4527,7 @@
   > "Only the only the strand. Only the strand, not the not the charms. Not that I found."
 
 ## K-021
-**[Candace Owens Vindicated; Mitch Snow Confirmed at Ft Huachuca on Sept 9; Why the Cover Ups? - #37](https://www.youtube.com/watch?v=WQuU8wMb22c)** · Baron Coleman · 2025-12-29 · 186 min
+**[Candace Owens Vindicated; Mitch Snow Confirmed at Ft Huachuca on Sept 9; Why the Cover Ups? - #37](https://www.youtube.com/watch?v=WQuU8wMb22c)** · Baron Coleman · 2025-12-29 · 186 min · scope: first half in full; superchat half: host's own new case claims only
 
 - **CC-1029** [00:13:14](https://www.youtube.com/watch?v=WQuU8wMb22c&t=794s) · core ↩ · **Baron Coleman**: Baron Coleman says the question of transparency must be asked of Erika Kirk and others connected to the alleged sightings in and around Fort Huachuca and Sierra Vista, Arizona on September 8th and 9th, and asks why they do not simply end the speculation.  
   > "The same question must be asked of Erica Kirk and others related to the alleged sightings in and around Fort Wuka and Sierra Vista, Arizona on September 8th and 9th."
@@ -4765,7 +4765,7 @@
   > "Well, Erica's plane goes to Haley Idaho a lot. So if Glenn Beck lives there with lots of shady elites."
 
 ## K-029
-**[Candace Owens v. Smoke Boy; After Action Report  of Most Expensive Debate in History - Ep 161](https://www.youtube.com/watch?v=xC52Is7zrW0)** · Baron Coleman · 2026-08-17 · 234 min
+**[Candace Owens v. Smoke Boy; After Action Report  of Most Expensive Debate in History - Ep 161](https://www.youtube.com/watch?v=xC52Is7zrW0)** · Baron Coleman · 2026-08-17 · 234 min · scope: first half in full; superchat half: host's own new case claims only
 
 - **CC-1434** [00:12:08](https://www.youtube.com/watch?v=xC52Is7zrW0&t=728s) · context · **Baron Coleman**: Baron Coleman says Andrew Wilson, Candace Owens and Patrick Bet-David all wore earpieces on the same channel, which carried the production booth and the clips, and that he does not think Wilson was cheating through his earpiece.  
   > "They can hear Candace, Smoke Boy, and PBD all could hear the production studio and the clips through those earpieces."
@@ -5047,7 +5047,7 @@
   > "I don't think anyone shot inside the back of the van. I think that would have been horribly reckless."
 
 ## K-034
-**[Charlie Kirk's Autopsy, Egyptian Planes & Erika Kirk's Darkest Secret | Baron Coleman](https://www.youtube.com/watch?v=6xzIWL1JXpI)** · Danny Jones · 2026-09-21 · 171 min
+**[Charlie Kirk's Autopsy, Egyptian Planes & Erika Kirk's Darkest Secret | Baron Coleman](https://www.youtube.com/watch?v=6xzIWL1JXpI)** · Danny Jones · 2026-09-21 · 171 min · scope: first half in full; superchat half: host's own new case claims only
 
 - **CC-1736** [00:00:29](https://www.youtube.com/watch?v=6xzIWL1JXpI&t=29s) · core · **Baron Coleman**: Baron Coleman says that, looking at the actual moment of impact, the wound does not look like it came from a .30-06 to him, and that early on almost everybody agreed with that.  
   > "if you just look at it at the actual moment of impact, that wound doesn't look like a 30 out six to me."
@@ -5333,3 +5333,529 @@
   > "based on what we've seen so far, I think the the prosecution has a very heavy lift to convict him."
 - **CC-1832** [02:47:17](https://www.youtube.com/watch?v=6xzIWL1JXpI&t=10037s) · core · **Baron Coleman**: Baron Coleman says prosecutors would be very incentivized to offer Tyler Robinson a deal (life, death penalty off the table), which would tie a bow on it, and if he was involved he might take it.  
   > "Yeah. I mean, they they would be very incentivized to offer him a deal."
+
+## K-038
+**[DEEP Undercover in Clipping Campaigns - Ep 187](https://www.youtube.com/watch?v=BZtHQeZ936k)** · Baron Coleman · 2026-10-12 · 189 min · scope: first half in full; superchat half: host's own new case claims only
+
+- **CC-2040** [00:30:05](https://www.youtube.com/watch?v=BZtHQeZ936k&t=1805s) · context · **Baron Coleman**: Baron Coleman says Candace Owens did a show that kicked off with The Atlantic article 'Inside a conservative operation to hijack your social media feed'.  
+  > "Candace Owens did a show on this article or did a show that kicked off with this article inside a conservative operation to hijack your social media feed."
+- **CC-2041** [00:31:21](https://www.youtube.com/watch?v=BZtHQeZ936k&t=1881s) · context · **Baron Coleman**: Baron Coleman says, per The Atlantic article shown (by Ali Breland, dated September 2, 2026), a service run from Latvia offers payments for short social-media clips designed to look like grassroots GOP support.  
+  > "A service run from Latvia offers payments for short social media friendly clips designed to look like grassroots GOP support. This is by Alli Breeland."
+  - ✓ supports [C-13906](https://www.youtube.com/watch?v=0pSAhaAZz1w&t=850s) (2026-10-06): Per Ali Breland's Atlantic investigation as read on air, Matt Servius [Matiss Tabuns] in Latvia runs Elephant Clipping / Clippet paying Eastern Europe and Global South subcontractors to post bite-sized conservative clips designed to look like organic American GOP support, with Discord as the staffing channel and budgets sometimes listed near $900,000; the piece also lists banned subjects including RFK Jr., Megyn Kelly, Nick Fuentes, Tucker Carlson, and Riley Gaines, plus paid sub-campaigns for Vivek Ramaswamy and Tulsi Gabbard and $30k Shapiro/Crowder campaigns.  
+    _Both relay Ali Breland's Atlantic report, which the host adopts, that a Latvia-run service pays for short clips made to look like grassroots GOP support._
+- **CC-2042** [00:32:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=1940s) · core · **Baron Coleman**: Baron Coleman says, per a May 15 tweet by Taylor Lorenz shown, Lorenz pitched a feature on clipping to many outlets the previous year with a scoop about a big Erika Kirk clipping campaign after Charlie Kirk's killing, and was told it was too niche.  
+  > "I can't explain how crazy it is to have pitched a feature on clipping to million outlets last year with a great scoop about a big Erica Kerp clipping campaign"
+- **CC-2043** [00:33:12](https://www.youtube.com/watch?v=BZtHQeZ936k&t=1992s) · core · **Baron Coleman**: Baron Coleman says that, by Taylor Lorenz's 'nine months' timing, she learned of an Erika Kirk clipping campaign either very shortly after Charlie Kirk died or possibly before he died.  
+  > "So nine months ago would have been before Charlie died or just shortly after Charlie died."
+- **CC-2044** [00:34:52](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2092s) · core · **Baron Coleman**: Baron Coleman asks why a viral clipping campaign for Erika Kirk would be needed if Charlie Kirk appointed her and the TPUSA board carried out the appointment.  
+  > "Well, if he appointed her and the board agreed with his decision and they actually did the appointment because that's the one who really matters, why do we care what people think of Erica Kirk?"
+- **CC-2045** [00:35:40](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2140s) · context · **Baron Coleman**: Baron Coleman says Candace Owens is not paying for clipping campaigns.  
+  > "Same thing with Candace Owen. She's not out there paying clipping campaigns."
+- **CC-2046** [00:36:57](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2217s) · tangential · **Baron Coleman**: Baron Coleman says, per the New York Magazine article shown, Joe Lem ran a company called Flutify that at its peak operated 65,000 dummy social media accounts to drum up attention for paying clients.  
+  > "Lem ran a company called Flutify, which at its peak operated 65,000 dummy social media accounts used to drum up attention on behalf of paying clients."
+- **CC-2047** [00:41:35](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2495s) · core · **Baron Coleman**: Baron Coleman says, per a tweet dated September 10, 2025 by the chief marketing officer of a clipping company, Charlie Kirk had a $1 million clipping campaign active when he died.  
+  > "Let me look at the date. Yes, September 10, 2025. Charlie had a $1 million clipping campaign active."
+- **CC-2048** [00:42:25](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2545s) · core · **Baron Coleman**: Baron Coleman says Charlie Kirk had not done an event in a couple of months before he died on September 10; his last major public event was the Student Action Summit in mid-summer, so he asks who was paying a million dollars over the summer to promote him.  
+  > "Charlie hadn't done an event in a couple of months. He died on September 10th. The last time he really did a major public event was the student action summit in the middle of the summer."
+- **CC-2049** [00:43:05](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2585s) · core · **Baron Coleman**: Baron Coleman reads the clipping CMO's tweet saying the man who shot Kirk was clearly trained because he went right for the jugular, and that someone hated Kirk enough to pay for his death.  
+  > "The man who blanked him was clearly a trained blanker as he went right for the jugular. Someone hated Kirk enough to pay for his untimely demise."
+- **CC-2050** [00:44:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2660s) · core · **Baron Coleman**: Baron Coleman says he disagrees with the narrative that Tyler Robinson was radicalized by Charlie Kirk clips, and says he does not think Robinson is who killed Charlie Kirk.  
+  > "I don't think it is. I don't think it I don't think that's why Charlie died. I don't think that's who killed Charlie."
+  - ✓ supports [C-4551](https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1031s) (2026-01-06): The host says she wants to know who killed Charlie Kirk and does not believe it was Tyler Robinson.  
+    _Both assert Tyler Robinson is not who killed Charlie Kirk._
+  - ✓ supports [C-12443](https://www.youtube.com/watch?v=_cNtgris8Ik&t=3716s) (2026-08-20): The host says she is at 0 percent that Tyler Robinson shot and killed Charlie Kirk from the Losee Center rooftop.  
+    _Both reject that Tyler Robinson shot and killed Charlie Kirk._
+  - ✓ supports [C-11907](https://www.youtube.com/watch?v=ChuWo-n49B8&t=3525s) (2026-08-05): The host says she certainly does not think Tyler Robinson killed Charlie Kirk on a rooftop and acted alone.  
+    _Coleman's denial that Robinson killed Kirk entails the host's rejection of the lone-rooftop-shooter account._
+- **CC-2051** [00:44:50](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2690s) · core · **Baron Coleman**: Baron Coleman suggests that whoever paid a million dollars to promote Charlie Kirk during the summer, when TPUSA had few events, may have wanted Kirk's fame to peak at the moment he died.  
+  > "Perhaps someone who wanted Charlie to be top of mind. They wanted his fame to peak at the moment he passed."
+- **CC-2052** [00:45:10](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2710s) · core · **Baron Coleman**: Baron Coleman says Charlie Kirk was killed in public in front of 3,000 people with cell phone cameras because whoever did it wanted it to have an effect.  
+  > "No, you do it in public in front of 3,000 people with cell phone cameras because you want it to have an effect."
+- **CC-2053** [00:46:10](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2770s) · core · **Baron Coleman**: Baron Coleman says a message in the clipping Discord server six hours after Charlie Kirk was shot asked what happens with the money now, showing a Charlie Kirk campaign was active.  
+  > "This is a message 6 hours after Charlie Kirk was taken out. Darn. What the blank happens with that money now? LOL."
+- **CC-2054** [00:47:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2840s) · core · **Baron Coleman**: Baron Coleman says Servius (Matiss Tabuns) ran the clipping campaign and was the main person in charge.  
+  > "Servious is the guy who ran this campaign. He was the the the main guy in charge."
+  - ✓ supports [C-13901](https://www.youtube.com/watch?v=0pSAhaAZz1w&t=590s) (2026-10-06): The host says the Latvian man who runs Monster Lab and Clipit, Matt Servius [Matiss Tabuns], is also the number one person creating campaigns on the website, with Elephant Clipping his biggest political campaign channel.  
+    _Both say Servius (Matiss Tabuns) was the main person creating and running the clipping campaigns._
+- **CC-2055** [00:48:12](https://www.youtube.com/watch?v=BZtHQeZ936k&t=2892s) · context · **Baron Coleman**: Baron Coleman says the clipping work is outsourced mostly to India and Eastern Europe, and that server messages show clippers asking who Charlie Kirk is and what a Republican is.  
+  > "There are messages in here of people saying, "Who's Charlie Kirk? What is a Republican?""
+- **CC-2056** [00:50:40](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3040s) · core · **Baron Coleman**: Baron Coleman says the 'AL clipping' campaign (famous person debating abortion, race, immigration; 30 cents per thousand views, $13,000 weekly budget) was the Charlie Kirk campaign, with AL meaning anti-left or anti-liberal.  
+  > "That's the Charlie Kirk debate. That's the Charlie Kirk campaign. They call it AL clipping because AL originally meant anti-left or anti-liberal campaign."
+  - ✓ supports [C-14434](https://www.youtube.com/watch?v=VUSs6CTp78Q&t=952s) (2026-10-19): The host says the "AL" referenced in the message is a clipping campaign called anti-left.  
+    _Both say the 'AL' clipping campaign stands for anti-left._
+- **CC-2057** [00:51:33](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3093s) · core · **Baron Coleman**: Baron Coleman says the AL campaign announcement was dated July 18, 2025, two months before Kirk died, just after the Student Action Summit and just before the Hamptons meeting where Kirk was given the 'hard sell'.  
+  > "This is two months before Charlie dies. This is just after the student action summit. This is just before Charlie will go before the Hampton Hustle up in the Hamptons"
+- **CC-2058** [00:52:25](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3145s) · context · **Baron Coleman**: Baron Coleman says the clipping payouts are made in US dollar stablecoins (USDC or USDT).  
+  > "All the conversions are to US dollar coins. USDC or USDT. So, this is money."
+- **CC-2059** [00:53:08](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3188s) · context · **Baron Coleman**: Baron Coleman says the second 'AS clipping' campaign stood for anti-socialism and was an anti-Zohran Mamdani campaign.  
+  > "AS stands for antisocialism. This was an anti-mani campaign. This was an anti-mandani campaign."
+- **CC-2060** [00:54:40](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3280s) · context · **Baron Coleman**: Baron Coleman says, per the campaign ad shown, only US views count and clippers are told to use a US proxy.  
+  > "Just keep in mind only US views count. So make sure you're using a US proxy."
+- **CC-2061** [00:56:12](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3372s) · core · **Baron Coleman**: Baron Coleman says that in the last few days all mentions of TPUSA and Erika Kirk were wiped from the clipping servers, but misspellings let some survive.  
+  > "One of the interesting things about this is in the last few days. All of the mentions of TPSA and Erica Kirk have been wiped."
+- **CC-2062** [00:57:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3440s) · core · **Baron Coleman**: Baron Coleman says the podcaster Dom ('I Don't Give A Dam') had a former participant confirm that AL meant anti-leftism (a Charlie Kirk-oriented campaign) and AS meant anti-socialism/anti-Mamdani.  
+  > "So, she had a former participant of this organization who confirmed to her that AL was anti-leftism or anti-liberalism and AS was anti- socialism and anti-Zamani."
+  - ✓ supports [C-14434](https://www.youtube.com/watch?v=VUSs6CTp78Q&t=952s) (2026-10-19): The host says the "AL" referenced in the message is a clipping campaign called anti-left.  
+    _Both say the 'AL' clipping campaign meant anti-left._
+- **CC-2063** [00:58:50](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3530s) · core · **Baron Coleman**: Baron Coleman says server messages from the day before Charlie Kirk died show a rush to launch campaigns and coded secrecy about the AL campaign, which he calls interesting timing.  
+  > "Now, this is all taking place again the day before Charlie Kirk passes. There's this rush to figure out what's all going on here."
+- **CC-2064** [00:59:12](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3552s) · core · **Baron Coleman**: Baron Coleman says that if he were law enforcement or a defense lawyer for Tyler Robinson, he would want to ask about the timing of the clipping campaigns.  
+  > "I think if I was a law enforcement professional, if I was a defense lawyer for Tyler Robinson or anyone else involved in any of these lawsuits, this is the kind of stuff I would want to ask about."
+- **CC-2065** [00:59:45](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3585s) · context · **Baron Coleman**: Baron Coleman says server members were told not to ask about the AL campaign in public and to direct-message someone named Kimmy instead.  
+  > "They're saying don't ask about the AL clipping in public. This is not something we're allowed to publicly discuss. You have to direct message someone named Kimmy."
+- **CC-2066** [01:01:00](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3660s) · core · **Baron Coleman**: Baron Coleman says, per the Clipit bot archive, an updated AL campaign description dated June 4, 2026 required that Charlie Kirk be clearly visible and speaking, showing the campaign was still promoting Kirk nine months after his death.  
+  > "What types of videos are allowed for the AL clipping campaign? Users should follow the campaign guidelines. Charlie Kirk must be clearly visible and speaking meme edits."
+- **CC-2067** [01:02:30](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3750s) · core · **Baron Coleman**: Baron Coleman says the campaign keeps promoting Charlie Kirk because TPUSA's current leader (Erika Kirk) is 'dreadful' and cannot be highlighted, so they want Charlie to remain the identifiable head of TPUSA.  
+  > "They still want Charlie Kirk to be the identifiable head of TPUSA. No one else fits the bill."
+- **CC-2068** [01:03:02](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3782s) · context · **Baron Coleman**: Baron Coleman says there is an online campaign to discredit Candace Owens, with people such as Gary and 'Lisa knows nothing' posting hundreds of times a month about her.  
+  > "We're familiar that there is an online campaign to discredit Candace Owens, to call her evil. We've got people posting hundreds of times a month about how terrible she is."
+- **CC-2069** [01:03:38](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3818s) · core ↩ · **Baron Coleman**: Baron Coleman says Candace Owens talked about one of the clipping videos coming from a Google Drive allegedly tied to Blake Neff.  
+  > "Candace talked about one of those videos came from a Google Drive tied to allegedly Blake Win."
+- **CC-2070** [01:05:35](https://www.youtube.com/watch?v=BZtHQeZ936k&t=3935s) · context · **Baron Coleman**: Baron Coleman says the people doing this clipping almost certainly do not live in the United States, as their payment records show payment in local currencies.  
+  > "So, the people involved in this are likely people you've never heard of. They almost certainly don't live in the United States."
+- **CC-2071** [01:06:40](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4000s) · core · **Baron Coleman**: Baron Coleman says an unlisted training video found via the Discord shows Servius, the head of these campaigns, and asks on whose behalf he was paying a million dollars to promote Charlie Kirk, saying 'we could probably guess'.  
+  > "On behalf of who? We don't know. Who's paying a million dollars to promote Charlie Kirk? I mean, we could probably guess. We could probably guess."
+- **CC-2072** [01:10:25](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4225s) · context · **Baron Coleman**: Baron Coleman says the Charlie Kirk clips are made by overseas clippers given Google Drive access, and posted on X accounts routed through American servers so they appear American.  
+  > "put it on an X feed that purports to be an American. It's using it's routed through an American server"
+- **CC-2073** [01:14:32](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4472s) · context · **Baron Coleman**: Baron Coleman says, per a campaign account update shown, videos rejected as Candace Owens content cannot be appealed, meaning the campaign bans Candace Owens content.  
+  > "Your video was rejected as Candace Owens content and it actually is equals do not appeal."
+- **CC-2074** [01:15:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4520s) · context · **Baron Coleman**: Baron Coleman says whoever wrote the campaign rules does not want people going to Candace Owens' YouTube for context or the original video.  
+  > "Obviously, whoever wrote the rules for this campaign does not want people going to Candace Owen's YouTube look for context or to find the original video"
+- **CC-2075** [01:16:45](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4605s) · core · **Baron Coleman**: Baron Coleman says a server message dated February 22, 2026, which survived because Erika Kirk's name was misspelled, asked when clippers would be paid for the Erika Kirk AmFest campaign.  
+  > "When are we getting paid for the Erica Kirk Afest thing? Now, notice this is February 22nd, 2026."
+- **CC-2076** [01:17:50](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4670s) · core · **Baron Coleman**: Baron Coleman says clippers were told to delete messages naming Erika Kirk and to use 'EK' instead, for plausible deniability, under threat of being banned.  
+  > "I used uh they said use the word EK. Why? Plausible deniability. Plausible deniability."
+- **CC-2077** [01:18:25](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4705s) · core · **Baron Coleman**: Baron Coleman says Erika Kirk cannot be supported on her own merit, so millions of dollars are being invested in clip campaigns that must look organic.  
+  > "We have this woman who cannot [clears throat] possibly be supported on her own merit. We're going to have to invest millions of dollars in supporting this woman."
+- **CC-2078** [01:19:50](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4790s) · core · **Baron Coleman**: Baron Coleman says the AmFest campaign paid a $15 blanket incentive because Erika Kirk content was poorly received and views stayed low.  
+  > "So, they even ran an incentive because, and I'll tell you why, because it was getting poor. It was very poorly received. No one was interacting with it."
+- **CC-2079** [01:20:35](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4835s) · core · **Baron Coleman**: Baron Coleman says a payout message shows a clipper received about $15.70 in USDC for 'EK Amfest and orbital clipping', thanking Kimmy, Servius and Max.  
+  > "That is your evidence. Payout for EK Amfest and orbital clipping. Kimmy Servius Max. Thank you so much."
+- **CC-2080** [01:20:58](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4858s) · core · **Baron Coleman**: Baron Coleman says Erika Kirk's town hall with Bari Weiss was the week before AmFest and the week after she met Candace Owens in Nashville, after which she spent five days doing media in New York and Washington DC.  
+  > "It was the week after she met with Candace Owens. She flies to Nashville, meets with Candace Owens, then goes to New York and spends five days in New York and Washington DC doing media appearances"
+- **CC-2081** [01:21:56](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4916s) · core · **Baron Coleman**: Baron Coleman says a 'town hall' clipping campaign paying 75 cents per thousand views promoted Erika Kirk's town hall with Bari Weiss, and that someone put six figures into it.  
+  > "Someone put six figures worth of money to promote Erica Kirk's town hall appearance with Barry Weiss. Why? No one watched it."
+- **CC-2082** [01:22:38](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4958s) · core · **Baron Coleman**: Baron Coleman says a payout of 278 Czech korunas (about $15) on January 16 was titled 'Erica Payout'.  
+  > "278 check cronoms. It's about 15 bucks, give or take. That was on January 16th. Notice the title here. Erica Payout."
+- **CC-2083** [01:23:12](https://www.youtube.com/watch?v=BZtHQeZ936k&t=4992s) · core · **Candace Owens**: In a clip played on the show, Candace Owens says, before reading an email describing Erika Kirk as an emotional asset, that everyone was gaslighting them by saying the clip was organic and nobody was asked to boost it.  
+  > "Remember, everyone was gaslighting us and saying that this was totally just organic. And no, they they weren't asking people to boost this clip for any particular reason."
+- **CC-2084** [01:23:35](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5015s) · core ↩ · **Baron Coleman**: Baron Coleman says Candace Owens accused them of boosting Erika Kirk's viral 'I just want to go home' video, they said it was organic, and he will show evidence it was not organic, as Candace predicted.  
+  > "After that went viral, Candace accused them of boosting it. You guys must be boosting this. This is not an organic."
+- **CC-2085** [01:25:06](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5106s) · core · **Candace Owens**: In a clip played on the show, Candace Owens reads an email ('Amendment to the Erica Kirk video clip') saying the clip of Erika Kirk leaving the ballroom saying 'I just want to go home' is the strongest emotional-response asset of the incident and recommending all communication channels amplify it further.  
+  > "Our recommendation forward is that all communication channels should amplify this clip further."
+- **CC-2086** [01:25:12](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5112s) · core ↩ · **Baron Coleman**: Baron Coleman says Erika Kirk was treated as an emotional asset in a campaign the White House Military Office was allegedly boosting.  
+  > "So, she's an emotional asset in this totally organic campaign that the White House military office allegedly was boosting."
+  - ✓ supports [C-9546](https://www.youtube.com/watch?v=BxN2-aeMYIs&t=265s) (2026-05-26): The host says an internal email she shared asked for the artificial boosting of Erika Kirk's "I Want to Go Home" clip, described her as an emotional asset and sought to make the clip number one overnight with help from surrogates, about an hour after the shooting.  
+    _Both say an official email treated Erika Kirk as an 'emotional asset' in an artificial boosting campaign._
+  - ✓ supports [C-10100](https://www.youtube.com/watch?v=G3zdOeHpvS0&t=3219s) (2026-06-17): The host says her team obtained an email about Erika Kirk being an "emotional asset." According to the host, it shows that the White House Correspondents' Dinner messaging was staged and that the Department of War was artificially boosting Erika Kirk. She urges FOIA requests for the emails.  
+    _Both say the military side of government (Department of War / WH Military Office) was artificially boosting Erika Kirk as an emotional asset._
+  - ✓ supports [C-9768](https://www.youtube.com/watch?v=YeEtS7nix3o&t=4803s) (2026-06-09): The host says her earlier report on the White House emails was true, that Erika Kirk is considered an "emotional asset," and that the Department of War appears to have been involved in the emails.  
+    _Both say emails tied to the Department of War described Erika Kirk as an 'emotional asset'._
+- **CC-2087** [01:25:55](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5155s) · core · **Baron Coleman**: Baron Coleman says a 'WH Clipping' campaign title page shows a start date of April 29, 2026 and end date of May 13, 2026, within four days of the White House Correspondents' Dinner (April 25) video of Erika Kirk saying 'I just want to go home'.  
+  > "Start date 429 2026. End date 513 2026. Um I think correspondence dinner 2026 was on April 25th."
+- **CC-2088** [01:27:35](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5255s) · core · **Baron Coleman**: Baron Coleman says a June 2, 2026 incentive message about the Monster Lab (ML) campaign is evidence the campaign ran and related to the White House Correspondents' Dinner shooting.  
+  > "So, that is the that is evidence that this campaign was running. It was related to the White House correspondence center uh dinner shooting."
+  - ✓ supports [C-14433](https://www.youtube.com/watch?v=VUSs6CTp78Q&t=945s) (2026-10-19): Per the Discord message the host shows, a user wrote that they had not received the "$10 incentive for the AL" for the WHCD shooting clip "where Erica cried"; the host says AL is the "anti-left" clipping campaign.  
+    _Both cite a clipping-server incentive message as evidence of a paid campaign promoting the WHCD shooting clip of Erika Kirk._
+- **CC-2089** [01:28:12](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5292s) · core · **Baron Coleman**: Baron Coleman says, per a screenshot from Dom's podcast, a social media clipping campaign was run about the July preliminary hearing.  
+  > "This is from the July preliminary hearing. They actually ran a social media clipping campaign about their preliminary hearing."
+- **CC-2090** [01:28:30](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5310s) · core · **Baron Coleman**: Baron Coleman says he has serious concerns about jury tampering from paid promotion around the preliminary hearing.  
+  > "I have serious concerns over jury tampering. Serious concerns over jury tampering."
+- **CC-2091** [01:29:25](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5365s) · core · **Baron Coleman**: Baron Coleman says a clipper quoted a rule that until July 19 only content supporting Erika Kirk and TPUSA relating to the trial was allowed, while the five-day preliminary hearing ran July 6 to 10.  
+  > "Reminder, until July 19, the only content that is allowed is anything that supports Erica Kirk and TPSA relating to the trial."
+- **CC-2092** [01:30:45](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5445s) · core · **Baron Coleman**: Baron Coleman says the message quoting the trial rule has since been deleted, after Dom captured it on her stream, and calls the deletion evidence of guilt and a cover-up.  
+  > "the message quoting the rule has since been deleted. It's since been deleted. Dom was able to capture it on her stream last night before it was deleted."
+- **CC-2093** [01:31:45](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5505s) · context · **Baron Coleman**: Baron Coleman says the clipping servers also ran a 'BS' Ben Shapiro debates clipping campaign that required clips to push Shapiro's agenda forward.  
+  > "Can Ben Shapiro reaction clips be submitted for the debates clipping BS clipping channel?"
+- **CC-2094** [01:32:37](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5557s) · core · **Baron Coleman**: Baron Coleman suggests that whoever is paying for the pro-Ben Shapiro campaign is obviously the same kind of payer behind the Erika Kirk campaign.  
+  > "And if the answer to that question seems pretty obvious on its face, who do you think is paying for the Erica Kirk campaign, making her the hero?"
+- **CC-2095** [01:34:05](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5645s) · tangential · **Baron Coleman**: Baron Coleman says, per a July 31, 2026 server notice, 'Street Clipping' is the Steven Crowder campaign and was among the hot campaigns.  
+  > "Street clipping is the Steven Crowder channel. SC Stephven Crowder Street Clipping. SC is spicy hot right now."
+- **CC-2096** [01:36:40](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5800s) · tangential · **Baron Coleman**: Baron Coleman says an Ami Horowitz clipping campaign paid $500 per million views with a $4,000 total budget running August 18 to September 21, 2026.  
+  > "$500 per million views. That equals 50 cents per thousand. That's a pretty healthy campaign. Total budget only four grand."
+- **CC-2097** [01:38:05](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5885s) · tangential · **Baron Coleman**: Baron Coleman says Nurse Casey is the only authorized paid clipper for his show that he knows of.  
+  > "Now, your humble host has Nurse Casey. That's the only person I know of that that is an authorized paid clipper."
+- **CC-2098** [01:38:50](https://www.youtube.com/watch?v=BZtHQeZ936k&t=5930s) · context · **Baron Coleman**: Baron Coleman calls Ben Shapiro, Steven Crowder and Erika Kirk frauds for paying people to clip and promote them.  
+  > "I'd also be a fraud. I think these people are frauds. Ben Shapiro, Steven Crowder, Erica Kirk."
+  - ✓ supports [C-14009](https://www.youtube.com/watch?v=yrg_-D6oNHE&t=1355s) (2026-10-07): The host says Elephant Clipping grew to become the go-to for people like Ben Shapiro and Steven Crowder, whom she mocks as certain Tyler Robinson killed Charlie Kirk.  
+    _Both say Ben Shapiro and Steven Crowder use the paid Elephant Clipping service._
+  - ✓ supports [C-13928](https://www.youtube.com/watch?v=0pSAhaAZz1w&t=1950s) (2026-10-06): The host reads that Servius [Matiss Tabuns] manages Ben Shapiro and Steven Crowder campaigns and that Crowder's campaign also links to the Enclave and Key Google Drive; neither Shapiro nor Crowder responded.  
+    _Both say Shapiro and Crowder have paid clipping campaigns, which the host relays from the Atlantic piece she adopts._
+- **CC-2099** [01:42:35](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6155s) · context · **Ben Shapiro**: In a clip played on the show from a TPUSA event last week, Ben Shapiro says that as a Jew he does not believe Jesus is divine, but that Americans should go back to church.  
+  > "Obviously, I'm a Jew. Definitionally, this means I do not believe that Jesus is divine. That doesn't mean that I don't believe that Americans should not go back to church."
+- **CC-2100** [01:45:12](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6312s) · context · **Baron Coleman**: Baron Coleman says the Ben Shapiro TPUSA clip looks exactly like clipping-campaign output, asks what TPUSA is doing hosting Shapiro, and says it is far from Charlie Kirk's vision for TPUSA.  
+  > "It's Ben Shapiro. It's him. But I I've got to ask the question, TPUSA, what the hell are you doing?"
+- **CC-2101** [01:45:50](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6350s) · core · **Baron Coleman**: Baron Coleman says instructions for an Erika Kirk clipping campaign dated December 17, 2025 (during AmFest) set up an 'Erica Kirk clips submission form' requiring at least 5,000 views.  
+  > "here is, uh, some directions, some instructions on the Erica Kirk clipping campaign from December, shortly after, um, Afest or in the middle of Afest, December 17 of 2025."
+- **CC-2102** [01:47:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6440s) · core · **Baron Coleman**: Baron Coleman says the Erika Kirk clipping submission form on Google Docs is still live.  
+  > "It's still live. If you want to take a look at it, I'll show it to you. This is the Erica Kirk clipping form on the official Google Docs."
+- **CC-2103** [01:48:05](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6485s) · tangential · **Baron Coleman**: Baron Coleman says another clipping site currently has an active James O'Keefe campaign with a $7,080 budget at $1.50 per thousand views.  
+  > "They actually currently have a James O'Keefe campaign. I know there are a lot of James O'Keefe fans out there."
+- **CC-2104** [01:50:40](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6640s) · core · **Baron Coleman**: Baron Coleman says that after Charlie Kirk's death they are still paying to promote him, Erika Kirk, TPUSA and the White House Correspondents' Dinner shooting.  
+  > "They're still with his death. They're still paying to promote him and they're paying to promote Erica Kirk and they're paying to promote TPSA and they're paying to promote the White House correspondence dinner shooting."
+- **CC-2105** [01:51:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6680s) · context · **Baron Coleman**: Baron Coleman says that at the White House Correspondents' Dinner shooting a man with a loaded shotgun burst in, and someone was hit not by him but by a Secret Service agent.  
+  > "Someone was hit, not by him, but by the Secret Service guy. And they're paying to promote it."
+  - ✓ supports [C-8572](https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1698s) (2026-04-29): The host says a man stormed a security checkpoint at the White House Correspondents Dinner and only Secret Service agents began firing their weapons, which she reads as likely friendly fire.  
+    _Both say the person hit at the WHCD incident was shot by Secret Service, not the intruder._
+- **CC-2106** [01:51:45](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6705s) · core · **Baron Coleman**: Baron Coleman says the paid promotion convinces him that what he believes about 'Turning Point USA 2.0' is probably true: that they are depraved.  
+  > "It does convince me that what I believe about Turning Point USA 2.0 know is probably true. That these guys are depraved."
+- **CC-2107** [01:52:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6740s) · context · **Baron Coleman**: Baron Coleman says he believes the people posting 10 to 30 times a day about him, Candace Owens and others in the Charlie Kirk investigating movement are being paid, though he did not cover it on this show.  
+  > "these people that are posting 10, 20, 30 times a day about me or Candace Owens or any of the other people in the truther movement"
+- **CC-2108** [01:52:45](https://www.youtube.com/watch?v=BZtHQeZ936k&t=6765s) · context · **Baron Coleman**: Baron Coleman says he believes Gary told people his business was in real trouble around the time of the killing, after which he 'took a hard turn', suggesting a financial incentive.  
+  > "I believe Gary was telling people, for example, his business was in real trouble about the time this all happened and all of a sudden he took a hard turn and became kind of crazy."
+- **CC-2109** [02:01:30](https://www.youtube.com/watch?v=BZtHQeZ936k&t=7290s) · core · **Baron Coleman**: Baron Coleman says, answering a viewer, that law enforcement does not have to wait for the Tyler Robinson trial before investigating someone else, and may already have started.  
+  > "They may already have. We don't know. You know, I I got they may have they may have can't say, but no, they don't have to wait for the Tyler Robinson trial to play out."
+- **CC-2110** [02:03:55](https://www.youtube.com/watch?v=BZtHQeZ936k&t=7435s) · context · **Baron Coleman**: Baron Coleman says his Friday X Space examined whether a Discord name was Tyler Robinson's, without reaching an answer.  
+  > "We we really tore apart the whole Discord question about was it Tyler Robinson's Discord name? We didn't get to an answer"
+- **CC-2111** [02:05:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=7520s) · context · **Baron Coleman**: Baron Coleman says he does not recall Charlie Kirk ever addressing Harrison Smith's X post about his worry of being killed, and does not know if Kirk knew of it.  
+  > "I don't recall Charlie ever addressing Harrison Smith's expost. I don't know that he knew about it, but I don't recall him ever addressing it."
+- **CC-2112** [02:05:35](https://www.youtube.com/watch?v=BZtHQeZ936k&t=7535s) · core · **Baron Coleman**: Baron Coleman says he has not seen pictures released from the photographers behind Charlie Kirk, and that those photographers, on Kirk's right and behind him, turned as soon as the shot was fired to face where Kirk would be carried out, as if they knew.  
+  > "as soon as the bang happened, they turned and started facing where Charlie would eventually come out like they knew where he was going to go."
+- **CC-2113** [02:07:05](https://www.youtube.com/watch?v=BZtHQeZ936k&t=7625s) · core · **Baron Coleman**: Baron Coleman says that, based on formatting, the screenshots of Erika Kirk's messages about the bank must have been captured before one full year had passed, but it is unknown when they were captured.  
+  > "what we discovered was based on the formatting, they would have had to have been screen capped prior to the expiration of one full year."
+- **CC-2114** [02:11:50](https://www.youtube.com/watch?v=BZtHQeZ936k&t=7910s) · context · **Baron Coleman**: Baron Coleman says his Charlie Kirk investigation has involved thousands of hours of research and talking to dozens of firsthand witnesses.  
+  > "They don't have time to to go through, you know, gosh, I don't even know, thousands of hours of research, uh, talk to dozens of of firsthand account witnesses."
+- **CC-2115** [02:25:00](https://www.youtube.com/watch?v=BZtHQeZ936k&t=8700s) · tangential · **Baron Coleman**: Baron Coleman says filings he looked up show Asher Moss's Alliance for American Leadership had $9.6 million revenue last year and $9.5 million spending, up from $725,000 the year before.  
+  > "So, this is their revenue last year, $9.6 million. They spent $9.5 million."
+- **CC-2116** [02:29:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=8960s) · core · **Baron Coleman**: Baron Coleman says those who keep saying Tyler Robinson's team did not argue the charges at the preliminary hearing are dishonest and pushing talking points.  
+  > "It's because they're dishonest. They're lying liars who lie. They're thinning out talking points. They're not trying to get to the truth."
+- **CC-2117** [02:34:20](https://www.youtube.com/watch?v=BZtHQeZ936k&t=9260s) · context · **Baron Coleman**: Baron Coleman agrees that Erika Kirk was at her peak before anyone knew who she was and says every dollar spent promoting her has reduced her in the eyes of many.  
+  > "She was at her peak before anyone knew who she was. That's a true fact. Before anyone knew who she was, she was at her peak."
+- **CC-2118** [02:42:25](https://www.youtube.com/watch?v=BZtHQeZ936k&t=9745s) · core · **Baron Coleman**: Baron Coleman, asked whether what Blake Neff, Mikey McCoy and others had in their right pockets going into the hospital could be scrubs, says he hadn't considered a whole set of scrubs fitting in pockets and asks why they wouldn't use the backpacks they had.  
+  > "I haven't considered that someone could get a whole set of scrubs in their pockets, but I don't know. What are you doing, T? And why wouldn't they just use the backpacks they had?"
+- **CC-2119** [02:56:50](https://www.youtube.com/watch?v=BZtHQeZ936k&t=10610s) · tangential · **Baron Coleman**: Baron Coleman says Britta came into his X Space, was given a mic and added to the speakers panel, said nothing and quickly left.  
+  > "Britta came into my exspace that we were hosting. I gave her a mic."
+- **CC-2120** [02:59:58](https://www.youtube.com/watch?v=BZtHQeZ936k&t=10798s) · core · **Baron Coleman**: Baron Coleman says all official and unofficial narratives have Tyler Robinson turning himself in on September 11; the open question is whether it was before or after about 8:30 or 9:00, which he does not know.  
+  > "we do have proof he turned himself in on the 11th because I think both I think all narratives, official and unofficial narratives have him turning himself in on the 11th."
+- **CC-2121** [03:00:53](https://www.youtube.com/watch?v=BZtHQeZ936k&t=10853s) · core · **Baron Coleman**: Baron Coleman says an early surrender by Tyler Robinson would need a lot of explaining, while a later surrender would not, and either way it does not put him on the roof.  
+  > "If so, there's a lot of explaining that needs to be done. If he turned himself in later, that takes care of all that. Doesn't put him on the roof"
+
+## K-039
+**[HIDDEN Police Searches Revealed!  Whose Vehicles Were Those? - Ep 188](https://www.youtube.com/watch?v=PV0tI3L2opw)** · Baron Coleman · 2026-10-19 · 171 min · scope: first half in full; superchat half: host's own new case claims only
+
+- **CC-2122** [00:01:01](https://www.youtube.com/watch?v=PV0tI3L2opw&t=61s) · core · **Baron Coleman**: Baron Coleman says that, but for the investigation's released text messages, the public would not know Charlie Kirk had left the pro-Israel cause the day before he died.  
+  > "A lot of the text messages you've seen, for example, you wouldn't know Charlie Kirk had left the pro-Israel cause the day before he died, but for the investigation."
+  - ✓ supports [C-9591](https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2410s) (2026-05-26): The host says Charlie Kirk announced the day before he died that he was left with no choice but to abandon the pro-Israel cause. She says TPUSA figures denied the message existed until she released it.  
+    _Both say Charlie Kirk declared the day before he died that he was abandoning the pro-Israel cause, known via released messages._
+  - ✓ supports [C-6423](https://www.youtube.com/watch?v=ti5Fxrvegno&t=296s) (2026-02-10): The host says that the day before the shooting Charlie Kirk messaged a group of people saying he was abandoning the pro-Israel cause and that he meant it.  
+    _Both say Kirk messaged the day before the shooting that he was abandoning the pro-Israel cause._
+  - ✓ supports [C-11345](https://www.youtube.com/watch?v=amqTMimDr0A&t=2973s) (2026-07-23): The host says she showed photos from inside the SUV and text messages, including that Charlie said he was leaving the pro-Israel cause.  
+    _Both say released text messages showed Kirk was leaving the pro-Israel cause._
+- **CC-2123** [00:01:57](https://www.youtube.com/watch?v=PV0tI3L2opw&t=117s) · core · **Baron Coleman**: Baron Coleman says police were looking for more than one person and that he thinks there is evidence they did not think Tyler Robinson acted alone and he may have been part of a team.  
+  > "In fact, they were looking for more than one person. And I think there's evidence that we will discuss tonight that they didn't think Tyler Robinson was alone."
+  - ✓ supports [C-8282](https://www.youtube.com/watch?v=SubDoZWHARo&t=3286s) (2026-04-15): The host says she believes multiple people were involved in killing Charlie Kirk and that she does not believe Tyler Robinson acted alone on the rooftop.  
+    _Both say Tyler Robinson did not act alone._
+  - ✓ supports [C-11907](https://www.youtube.com/watch?v=ChuWo-n49B8&t=3525s) (2026-08-05): The host says she certainly does not think Tyler Robinson killed Charlie Kirk on a rooftop and acted alone.  
+    _Both say Tyler Robinson did not act alone._
+  - ✓ supports [C-1958](https://www.youtube.com/watch?v=Qt0VHV-POCg&t=743s) (2025-10-29): The host says the evidence is overwhelming that Tyler Robinson did not act alone, did not fire the shot and did not use a .30-06 rifle.  
+    _Both say evidence shows Tyler Robinson did not act alone._
+- **CC-2124** [00:04:11](https://www.youtube.com/watch?v=PV0tI3L2opw&t=251s) · core · **Baron Coleman**: Baron Coleman says that, following up a story Candace Owens covered about a TPUSA-related man arrested for child-related offenses, his gut is that TPUSA knew the man was about to be arrested and that there were potentially cover-up efforts ahead of time (he says he cannot state it as fact).  
+  > "Yes, they actually did know he was about to be arrested and it looks like there were potentially some cover up efforts taking place ahead of time."
+- **CC-2125** [00:06:13](https://www.youtube.com/watch?v=PV0tI3L2opw&t=373s) · core · **Baron Coleman**: Baron Coleman says Flock license-plate searches were run not only for Tyler Robinson's car but also for other people's cars.  
+  > "yes there were some flock searches for Tyler Robinson's car but there were some flock searches for other people's car as well."
+- **CC-2126** [00:08:00](https://www.youtube.com/watch?v=PV0tI3L2opw&t=480s) · core · **Baron Coleman**: Baron Coleman says the first mention of Zachariah Qureshi on police radio scanner traffic was at 2:49 p.m. (Mountain time) on September 10, on a local channel.  
+  > "So, that was the very first time we heard the name Zechariah Careshi. It was at 2:49 p.m."
+- **CC-2127** [00:09:31](https://www.youtube.com/watch?v=PV0tI3L2opw&t=571s) · core · **Baron Coleman**: Baron Coleman says the first radio mention of Qureshi's license plate came at 3:00 p.m., on a Utah County-only local channel, not statewide.  
+  > "First mention of the license plate that was at 3:00. But those were on local channels. That's on a local Utah County only channel."
+- **CC-2128** [00:11:19](https://www.youtube.com/watch?v=PV0tI3L2opw&t=679s) · core · **Baron Coleman**: Baron Coleman says the statewide BOLO naming Qureshi and his Corolla's plate went out at 3:11 p.m.  
+  > "It was official. It was regional. It went out statewide. Everybody that was listening to the Utah Channel had access to it. That was at 311 p.m."
+- **CC-2129** [00:11:40](https://www.youtube.com/watch?v=PV0tI3L2opw&t=700s) · core · **Baron Coleman**: Baron Coleman says Zachariah Qureshi was in line waiting to ask Charlie Kirk a question, was clearly not the suspect, and popped up on police radar possibly through conflation with a license plate.  
+  > "he was in line waiting uh to ask Charlie Kirk a question. Clearly not the suspect. For some reason, he popped up on police radar as a potential suspect."
+- **CC-2130** [00:12:37](https://www.youtube.com/watch?v=PV0tI3L2opw&t=757s) · context · **Baron Coleman**: Baron Coleman says Qureshi's father's defense contracting company got very large contracts, the biggest it ever had, in the weeks before Charlie Kirk was killed; he says he does not know if it was related.  
+  > "his dad got some very large contracts in the weeks leading up to Charlie Kirk being taken down. In fact, the biggest contracts the defense company had ever had."
+- **CC-2131** [00:14:23](https://www.youtube.com/watch?v=PV0tI3L2opw&t=863s) · core · **Baron Coleman**: Baron Coleman says a police officer in Kent, Washington searched Zachariah Qureshi's license plate in Flock at 2:37 p.m. Mountain, 12 minutes before Qureshi was first mentioned on the radio.  
+  > "why is it that there's a police officer in Kent, Washington, searching for Zechariah Caresh's license plate at 2:37 p.m., 12 minutes before he's first mentioned on the radio."
+- **CC-2132** [00:14:54](https://www.youtube.com/watch?v=PV0tI3L2opw&t=894s) · core · **Baron Coleman**: Baron Coleman says the open-source Flock search records show that search was run under the account of Tyson Seago.  
+  > "This is from the open source system that allows you to look at flock searches. This is it. Searched by Tyson Seo."
+- **CC-2133** [00:19:11](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1151s) · core · **Baron Coleman**: Baron Coleman says the same officer, at 2:44 p.m. and before any radio mention, searched Qureshi's old 2023 Texas license plates, not his current plates.  
+  > "It was Zechariah Keshi's old license plates from Texas. Not even his current license plates. His license plates from 2023."
+- **CC-2134** [00:20:59](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1259s) · core · **Baron Coleman**: Baron Coleman says at 3:13 p.m. the officer searched a plate belonging to a different Texas man surnamed Qureshi whose son (Baron first said nephew, then corrected) is also named Zachariah A. Qureshi.  
+  > "the plate, we learned through our investigation, came back to a different man with the last name Careshi, also from Texas."
+- **CC-2135** [00:23:25](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1405s) · core · **Baron Coleman**: Per the Tyson Seago deposition transcript shown, Seago is employed by the City of Kent Police Department in Washington as a technical detective and has been with Kent over 23 years.  
+  > "I'm currently employed by the City of Kent Police Department in Kent, Washington."
+- **CC-2136** [00:24:59](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1499s) · core · **Baron Coleman**: Per the Tyson Seago deposition transcript shown, Seago has been an FBI task force officer since approximately 2015.  
+  > "How long have you been a task force officer with the FBI? Uh, approximately 2015."
+- **CC-2137** [00:25:28](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1528s) · core · **Baron Coleman**: Baron Coleman says Charlie Kirk's killing was a state crime, not a federal crime, because the shooter never left Utah.  
+  > "A man in Utah was taken down by a man who never left the cozy confines of the great state of Utah. That equals a state crime."
+- **CC-2138** [00:26:13](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1573s) · core · **Baron Coleman**: Per the Tyson Seago deposition transcript shown, Seago is on the Seattle Safe Streets Task Force and a member of the FBI's Cellular Analysis Survey Team (CAST), certified September 2022.  
+  > "I'm also a member of the FBI's cast team or cellular analysis survey team. How long have you been a member of CAST? I became certified in September 2022."
+- **CC-2139** [00:26:48](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1608s) · core · **Baron Coleman**: Baron Coleman says Seago is a Fed very keyed in on the case who had information before the local Utah cops did.  
+  > "Okay. So, we got ourselves a Fed. We got ourselves a Fed. A Fed who's very keyed in on what's going on in this case."
+- **CC-2140** [00:27:39](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1659s) · core · **Baron Coleman**: Baron Coleman says there is suspicion the FBI might have played an outsized role in the incident before Charlie Kirk was killed.  
+  > "there's suspicion that the FBI might have played an outsized role in this incident before Charlie Kirk was taken down potentially."
+- **CC-2141** [00:27:50](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1670s) · core · **Baron Coleman**: Baron Coleman says the FBI took possession of much of the evidence (the gun, the phone), the defense cannot get it back, and the FBI took a long time to turn over analyses of the grains, the weapon and the phone.  
+  > "They took possession of a lot of the evidence, the gun, the phone. They defense can't get it. They can't get it back."
+  - ✓ supports [C-10025](https://www.youtube.com/watch?v=h76ZN-xXC6c&t=3052s) (2026-06-16): In her reply to the FBI, the host says the documents Tyler Robinson's defense team has been requesting have been in the FBI's possession since September.  
+    _Both say the FBI has held evidence since September that Robinson's defense cannot obtain._
+- **CC-2142** [00:28:43](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1723s) · core · **Baron Coleman**: Baron Coleman says the official narrative places Tyler Robinson turning himself in at the Washington County Sheriff's office at 9:00 p.m., adding he does not know if he did and sees evidence he might not have.  
+  > "the official narrative places Tyler Robinson at the Washington County Sheriff's Department at 9:00 p.m."
+  - ✓ supports [C-8072](https://www.youtube.com/watch?v=eLgD5yUVbko&t=2356s) (2026-04-13): The host says that, apart from the disparity between 9:00 p.m. and 10:26 p.m., the tape of when Robinson arrived at the Washington County Sheriff's Office is apparently lost.  
+    _Both treat the official 9:00 p.m. surrender time at the Washington County Sheriff's Office as doubtful._
+- **CC-2143** [00:29:12](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1752s) · core · **Baron Coleman**: Baron Coleman says Brian Davis testified Robinson turned himself in around 9:00 p.m. without personal knowledge of it, as hearsay allowed in the Utah court.  
+  > "But Brian Davis testified that he actually did turn himself in around 900 p.m. Well, he doesn't have personal knowledge of it, but hearsay is allowed in our Utah court here."
+  - ≈ qualifies [C-11441](https://www.youtube.com/watch?v=HZvwbfePe7o&t=2644s) (2026-07-27): The host says it has not been proven that Tyler Robinson confessed and turned himself in and that his dad turned him in, and that none of that was presented at the preliminary hearing.  
+    _Host says the turning-himself-in account was not presented at the preliminary hearing; Coleman says it came in only as Davis's hearsay without personal knowledge._
+- **CC-2144** [00:29:32](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1772s) · core · **Brian Davis**: In a clip played on the show, Brian Davis testifies he was told Robinson arrived at the Washington County Sheriff's Office about 9:00 p.m.  
+  > "I was told he arrived there about 900 p.m."
+  - ✗ contradicts [C-8073](https://www.youtube.com/watch?v=eLgD5yUVbko&t=2390s) (2026-04-13): Host references a search warrant indicating Tyler Robinson arrived at the Washington County Sheriff's Office at 10:26 p.m. with his parents.  
+    _Davis testifies Robinson arrived at the sheriff's office about 9:00 p.m., while the host cites a warrant putting his arrival at 10:26 p.m._
+- **CC-2145** [00:30:33](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1833s) · core · **Baron Coleman**: Baron Coleman says the first Flock search for Tyler Robinson's license plate was September 11, 2025 at 9:10 p.m., about 10 minutes after the official surrender time.  
+  > "September 11th, 2025 at 9:10 p.m. So around 10 minutes after the official narrative puts Tyler Robinson at the sheriff's department"
+- **CC-2146** [00:31:00](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1860s) · core · **Baron Coleman**: Baron Coleman says the 9:10 p.m. searcher appears as 'S. Ken' because Flock IDs use first initial plus first three letters of the last name, and his team could not identify who it is.  
+  > "we were able to determine who he was based on his first initial and first three letters of his last name. That's the format here. They use S. Ken."
+- **CC-2147** [00:31:42](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1902s) · core · **Baron Coleman**: Baron Coleman says Robinson's surrender was not publicly known at 9:10 p.m. (not on Fox News, podcasts or X).  
+  > "the important part of this is no one knew he turned himself in. This wasn't publicly known. This wasn't on Fox News."
+- **CC-2148** [00:32:20](https://www.youtube.com/watch?v=PV0tI3L2opw&t=1940s) · core · **Baron Coleman**: Baron Coleman says the 9:10 p.m. Robinson search came from the Kennewick, Washington police department (he first misspoke 'Kennington').  
+  > "This officer is not from uh Kent, Washington. He's from Kenowick, Washington."
+- **CC-2149** [00:33:27](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2007s) · core · **Baron Coleman**: Baron Coleman says the Axel 21 plane flew from California at close to 600 knots and around 9:05-9:10 p.m. made its lowest, slowest pass over St. George airport before heading to El Paso, timing that lines up with the Kennewick search.  
+  > "And around 9:05 or 910, it makes its lowest pass, its slowest pass right over the St. George airport and then it goes back up to altitude and up to speed and it heads to El Paso."
+- **CC-2150** [00:35:35](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2135s) · core · **Baron Coleman**: Baron Coleman says the first Flock search for Robinson's car from inside Utah was by a Juab County user at 8:38 a.m. on September 12.  
+  > "But it took place at 8:38 a.m. That's the first time somebody looked for Tyler Robinson's car."
+- **CC-2151** [00:38:35](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2315s) · core · **Baron Coleman**: Baron Coleman says Seago (Kent) and 'S. Ken' (Kennewick) searched the exact same car about 90 seconds apart around 12:21-12:22 p.m. on September 11, before Robinson was known.  
+  > "90 seconds apart from each other, these two guys who work in different municipal police departments on opposite sides of the state, not inside of Utah, search for the exact same car."
+- **CC-2152** [00:39:32](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2372s) · core · **Baron Coleman**: Baron Coleman says the car both Washington officers searched was a 2023 Toyota Camry (SE Nightshade), and he does not know its role in the case.  
+  > "The car they were searching for was a 2023 Camry. Toyota Camry. I have no idea the relationship this 2023 Toyota Camry plays in this case"
+- **CC-2153** [00:40:18](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2418s) · context · **Baron Coleman**: Baron Coleman says his team verified the plates on three different systems and cross-checked the VIN numbers.  
+  > "I pulled the license plates on two different systems. Daisy used a third system. Um, we cross-cheed and verified the VIN numbers."
+- **CC-2154** [00:41:27](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2487s) · core · **Baron Coleman**: Baron Coleman says Andrew Piskadlo, who drove a Nissan Armada and was mentioned on the radio, was later found by police to have nothing to do with it, yet drew many Flock searches.  
+  > "He drove a car, an Armada. It was We talked about the radio transmission. The police later learned he had nothing to do with it."
+- **CC-2155** [00:42:36](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2556s) · core · **Baron Coleman**: Baron Coleman says Provo police began searching a vehicle by plate within 2 hours 3 minutes of the shooting (2:26, 2:27, 2:29 p.m.).  
+  > "Provo police is searching for a vehicle by license plate within 2 hours and 3 minutes of Charlie Kirk being taken down."
+- **CC-2156** [00:44:20](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2660s) · core · **Baron Coleman**: Baron Coleman says his team broke the Flock ID hash to recover the license plate numbers being searched.  
+  > "we were able to to break the hash and figure out the numbers of the license plates, which is why we were able to determine who they were searching for"
+- **CC-2157** [00:44:41](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2681s) · core · **Baron Coleman**: Baron Coleman says a Utah officer, Austin Lurwell (as heard), also searched for Zachariah Qureshi.  
+  > "And then we get another guy from Utah. Now he's in on the game looking for Zechariah Keshi."
+- **CC-2158** [00:46:47](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2807s) · core · **Baron Coleman**: Baron Coleman says officers from Fort Worth, Texas and New Mexico also searched for Qureshi and Piskadlo after their names were on the radio.  
+  > "We got some other people joining in the fund from Fort Worth, Texas of all places looking for Zechariah Careshi."
+- **CC-2159** [00:47:38](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2858s) · core · **Baron Coleman**: Baron Coleman says multiple officers searched multiple times for a 2018 Jeep Unlimited Sahara tagged to the UVU shooting.  
+  > "Multiple police officers searched multiple times for a 2018 Jeep Unlimited Sahara. Why? And you can see it's from the UVU shooting."
+- **CC-2160** [00:48:56](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2936s) · core · **Baron Coleman**: Baron Coleman says a 2020 Chevy Silverado 1500LT and a Nissan Altima S labeled 'suspect vehicle' were also searched.  
+  > "Now we've got a Nissan Ultima S. Suspect vehicle. Nissan Ultima S. Did you know there were these all these different cars being searched for?"
+- **CC-2161** [00:49:50](https://www.youtube.com/watch?v=PV0tI3L2opw&t=2990s) · core · **Baron Coleman**: Baron Coleman says Seago searched a plate that returns no VIN or owner, and that tips say federal operators use unregistered fake license plates; he does not know if that happened here.  
+  > "Federal operators in particular will have a fake license plate made and put up on a car and then they can drive around and it's not registered to anybody."
+- **CC-2162** [00:52:28](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3148s) · core · **Baron Coleman**: Baron Coleman says Cedar City officer Timothy Bonszo (as heard) searched a 2008 Ford Edge Limited repeatedly from 2:21 to 2:49 p.m. and again at 3:04-3:09, as if tracking it in real time.  
+  > "He looked it up at 221, 222, 224, 230, 237, 242, 249. Almost like he was tracking this car in real time."
+- **CC-2163** [00:52:54](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3174s) · core · **Baron Coleman**: Baron Coleman says Tyler Robinson was allegedly at a Maverick gas station in Cedar City about 7:15 that morning.  
+  > "Allegedly Tyler Robinson at a Maverick gas station in Cedar City about 7:15 in the morning."
+  - ✓ supports [C-8061](https://www.youtube.com/watch?v=eLgD5yUVbko&t=2077s) (2026-04-13): The host presents a timeline of September 11 stating that at 7:15 a.m. Tyler Robinson was captured on camera filling up his gas at the Maverick gas station in Cedar City, after an FBI press conference at 7:00 a.m. confirming the weapon was found in the woods.  
+    _Both place Robinson at the Cedar City Maverick gas station about 7:15 a.m. on September 11._
+  - ✓ supports [C-12052](https://www.youtube.com/watch?v=5zgkrOaCCj4&t=1280s) (2026-08-10): The host recounts that after an hour at home Robinson drove about an hour to Cedar City, where he was captured on gas station footage filling his tank, and that no answer has been given for why he bought gas that far away.  
+    _Both say Robinson was captured on Cedar City gas station footage the morning of September 11._
+- **CC-2164** [00:53:38](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3218s) · core · **Baron Coleman**: Baron Coleman says an Ogden City user searched a 2024 Dodge Ram 2500 Laramie and a 2018 Subaru WRX in relation to the Charlie Kirk investigation, tagged 'Charlie Kirk decap'.  
+  > "He's looking for a 2024 Dodge Ram 2500 Laramie and a 2018 Subaru WRX in relation with the Charlie Kirk investigation."
+- **CC-2165** [00:54:31](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3271s) · core · **Baron Coleman**: Baron Coleman says Seago searched a 2018 Ford F-150 Raptor and a 2021 Subaru Forester at 5:47, 5:56 and 5:59, indicating real-time tracking.  
+  > "And he's looking for a 2021 Subaru Forester. And again, look at the times. 547, 556, 559. That indicates to me he is tracking this vehicle in real time."
+- **CC-2166** [00:54:56](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3296s) · core · **Baron Coleman**: Baron Coleman says he is pretty confident he knows the role the Jeep Unlimited Sahara played.  
+  > "And I will say this, I am pretty confident I know the role the Jeep unlimited Sahara played and that's good information Sue has."
+- **CC-2167** [00:55:52](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3352s) · core · **Baron Coleman**: Baron Coleman says 'S. Ken' searched a 2024 Honda Navi 110B small motorcycle and tagged it as related to the shooting.  
+  > "I don't know if this is a related or not, but SK seems to think it was because he put it related to the shooting."
+- **CC-2168** [00:57:50](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3470s) · core · **Baron Coleman**: Baron Coleman says S. Ken's 9:07-9:10 p.m. run (Honda motorcycle, Ford F-150 Lariat, then Robinson's plate) suggests he thought the vehicles were related and together, indicating Robinson was not alone at some point.  
+  > "I get the suspicion that this guy was looking up these vehicles because he thought they were related and that they were together."
+- **CC-2169** [00:58:54](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3534s) · core · **Baron Coleman**: Baron Coleman says S. Ken searched Robinson's plate again at 9:11 p.m. and the next morning, suggesting he wondered whether someone else was driving the car.  
+  > "And that Ken going back the next morning after we've all been told that Tyler Robinson had turned himself in makes me believe he wondered where the car was."
+- **CC-2170** [00:59:46](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3586s) · core · **Baron Coleman**: Baron Coleman says that if the Toyota Camry SE Nightshade has anything to do with the case, the official lone-actor narrative is broken.  
+  > "And if there's something to that car, then the official narrative is broken."
+- **CC-2171** [01:00:12](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3612s) · core · **Baron Coleman**: Baron Coleman says the official story is Robinson told no one until 11:00 when his phone automatically texted Lance Twiggs, and Twiggs does not drive a 2023 Toyota Camry SE Nightshade.  
+  > "And he didn't tell anyone until 11:00 when his phone automatically texted Lance Twigs. That's the official story. And Lance Twigs does not drive a 2023 Toyota Camry SE Nightshade."
+- **CC-2172** [01:00:43](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3643s) · core · **Baron Coleman**: Baron Coleman says a search labeled 'Kirk suspect at Maverick' likely concerns Robinson because there is video of a man resembling him in a Dodge Challenger getting gas at 7:15 a.m.  
+  > "because there's video of a guy who kind of looks like Tyler Robinson in a Dodge Challenger getting gas at 7:15 in the morning."
+- **CC-2173** [01:00:54](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3654s) · core · **Baron Coleman**: Baron Coleman says the last search was an Ogden City officer looking for the Jeep Unlimited Sahara on September 13, about 48 hours after Robinson turned himself in.  
+  > "And then then we're back to the Jeep Unlimited Sahara. That was the last search, September 13th."
+- **CC-2174** [01:02:27](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3747s) · core · **Baron Coleman**: Baron Coleman says the pattern of searches in his spreadsheet does not support the conclusion that police believed Tyler Robinson acted alone.  
+  > "But I don't know how you can look at that and conclude that the police believed Tyler Robinson acted alone."
+- **CC-2175** [01:02:49](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3769s) · context · **Baron Coleman**: Baron Coleman says the same FBI leadership that called Robinson a lone actor also said the January 6 pipe-bomb suspect (Brian Cole Jr.) was a lone actor.  
+  > "In fact, we were told by this exact same FBI. We were told by this exact same FBI that the guy who was putting the pipes out the night before the January 6 rally."
+- **CC-2176** [01:03:54](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3834s) · context · **Baron Coleman**: Per the Dan Bongino letter to Congressman Massie shown, one of Bongino and Patel's first FBI initiatives was a new strategy to investigate the January 6 pipe bomb.  
+  > "one of our first initiatives was to aggressively pursue a new strategy to investigate the January 6th pipe bomb, terror attack."
+- **CC-2177** [01:04:56](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3896s) · context · **Baron Coleman**: Per the Kash Patel X post shown, when Patel and Bongino came to the FBI in March the pipe-bomb investigation had been stalled for nearly five years.  
+  > "When Dan Bonginina and I came to the FBI in March, the pipe bomb investigation had been stalled for going on 5 years."
+- **CC-2178** [01:05:54](https://www.youtube.com/watch?v=PV0tI3L2opw&t=3954s) · context · **Baron Coleman**: Baron Coleman says Pam Bondi and Dan Bongino are out and Jeanine Pirro is the only one Patel thanked who is still there.  
+  > "Pam Bondi out. Dan Bonjina out. I think Piro Jane Piro is the only one that's still there."
+  - ✓ supports [C-10155](https://www.youtube.com/watch?v=3QJqtW_NOSI&t=2912s) (2026-06-18): Answering a viewer, the host says the New York Times was recounting events from the start of the administration, when Trump began to "crash out" over the files. She says this was long before the Iran episode, and that Pam Bondi is no longer in the White House.  
+    _Both say Pam Bondi is no longer in her post._
+- **CC-2179** [01:07:02](https://www.youtube.com/watch?v=PV0tI3L2opw&t=4022s) · context · **Baron Coleman**: Baron Coleman says Brian Cole Jr., interrogated without counsel, broke after agents suggested his family might have to go through similar interrogation if he did not confess.  
+  > "And what finally got him to break was, it seems, they mentioned that his family might have to go through something similar if he didn't confess."
+  - ✓ supports [C-13814](https://www.youtube.com/watch?v=q4m-kGzvwjw&t=2837s) (2026-10-01): Per the account of Brian Cole Jr.'s interrogation that the host reads, agents ignored his distress and stimming, told him lying to federal agents is another crime, and he said yes to being the man in the video after twice denying recognizing him; the host calls the coerced confession positively sickening and cites Tucker Carlson's interview with Cole's parents.  
+    _Both say Brian Cole Jr.'s confession was coerced in an FBI interrogation; the host adopts the account she reads._
+- **CC-2180** [01:10:19](https://www.youtube.com/watch?v=PV0tI3L2opw&t=4219s) · core · **Baron Coleman**: Baron Coleman says citizen investigators in the courtroom said the footage was not what the influencers claimed, showing the influencer crowd lied about seeing 4K HD footage.  
+  > "But for these citizen investigators, we had two of them in the courtroom that day and they walked out and said, "That's not what we saw.""
+  - ✓ supports [C-11512](https://www.youtube.com/watch?v=AoYZel7_cGQ&t=164s) (2026-07-29): The host says influencers were brought to the courtroom and are going out and lying about what they saw inside it.  
+    _Both say the courtroom influencers lied about what the preliminary-hearing footage showed._
+  - ✓ supports [C-11532](https://www.youtube.com/watch?v=AoYZel7_cGQ&t=816s) (2026-07-29): The host says the same courtroom influencers whom the show platformed earlier said the footage was in 4K and that the person was Tyler Robinson.  
+    _Both say the courtroom influencers claimed the footage was 4K and showed Tyler Robinson._
+- **CC-2181** [01:11:09](https://www.youtube.com/watch?v=PV0tI3L2opw&t=4269s) · core ↩ · **Baron Coleman**: Baron Coleman says the security footage Candace Owens released shows Jack Posobiec and Brandon Tatum flat out lied about it, defending her against claims she never breaks news.  
+  > "when she drops the security footage, you can see that Jack Basobic and Brandon Tatum just flat out lied to your face."
+- **CC-2182** [01:12:05](https://www.youtube.com/watch?v=PV0tI3L2opw&t=4325s) · context · **Baron Coleman**: Baron Coleman says Steve Baker has identified someone he thinks placed the pipe bombs, based on tips, gait analysis and distinctive shoes, and believes Brian Cole Jr. is a patsy.  
+  > "In fact, Steve Baker's identified somebody he thinks did do it based on tips and gate analysis and and the presence of distinctive shoes"
+  - ✓ supports [C-2567](https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=489s) (2025-11-10): The host says the person responsible for dropping off the January 6 pipe bombs was revealed to be a 31-year-old woman and United States Capitol Police officer she names as Shauni Kerkhoff, credits reporter Steve Baker with the discovery, plays Glenn Beck interviewing Baker (who says a federal source responded "She's one of us"), and says it was a 5-year investigation involving forensic analysis.  
+    _Both say reporter Steve Baker identified someone other than Brian Cole Jr. as the J6 pipe-bomb placer._
+- **CC-2183** [01:18:00](https://www.youtube.com/watch?v=PV0tI3L2opw&t=4680s) · context · **Baron Coleman**: Baron Coleman says Steve Baker's surveillance footage puts Brian Cole Jr. on the wrong side of the Capitol, on the route he described, to have placed the pipe bombs.  
+  > "The important part though is the location of Brian Cole Jr. in this video is on the wrong side of the capital to have anything to do with placing the pipe bombs."
+- **CC-2184** [01:24:20](https://www.youtube.com/watch?v=PV0tI3L2opw&t=5060s) · context · **Baron Coleman**: Baron Coleman says he deeply believes the FBI knows it has the wrong man in Brian Cole Jr. and intended to convict him (he calls it conjecture).  
+  > "I deeply believe the FBI knows they have the wrong guy. I deeply believe they know they have the wrong guy and I believe they intended to convict him."
+- **CC-2185** [01:27:44](https://www.youtube.com/watch?v=PV0tI3L2opw&t=5264s) · context · **Baron Coleman**: Baron Coleman says many of the same people promising the evidence against Tyler Robinson is overwhelming say the same about Brian Cole Jr.  
+  > "A lot of the same people that will go online and promise you that the evidence against Tyler Robinson is overwhelming are going online and promising you that the evidence against Brian Cole Jr. is overwhelming."
+- **CC-2186** [01:29:07](https://www.youtube.com/watch?v=PV0tI3L2opw&t=5347s) · context · **Baron Coleman**: Baron Coleman says Dan Bongino has already been fired or quit.  
+  > "Dan Bon China has already been uh well fired or quit one or the other."
+  - ✓ supports [C-4209](https://www.youtube.com/watch?v=9k2xrAC0H88&t=1480s) (2025-12-17): The host says Trump said he thinks Dan Bongino wants to get back to his show as he steps down as assistant director of the FBI.  
+    _Both say Dan Bongino left the FBI._
+  - ✓ supports [C-4208](https://www.youtube.com/watch?v=9k2xrAC0H88&t=1480s) (2025-12-17): The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which it looks like Trump has confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.  
+    _Both say Dan Bongino left or was leaving the FBI._
+- **CC-2187** [01:30:18](https://www.youtube.com/watch?v=PV0tI3L2opw&t=5418s) · context · **Baron Coleman**: Baron Coleman says Dan Bongino and Kash Patel have been as verbally confident about Brian Cole Jr.'s guilt as about Tyler Robinson's.  
+  > "But I I dare say that Dan Bonina and Cash App Patel are as confident or have been verbally as confident about the guilt of Brian Cole Jr."
+- **CC-2188** [01:32:05](https://www.youtube.com/watch?v=PV0tI3L2opw&t=5525s) · core · **Baron Coleman**: Baron Coleman says if Tyler Robinson is convicted without more evidence than has been brought so far, nobody is safe.  
+  > "If Tyler Robinson gets convicted and they don't bring any more evidence than they brought so far, nobody is safe."
+- **CC-2189** [01:44:25](https://www.youtube.com/watch?v=PV0tI3L2opw&t=6265s) · tangential · **Baron Coleman**: Baron Coleman says Candace Owens asked him to do the show and warned him what would come with it.  
+  > "Candace warned me this was coming when when she asked me to do the show."
+- **CC-2190** [02:05:26](https://www.youtube.com/watch?v=PV0tI3L2opw&t=7526s) · core · **Baron Coleman**: Baron Coleman says several searched tags did not come back to any car, which, if they are law-enforcement ghost tags, opens a new avenue for the investigation.  
+  > "this opens up a whole new avenue for the investigation because there were several tags that did not come back to a core."
+- **CC-2191** [02:08:32](https://www.youtube.com/watch?v=PV0tI3L2opw&t=7712s) · context · **Baron Coleman**: Baron Coleman says the FBI arrested Brian Cole Jr. right after Steve Baker reported a suspect (a female federal employee) with the five-year statute of limitations nearly run.  
+  > "Steve Baker reported that he thought he knew who it was and the statute was running. There's a 5-year statute of limitations."
+  - ✓ supports [C-2567](https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=489s) (2025-11-10): The host says the person responsible for dropping off the January 6 pipe bombs was revealed to be a 31-year-old woman and United States Capitol Police officer she names as Shauni Kerkhoff, credits reporter Steve Baker with the discovery, plays Glenn Beck interviewing Baker (who says a federal source responded "She's one of us"), and says it was a 5-year investigation involving forensic analysis.  
+    _Both say Steve Baker identified a female federal employee as the J6 pipe-bomb suspect near the five-year mark._
+- **CC-2192** [02:15:27](https://www.youtube.com/watch?v=PV0tI3L2opw&t=8127s) · core · **Baron Coleman**: Baron Coleman says the lifted white truck by the fountain in the recently released UVU footage was, he believes, a UVU-owned vehicle.  
+  > "Back by the fountain. I mean, that was a UVU vehicle. That was a UVU owned vehicle, I believe."
+- **CC-2193** [02:23:46](https://www.youtube.com/watch?v=PV0tI3L2opw&t=8626s) · core · **Baron Coleman**: Baron Coleman says 'S. Ken' is unlikely to be a retiring sergeant named Ken because Flock user IDs are first initial plus last name, not title plus last name.  
+  > "Um, not likely because it's first initial, last name. It's not title, last name."
+- **CC-2194** [02:26:30](https://www.youtube.com/watch?v=PV0tI3L2opw&t=8790s) · core · **Baron Coleman**: Baron Coleman says the lack of blood in the first videos is because Charlie Kirk's heart probably stopped almost immediately and he lost a lot of blood very quickly.  
+  > "I kind of look at as his heart probably stopped pretty immediately. He lost a lot of blood very quickly."
+  - ≈ qualifies [C-592](https://www.youtube.com/watch?v=ja26iltROkM&t=470s) (2025-09-22): The host says she did not see any blood in the footage, and the only blood she saw was on Charlie's left hand, which she says people read as the blood having moved forward.  
+    _Coleman accepts little blood is visible in the first videos but attributes it to Kirk's heart stopping almost immediately._
+- **CC-2195** [02:39:12](https://www.youtube.com/watch?v=PV0tI3L2opw&t=9552s) · core · **Baron Coleman**: Baron Coleman says he doubts the searches were for George Zinn's car because Zinn was in jail.  
+  > "were they looking for George Zen's car? I doubt it because he was in jail. He was in jail."
+- **CC-2196** [02:43:45](https://www.youtube.com/watch?v=PV0tI3L2opw&t=9825s) · context · **Baron Coleman**: Baron Coleman says TPUSA does not do its own fundraising texting but has hired out a company.  
+  > "trust me, TP USA is not sitting around texting. They've hired out a company."
+- **CC-2197** [02:48:36](https://www.youtube.com/watch?v=PV0tI3L2opw&t=10116s) · core · **Baron Coleman**: Baron Coleman says it is not possible that Lance Twiggs has a car in Tyler Robinson's name because they were roommates, not spouses.  
+  > "No, I don't believe that's possible at all. Don't believe it's possible. They weren't spouses. They were roommates"
+
+## K-040
+**[Wading Into the Fire of Leah Files and Shawn Ryan; Evidence of Tyler Robinson Accomplice? - Ep 189](https://www.youtube.com/watch?v=MtogX3pzfBM)** · Baron Coleman · 2026-10-20 · 215 min · scope: first half in full; superchat half: host's own new case claims only
+
+- **CC-2198** [00:02:30](https://www.youtube.com/watch?v=MtogX3pzfBM&t=150s) · core · **Baron Coleman**: Baron Coleman says he will discuss evidence he thinks shows Tyler Robinson was not working alone, while stressing it is neither definitive nor proof.  
+  > "I want to discuss evidence I think that shows Tyler Robinson was not working alone. Is it definitive? No. Is it proof? No."
+  - ≈ qualifies [C-1958](https://www.youtube.com/watch?v=Qt0VHV-POCg&t=743s) (2025-10-29): The host says the evidence is overwhelming that Tyler Robinson did not act alone, did not fire the shot and did not use a .30-06 rifle.  
+    _Coleman says the evidence that Robinson did not act alone is not definitive or proof, narrowing the host's 'overwhelming evidence'._
+- **CC-2199** [00:03:53](https://www.youtube.com/watch?v=MtogX3pzfBM&t=233s) · core · **Baron Coleman**: Baron Coleman says the Flock camera searches he covered on his Sunday show originated primarily from two officers, one in Kennewick, Washington and one in Kent, Washington.  
+  > "those flock camera searches originated from primarily two officers, one in Kenowick, Washington, one in Kent, Washington."
+- **CC-2200** [00:21:50](https://www.youtube.com/watch?v=MtogX3pzfBM&t=1310s) · context · **Baron Coleman**: Baron Coleman says Leah Files willingly admits she worked in intelligence, for intelligence contractors and in the offices of some federal agencies, but he does not know whether she still works on their behalf.  
+  > "Leah very willingly admits she worked in in intelligence. She worked for intelligence contractors. She worked in the offices of some of these federal agencies."
+- **CC-2201** [00:22:25](https://www.youtube.com/watch?v=MtogX3pzfBM&t=1345s) · context · **Baron Coleman**: Baron Coleman says Shawn Ryan was in an elite military unit and in the CIA itself, so he has fed ties, but Baron does not know whether he is still in the CIA.  
+  > "He was in the uh CIA itself, so he has fed ties. Is he still in the CIA? I don't know. I really don't know."
+- **CC-2202** [00:23:40](https://www.youtube.com/watch?v=MtogX3pzfBM&t=1420s) · context · **Baron Coleman**: Baron Coleman says the Charlie Kirk case is the first open-source investigation, started the moment the bang was heard and continuing for more than a year.  
+  > "this is the first open-source investigation that has started the moment we heard the bang and has continued for more than a year."
+- **CC-2203** [00:39:10](https://www.youtube.com/watch?v=MtogX3pzfBM&t=2350s) · context · **Baron Coleman**: Baron Coleman says Leah Files alleged there were weeks of preparation with Shawn Ryan's producers before the interview, but the pre-interview footage did not show much evidence of that.  
+  > "There was an allegation made by Leah that there were weeks of preparation that went into this show. Leah working with his producers for weeks at a time."
+- **CC-2204** [00:59:40](https://www.youtube.com/watch?v=MtogX3pzfBM&t=3580s) · context · **Leah Files**: In a clip played on the show, Leah Files says she thinks Charlie Kirk's assassination was almost the catalyst for the division of the right.  
+  > "And and I think Charlie Kirk's assassination almost was like the catalyst to it all. If you look back, that's what it looks like."
+- **CC-2205** [01:01:05](https://www.youtube.com/watch?v=MtogX3pzfBM&t=3665s) · core · **Baron Coleman**: Baron Coleman says the right is divided because of Israel, and that this single issue explains why Thomas Massie and Charlie Kirk 'had to go'.  
+  > "There's a very clear answer for why the right is divided. Israel. That's it. That's it. Why did Thomas Massie have to go? Why did Charlie Kirk have to go?"
+- **CC-2206** [01:01:25](https://www.youtube.com/watch?v=MtogX3pzfBM&t=3685s) · core · **Baron Coleman**: Baron Coleman says Charlie Kirk's letter to Benjamin Netanyahu was about that issue, paraphrasing it as saying that on college campuses all students want to talk about is Israel and Kirk was tired of carrying Israel's water.  
+  > "If you remember the letter Charlie Kirk wrote to Benjamin Netanyahu, it was that issue. That issue is what he was talking about. I go on college campuses, all they want to talk about is your country."
+- **CC-2207** [01:06:40](https://www.youtube.com/watch?v=MtogX3pzfBM&t=4000s) · core · **Baron Coleman**: Baron Coleman says Charlie Kirk was probably taken out because he was opposing 'our greatest ally' (Israel), and releasing the actual reality of that would go poorly.  
+  > "Why did why did Charlie Kirk have that? Well, probably because he was opposing our greatest ally and then it'd go poorly if we released the actual reality of that."
+- **CC-2208** [01:19:35](https://www.youtube.com/watch?v=MtogX3pzfBM&t=4775s) · context · **Leah Files**: In a clip played on the show, Leah Files says Flock's Nova add-on links a license plate to open-source data on the owner, and a white-hat hacker found it was also pulling information from the dark web.  
+  > "But they've also, this hacker, white glove hacker, found a vulnerability where they actually were also getting information from the dark web."
+- **CC-2209** [01:23:15](https://www.youtube.com/watch?v=MtogX3pzfBM&t=4995s) · core · **Baron Coleman**: Baron Coleman says the plate searches (officer, exact second, date) shown on his Sunday show came from public Flock audit logs via the website Have I Been Flocked, rejecting claims that the data is not public.  
+  > "When we tell you this plate was searched by this officer at this exact second on this particular day, there's a reason we're saying that the website we use"
+- **CC-2210** [01:24:52](https://www.youtube.com/watch?v=MtogX3pzfBM&t=5092s) · context · **Leah Files**: In a clip played on the show, Leah Files says Have I Been Flocked holds about 426,940,000 Flock audit records covering almost 4.7 million searched plates, and only 9% of searches were for crime.  
+  > "You have 426,940,000 records in here. Okay, you have almost 4.7 million plates that have been searched and 9% of them were for crime."
+- **CC-2211** [01:35:10](https://www.youtube.com/watch?v=MtogX3pzfBM&t=5710s) · context · **Baron Coleman**: Baron Coleman says Leah Files attributed motive in attacking Shawn Ryan over his investments, when the list of companies he invested in came from his own LinkedIn page.  
+  > "where she got the list of the companies he invested in was on his LinkedIn page that he edited and added those investment companies."
+- **CC-2212** [01:36:40](https://www.youtube.com/watch?v=MtogX3pzfBM&t=5800s) · core · **Baron Coleman**: Baron Coleman says Brian Harpole has come to look terrible from his November interview with Shawn Ryan, in which Ryan did not ask many follow-up questions.  
+  > "I go back to the Brian Harpole interview he did uh in November of last year. In that Brian Harpole interview, Brian Harpole has come to look terrible from that exchange."
+- **CC-2213** [01:37:15](https://www.youtube.com/watch?v=MtogX3pzfBM&t=5835s) · core · **Baron Coleman**: Baron Coleman says he now wonders whether Shawn Ryan had an angle all along and knew Brian Harpole was 'full of bull butter', leaving it to podcasters to pick apart.  
+  > "But I now looking back at it and wondering if Shawn didn't have an angle the entire time. He knew Brian Harpole was full of bull butter."
+- **CC-2214** [01:40:00](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6000s) · core · **Baron Coleman**: Baron Coleman says the Maverick gas station off the interstate in Cedar City, Utah is where we were told Tyler Robinson rolled in for gas at about 7:15 or 7:17 a.m. the morning after Charlie Kirk was shot.  
+  > "the Maverick Gas Station is the location of what we were told is Tyler Robinson rolling in at 7:15 a.m. the morning after Charlie Kirk was taken down. I think 7:17 a.m."
+  - ✓ supports [C-8061](https://www.youtube.com/watch?v=eLgD5yUVbko&t=2077s) (2026-04-13): The host presents a timeline of September 11 stating that at 7:15 a.m. Tyler Robinson was captured on camera filling up his gas at the Maverick gas station in Cedar City, after an FBI press conference at 7:00 a.m. confirming the weapon was found in the woods.  
+    _Both place Robinson fueling at the Cedar City Maverick station about 7:15 a.m. the morning after the shooting._
+  - ✓ supports [C-12052](https://www.youtube.com/watch?v=5zgkrOaCCj4&t=1280s) (2026-08-10): The host recounts that after an hour at home Robinson drove about an hour to Cedar City, where he was captured on gas station footage filling his tank, and that no answer has been given for why he bought gas that far away.  
+    _Both place Robinson on Cedar City gas station footage the morning after the shooting._
+- **CC-2215** [01:40:20](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6020s) · core · **Baron Coleman**: Baron Coleman says the gas station video shows a car that looks like Tyler Robinson's and a young man wearing what Robinson was allegedly wearing (maroon shirt, jeans, sneakers, a hat) getting gas and leaving.  
+  > "We see a young man drop jump out of that car wearing what looks like something Tyler Robinson was allegedly wearing. A maroon shirt, jeans, sneakers, uh a hat, and he gets gas"
+- **CC-2216** [01:41:35](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6095s) · core · **Baron Coleman**: Baron Coleman says there is some question, because of how the gas station video was sourced, whether it is planted footage.  
+  > "Now, there is some question about this because of how this vehicle how this uh video was sourced, whether or not this is planted footage, but that's supposed to be Tyler Robinson."
+  - ≈ qualifies [C-8061](https://www.youtube.com/watch?v=eLgD5yUVbko&t=2077s) (2026-04-13): The host presents a timeline of September 11 stating that at 7:15 a.m. Tyler Robinson was captured on camera filling up his gas at the Maverick gas station in Cedar City, after an FBI press conference at 7:00 a.m. confirming the weapon was found in the woods.  
+    _Coleman conditions the host's flat statement by raising whether the Maverick footage was planted._
+- **CC-2217** [01:43:45](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6225s) · core · **Baron Coleman**: Baron Coleman says, by comparing grille, lights, bumper, antenna, windshield trim and mirrors, that the white pickup in the Cedar City gas station lot is a 2020 Chevy Silverado LT.  
+  > "That is a Chevy Silverado LT. A 2020 Chevy Silverado LT in your image right there. And now, let me go back to the truck at the Cedar City gas station"
+- **CC-2218** [01:44:10](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6250s) · core · **Baron Coleman**: Baron Coleman says the license plate of this truck was one of the plates searched on Flock in the searches his team pulled.  
+  > "When we pulled those license plates, this truck was one of the license plates that was searched. This truck was one of the license plates that was searched."
+- **CC-2219** [01:45:10](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6310s) · core · **Baron Coleman**: Per the spreadsheet of Flock data shown, Baron Coleman says searches were made at 9:56 p.m. and 9:57 p.m. on a Flock ID whose hash reverse-engineers to the plate of a 2020 Chevy Silverado 1500LT.  
+  > "At 9:56 p.m. and 9:57 p.m., a search was made. this flock ID. If you reverse engineer that hash, you get a license plate that winds up being a 2020 Chevy Silverado 1500LT."
+- **CC-2220** [01:45:25](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6325s) · core · **Baron Coleman**: Baron Coleman says these searches came from Ogden City, Utah, in a flurry beginning at 9:54 p.m. (captioned 'texts', likely 'searches') that first traced to a 2018 Jeep Wrangler Unlimited Sahara, then the Silverado at 9:56.  
+  > "This came from Ogden City, Utah, and it came from a flurry of texts that began at 9:54 p.m. that traced back to a 2018 Jeep Unlimited Sahara."
+- **CC-2221** [01:46:15](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6375s) · core · **Baron Coleman**: Baron Coleman says an eyewitness, whose accuracy is not yet known, claims he helped serve dinner to Tyler Robinson at the Cowboy steakhouse in Panguitch, Utah from 8:55 to 9:47 p.m.  
+  > "We have an eyewitness who claims that he served uh helped serve dinner to Tyler Robinson at the Penguitch Steakhouse in Panguage, Utah."
+  - ✓ supports [C-12917](https://www.youtube.com/watch?v=bpXkPHpz9po&t=2150s) (2026-09-09): Per the host, if the steakhouse receipt is verified, Tyler Robinson did not leave the steakhouse until about 9:47 PM at the earliest.  
+    _Both place Robinson at the Panguitch steakhouse until about 9:47 p.m._
+- **CC-2222** [01:46:35](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6395s) · core · **Baron Coleman**: Baron Coleman says a receipt timed 9:47 p.m. was produced showing someone at the bar seat where the eyewitness says he spotted a man he is 100% sure was Tyler Robinson.  
+  > "a receipt was produced that showed somebody at a chair on the bar where this guy allegedly spotted what he believes 100% he said was Tyler Robinson."
+  - ✓ supports [C-12175](https://www.youtube.com/watch?v=E7P2ShoYDUA&t=2970s) (2026-08-17): The host says she spoke to the owner, who told her he pulled the receipt and that it was Tyler Robinson's receipt, so she put the steakhouse visit on her timeline.  
+    _Both say the steakhouse produced a receipt tied to Tyler Robinson's visit._
+- **CC-2223** [01:47:40](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6460s) · core · **Baron Coleman**: Baron Coleman says he finds it 'awfully convenient' that the Flock searches started about when Tyler Robinson, if that was him, would have been leaving the steakhouse in Panguitch.  
+  > "I find it interesting that these searches started about the time that if that was Tyler Robinson, he would have been leaving the Penguin smokehouse or the Cowboy smokehouse in Panguage."
+- **CC-2224** [01:48:05](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6485s) · core · **Baron Coleman**: Baron Coleman says several viewers identifying as dispatchers and police told him that when covertly following someone, police enter the plate of the following vehicle, not the target's, so the searched Jeep and Silverado could have been following Robinson.  
+  > "if you're following somebody, but you don't want people to know you're following somebody, you don't put the license plate of the car you're trying to track"
+- **CC-2225** [01:49:10](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6550s) · core · **Baron Coleman**: Baron Coleman says it is his belief Tyler Robinson was a 'psy' (captioned; likely 'patsy') who may have been working with others or been followed by others.  
+  > "It's my belief Tyler Robinson was a psy. He may or may not have been working with another number of people or he may have been followed by a number of people"
+- **CC-2226** [01:49:45](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6585s) · core · **Baron Coleman**: Baron Coleman says the Silverado was at the gas station when Robinson pulled in and still there when he left, so he wonders if it was a predetermined stop and does not believe the truck was following him without his knowledge.  
+  > "The truck was there when he pulled in. The truck was still there when he left. So, I don't believe that that the truck was following him without him knowing."
+- **CC-2227** [01:50:10](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6610s) · core · **Baron Coleman**: Baron Coleman says Tyler Robinson's defense team needs to identify who was in the Silverado and the Jeep Wrangler Unlimited Sahara, and should get owner details for every vehicle searched on Flock.  
+  > "Because the defense team needs to figure out who was in that truck. The defense team needs to figure out who was in that Chevy I mean, in that Jeep Sahara unlimited"
+- **CC-2228** [01:51:50](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6710s) · core · **Baron Coleman**: Baron Coleman says there is now legitimate evidence that the searched white Chevy Silverado 1500LT may have been with Robinson and at the same gas station the next morning, about 10 hours after it was searched.  
+  > "There is now legitimate evidence on the table that this may have been with him. This vehicle they're looking for, this white Chevy Silverado 1500LT, might have been at the same gas station."
+- **CC-2229** [01:52:57](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6777s) · core · **Baron Coleman**: Baron Coleman says if these vehicles were near Robinson's car all day, it might be evidence he was part of a larger plan, or that he did not do the shooting and was part of a getaway team.  
+  > "it might be evidence that Tyler Robinson was part of a larger plan. It might be evidence that Tyler Robinson didn't do the shooting and he was part of a getaway team."
+- **CC-2230** [01:53:30](https://www.youtube.com/watch?v=MtogX3pzfBM&t=6810s) · core · **Baron Coleman**: Baron Coleman says his team has found what they believe are other vehicles and has identified some of the previously unidentified officers who ran the Flock searches, to be covered later in the week.  
+  > "we have found what we believe are other vehicles. We'll cover those later this week. We're still running some of that down. Um, we have some additional information on some of the officers who were doing the searches."
+- **CC-2231** [01:57:45](https://www.youtube.com/watch?v=MtogX3pzfBM&t=7065s) · core · **Baron Coleman**: Baron Coleman says in his opinion Charlie Kirk was taken out in an orchestrated manner involving many parties.  
+  > "In my opinion, Charlie Kirk was taken out in a in a uh orchestrated manner involving multiple parties. Many many parties. I just believe that."
+- **CC-2232** [01:58:05](https://www.youtube.com/watch?v=MtogX3pzfBM&t=7085s) · core · **Baron Coleman**: Baron Coleman says if so, the planners are very powerful and rich and would infiltrate and attack the investigators, then set them attacking each other to distract from the investigation.  
+  > "if that's true, the people who planned that are very powerful and very rich. Poor people don't plan stuff like that."
+- **CC-2233** [02:00:38](https://www.youtube.com/watch?v=MtogX3pzfBM&t=7238s) · core · **Baron Coleman**: Baron Coleman says, asked about a bomb threat used to empty Timpanogos hospital, that he has not heard of a bomb threat.  
+  > "I mean, I'd have to know if there was a bomb threat. Are you I've not heard of a bomb threat."
+- **CC-2234** [02:00:55](https://www.youtube.com/watch?v=MtogX3pzfBM&t=7255s) · core · **Baron Coleman**: Baron Coleman says there is at least one other video that shows another of the Flock-searched vehicles, at a 'really interesting place'.  
+  > "I will say there is at least another video that has one of the other vehicles in it. Um, and it is at a really interesting place"
+- **CC-2235** [02:04:50](https://www.youtube.com/watch?v=MtogX3pzfBM&t=7490s) · context · **Baron Coleman**: Baron Coleman says he does not think it is a coincidence that the infighting among case creators immediately followed exposure of the clipping campaigns.  
+  > "first I'll answer your question. Yes, I do. I do not think it's a coincidence. I think it's related."
+- **CC-2236** [02:05:40](https://www.youtube.com/watch?v=MtogX3pzfBM&t=7540s) · context · **Baron Coleman**: Baron Coleman says there is a group of people trying to disrupt the investigation into who killed Charlie Kirk, some appearing to investigate but actually just creating chaos.  
+  > "There's a group of people looking for who killed Charlie Kirkow and why. There are a group of people trying to disrupt that investigation."
+- **CC-2237** [02:13:35](https://www.youtube.com/watch?v=MtogX3pzfBM&t=8015s) · core ↩ · **Baron Coleman**: Baron Coleman says some of the most shocking footage in the investigation was released by Candace Owens, showing people behind the tent in the immediate aftermath filming, standing against the car and directing traffic.  
+  > "Some of the most shocking footage I've seen in this entire investigation was released by Candace Owens of the activity behind the tent in the immediate aftermath."
+  - ✓ supports [C-12589](https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1343s) (2026-09-01): The host says never-before-seen footage she plays shows Butch Hibbs briefly dipping down, presumably to open his camera app, and recording multiple angles of the scene within seconds of the shot, while remaining in place near the tent.  
+    _Both describe footage the host released showing people behind the tent filming in the immediate aftermath._
+- **CC-2238** [02:14:15](https://www.youtube.com/watch?v=MtogX3pzfBM&t=8055s) · core · **Baron Coleman**: Baron Coleman says he would never have climbed a wall to video the scene or pulled out a camera like Butch Hibbs did, and that something weird happened with those people.  
+  > "You know what I'm not thinking about? Climbing up on a wall and videoing it. Not going to cross my mind. Pulling out my camera like Butch Hibs and videoing it."
+  - ✓ supports [C-12589](https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1343s) (2026-09-01): The host says never-before-seen footage she plays shows Butch Hibbs briefly dipping down, presumably to open his camera app, and recording multiple angles of the scene within seconds of the shot, while remaining in place near the tent.  
+    _Both say Butch Hibbs pulled out his camera and filmed the scene right after the shot._
+- **CC-2239** [02:16:42](https://www.youtube.com/watch?v=MtogX3pzfBM&t=8202s) · core · **Baron Coleman**: Baron Coleman says TPUSA is not withholding the full footage of the Charlie Kirk statue vandals because it is acting in good faith, and speculates TPUSA fears online sleuths would solve it within a week.  
+  > "Well, it's not because they're acting in good faith. I can assure you that. But I that's attributing motive."
+- **CC-2240** [02:35:05](https://www.youtube.com/watch?v=MtogX3pzfBM&t=9305s) · core · **Baron Coleman**: Baron Coleman says a viewer's observation that Robinson stopped to check Google Maps roughly halfway between two Quick Quack car washes is another data point for why he refuses to believe Robinson acted alone.  
+  > "this is another data point that I refuse to believe he was acting alone after a long day of of planned out execution."
+  - ✓ supports [C-8282](https://www.youtube.com/watch?v=SubDoZWHARo&t=3286s) (2026-04-15): The host says she believes multiple people were involved in killing Charlie Kirk and that she does not believe Tyler Robinson acted alone on the rooftop.  
+    _Both say Tyler Robinson did not act alone._
+  - ✓ supports [C-11907](https://www.youtube.com/watch?v=ChuWo-n49B8&t=3525s) (2026-08-05): The host says she certainly does not think Tyler Robinson killed Charlie Kirk on a rooftop and acted alone.  
+    _Both reject that Tyler Robinson acted alone._
+- **CC-2241** [02:42:30](https://www.youtube.com/watch?v=MtogX3pzfBM&t=9750s) · context · **Baron Coleman**: Baron Coleman says Shawn Ryan should confirm or deny whether Leah Files was told not to say certain names.  
+  > "Um, yes. I think he should confirm or deny. I I think it I mean it's just a value to the community."
+- **CC-2242** [02:44:30](https://www.youtube.com/watch?v=MtogX3pzfBM&t=9870s) · context · **Baron Coleman**: Baron Coleman says this is Candace Owens' last week doing her show and she probably will not be back until January.  
+  > "this is the last week Candace is doing her show and then she will not probably be back until the beginning of the year."
+- **CC-2243** [02:44:45](https://www.youtube.com/watch?v=MtogX3pzfBM&t=9885s) · context · **Baron Coleman**: Baron Coleman says he has been asked to sit in Candace Owens' chair and continue her program in the intervening weeks.  
+  > "Your humble host has been asked to sit in her chair and continue her program for those intervening weeks."
+- **CC-2244** [02:49:25](https://www.youtube.com/watch?v=MtogX3pzfBM&t=10165s) · context · **Baron Coleman**: Baron Coleman says he does not know it to be a fact that Leah Files was told right before the interview not to name certain names; he heard her say it happened over several weeks.  
+  > "I don't know that she was told right before the interview not to talk about certain names. I don't know that to be a fact."
+- **CC-2245** [02:52:20](https://www.youtube.com/watch?v=MtogX3pzfBM&t=10340s) · context · **Baron Coleman**: Baron Coleman says Shawn Ryan's multi-part interview with Victor Marx was back in 2023, when Marx was not as well known.  
+  > "There's an interview multiart. That was back in 2023. I don't know that Victor Marx was as known back then."
+- **CC-2246** [03:03:25](https://www.youtube.com/watch?v=MtogX3pzfBM&t=11005s) · core · **Baron Coleman**: Baron Coleman says the steakhouse server's on-camera account did not say receipts were run early, and that the server saying Robinson had a beer while the receipt lists a soda is a discrepancy, but the server still said he was 100% sure.  
+  > "Look, that's a discrepancy in what he said. You're free to evaluate it. You can reject it. you can accept it, but it doesn't change the fact that he said he 100%"
+  - ≈ qualifies [C-12177](https://www.youtube.com/watch?v=E7P2ShoYDUA&t=3127s) (2026-08-17): The host says the server gave a first-person account of serving him, that they contacted the FBI, and that he shared his experience, recognized Tyler Robinson on the news, and gave an interview; she adds that she spoke to the owner.  
+    _Both say the server identified Robinson first-hand, but Coleman notes a beer-versus-soda discrepancy with the receipt._
+- **CC-2247** [03:13:45](https://www.youtube.com/watch?v=MtogX3pzfBM&t=11625s) · context · **Candace Owens**: Per Candace Owens' X post shown and read on the show, she says she is on the phone with lawyers and Jeremy Boring has no contractual right to break confidentiality and lie about the reasons for her termination, and she has a right to respond with proof.  
+  > "I'm on the phone with the lawyers and it looks like Jeremy Boring actually has no contractual right to blow the confidentiality and lie about the reasons for my termination."
+- **CC-2248** [03:18:05](https://www.youtube.com/watch?v=MtogX3pzfBM&t=11885s) · core · **Baron Coleman**: Baron Coleman says he offered (he thinks) $10,000 for the Charlie Kirk statue vandalism footage to be released within a week and it was not released, which he calls 'awfully telling'.  
+  > "Didn't I offer $10,000 to release the statue footage in a week and they didn't do it? I gave them a week to do it."
+  - ✓ supports [C-13049](https://www.youtube.com/watch?v=O4Zw3bCALjU&t=2350s) (2026-09-14): The host says TPUSA has released no information on who vandalized the statue, no footage or description, and is not asking the public for help, directing people to Turning Point Action instead.  
+    _Both say the Charlie Kirk statue vandalism footage has not been released._
+- **CC-2249** [03:23:00](https://www.youtube.com/watch?v=MtogX3pzfBM&t=12180s) · context · **Baron Coleman**: Baron Coleman says Tyler Robinson's defense can state alternative possible causes of Charlie Kirk's death (e.g. devices under his shirt) only with a good-faith basis, or it would be reprimanded.  
+  > "Can this Can this defense state alternative possible causes of death? Sure. Sure. They would have to have um a good faith basis to do so or they would be reprimanded."

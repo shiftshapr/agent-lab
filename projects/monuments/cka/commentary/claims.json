@@ -34826,5 +34826,3579 @@
   "mentions_new": [],
   "relevance": "context",
   "responds_to_host": false
+ },
+ {
+  "id": "CC-2040",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:30:05",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=1805s",
+  "claim": "Baron Coleman says Candace Owens did a show that kicked off with The Atlantic article 'Inside a conservative operation to hijack your social media feed'.",
+  "snippet": "Candace Owens did a show on this article or did a show that kicked off with this article inside a conservative operation to hijack your social media feed.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2041",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:31:21",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=1881s",
+  "claim": "Baron Coleman says, per The Atlantic article shown (by Ali Breland, dated September 2, 2026), a service run from Latvia offers payments for short social-media clips designed to look like grassroots GOP support.",
+  "snippet": "A service run from Latvia offers payments for short social media friendly clips designed to look like grassroots GOP support. This is by Alli Breeland.",
+  "mentions": [
+   "N-354"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2042",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:32:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=1940s",
+  "claim": "Baron Coleman says, per a May 15 tweet by Taylor Lorenz shown, Lorenz pitched a feature on clipping to many outlets the previous year with a scoop about a big Erika Kirk clipping campaign after Charlie Kirk's killing, and was told it was too niche.",
+  "snippet": "I can't explain how crazy it is to have pitched a feature on clipping to million outlets last year with a great scoop about a big Erica Kerp clipping campaign",
+  "mentions": [
+   "N-1",
+   "N-2",
+   "N-120"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2043",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:33:12",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=1992s",
+  "claim": "Baron Coleman says that, by Taylor Lorenz's 'nine months' timing, she learned of an Erika Kirk clipping campaign either very shortly after Charlie Kirk died or possibly before he died.",
+  "snippet": "So nine months ago would have been before Charlie died or just shortly after Charlie died.",
+  "mentions": [
+   "N-1",
+   "N-2",
+   "N-120"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2044",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:34:52",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2092s",
+  "claim": "Baron Coleman asks why a viral clipping campaign for Erika Kirk would be needed if Charlie Kirk appointed her and the TPUSA board carried out the appointment.",
+  "snippet": "Well, if he appointed her and the board agreed with his decision and they actually did the appointment because that's the one who really matters, why do we care what people think of Erica Kirk?",
+  "mentions": [
+   "N-1",
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2045",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:35:40",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2140s",
+  "claim": "Baron Coleman says Candace Owens is not paying for clipping campaigns.",
+  "snippet": "Same thing with Candace Owen. She's not out there paying clipping campaigns.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2046",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:36:57",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2217s",
+  "claim": "Baron Coleman says, per the New York Magazine article shown, Joe Lem ran a company called Flutify that at its peak operated 65,000 dummy social media accounts to drum up attention for paying clients.",
+  "snippet": "Lem ran a company called Flutify, which at its peak operated 65,000 dummy social media accounts used to drum up attention on behalf of paying clients.",
+  "mentions": [],
+  "mentions_new": [
+   "Joe Lem"
+  ],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2047",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:41:35",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2495s",
+  "claim": "Baron Coleman says, per a tweet dated September 10, 2025 by the chief marketing officer of a clipping company, Charlie Kirk had a $1 million clipping campaign active when he died.",
+  "snippet": "Let me look at the date. Yes, September 10, 2025. Charlie had a $1 million clipping campaign active.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2048",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:42:25",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2545s",
+  "claim": "Baron Coleman says Charlie Kirk had not done an event in a couple of months before he died on September 10; his last major public event was the Student Action Summit in mid-summer, so he asks who was paying a million dollars over the summer to promote him.",
+  "snippet": "Charlie hadn't done an event in a couple of months. He died on September 10th. The last time he really did a major public event was the student action summit in the middle of the summer.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2049",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:43:05",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2585s",
+  "claim": "Baron Coleman reads the clipping CMO's tweet saying the man who shot Kirk was clearly trained because he went right for the jugular, and that someone hated Kirk enough to pay for his death.",
+  "snippet": "The man who blanked him was clearly a trained blanker as he went right for the jugular. Someone hated Kirk enough to pay for his untimely demise.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2050",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:44:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2660s",
+  "claim": "Baron Coleman says he disagrees with the narrative that Tyler Robinson was radicalized by Charlie Kirk clips, and says he does not think Robinson is who killed Charlie Kirk.",
+  "snippet": "I don't think it is. I don't think it I don't think that's why Charlie died. I don't think that's who killed Charlie.",
+  "mentions": [
+   "N-1",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2051",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:44:50",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2690s",
+  "claim": "Baron Coleman suggests that whoever paid a million dollars to promote Charlie Kirk during the summer, when TPUSA had few events, may have wanted Kirk's fame to peak at the moment he died.",
+  "snippet": "Perhaps someone who wanted Charlie to be top of mind. They wanted his fame to peak at the moment he passed.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2052",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:45:10",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2710s",
+  "claim": "Baron Coleman says Charlie Kirk was killed in public in front of 3,000 people with cell phone cameras because whoever did it wanted it to have an effect.",
+  "snippet": "No, you do it in public in front of 3,000 people with cell phone cameras because you want it to have an effect.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2053",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:46:10",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2770s",
+  "claim": "Baron Coleman says a message in the clipping Discord server six hours after Charlie Kirk was shot asked what happens with the money now, showing a Charlie Kirk campaign was active.",
+  "snippet": "This is a message 6 hours after Charlie Kirk was taken out. Darn. What the blank happens with that money now? LOL.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2054",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:47:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2840s",
+  "claim": "Baron Coleman says Servius (Matiss Tabuns) ran the clipping campaign and was the main person in charge.",
+  "snippet": "Servious is the guy who ran this campaign. He was the the the main guy in charge.",
+  "mentions": [
+   "N-351"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2055",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:48:12",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=2892s",
+  "claim": "Baron Coleman says the clipping work is outsourced mostly to India and Eastern Europe, and that server messages show clippers asking who Charlie Kirk is and what a Republican is.",
+  "snippet": "There are messages in here of people saying, \"Who's Charlie Kirk? What is a Republican?\"",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2056",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:50:40",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3040s",
+  "claim": "Baron Coleman says the 'AL clipping' campaign (famous person debating abortion, race, immigration; 30 cents per thousand views, $13,000 weekly budget) was the Charlie Kirk campaign, with AL meaning anti-left or anti-liberal.",
+  "snippet": "That's the Charlie Kirk debate. That's the Charlie Kirk campaign. They call it AL clipping because AL originally meant anti-left or anti-liberal campaign.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2057",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:51:33",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3093s",
+  "claim": "Baron Coleman says the AL campaign announcement was dated July 18, 2025, two months before Kirk died, just after the Student Action Summit and just before the Hamptons meeting where Kirk was given the 'hard sell'.",
+  "snippet": "This is two months before Charlie dies. This is just after the student action summit. This is just before Charlie will go before the Hampton Hustle up in the Hamptons",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2058",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:52:25",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3145s",
+  "claim": "Baron Coleman says the clipping payouts are made in US dollar stablecoins (USDC or USDT).",
+  "snippet": "All the conversions are to US dollar coins. USDC or USDT. So, this is money.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2059",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:53:08",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3188s",
+  "claim": "Baron Coleman says the second 'AS clipping' campaign stood for anti-socialism and was an anti-Zohran Mamdani campaign.",
+  "snippet": "AS stands for antisocialism. This was an anti-mani campaign. This was an anti-mandani campaign.",
+  "mentions": [
+   "N-223"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2060",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:54:40",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3280s",
+  "claim": "Baron Coleman says, per the campaign ad shown, only US views count and clippers are told to use a US proxy.",
+  "snippet": "Just keep in mind only US views count. So make sure you're using a US proxy.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2061",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:56:12",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3372s",
+  "claim": "Baron Coleman says that in the last few days all mentions of TPUSA and Erika Kirk were wiped from the clipping servers, but misspellings let some survive.",
+  "snippet": "One of the interesting things about this is in the last few days. All of the mentions of TPSA and Erica Kirk have been wiped.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2062",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:57:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3440s",
+  "claim": "Baron Coleman says the podcaster Dom ('I Don't Give A Dam') had a former participant confirm that AL meant anti-leftism (a Charlie Kirk-oriented campaign) and AS meant anti-socialism/anti-Mamdani.",
+  "snippet": "So, she had a former participant of this organization who confirmed to her that AL was anti-leftism or anti-liberalism and AS was anti- socialism and anti-Zamani.",
+  "mentions": [
+   "N-1",
+   "N-223"
+  ],
+  "mentions_new": [
+   "Dom (I Don't Give A Dam podcast)"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2063",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:58:50",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3530s",
+  "claim": "Baron Coleman says server messages from the day before Charlie Kirk died show a rush to launch campaigns and coded secrecy about the AL campaign, which he calls interesting timing.",
+  "snippet": "Now, this is all taking place again the day before Charlie Kirk passes. There's this rush to figure out what's all going on here.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2064",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:59:12",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3552s",
+  "claim": "Baron Coleman says that if he were law enforcement or a defense lawyer for Tyler Robinson, he would want to ask about the timing of the clipping campaigns.",
+  "snippet": "I think if I was a law enforcement professional, if I was a defense lawyer for Tyler Robinson or anyone else involved in any of these lawsuits, this is the kind of stuff I would want to ask about.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2065",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:59:45",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3585s",
+  "claim": "Baron Coleman says server members were told not to ask about the AL campaign in public and to direct-message someone named Kimmy instead.",
+  "snippet": "They're saying don't ask about the AL clipping in public. This is not something we're allowed to publicly discuss. You have to direct message someone named Kimmy.",
+  "mentions": [],
+  "mentions_new": [
+   "Kimmy (clipping server)"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2066",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:01:00",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3660s",
+  "claim": "Baron Coleman says, per the Clipit bot archive, an updated AL campaign description dated June 4, 2026 required that Charlie Kirk be clearly visible and speaking, showing the campaign was still promoting Kirk nine months after his death.",
+  "snippet": "What types of videos are allowed for the AL clipping campaign? Users should follow the campaign guidelines. Charlie Kirk must be clearly visible and speaking meme edits.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2067",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:02:30",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3750s",
+  "claim": "Baron Coleman says the campaign keeps promoting Charlie Kirk because TPUSA's current leader (Erika Kirk) is 'dreadful' and cannot be highlighted, so they want Charlie to remain the identifiable head of TPUSA.",
+  "snippet": "They still want Charlie Kirk to be the identifiable head of TPUSA. No one else fits the bill.",
+  "mentions": [
+   "N-1",
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2068",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:03:02",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3782s",
+  "claim": "Baron Coleman says there is an online campaign to discredit Candace Owens, with people such as Gary and 'Lisa knows nothing' posting hundreds of times a month about her.",
+  "snippet": "We're familiar that there is an online campaign to discredit Candace Owens, to call her evil. We've got people posting hundreds of times a month about how terrible she is.",
+  "mentions": [
+   "N-3",
+   "N-262",
+   "N-614"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2069",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:03:38",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3818s",
+  "claim": "Baron Coleman says Candace Owens talked about one of the clipping videos coming from a Google Drive allegedly tied to Blake Neff.",
+  "snippet": "Candace talked about one of those videos came from a Google Drive tied to allegedly Blake Win.",
+  "mentions": [
+   "N-3",
+   "N-159"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2070",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:05:35",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=3935s",
+  "claim": "Baron Coleman says the people doing this clipping almost certainly do not live in the United States, as their payment records show payment in local currencies.",
+  "snippet": "So, the people involved in this are likely people you've never heard of. They almost certainly don't live in the United States.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2071",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:06:40",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4000s",
+  "claim": "Baron Coleman says an unlisted training video found via the Discord shows Servius, the head of these campaigns, and asks on whose behalf he was paying a million dollars to promote Charlie Kirk, saying 'we could probably guess'.",
+  "snippet": "On behalf of who? We don't know. Who's paying a million dollars to promote Charlie Kirk? I mean, we could probably guess. We could probably guess.",
+  "mentions": [
+   "N-1",
+   "N-351"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2072",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:10:25",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4225s",
+  "claim": "Baron Coleman says the Charlie Kirk clips are made by overseas clippers given Google Drive access, and posted on X accounts routed through American servers so they appear American.",
+  "snippet": "put it on an X feed that purports to be an American. It's using it's routed through an American server",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2073",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:14:32",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4472s",
+  "claim": "Baron Coleman says, per a campaign account update shown, videos rejected as Candace Owens content cannot be appealed, meaning the campaign bans Candace Owens content.",
+  "snippet": "Your video was rejected as Candace Owens content and it actually is equals do not appeal.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2074",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:15:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4520s",
+  "claim": "Baron Coleman says whoever wrote the campaign rules does not want people going to Candace Owens' YouTube for context or the original video.",
+  "snippet": "Obviously, whoever wrote the rules for this campaign does not want people going to Candace Owen's YouTube look for context or to find the original video",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2075",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:16:45",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4605s",
+  "claim": "Baron Coleman says a server message dated February 22, 2026, which survived because Erika Kirk's name was misspelled, asked when clippers would be paid for the Erika Kirk AmFest campaign.",
+  "snippet": "When are we getting paid for the Erica Kirk Afest thing? Now, notice this is February 22nd, 2026.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2076",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:17:50",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4670s",
+  "claim": "Baron Coleman says clippers were told to delete messages naming Erika Kirk and to use 'EK' instead, for plausible deniability, under threat of being banned.",
+  "snippet": "I used uh they said use the word EK. Why? Plausible deniability. Plausible deniability.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2077",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:18:25",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4705s",
+  "claim": "Baron Coleman says Erika Kirk cannot be supported on her own merit, so millions of dollars are being invested in clip campaigns that must look organic.",
+  "snippet": "We have this woman who cannot [clears throat] possibly be supported on her own merit. We're going to have to invest millions of dollars in supporting this woman.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2078",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:19:50",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4790s",
+  "claim": "Baron Coleman says the AmFest campaign paid a $15 blanket incentive because Erika Kirk content was poorly received and views stayed low.",
+  "snippet": "So, they even ran an incentive because, and I'll tell you why, because it was getting poor. It was very poorly received. No one was interacting with it.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2079",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:20:35",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4835s",
+  "claim": "Baron Coleman says a payout message shows a clipper received about $15.70 in USDC for 'EK Amfest and orbital clipping', thanking Kimmy, Servius and Max.",
+  "snippet": "That is your evidence. Payout for EK Amfest and orbital clipping. Kimmy Servius Max. Thank you so much.",
+  "mentions": [
+   "N-2",
+   "N-351"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2080",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:20:58",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4858s",
+  "claim": "Baron Coleman says Erika Kirk's town hall with Bari Weiss was the week before AmFest and the week after she met Candace Owens in Nashville, after which she spent five days doing media in New York and Washington DC.",
+  "snippet": "It was the week after she met with Candace Owens. She flies to Nashville, meets with Candace Owens, then goes to New York and spends five days in New York and Washington DC doing media appearances",
+  "mentions": [
+   "N-2",
+   "N-3",
+   "N-278"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2081",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:21:56",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4916s",
+  "claim": "Baron Coleman says a 'town hall' clipping campaign paying 75 cents per thousand views promoted Erika Kirk's town hall with Bari Weiss, and that someone put six figures into it.",
+  "snippet": "Someone put six figures worth of money to promote Erica Kirk's town hall appearance with Barry Weiss. Why? No one watched it.",
+  "mentions": [
+   "N-2",
+   "N-278"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2082",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:22:38",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4958s",
+  "claim": "Baron Coleman says a payout of 278 Czech korunas (about $15) on January 16 was titled 'Erica Payout'.",
+  "snippet": "278 check cronoms. It's about 15 bucks, give or take. That was on January 16th. Notice the title here. Erica Payout.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2083",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "01:23:12",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=4992s",
+  "claim": "In a clip played on the show, Candace Owens says, before reading an email describing Erika Kirk as an emotional asset, that everyone was gaslighting them by saying the clip was organic and nobody was asked to boost it.",
+  "snippet": "Remember, everyone was gaslighting us and saying that this was totally just organic. And no, they they weren't asking people to boost this clip for any particular reason.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2084",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:23:35",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5015s",
+  "claim": "Baron Coleman says Candace Owens accused them of boosting Erika Kirk's viral 'I just want to go home' video, they said it was organic, and he will show evidence it was not organic, as Candace predicted.",
+  "snippet": "After that went viral, Candace accused them of boosting it. You guys must be boosting this. This is not an organic.",
+  "mentions": [
+   "N-2",
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2085",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "01:25:06",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5106s",
+  "claim": "In a clip played on the show, Candace Owens reads an email ('Amendment to the Erica Kirk video clip') saying the clip of Erika Kirk leaving the ballroom saying 'I just want to go home' is the strongest emotional-response asset of the incident and recommending all communication channels amplify it further.",
+  "snippet": "Our recommendation forward is that all communication channels should amplify this clip further.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2086",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:25:12",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5112s",
+  "claim": "Baron Coleman says Erika Kirk was treated as an emotional asset in a campaign the White House Military Office was allegedly boosting.",
+  "snippet": "So, she's an emotional asset in this totally organic campaign that the White House military office allegedly was boosting.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2087",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:25:55",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5155s",
+  "claim": "Baron Coleman says a 'WH Clipping' campaign title page shows a start date of April 29, 2026 and end date of May 13, 2026, within four days of the White House Correspondents' Dinner (April 25) video of Erika Kirk saying 'I just want to go home'.",
+  "snippet": "Start date 429 2026. End date 513 2026. Um I think correspondence dinner 2026 was on April 25th.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2088",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:27:35",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5255s",
+  "claim": "Baron Coleman says a June 2, 2026 incentive message about the Monster Lab (ML) campaign is evidence the campaign ran and related to the White House Correspondents' Dinner shooting.",
+  "snippet": "So, that is the that is evidence that this campaign was running. It was related to the White House correspondence center uh dinner shooting.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2089",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:28:12",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5292s",
+  "claim": "Baron Coleman says, per a screenshot from Dom's podcast, a social media clipping campaign was run about the July preliminary hearing.",
+  "snippet": "This is from the July preliminary hearing. They actually ran a social media clipping campaign about their preliminary hearing.",
+  "mentions": [],
+  "mentions_new": [
+   "Dom (I Don't Give A Dam podcast)"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2090",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:28:30",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5310s",
+  "claim": "Baron Coleman says he has serious concerns about jury tampering from paid promotion around the preliminary hearing.",
+  "snippet": "I have serious concerns over jury tampering. Serious concerns over jury tampering.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2091",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:29:25",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5365s",
+  "claim": "Baron Coleman says a clipper quoted a rule that until July 19 only content supporting Erika Kirk and TPUSA relating to the trial was allowed, while the five-day preliminary hearing ran July 6 to 10.",
+  "snippet": "Reminder, until July 19, the only content that is allowed is anything that supports Erica Kirk and TPSA relating to the trial.",
+  "mentions": [
+   "N-2",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2092",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:30:45",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5445s",
+  "claim": "Baron Coleman says the message quoting the trial rule has since been deleted, after Dom captured it on her stream, and calls the deletion evidence of guilt and a cover-up.",
+  "snippet": "the message quoting the rule has since been deleted. It's since been deleted. Dom was able to capture it on her stream last night before it was deleted.",
+  "mentions": [],
+  "mentions_new": [
+   "Dom (I Don't Give A Dam podcast)"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2093",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:31:45",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5505s",
+  "claim": "Baron Coleman says the clipping servers also ran a 'BS' Ben Shapiro debates clipping campaign that required clips to push Shapiro's agenda forward.",
+  "snippet": "Can Ben Shapiro reaction clips be submitted for the debates clipping BS clipping channel?",
+  "mentions": [
+   "N-97"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2094",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:32:37",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5557s",
+  "claim": "Baron Coleman suggests that whoever is paying for the pro-Ben Shapiro campaign is obviously the same kind of payer behind the Erika Kirk campaign.",
+  "snippet": "And if the answer to that question seems pretty obvious on its face, who do you think is paying for the Erica Kirk campaign, making her the hero?",
+  "mentions": [
+   "N-2",
+   "N-97"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2095",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:34:05",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5645s",
+  "claim": "Baron Coleman says, per a July 31, 2026 server notice, 'Street Clipping' is the Steven Crowder campaign and was among the hot campaigns.",
+  "snippet": "Street clipping is the Steven Crowder channel. SC Stephven Crowder Street Clipping. SC is spicy hot right now.",
+  "mentions": [
+   "N-259"
+  ],
+  "mentions_new": [],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2096",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:36:40",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5800s",
+  "claim": "Baron Coleman says an Ami Horowitz clipping campaign paid $500 per million views with a $4,000 total budget running August 18 to September 21, 2026.",
+  "snippet": "$500 per million views. That equals 50 cents per thousand. That's a pretty healthy campaign. Total budget only four grand.",
+  "mentions": [],
+  "mentions_new": [
+   "Ami Horowitz"
+  ],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2097",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:38:05",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5885s",
+  "claim": "Baron Coleman says Nurse Casey is the only authorized paid clipper for his show that he knows of.",
+  "snippet": "Now, your humble host has Nurse Casey. That's the only person I know of that that is an authorized paid clipper.",
+  "mentions": [],
+  "mentions_new": [
+   "Nurse Casey"
+  ],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2098",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:38:50",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=5930s",
+  "claim": "Baron Coleman calls Ben Shapiro, Steven Crowder and Erika Kirk frauds for paying people to clip and promote them.",
+  "snippet": "I'd also be a fraud. I think these people are frauds. Ben Shapiro, Steven Crowder, Erica Kirk.",
+  "mentions": [
+   "N-2",
+   "N-97",
+   "N-259"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2099",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Ben Shapiro",
+  "speaker_node": "N-97",
+  "timestamp": "01:42:35",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6155s",
+  "claim": "In a clip played on the show from a TPUSA event last week, Ben Shapiro says that as a Jew he does not believe Jesus is divine, but that Americans should go back to church.",
+  "snippet": "Obviously, I'm a Jew. Definitionally, this means I do not believe that Jesus is divine. That doesn't mean that I don't believe that Americans should not go back to church.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2100",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:45:12",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6312s",
+  "claim": "Baron Coleman says the Ben Shapiro TPUSA clip looks exactly like clipping-campaign output, asks what TPUSA is doing hosting Shapiro, and says it is far from Charlie Kirk's vision for TPUSA.",
+  "snippet": "It's Ben Shapiro. It's him. But I I've got to ask the question, TPUSA, what the hell are you doing?",
+  "mentions": [
+   "N-1",
+   "N-97"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2101",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:45:50",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6350s",
+  "claim": "Baron Coleman says instructions for an Erika Kirk clipping campaign dated December 17, 2025 (during AmFest) set up an 'Erica Kirk clips submission form' requiring at least 5,000 views.",
+  "snippet": "here is, uh, some directions, some instructions on the Erica Kirk clipping campaign from December, shortly after, um, Afest or in the middle of Afest, December 17 of 2025.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2102",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:47:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6440s",
+  "claim": "Baron Coleman says the Erika Kirk clipping submission form on Google Docs is still live.",
+  "snippet": "It's still live. If you want to take a look at it, I'll show it to you. This is the Erica Kirk clipping form on the official Google Docs.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2103",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:48:05",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6485s",
+  "claim": "Baron Coleman says another clipping site currently has an active James O'Keefe campaign with a $7,080 budget at $1.50 per thousand views.",
+  "snippet": "They actually currently have a James O'Keefe campaign. I know there are a lot of James O'Keefe fans out there.",
+  "mentions": [
+   "N-167"
+  ],
+  "mentions_new": [],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2104",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:50:40",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6640s",
+  "claim": "Baron Coleman says that after Charlie Kirk's death they are still paying to promote him, Erika Kirk, TPUSA and the White House Correspondents' Dinner shooting.",
+  "snippet": "They're still with his death. They're still paying to promote him and they're paying to promote Erica Kirk and they're paying to promote TPSA and they're paying to promote the White House correspondence dinner shooting.",
+  "mentions": [
+   "N-1",
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2105",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:51:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6680s",
+  "claim": "Baron Coleman says that at the White House Correspondents' Dinner shooting a man with a loaded shotgun burst in, and someone was hit not by him but by a Secret Service agent.",
+  "snippet": "Someone was hit, not by him, but by the Secret Service guy. And they're paying to promote it.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2106",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:51:45",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6705s",
+  "claim": "Baron Coleman says the paid promotion convinces him that what he believes about 'Turning Point USA 2.0' is probably true: that they are depraved.",
+  "snippet": "It does convince me that what I believe about Turning Point USA 2.0 know is probably true. That these guys are depraved.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2107",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:52:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6740s",
+  "claim": "Baron Coleman says he believes the people posting 10 to 30 times a day about him, Candace Owens and others in the Charlie Kirk investigating movement are being paid, though he did not cover it on this show.",
+  "snippet": "these people that are posting 10, 20, 30 times a day about me or Candace Owens or any of the other people in the truther movement",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2108",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:52:45",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=6765s",
+  "claim": "Baron Coleman says he believes Gary told people his business was in real trouble around the time of the killing, after which he 'took a hard turn', suggesting a financial incentive.",
+  "snippet": "I believe Gary was telling people, for example, his business was in real trouble about the time this all happened and all of a sudden he took a hard turn and became kind of crazy.",
+  "mentions": [
+   "N-614"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2109",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:01:30",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=7290s",
+  "claim": "Baron Coleman says, answering a viewer, that law enforcement does not have to wait for the Tyler Robinson trial before investigating someone else, and may already have started.",
+  "snippet": "They may already have. We don't know. You know, I I got they may have they may have can't say, but no, they don't have to wait for the Tyler Robinson trial to play out.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2110",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:03:55",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=7435s",
+  "claim": "Baron Coleman says his Friday X Space examined whether a Discord name was Tyler Robinson's, without reaching an answer.",
+  "snippet": "We we really tore apart the whole Discord question about was it Tyler Robinson's Discord name? We didn't get to an answer",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2111",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:05:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=7520s",
+  "claim": "Baron Coleman says he does not recall Charlie Kirk ever addressing Harrison Smith's X post about his worry of being killed, and does not know if Kirk knew of it.",
+  "snippet": "I don't recall Charlie ever addressing Harrison Smith's expost. I don't know that he knew about it, but I don't recall him ever addressing it.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [
+   "Harrison Smith"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2112",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:05:35",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=7535s",
+  "claim": "Baron Coleman says he has not seen pictures released from the photographers behind Charlie Kirk, and that those photographers, on Kirk's right and behind him, turned as soon as the shot was fired to face where Kirk would be carried out, as if they knew.",
+  "snippet": "as soon as the bang happened, they turned and started facing where Charlie would eventually come out like they knew where he was going to go.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2113",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:07:05",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=7625s",
+  "claim": "Baron Coleman says that, based on formatting, the screenshots of Erika Kirk's messages about the bank must have been captured before one full year had passed, but it is unknown when they were captured.",
+  "snippet": "what we discovered was based on the formatting, they would have had to have been screen capped prior to the expiration of one full year.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2114",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:11:50",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=7910s",
+  "claim": "Baron Coleman says his Charlie Kirk investigation has involved thousands of hours of research and talking to dozens of firsthand witnesses.",
+  "snippet": "They don't have time to to go through, you know, gosh, I don't even know, thousands of hours of research, uh, talk to dozens of of firsthand account witnesses.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2115",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:25:00",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=8700s",
+  "claim": "Baron Coleman says filings he looked up show Asher Moss's Alliance for American Leadership had $9.6 million revenue last year and $9.5 million spending, up from $725,000 the year before.",
+  "snippet": "So, this is their revenue last year, $9.6 million. They spent $9.5 million.",
+  "mentions": [],
+  "mentions_new": [
+   "Asher Moss"
+  ],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2116",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:29:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=8960s",
+  "claim": "Baron Coleman says those who keep saying Tyler Robinson's team did not argue the charges at the preliminary hearing are dishonest and pushing talking points.",
+  "snippet": "It's because they're dishonest. They're lying liars who lie. They're thinning out talking points. They're not trying to get to the truth.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2117",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:34:20",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=9260s",
+  "claim": "Baron Coleman agrees that Erika Kirk was at her peak before anyone knew who she was and says every dollar spent promoting her has reduced her in the eyes of many.",
+  "snippet": "She was at her peak before anyone knew who she was. That's a true fact. Before anyone knew who she was, she was at her peak.",
+  "mentions": [
+   "N-2"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2118",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:42:25",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=9745s",
+  "claim": "Baron Coleman, asked whether what Blake Neff, Mikey McCoy and others had in their right pockets going into the hospital could be scrubs, says he hadn't considered a whole set of scrubs fitting in pockets and asks why they wouldn't use the backpacks they had.",
+  "snippet": "I haven't considered that someone could get a whole set of scrubs in their pockets, but I don't know. What are you doing, T? And why wouldn't they just use the backpacks they had?",
+  "mentions": [
+   "N-159",
+   "N-190"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2119",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:56:50",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=10610s",
+  "claim": "Baron Coleman says Britta came into his X Space, was given a mic and added to the speakers panel, said nothing and quickly left.",
+  "snippet": "Britta came into my exspace that we were hosting. I gave her a mic.",
+  "mentions": [
+   "N-863"
+  ],
+  "mentions_new": [],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2120",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:59:58",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=10798s",
+  "claim": "Baron Coleman says all official and unofficial narratives have Tyler Robinson turning himself in on September 11; the open question is whether it was before or after about 8:30 or 9:00, which he does not know.",
+  "snippet": "we do have proof he turned himself in on the 11th because I think both I think all narratives, official and unofficial narratives have him turning himself in on the 11th.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2121",
+  "kid": "K-038",
+  "date": "2026-10-12",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "03:00:53",
+  "url": "https://www.youtube.com/watch?v=BZtHQeZ936k&t=10853s",
+  "claim": "Baron Coleman says an early surrender by Tyler Robinson would need a lot of explaining, while a later surrender would not, and either way it does not put him on the roof.",
+  "snippet": "If so, there's a lot of explaining that needs to be done. If he turned himself in later, that takes care of all that. Doesn't put him on the roof",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2122",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:01:01",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=61s",
+  "claim": "Baron Coleman says that, but for the investigation's released text messages, the public would not know Charlie Kirk had left the pro-Israel cause the day before he died.",
+  "snippet": "A lot of the text messages you've seen, for example, you wouldn't know Charlie Kirk had left the pro-Israel cause the day before he died, but for the investigation.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2123",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:01:57",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=117s",
+  "claim": "Baron Coleman says police were looking for more than one person and that he thinks there is evidence they did not think Tyler Robinson acted alone and he may have been part of a team.",
+  "snippet": "In fact, they were looking for more than one person. And I think there's evidence that we will discuss tonight that they didn't think Tyler Robinson was alone.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2124",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:04:11",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=251s",
+  "claim": "Baron Coleman says that, following up a story Candace Owens covered about a TPUSA-related man arrested for child-related offenses, his gut is that TPUSA knew the man was about to be arrested and that there were potentially cover-up efforts ahead of time (he says he cannot state it as fact).",
+  "snippet": "Yes, they actually did know he was about to be arrested and it looks like there were potentially some cover up efforts taking place ahead of time.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2125",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:06:13",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=373s",
+  "claim": "Baron Coleman says Flock license-plate searches were run not only for Tyler Robinson's car but also for other people's cars.",
+  "snippet": "yes there were some flock searches for Tyler Robinson's car but there were some flock searches for other people's car as well.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2126",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:08:00",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=480s",
+  "claim": "Baron Coleman says the first mention of Zachariah Qureshi on police radio scanner traffic was at 2:49 p.m. (Mountain time) on September 10, on a local channel.",
+  "snippet": "So, that was the very first time we heard the name Zechariah Careshi. It was at 2:49 p.m.",
+  "mentions": [
+   "N-410"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2127",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:09:31",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=571s",
+  "claim": "Baron Coleman says the first radio mention of Qureshi's license plate came at 3:00 p.m., on a Utah County-only local channel, not statewide.",
+  "snippet": "First mention of the license plate that was at 3:00. But those were on local channels. That's on a local Utah County only channel.",
+  "mentions": [
+   "N-410"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2128",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:11:19",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=679s",
+  "claim": "Baron Coleman says the statewide BOLO naming Qureshi and his Corolla's plate went out at 3:11 p.m.",
+  "snippet": "It was official. It was regional. It went out statewide. Everybody that was listening to the Utah Channel had access to it. That was at 311 p.m.",
+  "mentions": [
+   "N-410"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2129",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:11:40",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=700s",
+  "claim": "Baron Coleman says Zachariah Qureshi was in line waiting to ask Charlie Kirk a question, was clearly not the suspect, and popped up on police radar possibly through conflation with a license plate.",
+  "snippet": "he was in line waiting uh to ask Charlie Kirk a question. Clearly not the suspect. For some reason, he popped up on police radar as a potential suspect.",
+  "mentions": [
+   "N-1",
+   "N-410"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2130",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:12:37",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=757s",
+  "claim": "Baron Coleman says Qureshi's father's defense contracting company got very large contracts, the biggest it ever had, in the weeks before Charlie Kirk was killed; he says he does not know if it was related.",
+  "snippet": "his dad got some very large contracts in the weeks leading up to Charlie Kirk being taken down. In fact, the biggest contracts the defense company had ever had.",
+  "mentions": [
+   "N-1",
+   "N-410"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2131",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:14:23",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=863s",
+  "claim": "Baron Coleman says a police officer in Kent, Washington searched Zachariah Qureshi's license plate in Flock at 2:37 p.m. Mountain, 12 minutes before Qureshi was first mentioned on the radio.",
+  "snippet": "why is it that there's a police officer in Kent, Washington, searching for Zechariah Caresh's license plate at 2:37 p.m., 12 minutes before he's first mentioned on the radio.",
+  "mentions": [
+   "N-410"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2132",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:14:54",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=894s",
+  "claim": "Baron Coleman says the open-source Flock search records show that search was run under the account of Tyson Seago.",
+  "snippet": "This is from the open source system that allows you to look at flock searches. This is it. Searched by Tyson Seo.",
+  "mentions": [
+   "N-410"
+  ],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2133",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:19:11",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1151s",
+  "claim": "Baron Coleman says the same officer, at 2:44 p.m. and before any radio mention, searched Qureshi's old 2023 Texas license plates, not his current plates.",
+  "snippet": "It was Zechariah Keshi's old license plates from Texas. Not even his current license plates. His license plates from 2023.",
+  "mentions": [
+   "N-410"
+  ],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2134",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:20:59",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1259s",
+  "claim": "Baron Coleman says at 3:13 p.m. the officer searched a plate belonging to a different Texas man surnamed Qureshi whose son (Baron first said nephew, then corrected) is also named Zachariah A. Qureshi.",
+  "snippet": "the plate, we learned through our investigation, came back to a different man with the last name Careshi, also from Texas.",
+  "mentions": [
+   "N-410"
+  ],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2135",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:23:25",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1405s",
+  "claim": "Per the Tyson Seago deposition transcript shown, Seago is employed by the City of Kent Police Department in Washington as a technical detective and has been with Kent over 23 years.",
+  "snippet": "I'm currently employed by the City of Kent Police Department in Kent, Washington.",
+  "mentions": [],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2136",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:24:59",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1499s",
+  "claim": "Per the Tyson Seago deposition transcript shown, Seago has been an FBI task force officer since approximately 2015.",
+  "snippet": "How long have you been a task force officer with the FBI? Uh, approximately 2015.",
+  "mentions": [],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2137",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:25:28",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1528s",
+  "claim": "Baron Coleman says Charlie Kirk's killing was a state crime, not a federal crime, because the shooter never left Utah.",
+  "snippet": "A man in Utah was taken down by a man who never left the cozy confines of the great state of Utah. That equals a state crime.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2138",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:26:13",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1573s",
+  "claim": "Per the Tyson Seago deposition transcript shown, Seago is on the Seattle Safe Streets Task Force and a member of the FBI's Cellular Analysis Survey Team (CAST), certified September 2022.",
+  "snippet": "I'm also a member of the FBI's cast team or cellular analysis survey team. How long have you been a member of CAST? I became certified in September 2022.",
+  "mentions": [],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2139",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:26:48",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1608s",
+  "claim": "Baron Coleman says Seago is a Fed very keyed in on the case who had information before the local Utah cops did.",
+  "snippet": "Okay. So, we got ourselves a Fed. We got ourselves a Fed. A Fed who's very keyed in on what's going on in this case.",
+  "mentions": [],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2140",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:27:39",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1659s",
+  "claim": "Baron Coleman says there is suspicion the FBI might have played an outsized role in the incident before Charlie Kirk was killed.",
+  "snippet": "there's suspicion that the FBI might have played an outsized role in this incident before Charlie Kirk was taken down potentially.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2141",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:27:50",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1670s",
+  "claim": "Baron Coleman says the FBI took possession of much of the evidence (the gun, the phone), the defense cannot get it back, and the FBI took a long time to turn over analyses of the grains, the weapon and the phone.",
+  "snippet": "They took possession of a lot of the evidence, the gun, the phone. They defense can't get it. They can't get it back.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2142",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:28:43",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1723s",
+  "claim": "Baron Coleman says the official narrative places Tyler Robinson turning himself in at the Washington County Sheriff's office at 9:00 p.m., adding he does not know if he did and sees evidence he might not have.",
+  "snippet": "the official narrative places Tyler Robinson at the Washington County Sheriff's Department at 9:00 p.m.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2143",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:29:12",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1752s",
+  "claim": "Baron Coleman says Brian Davis testified Robinson turned himself in around 9:00 p.m. without personal knowledge of it, as hearsay allowed in the Utah court.",
+  "snippet": "But Brian Davis testified that he actually did turn himself in around 900 p.m. Well, he doesn't have personal knowledge of it, but hearsay is allowed in our Utah court here.",
+  "mentions": [
+   "N-40",
+   "N-786"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2144",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Brian Davis",
+  "speaker_node": "N-786",
+  "timestamp": "00:29:32",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1772s",
+  "claim": "In a clip played on the show, Brian Davis testifies he was told Robinson arrived at the Washington County Sheriff's Office about 9:00 p.m.",
+  "snippet": "I was told he arrived there about 900 p.m.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2145",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:30:33",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1833s",
+  "claim": "Baron Coleman says the first Flock search for Tyler Robinson's license plate was September 11, 2025 at 9:10 p.m., about 10 minutes after the official surrender time.",
+  "snippet": "September 11th, 2025 at 9:10 p.m. So around 10 minutes after the official narrative puts Tyler Robinson at the sheriff's department",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2146",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:31:00",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1860s",
+  "claim": "Baron Coleman says the 9:10 p.m. searcher appears as 'S. Ken' because Flock IDs use first initial plus first three letters of the last name, and his team could not identify who it is.",
+  "snippet": "we were able to determine who he was based on his first initial and first three letters of his last name. That's the format here. They use S. Ken.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2147",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:31:42",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1902s",
+  "claim": "Baron Coleman says Robinson's surrender was not publicly known at 9:10 p.m. (not on Fox News, podcasts or X).",
+  "snippet": "the important part of this is no one knew he turned himself in. This wasn't publicly known. This wasn't on Fox News.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2148",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:32:20",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=1940s",
+  "claim": "Baron Coleman says the 9:10 p.m. Robinson search came from the Kennewick, Washington police department (he first misspoke 'Kennington').",
+  "snippet": "This officer is not from uh Kent, Washington. He's from Kenowick, Washington.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2149",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:33:27",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2007s",
+  "claim": "Baron Coleman says the Axel 21 plane flew from California at close to 600 knots and around 9:05-9:10 p.m. made its lowest, slowest pass over St. George airport before heading to El Paso, timing that lines up with the Kennewick search.",
+  "snippet": "And around 9:05 or 910, it makes its lowest pass, its slowest pass right over the St. George airport and then it goes back up to altitude and up to speed and it heads to El Paso.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2150",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:35:35",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2135s",
+  "claim": "Baron Coleman says the first Flock search for Robinson's car from inside Utah was by a Juab County user at 8:38 a.m. on September 12.",
+  "snippet": "But it took place at 8:38 a.m. That's the first time somebody looked for Tyler Robinson's car.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2151",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:38:35",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2315s",
+  "claim": "Baron Coleman says Seago (Kent) and 'S. Ken' (Kennewick) searched the exact same car about 90 seconds apart around 12:21-12:22 p.m. on September 11, before Robinson was known.",
+  "snippet": "90 seconds apart from each other, these two guys who work in different municipal police departments on opposite sides of the state, not inside of Utah, search for the exact same car.",
+  "mentions": [],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2152",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:39:32",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2372s",
+  "claim": "Baron Coleman says the car both Washington officers searched was a 2023 Toyota Camry (SE Nightshade), and he does not know its role in the case.",
+  "snippet": "The car they were searching for was a 2023 Camry. Toyota Camry. I have no idea the relationship this 2023 Toyota Camry plays in this case",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2153",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:40:18",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2418s",
+  "claim": "Baron Coleman says his team verified the plates on three different systems and cross-checked the VIN numbers.",
+  "snippet": "I pulled the license plates on two different systems. Daisy used a third system. Um, we cross-cheed and verified the VIN numbers.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2154",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:41:27",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2487s",
+  "claim": "Baron Coleman says Andrew Piskadlo, who drove a Nissan Armada and was mentioned on the radio, was later found by police to have nothing to do with it, yet drew many Flock searches.",
+  "snippet": "He drove a car, an Armada. It was We talked about the radio transmission. The police later learned he had nothing to do with it.",
+  "mentions": [
+   "N-800"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2155",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:42:36",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2556s",
+  "claim": "Baron Coleman says Provo police began searching a vehicle by plate within 2 hours 3 minutes of the shooting (2:26, 2:27, 2:29 p.m.).",
+  "snippet": "Provo police is searching for a vehicle by license plate within 2 hours and 3 minutes of Charlie Kirk being taken down.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2156",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:44:20",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2660s",
+  "claim": "Baron Coleman says his team broke the Flock ID hash to recover the license plate numbers being searched.",
+  "snippet": "we were able to to break the hash and figure out the numbers of the license plates, which is why we were able to determine who they were searching for",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2157",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:44:41",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2681s",
+  "claim": "Baron Coleman says a Utah officer, Austin Lurwell (as heard), also searched for Zachariah Qureshi.",
+  "snippet": "And then we get another guy from Utah. Now he's in on the game looking for Zechariah Keshi.",
+  "mentions": [
+   "N-410"
+  ],
+  "mentions_new": [
+   "Austin Lurwell"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2158",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:46:47",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2807s",
+  "claim": "Baron Coleman says officers from Fort Worth, Texas and New Mexico also searched for Qureshi and Piskadlo after their names were on the radio.",
+  "snippet": "We got some other people joining in the fund from Fort Worth, Texas of all places looking for Zechariah Careshi.",
+  "mentions": [
+   "N-410",
+   "N-800"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2159",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:47:38",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2858s",
+  "claim": "Baron Coleman says multiple officers searched multiple times for a 2018 Jeep Unlimited Sahara tagged to the UVU shooting.",
+  "snippet": "Multiple police officers searched multiple times for a 2018 Jeep Unlimited Sahara. Why? And you can see it's from the UVU shooting.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2160",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:48:56",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2936s",
+  "claim": "Baron Coleman says a 2020 Chevy Silverado 1500LT and a Nissan Altima S labeled 'suspect vehicle' were also searched.",
+  "snippet": "Now we've got a Nissan Ultima S. Suspect vehicle. Nissan Ultima S. Did you know there were these all these different cars being searched for?",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2161",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:49:50",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=2990s",
+  "claim": "Baron Coleman says Seago searched a plate that returns no VIN or owner, and that tips say federal operators use unregistered fake license plates; he does not know if that happened here.",
+  "snippet": "Federal operators in particular will have a fake license plate made and put up on a car and then they can drive around and it's not registered to anybody.",
+  "mentions": [],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2162",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:52:28",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3148s",
+  "claim": "Baron Coleman says Cedar City officer Timothy Bonszo (as heard) searched a 2008 Ford Edge Limited repeatedly from 2:21 to 2:49 p.m. and again at 3:04-3:09, as if tracking it in real time.",
+  "snippet": "He looked it up at 221, 222, 224, 230, 237, 242, 249. Almost like he was tracking this car in real time.",
+  "mentions": [],
+  "mentions_new": [
+   "Timothy Bonszo"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2163",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:52:54",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3174s",
+  "claim": "Baron Coleman says Tyler Robinson was allegedly at a Maverick gas station in Cedar City about 7:15 that morning.",
+  "snippet": "Allegedly Tyler Robinson at a Maverick gas station in Cedar City about 7:15 in the morning.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2164",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:53:38",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3218s",
+  "claim": "Baron Coleman says an Ogden City user searched a 2024 Dodge Ram 2500 Laramie and a 2018 Subaru WRX in relation to the Charlie Kirk investigation, tagged 'Charlie Kirk decap'.",
+  "snippet": "He's looking for a 2024 Dodge Ram 2500 Laramie and a 2018 Subaru WRX in relation with the Charlie Kirk investigation.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2165",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:54:31",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3271s",
+  "claim": "Baron Coleman says Seago searched a 2018 Ford F-150 Raptor and a 2021 Subaru Forester at 5:47, 5:56 and 5:59, indicating real-time tracking.",
+  "snippet": "And he's looking for a 2021 Subaru Forester. And again, look at the times. 547, 556, 559. That indicates to me he is tracking this vehicle in real time.",
+  "mentions": [],
+  "mentions_new": [
+   "Tyson Seago"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2166",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:54:56",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3296s",
+  "claim": "Baron Coleman says he is pretty confident he knows the role the Jeep Unlimited Sahara played.",
+  "snippet": "And I will say this, I am pretty confident I know the role the Jeep unlimited Sahara played and that's good information Sue has.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2167",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:55:52",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3352s",
+  "claim": "Baron Coleman says 'S. Ken' searched a 2024 Honda Navi 110B small motorcycle and tagged it as related to the shooting.",
+  "snippet": "I don't know if this is a related or not, but SK seems to think it was because he put it related to the shooting.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2168",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:57:50",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3470s",
+  "claim": "Baron Coleman says S. Ken's 9:07-9:10 p.m. run (Honda motorcycle, Ford F-150 Lariat, then Robinson's plate) suggests he thought the vehicles were related and together, indicating Robinson was not alone at some point.",
+  "snippet": "I get the suspicion that this guy was looking up these vehicles because he thought they were related and that they were together.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2169",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:58:54",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3534s",
+  "claim": "Baron Coleman says S. Ken searched Robinson's plate again at 9:11 p.m. and the next morning, suggesting he wondered whether someone else was driving the car.",
+  "snippet": "And that Ken going back the next morning after we've all been told that Tyler Robinson had turned himself in makes me believe he wondered where the car was.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2170",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:59:46",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3586s",
+  "claim": "Baron Coleman says that if the Toyota Camry SE Nightshade has anything to do with the case, the official lone-actor narrative is broken.",
+  "snippet": "And if there's something to that car, then the official narrative is broken.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2171",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:00:12",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3612s",
+  "claim": "Baron Coleman says the official story is Robinson told no one until 11:00 when his phone automatically texted Lance Twiggs, and Twiggs does not drive a 2023 Toyota Camry SE Nightshade.",
+  "snippet": "And he didn't tell anyone until 11:00 when his phone automatically texted Lance Twigs. That's the official story. And Lance Twigs does not drive a 2023 Toyota Camry SE Nightshade.",
+  "mentions": [
+   "N-40",
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2172",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:00:43",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3643s",
+  "claim": "Baron Coleman says a search labeled 'Kirk suspect at Maverick' likely concerns Robinson because there is video of a man resembling him in a Dodge Challenger getting gas at 7:15 a.m.",
+  "snippet": "because there's video of a guy who kind of looks like Tyler Robinson in a Dodge Challenger getting gas at 7:15 in the morning.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2173",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:00:54",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3654s",
+  "claim": "Baron Coleman says the last search was an Ogden City officer looking for the Jeep Unlimited Sahara on September 13, about 48 hours after Robinson turned himself in.",
+  "snippet": "And then then we're back to the Jeep Unlimited Sahara. That was the last search, September 13th.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2174",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:02:27",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3747s",
+  "claim": "Baron Coleman says the pattern of searches in his spreadsheet does not support the conclusion that police believed Tyler Robinson acted alone.",
+  "snippet": "But I don't know how you can look at that and conclude that the police believed Tyler Robinson acted alone.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2175",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:02:49",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3769s",
+  "claim": "Baron Coleman says the same FBI leadership that called Robinson a lone actor also said the January 6 pipe-bomb suspect (Brian Cole Jr.) was a lone actor.",
+  "snippet": "In fact, we were told by this exact same FBI. We were told by this exact same FBI that the guy who was putting the pipes out the night before the January 6 rally.",
+  "mentions": [
+   "N-25"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2176",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:03:54",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3834s",
+  "claim": "Per the Dan Bongino letter to Congressman Massie shown, one of Bongino and Patel's first FBI initiatives was a new strategy to investigate the January 6 pipe bomb.",
+  "snippet": "one of our first initiatives was to aggressively pursue a new strategy to investigate the January 6th pipe bomb, terror attack.",
+  "mentions": [
+   "N-69",
+   "N-378",
+   "N-579"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2177",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:04:56",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3896s",
+  "claim": "Per the Kash Patel X post shown, when Patel and Bongino came to the FBI in March the pipe-bomb investigation had been stalled for nearly five years.",
+  "snippet": "When Dan Bonginina and I came to the FBI in March, the pipe bomb investigation had been stalled for going on 5 years.",
+  "mentions": [
+   "N-69",
+   "N-378"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2178",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:05:54",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=3954s",
+  "claim": "Baron Coleman says Pam Bondi and Dan Bongino are out and Jeanine Pirro is the only one Patel thanked who is still there.",
+  "snippet": "Pam Bondi out. Dan Bonjina out. I think Piro Jane Piro is the only one that's still there.",
+  "mentions": [
+   "N-69",
+   "N-85",
+   "N-378"
+  ],
+  "mentions_new": [
+   "Jeanine Pirro"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2179",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:07:02",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=4022s",
+  "claim": "Baron Coleman says Brian Cole Jr., interrogated without counsel, broke after agents suggested his family might have to go through similar interrogation if he did not confess.",
+  "snippet": "And what finally got him to break was, it seems, they mentioned that his family might have to go through something similar if he didn't confess.",
+  "mentions": [
+   "N-25"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2180",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:10:19",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=4219s",
+  "claim": "Baron Coleman says citizen investigators in the courtroom said the footage was not what the influencers claimed, showing the influencer crowd lied about seeing 4K HD footage.",
+  "snippet": "But for these citizen investigators, we had two of them in the courtroom that day and they walked out and said, \"That's not what we saw.\"",
+  "mentions": [],
+  "mentions_new": [
+   "Brandy Sisani",
+   "Billy Webb"
+  ],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2181",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:11:09",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=4269s",
+  "claim": "Baron Coleman says the security footage Candace Owens released shows Jack Posobiec and Brandon Tatum flat out lied about it, defending her against claims she never breaks news.",
+  "snippet": "when she drops the security footage, you can see that Jack Basobic and Brandon Tatum just flat out lied to your face.",
+  "mentions": [
+   "N-3",
+   "N-58",
+   "N-95"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2182",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:12:05",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=4325s",
+  "claim": "Baron Coleman says Steve Baker has identified someone he thinks placed the pipe bombs, based on tips, gait analysis and distinctive shoes, and believes Brian Cole Jr. is a patsy.",
+  "snippet": "In fact, Steve Baker's identified somebody he thinks did do it based on tips and gate analysis and and the presence of distinctive shoes",
+  "mentions": [
+   "N-25",
+   "N-236"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2183",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:18:00",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=4680s",
+  "claim": "Baron Coleman says Steve Baker's surveillance footage puts Brian Cole Jr. on the wrong side of the Capitol, on the route he described, to have placed the pipe bombs.",
+  "snippet": "The important part though is the location of Brian Cole Jr. in this video is on the wrong side of the capital to have anything to do with placing the pipe bombs.",
+  "mentions": [
+   "N-25",
+   "N-236"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2184",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:24:20",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=5060s",
+  "claim": "Baron Coleman says he deeply believes the FBI knows it has the wrong man in Brian Cole Jr. and intended to convict him (he calls it conjecture).",
+  "snippet": "I deeply believe the FBI knows they have the wrong guy. I deeply believe they know they have the wrong guy and I believe they intended to convict him.",
+  "mentions": [
+   "N-25"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2185",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:27:44",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=5264s",
+  "claim": "Baron Coleman says many of the same people promising the evidence against Tyler Robinson is overwhelming say the same about Brian Cole Jr.",
+  "snippet": "A lot of the same people that will go online and promise you that the evidence against Tyler Robinson is overwhelming are going online and promising you that the evidence against Brian Cole Jr. is overwhelming.",
+  "mentions": [
+   "N-25",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2186",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:29:07",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=5347s",
+  "claim": "Baron Coleman says Dan Bongino has already been fired or quit.",
+  "snippet": "Dan Bon China has already been uh well fired or quit one or the other.",
+  "mentions": [
+   "N-378"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2187",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:30:18",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=5418s",
+  "claim": "Baron Coleman says Dan Bongino and Kash Patel have been as verbally confident about Brian Cole Jr.'s guilt as about Tyler Robinson's.",
+  "snippet": "But I I dare say that Dan Bonina and Cash App Patel are as confident or have been verbally as confident about the guilt of Brian Cole Jr.",
+  "mentions": [
+   "N-25",
+   "N-40",
+   "N-69",
+   "N-378"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2188",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:32:05",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=5525s",
+  "claim": "Baron Coleman says if Tyler Robinson is convicted without more evidence than has been brought so far, nobody is safe.",
+  "snippet": "If Tyler Robinson gets convicted and they don't bring any more evidence than they brought so far, nobody is safe.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2189",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:44:25",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=6265s",
+  "claim": "Baron Coleman says Candace Owens asked him to do the show and warned him what would come with it.",
+  "snippet": "Candace warned me this was coming when when she asked me to do the show.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "tangential",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2190",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:05:26",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=7526s",
+  "claim": "Baron Coleman says several searched tags did not come back to any car, which, if they are law-enforcement ghost tags, opens a new avenue for the investigation.",
+  "snippet": "this opens up a whole new avenue for the investigation because there were several tags that did not come back to a core.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2191",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:08:32",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=7712s",
+  "claim": "Baron Coleman says the FBI arrested Brian Cole Jr. right after Steve Baker reported a suspect (a female federal employee) with the five-year statute of limitations nearly run.",
+  "snippet": "Steve Baker reported that he thought he knew who it was and the statute was running. There's a 5-year statute of limitations.",
+  "mentions": [
+   "N-25",
+   "N-236"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2192",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:15:27",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=8127s",
+  "claim": "Baron Coleman says the lifted white truck by the fountain in the recently released UVU footage was, he believes, a UVU-owned vehicle.",
+  "snippet": "Back by the fountain. I mean, that was a UVU vehicle. That was a UVU owned vehicle, I believe.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2193",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:23:46",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=8626s",
+  "claim": "Baron Coleman says 'S. Ken' is unlikely to be a retiring sergeant named Ken because Flock user IDs are first initial plus last name, not title plus last name.",
+  "snippet": "Um, not likely because it's first initial, last name. It's not title, last name.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2194",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:26:30",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=8790s",
+  "claim": "Baron Coleman says the lack of blood in the first videos is because Charlie Kirk's heart probably stopped almost immediately and he lost a lot of blood very quickly.",
+  "snippet": "I kind of look at as his heart probably stopped pretty immediately. He lost a lot of blood very quickly.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2195",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:39:12",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=9552s",
+  "claim": "Baron Coleman says he doubts the searches were for George Zinn's car because Zinn was in jail.",
+  "snippet": "were they looking for George Zen's car? I doubt it because he was in jail. He was in jail.",
+  "mentions": [
+   "N-42"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2196",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:43:45",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=9825s",
+  "claim": "Baron Coleman says TPUSA does not do its own fundraising texting but has hired out a company.",
+  "snippet": "trust me, TP USA is not sitting around texting. They've hired out a company.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2197",
+  "kid": "K-039",
+  "date": "2026-10-19",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:48:36",
+  "url": "https://www.youtube.com/watch?v=PV0tI3L2opw&t=10116s",
+  "claim": "Baron Coleman says it is not possible that Lance Twiggs has a car in Tyler Robinson's name because they were roommates, not spouses.",
+  "snippet": "No, I don't believe that's possible at all. Don't believe it's possible. They weren't spouses. They were roommates",
+  "mentions": [
+   "N-40",
+   "N-54"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2198",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:02:30",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=150s",
+  "claim": "Baron Coleman says he will discuss evidence he thinks shows Tyler Robinson was not working alone, while stressing it is neither definitive nor proof.",
+  "snippet": "I want to discuss evidence I think that shows Tyler Robinson was not working alone. Is it definitive? No. Is it proof? No.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2199",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:03:53",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=233s",
+  "claim": "Baron Coleman says the Flock camera searches he covered on his Sunday show originated primarily from two officers, one in Kennewick, Washington and one in Kent, Washington.",
+  "snippet": "those flock camera searches originated from primarily two officers, one in Kenowick, Washington, one in Kent, Washington.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2200",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:21:50",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=1310s",
+  "claim": "Baron Coleman says Leah Files willingly admits she worked in intelligence, for intelligence contractors and in the offices of some federal agencies, but he does not know whether she still works on their behalf.",
+  "snippet": "Leah very willingly admits she worked in in intelligence. She worked for intelligence contractors. She worked in the offices of some of these federal agencies.",
+  "mentions": [],
+  "mentions_new": [
+   "Leah Files"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2201",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:22:25",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=1345s",
+  "claim": "Baron Coleman says Shawn Ryan was in an elite military unit and in the CIA itself, so he has fed ties, but Baron does not know whether he is still in the CIA.",
+  "snippet": "He was in the uh CIA itself, so he has fed ties. Is he still in the CIA? I don't know. I really don't know.",
+  "mentions": [
+   "N-224"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2202",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:23:40",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=1420s",
+  "claim": "Baron Coleman says the Charlie Kirk case is the first open-source investigation, started the moment the bang was heard and continuing for more than a year.",
+  "snippet": "this is the first open-source investigation that has started the moment we heard the bang and has continued for more than a year.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2203",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "00:39:10",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=2350s",
+  "claim": "Baron Coleman says Leah Files alleged there were weeks of preparation with Shawn Ryan's producers before the interview, but the pre-interview footage did not show much evidence of that.",
+  "snippet": "There was an allegation made by Leah that there were weeks of preparation that went into this show. Leah working with his producers for weeks at a time.",
+  "mentions": [
+   "N-224"
+  ],
+  "mentions_new": [
+   "Leah Files"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2204",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Leah Files",
+  "speaker_node": null,
+  "timestamp": "00:59:40",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=3580s",
+  "claim": "In a clip played on the show, Leah Files says she thinks Charlie Kirk's assassination was almost the catalyst for the division of the right.",
+  "snippet": "And and I think Charlie Kirk's assassination almost was like the catalyst to it all. If you look back, that's what it looks like.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2205",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:01:05",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=3665s",
+  "claim": "Baron Coleman says the right is divided because of Israel, and that this single issue explains why Thomas Massie and Charlie Kirk 'had to go'.",
+  "snippet": "There's a very clear answer for why the right is divided. Israel. That's it. That's it. Why did Thomas Massie have to go? Why did Charlie Kirk have to go?",
+  "mentions": [
+   "N-1",
+   "N-579"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2206",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:01:25",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=3685s",
+  "claim": "Baron Coleman says Charlie Kirk's letter to Benjamin Netanyahu was about that issue, paraphrasing it as saying that on college campuses all students want to talk about is Israel and Kirk was tired of carrying Israel's water.",
+  "snippet": "If you remember the letter Charlie Kirk wrote to Benjamin Netanyahu, it was that issue. That issue is what he was talking about. I go on college campuses, all they want to talk about is your country.",
+  "mentions": [
+   "N-1",
+   "N-36"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2207",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:06:40",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=4000s",
+  "claim": "Baron Coleman says Charlie Kirk was probably taken out because he was opposing 'our greatest ally' (Israel), and releasing the actual reality of that would go poorly.",
+  "snippet": "Why did why did Charlie Kirk have that? Well, probably because he was opposing our greatest ally and then it'd go poorly if we released the actual reality of that.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2208",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Leah Files",
+  "speaker_node": null,
+  "timestamp": "01:19:35",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=4775s",
+  "claim": "In a clip played on the show, Leah Files says Flock's Nova add-on links a license plate to open-source data on the owner, and a white-hat hacker found it was also pulling information from the dark web.",
+  "snippet": "But they've also, this hacker, white glove hacker, found a vulnerability where they actually were also getting information from the dark web.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2209",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:23:15",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=4995s",
+  "claim": "Baron Coleman says the plate searches (officer, exact second, date) shown on his Sunday show came from public Flock audit logs via the website Have I Been Flocked, rejecting claims that the data is not public.",
+  "snippet": "When we tell you this plate was searched by this officer at this exact second on this particular day, there's a reason we're saying that the website we use",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2210",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Leah Files",
+  "speaker_node": null,
+  "timestamp": "01:24:52",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=5092s",
+  "claim": "In a clip played on the show, Leah Files says Have I Been Flocked holds about 426,940,000 Flock audit records covering almost 4.7 million searched plates, and only 9% of searches were for crime.",
+  "snippet": "You have 426,940,000 records in here. Okay, you have almost 4.7 million plates that have been searched and 9% of them were for crime.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2211",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:35:10",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=5710s",
+  "claim": "Baron Coleman says Leah Files attributed motive in attacking Shawn Ryan over his investments, when the list of companies he invested in came from his own LinkedIn page.",
+  "snippet": "where she got the list of the companies he invested in was on his LinkedIn page that he edited and added those investment companies.",
+  "mentions": [
+   "N-224"
+  ],
+  "mentions_new": [
+   "Leah Files"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2212",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:36:40",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=5800s",
+  "claim": "Baron Coleman says Brian Harpole has come to look terrible from his November interview with Shawn Ryan, in which Ryan did not ask many follow-up questions.",
+  "snippet": "I go back to the Brian Harpole interview he did uh in November of last year. In that Brian Harpole interview, Brian Harpole has come to look terrible from that exchange.",
+  "mentions": [
+   "N-224",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2213",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:37:15",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=5835s",
+  "claim": "Baron Coleman says he now wonders whether Shawn Ryan had an angle all along and knew Brian Harpole was 'full of bull butter', leaving it to podcasters to pick apart.",
+  "snippet": "But I now looking back at it and wondering if Shawn didn't have an angle the entire time. He knew Brian Harpole was full of bull butter.",
+  "mentions": [
+   "N-224",
+   "N-266"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2214",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:40:00",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6000s",
+  "claim": "Baron Coleman says the Maverick gas station off the interstate in Cedar City, Utah is where we were told Tyler Robinson rolled in for gas at about 7:15 or 7:17 a.m. the morning after Charlie Kirk was shot.",
+  "snippet": "the Maverick Gas Station is the location of what we were told is Tyler Robinson rolling in at 7:15 a.m. the morning after Charlie Kirk was taken down. I think 7:17 a.m.",
+  "mentions": [
+   "N-1",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2215",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:40:20",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6020s",
+  "claim": "Baron Coleman says the gas station video shows a car that looks like Tyler Robinson's and a young man wearing what Robinson was allegedly wearing (maroon shirt, jeans, sneakers, a hat) getting gas and leaving.",
+  "snippet": "We see a young man drop jump out of that car wearing what looks like something Tyler Robinson was allegedly wearing. A maroon shirt, jeans, sneakers, uh a hat, and he gets gas",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2216",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:41:35",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6095s",
+  "claim": "Baron Coleman says there is some question, because of how the gas station video was sourced, whether it is planted footage.",
+  "snippet": "Now, there is some question about this because of how this vehicle how this uh video was sourced, whether or not this is planted footage, but that's supposed to be Tyler Robinson.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2217",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:43:45",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6225s",
+  "claim": "Baron Coleman says, by comparing grille, lights, bumper, antenna, windshield trim and mirrors, that the white pickup in the Cedar City gas station lot is a 2020 Chevy Silverado LT.",
+  "snippet": "That is a Chevy Silverado LT. A 2020 Chevy Silverado LT in your image right there. And now, let me go back to the truck at the Cedar City gas station",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2218",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:44:10",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6250s",
+  "claim": "Baron Coleman says the license plate of this truck was one of the plates searched on Flock in the searches his team pulled.",
+  "snippet": "When we pulled those license plates, this truck was one of the license plates that was searched. This truck was one of the license plates that was searched.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2219",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:45:10",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6310s",
+  "claim": "Per the spreadsheet of Flock data shown, Baron Coleman says searches were made at 9:56 p.m. and 9:57 p.m. on a Flock ID whose hash reverse-engineers to the plate of a 2020 Chevy Silverado 1500LT.",
+  "snippet": "At 9:56 p.m. and 9:57 p.m., a search was made. this flock ID. If you reverse engineer that hash, you get a license plate that winds up being a 2020 Chevy Silverado 1500LT.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2220",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:45:25",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6325s",
+  "claim": "Baron Coleman says these searches came from Ogden City, Utah, in a flurry beginning at 9:54 p.m. (captioned 'texts', likely 'searches') that first traced to a 2018 Jeep Wrangler Unlimited Sahara, then the Silverado at 9:56.",
+  "snippet": "This came from Ogden City, Utah, and it came from a flurry of texts that began at 9:54 p.m. that traced back to a 2018 Jeep Unlimited Sahara.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2221",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:46:15",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6375s",
+  "claim": "Baron Coleman says an eyewitness, whose accuracy is not yet known, claims he helped serve dinner to Tyler Robinson at the Cowboy steakhouse in Panguitch, Utah from 8:55 to 9:47 p.m.",
+  "snippet": "We have an eyewitness who claims that he served uh helped serve dinner to Tyler Robinson at the Penguitch Steakhouse in Panguage, Utah.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2222",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:46:35",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6395s",
+  "claim": "Baron Coleman says a receipt timed 9:47 p.m. was produced showing someone at the bar seat where the eyewitness says he spotted a man he is 100% sure was Tyler Robinson.",
+  "snippet": "a receipt was produced that showed somebody at a chair on the bar where this guy allegedly spotted what he believes 100% he said was Tyler Robinson.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2223",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:47:40",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6460s",
+  "claim": "Baron Coleman says he finds it 'awfully convenient' that the Flock searches started about when Tyler Robinson, if that was him, would have been leaving the steakhouse in Panguitch.",
+  "snippet": "I find it interesting that these searches started about the time that if that was Tyler Robinson, he would have been leaving the Penguin smokehouse or the Cowboy smokehouse in Panguage.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2224",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:48:05",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6485s",
+  "claim": "Baron Coleman says several viewers identifying as dispatchers and police told him that when covertly following someone, police enter the plate of the following vehicle, not the target's, so the searched Jeep and Silverado could have been following Robinson.",
+  "snippet": "if you're following somebody, but you don't want people to know you're following somebody, you don't put the license plate of the car you're trying to track",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2225",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:49:10",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6550s",
+  "claim": "Baron Coleman says it is his belief Tyler Robinson was a 'psy' (captioned; likely 'patsy') who may have been working with others or been followed by others.",
+  "snippet": "It's my belief Tyler Robinson was a psy. He may or may not have been working with another number of people or he may have been followed by a number of people",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2226",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:49:45",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6585s",
+  "claim": "Baron Coleman says the Silverado was at the gas station when Robinson pulled in and still there when he left, so he wonders if it was a predetermined stop and does not believe the truck was following him without his knowledge.",
+  "snippet": "The truck was there when he pulled in. The truck was still there when he left. So, I don't believe that that the truck was following him without him knowing.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2227",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:50:10",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6610s",
+  "claim": "Baron Coleman says Tyler Robinson's defense team needs to identify who was in the Silverado and the Jeep Wrangler Unlimited Sahara, and should get owner details for every vehicle searched on Flock.",
+  "snippet": "Because the defense team needs to figure out who was in that truck. The defense team needs to figure out who was in that Chevy I mean, in that Jeep Sahara unlimited",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2228",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:51:50",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6710s",
+  "claim": "Baron Coleman says there is now legitimate evidence that the searched white Chevy Silverado 1500LT may have been with Robinson and at the same gas station the next morning, about 10 hours after it was searched.",
+  "snippet": "There is now legitimate evidence on the table that this may have been with him. This vehicle they're looking for, this white Chevy Silverado 1500LT, might have been at the same gas station.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2229",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:52:57",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6777s",
+  "claim": "Baron Coleman says if these vehicles were near Robinson's car all day, it might be evidence he was part of a larger plan, or that he did not do the shooting and was part of a getaway team.",
+  "snippet": "it might be evidence that Tyler Robinson was part of a larger plan. It might be evidence that Tyler Robinson didn't do the shooting and he was part of a getaway team.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2230",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:53:30",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=6810s",
+  "claim": "Baron Coleman says his team has found what they believe are other vehicles and has identified some of the previously unidentified officers who ran the Flock searches, to be covered later in the week.",
+  "snippet": "we have found what we believe are other vehicles. We'll cover those later this week. We're still running some of that down. Um, we have some additional information on some of the officers who were doing the searches.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2231",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:57:45",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=7065s",
+  "claim": "Baron Coleman says in his opinion Charlie Kirk was taken out in an orchestrated manner involving many parties.",
+  "snippet": "In my opinion, Charlie Kirk was taken out in a in a uh orchestrated manner involving multiple parties. Many many parties. I just believe that.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2232",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "01:58:05",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=7085s",
+  "claim": "Baron Coleman says if so, the planners are very powerful and rich and would infiltrate and attack the investigators, then set them attacking each other to distract from the investigation.",
+  "snippet": "if that's true, the people who planned that are very powerful and very rich. Poor people don't plan stuff like that.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2233",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:00:38",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=7238s",
+  "claim": "Baron Coleman says, asked about a bomb threat used to empty Timpanogos hospital, that he has not heard of a bomb threat.",
+  "snippet": "I mean, I'd have to know if there was a bomb threat. Are you I've not heard of a bomb threat.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2234",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:00:55",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=7255s",
+  "claim": "Baron Coleman says there is at least one other video that shows another of the Flock-searched vehicles, at a 'really interesting place'.",
+  "snippet": "I will say there is at least another video that has one of the other vehicles in it. Um, and it is at a really interesting place",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2235",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:04:50",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=7490s",
+  "claim": "Baron Coleman says he does not think it is a coincidence that the infighting among case creators immediately followed exposure of the clipping campaigns.",
+  "snippet": "first I'll answer your question. Yes, I do. I do not think it's a coincidence. I think it's related.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2236",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:05:40",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=7540s",
+  "claim": "Baron Coleman says there is a group of people trying to disrupt the investigation into who killed Charlie Kirk, some appearing to investigate but actually just creating chaos.",
+  "snippet": "There's a group of people looking for who killed Charlie Kirkow and why. There are a group of people trying to disrupt that investigation.",
+  "mentions": [
+   "N-1"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2237",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:13:35",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=8015s",
+  "claim": "Baron Coleman says some of the most shocking footage in the investigation was released by Candace Owens, showing people behind the tent in the immediate aftermath filming, standing against the car and directing traffic.",
+  "snippet": "Some of the most shocking footage I've seen in this entire investigation was released by Candace Owens of the activity behind the tent in the immediate aftermath.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": true
+ },
+ {
+  "id": "CC-2238",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:14:15",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=8055s",
+  "claim": "Baron Coleman says he would never have climbed a wall to video the scene or pulled out a camera like Butch Hibbs did, and that something weird happened with those people.",
+  "snippet": "You know what I'm not thinking about? Climbing up on a wall and videoing it. Not going to cross my mind. Pulling out my camera like Butch Hibs and videoing it.",
+  "mentions": [
+   "N-246"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2239",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:16:42",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=8202s",
+  "claim": "Baron Coleman says TPUSA is not withholding the full footage of the Charlie Kirk statue vandals because it is acting in good faith, and speculates TPUSA fears online sleuths would solve it within a week.",
+  "snippet": "Well, it's not because they're acting in good faith. I can assure you that. But I that's attributing motive.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2240",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:35:05",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=9305s",
+  "claim": "Baron Coleman says a viewer's observation that Robinson stopped to check Google Maps roughly halfway between two Quick Quack car washes is another data point for why he refuses to believe Robinson acted alone.",
+  "snippet": "this is another data point that I refuse to believe he was acting alone after a long day of of planned out execution.",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2241",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:42:30",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=9750s",
+  "claim": "Baron Coleman says Shawn Ryan should confirm or deny whether Leah Files was told not to say certain names.",
+  "snippet": "Um, yes. I think he should confirm or deny. I I think it I mean it's just a value to the community.",
+  "mentions": [
+   "N-224"
+  ],
+  "mentions_new": [
+   "Leah Files"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2242",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:44:30",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=9870s",
+  "claim": "Baron Coleman says this is Candace Owens' last week doing her show and she probably will not be back until January.",
+  "snippet": "this is the last week Candace is doing her show and then she will not probably be back until the beginning of the year.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2243",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:44:45",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=9885s",
+  "claim": "Baron Coleman says he has been asked to sit in Candace Owens' chair and continue her program in the intervening weeks.",
+  "snippet": "Your humble host has been asked to sit in her chair and continue her program for those intervening weeks.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2244",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:49:25",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=10165s",
+  "claim": "Baron Coleman says he does not know it to be a fact that Leah Files was told right before the interview not to name certain names; he heard her say it happened over several weeks.",
+  "snippet": "I don't know that she was told right before the interview not to talk about certain names. I don't know that to be a fact.",
+  "mentions": [],
+  "mentions_new": [
+   "Leah Files"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2245",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "02:52:20",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=10340s",
+  "claim": "Baron Coleman says Shawn Ryan's multi-part interview with Victor Marx was back in 2023, when Marx was not as well known.",
+  "snippet": "There's an interview multiart. That was back in 2023. I don't know that Victor Marx was as known back then.",
+  "mentions": [
+   "N-224",
+   "N-341"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2246",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "03:03:25",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=11005s",
+  "claim": "Baron Coleman says the steakhouse server's on-camera account did not say receipts were run early, and that the server saying Robinson had a beer while the receipt lists a soda is a discrepancy, but the server still said he was 100% sure.",
+  "snippet": "Look, that's a discrepancy in what he said. You're free to evaluate it. You can reject it. you can accept it, but it doesn't change the fact that he said he 100%",
+  "mentions": [
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2247",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Candace Owens",
+  "speaker_node": "N-3",
+  "timestamp": "03:13:45",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=11625s",
+  "claim": "Per Candace Owens' X post shown and read on the show, she says she is on the phone with lawyers and Jeremy Boring has no contractual right to break confidentiality and lie about the reasons for her termination, and she has a right to respond with proof.",
+  "snippet": "I'm on the phone with the lawyers and it looks like Jeremy Boring actually has no contractual right to blow the confidentiality and lie about the reasons for my termination.",
+  "mentions": [
+   "N-3"
+  ],
+  "mentions_new": [
+   "Jeremy Boring"
+  ],
+  "relevance": "context",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2248",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "03:18:05",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=11885s",
+  "claim": "Baron Coleman says he offered (he thinks) $10,000 for the Charlie Kirk statue vandalism footage to be released within a week and it was not released, which he calls 'awfully telling'.",
+  "snippet": "Didn't I offer $10,000 to release the statue footage in a week and they didn't do it? I gave them a week to do it.",
+  "mentions": [],
+  "mentions_new": [],
+  "relevance": "core",
+  "responds_to_host": false
+ },
+ {
+  "id": "CC-2249",
+  "kid": "K-040",
+  "date": "2026-10-20",
+  "speaker": "Baron Coleman",
+  "speaker_node": "N-330",
+  "timestamp": "03:23:00",
+  "url": "https://www.youtube.com/watch?v=MtogX3pzfBM&t=12180s",
+  "claim": "Baron Coleman says Tyler Robinson's defense can state alternative possible causes of Charlie Kirk's death (e.g. devices under his shirt) only with a good-faith basis, or it would be reprimanded.",
+  "snippet": "Can this Can this defense state alternative possible causes of death? Sure. Sure. They would have to have um a good faith basis to do so or they would be reprimanded.",
+  "mentions": [
+   "N-1",
+   "N-40"
+  ],
+  "mentions_new": [],
+  "relevance": "context",
+  "responds_to_host": false
  }
 ]
