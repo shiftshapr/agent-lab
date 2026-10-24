@@ -975,6 +975,8 @@ Mentions: N-40
 
 Related Nodes: N-10315
 
+Verification: corroborated
+Verification Evidence: S-119
 Investigative Direction: Obtain the official docket entry and any released court transcript for the December 11, 2025 hearing; verify demeanor observation against available footage.
 
 ---

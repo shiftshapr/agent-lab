@@ -1,9 +1,12 @@
 {
-  "note": "ROADMAP 4.2 external monitors, polled by scripts/daily/monitors.py in the daily pipeline. Alerts are leads, never evidence: a news item becomes a source only after Daveed approves it (as for Tier 2), and court calendar entries are scheduling data only.",
+  "note": "ROADMAP 4.2 external monitors, polled by scripts/daily/monitors.py in the daily pipeline. Commentator videos are candidates for the commentary series (ROADMAP 4.1b), added only with Daveed's approval. Alerts are leads, never evidence: a news item becomes a source only after Daveed approves it (as for Tier 2), and court calendar entries are scheduling data only.",
   "court_calendar": {
     "url": "https://legacy.utcourts.gov/cal/search.php?t=c&c={case}&d=all&loc=all",
     "cases": [
-      {"case": "251403576", "title": "State of Utah v. Tyler James Robinson (Fourth District, Utah County)"}
+      {
+        "case": "251403576",
+        "title": "State of Utah v. Tyler James Robinson (Fourth District, Utah County)"
+      }
     ]
   },
   "news": {
@@ -20,10 +23,101 @@
       "\"Utah Valley University\" Kirk security"
     ],
     "tier2_domains": [
-      "apnews.com", "reuters.com", "nytimes.com", "wsj.com", "washingtonpost.com", "usatoday.com", "latimes.com",
-      "nbcnews.com", "cbsnews.com", "abcnews.com", "abcnews.go.com", "cnn.com", "foxnews.com", "npr.org", "pbs.org",
-      "bbc.com", "bbc.co.uk", "deseret.com", "sltrib.com", "ksl.com", "kutv.com", "fox13now.com", "abc4.com",
+      "apnews.com",
+      "reuters.com",
+      "nytimes.com",
+      "wsj.com",
+      "washingtonpost.com",
+      "usatoday.com",
+      "latimes.com",
+      "nbcnews.com",
+      "cbsnews.com",
+      "abcnews.com",
+      "abcnews.go.com",
+      "cnn.com",
+      "foxnews.com",
+      "npr.org",
+      "pbs.org",
+      "bbc.com",
+      "bbc.co.uk",
+      "deseret.com",
+      "sltrib.com",
+      "ksl.com",
+      "kutv.com",
+      "fox13now.com",
+      "abc4.com",
       "heraldextra.com"
+    ]
+  },
+  "youtube": {
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}",
+    "keywords": [
+      "kirk",
+      "candace",
+      "owens",
+      "robinson",
+      "erika",
+      "harpole",
+      "turek",
+      "twiggs",
+      "uvu",
+      "utah valley",
+      "turning point",
+      "tpusa",
+      "assassin",
+      "shooting",
+      "conspiracy",
+      "trial"
+    ],
+    "channels": [
+      {
+        "name": "Charlie Kirk (The Charlie Kirk Show)",
+        "channel_id": "UCfaIu2jO-fppCQV_lchCRIQ",
+        "speakers": "Andrew Kolvet, Blake Neff",
+        "filter": true
+      },
+      {
+        "name": "Real America's Voice",
+        "channel_id": "UCMGZ8pfQHgZ6Yj0-92PMENg",
+        "speakers": "Charlie Kirk Show segments",
+        "filter": true
+      },
+      {
+        "name": "Turning Point USA",
+        "channel_id": "UCVrK_pMRp_q8IelpfUCTGLQ",
+        "speakers": "Erika Kirk, TPUSA",
+        "filter": true
+      },
+      {
+        "name": "Baron Coleman",
+        "channel_id": "UCkEowWfq-LO_3EEYYzKoSoA",
+        "speakers": "Baron Coleman",
+        "filter": false
+      },
+      {
+        "name": "Cross Examined",
+        "channel_id": "UCedYGs_lqq1uNet0u7qlSyQ",
+        "speakers": "Frank Turek",
+        "filter": true
+      },
+      {
+        "name": "Shawn Ryan Show",
+        "channel_id": "UCkoujZQZatbqy4KGcgjpVxQ",
+        "speakers": "Brian Harpole and others",
+        "filter": true
+      },
+      {
+        "name": "Paramount Tactical",
+        "channel_id": "UCWCLMT5T_ondX8VyCdCjOLQ",
+        "speakers": "Gary Melton, Brian Harpole",
+        "filter": true
+      },
+      {
+        "name": "Megyn Kelly",
+        "channel_id": "UCzJXNzqz6VMHSNInQt_7q6w",
+        "speakers": "guests incl. Erika Kirk, Frank Turek",
+        "filter": true
+      }
     ]
   }
 }

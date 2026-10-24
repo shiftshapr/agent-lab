@@ -111,7 +111,8 @@ new questions in the audit README.
    post that contradicts or walks back an archived claim as a review item, with its URL.
 
 ## M. Monitor alerts (ROADMAP 4.2)
-`monitors.py` has already polled the Utah court calendar and Google News (`config/monitors.json`), written the new
+`monitors.py` has already polled the Utah court calendar, Google News and the commentators' YouTube channels
+(`config/monitors.json`), written the new
 alerts to `WORK/monitor_alerts.json` and appended them to `ledger/monitor_alerts.json` with `status: "new"`. Alerts
 are leads, never evidence. Do not download any article.
 1. Triage every new alert in `ledger/monitor_alerts.json` (one Opus subagent per 80 alerts if there are many):
@@ -120,11 +121,16 @@ are leads, never evidence. Do not download any article.
    - for triaged items set `triage` to one short sentence: what is new, and the open question ids it bears on
      (`ledger/open_questions.json`), if any;
    - **court calendar** entries: say what hearing is scheduled; a new or changed hearing is a review item.
+   - **commentator videos** (`kind: youtube`): triage when the title shows the speaker discussing the case, and set
+     `candidate: true` when it is a substantive, long-form discussion by a commentary-series speaker (4.1b). Ignore
+     unrelated topics and short clips of material already in `commentary/episodes.json`.
 2. Re-render: `python3 projects/monuments/cka/scripts/daily/monitors.py WORK --render`.
 3. In the summary, list as review items:
    - every new court calendar entry;
    - triaged **Tier 2** news that reports something new about the case, as candidates for Daveed's approval. Only
-     after he approves are they added to the `tier2-reporting` stream and fetched (`scripts/sources/fetch.py`).
+     after he approves are they added to the `tier2-reporting` stream and fetched (`scripts/sources/fetch.py`);
+   - candidate **commentator videos**, for Daveed's approval before they are added to the commentary series
+     (`scripts/commentary/fetch.py`, then extraction and linking as in `audits/commentators_2026-10-23/`).
 4. Commit the ledger with the rest of the run. A run with only monitor alerts uses the commit message
    `CKA daily <date>: monitor alerts` and the same PR and merge rules.
 

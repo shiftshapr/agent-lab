@@ -3,7 +3,9 @@
 
 Polls the sources in config/monitors.json:
 - the Utah court calendar for each tracked case (public; hearings in the next ~30 days);
-- Google News RSS for each query, keeping items from the last `days` days and marking Tier 2 outlets.
+- Google News RSS for each query, keeping items from the last `days` days and marking Tier 2 outlets;
+- YouTube channel feeds of the commentators (ROADMAP 4.1b), keeping videos from the last 14 days whose titles match
+  the case keywords (or every video, for a channel with `filter: false`).
 Alerts already seen (state in ~/agent-lab-data/cka_monitor/seen.json, kept outside the repo) are skipped. New alerts
 are written to WORK/monitor_alerts.json and appended to ledger/monitor_alerts.json (rendered to .md). Alerts are
 leads, never evidence; nothing is downloaded beyond the listing pages.
@@ -85,13 +87,57 @@ def news(conf: dict) -> list[dict]:
     return out
 
 
+def youtube(conf: dict) -> list[dict]:
+    ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
+    kw = [k.lower() for k in conf["keywords"]]
+    since = (dt.date.today() - dt.timedelta(days=conf.get("days", 14))).isoformat()
+    out = []
+    for ch in conf["channels"]:
+        root = ET.fromstring(get(conf["url"].format(channel_id=ch["channel_id"])))
+        for e in root.findall("a:entry", ns):
+            vid, title = e.findtext("yt:videoId", namespaces=ns), e.findtext("a:title", namespaces=ns) or ""
+            date = (e.findtext("a:published", namespaces=ns) or "")[:10]
+            if date < since or (ch["filter"] and not any(k in title.lower() for k in kw)):
+                continue
+            out.append({"kind": "youtube", "id": key("yt", vid), "date": date, "channel": ch["name"],
+                        "speakers": ch["speakers"], "title": title, "url": f"https://www.youtube.com/watch?v={vid}",
+                        "video_id": vid})
+    return out
+
+
+def resolve(url: str) -> str:
+    """Turn a Google News RSS article link into the publisher's URL (Google's batchexecute "garturlreq" call).
+    Returns the input unchanged if it is not a Google News link or cannot be resolved."""
+    if "news.google.com/rss/articles/" not in url:
+        return url
+    try:
+        gid = url.split("/articles/")[1].split("?")[0]
+        page = get(f"https://news.google.com/rss/articles/{gid}")
+        sg = re.search(r'data-n-a-sg="([^"]+)"', page)[1]
+        ts = re.search(r'data-n-a-ts="([^"]+)"', page)[1]
+        inner = (f'["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],'
+                 f'"X","X",1,[1,1,1],1,1,null,0,0,null,0],"{gid}",{ts},"{sg}"]')
+        body = urllib.parse.urlencode({"f.req": json.dumps([[["Fbv4je", inner, None, "generic"]]])}).encode()
+        req = urllib.request.Request("https://news.google.com/_/DotsSplashUi/data/batchexecute", data=body,
+                                     headers={**UA, "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            out = r.read().decode()
+        real = json.loads(json.loads(out.split("\n\n")[1])[0][2])[1]
+        return real if real.startswith("http") else url
+    except Exception:
+        return url
+
+
 def render(alerts: list[dict]) -> str:
     md = ["# Monitor alerts (ROADMAP 4.2)", "",
           "Leads from `scripts/daily/monitors.py`, newest first. They are never evidence: a news item becomes a source "
           "only after Daveed approves it, and court calendar entries are scheduling data. `status` is set at triage "
           "(new → triaged / approved / ignored).", ""]
     for a in sorted(alerts, key=lambda a: (a.get("seen"), a.get("date") or ""), reverse=True):
-        if a["kind"] == "court_calendar":
+        if a["kind"] == "youtube":
+            md.append(f"- {a['seen']} · **video** · {a['channel']} ({a['speakers']}) · {a.get('date') or ''} · [{a['title']}]({a['url']})"
+                      f" · {a.get('status', 'new')}{' · ' + a['triage'] if a.get('triage') else ''}")
+        elif a["kind"] == "court_calendar":
             md.append(f"- {a['seen']} · **court calendar** · {a['title']}: {a['entry']} · [search]({a['url']}) · {a.get('status', 'new')}")
         else:
             tier = "Tier 2" if a["tier2"] else "other"
@@ -113,22 +159,27 @@ def main() -> int:
     conf = json.loads(CONF.read_text())
     seen = set(json.loads(a.state.read_text())) if a.state.exists() else set()
     found, errors = [], []
-    for name, fn, c in (("court calendar", court, conf["court_calendar"]), ("news", news, conf["news"])):
+    for name, fn, c in (("court calendar", court, conf["court_calendar"]), ("news", news, conf["news"]),
+                         ("youtube", youtube, conf["youtube"])):
         try:
             found += fn(c)
         except Exception as e:  # one failing source must not stop the others
             errors.append(f"{name}: {type(e).__name__}: {e}")
     today = dt.date.today().isoformat()
     new = [dict(x, seen=today, status="new") for x in found if x["id"] not in seen]
+    for x in new:  # Tier 2 items may become sources: store the publisher's URL, not the Google News wrapper
+        if x.get("tier2"):
+            x["url"] = resolve(x["url"])
     print(f"monitors: {len(found)} items, {len(new)} new "
           f"({sum(1 for x in new if x['kind'] == 'court_calendar')} court, "
           f"{sum(1 for x in new if x.get('tier2'))} Tier 2 news, "
-          f"{sum(1 for x in new if x['kind'] == 'news' and not x['tier2'])} other news)")
+          f"{sum(1 for x in new if x['kind'] == 'news' and not x['tier2'])} other news, "
+          f"{sum(1 for x in new if x['kind'] == 'youtube')} commentator videos)")
     for e in errors:
         print("  source failed:", e)
     if a.dry_run:
         for x in new[:20]:
-            print("  ", x.get("outlet", "court"), "|", x.get("title") or x.get("entry"))
+            print("  ", x.get("outlet") or x.get("channel") or "court", "|", x.get("title") or x.get("entry"))
         return 0 if new else 3
     if not new:
         return 1 if errors and not found else 3
