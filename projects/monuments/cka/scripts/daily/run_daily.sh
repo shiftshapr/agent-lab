@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # CKA daily pipeline launcher (ROADMAP 1.4). Run by launchd Mon–Fri 16:00 PT, or by hand.
 # 1. Refreshes the dedicated daily worktree to a fresh branch from origin/main.
-# 2. Runs intake.py (new episodes -> transcripts, manifest, skeleton drafts, extraction pack).
+# 2. Runs intake.py (new episodes -> transcripts, manifest, skeleton drafts, extraction pack), tweets_intake.py and
+#    monitors.py (court calendar and news alerts, ROADMAP 4.2).
 # 3. If there is anything new, runs a headless Claude Code session on docs/daily/RUNBOOK.md.
 # 4. Stores the session's final message in WORK/summary.md and shows a macOS notification.
 # Usage: run_daily.sh [--intake-only]
@@ -39,12 +40,17 @@ python3 projects/monuments/cka/scripts/daily/intake.py "$WORK"
 rc=$?
 python3 projects/monuments/cka/scripts/daily/tweets_intake.py "$WORK"
 trc=$?
+python3 projects/monuments/cka/scripts/daily/monitors.py "$WORK"
+mrc=$?
 set -e
 if [[ $rc -ne 0 && $rc -ne 3 ]] || [[ $trc -ne 0 && $trc -ne 3 ]]; then
   osascript -e 'display notification "CKA daily: intake failed; see run.log" with title "CKA daily"' || true
   [[ $rc -ne 0 && $rc -ne 3 ]] && exit $rc
 fi
-if [[ $rc -ne 0 && $trc -ne 0 ]]; then
+if [[ $mrc -ne 0 && $mrc -ne 3 ]]; then
+  osascript -e 'display notification "CKA daily: monitors failed; see run.log" with title "CKA daily"' || true
+fi
+if [[ $rc -ne 0 && $trc -ne 0 && $mrc -ne 0 ]]; then
   echo "nothing new"
   git checkout -q -- . 2>/dev/null || true
   exit 0
@@ -54,6 +60,7 @@ fi
 STEPS=""
 [[ $rc -eq 0 ]] && STEPS="episodes (steps 1-5; new episodes are in $WORK/new_episodes.json)"
 [[ $trc -eq 0 ]] && STEPS="${STEPS:+$STEPS, then }tweets (step T; the pack is $WORK/tweets_pack)"
+[[ $mrc -eq 0 ]] && STEPS="${STEPS:+$STEPS, then }monitor alerts (step M; new alerts are in $WORK/monitor_alerts.json)"
 PROMPT="You are running the CKA daily pipeline unattended. REPO=$REPO WORK=$WORK DATE=$DATE.
 Follow $REPO/projects/monuments/cka/docs/daily/RUNBOOK.md exactly for: $STEPS.
 Use Opus for every subagent. Merge the PR only when the gates check is green. End with the summary described in step 6."
