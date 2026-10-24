@@ -1,0 +1,29 @@
+{
+  "note": "ROADMAP 4.2 external monitors, polled by scripts/daily/monitors.py in the daily pipeline. Alerts are leads, never evidence: a news item becomes a source only after Daveed approves it (as for Tier 2), and court calendar entries are scheduling data only.",
+  "court_calendar": {
+    "url": "https://legacy.utcourts.gov/cal/search.php?t=c&c={case}&d=all&loc=all",
+    "cases": [
+      {"case": "251403576", "title": "State of Utah v. Tyler James Robinson (Fourth District, Utah County)"}
+    ]
+  },
+  "news": {
+    "url": "https://news.google.com/rss/search?q={q}+when:{days}d&hl=en-US&gl=US&ceid=US:en",
+    "days": 3,
+    "queries": [
+      "\"Tyler Robinson\" Kirk",
+      "\"Charlie Kirk\" assassination investigation",
+      "\"Erika Kirk\"",
+      "\"Turning Point USA\" Kirk shooting",
+      "\"Candace Owens\" Kirk",
+      "\"Brian Harpole\"",
+      "\"Lance Twiggs\"",
+      "\"Utah Valley University\" Kirk security"
+    ],
+    "tier2_domains": [
+      "apnews.com", "reuters.com", "nytimes.com", "wsj.com", "washingtonpost.com", "usatoday.com", "latimes.com",
+      "nbcnews.com", "cbsnews.com", "abcnews.com", "abcnews.go.com", "cnn.com", "foxnews.com", "npr.org", "pbs.org",
+      "bbc.com", "bbc.co.uk", "deseret.com", "sltrib.com", "ksl.com", "kutv.com", "fox13now.com", "abc4.com",
+      "heraldextra.com"
+    ]
+  }
+}

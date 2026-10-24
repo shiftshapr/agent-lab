@@ -110,6 +110,24 @@ new questions in the audit README.
 3. In the audit README, add a short tweets section: posts added, linked to claims, nodes only, and unlinked. Add any
    post that contradicts or walks back an archived claim as a review item, with its URL.
 
+## M. Monitor alerts (ROADMAP 4.2)
+`monitors.py` has already polled the Utah court calendar and Google News (`config/monitors.json`), written the new
+alerts to `WORK/monitor_alerts.json` and appended them to `ledger/monitor_alerts.json` with `status: "new"`. Alerts
+are leads, never evidence. Do not download any article.
+1. Triage every new alert in `ledger/monitor_alerts.json` (one Opus subagent per 80 alerts if there are many):
+   - set `status` to `triaged` when it bears on the case, or `ignored` when it is off-topic (another "Kirk", unrelated
+     politics, a duplicate wire copy);
+   - for triaged items set `triage` to one short sentence: what is new, and the open question ids it bears on
+     (`ledger/open_questions.json`), if any;
+   - **court calendar** entries: say what hearing is scheduled; a new or changed hearing is a review item.
+2. Re-render: `python3 projects/monuments/cka/scripts/daily/monitors.py WORK --render`.
+3. In the summary, list as review items:
+   - every new court calendar entry;
+   - triaged **Tier 2** news that reports something new about the case, as candidates for Daveed's approval. Only
+     after he approves are they added to the `tier2-reporting` stream and fetched (`scripts/sources/fetch.py`).
+4. Commit the ledger with the rest of the run. A run with only monitor alerts uses the commit message
+   `CKA daily <date>: monitor alerts` and the same PR and merge rules.
+
 ## 5. Record, PR, merge
 1. Write `projects/monuments/cka/audits/daily_<YYYY-MM-DD>/README.md`, modelled on
    `audits/catchup_2026-10-19/README.md`:
@@ -136,9 +154,8 @@ new questions in the audit README.
 
    Otherwise leave the PR open and put "Waiting for Daveed: <reason>" at the top of the summary. If the check fails,
    fix it, push and wait again; if you cannot fix it, leave the PR open and say why.
-   when green. If it fails, fix it, push, and wait again. If you cannot fix it, leave the PR open and say why.
 
 ## 6. Notify
-End with a short final message: episodes added, claims, intake material rate, PR link and merge state, and the
+End with a short final message: episodes added, claims, monitor alerts (new, triaged, Tier 2 candidates, court entries), intake material rate, PR link and merge state, and the
 review items (text + timestamped link). The launcher stores it in `WORK/summary.md` and sends Daveed a
 notification.
